@@ -50,6 +50,11 @@
    "Lucretius, De Rerum Natura, with an English translation (Loeb Classical Library; London: Heinemann, New York: Putnam, 1924; Latin facing)",
    "Text-Lucretius-Rouse_djvu.txt",
    "tr. W. H. D. Rouse"
+  ],
+  "lucretius-anon-prose-1743-v1": [
+   "tlucretiuscaruso00lucr",
+   "T. Lucretius Carus of the Nature of Things, in six books, with notes and plates engraved by Guernier and others, vol. I: Books I-III (London: Daniel Browne, MDCCXLIII; Latin facing)",
+   "tr. anonymous (English prose)"
   ]
  },
  "_cross_ref": {
@@ -185,6 +190,17 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null,
    "rights_override": "Title page read: 'LONDON: WILLIAM HEINEMANN / NEW YORK: G. P. PUTNAM'S SONS / MCMXXIV', series editors Capps, Page and Rouse; no reprint or revision line, and nothing in the front matter later than 1921. The 1924 first printing, before the 1937 revision. IA records no date."
+  },
+  "lucretius-anon-prose-1743-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1743",
+   "ia_date": "1743",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_perseus_checks": {
@@ -218,5 +234,8 @@
   "attribution": "Perseus Digital Library, Tufts University",
   "share_alike": true,
   "redistribute_whole": false
+ },
+ "_translator_unchecked": {
+  "lucretius-anon-prose-1743-v1": "the title page names no translator (the plates are 'engraved by Guernier and others'); anonymous prose translation"
  }
 }
