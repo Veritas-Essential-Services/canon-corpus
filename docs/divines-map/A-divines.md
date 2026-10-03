@@ -1157,3 +1157,12 @@ No CCEL or Gutenberg text. Raw IA OCR from New York Public Library scans; slugs 
 |---|---|---|
 | Works, 2 vols (Boston: Doctrinal Tract and Book Society, 1853, with a memoir): True Religion Delineated, the Wisdom of God in the Permission of Sin, the Theron, Paulinus and Aspasio dialogues, sermons | have-raw | IA (identifiers in the shelf) |
 | New York Works (1811); 18th-century printings | alternate | IA |
+
+## Thomas Vincent (round 7, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR; slugs `tvincent-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| An Explanation of the Assembly's Shorter Catechism (1854); Christ's Sudden and Certain Appearance to Judgment (1823); God's Terrible Voice in the City (1811); The True Christian's Love of the Unseen Christ (1701) | have-raw | IA (identifiers in the shelf) |
+| Other editions (1668-1840) | alternate | IA |

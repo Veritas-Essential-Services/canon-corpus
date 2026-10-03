@@ -729,10 +729,13 @@
     },
     {
       "id": "thomas-vincent",
-      "status": "todo",
+      "status": "done",
       "scope": "Thomas Vincent: Shorter Catechism Explained and other works (d. 1678)",
       "added": "2026-10-02T20:58:28-05:00",
-      "added_by": "lane A worker, round 7 (round 6 done at 20:58 CDT with ten hours left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+      "added_by": "lane A worker, round 7 (round 6 done at 20:58 CDT with ten hours left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)",
+      "started": "2026-10-02T21:19:01-05:00",
+      "finished": "2026-10-02T21:21:18-05:00",
+      "notes": "4 IA"
     },
     {
       "id": "henry-smith",
