@@ -2581,6 +2581,15 @@ Shelf: `pipeline/borrow_shelf.json` (2026-10-02; added at the coordinator's rela
 |---|---|---|
 | The Turkish Jester | have | PG 16244, `borrow-turkish-jester` (115 units) |
 
+## E. Pauline Johnson
+
+Shelf: `pipeline/pauline-johnson_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Squamish legends Chief Joe Capilano told her, in her retelling; cut by legend. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Legends of Vancouver | have | PG 28483, `pauline-legends-of-vancouver` (466 units) |
+| pauline-legends-of-vancouver-3478 | excluded | PG 3478, an undated Gutenberg transcription of Legends of Vancouver: checked 2026-10-03, 332 of its 360 long paragraphs (92%) are in PG 28483 (copyright 1911, 1913 printing), which is kept as the dated edition; held once |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

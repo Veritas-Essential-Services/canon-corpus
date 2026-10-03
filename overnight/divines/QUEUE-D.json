@@ -1549,6 +1549,80 @@
       "started": "2026-10-03T02:27:06-05:00",
       "finished": "2026-10-03T02:37:25-05:00",
       "notes": "1/1 fetched (Gutenberg 16244), 115 units, 0 ~2 ids."
+    },
+    {
+      "id": "pauline-johnson",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: pauline-johnson; no minting",
+      "status": "done",
+      "started": "2026-10-03T02:50:54-05:00",
+      "finished": "2026-10-03T02:50:54-05:00",
+      "notes": "1/1 fetched (Gutenberg 28483), 466 units, 0 ~2 ids."
+    },
+    {
+      "id": "leamy",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: leamy; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:50:54-05:00"
+    },
+    {
+      "id": "basil-chamberlain",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: basil-chamberlain; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:50:54-05:00"
+    },
+    {
+      "id": "cyrus-macmillan",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: cyrus-macmillan; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:50:54-05:00"
+    },
+    {
+      "id": "werner",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: werner; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:50:54-05:00"
+    },
+    {
+      "id": "sikes",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: sikes; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:50:54-05:00"
+    },
+    {
+      "id": "tregarthen",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: tregarthen; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:50:54-05:00"
+    },
+    {
+      "id": "ebbutt",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: ebbutt; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:50:54-05:00"
+    },
+    {
+      "id": "maurice-baring",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: maurice-baring; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:50:54-05:00"
+    },
+    {
+      "id": "evelyn-sharp",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: evelyn-sharp; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:50:54-05:00"
+    },
+    {
+      "id": "mr-james",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: mr-james; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:50:54-05:00"
+    },
+    {
+      "id": "macgowan",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: macgowan; no minting",
+      "status": "running",
+      "started": "2026-10-03T02:50:54-05:00"
     }
   ]
 }
