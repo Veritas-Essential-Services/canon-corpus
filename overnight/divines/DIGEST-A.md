@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 05:58 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 06:00 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -240,6 +240,7 @@ Round 11 was done by 02:42 CDT on 3 October. Round 12 turns to later 19th-centur
 | D. L. Moody | d-l-moody_shelf.json | 1 CCEL (Anecdotes, Rhodes & McClure 1899) + 10 Gutenberg (sermons and addresses; none marked COPYRIGHTED) | none | none | none |
 | George Müller | george-muller_shelf.json | 5 Gutenberg (Narrative parts 1-4; Answers to Prayer, compiled by A. E. C. Brooks) | none | none | Life of Trust (Wayland abridgement) left out as a second copy |
 | C. H. Mackintosh | c-h-mackintosh_shelf.json | 12 Gutenberg (Notes on the Pentateuch, 6 vols; Miscellaneous Writings, 6 vols) | none | none | none |
+| Phillips Brooks | phillips-brooks_shelf.json | 4 IA (Lectures on Preaching 1877; Sermons first series, catalogued 1878; New Starts in Life 1896; Seeking Life 1904) + 1 Gutenberg (Addresses) | Purpose and Use of Comfort (IA HTTP 500) | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

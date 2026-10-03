@@ -1993,6 +1993,16 @@ Slugs `mackintosh-*`.
 |---|---|---|
 | Notes on Genesis, Exodus, Leviticus, Numbers, Deuteronomy (2 vols) | have-clean | Gutenberg |
 | Miscellaneous Writings, vols. I-VI | have-clean | Gutenberg |
+
+## Phillips Brooks (round 12, my pick, 2026-10-03)
+
+Slugs `pbrooks-*` (Thomas Brooks has the `brooks-*` slugs). Name forms are full forms only.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on Preaching (1877); Sermons, first series (catalogued 1878); New Starts in Life (8th series, 1896); Seeking Life (10th series, 1904) | have-ocr | IA, OCR 97.7-99.4% |
+| Addresses | have-clean | Gutenberg 14497 |
+| The Purpose and Use of Comfort (1906) | pending | IA HTTP 500 |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

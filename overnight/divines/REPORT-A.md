@@ -577,3 +577,6 @@
 
 ## 2026-10-03 05:58 CDT — c-h-mackintosh done
 - `pipeline/c-h-mackintosh_shelf.json`: 12 Gutenberg texts, none marked COPYRIGHTED. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 06:00 CDT — phillips-brooks done
+- `pipeline/phillips-brooks_shelf.json`: 4 IA + 1 Gutenberg, title pages read. `--verify --record`: 0 mismatched. OCR 99.1% mean. 0 uids minted.

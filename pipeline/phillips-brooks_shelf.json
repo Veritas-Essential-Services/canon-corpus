@@ -1,0 +1,97 @@
+{
+ "_about": "Public-domain Phillips Brooks (1835-1893, rector of Trinity Church, Boston, then Episcopal Bishop of Massachusetts) for the Word Hoard: the Yale Lectures on Preaching (1877) and three volumes of his sermons (first series, catalogued 1878; eighth series, New Starts in Life, 1896; tenth series, Seeking Life, 1904) as raw Internet Archive OCR, and his Addresses clean from Project Gutenberg (rights line checked by the fetcher). Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "brooks",
+  "phillips"
+ ],
+ "_surname": [
+  "phillips brooks",
+  "brooks, phillips"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "pbrooks-addresses": [
+   "14497",
+   "Addresses by the Right Reverend Phillips Brooks"
+  ]
+ },
+ "internet_archive": {
+  "pbrooks-lectures-preaching-1877": [
+   "lecturesonpreach00broo",
+   "Lectures on Preaching, delivered before the Divinity School of Yale College in January and February, 1877 (New York: E. P. Dutton, 1877)"
+  ],
+  "pbrooks-sermons-1": [
+   "sermons00broo",
+   "Sermons (first series; New York: E. P. Dutton; no date on the title page, catalogued 1878)"
+  ],
+  "pbrooks-new-starts-1896": [
+   "newstartsinlif00broo",
+   "New Starts in Life, and Other Sermons, eighth series (New York: E. P. Dutton, 1896)"
+  ],
+  "pbrooks-seeking-life-1904": [
+   "seekinglifeando00broouoft",
+   "Seeking Life, and Other Sermons, tenth series (New York: E. P. Dutton, 1904)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_pending": {
+  "pbrooks-purpose-of-comfort": "The Purpose and Use of Comfort, and Other Sermons (Dutton, 1906): IA purposeuseof00broo returned HTTP 500 on 2026-10-03; retry"
+ },
+ "_checks": {
+  "pbrooks-addresses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "phillips brooks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pbrooks-lectures-preaching-1877": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "phillips brooks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pbrooks-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "phillips brooks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pbrooks-new-starts-1896": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "phillips brooks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pbrooks-seeking-life-1904": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "phillips brooks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
