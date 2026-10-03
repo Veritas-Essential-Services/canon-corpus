@@ -1,0 +1,46 @@
+{
+ "_about": "Korean Tales (1889), translated from Korean folk lore by Horace Newton Allen (1858-1932), the American missionary and diplomat. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Horace Newton Allen",
+ "_name_words": [
+  "allen"
+ ],
+ "_surname": [
+  "allen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "horace-allen-korean-tales": [
+   55539,
+   "Korean Tales",
+   {
+    "levels": [
+     {
+      "re": "(?!(?:[IVX]+|PRELUDE)\\.$)(?!THE END\\.?$)(?=[^a-z]*[A-Z]{3})[^a-z]{3,88}$",
+      "title_next": true
+     },
+     {
+      "re": "(?:[IVX]+|PRELUDE)\\.$"
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "horace-allen-korean-tales": "Allen"
+ },
+ "_checks": {
+  "horace-allen-korean-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "allen",
+   "translator_claimed": "Allen",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
