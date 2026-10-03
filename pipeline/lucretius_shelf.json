@@ -44,6 +44,12 @@
    "natureofthingsdi02lucr",
    "The Nature of Things: a didactic poem, vol. II (London 1805)",
    "tr. John Mason Good"
+  ],
+  "lucretius-rouse-loeb-1924": [
+   "text-lucretius-rouse",
+   "Lucretius, De Rerum Natura, with an English translation (Loeb Classical Library; London: Heinemann, New York: Putnam, 1924; Latin facing)",
+   "Text-Lucretius-Rouse_djvu.txt",
+   "tr. W. H. D. Rouse"
   ]
  },
  "_cross_ref": {
@@ -72,7 +78,8 @@
   "lucretius-creech-v2": "Thomas Creech",
   "lucretius-perseus-leonard-de-rerum-natura": "William Ellery Leonard",
   "lucretius-good-1805-v1": "John Mason Good",
-  "lucretius-good-1805-v2": "John Mason Good"
+  "lucretius-good-1805-v2": "John Mason Good",
+  "lucretius-rouse-loeb-1924": "W. H. D. Rouse"
  },
  "_checks": {
   "lucretius-trevelyan-selections": {
@@ -164,6 +171,20 @@
    "ia_date": "1805",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "lucretius-rouse-loeb-1924": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "translator_claimed": "W. H. D. Rouse",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read: 'LONDON: WILLIAM HEINEMANN / NEW YORK: G. P. PUTNAM'S SONS / MCMXXIV', series editors Capps, Page and Rouse; no reprint or revision line, and nothing in the front matter later than 1921. The 1924 first printing, before the 1937 revision. IA records no date."
   }
  },
  "_perseus_checks": {
@@ -180,5 +201,8 @@
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   }
+ },
+ "_rights_checked": {
+  "lucretius-rouse-loeb-1924": "Title page read: 'LONDON: WILLIAM HEINEMANN / NEW YORK: G. P. PUTNAM'S SONS / MCMXXIV', series editors Capps, Page and Rouse; no reprint or revision line, and nothing in the front matter later than 1921. The 1924 first printing, before the 1937 revision. IA records no date."
  }
 }
