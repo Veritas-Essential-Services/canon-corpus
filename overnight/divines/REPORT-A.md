@@ -626,3 +626,6 @@
 
 ## 2026-10-03 06:48 CDT — gilbert-tennent done
 - `pipeline/gilbert-tennent_shelf.json`: 2 IA volumes, title pages read. `--verify --record`: 0 mismatched. OCR 83.8% (long s). 0 uids minted.
+
+## 2026-10-03 06:48 CDT — lyman-beecher done
+- `pipeline/lyman-beecher_shelf.json`: 4 IA volumes. `--verify --record`: 0 mismatched. OCR 98.5%. 0 uids minted.

@@ -2113,6 +2113,15 @@ Slugs `tennent-*`.
 | Work | Status | Where |
 |---|---|---|
 | Twenty-three Sermons (Philadelphia, 1744); Irenicum Ecclesiasticum (1749) | have-raw | IA, OCR 81-87% (long s) |
+
+## Lyman Beecher (round 13, my pick, 2026-10-03)
+
+Slugs `lbeecher-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Beecher's Works, 3 vols (Jewett, 1852); A Plea for the West (2nd ed.) | have-ocr | IA, OCR 97-99% |
+| Autobiography and Correspondence, ed. Charles Beecher (1864) | alternate | IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
