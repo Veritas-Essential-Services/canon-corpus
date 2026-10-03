@@ -1,0 +1,23 @@
+{
+ "_about": "Parker Fillmore's (1878-1944) Czech and Slovak folk tales retold in English from the Erben and Němcová collections: Czechoslovak Fairy Tales (1919) and The Shoemaker's Apron (1920). Published before 1929: US public domain; clean Gutenberg text. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Parker Fillmore",
+ "_name_words": [
+  "czechoslovak",
+  "fairy",
+  "shoemaker",
+  "apron"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fillmore-czechoslovak-fairy-tales": [
+   32217,
+   "Czechoslovak Fairy Tales, retold by Parker Fillmore (1919)"
+  ],
+  "fillmore-shoemakers-apron": [
+   33002,
+   "The Shoemaker's Apron: A Second Book of Czechoslovak Fairy Tales and Folk Tales (1920)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {}
+}
