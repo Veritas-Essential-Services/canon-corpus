@@ -81,3 +81,6 @@
 
 ## 2026-10-03T00:51-05:00 — round 7: seven shelves (southey, coleridge, bowring, anster, hayward, wicksteed, mangan) + lane A guard
 - 15 sources, 0 failed after fixes (one IA mislabel, Blackie as Anster, replaced; three recorded identity overrides). 12 titles cut. `--verify --record` across all 43 lane C shelves under e1ef08b: 0 mismatched, 0 rights flags. Coordinator's suggested list was entirely held already (lanes B, C, D).
+
+## 2026-10-03T01:20-05:00 — split_shelf_titles.py --help (reviewer finding)
+- `-h`/`--help` now print the docstring and exit 0 instead of being read as a shelf name (FileNotFoundError). Two checks added: tests/split_shelf_titles_test.py 12 passed.

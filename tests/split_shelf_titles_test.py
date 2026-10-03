@@ -81,6 +81,11 @@ code, out, rep = run(root)
 check("a title held elsewhere exits 0 and leaves no file of its own",
       code == 0 and not os.path.exists(cut) and rep["t-first"]["status"] == "held-elsewhere")
 check("no temp file is left behind", not any(f.endswith(".tmp") for f in os.listdir(out)))
+for flag in ("--help", "-h"):
+    r = subprocess.run([sys.executable, os.path.join(root, "pipeline", "split_shelf_titles.py"), flag],
+                       capture_output=True, text=True)
+    check(f"{flag} prints the usage and exits 0, not read as a shelf name",
+          r.returncode == 0 and "split_shelf_titles.py <shelf>" in r.stdout and "Traceback" not in r.stderr)
 shutil.rmtree(root)
 
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
