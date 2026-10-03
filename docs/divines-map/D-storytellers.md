@@ -2836,6 +2836,16 @@ Shelf: `pipeline/aldrich_shelf.json` (2026-10-02; added at the coordinator's rel
 |---|---|---|
 | The Story of a Bad Boy | have | PG 1948, `aldrich-story-of-a-bad-boy` (998 units) |
 
+## Ernest Thompson Seton
+
+Shelf: `pipeline/seton_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Animal stories from his own observation; cut by story and numbered section. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Wild Animals I Have Known | have | PG 3031, `seton-wild-animals-i-have-known` (678 units) |
+| The Biography of a Grizzly | have | PG 9330, `seton-biography-of-a-grizzly` (203 units) |
+| Johnny Bear, and Other Stories from Lives of the Hunted | have | PG 9333, `seton-johnny-bear` (311 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

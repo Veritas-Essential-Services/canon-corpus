@@ -1,0 +1,95 @@
+{
+ "_about": "Ernest Thompson Seton's animal stories: Wild Animals I Have Known (undated in the text), The Biography of a Grizzly (1899; the title page signs him Ernest Seton-Thompson) and Johnny Bear, and Other Stories from Lives of the Hunted (a selection from that book; undated in the text). Gutenberg's second Grizzly (PG 25023) is not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Ernest Thompson Seton",
+ "_name_words": [
+  "seton"
+ ],
+ "_surname": [
+  "ernest thompson seton",
+  "ernest seton-thompson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "seton-wild-animals-i-have-known": [
+   3031,
+   "Wild Animals I Have Known",
+   {
+    "levels": [
+     {
+      "re": "[A-Z]{3,}[A-Z ]*, The [A-Z].*$|THE SPRINGFIELD FOX$|THE PACING MUSTANG$"
+     },
+     {
+      "re": "[IVX]+$"
+     }
+    ],
+    "start": "LOBO, The King",
+    "front": true
+   }
+  ],
+  "seton-biography-of-a-grizzly": [
+   9330,
+   "The Biography of a Grizzly",
+   {
+    "levels": [
+     {
+      "re": "PART [IVX]+\\.?$",
+      "strip": "\\.$"
+     },
+     {
+      "re": "[IVX]+\\.$"
+     }
+    ],
+    "start": "PART I$",
+    "front": true
+   }
+  ],
+  "seton-johnny-bear": [
+   9333,
+   "Johnny Bear, and Other Stories from Lives of the Hunted",
+   {
+    "levels": [
+     {
+      "re": "TITO THE STORY OF THE COYOTE THAT LEARNED HOW$|WHY THE CHICKADEE GOES CRAZY ONCE A YEAR$"
+     },
+     {
+      "re": "[IVX]+\\.?$",
+      "strip": "\\.$"
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "seton-wild-animals-i-have-known": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ernest thompson seton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "seton-biography-of-a-grizzly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ernest thompson seton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "seton-johnny-bear": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ernest thompson seton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
