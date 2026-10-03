@@ -1958,6 +1958,14 @@ Slugs `meyer-*`. Name forms are full forms only (no bare "meyer": H. A. W. Meyer
 |---|---|---|
 | The Secret of Guidance; Our Daily Homily vol. 2 (1 Samuel to Job); The Way into the Holiest | have-clean | CCEL (print source not named) |
 | Our Daily Homily vols. 1, 3-5 | pending | CCEL has only vol. 2 |
+
+## John McLeod Campbell (round 12, my pick, 2026-10-03)
+
+Slug `mcleod-campbell-atonement`. A veto point: his view of the atonement departs from the Westminster divines.
+
+| Work | Status | Where |
+|---|---|---|
+| The Nature of the Atonement | have-clean | CCEL (Macmillan, 1905) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
