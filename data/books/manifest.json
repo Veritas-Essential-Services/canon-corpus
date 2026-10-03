@@ -24706,7 +24706,7 @@
   "scheme": {
    "citation": "Book.chapter.verse in the Clementine Vulgate's numbering (F&M number as the Vulgate); ids not linked to kjv: units, each unit's `kjv` resolves it",
    "resolution": "verse",
-   "honesty": "verse numbers decoded from the margin OCR of the 1850 scans; each unit says how its number was got (scan.number: read as printed, read with a letter-for-digit fix, inferred from the sequence, or 'heading' for a chapter's first verse, which follows its heading unnumbered); a verse that begins mid-line is split at a sentence break, a guess flagged in scan.start; the manuscripts' collation letters stay glued to the words they mark and the yogh is the OCR's '3'; text is unproofread OCR. Coverage of the Clementine's verses is measured per book (measure.books); a book below the bar is given by scan leaf, not by verse",
+   "honesty": "verse numbers decoded from the margin OCR of the 1850 scans; each unit says how its number was got (scan.number: read as printed, read with a letter-for-digit fix, inferred from the sequence, or 'heading' for a chapter's first verse, which follows its heading unnumbered); a verse that begins mid-line is split at a sentence break, a guess flagged in scan.start; the manuscripts' collation letters stay glued to the words they mark and the yogh is the OCR's '3'; text is unproofread OCR. Coverage of the Clementine's verses is measured per book (measure.books); a book below the bar is given by scan leaf, not by verse. A verse number decoded twice keeps both units, the second as '<id>~2' (then ~3...) with scan.duplicate_number and no kjv: a house convention shared with the Charles books, awaiting Adam's ruling",
    "note": "Josiah Forshall and Frederic Madden (eds), The Holy Bible, containing the Old and New Testaments, with the Apocryphal Books, in the earliest English versions made from the Latin Vulgate by John Wycliffe and his followers, 4 vols (Oxford: University Press, 1850); the earlier version (c. 1382), F&M's left column"
   },
   "source": {
@@ -24734,6 +24734,12 @@
    "license": "public domain (published 1850); the scans and their OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
    "attribution": "Internet Archive, holybiblecontain01-04wycluoft (University of Toronto, Robarts Library copy)",
    "source_url": "https://archive.org/details/holybiblecontain01wycluoft",
+   "possible_copyright_status": {
+    "holybiblecontain01wycluoft": "NOT_IN_COPYRIGHT",
+    "holybiblecontain02wycluoft": "NOT_IN_COPYRIGHT",
+    "holybiblecontain03wycluoft": "NOT_IN_COPYRIGHT",
+    "holybiblecontain04wycluoft": "NOT_IN_COPYRIGHT"
+   },
    "redistribute_whole": true
   },
   "measure": {
@@ -26495,7 +26501,7 @@
     "read": 0.4
    }
   },
-  "built_sha256": "5724fa15f66c6ea8698abf02ac282b7bc0352d2b1239c58dbcbf68a1d4225628"
+  "built_sha256": "eb361400fc07bf7944d77f1583525ea41641b430b2dafcee0d1050d8df426276"
  },
  "wycliffe-later": {
   "title": "The Wycliffite Bible, the later version (c. 1395) (Forshall and Madden 1850)",
@@ -26505,8 +26511,8 @@
   "units": 29494,
   "scheme": {
    "citation": "Book.chapter.verse in the Clementine Vulgate's numbering (F&M number as the Vulgate); ids not linked to kjv: units, each unit's `kjv` resolves it",
-   "resolution": "verse",
-   "honesty": "verse numbers decoded from the margin OCR of the 1850 scans; each unit says how its number was got (scan.number: read as printed, read with a letter-for-digit fix, inferred from the sequence, or 'heading' for a chapter's first verse, which follows its heading unnumbered); a verse that begins mid-line is split at a sentence break, a guess flagged in scan.start; the manuscripts' collation letters stay glued to the words they mark and the yogh is the OCR's '3'; text is unproofread OCR. Coverage of the Clementine's verses is measured per book (measure.books); a book below the bar is given by scan leaf, not by verse",
+   "resolution": "verse, except 4 books by scan leaf: Prov, Sir, 2John, Jude",
+   "honesty": "verse numbers decoded from the margin OCR of the 1850 scans; each unit says how its number was got (scan.number: read as printed, read with a letter-for-digit fix, inferred from the sequence, or 'heading' for a chapter's first verse, which follows its heading unnumbered); a verse that begins mid-line is split at a sentence break, a guess flagged in scan.start; the manuscripts' collation letters stay glued to the words they mark and the yogh is the OCR's '3'; text is unproofread OCR. Coverage of the Clementine's verses is measured per book (measure.books); a book below the bar is given by scan leaf, not by verse. A verse number decoded twice keeps both units, the second as '<id>~2' (then ~3...) with scan.duplicate_number and no kjv: a house convention shared with the Charles books, awaiting Adam's ruling",
    "note": "Josiah Forshall and Frederic Madden (eds), The Holy Bible, containing the Old and New Testaments, with the Apocryphal Books, in the earliest English versions made from the Latin Vulgate by John Wycliffe and his followers, 4 vols (Oxford: University Press, 1850); the later version (c. 1395), F&M's right column"
   },
   "source": {
@@ -26534,6 +26540,12 @@
    "license": "public domain (published 1850); the scans and their OCR are the Internet Archive's, marked NOT_IN_COPYRIGHT",
    "attribution": "Internet Archive, holybiblecontain01-04wycluoft (University of Toronto, Robarts Library copy)",
    "source_url": "https://archive.org/details/holybiblecontain01wycluoft",
+   "possible_copyright_status": {
+    "holybiblecontain01wycluoft": "NOT_IN_COPYRIGHT",
+    "holybiblecontain02wycluoft": "NOT_IN_COPYRIGHT",
+    "holybiblecontain03wycluoft": "NOT_IN_COPYRIGHT",
+    "holybiblecontain04wycluoft": "NOT_IN_COPYRIGHT"
+   },
    "redistribute_whole": true
   },
   "measure": {
@@ -28458,6 +28470,6 @@
     "read": 0.4
    }
   },
-  "built_sha256": "9eff391aa74bbff752b2694840427171e331b36a944a972c0fd99840ac722a1f"
+  "built_sha256": "dd701d6d4c05245a090edf4b8f8d24a966cd32058ec89623097aa68341b0551c"
  }
 }

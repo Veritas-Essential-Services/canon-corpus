@@ -129,6 +129,29 @@ check("BOOKS: every Clementine book, once", sorted(codes) == sorted(clem) and le
 check("BOOKS: leaves run forward in each volume",
       all(a <= b for _, _, a, b, _ in W.BOOKS))
 check("VOLUMES: four pins", len(W.VOLUMES) == 4 and all(len(v["sha256"]) == 64 for v in W.VOLUMES.values()))
+check("VOLUMES: each item's possible-copyright-status, as read",
+      all(v["possible_copyright_status"] == "NOT_IN_COPYRIGHT" for v in W.VOLUMES.values()))
+
+# -- a missing eBible zip stops --check with its cause, not a false difference
+import tempfile  # noqa: E402
+_cache = W.CACHE
+with tempfile.TemporaryDirectory() as tmp:
+    W.CACHE = tmp
+    check("ebible_missing: names the unfetched zip", "not fetched" in (W.ebible_missing() or ""))
+    with open(os.path.join(tmp, W.EBIBLE["file"]), "wb") as f:
+        f.write(b"not the pinned zip")
+    check("ebible_missing: names a changed zip", "not the pinned" in (W.ebible_missing() or ""))
+    _argv = sys.argv
+    sys.argv = ["build_wycliffe.py", "--check"]
+    try:
+        W.main()
+        msg = ""
+    except SystemExit as ex:
+        msg = str(ex.code)
+    sys.argv = _argv
+    check("--check without eBible: CHECK INCOMPLETE (non-zero), the cause named",
+          msg.startswith("CHECK INCOMPLETE") and "sha256" in msg)
+W.CACHE = _cache
 
 # -- the committed manifest entries
 with open(W.MANIFEST, encoding="utf-8") as f:
@@ -141,6 +164,15 @@ for slug in ("wycliffe-earlier", "wycliffe-later"):
     check(f"manifest: {slug} rights read, public domain", "public domain" in e["rights"]["license"]
           and e["rights"]["redistribute_whole"] is True)
     check(f"manifest: {slug} says it is unproofread OCR", "unproofread OCR" in e["scheme"]["honesty"])
+    check(f"manifest: {slug} documents the ~N duplicate ids", "~2" in e["scheme"]["honesty"]
+          and "awaiting Adam" in e["scheme"]["honesty"])
+    leafed = [c for c, m in e["measure"]["books"].items() if m["resolution"] == "page"]
+    check(f"manifest: {slug} resolution names every book built by scan leaf",
+          e["scheme"]["resolution"] == "verse" if not leafed else
+          (e["scheme"]["resolution"].startswith("verse, except") and all(c in e["scheme"]["resolution"]
+                                                                        for c in leafed)))
+    check(f"manifest: {slug} rights record each item's possible-copyright-status",
+          len(e["rights"].get("possible_copyright_status", {})) == 4)
     t = e["measure"]["total"]
     check(f"manifest: {slug} measures coverage of the Clementine", t["clementine_verses"] == 35809
           and 0 < t["present"] <= t["clementine_verses"])
