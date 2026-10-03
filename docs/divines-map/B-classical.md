@@ -1415,6 +1415,7 @@ Shelf: `pipeline/pythagoreans_shelf.json`. Taylor (Gutenberg).
 |---|---|---|---|
 | Ocellus Lucanus on the Nature of the Universe | Thomas Taylor | `ocellus-taylor` | have (PG 75391) |
 | Political Fragments of Archytas, Charondas, Zaleucus and other ancient Pythagoreans, preserved by Stobaeus; and Ethical Fragments of Hierocles (London: for the translator, 1822) | Thomas Taylor | `pythagoreans-taylor-political-fragments-1822` | have-raw (IA `politicalfragmen00taylrich`) |
+| Sallust on the Gods and the World; Pythagoric Sentences of Demophilus (1793) | Thomas Taylor (attributed; not named in the book) | `sallustius-demophilus-taylor-1793` | have-raw (IA `sallustongodsan00pythgoog`) |
 
 ## Sextus Empiricus
 
