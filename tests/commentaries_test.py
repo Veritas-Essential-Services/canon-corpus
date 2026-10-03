@@ -407,5 +407,53 @@ check("manifest: Delitzsch's Psalms are measured as numbered in the Hebrew",
 check("manifest: Lane A's same scans are named", all("same_scan_as" in ents[k]["scheme"]
                                                      for k in ("alford-commentary-2", "alford-commentary-4") if k in ents))
 
+# -- Keil & Delitzsch, the rest of the set (4c)
+its = [{"leaf": i, "book": "Jer", "hc": c} for i, c in enumerate([10, 10, 11, 11, 40, 11, 12, 12, 12, 13, 13])]
+mm = {}
+B.monotone_heads(its, mm)
+check("monotone_heads: 'XL' among XI and XII (an OCR'd XI) is dropped, and counted",
+      its[4]["hc"] is None and mm["running_heads_out_of_order"] == 1 and its[5]["hc"] == 11)
+its = [{"leaf": i, "book": b, "hc": c} for i, (b, c) in enumerate([("1Chr", 16)] * 4 + [("1Chr", 21)] * 4)]
+mm = {}
+B.monotone_heads(its, mm)
+check("monotone_heads: a real jump forward (1Chr 16 to 21, no openers between) is kept",
+      all(x["hc"] is not None for x in its) and mm["running_heads_out_of_order"] == 0)
+its = [{"leaf": 0, "book": "Ezra", "hc": 10}, {"leaf": 1, "book": "Neh", "hc": 1}, {"leaf": 2, "book": "Neh", "hc": 1}]
+mm = {}
+B.monotone_heads(its, mm)
+check("monotone_heads: a new book starting again at I is not out of order", mm["running_heads_out_of_order"] == 0)
+
+d = B.HeadDecoder({20: 30})
+d.c, d.v = 20, 25
+nt = {"Jer.20.14-18": [], "Jer.20.20-25": []}
+check("reopen: 'Ver. 20.' after 'Vers. 20-25.' reopens the run's unit",
+      B.reopen("keil-delitzsch-chronicles", nt, "Jer.", d, 20, None) == "Jer.20.20-25")
+check("reopen: a verse inside the run with no unit of its own opens one (behind the sequence)",
+      B.reopen("keil-delitzsch-chronicles", nt, "Jer.", d, 22, None) == "Jer.20.22")
+check("reopen: a verse before the latest run is not reopened", B.reopen("keil-delitzsch-chronicles", nt, "Jer.", d, 15, None) is None)
+check("reopen: a verse with its own unit inside the run reopens that unit",
+      B.reopen("keil-delitzsch-chronicles", dict(nt, **{"Jer.20.22": []}), "Jer.", d, 22, None) == "Jer.20.22")
+check("reopen: an opener naming a chapter is not reopened", B.reopen("keil-delitzsch-chronicles", nt, "Jer.", d, 22, 20) is None)
+check("reopen: only the volumes that ask for it", B.reopen("delitzsch-psalms-1", nt, "Jer.", d, 22, None) is None)
+
+check("K&D 4c: the historical books, each in ORDER after the earlier K&D", len(B.KD4C) == 5
+      and B.ORDER.index(next(iter(B.KD4C))) > max(B.ORDER.index(k) for k in B.SECOND if k not in B.KD4C))
+check("K&D 4c: every volume says why its scan was chosen, and reads its rights field",
+      all(s.get("scan_choice") and "ia_rights" in s for s in B.KD4C.values()))
+for k in B.KD4C:
+    e = ents.get(k)
+    if not e:
+        continue
+    check(f"manifest: {k} names its misread heads and its reopened notes in its honesty",
+          "running_heads_out_of_order" in e["scheme"]["honesty"] and "notes_reopened" in e["scheme"]["honesty"]
+          and "running_heads_out_of_order" in e["measure"])
+    check(f"manifest: {k} has a rights block as read", e["rights"]["ia_possible_copyright_status"]
+          and e["rights"]["source_url"].endswith(B.SCANS[k]["ia"]))
+num = {k: ents[k]["scheme"]["numbering"] for k in B.KD4C if k in ents}
+if len(num) == 5:
+    check("manifest: 1 Chronicles and Nehemiah are measured as numbered in the Hebrew",
+          num["keil-delitzsch-chronicles"]["1Chr"] == "hebrew" and num["keil-delitzsch-ezra-nehemiah-esther"]["Neh"] == "hebrew")
+    check("manifest: 1 Kings is measured as numbered in the KJV", num["keil-delitzsch-kings"]["1Kgs"] == "kjv")
+
 print(f"\n{passed} passed, {failed} failed")
 sys.exit(1 if failed else 0)

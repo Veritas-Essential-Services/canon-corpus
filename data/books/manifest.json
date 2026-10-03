@@ -30457,5 +30457,531 @@
    }
   },
   "built_sha256": "142b3f1fe752f95bc2c983831825f0e23def11e010ea72dc8ee3ce583ca6b386"
+ },
+ "keil-delitzsch-joshua-judges-ruth": {
+  "title": "Biblical Commentary on the Old Testament: Joshua, Judges, Ruth",
+  "author": "C. F. Keil and F. Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "4b0cb6d3360799a7228cd3fac29245621530e78e4c9f60e8829d39d48f2f295f",
+  "units": 834,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Josh": "undecided",
+    "Judg": "undecided",
+    "Ruth": "undecided"
+   },
+   "scan_choice": "joshuajudgesruth04keil (Toronto, 1875): English 94.2%, 789 'Ver.' openers; biblicalcommenta04keiluoft (Toronto, 1882) 94.0%/783 and biblicalcomm04keiluoft (Toronto, 1869) 93.6%/745",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library), vol. IV: Joshua, Judges, Ruth, by C. F. Keil and F. Delitzsch, tr. James Martin (1875 issue), as its title page reads; scan leaves 7-508 of joshuajudgesruth04keil"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1875); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "(the item's metadata carries no rights field)",
+   "attribution": "Internet Archive, joshuajudgesruth04keil (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/joshuajudgesruth04keil",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 785,
+    "page": 49
+   },
+   "footnote_lines": 652,
+   "junk_lines_dropped": 3,
+   "leaves_commentary": 453,
+   "leaves_page": 49,
+   "openers_accepted": 783,
+   "openers_out_of_sequence": 2,
+   "openers_rejected": 4,
+   "printed_page_from_neighbours": 195,
+   "printed_page_read": 300,
+   "running_heads_out_of_order": 1,
+   "kjv_coverage": {
+    "Josh": {
+     "kjv_verses": 658,
+     "commented": 623,
+     "with_own_note": 213
+    },
+    "Judg": {
+     "kjv_verses": 618,
+     "commented": 576,
+     "with_own_note": 222
+    },
+    "Ruth": {
+     "kjv_verses": 85,
+     "commented": 82,
+     "with_own_note": 28
+    }
+   },
+   "scripture_links": {
+    "read": 3730,
+    "resolved": 3598,
+    "ranges": 169,
+    "ranges_start_only": 9
+   },
+   "numbering_own": {
+    "Josh": {
+     "read": 483,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "Judg": {
+     "read": 384,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "Ruth": {
+     "read": 33,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 55,
+     "only_hebrew": 1,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 2174,
+     "only_hebrew": 8,
+     "only_kjv": 12,
+     "decision": "undecided"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "22e04fc198f203cc143a39ea220ef32d3e0472be0b1c0a408edf70bd0558c267"
+ },
+ "keil-delitzsch-samuel": {
+  "title": "Biblical Commentary on the Books of Samuel",
+  "author": "C. F. Keil and F. Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "1560a2ea753736b564e2f5bc7e9fbe87e392865cab9eb780512ee86eee6c2679",
+  "units": 924,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "1Sam": "undecided",
+    "2Sam": "undecided"
+   },
+   "scan_choice": "biblicalcomment00keiluoft (Toronto, 1880): English 95.0%, 915 'Ver.' openers; commentarysamuel00keiluoft (the same issue) 94.9%/907, biblicalcommen00keil (Toronto, 1876) 94.9%/912",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): C. F. Keil, Biblical Commentary on the Books of Samuel, tr. James Martin (1880 issue), as its title page reads; scan leaves 6-523 of biblicalcomment00keiluoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1880); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, biblicalcomment00keiluoft (University of Toronto (Trinity College) copy)",
+   "source_url": "https://archive.org/details/biblicalcomment00keiluoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 906,
+    "page": 18
+   },
+   "footnote_lines": 707,
+   "junk_lines_dropped": 2,
+   "leaves_commentary": 500,
+   "leaves_page": 18,
+   "openers_accepted": 907,
+   "openers_out_of_sequence": 6,
+   "openers_rejected": 1,
+   "printed_page_from_neighbours": 183,
+   "printed_page_read": 326,
+   "running_heads_out_of_order": 5,
+   "kjv_coverage": {
+    "1Sam": {
+     "kjv_verses": 810,
+     "commented": 784,
+     "with_own_note": 309
+    },
+    "2Sam": {
+     "kjv_verses": 695,
+     "commented": 627,
+     "with_own_note": 275
+    }
+   },
+   "scripture_links": {
+    "read": 2735,
+    "resolved": 2639,
+    "ranges": 132,
+    "ranges_start_only": 13
+   },
+   "numbering_own": {
+    "1Sam": {
+     "read": 572,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "2Sam": {
+     "read": 431,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 68,
+     "only_hebrew": 2,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 1416,
+     "only_hebrew": 11,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "5d3721f89dcd6b89e5e4228150ea0b0ec360b398e3afbef75409da1ebdc914b6"
+ },
+ "keil-delitzsch-kings": {
+  "title": "Biblical Commentary on the Books of the Kings",
+  "author": "C. F. Keil and F. Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "6097e3f6bd3c190d18773c479b7fc86e9883e6647423e771af77869409b462d0",
+  "units": 847,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "1Kgs": "kjv",
+    "2Kgs": "undecided"
+   },
+   "scan_choice": "thebooksofthekin00keiluoft (Toronto, 1883, 2nd ed.): English 93.6%, 841 'Ver.' openers; booksofkings00bhuoft (Toronto, 1872) 93.1%/649, booksofkings00keil (1872) 93.4%/778",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): C. F. Keil, The Books of the Kings, tr. James Martin, second edition (1883), as its title page reads; scan leaves 6-534 of thebooksofthekin00keiluoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1883); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, thebooksofthekin00keiluoft (University of Toronto (Emmanuel College) copy)",
+   "source_url": "https://archive.org/details/thebooksofthekin00keiluoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 828,
+    "page": 19
+   },
+   "footnote_lines": 1330,
+   "junk_lines_dropped": 6,
+   "leaves_commentary": 509,
+   "leaves_page": 19,
+   "openers_accepted": 831,
+   "openers_out_of_sequence": 1,
+   "openers_rejected": 9,
+   "printed_page_from_neighbours": 188,
+   "printed_page_read": 333,
+   "running_heads_out_of_order": 0,
+   "kjv_coverage": {
+    "1Kgs": {
+     "kjv_verses": 816,
+     "commented": 794,
+     "with_own_note": 238
+    },
+    "2Kgs": {
+     "kjv_verses": 719,
+     "commented": 663,
+     "with_own_note": 220
+    }
+   },
+   "scripture_links": {
+    "read": 3465,
+    "resolved": 3277,
+    "ranges": 203,
+    "ranges_start_only": 8
+   },
+   "numbering_own": {
+    "1Kgs": {
+     "read": 598,
+     "only_hebrew": 0,
+     "only_kjv": 13,
+     "decision": "kjv"
+    },
+    "2Kgs": {
+     "read": 444,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 27,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 2059,
+     "only_hebrew": 14,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "54b4b4ffb7cfa495a0ee113dd79a60d8d48e74fe4645d8d066e5526b472b2d19"
+ },
+ "keil-delitzsch-chronicles": {
+  "title": "Biblical Commentary on the Books of the Chronicles",
+  "author": "C. F. Keil and F. Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "2beebc8ca2a4d11ef5ad17946c43a6a7ec938bffacaaf2363fcb5670a3d835c5",
+  "units": 791,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "1Chr": "hebrew",
+    "2Chr": "undecided"
+   },
+   "scan_choice": "booksofchronicle00keiluoft (Toronto, 1878): English 93.1%, 772 'Ver.' openers; booksofchronicle00keiliala (1872) 93.5%/783 is not clearly better",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): C. F. Keil, The Books of the Chronicles, tr. Andrew Harper (1878), as its title page reads; scan leaves 6-527 of booksofchronicle00keiluoft"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1878); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, booksofchronicle00keiluoft (University of Toronto (Robarts) copy)",
+   "source_url": "https://archive.org/details/booksofchronicle00keiluoft",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 742,
+    "page": 49
+   },
+   "footnote_lines": 404,
+   "junk_lines_dropped": 1,
+   "leaves_commentary": 470,
+   "leaves_page": 49,
+   "notes_reopened": 1,
+   "openers_accepted": 744,
+   "openers_out_of_sequence": 9,
+   "openers_rejected": 17,
+   "printed_page_from_neighbours": 179,
+   "printed_page_read": 330,
+   "running_heads_out_of_order": 7,
+   "kjv_coverage": {
+    "1Chr": {
+     "kjv_verses": 942,
+     "commented": 704,
+     "with_own_note": 226
+    },
+    "2Chr": {
+     "kjv_verses": 822,
+     "commented": 657,
+     "with_own_note": 264
+    }
+   },
+   "scripture_links": {
+    "read": 4160,
+    "resolved": 3870,
+    "ranges": 491,
+    "ranges_start_only": 14
+   },
+   "numbering_own": {
+    "1Chr": {
+     "read": 523,
+     "only_hebrew": 8,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    },
+    "2Chr": {
+     "read": 425,
+     "only_hebrew": 1,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 67,
+     "only_hebrew": 1,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 2567,
+     "only_hebrew": 24,
+     "only_kjv": 2,
+     "decision": "hebrew"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "beb4f1419459810ea46d5d012ed020b586a3e46130860689a1dea1739a9531be"
+ },
+ "keil-delitzsch-ezra-nehemiah-esther": {
+  "title": "Biblical Commentary on the Books of Ezra, Nehemiah, and Esther",
+  "author": "C. F. Keil and F. Delitzsch",
+  "format": "ia-hocr",
+  "sha256": "8ceaeab881449655839e75e65844b072bc4f370896968dc07cae8f5ad5ad4d05",
+  "units": 561,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; a running head naming a chapter below the median of the five headed leaves before it or above the median of the five after it is dropped as misread (measure.running_heads_out_of_order); an opener the sequence refuses for a verse already passed inside the section the chapter's latest run opened ('Ver. 20.' after 'Ver. 25.' under 'Vers. 20-25.', where a section's translation is followed by its exposition) reopens that verse's unit, its text joining that unit, which is then not contiguous in the print (measure.notes_reopened), or, where the verse has none yet, opens it without moving the sequence (measure.notes_opened_behind); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "numbering": {
+    "Ezra": "undecided",
+    "Neh": "hebrew",
+    "Esth": "undecided"
+   },
+   "scan_choice": "booksofezranehem00keil (Princeton, 1873; no Toronto scan): English 93.3%, 521 'Ver.' openers; booksofezranehem1888keil 92.6%/515; the Oxford and Cornell scans have no hOCR",
+   "note": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): C. F. Keil, The Books of Ezra, Nehemiah, and Esther, tr. Sophia Taylor (1873), as its title page reads; scan leaves 11-396 of booksofezranehem00keil"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1873); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, booksofezranehem00keil (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/booksofezranehem00keil",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "note": 502,
+    "page": 59
+   },
+   "footnote_lines": 240,
+   "junk_lines_dropped": 3,
+   "leaves_commentary": 325,
+   "leaves_page": 59,
+   "notes_reopened": 1,
+   "openers_accepted": 507,
+   "openers_out_of_sequence": 3,
+   "openers_rejected": 10,
+   "printed_page_from_neighbours": 146,
+   "printed_page_read": 233,
+   "running_heads_out_of_order": 0,
+   "kjv_coverage": {
+    "Ezra": {
+     "kjv_verses": 280,
+     "commented": 216,
+     "with_own_note": 109
+    },
+    "Neh": {
+     "kjv_verses": 406,
+     "commented": 334,
+     "with_own_note": 160
+    },
+    "Esth": {
+     "kjv_verses": 167,
+     "commented": 166,
+     "with_own_note": 81
+    }
+   },
+   "scripture_links": {
+    "read": 1811,
+    "resolved": 1698,
+    "ranges": 122,
+    "ranges_start_only": 14
+   },
+   "numbering_own": {
+    "Ezra": {
+     "read": 237,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "Neh": {
+     "read": 263,
+     "only_hebrew": 6,
+     "only_kjv": 0,
+     "decision": "hebrew"
+    },
+    "Esth": {
+     "read": 113,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    }
+   },
+   "numbering_references": {
+    "Ps": {
+     "read": 28,
+     "only_hebrew": 0,
+     "only_kjv": 0,
+     "decision": "undecided"
+    },
+    "other": {
+     "read": 1112,
+     "only_hebrew": 6,
+     "only_kjv": 2,
+     "decision": "hebrew"
+    }
+   },
+   "greek": {
+    "greek_letters": 0,
+    "greek_share_of_letters": 0.0,
+    "greek_tokens_3plus": 0,
+    "greek_tokens_in_reference_vocab": 0,
+    "mixed_script_tokens": 0
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "f3a8323608463d86a39e465ce3da25a2d6860f52fc797db8d8990bd58cff2a5f"
  }
 }
