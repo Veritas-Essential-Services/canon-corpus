@@ -1,0 +1,39 @@
+{
+ "_about": "David Hay Fleming (1849-1931), historian of the Scottish Reformation: The Reformation in Scotland, Causes, Characteristics, Consequences, the Stone Lectures at Princeton, 1907-1908 (London: Hodder and Stoughton, 1910). Published in 1910, so public domain in the US; he died in 1931, so out of copyright in the UK since 2002. His edition of Patrick Walker is on the patrick-walker shelf. The name check looks for 'Hay Fleming'. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "hay fleming"
+ ],
+ "_surname": [
+  "hay fleming"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hay-fleming-reformation-in-scotland-1910": [
+   "reformationinsco00flem",
+   "The Reformation in Scotland: Causes, Characteristics, Consequences (London: Hodder and Stoughton, 1910)"
+  ]
+ },
+ "_alternates": {
+  "reformationinsco00flemuoft, reformationscotl00flemuoft": "Toronto copies of the same edition."
+ },
+ "_pending": {
+  "The Story of the Scottish Covenants in Outline (1904); Mary Queen of Scots (1897); The Hymnology of the Scottish Reformation (1884)": "Not yet read; the Covenants and Hymnology are the Reformed ones."
+ },
+ "_excluded": {
+  "reformationinsco0000flem, reformationinsco0000davi": "Lending-library scans."
+ },
+ "_checks": {
+  "hay-fleming-reformation-in-scotland-1910": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hay fleming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

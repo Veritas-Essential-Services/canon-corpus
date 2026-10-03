@@ -1,5 +1,5 @@
 {
- "_about": "William M. Hetherington (1803-1865): History of the Westminster Assembly of Divines (first published Edinburgh, 1843), held in the New York: Carter printing of 1868 for its cleaner scan. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_about": "William M. Hetherington (1803-1865): History of the Westminster Assembly of Divines (first published Edinburgh, 1843), held in the New York: Carter printing of 1868 for its cleaner scan; and his History of the Church of Scotland to the Disruption of 1843 (New York: Carter, 1856, one volume). Internet Archive OCR, raw and unconverted; each title page read before listing.",
  "_name_words": [
   "hetherington"
  ],
@@ -12,15 +12,18 @@
   "hetherington-westminster-assembly": [
    "historyofwestmin1868heth",
    "History of the Westminster Assembly of Divines (New York: Robert Carter, 1868)"
+  ],
+  "hetherington-church-of-scotland-1856": [
+   "historyofchurcho00heth_1",
+   "History of the Church of Scotland, from the Introduction of Christianity to the Period of the Disruption in 1843 (New York: Robert Carter, 1856)"
   ]
  },
  "_alternates": {
   "historyofwestmin0000heth (1843), historywestmins00crigoog, historywestmins02crigoog, historywestmins00unkngoog (1843)": "The first edition.",
-  "historyofwestmin1875heth": "Later printing."
+  "historyofwestmin1875heth": "Later printing.",
+  "historyofchurcho00heth, historychurchsc01/02hethgoog (1843), bwb_T5-AFM-779 (1844)": "Other editions of the Church History; the 00heth text file returned server errors."
  },
- "_pending": {
-  "History of the Church of Scotland (1843, and later editions)": "Not yet searched."
- },
+ "_pending": {},
  "_excluded": {
   "historyofwestmin00phil, ahistorywestmin00publgoog (1841)": "A different History, published by the Presbyterian Board."
  },
@@ -34,6 +37,17 @@
    "ia_rights": "ok: published 1868",
    "ia_date": "1868",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hetherington-church-of-scotland-1856": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hetherington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
   }
  }
