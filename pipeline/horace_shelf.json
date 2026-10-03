@@ -159,6 +159,11 @@
    "icarianflightstr00horarich",
    "Icarian Flights: translations of some of the Odes of Horace (London: John Lane, The Bodley Head, 1920)",
    "tr. Francis Coutts and Walter Herries Pollock"
+  ],
+  "horace-native-of-america-1786": [
+   "lyricworksofhora00horarich",
+   "The Lyric Works of Horace, translated into English verse, to which are added a number of original poems, by a Native of America (Philadelphia: Eleazer Oswald, 1786)",
+   "tr. anonymous ('a Native of America')"
   ]
  },
  "_cross_ref": {
@@ -210,7 +215,8 @@
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
   "horace-martin-odes-1866": "title page OCRs the name as 'THEODOKE MARTIN'; the full name is not printed as a word in this OCR",
   "horace-hague-1892": "title page names John B. Hague, Ph.D. (G. P. Putnam's Sons, 1892); the OCR reads 'HAGUL'",
-  "horace-green-odes-1903": "title page names W. C. Green, M.A. (London, 1903); 'green' is a common word, so the word check cannot confirm the name"
+  "horace-green-odes-1903": "title page names W. C. Green, M.A. (London, 1903); 'green' is a common word, so the word check cannot confirm the name",
+  "horace-native-of-america-1786": "the title page names no translator ('by a Native of America'); no attribution recorded"
  },
  "_checks": {
   "horace-conington-odes": {
@@ -588,6 +594,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1920",
    "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-native-of-america-1786": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatian",
+   "identity": "ok",
+   "ia_rights": "ok: published 1786",
+   "ia_date": "M,DCC,LXXXVI. [1786]",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

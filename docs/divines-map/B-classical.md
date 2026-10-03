@@ -1061,6 +1061,7 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The Odes of Horace and his Secular Hymn rendered in English verse (London, 1903) | W. C. Green | `horace-green-odes-1903` | have-raw (IA `cu31924026490742`) |
 | Horatian Echoes: translations of the Odes of Horace, with an introduction by Oliver Wendell Holmes (Boston and New York: Houghton, Mifflin, 1893) | John Osborne Sargent | `horace-sargent-echoes-1893` | have-raw (IA `horatianechoest00holmgoog`) |
 | Icarian Flights: translations of some of the Odes of Horace (London: John Lane, The Bodley Head, 1920) | Francis Coutts and Walter Herries Pollock | `horace-coutts-pollock-icarian-1920` | have-raw (IA `icarianflightstr00horarich`) |
+| The Lyric Works of Horace, translated into English verse, to which are added a number of original poems, by a Native of America (Philadelphia: Eleazer Oswald, 1786) | anonymous ('a Native of America') | `horace-native-of-america-1786` | have-raw (IA `lyricworksofhora00horarich`) |
 
 Pending (wishlist): Smart's prose in its first, unrevised form (1756) from a cleaner scan than the ECCO OCR (0.74-0.76), which was refused.
 
