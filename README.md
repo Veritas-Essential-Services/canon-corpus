@@ -153,7 +153,12 @@ column is read, and the 42 such leaves are counted in the manifest. Each
 unit records how its number was got and where its first words were placed;
 the text is unproofread OCR. Public domain in the US; the Additions to
 Esther (Gregg, d. 1961) are flagged `redistribute_whole: false`.
-`python3 pipeline/build_charles.py --fetch`, then `--report`.
+`python3 pipeline/build_charles.py --fetch`, then `--report`. Lines of notes
+or apparatus that slip past the type-size split (a third Greek, or thick with
+sigla) are dropped and counted. A word-by-word proofreading pass,
+`pipeline/proof_charles.py`, flags likely OCR errors for review against the
+scans in `docs/review/charles-ocr-flags.tsv` (unit, leaf, token, a suggested
+reading); it changes nothing in the text.
 
 ## Josephus (Greek and English)
 

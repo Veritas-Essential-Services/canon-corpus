@@ -149,6 +149,16 @@ def is_app(l):
     return st.mean(w[4] for w in l["words"]) < 80 or bool(APP.search(l["text"]))
 
 
+def is_apparatus_text(text):
+    """A line of notes or apparatus that the type-size split let into the body:
+    Greek (or Hebrew the OCR read as Greek) makes up a third of its letters, or
+    it is thick with sigla ('] > |'). Charles's English never is (Tob 1.18)."""
+    letters = [c for c in text if c.isalpha()]
+    if len(letters) >= 8 and sum(not ('a' <= c.lower() <= 'z') for c in letters) >= 0.3 * len(letters):
+        return True
+    return sum(text.count(c) for c in ']>|') >= 3
+
+
 def split_body(p, T, head_frac=0.065):
     """(head lines, body lines, note lines). T is the x_size between the two
     type sizes, measured per volume."""
@@ -323,7 +333,8 @@ def is_heading(text):
 
 def collect(pages, leaves, T, layout, head_fn=head_range):
     """Body rows in reading order: (leaf, kind, tokens, text), kind 'm' (a
-    margin-numbered line), 't' (text), 'h' (a section heading, dropped).
+    margin-numbered line), 't' (text), 'h' (a section heading, dropped), 'a'
+    (apparatus that slipped into the body, dropped).
     Also the running head of each leaf, and the leaves printed in two
     columns. A two-column page in these books is two witnesses side by side
     (the LXX and Theodotion in Bel and Susanna, the alpha and beta texts of
@@ -348,6 +359,9 @@ def collect(pages, leaves, T, layout, head_fn=head_range):
             for l, mw, tw in rr:
                 text = " ".join(w[5] for w in tw).strip()
                 mw = [w for w in mw if not w[5].startswith('(') and (w[2] - w[0] >= 0.2 * xs)]
+                if is_apparatus_text(l["text"]):
+                    rows.append((pg, 'a', [], text))
+                    continue
                 if is_heading(text) and not mw:
                     rows.append((pg, 'h', [], text))
                     continue
@@ -458,6 +472,9 @@ def build_units(rows, assign):
     for i, (pg, kind, toks, text) in enumerate(rows):
         if kind == 'h':
             stats['heading-dropped'] += 1
+            continue
+        if kind == 'a':
+            stats['apparatus-dropped'] += 1
             continue
         if kind == 'm':
             pt, c, v = assign[i]

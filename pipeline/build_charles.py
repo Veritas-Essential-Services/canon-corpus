@@ -306,7 +306,8 @@ def build_book(key, vol, title, editor, a, b, layout, o, kjv):
         measure = {"verses": n, "number_read": stats["read"], "number_read_with_fix": stats["fuzzy"],
                    "number_inferred": stats["inferred"],
                    "start": {k[6:]: c for k, c in sorted(stats.items()) if k.startswith("start:")},
-                   "headings_dropped": stats["heading-dropped"]}
+                   "headings_dropped": stats["heading-dropped"],
+                   "apparatus_lines_dropped": stats["apparatus-dropped"]}
         if twocol:
             measure["two_column_leaves_left_kept"] = len(twocol)
         if heads:

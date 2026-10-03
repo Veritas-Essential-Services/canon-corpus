@@ -58,6 +58,19 @@ check("is_heading: Charles's section heads", C.is_heading("V. 1-8. Victories of 
       and C.is_heading("(b) IV. 20-28. Practical Precepts") and not C.is_heading("And Judas went"))
 
 
+# -- apparatus that slipped past the type-size split
+check("is_apparatus_text: a line of Greek sigla is apparatus",
+      C.is_apparatus_text("(cum δ cf. δ) αἰιχμαλ. N*] +pe NCA N.] > BA καθοτι ΒᾺ et quoniam"))
+check("is_apparatus_text: Charles's English is not",
+      not C.is_apparatus_text("And whomsoever Sennacherib slew, when he had come fleeing from Judaea [in the days]"))
+
+# -- the proofreading pass (pipeline/proof_charles.py)
+import proof_charles as PC  # noqa: E402
+check("proof: an OCR-typical edit finds the word", "modern" in PC.candidates("rnodern", {"modern", "model"})
+      and "the" in PC.candidates("tbe", {"the"}))
+check("proof: no candidate when none is a word", PC.candidates("xqzv", {"the"}) == [])
+
+
 # -- one printed line the OCR cut in two
 def ln(x0, y0, x1, y1, t):
     ws = t.split()

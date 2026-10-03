@@ -5140,6 +5140,7 @@
     "sentence-first": 15
    },
    "headings_dropped": 0,
+   "apparatus_lines_dropped": 0,
    "two_column_leaves_left_kept": 23,
    "running_heads_agree": [
     32,
@@ -5151,7 +5152,7 @@
     "beyond_kjv": 0
    }
   },
-  "built_sha256": "f563e67700a38779b46ecf49c9be401918bb5189bb1dd94a8c297f761bdde044"
+  "built_sha256": "0e0a3ccd8c5d7589dc9f4c4c8861074340afe426995b055924258407b505a74d"
  },
  "charles-1macc": {
   "title": "I Maccabees",
@@ -5183,6 +5184,7 @@
     "sentence-first": 31
    },
    "headings_dropped": 54,
+   "apparatus_lines_dropped": 0,
    "running_heads_agree": [
     51,
     53
@@ -5193,7 +5195,7 @@
     "beyond_kjv": 2
    }
   },
-  "built_sha256": "94211f98fcf7b5a68c31b3d2bf1c600fe62fa56d4d904588fd4c06a3bd210300"
+  "built_sha256": "776c0c83ee6c7a3e8d7aa7053177addd82f87c159fa57814f4e3a0f8bbef6694"
  },
  "charles-2macc": {
   "title": "II Maccabees",
@@ -5225,6 +5227,7 @@
     "sentence-first": 18
    },
    "headings_dropped": 17,
+   "apparatus_lines_dropped": 0,
    "running_heads_agree": [
     18,
     19
@@ -5235,7 +5238,7 @@
     "beyond_kjv": 2
    }
   },
-  "built_sha256": "324fe26ff7bc803cb1f44861b010facdddb86fb8c323671a507a664e565dc22a"
+  "built_sha256": "355d09093a983df453821c089d81f0d59d789e8f0f03f1c84a85fbdb032f1513"
  },
  "charles-3macc": {
   "title": "III Maccabees",
@@ -5267,12 +5270,13 @@
     "sentence-first": 3
    },
    "headings_dropped": 0,
+   "apparatus_lines_dropped": 0,
    "running_heads_agree": [
     10,
     10
    ]
   },
-  "built_sha256": "7da98fd1652f7c9cf091c343e5ea0cb0dcfd78a5e0e187b2649f76d599f930bf"
+  "built_sha256": "d4e656f7855f8157c17af7dbb3a6de6e93b775447273abc906e7b7cb67696b94"
  },
  "charles-tob": {
   "title": "The Book of Tobit",
@@ -5298,12 +5302,13 @@
    "number_read_with_fix": 23,
    "number_inferred": 61,
    "start": {
-    "line": 47,
-    "line-start": 33,
+    "line": 46,
+    "line-start": 34,
     "sentence": 107,
     "sentence-first": 11
    },
    "headings_dropped": 0,
+   "apparatus_lines_dropped": 12,
    "running_heads_agree": [
     35,
     38
@@ -5314,7 +5319,7 @@
     "beyond_kjv": 1
    }
   },
-  "built_sha256": "89a0ae4849fad689a4bcc8e41ad03238ef1d4c5ba84ea9f60e676b8a7255685a"
+  "built_sha256": "3dab66b05a519061476ba4998b6d140f94d238cf7bb7f4bc568e9f03b53df650"
  },
  "charles-jdt": {
   "title": "The Book of Judith",
@@ -5346,6 +5351,7 @@
     "sentence-first": 4
    },
    "headings_dropped": 0,
+   "apparatus_lines_dropped": 0,
    "running_heads_agree": [
     18,
     18
@@ -5356,14 +5362,14 @@
     "beyond_kjv": 1
    }
   },
-  "built_sha256": "d943373dc7728be4ce3afed482a8e558ac47a5ee669d86cfca78593f5c7dbe99"
+  "built_sha256": "0327ae7ac57ca4aea4cf407afc2fed9c076be1434b1681e7c534991caec4fc4a"
  },
  "charles-sir": {
   "title": "Sirach",
   "author": "tr. and ed. G. H. Box and W. O. E. Oesterley, in Charles (1913)",
   "format": "ia-hocr",
   "sha256": "1b02f9fae2b863617a1caf74a23ef55c4b78c98c4bc20489a97da8afa7452c08",
-  "units": 1472,
+  "units": 1469,
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
@@ -5377,17 +5383,18 @@
    "redistribute_whole": true
   },
   "measure": {
-   "verses": 1472,
+   "verses": 1469,
    "number_read": 823,
-   "number_read_with_fix": 321,
-   "number_inferred": 328,
+   "number_read_with_fix": 322,
+   "number_inferred": 324,
    "start": {
-    "line": 573,
+    "line": 572,
     "line-start": 879,
     "sentence": 16,
-    "sentence-first": 4
+    "sentence-first": 2
    },
    "headings_dropped": 133,
+   "apparatus_lines_dropped": 83,
    "running_heads_agree": [
     165,
     177
@@ -5395,10 +5402,10 @@
    "kjv_verse_numbers": {
     "kjv": 1393,
     "present": 1351,
-    "beyond_kjv": 99
+    "beyond_kjv": 96
    }
   },
-  "built_sha256": "0fe27639eb876c53d5b944677f9613d7c9861c97fae531ca9e46bb43d81bc6df"
+  "built_sha256": "6da7f292bc25d9c5a1554409ca327fde332e0775f0bbc41e960a82ab8ffddb7c"
  },
  "charles-wis": {
   "title": "The Wisdom of Solomon",
@@ -5428,6 +5435,7 @@
     "line-start": 373
    },
    "headings_dropped": 0,
+   "apparatus_lines_dropped": 0,
    "running_heads_agree": [
     30,
     32
@@ -5438,7 +5446,7 @@
     "beyond_kjv": 0
    }
   },
-  "built_sha256": "967934a9254661320f473a7d3c7c69cb35a0bd62eff2cdf90e08f612b4f80904"
+  "built_sha256": "17e543a08293a28527ef444bbe20af5cdcb3c9deae361939a99ae19e531a4b50"
  },
  "charles-bar": {
   "title": "The Book of Baruch",
@@ -5470,6 +5478,7 @@
     "sentence-first": 1
    },
    "headings_dropped": 0,
+   "apparatus_lines_dropped": 0,
    "running_heads_agree": [
     2,
     3
@@ -5481,7 +5490,7 @@
    },
    "refused": "verse decoding below the bar (numbers read 79%; heads 2/3): built by printed page instead"
   },
-  "built_sha256": "649efa702d470278191e589ea0a695901e76d14d80c0b0a028b302f3051ac698"
+  "built_sha256": "c18cb17d67c6362285b43f0e35c17bc90b4e6903d3626693cf841985d1de9ea0"
  },
  "charles-epjer": {
   "title": "The Epistle of Jeremy",
@@ -5512,9 +5521,10 @@
     "sentence": 52,
     "sentence-first": 1
    },
-   "headings_dropped": 1
+   "headings_dropped": 1,
+   "apparatus_lines_dropped": 36
   },
-  "built_sha256": "d9e7a448d40bd0ed87d9cf506e5e249b47314dab7a9d4dba7c9abba47fcea95a"
+  "built_sha256": "2a3261d0a15811e00ff3f84fbcb4daf22ef8f924191a7dad69f9ee1b729b8f1f"
  },
  "charles-prman": {
   "title": "The Prayer of Manasses",
@@ -5544,9 +5554,10 @@
     "line-start": 5
    },
    "headings_dropped": 0,
+   "apparatus_lines_dropped": 0,
    "refused": "verse decoding below the bar (numbers read 25%; heads 0/0): built by printed page instead"
   },
-  "built_sha256": "a9b3a4f726c44d9bd7621e628d6837919113b41738fa9acb3ad17b0f7ae4d62c"
+  "built_sha256": "db3a04f2f76002dc4d0ed1360c1c5537148ea91f46d0831f6257d91778e3e194"
  },
  "charles-azar": {
   "title": "The Prayer of Azariah and the Song of the Three Children",
@@ -5576,9 +5587,10 @@
     "line-start": 7,
     "sentence": 12
    },
-   "headings_dropped": 0
+   "headings_dropped": 0,
+   "apparatus_lines_dropped": 0
   },
-  "built_sha256": "6dc6cd2d998bc0b13793681e0a45f798e6026bf1d6a48ff72e56715eb6aafb84"
+  "built_sha256": "24d644cd20b217b03e9fc1ff8fcb1253b5fc3e90c0fab50d279d6889d1ddeeb5"
  },
  "charles-sus": {
   "title": "Susanna",
@@ -5609,9 +5621,10 @@
     "sentence": 18
    },
    "headings_dropped": 0,
+   "apparatus_lines_dropped": 0,
    "two_column_leaves_left_kept": 5
   },
-  "built_sha256": "173f74c9267001b9abfaf7a2147c942caad953931be2b27d2aff1a2d1b9c78d9"
+  "built_sha256": "408a476053922b8d4d3187ae0957fae13b4df1849990c34cf5a78784ab91c672"
  },
  "charles-bel": {
   "title": "Bel and the Dragon",
@@ -5642,9 +5655,10 @@
     "sentence": 20
    },
    "headings_dropped": 0,
+   "apparatus_lines_dropped": 0,
    "two_column_leaves_left_kept": 6
   },
-  "built_sha256": "c49764aadf93ecf691be6e8dc665bb22c629ad5788c78a7e1380f595b17497c8"
+  "built_sha256": "0de5360dfc767d5f2653e82f1e26bf192c5c0d9ea962965736d4176c949846cf"
  },
  "charles-addesth": {
   "title": "The Additions to Esther",
@@ -5677,12 +5691,13 @@
     "sentence-first": 1
    },
    "headings_dropped": 0,
+   "apparatus_lines_dropped": 0,
    "running_heads_agree": [
     8,
     8
    ]
   },
-  "built_sha256": "a849aa467e8f6c67f0eafa877c4d15e50517a2818cc0f68684a7f533c47c6ebc"
+  "built_sha256": "02ca9f488ceecc3b808ae3845b8d0c39ec1b82016ca91a2c1e5d304e33cd0d4e"
  },
  "charles-jub": {
   "title": "The Book of Jubilees",
@@ -5714,12 +5729,13 @@
     "sentence-first": 95
    },
    "headings_dropped": 69,
+   "apparatus_lines_dropped": 1,
    "running_heads_agree": [
     54,
     59
    ]
   },
-  "built_sha256": "7ca6e233a7dcefee2d12934626f113676064fabe5c237c25e639b7651ca74541"
+  "built_sha256": "2d46679ea78ecedb99b7e5a705d9d08bcb726bdfb7a713630485a2a5569102cb"
  },
  "charles-arist": {
   "title": "The Letter of Aristeas",
@@ -5750,9 +5766,10 @@
     "sentence": 162,
     "sentence-first": 13
    },
-   "headings_dropped": 0
+   "headings_dropped": 0,
+   "apparatus_lines_dropped": 0
   },
-  "built_sha256": "405efd8fcb6686783144b9a4f2efa0a71653a8e521a1775032507b16693422df"
+  "built_sha256": "3cbbba4c2fb04a5eb2dca1361057fc531a6e727799d84098a7bd9df47aee4e51"
  },
  "charles-adam": {
   "title": "The Books of Adam and Eve",
@@ -5805,13 +5822,14 @@
     "sentence-first": 5
    },
    "headings_dropped": 0,
+   "apparatus_lines_dropped": 0,
    "running_heads_agree": [
     1,
     2
    ],
    "refused": "verse decoding below the bar (numbers read 59%; heads 1/2): built by printed page instead"
   },
-  "built_sha256": "18dc7befa936831578363a0ecb06d42acf25d1af50a18e832fc4f1c23dab09e3"
+  "built_sha256": "f345b53f6d2bf8adf86526a49d68923fd4896ef0e179b46df49fe6dfbae00223"
  },
  "charles-1en": {
   "title": "The Book of Enoch (1 Enoch)",
@@ -5843,20 +5861,21 @@
     "sentence-first": 15
    },
    "headings_dropped": 19,
+   "apparatus_lines_dropped": 0,
    "two_column_leaves_left_kept": 4,
    "running_heads_agree": [
     72,
     81
    ]
   },
-  "built_sha256": "e06bba417a23d6e8aa55567c67f17b9c082169b9cd8808a9cd77b1787c3c9052"
+  "built_sha256": "6a40125fcd620303d04ae02e081e8d45dafd6d5541b25aed7a7f44a68e31e323"
  },
  "charles-testxii": {
   "title": "The Testaments of the Twelve Patriarchs",
   "author": "tr. and ed. R. H. Charles, in Charles (1913)",
   "format": "ia-hocr",
   "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
-  "units": 891,
+  "units": 890,
   "scheme": {
    "citation": "testament.chapter.verse",
    "resolution": "verse",
@@ -5870,20 +5889,21 @@
    "redistribute_whole": true
   },
   "measure": {
-   "verses": 891,
+   "verses": 890,
    "number_read": 642,
    "number_read_with_fix": 141,
-   "number_inferred": 108,
+   "number_inferred": 107,
    "start": {
     "line": 101,
     "line-start": 286,
     "sentence": 434,
-    "sentence-first": 70
+    "sentence-first": 69
    },
    "headings_dropped": 0,
+   "apparatus_lines_dropped": 1,
    "two_column_leaves_left_kept": 3
   },
-  "built_sha256": "063b8500d12fefad3a05e9a95d2e6efe0b1e0f7af45f85a35ff66f6ac6f0c352"
+  "built_sha256": "7aed6fb81b48e3d038a8e62ce2456203be05d7a53b190c4ed2f6ecd02408a8dc"
  },
  "charles-sib": {
   "title": "The Sibylline Oracles",
@@ -5909,9 +5929,10 @@
    "number_read_with_fix": 0,
    "number_inferred": 89,
    "start": {},
-   "headings_dropped": 0
+   "headings_dropped": 0,
+   "apparatus_lines_dropped": 0
   },
-  "built_sha256": "0c44d2e3d209b4fe5cc03e4c0bf01f7b7a230d5b84754b72b27644cb60476b5d"
+  "built_sha256": "f0f323399dcbb3c68d5a11581f2d4faa47572a16f9401a165b5896fbbfdbc153"
  },
  "charles-asmos": {
   "title": "The Assumption of Moses",
@@ -5943,12 +5964,13 @@
     "sentence-first": 7
    },
    "headings_dropped": 0,
+   "apparatus_lines_dropped": 0,
    "running_heads_agree": [
     7,
     7
    ]
   },
-  "built_sha256": "20b87607f4cb6c0755ae1a250c78cd2a619af9b15e758257e11e3d6418ad58f7"
+  "built_sha256": "89974fc1cc4edeb9b43c8931d81bfcdab3ccbdca133949c3e5b5248aac6f2032"
  },
  "charles-2en": {
   "title": "The Book of the Secrets of Enoch (2 Enoch)",
@@ -5976,7 +5998,7 @@
   "author": "tr. and ed. R. H. Charles, in Charles (1913)",
   "format": "ia-hocr",
   "sha256": "cca43ccaf0ed41bebaf96adfe50c0a49b09150ec4b541e572866eefcb6782d24",
-  "units": 583,
+  "units": 581,
   "scheme": {
    "citation": "chapter.verse (Charles's numbering)",
    "resolution": "verse",
@@ -5990,23 +6012,24 @@
    "redistribute_whole": true
   },
   "measure": {
-   "verses": 583,
-   "number_read": 401,
-   "number_read_with_fix": 82,
-   "number_inferred": 100,
+   "verses": 581,
+   "number_read": 395,
+   "number_read_with_fix": 85,
+   "number_inferred": 101,
    "start": {
-    "line": 67,
+    "line": 66,
     "line-start": 249,
-    "sentence": 241,
+    "sentence": 240,
     "sentence-first": 26
    },
    "headings_dropped": 8,
+   "apparatus_lines_dropped": 26,
    "running_heads_agree": [
     26,
     33
    ]
   },
-  "built_sha256": "fb308764cf0cabc5f56f84e7f01be285c56afbecb40d10f3c8a2ae52bac7fb55"
+  "built_sha256": "123fa7f592e287d2b5f9c2bb82ec751bcfd2bc378bf7faae34c8d2f6bf04abba"
  },
  "charles-3bar": {
   "title": "III Baruch (the Greek Apocalypse)",
@@ -6038,12 +6061,13 @@
     "sentence-first": 21
    },
    "headings_dropped": 0,
+   "apparatus_lines_dropped": 0,
    "running_heads_agree": [
     3,
     4
    ]
   },
-  "built_sha256": "434bb0903194024aff68fcde6320eba5d8c196665f0ae8dd9e0ef1beabd448db"
+  "built_sha256": "2d4c6cca07c354ec1554fdd590d58fe21b6b15128e91ee87acf02ffc1a18f520"
  },
  "charles-4ezra": {
   "title": "IV Ezra",
@@ -6075,6 +6099,7 @@
     "sentence-first": 32
    },
    "headings_dropped": 13,
+   "apparatus_lines_dropped": 0,
    "running_heads_agree": [
     52,
     60
@@ -6085,7 +6110,7 @@
     "beyond_kjv": 73
    }
   },
-  "built_sha256": "db5b38c2194de8754726db997ee95eb5422b87fda5c8bab32e822c5a0188d9c8"
+  "built_sha256": "7e027b2907b31790bf2eef65abd664a2031d0286ad07fbee9ee50e841bd0e7f1"
  },
  "charles-pssol": {
   "title": "The Psalms of Solomon",
@@ -6115,12 +6140,13 @@
     "line-start": 230
    },
    "headings_dropped": 0,
+   "apparatus_lines_dropped": 0,
    "running_heads_agree": [
     19,
     19
    ]
   },
-  "built_sha256": "a97c8a69ca4a4923969b6ebdf69c9b2442784cd3171258d72f1d4a8217bb4903"
+  "built_sha256": "195fa51c9fedb926c79d0f71239f40b4bf01981bfc4dd1ff5c7d9702dfa8c092"
  },
  "charles-4macc": {
   "title": "The Fourth Book of Maccabees",
@@ -6152,12 +6178,13 @@
     "sentence-first": 11
    },
    "headings_dropped": 0,
+   "apparatus_lines_dropped": 0,
    "running_heads_agree": [
     17,
     18
    ]
   },
-  "built_sha256": "876c431acec08e3d871b6370ee5b4a6b6333a9423a4a81133107b31f2c15a0b8"
+  "built_sha256": "2943f153f4fbc50fb3fa1cc414a7b655db1baceaa32385a5f01f5b87247fae33"
  },
  "charles-aboth": {
   "title": "Pirke Aboth: The Sayings of the Fathers",
@@ -6189,12 +6216,13 @@
     "sentence-first": 17
    },
    "headings_dropped": 0,
+   "apparatus_lines_dropped": 0,
    "running_heads_agree": [
     17,
     20
    ]
   },
-  "built_sha256": "c98bdfbe492b0cac277dd397f80e2bbca5a3913346d3b0823420b5770fe34cca"
+  "built_sha256": "87c5924d71d8bb78547b2b74308053c54b4e4d7bdb55d24f9b03ad58e3e12813"
  },
  "charles-ahikar": {
   "title": "The Story of Ahikar",
@@ -6247,13 +6275,14 @@
     "sentence-first": 13
    },
    "headings_dropped": 45,
+   "apparatus_lines_dropped": 3,
    "two_column_leaves_left_kept": 1,
    "running_heads_agree": [
     26,
     27
    ]
   },
-  "built_sha256": "756a358028b07d9063195593994af7dd4ea78e102cf235fbbb369f8e77dc62a5"
+  "built_sha256": "05c55bf51a055b37f3ad7eb4ec08d53da4c52a9c1e3b2c96970481140927eb55"
  },
  "coverdale": {
   "title": "The Coverdale Bible (1535)",

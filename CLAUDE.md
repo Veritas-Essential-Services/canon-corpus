@@ -143,6 +143,9 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_charles.py --check    # rebuild = the committed manifest entries
     python3 pipeline/build_charles.py --report   # per book: numbers read, running heads, KJV verse coverage
     python3 tests/charles_test.py            # the scan reader on fixtures; the manifest's measures
+    python3 pipeline/proof_charles.py --fetch    # the pinned English word list (dwyl, Unlicense)
+    python3 pipeline/proof_charles.py            # likely OCR errors -> docs/review/charles-ocr-flags.{tsv,md}
+    python3 pipeline/proof_charles.py --check    # the committed flags = a fresh pass
     python3 pipeline/build_josephus.py --fetch   # Niese Greek + Whiston English (Perseus TEI, pinned) -> data/books/
     python3 pipeline/build_josephus.py --check   # rebuild = the committed manifest entries
     python3 tests/josephus_test.py           # Josephus: alignment, Niese cross-check, famous passages
