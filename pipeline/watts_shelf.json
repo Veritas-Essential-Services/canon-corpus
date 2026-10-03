@@ -5,7 +5,11 @@
   "isaac"
  ],
  "_surname": [
-  "watts"
+  "isaac watts",
+  "i. watts",
+  "dr. watts",
+  "dr watts",
+  "watts, isaac"
  ],
  "_held": {},
  "ccel": {},
@@ -55,27 +59,27 @@
  "_checks": {
   "watts-works-leeds-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "watts",
+   "author_seen": "isaac watts",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
   },
   "watts-essay-psalmody": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "watts",
+   "author_seen": "isaac watts",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
   },
   "watts-works-1810-01": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "watts",
+   "author_seen": "isaac watts",
    "identity": "ok",
    "ia_rights": "ok: published 1810",
    "ia_date": "1810",
@@ -84,9 +88,9 @@
   },
   "watts-works-1810-02": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "watts",
+   "author_seen": "isaac watts",
    "identity": "ok",
    "ia_rights": "ok: published 1810",
    "ia_date": "1810",
@@ -95,9 +99,9 @@
   },
   "watts-works-1810-03": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "watts",
+   "author_seen": "isaac watts",
    "identity": "ok",
    "ia_rights": "ok: published 1810",
    "ia_date": "1810",
@@ -106,9 +110,9 @@
   },
   "watts-works-1810-04": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "watts",
+   "author_seen": "isaac watts",
    "identity": "ok",
    "ia_rights": "ok: published 1810",
    "ia_date": "1810",
@@ -117,9 +121,9 @@
   },
   "watts-works-1810-05": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "watts",
+   "author_seen": "isaac watts",
    "identity": "ok",
    "ia_rights": "ok: published 1810",
    "ia_date": "1810",
@@ -128,9 +132,9 @@
   },
   "watts-works-1810-06": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "watts",
+   "author_seen": "isaac watts",
    "identity": "ok",
    "ia_rights": "ok: published 1810",
    "ia_date": "1810",
