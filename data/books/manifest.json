@@ -29317,7 +29317,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: Alford runs his verse notes on inline ('9.] As we said', '5. ᾧ ἡ δόξα'), so a verse number after the end of a clause, followed by a bracket or by Greek, and not after a reference's numeral or abbreviation, is a candidate, accepted when the verse sequence (and the fuzzily read running head) allows it; every following line, left column then right, belongs to it; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the Greek text block per leaf (leaf.N.text) with the digest of readings under it (apparatus) and the marginal references run into the text; every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Alford runs his verse notes on inline ('9.] As we said', '5. ᾧ ἡ δόξα'), so a verse number after the end of a clause, followed by a bracket or by Greek, and not after a reference's numeral or abbreviation, is a candidate, accepted when the verse sequence (and the fuzzily read running head) allows it; every following line, left column then right, belongs to it; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the Greek text block per leaf (leaf.N.text) with the digest of readings under it (apparatus) and the marginal references run into the text; every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "same_scan_as": "Lane A's raw-OCR shelf of this IA item (pipeline/henry-alford_shelf.json, branch claude/armarium-divines)",
    "scan_choice": "Lane A's item (same scan); measured against greektestamentwiptsl02alfo (1899): Greek 17.3% vs 17.1% of letters, Greek tokens known 34.1% vs 34.8%: not clearly better",
@@ -29373,8 +29373,10 @@
     }
    },
    "scripture_links": {
-    "read": 9086,
-    "resolved": 7761
+    "read": 9018,
+    "resolved": 7694,
+    "ranges": 157,
+    "ranges_start_only": 3
    },
    "greek": {
     "greek_letters": 374516,
@@ -29388,7 +29390,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "65a830a56b4b0a1e66540933d92afad576b2707efb05e17f1879094e412df0d9"
+  "built_sha256": "7a2d1b76d3cf01c70735a8d029de5c9f6d3c5edf066bc6cb5d6e0e87d6705f53"
  },
  "alford-commentary-3": {
   "title": "The Greek Testament, vol. III",
@@ -29399,7 +29401,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: Alford runs his verse notes on inline ('9.] As we said', '5. ᾧ ἡ δόξα'), so a verse number after the end of a clause, followed by a bracket or by Greek, and not after a reference's numeral or abbreviation, is a candidate, accepted when the verse sequence (and the fuzzily read running head) allows it; every following line, left column then right, belongs to it; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the Greek text block per leaf (leaf.N.text) with the digest of readings under it (apparatus) and the marginal references run into the text; every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Alford runs his verse notes on inline ('9.] As we said', '5. ᾧ ἡ δόξα'), so a verse number after the end of a clause, followed by a bracket or by Greek, and not after a reference's numeral or abbreviation, is a candidate, accepted when the verse sequence (and the fuzzily read running head) allows it; every following line, left column then right, belongs to it; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the Greek text block per leaf (leaf.N.text) with the digest of readings under it (apparatus) and the marginal references run into the text; every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "scan_choice": "greektestamentwi00alfo (4th ed., 1865; Lane A has no vol. III): Greek 15.4%, known 35.5%; greektestamentw03alfo 15.8%/35.5% is a catalogue-1849 copy of unstated edition",
    "note": "Henry Alford, The Greek Testament: with a critically revised text, a digest of various readings, marginal references to verbal and idiomatic usage, prolegomena, and a critical and exegetical commentary, vol. III (Galatians to Philemon), 4th ed. (London: Rivingtons; Cambridge: Deighton, Bell, 1865), as its title page reads; scan leaves 7-579 of greektestamentwi00alfo"
@@ -29489,8 +29491,10 @@
     }
    },
    "scripture_links": {
-    "read": 8422,
-    "resolved": 7115
+    "read": 8404,
+    "resolved": 7100,
+    "ranges": 101,
+    "ranges_start_only": 7
    },
    "greek": {
     "greek_letters": 252627,
@@ -29504,7 +29508,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "9ba3ec7ffef62164b7246f5d5781d7650bd2e7b1bcc36f8803400d04945591b1"
+  "built_sha256": "74721c82bf0675e00e82e13a0c97c8e8a8c390eea5d1feabcc741ea4d0bddb59"
  },
  "alford-commentary-4": {
   "title": "The Greek Testament, vol. IV",
@@ -29515,7 +29519,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); leaf.N.text; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: Alford runs his verse notes on inline ('9.] As we said', '5. ᾧ ἡ δόξα'), so a verse number after the end of a clause, followed by a bracket or by Greek, and not after a reference's numeral or abbreviation, is a candidate, accepted when the verse sequence (and the fuzzily read running head) allows it; every following line, left column then right, belongs to it; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the Greek text block per leaf (leaf.N.text) with the digest of readings under it (apparatus) and the marginal references run into the text; every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Alford runs his verse notes on inline ('9.] As we said', '5. ᾧ ἡ δόξα'), so a verse number after the end of a clause, followed by a bracket or by Greek, and not after a reference's numeral or abbreviation, is a candidate, accepted when the verse sequence (and the fuzzily read running head) allows it; every following line, left column then right, belongs to it; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); the Greek text block per leaf (leaf.N.text) with the digest of readings under it (apparatus) and the marginal references run into the text; every other page by scan leaf (leaf.N, the folio in scan.printed_page where read); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "same_scan_as": "Lane A's raw-OCR shelf of this IA item (pipeline/henry-alford_shelf.json, branch claude/armarium-divines)",
    "scan_choice": "Lane A's item (same scan); measured against greektestamentwi5604alfo (3rd ed., 1866): Greek 14.0% vs 13.6%, known 35.7% vs 35.5%",
@@ -29591,8 +29595,10 @@
     }
    },
    "scripture_links": {
-    "read": 9666,
-    "resolved": 8043
+    "read": 9642,
+    "resolved": 8019,
+    "ranges": 168,
+    "ranges_start_only": 4
    },
    "greek": {
     "greek_letters": 417466,
@@ -29606,7 +29612,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "4d6f95a5bafcc6d47631f91e2fc08a7711de7fcc4bfb29c0e387f89732e0fac5"
+  "built_sha256": "4c6f30a990e0f29f2d5c90f8814c58ef814f850a78f6671b6de8ea7f23ca0ff3"
  },
  "bengel-gnomon-2": {
   "title": "Gnomon of the New Testament, vol. II",
@@ -29617,7 +29623,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('14. μηκέτι)') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the translator's footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page (counts in measure); every other page by scan leaf (leaf.N); unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('14. μηκέτι)') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the translator's footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page (counts in measure); every other page by scan leaf (leaf.N); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "scan_choice": "gnomonofnewtesta23beng (vols. II and III bound as one): Greek 6.3%, known 34.4%; cu31924092350523 (1877, vol. II) 5.9%/33.1%",
    "note": "John Albert Bengel, Gnomon of the New Testament, now first translated into English, revised and edited by Andrew R. Fausset (Edinburgh: T. & T. Clark), vol. II (Luke, John, Acts), tr. Andrew R. Fausset, seventh edition (1873), as its title page reads; bound with vol. III; scan leaves 9-754 of gnomonofnewtesta23beng"
@@ -29661,8 +29667,10 @@
     }
    },
    "scripture_links": {
-    "read": 4974,
-    "resolved": 4544
+    "read": 4957,
+    "resolved": 4528,
+    "ranges": 45,
+    "ranges_start_only": 3
    },
    "greek": {
     "greek_letters": 76095,
@@ -29676,7 +29684,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "4f0d5707776b8bf48c73512d4dbe9db4e6903e635bc024ee19a31e24c6dcd984"
+  "built_sha256": "b2585f259b4ac50b95f601896e344d64c9985a75810cedec19de8690193c1829"
  },
  "bengel-gnomon-3": {
   "title": "Gnomon of the New Testament, vol. III",
@@ -29687,7 +29695,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('14. μηκέτι)') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the translator's footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page (counts in measure); every other page by scan leaf (leaf.N); unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('14. μηκέτι)') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the translator's footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page (counts in measure); every other page by scan leaf (leaf.N); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "scan_choice": "gnomonofnewtesta23beng (vols. II and III bound as one); cu31924092350499 (1877, vol. III): 0.0% Greek",
    "note": "John Albert Bengel, Gnomon of the New Testament, now first translated into English, revised and edited by Andrew R. Fausset (Edinburgh: T. & T. Clark), vol. III (Romans, Corinthians), tr. James Bryce, seventh edition (1873), as its own title page (leaf 755) reads; bound after vol. II; scan leaves 755-1199 of gnomonofnewtesta23beng"
@@ -29731,8 +29739,10 @@
     }
    },
    "scripture_links": {
-    "read": 3118,
-    "resolved": 2844
+    "read": 3109,
+    "resolved": 2835,
+    "ranges": 33,
+    "ranges_start_only": 1
    },
    "greek": {
     "greek_letters": 48767,
@@ -29746,7 +29756,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "f0dca8074b2117664a0c0a7bedaab1a8f734cf44e0584828b1ef6d6a1c8d95ca"
+  "built_sha256": "8f50f444c4f21bc17bae92230e47b088caf3e29a33dff00c797ea96517824000"
  },
  "bengel-gnomon-4": {
   "title": "Gnomon of the New Testament, vol. IV",
@@ -29757,7 +29767,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('14. μηκέτι)') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the translator's footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page (counts in measure); every other page by scan leaf (leaf.N); unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening with a verse number ('14. μηκέτι)') is a candidate, accepted when the verse sequence and the running head allow it; following paragraphs belong to it until the next; the translator's footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page (counts in measure); every other page by scan leaf (leaf.N); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "scan_choice": "cu31924092350507 (1877): Greek 7.5%, known 32.4%; gnomonofnewtesta03benguoft (1873): 0.0% Greek",
    "note": "John Albert Bengel, Gnomon of the New Testament, now first translated into English, revised and edited by Andrew R. Fausset (Edinburgh: T. & T. Clark), vol. IV (Galatians to Hebrews), tr. James Bryce, seventh edition (1877), as its title page reads; scan leaves 4-509 of cu31924092350507"
@@ -29841,8 +29851,10 @@
     }
    },
    "scripture_links": {
-    "read": 3927,
-    "resolved": 3603
+    "read": 3911,
+    "resolved": 3589,
+    "ranges": 38,
+    "ranges_start_only": 2
    },
    "greek": {
     "greek_letters": 59410,
@@ -29856,7 +29868,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "571e7819c52ff3de26a3c9791ffca4b44d8aa9b22b5c1881e7945c91a169ef6d"
+  "built_sha256": "639a6bb3709ea7ae8784008462a823891848e89e641a263da6debe098a075baf"
  },
  "keil-delitzsch-pentateuch-1": {
   "title": "Biblical Commentary on the Old Testament: The Pentateuch, vol. I",
@@ -29867,7 +29879,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Gen": "undecided",
@@ -29914,8 +29926,10 @@
     }
    },
    "scripture_links": {
-    "read": 2348,
-    "resolved": 2253
+    "read": 2320,
+    "resolved": 2226,
+    "ranges": 80,
+    "ranges_start_only": 1
    },
    "numbering_own": {
     "Gen": {
@@ -29957,7 +29971,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "c8c05f8cd4cf39bc34023a409ea889c81ca1d76f4da1698673768257cac37423"
+  "built_sha256": "2375ea08ec0152ce1865756458200903de2cbca88eaf0715d583115bc30e3aa3"
  },
  "keil-delitzsch-pentateuch-2": {
   "title": "Biblical Commentary on the Old Testament: The Pentateuch, vol. II",
@@ -29968,7 +29982,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Exod": "undecided",
@@ -30015,8 +30029,10 @@
     }
    },
    "scripture_links": {
-    "read": 3542,
-    "resolved": 3410
+    "read": 3440,
+    "resolved": 3318,
+    "ranges": 214,
+    "ranges_start_only": 6
    },
    "numbering_own": {
     "Exod": {
@@ -30058,7 +30074,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "9909845821ab018cfb0803ced8c6c1b00df477d460882dcd7e2da933a68c7e67"
+  "built_sha256": "d7f1c067c63093b55b56d1da020da86aa89dbd032d793c2c07c3f8a9183425b3"
  },
  "keil-delitzsch-pentateuch-3": {
   "title": "Biblical Commentary on the Old Testament: The Pentateuch, vol. III",
@@ -30069,7 +30085,7 @@
   "scheme": {
    "citation": "note: book.chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: book.chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Num": "undecided",
@@ -30116,8 +30132,10 @@
     }
    },
    "scripture_links": {
-    "read": 4426,
-    "resolved": 4257
+    "read": 4277,
+    "resolved": 4126,
+    "ranges": 320,
+    "ranges_start_only": 9
    },
    "numbering_own": {
     "Num": {
@@ -30159,7 +30177,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "04069f81e4ea8adabf49ddadaad84a70fde3d69e72f03a9a4a97c03c00d97054"
+  "built_sha256": "4dac14ccdf706553860efbdccbce29d1a1f9b2f7ba9dcf5954d6e06303ece0f9"
  },
  "delitzsch-psalms-1": {
   "title": "Biblical Commentary on the Psalms, vol. I",
@@ -30170,7 +30188,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Ps": "hebrew"
@@ -30213,8 +30231,10 @@
     }
    },
    "scripture_links": {
-    "read": 2004,
-    "resolved": 1853
+    "read": 1995,
+    "resolved": 1844,
+    "ranges": 47,
+    "ranges_start_only": 0
    },
    "numbering_own": {
     "Ps": {
@@ -30250,7 +30270,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "7308cdd3d4c9dd599a23cdc085fceba3dd2fa47abbfc66dcce29116cf834d96c"
+  "built_sha256": "0d456dcddea3f6a2a076e91139d713772090347a936b2ffd1ec1e91b13f87671"
  },
  "delitzsch-psalms-2": {
   "title": "Biblical Commentary on the Psalms, vol. II",
@@ -30261,7 +30281,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Ps": "hebrew"
@@ -30304,8 +30324,10 @@
     }
    },
    "scripture_links": {
-    "read": 2339,
-    "resolved": 2194
+    "read": 2333,
+    "resolved": 2188,
+    "ranges": 67,
+    "ranges_start_only": 0
    },
    "numbering_own": {
     "Ps": {
@@ -30341,7 +30363,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "f35008ec5bbef0647955709b958482e8f6800b70a6aa15281128d002e1bb9f12"
+  "built_sha256": "7a1b676bdbbc458d001a13f1a1aec7190c093e61b7f8b794fd474b9d8e2a5fca"
  },
  "delitzsch-psalms-3": {
   "title": "Biblical Commentary on the Psalms, vol. III",
@@ -30352,7 +30374,7 @@
   "scheme": {
    "citation": "note: chapter.verse of the verse commented on, in the numbering the volume prints (scheme.numbering) (a run of verses: chapter.verse-end); everything else: scan leaf (leaf.N; folio in scan.printed_page)",
    "resolution": "verse-note",
-   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: an indented paragraph opening 'Ver. 3.' or 'Vers. 14-19.' is a candidate, accepted when the verse sequence and the running head ('CHAP. I. 14-19.', 'PSALM V. 5—7.') allow it; following paragraphs, including the introduction to the next section, belong to it until the next accepted opener; ids are in the numbering the volume prints, MEASURED per book (measure.numbering_own) and linked to the KJV through bhs-kjv.json where it is the Hebrew's; the OT references in the text are resolved in the numbering measured for them (measure.numbering_references); footnotes in `notes`; every other page by scan leaf (leaf.N); the Hebrew words are lost: the OCR read the pointed Hebrew as Latin-letter debris, which stays in the text as printed by the OCR, unremoved; unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "numbering": {
     "Ps": "hebrew"
@@ -30395,8 +30417,10 @@
     }
    },
    "scripture_links": {
-    "read": 2705,
-    "resolved": 2522
+    "read": 2692,
+    "resolved": 2509,
+    "ranges": 83,
+    "ranges_start_only": 1
    },
    "numbering_own": {
     "Ps": {
@@ -30432,6 +30456,6 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "19560f06a41fc5d2cf2bd4aa73b31453caf75d4630f82c6a4b1c44d0f4379b93"
+  "built_sha256": "142b3f1fe752f95bc2c983831825f0e23def11e010ea72dc8ee3ce583ca6b386"
  }
 }

@@ -2597,7 +2597,7 @@ def harvest_2b(slug, units, ids):
                 mm = re.match(r'(?:[1-3]?[A-Za-z]+\.)?(\d+)\.\d', u["id"].split(":", 1)[1])
                 ch = int(mm.group(1)) if mm else None
             text = u["text"] + " " + " ".join(u.get("notes", []))
-            found = scripture(text, ids, own=book if u["kind"] in ("note", "page") else None, chapter=ch)
+            found = scripture(text, ids, own=book if u["kind"] == "note" else None, chapter=ch)
             u["links"] += found
             n += len(found)
             r += sum(1 for x in found if x["resolved"])
@@ -2636,10 +2636,15 @@ def harvest_2b(slug, units, ids):
             if book in V.BOOKS:
                 cls = "Ps" if book == "Ps" else "other"
                 x = dict(ref=p, **ot_link(book, ch, v, measure[cls]["decision"], ids, f"text/{cls}"))
+                y = (ot_link(book, ch, end, measure[cls]["decision"], ids, f"text/{cls}")
+                     if end and end > v else None)
             else:
                 t = f"kjv:{book}.{ch}.{v}"
                 x = ({"ref": p, "target": t, "resolved": True, "numbering": "kjv", "rule": "text/nt"} if t in ids else
                      {"ref": p, "resolved": False, "why": "no such verse in the KJV", "rule": "text/nt"})
+                y = ({"target": f"kjv:{book}.{ch}.{end}", "resolved": True}
+                     if end and end > v and f"kjv:{book}.{ch}.{end}" in ids else None)
+            _kd_through(x, ch, v, end, y)
             found.append(x)
         if u["kind"] == "note" and u.get("book"):
             mm = re.match(r'(?:[1-3]?[A-Za-z]+\.)?(\d+)\.\d', u["id"].split(":", 1)[1])
@@ -2647,11 +2652,14 @@ def harvest_2b(slug, units, ids):
                 b, c = u["book"], int(mm.group(1))
                 nb = own_num.setdefault(b, s["_numbering"].get(b, {}).get("decision", "kjv"))
                 for mt in SELF_VER.finditer(u["text"]):
-                    for v in [int(mt.group(1))] + [int(x) for x in re.findall(r'\d{1,2}', mt.group(2))]:
-                        p = f"{b} {c}:{v}"
+                    for v, end in _ver_spans(mt):
+                        p = f"{b} {c}:{v}" + (f"-{end}" if end else "")
                         if p not in seen:
                             seen.add(p)
-                            found.append(dict(ref=p, **ot_link(b, c, v, nb, ids, "self/ver")))
+                            x = dict(ref=p, **ot_link(b, c, v, nb, ids, "self/ver"))
+                            _kd_through(x, c, v, end, ot_link(b, c, end, nb, ids, "self/ver")
+                                        if end and end > v else None)
+                            found.append(x)
                 for mt in KD_CHAP.finditer(u["text"]):
                     c2 = FS.roman(mt.group(1))
                     p = f"{b} {c2}:{mt.group(2)}"
@@ -2664,8 +2672,31 @@ def harvest_2b(slug, units, ids):
     return n, r, {"numbering_references": measure}
 
 
+def _ver_spans(mt):
+    """A SELF_VER match as (verse, end or None) pairs: 'vv. 8-12' is one span,
+    'vv. 8, 12' two verses."""
+    out = [[int(mt.group(1)), None]]
+    for sep, n in re.findall(r'\s*([,–—-])\s*(\d{1,2})', mt.group(2)):
+        if sep == ",":
+            out.append([int(n), None])
+        else:
+            out[-1][1] = int(n)
+    return [tuple(x) for x in out]
+
+
+def _kd_through(x, ch, v, end, y):
+    """A range's end on a Keil & Delitzsch link: `through` where it resolves
+    after the start, else `through_unread`, as the first shelf's scripture()."""
+    if not end or not x.get("resolved"):
+        return
+    if end > v and y and y.get("resolved") and y["target"] != x["target"]:
+        x["through"] = y["target"]
+    else:
+        x["through_unread"] = f"{ch}:{end}: " + ("backwards" if end <= v else "no such verse")
+
+
 KD_CHAP = re.compile(r'\b(?:chap|ch)\.\s*([ivxlc]{1,8})\.\s*(\d{1,3})\b')   # 'chap. ii. 4': the same book
-HEBREW = re.compile(r'[֐-׿]')
+HEBREW_CHAR = re.compile(r'[֐-׿]')
 
 
 def honesty_2b(slug):
@@ -2739,7 +2770,10 @@ def build_book_2b(slug, ids):
             cov[b]["chapters"] = [chs[0], chs[-1]]
             cov[b]["kjv_verses_in_chapters"] = sum(1 for k in allv if chs[0] <= int(k.rsplit(".", 2)[1]) <= chs[-1])
     measure["kjv_coverage"] = cov
-    measure["scripture_links"] = {"read": n_links, "resolved": n_resolved}
+    measure["scripture_links"] = {"read": n_links, "resolved": n_resolved,
+                                  "ranges": sum(1 for u in units for x in u["links"] if "through" in x),
+                                  "ranges_start_only": sum(1 for u in units for x in u["links"]
+                                                           if "through_unread" in x)}
     if numbering_own is not None:
         measure["numbering_own"] = numbering_own
     measure.update(extra)
@@ -2747,9 +2781,10 @@ def build_book_2b(slug, ids):
     letters = heb = 0
     for u in units:
         letters += sum(c.isalpha() for c in u["text"])
-        heb += len(HEBREW.findall(u["text"]))
+        heb += len(HEBREW_CHAR.findall(u["text"]))
     measure["hebrew"] = {"hebrew_letters": heb, "hebrew_share_of_letters": round(heb / letters, 4) if letters else 0}
-    scheme = {"citation": citation_2b(slug), "resolution": "verse-note", "honesty": honesty_2b(slug), "status": "draft"}
+    scheme = {"citation": citation_2b(slug), "resolution": "verse-note",
+              "honesty": honesty_2b(slug) + RANGES_HONESTY_2B, "status": "draft"}
     if numbering_own is not None:
         scheme["numbering"] = {b: v["decision"] for b, v in numbering_own.items()}
     if s.get("lane_a"):
@@ -2803,6 +2838,11 @@ RUNS_HONESTY = (
     "KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only); 'ver. 20' "
     "and a bare 'c. iii. 13' are read as the commentary's own epistle in note units only, and never after "
     "another work's abbreviation ('Euseb. H.E. c. iv. 3')")
+
+
+RANGES_HONESTY_2B = (
+    "; in the scripture references a range keeps its end in `through` (one crossing chapters included), and a "
+    "range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)")
 
 
 def honesty(slug, ocr):

@@ -182,6 +182,18 @@ check("pins: every scan's Internet Archive date (pinned from its metadata; fetch
           and (int(v["ia_date"][:4]) == v["printed"] or v.get("ia_date_note"))
           for s in B.SCANS.values() for v in B.volumes(s)))
 
+# -- the second shelf's ranges (Keil & Delitzsch)
+check("K&D: 'vv. 8-12' is one span, 'vv. 3-5, 9' a span and a verse",
+      B._ver_spans(B.SELF_VER.search("vv. 8-12")) == [(8, 12)]
+      and B._ver_spans(B.SELF_VER.search("vv. 3-5, 9")) == [(3, 5), (9, None)])
+x = {"target": "kjv:Ps.51.3", "resolved": True}
+B._kd_through(x, 51, 5, 6, {"target": "kjv:Ps.51.4", "resolved": True})
+check("K&D: a range keeps its end in `through`", x.get("through") == "kjv:Ps.51.4")
+x = {"target": "kjv:Ps.51.3", "resolved": True}
+B._kd_through(x, 51, 5, 3, None)
+check("K&D: a backward range keeps its start only and says so", x.get("through_unread") == "51:3: backwards"
+      and "through" not in x)
+
 # -- the manifest's measures
 with open(os.path.join(ROOT, "data", "books", "manifest.json"), encoding="utf-8") as f:
     man = json.load(f)
