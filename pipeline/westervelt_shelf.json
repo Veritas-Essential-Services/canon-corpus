@@ -1,0 +1,102 @@
+{
+ "_about": "W. D. Westervelt's (1849-1939) Hawaiian legends, which he collected and translated from the Hawaiian himself (title pages of Gods and Ghosts, Volcanoes and Old Honolulu). Dated by title page: Maui 1910, Gods and Ghosts 1915, Volcanoes 1916, Old Honolulu 1916 (preface dated June 1915). Hawaiian Historical Legends is undated in the text (Revell; its dedication calls it his sixth Hawaiian book); Gutenberg cleared it as US public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "W. D. Westervelt",
+ "_name_words": [
+  "westervelt"
+ ],
+ "_surname": [
+  "westervelt"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "westervelt-legends-of-maui": [
+   32601,
+   "Legends of Ma-ui, a Demi God of Polynesia, and of His Mother Hina",
+   {
+    "contents_only": true
+   }
+  ],
+  "westervelt-gods-and-ghosts": [
+   39195,
+   "Legends of Gods and Ghosts (Hawaiian Mythology)"
+  ],
+  "westervelt-legends-of-volcanoes": [
+   66516,
+   "Hawaiian Legends of Volcanoes",
+   {
+    "contents_only": true
+   }
+  ],
+  "westervelt-legends-of-old-honolulu": [
+   66547,
+   "Legends of Old Honolulu",
+   {
+    "contents_only": true
+   }
+  ],
+  "westervelt-historical-legends": [
+   66357,
+   "Hawaiian Historical Legends"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "westervelt-gods-and-ghosts": "Westervelt",
+  "westervelt-legends-of-volcanoes": "Westervelt",
+  "westervelt-legends-of-old-honolulu": "Westervelt"
+ },
+ "_checks": {
+  "westervelt-legends-of-maui": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "westervelt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "westervelt-gods-and-ghosts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "westervelt",
+   "translator_claimed": "Westervelt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "westervelt-legends-of-volcanoes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "westervelt",
+   "translator_claimed": "Westervelt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "westervelt-legends-of-old-honolulu": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "westervelt",
+   "translator_claimed": "Westervelt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "westervelt-historical-legends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "westervelt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

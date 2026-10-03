@@ -989,6 +989,56 @@
       "started": "2026-10-02T20:59:42-05:00",
       "finished": "2026-10-02T21:04:26-05:00",
       "notes": "3/3 fetched (Gutenberg 7165, 29121, 78491), 2,151 units, 29 ~2 ids."
+    },
+    {
+      "id": "westervelt",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales and myths: westervelt; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:10:00-05:00",
+      "finished": "2026-10-02T21:10:00-05:00",
+      "notes": "5/5 fetched (Gutenberg 32601, 39195, 66516, 66547, 66357), 4,502 units, 0 ~2 ids."
+    },
+    {
+      "id": "fansler",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales and myths: fansler; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:10:00-05:00"
+    },
+    {
+      "id": "kremnitz",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales and myths: kremnitz; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:10:00-05:00"
+    },
+    {
+      "id": "eells",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales and myths: eells; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:10:00-05:00"
+    },
+    {
+      "id": "rasmussen",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales and myths: rasmussen; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:10:00-05:00"
+    },
+    {
+      "id": "horace-allen",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales and myths: horace-allen; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:10:00-05:00"
+    },
+    {
+      "id": "berens",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales and myths: berens; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:10:00-05:00"
+    },
+    {
+      "id": "sara-bryant",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales and myths: sara-bryant; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:10:00-05:00"
     }
   ]
 }

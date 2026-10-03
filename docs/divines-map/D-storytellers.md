@@ -1911,6 +1911,18 @@ Shelf: `pipeline/de-vere_shelf.json` (2026-10-02; added at the coordinator's rel
 | Legends of the Saxon Saints | have | PG 29121, `de-vere-legends-of-the-saxon-saints` (1270 units) |
 | The Foray of Queen Meave, and Other Legends of Ireland's Heroic Age | have | PG 78491, `de-vere-foray-of-queen-meave` (572 units) |
 
+## W. D. Westervelt
+
+Shelf: `pipeline/westervelt_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Hawaiian legends he collected and translated from the Hawaiian himself: Maui, Pele, the gods and ghosts, old Honolulu, and the historical legends. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Legends of Ma-ui, a Demi God of Polynesia, and of His Mother Hina | have | PG 32601, `westervelt-legends-of-maui` (862 units) |
+| Legends of Gods and Ghosts (Hawaiian Mythology) | have | PG 39195, `westervelt-gods-and-ghosts` (1040 units) |
+| Hawaiian Legends of Volcanoes | have | PG 66516, `westervelt-legends-of-volcanoes` (819 units) |
+| Legends of Old Honolulu | have | PG 66547, `westervelt-legends-of-old-honolulu` (1033 units) |
+| Hawaiian Historical Legends | have | PG 66357, `westervelt-historical-legends` (748 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
