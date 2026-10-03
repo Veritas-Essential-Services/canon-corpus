@@ -708,6 +708,14 @@
    "started": "2026-10-03T02:45:55-05:00",
    "finished": "2026-10-03T02:47:58-05:00",
    "notes": "Sotheby 1808, Edwards 1825, Blackmore 1871, Preston 1881, Burghclere I-II 1900, Royds 1922 (Latin facing, PD by date). OCR 0.83-0.92. Isaiah Perley Smith's hexameter Eclogues (1909) answers 500: added to the retry."
+  },
+  {
+   "id": "latin-minor-poets",
+   "status": "done",
+   "scope": "New shelf: minor Latin poets and moralists (Calpurnius, Publilius, Cato's Distichs, Grattius)",
+   "started": "2026-10-03T02:47:58-05:00",
+   "finished": "2026-10-03T02:50:43-05:00",
+   "notes": "Scott's Calpurnius (1890), Lyman's Publilius Syrus (1856), Chase's Distichs of Cato (1922), Wase's Grattius (1654, old spelling, OCR 0.83; translator unchecked: long s; IA date 1654, the title page OCR reads 1664). Per-slug name forms, no shared forms."
   }
  ]
 }
