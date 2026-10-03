@@ -1634,6 +1634,15 @@ Shelf: `pipeline/frances-browne_shelf.json` (2026-10-02; added at the coordinato
 | Granny's Wonderful Chair | have | PG 26018, `frances-browne-grannys-wonderful-chair` (421 units) |
 | grannys-wonderful-chair-curtis | excluded | PG 35820, a later illustrated edition of the same book with Dollie Radford's introduction; held once |
 
+## Klara Stroebe, ed., tr. Frederick H. Martens
+
+Shelf: `pipeline/stroebe_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Swedish and Norwegian folk tales with Stroebe's source notes after each tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Swedish Fairy Book, ed. Klara Stroebe, tr. Frederick H. Martens | have | PG 37193, `stroebe-swedish-fairy-book` (570 units) |
+| The Norwegian Fairy Book, ed. Klara Stroebe, tr. Frederick H. Martens | have | PG 38070, `stroebe-norwegian-fairy-book` (945 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

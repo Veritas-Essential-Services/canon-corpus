@@ -1,0 +1,52 @@
+{
+ "_about": "Klara Stroebe's Swedish and Norwegian folk-tale collections, tr. Frederick H. Martens (1874-1932). Martens is the translator; the tales are traditional and Stroebe the compiler. Gutenberg cleared both as US public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Klara Stroebe, ed.",
+ "_name_words": [
+  "fairy",
+  "book",
+  "martens"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "stroebe-swedish-fairy-book": [
+   37193,
+   "The Swedish Fairy Book, ed. Klara Stroebe, tr. Frederick H. Martens",
+   {
+    "levels": [
+     {
+      "re": "(?!I$|II$|III$)[IVXL]+$",
+      "title_next": true
+     },
+     {
+      "re": "(?:I|II|III)$",
+      "title_next": true
+     },
+     {
+      "re": "NOTE$"
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ],
+  "stroebe-norwegian-fairy-book": [
+   38070,
+   "The Norwegian Fairy Book, ed. Klara Stroebe, tr. Frederick H. Martens",
+   {
+    "levels": [
+     {
+      "re": "[IVXL]+$",
+      "title_next": true
+     },
+     {
+      "re": "NOTE$"
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {}
+}

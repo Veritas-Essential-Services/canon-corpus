@@ -801,8 +801,10 @@
     {
       "id": "stroebe",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Victorian fairy tales and children's stories: stroebe; no minting",
-      "status": "running",
-      "started": "2026-10-02T20:21:40-05:00"
+      "status": "done",
+      "started": "2026-10-02T20:21:40-05:00",
+      "finished": "2026-10-02T20:29:58-05:00",
+      "notes": "2/2 fetched (Gutenberg 37193, 38070), 1,515 units, 0 ~2 ids."
     },
     {
       "id": "perkins",
