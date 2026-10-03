@@ -1646,6 +1646,7 @@ Shelf: `pipeline/greek-mechanics-astronomy_shelf.json`. Greenwood's Hero Pneumat
 |---|---|---|---|
 | The Pneumatics of Hero of Alexandria | Joseph George Greenwood | `hero-pneumatics-greenwood` | have (PG 77400) |
 | Ptolemy's Tetrabiblos | J. M. Ashmand | `ptolemy-tetrabiblos-ashmand` | have (PG 70850) |
+| Nicomachus of Gerasa, Introduction to Arithmetic, translated into English, with studies in Greek arithmetic by Frank Egleston Robbins and Louis Charles Karpinski (University of Michigan Studies, Humanistic Series XVI; Macmillan, 1926) | Martin Luther D'Ooge | `nicomachus-dooge-arithmetic-1926` | have-raw (IA `nicomachus-introduction-to-arithmetic`) |
 
 ## Martial
 
