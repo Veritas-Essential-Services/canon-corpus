@@ -355,3 +355,6 @@
 
 ## 2026-10-02 21:59 CDT — thomas-traherne done
 - `pipeline/thomas-traherne_shelf.json`: 1 CCEL title (converted) and Dobell's 1903 Poetical Works (raw IA OCR, 98.4%; title page read, "4903" in the OCR). The first scan tried (Toronto) held about half the text and was swapped. Christian Ethicks 1675 is pending at 79.8%. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 22:03 CDT — john-henry-newman done
+- `pipeline/john-henry-newman_shelf.json`: 1 CCEL title (converted), 5 Gutenberg texts (rights lines checked by the gate) and the Parochial and Plain Sermons, 8 volumes of raw IA OCR (Longmans 1891), median 99.3%, about 9 MB. The 1868 Toronto set was tried first: 81-91% OCR and three volumes never showed the name, so it was swapped. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted. Digest flags Newman's 1845 conversion as a veto point.

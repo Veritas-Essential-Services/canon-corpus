@@ -1283,3 +1283,20 @@ Slugs `traherne-*`.
 | Centuries of Meditations | have-clean | CCEL |
 | Poetical Works, ed. Bertram Dobell (London, 1903) | have-raw | IA (identifier in the shelf) |
 | Christian Ethicks (1675) | pending | long-s OCR, 79.8% |
+
+
+## John Henry Newman (round 8, my pick, 2026-10-02)
+
+Slugs `newman-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Dream of Gerontius (verse) | have-clean | CCEL |
+| Apologia pro Vita Sua (1890 printing) | have-clean | Gutenberg 22088 |
+| An Essay on the Development of Christian Doctrine | have-clean | Gutenberg 35110 |
+| An Essay in Aid of a Grammar of Assent | have-clean | Gutenberg 34022 |
+| The Idea of a University | have-clean | Gutenberg 24526 |
+| Historical Sketches, vol. 1 | have-clean | Gutenberg 21859 |
+| Parochial and Plain Sermons, 8 vols (London: Longmans, 1891) | have-raw | IA (identifiers in the shelf) |
+| Tracts for the Times (CCEL) | excluded | several authors |
+| Callista; Loss and Gain | excluded | novels |

@@ -1,0 +1,232 @@
+{
+ "_about": "Public-domain John Henry Newman (1801-1890; Anglican, then Roman Catholic, cardinal 1879) for the Word Hoard: The Dream of Gerontius clean from CCEL; the Apologia (1890 printing), the Essay on the Development of Christian Doctrine, the Grammar of Assent, the Idea of a University and Historical Sketches vol. 1 from Project Gutenberg; and the Parochial and Plain Sermons (London: Longmans, Green, 1891, 8 vols), raw Internet Archive OCR. Added 2026-10-02 by lane A, round 8 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "n/newman",
+ "_name_words": [
+  "newman",
+  "john",
+  "henry"
+ ],
+ "_surname": [
+  "newman"
+ ],
+ "_held": {},
+ "ccel": {
+  "newman-gerontius": [
+   "gerontius",
+   "The Dream of Gerontius (verse)",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "newman-apologia": [
+   "22088",
+   "Apologia pro Vita Sua: Being a History of His Religious Opinions"
+  ],
+  "newman-development": [
+   "35110",
+   "An Essay on the Development of Christian Doctrine"
+  ],
+  "newman-grammar-of-assent": [
+   "34022",
+   "An Essay in Aid of a Grammar of Assent"
+  ],
+  "newman-idea-of-a-university": [
+   "24526",
+   "The Idea of a University Defined and Illustrated"
+  ],
+  "newman-historical-sketches-1": [
+   "21859",
+   "Historical Sketches, Volume I"
+  ]
+ },
+ "internet_archive": {
+  "newman-pps-1": [
+   "a600455801newmuoft",
+   "Parochial and Plain Sermons, vol. 1 (London: Longmans, Green, 1891)"
+  ],
+  "newman-pps-2": [
+   "a600455802newmuoft",
+   "Parochial and Plain Sermons, vol. 2 (London: Longmans, Green, 1891)"
+  ],
+  "newman-pps-3": [
+   "a600455803newmuoft",
+   "Parochial and Plain Sermons, vol. 3 (London: Longmans, Green, 1891)"
+  ],
+  "newman-pps-4": [
+   "a600455804newmuoft",
+   "Parochial and Plain Sermons, vol. 4 (London: Longmans, Green, 1891)"
+  ],
+  "newman-pps-5": [
+   "a600455805newmuoft",
+   "Parochial and Plain Sermons, vol. 5 (London: Longmans, Green, 1891)"
+  ],
+  "newman-pps-6": [
+   "a600455806newmuoft",
+   "Parochial and Plain Sermons, vol. 6 (London: Longmans, Green, 1891)"
+  ],
+  "newman-pps-7": [
+   "a600455807newmuoft",
+   "Parochial and Plain Sermons, vol. 7 (London: Longmans, Green, 1891)"
+  ],
+  "newman-pps-8": [
+   "a600455808newmuoft",
+   "Parochial and Plain Sermons, vol. 8 (London: Longmans, Green, 1891)"
+  ]
+ },
+ "_alternates": {
+  "newman-apologia": "PG 19690 (another printing, with a later introduction not yet identified)",
+  "newman-pps": "PG 24256 and 24284 hold vols VII-VIII only; the Toronto scans of the 1868 Rivingtons set (parochialplainse0*newmuoft) scored 81-91% OCR and three never showed the name, so the 1891 Longmans set replaced them; kellylibrary scans of 1868 (parochialandp0*newmuoft) not tried"
+ },
+ "_excluded": {
+  "newman-apologia-ccel": "CCEL apologia: a 3 KB stub",
+  "newman-tracts-for-the-times": "CCEL tractstimes: the Tracts are by several authors, not Newman's alone; a shelf by author cannot hold them honestly",
+  "newman-novels": "Callista and Loss and Gain are novels: not shelved here",
+  "newman-hymni-ecclesiae": "PG 34733: a collection Newman edited, not his own text",
+  "newman-selections": "PG 41310: an anthology by a later editor"
+ },
+ "_checks": {
+  "newman-gerontius": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "newman",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "newman-apologia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "newman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "newman-development": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "newman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "newman-grammar-of-assent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "newman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "newman-idea-of-a-university": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "newman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "newman-historical-sketches-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "newman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "newman-pps-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "newman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1891-1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newman-pps-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "newman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1891-1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newman-pps-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "newman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1891-1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newman-pps-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "newman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1891-1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newman-pps-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "newman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1891-1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newman-pps-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "newman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1891-1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newman-pps-7": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "newman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1891-1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newman-pps-8": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "newman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1891-1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
