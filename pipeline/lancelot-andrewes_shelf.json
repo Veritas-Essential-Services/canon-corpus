@@ -1,0 +1,141 @@
+{
+  "_about": "Public-domain Lancelot Andrewes (1555-1626, Bishop of Winchester, a translator of the King James Bible) for the Word Hoard: the Greek Devotions in John Henry Newman's translation (first published 1840) clean from CCEL, and the Ninety-Six Sermons (Oxford, 1841-43, 5 vols) and the Pattern of Catechistical Doctrine (1846) from the Library of Anglo-Catholic Theology, raw Internet Archive OCR. Added 2026-10-02 by lane A, round 8 (my pick); Adam may veto the whole shelf. No uids minted.",
+  "_ccel_author": "a/andrewes",
+  "_name_words": [
+    "andrewes",
+    "lancelot"
+  ],
+  "_surname": [
+    "andrewes",
+    "andrews"
+  ],
+  "_held": {},
+  "ccel": {
+    "andrewes-devotions-greek": [
+      "devotions1",
+      "The Devotions of Bishop Andrewes, vol. 1: the Greek Devotions, tr. John Henry Newman (CCEL from the S.P.C.K. printing of 1920)",
+      ""
+    ]
+  },
+  "gutenberg": {},
+  "internet_archive": {
+    "andrewes-sermons-1": [
+      "ninetysixsermons01andr",
+      "Ninety-Six Sermons, vol. 1 (Oxford: Parker, 1841, Library of Anglo-Catholic Theology)"
+    ],
+    "andrewes-sermons-2": [
+      "ninetysixsermons02andr",
+      "Ninety-Six Sermons, vol. 2 (Oxford: Parker, 1841, Library of Anglo-Catholic Theology)"
+    ],
+    "andrewes-sermons-3": [
+      "ninetysixsermons03andr",
+      "Ninety-Six Sermons, vol. 3 (Oxford: Parker, 1841, Library of Anglo-Catholic Theology)"
+    ],
+    "andrewes-sermons-4": [
+      "ninetysixsermons04andr",
+      "Ninety-Six Sermons, vol. 4 (Oxford: Parker, 1841, Library of Anglo-Catholic Theology)"
+    ],
+    "andrewes-sermons-5": [
+      "ninetysixsermons05andr",
+      "Ninety-Six Sermons, vol. 5 (Oxford: Parker, 1841, Library of Anglo-Catholic Theology)"
+    ],
+    "andrewes-catechistical-doctrine-1846": [
+      "patternofcatechi00andr",
+      "A Pattern of Catechistical Doctrine, and Other Minor Works (Oxford: Parker, 1846)"
+    ]
+  },
+  "_alternates": {
+    "ninetysixsermons02, 03, 05andruoft, ninetysixsermon0*andrgoog (1841); ninetysixsermons000*andr (1878)": "Other scans and a later printing of the Sermons.",
+    "apatternofcatech00andruoft, apatterncatechi00andrgoog, patternofcatechi0006andr": "Other scans of the Pattern."
+  },
+  "_excluded": {
+    "ninetysixsermons0000lanc": "An unprovenanced copy.",
+    "selectionsfroms00andrgoog; seventeensermlanc00andr; familydevotions00andrgoog": "Selections and adaptations by others."
+  },
+  "_pending": {
+    "andrewes-devotions-latin": "Vol. 2 of the Devotions (the Latin, tr. J. M. Neale): not on CCEL; not yet looked for on IA."
+  },
+  "_translators": {
+    "andrewes-devotions-greek": "newman"
+  },
+  "_checks": {
+    "andrewes-devotions-greek": {
+      "kind": "ccel",
+      "checked": "2026-10-03",
+      "name_check": "surname",
+      "author_seen": "andrewes",
+      "translator_claimed": "newman",
+      "translator_in_text": true,
+      "identity": "ok",
+      "ccel_dc_rights": null,
+      "ccel_copyright_comment": true,
+      "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+    },
+    "andrewes-sermons-1": {
+      "kind": "ia",
+      "checked": "2026-10-03",
+      "name_check": "surname",
+      "author_seen": "andrewes",
+      "identity": "ok",
+      "ia_rights": "ok: published 1841",
+      "ia_date": "1841",
+      "ia_possible_copyright_status": null,
+      "ia_lending": null
+    },
+    "andrewes-sermons-2": {
+      "kind": "ia",
+      "checked": "2026-10-03",
+      "name_check": "surname",
+      "author_seen": "andrewes",
+      "identity": "ok",
+      "ia_rights": "ok: published 1841",
+      "ia_date": "1841",
+      "ia_possible_copyright_status": null,
+      "ia_lending": null
+    },
+    "andrewes-sermons-3": {
+      "kind": "ia",
+      "checked": "2026-10-03",
+      "name_check": "surname",
+      "author_seen": "andrewes",
+      "identity": "ok",
+      "ia_rights": "ok: published 1841",
+      "ia_date": "1841",
+      "ia_possible_copyright_status": null,
+      "ia_lending": null
+    },
+    "andrewes-sermons-4": {
+      "kind": "ia",
+      "checked": "2026-10-03",
+      "name_check": "surname",
+      "author_seen": "andrewes",
+      "identity": "ok",
+      "ia_rights": "ok: published 1841",
+      "ia_date": "1841",
+      "ia_possible_copyright_status": null,
+      "ia_lending": null
+    },
+    "andrewes-sermons-5": {
+      "kind": "ia",
+      "checked": "2026-10-03",
+      "name_check": "surname",
+      "author_seen": "andrewes",
+      "identity": "ok",
+      "ia_rights": "ok: published 1841",
+      "ia_date": "1841",
+      "ia_possible_copyright_status": null,
+      "ia_lending": null
+    },
+    "andrewes-catechistical-doctrine-1846": {
+      "kind": "ia",
+      "checked": "2026-10-03",
+      "name_check": "surname",
+      "author_seen": "andrewes",
+      "identity": "ok",
+      "ia_rights": "ok: published 1846",
+      "ia_date": "1846",
+      "ia_possible_copyright_status": null,
+      "ia_lending": null
+    }
+  }
+}

@@ -340,3 +340,6 @@
 
 ## 2026-10-02 21:40 CDT — jeremy-taylor done
 - `pipeline/jeremy-taylor_shelf.json`: 2 CCEL titles (converted) and the Heber/Eden Whole Works, 10 volumes of raw IA OCR, median 97.3% (95.1-98.2%), about 23 MB; title pages read (Eden, MDCCCXLVII-MDCCCLIV). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:41 CDT — lancelot-andrewes done
+- `pipeline/lancelot-andrewes_shelf.json`: 1 CCEL title (converted; Newman's translation recorded under `_translators`) and 6 IA volumes of raw OCR, median 97.0% (95.9-97.7%), about 7.5 MB; title pages read (MDCCCXLI-MDCCCXLIII, MDCCCXLVI; vol. 3 undated). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

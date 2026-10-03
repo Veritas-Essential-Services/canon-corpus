@@ -1229,6 +1229,18 @@ Slugs `jtaylor-*`.
 | The Rule and Exercises of Holy Living | have-clean | CCEL |
 | The Rule and Exercises of Holy Dying | have-clean | CCEL |
 | Whole Works, ed. Reginald Heber, rev. Charles Page Eden, 10 vols (London, 1847-54) | have-raw | IA (identifiers in the shelf) |
+
+
+## Lancelot Andrewes (round 8, my pick, 2026-10-02)
+
+Slugs `andrewes-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Private Devotions (the Greek), tr. J. H. Newman | have-clean | CCEL |
+| Ninety-Six Sermons, 5 vols (Oxford: Parker, 1841-43, Library of Anglo-Catholic Theology) | have-raw | IA (identifiers in the shelf) |
+| A Pattern of Catechistical Doctrine, and Other Minor Works (Oxford, 1846) | have-raw | IA |
+| Private Devotions (the Latin), tr. J. M. Neale | pending | not yet looked for |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
