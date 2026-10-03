@@ -1515,6 +1515,8 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | The Aeneid of Virgil, translated into Scottish verse (Eneados, 1513), vol. 1 (Bannatyne Club, Edinburgh, 1839) | Gavin Douglas | `virgil-douglas-eneados-v1` | have-raw (IA `aeneidofvirgiltr01virguoft`) |
 | The Aeneid of Virgil, translated into Scottish verse (Eneados, 1513), vol. 2 (Bannatyne Club, Edinburgh, 1839) | Gavin Douglas | `virgil-douglas-eneados-v2` | have-raw (IA `aeneidofvirgil6402virguoft`) |
 | The First Four Books of the Aeneid of Virgil, in English heroic verse (1582; Edinburgh reprint, 1836) | Richard Stanyhurst | `virgil-stanyhurst-1836` | have-raw (IA `firstfourbooksn00maidgoog`) |
+| The Works of Virgil, literally translated into English prose by Davidson, new edition revised by Theodore Alois Buckley (New York: Harper, 1874) | Joseph Davidson, revised by Theodore Alois Buckley | `virgil-davidson-buckley-1874` | have-raw (IA `worksvirgil03virggoog`) |
+| The Works of Virgil rendered into English Prose (Globe Edition; Macmillan, 1871) | James Lonsdale and Samuel Lee | `virgil-lonsdale-lee-1871` | have-raw (IA `worksofvirgilren00virg`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
@@ -1570,6 +1572,9 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | The Greek Tragic Theatre, vol. 1: Aeschylus (new ed., 1809) | Robert Potter | `aeschylus-potter-greek-tragic-theatre` | have-raw (IA `greektragicthea01wodhgoog`) |
 | The Dramas of Aeschylus (4th ed., revised, 1899) | Anna Swanwick | `aeschylus-swanwick` | have-raw (IA `dramasofaeschylu0000unse`) |
 | Agamemnon | Robert Browning | `aeschylus-perseus-browning-agamemnon` | have (Perseus TEI `tlg0085.tlg005.perseus-eng4`; markup CC BY-SA 4.0) |
+| Aeschylus in English Verse, Part I: The Seven against Thebes, The Persians (London, 1906) | Arthur S. Way | `aeschylus-way-1906-part1` | have-raw (IA `cu31924087947051`) |
+| Aeschylus in English Verse, Part II: Prometheus Bound, The Suppliant Maidens (London, 1907) | Arthur S. Way | `aeschylus-way-1907-part2` | have-raw (IA `cu31924087947069`) |
+| Aeschylus in English Verse, Part III: Agamemnon, Choephoroe, Eumenides (London, 1908) | Arthur S. Way | `aeschylus-way-1908-part3` | have-raw (IA `aeschylusinengl04aescgoog`) |
 
 Pending (wishlist): none here: Smyth's Loeb (1922-26) is on PR #7 as Perseus TEI.
 
@@ -1627,6 +1632,8 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | — | — | `sophocles-oedipus-colonus-jebb` | cross-ref → Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR |
 | The Tragedies of Sophocles, a new translation (1865) | E. H. Plumptre | `sophocles-plumptre` | have-raw (IA `tragediesofsopho1865soph`) |
 | The Tragedies of Sophocles, from the Greek (London, 1759; all seven plays in this scan) | Thomas Francklin | `sophocles-francklin-1759` | have-raw (IA `tragediesofsopho00soph`) |
+| Sophocles in English Verse, Part I: Oedipus the King, Oedipus at Kolonus, Antigone (London, 1909) | Arthur S. Way | `sophocles-way-1909-part1` | have-raw (IA `cu31924026676365`) |
+| The Tragedies of Sophocles, translated into English prose (Cambridge, 1904) | Sir Richard C. Jebb | `sophocles-jebb-prose-1904` | have-raw (IA `tragediessophoc00jebbgoog`) |
 
 Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 
@@ -2110,6 +2117,7 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | Satires, Epistles and Ars Poetica (Loeb, 1926; this printing revised 1929) | H. Rushton Fairclough | `horace-fairclough-satires-epistles` | have-raw (IA `satiresepistlesa00horauoft`) |
 | Odes | John Conington | `horace-perseus-conington-odes` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Works of Horace, translated literally into English prose (new edition revised by T. A. Buckley; Harper, 1869) | Christopher Smart, revised by Theodore Alois Buckley | `horace-smart-buckley-1869` | have-raw (IA `workshorace00smargoog`) |
+| The Works of Horace rendered into English Prose (Globe Edition; Macmillan, 1874) | James Lonsdale and Samuel Lee | `horace-lonsdale-lee-1874` | have-raw (IA `worksofhoraceren00hora`) |
 
 Pending (wishlist): Bennett's Odes and Epodes (Loeb 1914; no readable scan found); Smart's prose in its first, unrevised form (1756) from a cleaner scan than the ECCO OCR (0.74-0.76), which was refused.
 
@@ -2124,6 +2132,7 @@ Shelf: `pipeline/catullus_shelf.json`. Ellis (1871) and Burton-Smithers (1894), 
 | Catullus, Tibullus and Pervigilium Veneris (Loeb, 1913) | F. W. Cornish (Catullus), J. P. Postgate (Tibullus), J. W. Mackail (Pervigilium) | `catullus-tibullus-pervigilium-loeb` | have-raw (IA `catullustibullus00catu`) |
 | Carmina | Sir Richard Francis Burton | `catullus-perseus-burton-carmina` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Carmina | Leonard C. Smithers | `catullus-perseus-smithers-carmina` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
+| The Poems of Valerius Catullus, translated into English verse (Edinburgh, 1867) | James Cranstoun | `catullus-cranstoun-1867` | have-raw (IA `poemsofvaleriusc00caturich`) |
 
 
 Excluded: PG 23720 (serves a 404).
@@ -2800,6 +2809,7 @@ Shelf: `pipeline/statius_shelf.json`. Mozley Loeb 1928, 2 vols. (IA, 0.91-0.92; 
 | Statius, vol. 1: Silvae, Thebaid I-IV (Loeb, 1928) | J. H. Mozley | `statius-mozley-v1` | have-raw (IA `statius01stat`) |
 | Statius, vol. 2: Thebaid V-XII, Achilleid (Loeb, 1928) | J. H. Mozley | `statius-mozley-v2` | have-raw (IA `statius02stat`) |
 | The Thebaid of Statius, translated into English verse, with notes and observations (Oxford, 1767), both volumes in one scan | William Lillington Lewis (not named on the title page; attributed in catalogues) | `statius-lewis-thebaid-1767` | have-raw (IA `thebaidstatius00conggoog`) |
+| The Silvae of Statius, translated with introduction and notes (Oxford, 1908) | D. A. Slater | `statius-slater-silvae-1908` | have-raw (IA `silvaetranslated00statuoft`) |
 
 ## Claudian
 
@@ -3049,6 +3059,7 @@ Shelf: `pipeline/propertius_shelf.json`. Butler's Loeb (1912, Latin facing; the 
 |---|---|---|---|
 | Propertius, with an English translation (Loeb, 1912; 1929 reprint) | H. E. Butler | `propertius-butler-loeb` | have-raw (IA `propertiuswithen00propuoft`) |
 | The Elegies of Propertius, with notes, literally translated (Bohn, 1895 reprint) | P. J. F. Gantillon (select elegies in verse by Nott and Elton) | `propertius-gantillon-bohn` | have-raw (IA `elegiesofpropert00propiala`) |
+| The Elegies of Sextus Propertius, translated into English verse (Edinburgh, 1875) | James Cranstoun | `propertius-cranstoun-1875` | have-raw (IA `elegiessextuspr00unkngoog`) |
 
 Pending (wishlist): Phillimore's 1906 prose translation (Oxford), if a scan turns up.
 

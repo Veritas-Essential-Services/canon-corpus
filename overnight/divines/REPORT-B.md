@@ -224,3 +224,9 @@
 - fetch_perseus.py: record() labels each failure by cause and records only this run's rows; 1930 now needs a stated reason (52 Vince/Lamb rows given one); "</sourceDesc" across a line break is read.
 - fetch_shelf.py (lane A's 815a082 pulled): new optional `_surname_by_slug`, so each book on a multi-author shelf is checked for its own author (13 shelves). Curtius Brende and Digby vol. 2 moved to `_translator_unchecked` (no override covers a translator now). Aristotle Oxford vols. I, IV-XI dated from their title pages in `_rights_checked` (vol. IX is a 1931 impression of 1925).
 - Hourly retry at 21:31: nothing recovered.
+
+## 2026-10-02 22:05 CDT — Victorian scholars' versions
+- Added (raw IA, title pages read, OCR 0.86-0.94): Davidson's prose Virgil revised by Buckley (Harper, 1874); Lonsdale and Lee's Globe Virgil (1871) and Horace (1874); Slater's Silvae (1908); Cranstoun's Catullus (1867) and Propertius (1875); Jebb's prose Sophocles (1904); Way's Sophocles Part I (1909) and Aeschylus Parts I-III (1906-08).
+- Way's Aeschylus I and III failed the surname test because the OCR reads the ligature as "JESCHYLUS"; title pages checked and recorded in `_identity_checked`. Way's Sophocles Part II (1914) not found on IA: wishlist.
+- Francis's Horace (1743/1746, OCR 0.61-0.64) recorded in the Horace shelf's `_excluded`.
+- `fetch_shelf.py --verify --record` on all seven shelves: 0 mismatched, 0 rights flags.

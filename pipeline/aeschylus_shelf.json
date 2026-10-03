@@ -50,6 +50,21 @@
    "dramasofaeschylu0000unse",
    "The Dramas of Aeschylus (4th ed., revised, 1899)",
    "tr. Anna Swanwick"
+  ],
+  "aeschylus-way-1906-part1": [
+   "cu31924087947051",
+   "Aeschylus in English Verse, Part I: The Seven against Thebes, The Persians (London, 1906)",
+   "tr. Arthur S. Way"
+  ],
+  "aeschylus-way-1907-part2": [
+   "cu31924087947069",
+   "Aeschylus in English Verse, Part II: Prometheus Bound, The Suppliant Maidens (London, 1907)",
+   "tr. Arthur S. Way"
+  ],
+  "aeschylus-way-1908-part3": [
+   "aeschylusinengl04aescgoog",
+   "Aeschylus in English Verse, Part III: Agamemnon, Choephoroe, Eumenides (London, 1908)",
+   "tr. Arthur S. Way"
   ]
  },
  "_excluded": {
@@ -79,7 +94,10 @@
   "aeschylus-murray-agamemnon": "Gilbert Murray",
   "aeschylus-potter-greek-tragic-theatre": "R. Potter",
   "aeschylus-swanwick": "Anna Swanwick",
-  "aeschylus-perseus-browning-agamemnon": "Robert Browning"
+  "aeschylus-perseus-browning-agamemnon": "Robert Browning",
+  "aeschylus-way-1906-part1": "Arthur S. Way",
+  "aeschylus-way-1907-part2": "Arthur S. Way",
+  "aeschylus-way-1908-part3": "Arthur S. Way"
  },
  "_checks": {
   "aeschylus-plumptre": {
@@ -179,6 +197,45 @@
    "ia_date": "1899",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "aeschylus-way-1906-part1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Arthur S. Way",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aeschylus-way-1907-part2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "Arthur S. Way",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aeschylus-way-1908-part3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Arthur S. Way",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_perseus_checks": {
@@ -195,5 +252,9 @@
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
   }
+ },
+ "_identity_checked": {
+  "aeschylus-way-1906-part1": "checked 2026-10-03: title page reads 'AESCHYLUS IN ENGLISH VERSE, PART I' by Arthur S. Way, Macmillan 1906; the OCR renders the ligature AE as 'JE'/'iE' (JESCHYLUS), so the surname test cannot see it",
+  "aeschylus-way-1908-part3": "checked 2026-10-03: title page reads 'AESCHYLUS IN ENGLISH VERSE, PART III' by Arthur S. Way, Macmillan 1908; the OCR renders the ligature AE as 'JE'/'iE' (JESCHYLUS), so the surname test cannot see it"
  }
 }
