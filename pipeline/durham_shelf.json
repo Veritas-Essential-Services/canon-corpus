@@ -1,0 +1,102 @@
+{
+ "_about": "Public-domain James Durham (1622-1658, Glasgow) for the Word Hoard, all from 17th- and 18th-century printings (no 19th-century collected edition is on IA), raw Internet Archive OCR: Christ Crucified (72 sermons on Isaiah 53, 1792, 2 vols), The Law Unsealed (1777), A Commentarie upon the Book of the Revelation (1680), Clavis Cantici (1723). The Dying Man's Testament (1659) is pending. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 5 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "durham",
+  "james"
+ ],
+ "_surname": [
+  "durham"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "durham-christ-crucified-1792-1": [
+   "christcrucifiedo01durh",
+   "Christ Crucified, or the Marrow of the Gospel, vol. 1 (1792)"
+  ],
+  "durham-christ-crucified-1792-2": [
+   "christcrucifiedo02durh",
+   "Christ Crucified, or the Marrow of the Gospel, vol. 2 (1792)"
+  ],
+  "durham-law-unsealed-1777": [
+   "lawunsorp00durh",
+   "The Law Unsealed, or a Practical Exposition of the Ten Commandments (1777)"
+  ],
+  "durham-revelation-1680": [
+   "commentarieuponb00durh",
+   "A Commentarie upon the Book of the Revelation (1680)"
+  ],
+  "durham-clavis-cantici-1723": [
+   "claviscant00durh",
+   "Clavis Cantici, or an Exposition of the Song of Solomon (1723)"
+  ]
+ },
+ "_alternates": {
+  "christcru00durh (1726); christcrucifiedo00durh (1761); chricrucio00durh (1702)": "Other printings of Christ Crucified."
+ },
+ "_excluded": {
+  "blesseddeathofth0000durh (2003)": "Modern edition.",
+  "sumofsavingknowl24dick": "The Sum of Saving Knowledge, chiefly David Dickson's."
+ },
+ "_checks": {
+  "durham-christ-crucified-1792-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "durham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1792",
+   "ia_date": "1792",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "durham-christ-crucified-1792-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "durham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1792",
+   "ia_date": "1792",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "durham-law-unsealed-1777": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "durham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1777",
+   "ia_date": "1777",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "durham-revelation-1680": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "durham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1680",
+   "ia_date": "1680",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "durham-clavis-cantici-1723": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "durham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1723",
+   "ia_date": "1723",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_pending": {
+  "dymanste00durh (The Dying Man's Testament to the Church of Scotland, or a Treatise concerning Scandal (1659))": "Refused 2026-10-02: the 1659 OCR never names Durham. IA's catalogue credits him (with Robert Blair); shelve after a look at the title page."
+ }
+}

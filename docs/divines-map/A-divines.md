@@ -846,3 +846,15 @@ The two brothers on one shelf. No CCEL or Gutenberg text; raw IA OCR.
 |---|---|---|
 | The Works (Edinburgh: Fullarton, 1851, ed. Matthew Leishman) | have-raw | IA `worksofrevhughbi00binn` (`binning-works-1851`) |
 | Works (1735; Edinburgh 1839, 3 vols) | alternate | the 1851 edition is held |
+
+## James Durham (round 5, my pick, 2026-10-02)
+
+No CCEL, Gutenberg or 19th-century collected edition on IA. Early printings, raw IA OCR, rough (77-85%).
+
+| Work | Status | Where |
+|---|---|---|
+| Christ Crucified: 72 sermons on Isaiah 53 (1792), 2 vols | have-raw | IA `christcrucifiedo01durh`, `02durh` |
+| The Law Unsealed (1777) | have-raw | IA `lawunsorp00durh` |
+| A Commentarie upon the Book of the Revelation (1680) | have-raw | IA `commentarieuponb00durh` |
+| Clavis Cantici: an Exposition of the Song of Solomon (1723) | have-raw | IA `claviscant00durh` |
+| The Dying Man's Testament, a Treatise concerning Scandal (1659) | pending | the scan's OCR never names Durham |

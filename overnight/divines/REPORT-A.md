@@ -222,3 +222,6 @@
 
 ## 2026-10-02 19:51 CDT — binning done
 - `pipeline/binning_shelf.json`: the Works (Edinburgh, 1851), one volume of 659 pages, raw IA OCR, 98.0%, 3.9 MB. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 19:53 CDT — durham done
+- `pipeline/durham_shelf.json`: five early printings (1680-1792), raw IA OCR, 77-85% (old type): fit for finding passages, not for quoting. About 9.3 MB. The 1659 Treatise concerning Scandal was refused (OCR never names Durham) and is pending. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
