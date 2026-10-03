@@ -1,0 +1,38 @@
+{
+ "_about": "Robert Fleming the elder (1630-1694), minister of Cambuslang, later of the Scots Church in Rotterdam: The Fulfilling of the Scripture, an essay shewing the exact accomplishment of the word of God in his works, with its histories of the works and servants of God in the Church of Scotland (Charlestown, Mass.: Samuel Etheridge, 1806), reprinted from the Boston edition of 1743, which Thomas Foxcroft corrected and whose diction he 'in some instances improved', as the preface says; noted, since it is not the author's own last text. Named robert-fleming so D. Hay Fleming cannot collide. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "fleming"
+ ],
+ "_surname": [
+  "fleming"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fleming-fulfilling-of-the-scripture-1806": [
+   "fulfillingofscri00flem",
+   "The Fulfilling of the Scripture (Charlestown: Etheridge, 1806, from the Boston edition of 1743)"
+  ]
+ },
+ "_alternates": {
+  "fulfillingofscri02flem": "Another copy of the 1806 edition.",
+  "fulfillingofscrem (Free Church Committee, 1845, vol. 1)": "The Free Church of Scotland's edition; only vol. 1 found on IA.",
+  "bim_eighteenth-century_the-fulfilling-of-the-sc_fleming-robert_1726/1753, fulfillingscrip00/01flemgoog (1801)": "18th-century and 1801 editions."
+ },
+ "_excluded": {
+  "fulfillingofscri01flem, fulfillingofscri00flemuoft": "The Presbyterian Board of Publication's abridgement."
+ },
+ "_checks": {
+  "fleming-fulfilling-of-the-scripture-1806": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fleming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1806",
+   "ia_date": "1806",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

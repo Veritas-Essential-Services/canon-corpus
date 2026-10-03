@@ -1,0 +1,34 @@
+{
+ "_about": "Michael Shields, clerk to the United Societies of the persecuted Covenanters, brother of Alexander Shields: Faithful Contendings Displayed, an historical relation of the state and actings of the suffering remnant in the Church of Scotland, 1681-1691, with James Guthrie's Ten Considerations and sermons by John Kid, John King and others, ed. John Howie (Glasgow, 1780). Set in long-s type; the OCR breaks the name on the title page but carries it in the text. Named michael-shields so his brother's shelf cannot collide. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "shields"
+ ],
+ "_surname": [
+  "shields"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "michael-shields-faithful-contendings-1780": [
+   "faithfulcontendi00shie",
+   "Faithful Contendings Displayed, ed. John Howie (Glasgow, 1780)"
+  ]
+ },
+ "_alternates": {
+  "bim_eighteenth-century_faithful-contendings-dis_1780, faithfulcontend00howigoog": "Other scans of the same edition."
+ },
+ "_excluded": {},
+ "_checks": {
+  "michael-shields-faithful-contendings-1780": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "shields",
+   "identity": "ok",
+   "ia_rights": "ok: published 1780",
+   "ia_date": "1780",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

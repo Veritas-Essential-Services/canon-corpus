@@ -128,6 +128,9 @@ The narrative histories of the Kirk from the Reformation to the Revolution, in t
 | M'Crie, Life of John Knox (ed. by his son, 1873); Life of Andrew Melville (2 vols, 1819); the Reformation in Italy and in Spain (1842 reprints) | have-raw | `thomas-mccrie_shelf.json` |
 | Howie, The Scots Worthies, rev. Carslaw (1870) | have-raw | `howie_shelf.json` |
 | A Cloud of Witnesses, ed. J. H. Thomson (1871) | have-raw | `cloud-of-witnesses_shelf.json`; name check on the editor |
+| Sermons Delivered in Times of Persecution in Scotland, ed. Kerr (1880) | have-raw | `covenanter-sermons_shelf.json`; name check on the editor |
+| Michael Shields, Faithful Contendings Displayed, ed. Howie (1780) | have-raw | `michael-shields_shelf.json` |
+| Robert Fleming, The Fulfilling of the Scripture (Charlestown, 1806, from Foxcroft's 1743 text) | have-raw | `robert-fleming_shelf.json` |
 | Patrick Walker, Six Saints of the Covenant, ed. D. Hay Fleming (2 vols, 1901) | have-raw | `patrick-walker_shelf.json` |
 | Hetherington, History of the Church of Scotland to 1843 (New York, 1856) | have-raw | `hetherington_shelf.json` |
 | John Cunningham, The Church History of Scotland, 2nd ed. (2 vols, 1882) | have-raw | `john-cunningham_shelf.json`; not lane A's William Cunningham |
