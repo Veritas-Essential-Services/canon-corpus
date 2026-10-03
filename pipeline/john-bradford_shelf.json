@@ -1,0 +1,88 @@
+{
+ "_about": "John Bradford (c.1510-1555), Prebendary of St Paul's, martyr. Named john-bradford so William Bradford of Plymouth cannot collide. The target is the Parker Society Writings, ed. Aubrey Townsend (2 vols, Cambridge 1848 and 1853), Internet Archive OCR, raw; each title page read. Clean text alongside from CCEL: Godly Meditations upon the Lord's Prayer, and Sermons and Tracts.",
+ "_ccel_author": "b/bradford",
+ "_name_words": [
+  "bradford"
+ ],
+ "_surname": [
+  "bradford"
+ ],
+ "ccel": {
+  "bradford-meditations": [
+   "meditations",
+   "Godly Meditations upon the Lord's Prayer",
+   ""
+  ],
+  "bradford-sermons-tracts": [
+   "sertract",
+   "Sermons and Tracts by that Worthy Martyr of Christ, John Bradford",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "bradford-ps-01": [
+   "writingsofjohnbr01braduoft",
+   "Writings of John Bradford: Sermons, Meditations, Examinations, ed. Aubrey Townsend (Parker Society, Cambridge, 1848), vol. 1"
+  ],
+  "bradford-ps-02": [
+   "writingsofjohnbr02braduoft",
+   "Writings of John Bradford: Letters, Treatises, Remains, ed. Aubrey Townsend (Parker Society, Cambridge, 1853), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "writingsofjohnbr00braduoft": "Trinity College Toronto copy of vol. 1.",
+  "writingsofjohnbr01brad, writingsofjohnbr02brad": "Princeton copies of the same two volumes.",
+  "writingsjohnbra01towngoog, writingsjohnbra02towngoog, writingsjohnbra03towngoog, writingsjohnbra00worcgoog": "Google scans of the same set."
+ },
+ "_pending": {
+  "ccel bradford/writings": "CCEL lists 'Writings of the Rev. John Bradford' but serves only a work-info page, no text (checked 2026-10-03)."
+ },
+ "_excluded": {
+  "William Bradford (Plymouth Plantation); Alexander Bradford (Notes on the Northwest); John Bradford of the potato treatise": "Different authors."
+ },
+ "_checks": {
+  "bradford-meditations": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bradford",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "bradford-sermons-tracts": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bradford",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "bradford-ps-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bradford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848-53",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bradford-ps-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bradford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848-1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
