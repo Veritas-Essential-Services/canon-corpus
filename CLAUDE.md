@@ -86,8 +86,33 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 60 offline checks (no corpus needed)
-    python3 tests/wh_uid_test.py             # 54 identity-layer checks
+    python3 tests/structure_test.py          # 95 offline checks (no corpus needed)
+    python3 tests/wh_uid_test.py             # 67 identity-layer checks
+    python3 tests/latin_shelf_uid_test.py    # wave-1 Latin shelf uids (vault; skips when unreachable)
+    python3 pipeline/build_versification.py --fetch    # TVTMS + WLC, pinned
+    python3 pipeline/build_versification.py --check    # Hebrew->KJV map byte-identical; WLC invariants
+    python3 pipeline/build_versification.py --measure  # BDB cites in Hebrew numbering: the evidence
+    python3 tests/versification_test.py      # the map, offline
+    python3 pipeline/build_vulgate_versification.py --fetch    # TVTMS + the Clementine, pinned
+    python3 pipeline/build_vulgate_versification.py --check    # Vulgate->KJV map byte-identical; invariants
+    python3 pipeline/build_vulgate_versification.py --measure  # the map vs proper names in both texts
+    python3 pipeline/build_vulgate_versification.py --audit-douay  # the map vs the Douay's English
+    python3 tests/vulgate_versification_test.py  # the Vulgate map, offline
+    python3 pipeline/build_brenton_versification.py --fetch  # TVTMS + Brenton's USFM, pinned
+    python3 pipeline/build_brenton_versification.py --check  # Brenton->KJV map byte-identical; invariants
+    python3 pipeline/build_brenton_versification.py --audit  # the map vs Brenton's English aligned to the KJV's
+    python3 tests/brenton_versification_test.py  # the Brenton map, offline
+    python3 pipeline/build_english_versification.py --fetch  # Geneva, Tyndale, YLT, Darby, ASV, pinned
+    python3 pipeline/build_english_versification.py --check  # their KJV maps byte-identical; invariants
+    python3 pipeline/build_english_versification.py --audit geneva  # verses a nearby KJV verse fits better
+    python3 tests/english_versification_test.py  # the five maps, offline
+    python3 pipeline/build_parallel_index.py          # data/parallel/kjv-parallel.tsv (needs the built books)
+    python3 pipeline/build_parallel_index.py --check  # the index byte-identical
+    python3 tests/parallel_index_test.py      # the index vs the committed maps, offline
+    python3 pipeline/build_deuterocanon.py          # the deuterocanon's shared key (needs the built books)
+    python3 pipeline/build_deuterocanon.py --check  # map + index byte-identical
+    python3 pipeline/build_deuterocanon.py --audit  # the weakest pairings, to read
+    python3 tests/deuterocanon_test.py        # the deuterocanon map and index, offline
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
     python3 pipeline/build_hymn_corpus.py --check # hymns JSONL: mint 0, byte-identical
@@ -120,6 +145,13 @@ The living truth for project state is the Obsidian vault:
   Gutenberg verse–prose–drama → data/books/<slug>.json (gitignored) +
   data/books/manifest.json (committed: checksums, schemes, provenance)
 - tests/structure_test.py — offline converter checks, fixtures inline
+- The Clementine Vulgate (1592, PD) — `VULGATE` in fetch_sources.py, pinned
+  to a commit of github.com/BibleGet-I-O/Clementine-Vulgate (73 books, one
+  sha256 over the files); `convert_vulgate` -> data/books/vulgate.json,
+  35,809 verses. Ids are `vulgate:Ps.50.3` in the VULGATE's own numbering
+  (Greek Psalm count, titles in verse 1, Greek additions in Dan/Esth): not
+  linked to kjv: units, no uids minted. Each verse keeps the project's
+  marked-up line as `marked` beside the plain `text`.
 - pipeline/build_hymn_corpus.py — Latin hymns → data/hymns/{passages,
   witnesses,tokens,alignments}.jsonl (COMMITTED: the JSONL is the source of
   truth). One row per CLAUSE, joined by uid. Schema:
@@ -148,6 +180,81 @@ The living truth for project state is the Obsidian vault:
   data/nt/prose-order.jsonl the plain line's word order (README s.14). Both
   hold a house DRAFT awaiting Adam's review (docs/review/2026-09-26-john1-drafts.md);
   the reader badges every column built on one.
+- pipeline/build_versification.py + versification.py — the OT Hebrew (BHS/WLC)
+  -> KJV verse map → data/versification/bhs-kjv.json (COMMITTED; TVTMS CC BY
+  4.0, derived subset, checked against the pinned WLC). convert_bdb resolves
+  BDB's scripture citations through it.
+- pipeline/build_vulgate_versification.py — the Clementine Vulgate -> KJV verse
+  map → data/versification/vulgate-kjv.json (COMMITTED; same TVTMS file and
+  rights block). TVTMS's tests are RUN against the Clementine to pick the
+  column each block follows; HOUSE_ROWS holds the 55 verses no column fits,
+  each checked against the Latin (most found by --audit-douay). convert_vulgate
+  gives every unit `kjv` (resolved target, or why not); ids stay in Vulgate
+  numbering.
+- convert_douay — the Douay-Rheims (Challoner; fetch_sources.DOUAY, PD, pinned
+  GitHub mirror) → data/books/douay.json (gitignored): the Vulgate's English,
+  in its numbering; each unit's `vulgate` and `kjv`. DOUAY_ROWS holds the 49
+  verses where this edition breaks verses off the Clementine's (Bar 6:7: it
+  prints 6:37 in that slot; Sir 29:16-34 run one behind; Isa 46:11, 2 Sam
+  13:38, Ps 150:5 hold the next verse's words); empty padding
+  verses in the file are dropped, never given ids.
+- Brenton's English Septuagint (1851, PD; fetch_sources.BRENTON: eBible.org's
+  USFM zip, pinned in a GitHub mirror) → convert_brenton → data/books/brenton.json
+  (gitignored), 28,617 verses in the Greek's OWN numbering: Psalms by the Greek
+  count (title = v.1), Jeremiah's chapters in the Greek's order, Nehemiah as
+  Ezra 11-23, the Greek's additions lettered (1Kgs.12.24a), text before v.1 as
+  v.0. eBible's KJV-numbered NEH duplicate is skipped.
+  pipeline/build_brenton_versification.py → data/versification/brenton-kjv.json
+  (COMMITTED; same TVTMS file and rights block). Columns are picked by TVTMS's
+  hard tests, then by how well Brenton's English agrees with the KJV's (word
+  counts are only approximate on a translation). HOUSE_ROWS holds what no
+  column fits, each read in both texts (most found by --audit). A lettered
+  verse standing in a gap of Brenton's numbers is the KJV verse there only if
+  the words agree (Jer 10:9a is NOT 10:10). versification.resolve_brenton.
+  No Greek LXX: Rahlfs and CATSS are restricted; Swete awaits a ruling (its
+  only machine-readable text is CC BY-SA markup over the PD edition).
+- The historic English Bibles: Geneva 1599, Tyndale, Young's (1898), Darby
+  (1889), ASV (1901) — fetch_sources.ENGLISH, scrollmapper's JSON of CrossWire
+  modules at the Douay's pin, each README read ("License: Public Domain") →
+  convert_english → data/books/<slug>.json (gitignored). A CrossWire module sits
+  on the KJV's verse GRID: ids are its slots, the Bible's own numbers except
+  where it numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4,
+  Job 39-41...) and the chapter's overflow is merged into its last slot.
+  build_english_versification.py → data/versification/<slug>-kjv.json
+  (COMMITTED; the house's own reading, PD): each chapter aligned against the
+  KJV's English, followed only where it reads clearly better; HOUSE_ROWS for
+  swaps (Phil 1:16-17) and what old spelling hides. This Tyndale holds ten
+  books only; Darby's "beginningGod" is mended by a per-book rule
+  (ENGLISH_RULES). versification.resolve_english. NOT here: Wycliffe (the
+  one reachable PD copy, BibleNLP's eBible extract, drops verses where the
+  Vulgate's chapters run longer than the Hebrew's), Coverdale and the
+  Bishops' (no reachable machine-readable PD source found).
+  Candidates for a full-network lane: docs/pending-sources.md.
+- pipeline/build_parallel_index.py → data/parallel/kjv-parallel.tsv (COMMITTED,
+  generated): one row per KJV verse (with its uid), naming the verse(s) that
+  hold its text in the Hebrew (bhs-kjv), the Greek NT (data/nt; the John 1
+  pilot on this branch), and each shelf version, in that version's own
+  numbering. Read off the committed maps and the built books' `kjv`; no new
+  judgement. A version's verse with no KJV verse is in no row. Its rights
+  note is data/parallel/README.md: the hebrew, vulgate, douay and brenton
+  columns are TVTMS-derived (CC BY 4.0), and so is every Vulgate, Douay and
+  Brenton unit's `kjv` (the manifest's `rights.kjv_field` says so). A built
+  Bible records its map's sha256 (`scheme.kjv_map_sha256`); structure_texts.py
+  rebuilds it when the map changes, so `kjv` never goes stale.
+- The deuterocanon's shared key: the KJV's own Apocrypha (fetch_sources.KJVA,
+  eBible's Cambridge Paragraph Bible USFM, pinned in a GitHub mirror, rights
+  line "Public Domain") → convert_kjva → data/books/kjva.json (gitignored),
+  `kjva:Book.c.v`, 5,722 verses; the Rest of Esther renumbered into the KJV's
+  10:4-16:24 from eBible's Greek order. pipeline/build_deuterocanon.py aligns
+  Brenton and the Douay to it by their English (the Vulgate keyed through the
+  Douay, which keeps its numbers) → data/versification/deuterocanon.json +
+  data/parallel/deuterocanon-parallel.tsv (COMMITTED; PD, the house's
+  reading). HOUSE_ROWS for what the alignment misses (found by --audit
+  and by scanning for keys far from their neighbours'). Each unit of those
+  books carries `kjva` (versification.resolve_dc). Jerome's Tobit and Judith
+  are another recension: keyed only where the words agree. R. H. Charles's
+  1913 Apocrypha has a reserved slot (WITNESSES, TSV_COLUMNS): see
+  docs/pending-sources.md.
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
   reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).
@@ -198,9 +305,17 @@ states "Public domain document". Recorded per entry in `LEXICONS`.
 versification, which parts company with the KJV's — most visibly in Psalms,
 where a superscription counts as verse 1 and shifts every later verse. So its
 **139,125 scripture citations are recorded as the source stated them**
-(`{osis, ref, versification: "bhs", resolved: false}`) and are NOT resolved to
-`kjv:` unit ids. Resolving them needs a versification map; that is its own
-piece of work. A labelled hole beats a confident wrong label.
+(`{osis, ref, versification: "bhs"}`), and since 2026-10-02 each is resolved
+through a Hebrew->KJV map, `data/versification/bhs-kjv.json`
+(`pipeline/build_versification.py`): **137,780 carry `target: "kjv:..."`**;
+1,345 stay `resolved: false` with a `why` (psalm titles, which the KJV does
+not number; references that name no Hebrew verse; NT references). The map is
+STEPBible's TVTMS (CC BY 4.0; only the derived OT Hebrew/KJV subset is
+committed, `redistribute_whole: false`), and the build refuses to write
+unless every one of the WLC's 23,213 verses lands on a KJV unit id. That BDB
+really numbers in Hebrew is measured, not assumed (`--measure`): where the
+schemes differ, the entry's own word is in the cited Hebrew verse 72% of the
+time and in the same-numbered KJV verse 5.5%.
 
 **Thayer's (added 2026-09-06) is the one book here that was OCR'd, not
 fetched.** It is PD and scanned (archive.org `greekenglishlexi00grimuoft`,
