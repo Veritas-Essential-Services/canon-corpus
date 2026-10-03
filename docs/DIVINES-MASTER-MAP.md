@@ -5491,6 +5491,18 @@ Shelf: `pipeline/keary_shelf.json` (2026-10-02; added at the coordinator's relay
 |---|---|---|
 | The Heroes of Asgard: Tales from Scandinavian Mythology | have | PG 41283, `keary-heroes-of-asgard` (1075 units) |
 
+## Jean Lang
+
+Shelf: `pipeline/jean-lang_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Greek myths, the Iliad, Spenser and Border legends retold for young readers. Not Andrew Lang. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Book of Myths | have | PG 22693, `jean-lang-book-of-myths` (1969 units) |
+| Stories from the Iliad; Or, the Siege of Troy | have | PG 68127, `jean-lang-stories-from-the-iliad` (595 units) |
+| Stories from the Faerie Queen, Told to the Children | have | PG 41350, `jean-lang-stories-from-the-faerie-queen` (629 units) |
+| Stories of the Border Marches | have | PG 14416, `jean-lang-stories-of-the-border-marches` (824 units) |
+| jean-lang-story-of-general-gordon | excluded | PG 24756, a biography, not a story-telling book; left out |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

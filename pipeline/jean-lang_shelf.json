@@ -1,0 +1,74 @@
+{
+ "_about": "Jean Lang's (1867-1932) retellings: A Book of Myths (1914), Stories from the Iliad (Jack, 1907), Stories from the Faerie Queen (Jack, in Louey Chisholm's series; undated in the text), and Stories of the Border Marches (1916), legends and ballad stories of the Scottish Borders. Not Andrew Lang. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Jean Lang",
+ "_name_words": [
+  "lang"
+ ],
+ "_surname": [
+  "lang"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jean-lang-book-of-myths": [
+   22693,
+   "A Book of Myths",
+   {
+    "sub": "FOOTNOTES?:$"
+   }
+  ],
+  "jean-lang-stories-from-the-iliad": [
+   68127,
+   "Stories from the Iliad; Or, the Siege of Troy"
+  ],
+  "jean-lang-stories-from-the-faerie-queen": [
+   41350,
+   "Stories from the Faerie Queen, Told to the Children"
+  ],
+  "jean-lang-stories-of-the-border-marches": [
+   14416,
+   "Stories of the Border Marches"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "jean-lang-story-of-general-gordon": "PG 24756, a biography, not a story-telling book; left out"
+ },
+ "_checks": {
+  "jean-lang-book-of-myths": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lang",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jean-lang-stories-from-the-iliad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lang",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jean-lang-stories-from-the-faerie-queen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lang",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jean-lang-stories-of-the-border-marches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lang",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

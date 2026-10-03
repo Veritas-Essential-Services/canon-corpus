@@ -1073,8 +1073,10 @@
     {
       "id": "jean-lang",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — myths and children's classics: jean-lang; no minting",
-      "status": "running",
-      "started": "2026-10-02T21:23:39-05:00"
+      "status": "done",
+      "started": "2026-10-02T21:23:39-05:00",
+      "finished": "2026-10-02T21:23:49-05:00",
+      "notes": "4/4 fetched (Gutenberg 22693, 68127, 41350, 14416), 4,017 units, 0 ~2 ids."
     },
     {
       "id": "francillon",
