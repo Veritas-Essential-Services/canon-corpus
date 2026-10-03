@@ -844,6 +844,14 @@
    "started": "2026-10-03T06:43:18-05:00",
    "finished": "2026-10-03T06:45:42-05:00",
    "notes": "Both found as Google scans on IA: Mitchell vol. I (1820), Hickie vol. II (1853)."
+  },
+  {
+   "id": "gapfill-7",
+   "status": "done",
+   "scope": "Thin shelves: Propertius, Herodian, Valerius Flaccus; review fixes",
+   "started": "2026-10-03T06:45:42-05:00",
+   "finished": "2026-10-03T06:56:07-05:00",
+   "notes": "Added Moore's Propertius 1870, Hart's Herodian 1749 (DLI scan, translator unchecked), new Valerius Flaccus shelf (anonymous 1808 and Blomfield 1916, Book I each). Refused: Sherburne's Manilius 1675 (OCR 0.69). Not taken: Rogers's 1924 Loeb Aristophanes (Greek facing, 0.53-0.69; awaits the Greek-facing measure decision). Review fixes: three undated rows dated from evidence inside the book; full-name translator checks replace common words, first names and places on 27 rows; H. S. Wright and C. R. Moore now unchecked."
   }
  ]
 }

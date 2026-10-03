@@ -519,3 +519,11 @@
 ## 2026-10-03 06:45 CDT — Aristophanes gap-fill (2)
 - Thomas Mitchell, Comedies vol. I (1820), 0.90; completes his set
 - W. J. Hickie, Bohn vol. II (1853), 0.83; completes his set (IA misdates it 1822)
+
+## 2026-10-03 06:56 CDT — Gap-fill (7) and review fixes
+- C. R. Moore, Elegies of Propertius (1870), 0.86
+- J. Hart, Herodian's History (1749, catalogue date), 0.87; translator unchecked
+- Valerius Flaccus Book I: anonymous verse (catalogue [1808], attributed to T. Noble by the catalogue only), 0.87; H. G. Blomfield prose (1916), 0.88
+- Refused: Sherburne's Sphere of Manilius (1675), OCR 0.69
+- Review: Plaistowe, Rose, Arnold dated from bound-in lists and prefaces (1898, 1866, 1868)
+- Review: 27 translator checks moved to full names; H. S. Wright and Moore unchecked

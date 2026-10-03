@@ -146,3 +146,4 @@
 - 06:39 Juvenal, Celsus and Longinus gap-fill (9 items) and a name-check hardening pass; nothing needs a decision.
 - Aristotle: Williams's Ethics (1869) and Taylor's 1818 vol. II added (06:43). No decision needed.
 - Aristophanes: Mitchell's vol. I and Hickie's vol. II found, so both sets are now complete (06:45). No decision needed.
+- Undated title pages: rows are kept when the book itself prints a 19th-century year (a dated preface or bound-in list), as with Plaistowe, Rose and Arnold; Pott and Wright stays held because its bound-in list runs to 1926 (06:56). Say if you want undated rows held regardless.

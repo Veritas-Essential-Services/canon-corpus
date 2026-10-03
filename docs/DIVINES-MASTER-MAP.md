@@ -2402,7 +2402,7 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | The Aeneid of Virgil translated into English verse (New York: W. J. Widdleton, 1867; the American edition of the London 1866 first) | John Conington | `virgil-conington-verse-aeneid-1867` | have-raw (IA `neidofvirgil00virgrich`) |
 | The Aeneid of Virgil freely translated into English blank verse (Dublin University Press Series; Dublin: Hodges, Figgis; London: Longmans, 1886) | William J. Thornhill | `virgil-thornhill-aeneid-1886` | have-raw (IA `cu31924026565683`) |
 | The Eclogues and Georgics of Virgil translated into English verse (London, 1882) | J. M. King | `virgil-king-eclogues-georgics-1882` | have-raw (IA `ecloguesandgeor00kinggoog`) |
-| The Eclogues and Georgics of Virgil (London: Dorrell and Son; undated, IA catalogue 1866) | John Benson Rose | `virgil-rose-eclogues-georgics` | have-raw (IA `ecloguesandgeor00rosegoog`) |
+| The Eclogues and Georgics of Virgil (London: Dorrell and Son; undated title page; the preface is dated Kensington, 1866, and no later year appears; IA catalogue 1866) | John Benson Rose | `virgil-rose-eclogues-georgics` | have-raw (IA `ecloguesandgeor00rosegoog`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
@@ -2581,7 +2581,7 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | The Tragedies of Sophocles translated into English Verse, vol. II (London: J. M. Richardson, 1824) | Thomas Dale | `sophocles-dale-1824-v2` | have-raw (IA `tragediesofsopho02soph`) |
 | The Oedipus Tyrannus of Sophocles (1922) | J. T. Sheppard | `sophocles-sheppard-oedipus-tyrannus-1922` | have-raw (IA `oedipustyr00soph`) |
 | The Ajax of Sophocles (George Allen and Unwin, first published 1919) | R. C. Trevelyan | `sophocles-trevelyan-ajax-1919` | have-raw (IA `cu31924026593446`) |
-| Sophocles: Philoctetes, a translation (University Tutorial Series; W. B. Clive, undated; catalogue [1892]) | F. G. Plaistowe | `sophocles-plaistowe-philoctetes` | have-raw (IA `sophoclesphiloct00soph`) |
+| Sophocles: Philoctetes, a translation (University Tutorial Series; W. B. Clive, undated title page; the publisher's list bound in is dated July 1898 and no year after 1899 appears in the book; catalogue [1892]) | F. G. Plaistowe | `sophocles-plaistowe-philoctetes` | have-raw (IA `sophoclesphiloct00soph`) |
 | The Tragedies of Sophocles in English prose: the Oxford translation, new edition revised according to the text of Dindorf (New York: Harper, 1886) | unnamed (the Oxford translation; IA catalogue: T. A. Buckley) | `sophocles-oxford-prose-1886` | have-raw (IA `tragediesofsopho00sophrich`) |
 | The Ajax of Sophocles translated into English prose (London, 1895) | E. D. A. Morshead | `sophocles-morshead-ajax-1895` | have-raw (IA `ajaxofsophocles00sophrich`) |
 | The Tragedies of Sophocles translated into English prose (George Bell, 1905) | Edward P. Coleridge | `sophocles-coleridge-prose-1905` | have-raw (IA `tragediesofsopho00sophiala`) |
@@ -3619,7 +3619,7 @@ Shelf: `pipeline/greek-lyric_shelf.json`. Mackail, Wharton's Sappho, Moore's Ana
 | The Greek Anthology, as selected for the use of Westminster, Eton and other public schools, literally translated into English prose, with metrical versions by Bland, Merivale and others (Bohn, MDCCCLIV) | George Burges | `greek-anthology-burges-1854` | have-raw (IA `greekanthology0000geor`) |
 | The Works of Anacreon, Sappho, Bion, Moschus and Musaeus, translated from the original Greek (London: J. Newbery; the imprint date is lost in the OCR, IA gives 1760) | Francis Fawkes | `anacreon-fawkes-1760` | have-raw (IA `worksofanacreons00fawkuoft`) |
 | The Odes of Anacreon translated from the Greek into English verse (London: B. Crosby, 1804) | Thomas Girdlestone | `anacreon-girdlestone-1804` | have-raw (IA `odesanacreontra00girdgoog`) |
-| Anacreon in English, attempted in the metres of the original (undated; IA gives 1869) | Thomas James Arnold | `anacreon-arnold-1869` | have-raw (IA `anacreoninengli00anacgoog`) |
+| Anacreon in English, attempted in the metres of the original (undated title page; the publisher's advertisements bound in quote notices of July 1868, the latest year in the book; IA gives 1869) | Thomas James Arnold | `anacreon-arnold-1869` | have-raw (IA `anacreoninengli00anacgoog`) |
 
 Pending (wishlist): Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus/Aratus/Oppian (all Loebs, Greek facing). Callimachus, Aratus, Tryphiodorus and Musaeus in older translations are on the late-greek-poets shelf.
 
@@ -4214,6 +4214,17 @@ Shelf: `pipeline/vegetius_shelf.json`. Clarke's 1767 translation of the Epitoma 
 
 Pending (wishlist): Milner's 1993 translation is in copyright, so it is not wanted.
 
+## Valerius Flaccus
+
+Shelf: `pipeline/valerius-flaccus_shelf.json`. Book I of the Argonautica in two English versions; no complete PD English translation is known. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The First Book of the Argonautica of C. Valerius Flaccus Setinus Balbus, in English verse (London; catalogue date [1808]) | anonymous (catalogue attribution: T. Noble) | `valerius-flaccus-anon-1808-book1` | have-raw (IA `firstbookofargon00flacrich`) |
+| The Argonautica of Gaius Valerius Flaccus Setinus Balbus, Book I, translated into English prose with introduction and notes (Oxford: B. H. Blackwell, 1916) | H. G. Blomfield | `valerius-flaccus-blomfield-1916-book1` | have-raw (IA `argonauticabook100valeuoft`) |
+
+Pending (wishlist): Mozley's Loeb (1934) is after the 1930 line, so it is not wanted yet.
+
 ## Propertius
 
 Shelf: `pipeline/propertius_shelf.json`. Butler's Loeb (1912, Latin facing; the scan is the 1929 reprint) and Gantillon's Bohn prose (1895 reprint). Not minted.
@@ -4224,6 +4235,7 @@ Shelf: `pipeline/propertius_shelf.json`. Butler's Loeb (1912, Latin facing; the 
 | The Elegies of Propertius, with notes, literally translated (Bohn, 1895 reprint) | P. J. F. Gantillon (select elegies in verse by Nott and Elton) | `propertius-gantillon-bohn` | have-raw (IA `elegiesofpropert00propiala`) |
 | The Elegies of Sextus Propertius, translated into English verse (Edinburgh, 1875) | James Cranstoun | `propertius-cranstoun-1875` | have-raw (IA `elegiessextuspr00unkngoog`) |
 | Propertius, translated (Oxford: Clarendon Press, 1906) | J. S. Phillimore | `propertius-phillimore-1906` | have-raw (IA `propertius00propuoft`) |
+| The Elegies of Propertius, translated into English verse (London: Rivingtons, 1870) | Charles Robert Moore | `propertius-moore-1870` | have-raw (IA `elegiesproperti00magoog`) |
 
 Pending (wishlist): Phillimore's 1906 prose translation (Oxford), if a scan turns up.
 
@@ -4242,6 +4254,7 @@ Shelf: `pipeline/herodian_shelf.json`. The 1629 English Herodian (attributed to 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Herodian of Alexandria his History of Twenty Roman Caesars and Emperors, interpreted out of the Greek original (London, 1629) | attributed to James Maxwell (not named in the scan) | `herodian-1629` | have-raw (IA `bim_early-english-books-1475-1640_herodian-of-alexandria-h_herodian_1629`) |
+| Herodian's History of His Own Times, or of the Roman Empire after Marcus, translated into English, with large notes (London, printed for the author; title-page date OCR-garbled, catalogue 1749) | J. Hart | `herodian-hart-1749` | have-raw (IA `india.history.resource.90905`) |
 
 Pending (wishlist): A cleaner eighteenth-century translation, if a scan turns up. The 1635 reissue (IA bim_early-english-books-1475-1640_herodian-of-alexandria-h_herodian_1635) is the same translation and was not added.
 
