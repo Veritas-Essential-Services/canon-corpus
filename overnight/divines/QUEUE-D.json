@@ -1101,6 +1101,56 @@
       "started": "2026-10-02T21:23:39-05:00",
       "finished": "2026-10-02T21:23:56-05:00",
       "notes": "11/11 fetched (Gutenberg 111, 125, 286, 349, 532, 533, 9489, 3722, 904, 59823, 35188), 23,021 units, 1 ~2 ids."
+    },
+    {
+      "id": "basile",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: basile; no minting",
+      "status": "done",
+      "started": "2026-10-02T21:37:01-05:00",
+      "finished": "2026-10-02T21:37:01-05:00",
+      "notes": "1/1 fetched (Gutenberg 2198), 683 units, 0 ~2 ids."
+    },
+    {
+      "id": "straparola",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: straparola; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:37:01-05:00"
+    },
+    {
+      "id": "gesta-romanorum",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: gesta-romanorum; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:37:01-05:00"
+    },
+    {
+      "id": "babbitt",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: babbitt; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:37:01-05:00"
+    },
+    {
+      "id": "abby-diaz",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: abby-diaz; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:37:01-05:00"
+    },
+    {
+      "id": "beatrice-clay",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: beatrice-clay; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:37:01-05:00"
+    },
+    {
+      "id": "poulsson",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: poulsson; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:37:01-05:00"
+    },
+    {
+      "id": "thorne-thomsen",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — old tale collections and retellings: thorne-thomsen; no minting",
+      "status": "running",
+      "started": "2026-10-02T21:37:01-05:00"
     }
   ]
 }

@@ -510,3 +510,6 @@
 
 ## 2026-10-02 21:24 CDT — note
 - The Garis commit (3088b95) says "34 books in all"; the shelf holds 35. The DIGEST row says 35.
+
+## 2026-10-02 21:37 CDT — basile: done
+- 1/1 fetched (Gutenberg 2198), 683 units, 0 ~2 ids.

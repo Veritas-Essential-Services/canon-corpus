@@ -2090,6 +2090,14 @@ Shelf: `pipeline/stratton-porter_shelf.json` (2026-10-02; added at the coordinat
 | stratton-porter-moths-of-the-limberlost | excluded | PG 4907, natural history, not story-telling; left out |
 | stratton-porter-wild-heart | excluded | PG 77766, The Wild Heart (1922), is by Emma-Lindsay Squier; Stratton-Porter only wrote its introduction (title page and Gutenberg header). Not hers; left out. |
 
+## Giambattista Basile, tr. John Edward Taylor
+
+Shelf: `pipeline/basile_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Neapolitan fairy tales of the 1630s (Cinderella's and Rapunzel's early cousins) in Taylor's translation, as selected by E. F. Strange. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Stories from the Pentamerone | have | PG 2198, `basile-stories-from-the-pentamerone` (683 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

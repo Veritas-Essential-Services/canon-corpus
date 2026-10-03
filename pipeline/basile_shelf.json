@@ -1,0 +1,38 @@
+{
+ "_about": "Stories from the Pentamerone (Macmillan, 1911), E. F. Strange's selection from Basile's Neapolitan tales of 1634-36. Strange's note says the version follows John Edward Taylor's translation of 1847. The Gutenberg transcription cuts that sentence, so the translator was confirmed against the 1911 printing at the Internet Archive (b1109153), whose text matches. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Giambattista Basile; tr. John Edward Taylor; ed. E. F. Strange",
+ "_name_words": [
+  "basile"
+ ],
+ "_surname": [
+  "basile"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "basile-stories-from-the-pentamerone": [
+   2198,
+   "Stories from the Pentamerone"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "basile-stories-from-the-pentamerone": "Taylor"
+ },
+ "_identity_checked": {
+  "basile-stories-from-the-pentamerone": "Translator named in the 1911 printing's note, not in the Gutenberg text: archive.org b1109153 (Macmillan 1911, ed. E. F. Strange) reads 'The following version follows the translation by John Edward Taylor, published in 1847', and its text matches PG 2198 ('At this strange spectacle, Zoza burst into such a fit of laughter')."
+ },
+ "_checks": {
+  "basile-stories-from-the-pentamerone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "basile",
+   "translator_claimed": "Taylor",
+   "translator_in_text": false,
+   "identity": "identity_override",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
