@@ -842,3 +842,6 @@
 
 ## 2026-10-03 07:39 CDT — busk-roman: done
 - 1/1 fetched (Gutenberg 48771), 3,421 units, 0 ~2 ids.
+
+## 2026-10-03 07:41 CDT — baring-gould-otc: done
+- 1/1 fetched (Gutenberg 72268), 4,212 units, 0 ~2 ids.

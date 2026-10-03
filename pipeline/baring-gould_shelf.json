@@ -1,5 +1,5 @@
 {
- "_about": "Sabine Baring-Gould's (1834-1924) books of legend and lore: Curious Myths of the Middle Ages, The Book of Were-Wolves, A Book of Ghosts, Legends of the Patriarchs and Prophets, and Grettir the Outlaw retold for boys. His Lives of the Saints, novels, sermons and travel books are left for now. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Sabine Baring-Gould's (1834-1924) books of legend and lore: Curious Myths of the Middle Ages, The Book of Were-Wolves, A Book of Ghosts, Legends of Old Testament Characters (London, 1871), and Grettir the Outlaw retold for boys. His Lives of the Saints, novels, sermons and travel books are left for now. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
  "_author": "Sabine Baring-Gould",
  "_name_words": [
   "baring"
@@ -51,33 +51,35 @@
     "front": true
    }
   ],
-  "baring-gould-legends-of-the-patriarchs-and-prophets": [
-   48736,
-   "Legends of the Patriarchs and Prophets",
+  "baring-gould-grettir-the-outlaw": [
+   48622,
+   "Grettir the Outlaw: A Story of Iceland"
+  ],
+  "baring-gould-legends-of-old-testament-characters": [
+   72268,
+   "Legends of Old Testament Characters, from the Talmud and Other Sources",
    {
     "levels": [
      {
-      "re": "(?!THE GIFT OF THE KING)(?![IVXL]+\\.?$)(?!\\d)[A-Z][A-Z0-9' ,.!?;:\\\"’‘—()&\\[\\]-]{2,}$",
-      "strip": "\\.?(?:\\[\\d+\\])?\\.?$"
+      "re": "[IVXL]+\\. [A-Z][^a-z]*$",
+      "strip": "\\.?(?:\\[\\d+\\])?\\.?$",
+      "max": 120
      },
      {
-      "re": "\\d+\\. [A-Z][A-Z0-9' ,.!?;:\\\"’‘—()&\\[\\]-]{2,}$",
+      "re": "\\d+\\. [A-Z][^a-z]*$",
       "strip": "\\.?(?:\\[\\d+\\])?\\.?$",
       "max": 120
      }
     ],
-    "start": "LEGENDS OF THE PATRIARCHS AND PROPHETS\\.?$",
+    "start": "I\\. THE FALL OF THE ANGELS\\.?(?:\\[\\d+\\])?\\.?$",
     "front": true
    }
-  ],
-  "baring-gould-grettir-the-outlaw": [
-   48622,
-   "Grettir the Outlaw: A Story of Iceland"
   ]
  },
  "internet_archive": {},
  "_excluded": {
-  "baring-gould-lives-of-the-saints": "The Lives of the Saints (16 vols; Gutenberg holds some months): a saints' calendar on the scale of Lane A's divines; left for Adam to place"
+  "baring-gould-lives-of-the-saints": "The Lives of the Saints (16 vols; Gutenberg holds some months): a saints' calendar on the scale of Lane A's divines; left for Adam to place",
+  "baring-gould-legends-of-the-patriarchs-and-prophets": "Legends of the Patriarchs and Prophets (PG 48736, New York, 1881): the American printing of Legends of Old Testament Characters. 87% of its paragraphs are word-for-word in the 1871 London edition (PG 72268), which is kept in its place; held once (2026-10-03)."
  },
  "_checks": {
   "baring-gould-curious-myths-of-the-middle-ages": {
@@ -107,7 +109,7 @@
    "pg_copyrighted": false,
    "pg_translator": null
   },
-  "baring-gould-legends-of-the-patriarchs-and-prophets": {
+  "baring-gould-grettir-the-outlaw": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
@@ -116,7 +118,7 @@
    "pg_copyrighted": false,
    "pg_translator": null
   },
-  "baring-gould-grettir-the-outlaw": {
+  "baring-gould-legends-of-old-testament-characters": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",

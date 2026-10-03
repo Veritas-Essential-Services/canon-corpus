@@ -1756,9 +1756,10 @@ Shelf: `pipeline/baring-gould_shelf.json` (2026-10-02; added at the coordinator'
 | Curious Myths of the Middle Ages | have | PG 36127, `baring-gould-curious-myths-of-the-middle-ages` (740 units) |
 | The Book of Were-Wolves | have | PG 5324, `baring-gould-book-of-were-wolves` (882 units) |
 | A Book of Ghosts | have | PG 36638, `baring-gould-book-of-ghosts` (3105 units) |
-| Legends of the Patriarchs and Prophets | have | PG 48736, `baring-gould-legends-of-the-patriarchs-and-prophets` (3580 units) |
 | Grettir the Outlaw: A Story of Iceland | have | PG 48622, `baring-gould-grettir-the-outlaw` (1204 units) |
+| Legends of Old Testament Characters, from the Talmud and Other Sources | have | PG 72268, `baring-gould-legends-of-old-testament-characters` (4212 units) |
 | baring-gould-lives-of-the-saints | excluded | The Lives of the Saints (16 vols; Gutenberg holds some months): a saints' calendar on the scale of Lane A's divines; left for Adam to place |
+| baring-gould-legends-of-the-patriarchs-and-prophets | excluded | Legends of the Patriarchs and Prophets (PG 48736, New York, 1881): the American printing of Legends of Old Testament Characters. 87% of its paragraphs are word-for-word in the 1871 London edition (PG 72268), which is kept in its place; held once (2026-10-03). |
 
 ## Charles Godfrey Leland
 
