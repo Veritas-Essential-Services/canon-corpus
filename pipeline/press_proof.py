@@ -533,6 +533,10 @@ def plausible(an, bn, ao):
         return False
     if " " in bn and bn[:1].lower() != an[:1].lower():
         return False    # a run-together pair is split, never reordered ("Neitherf" is not "If Neither")
+    al = an.lower()
+    if any(al.replace(lig, "e") == bn.lower() for lig in ("oe", "ae")) or \
+            an[:-1] == bn and an[-1:] == "i" and an[-2:-1] == "i":
+        return False    # a Latin diphthong ("foelix") or plural ("Dii") Tesseract read without
     return difflib.SequenceMatcher(None, an.lower(), bn.replace(" ", "").lower()).ratio() >= 0.6
 
 def proof_ocr(slug):

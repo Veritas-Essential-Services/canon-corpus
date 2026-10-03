@@ -1025,13 +1025,6 @@
   },
   {
    "leaf": 346,
-   "from": "foelix",
-   "to": "felix",
-   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
-   "by": "press_proof"
-  },
-  {
-   "leaf": 346,
    "from": "Eom",
    "to": "Rom",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
@@ -1167,13 +1160,6 @@
    "leaf": 356,
    "from": "tbe",
    "to": "the",
-   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
-   "by": "press_proof"
-  },
-  {
-   "leaf": 356,
-   "from": "Dii",
-   "to": "Di",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },

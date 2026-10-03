@@ -2733,13 +2733,6 @@
   },
   {
    "leaf": 213,
-   "from": "poena",
-   "to": "pena",
-   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
-   "by": "press_proof"
-  },
-  {
-   "leaf": 213,
    "from": "estabUsli",
    "to": "establish",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
