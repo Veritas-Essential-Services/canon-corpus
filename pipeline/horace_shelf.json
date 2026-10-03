@@ -119,6 +119,11 @@
    "odesepodesofhora00horarich",
    "The Odes and Epodes of Horace translated into English verse, with introduction, notes and Latin text (G. P. Putnam's Sons, 1892)",
    "tr. John B. Hague"
+  ],
+  "horace-marris-odes-1912": [
+   "odesofhoracebook00horauoft",
+   "The Odes of Horace, Books I-IV and the Saecular Hymn, translated into English verse, with Wickham's Latin text in parallel (Oxford University Press, 1912)",
+   "tr. W. S. Marris"
   ]
  },
  "_cross_ref": {
@@ -157,7 +162,8 @@
   "horace-francis-1825-v2": "Francis",
   "horace-deazeley-odes-1895": "Deazeley",
   "horace-hughes-1867": "Hughes",
-  "horace-forsyth-odes-1876": "Forsyth"
+  "horace-forsyth-odes-1876": "Forsyth",
+  "horace-marris-odes-1912": "Marris"
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
@@ -438,6 +444,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1892",
    "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-marris-odes-1912": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "odes of horace",
+   "translator_claimed": "Marris",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
