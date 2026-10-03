@@ -5,7 +5,7 @@
   "babbitt"
  ],
  "_surname": [
-  "babbitt"
+  "ellen c. babbitt"
  ],
  "ccel": {},
  "gutenberg": {
@@ -31,7 +31,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "babbitt",
+   "author_seen": "ellen c. babbitt",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -40,7 +40,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "babbitt",
+   "author_seen": "ellen c. babbitt",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

@@ -7,7 +7,7 @@
   "horse"
  ],
  "_surname": [
-  "sewell"
+  "anna sewell"
  ],
  "ccel": {},
  "gutenberg": {
@@ -28,7 +28,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "sewell",
+   "author_seen": "anna sewell",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

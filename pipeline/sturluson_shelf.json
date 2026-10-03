@@ -9,10 +9,10 @@
   "snorre"
  ],
  "_surname": [
-  "sturluson",
-  "snorri",
-  "laing",
-  "anderson"
+  "snorri sturluson",
+  "samuel laing",
+  "r. b. anderson",
+  "sturluson"
  ],
  "_translators": {
   "sturluson-younger-edda-anderson": "Anderson"
@@ -52,7 +52,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "sturluson",
+   "author_seen": "snorri sturluson",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -61,7 +61,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "sturluson",
+   "author_seen": "snorri sturluson",
    "translator_claimed": "Anderson",
    "translator_in_text": true,
    "identity": "ok",

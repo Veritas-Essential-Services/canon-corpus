@@ -8,7 +8,7 @@
   "apron"
  ],
  "_surname": [
-  "fillmore"
+  "parker fillmore"
  ],
  "ccel": {},
  "gutenberg": {
@@ -28,7 +28,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "fillmore",
+   "author_seen": "parker fillmore",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -37,7 +37,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "fillmore",
+   "author_seen": "parker fillmore",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

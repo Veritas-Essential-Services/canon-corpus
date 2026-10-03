@@ -6,9 +6,11 @@
  ],
  "_surname": [
   "william morris",
-  "kirtlan",
+  "ernest j. b. kirtlan",
+  "francis barton gummere",
   "gummere",
-  "wyatt"
+  "a. j. wyatt",
+  "kirtlan"
  ],
  "_translators": {
   "beowulf-morris-wyatt": "Morris",
@@ -68,7 +70,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "gummere",
+   "author_seen": "francis barton gummere",
    "translator_claimed": "Gummere",
    "translator_in_text": true,
    "identity": "ok",

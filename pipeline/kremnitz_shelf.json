@@ -6,8 +6,8 @@
   "percival"
  ],
  "_surname": [
-  "kremnitz",
-  "percival"
+  "mite kremnitz",
+  "j. m. percival"
  ],
  "ccel": {},
  "gutenberg": {
@@ -29,7 +29,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "kremnitz",
+   "author_seen": "mite kremnitz",
    "translator_claimed": "Percival",
    "translator_in_text": true,
    "identity": "ok",

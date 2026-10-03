@@ -7,7 +7,7 @@
   "chair"
  ],
  "_surname": [
-  "browne"
+  "frances browne"
  ],
  "ccel": {},
  "gutenberg": {
@@ -28,7 +28,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "browne",
+   "author_seen": "frances browne",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

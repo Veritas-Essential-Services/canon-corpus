@@ -6,8 +6,9 @@
   "pinocchio"
  ],
  "_surname": [
-  "collodi",
-  "lorenzini"
+  "c. collodi",
+  "carlo collodi",
+  "carlo lorenzini"
  ],
  "_translators": {
   "collodi-pinocchio-della-chiesa": "Chiesa",
@@ -37,7 +38,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "collodi",
+   "author_seen": "c. collodi",
    "translator_claimed": "Chiesa",
    "translator_in_text": true,
    "identity": "ok",
@@ -49,7 +50,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "collodi",
+   "author_seen": "c. collodi",
    "translator_claimed": "Murray",
    "translator_in_text": true,
    "identity": "ok",

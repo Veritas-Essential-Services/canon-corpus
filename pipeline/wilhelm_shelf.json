@@ -6,8 +6,10 @@
   "martens"
  ],
  "_surname": [
-  "wilhelm",
-  "martens"
+  "richard wilhelm",
+  "dr. r. wilhelm",
+  "frederick h. martens",
+  "fredrick h. martens"
  ],
  "ccel": {},
  "gutenberg": {
@@ -26,7 +28,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "wilhelm",
+   "author_seen": "richard wilhelm",
    "translator_claimed": "Martens",
    "translator_in_text": true,
    "identity": "ok",

@@ -7,6 +7,7 @@
   "legends"
  ],
  "_surname": [
+  "selma lagerlöf",
   "lagerlöf",
   "lagerlof"
  ],
@@ -37,7 +38,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "lagerlöf",
+   "author_seen": "selma lagerlöf",
    "translator_claimed": "Howard",
    "translator_in_text": true,
    "identity": "ok",
@@ -49,7 +50,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "lagerlöf",
+   "author_seen": "selma lagerlöf",
    "translator_claimed": "Howard",
    "translator_in_text": true,
    "identity": "ok",

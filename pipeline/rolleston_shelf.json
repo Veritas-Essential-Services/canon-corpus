@@ -8,7 +8,7 @@
   "finn"
  ],
  "_surname": [
-  "rolleston"
+  "t. w. rolleston"
  ],
  "ccel": {},
  "gutenberg": {
@@ -34,7 +34,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "rolleston",
+   "author_seen": "t. w. rolleston",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -43,7 +43,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "rolleston",
+   "author_seen": "t. w. rolleston",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

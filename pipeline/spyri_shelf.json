@@ -8,7 +8,7 @@
   "rico"
  ],
  "_surname": [
-  "spyri"
+  "johanna spyri"
  ],
  "_translators": {
   "spyri-heidi-edwardes": "Edwards",
@@ -48,7 +48,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "spyri",
+   "author_seen": "johanna spyri",
    "translator_claimed": "Edwards",
    "translator_in_text": true,
    "identity": "ok",
@@ -60,7 +60,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "spyri",
+   "author_seen": "johanna spyri",
    "translator_claimed": "Stork",
    "translator_in_text": true,
    "identity": "ok",
@@ -72,7 +72,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "spyri",
+   "author_seen": "johanna spyri",
    "translator_claimed": "Dole",
    "translator_in_text": true,
    "identity": "ok",
@@ -84,7 +84,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "spyri",
+   "author_seen": "johanna spyri",
    "translator_claimed": "Brooks",
    "translator_in_text": true,
    "identity": "ok",

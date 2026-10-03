@@ -7,7 +7,8 @@
   "fjeld"
  ],
  "_surname": [
-  "dasent"
+  "george webbe dasent",
+  "g. w. dasent"
  ],
  "_translators": {
   "dasent-popular-tales-from-the-norse": "Dasent",
@@ -57,7 +58,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "dasent",
+   "author_seen": "george webbe dasent",
    "translator_claimed": "Dasent",
    "translator_in_text": true,
    "identity": "ok",
@@ -69,7 +70,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "dasent",
+   "author_seen": "george webbe dasent",
    "translator_claimed": "Dasent",
    "translator_in_text": true,
    "identity": "ok",
@@ -81,7 +82,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "dasent",
+   "author_seen": "george webbe dasent",
    "translator_claimed": "Dasent",
    "translator_in_text": true,
    "identity": "ok",
@@ -93,7 +94,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "dasent",
+   "author_seen": "george webbe dasent",
    "translator_claimed": "Dasent",
    "translator_in_text": true,
    "identity": "ok",

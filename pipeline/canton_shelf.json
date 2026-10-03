@@ -6,7 +6,7 @@
   "saints"
  ],
  "_surname": [
-  "canton"
+  "william canton"
  ],
  "ccel": {},
  "gutenberg": {
@@ -25,7 +25,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "canton",
+   "author_seen": "william canton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

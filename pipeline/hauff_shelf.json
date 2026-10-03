@@ -9,7 +9,7 @@
   "tales"
  ],
  "_surname": [
-  "hauff"
+  "wilhelm hauff"
  ],
  "_translators": {
   "hauff-tales-of-the-caravan-inn-palace": "Stowell",
@@ -39,7 +39,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hauff",
+   "author_seen": "wilhelm hauff",
    "translator_claimed": "Stowell",
    "translator_in_text": true,
    "identity": "ok",
@@ -51,7 +51,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "hauff",
+   "author_seen": "wilhelm hauff",
    "translator_claimed": "Weedon",
    "translator_in_text": true,
    "identity": "ok",

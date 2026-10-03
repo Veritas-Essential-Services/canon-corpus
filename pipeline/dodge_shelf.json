@@ -7,7 +7,7 @@
   "skates"
  ],
  "_surname": [
-  "dodge"
+  "mary mapes dodge"
  ],
  "ccel": {},
  "gutenberg": {
@@ -26,7 +26,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "dodge",
+   "author_seen": "mary mapes dodge",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

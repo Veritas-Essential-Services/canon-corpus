@@ -8,7 +8,7 @@
   "children"
  ],
  "_surname": [
-  "edgeworth"
+  "maria edgeworth"
  ],
  "ccel": {},
  "gutenberg": {
@@ -30,7 +30,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "edgeworth",
+   "author_seen": "maria edgeworth",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

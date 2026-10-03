@@ -5,7 +5,7 @@
   "ruskin"
  ],
  "_surname": [
-  "ruskin"
+  "john ruskin"
  ],
  "ccel": {},
  "gutenberg": {
@@ -35,7 +35,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "ruskin",
+   "author_seen": "john ruskin",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

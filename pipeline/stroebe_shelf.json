@@ -7,8 +7,8 @@
   "martens"
  ],
  "_surname": [
-  "stroebe",
-  "martens"
+  "klara stroebe",
+  "frederick h. martens"
  ],
  "_translators": {
   "stroebe-swedish-fairy-book": "Martens",
@@ -62,7 +62,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "stroebe",
+   "author_seen": "klara stroebe",
    "translator_claimed": "Martens",
    "translator_in_text": true,
    "identity": "ok",
@@ -74,7 +74,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "stroebe",
+   "author_seen": "klara stroebe",
    "translator_claimed": "Martens",
    "translator_in_text": true,
    "identity": "ok",

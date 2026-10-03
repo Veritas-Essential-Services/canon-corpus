@@ -6,9 +6,9 @@
  ],
  "_surname": [
   "henry adams bellows",
-  "thorpe",
   "william morris",
-  "magnússon"
+  "benjamin thorpe",
+  "eiríkr magnússon"
  ],
  "_translators": {
   "edda-bellows": "Bellows",
@@ -83,7 +83,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "thorpe",
+   "author_seen": "benjamin thorpe",
    "translator_claimed": "Blackwell",
    "translator_in_text": true,
    "identity": "ok",

@@ -8,7 +8,7 @@
   "lais"
  ],
  "_surname": [
-  "weston"
+  "jessie l. weston"
  ],
  "_translators": {
   "weston-parzival-1": "Weston",
@@ -73,7 +73,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "weston",
+   "author_seen": "jessie l. weston",
    "translator_claimed": "Weston",
    "translator_in_text": true,
    "identity": "ok",
@@ -85,7 +85,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "weston",
+   "author_seen": "jessie l. weston",
    "translator_claimed": "Weston",
    "translator_in_text": true,
    "identity": "ok",
@@ -97,7 +97,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "weston",
+   "author_seen": "jessie l. weston",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -106,7 +106,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "weston",
+   "author_seen": "jessie l. weston",
    "translator_claimed": "Weston",
    "translator_in_text": true,
    "identity": "ok",
@@ -118,7 +118,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "weston",
+   "author_seen": "jessie l. weston",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -127,7 +127,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "weston",
+   "author_seen": "jessie l. weston",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Jessie L. Weston"

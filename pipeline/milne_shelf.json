@@ -9,7 +9,7 @@
   "once"
  ],
  "_surname": [
-  "milne"
+  "a. a. milne"
  ],
  "ccel": {},
  "gutenberg": {
@@ -49,7 +49,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "milne",
+   "author_seen": "a. a. milne",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -58,7 +58,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "milne",
+   "author_seen": "a. a. milne",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -67,7 +67,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "milne",
+   "author_seen": "a. a. milne",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -76,7 +76,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "milne",
+   "author_seen": "a. a. milne",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -85,7 +85,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "milne",
+   "author_seen": "a. a. milne",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

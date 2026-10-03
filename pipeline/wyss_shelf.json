@@ -8,8 +8,8 @@
   "island"
  ],
  "_surname": [
-  "wyss",
-  "kingston"
+  "johann david wyss",
+  "william h. g. kingston"
  ],
  "_translators": {
   "wyss-swiss-family-robinson-kingston": "Kingston"
@@ -42,7 +42,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "wyss",
+   "author_seen": "johann david wyss",
    "translator_claimed": "Kingston",
    "translator_in_text": true,
    "identity": "ok",

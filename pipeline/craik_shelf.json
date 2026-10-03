@@ -8,8 +8,8 @@
   "fairy"
  ],
  "_surname": [
-  "craik",
-  "mulock"
+  "dinah maria mulock craik",
+  "miss mulock"
  ],
  "ccel": {},
  "gutenberg": {
@@ -36,7 +36,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "craik",
+   "author_seen": "dinah maria mulock craik",
    "title_weak": true,
    "identity": "title_weak",
    "pg_copyrighted": false,
@@ -46,7 +46,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "craik",
+   "author_seen": "dinah maria mulock craik",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -55,7 +55,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "craik",
+   "author_seen": "dinah maria mulock craik",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

@@ -7,7 +7,8 @@
   "tales"
  ],
  "_surname": [
-  "behari"
+  "lal behari day",
+  "lal behari"
  ],
  "ccel": {},
  "gutenberg": {
@@ -26,7 +27,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "behari",
+   "author_seen": "lal behari day",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

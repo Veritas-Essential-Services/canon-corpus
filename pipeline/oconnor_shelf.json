@@ -5,7 +5,9 @@
   "connor"
  ],
  "_surname": [
-  "connor"
+  "w. f. o’connor",
+  "w. f. o'connor",
+  "william frederick travers o'connor"
  ],
  "ccel": {},
  "gutenberg": {
@@ -28,7 +30,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "connor",
+   "author_seen": "w. f. o’connor",
    "translator_claimed": "Connor",
    "translator_in_text": true,
    "identity": "ok",

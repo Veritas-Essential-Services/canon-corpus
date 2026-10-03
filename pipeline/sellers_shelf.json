@@ -5,7 +5,7 @@
   "sellers"
  ],
  "_surname": [
-  "sellers"
+  "charles sellers"
  ],
  "ccel": {},
  "gutenberg": {
@@ -25,7 +25,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "sellers",
+   "author_seen": "charles sellers",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

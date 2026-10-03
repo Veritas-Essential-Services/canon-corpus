@@ -8,7 +8,7 @@
   "godmothers"
  ],
  "_surname": [
-  "gatty"
+  "mrs. alfred gatty"
  ],
  "ccel": {},
  "gutenberg": {
@@ -30,7 +30,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "gatty",
+   "author_seen": "mrs. alfred gatty",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -39,7 +39,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "gatty",
+   "author_seen": "mrs. alfred gatty",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

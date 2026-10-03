@@ -8,7 +8,7 @@
   "knights"
  ],
  "_surname": [
-  "knowles"
+  "james knowles"
  ],
  "ccel": {},
  "gutenberg": {
@@ -24,7 +24,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "knowles",
+   "author_seen": "james knowles",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

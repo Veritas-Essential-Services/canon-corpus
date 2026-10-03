@@ -5,7 +5,7 @@
   "paine"
  ],
  "_surname": [
-  "paine"
+  "albert bigelow paine"
  ],
  "ccel": {},
  "gutenberg": {
@@ -35,7 +35,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "paine",
+   "author_seen": "albert bigelow paine",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -44,7 +44,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "paine",
+   "author_seen": "albert bigelow paine",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -53,7 +53,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "paine",
+   "author_seen": "albert bigelow paine",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

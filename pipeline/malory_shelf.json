@@ -7,7 +7,7 @@
   "malory"
  ],
  "_surname": [
-  "malory"
+  "thomas malory"
  ],
  "ccel": {},
  "gutenberg": {
@@ -79,7 +79,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "malory",
+   "author_seen": "thomas malory",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -88,7 +88,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "malory",
+   "author_seen": "thomas malory",
    "title_weak": true,
    "identity": "title_weak",
    "pg_copyrighted": false,
@@ -98,7 +98,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "malory",
+   "author_seen": "thomas malory",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

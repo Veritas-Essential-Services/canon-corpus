@@ -5,7 +5,8 @@
   "jameson"
  ],
  "_surname": [
-  "jameson"
+  "mrs. jameson",
+  "anna jameson"
  ],
  "ccel": {},
  "gutenberg": {
@@ -60,7 +61,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "jameson",
+   "author_seen": "mrs. jameson",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -69,7 +70,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "jameson",
+   "author_seen": "mrs. jameson",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

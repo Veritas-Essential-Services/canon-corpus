@@ -7,7 +7,7 @@
   "children"
  ],
  "_surname": [
-  "steedman"
+  "amy steedman"
  ],
  "ccel": {},
  "gutenberg": {
@@ -23,7 +23,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "steedman",
+   "author_seen": "amy steedman",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

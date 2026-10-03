@@ -5,7 +5,8 @@
   "thrum"
  ],
  "_surname": [
-  "thrum"
+  "thos. g. thrum",
+  "thomas g. thrum"
  ],
  "ccel": {},
  "gutenberg": {
@@ -37,7 +38,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "thrum",
+   "author_seen": "thos. g. thrum",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

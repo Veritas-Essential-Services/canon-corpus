@@ -6,8 +6,8 @@
   "worster"
  ],
  "_surname": [
-  "rasmussen",
-  "worster"
+  "knud rasmussen",
+  "w. worster"
  ],
  "ccel": {},
  "gutenberg": {
@@ -26,7 +26,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "rasmussen",
+   "author_seen": "knud rasmussen",
    "translator_claimed": "Worster",
    "translator_in_text": true,
    "identity": "ok",

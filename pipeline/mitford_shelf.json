@@ -6,8 +6,8 @@
   "japan"
  ],
  "_surname": [
-  "mitford",
-  "redesdale"
+  "lord redesdale",
+  "a. b. mitford"
  ],
  "_translators": {
   "mitford-tales-of-old-japan": "Mitford"
@@ -31,7 +31,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "mitford",
+   "author_seen": "lord redesdale",
    "translator_claimed": "Mitford",
    "translator_in_text": true,
    "identity": "ok",

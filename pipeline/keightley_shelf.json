@@ -5,7 +5,7 @@
   "keightley"
  ],
  "_surname": [
-  "keightley"
+  "thomas keightley"
  ],
  "ccel": {},
  "gutenberg": {
@@ -24,7 +24,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "keightley",
+   "author_seen": "thomas keightley",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

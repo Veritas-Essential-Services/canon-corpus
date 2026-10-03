@@ -8,7 +8,10 @@
   "dutt"
  ],
  "_surname": [
-  "dutt"
+  "romesh c. dutt",
+  "romesh chunder dutt",
+  "romesh chandra dutt",
+  "romesh dutt"
  ],
  "ccel": {},
  "gutenberg": {
@@ -46,7 +49,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "dutt",
+   "author_seen": "romesh c. dutt",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Romesh Chunder Dutt"
@@ -55,7 +58,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "dutt",
+   "author_seen": "romesh chandra dutt",
    "identity": "ok",
    "ia_rights": "CHECK: no date on the record",
    "ia_date": null,

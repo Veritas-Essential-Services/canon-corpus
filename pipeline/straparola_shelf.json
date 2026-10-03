@@ -5,6 +5,7 @@
   "straparola"
  ],
  "_surname": [
+  "giovanni francesco straparola",
   "straparola",
   "w. g. waters"
  ],
@@ -39,7 +40,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "straparola",
+   "author_seen": "giovanni francesco straparola",
    "translator_claimed": "Waters",
    "translator_in_text": true,
    "identity": "ok",

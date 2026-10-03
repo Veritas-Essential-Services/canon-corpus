@@ -5,7 +5,7 @@
   "berens"
  ],
  "_surname": [
-  "berens"
+  "e. m. berens"
  ],
  "ccel": {},
  "gutenberg": {
@@ -21,7 +21,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "berens",
+   "author_seen": "e. m. berens",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

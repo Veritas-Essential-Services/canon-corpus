@@ -5,7 +5,7 @@
   "morgan"
  ],
  "_surname": [
-  "morgan"
+  "mary de morgan"
  ],
  "ccel": {},
  "gutenberg": {
@@ -50,7 +50,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "morgan",
+   "author_seen": "mary de morgan",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -59,7 +59,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "morgan",
+   "author_seen": "mary de morgan",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
