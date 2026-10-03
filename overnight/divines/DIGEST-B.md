@@ -14,7 +14,7 @@
 | Aeschylus, Euripides, Sophocles | 19 / 7 + 2 Perseus (Browning's Agamemnon, Murray's Rhesus) | Smyth is on PR #7 |
 | Aristophanes | 5 / 0 | Rogers complete, Frere |
 | Herodotus, Thucydides, Xenophon, Polybius, Arrian | 20 / 7 + 3 Perseus Thucydides (Hobbes, Dale, C. F. Smith) | the Greek-facing Loebs |
-| Plutarch (North, Langhorne, Stewart-Long; Goodwin Moralia) | 13 / 12 + 91 Perseus Moralia (Goodwin 1874 ed.; Babbitt vols. 1-2) | Holland's Morals in a cleaner copy |
+| Plutarch (North, Langhorne, Stewart-Long; Goodwin Moralia; Holland's Morals) | 13 / 14 + 91 Perseus Moralia (Goodwin 1874 ed.; Babbitt vols. 1-2) | none known |
 | Marcus Aurelius, Epictetus, Seneca | 13 / 5 | Gummere's Epistles (Latin facing) |
 | Tacitus, Livy, Caesar, Suetonius, Sallust, Pliny | 20 / 2 | Holland's Livy/Suetonius/Pliny |
 | Lucretius, Horace, Catullus, Tibullus, Juvenal, Plautus & Terence, Lucan, Apuleius, Petronius | 17 / 5 | Creech, Smart, Rowe |
@@ -22,7 +22,7 @@
 | Greek orators (Demosthenes, Lysias, Isocrates) | 4 / 6 + 54 Perseus (Vince 1926 and 1930, Lamb 1930) | none known |
 | Greek poets (Pindar, Theocritus, Apollonius, Quintus, lyric and Anthology) | 9 / 4 | Paton, Edmonds, Mair (Greek-facing Loebs); Musaeus |
 | Late philosophy (Diogenes, Plotinus incl. MacKenna 1917-30 complete, Porphyry, Iamblichus, Proclus, Sextus, Julian, Boethius) | 21 / 8 | Wright's Julian vol. 3 (Greek facing) |
-| Geographers and historians (Pausanias, Strabo, Appian, Diodorus, Dio, Athenaeus, Procopius, Greek romances) | 20 / 7 | Taylor's Pausanias vol. 3, Frazer |
+| Geographers and historians (Pausanias, Strabo, Appian, Diodorus, Dio, Athenaeus, Procopius, Greek romances) | 20 / 7 | Frazer's translation volume (1898) |
 | Science (Euclid, Archimedes, Apollonius of Perga, Hippocrates, Galen, Aretaeus, Theophrastus, Hero, Ptolemy) | 6 / 9 + 27 Perseus (Adams's Hippocrates and Aretaeus, Jones, Heath, Brock) | Heath 2nd ed. (1926) |
 | Latin silver and late (Martial, Statius, Claudian, Quintilian, Vitruvius, Gellius, Ammianus, Ausonius, Frontinus, Celsus, Cato/Varro, Phaedrus, Watson's epitomators, Justinian) | 9 / 20 | Hawkins's Claudian vol. 2 |
 | Dionysius of Halicarnassus, Augustus | 2 / 0 | |
