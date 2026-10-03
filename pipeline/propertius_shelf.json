@@ -26,6 +26,11 @@
    "propertius00propuoft",
    "Propertius, translated (Oxford: Clarendon Press, 1906)",
    "tr. J. S. Phillimore"
+  ],
+  "propertius-moore-1870": [
+   "elegiesproperti00magoog",
+   "The Elegies of Propertius, translated into English verse (London: Rivingtons, 1870)",
+   "tr. Charles Robert Moore"
   ]
  },
  "_surname": [
@@ -35,7 +40,8 @@
   "propertius-butler-loeb": "H. E. Butler",
   "propertius-gantillon-bohn": "P. J. F. Gantillon",
   "propertius-cranstoun-1875": "James Cranstoun",
-  "propertius-phillimore-1906": "Phillimore"
+  "propertius-phillimore-1906": "Phillimore",
+  "propertius-moore-1870": "Moore"
  },
  "_checks": {
   "propertius-butler-loeb": {
@@ -87,6 +93,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1906",
    "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "propertius-moore-1870": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "propertius",
+   "translator_claimed": "Moore",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

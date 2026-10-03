@@ -2081,6 +2081,7 @@ Shelf: `pipeline/propertius_shelf.json`. Butler's Loeb (1912, Latin facing; the 
 | The Elegies of Propertius, with notes, literally translated (Bohn, 1895 reprint) | P. J. F. Gantillon (select elegies in verse by Nott and Elton) | `propertius-gantillon-bohn` | have-raw (IA `elegiesofpropert00propiala`) |
 | The Elegies of Sextus Propertius, translated into English verse (Edinburgh, 1875) | James Cranstoun | `propertius-cranstoun-1875` | have-raw (IA `elegiessextuspr00unkngoog`) |
 | Propertius, translated (Oxford: Clarendon Press, 1906) | J. S. Phillimore | `propertius-phillimore-1906` | have-raw (IA `propertius00propuoft`) |
+| The Elegies of Propertius, translated into English verse (London: Rivingtons, 1870) | Charles Robert Moore | `propertius-moore-1870` | have-raw (IA `elegiesproperti00magoog`) |
 
 Pending (wishlist): Phillimore's 1906 prose translation (Oxford), if a scan turns up.
 
@@ -2099,6 +2100,7 @@ Shelf: `pipeline/herodian_shelf.json`. The 1629 English Herodian (attributed to 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Herodian of Alexandria his History of Twenty Roman Caesars and Emperors, interpreted out of the Greek original (London, 1629) | attributed to James Maxwell (not named in the scan) | `herodian-1629` | have-raw (IA `bim_early-english-books-1475-1640_herodian-of-alexandria-h_herodian_1629`) |
+| Herodian's History of His Own Times, or of the Roman Empire after Marcus, translated into English, with large notes (London, printed for the author; title-page date OCR-garbled, catalogue 1749) | J. Hart | `herodian-hart-1749` | have-raw (IA `india.history.resource.90905`) |
 
 Pending (wishlist): A cleaner eighteenth-century translation, if a scan turns up. The 1635 reissue (IA bim_early-english-books-1475-1640_herodian-of-alexandria-h_herodian_1635) is the same translation and was not added.
 
