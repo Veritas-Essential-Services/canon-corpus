@@ -185,6 +185,11 @@
    "neidofvirgil00virgrich",
    "The Aeneid of Virgil translated into English verse (New York: W. J. Widdleton, 1867; the American edition of the London 1866 first)",
    "tr. John Conington"
+  ],
+  "virgil-thornhill-aeneid-1886": [
+   "cu31924026565683",
+   "The Aeneid of Virgil freely translated into English blank verse (Dublin University Press Series; Dublin: Hodges, Figgis; London: Longmans, 1886)",
+   "tr. William J. Thornhill"
   ]
  },
  "_cross_ref": {
@@ -263,7 +268,8 @@
   "virgil-edwards-bucolics-1825": "T. W. C. Edwards",
   "virgil-royds-eclogues-1922": "Thomas Fletcher Royds",
   "virgil-smith-eclogues-1909": "Perley Smith",
-  "virgil-conington-verse-aeneid-1867": "Conington"
+  "virgil-conington-verse-aeneid-1867": "Conington",
+  "virgil-thornhill-aeneid-1886": "Thornhill"
  },
  "_translator_unchecked": {
   "virgil-rhoades-eclogues": "translator on the row (James Rhoades (verse); PG names no translator: identified by collating its openi) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -719,6 +725,19 @@
    "ia_rights": "ok: published 1867",
    "ia_date": "1867",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "virgil-thornhill-aeneid-1886": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "Thornhill",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
