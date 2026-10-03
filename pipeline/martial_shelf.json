@@ -26,6 +26,11 @@
    "epigramsmartial01bohngoog",
    "The Epigrams of Martial, translated into English prose, each accompanied by one or more verse translations from the works of English poets (Bohn's Classical Library; George Bell, 1877)",
    "tr. unnamed (Bohn prose), with verse versions by various hands"
+  ],
+  "martial-nixon-roman-wit-1911": [
+   "romanwitepigrams00mart",
+   "A Roman Wit: epigrams of Martial rendered into English (Boston and New York, copyright 1911)",
+   "tr. Paul Nixon"
   ]
  },
  "_excluded": {
@@ -39,7 +44,8 @@
  ],
  "_translators": {
   "martial-ker-v1": "Walter C. A. Ker",
-  "martial-ker-v2": "Walter C. A. Ker"
+  "martial-ker-v2": "Walter C. A. Ker",
+  "martial-nixon-roman-wit-1911": "Nixon"
  },
  "_translator_unchecked": {
   "martial-bohn": "no single translator to check: None",
@@ -91,6 +97,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1877",
    "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "martial-nixon-roman-wit-1911": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "martial",
+   "translator_claimed": "Nixon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
