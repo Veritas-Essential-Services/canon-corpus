@@ -268,6 +268,11 @@
    "cu31924026468441",
    "The Iliad of Homer in English Hexameter Verse (London: Longmans, Green, and Co.; title-page date partly legible as LXV, catalogue 1865)",
    "tr. J. Henry Dart"
+  ],
+  "homer-purves-iliad-1891": [
+   "iliadhomertrans00abbogoog",
+   "The Iliad of Homer, translated into English prose, edited with an introduction by Evelyn Abbott (London: Percival and Co., 1891)",
+   "tr. John Purves"
   ]
  },
  "_cross_ref": {
@@ -352,7 +357,8 @@
   "homer-sotheby-odyssey-1834-v3": "william sotheby",
   "homer-brandreth-iliad-1846-v1": "t. s. brandreth",
   "homer-du-cane-odyssey-1880": "charles du cane",
-  "homer-dart-iliad-1865": "j. henry dart"
+  "homer-dart-iliad-1865": "j. henry dart",
+  "homer-purves-iliad-1891": "john purves"
  },
  "_translator_unchecked": {
   "homer-bryant-odyssey-v2": "translator on the row (William Cullen Bryant) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -1006,6 +1012,19 @@
    "ia_rights": "ok: published 1865",
    "ia_date": "1865",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "homer-purves-iliad-1891": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "john purves",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
