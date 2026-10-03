@@ -2072,3 +2072,12 @@ Slugs `sherlock-works-N`. Full name forms only: his father William Sherlock was 
 |---|---|---|
 | Works, with an account of his life, ed. T. S. Hughes, 5 vols (Valpy, 1830) | have-ocr | IA, OCR 98-99% |
 | The Trial of the Witnesses of the Resurrection | alternate | IA (Philadelphia printings); not found in the Works OCR |
+
+## Benjamin Keach (round 13, my pick, 2026-10-03)
+
+Slugs `keach-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| An Exposition of the Parables (Aylott, 1858); Tropologia (Bonmahon for Collingridge, 1858) | have-ocr | IA, OCR 94.8-96.4% |
+| A Golden Mine Opened (1694); The Breach Repaired in God's Worship (1691); Gold Refined (1689) | have-raw | IA, OCR about 84% (long s) |

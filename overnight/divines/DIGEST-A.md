@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 06:33 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 06:40 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -256,6 +256,7 @@ Round 12 was done by 06:04 CDT on 3 October. Round 13 goes back earlier: Carolin
 | Edward Stillingfleet | edward-stillingfleet_shelf.json | none | 8 (Origines Sacrae, 2 vols, Oxford 1836; Irenicum, Philadelphia 1842; Rational Account, 2 vols, Oxford 1844; Origines Britannicae, 2 vols, Oxford 1842; Doctrines and Practices of the Church of Rome, ed. Cunningham, Edinburgh 1837) | none | none |
 | Samuel Horsley | samuel-horsley_shelf.json | none | 11 (Sermons, 2 vols 1829; Tracts against Priestley 1789; Biblical Criticism, 4 vols 1820; Psalms, 2 vols 1815; Hosea 1801; Charges 1813) | none | none |
 | Thomas Sherlock | thomas-sherlock_shelf.json | none | 5 (Works, ed. T. S. Hughes, London: Valpy, 1830) | none | none |
+| Benjamin Keach | benjamin-keach_shelf.json | none | 5 (Exposition of the Parables, 1858; Tropologia, 1858; A Golden Mine Opened, 1694; The Breach Repaired, 1691; Gold Refined, 1689) | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
