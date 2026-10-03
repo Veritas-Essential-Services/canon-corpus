@@ -100,6 +100,51 @@ check("a book outside the KJV stays unresolved", not r["resolved"] and "outside"
 r = one("27 Matth. 6, 84", "lat")[0]
 check("a verse that does not exist stays unresolved", not r["resolved"])
 
+check("Greek 1 Esdras is the apocryphal book; 2 Esdras 11 is Nehemiah 1 by Brenton's map",
+      not one("Vgl. 1 Esdr. 4, 41", "grc")[0]["resolved"]
+      and one("Vgl. 2 Esdr. 11, 1", "grc")[0]["target"] == "kjv:Neh.1.1")
+check("Latin 2 Esdras is Nehemiah", one("4 II Esdr. 8, 10", "lat")[0]["target"] == "kjv:Neh.8.10")
+
+# --- each edition's numbering (fathers_numbering.py) ------------------------
+import fathers_numbering as N  # noqa: E402
+
+eng = lambda b: ("english", False)  # noqa: E731
+heb = lambda b: ("hebrew", False)  # noqa: E731
+r = F.resolve(F.parse("Psal. 72, 8", "grc")[0], "grc", ctx, eng)
+check("an edition measured as English-numbered reads Ps 72:8 as the KJV's, LXX kept as alt",
+      r["target"] == "kjv:Ps.72.8" and r.get("alt_target") == "kjv:Ps.73.8"
+      and r["numbering"] == "english" and r["map"] == "kjv")
+r = F.resolve(F.parse("Psal. 7, 16ff.", "grc")[0], "grc", ctx, heb)
+check("a Hebrew-numbered edition counts the psalm's title as verse 1: Ps 7:16 is the KJV's 7:15",
+      r["target"] == "kjv:Ps.7.15" and r["numbering"] == "hebrew" and r["map"] == "bhs")
+check("'Psal. 7, 16ff. 23 Exod.': the 23 after 'ff.' is the next line, not Ps 23",
+      refs("18 Psal. 7, 16ff. 23 Exod. 3, 2", "grc") == ["Ps 7:16", "Exod 3:2"])
+r = F.resolve(F.parse("Ps. 113, 25", "grc")[0], "grc", ctx, eng)
+check("... and a verse only the Septuagint numbers falls back to its map, saying so",
+      r["resolved"] and r["numbering"] == "lxx" and "english numbering has no such verse" in r["why_numbering"])
+r = F.resolve(F.parse("Ps. 132, 7", "grc")[0], "grc", ctx)
+check("an LXX-numbered edition still reads a verse only the English has as the English",
+      r["target"] == "kjv:Ps.132.7" and r["numbering"] == "english")
+R = N.readings("Dan", 3, 24, "lat", ctx)
+check("a Vulgate verse with no KJV verse (Dan 3:24, the Song of the Three) exists",
+      R["vulgate"] == N.NO_KJV and R["english"] == "kjv:Dan.3.24")
+R = N.readings("Ps", 7, 1, "grc", ctx)
+check("a psalm title is verse 1 in the Hebrew count and exists there", R["hebrew"] == N.NO_KJV)
+W = {"existence": 2.9, "chapter": 2.1, "verse": 1.07}
+P = {"lxx": 0.8, "hebrew": 0.08, "english": 0.12}
+C = __import__("collections").Counter
+check("one existence and one chapter vote for the English outweigh a pool that is 80% LXX",
+      N.decide(C({"existence:english": 1, "content_chapter:english": 1}), "grc", P, W)[0] == "english")
+check("a vote two numberings share helps both; the content vote between them decides",
+      N.decide(C({"existence:hebrew+english": 1, "content_verse:hebrew": 2}), "grc", P, W)[0] == "hebrew")
+check("one verse-level vote against the same pool: it leans on the pool",
+      N.decide(C({"content_verse:english": 1}), "grc", P, W)[0] == "lxx")
+check("ten votes split evenly: mixed, read reference by reference",
+      N.is_mixed(C({"content_chapter:english": 5, "content_verse:lxx": 5}), "grc"))
+m = N.load()
+check("the committed measure: Pusey's Psalms are Septuagint-numbered",
+      m[0][("grc", "Philip Edward Pusey", "Ps")][0] == "lxx")
+
 print(f"{PASS} passed, {len(FAIL)} failed")
 if FAIL:
     for f in FAIL:
