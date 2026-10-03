@@ -450,6 +450,7 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | The Ajax of Sophocles translated into English prose (London, 1895) | E. D. A. Morshead | `sophocles-morshead-ajax-1895` | have-raw (IA `ajaxofsophocles00sophrich`) |
 | The Tragedies of Sophocles translated into English prose (George Bell, 1905) | Edward P. Coleridge | `sophocles-coleridge-prose-1905` | have-raw (IA `tragediesofsopho00sophiala`) |
 | The Dramas of Sophocles rendered in English verse, dramatic and lyric (Cambridge: Deighton, Bell; London: George Bell; undated in the OCR, latest year printed 1891, IA 1888) | Sir George Young | `sophocles-young-dramas-1888` | have-raw (IA `cu31924026593420`) |
+| Oedipus, King of Thebes, translated from the Oedipus Tyrannus of Sophocles (Oxford and London: John Henry Parker, 1849) | Sir Francis Hastings Doyle | `sophocles-doyle-oedipus-1849` | have-raw (IA `dipuskingthebes00sophgoog`) |
 
 Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 

@@ -100,6 +100,11 @@
    "cu31924026593420",
    "The Dramas of Sophocles rendered in English verse, dramatic and lyric (Cambridge: Deighton, Bell; London: George Bell; undated in the OCR, latest year printed 1891, IA 1888)",
    "tr. Sir George Young"
+  ],
+  "sophocles-doyle-oedipus-1849": [
+   "dipuskingthebes00sophgoog",
+   "Oedipus, King of Thebes, translated from the Oedipus Tyrannus of Sophocles (Oxford and London: John Henry Parker, 1849)",
+   "tr. Sir Francis Hastings Doyle"
   ]
  },
  "_cross_ref": {
@@ -136,7 +141,8 @@
   "sophocles-plaistowe-philoctetes": "Plaistowe",
   "sophocles-morshead-ajax-1895": "Morshead",
   "sophocles-coleridge-prose-1905": "edward p. coleridge",
-  "sophocles-young-dramas-1888": "george young"
+  "sophocles-young-dramas-1888": "george young",
+  "sophocles-doyle-oedipus-1849": "francis hastings doyle"
  },
  "_checks": {
   "sophocles-campbell-seven": {
@@ -365,6 +371,19 @@
    "ia_rights": "ok: published 1888",
    "ia_date": "1888",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-doyle-oedipus-1849": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "francis hastings doyle",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
