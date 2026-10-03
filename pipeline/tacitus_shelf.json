@@ -83,6 +83,11 @@
    "cu31924071188761",
    "The Annals of Tacitus, Books XI-XVI, an English translation (London: John Murray, 1909)",
    "tr. George Gilbert Ramsay"
+  ],
+  "tacitus-aikin-germany-agricola-1815": [
+   "atreatiseonsitu00unkngoog",
+   "A Treatise on the Situation, Manners, and Inhabitants of Germany, and the Life of Agricola, with copious notes and a map, third edition (Oxford: W. Baxter; title-page date OCRs as 1816, IA 1815)",
+   "tr. John Aikin"
   ]
  },
  "_cross_ref": {
@@ -109,7 +114,8 @@
   "tacitus-gordon-v5": "Thomas Gordon",
   "tacitus-moore-histories-v1": "Clifford H. Moore",
   "tacitus-ramsay-annals-1904-v1": "Ramsay",
-  "tacitus-ramsay-annals-1909-v2": "Ramsay"
+  "tacitus-ramsay-annals-1909-v2": "Ramsay",
+  "tacitus-aikin-germany-agricola-1815": "john aikin"
  },
  "_translator_unchecked": {
   "tacitus-oxford-germany-agricola": "no single translator to check: the Oxford translation revised (with notes)"
@@ -301,6 +307,19 @@
    "ia_rights": "ok: published 1904",
    "ia_date": "1904",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tacitus-aikin-germany-agricola-1815": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "translator_claimed": "john aikin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
