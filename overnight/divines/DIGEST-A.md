@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 20:09 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 20:17 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -86,6 +86,14 @@ Round 4 was done by 17:19 CDT. Lane A carries on with more Puritan, Scottish and
 | B. B. Warfield | warfield_shelf.json | 0 (none exists) | 19 lifetime books (1886-1921: Textual Criticism, Two Studies, Lord of Glory, Plan of Salvation, Counterfeit Miracles and more) | none | the posthumous Oxford Works (lending scans; the later volumes fail the rights gate); modern reprints; books by others with his preface |
 | James Henley Thornwell | thornwell_shelf.json | 0 (none exists) | Collected Writings (4 vols, 1871-73), Discourses on Truth (1855), Arguments of Romanists (1845) | none | his pamphlets defending slavery and secession; single sermons reprinted in the Writings; Palmer's Life. **Veto flag:** he was a leading clerical defender of slavery, and vol. 4 (Ecclesiastical) carries much of that material (the word "slave" about 370 times). Keep, drop the shelf, or drop vol. 4: your call |
 | Robert Lewis Dabney | dabney_shelf.json | 0 (none exists) | Systematic Theology (1878), Sacred Rhetoric (1870), Sensualistic Philosophy (1875), Christian Sabbath (1882), Christ Our Penal Substitute (1898), Discussions (4 vols, 1890-97) | none | A Defence of Virginia (on Gutenberg too); political tracts; the Stonewall Jackson biography and war memorials. **Veto flag:** he defended slavery and, after the war, white supremacy; Discussions vol. 4 (Secular) carries much of that (the word "slave" about 190 times). Keep, drop the shelf, or drop vol. 4: your call |
+| Samuel Davies | samuel-davies_shelf.json | 0 (none exists) | 3 (Sermons on Important Subjects, New York: Carter 1845, complete) | none | single sermons reprinted in the set; a 1761 pamphlet of letters by him and others; abridged outlines |
+
+## Round 6: my picks, also for your veto
+
+Round 5 was nearly done by 20:15 CDT. Lane A carries on with the Puritans of Nichol's series, the English evangelicals of the 18th and 19th centuries, and the Free Church Scots. Nobody chose these but the worker: drop any you do not want.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
+|---|---|---|---|---|---|
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

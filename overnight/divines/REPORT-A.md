@@ -237,3 +237,7 @@
 
 ## 2026-10-02 20:09 CDT — dabney done
 - `pipeline/dabney_shelf.json`: 9 items, raw IA OCR, median 96.8% (95.2-98.4%), about 13 MB. IA dates all four Discussions 1890; the title pages give 1890, 1891, 1892 and 1897 (vol. 4 printed at Mexico, Mo.), and the shelf uses the title pages. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted. Flagged for veto: Discussions vol. 4 carries much of his writing on slavery and race.
+
+## 2026-10-02 20:17 CDT — samuel-davies done
+- `pipeline/samuel-davies_shelf.json`: 3 volumes, raw IA OCR, median 98.1%, about 4.3 MB. First built from the 1864 Philadelphia edition; its vol. 1 text returned HTTP 500 four times, so the shelf moved whole to the 1845 Carter edition rather than mix editions (title pages read: Barnes, Carter, 1845, vols I-III). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+- Round 6 queued (15 Divines, my picks, for Adam's veto): Swinnock, Thomas Adams, Clarkson, Andrew Fuller, Toplady, Romaine, Ambrose, Charles Bridges, Simeon, Robert Haldane, James Buchanan, William Cunningham, Fairbairn, John Angell James, William Jay. The scratchpad CCEL search was patched for CCEL's current author-page links; none of these has a CCEL text under the slugs tried.

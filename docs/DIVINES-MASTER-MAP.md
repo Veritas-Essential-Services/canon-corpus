@@ -907,6 +907,16 @@ No CCEL text; Gutenberg holds only A Defence of Virginia, which is excluded. Raw
 | Discussions, vol. 1 Theological and Evangelical (1890), vol. 2 Evangelical (1891), vol. 3 Philosophical (1892), vol. 4 Secular (1897) | have-raw | IA |
 | A Defence of Virginia (1867); political tracts | excluded | for Adam's call |
 | Life of Stonewall Jackson; war memorials | excluded | military biography |
+
+## Samuel Davies (round 5, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `sdavies-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on Important Subjects, 3 vols (New York: Carter, 1845, with an essay by Albert Barnes) | have-raw | IA (identifiers in the shelf) |
+| The Philadelphia edition (c1864, 3 vols) | alternate | its vol. 1 text file returned server errors |
+| Letters from the Rev. Samuel Davies and others (1761) | excluded | short pamphlet, not his alone |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

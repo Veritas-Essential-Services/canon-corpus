@@ -459,10 +459,118 @@
     },
     {
       "id": "samuel-davies",
-      "status": "todo",
+      "status": "done",
       "scope": "Samuel Davies: Sermons (d. 1761)",
       "added": "2026-10-02T17:35:36-05:00",
-      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)",
+      "started": "2026-10-02T20:09:40-05:00",
+      "finished": "2026-10-02T20:17:21-05:00",
+      "notes": "3 IA (1845 Carter)"
+    },
+    {
+      "id": "swinnock",
+      "status": "todo",
+      "scope": "George Swinnock: Works (Nichol, 1868, 5 vols; d. 1673)",
+      "added": "2026-10-02T20:14:56-05:00",
+      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "thomas-adams",
+      "status": "todo",
+      "scope": "Thomas Adams: Works (Nichol, 1861-62, 3 vols; d. 1653)",
+      "added": "2026-10-02T20:14:56-05:00",
+      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "clarkson",
+      "status": "todo",
+      "scope": "David Clarkson: Works (Nichol, 1864-65, 3 vols; d. 1686)",
+      "added": "2026-10-02T20:14:56-05:00",
+      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "andrew-fuller",
+      "status": "todo",
+      "scope": "Andrew Fuller: Complete Works (d. 1815)",
+      "added": "2026-10-02T20:14:56-05:00",
+      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "toplady",
+      "status": "todo",
+      "scope": "Augustus Toplady: Works, prose (d. 1778)",
+      "added": "2026-10-02T20:14:56-05:00",
+      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "romaine",
+      "status": "todo",
+      "scope": "William Romaine: Life, Walk and Triumph of Faith; Works (d. 1795)",
+      "added": "2026-10-02T20:14:56-05:00",
+      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "isaac-ambrose",
+      "status": "todo",
+      "scope": "Isaac Ambrose: Works (d. 1664)",
+      "added": "2026-10-02T20:14:56-05:00",
+      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "charles-bridges",
+      "status": "todo",
+      "scope": "Charles Bridges: Christian Ministry, Proverbs, Psalm 119, Ecclesiastes (d. 1869)",
+      "added": "2026-10-02T20:14:56-05:00",
+      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "simeon",
+      "status": "todo",
+      "scope": "Charles Simeon: Horae Homileticae (d. 1836)",
+      "added": "2026-10-02T20:14:56-05:00",
+      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "robert-haldane",
+      "status": "todo",
+      "scope": "Robert Haldane: Exposition of Romans; Evidences (d. 1842)",
+      "added": "2026-10-02T20:14:56-05:00",
+      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "james-buchanan",
+      "status": "todo",
+      "scope": "James Buchanan: Justification; the Holy Spirit (d. 1870)",
+      "added": "2026-10-02T20:14:56-05:00",
+      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "william-cunningham",
+      "status": "todo",
+      "scope": "William Cunningham: Historical Theology and other works (d. 1861)",
+      "added": "2026-10-02T20:14:56-05:00",
+      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "fairbairn",
+      "status": "todo",
+      "scope": "Patrick Fairbairn: Typology, Hermeneutical Manual and other works (d. 1874)",
+      "added": "2026-10-02T20:14:56-05:00",
+      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "john-angell-james",
+      "status": "todo",
+      "scope": "John Angell James: Works (d. 1859)",
+      "added": "2026-10-02T20:14:56-05:00",
+      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+    },
+    {
+      "id": "william-jay",
+      "status": "todo",
+      "scope": "William Jay: Works (d. 1853)",
+      "added": "2026-10-02T20:14:56-05:00",
+      "added_by": "lane A worker, round 6 (round 5 nearly done with time left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
     }
   ]
 }

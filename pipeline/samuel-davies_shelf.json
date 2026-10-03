@@ -1,0 +1,71 @@
+{
+ "_about": "Public-domain Samuel Davies (1723-1761, Presbyterian evangelist of the Great Awakening in Virginia, later president of the College of New Jersey) for the Word Hoard: his Sermons on Important Subjects (New York: Robert Carter, 1845, 3 vols, with an essay by Albert Barnes), raw Internet Archive OCR from Princeton scans. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 5 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "davies",
+  "samuel"
+ ],
+ "_surname": [
+  "davies"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sdavies-sermons-1": [
+   "sermonsonimportant01davi",
+   "Sermons on Important Subjects, vol. 1 (New York: Carter, 1845)"
+  ],
+  "sdavies-sermons-2": [
+   "sermonsonimportant02davi",
+   "Sermons on Important Subjects, vol. 2 (New York: Carter, 1845)"
+  ],
+  "sdavies-sermons-3": [
+   "sermonsonimportant03davi",
+   "Sermons on Important Subjects, vol. 3 (New York: Carter, 1845)"
+  ]
+ },
+ "_alternates": {
+  "sermonsdavies01..03daviiala (Philadelphia: Presbyterian Board, c1864, 3 vols, with Sprague's memoir)": "A later edition; its vol. 1 text file returned HTTP 500 on four tries on 2026-10-02, so the shelf uses the complete 1845 set instead.",
+  "sermonsonimporta*davi and sermonsonimport*goog (1792-1854 editions); sermons02..04spragoog (1864, Google)": "Other editions and scans of the same Sermons.",
+  "substanceofsermo00davi; substanceofserm00davi (1851)": "Abridged sermon outlines, edited by others."
+ },
+ "_excluded": {
+  "lettersfromrevsa00davi (1761)": "A pamphlet of letters from Davies and others on the state of religion in the colonies; short, and not his alone.",
+  "religionpatrioti00davi (1756)": "A single sermon, reprinted in the collected Sermons."
+ },
+ "_checks": {
+  "sdavies-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "davies",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sdavies-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "davies",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sdavies-sermons-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "davies",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
