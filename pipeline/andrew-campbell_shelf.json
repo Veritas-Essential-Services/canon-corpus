@@ -1,0 +1,38 @@
+{
+ "_about": "Santal Folk Tales, translated from the Santali by A. Campbell of the Free Church of Scotland Santal Mission (Pokhuria, 1891). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "A. Campbell",
+ "_name_words": [
+  "campbell"
+ ],
+ "_surname": [
+  "a. campbell"
+ ],
+ "_translators": {
+  "acampbell-santal-folk-tales": "Campbell"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "acampbell-santal-folk-tales": [
+   35060,
+   "Santal Folk Tales",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "acampbell-santal-folk-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "a. campbell",
+   "translator_claimed": "Campbell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
