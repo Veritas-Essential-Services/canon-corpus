@@ -97,8 +97,8 @@
    "what": "Brenton's English Septuagint (1851, PD), in its own numbering, through data/versification/brenton-kjv.json (Old Testament only)"
   },
   "douay": {
-   "kjv_verses_renumbered_or_split": 3043,
-   "kjv_verses_with_none": 7,
+   "kjv_verses_renumbered_or_split": 3047,
+   "kjv_verses_with_none": 4,
    "units": 35805,
    "units_without_kjv_verse": 4722,
    "what": "Douay-Rheims, Challoner (PD), in the Vulgate's numbering, through the same map"

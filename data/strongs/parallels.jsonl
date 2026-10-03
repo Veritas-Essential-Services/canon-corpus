@@ -617,7 +617,7 @@
 {"kjv": "1Sam.24.20", "parallels": {"brenton": ["brenton:1Sam.24.21"], "douay": ["douay:1Sam.24.21"], "vulgate": ["vulgate:1Sam.24.21"]}}
 {"kjv": "1Sam.24.21", "parallels": {"brenton": ["brenton:1Sam.24.22"], "douay": ["douay:1Sam.24.22"], "vulgate": ["vulgate:1Sam.24.22"]}}
 {"kjv": "1Sam.24.22", "parallels": {"brenton": ["brenton:1Sam.24.23"], "douay": ["douay:1Sam.24.23"], "vulgate": ["vulgate:1Sam.24.23"]}}
-{"kjv": "2Sam.13.39", "parallels": {"douay": []}}
+{"kjv": "2Sam.13.39", "parallels": {"douay": ["douay:2Sam.13.38"]}}
 {"kjv": "2Sam.18.33", "parallels": {"brenton": ["brenton:2Sam.19.1"]}}
 {"kjv": "2Sam.19.1", "parallels": {"brenton": ["brenton:2Sam.19.2"]}}
 {"kjv": "2Sam.19.2", "parallels": {"brenton": ["brenton:2Sam.19.3"]}}
@@ -3996,7 +3996,7 @@
 {"kjv": "Ps.147.18", "parallels": {"brenton": ["brenton:Ps.147.7"], "douay": ["douay:Ps.147.7"], "vulgate": ["vulgate:Ps.147.7"]}}
 {"kjv": "Ps.147.19", "parallels": {"brenton": ["brenton:Ps.147.8"], "douay": ["douay:Ps.147.8"], "vulgate": ["vulgate:Ps.147.8"]}}
 {"kjv": "Ps.147.20", "parallels": {"brenton": ["brenton:Ps.147.9"], "douay": ["douay:Ps.147.9"], "vulgate": ["vulgate:Ps.147.9"]}}
-{"kjv": "Ps.150.6", "parallels": {"douay": []}}
+{"kjv": "Ps.150.6", "parallels": {"douay": ["douay:Ps.150.5"]}}
 {"kjv": "Prov.1.16", "parallels": {"brenton": []}}
 {"kjv": "Prov.4.7", "parallels": {"brenton": []}}
 {"kjv": "Prov.7.7", "parallels": {"brenton": ["brenton:Prov.7.6"]}}
@@ -4191,7 +4191,8 @@
 {"kjv": "Isa.45.23", "parallels": {"douay": ["douay:Isa.45.23", "douay:Isa.45.24"]}}
 {"kjv": "Isa.45.24", "parallels": {"douay": ["douay:Isa.45.25"]}}
 {"kjv": "Isa.45.25", "parallels": {"douay": ["douay:Isa.45.26"]}}
-{"kjv": "Isa.46.13", "parallels": {"douay": []}}
+{"kjv": "Isa.46.12", "parallels": {"douay": ["douay:Isa.46.11"]}}
+{"kjv": "Isa.46.13", "parallels": {"douay": ["douay:Isa.46.12"]}}
 {"kjv": "Isa.56.12", "parallels": {"brenton": []}}
 {"kjv": "Isa.64.1", "parallels": {"brenton": ["brenton:Isa.63.19"]}}
 {"kjv": "Isa.64.2", "parallels": {"brenton": ["brenton:Isa.64.1"]}}

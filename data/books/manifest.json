@@ -1689,7 +1689,7 @@
    "kjva_unkeyed": 315,
    "kjva_note": "deuterocanonical verses carry `kjva`: the shared key, the KJV Apocrypha verse holding the same text, by data/versification/deuterocanon.json (the house's reading, PD), or why there is none; `weak` marks a pairing to read first",
    "note": "Ids follow the Clementine numbering, NOT the KJV's: the Psalms are numbered as in the Greek (Vulgate Ps 50 = KJV Ps 51) with a title counted in verse 1, Daniel 3 holds 3:24-90 and Esther 10:4-16:24 the Greek additions. Each unit's `kjv` names the KJV verse(s) holding the same text, by the map data/versification/vulgate-kjv.json (STEPBible TVTMS, CC BY 4.0, tested against this text), or says why there is none; no uids minted. `text` is the verse with the project's markup turned into line and paragraph breaks; `marked` is the file's line as is. The Clementine appendix (Prayer of Manasses, 3-4 Esdras) is not in the source.",
-   "kjv_map_sha256": "b1c8f154f4177229ee2d41177f95d9b3b1f2df3c08c76dc838d257e114404f8f"
+   "kjv_map_sha256": "76b665e6fa07472154b16bdeeba6b6722db6121361d6dda5c4e6dc7465ba364d"
   },
   "rights": {
    "license": "public-domain",
@@ -1723,7 +1723,7 @@
    "kjva_unkeyed": 315,
    "kjva_note": "deuterocanonical verses carry `kjva`: the shared key, the KJV Apocrypha verse holding the same text, by data/versification/deuterocanon.json (the house's reading, PD), or why there is none; `weak` marks a pairing to read first",
    "note": "The Clementine Vulgate's English companion, numbered as the Vulgate is. `vulgate` names the Clementine verse(s) holding the same text (the same number except at structure_texts.DOUAY_ROWS); `kjv` follows through data/versification/vulgate-kjv.json. Empty verses in the file (versification padding) are dropped, never given ids. The file's five appendix books (3-4 Esdras, Prayer of Manasses, an additional psalm, Laodiceans) are not read: the Clementine source has no text for them.",
-   "kjv_map_sha256": "b1c8f154f4177229ee2d41177f95d9b3b1f2df3c08c76dc838d257e114404f8f"
+   "kjv_map_sha256": "76b665e6fa07472154b16bdeeba6b6722db6121361d6dda5c4e6dc7465ba364d"
   },
   "rights": {
    "license": "public-domain",
@@ -1759,7 +1759,7 @@
     "Prov.30.1"
    ],
    "note": "Ids follow Brenton's numbering, NOT the KJV's: the Psalms as in the Greek with a title as verse 1, Jeremiah's oracles in the Greek's order, Nehemiah as chapters 11-23 of Ezra (the Greek's 2 Esdras), the Greek's additions lettered after the verse they follow. Each unit's `kjv` names the KJV verse(s) holding the same text by data/versification/brenton-kjv.json, or says why there is none; no uids minted. `text` drops Brenton's notes, which are in `notes`; `marked` is the verse's USFM as is. eBible's corrections to the printing are in the text; its KJV-renumbered Nehemiah and Brenton's appendix are not read.",
-   "kjv_map_sha256": "f9803089195447a0ca44811e05ac590202002dc716a1bcbc2c07825d0e3ceef2"
+   "kjv_map_sha256": "ec8b8cf29d801717d3a85ce593328ab712252322080b75a434ee24ed2804b589"
   },
   "rights": {
    "license": "public-domain",
@@ -21900,41 +21900,27 @@
   },
   "alignment": {
    "counterpart": "augustine-de-consensu-evangelistarum-lat",
-   "verdict": "refused",
+   "verdict": "unmeasured",
    "level": "book",
    "units": 4,
-   "matched": 0,
-   "unmatched": [
-    "1",
-    "2",
-    "3",
-    "4"
-   ],
-   "counterpart_units": 319,
-   "counterpart_matched": 0,
-   "counterpart_unmatched": {
-    "count": 319,
-    "by_top_level": {
-     "1": 54,
-     "toc": 1,
-     "2": 158,
-     "3": 86,
-     "4": 20
-    }
-   },
+   "matched": 4,
+   "unmatched": [],
+   "counterpart_units": 321,
+   "counterpart_matched": 321,
+   "counterpart_unmatched": [],
    "measure": {
     "pairs": 4,
     "r_log_length": 1.0,
-    "r_offset_minus1": -0.4,
-    "r_offset_plus1": -0.327,
-    "median_length_ratio": 1.6,
+    "r_offset_minus1": -0.362,
+    "r_offset_plus1": -0.352,
+    "median_length_ratio": 1.58,
     "names_diagonal": 0.341,
-    "names_offset_minus1": 0.257,
-    "names_offset_plus1": 0.187,
-    "one_to_one": false
+    "names_offset_minus1": 0.259,
+    "names_offset_plus1": 0.189,
+    "one_to_one": true
    }
   },
-  "built_sha256": "aaca918b7ee3e945da3a4ae0e6924124ff555a7124545bb275997cd96b49e7ad"
+  "built_sha256": "180049437962404e65d683fbabb70f381d036229dd42122f889a1986b12a917d"
  },
  "schaff-npnf107": {
   "title": "NPNF1-07. St. Augustine: Homilies on the Gospel of John; Homilies on the First Epistle of John; Soliloquies",
