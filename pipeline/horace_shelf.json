@@ -192,13 +192,13 @@
   "horace-whyte-melville-1850": "Melville",
   "horace-ravensworth-odes-1858": "Ravensworth",
   "horace-obrien-odes-i-1860": "O'Brien",
-  "horace-phelps-odes-1897": "Phelps",
-  "horace-green-odes-1903": "Green"
+  "horace-phelps-odes-1897": "Phelps"
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
   "horace-martin-odes-1866": "title page OCRs the name as 'THEODOKE MARTIN'; the full name is not printed as a word in this OCR",
-  "horace-hague-1892": "title page names John B. Hague, Ph.D. (G. P. Putnam's Sons, 1892); the OCR reads 'HAGUL'"
+  "horace-hague-1892": "title page names John B. Hague, Ph.D. (G. P. Putnam's Sons, 1892); the OCR reads 'HAGUL'",
+  "horace-green-odes-1903": "title page names W. C. Green, M.A. (London, 1903); 'green' is a common word, so the word check cannot confirm the name"
  },
  "_checks": {
   "horace-conington-odes": {
@@ -547,8 +547,6 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "horatian",
-   "translator_claimed": "Green",
-   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1903",
    "ia_date": "1903",
