@@ -908,6 +908,14 @@
    "started": "2026-10-03T07:17:47-05:00",
    "finished": "2026-10-03T07:19:37-05:00",
    "notes": "Added Aikin's Germania and Agricola (3rd ed., Oxford). ECCO Bladen Caesar 1732/1737 (0.77, 0.76), 1709 Sallust (0.66) and 1726 Suetonius (0.42) refused on OCR; the 1864 'Sallust's History' is Andrews's Latin school edition."
+  },
+  {
+   "id": "title-sweep-greek-prose",
+   "status": "done",
+   "scope": "Title sweeps of IA for Plato, Xenophon, Herodotus and Thucydides translations not yet held",
+   "started": "2026-10-03T07:19:37-05:00",
+   "finished": "2026-10-03T07:21:49-05:00",
+   "notes": "Added Mackay's Sophistes 1868. Everything else found is held, Greek-facing (Kennedy's Theaetetus, 0.60) or an ECCO copy of a held volume."
   }
  ]
 }

@@ -570,3 +570,7 @@
 ## 2026-10-03 07:19 CDT — Roman historians title sweep
 - John Aikin, Germania and Agricola, 3rd ed. (Oxford; IA 1815), 0.86
 - Refused under the OCR bar: Bladen's Caesar 1732 and 1737 (ECCO, 0.77, 0.76), Sallust 1709 (0.66), Suetonius 1726 (0.42)
+
+## 2026-10-03 07:21 CDT — Greek prose title sweep
+- R. W. Mackay, Sophistes (1868), 0.88
+- Not taken: Kennedy's Theaetetus (Greek facing, 0.60); ECCO Xenophon copies already covered by the held multi-hand volume

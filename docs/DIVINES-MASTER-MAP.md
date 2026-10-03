@@ -2281,6 +2281,7 @@ Shelf: `pipeline/plato_shelf.json`. Jowett, *The Dialogues of Plato*, 3rd ed. (O
 | The Theaetetus of Plato, a translation with an introduction (Maclehose, 1899) | S. W. Dyde | `plato-dyde-theaetetus-1899` | have-raw (IA `theaetetustransl00plat`) |
 | Talks with Athenian Youths: translations from the Charmides, Lysis, Laches, Euthydemus and Theaetetus (Scribner, 1891) | Ellen Francis Mason (from the catalogue; the volume names no translator) | `plato-mason-talks-1891` | have-raw (IA `talkswithathenia00platrich`) |
 | The Philebus of Plato, translated, with brief explanatory notes (George Bell, 1879; IA's catalogue says 1873, the title page reads 1879) | F. A. Paley | `plato-paley-philebus-1879` | have-raw (IA `philebusplato00platuoft`) |
+| The Sophistes of Plato: a dialogue on true and false teaching, translated with explanatory notes and an introduction on ancient and modern sophistry (London: Williams and Norgate, 1868) | R. W. Mackay | `plato-mackay-sophistes-1868` | have-raw (IA `bub_gb_CZqC4O8wSdoC`) |
 
 Pending (wishlist):
 

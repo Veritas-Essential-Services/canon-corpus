@@ -154,3 +154,4 @@
 - Tragedy and satire sweeps: one new Euripides volume, the rest already covered (07:13). No decision needed.
 - Cicero: Reid's Academics, Smith's De Amicitia and Black's Tusculan I added (07:17). No decision needed.
 - Roman historians: Aikin's Tacitus added; the 18th-century ECCO candidates fell under the OCR bar (07:19). No decision needed.
+- Greek prose: Mackay's Sophistes added; the rest is held (07:21). No decision needed.
