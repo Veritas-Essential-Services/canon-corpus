@@ -960,6 +960,7 @@ Shelf: `pipeline/catullus_shelf.json`. Ellis (1871) and Burton-Smithers (1894), 
 | Carmina | Leonard C. Smithers | `catullus-perseus-smithers-carmina` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Poems of Valerius Catullus, translated into English verse (Edinburgh, 1867) | James Cranstoun | `catullus-cranstoun-1867` | have-raw (IA `poemsofvaleriusc00caturich`) |
 | The Poems of Caius Valerius Catullus translated, with a preface and notes, vol. I (London: John Murray, 1821) | George Lamb | `catullus-lamb-1821-v1` | have-raw (IA `poemscaiusvaler01catugoog`) |
+| Erotica: the Poems of Catullus and Tibullus, the Vigil of Venus, a literal prose translation with notes, with the metrical versions of Lamb and Grainger and others (Bohn, MDCCCLIV) | Walter K. Kelly | `catullus-tibullus-kelly-erotica-1854` | have-raw (IA `cu31924031218211`) |
 
 
 Excluded: PG 23720 (serves a 404).
