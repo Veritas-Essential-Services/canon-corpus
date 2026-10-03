@@ -84,3 +84,6 @@
 
 ## 2026-10-03T01:20-05:00 — split_shelf_titles.py --help (reviewer finding)
 - `-h`/`--help` now print the docstring and exit 0 instead of being read as a shelf name (FileNotFoundError). Two checks added: tests/split_shelf_titles_test.py 12 passed.
+
+## 2026-10-03T05:42-05:00 — round 8: four shelves (symonds, blackie, theodore-martin, hearn)
+- 7 Gutenberg sources, 0 failed; 7 titles cut + 1 cross-reference (Blackie's Aeschylus → lane B aeschylus). `--verify --record`: 0 mismatched, 0 rights flags.

@@ -1,0 +1,53 @@
+{
+ "_about": "TRANSLATOR SHELF: Sir Theodore Martin (1816-1909). Schiller's Wilhelm Tell (1847). PD. Added 2026-10-03 by lane C (round 8) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "theodore martin"
+ ],
+ "_surname": [
+  "theodore martin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "martin-wilhelm-tell": [
+   6788,
+   "Wilhelm Tell"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "theodore-martin-wilhelm-tell": {
+   "source": "martin-wilhelm-tell",
+   "of": "Schiller",
+   "work": "Wilhelm Tell",
+   "translated": 1847,
+   "translator": "Sir Theodore Martin",
+   "scan_edition": "Project Gutenberg 6788 (clean text)"
+  }
+ },
+ "_pending": {
+  "theodore-martin-others": "Martin's Faust (1865-86), Vita Nuova (1862), Catullus (1861) and Heine (1878): on IA, not fetched this run. His Horace overlaps lane B's horace shelf; check there first."
+ },
+ "_excluded": {
+  "book-of-ballads": "The Book of Ballads (PG 44798, with Aytoun): parodies, not translations."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "martin-wilhelm-tell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "theodore martin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Theodore Martin"
+  }
+ },
+ "_verified": {
+  "martin-wilhelm-tell": {
+   "pg": 6788,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Theodore Martin"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -623,3 +623,48 @@ Round 7, vetoable. Not converted to unit-id JSON; **no uids minted**.
 |---|---|---|---|---|---|---|
 | `mangan-german-anthology` | Goethe, Schiller, Uhland, Rückert and others | Anthologia Germanica (German Anthology) | James Clarence Mangan | 1845 | have-raw | IA `anthologiagerma02manggoog` + IA `anthologiagerma03manggoog` |
 | `mangan-irish` | — | Mangan's translations from the Irish (The Poets and Poetry of Munster, 1849): not fetched. | — | — | pending | — |
+
+## J. A. Symonds as translator (Cellini, sonnets, goliards)
+
+Shelf: `pipeline/symonds_shelf.json` · fetch `python3 pipeline/fetch_shelf.py symonds` · titles `python3 pipeline/split_shelf_titles.py symonds`.
+Round 8, lane C's choice; vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `symonds-cellini-autobiography` | Cellini | The Autobiography of Benvenuto Cellini | John Addington Symonds | 1888 | have | PG 4028 |
+| `symonds-michelangelo-campanella-sonnets` | Michelangelo, Campanella | Sonnets, in rhymed English | John Addington Symonds | 1878 | have | PG 10314 |
+| `symonds-wine-women-and-song` | Carmina Burana and other goliard poets | Wine, Women, and Song (medieval Latin students' songs) | John Addington Symonds | 1884 | have | PG 18044 |
+| — | — | symonds-own-works: Renaissance in Italy, the Life of Michelangelo (PG 11242) etc.: Symonds's own works. | — | — | excluded | — |
+
+## J. S. Blackie (Faust; Aeschylus cross-referenced)
+
+Shelf: `pipeline/blackie_shelf.json` · fetch `python3 pipeline/fetch_shelf.py blackie` · titles `python3 pipeline/split_shelf_titles.py blackie`.
+Round 8, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `blackie-faust-part-1` | Goethe | Faust, Part I (verse) | John Stuart Blackie | 1834 | have | PG 63203 |
+| `blackie-aeschylus` | Aeschylus | The Lyrical Dramas of Aeschylus | John Stuart Blackie | 1850 | held elsewhere (cross-ref) | `pipeline/aeschylus_shelf.json` → `aeschylus-blackie` (PG 59225) |
+
+## Sir Theodore Martin (Wilhelm Tell)
+
+Shelf: `pipeline/theodore-martin_shelf.json` · fetch `python3 pipeline/fetch_shelf.py theodore-martin` · titles `python3 pipeline/split_shelf_titles.py theodore-martin`.
+Round 8, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `theodore-martin-wilhelm-tell` | Schiller | Wilhelm Tell | Sir Theodore Martin | 1847 | have | PG 6788 |
+| `theodore-martin-others` | — | Martin's Faust (1865-86), Vita Nuova (1862), Catullus (1861) and Heine (1878): on IA, not fetched this run. His Horace overlaps lane B's horace shelf; check there first. | — | — | pending | — |
+| — | — | book-of-ballads: The Book of Ballads (PG 44798, with Aytoun): parodies, not translations. | — | — | excluded | — |
+
+## Lafcadio Hearn as translator (Gautier, Flaubert)
+
+Shelf: `pipeline/hearn_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hearn` · titles `python3 pipeline/split_shelf_titles.py hearn`.
+Round 8, vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `hearn-gautier-cleopatras-nights` | Gautier | One of Cleopatra's Nights and Other Fantastic Romances | Lafcadio Hearn | 1882 | have | PG 39397 |
+| `hearn-flaubert-temptation` | Flaubert | The Temptation of St. Anthony | Lafcadio Hearn | 1910 | have | PG 52225 |
+| — | — | pg-25053: Gutenberg 25053 is another Temptation of St. Antony with no translator named; not Hearn's. | — | — | excluded | — |
+| — | — | hearn-own-works: Kwaidan, Glimpses of Unfamiliar Japan etc.: Hearn's own books. | — | — | excluded | — |

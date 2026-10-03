@@ -360,6 +360,38 @@
    "scope": "TRANSLATOR SHELF (round 7, lane C's choice under the coordinator's standing instruction; Adam may veto) -- mangan; PD printings before 1931 only; no minting",
    "finished": "2026-10-03T00:51-05:00",
    "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 7. No uids minted."
+  },
+  {
+   "id": "shelf-symonds",
+   "status": "done",
+   "started": "2026-10-03T05:42-05:00",
+   "scope": "TRANSLATOR SHELF (round 8, lane C's choice under the coordinator's standing instruction; Adam may veto) -- symonds; PD printings before 1931 only; no minting",
+   "finished": "2026-10-03T05:42-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 8. No uids minted."
+  },
+  {
+   "id": "shelf-blackie",
+   "status": "done",
+   "started": "2026-10-03T05:42-05:00",
+   "scope": "TRANSLATOR SHELF (round 8, lane C's choice under the coordinator's standing instruction; Adam may veto) -- blackie; PD printings before 1931 only; no minting",
+   "finished": "2026-10-03T05:42-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 8. No uids minted."
+  },
+  {
+   "id": "shelf-theodore-martin",
+   "status": "done",
+   "started": "2026-10-03T05:42-05:00",
+   "scope": "TRANSLATOR SHELF (round 8, lane C's choice under the coordinator's standing instruction; Adam may veto) -- theodore-martin; PD printings before 1931 only; no minting",
+   "finished": "2026-10-03T05:42-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 8. No uids minted."
+  },
+  {
+   "id": "shelf-hearn",
+   "status": "done",
+   "started": "2026-10-03T05:42-05:00",
+   "scope": "TRANSLATOR SHELF (round 8, lane C's choice under the coordinator's standing instruction; Adam may veto) -- hearn; PD printings before 1931 only; no minting",
+   "finished": "2026-10-03T05:42-05:00",
+   "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 8. No uids minted."
   }
  ]
 }

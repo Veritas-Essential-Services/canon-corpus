@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-03T00:51-05:00: 43 shelves, 171 titles (rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11; round 7: 12 — Southey 2, Coleridge 2, Bowring 3, Anster 1, Hayward 1, Wicksteed 2, Mangan 1). **10 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
+Totals 2026-10-03T05:42-05:00: 47 shelves, 179 titles (rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11; round 7: 12; round 8: 8 — Symonds 3, Blackie 2, Theodore Martin 1, Hearn 2). **11 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -92,3 +92,11 @@ The new coordinator listed Chapman, Pope, Cowper, Butcher and Lang, Jowett's Thu
 - **Wicksteed:** Dante's Paradiso (Temple Classics; the OCR mixes in the Italian, 0.71) and the Convivio (1903).
 - **Mangan:** German Anthology (Dublin 1845, 2 vols). Vol. II has no title leaf, which is recorded.
 - **Lane A's common-word surname guard (e1ef08b):** Palmer now uses "e. h. palmer". Part II's OCR mangles the name, which is recorded with the IA catalogue evidence. All 43 lane C shelves pass.
+
+## Round 8 — 2026-10-03T05:42-05:00 (each shelf vetoable)
+The coordinator re-sent the Chapman/Pope/Cowper/Butcher-Lang/Jowett/Rawlinson/North/Florio/Urquhart list. All of it is already shelved (see round 7), and I told the coordinator so. My own picks, after grepping all shelves and queues (Howitt's Andersen is lane D's; Blackie's Aeschylus is lane B's):
+- **Symonds:** Cellini's Autobiography, the Sonnets of Michelangelo and Campanella, and Wine, Women, and Song (goliard songs). All from Gutenberg.
+- **Blackie:** Faust Part I (Gutenberg 63203). His Aeschylus is a cross-reference to lane B's aeschylus shelf, not a copy.
+- **Theodore Martin:** Schiller's Wilhelm Tell (Gutenberg 6788). His Faust, Vita Nuova, Catullus and Heine are pending.
+- **Hearn:** Gautier's One of Cleopatra's Nights, and Flaubert's Temptation of St. Anthony (1910, US PD).
+- All Gutenberg headers name the translator; none is marked copyrighted. `--verify --record` is clean.

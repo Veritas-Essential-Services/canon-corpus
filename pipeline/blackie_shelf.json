@@ -1,0 +1,62 @@
+{
+ "_about": "TRANSLATOR SHELF: John Stuart Blackie (1809-1895). Goethe's Faust, Part I, in verse (1834; 2nd ed. 1880). His Aeschylus (1850) is on lane B's aeschylus shelf and is cross-referenced here, not copied. PD. Added 2026-10-03 by lane C (round 8) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "blackie"
+ ],
+ "_surname": [
+  "stuart blackie",
+  "blackie"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "blackie-faust": [
+   63203,
+   "Faust: A Tragedy"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "blackie-faust-part-1": {
+   "source": "blackie-faust",
+   "of": "Goethe",
+   "work": "Faust, Part I (verse)",
+   "translated": 1834,
+   "translator": "John Stuart Blackie",
+   "scan_edition": "Project Gutenberg 63203 (clean text)",
+   "note": "IA's fausttransanster00goetuoft (catalogued as Anster's) is this translation's 1880 2nd edition: found and excluded on the Anster shelf."
+  },
+  "blackie-aeschylus": {
+   "of": "Aeschylus",
+   "work": "The Lyrical Dramas of Aeschylus",
+   "translated": 1850,
+   "translator": "John Stuart Blackie",
+   "held_in": {
+    "file": "pipeline/aeschylus_shelf.json",
+    "slug": "aeschylus-blackie",
+    "gutenberg_id": 59225
+   }
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "blackie-faust": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stuart blackie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Stuart Blackie"
+  }
+ },
+ "_verified": {
+  "blackie-faust": {
+   "pg": 63203,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Stuart Blackie"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}
