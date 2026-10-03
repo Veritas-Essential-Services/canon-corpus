@@ -1,0 +1,38 @@
+{
+ "_about": "Eskimo Folk-Tales, Greenlandic tales collected by Knud Rasmussen (1879-1933), edited and translated by W. J. Alexander Worster (1921; Gutenberg names the translator). Public domain in the US. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Knud Rasmussen, ed.; tr. W. J. Alexander Worster",
+ "_name_words": [
+  "rasmussen",
+  "worster"
+ ],
+ "_surname": [
+  "rasmussen",
+  "worster"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rasmussen-eskimo-folk-tales": [
+   28932,
+   "Eskimo Folk-Tales"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "rasmussen-eskimo-folk-tales": "Worster"
+ },
+ "_checks": {
+  "rasmussen-eskimo-folk-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "rasmussen",
+   "translator_claimed": "Worster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. J. Alexander Worster",
+   "translator_match": true
+  }
+ }
+}
