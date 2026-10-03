@@ -468,8 +468,9 @@ Shelf: `pipeline/aristophanes_shelf.json`. Translator per title; complete in the
 | The Comedies of Plutus and the Frogs, literally translated into English prose (Oxford: Talboys, 1822) | unnamed (an Oxford literal crib) | `aristophanes-talboys-plutus-frogs-1822` | have-raw (IA `comediesplutusa00arisgoog`) |
 | The Acharnians of Aristophanes, translated into English verse (Kegan Paul, Trench, 1882) | Charles James Billson | `aristophanes-billson-acharnians-1882` | have-raw (IA `acharniansofaris00arisrich`) |
 | The Acharnians of Aristophanes, translated into English verse (Dublin University Press Series, 1883) | Robert Yelverton Tyrrell | `aristophanes-tyrrell-acharnians-1883` | have-raw (IA `aristophanesach00arisrich`) |
+| The Comedies of Aristophanes, vol. I (London, 1820) | Thomas Mitchell | `aristophanes-mitchell-1820-v1` | have-raw (IA `comediesaristop02mitcgoog`) |
 
-Pending (wishlist): B. B. Rogers's complete verse Aristophanes (1902-16; Greek facing). Frere's Frogs (the fourth play of his 1840 set) is not in the 1887 Morley volume held above. Hickie's Bohn vol. II (no IA text file) and Mitchell's vol. I (1820; no scan found).
+Pending (wishlist): B. B. Rogers's complete verse Aristophanes (1902-16; Greek facing). Frere's Frogs (the fourth play of his 1840 set) is not in the 1887 Morley volume held above. Hickie's Bohn vol. II (1853) and Mitchell's vol. I (1820) are now held above, from Google scans.
 
 Excluded: PG 3012, 2571, 3013 (the Athenian Society translation split into single plays).
 
