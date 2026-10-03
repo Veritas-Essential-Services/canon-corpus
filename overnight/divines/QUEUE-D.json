@@ -1881,8 +1881,10 @@
     {
       "id": "aw-moore",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: aw-moore; no minting",
-      "status": "running",
-      "started": "2026-10-03T07:24:02-05:00"
+      "status": "done",
+      "started": "2026-10-03T07:24:02-05:00",
+      "finished": "2026-10-03T07:30:31-05:00",
+      "notes": "1/1 fetched (Gutenberg 77469), 1,143 units, 0 ~2 ids."
     },
     {
       "id": "dennys",
