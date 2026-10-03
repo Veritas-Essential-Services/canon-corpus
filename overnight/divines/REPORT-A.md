@@ -482,3 +482,6 @@
 
 ## 2026-10-03 02:24 CDT — daniel-waterland done
 - `pipeline/daniel-waterland_shelf.json`: 9 IA volumes of the 1823 Clarendon Works, raw OCR, median 95.3% (94.5-97.9%), about 9 MB. Each title page shows its volume number and MDCCCXXIII. Two Claremont scans without a volume number (worksofrevdaniel0000wate, _u3f1) were not tried. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 02:24 CDT — william-wilberforce done
+- `pipeline/william-wilberforce_shelf.json`: Gutenberg 25709, A Practical View (0.66 MB). The PG header is not marked copyrighted. Name forms are "william wilberforce" and "w. wilberforce" only, since bare "wilberforce" would also match his son Samuel. `--verify --record`: 0 mismatched. 0 uids minted. `scratchpad mkshelf.py` now accepts a spec with no IA items.

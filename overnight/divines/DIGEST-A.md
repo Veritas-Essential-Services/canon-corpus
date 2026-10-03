@@ -208,6 +208,7 @@ Round 10 was done by 02:09 CDT on 3 October. Round 11 turns to New England Purit
 | John Tillotson | john-tillotson_shelf.json | 7 CCEL (Works, 1820 edition, vols 4-10) | 2 (Works, 1820, vols 1-2, vol. 1 with Birch's Life) | vol. 3 (HTTP 500; the other copy catalogued as vol. 3 is vol. X) | the 1757 and 1772 editions |
 | Thomas Wilson (Bishop of Sodor and Man) | thomas-wilson_shelf.json | none | 6 (Works, Library of Anglo-Catholic Theology, vols 2-7, Oxford: Parker, 1847-63: sermons, Sacra Privata, Maxims, Parochialia) | none | vol. 1, which is John Keble's Life of Wilson, Keble's own book |
 | Daniel Waterland | daniel-waterland_shelf.json | none | 9 (Works, ed. Van Mildert, Oxford: Clarendon Press, 1823, vols 1-9) | none | separate printings of the Eucharist and Athanasian Creed books, which are in the Works |
+| William Wilberforce | william-wilberforce_shelf.json | 1 PG (A Practical View of the Prevailing Religious System, 1797) | none | none | his speeches and letters |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

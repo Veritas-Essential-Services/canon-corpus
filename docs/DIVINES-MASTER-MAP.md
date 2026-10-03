@@ -1734,6 +1734,15 @@ Slugs `waterland-works-NN`.
 |---|---|---|
 | The Works of the Rev. Daniel Waterland, ed. W. Van Mildert (Oxford: Clarendon Press, 1823), vols 1-9 | have-raw | IA (identifiers in the shelf) |
 | Any further volume of that edition | not found | two Claremont scans with no volume number were not tried |
+
+
+## William Wilberforce (round 11, my pick, 2026-10-03)
+
+Slugs `wilberforce-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| A Practical View of the Prevailing Religious System of Professed Christians (1797) | have-clean | Project Gutenberg 25709 (rights line checked: not marked copyrighted) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
