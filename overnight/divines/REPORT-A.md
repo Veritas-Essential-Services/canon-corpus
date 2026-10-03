@@ -219,3 +219,6 @@
 
 ## 2026-10-02 19:50 CDT — halyburton done
 - `pipeline/halyburton_shelf.json`: the Works (Glasgow, 1833), one volume of 817 pages, raw IA OCR, 98.0%, 3.4 MB. The contents note checks out by counts ("natural religion" 179, "deists" 214, "great concern" 23). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 19:51 CDT — binning done
+- `pipeline/binning_shelf.json`: the Works (Edinburgh, 1851), one volume of 659 pages, raw IA OCR, 98.0%, 3.9 MB. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

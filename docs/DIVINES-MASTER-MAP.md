@@ -845,6 +845,13 @@ The two brothers on one shelf. No CCEL or Gutenberg text; raw IA OCR.
 |---|---|---|
 | The Works (Glasgow: Blackie, 1833, ed. Robert Burns): The Great Concern of Salvation; Natural Religion Insufficient; communion sermons; Memoirs | have-raw | IA `worksofrevthomas00haly` (`halyburton-works-1833`) |
 | Separate printings (1751-1865) | alternate | the 1833 Works are held |
+
+## Hugh Binning (round 5, my pick, 2026-10-02)
+
+| Work | Status | Where |
+|---|---|---|
+| The Works (Edinburgh: Fullarton, 1851, ed. Matthew Leishman) | have-raw | IA `worksofrevhughbi00binn` (`binning-works-1851`) |
+| Works (1735; Edinburgh 1839, 3 vols) | alternate | the 1851 edition is held |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

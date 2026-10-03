@@ -1,0 +1,38 @@
+{
+ "_about": "Public-domain Hugh Binning (1627-1653, professor of philosophy at Glasgow, minister of Govan) for the Word Hoard: the Works (Edinburgh: Fullarton, 1851, ed. Matthew Leishman), one volume, raw Internet Archive OCR. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 5 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "binning",
+  "hugh"
+ ],
+ "_surname": [
+  "binning"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "binning-works-1851": [
+   "worksofrevhughbi00binn",
+   "The Works of the Rev. Hugh Binning (Edinburgh: Fullarton, 1851)"
+  ]
+ },
+ "_alternates": {
+  "worksofrevhughbi01..03binn (Edinburgh, 1839, 3 vols); worksofpiousreve00binn (1735)": "Earlier editions of the Works."
+ },
+ "_excluded": {
+  "faithwitnessb00howi": "Howie's collection of many Covenanters' testimonies."
+ },
+ "_checks": {
+  "binning-works-1851": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "binning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
