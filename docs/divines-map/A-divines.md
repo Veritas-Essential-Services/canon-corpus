@@ -1477,8 +1477,8 @@ Slugs `lightfoot-*`.
 | St. Paul's Epistles to the Colossians and to Philemon | have-clean | Gutenberg 50857 |
 | Essays on the Work Entitled Supernatural Religion | have-clean | Gutenberg 18191 |
 | Sermons | have-clean | Gutenberg 37527 |
-| Saint Paul's Epistle to the Galatians (London: Macmillan, 1890) | have-raw | IA (identifier in the shelf) |
-| Saint Paul's Epistle to the Philippians (London: Macmillan, 1898) | have-raw | IA |
+| Saint Paul's Epistle to the Galatians (London: Macmillan, tenth edition 1890, in a 1921 reprint; text keeps the Greek) | have-raw | IA (identifier in the shelf) |
+| Saint Paul's Epistle to the Philippians (London: Macmillan, fourth edition 1878; text keeps the Greek) | have-raw | IA |
 
 
 ## B. F. Westcott (round 10, my pick, 2026-10-03)
@@ -1489,8 +1489,8 @@ Slugs `westcott-*`.
 |---|---|---|
 | The Gospel according to St. John: the Greek text, 2 vols (London: Murray, 1908) | have-raw | IA (identifiers in the shelf) |
 | The Gospel according to St. John: the Authorised Version (London: Murray, 1892) | have-raw | IA |
-| The Epistles of St. John: the Greek text (London: Macmillan, 1883) | have-raw | IA |
-| The Epistle to the Hebrews: the Greek text (London: Macmillan, 1889) | have-raw | IA |
+| The Epistles of St. John: the Greek text (Macmillan, third edition 1892; text keeps the Greek) | have-raw | IA |
+| The Epistle to the Hebrews: the Greek text (Macmillan, second edition 1892; text keeps the Greek) | have-raw | IA |
 | A General Survey of the History of the Canon of the New Testament (London: Macmillan, 1896) | have-raw | IA |
 
 
