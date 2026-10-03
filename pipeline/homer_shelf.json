@@ -218,6 +218,11 @@
    "odysseyrendered01schogoog",
    "The Odyssey of Homer rendered into English verse, Books XIII-XXIV (London, 1882)",
    "tr. G. A. Schomberg"
+  ],
+  "homer-hs-wright-iliad-1885": [
+   "iliadhomer00wriggoog",
+   "The Iliad of Homer, Books I-IV, translated into English verse (George Bell, 1885)",
+   "tr. H. Smith Wright"
   ]
  },
  "_cross_ref": {
@@ -292,7 +297,8 @@
   "homer-morrice-iliad-1809": "Morrice",
   "homer-musgrave-odyssey-1865-v2": "Musgrave",
   "homer-barnard-odyssey-1876": "Barnard",
-  "homer-schomberg-odyssey-1882-v2": "Schomberg"
+  "homer-schomberg-odyssey-1882-v2": "Schomberg",
+  "homer-hs-wright-iliad-1885": "Wright"
  },
  "_translator_unchecked": {
   "homer-bryant-odyssey-v2": "translator on the row (William Cullen Bryant) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -816,6 +822,19 @@
    "identity": "identity_override",
    "ia_rights": "ok: published 1882",
    "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-hs-wright-iliad-1885": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "Wright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

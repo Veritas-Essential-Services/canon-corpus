@@ -314,6 +314,7 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | The Odyssey of Homer rendered into English blank verse (London, 1876) | Mordaunt Barnard | `homer-barnard-odyssey-1876` | have-raw (IA `odysseyofhomerre00homerich`) |
 | The Odyssey of Homer rendered into English verse, Books I-XII (John Murray, 1879) | G. A. Schomberg | `homer-schomberg-odyssey-1879-v1` | have-raw (IA `odysseyrendered00schogoog`) |
 | The Odyssey of Homer rendered into English verse, Books XIII-XXIV (London, 1882) | G. A. Schomberg | `homer-schomberg-odyssey-1882-v2` | have-raw (IA `odysseyrendered01schogoog`) |
+| The Iliad of Homer, Books I-IV, translated into English verse (George Bell, 1885) | H. Smith Wright | `homer-hs-wright-iliad-1885` | have-raw (IA `iliadhomer00wriggoog`) |
 
 Pending (wishlist): none known beyond the rows above.
 
