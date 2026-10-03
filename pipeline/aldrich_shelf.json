@@ -1,0 +1,38 @@
+{
+ "_about": "Thomas Bailey Aldrich's The Story of a Bad Boy, his New England boyhood told as a story (undated in the text). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Thomas Bailey Aldrich",
+ "_name_words": [
+  "aldrich"
+ ],
+ "_surname": [
+  "thomas bailey aldrich"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aldrich-story-of-a-bad-boy": [
+   1948,
+   "The Story of a Bad Boy",
+   {
+    "levels": [
+     {
+      "re": "Chapter [A-Z][a-z]+(-[A-Z][a-z]+)?--",
+      "max": 120
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "aldrich-story-of-a-bad-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

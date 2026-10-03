@@ -791,3 +791,6 @@
 
 ## 2026-10-03 06:38 CDT — mark-twain: done
 - 5/5 fetched (Gutenberg 74, 76, 1837, 91, 93), 7,094 units, 0 ~2 ids.
+
+## 2026-10-03 06:40 CDT — aldrich: done
+- 1/1 fetched (Gutenberg 1948), 998 units, 0 ~2 ids.
