@@ -83,3 +83,21 @@ Lane A's `calvin_shelf.json` already holds the Calvin Translation Society set (4
 | Miscellany of the Wodrow Society, vol. 1 (1844) | have-raw | `wodrow-society_shelf.json` |
 | Knox's Works, ed. Laing (Wodrow Society vols) | have | `john-knox_shelf.json` |
 | Row, History of the Kirk (1842); Bruce's Sermons on the Sacrament, tr. Laidlaw (1901); Andrew Melville | pending | not yet searched |
+
+## Scottish divines: gaps beside lane A's shelves
+
+Lane A already holds Boston's Complete Works (`boston_shelf.json`), Ebenezer and Ralph Erskine (`erskines_shelf.json`), Gillespie's Works vol. 1 and Aaron's Rod (`george-gillespie_shelf.json`), Durham's Christ Crucified, Law Unsealed, Revelation and Clavis Cantici (`durham_shelf.json`), and Rutherford's Letters, Lex Rex and major treatises (`rutherford_shelf.json`, with Bonar's editions on `andrew-bonar_shelf.json`). These separate shelves add only what those files list as pending or lack, and leave them untouched.
+
+| Work | Status | Where |
+|---|---|---|
+| Rutherford, Christ Dying and Drawing Sinners to Himself (1647) | have-raw | `rutherford-gaps_shelf.json`, the second Princeton scan, which names him |
+| Rutherford, A Survey of the Spiritual Antichrist (1648) | have-raw | `rutherford-gaps_shelf.json`, EEBO scan |
+| Rutherford, A Peaceable and Temperate Plea for Paul's Presbyterie (1642) | have-raw | `rutherford-gaps_shelf.json` |
+| Rutherford, Divine Right of Church-Government (1646); Influences of the Life of Grace (1659) | pending | the 1646 scan lacks its title page; no 1659 scan found |
+| Durham, The Dying Man's Testament, or a Treatise concerning Scandal (1659) | have-raw | `durham-gaps_shelf.json`, identity read by eye ('DVRHAM') |
+| Durham, The Blessedness of the Death of those that die in the Lord (1682) | have-raw | `durham-gaps_shelf.json`, EEBO scan |
+| Durham, The Unsearchable Riches of Christ (1764) | have-raw | `durham-gaps_shelf.json`, ECCO scan |
+| Durham, Heaven upon Earth (1685, 1732); The Great Corruption of Subtile Self (1686) | pending | name unreadable in the OCR; OCR too poor |
+| Boston; the Erskines | have | lane A, complete; no gaps found |
+| Gillespie, Works vol. 2 (1846); Miscellany Questions (1649) | pending | no usable scan; his Parliament sermons are already in Works vol. 1 |
+| Patrick Gillespie, The Ark of the Covenant Opened (1677) | pending | anonymous on its title page |
