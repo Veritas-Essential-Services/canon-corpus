@@ -369,10 +369,12 @@
     },
     {
       "id": "chalmers",
-      "status": "todo",
+      "status": "done",
       "scope": "Thomas Chalmers: Works (d. 1847)",
       "added": "2026-10-02T17:35:36-05:00",
-      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)",
+      "finished": "2026-10-02T19:45:32-05:00",
+      "notes": "25 IA"
     },
     {
       "id": "erskines",

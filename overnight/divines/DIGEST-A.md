@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 19:40 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 19:45 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -77,6 +77,7 @@ Round 4 was done by 17:19 CDT. Lane A carries on with more Puritan, Scottish and
 |---|---|---|---|---|---|
 | Isaac Watts (prose) | watts_shelf.json | 2 Gutenberg (Leeds Works vol. 1; Essay on Psalmody) | 6 (Works, London 1810, ed. Burder, complete) | Leeds Works vols. 2-9 (not yet on Gutenberg) | his hymns (hymn manifest); books about him |
 | Archibald Alexander | archibald-alexander_shelf.json | 3 CCEL (Canon of the Old and New Testaments, Evidences, Outlines of Moral Science) | 5 (Religious Experience 1844, Log College 1851, Practical Sermons 1850, Israelitish Nation 1853, Colonization of Africa 1846) | none | his sons' books; books with his preface only |
+| Thomas Chalmers | chalmers_shelf.json | 0 (none exists) | 25 (Works, Glasgow: Collins 1836-42, complete) | Posthumous Works (ed. Hanna, 9 vols) | Select Works (later selection) |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

@@ -210,3 +210,6 @@
 
 ## 2026-10-02 19:40 CDT — archibald-alexander done
 - `pipeline/archibald-alexander_shelf.json`: 3 CCEL titles converted (1,582 units, 183 links); 5 IA items raw (96.7-99.2%). About 7.6 MB. The surname check uses "archibald alexander" / "dr. alexander", since "alexander" alone is common and his sons share it. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 19:45 CDT — chalmers done
+- `pipeline/chalmers_shelf.json`: the Works (Glasgow: Collins, 1836-42), all 25 vols from one IA series, raw OCR, 97.6-98.6% (median 98.0%). About 19 MB. Volume numbers from the title pages, which the automatic reader got wrong on 5 volumes (it picked up "vol. II" from contents pages); those 5 were checked one by one, vol. XX by its running heads. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
