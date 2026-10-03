@@ -464,3 +464,6 @@
 ## 2026-10-03 02:14 CDT — increase-mather done
 - `pipeline/increase-mather_shelf.json`: 4 IA volumes of raw OCR, median 86.9% (84.0-95.3%; Drake's editions reprint the long s, which the OCR reads as f), about 2 MB; title pages read (1856-1900). Cases of Conscience is held back with Cotton Mather's Wonders. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
 - Round 11 opened at 02:12 CDT with 18 picks in QUEUE-A. thomas-hooker was skipped: IA has only the 1638-48 first printings and modern facsimiles, the one copy that passed read at 77.7% OCR, and three never name him.
+
+## 2026-10-03 02:14 CDT — solomon-stoddard done
+- `pipeline/solomon-stoddard_shelf.json`: 2 IA volumes of raw OCR, median 97.6%, about 0.9 MB. The Safety of Appearing's title-page year is unreadable in the OCR, so it is labelled "catalogued 1804". `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

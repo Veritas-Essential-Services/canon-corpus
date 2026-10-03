@@ -1668,3 +1668,13 @@ Slugs `imather-*`. 19th-century editions only; Drake's 1862-64 editions keep the
 | The History of King Philip's War, ed. Drake (Boston, 1862) | have-raw | IA |
 | Diary, 1675-76, ed. S. A. Green (Cambridge, 1900) | have-raw | IA |
 | Cases of Conscience concerning Witchcrafts (in the 1862 Wonders volume) | held back | same footing as Cotton Mather's Wonders |
+
+
+## Solomon Stoddard (round 11, my pick, 2026-10-03)
+
+Slugs `stoddard-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Safety of Appearing at the Day of Judgment (Northampton: Pomroy, catalogued 1804) | have-raw | IA (identifiers in the shelf) |
+| A Guide to Christ (D'Hart, 1827; catalogued under Increase Mather, who wrote its preface; the title page names Stoddard) | have-raw | IA |

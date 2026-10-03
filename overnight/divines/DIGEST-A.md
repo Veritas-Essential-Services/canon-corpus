@@ -202,6 +202,7 @@ Round 10 was done by 02:09 CDT on 3 October. Round 11 turns to New England Purit
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
 |---|---|---|---|---|---|
 | Increase Mather | increase-mather_shelf.json | none | 4 (Remarkable Providences, 1856; Early History of New England, 1864; King Philip's War, 1862; Diary 1675-76, 1900) | none | Cases of Conscience concerning Witchcrafts, held back with Cotton Mather's Wonders (your veto point); 1680s-1700s printings |
+| Solomon Stoddard | solomon-stoddard_shelf.json | none | 2 (The Safety of Appearing, Northampton, catalogued 1804; A Guide to Christ, 1827 reprint) | none | 1700-1742 printings in long-s type |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
