@@ -1785,3 +1785,17 @@ Slugs `ispencer-*`.
 | A Pastor's Sketches, second series (new edition; copyright 1853) | have-raw | IA |
 | Discourses on Sacramental Occasions (Dodd, 1861) | have-raw | IA |
 | Sermons, with a memoir (Presbyterian Board, catalogued 1885), vols 1-2 | have-raw | IA |
+
+
+## Robert S. Candlish (round 11, my pick, 2026-10-03)
+
+Slugs `candlish-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Fatherhood of God (Black, 1865) | have-raw | IA (identifiers in the shelf) |
+| The Atonement: its Reality, Completeness and Extent (Nelson, 1861) | have-raw | IA |
+| Life in a Risen Saviour (Philadelphia, 1858) | have-raw | IA |
+| Examination of Mr. Maurice's Theological Essays (Nisbet, 1854) | have-raw | IA |
+| Reason and Revelation (Nelson, 1864) | have-raw | IA |
+| Paul's Epistle to the Ephesians, discourses (Black, 1875) | have-raw | IA |

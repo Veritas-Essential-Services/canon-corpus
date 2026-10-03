@@ -503,3 +503,6 @@
 - Lightfoot: Galatians is now cu31924075537088 (tenth edition, a 1921 reprint, 58,702 Greek characters) and Philippians is saintpaulsepistl00ligh (fourth edition 1878, 55,788). The 1878 title page OCR reads "J. BB; BIGHTROOT", recorded in `_identity_checked`. Eadie's Ephesians has no copy with Greek; noted in its `_about`.
 - DIGEST-A: the late-reprint CCEL texts (Barnes 1949, Owen 1965-68, Wesley 1951, Lightfoot AF 1956, Calvin Relics 2008) and the modernised Owen Glory are now one item under "Decisions that are yours". The Greek bullet is updated.
 - `--verify --record` on b-f-westcott, j-b-lightfoot and john-eadie: 0 mismatched.
+
+## 2026-10-03 02:42 CDT — robert-candlish done
+- `pipeline/robert-candlish_shelf.json`: 6 IA volumes of raw OCR, median 98.5% (97.0-99.2%), about 4 MB; title pages read (1854-1875). `--verify --record`: 0 mismatched. 0 uids minted.

@@ -1,0 +1,114 @@
+{
+ "_about": "Public-domain Robert S. Candlish (1806-1873, minister of St George's, Edinburgh, a leader of the 1843 Disruption, Principal of New College) for the Word Hoard: The Fatherhood of God (1865), The Atonement: its Reality, Completeness and Extent (1861), Life in a Risen Saviour (1858), Examination of Mr. Maurice's Theological Essays (1854), Reason and Revelation (1864) and Paul's Epistle to the Ephesians in a series of discourses (1875), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 11 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "candlish",
+  "robert"
+ ],
+ "_surname": [
+  "robert s. candlish",
+  "r. s. candlish",
+  "robert smith candlish",
+  "candlish"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "candlish-fatherhood-1865": [
+   "fatherhoodofgodb00cand",
+   "The Fatherhood of God: the first course of the Cunningham Lectures (Edinburgh: A. and C. Black, 1865)"
+  ],
+  "candlish-atonement-1861": [
+   "atonementitsreal00cand",
+   "The Atonement: its Reality, Completeness, and Extent (London: T. Nelson, 1861)"
+  ],
+  "candlish-risen-saviour-1858": [
+   "lifeinrisensavio00cand_0",
+   "Life in a Risen Saviour: discourses on the argument of the fifteenth chapter of First Corinthians (Philadelphia: Lindsay and Blakiston, 1858)"
+  ],
+  "candlish-maurice-1854": [
+   "examinationofmrm00cand",
+   "Examination of Mr. Maurice's Theological Essays (London: James Nisbet, 1854)"
+  ],
+  "candlish-reason-revelation-1864": [
+   "reasonrevelation1864cand",
+   "Reason and Revelation (London: T. Nelson, 1864)"
+  ],
+  "candlish-ephesians-1875": [
+   "paulsepistlestoe0000robe",
+   "Paul's Epistle to the Ephesians Expounded in a Series of Discourses (Edinburgh: A. and C. Black, catalogued 1875)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "candlish-memorials": "Memorials of Robert Smith Candlish (1880) is William Wilson's book about him"
+ },
+ "_checks": {
+  "candlish-fatherhood-1865": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "candlish",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "candlish-atonement-1861": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "candlish",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "candlish-risen-saviour-1858": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "candlish",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "candlish-maurice-1854": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert s. candlish",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "candlish-reason-revelation-1864": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert s. candlish",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "candlish-ephesians-1875": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert s. candlish",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

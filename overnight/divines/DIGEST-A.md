@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 02:31 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 02:42 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -213,6 +213,7 @@ Round 10 was done by 02:09 CDT on 3 October. Round 11 turns to New England Purit
 | Gardiner Spring | gardiner-spring_shelf.json | none | 5 (Distinguishing Traits of Christian Character, catalogued 1822; Rule of Faith, 1844; A Pastor's Tribute, 1849; First Things, fourth edition, 1855, 2 vols) | none | none |
 | Samuel Miller | samuel-miller_shelf.json | none | 6 (Letters on Clerical Manners, 1827; The Ruling Elder, Presbyterian Board printing; Infant Baptism, 1835; Letters on the Christian Ministry, 1809; Brief Retrospect of the Eighteenth Century, 1803, 2 vols) | none | the 1970 Burt Franklin reprint |
 | Ichabod Spencer | ichabod-spencer_shelf.json | none | 5 (A Pastor's Sketches, series 1, 1850, and series 2, 1853; Discourses on Sacramental Occasions, 1861; Sermons with memoir, 1885, 2 vols) | none | the 2001 Solid Ground reprint |
+| Robert S. Candlish | robert-candlish_shelf.json | none | 6 (Fatherhood of God, 1865; The Atonement, 1861; Life in a Risen Saviour, 1858; Examination of Maurice, 1854; Reason and Revelation, 1864; Ephesians, 1875) | none | Memorials of Candlish (1880), a book about him |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
