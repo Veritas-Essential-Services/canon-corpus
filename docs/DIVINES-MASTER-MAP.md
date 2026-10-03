@@ -1524,6 +1524,16 @@ Slugs `jbrowne-*` (John Brown of Haddington, his grandfather, is `brown-*` on hi
 | Discourses and Sayings of Our Lord Jesus Christ, 2 vols (New York: Carter, 1854) | have-raw | IA (identifiers in the shelf) |
 | Analytical Exposition of the Epistle to the Romans (New York: Carter, 1857) | have-raw | IA |
 | Expository Discourses on the First Epistle of Peter (New York: Carter; catalogued 1855) | have-raw | IA |
+
+
+## F. W. Robertson (round 10, my pick, 2026-10-03)
+
+Slugs `fwrobertson-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons Preached at Brighton, third series | have-clean | Gutenberg 16645 |
+| Sermons Preached at Brighton, 4 vols (London: H. S. King, 1875) | have-raw | IA (identifiers in the shelf) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

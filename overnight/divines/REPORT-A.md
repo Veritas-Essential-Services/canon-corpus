@@ -423,3 +423,6 @@
 
 ## 2026-10-03 01:31 CDT — john-brown-edinburgh done
 - `pipeline/john-brown-edinburgh_shelf.json`: 4 IA volumes of raw OCR, median 97.4% (97.0-98.1%), about 9 MB; title pages read (1854, 1857; First Peter shows Carter and 1849 though catalogued 1855, and the shelf says both). The name check is "john brown", which his grandfather shares; titles carry the distinction. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:33 CDT — f-w-robertson done
+- `pipeline/f-w-robertson_shelf.json`: 1 Gutenberg text (rights line checked) and the 1875 King set, 4 volumes of raw IA OCR, median 98.6% (98.3-98.9%), about 3.4 MB; title pages read (King, 1875). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
