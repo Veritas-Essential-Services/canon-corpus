@@ -661,3 +661,6 @@
 
 ## 2026-10-03 07:15 CDT — john-foster-essayist done
 - `pipeline/john-foster-essayist_shelf.json`: 1 Gutenberg (not COPYRIGHTED) + 7 IA, title pages read. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 07:16 CDT — edward-bickersteth done
+- `pipeline/edward-bickersteth_shelf.json`: 7 IA volumes, title pages read (Scripture Help is a "0000"-style id, an 1821 copy, in `_rights_checked`). `--verify --record`: 0 mismatched. 0 uids minted.

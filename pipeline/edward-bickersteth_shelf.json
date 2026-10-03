@@ -1,0 +1,133 @@
+{
+ "_about": "Public-domain Edward Bickersteth (1786-1850, evangelical Anglican, secretary of the Church Missionary Society, Rector of Watton) for the Word Hoard: A Scripture Help (eighth edition, 1821), A Treatise on Prayer (fifteenth edition, 1839), A Treatise on the Lord's Supper (New York, 1849), The Christian Student (Boston, 1830), A Practical Guide to the Prophecies (ninth edition, 1852), The Promised Glory of the Church (1844) and A Treatise on Baptism (second edition, 1844), raw Internet Archive OCR. Not his son Edward Henry Bickersteth, Bishop of Exeter. Added 2026-10-03 by lane A, round 14 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "bickersteth",
+  "edward"
+ ],
+ "_surname": [
+  "edward bickersteth",
+  "e. bickersteth",
+  "eh. bickersteth",
+  "bickersteth, edward"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bickersteth-scripture-help-1821": [
+   "scripturehelp0000bick",
+   "A Scripture Help, eighth edition (London: L. B. Seeley, 1821)"
+  ],
+  "bickersteth-prayer-1839": [
+   "treatiseonpray00bick",
+   "A Treatise on Prayer, fifteenth edition (London: R. B. Seeley and W. Burnside, 1839)"
+  ],
+  "bickersteth-lords-supper-1849": [
+   "treatiseonlordss00bick",
+   "A Treatise on the Lord's Supper, ed. L. P. W. Balch, third New York from the ninth London edition (New York: Stanford & Swords, 1849)"
+  ],
+  "bickersteth-christian-student-1830": [
+   "christianstuden00bickuoft",
+   "The Christian Student, from the second London edition (Boston: Perkins & Marvin, 1830)"
+  ],
+  "bickersteth-prophecies-1852": [
+   "practicalguideto00bick_0",
+   "A Practical Guide to the Prophecies, ninth edition, enlarged (London: Seeleys, 1852)"
+  ],
+  "bickersteth-promised-glory-1844": [
+   "promisedgloryofc00bick",
+   "The Promised Glory of the Church of Christ (London: Seeley, Burnside, and Seeley, 1844)"
+  ],
+  "bickersteth-baptism-1844": [
+   "treatiseonbaptis00bick",
+   "A Treatise on Baptism, second edition (London: Seeley, Burnside and Seeley, 1844)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "bickersteth-works-1855": "The Works (New York: Carter, 1855; IA worksofrevedward01-15bick): vol. 5 is not available (HTTP 403), and the title pages carry no year"
+ },
+ "_rights_checked": {
+  "bickersteth-scripture-help-1821": "Title page read 2026-10-03 (the IA id is in the modern '0000' style): eighth edition, London, printed for L. B. Seeley, 1821; a period printing."
+ },
+ "_checks": {
+  "bickersteth-scripture-help-1821": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward bickersteth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-03 (the IA id is in the modern '0000' style): eighth edition, London, printed for L. B. Seeley, 1821; a period printing."
+  },
+  "bickersteth-prayer-1839": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward bickersteth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bickersteth-lords-supper-1849": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward bickersteth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bickersteth-christian-student-1830": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "e. bickersteth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bickersteth-prophecies-1852": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward bickersteth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bickersteth-promised-glory-1844": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "e. bickersteth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bickersteth-baptism-1844": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "e. bickersteth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

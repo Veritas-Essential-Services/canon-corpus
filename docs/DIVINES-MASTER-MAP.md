@@ -2168,6 +2168,15 @@ Slugs `jfoster-*`. Each title page ties the book to the Baptist essayist, not an
 |---|---|---|
 | An Essay on the Evils of Popular Ignorance | have-clean | Gutenberg 8940 |
 | Essays in a Series of Letters (1833); Broadmead Lectures, 2 series (1845-47); Life and Correspondence, ed. Ryland, 2 vols (1848); Critical Essays, 2 vols (1856) | have-ocr | IA, OCR 96.7-98.8% |
+
+## Edward Bickersteth (round 14, my pick, 2026-10-03)
+
+Slugs `bickersteth-*`. The elder Bickersteth, not his son the Bishop of Exeter.
+
+| Work | Status | Where |
+|---|---|---|
+| A Scripture Help (1821); A Treatise on Prayer (1839); A Treatise on the Lord's Supper (1849); The Christian Student (1830); A Practical Guide to the Prophecies (1852); The Promised Glory of the Church (1844); A Treatise on Baptism (1844) | have-ocr | IA, OCR 97-99% |
+| Works (New York: Carter, 1855) | excluded | vol. 5 unavailable on IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
