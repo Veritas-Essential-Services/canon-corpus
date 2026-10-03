@@ -652,6 +652,14 @@
    "started": "2026-10-03T02:20:18-05:00",
    "finished": "2026-10-03T02:23:31-05:00",
    "notes": "Found by sweeping IA for Bohn 'literally translated' volumes against the shelves. OCR 0.92 and 0.90. Also refused on OCR this hour: Stanley's Aelian (1665, 1666), Fleming's Aelian (1576), Bingham's Tactiks of Aelian (1616), Golding's Pomponius Mela (1585), all EEBO scans at 0.57-0.74; the 1670 Aelian answers 500."
+  },
+  {
+   "id": "bohn-sweep-2",
+   "status": "done",
+   "scope": "Walford's Aristotle (1853), Webster's Medea (1868), King's Julian (1888), four Prometheus Bound translations",
+   "started": "2026-10-03T02:23:31-05:00",
+   "finished": "2026-10-03T02:27:53-05:00",
+   "notes": "Continued the Bohn and single-play sweep. All OCR 0.88-0.92. Webster and Cayley Prometheus needed _identity_checked (OCR mangles the Æ in Aeschylus). King's Julian volume also holds Gregory Nazianzen's Invectives (a church father): noted for a Gregory shelf to cross-reference."
   }
  ]
 }

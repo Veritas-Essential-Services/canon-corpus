@@ -122,3 +122,4 @@
 - **Silius Italicus (02:18):** new shelf; Tytler's 1828 verse Punics vol. I. Duff's Loeb vol. I joins the later-printings decision.
 - **Cebes (02:20):** new shelf; Guthrie's 1910 translation of the Tablet.
 - **Bohn gaps (02:23):** Riley's Lucan (1853) and M'Mahon's Metaphysics (1857). Aelian and Mela have no readable English scan.
+- **More single translations (02:27):** Walford's Aristotle, Webster's Medea, King's Julian (with Gregory Nazianzen's Invectives), and four Prometheus Bound versions.

@@ -1889,6 +1889,7 @@ Shelf: `pipeline/aristotle_shelf.json`. The Oxford translation, ed. J. A. Smith 
 | The Nicomachean Ethics of Aristotle (London: C. Kegan Paul, 1881) | F. H. Peters | `aristotle-peters-ethics-1881` | have-raw (IA `nicomacheanethi00petegoog`) |
 | Nicomachean Ethics | Harris Rackham (1926) | `aristotle-perseus-rackham-nicomachean-ethics` | have (Perseus TEI `tlg0086.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
 | The Metaphysics of Aristotle, literally translated from the Greek (Bohn, 1857) | John H. M'Mahon | `aristotle-mcmahon-metaphysics-1857` | have-raw (IA `metaphysicsaris01arisgoog`) |
+| The Politics and Economics, with Gillies's introductory essay and life (Bohn, 1853) | Edward Walford | `aristotle-walford-politics-economics-1853` | have-raw (IA `politicseconomic00aris`) |
 
 Pending (wishlist): genuine pre-1931 separate issues of Meteorologica (1923) and Parva Naturalia (1908), which are PD now (no scan found yet; De Mundo, 1914, is held above); R. D. Hicks's De Anima (1907, Greek facing); a clean proofread Nicomachean Ethics (Ross) from Gutenberg if one appears.
 
@@ -2056,6 +2057,10 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | Prometheus Bound | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-prometheus-bound` | have (Perseus TEI `tlg0085.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
 | Seven Against Thebes | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-seven-against-thebes` | have (Perseus TEI `tlg0085.tlg004.perseus-eng2`; markup CC BY-SA 4.0) |
 | Suppliant Maidens | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-suppliant-maidens` | have (Perseus TEI `tlg0085.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Prometheus Bound, literally translated into English verse, ed. Thomas Webster (Macmillan, 1866) | Augusta Webster | `aeschylus-webster-prometheus-1866` | have-raw (IA `prometheusboundo00aescrich`) |
+| The Prometheus Bound, translated in the original metres (Hotten, 1867) | C. B. Cayley | `aeschylus-cayley-prometheus-1867` | have-raw (IA `prometheusboundo00aesc_0`) |
+| The Prometheus Bound, translated with introduction and notes (Houghton, Mifflin, 1899) | Paul Elmer More | `aeschylus-more-prometheus-1899` | have-raw (IA `prometheusboundo00aesc_1`) |
+| The Prometheus Bound, rendered into English verse (David Nutt, 1902) | Edwyn Robert Bevan | `aeschylus-bevan-prometheus-1902` | have-raw (IA `prometheusboundoaesc00rich`) |
 
 Pending (wishlist): none here: Smyth's Loeb (1922-26) is on PR #7 as Perseus TEI.
 
@@ -2089,6 +2094,7 @@ Shelf: `pipeline/euripides_shelf.json`. Translator per title; complete in Way (v
 | Euripides, translated by R. Potter, vol. 2 (Valpy, 1832) | Robert Potter | `euripides-potter-v2` | have-raw (IA `euripides01pottgoog`) |
 | Euripides, translated by R. Potter, vol. 3 (Valpy, 1832) | Robert Potter | `euripides-potter-v3` | have-raw (IA `euripides02pottgoog`) |
 | The Tragedies of Euripides, vol. 2 (prose, Bohn, 1850) | Theodore Alois Buckley | `euripides-buckley-v2` | have-raw (IA `tragedieseuripi01eurigoog`) |
+| The Medea of Euripides, literally translated into English verse (Macmillan, 1868) | Augusta Webster | `euripides-webster-medea-1868` | have-raw (IA `medeaofeuripides00euririch`) |
 
 Pending (wishlist): Way's 1912 Loeb (Greek facing). Potter's Euripides is held complete in the 1832 Valpy reprint (3 vols.). Wodhull's Euripides is held complete from the 1809 Greek Tragic Theatre (vols. 3-5).
 
@@ -3186,6 +3192,7 @@ Shelf: `pipeline/julian_shelf.json`. Wright's Loeb vols. 1-2 (Gutenberg; facing 
 |---|---|---|---|
 | The Works of the Emperor Julian, vol. 1 | Wilmer Cave Wright | `julian-wright-v1` | held: Gutenberg's transcription (PG 48664) includes a 'Bibliographical Addendum (1980)' from the reprint it was made from, which is not public domain by date; not fetched (see `_held`) |
 | The Works of the Emperor Julian, vol. 2 | Wilmer Cave Wright | `julian-wright-v2` | have (PG 48768) |
+| Julian the Emperor: Gregory Nazianzen's two Invectives, Libanius' Monody, and Julian's Upon the Sovereign Sun and Upon the Mother of the Gods (Bohn, 1888) | C. W. King | `julian-king-1888` | have-raw (IA `julianemperor00king`) |
 
 Pending (wishlist): Wright vol. 3 (1923)
 

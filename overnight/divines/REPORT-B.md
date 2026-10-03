@@ -390,3 +390,9 @@
 - Lucan: Riley's literal prose Pharsalia (Bohn, 1853)
 - Aristotle: M'Mahon's literal Metaphysics (Bohn, 1857)
 - Refused on OCR (EEBO, 0.57-0.74): Stanley's Aelian 1665/1666, Fleming's Aelian 1576, Bingham's Tactiks of Aelian 1616, Golding's Mela 1585; the 1670 Aelian answers 500 (added to the retry)
+
+## 2026-10-03 02:27 CDT — Bohn and single plays
+- Aristotle: Walford's Politics and Economics (Bohn, 1853)
+- Euripides: Augusta Webster's verse Medea (1868)
+- Julian: C. W. King's Julian the Emperor (Bohn, 1888), with Gregory Nazianzen's Invectives and Libanius' Monody
+- Aeschylus: Prometheus Bound by Augusta Webster (1866), C. B. Cayley (1867), Paul Elmer More (1899), Edwyn Bevan (1902)
