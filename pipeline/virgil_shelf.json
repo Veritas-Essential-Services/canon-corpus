@@ -138,7 +138,8 @@
   "pg54717": "Two Dramatizations from Vergil (Miller): adaptations for the stage, not the poems",
   "pg66399": "Virgil & Lucretius passages (Stebbing): excerpts",
   "poemsvirgil00magoog (Conington, 1882)": "no text layer on IA; the 1880 Works kept",
-  "Pitt and Warton's Works of Virgil (Dodsley, 1763), vols. II and IV": "vols. I and III held (virgil-pitt-warton-1763-v1, -v3); vols. II and IV (Aeneid I-IV and IX-XII) not found on IA as of 2026-10-03; wanted"
+  "Pitt and Warton's Works of Virgil (Dodsley, 1763), vols. II and IV": "vols. I and III held (virgil-pitt-warton-1763-v1, -v3); vols. II and IV (Aeneid I-IV and IX-XII) not found on IA as of 2026-10-03; wanted",
+  "Pitt's Aeneid (Dodsley, 1740, 2 vols.)": "PD; the only scans found (IA bim_eighteenth-century_the-neid-of-virgil-tra_virgil_1740_1/_2) read at 0.74-0.76 clean words, below the lane's bar. Refused for OCR quality on 2026-10-03; vol. III of the 1763 Works (held) carries Books V-VIII of the same translation"
  },
  "_convert_hints": {
   "_note": "Verse texts: tried with structure_texts.convert_gutenberg_verse(path, slug, title, author, abbr, divre) using this divre; unit counts from that trial (12-line blocks). Everything else converts as prose with contents_chapre. For the manifest entry when Adam adds these to the build; nothing here is wired in.",
