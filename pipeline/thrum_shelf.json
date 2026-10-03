@@ -1,0 +1,46 @@
+{
+ "_about": "Hawaiian Folk Tales: A Collection of Native Legends, compiled by Thomas G. Thrum (Chicago: McClurg, 1907). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Thomas G. Thrum, ed.",
+ "_name_words": [
+  "thrum"
+ ],
+ "_surname": [
+  "thrum"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "thrum-hawaiian-folk-tales": [
+   18450,
+   "Hawaiian Folk Tales",
+   {
+    "levels": [
+     {
+      "re": "(?:GLOSSARY OF HAWAIIAN WORDS|NOTES)$"
+     },
+     {
+      "re": "[IVX]+$",
+      "title_next": true
+     },
+     {
+      "re": "(?:[IVX]+\\.--[A-Z].*|PART [IVX]+|MOKE MANU'S ACCOUNT|PI'S WATERCOURSE|LAKA'S ADVENTURE|KEKUPUA'S CANOE|AS HEIAU BUILDERS|LOCATION OF THE LUA O MILU|DEIFIED FISH SUPERSTITION|STORY OF THE ANAE-HOLO|MYTH OF THE HILU|THE HOU, OR SNORING FISH)$"
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "thrum-hawaiian-folk-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thrum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
