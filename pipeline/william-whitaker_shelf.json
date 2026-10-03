@@ -6,6 +6,9 @@
  "_surname": [
   "whitaker"
  ],
+ "_translators": {
+  "whitaker-ps-disputation": "William Fitzgerald"
+ },
  "ccel": {},
  "gutenberg": {},
  "internet_archive": {
@@ -26,6 +29,8 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "whitaker",
+   "translator_claimed": "William Fitzgerald",
+   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1849",
    "ia_date": "1849",

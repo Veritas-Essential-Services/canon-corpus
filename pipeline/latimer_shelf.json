@@ -7,6 +7,11 @@
  "_surname": [
   "latimer"
  ],
+ "_identity_checked": {
+  "latimer-ps-01": {
+   "title": "Flagged title_weak only because the OCR prints the editor's name as 'GEORGE ELWES COKRIE'; the title page otherwise reads 'SERMONS BY HUGH LATIMER, SOMETIME BISHOP OF WORCESTER, MARTYR ... EDITED FOR THE PARKER SOCIETY'."
+  }
+ },
  "ccel": {
   "latimer-sermons-ccel": [
    "sermons",

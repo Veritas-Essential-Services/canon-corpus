@@ -6,6 +6,12 @@
  "_surname": [
   "parker society"
  ],
+ "_translators": {
+  "ps-zurich-letters-1": "Hastings Robinson",
+  "ps-zurich-letters-2": "Hastings Robinson",
+  "ps-original-letters-1": "Hastings Robinson",
+  "ps-original-letters-2": "Hastings Robinson"
+ },
  "_identity_checked": {
   "ps-select-poetry-2": {
    "author": "Title page read 2026-10-03: collected and edited by Edward Farr for the Parker Society, part 2, Cambridge 1845. The Society's name is printed in blackletter and OCR'd as 'Barker', so the name check cannot see it.",
@@ -143,6 +149,8 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "parker society",
+   "translator_claimed": "Hastings Robinson",
+   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1842",
    "ia_date": "1842",
@@ -165,6 +173,8 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "parker society",
+   "translator_claimed": "Hastings Robinson",
+   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1845",
    "ia_date": "1845",
@@ -176,6 +186,8 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "parker society",
+   "translator_claimed": "Hastings Robinson",
+   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1847",
    "ia_date": "1847",
@@ -187,6 +199,8 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "parker society",
+   "translator_claimed": "Hastings Robinson",
+   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1846",
    "ia_date": "1846-47",

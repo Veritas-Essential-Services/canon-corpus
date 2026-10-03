@@ -1,11 +1,16 @@
 {
- "_about": "Heinrich Bullinger (1504-1575) of Zurich: the Decades, translated by 'H. I.' (1577) and edited by Thomas Harding for the Parker Society (4 vols, Cambridge 1849-1852). Named heinrich-bullinger so E. W. Bullinger cannot collide. Internet Archive OCR, raw; each title page read for which Decade it holds (Toronto's own volume numbers differ: its 02 is the Third Decade, 04 the Fourth, 05 the Fifth). The translator is credited only by initials, so no _translators entry. Bullinger's other English works are pending.",
+ "_about": "Heinrich Bullinger (1504-1575) of Zurich: the Decades, translated by 'H. I.' (1577) and edited by Thomas Harding for the Parker Society (4 vols, Cambridge 1849-1852). Named heinrich-bullinger so E. W. Bullinger cannot collide. Internet Archive OCR, raw; each title page read for which Decade it holds (Toronto's own volume numbers differ: its 02 is the Third Decade, 04 the Fourth, 05 the Fifth). The translator is credited only by initials, so no _translators entry. Bullinger's other English works are pending. The translator is recorded as 'H. I.' for vols. 1-3; vol. 4's title page OCRs it as 'II. I.', which the translator check cannot match, so vol. 4 has no _translators entry.",
  "_name_words": [
   "bullinger"
  ],
  "_surname": [
   "bullinger"
  ],
+ "_translators": {
+  "bullinger-decades-1": "H. I.",
+  "bullinger-decades-2": "H. I.",
+  "bullinger-decades-3": "H. I."
+ },
  "ccel": {},
  "gutenberg": {},
  "internet_archive": {
@@ -48,6 +53,8 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "bullinger",
+   "translator_claimed": "H. I.",
+   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1852",
    "ia_date": "1849-1852",
@@ -59,6 +66,8 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "bullinger",
+   "translator_claimed": "H. I.",
+   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1849",
    "ia_date": "1849-52",
@@ -70,6 +79,8 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "bullinger",
+   "translator_claimed": "H. I.",
+   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1852",
    "ia_date": "1849-1852",

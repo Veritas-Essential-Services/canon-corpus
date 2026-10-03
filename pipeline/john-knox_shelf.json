@@ -37,7 +37,7 @@
   ],
   "knox-works-05": [
    "worksofjohnknox05knox",
-   "Works of John Knox, ed. David Laing (Edinburgh, 1846-1864), vol. 5"
+   "Works of John Knox, ed. David Laing (Edinburgh: Johnstone and Hunter, 1856), vol. 5"
   ],
   "knox-works-06": [
    "worksofjohnknox06knox",
@@ -48,7 +48,7 @@
   "ccel knox/works1, knox/history_reformation": "CCEL conversions of PG 21938 and PG 48250; the Gutenberg texts are held instead.",
   "worksofjohnkn01knox, worksofjohnkn02knox, worksofjohnknox01knox, worksofjohnknox2knox, worksofjohnknox3knox": "IA scans of vols. 1-3; the Gutenberg text and the Toronto vol. 3 are held instead.",
   "worksofjohnknox03knox": "Princeton vol. 3 (1895 reissue).",
-  "worksofjohnknox62knoxuoft": "Toronto vol. 6, part 2 of a split binding.",
+  "worksofjohnknox62knoxuoft": "Toronto vol. 6, part 2 of a split binding. The held Princeton scan (worksofjohnknox06knox, 874 pages) binds both parts: it runs from the Preface through the general index, and carries the 'Volume Sixth, Part Second' title leaf at its end.",
   "cu31924092463029 .. cu31924092463078": "Cornell copies of the 1895 reissue (vol. 6 text file returned HTTP 500 on 2026-10-03).",
   "worksjohnknox0[0-9]laingoog, worksjohnknoxvo00*goog": "Google scans.",
   "PG 9660, First Blast, ed. Edward Arber (1878)": "A second clean edition of the First Blast; CCEL's is held."
