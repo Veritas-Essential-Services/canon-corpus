@@ -1550,7 +1550,7 @@ Slugs `alford-*`.
 |---|---|---|
 | The Greek Testament, vols 1-2 (London: Rivington; catalogued 1849-56) | have-raw | IA (identifiers in the shelf) |
 | The Greek Testament, vol. 4 (Boston: Lee and Shepard; catalogued 1874) | have-raw | IA |
-| The Greek Testament, vol. 3 | pending | archive.org errors |
+| The Greek Testament, vol. 3 (Rivingtons, 1856) | have-raw | IA (shelved after retries) |
 
 
 ## John Keble (round 10, my pick, 2026-10-03)
