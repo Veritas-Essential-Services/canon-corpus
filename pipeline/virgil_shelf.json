@@ -95,6 +95,16 @@
    "firstfourbooksn00maidgoog",
    "The First Four Books of the Aeneid of Virgil, in English heroic verse (1582; Edinburgh reprint, 1836)",
    "tr. Richard Stanyhurst"
+  ],
+  "virgil-davidson-buckley-1874": [
+   "worksvirgil03virggoog",
+   "The Works of Virgil, literally translated into English prose by Davidson, new edition revised by Theodore Alois Buckley (New York: Harper, 1874)",
+   "tr. Joseph Davidson, revised by Theodore Alois Buckley"
+  ],
+  "virgil-lonsdale-lee-1871": [
+   "worksofvirgilren00virg",
+   "The Works of Virgil rendered into English Prose (Globe Edition; Macmillan, 1871)",
+   "tr. James Lonsdale and Samuel Lee"
   ]
  },
  "_cross_ref": {
@@ -154,7 +164,9 @@
   "virgil-cranch-aeneid": "Christopher Pearse Cranch",
   "virgil-douglas-eneados-v1": "douglas bishop of",
   "virgil-douglas-eneados-v2": "gawinus douglas",
-  "virgil-stanyhurst-1836": "Richard Stanyhurst"
+  "virgil-stanyhurst-1836": "Richard Stanyhurst",
+  "virgil-davidson-buckley-1874": "Theodore Alois Buckley",
+  "virgil-lonsdale-lee-1871": "James Lonsdale"
  },
  "_translator_unchecked": {
   "virgil-rhoades-eclogues": "translator on the row (James Rhoades (verse); PG names no translator: identified by collating its openi) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
@@ -371,6 +383,32 @@
    "ia_rights": "ok: published 1836",
    "ia_date": "1836",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "virgil-davidson-buckley-1874": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "Theodore Alois Buckley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "virgil-lonsdale-lee-1871": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "James Lonsdale",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
   }
  },
