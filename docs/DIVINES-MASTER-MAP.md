@@ -4096,6 +4096,14 @@ Shelf: `pipeline/steedman_shelf.json` (2026-10-02; added at the coordinator's re
 |---|---|---|
 | In God's Garden: Stories of the Saints for Little Children | have | PG 36674, `steedman-in-gods-garden` (732 units) |
 
+## Grace James
+
+Shelf: `pipeline/grace-james_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Japanese tales retold, cut by her own Contents. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Japanese Fairy Tales, retold by Grace James | have | PG 35853, `grace-james-japanese-fairy-tales` (1870 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

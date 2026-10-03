@@ -1,0 +1,21 @@
+{
+ "_about": "Grace James's Japanese Fairy Tales, retold in her own English, illustrated by Warwick Goble. The printing is undated in the Gutenberg text; Gutenberg cleared it as US public domain; clean Gutenberg text. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Grace James",
+ "_name_words": [
+  "japanese",
+  "fairy",
+  "tales"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "grace-james-japanese-fairy-tales": [
+   35853,
+   "Japanese Fairy Tales, retold by Grace James",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {}
+}
