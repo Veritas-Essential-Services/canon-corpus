@@ -99,6 +99,11 @@
    "worksofhorace02hora",
    "The Works of Horace translated, vol. II (New York: S. King, 1825)",
    "tr. Philip Francis"
+  ],
+  "horace-deazeley-odes-1895": [
+   "odeshoracedonei00deazgoog",
+   "The Odes of Horace (Books I and II) done into English verse, with Andromeda, Ariadne and Jason (1895)",
+   "tr. J. Howard Deazeley"
   ]
  },
  "_cross_ref": {
@@ -134,7 +139,8 @@
   "horace-mathews-odes-1867": "Charles Stephens Mathews",
   "horace-cudworth-odes-1917": "Warren H. Cudworth",
   "horace-francis-1825-v1": "Francis",
-  "horace-francis-1825-v2": "Francis"
+  "horace-francis-1825-v2": "Francis",
+  "horace-deazeley-odes-1895": "Deazeley"
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
@@ -364,6 +370,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1825",
    "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-deazeley-odes-1895": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatian",
+   "translator_claimed": "Deazeley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
