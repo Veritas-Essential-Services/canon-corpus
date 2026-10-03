@@ -126,7 +126,9 @@ FAMILY = {
 # The Septuagint's Esdras: 1 Esdras is the apocryphal book, 2 Esdras is Ezra
 # and Nehemiah in one (Brenton's Ezra 11-23 is Nehemiah, and his map says so).
 # The Vulgate's 1 and 2 Esdras are Ezra and Nehemiah (COMMON).
-FAMILY_DEUTERO = {"grc": {"1esdr": "1Esd", "3esdr": "1Esd"}}
+# The Vulgate's appendix has 3 and 4 Esdras: the Apocrypha's 1 and 2 Esdras.
+FAMILY_DEUTERO = {"grc": {"1esdr": "1Esd", "3esdr": "1Esd", "4esdr": "2Esd"},
+                  "lat": {"3esdr": "1Esd", "4esdr": "2Esd"}}
 FAMILY["grc"].update({"2esdr": "Ezra"})
 # Books outside the KJV: read, so a reference to them is counted, never resolved.
 DEUTERO = {"tob": "Tob", "iudith": "Jdt", "judith": "Jdt", "jdt": "Jdt", "sap": "Wis",
@@ -208,6 +210,11 @@ def as_num(tok):
     return roman(tok)
 
 
+# "Ps. 18, " / "Ps. XVIII , ": a book word, then its chapter and a comma, and
+# nothing else, before a number.
+VERSE_BEFORE = re.compile(r"(?:[^\W\d_]{2,}\.?|[^\W\d_]\.)\s*(?:\d{1,3}|[IVXLC]{1,7})\s*,\s*$")
+
+
 def parse(label, family):
     """[(book, kind, chapter, verse or None, end or None, alt_chapter or None)]."""
     # "9] Ps. 18, 6. 16] Io. 1,10.": an apparatus marker "N]" (the line a
@@ -215,8 +222,16 @@ def parse(label, family):
     # separator between entries ("Röm. 4, 17. — 8 Esth.", "29, 5 — 15 — 18"),
     # unless the number after it ends the entry ("Matth. 7, 3 — 5;": a
     # range). Both become a stop no number can be read across. "[17]" is a verse.
-    # ("Ps. 18, 6] cf.": a verse after "chapter," closing a lemma is a verse)
-    s = re.sub(r"(?<![\w\[])(?<!\d,\s)(?<!\d,)\d{1,3}\s?f{0,2}\]", " | ", label)
+    # A verse right after a book's chapter closes a lemma ("Ps. 18, 6] cf.",
+    # "Ps. XVIII, 6] cf."), so it stays. A number after a verse or a page
+    # ("Es. 1, 11, 24] Ioh.", "15-196, 11] cf.") is the next line's marker.
+    # "9-11]" (lines 9 to 11) and "13-217, 4]" (line 13 to page 217, line 4)
+    # are one marker each, unless they follow a book's chapter ("Ps. 18, 6-9]":
+    # verses closing a lemma; "Es. 53, 2-3, 11]": verses, then a line).
+    label = re.sub(r"(?<![\w\[])\d{1,3}\s?[-—–]\s?\d{1,4}(?:\s?,\s?\d{1,3})?\s?\]",
+                   lambda m: m.group(0) if VERSE_BEFORE.search(label, 0, m.start()) else " | ", label)
+    s = re.sub(r"(?<![\w\[])\d{1,3}\s?f{0,2}\]",
+               lambda m: m.group(0) if VERSE_BEFORE.search(label, 0, m.start()) else " | ", label)
     s = re.sub(r"(?:^|\s)—(?!\s?\d{1,3}\s?(?:[.,;)]|$))", " | ", s)
     s = s.replace("—", "-").replace("–", "-").replace("‒", "-")
     refs = []

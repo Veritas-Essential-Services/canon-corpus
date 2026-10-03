@@ -60,15 +60,15 @@
    "possessive-agrees+possessive-agrees": 2,
    "possessive-agrees+prep-object": 1
   },
-  "scripture_read": 49795,
-  "scripture_resolved": 46813
+  "scripture_read": 49766,
+  "scripture_resolved": 46789
  },
  "scripture": {
   "rules": "fathers_scripture.py: note/<map> from a footnote, refs/<map> from a printed bracketed reference; map = the edition's measured OT numbering (fathers_numbering.py, data/fathers/numbering.json): vulgate, brenton (the Septuagint's), bhs (the Hebrew's) or kjv (the English), and nt; +content where an edition that mixes numberings was read by the father's own words; +bracket where the editor printed both chapters (\"20 (21), 13\") and the pair was read in the one order that lands, or in his measured order (`bracket`); +ocr-twin where Job/John was read as its twin. The Septuagint is read in Swete's numbering (Isa 9, Jer 32, Mal 4), mapped to Brenton's",
   "file": "build/fathers/scripture-links.jsonl (gitignored; rebuilt)",
-  "rows": 13261,
-  "numbering_sha256": "c972e262616fe9faaf5e4855505e52028da2c8fa69a719183d1018f8d46ad406",
-  "sha256": "18a691f25adda0911cc2dce30b73ade5df15ca4f35a255a50665fa48f747024f"
+  "rows": 13262,
+  "numbering_sha256": "cd7919508c2a292462d7e2cc14e4a370232f3160e8364a98e08c2116b23ed05a",
+  "sha256": "c1eeaf43ee2820f756f44fbf08b73634660346a45c2fd40e1c4c5850b0d548d1"
  },
  "not_claimed": [
   "A Greek word's number is the NT's reading of the same written form; the fathers' own senses are not read.",
@@ -2123,7 +2123,7 @@
     "proper-lower+possessive-agrees+prep-object": 1
    },
    "scripture": {
-    "read": 1157,
+    "read": 1158,
     "resolved": 1069,
     "resolved_by_rule": {
      "note/kjv": 3,
@@ -2131,7 +2131,7 @@
      "note/vulgate": 455
     },
     "unresolved_by_why": {
-     "a book outside the KJV": 43,
+     "a book outside the KJV": 44,
      "cites a whole chapter, not a verse": 29,
      "no such verse in any numbering (vulgate, english, hebrew)": 6,
      "no such verse in the KJV (an OCR digit?)": 8,
@@ -2144,7 +2144,7 @@
      "vulgate": 455
     }
    },
-   "tags_sha256": "de2077f7010f360438610e81906d264768aaa749bb628772d6b7f466a7c4fc47"
+   "tags_sha256": "4053cb6575d6b1c54e00cdd4a5adbd0d821d817da414ad1accd1e57edc3627f3"
   },
   "augustine-de-coniugiis-adulterinis-lat": {
    "key": "lewis-short",
@@ -6328,17 +6328,17 @@
     "si-quis": 1
    },
    "scripture": {
-    "read": 11,
-    "resolved": 11,
+    "read": 9,
+    "resolved": 9,
     "resolved_by_rule": {
-     "note/nt": 11
+     "note/nt": 9
     },
     "unresolved_by_why": {},
     "alt_target": 0,
     "numbering_undecided": 0,
     "ot_by_numbering": {}
    },
-   "tags_sha256": "9c6e7dc4d0ecd6847f2d8cfbc7a4262daa8b38b25ef7e1bbb05587d42fe13cda"
+   "tags_sha256": "42bd2abab544988f320f504bf1a97828c15957870b0a91223470e3d86b66f850"
   },
   "sedulius-opus-paschale-lat": {
    "key": "lewis-short",
@@ -6912,28 +6912,26 @@
     "rare-entry+si-quis": 1
    },
    "scripture": {
-    "read": 1915,
-    "resolved": 1865,
+    "read": 1891,
+    "resolved": 1846,
     "resolved_by_rule": {
-     "note/kjv": 2,
-     "note/nt": 1057,
-     "note/vulgate": 806
+     "note/nt": 1046,
+     "note/vulgate": 800
     },
     "unresolved_by_why": {
      "a book outside the KJV": 2,
      "cites a whole chapter, not a verse": 6,
-     "no such verse in any numbering (vulgate, english, hebrew)": 19,
-     "no such verse in the KJV (an OCR digit?)": 21,
+     "no such verse in any numbering (vulgate, english, hebrew)": 17,
+     "no such verse in the KJV (an OCR digit?)": 18,
      "the Song of the Three Children, a Greek addition; the KJV prints it as Apocrypha": 2
     },
     "alt_target": 102,
     "numbering_undecided": 2,
     "ot_by_numbering": {
-     "english": 2,
-     "vulgate": 806
+     "vulgate": 800
     }
    },
-   "tags_sha256": "699ec835e1781005464500bca7653d926ffeaa34b624482fb0d0f94e219bb570"
+   "tags_sha256": "17b9d61ccf3dac75f37dbd6d6dcf6bad10c629bfd507e35e3373ee23b64f4ed1"
   },
   "tertullian-adversus-praxean-lat": {
    "key": "lewis-short",
@@ -6962,16 +6960,16 @@
     "proper-lower+rare-inflection+rare-entry": 2
    },
    "scripture": {
-    "read": 333,
-    "resolved": 326,
+    "read": 331,
+    "resolved": 325,
     "resolved_by_rule": {
-     "note/nt": 226,
+     "note/nt": 225,
      "note/nt+ocr-twin": 1,
      "note/vulgate": 99
     },
     "unresolved_by_why": {
      "cites a whole chapter, not a verse": 1,
-     "no such verse in any numbering (vulgate, english, hebrew)": 2,
+     "no such verse in any numbering (vulgate, english, hebrew)": 1,
      "no such verse in the KJV (an OCR digit?)": 4
     },
     "alt_target": 24,
@@ -6980,7 +6978,7 @@
      "vulgate": 99
     }
    },
-   "tags_sha256": "4c6760b73e3bbaa36807a56fc16a4131deab668fd0a6f4d40c57f3e63d1cd3a1"
+   "tags_sha256": "14234b1dbbf1306b54ff6ed963f845316e9ccbc85842d29bb98082585344cc45"
   },
   "tertullian-adversus-valentinianos-lat": {
    "key": "lewis-short",
@@ -7453,11 +7451,11 @@
     "rare-entry+si-quis": 1
    },
    "scripture": {
-    "read": 52,
-    "resolved": 49,
+    "read": 51,
+    "resolved": 48,
     "resolved_by_rule": {
      "note/nt": 36,
-     "note/vulgate": 13
+     "note/vulgate": 12
     },
     "unresolved_by_why": {
      "cites a whole chapter, not a verse": 1,
@@ -7466,10 +7464,10 @@
     "alt_target": 1,
     "numbering_undecided": 0,
     "ot_by_numbering": {
-     "vulgate": 13
+     "vulgate": 12
     }
    },
-   "tags_sha256": "5119a67cdf6afaea6dabf5eb06cf62a7a87979115f9bc3edbbef42aa792efba2"
+   "tags_sha256": "ac3c413eb0b38a1c323af0f6aa2de796d69ba9f74466f4fe96105144f78ba9c3"
   },
   "tertullian-de-paenitentia-lat": {
    "key": "lewis-short",
@@ -7700,10 +7698,10 @@
     "idem-dem+proper-lower": 1
    },
    "scripture": {
-    "read": 418,
-    "resolved": 405,
+    "read": 417,
+    "resolved": 404,
     "resolved_by_rule": {
-     "note/nt": 309,
+     "note/nt": 308,
      "note/vulgate": 96
     },
     "unresolved_by_why": {
@@ -7718,7 +7716,7 @@
      "vulgate": 96
     }
    },
-   "tags_sha256": "4aa965595911ab554f536deff7e8728333246bf2fe094aef09bc70c12603f7e6"
+   "tags_sha256": "bcfac3367f6edb3e12bfc665b6e24b68a0a7d8ab750fc56a8572b5d64bb5fab6"
   },
   "tertullian-de-spectaculis-lat": {
    "key": "lewis-short",

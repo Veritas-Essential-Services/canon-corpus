@@ -111,7 +111,17 @@ check("'N]' is the apparatus's line marker, never a verse",
 check("... and '[17]' in brackets is still not taken for a marker: the reference stays, its chapter read",
       refs("8 Esth. 4, [17]", "grc") == ["Esth 4"])
 check("... nor a verse closing a lemma: 'Ps. 18, 6] cf.' is Ps 18:6",
-      refs("Ps. 18, 6] cf.", "lat") == ["Ps 18:6"] and refs("Ps. 18, 6 ] cf.", "lat") == ["Ps 18:6"])
+      refs("Ps. 18, 6] cf.", "lat") == ["Ps 18:6"] and refs("Ps. 18, 6 ] cf.", "lat") == ["Ps 18:6"]
+      and refs("Ps. 18,  6] cf.", "lat") == ["Ps 18:6"] and refs("Ps. 18 , 6] cf.", "lat") == ["Ps 18:6"]
+      and refs("Ps. XVIII, 6] cf.", "lat") == ["Ps 18:6"])
+check("... but a number after a verse is the next line's marker: 'Es. 1, 11, 24] Ioh.'",
+      refs("20] Es. 1, 11, 24] Ioh. 4, 23.", "lat") == ["Isa 1:11", "John 4:23"]
+      and refs("Ps. 18, 6, 9] Io. 1, 10.", "lat") == ["Ps 18:6", "John 1:10"])
+check("line runs are markers: '15-17]' (lines) and '13-217, 4]' (line 13 to page 217, line 4)",
+      refs("13] Matth. 19, 8. 15-17] Matth. 19, 4.", "lat") == ["Matt 19:8", "Matt 19:4"]
+      and refs("1] Apoc. 2, 6. 13-217, 4] cf. Iren.", "lat") == ["Rev 2:6"])
+check("... unless they follow a chapter: 'Es. 53, 2-3, 11]' is Isa 53:2-3, then line 11",
+      refs("6] Es. 53, 2-3, 11] Es. 52, 14.", "lat") == ["Isa 53:2-3", "Isa 52:14"])
 check("Sulpicius cites chapters: '5 Gen. 1. 9 Gen. 2.' is Gen 1 and line 9, not Gen 1:9",
       refs("5 Gen. 1. 9 Gen. 2. 18 Gen. 4.", "lat") == ["Gen 1", "Gen 2", "Gen 4"])
 check("... but a lined note that writes 'chapter, verse' keeps an OCR full stop's verse",
@@ -123,6 +133,9 @@ check("'et' may go back a verse; 'et 3, 4' opens a chapter",
       and refs("1 Gen. 2, 3 et 3, 4", "lat") == ["Gen 2:3", "Gen 3:4"])
 check("'2 et 3 Exod.': after 'et' the number is a verse, not a chapter, even with a book next",
       refs("Gen. 1, 2 et 3 Exod. 4, 5", "lat") == ["Gen 1:2", "Gen 1:3", "Exod 4:5"])
+check("... but '3 Esdr.' is a book: the Vulgate's 3 and 4 Esdras are the Apocrypha's 1 and 2 Esdras",
+      refs("Gen. 1, 2 et 3 Esdr. 4, 5", "lat") == ["Gen 1:2", "1Esd 4:5"]
+      and refs("20 3 Esdr. 3, 4 sqq.", "lat") == ["1Esd 3:4"] and refs("IV Esdr. 2, 1", "lat") == ["2Esd 2:1"])
 check("GCS: a spaced em-dash between entries is no range",
       refs("2 vgl. Deut. 29, 5 — 15 — 18", "grc") == ["Deut 29:5"]
       and refs("6 Vgl. Röm. 4, 17. — 8 Esth. 4, 2", "grc") == ["Rom 4:17", "Esth 4:2"])

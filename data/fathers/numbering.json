@@ -126,13 +126,13 @@
   "lat": {
    "Ps": {
     "share": {
-     "vulgate": 0.9765,
-     "hebrew": 0.0235,
+     "vulgate": 0.9775,
+     "hebrew": 0.0225,
      "english": 0.0
     },
     "votes": {
-     "existence:hebrew+english": 42,
-     "existence:vulgate": 1742,
+     "existence:hebrew+english": 40,
+     "existence:vulgate": 1741,
      "existence:vulgate+hebrew": 73
     },
     "numbering": "vulgate"
@@ -1141,13 +1141,12 @@
     "Ps": {
      "numbering": "vulgate",
      "score": {
-      "vulgate": 94.17,
-      "hebrew": 2.893,
-      "english": 2.893
+      "vulgate": 91.225,
+      "hebrew": -2.996,
+      "english": -2.996
      },
      "votes": {
-      "existence:hebrew+english": 2,
-      "existence:vulgate": 32
+      "existence:vulgate": 31
      }
     },
     "Jer": {
