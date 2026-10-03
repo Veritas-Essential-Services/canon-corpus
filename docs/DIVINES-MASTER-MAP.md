@@ -6982,6 +6982,14 @@ Shelf: `pipeline/chodzko_shelf.json` (2026-10-02; added at the coordinator's rel
 |---|---|---|
 | Fairy Tales of the Slav Peasants and Herdsmen | have | PG 25555, `chodzko-fairy-tales-of-the-slav-peasants` (1390 units) |
 
+## Leonard A. Magnus, tr.
+
+Shelf: `pipeline/magnus_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Russian folk tales from Afanasyev, translated direct from the Russian; cut by tale, with his notes and glossary. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Russian Folk-Tales | have | PG 62509, `magnus-russian-folk-tales` (2830 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
