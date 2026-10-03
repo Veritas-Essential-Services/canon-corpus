@@ -1926,3 +1926,12 @@ Slugs `denney-*`.
 ## Note on four round 11 shelves (2026-10-03)
 
 The George Smeaton, Hugh Martin, John Kennedy (Dingwall) and Thomas M'Crie shelves were also added on PR #14, which owns them. PR #14 reconciled both versions in 400f0b9, so the relay branch no longer carries these four shelf files. The entries above record what lane A found.
+
+## Alexander Whyte (round 12, my pick, 2026-10-03)
+
+Slugs `whyte-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Lord, Teach Us to Pray; Jacob Behmen; Santa Teresa | have-clean | CCEL (Hodder 1922; Oliphant Anderson & Ferrier) |
+| Bible Characters | not yet | IA, not searched |

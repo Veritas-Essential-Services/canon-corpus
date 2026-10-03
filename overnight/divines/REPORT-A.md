@@ -556,3 +556,6 @@
 ## 2026-10-03 05:47 CDT — four round 11 shelves handed to PR #14
 - Removed `george-smeaton`, `hugh-martin`, `john-kennedy-dingwall`, `thomas-mccrie` shelf files: PR #14 owns them and reconciled them in 400f0b9; checked that every source id of this branch's versions is on #14.
 - Martin's Jonah corrected to the third edition of 1880 (read from the title page OCR).
+
+## 2026-10-03 05:51 CDT — alexander-whyte done
+- `pipeline/alexander-whyte_shelf.json`: 3 CCEL texts, print sources Hodder 1922 and Oliphant Anderson & Ferrier. `--verify --record`: 0 mismatched. 0 uids minted.
