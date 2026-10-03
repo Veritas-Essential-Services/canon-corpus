@@ -1,0 +1,46 @@
+{
+ "_about": "The Tablet (Picture) of Cebes in English: Kenneth Sylvan Guthrie's Greek Pilgrim's Progress (Comparative Literature Press, 1910; from the Teubner text), raw IA OCR.",
+ "_name_words": [
+  "cebes",
+  "kebes",
+  "tablet",
+  "tabula",
+  "picture"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cebes-guthrie-1910": [
+   "greekpilgrimspro00cebeuoft",
+   "The Greek Pilgrim's Progress, generally known as the Picture (Comparative Literature Press, 1910)",
+   "tr. Kenneth Sylvan Guthrie"
+  ]
+ },
+ "_surname": [
+  "cebes",
+  "kebes"
+ ],
+ "_excluded": {
+  "John Healey, Epictetus his Manuall and Cebes his Table (1610)": "refused: EEBO scan OCR 0.60",
+  "The Tablature of Cebes (1750); The Picture of Human Life (1777)": "refused: ECCO scans OCR 0.66 and 0.62",
+  "Tabula (Greek with English, IA tabula00cebe)": "refused: OCR 0.53, Greek facing"
+ },
+ "_translators": {
+  "cebes-guthrie-1910": "Kenneth Sylvan Guthrie"
+ },
+ "_checks": {
+  "cebes-guthrie-1910": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "kebes",
+   "translator_claimed": "Kenneth Sylvan Guthrie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "[1910]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
