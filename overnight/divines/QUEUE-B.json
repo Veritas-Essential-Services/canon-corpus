@@ -444,6 +444,14 @@
    "started": "2026-10-03T00:41:15-05:00",
    "finished": "2026-10-03T00:45:29-05:00",
    "notes": "both carry _rights_checked reasons (later impression; no printed date)"
+  },
+  {
+   "id": "review-round-7-and-rouse",
+   "status": "done",
+   "scope": "reviewer notes on 57770df..7f33a76; Rouse's Lucretius 1924; fetch_shelf --help",
+   "started": "2026-10-03T00:45:29-05:00",
+   "finished": "2026-10-03T00:49:59-05:00",
+   "notes": "main is already merged into the relay branch (97b7b5e is an ancestor); structure_test gives 64 on both main and this branch (the 87 figure matches no branch checked; PR #7 has more)"
   }
  ]
 }

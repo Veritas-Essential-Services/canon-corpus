@@ -251,3 +251,10 @@
 - Firth's Pliny, Second Series, Books VI-X (DLI scan, OCR 0.93): Walter Scott imprint, no printed date; companion of the First Series Gutenberg clears (PG 3234). Taken with the reason in `_rights_checked`; a printed date is still wanted.
 - Still missing: Greek Tragic Theatre vol. II, Frazer's Pausanias vol. I, Hawkins's Claudian vol. 2, Phillimore vol. 2.
 - The session stalled from about 22:25 to 00:40 CDT (tool calls refused while the safety check was rate-limited); nothing was lost.
+
+## 2026-10-03 00:49 CDT — Review round 7, and Rouse's Lucretius
+- Rouse's Loeb Lucretius from a 1924 first printing (IA, OCR 0.93; MCMXXIV title page, no reprint line, nothing later than 1921 in the front matter). Latin facing.
+- Reviewer notes: aristotle-ross-v09, Bennett's Horace and Firth's Pliny listed in DIGEST-B as decisions for Adam; rows for Way's Aeschylus II-III and Martin's Horace say their year is the title page's (IA records 1906 and 1864); rows for Way's and Worsley's Iliad vol. I and Martin's Horace say how identity was confirmed.
+- fetch_shelf.py: `--help`/`-h` print the usage; a missing shelf name gets a plain error. 35 fetch_shelf tests pass.
+- Not done, and why: merging main into claude/armarium-divines is a no-op (main's head 97b7b5e is already an ancestor); `tests/structure_test.py` reports 64 passed on this branch, and main's copy of the file is identical.
+- Checked and not taken: Foster's Livy vol. 2 and King's Tusculans on new uploads, both later revised printings (1939, 1945).

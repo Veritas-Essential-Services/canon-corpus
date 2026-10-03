@@ -2162,8 +2162,9 @@ Shelf: `pipeline/lucretius_shelf.json`. Munro (prose, vol. 3 of his edition) and
 | De Rerum Natura | William Ellery Leonard | `lucretius-perseus-leonard-de-rerum-natura` | have (Perseus TEI `phi0550.phi001.perseus-eng1`; markup CC BY-SA 4.0) |
 | The Nature of Things: a didactic poem, vol. I (London 1805) | John Mason Good | `lucretius-good-1805-v1` | have-raw (IA `natureofthingsdi01lucr`) |
 | The Nature of Things: a didactic poem, vol. II (London 1805) | John Mason Good | `lucretius-good-1805-v2` | have-raw (IA `natureofthingsdi02lucr`) |
+| Lucretius, De Rerum Natura, with an English translation (Loeb Classical Library; London: Heinemann, New York: Putnam, 1924; Latin facing) | W. H. D. Rouse | `lucretius-rouse-loeb-1924` | have-raw (IA `text-lucretius-rouse`) |
 
-Pending (wishlist): Rouse's Loeb (1924); only 1953 and 1959 printings found on IA, which follow the 1937 revision, so not taken.
+Pending (wishlist): none. Rouse's Loeb is held above from a 1924 first printing (IA `text-lucretius-rouse`); the 1953 and 1959 printings follow the 1937 revision and were not taken.
 
 Excluded: `in.ernet.dli.2015.96329` (empty text layer).
 

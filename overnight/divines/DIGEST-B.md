@@ -54,6 +54,7 @@
 - **Babbitt's Moralia vols. 1-2 (1927-28):** shelved here as US PD by date. PR #7's notes exclude "Moralia (Babbitt)" for copyright, probably for the later volumes (1931-), which are not shelved here. Confirm the line.
 - **Bilingual Loebs:** Latin-facing Loebs of 1930 or earlier are now taken (Statius, Quintilian, Ausonius, Frontinus), because Latin OCR is legible. Greek-facing Loebs are still held back as pending, because their Greek OCR is junk (Paton, Edmonds, Mair, Sandys, Hicks, Cary's Dio). Keep that line?
 - **More US-only PD:** several 1913-1930 Loebs and MacKenna's Plotinus are PD in the US by publication date. In life+70 countries each translator's death date decides; not checked per translator.
+- **Later impressions and undated scans, taken on stated evidence (overrule any of them):** `aristotle-ross-v09` is a physical 1931 impression of the 1925 Oxford volume (a photographic reprint of the PD text; the impression itself is dated 1931). `horace-bennett-loeb-odes` is a later Loeb impression (post-1930 series editors on the half-title) of the 1914 text, with no revision notice. `pliny-younger-firth-letters-2` prints no date at all; it was taken as the companion of the First Series that Gutenberg clears. Each reason is in the shelf's `_rights_checked`. Keep or drop?
 - **Unassigned:** Josephus (Whiston, PG 2846-2850) and Prudentius (Pope, PG 14959) are on no lane's shelf. Lane B left them alone, since they may belong to lane A.
 
 ## Defects
@@ -92,4 +93,5 @@
 - **Homer's Victorian translators (22:08):** Morris, Palmer, Worsley, Conington, Newman, and Way's Iliad and Odyssey: ten volumes, so the Homer shelf now spans Chapman to Murray.
 - **Satirists and comedy (22:13):** three more Juvenals (Madan, Badham, Hodgson), Hickie's and Mitchell's Aristophanes, Mair's Hesiod, Hallard's Theocritus, and Taylor's Pythagorean fragments.
 - **Horace, Catullus, Claudian (00:41):** three more Horaces (Martin, Bulwer-Lytton, Gladstone), Lamb's Catullus, and two Claudian translators (Strutt, Howard).
-- **Two wishlist volumes found (00:47):** Bennett's Loeb Horace and Firth's second Pliny volume, both on Indian digital-library scans. Each was taken on stated evidence rather than a clean date, and the reasons are in the shelf for you to overrule: the Bennett is a later printing of the 1914 text, and the Firth scan prints no year.
+- **Two wishlist volumes found (00:45):** Bennett's Loeb Horace and Firth's second Pliny volume, both on Indian digital-library scans. Each was taken on stated evidence rather than a clean date, and the reasons are in the shelf for you to overrule: the Bennett is a later printing of the 1914 text, and the Firth scan prints no year.
+- **Rouse's Lucretius (00:49):** the 1924 Loeb, from a true first printing. Also the reviewer's round-7 fixes and a `fetch_shelf.py --help` fix.
