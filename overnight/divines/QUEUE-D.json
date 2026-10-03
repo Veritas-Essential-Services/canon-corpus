@@ -1353,8 +1353,10 @@
     {
       "id": "mackenzie",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — myths, legends and fairy tales retold: mackenzie; no minting",
-      "status": "running",
-      "started": "2026-10-03T01:52:02-05:00"
+      "status": "done",
+      "started": "2026-10-03T01:52:02-05:00",
+      "finished": "2026-10-03T01:55:55-05:00",
+      "notes": "4/4 fetched (Gutenberg 10089, 16653, 47228, 67344), 8,194 units, 0 ~2 ids."
     },
     {
       "id": "stephens",

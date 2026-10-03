@@ -622,3 +622,6 @@
 
 ## 2026-10-03 01:55 CDT — hearn: done
 - 6/6 fetched (Gutenberg 16261, 55473, 1210, 15320, 34215, 8128), 3,958 units, 0 ~2 ids.
+
+## 2026-10-03 01:55 CDT — mackenzie: done
+- 4/4 fetched (Gutenberg 10089, 16653, 47228, 67344), 8,194 units, 0 ~2 ids.

@@ -6720,6 +6720,17 @@ Shelf: `pipeline/hearn_shelf.json` (2026-10-02; added at the coordinator's relay
 | Shadowings | have | PG 34215, `hearn-shadowings` (1090 units) |
 | In Ghostly Japan | have | PG 8128, `hearn-in-ghostly-japan` (627 units) |
 
+## Donald A. Mackenzie
+
+Shelf: `pipeline/mackenzie_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Highland legends in verse, and the myths of Babylonia, India, China and Japan retold; cut by poem or chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Elves and Heroes | have | PG 10089, `mackenzie-elves-and-heroes` (310 units) |
+| Myths of Babylonia and Assyria | have | PG 16653, `mackenzie-myths-of-babylonia-and-assyria` (2109 units) |
+| Indian Myth and Legend | have | PG 47228, `mackenzie-indian-myth-and-legend` (3748 units) |
+| Myths of China and Japan | have | PG 67344, `mackenzie-myths-of-china-and-japan` (2027 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
