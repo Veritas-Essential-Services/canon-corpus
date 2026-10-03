@@ -2625,6 +2625,35 @@ DOUAY_ROWS = {
     # in the slot of 6:7 and leaves 6:37 empty; the Clementine's 6:7 ("lingua
     # ipsorum polita") has no English here.
     "Bar.6.7": (["Bar.6.37"], "They shall not pity the widow"),
+    # This file runs a verse's last words into the verse before and leaves the
+    # last verse of the chapter empty (Isa 46:13, 2 Sam 13:39, Ps 150:6 have no
+    # English here; their words close 46:11, 13:38 and 150:5).
+    "Isa.46.11": (["Isa.46.11", "Isa.46.12"], "Hear me, O ye hardhearted"),
+    "Isa.46.12": (["Isa.46.13"], "I have brought my justice near"),
+    "2Sam.13.38": (["2Sam.13.38", "2Sam.13.39"], "king David ceased to pursue"),
+    "Ps.150.5": (["Ps.150.5", "Ps.150.6"], "let every spirit praise the Lord"),
+    # The Clementine's Sir 29:16-17 ("Super scutum potentis / et super
+    # lanceam") is one verse here, so every later verse reads the Clementine's
+    # next, through 29:34 = 29:35 ("Gravia haec"); 29:35 is empty.
+    "Sir.29.16": (["Sir.29.16", "Sir.29.17"], "better than the spear"),
+    "Sir.29.17": (["Sir.29.18"], "It shall fight for thee"),
+    "Sir.29.18": (["Sir.29.19"], "A good man is surety"),
+    "Sir.29.19": (["Sir.29.20"], "Forget not the kindness of"),
+    "Sir.29.20": (["Sir.29.21"], "The sinner and the unclean"),
+    "Sir.29.21": (["Sir.29.22"], "A sinner attributeth to himself"),
+    "Sir.29.22": (["Sir.29.23"], "A man is surety for"),
+    "Sir.29.23": (["Sir.29.24"], "Evil suretyship hath undone many"),
+    "Sir.29.24": (["Sir.29.25"], "It hath made powerful men"),
+    "Sir.29.25": (["Sir.29.26"], "A sinner that transgresseth the"),
+    "Sir.29.26": (["Sir.29.27"], "Recover thy neighbour according to"),
+    "Sir.29.27": (["Sir.29.28"], "The chief thing for man's"),
+    "Sir.29.28": (["Sir.29.29"], "Better is the poor man's"),
+    "Sir.29.29": (["Sir.29.30"], "Be contented with little instead"),
+    "Sir.29.30": (["Sir.29.31"], "It is a miserable life"),
+    "Sir.29.31": (["Sir.29.32"], "He shall entertain and feed"),
+    "Sir.29.32": (["Sir.29.33"], "Go, stranger, and furnish the"),
+    "Sir.29.33": (["Sir.29.34"], "Give place to the honourable"),
+    "Sir.29.34": (["Sir.29.35"], "These things are grievous to"),
 }
 
 
