@@ -1272,6 +1272,10 @@ Shelf: `pipeline/herodotus_shelf.json`. Macaulay complete across two shelves (vo
 | Herodotus: a New and Literal Version from the Text of Baehr (Harper, 1873) | Henry Cary | `herodotus-cary` | have-raw (IA `herodotusnewlite0000hero`) |
 | The History of Herodotus, translated from the Greek (London, 1737), vol. 1 (John Adams's copy) | Isaac Littlebury | `herodotus-littlebury-1737-v1` | have-raw (IA `historyofherodot01hero`) |
 | The History of Herodotus, translated from the Greek (London, 1737), vol. 2 (John Adams's copy) | Isaac Littlebury | `herodotus-littlebury-1737-v2` | have-raw (IA `historyofherodot02hero`) |
+| Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. I | William Beloe | `herodotus-beloe-1821-v1` | have-raw (IA `india.history.resource.86416`) |
+| Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. II | William Beloe | `herodotus-beloe-1821-v2` | have-raw (IA `india.history.resource.86417`) |
+| Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. III | William Beloe | `herodotus-beloe-1821-v3` | have-raw (IA `india.history.resource.86418`) |
+| Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. IV | William Beloe | `herodotus-beloe-1821-v4` | have-raw (IA `india.history.resource.86419`) |
 
 Pending (wishlist): none here: Godley's Loeb (1920-25) is on PR #7 as Perseus TEI.
 
