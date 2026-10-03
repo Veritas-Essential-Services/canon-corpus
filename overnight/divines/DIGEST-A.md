@@ -271,6 +271,7 @@ Round 13 was done by 06:48 CDT on 3 October. Round 14 turns to Victorian Anglica
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
 |---|---|---|---|---|---|
 | Ralph Wardlaw | ralph-wardlaw_shelf.json | none | 11 (Systematic Theology, 3 vols 1856-57; Christian Ethics 1852; Atonement 1843; Socinian Controversy, catalogued 1815; Romans, 3 vols 1861; Ecclesiastes, 2 vols 1821) | none | none |
+| James Alexander Haldane | james-haldane_shelf.json | none | 5 (Social Worship 1805; Man's Responsibility 1842; Galatians 1848; Hebrews 1860; Atonement, 3rd ed. 1862) | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

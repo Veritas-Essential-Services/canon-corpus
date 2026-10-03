@@ -2150,6 +2150,15 @@ Slugs `wardlaw-*`.
 |---|---|---|
 | Systematic Theology, 3 vols (1856-57); Christian Ethics (1852); Discourses on the Atonement (1843); Socinian Controversy (Andover, c.1815); Lectures on Romans, 3 vols (1861); Lectures on Ecclesiastes, 2 vols (1821) | have-ocr | IA, OCR 97-99% |
 | On Miracles (1852); Lectures on Proverbs (1869) | alternate | IA |
+
+## James Alexander Haldane (round 14, my pick, 2026-10-03)
+
+Slugs `jahaldane-*` (Robert Haldane has his own shelf).
+
+| Work | Status | Where |
+|---|---|---|
+| Man's Responsibility (1842); Galatians (1848); Notes on Hebrews (1860); The Doctrine of the Atonement (3rd ed., 1862) | have-ocr | IA, OCR 97-99%; IA catalogues Galatians and Hebrews as 2002, but their title pages show the originals |
+| A View of the Social Worship of the First Christians (1805) | have-raw | IA, OCR 83.6% (long s) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

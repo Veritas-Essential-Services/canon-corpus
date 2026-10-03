@@ -655,3 +655,6 @@
 
 ## 2026-10-03 07:13 CDT — ralph-wardlaw done
 - `pipeline/ralph-wardlaw_shelf.json`: 11 IA volumes, title pages read; Ecclesiastes vol. 2 is a "0000"-style id, an 1821 original (`_rights_checked`). `--verify --record`: 0 mismatched. OCR 98.8%. 0 uids minted.
+
+## 2026-10-03 07:13 CDT — james-haldane done
+- `pipeline/james-haldane_shelf.json`: 5 IA volumes, title pages read; two IA catalogue dates (2002) contradicted by the title pages, one "0000"-style id, all recorded in `_rights_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
