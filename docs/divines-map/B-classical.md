@@ -1040,6 +1040,7 @@ Shelf: `pipeline/juvenal_shelf.json`. Evans's literal prose with Gifford's verse
 | The Satires of Juvenal translated into English Verse (London: Longman and others, 1814) | Charles Badham | `juvenal-badham-1814` | have-raw (IA `satiresofjuvenal00ju`) |
 | The Satires of Juvenal, translated and illustrated (London: Payne and Mackinlay, 1807) | Francis Hodgson | `juvenal-hodgson-1807` | have-raw (IA `b28269743`) |
 | The Satires of Persius, with a translation of the Epodes of Horace by the same (London: Chas. Reynell, 1841) | Charlton Byam Wollaston | `persius-wollaston-1841` | have-raw (IA `satirespersius00wollgoog`) |
+| Thirteen Satires of Juvenal translated into English, new and revised edition (Macmillan, 1902) | Alexander Leeper | `juvenal-leeper-1902` | have-raw (IA `cu31924009519681`) |
 
 
 ## Plautus and Terence

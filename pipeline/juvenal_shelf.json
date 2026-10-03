@@ -49,6 +49,11 @@
    "satirespersius00wollgoog",
    "The Satires of Persius, with a translation of the Epodes of Horace by the same (London: Chas. Reynell, 1841)",
    "tr. Charlton Byam Wollaston"
+  ],
+  "juvenal-leeper-1902": [
+   "cu31924009519681",
+   "Thirteen Satires of Juvenal translated into English, new and revised edition (Macmillan, 1902)",
+   "tr. Alexander Leeper"
   ]
  },
  "_cross_ref": {
@@ -71,7 +76,8 @@
   "juvenal-persius-madan-1814": "M. Madan",
   "juvenal-badham-1814": "Charles Badham",
   "juvenal-hodgson-1807": "Francis Hodgson",
-  "persius-wollaston-1841": "Wollaston"
+  "persius-wollaston-1841": "Wollaston",
+  "juvenal-leeper-1902": "Leeper"
  },
  "_checks": {
   "juvenal-persius-evans-gifford": {
@@ -175,6 +181,19 @@
    "ia_rights": "ok: published 1841",
    "ia_date": "1841",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "juvenal-leeper-1902": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "juvenal",
+   "translator_claimed": "Leeper",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
