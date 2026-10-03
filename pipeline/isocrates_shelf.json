@@ -20,7 +20,7 @@
   "isocrates"
  ],
  "_translators": {
-  "isocrates-freese-v1": "freese"
+  "isocrates-freese-v1": "J. H. Freese"
  },
  "_checks": {
   "isocrates-freese-v1": {
@@ -28,7 +28,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "isocrates",
-   "translator_claimed": "freese",
+   "translator_claimed": "J. H. Freese",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1894",

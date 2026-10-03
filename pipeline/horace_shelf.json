@@ -52,11 +52,11 @@
   "horatius"
  ],
  "_translators": {
-  "horace-conington-odes": "conington",
-  "horace-conington-satires-epistles": "conington",
-  "horace-field-sabine-farm": "eugene",
-  "horace-fairclough-satires-epistles": "fairclough",
-  "horace-smart-buckley-1869": "smart"
+  "horace-conington-odes": "John Conington",
+  "horace-conington-satires-epistles": "John Conington",
+  "horace-field-sabine-farm": "Roswell Martin Field",
+  "horace-fairclough-satires-epistles": "H. Rushton Fairclough",
+  "horace-smart-buckley-1869": "C. Smart"
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')"
@@ -67,7 +67,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "horace",
-   "translator_claimed": "conington",
+   "translator_claimed": "John Conington",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -79,7 +79,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "horace",
-   "translator_claimed": "conington",
+   "translator_claimed": "John Conington",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -100,7 +100,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "horace",
-   "translator_claimed": "eugene",
+   "translator_claimed": "Roswell Martin Field",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -112,7 +112,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "horace",
-   "translator_claimed": "fairclough",
+   "translator_claimed": "H. Rushton Fairclough",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1926",
@@ -125,7 +125,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "horace",
-   "translator_claimed": "smart",
+   "translator_claimed": "C. Smart",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1869",

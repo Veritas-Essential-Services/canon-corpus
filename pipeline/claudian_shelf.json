@@ -31,9 +31,9 @@
   "claudianus"
  ],
  "_translators": {
-  "claudian-platnauer-v1": "platnauer",
-  "claudian-platnauer-v2": "platnauer",
-  "claudian-hawkins-v1": "hawkins"
+  "claudian-platnauer-v1": "Maurice Platnauer",
+  "claudian-platnauer-v2": "Maurice Platnauer",
+  "claudian-hawkins-v1": "A. Hawkins"
  },
  "_checks": {
   "claudian-platnauer-v1": {
@@ -41,7 +41,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "claudian",
-   "translator_claimed": "platnauer",
+   "translator_claimed": "Maurice Platnauer",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -53,7 +53,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "claudian",
-   "translator_claimed": "platnauer",
+   "translator_claimed": "Maurice Platnauer",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -65,7 +65,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "claudian",
-   "translator_claimed": "hawkins",
+   "translator_claimed": "A. Hawkins",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1817",

@@ -28,8 +28,8 @@
   "diodorus"
  ],
  "_translators": {
-  "diodorus-booth-v1": "booth",
-  "diodorus-booth-v2": "booth"
+  "diodorus-booth-v1": "G. Booth",
+  "diodorus-booth-v2": "G. Booth"
  },
  "_checks": {
   "diodorus-booth-v1": {
@@ -37,7 +37,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "diodorus",
-   "translator_claimed": "booth",
+   "translator_claimed": "G. Booth",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1814",
@@ -50,7 +50,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "diodorus",
-   "translator_claimed": "booth",
+   "translator_claimed": "G. Booth",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1814",

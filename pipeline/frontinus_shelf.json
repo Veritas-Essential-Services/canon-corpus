@@ -18,7 +18,7 @@
   "frontinus"
  ],
  "_translators": {
-  "frontinus-bennett": "bennett"
+  "frontinus-bennett": "Charles E. Bennett"
  },
  "_checks": {
   "frontinus-bennett": {
@@ -26,7 +26,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "frontinus",
-   "translator_claimed": "bennett",
+   "translator_claimed": "Charles E. Bennett",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1925",

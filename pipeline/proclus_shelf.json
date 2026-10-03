@@ -33,10 +33,10 @@
   "proclus"
  ],
  "_translators": {
-  "proclus-taylor-euclid-v1": "taylor",
-  "proclus-taylor-euclid-v2": "taylor",
-  "proclus-taylor-theology-v1": "taylor",
-  "proclus-taylor-theology-v2": "taylor"
+  "proclus-taylor-euclid-v1": "Thomas Taylor",
+  "proclus-taylor-euclid-v2": "Thomas Taylor",
+  "proclus-taylor-theology-v1": "Thomas Taylor",
+  "proclus-taylor-theology-v2": "Thomas Taylor"
  },
  "_checks": {
   "proclus-taylor-euclid-v1": {
@@ -44,7 +44,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "proclus",
-   "translator_claimed": "taylor",
+   "translator_claimed": "Thomas Taylor",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -56,7 +56,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "proclus",
-   "translator_claimed": "taylor",
+   "translator_claimed": "Thomas Taylor",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -68,7 +68,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "proclus",
-   "translator_claimed": "taylor",
+   "translator_claimed": "Thomas Taylor",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -80,7 +80,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "proclus",
-   "translator_claimed": "taylor",
+   "translator_claimed": "Thomas Taylor",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

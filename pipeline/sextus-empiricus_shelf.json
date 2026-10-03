@@ -19,7 +19,7 @@
   "empiricus"
  ],
  "_translators": {
-  "sextus-empiricus-patrick": "patrick"
+  "sextus-empiricus-patrick": "mary mills patrick"
  },
  "_checks": {
   "sextus-empiricus-patrick": {
@@ -27,7 +27,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "sextus",
-   "translator_claimed": "patrick",
+   "translator_claimed": "mary mills patrick",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

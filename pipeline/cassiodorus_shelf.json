@@ -17,7 +17,7 @@
   "cassiodorus"
  ],
  "_translators": {
-  "cassiodorus-hodgkin-letters": "hodgkin"
+  "cassiodorus-hodgkin-letters": "Thomas Hodgkin"
  },
  "_checks": {
   "cassiodorus-hodgkin-letters": {
@@ -25,7 +25,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "cassiodorus",
-   "translator_claimed": "hodgkin",
+   "translator_claimed": "Thomas Hodgkin",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

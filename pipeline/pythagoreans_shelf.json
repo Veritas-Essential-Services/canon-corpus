@@ -23,7 +23,7 @@
   "archytas"
  ],
  "_translators": {
-  "ocellus-taylor": "taylor"
+  "ocellus-taylor": "Thomas Taylor"
  },
  "_checks": {
   "ocellus-taylor": {
@@ -31,7 +31,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "ocellus",
-   "translator_claimed": "taylor",
+   "translator_claimed": "Thomas Taylor",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

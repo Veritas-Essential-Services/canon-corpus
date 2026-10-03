@@ -42,11 +42,11 @@
   "apuleius"
  ],
  "_translators": {
-  "apuleius-adlington-golden-asse": "adlington",
-  "apuleius-butler-apologia-florida": "butler",
-  "apuleius-adlington-gaselee": "adlington",
-  "apuleius-butler-v1": "butler",
-  "apuleius-butler-v2": "butler"
+  "apuleius-adlington-golden-asse": "William Adlington",
+  "apuleius-butler-apologia-florida": "harold edgeworth butler",
+  "apuleius-adlington-gaselee": "William Adlington",
+  "apuleius-butler-v1": "H. E. Butler",
+  "apuleius-butler-v2": "H. E. Butler"
  },
  "_checks": {
   "apuleius-adlington-golden-asse": {
@@ -54,7 +54,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "apuleius",
-   "translator_claimed": "adlington",
+   "translator_claimed": "William Adlington",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -66,7 +66,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "apuleius",
-   "translator_claimed": "butler",
+   "translator_claimed": "harold edgeworth butler",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -78,7 +78,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "apuleius",
-   "translator_claimed": "adlington",
+   "translator_claimed": "William Adlington",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1922",
@@ -91,7 +91,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "apuleius",
-   "translator_claimed": "butler",
+   "translator_claimed": "H. E. Butler",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1910",
@@ -104,7 +104,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "apuleius",
-   "translator_claimed": "butler",
+   "translator_claimed": "H. E. Butler",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1910",

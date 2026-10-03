@@ -44,11 +44,11 @@
   "cesar"
  ],
  "_translators": {
-  "caesar-mcdevitte-bohn": "mcdevitte",
-  "caesar-edwards-gallic-war": "edwards",
-  "caesar-peskett-civil-wars": "peskett",
+  "caesar-mcdevitte-bohn": "W. A. McDevitte",
+  "caesar-edwards-gallic-war": "H. J. Edwards",
+  "caesar-peskett-civil-wars": "A. G. Peskett",
   "caesar-golding-1565": "golding",
-  "caesar-duncan-1837": "duncan"
+  "caesar-duncan-1837": "William Duncan"
  },
  "_checks": {
   "caesar-mcdevitte-bohn": {
@@ -56,7 +56,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "caesar",
-   "translator_claimed": "mcdevitte",
+   "translator_claimed": "W. A. McDevitte",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -68,7 +68,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "caesar",
-   "translator_claimed": "edwards",
+   "translator_claimed": "H. J. Edwards",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1917",
@@ -81,7 +81,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "caesar",
-   "translator_claimed": "peskett",
+   "translator_claimed": "A. G. Peskett",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1921",
@@ -107,7 +107,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "caesar",
-   "translator_claimed": "duncan",
+   "translator_claimed": "William Duncan",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1837",

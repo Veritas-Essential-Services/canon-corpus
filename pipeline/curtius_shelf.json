@@ -29,11 +29,9 @@
   "curcius"
  ],
  "_translators": {
-  "curtius-digby-1714-v1": "digby"
- },
- "_translator_unchecked": {
-  "curtius-brende-1553": "translator on the row (John Brende) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
-  "curtius-digby-1714-v2": "translator on the row (John Digby) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+  "curtius-digby-1714-v1": "John Digby",
+  "curtius-brende-1553": "john brende",
+  "curtius-digby-1714-v2": "john digby"
  },
  "_checks": {
   "curtius-brende-1553": {
@@ -41,8 +39,9 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "curtius",
-   "title_weak": true,
-   "identity": "title_weak",
+   "translator_claimed": "john brende",
+   "translator_in_text": false,
+   "identity": "identity_override",
    "ia_rights": "ok: published 1553",
    "ia_date": "1553",
    "ia_possible_copyright_status": null,
@@ -53,7 +52,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "curtius",
-   "translator_claimed": "digby",
+   "translator_claimed": "John Digby",
    "translator_in_text": true,
    "title_weak": true,
    "identity": "title_weak",
@@ -67,12 +66,17 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "curtius",
-   "title_weak": true,
-   "identity": "title_weak",
+   "translator_claimed": "john digby",
+   "translator_in_text": false,
+   "identity": "identity_override",
    "ia_rights": "ok: published 1714",
    "ia_date": "1714",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
+ },
+ "_identity_checked": {
+  "curtius-brende-1553": "title page read by eye: the black-letter OCR prints the translator as 'lohn Brence' (John Brende), London, Richard Tottel, 1553",
+  "curtius-digby-1714-v2": "the vol. 2 scan has no title page (it opens at Book VII); it continues vol. 1 of the same 1714 edition, whose title page and text name John Digby"
  }
 }

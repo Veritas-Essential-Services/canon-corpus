@@ -362,64 +362,64 @@
   "lucianus"
  ],
  "_translators": {
-  "lucian-fowler-v1": "fowler",
-  "lucian-fowler-v2": "fowler",
-  "lucian-fowler-v3": "fowler",
-  "lucian-fowler-v4": "fowler",
-  "lucian-francklin-trips-to-the-moon": "francklin",
-  "lucian-hickes-true-history": "hickes",
-  "lucian-francklin-1780-v1": "francklin",
-  "lucian-francklin-1780-v2": "francklin",
-  "lucian-perseus-harmon-the-ignorant-book-collector": "harmon",
-  "lucian-perseus-harmon-alexander-the-false-prophet": "harmon",
-  "lucian-perseus-harmon-anacharsis-or-athletics": "harmon",
-  "lucian-perseus-harmon-dionysus-an-introduction": "harmon",
-  "lucian-perseus-harmon-the-double-indictment": "harmon",
-  "lucian-perseus-harmon-slander-on-not-being-quick-to-put-faith": "harmon",
-  "lucian-perseus-harmon-the-downward-journey-or-the-tyrant": "harmon",
-  "lucian-perseus-smith-the-ferry": "smith",
-  "lucian-perseus-harmon-charon-or-the-inspectors": "harmon",
-  "lucian-perseus-harmon-the-hall": "harmon",
-  "lucian-perseus-harmon-on-sacrifices": "harmon",
-  "lucian-perseus-harmon-the-goddesse-of-surrye": "harmon",
-  "lucian-perseus-harmon-on-funerals": "harmon",
-  "lucian-perseus-harmon-on-salaried-posts-in-great-houses": "harmon",
-  "lucian-perseus-harmon-the-parasite-tychiades": "harmon",
-  "lucian-perseus-harmon-the-judgement-of-the-goddesses": "harmon",
-  "lucian-perseus-harmon-demonax": "harmon",
-  "lucian-perseus-harmon-amber-or-the-swan": "harmon",
-  "lucian-perseus-harmon-the-dream-or-the-cock": "harmon",
-  "lucian-perseus-smith-the-cock": "smith",
-  "lucian-perseus-harmon-heracles-an-introduction": "harmon",
-  "lucian-perseus-harmon-hippias-or-the-bath": "harmon",
-  "lucian-perseus-harmon-icaromenippus-or-the-sky-man": "harmon",
-  "lucian-perseus-harmon-essays-in-portraiture": "harmon",
-  "lucian-perseus-harmon-the-consonants-at-law-sigma-vs-tau-in-th": "harmon",
-  "lucian-perseus-harmon-zeus-catechized": "harmon",
-  "lucian-perseus-harmon-zeus-rants": "harmon",
-  "lucian-perseus-smith-zeus-the-tragedian": "smith",
-  "lucian-perseus-harmon-octogenerians": "harmon",
-  "lucian-perseus-harmon-the-fly": "harmon",
-  "lucian-perseus-harmon-menippus-or-the-descent-into-hades": "harmon",
-  "lucian-perseus-harmon-nigrinus": "harmon",
-  "lucian-perseus-harmon-my-native-land": "harmon",
-  "lucian-perseus-harmon-phalaris": "harmon",
-  "lucian-perseus-harmon-the-lover-of-lies-or-the-doubter-tychiad": "harmon",
-  "lucian-perseus-harmon-the-dead-come-to-life-or-the-fisherman": "harmon",
-  "lucian-perseus-harmon-essays-in-portraiture-defended": "harmon",
-  "lucian-perseus-harmon-prometheus": "harmon",
-  "lucian-perseus-harmon-a-professor-of-public-speaking": "harmon",
-  "lucian-perseus-harmon-the-dream-or-lucian-s-career": "harmon",
-  "lucian-perseus-smith-the-dream": "smith",
-  "lucian-perseus-harmon-the-carousal-or-the-lapiths": "harmon",
-  "lucian-perseus-harmon-timon-or-the-misanthrope": "harmon",
-  "lucian-perseus-smith-toxaris-or-friendship": "smith",
-  "lucian-perseus-harmon-a-true-story": "harmon",
-  "lucian-perseus-smith-a-true-history": "smith",
-  "lucian-perseus-harmon-philosophies-for-sale": "harmon",
-  "lucian-perseus-smith-the-sale-of-lives": "smith",
-  "lucian-perseus-smith-loukios-or-the-ass": "smith",
-  "lucian-perseus-smith-the-halcyon": "smith"
+  "lucian-fowler-v1": "H. W.",
+  "lucian-fowler-v2": "H. W.",
+  "lucian-fowler-v3": "H. W.",
+  "lucian-fowler-v4": "H. W.",
+  "lucian-francklin-trips-to-the-moon": "Thomas Francklin",
+  "lucian-hickes-true-history": "Francis Hickes",
+  "lucian-francklin-1780-v1": "Thomas Francklin",
+  "lucian-francklin-1780-v2": "Thomas Francklin",
+  "lucian-perseus-harmon-the-ignorant-book-collector": "Austin Morris Harmon",
+  "lucian-perseus-harmon-alexander-the-false-prophet": "Austin Morris Harmon",
+  "lucian-perseus-harmon-anacharsis-or-athletics": "Austin Morris Harmon",
+  "lucian-perseus-harmon-dionysus-an-introduction": "Austin Morris Harmon",
+  "lucian-perseus-harmon-the-double-indictment": "Austin Morris Harmon",
+  "lucian-perseus-harmon-slander-on-not-being-quick-to-put-faith": "Austin Morris Harmon",
+  "lucian-perseus-harmon-the-downward-journey-or-the-tyrant": "Austin Morris Harmon",
+  "lucian-perseus-smith-the-ferry": "Emily James Smith",
+  "lucian-perseus-harmon-charon-or-the-inspectors": "Austin Morris Harmon",
+  "lucian-perseus-harmon-the-hall": "Austin Morris Harmon",
+  "lucian-perseus-harmon-on-sacrifices": "Austin Morris Harmon",
+  "lucian-perseus-harmon-the-goddesse-of-surrye": "Austin Morris Harmon",
+  "lucian-perseus-harmon-on-funerals": "Austin Morris Harmon",
+  "lucian-perseus-harmon-on-salaried-posts-in-great-houses": "Austin Morris Harmon",
+  "lucian-perseus-harmon-the-parasite-tychiades": "Austin Morris Harmon",
+  "lucian-perseus-harmon-the-judgement-of-the-goddesses": "Austin Morris Harmon",
+  "lucian-perseus-harmon-demonax": "Austin Morris Harmon",
+  "lucian-perseus-harmon-amber-or-the-swan": "Austin Morris Harmon",
+  "lucian-perseus-harmon-the-dream-or-the-cock": "Austin Morris Harmon",
+  "lucian-perseus-smith-the-cock": "Emily James Smith",
+  "lucian-perseus-harmon-heracles-an-introduction": "Austin Morris Harmon",
+  "lucian-perseus-harmon-hippias-or-the-bath": "Austin Morris Harmon",
+  "lucian-perseus-harmon-icaromenippus-or-the-sky-man": "Austin Morris Harmon",
+  "lucian-perseus-harmon-essays-in-portraiture": "Austin Morris Harmon",
+  "lucian-perseus-harmon-the-consonants-at-law-sigma-vs-tau-in-th": "Austin Morris Harmon",
+  "lucian-perseus-harmon-zeus-catechized": "Austin Morris Harmon",
+  "lucian-perseus-harmon-zeus-rants": "Austin Morris Harmon",
+  "lucian-perseus-smith-zeus-the-tragedian": "Emily James Smith",
+  "lucian-perseus-harmon-octogenerians": "Austin Morris Harmon",
+  "lucian-perseus-harmon-the-fly": "Austin Morris Harmon",
+  "lucian-perseus-harmon-menippus-or-the-descent-into-hades": "Austin Morris Harmon",
+  "lucian-perseus-harmon-nigrinus": "Austin Morris Harmon",
+  "lucian-perseus-harmon-my-native-land": "Austin Morris Harmon",
+  "lucian-perseus-harmon-phalaris": "Austin Morris Harmon",
+  "lucian-perseus-harmon-the-lover-of-lies-or-the-doubter-tychiad": "Austin Morris Harmon",
+  "lucian-perseus-harmon-the-dead-come-to-life-or-the-fisherman": "Austin Morris Harmon",
+  "lucian-perseus-harmon-essays-in-portraiture-defended": "Austin Morris Harmon",
+  "lucian-perseus-harmon-prometheus": "Austin Morris Harmon",
+  "lucian-perseus-harmon-a-professor-of-public-speaking": "Austin Morris Harmon",
+  "lucian-perseus-harmon-the-dream-or-lucian-s-career": "Austin Morris Harmon",
+  "lucian-perseus-smith-the-dream": "Emily James Smith",
+  "lucian-perseus-harmon-the-carousal-or-the-lapiths": "Austin Morris Harmon",
+  "lucian-perseus-harmon-timon-or-the-misanthrope": "Austin Morris Harmon",
+  "lucian-perseus-smith-toxaris-or-friendship": "Emily James Smith",
+  "lucian-perseus-harmon-a-true-story": "Austin Morris Harmon",
+  "lucian-perseus-smith-a-true-history": "Emily James Smith",
+  "lucian-perseus-harmon-philosophies-for-sale": "Austin Morris Harmon",
+  "lucian-perseus-smith-the-sale-of-lives": "Emily James Smith",
+  "lucian-perseus-smith-loukios-or-the-ass": "Emily James Smith",
+  "lucian-perseus-smith-the-halcyon": "Emily James Smith"
  },
  "_checks": {
   "lucian-fowler-v1": {
@@ -427,7 +427,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "lucian",
-   "translator_claimed": "fowler",
+   "translator_claimed": "H. W.",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -439,7 +439,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "lucian",
-   "translator_claimed": "fowler",
+   "translator_claimed": "H. W.",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -451,7 +451,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "lucian",
-   "translator_claimed": "fowler",
+   "translator_claimed": "H. W.",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -463,7 +463,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "lucian",
-   "translator_claimed": "fowler",
+   "translator_claimed": "H. W.",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -475,7 +475,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "lucian",
-   "translator_claimed": "francklin",
+   "translator_claimed": "Thomas Francklin",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -487,7 +487,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "lucian",
-   "translator_claimed": "hickes",
+   "translator_claimed": "Francis Hickes",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -499,7 +499,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "lucian",
-   "translator_claimed": "francklin",
+   "translator_claimed": "Thomas Francklin",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1780",
@@ -512,7 +512,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "lucian",
-   "translator_claimed": "francklin",
+   "translator_claimed": "Thomas Francklin",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1780",
@@ -527,7 +527,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg028.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1921
@@ -541,7 +541,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg038.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1925
@@ -555,7 +555,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg034.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1925
@@ -569,7 +569,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg003.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1913
@@ -583,7 +583,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg026.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1921
@@ -597,9 +597,10 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg013.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
-   "rights_flag": "no year in sourceDesc: date from the shelf's rights_note only",
+   "rights_flag": "no year in sourceDesc",
+   "rights_override": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm",
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
@@ -609,7 +610,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg016.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1915
@@ -623,7 +624,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg016.perseus-eng5",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "smith",
+   "translator_checked": "Emily James Smith",
    "author_seen": "lucian",
    "source_years": [
     1892
@@ -637,7 +638,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg023.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1915
@@ -651,7 +652,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg009.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1913
@@ -665,7 +666,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg027.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1921
@@ -679,7 +680,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg041.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1925
@@ -693,7 +694,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg036.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1925
@@ -707,7 +708,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg033.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1921
@@ -721,7 +722,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg030.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1921
@@ -735,7 +736,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg032.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1921
@@ -749,7 +750,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg008.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1913
@@ -763,7 +764,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg005.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1913
@@ -777,7 +778,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg019.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1915
@@ -791,7 +792,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg019.perseus-eng5",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "smith",
+   "translator_checked": "Emily James Smith",
    "author_seen": "lucian",
    "source_years": [
     1892
@@ -805,7 +806,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg004.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1913
@@ -819,7 +820,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg002.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1913
@@ -833,7 +834,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg021.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1915
@@ -847,7 +848,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg039.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1925
@@ -861,9 +862,10 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg014.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
-   "rights_flag": "no year in sourceDesc: date from the shelf's rights_note only",
+   "rights_flag": "no year in sourceDesc",
+   "rights_override": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm",
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
@@ -873,7 +875,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg017.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1915
@@ -887,7 +889,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg018.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1915
@@ -901,7 +903,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg018.perseus-eng5",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "smith",
+   "translator_checked": "Emily James Smith",
    "author_seen": "lucian",
    "source_years": [
     1892
@@ -915,7 +917,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg011.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1913
@@ -929,7 +931,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg006.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1913
@@ -943,7 +945,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg035.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1925
@@ -957,7 +959,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg007.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1913
@@ -971,7 +973,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg010.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1913
@@ -985,7 +987,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg001.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1913
@@ -999,7 +1001,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg031.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1921
@@ -1013,7 +1015,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg025.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1921
@@ -1027,7 +1029,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg040.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1925
@@ -1041,7 +1043,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg020.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1915
@@ -1055,7 +1057,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg037.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1925
@@ -1069,7 +1071,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg029.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1921
@@ -1083,7 +1085,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg029.perseus-eng5",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "smith",
+   "translator_checked": "Emily James Smith",
    "author_seen": "lucian",
    "source_years": [
     1892
@@ -1097,9 +1099,10 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg015.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
-   "rights_flag": "no year in sourceDesc: date from the shelf's rights_note only",
+   "rights_flag": "no year in sourceDesc",
+   "rights_override": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm",
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
    "status": "kept"
@@ -1109,7 +1112,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg022.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1915
@@ -1123,7 +1126,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg044.perseus-eng5",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "smith",
+   "translator_checked": "Emily James Smith",
    "author_seen": "lucian",
    "source_years": [
     1892
@@ -1137,7 +1140,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg012.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1913
@@ -1151,7 +1154,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg012.perseus-eng5",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "smith",
+   "translator_checked": "Emily James Smith",
    "author_seen": "lucian",
    "source_years": [
     1892
@@ -1165,7 +1168,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg024.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "harmon",
+   "translator_checked": "Austin Morris Harmon",
    "author_seen": "lucian",
    "source_years": [
     1915
@@ -1179,7 +1182,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0062.tlg024.perseus-eng5",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "smith",
+   "translator_checked": "Emily James Smith",
    "author_seen": "lucian",
    "source_years": [
     1892
@@ -1193,7 +1196,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0061.tlg001.perseus-eng1",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "smith",
+   "translator_checked": "Emily James Smith",
    "author_seen": "lucian",
    "source_years": [
     1892
@@ -1207,7 +1210,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0061.tlg004.perseus-eng1",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "smith",
+   "translator_checked": "Emily James Smith",
    "author_seen": "lucian",
    "source_years": [
     1892
@@ -1220,5 +1223,10 @@
  "_held": {
   "lucian-perseus-fowler-the-cynic": "same translation as lucian-fowler-v1..v4 (PG 6327, 6585, 6829, 47242) on this shelf; Perseus TEI urn:cts:greekLit:tlg0061.tlg006.perseus-eng1 (The Cynic, tr. Henry Watson Fowler and Francis George Fowler) is not taken as a second witness (moved here on review, 2026-10-02)",
   "lucian-perseus-fowler-demosthenes-an-encomium": "same translation as lucian-fowler-v1..v4 (PG 6327, 6585, 6829, 47242) on this shelf; Perseus TEI urn:cts:greekLit:tlg0061.tlg003.perseus-eng1 (Demosthenes: an Encomium, tr. Henry Watson Fowler and Francis George Fowler) is not taken as a second witness (moved here on review, 2026-10-02)"
+ },
+ "_rights_checked": {
+  "lucian-perseus-harmon-slander-on-not-being-quick-to-put-faith": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm",
+  "lucian-perseus-harmon-the-consonants-at-law-sigma-vs-tau-in-th": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm",
+  "lucian-perseus-harmon-the-carousal-or-the-lapiths": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm"
  }
 }

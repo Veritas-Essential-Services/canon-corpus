@@ -29,8 +29,8 @@
   "euclid"
  ],
  "_translators": {
-  "hero-pneumatics-greenwood": "greenwood",
-  "ptolemy-tetrabiblos-ashmand": "ashmand"
+  "hero-pneumatics-greenwood": "Joseph George Greenwood",
+  "ptolemy-tetrabiblos-ashmand": "J. M. Ashmand"
  },
  "_checks": {
   "hero-pneumatics-greenwood": {
@@ -38,7 +38,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "hero",
-   "translator_claimed": "greenwood",
+   "translator_claimed": "Joseph George Greenwood",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -50,7 +50,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "ptolemy",
-   "translator_claimed": "ashmand",
+   "translator_claimed": "J. M. Ashmand",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

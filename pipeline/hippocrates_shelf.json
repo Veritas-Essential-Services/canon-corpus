@@ -60,13 +60,13 @@
   "hippocrates"
  ],
  "_translators": {
-  "hippocrates-adams-v1": "adams",
-  "hippocrates-adams-v2": "adams",
-  "hippocrates-perseus-jones-airs-waters-places": "jones",
-  "hippocrates-perseus-jones-nutriment": "jones",
-  "hippocrates-perseus-jones-ancient-medicine": "jones",
-  "hippocrates-perseus-jones-oath": "jones",
-  "hippocrates-perseus-jones-precepts": "jones"
+  "hippocrates-adams-v1": "Francis Adams",
+  "hippocrates-adams-v2": "Francis Adams",
+  "hippocrates-perseus-jones-airs-waters-places": "William Henry Samuel Jones",
+  "hippocrates-perseus-jones-nutriment": "William Henry Samuel Jones",
+  "hippocrates-perseus-jones-ancient-medicine": "William Henry Samuel Jones",
+  "hippocrates-perseus-jones-oath": "William Henry Samuel Jones",
+  "hippocrates-perseus-jones-precepts": "William Henry Samuel Jones"
  },
  "_checks": {
   "hippocrates-adams-v1": {
@@ -74,7 +74,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "hippocrates",
-   "translator_claimed": "adams",
+   "translator_claimed": "Francis Adams",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -86,7 +86,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "hippocrates",
-   "translator_claimed": "adams",
+   "translator_claimed": "Francis Adams",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1849",
@@ -101,7 +101,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0627.tlg002.perseus-eng4",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "jones",
+   "translator_checked": "William Henry Samuel Jones",
    "author_seen": "hippocrates",
    "source_years": [
     1923
@@ -115,7 +115,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0627.tlg046.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "jones",
+   "translator_checked": "William Henry Samuel Jones",
    "author_seen": "hippocrates",
    "source_years": [
     1923
@@ -129,7 +129,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0627.tlg001.perseus-eng4",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "jones",
+   "translator_checked": "William Henry Samuel Jones",
    "author_seen": "hippocrates",
    "source_years": [
     1923
@@ -143,7 +143,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0627.tlg013.perseus-eng5",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "jones",
+   "translator_checked": "William Henry Samuel Jones",
    "author_seen": "hippocrates",
    "source_years": [
     1923
@@ -157,7 +157,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0627.tlg051.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "jones",
+   "translator_checked": "William Henry Samuel Jones",
    "author_seen": "hippocrates",
    "source_years": [
     1923

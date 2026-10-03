@@ -28,8 +28,8 @@
   "jamblichus"
  ],
  "_translators": {
-  "iamblichus-taylor-pythagoras": "taylor",
-  "iamblichus-taylor-mysteries": "taylor"
+  "iamblichus-taylor-pythagoras": "Thomas Taylor",
+  "iamblichus-taylor-mysteries": "Thomas Taylor"
  },
  "_checks": {
   "iamblichus-taylor-pythagoras": {
@@ -37,7 +37,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "iamblichus",
-   "translator_claimed": "taylor",
+   "translator_claimed": "Thomas Taylor",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -49,7 +49,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "iamblichus",
-   "translator_claimed": "taylor",
+   "translator_claimed": "Thomas Taylor",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

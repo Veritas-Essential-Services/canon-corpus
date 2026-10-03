@@ -72,15 +72,15 @@
   "thucydides"
  ],
  "_translators": {
-  "thucydides-jowett-1881-v1": "jowett",
-  "thucydides-jowett-1881-v2": "jowett",
-  "thucydides-hobbes-1841": "hobbes",
-  "thucydides-smith-v1": "smith",
-  "thucydides-smith-v2": "smith",
-  "thucydides-smith-v3": "smith",
-  "thucydides-perseus-smith-history-of-the-peloponnesian-war": "smith",
-  "thucydides-perseus-dale-history-of-the-peloponnesian-war": "dale",
-  "thucydides-perseus-hobbes-the-history-of-the-grecian-war": "hobbes"
+  "thucydides-jowett-1881-v1": "B. Jowett",
+  "thucydides-jowett-1881-v2": "B. Jowett",
+  "thucydides-hobbes-1841": "hobbes of malmesbury",
+  "thucydides-smith-v1": "William Smith",
+  "thucydides-smith-v2": "William Smith",
+  "thucydides-smith-v3": "William Smith",
+  "thucydides-perseus-smith-history-of-the-peloponnesian-war": "Charles Foster Smith",
+  "thucydides-perseus-dale-history-of-the-peloponnesian-war": "Henry Dale",
+  "thucydides-perseus-hobbes-the-history-of-the-grecian-war": "Thomas Hobbes"
  },
  "_checks": {
   "thucydides-jowett-1881-v1": {
@@ -88,7 +88,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "thucydides",
-   "translator_claimed": "jowett",
+   "translator_claimed": "B. Jowett",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1881",
@@ -101,7 +101,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "thucydides",
-   "translator_claimed": "jowett",
+   "translator_claimed": "B. Jowett",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1881",
@@ -114,7 +114,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "thucydides",
-   "translator_claimed": "hobbes",
+   "translator_claimed": "hobbes of malmesbury",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1841",
@@ -127,7 +127,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "thucydides",
-   "translator_claimed": "smith",
+   "translator_claimed": "William Smith",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1831",
@@ -140,7 +140,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "thucydides",
-   "translator_claimed": "smith",
+   "translator_claimed": "William Smith",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1831",
@@ -153,7 +153,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "thucydides",
-   "translator_claimed": "smith",
+   "translator_claimed": "William Smith",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1831",
@@ -168,7 +168,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0003.tlg001.1st1K-eng1",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "smith",
+   "translator_checked": "Charles Foster Smith",
    "author_seen": "thucydides",
    "source_years": [
     1919,
@@ -183,7 +183,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0003.tlg001.1st1K-eng2",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "dale",
+   "translator_checked": "Henry Dale",
    "author_seen": "thucydides",
    "source_years": [
     1851
@@ -197,7 +197,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0003.tlg001.perseus-eng4",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "hobbes",
+   "translator_checked": "Thomas Hobbes",
    "author_seen": "thucydides",
    "source_years": [
     1843

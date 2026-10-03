@@ -22,8 +22,8 @@
   "propertius"
  ],
  "_translators": {
-  "propertius-butler-loeb": "butler",
-  "propertius-gantillon-bohn": "gantillon"
+  "propertius-butler-loeb": "H. E. Butler",
+  "propertius-gantillon-bohn": "P. J. F. Gantillon"
  },
  "_checks": {
   "propertius-butler-loeb": {
@@ -31,7 +31,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "propertius",
-   "translator_claimed": "butler",
+   "translator_claimed": "H. E. Butler",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1912",
@@ -44,7 +44,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "propertius",
-   "translator_claimed": "gantillon",
+   "translator_claimed": "P. J. F. Gantillon",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1895",

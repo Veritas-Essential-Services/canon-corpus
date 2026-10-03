@@ -204,3 +204,11 @@
 - Review-fix pass (coordinator's relay; the reviewer's lane B messages never reached this session, so the fixes follow lane A's and the reviewer's lane A/C findings): `_surname` on all 97 shelves; `_translators` for 741 items (each surname found as a word in its text); 67 items in `_translator_unchecked` with the reason. `fetch_shelf.py --verify --record`: `_checks` for 565 items, 0 mismatched, 0 open rights flags. `fetch_perseus.py` took the same fixes and recorded `_perseus_checks` for 243 items, 0 failed. Correction: commit 2795e4b's message says 742 and 66; the counts are 741 and 67.
 - fetch_shelf.py fix (backward compatible): multi-translator Gutenberg headers are read whole.
 - Hourly retry at 20:45: nothing recovered (Greek Tragic Theatre vol. 2 still 503; no new Frazer, Hawkins or Phillimore scans).
+
+## 2026-10-02 21:17 CDT — review round 3 and 4 fixes
+- Added Good's Lucretius (1805, 2 vols, IA raw; title page read). Removed the stale "Creech pending" exclusion.
+- Translator claims rewritten to full names on 614 items; 10 moved to `_translator_unchecked` with reasons; Curtius Brende and Digby vol. 2 claims added under `_identity_checked`.
+- fetch_perseus.py: a sourceDesc with no year is refused unless `_rights_checked`; three Harmon vol. 1 (1913) rows dated that way. `--record` no longer writes an empty `_perseus_checks` into shelves without Perseus rows.
+- fetch_shelf.py: PG `Translators?:` header, whole-word translator match.
+- Stale rows fixed: Nixon vol. 2 exclusion, Sophocles Plumptre exclusion, Nixon vol. 3 date (1924 is right; the scan is a reprint with a 1979 note, flagged), Perseus counts in DIGEST-B.
+- All 97 lane B shelves re-recorded: `fetch_shelf.py --verify --record` 0 mismatched; `fetch_perseus.py --verify --record` 0 failed.

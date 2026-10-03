@@ -38,10 +38,10 @@
   "strabo"
  ],
  "_translators": {
-  "strabo-hamilton-falconer-v1": "hamilton",
-  "strabo-hamilton-falconer-v2": "hamilton",
-  "strabo-hamilton-falconer-v3": "hamilton",
-  "strabo-perseus-jones-geography-books-6-14": "jones"
+  "strabo-hamilton-falconer-v1": "H. C. Hamilton",
+  "strabo-hamilton-falconer-v2": "H. C. Hamilton",
+  "strabo-hamilton-falconer-v3": "H. C. Hamilton",
+  "strabo-perseus-jones-geography-books-6-14": "Horace Leonard Jones"
  },
  "_checks": {
   "strabo-hamilton-falconer-v1": {
@@ -49,36 +49,36 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "strabo",
-   "translator_claimed": "hamilton",
+   "translator_claimed": "H. C. Hamilton",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "W. Falconer; Hans Claude Hamilton",
-   "translator_match": true
+   "translator_match": false
   },
   "strabo-hamilton-falconer-v2": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "strabo",
-   "translator_claimed": "hamilton",
+   "translator_claimed": "H. C. Hamilton",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "W. Falconer; Hans Claude Hamilton",
-   "translator_match": true
+   "translator_match": false
   },
   "strabo-hamilton-falconer-v3": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "strabo",
-   "translator_claimed": "hamilton",
+   "translator_claimed": "H. C. Hamilton",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "W. Falconer; Hans Claude Hamilton",
-   "translator_match": true
+   "translator_match": false
   }
  },
  "_perseus_checks": {
@@ -87,7 +87,7 @@
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0099.tlg001.perseus-eng3",
    "repo": "PerseusDL/canonical-greekLit",
-   "translator_checked": "jones",
+   "translator_checked": "Horace Leonard Jones",
    "author_seen": "strabo",
    "source_years": [
     1924,

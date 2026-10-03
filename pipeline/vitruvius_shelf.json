@@ -27,8 +27,8 @@
   "vitruvius"
  ],
  "_translators": {
-  "vitruvius-morgan": "morgan",
-  "vitruvius-gwilt-1826": "gwilt"
+  "vitruvius-morgan": "Morris Hicky Morgan",
+  "vitruvius-gwilt-1826": "Joseph Gwilt"
  },
  "_checks": {
   "vitruvius-morgan": {
@@ -36,7 +36,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "vitruvius",
-   "translator_claimed": "morgan",
+   "translator_claimed": "Morris Hicky Morgan",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -47,7 +47,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "vitruvius",
-   "translator_claimed": "gwilt",
+   "translator_claimed": "Joseph Gwilt",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1826",

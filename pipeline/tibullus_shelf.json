@@ -25,8 +25,8 @@
   "tibullus"
  ],
  "_translators": {
-  "tibullus-williams": "williams",
-  "tibullus-grainger-1759": "grainger"
+  "tibullus-williams": "Theodore Chickering Williams",
+  "tibullus-grainger-1759": "James Grainger"
  },
  "_checks": {
   "tibullus-williams": {
@@ -34,7 +34,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "tibullus",
-   "translator_claimed": "williams",
+   "translator_claimed": "Theodore Chickering Williams",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -46,7 +46,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "tibullus",
-   "translator_claimed": "grainger",
+   "translator_claimed": "James Grainger",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1759",

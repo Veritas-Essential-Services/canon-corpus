@@ -53,19 +53,18 @@
  },
  "_excluded": {
   "pg806": "Philoktetes (McNamee): a COPYRIGHTED Project Gutenberg eBook. Refused",
-  "pg7073": "Specimens of Greek Tragedy (Goldwin Smith): excerpts",
-  "Plumptre, Sophocles (1865)": "PD verse, not on Gutenberg; pending (IA)"
+  "pg7073": "Specimens of Greek Tragedy (Goldwin Smith): excerpts"
  },
  "_surname": [
   "sophocles"
  ],
  "_translators": {
-  "sophocles-campbell-seven": "campbell",
-  "sophocles-storr-theban": "storr",
-  "sophocles-murray-oedipus": "murray",
-  "sophocles-sheridan-philoctetes": "sheridan",
-  "sophocles-plumptre": "plumptre",
-  "sophocles-francklin-1759": "francklin"
+  "sophocles-campbell-seven": "Lewis Campbell",
+  "sophocles-storr-theban": "Francis Storr",
+  "sophocles-murray-oedipus": "Gilbert Murray",
+  "sophocles-sheridan-philoctetes": "Thomas Sheridan",
+  "sophocles-plumptre": "E. H. Plumptre",
+  "sophocles-francklin-1759": "Thomas Francklin"
  },
  "_checks": {
   "sophocles-campbell-seven": {
@@ -73,7 +72,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "sophocles",
-   "translator_claimed": "campbell",
+   "translator_claimed": "Lewis Campbell",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -85,7 +84,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "sophocles",
-   "translator_claimed": "storr",
+   "translator_claimed": "Francis Storr",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -97,7 +96,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "sophocles",
-   "translator_claimed": "murray",
+   "translator_claimed": "Gilbert Murray",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -109,7 +108,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "sophocles",
-   "translator_claimed": "sheridan",
+   "translator_claimed": "Thomas Sheridan",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -121,7 +120,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "sophocles",
-   "translator_claimed": "plumptre",
+   "translator_claimed": "E. H. Plumptre",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1865",
@@ -134,7 +133,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "sophocles",
-   "translator_claimed": "francklin",
+   "translator_claimed": "Thomas Francklin",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1759",

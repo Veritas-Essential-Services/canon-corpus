@@ -38,10 +38,10 @@
   "hesiod"
  ],
  "_translators": {
-  "hesiod-evelyn-white": "evelyn-white",
-  "hesiod-elton": "elton",
-  "hesiod-cooke-1728-v1": "cooke",
-  "hesiod-cooke-1728-v2": "cooke"
+  "hesiod-evelyn-white": "Hugh G. Evelyn-White",
+  "hesiod-elton": "Charles Abraham Elton",
+  "hesiod-cooke-1728-v1": "Thomas Cooke",
+  "hesiod-cooke-1728-v2": "Thomas Cooke"
  },
  "_checks": {
   "hesiod-evelyn-white": {
@@ -49,7 +49,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "hesiod",
-   "translator_claimed": "evelyn-white",
+   "translator_claimed": "Hugh G. Evelyn-White",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -61,7 +61,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "hesiod",
-   "translator_claimed": "elton",
+   "translator_claimed": "Charles Abraham Elton",
    "translator_in_text": true,
    "title_weak": true,
    "identity": "title_weak",
@@ -74,7 +74,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "hesiod",
-   "translator_claimed": "cooke",
+   "translator_claimed": "Thomas Cooke",
    "translator_in_text": true,
    "title_weak": true,
    "identity": "title_weak",
@@ -88,7 +88,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "hesiod",
-   "translator_claimed": "cooke",
+   "translator_claimed": "Thomas Cooke",
    "translator_in_text": true,
    "title_weak": true,
    "identity": "title_weak",

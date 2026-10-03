@@ -48,10 +48,10 @@
   "pausanias"
  ],
  "_translators": {
-  "pausanias-shilleto-v1": "shilleto",
-  "pausanias-shilleto-v2": "shilleto",
-  "pausanias-attica-verrall": "verrall",
-  "pausanias-taylor-v3": "taylor"
+  "pausanias-shilleto-v1": "A. R. Shilleto",
+  "pausanias-shilleto-v2": "A. R. Shilleto",
+  "pausanias-attica-verrall": "Margaret de G. Verrall",
+  "pausanias-taylor-v3": "Thomas Taylor"
  },
  "_translator_unchecked": {
   "pausanias-taylor-v1": "translator on the row (Thomas Taylor (attributed by catalogue)) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -63,7 +63,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "pausanias",
-   "translator_claimed": "shilleto",
+   "translator_claimed": "A. R. Shilleto",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -75,7 +75,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "pausanias",
-   "translator_claimed": "shilleto",
+   "translator_claimed": "A. R. Shilleto",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -109,7 +109,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "pausanias",
-   "translator_claimed": "verrall",
+   "translator_claimed": "Margaret de G. Verrall",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1890",
@@ -122,7 +122,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "pausanias",
-   "translator_claimed": "taylor",
+   "translator_claimed": "Thomas Taylor",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1824",

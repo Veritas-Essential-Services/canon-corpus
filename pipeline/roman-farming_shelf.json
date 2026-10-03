@@ -36,7 +36,7 @@
   "palladius"
  ],
  "_translators": {
-  "cato-varro-harrison": "harrison"
+  "cato-varro-harrison": "Fairfax Harrison"
  },
  "_translator_unchecked": {
   "columella-1745": "no single translator to check: unnamed (not on the title page)",
@@ -48,7 +48,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "cato",
-   "translator_claimed": "harrison",
+   "translator_claimed": "Fairfax Harrison",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

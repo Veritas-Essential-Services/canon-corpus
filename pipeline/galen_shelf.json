@@ -19,7 +19,7 @@
   "galenus"
  ],
  "_translators": {
-  "galen-brock-natural-faculties": "brock"
+  "galen-brock-natural-faculties": "Arthur John Brock"
  },
  "_checks": {
   "galen-brock-natural-faculties": {
@@ -27,7 +27,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "galen",
-   "translator_claimed": "brock",
+   "translator_claimed": "Arthur John Brock",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

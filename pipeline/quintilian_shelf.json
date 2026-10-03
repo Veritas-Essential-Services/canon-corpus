@@ -38,10 +38,10 @@
   "quintilianus"
  ],
  "_translators": {
-  "quintilian-butler-v1": "butler",
-  "quintilian-butler-v2": "butler",
-  "quintilian-butler-v3": "butler",
-  "quintilian-butler-v4": "butler"
+  "quintilian-butler-v1": "H. E. Butler",
+  "quintilian-butler-v2": "H. E. Butler",
+  "quintilian-butler-v3": "H. E. Butler",
+  "quintilian-butler-v4": "H. E. Butler"
  },
  "_checks": {
   "quintilian-butler-v1": {
@@ -49,7 +49,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "quintilian",
-   "translator_claimed": "butler",
+   "translator_claimed": "H. E. Butler",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1920",
@@ -62,7 +62,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "quintilian",
-   "translator_claimed": "butler",
+   "translator_claimed": "H. E. Butler",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1921",
@@ -75,7 +75,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "quintilian",
-   "translator_claimed": "butler",
+   "translator_claimed": "H. E. Butler",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1920",
@@ -88,7 +88,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "quintilian",
-   "translator_claimed": "butler",
+   "translator_claimed": "H. E. Butler",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1920",

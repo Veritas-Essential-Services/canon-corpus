@@ -18,7 +18,7 @@
   "augustus"
  ],
  "_translators": {
-  "augustus-res-gestae-fairley": "fairley"
+  "augustus-res-gestae-fairley": "william fairley"
  },
  "_checks": {
   "augustus-res-gestae-fairley": {
@@ -26,7 +26,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "augustus",
-   "translator_claimed": "fairley",
+   "translator_claimed": "william fairley",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

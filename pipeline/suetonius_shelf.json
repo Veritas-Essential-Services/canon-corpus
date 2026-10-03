@@ -37,10 +37,10 @@
   "suetonius"
  ],
  "_translators": {
-  "suetonius-thomson-forester": "thomson",
-  "suetonius-rolfe-v1": "rolfe",
-  "suetonius-rolfe-v2": "rolfe",
-  "suetonius-holland-1606": "holland"
+  "suetonius-thomson-forester": "Alexander Thomson",
+  "suetonius-rolfe-v1": "J. C. Rolfe",
+  "suetonius-rolfe-v2": "J. C. Rolfe",
+  "suetonius-holland-1606": "philémon holland"
  },
  "_checks": {
   "suetonius-thomson-forester": {
@@ -48,7 +48,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "suetonius",
-   "translator_claimed": "thomson",
+   "translator_claimed": "Alexander Thomson",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -60,7 +60,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "suetonius",
-   "translator_claimed": "rolfe",
+   "translator_claimed": "J. C. Rolfe",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1913",
@@ -73,7 +73,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "suetonius",
-   "translator_claimed": "rolfe",
+   "translator_claimed": "J. C. Rolfe",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1914",
@@ -86,7 +86,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "suetonius",
-   "translator_claimed": "holland",
+   "translator_claimed": "philémon holland",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1606",

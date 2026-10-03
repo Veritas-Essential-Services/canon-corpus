@@ -28,8 +28,8 @@
   "theophrastus"
  ],
  "_translators": {
-  "theophrastus-bennett-hammond": "bennett",
-  "theophrastus-jebb": "jebb"
+  "theophrastus-bennett-hammond": "Charles E. Bennett",
+  "theophrastus-jebb": "r. c. jebb"
  },
  "_checks": {
   "theophrastus-bennett-hammond": {
@@ -37,7 +37,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "theophrastus",
-   "translator_claimed": "bennett",
+   "translator_claimed": "Charles E. Bennett",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -49,7 +49,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "theophrastus",
-   "translator_claimed": "jebb",
+   "translator_claimed": "r. c. jebb",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1870",

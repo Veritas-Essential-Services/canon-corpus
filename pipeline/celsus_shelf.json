@@ -17,7 +17,7 @@
   "celsus"
  ],
  "_translators": {
-  "celsus-greive": "greive"
+  "celsus-greive": "James Greive"
  },
  "_checks": {
   "celsus-greive": {
@@ -25,7 +25,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "celsus",
-   "translator_claimed": "greive",
+   "translator_claimed": "James Greive",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

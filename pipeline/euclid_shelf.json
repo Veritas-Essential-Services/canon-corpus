@@ -34,9 +34,9 @@
   "euclides"
  ],
  "_translators": {
-  "euclid-heath-v1": "heath",
-  "euclid-heath-v2": "heath",
-  "euclid-heath-v3": "heath"
+  "euclid-heath-v1": "T. L. Heath",
+  "euclid-heath-v2": "T. L. Heath",
+  "euclid-heath-v3": "T. L. Heath"
  },
  "_checks": {
   "euclid-heath-v1": {
@@ -44,7 +44,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "euclid",
-   "translator_claimed": "heath",
+   "translator_claimed": "T. L. Heath",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1908",
@@ -57,7 +57,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "euclid",
-   "translator_claimed": "heath",
+   "translator_claimed": "T. L. Heath",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1908",
@@ -70,7 +70,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "euclid",
-   "translator_claimed": "heath",
+   "translator_claimed": "T. L. Heath",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1908",

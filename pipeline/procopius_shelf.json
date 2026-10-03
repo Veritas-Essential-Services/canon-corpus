@@ -41,10 +41,10 @@
   "procopius"
  ],
  "_translators": {
-  "procopius-dewing-persian": "dewing",
-  "procopius-dewing-vandalic": "dewing",
-  "procopius-dewing-gothic": "dewing",
-  "procopius-stewart-buildings": "stewart"
+  "procopius-dewing-persian": "H. B. Dewing",
+  "procopius-dewing-vandalic": "H. B. Dewing",
+  "procopius-dewing-gothic": "H. B. Dewing",
+  "procopius-stewart-buildings": "Aubrey Stewart"
  },
  "_translator_unchecked": {
   "procopius-secret-history": "no single translator to check: None"
@@ -55,7 +55,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "procopius",
-   "translator_claimed": "dewing",
+   "translator_claimed": "H. B. Dewing",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -67,7 +67,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "procopius",
-   "translator_claimed": "dewing",
+   "translator_claimed": "H. B. Dewing",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -79,7 +79,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "procopius",
-   "translator_claimed": "dewing",
+   "translator_claimed": "H. B. Dewing",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -100,7 +100,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "procopius",
-   "translator_claimed": "stewart",
+   "translator_claimed": "Aubrey Stewart",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

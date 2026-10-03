@@ -36,10 +36,10 @@
   "sallustius"
  ],
  "_translators": {
-  "sallust-watson": "watson",
-  "sallust-rolfe": "rolfe",
-  "sallust-gordon-1744": "gordon",
-  "sallust-rose-1830": "rose"
+  "sallust-watson": "J. S. Watson",
+  "sallust-rolfe": "J. C. Rolfe",
+  "sallust-gordon-1744": "T. Gordon",
+  "sallust-rose-1830": "William Rose"
  },
  "_checks": {
   "sallust-watson": {
@@ -47,7 +47,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "sallust",
-   "translator_claimed": "watson",
+   "translator_claimed": "J. S. Watson",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -59,7 +59,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "sallust",
-   "translator_claimed": "rolfe",
+   "translator_claimed": "J. C. Rolfe",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1921",
@@ -72,7 +72,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "sallust",
-   "translator_claimed": "gordon",
+   "translator_claimed": "T. Gordon",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1744",
@@ -85,7 +85,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "sallust",
-   "translator_claimed": "rose",
+   "translator_claimed": "William Rose",
    "translator_in_text": true,
    "title_weak": true,
    "identity": "title_weak",

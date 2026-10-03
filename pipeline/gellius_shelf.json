@@ -47,9 +47,9 @@
   "aulus"
  ],
  "_translators": {
-  "gellius-rolfe-v1": "rolfe",
-  "gellius-rolfe-v2": "rolfe",
-  "gellius-rolfe-v3": "rolfe"
+  "gellius-rolfe-v1": "J. C. Rolfe",
+  "gellius-rolfe-v2": "J. C. Rolfe",
+  "gellius-rolfe-v3": "john c. rolfe"
  },
  "_translator_unchecked": {
   "gellius-beloe-v1": "translator on the row (William Beloe) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -95,7 +95,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "gellius",
-   "translator_claimed": "rolfe",
+   "translator_claimed": "J. C. Rolfe",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1927",
@@ -108,7 +108,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "gellius",
-   "translator_claimed": "rolfe",
+   "translator_claimed": "J. C. Rolfe",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1927",
@@ -121,7 +121,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "gellius",
-   "translator_claimed": "rolfe",
+   "translator_claimed": "john c. rolfe",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1927",

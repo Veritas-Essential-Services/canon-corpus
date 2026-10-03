@@ -22,8 +22,8 @@
   "philostratus"
  ],
  "_translators": {
-  "philostratus-berwick-apollonius": "berwick",
-  "philostratus-phillimore-apollonius-v1": "phillimore"
+  "philostratus-berwick-apollonius": "Edward Berwick",
+  "philostratus-phillimore-apollonius-v1": "J. S. Phillimore"
  },
  "_checks": {
   "philostratus-berwick-apollonius": {
@@ -31,7 +31,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "philostratus",
-   "translator_claimed": "berwick",
+   "translator_claimed": "Edward Berwick",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1809",
@@ -44,7 +44,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "philostratus",
-   "translator_claimed": "phillimore",
+   "translator_claimed": "J. S. Phillimore",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1912",

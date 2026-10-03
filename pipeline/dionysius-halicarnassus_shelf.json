@@ -42,7 +42,7 @@
   "dionysius"
  ],
  "_translators": {
-  "dionysius-roberts-composition": "roberts"
+  "dionysius-roberts-composition": "w. rhys roberts"
  },
  "_translator_unchecked": {
   "dionysius-spelman-v1": "translator on the row (Edward Spelman) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -56,7 +56,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "dionysius",
-   "translator_claimed": "roberts",
+   "translator_claimed": "w. rhys roberts",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

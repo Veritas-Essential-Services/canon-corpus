@@ -32,8 +32,8 @@
   "parthenius"
  ],
  "_translators": {
-  "greek-romances-smith": "smith",
-  "heliodorus-underdowne-wright": "underdowne"
+  "greek-romances-smith": "Rowland Smith",
+  "heliodorus-underdowne-wright": "Thomas Underdowne"
  },
  "_checks": {
   "greek-romances-smith": {
@@ -41,7 +41,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "heliodorus",
-   "translator_claimed": "smith",
+   "translator_claimed": "Rowland Smith",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -53,7 +53,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "heliodorus",
-   "translator_claimed": "underdowne",
+   "translator_claimed": "Thomas Underdowne",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1923",

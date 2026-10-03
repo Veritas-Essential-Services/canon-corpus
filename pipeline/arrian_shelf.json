@@ -42,11 +42,11 @@
   "arrianus"
  ],
  "_translators": {
-  "arrian-chinnock-anabasis": "chinnock",
-  "arrian-dansey-coursing": "dansey",
-  "arrian-mccrindle-nearkhos": "mccrindle",
-  "arrian-mccrindle-ancient-india": "mccrindle",
-  "arrian-rooke-1729-v1": "rooke"
+  "arrian-chinnock-anabasis": "E. J. Chinnock",
+  "arrian-dansey-coursing": "William Dansey",
+  "arrian-mccrindle-nearkhos": "J. W. McCrindle",
+  "arrian-mccrindle-ancient-india": "J. W. McCrindle",
+  "arrian-rooke-1729-v1": "John Rooke"
  },
  "_checks": {
   "arrian-chinnock-anabasis": {
@@ -54,7 +54,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "arrian",
-   "translator_claimed": "chinnock",
+   "translator_claimed": "E. J. Chinnock",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -66,7 +66,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "arrian",
-   "translator_claimed": "dansey",
+   "translator_claimed": "William Dansey",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -78,19 +78,19 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "arrian",
-   "translator_claimed": "mccrindle",
+   "translator_claimed": "J. W. McCrindle",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "John Watson McCrindle",
-   "translator_match": true
+   "translator_match": false
   },
   "arrian-mccrindle-ancient-india": {
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "arrian",
-   "translator_claimed": "mccrindle",
+   "translator_claimed": "J. W. McCrindle",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1877",
@@ -103,7 +103,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "arrian",
-   "translator_claimed": "rooke",
+   "translator_claimed": "John Rooke",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1729",

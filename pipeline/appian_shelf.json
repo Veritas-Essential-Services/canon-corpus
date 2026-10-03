@@ -26,8 +26,8 @@
   "appian"
  ],
  "_translators": {
-  "appian-white-v1": "white",
-  "appian-white-v2": "white"
+  "appian-white-v1": "Horace White",
+  "appian-white-v2": "Horace White"
  },
  "_checks": {
   "appian-white-v1": {
@@ -35,7 +35,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "appian",
-   "translator_claimed": "white",
+   "translator_claimed": "Horace White",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1899",
@@ -48,7 +48,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "appian",
-   "translator_claimed": "white",
+   "translator_claimed": "Horace White",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1899",

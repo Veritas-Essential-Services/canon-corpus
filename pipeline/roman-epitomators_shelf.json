@@ -37,9 +37,9 @@
   "justinus"
  ],
  "_translators": {
-  "justin-nepos-eutropius-watson": "watson",
-  "sallust-florus-velleius-watson": "watson",
-  "florus-forster-nepos-rolfe": "forster"
+  "justin-nepos-eutropius-watson": "John Selby Watson",
+  "sallust-florus-velleius-watson": "John Selby Watson",
+  "florus-forster-nepos-rolfe": "edward seymour forster"
  },
  "_checks": {
   "justin-nepos-eutropius-watson": {
@@ -47,7 +47,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "justin",
-   "translator_claimed": "watson",
+   "translator_claimed": "John Selby Watson",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1853",
@@ -60,7 +60,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "justin",
-   "translator_claimed": "watson",
+   "translator_claimed": "John Selby Watson",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1852",
@@ -73,7 +73,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "justin",
-   "translator_claimed": "forster",
+   "translator_claimed": "edward seymour forster",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1929",

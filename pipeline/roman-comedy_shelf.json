@@ -67,7 +67,7 @@
   ]
  },
  "_excluded": {
-  "Paul Nixon, Loeb Plautus (1916-38)": "vols. 1 (PG) and 3 (IA) held; vol. 2 (1917) no readable scan yet; vols. 4-5 first printed 1932 and 1938, not PD",
+  "Paul Nixon, Loeb Plautus (1916-38)": "vol. 1 (PG), vols. 2 and 3 (IA) held; vols. 4-5 first printed 1932 and 1938, not PD",
   "Bonnell Thornton's Plautus (1767-74)": "PD verse; the only scans (IA bim_eighteenth-century_the-comedies-of-plautus-_plautus-titus-maccius_1767_1/_2/_3) are ECCO OCR at 0.65-0.70 clean words. Refused for OCR quality on 2026-10-02, retaken that evening without new evidence and withdrawn again on review; wanted only from a cleaner scan"
  },
  "_surname": [
@@ -76,17 +76,17 @@
   "terentius"
  ],
  "_translators": {
-  "plautus-riley-captivi-mostellaria": "riley",
-  "terence-riley-comedies": "riley",
-  "terence-colman-comedies": "colman",
-  "terence-goodluck-andrian": "goodluck",
-  "plautus-nixon-v1": "nixon",
-  "plautus-riley-comedies-v1": "riley",
-  "plautus-riley-comedies-v2": "riley",
-  "plautus-nixon-v2": "nixon",
-  "plautus-nixon-v3": "nixon",
-  "terence-sargeaunt-v1": "sargeaunt",
-  "terence-sargeaunt-v2": "sargeaunt"
+  "plautus-riley-captivi-mostellaria": "Henry T. Riley",
+  "terence-riley-comedies": "Henry T. Riley",
+  "terence-colman-comedies": "George Colman",
+  "terence-goodluck-andrian": "W. R. Goodluck",
+  "plautus-nixon-v1": "Paul Nixon",
+  "plautus-riley-comedies-v1": "henry thomas riley",
+  "plautus-riley-comedies-v2": "henry thomas riley",
+  "plautus-nixon-v2": "Paul Nixon",
+  "plautus-nixon-v3": "Paul Nixon",
+  "terence-sargeaunt-v1": "John Sargeaunt",
+  "terence-sargeaunt-v2": "John Sargeaunt"
  },
  "_checks": {
   "plautus-riley-captivi-mostellaria": {
@@ -94,7 +94,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "plautus",
-   "translator_claimed": "riley",
+   "translator_claimed": "Henry T. Riley",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -106,7 +106,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "plautus",
-   "translator_claimed": "riley",
+   "translator_claimed": "Henry T. Riley",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -118,7 +118,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "plautus",
-   "translator_claimed": "colman",
+   "translator_claimed": "George Colman",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -130,7 +130,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "plautus",
-   "translator_claimed": "goodluck",
+   "translator_claimed": "W. R. Goodluck",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -142,7 +142,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "plautus",
-   "translator_claimed": "nixon",
+   "translator_claimed": "Paul Nixon",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -154,7 +154,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "plautus",
-   "translator_claimed": "riley",
+   "translator_claimed": "henry thomas riley",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1913",
@@ -167,7 +167,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "plautus",
-   "translator_claimed": "riley",
+   "translator_claimed": "henry thomas riley",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1913",
@@ -180,7 +180,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "plautus",
-   "translator_claimed": "nixon",
+   "translator_claimed": "Paul Nixon",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1916",
@@ -193,7 +193,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "plautus",
-   "translator_claimed": "nixon",
+   "translator_claimed": "Paul Nixon",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1916",
@@ -206,7 +206,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "plautus",
-   "translator_claimed": "sargeaunt",
+   "translator_claimed": "John Sargeaunt",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1912",
@@ -219,7 +219,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "plautus",
-   "translator_claimed": "sargeaunt",
+   "translator_claimed": "John Sargeaunt",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1912",
@@ -227,5 +227,8 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
+ },
+ "_rights_checked": {
+  "plautus-nixon-v3": "the scan's imprint reads 'First printed 1924' (IA's date 1916 is the series' first year); it is a later reprint carrying a 'Bibliographical Note (1979)', which is NOT public domain and must be dropped in conversion. The 1924 translation is US PD"
  }
 }

@@ -52,10 +52,10 @@
   "aristophanes"
  ],
  "_translators": {
-  "aristophanes-hickie-clouds": "hickie",
-  "aristophanes-rogers-frogs": "rogers",
-  "aristophanes-lindsay-lysistrata": "lindsay",
-  "aristophanes-frere-morley": "frere"
+  "aristophanes-hickie-clouds": "W. J. Hickie",
+  "aristophanes-rogers-frogs": "b b rogers",
+  "aristophanes-lindsay-lysistrata": "Jack Lindsay",
+  "aristophanes-frere-morley": "John Hookham Frere"
  },
  "_translator_unchecked": {
   "aristophanes-athenian-v1": "no single translator to check: anonymous (The Athenian Society, 1912)",
@@ -85,7 +85,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "aristophanes",
-   "translator_claimed": "hickie",
+   "translator_claimed": "W. J. Hickie",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -97,7 +97,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "aristophanes",
-   "translator_claimed": "rogers",
+   "translator_claimed": "b b rogers",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -108,7 +108,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "aristophanes",
-   "translator_claimed": "lindsay",
+   "translator_claimed": "Jack Lindsay",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -120,7 +120,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "aristophanes",
-   "translator_claimed": "frere",
+   "translator_claimed": "John Hookham Frere",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1887",

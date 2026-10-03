@@ -169,10 +169,11 @@ def pg_rights(data, r, claimed=None):
     r["pg_copyrighted"] = "copyrighted project gutenberg" in head.lower()
     # a header naming several translators continues on indented lines
     # (PG 66350: "Translator: George Chapman" / "        Sir Charles Abraham Elton")
-    m = re.search(r"^Translator:[ \t]*(.+(?:\r?\n[ \t]+\S.*)*)", head, re.M)
+    m = re.search(r"^Translators?:[ \t]*(.+(?:\r?\n[ \t]+\S.*)*)", head, re.M)
     r["pg_translator"] = "; ".join(x.strip() for x in m.group(1).splitlines() if x.strip()) if m else None
     if claimed and r["pg_translator"]:
-        r["translator_match"] = claimed.lower() in r["pg_translator"].lower()
+        # whole words, never a substring ("long" must not match "Longfellow")
+        r["translator_match"] = bool(_pat(claimed).search(r["pg_translator"].lower()))
     return r
 
 def checks_for(slug, kind, data, url, shelf, key, names, ident):

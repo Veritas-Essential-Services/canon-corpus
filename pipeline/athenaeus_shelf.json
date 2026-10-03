@@ -30,9 +30,9 @@
   "athenæus"
  ],
  "_translators": {
-  "athenaeus-yonge-v1": "yonge",
-  "athenaeus-yonge-v2": "yonge",
-  "athenaeus-yonge-v3": "yonge"
+  "athenaeus-yonge-v1": "Charles Duke Yonge",
+  "athenaeus-yonge-v2": "Charles Duke Yonge",
+  "athenaeus-yonge-v3": "Charles Duke Yonge"
  },
  "_checks": {
   "athenaeus-yonge-v1": {
@@ -40,7 +40,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "athenaeus",
-   "translator_claimed": "yonge",
+   "translator_claimed": "Charles Duke Yonge",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -52,7 +52,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "athenaeus",
-   "translator_claimed": "yonge",
+   "translator_claimed": "Charles Duke Yonge",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -64,7 +64,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "athenaeus",
-   "translator_claimed": "yonge",
+   "translator_claimed": "Charles Duke Yonge",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

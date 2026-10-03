@@ -42,10 +42,10 @@
   "persius"
  ],
  "_translators": {
-  "juvenal-persius-evans-gifford": "evans",
-  "juvenal-persius-ramsay": "ramsay",
-  "persius-conington-1874": "conington",
-  "persius-drummond-1799": "drummond"
+  "juvenal-persius-evans-gifford": "Lewis Evans",
+  "juvenal-persius-ramsay": "G. G. Ramsay",
+  "persius-conington-1874": "John Conington",
+  "persius-drummond-1799": "William Drummond"
  },
  "_checks": {
   "juvenal-persius-evans-gifford": {
@@ -53,7 +53,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "juvenal",
-   "translator_claimed": "evans",
+   "translator_claimed": "Lewis Evans",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -65,7 +65,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "juvenal",
-   "translator_claimed": "ramsay",
+   "translator_claimed": "G. G. Ramsay",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1920",
@@ -78,7 +78,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "juvenal",
-   "translator_claimed": "conington",
+   "translator_claimed": "John Conington",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1874",
@@ -91,7 +91,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "juvenal",
-   "translator_claimed": "drummond",
+   "translator_claimed": "William Drummond",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1799",

@@ -49,9 +49,9 @@
   "simonides"
  ],
  "_translators": {
-  "greek-anthology-mackail": "mackail",
-  "sappho-wharton": "wharton",
-  "anacreon-moore": "moore",
+  "greek-anthology-mackail": "J. W. Mackail",
+  "sappho-wharton": "henry thornton wharton",
+  "anacreon-moore": "Thomas Moore",
   "bacchylides-poste": "poste"
  },
  "_checks": {
@@ -60,7 +60,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "sappho",
-   "translator_claimed": "mackail",
+   "translator_claimed": "J. W. Mackail",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -72,7 +72,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "sappho",
-   "translator_claimed": "wharton",
+   "translator_claimed": "henry thornton wharton",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -83,7 +83,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "anacreon",
-   "translator_claimed": "moore",
+   "translator_claimed": "Thomas Moore",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

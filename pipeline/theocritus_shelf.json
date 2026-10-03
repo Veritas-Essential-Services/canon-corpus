@@ -40,9 +40,9 @@
   "moschus"
  ],
  "_translators": {
-  "theocritus-calverley": "calverley",
-  "theocritus-bion-moschus-banks": "banks",
-  "theocritus-fawkes-1767": "fawkes"
+  "theocritus-calverley": "Charles Stuart Calverley",
+  "theocritus-bion-moschus-banks": "J. Chapman",
+  "theocritus-fawkes-1767": "Francis Fawkes"
  },
  "_checks": {
   "theocritus-calverley": {
@@ -50,7 +50,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "theocritus",
-   "translator_claimed": "calverley",
+   "translator_claimed": "Charles Stuart Calverley",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -62,7 +62,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "theocritus",
-   "translator_claimed": "banks",
+   "translator_claimed": "J. Chapman",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1853",
@@ -75,7 +75,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "theocritus",
-   "translator_claimed": "fawkes",
+   "translator_claimed": "Francis Fawkes",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1767",

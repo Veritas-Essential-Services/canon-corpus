@@ -31,9 +31,9 @@
   "catullus"
  ],
  "_translators": {
-  "catullus-ellis": "ellis",
-  "catullus-burton-smithers": "burton",
-  "catullus-tibullus-pervigilium-loeb": "cornish"
+  "catullus-ellis": "Robinson Ellis",
+  "catullus-burton-smithers": "Richard Burton",
+  "catullus-tibullus-pervigilium-loeb": "f. w. cornish"
  },
  "_checks": {
   "catullus-ellis": {
@@ -41,7 +41,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "catullus",
-   "translator_claimed": "ellis",
+   "translator_claimed": "Robinson Ellis",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -53,19 +53,19 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "catullus",
-   "translator_claimed": "burton",
+   "translator_claimed": "Richard Burton",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
-   "pg_translator": "Sir Richard Francis Burton",
-   "translator_match": true
+   "pg_translator": "Sir Richard Francis Burton; Leonard C. Smithers",
+   "translator_match": false
   },
   "catullus-tibullus-pervigilium-loeb": {
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "catullus",
-   "translator_claimed": "cornish",
+   "translator_claimed": "f. w. cornish",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1918",

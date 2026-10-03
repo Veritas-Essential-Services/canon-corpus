@@ -23,7 +23,8 @@ PerseusDL/canonical-latinLit. Files are read from raw.githubusercontent.com
 Rights gate. The TRANSLATION's date comes from the file's own sourceDesc: the
 latest year printed there is recorded, and a year after 1930 is refused (US
 public domain is publication in or before 1930, as of 2026) unless the shelf's
-`_rights_checked` ({slug: reason}) says why it is still safe. The MARKUP is
+`_rights_checked` ({slug: reason}) says why it is still safe. A sourceDesc
+with no year at all is refused the same way: nothing was checked. The MARKUP is
 Perseus's and is licensed separately: the licence stated in the file is
 recorded, else the repository's README statement (CC BY-SA 4.0 for both
 canonical repos). That licence travels with the file in the report, so a
@@ -142,7 +143,12 @@ def _check(data, tail, translator, slug, shelf):
             raise RuntimeError(f"RIGHTS: source year {max(late)} is after {PD_CUTOFF}; add _rights_checked to keep")
         r["rights_override"] = why
     if not years:
-        r["rights_flag"] = "no year in sourceDesc: date from the shelf's rights_note only"
+        # no printing date to check: refused unless a person dated it another way
+        why = shelf.get("_rights_checked", {}).get(slug)
+        if not why:
+            raise RuntimeError("RIGHTS: no year in sourceDesc; add _rights_checked to keep")
+        r["rights_flag"] = "no year in sourceDesc"
+        r["rights_override"] = why
     return r, misses
 
 def main():
@@ -195,7 +201,7 @@ def main():
             os.replace(rep_path + ".tmp", rep_path)
     bad = [s for s, r in report.items() if s in rows and r["status"] == "FAILED"]
     print(f"{len(rows)} perseus items, {len(bad)} failed: {bad}")
-    if verify and "--record" in sys.argv[2:]:
+    if verify and "--record" in sys.argv[2:] and rows:
         record(name, {s: report[s] for s in rows if s in report})
 
 RECORD_KEYS = ("urn", "repo", "translator_checked", "translator_unchecked", "author_seen",

@@ -51,10 +51,10 @@
   "antoninus"
  ],
  "_translators": {
-  "marcus-aurelius-long": "long",
-  "marcus-aurelius-chrystal": "chrystal",
-  "marcus-aurelius-collier": "collier",
-  "marcus-aurelius-rendall": "rendall"
+  "marcus-aurelius-long": "George Long",
+  "marcus-aurelius-chrystal": "George W. Chrystal",
+  "marcus-aurelius-collier": "Jeremy Collier",
+  "marcus-aurelius-rendall": "Gerald H. Rendall"
  },
  "_translator_unchecked": {
   "marcus-aurelius-jackson-1906": "translator on the row (John Jackson (from the catalogue; the scan's title page names no translator)) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
@@ -65,7 +65,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "aurelius",
-   "translator_claimed": "long",
+   "translator_claimed": "George Long",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -77,7 +77,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "aurelius",
-   "translator_claimed": "chrystal",
+   "translator_claimed": "George W. Chrystal",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -89,7 +89,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "aurelius",
-   "translator_claimed": "collier",
+   "translator_claimed": "Jeremy Collier",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1702",
@@ -102,7 +102,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "aurelius",
-   "translator_claimed": "rendall",
+   "translator_claimed": "Gerald H. Rendall",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1898",

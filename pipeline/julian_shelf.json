@@ -26,8 +26,8 @@
   "julianus"
  ],
  "_translators": {
-  "julian-wright-v1": "wright",
-  "julian-wright-v2": "wright"
+  "julian-wright-v1": "Wilmer Cave Wright",
+  "julian-wright-v2": "Wilmer Cave Wright"
  },
  "_checks": {
   "julian-wright-v1": {
@@ -35,7 +35,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "julian",
-   "translator_claimed": "wright",
+   "translator_claimed": "Wilmer Cave Wright",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -47,7 +47,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "julian",
-   "translator_claimed": "wright",
+   "translator_claimed": "Wilmer Cave Wright",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

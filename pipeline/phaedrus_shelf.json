@@ -19,7 +19,7 @@
   "phædrus"
  ],
  "_translators": {
-  "phaedrus-riley-smart": "riley"
+  "phaedrus-riley-smart": "Henry T. Riley"
  },
  "_checks": {
   "phaedrus-riley-smart": {
@@ -27,7 +27,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "phaedrus",
-   "translator_claimed": "riley",
+   "translator_claimed": "Henry T. Riley",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

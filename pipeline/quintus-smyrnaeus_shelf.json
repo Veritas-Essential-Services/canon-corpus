@@ -19,7 +19,7 @@
   "smyrnaeus"
  ],
  "_translators": {
-  "quintus-smyrnaeus-way": "way"
+  "quintus-smyrnaeus-way": "Arthur S. Way"
  },
  "_checks": {
   "quintus-smyrnaeus-way": {
@@ -27,7 +27,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "quintus",
-   "translator_claimed": "way",
+   "translator_claimed": "Arthur S. Way",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

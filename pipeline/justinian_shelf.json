@@ -18,7 +18,7 @@
   "justinianus"
  ],
  "_translators": {
-  "justinian-institutes-moyle": "moyle"
+  "justinian-institutes-moyle": "John Baron Moyle"
  },
  "_checks": {
   "justinian-institutes-moyle": {
@@ -26,7 +26,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "justinian",
-   "translator_claimed": "moyle",
+   "translator_claimed": "John Baron Moyle",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

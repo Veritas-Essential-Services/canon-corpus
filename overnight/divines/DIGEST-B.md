@@ -1,7 +1,7 @@
 # Lane B digest — Classical (English translations)
 <!-- refreshed 2026-10-02 17:31 CDT by the lane B worker -->
 
-**Held:** 84 shelves, 691 files (249 clean Gutenberg texts, 199 raw Internet Archive OCR volumes, 243 Perseus TEI texts), 388 MB on the worker's disk. Corpus text is gitignored; the shelves (`pipeline/<author>_shelf.json`) are the record. Nothing converted into the build manifest and **nothing minted** (no uid minting during a burst). Every shelf lists its pending wishlist and its exclusions with reasons; the map section is `docs/divines-map/B-classical.md`.
+**Held:** 84 shelves, 691 files (249 clean Gutenberg texts, 199 raw Internet Archive OCR volumes, 243 Perseus TEI texts at the time; 132 after the 21:10 review moved 111 duplicates to `_held`), 388 MB on the worker's disk. Corpus text is gitignored; the shelves (`pipeline/<author>_shelf.json`) are the record. Nothing converted into the build manifest and **nothing minted** (no uid minting during a burst). Every shelf lists its pending wishlist and its exclusions with reasons; the map section is `docs/divines-map/B-classical.md`.
 
 | Author | Held (clean / raw) | Pending, short |
 |---|---|---|
@@ -36,7 +36,7 @@
 
 ## Added since the second digest (2026-10-02, 17:07-17:31 CDT)
 
-- **243 Perseus TEI English texts** under a new `"perseus"` key in 19 shelves, fetched by a new, separate `pipeline/fetch_perseus.py` (fetch_shelf.py is unchanged for them). Deduped against the 309 Perseus ids on PR #7; Philo (PR #8) and the fathers, apocrypha and Bible rows left to their owners. Each file's own sourceDesc dates the translation (all 1930 or earlier, except one reprint noted under Defects); the markup licence travels in each `<shelf>_perseus_report.json`.
+- **243 Perseus TEI English texts** (132 since the 21:10 review: 111 duplicates moved to `_held`) under a new `"perseus"` key in 19 shelves, fetched by a new, separate `pipeline/fetch_perseus.py` (fetch_shelf.py is unchanged for them). Deduped against the 309 Perseus ids on PR #7; Philo (PR #8) and the fathers, apocrypha and Bible rows left to their owners. Each file's own sourceDesc dates the translation (all 1930 or earlier, except one reprint noted under Defects); the markup licence travels in each `<shelf>_perseus_report.json`.
 - **Five missing volumes found under other ids:** Nixon's Plautus vol. 2 (1917), Francklin's complete Sophocles (1759), Beloe's Gellius vol. 2 (1795), Kennedy's Demosthenes vol. 5 (1878) and Rowe's Lucan vol. 2 (1812). Title pages were read.
 - **Refused or held:** King's Tusculans (only the 1945 revised printing has text), Wright's Julian vol. 3 (Greek facing). Still not found: Frazer's Pausanias vol. 1, Bennett's Loeb Horace, Hawkins's Claudian vol. 2, and vol. 2 of the 1809 Greek Tragic Theatre.
 
@@ -50,7 +50,7 @@
 
 - **Mint:** every lane B slug awaits your single-writer minting pass. Do raw IA volumes get uids, or only converted texts?
 - **US-only public domain:** a few Gutenberg texts are PD in the US but not in life+70 countries (Murray's Euripides, Sophocles and Aeschylus, and now his Rhesus from Perseus; Humphries's Aeneid; Fyfe's Histories; Lindsay's Lysistrata; Rouse's Apocolocyntosis; Firebaugh's Satyricon). Also the Oxford Aristotle as a whole. Keep or drop?
-- **Perseus share-alike:** the 243 Perseus texts are PD translations in CC BY-SA 4.0 markup. Serving the TEI (or anything built from its markup) means crediting Perseus and sharing changes alike. Taking the plain text out of the markup is the usual reading of what is free. Your call on how Armarium serves them.
+- **Perseus share-alike:** the 132 Perseus texts are PD translations in CC BY-SA 4.0 markup. Serving the TEI (or anything built from its markup) means crediting Perseus and sharing changes alike. Taking the plain text out of the markup is the usual reading of what is free. Your call on how Armarium serves them.
 - **Babbitt's Moralia vols. 1-2 (1927-28):** shelved here as US PD by date. PR #7's notes exclude "Moralia (Babbitt)" for copyright, probably for the later volumes (1931-), which are not shelved here. Confirm the line.
 - **Bilingual Loebs:** Latin-facing Loebs of 1930 or earlier are now taken (Statius, Quintilian, Ausonius, Frontinus), because Latin OCR is legible. Greek-facing Loebs are still held back as pending, because their Greek OCR is junk (Paton, Edmonds, Mair, Sandys, Hicks, Cary's Dio). Keep that line?
 - **More US-only PD:** several 1913-1930 Loebs and MacKenna's Plotinus are PD in the US by publication date. In life+70 countries each translator's death date decides; not checked per translator.
@@ -72,3 +72,10 @@
 - **Held back on rights:** Seneca his Tenne Tragedies (Tudor Translations, 1927) carries T. S. Eliot's introduction: US public domain by date, but not life+70. Take the text without it, or the 1581 or 1887 printings?
 - **Withdrawn again:** Smart's 1756 Horace and Thornton's 1767 Plautus. The ECCO OCR is 0.65-0.76, and nothing new justified retaking them.
 - **Collated:** PG 14020 (anonymous literal Horace) matches Smart's prose as Buckley revised it (107 of 200 sampled 8-word runs), not the 1756 form. Both are kept; is one enough?
+
+## Review fixes, round 3 (2026-10-02 21:17 CDT, for Adam)
+- **Translator checks now use full names.** A one-word claim such as "long", "west" or "smith" matched almost any English text. 614 claims were rewritten to the fullest form the text itself prints (e.g. "george long", "thomas gordon", "john mason good", "george baker"); 7 distinctive surnames stay one word (Golding, Yonge, Kennedy, Poste, Merrick, Langhorne, Hampton). Several values were junk from the old parser ("german", "eugene", "john", "catalogue", "edition", "super") and are fixed.
+- **Moved to `_translator_unchecked`** where no full name survives in the OCR: Gilbert West's Pindar, North's Plutarch vol. 3, Lodge's Seneca 1614, Heath's Archimedes (garbled title page), Evelyn White's Ausonius vol. 1, Watson's Cicero On Oratory, plus three catalogue attributions (Norgate's Iliad, Laurent's Pindar, Lewis's Thebaid) and Plato's Alcibiades II. The texts are kept; only the proof is missing.
+- **Curtius:** Brende 1553 (OCR prints "lohn Brence") and Digby vol. 2 (no title page) now carry translator claims kept by `_identity_checked`, with the reason.
+- **Gates tightened:** `fetch_perseus.py` refuses a file whose sourceDesc prints no year unless `_rights_checked` dates it (three Harmon vol. 1 pieces, 1913, are dated that way); `fetch_shelf.py` matches the Gutenberg Translator(s) header by whole word, never substring.
+- **Yours to decide:** the Nixon Plautus vol. 3 scan is a later Loeb reprint carrying a 1979 bibliographical note. The 1924 translation is US PD; the note is not and must be dropped in conversion. Other kept Loeb reprints may carry similar added matter.

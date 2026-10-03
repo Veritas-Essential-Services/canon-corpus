@@ -28,8 +28,8 @@
   "boetius"
  ],
  "_translators": {
-  "boethius-james": "james",
-  "boethius-rand-stewart": "stewart"
+  "boethius-james": "H. R. James",
+  "boethius-rand-stewart": "H. F. Stewart"
  },
  "_checks": {
   "boethius-james": {
@@ -37,7 +37,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "boethius",
-   "translator_claimed": "james",
+   "translator_claimed": "H. R. James",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -49,7 +49,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "boethius",
-   "translator_claimed": "stewart",
+   "translator_claimed": "H. F. Stewart",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

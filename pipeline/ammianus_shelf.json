@@ -18,7 +18,7 @@
   "marcellinus"
  ],
  "_translators": {
-  "ammianus-yonge": "yonge"
+  "ammianus-yonge": "Charles Duke Yonge"
  },
  "_checks": {
   "ammianus-yonge": {
@@ -26,7 +26,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "ammianus",
-   "translator_claimed": "yonge",
+   "translator_claimed": "Charles Duke Yonge",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

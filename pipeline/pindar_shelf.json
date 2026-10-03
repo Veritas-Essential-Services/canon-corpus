@@ -44,19 +44,20 @@
   "pindarus"
  ],
  "_translators": {
-  "pindar-myers": "myers",
-  "pindar-turner-moore": "turner",
-  "pindar-west-1749": "west",
-  "pindar-laurent-prose-1824": "catalogue"
+  "pindar-myers": "Ernest Myers",
+  "pindar-turner-moore": "Dawson W. Turner"
  },
- "_translator_unchecked": {},
+ "_translator_unchecked": {
+  "pindar-west-1749": "the long-s OCR never prints Gilbert West's name; 'west' alone is a common word and proves nothing",
+  "pindar-laurent-prose-1824": "attributed by the catalogue; the title page names no translator"
+ },
  "_checks": {
   "pindar-myers": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "pindar",
-   "translator_claimed": "myers",
+   "translator_claimed": "Ernest Myers",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,
@@ -68,7 +69,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "pindar",
-   "translator_claimed": "turner",
+   "translator_claimed": "Dawson W. Turner",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1872",
@@ -81,8 +82,6 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "pindar",
-   "translator_claimed": "west",
-   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1749",
    "ia_date": "1749",
@@ -94,8 +93,6 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "pindar",
-   "translator_claimed": "catalogue",
-   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1824",
    "ia_date": "1824",

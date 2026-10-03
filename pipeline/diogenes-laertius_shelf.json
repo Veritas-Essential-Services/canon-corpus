@@ -22,7 +22,7 @@
   "diogenes"
  ],
  "_translators": {
-  "diogenes-laertius-yonge": "yonge"
+  "diogenes-laertius-yonge": "Charles Duke Yonge"
  },
  "_checks": {
   "diogenes-laertius-yonge": {
@@ -30,7 +30,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "laertius",
-   "translator_claimed": "yonge",
+   "translator_claimed": "Charles Duke Yonge",
    "translator_in_text": true,
    "identity": "ok",
    "pg_copyrighted": false,

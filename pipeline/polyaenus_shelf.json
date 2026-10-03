@@ -20,7 +20,7 @@
   "polyanus"
  ],
  "_translators": {
-  "polyaenus-shepherd-1793": "shepherd"
+  "polyaenus-shepherd-1793": "R. Shepherd"
  },
  "_checks": {
   "polyaenus-shepherd-1793": {
@@ -28,7 +28,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "polyænus",
-   "translator_claimed": "shepherd",
+   "translator_claimed": "R. Shepherd",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1793",

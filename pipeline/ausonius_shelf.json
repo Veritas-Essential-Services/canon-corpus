@@ -24,8 +24,7 @@
   "ausonius"
  ],
  "_translators": {
-  "ausonius-evelyn-white-v1": "evelyn white",
-  "ausonius-evelyn-white-v2": "evelyn white"
+  "ausonius-evelyn-white-v2": "hugh g. evelyn white"
  },
  "_checks": {
   "ausonius-evelyn-white-v1": {
@@ -33,8 +32,6 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "ausonius",
-   "translator_claimed": "evelyn white",
-   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1919",
    "ia_date": "1919",
@@ -46,7 +43,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "ausonius",
-   "translator_claimed": "evelyn white",
+   "translator_claimed": "hugh g. evelyn white",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1919",
@@ -54,5 +51,8 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
+ },
+ "_translator_unchecked": {
+  "ausonius-evelyn-white-v1": "this volume's OCR never names Evelyn White; identified by the IA record and the vol. 2 title page"
  }
 }

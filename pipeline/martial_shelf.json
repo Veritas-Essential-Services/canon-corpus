@@ -32,8 +32,8 @@
   "martialis"
  ],
  "_translators": {
-  "martial-ker-v1": "ker",
-  "martial-ker-v2": "ker"
+  "martial-ker-v1": "Walter C. A. Ker",
+  "martial-ker-v2": "Walter C. A. Ker"
  },
  "_translator_unchecked": {
   "martial-bohn": "no single translator to check: None"
@@ -55,7 +55,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "martial",
-   "translator_claimed": "ker",
+   "translator_claimed": "Walter C. A. Ker",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1919",
@@ -68,7 +68,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "martial",
-   "translator_claimed": "ker",
+   "translator_claimed": "Walter C. A. Ker",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1919",

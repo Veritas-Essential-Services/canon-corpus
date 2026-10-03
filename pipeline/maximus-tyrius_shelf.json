@@ -18,7 +18,7 @@
   "tyrius"
  ],
  "_translators": {
-  "maximus-tyrius-taylor-dissertations": "taylor"
+  "maximus-tyrius-taylor-dissertations": "Thomas Taylor"
  },
  "_checks": {
   "maximus-tyrius-taylor-dissertations": {
@@ -26,7 +26,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "maximus",
-   "translator_claimed": "taylor",
+   "translator_claimed": "Thomas Taylor",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1804",

@@ -32,9 +32,8 @@
   "statius"
  ],
  "_translators": {
-  "statius-mozley-v1": "mozley",
-  "statius-mozley-v2": "mozley",
-  "statius-lewis-thebaid-1767": "lewis"
+  "statius-mozley-v1": "J. H. Mozley",
+  "statius-mozley-v2": "J. H. Mozley"
  },
  "_checks": {
   "statius-mozley-v1": {
@@ -42,7 +41,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "statius",
-   "translator_claimed": "mozley",
+   "translator_claimed": "J. H. Mozley",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1928",
@@ -55,7 +54,7 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "statius",
-   "translator_claimed": "mozley",
+   "translator_claimed": "J. H. Mozley",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1928",
@@ -68,13 +67,14 @@
    "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "statius",
-   "translator_claimed": "lewis",
-   "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1767",
    "ia_date": "1767",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
+ },
+ "_translator_unchecked": {
+  "statius-lewis-thebaid-1767": "not named on the title page; catalogue attribution. The only Lewis in the OCR is a 'Rev. Mr. John Lewis' in a list of names"
  }
 }
