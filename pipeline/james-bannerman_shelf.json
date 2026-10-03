@@ -16,13 +16,14 @@
   "bannerman-inspiration-1865": [
    "inspirationinfal0000jame",
    "Inspiration: the Infallible Truth and Divine Authority of the Holy Scriptures (Edinburgh, 1865)"
+  ],
+  "bannerman-church-of-christ-2": [
+   "churchofchristtr02bann",
+   "The Church of Christ (Edinburgh, 1868), vol. 2"
   ]
  },
  "_alternates": {},
  "_excluded": {},
- "_pending": {
-  "churchofchristtr02bann (The Church of Christ, vol. 2, 1868)": "Internet Archive returned HTTP 500 for its text file on five tries 2026-10-03 (the file is listed, 1.4 MB). Restore it to internet_archive as bannerman-church-of-christ-2 and refetch."
- },
  "_checks": {
   "bannerman-church-of-christ-1": {
    "kind": "ia",
@@ -44,6 +45,17 @@
    "ia_rights": "ok: published 1865",
    "ia_date": "1865",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bannerman-church-of-christ-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bannerman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }

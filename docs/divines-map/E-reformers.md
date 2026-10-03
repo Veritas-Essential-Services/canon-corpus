@@ -179,7 +179,7 @@ Other lanes already hold William Cunningham, Thomas Chalmers and James Buchanan.
 
 | Work | Status | Where |
 |---|---|---|
-| Bannerman, The Church of Christ (2 vols, 1868) | have-raw (vol. 1) | `james-bannerman_shelf.json`; vol. 2 pending on an Internet Archive server error |
+| Bannerman, The Church of Christ (2 vols, 1868) | have-raw | `james-bannerman_shelf.json` |
 | Bannerman, Inspiration: the Infallible Truth and Divine Authority of the Holy Scriptures (1865) | have-raw | `james-bannerman_shelf.json` |
 | Smeaton, The Doctrine of the Atonement as taught by Christ Himself (1868); as taught by the Apostles (1870); The Doctrine of the Holy Spirit (1882) | have-raw | `george-smeaton_shelf.json` |
 | Kennedy, The Days of the Fathers in Ross-shire (4th ed., 1867); The Apostle of the North (1866) | have-raw | `john-kennedy-dingwall_shelf.json` |
@@ -200,7 +200,7 @@ Other lanes already hold William Cunningham, Thomas Chalmers and James Buchanan.
 | Foxe, The Acts and Monuments, ed. Cattley, with Townsend's dissertation (8 vols, 1837-1841) | have-raw | `john-foxe_shelf.json`; the full text, not the abridged Book of Martyrs |
 | Burnet, History of the Reformation of the Church of England, ed. Pocock (7 vols, Oxford, 1865) | have-raw | `gilbert-burnet_shelf.json` |
 | Strype, Ecclesiastical Memorials (1822, 6 parts), Annals (1824, 7 parts), Lives of Parker, Whitgift (3 vols each), Grindal, Aylmer, Cheke (1821), Sir Thomas Smith (1820) (Clarendon Press); Memorials of Cranmer (EHS, 1848-54, 3 vols) | have-raw | `strype_shelf.json`, 26 volumes |
-| Soames, The History of the Reformation of the Church of England (4 vols, 1826-28) | have-raw | `soames_shelf.json`; vol. 2 pending on an archive server error |
+| Soames, The History of the Reformation of the Church of England (4 vols, 1826-28) | have-raw | `soames_shelf.json`; vol. 2 is a Google scan |
 | Demaus, Hugh Latimer (1869); William Tyndale (1871) | have-raw | `demaus_shelf.json` |
 
 ## Reformed bishops of the Stuart Church
