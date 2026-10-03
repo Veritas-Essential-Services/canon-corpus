@@ -146,3 +146,10 @@ Other lanes already hold William Cunningham, Thomas Chalmers and James Buchanan.
 | Kennedy, The Days of the Fathers in Ross-shire (4th ed., 1867) | have-raw | `john-kennedy-dingwall_shelf.json` |
 | Hugh Martin, The Atonement (1877); The Prophet Jonah (3rd ed., 1880) | have-raw | `hugh-martin_shelf.json` |
 | Hugh Martin, The Shadow of Calvary | pending | no pre-1930 scan found |
+
+## English Reformation histories
+
+| Work | Status | Where |
+|---|---|---|
+| Foxe, The Acts and Monuments, ed. Cattley, with Townsend's dissertation (8 vols, 1837-1841) | have-raw | `john-foxe_shelf.json`; the full text, not the abridged Book of Martyrs |
+| Strype's Memorials, Annals and Lives (Oxford, 1812-1840); Burnet's History of the Reformation, ed. Pocock (1865) | pending | not yet searched |
