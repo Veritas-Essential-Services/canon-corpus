@@ -11,7 +11,7 @@ Tob.1.9			Tob.1.9
 Tob.1.10			Tob.1.10
 Tob.1.11	Tob.1.12	Tob.1.12	Tob.1.11
 Tob.1.12	Tob.1.13	Tob.1.13	Tob.1.12
-Tob.1.13	Tob.1.15	Tob.1.15	Tob.1.13
+Tob.1.13			Tob.1.13
 Tob.1.14	Tob.1.16	Tob.1.16	Tob.1.14
 Tob.1.15	Tob.1.18	Tob.1.18	Tob.1.15
 Tob.1.16	Tob.1.20	Tob.1.20	Tob.1.16
@@ -45,7 +45,7 @@ Tob.3.7	Tob.3.7	Tob.3.7	Tob.3.7
 Tob.3.8	Tob.3.8	Tob.3.8	Tob.3.8
 Tob.3.9	Tob.3.9	Tob.3.9	Tob.3.9
 Tob.3.10			Tob.3.10
-Tob.3.11	Tob.3.12	Tob.3.12	Tob.3.11
+Tob.3.11	Tob.3.12 Tob.3.23	Tob.3.12 Tob.3.23	Tob.3.11
 Tob.3.12	Tob.3.14	Tob.3.14	Tob.3.12
 Tob.3.13	Tob.3.15	Tob.3.15	Tob.3.13
 Tob.3.14	Tob.3.16	Tob.3.16	Tob.3.14
@@ -113,15 +113,15 @@ Tob.6.15	Tob.6.16	Tob.6.16	Tob.6.15
 Tob.6.16	Tob.6.18 Tob.6.19	Tob.6.18 Tob.6.19	Tob.6.16
 Tob.6.17			Tob.6.17
 Tob.7.1	Tob.7.1	Tob.7.1	Tob.7.1
-Tob.7.2	Tob.7.2 Tob.9.5	Tob.7.2 Tob.9.5	Tob.7.2
+Tob.7.2	Tob.7.2	Tob.7.2	Tob.7.2
 Tob.7.3	Tob.7.3 Tob.7.4	Tob.7.3 Tob.7.4	Tob.7.3
 Tob.7.4	Tob.7.5	Tob.7.5	Tob.7.4
-Tob.7.5	Tob.7.6 Tob.9.7	Tob.7.6 Tob.9.7	Tob.7.5
-Tob.7.6	Tob.7.7 Tob.9.8	Tob.7.7 Tob.9.8	Tob.7.6
-Tob.7.7	Tob.9.9	Tob.9.9	Tob.7.7
-Tob.7.8			Tob.7.8
+Tob.7.5	Tob.7.6	Tob.7.6	Tob.7.5
+Tob.7.6	Tob.7.7	Tob.7.7	Tob.7.6
+Tob.7.7	Tob.7.7	Tob.7.7	Tob.7.7
+Tob.7.8	Tob.7.8	Tob.7.8	Tob.7.8
 Tob.7.9			Tob.7.9
-Tob.7.10	Tob.7.8	Tob.7.8	Tob.7.10
+Tob.7.10			Tob.7.10
 Tob.7.11	Tob.7.10	Tob.7.10	Tob.7.11
 Tob.7.12	Tob.7.13	Tob.7.13	Tob.7.12
 Tob.7.13	Tob.7.15	Tob.7.15	Tob.7.13
@@ -152,12 +152,12 @@ Tob.8.19	Tob.8.21	Tob.8.21	Tob.8.19
 Tob.8.20			Tob.8.20
 Tob.8.21	Tob.8.24	Tob.8.24	Tob.8.21
 Tob.9.1	Tob.8.24 Tob.9.1	Tob.8.24 Tob.9.1	Tob.9.1
-Tob.9.2			Tob.9.2
-Tob.9.3			Tob.9.3
-Tob.9.4			Tob.9.4
-Tob.9.5			Tob.9.5
-Tob.9.6			Tob.9.6
-Tob.10.1	Tob.9.4	Tob.9.4	Tob.10.1
+Tob.9.2	Tob.9.3	Tob.9.3	Tob.9.2
+Tob.9.3	Tob.9.5	Tob.9.5	Tob.9.3
+Tob.9.4	Tob.9.4	Tob.9.4	Tob.9.4
+Tob.9.5	Tob.9.6	Tob.9.6	Tob.9.5
+Tob.9.6	Tob.9.7 Tob.9.8	Tob.9.7 Tob.9.8	Tob.9.6
+Tob.10.1			Tob.10.1
 Tob.10.2	Tob.10.2	Tob.10.2	Tob.10.2
 Tob.10.3			Tob.10.3
 Tob.10.4	Tob.10.3	Tob.10.3	Tob.10.4
@@ -182,7 +182,7 @@ Tob.11.10	Tob.11.10	Tob.11.10	Tob.11.10
 Tob.11.11	Tob.11.13	Tob.11.13	Tob.11.11
 Tob.11.12	Tob.11.14	Tob.11.14	Tob.11.12
 Tob.11.13	Tob.11.15	Tob.11.15	Tob.11.13
-Tob.11.14	Tob.3.23 Tob.11.16	Tob.3.23 Tob.11.16	Tob.11.14
+Tob.11.14	Tob.11.16	Tob.11.16	Tob.11.14
 Tob.11.15	Tob.11.17	Tob.11.17	Tob.11.15
 Tob.11.16			Tob.11.16
 Tob.11.17			Tob.11.17
@@ -262,7 +262,7 @@ Jdt.1.16			Jdt.1.16
 Jdt.2.1	Jdt.2.1	Jdt.2.1	Jdt.2.1
 Jdt.2.2	Jdt.2.2	Jdt.2.2	Jdt.2.2
 Jdt.2.3			Jdt.2.3
-Jdt.2.4	Jdt.2.4 Jdt.14.11	Jdt.2.4 Jdt.14.11	Jdt.2.4
+Jdt.2.4	Jdt.2.4	Jdt.2.4	Jdt.2.4
 Jdt.2.5			Jdt.2.5
 Jdt.2.6	Jdt.2.5	Jdt.2.5	Jdt.2.6
 Jdt.2.7			Jdt.2.7
@@ -525,19 +525,19 @@ Jdt.13.17	Jdt.13.22	Jdt.13.22	Jdt.13.17
 Jdt.13.18	Jdt.13.23 Jdt.13.24	Jdt.13.23 Jdt.13.24	Jdt.13.18
 Jdt.13.19	Jdt.13.25	Jdt.13.25	Jdt.13.19
 Jdt.13.20			Jdt.13.20
-Jdt.14.1	Jdt.13.27 Jdt.14.1	Jdt.13.27 Jdt.14.1	Jdt.14.1
+Jdt.14.1	Jdt.14.1	Jdt.14.1	Jdt.14.1
 Jdt.14.2	Jdt.14.2	Jdt.14.2	Jdt.14.2
 Jdt.14.3	Jdt.14.4	Jdt.14.4	Jdt.14.3
 Jdt.14.4			Jdt.14.4
 Jdt.14.5	Jdt.13.28	Jdt.13.28	Jdt.14.5
-Jdt.14.6	Jdt.13.29	Jdt.13.29	Jdt.14.6
-Jdt.14.7	Jdt.13.30	Jdt.13.30	Jdt.14.7
+Jdt.14.6	Jdt.13.27 Jdt.13.29	Jdt.13.27 Jdt.13.29	Jdt.14.6
+Jdt.14.7	Jdt.13.30 Jdt.13.31	Jdt.13.30 Jdt.13.31	Jdt.14.7
 Jdt.14.8			Jdt.14.8
 Jdt.14.9			Jdt.14.9
-Jdt.14.10	Jdt.13.31 Jdt.14.6	Jdt.13.31 Jdt.14.6	Jdt.14.10
+Jdt.14.10	Jdt.14.6	Jdt.14.6	Jdt.14.10
 Jdt.14.11	Jdt.14.7	Jdt.14.7	Jdt.14.11
-Jdt.14.12			Jdt.14.12
-Jdt.14.13			Jdt.14.13
+Jdt.14.12	Jdt.14.11	Jdt.14.11	Jdt.14.12
+Jdt.14.13	Jdt.14.11	Jdt.14.11	Jdt.14.13
 Jdt.14.14	Jdt.14.9 Jdt.14.13	Jdt.14.9 Jdt.14.13	Jdt.14.14
 Jdt.14.15			Jdt.14.15
 Jdt.14.16	Jdt.14.14	Jdt.14.14	Jdt.14.16
@@ -646,7 +646,7 @@ AddEsth.14.15	Esth.14.15	Esth.14.15	Esth.4.17u
 AddEsth.14.16	Esth.14.16	Esth.14.16	Esth.4.17w
 AddEsth.14.17	Esth.14.17	Esth.14.17	Esth.4.17x
 AddEsth.14.18	Esth.14.18	Esth.14.18	Esth.4.17y
-AddEsth.14.19	Esth.14.19 Esth.15.3	Esth.14.19 Esth.15.3	Esth.4.17z
+AddEsth.14.19	Esth.14.19	Esth.14.19	Esth.4.17z
 AddEsth.15.1	Esth.15.4	Esth.15.4	Esth.5.1
 AddEsth.15.2	Esth.15.5	Esth.15.5	Esth.5.1a
 AddEsth.15.3	Esth.15.6	Esth.15.6	Esth.5.1a
@@ -799,7 +799,7 @@ Wis.6.7	Wis.6.8	Wis.6.8	Wis.6.7
 Wis.6.8	Wis.6.9	Wis.6.9	Wis.6.8
 Wis.6.9	Wis.6.10	Wis.6.10	Wis.6.9
 Wis.6.10	Wis.6.11	Wis.6.11	Wis.6.10
-Wis.6.11			Wis.6.11
+Wis.6.11	Wis.6.12	Wis.6.12	Wis.6.11
 Wis.6.12	Wis.6.13	Wis.6.13	Wis.6.12
 Wis.6.13	Wis.6.14	Wis.6.14	Wis.6.13
 Wis.6.14	Wis.6.15	Wis.6.15	Wis.6.14
@@ -813,7 +813,7 @@ Wis.6.21	Wis.6.22	Wis.6.22	Wis.6.21
 Wis.6.22	Wis.6.24	Wis.6.24	Wis.6.22
 Wis.6.23	Wis.6.25	Wis.6.25	Wis.6.23
 Wis.6.24	Wis.6.26	Wis.6.26	Wis.6.24
-Wis.6.25	Wis.6.12 Wis.6.27	Wis.6.12 Wis.6.27	Wis.6.25
+Wis.6.25	Wis.6.27	Wis.6.27	Wis.6.25
 Wis.7.1	Wis.7.1	Wis.7.1	Wis.7.1
 Wis.7.2	Wis.7.2	Wis.7.2	Wis.7.2
 Wis.7.3	Wis.7.3	Wis.7.3	Wis.7.3
@@ -1140,7 +1140,7 @@ Sir.1.12	Sir.1.12	Sir.1.12	Sir.1.12
 Sir.1.13	Sir.1.13	Sir.1.13	Sir.1.13
 Sir.1.14	Sir.1.16	Sir.1.16	Sir.1.14
 Sir.1.15			Sir.1.15
-Sir.1.16	Sir.1.20 Sir.1.34	Sir.1.20 Sir.1.34	Sir.1.16
+Sir.1.16	Sir.1.20	Sir.1.20	Sir.1.16
 Sir.1.17	Sir.1.21	Sir.1.21	Sir.1.17
 Sir.1.18	Sir.1.22 Sir.1.23	Sir.1.22 Sir.1.23	Sir.1.18
 Sir.1.19	Sir.1.24	Sir.1.24	Sir.1.19
@@ -1151,11 +1151,11 @@ Sir.1.23	Sir.1.29	Sir.1.29	Sir.1.23
 Sir.1.24	Sir.1.30	Sir.1.30	Sir.1.24
 Sir.1.25	Sir.1.26 Sir.1.31 Sir.1.32	Sir.1.26 Sir.1.31 Sir.1.32	Sir.1.25
 Sir.1.26	Sir.1.33	Sir.1.33	Sir.1.26
-Sir.1.27	Sir.1.35	Sir.1.35	Sir.1.27
+Sir.1.27	Sir.1.34 Sir.1.35	Sir.1.34 Sir.1.35	Sir.1.27
 Sir.1.28	Sir.1.36	Sir.1.36	Sir.1.28
 Sir.1.29	Sir.1.37	Sir.1.37	Sir.1.29
-Sir.1.30	Sir.1.38 Sir.1.39	Sir.1.38 Sir.1.39	Sir.1.30
-Sir.2.1	Sir.1.40 Sir.2.1	Sir.1.40 Sir.2.1	Sir.2.1
+Sir.1.30	Sir.1.38 Sir.1.39 Sir.1.40	Sir.1.38 Sir.1.39 Sir.1.40	Sir.1.30
+Sir.2.1	Sir.2.1	Sir.2.1	Sir.2.1
 Sir.2.2	Sir.2.2	Sir.2.2	Sir.2.2
 Sir.2.3	Sir.2.3	Sir.2.3	Sir.2.3
 Sir.2.4	Sir.2.4	Sir.2.4	Sir.2.4
@@ -1170,9 +1170,9 @@ Sir.2.12	Sir.2.14	Sir.2.14	Sir.2.12
 Sir.2.13	Sir.2.15	Sir.2.15	Sir.2.13
 Sir.2.14	Sir.2.16 Sir.2.21	Sir.2.16 Sir.2.21	Sir.2.14
 Sir.2.15	Sir.2.18 Sir.2.21	Sir.2.18 Sir.2.21	Sir.2.15
-Sir.2.16	Sir.2.19 Sir.3.1	Sir.2.19 Sir.3.1	Sir.2.16
+Sir.2.16	Sir.2.19	Sir.2.19	Sir.2.16
 Sir.2.17	Sir.2.10 Sir.2.20	Sir.2.10 Sir.2.20	Sir.2.17
-Sir.2.18	Sir.2.11 Sir.2.22	Sir.2.11 Sir.2.22	Sir.2.18
+Sir.2.18	Sir.2.11 Sir.2.22 Sir.2.23	Sir.2.11 Sir.2.22 Sir.2.23	Sir.2.18
 Sir.3.1	Sir.3.2	Sir.3.2	Sir.3.1
 Sir.3.2	Sir.3.3	Sir.3.3	Sir.3.2
 Sir.3.3	Sir.3.4	Sir.3.4	Sir.3.3
@@ -1309,7 +1309,7 @@ Sir.7.19	Sir.7.21	Sir.7.21	Sir.7.19
 Sir.7.20	Sir.7.22	Sir.7.22	Sir.7.20
 Sir.7.21	Sir.7.23	Sir.7.23	Sir.7.21
 Sir.7.22	Sir.7.24	Sir.7.24	Sir.7.22
-Sir.7.23	Sir.7.25	Sir.7.25	Sir.7.23 Sir.30.13b
+Sir.7.23	Sir.7.25	Sir.7.25	Sir.7.23
 Sir.7.24	Sir.7.26	Sir.7.26	Sir.7.24
 Sir.7.25	Sir.7.27	Sir.7.27	Sir.7.25
 Sir.7.26	Sir.7.28	Sir.7.28	Sir.7.26
@@ -1354,10 +1354,10 @@ Sir.9.9	Sir.9.12 Sir.9.13	Sir.9.12 Sir.9.13	Sir.9.9
 Sir.9.10	Sir.9.15	Sir.9.15	Sir.9.10
 Sir.9.11	Sir.9.16	Sir.9.16	Sir.9.11
 Sir.9.12	Sir.9.17	Sir.9.17	Sir.9.12
-Sir.9.13	Sir.9.18 Sir.9.19	Sir.9.18 Sir.9.19	Sir.9.13
-Sir.9.14			Sir.9.14
-Sir.9.15	Sir.9.20	Sir.9.20	Sir.9.15
-Sir.9.16	Sir.9.22 Sir.23.31	Sir.9.22 Sir.23.31	Sir.9.16
+Sir.9.13	Sir.9.18 Sir.9.19 Sir.9.20	Sir.9.18 Sir.9.19 Sir.9.20	Sir.9.13
+Sir.9.14	Sir.9.21	Sir.9.21	Sir.9.14
+Sir.9.15			Sir.9.15
+Sir.9.16	Sir.9.22	Sir.9.22	Sir.9.16
 Sir.9.17	Sir.9.24	Sir.9.24	Sir.9.17
 Sir.9.18	Sir.9.25	Sir.9.25	Sir.9.18
 Sir.10.1	Sir.10.1	Sir.10.1	Sir.10.1
@@ -1527,7 +1527,7 @@ Sir.16.8	Sir.16.9	Sir.16.9	Sir.16.8
 Sir.16.9	Sir.16.10	Sir.16.10	Sir.16.9
 Sir.16.10	Sir.16.11	Sir.16.11	Sir.16.10
 Sir.16.11	Sir.16.12	Sir.16.12	Sir.16.11
-Sir.16.12	Sir.2.23 Sir.16.13	Sir.2.23 Sir.16.13	Sir.16.12
+Sir.16.12	Sir.16.13	Sir.16.13	Sir.16.12
 Sir.16.13	Sir.16.14	Sir.16.14	Sir.16.13
 Sir.16.14	Sir.16.15	Sir.16.15	Sir.16.14
 Sir.16.15			
@@ -1595,7 +1595,7 @@ Sir.18.14	Sir.18.14	Sir.18.14	Sir.18.14
 Sir.18.15	Sir.18.15	Sir.18.15	Sir.18.15
 Sir.18.16	Sir.18.16	Sir.18.16	Sir.18.16
 Sir.18.17	Sir.18.17	Sir.18.17	Sir.18.17
-Sir.18.18	Sir.18.18 Sir.20.14	Sir.18.18 Sir.20.14	Sir.18.18
+Sir.18.18	Sir.18.18	Sir.18.18	Sir.18.18
 Sir.18.19	Sir.18.19	Sir.18.19	Sir.18.19
 Sir.18.20	Sir.18.20	Sir.18.20	Sir.18.20
 Sir.18.21	Sir.18.21	Sir.18.21	Sir.18.21
@@ -1652,10 +1652,10 @@ Sir.20.8	Sir.20.8	Sir.20.8	Sir.20.8
 Sir.20.9	Sir.20.9	Sir.20.9	Sir.20.9
 Sir.20.10	Sir.20.10	Sir.20.10	Sir.20.10
 Sir.20.11	Sir.20.11	Sir.20.11	Sir.20.11
-Sir.20.12	Sir.20.12 Sir.20.15	Sir.20.12 Sir.20.15	Sir.20.12
+Sir.20.12	Sir.20.12	Sir.20.12	Sir.20.12
 Sir.20.13	Sir.20.13	Sir.20.13	Sir.20.13
-Sir.20.14			Sir.20.14
-Sir.20.15	Sir.20.16	Sir.20.16	Sir.20.15
+Sir.20.14	Sir.20.14	Sir.20.14	Sir.20.14
+Sir.20.15	Sir.20.15 Sir.20.16	Sir.20.15 Sir.20.16	Sir.20.15
 Sir.20.16	Sir.20.17	Sir.20.17	Sir.20.16
 Sir.20.17	Sir.20.18	Sir.20.18	Sir.20.17
 Sir.20.18	Sir.20.20	Sir.20.20	Sir.20.18
@@ -1920,7 +1920,7 @@ Sir.29.16	Sir.29.20 Sir.29.23	Sir.29.20 Sir.29.23	Sir.29.16
 Sir.29.17	Sir.29.21	Sir.29.21	Sir.29.17
 Sir.29.18	Sir.29.24	Sir.29.24	Sir.29.18
 Sir.29.19	Sir.29.25	Sir.29.25	Sir.29.19
-Sir.29.20	Sir.9.21 Sir.29.26	Sir.9.21 Sir.29.26	Sir.29.20
+Sir.29.20	Sir.29.26	Sir.29.26	Sir.29.20
 Sir.29.21	Sir.29.27	Sir.29.27	Sir.29.21
 Sir.29.22	Sir.29.28	Sir.29.28	Sir.29.22
 Sir.29.23	Sir.29.29	Sir.29.29	Sir.29.23
@@ -1940,7 +1940,7 @@ Sir.30.8	Sir.30.8	Sir.30.8	Sir.30.8
 Sir.30.9	Sir.30.9	Sir.30.9	Sir.30.9
 Sir.30.10	Sir.30.10	Sir.30.10	Sir.30.10
 Sir.30.11	Sir.30.11	Sir.30.11	Sir.30.11
-Sir.30.12	Sir.30.12	Sir.30.12	Sir.30.12
+Sir.30.12	Sir.30.12	Sir.30.12	Sir.30.12 Sir.30.13b
 Sir.30.13	Sir.30.13	Sir.30.13	Sir.30.13
 Sir.30.14	Sir.30.14	Sir.30.14	Sir.30.14
 Sir.30.15	Sir.30.15	Sir.30.15	Sir.30.15
@@ -1984,11 +1984,11 @@ Sir.31.27	Sir.31.35	Sir.31.35	Sir.34.27
 Sir.31.28	Sir.31.36	Sir.31.36	Sir.34.28
 Sir.31.29	Sir.31.39	Sir.31.39	Sir.34.29
 Sir.31.30	Sir.31.40	Sir.31.40	Sir.34.30
-Sir.31.31	Sir.31.41	Sir.31.41	Sir.34.31
+Sir.31.31	Sir.31.41 Sir.31.42	Sir.31.41 Sir.31.42	Sir.34.31
 Sir.32.1	Sir.32.1 Sir.32.2	Sir.32.1 Sir.32.2	Sir.35.1
 Sir.32.2	Sir.32.3	Sir.32.3	Sir.35.2
-Sir.32.3	Sir.31.42 Sir.32.4	Sir.31.42 Sir.32.4	Sir.35.3
-Sir.32.4	Sir.32.6 Sir.39.9	Sir.32.6 Sir.39.9	Sir.35.4
+Sir.32.3	Sir.32.4	Sir.32.4	Sir.35.3
+Sir.32.4	Sir.32.6	Sir.32.6	Sir.35.4
 Sir.32.5	Sir.32.7	Sir.32.7	Sir.35.5
 Sir.32.6	Sir.32.8	Sir.32.8	Sir.35.6
 Sir.32.7	Sir.32.10	Sir.32.10	Sir.35.7
@@ -2143,7 +2143,7 @@ Sir.37.28	Sir.37.31	Sir.37.31	Sir.37.28
 Sir.37.29	Sir.37.32	Sir.37.32	Sir.37.29
 Sir.37.30	Sir.37.33	Sir.37.33	Sir.37.30
 Sir.37.31	Sir.37.34	Sir.37.34	Sir.37.31
-Sir.38.1			Sir.38.1
+Sir.38.1	Sir.38.1	Sir.38.1	Sir.38.1
 Sir.38.2	Sir.38.2	Sir.38.2	Sir.38.2
 Sir.38.3	Sir.38.3	Sir.38.3	Sir.38.3
 Sir.38.4	Sir.38.4	Sir.38.4	Sir.38.4
@@ -2154,7 +2154,7 @@ Sir.38.8	Sir.38.7 Sir.38.8	Sir.38.7 Sir.38.8	Sir.38.8
 Sir.38.9	Sir.38.9	Sir.38.9	Sir.38.9
 Sir.38.10	Sir.38.10	Sir.38.10	Sir.38.10
 Sir.38.11	Sir.38.11	Sir.38.11	Sir.38.11
-Sir.38.12	Sir.38.1 Sir.38.12	Sir.38.1 Sir.38.12	Sir.38.12
+Sir.38.12	Sir.38.12	Sir.38.12	Sir.38.12
 Sir.38.13	Sir.38.13	Sir.38.13	Sir.38.13
 Sir.38.14	Sir.38.14	Sir.38.14	Sir.38.14
 Sir.38.15	Sir.38.15	Sir.38.15	Sir.38.15
@@ -2182,7 +2182,7 @@ Sir.39.2	Sir.39.2	Sir.39.2	Sir.39.2
 Sir.39.3	Sir.39.3	Sir.39.3	Sir.39.3
 Sir.39.4	Sir.39.4 Sir.39.5	Sir.39.4 Sir.39.5	Sir.39.4
 Sir.39.5	Sir.39.6 Sir.39.7	Sir.39.6 Sir.39.7	Sir.39.5
-Sir.39.6	Sir.39.8	Sir.39.8	Sir.39.6
+Sir.39.6	Sir.39.8 Sir.39.9	Sir.39.8 Sir.39.9	Sir.39.6
 Sir.39.7	Sir.39.10	Sir.39.10	Sir.39.7
 Sir.39.8	Sir.39.11	Sir.39.11	Sir.39.8
 Sir.39.9	Sir.39.13	Sir.39.13	Sir.39.9
@@ -2430,7 +2430,7 @@ Sir.48.9	Sir.48.9	Sir.48.9	Sir.48.9
 Sir.48.10	Sir.48.10	Sir.48.10	Sir.48.10
 Sir.48.11	Sir.48.11	Sir.48.11	Sir.48.11
 Sir.48.12	Sir.48.13	Sir.48.13	Sir.48.12
-Sir.48.13	Sir.48.14 Sir.49.18	Sir.48.14 Sir.49.18	Sir.48.13
+Sir.48.13	Sir.48.14	Sir.48.14	Sir.48.13
 Sir.48.14	Sir.48.15	Sir.48.15	Sir.48.14
 Sir.48.15	Sir.48.16 Sir.48.17	Sir.48.16 Sir.48.17	Sir.48.15
 Sir.48.16	Sir.48.18	Sir.48.18	Sir.48.16
@@ -2457,7 +2457,7 @@ Sir.49.11	Sir.49.13	Sir.49.13	Sir.49.11
 Sir.49.12	Sir.49.14	Sir.49.14	Sir.49.12
 Sir.49.13	Sir.49.15	Sir.49.15	Sir.49.13
 Sir.49.14	Sir.49.16	Sir.49.16	Sir.49.14
-Sir.49.15	Sir.49.17	Sir.49.17	Sir.49.15
+Sir.49.15	Sir.49.17 Sir.49.18	Sir.49.17 Sir.49.18	Sir.49.15
 Sir.49.16	Sir.49.19	Sir.49.19	Sir.49.16
 Sir.50.1	Sir.50.1	Sir.50.1	Sir.50.1
 Sir.50.2	Sir.50.2	Sir.50.2	Sir.50.2
@@ -2665,7 +2665,7 @@ Bar.6.4	Bar.6.3	Bar.6.3	EpJer.1.4
 Bar.6.5	Bar.6.4	Bar.6.4	EpJer.1.5
 Bar.6.6	Bar.6.5	Bar.6.5	EpJer.1.6
 Bar.6.7	Bar.6.6	Bar.6.6	EpJer.1.7
-Bar.6.8			EpJer.1.8
+Bar.6.8	Bar.6.7		EpJer.1.8
 Bar.6.9	Bar.6.8	Bar.6.8	EpJer.1.9
 Bar.6.10	Bar.6.9	Bar.6.9	EpJer.1.10
 Bar.6.11	Bar.6.10	Bar.6.10	EpJer.1.11
@@ -2695,7 +2695,7 @@ Bar.6.34	Bar.6.33	Bar.6.33	EpJer.1.34
 Bar.6.35	Bar.6.34	Bar.6.34	EpJer.1.35
 Bar.6.36	Bar.6.35	Bar.6.35	EpJer.1.36
 Bar.6.37	Bar.6.36	Bar.6.36	EpJer.1.37
-Bar.6.38	Bar.6.7	Bar.6.7	EpJer.1.38
+Bar.6.38	Bar.6.37	Bar.6.7	EpJer.1.38
 Bar.6.39	Bar.6.38	Bar.6.38	EpJer.1.39
 Bar.6.40	Bar.6.39	Bar.6.39	EpJer.1.40
 Bar.6.41	Bar.6.40	Bar.6.40	EpJer.1.41
@@ -3470,7 +3470,7 @@ Bel.1.42	Dan.14.41	Dan.14.41	Bel.1.42
 1Macc.10.22	1Macc.10.22	1Macc.10.22	1Macc.10.22
 1Macc.10.23	1Macc.10.23	1Macc.10.23	1Macc.10.23
 1Macc.10.24	1Macc.10.24	1Macc.10.24	1Macc.10.24
-1Macc.10.25			1Macc.10.25
+1Macc.10.25	1Macc.10.25	1Macc.10.25	1Macc.10.25
 1Macc.10.26	1Macc.10.26	1Macc.10.26	1Macc.10.26
 1Macc.10.27	1Macc.10.27	1Macc.10.27	1Macc.10.27
 1Macc.10.28	1Macc.10.28	1Macc.10.28	1Macc.10.28
@@ -3564,7 +3564,7 @@ Bel.1.42	Dan.14.41	Dan.14.41	Bel.1.42
 1Macc.11.27	1Macc.11.27	1Macc.11.27	1Macc.11.27
 1Macc.11.28	1Macc.11.28	1Macc.11.28	1Macc.11.28
 1Macc.11.29	1Macc.11.29	1Macc.11.29	1Macc.11.29
-1Macc.11.30	1Macc.10.25 1Macc.11.30	1Macc.10.25 1Macc.11.30	1Macc.11.30
+1Macc.11.30	1Macc.11.30	1Macc.11.30	1Macc.11.30
 1Macc.11.31	1Macc.11.31	1Macc.11.31	1Macc.11.31
 1Macc.11.32	1Macc.11.32	1Macc.11.32	1Macc.11.32
 1Macc.11.33	1Macc.11.33	1Macc.11.33	1Macc.11.33
@@ -3734,7 +3734,7 @@ Bel.1.42	Dan.14.41	Dan.14.41	Bel.1.42
 1Macc.14.17	1Macc.14.17	1Macc.14.17	1Macc.14.17
 1Macc.14.18	1Macc.14.18	1Macc.14.18	1Macc.14.18
 1Macc.14.19	1Macc.14.19	1Macc.14.19	1Macc.14.19
-1Macc.14.20			1Macc.14.20
+1Macc.14.20	1Macc.14.20	1Macc.14.20	1Macc.14.20
 1Macc.14.21	1Macc.14.21	1Macc.14.21	1Macc.14.21
 1Macc.14.22	1Macc.14.22	1Macc.14.22	1Macc.14.22
 1Macc.14.23	1Macc.14.23	1Macc.14.23	1Macc.14.23
@@ -3765,7 +3765,7 @@ Bel.1.42	Dan.14.41	Dan.14.41	Bel.1.42
 1Macc.14.48	1Macc.14.48	1Macc.14.48	1Macc.14.48
 1Macc.14.49	1Macc.14.49	1Macc.14.49	1Macc.14.49
 1Macc.15.1	1Macc.15.1	1Macc.15.1	1Macc.15.1
-1Macc.15.2	1Macc.14.20 1Macc.15.2	1Macc.14.20 1Macc.15.2	1Macc.15.2
+1Macc.15.2	1Macc.15.2	1Macc.15.2	1Macc.15.2
 1Macc.15.3	1Macc.15.3	1Macc.15.3	1Macc.15.3
 1Macc.15.4	1Macc.15.4	1Macc.15.4	1Macc.15.4
 1Macc.15.5	1Macc.15.5	1Macc.15.5	1Macc.15.5

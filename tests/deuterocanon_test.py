@@ -65,7 +65,12 @@ check("Psalm 151 has no key and says why", r and not r["resolved"] and "151" in 
 # The Vulgate is keyed through the Douay.
 vk = {k: r["vulgate"] for k, r in rows.items()}
 dk = {k: r["douay"] for k, r in rows.items()}
-check("the Vulgate's and the Douay's keys agree verse for verse", vk == dk)
+diff = {k for k in rows if vk[k] != dk[k]}
+check("the Vulgate's and the Douay's keys agree verse for verse, except where the Douay file "
+      "prints the Epistle of Jeremy's 6:37 in the slot of 6:7",
+      diff == {"Bar.6.8", "Bar.6.38"} and C("Bar.6.38", "vulgate") == ["Bar.6.37"]
+      and C("Bar.6.38", "douay") == ["Bar.6.7"] and C("Bar.6.8", "vulgate") == ["Bar.6.7"]
+      and C("Bar.6.8", "douay") == [])
 vg = V.load(V.VULGATE_PATH)
 def expand(runs):
     out = set()
@@ -86,10 +91,29 @@ check("Jerome's Tobit and Judith: the Douay's unkeyed verses there say so",
 # The house rows, each read in both texts.
 hr = W["brenton"]["house_rows"]
 check("Brenton's house rows are all present and in the index",
-      set(hr) == {"Esth.4.17o", "Esth.8.12c", "Esth.8.12d", "Dan.3.72a", "Esth.5.1", "Esth.5.2"}
+      set(hr) == {"Esth.4.17o", "Esth.8.12c", "Esth.8.12d", "Dan.3.72a", "Esth.5.1", "Esth.5.2",
+                  "Sir.30.13b"}
       and all(v in C(k, "brenton") for v, h in hr.items() for k in h["kjva"]))
 check("Brenton's Dan 3:72a is the KJV's Song of the Three 45 (winter and summer)",
       C("PrAzar.1.45", "brenton") == ["Dan.3.72a"])
+
+# Found by reading the weakest pairings and every far-flung key (2026-10-03).
+check("review: Brenton's Sir 30:13b is the KJV's 30:12, not 7:23", is_("Sir.30.13b", "brenton", "Sir.30.12"))
+check("review: the Douay's Sir 9:21 is 9:14, not 29:20; 20:14 is 20:14, not 18:18",
+      is_("Sir.9.21", "douay", "Sir.9.14") and is_("Sir.20.14", "douay", "Sir.20.14"))
+check("review: the Douay's Tob 9:3-8 sit in the KJV's 9:2-6, not chapters 7 and 10",
+      is_("Tob.9.3", "douay", "Tob.9.2") and is_("Tob.9.4", "douay", "Tob.9.4")
+      and is_("Tob.9.5", "douay", "Tob.9.3") and is_("Tob.9.8", "douay", "Tob.9.6"))
+check("review: Jdt 13:31 (Douay) is the KJV's 14:7; Jdt 14:11 is 14:12-13",
+      is_("Jdt.13.31", "douay", "Jdt.14.7") and is_("Jdt.14.11", "douay", "Jdt.14.12", "Jdt.14.13"))
+r = R("Esth.15.3", "douay")
+check("review: Mordecai's charge (Vulgate Esth 15:3) has no key and says why",
+      r and not r["resolved"] and "4:8" in r["why"])
+check("review: Latin-only verses (Sir 3:1, 23:31; Tob 1:15) have no key",
+      all(not R(x, "douay")["resolved"] and "Jerome's Latin has this" in R(x, "douay")["why"]
+          for x in ("Sir.3.1", "Sir.23.31", "Tob.1.15")))
+check("every Douay house row is listed with its why", len(W["douay"]["house_rows"]) >= 30
+      and all(h["why"] for h in W["douay"]["house_rows"].values()))
 
 # The map and the index agree.
 ok = True

@@ -538,6 +538,10 @@ DOUAY_ROWS = {
     "2Thess.2.14": (["2Thess.2.15"], "hold the traditions"),
     "2Thess.2.15": (["2Thess.2.16"], "who hath loved us"),
     "2Thess.2.16": (["2Thess.2.17"], "Exhort your hearts"),
+    # This file prints the Epistle of Jeremy's 6:37 ("Viduae non miserebuntur")
+    # in the slot of 6:7 and leaves 6:37 empty; the Clementine's 6:7 ("lingua
+    # ipsorum polita") has no English here.
+    "Bar.6.7": (["Bar.6.37"], "They shall not pity the widow"),
 }
 
 

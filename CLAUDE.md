@@ -193,8 +193,9 @@ The living truth for project state is the Obsidian vault:
   numbering.
 - convert_douay — the Douay-Rheims (Challoner; fetch_sources.DOUAY, PD, pinned
   GitHub mirror) → data/books/douay.json (gitignored): the Vulgate's English,
-  in its numbering; each unit's `vulgate` and `kjv`. DOUAY_ROWS holds the 24
-  verses where this edition breaks verses off the Clementine's; empty padding
+  in its numbering; each unit's `vulgate` and `kjv`. DOUAY_ROWS holds the 26
+  verses where this edition breaks verses off the Clementine's (Bar 6:7: it
+  prints 6:37 in that slot); empty padding
   verses in the file are dropped, never given ids.
 - Brenton's English Septuagint (1851, PD; fetch_sources.BRENTON: eBible.org's
   USFM zip, pinned in a GitHub mirror) → convert_brenton → data/books/brenton.json
@@ -247,7 +248,8 @@ The living truth for project state is the Obsidian vault:
   Brenton and the Douay to it by their English (the Vulgate keyed through the
   Douay, which keeps its numbers) → data/versification/deuterocanon.json +
   data/parallel/deuterocanon-parallel.tsv (COMMITTED; PD, the house's
-  reading). HOUSE_ROWS for what the alignment misses. Each unit of those
+  reading). HOUSE_ROWS for what the alignment misses (found by --audit
+  and by scanning for keys far from their neighbours'). Each unit of those
   books carries `kjva` (versification.resolve_dc). Jerome's Tobit and Judith
   are another recension: keyed only where the words agree. R. H. Charles's
   1913 Apocrypha has a reserved slot (WITNESSES, TSV_COLUMNS): see

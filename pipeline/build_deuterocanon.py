@@ -46,8 +46,10 @@ against the KJV's Apocrypha:
      nothing the KJV's do.
 
 The Vulgate is keyed through the Douay: a Douay verse is the Clementine verse
-of the same number in these books (DOUAY_ROWS has none here). A Clementine
-verse the Douay leaves empty has no key, and says so.
+it reads (the same number, except at structure_texts.DOUAY_ROWS: this file
+prints the Epistle of Jeremy's 6:37 in the slot of 6:7). A Clementine verse
+the Douay leaves empty has no key, and says so, unless VULGATE_ROWS keys it
+from the Latin.
 
 The build refuses to write unless every selected witness verse has keys
 that are KJV Apocrypha units or a stated reason for having none. KJV
@@ -164,6 +166,10 @@ JEROME_BOOKS = {"Tob", "Jdt"}
 # 5:1-2, keyed to the KJV, and also the Greek's expansion the KJV prints as
 # Rest of Esther 15:1, 15:11).
 _REREAD = "read in both texts: the alignment's order or overlap misses it"
+_FAR = ("read in both texts: the alignment sent it to a verse elsewhere in the book "
+        "that shares its words")
+_LATIN = ("Jerome's Latin has this and the Greek the KJV translates does not, so there "
+          "is no shared key")
 HOUSE_ROWS = {
     "brenton": {
         "Esth.4.17o": (["AddEsth.14.8", "AddEsth.14.9"], "not been contented with the bitterness",
@@ -180,7 +186,59 @@ HOUSE_ROWS = {
         "Esth.5.2": (["AddEsth.15.11"], "raised the golden sceptre he laid it upon her neck",
                      "the Hebrew's 5:2 in the Greek's fuller wording, which the KJV prints "
                      "again as Rest of Esther 15:11"),
+        "Sir.30.13b": (["Sir.30.12"], "Bow down his neck in his youth",
+                       "the first line of the KJV's 30:12, which Brenton prints after 30:13 "
+                       "(the alignment had it at 7:23, which shares the words)"),
     },
+    # Found by reading the weakest pairings and every key far from its
+    # neighbours' (2026-10-03). _FAR: the alignment sent it to a verse
+    # elsewhere that shares its words; _LATIN: Jerome's Latin has it and the
+    # Greek the KJV translates does not.
+    "douay": {
+        "Esth.15.3": ([], "call upon the Lord, and speak to the king",
+                      "Mordecai's charge to Esther, which Jerome gives in 15:1-3 and the "
+                      "Greek in the Hebrew book's 4:8: the KJV's Apocrypha has no verse for it"),
+        "Tob.1.15": ([], "gave them wholesome admonitions", _LATIN),
+        "Tob.3.23": (["Tob.3.11"], "Be thy name, O God of Israel, blessed for ever",
+                     "Sara's blessing of the Name, which closes her prayer in the Latin and "
+                     "opens it in the Greek"),
+        "Tob.7.7": (["Tob.7.6", "Tob.7.7"], "kissed him with tears", _REREAD),
+        "Tob.7.8": (["Tob.7.8"], "Anna his wife, and Sara their daughter wept", _REREAD),
+        "Tob.9.3": (["Tob.9.2"], "go to Gabelus to Rages the city of the Medes", _REREAD),
+        "Tob.9.4": (["Tob.9.4"], "my father numbereth the days", _FAR),
+        "Tob.9.5": (["Tob.9.3"], "Raguel hath adjured me", _FAR),
+        "Tob.9.6": (["Tob.9.5"], "finding Gabelus, gave him his note of hand", _REREAD),
+        "Tob.9.7": (["Tob.9.6"], "made him come with him to the wedding", _REREAD),
+        "Tob.9.8": (["Tob.9.6"], "he found Tobias sitting at the table", _FAR),
+        "Tob.9.9": ([], "The God of Israel bless thee",
+                    "Gabelus's blessing of Tobias, which the Greek the KJV translates does "
+                    "not give (its 9:6 has Tobias bless his wife)"),
+        "Jdt.13.27": (["Jdt.14.6"], "Achior being called for came", _REREAD),
+        "Jdt.13.31": (["Jdt.14.7"], "Blessed art thou by thy God in every tabernacle", _REREAD),
+        "Jdt.14.11": (["Jdt.14.12", "Jdt.14.13"], "his captains and tribunes were come", _FAR),
+        "Wis.6.12": (["Wis.6.11"], "Covet ye, therefore, my words", _FAR),
+        "Sir.1.34": (["Sir.1.27"], "the fear of the Lord is wisdom and discipline", _FAR),
+        "Sir.1.40": (["Sir.1.30"], "thy heart is full of guile and deceit", _REREAD),
+        "Sir.2.23": (["Sir.2.18"], "according to his greatness, so also is his mercy", _FAR),
+        "Sir.3.1": ([], "The sons of wisdom are the church of the just", _LATIN),
+        "Sir.9.20": (["Sir.9.13"], "thou art going in the midst of snares", _REREAD),
+        "Sir.9.21": (["Sir.9.14"], "beware of thy neighbour, and treat with the wise", _FAR),
+        "Sir.20.14": (["Sir.20.14"], "The gift of the fool shall do thee no good", _FAR),
+        "Sir.20.15": (["Sir.20.15"], "He will give a few things, and upbraid much", _REREAD),
+        "Sir.23.31": ([], "he understood not the fear of the Lord", _LATIN),
+        "Sir.31.42": (["Sir.31.31"], "press him not in demanding again", _REREAD),
+        "Sir.38.1": (["Sir.38.1"], "Honour the physician for the need thou hast of him", _FAR),
+        "Sir.39.9": (["Sir.39.6"], "pour forth the words of his wisdom as showers", _FAR),
+        "Sir.49.18": (["Sir.49.15"], "his bones were visited", _FAR),
+        "1Macc.10.25": (["1Macc.10.25"], "King Demetrius to the nation of the Jews", _FAR),
+        "1Macc.14.20": (["1Macc.14.20"], "The princes and the cities of the Spartans", _FAR),
+    },
+}
+# The Clementine verses the Douay has no English for, keyed from the Latin.
+VULGATE_ROWS = {
+    "Bar.6.7": (["Bar.6.8"], "lingua ipsorum polita a fabro",
+                "the idols' tongue polished by the workman: the Douay file prints 6:37 "
+                "in this slot (structure_texts.DOUAY_ROWS)"),
 }
 
 
@@ -348,11 +406,20 @@ def compute():
                 _stop(f"HOUSE_ROWS {name} {r}: {words!r} is not in the verse")
             if any(k not in KT for k in ks):
                 _stop(f"HOUSE_ROWS {name} {r}: {ks} names no KJV Apocrypha verse")
-            keyed[r] = ({"keys": [f"kjva:{k}" for k in ks], "house": why} if ks else {"why": why})
+            keyed[r] = ({"keys": [f"kjva:{k}" for k in ks], "house": why} if ks
+                       else {"why": why, "house": why})
         res[name] = {"book": book, "keyed": keyed}
-    # The Vulgate, through the Douay: same refs in these books.
+    # The Vulgate, through the Douay: each Douay verse names the Clementine
+    # verse(s) it reads (`vulgate`; the same number except at DOUAY_ROWS).
     vul = _load("vulgate")
     dk = res["douay"]["keyed"]
+    reads = {}
+    for u in res["douay"]["book"]["units"]:
+        r = u["id"].split(":", 1)[1]
+        if r in dk:
+            for v in u.get("vulgate", []):
+                reads.setdefault(v.split(":", 1)[1], []).append(dk[r])
+    vtext = {u["id"].split(":", 1)[1]: u["text"] for u in vul["units"]}
     vkeyed = {}
     sel = set()
     for u in vul["units"]:
@@ -363,10 +430,24 @@ def compute():
                 or (b == "Esth" and (c, n) >= (10, 4))
                 or (b == "Dan" and ((c == 3 and 24 <= n <= 90) or c in (13, 14)))):
             sel.add(ref)
-            vkeyed[ref] = dk.get(ref, {"why": WHY_DOUAY_EMPTY})
-    stray = sorted(set(dk) - sel)
+            got = [x for x in reads.get(ref, []) if "keys" in x]
+            if got:
+                ks = list(dict.fromkeys(k for x in got for k in x["keys"]))
+                x = {"keys": ks}
+                if all("score" in g for g in got):
+                    x["score"] = min(g["score"] for g in got)
+                vkeyed[ref] = x
+            else:
+                vkeyed[ref] = (reads[ref][0] if ref in reads else {"why": WHY_DOUAY_EMPTY})
+    for ref, (ks, words, why) in VULGATE_ROWS.items():
+        if words not in vtext.get(ref, ""):
+            _stop(f"VULGATE_ROWS {ref}: {words!r} is not in the verse")
+        vkeyed[ref] = {"keys": [f"kjva:{k}" for k in ks], "house": why}
+    stray = sorted(u["id"] for u in res["douay"]["book"]["units"]
+                   if u["id"].split(":", 1)[1] in dk
+                   and not all(v.split(":", 1)[1] in sel for v in u.get("vulgate", [None]) if v))
     if stray:
-        _stop(f"Douay verses with no Clementine verse of the same number: {stray[:10]}")
+        _stop(f"Douay verses reading no selected Clementine verse: {stray[:10]}")
     res["vulgate"] = {"book": vul, "keyed": vkeyed}
     return {"res": res, "kbook": kbook, "korder": korder, "ktext": ktext, "KT": KT,
             "kjva": kj}
@@ -454,14 +535,14 @@ def _doc(c):
                        "kjva_verses_reached": len(reached),
                        "kjva_without_verse": len(without),
                        "median_score": sorted(scores)[len(scores) // 2] if scores else None},
-            **({"through": "the Douay: a Clementine verse has the keys of the Douay verse "
-                           "of the same number"} if name == "vulgate" else {}),
+            **({"through": "the Douay: a Clementine verse has the keys of the Douay verse(s) "
+                           "that read it (its `vulgate`), or VULGATE_ROWS'"} if name == "vulgate" else {}),
             "kjva_books_read": books_read,
             "verses": _runs(keyed, order),
             "map": {r: mp[r] for r in sorted(mp, key=order.get)},
             "no_key": [{"verses": _runs(rs, order), "why": w} for w, rs in sorted(nokey.items())],
             "weak": _runs(weak, order),
-            "house_rows": {r: {"kjva": [k[5:] for k in keyed[r]["keys"]], "why": w}
+            "house_rows": {r: {"kjva": [k[5:] for k in keyed[r].get("keys", [])], "why": w}
                            for r, w in sorted(house.items(), key=lambda x: order[x[0]])},
             "kjva_without_verse": _runs(without, korder),
         }

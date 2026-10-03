@@ -78,15 +78,15 @@
    "from": "data/books/vulgate.json",
    "counts": {
     "verses": 4657,
-    "keyed": 4343,
-    "no_key": 314,
-    "listed_in_map": 1875,
-    "weak": 139,
-    "kjva_verses_reached": 4172,
-    "kjva_without_verse": 213,
-    "median_score": 0.636
+    "keyed": 4341,
+    "no_key": 316,
+    "listed_in_map": 1866,
+    "weak": 128,
+    "kjva_verses_reached": 4183,
+    "kjva_without_verse": 202,
+    "median_score": 0.64
    },
-   "through": "the Douay: a Clementine verse has the keys of the Douay verse of the same number",
+   "through": "the Douay: a Clementine verse has the keys of the Douay verse(s) that read it (its `vulgate`), or VULGATE_ROWS'",
    "kjva_books_read": [
     "Tob",
     "Jdt",
@@ -257,7 +257,6 @@
     "Tob.1.6": "kjva:Tob.1.7",
     "Tob.1.12": "kjva:Tob.1.11",
     "Tob.1.13": "kjva:Tob.1.12",
-    "Tob.1.15": "kjva:Tob.1.13",
     "Tob.1.16": "kjva:Tob.1.14",
     "Tob.1.18": "kjva:Tob.1.15",
     "Tob.1.20": [
@@ -277,7 +276,7 @@
     "Tob.3.15": "kjva:Tob.3.13",
     "Tob.3.16": "kjva:Tob.3.14",
     "Tob.3.17": "kjva:Tob.3.15",
-    "Tob.3.23": "kjva:Tob.11.14",
+    "Tob.3.23": "kjva:Tob.3.11",
     "Tob.3.24": "kjva:Tob.3.16",
     "Tob.3.25": "kjva:Tob.3.17",
     "Tob.4.1": "kjva:Tob.3.16",
@@ -330,8 +329,10 @@
     "Tob.7.4": "kjva:Tob.7.3",
     "Tob.7.5": "kjva:Tob.7.4",
     "Tob.7.6": "kjva:Tob.7.5",
-    "Tob.7.7": "kjva:Tob.7.6",
-    "Tob.7.8": "kjva:Tob.7.10",
+    "Tob.7.7": [
+     "kjva:Tob.7.6",
+     "kjva:Tob.7.7"
+    ],
     "Tob.7.10": "kjva:Tob.7.11",
     "Tob.7.13": "kjva:Tob.7.12",
     "Tob.7.15": "kjva:Tob.7.13",
@@ -355,11 +356,11 @@
      "kjva:Tob.8.21",
      "kjva:Tob.9.1"
     ],
-    "Tob.9.4": "kjva:Tob.10.1",
-    "Tob.9.5": "kjva:Tob.7.2",
-    "Tob.9.7": "kjva:Tob.7.5",
-    "Tob.9.8": "kjva:Tob.7.6",
-    "Tob.9.9": "kjva:Tob.7.7",
+    "Tob.9.3": "kjva:Tob.9.2",
+    "Tob.9.5": "kjva:Tob.9.3",
+    "Tob.9.6": "kjva:Tob.9.5",
+    "Tob.9.7": "kjva:Tob.9.6",
+    "Tob.9.8": "kjva:Tob.9.6",
     "Tob.10.3": "kjva:Tob.10.4",
     "Tob.10.4": "kjva:Tob.10.5",
     "Tob.10.13": "kjva:Tob.10.12",
@@ -552,16 +553,19 @@
     "Jdt.13.23": "kjva:Jdt.13.18",
     "Jdt.13.24": "kjva:Jdt.13.18",
     "Jdt.13.25": "kjva:Jdt.13.19",
-    "Jdt.13.27": "kjva:Jdt.14.1",
+    "Jdt.13.27": "kjva:Jdt.14.6",
     "Jdt.13.28": "kjva:Jdt.14.5",
     "Jdt.13.29": "kjva:Jdt.14.6",
     "Jdt.13.30": "kjva:Jdt.14.7",
-    "Jdt.13.31": "kjva:Jdt.14.10",
+    "Jdt.13.31": "kjva:Jdt.14.7",
     "Jdt.14.4": "kjva:Jdt.14.3",
     "Jdt.14.6": "kjva:Jdt.14.10",
     "Jdt.14.7": "kjva:Jdt.14.11",
     "Jdt.14.9": "kjva:Jdt.14.14",
-    "Jdt.14.11": "kjva:Jdt.2.4",
+    "Jdt.14.11": [
+     "kjva:Jdt.14.12",
+     "kjva:Jdt.14.13"
+    ],
     "Jdt.14.13": "kjva:Jdt.14.14",
     "Jdt.14.14": "kjva:Jdt.14.16",
     "Jdt.14.15": "kjva:Jdt.14.17",
@@ -667,7 +671,6 @@
     "Esth.14.17": "kjva:AddEsth.14.17",
     "Esth.14.18": "kjva:AddEsth.14.18",
     "Esth.14.19": "kjva:AddEsth.14.19",
-    "Esth.15.3": "kjva:AddEsth.14.19",
     "Esth.15.4": "kjva:AddEsth.15.1",
     "Esth.15.5": "kjva:AddEsth.15.2",
     "Esth.15.6": "kjva:AddEsth.15.3",
@@ -726,7 +729,7 @@
     "Wis.6.9": "kjva:Wis.6.8",
     "Wis.6.10": "kjva:Wis.6.9",
     "Wis.6.11": "kjva:Wis.6.10",
-    "Wis.6.12": "kjva:Wis.6.25",
+    "Wis.6.12": "kjva:Wis.6.11",
     "Wis.6.13": "kjva:Wis.6.12",
     "Wis.6.14": "kjva:Wis.6.13",
     "Wis.6.15": "kjva:Wis.6.14",
@@ -808,13 +811,13 @@
     "Sir.1.31": "kjva:Sir.1.25",
     "Sir.1.32": "kjva:Sir.1.25",
     "Sir.1.33": "kjva:Sir.1.26",
-    "Sir.1.34": "kjva:Sir.1.16",
+    "Sir.1.34": "kjva:Sir.1.27",
     "Sir.1.35": "kjva:Sir.1.27",
     "Sir.1.36": "kjva:Sir.1.28",
     "Sir.1.37": "kjva:Sir.1.29",
     "Sir.1.38": "kjva:Sir.1.30",
     "Sir.1.39": "kjva:Sir.1.30",
-    "Sir.1.40": "kjva:Sir.2.1",
+    "Sir.1.40": "kjva:Sir.1.30",
     "Sir.2.10": "kjva:Sir.2.17",
     "Sir.2.11": "kjva:Sir.2.18",
     "Sir.2.12": "kjva:Sir.2.10",
@@ -830,8 +833,7 @@
      "kjva:Sir.2.15"
     ],
     "Sir.2.22": "kjva:Sir.2.18",
-    "Sir.2.23": "kjva:Sir.16.12",
-    "Sir.3.1": "kjva:Sir.2.16",
+    "Sir.2.23": "kjva:Sir.2.18",
     "Sir.3.2": "kjva:Sir.3.1",
     "Sir.3.3": "kjva:Sir.3.2",
     "Sir.3.4": "kjva:Sir.3.3",
@@ -972,8 +974,8 @@
     "Sir.9.17": "kjva:Sir.9.12",
     "Sir.9.18": "kjva:Sir.9.13",
     "Sir.9.19": "kjva:Sir.9.13",
-    "Sir.9.20": "kjva:Sir.9.15",
-    "Sir.9.21": "kjva:Sir.29.20",
+    "Sir.9.20": "kjva:Sir.9.13",
+    "Sir.9.21": "kjva:Sir.9.14",
     "Sir.9.22": "kjva:Sir.9.16",
     "Sir.9.24": "kjva:Sir.9.17",
     "Sir.9.25": "kjva:Sir.9.18",
@@ -1145,8 +1147,6 @@
     "Sir.19.28": "kjva:Sir.20.1",
     "Sir.20.1": "kjva:Sir.20.2",
     "Sir.20.4": "kjva:Sir.20.3",
-    "Sir.20.14": "kjva:Sir.18.18",
-    "Sir.20.15": "kjva:Sir.20.12",
     "Sir.20.16": "kjva:Sir.20.15",
     "Sir.20.17": "kjva:Sir.20.16",
     "Sir.20.18": "kjva:Sir.20.17",
@@ -1232,7 +1232,6 @@
     "Sir.23.28": "kjva:Sir.23.19",
     "Sir.23.29": "kjva:Sir.23.20",
     "Sir.23.30": "kjva:Sir.23.21",
-    "Sir.23.31": "kjva:Sir.9.16",
     "Sir.23.32": "kjva:Sir.23.22",
     "Sir.23.33": "kjva:Sir.23.23",
     "Sir.23.34": "kjva:Sir.23.24",
@@ -1432,7 +1431,7 @@
     "Sir.31.39": "kjva:Sir.31.29",
     "Sir.31.40": "kjva:Sir.31.30",
     "Sir.31.41": "kjva:Sir.31.31",
-    "Sir.31.42": "kjva:Sir.32.3",
+    "Sir.31.42": "kjva:Sir.31.31",
     "Sir.32.2": "kjva:Sir.32.1",
     "Sir.32.3": "kjva:Sir.32.2",
     "Sir.32.4": "kjva:Sir.32.3",
@@ -1571,7 +1570,6 @@
     "Sir.37.32": "kjva:Sir.37.29",
     "Sir.37.33": "kjva:Sir.37.30",
     "Sir.37.34": "kjva:Sir.37.31",
-    "Sir.38.1": "kjva:Sir.38.12",
     "Sir.38.7": "kjva:Sir.38.8",
     "Sir.38.19": "kjva:Sir.38.18",
     "Sir.38.20": "kjva:Sir.38.19",
@@ -1597,7 +1595,7 @@
     "Sir.39.6": "kjva:Sir.39.5",
     "Sir.39.7": "kjva:Sir.39.5",
     "Sir.39.8": "kjva:Sir.39.6",
-    "Sir.39.9": "kjva:Sir.32.4",
+    "Sir.39.9": "kjva:Sir.39.6",
     "Sir.39.10": "kjva:Sir.39.7",
     "Sir.39.11": "kjva:Sir.39.8",
     "Sir.39.12": "kjva:Sir.39.10",
@@ -1814,7 +1812,7 @@
     "Sir.49.15": "kjva:Sir.49.13",
     "Sir.49.16": "kjva:Sir.49.14",
     "Sir.49.17": "kjva:Sir.49.15",
-    "Sir.49.18": "kjva:Sir.48.13",
+    "Sir.49.18": "kjva:Sir.49.15",
     "Sir.49.19": "kjva:Sir.49.16",
     "Sir.50.10": "kjva:Sir.50.9",
     "Sir.50.11": "kjva:Sir.50.10",
@@ -1883,7 +1881,7 @@
     "Bar.6.4": "kjva:Bar.6.5",
     "Bar.6.5": "kjva:Bar.6.6",
     "Bar.6.6": "kjva:Bar.6.7",
-    "Bar.6.7": "kjva:Bar.6.38",
+    "Bar.6.7": "kjva:Bar.6.8",
     "Bar.6.8": "kjva:Bar.6.9",
     "Bar.6.9": "kjva:Bar.6.10",
     "Bar.6.10": "kjva:Bar.6.11",
@@ -1913,6 +1911,7 @@
     "Bar.6.34": "kjva:Bar.6.35",
     "Bar.6.35": "kjva:Bar.6.36",
     "Bar.6.36": "kjva:Bar.6.37",
+    "Bar.6.37": "kjva:Bar.6.38",
     "Bar.6.38": "kjva:Bar.6.39",
     "Bar.6.39": "kjva:Bar.6.40",
     "Bar.6.40": "kjva:Bar.6.41",
@@ -2179,11 +2178,9 @@
     "1Macc.1.64": "kjva:1Macc.1.61",
     "1Macc.1.65": "kjva:1Macc.1.62",
     "1Macc.1.67": "kjva:1Macc.1.64",
-    "1Macc.10.25": "kjva:1Macc.11.30",
     "1Macc.12.54": "kjva:1Macc.12.53",
     "1Macc.13.53": "kjva:1Macc.13.52",
     "1Macc.13.54": "kjva:1Macc.13.53",
-    "1Macc.14.20": "kjva:1Macc.15.2",
     "2Macc.2.20": "kjva:2Macc.2.19",
     "2Macc.2.21": "kjva:2Macc.2.20",
     "2Macc.2.22": "kjva:2Macc.2.21",
@@ -2205,6 +2202,20 @@
     "2Macc.15.40": "kjva:2Macc.15.39"
    },
    "no_key": [
+    {
+     "verses": [
+      "Tob.9.9"
+     ],
+     "why": "Gabelus's blessing of Tobias, which the Greek the KJV translates does not give (its 9:6 has Tobias bless his wife)"
+    },
+    {
+     "verses": [
+      "Tob.1.15",
+      "Sir.3.1",
+      "Sir.23.31"
+     ],
+     "why": "Jerome's Latin has this and the Greek the KJV translates does not, so there is no shared key"
+    },
     {
      "verses": [
       "Tob.1.3",
@@ -2246,8 +2257,7 @@
       "Tob.8.10",
       "Tob.8.16-17",
       "Tob.8.22-23",
-      "Tob.9.2-3",
-      "Tob.9.6",
+      "Tob.9.2",
       "Tob.9.10-12",
       "Tob.10.1",
       "Tob.10.5",
@@ -2328,6 +2338,12 @@
       "Jdt.16.31"
      ],
      "why": "Jerome's Latin of this book follows a different form of the story than the Greek the KJV translates; this verse shares too few words with any KJV verse to be keyed"
+    },
+    {
+     "verses": [
+      "Esth.15.3"
+     ],
+     "why": "Mordecai's charge to Esther, which Jerome gives in 15:1-3 and the Greek in the Hebrew book's 4:8: the KJV's Apocrypha has no verse for it"
     },
     {
      "verses": [
@@ -2452,8 +2468,7 @@
     },
     {
      "verses": [
-      "Sir.29.35",
-      "Bar.6.37"
+      "Sir.29.35"
      ],
      "why": "the Douay prints no text for this Clementine verse, so its English cannot be read"
     }
@@ -2461,7 +2476,6 @@
    "weak": [
     "Tob.1.5",
     "Tob.1.7",
-    "Tob.1.15",
     "Tob.1.25",
     "Tob.2.2",
     "Tob.2.4-5",
@@ -2476,12 +2490,10 @@
     "Tob.6.6",
     "Tob.6.16",
     "Tob.7.1",
-    "Tob.7.8",
     "Tob.7.13",
     "Tob.7.16",
     "Tob.8.12",
     "Tob.8.21",
-    "Tob.9.7",
     "Tob.10.12-13",
     "Tob.11.15-16",
     "Tob.11.20",
@@ -2519,8 +2531,7 @@
     "Jdt.12.15-16",
     "Jdt.13.2",
     "Jdt.13.17",
-    "Jdt.13.27-28",
-    "Jdt.13.31",
+    "Jdt.13.28",
     "Jdt.14.9",
     "Jdt.15.6",
     "Jdt.15.8",
@@ -2528,14 +2539,11 @@
     "Jdt.16.19",
     "Esth.13.5",
     "Esth.13.7",
-    "Esth.15.3",
     "Esth.15.6",
     "Esth.15.8",
     "Esth.16.23",
     "Wis.14.23",
     "Sir.1.3",
-    "Sir.1.40",
-    "Sir.3.1",
     "Sir.3.4",
     "Sir.3.34",
     "Sir.4.22",
@@ -2546,7 +2554,6 @@
     "Sir.8.20",
     "Sir.9.5",
     "Sir.9.17",
-    "Sir.9.20",
     "Sir.11.26",
     "Sir.14.18",
     "Sir.16.10",
@@ -2554,14 +2561,12 @@
     "Sir.18.3-4",
     "Sir.19.9",
     "Sir.19.24",
-    "Sir.20.15",
     "Sir.22.20",
     "Sir.25.14",
     "Sir.25.25",
     "Sir.26.14",
     "Sir.27.25",
     "Sir.30.2",
-    "Sir.31.42",
     "Sir.32.3",
     "Sir.32.11",
     "Sir.36.6",
@@ -2582,11 +2587,39 @@
     "2Macc.13.25",
     "2Macc.15.19"
    ],
-   "house_rows": {},
+   "house_rows": {
+    "Tob.1.15": {
+     "kjva": [],
+     "why": "Jerome's Latin has this and the Greek the KJV translates does not, so there is no shared key"
+    },
+    "Tob.9.9": {
+     "kjva": [],
+     "why": "Gabelus's blessing of Tobias, which the Greek the KJV translates does not give (its 9:6 has Tobias bless his wife)"
+    },
+    "Esth.15.3": {
+     "kjva": [],
+     "why": "Mordecai's charge to Esther, which Jerome gives in 15:1-3 and the Greek in the Hebrew book's 4:8: the KJV's Apocrypha has no verse for it"
+    },
+    "Sir.3.1": {
+     "kjva": [],
+     "why": "Jerome's Latin has this and the Greek the KJV translates does not, so there is no shared key"
+    },
+    "Sir.23.31": {
+     "kjva": [],
+     "why": "Jerome's Latin has this and the Greek the KJV translates does not, so there is no shared key"
+    },
+    "Bar.6.7": {
+     "kjva": [
+      "Bar.6.8"
+     ],
+     "why": "the idols' tongue polished by the workman: the Douay file prints 6:37 in this slot (structure_texts.DOUAY_ROWS)"
+    }
+   },
    "kjva_without_verse": [
     "Tob.1.1",
     "Tob.1.4",
     "Tob.1.8-10",
+    "Tob.1.13",
     "Tob.1.19",
     "Tob.1.22",
     "Tob.2.3",
@@ -2602,12 +2635,12 @@
     "Tob.6.9",
     "Tob.6.11-12",
     "Tob.6.17",
-    "Tob.7.8-9",
+    "Tob.7.9-10",
     "Tob.7.15",
     "Tob.8.8",
     "Tob.8.14-15",
     "Tob.8.20",
-    "Tob.9.2-6",
+    "Tob.10.1",
     "Tob.10.3",
     "Tob.10.7",
     "Tob.11.1",
@@ -2674,7 +2707,6 @@
     "Jdt.13.20",
     "Jdt.14.4",
     "Jdt.14.8-9",
-    "Jdt.14.12-13",
     "Jdt.14.15",
     "Jdt.15.1-3",
     "Jdt.15.12",
@@ -2683,7 +2715,6 @@
     "AddEsth.16.5",
     "AddEsth.16.9",
     "Wis.3.19",
-    "Wis.6.11",
     "Sir.0.1-2",
     "Sir.1.15",
     "Sir.3.14",
@@ -2691,7 +2722,7 @@
     "Sir.3.25",
     "Sir.7.1",
     "Sir.7.10",
-    "Sir.9.14",
+    "Sir.9.15",
     "Sir.10.21",
     "Sir.12.7",
     "Sir.12.14",
@@ -2709,7 +2740,6 @@
     "Sir.19.18-19",
     "Sir.19.21",
     "Sir.20.4",
-    "Sir.20.14",
     "Sir.20.26",
     "Sir.20.32",
     "Sir.22.9-10",
@@ -2721,22 +2751,18 @@
     "Sir.32.11",
     "Sir.32.21",
     "Sir.37.17",
-    "Sir.38.1",
     "Sir.38.7",
     "Sir.41.23",
     "Sir.50.21",
     "Bar.3.18",
     "Bar.6.1",
-    "Bar.6.8",
     "Bar.6.52",
     "Bar.6.69",
     "PrAzar.1.33",
     "PrAzar.1.45",
     "1Macc.1.12",
     "1Macc.1.63",
-    "1Macc.10.25",
     "1Macc.12.12",
-    "1Macc.14.20",
     "2Macc.11.38"
    ]
   },
@@ -2744,13 +2770,13 @@
    "from": "data/books/douay.json",
    "counts": {
     "verses": 4655,
-    "keyed": 4343,
-    "no_key": 312,
-    "listed_in_map": 1875,
-    "weak": 139,
-    "kjva_verses_reached": 4172,
-    "kjva_without_verse": 213,
-    "median_score": 0.636
+    "keyed": 4340,
+    "no_key": 315,
+    "listed_in_map": 1865,
+    "weak": 128,
+    "kjva_verses_reached": 4182,
+    "kjva_without_verse": 203,
+    "median_score": 0.64
    },
    "kjva_books_read": [
     "Tob",
@@ -2923,7 +2949,6 @@
     "Tob.1.6": "kjva:Tob.1.7",
     "Tob.1.12": "kjva:Tob.1.11",
     "Tob.1.13": "kjva:Tob.1.12",
-    "Tob.1.15": "kjva:Tob.1.13",
     "Tob.1.16": "kjva:Tob.1.14",
     "Tob.1.18": "kjva:Tob.1.15",
     "Tob.1.20": [
@@ -2943,7 +2968,7 @@
     "Tob.3.15": "kjva:Tob.3.13",
     "Tob.3.16": "kjva:Tob.3.14",
     "Tob.3.17": "kjva:Tob.3.15",
-    "Tob.3.23": "kjva:Tob.11.14",
+    "Tob.3.23": "kjva:Tob.3.11",
     "Tob.3.24": "kjva:Tob.3.16",
     "Tob.3.25": "kjva:Tob.3.17",
     "Tob.4.1": "kjva:Tob.3.16",
@@ -2996,8 +3021,10 @@
     "Tob.7.4": "kjva:Tob.7.3",
     "Tob.7.5": "kjva:Tob.7.4",
     "Tob.7.6": "kjva:Tob.7.5",
-    "Tob.7.7": "kjva:Tob.7.6",
-    "Tob.7.8": "kjva:Tob.7.10",
+    "Tob.7.7": [
+     "kjva:Tob.7.6",
+     "kjva:Tob.7.7"
+    ],
     "Tob.7.10": "kjva:Tob.7.11",
     "Tob.7.13": "kjva:Tob.7.12",
     "Tob.7.15": "kjva:Tob.7.13",
@@ -3021,11 +3048,11 @@
      "kjva:Tob.8.21",
      "kjva:Tob.9.1"
     ],
-    "Tob.9.4": "kjva:Tob.10.1",
-    "Tob.9.5": "kjva:Tob.7.2",
-    "Tob.9.7": "kjva:Tob.7.5",
-    "Tob.9.8": "kjva:Tob.7.6",
-    "Tob.9.9": "kjva:Tob.7.7",
+    "Tob.9.3": "kjva:Tob.9.2",
+    "Tob.9.5": "kjva:Tob.9.3",
+    "Tob.9.6": "kjva:Tob.9.5",
+    "Tob.9.7": "kjva:Tob.9.6",
+    "Tob.9.8": "kjva:Tob.9.6",
     "Tob.10.3": "kjva:Tob.10.4",
     "Tob.10.4": "kjva:Tob.10.5",
     "Tob.10.13": "kjva:Tob.10.12",
@@ -3218,16 +3245,19 @@
     "Jdt.13.23": "kjva:Jdt.13.18",
     "Jdt.13.24": "kjva:Jdt.13.18",
     "Jdt.13.25": "kjva:Jdt.13.19",
-    "Jdt.13.27": "kjva:Jdt.14.1",
+    "Jdt.13.27": "kjva:Jdt.14.6",
     "Jdt.13.28": "kjva:Jdt.14.5",
     "Jdt.13.29": "kjva:Jdt.14.6",
     "Jdt.13.30": "kjva:Jdt.14.7",
-    "Jdt.13.31": "kjva:Jdt.14.10",
+    "Jdt.13.31": "kjva:Jdt.14.7",
     "Jdt.14.4": "kjva:Jdt.14.3",
     "Jdt.14.6": "kjva:Jdt.14.10",
     "Jdt.14.7": "kjva:Jdt.14.11",
     "Jdt.14.9": "kjva:Jdt.14.14",
-    "Jdt.14.11": "kjva:Jdt.2.4",
+    "Jdt.14.11": [
+     "kjva:Jdt.14.12",
+     "kjva:Jdt.14.13"
+    ],
     "Jdt.14.13": "kjva:Jdt.14.14",
     "Jdt.14.14": "kjva:Jdt.14.16",
     "Jdt.14.15": "kjva:Jdt.14.17",
@@ -3333,7 +3363,6 @@
     "Esth.14.17": "kjva:AddEsth.14.17",
     "Esth.14.18": "kjva:AddEsth.14.18",
     "Esth.14.19": "kjva:AddEsth.14.19",
-    "Esth.15.3": "kjva:AddEsth.14.19",
     "Esth.15.4": "kjva:AddEsth.15.1",
     "Esth.15.5": "kjva:AddEsth.15.2",
     "Esth.15.6": "kjva:AddEsth.15.3",
@@ -3392,7 +3421,7 @@
     "Wis.6.9": "kjva:Wis.6.8",
     "Wis.6.10": "kjva:Wis.6.9",
     "Wis.6.11": "kjva:Wis.6.10",
-    "Wis.6.12": "kjva:Wis.6.25",
+    "Wis.6.12": "kjva:Wis.6.11",
     "Wis.6.13": "kjva:Wis.6.12",
     "Wis.6.14": "kjva:Wis.6.13",
     "Wis.6.15": "kjva:Wis.6.14",
@@ -3474,13 +3503,13 @@
     "Sir.1.31": "kjva:Sir.1.25",
     "Sir.1.32": "kjva:Sir.1.25",
     "Sir.1.33": "kjva:Sir.1.26",
-    "Sir.1.34": "kjva:Sir.1.16",
+    "Sir.1.34": "kjva:Sir.1.27",
     "Sir.1.35": "kjva:Sir.1.27",
     "Sir.1.36": "kjva:Sir.1.28",
     "Sir.1.37": "kjva:Sir.1.29",
     "Sir.1.38": "kjva:Sir.1.30",
     "Sir.1.39": "kjva:Sir.1.30",
-    "Sir.1.40": "kjva:Sir.2.1",
+    "Sir.1.40": "kjva:Sir.1.30",
     "Sir.2.10": "kjva:Sir.2.17",
     "Sir.2.11": "kjva:Sir.2.18",
     "Sir.2.12": "kjva:Sir.2.10",
@@ -3496,8 +3525,7 @@
      "kjva:Sir.2.15"
     ],
     "Sir.2.22": "kjva:Sir.2.18",
-    "Sir.2.23": "kjva:Sir.16.12",
-    "Sir.3.1": "kjva:Sir.2.16",
+    "Sir.2.23": "kjva:Sir.2.18",
     "Sir.3.2": "kjva:Sir.3.1",
     "Sir.3.3": "kjva:Sir.3.2",
     "Sir.3.4": "kjva:Sir.3.3",
@@ -3638,8 +3666,8 @@
     "Sir.9.17": "kjva:Sir.9.12",
     "Sir.9.18": "kjva:Sir.9.13",
     "Sir.9.19": "kjva:Sir.9.13",
-    "Sir.9.20": "kjva:Sir.9.15",
-    "Sir.9.21": "kjva:Sir.29.20",
+    "Sir.9.20": "kjva:Sir.9.13",
+    "Sir.9.21": "kjva:Sir.9.14",
     "Sir.9.22": "kjva:Sir.9.16",
     "Sir.9.24": "kjva:Sir.9.17",
     "Sir.9.25": "kjva:Sir.9.18",
@@ -3811,8 +3839,6 @@
     "Sir.19.28": "kjva:Sir.20.1",
     "Sir.20.1": "kjva:Sir.20.2",
     "Sir.20.4": "kjva:Sir.20.3",
-    "Sir.20.14": "kjva:Sir.18.18",
-    "Sir.20.15": "kjva:Sir.20.12",
     "Sir.20.16": "kjva:Sir.20.15",
     "Sir.20.17": "kjva:Sir.20.16",
     "Sir.20.18": "kjva:Sir.20.17",
@@ -3898,7 +3924,6 @@
     "Sir.23.28": "kjva:Sir.23.19",
     "Sir.23.29": "kjva:Sir.23.20",
     "Sir.23.30": "kjva:Sir.23.21",
-    "Sir.23.31": "kjva:Sir.9.16",
     "Sir.23.32": "kjva:Sir.23.22",
     "Sir.23.33": "kjva:Sir.23.23",
     "Sir.23.34": "kjva:Sir.23.24",
@@ -4098,7 +4123,7 @@
     "Sir.31.39": "kjva:Sir.31.29",
     "Sir.31.40": "kjva:Sir.31.30",
     "Sir.31.41": "kjva:Sir.31.31",
-    "Sir.31.42": "kjva:Sir.32.3",
+    "Sir.31.42": "kjva:Sir.31.31",
     "Sir.32.2": "kjva:Sir.32.1",
     "Sir.32.3": "kjva:Sir.32.2",
     "Sir.32.4": "kjva:Sir.32.3",
@@ -4237,7 +4262,6 @@
     "Sir.37.32": "kjva:Sir.37.29",
     "Sir.37.33": "kjva:Sir.37.30",
     "Sir.37.34": "kjva:Sir.37.31",
-    "Sir.38.1": "kjva:Sir.38.12",
     "Sir.38.7": "kjva:Sir.38.8",
     "Sir.38.19": "kjva:Sir.38.18",
     "Sir.38.20": "kjva:Sir.38.19",
@@ -4263,7 +4287,7 @@
     "Sir.39.6": "kjva:Sir.39.5",
     "Sir.39.7": "kjva:Sir.39.5",
     "Sir.39.8": "kjva:Sir.39.6",
-    "Sir.39.9": "kjva:Sir.32.4",
+    "Sir.39.9": "kjva:Sir.39.6",
     "Sir.39.10": "kjva:Sir.39.7",
     "Sir.39.11": "kjva:Sir.39.8",
     "Sir.39.12": "kjva:Sir.39.10",
@@ -4480,7 +4504,7 @@
     "Sir.49.15": "kjva:Sir.49.13",
     "Sir.49.16": "kjva:Sir.49.14",
     "Sir.49.17": "kjva:Sir.49.15",
-    "Sir.49.18": "kjva:Sir.48.13",
+    "Sir.49.18": "kjva:Sir.49.15",
     "Sir.49.19": "kjva:Sir.49.16",
     "Sir.50.10": "kjva:Sir.50.9",
     "Sir.50.11": "kjva:Sir.50.10",
@@ -4845,11 +4869,9 @@
     "1Macc.1.64": "kjva:1Macc.1.61",
     "1Macc.1.65": "kjva:1Macc.1.62",
     "1Macc.1.67": "kjva:1Macc.1.64",
-    "1Macc.10.25": "kjva:1Macc.11.30",
     "1Macc.12.54": "kjva:1Macc.12.53",
     "1Macc.13.53": "kjva:1Macc.13.52",
     "1Macc.13.54": "kjva:1Macc.13.53",
-    "1Macc.14.20": "kjva:1Macc.15.2",
     "2Macc.2.20": "kjva:2Macc.2.19",
     "2Macc.2.21": "kjva:2Macc.2.20",
     "2Macc.2.22": "kjva:2Macc.2.21",
@@ -4871,6 +4893,20 @@
     "2Macc.15.40": "kjva:2Macc.15.39"
    },
    "no_key": [
+    {
+     "verses": [
+      "Tob.9.9"
+     ],
+     "why": "Gabelus's blessing of Tobias, which the Greek the KJV translates does not give (its 9:6 has Tobias bless his wife)"
+    },
+    {
+     "verses": [
+      "Tob.1.15",
+      "Sir.3.1",
+      "Sir.23.31"
+     ],
+     "why": "Jerome's Latin has this and the Greek the KJV translates does not, so there is no shared key"
+    },
     {
      "verses": [
       "Tob.1.3",
@@ -4912,8 +4948,7 @@
       "Tob.8.10",
       "Tob.8.16-17",
       "Tob.8.22-23",
-      "Tob.9.2-3",
-      "Tob.9.6",
+      "Tob.9.2",
       "Tob.9.10-12",
       "Tob.10.1",
       "Tob.10.5",
@@ -4994,6 +5029,12 @@
       "Jdt.16.31"
      ],
      "why": "Jerome's Latin of this book follows a different form of the story than the Greek the KJV translates; this verse shares too few words with any KJV verse to be keyed"
+    },
+    {
+     "verses": [
+      "Esth.15.3"
+     ],
+     "why": "Mordecai's charge to Esther, which Jerome gives in 15:1-3 and the Greek in the Hebrew book's 4:8: the KJV's Apocrypha has no verse for it"
     },
     {
      "verses": [
@@ -5120,7 +5161,6 @@
    "weak": [
     "Tob.1.5",
     "Tob.1.7",
-    "Tob.1.15",
     "Tob.1.25",
     "Tob.2.2",
     "Tob.2.4-5",
@@ -5135,12 +5175,10 @@
     "Tob.6.6",
     "Tob.6.16",
     "Tob.7.1",
-    "Tob.7.8",
     "Tob.7.13",
     "Tob.7.16",
     "Tob.8.12",
     "Tob.8.21",
-    "Tob.9.7",
     "Tob.10.12-13",
     "Tob.11.15-16",
     "Tob.11.20",
@@ -5178,8 +5216,7 @@
     "Jdt.12.15-16",
     "Jdt.13.2",
     "Jdt.13.17",
-    "Jdt.13.27-28",
-    "Jdt.13.31",
+    "Jdt.13.28",
     "Jdt.14.9",
     "Jdt.15.6",
     "Jdt.15.8",
@@ -5187,14 +5224,11 @@
     "Jdt.16.19",
     "Esth.13.5",
     "Esth.13.7",
-    "Esth.15.3",
     "Esth.15.6",
     "Esth.15.8",
     "Esth.16.23",
     "Wis.14.23",
     "Sir.1.3",
-    "Sir.1.40",
-    "Sir.3.1",
     "Sir.3.4",
     "Sir.3.34",
     "Sir.4.22",
@@ -5205,7 +5239,6 @@
     "Sir.8.20",
     "Sir.9.5",
     "Sir.9.17",
-    "Sir.9.20",
     "Sir.11.26",
     "Sir.14.18",
     "Sir.16.10",
@@ -5213,14 +5246,12 @@
     "Sir.18.3-4",
     "Sir.19.9",
     "Sir.19.24",
-    "Sir.20.15",
     "Sir.22.20",
     "Sir.25.14",
     "Sir.25.25",
     "Sir.26.14",
     "Sir.27.25",
     "Sir.30.2",
-    "Sir.31.42",
     "Sir.32.3",
     "Sir.32.11",
     "Sir.36.6",
@@ -5241,11 +5272,191 @@
     "2Macc.13.25",
     "2Macc.15.19"
    ],
-   "house_rows": {},
+   "house_rows": {
+    "Tob.1.15": {
+     "kjva": [],
+     "why": "Jerome's Latin has this and the Greek the KJV translates does not, so there is no shared key"
+    },
+    "Tob.3.23": {
+     "kjva": [
+      "Tob.3.11"
+     ],
+     "why": "Sara's blessing of the Name, which closes her prayer in the Latin and opens it in the Greek"
+    },
+    "Tob.7.7": {
+     "kjva": [
+      "Tob.7.6",
+      "Tob.7.7"
+     ],
+     "why": "read in both texts: the alignment's order or overlap misses it"
+    },
+    "Tob.7.8": {
+     "kjva": [
+      "Tob.7.8"
+     ],
+     "why": "read in both texts: the alignment's order or overlap misses it"
+    },
+    "Tob.9.3": {
+     "kjva": [
+      "Tob.9.2"
+     ],
+     "why": "read in both texts: the alignment's order or overlap misses it"
+    },
+    "Tob.9.4": {
+     "kjva": [
+      "Tob.9.4"
+     ],
+     "why": "read in both texts: the alignment sent it to a verse elsewhere in the book that shares its words"
+    },
+    "Tob.9.5": {
+     "kjva": [
+      "Tob.9.3"
+     ],
+     "why": "read in both texts: the alignment sent it to a verse elsewhere in the book that shares its words"
+    },
+    "Tob.9.6": {
+     "kjva": [
+      "Tob.9.5"
+     ],
+     "why": "read in both texts: the alignment's order or overlap misses it"
+    },
+    "Tob.9.7": {
+     "kjva": [
+      "Tob.9.6"
+     ],
+     "why": "read in both texts: the alignment's order or overlap misses it"
+    },
+    "Tob.9.8": {
+     "kjva": [
+      "Tob.9.6"
+     ],
+     "why": "read in both texts: the alignment sent it to a verse elsewhere in the book that shares its words"
+    },
+    "Tob.9.9": {
+     "kjva": [],
+     "why": "Gabelus's blessing of Tobias, which the Greek the KJV translates does not give (its 9:6 has Tobias bless his wife)"
+    },
+    "Jdt.13.27": {
+     "kjva": [
+      "Jdt.14.6"
+     ],
+     "why": "read in both texts: the alignment's order or overlap misses it"
+    },
+    "Jdt.13.31": {
+     "kjva": [
+      "Jdt.14.7"
+     ],
+     "why": "read in both texts: the alignment's order or overlap misses it"
+    },
+    "Jdt.14.11": {
+     "kjva": [
+      "Jdt.14.12",
+      "Jdt.14.13"
+     ],
+     "why": "read in both texts: the alignment sent it to a verse elsewhere in the book that shares its words"
+    },
+    "Esth.15.3": {
+     "kjva": [],
+     "why": "Mordecai's charge to Esther, which Jerome gives in 15:1-3 and the Greek in the Hebrew book's 4:8: the KJV's Apocrypha has no verse for it"
+    },
+    "Wis.6.12": {
+     "kjva": [
+      "Wis.6.11"
+     ],
+     "why": "read in both texts: the alignment sent it to a verse elsewhere in the book that shares its words"
+    },
+    "Sir.1.34": {
+     "kjva": [
+      "Sir.1.27"
+     ],
+     "why": "read in both texts: the alignment sent it to a verse elsewhere in the book that shares its words"
+    },
+    "Sir.1.40": {
+     "kjva": [
+      "Sir.1.30"
+     ],
+     "why": "read in both texts: the alignment's order or overlap misses it"
+    },
+    "Sir.2.23": {
+     "kjva": [
+      "Sir.2.18"
+     ],
+     "why": "read in both texts: the alignment sent it to a verse elsewhere in the book that shares its words"
+    },
+    "Sir.3.1": {
+     "kjva": [],
+     "why": "Jerome's Latin has this and the Greek the KJV translates does not, so there is no shared key"
+    },
+    "Sir.9.20": {
+     "kjva": [
+      "Sir.9.13"
+     ],
+     "why": "read in both texts: the alignment's order or overlap misses it"
+    },
+    "Sir.9.21": {
+     "kjva": [
+      "Sir.9.14"
+     ],
+     "why": "read in both texts: the alignment sent it to a verse elsewhere in the book that shares its words"
+    },
+    "Sir.20.14": {
+     "kjva": [
+      "Sir.20.14"
+     ],
+     "why": "read in both texts: the alignment sent it to a verse elsewhere in the book that shares its words"
+    },
+    "Sir.20.15": {
+     "kjva": [
+      "Sir.20.15"
+     ],
+     "why": "read in both texts: the alignment's order or overlap misses it"
+    },
+    "Sir.23.31": {
+     "kjva": [],
+     "why": "Jerome's Latin has this and the Greek the KJV translates does not, so there is no shared key"
+    },
+    "Sir.31.42": {
+     "kjva": [
+      "Sir.31.31"
+     ],
+     "why": "read in both texts: the alignment's order or overlap misses it"
+    },
+    "Sir.38.1": {
+     "kjva": [
+      "Sir.38.1"
+     ],
+     "why": "read in both texts: the alignment sent it to a verse elsewhere in the book that shares its words"
+    },
+    "Sir.39.9": {
+     "kjva": [
+      "Sir.39.6"
+     ],
+     "why": "read in both texts: the alignment sent it to a verse elsewhere in the book that shares its words"
+    },
+    "Sir.49.18": {
+     "kjva": [
+      "Sir.49.15"
+     ],
+     "why": "read in both texts: the alignment sent it to a verse elsewhere in the book that shares its words"
+    },
+    "1Macc.10.25": {
+     "kjva": [
+      "1Macc.10.25"
+     ],
+     "why": "read in both texts: the alignment sent it to a verse elsewhere in the book that shares its words"
+    },
+    "1Macc.14.20": {
+     "kjva": [
+      "1Macc.14.20"
+     ],
+     "why": "read in both texts: the alignment sent it to a verse elsewhere in the book that shares its words"
+    }
+   },
    "kjva_without_verse": [
     "Tob.1.1",
     "Tob.1.4",
     "Tob.1.8-10",
+    "Tob.1.13",
     "Tob.1.19",
     "Tob.1.22",
     "Tob.2.3",
@@ -5261,12 +5472,12 @@
     "Tob.6.9",
     "Tob.6.11-12",
     "Tob.6.17",
-    "Tob.7.8-9",
+    "Tob.7.9-10",
     "Tob.7.15",
     "Tob.8.8",
     "Tob.8.14-15",
     "Tob.8.20",
-    "Tob.9.2-6",
+    "Tob.10.1",
     "Tob.10.3",
     "Tob.10.7",
     "Tob.11.1",
@@ -5333,7 +5544,6 @@
     "Jdt.13.20",
     "Jdt.14.4",
     "Jdt.14.8-9",
-    "Jdt.14.12-13",
     "Jdt.14.15",
     "Jdt.15.1-3",
     "Jdt.15.12",
@@ -5342,7 +5552,6 @@
     "AddEsth.16.5",
     "AddEsth.16.9",
     "Wis.3.19",
-    "Wis.6.11",
     "Sir.0.1-2",
     "Sir.1.15",
     "Sir.3.14",
@@ -5350,7 +5559,7 @@
     "Sir.3.25",
     "Sir.7.1",
     "Sir.7.10",
-    "Sir.9.14",
+    "Sir.9.15",
     "Sir.10.21",
     "Sir.12.7",
     "Sir.12.14",
@@ -5368,7 +5577,6 @@
     "Sir.19.18-19",
     "Sir.19.21",
     "Sir.20.4",
-    "Sir.20.14",
     "Sir.20.26",
     "Sir.20.32",
     "Sir.22.9-10",
@@ -5380,7 +5588,6 @@
     "Sir.32.11",
     "Sir.32.21",
     "Sir.37.17",
-    "Sir.38.1",
     "Sir.38.7",
     "Sir.41.23",
     "Sir.50.21",
@@ -5393,9 +5600,7 @@
     "PrAzar.1.45",
     "1Macc.1.12",
     "1Macc.1.63",
-    "1Macc.10.25",
     "1Macc.12.12",
-    "1Macc.14.20",
     "2Macc.11.38"
    ]
   },
@@ -5918,7 +6123,7 @@
     "Sir.20.3": "kjva:Sir.20.2",
     "Sir.22.9": "kjva:Sir.22.7",
     "Sir.22.10": "kjva:Sir.22.8",
-    "Sir.30.13b": "kjva:Sir.7.23",
+    "Sir.30.13b": "kjva:Sir.30.12",
     "Sir.30.25": "kjva:Sir.33.16",
     "Sir.30.26": "kjva:Sir.33.17",
     "Sir.30.27": "kjva:Sir.33.18",
@@ -6247,6 +6452,12 @@
       "AddEsth.16.4"
      ],
      "why": "read in both texts: the alignment's order or overlap misses it"
+    },
+    "Sir.30.13b": {
+     "kjva": [
+      "Sir.30.12"
+     ],
+     "why": "the first line of the KJV's 30:12, which Brenton prints after 30:13 (the alignment had it at 7:23, which shares the words)"
     },
     "Dan.3.72a": {
      "kjva": [
