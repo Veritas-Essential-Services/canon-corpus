@@ -312,6 +312,10 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | Prometheus Bound | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-prometheus-bound` | have (Perseus TEI `tlg0085.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
 | Seven Against Thebes | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-seven-against-thebes` | have (Perseus TEI `tlg0085.tlg004.perseus-eng2`; markup CC BY-SA 4.0) |
 | Suppliant Maidens | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-suppliant-maidens` | have (Perseus TEI `tlg0085.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Prometheus Bound, literally translated into English verse, ed. Thomas Webster (Macmillan, 1866) | Augusta Webster | `aeschylus-webster-prometheus-1866` | have-raw (IA `prometheusboundo00aescrich`) |
+| The Prometheus Bound, translated in the original metres (Hotten, 1867) | C. B. Cayley | `aeschylus-cayley-prometheus-1867` | have-raw (IA `prometheusboundo00aesc_0`) |
+| The Prometheus Bound, translated with introduction and notes (Houghton, Mifflin, 1899) | Paul Elmer More | `aeschylus-more-prometheus-1899` | have-raw (IA `prometheusboundo00aesc_1`) |
+| The Prometheus Bound, rendered into English verse (David Nutt, 1902) | Edwyn Robert Bevan | `aeschylus-bevan-prometheus-1902` | have-raw (IA `prometheusboundoaesc00rich`) |
 
 Pending (wishlist): none here: Smyth's Loeb (1922-26) is on PR #7 as Perseus TEI.
 

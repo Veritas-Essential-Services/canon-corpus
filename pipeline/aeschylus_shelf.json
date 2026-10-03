@@ -1,5 +1,5 @@
 {
- "_about": "Aeschylus in English, translator per title. Complete in two translators: E. H. Plumptre (verse; Tragedies and Fragments) and John Stuart Blackie (verse, 1850; Lyrical Dramas). Also E. D. A. Morshead (verse; House of Atreus 1881 and Four Plays), T. A. Buckley (prose, Bohn), Gilbert Murray (Agamemnon, rhyming verse; Gutenberg clears it as US PD; Murray d. 1957, not PD in life+70 countries). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_about": "Aeschylus in English, translator per title. Complete in two translators: E. H. Plumptre (verse; Tragedies and Fragments) and John Stuart Blackie (verse, 1850; Lyrical Dramas). Also E. D. A. Morshead (verse; House of Atreus 1881 and Four Plays), T. A. Buckley (prose, Bohn), Gilbert Murray (Agamemnon, rhyming verse; Gutenberg clears it as US PD; Murray d. 1957, not PD in life+70 countries). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report. Added 2026-10-03, four single-play Prometheus Bound translations, raw IA OCR: Augusta Webster's (1866), C. B. Cayley's (1867), Paul Elmer More's (1899) and Edwyn Robert Bevan's (1902). Janet Case's Temple Dramatists edition (Greek facing, undated scan) was not taken.",
  "_name_words": [
   "aeschylus",
   "aeschylos",
@@ -80,6 +80,26 @@
    "oresteiatranslat00aescuoft",
    "The Oresteia of Aeschylus translated and explained (London: George Allen, 1900)",
    "tr. George C. W. Warr"
+  ],
+  "aeschylus-webster-prometheus-1866": [
+   "prometheusboundo00aescrich",
+   "The Prometheus Bound, literally translated into English verse, ed. Thomas Webster (Macmillan, 1866)",
+   "tr. Augusta Webster"
+  ],
+  "aeschylus-cayley-prometheus-1867": [
+   "prometheusboundo00aesc_0",
+   "The Prometheus Bound, translated in the original metres (Hotten, 1867)",
+   "tr. C. B. Cayley"
+  ],
+  "aeschylus-more-prometheus-1899": [
+   "prometheusboundo00aesc_1",
+   "The Prometheus Bound, translated with introduction and notes (Houghton, Mifflin, 1899)",
+   "tr. Paul Elmer More"
+  ],
+  "aeschylus-bevan-prometheus-1902": [
+   "prometheusboundoaesc00rich",
+   "The Prometheus Bound, rendered into English verse (David Nutt, 1902)",
+   "tr. Edwyn Robert Bevan"
   ]
  },
  "_excluded": {
@@ -165,7 +185,11 @@
   "aeschylus-perseus-smyth-persians": "Herbert Weir Smyth",
   "aeschylus-perseus-smyth-prometheus-bound": "Herbert Weir Smyth",
   "aeschylus-perseus-smyth-seven-against-thebes": "Herbert Weir Smyth",
-  "aeschylus-perseus-smyth-suppliant-maidens": "Herbert Weir Smyth"
+  "aeschylus-perseus-smyth-suppliant-maidens": "Herbert Weir Smyth",
+  "aeschylus-more-prometheus-1899": "Paul Elmer More",
+  "aeschylus-bevan-prometheus-1902": "Edwyn Robert Bevan",
+  "aeschylus-webster-prometheus-1866": "Augusta Webster",
+  "aeschylus-cayley-prometheus-1867": "C. B. Cayley"
  },
  "_checks": {
   "aeschylus-plumptre": {
@@ -341,6 +365,58 @@
    "identity": "ok",
    "ia_rights": "ok: published 1900",
    "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aeschylus-webster-prometheus-1866": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Augusta Webster",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aeschylus-cayley-prometheus-1867": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "C. B. Cayley",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aeschylus-more-prometheus-1899": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "Paul Elmer More",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aeschylus-bevan-prometheus-1902": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "Edwyn Robert Bevan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
@@ -523,7 +599,9 @@
  },
  "_identity_checked": {
   "aeschylus-way-1906-part1": "checked 2026-10-03: title page reads 'AESCHYLUS IN ENGLISH VERSE, PART I' by Arthur S. Way, Macmillan 1906; the OCR renders the ligature AE as 'JE'/'iE' (JESCHYLUS), so the surname test cannot see it",
-  "aeschylus-way-1908-part3": "checked 2026-10-03: title page reads 'AESCHYLUS IN ENGLISH VERSE, PART III' by Arthur S. Way, Macmillan 1908; the OCR renders the ligature AE as 'JE'/'iE' (JESCHYLUS), so the surname test cannot see it"
+  "aeschylus-way-1908-part3": "checked 2026-10-03: title page reads 'AESCHYLUS IN ENGLISH VERSE, PART III' by Arthur S. Way, Macmillan 1908; the OCR renders the ligature AE as 'JE'/'iE' (JESCHYLUS), so the surname test cannot see it",
+  "aeschylus-webster-prometheus-1866": "title page read: 'THE PROMETHEUS BOUND OF ^SCHYLUS. LITERALLY TRANSLATED INTO ENGLISH VERSE BY AUGUSTA WEBSTER ... MACMILLAN AND CO. 1866'; the OCR mangles the Æ ligature in every occurrence of the author's name",
+  "aeschylus-cayley-prometheus-1867": "title page read: 'THE PROMETHEUS BOUND OF FESCHYLUS. TRANSLATED IN THE ORIGINAL METRES. BY C. B. CAYLEY ... JOHN CAMDEN HOTTEN ... 1867'; the OCR mangles the Æ ligature in the author's name"
  },
  "_rights_checked": {
   "aeschylus-perseus-smyth-agamemnon": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Gregory Crane and Graeme Bird'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
@@ -533,5 +611,6 @@
   "aeschylus-perseus-smyth-prometheus-bound": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Nancy Sultan'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
   "aeschylus-perseus-smyth-seven-against-thebes": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Pierre Habel'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
   "aeschylus-perseus-smyth-suppliant-maidens": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Nancy Sultan'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B"
- }
+ },
+ "_translator_unchecked": {}
 }
