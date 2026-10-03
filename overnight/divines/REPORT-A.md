@@ -473,3 +473,6 @@
 
 ## 2026-10-03 02:16 CDT — samuel-willard done
 - `pipeline/samuel-willard_shelf.json`: 1 IA volume, the 1726 folio (1,016 page images, about 6.8 MB), 85.5% OCR. Its long s is read as f, and the title-page numeral is garbled, so it is labelled "catalogued 1726". It is the only pre-1930 copy on IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:22 CDT — john-tillotson done
+- `pipeline/john-tillotson_shelf.json`: CCEL vols 4-10 of the 1820 Works (CCEL print source: Priestley, 1820) plus IA vols 1-2 of the same edition (98.1% and 98.9% OCR). The copy of vol. 3 that worked is catalogued as vol. 3 but its title page and sermons are vol. X, so it was dropped; the real vol. 3 is pending (HTTP 500). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

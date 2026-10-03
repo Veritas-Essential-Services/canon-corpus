@@ -1703,6 +1703,17 @@ Slugs `willard-*`.
 | Work | Status | Where |
 |---|---|---|
 | A Compleat Body of Divinity (Boston: Green and Kneeland, catalogued 1726) | have-raw | IA (identifier in the shelf); 85.5% OCR, long s read as f |
+
+
+## John Tillotson (round 11, my pick, 2026-10-03)
+
+Slugs `tillotson-works-NN`, one per volume of the 1820 edition (London: J. F. Dove for Richard Priestley, 10 vols, with Thomas Birch's Life).
+
+| Work | Status | Where |
+|---|---|---|
+| Works, vols 4-10 | have-clean | CCEL (keyed from this 1820 edition) |
+| Works, vols 1-2 | have-raw | IA (identifiers in the shelf) |
+| Works, vol. 3 | pending | archive.org HTTP 500 |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
