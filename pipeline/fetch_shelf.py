@@ -331,10 +331,14 @@ def jobs_for(shelf, name):
     return jobs
 
 def main():
-    if len(sys.argv) < 2:
-        sys.exit("usage: fetch_shelf.py <shelf>   (reads pipeline/<shelf>_shelf.json)")
+    if len(sys.argv) < 2 or sys.argv[1] in ("-h", "--help"):
+        print(__doc__)
+        sys.exit(0 if len(sys.argv) >= 2 else "usage: fetch_shelf.py <shelf>   (reads pipeline/<shelf>_shelf.json)")
     name = sys.argv[1]
-    shelf = json.load(open(os.path.join(HERE, f"{name}_shelf.json"), encoding="utf-8"))
+    path = os.path.join(HERE, f"{name}_shelf.json")
+    if not os.path.exists(path):
+        sys.exit(f"no shelf named {name!r}: {path} does not exist (usage: fetch_shelf.py <shelf> [--verify [--record]])")
+    shelf = json.load(open(path, encoding="utf-8"))
     bad = check_surnames(shelf)
     if bad:
         sys.exit(f"{name}_shelf.json: " + "; ".join(bad))
