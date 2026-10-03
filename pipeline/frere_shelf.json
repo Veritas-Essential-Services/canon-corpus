@@ -8,7 +8,8 @@
   "fairy"
  ],
  "_surname": [
-  "frere"
+  "mary frere",
+  "m. frere"
  ],
  "ccel": {},
  "gutenberg": {
@@ -27,7 +28,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "frere",
+   "author_seen": "mary frere",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
