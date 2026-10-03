@@ -1,5 +1,5 @@
 {
- "_about": "Aristotle in English: the Oxford translation, The Works of Aristotle Translated into English, ed. J. A. Smith and W. D. Ross (Oxford: Clarendon, 1908-1952, 12 vols.). Raw Internet Archive OCR, one item per volume (mostly the St. Michael's College, Toronto set, which follows the official numbering), translator recorded per work. Bekker pages are printed in the margins and survive in the OCR; nothing is converted yet (the Edwards precedent). Rights: US public domain for volumes published 1930 or earlier (vols. I, II, IV-XI). Vol. III (1931) enters the US public domain on 2027-01-01 and Vol. XII (1952) is not cleared, so neither is fetched; its pre-1931 parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues, not yet found, and a PD 1902 English De Anima + Parva Naturalia (Hammond) stands in as a gap-fill. Several translators died after 1956, so these are not public domain in the UK or other life+70 countries. English only; no Greek (Perseus Greek not pulled). Clean Gutenberg witnesses (rows ending -pg): Butcher's and Bywater's Poetics, Kenyon's Athenian Constitution, Cresswell's History of Animals. Ellis's Politics and Chase's Ethics are on the Adler shelf and Edghill's Categories is in vol. I (see _held). Added 2026-10-03, older single-work translations (raw IA unless noted): Taylor's Metaphysics (1801); the Bohn volumes of Browne (Ethics, 1850), Owen (Organon, 1853, 2 vols.) and the literal Rhetoric with Buckley's Poetic (1857); Peters's Ethics (1881); Welldon's Politics (1883, in a 1901 printing), Rhetoric (1886) and Ethics (1892); and from Gutenberg, Ellis's Politics and the Everyman Ethics (translator unnamed in the file).",
+ "_about": "Aristotle in English: the Oxford translation, The Works of Aristotle Translated into English, ed. J. A. Smith and W. D. Ross (Oxford: Clarendon, 1908-1952, 12 vols.). Raw Internet Archive OCR, one item per volume (mostly the St. Michael's College, Toronto set, which follows the official numbering), translator recorded per work. Bekker pages are printed in the margins and survive in the OCR; nothing is converted yet (the Edwards precedent). Rights: US public domain for volumes published 1930 or earlier (vols. I, II, IV-XI). Vol. III (1931) enters the US public domain on 2027-01-01 and Vol. XII (1952) is not cleared, so neither is fetched; its pre-1931 parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues, not yet found, and a PD 1902 English De Anima + Parva Naturalia (Hammond) stands in as a gap-fill. Several translators died after 1956, so these are not public domain in the UK or other life+70 countries. English only; no Greek (Perseus Greek not pulled). Clean Gutenberg witnesses (rows ending -pg): Butcher's and Bywater's Poetics, Kenyon's Athenian Constitution, Cresswell's History of Animals. Ellis's Politics and Chase's Ethics are on the Adler shelf and Edghill's Categories is in vol. I (see _held). Added 2026-10-03, older single-work translations (raw IA unless noted): Taylor's Metaphysics (1801); the Bohn volumes of Browne (Ethics, 1850), Owen (Organon, 1853, 2 vols.) and the literal Rhetoric with Buckley's Poetic (1857); Peters's Ethics (1881); Welldon's Politics (1883, in a 1901 printing), Rhetoric (1886) and Ethics (1892); and from Gutenberg, Ellis's Politics and the Everyman Ethics (translator unnamed in the file). Added 2026-10-03 (later): John H. M'Mahon's literal Metaphysics (Bohn, 1857), raw IA OCR (Google scan; the title page prints the name M'Mahon).",
  "_name_words": [
   "aristotle",
   "works",
@@ -128,6 +128,11 @@
    "nicomacheanethi00petegoog",
    "The Nicomachean Ethics of Aristotle (London: C. Kegan Paul, 1881)",
    "tr. F. H. Peters"
+  ],
+  "aristotle-mcmahon-metaphysics-1857": [
+   "metaphysicsaris01arisgoog",
+   "The Metaphysics of Aristotle, literally translated from the Greek (Bohn, 1857)",
+   "tr. John H. M'Mahon"
   ]
  },
  "_excluded": {
@@ -157,7 +162,8 @@
   "aristotle-taylor-metaphysics-1801": "Thomas Taylor",
   "aristotle-welldon-ethics-1892": "J. E. C. Welldon",
   "aristotle-welldon-rhetoric-1886": "J. E. C. Welldon",
-  "aristotle-perseus-rackham-nicomachean-ethics": "Harris Rackham"
+  "aristotle-perseus-rackham-nicomachean-ethics": "Harris Rackham",
+  "aristotle-mcmahon-metaphysics-1857": "M'Mahon"
  },
  "_translator_unchecked": {
   "aristotle-ross-v01": "no single translator to check: None",
@@ -489,6 +495,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1881",
    "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristotle-mcmahon-metaphysics-1857": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "M'Mahon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
