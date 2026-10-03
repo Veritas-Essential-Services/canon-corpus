@@ -13,7 +13,7 @@ the ids are the ones in `data/uids/wordhoard.uids.json`, read and never written.
 
 ```
 python3 pipeline/build_xrefs.py --fetch     # the two scans, sha256-pinned (~1.2 GB into data/corpus/tsk/)
-python3 pipeline/build_xrefs.py             # build (~15 min first time; stages cached in build/xrefs/)
+python3 pipeline/build_xrefs.py             # build (~15 min first time; stages cached in build/xrefs/, keyed by the code that made them)
 python3 pipeline/build_xrefs.py --check     # rebuild tsk.jsonl in memory: byte-identical to the committed file
 python3 pipeline/xrefs.py kjv:John.1.1      # look a verse up
 python3 tests/xrefs_test.py                 # offline: the reader rule by rule, then the committed files
@@ -92,7 +92,16 @@ What it changed, measured against OpenBible (section 6), on the Revell scan:
 | all | 75.6% | 83.8% |
 
 So after the re-reading, references with an 8 match as often as references
-with no 3 or 8 at all: the digit error is gone, not just reduced. The scan's
+with no 3 or 8 at all: the digit error is gone, not just reduced.
+
+**Where an error would hide.** The labels come only from references where one
+reading names a verse and the other does not, and nine in ten of them are 3s.
+In 74,844 committed references (30%), some 3 or 8 swapped names a verse too:
+there the Bible's shape cannot tell, only the model chose, and the two scans
+agreeing adds little because both go through the same model. `--measure`
+scores those ("3/8, shape blind") apart from the ones shape confirms ("3/8,
+shape tells") and from "no-3/8". If "shape blind" matches OpenBible as often as
+"no-3/8", the model is not hiding errors there. The scan's
 OCR read 79,831 printed 3s as 8s; 17 corrections went the other way.
 
 ## 4. Two scans, and what is committed
@@ -117,7 +126,7 @@ The first build (2026-10-03):
 | | references | also in OpenBible |
 |---|---|---|
 | **committed** | **248,416** on 25,622 verses | **94.0%** |
-| of which agreed | 226,736 | 94.6% |
+| of which agreed (the manifest's `agreed`, 227,774, includes unsure_digit) | 226,736 | 94.6% |
 | of which placed | 20,642 | 87.9% |
 | of which unsure_digit | 1,038 | 80.4% |
 | one scan only (not committed) | 122,369 | 55.9% |

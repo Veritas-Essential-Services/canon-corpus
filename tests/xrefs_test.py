@@ -87,15 +87,31 @@ check("align: a chapter's summary belongs to no entry", all(1 not in e["lines"] 
 
 # ---- the glyph model
 if os.path.exists(G.MODEL):
-    m = G.Model.load()
-    rep = m.d.get("report", {})
+    rep = json.load(open(G.MODEL, encoding="utf-8")).get("report", {})   # no numpy needed to read it
     check("glyph model: held-out agreement >= 98%", rep.get("held_out_agreement", 0) >= 0.98)
     check("glyph model: decide() calls only sure glyphs", G.decide(0.95) == "3" and G.decide(0.05) == "8" and G.decide(0.5) is None)
 else:
     check("glyph model present (data/xrefs/glyph-3-8.json)", False)
-import numpy as np
-blob = np.zeros((20, 14), dtype=np.uint8) + 255
-check("feature(): a blank crop is no glyph", G.feature(blob) is None)
+try:
+    import numpy as np
+    import PIL  # noqa: F401
+except ImportError:
+    np = None
+    print("skip  feature(): numpy and Pillow are not installed (python3 -m pip install numpy pillow)")
+if np is not None:
+    blob = np.zeros((20, 14), dtype=np.uint8) + 255
+    check("feature(): a blank crop is no glyph", G.feature(blob) is None)
+
+# corrected(): the model's calls, and a reference's status
+gA, gB = (5, 10, 20, 0, 30, 90), (5, 30, 40, 0, 30, 90)
+rd = [(("Gen", 1, 1), "x", {"abbr": "Ps", "c": 88, "v": 8, "c2": None, "v2": None,
+                            "digits": {"c": "88", "v": "8"}, "glyphs": {"c": [gA, None], "v": [gB]}})]
+fx = B.corrected(rd, {gA: 0.99, gB: 0.01})[0][2]
+check("corrected(): a sure 3 read as 8 is fixed", (fx["c"], fx["v"], fx["status"]) == (38, 8, "fixed"))
+fx = B.corrected(rd, {gA: 0.99, gB: 0.5})[0][2]
+check("corrected(): one digit fixed and one unsure leaves the reference unsure", fx["status"] == "unsure")
+fx = B.corrected(rd, {gB: 0.01})[0][2]
+check("corrected(): a glyph with no crop keeps the OCR's reading, unsure", (fx["c"], fx["status"]) == (88, "unsure"))
 
 # weak labels from the KJV's shape
 gl = (5, 10, 20, 0, 30, 90)
@@ -118,6 +134,31 @@ check("combine: one scan missed the 1:2 entry, so its Isa 45:7 ran on under 1:1:
 check("combine: a reference only one scan reads is not committed",
       "kjv:Gen.1.3" not in byv and [o["ref"] for o in one] == ["kjv:Ps.33.6"])
 check("combine: counts", counts["agreed"] == 1 and counts["placed"] == 1 and counts["one_scan_not_committed"] == 1)
+
+# the earlier scan HAS an entry at the later verse: the two readings are two
+# verses' references, not one run-on, and nothing is placed
+entries_both = {"rato": {s("Gen", 1, 1), s("Gen", 1, 2), s("Gen", 1, 3)}, "drra": {s("Gen", 1, 1), s("Gen", 1, 2)}}
+rows2, one2, counts2 = B.combine(per, entries_both, shape)
+check("combine: no placement when both scans have the later entry", counts2["placed"] == 0
+      and not any(r.get("placed") for r in rows2))
+# the run-on is in the FIRST scan (rato missed the entry): placed from drra's side
+per3 = {"rato": [(s("Gen", 1, 1), "beginning", t3, "unsure")],
+        "drra": [(s("Gen", 1, 2), "without", t3, "unsure")]}
+rows3, one3, counts3 = B.combine(per3, {"rato": {s("Gen", 1, 1)}, "drra": {s("Gen", 1, 1), s("Gen", 1, 2)}}, shape)
+byv3 = {r["verse"]: r for r in rows3}
+check("combine: a run-on in either scan is placed at the later verse, with the later scan's catchword",
+      byv3.get("kjv:Gen.1.2", {}).get("placed") == ["kjv:Isa.45.7"]
+      and byv3["kjv:Gen.1.2"]["groups"][0]["kw"] == "without" and one3 == [])
+check("combine: a placed reference neither scan could read the 3/8 of is marked unsure_digit",
+      byv3["kjv:Gen.1.2"].get("unsure_digit") == ["kjv:Isa.45.7"])
+
+# --measure's digit classes
+check("digit class: Ps 33:6 is shape-blind (Ps 38:6, 33:6... 83:6 all exist)",
+      B.digit_class("kjv:Ps.33.6", shape) == "3/8, shape blind")
+check("digit class: Prov 8:22-24 is shape-blind (Prov 3:22 exists)", B.digit_class("kjv:Prov.8.22-24", shape) == "3/8, shape blind")
+check("digit class: Ps 134:3 is told by shape (Ps 184 is no psalm, 134:8 no verse)",
+      B.digit_class("kjv:Ps.134.3", shape) == "3/8, shape tells")
+check("digit class: Gen 1:1 has no 3/8", B.digit_class("kjv:Gen.1.1", shape) == "no-3/8")
 
 # ---- the committed data
 if os.path.exists(B.TSK_FILE) and os.path.exists(B.MANIFEST):

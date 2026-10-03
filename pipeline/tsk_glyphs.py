@@ -32,7 +32,10 @@ import json
 import os
 import zipfile
 
-import numpy as np
+try:
+    import numpy as np
+except ImportError:      # the reader and the combiner run without it; only the model needs it
+    np = None
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -136,12 +139,17 @@ def train(X, Y, seed=0, hidden=48, epochs=60, lr=0.05):
     p = m.p3(X[te])
     sure = (p >= SURE) | (p <= 1 - SURE)
     yt = Y[te] > 0.5
+    pick = p > 0.5
     report = {
         "labelled": int(len(X)), "labelled_as_3": int(Y.sum()), "held_out": int(len(te)),
         "held_out_agreement": round(float(((p > 0.5) == yt).mean()), 4),
         "held_out_sure_share": round(float(sure.mean()), 4),
         "held_out_sure_agreement": round(float(((p[sure] > 0.5) == yt[sure]).mean()), 4),
         "held_out_8_recall": round(float(((p <= 0.5) & ~yt).sum() / max(1, (~yt).sum())), 4),
+        # where both readings name a verse, nothing but the model decides, so
+        # each call's precision on the sure glyphs is what a reader can trust
+        "held_out_sure_3_precision": round(float((sure & pick & yt).sum() / max(1, (sure & pick).sum())), 4),
+        "held_out_sure_8_precision": round(float((sure & ~pick & ~yt).sum() / max(1, (sure & ~pick).sum())), 4),
         "seed": seed, "hidden": hidden, "epochs": epochs, "features": f"{FW}x{FH} ink + aspect",
     }
     d["report"] = report

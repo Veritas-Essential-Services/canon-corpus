@@ -147,8 +147,18 @@ def src_path(tag, kind):
 
 
 # ---------------------------------------------------------------- per scan
+def code_key(*mods):
+    """A short hash of the modules a cached stage depends on: a cache built by
+    other code is never read back (so --check is a rebuild, not a re-read)."""
+    h = hashlib.sha256()
+    for m in mods:
+        with open(m.__file__, "rb") as f:
+            h.update(f.read())
+    return h.hexdigest()[:12]
+
+
 def layout_path(tag):
-    return os.path.join(BUILD, f"{tag}.layout.jsonl.gz")
+    return os.path.join(BUILD, f"{tag}.layout.{code_key(L)}.jsonl.gz")
 
 
 def stage_layout(tag):
@@ -198,7 +208,7 @@ def _page_job(args):
 def stage_features(tag, reads):
     """{glyph: feature} for every 3/8 in a reference, cached per scan."""
     import numpy as np
-    cache = os.path.join(BUILD, f"{tag}.glyphs.npz")
+    cache = os.path.join(BUILD, f"{tag}.glyphs.{code_key(L, T, G)}.npz")
     if os.path.exists(cache):
         d = np.load(cache)
         return {tuple(int(x) for x in k): f for k, f in zip(d["keys"], d["feats"])}
@@ -248,7 +258,7 @@ def corrected(reads, p3):
     out = []
     for src, kw, r in reads:
         r = dict(r)
-        status = "as-read"
+        unsure = fixed = False
         for f, gl in r["glyphs"].items():
             d = list(r["digits"][f])
             for i, (ch, g) in enumerate(zip(d, gl)):
@@ -256,15 +266,16 @@ def corrected(reads, p3):
                     p = p3.get(tuple(g))
                     k = G.decide(p) if p is not None else None
                     if k is None:
-                        if status == "as-read":
-                            status = "unsure"
+                        unsure = True
                     elif k != ch:
                         d[i] = k
-                        status = "fixed"
+                        fixed = True
             nd = "".join(d)
             if nd != r["digits"][f]:
                 r[f] = int(nd)
-        r["status"] = status
+        # one digit the model could not call leaves the whole reference
+        # unsure, whatever another digit's fix did
+        r["status"] = "unsure" if unsure else ("fixed" if fixed else "as-read")
         out.append((src, kw, r))
     return out
 
@@ -291,6 +302,7 @@ def combine(per_scan, entries_of, shape):
     agreed = set(sets[a]) & set(sets[b])
     placed = {}
     moved_from = set()        # (scan, verse, ref): the run-on copy a placement replaces
+    placed_from = {}          # (later, ref) -> (scan, verse) of that run-on copy
     for x, y in ((a, b), (b, a)):
         by_target = collections.defaultdict(list)
         for (src, t) in sets[y]:
@@ -308,6 +320,7 @@ def combine(per_scan, entries_of, shape):
             who_later = y if who_earlier == x else x
             if later not in entries_of[who_earlier] and later in entries_of[who_later]:
                 placed[(later, t)] = who_later
+                placed_from[(later, t)] = (who_earlier, earlier)
                 moved_from.add((who_earlier, earlier, t))
     keep = agreed | set(placed)
     # rows, in printed order (scan a first, then anything only b ordered)
@@ -316,6 +329,13 @@ def combine(per_scan, entries_of, shape):
     unsure = set()
     for (src, t) in agreed:
         if all(st == "unsure" for _, st in sets[a][(src, t)]) and all(st == "unsure" for _, st in sets[b][(src, t)]):
+            unsure.add((src, t))
+    for (src, t), tag in placed.items():
+        # a placed reference whose 3/8 neither scan could call is no surer
+        # than an agreed one
+        tag_e, src_e = placed_from[(src, t)]
+        if all(st == "unsure" for _, st in sets[tag][(src, t)]) and \
+                all(st == "unsure" for _, st in sets[tag_e][(src_e, t)]):
             unsure.add((src, t))
     for tag in ORDER:
         for src, kw, t, st in per_scan[tag]:
@@ -551,6 +571,40 @@ def check():
     return ok
 
 
+def digit_class(rid, shape):
+    """Which glyph evidence a committed reference stands on:
+    "no-3/8"           no 3 or 8 in its numbers;
+    "3/8, shape tells" every 3/8 in it, swapped, names no verse, so the
+                       Bible's shape alone confirms the reading;
+    "3/8, shape blind" some 3/8, swapped, also names a verse: only the glyph
+                       model chose, and two scans agreeing adds little (both
+                       go through the same model). Where a model error would
+                       hide, so it is measured on its own."""
+    b, c, v, c2, v2 = T.parse_ref_id(rid)
+    nums = {"c": c, "v": v, "c2": c2, "v2": v2}
+    if not any(ch in "38" for x in nums.values() for ch in str(x)):
+        return "no-3/8"
+
+    def names(n):
+        cc, vv, cc2, vv2 = n["c"], n["v"], n["c2"], n["v2"]
+        return all(x in shape[b] for x in (cc, cc2)) and 1 <= vv <= shape[b][cc] and 1 <= vv2 <= shape[b][cc2]
+    for f, x in nums.items():
+        if (f == "c2" and c2 == c) or (f == "v2" and (c2, v2) == (c, v)):
+            continue                      # not printed: the id repeats c / v
+        sx = str(x)
+        for i, ch in enumerate(sx):
+            if ch in "38":
+                n = dict(nums)
+                n[f] = int(sx[:i] + G.SWAP[ch] + sx[i + 1:])
+                if f == "c" and c2 == c:
+                    n["c2"] = n["c"]
+                if f == "v" and (c2, v2) == (c, v):
+                    n["v2"] = n["v"]
+                if names(n):
+                    return "3/8, shape blind"
+    return "3/8, shape tells"
+
+
 def measure(path):
     """Share of committed references OpenBible.info also lists for the verse
     (ranges overlap). OpenBible is CC BY: it is read here, never written anywhere."""
@@ -587,7 +641,7 @@ def measure(path):
                     i, j = V.index[(b, c, v)], V.index[(b, c2, v2)]
                     hit = any(V.seq[k] in ob[src] for k in range(i, min(j, i + 40) + 1))
                     kind = "placed" if rid in placed else ("unsure_digit" if rid in uns else "agreed")
-                    for k in ("all", kind):
+                    for k in ("all", kind, "digits: " + digit_class(rid, shape)):
                         st[k][0] += 1
                         st[k][1] += hit
     if os.path.exists(ONE_SCAN):
