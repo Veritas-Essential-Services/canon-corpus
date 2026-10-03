@@ -484,7 +484,9 @@
     {
       "id": "peabody",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Josephine Preston Peabody's Old Greek Folk Stories; myth and saints batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T19:42:39-05:00",
+      "notes": "1/1 fetched (Gutenberg 9313), 436 units, 0 ~2 ids."
     },
     {
       "id": "golden-legend",

@@ -252,3 +252,6 @@
 
 ## 2026-10-02 19:42 CDT — guerber: done
 - 7/7 fetched (Gutenberg 39250, 73021, 28497, 12455, 13983, 64163, 16840), 13,366 units, 0 ~2 ids.
+
+## 2026-10-02 19:42 CDT — peabody: done
+- 1/1 fetched (Gutenberg 9313), 436 units, 0 ~2 ids.

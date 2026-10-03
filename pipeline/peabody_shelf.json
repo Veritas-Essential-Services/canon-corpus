@@ -1,0 +1,20 @@
+{
+ "_about": "Josephine Preston Peabody's (1874-1922) Old Greek Folk Stories Told Anew: Greek myths retold for children. Clean Gutenberg text; US public domain. Her poems and plays are not taken. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Josephine Preston Peabody",
+ "_name_words": [
+  "greek",
+  "folk",
+  "stories"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "peabody-old-greek-folk-stories": [
+   9313,
+   "Old Greek Folk Stories Told Anew"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "peabody-poems-plays": "The Piper (PG 11661), The Singing Man (14531), The Singing Leaves (75847), The Book of the Little Past (39131): verse and drama"
+ }
+}
