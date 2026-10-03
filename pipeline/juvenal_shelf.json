@@ -44,6 +44,11 @@
    "b28269743",
    "The Satires of Juvenal, translated and illustrated (London: Payne and Mackinlay, 1807)",
    "tr. Francis Hodgson"
+  ],
+  "persius-wollaston-1841": [
+   "satirespersius00wollgoog",
+   "The Satires of Persius, with a translation of the Epodes of Horace by the same (London: Chas. Reynell, 1841)",
+   "tr. Charlton Byam Wollaston"
   ]
  },
  "_cross_ref": {
@@ -65,7 +70,8 @@
   "persius-drummond-1799": "William Drummond",
   "juvenal-persius-madan-1814": "M. Madan",
   "juvenal-badham-1814": "Charles Badham",
-  "juvenal-hodgson-1807": "Francis Hodgson"
+  "juvenal-hodgson-1807": "Francis Hodgson",
+  "persius-wollaston-1841": "Wollaston"
  },
  "_checks": {
   "juvenal-persius-evans-gifford": {
@@ -156,6 +162,19 @@
    "ia_rights": "ok: published 1807",
    "ia_date": "1807",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "persius-wollaston-1841": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "juvenal",
+   "translator_claimed": "Wollaston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
