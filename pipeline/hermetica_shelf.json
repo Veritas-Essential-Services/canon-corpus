@@ -1,0 +1,58 @@
+{
+ "_about": "The Hermetic writings in English: John David Chambers's Theological and Philosophical Works of Hermes Trismegistus, translated from the Greek (T. & T. Clark, 1882), and John Everard's Divine Pymander (1650), in George Redway's 1884 reprint with Hargrave Jennings's introduction. Raw IA OCR. Not minted.",
+ "_name_words": [
+  "hermes",
+  "trismegistus",
+  "pymander"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hermetica-chambers-1882": [
+   "theologicalphilo00hermrich",
+   "The Theological and Philosophical Works of Hermes Trismegistus, Christian Neoplatonist, translated from the original Greek, with preface, notes and indices (Edinburgh: T. & T. Clark, 1882)",
+   "tr. John David Chambers"
+  ],
+  "hermetica-everard-pymander-1884": [
+   "b2487839x",
+   "The Divine Pymander of Hermes Mercurius Trismegistus (Everard's translation of 1650; London: George Redway, 1884, with an introduction by Hargrave Jennings)",
+   "tr. John Everard"
+  ]
+ },
+ "_surname": [
+  "hermes",
+  "trismegistus"
+ ],
+ "_translators": {
+  "hermetica-chambers-1882": "John David Chambers",
+  "hermetica-everard-pymander-1884": "Dr. Everard"
+ },
+ "_checks": {
+  "hermetica-chambers-1882": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hermes",
+   "translator_claimed": "John David Chambers",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hermetica-everard-pymander-1884": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hermes",
+   "translator_claimed": "Dr. Everard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
