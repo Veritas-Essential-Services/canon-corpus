@@ -417,3 +417,9 @@
 
 ## 2026-10-02 20:34 CDT — baring-gould: done
 - 5/5 fetched (Gutenberg 36127, 5324, 36638, 48736, 48622), 9,511 units, 0 ~2 ids.
+
+## 2026-10-02 20:45 CDT — incident: Lane A's perkins shelf overwritten, restored
+- f582443 (Lucy Fitch Perkins) wrote over `pipeline/perkins_shelf.json`, Lane A's William Perkins shelf. The new-shelf helper did not check for an existing file. The coordinator relayed the reviewer's catch.
+- 8c69ae2 restores the file byte for byte from 2acacb0 and moves the Twins books to `pipeline/lfperkins_shelf.json` (slugs `lfperkins-*`).
+- Guard: `overnight/divines/precommit-D.py` (installed as the clone's pre-commit hook) refuses a commit that changes a shelf with another lane's commit in its history; the helper refuses an existing file.
+- 88bc65a: `_surname`, `_translators` and recorded `_checks` on 63 shelves (the subject says 64, wrongly). 0 mismatches, 0 rights flags.
