@@ -192,6 +192,8 @@ Other lanes already hold William Cunningham, Thomas Chalmers and James Buchanan.
 | Foxe, The Acts and Monuments, ed. Cattley, with Townsend's dissertation (8 vols, 1837-1841) | have-raw | `john-foxe_shelf.json`; the full text, not the abridged Book of Martyrs |
 | Burnet, History of the Reformation of the Church of England, ed. Pocock (7 vols, Oxford, 1865) | have-raw | `gilbert-burnet_shelf.json` |
 | Strype, Ecclesiastical Memorials (1822, 6 parts), Annals (1824, 7 parts), Lives of Parker, Whitgift (3 vols each), Grindal, Aylmer, Cheke (1821), Sir Thomas Smith (1820) (Clarendon Press); Memorials of Cranmer (EHS, 1848-54, 3 vols) | have-raw | `strype_shelf.json`, 26 volumes |
+| Soames, The History of the Reformation of the Church of England (4 vols, 1826-28) | have-raw | `soames_shelf.json`; vol. 2 pending on an archive server error |
+| Demaus, Hugh Latimer (1869); William Tyndale (1871) | have-raw | `demaus_shelf.json` |
 
 ## Reformed bishops of the Stuart Church
 
@@ -234,6 +236,7 @@ The lives of the Puritans themselves are on lane A's shelves; these are the hist
 | Paul Henry, The Life and Times of John Calvin, tr. Stebbing (2 vols, 1849) | have-raw | `paul-henry_shelf.json`; translator checked |
 | Christoffel, Zwingli, or the Rise of the Reformation in Switzerland, tr. Cochran (1858) | have-raw | `christoffel_shelf.json`; translator checked |
 | Lechler, John Wycliffe and his English Precursors, tr. Lorimer (RTS, 1884) | have-raw | `lechler_shelf.json`; translator checked |
+| Gillett, The Life and Times of John Huss (2 vols, 1863) | have-raw | `gillett_shelf.json` |
 | Smiles, The Huguenots in England and Ireland (1868); The Huguenots in France (1873) | have-raw | `samuel-smiles_shelf.json` |
 | Agnew, Protestant Exiles from France, 3rd ed. (2 vols, 1886) | have-raw | `agnew_shelf.json` |
 | Browning, A History of the Huguenots, 3rd ed. (1842) | have-raw | `w-s-browning_shelf.json` |

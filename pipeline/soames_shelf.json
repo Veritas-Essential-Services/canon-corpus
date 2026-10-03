@@ -1,0 +1,67 @@
+{
+ "_about": "Henry Soames (1785-1860): The History of the Reformation of the Church of England (London: Rivington, 1826-1828, 4 vols). Volume numbers read off each title page. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "soames"
+ ],
+ "_surname": [
+  "soames"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "soames-reformation-1": [
+   "historyofreforma01soam",
+   "The History of the Reformation of the Church of England (London: Rivington, 1826), vol. 1"
+  ],
+  "soames-reformation-3": [
+   "historyofreforma03soam",
+   "The History of the Reformation of the Church of England (London: Rivington, 1827), vol. 3"
+  ],
+  "soames-reformation-4": [
+   "historyofreforma04soam",
+   "The History of the Reformation of the Church of England (London: Rivington, 1828), vol. 4"
+  ]
+ },
+ "_alternates": {
+  "historyreformat00/03/06/07/08soamgoog, india.history.resource.36949..36951, 77988": "Google and Digital Library of India copies."
+ },
+ "_pending": {
+  "historyofreforma02soam (vol. 2)": "Internet Archive returned HTTP 500 for its text file on 2026-10-03; restore it to internet_archive as soames-reformation-2 and refetch."
+ },
+ "_excluded": {},
+ "_checks": {
+  "soames-reformation-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "soames",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "soames-reformation-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "soames",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "soames-reformation-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "soames",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
