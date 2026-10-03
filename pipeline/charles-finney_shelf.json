@@ -1,0 +1,142 @@
+{
+ "_about": "Public-domain Charles G. Finney (1792-1875, revivalist, president of Oberlin College) for the Word Hoard: Lectures on Revivals of Religion, Systematic Theology (1878 edition), Lectures to Professing Christians, Sermons on Gospel Themes, Power from on High, Letters on Revival and The Backslider in Heart, clean from CCEL. His theology departs from the Reformed divines on this shelf list; he is here for his influence, and the shelf is Adam's to veto. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "f/finney",
+ "_name_words": [
+  "finney",
+  "charles"
+ ],
+ "_surname": [
+  "charles g. finney",
+  "charles grandison finney",
+  "c. g. finney",
+  "finney"
+ ],
+ "_held": {},
+ "ccel": {
+  "finney-revivals": [
+   "revivals",
+   "Lectures on Revivals of Religion",
+   ""
+  ],
+  "finney-theology": [
+   "theology",
+   "Systematic Theology (1878)",
+   ""
+  ],
+  "finney-lectures": [
+   "lectures",
+   "Lectures to Professing Christians",
+   ""
+  ],
+  "finney-sermons": [
+   "sermons",
+   "Sermons on Gospel Themes",
+   ""
+  ],
+  "finney-power": [
+   "power",
+   "Power from on High",
+   ""
+  ],
+  "finney-fire": [
+   "fire",
+   "Letters on Revival",
+   ""
+  ],
+  "finney-backslide": [
+   "backslide",
+   "The Backslider in Heart",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {},
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "finney-revivals": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "charles g. finney",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "finney-theology": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "charles g. finney",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "finney-lectures": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "charles g. finney",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "finney-sermons": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "charles g. finney",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "finney-power": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "finney",
+   "identity": "ok",
+   "ccel_dc_rights": "Source is public domain (copyright not renewed).\n    Electronic text used by permission of Gospel Truth Ministries.",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Fort Washington, Penn.: Christian Literature Crusade, 1944",
+   "ccel_print_source_check": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "finney-fire": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "charles g. finney",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "finney-backslide": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "charles g. finney",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  }
+ }
+}

@@ -1857,3 +1857,13 @@ Slugs `maclaren-*`.
 | The Expositor's Bible: The Psalms, vols 1-3; Colossians and Philemon | have-clean | CCEL |
 | The Life of David as Reflected in his Psalms | have-clean | CCEL |
 | Expositions, Second Timothy to Revelation | not shelved | CCEL lists no such parts |
+
+
+## Charles G. Finney (round 12, my pick, 2026-10-03)
+
+Slugs `finney-*`. A veto point: his theology departs from the Reformed divines.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on Revivals of Religion; Systematic Theology (1878); Lectures to Professing Christians; Sermons on Gospel Themes; Letters on Revival; The Backslider in Heart | have-clean | CCEL |
+| Power from on High | have-clean | CCEL (keyed from the Christian Literature Crusade reprint, 1944) |
