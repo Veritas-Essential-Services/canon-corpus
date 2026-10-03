@@ -166,6 +166,14 @@ Other lanes already hold William Cunningham, Thomas Chalmers and James Buchanan.
 | Burnet, History of the Reformation of the Church of England, ed. Pocock (7 vols, Oxford, 1865) | have-raw | `gilbert-burnet_shelf.json` |
 | Strype, Ecclesiastical Memorials (1822, 6 parts), Annals (1824, 7 parts), Lives of Parker, Whitgift (3 vols each), Grindal, Aylmer, Cheke (1821), Sir Thomas Smith (1820) (Clarendon Press); Memorials of Cranmer (EHS, 1848-54, 3 vols) | have-raw | `strype_shelf.json`, 26 volumes |
 
+## Reformed bishops of the Stuart Church
+
+| Work | Status | Where |
+|---|---|---|
+| Ussher, Whole Works, ed. Elrington (Dublin, 1847-64): the English vols. I-IV, XI, XIII, XV-XVII | have-raw | `ussher_shelf.json` |
+| Ussher, Whole Works, the Latin vols. V-X, XII, XIV | pending | Latin; shelve if Latin texts are wanted |
+| Davenant, Exposition of Colossians with the Dissertation on the Death of Christ (2 vols, 1831-32); Treatise on Justification (2 vols, 1844-46), tr. Allport | have-raw | `davenant_shelf.json`; translator checked on 3 of 4 |
+
 ## English Puritan histories
 
 The lives of the Puritans themselves are on lane A's shelves; these are the histories and biographical dictionaries of the movement. Fuller's Church History is on lane A's `thomas-fuller` shelf.
