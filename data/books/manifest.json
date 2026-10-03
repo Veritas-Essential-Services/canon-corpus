@@ -1668,7 +1668,7 @@
    "kjva_unkeyed": 316,
    "kjva_note": "deuterocanonical verses carry `kjva`: the shared key, the KJV Apocrypha verse holding the same text, by data/versification/deuterocanon.json (the house's reading, PD), or why there is none; `weak` marks a pairing to read first",
    "note": "Ids follow the Clementine numbering, NOT the KJV's: the Psalms are numbered as in the Greek (Vulgate Ps 50 = KJV Ps 51) with a title counted in verse 1, Daniel 3 holds 3:24-90 and Esther 10:4-16:24 the Greek additions. Each unit's `kjv` names the KJV verse(s) holding the same text, by the map data/versification/vulgate-kjv.json (STEPBible TVTMS, CC BY 4.0, tested against this text), or says why there is none; no uids minted. `text` is the verse with the project's markup turned into line and paragraph breaks; `marked` is the file's line as is. The Clementine appendix (Prayer of Manasses, 3-4 Esdras) is not in the source.",
-   "kjv_map_sha256": "3125ff2d76cc18872321096ddea43f19d9e74a95819ca994799d2a46d4773ed4"
+   "kjv_map_sha256": "7415dd6e5aebc1232b364fca55535fd6604ac62dc97f236d57e206b92e071cf9"
   },
   "rights": {
    "license": "public-domain",
@@ -1702,7 +1702,7 @@
    "kjva_unkeyed": 315,
    "kjva_note": "deuterocanonical verses carry `kjva`: the shared key, the KJV Apocrypha verse holding the same text, by data/versification/deuterocanon.json (the house's reading, PD), or why there is none; `weak` marks a pairing to read first",
    "note": "The Clementine Vulgate's English companion, numbered as the Vulgate is. `vulgate` names the Clementine verse(s) holding the same text (the same number except at structure_texts.DOUAY_ROWS); `kjv` follows through data/versification/vulgate-kjv.json. Empty verses in the file (versification padding) are dropped, never given ids. The file's five appendix books (3-4 Esdras, Prayer of Manasses, an additional psalm, Laodiceans) are not read: the Clementine source has no text for them.",
-   "kjv_map_sha256": "3125ff2d76cc18872321096ddea43f19d9e74a95819ca994799d2a46d4773ed4"
+   "kjv_map_sha256": "7415dd6e5aebc1232b364fca55535fd6604ac62dc97f236d57e206b92e071cf9"
   },
   "rights": {
    "license": "public-domain",
@@ -1731,14 +1731,14 @@
    "versification": "lxx-brenton",
    "kjv_resolved": 22901,
    "kjv_unresolved": 5716,
-   "kjva_keyed": 4798,
-   "kjva_unkeyed": 725,
+   "kjva_keyed": 4802,
+   "kjva_unkeyed": 721,
    "kjva_note": "deuterocanonical verses carry `kjva`: the shared key, the KJV Apocrypha verse holding the same text, by data/versification/deuterocanon.json (the house's reading, PD), or why there is none; `weak` marks a pairing to read first",
    "empty_verses_not_units": [
     "Prov.30.1"
    ],
    "note": "Ids follow Brenton's numbering, NOT the KJV's: the Psalms as in the Greek with a title as verse 1, Jeremiah's oracles in the Greek's order, Nehemiah as chapters 11-23 of Ezra (the Greek's 2 Esdras), the Greek's additions lettered after the verse they follow. Each unit's `kjv` names the KJV verse(s) holding the same text by data/versification/brenton-kjv.json, or says why there is none; no uids minted. `text` drops Brenton's notes, which are in `notes`; `marked` is the verse's USFM as is. eBible's corrections to the printing are in the text; its KJV-renumbered Nehemiah and Brenton's appendix are not read.",
-   "kjv_map_sha256": "01ec72a0f1cc33822c5a7fff725b74a978ee2d84e3f4ae568bb95e2c429a3f84"
+   "kjv_map_sha256": "8f5085756e7f9a2486556dec53353fd36e76df0a344ace78ce55d1e537536035"
   },
   "rights": {
    "license": "public-domain",

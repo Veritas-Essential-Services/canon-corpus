@@ -92,12 +92,17 @@ check("Jerome's Tobit and Judith: the Douay's unkeyed verses there say so",
 hr = W["brenton"]["house_rows"]
 check("Brenton's house rows are all present and in the index",
       set(hr) == {"Esth.4.17o", "Esth.8.12c", "Esth.8.12d", "Dan.3.72a", "Esth.5.1", "Esth.5.2",
-                  "Sir.30.13b"}
+                  "Sir.30.13b", "Sir.36.16", "Sir.1.1", "Sir.1.1a", "Sir.1.1b", "Sir.1.1c",
+                  "Sir.1.1g"}
       and all(v in C(k, "brenton") for v, h in hr.items() for k in h["kjva"]))
 check("Brenton's Dan 3:72a is the KJV's Song of the Three 45 (winter and summer)",
       C("PrAzar.1.45", "brenton") == ["Dan.3.72a"])
 
 # Found by reading the weakest pairings and every far-flung key (2026-10-03).
+check("review: Brenton's Sir 1:1-1:1g is the translator's prologue, the KJV's Sir 0.2; "
+      "Brenton has no other prologue, so the KJV's first (0.1) is empty in its column",
+      all(is_(v, "brenton", "Sir.0.2") for v in ("Sir.1.1", "Sir.1.1a", "Sir.1.1d", "Sir.1.1g"))
+      and C("Sir.0.1", "brenton") == [] and is_("Sir.1.1h", "brenton", "Sir.1.1"))
 check("review: Brenton's Sir 30:13b is the KJV's 30:12, not 7:23", is_("Sir.30.13b", "brenton", "Sir.30.12"))
 check("review: the Douay's Sir 9:21 is 9:14, not 29:20; 20:14 is 20:14, not 18:18",
       is_("Sir.9.21", "douay", "Sir.9.14") and is_("Sir.20.14", "douay", "Sir.20.14"))

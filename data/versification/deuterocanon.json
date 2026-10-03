@@ -5588,12 +5588,12 @@
    "from": "data/books/brenton.json",
    "counts": {
     "verses": 5523,
-    "keyed": 4798,
-    "no_key": 725,
-    "listed_in_map": 346,
-    "weak": 2,
-    "kjva_verses_reached": 4808,
-    "kjva_without_verse": 40,
+    "keyed": 4802,
+    "no_key": 721,
+    "listed_in_map": 350,
+    "weak": 1,
+    "kjva_verses_reached": 4807,
+    "kjva_without_verse": 41,
     "median_score": 1.0
    },
    "kjva_books_read": [
@@ -6093,10 +6093,14 @@
     "Esth.10.3i": "kjva:AddEsth.10.12",
     "Esth.10.3k": "kjva:AddEsth.10.13",
     "Esth.10.3l": "kjva:AddEsth.11.1",
-    "Sir.1.1a": "kjva:Sir.0.1",
+    "Sir.1.1": "kjva:Sir.0.2",
+    "Sir.1.1a": "kjva:Sir.0.2",
+    "Sir.1.1b": "kjva:Sir.0.2",
+    "Sir.1.1c": "kjva:Sir.0.2",
     "Sir.1.1d": "kjva:Sir.0.2",
     "Sir.1.1e": "kjva:Sir.0.2",
     "Sir.1.1f": "kjva:Sir.0.2",
+    "Sir.1.1g": "kjva:Sir.0.2",
     "Sir.1.1h": "kjva:Sir.1.1",
     "Sir.6.2a": "kjva:Sir.6.1",
     "Sir.6.2b": "kjva:Sir.6.2",
@@ -6248,7 +6252,10 @@
     "Sir.36.13": "kjva:Sir.33.13",
     "Sir.36.14": "kjva:Sir.33.14",
     "Sir.36.15": "kjva:Sir.33.15",
-    "Sir.36.16": "kjva:Sir.36.11",
+    "Sir.36.16": [
+     "kjva:Sir.33.16",
+     "kjva:Sir.36.11"
+    ],
     "Sir.36.17": "kjva:Sir.36.12",
     "Sir.36.18": "kjva:Sir.36.13",
     "Sir.36.19": "kjva:Sir.36.14",
@@ -6387,18 +6394,14 @@
     {
      "verses": [
       "Esth.8.12a",
-      "Sir.1.0-1",
-      "Sir.1.1b",
-      "Sir.1.1c",
-      "Sir.1.1g",
+      "Sir.1.0",
       "Sir.30.13a"
      ],
      "why": "shares too few words with any KJV Apocrypha verse to be keyed (the alignment's best pairing is below the threshold)"
     }
    ],
    "weak": [
-    "Esth.8.12i",
-    "Sir.1.1a"
+    "Esth.8.12i"
    ],
    "house_rows": {
     "Esth.4.17o": {
@@ -6433,11 +6436,48 @@
      ],
      "why": "read in both texts: the alignment's order or overlap misses it"
     },
+    "Sir.1.1": {
+     "kjva": [
+      "Sir.0.2"
+     ],
+     "why": "Brenton prints the translator's prologue as Sir 1:1-1:1g; the KJV prints it whole as its second prologue"
+    },
+    "Sir.1.1a": {
+     "kjva": [
+      "Sir.0.2"
+     ],
+     "why": "Brenton prints the translator's prologue as Sir 1:1-1:1g; the KJV prints it whole as its second prologue"
+    },
+    "Sir.1.1b": {
+     "kjva": [
+      "Sir.0.2"
+     ],
+     "why": "Brenton prints the translator's prologue as Sir 1:1-1:1g; the KJV prints it whole as its second prologue"
+    },
+    "Sir.1.1c": {
+     "kjva": [
+      "Sir.0.2"
+     ],
+     "why": "Brenton prints the translator's prologue as Sir 1:1-1:1g; the KJV prints it whole as its second prologue"
+    },
+    "Sir.1.1g": {
+     "kjva": [
+      "Sir.0.2"
+     ],
+     "why": "Brenton prints the translator's prologue as Sir 1:1-1:1g; the KJV prints it whole as its second prologue"
+    },
     "Sir.30.13b": {
      "kjva": [
       "Sir.30.12"
      ],
      "why": "the first line of the KJV's 30:12, which Brenton prints after 30:13 (the alignment had it at 7:23, which shares the words)"
+    },
+    "Sir.36.16": {
+     "kjva": [
+      "Sir.33.16",
+      "Sir.36.11"
+     ],
+     "why": "the Greek's displaced half-line: 'the last to wake up' is the KJV's 33:16, 'their inheritance as from the beginning' its 36:11"
     },
     "Dan.3.72a": {
      "kjva": [
@@ -6448,6 +6488,7 @@
    },
    "kjva_without_verse": [
     "AddEsth.15.12",
+    "Sir.0.1",
     "Sir.1.5",
     "Sir.1.7",
     "Sir.1.21",

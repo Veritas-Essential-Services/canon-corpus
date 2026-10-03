@@ -186,6 +186,19 @@ HOUSE_ROWS = {
         "Esth.5.2": (["AddEsth.15.11"], "raised the golden sceptre he laid it upon her neck",
                      "the Hebrew's 5:2 in the Greek's fuller wording, which the KJV prints "
                      "again as Rest of Esther 15:11"),
+        # The translator's prologue, which Brenton prints as Sir 1:1-1:1g and
+        # the KJV as its second prologue (0.2): one KJV verse is more than
+        # the alignment pairs with one of Brenton's.
+        **{v: (["Sir.0.2"], w, "Brenton prints the translator's prologue as Sir 1:1-1:1g; "
+                               "the KJV prints it whole as its second prologue")
+           for v, w in [("Sir.1.1", "Whereas many and great things"),
+                        ("Sir.1.1a", "my grandfather Jesus"),
+                        ("Sir.1.1b", "was drawn on also himself to write"),
+                        ("Sir.1.1c", "read it with favour and attention"),
+                        ("Sir.1.1g", "prepared before in manners to live after the law")]},
+        "Sir.36.16": (["Sir.33.16", "Sir.36.11"], "Though I was the last to wake up",
+                      "the Greek's displaced half-line: 'the last to wake up' is the KJV's "
+                      "33:16, 'their inheritance as from the beginning' its 36:11"),
         "Sir.30.13b": (["Sir.30.12"], "Bow down his neck in his youth",
                        "the first line of the KJV's 30:12, which Brenton prints after 30:13 "
                        "(the alignment had it at 7:23, which shares the words)"),
@@ -555,6 +568,9 @@ def render(doc):
     return (json.dumps(doc, ensure_ascii=False, indent=1) + "\n").encode("utf-8")
 
 
+FAR = 3   # --audit: how far a key may sit from its neighbours' before it is listed
+
+
 def audit(show=60):
     c = compute()
     for name in ["douay", "brenton"]:
@@ -566,6 +582,20 @@ def audit(show=60):
             ks = keyed[r]["keys"]
             print(f"{s:.2f} {r} -> {' '.join(ks)}\n   {text[r][:150]}\n   "
                   f"{' / '.join(c['ktext'][k[5:]][:70] for k in ks)}")
+        # A key far from every neighbour's: the alignment can send a verse to
+        # another chapter that shares its words (Sir 9:21 had gone to 29:20).
+        ko = c["korder"]
+        refs = [u["id"].split(":", 1)[1] for u in c["res"][name]["book"]["units"]]
+        refs = [r for r in refs if "keys" in keyed.get(r, {})]
+        pos = {r: ko[keyed[r]["keys"][0][5:]] for r in refs}
+        print(f"== {name}: keys more than {FAR} verses from every neighbour's")
+        for i, r in enumerate(refs):
+            nb = [pos[x] for x in refs[max(0, i - 3):i] + refs[i + 1:i + 4]
+                  if x.split(".")[0] == r.split(".")[0]]
+            if nb and min(abs(pos[r] - p) for p in nb) > FAR:
+                ks = keyed[r]["keys"]
+                print(f"{r} -> {' '.join(ks)}{' (house row)' if 'house' in keyed[r] else ''}"
+                      f"\n   {text[r][:150]}\n   {c['ktext'][ks[0][5:]][:70]}")
 
 
 def main():
