@@ -127,6 +127,7 @@ Shelf: `pipeline/ovid_shelf.json`. No single PD translator covers all of Ovid, s
 | Metamorphoses, vol. 2: Books IX-XV (Loeb, 1916) | Frank Justus Miller | `ovid-miller-metamorphoses-v2` | have-raw (IA `metamorphoseswit02oviduoft`) |
 | Heroides and Amores (Loeb, 1914) | Grant Showerman | `ovid-showerman-heroides-amores` | have-raw (IA `heroidesamores00ovid`) |
 | Tristia, Ex Ponto (Loeb, 1924) | Arthur Leslie Wheeler | `ovid-wheeler-tristia-ponto` | have-raw (IA `bwb_W9-CQC-386`) |
+| Ovid's Metamorphosis Englished, mythologized and represented in figures (Oxford, 1632) | George Sandys (verse, 1632) | `ovid-sandys-1632` | have-raw (IA `ovidsmetamorphos00ovid_0`) |
 
 Excluded: PG 21920, *The Last Poems of Ovid* (Akrigg, 2006), a COPYRIGHTED Gutenberg eBook. Later reprints of the two Riley Bohn volumes. Modern translations (Kline and others).
 
@@ -156,6 +157,7 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | The Æneid of Virgil (1872) | Christopher Pearse Cranch | `virgil-cranch-aeneid` | have-raw (IA `cu31924026565428`) |
 | The Aeneid of Virgil, translated into Scottish verse (Eneados, 1513), vol. 1 (Bannatyne Club, Edinburgh, 1839) | Gavin Douglas | `virgil-douglas-eneados-v1` | have-raw (IA `aeneidofvirgiltr01virguoft`) |
 | The Aeneid of Virgil, translated into Scottish verse (Eneados, 1513), vol. 2 (Bannatyne Club, Edinburgh, 1839) | Gavin Douglas | `virgil-douglas-eneados-v2` | have-raw (IA `aeneidofvirgil6402virguoft`) |
+| The First Four Books of the Aeneid of Virgil, in English heroic verse (1582; Edinburgh reprint, 1836) | Richard Stanyhurst | `virgil-stanyhurst-1836` | have-raw (IA `firstfourbooksn00maidgoog`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
@@ -577,6 +579,8 @@ Shelf: `pipeline/seneca_shelf.json`. Translator per title, all clean Gutenberg: 
 | Tragedies, vol. 1 (Loeb, 1917) | Frank Justus Miller | `seneca-miller-loeb-tragedies-v1` | have-raw (IA `tragedieswitheng01seneuoft`) |
 | Tragedies, vol. 2 (Loeb, 1917; this printing revised 1929) | Frank Justus Miller | `seneca-miller-loeb-tragedies-v2` | have-raw (IA `tragedieswitheng02seneuoft`) |
 | The Workes of Lucius Annaeus Seneca, both Morrall and Naturall (London, 1614) | Thomas Lodge | `seneca-lodge-workes-1614` | have-raw (IA `bim_early-english-books-1475-1640_the-workes-of-lucius-ann_seneca-lucius-annus_1614`) |
+| Seneca his Tenne Tragedies, translated into English, ed. Thomas Newton 1581 (Tudor Translations, 1927), vol. 1 | Jasper Heywood, John Studley, Alexander Neville, Thomas Nuce, Thomas Newton (collected 1581); intro. T. S. Eliot (1927) | `seneca-tenne-tragedies-v1` | have-raw (IA `senecahistennetr0000thom`) |
+| Seneca his Tenne Tragedies, translated into English, ed. Thomas Newton 1581 (Tudor Translations, 1927), vol. 2 | Jasper Heywood, John Studley, Alexander Neville, Thomas Nuce, Thomas Newton (collected 1581); intro. T. S. Eliot (1927) | `seneca-tenne-tragedies-v2` | have-raw (IA `senecahistennetr0002thom`) |
 
 Pending (wishlist): Basore's Moral Essays vols. 2-3 (1932-35, not PD).
 
@@ -1274,6 +1278,7 @@ Shelf: `pipeline/greek-romances_shelf.json`. Rowland Smith's Heliodorus, Longus,
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Greek Romances of Heliodorus, Longus and Achilles Tatius | Rowland Smith | `greek-romances-smith` | have (PG 55406) |
+| Heliodorus, An Aethiopian Romance (Broadway Translations; 1923 per the catalogue) | Thomas Underdowne (1587), revised and partly rewritten by F. A. Wright | `heliodorus-underdowne-wright` | have-raw (IA `thiopianromanc00heliuoft`) |
 
 ## Euclid
 
