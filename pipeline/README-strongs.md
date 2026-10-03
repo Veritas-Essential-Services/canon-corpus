@@ -146,8 +146,14 @@ the uid column as provisional.
   written for, or if a row matches nothing; the manifest records the file's sha256.
   A number is Aramaic where the markup tags it so or where Strong's printed derivation
   opens "(Aramaic)". The markup tags proper names `x-pn` in place of a language, so 25
-  Aramaic names (H1841 Daniel, H3567 Cyrus) would read as Hebrew; those rows carry
-  `lang_from: "derivation"`.
+  Aramaic words tagged `x-pn` would read as Hebrew; those rows carry
+  `lang_from: "derivation"`. Most are names (H1841 Daniel, H3567 Cyrus); two are not
+  (H426 אֱלָהּ "God", H576 אֲנָא "I").
+  `proper_name` is that same `x-pn` tag, read as the markup gives it. It is not the
+  same as Strong's own part of speech: 255 tagged `x-pn` have no `n-pr` part of speech
+  (mostly gentilics such as H91 "Agagite", which are names in all but form, plus a few
+  plain words like H426 and H576), and 50 with an `n-pr` part of speech are not tagged
+  (H11 Abaddon). Neither field alone is the list of names; both are kept as given.
   `pipeline/strongs_coverage.py` reports what no entry covers: `docs/strongs-coverage/`.
 - **Thayer:** PR #7's `thayer-entries` book already links each entry to `strongs-greek`.
   It is built only on Adam's machine (the OCR lives there), so a cloud build carries

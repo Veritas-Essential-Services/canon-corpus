@@ -204,9 +204,10 @@ def build_table():
             lx = u["lex"]
             if lang == "hebrew":
                 # Strong's prints "(Aramaic)" at the head of an Aramaic word's
-                # derivation. The markup tags proper names `x-pn` in place of a
-                # language, so 25 Aramaic names (H1841 Daniel, H3567 Cyrus) read
-                # as Hebrew. The printed note wins, and the row says so.
+                # derivation. The markup tags proper names (and a few other
+                # words) `x-pn` in place of a language, so 25 Aramaic words read
+                # as Hebrew: mostly names (H1841 Daniel), but also H426 אֱלָהּ
+                # "God" and H576 אֲנָא "I". The printed note wins, and the row says so.
                 by_note = lx.get("lang") != "arc" and (lx.get("derivation") or "").startswith("(Aramaic)")
                 tongue = "arc" if lx.get("lang") == "arc" or by_note else "hbo"
             else:

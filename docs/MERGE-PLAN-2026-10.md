@@ -57,10 +57,14 @@ one moved, repeat the trial (last section).
   handed `george-smeaton`, `hugh-martin`, `john-kennedy-dingwall` and
   `thomas-mccrie` (`pipeline/<name>_shelf.json`) to #14 and deleted its own
   copies (relay commit 6ffdde1); #14 edits them. `git merge-tree` of the two
-  heads (relay dfdbcab, #14 571473e, checked 2026-10-03 11:20 UTC) gives a
-  modify/delete conflict on all four. Whichever merges second: **keep #14's
-  copies** (`git checkout --theirs` or `--ours`, whichever side is #14, then
-  `git add` them). Deleting them loses #14's shelves.
+  heads (relay af48db8, #14 50822e1, checked 2026-10-03 11:50 UTC) gives a
+  modify/delete conflict on all four, and nothing else. Whichever merges
+  second: **keep #14's copies** (`git checkout --theirs` or `--ours`, whichever
+  side is #14, then `git add` them). Deleting them loses #14's shelves.
+  Briefly both branches also created `abraham-booth` and `benjamin-keach`
+  shelves (an add/add conflict at relay 06af8e8 / #14 7fe89fc); #14 then
+  dropped its copies (50822e1, "lane A owns both authors"), so the relay's
+  copies are the ones that stand. Re-run `git merge-tree` on the heads at merge time.
 
 ## The trial merge, step by step
 

@@ -59,8 +59,8 @@ Each list below is a TSV beside this file.
   names that occur only in the Aramaic of Ezra (Achmetha, Asnappar, Shethar-bozenai,
   Tattenai), which Strong's numbers once, as Hebrew, now have their BDB entry as their own.
 - **Aramaic words tagged Hebrew.** 25 numbers whose printed derivation opens "(Aramaic)" read as
-  Hebrew: the markup tags proper names `x-pn` in place of a language (H1841 Daniel, H3567
-  Cyrus). The printed note now wins (`lang_from: derivation` on the row), so BDB's Aramaic
+  Hebrew: the markup tags proper names (and H426 "God", H576 "I") `x-pn` in place of a
+  language (H1841 Daniel, H3567 Cyrus). The printed note now wins (`lang_from: derivation` on the row), so BDB's Aramaic
   entries for them are their own entries. Of the 87 Aramaic entries counted above as listing
   only Hebrew numbers, 26 were these words (counted before this rule).
 
