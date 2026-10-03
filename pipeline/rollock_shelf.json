@@ -1,0 +1,50 @@
+{
+ "_about": "Robert Rollock (c.1555-1599), first Principal of Edinburgh University: Select Works, ed. William M. Gunn (Wodrow Society, 2 vols, 1844-1849). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "rollock"
+ ],
+ "_surname": [
+  "rollock"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rollock-select-works-1": [
+   "selectworksofrob01roll",
+   "Select Works of Robert Rollock, ed. W. M. Gunn (Wodrow Society, Edinburgh, 1849), vol. 1"
+  ],
+  "rollock-select-works-2": [
+   "selectworksofrob02roll",
+   "Select Works of Robert Rollock, ed. W. M. Gunn (Wodrow Society, Edinburgh, 1844), vol. 2"
+  ]
+ },
+ "_alternates": {
+  "selectworksofrob0002roll": "GTU copy of vol. 2.",
+  "selectworksrobe00unkngoog, selectworksrobe00gunngoog": "Google scans."
+ },
+ "_excluded": {},
+ "_checks": {
+  "rollock-select-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "rollock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rollock-select-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "rollock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
