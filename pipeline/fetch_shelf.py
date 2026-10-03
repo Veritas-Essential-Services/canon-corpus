@@ -77,50 +77,69 @@ def _scrub(data, ident):
 
 def check_identity(r, data, key, names, kind, override=None, surname=None, ident=None,
                    translator=None):
-    try:
-        _check_identity(r, data, key, names, kind, surname, ident, translator)
-    except RuntimeError as e:
-        if not override:
-            raise
-        r["identity_override"] = f"{e} -- kept: {override}"
+    """Run every identity check, then refuse on any miss an override does not
+    cover (fixed 2026-10-03: it used to raise at the FIRST miss, so an
+    `_identity_checked` excuse for the author silently skipped the translator
+    and title checks after it). An override covers only the miss it names:
+    a dict {"author": reason, "title": reason} names its kinds; a plain string
+    (every override written before this fix) covers the first author-or-title
+    miss, the one it was written for, since nothing after it was ever checked.
+    No override ever covers the translator."""
+    misses = _check_identity(r, data, key, names, kind, surname, ident, translator)
+    if not misses:
+        return
+    if isinstance(override, dict):
+        covered = {k: v for k, v in override.items() if k in ("author", "title")}
+    elif override:
+        first = next((k for k, _ in misses if k != "translator"), None)
+        covered = {first: override} if first else {}
+    else:
+        covered = {}
+    left = [m for k, m in misses if k not in covered]
+    if left:
+        raise RuntimeError("; ".join(left))
+    r["identity_override"] = "; ".join(f"{m} -- kept: {covered[k]}" for k, m in misses)
 
 def _check_identity(r, data, key, names, kind, surname=None, ident=None, translator=None):
     """Refuse a scan that is not the book the shelf names (lane A, 2026-10-02).
     The title words are looked for in the WHOLE text, not just the head (title
     pages are often lost to OCR); the author's name words (`_name_words`) must
     appear somewhere. None of the title words anywhere, or no author name at
-    all, raises: the file is not written and the item is reported FAILED as a
-    MISMATCH. Some but not all title words found is kept and flagged
+    all, is a miss: the file is not written and the item is reported FAILED as
+    a MISMATCH. Some but not all title words found is kept and flagged
     `title_weak` for a human to look at. Shelves without `_name_words`, and
     titles with no checkable word, skip the respective test.
     A title with only ONE checkable word (often an editor's name, as in
     "Works, Dwight ed., vol. 2") is too thin to refuse on: a miss there is
     flagged `title_weak`, not refused. A slug listed in the shelf's
-    `_identity_checked` ({slug: reason}) was confirmed another way (content
-    counts, a look by eye): a would-be MISMATCH is kept, flagged
-    `identity_override`, and the reason recorded."""
+    `_identity_checked` was confirmed another way (content counts, a look by
+    eye): the misses it covers (see check_identity) are kept, flagged
+    `identity_override`, and the reason recorded.
+    Returns every miss as (kind, message), kind in author/translator/title."""
     full = _scrub(data, ident)
+    misses = []
     seen = {w: (w in full) for w in key}
     r["title_words_in_text"] = seen
     if surname:
         r["name_check"] = "surname"
         r["author_seen"] = next((n for n in surname if _pat(n).search(full)), None)
         if not r["author_seen"]:
-            raise RuntimeError(f"MISMATCH: surname {surname} never appears as a word in the {kind} text")
+            misses.append(("author", f"MISMATCH: surname {surname} never appears as a word in the {kind} text"))
     elif names:
         r["name_check"] = "legacy: any _name_words substring"
         r["author_seen"] = any(n in full for n in names)
         if not r["author_seen"]:
-            raise RuntimeError(f"MISMATCH: no author name {sorted(names)} anywhere in the {kind} text")
+            misses.append(("author", f"MISMATCH: no author name {sorted(names)} anywhere in the {kind} text"))
     if translator:
         r["translator_claimed"] = translator
         r["translator_in_text"] = bool(_pat(translator).search(full))
         if not r["translator_in_text"]:
-            raise RuntimeError(f"MISMATCH: claimed translator {translator!r} never named in the {kind} text")
+            misses.append(("translator", f"MISMATCH: claimed translator {translator!r} never named in the {kind} text"))
     if len(key) >= 2 and not any(seen.values()):
-        raise RuntimeError(f"MISMATCH: none of the title words {key} anywhere in the {kind} text")
-    if key and not all(seen.values()):
+        misses.append(("title", f"MISMATCH: none of the title words {key} anywhere in the {kind} text"))
+    elif key and not all(seen.values()):
         r["title_weak"] = True
+    return misses
 
 LENDING = {"inlibrary", "printdisabled", "lendinglibrary"}  # not "internetarchivebooks": IA's own scans, PD ones included
 
@@ -128,7 +147,11 @@ def ia_rights(ident):
     """The rights gate for an archive.org item, from its catalogue record. A
     published year of 1930 or later, or a lending-library collection (the
     controlled-lending scans of in-copyright books), is flagged CHECK; the
-    caller refuses a new fetch on it unless `_rights_checked` names the slug."""
+    caller refuses a new fetch on it unless `_rights_checked` names the slug.
+    The caller refuses anything that is not "ok" (fixed 2026-10-03: an
+    unreachable catalogue used to read "unchecked" and slip past a gate that
+    only refused "CHECK"). The latest year on the record decides: "1965
+    [c1890]" is a 1965 printing, not an 1890 one (it used min, 2026-10-03)."""
     rec = {"ia_rights": "unchecked"}
     try:
         m = json.loads(get(f"https://archive.org/metadata/{ident}/metadata", tries=3))["result"]
@@ -145,13 +168,13 @@ def ia_rights(ident):
                 "ia_possible_copyright_status": m.get("possible-copyright-status"),
                 "ia_lending": sorted(set(cols) & LENDING) or None})
     why = []
-    if years and min(years) >= 1930:
-        why.append(f"published {min(years)}")
+    if years and max(years) >= 1930:
+        why.append(f"published {max(years)}")
     if not years:
         why.append("no date on the record")
     if rec["ia_lending"]:
         why.append("lending-library scan")
-    rec["ia_rights"] = ("CHECK: " + "; ".join(why)) if why else f"ok: published {min(years)}"
+    rec["ia_rights"] = ("CHECK: " + "; ".join(why)) if why else f"ok: published {max(years)}"
     return rec
 
 CCEL_TERMS = ("CCEL asks that some of its prepared editions not be used commercially "
@@ -215,7 +238,8 @@ def verify(name, shelf, out, skip, names, record=False):
             if flag not in ("ok", "title_weak", "identity_override"):
                 bad.append(slug)
             rights = c.get("ia_rights", "")
-            if (rights.startswith("CHECK") and not c.get("rights_override")) or c.get("pg_copyrighted") \
+            if (c["kind"] == "ia" and not rights.startswith("ok") and not c.get("rights_override")) \
+                    or c.get("pg_copyrighted") \
                     or c.get("translator_match") is False:
                 flagged.append(slug)
                 flag += f" | RIGHTS {rights or c.get('pg_translator')}"
@@ -307,7 +331,7 @@ def main():
                     raise RuntimeError(f"MISMATCH: Gutenberg names translator {r['pg_translator']!r}, the shelf claims {claimed!r}")
             if kind == "ia":
                 r.update(ia_rights(ident_of(shelf, slug, kind)))
-                if r["ia_rights"].startswith("CHECK") and slug not in shelf.get("_rights_checked", {}):
+                if not r["ia_rights"].startswith("ok") and slug not in shelf.get("_rights_checked", {}):
                     raise RuntimeError(f"RIGHTS: {r['ia_rights']}; read the title page, then list the slug in _rights_checked")
             open(dest + ".tmp", "wb").write(data)
             os.replace(dest + ".tmp", dest)

@@ -14,7 +14,6 @@
   "calvin-letters-2": "constable",
   "calvin-letters-3": "gilchrist",
   "calvin-letters-4": "gilchrist",
-  "calvin-tracts-1": "beveridge",
   "calvin-tracts-2": "beveridge",
   "calvin-tracts-3": "beveridge"
  },
@@ -124,7 +123,7 @@
  "_checks": {
   "calvin-institutes-beveridge": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "calvin",
    "translator_claimed": "beveridge",
@@ -136,7 +135,7 @@
   },
   "calvin-treatise-relics": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "calvin",
    "translator_claimed": "krasinski",
@@ -148,7 +147,7 @@
   },
   "calvin-letters-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "calvin",
    "translator_claimed": "constable",
@@ -159,7 +158,7 @@
   },
   "calvin-letters-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "calvin",
    "translator_claimed": "constable",
@@ -170,7 +169,7 @@
   },
   "calvin-letters-3": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "calvin",
    "translator_claimed": "gilchrist",
@@ -183,7 +182,7 @@
   },
   "calvin-letters-4": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "calvin",
    "translator_claimed": "gilchrist",
@@ -196,12 +195,10 @@
   },
   "calvin-tracts-1": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "calvin",
-   "translator_claimed": "beveridge",
-   "translator_in_text": false,
-   "identity": "identity_override",
+   "identity": "ok",
    "ia_rights": "ok: published 1844",
    "ia_date": "1844",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
@@ -209,7 +206,7 @@
   },
   "calvin-tracts-2": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "calvin",
    "translator_claimed": "beveridge",
@@ -222,7 +219,7 @@
   },
   "calvin-tracts-3": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
    "author_seen": "calvin",
    "translator_claimed": "beveridge",
@@ -234,7 +231,7 @@
    "ia_lending": null
   }
  },
- "_identity_checked": {
-  "calvin-tracts-1": "translator check 2026-10-02: vol. 1's OCR never names Beveridge (its title page is not in the text layer); vols. 2-3 of the same Calvin Translation Society series name him, and IA's record for vol. 1 credits Beveridge (Calvin Translation Society, 1844)"
+ "_translator_not_in_text": {
+  "calvin-tracts-1": "Beveridge (claimed, not checkable): vol. 1's OCR never names Beveridge (its title page is not in the text layer); vols. 2-3 of the same Calvin Translation Society series name him, and IA's record for vol. 1 credits Beveridge (Calvin Translation Society, 1844). Kept out of _translators because no override may excuse the translator check (2026-10-03)."
  }
 }
