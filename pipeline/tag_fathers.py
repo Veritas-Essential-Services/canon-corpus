@@ -24,9 +24,9 @@ in Clement of Alexandria.
 
 LATIN: a Lewis & Short entry key, by build_latin_key's machinery: WORDS reads
 the form, its lemma is linked to L&S by headword and word class, and where
-WORDS allows several entries the context rules (idem-dem, proper-lower,
-rare-inflection, rare-entry, prep-object, no-prep-object, si-quis) remove
-readings until one is left or none can be removed. A token's rule is `sure`
+WORDS allows several entries the context rules remove readings until one
+is left or none can be removed (the rule list is build_latin_key's,
+README-latin-key.md s.4b). A token's rule is `sure`
 (one reading), the "+"-joined context rules that settled it, or null with
 why: `several` (readings left), `no-ls` (WORDS reads it, L&S has no entry),
 `unread` (WORDS cannot read it: OCR damage, a Greek word, a name).
@@ -278,9 +278,9 @@ def manifest(entries):
                            "nt-key, headword; null: ambiguous, unseen, latin",
                   **tot(grc)},
         "latin": {"key": "Lewis & Short entry key (lewis-short:<key>)",
-                  "rules": "build_latin_key: sure, or the context rules that settled it (idem-dem, "
-                           "proper-lower, rare-inflection, rare-entry, prep-object, no-prep-object, "
-                           "si-quis); null: several, no-ls, unread",
+                  "rules": "build_latin_key: sure, or the '+'-joined context rules that settled "
+                           "it (README-latin-key.md s.4b, by_rule below); null: several, no-ls, "
+                           "unread",
                   **tot(lat)},
         "scripture": {"rules": "fathers_scripture.py: note/<map> from a footnote, refs/<map> from a "
                                "printed bracketed reference; map = vulgate (Latin editions' OT), "
