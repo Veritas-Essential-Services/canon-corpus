@@ -1708,3 +1708,13 @@ Slugs `tillotson-works-NN`, one per volume of the 1820 edition (London: J. F. Do
 | Works, vols 4-10 | have-clean | CCEL (keyed from this 1820 edition) |
 | Works, vols 1-2 | have-raw | IA (identifiers in the shelf) |
 | Works, vol. 3 | pending | archive.org HTTP 500 |
+
+
+## Thomas Wilson, Bishop of Sodor and Man (round 11, my pick, 2026-10-03)
+
+Slugs `twilson-works-NN`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works (Library of Anglo-Catholic Theology), vols 2-7 (Oxford: J. H. Parker, 1847-63; years from the title pages) | have-raw | IA (identifiers in the shelf) |
+| Works, vol. 1: Keble's Life of Wilson (1863) | excluded | Keble's book; could go on the john-keble shelf |

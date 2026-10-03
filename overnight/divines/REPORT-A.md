@@ -476,3 +476,6 @@
 
 ## 2026-10-03 02:22 CDT — john-tillotson done
 - `pipeline/john-tillotson_shelf.json`: CCEL vols 4-10 of the 1820 Works (CCEL print source: Priestley, 1820) plus IA vols 1-2 of the same edition (98.1% and 98.9% OCR). The copy of vol. 3 that worked is catalogued as vol. 3 but its title page and sermons are vol. X, so it was dropped; the real vol. 3 is pending (HTTP 500). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 02:22 CDT — thomas-wilson done
+- `pipeline/thomas-wilson_shelf.json`: 6 IA volumes of raw OCR, median 98.6% (96.4-99.4%), about 8 MB. Each title page was read (1847, 1847, 1851, 1860, 1859, 1863). Vol. 1 turned out to be Keble's Life of Wilson, part II, and was excluded as Keble's book. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
