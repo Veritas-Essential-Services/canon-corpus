@@ -14,7 +14,7 @@ OWN numbering. Generated; never hand-edit.
 
 A cell lists the version's verses, space-separated, in the version's order.
 It is empty where the version has no verse for the KJV verse: the book is not
-in it (Tyndale here has ten books; Brenton's Nehemiah is in his Ezra column
+in it (Tyndale has 33 books; Brenton's Nehemiah is in his Ezra column
 as Ezra 11-23, so it is not empty), or the version leaves the verse out (the
 ASV's Acts 8:37). A version's verse
 that holds several KJV verses appears in each of their rows. A version's

@@ -22,12 +22,12 @@
   "kjv_verses_reached_from_no_verse": 0
  },
  "counts": {
-  "differing_verses": 12,
+  "differing_verses": 13,
   "spanning_several_kjv_verses": 6,
   "kjv_verses_shared_by_several_verses": 6,
   "verses_with_no_kjv_verse": 0,
   "aligned_chapters": 0,
-  "house_rows": 6
+  "house_rows": 7
  },
  "aligned_chapters": {},
  "house_rows": {
@@ -68,6 +68,12 @@
     "Zech.7.6"
    ],
    "why": "Young's 7:6 opens with the second half of the KJV's 7:5"
+  },
+  "Hos.13.9": {
+   "kjv": [
+    "Hos.13.8"
+   ],
+   "why": "the end of the KJV's 13:8; Young's 13:10 holds the KJV's 13:9-10 (found in review)"
   }
  },
  "empty_slots": [],
@@ -1282,6 +1288,7 @@
    "Song.2.1"
   ],
   "Song.2.1": "Song.2.2",
+  "Hos.13.9": "Hos.13.8",
   "Hos.13.10": [
    "Hos.13.9",
    "Hos.13.10"

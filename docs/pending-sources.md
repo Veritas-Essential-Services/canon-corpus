@@ -2,6 +2,7 @@
 
 <!-- prov: 2026-10-02 drafted (Claude Code); candidates found by web search, none opened -->
 <!-- prov: 2026-10-03 edited (Claude Code): Coverdale, the Bishops' and full Tyndale landed from Bible SuperSearch -->
+<!-- prov: 2026-10-03 merged (Claude Code): PR #9's Charles section, updated for build_charles.py -->
 
 ## On the shelf since 2026-10-02: Coverdale, the Bishops', Tyndale in full
 
@@ -70,3 +71,21 @@ of Coverdale and the Bishops' are still wanted.
    `OLD_SPELLING`. Read the `--audit` output, and read the multi-verse spans,
    in both texts.
 5. Add its column to `build_parallel_index.py`.
+
+## R. H. Charles, *The Apocrypha and Pseudepigrapha of the Old Testament* (1913)
+
+It is the slot the deuterocanon index left open
+(`pipeline/build_deuterocanon.py`). Charles is now fetched, OCR'd and built
+by `pipeline/build_charles.py`, one book per work (`data/books/charles-<key>.json`,
+in Charles's own numbering). What remains, to plug it in:
+
+1. (Done: pinned, rights read, converted; see `build_charles.py`.)
+2. (Done: one book per work, Charles's own numbering.)
+3. Uncomment the `charles` row in `WITNESSES`, with a `passages` function
+   that groups his verses by the KJV Apocrypha book they belong to, and add
+   `charles` to `TSV_COLUMNS`.
+4. Run `build_deuterocanon.py --audit` and read Charles's weak pairings.
+   Add `HOUSE_ROWS` for what the alignment misses.
+5. Charles prints 3 and 4 Maccabees, which the KJV's Apocrypha does not. They
+   stay without a key (`NO_KEY_BOOKS`) until a ruling picks one, probably
+   Charles's own numbering.

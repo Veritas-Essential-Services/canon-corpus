@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 199 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 203 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 67 identity-layer checks
     python3 tests/latin_shelf_uid_test.py    # wave-1 Latin shelf uids (vault; skips when unreachable)
     python3 pipeline/build_versification.py --fetch    # TVTMS + WLC, pinned
@@ -109,6 +109,10 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_parallel_index.py          # data/parallel/kjv-parallel.tsv (needs the built books)
     python3 pipeline/build_parallel_index.py --check  # the index byte-identical
     python3 tests/parallel_index_test.py      # the index vs the committed maps, offline
+    python3 pipeline/build_deuterocanon.py          # the deuterocanon's shared key (needs the built books)
+    python3 pipeline/build_deuterocanon.py --check  # map + index byte-identical
+    python3 pipeline/build_deuterocanon.py --audit  # the weakest pairings, to read
+    python3 tests/deuterocanon_test.py        # the deuterocanon map and index, offline
     python3 pipeline/adjudicate_kjv.py       # KJV census + disagreement classes
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
     python3 pipeline/place_catena.py --fetch # RP2018 books for the catenae, pinned
@@ -417,14 +421,15 @@ The living truth for project state is the Obsidian vault:
 - pipeline/build_vulgate_versification.py — the Clementine Vulgate -> KJV verse
   map → data/versification/vulgate-kjv.json (COMMITTED; same TVTMS file and
   rights block). TVTMS's tests are RUN against the Clementine to pick the
-  column each block follows; HOUSE_ROWS holds the 48 verses no column fits,
+  column each block follows; HOUSE_ROWS holds the 55 verses no column fits,
   each checked against the Latin (most found by --audit-douay). convert_vulgate
   gives every unit `kjv` (resolved target, or why not); ids stay in Vulgate
   numbering.
 - convert_douay — the Douay-Rheims (Challoner; fetch_sources.DOUAY, PD, pinned
   GitHub mirror) → data/books/douay.json (gitignored): the Vulgate's English,
-  in its numbering; each unit's `vulgate` and `kjv`. DOUAY_ROWS holds the 24
-  verses where this edition breaks verses off the Clementine's; empty padding
+  in its numbering; each unit's `vulgate` and `kjv`. DOUAY_ROWS holds the 26
+  verses where this edition breaks verses off the Clementine's (Bar 6:7: it
+  prints 6:37 in that slot); empty padding
   verses in the file are dropped, never given ids.
 - Brenton's English Septuagint (1851, PD; fetch_sources.BRENTON: eBible.org's
   USFM zip, pinned in a GitHub mirror) → convert_brenton → data/books/brenton.json
@@ -468,7 +473,26 @@ The living truth for project state is the Obsidian vault:
   whole NT; its shards are gitignored, so pipeline/rebuild_bible.py runs
   first), and each shelf version, in that version's own
   numbering. Read off the committed maps and the built books' `kjv`; no new
-  judgement. A version's verse with no KJV verse is in no row.
+  judgement. A version's verse with no KJV verse is in no row. Its rights
+  note is data/parallel/README.md: the hebrew, vulgate, douay and brenton
+  columns are TVTMS-derived (CC BY 4.0), and so is every Vulgate, Douay and
+  Brenton unit's `kjv` (the manifest's `rights.kjv_field` says so). A built
+  Bible records its map's sha256 (`scheme.kjv_map_sha256`); structure_texts.py
+  rebuilds it when the map changes, so `kjv` never goes stale.
+- The deuterocanon's shared key: the KJV's own Apocrypha (fetch_sources.KJVA,
+  eBible's Cambridge Paragraph Bible USFM, pinned in a GitHub mirror, rights
+  line "Public Domain") → convert_kjva → data/books/kjva.json (gitignored),
+  `kjva:Book.c.v`, 5,722 verses; the Rest of Esther renumbered into the KJV's
+  10:4-16:24 from eBible's Greek order. pipeline/build_deuterocanon.py aligns
+  Brenton and the Douay to it by their English (the Vulgate keyed through the
+  Douay, which keeps its numbers) → data/versification/deuterocanon.json +
+  data/parallel/deuterocanon-parallel.tsv (COMMITTED; PD, the house's
+  reading). HOUSE_ROWS for what the alignment misses (found by --audit
+  and by scanning for keys far from their neighbours'). Each unit of those
+  books carries `kjva` (versification.resolve_dc). Jerome's Tobit and Judith
+  are another recension: keyed only where the words agree. R. H. Charles's
+  1913 Apocrypha has a reserved slot (WITNESSES, TSV_COLUMNS): see
+  docs/pending-sources.md.
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
   reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).

@@ -1648,7 +1648,8 @@ def fetch_vulgate():
             os.replace(p + ".tmp", p)
     got = vulgate_digest(d)
     if got != VULGATE["pin"]:
-        raise RuntimeError(f"Clementine digest {got} != pinned {VULGATE['pin']}")
+        raise RuntimeError(f"Clementine digest {got} != pinned {VULGATE['pin']}: delete "
+                           f"{d} and re-fetch (only the 73 files together are pinned)")
     return f"{len(VULGATE['books'])} books, digest pinned"
 
 
@@ -1681,12 +1682,14 @@ def fetch_douay():
         req = urllib.request.Request(url, headers={"User-Agent": "canon-corpus"})
         with urllib.request.urlopen(req, timeout=120) as r:
             blob = r.read()
+        if hashlib.sha256(blob).hexdigest() != DOUAY["sha256"]:   # never keep a bad download
+            raise RuntimeError(f"{url}: downloaded file differs from the pinned sha256")
         with open(p + ".tmp", "wb") as f:
             f.write(blob)
         os.replace(p + ".tmp", p)
     with open(p, "rb") as f:
         got = hashlib.sha256(f.read()).hexdigest()
-    if got != DOUAY["sha256"]:
+    if got != DOUAY["sha256"]:     # a file already here: delete it and re-fetch
         raise RuntimeError(f"Douay-Rheims sha256 {got} != pinned {DOUAY['sha256']}")
     return "1 file, sha256 pinned"
 
@@ -1843,15 +1846,18 @@ def fetch_english(slug):
     p = os.path.join(CORPUS, "english", e["file"])
     if not os.path.exists(p):
         os.makedirs(os.path.dirname(p), exist_ok=True)
-        req = urllib.request.Request(english_url(slug), headers={"User-Agent": "canon-corpus"})
+        url = english_url(slug)
+        req = urllib.request.Request(url, headers={"User-Agent": "canon-corpus"})
         with urllib.request.urlopen(req, timeout=120) as r:
             blob = r.read()
+        if hashlib.sha256(blob).hexdigest() != e["sha256"]:   # never keep a bad download
+            raise RuntimeError(f"{url}: downloaded file differs from the pinned sha256")
         with open(p + ".tmp", "wb") as f:
             f.write(blob)
         os.replace(p + ".tmp", p)
     with open(p, "rb") as f:
         got = hashlib.sha256(f.read()).hexdigest()
-    if got != e["sha256"]:
+    if got != e["sha256"]:     # a file already here: delete it and re-fetch
         raise RuntimeError(f"{slug} sha256 {got} != pinned {e['sha256']}")
     return "1 file, sha256 pinned"
 
@@ -1885,13 +1891,56 @@ def fetch_brenton():
         req = urllib.request.Request(url, headers={"User-Agent": "canon-corpus"})
         with urllib.request.urlopen(req, timeout=120) as r:
             blob = r.read()
+        if hashlib.sha256(blob).hexdigest() != BRENTON["sha256"]:   # never keep a bad download
+            raise RuntimeError(f"{url}: downloaded file differs from the pinned sha256")
         with open(p + ".tmp", "wb") as f:
             f.write(blob)
         os.replace(p + ".tmp", p)
     with open(p, "rb") as f:
         got = hashlib.sha256(f.read()).hexdigest()
-    if got != BRENTON["sha256"]:
+    if got != BRENTON["sha256"]:     # a file already here: delete it and re-fetch
         raise RuntimeError(f"Brenton sha256 {got} != pinned {BRENTON['sha256']}")
+    return "1 archive, sha256 pinned"
+
+# KJVA -- the King James Version's Apocrypha, from eBible.org's KJV Cambridge
+# Paragraph Bible (engkjvcpb: Scrivener's 1873 text, with the Apocrypha).
+# eBible's rights line, in the archive's own copr.htm: "Public Domain" (with
+# its note that letters patent restrict printing in the United Kingdom only).
+# Read for its fourteen Apocrypha books alone: their verse numbers are the
+# shared key that the deuterocanon map aligns the Vulgate, the Douay and
+# Brenton under (build_deuterocanon.py). Same unaltered-mirror route as
+# Brenton: basil/bible commits eBible's zip (sources/README.md).
+KJVA = {
+    "repo": "basil/bible",
+    "commit": "af36d5cc04a6cbf9101488e1790142bfae928cce",
+    "path": "sources/engkjvcpb_usfm.zip",
+    "sha256": "7940a2d164513b2bd2dbec2c8570b89ef8673621ed4f30f3099218a7ddd04936",
+    "note": "KJV Cambridge Paragraph Bible, eBible.org USFM: read for the Apocrypha only; PD",
+    "rights_line": "Public Domain",
+}
+
+
+def fetch_kjva():
+    """data/corpus/kjva/engkjvcpb_usfm.zip (skips a present file); hard stop
+    on a sha256 other than the pin."""
+    import hashlib
+    p = os.path.join(CORPUS, "kjva", "engkjvcpb_usfm.zip")
+    if not os.path.exists(p):
+        os.makedirs(os.path.dirname(p), exist_ok=True)
+        url = (f"https://raw.githubusercontent.com/{KJVA['repo']}/"
+               f"{KJVA['commit']}/{KJVA['path']}")
+        req = urllib.request.Request(url, headers={"User-Agent": "canon-corpus"})
+        with urllib.request.urlopen(req, timeout=120) as r:
+            blob = r.read()
+        if hashlib.sha256(blob).hexdigest() != KJVA["sha256"]:   # never keep a bad download
+            raise RuntimeError(f"{url}: downloaded file differs from the pinned sha256")
+        with open(p + ".tmp", "wb") as f:
+            f.write(blob)
+        os.replace(p + ".tmp", p)
+    with open(p, "rb") as f:
+        got = hashlib.sha256(f.read()).hexdigest()
+    if got != KJVA["sha256"]:     # a file already here: delete it and re-fetch
+        raise RuntimeError(f"KJVA sha256 {got} != pinned {KJVA['sha256']}")
     return "1 archive, sha256 pinned"
 
 # LIGHTFOOT -- J. B. Lightfoot & J. R. Harmer, The Apostolic Fathers (London:
@@ -2244,6 +2293,7 @@ def main():
         print(f"github/vulgate: {VULGATE['repo']}@{VULGATE['commit'][:7]} -- {VULGATE['note']}")
         print(f"github/douay: {DOUAY['repo']}@{DOUAY['commit'][:7]} -- {DOUAY['note']}")
         print(f"github/brenton: {BRENTON['repo']}@{BRENTON['commit'][:7]} -- {BRENTON['note']}")
+        print(f"github/kjva: {KJVA['repo']}@{KJVA['commit'][:7]} -- {KJVA['note']}")
         print(f"ccel/lightfoot: {LIGHTFOOT['url']} -- {LIGHTFOOT['note']}")
         for slug, e in ENGLISH.items():
             if e.get("source") == "bss":
@@ -2307,6 +2357,7 @@ def main():
         failures.append("douay"); print(f"github/douay: FAIL {e}")
     try:
         print(f"github/brenton: {fetch_brenton()}")
+        print(f"github/kjva: {fetch_kjva()}")
     except Exception as e:
         failures.append("brenton"); print(f"github/brenton: FAIL {e}")
     try:

@@ -35,10 +35,10 @@
  "counts": {
   "differing_vulgate_verses": 3087,
   "to_psalm_titles": 120,
-  "spanning_several_kjv_verses": 99,
-  "kjv_verses_shared_by_several_vulgate_verses": 37,
+  "spanning_several_kjv_verses": 105,
+  "kjv_verses_shared_by_several_vulgate_verses": 43,
   "vulgate_verses_with_no_kjv_verse": 4657,
-  "house_rows": 48
+  "house_rows": 55
  },
  "blocks_not_plain_latin": {
   "$2Ch.37:1-38": {
@@ -538,6 +538,7 @@
   },
   "Rev.20.9": {
    "kjv": [
+    "Rev.20.9",
     "Rev.20.10"
    ],
    "why": "found by --audit-douay (the Douay-Rheims English, which keeps the Clementine's verse breaks, aligned against the KJV's) and read in the Latin: Jerome re-divides the passage, so the KJV verse of the TVTMS number holds none of it"
@@ -553,6 +554,54 @@
     "Matt.5.4"
    ],
    "why": "the Vulgate orders the beatitudes meek, then mourn; the KJV mourn, then meek. Same numbers, swapped text: TVTMS maps numbers, so it has no row"
+  },
+  "Ps.97.1": {
+   "kjv": [
+    "Ps.98.title",
+    "Ps.98.1"
+   ],
+   "why": "the Clementine prints the title in verse 1, and the KJV's Ps 98 has a title ('A Psalm'); TVTMS's Latin cell for that title reads [=Psa.98:1], which in the Latin's numbering is KJV Ps 99, a psalm with no title"
+  },
+  "Ps.98.1": {
+   "kjv": [
+    "Ps.99.1"
+   ],
+   "why": "the KJV's Ps 99 has no title; the title TVTMS puts here is the KJV Ps 98's (see Ps.97.1)"
+  },
+  "Ps.3.7": {
+   "kjv": [
+    "Ps.3.6",
+    "Ps.3.7"
+   ],
+   "why": "found in review, reading the Douay against the KJV: the Clementine breaks a psalm verse mid-line, so this verse also holds a clause the KJV numbers with a neighbouring verse (the quoted Latin). Not every such half-verse is listed: the map names the verse holding most of the text, and these are the ones review read"
+  },
+  "Ps.5.6": {
+   "kjv": [
+    "Ps.5.4",
+    "Ps.5.5"
+   ],
+   "why": "found in review, reading the Douay against the KJV: the Clementine breaks a psalm verse mid-line, so this verse also holds a clause the KJV numbers with a neighbouring verse (the quoted Latin). Not every such half-verse is listed: the map names the verse holding most of the text, and these are the ones review read"
+  },
+  "Ps.63.6": {
+   "kjv": [
+    "Ps.64.4",
+    "Ps.64.5"
+   ],
+   "why": "found in review, reading the Douay against the KJV: the Clementine breaks a psalm verse mid-line, so this verse also holds a clause the KJV numbers with a neighbouring verse (the quoted Latin). Not every such half-verse is listed: the map names the verse holding most of the text, and these are the ones review read"
+  },
+  "Ps.138.3": {
+   "kjv": [
+    "Ps.139.2",
+    "Ps.139.3"
+   ],
+   "why": "found in review, reading the Douay against the KJV: the Clementine breaks a psalm verse mid-line, so this verse also holds a clause the KJV numbers with a neighbouring verse (the quoted Latin). Not every such half-verse is listed: the map names the verse holding most of the text, and these are the ones review read"
+  },
+  "Ps.145.2": {
+   "kjv": [
+    "Ps.146.2",
+    "Ps.146.3"
+   ],
+   "why": "found in review, reading the Douay against the KJV: the Clementine breaks a psalm verse mid-line, so this verse also holds a clause the KJV numbers with a neighbouring verse (the quoted Latin). Not every such half-verse is listed: the map names the verse holding most of the text, and these are the ones review read"
   },
   "Ps.15.10": {
    "kjv": [
@@ -2394,7 +2443,10 @@
   "Ps.3.4": "Ps.3.3",
   "Ps.3.5": "Ps.3.4",
   "Ps.3.6": "Ps.3.5",
-  "Ps.3.7": "Ps.3.6",
+  "Ps.3.7": [
+   "Ps.3.6",
+   "Ps.3.7"
+  ],
   "Ps.3.8": "Ps.3.7",
   "Ps.3.9": "Ps.3.8",
   "Ps.4.1": "Ps.4.title",
@@ -2412,7 +2464,10 @@
   "Ps.5.3": "Ps.5.2",
   "Ps.5.4": "Ps.5.3",
   "Ps.5.5": "Ps.5.4",
-  "Ps.5.6": "Ps.5.5",
+  "Ps.5.6": [
+   "Ps.5.4",
+   "Ps.5.5"
+  ],
   "Ps.5.7": "Ps.5.6",
   "Ps.5.8": "Ps.5.7",
   "Ps.5.9": "Ps.5.8",
@@ -3390,7 +3445,10 @@
   "Ps.63.3": "Ps.64.2",
   "Ps.63.4": "Ps.64.3",
   "Ps.63.5": "Ps.64.4",
-  "Ps.63.6": "Ps.64.5",
+  "Ps.63.6": [
+   "Ps.64.4",
+   "Ps.64.5"
+  ],
   "Ps.63.7": "Ps.64.6",
   "Ps.63.8": "Ps.64.7",
   "Ps.63.9": "Ps.64.8",
@@ -4072,7 +4130,10 @@
   "Ps.96.10": "Ps.97.10",
   "Ps.96.11": "Ps.97.11",
   "Ps.96.12": "Ps.97.12",
-  "Ps.97.1": "Ps.98.1",
+  "Ps.97.1": [
+   "Ps.98.title",
+   "Ps.98.1"
+  ],
   "Ps.97.2": "Ps.98.2",
   "Ps.97.3": "Ps.98.3",
   "Ps.97.4": "Ps.98.4",
@@ -4081,10 +4142,7 @@
   "Ps.97.7": "Ps.98.7",
   "Ps.97.8": "Ps.98.8",
   "Ps.97.9": "Ps.98.9",
-  "Ps.98.1": [
-   "Ps.98.title",
-   "Ps.99.1"
-  ],
+  "Ps.98.1": "Ps.99.1",
   "Ps.98.2": "Ps.99.2",
   "Ps.98.3": "Ps.99.3",
   "Ps.98.4": "Ps.99.4",
@@ -4897,7 +4955,10 @@
    "Ps.139.1"
   ],
   "Ps.138.2": "Ps.139.2",
-  "Ps.138.3": "Ps.139.3",
+  "Ps.138.3": [
+   "Ps.139.2",
+   "Ps.139.3"
+  ],
   "Ps.138.4": "Ps.139.4",
   "Ps.138.5": "Ps.139.5",
   "Ps.138.6": "Ps.139.6",
@@ -5012,7 +5073,10 @@
   "Ps.144.20": "Ps.145.20",
   "Ps.144.21": "Ps.145.21",
   "Ps.145.1": "Ps.146.1",
-  "Ps.145.2": "Ps.146.2",
+  "Ps.145.2": [
+   "Ps.146.2",
+   "Ps.146.3"
+  ],
   "Ps.145.3": "Ps.146.3",
   "Ps.145.4": "Ps.146.4",
   "Ps.145.5": "Ps.146.5",
@@ -5417,6 +5481,9 @@
    "Rev.20.8"
   ],
   "Rev.20.8": "Rev.20.9",
-  "Rev.20.9": "Rev.20.10"
+  "Rev.20.9": [
+   "Rev.20.9",
+   "Rev.20.10"
+  ]
  }
 }

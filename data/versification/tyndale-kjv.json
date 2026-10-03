@@ -31,7 +31,7 @@
   "kjv_verses_shared_by_several_verses": 3,
   "verses_with_no_kjv_verse": 0,
   "aligned_chapters": 0,
-  "house_rows": 1
+  "house_rows": 3
  },
  "aligned_chapters": {},
  "house_rows": {
@@ -41,6 +41,19 @@
     "Rom.2.12"
    ],
    "why": "Tyndale's 2:11 runs on into the first half of the KJV's 2:12; read in both texts"
+  },
+  "Rom.14.7": {
+   "kjv": [
+    "Rom.14.6"
+   ],
+   "why": "the end of the KJV's 14:6, which Tyndale numbers as 14:7 (found in review)"
+  },
+  "Rom.14.8": {
+   "kjv": [
+    "Rom.14.7",
+    "Rom.14.8"
+   ],
+   "why": "Tyndale's 14:8 holds the KJV's 14:7 and 14:8 (found in review)"
   }
  },
  "empty_slots": [],

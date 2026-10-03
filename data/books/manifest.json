@@ -1674,7 +1674,7 @@
  },
  "vulgate": {
   "title": "Biblia Sacra Vulgatae Editionis (Clementine Vulgate, 1592)",
-  "author": "—",
+  "author": "Jerome and the Old Latin (translators); the Clementine revision (1592)",
   "format": "clementine-lat",
   "sha256": "8002776ae05d72fcec447dac1b890728423096ffd22970771cbb419b0536b990",
   "units": 35809,
@@ -1685,13 +1685,24 @@
    "versification": "vulgate",
    "kjv_resolved": 31085,
    "kjv_unresolved": 4724,
-   "note": "Ids follow the Clementine numbering, NOT the KJV's: the Psalms are numbered as in the Greek (Vulgate Ps 50 = KJV Ps 51) with a title counted in verse 1, Daniel 3 holds 3:24-90 and Esther 10:4-16:24 the Greek additions. Each unit's `kjv` names the KJV verse(s) holding the same text, by the map data/versification/vulgate-kjv.json (STEPBible TVTMS, CC BY 4.0, tested against this text), or says why there is none; no uids minted. `text` is the verse with the project's markup turned into line and paragraph breaks; `marked` is the file's line as is. The Clementine appendix (Prayer of Manasses, 3-4 Esdras) is not in the source."
+   "kjva_keyed": 4341,
+   "kjva_unkeyed": 316,
+   "kjva_note": "deuterocanonical verses carry `kjva`: the shared key, the KJV Apocrypha verse holding the same text, by data/versification/deuterocanon.json (the house's reading, PD), or why there is none; `weak` marks a pairing to read first",
+   "note": "Ids follow the Clementine numbering, NOT the KJV's: the Psalms are numbered as in the Greek (Vulgate Ps 50 = KJV Ps 51) with a title counted in verse 1, Daniel 3 holds 3:24-90 and Esther 10:4-16:24 the Greek additions. Each unit's `kjv` names the KJV verse(s) holding the same text, by the map data/versification/vulgate-kjv.json (STEPBible TVTMS, CC BY 4.0, tested against this text), or says why there is none; no uids minted. `text` is the verse with the project's markup turned into line and paragraph breaks; `marked` is the file's line as is. The Clementine appendix (Prayer of Manasses, 3-4 Esdras) is not in the source.",
+   "kjv_map_sha256": "9f8ff735f5716c55a5e5f1f424f264c7f95126f54a111697d9fd8f3edfe08fe1"
   },
   "rights": {
    "license": "public-domain",
    "attribution": "The Clementine Vulgate Project (vulsearch.sourceforge.net)",
    "source_url": "https://github.com/BibleGet-I-O/Clementine-Vulgate",
-   "requests": "acknowledge the source; report typographical errors to the project; make modifications clear (requests, not a licence)"
+   "requests": "acknowledge the source; report typographical errors to the project; make modifications clear (requests, not a licence)",
+   "kjv_field": {
+    "from": "data/versification/vulgate-kjv.json",
+    "license": "CC BY 4.0",
+    "attribution": "Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0)",
+    "source_url": "https://github.com/STEPBible/STEPBible-Data",
+    "redistribute_whole": false
+   }
   }
  },
  "douay": {
@@ -1708,12 +1719,24 @@
    "empty_verses_dropped": 12,
    "kjv_resolved": 31083,
    "kjv_unresolved": 4722,
-   "note": "The Clementine Vulgate's English companion, numbered as the Vulgate is. `vulgate` names the Clementine verse(s) holding the same text (the same number except at structure_texts.DOUAY_ROWS); `kjv` follows through data/versification/vulgate-kjv.json. Empty verses in the file (versification padding) are dropped, never given ids. The file's five appendix books (3-4 Esdras, Prayer of Manasses, an additional psalm, Laodiceans) are not read: the Clementine source has no text for them."
+   "kjva_keyed": 4340,
+   "kjva_unkeyed": 315,
+   "kjva_note": "deuterocanonical verses carry `kjva`: the shared key, the KJV Apocrypha verse holding the same text, by data/versification/deuterocanon.json (the house's reading, PD), or why there is none; `weak` marks a pairing to read first",
+   "note": "The Clementine Vulgate's English companion, numbered as the Vulgate is. `vulgate` names the Clementine verse(s) holding the same text (the same number except at structure_texts.DOUAY_ROWS); `kjv` follows through data/versification/vulgate-kjv.json. Empty verses in the file (versification padding) are dropped, never given ids. The file's five appendix books (3-4 Esdras, Prayer of Manasses, an additional psalm, Laodiceans) are not read: the Clementine source has no text for them.",
+   "kjv_map_sha256": "9f8ff735f5716c55a5e5f1f424f264c7f95126f54a111697d9fd8f3edfe08fe1"
   },
   "rights": {
    "license": "public-domain",
    "attribution": "Douay-Rheims Bible, Challoner revision, via scrollmapper/bible_databases",
-   "source_url": "https://github.com/scrollmapper/bible_databases"
+   "source_url": "https://github.com/scrollmapper/bible_databases",
+   "rights_line": "DRC: Douay-Rheims Bible, Challoner Revision. License: Public Domain",
+   "kjv_field": {
+    "from": "data/versification/vulgate-kjv.json",
+    "license": "CC BY 4.0",
+    "attribution": "Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0)",
+    "source_url": "https://github.com/STEPBible/STEPBible-Data",
+    "redistribute_whole": false
+   }
   }
  },
  "brenton": {
@@ -1729,16 +1752,27 @@
    "versification": "lxx-brenton",
    "kjv_resolved": 22901,
    "kjv_unresolved": 5716,
+   "kjva_keyed": 4802,
+   "kjva_unkeyed": 721,
+   "kjva_note": "deuterocanonical verses carry `kjva`: the shared key, the KJV Apocrypha verse holding the same text, by data/versification/deuterocanon.json (the house's reading, PD), or why there is none; `weak` marks a pairing to read first",
    "empty_verses_not_units": [
     "Prov.30.1"
    ],
-   "note": "Ids follow Brenton's numbering, NOT the KJV's: the Psalms as in the Greek with a title as verse 1, Jeremiah's oracles in the Greek's order, Nehemiah as chapters 11-23 of Ezra (the Greek's 2 Esdras), the Greek's additions lettered after the verse they follow. Each unit's `kjv` names the KJV verse(s) holding the same text by data/versification/brenton-kjv.json, or says why there is none; no uids minted. `text` drops Brenton's notes, which are in `notes`; `marked` is the verse's USFM as is. eBible's corrections to the printing are in the text; its KJV-renumbered Nehemiah and Brenton's appendix are not read."
+   "note": "Ids follow Brenton's numbering, NOT the KJV's: the Psalms as in the Greek with a title as verse 1, Jeremiah's oracles in the Greek's order, Nehemiah as chapters 11-23 of Ezra (the Greek's 2 Esdras), the Greek's additions lettered after the verse they follow. Each unit's `kjv` names the KJV verse(s) holding the same text by data/versification/brenton-kjv.json, or says why there is none; no uids minted. `text` drops Brenton's notes, which are in `notes`; `marked` is the verse's USFM as is. eBible's corrections to the printing are in the text; its KJV-renumbered Nehemiah and Brenton's appendix are not read.",
+   "kjv_map_sha256": "fec35d66d7e7d214ced04d22e74cc147c382e832c0f2bc30dd8a9848e9a7c71f"
   },
   "rights": {
    "license": "public-domain",
    "attribution": "Brenton's English Septuagint, transcribed and corrected by eBible.org (eng-Brenton)",
    "source_url": "https://ebible.org/eng-Brenton/",
-   "requests": "eBible asks that errors in the text be reported to it"
+   "requests": "eBible asks that errors in the text be reported to it",
+   "kjv_field": {
+    "from": "data/versification/brenton-kjv.json",
+    "license": "CC BY 4.0",
+    "attribution": "Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0)",
+    "source_url": "https://github.com/STEPBible/STEPBible-Data",
+    "redistribute_whole": false
+   }
   }
  },
  "1clement-lake": {
@@ -4408,7 +4442,14 @@
    "kjv_resolved": 31064,
    "kjv_unresolved": 0,
    "empty_slots_not_units": 40,
-   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/geneva-kjv.json; no uids minted."
+   "rules": [
+    {
+     "why": "a space restored in Ps 75:1's title ('committed toAsaph')",
+     "applied": 1
+    }
+   ],
+   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/geneva-kjv.json; no uids minted.",
+   "kjv_map_sha256": "eb95d84747e27eff0d50fd3f402cdb74c545c7c440696539c1b0d68b54d9dfe7"
   },
   "rights": {
    "license": "public-domain",
@@ -4432,8 +4473,15 @@
    "kjv_unresolved": 0,
    "empty_slots_not_units": 0,
    "coverage": "what Tyndale translated and printed: Genesis-Deuteronomy, Jonah and the whole New Testament (33 books)",
-   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/tyndale-kjv.json; no uids minted.",
-   "numbering": "Tyndale printed no verse numbers: the numbers are the transcription's, on the KJV's grid"
+   "rules": [
+    {
+     "why": "a space restored between two words the source runs together (Gen 18:23, 19:9, 27:39, 32:17); 'BenIamin' and 'xM' (Rev 9:16) are left as printed",
+     "applied": 4
+    }
+   ],
+   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the map's `aligned_chapters` lists any; often none) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/tyndale-kjv.json; no uids minted.",
+   "numbering": "Tyndale printed no verse numbers: the numbers are the transcription's, on the KJV's grid",
+   "kjv_map_sha256": "3d2ac241f73cd817165309e0f494a98e68a4d6e2d52f68812141fef7f0f90ae5"
   },
   "rights": {
    "license": "public-domain",
@@ -4457,7 +4505,8 @@
    "kjv_resolved": 31102,
    "kjv_unresolved": 0,
    "empty_slots_not_units": 0,
-   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/ylt-kjv.json; no uids minted."
+   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the map's `aligned_chapters` lists any; often none) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/ylt-kjv.json; no uids minted.",
+   "kjv_map_sha256": "a5d6645334072908b313deced12e75825b84ee49184bfab7d2a27870554710c1"
   },
   "rights": {
    "license": "public-domain",
@@ -4483,10 +4532,11 @@
    "rules": [
     {
      "why": "a space restored before 'God', lost when the source's markup was stripped",
-     "applied": 3681
+     "applied": 3936
     }
    ],
-   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/darby-kjv.json; no uids minted."
+   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the map's `aligned_chapters` lists any; often none) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/darby-kjv.json; no uids minted.",
+   "kjv_map_sha256": "d7635243cb56e4ef7e8d91ff7788d20ab2fda3092d12793b3a2fd1ad46acede6"
   },
   "rights": {
    "license": "public-domain",
@@ -4509,7 +4559,8 @@
    "kjv_resolved": 31086,
    "kjv_unresolved": 0,
    "empty_slots_not_units": 16,
-   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/asv-kjv.json; no uids minted."
+   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the map's `aligned_chapters` lists any; often none) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/asv-kjv.json; no uids minted.",
+   "kjv_map_sha256": "bf80651b1b2ee40b262f5e35aef764b1d65dadaa430f0e19eb1fec30f34742ed"
   },
   "rights": {
    "license": "public-domain",
@@ -6299,8 +6350,9 @@
    "kjv_unresolved": 2,
    "empty_slots_not_units": 14,
    "coverage": "the 66 books of the Protestant canon; the printed Bible's Apocrypha are not in this transcription",
-   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/coverdale-kjv.json; no uids minted.",
-   "numbering": "Coverdale (1535) printed no verse numbers: the numbers are the transcription's, on the KJV's grid"
+   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the map's `aligned_chapters` lists any; often none) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/coverdale-kjv.json; no uids minted.",
+   "numbering": "Coverdale (1535) printed no verse numbers: the numbers are the transcription's, on the KJV's grid",
+   "kjv_map_sha256": "0a63d2beb1d7fdceaa097a50404a09760cb95a2efc0472ff616128143dcee5c3"
   },
   "rights": {
    "license": "public-domain",
@@ -6331,7 +6383,8 @@
      "applied": 1
     }
    ],
-   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the Geneva follows the Hebrew in Num 13, Dan 4 and others) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/bishops-kjv.json; no uids minted."
+   "note": "Ids are the module's slots: the Bible's own numbers wherever it numbers as the KJV does; where a chapter numbers otherwise (the map's `aligned_chapters` lists any; often none) its verses fill the KJV's slots in order and the overflow sits in the last slot. Each unit's `kjv` names the KJV verse(s) holding the same words, by data/versification/bishops-kjv.json; no uids minted.",
+   "kjv_map_sha256": "f46c81e3694bfe736ccf75dd8d05846b29d3a79741b7454cf6e3244ae54279a6"
   },
   "rights": {
    "license": "public-domain",
@@ -24612,5 +24665,42 @@
    "displaced": 1748
   },
   "built_sha256": "318fcb2c6ed6ff3a8dfc56992860bc6231aea13edd06c26ec54bc4d6487c72dd"
+ },
+ "kjva": {
+  "title": "The Apocrypha of the King James Version (Cambridge Paragraph Bible)",
+  "author": "the King James translators (1611); F. H. A. Scrivener (ed., 1873)",
+  "format": "usfm-zip",
+  "sha256": "7940a2d164513b2bd2dbec2c8570b89ef8673621ed4f30f3099218a7ddd04936",
+  "units": 5722,
+  "scheme": {
+   "citation": "Book chapter:verse in the KJV's own numbering (OSIS book ids); Sirach's two prologues are chapter 0",
+   "resolution": "verse",
+   "honesty": "exact",
+   "versification": "kjv-apocrypha",
+   "books": [
+    "Tob",
+    "Jdt",
+    "AddEsth",
+    "Wis",
+    "Sir",
+    "Bar",
+    "PrAzar",
+    "Sus",
+    "Bel",
+    "1Macc",
+    "2Macc",
+    "1Esd",
+    "PrMan",
+    "2Esd"
+   ],
+   "note": "The KJV's Apocrypha only (the Old and New Testaments of this file are not read: the shelf's KJV is the Gutenberg text). These verse numbers are the shared key of data/versification/deuterocanon.json. The Rest of Esther is renumbered 10:4-16:24 from the file's Greek-order segments (structure_texts.KJVA_ESTHER); every other number is the file's."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "KJV Cambridge Paragraph Bible, eBible.org (engkjvcpb)",
+   "source_url": "https://ebible.org/engkjvcpb/",
+   "rights_line": "Public Domain",
+   "note": "eBible: letters patent restrict printing the KJV in the United Kingdom; elsewhere it is in the public domain"
+  }
  }
 }

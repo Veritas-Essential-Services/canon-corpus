@@ -1031,7 +1031,7 @@ Gen.35.17	wh-4DP6PKX0D8	Gen.35.17		Gen.35.17	Gen.35.17	Gen.35.17	Gen.35.17	Gen.3
 Gen.35.18	wh-DZNWPK2Z8Z	Gen.35.18		Gen.35.18	Gen.35.18	Gen.35.18	Gen.35.18	Gen.35.18	Gen.35.18	Gen.35.18	Gen.35.18	Gen.35.18	Gen.35.18
 Gen.35.19	wh-7Y5GBAQZ2P	Gen.35.19		Gen.35.19	Gen.35.19	Gen.35.19	Gen.35.19	Gen.35.19	Gen.35.19	Gen.35.19	Gen.35.19	Gen.35.19	Gen.35.19
 Gen.35.20	wh-A3P340NR83	Gen.35.20		Gen.35.20	Gen.35.20	Gen.35.20	Gen.35.20	Gen.35.20	Gen.35.20	Gen.35.20	Gen.35.20	Gen.35.20	Gen.35.20
-Gen.35.21	wh-RTE7RJQ7V6	Gen.35.21		Gen.35.21	Gen.35.21		Gen.35.21	Gen.35.21	Gen.35.21	Gen.35.21	Gen.35.21	Gen.35.21	Gen.35.21
+Gen.35.21	wh-RTE7RJQ7V6	Gen.35.21		Gen.35.21	Gen.35.21	Gen.35.16	Gen.35.21	Gen.35.21	Gen.35.21	Gen.35.21	Gen.35.21	Gen.35.21	Gen.35.21
 Gen.35.22	wh-7SDEXJQYVA	Gen.35.22		Gen.35.22	Gen.35.22	Gen.35.22	Gen.35.22	Gen.35.22	Gen.35.22	Gen.35.22	Gen.35.22	Gen.35.22	Gen.35.22
 Gen.35.23	wh-YJM9AVPZCD	Gen.35.23		Gen.35.23	Gen.35.23	Gen.35.23	Gen.35.23	Gen.35.23	Gen.35.23	Gen.35.23	Gen.35.23	Gen.35.23	Gen.35.23
 Gen.35.24	wh-ECYH6HSD4B	Gen.35.24		Gen.35.24	Gen.35.24	Gen.35.24	Gen.35.24	Gen.35.24	Gen.35.24	Gen.35.24	Gen.35.24	Gen.35.24	Gen.35.24
@@ -5523,8 +5523,8 @@ Deut.23.20	wh-EF25MK9W58	Deut.23.21		Deut.23.20	Deut.23.20	Deut.23.21	Deut.23.20
 Deut.23.21	wh-EY3S9ANJ87	Deut.23.22		Deut.23.21	Deut.23.21	Deut.23.22	Deut.23.21	Deut.23.21	Deut.23.21	Deut.23.21	Deut.23.21	Deut.23.21	Deut.23.21
 Deut.23.22	wh-2G9NCBTC33	Deut.23.23		Deut.23.22	Deut.23.22	Deut.23.23	Deut.23.22	Deut.23.22	Deut.23.22	Deut.23.22	Deut.23.22	Deut.23.22	Deut.23.22
 Deut.23.23	wh-5WJMWNM4K9	Deut.23.24		Deut.23.23	Deut.23.23	Deut.23.24	Deut.23.23	Deut.23.23	Deut.23.23	Deut.23.23	Deut.23.23	Deut.23.23	Deut.23.23
-Deut.23.24	wh-K2ETQVZNAQ	Deut.23.25		Deut.23.24	Deut.23.24	Deut.23.25	Deut.23.24	Deut.23.24	Deut.23.24	Deut.23.24	Deut.23.24	Deut.23.24	Deut.23.24
-Deut.23.25	wh-XM1AC6P175	Deut.23.26		Deut.23.25	Deut.23.25	Deut.23.26	Deut.23.25	Deut.23.25	Deut.23.25	Deut.23.25	Deut.23.25	Deut.23.25	Deut.23.25
+Deut.23.24	wh-K2ETQVZNAQ	Deut.23.25		Deut.23.24	Deut.23.24	Deut.23.26	Deut.23.24	Deut.23.24	Deut.23.24	Deut.23.24	Deut.23.24	Deut.23.24	Deut.23.24
+Deut.23.25	wh-XM1AC6P175	Deut.23.26		Deut.23.25	Deut.23.25	Deut.23.25	Deut.23.25	Deut.23.25	Deut.23.25	Deut.23.25	Deut.23.25	Deut.23.25	Deut.23.25
 Deut.24.1	wh-QG0AH1YVN3	Deut.24.1		Deut.24.1	Deut.24.1	Deut.24.1	Deut.24.1	Deut.24.1	Deut.24.1	Deut.24.1	Deut.24.1	Deut.24.1	Deut.24.1
 Deut.24.2	wh-N6A81ACJM1	Deut.24.2		Deut.24.2	Deut.24.2	Deut.24.2	Deut.24.2	Deut.24.2	Deut.24.2	Deut.24.2	Deut.24.2	Deut.24.2	Deut.24.2
 Deut.24.3	wh-J2QHRNZDRK	Deut.24.3		Deut.24.3	Deut.24.3	Deut.24.3	Deut.24.3	Deut.24.3	Deut.24.3	Deut.24.3	Deut.24.3	Deut.24.3	Deut.24.3
@@ -6367,8 +6367,8 @@ Josh.19.43	wh-2GJNABWCJP	Josh.19.43		Josh.19.43	Josh.19.43	Josh.19.43	Josh.19.43
 Josh.19.44	wh-0HC8FAMNN7	Josh.19.44		Josh.19.44	Josh.19.44	Josh.19.44	Josh.19.44		Josh.19.44	Josh.19.44	Josh.19.44	Josh.19.44	Josh.19.44
 Josh.19.45	wh-FXQY8ZEZJV	Josh.19.45		Josh.19.45	Josh.19.45	Josh.19.45	Josh.19.45		Josh.19.45	Josh.19.45	Josh.19.45	Josh.19.45	Josh.19.45
 Josh.19.46	wh-468HEVFS03	Josh.19.46		Josh.19.46	Josh.19.46	Josh.19.46	Josh.19.46		Josh.19.46	Josh.19.46	Josh.19.46	Josh.19.46	Josh.19.46
-Josh.19.47	wh-54RT9ZVJ3A	Josh.19.47		Josh.19.47	Josh.19.47	Josh.19.47	Josh.19.47		Josh.19.47	Josh.19.47	Josh.19.47	Josh.19.47	Josh.19.47
-Josh.19.48	wh-6NYYM2BT1H	Josh.19.48		Josh.19.48	Josh.19.48	Josh.19.48	Josh.19.48		Josh.19.48	Josh.19.48	Josh.19.48	Josh.19.48	Josh.19.48
+Josh.19.47	wh-54RT9ZVJ3A	Josh.19.47		Josh.19.47	Josh.19.47	Josh.19.48	Josh.19.47		Josh.19.47	Josh.19.47	Josh.19.47	Josh.19.47	Josh.19.47
+Josh.19.48	wh-6NYYM2BT1H	Josh.19.48		Josh.19.48	Josh.19.48	Josh.19.47	Josh.19.48		Josh.19.48	Josh.19.48	Josh.19.48	Josh.19.48	Josh.19.48
 Josh.19.49	wh-REC6NDD14J	Josh.19.49		Josh.19.49	Josh.19.49	Josh.19.49	Josh.19.49		Josh.19.49	Josh.19.49	Josh.19.49	Josh.19.49	Josh.19.49
 Josh.19.50	wh-C05ZK5WQJB	Josh.19.50		Josh.19.50	Josh.19.50	Josh.19.50	Josh.19.50		Josh.19.50	Josh.19.50	Josh.19.50	Josh.19.50	Josh.19.50
 Josh.19.51	wh-XE0KKDH3ZN	Josh.19.51		Josh.19.51	Josh.19.51	Josh.19.51	Josh.19.51		Josh.19.51	Josh.19.51	Josh.19.51	Josh.19.51	Josh.19.51
@@ -8682,9 +8682,9 @@ Ruth.4.22	wh-VBRZ6MGB3S	Ruth.4.22		Ruth.4.22	Ruth.4.22	Ruth.4.22	Ruth.4.22		Ruth
 2Sam.23.27	wh-F6TGAMC997	2Sam.23.27		2Sam.23.27	2Sam.23.27	2Sam.23.27	2Sam.23.27		2Sam.23.27	2Sam.23.27	2Sam.23.27	2Sam.23.27	2Sam.23.27
 2Sam.23.28	wh-KTHH5VKP8A	2Sam.23.28		2Sam.23.28	2Sam.23.28	2Sam.23.28	2Sam.23.28		2Sam.23.28	2Sam.23.28	2Sam.23.28	2Sam.23.28	2Sam.23.28
 2Sam.23.29	wh-EF2Z2NEJN1	2Sam.23.29		2Sam.23.29	2Sam.23.29	2Sam.23.29	2Sam.23.29		2Sam.23.29	2Sam.23.29	2Sam.23.29	2Sam.23.29	2Sam.23.29
-2Sam.23.30	wh-3VHZGMZ89S	2Sam.23.30		2Sam.23.30	2Sam.23.30		2Sam.23.30		2Sam.23.30	2Sam.23.30	2Sam.23.30	2Sam.23.30	2Sam.23.30
-2Sam.23.31	wh-3YG0YXS2R7	2Sam.23.31		2Sam.23.31	2Sam.23.31		2Sam.23.31		2Sam.23.31	2Sam.23.31	2Sam.23.31	2Sam.23.31	2Sam.23.31
-2Sam.23.32	wh-87RKAYXA56	2Sam.23.32		2Sam.23.32	2Sam.23.32	2Sam.23.32	2Sam.23.32		2Sam.23.32	2Sam.23.32	2Sam.23.32	2Sam.23.32	2Sam.23.32
+2Sam.23.30	wh-3VHZGMZ89S	2Sam.23.30		2Sam.23.30	2Sam.23.30	2Sam.23.29	2Sam.23.30		2Sam.23.30	2Sam.23.30	2Sam.23.30	2Sam.23.30	2Sam.23.30
+2Sam.23.31	wh-3YG0YXS2R7	2Sam.23.31		2Sam.23.31	2Sam.23.31	2Sam.23.29	2Sam.23.31		2Sam.23.31	2Sam.23.31	2Sam.23.31	2Sam.23.31	2Sam.23.31
+2Sam.23.32	wh-87RKAYXA56	2Sam.23.32		2Sam.23.32	2Sam.23.32	2Sam.23.29 2Sam.23.32	2Sam.23.32		2Sam.23.32	2Sam.23.32	2Sam.23.32	2Sam.23.32	2Sam.23.32
 2Sam.23.33	wh-0DJBK7W97B	2Sam.23.33		2Sam.23.33	2Sam.23.33	2Sam.23.33	2Sam.23.33		2Sam.23.33	2Sam.23.33	2Sam.23.33	2Sam.23.33	2Sam.23.33
 2Sam.23.34	wh-HRTEG83T0Q	2Sam.23.34		2Sam.23.34	2Sam.23.34	2Sam.23.34	2Sam.23.34		2Sam.23.34	2Sam.23.34	2Sam.23.34	2Sam.23.34	2Sam.23.34
 2Sam.23.35	wh-HT6PT6P4VG	2Sam.23.35		2Sam.23.35	2Sam.23.35	2Sam.23.35	2Sam.23.35		2Sam.23.35	2Sam.23.35	2Sam.23.35	2Sam.23.35	2Sam.23.35
@@ -8845,11 +8845,11 @@ Ruth.4.22	wh-VBRZ6MGB3S	Ruth.4.22		Ruth.4.22	Ruth.4.22	Ruth.4.22	Ruth.4.22		Ruth
 1Kgs.3.27	wh-H377CAF7XA	1Kgs.3.27		1Kgs.3.27	1Kgs.3.27	1Kgs.3.27	1Kgs.3.27		1Kgs.3.27	1Kgs.3.27	1Kgs.3.27	1Kgs.3.27	1Kgs.3.27
 1Kgs.3.28	wh-B6GGFH42WM	1Kgs.3.28		1Kgs.3.28	1Kgs.3.28	1Kgs.3.28	1Kgs.3.28		1Kgs.3.28	1Kgs.3.28	1Kgs.3.28	1Kgs.3.28	1Kgs.3.28
 1Kgs.4.1	wh-0JSSDJCHRD	1Kgs.4.1		1Kgs.4.1	1Kgs.4.1	1Kgs.4.1	1Kgs.4.1		1Kgs.4.1	1Kgs.4.1	1Kgs.4.1	1Kgs.4.1	1Kgs.4.1
-1Kgs.4.2	wh-B4YT8FSYMC	1Kgs.4.2		1Kgs.4.2	1Kgs.4.2	1Kgs.4.2	1Kgs.4.2		1Kgs.4.2	1Kgs.4.2	1Kgs.4.2	1Kgs.4.2	1Kgs.4.2
-1Kgs.4.3	wh-3DKTXCF534	1Kgs.4.3		1Kgs.4.3	1Kgs.4.3	1Kgs.4.3	1Kgs.4.3		1Kgs.4.3	1Kgs.4.3	1Kgs.4.3	1Kgs.4.3	1Kgs.4.3
-1Kgs.4.4	wh-07CBKC9YAP	1Kgs.4.4		1Kgs.4.4	1Kgs.4.4	1Kgs.4.4	1Kgs.4.4		1Kgs.4.4	1Kgs.4.4	1Kgs.4.4	1Kgs.4.4	1Kgs.4.4
-1Kgs.4.5	wh-FHJ73BY87G	1Kgs.4.5		1Kgs.4.5	1Kgs.4.5	1Kgs.4.5	1Kgs.4.5		1Kgs.4.5	1Kgs.4.5	1Kgs.4.5	1Kgs.4.5	1Kgs.4.5
-1Kgs.4.6	wh-0X261QWTRK	1Kgs.4.6		1Kgs.4.6	1Kgs.4.6	1Kgs.4.6	1Kgs.4.6		1Kgs.4.6	1Kgs.4.6	1Kgs.4.6	1Kgs.4.6	1Kgs.4.6
+1Kgs.4.2	wh-B4YT8FSYMC	1Kgs.4.2		1Kgs.4.2	1Kgs.4.2	1Kgs.2.46h 1Kgs.4.2	1Kgs.4.2		1Kgs.4.2	1Kgs.4.2	1Kgs.4.2	1Kgs.4.2	1Kgs.4.2
+1Kgs.4.3	wh-3DKTXCF534	1Kgs.4.3		1Kgs.4.3	1Kgs.4.3	1Kgs.2.46h 1Kgs.4.3	1Kgs.4.3		1Kgs.4.3	1Kgs.4.3	1Kgs.4.3	1Kgs.4.3	1Kgs.4.3
+1Kgs.4.4	wh-07CBKC9YAP	1Kgs.4.4		1Kgs.4.4	1Kgs.4.4	1Kgs.2.46h 1Kgs.4.4	1Kgs.4.4		1Kgs.4.4	1Kgs.4.4	1Kgs.4.4	1Kgs.4.4	1Kgs.4.4
+1Kgs.4.5	wh-FHJ73BY87G	1Kgs.4.5		1Kgs.4.5	1Kgs.4.5	1Kgs.2.46h 1Kgs.4.5	1Kgs.4.5		1Kgs.4.5	1Kgs.4.5	1Kgs.4.5	1Kgs.4.5	1Kgs.4.5
+1Kgs.4.6	wh-0X261QWTRK	1Kgs.4.6		1Kgs.4.6	1Kgs.4.6	1Kgs.2.46h 1Kgs.4.6	1Kgs.4.6		1Kgs.4.6	1Kgs.4.6	1Kgs.4.6	1Kgs.4.6	1Kgs.4.6
 1Kgs.4.7	wh-SJGQRCBCAC	1Kgs.4.7		1Kgs.4.7	1Kgs.4.7	1Kgs.4.7	1Kgs.4.7		1Kgs.4.7	1Kgs.4.7	1Kgs.4.7	1Kgs.4.7	1Kgs.4.7
 1Kgs.4.8	wh-0E6264JFK0	1Kgs.4.8		1Kgs.4.8	1Kgs.4.8	1Kgs.4.8	1Kgs.4.8		1Kgs.4.8	1Kgs.4.8	1Kgs.4.8	1Kgs.4.8	1Kgs.4.8
 1Kgs.4.9	wh-ST62FEJ5N3	1Kgs.4.9		1Kgs.4.9	1Kgs.4.9	1Kgs.4.9	1Kgs.4.9		1Kgs.4.9	1Kgs.4.9	1Kgs.4.9	1Kgs.4.9	1Kgs.4.9
@@ -8863,12 +8863,12 @@ Ruth.4.22	wh-VBRZ6MGB3S	Ruth.4.22		Ruth.4.22	Ruth.4.22	Ruth.4.22	Ruth.4.22		Ruth
 1Kgs.4.17	wh-DSXX7GH2DN	1Kgs.4.17		1Kgs.4.17	1Kgs.4.17	1Kgs.4.19	1Kgs.4.17		1Kgs.4.17	1Kgs.4.17	1Kgs.4.17	1Kgs.4.17	1Kgs.4.17
 1Kgs.4.18	wh-ND2AF1109H	1Kgs.4.18		1Kgs.4.18	1Kgs.4.18	1Kgs.4.17	1Kgs.4.18		1Kgs.4.18	1Kgs.4.18	1Kgs.4.18	1Kgs.4.18	1Kgs.4.18
 1Kgs.4.19	wh-D1X1MBB40N	1Kgs.4.19		1Kgs.4.19	1Kgs.4.19	1Kgs.4.18	1Kgs.4.19		1Kgs.4.19	1Kgs.4.19	1Kgs.4.19	1Kgs.4.19	1Kgs.4.19
-1Kgs.4.20	wh-3ZMJHA6H7A	1Kgs.4.20		1Kgs.4.20	1Kgs.4.20	1Kgs.2.46a 1Kgs.2.46b 1Kgs.2.46c 1Kgs.2.46d 1Kgs.2.46e	1Kgs.4.20		1Kgs.4.20	1Kgs.4.20	1Kgs.4.20	1Kgs.4.20	1Kgs.4.20
-1Kgs.4.21	wh-ZS09VE9TBD	1Kgs.5.1		1Kgs.4.21	1Kgs.4.21	1Kgs.2.46k	1Kgs.4.21		1Kgs.4.21	1Kgs.4.21	1Kgs.4.21	1Kgs.4.21	1Kgs.4.21
-1Kgs.4.22	wh-TT0X6AWXJZ	1Kgs.5.2		1Kgs.4.22	1Kgs.4.22	1Kgs.5.2	1Kgs.4.22		1Kgs.4.22	1Kgs.4.22	1Kgs.4.22	1Kgs.4.22	1Kgs.4.22
-1Kgs.4.23	wh-04RPK7567K	1Kgs.5.3		1Kgs.4.23	1Kgs.4.23	1Kgs.5.3	1Kgs.4.23		1Kgs.4.23	1Kgs.4.23	1Kgs.4.23	1Kgs.4.23	1Kgs.4.23
-1Kgs.4.24	wh-PDD12YMMAW	1Kgs.5.4		1Kgs.4.24	1Kgs.4.24	1Kgs.5.4	1Kgs.4.24		1Kgs.4.24	1Kgs.4.24	1Kgs.4.24	1Kgs.4.24	1Kgs.4.24
-1Kgs.4.25	wh-Y9136P5XDF	1Kgs.5.5		1Kgs.4.25	1Kgs.4.25	1Kgs.2.46g 1Kgs.2.46h	1Kgs.4.25		1Kgs.4.25	1Kgs.4.25	1Kgs.4.25	1Kgs.4.25	1Kgs.4.25
+1Kgs.4.20	wh-3ZMJHA6H7A	1Kgs.4.20		1Kgs.4.20	1Kgs.4.20	1Kgs.2.46a	1Kgs.4.20		1Kgs.4.20	1Kgs.4.20	1Kgs.4.20	1Kgs.4.20	1Kgs.4.20
+1Kgs.4.21	wh-ZS09VE9TBD	1Kgs.5.1		1Kgs.4.21	1Kgs.4.21	1Kgs.2.46b 1Kgs.2.46k	1Kgs.4.21		1Kgs.4.21	1Kgs.4.21	1Kgs.4.21	1Kgs.4.21	1Kgs.4.21
+1Kgs.4.22	wh-TT0X6AWXJZ	1Kgs.5.2		1Kgs.4.22	1Kgs.4.22	1Kgs.2.46e 1Kgs.5.2	1Kgs.4.22		1Kgs.4.22	1Kgs.4.22	1Kgs.4.22	1Kgs.4.22	1Kgs.4.22
+1Kgs.4.23	wh-04RPK7567K	1Kgs.5.3		1Kgs.4.23	1Kgs.4.23	1Kgs.2.46e 1Kgs.5.3	1Kgs.4.23		1Kgs.4.23	1Kgs.4.23	1Kgs.4.23	1Kgs.4.23	1Kgs.4.23
+1Kgs.4.24	wh-PDD12YMMAW	1Kgs.5.4		1Kgs.4.24	1Kgs.4.24	1Kgs.2.46f 1Kgs.2.46g 1Kgs.5.4	1Kgs.4.24		1Kgs.4.24	1Kgs.4.24	1Kgs.4.24	1Kgs.4.24	1Kgs.4.24
+1Kgs.4.25	wh-Y9136P5XDF	1Kgs.5.5		1Kgs.4.25	1Kgs.4.25	1Kgs.2.46g	1Kgs.4.25		1Kgs.4.25	1Kgs.4.25	1Kgs.4.25	1Kgs.4.25	1Kgs.4.25
 1Kgs.4.26	wh-ZAYHRXDM50	1Kgs.5.6		1Kgs.4.26	1Kgs.4.26	1Kgs.2.46i	1Kgs.4.26		1Kgs.4.26	1Kgs.4.26	1Kgs.4.26	1Kgs.4.26	1Kgs.4.26
 1Kgs.4.27	wh-DCDF982SMM	1Kgs.5.7		1Kgs.4.27	1Kgs.4.27	1Kgs.5.1	1Kgs.4.27		1Kgs.4.27	1Kgs.4.27	1Kgs.4.27	1Kgs.4.27	1Kgs.4.27
 1Kgs.4.28	wh-22MH522QRV	1Kgs.5.8		1Kgs.4.28	1Kgs.4.28	1Kgs.5.1	1Kgs.4.28		1Kgs.4.28	1Kgs.4.28	1Kgs.4.28	1Kgs.4.28	1Kgs.4.28
@@ -9068,7 +9068,7 @@ Ruth.4.22	wh-VBRZ6MGB3S	Ruth.4.22		Ruth.4.22	Ruth.4.22	Ruth.4.22	Ruth.4.22		Ruth
 1Kgs.9.15	wh-WY3WJHGSPA	1Kgs.9.15		1Kgs.9.15	1Kgs.9.15	1Kgs.2.35i 1Kgs.2.35k 1Kgs.10.22a	1Kgs.9.15		1Kgs.9.15	1Kgs.9.15	1Kgs.9.15	1Kgs.9.15	1Kgs.9.15
 1Kgs.9.16	wh-3NGTVTWMNX	1Kgs.9.16		1Kgs.9.16	1Kgs.9.16	1Kgs.5.14b	1Kgs.9.16		1Kgs.9.16	1Kgs.9.16	1Kgs.9.16	1Kgs.9.16	1Kgs.9.16
 1Kgs.9.17	wh-MGJK3RKZ4C	1Kgs.9.17		1Kgs.9.17	1Kgs.9.17	1Kgs.2.35i 1Kgs.10.22a	1Kgs.9.17		1Kgs.9.17	1Kgs.9.17	1Kgs.9.17	1Kgs.9.17	1Kgs.9.17
-1Kgs.9.18	wh-V8ME4MQM1T	1Kgs.9.18		1Kgs.9.18	1Kgs.9.18	1Kgs.2.35i 1Kgs.10.22a	1Kgs.9.18		1Kgs.9.18	1Kgs.9.18	1Kgs.9.18	1Kgs.9.18	1Kgs.9.18
+1Kgs.9.18	wh-V8ME4MQM1T	1Kgs.9.18		1Kgs.9.18	1Kgs.9.18	1Kgs.2.35i 1Kgs.2.46d 1Kgs.10.22a	1Kgs.9.18		1Kgs.9.18	1Kgs.9.18	1Kgs.9.18	1Kgs.9.18	1Kgs.9.18
 1Kgs.9.19	wh-WNQ39490WW	1Kgs.9.19		1Kgs.9.19	1Kgs.9.19	1Kgs.10.22a	1Kgs.9.19		1Kgs.9.19	1Kgs.9.19	1Kgs.9.19	1Kgs.9.19	1Kgs.9.19
 1Kgs.9.20	wh-FVE0652PB1	1Kgs.9.20		1Kgs.9.20	1Kgs.9.20	1Kgs.10.22b	1Kgs.9.20		1Kgs.9.20	1Kgs.9.20	1Kgs.9.20	1Kgs.9.20	1Kgs.9.20
 1Kgs.9.21	wh-TNECZ8YZ22	1Kgs.9.21		1Kgs.9.21	1Kgs.9.21	1Kgs.10.22b	1Kgs.9.21		1Kgs.9.21	1Kgs.9.21	1Kgs.9.21	1Kgs.9.21	1Kgs.9.21
@@ -13963,7 +13963,7 @@ Ps.3.3	wh-FJJZEH5KMB	Ps.3.4		Ps.3.4	Ps.3.4	Ps.3.4	Ps.3.3		Ps.3.3	Ps.3.3	Ps.3.3	P
 Ps.3.4	wh-QH96A255AA	Ps.3.5		Ps.3.5	Ps.3.5	Ps.3.5	Ps.3.4		Ps.3.4	Ps.3.4	Ps.3.4	Ps.3.4	Ps.3.4
 Ps.3.5	wh-G5M0RYHZP8	Ps.3.6		Ps.3.6	Ps.3.6	Ps.3.6	Ps.3.5		Ps.3.5	Ps.3.5	Ps.3.5	Ps.3.5	Ps.3.5
 Ps.3.6	wh-Z74ABDC7A1	Ps.3.7		Ps.3.7	Ps.3.7	Ps.3.7	Ps.3.6		Ps.3.6	Ps.3.6	Ps.3.6	Ps.3.6	Ps.3.6
-Ps.3.7	wh-R5FS9M61VP	Ps.3.8		Ps.3.8	Ps.3.8	Ps.3.8	Ps.3.7		Ps.3.7	Ps.3.7	Ps.3.7	Ps.3.7	Ps.3.7
+Ps.3.7	wh-R5FS9M61VP	Ps.3.8		Ps.3.7 Ps.3.8	Ps.3.7 Ps.3.8	Ps.3.8	Ps.3.7		Ps.3.7	Ps.3.7	Ps.3.7	Ps.3.7	Ps.3.7
 Ps.3.8	wh-HC9T92DA5F	Ps.3.9		Ps.3.9	Ps.3.9	Ps.3.9	Ps.3.8		Ps.3.8	Ps.3.8	Ps.3.8	Ps.3.8	Ps.3.8
 Ps.4.1	wh-05TC3JR8SD	Ps.4.2		Ps.4.2	Ps.4.2	Ps.4.2	Ps.4.1		Ps.4.1	Ps.4.1	Ps.4.1	Ps.4.1	Ps.4.1
 Ps.4.2	wh-04KFWVHV7Z	Ps.4.3		Ps.4.3	Ps.4.3	Ps.4.3	Ps.4.2		Ps.4.2	Ps.4.2	Ps.4.2	Ps.4.2	Ps.4.2
@@ -13976,7 +13976,7 @@ Ps.4.8	wh-DTXTJGM236	Ps.4.9		Ps.4.9 Ps.4.10	Ps.4.9 Ps.4.10	Ps.4.9	Ps.4.8		Ps.4.8
 Ps.5.1	wh-X2H76MHHZ4	Ps.5.2		Ps.5.2	Ps.5.2	Ps.5.2	Ps.5.1		Ps.5.1	Ps.5.1	Ps.5.1	Ps.5.1	Ps.5.1
 Ps.5.2	wh-BR4JAVR7TM	Ps.5.3		Ps.5.3	Ps.5.3	Ps.5.3	Ps.5.2		Ps.5.2	Ps.5.2	Ps.5.2	Ps.5.2	Ps.5.2
 Ps.5.3	wh-MCBQT9AWR8	Ps.5.4		Ps.5.4	Ps.5.4	Ps.5.4	Ps.5.3		Ps.5.3	Ps.5.3	Ps.5.3	Ps.5.3	Ps.5.3
-Ps.5.4	wh-PHW0GHYFX1	Ps.5.5		Ps.5.5	Ps.5.5	Ps.5.5	Ps.5.4		Ps.5.4	Ps.5.4	Ps.5.4	Ps.5.4	Ps.5.4
+Ps.5.4	wh-PHW0GHYFX1	Ps.5.5		Ps.5.5 Ps.5.6	Ps.5.5 Ps.5.6	Ps.5.5	Ps.5.4		Ps.5.4	Ps.5.4	Ps.5.4	Ps.5.4	Ps.5.4
 Ps.5.5	wh-DGEP9DRTCW	Ps.5.6		Ps.5.6	Ps.5.6	Ps.5.6	Ps.5.5		Ps.5.5	Ps.5.5	Ps.5.5	Ps.5.5	Ps.5.5
 Ps.5.6	wh-1TQVGYB94F	Ps.5.7		Ps.5.7	Ps.5.7	Ps.5.7	Ps.5.6		Ps.5.6	Ps.5.6	Ps.5.6	Ps.5.5	Ps.5.6
 Ps.5.7	wh-4FAMZAA455	Ps.5.8		Ps.5.8	Ps.5.8	Ps.5.8	Ps.5.7		Ps.5.7	Ps.5.7	Ps.5.7	Ps.5.6	Ps.5.7
@@ -14101,8 +14101,8 @@ Ps.16.6	wh-KE450Y7E0P	Ps.16.6		Ps.15.6	Ps.15.6	Ps.15.6	Ps.16.6		Ps.16.6	Ps.16.6	
 Ps.16.7	wh-77DKPKNHME	Ps.16.7		Ps.15.7	Ps.15.7	Ps.15.7	Ps.16.7		Ps.16.7	Ps.16.7	Ps.16.7	Ps.16.8	Ps.16.7
 Ps.16.8	wh-AQ909EJYW0	Ps.16.8		Ps.15.8	Ps.15.8	Ps.15.8	Ps.16.8		Ps.16.8	Ps.16.8	Ps.16.8	Ps.16.9	Ps.16.8
 Ps.16.9	wh-GF9JV3KPBK	Ps.16.9		Ps.15.9	Ps.15.9	Ps.15.9	Ps.16.9		Ps.16.9	Ps.16.9	Ps.16.9	Ps.16.10	Ps.16.9
-Ps.16.10	wh-EQSQ63G29N	Ps.16.10		Ps.15.10	Ps.15.10 Ps.15.11	Ps.15.10	Ps.16.10		Ps.16.10	Ps.16.10	Ps.16.10	Ps.16.11	Ps.16.10
-Ps.16.11	wh-JB4WDDAPYR	Ps.16.11		Ps.15.10	Ps.15.10 Ps.15.11	Ps.15.11	Ps.16.11		Ps.16.11	Ps.16.11	Ps.16.11	Ps.16.11	Ps.16.11
+Ps.16.10	wh-EQSQ63G29N	Ps.16.10		Ps.15.10	Ps.15.10	Ps.15.10	Ps.16.10		Ps.16.10	Ps.16.10	Ps.16.10	Ps.16.11	Ps.16.10
+Ps.16.11	wh-JB4WDDAPYR	Ps.16.11		Ps.15.10	Ps.15.11	Ps.15.11	Ps.16.11		Ps.16.11	Ps.16.11	Ps.16.11	Ps.16.11	Ps.16.11
 Ps.17.1	wh-XVV087PEMG	Ps.17.1		Ps.16.1	Ps.16.1	Ps.16.1	Ps.17.1		Ps.17.1	Ps.17.1	Ps.17.1	Ps.17.1	Ps.17.1
 Ps.17.2	wh-FT0CZSCYFN	Ps.17.2		Ps.16.2	Ps.16.2	Ps.16.2	Ps.17.2		Ps.17.2	Ps.17.2	Ps.17.2	Ps.17.2	Ps.17.2
 Ps.17.3	wh-V8TN4JXB9N	Ps.17.3		Ps.16.3	Ps.16.3	Ps.16.3	Ps.17.3		Ps.17.3	Ps.17.3	Ps.17.3	Ps.17.3	Ps.17.3
@@ -14853,7 +14853,7 @@ Ps.63.11	wh-X45AESRQKJ	Ps.63.12		Ps.62.12	Ps.62.12	Ps.62.12	Ps.63.11		Ps.63.11	P
 Ps.64.1	wh-GCX96F9T09	Ps.64.2		Ps.63.2	Ps.63.2	Ps.63.2	Ps.64.1		Ps.64.1	Ps.64.1	Ps.64.1	Ps.64.1	Ps.64.1
 Ps.64.2	wh-YXQWRNHC3X	Ps.64.3		Ps.63.3	Ps.63.3	Ps.63.3	Ps.64.2		Ps.64.2	Ps.64.2	Ps.64.2	Ps.64.2	Ps.64.2
 Ps.64.3	wh-PJJV488YKT	Ps.64.4		Ps.63.4	Ps.63.4	Ps.63.4	Ps.64.3		Ps.64.3	Ps.64.3	Ps.64.3	Ps.64.3	Ps.64.3
-Ps.64.4	wh-27TP7C4B73	Ps.64.5		Ps.63.5	Ps.63.5	Ps.63.5	Ps.64.4		Ps.64.4	Ps.64.4	Ps.64.4	Ps.64.4	Ps.64.4
+Ps.64.4	wh-27TP7C4B73	Ps.64.5		Ps.63.5 Ps.63.6	Ps.63.5 Ps.63.6	Ps.63.5	Ps.64.4		Ps.64.4	Ps.64.4	Ps.64.4	Ps.64.4	Ps.64.4
 Ps.64.5	wh-XS2QHDG46J	Ps.64.6		Ps.63.6	Ps.63.6	Ps.63.6	Ps.64.5		Ps.64.5	Ps.64.5	Ps.64.5	Ps.64.5	Ps.64.5
 Ps.64.6	wh-E5F3ZR8RVJ	Ps.64.7		Ps.63.7	Ps.63.7	Ps.63.7	Ps.64.6		Ps.64.6	Ps.64.6	Ps.64.6	Ps.64.6	Ps.64.6
 Ps.64.7	wh-8VYNP61B84	Ps.64.8		Ps.63.8	Ps.63.8	Ps.63.8	Ps.64.7		Ps.64.7	Ps.64.7	Ps.64.7	Ps.64.7	Ps.64.7
@@ -16240,7 +16240,7 @@ Ps.138.6	wh-T8K1YWP6XK	Ps.138.6		Ps.137.6	Ps.137.6	Ps.137.6	Ps.138.6		Ps.138.6	P
 Ps.138.7	wh-4S3SQ00FWS	Ps.138.7		Ps.137.7	Ps.137.7	Ps.137.7	Ps.138.7		Ps.138.7	Ps.138.7	Ps.138.7	Ps.138.7	Ps.138.7
 Ps.138.8	wh-M96A2HFJ4D	Ps.138.8		Ps.137.8	Ps.137.8	Ps.137.8	Ps.138.8		Ps.138.8	Ps.138.8	Ps.138.8	Ps.138.8	Ps.138.8
 Ps.139.1	wh-H5JP6AT4EK	Ps.139.1		Ps.138.1	Ps.138.1	Ps.138.1	Ps.139.1		Ps.139.1	Ps.139.1	Ps.139.1	Ps.139.1	Ps.139.1
-Ps.139.2	wh-D97F8NPCDT	Ps.139.2		Ps.138.2	Ps.138.2	Ps.138.2	Ps.139.2		Ps.139.2	Ps.139.2	Ps.139.2	Ps.139.1	Ps.139.2
+Ps.139.2	wh-D97F8NPCDT	Ps.139.2		Ps.138.2 Ps.138.3	Ps.138.2 Ps.138.3	Ps.138.2	Ps.139.2		Ps.139.2	Ps.139.2	Ps.139.2	Ps.139.1	Ps.139.2
 Ps.139.3	wh-RC9W981REJ	Ps.139.3		Ps.138.3	Ps.138.3	Ps.138.3	Ps.139.3		Ps.139.3	Ps.139.3	Ps.139.3	Ps.139.2	Ps.139.3
 Ps.139.4	wh-6K7DDR9D8W	Ps.139.4		Ps.138.4	Ps.138.4	Ps.138.4	Ps.139.4		Ps.139.4	Ps.139.4	Ps.139.4	Ps.139.3	Ps.139.4
 Ps.139.5	wh-9WF0NA9NK7	Ps.139.5		Ps.138.5	Ps.138.5	Ps.138.5	Ps.139.5		Ps.139.5	Ps.139.5	Ps.139.5	Ps.139.4	Ps.139.5
@@ -16343,7 +16343,7 @@ Ps.145.20	wh-QR6V80H3VT	Ps.145.20		Ps.144.20	Ps.144.20	Ps.144.20	Ps.145.20		Ps.1
 Ps.145.21	wh-A9PBY6QYBG	Ps.145.21		Ps.144.21	Ps.144.21	Ps.144.21	Ps.145.21		Ps.145.21	Ps.145.21	Ps.145.21	Ps.145.21	Ps.145.21
 Ps.146.1	wh-M8KCV0PMGC	Ps.146.1		Ps.145.1	Ps.145.1	Ps.145.1	Ps.146.1		Ps.146.1	Ps.146.1	Ps.146.1	Ps.146.1	Ps.146.1
 Ps.146.2	wh-7NBM05XE8H	Ps.146.2		Ps.145.2	Ps.145.2	Ps.145.2	Ps.146.2		Ps.146.2	Ps.146.2	Ps.146.2	Ps.146.1	Ps.146.1
-Ps.146.3	wh-WE3W3CRPTT	Ps.146.3		Ps.145.3	Ps.145.3	Ps.145.3	Ps.146.3		Ps.146.3	Ps.146.3	Ps.146.3	Ps.146.2	Ps.146.2
+Ps.146.3	wh-WE3W3CRPTT	Ps.146.3		Ps.145.2 Ps.145.3	Ps.145.2 Ps.145.3	Ps.145.3	Ps.146.3		Ps.146.3	Ps.146.3	Ps.146.3	Ps.146.2	Ps.146.2
 Ps.146.4	wh-VD6YQFZ9MP	Ps.146.4		Ps.145.4	Ps.145.4	Ps.145.4	Ps.146.4		Ps.146.4	Ps.146.4	Ps.146.4	Ps.146.3	Ps.146.3
 Ps.146.5	wh-PQAHGM5DGP	Ps.146.5		Ps.145.5	Ps.145.5	Ps.145.5	Ps.146.5		Ps.146.5	Ps.146.5	Ps.146.5	Ps.146.4	Ps.146.4
 Ps.146.6	wh-M9ARQ4G2BP	Ps.146.6		Ps.145.6	Ps.145.6	Ps.145.6	Ps.146.6		Ps.146.6	Ps.146.6	Ps.146.6	Ps.146.5	Ps.146.5
@@ -17309,8 +17309,8 @@ Prov.31.22	wh-03AC1J2JX6	Prov.31.22		Prov.31.22	Prov.31.22	Prov.31.22	Prov.31.22
 Prov.31.23	wh-SSNR86GM2M	Prov.31.23		Prov.31.23	Prov.31.23	Prov.31.23	Prov.31.23		Prov.31.23	Prov.31.23	Prov.31.23	Prov.31.23	Prov.31.23
 Prov.31.24	wh-Q46PYX6T9H	Prov.31.24		Prov.31.24	Prov.31.24	Prov.31.24	Prov.31.24		Prov.31.24	Prov.31.24	Prov.31.24	Prov.31.24	Prov.31.24
 Prov.31.25	wh-S9T7MASEB9	Prov.31.25		Prov.31.25	Prov.31.25	Prov.31.25	Prov.31.25		Prov.31.25	Prov.31.25	Prov.31.25	Prov.31.25	Prov.31.25
-Prov.31.26	wh-88T1QG9368	Prov.31.26		Prov.31.26	Prov.31.26	Prov.31.26	Prov.31.26		Prov.31.26	Prov.31.26	Prov.31.26	Prov.31.26	Prov.31.26
-Prov.31.27	wh-WYEKVZT7BB	Prov.31.27		Prov.31.27	Prov.31.27	Prov.31.27	Prov.31.27		Prov.31.27	Prov.31.27	Prov.31.27	Prov.31.27	Prov.31.27
+Prov.31.26	wh-88T1QG9368	Prov.31.26		Prov.31.26	Prov.31.26	Prov.31.27	Prov.31.26		Prov.31.26	Prov.31.26	Prov.31.26	Prov.31.26	Prov.31.26
+Prov.31.27	wh-WYEKVZT7BB	Prov.31.27		Prov.31.27	Prov.31.27	Prov.31.26	Prov.31.27		Prov.31.27	Prov.31.27	Prov.31.27	Prov.31.27	Prov.31.27
 Prov.31.28	wh-9Q5E9XYV7E	Prov.31.28		Prov.31.28	Prov.31.28	Prov.31.28	Prov.31.28		Prov.31.28	Prov.31.28	Prov.31.28	Prov.31.28	Prov.31.28
 Prov.31.29	wh-05VRSY53ZE	Prov.31.29		Prov.31.29	Prov.31.29	Prov.31.29	Prov.31.29		Prov.31.29	Prov.31.29	Prov.31.29	Prov.31.29	Prov.31.29
 Prov.31.30	wh-XBE62SBKET	Prov.31.30		Prov.31.30	Prov.31.30	Prov.31.30	Prov.31.30		Prov.31.30	Prov.31.30	Prov.31.30	Prov.31.30	Prov.31.30
@@ -22273,8 +22273,8 @@ Hos.13.4	wh-T8SJ8QJZ7Y	Hos.13.4		Hos.13.4	Hos.13.4	Hos.13.4	Hos.13.4		Hos.13.4	H
 Hos.13.5	wh-SVYXDPADJZ	Hos.13.5		Hos.13.5	Hos.13.5	Hos.13.5	Hos.13.5		Hos.13.5	Hos.13.5	Hos.13.5	Hos.13.5	Hos.13.5
 Hos.13.6	wh-8727QHETXA	Hos.13.6		Hos.13.6	Hos.13.6	Hos.13.6	Hos.13.6		Hos.13.6	Hos.13.6	Hos.13.6	Hos.13.6	Hos.13.6
 Hos.13.7	wh-DMA1V4G5XX	Hos.13.7		Hos.13.7	Hos.13.7	Hos.13.7	Hos.13.7		Hos.13.7	Hos.13.7	Hos.13.7	Hos.13.7	Hos.13.7
-Hos.13.8	wh-AYVS42V2QF	Hos.13.8		Hos.13.8	Hos.13.8	Hos.13.8	Hos.13.8		Hos.13.8	Hos.13.8	Hos.13.8	Hos.13.8	Hos.13.8
-Hos.13.9	wh-F32C6CZ9DF	Hos.13.9		Hos.13.9	Hos.13.9	Hos.13.9	Hos.13.9		Hos.13.9 Hos.13.10	Hos.13.9	Hos.13.9	Hos.13.9	Hos.13.9
+Hos.13.8	wh-AYVS42V2QF	Hos.13.8		Hos.13.8	Hos.13.8	Hos.13.8	Hos.13.8		Hos.13.8 Hos.13.9	Hos.13.8	Hos.13.8	Hos.13.8	Hos.13.8
+Hos.13.9	wh-F32C6CZ9DF	Hos.13.9		Hos.13.9	Hos.13.9	Hos.13.9	Hos.13.9		Hos.13.10	Hos.13.9	Hos.13.9	Hos.13.9	Hos.13.9
 Hos.13.10	wh-VT180B9NWR	Hos.13.10		Hos.13.10	Hos.13.10	Hos.13.10	Hos.13.10		Hos.13.10	Hos.13.10	Hos.13.10	Hos.13.10	Hos.13.10
 Hos.13.11	wh-Y3H6E2XZE4	Hos.13.11		Hos.13.11	Hos.13.11	Hos.13.11	Hos.13.11		Hos.13.11	Hos.13.11	Hos.13.11	Hos.13.11	Hos.13.11
 Hos.13.12	wh-S7GC3GTEMD	Hos.13.12		Hos.13.12	Hos.13.12	Hos.13.12	Hos.13.12		Hos.13.12	Hos.13.12	Hos.13.12	Hos.13.12	Hos.13.12
@@ -30630,8 +30630,8 @@ Jas.5.20	wh-HXM2AGS8ZV		Jas.5.20	Jas.5.20	Jas.5.20		Jas.5.20	Jas.5.20	Jas.5.20	J
 1John.5.4	wh-W5EHEFZ100		1John.5.4	1John.5.4	1John.5.4		1John.5.4	1John.5.4	1John.5.4	1John.5.4	1John.5.4	1John.5.4	1John.5.4
 1John.5.5	wh-74065RHFHB		1John.5.5	1John.5.5	1John.5.5		1John.5.5	1John.5.5	1John.5.5	1John.5.5	1John.5.5	1John.5.5	1John.5.5
 1John.5.6	wh-W1MGXJRV85		1John.5.6	1John.5.6	1John.5.6		1John.5.6	1John.5.6	1John.5.6	1John.5.6	1John.5.6 1John.5.7	1John.5.6	1John.5.6
-1John.5.7	wh-SMYS160Y9Y		1John.5.7	1John.5.7	1John.5.7		1John.5.7	1John.5.7	1John.5.7	1John.5.7		1John.5.7	1John.5.7
-1John.5.8	wh-24R6F3BX3C		1John.5.8	1John.5.8	1John.5.8		1John.5.8	1John.5.8	1John.5.8	1John.5.8	1John.5.8	1John.5.8	1John.5.8
+1John.5.7	wh-SMYS160Y9Y		1John.5.7	1John.5.7	1John.5.7		1John.5.7	1John.5.7	1John.5.7			1John.5.7	1John.5.7
+1John.5.8	wh-24R6F3BX3C		1John.5.8	1John.5.8	1John.5.8		1John.5.8	1John.5.8	1John.5.8	1John.5.7 1John.5.8	1John.5.8	1John.5.8	1John.5.8
 1John.5.9	wh-7H0E716TX0		1John.5.9	1John.5.9	1John.5.9		1John.5.9	1John.5.9	1John.5.9	1John.5.9	1John.5.9	1John.5.9	1John.5.9
 1John.5.10	wh-DTMQCBP5D0		1John.5.10	1John.5.10	1John.5.10		1John.5.10	1John.5.10	1John.5.10	1John.5.10	1John.5.10	1John.5.10	1John.5.10
 1John.5.11	wh-HPNTGCKCC2		1John.5.11	1John.5.11	1John.5.11		1John.5.11	1John.5.11	1John.5.11	1John.5.11	1John.5.11	1John.5.11	1John.5.11
@@ -31046,7 +31046,7 @@ Rev.20.5	wh-EM39H9NFV3		Rev.20.5	Rev.20.5	Rev.20.5		Rev.20.5	Rev.20.5	Rev.20.5	R
 Rev.20.6	wh-JS7X3AJY0W		Rev.20.6	Rev.20.6	Rev.20.6		Rev.20.6	Rev.20.6	Rev.20.6	Rev.20.6	Rev.20.6	Rev.20.6	Rev.20.6
 Rev.20.7	wh-5G6GX84QY2		Rev.20.7	Rev.20.7	Rev.20.7		Rev.20.7	Rev.20.7	Rev.20.7	Rev.20.7	Rev.20.7	Rev.20.7	Rev.20.7
 Rev.20.8	wh-5R5BMHWR2F		Rev.20.8	Rev.20.7	Rev.20.7		Rev.20.8	Rev.20.8	Rev.20.8	Rev.20.8	Rev.20.8	Rev.20.8	Rev.20.8
-Rev.20.9	wh-YA58073T1F		Rev.20.9	Rev.20.8	Rev.20.8		Rev.20.9	Rev.20.9	Rev.20.9	Rev.20.9	Rev.20.9	Rev.20.9	Rev.20.9
+Rev.20.9	wh-YA58073T1F		Rev.20.9	Rev.20.8 Rev.20.9	Rev.20.8 Rev.20.9		Rev.20.9	Rev.20.9	Rev.20.9	Rev.20.9	Rev.20.9	Rev.20.9	Rev.20.9
 Rev.20.10	wh-FQ6A5WPFQ5		Rev.20.10	Rev.20.9 Rev.20.10	Rev.20.9 Rev.20.10		Rev.20.10	Rev.20.10	Rev.20.10	Rev.20.10	Rev.20.10	Rev.20.10	Rev.20.10
 Rev.20.11	wh-FJX5DG92E1		Rev.20.11	Rev.20.11	Rev.20.11		Rev.20.11	Rev.20.11	Rev.20.11	Rev.20.11	Rev.20.11	Rev.20.11	Rev.20.11
 Rev.20.12	wh-NZC0Q4RP04		Rev.20.12	Rev.20.12	Rev.20.12		Rev.20.12	Rev.20.12	Rev.20.12	Rev.20.12	Rev.20.12	Rev.20.12	Rev.20.12

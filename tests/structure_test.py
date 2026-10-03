@@ -881,7 +881,8 @@ check("brenton: scheme and rights say what the book is",
 # Fixture is invented text in the source's shape: 66 books, two verses.
 _ej = {"books": [{"name": f"Book{i}", "chapters": []} for i in range(66)]}
 _ej["books"][0] = {"name": "Genesis", "chapters": [{"chapter": 1, "verses": [
-    {"verse": 1, "chapter": 1, "name": "Genesis 1:1", "text": "In the beginningGod made it."},
+    {"verse": 1, "chapter": 1, "name": "Genesis 1:1", "text": "In the beginningGod made it. And Sarah said,God; OGod; [my]God; "
+                                     "my fathers'God; 'God with us'; Godly."},
     {"verse": 2, "chapter": 1, "name": "Genesis 1:2", "text": "  "}]}]}
 _ej["books"][49] = {"name": "Philippians", "chapters": [{"chapter": 1, "verses": [
     {"verse": 16, "chapter": 1, "name": "Philippians 1:16", "text": "the one do it of love,"}]}]}
@@ -893,8 +894,9 @@ _eu = {u["id"]: u for u in _eb["units"]}
 check("english: ids are the source's slots on OSIS books; an empty slot is no unit",
       list(_eu) == ["darby:Gen.1.1", "darby:Phil.1.16"] and _eb["scheme"]["empty_slots_not_units"] == 1)
 check("english: Darby's per-book rule restores the space the markup ate before 'God'",
-      _eu["darby:Gen.1.1"]["text"] == "In the beginning God made it."
-      and _eb["scheme"]["rules"][0]["applied"] == 1)
+      _eu["darby:Gen.1.1"]["text"] == "In the beginning God made it. And Sarah said, God; "
+      "O God; [my] God; my fathers' God; 'God with us'; Godly."
+      and _eb["scheme"]["rules"][0]["applied"] == 5)
 check("english: each unit's `kjv` comes from the committed map (Darby Phil 1:16 is KJV 1:17)",
       _eu["darby:Phil.1.16"]["kjv"] == {"resolved": True, "target": "kjv:Phil.1.17"}
       and _eu["darby:Gen.1.1"]["kjv"] == {"resolved": True, "target": "kjv:Gen.1.1"})
@@ -1317,6 +1319,43 @@ try:
 except RuntimeError:
     _stopped = True
 check("english/bss: another module_version stops the read", _stopped)
+
+# The KJV's Apocrypha (eBible USFM): Sirach's prologues; the Rest of Esther
+# renumbered from the file's Greek-order segments. Invented text, the file's shape.
+import zipfile as _zf
+_kz = os.path.join(_tf.mkdtemp(), "kjva.zip")
+with _zf.ZipFile(_kz, "w") as _z:
+    _z.writestr("46-SIRengkjvcpb.usfm", "\\id SIR x\n\\h Ecclesiasticus\n\\is1 A Prologue.\n"
+                "\\im \\sc This\\sc* Jesus was the son of Sirach.\n\\is1 The Prologue.\n"
+                "\\im Whereas many things.\n\\c 1\n\\q1\n\\v 1 All wisdom cometh from the Lord.\n")
+    _z.writestr("43-ESGengkjvcpb.usfm", "\\id ESG x\n\\h The Rest of Esther\n\\c 1\n"
+                "\\iex [PLACED IN THE GREEK BEFORE CH. I.]\n\\cp 11\n\\p\n\\v 2 In the second year.\n"
+                "\\v 3 A Jew.\n\\cp 12\n\\v 12a \\vp 1\\vp* And Mardocheus took his rest.\n"
+                "\\c 10\n\\v 4 Then Mardocheus said.\n")
+    _z.writestr("02-GENengkjvcpb.usfm", "\\id GEN x\n\\h Genesis\n\\c 1\n\\v 1 In the beginning.\n")
+_keep = st.KJVA_ESTHER
+st.KJVA_ESTHER = [(11, 2, 3), (12, 1, 1), (10, 4, 4)]
+_ka = st.convert_kjva(_kz, "pin")
+st.KJVA_ESTHER = _keep
+_ku = {u["id"]: u for u in _ka["units"]}
+check("kjva: the Apocrypha only, ids in the KJV's numbering; Sirach's prologues are 0.1, 0.2",
+      list(_ku) == ["kjva:AddEsth.10.4", "kjva:AddEsth.11.2", "kjva:AddEsth.11.3",
+                    "kjva:AddEsth.12.1", "kjva:Sir.0.1", "kjva:Sir.0.2", "kjva:Sir.1.1"]
+      and _ku["kjva:Sir.0.1"]["text"] == "This Jesus was the son of Sirach.")
+check("kjva: Esther's segments counted on from the KJV's starts; the printed \\vp agrees, "
+      "and placement notes are not text",
+      _ku["kjva:AddEsth.12.1"]["text"] == "And Mardocheus took his rest."
+      and _ku["kjva:AddEsth.11.2"]["text"] == "In the second year.")
+st.KJVA_ESTHER = [(11, 2, 3), (12, 1, 2), (10, 4, 4)]
+try:
+    st.convert_kjva(_kz, "pin")
+    _ok = False
+except ValueError:
+    _ok = True
+st.KJVA_ESTHER = _keep
+check("kjva: a segment that stops short of the KJV's passage is refused", _ok)
+check("kjva: rights public domain, with eBible's rights line",
+      _ka["rights"]["license"] == "public-domain" and _ka["rights"]["rights_line"] == "Public Domain")
 
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)
