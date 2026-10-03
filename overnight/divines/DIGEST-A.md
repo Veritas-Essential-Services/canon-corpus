@@ -244,6 +244,13 @@ Round 11 was done by 02:42 CDT on 3 October. Round 12 turns to later 19th-centur
 | Richard Watson (Methodist) | richard-watson-methodist_shelf.json | 2 IA (Theological Institutes, M'Clintock ed., Lane & Scott 1850-51) + 1 Gutenberg (Biblical and Theological Dictionary) | none | none | shares his name with Bishop Watson of Llandaff, so the title words carry the identity check |
 | Abraham Booth | abraham-booth_shelf.json | 5 IA (Reign of Grace, Hartford 1814; Glad Tidings, Philadelphia 1797; Paedobaptism Examined, 3 vols, London 1829) | none | none | Glad Tidings OCR 85% (long s) |
 
+## Round 13: my picks, also for your veto
+
+Round 12 was done by 06:04 CDT on 3 October. Round 13 goes back earlier: Caroline and Restoration Anglicans (Hammond, Sanderson, Bull, Stillingfleet), Georgian bishops (Sherlock, Horsley), English Baptists and a late Puritan (Keach, Knollys, Ryland, Fawcett, Mead), and Americans (Tennent, Nettleton, Lyman Beecher, Asbury), with the evangelical Anglican Richard Cecil. Nobody chose these but the worker: drop any you do not want.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
+|---|---|---|---|---|---|
+
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
 - Bunyan: CCEL "Miscellaneous Pieces" and Gutenberg 3613 are probably the same pieces twice.
