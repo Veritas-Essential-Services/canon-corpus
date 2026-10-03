@@ -167,3 +167,6 @@ Other lanes already hold William Cunningham, Thomas Chalmers and James Buchanan.
 | Merle d'Aubigné, History of the Reformation in Europe in the Time of Calvin (Longmans, 1863-78, 8 vols) | have-raw | `merle-daubigne_shelf.json`; Cates checked on vols 6-8 |
 | Zanchius, Absolute Predestination, tr. Toplady | have | in lane A's Toplady Works |
 | Brandt, History of the Reformation in the Low-Countries (1720-23, 4 vols) | pending | ECCO OCR too broken to read two volumes' numbers |
+| Baird, Rise of the Huguenots (2 vols, 1879); Huguenots and Henry of Navarre (2 vols, 1886); Huguenots and the Revocation (1895, vol. 1); Theodore Beza (1899) | have-raw | `henry-baird_shelf.json`; Revocation vol. 2 pending |
+| Wylie, The History of Protestantism (Cassell, 3 vols) | have-raw | `james-wylie_shelf.json` |
+| Muston, The Israel of the Alps, tr. Montgomery (Blackie, 1875, 2 vols) | have-raw | `alexis-muston_shelf.json` |

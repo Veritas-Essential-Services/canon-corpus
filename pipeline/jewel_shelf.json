@@ -1,10 +1,11 @@
 {
- "_about": "John Jewel (1522-1571), Bishop of Salisbury. The target is the Parker Society Works, ed. John Ayre (4 'portions', Cambridge 1845-1850), Internet Archive OCR, raw; each title page read. The Toronto set lacks a readable vol. 3, so vol. 3 is Princeton's copy. Jelf's Oxford edition (8 vols, 1848) is listed as an alternate, not fetched. No CCEL or Gutenberg Jewel exists.",
+ "_about": "John Jewel (1522-1571), Bishop of Salisbury. The target is the Parker Society Works, ed. John Ayre (4 'portions', Cambridge 1845-1850), Internet Archive OCR, raw; each title page read. The Toronto set lacks a readable vol. 3, so vol. 3 is Princeton's copy. Jelf's Oxford edition (8 vols, 1848) is listed as an alternate, not fetched. No CCEL or Gutenberg Jewel exists. The surname check uses the multi-word forms 'John Jewel' and 'Bishop Jewel', since 'jewel' alone is an ordinary word (relay rule of 2026-10-03).",
  "_name_words": [
   "jewel"
  ],
  "_surname": [
-  "jewel"
+  "john jewel",
+  "bishop jewel"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -41,7 +42,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "jewel",
+   "author_seen": "john jewel",
    "identity": "ok",
    "ia_rights": "ok: published 1845",
    "ia_date": "1845",
@@ -52,7 +53,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "jewel",
+   "author_seen": "john jewel",
    "identity": "ok",
    "ia_rights": "ok: published 1845",
    "ia_date": "1845-50",
@@ -63,7 +64,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "jewel",
+   "author_seen": "john jewel",
    "identity": "ok",
    "ia_rights": "ok: published 1845",
    "ia_date": "1845",
@@ -74,7 +75,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "jewel",
+   "author_seen": "john jewel",
    "identity": "ok",
    "ia_rights": "ok: published 1845",
    "ia_date": "1845-50",
