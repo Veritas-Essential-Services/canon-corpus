@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 00:52 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 00:53 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -160,6 +160,7 @@ Round 8 was done by 00:49 CDT on 3 October. Round 9 takes in the commentators (P
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
 |---|---|---|---|---|---|
 | James Hervey | james-hervey_shelf.json | none | 1 (Whole Works in one volume, Edinburgh 1834: Meditations and Contemplations, Theron and Aspasio, letters) | none | the 1804 and 1825 six-volume sets (same works) |
+| Henry Venn | henry-venn_shelf.json | none | 1 (The Complete Duty of Man, New York 1838) | none | earlier printings with long s |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

@@ -378,3 +378,6 @@
 ## 2026-10-03 00:52 CDT — james-hervey done
 - `pipeline/james-hervey_shelf.json`: the 1834 one-volume Whole Works, raw IA OCR, 95.3%, 5.7 MB; title page read (1834). `--verify --record`: 0 mismatched, 0 rights flags; matched on "james hervey". 0 uids minted.
 - Round 9, nothing shelved: Matthew Poole (only the 1683-1700 folios on IA, long s in double columns, plus one volume of an 1861 printing) and John Trapp (the one scan, catalogued 1865, is by its own front matter the Sovereign Grace Book Club's 1958 reprint). Both are `pending` in the queue.
+
+## 2026-10-03 00:53 CDT — henry-venn done
+- `pipeline/henry-venn_shelf.json`: The Complete Duty of Man, 1838 printing, raw IA OCR, 98.8%, about 0.9 MB; title page read (1838; a "1923" in the OCR is a library stamp). `--verify --record`: 0 mismatched, 0 rights flags; matched on "henry venn". 0 uids minted.

@@ -1365,6 +1365,15 @@ Slugs `hervey-*`.
 | Work | Status | Where |
 |---|---|---|
 | Whole Works, 1 vol. (Edinburgh: Brown and Nelson, 1834), incl. Meditations and Contemplations, Theron and Aspasio | have-raw | IA (identifier in the shelf) |
+
+
+## Henry Venn (round 9, my pick, 2026-10-03)
+
+Slugs `venn-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Complete Duty of Man (New York, 1838 printing) | have-raw | IA (identifier in the shelf) |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
