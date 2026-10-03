@@ -485,3 +485,6 @@
 
 ## 2026-10-03 02:24 CDT — william-wilberforce done
 - `pipeline/william-wilberforce_shelf.json`: Gutenberg 25709, A Practical View (0.66 MB). The PG header is not marked copyrighted. Name forms are "william wilberforce" and "w. wilberforce" only, since bare "wilberforce" would also match his son Samuel. `--verify --record`: 0 mismatched. 0 uids minted. `scratchpad mkshelf.py` now accepts a spec with no IA items.
+
+## 2026-10-03 02:30 CDT — j-w-alexander done
+- `pipeline/j-w-alexander_shelf.json`: 3 IA volumes of raw OCR, median 97.2% (97.2-98.0%). His title pages print "JAMES W: ALEXANDER" with a colon, so that form was added to the name list. `--verify --record`: 0 mismatched. 0 uids minted.

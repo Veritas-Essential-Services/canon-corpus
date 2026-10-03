@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 02:24 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 02:30 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -209,6 +209,7 @@ Round 10 was done by 02:09 CDT on 3 October. Round 11 turns to New England Purit
 | Thomas Wilson (Bishop of Sodor and Man) | thomas-wilson_shelf.json | none | 6 (Works, Library of Anglo-Catholic Theology, vols 2-7, Oxford: Parker, 1847-63: sermons, Sacra Privata, Maxims, Parochialia) | none | vol. 1, which is John Keble's Life of Wilson, Keble's own book |
 | Daniel Waterland | daniel-waterland_shelf.json | none | 9 (Works, ed. Van Mildert, Oxford: Clarendon Press, 1823, vols 1-9) | none | separate printings of the Eucharist and Athanasian Creed books, which are in the Works |
 | William Wilberforce | william-wilberforce_shelf.json | 1 PG (A Practical View of the Prevailing Religious System, 1797) | none | none | his speeches and letters |
+| James W. Alexander | j-w-alexander_shelf.json | none | 3 (Consolation, sixth edition, catalogued 1852; Discourses on Common Topics, 1858; Thoughts on Preaching, 1869) | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

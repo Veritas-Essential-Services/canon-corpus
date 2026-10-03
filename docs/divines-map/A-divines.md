@@ -1737,3 +1737,14 @@ Slugs `wilberforce-*`.
 | Work | Status | Where |
 |---|---|---|
 | A Practical View of the Prevailing Religious System of Professed Christians (1797) | have-clean | Project Gutenberg 25709 (rights line checked: not marked copyrighted) |
+
+
+## James W. Alexander (round 11, my pick, 2026-10-03)
+
+Slugs `jwalexander-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Consolation, in Discourses on Select Topics (Scribner, sixth edition; copyright 1852) | have-raw | IA (identifiers in the shelf) |
+| Discourses on Common Topics of Christian Faith and Practice (Scribner, 1858) | have-raw | IA |
+| Thoughts on Preaching (Scribner, 1869) | have-raw | IA |
