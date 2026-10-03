@@ -1,0 +1,63 @@
+{
+ "_about": "James Otis's Toby Tyler; or, Ten Weeks with a Circus (undated in the text) and its sequel Mr. Stubbs's Brother (copyright 1882, 1910). Gutenberg's second Toby Tyler (PG 32393) is not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "James Otis",
+ "_name_words": [
+  "otis"
+ ],
+ "_surname": [
+  "james otis"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "otis-toby-tyler": [
+   7478,
+   "Toby Tyler; Or, Ten Weeks with a Circus",
+   {
+    "levels": [
+     {
+      "re": "[IVXL]+\\. [A-Z][^a-z]*$",
+      "max": 120
+     }
+    ],
+    "start": "I\\. TOBY'S INTRODUCTION TO THE CIRCUS$",
+    "front": true
+   }
+  ],
+  "otis-mr-stubbss-brother": [
+   27702,
+   "Mr. Stubbs's Brother",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "otis-toby-tyler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james otis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "otis-mr-stubbss-brother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james otis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

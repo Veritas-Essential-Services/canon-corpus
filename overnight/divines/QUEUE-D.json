@@ -1865,8 +1865,10 @@
     {
       "id": "james-otis",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: james-otis; no minting",
-      "status": "running",
-      "started": "2026-10-03T07:24:02-05:00"
+      "status": "done",
+      "started": "2026-10-03T07:24:02-05:00",
+      "finished": "2026-10-03T07:26:13-05:00",
+      "notes": "2/2 fetched (Gutenberg 7478, 27702), 1,919 units, 0 ~2 ids."
     },
     {
       "id": "ceredig-davies",
