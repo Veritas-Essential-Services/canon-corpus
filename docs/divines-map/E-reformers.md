@@ -166,6 +166,17 @@ Other lanes already hold William Cunningham, Thomas Chalmers and James Buchanan.
 | Burnet, History of the Reformation of the Church of England, ed. Pocock (7 vols, Oxford, 1865) | have-raw | `gilbert-burnet_shelf.json` |
 | Strype, Ecclesiastical Memorials (1822, 6 parts), Annals (1824, 7 parts), Lives of Parker, Whitgift (3 vols each), Grindal, Aylmer, Cheke (1821), Sir Thomas Smith (1820) (Clarendon Press); Memorials of Cranmer (EHS, 1848-54, 3 vols) | have-raw | `strype_shelf.json`, 26 volumes |
 
+## English Puritan histories
+
+The lives of the Puritans themselves are on lane A's shelves; these are the histories and biographical dictionaries of the movement. Fuller's Church History is on lane A's `thomas-fuller` shelf.
+
+| Work | Status | Where |
+|---|---|---|
+| Neal, The History of the Puritans, Toulmin's text (Tegg, 3 vols, 1837) | have-raw | `daniel-neal_shelf.json` |
+| Brook, The Lives of the Puritans (3 vols, 1813) | have-raw | `benjamin-brook_shelf.json` |
+| Calamy, The Nonconformist's Memorial, ed. Palmer (3 vols, 1802-1803) | have-raw | `edmund-calamy_shelf.json` |
+| Calamy, Abridgement of Baxter's Life and Times (1713, 1727) | pending | 18th-century scans only; not yet read |
+
 ## Continental Reformed and the Reformation in Europe
 
 | Work | Status | Where |

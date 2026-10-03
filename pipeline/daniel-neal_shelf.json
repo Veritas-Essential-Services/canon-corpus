@@ -1,0 +1,68 @@
+{
+ "_about": "Daniel Neal (1678-1743), The History of the Puritans, or Protestant Nonconformists, from the Reformation in 1517 to the Revolution in 1688, reprinted from Joshua Toulmin's edition with his life of the author (London: Thomas Tegg, 1837, 3 vols). Volume numbers read off each title page. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "neal"
+ ],
+ "_surname": [
+  "neal"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "neal-puritans-1": [
+   "historyofpurit01neal",
+   "The History of the Puritans, Toulmin's text (London: Tegg, 1837), vol. 1"
+  ],
+  "neal-puritans-2": [
+   "historyofpurit02neal",
+   "The History of the Puritans, Toulmin's text (London: Tegg, 1837), vol. 2"
+  ],
+  "neal-puritans-3": [
+   "historyofpuritan03neal",
+   "The History of the Puritans, Toulmin's text (London: Tegg, 1837), vol. 3"
+  ]
+ },
+ "_alternates": {
+  "historyofpuritan01neal, 02neal, 03inneal, 04neal, 05neal (1816-1817)": "Toulmin's own edition, 5 vols.",
+  "historyofpurit03neal (1732-38), bim_eighteenth-century_* (1794-97)": "18th-century editions.",
+  "historypuritans00..08nealgoog, historyofpuritan01..04nealuoft, 10450235..7bsb, historyofpuritan021848neal": "Other copies and printings."
+ },
+ "_excluded": {
+  "historypuritans01chougoog": "John O. Choules's American edition, with his additions; the Tegg reprint of Toulmin's text is held instead."
+ },
+ "_checks": {
+  "neal-puritans-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "neal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "neal-puritans-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "neal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "neal-puritans-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "neal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
