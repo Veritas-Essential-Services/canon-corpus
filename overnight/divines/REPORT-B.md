@@ -421,3 +421,8 @@
 ## 2026-10-03 02:45 CDT — Virgil: Aeneids
 - Virgil: Aeneid by G. K. Rickards (I-VI, 1871), John D. Long (1879), Oliver Crane (1888), Sir Charles Bowen (Eclogues and I-VI, 1889)
 - IA aeneidvirgil00rickgoog mislabelled (Rickards, not Ravensworth); Ravensworth's VII-XII still wanted
+
+## 2026-10-03 02:47 CDT — Virgil: Georgics and Eclogues
+- Virgil: Georgics by William Sotheby (1808), R. D. Blackmore (1871), Harriet Waters Preston (1881), Lord Burghclere (I-II, 1900)
+- Virgil: Bucolics by T. W. C. Edwards (1825); Eclogues by T. F. Royds (1922)
+- Retry list: I. P. Smith's Eclogues (1909), 500

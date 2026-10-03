@@ -700,6 +700,14 @@
    "started": "2026-10-03T02:43:00-05:00",
    "finished": "2026-10-03T02:45:55-05:00",
    "notes": "Rickards I-VI 1871, Long 1879, Crane 1888, Bowen 1889 (2nd ed.). OCR 0.89-0.92. IA's 'Books VII-XII' Ravensworth item is mislabelled (it holds Rickards I-VI); Ravensworth's half still wanted. Storr's Rivingtons volumes are Latin school editions, not taken."
+  },
+  {
+   "id": "virgil-georgics-eclogues",
+   "status": "done",
+   "scope": "Six Georgics and Eclogues translations (1808-1922)",
+   "started": "2026-10-03T02:45:55-05:00",
+   "finished": "2026-10-03T02:47:58-05:00",
+   "notes": "Sotheby 1808, Edwards 1825, Blackmore 1871, Preston 1881, Burghclere I-II 1900, Royds 1922 (Latin facing, PD by date). OCR 0.83-0.92. Isaiah Perley Smith's hexameter Eclogues (1909) answers 500: added to the retry."
   }
  ]
 }

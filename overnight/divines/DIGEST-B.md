@@ -128,3 +128,4 @@
 - **Euripides and Aristophanes (02:38):** an Oxford literal Euripides; five Aristophanes volumes (Walsh 1848, Valpy 1812, Talboys 1822, Billson 1882, Tyrrell 1883).
 - **Horace (02:43):** three more verse Odes (Mathews, Pierce, Cudworth). Hourly retry: nothing recovered yet.
 - **Aeneid (02:45):** four more versions (Rickards, Long, Crane, Bowen).
+- **Georgics and Eclogues (02:47):** six more (Sotheby, Edwards, Blackmore, Preston, Burghclere, Royds).
