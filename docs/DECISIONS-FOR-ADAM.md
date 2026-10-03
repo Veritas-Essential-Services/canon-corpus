@@ -1,13 +1,13 @@
 # Decisions for Adam (2026-10-03)
 
 Every open question from the relay digests (`overnight/divines/DIGEST-A..D.md` on
-`claude/armarium-divines`) and the open draft PRs (#4 to #16), merged into one
+`claude/armarium-divines`) and the open draft PRs (#5 to #16), merged into one
 list. Where several sources ask the same thing, it appears once and the
 **Where** column names them all. Each line gives the options and a
 recommendation. ★ marks the ones that block a merge or the minting pass.
 
-The sources were last read at 07:42 UTC on 2026-10-03 (relay head `b8e46fd`). The lanes keep writing, so
-check the digests for anything newer. Items added after the first pass are numbered from 42, so earlier numbers stay the same.
+The sources were last read at 10:45 UTC on 2026-10-03 (relay head `a9e49e5`). The lanes keep writing, so
+check the digests for anything newer. Items added after the first pass are numbered from 42, so earlier numbers stay the same. Item 51 was withdrawn: PR #4 is closed, and it was a separate review.py fix, not a duplicate of #3.
 
 ## Rights and licences
 
@@ -27,8 +27,8 @@ check the digests for anything newer. Items added after the first pass are numbe
 | 12 | Lightfoot's Apostolic Fathers: set `redistribute_whole` to true? | true / pending | **True**, if the source states no licence over the 1891 text. | #11; #8 |
 | 13 | Translator not proven by the file: five Andersen rows, Heimskringla (shown to be Laing and Anderson by collation), the Whitman Pinocchio, lane B's `_translator_unchecked` rows, and Lane C's Friend of the Family imprint | one rule for all | **Accept where a collation or title-page reading is recorded. Hold where there is none** (the Andersens and the Pinocchio). | DIGEST-B, DIGEST-C, DIGEST-D 9, 12 |
 | 14 | Borderline single titles: Babbitt's Moralia 1-2 (1927-28), Webster's stage *Daddy Long-Legs* (1922), Garis's *Uncle Wiggily's Story Book* (1921 and 1939) | yes / no each | **Yes, yes, hold.** The 1939 printing may add new matter. | DIGEST-B; DIGEST-D 13, 14 |
-| 42 | CCEL texts keyed from late reprints, not first printings: Barnes's NT Notes (Baker 1949), 26 Owen titles (Banner 1965-68; *Glory of Christ* is also modernised), Wesley's Journal (Moody 1951), Lightfoot's Apostolic Fathers (Baker 1956), Calvin's *Relics* (2008), four MacDonald titles | keep / swap the reading of record | **Keep, flagged.** Where an early IA or PG copy is held (Owen has Goold), make it the reading of record and keep CCEL as a witness. | DIGEST-A; DIGEST-D 17; #15 |
-| 43 | Post-1930 reprint impressions marked "reprinted", not "revised" (Ross's Aristotle vols 2 and 9, Bennett's Horace, several Cicero Loebs) | one rule: keep / hold | **Keep.** A reprint of an unrevised text is the same edition. | DIGEST-B |
+| 42 | CCEL and IA texts keyed from late reprints, not first printings: Barnes's NT Notes (Baker 1949, also used by #16), 26 Owen titles (Banner 1965-68; *Glory of Christ* is also modernised), Wesley's Journal (Moody 1951), Lightfoot's Apostolic Fathers (Baker 1956), Calvin's *Relics* (2008), four MacDonald titles, Finney's *Power from on High* (CLC 1944), Torrey's *Holy Spirit* (Zondervan 1974), and Bounds's *Weapon of Prayer* (probably first published 1931; lane A is checking). Two IA scans dated "0000" (`candlish-ephesians`, `jwalexander-thoughts`) need their title pages read | keep / swap the reading of record | **Keep, flagged.** Where an early IA or PG copy is held (Owen has Goold), make it the reading of record and keep the reprint as a witness. Drop Bounds's *Weapon* if it proves to be 1931 or later. | DIGEST-A; DIGEST-D 17; #15; #16 |
+| 43 | Later printings of Loebs and Oxford translations (DIGEST-B's later-printings class). Lane B keeps Ross's Aristotle vols 2 and 9, Bennett's Horace, Butler's Quintilian, Velleius (1961), Casaubon (1948), Aeschines (1958) and Isaeus (1962). It refuses Freese (1947) and Duff's Silius (1961) | keep the whole class and also take Freese and Silius / drop the class | **Keep the whole class, and take Freese and Silius too.** A reprint of an unrevised text is the same edition. Hold any volume whose title page says *revised*. | DIGEST-B 57 |
 | 44 | Perseus texts modernised under CC BY-SA (Godley's Herodotus, Smyth's Aeschylus) | keep as witnesses / drop | **Keep as witnesses, flagged**, under #2's line. | DIGEST-B |
 | 45 | Jewett's *Wonder Tales from Tibet* (PG 66443, UK status unclear); the Persian fairy tales (PG 24473, no translator named) | keep / hold | **Keep Jewett under #3. Hold the Persian tales under #13.** | DIGEST-D 15 |
 
@@ -36,7 +36,7 @@ check the digests for anything newer. Items added after the first pass are numbe
 
 | # | Decision | Options | Recommend | Where |
 |---|---|---|---|---|
-| 15 ★ | The minting pass for relay slugs (lane D alone now has 926 slugs on 163 shelves) | when, and do raw IA volumes get uids? | **One attended pass after the merges and after #17 and #18.** Raw OCR volumes get **no uids** until converted. | DIGEST-A, B, D 1 |
+| 15 ★ | The minting pass for relay slugs (lane D alone now has 999 slugs on 190 shelves) | when, and do raw IA volumes get uids? | **One attended pass after the merges and after #17 and #18.** Raw OCR volumes get **no uids** until converted. | DIGEST-A, B, D 1 |
 | 16 ★ | Adopt the 14,197 Strong's word uids, citation `strongs:G26` (kind `lexeme`), and no uid for the 101 "Not Used" numbers | yes / no | **Yes** to all three. `--adopt` refuses on any collision. | #10 decisions 1-3 |
 | 17 ★ | The Contents-reader fix (titles losing a trailing c, i, l, v or x) | merge #6 / leave | **Merge #6 before any relay minting.** It moves 0 committed ids and recovers about 68 relay headings. | #6 s.2; DIGEST-D 2 |
 | 18 ★ | Move the per-book heading rules (`chapre`, `levels` and the rest) into `structure_texts.py` before minting? | yes / keep in the shelves | **Yes.** They decide unit ids (CLAUDE.md rule 2). | DIGEST-D 6; DIGEST-C 4 |
@@ -50,9 +50,9 @@ check the digests for anything newer. Items added after the first pass are numbe
 | 26 | Tyndale has two sources: #9's scrollmapper (7,888 verses) and #11's biblesupersearch (13,852 verses) | #9 / #11 | **#11's fuller text**, after checking its source isn't SWORD-derived (#7). Keep `tyndale:Luke.17.36` and `Rev.21.26` reachable or retire them on purpose. | MERGE-REHEARSAL; #11 |
 | 27 | Wycliffe collation letters glued to words | a strip rule / leave | **A rule**, so the edition stays clean (rule 2). | #11 |
 | 28 | Classical works on both #7 (Perseus) and lane B (Gutenberg) | pick one per translation / keep both | **Keep both as witnesses.** Perseus is the reading of record because its citations are built in. | #7 s.7 |
-| 46 | Westcott, Lightfoot and Alford commentaries held twice: raw OCR on lane A, converted text in #11 | which is the reading of record | **#11's converted text**, with lane A's scan as a witness. | DIGEST-A; #11 |
+| 46 | Commentaries held twice: Westcott, Lightfoot and Alford as raw OCR on lane A and as converted text in #11. This includes Lightfoot's *Colossians* (PG 50857) and the *Galatians*, *Philippians* and Alford vol. 3 copies, which are different scans on the two branches | which is the reading of record | **#11's converted text**, with lane A's scan kept as a witness. | DIGEST-A; #11 |
 | 47 | Delitzsch's Psalms cross-references: follow the volume's own (Hebrew) numbering, or map to KJV? | volume / KJV | **Record them as the volume states**, unresolved, like BDB, until a versification map exists. | #11 |
-| 48 | Delitzsch's Isaiah: which English translation is the reader text, the 1890 4th edition or Martin's 1867? | 1890 / 1867 | **1890**, the author's last revision, with 1867 as a witness. | #11 |
+| 48 | Delitzsch's Isaiah: #11 has measured it but not shelved it, because its sections don't open with "Ver." and it needs a running-head reader. When it is shelved, which English translation is the reader text: the 1890 4th edition or Martin's 1867? | 1890 / 1867 | **1890**, the author's last revision, with 1867 as a witness. This is not urgent, since nothing is built yet. | #11 (`build_commentaries.py`) |
 | 49 | The Press's master text: a 19th-century edition (nearer modern spelling, but OCR) or the hand-keyed first edition (accurate, 17th-century spelling) | 19th c. / first edition | **The first edition as master**, with spelling modernised by rule only in the export, so the source stays exact. | #15 |
 | 50 | The Press's Reformation Heritage titles: *A Perfect Redeemer* traced to Perkins's *True Gain* by inference only; five titles unidentified (Holy Meditation, Special Providence, A Blessed Hope, Prizing Public Worship, Advancing Christian Unity) | confirm / leave out | **Leave out until a title page confirms each.** | #15 |
 
@@ -65,13 +65,12 @@ check the digests for anything newer. Items added after the first pass are numbe
 | 31 ★ | Merge order | the plan / other | **Follow `docs/MERGE-PLAN-2026-10.md`**: #6, #5, #9, #8, #10, #7, #11, then the relay. Settle #26 before #11. | #10; #12 |
 | 32 | Keep `docs/MERGE-REHEARSAL.md` on main? | keep / drop | **Drop it** once the merges are done. | #12 |
 | 33 | Remove the committed `_to_delete/` folder (43 MB of partial downloads and a stale `index.lock`) | yes / no | **Yes.** History keeps a copy. | this thread |
-| 51 | PR #4 is a draft that duplicates the merged #3 | close / keep | **Close it.** | #4 |
 
 ## Scope and shelves
 
 | # | Decision | Options | Recommend | Where |
 |---|---|---|---|---|
-| 34 | Shelves the lanes added on their own, for your veto (lane A rounds 2-11, lane C rounds 3-6, lane D's batches) | accept all / veto some | **Accept by default.** Veto by deleting a shelf file and its map rows. | DIGEST-A, C, D |
+| 34 | Shelves the lanes added on their own, for your veto (lane A rounds 2-12, lane C rounds 3-6, lane D's batches) | accept all / veto some | **Accept by default.** Veto by deleting a shelf file and its map rows. | DIGEST-A, C, D |
 | 35 | Widen lane D: more Kipling, Hawthorne's novels, Chesterton 1929-30, Stevenson's Swanston edition, other Aesops, more Baum, Wilde, Ruskin and Dickens, Lofting first printings | yes / no each | **Yes to Kipling, Hawthorne and Chesterton 1929-30. The rest later.** | DIGEST-D 3, 8 |
 | 36 | Give Mrs. Lang her own shelf; move the Rutherford editions off Andrew Bonar's shelf | yes / no | **Yes to both**, so the author is right. | DIGEST-D 5; DIGEST-A |
 | 37 | Concise Matthew Henry (unknown abridger and date); *An Exhortation to Peace and Unity* (doubtful Bunyan) | keep / drop | **Keep both, flagged.** Move the *Exhortation* to `attributed`. | DIGEST-A |
@@ -79,10 +78,14 @@ check the digests for anything newer. Items added after the first pass are numbe
 | 39 | Greek-facing Loebs held back because their Greek OCR is junk | keep the line / take them | **Keep the line.** | DIGEST-B |
 | 40 | Reconcile lane D's `aesop` with the earlier fables work before minting | yes | **Yes**, as part of #15. | DIGEST-D 4 |
 | 41 | Schaff follow-ups: OCR ANF 10, tables for the 8 refused works, English work books copying their text, Seventh Carthage at 83/87 | now / later | **Later.** None of them blocks the merge. | #11 |
-| 52 | Lane A's veto points: Newman's Catholic-period works; the Mathers' witchcraft works (*Wonders of the Invisible World*, *Cases of Conscience*, held); Herbert's *Temple* (verse: here or with the hymns?) | keep / drop each | **Keep Newman and the Mathers as history, flagged. Herbert stays here and is also offered to the hymn side.** | DIGEST-A |
+| 52 | Lane A's veto points: Newman's Catholic-period works; the Mathers' witchcraft works (*Wonders of the Invisible World*, *Cases of Conscience*), which are excluded, not held; Herbert's *Temple* (verse: here or with the hymns?); and from round 12, Finney (not Reformed) and Bushnell (moral-influence atonement) | keep / drop each | **Keep Newman, Finney and Bushnell as history, flagged. Leave the Mathers excluded unless you want them as history. Herbert stays here and is also offered to the hymn side.** | DIGEST-A |
 | 53 | `lang-devil-dancers` is held because Lang is not its author | move to the right author / drop | **Move it** to its author's shelf. | DIGEST-D 16 |
-| 54 | New shelves from another thread: #14 (88 shelves, 269 Reformation and Scottish volumes, 418 MB) | accept / veto some | **Accept by default**, under #34. Run `shelf_overlaps.py` on it before merging. | #14 |
+| 54 | New shelves from another thread: #14 has 122 shelves, 338 Reformation and Scottish volumes and 550 MB. It and lane A's round 11 both add the `george-smeaton`, `hugh-martin`, `john-kennedy-dingwall` and `thomas-mccrie` shelves, so the files clash | accept / veto some; who owns the four clashing shelves | **Accept by default**, under #34. **#14 owns the four shelves.** Lane A's copies are dropped or merged into #14's before either merges. | #14; DIGEST-A |
 | 55 | The Bible cross-reference layer: the fathers' Old Testament links stay provisional until #7's OT links are fixed, and 122,369 single-scan Treasury references stay out | accept / wait | **Accept as is.** Rerun the fathers' half after #7's fix. | #16 |
+| 56 | Ginzberg's *Legends of the Jews* vols 3-4 (PG 2881-2882), translated by Paul Radin (died 1959): US public domain, UK copyright to the end of 2029 | take / hold | **Take**, under #3, so they join vols 1-2. | DIGEST-D 18 |
+| 57 | Theal's *Kaffir Folk-lore* (1886): the printed title uses a slur | keep the printed title / name it in the map as a collection of Xhosa folk tales | **Keep the printed title in citations (it is the edition's name). Describe it in the map as Xhosa folk tales.** | DIGEST-D 19 |
+| 58 | Jacobs's shelf also took *Europa's Fairy Book* (1916), which the relay didn't name | keep / drop | **Keep.** It is Jacobs's own and public domain. | DIGEST-D (`jacobs-fairy`) |
+| 59 | The Perseus rights block (#2) is not yet copied into the committed manifest, so a consumer can't see the limit without opening the book | change `structure_texts.py` so the block reaches the manifest, as the STEPBible block already does / leave it | **Make the change before #7 merges.** | #7; coordinator review |
 
 ## Review work only you can do
 
