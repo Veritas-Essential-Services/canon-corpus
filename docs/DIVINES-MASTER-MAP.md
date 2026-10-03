@@ -4537,8 +4537,8 @@ Shelf: `pipeline/giles-liaozhai_shelf.json` (2026-10-02; added at the coordinato
 
 | Work | Status | Where |
 |---|---|---|
-| Strange Stories from a Chinese Studio, tr. Herbert A. Giles (vols. 1 and 2) | have | PG 43629, `liaozhai-strange-stories-chinese-studio` (1894 units) |
 | liaozhai-volumes | excluded | vols. 1 and 2 as separate files (PG 43627, 43628): the same text as the combined file |
+| liaozhai-strange-stories-chinese-studio | excluded | PG 43629: the same file Lane C holds as giles-strange-stories on giles_shelf.json (queued first, 2026-10-03 00:43 UTC); not fetched twice. If that row needs heading rules, Lane D's were: {"levels": [{"re": "[IVXLC]+\\.$", "title_next": true}, {"re": "FOOTNOTES:$"}], "start": "STRANGE STORIES$", "front": true} |
 
 ## Zitkala-Ša
 

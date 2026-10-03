@@ -247,3 +247,17 @@ All 80 shelves (652 slugs).
   - Guerber's *Myths of Northern Lands* and *Myths of the Norsemen* share about 12%. The later book reworks the earlier one. Both are held.
 - **OCR.** The Golden Legend's seven volumes all grade A (0.974-0.985), even with Caxton's spelling. The totals are now 53 A, 12 B, 3 C and 1 D.
 - **Editions.** Wherever a title gives a year, it was checked against the fetched text's title page or Gutenberg header. Where the text is a later printing, the title says so: Frere 1870, Mijatovich 2nd ed. 1899, Webster 2nd ed. 1879, Crooke 1922 reprint, Kúnos/Bain 1901, Church's Iliad 1920, Milne's *Once on a Time* 1922. Where the text carries no date (Grace James, Petrovitch, Zitkala-Ša, Bain's Cossack tales), the title gives none.
+
+## 6. Fourth pass (2026-10-02 night, after batches 11 and 12)
+
+All 97 shelves (719 slugs).
+
+- **URLs.** 719 checked. Five Gutenberg files reset the connection or dropped TLS on the first sweep (PG 28804, 45264, 14814, 78504, 13015), and all five answered on retry. Lang's Lockhart vol. 1 on the Internet Archive still returns HTTP 500 (see §4). Every slug is in the map.
+- **Same source held twice: one, now settled.** Lane D's `giles-liaozhai` shelf and Lane C's Giles translator shelf (`giles_shelf.json`, row `giles-strange-stories`) both held PG 43629, Giles's *Strange Stories from a Chinese Studio*. Both were added within minutes of each other on the night of 2026-10-02/03, and Lane C queued it first. Lane D's row moved to `_excluded` with a pointer to Lane C's row. Lane D's heading rules for the book (story numbers as headings, the footnotes kept under each story) are copied into that note in case Lane C's row wants them. The shelf file keeps only the exclusions and can be deleted if you prefer. Minting total drops by one, to 719.
+- **Translators.** The catalog check is clean. The one translation in batch 12 is Weston's (Wolfram's *Parzival*, the Marie de France lais), and her name is in the titles. The other batch-12 books are retellings (Baldwin, Macgregor, Gilbert, Knowles, Rolleston, Hull), and the catalog lists the reteller as author. Knowles's *Legends of King Arthur* is catalogued with Malory as co-author because it retells him, but its text is Knowles's own, and it shares no measured paragraph with the Malory shelf.
+- **Text held twice, new this pass:**
+  - Craik's *Little Lame Prince* (PG file) shares 190 long paragraphs with her *Fairy Book*. The Gutenberg file bundles fairy tales from the *Fairy Book* (Prince Leander and others) after the title story. Both are held: mint the shared tales once, with two witnesses.
+  - Stockton's *Fanciful Tales* (1922) reprints stories from *The Bee-Man of Orn* (101 paragraphs; already noted in the DIGEST).
+  - Baldwin's *Hero Tales* draws on his own *Story of Siegfried* (43 paragraphs) and *Story of the Golden Age* (30). Mint those once.
+  - Rolleston's two Celtic books share 12 paragraphs. That is too small to matter, but they should still be minted once.
+- **OCR.** Batches 11 and 12 added no Internet Archive volumes, so the grades are unchanged: 53 A, 12 B, 3 C, 1 D.
