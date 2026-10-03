@@ -1337,8 +1337,10 @@
     {
       "id": "spence",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — myths, legends and fairy tales retold: spence; no minting",
-      "status": "running",
-      "started": "2026-10-03T01:52:02-05:00"
+      "status": "done",
+      "started": "2026-10-03T01:52:02-05:00",
+      "finished": "2026-10-03T01:54:48-05:00",
+      "notes": "8/8 fetched (Gutenberg 56550, 53080, 42390, 16539, 43662, 45137, 38530, 30871), 11,920 units, 0 ~2 ids."
     },
     {
       "id": "hearn",

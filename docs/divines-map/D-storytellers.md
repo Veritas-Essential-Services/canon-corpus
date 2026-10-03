@@ -2329,6 +2329,21 @@ Shelf: `pipeline/katharine-pyle_shelf.json` (2026-10-02; added at the coordinato
 | Wonder Tales from Many Lands | have | PG 48351, `katharine-pyle-wonder-tales-from-many-lands` (1370 units) |
 | Fairy Tales from Far and Near | have | PG 66919, `katharine-pyle-fairy-tales-from-far-and-near` (1254 units) |
 
+## Lewis Spence
+
+Shelf: `pipeline/spence_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Myths and legends of Mexico, Peru, North America, Egypt, Babylonia, the Rhine, Spain and Brittany retold, with his Popol Vuh; cut by chapter, with the back matter (bibliography, glossary, index, notes) under its own headings. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Popol Vuh | have | PG 56550, `spence-popol-vuh` (135 units) |
+| The Myths of Mexico and Peru | have | PG 53080, `spence-myths-of-mexico-and-peru` (1879 units) |
+| The Myths of the North American Indians | have | PG 42390, `spence-myths-of-the-north-american-indians` (2458 units) |
+| Hero Tales and Legends of the Rhine | have | PG 16539, `spence-hero-tales-of-the-rhine` (1493 units) |
+| Myths and Legends of Ancient Egypt | have | PG 43662, `spence-myths-of-ancient-egypt` (910 units) |
+| Myths and Legends of Babylonia and Assyria | have | PG 45137, `spence-myths-of-babylonia-and-assyria` (984 units) |
+| Legends and Romances of Spain | have | PG 38530, `spence-legends-of-spain` (1235 units) |
+| Legends and Romances of Brittany | have | PG 30871, `spence-legends-of-brittany` (2826 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
