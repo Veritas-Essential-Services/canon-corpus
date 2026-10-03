@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:26 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:32 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -131,6 +131,14 @@ Round 6 was done by 20:58 CDT. Lane A carries on with more Puritans, the Scottis
 | Henry Smith | henry-smith_shelf.json | 0 (none exists) | 2 (Works, Edinburgh: Nichol 1866, complete) | none | Joshua Sylvester's works |
 | Lewis Bayly | lewis-bayly_shelf.json | 0 (none exists) | 1 (The Practice of Piety, 1754, the latest pre-modern edition on IA) | none | a 1994 reprint. Note: long-s print, OCR 89.6% |
 | John Preston | john-preston_shelf.json | 0 (none exists) | 0: nothing shelved | all seven treatises (IA has only 1630-1641 printings, OCR 79-81%) | a facsimile; an unprovenanced upload |
+
+## Round 8: my picks, also for your veto
+
+Round 7 was done by 21:26 CDT. Round 8 widens from the Puritans to the English divines at large, Anglican and Methodist, starting with those CCEL holds as clean text. Nobody chose these but the worker: drop any you do not want.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
+|---|---|---|---|---|---|
+| John Wesley | john-wesley_shelf.json | 4 CCEL (Sermons, Notes on the Bible, Christian Perfection, Journal in Parker's abridgement) | 10 (Works, New York: Harper 1826-30, complete) | none | hymns and poems (hymn manifest); the 1958-65 reprints and the Bicentennial Edition (in copyright). **Flag:** CCEL's Journal was transcribed from a 1951 Moody reprint of Parker's 1903 abridgement; CCEL marks it Public Domain |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

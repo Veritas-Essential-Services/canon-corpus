@@ -331,3 +331,6 @@
 
 ## 2026-10-02 21:26 CDT — john-preston done
 - `pipeline/john-preston_shelf.json`: nothing shelved. All seven of his treatises on IA are 1630-1641 printings; fetched and scored, their OCR came to 79-81% (one more failed the identity gate), so they went to `_pending` with their identifiers and the texts were deleted. The shelf file stays so nobody repeats the search. 0 uids minted.
+
+## 2026-10-02 21:32 CDT — john-wesley done
+- `pipeline/john-wesley_shelf.json`: 4 CCEL titles (converted with `convert_shelf.py`: 27,280 units, 4,078 scripture links) and the 1826-30 Works, 10 volumes of raw IA OCR, median 98.5%, about 29 MB with the CCEL files. The CCEL Journal is Parker's abridgement transcribed from a 1951 Moody Press reprint; flagged in the digest. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

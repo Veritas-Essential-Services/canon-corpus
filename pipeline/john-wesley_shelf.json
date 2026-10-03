@@ -1,0 +1,240 @@
+{
+ "_about": "Public-domain John Wesley (1703-1791, founder of Methodism) for the Word Hoard. Four titles clean from CCEL (Sermons on Several Occasions, Explanatory Notes on the Bible, A Plain Account of Christian Perfection, and the Journal in Percy Livingstone Parker's abridgement, which CCEL transcribed from a 1951 Moody Press reprint and marks Public Domain); and the Works (New York: J. & J. Harper, 10 vols) as raw Internet Archive OCR from Princeton scans. His and Charles Wesley's hymns and poems belong to the hymn manifest and stay off. Added 2026-10-02 by lane A, round 8 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "w/wesley",
+ "_name_words": [
+  "wesley",
+  "john"
+ ],
+ "_surname": [
+  "wesley"
+ ],
+ "_held": {},
+ "ccel": {
+  "wesley-sermons": [
+   "sermons",
+   "Sermons on Several Occasions",
+   ""
+  ],
+  "wesley-notes": [
+   "notes",
+   "Explanatory Notes upon the Old and New Testaments",
+   ""
+  ],
+  "wesley-perfection": [
+   "perfection",
+   "A Plain Account of Christian Perfection",
+   ""
+  ],
+  "wesley-journal-parker": [
+   "journal",
+   "The Journal of John Wesley, abridged by Percy Livingstone Parker (CCEL from the Moody Press reprint, 1951)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "wesley-works-01": [
+   "worksofrevjohnwe01wesl",
+   "The Works of the Rev. John Wesley, vol. 1 (New York: J. & J. Harper, 1826-30)"
+  ],
+  "wesley-works-02": [
+   "worksofrevjohnwe02wesl",
+   "The Works of the Rev. John Wesley, vol. 2 (New York: J. & J. Harper, 1826-30)"
+  ],
+  "wesley-works-03": [
+   "worksofrevjohnwe03wesl",
+   "The Works of the Rev. John Wesley, vol. 3 (New York: J. & J. Harper, 1826-30)"
+  ],
+  "wesley-works-04": [
+   "worksofrevjohnwe04wesl",
+   "The Works of the Rev. John Wesley, vol. 4 (New York: J. & J. Harper, 1826-30)"
+  ],
+  "wesley-works-05": [
+   "worksofrevjohnwe05wesl",
+   "The Works of the Rev. John Wesley, vol. 5 (New York: J. & J. Harper, 1826-30)"
+  ],
+  "wesley-works-06": [
+   "worksofrevjohnwe06wesl",
+   "The Works of the Rev. John Wesley, vol. 6 (New York: J. & J. Harper, 1826-30)"
+  ],
+  "wesley-works-07": [
+   "worksofrevjohnwe07wesl",
+   "The Works of the Rev. John Wesley, vol. 7 (New York: J. & J. Harper, 1826-30)"
+  ],
+  "wesley-works-08": [
+   "worksofrevjohnwe08wesl",
+   "The Works of the Rev. John Wesley, vol. 8 (New York: J. & J. Harper, 1826-30)"
+  ],
+  "wesley-works-09": [
+   "worksofrevjohnwe09wesl",
+   "The Works of the Rev. John Wesley, vol. 9 (New York: J. & J. Harper, 1826-30)"
+  ],
+  "wesley-works-10": [
+   "worksofrevjohnwe10wesl",
+   "The Works of the Rev. John Wesley, vol. 10 (New York: J. & J. Harper, 1826-30)"
+  ]
+ },
+ "_alternates": {
+  "worksofrevjohnwe02..07wesluoft (New York: Carlton & Porter, 1856, 3rd American ed.); worksrevjohnwes*weslgoog (London, 1809-13, 17 vols); 08201953.10*.emory.edu (Miscellaneous Works, 1828)": "Other editions of the Works.",
+  "bwb_C0-ADF-660_10, bwb_C0-ADF-661_14, worksofjohnwesle0014vari (Jackson's 1872 Works, vols 10 and 14)": "Two volumes of the standard 1872 edition; the rest of that set is on IA only as 1958-65 Zondervan reprints."
+ },
+ "_excluded": {
+  "hymn, works (CCEL); poeticalworks* (1868-72)": "Hymns and poems: for the hymn manifest.",
+  "worksofjohnwesle0001..0013* and bwb_KO-* (Zondervan, 1958-65); worksofjohnwesle0000john (1996); davies-the-methodist-societies-*": "Modern reprints and the Bicentennial Edition (in copyright).",
+  "livingthoughts* (1891)": "An anthology chosen by another hand.",
+  "lifeofrevjohnwes* (Whitehead); PG 71130, 76882 (Tyerman)": "Biographies by others.",
+  "methodist*crea; ohncharl00gree, worksofjohncharl0000unse": "Studies and a bibliography."
+ },
+ "_checks": {
+  "wesley-sermons": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wesley",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "wesley-notes": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wesley",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "wesley-perfection": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wesley",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "wesley-journal-parker": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wesley",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "wesley-works-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wesley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wesley-works-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wesley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wesley-works-03": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wesley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wesley-works-04": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wesley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wesley-works-05": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wesley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wesley-works-06": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wesley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wesley-works-07": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wesley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wesley-works-08": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wesley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wesley-works-09": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wesley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wesley-works-10": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wesley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

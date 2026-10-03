@@ -1191,3 +1191,14 @@ Nothing shelved. IA holds only 17th-century printings, and their OCR scored 79-8
 | Work | Status | Where |
 |---|---|---|
 | The Breast-Plate of Faith and Love; The New Covenant; Life Eternal; Four Godly Treatises; The Golden Sceptre; Mount Ebal; Sin's Overthrow (1630-1641) | pending | IA identifiers in the shelf's `_pending` |
+
+## John Wesley (round 8, my pick, 2026-10-02)
+
+Slugs `wesley-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on Several Occasions; Explanatory Notes on the Bible; A Plain Account of Christian Perfection; the Journal (Parker's abridgement) | have-clean | CCEL |
+| Works, 10 vols (New York: J. & J. Harper, 1826-30) | have-raw | IA (identifiers in the shelf) |
+| Hymns and poems | see hymn manifest | |
+| Jackson's 1872 Works | alternate | on IA only as 1958-65 reprints, except vols 10 and 14 |

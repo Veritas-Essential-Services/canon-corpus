@@ -766,6 +766,107 @@
       "started": "2026-10-02T21:24:51-05:00",
       "finished": "2026-10-02T21:26:29-05:00",
       "notes": "0 shelved; 7 pending (17th-c OCR ~80%)"
+    },
+    {
+      "id": "john-wesley",
+      "status": "done",
+      "scope": "John Wesley: Sermons, Journal, Notes, Christian Perfection (CCEL; hymns to the hymn manifest; d. 1791)",
+      "added": "2026-10-02T21:28:26-05:00",
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
+      "started": "2026-10-02T21:28:26-05:00",
+      "finished": "2026-10-02T21:32:13-05:00",
+      "notes": "4 CCEL + 10 IA"
+    },
+    {
+      "id": "jeremy-taylor",
+      "status": "todo",
+      "scope": "Jeremy Taylor: Holy Living, Holy Dying (CCEL) and Works (d. 1667)",
+      "added": "2026-10-02T21:28:26-05:00",
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+    },
+    {
+      "id": "richard-hooker",
+      "status": "todo",
+      "scope": "Richard Hooker: Laws of Ecclesiastical Polity and Works (d. 1600)",
+      "added": "2026-10-02T21:28:26-05:00",
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+    },
+    {
+      "id": "lancelot-andrewes",
+      "status": "todo",
+      "scope": "Lancelot Andrewes: Devotions (CCEL), Sermons (d. 1626)",
+      "added": "2026-10-02T21:28:26-05:00",
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+    },
+    {
+      "id": "joseph-butler",
+      "status": "todo",
+      "scope": "Joseph Butler: Analogy, Fifteen Sermons (CCEL; d. 1752)",
+      "added": "2026-10-02T21:28:26-05:00",
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+    },
+    {
+      "id": "thomas-fuller",
+      "status": "todo",
+      "scope": "Thomas Fuller: Good Thoughts in Bad Times and other devotional works (CCEL; d. 1661)",
+      "added": "2026-10-02T21:28:26-05:00",
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+    },
+    {
+      "id": "john-donne",
+      "status": "todo",
+      "scope": "John Donne: Devotions and sermons (CCEL; poems excluded; d. 1631)",
+      "added": "2026-10-02T21:28:26-05:00",
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+    },
+    {
+      "id": "thomas-traherne",
+      "status": "todo",
+      "scope": "Thomas Traherne: Centuries of Meditations (CCEL; d. 1674)",
+      "added": "2026-10-02T21:28:26-05:00",
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+    },
+    {
+      "id": "john-henry-newman",
+      "status": "todo",
+      "scope": "John Henry Newman: Apologia, Parochial Sermons and other works published before 1891 (d. 1890)",
+      "added": "2026-10-02T21:28:26-05:00",
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+    },
+    {
+      "id": "george-herbert",
+      "status": "todo",
+      "scope": "George Herbert: A Priest to the Temple (CCEL); The Temple listed for the hymn and verse manifests (d. 1633)",
+      "added": "2026-10-02T21:28:26-05:00",
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+    },
+    {
+      "id": "joseph-hall",
+      "status": "todo",
+      "scope": "Joseph Hall: Works (d. 1656)",
+      "added": "2026-10-02T21:28:26-05:00",
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+    },
+    {
+      "id": "isaac-barrow",
+      "status": "todo",
+      "scope": "Isaac Barrow: Theological Works (d. 1677)",
+      "added": "2026-10-02T21:28:26-05:00",
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+    },
+    {
+      "id": "thomas-ken",
+      "status": "todo",
+      "scope": "Thomas Ken: prose works (d. 1711)",
+      "added": "2026-10-02T21:28:26-05:00",
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+    },
+    {
+      "id": "henry-martyn",
+      "status": "todo",
+      "scope": "Henry Martyn: Journals and Letters, Sermons (d. 1812)",
+      "added": "2026-10-02T21:28:26-05:00",
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
     }
   ]
 }
