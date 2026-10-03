@@ -1,0 +1,75 @@
+{
+ "_about": "Herman Witsius (1636-1708). The target is The Oeconomy of the Covenants between God and Man, 'a new translation from the original Latin' (3 vols, New York, 1798), Internet Archive OCR, raw; each title page read. The 1798 text never names its translator (checked: no 'Crookshank' in any volume), so no _translators entry; the 1803 edition (alternates) names William Crookshank, and confirming the two are one translation is left for a later pass. Vol. 1's OCR keeps some long-s misreadings ('fuch', 'alfo'). Witsius's other English works are pending.",
+ "_name_words": [
+  "witsius"
+ ],
+ "_surname": [
+  "witsius"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "witsius-economy-01": [
+   "oeconomyofcovena01wits",
+   "The Oeconomy of the Covenants between God and Man (New York, 1798), vol. 1"
+  ],
+  "witsius-economy-02": [
+   "oeconomyofcovena02wits",
+   "The Oeconomy of the Covenants between God and Man (New York, 1798), vol. 2"
+  ],
+  "witsius-economy-03": [
+   "oeconomyofcovena03wits",
+   "The Oeconomy of the Covenants between God and Man (New York, 1798), vol. 3"
+  ]
+ },
+ "_alternates": {
+  "oeconomyofcovena01witsrich, 02witsrich, 03witsrich": "California copies of the same 1798 set.",
+  "oeconomyofcovena176201wits .. 176303wits, oeconocovena00wits": "London 1763 / 1772 printings (long s throughout).",
+  "economycovenant00witsgoog, 01witsgoog, 02witsgoog, economyofcovenan0000wits": "1803 two-volume edition naming Crookshank on the title page; a candidate second witness.",
+  "MN41373ucmf_5": "1837 edition on microfilm; metadata returned HTTP 500 on 2026-10-03."
+ },
+ "_pending": {
+  "Sacred Dissertations on the Apostles' Creed, tr. Donald Fraser (2 vols, 1823)": "sacreddissertati01wits, 02wits (Princeton); not yet title-checked.",
+  "Sacred Dissertations on the Lord's Prayer, tr. William Pringle (1839)": "sacreddissertati24wits (Princeton); not yet title-checked.",
+  "Conciliatory or Irenical Animadversions, tr. Thomas Bell (1807)": "conciliatoryorir00wits (Princeton); not yet title-checked.",
+  "De oeconomia foederum (Latin, 1685 and later)": "The Latin original; for a Latin shelf."
+ },
+ "_excluded": {
+  "bim_eighteenth-century_* microfilm sets": "ECCO microfilm images; the 1798 set is a better scan of the same translation."
+ },
+ "_checks": {
+  "witsius-economy-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "witsius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1798",
+   "ia_date": "1798",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "witsius-economy-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "witsius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1798",
+   "ia_date": "1798",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "witsius-economy-03": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "witsius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1798",
+   "ia_date": "1798",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
