@@ -80,10 +80,10 @@
     "verses": 4657,
     "keyed": 4341,
     "no_key": 316,
-    "listed_in_map": 1866,
+    "listed_in_map": 1867,
     "weak": 128,
-    "kjva_verses_reached": 4183,
-    "kjva_without_verse": 202,
+    "kjva_verses_reached": 4184,
+    "kjva_without_verse": 201,
     "median_score": 0.64
    },
    "through": "the Douay: a Clementine verse has the keys of the Douay verse(s) that read it (its `vulgate`), or VULGATE_ROWS'",
@@ -795,6 +795,10 @@
     "Wis.19.20": [
      "kjva:Wis.19.21",
      "kjva:Wis.19.22"
+    ],
+    "Sir.1.1": [
+     "kjva:Sir.0.2",
+     "kjva:Sir.1.1"
     ],
     "Sir.1.16": "kjva:Sir.1.14",
     "Sir.1.20": "kjva:Sir.1.16",
@@ -2588,6 +2592,13 @@
     "2Macc.15.19"
    ],
    "house_rows": {
+    "Sir.1.1": {
+     "kjva": [
+      "Sir.0.2",
+      "Sir.1.1"
+     ],
+     "why": "the translator's prologue and 1:1 in one verse; the Douay prints 1:1 only"
+    },
     "Bar.6.7": {
      "kjva": [
       "Bar.6.8"
@@ -2695,7 +2706,7 @@
     "AddEsth.16.5",
     "AddEsth.16.9",
     "Wis.3.19",
-    "Sir.0.1-2",
+    "Sir.0.1",
     "Sir.1.15",
     "Sir.3.14",
     "Sir.3.19",

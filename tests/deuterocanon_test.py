@@ -67,8 +67,10 @@ vk = {k: r["vulgate"] for k, r in rows.items()}
 dk = {k: r["douay"] for k, r in rows.items()}
 diff = {k for k in rows if vk[k] != dk[k]}
 check("the Vulgate's and the Douay's keys agree verse for verse, except where the Douay file "
-      "prints the Epistle of Jeremy's 6:37 in the slot of 6:7",
-      diff == {"Bar.6.8", "Bar.6.38"} and C("Bar.6.38", "vulgate") == ["Bar.6.37"]
+      "prints the Epistle of Jeremy's 6:37 in the slot of 6:7, and the Sirach prologue the "
+      "Clementine prints in 1:1 and the Douay leaves out",
+      diff == {"Bar.6.8", "Bar.6.38", "Sir.0.2"} and C("Sir.0.2", "vulgate") == ["Sir.1.1"]
+      and C("Sir.0.2", "douay") == [] and C("Bar.6.38", "vulgate") == ["Bar.6.37"]
       and C("Bar.6.38", "douay") == ["Bar.6.7"] and C("Bar.6.8", "vulgate") == ["Bar.6.7"]
       and C("Bar.6.8", "douay") == [])
 vg = V.load(V.VULGATE_PATH)

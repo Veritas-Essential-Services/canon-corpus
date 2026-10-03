@@ -251,6 +251,8 @@ HOUSE_ROWS = {
 }
 # The Clementine verses the Douay has no English for, keyed from the Latin.
 VULGATE_ROWS = {
+    "Sir.1.1": (["Sir.0.2", "Sir.1.1"], "Multorum nobis et magnorum",
+                "the translator's prologue and 1:1 in one verse; the Douay prints 1:1 only"),
     "Bar.6.7": (["Bar.6.8"], "lingua ipsorum polita a fabro",
                 "the idols' tongue polished by the workman: the Douay file prints 6:37 "
                 "in this slot (structure_texts.DOUAY_ROWS)"),
