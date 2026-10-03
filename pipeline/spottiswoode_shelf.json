@@ -1,0 +1,72 @@
+{
+ "_about": "John Spottiswoode (1565-1639), Archbishop of St Andrews: The History of the Church of Scotland, ed. Michael Russell and Mark Napier (Spottiswoode Society and Bannatyne Club, Edinburgh, 1847-1851, 3 vols). An episcopal history of the Reformation in Scotland, the counterweight to Calderwood and Row. Volume numbers read off each title page. The surname check takes the spellings the edition uses. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "spottiswoode",
+  "spottiswood",
+  "spotswood"
+ ],
+ "_surname": [
+  "spottiswoode",
+  "spottiswood",
+  "spotswood"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "spottiswoode-history-1": [
+   "historyofchurcho01bann",
+   "The History of the Church of Scotland, beginning the year of our Lord 203 and continued to the end of the reign of King James VI, ed. Russell and Napier (Spottiswoode Society, Edinburgh, 1847-1851), vol. 1"
+  ],
+  "spottiswoode-history-2": [
+   "historyofchurcho02bann",
+   "The History of the Church of Scotland, beginning the year of our Lord 203 and continued to the end of the reign of King James VI, ed. Russell and Napier (Spottiswoode Society, Edinburgh, 1847-1851), vol. 2"
+  ],
+  "spottiswoode-history-3": [
+   "historyofchurcho03bann",
+   "The History of the Church of Scotland, beginning the year of our Lord 203 and continued to the end of the reign of King James VI, ed. Russell and Napier (Spottiswoode Society, Edinburgh, 1847-1851), vol. 3"
+  ]
+ },
+ "_alternates": {
+  "historyofchurcho01spot, historyofchurcho02spot, historyofchurcho03spot": "Princeton copies.",
+  "historyofchur9301spotuoft, historyofchur93203spotuoft, historyofchurc9303spotuoft": "Guelph copies (vol. 1 has no text file)."
+ },
+ "_pending": {
+  "The 1655 folio and later 17th-century printings": "EEBO scans; the 1847-51 edition supersedes them."
+ },
+ "_excluded": {},
+ "_checks": {
+  "spottiswoode-history-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "spottiswoode",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spottiswoode-history-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "spottiswoode",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spottiswoode-history-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "spottiswoode",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
