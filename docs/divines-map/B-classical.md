@@ -165,6 +165,8 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | The Aeneid of Virgil, translated into Scottish verse (Eneados, 1513), vol. 1 (Bannatyne Club, Edinburgh, 1839) | Gavin Douglas | `virgil-douglas-eneados-v1` | have-raw (IA `aeneidofvirgiltr01virguoft`) |
 | The Aeneid of Virgil, translated into Scottish verse (Eneados, 1513), vol. 2 (Bannatyne Club, Edinburgh, 1839) | Gavin Douglas | `virgil-douglas-eneados-v2` | have-raw (IA `aeneidofvirgil6402virguoft`) |
 | The First Four Books of the Aeneid of Virgil, in English heroic verse (1582; Edinburgh reprint, 1836) | Richard Stanyhurst | `virgil-stanyhurst-1836` | have-raw (IA `firstfourbooksn00maidgoog`) |
+| The Fourth Book of Virgil's Aeneid (with the Ninth Book of Voltaire's Henriad), translated into English verse (Paris, 1804) | anonymous ('the Translator of the Henriad') | `virgil-aeneid-iv-henriad-translator-1804` | have (PG 20144) |
+| Virgil and Lucretius: passages translated | William Stebbing | `virgil-lucretius-stebbing-passages` | have (PG 66399) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
@@ -220,6 +222,7 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | The Greek Tragic Theatre, vol. 1: Aeschylus (new ed., 1809) | Robert Potter | `aeschylus-potter-greek-tragic-theatre` | have-raw (IA `greektragicthea01wodhgoog`) |
 | The Dramas of Aeschylus (4th ed., revised, 1899) | Anna Swanwick | `aeschylus-swanwick` | have-raw (IA `dramasofaeschylu0000unse`) |
 | Agamemnon | Robert Browning | `aeschylus-perseus-browning-agamemnon` | have (Perseus TEI `tlg0085.tlg005.perseus-eng4`; markup CC BY-SA 4.0) |
+| Specimens of Greek Tragedy: Aeschylus and Sophocles | Goldwin Smith | `aeschylus-sophocles-goldwin-smith-specimens` | have (PG 7073) |
 
 Pending (wishlist): none here: Smyth's Loeb (1922-26) is on PR #7 as Perseus TEI.
 
@@ -277,6 +280,7 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | — | — | `sophocles-oedipus-colonus-jebb` | cross-ref → Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR |
 | The Tragedies of Sophocles, a new translation (1865) | E. H. Plumptre | `sophocles-plumptre` | have-raw (IA `tragediesofsopho1865soph`) |
 | The Tragedies of Sophocles, from the Greek (London, 1759; all seven plays in this scan) | Thomas Francklin | `sophocles-francklin-1759` | have-raw (IA `tragediesofsopho00soph`) |
+| — | — | `aeschylus-sophocles-goldwin-smith-specimens` | cross-ref → Aeschylus shelf: PG 7073, Goldwin Smith's Specimens of Greek Tragedy (Aeschylus and Sophocles in one volume); not refetched here |
 
 Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 
@@ -720,6 +724,7 @@ Shelf: `pipeline/lucretius_shelf.json`. Munro (prose, vol. 3 of his edition) and
 | T. Lucretius Carus, Of the Nature of Things, vol. 1 (1714) | Thomas Creech | `lucretius-creech-v1` | have-raw (IA `tlucretiuscaruso01lucr`) |
 | T. Lucretius Carus, Of the Nature of Things, vol. 2: Books V-VI (1714) | Thomas Creech | `lucretius-creech-v2` | have-raw (IA `tlucretiuscaruso02lucr`) |
 | De Rerum Natura | William Ellery Leonard | `lucretius-perseus-leonard-de-rerum-natura` | have (Perseus TEI `phi0550.phi001.perseus-eng1`; markup CC BY-SA 4.0) |
+| — | — | `virgil-lucretius-stebbing-passages` | cross-ref → Virgil shelf: PG 66399, Stebbing's passages from Virgil and Lucretius in one volume; not refetched here |
 
 Pending (wishlist): Rouse's Loeb (1924).
 
