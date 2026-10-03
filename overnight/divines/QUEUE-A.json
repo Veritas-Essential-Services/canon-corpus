@@ -749,10 +749,13 @@
     },
     {
       "id": "lewis-bayly",
-      "status": "todo",
+      "status": "done",
       "scope": "Lewis Bayly: The Practice of Piety (d. 1631)",
       "added": "2026-10-02T20:58:28-05:00",
-      "added_by": "lane A worker, round 7 (round 6 done at 20:58 CDT with ten hours left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)"
+      "added_by": "lane A worker, round 7 (round 6 done at 20:58 CDT with ten hours left; the relay said to choose further Divines until the stop time; Adam may veto in the digest)",
+      "started": "2026-10-02T21:22:33-05:00",
+      "finished": "2026-10-02T21:24:44-05:00",
+      "notes": "1 IA (1754)"
     },
     {
       "id": "john-preston",

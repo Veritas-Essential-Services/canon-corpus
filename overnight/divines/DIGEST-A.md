@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:22 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:24 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -129,6 +129,7 @@ Round 6 was done by 20:58 CDT. Lane A carries on with more Puritans, the Scottis
 | Joseph Bellamy | joseph-bellamy_shelf.json | 0 (none exists) | 2 (Works, Boston 1853, with a memoir, complete) | none | a 1987 reprint |
 | Thomas Vincent | thomas-vincent_shelf.json | 0 (none exists) | 4 (Shorter Catechism 1854; Christ's Sudden Appearance 1823; God's Terrible Voice in the City 1811; True Christian's Love 1701) | none | modern reprints |
 | Henry Smith | henry-smith_shelf.json | 0 (none exists) | 2 (Works, Edinburgh: Nichol 1866, complete) | none | Joshua Sylvester's works |
+| Lewis Bayly | lewis-bayly_shelf.json | 0 (none exists) | 1 (The Practice of Piety, 1754, the latest pre-modern edition on IA) | none | a 1994 reprint. Note: long-s print, OCR 89.6% |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

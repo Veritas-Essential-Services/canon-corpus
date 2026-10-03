@@ -1174,3 +1174,12 @@ No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `hsmith-*`.
 | Work | Status | Where |
 |---|---|---|
 | Works, 2 vols (Edinburgh: Nichol, 1866): sermons, treatises, prayers and poems | have-raw | IA (identifiers in the shelf) |
+
+## Lewis Bayly (round 7, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR of an Eighteenth Century Collections Online scan; slug `bayly-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Practice of Piety (London, 1754) | have-raw | IA |
+| Editions of 1623-1734; the French (1661) and Massachusett (1665, 1685) translations | alternate | IA |

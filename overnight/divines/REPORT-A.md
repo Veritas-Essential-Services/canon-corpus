@@ -325,3 +325,6 @@
 
 ## 2026-10-02 21:22 CDT — henry-smith done
 - `pipeline/henry-smith_shelf.json`: 2 volumes, raw IA OCR, 98.6-99.1%, about 2.7 MB; title pages read (vols I-II; no printed year in the OCR, so the catalogue's 1866 is used). The surname check uses "henry smith". `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:24 CDT — lewis-bayly done
+- `pipeline/lewis-bayly_shelf.json`: 1 item, raw IA OCR, 89.6% (long-s type; no 19th-century printing is on IA), about 0.8 MB. The title page is anonymous, as in every edition, so the identity gate refused it; the dedication is signed "Lewis Bailey", and an `_identity_checked` reason records that. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
