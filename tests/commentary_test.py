@@ -147,6 +147,31 @@ check("Clarke: the chronology margin, the Bible text, and the margin's reference
 check("Clarke: 'ver. 407' after 'Iliad i.,' is Homer's line; 'See ver. 35' is this chapter's",
       CR.citations("Iliad i., ver. 407. See ver. 35, and Exod. iii. 7", "Exod", 9) == [("Exod", 9, 35, 9, 35), ("Exod", 3, 7, 3, 7)])
 
+# ---- Spurgeon, read from scans (spurgeon_read.py), on fixtures
+import spurgeon_read as SR
+check("Spurgeon: the Exposition heads ('EXPOSITION,' and Psalm 119's 'EXPOSITION OF VERSES i TO 8.') and where it stops",
+      len(SR.EXPO.findall("EXPOSITION.\nEXPOSITION,\nEXPOSITION    OF    VERSES    i    TO    8. \nEXPOSITIONS OF THE PSALMS.")) == 3
+      and len(SR.END.findall("EXPLANATORY NOTES AND QUAINT SAYINGS.\nNOTES ON VERSES 65 TO 72.\nVerse 1. \u2014 The psalmist"
+                             "\nVerses 2\u20145.\u2014Our God\nHINTS TO THE VILLAGE PREACHER.")) == 5)
+_sk = CR.Kjv({"kjv:Ps.1.1": "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners.",
+              "kjv:Ps.1.2": "But his delight is in the law of the LORD; and in his law doth he meditate day and night.",
+              "kjv:Ps.1.3": "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season."},
+             {"Ps": {1: 3}})
+_said = " ".join(["word"] * 45)
+_seg = ("\nBLESSED is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners.\n"
+        "2 But his delight is in the law of the LORD; and in his law doth he meditate day and night.\n"
+        f"1. \u201cBlessed is the man.\u201d {_said}\n17. pages of an old book\n2. \u201cHis delight.\u201d {_said}\n"
+        "3 And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season.\n"
+        f"{_said}\n")
+check("Spurgeon: a numbered head opens a comment on its verse, a number past the psalm's verses is no head,"
+      " and a group's own comment is on the group",
+      [(a, z) for a, z, _ in SR.comments(_seg, "Ps", 1, _sk)] == [(1, 1), (2, 2), (3, 3)]
+      and "17. pages" in SR.comments(_seg, "Ps", 1, _sk)[0][2])
+check("Spurgeon: one stray numbered line does not shut out the verse lines after it",
+      [v for _, _, v, _ in SR.verse_lines("3 And he shall be like a tree planted by the rivers of water\n"
+                                         "2 But his delight is in the law of the LORD; and in his law\n"
+                                         "3 And he shall be like a tree planted by the rivers of water\n", "Ps", 1, _sk)] == [2, 3])
+
 # ---- the committed files
 D = os.path.join(ROOT, "data", "commentary")
 man = json.load(open(os.path.join(D, "manifest.json"), encoding="utf-8"))
@@ -188,6 +213,13 @@ check("Clarke: a note placed in one printing only commits no citation",
       all(not r["cites"] for r in _cl if r["anchor"] == "one printing")
       and sum(r["anchor"] == "both printings" for r in _cl) > 12000)
 check("Clarke: no note cites its own verse", all(r["on"].split("-")[0] not in r["cites"] for r in _cl))
+_sp = [json.loads(x) for x in open(os.path.join(D, "spurgeon.jsonl"), encoding="utf-8")]
+check("Spurgeon: two printings, every scan pinned; every Psalm has a comment, and most are placed in both printings",
+      {f["printing"].split(":")[0] for f in srcs["spurgeon"]} == {"London", "New York"} and len(srcs["spurgeon"]) == 13
+      and all(len(f["sha256"]) == 64 for f in srcs["spurgeon"])
+      and {int(r["on"].split(".")[1]) for r in _sp} == set(range(1, 151))
+      and sum(r["anchor"] == "both printings" for r in _sp) > 1800
+      and all(not r["cites"] for r in _sp if r["anchor"] == "one printing"))
 check("Trapp: five TCP volumes, first editions 1647-60, each public domain", len(srcs["trapp"]) == 5
       and all(f["tcp_licence"] in ("CC0 1.0", "public domain (TCP availability statement)") for f in srcs["trapp"]))
 check("Calvin: the CTS footnotes are dropped, the 45 CCEL volumes pinned", len(srcs["calvin"]) == 45

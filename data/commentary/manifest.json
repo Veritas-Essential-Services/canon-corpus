@@ -2,7 +2,7 @@
  "about": "Whole-Bible commentaries keyed to KJV verse ids. pipeline/build_commentary.py; rules in pipeline/README-commentary.md",
  "rights": {
   "license": "public-domain",
-  "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85, Wesley 1755-66, Hodge 1856, Manton 1651-58 (Nisbet 1871), Calvin in the Calvin Translation Society's English 1843-55, Clarke 1810-26 (read from archive.org scans of the 1835-46 New York printings); every author and translator died before 1931. Poole's transcription is EEBO-TCP's (Phase I), CC0 1.0",
+  "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85, Wesley 1755-66, Hodge 1856, Manton 1651-58 (Nisbet 1871), Calvin in the Calvin Translation Society's English 1843-55, Clarke 1810-26 (read from archive.org scans of the 1835-46 New York printings), Spurgeon's Treasury of David 1869-85 (read from archive.org scans of the London and New York printings); every author and translator died before 1931. Poole's transcription is EEBO-TCP's (Phase I), CC0 1.0",
   "committed": "which verses each comment is on and which verses it cites; the prose stays in build/",
   "redistribute_whole": true
  },
@@ -1113,6 +1113,141 @@
       "scan": "newtestamentofou00clar",
       "url": "https://archive.org/download/newtestamentofou00clar/newtestamentofou00clar_djvu.txt",
       "sha256": "1e719f547663439a17079e35fa360e5ad3a0fe9988a2d86a8d0bdc64ec21531d"
+     }
+    ]
+   }
+  },
+  "spurgeon": {
+   "file": "data/commentary/spurgeon.jsonl",
+   "sha256": "d12b3e95aa2d3dca79ccaef69d2749af638470f2d54d907ec272a4551c76946f",
+   "rows": 2324,
+   "counts": {
+    "Psalms, London: Marshall Brothers, six volumes: comments on a group of verses": 116,
+    "Psalms, London: Marshall Brothers, six volumes: comments under a numbered head": 2197,
+    "Psalms, London: Marshall Brothers, six volumes: expositions": 171,
+    "Psalms, London: Marshall Brothers, six volumes: expositions not placed": 1,
+    "Psalms, London: Marshall Brothers, six volumes: psalms": 150,
+    "Psalms, London: Marshall Brothers, six volumes: psalms_found": 150,
+    "Psalms, London: Marshall Brothers, six volumes: verse groups with no comment of their own": 20,
+    "Psalms, New York: Funk & Wagnalls, seven volumes: comments on a group of verses": 138,
+    "Psalms, New York: Funk & Wagnalls, seven volumes: comments under a numbered head": 1916,
+    "Psalms, New York: Funk & Wagnalls, seven volumes: expositions": 164,
+    "Psalms, New York: Funk & Wagnalls, seven volumes: psalms": 150,
+    "Psalms, New York: Funk & Wagnalls, seven volumes: psalms_found": 145,
+    "Psalms, New York: Funk & Wagnalls, seven volumes: verse groups with no comment of their own": 36,
+    "citations": 132,
+    "cite names no KJV verse": 6,
+    "cite of the note's own verse, not kept": 23,
+    "cites one printing reads, not committed": 101,
+    "comments": 2324,
+    "comments placed in both printings": 1986,
+    "comments placed in one printing": 338,
+    "verses_covered": 2324
+   },
+   "explicit_citations_by_reading": null,
+   "print_check": [],
+   "treasury_check": {
+    "cites": {
+     "refs": 55,
+     "in_treasury_at_that_verse": 0.0545,
+     "in_treasury_at_an_unrelated_verse": 0.0
+    }
+   },
+   "source": {
+    "title": "The Treasury of David (the Exposition)",
+    "author": "C. H. Spurgeon (1834-1892)",
+    "edition": "archive.org OCR of two printings (London and New York)",
+    "files": [
+     {
+      "testament": "Psalms",
+      "printing": "London: Marshall Brothers, six volumes",
+      "scan": "thetreasuryofdav01spuruoft",
+      "url": "https://archive.org/download/thetreasuryofdav01spuruoft/thetreasuryofdav01spuruoft_djvu.txt",
+      "sha256": "38d558e4d70a4bf6d903114f85a49a4e82091728eca06a903aa99aa65ceed6d8"
+     },
+     {
+      "testament": "Psalms",
+      "printing": "London: Marshall Brothers, six volumes",
+      "scan": "thetreasuryofdav02spuruoft",
+      "url": "https://archive.org/download/thetreasuryofdav02spuruoft/thetreasuryofdav02spuruoft_djvu.txt",
+      "sha256": "913881bd61b061876a10a9c3ea2568c0eec1ef7e6b3b19ffb3514d9ec3fefd9b"
+     },
+     {
+      "testament": "Psalms",
+      "printing": "London: Marshall Brothers, six volumes",
+      "scan": "thetreasuryofdav03spuruoft",
+      "url": "https://archive.org/download/thetreasuryofdav03spuruoft/thetreasuryofdav03spuruoft_djvu.txt",
+      "sha256": "99e6a259c619971ee1ca4bdf8c82cc6aba378fd229a600651d7c9cae3627cb46"
+     },
+     {
+      "testament": "Psalms",
+      "printing": "London: Marshall Brothers, six volumes",
+      "scan": "treasuryofdavid04spuruoft",
+      "url": "https://archive.org/download/treasuryofdavid04spuruoft/treasuryofdavid04spuruoft_djvu.txt",
+      "sha256": "a1e2108006f8f0f2aed78681934b27fad10ab41ccde4af0b9f8746463c8472b9"
+     },
+     {
+      "testament": "Psalms",
+      "printing": "London: Marshall Brothers, six volumes",
+      "scan": "thetreasuryofdav00spuruoft",
+      "url": "https://archive.org/download/thetreasuryofdav00spuruoft/thetreasuryofdav00spuruoft_djvu.txt",
+      "sha256": "77747209b100cbbc55699dcda810797672df60d6df81e70902005c487f06f921"
+     },
+     {
+      "testament": "Psalms",
+      "printing": "London: Marshall Brothers, six volumes",
+      "scan": "treasuryofdavid06spuruoft",
+      "url": "https://archive.org/download/treasuryofdavid06spuruoft/treasuryofdavid06spuruoft_djvu.txt",
+      "sha256": "be4272ba2a15637655748f6bf06c0e20b7a75ec9deba7de1ba27b6a33f3e880f"
+     },
+     {
+      "testament": "Psalms",
+      "printing": "New York: Funk & Wagnalls, seven volumes",
+      "scan": "treasuryofdavid0001chsp",
+      "url": "https://archive.org/download/treasuryofdavid0001chsp/treasuryofdavid0001chsp_djvu.txt",
+      "sha256": "c96158a94e65d2e427d1e13afa9739f50e29e5a72d574abefa47129214b05161"
+     },
+     {
+      "testament": "Psalms",
+      "printing": "New York: Funk & Wagnalls, seven volumes",
+      "scan": "treasuryofdavidc0002spur",
+      "url": "https://archive.org/download/treasuryofdavidc0002spur/treasuryofdavidc0002spur_djvu.txt",
+      "sha256": "bed622796127c5bd9e445206bb12be8ef70541741f99c70b68ee566a3f667a9b"
+     },
+     {
+      "testament": "Psalms",
+      "printing": "New York: Funk & Wagnalls, seven volumes",
+      "scan": "treasuryofdavidc0000spur",
+      "url": "https://archive.org/download/treasuryofdavidc0000spur/treasuryofdavidc0000spur_djvu.txt",
+      "sha256": "4e1bb0d6da9eafe326f756c5e64ca476d43ddb4eeb797088848027417c4bd4d8"
+     },
+     {
+      "testament": "Psalms",
+      "printing": "New York: Funk & Wagnalls, seven volumes",
+      "scan": "treasuryofdavidv0004unse",
+      "url": "https://archive.org/download/treasuryofdavidv0004unse/treasuryofdavidv0004unse_djvu.txt",
+      "sha256": "082bf25ee943056fe0506b70a5cbdf00d9e4a4d84905733701950ee62010078f"
+     },
+     {
+      "testament": "Psalms",
+      "printing": "New York: Funk & Wagnalls, seven volumes",
+      "scan": "treasuryofdavidc0005spur",
+      "url": "https://archive.org/download/treasuryofdavidc0005spur/treasuryofdavidc0005spur_djvu.txt",
+      "sha256": "fa06a48a8b185040837e9121cc861e9389233363701d6b0bfd73428232fac0ab"
+     },
+     {
+      "testament": "Psalms",
+      "printing": "New York: Funk & Wagnalls, seven volumes",
+      "scan": "treasuryofdavidc0006spur",
+      "url": "https://archive.org/download/treasuryofdavidc0006spur/treasuryofdavidc0006spur_djvu.txt",
+      "sha256": "72b9095c9d4b0585c40522953c5a3a4bfeec3a433b39786ba7abb24542245e7f"
+     },
+     {
+      "testament": "Psalms",
+      "printing": "New York: Funk & Wagnalls, seven volumes",
+      "scan": "treasuryofdavidc0007spur",
+      "url": "https://archive.org/download/treasuryofdavidc0007spur/treasuryofdavidc0007spur_djvu.txt",
+      "sha256": "c179791fd17e58fc5e4ad5a4a06509b50bf49a94da9db4af0652c447b017cc88"
      }
     ]
    }

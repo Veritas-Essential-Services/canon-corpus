@@ -18,6 +18,7 @@ The ids are read from `data/uids/wordhoard.uids.json` and never written.
 | Thomas Manton, *James* and *Jude* (1651-58) | 122 | 132 | 5,298 | CCEL (Nisbet, 1871) |
 | John Trapp, *Commentary* (1647-60), five volumes | 14,699 | 14,662 | 34,557 (+3,776 margin) | EEBO-TCP, hand-keyed first editions |
 | Adam Clarke, *Commentary* (1810-26) | 18,129 | 18,129 | 9,100 | archive.org OCR of two printings of each Testament |
+| C. H. Spurgeon, *Treasury of David*, the Exposition (1869-85) | 2,324 | 2,324 | 132 | archive.org OCR of two printings |
 
 ```
 python3 pipeline/build_commentary.py --fetch    # CCEL's texts, Poole's TCP files, the scans' OCR, all sha256-pinned
@@ -193,6 +194,8 @@ how many at an unrelated verse, 1,000 verses on?
 | Hodge | 10.6% | 0.4% |
 | Manton | 6.2% | 0.1% |
 | Trapp, notes | 15.0% | 0.2% |
+| Clarke | 23.0% | 0.25% |
+| Spurgeon | 5.5% | 0.0% (of 55) |
 
 The check is a measure only. Nothing is kept or dropped by it. Henry's
 unrelated-verse figure is higher because his comments span whole sections.
@@ -310,11 +313,63 @@ well, because the plates are the same. The prose in
 `build/commentary/clarke.text.jsonl` is unproofread OCR of the printing
 named, and its rows say so.
 
-## 7. Not committed, not claimed
+## 7. Spurgeon's Treasury of David (`spurgeon_read.py`)
+
+CCEL's *Treasury of David* is page images only: its XML holds no text. So,
+as with Clarke, both readings come from the OCR of open archive.org scans,
+of two printings set apart:
+
+- London, Marshall Brothers, six volumes (`thetreasuryofdav01spuruoft` and
+  on);
+- New York, Funk & Wagnalls, seven volumes (`treasuryofdavid0001chsp` and
+  on).
+
+**Only the Exposition is read.** Each psalm has Spurgeon's own Exposition,
+then "Explanatory Notes and Quaint Sayings" (other writers, quoted, each
+headed "Verse 1.--"), then "Hints to the Village Preacher". The notes are
+other authors' words and are left for a later pass. An Exposition runs from
+its heading ("EXPOSITION.", "EXPOSITION,", or Psalm 119's "EXPOSITION OF
+VERSES i TO 8.") to the first notes heading, "Verse N.--" line, hints
+heading, next psalm, or next Exposition.
+
+**Where a comment is.**
+
+1. The Expositions are aligned in order to the volume's psalms by dynamic
+   programming. An Exposition scores, for a psalm, how far its printed verse
+   lines ("2 He maketh me to lie down ...") are in the KJV verses their
+   numbers name. Psalm 119 may take one Exposition per section. London places
+   all 150 psalms; New York 145 (its OCR loses the heading of Psalms 15, 96,
+   105, 130 and 144).
+2. The printed verse lines are grouped. Of the candidate lines, the chain
+   with rising numbers that scores highest is kept, so one stray numbered
+   line cannot shut out the rest.
+3. The comment after a group is on the group. Where Spurgeon numbers his
+   comments ("2. “He maketh me to lie down ...”"), each number opens a
+   comment on that verse (or "4, 5." on both). A number is read as a head
+   only when it is past every verse already commented on and not past the
+   group's last verse. So a page or footnote number is never a head.
+
+A row is written for every verse either printing places: 1,986 placed in
+both (`anchor: "both printings"`) and 338 in one.
+
+**What a comment cites.** The Exposition quotes Scripture far more than it
+cites it by chapter and verse, so citations are few. `topical_read.refs()`
+reads them with Roman chapters and "ver. 5" in the psalm. A citation is
+committed only when both printings read it on the same verse: 132 are, and
+101 are read in one printing only (`build/commentary/spurgeon.rejected.jsonl`).
+Spurgeon's citations are mostly other verses of the same psalm, which the
+Treasury of Scripture Knowledge rarely lists: hence its low Treasury figure.
+
+**What it is not.** The prose in `build/commentary/spurgeon.text.jsonl` is
+unproofread OCR of the printing named.
+
+## 8. Not committed, not claimed
 
 - **The prose.** It goes to `build/commentary/<work>.text.jsonl`, and
   `commentary.py`'s `text()` reads it there. All four are public domain;
   Poole's transcription is CC0. Committing prose is Adam's call.
 - **A comment that differs** keeps its CCEL mark (or Poole's order) as `on`.
   The `anchor` field says so.
-- **No citation comes from a scan alone.** The scans are a check.
+- **No citation comes from a scan alone.** For the CCEL and TCP works the
+  scans are a check; Clarke and Spurgeon are read from two printings, and
+  a citation needs both.

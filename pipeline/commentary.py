@@ -25,7 +25,7 @@ import tsk_read as T  # noqa: E402
 
 DATA = os.path.join(ROOT, "data", "commentary")
 BUILD = os.path.join(ROOT, "build", "commentary")
-WORKS = ("henry", "jfb", "poole", "barnes", "wesley", "calvin", "hodge", "manton", "trapp", "clarke")
+WORKS = ("henry", "jfb", "poole", "barnes", "wesley", "calvin", "hodge", "manton", "trapp", "clarke", "spurgeon")
 
 
 class Commentary:

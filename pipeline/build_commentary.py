@@ -70,6 +70,7 @@ import topical_read as R  # noqa: E402
 import tsk_read as T  # noqa: E402
 import build_topical as BT  # noqa: E402
 import clarke_read as CR  # noqa: E402
+import spurgeon_read as SR  # noqa: E402
 
 CORPUS = os.path.join(ROOT, "data", "corpus", "commentary")
 OUT = os.path.join(ROOT, "data", "commentary")
@@ -259,6 +260,35 @@ WORKS = {
             ]),
         ],
     },
+    "spurgeon": {
+        "kind": "scan",
+        "reader": "spurgeon",
+        "title": "The Treasury of David (the Exposition)",
+        "author": "C. H. Spurgeon (1834-1892)",
+        "edition": "archive.org OCR of two printings (London and New York)",
+        "files": [],
+        "scans": [],
+        # two printings; (archive.org id, sha256 of its OCR, first psalm, last psalm, unused)
+        "testaments": [
+            ("Psalms", [
+                ("London: Marshall Brothers, six volumes", [
+                    ("thetreasuryofdav01spuruoft", "38d558e4d70a4bf6d903114f85a49a4e82091728eca06a903aa99aa65ceed6d8", 1, 26, False),
+                    ("thetreasuryofdav02spuruoft", "913881bd61b061876a10a9c3ea2568c0eec1ef7e6b3b19ffb3514d9ec3fefd9b", 27, 57, False),
+                    ("thetreasuryofdav03spuruoft", "99e6a259c619971ee1ca4bdf8c82cc6aba378fd229a600651d7c9cae3627cb46", 58, 87, False),
+                    ("treasuryofdavid04spuruoft", "a1e2108006f8f0f2aed78681934b27fad10ab41ccde4af0b9f8746463c8472b9", 88, 110, False),
+                    ("thetreasuryofdav00spuruoft", "77747209b100cbbc55699dcda810797672df60d6df81e70902005c487f06f921", 111, 119, False),
+                    ("treasuryofdavid06spuruoft", "be4272ba2a15637655748f6bf06c0e20b7a75ec9deba7de1ba27b6a33f3e880f", 120, 150, False)]),
+                ("New York: Funk & Wagnalls, seven volumes", [
+                    ("treasuryofdavid0001chsp", "c96158a94e65d2e427d1e13afa9739f50e29e5a72d574abefa47129214b05161", 1, 26, False),
+                    ("treasuryofdavidc0002spur", "bed622796127c5bd9e445206bb12be8ef70541741f99c70b68ee566a3f667a9b", 27, 52, False),
+                    ("treasuryofdavidc0000spur", "4e1bb0d6da9eafe326f756c5e64ca476d43ddb4eeb797088848027417c4bd4d8", 53, 78, False),
+                    ("treasuryofdavidv0004unse", "082bf25ee943056fe0506b70a5cbdf00d9e4a4d84905733701950ee62010078f", 79, 103, False),
+                    ("treasuryofdavidc0005spur", "fa06a48a8b185040837e9121cc861e9389233363701d6b0bfd73428232fac0ab", 104, 118, False),
+                    ("treasuryofdavidc0006spur", "72b9095c9d4b0585c40522953c5a3a4bfeec3a433b39786ba7abb24542245e7f", 119, 124, False),
+                    ("treasuryofdavidc0007spur", "c179791fd17e58fc5e4ad5a4a06509b50bf49a94da9db4af0652c447b017cc88", 125, 150, False)]),
+            ]),
+        ],
+    },
 }
 
 RIGHTS = {
@@ -266,7 +296,8 @@ RIGHTS = {
     "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85, Wesley 1755-66, Hodge 1856,"
              " Manton 1651-58 (Nisbet 1871), Calvin in the"
              " Calvin Translation Society's English 1843-55, Clarke 1810-26 (read from archive.org scans of the 1835-46"
-             " New York printings); every author and translator died before 1931."
+             " New York printings), Spurgeon's Treasury of David 1869-85 (read from archive.org scans of the London"
+             " and New York printings); every author and translator died before 1931."
              " Poole's transcription is EEBO-TCP's (Phase I), CC0 1.0",
     "committed": "which verses each comment is on and which verses it cites; the prose stays in build/",
     "redistribute_whole": True,
@@ -923,15 +954,38 @@ def build_trapp_work(work, shape):
     return rows, prose, rejected, dict(sorted(counts.items())), sources, None, []
 
 
+def _scan_volume(d, t, b0, b1, bare, kjv, V, counts, label):
+    """One scanned volume's comments: [(book, chapter, verse, last verse, text, [refs])], by the work's reader."""
+    out = []
+    if d.get("reader") == "spurgeon":
+        got, vc = SR.read_volume(t, b0, b1, kjv, V.seq)
+        for k, v in vc.items():
+            counts[f"{label}: {k}"] += v
+        for (c, v), g in got.items():
+            out.append(("Ps", c, v, g["last"] if g["last"] > v else None, g["text"], SR.citations(g["text"], c)))
+        return out
+    hs, vc = CR.read_volume(t, b0, b1, kjv, V.seq, bare)
+    for k, v in vc.items():
+        counts[f"{label}: {k}"] += v
+    for i, h in enumerate(hs):
+        if not h["placed"]:
+            continue
+        b, c = h["chapter"]
+        txt, dropped = CR.note_text(t, hs, i, kjv)
+        for k, v in dropped.items():
+            counts[f"paragraphs dropped: {k}"] += v
+        out.append((b, c, h["n"], h["n2"], txt, CR.citations(txt, b, c)))
+    return out
+
+
 def build_scan_work(work, shape):
     """Clarke: both readings from scans (clarke_read.py). A note is placed in
     each of two printings of its Testament; a row is written for every verse
     either printing places, and says which (`anchor`: both printings / one
     printing). A citation is committed only when both printings read it in
     their notes on the same verse."""
-    import structure_texts as S
     d = WORKS[work]
-    kjv = CR.Kjv({u["id"]: u["text"] for u in S.convert_kjv(KJV_TXT)["units"]}, shape)
+    kjv = kjv_words(shape)
     V = T.Verses(shape)
     rows, prose, rejected, sources = [], [], [], []
     counts = collections.Counter()
@@ -944,20 +998,12 @@ def build_scan_work(work, shape):
                                 "url": f"{IA}{ident}/{ident}_djvu.txt", "sha256": want})
                 with open(scan_path(ident), encoding="utf-8", errors="replace") as f:
                     t = f.read()
-                hs, vc = CR.read_volume(t, b0, b1, kjv, V.seq, bare)
-                for k, v in vc.items():
-                    counts[f"{testament}, {label}: {k}"] += v
-                for i, h in enumerate(hs):
-                    if not h["placed"]:
-                        continue
-                    b, c = h["chapter"]
-                    txt, dropped = CR.note_text(t, hs, i, kjv)
-                    for k, v in dropped.items():
-                        counts[f"paragraphs dropped: {k}"] += v
-                    g = got.setdefault((b, c, h["n"]), {"n2": set(), "cites": [], "text": []})
-                    g["n2"].add(h["n2"])
+                for b, c, n, n2, txt, refs in _scan_volume(d, t, b0, b1, bare, kjv, V, counts, f"{testament}, {label}"):
+                    g = got.setdefault((b, c, n), {"n2": set(), "cites": [], "text": []})
+                    g["n2"].add(n2)
                     g["text"].append(txt)
-                    for r in CR.citations(txt, b, c):
+                    h = {"n": n}
+                    for r in refs:
                         rid, why = BT.kjv_id(r, shape, BT.APOCRYPHA)
                         if rid is None:
                             counts["cite apocrypha" if why == "apocrypha" else "cite names no KJV verse"] += 1
@@ -1068,7 +1114,7 @@ def build(write=True):
                      "explicit_citations_by_reading": measure, "print_check": scans,
                      "treasury_check": treasury_measure(rows, shape),
                      "source": {"title": d["title"], "author": d["author"],
-                                "edition": {"tcp": "EEBO-TCP TEI (hand-keyed from the first edition)",
+                                "edition": d.get("edition") or {"tcp": "EEBO-TCP TEI (hand-keyed from the first edition)",
                                             "tcp-verse": "EEBO-TCP TEI (hand-keyed from the first editions)",
                                             "scan": "archive.org OCR of two printings of each Testament"}.get(d.get("kind"), "CCEL ThML"),
                                 "files": sources}}

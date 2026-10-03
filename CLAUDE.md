@@ -153,7 +153,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_xrefs.py --check            # tsk.jsonl byte-identical
     python3 pipeline/xrefs.py kjv:John.1.1             # a verse's Treasury refs and its citers
     python3 tests/xrefs_test.py                        # the Treasury reader rule by rule; the committed layer
-    python3 pipeline/build_commentary.py --fetch       # CCEL Henry/JFB/Barnes/Wesley/Calvin, Poole (EEBO-TCP), Clarke + period scans, pinned
+    python3 pipeline/build_commentary.py --fetch       # CCEL Henry/JFB/Barnes/Wesley/Calvin, Poole (EEBO-TCP), Clarke + Spurgeon + period scans, pinned
     python3 pipeline/build_commentary.py               # commentary layer -> data/commentary/ + build/commentary/
     python3 pipeline/build_commentary.py --check       # byte-identical
     python3 pipeline/build_commentary.py --collate     # CCEL's wording vs 1828/1840/1873 printings -> collation.json
@@ -490,6 +490,10 @@ The living truth for project state is the Obsidian vault:
   placed by their "Verse N." heads and lemmas, chapters by alignment; a
   citation is committed only when both printings read it. The 1843/1846 OT
   share plates, so there the vote removes OCR error, not margin leakage.
+  Spurgeon's Treasury of David (Exposition only; CCEL has page images only)
+  is read the same way by pipeline/spurgeon_read.py, from the London
+  (Marshall) and New York (Funk & Wagnalls) printings: comments by
+  Spurgeon's numbered heads inside each printed verse group.
   pipeline/README-commentary.md
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
