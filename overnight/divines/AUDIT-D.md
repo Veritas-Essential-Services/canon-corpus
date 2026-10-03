@@ -291,3 +291,14 @@ All 131 shelves (835 slugs after the drop below).
   - Westervelt's *Legends of Old Honolulu* and *Hawaiian Legends of Volcanoes* share 15 paragraphs, 3% of each. The Pepper books share a handful of recap paragraphs. Bryant's *How to Tell Stories* shares 5 paragraphs with Richards's *Pig Brother*. All of these are small: mint them once.
 - **Excluded before commit** (measured): Hale's second Peterkin Papers transcription (82% both ways), Webster's second Daddy-Long-Legs transcription (58%/68%, held once as the same work), and Bryant's second Stories to Tell to Children transcription (68%/65%, held once). Webster's stage *Daddy Long-Legs* is a different work and waits on Adam (DIGEST decision 13).
 - **OCR.** Batches 16 and 17 added no Internet Archive volumes.
+
+## 9. Seventh pass (2026-10-02 night, after batch 18)
+
+All 137 shelves (890 slugs: 790 Gutenberg, 69 Internet Archive, 31 CCEL).
+
+- **Slug count corrected.** The batch 18 DIGEST commit said 892 slugs; batch 18 added 55, not 57, so the total is 890. The DIGEST is fixed.
+- **URLs.** 890 checked. Ten Gutenberg files reset on the first sweep, and all ten answered on retry. Every slug is in the map.
+- **New check: who the Gutenberg header names.** The surname test can pass a book whose shelf author only wrote its introduction, because the name appears in the text. Batch 18 caught one this way: *The Wild Heart* is by Emma-Lindsay Squier, with an introduction by Stratton-Porter. It was dropped before commit, and that shelf's `_surname` is now "stratton-porter" alone. A new script compares each Gutenberg item's header Author, Editor, Translator and Compiler lines against the shelf's `_surname`, across all 790 Gutenberg items. It flagged three: Burgess's *Sammy Jay*, Baldwin's *Story of the Golden Age* and Baring-Gould's *Grettir the Outlaw*. All three have headers that name only the illustrator, and Gutenberg's catalog and the title pages name the right author. No other book is credited to someone else.
+- **Same source held twice.** None new.
+- **Translators.** The catalog lists Spenser as an author of Jean Lang's *Stories from the Faerie Queen*. It is her prose retelling, so no translator is involved.
+- **Text held twice.** Ouida's *Bimbi* shares stories with her two other collections (Nürnberg Stove, Lampblack, Bandita, The Ambitious Rose Tree): 27% and 13% of it. Mint those once, with two witnesses. The single-story books were held once before commit, as was Garis's *Old Mother Hubbard* (97% inside *Uncle Wiggily and Mother Goose*). Garis's fourteen picture pamphlets share almost nothing with his longer books (5% at most), so they stay.
