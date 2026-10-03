@@ -1,5 +1,5 @@
 {
- "_about": "Horace in English, translator per title: John Conington (verse; Odes and Carmen Saeculare; Satires, Epistles and Art of Poetry), the 'Handy Literal Translations' prose Works (translator unnamed), Eugene and Roswell Field's Echoes from the Sabine Farm (free verse versions). Clean Gutenberg. Dryden's Horace on the Dryden shelf (lane C). Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_about": "Horace in English, translator per title: John Conington (verse; Odes and Carmen Saeculare; Satires, Epistles and Art of Poetry), the 'Handy Literal Translations' prose Works (translator unnamed), Eugene and Roswell Field's Echoes from the Sabine Farm (free verse versions). Clean Gutenberg. Dryden's Horace on the Dryden shelf (lane C). Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report. Added 2026-10-03, verse Odes as raw IA OCR: C. S. Mathews (1867), H. H. Pierce (1884) and W. H. Cudworth (privately printed, 1917).",
  "_name_words": [
   "horace",
   "horatius",
@@ -74,6 +74,21 @@
    "worksofhorace02horauoft",
    "The Works of Horace, translated into English verse, vol. II: Epodes, Secular Hymn, Satires, Epistles (Blackwood, 1881)",
    "tr. Theodore Martin"
+  ],
+  "horace-pierce-odes-1884": [
+   "odeshoracecompl00horagoog",
+   "The Odes of Horace, complete in English rhyme and blank verse (Lippincott, 1884)",
+   "tr. Henry Hubbard Pierce"
+  ],
+  "horace-mathews-odes-1867": [
+   "odesepodessecula00horauoft",
+   "Odes, Epodes, and the Secular Song, newly translated into verse (Longmans, 1867)",
+   "tr. Charles Stephens Mathews"
+  ],
+  "horace-cudworth-odes-1917": [
+   "odessecularhymn00horauoft",
+   "The Odes and Secular Hymn of Horace, Englished into rimed verse corresponding to the original meters (privately printed, 1917)",
+   "tr. Warren H. Cudworth"
   ]
  },
  "_cross_ref": {
@@ -100,7 +115,10 @@
   "horace-gladstone-1894": "W. E. Gladstone",
   "horace-bennett-loeb-odes": "Bennett",
   "horace-martin-works-1881-v1": "Theodore Martin",
-  "horace-martin-works-1881-v2": "Theodore Martin"
+  "horace-martin-works-1881-v2": "Theodore Martin",
+  "horace-pierce-odes-1884": "Henry Hubbard Pierce",
+  "horace-mathews-odes-1867": "Charles Stephens Mathews",
+  "horace-cudworth-odes-1917": "Warren H. Cudworth"
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
@@ -265,6 +283,45 @@
    "identity": "ok",
    "ia_rights": "ok: published 1881",
    "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-pierce-odes-1884": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "translator_claimed": "Henry Hubbard Pierce",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-mathews-odes-1867": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "translator_claimed": "Charles Stephens Mathews",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-cudworth-odes-1917": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "translator_claimed": "Warren H. Cudworth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
