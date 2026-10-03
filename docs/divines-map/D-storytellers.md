@@ -1349,6 +1349,14 @@ Shelf: `pipeline/crooke-rouse_shelf.json` (2026-10-02; added at the coordinator'
 |---|---|---|
 | The Talking Thrush, and Other Tales from India, collected by William Crooke, retold by W. H. D. Rouse (1899; 1922 reprint) | have | PG 30635, `crooke-talking-thrush` (1395 units) |
 
+## Natesa Sastri and Mrs. Howard Kingscote
+
+Shelf: `pipeline/natesa-sastri_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). South Indian tales. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Tales of the Sun; or, Folklore of Southern India, by Mrs. Howard Kingscote and Pandit Natesa Sastri (1890) | have | PG 37002, `sastri-tales-of-the-sun` (950 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
