@@ -7,14 +7,15 @@
  },
  "rule": {
   "skip": 0.3,
-  "back": 0.25,
+  "back": 0.35,
   "gap": 0.05,
   "jump": 0.02,
   "fix": 0.35,
   "fix_min": 0.6,
   "fix_at": 0.3,
   "lb": 0.5,
-  "short": 3
+  "short": 3,
+  "min_place": 0.1
  },
  "honesty": "The chapter of every verse is MEASURED, not printed: of 219 numbered marks, 111 were placed at a verse by pipeline/place_catena.py (90 printed verse numbers, 21 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 111 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 111 at least 30% (the others are linked as weak); 1 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-6; a kephalaion with no placed mark is one unlinked unit.",
  "placed": [

@@ -37,7 +37,12 @@ RAW = "https://raw.githubusercontent.com/PerseusDL/{repo}/master/data/{path}"
 # a critical edition, where a country grants one at all (Germany: 25 years
 # from publication, s.70 UrhG), is long expired. Taken only where the
 # sourceDesc date is before 1931.
-F1K_RAW = "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/{path}"
+# Pinned to the commit every file's sha256 was measured at (the Apostolic
+# Fathers' build pins the same one), so a later push upstream cannot change
+# what a fetch returns.
+F1K_COMMIT = "03776b39f4047c5cff06f5296fae4b2bae4b08fb"
+F1K_RAW = ("https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/"
+           + F1K_COMMIT + "/data/{path}")
 
 # slug -> (path, note)
 FIRST1K = {
@@ -321,11 +326,14 @@ FIRST1K = {
 # The text is NOT proofread: the books say so. NOT taken:
 #   - verse (Commodian; Lactantius' Phoenix and De passione; Augustine's
 #     Psalmus contra partem Donati): no prose divisions to cite;
-#   - stoa0040.stoa054.opp-lat2, filed as Augustine's De natura et gratia
-#     but from Zangemeister's 1882 volume (Orosius): mislabelled;
+#   - stoa0040.stoa054.opp-lat2: the excerpts from Augustine's De natura et
+#     gratia printed in Zangemeister's Orosius (CSEL 5, 1882), not the work
+#     itself;
 #   - Cyprian: not in csel-dev; Jerome beyond the Letters and Jeremiah, and
 #     Augustine's sermons and Psalms: not there either.
-CSEL_RAW = "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/{path}"
+CSEL_COMMIT = "2813e3a52b4206df0324299e5110e5bd0d95cee4"   # pinned as F1K_COMMIT is
+CSEL_RAW = ("https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/"
+            + CSEL_COMMIT + "/data/{path}")
 CSEL = {
     "ambrose-apologia-david-altera-lat": ("stoa0022/stoa014/stoa0022.stoa014.opp-lat1.xml",
         "Apologia Altera Prophetae David -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
@@ -356,7 +364,7 @@ CSEL = {
     "ambrose-explanatio-psalmorum-xii-lat": ("stoa0022/stoa048/stoa0022.stoa048.opp-lat1.xml",
         "Explanatio Psalmorum XII -- ed. Michael Petschenig, CSEL 64 (1919)"),
     "ambrose-expositio-lucam-lat": ("stoa0022/stoa051/stoa0022.stoa051.opp-lat1.xml",
-        "Expositio Evangelii secundum Lucan -- ed. Karl Schenkl & Henricus Schenkl, CSEL 32.4 (1902)"),
+        "Expositio Evangelii secundum Lucam -- ed. Karl Schenkl & Henricus Schenkl, CSEL 32.4 (1902)"),
     "ambrose-expositio-psalmi-118-lat": ("stoa0022/stoa052/stoa0022.stoa052.opp-lat1.xml",
         "Expositio Psalmi CXVIII -- ed. Michael Petschenig, CSEL 62 (1913)"),
     "ambrose-exameron-lat": ("stoa0022/stoa054/stoa0022.stoa054.opp-lat1.xml",
@@ -380,7 +388,7 @@ CSEL = {
     "augustine-ad-catholicos-de-secta-donatistarum-lat": ("stoa0040/stoa020/stoa0040.stoa020.opp-lat1.xml",
         "Epistula ad Catholicos de Secta Donatistarum -- ed. Michael Petschenig, CSEL 52 (1909)"),
     "augustine-contra-duas-epistulas-pelagianorum-lat": ("stoa0040/stoa021/stoa0040.stoa021.opp-lat1.xml",
-        "Contra Duas Epistulas Pelegianorum -- ed. Karl F. Urba & Joseph Zycha, CSEL 60 (1913)"),
+        "Contra Duas Epistulas Pelagianorum -- ed. Karl F. Urba & Joseph Zycha, CSEL 60 (1913)"),
     "augustine-contra-epistulam-parmeniani-lat": ("stoa0040/stoa023/stoa0040.stoa023.opp-lat1.xml",
         "Contra Epistulam Parmeniani -- ed. Michael Petschenig, CSEL 51 (1908)"),
     "augustine-contra-faustum-lat": ("stoa0040/stoa024/stoa0040.stoa024.opp-lat1.xml",
@@ -392,7 +400,7 @@ CSEL = {
     "augustine-contra-mendacium-lat": ("stoa0040/stoa029/stoa0040.stoa029.opp-lat1.xml",
         "Contra Mendacium -- ed. Joseph Zycha, CSEL 41 (1900)"),
     "augustine-contra-secundinum-lat": ("stoa0040/stoa031/stoa0040.stoa031.opp-lat1.xml",
-        "Contra Secundinem -- ed. Joseph Zycha, CSEL 25.2 (1892)"),
+        "Contra Secundinum -- ed. Joseph Zycha, CSEL 25.2 (1892)"),
     "augustine-de-agone-christiano-lat": ("stoa0040/stoa032/stoa0040.stoa032.opp-lat1.xml",
         "De agone christiano -- ed. Joseph Zycha, CSEL 41 (1900)"),
     "augustine-de-natura-et-origine-animae-lat": ("stoa0040/stoa033/stoa0040.stoa033.opp-lat1.xml",
@@ -406,15 +414,15 @@ CSEL = {
     "augustine-de-consensu-evangelistarum-lat": ("stoa0040/stoa037/stoa0040.stoa037.opp-lat1.xml",
         "De Consensu Evangelistarum -- ed. Franz Weirich, CSEL 43 (1904)"),
     "augustine-de-duabus-animabus-lat": ("stoa0040/stoa040/stoa0040.stoa040.opp-lat1.xml",
-        "Du Duabus Animabus -- ed. Joseph Zycha, CSEL 25.1 (1891)"),
+        "De Duabus Animabus -- ed. Joseph Zycha, CSEL 25.1 (1891)"),
     "augustine-de-fide-et-operibus-lat": ("stoa0040/stoa041/stoa0040.stoa041.opp-lat1.xml",
         "De Fide et Operibus -- ed. Joseph Zycha, CSEL 41 (1900)"),
     "augustine-de-genesi-ad-litteram-imperfectus-lat": ("stoa0040/stoa042/stoa0040.stoa042.opp-lat1.xml",
         "De Genesi Ad Litteram Imperfectus Liber -- ed. Joseph Zycha, CSEL 28.1 (1894)"),
     "augustine-de-gestis-pelagii-lat": ("stoa0040/stoa044/stoa0040.stoa044.opp-lat1.xml",
-        "De Gestis Pelagii -- ed. Karl F. Urba & Joseph Zycha, CSEL 42 (1904)"),
+        "De Gestis Pelagii -- ed. Karl F. Urba & Joseph Zycha, CSEL 42 (1902)"),
     "augustine-de-gratia-christi-lat": ("stoa0040/stoa046/stoa0040.stoa046.opp-lat1.xml",
-        "De Gratia Christ -- ed. Karl F. Urba & Joseph Zycha, CSEL 42 (1904)"),
+        "De Gratia Christi (Book I only) -- ed. Karl F. Urba & Joseph Zycha, CSEL 42 (1902)"),
     "augustine-de-mendacio-lat": ("stoa0040/stoa050/stoa0040.stoa050.opp-lat1.xml",
         "De Mendacio -- ed. Joseph Zycha, CSEL 41 (1900)"),
     "augustine-de-natura-boni-lat": ("stoa0040/stoa053/stoa0040.stoa053.opp-lat1.xml",
@@ -466,13 +474,13 @@ CSEL = {
     "tertullian-adversus-marcionem-lat": ("stoa0275/stoa006/stoa0275.stoa006.opp-lat2.xml",
         "Adversus Marcionem -- ed. Emil Kroymann, CSEL 47 (1906)"),
     "tertullian-adversus-praxean-lat": ("stoa0275/stoa007/stoa0275.stoa007.opp-lat2.xml",
-        "Adversus Praxean -- ed. Emil Kroymann, CSEL 47 (1900)"),
+        "Adversus Praxean -- ed. Emil Kroymann, CSEL 47 (1906)"),
     "tertullian-adversus-valentinianos-lat": ("stoa0275/stoa008/stoa0275.stoa008.opp-lat2.xml",
-        "Adversus Valentinianos -- ed. Emil Kroymann, CSEL 47 (1900)"),
+        "Adversus Valentinianos -- ed. Emil Kroymann, CSEL 47 (1906)"),
     "tertullian-de-anima-lat": ("stoa0275/stoa010/stoa0275.stoa010.opp-lat2.xml",
         "De Anima -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
     "tertullian-de-baptismo-lat": ("stoa0275/stoa011/stoa0275.stoa011.opp-lat2.xml",
-        "De Anima -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+        "De Baptismo -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
     "tertullian-de-idololatria-lat": ("stoa0275/stoa017/stoa0275.stoa017.opp-lat2.xml",
         "De idololatria -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
     "tertullian-de-ieiunio-lat": ("stoa0275/stoa018/stoa0275.stoa018.opp-lat2.xml",
@@ -480,11 +488,11 @@ CSEL = {
     "tertullian-de-oratione-lat": ("stoa0275/stoa020/stoa0275.stoa020.opp-lat2.xml",
         "De Oratione -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
     "tertullian-de-patientia-lat": ("stoa0275/stoa023/stoa0275.stoa023.opp-lat2.xml",
-        "De Patientia -- ed. Emil Kroymann, CSEL 47 (1900)"),
+        "De Patientia -- ed. Emil Kroymann, CSEL 47 (1906)"),
     "tertullian-de-pudicitia-lat": ("stoa0275/stoa025/stoa0275.stoa025.opp-lat2.xml",
         "De Pudicitia -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
     "tertullian-de-resurrectione-carnis-lat": ("stoa0275/stoa026/stoa0275.stoa026.opp-lat2.xml",
-        "De Carnis Resurrectione -- ed. Emil Kroymann, CSEL 47 (1900)"),
+        "De Carnis Resurrectione -- ed. Emil Kroymann, CSEL 47 (1906)"),
     "tertullian-de-spectaculis-lat": ("stoa0275/stoa027/stoa0275.stoa027.opp-lat2.xml",
         "De Spectaculis -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
     "tertullian-de-testimonio-animae-lat": ("stoa0275/stoa028/stoa0275.stoa028.opp-lat2.xml",
@@ -512,7 +520,7 @@ CSEL = {
     "eugippius-excerpta-augustini-lat": ("stoa0119/stoa003/stoa0119.stoa003.opp-lat1.xml",
         "Excerpta ex operibus Augustini -- ed. Pius Knöll, CSEL 9.1 (1885)"),
     "paulinus-nola-epistulae-lat": ("stoa0223/stoa002/stoa0223.stoa002.opp-lat1.xml",
-        "Epistulae -- ed. Wilhelm von Hartel, CSEL 1 (1894)"),
+        "Epistulae -- ed. Wilhelm von Hartel, CSEL 29 (1894)"),
     "sedulius-opus-paschale-lat": ("stoa0252/stoa008/stoa0252.stoa008.opp-lat1.xml",
         "Opus paschale -- ed. Johann Huemer, CSEL 10 (1885)"),
     "sulpicius-chronica-lat": ("stoa0270/stoa001/stoa0270.stoa001.opp-lat1.xml",
@@ -898,25 +906,14 @@ PERSEUS = {
         "Plutarch, Otho — B. Perrin 1926 (PD); urn ...tlg0007.tlg066.perseus-eng2"),
     # More Greek historians and a geographer, 2026-10-02. Rights line read
     # per file; all PD everywhere, long dead translators: Shuckburgh (1889,
-    # d. 1906), Whiston (1737; this printing 1856, d. 1752), Hamilton &
+    # d. 1906), Hamilton &
     # Falconer (Bohn 1854-57). Strabo is eng4, the complete Bohn version;
     # eng3 (H. L. Jones, Loeb) covers only books 6-14. NOT taken: Pausanias
-    # (W. H. S. Jones d. 1963, not yet PD in the UK).
+    # (W. H. S. Jones d. 1963, not yet PD in the UK). Josephus (Whiston) is
+    # PR #8's build_josephus.py, aligned to Niese: not here, one owner per slug.
     "polybius-histories-shuckburgh": ("canonical-greekLit",
         "tlg0543/tlg001/tlg0543.tlg001.perseus-eng2.xml",
         "Polybius, Histories — E. S. Shuckburgh 1889 (PD); urn ...tlg0543.tlg001.perseus-eng2"),
-    "josephus-antiquities-whiston": ("canonical-greekLit",
-        "tlg0526/tlg001/tlg0526.tlg001.perseus-eng2.xml",
-        "Josephus, Jewish Antiquities — William Whiston (PD); urn ...tlg0526.tlg001.perseus-eng2"),
-    "josephus-life-whiston": ("canonical-greekLit",
-        "tlg0526/tlg002/tlg0526.tlg002.perseus-eng2.xml",
-        "Josephus, Life — William Whiston (PD); urn ...tlg0526.tlg002.perseus-eng2"),
-    "josephus-against-apion-whiston": ("canonical-greekLit",
-        "tlg0526/tlg003/tlg0526.tlg003.perseus-eng2.xml",
-        "Josephus, Against Apion — William Whiston (PD); urn ...tlg0526.tlg003.perseus-eng2"),
-    "josephus-jewish-war-whiston": ("canonical-greekLit",
-        "tlg0526/tlg004/tlg0526.tlg004.perseus-eng2.xml",
-        "Josephus, The Jewish War — William Whiston (PD); urn ...tlg0526.tlg004.perseus-eng2"),
     "strabo-geography-hamilton": ("canonical-greekLit",
         "tlg0099/tlg001/tlg0099.tlg001.perseus-eng4.xml",
         "Strabo, Geography — H. C. Hamilton & W. Falconer 1854-57 (PD); urn ...tlg0099.tlg001.perseus-eng4"),

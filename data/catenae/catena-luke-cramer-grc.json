@@ -7,16 +7,17 @@
  },
  "rule": {
   "skip": 0.3,
-  "back": 0.25,
+  "back": 0.35,
   "gap": 0.05,
   "jump": 0.02,
   "fix": 0.35,
   "fix_min": 0.6,
   "fix_at": 0.3,
   "lb": 0.5,
-  "short": 3
+  "short": 3,
+  "min_place": 0.1
  },
- "honesty": "The chapter of every verse is MEASURED, not printed: of 340 numbered marks, 200 were placed at a verse by pipeline/place_catena.py (183 printed verse numbers, 17 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 119 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 163 at least 30% (the others are linked as weak); 5 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-24; a kephalaion with no placed mark is one unlinked unit.",
+ "honesty": "The chapter of every verse is MEASURED, not printed: of 340 numbered marks, 196 were placed at a verse by pipeline/place_catena.py (179 printed verse numbers, 17 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 119 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 163 at least 30% (the others are linked as weak); 5 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-24; a kephalaion with no placed mark is one unlinked unit.",
  "placed": [
   {
    "ord": 1,
@@ -1072,15 +1073,6 @@
    "score": 0.2857
   },
   {
-   "ord": 206,
-   "k": "47",
-   "n": "6",
-   "src": "lb",
-   "chapter": 13,
-   "verse": 6,
-   "score": 0.0833
-  },
-  {
    "ord": 207,
    "k": "47",
    "n": "8",
@@ -1360,15 +1352,6 @@
    "score": 0.6
   },
   {
-   "ord": 252,
-   "k": "58",
-   "n": "1",
-   "src": "lb",
-   "chapter": 17,
-   "verse": 1,
-   "score": 0.0
-  },
-  {
    "ord": 254,
    "k": "58",
    "n": "5",
@@ -1439,15 +1422,6 @@
    "chapter": 18,
    "verse": 8,
    "score": 0.6842
-  },
-  {
-   "ord": 267,
-   "k": "61",
-   "n": "12",
-   "src": "lb",
-   "chapter": 18,
-   "verse": 12,
-   "score": 0.0
   },
   {
    "ord": 268,
@@ -1556,15 +1530,6 @@
    "chapter": 20,
    "verse": 2,
    "score": 0.2778
-  },
-  {
-   "ord": 287,
-   "k": "69",
-   "n": "9",
-   "src": "lb",
-   "chapter": 20,
-   "verse": 9,
-   "score": 0.0
   },
   {
    "ord": 288,

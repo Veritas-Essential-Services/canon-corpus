@@ -25,7 +25,8 @@ comment), the larger. A path through the marks then picks, for each mark,
 either a verse or "not a verse", maximizing total score, under:
     - chapters only advance (a skipped chapter costs 0.05 each);
     - inside a chapter a verse may step back (Cramer is not strictly in
-      order), at a cost of 0.25;
+      order), at a cost of 0.35, more than a skip: a step back must be
+      earned by the lemma;
     - "not a verse" costs 0.3 -- a page-line number is skipped this way;
     - a margin number is a printed verse number, and so is a bare <lb n>
       that is not a multiple of 5, since Cramer numbers his page lines in
@@ -40,8 +41,9 @@ either a verse or "not a verse", maximizing total score, under:
     - a lemma of under three words is scored as if it had three, so two
       common words cannot make a 100% match.
 The verse text is Robinson-Pierpont 2018 (PD), the NT pilot's pinned
-source, commit 27a45ff. A placement scoring under 0.3 is kept and called
-weak in the book; the honesty field states the measured counts.
+source, commit 27a45ff. A placement scoring under 0.1 is dropped (no
+evidence, no link); one under 0.3 is kept and called weak in the book; the
+honesty field states the measured counts.
 """
 import hashlib, json, os, re, sys, unicodedata, urllib.request, csv
 
@@ -82,7 +84,11 @@ PINS = {
     "3JO": "2b19485c09429cbecc20e74a6ba3b01a10781f3c4a736c0c5f95535be6b82e77",
 }
 
-SKIP, BACK, GAP, JUMP0, FIX, FIX_MIN, FIX_AT, LB, SHORT = 0.3, 0.25, 0.05, 0.02, 0.35, 0.6, 0.3, 0.5, 3
+SKIP, BACK, GAP, JUMP0, FIX, FIX_MIN, FIX_AT, LB, SHORT = 0.3, 0.35, 0.05, 0.02, 0.35, 0.6, 0.3, 0.5, 3
+# A placement whose lemma shares under 10% of its words with the verse has no
+# evidence: it is not placed (the mark reads as unplaceable, its text stays
+# with the section before), so no KJV link stands on nothing.
+MIN_PLACE = 0.1
 BEAM = 3000
 
 
@@ -167,7 +173,7 @@ def place(marks, nt):
                                 path + ((o, c2, vv, s),))
         states = dict(sorted(new.items(), key=lambda kv: (-kv[1][0], kv[0]))[:BEAM])
     best = max(states.values(), key=lambda x: (x[0], x[1]))[1]
-    return {o: (c, vv, s) for o, c, vv, s in best}
+    return {o: (c, vv, s) for o, c, vv, s in best if s >= MIN_PLACE}
 
 
 def run(slug):
@@ -203,7 +209,8 @@ def run(slug):
     doc = {"slug": slug, "source_sha256": st.sha256(path),
            "rp2018": {"commit": BYZ_COMMIT, "file": stem + ".csv"},
            "rule": {"skip": SKIP, "back": BACK, "gap": GAP, "jump": JUMP0, "fix": FIX,
-                    "fix_min": FIX_MIN, "fix_at": FIX_AT, "lb": LB, "short": SHORT},
+                    "fix_min": FIX_MIN, "fix_at": FIX_AT, "lb": LB, "short": SHORT,
+                    "min_place": MIN_PLACE},
            "honesty": honesty, "placed": placed}
     return json.dumps(doc, ensure_ascii=False, indent=1) + "\n"
 

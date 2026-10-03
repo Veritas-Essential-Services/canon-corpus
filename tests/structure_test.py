@@ -1251,18 +1251,25 @@ _CV = _CT.split("<body>")[0] + ('<body><div type="edition" xml:lang="grc">'
        '<div type="textpart" subtype="comment" n="verse" corresp="urn:cts:greekLit:tlg0031.tlg006:7.9-7.10">'
        '<p>Ἐγὼ δὲ ἔζων.</p></div>'
        '<div type="textpart" subtype="comment" n="1" corresp="#Chrysostom"><p>Τί ἐστιν.</p></div></div>'
-       '<div type="textpart" subtype="verse" n="28" corresp="urn:cts:greekLit:tlg0031.tlg006:7.28-29">'
+       '<div type="textpart" subtype="verse" n="28" corresp="urn:cts:greekLit:tlg0031.tlg006:8.28-29">'
        '<p>Οἴδαμεν.</p></div></div></div></body></text></TEI>')
 _cvp = os.path.join(_gd, "first1k", "cv.xml")
 open(_cvp, "w", encoding="utf-8").write(_CV)
 st.CATENA_VERSES["cv"] = ("Cat. Rom.", "Rom")
 st.CORPUS = _gd
 _cvb = st.convert_catena_verses(_cvp, "cv")
+open(_cvp, "w", encoding="utf-8").write(_CV.replace("8.28-29", "7.28-29"))
+try:
+    st.convert_catena_verses(_cvp, "cv")
+    _cvbad = False
+except ValueError:
+    _cvbad = True
 del st.CATENA_VERSES["cv"]
 st.CORPUS = _saved[0]
 _cvu = {u["id"].split(":")[1]: u for u in _cvb["units"]}
-check("catena by verse: ids from the passage urn (7.9-7.10 and 7.28-29), a comment per father",
-      list(_cvu) == ["7.9-10", "7.9-10.c1", "7.28-29"] and _cvu["7.9-10.c1"]["by"] == "Chrysostom"
+check("catena by verse: an encoded verse the KJV does not have (Rom 7:28) fails loudly", _cvbad)
+check("catena by verse: ids from the passage urn (7.9-7.10 and 8.28-29), a comment per father",
+      list(_cvu) == ["7.9-10", "7.9-10.c1", "8.28-29"] and _cvu["7.9-10.c1"]["by"] == "Chrysostom"
       and [l["target"] for l in _cvu["7.9-10"]["links"]] == ["kjv:Rom.7.9", "kjv:Rom.7.10"]
       and _cvu["7.9-10"]["apparatus"]["head"] == ["ΚΕΦ."] and _cvu["7.9-10"]["text"] == "Ἐγὼ δὲ ἔζων.")
 _pc = load("place_catena")
@@ -1277,8 +1284,9 @@ check("place_catena: chapters advance; a page-line <lb> is left out; a wrong mar
 _pg2 = _pc.place([(0, "1", "1", "lb", {"αλφα", "βητα", "γαμμα"}),
                   (1, "1", "5", "lb", {"δελτα", "εψιλον", "ζητα"}),
                   (2, "2", "2", "lb", {"ουδεν", "αλλο", "τουτο"})], _nt)
-check("place_catena: a bare number not a multiple of 5 is a printed verse; a multiple of 5 must earn it",
-      _pg2 == {0: (1, 1, 1.0), 1: (1, 5, 1.0), 2: (2, 2, 0.0)})
+check("place_catena: a bare number not a multiple of 5 is a printed verse; a multiple of 5 must "
+      "earn it; one with no evidence (score under 0.1) is not placed, so links to nothing",
+      _pg2 == {0: (1, 1, 1.0), 1: (1, 5, 1.0)})
 _ct2 = st.ET.fromstring('<body xmlns="http://www.tei-c.org/ns/1.0"><div subtype="chapter" n="sup1">'
                         '<lb n="7"/><p>α</p></div><div subtype="chapter" n="1"><lb n="7"/><p>β</p>'
                         '</div></body>')
@@ -1356,6 +1364,35 @@ st.KJVA_ESTHER = _keep
 check("kjva: a segment that stops short of the KJV's passage is refused", _ok)
 check("kjva: rights public domain, with eBible's rights line",
       _ka["rights"]["license"] == "public-domain" and _ka["rights"]["rights_line"] == "Public Domain")
+
+# Review fixes, 2026-10-03
+_seen = {}
+check("catena: a second section on one verse is id + b, not an order-dependent ~2",
+      [st.catena_sid("9.20", _seen) for _ in range(3)] == ["9.20", "9.20b", "9.20c"])
+check("catena: the Byzantine Romans doxology links to the KJV's 16:25-27",
+      st.CATENA_KJV_MOVED[("Rom", 14, 24)] == (16, 25) and st.CATENA_KJV_MOVED[("Rom", 14, 26)] == (16, 27))
+check("edition date: a sourceDesc date the CSEL volume contradicts is corrected, the file's kept",
+      st.EDITION_DATE_FIX[("Emil Kroymann", "1900")] == "1906")
+import xml.etree.ElementTree as ET
+_tei31 = ET.fromstring(
+    '<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><sourceDesc><biblStruct>'
+    '<monogr><editor>X</editor><title>T</title><imprint><date>1933</date></imprint></monogr>'
+    '</biblStruct></sourceDesc></fileDesc></teiHeader><text><body/></text></TEI>')
+try:
+    st.perseus_rights(_tei31, os.path.join(st.CORPUS, "csel", "x-lat.xml"))
+    _gate = False
+except ValueError:
+    _gate = True
+check("rights: an OGL edition dated 1931 or later is refused, not labelled", _gate)
+
+# Share-alike books are not served whole until Adam rules (st.SHARE_ALIKE_WHOLE)
+import json as _json
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "books",
+                       "manifest.json"), encoding="utf-8") as _f:
+    _man = _json.load(_f)
+_sa = [e for e in _man.values() if (e.get("rights") or {}).get("license") == "CC BY-SA 4.0"]
+check("rights: every CC BY-SA book in the manifest says not to serve it whole",
+      st.SHARE_ALIKE_WHOLE is False and _sa and all(e["rights"]["redistribute_whole"] is False for e in _sa))
 
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 203 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 209 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 67 identity-layer checks
     python3 tests/latin_shelf_uid_test.py    # wave-1 Latin shelf uids (vault; skips when unreachable)
     python3 pipeline/build_versification.py --fetch    # TVTMS + WLC, pinned
@@ -117,6 +117,9 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_witnesses.py --check   # THE GATE: must mint 0
     python3 pipeline/place_catena.py --fetch # RP2018 books for the catenae, pinned
     python3 pipeline/place_catena.py --check # catena verse placements byte-identical
+    python3 pipeline/tag_fathers.py          # fathers: Strong's / Lewis & Short tags + scripture links
+    python3 pipeline/tag_fathers.py --check  # data/fathers/ byte-identical
+    python3 tests/fathers_scripture_test.py  # the editors' scripture references, read and resolved
     python3 pipeline/build_hymn_corpus.py --check # hymns JSONL: mint 0, byte-identical
     python3 tests/hymn_corpus_test.py        # validator for data/hymns/*.jsonl
     python3 pipeline/build_lemma_spine.py --fetch  # Whitaker's WORDS, pinned (D3)
@@ -135,6 +138,14 @@ The living truth for project state is the Obsidian vault:
     python3 tests/ot_corpus_test.py          # validator for data/ot/<Book>/*.jsonl
     python3 pipeline/rebuild_bible.py        # NT + OT from the pins (one git fetch each), timed, then --check
     python3 pipeline/rebuild_bible.py --verify  # same, in memory: proves = the manifests, writes nothing
+    python3 pipeline/build_strongs.py --fetch # the Strong's-tagged KJV (eBible) into data/corpus/
+    python3 pipeline/build_strongs.py        # Strong's table + proposed word uids + concordance
+    python3 pipeline/build_strongs.py --check # data/strongs byte-identical, 0 newly proposed
+    python3 tests/strongs_test.py            # the table, the proposals vs the registry, the links
+    python3 pipeline/build_latin_key.py --fetch  # Lewis & Short (Perseus TEI, CC BY-SA), pinned
+    python3 pipeline/build_latin_key.py      # L&S key <- Whitaker lemma <- every Vulgate word
+    python3 pipeline/build_latin_key.py --check  # manifest byte-identical; build/latin-key = its sha256
+    python3 tests/latin_key_test.py          # the Latin key, its links, the Vulgate concordance
     python3 pipeline/build_apostolic_fathers.py --fetch  # Lake's Greek (First1KGreek TEI, pinned) -> data/books/
     python3 pipeline/build_apostolic_fathers.py --check  # rebuild = the committed manifest entries
     python3 tests/apostolic_fathers_test.py  # the Apostolic Fathers books, rules on fixtures
@@ -203,10 +214,10 @@ The living truth for project state is the Obsidian vault:
 - Perseus PROSE (2026-10-02): Herodotus (Godley), Thucydides (Crawley),
   Xenophon's Anabasis, Hellenica (Brownson) and Cyropaedia (Miller), and
   Plutarch's Parallel Lives, all 66 pieces (Perrin), one book per Life;
-  Polybius (Shuckburgh), Josephus' four works (Whiston), Strabo (Hamilton &
-  Falconer). Where a unit is a RUN of numbered sections (Josephus: Whiston's
-  paragraphs, numbered by their first Niese section) the scheme says
-  "section (span)" -- measured from the numbering, not assumed.
+  Polybius (Shuckburgh), Strabo (Hamilton & Falconer). Where a unit is a
+  RUN of numbered sections the scheme says "section (span)" -- measured from
+  the numbering, not assumed. (Josephus in Whiston is PR #8's
+  build_josephus.py, aligned to Niese: one owner per slug.)
   Also Apollodorus (Frazer), Diogenes Laertius (Hicks), Epictetus
   (Higginson), Aeschines' three speeches (C. D. Adams).
   Latin, from canonical-latinLit: Caesar's Gallic War (McDevitte & Bohn)
@@ -293,7 +304,11 @@ The living truth for project state is the Obsidian vault:
   Romans (7-16) and Jude are verse-divided in the file, so
   convert_catena_verses (table CATENA_VERSES) READS the passage urn instead
   of measuring; Munich Romans names the father of each comment, one unit
-  each (7.9-12.c1, field `by`).
+  each (7.9-12.c1, field `by`; "of the same" takes the father before it).
+  Every link is checked against the KJV's units: the Byzantine Romans
+  doxology (14:24-26) links to the KJV's 16:25-27 (CATENA_KJV_MOVED). A
+  placement whose lemma shares under 10% of its words with the verse is
+  dropped (MIN_PLACE); a second section on one verse is id + b (9.20b).
   The LATIN fathers (2026-10-02): 82 CSEL volumes (Vienna, 1867-1922) from
   OpenGreekAndLatin/csel-dev, slug suffix `-lat`, data/corpus/csel/, table
   CSEL in fetch_sources.py, through the same prose converter (OGL in
@@ -306,7 +321,7 @@ The living truth for project state is the Obsidian vault:
   Adamnan, Eucherius, Eugippius, Paulinus of Nola's letters, Sedulius'
   Opus paschale, Sulpicius Severus. Exclusions and why are in the CSEL
   comment.
-  Tertullian's works CSEL lacks come from Perseus (Oehler, 1853-54): 14
+  Tertullian's works CSEL lacks come from Perseus (Oehler, Leipzig, 1853 or 1854 by volume, as each rights note says): 14
   books in PERSEUS, listed in TEI_ORIGINAL so the converter records the
   edition and the rights say "Latin text", never "translation".
   Exclusions and why are in the FIRST1K comment.
@@ -431,6 +446,33 @@ The living truth for project state is the Obsidian vault:
   verses where this edition breaks verses off the Clementine's (Bar 6:7: it
   prints 6:37 in that slot); empty padding
   verses in the file are dropped, never given ids.
+- pipeline/build_strongs.py — Strong's numbers (H1–H8674, G1–G5624, 1890, PD)
+  as THE key for every Hebrew and Greek word → data/strongs/ (COMMITTED): the
+  table, one PROPOSED uid per word (citation `strongs:G26`, kind lexeme; NOT
+  in data/uids/ until Adam rules, then `--adopt`), the BDB/TBESG/LSJ/Thayer
+  entries for each number (citations only), number → NT passage uids, and
+  KJV verse ids in the Vulgate/Douay/Brenton where the numbering differs.
+  🔴 The KJV's English words tagged with their numbers (eBible says PD,
+  CrossWire's conf says GPL; Adam's call) and everything built from them
+  (renderings, the kjv concordance, concordance-view.jsonl) build to
+  build/strongs/ only, sha256 in manifest.local, until he rules; removed from
+  the branch history 2026-10-02. OSHB's CC BY tags for data/ot/ build to
+  build/ only, never committed. Rules: pipeline/README-strongs.md
+- pipeline/build_latin_key.py — Lewis & Short (1879, PD; Perseus's TEI is
+  CC BY-SA 4.0) as THE key for Latin words, `lewis-short:<key>` (Perseus's
+  entry key, homographs numbered: malus1) → build/latin-key/ (gitignored;
+  only data/lemmas/latin-key/manifest.json is committed, with each file's
+  sha256. Entry keys and printed facts only, never definitions; whether even
+  that may be committed is Adam's call; removed from the branch history
+  2026-10-02). Whitaker lemmas link to L&S by spelling and
+  class (whitaker-ls.jsonl); every Vulgate word (612,029) gets its L&S key:
+  sure by form (69%), or resolved in its verse by a named context rule
+  (12.6%; idem-dem, possessive-agrees, rare-entry ... each tagged), else null
+  and listed `possible` (15.1%). A verb never links to a noun-only entry
+  (status clash: WORDS's vis "you want" is not L&S's vis "force"). Rules only remove readings (README s.4b).
+  strongs-latin.jsonl: each Strong's number's Vulgate words (G26 -> caritas,
+  dilectio), by verse co-occurrence: statistical evidence, never a reading.
+  Mints nothing. Rules: pipeline/README-latin-key.md
 - Brenton's English Septuagint (1851, PD; fetch_sources.BRENTON: eBible.org's
   USFM zip, pinned in a GitHub mirror) → convert_brenton → data/books/brenton.json
   (gitignored), 28,617 verses in the Greek's OWN numbering: Psalms by the Greek
@@ -496,6 +538,21 @@ The living truth for project state is the Obsidian vault:
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
   reads the gitignored data/books/kjv.witnesses.json (README-nt-jsonl s.13).
+- pipeline/tag_fathers.py (2026-10-02) -- every word of the fathers keyed, every
+  scripture reference in their editors' notes resolved; each tag and link
+  carries its RULE id. Greek (-grc, catenae included): Strong's number by
+  build_apostolic_fathers.tag_word's rules against data/nt (rebuild_bible.py
+  first). Latin (-lat): Lewis & Short key by build_latin_key's machinery (L&S
+  and WORDS fetched locally; the L&S data is not committed): `sure`, the
+  context rules that settled it, or null with `several` / `no-ls` / `unread`.
+  Scripture: pipeline/fathers_scripture.py reads CSEL's Latin, GCS's German,
+  Archambault's French and the English editors' notes; the OT goes through
+  the Vulgate map in a Latin book and Brenton's in a Greek one (the edition
+  family's convention, with the English numbering kept as `alt_target`), and
+  an apparatus line number is never read as a verse. Tokens are the text
+  (CC BY-SA TEI), so they and the links go to build/fathers/ (gitignored);
+  committed: data/fathers/manifest.json (counts by rule, sha256 of every
+  input book and every output).
 - pipeline/export_mnemonicon_pack.py — the hymn JSONL as Mnemonicon import
   files, one per hymn → exports/mnemonicon/ (COMMITTED; PD only, the gate
   refuses anything else). One piece per stanza, a line per clause; ids are

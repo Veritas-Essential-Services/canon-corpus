@@ -23,7 +23,7 @@ Every unit: {id, ref, text, links[]} — id is the citation hub
 
 Run:  python3 pipeline/structure_texts.py          # build all available
 """
-import os, re, json, hashlib, html, html.entities, unicodedata, copy
+import os, re, json, hashlib, html, html.entities, unicodedata, copy, collections
 import xml.etree.ElementTree as ET
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -100,7 +100,53 @@ def tei_edition(root):
           "publisher": txt(m.find(f".//{T}imprint/{T}publisher")),
           "place": txt(m.find(f".//{T}imprint/{T}pubPlace")),
           "date": txt(m.find(f".//{T}imprint/{T}date"))}
+    fix = EDITION_DATE_FIX.get((ed["editor"], ed["date"]))
+    if fix:
+        ed["date_in_file"], ed["date"] = ed["date"], fix
     return {k: v for k, v in ed.items() if v}
+
+
+# Translators of OGL translations taken, with the year each died (checked;
+# a translation needs its translator dead 70 years for life+70 countries).
+TRANSLATOR_DIED = {"James, Montague Rhodes": 1936}   # as the sourceDesc names him
+
+
+# A sourceDesc date the printed volume contradicts, by (editor, date in the
+# file): the volume's own date is used, the file's is kept as date_in_file.
+# Both are before 1931, so no rights call moves.
+EDITION_DATE_FIX = {
+    ("Emil Kroymann", "1900"): "1906",                  # CSEL 47 is 1906
+    ("Karl F. Urba & Joseph Zycha", "1904"): "1902",    # CSEL 42 is 1902
+}
+
+
+def csel_part_names(e, is_part):
+    """Unnumbered sibling parts that share a subtype (three tables of
+    chapters, one before each book) are named by the numbered part they
+    stand before, + b, c for a second and third: 2.toc, 2.tocb. A name used
+    once keeps the plain subtype, so no other book's ids move."""
+    kids = [c for c in e if is_part(c)]
+    count = collections.Counter(c.get("subtype", "?").lower() for c in kids if not c.get("n"))
+    out, seen = {}, collections.Counter()
+    for i, c in enumerate(kids):
+        sub = c.get("subtype", "?").lower()
+        if c.get("n") or count[sub] < 2:
+            continue
+        nxt = next((d.get("n") for d in kids[i + 1:] if d.get("n")), "end")
+        base = f"{nxt}.{sub}"
+        seen[base] += 1
+        out[c] = base if seen[base] == 1 else base + "abcdefghijklmnopqrstuvwxyz"[seen[base] - 1]
+    return out
+
+
+def is_translation(body):
+    """A First1KGreek file is a translation when its body holds a translation
+    div WITH text. Bonnet's Greek Acts of Philip and of Barnabas carry an
+    empty <div type="translation"/>: Greek, not a translation."""
+    T = "{http://www.tei-c.org/ns/1.0}"
+    if body is None:
+        return False
+    return any("".join(d.itertext()).strip() for d in body.findall(f"{T}div[@type='translation']"))
 
 
 def printed_by(root):
@@ -109,7 +155,7 @@ def printed_by(root):
     ed = tei_edition(root)
     T = "{http://www.tei-c.org/ns/1.0}"
     who = ed.get("editor")
-    if not who and root.find(f".//{T}body/{T}div[@type='translation']") is not None:
+    if not who and is_translation(root.find(f".//{T}body")):
         who = ed.get("author")                  # a translation: its translator
     return ", ".join(x for x in (who, ed.get("date")) if x) or "edition unnamed"
 
@@ -144,6 +190,14 @@ TEI_ORIGINAL = {
 }
 
 
+# CC BY-SA permits serving a whole book, on condition of credit and
+# share-alike; whether the house accepts that condition for what it serves is
+# Adam's ruling (pending, with the OSHB/Perseus rights question). Until he
+# rules, these books are flagged as the Apostolic Fathers' are: quote, cite
+# and link with attribution; do not serve or ship the whole.
+SHARE_ALIKE_WHOLE = False
+
+
 def perseus_rights(root, path=None, original=False):
     """The rights block every Perseus-derived book carries. The translations
     are PD; Perseus's TEI, and any modernizing of the wording it did (the
@@ -167,20 +221,32 @@ def perseus_rights(root, path=None, original=False):
         # grants one, e.g. Germany's 25 years, s.70 UrhG -- long expired);
         # the TEI is CC BY-SA.
         ed = tei_edition(root)
-        transl = body is not None and body.find(f"{T}div[@type='translation']") is not None
+        transl = is_translation(body)
         printed = ", ".join(x for x in ((ed.get("author") if transl else None),
                                          ed.get("editor"), ed.get("title"),
                                          ed.get("place"), ed.get("date")) if x)
+        # The gate, checked, not assumed: the printed edition is before 1931
+        # (US public domain), and a translator's death is looked up, not said.
+        years = [int(y) for y in re.findall(r"\b(1[5-9]\d\d|20\d\d)\b", ed.get("date", ""))]
+        if not years or max(years) >= 1931:
+            raise ValueError(f"{path}: printed edition dated {ed.get('date')!r}: "
+                             "not provably before 1931; not taken")
+        died = None
+        if transl:
+            died = TRANSLATOR_DIED.get(ed.get("author", ""))
+            if died is None or died > 1955:
+                raise ValueError(f"{path}: translator {ed.get('author')!r}: death year "
+                                 f"{died!r} not in TRANSLATOR_DIED or too recent for life+70")
         return {"license": "CC BY-SA 4.0",
                 "attribution": f"{o['house'].split(' (')[0]}, Open Greek and Latin "
                                f"({o['repo']})",
                 "source_url": f"https://github.com/{o['repo']}",
-                "redistribute_whole": True,
+                "redistribute_whole": SHARE_ALIKE_WHOLE,
                 "note": ("licence line read from this file: " + clean("".join(lic.itertext()))
                          if lic is not None else
                          "this file states no licence; the repository's licence is CC BY-SA 4.0")
                         + (f". The translation is public domain ({printed}): published "
-                           "before 1931, its translator dead more than 70 years; "
+                           f"before 1931, its translator died in {died}; "
                            if transl else
                            f". The {o['language']} text is a public-domain printed edition "
                            f"({printed}); ")
@@ -195,7 +261,7 @@ def perseus_rights(root, path=None, original=False):
         return {"license": "CC BY-SA 4.0",
                 "attribution": f"Perseus Digital Library, Tufts University (PerseusDL/{repo})",
                 "source_url": f"https://github.com/PerseusDL/{repo}",
-                "redistribute_whole": True,
+                "redistribute_whole": SHARE_ALIKE_WHOLE,
                 "note": ("licence line read from this file: " + clean("".join(lic.itertext()))
                          if lic is not None else
                          "this file states no licence; the repository's licence is CC BY-SA 4.0")
@@ -205,7 +271,7 @@ def perseus_rights(root, path=None, original=False):
     return {"license": "CC BY-SA 4.0",
             "attribution": f"Perseus Digital Library, Tufts University (PerseusDL/{repo})",
             "source_url": f"https://github.com/PerseusDL/{repo}",
-            "redistribute_whole": True,
+            "redistribute_whole": SHARE_ALIKE_WHOLE,
             "note": ("licence line read from this file: " + clean("".join(lic.itertext()))
                      if lic is not None else
                      "this file states no licence; the repository's licence is CC BY-SA 4.0")
@@ -465,10 +531,6 @@ TEI_PROSE = {
     "plutarch-galba-perrin": "Plut. Galba",
     "plutarch-otho-perrin": "Plut. Otho",
     "polybius-histories-shuckburgh": "Polyb.",
-    "josephus-antiquities-whiston": "Joseph. AJ",
-    "josephus-life-whiston": "Joseph. Vit.",
-    "josephus-against-apion-whiston": "Joseph. Ap.",
-    "josephus-jewish-war-whiston": "Joseph. BJ",
     "strabo-geography-hamilton": "Strab.",
     "apollodorus-library-frazer": "Apollod.",
     "apollodorus-epitome-frazer": "Apollod. Epit.",
@@ -1104,6 +1166,16 @@ TEI_PROSE_TITLE = {
     "ambrose-expositio-lucam-lat": "Expositio Evangelii secundum Lucam",
     "eucherius-passio-agaunensium-lat": "Passio Agaunensium Martyrum",  # titleStmt empty
     "adamnan-de-locis-sanctis-lat": "De Locis Sanctis",
+    # Geyer printed it as "S. Silviae Peregrinatio", the old misattribution;
+    # since Férotin (1903) the pilgrim is Egeria.
+    "egeria-itinerarium-lat": "Itinerarium Egeriae",
+}
+TEI_PROSE_AUTHOR = {"egeria-itinerarium-lat": "Egeria"}
+# A line added to a book's honesty where the file is not what its title says.
+TEI_PROSE_HONESTY_ADD = {
+    "augustine-de-gratia-christi-lat": (
+        "This file holds Book I only, De gratia Christi (55 sections, the ids); "
+        "Book II, De peccato originali, printed with it in CSEL 42, is not in it."),
 }
 
 
@@ -1112,9 +1184,10 @@ def convert_tei_prose(path, slug, abbrev):
     root = tei_load(path)
     title, author, transl = tei_meta(root)
     title = TEI_PROSE_TITLE.get(slug, title)
+    author = TEI_PROSE_AUTHOR.get(slug, author)
     body = root.find(f".//{T}body")
     if (not transl and ogl(path)
-            and body is not None and body.find(f"{T}div[@type='translation']") is not None):
+            and is_translation(body)):
         # First1KGreek names the translator only as the printed book's author.
         transl = tei_edition(root).get("author", "")
     tei_fix_n(body, slug)
@@ -1154,13 +1227,14 @@ def convert_tei_prose(path, slug, abbrev):
             else:
                 leaf(e, ".".join(path_ns))
             return
+        names = csel_part_names(e, is_part) if csel else {}
         for c in e:
             if is_part(c):
                 # An unnumbered part (a preface, a table of chapters): "?"
                 # in the books already built; a CSEL book names it by its
                 # subtype instead (1.preface), a citable name.
-                visit(c, path_ns + [c.get("n") or (c.get("subtype", "?").lower()
-                                                   if csel else "?")])
+                visit(c, path_ns + [c.get("n") or names.get(c) or (c.get("subtype", "?").lower()
+                                                                   if csel else "?")])
             elif any(is_part(d) for d in c.iter()):
                 visit(c, path_ns)               # a wrapper (the translation div)
             elif c.tag == T + "milestone":
@@ -1313,7 +1387,12 @@ def convert_tei_prose(path, slug, abbrev):
         honesty = (honesty.rstrip(".") + ". The text is OCR of the printed CSEL volume, "
                    "machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and "
                    "run-together words. A part the edition leaves unnumbered (a preface, "
-                   "a table of chapters) is named by what it is: 1.preface.")
+                   "a table of chapters) is named by what it is: 1.preface (several of one "
+                   "kind, by the part each stands before: 2.toc, 2.tocb); the editor's "
+                   "list of manuscript sigla, where the file has one, is its own unit, "
+                   "mss, not the author's text.")
+    if slug in TEI_PROSE_HONESTY_ADD:
+        honesty = honesty.rstrip(".") + ". " + TEI_PROSE_HONESTY_ADD[slug]
     rights = perseus_rights(root, path, original=slug in TEI_ORIGINAL)
     if slug in TEI_RIGHTS_NOTE:
         rights["note"] += " " + TEI_RIGHTS_NOTE[slug]
@@ -1470,6 +1549,15 @@ def catena_lemma(items, i):
     return ""
 
 
+def catena_sid(base, seen):
+    """A second section on the same verse (or kephalaion) is that id + b, a
+    third + c, in the order Cramer prints them: 9.20, 9.20b. Deliberate, so
+    main()'s order-dependent ~N dedupe never has to step in."""
+    seen[base] = seen.get(base, 0) + 1
+    k = seen[base]
+    return base if k == 1 else base + "abcdefghijklmnopqrstuvwxyz"[k - 1]
+
+
 def convert_catena(path, slug):
     T = TEI_NS
     abbrev, osis, _stem = CATENA[slug]
@@ -1522,15 +1610,15 @@ def convert_catena(path, slug):
             also = [int(a) for a in sec["also"] if int(a) > v]
             last = max(also) if also else None
             base = f"{ch}.{v}" + (f"-{last}" if last else "")
-            seen[base] = seen.get(base, 0) + 1
-            sid = base if seen[base] == 1 else f"{base}~{seen[base]}"
+            sid = catena_sid(base, seen)
             match = "checked" if pl["score"] >= 0.3 else "weak"
             links = [{"kind": "scripture", "target": f"kjv:{osis}.{ch}.{x}", "match": match}
                      for x in range(v, (last or v) + 1)]
             ms = {"kephalaion": pl["k"], "margin": pl["n"]}
             ref = f"{ch}:{v}" + (f"-{last}" if last else "")
         else:
-            sid, links, ms, ref = f"k{sec['k']}", [], {"kephalaion": sec["k"]}, f"κεφ. {sec['k']}"
+            sid, links, ms, ref = (catena_sid(f"k{sec['k']}", seen), [], {"kephalaion": sec["k"]},
+                                   f"κεφ. {sec['k']}")
         u = {"id": f"{slug}:{sid}", "ref": f"{abbrev} {ref}", "text": text,
              "links": links, "milestones": ms}
         if app:
@@ -1586,7 +1674,9 @@ def convert_catena(path, slug):
                                f"placed by pipeline/place_catena.py (lemma and the comments "
                                f"after it); {linked} unit(s) link to the KJV verse(s) they "
                                f"comment on ({weak} weak: the lemma shares under 30% of its "
-                               f"words with the verse). {nnotes} footnote(s) in "
+                               f"words with the verse). Where Cramer prints two sections "
+                               f"on one verse, the second is that id + b (9.20b), a third + c. "
+                               f"{nnotes} footnote(s) in "
                                f"apparatus.notes; kephalaion headings and titles in "
                                f"apparatus.head. Units with Latin-letter words (OCR residue) "
                                f"carry apparatus.latin_letters."},
@@ -1607,6 +1697,23 @@ CATENA_VERSES = {
     "catena-jude-cramer-grc": ("Cat. Jud.", "Jude"),
 }
 RE_CTS_PASSAGE = re.compile(r":(\d+)\.(\d+)(?:-(?:(\d+)\.)?(\d+))?$")  # 7.9-7.12, 15.28-29
+# Where the encoder's passage is not the KJV's verse. The Byzantine text
+# (and so Cramer's catena) prints the doxology "To him that is of power"
+# after Rom 14:23, as 14:24-26; the KJV prints it as 16:25-27. The unit id
+# keeps the encoder's citation; the link goes to the KJV's verse.
+CATENA_KJV_MOVED = {("Rom", 14, 24): (16, 25), ("Rom", 14, 25): (16, 26), ("Rom", 14, 26): (16, 27)}
+# The rubric "Τοῦ Αὐτοῦ" (of the same) is encoded as "Same": the father is
+# the one before it in the same verse.
+CATENA_BY_SAME = "Same"
+CATENA_FATHERS = {"Chrysostom", "Theodoret", "Cyril", "Gennadius", "Monachus", "Photius",
+                  "Severianus", "Oecumenius", "Isidore", "Basil", "Theodore", "Origen", "Maximus",
+                  "Nyssa", "Diodorus", "Chrysologus", "Methodius", "Clement", "Agathius",
+                  "Euthalius", "Caesarius", "Patara", "Didymus"}
+
+
+def kjv_unit_ids():
+    with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+        return {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
 
 
 def convert_catena_verses(path, slug):
@@ -1616,7 +1723,19 @@ def convert_catena_verses(path, slug):
     title, _a, _t = tei_meta(root)
     body = root.find(f".//{T}body")
     units, seen, pending_head = [], {}, []
-    nnotes = nby = 0
+    nnotes = nby = nsame = nmoved = 0
+    odd_by = collections.Counter()
+    kjv = kjv_unit_ids()
+
+    def target(ch, v):
+        nonlocal nmoved
+        c2, v2 = CATENA_KJV_MOVED.get((osis, ch, v), (ch, v))
+        nmoved += (c2, v2) != (ch, v)
+        t = f"kjv:{osis}.{c2}.{v2}"
+        if t not in kjv:
+            raise ValueError(f"{slug}: the encoder's {ch}:{v} is no KJV verse ({t}); "
+                             f"add it to CATENA_KJV_MOVED")
+        return t
 
     def passage(cr):
         m = RE_CTS_PASSAGE.search(cr or "")
@@ -1668,18 +1787,24 @@ def convert_catena_verses(path, slug):
             ch, v1, v2 = passage(c.get("corresp") or (lemma[0].get("corresp") if lemma else ""))
             base = f"{ch}.{v1}" + (f"-{v2}" if v2 != v1 else "")
             ref = f"{ch}:{v1}" + (f"-{v2}" if v2 != v1 else "")
-            links = [{"kind": "scripture", "target": f"kjv:{osis}.{ch}.{x}", "match": "encoded"}
+            links = [{"kind": "scripture", "target": target(ch, x), "match": "encoded"}
                      for x in range(v1, v2 + 1)]
             ms = {"kephalaion": k.get("n")}
             if not parts:
                 add(base, ref, c, links, ms)
                 continue
+            prev_by = None
             for x in parts:
                 if x.get("n") == "verse":
                     add(base, ref, x, links, ms)
                 else:
                     by = (x.get("corresp") or "").lstrip("#") or None
-                    nby += bool(by)
+                    if by == CATENA_BY_SAME and prev_by:
+                        by = prev_by; nsame += 1
+                    elif by and by not in CATENA_FATHERS:
+                        odd_by[by] += 1
+                    prev_by = by or prev_by
+                    nby += bool(by) and by in CATENA_FATHERS
                     add(f"{base}.c{x.get('n')}", f"{ref}, {by or 'comment ' + x.get('n')}",
                         x, links, ms, by)
     if pending_head and units:
@@ -1695,8 +1820,17 @@ def convert_catena_verses(path, slug):
                                    "names on its verse div (a CTS urn), read, not measured, and "
                                    "not checked here against the Greek NT. "
                                    + (f"{nby} comment(s) carry the father the file names (by); "
-                                      "the name is the encoder's reading of Cramer's rubric. "
+                                      "the name is the encoder's reading of Cramer's rubric"
+                                      + (f" ({nsame} \"of the same\" rubric(s) given the father "
+                                         "before them)" if nsame else "")
+                                      + (". Kept as encoded but not a father's name: "
+                                         + ", ".join(f"{k} ({v})" for k, v in sorted(odd_by.items()))
+                                         if odd_by else "") + ". "
                                       if nby else "")
+                                   + (f"{nmoved} verse(s) link to the KJV's numbering of a verse "
+                                      "the encoder numbers otherwise (the Byzantine Romans "
+                                      "doxology, 14:24-26, is the KJV's 16:25-27). "
+                                      if nmoved else "")
                                    + "The text is unproofread OCR; Latin-letter words are counted "
                                      "per unit as apparatus.latin_letters."),
                        "note": f"First1KGreek TEI of Cramer's catena, divided by verse in the "
