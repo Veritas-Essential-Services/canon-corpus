@@ -405,3 +405,6 @@
 
 ## 2026-10-02 20:34 CDT — croker: done
 - 1/1 fetched (Gutenberg 39752), 1,213 units, 1 ~2 ids.
+
+## 2026-10-02 20:34 CDT — keightley: done
+- 1/1 fetched (Gutenberg 41006), 3,358 units, 8 ~2 ids.

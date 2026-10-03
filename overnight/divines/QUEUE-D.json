@@ -849,8 +849,10 @@
     {
       "id": "keightley",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — British and Irish folklore: keightley; no minting",
-      "status": "running",
-      "started": "2026-10-02T20:31:19-05:00"
+      "status": "done",
+      "started": "2026-10-02T20:31:19-05:00",
+      "finished": "2026-10-02T20:34:15-05:00",
+      "notes": "1/1 fetched (Gutenberg 41006), 3,358 units, 8 ~2 ids."
     },
     {
       "id": "morrison",
