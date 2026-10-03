@@ -434,3 +434,9 @@
 ## 2026-10-03 02:52 CDT — Presocratics
 - New shelf presocratics: Heraclitus (G. T. W. Patrick, 1889), Empedocles in verse (W. E. Leonard, 1908)
 - Fairbanks's First Philosophers of Greece refused on OCR; Burnet not taken (a study)
+
+## 2026-10-03 02:53 CDT — Plato
+- Plato: F. J. Church, Trial and Death of Socrates (Euthyphro, Apology, Crito, Phaedo)
+- Plato: A. D. Lindsay's Republic (Everyman, 3rd ed. 1923)
+- Plato: E. M. Cope's literal Gorgias (1864) and Phaedo (1875)
+- Wright's Phaedrus, Lysis and Protagoras: the only scan found answers 404

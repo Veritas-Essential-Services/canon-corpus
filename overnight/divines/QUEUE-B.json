@@ -724,6 +724,14 @@
    "started": "2026-10-03T02:50:43-05:00",
    "finished": "2026-10-03T02:52:03-05:00",
    "notes": "OCR 0.82 and 0.79. Fairbanks 1898 refused (Greek facing, 0.73-0.77). Burnet's Early Greek Philosophy not taken (a study, not a translation)."
+  },
+  {
+   "id": "plato-church-lindsay-cope",
+   "status": "done",
+   "scope": "Plato: Church (1903 printing), Lindsay's Republic (1923), Cope's Gorgias (1864) and Phaedo (1875)",
+   "started": "2026-10-03T02:52:03-05:00",
+   "finished": "2026-10-03T02:53:45-05:00",
+   "notes": "OCR 0.88-0.95. All printings 1930 or earlier. J. Wright's Phaedrus, Lysis and Protagoras (DLI) answered 404."
   }
  ]
 }

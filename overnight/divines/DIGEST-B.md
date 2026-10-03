@@ -131,3 +131,4 @@
 - **Georgics and Eclogues (02:47):** six more (Sotheby, Edwards, Blackmore, Preston, Burghclere, Royds).
 - **Minor Latin poets (02:50):** new shelf with Calpurnius, Publilius Syrus, Cato's Distichs and Grattius.
 - **Presocratics (02:52):** new shelf; Patrick's Heraclitus and Leonard's Empedocles.
+- **Plato (02:53):** Church's Trial and Death of Socrates, Lindsay's Republic, Cope's Gorgias and Phaedo.
