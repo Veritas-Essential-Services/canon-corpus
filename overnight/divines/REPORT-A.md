@@ -277,3 +277,6 @@
 
 ## 2026-10-02 20:46 CDT — william-cunningham done
 - `pipeline/william-cunningham_shelf.json`: 5 volumes, raw IA OCR, median 98.5% (97.5-99.0%), about 8.9 MB; title pages read (Buchanan and Bannerman as editors; Historical Theology vol. 1 printed 1862, not the catalogue's 1863). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 20:52 CDT — fairbairn done
+- `pipeline/fairbairn_shelf.json`: 9 volumes, raw IA OCR, median 98.5% (95.5-99.0%), about 12 MB. The identity gate refused two scans. Revelation of Law: the Princeton scan never prints his name, so it was swapped for the Toronto scan, which does. Prophecy: the OCR reads "Faiebairk", so an `_identity_checked` reason quotes the title page. The two Typology volumes come from two Toronto libraries, both the 1864 Clark 4th edition. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

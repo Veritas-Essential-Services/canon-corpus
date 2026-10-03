@@ -1,0 +1,169 @@
+{
+ "_about": "Public-domain Patrick Fairbairn (1805-1874, Free Church of Scotland, principal of the Free Church College, Glasgow) for the Word Hoard: his own books (1849-1876): The Typology of Scripture (4th ed., 1864, 2 vols), Jonah, the Hermeneutical Manual, Prophecy, The Revelation of Law in Scripture, the Pastoral Epistles, Pastoral Theology and Ezekiel, raw Internet Archive OCR. CCEL and Gutenberg hold none of it. His translations of German commentators (Hengstenberg, Dorner, Lisco, Steiger) are other men's books and stay off. Added 2026-10-02 by lane A, round 6 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "fairbairn",
+  "patrick"
+ ],
+ "_surname": [
+  "fairbairn"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fairbairn-typology-1": [
+   "thetypologyofscr01fairuoft",
+   "The Typology of Scripture, 4th ed., vol. 1 (Edinburgh: T. & T. Clark, 1864)"
+  ],
+  "fairbairn-typology-2": [
+   "typologyscriptur02fairuoft",
+   "The Typology of Scripture, 4th ed., vol. 2 (Edinburgh: T. & T. Clark, 1864)"
+  ],
+  "fairbairn-jonah-1849": [
+   "jonahhislifecha00fairgoog",
+   "Jonah: his Life, Character and Mission (Edinburgh, 1849)"
+  ],
+  "fairbairn-hermeneutical-manual-1858": [
+   "hermeneuticalma00fair",
+   "Hermeneutical Manual, or Introduction to the Exegetical Study of the Scriptures of the New Testament (Edinburgh: T. & T. Clark, 1858)"
+  ],
+  "fairbairn-prophecy-1866": [
+   "prophecyviewedin00fair",
+   "Prophecy Viewed in Respect to its Distinctive Nature, its Special Function, and Proper Interpretation (New York: Carlton & Porter, 1866)"
+  ],
+  "fairbairn-revelation-of-law-1869": [
+   "therevelationofl00fairuoft",
+   "The Revelation of Law in Scripture (Edinburgh: T. & T. Clark, 1869)"
+  ],
+  "fairbairn-pastoral-epistles-1874": [
+   "pastoralepistles00fair",
+   "The Pastoral Epistles (Edinburgh: T. & T. Clark, 1874)"
+  ],
+  "fairbairn-pastoral-theology-1875": [
+   "pastoraltheology00fair",
+   "Pastoral Theology: a Treatise on the Office and Duties of the Christian Pastor, with a memoir by James Dodds (Edinburgh: T. & T. Clark, 1875)"
+  ],
+  "fairbairn-ezekiel-1876": [
+   "ezekielandtheboo00fairuoft",
+   "Ezekiel and the Book of his Prophecy: an Exposition (Edinburgh: T. & T. Clark, 1876)"
+  ]
+ },
+ "_alternates": {
+  "typologyscriptu0*fairgoog (1852-1859); typologyofscript01fairiala (1900)": "Other editions of the Typology.",
+  "hermeneuticalman00fair, hermeneutical00fairrich, hermeneuticalma01, 02fairgoog, hermeneuticalman0000patr (1859)": "Other scans and the American edition of the Manual.",
+  "bwb_S0-AVV-909": "Another scan of Jonah.",
+  "expositionofezek0000patr (1851); MN42052ucmf_1 (1869)": "Earlier editions of Ezekiel.",
+  "prophecyviewedi00fairgoog": "A reprint of Prophecy catalogued 1976.",
+  "revelationoflawi00fair (New York: Carter, 1869)": "Princeton scan of the American edition; its OCR never prints his name, so the identity gate refused it."
+ },
+ "_excluded": {
+  "india.history.resource.5270*; historyofthedeve00dornuoft, historydevelop*; parablesofjesuse29lisc; expositionoffirs13stei, expositionfirst00fairgoog; in.ernet.dli.2015.286246": "His translations of Hengstenberg, Dorner, Lisco and Steiger: other men's books.",
+  "bub_gb_ZMECAAAAQAAJ": "The Imperial Bible-Dictionary, many contributors.",
+  "divinerevelatio00fairgoog": "Lectures by several authors.",
+  "lettertorevphelp00fair": "A manuscript letter."
+ },
+ "_identity_checked": {
+  "fairbairn-prophecy-1866": "Library of Congress scan. Its title page reads 'By Patrick Faiebairk [OCR for Fairbairn], D.D., Principal of the Free Church College' (Carlton & Porter, 1866); the surname is misread by the OCR, not absent."
+ },
+ "_checks": {
+  "fairbairn-typology-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fairbairn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fairbairn-typology-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fairbairn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fairbairn-jonah-1849": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fairbairn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fairbairn-hermeneutical-manual-1858": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fairbairn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fairbairn-prophecy-1866": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "fairbairn-revelation-of-law-1869": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fairbairn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fairbairn-pastoral-epistles-1874": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fairbairn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fairbairn-pastoral-theology-1875": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fairbairn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fairbairn-ezekiel-1876": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "fairbairn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
