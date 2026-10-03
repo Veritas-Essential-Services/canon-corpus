@@ -337,3 +337,6 @@
 
 ## 2026-10-02 21:37 CDT — richard-hooker done
 - `pipeline/richard-hooker_shelf.json`: 1 CCEL title and Keble's 1836 Works, 3 volumes of raw IA OCR, median 95.9% (94.5-96.2%), about 5.5 MB; title pages read (Keble, MDCCCXXXVI). Vol. 1 is a Claremont scan, vols 2-3 Toronto. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:40 CDT — jeremy-taylor done
+- `pipeline/jeremy-taylor_shelf.json`: 2 CCEL titles (converted) and the Heber/Eden Whole Works, 10 volumes of raw IA OCR, median 97.3% (95.1-98.2%), about 23 MB; title pages read (Eden, MDCCCXLVII-MDCCCLIV). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

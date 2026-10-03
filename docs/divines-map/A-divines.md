@@ -1212,3 +1212,14 @@ Slugs `hooker-*`.
 | A Learned Discourse of Justification | have-clean | CCEL |
 | Works, ed. John Keble, 3 vols (Oxford, 1836): Of the Laws of Ecclesiastical Polity, sermons, tractates, Walton's Life | have-raw | IA (identifiers in the shelf) |
 | The Church Defended (CCEL) | excluded | stubs |
+
+
+## Jeremy Taylor (round 8, my pick, 2026-10-02)
+
+Slugs `jtaylor-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Rule and Exercises of Holy Living | have-clean | CCEL |
+| The Rule and Exercises of Holy Dying | have-clean | CCEL |
+| Whole Works, ed. Reginald Heber, rev. Charles Page Eden, 10 vols (London, 1847-54) | have-raw | IA (identifiers in the shelf) |
