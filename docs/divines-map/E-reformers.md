@@ -131,6 +131,7 @@ The narrative histories of the Kirk from the Reformation to the Revolution, in t
 | Sermons Delivered in Times of Persecution in Scotland, ed. Kerr (1880) | have-raw | `covenanter-sermons_shelf.json`; name check on the editor |
 | Michael Shields, Faithful Contendings Displayed, ed. Howie (1780) | have-raw | `michael-shields_shelf.json` |
 | Robert Fleming, The Fulfilling of the Scripture (Charlestown, 1806, from Foxcroft's 1743 text) | have-raw | `robert-fleming_shelf.json` |
+| Free Church Committee: Memoirs of Veitch, Hog, Henry Erskine and Carstairs (1846); Lives of Henderson and James Guthrie (1846) | have-raw | `free-church-committee_shelf.json` |
 | Patrick Walker, Six Saints of the Covenant, ed. D. Hay Fleming (2 vols, 1901) | have-raw | `patrick-walker_shelf.json` |
 | Hetherington, History of the Church of Scotland to 1843 (New York, 1856) | have-raw | `hetherington_shelf.json` |
 | John Cunningham, The Church History of Scotland, 2nd ed. (2 vols, 1882) | have-raw | `john-cunningham_shelf.json`; not lane A's William Cunningham |
