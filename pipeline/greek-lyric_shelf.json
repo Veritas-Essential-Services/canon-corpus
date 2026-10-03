@@ -35,6 +35,11 @@
    "greekanthology0000geor",
    "The Greek Anthology, as selected for the use of Westminster, Eton and other public schools, literally translated into English prose, with metrical versions by Bland, Merivale and others (Bohn, MDCCCLIV)",
    "tr. George Burges"
+  ],
+  "anacreon-fawkes-1760": [
+   "worksofanacreons00fawkuoft",
+   "The Works of Anacreon, Sappho, Bion, Moschus and Musaeus, translated from the original Greek (London: J. Newbery; the imprint date is lost in the OCR, IA gives 1760)",
+   "tr. Francis Fawkes"
   ]
  },
  "_excluded": {
@@ -58,7 +63,8 @@
   "sappho-wharton": "henry thornton wharton",
   "anacreon-moore": "Thomas Moore",
   "bacchylides-poste": "poste",
-  "greek-anthology-burges-1854": "George Burges"
+  "greek-anthology-burges-1854": "George Burges",
+  "anacreon-fawkes-1760": "Fawkes"
  },
  "_checks": {
   "greek-anthology-mackail": {
@@ -120,6 +126,20 @@
    "ia_date": "1854",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "anacreon-fawkes-1760": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "anacreon",
+   "translator_claimed": "Fawkes",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1760",
+   "ia_date": "1760",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_surname_by_slug": {
@@ -134,6 +154,9 @@
   ],
   "bacchylides-poste": [
    "bacchylides"
+  ],
+  "anacreon-fawkes-1760": [
+   "anacreon"
   ]
  }
 }
