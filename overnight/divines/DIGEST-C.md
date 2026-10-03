@@ -100,3 +100,7 @@ The coordinator re-sent the Chapman/Pope/Cowper/Butcher-Lang/Jowett/Rawlinson/No
 - **Theodore Martin:** Schiller's Wilhelm Tell (Gutenberg 6788). His Faust, Vita Nuova, Catullus and Heine are pending.
 - **Hearn:** Gautier's One of Cleopatra's Nights, and Flaubert's Temptation of St. Anthony (1910, US PD).
 - All Gutenberg headers name the translator; none is marked copyrighted. `--verify --record` is clean.
+
+## Name audit fix (2026-10-03, from Lane D's audit)
+
+Lane D found that `maude` and a bare `hearn` would also pass other authors' texts (Maude Ashurst Biggs, for one). Eleven shelves now gate on the full printed name only: maude (Aylmer/Louise Maude), hearn (Lafcadio Hearn), southey, symonds, blackie, rossetti, coleridge, garnett, griffith, nicholson, muller. Each was tested against every source on its shelf; the only three misses (southey-amadis-1, garnett-gogol-dikanka, nicholson-divani-1898) already carry `_identity_checked` overrides. All eleven re-verified and re-recorded: 0 mismatched, 0 rights flags. **Your call:** none.

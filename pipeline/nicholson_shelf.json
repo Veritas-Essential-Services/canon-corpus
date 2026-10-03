@@ -4,7 +4,9 @@
   "nicholson"
  ],
  "_surname": [
-  "nicholson"
+  "reynold a. nicholson",
+  "r. a. nicholson",
+  "alleyne nicholson"
  ],
  "ccel": {},
  "gutenberg": {
@@ -51,7 +53,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "nicholson",
+   "author_seen": "reynold a. nicholson",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Reynold Alleyne Nicholson"
@@ -91,5 +93,6 @@
    "post_1930_examined": "Examined: 'Digitized with financial assistance ... on 06 November, 2019', a scanning credit on the same OCR line as the library stamp, not an imprint. Imprint: Cambridge 1898."
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_surname_note": "2026-10-03: full printed names only, after Lane D's name audit (a bare one-word form would pass other authors of the same surname, e.g. Maude Ashurst Biggs). Tested against every source on the shelf; the only misses already carry _identity_checked overrides."
 }

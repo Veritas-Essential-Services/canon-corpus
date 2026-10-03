@@ -4,7 +4,8 @@
   "griffith"
  ],
  "_surname": [
-  "griffith"
+  "t. h. griffith",
+  "h. griffith"
  ],
  "ccel": {},
  "gutenberg": {
@@ -56,7 +57,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "griffith",
+   "author_seen": "t. h. griffith",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Ralph T. H. Griffith"
@@ -65,7 +66,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "griffith",
+   "author_seen": "t. h. griffith",
    "identity": "ok",
    "ia_rights": "ok: published 1896",
    "ia_date": "1896",
@@ -76,7 +77,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "griffith",
+   "author_seen": "t. h. griffith",
    "identity": "ok",
    "ia_rights": "ok: published 1897",
    "ia_date": "1897",
@@ -108,5 +109,6 @@
    "post_1930_years_in_front_15k": []
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_surname_note": "2026-10-03: full printed names only, after Lane D's name audit (a bare one-word form would pass other authors of the same surname, e.g. Maude Ashurst Biggs). Tested against every source on the shelf; the only misses already carry _identity_checked overrides."
 }

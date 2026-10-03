@@ -87,3 +87,5 @@
 
 ## 2026-10-03T05:42-05:00 — round 8: four shelves (symonds, blackie, theodore-martin, hearn)
 - 7 Gutenberg sources, 0 failed; 7 titles cut + 1 cross-reference (Blackie's Aeschylus → lane B aeschylus). `--verify --record`: 0 mismatched, 0 rights flags.
+
+- 2026-10-03 ~07:00 CDT: name-audit relay done. Full-name `_surname` on 11 shelves (maude, hearn, southey, symonds, blackie, rossetti, coleridge, garnett, griffith, nicholson, muller); --verify --record 0 mismatched, 0 rights flags on all.
