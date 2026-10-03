@@ -253,3 +253,6 @@
 
 ## 2026-10-02 20:24 CDT — andrew-fuller done
 - `pipeline/andrew-fuller_shelf.json`: 1 volume (1,118 page images, 10.7 MB), raw IA OCR, 98.7%. Completeness checked by counting the main titles in the text: Gospel Worthy, Calvinistic and Socinian, Sandemanianism, Genesis and Apocalypse discourses and The Backslider are all present. The 1846 date is the catalogue's; the OCR's title page carries none. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 20:26 CDT — toplady done
+- `pipeline/toplady_shelf.json`: 6 volumes, raw IA OCR, median 96.2% (95.5-97.3%), about 6.1 MB; title pages read (Baynes, 1825, vols I-VI). His hymns are printed inside the Works and stay there; splitting them out for the hymn manifest is for Adam to ask for. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

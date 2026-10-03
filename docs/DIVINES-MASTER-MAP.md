@@ -952,6 +952,15 @@ No CCEL or Gutenberg text. Raw IA OCR from a Trinity College, Toronto scan; slug
 | Complete Works with a Memoir by A. G. Fuller (London: Dyer, 1846, one volume): The Gospel Worthy of All Acceptation, the Calvinistic and Socinian Systems, Strictures on Sandemanianism, Discourses on Genesis and on the Apocalypse, The Backslider and the rest | have-raw | IA (identifier in the shelf) |
 | Philadelphia Works (1820-25, 8 vols) and later American editions | alternate | IA |
 | Memoir of Samuel Pearce; Ryland's Life of Fuller | excluded | mostly others' words |
+
+## Augustus Toplady (round 6, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `toplady-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, 6 vols (London: Baynes, 1825, with a memoir): Historic Proof of the Doctrinal Calvinism of the Church of England, sermons, essays, letters, hymns and poems | have-raw | IA (identifiers in the shelf) |
+| One-volume London editions (1837, 1844, 1857); the 1794 Works | alternate | IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 20:24 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 20:26 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -98,6 +98,7 @@ Round 5 was nearly done by 20:15 CDT. Lane A carries on with the Puritans of Nic
 | Thomas Adams | thomas-adams_shelf.json | 0 (none exists) | 3 (Works, Edinburgh: Nichol 1861-62, complete) | none | none |
 | David Clarkson | clarkson_shelf.json | 0 (none exists) | 3 (Practical Works, Edinburgh: Nichol 1864-65, complete) | none | other Clarksons; Baxter's book naming him |
 | Andrew Fuller | andrew-fuller_shelf.json | 0 (none exists) | 1 (Complete Works, London: Dyer 1846, one volume with memoir) | none | Ryland's Life; the Pearce memoirs; mission reports |
+| Augustus Toplady | toplady_shelf.json | 0 (none exists) | 6 (Works, London: Baynes 1825, complete) | none | Rock of Ages sheet music and recordings. Note: the Works carry his hymns inside the volumes; they are not split out |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
