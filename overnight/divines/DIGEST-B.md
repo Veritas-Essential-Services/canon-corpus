@@ -145,3 +145,4 @@
 - 06:33 The Greek-facing Loebs (Paton's Greek Anthology, Edmonds's Lyra Graeca, Mair's Callimachus and Oppian) score 0.53-0.74 on the 0.78 OCR bar, mostly because their Greek pages count as unclean words. Decide whether to measure only the English pages for these.
 - 06:39 Juvenal, Celsus and Longinus gap-fill (9 items) and a name-check hardening pass; nothing needs a decision.
 - Aristotle: Williams's Ethics (1869) and Taylor's 1818 vol. II added (06:43). No decision needed.
+- Aristophanes: Mitchell's vol. I and Hickie's vol. II found, so both sets are now complete (06:45). No decision needed.

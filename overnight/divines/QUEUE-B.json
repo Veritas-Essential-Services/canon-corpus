@@ -836,6 +836,14 @@
    "started": "2026-10-03T06:39:10-05:00",
    "finished": "2026-10-03T06:43:18-05:00",
    "notes": "Added Williams 1869 Ethics and Taylor 1818 vol. II. Refused Taylor 1808 Soul (OCR holds ~14k words of the volume). Skipped Chase 1847 and Jowett 1885 Politics: same translations already held."
+  },
+  {
+   "id": "aristophanes-gapfill-2",
+   "status": "done",
+   "scope": "Missing volumes of Mitchell's and Hickie's Aristophanes",
+   "started": "2026-10-03T06:43:18-05:00",
+   "finished": "2026-10-03T06:45:42-05:00",
+   "notes": "Both found as Google scans on IA: Mitchell vol. I (1820), Hickie vol. II (1853)."
   }
  ]
 }

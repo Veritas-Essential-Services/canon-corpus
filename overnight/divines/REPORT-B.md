@@ -515,3 +515,7 @@
 - Thomas Taylor, Rhetoric, Poetic and Nicomachean Ethics vol. II (1818), 0.91
 - Refused: Taylor's Treatises on the Soul (1808), OCR truncated
 - Not refetched: Chase 1847 Ethics, Jowett 1885 Politics (texts already held)
+
+## 2026-10-03 06:45 CDT — Aristophanes gap-fill (2)
+- Thomas Mitchell, Comedies vol. I (1820), 0.90; completes his set
+- W. J. Hickie, Bohn vol. II (1853), 0.83; completes his set (IA misdates it 1822)
