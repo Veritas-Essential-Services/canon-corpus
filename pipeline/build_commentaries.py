@@ -3519,8 +3519,9 @@ MEYER = {
     "meyer-galatians": _meyer(
         "criticalexeget09meye", "411892e95302cbb1f492cbdffd0de25bcf2963465966c4dc6fb4153346dc707c",
         "Critical and Exegetical Handbook to the Epistle to the Galatians", "Meyer, Gal.",
-        f"{_MEY}: the Epistle to the Galatians, tr. from the fifth German edition (the translator's line is "
-        "illegible in the scan's OCR) (MDCCCLXXIII: 1873), as its title page reads", 1873,
+        f"{_MEY}: the Epistle to the Galatians, tr. from the fifth German edition by "
+        "\"Mr. Venables\", as the editor's preface names him (the title page's translator line is illegible "
+        "in the scan's OCR) (MDCCCLXXIII: 1873), as its title page reads", 1873,
         "Princeton Theological Seminary Library", (13, 383), [("Gal", 39, 382)], "1873",
         ia_rights="NOT_IN_COPYRIGHT",
         scan_choice="criticalexeget09meye (1873): Greek 6.3%, known 40.0%; the Funk & Wagnalls issue (1884: "

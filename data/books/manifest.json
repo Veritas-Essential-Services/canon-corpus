@@ -28562,7 +28562,7 @@
    },
    "scripture_links": {
     "read": 1049,
-    "resolved": 868,
+    "resolved": 867,
     "ranges": 12,
     "ranges_start_only": 0
    },
@@ -28574,7 +28574,7 @@
     "mixed_script_tokens": 160
    }
   },
-  "built_sha256": "9f46851915d351a62cefb85868fbadf6c405427c62cbdc79050ac3423be89ed7"
+  "built_sha256": "3339009e94a539fd882ad4963c621210dc405b21426840f684bcedaf2dd95e9c"
  },
  "lightfoot-colossians": {
   "title": "St Paul's Epistles to the Colossians and to Philemon",
@@ -28622,8 +28622,8 @@
     }
    },
    "scripture_links": {
-    "read": 2117,
-    "resolved": 1924,
+    "read": 2116,
+    "resolved": 1923,
     "ranges": 52,
     "ranges_start_only": 0
    },
@@ -28635,7 +28635,7 @@
     "mixed_script_tokens": 43
    }
   },
-  "built_sha256": "73711ea462fa57fd8f002bb86ba5c85f5d78ed1455e5c1099391454b46c7c1a6"
+  "built_sha256": "7d75acb54de65ea1bcafc5b034e5cf2b837b750d80fecb522e74f267597bcd0b"
  },
  "westcott-hebrews": {
   "title": "The Epistle to the Hebrews",
@@ -29380,7 +29380,7 @@
     }
    },
    "scripture_links": {
-    "read": 8981,
+    "read": 8982,
     "resolved": 7712,
     "ranges": 157,
     "ranges_start_only": 3
@@ -29397,7 +29397,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "08984924adfcce2e3f51c80f68b5ec5acd6ad0b0caee6b18cbc7ebea2dcaaf17"
+  "built_sha256": "bfed4faaae29af89b511ee4ef12e97e6d959302b66c0afaec063a8bab51081b3"
  },
  "alford-commentary-3": {
   "title": "The Greek Testament, vol. III",
@@ -29498,8 +29498,8 @@
     }
    },
    "scripture_links": {
-    "read": 8364,
-    "resolved": 7128,
+    "read": 8367,
+    "resolved": 7129,
     "ranges": 101,
     "ranges_start_only": 7
    },
@@ -29515,7 +29515,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "463e0cf8e01e06cff9e85264fcf6665eeec2e5fcb659643873e536d8f0cbd9f8"
+  "built_sha256": "210ad678a9783f13f30d8cd17f1872f3afd1714d998befcff33a2fa669367cdf"
  },
  "alford-commentary-4": {
   "title": "The Greek Testament, vol. IV",
@@ -29603,7 +29603,7 @@
    },
    "scripture_links": {
     "read": 9611,
-    "resolved": 8086,
+    "resolved": 8085,
     "ranges": 168,
     "ranges_start_only": 3
    },
@@ -29619,7 +29619,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "5e03bdd2ef5f0993435cc0f716f86194461de18dab3b7fc620fd2e0e17821192"
+  "built_sha256": "3c5a9af272b9b9ff294a5c21741365f1a334e70054f3c9284219f63460803c4b"
  },
  "bengel-gnomon-2": {
   "title": "Gnomon of the New Testament, vol. II",
@@ -29858,7 +29858,7 @@
     }
    },
    "scripture_links": {
-    "read": 3932,
+    "read": 3933,
     "resolved": 3651,
     "ranges": 38,
     "ranges_start_only": 2
@@ -29875,7 +29875,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "8a5a0af59ada5c35896f398554b28aacf51eed3294360b2df6860521f8f980ad"
+  "built_sha256": "fcd713c0326eabb65b02420e51e0cb30d700182f4b58784e7264daf7087afa28"
  },
  "keil-delitzsch-pentateuch-1": {
   "title": "Biblical Commentary on the Old Testament: The Pentateuch, vol. I",
@@ -31514,7 +31514,7 @@
    },
    "scripture_links": {
     "read": 4188,
-    "resolved": 3686,
+    "resolved": 3685,
     "ranges": 94,
     "ranges_start_only": 1
    },
@@ -31530,7 +31530,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "535f1c2684ebf8c4c8ae331296af9c3cd3fc4f2a2a4a48c5e584de62d67dd774"
+  "built_sha256": "f6a0026b5370e2eab3ff0e77c42caafd886bba70f7e55d5875fa60d48923102a"
  },
  "meyer-romans": {
   "title": "Critical and Exegetical Hand-book to the Epistle to the Romans",
@@ -31583,8 +31583,8 @@
     }
    },
    "scripture_links": {
-    "read": 4972,
-    "resolved": 4364,
+    "read": 4975,
+    "resolved": 4365,
     "ranges": 145,
     "ranges_start_only": 5
    },
@@ -31600,7 +31600,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "a62e14096262b6c198767af1a38b90df81d0682b8f943bec1f6219f3818254f2"
+  "built_sha256": "7c2be49f62de2a93cb1e3d976e3e773a769da04e3ec76da4747c85a05e6bf68a"
  },
  "keil-delitzsch-joshua-judges-ruth": {
   "title": "Biblical Commentary on the Old Testament: Joshua, Judges, Ruth",
@@ -34039,7 +34039,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "924a14450c2967572ef1cf06365c40415391d2ac045b53d83ca12454b5d3a12a"
+  "built_sha256": "b342943649a33b70c2df9d9ae3f95896e53309f8d039113d6e68368fb51ea062"
  },
  "meyer-corinthians-2": {
   "title": "Critical and Exegetical Handbook to the Epistles to the Corinthians, vol. II",
@@ -34102,7 +34102,7 @@
    },
    "scripture_links": {
     "read": 3434,
-    "resolved": 3012,
+    "resolved": 3011,
     "ranges": 76,
     "ranges_start_only": 0
    },
@@ -34118,7 +34118,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "77fc41f201dbed609cd2d1ae9a872a59600a8c74d2f22869e2d60c040eaf4c02"
+  "built_sha256": "5358dcbd2136c4dad21242b8863000762914853a3a4479d417dd9bdcf61c53de"
  },
  "meyer-galatians": {
   "title": "Critical and Exegetical Handbook to the Epistle to the Galatians",
@@ -34132,7 +34132,7 @@
    "honesty": "notes keyed by verse where the OCR'd page lets them be: the exegesis (Meyer's, or Huther's or Lünemann's in the volumes they wrote for his series) opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by the 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied; a heading whose number would skip a chapter the running heads print is read as that chapter: chapter_headings_skip_refused), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro (where a verse's readings take a paragraph of their own, as in Huther, the critical notes run on until the exegesis starts again from a lower verse: critical_paragraphs_by_verse), a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
    "status": "draft",
    "scan_choice": "criticalexeget09meye (1873): Greek 6.3%, known 40.0%; the Funk & Wagnalls issue (1884: criticalexegetic09meye, criticalexegetic0000hein_g2k4, criticalexegetic0000unse_b7h8): 0.0%",
-   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Epistle to the Galatians, tr. from the fifth German edition (the translator's line is illegible in the scan's OCR) (MDCCCLXXIII: 1873), as its title page reads; scan leaves 13-383 of criticalexeget09meye"
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Epistle to the Galatians, tr. from the fifth German edition by \"Mr. Venables\", as the editor's preface names him (the title page's translator line is illegible in the scan's OCR) (MDCCCLXXIII: 1873), as its title page reads; scan leaves 13-383 of criticalexeget09meye"
   },
   "rights": {
    "license": "public domain in the US (printed 1873); the scan and its OCR are the Internet Archive's",
@@ -34186,7 +34186,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "e71c8e19e3c684a8e4d280876b5037fd80cbfb074c456a3cf34492a50c08112e"
+  "built_sha256": "0639ee6a5c4461b1076cd77d5e2abaff634dbd208c626561a7e0c342002c6224"
  },
  "meyer-ephesians-philemon": {
   "title": "Critical and Exegetical Handbook to the Epistles to the Ephesians and to Philemon",
@@ -34240,8 +34240,8 @@
     }
    },
    "scripture_links": {
-    "read": 2638,
-    "resolved": 2381,
+    "read": 2639,
+    "resolved": 2382,
     "ranges": 52,
     "ranges_start_only": 0
    },
@@ -34257,7 +34257,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "0981cac96b148e1b51d2eb1d8c237aaf0b0248fcd31a36cb93cbd83b6c1e9260"
+  "built_sha256": "2e7046845065335f0193de924c6cb801a0240b44851020996ca5f6b7b3fa818c"
  },
  "meyer-philippians-colossians": {
   "title": "Critical and Exegetical Handbook to the Epistles to the Philippians and Colossians",
@@ -34544,8 +34544,8 @@
     }
    },
    "scripture_links": {
-    "read": 2143,
-    "resolved": 1881,
+    "read": 2145,
+    "resolved": 1883,
     "ranges": 34,
     "ranges_start_only": 1
    },
@@ -34561,7 +34561,7 @@
     "hebrew_share_of_letters": 0.0
    }
   },
-  "built_sha256": "c65ee67e78f847d215b3b4dc7eed5059d432ff652973b650a13d4fbc09eeaf61"
+  "built_sha256": "3abfd29be1d6e2edb84282708208facd48ed2ce7f7f3c392663f0717ce76c3b7"
  },
  "huther-peter-jude": {
   "title": "Critical and Exegetical Handbook to the General Epistles of Peter and Jude",
