@@ -509,3 +509,9 @@
 - celsus: Collier 1831, Lee vol. I 1831
 - longinus: Dublin graduate 1821, Spurdens 1836, Oxford M.A. 1841, Stebbing 1867
 - Name checks: common-word surnames (king, smart, green) now checked as the printed full name or marked unchecked
+
+## 2026-10-03 06:43 CDT — Aristotle gap-fill (2)
+- Robert Williams, Nicomachean Ethics (1869), 0.94
+- Thomas Taylor, Rhetoric, Poetic and Nicomachean Ethics vol. II (1818), 0.91
+- Refused: Taylor's Treatises on the Soul (1808), OCR truncated
+- Not refetched: Chase 1847 Ethics, Jowett 1885 Politics (texts already held)

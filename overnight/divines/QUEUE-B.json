@@ -828,6 +828,14 @@
    "started": "2026-10-03T06:33:47-05:00",
    "finished": "2026-10-03T06:39:10-05:00",
    "notes": "Juvenal: Edward Owen 1786 (2nd ed.), William Smart 1829, W. Wallace 1848. Celsus: G. F. Collier 1831, Alexander Lee vol. I 1831 (Underwood 1830 refused at 0.69-0.70). Longinus: the Dublin graduate's literal translation 1821 (the 1832 New York reprint skipped as the same text), Spurdens 1836, the Oxford M.A.'s 1841, Stebbing 1867. Name checks: a translator check that passes on a common English word (king, smart, green) proves nothing, so C. W. King, William Smart and J. M. King now check on the full-name phrase the title page prints, and W. C. Green moved to _translator_unchecked. Refused or skipped: Brewster's Persius 1751 (0.76), Sheridan's Persius 1728 (0.77), Drummond's Persius (already held)."
+  },
+  {
+   "id": "aristotle-gapfill-2",
+   "status": "done",
+   "scope": "Older single-work Aristotle translations not yet held",
+   "started": "2026-10-03T06:39:10-05:00",
+   "finished": "2026-10-03T06:43:18-05:00",
+   "notes": "Added Williams 1869 Ethics and Taylor 1818 vol. II. Refused Taylor 1808 Soul (OCR holds ~14k words of the volume). Skipped Chase 1847 and Jowett 1885 Politics: same translations already held."
   }
  ]
 }
