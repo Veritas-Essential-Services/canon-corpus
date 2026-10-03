@@ -354,3 +354,14 @@ Owen, Goodwin, Sibbes, Manton, Perkins, Preston, Burroughs, Brooks, Watson and t
 | Christopher Love, Grace (1652), The Christians Directory (1653), Heavens Glory, Hells Terror (1658) | have-raw | `christopher-love_shelf.json` |
 | Cartwright, A Confutation of the Rhemists Translation (1618) | have-raw | `thomas-cartwright_shelf.json`; Colossians (1612) and Revelation (1622) left over disputed attribution |
 | Caryl, Exposition of Job | gap | only community uploads of unknown origin on the Internet Archive |
+
+## Particular Baptists and the Calvinist evangelicals
+
+Bunyan, Gill, Andrew Fuller, Spurgeon, Toplady, Romaine and Hervey are on lane A's shelves.
+
+| Work | Status | Where |
+|---|---|---|
+| Abraham Booth, The Reign of Grace (New York, with Chalmers's essay), Glad Tidings to Perishing Sinners (1797), Paedobaptism Examined (3 vols, 1829) | have-raw | `abraham-booth_shelf.json` |
+| Benjamin Keach, An Exposition of the Parables (1858) | have-raw | `benjamin-keach_shelf.json`; Tropologia and Travels of True Godliness pending |
+| Tobias Crisp, Christ Alone Exalted, with Gill's notes (7th ed., 1832), vol. II | have-raw | `tobias-crisp_shelf.json`; vol. I pending on an archive server error |
+| Robert Hawker of Plymouth, Works, ed. Williams (10 vols, 1831) | have-raw | `robert-hawker_shelf.json`; the Poor Man's Commentary is published separately |

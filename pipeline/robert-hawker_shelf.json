@@ -1,0 +1,175 @@
+{
+ "_about": "Robert Hawker (1753-1827), Calvinist vicar of Charles, Plymouth: Works, with a memoir by John Williams (London: Ebenezer Palmer, 1831, 10 vols), his sermons (beginning with those on the divinity of Christ), Scripture extracts, treatises and tracts. The Poor Man's Commentary and the Morning and Evening Portions are not in this set. (Not Robert Stephen Hawker of Morwenstow, the poet.) Princeton copies. Volume numbers read off each title page. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "robert hawker",
+  "dr. hawker",
+  "dr hawker",
+  "r. hawker"
+ ],
+ "_surname": [
+  "robert hawker",
+  "dr. hawker",
+  "dr hawker",
+  "r. hawker"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hawker-works-1": [
+   "worksofrevrobert01hawk",
+   "The Works of the Rev. Robert Hawker, with a memoir by John Williams (London: Ebenezer Palmer, 1831), vol. I"
+  ],
+  "hawker-works-2": [
+   "worksofrevrobert02hawk",
+   "The Works of the Rev. Robert Hawker, with a memoir by John Williams (London: Ebenezer Palmer, 1831), vol. II"
+  ],
+  "hawker-works-3": [
+   "worksofrevrobert03hawk",
+   "The Works of the Rev. Robert Hawker, with a memoir by John Williams (London: Ebenezer Palmer, 1831), vol. III"
+  ],
+  "hawker-works-4": [
+   "worksofrevrobert04hawk",
+   "The Works of the Rev. Robert Hawker, with a memoir by John Williams (London: Ebenezer Palmer, 1831), vol. IV"
+  ],
+  "hawker-works-5": [
+   "worksofrevrobert05hawk",
+   "The Works of the Rev. Robert Hawker, with a memoir by John Williams (London: Ebenezer Palmer, 1831), vol. V"
+  ],
+  "hawker-works-6": [
+   "worksofrevrobert06hawk",
+   "The Works of the Rev. Robert Hawker, with a memoir by John Williams (London: Ebenezer Palmer, 1831), vol. VI"
+  ],
+  "hawker-works-7": [
+   "worksofrevrobert07hawk",
+   "The Works of the Rev. Robert Hawker, with a memoir by John Williams (London: Ebenezer Palmer, 1831), vol. VII"
+  ],
+  "hawker-works-8": [
+   "worksofrevrobert08hawk",
+   "The Works of the Rev. Robert Hawker, with a memoir by John Williams (London: Ebenezer Palmer, 1831), vol. VIII"
+  ],
+  "hawker-works-9": [
+   "worksofrevrobert09hawk",
+   "The Works of the Rev. Robert Hawker, with a memoir by John Williams (London: Ebenezer Palmer, 1831), vol. IX"
+  ],
+  "hawker-works-10": [
+   "worksofrevrobert10hawk",
+   "The Works of the Rev. Robert Hawker, with a memoir by John Williams (London: Ebenezer Palmer, 1831), vol. X"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "Poor Man's Commentary; Poor Man's Morning and Evening Portions": "Published separately from the Works; not yet title-checked."
+ },
+ "_checks": {
+  "hawker-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert hawker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hawker-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert hawker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hawker-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert hawker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hawker-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert hawker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hawker-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert hawker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hawker-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert hawker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hawker-works-7": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert hawker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hawker-works-8": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert hawker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hawker-works-9": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert hawker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hawker-works-10": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert hawker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

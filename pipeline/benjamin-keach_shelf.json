@@ -1,0 +1,46 @@
+{
+ "_about": "Benjamin Keach (1640-1704), Particular Baptist pastor at Horsleydown, Southwark, and a framer of the 1689 Confession: An Exposition of the Parables and Express Similitudes of our Lord and Saviour Jesus Christ, in four books (London: Aylott, 1858). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "benjamin keach",
+  "benj. keach",
+  "b. keach",
+  "mr. keach",
+  "keach"
+ ],
+ "_surname": [
+  "benjamin keach",
+  "benj. keach",
+  "b. keach",
+  "mr. keach",
+  "keach"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "keach-parables-1858": [
+   "expositionofpara00keac",
+   "An Exposition of the Parables and Express Similitudes of our Lord and Saviour Jesus Christ (London: Aylott, 1858)"
+  ]
+ },
+ "_alternates": {
+  "gtropologaakeyt00keacgoog (1858), MN41603ucmf_0 (1856, microfilm)": "Tropologia, a Key to Open Scripture Metaphors (with Thomas Delaune); not yet title-checked volume by volume."
+ },
+ "_pending": {
+  "travelsoftrueg00keac (The Travels of True Godliness, 1831)": "Internet Archive returned HTTP 500 for its text on 2026-10-03.",
+  "MN40248ucmf_4 (The Baptist Catechism, 1851)": "Microfilm; not yet read."
+ },
+ "_excluded": {},
+ "_checks": {
+  "keach-parables-1858": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "benjamin keach",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
