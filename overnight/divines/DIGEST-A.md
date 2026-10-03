@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 20:06 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 20:09 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -85,6 +85,7 @@ Round 4 was done by 17:19 CDT. Lane A carries on with more Puritan, Scottish and
 | Octavius Winslow | octavius-winslow_shelf.json | 0 (none exists) | 15 books (1838-1869: Personal Declension, Work of the Holy Spirit, the Atonement, Glory of the Redeemer, Precious Things of God and more) | none | uploads without provenance; modern reprints; memorials of others |
 | B. B. Warfield | warfield_shelf.json | 0 (none exists) | 19 lifetime books (1886-1921: Textual Criticism, Two Studies, Lord of Glory, Plan of Salvation, Counterfeit Miracles and more) | none | the posthumous Oxford Works (lending scans; the later volumes fail the rights gate); modern reprints; books by others with his preface |
 | James Henley Thornwell | thornwell_shelf.json | 0 (none exists) | Collected Writings (4 vols, 1871-73), Discourses on Truth (1855), Arguments of Romanists (1845) | none | his pamphlets defending slavery and secession; single sermons reprinted in the Writings; Palmer's Life. **Veto flag:** he was a leading clerical defender of slavery, and vol. 4 (Ecclesiastical) carries much of that material (the word "slave" about 370 times). Keep, drop the shelf, or drop vol. 4: your call |
+| Robert Lewis Dabney | dabney_shelf.json | 0 (none exists) | Systematic Theology (1878), Sacred Rhetoric (1870), Sensualistic Philosophy (1875), Christian Sabbath (1882), Christ Our Penal Substitute (1898), Discussions (4 vols, 1890-97) | none | A Defence of Virginia (on Gutenberg too); political tracts; the Stonewall Jackson biography and war memorials. **Veto flag:** he defended slavery and, after the war, white supremacy; Discussions vol. 4 (Secular) carries much of that (the word "slave" about 190 times). Keep, drop the shelf, or drop vol. 4: your call |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

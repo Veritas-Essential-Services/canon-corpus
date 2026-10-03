@@ -450,10 +450,12 @@
     },
     {
       "id": "dabney",
-      "status": "todo",
+      "status": "done",
       "scope": "R. L. Dabney: works (d. 1898)",
       "added": "2026-10-02T17:35:36-05:00",
-      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)"
+      "added_by": "lane A worker, round 5 (round 4 done with time left; the relay said to keep adding Divines until the stop time; Adam may veto in the digest)",
+      "finished": "2026-10-02T20:09:21-05:00",
+      "notes": "9 IA; veto flag"
     },
     {
       "id": "samuel-davies",

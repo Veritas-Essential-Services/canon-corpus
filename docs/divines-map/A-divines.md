@@ -890,3 +890,14 @@ No CCEL or Gutenberg text. Raw IA OCR from Princeton and Library of Congress sca
 | Discourses on Truth (1855); The Arguments of Romanists (1845) | have-raw | IA |
 | Pamphlets on slavery and secession (1850-1862) | excluded | for Adam's call |
 | Palmer, Life and Letters (1875) | excluded | biography by another author |
+
+## Robert Lewis Dabney (round 5, my pick, 2026-10-02)
+
+No CCEL text; Gutenberg holds only A Defence of Virginia, which is excluded. Raw IA OCR, mostly Princeton scans; slugs `dabney-*`. He defended slavery and, after the war, white supremacy; the shelf waits on Adam's veto (DIGEST-A).
+
+| Work | Status | Where |
+|---|---|---|
+| Syllabus and Notes of Systematic and Polemic Theology, 2nd ed. (1878); Sacred Rhetoric (1870); The Sensualistic Philosophy (1875); The Christian Sabbath (1882); Christ Our Penal Substitute (1898) | have-raw | IA (identifiers in the shelf) |
+| Discussions, vol. 1 Theological and Evangelical (1890), vol. 2 Evangelical (1891), vol. 3 Philosophical (1892), vol. 4 Secular (1897) | have-raw | IA |
+| A Defence of Virginia (1867); political tracts | excluded | for Adam's call |
+| Life of Stonewall Jackson; war memorials | excluded | military biography |
