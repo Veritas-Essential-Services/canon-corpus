@@ -4104,6 +4104,14 @@ Shelf: `pipeline/grace-james_shelf.json` (2026-10-02; added at the coordinator's
 |---|---|---|
 | Japanese Fairy Tales, retold by Grace James | have | PG 35853, `grace-james-japanese-fairy-tales` (1870 units) |
 
+## William Elliot Griffis
+
+Shelf: `pipeline/griffis_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Japanese wonder-tales retold, cut by his own Contents. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Japanese Fairy World: Stories from the Wonder-Lore of Japan (1880) | have | PG 29337, `griffis-japanese-fairy-world` (741 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

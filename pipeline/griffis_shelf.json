@@ -1,0 +1,22 @@
+{
+ "_about": "William Elliot Griffis's (1843-1928) Japanese Fairy World: Stories from the Wonder-Lore of Japan (1880), retold in his own English. Clean Gutenberg text; public domain. His histories of Japan are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "William Elliot Griffis",
+ "_name_words": [
+  "japanese",
+  "fairy",
+  "world",
+  "wonder"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "griffis-japanese-fairy-world": [
+   29337,
+   "Japanese Fairy World: Stories from the Wonder-Lore of Japan (1880)",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {}
+}

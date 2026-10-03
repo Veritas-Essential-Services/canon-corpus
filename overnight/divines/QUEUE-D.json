@@ -547,7 +547,9 @@
     {
       "id": "griffis",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — world folk tales: griffis; world folk-tale batch; no minting",
-      "status": "running"
+      "status": "done",
+      "finished": "2026-10-02T19:50:15-05:00",
+      "notes": "1/1 fetched (Gutenberg 29337), 741 units, 0 ~2 ids."
     },
     {
       "id": "dayrell",
