@@ -2418,6 +2418,7 @@ Shelf: `pipeline/epictetus_shelf.json`. Complete in Long (1877), Matheson (1916)
 | Fragments | George Long | `epictetus-perseus-long-fragments` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Fragments | Thomas Wentworth Higginson | `epictetus-perseus-higginson-fragments` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Encheiridion, or Manual | George Long | `epictetus-perseus-long-the-encheiridion-or-manual` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
+| Epictetus his Morals, with Simplicius his Comment, made English from the Greek, fifth edition corrected, with the Life of Epictetus from Boileau (London: Ward, Knapton and others, M.DCC.XLI) | George Stanhope | `epictetus-stanhope-simplicius-1741` | have-raw (IA `bim_eighteenth-century_epictetus-his-morals-wi_epictetus_1741`) |
 
 Pending (wishlist): Oldfather's Loeb (1925-28).
 
@@ -3077,6 +3078,7 @@ Shelf: `pipeline/pythagoreans_shelf.json`. Taylor (Gutenberg).
 |---|---|---|---|
 | Ocellus Lucanus on the Nature of the Universe | Thomas Taylor | `ocellus-taylor` | have (PG 75391) |
 | Political Fragments of Archytas, Charondas, Zaleucus and other ancient Pythagoreans, preserved by Stobaeus; and Ethical Fragments of Hierocles (London: for the translator, 1822) | Thomas Taylor | `pythagoreans-taylor-political-fragments-1822` | have-raw (IA `politicalfragmen00taylrich`) |
+| Sallust on the Gods and the World; Pythagoric Sentences of Demophilus (1793) | Thomas Taylor (attributed; not named in the book) | `sallustius-demophilus-taylor-1793` | have-raw (IA `sallustongodsan00pythgoog`) |
 
 ## Sextus Empiricus
 
@@ -3777,7 +3779,17 @@ Shelf: `pipeline/hermetica_shelf.json`. New shelf 2026-10-03: Chambers's transla
 | Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis, being a translation of the extant sermons and fragments of the Trismegistic literature, vol. II: Sermons (London and Benares: Theosophical Publishing Society, 1906) | G. R. S. Mead | `hermetica-mead-1906-v2` | have-raw (IA `thricegreatesthe02hermuoft`) |
 | Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis, being a translation of the extant sermons and fragments of the Trismegistic literature, vol. III: Excerpts and Fragments (London and Benares: Theosophical Publishing Society, 1906) | G. R. S. Mead | `hermetica-mead-1906-v3` | have-raw (IA `thricegreatesthe03hermuoft`) |
 
-Pending (wishlist): Walter Scott's Hermetica, vols. I-III (1924-26, US public domain by date; Greek and Latin text facing); not yet looked for.
+Excluded: Walter Scott's Hermetica (1924): the one translation volume prints the Greek and Latin facing and reads below the OCR bar; vols. II-III are commentary.
+
+## Orphic Hymns
+
+Shelf: `pipeline/orphica_shelf.json`. New shelf 2026-10-03: Taylor's Mystical Initiations (1787), first edition.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Mystical Initiations; or, Hymns of Orpheus, translated from the original Greek, with a preliminary dissertation on the life and theology of Orpheus (London: printed for the author, 1787) | Thomas Taylor | `orphica-taylor-hymns-1787` | have-raw (IA `b28775430`) |
+
+Excluded: Taylor's later editions (1792, 1824, Dobell's 1896 reprint, the last mis-dated 1824 by IA as mysticalhymnsor00taylgoog) repeat the same translation; not fetched.
 
 ## Perseus census (overflow)
 

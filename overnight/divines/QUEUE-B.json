@@ -596,6 +596,14 @@
    "started": "2026-10-03T01:57:43-05:00",
    "finished": "2026-10-03T02:04:04-05:00",
    "notes": "D'Ooge's IA record has no date; the title page (Macmillan, 1926) is the evidence, in _rights_checked. A Spelman Dionysius re-add was caught as already held and reverted before commit."
+  },
+  {
+   "id": "taylor-platonists",
+   "status": "done",
+   "scope": "Stanhope's Epictetus with Simplicius; Taylor's Sallustius and Demophilus; Taylor's Orphic Hymns (new shelf)",
+   "started": "2026-10-03T02:04:04-05:00",
+   "finished": "2026-10-03T02:10:58-05:00",
+   "notes": "Refused for OCR: Taylor's Two Orations of Julian (0.696), the 1896 Alciphron (0.50, 0.32), Walter Scott's Hermetica vol. I (0.761, Greek facing)."
   }
  ]
 }

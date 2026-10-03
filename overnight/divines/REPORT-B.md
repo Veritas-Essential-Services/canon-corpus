@@ -358,3 +358,9 @@
 - Nicomachus: D'Ooge's Introduction to Arithmetic with Robbins and Karpinski's studies (University of Michigan Studies; Macmillan, 1926), on the greek-mechanics-astronomy shelf; date from the title page, IA records none
 - Hermetica: new shelf. John David Chambers's translation from the Greek (T. & T. Clark, 1882); Everard's Divine Pymander (1650) in Redway's 1884 reprint with Hargrave Jennings's introduction; G. R. S. Mead's Thrice-Greatest Hermes, all three volumes (1906)
 - Gellius: a stale 'Beloe vol. 2 pending' note closed; vol. 2 was already held
+
+## 2026-10-03 02:10 CDT — Epictetus (Stanhope), Sallustius (Taylor), Orphic Hymns (Taylor)
+- Epictetus: Stanhope's Epictetus his Morals with Simplicius his Comment, fifth edition (1741)
+- Pythagoreans: Taylor's Sallust on the Gods and the World with Demophilus's Pythagoric Sentences (Jeffery; IA 1793); the book names no translator, so none is claimed
+- Orphica: new shelf, Taylor's Mystical Initiations; or, Hymns of Orpheus (1787, first edition); IA's mysticalhymnsor00taylgoog, catalogued 1824, is Dobell's 1896 reprint
+- Refused for OCR: Taylor's Two Orations of Julian (1793), the 1896 Alciphron, Scott's Hermetica vol. I
