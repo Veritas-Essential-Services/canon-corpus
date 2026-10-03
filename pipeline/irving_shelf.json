@@ -1,0 +1,98 @@
+{
+ "_about": "Washington Irving's legends and tales: The Sketch-Book (Rip Van Winkle, The Legend of Sleepy Hollow; undated in the text), Tales of a Traveller (undated in the text), The Alhambra (the revised edition, Fulton Edition, Century Co., 1910) and Legends of the Conquest of Spain (London: John Murray, MDCCCXXXVI on its title page; its preface sits in the front matter). His histories and biographies are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Washington Irving",
+ "_name_words": [
+  "irving"
+ ],
+ "_surname": [
+  "washington irving"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "irving-sketch-book": [
+   2048,
+   "The Sketch-Book of Geoffrey Crayon"
+  ],
+  "irving-tales-of-a-traveller": [
+   13514,
+   "Tales of a Traveller"
+  ],
+  "irving-alhambra": [
+   49947,
+   "The Alhambra",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE\\ TO\\ THE\\ REVISED\\ EDITION|CONTENTS|THE\\ JOURNEY|PALACE\\ OF\\ THE\\ ALHAMBRA|IMPORTANT\\ NEGOTIATIONS|INHABITANTS\\ OF\\ THE\\ ALHAMBRA|THE\\ HALL\\ OF\\ AMBASSADORS|THE\\ JESUITS’\\ LIBRARY|ALHAMAR,\\ THE\\ FOUNDER\\ OF\\ THE\\ ALHAMBRA|YUSEF\\ ABUL\\ HAGIG|THE\\ MYSTERIOUS\\ CHAMBERS|PANORAMA\\ FROM\\ THE\\ TOWER\\ OF\\ COMARES|THE\\ TRUANT|THE\\ BALCONY|THE\\ ADVENTURE\\ OF\\ THE\\ MASON|THE\\ COURT\\ OF\\ LIONS|THE\\ ABENCERRAGES|MEMENTOS\\ OF\\ BOABDIL|PUBLIC\\ FÊTES\\ OF\\ GRANADA|LOCAL\\ TRADITIONS|THE\\ HOUSE\\ OF\\ THE\\ WEATHERCOCK|LEGEND\\ OF\\ THE\\ ARABIAN\\ ASTROLOGER|VISITORS\\ TO\\ THE\\ ALHAMBRA|RELICS\\ AND\\ GENEALOGIES|THE\\ GENERALIFE|LEGEND\\ OF\\ PRINCE\\ AHMED\\ AL\\ KAMEL|A\\ RAMBLE\\ AMONG\\ THE\\ HILLS|LEGEND\\ OF\\ THE\\ MOOR’S\\ LEGACY|THE\\ TOWER\\ OF\\ LAS\\ INFANTAS|LEGEND\\ OF\\ THE\\ THREE\\ BEAUTIFUL\\ PRINCESSES|LEGEND\\ OF\\ THE\\ ROSE\\ OF\\ THE\\ ALHAMBRA|THE\\ VETERAN|THE\\ GOVERNOR\\ AND\\ THE\\ NOTARY|GOVERNOR\\ MANCO\\ AND\\ THE\\ SOLDIER|A\\ FÊTE\\ IN\\ THE\\ ALHAMBRA|LEGEND\\ OF\\ THE\\ TWO\\ DISCREET\\ STATUES|THE\\ CRUSADE\\ OF\\ THE\\ GRAND\\ MASTER\\ OF\\ ALCÁNTARA|SPANISH\\ ROMANCE|LEGEND\\ OF\\ DON\\ MUNIO\\ SANCHO\\ DE\\ HINOJOSA|POETS\\ AND\\ POETRY\\ OF\\ MOSLEM\\ ANDALUS|AN\\ EXPEDITION\\ IN\\ QUEST\\ OF\\ A\\ DIPLOMA|THE\\ LEGEND\\ OF\\ THE\\ ENCHANTED\\ SOLDIER|THE\\ AUTHOR’S\\ FAREWELL\\ TO\\ GRANADA)$"
+     },
+     {
+      "re": "(?:THE AUTHOR SUCCEEDS TO THE THRONE OF BOABDIL|THE FINISHER OF THE ALHAMBRA|OR, THE PILGRIM OF LOVE)$"
+     }
+    ],
+    "start": "PREFACE TO THE REVISED EDITION$",
+    "front": true
+   }
+  ],
+  "irving-legends-of-the-conquest-of-spain": [
+   77685,
+   "Legends of the Conquest of Spain",
+   {
+    "levels": [
+     {
+      "re": "(?:(?:THE )?LEGEND OF (?:DON RODERICK|THE SUBJUGATION OF SPAIN|COUNT JULIAN AND HIS FAMILY)|ILLUSTRATIONS OF THE FOREGOING LEGEND|NOTE TO THE PRECEDING LEGEND)\\.(?:\\[\\d+\\])?$",
+      "strip": "\\[\\d+\\]|^THE "
+     },
+     {
+      "re": "(?:CHAPTER [IVX]+|FOOTNOTES|THE TOMB OF RODERICK|THE CAVE OF HERCULES)\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "THE LEGEND OF DON RODERICK\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "irving-alhambra-pennell": "PG 49872, the Alhambra with Pennell's illustrations (1896); 66% of its long paragraphs are in PG 49947; held once as the same work",
+  "irving-sketch-book-parts": "PG 41 (The Legend of Sleepy Hollow), 60976 and 64636 (Rip Van Winkle), and 1850, 20656, 64092 and 52361 (Irving's Christmas chapters): illustrated separate printings of pieces in The Sketch-Book, matched by title; 35-82% of their long paragraphs match PG 2048 at the start of the paragraph (not checked further). Held once inside the Sketch-Book."
+ },
+ "_checks": {
+  "irving-sketch-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-tales-of-a-traveller": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-alhambra": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "irving-legends-of-the-conquest-of-spain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "washington irving",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
