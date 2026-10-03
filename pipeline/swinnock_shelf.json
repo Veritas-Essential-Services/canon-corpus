@@ -1,0 +1,97 @@
+{
+ "_about": "Public-domain George Swinnock (1627-1673, Puritan minister ejected in 1662) for the Word Hoard: the Works (Edinburgh: James Nichol, 1868, 5 vols, Nichol's Series of Standard Divines), raw Internet Archive OCR from Princeton scans. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 6 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "swinnock",
+  "george"
+ ],
+ "_surname": [
+  "swinnock"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "swinnock-works-1": [
+   "worksofgeorgeswi01swin",
+   "The Works of George Swinnock, vol. 1 (Edinburgh: Nichol, 1868)"
+  ],
+  "swinnock-works-2": [
+   "worksofgeorgeswi02swin",
+   "The Works of George Swinnock, vol. 2 (Edinburgh: Nichol, 1868)"
+  ],
+  "swinnock-works-3": [
+   "worksofgeorgeswi03swin",
+   "The Works of George Swinnock, vol. 3 (Edinburgh: Nichol, 1868)"
+  ],
+  "swinnock-works-4": [
+   "worksofgeorgeswi04swin",
+   "The Works of George Swinnock, vol. 4 (Edinburgh: Nichol, 1868)"
+  ],
+  "swinnock-works-5": [
+   "worksofgeorgeswi05swin",
+   "The Works of George Swinnock, vol. 5 (Edinburgh: Nichol, 1868)"
+  ]
+ },
+ "_alternates": {
+  "worksofswinnock03swinuoft": "Toronto scan of vol. 3.",
+  "bim_early-english-books-1641-1700_*swinnock* (EEBO, 1659-1679)": "First editions of the treatises the Nichol Works collect."
+ },
+ "_excluded": {},
+ "_checks": {
+  "swinnock-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "swinnock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "swinnock-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "swinnock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swinnock-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "swinnock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swinnock-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "swinnock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swinnock-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "swinnock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

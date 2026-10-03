@@ -241,3 +241,6 @@
 ## 2026-10-02 20:17 CDT — samuel-davies done
 - `pipeline/samuel-davies_shelf.json`: 3 volumes, raw IA OCR, median 98.1%, about 4.3 MB. First built from the 1864 Philadelphia edition; its vol. 1 text returned HTTP 500 four times, so the shelf moved whole to the 1845 Carter edition rather than mix editions (title pages read: Barnes, Carter, 1845, vols I-III). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
 - Round 6 queued (15 Divines, my picks, for Adam's veto): Swinnock, Thomas Adams, Clarkson, Andrew Fuller, Toplady, Romaine, Ambrose, Charles Bridges, Simeon, Robert Haldane, James Buchanan, William Cunningham, Fairbairn, John Angell James, William Jay. The scratchpad CCEL search was patched for CCEL's current author-page links; none of these has a CCEL text under the slugs tried.
+
+## 2026-10-02 20:19 CDT — swinnock done
+- `pipeline/swinnock_shelf.json`: 5 volumes, raw IA OCR, median 98.6% (97.9-98.8%), about 7.6 MB; title pages read (Nichol, vols I-V). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted. Built with a new scratchpad helper, `mkshelf.py`, that writes a shelf from a short spec.

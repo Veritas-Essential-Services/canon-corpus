@@ -911,3 +911,12 @@ No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `sdavies-*`.
 | Sermons on Important Subjects, 3 vols (New York: Carter, 1845, with an essay by Albert Barnes) | have-raw | IA (identifiers in the shelf) |
 | The Philadelphia edition (c1864, 3 vols) | alternate | its vol. 1 text file returned server errors |
 | Letters from the Rev. Samuel Davies and others (1761) | excluded | short pamphlet, not his alone |
+
+## George Swinnock (round 6, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `swinnock-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, 5 vols (Edinburgh: Nichol, 1868): The Christian Man's Calling, The Door of Salvation Opened, Heaven and Hell Epitomized, The Incomparableness of God, The Fading of the Flesh and the rest | have-raw | IA (identifiers in the shelf) |
+| First editions, 1659-1679 | alternate | IA (EEBO) |
