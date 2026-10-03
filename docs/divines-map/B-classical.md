@@ -48,13 +48,18 @@ Shelf: `pipeline/plato_shelf.json`. Jowett, *The Dialogues of Plato*, 3rd ed. (O
 | The Works of Plato, a new and literal version, vol. 4: Philebus, Hippias Minor, Rivals, Charmides, Ion, Hipparchus, Laches, Alcibiades I-II, Minos, Menexenus, Clitopho, Hippias Major, Theages, Epistles (Bohn, 1851) | George Burges | `plato-bohn-v4` | have-raw (IA `b29340986_0004`) |
 | The Works of Plato, a new and literal version, vol. 5: The Laws (Bohn, 1852) | George Burges | `plato-bohn-v5` | have-raw (IA `worksofplatonew05platiala`) |
 | The Works of Plato, a new and literal version, vol. 6: the doubtful works, with lives and introductions (Bohn, 1854) | George Burges | `plato-bohn-v6` | have-raw (IA `worksofplatonewl06platiala`) |
+| The Works of Plato, viz. his Fifty-Five Dialogues and Twelve Epistles, vol. 1 (London, 1804) | Thomas Taylor (nine dialogues by Floyer Sydenham) | `plato-taylor-1804-v1` | have-raw (IA `vol1worksofplato00plat`) |
+| The Works of Plato, viz. his Fifty-Five Dialogues and Twelve Epistles, vol. 2 (London, 1804) | Thomas Taylor (nine dialogues by Floyer Sydenham) | `plato-taylor-1804-v2` | have-raw (IA `vol2worksofplato00plat`) |
+| The Works of Plato, viz. his Fifty-Five Dialogues and Twelve Epistles, vol. 3 (London, 1804) | Thomas Taylor (nine dialogues by Floyer Sydenham) | `plato-taylor-1804-v3` | have-raw (IA `vol3worksofplato00plat`) |
+| The Works of Plato, viz. his Fifty-Five Dialogues and Twelve Epistles, vol. 4 (London, 1804) | Thomas Taylor (nine dialogues by Floyer Sydenham) | `plato-taylor-1804-v4` | have-raw (IA `vol4worksofplato00plat`) |
+| The Works of Plato, viz. his Fifty-Five Dialogues and Twelve Epistles, vol. 5 (London, 1804) | Thomas Taylor (nine dialogues by Floyer Sydenham) | `plato-taylor-1804-v5` | have-raw (IA `vol5worksofplato00plat`) |
 
 Pending (wishlist):
 
 - Held now (2026-10-02): the complete Bohn *Works of Plato* (Cary, Davis, Burges, 6 vols., 1848-54), which carries the dialogues Jowett left out (Greater Hippias, Hipparchus, Minos, Rivals, Theages, Clitophon, Epinomis, the Epistles, Definitions and the other doubtful works). Vols. 1-2 are clean from Gutenberg as well. Whether a second translator belongs on this shelf or its own is still Adam's call; moving the rows is cheap.
 - The Republic, Jowett's separate 3rd ed. with marginal analysis and index (PG 55201): an alternate witness of the Republic.
 - The Dialogues of Plato, 1892, vol. 2 as a clean Gutenberg transcription (PG 76464, 2025): the other four volumes are not on Gutenberg yet; when they are, that is the cleanest collected edition.
-- Shelley's Symposium and Ion; Thomas Taylor's complete Plato (1804): PD, other translators, not fetched.
+- Shelley's Symposium and Ion: PD, not fetched. Thomas Taylor's complete Plato (1804, with Sydenham's nine dialogues) is held above, 5 vols.
 - Perseus serves 36 English Plato texts (Loeb: Fowler, Lamb, Shorey, Bury); alternate witnesses, see `docs/perseus-census.md`.
 
 Excluded: PG 150 (duplicate Republic, shorter introduction), PG 19840 (Euthyphro; serves a 404), PG 29441 (an index page), PG 13726 (Cary, not Jowett).
