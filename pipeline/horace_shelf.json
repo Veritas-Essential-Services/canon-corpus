@@ -38,6 +38,11 @@
    "workshorace00smargoog",
    "The Works of Horace, translated literally into English prose (new edition revised by T. A. Buckley; Harper, 1869)",
    "tr. Christopher Smart, revised by Theodore Alois Buckley"
+  ],
+  "horace-lonsdale-lee-1874": [
+   "worksofhoraceren00hora",
+   "The Works of Horace rendered into English Prose (Globe Edition; Macmillan, 1874)",
+   "tr. James Lonsdale and Samuel Lee"
   ]
  },
  "_cross_ref": {
@@ -45,7 +50,8 @@
  },
  "_excluded": {
   "C. E. Bennett and H. R. Fairclough, Loebs (1912-26)": "Fairclough's Satires/Epistles now held (IA); Bennett's Odes and Epodes (1914): no scan with a text layer found; pending",
-  "Christopher Smart's prose Horace (1756)": "PD; the only scans (IA bim_eighteenth-century_the-works-of-horace-tra_horace_1756_1/_2) are ECCO OCR at 0.74-0.76 clean words. Refused for OCR quality on 2026-10-02, retaken that evening without new evidence and withdrawn again on review. Smart's text is held in Buckley's 1869 revision; wanted only from a cleaner scan"
+  "Christopher Smart's prose Horace (1756)": "PD; the only scans (IA bim_eighteenth-century_the-works-of-horace-tra_horace_1756_1/_2) are ECCO OCR at 0.74-0.76 clean words. Refused for OCR quality on 2026-10-02, retaken that evening without new evidence and withdrawn again on review. Smart's text is held in Buckley's 1869 revision; wanted only from a cleaner scan",
+  "Philip Francis's verse Horace (1743/1746)": "PD; the IA scans found read at 0.61-0.64 clean words. Refused for OCR quality on 2026-10-02; wanted only from a cleaner scan"
  },
  "_surname": [
   "horace",
@@ -56,7 +62,8 @@
   "horace-conington-satires-epistles": "John Conington",
   "horace-field-sabine-farm": "Roswell Martin Field",
   "horace-fairclough-satires-epistles": "H. Rushton Fairclough",
-  "horace-smart-buckley-1869": "C. Smart"
+  "horace-smart-buckley-1869": "C. Smart",
+  "horace-lonsdale-lee-1874": "James Lonsdale"
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')"
@@ -131,6 +138,19 @@
    "ia_rights": "ok: published 1869",
    "ia_date": "1869",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-lonsdale-lee-1874": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horace",
+   "translator_claimed": "James Lonsdale",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
   }
  },
