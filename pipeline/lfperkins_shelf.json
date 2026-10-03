@@ -1,0 +1,125 @@
+{
+ "_about": "Lucy Fitch Perkins's (1865-1937) Twins series, children's stories of other lands and times. Clean Gutenberg text; Gutenberg cleared each as US public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto). Renamed 2026-10-03 from perkins_shelf.json, which is Lane A's William Perkins shelf and had been overwritten by mistake.",
+ "_author": "Lucy Fitch Perkins",
+ "_name_words": [
+  "perkins"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lfperkins-japanese-twins": [
+   3496,
+   "The Japanese Twins"
+  ],
+  "lfperkins-swiss-twins": [
+   3497,
+   "The Swiss Twins"
+  ],
+  "lfperkins-belgian-twins": [
+   3642,
+   "The Belgian Twins",
+   {
+    "levels": [
+     {
+      "re": "(?:[IVXL]+\\.?|SUGGESTIONS TO TEACHERS)$",
+      "title_next": true
+     }
+    ],
+    "start": "I\\.?$",
+    "front": true
+   }
+  ],
+  "lfperkins-eskimo-twins": [
+   3774,
+   "The Eskimo Twins",
+   {
+    "levels": [
+     {
+      "re": "(?![IVXL]+\\.?$)(?:[IVXL]+\\.?\\s+)?[A-Z][A-Z0-9' ,.!?;:\"-]{3,}$"
+     },
+     {
+      "re": "[IVXL]+\\.?$"
+     }
+    ],
+    "start": "SUGGESTIONS TO TEACHERS$",
+    "front": true
+   }
+  ],
+  "lfperkins-dutch-twins": [
+   4012,
+   "The Dutch Twins"
+  ],
+  "lfperkins-scotch-twins": [
+   4086,
+   "The Scotch Twins"
+  ],
+  "lfperkins-french-twins": [
+   4091,
+   "The French Twins",
+   {
+    "levels": [
+     {
+      "re": "(?![IVXL]+\\.?$)(?:[IVXL]+\\.?\\s+)?[A-Z][A-Z0-9' ,.!?;:\"-]{3,}$"
+     },
+     {
+      "re": "[IVXL]+\\.?$"
+     }
+    ]
+   }
+  ],
+  "lfperkins-spartan-twins": [
+   9966,
+   "The Spartan Twins",
+   {
+    "levels": [
+     {
+      "re": "(?:[IVXL]+\\.?|SUGGESTIONS TO TEACHERS)$",
+      "title_next": true
+     }
+    ],
+    "start": "I\\.?$",
+    "front": true
+   }
+  ],
+  "lfperkins-puritan-twins": [
+   16644,
+   "The Puritan Twins",
+   {
+    "contents_only": true
+   }
+  ],
+  "lfperkins-cave-twins": [
+   28425,
+   "The Cave Twins"
+  ],
+  "lfperkins-italian-twins": [
+   28426,
+   "The Italian Twins"
+  ],
+  "lfperkins-irish-twins": [
+   28431,
+   "The Irish Twins"
+  ],
+  "lfperkins-mexican-twins": [
+   28889,
+   "The Mexican Twins",
+   {
+    "levels": [
+     {
+      "re": "(?![IVXL]+\\.?$)(?:[IVXL]+\\.?\\s+)?[A-Z][A-Z0-9' ,.!?;:\"-]{3,}$"
+     },
+     {
+      "re": "[IVXL]+\\.?$"
+     }
+    ],
+    "start": "CONTENTS$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "lfperkins-folk-tales-from-the-russian": "PG 12851: by Verra de Blumenthal; Perkins only illustrated it",
+  "lfperkins-summers-readers": "PG 67302, 68453: school primers, not stories",
+  "lfperkins-moon-princess": "PG 60042, The Moon Princess (1905): written by Edith Ogden Harrison; Perkins only illustrated it (title page read)"
+ }
+}

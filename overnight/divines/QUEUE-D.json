@@ -807,12 +807,12 @@
       "notes": "2/2 fetched (Gutenberg 37193, 38070), 1,515 units, 0 ~2 ids."
     },
     {
-      "id": "perkins",
-      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Victorian fairy tales and children's stories: perkins; no minting",
+      "id": "lfperkins",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Victorian fairy tales and children's stories: lfperkins; no minting",
       "status": "done",
       "started": "2026-10-02T20:24:38-05:00",
-      "finished": "2026-10-02T20:30:00-05:00",
-      "notes": "13/13 fetched (Gutenberg 3496, 3497, 3642, 3774, 4012, 4086, 4091, 9966, 16644, 28425, 28426, 28431, 28889), 7,280 units, 0 ~2 ids."
+      "finished": "2026-10-02T20:38:56-05:00",
+      "notes": "13/13 fetched; shelf renamed from perkins_shelf.json to lfperkins_shelf.json on 2026-10-03"
     },
     {
       "id": "richards",
@@ -877,6 +877,42 @@
       "started": "2026-10-02T20:31:25-05:00",
       "finished": "2026-10-02T20:34:22-05:00",
       "notes": "5/5 fetched (Gutenberg 36127, 5324, 36638, 48736, 48622), 9,511 units, 0 ~2 ids."
+    },
+    {
+      "id": "leland",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American and African tales: leland; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:35:09-05:00"
+    },
+    {
+      "id": "schoolcraft",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American and African tales: schoolcraft; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:35:29-05:00"
+    },
+    {
+      "id": "cushing",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American and African tales: cushing; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:35:35-05:00"
+    },
+    {
+      "id": "mooney",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American and African tales: mooney; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:35:38-05:00"
+    },
+    {
+      "id": "judson",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American and African tales: judson; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:35:40-05:00"
+    },
+    {
+      "id": "nassau",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American and African tales: nassau; no minting",
+      "status": "running",
+      "started": "2026-10-02T20:35:47-05:00"
     }
   ]
 }

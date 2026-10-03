@@ -4916,26 +4916,26 @@ Shelf: `pipeline/stroebe_shelf.json` (2026-10-02; added at the coordinator's rel
 
 ## Lucy Fitch Perkins (1865-1937)
 
-Shelf: `pipeline/perkins_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her Twins series: children's stories of other lands and times. Not in the manifest; no uids minted.
+Shelf: `pipeline/lfperkins_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her Twins series: children's stories of other lands and times. Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
-| The Japanese Twins | have | PG 3496, `perkins-japanese-twins` (766 units) |
-| The Swiss Twins | have | PG 3497, `perkins-swiss-twins` (387 units) |
-| The Belgian Twins | have | PG 3642, `perkins-belgian-twins` (458 units) |
-| The Eskimo Twins | have | PG 3774, `perkins-eskimo-twins` (663 units) |
-| The Dutch Twins | have | PG 4012, `perkins-dutch-twins` (778 units) |
-| The Scotch Twins | have | PG 4086, `perkins-scotch-twins` (674 units) |
-| The French Twins | have | PG 4091, `perkins-french-twins` (453 units) |
-| The Spartan Twins | have | PG 9966, `perkins-spartan-twins` (531 units) |
-| The Puritan Twins | have | PG 16644, `perkins-puritan-twins` (461 units) |
-| The Cave Twins | have | PG 28425, `perkins-cave-twins` (554 units) |
-| The Italian Twins | have | PG 28426, `perkins-italian-twins` (328 units) |
-| The Irish Twins | have | PG 28431, `perkins-irish-twins` (621 units) |
-| The Mexican Twins | have | PG 28889, `perkins-mexican-twins` (606 units) |
-| perkins-folk-tales-from-the-russian | excluded | PG 12851: by Verra de Blumenthal; Perkins only illustrated it |
-| perkins-summers-readers | excluded | PG 67302, 68453: school primers, not stories |
-| perkins-moon-princess | excluded | PG 60042, The Moon Princess (1905): written by Edith Ogden Harrison; Perkins only illustrated it (title page read) |
+| The Japanese Twins | have | PG 3496, `lfperkins-japanese-twins` (766 units) |
+| The Swiss Twins | have | PG 3497, `lfperkins-swiss-twins` (387 units) |
+| The Belgian Twins | have | PG 3642, `lfperkins-belgian-twins` (458 units) |
+| The Eskimo Twins | have | PG 3774, `lfperkins-eskimo-twins` (663 units) |
+| The Dutch Twins | have | PG 4012, `lfperkins-dutch-twins` (778 units) |
+| The Scotch Twins | have | PG 4086, `lfperkins-scotch-twins` (674 units) |
+| The French Twins | have | PG 4091, `lfperkins-french-twins` (453 units) |
+| The Spartan Twins | have | PG 9966, `lfperkins-spartan-twins` (531 units) |
+| The Puritan Twins | have | PG 16644, `lfperkins-puritan-twins` (461 units) |
+| The Cave Twins | have | PG 28425, `lfperkins-cave-twins` (554 units) |
+| The Italian Twins | have | PG 28426, `lfperkins-italian-twins` (328 units) |
+| The Irish Twins | have | PG 28431, `lfperkins-irish-twins` (621 units) |
+| The Mexican Twins | have | PG 28889, `lfperkins-mexican-twins` (606 units) |
+| lfperkins-folk-tales-from-the-russian | excluded | PG 12851: by Verra de Blumenthal; Perkins only illustrated it |
+| lfperkins-summers-readers | excluded | PG 67302, 68453: school primers, not stories |
+| lfperkins-moon-princess | excluded | PG 60042, The Moon Princess (1905): written by Edith Ogden Harrison; Perkins only illustrated it (title page read) |
 
 ## Laura E. Richards (1850-1943)
 
