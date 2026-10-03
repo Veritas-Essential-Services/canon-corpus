@@ -1521,8 +1521,10 @@
     {
       "id": "howes",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, sacred legends and children's stories: howes; no minting",
-      "status": "running",
-      "started": "2026-10-03T02:27:06-05:00"
+      "status": "done",
+      "started": "2026-10-03T02:27:06-05:00",
+      "finished": "2026-10-03T02:33:28-05:00",
+      "notes": "2/2 fetched (Gutenberg 20366, 38063), 1,135 units, 0 ~2 ids."
     },
     {
       "id": "dracott",

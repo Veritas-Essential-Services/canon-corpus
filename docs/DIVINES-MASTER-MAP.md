@@ -7143,6 +7143,15 @@ Shelf: `pipeline/elizabeth-harrison_shelf.json` (2026-10-02; added at the coordi
 |---|---|---|
 | In Story-land | have | PG 33980, `harrison-in-story-land` (459 units) |
 
+## Edith Howes
+
+Shelf: `pipeline/howes_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Fairy and nature stories from New Zealand; cut by story. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Wonderwings and other Fairy Stories | have | PG 20366, `howes-wonderwings` (116 units) |
+| The Sun's Babies | have | PG 38063, `howes-suns-babies` (1019 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
