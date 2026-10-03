@@ -1226,6 +1226,7 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. III of five (1808) | William Melmoth | `cicero-melmoth-letters-1808-v3` | have-raw (IA `lettersofmarcust03ciceuoft`) |
 | The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. IV of five (1808) | William Melmoth | `cicero-melmoth-letters-1808-v4` | have-raw (IA `lettersofmarcust04ciceuoft`) |
 | The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. V of five (1808) | William Melmoth | `cicero-melmoth-letters-1808-v5` | have-raw (IA `lettersofmarcust05ciceuoft`) |
+| The Letters of Marcus Tullius Cicero to Several of His Friends, vol. I (1808) | William Melmoth | `cicero-melmoth-letters-1808-v1` | have-raw (IA `lettersofmarcust01ciceuoft`) |
 
 Pending (wishlist): King's Tusculans (Loeb 1927; only the 1945 revised printing has text, refused).
 

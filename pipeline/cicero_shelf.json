@@ -241,6 +241,11 @@
    "lettersofmarcust05ciceuoft",
    "The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. V of five (1808)",
    "tr. William Melmoth"
+  ],
+  "cicero-melmoth-letters-1808-v1": [
+   "lettersofmarcust01ciceuoft",
+   "The Letters of Marcus Tullius Cicero to Several of His Friends, vol. I (1808)",
+   "tr. William Melmoth"
   ]
  },
  "_excluded": {
@@ -292,7 +297,8 @@
   "cicero-melmoth-letters-1808-v2": "William Melmoth",
   "cicero-melmoth-letters-1808-v3": "William Melmoth",
   "cicero-melmoth-letters-1808-v4": "William Melmoth",
-  "cicero-melmoth-letters-1808-v5": "William Melmoth"
+  "cicero-melmoth-letters-1808-v5": "William Melmoth",
+  "cicero-melmoth-letters-1808-v1": "Melmoth"
  },
  "_translator_unchecked": {
   "cicero-ker-philippics": "translator on the row (Walter C. A. Ker) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -878,6 +884,19 @@
    "ia_rights": "ok: published 1808",
    "ia_date": "1808",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-melmoth-letters-1808-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Melmoth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
