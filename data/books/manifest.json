@@ -827,7 +827,7 @@
    "citation": "BDB entry id (BDB1-BDB9000s); Strong's number where mapped",
    "resolution": "entry",
    "honesty": "exact text, partial keying",
-   "note": "Unabridged. 9,176 of 10,022 entries carry a Strong's number; the rest are cross-reference and sub-root entries with no Strong's equivalent. Scripture citations are recorded in the source's own (Hebrew/BHS) versification and are NOT resolved to kjv: unit ids -- Psalms superscriptions shift the numbering. 20044 navigation/header furniture blocks stripped; 11 refs above H8674 dropped as extended Strong's prefix/particle codes."
+   "note": "Unabridged. 9,176 of 10,022 entries carry a Strong's number; the rest are cross-reference and sub-root entries with no Strong's equivalent. Scripture citations are recorded in the source's own (Hebrew/BHS) versification (`osis`, as stated) and resolved to a kjv: unit id (`target`) through the Hebrew->KJV map data/versification/bhs-kjv.json (STEPBible TVTMS, CC BY 4.0): 137,780 resolved, 1,345 left unresolved with the reason (psalm titles, which the KJV does not number; references that name no Hebrew verse; NT references). 20044 navigation/header furniture blocks stripped; 11 refs above H8674 dropped as extended Strong's prefix/particle codes."
   }
  },
  "thayer": {
@@ -1650,5 +1650,2761 @@
    "resolution": "paragraph",
    "honesty": "chapter headings detected; paragraph running within chapter"
   }
+ },
+ "vulgate": {
+  "title": "Biblia Sacra Vulgatae Editionis (Clementine Vulgate, 1592)",
+  "author": "—",
+  "format": "clementine-lat",
+  "sha256": "8002776ae05d72fcec447dac1b890728423096ffd22970771cbb419b0536b990",
+  "units": 35809,
+  "scheme": {
+   "citation": "Book chapter:verse in the Vulgate's own numbering (OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact",
+   "versification": "vulgate",
+   "kjv_resolved": 31085,
+   "kjv_unresolved": 4724,
+   "note": "Ids follow the Clementine numbering, NOT the KJV's: the Psalms are numbered as in the Greek (Vulgate Ps 50 = KJV Ps 51) with a title counted in verse 1, Daniel 3 holds 3:24-90 and Esther 10:4-16:24 the Greek additions. Each unit's `kjv` names the KJV verse(s) holding the same text, by the map data/versification/vulgate-kjv.json (STEPBible TVTMS, CC BY 4.0, tested against this text), or says why there is none; no uids minted. `text` is the verse with the project's markup turned into line and paragraph breaks; `marked` is the file's line as is. The Clementine appendix (Prayer of Manasses, 3-4 Esdras) is not in the source."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "The Clementine Vulgate Project (vulsearch.sourceforge.net)",
+   "source_url": "https://github.com/BibleGet-I-O/Clementine-Vulgate",
+   "requests": "acknowledge the source; report typographical errors to the project; make modifications clear (requests, not a licence)"
+  }
+ },
+ "douay": {
+  "title": "The Holy Bible, Douay-Rheims Version (Challoner revision)",
+  "author": "Richard Challoner (reviser); Gregory Martin et al. (translators)",
+  "format": "scrollmapper-json",
+  "sha256": "2c9b2ab58363bcddccdcaaf9e9a75924bbbc636d918e798d9ab517de07767b4f",
+  "units": 35805,
+  "scheme": {
+   "citation": "Book chapter:verse in the Vulgate's numbering (OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact",
+   "versification": "vulgate",
+   "empty_verses_dropped": 12,
+   "kjv_resolved": 31083,
+   "kjv_unresolved": 4722,
+   "note": "The Clementine Vulgate's English companion, numbered as the Vulgate is. `vulgate` names the Clementine verse(s) holding the same text (the same number except at structure_texts.DOUAY_ROWS); `kjv` follows through data/versification/vulgate-kjv.json. Empty verses in the file (versification padding) are dropped, never given ids. The file's five appendix books (3-4 Esdras, Prayer of Manasses, an additional psalm, Laodiceans) are not read: the Clementine source has no text for them."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "Douay-Rheims Bible, Challoner revision, via scrollmapper/bible_databases",
+   "source_url": "https://github.com/scrollmapper/bible_databases"
+  }
+ },
+ "brenton": {
+  "title": "The Septuagint in English (Brenton, 1851)",
+  "author": "Sir Lancelot Charles Lee Brenton (translator)",
+  "format": "ebible-usfm-zip",
+  "sha256": "93496ef23f7ff2427c32f5d353089dee73e82975ab92c80a00663fb333c57e32",
+  "units": 28617,
+  "scheme": {
+   "citation": "Book chapter:verse in Brenton's (the Greek's) numbering; the Greek's additions lettered (OSIS book ids)",
+   "resolution": "verse",
+   "honesty": "exact",
+   "versification": "lxx-brenton",
+   "kjv_resolved": 22901,
+   "kjv_unresolved": 5716,
+   "empty_verses_not_units": [
+    "Prov.30.1"
+   ],
+   "note": "Ids follow Brenton's numbering, NOT the KJV's: the Psalms as in the Greek with a title as verse 1, Jeremiah's oracles in the Greek's order, Nehemiah as chapters 11-23 of Ezra (the Greek's 2 Esdras), the Greek's additions lettered after the verse they follow. Each unit's `kjv` names the KJV verse(s) holding the same text by data/versification/brenton-kjv.json, or says why there is none; no uids minted. `text` drops Brenton's notes, which are in `notes`; `marked` is the verse's USFM as is. eBible's corrections to the printing are in the text; its KJV-renumbered Nehemiah and Brenton's appendix are not read."
+  },
+  "rights": {
+   "license": "public-domain",
+   "attribution": "Brenton's English Septuagint, transcribed and corrected by eBible.org (eng-Brenton)",
+   "source_url": "https://ebible.org/eng-Brenton/",
+   "requests": "eBible asks that errors in the text be reported to it"
+  }
+ },
+ "1clement-lake": {
+  "title": "First Epistle of Clement to the Corinthians",
+  "author": "Clement of Rome",
+  "format": "tei-first1k",
+  "sha256": "235c325ceb7460d093f1ae01d0490ba897028e26e931993a25b8073d39041035",
+  "units": 400,
+  "scheme": {
+   "citation": "1 Clem. chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 9832,
+   "nt-form": 7811,
+   "nt-form-nu": 6,
+   "nt-form-major": 183,
+   "nt-key": 93,
+   "headword": 36,
+   "ambiguous": 82,
+   "unseen": 1621,
+   "latin": 0
+  },
+  "scripture_refs": 268,
+  "scripture_refs_resolved": 217,
+  "scripture_refs_flagged": 8,
+  "built_sha256": "99dae845418d1dc2fab8d095b3f32db919b395e851749e7df87d3732927e66e3"
+ },
+ "2clement-lake": {
+  "title": "Second Epistle of Clement (an ancient homily)",
+  "author": "Anonymous (attributed to Clement of Rome)",
+  "format": "tei-first1k",
+  "sha256": "37f652d71c183037e9dc84f1325f41450f0752f658bd8ffc508f8e3e3dc33843",
+  "units": 118,
+  "scheme": {
+   "citation": "2 Clem. chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 3013,
+   "nt-form": 2585,
+   "nt-form-nu": 4,
+   "nt-form-major": 21,
+   "nt-key": 18,
+   "headword": 16,
+   "ambiguous": 25,
+   "unseen": 344,
+   "latin": 0
+  },
+  "scripture_refs": 55,
+  "scripture_refs_resolved": 45,
+  "scripture_refs_flagged": 5,
+  "built_sha256": "0f30f614602623abbeb84e2182376353374d28910af65f0027f988c6978363de"
+ },
+ "ignatius-lake": {
+  "title": "The Seven Letters of Ignatius (middle recension)",
+  "author": "Ignatius of Antioch",
+  "format": "tei-first1k",
+  "sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+  "units": 205,
+  "scheme": {
+   "citation": "Ign. letter chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 7749,
+   "nt-form": 6317,
+   "nt-form-nu": 8,
+   "nt-form-major": 73,
+   "nt-key": 81,
+   "headword": 39,
+   "ambiguous": 99,
+   "unseen": 1132,
+   "latin": 0
+  },
+  "scripture_refs": 91,
+  "scripture_refs_resolved": 78,
+  "scripture_refs_flagged": 7,
+  "built_sha256": "58a01d5e4bd98c6752be52425d025eb1a517f3e2cad7e7d77839e59b775d9a20"
+ },
+ "polycarp-phil-lake": {
+  "title": "Epistle of Polycarp to the Philippians",
+  "author": "Polycarp of Smyrna",
+  "format": "tei-first1k",
+  "sha256": "3e4115e6c7026136ccede52edbab85fefc4b90cf4096b7cb008fa07613e0a317",
+  "units": 38,
+  "scheme": {
+   "citation": "Pol. Phil. chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 1582,
+   "nt-form": 971,
+   "nt-form-nu": 6,
+   "nt-form-major": 13,
+   "nt-key": 10,
+   "headword": 1,
+   "ambiguous": 6,
+   "unseen": 125,
+   "latin": 450
+  },
+  "scripture_refs": 99,
+  "scripture_refs_resolved": 89,
+  "scripture_refs_flagged": 3,
+  "built_sha256": "267cb5f135099f970807894f44d9c06377907afff1d4af0cbbe61cb4d8e97d1b"
+ },
+ "martyrdom-polycarp-lake": {
+  "title": "The Martyrdom of Polycarp",
+  "author": "Anonymous (the church at Smyrna)",
+  "format": "tei-first1k",
+  "sha256": "a390233227173f7c65acf82c4822c5992569831a73b25b1687596b05d2aab5cd",
+  "units": 59,
+  "scheme": {
+   "citation": "Mart. Pol. chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 2641,
+   "nt-form": 2082,
+   "nt-form-nu": 4,
+   "nt-form-major": 30,
+   "nt-key": 19,
+   "headword": 17,
+   "ambiguous": 24,
+   "unseen": 465,
+   "latin": 0
+  },
+  "scripture_refs": 16,
+  "scripture_refs_resolved": 15,
+  "scripture_refs_flagged": 1,
+  "built_sha256": "4de81b283c49e70e0fe917b3eba2b7af19c073d44815f4f4bc2c53dacdf04602"
+ },
+ "didache-lake": {
+  "title": "The Didache (Teaching of the Twelve Apostles)",
+  "author": "Anonymous",
+  "format": "tei-first1k",
+  "sha256": "bf34cbd5ca8bc93cf906326c250d89300e6d12faf23caa2a8fe4a2fbec9c877b",
+  "units": 100,
+  "scheme": {
+   "citation": "Did. chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 2192,
+   "nt-form": 1861,
+   "nt-form-nu": 18,
+   "nt-form-major": 12,
+   "nt-key": 25,
+   "headword": 22,
+   "ambiguous": 22,
+   "unseen": 232,
+   "latin": 0
+  },
+  "scripture_refs": 71,
+  "scripture_refs_resolved": 56,
+  "scripture_refs_flagged": 0,
+  "built_sha256": "75450b3103b0867556fe75c28d8a08965969bdb70cefa98d089dc5a51e359835"
+ },
+ "barnabas-lake": {
+  "title": "The Epistle of Barnabas",
+  "author": "Anonymous (attributed to Barnabas)",
+  "format": "tei-first1k",
+  "sha256": "fac9b3a87f1e366f89fae6ba292f5b63c8073410633c9dbe3b7b9ecacd38781f",
+  "units": 194,
+  "scheme": {
+   "citation": "Barn. chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 6715,
+   "nt-form": 5673,
+   "nt-form-nu": 5,
+   "nt-form-major": 88,
+   "nt-key": 71,
+   "headword": 35,
+   "ambiguous": 55,
+   "unseen": 788,
+   "latin": 0
+  },
+  "scripture_refs": 202,
+  "scripture_refs_resolved": 167,
+  "scripture_refs_flagged": 0,
+  "built_sha256": "7a30cc404d18082609ae1589b5120c3a246d91e7f3220f6ed20d7cd197849f8e"
+ },
+ "hermas-lake": {
+  "title": "The Shepherd of Hermas",
+  "author": "Hermas",
+  "format": "tei-first1k",
+  "sha256": "347ef6f5013ee2703713e06eb540c052f7e7c4a1772f22d533a1956b5fa802cc",
+  "units": 727,
+  "scheme": {
+   "citation": "Herm. Vis./Mand./Sim. book.chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 28551,
+   "nt-form": 22208,
+   "nt-form-nu": 400,
+   "nt-form-major": 257,
+   "nt-key": 378,
+   "headword": 203,
+   "ambiguous": 152,
+   "unseen": 3688,
+   "latin": 1265
+  },
+  "scripture_refs": 212,
+  "scripture_refs_resolved": 189,
+  "scripture_refs_flagged": 16,
+  "built_sha256": "4ac1b635cdcdcdc146e15888260f5f555c361e806709e8019dec60b903ce08e7"
+ },
+ "diognetus-lake": {
+  "title": "The Epistle to Diognetus",
+  "author": "Anonymous",
+  "format": "tei-first1k",
+  "sha256": "c9aff0733398334ec5ca0fb628269d4ff67734ff2478057d18fc531748b99fd5",
+  "units": 100,
+  "scheme": {
+   "citation": "Diogn. chapter.section",
+   "resolution": "section, where the edition has one",
+   "honesty": "exact to Lake's sections; the Greek is First1KGreek's OCR of the Loeb, corrected but not proofread here, and carries OCR slips (e.g. παῤ for παρ᾽)",
+   "note": "Text only: Lake's notes, heads and apparatus are left out of `text`. His scripture references are in links[], resolved to kjv: unit ids where the note and the map allow (pipeline/af_scripture.py); the rest say why not."
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the Greek text, Kirsopp Lake's Loeb edition (1912-13), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org), digitizing K. Lake, The Apostolic Fathers (Loeb Classical Library)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb",
+   "redistribute_whole": false
+  },
+  "tagging": {
+   "words": 2615,
+   "nt-form": 1995,
+   "nt-form-nu": 35,
+   "nt-form-major": 16,
+   "nt-key": 11,
+   "headword": 19,
+   "ambiguous": 32,
+   "unseen": 507,
+   "latin": 0
+  },
+  "scripture_refs": 53,
+  "scripture_refs_resolved": 53,
+  "scripture_refs_flagged": 0,
+  "built_sha256": "d2963d12c6173afd2b3350c81d6c1f0cac9d69abf4673fc868dc70acdda5fac4"
+ },
+ "josephus-ant-niese": {
+  "title": "Antiquities of the Jews (Greek)",
+  "author": "Flavius Josephus",
+  "format": "tei-perseus",
+  "sha256": "64879910ecab63ca197146bf0c6e45849914c12221e1fb858c2a417bd65439f0",
+  "units": 1464,
+  "scheme": {
+   "citation": "Ant. book.chapter.section (Whiston)",
+   "resolution": "Whiston section",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese",
+   "note": "Notes, heads and chapter titles are left out of `text`; Niese's brackets (<del>) are printed as [ ]"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the Perseus Digital Library TEI); the underlying text (Niese 1885-95, Whiston 1737) is public domain",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit/tree/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "josephus-ant-whiston",
+   "units": 1464,
+   "matched": 1444,
+   "unmatched": [
+    "1.arg",
+    "2.arg",
+    "3.arg",
+    "4.arg",
+    "5.arg",
+    "6.arg",
+    "7.arg",
+    "8.arg",
+    "9.arg",
+    "10.arg",
+    "11.arg",
+    "12.arg",
+    "13.arg",
+    "14.arg",
+    "15.arg",
+    "16.arg",
+    "17.arg",
+    "18.arg",
+    "19.arg",
+    "20.arg"
+   ]
+  },
+  "tagging": {
+   "words": 311638,
+   "nt-form": 220631,
+   "nt-form-nu": 2035,
+   "nt-form-major": 2204,
+   "nt-key": 2997,
+   "headword": 1272,
+   "ambiguous": 2251,
+   "unseen": 80248,
+   "latin": 0
+  },
+  "built_sha256": "f967f852632d7f4ff0e33f29c714ebd22857c19581055acce65afe47effe656a"
+ },
+ "josephus-ant-whiston": {
+  "title": "Antiquities of the Jews (English)",
+  "author": "Flavius Josephus, tr. William Whiston",
+  "format": "tei-perseus",
+  "sha256": "de21842b55845aeeb1f60ae46b18217fd59ed3531b55b941dc066cd7e09c00a5",
+  "units": 1444,
+  "scheme": {
+   "citation": "Ant. book.chapter.section (Whiston)",
+   "resolution": "Whiston section",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it)",
+   "note": "Notes, heads and chapter titles are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the Perseus Digital Library TEI); the underlying text (Niese 1885-95, Whiston 1737) is public domain",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit/tree/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "josephus-ant-niese",
+   "units": 1444,
+   "matched": 1444,
+   "unmatched": []
+  },
+  "built_sha256": "31b680dc42ab1208934913b3a631a0bd092db29d97bb87b3478c950f10862cab"
+ },
+ "josephus-war-niese": {
+  "title": "The Jewish War (Greek)",
+  "author": "Flavius Josephus",
+  "format": "tei-perseus",
+  "sha256": "ccb90dcbd5489d56e1822d0b082b7799827f478ebcc9af7e4ab5667ae362d547",
+  "units": 707,
+  "scheme": {
+   "citation": "J.W. book.chapter.section (Whiston)",
+   "resolution": "Whiston section",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese",
+   "note": "Notes, heads and chapter titles are left out of `text`; Niese's brackets (<del>) are printed as [ ]"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the Perseus Digital Library TEI); the underlying text (Niese 1885-95, Whiston 1737) is public domain",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit/tree/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "josephus-war-whiston",
+   "units": 707,
+   "matched": 707,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 125211,
+   "nt-form": 85611,
+   "nt-form-nu": 409,
+   "nt-form-major": 490,
+   "nt-key": 991,
+   "headword": 751,
+   "ambiguous": 976,
+   "unseen": 35983,
+   "latin": 0
+  },
+  "built_sha256": "faa08c8e621e665a1e8529bcc6e2100422b75bbcaf4fd3171a9a3423cdae1dc8"
+ },
+ "josephus-war-whiston": {
+  "title": "The Jewish War (English)",
+  "author": "Flavius Josephus, tr. William Whiston",
+  "format": "tei-perseus",
+  "sha256": "bb948d1a1dff1cb4459fbaa5aeb99ef17d957ff111104fb862c0b6498a0fe780",
+  "units": 707,
+  "scheme": {
+   "citation": "J.W. book.chapter.section (Whiston)",
+   "resolution": "Whiston section",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it)",
+   "note": "Notes, heads and chapter titles are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the Perseus Digital Library TEI); the underlying text (Niese 1885-95, Whiston 1737) is public domain",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit/tree/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "josephus-war-niese",
+   "units": 707,
+   "matched": 707,
+   "unmatched": []
+  },
+  "built_sha256": "e5cd950fa27e047a70fd66ee7a1faccdddbfd8c19855dad51b6c7a4bdafe3494"
+ },
+ "josephus-life-niese": {
+  "title": "The Life of Flavius Josephus (Greek)",
+  "author": "Flavius Josephus",
+  "format": "tei-perseus",
+  "sha256": "6ec49dd76faba814b4d34e9cb4ab7734b02e1fdf796ef62aa816d939221b7e13",
+  "units": 76,
+  "scheme": {
+   "citation": "Life section (Whiston)",
+   "resolution": "Whiston section",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese",
+   "note": "Notes, heads and chapter titles are left out of `text`; Niese's brackets (<del>) are printed as [ ]"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the Perseus Digital Library TEI); the underlying text (Niese 1885-95, Whiston 1737) is public domain",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit/tree/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "josephus-life-whiston",
+   "units": 76,
+   "matched": 76,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 15781,
+   "nt-form": 11478,
+   "nt-form-nu": 38,
+   "nt-form-major": 67,
+   "nt-key": 98,
+   "headword": 62,
+   "ambiguous": 143,
+   "unseen": 3895,
+   "latin": 0
+  },
+  "built_sha256": "2dbc2d89c07d77b3e88d7ec703770edb64c37f0c3fcf669948d6d0140f04167f"
+ },
+ "josephus-life-whiston": {
+  "title": "The Life of Flavius Josephus (English)",
+  "author": "Flavius Josephus, tr. William Whiston",
+  "format": "tei-perseus",
+  "sha256": "8e7ef9b8ba39403ada9559b367e545d5fecffba9ce2b106f8e6a8915f96b38a6",
+  "units": 76,
+  "scheme": {
+   "citation": "Life section (Whiston)",
+   "resolution": "Whiston section",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it)",
+   "note": "Notes, heads and chapter titles are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the Perseus Digital Library TEI); the underlying text (Niese 1885-95, Whiston 1737) is public domain",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit/tree/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "josephus-life-niese",
+   "units": 76,
+   "matched": 76,
+   "unmatched": []
+  },
+  "built_sha256": "ec1c9379c57f2bc3de92d9de156b8027730a3e72b85a110dde7505ed75df9968"
+ },
+ "josephus-apion-niese": {
+  "title": "Against Apion (Greek)",
+  "author": "Flavius Josephus",
+  "format": "tei-perseus",
+  "sha256": "3730705afb6fcc4a5aee24a41bda71dc08d87edddc8fd2c24be3f74e96442bf8",
+  "units": 77,
+  "scheme": {
+   "citation": "Ag. Ap. book.section (Whiston)",
+   "resolution": "Whiston section",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese",
+   "note": "Notes, heads and chapter titles are left out of `text`; Niese's brackets (<del>) are printed as [ ]"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the Perseus Digital Library TEI); the underlying text (Niese 1885-95, Whiston 1737) is public domain",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit/tree/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "josephus-apion-whiston",
+   "units": 77,
+   "matched": 77,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 22728,
+   "nt-form": 14758,
+   "nt-form-nu": 195,
+   "nt-form-major": 130,
+   "nt-key": 118,
+   "headword": 83,
+   "ambiguous": 132,
+   "unseen": 5087,
+   "latin": 2225
+  },
+  "built_sha256": "86dcbffcde96f63935099cc16a91b5b71df0f43d77c28c3aebcb7871ea5bee0f"
+ },
+ "josephus-apion-whiston": {
+  "title": "Against Apion (English)",
+  "author": "Flavius Josephus, tr. William Whiston",
+  "format": "tei-perseus",
+  "sha256": "a12149bb02da48c6a9efb697debe757438adb9f88044bb7f4ad7dff40c34645c",
+  "units": 77,
+  "scheme": {
+   "citation": "Ag. Ap. book.section (Whiston)",
+   "resolution": "Whiston section",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it)",
+   "note": "Notes, heads and chapter titles are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the Perseus Digital Library TEI); the underlying text (Niese 1885-95, Whiston 1737) is public domain",
+   "attribution": "Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit)",
+   "source_url": "https://github.com/PerseusDL/canonical-greekLit/tree/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0526",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "josephus-apion-niese",
+   "units": 77,
+   "matched": 77,
+   "unmatched": []
+  },
+  "built_sha256": "423bcb0de92d44738f9e6a1d42ac3e1de69e95ec0012f8797e6b5552439131a1"
+ },
+ "philo-opif-cw": {
+  "title": "On the Creation of the World (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "93dcbd16b852ef66753ddaa56a2b27a0c2bfde82860d1cfecdcd9b58ea57cd6b",
+  "units": 172,
+  "scheme": {
+   "citation": "Opif. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-opif-yonge",
+   "units": 172,
+   "matched": 172,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 13309,
+   "nt-form": 8895,
+   "nt-form-nu": 125,
+   "nt-form-major": 23,
+   "nt-key": 105,
+   "headword": 84,
+   "ambiguous": 135,
+   "unseen": 3942,
+   "latin": 0
+  },
+  "scripture_refs": 13,
+  "scripture_refs_resolved": 13,
+  "built_sha256": "a841ea4b0852fc1f5db00137480ba1b850cc666b704d930b785567b8382f4f7b"
+ },
+ "philo-opif-yonge": {
+  "title": "On the Creation of the World (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "d74cbdb3b88f1f9308a7b09c8430e3cee8c5780436f54d560f37e1573bb6d12a",
+  "units": 172,
+  "scheme": {
+   "citation": "Opif. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-opif-cw",
+   "units": 172,
+   "matched": 172,
+   "unmatched": []
+  },
+  "built_sha256": "d58da9471a0a3e41df73dc130dde8cce900bc8912350f06c145b2bc1e7e68df2"
+ },
+ "philo-leg-cw": {
+  "title": "Allegorical Interpretation (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "ef558dad43615bc7a146b087c92790a654433fa267aed2180c9ee8d5732376d9",
+  "units": 469,
+  "scheme": {
+   "citation": "Leg. book.section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-leg-yonge",
+   "units": 469,
+   "matched": 469,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 31582,
+   "nt-form": 22734,
+   "nt-form-nu": 487,
+   "nt-form-major": 213,
+   "nt-key": 280,
+   "headword": 380,
+   "ambiguous": 358,
+   "unseen": 7130,
+   "latin": 0
+  },
+  "scripture_refs": 266,
+  "scripture_refs_resolved": 266,
+  "built_sha256": "5feead6d5cf2e8f3d92852f82371f235d7f4bb970d23a7c93f9b128b47e6cba8"
+ },
+ "philo-leg-yonge": {
+  "title": "Allegorical Interpretation (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "d95a00092130da23abf5bd9ffed63249a5f6176dc75b82fb3448bc0795f57b4b",
+  "units": 469,
+  "scheme": {
+   "citation": "Leg. book.section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-leg-cw",
+   "units": 469,
+   "matched": 469,
+   "unmatched": []
+  },
+  "built_sha256": "e6e4d6faac489c3d15d4ad993c18944b77bc18a65760a9d9fa958499bf63f99f"
+ },
+ "philo-cher-cw": {
+  "title": "On the Cherubim (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "501518c0862b69886123dc3244128c0d573f480d19044d1eca62412e19a3b76f",
+  "units": 130,
+  "scheme": {
+   "citation": "Cher. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-cher-yonge",
+   "units": 130,
+   "matched": 130,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 7544,
+   "nt-form": 5023,
+   "nt-form-nu": 65,
+   "nt-form-major": 29,
+   "nt-key": 77,
+   "headword": 39,
+   "ambiguous": 100,
+   "unseen": 2211,
+   "latin": 0
+  },
+  "scripture_refs": 37,
+  "scripture_refs_resolved": 37,
+  "built_sha256": "fc04e9e12d3d99e99d39d55c5b4a68b78d290395d24b9f2607ffb37fd71dd8ec"
+ },
+ "philo-cher-yonge": {
+  "title": "On the Cherubim (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "d202d6b6694b5e58765ef6a5a117a219364df722bf13d4d322781fbfc0908b31",
+  "units": 130,
+  "scheme": {
+   "citation": "Cher. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-cher-cw",
+   "units": 130,
+   "matched": 130,
+   "unmatched": []
+  },
+  "built_sha256": "2144940e9347bd20df5f7fe40626a8426cd9118a1ff905c39d9246e5383e904e"
+ },
+ "philo-sacr-cw": {
+  "title": "On the Sacrifices of Cain and Abel (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "5d56ea855e5c3bfcd95ad3e28c0d7f3dc7a6fc7125a115e8c765450c5fcfa2b6",
+  "units": 139,
+  "scheme": {
+   "citation": "Sacr. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-sacr-yonge",
+   "units": 139,
+   "matched": 139,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 9446,
+   "nt-form": 6241,
+   "nt-form-nu": 79,
+   "nt-form-major": 48,
+   "nt-key": 93,
+   "headword": 77,
+   "ambiguous": 111,
+   "unseen": 2797,
+   "latin": 0
+  },
+  "scripture_refs": 67,
+  "scripture_refs_resolved": 67,
+  "built_sha256": "ee91e77e6108d9e73b9698f23b6cec62cf977aeece201c5b69c8a6b3dde31918"
+ },
+ "philo-sacr-yonge": {
+  "title": "On the Sacrifices of Cain and Abel (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "a0a386cd014ca2e2322fbf05913ac5938400e443e7a222a51aecb8321f5200a9",
+  "units": 139,
+  "scheme": {
+   "citation": "Sacr. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-sacr-cw",
+   "units": 139,
+   "matched": 139,
+   "unmatched": []
+  },
+  "built_sha256": "a7eb8b4aab1eed9f08b541eebe4d80347d7331262c90f1d0f486a505fd8227ed"
+ },
+ "philo-det-cw": {
+  "title": "That the Worse Attacks the Better (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "0763e7af48f7b80ac6b2831696af1e17fe5ac88b1922fe10bf867855556e6e03",
+  "units": 178,
+  "scheme": {
+   "citation": "Det. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-det-yonge",
+   "units": 178,
+   "matched": 178,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 11194,
+   "nt-form": 7616,
+   "nt-form-nu": 129,
+   "nt-form-major": 64,
+   "nt-key": 109,
+   "headword": 65,
+   "ambiguous": 124,
+   "unseen": 3087,
+   "latin": 0
+  },
+  "scripture_refs": 80,
+  "scripture_refs_resolved": 80,
+  "built_sha256": "48a6e5476d54216e1891d975a1164d7ccb0a7a453a1a17516f0c7a69852e7783"
+ },
+ "philo-det-yonge": {
+  "title": "That the Worse Attacks the Better (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "305ce00d5cfd94b4519f2d52da28e5dfe03f3a36122e2fac700f1eb433eefb5c",
+  "units": 178,
+  "scheme": {
+   "citation": "Det. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-det-cw",
+   "units": 178,
+   "matched": 178,
+   "unmatched": []
+  },
+  "built_sha256": "528a0a8cbd64b658797115b161cdfe855a2033a45fd35b29c0de337b36851a48"
+ },
+ "philo-post-cw": {
+  "title": "On the Posterity of Cain (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "f533b7e6e2566cbcadd3bb07898ed3ba08730e4a9084de3debc1f5ef6d3647d1",
+  "units": 185,
+  "scheme": {
+   "citation": "Post. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-post-yonge",
+   "units": 185,
+   "matched": 185,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 10952,
+   "nt-form": 7417,
+   "nt-form-nu": 136,
+   "nt-form-major": 43,
+   "nt-key": 123,
+   "headword": 69,
+   "ambiguous": 115,
+   "unseen": 3049,
+   "latin": 0
+  },
+  "scripture_refs": 96,
+  "scripture_refs_resolved": 95,
+  "built_sha256": "2c2841e1c4ab560467eaf5900d9fa4efea9b82f3c654e69dfd230bddc957674c"
+ },
+ "philo-post-yonge": {
+  "title": "On the Posterity of Cain (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "23dcb2b7bf966588dbbc2f831544982aaed7d0531c58314cd5d44ade4e540d6f",
+  "units": 185,
+  "scheme": {
+   "citation": "Post. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-post-cw",
+   "units": 185,
+   "matched": 185,
+   "unmatched": []
+  },
+  "built_sha256": "9fb94b11acbad8f793143eaf6537d6c1c0c5e395d64f91d867c57bc82ffd8ed9"
+ },
+ "philo-gig-cw": {
+  "title": "On the Giants (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "6a9258755ef3424179beea5dd8f70a21ebd1734a8f61a07ed7cd0d872b1dffde",
+  "units": 67,
+  "scheme": {
+   "citation": "Gig. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-gig-yonge",
+   "units": 67,
+   "matched": 67,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 3245,
+   "nt-form": 2269,
+   "nt-form-nu": 24,
+   "nt-form-major": 19,
+   "nt-key": 22,
+   "headword": 17,
+   "ambiguous": 47,
+   "unseen": 847,
+   "latin": 0
+  },
+  "scripture_refs": 20,
+  "scripture_refs_resolved": 20,
+  "built_sha256": "46ce515221d64e914bb5f8aa05cacf9d5ee7cabf14e050ec6f2b672a53f2a0d2"
+ },
+ "philo-gig-yonge": {
+  "title": "On the Giants (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "3c39f568103c681320703837eebf4af28ef2075ae92b8bbd5b0fd72fc3daef4f",
+  "units": 67,
+  "scheme": {
+   "citation": "Gig. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-gig-cw",
+   "units": 67,
+   "matched": 67,
+   "unmatched": []
+  },
+  "built_sha256": "15adc1a9e09392a80a1e3e02b7ea9fccc03cfd18640c3b2351f0a67654a2c45b"
+ },
+ "philo-deus-cw": {
+  "title": "That God Is Unchangeable (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "e465ef5e4e88010e981ccd00cd01ab534925af95f7b5a287a1eaec5c656b125d",
+  "units": 183,
+  "scheme": {
+   "citation": "Deus section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-deus-yonge",
+   "units": 183,
+   "matched": 183,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 8910,
+   "nt-form": 6015,
+   "nt-form-nu": 108,
+   "nt-form-major": 62,
+   "nt-key": 98,
+   "headword": 54,
+   "ambiguous": 99,
+   "unseen": 2474,
+   "latin": 0
+  },
+  "scripture_refs": 56,
+  "scripture_refs_resolved": 56,
+  "built_sha256": "d4b6a995c34678a61dcbca73f3725a395372b1a1030c9d9be672f7d2a5585f29"
+ },
+ "philo-deus-yonge": {
+  "title": "That God Is Unchangeable (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "57b5e58f46b66c9d2bca0542f74349fe4211f8cdc0ac7599f11da0d004b06ff9",
+  "units": 183,
+  "scheme": {
+   "citation": "Deus section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-deus-cw",
+   "units": 183,
+   "matched": 183,
+   "unmatched": []
+  },
+  "built_sha256": "f90eede3406fafcd5a7e65b7bb37bb862c8e4001cc31c2c556691fb4c7a63a3b"
+ },
+ "philo-agr-cw": {
+  "title": "On Agriculture (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "25f12de24ba8ac2e8f25ce0ab0bd9ae45b8049373e60d93f173439015d539811",
+  "units": 181,
+  "scheme": {
+   "citation": "Agr. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-agr-yonge",
+   "units": 181,
+   "matched": 181,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 8979,
+   "nt-form": 5890,
+   "nt-form-nu": 75,
+   "nt-form-major": 24,
+   "nt-key": 78,
+   "headword": 49,
+   "ambiguous": 87,
+   "unseen": 2776,
+   "latin": 0
+  },
+  "scripture_refs": 35,
+  "scripture_refs_resolved": 35,
+  "built_sha256": "d330c9cefb1ea63bd955eef23627d02c24f9b79acfc41641379d70c6d397015b"
+ },
+ "philo-agr-yonge": {
+  "title": "On Agriculture (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "0ceffd275ef6d16c6f9142ab6619362cfae5dd437b0039fefa35989520b6a435",
+  "units": 181,
+  "scheme": {
+   "citation": "Agr. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-agr-cw",
+   "units": 181,
+   "matched": 181,
+   "unmatched": []
+  },
+  "built_sha256": "323625e0a2005678682dfa4d3866a3b0edcf48e08ed55d51b3720e759f0fa82e"
+ },
+ "philo-plant-cw": {
+  "title": "On Planting (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "e3773fa1792b98916fecb0c6211cd60b5c3250e25106da1cb262a63cd1cdbc40",
+  "units": 177,
+  "scheme": {
+   "citation": "Plant. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-plant-yonge",
+   "units": 177,
+   "matched": 177,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 8865,
+   "nt-form": 5972,
+   "nt-form-nu": 83,
+   "nt-form-major": 43,
+   "nt-key": 69,
+   "headword": 47,
+   "ambiguous": 104,
+   "unseen": 2547,
+   "latin": 0
+  },
+  "scripture_refs": 35,
+  "scripture_refs_resolved": 35,
+  "built_sha256": "828db0da47db583a47b842f838406a3d76b4582cdcd822a52776711d32b8480b"
+ },
+ "philo-plant-yonge": {
+  "title": "On Planting (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "5890d27d9114ffaf9b2061586fa651b6b1796bae502fb3aa405fd6ddbb90c93f",
+  "units": 177,
+  "scheme": {
+   "citation": "Plant. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-plant-cw",
+   "units": 177,
+   "matched": 177,
+   "unmatched": []
+  },
+  "built_sha256": "8879d4178164293a9c987a9c271d4c19ae59261398482907ecf21569786ae3a7"
+ },
+ "philo-ebr-cw": {
+  "title": "On Drunkenness (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "2f5df7fbb6360711a9a7a37ff819be4d351d083b5949ca4e2c995e68cc7811d7",
+  "units": 224,
+  "scheme": {
+   "citation": "Ebr. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-ebr-yonge",
+   "units": 224,
+   "matched": 224,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 11474,
+   "nt-form": 7750,
+   "nt-form-nu": 98,
+   "nt-form-major": 39,
+   "nt-key": 91,
+   "headword": 59,
+   "ambiguous": 100,
+   "unseen": 3337,
+   "latin": 0
+  },
+  "scripture_refs": 67,
+  "scripture_refs_resolved": 67,
+  "built_sha256": "75b76080b2634c38adc376258c0daf8eb357d66689615c811b54ce4ceae73213"
+ },
+ "philo-ebr-yonge": {
+  "title": "On Drunkenness (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "95fac1b8fcbf5e69e9895f2d81147b310f342892ba30d43a7a468b003b06b103",
+  "units": 224,
+  "scheme": {
+   "citation": "Ebr. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-ebr-cw",
+   "units": 224,
+   "matched": 224,
+   "unmatched": []
+  },
+  "built_sha256": "0e6566a2a2d5c4b5b429ffbed8f3f128446ff4fa270c578256aa4f6587d0f09b"
+ },
+ "philo-sobr-cw": {
+  "title": "On Sobriety (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "6932475379d6e3d6112aed12cfde1976015d0244e3f06b06ddeec0b548bfda10",
+  "units": 69,
+  "scheme": {
+   "citation": "Sobr. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-sobr-yonge",
+   "units": 69,
+   "matched": 69,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 3569,
+   "nt-form": 2437,
+   "nt-form-nu": 31,
+   "nt-form-major": 16,
+   "nt-key": 26,
+   "headword": 26,
+   "ambiguous": 37,
+   "unseen": 996,
+   "latin": 0
+  },
+  "scripture_refs": 22,
+  "scripture_refs_resolved": 22,
+  "built_sha256": "ab34bf362114faead6eb8056b503bd67f49b341b92d7276a872f735857039bd3"
+ },
+ "philo-sobr-yonge": {
+  "title": "On Sobriety (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "88f57044e42e3104c4a68fb873ce4b62f8ebf3043dd8cdd78a6e8257511aa981",
+  "units": 69,
+  "scheme": {
+   "citation": "Sobr. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-sobr-cw",
+   "units": 69,
+   "matched": 69,
+   "unmatched": []
+  },
+  "built_sha256": "7f10d93a36e58d6e4f28818977eca60118f8e56e4900c148704ee7dd729f3b12"
+ },
+ "philo-conf-cw": {
+  "title": "On the Confusion of Tongues (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "6bbfe84cda489b9bc387a6a85f4dec931c5d143e65b8259843adb881dacc0f61",
+  "units": 198,
+  "scheme": {
+   "citation": "Conf. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-conf-yonge",
+   "units": 198,
+   "matched": 198,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 10249,
+   "nt-form": 6878,
+   "nt-form-nu": 112,
+   "nt-form-major": 36,
+   "nt-key": 80,
+   "headword": 64,
+   "ambiguous": 119,
+   "unseen": 2960,
+   "latin": 0
+  },
+  "scripture_refs": 79,
+  "scripture_refs_resolved": 79,
+  "built_sha256": "2fba5bfd146a38be9c144e9b888184e8ca1b857abc69ed621895679c19bc1f5f"
+ },
+ "philo-conf-yonge": {
+  "title": "On the Confusion of Tongues (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "667a50ef6b660141e27bae88b4d1b947d76ca417e60181ae98694d490bb6bced",
+  "units": 198,
+  "scheme": {
+   "citation": "Conf. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-conf-cw",
+   "units": 198,
+   "matched": 198,
+   "unmatched": []
+  },
+  "built_sha256": "3ce703672230835b00ee69b5e5629413ca4f74dbc5a3105f4645604ee37603c5"
+ },
+ "philo-migr-cw": {
+  "title": "On the Migration of Abraham (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "7040c8de9cb269e6f75056c78d45fc4a6aa639b8fa1b1b3e87df13ffff02785c",
+  "units": 225,
+  "scheme": {
+   "citation": "Migr. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-migr-yonge",
+   "units": 225,
+   "matched": 225,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 12450,
+   "nt-form": 8616,
+   "nt-form-nu": 130,
+   "nt-form-major": 65,
+   "nt-key": 95,
+   "headword": 76,
+   "ambiguous": 132,
+   "unseen": 3336,
+   "latin": 0
+  },
+  "scripture_refs": 142,
+  "scripture_refs_resolved": 141,
+  "built_sha256": "95b02e5a3d786eec4354a80769a4b369b004978b2ee072ba5d5eecd2e21d2460"
+ },
+ "philo-migr-yonge": {
+  "title": "On the Migration of Abraham (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "6a4f94f989af1ac34bdaf7e7903b72bb63e1eca94bdfebc15b75e41182d41d65",
+  "units": 225,
+  "scheme": {
+   "citation": "Migr. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-migr-cw",
+   "units": 225,
+   "matched": 225,
+   "unmatched": []
+  },
+  "built_sha256": "6e44265708075f823e907ab6be65313ff122ee733b19be94c4e9d936ca81ad5e"
+ },
+ "philo-her-cw": {
+  "title": "Who Is the Heir of Divine Things? (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "ee538b30faeaab7433bba5050cf616a2d817cee154851b6195bb853f5e11094b",
+  "units": 316,
+  "scheme": {
+   "citation": "Her. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-her-yonge",
+   "units": 316,
+   "matched": 316,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 15669,
+   "nt-form": 10775,
+   "nt-form-nu": 185,
+   "nt-form-major": 65,
+   "nt-key": 127,
+   "headword": 89,
+   "ambiguous": 170,
+   "unseen": 4258,
+   "latin": 0
+  },
+  "scripture_refs": 152,
+  "scripture_refs_resolved": 151,
+  "built_sha256": "ae9a289f840340e78ba4e39ccc90f12a4d983d80239e02fe5e7b05aabb2e8fac"
+ },
+ "philo-her-yonge": {
+  "title": "Who Is the Heir of Divine Things? (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "3628140c5f8209cc205479302fdea2c3d4f3439a3de238e893d5e22206377e42",
+  "units": 316,
+  "scheme": {
+   "citation": "Her. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-her-cw",
+   "units": 316,
+   "matched": 316,
+   "unmatched": []
+  },
+  "built_sha256": "1071c78bffe24e522b591af23c45870c9b985898b9d9ab0cde623aef40e75e2a"
+ },
+ "philo-congr-cw": {
+  "title": "On the Preliminary Studies (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "0af3aebfd14538d08aca058d95e4fba09e018f01145f38b70e8225630dbbff4e",
+  "units": 180,
+  "scheme": {
+   "citation": "Congr. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-congr-yonge",
+   "units": 180,
+   "matched": 180,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 8824,
+   "nt-form": 5890,
+   "nt-form-nu": 105,
+   "nt-form-major": 42,
+   "nt-key": 100,
+   "headword": 79,
+   "ambiguous": 73,
+   "unseen": 2535,
+   "latin": 0
+  },
+  "scripture_refs": 73,
+  "scripture_refs_resolved": 72,
+  "built_sha256": "3fdc6cedd9de5da4c77cbdb9fdac8700f3cce7518907393969a6a3bd1e66ffea"
+ },
+ "philo-congr-yonge": {
+  "title": "On the Preliminary Studies (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "d8fb7eee8808e6b9f8b611e7621c737c77c69d9bd5188ed694a6f33bbf08de04",
+  "units": 180,
+  "scheme": {
+   "citation": "Congr. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-congr-cw",
+   "units": 180,
+   "matched": 180,
+   "unmatched": []
+  },
+  "built_sha256": "bda6ec9c7aa89edc5b4af8308adf61763ad1de1119c8cedebe50080830e137a3"
+ },
+ "philo-fug-cw": {
+  "title": "On Flight and Finding (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "bbd7ec326051c0b1e629e88a79b23586f3b7e8bb8c0364f69853ae74cafaad19",
+  "units": 213,
+  "scheme": {
+   "citation": "Fug. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-fug-yonge",
+   "units": 213,
+   "matched": 213,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 10859,
+   "nt-form": 7419,
+   "nt-form-nu": 138,
+   "nt-form-major": 54,
+   "nt-key": 80,
+   "headword": 60,
+   "ambiguous": 123,
+   "unseen": 2985,
+   "latin": 0
+  },
+  "scripture_refs": 117,
+  "scripture_refs_resolved": 115,
+  "built_sha256": "db36230f349b201e467239f4bbc1803030c054948e38e955a34a2df483f94360"
+ },
+ "philo-fug-yonge": {
+  "title": "On Flight and Finding (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "b7f1f2db04d8f1acb8e5440f43ca3025d7d3c6ce1d89fde79fac29acf3a37ae3",
+  "units": 213,
+  "scheme": {
+   "citation": "Fug. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-fug-cw",
+   "units": 213,
+   "matched": 213,
+   "unmatched": []
+  },
+  "built_sha256": "f1086a71b8840ac328febeda5d3ac4268364c2ac4ed87d30c01753ea394486b6"
+ },
+ "philo-mut-cw": {
+  "title": "On the Change of Names (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "c1394f2b4991eb636ad5dcfba20b40e3c4a991ccd3ddd1576136df25bd8fbeb0",
+  "units": 270,
+  "scheme": {
+   "citation": "Mut. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-mut-yonge",
+   "units": 270,
+   "matched": 270,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 12995,
+   "nt-form": 8882,
+   "nt-form-nu": 161,
+   "nt-form-major": 74,
+   "nt-key": 120,
+   "headword": 102,
+   "ambiguous": 133,
+   "unseen": 3522,
+   "latin": 1
+  },
+  "scripture_refs": 158,
+  "scripture_refs_resolved": 156,
+  "built_sha256": "99cd8be3686de6bad1269f8e80ffcff7d16c57bc0ae8507efaa0acb745a29b5e"
+ },
+ "philo-mut-yonge": {
+  "title": "On the Change of Names (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "afa570e363cd9f28ac09191963b3a45c172074079109c659dfb46f063dc47786",
+  "units": 270,
+  "scheme": {
+   "citation": "Mut. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-mut-cw",
+   "units": 270,
+   "matched": 270,
+   "unmatched": []
+  },
+  "built_sha256": "43ad30347dac1a538cd2866de352bb5fa9269f4686daccbc84b393248883f596"
+ },
+ "philo-somn-cw": {
+  "title": "On Dreams (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "c45679ee1817c636b606ee9d9b3cc5489954bf8619ca16e15ba7a20c397afe02",
+  "units": 558,
+  "scheme": {
+   "citation": "Somn. book.section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-somn-yonge",
+   "units": 558,
+   "matched": 558,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 25799,
+   "nt-form": 17437,
+   "nt-form-nu": 239,
+   "nt-form-major": 155,
+   "nt-key": 159,
+   "headword": 182,
+   "ambiguous": 258,
+   "unseen": 7366,
+   "latin": 3
+  },
+  "scripture_refs": 223,
+  "scripture_refs_resolved": 222,
+  "built_sha256": "d8041f4f01dfb3ab13acbcf64955e580dac29dd2bc167356c56117f9d9ac9c0c"
+ },
+ "philo-somn-yonge": {
+  "title": "On Dreams (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "a387dddf2c59351c7bc02efb9737e7febceff1809ea578d42f66b22f7b1eb23e",
+  "units": 558,
+  "scheme": {
+   "citation": "Somn. book.section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-somn-cw",
+   "units": 558,
+   "matched": 558,
+   "unmatched": []
+  },
+  "built_sha256": "c26f56ca6a3c3c3e60f4b2a571328ba7c3dfe48c5e0ae15314a087a545f846da"
+ },
+ "philo-abr-cw": {
+  "title": "On the Life of Abraham (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "43a24fb593eb354a2534d9f12f1b67103c79d5c20c1eb835e74d31c98a476f28",
+  "units": 276,
+  "scheme": {
+   "citation": "Abr. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-abr-yonge",
+   "units": 276,
+   "matched": 276,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 13287,
+   "nt-form": 9003,
+   "nt-form-nu": 109,
+   "nt-form-major": 32,
+   "nt-key": 88,
+   "headword": 78,
+   "ambiguous": 150,
+   "unseen": 3827,
+   "latin": 0
+  },
+  "scripture_refs": 24,
+  "scripture_refs_resolved": 24,
+  "built_sha256": "6e27b4ee99f28893573945b080acd1e5aee7ecc00be0cb5edade54d212d3241f"
+ },
+ "philo-abr-yonge": {
+  "title": "On the Life of Abraham (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "42d5e7f27829995f00eeaeb1281d614962d90fc9915aaf2a8e51284d828f4dbe",
+  "units": 276,
+  "scheme": {
+   "citation": "Abr. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-abr-cw",
+   "units": 276,
+   "matched": 276,
+   "unmatched": []
+  },
+  "built_sha256": "ad0a6951bccf49115b68fb962732539d77f0c152ab53f206135ab5a0fa415344"
+ },
+ "philo-ios-cw": {
+  "title": "On the Life of Joseph (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "cec791534d21aa7a88d983913ace61e441efd0f6fbdf1378909eb879e6463374",
+  "units": 270,
+  "scheme": {
+   "citation": "Ios. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-ios-yonge",
+   "units": 270,
+   "matched": 270,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 12802,
+   "nt-form": 8380,
+   "nt-form-nu": 105,
+   "nt-form-major": 43,
+   "nt-key": 81,
+   "headword": 65,
+   "ambiguous": 118,
+   "unseen": 4010,
+   "latin": 0
+  },
+  "scripture_refs": 4,
+  "scripture_refs_resolved": 4,
+  "built_sha256": "1b955e9a9aeeaa6de2c583cab8e0d9386e5cc1c8794641ddb2034f829d5b1d6e"
+ },
+ "philo-ios-yonge": {
+  "title": "On the Life of Joseph (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "1b5c793bd4069d090809d52ce19057002b399e99c7033aea3d8b4adf99ab9d09",
+  "units": 270,
+  "scheme": {
+   "citation": "Ios. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-ios-cw",
+   "units": 270,
+   "matched": 270,
+   "unmatched": []
+  },
+  "built_sha256": "6329341ceeeb7f38c1ed62ac2b5fce32841e1f11ad47973c34441ff49b976458"
+ },
+ "philo-mos-cw": {
+  "title": "On the Life of Moses (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "b999f4a73a6ae94100541239fb6880dceaf297d7fbcc597e77cb86035842a1fa",
+  "units": 626,
+  "scheme": {
+   "citation": "Mos. book.section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-mos-yonge",
+   "units": 626,
+   "matched": 626,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 31376,
+   "nt-form": 20605,
+   "nt-form-nu": 219,
+   "nt-form-major": 88,
+   "nt-key": 253,
+   "headword": 140,
+   "ambiguous": 301,
+   "unseen": 9770,
+   "latin": 0
+  },
+  "scripture_refs": 12,
+  "scripture_refs_resolved": 12,
+  "built_sha256": "2484cdf064d9d0660033b7be10af0fe117a36d8362bdbcb3d4b90f432ed73105"
+ },
+ "philo-mos-yonge": {
+  "title": "On the Life of Moses (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "13ce50637fe08cf90f911201fdb115985d1a64ef088c80f4450f0fbfc42ae7ef",
+  "units": 626,
+  "scheme": {
+   "citation": "Mos. book.section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-mos-cw",
+   "units": 626,
+   "matched": 626,
+   "unmatched": []
+  },
+  "built_sha256": "23722bebaa2f0b2b2cc5c7f8d24aba648b1ee9e8ee7dde226360ac2c453af563"
+ },
+ "philo-decal-cw": {
+  "title": "On the Decalogue (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "1ea8629f4dd8668b90b0cfce1be0c495875b79e9c90c322831c6630e53ef61c2",
+  "units": 178,
+  "scheme": {
+   "citation": "Decal. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-decal-yonge",
+   "units": 178,
+   "matched": 178,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 8436,
+   "nt-form": 5581,
+   "nt-form-nu": 70,
+   "nt-form-major": 25,
+   "nt-key": 61,
+   "headword": 35,
+   "ambiguous": 86,
+   "unseen": 2578,
+   "latin": 0
+  },
+  "scripture_refs": 4,
+  "scripture_refs_resolved": 4,
+  "built_sha256": "91c90162cdf05bb1872d3e5434ca15ef6b219a375d1ca5a24ea3e28979229a44"
+ },
+ "philo-decal-yonge": {
+  "title": "On the Decalogue (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "787a9a26adf69db59a2cf2eb6c06cbfa55b385729f0ae2f0a59eaf649b9dda6d",
+  "units": 178,
+  "scheme": {
+   "citation": "Decal. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-decal-cw",
+   "units": 178,
+   "matched": 178,
+   "unmatched": []
+  },
+  "built_sha256": "7abd3e59f09e65530bb16cda52b530ff6a704ef57797a4b0463da1df4c94a723"
+ },
+ "philo-spec-cw": {
+  "title": "On the Special Laws (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "60b4588688619bc32041c864cabc734a00ffe740dc4d5cf0627b0bd7f4312774",
+  "units": 1054,
+  "scheme": {
+   "citation": "Spec. book.section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-spec-yonge",
+   "units": 1054,
+   "matched": 996,
+   "unmatched": [
+    "1.177",
+    "1.178",
+    "1.179",
+    "1.180",
+    "1.181",
+    "1.182",
+    "1.183",
+    "1.184",
+    "1.185",
+    "1.186",
+    "1.187",
+    "1.188",
+    "1.189",
+    "1.190",
+    "1.191",
+    "1.192",
+    "1.193",
+    "2.124",
+    "2.125",
+    "2.126",
+    "2.127",
+    "2.128",
+    "2.129",
+    "2.130",
+    "2.131",
+    "2.132",
+    "2.133",
+    "2.134",
+    "2.135",
+    "2.136",
+    "2.137",
+    "2.138",
+    "2.139",
+    "2.142",
+    "2.143",
+    "2.144",
+    "2.153",
+    "2.154",
+    "2.161",
+    "2.163",
+    "2.164",
+    "2.165",
+    "2.166",
+    "2.167",
+    "2.168",
+    "2.169",
+    "2.170",
+    "2.171",
+    "2.172",
+    "2.173",
+    "2.174",
+    "2.177",
+    "2.178",
+    "2.179",
+    "2.180",
+    "2.209",
+    "2.212",
+    "2.213"
+   ]
+  },
+  "tagging": {
+   "words": 56708,
+   "nt-form": 37309,
+   "nt-form-nu": 470,
+   "nt-form-major": 141,
+   "nt-key": 407,
+   "headword": 280,
+   "ambiguous": 506,
+   "unseen": 17595,
+   "latin": 0
+  },
+  "scripture_refs": 30,
+  "scripture_refs_resolved": 30,
+  "built_sha256": "92d99a81813bcf3cb7b5da091f3c1f2bc1d700f710a645438fbb821e07d1a875"
+ },
+ "philo-spec-yonge": {
+  "title": "On the Special Laws (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "5cfce6e639c05bda85277a6e87502f2e2e49dc8ce2c42c94ce7986c75ae1d3b1",
+  "units": 996,
+  "scheme": {
+   "citation": "Spec. book.section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-spec-cw",
+   "units": 996,
+   "matched": 996,
+   "unmatched": []
+  },
+  "built_sha256": "bc953f8144335c661ca9549053cd4dbd4a68b34dc0f7cd77677b5a1da13e5bf9"
+ },
+ "philo-virt-cw": {
+  "title": "On the Virtues (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "e2c1001ca3bf457a27cc4caaf784c3dfd436c823a5ced847dd3633a2f389e434",
+  "units": 227,
+  "scheme": {
+   "citation": "Virt. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-virt-yonge",
+   "units": 227,
+   "matched": 227,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 12153,
+   "nt-form": 7932,
+   "nt-form-nu": 110,
+   "nt-form-major": 41,
+   "nt-key": 91,
+   "headword": 63,
+   "ambiguous": 112,
+   "unseen": 3804,
+   "latin": 0
+  },
+  "scripture_refs": 9,
+  "scripture_refs_resolved": 9,
+  "built_sha256": "f27e817ea4c2656a3efdae4e73a5db69ccb7563ed86e038b57d1ecfb1b80a931"
+ },
+ "philo-virt-yonge": {
+  "title": "On the Virtues (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "31eb2d27d38ac52728efca6204b7905adcb867270550494fb4d941742a2c81c4",
+  "units": 227,
+  "scheme": {
+   "citation": "Virt. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-virt-cw",
+   "units": 227,
+   "matched": 227,
+   "unmatched": []
+  },
+  "built_sha256": "b6614b887ad99aa9eedcc13fb41fbd1fdf54e3357c561bfb19988f56d6d43bed"
+ },
+ "philo-praem-cw": {
+  "title": "On Rewards and Punishments (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "545687ec360d0d8d2f97776a3515a9c44db9f33b3b5f9493da6de70e4359e243",
+  "units": 172,
+  "scheme": {
+   "citation": "Praem. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-praem-yonge",
+   "units": 172,
+   "matched": 172,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 9075,
+   "nt-form": 5941,
+   "nt-form-nu": 62,
+   "nt-form-major": 18,
+   "nt-key": 60,
+   "headword": 44,
+   "ambiguous": 71,
+   "unseen": 2879,
+   "latin": 0
+  },
+  "scripture_refs": 8,
+  "scripture_refs_resolved": 8,
+  "built_sha256": "d6d20b224adf9300da019dc00bca68d10f0699fb138965715bb259bda9e5bc86"
+ },
+ "philo-praem-yonge": {
+  "title": "On Rewards and Punishments (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "6548b9a5a70e1b6356ac229202d1e05c0b3ef7d86118dd77bce848f4351639d5",
+  "units": 172,
+  "scheme": {
+   "citation": "Praem. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-praem-cw",
+   "units": 172,
+   "matched": 172,
+   "unmatched": []
+  },
+  "built_sha256": "8d63bd0d11fbd3516649809d6a53264d26d448c09be509846a5167c29d1901c4"
+ },
+ "philo-prob-cw": {
+  "title": "That Every Good Person Is Free (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "9a2f287c2293f22b2357f2e5df07b1b551f70aa65d53bb519fb1d7c03418a49b",
+  "units": 160,
+  "scheme": {
+   "citation": "Prob. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-prob-yonge",
+   "units": 160,
+   "matched": 160,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 7611,
+   "nt-form": 4867,
+   "nt-form-nu": 78,
+   "nt-form-major": 23,
+   "nt-key": 44,
+   "headword": 57,
+   "ambiguous": 81,
+   "unseen": 2461,
+   "latin": 0
+  },
+  "scripture_refs": 3,
+  "scripture_refs_resolved": 3,
+  "built_sha256": "3f4bc8c2ecd537d564ae585f27b9b935a1909c64da06b0a99afb13fef7340da5"
+ },
+ "philo-prob-yonge": {
+  "title": "That Every Good Person Is Free (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "07555f7dba296690937b0222072d2240273cb4e2e0ff641c96b328b34aaa9539",
+  "units": 160,
+  "scheme": {
+   "citation": "Prob. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-prob-cw",
+   "units": 160,
+   "matched": 160,
+   "unmatched": []
+  },
+  "built_sha256": "fe2cb7961b1aef1c413fa5e4105ab0e5a781e51e7e3b76a0a355d620bb864db5"
+ },
+ "philo-contempl-cw": {
+  "title": "On the Contemplative Life (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "7b2c44539b64dd9283477478f58473c4553bc2392d08d046f870d942795a8cd5",
+  "units": 90,
+  "scheme": {
+   "citation": "Contempl. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-contempl-yonge",
+   "units": 90,
+   "matched": 90,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 4604,
+   "nt-form": 2973,
+   "nt-form-nu": 37,
+   "nt-form-major": 10,
+   "nt-key": 28,
+   "headword": 28,
+   "ambiguous": 27,
+   "unseen": 1501,
+   "latin": 0
+  },
+  "scripture_refs": 0,
+  "scripture_refs_resolved": 0,
+  "built_sha256": "66541ca81ab4c2304d8af7f3245b83cf45fedf42ff426122a4af8214c97fb2c9"
+ },
+ "philo-contempl-yonge": {
+  "title": "On the Contemplative Life (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "58718498427509af12206922c1e8d38419a7d6b10bd301dd8e0d1d638a7737d0",
+  "units": 90,
+  "scheme": {
+   "citation": "Contempl. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-contempl-cw",
+   "units": 90,
+   "matched": 90,
+   "unmatched": []
+  },
+  "built_sha256": "ee3303f2a87850bd9aaa022478ae02799c8930079c3dcd3ea12b72bb6b08bb7e"
+ },
+ "philo-aet-cw": {
+  "title": "On the Eternity of the World (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "4085ddd21df092222cb5122e729f08e01208987a5e6974a598ccd9373bbfe72c",
+  "units": 150,
+  "scheme": {
+   "citation": "Aet. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-aet-yonge",
+   "units": 150,
+   "matched": 150,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 9190,
+   "nt-form": 6084,
+   "nt-form-nu": 77,
+   "nt-form-major": 42,
+   "nt-key": 77,
+   "headword": 60,
+   "ambiguous": 100,
+   "unseen": 2750,
+   "latin": 0
+  },
+  "scripture_refs": 4,
+  "scripture_refs_resolved": 4,
+  "built_sha256": "3abb90dd47e7394e0183019dcec0ea8b6f1ed9c75a545227baba7ff30b8f8c9f"
+ },
+ "philo-aet-yonge": {
+  "title": "On the Eternity of the World (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "b8f7636ecfaa456262f6e43f0a8a9b06392f7488020a4d48267b2209b5a4a86f",
+  "units": 150,
+  "scheme": {
+   "citation": "Aet. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-aet-cw",
+   "units": 150,
+   "matched": 150,
+   "unmatched": []
+  },
+  "built_sha256": "30845fd0c73aa06c254b4587211e83147ac91c15208fbcd479de322455be9d9f"
+ },
+ "philo-flacc-cw": {
+  "title": "Against Flaccus (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "e12a3b67c3ba1a415e0281c8ea83b911048d9e18f54ba0f54c24b5ceb26b2e6f",
+  "units": 191,
+  "scheme": {
+   "citation": "Flacc. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-flacc-yonge",
+   "units": 191,
+   "matched": 191,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 8925,
+   "nt-form": 5730,
+   "nt-form-nu": 65,
+   "nt-form-major": 42,
+   "nt-key": 51,
+   "headword": 49,
+   "ambiguous": 78,
+   "unseen": 2910,
+   "latin": 0
+  },
+  "scripture_refs": 0,
+  "scripture_refs_resolved": 0,
+  "built_sha256": "3f898d6f404de5e23ca65271e48ffadd57ece70adcedc39ab9ff6bdb060076c3"
+ },
+ "philo-flacc-yonge": {
+  "title": "Against Flaccus (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "bbc3376625ceef84105a57134cea5209dbb27c6404aa29ba581bf23e35034200",
+  "units": 191,
+  "scheme": {
+   "citation": "Flacc. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-flacc-cw",
+   "units": 191,
+   "matched": 191,
+   "unmatched": []
+  },
+  "built_sha256": "9502963ff332af9d5744be4e72277b224642b786933231753bdb67f7fe6aabe9"
+ },
+ "philo-legat-cw": {
+  "title": "On the Embassy to Gaius (Greek)",
+  "author": "Philo of Alexandria",
+  "format": "tei-first1k",
+  "sha256": "f4a8cf68b226474508e6800ce8bd3ed94083b230f765c27f003a77dcf7310f78",
+  "units": 373,
+  "scheme": {
+   "citation": "Legat. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "exact to Cohn-Wendland's sections; the Greek is First1KGreek's OCR of the Berlin edition, corrected but not proofread here",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`; editorial additions (<add>) are printed as ⟨ ⟩"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-legat-yonge",
+   "units": 373,
+   "matched": 373,
+   "unmatched": []
+  },
+  "tagging": {
+   "words": 17480,
+   "nt-form": 11442,
+   "nt-form-nu": 120,
+   "nt-form-major": 97,
+   "nt-key": 142,
+   "headword": 109,
+   "ambiguous": 175,
+   "unseen": 5395,
+   "latin": 0
+  },
+  "scripture_refs": 0,
+  "scripture_refs_resolved": 0,
+  "built_sha256": "5c4871dc50450cd6acfa9537c3923f87860ca580ff095ec3d60cc1c13606f198"
+ },
+ "philo-legat-yonge": {
+  "title": "On the Embassy to Gaius (English)",
+  "author": "Philo of Alexandria, tr. C. D. Yonge",
+  "format": "tei-first1k",
+  "sha256": "01ecd4203c21a2a98b6a341ee0abff854682f3c990f3d4cbaf1566d021ff4537",
+  "units": 373,
+  "scheme": {
+   "citation": "Legat. section (Cohn-Wendland)",
+   "resolution": "Cohn-Wendland section",
+   "honesty": "Yonge's English as First1KGreek re-cut it to Cohn-Wendland's sections (after Scholer's edition); a section boundary in a translation is approximate, and sections the file lacks are listed under alignment.unmatched of the Greek",
+   "note": "The apparatus, marginal Mangey pages and heads are left out of `text`"
+  },
+  "rights": {
+   "license": "CC BY-SA 4.0 (the First1KGreek digital edition); the text, Cohn-Wendland's Greek (1896-1915) or Yonge's English (1854-55), is public domain",
+   "attribution": "First1KGreek, Open Greek and Latin (opengreekandlatin.org)",
+   "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek/tree/03776b39f4047c5cff06f5296fae4b2bae4b08fb/data/tlg0018",
+   "redistribute_whole": false
+  },
+  "alignment": {
+   "counterpart": "philo-legat-cw",
+   "units": 373,
+   "matched": 373,
+   "unmatched": []
+  },
+  "built_sha256": "cc78b687228b7619433796379bd8618bc600032bd49537bd49b892341642933a"
+ },
+ "tagnt-variants": {
+  "title": "Greek New Testament: a variant apparatus of eight editions",
+  "author": "STEPBible.org / Tyndale House Cambridge (TAGNT)",
+  "format": "tagnt-tsv",
+  "sha256": [
+   "ab8eaaeb68e17a1dcfa34e1e9350358f22f03bc2a97244d848750ad81044bc8e",
+   "524e32375361e6d3fa2f7ef00b87605fdc4317a762f395651a05fdc31ad031b7"
+  ],
+  "units": 4737,
+  "scheme": {
+   "citation": "KJV book chapter:verse (TAGNT's KJV number where it differs from the NRSV's)",
+   "resolution": "word, within the verse",
+   "honesty": "TAGNT's own collation of eight printed editions, not a manuscript apparatus; 'significant' is TAGNT's judgement (upper-case variant codes). Its Byz is RP2005, not data/nt's RP2018: --measure says how far they agree.",
+   "note": "One unit per KJV verse where the editions differ; `text` is a readable apparatus line, `lex` the structured readings. TAGNT's English (Berean) and Spanish columns are never read in."
+  },
+  "rights": {
+   "license": "CC BY 4.0 (STEPBible-Data, Tyndale House Cambridge); STEPBible asks that the data not be redistributed, only pointed to",
+   "attribution": "TAGNT - Translators Amalgamated Greek NT, STEPBible.org, based on work at Tyndale House Cambridge",
+   "source_url": "https://github.com/STEPBible/STEPBible-Data/tree/b99716b0cddb648ddb95cc786a197180f2f97d48/Translators%20Amalgamated%20OT+NT",
+   "redistribute_whole": false
+  },
+  "stats": {
+   "words": 142096,
+   "verses": 7957,
+   "units": 4737,
+   "readings": 8198,
+   "significant": 1724,
+   "minor": 6474,
+   "spelling": 2424,
+   "meaning": 3866,
+   "displaced": 1748
+  },
+  "built_sha256": "318fcb2c6ed6ff3a8dfc56992860bc6231aea13edd06c26ec54bc4d6487c72dd"
  }
 }
