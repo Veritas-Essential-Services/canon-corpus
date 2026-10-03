@@ -175,3 +175,11 @@ Other lanes already hold William Cunningham, Thomas Chalmers and James Buchanan.
 | Baird, Rise of the Huguenots (2 vols, 1879); Huguenots and Henry of Navarre (2 vols, 1886); Huguenots and the Revocation (1895, vol. 1); Theodore Beza (1899) | have-raw | `henry-baird_shelf.json`; Revocation vol. 2 pending |
 | Wylie, The History of Protestantism (Cassell, 3 vols) | have-raw | `james-wylie_shelf.json` |
 | Muston, The Israel of the Alps, tr. Montgomery (Blackie, 1875, 2 vols) | have-raw | `alexis-muston_shelf.json` |
+
+## Confessions and creeds
+
+| Work | Status | Where |
+|---|---|---|
+| Schaff, The Creeds of Christendom (3 vols; CCEL, proofed) | have | `philip-schaff_shelf.json`; vols I-II from the 1919 sixth edition, vol. III from a reprint of 1889; CCEL's vol. III lacks Part First (Lutheran) |
+| The Harmony of Protestant Confessions, ed. Peter Hall (1842) | have-raw | `peter-hall_shelf.json` |
+| Dunlop, A Collection of Confessions of Faith (1719-22, 2 vols) | pending | only long-s 18th-century scans; not yet read |

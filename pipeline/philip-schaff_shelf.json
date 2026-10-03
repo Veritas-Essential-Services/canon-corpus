@@ -1,0 +1,77 @@
+{
+ "_about": "Philip Schaff (1819-1893), The Creeds of Christendom, with a History and Critical Notes (3 vols): I, the History of Creeds; II, the Greek and Latin Creeds, with translations; III, the Creeds of the Evangelical Protestant Churches, the Reformed confessions and catechisms in their original languages with English translations. CCEL's proofed editions. CCEL states its print source as the 'Sixth Edition' for vols. I and II (the 1919 revision by David S. Schaff, published before 1930) and '1889 (Baker reprint)' for vol. III, a plain photographic reprint of the 1889 text, noted here as the relay asks. CCEL asks non-commercial use of some prepared editions (CLAUDE.md rule 6); noted, not ruled on. Named philip-schaff so his son David cannot collide. CCEL's vol. III omits Schaff's Part First, the Lutheran symbols (Augsburg Confession, Formula of Concord and the rest): it opens at Part Second, the Reformed creeds.",
+ "_name_words": [
+  "schaff",
+  "philip"
+ ],
+ "_surname": [
+  "schaff"
+ ],
+ "_ccel_author": "s/schaff",
+ "ccel": {
+  "schaff-creeds-1": [
+   "creeds1",
+   "The Creeds of Christendom, vol. I: The History of Creeds",
+   ""
+  ],
+  "schaff-creeds-2": [
+   "creeds2",
+   "The Creeds of Christendom, vol. II: The Greek and Latin Creeds, with Translations",
+   ""
+  ],
+  "schaff-creeds-3": [
+   "creeds3",
+   "The Creeds of Christendom, vol. III: The Evangelical Protestant Creeds, with Translations",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {},
+ "_alternates": {
+  "creedsofchristen01scha, creedsofchristen187803scha, bibliothecasymbo02/03scha, creedsofchristen011831mbp, creedsofchristen027251mbp": "Internet Archive scans of the 1877-1878 and later printings; CCEL's proofed text is held instead of raw OCR."
+ },
+ "_pending": {
+  "Creeds of Christendom vol. III, Part First (the Lutheran symbols)": "Missing from CCEL's vol. III; the 1878 Princeton scan (creedsofchristen187803scha) prints it, and could be shelved whole as raw OCR if wanted."
+ },
+ "_excluded": {
+  "creedsofchristen0001phil_r9t1, creedsofchristen0000phil_c6b9 and other internetarchivebooks copies": "Lending-library scans."
+ },
+ "_checks": {
+  "schaff-creeds-1": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Sixth Edition",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "schaff-creeds-2": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Sixth Edition",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "schaff-creeds-3": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "schaff",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "1889 (Baker reprint)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  }
+ }
+}
