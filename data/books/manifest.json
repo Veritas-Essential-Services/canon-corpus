@@ -2082,7 +2082,7 @@
    "unseen": 80248,
    "latin": 0
   },
-  "built_sha256": "f967f852632d7f4ff0e33f29c714ebd22857c19581055acce65afe47effe656a"
+  "built_sha256": "eab565d3a258f63538ddce8ac4924a727a25c8f32700dc5c572bb2b2fca4204f"
  },
  "josephus-ant-whiston": {
   "title": "Antiquities of the Jews (English)",
@@ -2093,7 +2093,7 @@
   "scheme": {
    "citation": "Ant. book.chapter.section (Whiston)",
    "resolution": "Whiston section",
-   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it)",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it, corrected by FIXES)",
    "note": "Notes, heads and chapter titles are left out of `text`"
   },
   "rights": {
@@ -2108,7 +2108,7 @@
    "matched": 1444,
    "unmatched": []
   },
-  "built_sha256": "31b680dc42ab1208934913b3a631a0bd092db29d97bb87b3478c950f10862cab"
+  "built_sha256": "87500cf6e9664a47d5550a881fc305f1145d897bf45a8ef793990b008055daa0"
  },
  "josephus-war-niese": {
   "title": "The Jewish War (Greek)",
@@ -2156,7 +2156,7 @@
   "scheme": {
    "citation": "J.W. book.chapter.section (Whiston)",
    "resolution": "Whiston section",
-   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it)",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it, corrected by FIXES)",
    "note": "Notes, heads and chapter titles are left out of `text`"
   },
   "rights": {
@@ -2171,7 +2171,7 @@
    "matched": 707,
    "unmatched": []
   },
-  "built_sha256": "e5cd950fa27e047a70fd66ee7a1faccdddbfd8c19855dad51b6c7a4bdafe3494"
+  "built_sha256": "2e1a20ec69cdcb6a6c17d66f7a393ef00a0b81b6374a974a2c52d865721cb695"
  },
  "josephus-life-niese": {
   "title": "The Life of Flavius Josephus (Greek)",
@@ -2219,7 +2219,7 @@
   "scheme": {
    "citation": "Life section (Whiston)",
    "resolution": "Whiston section",
-   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it)",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it, corrected by FIXES)",
    "note": "Notes, heads and chapter titles are left out of `text`"
   },
   "rights": {
@@ -2234,7 +2234,7 @@
    "matched": 76,
    "unmatched": []
   },
-  "built_sha256": "ec1c9379c57f2bc3de92d9de156b8027730a3e72b85a110dde7505ed75df9968"
+  "built_sha256": "f22aafd7b0324068d15c497a460485c31f64bfe0add42b4daf7ba1a9463915cd"
  },
  "josephus-apion-niese": {
   "title": "Against Apion (Greek)",
@@ -2282,7 +2282,7 @@
   "scheme": {
    "citation": "Ag. Ap. book.section (Whiston)",
    "resolution": "Whiston section",
-   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it)",
+   "honesty": "exact to Whiston's sections, which Perseus marks in both files at the same points; each unit's Niese sections are in lex.niese (the Niese section where the English piece begins, as Perseus keyed it, corrected by FIXES)",
    "note": "Notes, heads and chapter titles are left out of `text`"
   },
   "rights": {
@@ -2297,7 +2297,7 @@
    "matched": 77,
    "unmatched": []
   },
-  "built_sha256": "423bcb0de92d44738f9e6a1d42ac3e1de69e95ec0012f8797e6b5552439131a1"
+  "built_sha256": "69411410ef072d2095c0ed48dc079be41b9c0235ecc0741bb30529884e9cfb2e"
  },
  "philo-opif-cw": {
   "title": "On the Creation of the World (Greek)",
