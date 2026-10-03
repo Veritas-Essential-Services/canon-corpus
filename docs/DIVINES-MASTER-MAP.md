@@ -2460,6 +2460,11 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | The Tragedies of Sophocles translated into English Verse, vol. I (London: J. M. Richardson, 1824) | Thomas Dale | `sophocles-dale-1824-v1` | have-raw (IA `tragediesofsopho01soph_0`) |
 | The Tragedies of Sophocles translated into English Verse, vol. II (London: J. M. Richardson, 1824) | Thomas Dale | `sophocles-dale-1824-v2` | have-raw (IA `tragediesofsopho02soph`) |
 | The Oedipus Tyrannus of Sophocles (1922) | J. T. Sheppard | `sophocles-sheppard-oedipus-tyrannus-1922` | have-raw (IA `oedipustyr00soph`) |
+| The Ajax of Sophocles (George Allen and Unwin, first published 1919) | R. C. Trevelyan | `sophocles-trevelyan-ajax-1919` | have-raw (IA `cu31924026593446`) |
+| Sophocles: Philoctetes, a translation (University Tutorial Series; W. B. Clive, undated; catalogue [1892]) | F. G. Plaistowe | `sophocles-plaistowe-philoctetes` | have-raw (IA `sophoclesphiloct00soph`) |
+| The Tragedies of Sophocles in English prose: the Oxford translation, new edition revised according to the text of Dindorf (New York: Harper, 1886) | unnamed (the Oxford translation; IA catalogue: T. A. Buckley) | `sophocles-oxford-prose-1886` | have-raw (IA `tragediesofsopho00sophrich`) |
+| The Ajax of Sophocles translated into English prose (London, 1895) | E. D. A. Morshead | `sophocles-morshead-ajax-1895` | have-raw (IA `ajaxofsophocles00sophrich`) |
+| The Tragedies of Sophocles translated into English prose (George Bell, 1905) | Edward P. Coleridge | `sophocles-coleridge-prose-1905` | have-raw (IA `tragediesofsopho00sophiala`) |
 
 Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 
@@ -2906,6 +2911,8 @@ Shelf: `pipeline/tacitus_shelf.json`. Church and Brodribb's Annals and Histories
 | The Works of Tacitus, with Political Discourses, vol. 4 (1753) | Thomas Gordon | `tacitus-gordon-v4` | have-raw (IA `worksoftacituswi04taci`) |
 | The Works of Tacitus, with Political Discourses, vol. 5 (1753) | Thomas Gordon | `tacitus-gordon-v5` | have-raw (IA `worksoftacituswi05taci`) |
 | Tacitus, The Histories, vol. I: Books I-III, with an English translation (Loeb; London: Heinemann, New York: Putnam, MCMXXV; Latin facing) | Clifford H. Moore | `tacitus-moore-histories-v1` | have-raw (IA `tacitus-in-5-volumes.-v.-2-loeb-111`) |
+| The Annals of Tacitus, Books I-VI, an English translation (London: John Murray, 1904) | George Gilbert Ramsay | `tacitus-ramsay-annals-1904-v1` | have-raw (IA `cu31924071188753`) |
+| The Annals of Tacitus, Books XI-XVI, an English translation (London: John Murray, 1909) | George Gilbert Ramsay | `tacitus-ramsay-annals-1909-v2` | have-raw (IA `cu31924071188761`) |
 
 Pending (wishlist): Jackson's Loeb Annals (1931-37, not cleared); 
 
@@ -2973,6 +2980,7 @@ Shelf: `pipeline/sallust_shelf.json`. Watson (Bohn). Not minted.
 | Sallust (Loeb, 1921) | J. C. Rolfe | `sallust-rolfe` | have-raw (IA `sallustsa00sall`) |
 | The Works of Sallust, translated into English, with political discourses, and Cicero's four orations against Catiline (London: R. Ware, 1744) | Thomas Gordon | `sallust-gordon-1744` | have-raw (IA `worksofsallusttr00sall`) |
 | Sallust, translated by W. Rose, with improvements and notes (Valpy's Family Classical Library, 1830) | William Rose (revised) | `sallust-rose-1830` | have-raw (IA `sallusttrbywros00crisgoog`) |
+| The Catiline and Jugurtha of Sallust translated into English (Macmillan, 1882) | Alfred W. Pollard | `sallust-pollard-1882` | have-raw (IA `catilinejugurtha00sallrich`) |
 
 
 ## Pliny the Elder and the Younger
@@ -3065,6 +3073,9 @@ Shelf: `pipeline/catullus_shelf.json`. Ellis (1871) and Burton-Smithers (1894), 
 | The Poems of Valerius Catullus, translated into English verse (Edinburgh, 1867) | James Cranstoun | `catullus-cranstoun-1867` | have-raw (IA `poemsofvaleriusc00caturich`) |
 | The Poems of Caius Valerius Catullus translated, with a preface and notes, vol. I (London: John Murray, 1821) | George Lamb | `catullus-lamb-1821-v1` | have-raw (IA `poemscaiusvaler01catugoog`) |
 | Erotica: the Poems of Catullus and Tibullus, the Vigil of Venus, a literal prose translation with notes, with the metrical versions of Lamb and Grainger and others (Bohn, MDCCCLIV) | Walter K. Kelly | `catullus-tibullus-kelly-erotica-1854` | have-raw (IA `cu31924031218211`) |
+| The Poems of Caius Valerius Catullus in English verse, with the Latin text revised, vol. I (London: J. Johnson, 1795; Latin facing) | anonymous (IA catalogue: John Nott) | `catullus-nott-1795-v1` | have-raw (IA `poemsofcaiusvale01catuiala`) |
+| Catullus translated into English verse (London: Kegan Paul, 1879) | Thomas Hart-Davies | `catullus-hart-davies-1879` | have-raw (IA `catullus01catu`) |
+| The Poems of Gaius Valerius Catullus, with notes and a translation (G. Bell, 1912) | Charles Stuttaford | `catullus-stuttaford-1912` | have-raw (IA `poemsofgaiusvale00catuiala`) |
 
 
 Excluded: PG 23720 (serves a 404).
@@ -3787,6 +3798,7 @@ Shelf: `pipeline/martial_shelf.json`. Bohn prose translation, 1897 printing (IA,
 | Martial, Epigrams, vol. 1: Spectacles, Books I-VII (Loeb, 1919) | Walter C. A. Ker | `martial-ker-v1` | have-raw (IA `martialepigrams01martiala`) |
 | Martial, Epigrams, vol. 2: Books VIII-XIV (Loeb, 1920) | Walter C. A. Ker | `martial-ker-v2` | have-raw (IA `martialepigrams02martiala`) |
 | The Epigrams of Martial, translated into English prose, each accompanied by one or more verse translations from the works of English poets (Bohn's Classical Library; George Bell, 1877) | unnamed (Bohn prose), with verse versions by various hands | `martial-bohn-1877` | have-raw (IA `epigramsmartial01bohngoog`) |
+| A Roman Wit: epigrams of Martial rendered into English (Boston and New York, copyright 1911) | Paul Nixon | `martial-nixon-roman-wit-1911` | have-raw (IA `romanwitepigrams00mart`) |
 
 ## Statius
 
@@ -4056,6 +4068,7 @@ Shelf: `pipeline/propertius_shelf.json`. Butler's Loeb (1912, Latin facing; the 
 | Propertius, with an English translation (Loeb, 1912; 1929 reprint) | H. E. Butler | `propertius-butler-loeb` | have-raw (IA `propertiuswithen00propuoft`) |
 | The Elegies of Propertius, with notes, literally translated (Bohn, 1895 reprint) | P. J. F. Gantillon (select elegies in verse by Nott and Elton) | `propertius-gantillon-bohn` | have-raw (IA `elegiesofpropert00propiala`) |
 | The Elegies of Sextus Propertius, translated into English verse (Edinburgh, 1875) | James Cranstoun | `propertius-cranstoun-1875` | have-raw (IA `elegiessextuspr00unkngoog`) |
+| Propertius, translated (Oxford: Clarendon Press, 1906) | J. S. Phillimore | `propertius-phillimore-1906` | have-raw (IA `propertius00propuoft`) |
 
 Pending (wishlist): Phillimore's 1906 prose translation (Oxford), if a scan turns up.
 

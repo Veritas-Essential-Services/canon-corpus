@@ -137,3 +137,4 @@
 - **Thucydides and Pliny (05:44):** Bloomfield's Thucydides and Orrery's Pliny. Reviewer cycle 10 done. (The run paused 03:02-05:40 on a tool rate limit.)
 - Queen Elizabeth I's Boethius (EETS 1899) is now on the boethius shelf: it is an edited Tudor manuscript text, so its spelling is old; no decision needed unless you want it kept apart.
 - 06:05 Homer: 22 more volumes of verse translations, all published 1809-1911; nothing needs a decision.
+- 06:10 Pott and Wright's Martial (Broadway Translations): the title page is undated, the back has a 1926 series list and IA says 1924. It is held, not taken. Decide with the later-printings rule whether a pre-1930 date from a series list is enough.

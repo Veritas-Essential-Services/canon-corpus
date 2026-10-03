@@ -772,6 +772,14 @@
    "started": "2026-10-03T05:57:44-05:00",
    "finished": "2026-10-03T06:05:27-05:00",
    "notes": "Added 15 translators, 22 volumes: Mackail Odyssey I-III (1903-10), Cotterill Odyssey 1911, Carnarvon Odyssey I-XII 1886, Munford Iliad vol. II 1846, I. C. Wright Iliad vol. I 1861, Blackie Iliad vols. II-III 1866, Cayley Iliad 1877, Merivale Iliad 1869, Morrice Iliad 1809, Musgrave Odyssey vol. II 1865, Barnard Odyssey 1876, Schomberg Odyssey 1879/1882, H. Smith Wright Iliad I-IV 1885, Cordery Iliad 1871, Sotheby Iliad and Odyssey 1833 (vols. I, II, IV). Not found as text: Munford vol. I, Wright vol. II, Musgrave vol. I, Mackail duplicate scans skipped. Sotheby vol. III answered 503; Herschel's Iliad (1866) 404. W. C. Green's Iliad with verse translation (1884) refused, OCR 0.53. Homer 47 items, verify 0 mismatched."
+  },
+  {
+   "id": "latin-greek-gapfill-1",
+   "status": "done",
+   "scope": "Gap-fill: Sophocles, Catullus, Propertius, Tacitus, Sallust, Martial",
+   "started": "2026-10-03T06:05:27-05:00",
+   "finished": "2026-10-03T06:10:57-05:00",
+   "notes": "Sophocles: Trevelyan Ajax 1919, Plaistowe Philoctetes (undated; catalogue 1892), the Oxford prose translation (Harper 1886; Buckley catalogue-only), Morshead Ajax 1895, E. P. Coleridge 1905. Catullus: Nott vol. I 1795 (anonymous; catalogue attribution), Hart-Davies 1879, Stuttaford 1912. Propertius: Phillimore 1906. Tacitus: Ramsay's Annals I-VI 1904, XI-XVI 1909. Sallust: Pollard 1882. Martial: Nixon 1911. Refused: Cholmeley's Theocritus (OCR 0.50), the 1720 Tibullus (0.75), Nott vol. II (0.76). Held for Adam: Pott and Wright's Martial (Routledge Broadway Translations): undated title page, a 1926 series list in the back, IA says 1924, so the printing date cannot be fixed from the scan."
   }
  ]
 }

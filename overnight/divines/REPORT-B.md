@@ -469,3 +469,10 @@
 - Missing companion volumes: Munford I, Wright II, Musgrave I, Sotheby III (503)
 - Refused: Green 1884 (OCR 0.53); Herschel 1866 404
 - verify: 47 items, 0 mismatched
+
+## 2026-10-03 06:10 CDT — Sophocles, Catullus, Propertius, Tacitus, Sallust, Martial
+- sophocles: Trevelyan 1919, Plaistowe (c. 1892), Oxford prose 1886, Morshead 1895, E. P. Coleridge 1905
+- catullus: Nott vol. I 1795 (catalogue attribution), Hart-Davies 1879, Stuttaford 1912
+- propertius: Phillimore 1906; tacitus: Ramsay's Annals (2 vols.); sallust: Pollard 1882; martial: Nixon 1911
+- Refused on OCR: Cholmeley's Theocritus, the 1720 Tibullus, Nott vol. II
+- Held: Pott and Wright's Martial (printing date not on the title page)
