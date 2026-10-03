@@ -1,0 +1,34 @@
+{
+ "_about": "Pu Songling's (1640-1715) Liaozhai zhiyi as Strange Stories from a Chinese Studio, tr. Herbert A. Giles (1880; the PG text is the revised edition in two volumes, here as one file). Giles is the translator. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Pu Songling",
+ "_name_words": [
+  "strange",
+  "stories",
+  "chinese",
+  "studio"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "liaozhai-strange-stories-chinese-studio": [
+   43629,
+   "Strange Stories from a Chinese Studio, tr. Herbert A. Giles (vols. 1 and 2)",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.$",
+      "title_next": true
+     },
+     {
+      "re": "FOOTNOTES:$"
+     }
+    ],
+    "start": "STRANGE STORIES$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "liaozhai-volumes": "vols. 1 and 2 as separate files (PG 43627, 43628): the same text as the combined file"
+ }
+}

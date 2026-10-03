@@ -315,3 +315,6 @@
 
 ## 2026-10-02 19:50 CDT — bain: done
 - 2/2 fetched (Gutenberg 29672, 64807), 1,335 units, 0 ~2 ids.
+
+## 2026-10-02 19:50 CDT — giles-liaozhai: done
+- 1/1 fetched (Gutenberg 43629), 1,894 units, 0 ~2 ids.
