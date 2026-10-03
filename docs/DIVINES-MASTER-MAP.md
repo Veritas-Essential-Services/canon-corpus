@@ -1049,6 +1049,16 @@ No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `jajames-works
 |---|---|---|
 | Works, ed. T. S. James, vols 1-14, 16-17 (London: Hamilton, Adams, from 1860): The Anxious Inquirer, Christian Charity, the Family Monitor, addresses, sermons and the rest | have-raw | IA (identifiers in the shelf) |
 | Works, vol. 15 | pending | no scan with a text layer |
+
+## William Jay (round 6, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Trinity College, Toronto and Princeton scans; slugs `wjay-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, 3 vols (New York: Harper, 1861): vol. 1 the daily exercises for the closet, vol. 2 short discourses for families and more, vol. 3 sermons | have-raw | IA (identifiers in the shelf) |
+| Autobiography, ed. Redford and J. A. James (1855) | have-raw | IA |
+| Earlier collected editions (1832, 1844); separate printings | alternate | IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

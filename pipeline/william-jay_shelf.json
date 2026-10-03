@@ -1,0 +1,87 @@
+{
+ "_about": "Public-domain William Jay (1769-1853, Independent minister of Argyle Chapel, Bath) for the Word Hoard: the Works (New York: Harper, 1861, 3 vols, 'comprising matter not heretofore presented to the American public') and his Autobiography (London: Hamilton, Adams, 1855, ed. George Redford and John Angell James), raw Internet Archive OCR from Trinity College, Toronto and Princeton scans. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 6 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "jay",
+  "william"
+ ],
+ "_surname": [
+  "jay"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wjay-works-1": [
+   "worksofwilliamj01jayuoft",
+   "The Works of the Rev. William Jay, vol. 1 (New York: Harper, 1861)"
+  ],
+  "wjay-works-2": [
+   "worksofwilliamj02jayuoft",
+   "The Works of the Rev. William Jay, vol. 2 (New York: Harper, 1861)"
+  ],
+  "wjay-works-3": [
+   "worksofrevwillia03jaywuoft",
+   "The Works of the Rev. William Jay, vol. 3 (New York: Harper, 1861)"
+  ],
+  "wjay-autobiography-1855": [
+   "autobiographyofr00jayw",
+   "The Autobiography of the Rev. William Jay, with Reminiscences, ed. George Redford and John Angell James (London: Hamilton, Adams, 1855)"
+  ]
+ },
+ "_alternates": {
+  "worksofrevwillia01..03jayw (1844, NYPL); standardworksofr01..03jayw (1832)": "Earlier American collected editions.",
+  "morning*, evening*, exercisesforclos12jayw; christiancontem*; lecturesonfemale*; prayersforuseof*; sermons*jay*; thoughtsonmarria00jayw; eveningswithjes00jaygoog": "Separate printings of his books (1800-1866); not every one was confirmed inside the Works.",
+  "autobiographyofr00jayw_0, _1, 00jaywrich, 01/02jayw, 0000jayw; autobiographyre00jamegoog; MN41815ucmf_2": "Other scans of the Autobiography."
+ },
+ "_excluded": {
+  "memoirsoflifech00will": "Matthew Henry's memoir of his sister Sarah Savage, which Jay only introduced.",
+  "lightedvalley00bolt": "A memoir by another author.",
+  "remarksoncharact00jayw (1821)": "A pamphlet."
+ },
+ "_checks": {
+  "wjay-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wjay-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wjay-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wjay-autobiography-1855": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

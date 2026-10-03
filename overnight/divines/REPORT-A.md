@@ -283,3 +283,6 @@
 
 ## 2026-10-02 20:55 CDT — john-angell-james done
 - `pipeline/john-angell-james_shelf.json`: 16 of 17 volumes, raw IA OCR, median 99.0% (98.1-99.3%), about 16 MB. IA's identifiers do not follow the volume order; the shelf maps them by the catalogue's volume field, and the title pages confirm it for 14 of the 16 (vols 9 and 11 print no volume number in the opening pages). Vol. 15 has no scan with a text layer, so it is pending. The surname check uses "angell james", because "james" alone would match almost any book. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 20:57 CDT — william-jay done
+- `pipeline/william-jay_shelf.json`: 4 volumes, raw IA OCR, median 98.4% (98.3-98.6%), about 13 MB. Each Works volume's contents page was read for the map line; whether the Works hold every separately printed book (Female Scripture Characters, Thoughts on Marriage) was not confirmed, so those printings are listed as alternates, not claimed. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
