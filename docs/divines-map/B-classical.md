@@ -327,6 +327,7 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | The Iliad and Odyssey, vol. I: the Iliad (London: Nicol and Murray, 1833 set) | William Sotheby | `homer-sotheby-iliad-1833-v1` | have-raw (IA `iliadodyssey01home`) |
 | The Iliad and Odyssey, vol. II: the Iliad (London: Nicol and Murray, 1833 set) | William Sotheby | `homer-sotheby-iliad-1833-v2` | have-raw (IA `iliadodyssey02home`) |
 | The Iliad and Odyssey, vol. IV: the Odyssey (London: Nicol and Murray, 1833) | William Sotheby | `homer-sotheby-odyssey-1833-v4` | have-raw (IA `iliadodyssey04home`) |
+| The Iliad and Odyssey, [vol. III]: the Odyssey, Books I-XII (London: G. and W. Nicol; J. Murray, 1834; volume number not legible in the OCR, contents fill the gap between vols. II and IV) | William Sotheby | `homer-sotheby-odyssey-1834-v3` | have-raw (IA `iliadandodyssey02homegoog`) |
 
 Pending (wishlist): none known beyond the rows above.
 
@@ -1605,8 +1606,9 @@ Shelf: `pipeline/pausanias_shelf.json`. Shilleto (Gutenberg); Taylor 1824 vols. 
 | The Description of Greece by Pausanias, vol. 2 (2nd ed., 1824) | Thomas Taylor (attributed by catalogue) | `pausanias-taylor-v2` | have-raw (IA `descriptiongree06pausgoog`) |
 | Mythology and Monuments of Ancient Athens: being a translation of a portion of the Attica of Pausanias (1890) | Margaret de G. Verrall; commentary Jane E. Harrison | `pausanias-attica-verrall` | have-raw (IA `mythologymonume00pausgoog`) |
 | The Description of Greece by Pausanias, vol. 3 (2nd ed., 1824) | Thomas Taylor (attributed by catalogue) | `pausanias-taylor-v3` | have-raw (IA `descriptiongree00pausgoog`) |
+| Pausanias's Description of Greece, translated with a commentary, in six volumes, vol. I: Translation (London: Macmillan, 1898) | J. G. Frazer | `pausanias-frazer-1898-v1` | have-raw (IA `india.history.resource.91327`) |
 
-Pending (wishlist): Frazer 1898 vol. 1 (no usable scan); Jones Loeb (Greek facing)
+Pending (wishlist): Jones Loeb (Greek facing)
 
 ## Strabo
 
