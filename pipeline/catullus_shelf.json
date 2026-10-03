@@ -37,6 +37,11 @@
    "cu31924031218211",
    "Erotica: the Poems of Catullus and Tibullus, the Vigil of Venus, a literal prose translation with notes, with the metrical versions of Lamb and Grainger and others (Bohn, MDCCCLIV)",
    "tr. Walter K. Kelly"
+  ],
+  "catullus-nott-1795-v1": [
+   "poemsofcaiusvale01catuiala",
+   "The Poems of Caius Valerius Catullus in English verse, with the Latin text revised, vol. I (London: J. Johnson, 1795; Latin facing)",
+   "tr. anonymous (IA catalogue: John Nott)"
   ]
  },
  "_excluded": {
@@ -127,6 +132,17 @@
    "ia_date": "1854",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "catullus-nott-1795-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catullus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1795",
+   "ia_date": "1795",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_held": {
@@ -134,6 +150,7 @@
   "catullus-perseus-smithers-carmina": "same translation as catullus-burton-smithers (PG 20732): Burton's verse and Smithers's prose in one volume on this shelf; Perseus TEI urn:cts:latinLit:phi0472.phi001.perseus-eng4 (Carmina, tr. Leonard C. Smithers) is not taken as a second witness (moved here on review, 2026-10-02)"
  },
  "_translator_unchecked": {
-  "catullus-tibullus-kelly-erotica-1854": "title page OCRs the name as 'WALTEE K. KELLY' (Bohn, MDCCCLIV); the claim is not matched as written"
+  "catullus-tibullus-kelly-erotica-1854": "title page OCRs the name as 'WALTEE K. KELLY' (Bohn, MDCCCLIV); the claim is not matched as written",
+  "catullus-nott-1795-v1": "the title page names no translator (published anonymously); John Nott is the IA catalogue's attribution only"
  }
 }

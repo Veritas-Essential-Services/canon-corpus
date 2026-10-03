@@ -1036,6 +1036,7 @@ Shelf: `pipeline/catullus_shelf.json`. Ellis (1871) and Burton-Smithers (1894), 
 | The Poems of Valerius Catullus, translated into English verse (Edinburgh, 1867) | James Cranstoun | `catullus-cranstoun-1867` | have-raw (IA `poemsofvaleriusc00caturich`) |
 | The Poems of Caius Valerius Catullus translated, with a preface and notes, vol. I (London: John Murray, 1821) | George Lamb | `catullus-lamb-1821-v1` | have-raw (IA `poemscaiusvaler01catugoog`) |
 | Erotica: the Poems of Catullus and Tibullus, the Vigil of Venus, a literal prose translation with notes, with the metrical versions of Lamb and Grainger and others (Bohn, MDCCCLIV) | Walter K. Kelly | `catullus-tibullus-kelly-erotica-1854` | have-raw (IA `cu31924031218211`) |
+| The Poems of Caius Valerius Catullus in English verse, with the Latin text revised, vol. I (London: J. Johnson, 1795; Latin facing) | anonymous (IA catalogue: John Nott) | `catullus-nott-1795-v1` | have-raw (IA `poemsofcaiusvale01catuiala`) |
 
 
 Excluded: PG 23720 (serves a 404).
@@ -2027,6 +2028,7 @@ Shelf: `pipeline/propertius_shelf.json`. Butler's Loeb (1912, Latin facing; the 
 | Propertius, with an English translation (Loeb, 1912; 1929 reprint) | H. E. Butler | `propertius-butler-loeb` | have-raw (IA `propertiuswithen00propuoft`) |
 | The Elegies of Propertius, with notes, literally translated (Bohn, 1895 reprint) | P. J. F. Gantillon (select elegies in verse by Nott and Elton) | `propertius-gantillon-bohn` | have-raw (IA `elegiesofpropert00propiala`) |
 | The Elegies of Sextus Propertius, translated into English verse (Edinburgh, 1875) | James Cranstoun | `propertius-cranstoun-1875` | have-raw (IA `elegiessextuspr00unkngoog`) |
+| Propertius, translated (Oxford: Clarendon Press, 1906) | J. S. Phillimore | `propertius-phillimore-1906` | have-raw (IA `propertius00propuoft`) |
 
 Pending (wishlist): Phillimore's 1906 prose translation (Oxford), if a scan turns up.
 
