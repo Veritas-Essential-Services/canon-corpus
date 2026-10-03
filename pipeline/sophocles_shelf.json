@@ -40,6 +40,16 @@
    "tragediesofsopho00soph",
    "The Tragedies of Sophocles, from the Greek (London, 1759; all seven plays in this scan)",
    "tr. Thomas Francklin"
+  ],
+  "sophocles-way-1909-part1": [
+   "cu31924026676365",
+   "Sophocles in English Verse, Part I: Oedipus the King, Oedipus at Kolonus, Antigone (London, 1909)",
+   "tr. Arthur S. Way"
+  ],
+  "sophocles-jebb-prose-1904": [
+   "tragediessophoc00jebbgoog",
+   "The Tragedies of Sophocles, translated into English prose (Cambridge, 1904)",
+   "tr. Sir Richard C. Jebb"
   ]
  },
  "_cross_ref": {
@@ -64,7 +74,9 @@
   "sophocles-murray-oedipus": "Gilbert Murray",
   "sophocles-sheridan-philoctetes": "Thomas Sheridan",
   "sophocles-plumptre": "E. H. Plumptre",
-  "sophocles-francklin-1759": "Thomas Francklin"
+  "sophocles-francklin-1759": "Thomas Francklin",
+  "sophocles-way-1909-part1": "Arthur S. Way",
+  "sophocles-jebb-prose-1904": "Richard C. Jebb"
  },
  "_checks": {
   "sophocles-campbell-seven": {
@@ -138,6 +150,32 @@
    "identity": "ok",
    "ia_rights": "ok: published 1759",
    "ia_date": "1759",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-way-1909-part1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Arthur S. Way",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-jebb-prose-1904": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Richard C. Jebb",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
