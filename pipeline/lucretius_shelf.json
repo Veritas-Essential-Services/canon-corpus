@@ -65,6 +65,11 @@
    "lucretiusonnatu00lucr",
    "Lucretius On the Nature of Things, translated into English verse (London: Sampson Low, 1872)",
    "tr. Charles Frederick Johnson"
+  ],
+  "lucretius-anon-books-i-ii-1879": [
+   "firstsecondbooks00londiala",
+   "The First and Second Books of Lucretius translated (privately printed, London, 1879)",
+   "tr. unnamed ('the translators', per the preface)"
   ]
  },
  "_cross_ref": {
@@ -239,6 +244,17 @@
    "ia_date": "1872",
    "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
+  },
+  "lucretius-anon-books-i-ii-1879": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucretius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_perseus_checks": {
@@ -274,6 +290,7 @@
   "redistribute_whole": false
  },
  "_translator_unchecked": {
-  "lucretius-anon-prose-1743-v1": "the title page names no translator (the plates are 'engraved by Guernier and others'); anonymous prose translation"
+  "lucretius-anon-prose-1743-v1": "the title page names no translator (the plates are 'engraved by Guernier and others'); anonymous prose translation",
+  "lucretius-anon-books-i-ii-1879": "privately printed; the title page names no translator and the preface speaks only of 'the translators'"
  }
 }

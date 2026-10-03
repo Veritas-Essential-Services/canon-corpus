@@ -1005,6 +1005,7 @@ Shelf: `pipeline/lucretius_shelf.json`. Munro (prose, vol. 3 of his edition) and
 | T. Lucretius Carus of the Nature of Things, in six books, with notes and plates engraved by Guernier and others, vol. I: Books I-III (London: Daniel Browne, MDCCXLIII; Latin facing) | anonymous (English prose) | `lucretius-anon-prose-1743-v1` | have-raw (IA `tlucretiuscaruso00lucr`) |
 | Lucretius On the Nature of Things, literally translated into English prose, with the metrical version of John Mason Good (Bohn, MDCCCLI) | John Selby Watson (prose); John Mason Good (verse) | `lucretius-watson-good-bohn-1851` | have-raw (IA `lucretiusonnatu00goodgoog`) |
 | Lucretius On the Nature of Things, translated into English verse (London: Sampson Low, 1872) | Charles Frederick Johnson | `lucretius-johnson-1872` | have-raw (IA `lucretiusonnatu00lucr`) |
+| The First and Second Books of Lucretius translated (privately printed, London, 1879) | unnamed ('the translators', per the preface) | `lucretius-anon-books-i-ii-1879` | have-raw (IA `firstsecondbooks00londiala`) |
 
 Pending (wishlist): none. Rouse's Loeb is held above from a 1924 first printing (IA `text-lucretius-rouse`); the 1953 and 1959 printings follow the 1937 revision and were not taken.
 
