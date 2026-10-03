@@ -429,3 +429,7 @@
 
 ## 2026-10-03 01:36 CDT — john-eadie done
 - `pipeline/john-eadie_shelf.json`: Ephesians and Galatians, raw IA OCR, 94.5% and 96.7%, about 2.7 MB; title pages read (1883, MDCCCLXIX). A Philippians catalogued 1894 was fetched and then dropped: its front matter says Klock and Klock reprint, 1977. That is the second reprint today the date gate passed (after Trapp); see Defects in the digest. Thessalonians is pending (HTTP 500). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:37 CDT — henry-alford done
+- `pipeline/henry-alford_shelf.json`: The Greek Testament, vols 1, 2 and 4, raw IA OCR, 82.3%, 89.9% and 93.8%, about 13 MB. Vol. 1's text layer has no Greek characters at all (450,000 or so in each of vols 2 and 4). Vol. 3 is pending. Two Boston copies were refused by the identity gate. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+- Greek in the text layer, measured 2026-10-03 (Greek codepoints per file): 0 in Lightfoot's Galatians and Philippians, Westcott's Canon, Epistles of John, Hebrews and John vol. 2, Eadie's Ephesians, Pearson's Creed and Alford vol. 1; present in Lightfoot's Colossians (PG), Westcott's John vol. 1, Eadie's Galatians, Trench's Synonyms and Alford vols 2 and 4. Where it is 0 the Greek was read as Latin letters, as with the Thayer scan; the English is usable, the Greek is not.

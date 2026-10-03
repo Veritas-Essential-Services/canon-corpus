@@ -1077,11 +1077,13 @@
     },
     {
       "id": "henry-alford",
-      "status": "started",
+      "status": "done",
       "scope": "Henry Alford: The Greek Testament (d. 1871)",
       "added": "2026-10-03T01:11:23-05:00",
       "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
-      "started": "2026-10-03T01:23:30-05:00"
+      "started": "2026-10-03T01:23:30-05:00",
+      "finished": "2026-10-03T01:37:57-05:00",
+      "notes": "3 IA; 1 pending"
     },
     {
       "id": "john-eadie",

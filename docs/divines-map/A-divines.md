@@ -1540,3 +1540,14 @@ Slugs `eadie-*`.
 | Commentary on the Greek Text of Galatians (Edinburgh: T. and T. Clark, 1869) | have-raw | IA |
 | Commentary on the Greek Text of Thessalonians (London: Macmillan, 1877) | pending | archive.org errors |
 | Commentary on the Greek Text of Philippians | excluded | only copy found is a 1977 reprint |
+
+
+## Henry Alford (round 10, my pick, 2026-10-03)
+
+Slugs `alford-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Greek Testament, vols 1-2 (London: Rivington; catalogued 1849-56) | have-raw | IA (identifiers in the shelf) |
+| The Greek Testament, vol. 4 (Boston: Lee and Shepard; catalogued 1874) | have-raw | IA |
+| The Greek Testament, vol. 3 | pending | archive.org errors |
