@@ -193,9 +193,10 @@ The living truth for project state is the Obsidian vault:
   numbering.
 - convert_douay — the Douay-Rheims (Challoner; fetch_sources.DOUAY, PD, pinned
   GitHub mirror) → data/books/douay.json (gitignored): the Vulgate's English,
-  in its numbering; each unit's `vulgate` and `kjv`. DOUAY_ROWS holds the 26
+  in its numbering; each unit's `vulgate` and `kjv`. DOUAY_ROWS holds the 49
   verses where this edition breaks verses off the Clementine's (Bar 6:7: it
-  prints 6:37 in that slot); empty padding
+  prints 6:37 in that slot; Sir 29:16-34 run one behind; Isa 46:11, 2 Sam
+  13:38, Ps 150:5 hold the next verse's words); empty padding
   verses in the file are dropped, never given ids.
 - Brenton's English Septuagint (1851, PD; fetch_sources.BRENTON: eBible.org's
   USFM zip, pinned in a GitHub mirror) → convert_brenton → data/books/brenton.json

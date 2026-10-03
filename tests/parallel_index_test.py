@@ -108,6 +108,14 @@ check("review: Brenton's 2 Sam 23:29 reaches into the KJV's 23:30; his 23:37a-c 
       C("2Sam.23.30", "brenton") == ["2Sam.23.29", "2Sam.23.37a"]
       and C("2Sam.23.31", "brenton") == ["2Sam.23.29", "2Sam.23.37b"]
       and C("2Sam.23.37", "brenton") == ["2Sam.23.37", "2Sam.23.37c"])
+check("review: the Douay's empty cells are the Vulgate's plus only 1 Kgs 17:19 and Prov 30:29, "
+      "the two verses this Douay truly lacks",
+      {k for k in rows if not C(k, "douay")}
+      == {k for k in rows if not C(k, "vulgate")} | {"1Kgs.17.19", "Prov.30.29"})
+check("review: the Douay's Isa 46:11, 2 Sam 13:38 and Ps 150:5 hold the next verse's words; its "
+      "Isa 46:12 is the KJV's 46:13",
+      C("Isa.46.12", "douay") == ["Isa.46.11"] and C("Isa.46.13", "douay") == ["Isa.46.12"]
+      and C("2Sam.13.39", "douay") == ["2Sam.13.38"] and C("Ps.150.6", "douay") == ["Ps.150.5"])
 readme = open(os.path.join(ROOT, "data", "parallel", "README.md"), encoding="utf-8").read()
 check("the rights note travels with the index: TVTMS named, CC BY 4.0, attributed",
       "CC BY 4.0" in readme and "TVTMS" in readme and "www.STEPBible.org" in readme
