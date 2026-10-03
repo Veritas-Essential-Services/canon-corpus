@@ -1,0 +1,136 @@
+{
+ "schema": "canon-corpus/xrefs/v1",
+ "built_by": "pipeline/build_xrefs.py",
+ "key": "KJV verse unit ids (kjv:Book.c.v), the ids already in data/uids/wordhoard.uids.json; nothing minted",
+ "layers": {
+  "tsk": {
+   "file": "data/xrefs/tsk.jsonl",
+   "sha256": "8ea69463f94822487a703b6888b5a188340ba82539ccc60933e69b2783cce3a3",
+   "rows": 25622,
+   "counts": {
+    "verses_with_entries": 25622,
+    "refs": 248416,
+    "agreed": 227774,
+    "placed": 20642,
+    "unsure_digit": 1038,
+    "one_scan_not_committed": 122369
+   },
+   "rights": {
+    "license": "public-domain",
+    "work": "The Treasury of Scripture Knowledge (Samuel Bagster, c. 1830s; R. A. Torrey's introduction, 1890s). Public domain in the US: published before 1931.",
+    "attribution": "Treasury of Scripture Knowledge; scans by the Internet Archive",
+    "source_url": "https://archive.org/details/treasuryofscript0000rato",
+    "redistribute_whole": true,
+    "note": "Only the references and catchwords are taken; the scans' OCR is the Internet Archive's (tesseract), re-read here. OpenBible.info's cross-reference set (CC BY) is never an input; it is used only to measure (README-xrefs.md s.6)."
+   },
+   "scans": {
+    "rato": {
+     "item": "treasuryofscript0000rato",
+     "edition": "Fleming H. Revell / Samuel Bagster (1889 per archive.org), introduction by R. A. Torrey; Graduate Theological Union copy",
+     "files": {
+      "chocr": {
+       "name": "treasuryofscript0000rato_chocr.html.gz",
+       "sha256": "1f5bca3305f94c9d03d15f0ce621f796a2c3bf8d6114d6f72079e421e59bf5e9"
+      },
+      "jp2": {
+       "name": "treasuryofscript0000rato_jp2.zip",
+       "sha256": "02490bb539e9f53bffe5af0c65e5fa5dbd20d864444974023fbefa75de36fd83"
+      }
+     },
+     "read": {
+      "refs": 325801,
+      "glyphs_as-read": 245380,
+      "resolved": 308495,
+      "glyphs_fixed": 71184,
+      "glyphs_unsure": 9237,
+      "unresolved": 16983,
+      "ambiguous_book": 323,
+      "entries": 25865,
+      "headings": 808,
+      "heads": 588,
+      "pages": 802,
+      "entries_by_rule": {
+       "read": 21780,
+       "digit": 4085
+      }
+     }
+    },
+    "drra": {
+     "item": "treasuryofscript0000drra",
+     "edition": "Samuel Bagster and Sons (undated printing of the same plates)",
+     "files": {
+      "chocr": {
+       "name": "treasuryofscript0000drra_chocr.html.gz",
+       "sha256": "4aaa77b5e23f1243b61c1ea4764ba94a59da9c9a8ed575127e65eae7bdfdbe70"
+      },
+      "jp2": {
+       "name": "treasuryofscript0000drra_jp2.zip",
+       "sha256": "c781f2ea7d01a07b1656db5ba8d4a0399f5a2fda97e974d781876d69296588a2"
+      }
+     },
+     "read": {
+      "refs": 333824,
+      "glyphs_as-read": 229654,
+      "resolved": 315237,
+      "glyphs_fixed": 94637,
+      "unresolved": 18015,
+      "glyphs_unsure": 9533,
+      "ambiguous_book": 572,
+      "entries": 26321,
+      "headings": 822,
+      "heads": 550,
+      "pages": 794,
+      "entries_by_rule": {
+       "read": 21623,
+       "digit": 4698
+      }
+     }
+    }
+   },
+   "glyph_model": {
+    "file": "data/xrefs/glyph-3-8.json",
+    "sha256": "1374737765fabb2f4fd3e5ddf2c444e374226a933b164e59a1a17fe15e69170b",
+    "report": {
+     "labelled": 76900,
+     "labelled_as_3": 70525,
+     "held_out": 15380,
+     "held_out_agreement": 0.9914,
+     "held_out_sure_share": 0.9776,
+     "held_out_sure_agreement": 0.9947,
+     "held_out_8_recall": 0.9496,
+     "seed": 0,
+     "hidden": 48,
+     "epochs": 60,
+     "features": "14x20 ink + aspect"
+    }
+   },
+   "not_claimed": [
+    "Only references both scans attest are committed (agreed, or placed by the entry one scan missed); a reference only one scan reads is in build/xrefs/tsk-one-scan.jsonl, counted, not committed.",
+    "A catchword is the OCR's text of it, uncorrected.",
+    "unsure_digit: both scans kept the OCR's 3 or 8 because the glyph model could not call it; the two scans agreeing is then weak evidence.",
+    "The Treasury's notes (marginal readings, 'Heb.' renderings, chronology) are not taken; only references.",
+    "Verses the Treasury has no entry for, or whose entry neither alignment found, have no row."
+   ]
+  },
+  "cited_by": {
+   "file": "build/xrefs/cited-by.jsonl (gitignored; rebuilt)",
+   "sha256": "2976b485f7be56254027638984e9d74d365109567240a07cbe4dcd38049333d7",
+   "verses": 30920,
+   "counts": {
+    "tsk": 442557,
+    "fathers-notes": 60896,
+    "book-links": 4407
+   },
+   "inputs": {
+    "fathers_links": "build/fathers/scripture-links.jsonl (pipeline/tag_fathers.py, PR #7)",
+    "fathers_links_sha256": "dcf69101e9dd86d5b08928bea5ff0be7c5e482f75dd9cf742fab3cf101d92938",
+    "books": "data/books/*.json (structure_texts.py): unit links of kind scripture to a kjv: verse"
+   },
+   "rights": {
+    "license": "mixed: each citing passage keeps its own book's rights block",
+    "redistribute_whole": false,
+    "note": "Built from editions that are CC BY-SA (First1KGreek, CSEL TEI) or otherwise licensed; like PR #7's scripture links, rebuilt locally and never committed."
+   }
+  }
+ }
+}

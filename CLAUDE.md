@@ -148,6 +148,11 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/review.py apply docs/review/<sheet>.md   # answers -> override rows, rebuild, --check
     python3 pipeline/review.py render --check          # the sheets are what the data renders
     python3 tests/review_test.py                       # review.py end to end, on a temp copy
+    python3 pipeline/build_xrefs.py --fetch            # the Treasury's two archive.org scans, pinned (~1.2 GB)
+    python3 pipeline/build_xrefs.py                    # cross-reference layer -> data/xrefs/ + build/xrefs/
+    python3 pipeline/build_xrefs.py --check            # tsk.jsonl byte-identical
+    python3 pipeline/xrefs.py kjv:John.1.1             # a verse's Treasury refs and its citers
+    python3 tests/xrefs_test.py                        # the Treasury reader rule by rule; the committed layer
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -433,6 +438,15 @@ The living truth for project state is the Obsidian vault:
   files, one per hymn → exports/mnemonicon/ (COMMITTED; PD only, the gate
   refuses anything else). One piece per stanza, a line per clause; ids are
   uuid5 of the passage uid, so a re-import adds nothing. Launch plan C5.
+- pipeline/build_xrefs.py (+ tsk_layout.py, tsk_read.py, tsk_glyphs.py, xrefs.py)
+  — the cross-reference layer on KJV verse ids. The Treasury of Scripture
+  Knowledge (PD) read from two archive.org scans: OCR re-laid in columns,
+  entries ALIGNED to KJV verses (not walked), every 3/8 re-read from the page
+  image (the face's 3 OCRs as 8), only references both scans attest committed
+  -> data/xrefs/tsk.jsonl. The fathers' notes (PR #7) and every book link to
+  a verse join it in build/xrefs/cited-by.jsonl (gitignored: CC BY-SA
+  inputs). OpenBible.info (CC BY) measures it and is never an input. Rules
+  and measurements: pipeline/README-xrefs.md
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git
