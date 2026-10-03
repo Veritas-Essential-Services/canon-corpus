@@ -50,6 +50,21 @@
    "tragediessophoc00jebbgoog",
    "The Tragedies of Sophocles, translated into English prose (Cambridge, 1904)",
    "tr. Sir Richard C. Jebb"
+  ],
+  "sophocles-whitelaw-1883": [
+   "sophoclestransla00sophuoft",
+   "Sophocles translated into English Verse (London: Rivingtons, MDCCCLXXXIII)",
+   "tr. Robert Whitelaw"
+  ],
+  "sophocles-dale-1824-v1": [
+   "tragediesofsopho01soph_0",
+   "The Tragedies of Sophocles translated into English Verse, vol. I (London: J. M. Richardson, 1824)",
+   "tr. Thomas Dale"
+  ],
+  "sophocles-dale-1824-v2": [
+   "tragediesofsopho02soph",
+   "The Tragedies of Sophocles translated into English Verse, vol. II (London: J. M. Richardson, 1824)",
+   "tr. Thomas Dale"
   ]
  },
  "_cross_ref": {
@@ -76,7 +91,10 @@
   "sophocles-plumptre": "E. H. Plumptre",
   "sophocles-francklin-1759": "Thomas Francklin",
   "sophocles-way-1909-part1": "Arthur S. Way",
-  "sophocles-jebb-prose-1904": "Richard C. Jebb"
+  "sophocles-jebb-prose-1904": "Richard C. Jebb",
+  "sophocles-whitelaw-1883": "Robert Whitelaw",
+  "sophocles-dale-1824-v1": "Thomas Dale",
+  "sophocles-dale-1824-v2": "Thomas Dale"
  },
  "_checks": {
   "sophocles-campbell-seven": {
@@ -177,6 +195,45 @@
    "ia_rights": "ok: published 1904",
    "ia_date": "1904",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-whitelaw-1883": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Robert Whitelaw",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-dale-1824-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Thomas Dale",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-dale-1824-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Thomas Dale",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
