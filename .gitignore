@@ -21,3 +21,13 @@ data/lemmas/whitaker-la/lemmas.jsonl
 
 # The reader (pipeline/render_reader.py) is generated; rebuild, never commit.
 build/
+
+# The Bible JSONL shards are rebuilt from pinned sources, not committed
+# (pipeline/rebuild_bible.py: under a minute, byte-identical). What stays
+# committed: each manifest.json, which carries every shard's sha256 so
+# `--check` proves a rebuild equals the published data; the NT's house inputs
+# (gloss-overrides, prose-order) and their .prov.md; and John, which the review
+# sheets and the reader read, so Adam's review loop needs no fetch.
+data/nt/*/*.jsonl
+!data/nt/John/*.jsonl
+data/ot/*/*.jsonl
