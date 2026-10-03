@@ -1,5 +1,5 @@
 {
- "_about": "Homer in English, translator recorded per title. Verse: George Chapman (Iliads 1611, Odysseys and the shorter poems 1614-16), Alexander Pope (Iliad 1715-20, ed. Buckley; Odyssey 1725-26, with Broome and Fenton), William Cowper (Iliad and Odyssey, blank verse, 1791; Iliad here in Southey's edition), the Earl of Derby (Iliad, blank verse, 1864), William Cullen Bryant (Iliad 1870, Odyssey 1871-72, blank verse; raw IA OCR). Prose: T. A. Buckley (Iliad, Bohn, 1851) and Samuel Butler's unrevised Odyssey (1900). Butler's Iliad is already in the build from Perseus (iliad-butler) and is not refetched. The build's odyssey-eng4 is Butler REVISED by Power and Nagy (a modern revision), so the plain 1900 Butler Odyssey is held here as the text of record. Lang-Leaf-Myers Iliad and Butcher-Lang Odyssey live on the Lang shelf (lane D); Dryden's Homer on the Dryden shelf (lane C); Evelyn-White's Homeric Hymns and Epigrams in hesiod-evelyn-white. All cross-referenced, none refetched. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report. Mackail's Odyssey is one set whose IA record dates every volume 1903; the title pages read 1903 (vol. I), 1905 (vol. II) and 1910 (vol. III), so the 1903 in _checks' ia_date and ia_rights is IA's set date, not those volumes' printing (all three are before 1930). Added 2026-10-03 (later): Sotheby's Odyssey Books I-XII, the missing vol. III of his Iliad and Odyssey, from a Google scan of another copy (title page MDCCCXXXIV, 1834; vols. I, II and IV above are the 1833-dated set).",
+ "_about": "Homer in English, translator recorded per title. Verse: George Chapman (Iliads 1611, Odysseys and the shorter poems 1614-16), Alexander Pope (Iliad 1715-20, ed. Buckley; Odyssey 1725-26, with Broome and Fenton), William Cowper (Iliad and Odyssey, blank verse, 1791; Iliad here in Southey's edition), the Earl of Derby (Iliad, blank verse, 1864), William Cullen Bryant (Iliad 1870, Odyssey 1871-72, blank verse; raw IA OCR). Prose: T. A. Buckley (Iliad, Bohn, 1851) and Samuel Butler's unrevised Odyssey (1900). Butler's Iliad is already in the build from Perseus (iliad-butler) and is not refetched. The build's odyssey-eng4 is Butler REVISED by Power and Nagy (a modern revision), so the plain 1900 Butler Odyssey is held here as the text of record. Lang-Leaf-Myers Iliad and Butcher-Lang Odyssey live on the Lang shelf (lane D); Dryden's Homer on the Dryden shelf (lane C); Evelyn-White's Homeric Hymns and Epigrams in hesiod-evelyn-white. All cross-referenced, none refetched. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report. Mackail's Odyssey is one set whose IA record dates every volume 1903; the title pages read 1903 (vol. I), 1905 (vol. II) and 1910 (vol. III), so the 1903 in _checks' ia_date and ia_rights is IA's set date, not those volumes' printing (all three are before 1930). Added 2026-10-03 (later): Sotheby's Odyssey Books I-XII, the missing vol. III of his Iliad and Odyssey, from a Google scan of another copy (title page MDCCCXXXIV, 1834; vols. I, II and IV above are the 1833-dated set). Also added: Thomas Shaw Brandreth's blank-verse Iliad, vol. I (Pickering), Google scan, clean 0.88; vol. II not found on IA.",
  "_name_words": [
   "homer",
   "homers",
@@ -253,6 +253,11 @@
    "iliadandodyssey02homegoog",
    "The Iliad and Odyssey, [vol. III]: the Odyssey, Books I-XII (London: G. and W. Nicol; J. Murray, 1834; volume number not legible in the OCR, contents fill the gap between vols. II and IV)",
    "tr. William Sotheby"
+  ],
+  "homer-brandreth-iliad-1846-v1": [
+   "iliadhomer01unkngoog",
+   "The Iliad of Homer, vol. I (London: William Pickering; the title-page date OCRs as 1816, catalogue 1846)",
+   "tr. T. S. Brandreth"
   ]
  },
  "_cross_ref": {
@@ -268,7 +273,8 @@
   "pg2199": "Butler's Iliad: already in the build from Perseus (iliad-butler)",
   "pg28797": "Butler's Odyssey: duplicate of PG 1727",
   "pg24856": "Odysseus, the Hero of Ithaca (Burt, Ragozin): a schoolbook adaptation",
-  "A. T. Murray, Iliad (1924-25) and Odyssey (1919), Loeb": "now held from Perseus: homer-perseus-murray-iliad, homer-perseus-murray-odyssey"
+  "A. T. Murray, Iliad (1924-25) and Odyssey (1919), Loeb": "now held from Perseus: homer-perseus-murray-iliad, homer-perseus-murray-odyssey",
+  "Brandreth's Iliad vol. II (1846)": "no scan found on IA (2026-10-03); vol. I held as homer-brandreth-iliad-1846-v1"
  },
  "perseus": {
   "homer-perseus-murray-iliad": [
@@ -333,7 +339,8 @@
   "homer-sotheby-iliad-1833-v1": "Sotheby",
   "homer-sotheby-iliad-1833-v2": "Sotheby",
   "homer-sotheby-odyssey-1833-v4": "Sotheby",
-  "homer-sotheby-odyssey-1834-v3": "william sotheby"
+  "homer-sotheby-odyssey-1834-v3": "william sotheby",
+  "homer-brandreth-iliad-1846-v1": "t. s. brandreth"
  },
  "_translator_unchecked": {
   "homer-bryant-odyssey-v2": "translator on the row (William Cullen Bryant) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -947,6 +954,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1834",
    "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-brandreth-iliad-1846-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "t. s. brandreth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
