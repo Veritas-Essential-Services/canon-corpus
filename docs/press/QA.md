@@ -18,12 +18,12 @@ Source: ccel, gutenberg (transcriptions), tcp (hand-keyed first edition), ia-ext
 | brooks-precious-remedies | ia-extract |  | 101,869 | 648 | 124 | 287 | 566 (566) | 739 | 7 | 0 | 0 | 774 | 7 |
 | brooks-secret-key | tcp |  | 96,382 | 630 | 480 | 0 | 1,012 (1,012) | 1,257 | 28 | 0 | 90 | 569 | 0 |
 | bruce-true-peace | tcp |  | 145,015 | 587 | 321 | 0 | 38 (38) | 35 | 2 | 0 | 311 | 1244 | 0 |
-| bunyan-acceptable-sacrifice | gutenberg |  | 35,735 | 283 | 16 | 0 | 406 (406) | 577 | 13 | 0 | 0 | 27 | 0 |
-| bunyan-all-loves-excelling | gutenberg |  | 40,524 | 255 | 16 | 0 | 390 (390) | 523 | 11 | 0 | 0 | 21 | 0 |
-| bunyan-come-and-welcome | gutenberg |  | 60,517 | 695 | 22 | 0 | 742 (742) | 1,004 | 21 | 0 | 0 | 34 | 45 |
-| bunyan-fear-of-god | gutenberg |  | 57,685 | 383 | 35 | 0 | 437 (437) | 627 | 21 | 0 | 0 | 25 | 0 |
-| bunyan-jerusalem-sinner | gutenberg |  | 35,148 | 455 | 0 | 0 | 213 (213) | 526 | 1 | 0 | 0 | 28 | 0 |
-| bunyan-prayer | gutenberg |  | 20,608 | 137 | 9 | 0 | 217 (217) | 339 | 2 | 0 | 0 | 16 | 0 |
+| bunyan-acceptable-sacrifice | gutenberg |  | 35,737 | 283 | 16 | 0 | 411 (411) | 583 | 16 | 0 | 0 | 27 | 5 |
+| bunyan-all-loves-excelling | gutenberg |  | 40,524 | 255 | 16 | 0 | 393 (393) | 528 | 7 | 0 | 0 | 21 | 0 |
+| bunyan-come-and-welcome | gutenberg |  | 60,485 | 695 | 22 | 0 | 743 (743) | 1,010 | 23 | 0 | 0 | 34 | 11 |
+| bunyan-fear-of-god | gutenberg |  | 57,687 | 383 | 35 | 0 | 439 (439) | 636 | 35 | 0 | 0 | 24 | 7 |
+| bunyan-jerusalem-sinner | gutenberg |  | 35,153 | 455 | 0 | 0 | 213 (213) | 526 | 1 | 0 | 0 | 25 | 96 |
+| bunyan-prayer | gutenberg |  | 20,608 | 137 | 9 | 0 | 218 (218) | 340 | 0 | 0 | 0 | 16 | 11 |
 | burroughs-rare-jewel | tcp |  | 102,960 | 418 | 12 | 0 | 53 (53) | 57 | 3 | 0 | 33 | 529 | 0 |
 | flavel-facing-grief | ia-extract |  | 33,313 | 473 | 12 | 19 | 104 (104) | 110 | 7 | 0 | 0 | 243 | 0 |
 | flavel-mystery-of-providence | ia-extract |  | 76,808 | 1,168 | 7 | 39 | 511 (511) | 593 | 11 | 0 | 0 | 718 | 0 |
@@ -42,7 +42,7 @@ Source: ccel, gutenberg (transcriptions), tcp (hand-keyed first edition), ia-ext
 | owen-spiritual-mindedness | ccel | The Banner of Truth Trust, Edinburgh, 1965 | 118,893 | 677 | 2 | 0 | 417 (417) | 544 | 0 | 3 | 0 | 56 | 12 |
 | owen-temptation | ccel | The Banner of Truth Trust, Edinburgh, 1967 | 32,364 | 260 | 4 | 0 | 178 (174) | 164 | 4 | 1 | 0 | 22 | 22 |
 | perkins-art-of-prophesying | tcp |  | 25,832 | 384 | 87 | 0 | 294 (294) | 287 | 4 | 0 | 115 | 723 | 0 |
-| rhb-a-blessed-hope | ia-extract |  | 159,767 | 821 | 0 | 4 | 1,201 (1,201) | 1,041 | 5 | 0 | 0 | 551 | 1 |
+| rhb-a-blessed-hope | ia-extract |  | 159,767 | 821 | 0 | 4 | 1,201 (1,201) | 1,041 | 5 | 0 | 0 | 552 | 1 |
 | rhb-a-perfect-redeemer | tcp |  | 24,337 | 77 | 168 | 0 | 73 (73) | 72 | 6 | 0 | 54 | 620 | 0 |
 | rhb-advancing-christian-unity | tcp |  | 21,091 | 167 | 36 | 0 | 54 (54) | 59 | 11 | 0 | 25 | 216 | 0 |
 | rhb-christ-and-his-threefold | tcp |  | 259,763 | 1,870 | 976 | 0 | 1,455 (1,455) | 1,207 | 13 | 0 | 1763 | 3227 | 0 |
@@ -52,7 +52,7 @@ Source: ccel, gutenberg (transcriptions), tcp (hand-keyed first edition), ia-ext
 | rhb-freedom-from-sins-dominion | tcp |  | 29,639 | 244 | 0 | 0 | 78 (78) | 113 | 2 | 0 | 12 | 87 | 0 |
 | rhb-gospel-evidences-of-saving | tcp |  | 27,098 | 206 | 0 | 0 | 103 (103) | 135 | 7 | 0 | 10 | 63 | 0 |
 | rhb-holy-helps-for-a | tcp |  | 50,836 | 370 | 397 | 0 | 173 (173) | 157 | 2 | 0 | 4 | 846 | 0 |
-| rhb-holy-meditation | ia-extract |  | 52,278 | 327 | 0 | 0 | 380 (380) | 362 | 5 | 0 | 0 | 194 | 1 |
+| rhb-holy-meditation | ia-extract |  | 52,278 | 327 | 0 | 0 | 380 (380) | 362 | 5 | 0 | 0 | 195 | 1 |
 | rhb-prizing-public-worship | ia-extract |  | 15,340 | 104 | 0 | 0 | 64 (64) | 80 | 1 | 0 | 0 | 48 | 0 |
 | rhb-stop-loving-the-world | tcp |  | 20,101 | 112 | 0 | 0 | 63 (63) | 65 | 2 | 0 | 23 | 73 | 0 |
 | rhb-the-cure-for-unjust | tcp |  | 31,379 | 179 | 301 | 0 | 161 (161) | 86 | 7 | 0 | 63 | 1260 | 0 |

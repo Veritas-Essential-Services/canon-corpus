@@ -106,6 +106,20 @@ def apply_rules(doc, rules):
         for k in doc["notes"]:
             doc["notes"][k] = doc["notes"][k].replace(r["find"], r["replace"])
         applied.append(r)
+    # letters the keyers could not read, supplied by press_proof from two
+    # witnesses (listed on the proof sheet, not in the Note one by one)
+    doc["supplied"] = 0
+    for r in rules.get("supplied", []):
+        hits = sum(b.get("md", "").count(r["find"]) for b in doc["blocks"]) + \
+            sum(v.count(r["find"]) for v in doc["notes"].values())
+        if hits != r["count"]:
+            raise RuntimeError(f"supplied reading {r['find']!r}: expected {r['count']} match(es), found {hits}")
+        for b in doc["blocks"]:
+            if "md" in b:
+                b["md"] = b["md"].replace(r["find"], r["replace"])
+        for k in doc["notes"]:
+            doc["notes"][k] = doc["notes"][k].replace(r["find"], r["replace"])
+        doc["supplied"] += r["count"] * r["find"].count("]{.gap}")
     for sec in rules.get("drop_sections", []):
         doc["blocks"] = [b for b in doc["blocks"] if b.get("section") != sec]
     return applied
@@ -240,6 +254,15 @@ def note_on_text(e, slug, doc, applied, src_path):
     gaps = doc.get("gaps") or []
     ill = sum(1 for g in gaps if g[0].startswith("illegible"))
     frn = sum(1 for g in gaps if g[0].startswith("foreign"))
+    sup = doc.get("supplied", 0)
+    if sup:
+        ill -= sup
+        alt = (e.get("scan_alternative") or s.get("scan_alternative") or {}).get("edition")
+        paras.append(f"{sup} place(s) the transcribers could not read in their copy are supplied here, each "
+                     f"from the same word as this book prints it elsewhere"
+                     + (f", checked against {alt} wherever that edition has the passage" if alt else "")
+                     + ". A supplied letter is marked as such in the markup, and every one is listed with "
+                       "its page on the book's proof sheet, so it can be checked against the page image.")
     if ill or frn:
         paras.append(f"Not yet supplied: {ill} place(s) the transcribers could not read in their copy, marked "
                      f"⟨•⟩ (a letter) or ⟨word⟩, and {frn} Greek or Hebrew passage(s) they did not key, marked "

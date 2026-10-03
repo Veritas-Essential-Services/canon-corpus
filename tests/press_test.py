@@ -109,6 +109,16 @@ check("plausible misread", press_proof.plausible("tbe", "the", "tbe"), True)
 check("'&c.' is not fixed to 'c'", press_proof.plausible("fec", "c", "fec"), False)
 check("far-apart words are not a misread", press_proof.plausible("following", "ores", "following"), False)
 check("'viz.' is never fixed", press_proof.plausible("viz", "wiz", "viz"), False)
+gdoc = {"blocks": [{"k": "para", "md": "The Scripture saith, and the Scripture is plain; it is wise and wide."},
+                   {"k": "para", "md": "Read the Scrip[⟨•⟩]{.gap}ure and the Scrip[⟨•⟩]{.gap}ures; be wi[⟨•⟩]{.gap}e."}],
+        "notes": {}}
+got = press_proof.supply(gdoc, {"source": {}})
+check("an unread letter is supplied when the book prints one word that fits",
+      {w.replace(press_proof.GAPCH, "•"): v for w, v in got.items()}, {"Scrip•ure": ("Scripture", "book")})
+check("a supplied reading is a rule that never lands inside a longer word",
+      [(r["find"], r["replace"], r["count"]) for r in press_proof.supplied_rules(gdoc, got)],
+      [(" Scrip[⟨•⟩]{.gap}ure ", " Scrip[t]{.supplied}ure ", 1)])
+check("old and new spellings fold together", press_proof.fold("Spirituall"), press_proof.fold("spiritual"))
 check("a Latin diphthong is not a misread", press_proof.plausible("foelix", "felix", "foelix"), False)
 check("a Latin plural in -ii is not a misread", press_proof.plausible("Dii", "Di", "Dii"), False)
 check("a run-together pair is split, not reordered", press_proof.plausible("neitherf", "if neither", "Neitherf"), False)

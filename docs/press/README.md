@@ -66,7 +66,14 @@ book's corrections, each with its evidence), `docs/press/QA.md` and
    Perkins's *Arte of Prophecying* in Tuke's 1607 English). Spelling is the
    first edition's; the long s is set as s; margin notes become footnotes;
    words the keyers could not read, and Greek and Hebrew they did not key, are
-   marked ⟨•⟩ / ⟨Greek or Hebrew⟩ and counted, never guessed.
+   marked ⟨•⟩ / ⟨Greek or Hebrew⟩ and counted, never guessed. A letter is
+   supplied only from evidence: the book itself prints exactly one word that
+   fits the gap (a word of five letters or more), or several fit and the
+   19th-century edition's word at that place, spelling folded, picks out one.
+   Where that edition has the passage and reads otherwise, nothing is
+   supplied. A supplied letter is set as `[t]{.supplied}`, so it stays
+   visible in the markup, and every one is listed on the proof sheet with its
+   page and evidence, still to be checked against the page image.
 4. **Internet Archive scans** (`press_abbyy.py` + `press_ocr.py`): the volume's
    ABBYY FineReader XML, which keeps italics, font sizes and line positions.
    Running heads and page numbers are dropped (the page number becomes an

@@ -634,14 +634,143 @@ def proof_ocr(slug):
 RE_GAP = re.compile(r"\[((?:⟨[^⟩]*⟩\s?)+)\]\{\.gap\}")
 RE_TCP_PB = re.compile(r'\[\]\{#[^}]*\.pb n="([^"]*)" img="([^"]*)"\}')
 
+GAPCH = "\ue000"   # one unread letter, while a gap word is matched
+RE_LETTER_GAP = re.compile(r"\[((?:⟨•⟩)+)\]\{\.gap\}")
+
+def fold(w):
+    """Spelling-blind form, to compare a 1630s word with its 1860s reprint:
+    u/v, i/j/y, doubled letters, a final e."""
+    w = norm(w).translate(str.maketrans("ujy", "vii"))
+    w = re.sub(r"(.)\1+", r"\1", w)
+    return w[:-1] if w.endswith("e") and len(w) > 2 else w
+
+def gap_words(md):
+    """The words of a passage, each unread letter as GAPCH (a word with one
+    is a gap word; the rest are the book's own lexicon). Other gaps (a word,
+    Greek) break the run of words."""
+    t = RE_LETTER_GAP.sub(lambda m: GAPCH * m.group(1).count("•"), md)
+    t = press_render.plain(RE_GAP.sub(" | ", t))
+    return re.findall(r"[A-Za-z" + GAPCH + r"]+|\|", t)
+
+def supply(doc, e):
+    """Readings for letters the keyers could not read. A reading is offered
+    only when the book itself prints exactly one word that fits the gap (the
+    same printer's spelling), or when several fit and the 19th-century
+    edition's word at that place picks out one of them; and never when that
+    edition, having the passage, reads otherwise. Returns {gap word: (reading,
+    evidence)}; the build applies them through the rules file's "supplied"."""
+    texts = [(b.get("md") or "") for b in doc["blocks"]] + list(doc.get("notes", {}).values())
+    streams = [gap_words(md) for md in texts]
+    lex = {}
+    for st in streams:
+        for w in st:
+            if GAPCH not in w and w != "|":
+                lex[w] = lex.get(w, 0) + 1
+    by_lower = {}
+    for w, n in lex.items():
+        by_lower.setdefault(w.lower(), {})[w] = n
+    # witness B: the 19th-century edition, if the catalog names one
+    alt = e.get("scan_alternative") or e["source"].get("scan_alternative")
+    bidx, btoks = {}, []
+    if alt:
+        try:
+            if "ia" in alt:
+                ident = alt["ia"]
+            else:
+                ident = json.load(open(os.path.join(HERE, f"{alt['shelf']}_shelf.json"), encoding="utf-8"))[
+                    "internet_archive"][alt["volume"]][0]
+            btoks = [fold(t[1]) for t in ocr_witness(ident)[0]]
+            for i in range(len(btoks) - 3):
+                bidx.setdefault(tuple(btoks[i:i + 3]), []).append(i)
+        except Exception as ex:
+            print(f"no 19th-century witness: {ex}", file=sys.stderr)
+    out = {}
+    for st in streams:
+        for i, w in enumerate(st):
+            if GAPCH not in w or w.strip(GAPCH) == "":
+                continue   # a whole word unread is a person's to supply
+            rx = re.compile("^" + "".join("[a-z]" if c == GAPCH else re.escape(c.lower()) for c in w) + "$")
+            cands = sorted(lw for lw in by_lower if rx.match(lw))
+            before = [fold(x) for x in st[max(0, i - 3):i]]
+            after = [fold(x) for x in st[i + 1:i + 2]]
+            reading_b = None
+            if len(before) == 3 and all(GAPCH not in x and x != "|" for x in st[i - 3:i]) and bidx:
+                hits = {btoks[p + 3] for p in bidx.get(tuple(before), [])
+                        if p + 4 < len(btoks) and (not after or GAPCH in st[i + 1] or btoks[p + 4] == after[0])}
+                reading_b = hits.pop() if len(hits) == 1 else None
+            if reading_b is not None:
+                fit = [c for c in cands if fold(c) == reading_b]
+            else:
+                # the book alone decides only a longer word: "it•" could be its or it's
+                fit = cands if len(cands) == 1 and len(w) >= 5 else []
+            if len(fit) != 1 or (reading_b is None and len(cands) != 1):
+                continue
+            lw = fit[0]
+            # the letter in the case the book prints it
+            form = max(by_lower[lw].items(), key=lambda kv: kv[1])[0]
+            reading = "".join(f if c == GAPCH else c for c, f in zip(w, form))
+            if reading.lower() != lw:
+                continue
+            ev = "book" + ("+edition" if reading_b is not None else "")
+            prev = out.get(w)
+            if prev and prev[0] != reading:
+                out[w] = (None, "conflict")
+            elif not prev:
+                out[w] = (reading, ev)
+    return {w: v for w, v in out.items() if v[0]}
+
+def supplied_rules(doc, readings):
+    """The readings as rules on the markdown: one per gap word, matched as a
+    whole word everywhere it stands (a count the build checks)."""
+    texts = [(b.get("md") or "") for b in doc["blocks"]] + list(doc.get("notes", {}).values())
+    rules = []
+    for w, (reading, ev) in sorted(readings.items()):
+        find, repl, j = "", "", 0
+        for k, c in enumerate(w):
+            if c == GAPCH:
+                if k and w[k - 1] == GAPCH:
+                    continue
+                n = len(w[k:]) - len(w[k:].lstrip(GAPCH))
+                find += "[" + "⟨•⟩" * n + "]{.gap}"
+                repl += "[" + reading[k:k + n] + "]{.supplied}"
+            else:
+                find += c; repl += c
+        # matched with the character either side, so a rule for "Chri•t" never
+        # lands inside "Chri•tian": one rule per distinct pair of neighbours
+        whole = re.compile(r"(?<![A-Za-z])" + re.escape(find) + r"(?![A-Za-z])")
+        keys = {}
+        for md in texts:
+            for m in whole.finditer(md):
+                if m.start() == 0 or m.end() == len(md):
+                    continue   # a block's first or last word: no neighbour to anchor on
+                k = md[m.start() - 1] + find + md[m.end()]
+                keys[k] = keys.get(k, 0) + 1
+        for k, n in sorted(keys.items()):
+            if sum(md.count(k) for md in texts) == n:
+                rules.append({"find": k, "replace": k[0] + repl + k[-1], "count": n, "evidence": ev,
+                              "by": "press_proof"})
+    return rules
+
 def proof_tcp(slug):
     cat = json.load(open(press_build.CATALOG, encoding="utf-8"))
     e = cat["titles"][slug]
     doc = press_build.convert(slug, e, press_build.source_file(slug, e))
+    readings = supply(doc, e)
+    srules = supplied_rules(doc, readings)
+    p = os.path.join(press_build.RULES, f"{slug}.json")
+    rules = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
+    if srules or rules.get("supplied"):
+        rules["supplied"] = srules
+        press_build.atomic_write(p, json.dumps(rules, indent=1, ensure_ascii=False) + "\n")
+    EV = {"book": "the book's own spelling", "book+edition": "the book's spelling and the 19th-century edition"}
     rows, page, img = [], "", ""
     texts = [(b.get("md") or "") for b in doc["blocks"]] + list(doc.get("notes", {}).values())
     for md in texts:
-        pos = 0
+        spans = []   # (start, end, reading, evidence) of each supplied gap word
+        for r in srules:
+            for m in re.finditer(re.escape(r["find"]), md):
+                spans.append((m.start(), m.end(), re.sub(r"\[([^\]]*)\]\{\.supplied\}", r"\1", r["replace"]),
+                              r["evidence"]))
         events = sorted([(m.start(), "pb", m) for m in RE_TCP_PB.finditer(md)] +
                         [(m.start(), "gap", m) for m in RE_GAP.finditer(md)], key=lambda x: x[0])
         for at, kind, m in events:
@@ -651,23 +780,33 @@ def proof_tcp(slug):
             before = press_render.plain(md[max(0, at - 120):at]).split()[-6:]
             after = press_render.plain(md[m.end():m.end() + 120]).split()[:6]
             what = "Greek or Hebrew" if "Greek" in m.group(1) else m.group(1).replace("⟨•⟩", "•").replace("⟨word⟩", "[word]")
-            rows.append((what, page, img, " ".join(before), " ".join(after)))
+            sup = next((f"{w} ({EV[ev]})" for s0, s1, w, ev in spans if s0 <= at < s1), "")
+            rows.append((what, page, img, " ".join(before), " ".join(after), sup))
     ill = sum(1 for r in rows if r[0] != "Greek or Hebrew")
+    done = sum(1 for r in rows if r[5])
+    alt = (e.get("scan_alternative") or e["source"].get("scan_alternative") or {}).get("edition") \
+        or "the 19th-century edition"
     L = [f"# Proof sheet: {e['title']}", "",
          f"`{slug}` is set from EEBO-TCP {e['source']['id']}, keyed twice by hand from the first edition's "
          f"page images. There is no scan of that printing on archive.org to collate against, so this sheet "
          f"lists what a person must still supply from the page images "
          f"(`python3 pipeline/press_proof.py {slug}`, {time.strftime('%Y-%m-%d')}).", "",
          f"- Places the keyers could not read: **{ill}**",
+         f"- Of those, supplied in this edition: **{done}**. A letter is supplied only where the book prints "
+         f"exactly one word that fits the gap elsewhere, or where several fit and {alt} picks out one; never "
+         f"where that edition, having the passage, reads otherwise (rules in "
+         f"`pipeline/press_rules/{slug}.json`, under \"supplied\"). These are still to be checked against the "
+         f"page image.",
+         f"- Still to supply from the page images: **{ill - done}**",
          f"- Greek or Hebrew they did not key: **{len(rows) - ill}**",
          f"- Errata printed in the first edition, listed in the Note on the Text, not yet applied: "
          f"{len(doc.get('errata') or [])}", ""]
     if rows:
-        L += ["| # | Missing | Page (EEBO image) | Before | After |", "|---:|---|---|---|---|"]
-        for n, (what, pg, im, b, a) in enumerate(rows, 1):
-            L.append(f"| {n} | {what} | {pg or '?'} ({im or '?'}) | …{b} | {a}… |")
+        L += ["| # | Missing | Page (EEBO image) | Before | After | Supplied |", "|---:|---|---|---|---|---|"]
+        for n, (what, pg, im, b, a, sup) in enumerate(rows, 1):
+            L.append(f"| {n} | {what} | {pg or '?'} ({im or '?'}) | …{b} | {a}… | {sup} |")
     press_build.atomic_write(os.path.join(ROOT, "docs", "press", "proof", f"{slug}.md"), "\n".join(L) + "\n")
-    return {"unread": ill, "untranscribed": len(rows) - ill}
+    return {"unread": ill, "supplied": done, "untranscribed": len(rows) - ill}
 
 if __name__ == "__main__":
     cat = json.load(open(press_build.CATALOG, encoding="utf-8"))
