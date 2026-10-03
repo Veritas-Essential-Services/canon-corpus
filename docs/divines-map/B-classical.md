@@ -760,6 +760,7 @@ Shelf: `pipeline/juvenal_shelf.json`. Evans's literal prose with Gifford's verse
 | — | — | `dryden-juvenal` | cross-ref → Dryden shelf, lane C |
 | — | — | `dryden-persius` | cross-ref → Dryden shelf, lane C |
 | Juvenal and Persius (Loeb, 1918) | G. G. Ramsay | `juvenal-persius-ramsay` | have-raw (IA `juvenalpersiuswi00juveuoft`) |
+| The Satires of A. Persius Flaccus, with a translation and commentary (2nd ed., ed. H. Nettleship, Oxford, 1874; Latin facing) | John Conington | `persius-conington-1874` | have-raw (IA `satireswithtrans00persuoft`) |
 
 
 ## Plautus and Terence
@@ -1577,6 +1578,26 @@ Shelf: `pipeline/philostratus_shelf.json`. Berwick's Life of Apollonius (1809) a
 | Philostratus, In Honour of Apollonius of Tyana, vol. 1 (Oxford, 1912) | J. S. Phillimore | `philostratus-phillimore-apollonius-v1` | have-raw (IA `philostratusinho00philuoft`) |
 
 Pending (wishlist): Phillimore vol. 2 (1912; no scan found); the Lives of the Sophists and Imagines in a PD English version; Conybeare's Loeb (Greek facing).
+
+## Manilius
+
+Shelf: `pipeline/manilius_shelf.json`. Creech's verse Astronomicon (1697; translator attributed, not named in the scan). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Five Books of M. Manilius, done into English verse with notes (London, 1697) | Thomas Creech (attributed; not named in the scan) | `manilius-creech-1697` | have-raw (IA `bim_early-english-books-1641-1700_the-five-books-of-m-man_manilius-marcus_1697`) |
+
+Pending (wishlist): a cleaner copy of Creech (1697 or 1700 printing)
+
+## Valerius Maximus
+
+Shelf: `pipeline/valerius-maximus_shelf.json`. The 1684 Memorable Acts and Sayings (dedication signed by Samuel Speed). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Q. Valerius Maximus, his Collections of the Memorable Acts and Sayings (London, 1684) | unnamed on the title page (dedication signed by Samuel Speed) | `valerius-maximus-speed-1684` | have-raw (IA `Q.ValeriusMaximusMemorableActsAndSayings`) |
+
+Pending (wishlist): none known
 
 ## Perseus census (overflow)
 
