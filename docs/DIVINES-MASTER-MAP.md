@@ -1684,6 +1684,16 @@ Slugs `stoddard-*`.
 |---|---|---|
 | The Safety of Appearing at the Day of Judgment (Northampton: Pomroy, catalogued 1804) | have-raw | IA (identifiers in the shelf) |
 | A Guide to Christ (D'Hart, 1827; catalogued under Increase Mather, who wrote its preface; the title page names Stoddard) | have-raw | IA |
+
+
+## John Cotton (round 11, my pick, 2026-10-03)
+
+Slugs `jcotton-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Keyes of the Kingdom of Heaven (London, 1644; Boston: Tappan and Dennet reprint, 1843) | have-raw | IA (identifier in the shelf) |
+| Other works (The Way of Life, Christ the Fountain of Life, Milk for Babes) | not shelved | only 1640s printings or modern facsimiles found |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

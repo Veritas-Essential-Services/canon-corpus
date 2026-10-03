@@ -467,3 +467,6 @@
 
 ## 2026-10-03 02:14 CDT — solomon-stoddard done
 - `pipeline/solomon-stoddard_shelf.json`: 2 IA volumes of raw OCR, median 97.6%, about 0.9 MB. The Safety of Appearing's title-page year is unreadable in the OCR, so it is labelled "catalogued 1804". `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 02:16 CDT — john-cotton done
+- `pipeline/john-cotton_shelf.json`: 1 IA volume (The Keyes of the Kingdom, 1843 reprint), 95.4% OCR. Nothing else of his turned up in a 19th-century edition. `--verify --record`: 0 mismatched. 0 uids minted.

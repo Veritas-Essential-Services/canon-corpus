@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 02:14 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-03 02:16 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -203,6 +203,7 @@ Round 10 was done by 02:09 CDT on 3 October. Round 11 turns to New England Purit
 |---|---|---|---|---|---|
 | Increase Mather | increase-mather_shelf.json | none | 4 (Remarkable Providences, 1856; Early History of New England, 1864; King Philip's War, 1862; Diary 1675-76, 1900) | none | Cases of Conscience concerning Witchcrafts, held back with Cotton Mather's Wonders (your veto point); 1680s-1700s printings |
 | Solomon Stoddard | solomon-stoddard_shelf.json | none | 2 (The Safety of Appearing, Northampton, catalogued 1804; A Guide to Christ, 1827 reprint) | none | 1700-1742 printings in long-s type |
+| John Cotton | john-cotton_shelf.json | none | 1 (The Keyes of the Kingdom of Heaven, 1644 text in the Boston 1843 reprint) | none | The New-England Primer, which IA catalogues under him |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
