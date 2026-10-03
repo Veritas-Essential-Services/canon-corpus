@@ -4,6 +4,7 @@
     python3 pipeline/fetch_perseus.py <shelf>          # from canon-corpus root
     python3 pipeline/fetch_perseus.py <shelf> --verify # re-check files on disk
     python3 pipeline/fetch_perseus.py <shelf> --verify --record  # and commit the findings
+    python3 pipeline/fetch_perseus.py <shelf> --record  # fetch, then commit this run's findings
 Writes data/corpus/<shelf>/<slug>.xml and <shelf>_perseus_report.json.
 
 A separate file on purpose: fetch_shelf.py ignores the "perseus" key, so a
@@ -21,9 +22,10 @@ PerseusDL/canonical-latinLit. Files are read from raw.githubusercontent.com
 (jsDelivr as a fallback), the only routes that reach GitHub from a sandbox.
 
 Rights gate. The TRANSLATION's date comes from the file's own sourceDesc: the
-latest year printed there is recorded, and a year after 1930 is refused (US
-public domain is publication in or before 1930, as of 2026) unless the shelf's
-`_rights_checked` ({slug: reason}) says why it is still safe. A sourceDesc
+latest year printed there is recorded, and a year of 1930 or later is
+refused unless the shelf's `_rights_checked` ({slug: reason}) says why it is
+safe. That is fail-closed and matches fetch_shelf.py's Internet Archive gate:
+1930 itself is US public domain from 2026-01-01, but a person states it. A sourceDesc
 with no year at all is refused the same way: nothing was checked. The MARKUP is
 Perseus's and is licensed separately: the licence stated in the file is
 recorded, else the repository's README statement (CC BY-SA 4.0 for both
@@ -46,7 +48,7 @@ import json, os, re, sys, time, urllib.request
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, "..")
 UA = {"User-Agent": "Canon-Corpus/0.1 (personal library research)"}
-PD_CUTOFF = 1930
+PD_CUTOFF = 1930  # this year and later need a `_rights_checked` reason (as fetch_shelf.py's IA gate)
 REPO_LICENCE = {
     "PerseusDL/canonical-greekLit": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
     "PerseusDL/canonical-latinLit": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
@@ -137,11 +139,11 @@ def _check(data, tail, translator, slug, shelf):
     r["source_years"] = sorted(set(years))
     lic = re.search(r'<licen[cs]e[^>]*target="([^"]+)"', head) or re.search(r"<licen[cs]e[^>]*>(.*?)</licen", head, re.S)
     r["markup_licence_in_file"] = lic.group(1).strip() if lic else None
-    late = [y for y in years if y > PD_CUTOFF]
+    late = [y for y in years if y >= PD_CUTOFF]
     if late:
         why = shelf.get("_rights_checked", {}).get(slug)
         if not why:
-            raise RuntimeError(f"RIGHTS: source year {max(late)} is after {PD_CUTOFF}; add _rights_checked to keep")
+            raise RuntimeError(f"RIGHTS: source year {max(late)} is {PD_CUTOFF} or later; add _rights_checked to keep")
         r["rights_override"] = why
     if not years:
         # no printing date to check: refused unless a person dated it another way
@@ -167,6 +169,7 @@ def main():
     rep_path = os.path.join(out, f"{name}_perseus_report.json")
     report = json.load(open(rep_path)) if os.path.exists(rep_path) else {}
     verify = "--verify" in sys.argv[2:]
+    seen = set()  # the rows this run actually checked: only these are recorded
     for slug, row in rows.items():
         tail, title, translator, note = (list(row) + [None] * 4)[:4]
         repos, urls = urls_for(tail)
@@ -196,22 +199,36 @@ def main():
         except Exception as e:
             r = {**base, "status": "FAILED", "error": str(e), "url": urls[0]}
         report[slug] = r
+        seen.add(slug)
         print(slug, r["status"], r.get("bytes", r.get("error", "")), flush=True)
         if not verify:
             json.dump(report, open(rep_path + ".tmp", "w"), indent=1)
             os.replace(rep_path + ".tmp", rep_path)
-    bad = [s for s, r in report.items() if s in rows and r["status"] == "FAILED"]
+    bad = [s for s in rows if s in seen and report[s]["status"] == "FAILED"]
     print(f"{len(rows)} perseus items, {len(bad)} failed: {bad}")
-    if verify and "--record" in sys.argv[2:] and rows:
-        record(name, {s: report[s] for s in rows if s in report})
+    if "--record" in sys.argv[2:] and rows:
+        if len(seen) < len(rows):
+            print(f"not recorded (no local file, not checked this run): {sorted(set(rows) - seen)}")
+        record(name, {s: report[s] for s in rows if s in seen})
 
 RECORD_KEYS = ("urn", "repo", "translator_checked", "translator_unchecked", "author_seen",
                "source_years", "rights_flag", "rights_override", "markup_licence_in_file",
                "markup_licence_repo", "identity_override", "status", "error")
 
+def outcome(r):
+    """What a row's check came to, from the error's own prefix: a refusal on
+    identity is not a refusal on rights, and neither is a network failure."""
+    if r["status"] != "FAILED":
+        return "identity_override" if r.get("identity_override") else "ok"
+    err = r.get("error", "")
+    return ("MISMATCH" if err.startswith("MISMATCH") else
+            "RIGHTS refused" if err.startswith("RIGHTS") else "not checked: fetch error")
+
 def record(name, found):
-    """Commit the findings into the shelf as "_perseus_checks" (no body text),
-    keeping the shelf file's own indent."""
+    """Commit the findings of THIS run into the shelf as "_perseus_checks" (no
+    body text), keeping the shelf file's own indent. Rows the run did not
+    check (no local file under --verify) are left out, never copied from an
+    old report."""
     path = os.path.join(HERE, f"{name}_shelf.json")
     raw = open(path, encoding="utf-8").read()
     second = raw.split("\n")[1] if "\n" in raw else ""
@@ -219,8 +236,7 @@ def record(name, found):
     shelf = json.loads(raw)
     day = time.strftime("%Y-%m-%d")
     shelf["_perseus_checks"] = {
-        s: {"checked": day, "identity": "MISMATCH" if r["status"] == "FAILED" else
-            "identity_override" if r.get("identity_override") else "ok",
+        s: {"checked": day, "identity": outcome(r),
             **{k: r[k] for k in RECORD_KEYS if k in r and r[k] not in (None, [])}}
         for s, r in found.items()}
     open(path + ".tmp", "w", encoding="utf-8").write(json.dumps(shelf, indent=indent, ensure_ascii=False) + "\n")
