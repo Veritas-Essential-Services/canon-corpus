@@ -1169,6 +1169,26 @@ Shelf: `pipeline/wyss_shelf.json` (2026-10-02; added at the coordinator's relay 
 | wyss-godwin | excluded | The Family Robinson Crusoe (PG 72813): the first English version, published by M. J. Godwin and Co.; the edition names no translator (usually attributed to the Godwins), so it waits for Adam |
 | wyss-unnamed | excluded | The Swiss Family Robinson (PG 11703) and the Milo Winter and T. H. Robinson printings (PG 34808, 78017): no translator named in the catalog; Words of One Syllable (PG 6692): Lucy Aikin's adaptation |
 
+## Alfred J. Church
+
+Shelf: `pipeline/church_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). His retellings of Homer, Virgil, the tragedians, Livy, Herodotus, Spenser and the Charlemagne romances; nested story > chapter where a book holds several stories. His novels are not taken. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Story of the Iliad, edited for school use (Macmillan, 1905; 1920 printing) | have | PG 74231, `church-story-of-the-iliad` (700 units) |
+| The Story of the Odyssey | have | PG 6370, `church-story-of-the-odyssey` (705 units) |
+| Stories from Virgil | have | PG 40622, `church-stories-from-virgil` (382 units) |
+| Stories from the Greek Tragedians | have | PG 14994, `church-stories-from-the-greek-tragedians` (873 units) |
+| Stories from Livy | have | PG 24030, `church-stories-from-livy` (217 units) |
+| Stories of the Old World | have | PG 43982, `church-stories-of-the-old-world` (1210 units) |
+| Stories of the Persian Wars, from Herodotus | have | PG 78980, `church-stories-of-the-persian-wars` (327 units) |
+| The Faery Queen and Her Knights: Stories Retold from Edmund Spenser | have | PG 55765, `church-faery-queen-and-her-knights` (667 units) |
+| Stories of Charlemagne and the Twelve Peers of France | have | PG 75339, `church-stories-of-charlemagne` (689 units) |
+| church-novels | excluded | his historical novels (Callias, Lords of the World, The Count of the Saxon Shore, The Hammer, With the King at Oxford, A Young Macedonian, Helmet and Spear, Henry the Fifth): fiction of his own; candidates for a later batch |
+| church-history | excluded | Roman Life in the Days of Cicero (PG 13481): history, not story |
+| church-tacitus | excluded | Tacitus, tr. Church and Brodribb: held by Lane B on tacitus_shelf.json |
+| church-iliad-audio | excluded | The Iliad for Boys and Girls (PG 21584): on Gutenberg only as a LibriVox audiobook, with no text file |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

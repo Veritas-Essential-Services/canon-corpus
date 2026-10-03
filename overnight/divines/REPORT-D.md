@@ -246,3 +246,6 @@
 
 ## 2026-10-02 17:29 CDT — wyss: done
 - 1/1 fetched (Gutenberg 41659), 2,544 units, 0 ~2 ids.
+
+## 2026-10-02 19:42 CDT — church: done
+- 9/9 fetched (Gutenberg 74231, 6370, 40622, 14994, 24030, 43982, 78980, 55765, 75339), 5,770 units, 214 ~2 ids.

@@ -394,7 +394,7 @@
       "id": "harris-remus",
       "status": "done",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Joel Chandler Harris's Uncle Remus books; no minting",
-      "finished": "2026-10-02T17:35:38-05:00",
+      "finished": "2026-10-02T19:40:18-05:00",
       "notes": "4/4 fetched (Gutenberg 2306, 26429, 55676, 22282), 5,087 units, 21 ~2 ids. Content flagged for Adam in DIGEST."
     },
     {
@@ -466,6 +466,43 @@
       "status": "done",
       "finished": "2026-10-02T17:29:49-05:00",
       "notes": "1/1 fetched (Gutenberg 41659), 2,544 units, 0 ~2 ids."
+    },
+    {
+      "id": "church",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Alfred J. Church's retellings; myth and saints batch; no minting",
+      "status": "done",
+      "finished": "2026-10-02T19:42:29-05:00",
+      "notes": "9/9 fetched (Gutenberg 74231, 6370, 40622, 14994, 24030, 43982, 78980, 55765, 75339), 5,770 units, 214 ~2 ids."
+    },
+    {
+      "id": "guerber",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — H. A. Guerber's myths and legends; myth and saints batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "peabody",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Josephine Preston Peabody's Old Greek Folk Stories; myth and saints batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "golden-legend",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — The Golden Legend in Caxton's English (Temple Classics, 1900); myth and saints batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "canton",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — William Canton's A Child's Book of Saints; myth and saints batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "abbie-brown",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Abbie Farwell Brown's Book of Saints and Friendly Beasts; myth and saints batch; no minting",
+      "status": "running"
+    },
+    {
+      "id": "steedman",
+      "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Amy Steedman's In God's Garden; myth and saints batch; no minting",
+      "status": "running"
     }
   ]
 }

@@ -17,7 +17,8 @@ optionally "start": "<regex>" -- the first paragraph matching it begins the
 body, and every heading read before it (a Contents list) is forgotten.
 "title_next" folds the next short paragraph into that heading (a part number
 followed by its name). "strip": "<regex>" removes matches from that level's
-heading text (a footnote mark printed on a title, "THE FIEND.[18]"); "max": n
+heading text, and from a title folded in by "title_next" (a footnote mark
+printed on a title, "THE FIEND.[18]"); "max": n
 lets that level's headings run past the default 90 characters (a long title);
 "label": {"<regex>": "<name>"} cites a heading matching <regex> by a fixed
 name instead of the paragraph itself, and "keep": true also keeps such a
@@ -62,7 +63,8 @@ def convert_nested(path, slug, title, author, levels, start=None, front=False):
             units.append({"id": f"{slug}:front.{pnum}", "ref": f"front, par. {pnum}", "text": p, "links": []})
             continue
         if pending_title is not None and len(p) < 90:
-            heads[pending_title] = f"{heads[pending_title]} {p.rstrip('.')}"
+            t_ = STRIP[pending_title].sub("", p) if STRIP[pending_title] else p
+            heads[pending_title] = f"{heads[pending_title]} {t_.rstrip('.')}"
             pending_title = None
             continue
         pending_title = None
