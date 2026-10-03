@@ -238,6 +238,12 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | The Aeneid of Virgil, translated into English (blank verse; Lockwood, Brooks, 1879) | John D. Long | `virgil-long-aeneid-1879` | have-raw (IA `neidofvirgil00vir`) |
 | The Aeneid of Virgil, Books I-VI, translated in English blank verse (Blackwood, 1871) | G. K. Rickards | `virgil-rickards-aeneid-1-6-1871` | have-raw (IA `neidvirgilbooks00rickgoog`) |
 | Virgil in English Verse: Eclogues and Aeneid I-VI, second edition (Murray, 1889) | Charles Bowen | `virgil-bowen-1889` | have-raw (IA `virgilinenglishv00virguoft`) |
+| The Georgics of Virgil (Middletown, Conn., for I. Riley, New York, 1808) | William Sotheby | `virgil-sotheby-georgics-1808` | have-raw (IA `georgicsofvirgil00virg`) |
+| The Georgics of Virgil (Sampson Low, 1871) | R. D. Blackmore | `virgil-blackmore-georgics-1871` | have-raw (IA `virgilgeorgics00virgrich`) |
+| The Georgics of Vergil, translated into English verse (Osgood, 1881) | Harriet Waters Preston | `virgil-preston-georgics-1881` | have-raw (IA `georgicageorgics00virg`) |
+| The Georgics of Virgil, Books I, II, translated into English verse (Murray, 1900) | Lord Burghclere | `virgil-burghclere-georgics-1-2-1900` | have-raw (IA `georgicsbooks0102virguoft`) |
+| The Bucolics of Virgil, literally translated into English prose from the text of Heyne, with a freer translation and notes (1825) | T. W. C. Edwards | `virgil-edwards-bucolics-1825` | have-raw (IA `publiivirgiliima00virg`) |
+| The Eclogues, Bucolics, or Pastorals of Virgil, a revised translation with text and notes (Blackwell, 1922) | Thomas Fletcher Royds | `virgil-royds-eclogues-1922` | have-raw (IA `ecloguesbucolics00virguoft`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
