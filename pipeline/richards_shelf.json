@@ -1,0 +1,91 @@
+{
+ "_about": "Laura E. Richards's (1850-1943) fables and children's stories: Captain January, Melody, the Toto books, her fable books and short-story readers. Her girls' series (Hildegarde, Margaret) and adult novels are left for now. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Laura E. Richards",
+ "_name_words": [
+  "richards"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "richards-captain-january": [
+   7790,
+   "Captain January"
+  ],
+  "richards-melody": [
+   7824,
+   "Melody: The Story of a Child",
+   {
+    "chapre_only": "(?:THE CHILD|THE DOCTOR|ON THE ROAD|ROSIN THE BEAU|IN THE CHURCHYARD|THE SERPENT|LOST|WAITING|BLONDEL|DARKNESS|LIGHT)\\.$"
+   }
+  ],
+  "richards-silver-crown": [
+   19892,
+   "The Silver Crown: Another Book of Fables",
+   {
+    "levels": [
+     {
+      "re": "(?![IVXL]+\\.?$)(?:[IVXL]+\\.?\\s+)?[A-Z][A-Z0-9' ,.!?;:\"-]{3,}$"
+     },
+     {
+      "re": "[IVXL]+\\.?$"
+     }
+    ],
+    "start": "A BOOK OF FABLES$",
+    "front": true
+   }
+  ],
+  "richards-pig-brother": [
+   43336,
+   "The Pig Brother, and Other Fables and Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "richards-five-minute-stories": [
+   49748,
+   "Five Minute Stories",
+   {
+    "levels": [
+     {
+      "re": "(?![IVXL]+\\.?$)(?:[IVXL]+\\.?\\s+)?[A-Z][A-Z0-9' ,.!?;:\"-]{3,}$",
+      "label": {
+       "THE END$": "back matter"
+      }
+     }
+    ],
+    "start": "CONTENTS\\.$",
+    "front": true
+   }
+  ],
+  "richards-three-minute-stories": [
+   49751,
+   "Three Minute Stories"
+  ],
+  "richards-joyous-story-of-toto": [
+   35281,
+   "The Joyous Story of Toto"
+  ],
+  "richards-totos-merry-winter": [
+   41603,
+   "Toto's Merry Winter"
+  ],
+  "richards-snow-white": [
+   49724,
+   "Snow-White; or, The House in the Wood",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.$",
+      "title_next": true,
+      "strip": "\\.$"
+     }
+    ],
+    "start": "SNOW-WHITE;$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "richards-golden-breasted-kootoo": "PG 49750, The Golden-Breasted Kootoo, and Other Stories (1899 reissue; copyright 1885): the stories told inside The Joyous Story of Toto, reprinted; 72% of its long paragraphs are in richards-joyous-story-of-toto"
+ }
+}

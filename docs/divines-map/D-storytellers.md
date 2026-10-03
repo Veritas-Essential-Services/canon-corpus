@@ -1666,6 +1666,23 @@ Shelf: `pipeline/perkins_shelf.json` (2026-10-02; added at the coordinator's rel
 | perkins-summers-readers | excluded | PG 67302, 68453: school primers, not stories |
 | perkins-moon-princess | excluded | PG 60042, The Moon Princess (1905): written by Edith Ogden Harrison; Perkins only illustrated it (title page read) |
 
+## Laura E. Richards (1850-1943)
+
+Shelf: `pipeline/richards_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her fables and stories for children. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Captain January | have | PG 7790, `richards-captain-january` (285 units) |
+| Melody: The Story of a Child | have | PG 7824, `richards-melody` (351 units) |
+| The Silver Crown: Another Book of Fables | have | PG 19892, `richards-silver-crown` (516 units) |
+| The Pig Brother, and Other Fables and Stories | have | PG 43336, `richards-pig-brother` (647 units) |
+| Five Minute Stories | have | PG 49748, `richards-five-minute-stories` (1211 units) |
+| Three Minute Stories | have | PG 49751, `richards-three-minute-stories` (693 units) |
+| The Joyous Story of Toto | have | PG 35281, `richards-joyous-story-of-toto` (875 units) |
+| Toto's Merry Winter | have | PG 41603, `richards-totos-merry-winter` (1080 units) |
+| Snow-White; or, The House in the Wood | have | PG 49724, `richards-snow-white` (524 units) |
+| richards-golden-breasted-kootoo | excluded | PG 49750, The Golden-Breasted Kootoo, and Other Stories (1899 reissue; copyright 1885): the stories told inside The Joyous Story of Toto, reprinted; 72% of its long paragraphs are in richards-joyous-story-of-toto |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
