@@ -1,0 +1,66 @@
+{
+ "_about": "Eleanor H. Porter's (1868-1920) Pollyanna books and Just David. Her adult novels are left for now. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Eleanor H. Porter",
+ "_name_words": [
+  "pollyanna",
+  "david"
+ ],
+ "_surname": [
+  "porter"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "eleanor-porter-pollyanna": [
+   1450,
+   "Pollyanna",
+   {
+    "contents_only": true
+   }
+  ],
+  "eleanor-porter-pollyanna-grows-up": [
+   6100,
+   "Pollyanna Grows Up",
+   {
+    "contents_only": true
+   }
+  ],
+  "eleanor-porter-just-david": [
+   440,
+   "Just David",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "eleanor-porter-pollyanna": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleanor-porter-pollyanna-grows-up": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eleanor-porter-just-david": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
