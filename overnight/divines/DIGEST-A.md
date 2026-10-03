@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:32 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-02 21:37 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -139,6 +139,7 @@ Round 7 was done by 21:26 CDT. Round 8 widens from the Puritans to the English d
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded |
 |---|---|---|---|---|---|
 | John Wesley | john-wesley_shelf.json | 4 CCEL (Sermons, Notes on the Bible, Christian Perfection, Journal in Parker's abridgement) | 10 (Works, New York: Harper 1826-30, complete) | none | hymns and poems (hymn manifest); the 1958-65 reprints and the Bicentennial Edition (in copyright). **Flag:** CCEL's Journal was transcribed from a 1951 Moody reprint of Parker's 1903 abridgement; CCEL marks it Public Domain |
+| Richard Hooker | richard-hooker_shelf.json | 1 CCEL (Learned Discourse of Justification) | 3 (Works, ed. Keble, Oxford 1836, complete, with the Laws of Ecclesiastical Polity) | none | CCEL's three stub volumes; the Folger edition (in copyright); school editions with modern notes |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

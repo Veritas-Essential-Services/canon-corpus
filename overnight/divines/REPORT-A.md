@@ -334,3 +334,6 @@
 
 ## 2026-10-02 21:32 CDT — john-wesley done
 - `pipeline/john-wesley_shelf.json`: 4 CCEL titles (converted with `convert_shelf.py`: 27,280 units, 4,078 scripture links) and the 1826-30 Works, 10 volumes of raw IA OCR, median 98.5%, about 29 MB with the CCEL files. The CCEL Journal is Parker's abridgement transcribed from a 1951 Moody Press reprint; flagged in the digest. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:37 CDT — richard-hooker done
+- `pipeline/richard-hooker_shelf.json`: 1 CCEL title and Keble's 1836 Works, 3 volumes of raw IA OCR, median 95.9% (94.5-96.2%), about 5.5 MB; title pages read (Keble, MDCCCXXXVI). Vol. 1 is a Claremont scan, vols 2-3 Toronto. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

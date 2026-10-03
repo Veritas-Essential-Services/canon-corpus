@@ -779,17 +779,21 @@
     },
     {
       "id": "jeremy-taylor",
-      "status": "todo",
+      "status": "started",
       "scope": "Jeremy Taylor: Holy Living, Holy Dying (CCEL) and Works (d. 1667)",
       "added": "2026-10-02T21:28:26-05:00",
-      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
+      "started": "2026-10-02T21:32:20-05:00"
     },
     {
       "id": "richard-hooker",
-      "status": "todo",
+      "status": "done",
       "scope": "Richard Hooker: Laws of Ecclesiastical Polity and Works (d. 1600)",
       "added": "2026-10-02T21:28:26-05:00",
-      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first."
+      "added_by": "lane A worker, round 8 (round 7 done at 21:26 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). English divines with clean CCEL texts first.",
+      "started": "2026-10-02T21:36:29-05:00",
+      "finished": "2026-10-02T21:37:34-05:00",
+      "notes": "1 CCEL + 3 IA"
     },
     {
       "id": "lancelot-andrewes",

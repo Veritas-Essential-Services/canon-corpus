@@ -1202,3 +1202,13 @@ Slugs `wesley-*`.
 | Works, 10 vols (New York: J. & J. Harper, 1826-30) | have-raw | IA (identifiers in the shelf) |
 | Hymns and poems | see hymn manifest | |
 | Jackson's 1872 Works | alternate | on IA only as 1958-65 reprints, except vols 10 and 14 |
+
+## Richard Hooker (round 8, my pick, 2026-10-02)
+
+Slugs `hooker-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| A Learned Discourse of Justification | have-clean | CCEL |
+| Works, ed. John Keble, 3 vols (Oxford, 1836): Of the Laws of Ecclesiastical Polity, sermons, tractates, Walton's Life | have-raw | IA (identifiers in the shelf) |
+| The Church Defended (CCEL) | excluded | stubs |
