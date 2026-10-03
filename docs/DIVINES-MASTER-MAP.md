@@ -3757,8 +3757,10 @@ Shelf: `pipeline/yeats-folk_shelf.json` (2026-10-02; added at the coordinator's 
 | Fairy and Folk Tales of the Irish Peasantry, ed. W. B. Yeats (1888) | have | PG 33887, `yeats-fairy-and-folk-tales-irish-peasantry` (1820 units) |
 | Irish Fairy Tales, ed. W. B. Yeats (1892) | have | PG 31763, `yeats-irish-fairy-tales` (756 units) |
 | The Celtic Twilight (1893; enlarged 1902) | have | PG 10459, `yeats-celtic-twilight` (253 units) |
+| Stories of Red Hanrahan (1904) | have | PG 5793, `yeats-stories-of-red-hanrahan` (140 units) |
+| The Secret Rose (1897) | have | PG 5795, `yeats-secret-rose` (160 units) |
 | yeats-poems-plays | excluded | Yeats's poems, plays, essays and autobiographies: outside a storytellers shelf (a poets' lane would hold them) |
-| yeats-stories | excluded | Stories of Red Hanrahan (PG 5793), The Secret Rose (5795), Rosa Alchemica (5794), John Sherman and Dhoya (49109): his own fiction; a candidate for a later batch |
+| yeats-stories | excluded | Rosa Alchemica (PG 5794) and John Sherman and Dhoya (49109): his other fiction; Rosa Alchemica is an occult story, John Sherman a novel. Red Hanrahan and The Secret Rose are held: tales built on Irish folk material |
 
 ## Douglas Hyde (Irish folk tales)
 
