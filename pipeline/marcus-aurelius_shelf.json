@@ -41,11 +41,6 @@
    "The Meditations of Marcus Aurelius (Everyman's Library no. 9, intro. W. H. D. Rouse; first issue of this edition 1906, this scan the 1948 reprint)",
    "tr. Meric Casaubon"
   ],
-  "marcus-aurelius-rendall-1898": [
-   "marcusaureliusan00marcrich",
-   "Marcus Aurelius Antoninus to Himself: an English translation, with introductory study on Stoicism and the last of the Stoics, second edition (Macmillan, October 1898)",
-   "tr. Gerald H. Rendall"
-  ],
   "marcus-aurelius-collier-1701": [
    "emperormarcusant01marc",
    "The Emperor Marcus Antoninus his Conversation with Himself, with Gataker's preliminary discourse and Dacier's Life (London: Richard Sare, 1701)",
@@ -63,7 +58,7 @@
  "_excluded": {
   "pg6920": "Thoughts of Marcus Aurelius (Long): catalogued but serves no text; PG 15877 kept",
   "pg59784": "an index page",
-  "Rendall (1898), Jackson (1906), Collier (1701)": "all now held: Jackson (marcus-aurelius-jackson-1906), Rendall (marcus-aurelius-rendall-1898), Collier (marcus-aurelius-collier-1701, and Zimmern's 1887 revision)",
+  "Rendall (1898), Jackson (1906), Collier (1701)": "all now held: Jackson (marcus-aurelius-jackson-1906), Rendall (marcus-aurelius-rendall), Collier (marcus-aurelius-collier-1701, and Zimmern's 1887 revision)",
   "C. R. Haines, Loeb (1916)": "PD in US; pending"
  },
  "_surname": [
@@ -76,7 +71,6 @@
   "marcus-aurelius-collier": "Jeremy Collier",
   "marcus-aurelius-rendall": "Gerald H. Rendall",
   "marcus-aurelius-casaubon-everyman": "Meric Casaubon",
-  "marcus-aurelius-rendall-1898": "Gerald H. Rendall",
   "marcus-aurelius-collier-zimmern-1887": "Jeremy Collier"
  },
  "_translator_unchecked": {
@@ -158,19 +152,6 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null,
    "rights_override": "Imprint read: 'First issue of this edition 1906, Last reprinted 1948' (Dent/Dutton). Casaubon's translation is of 1634 and Rouse's introduction of 1906; a reprint adds nothing new. Taken as the 1906 edition, US public domain. Rouse died in 1950, so the introduction is not public domain everywhere under life+70."
-  },
-  "marcus-aurelius-rendall-1898": {
-   "kind": "ia",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "aurelius",
-   "translator_claimed": "Gerald H. Rendall",
-   "translator_in_text": true,
-   "identity": "ok",
-   "ia_rights": "ok: published 1898",
-   "ia_date": "1898",
-   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
   },
   "marcus-aurelius-collier-1701": {
    "kind": "ia",

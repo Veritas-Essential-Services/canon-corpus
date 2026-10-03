@@ -1245,11 +1245,13 @@ Shelf: `pipeline/canton_shelf.json` (2026-10-02; added at the coordinator's rela
 
 ## Abbie Farwell Brown
 
-Shelf: `pipeline/abbie-brown_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Saints' legends and their animals, retold for children. Not in the manifest; no uids minted.
+Shelf: `pipeline/abbie-brown_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Saints' legends and their animals, Norse myths and bird legends, retold for children; cut by legend or tale. Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Book of Saints and Friendly Beasts | have | PG 28990, `abbie-brown-book-of-saints-and-friendly-beasts` (656 units) |
+| In the Days of Giants: A Book of Norse Tales | have | PG 44622, `abbie-brown-in-the-days-of-giants` (760 units) |
+| The Curious Book of Birds | have | PG 16140, `abbie-brown-curious-book-of-birds` (728 units) |
 
 ## Amy Steedman
 
@@ -2312,6 +2314,375 @@ Shelf: `pipeline/jameson_shelf.json` (2026-10-02; added at the coordinator's rel
 |---|---|---|
 | Sacred and Legendary Art, volume 1 | have | PG 69581, `jameson-sacred-and-legendary-art-1` (1911 units) |
 | Legends of the Madonna as Represented in the Fine Arts | have | PG 12047, `jameson-legends-of-the-madonna` (1575 units) |
+
+## Katharine Pyle
+
+Shelf: `pipeline/katharine-pyle_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Fairy and folk tales retold for children, from many lands; cut by tale or chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Counterpane Fairy | have | PG 3230, `katharine-pyle-counterpane-fairy` (845 units) |
+| As the Goose Flies | have | PG 48593, `katharine-pyle-as-the-goose-flies` (888 units) |
+| Fairy Tales from Many Lands | have | PG 47178, `katharine-pyle-fairy-tales-from-many-lands` (1154 units) |
+| Mother's Nursery Tales | have | PG 49001, `katharine-pyle-mothers-nursery-tales` (1914 units) |
+| Tales of Folk and Fairies | have | PG 25913, `katharine-pyle-tales-of-folk-and-fairies` (1385 units) |
+| Wonder Tales from Many Lands | have | PG 48351, `katharine-pyle-wonder-tales-from-many-lands` (1370 units) |
+| Fairy Tales from Far and Near | have | PG 66919, `katharine-pyle-fairy-tales-from-far-and-near` (1254 units) |
+
+## Lewis Spence
+
+Shelf: `pipeline/spence_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Myths and legends of Mexico, Peru, North America, Egypt, Babylonia, the Rhine, Spain and Brittany retold, with his Popol Vuh; cut by chapter, with the back matter (bibliography, glossary, index, notes) under its own headings. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Popol Vuh | have | PG 56550, `spence-popol-vuh` (135 units) |
+| The Myths of Mexico and Peru | have | PG 53080, `spence-myths-of-mexico-and-peru` (1879 units) |
+| The Myths of the North American Indians | have | PG 42390, `spence-myths-of-the-north-american-indians` (2458 units) |
+| Hero Tales and Legends of the Rhine | have | PG 16539, `spence-hero-tales-of-the-rhine` (1493 units) |
+| Myths and Legends of Ancient Egypt | have | PG 43662, `spence-myths-of-ancient-egypt` (910 units) |
+| Myths and Legends of Babylonia and Assyria | have | PG 45137, `spence-myths-of-babylonia-and-assyria` (984 units) |
+| Legends and Romances of Spain | have | PG 38530, `spence-legends-of-spain` (1235 units) |
+| Legends and Romances of Brittany | have | PG 30871, `spence-legends-of-brittany` (2826 units) |
+
+## Lafcadio Hearn
+
+Shelf: `pipeline/hearn_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Ghost stories and legends of Japan and China; cut by story, with numbered sections where he printed them. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Some Chinese Ghosts | have | PG 16261, `hearn-some-chinese-ghosts` (315 units) |
+| Kotto: Being Japanese Curios, with Sundry Cobwebs | have | PG 55473, `hearn-kotto` (772 units) |
+| Kwaidan: Stories and Studies of Strange Things | have | PG 1210, `hearn-kwaidan` (573 units) |
+| The Romance of the Milky Way, and Other Studies and Stories | have | PG 15320, `hearn-romance-of-the-milky-way` (581 units) |
+| Shadowings | have | PG 34215, `hearn-shadowings` (1090 units) |
+| In Ghostly Japan | have | PG 8128, `hearn-in-ghostly-japan` (627 units) |
+
+## Donald A. Mackenzie
+
+Shelf: `pipeline/mackenzie_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Highland legends in verse, and the myths of Babylonia, India, China and Japan retold; cut by poem or chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Elves and Heroes | have | PG 10089, `mackenzie-elves-and-heroes` (310 units) |
+| Myths of Babylonia and Assyria | have | PG 16653, `mackenzie-myths-of-babylonia-and-assyria` (2109 units) |
+| Indian Myth and Legend | have | PG 47228, `mackenzie-indian-myth-and-legend` (3748 units) |
+| Myths of China and Japan | have | PG 67344, `mackenzie-myths-of-china-and-japan` (2027 units) |
+
+## James Stephens
+
+Shelf: `pipeline/stephens_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Irish legends retold: the Fenian tales and the story of Deirdre; cut by tale, and Deirdre by book and chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Irish Fairy Tales | have | PG 2892, `stephens-irish-fairy-tales` (2130 units) |
+| Deirdre | have | PG 65950, `stephens-deirdre` (1871 units) |
+
+## Henry van Dyke
+
+Shelf: `pipeline/van-dyke_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Christmas legends and tales; cut by story and numbered section. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Story of the Other Wise Man | have | PG 16291, `van-dyke-other-wise-man` (165 units) |
+| The Lost Word: A Christmas Legend of Long Ago | have | PG 4384, `van-dyke-lost-word` (182 units) |
+| The First Christmas Tree: A Story of the Forest | have | PG 16134, `van-dyke-first-christmas-tree` (149 units) |
+| The Blue Flower | have | PG 1603, `van-dyke-blue-flower` (887 units) |
+| The Sad Shepherd: A Christmas Story | have | PG 15936, `van-dyke-sad-shepherd` (154 units) |
+| van-dyke-other-wise-man-others | excluded | PG 10679 and 19608, two other transcriptions of The Other Wise Man; 85% and 98% of their long paragraphs are in PG 16291 (the 1899 edition); held once |
+
+## Washington Irving
+
+Shelf: `pipeline/irving_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Legends and tales: the Sketch-Book (Rip Van Winkle, Sleepy Hollow), Tales of a Traveller, The Alhambra and Legends of the Conquest of Spain; cut by sketch, tale or chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Sketch-Book of Geoffrey Crayon | have | PG 2048, `irving-sketch-book` (1084 units) |
+| Tales of a Traveller | have | PG 13514, `irving-tales-of-a-traveller` (1327 units) |
+| The Alhambra | have | PG 49947, `irving-alhambra` (1438 units) |
+| Legends of the Conquest of Spain | have | PG 77685, `irving-legends-of-the-conquest-of-spain` (658 units) |
+| irving-alhambra-pennell | excluded | PG 49872, the Alhambra with Pennell's illustrations (1896); 66% of its long paragraphs are in PG 49947; held once as the same work |
+| irving-sketch-book-parts | excluded | PG 41 (The Legend of Sleepy Hollow), 60976 and 64636 (Rip Van Winkle), and 1850, 20656, 64092 and 52361 (Irving's Christmas chapters): illustrated separate printings of pieces in The Sketch-Book, matched by title; 35-82% of their long paragraphs match PG 2048 at the start of the paragraph (not checked further). Held once inside the Sketch-Book. |
+
+## Jeremiah Curtin (folk tales and myths)
+
+Shelf: `pipeline/curtin-folk_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Tales he took down from Irish, Slav, Magyar, Seneca, Modoc and Wintu tellers, in his English; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Myths and Folk Tales of Ireland | have | PG 36540, `curtin-myths-and-folk-tales-of-ireland` (1823 units) |
+| Myths and Folk-tales of the Russians, Western Slavs, and Magyars | have | PG 50011, `curtin-myths-and-folk-tales-of-the-russians` (3248 units) |
+| Hero-Tales of Ireland | have | PG 63866, `curtin-hero-tales-of-ireland` (3529 units) |
+| Creation Myths of Primitive America | have | PG 39106, `curtin-creation-myths-of-primitive-america` (3721 units) |
+| Seneca Fiction, Legends, and Myths | have | PG 64176, `curtin-seneca-fiction-legends-and-myths` (4064 units) |
+| Myths of the Modocs | have | PG 73418, `curtin-myths-of-the-modocs` (3601 units) |
+
+## William Larminie, tr.
+
+Shelf: `pipeline/larminie_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). West Irish tales he collected and translated, each with its narrator named; cut by tale, with his phonetic specimens and notes. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| West Irish Folk-Tales and Romances | have | PG 57858, `larminie-west-irish-folk-tales` (1529 units) |
+
+## K. Langloh Parker
+
+Shelf: `pipeline/langloh-parker_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Noongahburrah legends as she heard them, with Andrew Lang's introduction; cut by numbered tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Australian Legendary Tales | have | PG 3833, `langloh-parker-australian-legendary-tales` (403 units) |
+
+## Norman Hinsdale Pitman
+
+Shelf: `pipeline/pitman_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Chinese tales retold; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Chinese Wonder Book | have | PG 18674, `pitman-chinese-wonder-book` (942 units) |
+
+## W. A. Clouston
+
+Shelf: `pipeline/clouston_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Popular tales traced and gathered: the noodle stories, and Eastern romances in Rehatsek's and Ouseley's English; cut by chapter or tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Book of Noodles | have | PG 13032, `clouston-book-of-noodles` (648 units) |
+| A Group of Eastern Romances and Stories from the Persian, Tamil and Urdu | have | PG 57468, `clouston-group-of-eastern-romances` (1871 units) |
+| The Bakhtyār Nāma: A Persian Romance | have | PG 60316, `clouston-bakhtyar-nama` (799 units) |
+
+## Florence Holbrook
+
+Shelf: `pipeline/holbrook_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Nature myths and Norse hero tales retold for school readers; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Book of Nature Myths | have | PG 22420, `holbrook-book-of-nature-myths` (1016 units) |
+| Northland Heroes | have | PG 20853, `holbrook-northland-heroes` (399 units) |
+
+## Alexander Chodzko (tr. Emily J. Harding)
+
+Shelf: `pipeline/chodzko_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Slav fairy tales, Czech, Slovak, Russian and others, translated and illustrated by Emily J. Harding; cut by tale and part. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Fairy Tales of the Slav Peasants and Herdsmen | have | PG 25555, `chodzko-fairy-tales-of-the-slav-peasants` (1390 units) |
+
+## Leonard A. Magnus, tr.
+
+Shelf: `pipeline/magnus_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Russian folk tales from Afanasyev, translated direct from the Russian; cut by tale, with his notes and glossary. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Russian Folk-Tales | have | PG 62509, `magnus-russian-folk-tales` (2830 units) |
+
+## Moses Gaster, tr.
+
+Shelf: `pipeline/gaster_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Rumanian animal and bird legends, numbered as he printed them, with appendices of charms and Ben Sira's animal stories. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Rumanian Bird and Beast Stories | have | PG 43059, `gaster-rumanian-bird-and-beast-stories` (1601 units) |
+
+## George McCall Theal
+
+Shelf: `pipeline/theal_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Xhosa folk tales and proverbs as Theal printed them, with his notes; cut by story. The book's title uses a term now recognised as a slur. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Kaffir Folk-lore | have | PG 71335, `theal-kaffir-folk-lore` (1264 units) |
+
+## Mary F. Nixon-Roulet
+
+Shelf: `pipeline/nixon-roulet_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Japanese folk stories and fairy tales retold for school readers; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Japanese Folk Stories and Fairy Tales | have | PG 73293, `nixon-roulet-japanese-folk-stories` (811 units) |
+
+## Marie L. McLaughlin
+
+Shelf: `pipeline/mclaughlin_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Sioux myths and legends as she heard them in the Sioux language; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Myths and Legends of the Sioux | have | PG 341, `mclaughlin-myths-and-legends-of-the-sioux` (680 units) |
+
+## Gerald Friedlander, tr.
+
+Shelf: `pipeline/friedlander_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Jewish fairy stories retold from Talmudic and later sources; cut by story. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Jewish Fairy Stories | have | PG 72880, `friedlander-jewish-fairy-stories` (331 units) |
+
+## Louis Ginzberg (tr. Henrietta Szold)
+
+Shelf: `pipeline/ginzberg_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The legends of the Bible's people from Talmud, Midrash and later sources; cut by chapter and legend. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Legends of the Jews, Volume 1 | have | PG 1493, `ginzberg-legends-of-the-jews-1` (918 units) |
+| The Legends of the Jews, Volume 2 | have | PG 1494, `ginzberg-legends-of-the-jews-2` (918 units) |
+| ginzberg-legends-of-the-jews-3 | excluded | Gutenberg 2881, tr. Paul Radin (catalogue 1883-1959): held for Adam, UK copyright to 2029 |
+| ginzberg-legends-of-the-jews-4 | excluded | Gutenberg 2882, tr. Paul Radin with Henrietta Szold: held for Adam with volume 3 |
+
+## Carl Ewald (tr. Teixeira de Mattos; Moore Smith)
+
+Shelf: `pipeline/ewald_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Nature fairy tales; cut by story and numbered section, or by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Old Willow Tree, and Other Stories | have | PG 31167, `ewald-old-willow-tree` (1075 units) |
+| The Pond | have | PG 31708, `ewald-pond` (710 units) |
+| Two-Legs | have | PG 65029, `ewald-two-legs` (1086 units) |
+| The Spider, and Other Tales | have | PG 62910, `ewald-spider` (946 units) |
+| The Four Seasons | have | PG 62912, `ewald-four-seasons` (605 units) |
+| The Queen Bee, and Other Nature Stories | have | PG 40553, `ewald-queen-bee` (546 units) |
+| ewald-adult | excluded | My Little Boy (35543) and The Old Room (62883): not stories for children |
+
+## Elizabeth Harrison
+
+Shelf: `pipeline/elizabeth-harrison_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Kindergarten stories; cut by story. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| In Story-land | have | PG 33980, `harrison-in-story-land` (459 units) |
+
+## Edith Howes
+
+Shelf: `pipeline/howes_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Fairy and nature stories from New Zealand; cut by story. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Wonderwings and other Fairy Stories | have | PG 20366, `howes-wonderwings` (116 units) |
+| The Sun's Babies | have | PG 38063, `howes-suns-babies` (1019 units) |
+
+## Alice Elizabeth Dracott
+
+Shelf: `pipeline/dracott_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Folk tales she collected around Simla; cut by tale, with her notes. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Simla Village Tales; Or, Folk Tales from the Himalayas | have | PG 58816, `dracott-simla-village-tales` (1117 units) |
+
+## A. H. Wratislaw, tr.
+
+Shelf: `pipeline/wratislaw_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Sixty Slavonic tales, cut by nation and numbered tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Sixty Folk-Tales from Exclusively Slavonic Sources | have | PG 48761, `wratislaw-sixty-folk-tales` (565 units) |
+
+## George Borrow, tr.
+
+Shelf: `pipeline/borrow_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Nasreddin anecdotes, cited by paragraph. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Turkish Jester | have | PG 16244, `borrow-turkish-jester` (115 units) |
+
+## E. Pauline Johnson
+
+Shelf: `pipeline/pauline-johnson_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Squamish legends Chief Joe Capilano told her, in her retelling; cut by legend. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Legends of Vancouver | have | PG 28483, `pauline-legends-of-vancouver` (466 units) |
+| pauline-legends-of-vancouver-3478 | excluded | PG 3478, an undated Gutenberg transcription of Legends of Vancouver: checked 2026-10-03, 332 of its 360 long paragraphs (92%) are in PG 28483 (copyright 1911, 1913 printing), which is kept as the dated edition; held once |
+
+## Edmund Leamy
+
+Shelf: `pipeline/leamy_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Irish fairy tales retold, with notes; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Irish Fairy Tales | have | PG 29311, `leamy-irish-fairy-tales` (715 units) |
+| leamy-golden-spears | excluded | PG 22168, The Golden Spears and Other Fairy Tales (copyright 1911): checked 2026-10-03, 455 of its 510 long paragraphs (89%) are in Irish Fairy Tales (PG 29311, Dublin 1906), the same seven tales; held once |
+
+## Basil Hall Chamberlain
+
+Shelf: `pipeline/basil-chamberlain_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Ainu tales he took down and Englished, and two of his Japanese fairy-tale booklets; cut by section and numbered tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Aino Folk-Tales | have | PG 29287, `chamberlain-aino-folk-tales` (220 units) |
+| The Silly Jelly-Fish | have | PG 25590, `chamberlain-silly-jelly-fish` (32 units) |
+| The Fisher-Boy Urashima | have | PG 30024, `chamberlain-fisher-boy-urashima` (20 units) |
+
+## Cyrus MacMillan
+
+Shelf: `pipeline/cyrus-macmillan_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Canadian Indigenous and French-Canadian tales retold; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Canadian Fairy Tales | have | PG 36241, `macmillan-canadian-fairy-tales` (357 units) |
+
+## E. T. C. Werner
+
+Shelf: `pipeline/werner_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Chinese myths and legends retold, with his chapters on sociology and mythology; cut by chapter and section. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Myths and Legends of China | have | PG 15250, `werner-myths-and-legends-of-china` (1227 units) |
+
+## Wirt Sikes
+
+Shelf: `pipeline/sikes_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Welsh fairy lore, ghost lore and customs; cut by book, chapter, numbered section and footnotes. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| British Goblins: Welsh Folk-lore, Fairy Mythology, Legends and Traditions | have | PG 34704, `sikes-british-goblins` (2072 units) |
+
+## Enys Tregarthen
+
+Shelf: `pipeline/tregarthen_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Cornish piskey tales and legends, with her notes; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Piskey-Purse: Legends and Tales of North Cornwall | have | PG 37245, `tregarthen-piskey-purse` (1143 units) |
+| North Cornwall Fairies and Legends | have | PG 40246, `tregarthen-north-cornwall-fairies` (760 units) |
+
+## M. I. Ebbutt
+
+Shelf: `pipeline/ebbutt_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Hero tales of the British peoples retold; cut by chapter and section. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Hero-Myths & Legends of the British Race | have | PG 25502, `ebbutt-hero-myths-and-legends` (1680 units) |
+
+## Maurice Baring
+
+Shelf: `pipeline/maurice-baring_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Original fairy stories; cut by story. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Blue Rose Fairy Book | have | PG 36008, `baring-blue-rose-fairy-book` (769 units) |
+
+## Evelyn Sharp
+
+Shelf: `pipeline/evelyn-sharp_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Original fairy stories; cut by story. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| All the Way to Fairyland: Fairy Stories | have | PG 30400, `sharp-all-the-way-to-fairyland` (833 units) |
+| The Other Side of the Sun: Fairy Stories | have | PG 40573, `sharp-other-side-of-the-sun` (881 units) |
+
+## M. R. James
+
+Shelf: `pipeline/mr-james_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Apocryphal Old Testament legends retold for children, and a children's fantasy; cut by legend or chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Old Testament Legends | have | PG 15874, `mrjames-old-testament-legends` (251 units) |
+| The Five Jars | have | PG 24089, `mrjames-five-jars` (452 units) |
+
+## J. Macgowan
+
+Shelf: `pipeline/macgowan_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Chinese folk tales; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Chinese Folk-Lore Tales | have | PG 26070, `macgowan-chinese-folk-lore-tales` (690 units) |
 
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 

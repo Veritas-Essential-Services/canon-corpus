@@ -1,5 +1,5 @@
 {
- "_about": "Aeschylus in English, translator per title. Complete in two translators: E. H. Plumptre (verse; Tragedies and Fragments) and John Stuart Blackie (verse, 1850; Lyrical Dramas). Also E. D. A. Morshead (verse; House of Atreus 1881 and Four Plays), T. A. Buckley (prose, Bohn), Gilbert Murray (Agamemnon, rhyming verse; Gutenberg clears it as US PD; Murray d. 1957, not PD in life+70 countries). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_about": "Aeschylus in English, translator per title. Complete in two translators: E. H. Plumptre (verse; Tragedies and Fragments) and John Stuart Blackie (verse, 1850; Lyrical Dramas). Also E. D. A. Morshead (verse; House of Atreus 1881 and Four Plays), T. A. Buckley (prose, Bohn), Gilbert Murray (Agamemnon, rhyming verse; Gutenberg clears it as US PD; Murray d. 1957, not PD in life+70 countries). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report. Added 2026-10-03, four single-play Prometheus Bound translations, raw IA OCR: Augusta Webster's (1866), C. B. Cayley's (1867), Paul Elmer More's (1899) and Edwyn Robert Bevan's (1902). Janet Case's Temple Dramatists edition (Greek facing, undated scan) was not taken. Also four Agamemnons, raw IA OCR: J. S. Harford's (Murray, 1831; translator from the catalogue only), H. H. Milman's (Murray, 1865, with his Bacchae of Euripides), W. R. Paton's (Nutt, 1907) and Locke Ellis's (1920). Not taken: Trevelyan's Cambridge Oresteia (1920, Greek facing, OCR 0.51) and the Greek-facing school editions (Conington, Kennedy, Davies, Verrall, Goodwin).",
  "_name_words": [
   "aeschylus",
   "aeschylos",
@@ -80,11 +80,51 @@
    "oresteiatranslat00aescuoft",
    "The Oresteia of Aeschylus translated and explained (London: George Allen, 1900)",
    "tr. George C. W. Warr"
+  ],
+  "aeschylus-webster-prometheus-1866": [
+   "prometheusboundo00aescrich",
+   "The Prometheus Bound, literally translated into English verse, ed. Thomas Webster (Macmillan, 1866)",
+   "tr. Augusta Webster"
+  ],
+  "aeschylus-cayley-prometheus-1867": [
+   "prometheusboundo00aesc_0",
+   "The Prometheus Bound, translated in the original metres (Hotten, 1867)",
+   "tr. C. B. Cayley"
+  ],
+  "aeschylus-more-prometheus-1899": [
+   "prometheusboundo00aesc_1",
+   "The Prometheus Bound, translated with introduction and notes (Houghton, Mifflin, 1899)",
+   "tr. Paul Elmer More"
+  ],
+  "aeschylus-bevan-prometheus-1902": [
+   "prometheusboundoaesc00rich",
+   "The Prometheus Bound, rendered into English verse (David Nutt, 1902)",
+   "tr. Edwyn Robert Bevan"
+  ],
+  "aeschylus-harford-agamemnon-1831": [
+   "agamemnonofaes00aesc",
+   "The Agamemnon of Aeschylus, a new translation with a preliminary dissertation (Murray, 1831)",
+   "tr. John S. Harford"
+  ],
+  "aeschylus-milman-agamemnon-1865": [
+   "agamemnonofaesch00aescuoft",
+   "The Agamemnon of Aeschylus and the Bacchanals of Euripides, with passages from the lyric and later poets of Greece (Murray, 1865)",
+   "tr. Henry Hart Milman"
+  ],
+  "aeschylus-paton-agamemnon-1907": [
+   "agamemnonofaesch01aesc",
+   "The Agamemnon of Aeschylus, rendered into English verse (Nutt, 1907)",
+   "tr. W. R. Paton"
+  ],
+  "aeschylus-ellis-agamemnon-1920": [
+   "agamemnonaftergr00aesciala",
+   "Agamemnon, after the Greek of Aeschylus (Selwyn and Blount, 1920)",
+   "tr. Locke Ellis"
   ]
  },
  "_excluded": {
   "pg7073": "Specimens of Greek Tragedy (Goldwin Smith): excerpts from Aeschylus and Sophocles, not whole plays",
-  "Herbert Weir Smyth, Loeb (1922-26)": "on Perseus with the Greek; US PD by date. Pending: Perseus manifest entry",
+  "Herbert Weir Smyth, Loeb (1922-26)": "now held from Perseus: the seven plays (aeschylus-perseus-smyth-*), English only. Perseus's source lines mark these files '(Modernized by Perseus.)', so the spelling may not be Smyth's as printed",
   "G. M. Cookson, Aeschylus' Plays (Everyman, 1906)": "the only scan with text (aeschylusplays0000gmco) is a later Everyman printing whose introduction cites a 1936 book, so it carries post-1930 matter; not taken"
  },
  "perseus": {
@@ -93,6 +133,48 @@
    "Agamemnon",
    "Robert Browning",
    "Translation published 1889: US public domain (in or before 1930). Perseus source line: Aeschylus. The poetical works of Robert Browning, Volume 13. Browning, Robert, translator; Berdoe, Edward, editor. London: Smith, Elder and Co., 1889."
+  ],
+  "aeschylus-perseus-smyth-agamemnon": [
+   "tlg0085.tlg005.perseus-eng3",
+   "Agamemnon",
+   "Herbert Weir Smyth",
+   "Translation published 1926: US public domain (in or before 1930). Perseus source line: Aeschylus, Volume 2. Smyth, Herbert Weir, translator. London; New York: William Heinemann; G.P. Putnam's Sons, 1926. (Modernized by Perseus.)"
+  ],
+  "aeschylus-perseus-smyth-eumenides": [
+   "tlg0085.tlg007.perseus-eng2",
+   "Eumenides",
+   "Herbert Weir Smyth",
+   "Translation published 1926: US public domain (in or before 1930). Perseus source line: Aeschylus, Volume 2. Smyth, Herbert Weir, translator. London; New York: William Heinemann; G.P. Putnam's Sons, 1926. (Modernized by Perseus.)"
+  ],
+  "aeschylus-perseus-smyth-libation-bearers": [
+   "tlg0085.tlg006.perseus-eng2",
+   "Libation Bearers",
+   "Herbert Weir Smyth",
+   "Translation published 1926: US public domain (in or before 1930). Perseus source line: Aeschylus, Volume 2. Smyth, Herbert Weir, translator. London; New York: William Heinemann; G.P. Putnam's Sons, 1926. (Modernized by Perseus.)"
+  ],
+  "aeschylus-perseus-smyth-persians": [
+   "tlg0085.tlg002.perseus-eng2",
+   "Persians",
+   "Herbert Weir Smyth",
+   "Translation published 1922: US public domain (in or before 1930). Perseus source line: Aeschylus, Volume 1. Smyth, Herbert Weir, translator. London; New York: William Heinemann; G.P. Putnam's Sons, 1922. (Modernized by Perseus.)"
+  ],
+  "aeschylus-perseus-smyth-prometheus-bound": [
+   "tlg0085.tlg003.perseus-eng2",
+   "Prometheus Bound",
+   "Herbert Weir Smyth",
+   "Translation published 1922: US public domain (in or before 1930). Perseus source line: Aeschylus, Volume 1. Smyth, Herbert Weir, translator. London; New York: William Heinemann; G.P. Putnam's Sons, 1922. (Modernized by Perseus.)"
+  ],
+  "aeschylus-perseus-smyth-seven-against-thebes": [
+   "tlg0085.tlg004.perseus-eng2",
+   "Seven Against Thebes",
+   "Herbert Weir Smyth",
+   "Translation published 1922: US public domain (in or before 1930). Perseus source line: Aeschylus, Volume 1. Smyth, Herbert Weir, translator. London; New York: William Heinemann; G.P. Putnam's Sons, 1922. (Modernized by Perseus.)"
+  ],
+  "aeschylus-perseus-smyth-suppliant-maidens": [
+   "tlg0085.tlg001.perseus-eng2",
+   "Suppliant Maidens",
+   "Herbert Weir Smyth",
+   "Translation published 1922: US public domain (in or before 1930). Perseus source line: Aeschylus, Volume 1. Smyth, Herbert Weir, translator. London; New York: William Heinemann; G.P. Putnam's Sons, 1922. (Modernized by Perseus.)"
   ]
  },
  "_surname": [
@@ -116,7 +198,21 @@
   "aeschylus-way-1908-part3": "Arthur S. Way",
   "aeschylus-campbell-oresteia-prose-1893": "Lewis Campbell",
   "aeschylus-headlam-plays-1909": "Walter Headlam",
-  "aeschylus-warr-oresteia-1900": "George C. W. Warr"
+  "aeschylus-warr-oresteia-1900": "George C. W. Warr",
+  "aeschylus-perseus-smyth-agamemnon": "Herbert Weir Smyth",
+  "aeschylus-perseus-smyth-eumenides": "Herbert Weir Smyth",
+  "aeschylus-perseus-smyth-libation-bearers": "Herbert Weir Smyth",
+  "aeschylus-perseus-smyth-persians": "Herbert Weir Smyth",
+  "aeschylus-perseus-smyth-prometheus-bound": "Herbert Weir Smyth",
+  "aeschylus-perseus-smyth-seven-against-thebes": "Herbert Weir Smyth",
+  "aeschylus-perseus-smyth-suppliant-maidens": "Herbert Weir Smyth",
+  "aeschylus-more-prometheus-1899": "Paul Elmer More",
+  "aeschylus-bevan-prometheus-1902": "Edwyn Robert Bevan",
+  "aeschylus-webster-prometheus-1866": "Augusta Webster",
+  "aeschylus-cayley-prometheus-1867": "C. B. Cayley",
+  "aeschylus-milman-agamemnon-1865": "Henry Hart Milman",
+  "aeschylus-paton-agamemnon-1907": "W. R. Paton",
+  "aeschylus-ellis-agamemnon-1920": "Locke Ellis"
  },
  "_checks": {
   "aeschylus-plumptre": {
@@ -294,6 +390,108 @@
    "ia_date": "1900",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "aeschylus-webster-prometheus-1866": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Augusta Webster",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aeschylus-cayley-prometheus-1867": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "C. B. Cayley",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aeschylus-more-prometheus-1899": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "Paul Elmer More",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aeschylus-bevan-prometheus-1902": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "Edwyn Robert Bevan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aeschylus-harford-agamemnon-1831": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "eschylus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "aeschylus-milman-agamemnon-1865": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "Henry Hart Milman",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aeschylus-paton-agamemnon-1907": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "W. R. Paton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aeschylus-ellis-agamemnon-1920": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Locke Ellis",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_perseus_checks": {
@@ -308,11 +506,187 @@
     1889
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0085/tlg005/tlg0085.tlg005.perseus-eng4.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "aeschylus-perseus-smyth-agamemnon": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0085.tlg005.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Herbert Weir Smyth",
+   "author_seen": "aeschylus",
+   "source_years": [
+    1926
+   ],
+   "rights_override": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Gregory Crane and Graeme Bird'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+   "modernized": "Agamemnon Modernized by Perseus Aeschylus Herbert Weir Smyth",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup; modernized text)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0085/tlg005/tlg0085.tlg005.perseus-eng3.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "aeschylus-perseus-smyth-eumenides": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0085.tlg007.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Herbert Weir Smyth",
+   "author_seen": "aeschylus",
+   "source_years": [
+    1926
+   ],
+   "rights_override": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Judith Nelson'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+   "modernized": "Eumenides Modernized by Perseus Aeschylus Herbert Weir Smyth",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup; modernized text)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0085/tlg007/tlg0085.tlg007.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "aeschylus-perseus-smyth-libation-bearers": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0085.tlg006.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Herbert Weir Smyth",
+   "author_seen": "aeschylus",
+   "source_years": [
+    1926
+   ],
+   "rights_override": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by James Erdman'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+   "modernized": "Libation Bearers Modernized by Perseus Aeschylus Herbert Weir Smyth",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup; modernized text)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0085/tlg006/tlg0085.tlg006.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "aeschylus-perseus-smyth-persians": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0085.tlg002.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Herbert Weir Smyth",
+   "author_seen": "aeschylus",
+   "source_years": [
+    1922
+   ],
+   "rights_override": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Annete Giesecke'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+   "modernized": "Persians Modernized by Perseus Aeschylus Herbert Weir Smyth",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup; modernized text)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0085/tlg002/tlg0085.tlg002.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "aeschylus-perseus-smyth-prometheus-bound": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0085.tlg003.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Herbert Weir Smyth",
+   "author_seen": "aeschylus",
+   "source_years": [
+    1922
+   ],
+   "rights_override": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Nancy Sultan'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+   "modernized": "Prometheus Bound Modernized by Perseus Aeschylus Herbert Weir Smyth",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup; modernized text)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0085/tlg003/tlg0085.tlg003.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "aeschylus-perseus-smyth-seven-against-thebes": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0085.tlg004.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Herbert Weir Smyth",
+   "author_seen": "aeschylus",
+   "source_years": [
+    1922
+   ],
+   "rights_override": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Pierre Habel'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+   "modernized": "Seven Against Thebes Modernized by Perseus Aeschylus Herbert Weir Smyth",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup; modernized text)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0085/tlg004/tlg0085.tlg004.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "aeschylus-perseus-smyth-suppliant-maidens": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0085.tlg001.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Herbert Weir Smyth",
+   "author_seen": "aeschylus",
+   "source_years": [
+    1922
+   ],
+   "rights_override": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Nancy Sultan'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+   "modernized": "Suppliant Maidens Modernized by Perseus Aeschylus Herbert Weir Smyth",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup; modernized text)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0085/tlg001/tlg0085.tlg001.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   }
  },
  "_identity_checked": {
   "aeschylus-way-1906-part1": "checked 2026-10-03: title page reads 'AESCHYLUS IN ENGLISH VERSE, PART I' by Arthur S. Way, Macmillan 1906; the OCR renders the ligature AE as 'JE'/'iE' (JESCHYLUS), so the surname test cannot see it",
-  "aeschylus-way-1908-part3": "checked 2026-10-03: title page reads 'AESCHYLUS IN ENGLISH VERSE, PART III' by Arthur S. Way, Macmillan 1908; the OCR renders the ligature AE as 'JE'/'iE' (JESCHYLUS), so the surname test cannot see it"
+  "aeschylus-way-1908-part3": "checked 2026-10-03: title page reads 'AESCHYLUS IN ENGLISH VERSE, PART III' by Arthur S. Way, Macmillan 1908; the OCR renders the ligature AE as 'JE'/'iE' (JESCHYLUS), so the surname test cannot see it",
+  "aeschylus-webster-prometheus-1866": "title page read: 'THE PROMETHEUS BOUND OF ^SCHYLUS. LITERALLY TRANSLATED INTO ENGLISH VERSE BY AUGUSTA WEBSTER ... MACMILLAN AND CO. 1866'; the OCR mangles the Æ ligature in every occurrence of the author's name",
+  "aeschylus-cayley-prometheus-1867": "title page read: 'THE PROMETHEUS BOUND OF FESCHYLUS. TRANSLATED IN THE ORIGINAL METRES. BY C. B. CAYLEY ... JOHN CAMDEN HOTTEN ... 1867'; the OCR mangles the Æ ligature in the author's name",
+  "aeschylus-ellis-agamemnon-1920": "title page read: 'AGAMEMNON AFTER THE GREEK OF iESCHYLVS BY LOCKE ELLIS LONDON SELWYN & BLOVNT, LTD. ... 1920 First published 1920'; the author's name is printed in Roman capitals (AESCHYLVS) and OCRs as iESCHYLVS"
+ },
+ "_rights_checked": {
+  "aeschylus-perseus-smyth-agamemnon": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Gregory Crane and Graeme Bird'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+  "aeschylus-perseus-smyth-eumenides": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Judith Nelson'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+  "aeschylus-perseus-smyth-libation-bearers": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by James Erdman'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+  "aeschylus-perseus-smyth-persians": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Annete Giesecke'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+  "aeschylus-perseus-smyth-prometheus-bound": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Nancy Sultan'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+  "aeschylus-perseus-smyth-seven-against-thebes": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Pierre Habel'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B",
+  "aeschylus-perseus-smyth-suppliant-maidens": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Nancy Sultan'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B"
+ },
+ "_translator_unchecked": {
+  "aeschylus-harford-agamemnon-1831": "translator not printed in the text layer: the scan's title page did not OCR and the preface does not name him; the attribution to John S. Harford is the library catalogue's (IA metadata), not the book's"
  }
 }

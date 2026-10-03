@@ -1,0 +1,39 @@
+{
+ "_about": "Norman Hinsdale Pitman's A Chinese Wonder Book (copyright 1919), Chinese tales retold. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Norman Hinsdale Pitman",
+ "_name_words": [
+  "pitman"
+ ],
+ "_surname": [
+  "norman hinsdale pitman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pitman-chinese-wonder-book": [
+   18674,
+   "A Chinese Wonder Book",
+   {
+    "levels": [
+     {
+      "re": "(?:TABLE OF CONTENTS|ILLUSTRATIONS|THE\\ GOLDEN\\ BEETLE\\ OR\\ WHY\\ THE\\ DOG\\ HATES\\ THE\\ CAT|THE\\ GREAT\\ BELL|THE\\ STRANGE\\ TALE\\ OF\\ DOCTOR\\ DOG|HOW\\ FOOTBINDING\\ STARTED|THE\\ TALKING\\ FISH|BAMBOO\\ AND\\ THE\\ TURTLE|THE\\ MAD\\ GOOSE\\ AND\\ THE\\ TIGER\\ FOREST|THE\\ NODDING\\ TIGER|THE\\ PRINCESS\\ KWAN\\-YIN|THE\\ TWO\\ JUGGLERS|THE\\ PHANTOM\\ VESSEL|THE\\ WOODEN\\ TABLET|THE\\ GOLDEN\\ NUGGET|THE\\ MAN\\ WHO\\ WOULD\\ NOT\\ SCOLD|LU\\-SAN,\\ DAUGHTER\\ OF\\ HEAVEN)$"
+     }
+    ],
+    "start": "TABLE OF CONTENTS$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "pitman-chinese-wonder-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "norman hinsdale pitman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

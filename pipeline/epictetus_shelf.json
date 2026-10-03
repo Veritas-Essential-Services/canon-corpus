@@ -54,13 +54,18 @@
    "allworksofepicte00epic",
    "All the Works of Epictetus, which are now Extant (Dublin, 1759)",
    "tr. Elizabeth Carter"
+  ],
+  "epictetus-stanhope-simplicius-1741": [
+   "bim_eighteenth-century_epictetus-his-morals-wi_epictetus_1741",
+   "Epictetus his Morals, with Simplicius his Comment, made English from the Greek, fifth edition corrected, with the Life of Epictetus from Boileau (London: Ward, Knapton and others, M.DCC.XLI)",
+   "tr. George Stanhope"
   ]
  },
  "_cross_ref": {
   "epictetus-discourses": "Adler shelf: PG 45109 is Higginson's ENCHIRIDION only; the Adler label 'The Discourses, tr. P.E. Matheson' is wrong"
  },
  "_excluded": {
-  "Elizabeth Carter, All the Works of Epictetus (1758)": "PD; pending (IA)",
+  "Elizabeth Carter, All the Works of Epictetus (1758)": "now held: epictetus-carter",
   "W. A. Oldfather, Loeb (1925-28)": "PD in US by date, Greek facing; pending"
  },
  "_surname": [
@@ -75,7 +80,8 @@
   "epictetus-matheson-1916-v2": "P. E. Matheson",
   "epictetus-higginson-works-v1": "Thomas Wentworth Higginson",
   "epictetus-higginson-works-v2": "Thomas Wentworth Higginson",
-  "epictetus-carter": "Elizabeth Carter"
+  "epictetus-carter": "Elizabeth Carter",
+  "epictetus-stanhope-simplicius-1741": "Dr. Stanhope"
  },
  "_checks": {
   "epictetus-long-selection": {
@@ -191,6 +197,19 @@
    "ia_date": "1759",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "epictetus-stanhope-simplicius-1741": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "epictetus",
+   "translator_claimed": "Dr. Stanhope",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1741",
+   "ia_date": "1741",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_held": {
@@ -198,5 +217,6 @@
   "epictetus-perseus-long-fragments": "same translation as epictetus-long-discourses-1877 and epictetus-long-selection (Long); epictetus-higginson-works-v1/v2 (Higginson) on this shelf; Perseus TEI urn:cts:greekLit:tlg0557.tlg003a.perseus-eng3 (Fragments, tr. George Long) is not taken as a second witness (moved here on review, 2026-10-02)",
   "epictetus-perseus-higginson-fragments": "same translation as epictetus-long-discourses-1877 and epictetus-long-selection (Long); epictetus-higginson-works-v1/v2 (Higginson) on this shelf; Perseus TEI urn:cts:greekLit:tlg0557.tlg003a.perseus-eng4 (Fragments, tr. Thomas Wentworth Higginson) is not taken as a second witness (moved here on review, 2026-10-02)",
   "epictetus-perseus-long-the-encheiridion-or-manual": "same translation as epictetus-long-discourses-1877 and epictetus-long-selection (Long); epictetus-higginson-works-v1/v2 (Higginson) on this shelf; Perseus TEI urn:cts:greekLit:tlg0557.tlg002.perseus-eng3 (The Encheiridion, or Manual, tr. George Long) is not taken as a second witness (moved here on review, 2026-10-02)"
- }
+ },
+ "_translator_unchecked": {}
 }

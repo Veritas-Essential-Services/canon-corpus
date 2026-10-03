@@ -4,7 +4,11 @@
   "bonar"
  ],
  "_surname": [
-  "bonar"
+  "andrew a. bonar",
+  "andrew bonar",
+  "a. a. bonar",
+  "andrew alexander bonar",
+  "bonar, andrew"
  ],
  "ccel": {},
  "gutenberg": {
@@ -106,27 +110,27 @@
  "_checks": {
   "abonar-mcheyne-memoir": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "andrew a. bonar",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
   },
   "abonar-ed-rutherford-letters": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "andrew a. bonar",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
   },
   "abonar-mcheyne-memoir-1844": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "andrew a. bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1844",
    "ia_date": "1844",
@@ -135,9 +139,9 @@
   },
   "abonar-mcheyne-memoir-1878": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "andrew a. bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1878",
    "ia_date": "1878",
@@ -146,10 +150,10 @@
   },
   "abonar-leviticus": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
-   "identity": "ok",
+   "author_seen": null,
+   "identity": "identity_override",
    "ia_rights": "ok: published 1851",
    "ia_date": "1851",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
@@ -157,9 +161,9 @@
   },
   "abonar-psalms": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "andrew a. bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1859",
    "ia_date": "1859",
@@ -168,9 +172,9 @@
   },
   "abonar-mission-to-jews": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "andrew a. bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1843",
    "ia_date": "1843",
@@ -179,10 +183,10 @@
   },
   "abonar-sandeman": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
-   "identity": "ok",
+   "author_seen": null,
+   "identity": "identity_override",
    "ia_rights": "ok: published 1862",
    "ia_date": "1862",
    "ia_possible_copyright_status": null,
@@ -190,9 +194,9 @@
   },
   "abonar-brook-besor": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "andrew a. bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1879",
    "ia_date": "1879",
@@ -201,9 +205,9 @@
   },
   "abonar-victory-over-sin": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "andrew a. bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1860",
    "ia_date": "186-?",
@@ -212,9 +216,9 @@
   },
   "abonar-gospel-person-christ": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "andrew a. bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1888",
    "ia_date": "1888",
@@ -223,9 +227,9 @@
   },
   "abonar-presbyterian-liturgies": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "bonar, andrew",
    "identity": "ok",
    "ia_rights": "ok: published 1858",
    "ia_date": "1858",
@@ -234,9 +238,9 @@
   },
   "abonar-diary-letters": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "andrew a. bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1894",
    "ia_date": "1894",
@@ -245,9 +249,9 @@
   },
   "abonar-reminiscences": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "andrew a. bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1895",
    "ia_date": "1895",
@@ -256,9 +260,9 @@
   },
   "abonar-heavenly-springs": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "andrew a. bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1904",
    "ia_date": "1904",
@@ -267,9 +271,9 @@
   },
   "abonar-ed-rutherford-quaint-sermons": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "andrew a. bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1885",
    "ia_date": "1885",
@@ -278,9 +282,9 @@
   },
   "abonar-ed-rutherford-communion-sermons": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "andrew a. bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1876",
    "ia_date": "1876",
@@ -289,14 +293,22 @@
   },
   "abonar-redemption-drawing-nigh": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "andrew a. bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1847",
    "ia_date": "1847",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "abonar-leviticus": {
+   "author": "title page reads 'THE REV. ANDREW a/bONAR' (OCR of Andrew A. Bonar), Carter 1851; checked by eye 2026-10-03"
+  },
+  "abonar-sandeman": {
+   "author": "title page reads 'BY THE EEV. ANDEEW A. BONAK' (OCR of Andrew A. Bonar), Nisbet 1862; checked by eye 2026-10-03"
   }
  }
 }

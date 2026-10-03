@@ -31,6 +31,12 @@ Perseus's and is licensed separately: the licence stated in the file is
 recorded, else the repository's README statement (CC BY-SA 4.0 for both
 canonical repos). That licence travels with the file in the report, so a
 consumer sees "attribution + share-alike" without opening it.
+A Perseus-made layer is gated the same way: a header saying the text was
+"modernized" (Godley's Herodotus, Smyth's Aeschylus) is refused unless
+`_rights_checked` says why it is kept, and the finding records the phrase.
+Every kept finding carries a `rights` block (license, attribution,
+source_url, share_alike, redistribute_whole: false), the limit the Josephus
+and Philo manifest entries carry, so a consumer sees it without the report.
 Identity, as fetch_shelf.py does it since the 2026-10-02 review (optional
 keys, all backward compatible): `_surname` (the author's names) must appear
 as a whole word in the file's header, or the item's own `_surname_by_slug`
@@ -140,6 +146,16 @@ def _check(data, tail, translator, slug, shelf):
     r["source_years"] = sorted(set(years))
     lic = re.search(r'<licen[cs]e[^>]*target="([^"]+)"', head) or re.search(r"<licen[cs]e[^>]*>(.*?)</licen", head, re.S)
     r["markup_licence_in_file"] = lic.group(1).strip() if lic else None
+    # a Perseus-made layer over the printed translation (Herodotus, Aeschylus:
+    # "modernized ... to remove archaisms"): the witness is no longer the
+    # translation as printed, so a person states it, like a late printing
+    mod = re.search(r"[^.<>]{0,80}moderni[sz]ed[^.<>]{0,80}", re.sub(r"<[^>]+>", " ", head), re.I)
+    if mod:
+        r["modernized"] = re.sub(r"\s+", " ", mod.group(0)).strip()
+        why = shelf.get("_rights_checked", {}).get(slug)
+        if not why:
+            raise RuntimeError("RIGHTS: the header says the text was modernized by Perseus; add _rights_checked to keep")
+        r["rights_override"] = why
     late = [y for y in years if y >= PD_CUTOFF]
     if late:
         why = shelf.get("_rights_checked", {}).get(slug)
@@ -213,8 +229,20 @@ def main():
         record(name, {s: report[s] for s in rows if s in seen})
 
 RECORD_KEYS = ("urn", "repo", "translator_checked", "translator_unchecked", "author_seen",
-               "source_years", "rights_flag", "rights_override", "markup_licence_in_file",
-               "markup_licence_repo", "identity_override", "status", "error")
+               "source_years", "rights_flag", "rights_override", "modernized", "markup_licence_in_file",
+               "markup_licence_repo", "identity_override", "rights", "status", "error")
+
+def rights_block(r):
+    """The redistribution limit, carried with the finding the way the Josephus
+    and Philo manifest entries carry it: the translation is public domain, the
+    TEI markup (and any Perseus modernization) is Perseus's, CC BY-SA 4.0, so
+    the file is attributed, shared alike, and not served whole as a mirror."""
+    return {"license": r.get("markup_licence_in_file") or r.get("markup_licence_repo"),
+            "attribution": "Perseus Digital Library, Tufts University (TEI markup"
+                           + ("; modernized text" if r.get("modernized") else "") + ")",
+            "source_url": r.get("url"),
+            "share_alike": True,
+            "redistribute_whole": False}
 
 def outcome(r):
     """What a row's check came to, from the error's own prefix: a refusal on
@@ -238,7 +266,8 @@ def record(name, found):
     day = time.strftime("%Y-%m-%d")
     shelf["_perseus_checks"] = {
         s: {"checked": day, "identity": outcome(r),
-            **{k: r[k] for k in RECORD_KEYS if k in r and r[k] not in (None, [])}}
+            **{k: r[k] for k in RECORD_KEYS if k in r and r[k] not in (None, [])},
+            **({"rights": rights_block(r)} if r["status"] != "FAILED" else {})}
         for s, r in found.items()}
     open(path + ".tmp", "w", encoding="utf-8").write(json.dumps(shelf, indent=indent, ensure_ascii=False) + "\n")
     os.replace(path + ".tmp", path)

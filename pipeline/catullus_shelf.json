@@ -32,11 +32,16 @@
    "poemscaiusvaler01catugoog",
    "The Poems of Caius Valerius Catullus translated, with a preface and notes, vol. I (London: John Murray, 1821)",
    "tr. George Lamb"
+  ],
+  "catullus-tibullus-kelly-erotica-1854": [
+   "cu31924031218211",
+   "Erotica: the Poems of Catullus and Tibullus, the Vigil of Venus, a literal prose translation with notes, with the metrical versions of Lamb and Grainger and others (Bohn, MDCCCLIV)",
+   "tr. Walter K. Kelly"
   ]
  },
  "_excluded": {
   "pg23720": "To Lesbia: catalogued, serves a 404 page",
-  "George Lamb's Catullus, vol. II (1821)": "no scan found; vol. I held as catullus-lamb-1821-v1"
+  "George Lamb's Catullus, vol. II (1821)": "no scan of the 1821 vol. II found; vol. I held as catullus-lamb-1821-v1. Lamb's metrical Catullus is also printed whole, poem by poem, in Kelly's Bohn Erotica (catullus-tibullus-kelly-erotica-1854)"
  },
  "_surname": [
   "catullus"
@@ -111,10 +116,24 @@
    "ia_date": "1821",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "catullus-tibullus-kelly-erotica-1854": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catullus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_held": {
   "catullus-perseus-burton-carmina": "same translation as catullus-burton-smithers (PG 20732): Burton's verse and Smithers's prose in one volume on this shelf; Perseus TEI urn:cts:latinLit:phi0472.phi001.perseus-eng3 (Carmina, tr. Sir Richard Francis Burton) is not taken as a second witness (moved here on review, 2026-10-02)",
   "catullus-perseus-smithers-carmina": "same translation as catullus-burton-smithers (PG 20732): Burton's verse and Smithers's prose in one volume on this shelf; Perseus TEI urn:cts:latinLit:phi0472.phi001.perseus-eng4 (Carmina, tr. Leonard C. Smithers) is not taken as a second witness (moved here on review, 2026-10-02)"
+ },
+ "_translator_unchecked": {
+  "catullus-tibullus-kelly-erotica-1854": "title page OCRs the name as 'WALTEE K. KELLY' (Bohn, MDCCCLIV); the claim is not matched as written"
  }
 }

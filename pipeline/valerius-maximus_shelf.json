@@ -14,8 +14,8 @@
   ]
  },
  "_surname": [
-  "valerius",
-  "maximus"
+  "valerius maximus",
+  "valerius"
  ],
  "_translators": {},
  "_translator_unchecked": {
@@ -26,7 +26,7 @@
    "kind": "ia",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "valerius",
+   "author_seen": "valerius maximus",
    "identity": "ok",
    "ia_rights": "ok: published 1684",
    "ia_date": "1684",

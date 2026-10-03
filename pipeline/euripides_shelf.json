@@ -1,5 +1,5 @@
 {
- "_about": "Euripides in English, translator per title. Complete in two translators: Arthur S. Way (verse, 1894-98, 3 vols., English only; raw IA OCR) and Edward P. Coleridge (prose, 1891, 2 vols., raw IA OCR). Also T. A. Buckley (prose, Bohn) vol. I clean on Gutenberg, Michael Wodhull's 1782 verse in Morley's Universal Library selection (1888), and Gilbert Murray's verse plays (early 1900s; Gutenberg clears them as US PD; Murray d. 1957, not PD in life+70 countries). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_about": "Euripides in English, translator per title. Complete in two translators: Arthur S. Way (verse, 1894-98, 3 vols., English only; raw IA OCR) and Edward P. Coleridge (prose, 1891, 2 vols., raw IA OCR). Also T. A. Buckley (prose, Bohn) vol. I clean on Gutenberg, Michael Wodhull's 1782 verse in Morley's Universal Library selection (1888), and Gilbert Murray's verse plays (early 1900s; Gutenberg clears them as US PD; Murray d. 1957, not PD in life+70 countries). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report. Added 2026-10-03: Augusta Webster's Medea in literal verse (Macmillan, 1868), raw IA OCR.",
  "_name_words": [
   "euripides",
   "translated",
@@ -116,12 +116,22 @@
    "tragedieseuripi01eurigoog",
    "The Tragedies of Euripides, vol. 2 (prose, Bohn, 1850)",
    "tr. Theodore Alois Buckley"
+  ],
+  "euripides-webster-medea-1868": [
+   "medeaofeuripides00euririch",
+   "The Medea of Euripides, literally translated into English verse (Macmillan, 1868)",
+   "tr. Augusta Webster"
+  ],
+  "euripides-oxford-literal-hecuba-etc": [
+   "hecubaorestespho00euriuoft",
+   "The Hecuba, Orestes, Phoenician Virgins, and Medea of Euripides, literally translated into English prose from the text of Porson, third edition (Oxford: Talboys and Wheeler; undated)",
+   "tr. unnamed (an Oxford literal crib)"
   ]
  },
  "_excluded": {
   "pg35171": "The Trojan Women (Murray): duplicate of PG 10096",
   "pg35173": "The Bacchae (Murray): duplicate of the Bacchae in PG 8418",
-  "Buckley vol. II": "not on Gutenberg; pending (IA dli.ministry.24002 unverified)",
+  "Buckley vol. II": "now held: euripides-buckley-v2",
   "Way, Loeb (1912)": "same translator with the Greek facing; the 1894-98 English-only edition kept"
  },
  "_surname": [
@@ -146,11 +156,13 @@
   "euripides-potter-v1": "R. Potter",
   "euripides-potter-v2": "R. Potter",
   "euripides-potter-v3": "R. Potter",
-  "euripides-buckley-v2": "Theodore Alois Buckley"
+  "euripides-buckley-v2": "Theodore Alois Buckley",
+  "euripides-webster-medea-1868": "Augusta Webster"
  },
  "_translator_unchecked": {
   "euripides-wodhull-v3": "translator on the row (Michael Wodhull) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
-  "euripides-wodhull-v4": "translator on the row (Michael Wodhull) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+  "euripides-wodhull-v4": "translator on the row (Michael Wodhull) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "euripides-oxford-literal-hecuba-etc": "the title page names no translator; the printing is undated (the catalogue gives [182-?], and Talboys and Wheeler were the Oxford publishers of the 1820s)"
  },
  "_checks": {
   "euripides-buckley-v1": {
@@ -412,9 +424,36 @@
    "ia_date": "1850",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "euripides-webster-medea-1868": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "euripides",
+   "translator_claimed": "Augusta Webster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "euripides-oxford-literal-hecuba-etc": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "euripides",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "[182-?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_held": {
   "euripides-perseus-murray-rhesus": "same translation as euripides-murray-rhesus (PG 35170) on this shelf; Perseus TEI urn:cts:greekLit:tlg0006.tlg019.perseus-eng4 (Rhesus, tr. Gilbert Murray) is not taken as a second witness (moved here on review, 2026-10-02)"
+ },
+ "_cross_ref": {
+  "euripides-milman-bacchae-1865": "aeschylus shelf: aeschylus-milman-agamemnon-1865 (Milman's Agamemnon and Bacchanals, Murray 1865) holds Milman's Bacchae; not refetched here"
  }
 }

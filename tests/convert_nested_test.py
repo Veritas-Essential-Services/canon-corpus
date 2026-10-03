@@ -66,5 +66,34 @@ u = convert("[Illustration:\n\n  The Story of Pinky.\n]\n\nA cat.\n\n[Illustrati
 refs = [x["ref"] for x in u]
 check("caption heading", refs == ["The Story of Pinky, par. 1", "The Story of Pinky, par. 2"], refs)
 
+# 5. number_repeats: a second tale under the same title is "(2)", not a run-on or a ~2;
+#    a name the Contents used before the start is not counted.
+u = convert("CONTENTS\n\nTHE DEAD.\n\nTHE BEAR.\n\nBODY\n\nTHE DEAD.\n\nOne.\n\nTHE DEAD.\n\nTwo.\n\nTHE BEAR.\n\nThree.\n\nTHE DEAD.\n\nFour.",
+            [{"re": "(?:CONTENTS|THE [A-Z]+\\.)$", "number_repeats": True}], start="BODY$")
+refs = [x["ref"] for x in u if x["ref"].startswith("THE")]
+check("number_repeats numbers a repeated title",
+      refs == ["THE DEAD, par. 1", "THE DEAD (2), par. 1", "THE BEAR, par. 1", "THE DEAD (3), par. 1"], refs)
+check("number_repeats ids unique", len({x["id"] for x in u}) == len(u), [x["id"] for x in u])
+u = convert("A\n\nTHE DEAD.\n\nOne.\n\nB\n\nTHE DEAD.\n\nTwo.",
+            [{"re": "[AB]$"}, {"re": "THE DEAD\\.$", "number_repeats": True}])
+check("number_repeats counts within the parent only",
+      [x["ref"] for x in u] == ["A / THE DEAD, par. 1", "B / THE DEAD, par. 1"], [x["ref"] for x in u])
+
+u = convert("THE DEAD.\n\nTHE BEAR.\n\nTHE DEAD.\n\nOne.\n\nTHE DEAD.\n\nTwo.",
+            [{"re": "THE [A-Z]+\\.$", "number_repeats": True}])
+check("number_repeats: a Contents with no start uses up no number",
+      [x["ref"] for x in u] == ["THE DEAD, par. 1", "THE DEAD (2), par. 1"], [x["ref"] for x in u])
+u = convert("CONTENTS\n\nTHE DEAD.\n\nTHE DEAD.\n\nTHE BEAR.\n\nTHE DEAD.\n\nOne.\n\nTHE DEAD.\n\nTwo.",
+            [{"re": "THE [A-Z]+\\.$", "number_repeats": True}], start="THE DEAD\\.$")
+check("number_repeats: a start that matches a Contents line numbers nothing too high",
+      [x["ref"] for x in u if x["ref"].startswith("THE")] == ["THE DEAD, par. 1", "THE DEAD (2), par. 1"], [x["ref"] for x in u])
+
+# 6. repeat_continues: a heading reprinted mid-section is ignored and the count runs on;
+#    the same name after another heading is a new section.
+u = convert("ADAM\n\nOne.\n\nADAM\n\nTwo.\n\nEVE\n\nThree.\n\nADAM\n\nFour.",
+            [{"re": "[A-Z]+$", "repeat_continues": True}])
+check("repeat_continues runs on through a reprinted heading",
+      [x["ref"] for x in u] == ["ADAM, par. 1", "ADAM, par. 2", "EVE, par. 1", "ADAM, par. 1"], [x["ref"] for x in u])
+
 print(f"{passed} passed, {failed} failed")
 sys.exit(1 if failed else 0)

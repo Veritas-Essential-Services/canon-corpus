@@ -4,7 +4,11 @@
   "perkins"
  ],
  "_surname": [
-  "perkins"
+  "william perkins",
+  "w. perkins",
+  "m. perkins",
+  "master perkins",
+  "m. w. perkins"
  ],
  "_held": {},
  "ccel": {},
@@ -35,9 +39,9 @@
  "_checks": {
   "perkins-workes-1616-1": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "perkins",
+   "author_seen": "william perkins",
    "identity": "ok",
    "ia_rights": "ok: published 1616",
    "ia_date": "1616",
@@ -46,9 +50,9 @@
   },
   "perkins-workes-1617-2": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "perkins",
+   "author_seen": "william perkins",
    "identity": "ok",
    "ia_rights": "ok: published 1617",
    "ia_date": "1617",
@@ -57,9 +61,9 @@
   },
   "perkins-workes-1618-3": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "perkins",
+   "author_seen": "william perkins",
    "identity": "ok",
    "ia_rights": "ok: published 1618",
    "ia_date": "1618",

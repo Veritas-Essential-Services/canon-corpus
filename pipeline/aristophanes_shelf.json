@@ -1,5 +1,5 @@
 {
- "_about": "Aristophanes in English, translator per title. Complete: The Eleven Comedies, 'now for the first time literally and completely translated' (anonymous, The Athenian Society, 1912), 2 vols. Single plays: W. J. Hickie's prose Clouds (Bohn), B. B. Rogers's verse Frogs, Jack Lindsay's Lysistrata (1926; Gutenberg treats it as US public domain; Lindsay d. 1990, so not PD in life+70 countries). PG 3012, 2571 and 3013 were checked by 8-word shingle overlap (0.85-0.87) and are the Athenian Society translation split out, so they are excluded as duplicates.",
+ "_about": "Aristophanes in English, translator per title. Complete: The Eleven Comedies, 'now for the first time literally and completely translated' (anonymous, The Athenian Society, 1912), 2 vols. Single plays: W. J. Hickie's prose Clouds (Bohn), B. B. Rogers's verse Frogs, Jack Lindsay's Lysistrata (1926; Gutenberg treats it as US public domain; Lindsay d. 1990, so not PD in life+70 countries). PG 3012, 2571 and 3013 were checked by 8-word shingle overlap (0.85-0.87) and are the Athenian Society translation split out, so they are excluded as duplicates. Added 2026-10-03, raw IA OCR: B. D. Walsh's Acharnians, Knights and Clouds (Bohn, 1848); the 1812 Valpy Comedies (Clouds, Plutus, Frogs, Birds; the volume names Cumberland and Dunster, the rest unnamed); an anonymous Oxford literal Plutus and Frogs (Talboys, 1822); and the Acharnians in verse by C. J. Billson (1882) and R. Y. Tyrrell (1883).",
  "_name_words": [
   "aristophanes",
   "comedies",
@@ -49,6 +49,41 @@
    "comediesaristop00mitcgoog",
    "The Comedies of Aristophanes, vol. II: The Clouds, The Wasps (London: John Murray, 1822)",
    "tr. Thomas Mitchell"
+  ],
+  "aristophanes-wheelwright-1837-v1": [
+   "comediesaristop01arisgoog",
+   "The Comedies of Aristophanes, translated into familiar blank verse, vol. I (Oxford: D. A. Talboys; IA records 1837)",
+   "tr. C. A. Wheelwright"
+  ],
+  "aristophanes-wheelwright-1837-v2": [
+   "comediesofaristo02aris",
+   "The Comedies of Aristophanes, translated into familiar blank verse, vol. II (Oxford: D. A. Talboys; IA records 1837)",
+   "tr. C. A. Wheelwright"
+  ],
+  "aristophanes-walsh-1848": [
+   "acharniansknight00aris",
+   "The Acharnians, Knights, and Clouds, translated into corresponding English metres (Bohn, 1848)",
+   "tr. Benjamin Dann Walsh"
+  ],
+  "aristophanes-valpy-1812": [
+   "comediesofaristo00aris",
+   "Comedies of Aristophanes: the Clouds, Plutus, the Frogs, the Birds, translated into English, with notes (Valpy for Lackington, Allen, 1812)",
+   "tr. Richard Cumberland and others (the volume names Cumberland and Dunster)"
+  ],
+  "aristophanes-talboys-plutus-frogs-1822": [
+   "comediesplutusa00arisgoog",
+   "The Comedies of Plutus and the Frogs, literally translated into English prose (Oxford: Talboys, 1822)",
+   "tr. unnamed (an Oxford literal crib)"
+  ],
+  "aristophanes-billson-acharnians-1882": [
+   "acharniansofaris00arisrich",
+   "The Acharnians of Aristophanes, translated into English verse (Kegan Paul, Trench, 1882)",
+   "tr. Charles James Billson"
+  ],
+  "aristophanes-tyrrell-acharnians-1883": [
+   "aristophanesach00arisrich",
+   "The Acharnians of Aristophanes, translated into English verse (Dublin University Press Series, 1883)",
+   "tr. Robert Yelverton Tyrrell"
   ]
  },
  "_excluded": {
@@ -57,7 +92,7 @@
   "pg3013": "The Birds: the Athenian Society translation (0.85 with PG 8689)",
   "B. B. Rogers's complete Aristophanes (Bell, 1902-16)": "PD verse with the Greek facing; pending (IA)",
   "J. Hookham Frere (1840)": "three of the four plays held (Acharnians, Knights, Birds: aristophanes-frere-morley, Morley 1887); the Frogs is not in that volume and is pending",
-  "Hickie's Bohn vol. II (Lysistrata, Thesmophoriazusae, Frogs, Ecclesiazusae, Plutus)": "PD; the only scans found (in.ernet.dli.2015.515630, .515629) have no text file on IA (404). Wanted to complete aristophanes-hickie-1887-v1",
+  "Hickie's Bohn vol. II (Lysistrata, Thesmophoriazusae, Frogs, Ecclesiazusae, Plutus)": "PD; the DLI scans (in.ernet.dli.2015.515630 vol. 2, .515629 vol. 1) do have text files, under the name 2015.515630.The-Comedies_djvu.txt, but vol. 2's text layer is OCR'd as Devanagari (clean-word ratio 0.000), so it is refused. Wanted from a readable scan to complete aristophanes-hickie-1887-v1",
   "Mitchell vol. I (1820: Acharnians, Knights)": "no scan found on IA; vol. II held as aristophanes-mitchell-1822-v2"
  },
  "_surname": [
@@ -69,11 +104,18 @@
   "aristophanes-lindsay-lysistrata": "Jack Lindsay",
   "aristophanes-frere-morley": "John Hookham Frere",
   "aristophanes-hickie-1887-v1": "William James Hickie",
-  "aristophanes-mitchell-1822-v2": "T. Mitchell"
+  "aristophanes-mitchell-1822-v2": "T. Mitchell",
+  "aristophanes-wheelwright-1837-v1": "C. A. Wheelwright",
+  "aristophanes-wheelwright-1837-v2": "C. A. Wheelwright",
+  "aristophanes-walsh-1848": "Benjamin Dann Walsh",
+  "aristophanes-valpy-1812": "Cumberland",
+  "aristophanes-billson-acharnians-1882": "Charles James Billson",
+  "aristophanes-tyrrell-acharnians-1883": "Robert Yelverton Tyrrell"
  },
  "_translator_unchecked": {
   "aristophanes-athenian-v1": "no single translator to check: anonymous (The Athenian Society, 1912)",
-  "aristophanes-athenian-v2": "no single translator to check: anonymous (The Athenian Society, 1912)"
+  "aristophanes-athenian-v2": "no single translator to check: anonymous (The Athenian Society, 1912)",
+  "aristophanes-talboys-plutus-frogs-1822": "the title page names no translator: an anonymous Oxford literal prose version"
  },
  "_checks": {
   "aristophanes-athenian-v1": {
@@ -165,6 +207,95 @@
    "identity": "ok",
    "ia_rights": "ok: published 1822",
    "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristophanes-wheelwright-1837-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "C. A. Wheelwright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristophanes-wheelwright-1837-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "C. A. Wheelwright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristophanes-walsh-1848": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "Benjamin Dann Walsh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aristophanes-valpy-1812": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "Cumberland",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "aristophanes-talboys-plutus-frogs-1822": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristophanes-billson-acharnians-1882": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "Charles James Billson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristophanes-tyrrell-acharnians-1883": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristophanes",
+   "translator_claimed": "Robert Yelverton Tyrrell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

@@ -63,7 +63,7 @@
   "dryden-polybius-lucian": "Dryden shelf, lane C (Dryden's Life of Lucian)"
  },
  "_excluded": {
-  "A. M. Harmon, Loeb (1913-)": "early vols. US PD by date, Greek facing; on Perseus; pending"
+  "A. M. Harmon, Loeb (1913-)": "held in part from Perseus: 41 texts (lucian-perseus-harmon-*). early vols. US PD by date, Greek facing; on Perseus; pending"
  },
  "perseus": {
   "lucian-perseus-harmon-the-ignorant-book-collector": [
@@ -572,7 +572,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg028/tlg0062.tlg028.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-alexander-the-false-prophet": {
    "checked": "2026-10-03",
@@ -586,7 +593,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg038/tlg0062.tlg038.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-anacharsis-or-athletics": {
    "checked": "2026-10-03",
@@ -600,7 +614,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg034/tlg0062.tlg034.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-dionysus-an-introduction": {
    "checked": "2026-10-03",
@@ -614,7 +635,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg003/tlg0062.tlg003.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-the-double-indictment": {
    "checked": "2026-10-03",
@@ -628,7 +656,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg026/tlg0062.tlg026.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-slander-on-not-being-quick-to-put-faith": {
    "checked": "2026-10-03",
@@ -641,7 +676,14 @@
    "rights_override": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm",
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg013/tlg0062.tlg013.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-the-downward-journey-or-the-tyrant": {
    "checked": "2026-10-03",
@@ -655,7 +697,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg016/tlg0062.tlg016.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-smith-the-ferry": {
    "checked": "2026-10-03",
@@ -669,7 +718,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg016/tlg0062.tlg016.perseus-eng5.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-charon-or-the-inspectors": {
    "checked": "2026-10-03",
@@ -683,7 +739,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg023/tlg0062.tlg023.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-the-hall": {
    "checked": "2026-10-03",
@@ -697,7 +760,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg009/tlg0062.tlg009.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-on-sacrifices": {
    "checked": "2026-10-03",
@@ -711,7 +781,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg027/tlg0062.tlg027.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-the-goddesse-of-surrye": {
    "checked": "2026-10-03",
@@ -725,7 +802,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg041/tlg0062.tlg041.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-on-funerals": {
    "checked": "2026-10-03",
@@ -739,7 +823,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg036/tlg0062.tlg036.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-on-salaried-posts-in-great-houses": {
    "checked": "2026-10-03",
@@ -753,7 +844,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg033/tlg0062.tlg033.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-the-parasite-tychiades": {
    "checked": "2026-10-03",
@@ -767,7 +865,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg030/tlg0062.tlg030.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-the-judgement-of-the-goddesses": {
    "checked": "2026-10-03",
@@ -781,7 +886,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg032/tlg0062.tlg032.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-demonax": {
    "checked": "2026-10-03",
@@ -795,7 +907,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg008/tlg0062.tlg008.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-amber-or-the-swan": {
    "checked": "2026-10-03",
@@ -809,7 +928,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg005/tlg0062.tlg005.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-the-dream-or-the-cock": {
    "checked": "2026-10-03",
@@ -823,7 +949,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg019/tlg0062.tlg019.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-smith-the-cock": {
    "checked": "2026-10-03",
@@ -837,7 +970,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg019/tlg0062.tlg019.perseus-eng5.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-heracles-an-introduction": {
    "checked": "2026-10-03",
@@ -851,7 +991,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg004/tlg0062.tlg004.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-hippias-or-the-bath": {
    "checked": "2026-10-03",
@@ -865,7 +1012,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg002/tlg0062.tlg002.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-icaromenippus-or-the-sky-man": {
    "checked": "2026-10-03",
@@ -879,7 +1033,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg021/tlg0062.tlg021.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-essays-in-portraiture": {
    "checked": "2026-10-03",
@@ -893,7 +1054,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg039/tlg0062.tlg039.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-the-consonants-at-law-sigma-vs-tau-in-th": {
    "checked": "2026-10-03",
@@ -906,7 +1074,14 @@
    "rights_override": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm",
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg014/tlg0062.tlg014.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-zeus-catechized": {
    "checked": "2026-10-03",
@@ -920,7 +1095,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg017/tlg0062.tlg017.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-zeus-rants": {
    "checked": "2026-10-03",
@@ -934,7 +1116,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg018/tlg0062.tlg018.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-smith-zeus-the-tragedian": {
    "checked": "2026-10-03",
@@ -948,7 +1137,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg018/tlg0062.tlg018.perseus-eng5.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-octogenerians": {
    "checked": "2026-10-03",
@@ -962,7 +1158,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg011/tlg0062.tlg011.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-the-fly": {
    "checked": "2026-10-03",
@@ -976,7 +1179,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg006/tlg0062.tlg006.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-menippus-or-the-descent-into-hades": {
    "checked": "2026-10-03",
@@ -990,7 +1200,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg035/tlg0062.tlg035.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-nigrinus": {
    "checked": "2026-10-03",
@@ -1004,7 +1221,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg007/tlg0062.tlg007.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-my-native-land": {
    "checked": "2026-10-03",
@@ -1018,7 +1242,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg010/tlg0062.tlg010.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-phalaris": {
    "checked": "2026-10-03",
@@ -1032,7 +1263,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg001/tlg0062.tlg001.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-the-lover-of-lies-or-the-doubter-tychiad": {
    "checked": "2026-10-03",
@@ -1046,7 +1284,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg031/tlg0062.tlg031.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-the-dead-come-to-life-or-the-fisherman": {
    "checked": "2026-10-03",
@@ -1060,7 +1305,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg025/tlg0062.tlg025.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-essays-in-portraiture-defended": {
    "checked": "2026-10-03",
@@ -1074,7 +1326,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg040/tlg0062.tlg040.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-prometheus": {
    "checked": "2026-10-03",
@@ -1088,7 +1347,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg020/tlg0062.tlg020.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-a-professor-of-public-speaking": {
    "checked": "2026-10-03",
@@ -1102,7 +1368,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg037/tlg0062.tlg037.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-the-dream-or-lucian-s-career": {
    "checked": "2026-10-03",
@@ -1116,7 +1389,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg029/tlg0062.tlg029.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-smith-the-dream": {
    "checked": "2026-10-03",
@@ -1130,7 +1410,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg029/tlg0062.tlg029.perseus-eng5.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-the-carousal-or-the-lapiths": {
    "checked": "2026-10-03",
@@ -1143,7 +1430,14 @@
    "rights_override": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm",
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg015/tlg0062.tlg015.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-timon-or-the-misanthrope": {
    "checked": "2026-10-03",
@@ -1157,7 +1451,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg022/tlg0062.tlg022.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-smith-toxaris-or-friendship": {
    "checked": "2026-10-03",
@@ -1171,7 +1472,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg044/tlg0062.tlg044.perseus-eng5.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-a-true-story": {
    "checked": "2026-10-03",
@@ -1185,7 +1493,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg012/tlg0062.tlg012.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-smith-a-true-history": {
    "checked": "2026-10-03",
@@ -1199,7 +1514,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg012/tlg0062.tlg012.perseus-eng5.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-harmon-philosophies-for-sale": {
    "checked": "2026-10-03",
@@ -1213,7 +1535,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg024/tlg0062.tlg024.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-smith-the-sale-of-lives": {
    "checked": "2026-10-03",
@@ -1227,7 +1556,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg024/tlg0062.tlg024.perseus-eng5.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-smith-loukios-or-the-ass": {
    "checked": "2026-10-03",
@@ -1241,7 +1577,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0061/tlg001/tlg0061.tlg001.perseus-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "lucian-perseus-smith-the-halcyon": {
    "checked": "2026-10-03",
@@ -1255,7 +1598,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0061/tlg004/tlg0061.tlg004.perseus-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   }
  },
  "_held": {

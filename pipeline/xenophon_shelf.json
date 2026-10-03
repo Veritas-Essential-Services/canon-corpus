@@ -116,7 +116,7 @@
  },
  "_excluded": {
   "pg29459": "an index page",
-  "pg17490": "The Memorable Thoughts of Socrates (Bysshe, 1712): PD, other translator; pending as an alternate witness",
+  "pg17490": "now held: xenophon-bysshe-memorabilia (PG 17490)",
   "pg22003": "Anabasis I-IV (Watson): partial; Watson's complete Anabasis is held (xenophon-watson-anabasis-memorabilia), so not wanted"
  },
  "_surname": [
@@ -153,7 +153,8 @@
   "xenophon-perseus-marchant-ways-and-means": "Edgar Carew Marchant",
   "xenophon-perseus-marchant-on-the-cavalry-commander": "Edgar Carew Marchant",
   "xenophon-perseus-marchant-on-the-art-of-horsemanship": "Edgar Carew Marchant",
-  "xenophon-perseus-marchant-on-hunting": "Edgar Carew Marchant"
+  "xenophon-perseus-marchant-on-hunting": "Edgar Carew Marchant",
+  "xenophon-perseus-miller-cyropaedia": "Walter Miller"
  },
  "_checks": {
   "xenophon-anabasis": {
@@ -480,6 +481,12 @@
    "On Hunting",
    "Edgar Carew Marchant",
    "Translation published 1925: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vol. 7, Edgar Carew Marchant. Cambridge, MA: Harvard University Press; London: William Heinemann, 1925."
+  ],
+  "xenophon-perseus-miller-cyropaedia": [
+   "tlg0032.tlg007.perseus-eng2",
+   "Cyropaedia",
+   "Walter Miller",
+   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Xenophon in Seven Volumes, vols. 5-6, tr. Walter Miller. Cambridge, MA: Harvard University Press; London: William Heinemann, 1914 (Loeb Classical Library). (The census CSV's '1949' is Miller's death year, not a printing.)"
   ]
  },
  "_perseus_checks": {
@@ -495,7 +502,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg002/tlg0032.tlg002.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "xenophon-perseus-marchant-economics": {
    "checked": "2026-10-03",
@@ -509,7 +523,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg003/tlg0032.tlg003.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "xenophon-perseus-todd-banquet": {
    "checked": "2026-10-03",
@@ -523,7 +544,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg004/tlg0032.tlg004.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "xenophon-perseus-todd-apology": {
    "checked": "2026-10-03",
@@ -537,7 +565,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg005/tlg0032.tlg005.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "xenophon-perseus-marchant-hiero": {
    "checked": "2026-10-03",
@@ -551,7 +586,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg008/tlg0032.tlg008.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "xenophon-perseus-marchant-agesilaus": {
    "checked": "2026-10-03",
@@ -565,7 +607,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg009/tlg0032.tlg009.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "xenophon-perseus-marchant-constitution-of-the-lacedaemonians": {
    "checked": "2026-10-03",
@@ -579,7 +628,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg010/tlg0032.tlg010.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "xenophon-perseus-marchant-ways-and-means": {
    "checked": "2026-10-03",
@@ -593,7 +649,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg011/tlg0032.tlg011.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "xenophon-perseus-marchant-on-the-cavalry-commander": {
    "checked": "2026-10-03",
@@ -607,7 +670,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg012/tlg0032.tlg012.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "xenophon-perseus-marchant-on-the-art-of-horsemanship": {
    "checked": "2026-10-03",
@@ -621,7 +691,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg013/tlg0032.tlg013.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "xenophon-perseus-marchant-on-hunting": {
    "checked": "2026-10-03",
@@ -635,7 +712,35 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg014/tlg0032.tlg014.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "xenophon-perseus-miller-cyropaedia": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0032.tlg007.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Walter Miller",
+   "author_seen": "xenophon",
+   "source_years": [
+    1914
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0032/tlg007/tlg0032.tlg007.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   }
  },
  "_translator_unchecked": {

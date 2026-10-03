@@ -1,10 +1,11 @@
 {
- "_about": "Two Greek technical works in clean Gutenberg: The Pneumatics of Hero of Alexandria, tr. J. G. Greenwood, ed. Bennet Woodcroft (1851); and Ptolemy's Tetrabiblos, tr. J. M. Ashmand (1822), from Proclus's paraphrase.",
+ "_about": "Two Greek technical works in clean Gutenberg: The Pneumatics of Hero of Alexandria, tr. J. G. Greenwood, ed. Bennet Woodcroft (1851); and Ptolemy's Tetrabiblos, tr. J. M. Ashmand (1822), from Proclus's paraphrase. Also Nicomachus of Gerasa, Introduction to Arithmetic, tr. Martin Luther D'Ooge (Macmillan, 1926; US public domain by date), raw IA OCR from an uploader's copy of the Google scan.",
  "_name_words": [
   "hero",
   "pneumatics",
   "ptolemy",
-  "tetrabiblos"
+  "tetrabiblos",
+  "nicomachus"
  ],
  "ccel": {},
  "gutenberg": {
@@ -19,18 +20,27 @@
    "tr. J. M. Ashmand"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "nicomachus-dooge-arithmetic-1926": [
+   "nicomachus-introduction-to-arithmetic",
+   "Nicomachus of Gerasa, Introduction to Arithmetic, translated into English, with studies in Greek arithmetic by Frank Egleston Robbins and Louis Charles Karpinski (University of Michigan Studies, Humanistic Series XVI; Macmillan, 1926)",
+   "Nicomachus - Introduction to Arithmetic_djvu.txt",
+   "tr. Martin Luther D'Ooge"
+  ]
+ },
  "_surname": [
   "hero",
   "heron",
   "ptolemy",
   "ptolemaeus",
   "aristarchus",
-  "euclid"
+  "euclid",
+  "nicomachus"
  ],
  "_translators": {
   "hero-pneumatics-greenwood": "Joseph George Greenwood",
-  "ptolemy-tetrabiblos-ashmand": "J. M. Ashmand"
+  "ptolemy-tetrabiblos-ashmand": "J. M. Ashmand",
+  "nicomachus-dooge-arithmetic-1926": "Martin Luther D'Ooge"
  },
  "_checks": {
   "hero-pneumatics-greenwood": {
@@ -56,6 +66,20 @@
    "pg_copyrighted": false,
    "pg_translator": "J. M. Ashmand",
    "translator_match": true
+  },
+  "nicomachus-dooge-arithmetic-1926": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "nicomachus",
+   "translator_claimed": "Martin Luther D'Ooge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read: The Macmillan Company, New York; Macmillan and Company, London, 1926 (University of Michigan Studies, Humanistic Series XVI), with a copyright line. IA's record carries no date. Published in 1926, so US public domain since 2022-01-01 (95 years from publication). Not public domain everywhere outside the US"
   }
  },
  "_surname_by_slug": {
@@ -66,6 +90,13 @@
   "ptolemy-tetrabiblos-ashmand": [
    "ptolemy",
    "ptolemaeus"
+  ],
+  "nicomachus-dooge-arithmetic-1926": [
+   "nicomachus"
   ]
+ },
+ "_translator_unchecked": {},
+ "_rights_checked": {
+  "nicomachus-dooge-arithmetic-1926": "Title page read: The Macmillan Company, New York; Macmillan and Company, London, 1926 (University of Michigan Studies, Humanistic Series XVI), with a copyright line. IA's record carries no date. Published in 1926, so US public domain since 2022-01-01 (95 years from publication). Not public domain everywhere outside the US"
  }
 }

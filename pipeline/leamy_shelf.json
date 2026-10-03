@@ -1,0 +1,49 @@
+{
+ "_about": "Edmund Leamy's Irish Fairy Tales (Dublin, 1906). The Golden Spears and Other Fairy Tales (copyright 1911) reprints the same tales and is held once. His By the Barrow River (adult stories) is not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Edmund Leamy",
+ "_name_words": [
+  "leamy"
+ ],
+ "_surname": [
+  "edmund leamy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "leamy-irish-fairy-tales": [
+   29311,
+   "Irish Fairy Tales",
+   {
+    "levels": [
+     {
+      "re": "NOTES\\.?$"
+     },
+     {
+      "re": "(?!J\\. E\\. REDMOND|T\\. P\\. G\\.|FAIRY TALES\\.$|DUBLIN)[A-Z][^a-z]+$",
+      "strip": "\\.?\\[\\d+\\]|\\.$"
+     },
+     {
+      "re": "_[^_]+_$",
+      "strip": "^_|\\.?_$"
+     }
+    ],
+    "start": "PREFACE\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "leamy-golden-spears": "PG 22168, The Golden Spears and Other Fairy Tales (copyright 1911): checked 2026-10-03, 455 of its 510 long paragraphs (89%) are in Irish Fairy Tales (PG 29311, Dublin 1906), the same seven tales; held once"
+ },
+ "_checks": {
+  "leamy-irish-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edmund leamy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

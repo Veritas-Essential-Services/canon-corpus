@@ -1,5 +1,5 @@
 {
- "_about": "Lucan in English: Sir Edward Ridley's blank-verse Pharsalia (1896). Gutenberg's PG 602 names no translator; collated against Ridley's 1905 printing (IA pharsaliatransla00lucauoft) by 6-word shingle overlap, 0.75 against noisy OCR, so identified as Ridley. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row).",
+ "_about": "Lucan in English: Sir Edward Ridley's blank-verse Pharsalia (1896). Gutenberg's PG 602 names no translator; collated against Ridley's 1905 printing (IA pharsaliatransla00lucauoft) by 6-word shingle overlap, 0.75 against noisy OCR, so identified as Ridley. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Added 2026-10-03: H. T. Riley's literal prose Pharsalia (Bohn, 1853), raw IA OCR.",
  "_name_words": [
   "lucan",
   "pharsalia",
@@ -28,6 +28,21 @@
    "bub_gb_GEsNZ2BDG1QC",
    "Lucan's Pharsalia, vol. 2 (1812; with Vida's Art of Poetry)",
    "tr. Nicholas Rowe"
+  ],
+  "lucan-ridley-1896": [
+   "cu31924026485809",
+   "The Pharsalia of Lucan, translated into blank verse (Longmans, 1896)",
+   "tr. Edward Ridley"
+  ],
+  "lucan-ridley-1905": [
+   "pharsaliatransla00lucauoft",
+   "The Pharsalia of Lucan, translated into blank verse, second edition, revised and corrected (Longmans, 1905)",
+   "tr. Edward Ridley"
+  ],
+  "lucan-riley-1853": [
+   "pharsaliaoflucan00lucaiala",
+   "The Pharsalia of Lucan, literally translated into English prose (Bohn, 1853)",
+   "tr. H. T. Riley"
   ]
  },
  "_excluded": {
@@ -41,10 +56,13 @@
  "_translators": {
   "lucan-duff": "J. D. Duff",
   "lucan-rowe-v1": "Nicholas Rowe",
-  "lucan-rowe-v2": "Nicholas Rowe"
+  "lucan-rowe-v2": "Nicholas Rowe",
+  "lucan-ridley-1905": "Edward Ridley",
+  "lucan-riley-1853": "H. T. Riley"
  },
  "_translator_unchecked": {
-  "lucan-ridley-pharsalia": "translator on the row (Sir Edward Ridley (blank verse, 1896); PG names no translator, identified by col) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+  "lucan-ridley-pharsalia": "translator on the row (Sir Edward Ridley (blank verse, 1896); PG names no translator, identified by col) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "lucan-ridley-1896": "title page OCRs the name as 'EDWAED EIDLEY, Q.C.' (Longmans, 1896), and the name appears nowhere else in the text layer; the claim is not matched as written"
  },
  "_checks": {
   "lucan-ridley-pharsalia": {
@@ -93,6 +111,43 @@
    "ia_rights": "ok: published 1812",
    "ia_date": "1812",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lucan-ridley-1896": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lucan-ridley-1905": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucan",
+   "translator_claimed": "Edward Ridley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lucan-riley-1853": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lucan",
+   "translator_claimed": "H. T. Riley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }

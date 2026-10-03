@@ -93,6 +93,8 @@ COMMON_WORD_SURNAMES = frozenset("""
     hill hood hooker hope hunt james jay jewel ken king lamb lane law love
     mason more page palmer pope price prior rich rose skinner smith swift
     taylor ward wells white wood young
+    barker clay hale herbert lang morris newman porter sidney swan waters way
+    trench
 """.split())
 
 def _usable(surnames):
@@ -110,6 +112,29 @@ def check_surnames(shelf):
             bad.append(f"{where} {names}: every form is a bare common English word; "
                        f"add a multi-word form such as \"joseph hall\" or \"bishop hall\"")
     return bad
+
+def shared_name_forms(name, shelf, here=None):
+    """Name forms this shelf matches on that another shelf also claims (lane A,
+    2026-10-03, after review). Father and son, or two men of one name, cannot
+    be told apart by such a form: "hodge" passes Charles Hodge's text on
+    A. A. Hodge's shelf and back again. Printed as a NOTE at load, never a
+    stop, so no existing shelf breaks; the fix is a distinguishing form."""
+    here = here or HERE
+    mine = {n.lower() for v in [shelf.get("_surname")] + list(shelf.get("_surname_by_slug", {}).values())
+            for n in _usable(v)}
+    shared = {}
+    for f in sorted(os.listdir(here)):
+        if not f.endswith("_shelf.json") or f == f"{name}_shelf.json":
+            continue
+        try:
+            other = json.load(open(os.path.join(here, f), encoding="utf-8"))
+        except (OSError, ValueError):
+            continue
+        theirs = {n.lower() for v in [other.get("_surname")] + list(other.get("_surname_by_slug", {}).values())
+                  for n in _usable(v)}
+        for n in sorted(mine & theirs):
+            shared.setdefault(n, []).append(f[:-len("_shelf.json")])
+    return shared
 
 def check_identity(r, data, key, names, kind, override=None, surname=None, ident=None,
                    translator=None):
@@ -335,8 +360,9 @@ def jobs_for(shelf, name):
     for slug, row in shelf.get("internet_archive", {}).items():
         ident = row[0]
         # optional third element: the item's text file when IA did not name it
-        # <id>_djvu.txt (some uploads keep the uploader's file name)
-        fname = row[2] if len(row) > 2 and str(row[2]).endswith("_djvu.txt") else f"{ident}_djvu.txt"
+        # <id>_djvu.txt (some uploads keep the uploader's file name; some
+        # Toronto items offer only a plain <id>.txt, 2026-10-03)
+        fname = row[2] if len(row) > 2 and str(row[2]).endswith(".txt") else f"{ident}_djvu.txt"
         url = f"https://archive.org/download/{ident}/" + urllib.parse.quote(fname)
         jobs.append((slug, row[1], url, ".txt", "ia"))
     return jobs
@@ -353,6 +379,8 @@ def main():
     bad = check_surnames(shelf)
     if bad:
         sys.exit(f"{name}_shelf.json: " + "; ".join(bad))
+    for form, others in shared_name_forms(name, shelf).items():
+        print(f"NOTE: name form {form!r} is also claimed by {', '.join(others)}: it cannot tell their texts apart")
     out = os.path.join(ROOT, "data", "corpus", name)
     os.makedirs(out, exist_ok=True)
     skip = set(w.lower() for w in shelf.get("_name_words", [])) | {"works", "volume", "vol"}

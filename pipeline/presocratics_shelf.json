@@ -1,0 +1,64 @@
+{
+ "_about": "The early Greek philosophers in English, one translator per row: G. T. W. Patrick's Heraclitus (1889) and W. E. Leonard's verse Empedocles (1908). Raw IA OCR.",
+ "_name_words": [
+  "heraclitus",
+  "empedocles",
+  "presocratic",
+  "ephesus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "heraclitus-patrick-1889": [
+   "fragmentsofworko00hera",
+   "The Fragments of the Work of Heraclitus of Ephesus on Nature, translated from the Greek text of Bywater (Baltimore: N. Murray, 1889)",
+   "tr. G. T. W. Patrick"
+  ],
+  "empedocles-leonard-1908": [
+   "thefragmentsofem00empeuoft",
+   "The Fragments of Empedocles, translated into English verse (Open Court, 1908)",
+   "tr. William Ellery Leonard"
+  ]
+ },
+ "_surname": [
+  "heraclitus",
+  "empedocles"
+ ],
+ "_surname_by_slug": {},
+ "_excluded": {
+  "Arthur Fairbanks, The First Philosophers of Greece (1898)": "refused: Greek facing, OCR 0.77 and 0.73 on the two scans tried",
+  "John Burnet, Early Greek Philosophy (1892)": "a study that quotes the fragments in translation, not a translation of a work; not taken"
+ },
+ "_translators": {
+  "heraclitus-patrick-1889": "G. T. W. Patrick",
+  "empedocles-leonard-1908": "William Ellery Leonard"
+ },
+ "_checks": {
+  "heraclitus-patrick-1889": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "heraclitus",
+   "translator_claimed": "G. T. W. Patrick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "empedocles-leonard-1908": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "heraclitus",
+   "translator_claimed": "William Ellery Leonard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

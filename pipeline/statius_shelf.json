@@ -28,6 +28,16 @@
    "silvaetranslated00statuoft",
    "The Silvae of Statius, translated with introduction and notes (Oxford, 1908)",
    "tr. D. A. Slater"
+  ],
+  "statius-lewis-thebaid-v1": [
+   "thebaidstatiust01lewigoog",
+   "The Thebaid of Statius, translated into English verse, with notes and observations, vol. I, second edition corrected (London: T. Becket; the year OCRs as 'MDCCLXm'; IA records 1767)",
+   "tr. William Lillington Lewis"
+  ],
+  "statius-lewis-thebaid-v2": [
+   "thebaidstatiust00lewigoog",
+   "The Thebaid of Statius, vol. II (Books VII-XII), second edition corrected (London: T. Becket; no year in the OCR; IA records 1773)",
+   "tr. William Lillington Lewis"
   ]
  },
  "_excluded": {
@@ -39,7 +49,8 @@
  "_translators": {
   "statius-mozley-v1": "J. H. Mozley",
   "statius-mozley-v2": "J. H. Mozley",
-  "statius-slater-silvae-1908": "D. A. Slater"
+  "statius-slater-silvae-1908": "D. A. Slater",
+  "statius-lewis-thebaid-v1": "Lillington Lewis"
  },
  "_checks": {
   "statius-mozley-v1": {
@@ -91,9 +102,34 @@
    "ia_date": "1908",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "statius-lewis-thebaid-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "statius",
+   "translator_claimed": "Lillington Lewis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1767",
+   "ia_date": "1767",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "statius-lewis-thebaid-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "statius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1773",
+   "ia_date": "1773",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_translator_unchecked": {
-  "statius-lewis-thebaid-1767": "not named on the title page; catalogue attribution. The only Lewis in the OCR is a 'Rev. Mr. John Lewis' in a list of names"
+  "statius-lewis-thebaid-1767": "not named on the title page; catalogue attribution. The only Lewis in the OCR is a 'Rev. Mr. John Lewis' in a list of names",
+  "statius-lewis-thebaid-v2": "vol. II's text layer does not name the translator (its title page lacks a name in the OCR); identified as the companion of vol. I, same Becket second edition"
  }
 }

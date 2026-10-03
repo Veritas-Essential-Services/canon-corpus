@@ -605,3 +605,128 @@
 - basile: the translator note no longer quotes the book's text. andersen: punctuation in three translator notes.
 - Grierson and Skinner: undated in the text; the Internet Archive catalogue dates are now recorded with the record ids. Grierson's life dates, which came from memory and not from the text or a record, were removed.
 - DIGEST: the minting list is now counted from the shelf files (926 slugs on 163 shelves) instead of hand-summed by batch; the headline says 161 storytellers and lists batch 21.
+
+## 2026-10-03 01:18 CDT — review round 7 and Lane A's CCEL print-source check (36ca012)
+- jean-lang: `_surname` is now "jean lang" (it was bare "lang", which Andrew Lang's books also pass); re-recorded, 4/4 seen.
+- basile: the translator note describes the 1911 printing's prefatory note instead of quoting it.
+- macdonald (Lane D's only CCEL shelf, 31 CCEL items): re-recorded under 36ca012. 23 have a print source on CCEL's page, 8 have none. Correction to the first version of this line, which said none was 1930 or later: four are, and fetch_shelf flags them `ccel_print_source_check`: The Miracles of Our Lord (J. J. Flynn, c1987), The Vicar's Daughter (Sunrise Books, 2001), Salted with Fire (Sunrise Books, 1989) and The Princess and Curdie (D. McKay [1934]). All four are reprints of MacDonald's own nineteenth-century texts, not critical editions, so they stay on the shelf; whether a modern reprint added anything is not known from the record, and republishing waits on a look (DIGEST decision 17).
+
+## 2026-10-03 01:52 CDT — abbie-brown-b22: done
+- 2/2 fetched (Gutenberg 44622, 16140), 1,488 units, 0 ~2 ids.
+
+## 2026-10-03 01:53 CDT — katharine-pyle: done
+- 7/7 fetched (Gutenberg 3230, 48593, 47178, 49001, 25913, 48351, 66919), 8,810 units, 0 ~2 ids.
+
+## 2026-10-03 01:54 CDT — spence: done
+- 8/8 fetched (Gutenberg 56550, 53080, 42390, 16539, 43662, 45137, 38530, 30871), 11,920 units, 0 ~2 ids.
+
+## 2026-10-03 01:55 CDT — hearn: done
+- 6/6 fetched (Gutenberg 16261, 55473, 1210, 15320, 34215, 8128), 3,958 units, 0 ~2 ids.
+
+## 2026-10-03 01:55 CDT — mackenzie: done
+- 4/4 fetched (Gutenberg 10089, 16653, 47228, 67344), 8,194 units, 0 ~2 ids.
+
+## 2026-10-03 01:56 CDT — stephens: done
+- 2/2 fetched (Gutenberg 2892, 65950), 4,001 units, 0 ~2 ids.
+
+## 2026-10-03 01:57 CDT — van-dyke: done
+- 5/5 fetched (Gutenberg 16291, 4384, 16134, 1603, 15936), 1,537 units, 0 ~2 ids.
+
+## 2026-10-03 01:59 CDT — irving: done
+- 4/4 fetched (Gutenberg 2048, 13514, 49947, 77685), 4,507 units, 0 ~2 ids.
+
+## 2026-10-03 02:12 CDT — curtin-folk: done
+- 6/6 fetched (Gutenberg 36540, 50011, 63866, 39106, 64176, 73418), 19,986 units, 0 ~2 ids.
+
+## 2026-10-03 02:14 CDT — larminie: done
+- 1/1 fetched (Gutenberg 57858), 1,529 units, 0 ~2 ids.
+
+## 2026-10-03 02:15 CDT — langloh-parker: done
+- 1/1 fetched (Gutenberg 3833), 403 units, 0 ~2 ids.
+
+## 2026-10-03 02:16 CDT — pitman: done
+- 1/1 fetched (Gutenberg 18674), 942 units, 0 ~2 ids.
+
+## 2026-10-03 02:17 CDT — clouston: done
+- 3/3 fetched (Gutenberg 13032, 57468, 60316), 3,318 units, 0 ~2 ids.
+
+## 2026-10-03 02:18 CDT — holbrook: done
+- 2/2 fetched (Gutenberg 22420, 20853), 1,415 units, 0 ~2 ids.
+
+## 2026-10-03 02:20 CDT — chodzko: done
+- 1/1 fetched (Gutenberg 25555), 1,390 units, 0 ~2 ids.
+
+## 2026-10-03 02:21 CDT — magnus: done
+- 1/1 fetched (Gutenberg 62509), 2,830 units, 0 ~2 ids.
+
+## 2026-10-03 02:22 CDT — gaster: done
+- 1/1 fetched (Gutenberg 43059), 1,601 units, 0 ~2 ids.
+
+## 2026-10-03 02:23 CDT — theal: done
+- 1/1 fetched (Gutenberg 71335), 1,264 units, 0 ~2 ids.
+
+## 2026-10-03 02:25 CDT — nixon-roulet: done
+- 1/1 fetched (Gutenberg 73293), 811 units, 0 ~2 ids.
+
+## 2026-10-03 02:27 CDT — mclaughlin: done
+- 1/1 fetched (Gutenberg 341), 680 units, 0 ~2 ids.
+
+## 2026-10-03 02:28 CDT — friedlander: done
+- 1/1 fetched (Gutenberg 72880), 331 units, 0 ~2 ids.
+
+## 2026-10-03 02:29 CDT — ginzberg: done
+- 2/2 fetched (Gutenberg 1493, 1494), 1,836 units, 0 ~2 ids.
+
+## 2026-10-03 02:30 CDT — ewald: done
+- 6/6 fetched (Gutenberg 31167, 31708, 65029, 62910, 62912, 40553), 4,968 units, 0 ~2 ids.
+
+## 2026-10-03 02:32 CDT — elizabeth-harrison: done
+- 1/1 fetched (Gutenberg 33980), 459 units, 0 ~2 ids.
+
+## 2026-10-03 02:33 CDT — howes: done
+- 2/2 fetched (Gutenberg 20366, 38063), 1,135 units, 0 ~2 ids.
+
+## 2026-10-03 02:34 CDT — dracott: done
+- 1/1 fetched (Gutenberg 58816), 1,117 units, 0 ~2 ids.
+
+## 2026-10-03 02:36 CDT — wratislaw: done
+- 1/1 fetched (Gutenberg 48761), 565 units, 0 ~2 ids.
+
+## 2026-10-03 02:37 CDT — borrow: done
+- 1/1 fetched (Gutenberg 16244), 115 units, 0 ~2 ids.
+
+## 2026-10-03 02:50 CDT — pauline-johnson: done
+- 1/1 fetched (Gutenberg 28483), 466 units, 0 ~2 ids.
+
+## 2026-10-03 02:52 CDT — leamy: done
+- 1/1 fetched (Gutenberg 29311), 715 units, 0 ~2 ids.
+
+## 2026-10-03 02:53 CDT — basil-chamberlain: done
+- 3/3 fetched (Gutenberg 29287, 25590, 30024), 272 units, 0 ~2 ids.
+
+## 2026-10-03 02:55 CDT — cyrus-macmillan: done
+- 1/1 fetched (Gutenberg 36241), 357 units, 0 ~2 ids.
+
+## 2026-10-03 02:56 CDT — werner: done
+- 1/1 fetched (Gutenberg 15250), 1,227 units, 0 ~2 ids.
+
+## 2026-10-03 02:58 CDT — sikes: done
+- 1/1 fetched (Gutenberg 34704), 2,072 units, 0 ~2 ids.
+
+## 2026-10-03 02:59 CDT — tregarthen: done
+- 2/2 fetched (Gutenberg 37245, 40246), 1,903 units, 0 ~2 ids.
+
+## 2026-10-03 03:01 CDT — ebbutt: done
+- 1/1 fetched (Gutenberg 25502), 1,680 units, 0 ~2 ids.
+
+## 2026-10-03 03:02 CDT — maurice-baring: done
+- 1/1 fetched (Gutenberg 36008), 769 units, 0 ~2 ids.
+
+## 2026-10-03 03:04 CDT — evelyn-sharp: done
+- 2/2 fetched (Gutenberg 30400, 40573), 1,714 units, 0 ~2 ids.
+
+## 2026-10-03 03:05 CDT — mr-james: done
+- 2/2 fetched (Gutenberg 15874, 24089), 703 units, 0 ~2 ids.
+
+## 2026-10-03 03:07 CDT — macgowan: done
+- 1/1 fetched (Gutenberg 26070), 690 units, 0 ~2 ids.

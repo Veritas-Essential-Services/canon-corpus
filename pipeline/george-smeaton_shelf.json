@@ -1,10 +1,13 @@
 {
- "_about": "George Smeaton (1814-1889), professor of exegetical theology at New College, Edinburgh (Free Church of Scotland): The Doctrine of the Atonement as taught by Christ Himself (Edinburgh: T. & T. Clark, 1868), The Doctrine of the Atonement as taught by the Apostles (1870), and The Doctrine of the Holy Spirit (Cunningham Lectures, 1882). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_about": "George Smeaton (1814-1889), professor of exegetical theology at New College, Edinburgh (Free Church of Scotland): The Doctrine of the Atonement as taught by Christ Himself (Edinburgh: T. & T. Clark, 1868), The Doctrine of the Atonement as taught by the Apostles (1870), and The Doctrine of the Holy Spirit (Cunningham Lectures, 1882). Internet Archive OCR, raw and unconverted; each title page read before listing. Merged 2026-10-03 with lane A's round-11 copy, which listed the same three books; for Christ Himself it used the other Toronto scan (doctrineofatonem00smeauoft), the same 1868 edition at the same OCR quality, kept here as an alternate.",
  "_name_words": [
-  "smeaton"
+  "smeaton",
+  "george"
  ],
  "_surname": [
-  "smeaton"
+  "smeaton",
+  "george smeaton",
+  "g. smeaton"
  ],
  "ccel": {},
  "gutenberg": {},

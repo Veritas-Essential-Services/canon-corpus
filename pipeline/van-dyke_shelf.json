@@ -1,0 +1,134 @@
+{
+ "_about": "Henry van Dyke's Christmas legends and tales: The Story of the Other Wise Man (Harper, copyright 1895, 1899), The Lost Word (New York, MDCCCXCVIII), The First Christmas Tree (Scribner; undated in the text), The Blue Flower (dedication dated December 1, 1902), The Sad Shepherd (copyright 1911). The Blue Flower collects seven stories, three of them also here as separate books (its Lost Word, First Christmas-Tree and Other Wise Man share 75%, 62% and 50% of their long paragraphs with the separate books); per the containment rule both are kept and the overlap mints once with two witnesses. Its First Christmas-Tree numbers its sections I, II, IV: section III's heading is missing from the Gutenberg text, so its paragraphs run on under II. His poems, essays and addresses are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Henry van Dyke",
+ "_name_words": [
+  "dyke"
+ ],
+ "_surname": [
+  "henry van dyke"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "van-dyke-other-wise-man": [
+   16291,
+   "The Story of the Other Wise Man",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE|THE SIGN IN THE SKY|BY THE WATERS OF BABYLON|FOR THE SAKE OF A LITTLE CHILD|IN THE HIDDEN WAY OF SORROW|A PEARL OF GREAT PRICE)$"
+     }
+    ],
+    "start": "PREFACE$",
+    "front": true
+   }
+  ],
+  "van-dyke-lost-word": [
+   4384,
+   "The Lost Word: A Christmas Legend of Long Ago",
+   {
+    "contents_only": true
+   }
+  ],
+  "van-dyke-first-christmas-tree": [
+   16134,
+   "The First Christmas Tree: A Story of the Forest",
+   {
+    "levels": [
+     {
+      "re": "(?:[IVX]+ )?(?:THE CALL OF THE WOODSMAN|THE TRAIL THROUGH THE FOREST|THE SHADOW OF THE THUNDER-OAK|THE FELLING OF THE TREE)$",
+      "strip": "^[IVX]+ "
+     },
+     {
+      "re": "[IVX]+$"
+     }
+    ],
+    "start": "I THE CALL OF THE WOODSMAN$",
+    "front": true
+   }
+  ],
+  "van-dyke-blue-flower": [
+   1603,
+   "The Blue Flower",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE|CONTENTS|THE BLUE FLOWER|THE SOURCE|THE MILL|SPY ROCK|WOOD-MAGIC|THE OTHER WISE MAN|A HANDFUL OF CLAY|THE LOST WORD|THE FIRST CHRISTMAS-TREE)$"
+     },
+     {
+      "re": "[IVX]+$"
+     },
+     {
+      "re": "(?:How (?:the Young Martimor|Martimor was|Martimor Came|the Mill was|the Month of May)|Yet More of the Mill|The Cabin by the Rivers|The House on the Main Street|The White Canoe).{0,80}$"
+     }
+    ],
+    "start": "PREFACE$",
+    "front": true
+   }
+  ],
+  "van-dyke-sad-shepherd": [
+   15936,
+   "The Sad Shepherd: A Christmas Story",
+   {
+    "levels": [
+     {
+      "re": "[IVX]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "van-dyke-other-wise-man-others": "PG 10679 and 19608, two other transcriptions of The Other Wise Man; 85% and 98% of their long paragraphs are in PG 16291 (the 1899 edition); held once"
+ },
+ "_checks": {
+  "van-dyke-other-wise-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry van dyke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "van-dyke-lost-word": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry van dyke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "van-dyke-first-christmas-tree": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry van dyke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "van-dyke-blue-flower": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry van dyke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "van-dyke-sad-shepherd": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry van dyke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

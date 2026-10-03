@@ -1,0 +1,44 @@
+{
+ "_about": "Maud Isabel Ebbutt's Hero-Myths and Legends of the British Race (first published August 1910): Beowulf, Cuchulain, Arthur, Robin Hood and others retold. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "M. I. Ebbutt",
+ "_name_words": [
+  "ebbutt"
+ ],
+ "_surname": [
+  "m. i. ebbutt"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ebbutt-hero-myths-and-legends": [
+   25502,
+   "Hero-Myths & Legends of the British Race",
+   {
+    "levels": [
+     {
+      "re": "INTRODUCTION$|CHAPTER [IVXL]+: .+$|GLOSSARY AND INDEX$"
+     },
+     {
+      "re": "FOOTNOTES:$|(?=[A-Z])[^.!?;:,”\"]{1,40}$",
+      "strip": ":$",
+      "number_repeats": true
+     }
+    ],
+    "start": "INTRODUCTION$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "ebbutt-hero-myths-and-legends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "m. i. ebbutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

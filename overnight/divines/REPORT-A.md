@@ -414,3 +414,131 @@
 
 ## 2026-10-03 01:12 CDT — j-b-lightfoot done
 - `pipeline/j-b-lightfoot_shelf.json`: 1 CCEL title (converted; Lightfoot recorded as translator), 3 Gutenberg texts (rights lines checked) and 2 IA commentaries, raw OCR 92.3% each (Greek-heavy notes), about 5 MB; title pages read (1890, 1898). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:18 CDT — b-f-westcott done
+- `pipeline/b-f-westcott_shelf.json`: 6 IA volumes of raw OCR, median 91.0% (88.1-97.4%; Greek text and notes), about 8 MB; title pages read (1883-1908). The gate refused a Robarts Epistles of John scan whose text layer names neither the book nor Westcott; a Claremont copy replaced it. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:21 CDT — r-c-trench done
+- `pipeline/r-c-trench_shelf.json`: 4 Gutenberg texts (rights lines checked) and 3 IA volumes of raw OCR, median 95.1% (95.1-96.1%), about 5.5 MB. All 7 matched on "richard chenevix trench" ("trench" alone is a common word). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:31 CDT — john-brown-edinburgh done
+- `pipeline/john-brown-edinburgh_shelf.json`: 4 IA volumes of raw OCR, median 97.4% (97.0-98.1%), about 9 MB; title pages read (1854, 1857; First Peter shows Carter and 1849 though catalogued 1855, and the shelf says both). The name check is "john brown", which his grandfather shares; titles carry the distinction. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:33 CDT — f-w-robertson done
+- `pipeline/f-w-robertson_shelf.json`: 1 Gutenberg text (rights line checked) and the 1875 King set, 4 volumes of raw IA OCR, median 98.6% (98.3-98.9%), about 3.4 MB; title pages read (King, 1875). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:36 CDT — john-eadie done
+- `pipeline/john-eadie_shelf.json`: Ephesians and Galatians, raw IA OCR, 94.5% and 96.7%, about 2.7 MB; title pages read (1883, MDCCCLXIX). A Philippians catalogued 1894 was fetched and then dropped: its front matter says Klock and Klock reprint, 1977. That is the second reprint today the date gate passed (after Trapp); see Defects in the digest. Thessalonians is pending (HTTP 500). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:37 CDT — henry-alford done
+- `pipeline/henry-alford_shelf.json`: The Greek Testament, vols 1, 2 and 4, raw IA OCR, 82.3%, 89.9% and 93.8%, about 13 MB. Vol. 1's text layer has no Greek characters at all (450,000 or so in each of vols 2 and 4). Vol. 3 is pending. Two Boston copies were refused by the identity gate. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+- Greek in the text layer, measured 2026-10-03 (Greek codepoints per file): 0 in Lightfoot's Galatians and Philippians, Westcott's Canon, Epistles of John, Hebrews and John vol. 2, Eadie's Ephesians, Pearson's Creed and Alford vol. 1; present in Lightfoot's Colossians (PG), Westcott's John vol. 1, Eadie's Galatians, Trench's Synonyms and Alford vols 2 and 4. Where it is 0 the Greek was read as Latin letters, as with the Thayer scan; the English is usable, the Greek is not.
+
+## 2026-10-03 01:39 CDT — john-keble done
+- `pipeline/john-keble_shelf.json`: 1 CCEL title (converted), 1 Gutenberg text (rights line checked) and 2 IA volumes of raw OCR at 98.6%, about 2.9 MB; title pages read (1847, 1877). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:45 CDT — e-b-pusey done
+- `pipeline/e-b-pusey_shelf.json`: 3 IA volumes of raw OCR, about 8 MB: the Minor Prophets 81.0% (Hebrew and Greek in the notes), Daniel 95.9%, Lenten Sermons 98.6%; title pages read (1860, 1868, 1874). The Minor Prophets item offers only a plain `<id>.txt`, so `fetch_shelf.py` now accepts any `.txt` name in an IA row's third element (it required `_djvu.txt`). The gate refused A Course of Sermons on Solemn Subjects (Pusey's name never appears; several preachers). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:45 CDT — h-p-liddon done
+- `pipeline/h-p-liddon_shelf.json`: 5 IA volumes of raw OCR, median 98.6% (96.5-99.1%), about 5 MB; title pages read (1867-1906). The gate refused a Christmastide in St. Paul's copy whose text never names Liddon. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:49 CDT — a-a-hodge done
+- `pipeline/a-a-hodge_shelf.json`: 5 IA volumes of raw OCR, median 98.1% (97.6-98.5%), about 6 MB; title pages read (1867-1887). The Confession commentary IA catalogues as 1869 is the 1885 new edition (preface dated June 1885), so it is labelled that way. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 01:52 CDT — j-a-alexander done
+- `pipeline/j-a-alexander_shelf.json`: 12 IA volumes of raw OCR, median 97.1% (94.7-98.6%), about 15 MB; title pages read (1846-1861). The text layers hold 0 Hebrew and 0 Greek characters, so the Isaiah and Psalms commentaries have lost every original-language word. The gate refused the only Primitive Church Offices copy tried (its text never names him); it is pending. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 02:00 CDT — acted on roving review (cycle 8)
+- `fetch_shelf.py`: `shared_name_forms()` prints a NOTE at load for any name form another shelf also claims; "trench" added to the common-word list. `tests/fetch_shelf_test.py` 46/46, structure_test 64/64.
+- Nine lane A shelves moved to distinguishing name forms and were re-recorded (`--verify --record`, 0 mismatched): hodge, a-a-hodge, john-brown-edinburgh, john-brown-haddington, perkins, andrew-bonar, horatius-bonar, ezekiel-hopkins, samuel-hopkins. j-a-alexander dropped bare "alexander"; r-c-trench re-recorded. Five items with OCR-mangled title-page names went to `_identity_checked` with the reading quoted.
+- DIGEST-A: the Owen late-reprint count corrected from 25 to 26. Westcott, Alford and Lightfoot `_about` now note the overlap with PR #11.
+
+## 2026-10-03 02:05 CDT — albert-barnes done
+- `pipeline/albert-barnes_shelf.json`: CCEL's complete New Testament Notes (32 MB ThML; CCEL keyed it from the Baker 1949 reprint, so it is flagged for a person to check) plus 16 IA volumes of raw OCR, median 97.5% (87.7% for Harper Psalms vol. 3, otherwise 95.0-98.7%), about 49 MB. Title pages were read. Daniel is the 1857 printing and was relabelled. The 1847 Isaiah vol. 2 and one Life at Threescore copy never name Barnes and were swapped for copies that do. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+- `owen_shelf.json`: per the press thread (PR #15), CCEL's o/owen/glory is a modernised text. It is held through fetch_sources.py, not this shelf, and its `_held` note now says so and points to Goold vol. 1 (owen-works-goold-01, which contains it) and EEBO-TCP A53707.
+
+## 2026-10-03 02:09 CDT — moses-stuart done
+- `pipeline/moses-stuart_shelf.json`: 8 IA volumes of raw OCR, median 96.6% (94.9-98.0%), about 11 MB; title pages read (1830-1852). Romans and Hebrews keep their Greek (55,170 and 78,809 Greek characters). I fetched the NT Grammar (1841), found 0 Greek characters and 84.5% OCR, and excluded it, as I did the Hebrew grammars. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 02:14 CDT — increase-mather done
+- `pipeline/increase-mather_shelf.json`: 4 IA volumes of raw OCR, median 86.9% (84.0-95.3%; Drake's editions reprint the long s, which the OCR reads as f), about 2 MB; title pages read (1856-1900). Cases of Conscience is held back with Cotton Mather's Wonders. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+- Round 11 opened at 02:12 CDT with 18 picks in QUEUE-A. thomas-hooker was skipped: IA has only the 1638-48 first printings and modern facsimiles, the one copy that passed read at 77.7% OCR, and three never name him.
+
+## 2026-10-03 02:14 CDT — solomon-stoddard done
+- `pipeline/solomon-stoddard_shelf.json`: 2 IA volumes of raw OCR, median 97.6%, about 0.9 MB. The Safety of Appearing's title-page year is unreadable in the OCR, so it is labelled "catalogued 1804". `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 02:16 CDT — john-cotton done
+- `pipeline/john-cotton_shelf.json`: 1 IA volume (The Keyes of the Kingdom, 1843 reprint), 95.4% OCR. Nothing else of his turned up in a 19th-century edition. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:16 CDT — samuel-willard done
+- `pipeline/samuel-willard_shelf.json`: 1 IA volume, the 1726 folio (1,016 page images, about 6.8 MB), 85.5% OCR. Its long s is read as f, and the title-page numeral is garbled, so it is labelled "catalogued 1726". It is the only pre-1930 copy on IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:22 CDT — john-tillotson done
+- `pipeline/john-tillotson_shelf.json`: CCEL vols 4-10 of the 1820 Works (CCEL print source: Priestley, 1820) plus IA vols 1-2 of the same edition (98.1% and 98.9% OCR). The copy of vol. 3 that worked is catalogued as vol. 3 but its title page and sermons are vol. X, so it was dropped; the real vol. 3 is pending (HTTP 500). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 02:22 CDT — thomas-wilson done
+- `pipeline/thomas-wilson_shelf.json`: 6 IA volumes of raw OCR, median 98.6% (96.4-99.4%), about 8 MB. Each title page was read (1847, 1847, 1851, 1860, 1859, 1863). Vol. 1 turned out to be Keble's Life of Wilson, part II, and was excluded as Keble's book. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 02:24 CDT — daniel-waterland done
+- `pipeline/daniel-waterland_shelf.json`: 9 IA volumes of the 1823 Clarendon Works, raw OCR, median 95.3% (94.5-97.9%), about 9 MB. Each title page shows its volume number and MDCCCXXIII. Two Claremont scans without a volume number (worksofrevdaniel0000wate, _u3f1) were not tried. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-03 02:24 CDT — william-wilberforce done
+- `pipeline/william-wilberforce_shelf.json`: Gutenberg 25709, A Practical View (0.66 MB). The PG header is not marked copyrighted. Name forms are "william wilberforce" and "w. wilberforce" only, since bare "wilberforce" would also match his son Samuel. `--verify --record`: 0 mismatched. 0 uids minted. `scratchpad mkshelf.py` now accepts a spec with no IA items.
+
+## 2026-10-03 02:30 CDT — j-w-alexander done
+- `pipeline/j-w-alexander_shelf.json`: 3 IA volumes of raw OCR, median 97.2% (97.2-98.0%). His title pages print "JAMES W: ALEXANDER" with a colon, so that form was added to the name list. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:31 CDT — gardiner-spring done
+- `pipeline/gardiner-spring_shelf.json`: 5 IA volumes of raw OCR, median 97.1% (96.5-98.5%). The two First Things volumes print his name as "gardiner'^pring" and "GARDINER SFRINQ" in the OCR; both are in `_identity_checked` with the reading quoted. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:31 CDT — samuel-miller done
+- `pipeline/samuel-miller_shelf.json`: 6 IA volumes of raw OCR, median 95.6% (94.5-97.3%). The Ruling Elder copy carries the Presbyterian Board of Publication imprint, and that Board was founded in 1838, so this printing is later than the 1832 IA catalogues (an inference; its copyright year is illegible). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:31 CDT — ichabod-spencer done
+- `pipeline/ichabod-spencer_shelf.json`: 5 IA volumes of raw OCR, median 98.3% (97.7-98.8%). Sketches 1 names him only in an OCR-mangled copyright line, which is recorded in `_identity_checked`. The first second-series copy tried never names him, so a Toronto copy that does replaced it. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:36 CDT — acted on roving review (cycle 9)
+- Westcott: John vol. 2, Hebrews and the Epistles of John swapped for copies whose text layer keeps the Greek: gospelaccordingt02west (80,514 Greek characters), epistletohebrew00westgoog (2nd edition 1892, 176,106) and cu31924074296629 (3rd edition 1892, 79,175). The copies replaced had 0, and are recorded in `_alternates`. The Toronto Epistles of John scan (epistlesofstjohn00westuoft) was refused because its whole text was OCR'd as Greek, English included.
+- Lightfoot: Galatians is now cu31924075537088 (tenth edition, a 1921 reprint, 58,702 Greek characters) and Philippians is saintpaulsepistl00ligh (fourth edition 1878, 55,788). The 1878 title page OCR reads "J. BB; BIGHTROOT", recorded in `_identity_checked`. Eadie's Ephesians has no copy with Greek; noted in its `_about`.
+- DIGEST-A: the late-reprint CCEL texts (Barnes 1949, Owen 1965-68, Wesley 1951, Lightfoot AF 1956, Calvin Relics 2008) and the modernised Owen Glory are now one item under "Decisions that are yours". The Greek bullet is updated.
+- `--verify --record` on b-f-westcott, j-b-lightfoot and john-eadie: 0 mismatched.
+
+## 2026-10-03 02:42 CDT — robert-candlish done
+- `pipeline/robert-candlish_shelf.json`: 6 IA volumes of raw OCR, median 98.5% (97.0-99.2%), about 4 MB; title pages read (1854-1875). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:42 CDT — hugh-martin done
+- `pipeline/hugh-martin_shelf.json`: 4 IA volumes of raw OCR, median 98.5%. Jonah names him only as "Dr. Huofh Martin" in the publisher's note and "H. M." under the preface, recorded in `_identity_checked`; it needed retries past HTTP 500. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:42 CDT — george-smeaton done
+- `pipeline/george-smeaton_shelf.json`: 3 IA volumes of raw OCR, median 98.5%, about 3.5 MB; title pages read (1868, 1870, 1882). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:42 CDT — john-kennedy-dingwall done
+- `pipeline/john-kennedy-dingwall_shelf.json`: 2 IA volumes of raw OCR, median 98.3%. Gaelic items under his name are left out of this English shelf. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:42 CDT — thomas-mccrie done
+- `pipeline/thomas-mccrie_shelf.json`: 4 IA volumes of raw OCR, median 96.6% (93.5-99.0%), about 6 MB. IA catalogues the Works as 1855, but the title pages read 1856 and 1857, and the slugs carry no year. His Life of Knox (Works vol. 1) is left to the Reformers/Knox thread. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:52 CDT — retries
+- henry-alford vol. 3 (greektestamentwi03alfo) came through after several HTTP 500s: Rivingtons 1856, 91.1% OCR, 273,536 Greek characters. `--verify --record`: 0 mismatched. Eadie's Thessalonians and Tillotson vol. 3 still return HTTP 500.
+
+## 2026-10-03 02:58 CDT — alexander-maclaren done
+- `pipeline/alexander-maclaren_shelf.json`: 19 CCEL ThML texts. Print sources, where CCEL names one: Hodder and Stoughton 1892-1903, Armstrong 1894. None is late. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:58 CDT — charles-finney done
+- `pipeline/charles-finney_shelf.json`: 7 CCEL texts. Power from on High is keyed from a 1944 Christian Literature Crusade reprint and is flagged. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:58 CDT — e-m-bounds done
+- `pipeline/e-m-bounds_shelf.json`: 7 CCEL texts. Bare "bounds" is never used as a name form. CCEL writes "E.M. Bounds" with no space, so that form was added after Purpose in Prayer was refused on the first pass. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:59 CDT — hannah-whitall-smith done
+- `pipeline/hannah-whitall-smith_shelf.json`: 3 CCEL texts. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:59 CDT — r-a-torrey done
+- `pipeline/r-a-torrey_shelf.json`: 3 CCEL texts. The Person and Work of the Holy Spirit is keyed from a 1974 Zondervan reprint and is flagged. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:59 CDT — horace-bushnell done
+- `pipeline/horace-bushnell_shelf.json`: 5 CCEL texts. Print sources, where named: Scribner 1868-76. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 05:40 CDT — a-b-bruce done
+- `pipeline/a-b-bruce_shelf.json`: 1 CCEL + 4 IA, all fetched. Title pages read for imprint and year. `--verify --record`: 0 mismatched. OCR 98.4% mean, lowest Humiliation 94.4%. Parabolic Teaching pending (HTTP 500). 0 uids minted.

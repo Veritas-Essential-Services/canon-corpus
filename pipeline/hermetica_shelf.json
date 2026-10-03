@@ -1,0 +1,118 @@
+{
+ "_about": "The Hermetic writings in English: John David Chambers's Theological and Philosophical Works of Hermes Trismegistus, translated from the Greek (T. & T. Clark, 1882), and John Everard's Divine Pymander (1650), in George Redway's 1884 reprint with Hargrave Jennings's introduction. Raw IA OCR. Not minted. Also G. R. S. Mead's Thrice-Greatest Hermes (Theosophical Publishing Society, 1906), all three volumes: his translation with prolegomena and commentary.",
+ "_name_words": [
+  "hermes",
+  "trismegistus",
+  "pymander"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hermetica-chambers-1882": [
+   "theologicalphilo00hermrich",
+   "The Theological and Philosophical Works of Hermes Trismegistus, Christian Neoplatonist, translated from the original Greek, with preface, notes and indices (Edinburgh: T. & T. Clark, 1882)",
+   "tr. John David Chambers"
+  ],
+  "hermetica-everard-pymander-1884": [
+   "b2487839x",
+   "The Divine Pymander of Hermes Mercurius Trismegistus (Everard's translation of 1650; London: George Redway, 1884, with an introduction by Hargrave Jennings)",
+   "tr. John Everard"
+  ],
+  "hermetica-mead-1906-v1": [
+   "thricegreatesthe01hermuoft",
+   "Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis, being a translation of the extant sermons and fragments of the Trismegistic literature, vol. I: Prolegomena (London and Benares: Theosophical Publishing Society, 1906)",
+   "tr. G. R. S. Mead"
+  ],
+  "hermetica-mead-1906-v2": [
+   "thricegreatesthe02hermuoft",
+   "Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis, being a translation of the extant sermons and fragments of the Trismegistic literature, vol. II: Sermons (London and Benares: Theosophical Publishing Society, 1906)",
+   "tr. G. R. S. Mead"
+  ],
+  "hermetica-mead-1906-v3": [
+   "thricegreatesthe03hermuoft",
+   "Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis, being a translation of the extant sermons and fragments of the Trismegistic literature, vol. III: Excerpts and Fragments (London and Benares: Theosophical Publishing Society, 1906)",
+   "tr. G. R. S. Mead"
+  ]
+ },
+ "_surname": [
+  "trismegistus",
+  "hermes trismegistus"
+ ],
+ "_translators": {
+  "hermetica-chambers-1882": "John David Chambers",
+  "hermetica-everard-pymander-1884": "Dr. Everard",
+  "hermetica-mead-1906-v1": "G. R. S. Mead",
+  "hermetica-mead-1906-v2": "G. R. S. Mead",
+  "hermetica-mead-1906-v3": "G. R. S. Mead"
+ },
+ "_checks": {
+  "hermetica-chambers-1882": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "trismegistus",
+   "translator_claimed": "John David Chambers",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hermetica-everard-pymander-1884": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "trismegistus",
+   "translator_claimed": "Dr. Everard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hermetica-mead-1906-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "trismegistus",
+   "translator_claimed": "G. R. S. Mead",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hermetica-mead-1906-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "trismegistus",
+   "translator_claimed": "G. R. S. Mead",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hermetica-mead-1906-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "trismegistus",
+   "translator_claimed": "G. R. S. Mead",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_excluded": {
+  "Walter Scott, Hermetica (Clarendon, 1924-36)": "vol. I (1924, IA ScottHermeticaVolOne) is the only volume with the translation, and it prints the Greek and Latin texts facing; its OCR reads 0.761 clean words, below the lane's bar, mixed with Greek. Vols. II-III (1925-26) are commentary, vol. IV (1936) not public domain. Not taken"
+ }
+}

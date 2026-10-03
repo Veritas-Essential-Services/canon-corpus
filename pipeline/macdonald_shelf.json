@@ -300,6 +300,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": false,
+   "ccel_print_source": "Boston: Loring",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-david-elginbrod": {
@@ -310,6 +312,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Hurst and Blackett, 1871",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-adela-cathcart-1": {
@@ -320,6 +324,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": "Boston, Loring [1875]",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-adela-cathcart-2": {
@@ -330,6 +336,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": "New York, G. Munro, 1882",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-adela-cathcart-3": {
@@ -340,6 +348,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": "Philadelphia, D. McKay [1911]",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-portent": {
@@ -350,6 +360,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": "New York, 1894",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-annals-quiet-neighbourhood": {
@@ -360,6 +372,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": "New York, G. Munro, 1879",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-unspoken-sermons-1": {
@@ -370,6 +384,8 @@
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Alexander Strahan, 1867",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-unspoken-sermons-2": {
@@ -380,6 +396,8 @@
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Longmans, Green and Co., 1885",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-unspoken-sermons-3": {
@@ -390,6 +408,8 @@
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Longmans, Green and Co., 1889",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-seaboard-parish": {
@@ -400,6 +420,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": "Philadelphia, D. McKay, 1911",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-robert-falconer": {
@@ -410,6 +432,8 @@
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-miracles-of-our-lord": {
@@ -420,6 +444,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": "South Pasadena, [Calif.]: J.J. Flynn, c1987",
+   "ccel_print_source_check": true,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-back-of-north-wind": {
@@ -430,6 +456,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-princess-and-goblin": {
@@ -440,6 +468,8 @@
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": false,
+   "ccel_print_source": "Philadelphia: David McKay Company, 1920",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-vicars-daughter": {
@@ -450,6 +480,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": "Eureka, Calif.: Sunrise Books, 2001",
+   "ccel_print_source_check": true,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-light-princess": {
@@ -460,6 +492,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain. Originally published 1864.",
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-cross-purposes-shadows": {
@@ -470,6 +504,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-day-boy-night-girl": {
@@ -480,6 +516,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-thomas-wingfold": {
@@ -490,6 +528,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": "Philadelphia, D. McKay [1911]",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-sir-gibbie": {
@@ -500,6 +540,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Hurst and Blackett, 1880",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-diary-of-an-old-soul": {
@@ -510,6 +552,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": "London: George MacDonald, 1880",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-princess-and-curdie": {
@@ -520,6 +564,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": "Philadelphia, D. McKay [1934]",
+   "ccel_print_source_check": true,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-donal-grant": {
@@ -530,6 +576,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": "Kegan Paul, Trench, Trubner &amp; Co., 1905",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-double-story": {
@@ -540,6 +588,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": "Elgin, III., and Chicago, D. C. Cook publishing company [1905]",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-elect-lady": {
@@ -550,6 +600,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-hope-of-the-gospel": {
@@ -560,6 +612,8 @@
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-heather-and-snow": {
@@ -570,6 +624,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": false,
+   "ccel_print_source": "New York: Harper &amp; Brothers, 1893",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-there-and-back": {
@@ -580,6 +636,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": "Boston, Lothrop Publishing Co.",
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-lilith": {
@@ -590,6 +648,8 @@
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-salted-with-fire": {
@@ -600,6 +660,8 @@
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": "Eureka, Calif.: Sunrise Books, 1989",
+   "ccel_print_source_check": true,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "macdonald-alec-forbes": {

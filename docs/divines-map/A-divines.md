@@ -1477,5 +1477,440 @@ Slugs `lightfoot-*`.
 | St. Paul's Epistles to the Colossians and to Philemon | have-clean | Gutenberg 50857 |
 | Essays on the Work Entitled Supernatural Religion | have-clean | Gutenberg 18191 |
 | Sermons | have-clean | Gutenberg 37527 |
-| Saint Paul's Epistle to the Galatians (London: Macmillan, 1890) | have-raw | IA (identifier in the shelf) |
-| Saint Paul's Epistle to the Philippians (London: Macmillan, 1898) | have-raw | IA |
+| Saint Paul's Epistle to the Galatians (London: Macmillan, tenth edition 1890, in a 1921 reprint; text keeps the Greek) | have-raw | IA (identifier in the shelf) |
+| Saint Paul's Epistle to the Philippians (London: Macmillan, fourth edition 1878; text keeps the Greek) | have-raw | IA |
+
+
+## B. F. Westcott (round 10, my pick, 2026-10-03)
+
+Slugs `westcott-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Gospel according to St. John: the Greek text, 2 vols (London: Murray, 1908) | have-raw | IA (identifiers in the shelf) |
+| The Gospel according to St. John: the Authorised Version (London: Murray, 1892) | have-raw | IA |
+| The Epistles of St. John: the Greek text (Macmillan, third edition 1892; text keeps the Greek) | have-raw | IA |
+| The Epistle to the Hebrews: the Greek text (Macmillan, second edition 1892; text keeps the Greek) | have-raw | IA |
+| A General Survey of the History of the Canon of the New Testament (London: Macmillan, 1896) | have-raw | IA |
+
+
+## R. C. Trench (round 10, my pick, 2026-10-03)
+
+Slugs `trench-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| On the Study of Words | have-clean | Gutenberg 6480 |
+| English Past and Present | have-clean | Gutenberg 20900 |
+| A Select Glossary of English Words Used Formerly in Senses Different from Their Present | have-clean | Gutenberg 70210 |
+| Proverbs and Their Lessons | have-clean | Gutenberg 56504 |
+| Synonyms of the New Testament (London: Kegan Paul, 1901) | have-raw | IA (identifier in the shelf) |
+| Notes on the Parables of Our Lord (New York: Appleton; catalogued 1855) | have-raw | IA |
+| Notes on the Miracles of Our Lord (New York: Appleton, 1883) | have-raw | IA |
+
+
+## John Brown of Edinburgh (round 10, my pick, 2026-10-03)
+
+Slugs `jbrowne-*` (John Brown of Haddington, his grandfather, is `brown-*` on his own shelf).
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses and Sayings of Our Lord Jesus Christ, 2 vols (New York: Carter, 1854) | have-raw | IA (identifiers in the shelf) |
+| Analytical Exposition of the Epistle to the Romans (New York: Carter, 1857) | have-raw | IA |
+| Expository Discourses on the First Epistle of Peter (New York: Carter; catalogued 1855) | have-raw | IA |
+
+
+## F. W. Robertson (round 10, my pick, 2026-10-03)
+
+Slugs `fwrobertson-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons Preached at Brighton, third series | have-clean | Gutenberg 16645 |
+| Sermons Preached at Brighton, 4 vols (London: H. S. King, 1875) | have-raw | IA (identifiers in the shelf) |
+
+
+## John Eadie (round 10, my pick, 2026-10-03)
+
+Slugs `eadie-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Commentary on the Greek Text of Ephesians (Edinburgh: T. and T. Clark, 1883) | have-raw | IA (identifier in the shelf) |
+| Commentary on the Greek Text of Galatians (Edinburgh: T. and T. Clark, 1869) | have-raw | IA |
+| Commentary on the Greek Text of Thessalonians (London: Macmillan, 1877) | pending | archive.org errors |
+| Commentary on the Greek Text of Philippians | excluded | only copy found is a 1977 reprint |
+
+
+## Henry Alford (round 10, my pick, 2026-10-03)
+
+Slugs `alford-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Greek Testament, vols 1-2 (London: Rivington; catalogued 1849-56) | have-raw | IA (identifiers in the shelf) |
+| The Greek Testament, vol. 4 (Boston: Lee and Shepard; catalogued 1874) | have-raw | IA |
+| The Greek Testament, vol. 3 (Rivingtons, 1856) | have-raw | IA (shelved after retries) |
+
+
+## John Keble (round 10, my pick, 2026-10-03)
+
+Slugs `keble-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian Year (verse) | have-clean | CCEL |
+| National Apostasy (the Assize Sermon, 1833) | have-clean | Gutenberg 49112 |
+| Sermons, Academical and Occasional (Oxford: Parker, 1847) | have-raw | IA (identifier in the shelf) |
+| Occasional Papers and Reviews (Oxford: Parker, 1877) | have-raw | IA |
+| Sermons for the Christian Year (1875-80, 11 vols) | not shelved yet | |
+
+
+## E. B. Pusey (round 10, my pick, 2026-10-03)
+
+Slugs `pusey-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Minor Prophets, with a Commentary (Oxford: Parker; catalogued 1860) | have-raw | IA (identifier and text file name in the shelf) |
+| Daniel the Prophet: Nine Lectures (Oxford: Parker, 1868) | have-raw | IA |
+| Lenten Sermons (Oxford: Parker, 1874) | have-raw | IA |
+| Nine Sermons Preached before the University of Oxford (1879) | pending | no text file |
+
+
+## H. P. Liddon (round 10, my pick, 2026-10-03)
+
+Slugs `liddon-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Divinity of Our Lord and Saviour Jesus Christ (Bampton Lectures) (London: Rivingtons, 1867) | have-raw | IA (identifiers in the shelf) |
+| Easter in St. Paul's (Longmans, 1897 printing) | have-raw | IA |
+| Advent in St. Paul's (Longmans, 1906 printing) | have-raw | IA |
+| Passiontide Sermons (Longmans, 1891) | have-raw | IA |
+| Clerical Life and Work (Longmans, 1895) | have-raw | IA |
+| Christmastide in St. Paul's | not shelved | the copy tried was refused |
+
+
+## A. A. Hodge (round 10, my pick, 2026-10-03)
+
+Slugs `aa-hodge-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Outlines of Theology, rewritten and enlarged (New York: Carter, 1879) | have-raw | IA (identifiers in the shelf) |
+| A Commentary on the Confession of Faith (1885 new edition of the 1869 book) | have-raw | IA |
+| The Atonement (Presbyterian Board, 1867) | have-raw | IA |
+| Popular Lectures on Theological Themes (Presbyterian Board, 1887) | have-raw | IA |
+| The Life of Charles Hodge (Scribner, 1880) | have-raw | IA |
+| Outlines of Theology, first edition (1860) | alternate | IA |
+
+
+## J. A. Alexander (round 10, my pick, 2026-10-03)
+
+Slugs `ja-alexander-*`. The text layers carry no Hebrew or Greek characters at all.
+
+| Work | Status | Where |
+|---|---|---|
+| The Earlier Prophecies of Isaiah (Wiley and Putnam, 1846) | have-raw | IA (identifiers in the shelf) |
+| The Later Prophecies of Isaiah (Wiley and Putnam, 1847) | have-raw | IA |
+| The Psalms Translated and Explained (Baker and Scribner, 1850), vols 1-3 | have-raw | IA |
+| The Acts of the Apostles Explained (Scribner, 1857), vols 1-2 | have-raw | IA |
+| The Gospel according to Mark Explained (Scribner, 1858) | have-raw | IA |
+| The Gospel according to Matthew Explained (Scribner, title page 1861, preface December 1860) | have-raw | IA |
+| Notes on New Testament Literature and Ecclesiastical History (Scribner, 1861) | have-raw | IA |
+| Sermons (Scribner, 1860), vols 1-2 | have-raw | IA |
+| Essays on the Primitive Church Offices (1851) | pending | the copy tried was refused |
+| Isaiah Translated and Explained, the abridgement (1851) | alternate | IA |
+
+
+## Albert Barnes (round 10, my pick, 2026-10-03)
+
+Slugs `barnes-*`. The IA text layers carry no Hebrew or Greek characters.
+
+| Work | Status | Where |
+|---|---|---|
+| Barnes' New Testament Notes (complete) | have-clean | CCEL `ntnotes` (keyed from the Baker 1949 reprint) |
+| Notes on Job (Leavitt, 1849), vols 1-2 | have-raw | IA (identifiers in the shelf) |
+| Notes on Isaiah, vol. 1 (Leavitt and Allen, 1847) and vol. 2 (catalogued 1858) | have-raw | IA |
+| Notes on Daniel (Leavitt and Allen; title page 1857) | have-raw | IA |
+| Notes on the Psalms (Harper), vols 1-2 (1871) and vol. 3 (1869) | have-raw | IA |
+| An Inquiry into the Scriptural Views of Slavery (1846) | have-raw | IA |
+| Lectures on the Evidences of Christianity in the Nineteenth Century (Harper, 1868) | have-raw | IA |
+| Miscellaneous Essays and Reviews (1855), vols 1-2 | have-raw | IA |
+| A Manual of Prayer (1838); How Shall Man Be Just with God? (1854); The Organization of the Apostolic Church (1843); Life at Threescore and Ten (1871) | have-raw | IA |
+
+
+## Moses Stuart (round 10, my pick, 2026-10-03)
+
+Slugs `mstuart-*`. Romans and Hebrews keep their Greek in the text layer; the others carry none.
+
+| Work | Status | Where |
+|---|---|---|
+| A Commentary on the Epistle to the Romans (Andover, 1832) | have-raw | IA (identifiers in the shelf) |
+| A Commentary on the Epistle to the Hebrews (Andover, 1833) | have-raw | IA |
+| A Commentary on the Apocalypse (Andover, 1845), vols 1-2 | have-raw | IA |
+| A Commentary on the Book of Daniel (Boston, 1850) | have-raw | IA |
+| A Commentary on Ecclesiastes (Putnam, 1851) | have-raw | IA |
+| A Commentary on the Book of Proverbs (Dodd, 1852) | have-raw | IA |
+| A Letter to William E. Channing on Religious Liberty (1830) | have-raw | IA |
+| A Grammar of the New Testament Dialect (1841) | excluded | its OCR carries no Greek |
+
+
+## Increase Mather (round 11, my pick, 2026-10-03)
+
+Slugs `imather-*`. 19th-century editions only; Drake's 1862-64 editions keep the long s, which the OCR reads as f.
+
+| Work | Status | Where |
+|---|---|---|
+| Remarkable Providences, ed. Offor (London: J. R. Smith, 1856) | have-raw | IA (identifiers in the shelf) |
+| Early History of New England, ed. Drake (Munsell, 1864) | have-raw | IA |
+| The History of King Philip's War, ed. Drake (Boston, 1862) | have-raw | IA |
+| Diary, 1675-76, ed. S. A. Green (Cambridge, 1900) | have-raw | IA |
+| Cases of Conscience concerning Witchcrafts (in the 1862 Wonders volume) | held back | same footing as Cotton Mather's Wonders |
+
+
+## Solomon Stoddard (round 11, my pick, 2026-10-03)
+
+Slugs `stoddard-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Safety of Appearing at the Day of Judgment (Northampton: Pomroy, catalogued 1804) | have-raw | IA (identifiers in the shelf) |
+| A Guide to Christ (D'Hart, 1827; catalogued under Increase Mather, who wrote its preface; the title page names Stoddard) | have-raw | IA |
+
+
+## John Cotton (round 11, my pick, 2026-10-03)
+
+Slugs `jcotton-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Keyes of the Kingdom of Heaven (London, 1644; Boston: Tappan and Dennet reprint, 1843) | have-raw | IA (identifier in the shelf) |
+| Other works (The Way of Life, Christ the Fountain of Life, Milk for Babes) | not shelved | only 1640s printings or modern facsimiles found |
+
+
+## Samuel Willard (round 11, my pick, 2026-10-03)
+
+Slugs `willard-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| A Compleat Body of Divinity (Boston: Green and Kneeland, catalogued 1726) | have-raw | IA (identifier in the shelf); 85.5% OCR, long s read as f |
+
+
+## John Tillotson (round 11, my pick, 2026-10-03)
+
+Slugs `tillotson-works-NN`, one per volume of the 1820 edition (London: J. F. Dove for Richard Priestley, 10 vols, with Thomas Birch's Life).
+
+| Work | Status | Where |
+|---|---|---|
+| Works, vols 4-10 | have-clean | CCEL (keyed from this 1820 edition) |
+| Works, vols 1-2 | have-raw | IA (identifiers in the shelf) |
+| Works, vol. 3 | pending | archive.org HTTP 500 |
+
+
+## Thomas Wilson, Bishop of Sodor and Man (round 11, my pick, 2026-10-03)
+
+Slugs `twilson-works-NN`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works (Library of Anglo-Catholic Theology), vols 2-7 (Oxford: J. H. Parker, 1847-63; years from the title pages) | have-raw | IA (identifiers in the shelf) |
+| Works, vol. 1: Keble's Life of Wilson (1863) | excluded | Keble's book; could go on the john-keble shelf |
+
+
+## Daniel Waterland (round 11, my pick, 2026-10-03)
+
+Slugs `waterland-works-NN`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Works of the Rev. Daniel Waterland, ed. W. Van Mildert (Oxford: Clarendon Press, 1823), vols 1-9 | have-raw | IA (identifiers in the shelf) |
+| Any further volume of that edition | not found | two Claremont scans with no volume number were not tried |
+
+
+## William Wilberforce (round 11, my pick, 2026-10-03)
+
+Slugs `wilberforce-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| A Practical View of the Prevailing Religious System of Professed Christians (1797) | have-clean | Project Gutenberg 25709 (rights line checked: not marked copyrighted) |
+
+
+## James W. Alexander (round 11, my pick, 2026-10-03)
+
+Slugs `jwalexander-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Consolation, in Discourses on Select Topics (Scribner, sixth edition; copyright 1852) | have-raw | IA (identifiers in the shelf) |
+| Discourses on Common Topics of Christian Faith and Practice (Scribner, 1858) | have-raw | IA |
+| Thoughts on Preaching (Scribner, 1869) | have-raw | IA |
+
+
+## Gardiner Spring (round 11, my pick, 2026-10-03)
+
+Slugs `gspring-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Essays on the Distinguishing Traits of Christian Character (catalogued 1822; copyright and preface 1813) | have-raw | IA (identifiers in the shelf) |
+| A Dissertation on the Rule of Faith (1844) | have-raw | IA |
+| A Pastor's Tribute to One of His Flock (Carter, 1849) | have-raw | IA |
+| First Things (Dodd, fourth edition, 1855), vols 1-2 | have-raw | IA |
+
+
+## Samuel Miller (round 11, my pick, 2026-10-03)
+
+Slugs `smiller-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Letters on Clerical Manners and Habits (Carvill, 1827) | have-raw | IA (identifiers in the shelf) |
+| An Essay on the Office of the Ruling Elder (Presbyterian Board of Publication; catalogued 1832) | have-raw | IA |
+| Infant Baptism Scriptural and Reasonable (1835) | have-raw | IA |
+| A Continuation of Letters concerning the Christian Ministry (1809) | have-raw | IA |
+| A Brief Retrospect of the Eighteenth Century (Swords, 1803), vols 1-2 | have-raw | IA |
+
+
+## Ichabod Spencer (round 11, my pick, 2026-10-03)
+
+Slugs `ispencer-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| A Pastor's Sketches, first series (Dodd; copyright 1850) | have-raw | IA (identifiers in the shelf) |
+| A Pastor's Sketches, second series (new edition; copyright 1853) | have-raw | IA |
+| Discourses on Sacramental Occasions (Dodd, 1861) | have-raw | IA |
+| Sermons, with a memoir (Presbyterian Board, catalogued 1885), vols 1-2 | have-raw | IA |
+
+
+## Robert S. Candlish (round 11, my pick, 2026-10-03)
+
+Slugs `candlish-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Fatherhood of God (Black, 1865) | have-raw | IA (identifiers in the shelf) |
+| The Atonement: its Reality, Completeness and Extent (Nelson, 1861) | have-raw | IA |
+| Life in a Risen Saviour (Philadelphia, 1858) | have-raw | IA |
+| Examination of Mr. Maurice's Theological Essays (Nisbet, 1854) | have-raw | IA |
+| Reason and Revelation (Nelson, 1864) | have-raw | IA |
+| Paul's Epistle to the Ephesians, discourses (Black, 1875) | have-raw | IA |
+
+
+## Hugh Martin (round 11, my pick, 2026-10-03)
+
+Slugs `hmartin-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Atonement in its Relations to the Covenant, the Priesthood, the Intercession (Lyon and Gemmell, 1877) | have-raw | IA (identifiers in the shelf) |
+| The Prophet Jonah (Gemmell, 1889 reissue; preface 1866) | have-raw | IA |
+| The Westminster Doctrine of the Inspiration of Scripture (Nisbet, 1890) | have-raw | IA |
+| Letters to Marcus Dods (Nisbet, 1877) | have-raw | IA |
+
+
+## George Smeaton (round 11, my pick, 2026-10-03)
+
+Slugs `smeaton-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Doctrine of the Atonement as Taught by Christ Himself (T. and T. Clark, 1868) | have-raw | IA (identifiers in the shelf) |
+| The Doctrine of the Atonement as Taught by the Apostles (T. and T. Clark, 1870) | have-raw | IA |
+| The Doctrine of the Holy Spirit (T. and T. Clark, 1882) | have-raw | IA |
+
+
+## John Kennedy of Dingwall (round 11, my pick, 2026-10-03)
+
+Slugs `jkennedy-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Days of the Fathers in Ross-shire (Toronto: J. Campbell, MDCCCLXVII) | have-raw | IA (identifiers in the shelf) |
+| The Apostle of the North: the Life of Dr. M'Donald (Nelson, 1866) | have-raw | IA |
+
+
+## Thomas M'Crie the elder (round 11, my pick, 2026-10-03)
+
+Slugs `mccrie-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, vol. 2: Life of Andrew Melville (Blackwood, 1856) | have-raw | IA (identifiers in the shelf) |
+| Works, vol. 3: The Reformation in Italy; The Reformation in Spain (1856) | have-raw | IA |
+| Works, vol. 4: Review of Tales of My Landlord; On the Unity of the Church; Sermons (1857) | have-raw | IA |
+| Lectures on the Book of Esther (Carter, 1838) | have-raw | IA |
+| Life of John Knox | excluded | the English Reformers and Knox thread owns Knox |
+
+
+## Alexander Maclaren (round 12, my pick, 2026-10-03)
+
+Slugs `maclaren-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Expositions of Holy Scripture, 14 CCEL parts (Genesis to First Timothy) | have-clean | CCEL |
+| The Expositor's Bible: The Psalms, vols 1-3; Colossians and Philemon | have-clean | CCEL |
+| The Life of David as Reflected in his Psalms | have-clean | CCEL |
+| Expositions, Second Timothy to Revelation | not shelved | CCEL lists no such parts |
+
+
+## Charles G. Finney (round 12, my pick, 2026-10-03)
+
+Slugs `finney-*`. A veto point: his theology departs from the Reformed divines.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on Revivals of Religion; Systematic Theology (1878); Lectures to Professing Christians; Sermons on Gospel Themes; Letters on Revival; The Backslider in Heart | have-clean | CCEL |
+| Power from on High | have-clean | CCEL (keyed from the Christian Literature Crusade reprint, 1944) |
+
+
+## E. M. Bounds (round 12, my pick, 2026-10-03)
+
+Slugs `bounds-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Power Through Prayer; Purpose in Prayer; The Necessity of Prayer; The Essentials of Prayer; The Reality of Prayer; The Weapon of Prayer; Prayer and Praying Men | have-clean | CCEL |
+
+
+## Hannah Whitall Smith (round 12, my pick, 2026-10-03)
+
+Slugs `hwsmith-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian's Secret of a Happy Life; The God of All Comfort; Old Testament Types and Teachings | have-clean | CCEL |
+
+
+## R. A. Torrey (round 12, my pick, 2026-10-03)
+
+Slugs `torrey-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| How to Pray; Revival Addresses (Revell, 1903) | have-clean | CCEL |
+| The Person and Work of the Holy Spirit | have-clean | CCEL (keyed from the Zondervan reprint, 1974) |
+
+
+## Horace Bushnell (round 12, my pick, 2026-10-03)
+
+Slugs `bushnell-*`. A veto point: his view of the atonement departs from the Reformed divines.
+
+| Work | Status | Where |
+|---|---|---|
+| Christian Nurture; The Vicarious Sacrifice; Sermons for the New Life; Christ and His Salvation; The Character of Jesus | have-clean | CCEL (Scribner printings 1868-76 where named) |
+
+## A. B. Bruce (round 12, my pick, 2026-10-03)
+
+Slugs `bruce-*`. Name forms are full forms only (no bare "bruce").
+
+| Work | Status | Where |
+|---|---|---|
+| The Training of the Twelve | have-clean | CCEL (print source not named) |
+| The Humiliation of Christ (2nd ed., 1889); The Kingdom of God (1889); St. Paul's Conception of Christianity (1896); The Epistle to the Hebrews (1899) | have-ocr | IA, OCR 94-99% |
+| The Parabolic Teaching of Christ | pending | IA copy returned HTTP 500 |

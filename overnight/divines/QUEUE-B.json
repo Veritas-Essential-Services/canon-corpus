@@ -228,7 +228,7 @@
    "status": "running",
    "scope": "archive.org answered 503 on 2026-10-02 for: plautuswithengli02plauuoft (Nixon Plautus vol 2, 1917), greektragictheat02pott / greektragicthea04wodhgoog (Greek Tragic Theatre 1809 vol 2, Francklin's Sophocles). Retry; if readable, identify by title page and add to roman-comedy / sophocles",
    "started": "2026-10-02T17:18:43-05:00",
-   "notes": "2026-10-02T17:18:43-05:00: plautuswithengli02plauuoft, greektragictheat02pott and greektragicthea04wodhgoog still 503 (their metadata comes back empty). Nixon vol 2 found under another id (plautusvolume00plaugoog, 1917 Heinemann title page) and fetched. Retrying the rest about hourly. 2026-10-02T19:42:16-05:00: retried. Greek Tragic Theatre vol. 2 still 503 (empty metadata). The DLI 'Pausanias Vol. I' scan (in.ernet.dli.2015.282571) has a text file under another name; it is Frazer's vol. VI (indices), mislabelled, so Frazer's translation volume is still not found. King's Tusculans: still only the 1945 revised printing. Hawkins's Claudian vol. 2 and Bennett's Loeb Horace: no new scans. 2026-10-02T20:58:45-05:00: retried; nothing recovered. 2026-10-02T21:30:12-05:00: retried. Greek Tragic Theatre: the unseen ids greektragicthea00wodhgoog and 03wodhgoog are vols. III and IV (Euripides, held), india.history.resource.90260 is vol. I; vol. II still not found. Frazer's Pausanias vol. I, Hawkins's Claudian vol. 2, Phillimore vol. 2, Bennett's Horace, Firth's Pliny: no new scans. 2026-10-03T00:45:28-05:00: retried (late; the session stalled from about 22:25 to 00:40). Found under DLI ids with non-standard file names: Bennett's Loeb Horace Odes and Epodes (in.ernet.dli.2015.98705) and Firth's Pliny Second Series (in.ernet.dli.2015.38111); both taken with reasons in _rights_checked. Greek Tragic Theatre: 01wodhgoog is vol. I, 02wodhgoog vol. V, 03pott and 04pott are Euripides volumes; vol. II still not found. Frazer's Pausanias vol. I, Hawkins's Claudian vol. 2, Phillimore vol. 2: no new scans."
+   "notes": "2026-10-02T17:18:43-05:00: plautuswithengli02plauuoft, greektragictheat02pott and greektragicthea04wodhgoog still 503 (their metadata comes back empty). Nixon vol 2 found under another id (plautusvolume00plaugoog, 1917 Heinemann title page) and fetched. Retrying the rest about hourly. 2026-10-02T19:42:16-05:00: retried. Greek Tragic Theatre vol. 2 still 503 (empty metadata). The DLI 'Pausanias Vol. I' scan (in.ernet.dli.2015.282571) has a text file under another name; it is Frazer's vol. VI (indices), mislabelled, so Frazer's translation volume is still not found. King's Tusculans: still only the 1945 revised printing. Hawkins's Claudian vol. 2 and Bennett's Loeb Horace: no new scans. 2026-10-02T20:58:45-05:00: retried; nothing recovered. 2026-10-02T21:30:12-05:00: retried. Greek Tragic Theatre: the unseen ids greektragicthea00wodhgoog and 03wodhgoog are vols. III and IV (Euripides, held), india.history.resource.90260 is vol. I; vol. II still not found. Frazer's Pausanias vol. I, Hawkins's Claudian vol. 2, Phillimore vol. 2, Bennett's Horace, Firth's Pliny: no new scans. 2026-10-03T00:45:28-05:00: retried (late; the session stalled from about 22:25 to 00:40). Found under DLI ids with non-standard file names: Bennett's Loeb Horace Odes and Epodes (in.ernet.dli.2015.98705) and Firth's Pliny Second Series (in.ernet.dli.2015.38111); both taken with reasons in _rights_checked. Greek Tragic Theatre: 01wodhgoog is vol. I, 02wodhgoog vol. V, 03pott and 04pott are Euripides volumes; vol. II still not found. Frazer's Pausanias vol. I, Hawkins's Claudian vol. 2, Phillimore vol. 2: no new scans. 2026-10-03T01:43:04-05:00: retried. Hickie's Aristophanes vol. II: the DLI text file exists under a non-standard name but is Devanagari OCR (0.000 clean), refused. A DLI 'Sophocles' by Way (in.ernet.dli.2015.220319) is Part I, third edition 1924, not the wanted Part II. Greek Tragic Theatre vol. II and Hawkins's Claudian vol. 2 still return empty metadata. Frazer's Pausanias vol. I, Phillimore vol. 2, Mitchell vol. I and Lamb's Catullus vol. II: no new scans. 2026-10-03T02:43:00-05:00: retried. Now answering metadata but still 500 on the text file: Queen Elizabeth's Boethius (queenelizabethse00eliz), the 1670 Stanley Aelian, and Sheppard's 1922 Oedipus Tyrannus (oedipustyr00soph, a new candidate for the sophocles shelf); all three retried next hour. Greek Tragic Theatre vol. II still empty metadata. Pitt-Warton vols. II and IV: only ECCO scans of the 1763 set (OCR 0.73, 0.72, refused); the 1778 Latin-and-English reissue has only vols. 1-2 outside ECCO, a different edition, not taken. Frazer's Pausanias vol. I, Hawkins's Claudian vol. 2, Phillimore vol. 2, Mitchell vol. I, Lamb's Catullus vol. II, Way's Sophocles Part II: no new scans."
   },
   {
    "id": "perseus-fetcher",
@@ -532,6 +532,222 @@
    "started": "2026-10-03T01:15:00-05:00",
    "finished": "2026-10-03T01:16:31-05:00",
    "notes": "Tytler 1793 (0.767) and Polwhele (0.68) refused; Tytler's verse is in the Banks volume"
+  },
+  {
+   "id": "seneca-morell-apuleius-taylor",
+   "status": "done",
+   "scope": "Morell's 1786 Seneca Epistles (2 vols, IA Google scans); Thomas Taylor's 1822 Apuleius; reviewer round 8 fixes",
+   "started": "2026-10-03T01:16:31-05:00",
+   "finished": "2026-10-03T01:21:32-05:00",
+   "notes": "Morell's name OCRs garbled on both title pages, so recorded under _translator_unchecked with the OCR spelling. Apuleius 01 copy excluded as a duplicate scan."
+  },
+  {
+   "id": "aeschines-livy-quintilian",
+   "status": "done",
+   "scope": "New Aeschines shelf (Adams, Perseus); Church-Brodribb Livy XXI-XXV; Watson's Quintilian (2 vols); stale pending notes refreshed",
+   "started": "2026-10-03T01:21:32-05:00",
+   "finished": "2026-10-03T01:30:02-05:00",
+   "notes": "Adams's Perseus files record a 1958 printing next to the 1919 first publication; taken with a stated reason. Watson vol. II's title page OCRs the name garbled, so unchecked with the OCR spelling."
+  },
+  {
+   "id": "perseus-census-fill",
+   "status": "done",
+   "scope": "Perseus census gaps by new translators: Smyth's Aeschylus, Norlin's Isocrates, Perrin's Plutarch Lives, Godley's Herodotus, Hicks's Diogenes Laertius, Rackham's Ethics, Frazer's Epitome",
+   "started": "2026-10-03T01:30:02-05:00",
+   "finished": "2026-10-03T01:35:59-05:00",
+   "notes": "All English-only Perseus TEI, US PD by date. Godley and Smyth are texts 'modernized by Perseus', which their rows say. Freese's Rhetoric refused: its record gives a 1947 printing."
+  },
+  {
+   "id": "perseus-check-rows",
+   "status": "done",
+   "scope": "Perseus rows the census marked 'check' that are PD on their own record: Forster's Isaeus, Miller's Cyropaedia",
+   "started": "2026-10-03T01:35:59-05:00",
+   "finished": "2026-10-03T01:38:18-05:00",
+   "notes": "The census's year for Cyropaedia (1949) is Miller's death year; the file's own record gives 1914. Forster's Isaeus is the 1927 text in a 1962 printing, taken with a stated reason. The Vinces' Crown and Embassy were already held. Census otherwise exhausted for lane B: the rest are post-1930 Loebs, modern translations or other lanes' authors."
+  },
+  {
+   "id": "older-verse-witnesses",
+   "status": "done",
+   "scope": "Second translators for Lucan, Statius, Aristophanes, Pindar and Herodotus",
+   "started": "2026-10-03T01:38:18-05:00",
+   "finished": "2026-10-03T01:45:50-05:00",
+   "notes": "Garbled title-page names (Ridley 1896, Cary, Littlebury, Lewis) recorded under _translator_unchecked with the OCR spelling."
+  },
+  {
+   "id": "roman-verse-bohn",
+   "status": "done",
+   "scope": "Martin's complete Horace, the Kennedys' and Pitt-Warton Virgil, Burges's Greek Anthology, the Bohn Martial, Kelly's Erotica",
+   "started": "2026-10-03T01:45:50-05:00",
+   "finished": "2026-10-03T01:52:39-05:00",
+   "notes": "Pitt's 1740 Aeneid and Potter's 1820 Sophocles refused for OCR (0.74-0.76). The Bohn Martial names no translator, so none is claimed."
+  },
+  {
+   "id": "review-round-9",
+   "status": "done",
+   "scope": "Reviewer round 9: later-printings class, Perseus modernized texts, rights blocks, Cary Pindar duplicate, unchecked translators",
+   "started": "2026-10-03T01:52:39-05:00",
+   "finished": "2026-10-03T01:57:43-05:00",
+   "notes": "Later printings and modernized texts are now two decisions for Adam in DIGEST-B, not decided in-lane. fetch_perseus.py refuses a modernized file without a reason and writes a rights block (licence, attribution, source_url, share_alike, redistribute_whole false) into every kept _perseus_checks finding; tests/fetch_perseus_test.py (12 checks). The rights block lives in the committed shelf; carrying it into data/books/manifest.json needs a change to structure_texts.py, which lane B does not edit."
+  },
+  {
+   "id": "nicomachus-hermetica",
+   "status": "done",
+   "scope": "D'Ooge's Nicomachus (1926); new Hermetica shelf: Chambers 1882, Everard's Pymander (1884 reprint), Mead 1906 (3 vols)",
+   "started": "2026-10-03T01:57:43-05:00",
+   "finished": "2026-10-03T02:04:04-05:00",
+   "notes": "D'Ooge's IA record has no date; the title page (Macmillan, 1926) is the evidence, in _rights_checked. A Spelman Dionysius re-add was caught as already held and reverted before commit."
+  },
+  {
+   "id": "taylor-platonists",
+   "status": "done",
+   "scope": "Stanhope's Epictetus with Simplicius; Taylor's Sallustius and Demophilus; Taylor's Orphic Hymns (new shelf)",
+   "started": "2026-10-03T02:04:04-05:00",
+   "finished": "2026-10-03T02:10:58-05:00",
+   "notes": "Refused for OCR: Taylor's Two Orations of Julian (0.696), the 1896 Alciphron (0.50, 0.32), Walter Scott's Hermetica vol. I (0.761, Greek facing)."
+  },
+  {
+   "id": "proclus-boethius",
+   "status": "done",
+   "scope": "Taylor's Proclus on the Timaeus (2 vols); Ridpath's and Colville's Boethius",
+   "started": "2026-10-03T02:10:58-05:00",
+   "finished": "2026-10-03T02:13:18-05:00",
+   "notes": "Queen Elizabeth's Englishing of Boethius (EETS 1899, queenelizabethse00eliz) answered 500 twice; added to the hourly retry."
+  },
+  {
+   "id": "seneca-bradshaw",
+   "status": "done",
+   "scope": "Bradshaw's prose Ten Tragedies of Seneca (1902)",
+   "started": "2026-10-03T02:13:18-05:00",
+   "finished": "2026-10-03T02:15:39-05:00",
+   "notes": "Swan Sonnenschein 1902; translator named on the title page; rights gate passed (pre-1930 printing)."
+  },
+  {
+   "id": "arrian-mccrindle-invasion",
+   "status": "done",
+   "scope": "McCrindle's Invasion of India (1893)",
+   "started": "2026-10-03T02:15:39-05:00",
+   "finished": "2026-10-03T02:17:07-05:00",
+   "notes": "Cornell copy, OCR 0.92; title page prints M'Crindle; Constable 1893."
+  },
+  {
+   "id": "silius-tytler",
+   "status": "done",
+   "scope": "Tytler's Punics of Silius Italicus (1828)",
+   "started": "2026-10-03T02:17:07-05:00",
+   "finished": "2026-10-03T02:18:55-05:00",
+   "notes": "New silius shelf. Tytler vol. I (Google scan, OCR 0.87); vol. II not found. Duff Loeb vol. I is a 1961 reprint of 1927, held for Adam with the later-printing class; vol. II is 1934, not taken."
+  },
+  {
+   "id": "cebes-guthrie",
+   "status": "done",
+   "scope": "Guthrie's Tablet of Cebes (1910)",
+   "started": "2026-10-03T02:18:55-05:00",
+   "finished": "2026-10-03T02:20:18-05:00",
+   "notes": "New cebes shelf; OCR 0.80; copyright line 1910. Older English versions refused on OCR (0.53-0.66)."
+  },
+  {
+   "id": "bohn-riley-mcmahon",
+   "status": "done",
+   "scope": "Two Bohn volumes found missing: Riley's Lucan (1853), M'Mahon's Metaphysics (1857)",
+   "started": "2026-10-03T02:20:18-05:00",
+   "finished": "2026-10-03T02:23:31-05:00",
+   "notes": "Found by sweeping IA for Bohn 'literally translated' volumes against the shelves. OCR 0.92 and 0.90. Also refused on OCR this hour: Stanley's Aelian (1665, 1666), Fleming's Aelian (1576), Bingham's Tactiks of Aelian (1616), Golding's Pomponius Mela (1585), all EEBO scans at 0.57-0.74; the 1670 Aelian answers 500."
+  },
+  {
+   "id": "bohn-sweep-2",
+   "status": "done",
+   "scope": "Walford's Aristotle (1853), Webster's Medea (1868), King's Julian (1888), four Prometheus Bound translations",
+   "started": "2026-10-03T02:23:31-05:00",
+   "finished": "2026-10-03T02:27:53-05:00",
+   "notes": "Continued the Bohn and single-play sweep. All OCR 0.88-0.92. Webster and Cayley Prometheus needed _identity_checked (OCR mangles the Æ in Aeschylus). King's Julian volume also holds Gregory Nazianzen's Invectives (a church father): noted for a Gregory shelf to cross-reference."
+  },
+  {
+   "id": "aeschylus-agamemnons",
+   "status": "done",
+   "scope": "Four Agamemnon translations (1831-1920)",
+   "started": "2026-10-03T02:27:53-05:00",
+   "finished": "2026-10-03T02:30:20-05:00",
+   "notes": "Harford 1831 (translator from the catalogue: title page did not OCR), Milman 1865 (with his Bacchae; cross-referenced from the euripides shelf), Paton 1907, Locke Ellis 1920 (identity checked from the title page: AESCHYLVS in Roman capitals). Greek-facing school editions and Trevelyan's 1920 Oresteia (OCR 0.51) not taken. A single-play sweep of Sophocles found only Greek school editions."
+  },
+  {
+   "id": "review-cycle-9",
+   "status": "done",
+   "scope": "Reviewer cycle 9 fixes",
+   "started": "2026-10-03T02:30:20-05:00",
+   "finished": "2026-10-03T02:35:19-05:00",
+   "notes": "1) Name collisions: maximus-tyrius ['maximus tyrius','tyrius']; valerius-maximus ['valerius maximus','valerius']; greek-romances drops bare xenophon, Xenophon of Ephesus row checks ['abrocomas','anthia']; apollonius ['apollonius rhodius','rhodius','apollonius of rhodes']; archimedes Perga row ['apollonius of perga','perga']; pythagoreans Sallustius row ['sallust on the gods','demophilus']; hermetica ['trismegistus','hermes trismegistus']. All items re-recorded, all pass, no shared forms left. 2) Arrian: label kept at 1893; the scanned title page reads MDCCCXCIII and its advertisements stop at 1892; IA's 1896 is the catalogue's. Noted in _about. 3) virgil-pitt-warton-1763-v3 title_weak is the Æ ligature (OCR '/ENEID'); title page read and recorded under _identity_checked; the flag stays as computed. 4) Plutarch: the stale _excluded note on Holland's 1603 Morals removed (the parts are held, OCR 0.90-0.92)."
+  },
+  {
+   "id": "euripides-aristophanes-single",
+   "status": "done",
+   "scope": "Single-play and early versions: Euripides (Oxford crib) and Aristophanes (five volumes)",
+   "started": "2026-10-03T02:35:19-05:00",
+   "finished": "2026-10-03T02:38:58-05:00",
+   "notes": "Euripides: anonymous Oxford literal Hecuba, Orestes, Phoenissae, Medea (Talboys and Wheeler, undated, catalogue [182-?]). Aristophanes: Walsh 1848 (Bohn), Valpy 1812 (names Cumberland and Dunster; claim checked: Cumberland), Talboys 1822 (anonymous), Billson 1882, Tyrrell 1883. All OCR 0.82-0.94."
+  },
+  {
+   "id": "horace-odes-3",
+   "status": "done",
+   "scope": "Horace: three verse Odes (Mathews 1867, Pierce 1884, Cudworth 1917); hourly retry",
+   "started": "2026-10-03T02:38:58-05:00",
+   "finished": "2026-10-03T02:43:00-05:00",
+   "notes": "OCR 0.86-0.92. Cudworth 1917 privately printed, PD by date. Retry: Queen Elizabeth's Boethius, the 1670 Aelian and Sheppard's Oedipus now show metadata but the text files still answer 500."
+  },
+  {
+   "id": "virgil-aeneids",
+   "status": "done",
+   "scope": "Four Aeneid translations (1871-1889)",
+   "started": "2026-10-03T02:43:00-05:00",
+   "finished": "2026-10-03T02:45:55-05:00",
+   "notes": "Rickards I-VI 1871, Long 1879, Crane 1888, Bowen 1889 (2nd ed.). OCR 0.89-0.92. IA's 'Books VII-XII' Ravensworth item is mislabelled (it holds Rickards I-VI); Ravensworth's half still wanted. Storr's Rivingtons volumes are Latin school editions, not taken."
+  },
+  {
+   "id": "virgil-georgics-eclogues",
+   "status": "done",
+   "scope": "Six Georgics and Eclogues translations (1808-1922)",
+   "started": "2026-10-03T02:45:55-05:00",
+   "finished": "2026-10-03T02:47:58-05:00",
+   "notes": "Sotheby 1808, Edwards 1825, Blackmore 1871, Preston 1881, Burghclere I-II 1900, Royds 1922 (Latin facing, PD by date). OCR 0.83-0.92. Isaiah Perley Smith's hexameter Eclogues (1909) answers 500: added to the retry."
+  },
+  {
+   "id": "latin-minor-poets",
+   "status": "done",
+   "scope": "New shelf: minor Latin poets and moralists (Calpurnius, Publilius, Cato's Distichs, Grattius)",
+   "started": "2026-10-03T02:47:58-05:00",
+   "finished": "2026-10-03T02:50:43-05:00",
+   "notes": "Scott's Calpurnius (1890), Lyman's Publilius Syrus (1856), Chase's Distichs of Cato (1922), Wase's Grattius (1654, old spelling, OCR 0.83; translator unchecked: long s; IA date 1654, the title page OCR reads 1664). Per-slug name forms, no shared forms."
+  },
+  {
+   "id": "presocratics",
+   "status": "done",
+   "scope": "New shelf: Presocratics (Patrick's Heraclitus 1889, Leonard's Empedocles 1908)",
+   "started": "2026-10-03T02:50:43-05:00",
+   "finished": "2026-10-03T02:52:03-05:00",
+   "notes": "OCR 0.82 and 0.79. Fairbanks 1898 refused (Greek facing, 0.73-0.77). Burnet's Early Greek Philosophy not taken (a study, not a translation)."
+  },
+  {
+   "id": "plato-church-lindsay-cope",
+   "status": "done",
+   "scope": "Plato: Church (1903 printing), Lindsay's Republic (1923), Cope's Gorgias (1864) and Phaedo (1875)",
+   "started": "2026-10-03T02:52:03-05:00",
+   "finished": "2026-10-03T02:53:45-05:00",
+   "notes": "OCR 0.88-0.95. All printings 1930 or earlier. J. Wright's Phaedrus, Lysis and Protagoras (DLI) answered 404."
+  },
+  {
+   "id": "plato-batch-2",
+   "status": "done",
+   "scope": "Plato: Wright (1888), Dyde (1899), Talks with Athenian Youths (1891), Paley's Philebus (1879)",
+   "started": "2026-10-03T02:53:45-05:00",
+   "finished": "2026-10-03T02:55:22-05:00",
+   "notes": "OCR 0.87-0.95. Mason's name is the catalogue's only (unchecked). Several Google scans (Theaetetus 1875, two Menos, Socrates 1879, More's Judgment of Socrates 1898) have no text layer on IA."
+  },
+  {
+   "id": "cicero-older",
+   "status": "done",
+   "scope": "Cicero: ten volumes of older translations (Guthrie, Heberden, Francklin, Jeans)",
+   "started": "2026-10-03T02:55:22-05:00",
+   "finished": "2026-10-03T03:00:49-05:00",
+   "notes": "Guthrie: Atticus 1752 vol. I + 1806 vols. II-III (different editions, labelled as such; vol. I of 1806 and vol. II of 1752 not found as text), Offices etc. 1755, De Oratore 1808 (2 vols.; translator named only in the volume's advertisements). Heberden's Atticus 1825 (2 vols.), Francklin 1829, Jeans 1887. OCR 0.88-0.96. A 1806 microform (epistlestoatticu00cice) with unclear volume contents not used."
   }
  ]
 }

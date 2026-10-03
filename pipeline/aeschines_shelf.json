@@ -1,0 +1,114 @@
+{
+ "_about": "Aeschines in English: Charles Darwin Adams's translation of the three speeches (Loeb, 1919), from Perseus TEI (section \"perseus\", fetched by pipeline/fetch_perseus.py). The Loeb prints the Greek facing; the Perseus file is the English alone. The TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_name_words": [
+  "aeschines"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {},
+ "perseus": {
+  "aeschines-perseus-adams-against-timarchus": [
+   "tlg0026.tlg001.perseus-eng2",
+   "Against Timarchus",
+   "Charles Darwin Adams",
+   "Translation first published 1919: US public domain. Perseus source line: Aeschines. The Speeches of Aeschines, tr. Charles Darwin Adams. London: William Heinemann; Cambridge, MA: Harvard University Press, 1919 (the record also gives 1958, the printing Perseus keyed from)."
+  ],
+  "aeschines-perseus-adams-on-the-embassy": [
+   "tlg0026.tlg002.perseus-eng2",
+   "On the Embassy",
+   "Charles Darwin Adams",
+   "Translation first published 1919: US public domain. Perseus source line: Aeschines. The Speeches of Aeschines, tr. Charles Darwin Adams. London: William Heinemann; Cambridge, MA: Harvard University Press, 1919 (the record also gives 1958, the printing Perseus keyed from)."
+  ],
+  "aeschines-perseus-adams-against-ctesiphon": [
+   "tlg0026.tlg003.perseus-eng2",
+   "Against Ctesiphon",
+   "Charles Darwin Adams",
+   "Translation first published 1919: US public domain. Perseus source line: Aeschines. The Speeches of Aeschines, tr. Charles Darwin Adams. London: William Heinemann; Cambridge, MA: Harvard University Press, 1919 (the record also gives 1958, the printing Perseus keyed from)."
+  ]
+ },
+ "_surname": [
+  "aeschines"
+ ],
+ "_translators": {
+  "aeschines-perseus-adams-against-timarchus": "Charles Darwin Adams",
+  "aeschines-perseus-adams-on-the-embassy": "Charles Darwin Adams",
+  "aeschines-perseus-adams-against-ctesiphon": "Charles Darwin Adams"
+ },
+ "_rights_checked": {
+  "aeschines-perseus-adams-against-timarchus": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930 Kept pending Adam's one ruling on the later-printings class (DIGEST-B), which also covers Freese's refused Rhetoric.",
+  "aeschines-perseus-adams-on-the-embassy": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930 Kept pending Adam's one ruling on the later-printings class (DIGEST-B), which also covers Freese's refused Rhetoric.",
+  "aeschines-perseus-adams-against-ctesiphon": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930 Kept pending Adam's one ruling on the later-printings class (DIGEST-B), which also covers Freese's refused Rhetoric."
+ },
+ "_perseus_checks": {
+  "aeschines-perseus-adams-against-timarchus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0026.tlg001.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Charles Darwin Adams",
+   "author_seen": "aeschines",
+   "source_years": [
+    1919,
+    1958
+   ],
+   "rights_override": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930 Kept pending Adam's one ruling on the later-printings class (DIGEST-B), which also covers Freese's refused Rhetoric.",
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0026/tlg001/tlg0026.tlg001.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "aeschines-perseus-adams-on-the-embassy": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0026.tlg002.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Charles Darwin Adams",
+   "author_seen": "aeschines",
+   "source_years": [
+    1919,
+    1958
+   ],
+   "rights_override": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930 Kept pending Adam's one ruling on the later-printings class (DIGEST-B), which also covers Freese's refused Rhetoric.",
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0026/tlg002/tlg0026.tlg002.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "aeschines-perseus-adams-against-ctesiphon": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0026.tlg003.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Charles Darwin Adams",
+   "author_seen": "aeschines",
+   "source_years": [
+    1919,
+    1958
+   ],
+   "rights_override": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930 Kept pending Adam's one ruling on the later-printings class (DIGEST-B), which also covers Freese's refused Rhetoric.",
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0026/tlg003/tlg0026.tlg003.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
+ },
+ "_checks": {}
+}

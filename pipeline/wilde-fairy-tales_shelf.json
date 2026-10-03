@@ -6,7 +6,7 @@
   "wilde"
  ],
  "_surname": [
-  "wilde"
+  "oscar wilde"
  ],
  "ccel": {},
  "gutenberg": {
@@ -35,7 +35,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "wilde",
+   "author_seen": "oscar wilde",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -44,7 +44,7 @@
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "wilde",
+   "author_seen": "oscar wilde",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

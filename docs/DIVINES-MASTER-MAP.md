@@ -1483,8 +1483,443 @@ Slugs `lightfoot-*`.
 | St. Paul's Epistles to the Colossians and to Philemon | have-clean | Gutenberg 50857 |
 | Essays on the Work Entitled Supernatural Religion | have-clean | Gutenberg 18191 |
 | Sermons | have-clean | Gutenberg 37527 |
-| Saint Paul's Epistle to the Galatians (London: Macmillan, 1890) | have-raw | IA (identifier in the shelf) |
-| Saint Paul's Epistle to the Philippians (London: Macmillan, 1898) | have-raw | IA |
+| Saint Paul's Epistle to the Galatians (London: Macmillan, tenth edition 1890, in a 1921 reprint; text keeps the Greek) | have-raw | IA (identifier in the shelf) |
+| Saint Paul's Epistle to the Philippians (London: Macmillan, fourth edition 1878; text keeps the Greek) | have-raw | IA |
+
+
+## B. F. Westcott (round 10, my pick, 2026-10-03)
+
+Slugs `westcott-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Gospel according to St. John: the Greek text, 2 vols (London: Murray, 1908) | have-raw | IA (identifiers in the shelf) |
+| The Gospel according to St. John: the Authorised Version (London: Murray, 1892) | have-raw | IA |
+| The Epistles of St. John: the Greek text (Macmillan, third edition 1892; text keeps the Greek) | have-raw | IA |
+| The Epistle to the Hebrews: the Greek text (Macmillan, second edition 1892; text keeps the Greek) | have-raw | IA |
+| A General Survey of the History of the Canon of the New Testament (London: Macmillan, 1896) | have-raw | IA |
+
+
+## R. C. Trench (round 10, my pick, 2026-10-03)
+
+Slugs `trench-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| On the Study of Words | have-clean | Gutenberg 6480 |
+| English Past and Present | have-clean | Gutenberg 20900 |
+| A Select Glossary of English Words Used Formerly in Senses Different from Their Present | have-clean | Gutenberg 70210 |
+| Proverbs and Their Lessons | have-clean | Gutenberg 56504 |
+| Synonyms of the New Testament (London: Kegan Paul, 1901) | have-raw | IA (identifier in the shelf) |
+| Notes on the Parables of Our Lord (New York: Appleton; catalogued 1855) | have-raw | IA |
+| Notes on the Miracles of Our Lord (New York: Appleton, 1883) | have-raw | IA |
+
+
+## John Brown of Edinburgh (round 10, my pick, 2026-10-03)
+
+Slugs `jbrowne-*` (John Brown of Haddington, his grandfather, is `brown-*` on his own shelf).
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses and Sayings of Our Lord Jesus Christ, 2 vols (New York: Carter, 1854) | have-raw | IA (identifiers in the shelf) |
+| Analytical Exposition of the Epistle to the Romans (New York: Carter, 1857) | have-raw | IA |
+| Expository Discourses on the First Epistle of Peter (New York: Carter; catalogued 1855) | have-raw | IA |
+
+
+## F. W. Robertson (round 10, my pick, 2026-10-03)
+
+Slugs `fwrobertson-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons Preached at Brighton, third series | have-clean | Gutenberg 16645 |
+| Sermons Preached at Brighton, 4 vols (London: H. S. King, 1875) | have-raw | IA (identifiers in the shelf) |
+
+
+## John Eadie (round 10, my pick, 2026-10-03)
+
+Slugs `eadie-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Commentary on the Greek Text of Ephesians (Edinburgh: T. and T. Clark, 1883) | have-raw | IA (identifier in the shelf) |
+| Commentary on the Greek Text of Galatians (Edinburgh: T. and T. Clark, 1869) | have-raw | IA |
+| Commentary on the Greek Text of Thessalonians (London: Macmillan, 1877) | pending | archive.org errors |
+| Commentary on the Greek Text of Philippians | excluded | only copy found is a 1977 reprint |
+
+
+## Henry Alford (round 10, my pick, 2026-10-03)
+
+Slugs `alford-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Greek Testament, vols 1-2 (London: Rivington; catalogued 1849-56) | have-raw | IA (identifiers in the shelf) |
+| The Greek Testament, vol. 4 (Boston: Lee and Shepard; catalogued 1874) | have-raw | IA |
+| The Greek Testament, vol. 3 (Rivingtons, 1856) | have-raw | IA (shelved after retries) |
+
+
+## John Keble (round 10, my pick, 2026-10-03)
+
+Slugs `keble-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian Year (verse) | have-clean | CCEL |
+| National Apostasy (the Assize Sermon, 1833) | have-clean | Gutenberg 49112 |
+| Sermons, Academical and Occasional (Oxford: Parker, 1847) | have-raw | IA (identifier in the shelf) |
+| Occasional Papers and Reviews (Oxford: Parker, 1877) | have-raw | IA |
+| Sermons for the Christian Year (1875-80, 11 vols) | not shelved yet | |
+
+
+## E. B. Pusey (round 10, my pick, 2026-10-03)
+
+Slugs `pusey-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Minor Prophets, with a Commentary (Oxford: Parker; catalogued 1860) | have-raw | IA (identifier and text file name in the shelf) |
+| Daniel the Prophet: Nine Lectures (Oxford: Parker, 1868) | have-raw | IA |
+| Lenten Sermons (Oxford: Parker, 1874) | have-raw | IA |
+| Nine Sermons Preached before the University of Oxford (1879) | pending | no text file |
+
+
+## H. P. Liddon (round 10, my pick, 2026-10-03)
+
+Slugs `liddon-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Divinity of Our Lord and Saviour Jesus Christ (Bampton Lectures) (London: Rivingtons, 1867) | have-raw | IA (identifiers in the shelf) |
+| Easter in St. Paul's (Longmans, 1897 printing) | have-raw | IA |
+| Advent in St. Paul's (Longmans, 1906 printing) | have-raw | IA |
+| Passiontide Sermons (Longmans, 1891) | have-raw | IA |
+| Clerical Life and Work (Longmans, 1895) | have-raw | IA |
+| Christmastide in St. Paul's | not shelved | the copy tried was refused |
+
+
+## A. A. Hodge (round 10, my pick, 2026-10-03)
+
+Slugs `aa-hodge-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Outlines of Theology, rewritten and enlarged (New York: Carter, 1879) | have-raw | IA (identifiers in the shelf) |
+| A Commentary on the Confession of Faith (1885 new edition of the 1869 book) | have-raw | IA |
+| The Atonement (Presbyterian Board, 1867) | have-raw | IA |
+| Popular Lectures on Theological Themes (Presbyterian Board, 1887) | have-raw | IA |
+| The Life of Charles Hodge (Scribner, 1880) | have-raw | IA |
+| Outlines of Theology, first edition (1860) | alternate | IA |
+
+
+## J. A. Alexander (round 10, my pick, 2026-10-03)
+
+Slugs `ja-alexander-*`. The text layers carry no Hebrew or Greek characters at all.
+
+| Work | Status | Where |
+|---|---|---|
+| The Earlier Prophecies of Isaiah (Wiley and Putnam, 1846) | have-raw | IA (identifiers in the shelf) |
+| The Later Prophecies of Isaiah (Wiley and Putnam, 1847) | have-raw | IA |
+| The Psalms Translated and Explained (Baker and Scribner, 1850), vols 1-3 | have-raw | IA |
+| The Acts of the Apostles Explained (Scribner, 1857), vols 1-2 | have-raw | IA |
+| The Gospel according to Mark Explained (Scribner, 1858) | have-raw | IA |
+| The Gospel according to Matthew Explained (Scribner, title page 1861, preface December 1860) | have-raw | IA |
+| Notes on New Testament Literature and Ecclesiastical History (Scribner, 1861) | have-raw | IA |
+| Sermons (Scribner, 1860), vols 1-2 | have-raw | IA |
+| Essays on the Primitive Church Offices (1851) | pending | the copy tried was refused |
+| Isaiah Translated and Explained, the abridgement (1851) | alternate | IA |
+
+
+## Albert Barnes (round 10, my pick, 2026-10-03)
+
+Slugs `barnes-*`. The IA text layers carry no Hebrew or Greek characters.
+
+| Work | Status | Where |
+|---|---|---|
+| Barnes' New Testament Notes (complete) | have-clean | CCEL `ntnotes` (keyed from the Baker 1949 reprint) |
+| Notes on Job (Leavitt, 1849), vols 1-2 | have-raw | IA (identifiers in the shelf) |
+| Notes on Isaiah, vol. 1 (Leavitt and Allen, 1847) and vol. 2 (catalogued 1858) | have-raw | IA |
+| Notes on Daniel (Leavitt and Allen; title page 1857) | have-raw | IA |
+| Notes on the Psalms (Harper), vols 1-2 (1871) and vol. 3 (1869) | have-raw | IA |
+| An Inquiry into the Scriptural Views of Slavery (1846) | have-raw | IA |
+| Lectures on the Evidences of Christianity in the Nineteenth Century (Harper, 1868) | have-raw | IA |
+| Miscellaneous Essays and Reviews (1855), vols 1-2 | have-raw | IA |
+| A Manual of Prayer (1838); How Shall Man Be Just with God? (1854); The Organization of the Apostolic Church (1843); Life at Threescore and Ten (1871) | have-raw | IA |
+
+
+## Moses Stuart (round 10, my pick, 2026-10-03)
+
+Slugs `mstuart-*`. Romans and Hebrews keep their Greek in the text layer; the others carry none.
+
+| Work | Status | Where |
+|---|---|---|
+| A Commentary on the Epistle to the Romans (Andover, 1832) | have-raw | IA (identifiers in the shelf) |
+| A Commentary on the Epistle to the Hebrews (Andover, 1833) | have-raw | IA |
+| A Commentary on the Apocalypse (Andover, 1845), vols 1-2 | have-raw | IA |
+| A Commentary on the Book of Daniel (Boston, 1850) | have-raw | IA |
+| A Commentary on Ecclesiastes (Putnam, 1851) | have-raw | IA |
+| A Commentary on the Book of Proverbs (Dodd, 1852) | have-raw | IA |
+| A Letter to William E. Channing on Religious Liberty (1830) | have-raw | IA |
+| A Grammar of the New Testament Dialect (1841) | excluded | its OCR carries no Greek |
+
+
+## Increase Mather (round 11, my pick, 2026-10-03)
+
+Slugs `imather-*`. 19th-century editions only; Drake's 1862-64 editions keep the long s, which the OCR reads as f.
+
+| Work | Status | Where |
+|---|---|---|
+| Remarkable Providences, ed. Offor (London: J. R. Smith, 1856) | have-raw | IA (identifiers in the shelf) |
+| Early History of New England, ed. Drake (Munsell, 1864) | have-raw | IA |
+| The History of King Philip's War, ed. Drake (Boston, 1862) | have-raw | IA |
+| Diary, 1675-76, ed. S. A. Green (Cambridge, 1900) | have-raw | IA |
+| Cases of Conscience concerning Witchcrafts (in the 1862 Wonders volume) | held back | same footing as Cotton Mather's Wonders |
+
+
+## Solomon Stoddard (round 11, my pick, 2026-10-03)
+
+Slugs `stoddard-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Safety of Appearing at the Day of Judgment (Northampton: Pomroy, catalogued 1804) | have-raw | IA (identifiers in the shelf) |
+| A Guide to Christ (D'Hart, 1827; catalogued under Increase Mather, who wrote its preface; the title page names Stoddard) | have-raw | IA |
+
+
+## John Cotton (round 11, my pick, 2026-10-03)
+
+Slugs `jcotton-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Keyes of the Kingdom of Heaven (London, 1644; Boston: Tappan and Dennet reprint, 1843) | have-raw | IA (identifier in the shelf) |
+| Other works (The Way of Life, Christ the Fountain of Life, Milk for Babes) | not shelved | only 1640s printings or modern facsimiles found |
+
+
+## Samuel Willard (round 11, my pick, 2026-10-03)
+
+Slugs `willard-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| A Compleat Body of Divinity (Boston: Green and Kneeland, catalogued 1726) | have-raw | IA (identifier in the shelf); 85.5% OCR, long s read as f |
+
+
+## John Tillotson (round 11, my pick, 2026-10-03)
+
+Slugs `tillotson-works-NN`, one per volume of the 1820 edition (London: J. F. Dove for Richard Priestley, 10 vols, with Thomas Birch's Life).
+
+| Work | Status | Where |
+|---|---|---|
+| Works, vols 4-10 | have-clean | CCEL (keyed from this 1820 edition) |
+| Works, vols 1-2 | have-raw | IA (identifiers in the shelf) |
+| Works, vol. 3 | pending | archive.org HTTP 500 |
+
+
+## Thomas Wilson, Bishop of Sodor and Man (round 11, my pick, 2026-10-03)
+
+Slugs `twilson-works-NN`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works (Library of Anglo-Catholic Theology), vols 2-7 (Oxford: J. H. Parker, 1847-63; years from the title pages) | have-raw | IA (identifiers in the shelf) |
+| Works, vol. 1: Keble's Life of Wilson (1863) | excluded | Keble's book; could go on the john-keble shelf |
+
+
+## Daniel Waterland (round 11, my pick, 2026-10-03)
+
+Slugs `waterland-works-NN`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Works of the Rev. Daniel Waterland, ed. W. Van Mildert (Oxford: Clarendon Press, 1823), vols 1-9 | have-raw | IA (identifiers in the shelf) |
+| Any further volume of that edition | not found | two Claremont scans with no volume number were not tried |
+
+
+## William Wilberforce (round 11, my pick, 2026-10-03)
+
+Slugs `wilberforce-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| A Practical View of the Prevailing Religious System of Professed Christians (1797) | have-clean | Project Gutenberg 25709 (rights line checked: not marked copyrighted) |
+
+
+## James W. Alexander (round 11, my pick, 2026-10-03)
+
+Slugs `jwalexander-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Consolation, in Discourses on Select Topics (Scribner, sixth edition; copyright 1852) | have-raw | IA (identifiers in the shelf) |
+| Discourses on Common Topics of Christian Faith and Practice (Scribner, 1858) | have-raw | IA |
+| Thoughts on Preaching (Scribner, 1869) | have-raw | IA |
+
+
+## Gardiner Spring (round 11, my pick, 2026-10-03)
+
+Slugs `gspring-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Essays on the Distinguishing Traits of Christian Character (catalogued 1822; copyright and preface 1813) | have-raw | IA (identifiers in the shelf) |
+| A Dissertation on the Rule of Faith (1844) | have-raw | IA |
+| A Pastor's Tribute to One of His Flock (Carter, 1849) | have-raw | IA |
+| First Things (Dodd, fourth edition, 1855), vols 1-2 | have-raw | IA |
+
+
+## Samuel Miller (round 11, my pick, 2026-10-03)
+
+Slugs `smiller-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Letters on Clerical Manners and Habits (Carvill, 1827) | have-raw | IA (identifiers in the shelf) |
+| An Essay on the Office of the Ruling Elder (Presbyterian Board of Publication; catalogued 1832) | have-raw | IA |
+| Infant Baptism Scriptural and Reasonable (1835) | have-raw | IA |
+| A Continuation of Letters concerning the Christian Ministry (1809) | have-raw | IA |
+| A Brief Retrospect of the Eighteenth Century (Swords, 1803), vols 1-2 | have-raw | IA |
+
+
+## Ichabod Spencer (round 11, my pick, 2026-10-03)
+
+Slugs `ispencer-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| A Pastor's Sketches, first series (Dodd; copyright 1850) | have-raw | IA (identifiers in the shelf) |
+| A Pastor's Sketches, second series (new edition; copyright 1853) | have-raw | IA |
+| Discourses on Sacramental Occasions (Dodd, 1861) | have-raw | IA |
+| Sermons, with a memoir (Presbyterian Board, catalogued 1885), vols 1-2 | have-raw | IA |
+
+
+## Robert S. Candlish (round 11, my pick, 2026-10-03)
+
+Slugs `candlish-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Fatherhood of God (Black, 1865) | have-raw | IA (identifiers in the shelf) |
+| The Atonement: its Reality, Completeness and Extent (Nelson, 1861) | have-raw | IA |
+| Life in a Risen Saviour (Philadelphia, 1858) | have-raw | IA |
+| Examination of Mr. Maurice's Theological Essays (Nisbet, 1854) | have-raw | IA |
+| Reason and Revelation (Nelson, 1864) | have-raw | IA |
+| Paul's Epistle to the Ephesians, discourses (Black, 1875) | have-raw | IA |
+
+
+## Hugh Martin (round 11, my pick, 2026-10-03)
+
+Slugs `hmartin-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Atonement in its Relations to the Covenant, the Priesthood, the Intercession (Lyon and Gemmell, 1877) | have-raw | IA (identifiers in the shelf) |
+| The Prophet Jonah (Gemmell, 1889 reissue; preface 1866) | have-raw | IA |
+| The Westminster Doctrine of the Inspiration of Scripture (Nisbet, 1890) | have-raw | IA |
+| Letters to Marcus Dods (Nisbet, 1877) | have-raw | IA |
+
+
+## George Smeaton (round 11, my pick, 2026-10-03)
+
+Slugs `smeaton-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Doctrine of the Atonement as Taught by Christ Himself (T. and T. Clark, 1868) | have-raw | IA (identifiers in the shelf) |
+| The Doctrine of the Atonement as Taught by the Apostles (T. and T. Clark, 1870) | have-raw | IA |
+| The Doctrine of the Holy Spirit (T. and T. Clark, 1882) | have-raw | IA |
+
+
+## John Kennedy of Dingwall (round 11, my pick, 2026-10-03)
+
+Slugs `jkennedy-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Days of the Fathers in Ross-shire (Toronto: J. Campbell, MDCCCLXVII) | have-raw | IA (identifiers in the shelf) |
+| The Apostle of the North: the Life of Dr. M'Donald (Nelson, 1866) | have-raw | IA |
+
+
+## Thomas M'Crie the elder (round 11, my pick, 2026-10-03)
+
+Slugs `mccrie-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, vol. 2: Life of Andrew Melville (Blackwood, 1856) | have-raw | IA (identifiers in the shelf) |
+| Works, vol. 3: The Reformation in Italy; The Reformation in Spain (1856) | have-raw | IA |
+| Works, vol. 4: Review of Tales of My Landlord; On the Unity of the Church; Sermons (1857) | have-raw | IA |
+| Lectures on the Book of Esther (Carter, 1838) | have-raw | IA |
+| Life of John Knox | excluded | the English Reformers and Knox thread owns Knox |
+
+
+## Alexander Maclaren (round 12, my pick, 2026-10-03)
+
+Slugs `maclaren-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Expositions of Holy Scripture, 14 CCEL parts (Genesis to First Timothy) | have-clean | CCEL |
+| The Expositor's Bible: The Psalms, vols 1-3; Colossians and Philemon | have-clean | CCEL |
+| The Life of David as Reflected in his Psalms | have-clean | CCEL |
+| Expositions, Second Timothy to Revelation | not shelved | CCEL lists no such parts |
+
+
+## Charles G. Finney (round 12, my pick, 2026-10-03)
+
+Slugs `finney-*`. A veto point: his theology departs from the Reformed divines.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on Revivals of Religion; Systematic Theology (1878); Lectures to Professing Christians; Sermons on Gospel Themes; Letters on Revival; The Backslider in Heart | have-clean | CCEL |
+| Power from on High | have-clean | CCEL (keyed from the Christian Literature Crusade reprint, 1944) |
+
+
+## E. M. Bounds (round 12, my pick, 2026-10-03)
+
+Slugs `bounds-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Power Through Prayer; Purpose in Prayer; The Necessity of Prayer; The Essentials of Prayer; The Reality of Prayer; The Weapon of Prayer; Prayer and Praying Men | have-clean | CCEL |
+
+
+## Hannah Whitall Smith (round 12, my pick, 2026-10-03)
+
+Slugs `hwsmith-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian's Secret of a Happy Life; The God of All Comfort; Old Testament Types and Teachings | have-clean | CCEL |
+
+
+## R. A. Torrey (round 12, my pick, 2026-10-03)
+
+Slugs `torrey-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| How to Pray; Revival Addresses (Revell, 1903) | have-clean | CCEL |
+| The Person and Work of the Holy Spirit | have-clean | CCEL (keyed from the Zondervan reprint, 1974) |
+
+
+## Horace Bushnell (round 12, my pick, 2026-10-03)
+
+Slugs `bushnell-*`. A veto point: his view of the atonement departs from the Reformed divines.
+
+| Work | Status | Where |
+|---|---|---|
+| Christian Nurture; The Vicarious Sacrifice; Sermons for the New Life; Christ and His Salvation; The Character of Jesus | have-clean | CCEL (Scribner printings 1868-76 where named) |
+
+## A. B. Bruce (round 12, my pick, 2026-10-03)
+
+Slugs `bruce-*`. Name forms are full forms only (no bare "bruce").
+
+| Work | Status | Where |
+|---|---|---|
+| The Training of the Twelve | have-clean | CCEL (print source not named) |
+| The Humiliation of Christ (2nd ed., 1889); The Kingdom of God (1889); St. Paul's Conception of Christianity (1896); The Epistle to the Hebrews (1899) | have-ocr | IA, OCR 94-99% |
+| The Parabolic Teaching of Christ | pending | IA copy returned HTTP 500 |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
@@ -1581,6 +2016,14 @@ Shelf: `pipeline/plato_shelf.json`. Jowett, *The Dialogues of Plato*, 3rd ed. (O
 | The Platonic Dialogues for English Readers, vol. II: Antisophist Dialogues (Macmillan, 1860; abridged in parts) | William Whewell | `plato-whewell-v2-1860` | have-raw (IA `platonicdialogu04whewgoog`) |
 | The Platonic Dialogues for English Readers, vol. III: The Republic and the Timaeus (Macmillan, 1861; abridged in parts) | William Whewell | `plato-whewell-v3-1861` | have-raw (IA `platonicdialogu05whewgoog`) |
 | The Republic of Plato in Ten Books, translated from the Greek (Everyman's Library; first issue of this edition 1906, this scan the 1919 reprint; Spens's translation first published 1763) | Harry Spens | `plato-spens-republic-everyman` | have-raw (IA `republicofplatoi00platuoft`) |
+| The Trial and Death of Socrates: the Euthyphron, Apology, Crito and Phaedo (Golden Treasury, 2nd ed. 1886; 1903 printing) | F. J. Church | `plato-church-trial-death-1903` | have-raw (IA `trialdeathofsocr00platiala`) |
+| The Republic of Plato, third edition with revised text (Everyman; Dent, 1923) | A. D. Lindsay | `plato-lindsay-republic-1923` | have-raw (IA `therepublicofpla00platuoft`) |
+| Plato's Gorgias, literally translated, with an introductory essay (Deighton, Bell, 1864) | E. M. Cope | `plato-cope-gorgias-1864` | have-raw (IA `bub_gb_H50hsgIss64C`) |
+| Plato's Phaedo, literally translated (Cambridge University Press, 1875; published after the translator's death) | E. M. Cope | `plato-cope-phaedo-1875` | have-raw (IA `phaedoliterally00platuoft`) |
+| The Phaedrus, Lysis, and Protagoras of Plato, a new and literal translation (Macmillan, 1888) | J. Wright | `plato-wright-phaedrus-lysis-protagoras-1888` | have-raw (IA `phaedruslysisand02platuoft`) |
+| The Theaetetus of Plato, a translation with an introduction (Maclehose, 1899) | S. W. Dyde | `plato-dyde-theaetetus-1899` | have-raw (IA `theaetetustransl00plat`) |
+| Talks with Athenian Youths: translations from the Charmides, Lysis, Laches, Euthydemus and Theaetetus (Scribner, 1891) | Ellen Francis Mason (from the catalogue; the volume names no translator) | `plato-mason-talks-1891` | have-raw (IA `talkswithathenia00platrich`) |
+| The Philebus of Plato, translated, with brief explanatory notes (George Bell, 1879) | F. A. Paley | `plato-paley-philebus-1879` | have-raw (IA `philebusplato00platuoft`) |
 
 Pending (wishlist):
 
@@ -1619,7 +2062,7 @@ Shelf: `pipeline/aristotle_shelf.json`. The Oxford translation, ed. J. A. Smith 
 | The Athenian Constitution | Sir Frederic G. Kenyon (1891) | `aristotle-kenyon-athenian-constitution-pg` | have (PG 26095) |
 | Aristotle's History of Animals, in ten books (Bohn, 1862) | Richard Cresswell | `aristotle-cresswell-history-of-animals-pg` | have (PG 59058) |
 | The Categories (the Oxford translation, also in vol. I above) | E. M. Edghill | `aristotle-edghill-categories-pg` | held elsewhere: PG 2412 is Edghill's Categories, the same Oxford translation held in aristotle-ross-v01 (Works vol. I, 1928) |
-| The Nicomachean Ethics of Aristotle (Everyman's Library, introduction by J. A. Smith) | unnamed in the Gutenberg file | `aristotle-everyman-ethics-pg` | have (PG 8438) |
+| The Nicomachean Ethics of Aristotle (Everyman's Library, introduction by J. A. Smith) | unnamed in the Gutenberg file | `aristotle-everyman-ethics-pg` | held (PG 8438 is aristotle-ethics on the Adler shelf; not refetched) |
 | The Nicomachean Ethics of Aristotle, translated with notes, analytical introduction and questions (Bohn's Classical Library; London: Henry G. Bohn, 1850) | R. W. Browne | `aristotle-browne-ethics-1850` | have-raw (IA `nicomacheanethi12arisgoog`) |
 | Aristotle's Treatise on Rhetoric, literally translated, with Hobbes's analysis; and The Poetic of Aristotle, literally translated (Bohn's Classical Library; London: Henry G. Bohn, new edition, 1857) | anonymous literal translation of the Rhetoric, edited by Theodore Alois Buckley; the Poetic by Theodore Buckley | `aristotle-bohn-rhetoric-poetic-1857` | have-raw (IA `treatiseonrheto00aris`) |
 | The Organon, or Logical Treatises, of Aristotle, with the Introduction of Porphyry, literally translated, vol. I (Bohn; London: Henry G. Bohn, 1853) | Octavius Freire Owen | `aristotle-owen-organon-1853-v1` | have-raw (IA `organonorlogicalt01aris`) |
@@ -1629,6 +2072,9 @@ Shelf: `pipeline/aristotle_shelf.json`. The Oxford translation, ed. J. A. Smith 
 | The Rhetoric of Aristotle, translated with an analysis and critical notes (London: Macmillan, 1886) | J. E. C. Welldon | `aristotle-welldon-rhetoric-1886` | have-raw (IA `rhetoricofaristo00aristot`) |
 | The Politics of Aristotle, translated with an analysis and critical notes (London: Macmillan, 1901 printing; first published 1883) | J. E. C. Welldon | `aristotle-welldon-politics-1901` | have-raw (IA `bwb_KU-767-069`) |
 | The Nicomachean Ethics of Aristotle (London: C. Kegan Paul, 1881) | F. H. Peters | `aristotle-peters-ethics-1881` | have-raw (IA `nicomacheanethi00petegoog`) |
+| Nicomachean Ethics | Harris Rackham (1926) | `aristotle-perseus-rackham-nicomachean-ethics` | have (Perseus TEI `tlg0086.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Metaphysics of Aristotle, literally translated from the Greek (Bohn, 1857) | John H. M'Mahon | `aristotle-mcmahon-metaphysics-1857` | have-raw (IA `metaphysicsaris01arisgoog`) |
+| The Politics and Economics, with Gillies's introductory essay and life (Bohn, 1853) | Edward Walford | `aristotle-walford-politics-economics-1853` | have-raw (IA `politicseconomic00aris`) |
 
 Pending (wishlist): genuine pre-1931 separate issues of Meteorologica (1923) and Parva Naturalia (1908), which are PD now (no scan found yet; De Mundo, 1914, is held above); R. D. Hicks's De Anima (1907, Greek facing); a clean proofread Nicomachean Ethics (Ross) from Gutenberg if one appears.
 
@@ -1714,6 +2160,20 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | The First Four Books of the Aeneid of Virgil, in English heroic verse (1582; Edinburgh reprint, 1836) | Richard Stanyhurst | `virgil-stanyhurst-1836` | have-raw (IA `firstfourbooksn00maidgoog`) |
 | The Works of Virgil, literally translated into English prose by Davidson, new edition revised by Theodore Alois Buckley (New York: Harper, 1874) | Joseph Davidson, revised by Theodore Alois Buckley | `virgil-davidson-buckley-1874` | have-raw (IA `worksvirgil03virggoog`) |
 | The Works of Virgil rendered into English Prose (Globe Edition; Macmillan, 1871) | James Lonsdale and Samuel Lee | `virgil-lonsdale-lee-1871` | have-raw (IA `worksofvirgilren00virg`) |
+| The Works of Virgil, translated, vol. I (London, MDCCCXLIX): first four Pastorals, Georgics and first four Aeneids by Rann Kennedy; the rest by Charles Rann Kennedy | Rann Kennedy and Charles Rann Kennedy | `virgil-kennedy-1849-v1` | have-raw (IA `worksofvirgiltra0001char`) |
+| The Works of Virgil, translated, vol. II (London, MDCCCXLIX) | Rann Kennedy and Charles Rann Kennedy | `virgil-kennedy-1849-v2` | have-raw (IA `worksofvirgiltra0002char`) |
+| The Works of Virgil in English Verse, vol. I of four: the Eclogues and Georgics by Joseph Warton, with the Life and two essays (London: R. and J. Dodsley, MDCCLXIII) | Joseph Warton | `virgil-pitt-warton-1763-v1` | have-raw (IA `worksvirgilinen01attegoog`) |
+| The Works of Virgil in English Verse, vol. III of four: the Aeneid, Books V-VIII, by Christopher Pitt, with Warburton's dissertation on the sixth book (Dodsley, MDCCLXIII) | Christopher Pitt | `virgil-pitt-warton-1763-v3` | have-raw (IA `worksvirgilinen00attegoog`) |
+| Virgil's Aeneid, translated literally, line by line, into English dactylic hexameter (Baker and Taylor, 1888) | Oliver Crane | `virgil-crane-aeneid-1888` | have-raw (IA `virgilsneid00virgrich`) |
+| The Aeneid of Virgil, translated into English (blank verse; Lockwood, Brooks, 1879) | John D. Long | `virgil-long-aeneid-1879` | have-raw (IA `neidofvirgil00vir`) |
+| The Aeneid of Virgil, Books I-VI, translated in English blank verse (Blackwood, 1871) | G. K. Rickards | `virgil-rickards-aeneid-1-6-1871` | have-raw (IA `neidvirgilbooks00rickgoog`) |
+| Virgil in English Verse: Eclogues and Aeneid I-VI, second edition (Murray, 1889) | Charles Bowen | `virgil-bowen-1889` | have-raw (IA `virgilinenglishv00virguoft`) |
+| The Georgics of Virgil (Middletown, Conn., for I. Riley, New York, 1808) | William Sotheby | `virgil-sotheby-georgics-1808` | have-raw (IA `georgicsofvirgil00virg`) |
+| The Georgics of Virgil (Sampson Low, 1871) | R. D. Blackmore | `virgil-blackmore-georgics-1871` | have-raw (IA `virgilgeorgics00virgrich`) |
+| The Georgics of Vergil, translated into English verse (Osgood, 1881) | Harriet Waters Preston | `virgil-preston-georgics-1881` | have-raw (IA `georgicageorgics00virg`) |
+| The Georgics of Virgil, Books I, II, translated into English verse (Murray, 1900) | Lord Burghclere | `virgil-burghclere-georgics-1-2-1900` | have-raw (IA `georgicsbooks0102virguoft`) |
+| The Bucolics of Virgil, literally translated into English prose from the text of Heyne, with a freer translation and notes (1825) | T. W. C. Edwards | `virgil-edwards-bucolics-1825` | have-raw (IA `publiivirgiliima00virg`) |
+| The Eclogues, Bucolics, or Pastorals of Virgil, a revised translation with text and notes (Blackwell, 1922) | Thomas Fletcher Royds | `virgil-royds-eclogues-1922` | have-raw (IA `ecloguesbucolics00virguoft`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
@@ -1785,6 +2245,21 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | The Oresteia of Aeschylus translated into English Prose (London, 18 Bury Street, 1893) | Lewis Campbell | `aeschylus-campbell-oresteia-prose-1893` | have-raw (IA `oresteiaofaeschy00aescrich`) |
 | The Plays of Aeschylus translated from a revised text (prose; London: George Bell, 1909) | Walter Headlam and C. E. S. Headlam | `aeschylus-headlam-plays-1909` | have-raw (IA `aeschylusplays00aesciala`) |
 | The Oresteia of Aeschylus translated and explained (London: George Allen, 1900) | George C. W. Warr | `aeschylus-warr-oresteia-1900` | have-raw (IA `oresteiatranslat00aescuoft`) |
+| Agamemnon | Herbert Weir Smyth (1926) | `aeschylus-perseus-smyth-agamemnon` | have (Perseus TEI `tlg0085.tlg005.perseus-eng3`; markup CC BY-SA 4.0) |
+| Eumenides | Herbert Weir Smyth (1926) | `aeschylus-perseus-smyth-eumenides` | have (Perseus TEI `tlg0085.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
+| Libation Bearers | Herbert Weir Smyth (1926) | `aeschylus-perseus-smyth-libation-bearers` | have (Perseus TEI `tlg0085.tlg006.perseus-eng2`; markup CC BY-SA 4.0) |
+| Persians | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-persians` | have (Perseus TEI `tlg0085.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+| Prometheus Bound | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-prometheus-bound` | have (Perseus TEI `tlg0085.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| Seven Against Thebes | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-seven-against-thebes` | have (Perseus TEI `tlg0085.tlg004.perseus-eng2`; markup CC BY-SA 4.0) |
+| Suppliant Maidens | Herbert Weir Smyth (1922) | `aeschylus-perseus-smyth-suppliant-maidens` | have (Perseus TEI `tlg0085.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Prometheus Bound, literally translated into English verse, ed. Thomas Webster (Macmillan, 1866) | Augusta Webster | `aeschylus-webster-prometheus-1866` | have-raw (IA `prometheusboundo00aescrich`) |
+| The Prometheus Bound, translated in the original metres (Hotten, 1867) | C. B. Cayley | `aeschylus-cayley-prometheus-1867` | have-raw (IA `prometheusboundo00aesc_0`) |
+| The Prometheus Bound, translated with introduction and notes (Houghton, Mifflin, 1899) | Paul Elmer More | `aeschylus-more-prometheus-1899` | have-raw (IA `prometheusboundo00aesc_1`) |
+| The Prometheus Bound, rendered into English verse (David Nutt, 1902) | Edwyn Robert Bevan | `aeschylus-bevan-prometheus-1902` | have-raw (IA `prometheusboundoaesc00rich`) |
+| The Agamemnon of Aeschylus, a new translation with a preliminary dissertation (Murray, 1831) | John S. Harford | `aeschylus-harford-agamemnon-1831` | have-raw (IA `agamemnonofaes00aesc`) |
+| The Agamemnon of Aeschylus and the Bacchanals of Euripides, with passages from the lyric and later poets of Greece (Murray, 1865) | Henry Hart Milman | `aeschylus-milman-agamemnon-1865` | have-raw (IA `agamemnonofaesch00aescuoft`) |
+| The Agamemnon of Aeschylus, rendered into English verse (Nutt, 1907) | W. R. Paton | `aeschylus-paton-agamemnon-1907` | have-raw (IA `agamemnonofaesch01aesc`) |
+| Agamemnon, after the Greek of Aeschylus (Selwyn and Blount, 1920) | Locke Ellis | `aeschylus-ellis-agamemnon-1920` | have-raw (IA `agamemnonaftergr00aesciala`) |
 
 Pending (wishlist): none here: Smyth's Loeb (1922-26) is on PR #7 as Perseus TEI.
 
@@ -1818,6 +2293,8 @@ Shelf: `pipeline/euripides_shelf.json`. Translator per title; complete in Way (v
 | Euripides, translated by R. Potter, vol. 2 (Valpy, 1832) | Robert Potter | `euripides-potter-v2` | have-raw (IA `euripides01pottgoog`) |
 | Euripides, translated by R. Potter, vol. 3 (Valpy, 1832) | Robert Potter | `euripides-potter-v3` | have-raw (IA `euripides02pottgoog`) |
 | The Tragedies of Euripides, vol. 2 (prose, Bohn, 1850) | Theodore Alois Buckley | `euripides-buckley-v2` | have-raw (IA `tragedieseuripi01eurigoog`) |
+| The Medea of Euripides, literally translated into English verse (Macmillan, 1868) | Augusta Webster | `euripides-webster-medea-1868` | have-raw (IA `medeaofeuripides00euririch`) |
+| The Hecuba, Orestes, Phoenician Virgins, and Medea, literally translated (Oxford: Talboys and Wheeler; undated, 3rd ed.) | unnamed | `euripides-oxford-literal-hecuba-etc` | have-raw (IA `hecubaorestespho00euriuoft`) |
 
 Pending (wishlist): Way's 1912 Loeb (Greek facing). Potter's Euripides is held complete in the 1832 Valpy reprint (3 vols.). Wodhull's Euripides is held complete from the 1809 Greek Tragic Theatre (vols. 3-5).
 
@@ -1866,6 +2343,13 @@ Shelf: `pipeline/aristophanes_shelf.json`. Translator per title; complete in the
 | Aristophanes: a Metrical Version of the Acharnians, the Knights and the Birds (Morley's Universal Library; 2nd ed., Routledge, 1887) | John Hookham Frere | `aristophanes-frere-morley` | have-raw (IA `aristophanesmetr00arisiala`) |
 | The Comedies of Aristophanes, a new and literal translation, vol. I: Acharnians, Knights, Clouds, Wasps, Peace, Birds (Bohn; London: George Bell, 1887) | William James Hickie | `aristophanes-hickie-1887-v1` | have-raw (IA `comediesofaristo0001will`) |
 | The Comedies of Aristophanes, vol. II: The Clouds, The Wasps (London: John Murray, 1822) | Thomas Mitchell | `aristophanes-mitchell-1822-v2` | have-raw (IA `comediesaristop00mitcgoog`) |
+| The Comedies of Aristophanes, translated into familiar blank verse, vol. I (Oxford: D. A. Talboys; IA records 1837) | C. A. Wheelwright | `aristophanes-wheelwright-1837-v1` | have-raw (IA `comediesaristop01arisgoog`) |
+| The Comedies of Aristophanes, translated into familiar blank verse, vol. II (Oxford: D. A. Talboys; IA records 1837) | C. A. Wheelwright | `aristophanes-wheelwright-1837-v2` | have-raw (IA `comediesofaristo02aris`) |
+| The Acharnians, Knights, and Clouds, translated into corresponding English metres (Bohn, 1848) | Benjamin Dann Walsh | `aristophanes-walsh-1848` | have-raw (IA `acharniansknight00aris`) |
+| Comedies of Aristophanes: the Clouds, Plutus, the Frogs, the Birds, translated into English, with notes (Valpy for Lackington, Allen, 1812) | Richard Cumberland and others (the volume names Cumberland and Dunster) | `aristophanes-valpy-1812` | have-raw (IA `comediesofaristo00aris`) |
+| The Comedies of Plutus and the Frogs, literally translated into English prose (Oxford: Talboys, 1822) | unnamed (an Oxford literal crib) | `aristophanes-talboys-plutus-frogs-1822` | have-raw (IA `comediesplutusa00arisgoog`) |
+| The Acharnians of Aristophanes, translated into English verse (Kegan Paul, Trench, 1882) | Charles James Billson | `aristophanes-billson-acharnians-1882` | have-raw (IA `acharniansofaris00arisrich`) |
+| The Acharnians of Aristophanes, translated into English verse (Dublin University Press Series, 1883) | Robert Yelverton Tyrrell | `aristophanes-tyrrell-acharnians-1883` | have-raw (IA `aristophanesach00arisrich`) |
 
 Pending (wishlist): B. B. Rogers's complete verse Aristophanes (1902-16; Greek facing). Frere's Frogs (the fourth play of his 1840 set) is not in the 1887 Morley volume held above. Hickie's Bohn vol. II (no IA text file) and Mitchell's vol. I (1820; no scan found).
 
@@ -1890,6 +2374,7 @@ Shelf: `pipeline/herodotus_shelf.json`. Macaulay complete across two shelves (vo
 | Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. II | William Beloe | `herodotus-beloe-1821-v2` | have-raw (IA `india.history.resource.86417`) |
 | Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. III | William Beloe | `herodotus-beloe-1821-v3` | have-raw (IA `india.history.resource.86418`) |
 | Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. IV | William Beloe | `herodotus-beloe-1821-v4` | have-raw (IA `india.history.resource.86419`) |
+| Histories | A. D. Godley (1920-25; modernized by Perseus) | `herodotus-perseus-godley-histories` | have (Perseus TEI `tlg0016.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): none here: Godley's Loeb (1920-25) is on PR #7 as Perseus TEI.
 
@@ -1954,6 +2439,7 @@ Shelf: `pipeline/xenophon_shelf.json`. Dakyns's complete Works of Xenophon (1890
 | On the Art of Horsemanship | Edgar Carew Marchant (Loeb, 1925) | `xenophon-perseus-marchant-on-the-art-of-horsemanship` | have (Perseus TEI `tlg0032.tlg013.perseus-eng2`; markup CC BY-SA 4.0) |
 | On Hunting | Edgar Carew Marchant (Loeb, 1925) | `xenophon-perseus-marchant-on-hunting` | have (Perseus TEI `tlg0032.tlg014.perseus-eng2`; markup CC BY-SA 4.0) |
 | The Minor Works of Xenophon: Memoirs of Socrates, The Banquet, Hiero, Economics, translated from the Greek by several hands (London: Walker and others, 1813) | several hands: the Banquet by James Welwood, the Economics by R. Bradley; the Memoirs and Hiero unnamed in the volume | `xenophon-several-hands-minor-works-1813` | have-raw (IA `minorworksofxeno00xenouoft`) |
+| Cyropaedia | Walter Miller (Loeb 1914) | `xenophon-perseus-miller-cyropaedia` | have (Perseus TEI `tlg0032.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): none here. Marchant's and Todd's Loebs (1923-25) are held above as Perseus TEI; Brownson's Hellenica and Anabasis and Miller's Cyropaedia are on PR #7 as Perseus TEI.
 
@@ -1986,6 +2472,7 @@ Shelf: `pipeline/arrian_shelf.json`. Chinnock's Anabasis (1884) and Dansey's On 
 | The Commerce and Navigation of the Erythraean Sea, with Arrian's Account of the Voyage of Nearkhos (Indica, chs. 18-43; 1879) | J. W. McCrindle | `arrian-mccrindle-nearkhos` | have (PG 55054) |
 | Ancient India as described by Megasthenes and Arrian: the fragments of Megasthenes and the first part of Arrian's Indika (chs. 1-17; 1877) | J. W. McCrindle | `arrian-mccrindle-ancient-india` | have-raw (IA `b29352290`) |
 | Arrian's History of Alexander's Expedition, with notes (London, 1729), vol. 1 (Books I-IV) | John Rooke | `arrian-rooke-1729-v1` | have-raw (IA `arrianshistorya00rookgoog`) |
+| The Invasion of India by Alexander the Great (Arrian, Curtius, Diodoros, Plutarch, Justin; Constable, 1893) | J. W. McCrindle | `arrian-mccrindle-invasion` | have-raw (IA `cu31924028252546`) |
 
 Pending (wishlist): Chinnock's Indica (Bohn, 1893) as a second witness; vol. 2 of Rooke's 1729 Arrian (vol. 1 is held above; no scan of vol. 2 found). The whole Indica is held in McCrindle's two books above (chs. 1-17 in Ancient India, 18-43 in the Voyage of Nearkhos).
 
@@ -2115,6 +2602,72 @@ Shelf: `pipeline/plutarch_shelf.json`. Translator per title. Lives complete thre
 | Of Those Sentiments Concerning Nature with which Philosophers were Delighted | John Dowell | `plutarch-perseus-dowell-of-those-sentiments-concerning-nature-wi` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Philosophie, commonlie called, The Morals (London, 1603), first part of the scan | Philemon Holland | `plutarch-holland-morals-1603-part1` | have-raw (IA `plutarchhollandmorals01`) |
 | The Philosophie, commonlie called, The Morals (London, 1603), second part of the scan (from the Symposiaques) | Philemon Holland | `plutarch-holland-morals-1603-part2` | have-raw (IA `plutarchhollandmorals02`) |
+| Aemilius Paulus | Bernadotte Perrin (1918) | `plutarch-perseus-perrin-aemilius-paulus` | have (Perseus TEI `tlg0007.tlg019.perseus-eng2`; markup CC BY-SA 4.0) |
+| Agesilaus | Bernadotte Perrin (1917) | `plutarch-perseus-perrin-agesilaus` | have (Perseus TEI `tlg0007.tlg044.perseus-eng2`; markup CC BY-SA 4.0) |
+| Agis and Cleomenes | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-agis-and-cleomenes` | have (Perseus TEI `tlg0007.tlg051.perseus-eng1`; markup CC BY-SA 4.0) |
+| Alcibiades | Bernadotte Perrin (1916) | `plutarch-perseus-perrin-alcibiades` | have (Perseus TEI `tlg0007.tlg015.perseus-eng2`; markup CC BY-SA 4.0) |
+| Alexander | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-alexander` | have (Perseus TEI `tlg0007.tlg047.perseus-eng2`; markup CC BY-SA 4.0) |
+| Antony | Bernadotte Perrin (1920) | `plutarch-perseus-perrin-antony` | have (Perseus TEI `tlg0007.tlg058.perseus-eng2`; markup CC BY-SA 4.0) |
+| Aratus | Bernadotte Perrin (1926) | `plutarch-perseus-perrin-aratus` | have (Perseus TEI `tlg0007.tlg063.perseus-eng2`; markup CC BY-SA 4.0) |
+| Aristides | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-aristides` | have (Perseus TEI `tlg0007.tlg024.perseus-eng2`; markup CC BY-SA 4.0) |
+| Artaxerxes | Bernadotte Perrin (1926) | `plutarch-perseus-perrin-artaxerxes` | have (Perseus TEI `tlg0007.tlg064.perseus-eng2`; markup CC BY-SA 4.0) |
+| Brutus | Bernadotte Perrin (1918) | `plutarch-perseus-perrin-brutus` | have (Perseus TEI `tlg0007.tlg061.perseus-eng2`; markup CC BY-SA 4.0) |
+| Caesar | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-caesar` | have (Perseus TEI `tlg0007.tlg048.perseus-eng2`; markup CC BY-SA 4.0) |
+| Caius Marcius Coriolanus | Bernadotte Perrin (1916) | `plutarch-perseus-perrin-caius-marcius-coriolanus` | have (Perseus TEI `tlg0007.tlg016.perseus-eng2`; markup CC BY-SA 4.0) |
+| Caius Marius | Bernadotte Perrin (1920) | `plutarch-perseus-perrin-caius-marius` | have (Perseus TEI `tlg0007.tlg031.perseus-eng2`; markup CC BY-SA 4.0) |
+| Camillus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-camillus` | have (Perseus TEI `tlg0007.tlg011.perseus-eng2`; markup CC BY-SA 4.0) |
+| Cato the Younger | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-cato-the-younger` | have (Perseus TEI `tlg0007.tlg050.perseus-eng2`; markup CC BY-SA 4.0) |
+| Cicero | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-cicero` | have (Perseus TEI `tlg0007.tlg055.perseus-eng2`; markup CC BY-SA 4.0) |
+| Cimon | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-cimon` | have (Perseus TEI `tlg0007.tlg035.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Agesilaus and Pompey | Bernadotte Perrin (1917) | `plutarch-perseus-perrin-comparison-of-agesilaus-and-pompey` | have (Perseus TEI `tlg0007.tlg046.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Agis and Cleomenes and the Gracchi | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-comparison-of-agis-and-cleomenes-and` | have (Perseus TEI `tlg0007.tlg053.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Alcibiades and Coriolanus | Bernadotte Perrin (1916) | `plutarch-perseus-perrin-comparison-of-alcibiades-and-coriola` | have (Perseus TEI `tlg0007.tlg017.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Aristides and Marcus Cato | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-comparison-of-aristides-and-marcus-c` | have (Perseus TEI `tlg0007.tlg026.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Demetrius and Antony | Bernadotte Perrin (1920) | `plutarch-perseus-perrin-comparison-of-demetrius-and-antony` | have (Perseus TEI `tlg0007.tlg059.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Demosthenes and Cicero | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-comparison-of-demosthenes-and-cicero` | have (Perseus TEI `tlg0007.tlg056.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Dion and Brutus | Bernadotte Perrin (1918) | `plutarch-perseus-perrin-comparison-of-dion-and-brutus` | have (Perseus TEI `tlg0007.tlg062.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Lucullus and Cimon | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-comparison-of-lucullus-and-cimon` | have (Perseus TEI `tlg0007.tlg037.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Lycurgus and Numa | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-comparison-of-lycurgus-and-numa` | have (Perseus TEI `tlg0007.tlg006.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Lysander and Sulla | Bernadotte Perrin (1916) | `plutarch-perseus-perrin-comparison-of-lysander-and-sulla` | have (Perseus TEI `tlg0007.tlg034.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Nicias and Crassus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-comparison-of-nicias-and-crassus` | have (Perseus TEI `tlg0007.tlg040.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Pelopidas and Marcellus | Bernadotte Perrin (1917) | `plutarch-perseus-perrin-comparison-of-pelopidas-and-marcellu` | have (Perseus TEI `tlg0007.tlg023.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Pericles and Fabius Maximus | Bernadotte Perrin (1916) | `plutarch-perseus-perrin-comparison-of-pericles-and-fabius-ma` | have (Perseus TEI `tlg0007.tlg014.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Philopoemen and Titus | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-comparison-of-philopoemen-and-titus` | have (Perseus TEI `tlg0007.tlg029.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Sertorius and Eumenes | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-comparison-of-sertorius-and-eumenes` | have (Perseus TEI `tlg0007.tlg043.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Solon and Publicola | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-comparison-of-solon-and-publicola` | have (Perseus TEI `tlg0007.tlg009.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Theseus and Romulus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-comparison-of-theseus-and-romulus` | have (Perseus TEI `tlg0007.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| Comparison of Timoleon and Aemilius | Bernadotte Perrin (1918) | `plutarch-perseus-perrin-comparison-of-timoleon-and-aemilius` | have (Perseus TEI `tlg0007.tlg020.perseus-eng2`; markup CC BY-SA 4.0) |
+| Crassus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-crassus` | have (Perseus TEI `tlg0007.tlg039.perseus-eng2`; markup CC BY-SA 4.0) |
+| Demetrius | Bernadotte Perrin (1920) | `plutarch-perseus-perrin-demetrius` | have (Perseus TEI `tlg0007.tlg057.perseus-eng2`; markup CC BY-SA 4.0) |
+| Demosthenes | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-demosthenes` | have (Perseus TEI `tlg0007.tlg054.perseus-eng2`; markup CC BY-SA 4.0) |
+| Dion | Bernadotte Perrin (1918) | `plutarch-perseus-perrin-dion` | have (Perseus TEI `tlg0007.tlg060.perseus-eng2`; markup CC BY-SA 4.0) |
+| Eumenes | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-eumenes` | have (Perseus TEI `tlg0007.tlg041.perseus-eng2`; markup CC BY-SA 4.0) |
+| Fabius Maximus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-fabius-maximus` | have (Perseus TEI `tlg0007.tlg013.perseus-eng2`; markup CC BY-SA 4.0) |
+| Galba | Bernadotte Perrin (1926) | `plutarch-perseus-perrin-galba` | have (Perseus TEI `tlg0007.tlg065.perseus-eng2`; markup CC BY-SA 4.0) |
+| Lucullus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-lucullus` | have (Perseus TEI `tlg0007.tlg036.perseus-eng2`; markup CC BY-SA 4.0) |
+| Lycurgus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-lycurgus` | have (Perseus TEI `tlg0007.tlg004.perseus-eng2`; markup CC BY-SA 4.0) |
+| Lysander | Bernadotte Perrin (1916) | `plutarch-perseus-perrin-lysander` | have (Perseus TEI `tlg0007.tlg032.perseus-eng2`; markup CC BY-SA 4.0) |
+| Marcellus | Bernadotte Perrin (1917) | `plutarch-perseus-perrin-marcellus` | have (Perseus TEI `tlg0007.tlg022.perseus-eng2`; markup CC BY-SA 4.0) |
+| Marcus Cato | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-marcus-cato` | have (Perseus TEI `tlg0007.tlg025.perseus-eng2`; markup CC BY-SA 4.0) |
+| Nicias | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-nicias` | have (Perseus TEI `tlg0007.tlg038.perseus-eng2`; markup CC BY-SA 4.0) |
+| Numa | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-numa` | have (Perseus TEI `tlg0007.tlg005.perseus-eng2`; markup CC BY-SA 4.0) |
+| Otho | Bernadotte Perrin (1926) | `plutarch-perseus-perrin-otho` | have (Perseus TEI `tlg0007.tlg066.perseus-eng2`; markup CC BY-SA 4.0) |
+| Pelopidas | Bernadotte Perrin (1917) | `plutarch-perseus-perrin-pelopidas` | have (Perseus TEI `tlg0007.tlg021.perseus-eng2`; markup CC BY-SA 4.0) |
+| Pericles | Bernadotte Perrin (1916) | `plutarch-perseus-perrin-pericles` | have (Perseus TEI `tlg0007.tlg012.perseus-eng2`; markup CC BY-SA 4.0) |
+| Philopoemen | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-philopoemen` | have (Perseus TEI `tlg0007.tlg027.perseus-eng2`; markup CC BY-SA 4.0) |
+| Phocion | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-phocion` | have (Perseus TEI `tlg0007.tlg049.perseus-eng2`; markup CC BY-SA 4.0) |
+| Pompey | Bernadotte Perrin (1917) | `plutarch-perseus-perrin-pompey` | have (Perseus TEI `tlg0007.tlg045.perseus-eng2`; markup CC BY-SA 4.0) |
+| Publicola | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-publicola` | have (Perseus TEI `tlg0007.tlg008.perseus-eng2`; markup CC BY-SA 4.0) |
+| Pyrrhus | Bernadotte Perrin (1920) | `plutarch-perseus-perrin-pyrrhus` | have (Perseus TEI `tlg0007.tlg030.perseus-eng2`; markup CC BY-SA 4.0) |
+| Romulus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-romulus` | have (Perseus TEI `tlg0007.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+| Sertorius | Bernadotte Perrin (1919) | `plutarch-perseus-perrin-sertorius` | have (Perseus TEI `tlg0007.tlg042.perseus-eng2`; markup CC BY-SA 4.0) |
+| Solon | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-solon` | have (Perseus TEI `tlg0007.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
+| Sulla | Bernadotte Perrin (1916) | `plutarch-perseus-perrin-sulla` | have (Perseus TEI `tlg0007.tlg033.perseus-eng2`; markup CC BY-SA 4.0) |
+| Themistocles | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-themistocles` | have (Perseus TEI `tlg0007.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
+| Theseus | Bernadotte Perrin (1914) | `plutarch-perseus-perrin-theseus` | have (Perseus TEI `tlg0007.tlg001.perseus-eng3`; markup CC BY-SA 4.0) |
+| Tiberius and Caius Gracchus | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-tiberius-and-caius-gracchus` | have (Perseus TEI `tlg0007.tlg052.perseus-eng1`; markup CC BY-SA 4.0) |
+| Timoleon | Bernadotte Perrin (1918) | `plutarch-perseus-perrin-timoleon` | have (Perseus TEI `tlg0007.tlg018.perseus-eng2`; markup CC BY-SA 4.0) |
+| Titus Flamininus | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-titus-flamininus` | have (Perseus TEI `tlg0007.tlg028.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Philemon Holland's Morals (1603) is held above from the UC San Diego copy (OCR 0.90-0.92, old spelling); Babbitt's Moralia vols. 3 on (1931-) are after the 1930 line. Perrin's Lives are on PR #7 as Perseus TEI.
 
@@ -2133,7 +2686,6 @@ Shelf: `pipeline/marcus-aurelius_shelf.json`. Long (1862) and Chrystal (1902), c
 | Marcus Aurelius Antoninus to Himself (1898) | Gerald H. Rendall | `marcus-aurelius-rendall` | have-raw (IA `marcusaureliusan00marcrich`) |
 | The Meditations of Marcus Aurelius Antoninus (Oxford, Frowde, 1906; introduction by Charles Bigg) | John Jackson (from the catalogue; the scan's title page names no translator) | `marcus-aurelius-jackson-1906` | have-raw (IA `meditationsmarc00jackgoog`) |
 | The Meditations of Marcus Aurelius (Everyman's Library no. 9, intro. W. H. D. Rouse; first issue of this edition 1906, this scan the 1948 reprint) | Meric Casaubon | `marcus-aurelius-casaubon-everyman` | have-raw (IA `meditations00marcuoft`) |
-| Marcus Aurelius Antoninus to Himself: an English translation, with introductory study on Stoicism and the last of the Stoics, second edition (Macmillan, October 1898) | Gerald H. Rendall | `marcus-aurelius-rendall-1898` | have-raw (IA `marcusaureliusan00marcrich`) |
 | The Emperor Marcus Antoninus his Conversation with Himself, with Gataker's preliminary discourse and Dacier's Life (London: Richard Sare, 1701) | Jeremy Collier | `marcus-aurelius-collier-1701` | have-raw (IA `emperormarcusant01marc`) |
 | The Meditations of Marcus Aurelius (Camelot Series; London: Walter Scott, 1887) | Jeremy Collier, revised by Alice Zimmern | `marcus-aurelius-collier-zimmern-1887` | have-raw (IA `meditationsmarc02collgoog`) |
 
@@ -2161,6 +2713,7 @@ Shelf: `pipeline/epictetus_shelf.json`. Complete in Long (1877), Matheson (1916)
 | Fragments | George Long | `epictetus-perseus-long-fragments` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | Fragments | Thomas Wentworth Higginson | `epictetus-perseus-higginson-fragments` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Encheiridion, or Manual | George Long | `epictetus-perseus-long-the-encheiridion-or-manual` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
+| Epictetus his Morals, with Simplicius his Comment, made English from the Greek, fifth edition corrected, with the Life of Epictetus from Boileau (London: Ward, Knapton and others, M.DCC.XLI) | George Stanhope | `epictetus-stanhope-simplicius-1741` | have-raw (IA `bim_eighteenth-century_epictetus-his-morals-wi_epictetus_1741`) |
 
 Pending (wishlist): Oldfather's Loeb (1925-28).
 
@@ -2186,6 +2739,9 @@ Shelf: `pipeline/seneca_shelf.json`. Translator per title, all clean Gutenberg: 
 | Tragedies, vol. 1 (Loeb, 1917) | Frank Justus Miller | `seneca-miller-loeb-tragedies-v1` | have-raw (IA `tragedieswitheng01seneuoft`) |
 | Tragedies, vol. 2 (Loeb, 1917; this printing revised 1929) | Frank Justus Miller | `seneca-miller-loeb-tragedies-v2` | have-raw (IA `tragedieswitheng02seneuoft`) |
 | The Workes of Lucius Annaeus Seneca, both Morrall and Naturall (London, 1614) | Thomas Lodge | `seneca-lodge-workes-1614` | have-raw (IA `bim_early-english-books-1475-1640_the-workes-of-lucius-ann_seneca-lucius-annus_1614`) |
+| The Epistles of Lucius Annaeus Seneca, with large annotations, vol. I (London: Woodfall for Robinson, MDCCLXXXVI) | Thomas Morell | `seneca-morell-epistles-1786-v1` | have-raw (IA `epistlesluciusa01senegoog`) |
+| The Epistles of Lucius Annaeus Seneca, with large annotations, vol. II (London: Woodfall for Robinson, MDCCLXXXVI) | Thomas Morell | `seneca-morell-epistles-1786-v2` | have-raw (IA `epistlesluciusa00senegoog`) |
+| The Ten Tragedies of Seneca, with notes, rendered into English prose as equivalently as the idioms of both languages permit (London: Swan Sonnenschein, 1902) | Watson Bradshaw | `seneca-bradshaw-tragedies-1902` | have-raw (IA `cu31924104730209`) |
 
 Pending (wishlist): Basore's Moral Essays vols. 2-3 (1932-35, not PD).
 
@@ -2234,6 +2790,7 @@ Shelf: `pipeline/livy_shelf.json`. Complete in the Bohn translation (Spillan, Ed
 | The Romane Historie written by T. Livius of Padua (1659 edition) | Philemon Holland | `livy-holland` | have-raw (IA `romanehistorie00livy`) |
 | The History of Rome | Rev. Canon Roberts | `livy-perseus-roberts-the-history-of-rome` | have (Perseus TEI `phi0914.phi001.perseus-eng3`; markup CC BY-SA 4.0) |
 | The History of Rome by Titus Livius, translated from the original with notes and illustrations (first American from the last London edition; New York: Peter A. Mesier and others, 1823), vols. I-VI in one file | George Baker | `livy-baker-1823` | have-raw (IA `the-history-of-rome-by-titus-livius-volumes-1-6-translated-by-george-baker-1823`) |
+| Livy, Books XXI-XXV: The Second Punic War (Macmillan, 1883) | Alfred John Church and William Jackson Brodribb | `livy-church-brodribb-21-25-1883` | have-raw (IA `livybook2125seco00livy`) |
 
 Pending (wishlist): Foster's Loeb vol. 2 (1922; only a 1939 revised printing found, refused).
 
@@ -2345,6 +2902,11 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The Odes and Epodes of Horace, a metrical translation into English, with Latin text (Blackwood, 1869) | Edward Bulwer-Lytton, Lord Lytton | `horace-lytton-1869` | have-raw (IA `odes00epodesofhorahorarich`) |
 | The Odes of Horace translated into English (London: John Murray; preface dated 1894) | William Ewart Gladstone | `horace-gladstone-1894` | have-raw (IA `odeshorace01gladgoog`) |
 | Horace, The Odes and Epodes, with an English translation (Loeb Classical Library; 1914 translation, Latin facing; this scan is a later impression, see _rights_checked) | C. E. Bennett | `horace-bennett-loeb-odes` | have-raw (IA `in.ernet.dli.2015.98705`) |
+| The Works of Horace, translated into English verse, with a life and notes, vol. I: Life, Odes (Blackwood, MDCCCLXXXI) | Theodore Martin | `horace-martin-works-1881-v1` | have-raw (IA `worksofhorace01horauoft`) |
+| The Works of Horace, translated into English verse, vol. II: Epodes, Secular Hymn, Satires, Epistles (Blackwood, 1881) | Theodore Martin | `horace-martin-works-1881-v2` | have-raw (IA `worksofhorace02horauoft`) |
+| The Odes of Horace, complete in English rhyme and blank verse (Lippincott, 1884) | Henry Hubbard Pierce | `horace-pierce-odes-1884` | have-raw (IA `odeshoracecompl00horagoog`) |
+| Odes, Epodes, and the Secular Song, newly translated into verse (Longmans, 1867) | Charles Stephens Mathews | `horace-mathews-odes-1867` | have-raw (IA `odesepodessecula00horauoft`) |
+| The Odes and Secular Hymn of Horace, Englished into rimed verse corresponding to the original meters (privately printed, 1917) | Warren H. Cudworth | `horace-cudworth-odes-1917` | have-raw (IA `odessecularhymn00horauoft`) |
 
 Pending (wishlist): Smart's prose in its first, unrevised form (1756) from a cleaner scan than the ECCO OCR (0.74-0.76), which was refused.
 
@@ -2361,6 +2923,7 @@ Shelf: `pipeline/catullus_shelf.json`. Ellis (1871) and Burton-Smithers (1894), 
 | Carmina | Leonard C. Smithers | `catullus-perseus-smithers-carmina` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Poems of Valerius Catullus, translated into English verse (Edinburgh, 1867) | James Cranstoun | `catullus-cranstoun-1867` | have-raw (IA `poemsofvaleriusc00caturich`) |
 | The Poems of Caius Valerius Catullus translated, with a preface and notes, vol. I (London: John Murray, 1821) | George Lamb | `catullus-lamb-1821-v1` | have-raw (IA `poemscaiusvaler01catugoog`) |
+| Erotica: the Poems of Catullus and Tibullus, the Vigil of Venus, a literal prose translation with notes, with the metrical versions of Lamb and Grainger and others (Bohn, MDCCCLIV) | Walter K. Kelly | `catullus-tibullus-kelly-erotica-1854` | have-raw (IA `cu31924031218211`) |
 
 
 Excluded: PG 23720 (serves a 404).
@@ -2423,6 +2986,9 @@ Shelf: `pipeline/lucan_shelf.json`. Ridley's blank-verse Pharsalia (1896); PG na
 | Lucan: The Civil War, Books I-X (Pharsalia) (Loeb, 1928) | J. D. Duff | `lucan-duff` | have-raw (IA `lucancivilwarboo00lucauoft`) |
 | Lucan's Pharsalia, vol. 1 | Nicholas Rowe | `lucan-rowe-v1` | have-raw (IA `bub_gb_AnxKHS45tH8C`) |
 | Lucan's Pharsalia, vol. 2 (1812; with Vida's Art of Poetry) | Nicholas Rowe | `lucan-rowe-v2` | have-raw (IA `bub_gb_GEsNZ2BDG1QC`) |
+| The Pharsalia of Lucan, translated into blank verse (Longmans, 1896) | Edward Ridley | `lucan-ridley-1896` | have-raw (IA `cu31924026485809`) |
+| The Pharsalia of Lucan, translated into blank verse, second edition, revised and corrected (Longmans, 1905) | Edward Ridley | `lucan-ridley-1905` | have-raw (IA `pharsaliatransla00lucauoft`) |
+| The Pharsalia of Lucan, literally translated into English prose (Bohn, 1853) | H. T. Riley | `lucan-riley-1853` | have-raw (IA `pharsaliaoflucan00lucaiala`) |
 
 Pending (wishlist): Marlowe's First Book (Marlowe shelf).
 
@@ -2437,6 +3003,7 @@ Shelf: `pipeline/apuleius_shelf.json`. Adlington's Golden Asse (1566) and Butler
 | The Golden Ass, being the Metamorphoses of Lucius Apuleius (Loeb, 1915) | William Adlington (1566), revised by S. Gaselee | `apuleius-adlington-gaselee` | have-raw (IA `goldenassbeingme00apuliala`) |
 | The Metamorphoses or Golden Ass of Apuleius of Madaura, vol. 1 (Oxford, 1910) | H. E. Butler | `apuleius-butler-v1` | have-raw (IA `metamorphosesorg01apuluoft`) |
 | The Metamorphoses or Golden Ass of Apuleius of Madaura, vol. 2 (Oxford, 1910) | H. E. Butler | `apuleius-butler-v2` | have-raw (IA `metamorphosesorg02apuluoft`) |
+| The Metamorphosis, or Golden Ass, and Philosophical Works, of Apuleius, translated from the original Latin (London: Triphook and Rodd, 1822) | Thomas Taylor | `apuleius-taylor-1822` | have-raw (IA `metamorphosisor00apulgoog`) |
 
 Pending (wishlist): none known.
 
@@ -2562,6 +3129,16 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | Cicero, The Speeches: Pro Archia, Post Reditum in Senatu, Post Reditum ad Quirites, De Domo Sua, De Haruspicum Responsis, Pro Plancio (Loeb, first printed 1923; this scan a 1965 reprint; Latin facing) | N. H. Watts | `cicero-watts-pro-archia-etc` | have-raw (IA `cicero-in-28-volumes.-vol.-11-loeb-158`) |
 | Cicero, The Speeches: Pro Lege Manilia, Pro Caecina, Pro Cluentio, Pro Rabirio Perduellionis (Loeb, first printed 1927; this scan a 1966 reprint; Latin facing) | H. Grose Hodge | `cicero-grose-hodge-pro-lege-manilia-etc` | have-raw (IA `cicero-in-28-volumes.-vol.-9-loeb-198`) |
 | Cicero, Pro Quinctio, Pro Roscio Amerino, Pro Roscio Comoedo, De Lege Agraria I-III (Loeb, first printed 1930; this scan a 1967 reprint; Latin facing) | John Henry Freese | `cicero-freese-pro-quinctio-etc` | have-raw (IA `cicero-in-28-volumes.-vol.-6-loeb-240`) |
+| Cicero's Epistles to Atticus, with notes, vol. I of two (Books I-VIII; T. Waller, 1752) | William Guthrie | `cicero-guthrie-atticus-1752-v1` | have-raw (IA `cicerosepistles00guthgoog`) |
+| Cicero's Epistles to Atticus, new edition corrected and amended, vol. II of three (Books VI-XI; Lackington, Allen, 1806) | William Guthrie | `cicero-guthrie-atticus-1806-v2` | have-raw (IA `cicerosepistles01cicegoog`) |
+| Cicero's Epistles to Atticus, new edition corrected and amended, vol. III of three (Books XII-XVI; 1806) | William Guthrie (title page lost in this volume; vol. II of the set names him) | `cicero-guthrie-atticus-1806-v3` | have-raw (IA `cicerosepistles00cicegoog`) |
+| M. T. Cicero, His Offices; Cato Major; Laelius; Moral Paradoxes; the Vision of Scipio; his Letter concerning the Duties of a Magistrate (T. Waller, 1755) | William Guthrie | `cicero-guthrie-offices-etc-1755` | have-raw (IA `mtcicerohisoffi00guthgoog`) |
+| Cicero on Oratory and Orators, with notes, new edition, vol. I of two (1808) | William Guthrie, amended by Jones (named in the volume's advertisements; the title page names no translator) | `cicero-guthrie-de-oratore-1808-v1` | have-raw (IA `onoratoryandorat01ciceuoft`) |
+| Cicero on Oratory and Orators, with notes, new edition, vol. II of two (1808) | William Guthrie, amended by Jones (as vol. I) | `cicero-guthrie-de-oratore-1808-v2` | have-raw (IA `onoratoryandorat02ciceuoft`) |
+| The Letters of Marcus Tullius Cicero to Titus Pomponius Atticus, in sixteen books, vol. I (Payne and Foss, 1825) | William Heberden | `cicero-heberden-atticus-1825-v1` | have-raw (IA `b24748742_0001`) |
+| The Letters of Marcus Tullius Cicero to Titus Pomponius Atticus, vol. II (Payne and Foss, 1825) | William Heberden | `cicero-heberden-atticus-1825-v2` | have-raw (IA `b24748742_0002`) |
+| M. Tullius Cicero of the Nature of the Gods, with notes, and an inquiry into the astronomy and anatomy of the ancients (Pickering, 1829) | Thomas Francklin | `cicero-francklin-nature-gods-1829` | have-raw (IA `naturegods00frangoog`) |
+| The Life and Letters of Marcus Tullius Cicero, a new translation of the letters in Watson's selection, second edition (Macmillan, 1887) | G. E. Jeans | `cicero-jeans-letters-1887` | have-raw (IA `cu31924026480347`) |
 
 Pending (wishlist): King's Tusculans (Loeb 1927; only the 1945 revised printing has text, refused).
 
@@ -2657,6 +3234,17 @@ Shelf: `pipeline/isocrates_shelf.json`. J. H. Freese, The Orations of Isocrates 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Orations of Isocrates, vol. 1 (Bohn, 1894) | J. H. Freese | `isocrates-freese-v1` | have-raw (IA `orationsofisocra0000isoc`) |
+| Against the Sophists | George Norlin (1929) | `isocrates-perseus-norlin-against-the-sophists` | have (Perseus TEI `tlg0010.tlg008.perseus-eng2`; markup CC BY-SA 4.0) |
+| Antidosis | George Norlin (1929) | `isocrates-perseus-norlin-antidosis` | have (Perseus TEI `tlg0010.tlg019.perseus-eng2`; markup CC BY-SA 4.0) |
+| To Archidamus | George Norlin (1928) | `isocrates-perseus-norlin-to-archidamus` | have (Perseus TEI `tlg0010.tlg016.perseus-eng2`; markup CC BY-SA 4.0) |
+| Areopagiticus | George Norlin (1929) | `isocrates-perseus-norlin-areopagiticus` | have (Perseus TEI `tlg0010.tlg018.perseus-eng2`; markup CC BY-SA 4.0) |
+| Nicocles or the Cyprians | George Norlin (1928) | `isocrates-perseus-norlin-nicocles-or-the-cyprians` | have (Perseus TEI `tlg0010.tlg014.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Peace | George Norlin (1929) | `isocrates-perseus-norlin-on-the-peace` | have (Perseus TEI `tlg0010.tlg017.perseus-eng2`; markup CC BY-SA 4.0) |
+| Panathenaicus | George Norlin (1929) | `isocrates-perseus-norlin-panathenaicus` | have (Perseus TEI `tlg0010.tlg021.perseus-eng2`; markup CC BY-SA 4.0) |
+| Panegyricus | George Norlin (1928) | `isocrates-perseus-norlin-panegyricus` | have (Perseus TEI `tlg0010.tlg011.perseus-eng2`; markup CC BY-SA 4.0) |
+| To Demonicus | George Norlin (1928) | `isocrates-perseus-norlin-to-demonicus` | have (Perseus TEI `tlg0010.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
+| To Nicocles | George Norlin (1928) | `isocrates-perseus-norlin-to-nicocles` | have (Perseus TEI `tlg0010.tlg013.perseus-eng2`; markup CC BY-SA 4.0) |
+| To Philip | George Norlin (1928) | `isocrates-perseus-norlin-to-philip` | have (Perseus TEI `tlg0010.tlg020.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Freese never published vol. 2; Norlin/Van Hook Loeb (1928-45) only vols. 1-2 PD by date
 
@@ -2669,10 +3257,10 @@ Shelf: `pipeline/pindar_shelf.json`. Myers (Gutenberg) and the Turner/Moore Bohn
 | The Extant Odes of Pindar | Ernest Myers | `pindar-myers` | have (PG 10717) |
 | The Odes of Pindar, literally translated into English prose (Bohn; 1872 printing) | Dawson W. Turner (prose) and Abraham Moore (verse) | `pindar-turner-moore` | have-raw (IA `odespindarliter00moorgoog`) |
 | — | — | `cary-pindar` | cross-ref → lane C, pipeline/cary_shelf.json (Cary, 1833) |
-| Pindar in English Verse (London: Edward Moxon, 1833) | Henry Francis Cary | `pindar-cary-1833` | held elsewhere: IA pindarinenglish00carygoog is already held on pipeline/cary_shelf.json (lane C) as cary-pindar |
 | Odes of Pindar, with several other pieces in prose and verse, with a dissertation on the Olympick games (London, 1749) | Gilbert West (verse; selected odes) | `pindar-west-1749` | have-raw (IA `bim_eighteenth-century_odes-of-pindar-with-sev_pindar_1749`) |
 | The Odes of Pindar in English Prose, with West's Dissertation on the Olympic Games (Oxford: Munday and Slatter, 1824), 2 vols. in one scan | Peter Edmund Laurent per the catalogue (not named on the title page) | `pindar-laurent-prose-1824` | have-raw (IA `odespindarineng01pindgoog`) |
 | The Odes of Pindar translated into English Prose, with brief explanatory notes and a preface (London: Williams and Norgate, 1868) | F. A. Paley | `pindar-paley-1868` | have-raw (IA `bub_gb_z9lUAAAAcAAJ`) |
+| Pindar, translated (London: A. J. Valpy for Colburn and Bentley, 1830) | C. A. Wheelwright | `pindar-wheelwright-1830` | have-raw (IA `pindartrbycawhe00pindgoog`) |
 
 Pending (wishlist): Sandys Loeb (1915; Greek facing)
 
@@ -2723,6 +3311,7 @@ Shelf: `pipeline/greek-lyric_shelf.json`. Mackail, Wharton's Sappho, Moore's Ana
 | Sappho: Memoir, Text, Selected Renderings, and a Literal Translation | ed. and Henry Thornton Wharton; renderings by various hands | `sappho-wharton` | have (PG 57390) |
 | The Odes of Anacreon | Thomas Moore | `anacreon-moore` | have (PG 38230) |
 | Bacchylides: A Prose Translation (Macmillan, 1898) | Edward Poste | `bacchylides-poste` | have-raw (IA `cu31924026462287`) |
+| The Greek Anthology, as selected for the use of Westminster, Eton and other public schools, literally translated into English prose, with metrical versions by Bland, Merivale and others (Bohn, MDCCCLIV) | George Burges | `greek-anthology-burges-1854` | have-raw (IA `greekanthology0000geor`) |
 
 Pending (wishlist): Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus/Aratus/Oppian (all Loebs, Greek facing). Callimachus, Aratus, Tryphiodorus and Musaeus in older translations are on the late-greek-poets shelf.
 
@@ -2735,6 +3324,7 @@ Shelf: `pipeline/diogenes-laertius_shelf.json`. Yonge (Gutenberg).
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Lives and Opinions of Eminent Philosophers | Charles Duke Yonge | `diogenes-laertius-yonge` | have (PG 57342) |
+| Lives of Eminent Philosophers | R. D. Hicks (1925) | `diogenes-laertius-perseus-hicks-lives-of-eminent-philosopher` | have (Perseus TEI `tlg0004.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Hicks Loeb (1925; Greek facing)
 
@@ -2789,6 +3379,8 @@ Shelf: `pipeline/proclus_shelf.json`. Taylor's Euclid commentaries and Theology 
 | The Philosophical and Mathematical Commentaries of Proclus on the First Book of Euclid's Elements, vol. 2 | Thomas Taylor | `proclus-taylor-euclid-v2` | have (PG 79455) |
 | The Six Books of Proclus on the Theology of Plato, vol. 1 | Thomas Taylor | `proclus-taylor-theology-v1` | have (PG 77393) |
 | The Six Books of Proclus on the Theology of Plato, vol. 2 | Thomas Taylor | `proclus-taylor-theology-v2` | have (PG 78800) |
+| The Commentaries of Proclus on the Timaeus of Plato, in five books, containing a treasury of Pythagoric and Platonic physiology, vol. I (London: printed for the author; IA records 1820) | Thomas Taylor | `proclus-taylor-timaeus-v1` | have-raw (IA `proclusontimaeus01procuoft`) |
+| The Commentaries of Proclus on the Timaeus of Plato, vol. II (IA records 1820) | Thomas Taylor | `proclus-taylor-timaeus-v2` | have-raw (IA `proclusontimaeus02procuoft`) |
 
 ## Ocellus and the minor Pythagoreans
 
@@ -2798,6 +3390,7 @@ Shelf: `pipeline/pythagoreans_shelf.json`. Taylor (Gutenberg).
 |---|---|---|---|
 | Ocellus Lucanus on the Nature of the Universe | Thomas Taylor | `ocellus-taylor` | have (PG 75391) |
 | Political Fragments of Archytas, Charondas, Zaleucus and other ancient Pythagoreans, preserved by Stobaeus; and Ethical Fragments of Hierocles (London: for the translator, 1822) | Thomas Taylor | `pythagoreans-taylor-political-fragments-1822` | have-raw (IA `politicalfragmen00taylrich`) |
+| Sallust on the Gods and the World; Pythagoric Sentences of Demophilus (1793) | Thomas Taylor (attributed; not named in the book) | `sallustius-demophilus-taylor-1793` | have-raw (IA `sallustongodsan00pythgoog`) |
 
 ## Sextus Empiricus
 
@@ -2817,6 +3410,7 @@ Shelf: `pipeline/julian_shelf.json`. Wright's Loeb vols. 1-2 (Gutenberg; facing 
 |---|---|---|---|
 | The Works of the Emperor Julian, vol. 1 | Wilmer Cave Wright | `julian-wright-v1` | held: Gutenberg's transcription (PG 48664) includes a 'Bibliographical Addendum (1980)' from the reprint it was made from, which is not public domain by date; not fetched (see `_held`) |
 | The Works of the Emperor Julian, vol. 2 | Wilmer Cave Wright | `julian-wright-v2` | have (PG 48768) |
+| Julian the Emperor: Gregory Nazianzen's two Invectives, Libanius' Monody, and Julian's Upon the Sovereign Sun and Upon the Mother of the Gods (Bohn, 1888) | C. W. King | `julian-king-1888` | have-raw (IA `julianemperor00king`) |
 
 Pending (wishlist): Wright vol. 3 (1923)
 
@@ -2828,6 +3422,8 @@ Shelf: `pipeline/boethius_shelf.json`. H. R. James 1897 (Gutenberg).
 |---|---|---|---|
 | The Consolation of Philosophy | H. R. James | `boethius-james` | have (PG 14328) |
 | The Theological Tractates and The Consolation of Philosophy | Stewart and Rand (Loeb 1918; 'I.T.' 1609 revised) | `boethius-rand-stewart` | have (PG 13316) |
+| Boethius's Consolation of Philosophy, translated from the Latin, with notes and illustrations (London: C. Dilly, M.DCC.LXXXV) | Philip Ridpath | `boethius-ridpath-1785` | have-raw (IA `boethiussconsol00boetgoog`) |
+| Boethius' Consolation of Philosophy, translated from the Latin by George Colville, 1556, edited with an introduction by Ernest Belfort Bax (London: David Nutt, MDCCCXCVII) | George Colville | `boethius-colville-1556` | have-raw (IA `cu31924029003824`) |
 
 Excluded: Chaucer's Middle English Boece
 
@@ -3030,6 +3626,7 @@ Shelf: `pipeline/greek-mechanics-astronomy_shelf.json`. Greenwood's Hero Pneumat
 |---|---|---|---|
 | The Pneumatics of Hero of Alexandria | Joseph George Greenwood | `hero-pneumatics-greenwood` | have (PG 77400) |
 | Ptolemy's Tetrabiblos | J. M. Ashmand | `ptolemy-tetrabiblos-ashmand` | have (PG 70850) |
+| Nicomachus of Gerasa, Introduction to Arithmetic, translated into English, with studies in Greek arithmetic by Frank Egleston Robbins and Louis Charles Karpinski (University of Michigan Studies, Humanistic Series XVI; Macmillan, 1926) | Martin Luther D'Ooge | `nicomachus-dooge-arithmetic-1926` | have-raw (IA `nicomachus-introduction-to-arithmetic`) |
 
 ## Martial
 
@@ -3040,6 +3637,7 @@ Shelf: `pipeline/martial_shelf.json`. Bohn prose translation, 1897 printing (IA,
 | The Epigrams of Martial, translated into English prose (Bohn; 1897 printing) | Bohn prose translation (anonymous), with verse renderings by various hands | `martial-bohn` | have-raw (IA `epigramsmartial00bohngoog`) |
 | Martial, Epigrams, vol. 1: Spectacles, Books I-VII (Loeb, 1919) | Walter C. A. Ker | `martial-ker-v1` | have-raw (IA `martialepigrams01martiala`) |
 | Martial, Epigrams, vol. 2: Books VIII-XIV (Loeb, 1920) | Walter C. A. Ker | `martial-ker-v2` | have-raw (IA `martialepigrams02martiala`) |
+| The Epigrams of Martial, translated into English prose, each accompanied by one or more verse translations from the works of English poets (Bohn's Classical Library; George Bell, 1877) | unnamed (Bohn prose), with verse versions by various hands | `martial-bohn-1877` | have-raw (IA `epigramsmartial01bohngoog`) |
 
 ## Statius
 
@@ -3051,6 +3649,8 @@ Shelf: `pipeline/statius_shelf.json`. Mozley Loeb 1928, 2 vols. (IA, 0.91-0.92; 
 | Statius, vol. 2: Thebaid V-XII, Achilleid (Loeb, 1928) | J. H. Mozley | `statius-mozley-v2` | have-raw (IA `statius02stat`) |
 | The Thebaid of Statius, translated into English verse, with notes and observations (Oxford, 1767), both volumes in one scan | William Lillington Lewis (not named on the title page; attributed in catalogues) | `statius-lewis-thebaid-1767` | have-raw (IA `thebaidstatius00conggoog`) |
 | The Silvae of Statius, translated with introduction and notes (Oxford, 1908) | D. A. Slater | `statius-slater-silvae-1908` | have-raw (IA `silvaetranslated00statuoft`) |
+| The Thebaid of Statius, translated into English verse, with notes and observations, vol. I, second edition corrected (London: T. Becket; the year OCRs as 'MDCCLXm'; IA records 1767) | William Lillington Lewis | `statius-lewis-thebaid-v1` | have-raw (IA `thebaidstatiust01lewigoog`) |
+| The Thebaid of Statius, vol. II (Books VII-XII), second edition corrected (London: T. Becket; no year in the OCR; IA records 1773) | William Lillington Lewis | `statius-lewis-thebaid-v2` | have-raw (IA `thebaidstatiust00lewigoog`) |
 
 ## Claudian
 
@@ -3077,6 +3677,8 @@ Shelf: `pipeline/quintilian_shelf.json`. Butler Loeb 1920-22, 4 vols. (IA, 0.87-
 | The Institutio Oratoria of Quintilian, vol. 3: Books VII-IX | H. E. Butler | `quintilian-butler-v3` | have-raw (IA `institutioorator03quinuoft`) |
 | The Institutio Oratoria of Quintilian, vol. 4: Books X-XII | H. E. Butler | `quintilian-butler-v4` | have-raw (IA `institutioorator04quinuoft`) |
 | The Institutio Oratoria of Quintilian, vol. 1: Books I-III (Loeb; imprint 'First printed 1921' [vol. I appeared 1920]; Latin facing) | H. E. Butler | `quintilian-butler-v1-1921` | have-raw (IA `in.ernet.dli.2015.99822`) |
+| Quintilian's Institutes of Oratory, vol. I (Bohn's Classical Library; London: George Bell, 1903, reprinted from stereotype plates of the 1856 edition) | John Selby Watson | `quintilian-watson-v1-1903` | have-raw (IA `cu31924075437685`) |
+| Quintilian's Institutes of Oratory, vol. II (Bohn, 1856) | John Selby Watson | `quintilian-watson-v2-1856` | have-raw (IA `cu31924075437677`) |
 
 Pending (wishlist): Watson's Bohn (no scan located)
 
@@ -3375,6 +3977,18 @@ Shelf: `pipeline/isaeus_shelf.json`. Sir William Jones's Speeches of Isaeus (177
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Speeches of Isaeus in Causes concerning the Law of Succession to Property at Athens (London, 1779) | William Jones | `isaeus-jones-1779` | have-raw (IA `speechesofisaeus00isae`) |
+| On Behalf of Euphiletus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-behalf-of-euphiletus` | have (Perseus TEI `tlg0017.tlg012.perseus-eng2`; markup CC BY-SA 4.0) |
+| On The Estate Of Pyrrhus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-pyrrhus` | have (Perseus TEI `tlg0017.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| On The Estate of Apollodorus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-apollodorus` | have (Perseus TEI `tlg0017.tlg007.perseus-eng2`; markup CC BY-SA 4.0) |
+| On The Estate of Aristarchus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-aristarchus` | have (Perseus TEI `tlg0017.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
+| On The Estate of Ciron | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-ciron` | have (Perseus TEI `tlg0017.tlg008.perseus-eng2`; markup CC BY-SA 4.0) |
+| On The Estate of Cleonymus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-cleonymus` | have (Perseus TEI `tlg0017.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Astyphilus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-astyphilus` | have (Perseus TEI `tlg0017.tlg009.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Dicaeogenes | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-dicaeogenes` | have (Perseus TEI `tlg0017.tlg005.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Hagnias | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-hagnias` | have (Perseus TEI `tlg0017.tlg011.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Menecles | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-menecles` | have (Perseus TEI `tlg0017.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Nicostratus | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-nicostratus` | have (Perseus TEI `tlg0017.tlg004.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Estate of Philoctemon | Edward Seymour Forster (1962) | `isaeus-perseus-forster-on-the-estate-of-philoctemon` | have (Perseus TEI `tlg0017.tlg006.perseus-eng2`; markup CC BY-SA 4.0) |
 
 Pending (wishlist): Forster's Loeb (1927; Greek facing)
 
@@ -3446,6 +4060,103 @@ Shelf: `pipeline/fronto_shelf.json`. Haines's Loeb, the first English Fronto, vo
 | The Correspondence of Marcus Cornelius Fronto with Marcus Aurelius Antoninus, Lucius Verus, Antoninus Pius and various friends, vol. II (Loeb; London: Heinemann, New York: Putnam, MCMXX) | C. R. Haines | `fronto-haines-v2` | have-raw (IA `correspondenceof0002crha_r5s5`) |
 
 Pending (wishlist): none: vol. II's 1929 revision (seen only in a 1988 reprint) was not taken; the 1920 first printing is held.
+
+## Aeschines
+
+Shelf: `pipeline/aeschines_shelf.json`. New shelf 2026-10-03: the three speeches in Adams's Loeb translation (1919), English-only Perseus TEI.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Against Timarchus | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-against-timarchus` | have (Perseus TEI `tlg0026.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| On the Embassy | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-on-the-embassy` | have (Perseus TEI `tlg0026.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+| Against Ctesiphon | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-against-ctesiphon` | have (Perseus TEI `tlg0026.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+
+Pending (wishlist): an older English Aeschines (pre-1900), if a clean scan turns up.
+
+## Apollodorus
+
+Shelf: `pipeline/apollodorus_shelf.json`. New shelf 2026-10-03: Frazer's Loeb Library (1921), English-only Perseus TEI with Frazer's notes.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Library | Sir James George Frazer (Loeb 1921) | `apollodorus-perseus-frazer-library` | have (Perseus TEI `tlg0548.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| Epitome | James George Frazer (1921) | `apollodorus-perseus-frazer-epitome` | have (Perseus TEI `tlg0548.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
+
+## Hermetica
+
+Shelf: `pipeline/hermetica_shelf.json`. New shelf 2026-10-03: Chambers's translation from the Greek (1882) and Everard's Divine Pymander (1650; Redway reprint 1884).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Theological and Philosophical Works of Hermes Trismegistus, Christian Neoplatonist, translated from the original Greek, with preface, notes and indices (Edinburgh: T. & T. Clark, 1882) | John David Chambers | `hermetica-chambers-1882` | have-raw (IA `theologicalphilo00hermrich`) |
+| The Divine Pymander of Hermes Mercurius Trismegistus (Everard's translation of 1650; London: George Redway, 1884, with an introduction by Hargrave Jennings) | John Everard | `hermetica-everard-pymander-1884` | have-raw (IA `b2487839x`) |
+| Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis, being a translation of the extant sermons and fragments of the Trismegistic literature, vol. I: Prolegomena (London and Benares: Theosophical Publishing Society, 1906) | G. R. S. Mead | `hermetica-mead-1906-v1` | have-raw (IA `thricegreatesthe01hermuoft`) |
+| Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis, being a translation of the extant sermons and fragments of the Trismegistic literature, vol. II: Sermons (London and Benares: Theosophical Publishing Society, 1906) | G. R. S. Mead | `hermetica-mead-1906-v2` | have-raw (IA `thricegreatesthe02hermuoft`) |
+| Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis, being a translation of the extant sermons and fragments of the Trismegistic literature, vol. III: Excerpts and Fragments (London and Benares: Theosophical Publishing Society, 1906) | G. R. S. Mead | `hermetica-mead-1906-v3` | have-raw (IA `thricegreatesthe03hermuoft`) |
+
+Excluded: Walter Scott's Hermetica (1924): the one translation volume prints the Greek and Latin facing and reads below the OCR bar; vols. II-III are commentary.
+
+## Orphic Hymns
+
+Shelf: `pipeline/orphica_shelf.json`. New shelf 2026-10-03: Taylor's Mystical Initiations (1787), first edition.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Mystical Initiations; or, Hymns of Orpheus, translated from the original Greek, with a preliminary dissertation on the life and theology of Orpheus (London: printed for the author, 1787) | Thomas Taylor | `orphica-taylor-hymns-1787` | have-raw (IA `b28775430`) |
+
+Excluded: Taylor's later editions (1792, 1824, Dobell's 1896 reprint, the last mis-dated 1824 by IA as mysticalhymnsor00taylgoog) repeat the same translation; not fetched.
+
+## Silius Italicus
+
+Shelf: `pipeline/silius_shelf.json`. Silius Italicus's Punica, the epic of the Second Punic War.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Punics, vol. I (Calcutta, 1828) | Henry William Tytler | `silius-tytler-v1` | have-raw (IA `punicsvolume00italgoog`) |
+
+Pending (wishlist): vol. II of Tytler's Punics (1828; no scan found).
+
+Excluded: Duff's Loeb vol. I (1961 reprint of 1927; held for Adam) and vol. II (1934); Ross's 1661 version (no text layer found).
+
+## Cebes
+
+Shelf: `pipeline/cebes_shelf.json`. The Tablet (Picture) of Cebes, the Socratic allegory of human life.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Greek Pilgrim's Progress, generally known as the Picture (Comparative Literature Press, 1910) | Kenneth Sylvan Guthrie | `cebes-guthrie-1910` | have-raw (IA `greekpilgrimspro00cebeuoft`) |
+
+Pending (wishlist): a clean scan of one of the older English versions (Healey 1610, or the 18th-century ones).
+
+Excluded: Healey 1610 (OCR 0.60), the 1750 and 1777 versions (0.66, 0.62), and a Greek-facing school Tabula (0.53).
+
+## Minor Latin poets and moralists
+
+Shelf: `pipeline/latin-minor-poets_shelf.json`. Calpurnius Siculus, Grattius, Publilius Syrus and the Distichs of Cato, one translator per row.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Eclogues of Calpurnius, rendered into English verse (George Bell, 1890) | Edward J. L. Scott | `calpurnius-scott-1890` | have-raw (IA `ecloguesofcalpur00calprich`) |
+| The Moral Sayings of Publius Syrus, a Roman Slave, from the Latin (Cleveland: Barnard, 1856) | D. Lyman, Jun. | `publilius-lyman-1856` | have-raw (IA `bub_gb__QQSAAAAIAAJ`) |
+| The Distichs of Cato, a famous medieval textbook, translated from the Latin (University of Wisconsin Studies, 1922) | Wayland Johnson Chase | `cato-distichs-chase-1922` | have-raw (IA `distichsofcato00chas`) |
+| Grati Falisci Cynegeticon, a Poem of Hunting, Englished and illustrated (London, 1654 per IA; the OCR reads 1664) | Christopher Wase | `grattius-wase-1654` | have-raw (IA `grati-falisci-cynegeticon`; old spelling, OCR 0.83) |
+
+Pending (wishlist): Nemesianus in English (only Keene's 1887 Latin edition found).
+
+Excluded: none yet.
+
+## Presocratics
+
+Shelf: `pipeline/presocratics_shelf.json`. The fragments of the early Greek philosophers in English, one translator per row.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Fragments of the Work of Heraclitus of Ephesus on Nature, translated from the Greek text of Bywater (Baltimore: N. Murray, 1889) | G. T. W. Patrick | `heraclitus-patrick-1889` | have-raw (IA `fragmentsofworko00hera`) |
+| The Fragments of Empedocles, translated into English verse (Open Court, 1908) | William Ellery Leonard | `empedocles-leonard-1908` | have-raw (IA `thefragmentsofem00empeuoft`) |
+
+Pending (wishlist): Fairbanks's First Philosophers of Greece (1898) from a cleaner scan.
+
+Excluded: Fairbanks 1898 (Greek facing, OCR 0.73-0.77); Burnet's Early Greek Philosophy (a study, not a translation).
 
 ## Perseus census (overflow)
 
@@ -5323,11 +6034,13 @@ Shelf: `pipeline/canton_shelf.json` (2026-10-02; added at the coordinator's rela
 
 ## Abbie Farwell Brown
 
-Shelf: `pipeline/abbie-brown_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Saints' legends and their animals, retold for children. Not in the manifest; no uids minted.
+Shelf: `pipeline/abbie-brown_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Saints' legends and their animals, Norse myths and bird legends, retold for children; cut by legend or tale. Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Book of Saints and Friendly Beasts | have | PG 28990, `abbie-brown-book-of-saints-and-friendly-beasts` (656 units) |
+| In the Days of Giants: A Book of Norse Tales | have | PG 44622, `abbie-brown-in-the-days-of-giants` (760 units) |
+| The Curious Book of Birds | have | PG 16140, `abbie-brown-curious-book-of-birds` (728 units) |
 
 ## Amy Steedman
 
@@ -6390,6 +7103,375 @@ Shelf: `pipeline/jameson_shelf.json` (2026-10-02; added at the coordinator's rel
 |---|---|---|
 | Sacred and Legendary Art, volume 1 | have | PG 69581, `jameson-sacred-and-legendary-art-1` (1911 units) |
 | Legends of the Madonna as Represented in the Fine Arts | have | PG 12047, `jameson-legends-of-the-madonna` (1575 units) |
+
+## Katharine Pyle
+
+Shelf: `pipeline/katharine-pyle_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Fairy and folk tales retold for children, from many lands; cut by tale or chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Counterpane Fairy | have | PG 3230, `katharine-pyle-counterpane-fairy` (845 units) |
+| As the Goose Flies | have | PG 48593, `katharine-pyle-as-the-goose-flies` (888 units) |
+| Fairy Tales from Many Lands | have | PG 47178, `katharine-pyle-fairy-tales-from-many-lands` (1154 units) |
+| Mother's Nursery Tales | have | PG 49001, `katharine-pyle-mothers-nursery-tales` (1914 units) |
+| Tales of Folk and Fairies | have | PG 25913, `katharine-pyle-tales-of-folk-and-fairies` (1385 units) |
+| Wonder Tales from Many Lands | have | PG 48351, `katharine-pyle-wonder-tales-from-many-lands` (1370 units) |
+| Fairy Tales from Far and Near | have | PG 66919, `katharine-pyle-fairy-tales-from-far-and-near` (1254 units) |
+
+## Lewis Spence
+
+Shelf: `pipeline/spence_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Myths and legends of Mexico, Peru, North America, Egypt, Babylonia, the Rhine, Spain and Brittany retold, with his Popol Vuh; cut by chapter, with the back matter (bibliography, glossary, index, notes) under its own headings. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Popol Vuh | have | PG 56550, `spence-popol-vuh` (135 units) |
+| The Myths of Mexico and Peru | have | PG 53080, `spence-myths-of-mexico-and-peru` (1879 units) |
+| The Myths of the North American Indians | have | PG 42390, `spence-myths-of-the-north-american-indians` (2458 units) |
+| Hero Tales and Legends of the Rhine | have | PG 16539, `spence-hero-tales-of-the-rhine` (1493 units) |
+| Myths and Legends of Ancient Egypt | have | PG 43662, `spence-myths-of-ancient-egypt` (910 units) |
+| Myths and Legends of Babylonia and Assyria | have | PG 45137, `spence-myths-of-babylonia-and-assyria` (984 units) |
+| Legends and Romances of Spain | have | PG 38530, `spence-legends-of-spain` (1235 units) |
+| Legends and Romances of Brittany | have | PG 30871, `spence-legends-of-brittany` (2826 units) |
+
+## Lafcadio Hearn
+
+Shelf: `pipeline/hearn_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Ghost stories and legends of Japan and China; cut by story, with numbered sections where he printed them. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Some Chinese Ghosts | have | PG 16261, `hearn-some-chinese-ghosts` (315 units) |
+| Kotto: Being Japanese Curios, with Sundry Cobwebs | have | PG 55473, `hearn-kotto` (772 units) |
+| Kwaidan: Stories and Studies of Strange Things | have | PG 1210, `hearn-kwaidan` (573 units) |
+| The Romance of the Milky Way, and Other Studies and Stories | have | PG 15320, `hearn-romance-of-the-milky-way` (581 units) |
+| Shadowings | have | PG 34215, `hearn-shadowings` (1090 units) |
+| In Ghostly Japan | have | PG 8128, `hearn-in-ghostly-japan` (627 units) |
+
+## Donald A. Mackenzie
+
+Shelf: `pipeline/mackenzie_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Highland legends in verse, and the myths of Babylonia, India, China and Japan retold; cut by poem or chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Elves and Heroes | have | PG 10089, `mackenzie-elves-and-heroes` (310 units) |
+| Myths of Babylonia and Assyria | have | PG 16653, `mackenzie-myths-of-babylonia-and-assyria` (2109 units) |
+| Indian Myth and Legend | have | PG 47228, `mackenzie-indian-myth-and-legend` (3748 units) |
+| Myths of China and Japan | have | PG 67344, `mackenzie-myths-of-china-and-japan` (2027 units) |
+
+## James Stephens
+
+Shelf: `pipeline/stephens_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Irish legends retold: the Fenian tales and the story of Deirdre; cut by tale, and Deirdre by book and chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Irish Fairy Tales | have | PG 2892, `stephens-irish-fairy-tales` (2130 units) |
+| Deirdre | have | PG 65950, `stephens-deirdre` (1871 units) |
+
+## Henry van Dyke
+
+Shelf: `pipeline/van-dyke_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Christmas legends and tales; cut by story and numbered section. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Story of the Other Wise Man | have | PG 16291, `van-dyke-other-wise-man` (165 units) |
+| The Lost Word: A Christmas Legend of Long Ago | have | PG 4384, `van-dyke-lost-word` (182 units) |
+| The First Christmas Tree: A Story of the Forest | have | PG 16134, `van-dyke-first-christmas-tree` (149 units) |
+| The Blue Flower | have | PG 1603, `van-dyke-blue-flower` (887 units) |
+| The Sad Shepherd: A Christmas Story | have | PG 15936, `van-dyke-sad-shepherd` (154 units) |
+| van-dyke-other-wise-man-others | excluded | PG 10679 and 19608, two other transcriptions of The Other Wise Man; 85% and 98% of their long paragraphs are in PG 16291 (the 1899 edition); held once |
+
+## Washington Irving
+
+Shelf: `pipeline/irving_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Legends and tales: the Sketch-Book (Rip Van Winkle, Sleepy Hollow), Tales of a Traveller, The Alhambra and Legends of the Conquest of Spain; cut by sketch, tale or chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Sketch-Book of Geoffrey Crayon | have | PG 2048, `irving-sketch-book` (1084 units) |
+| Tales of a Traveller | have | PG 13514, `irving-tales-of-a-traveller` (1327 units) |
+| The Alhambra | have | PG 49947, `irving-alhambra` (1438 units) |
+| Legends of the Conquest of Spain | have | PG 77685, `irving-legends-of-the-conquest-of-spain` (658 units) |
+| irving-alhambra-pennell | excluded | PG 49872, the Alhambra with Pennell's illustrations (1896); 66% of its long paragraphs are in PG 49947; held once as the same work |
+| irving-sketch-book-parts | excluded | PG 41 (The Legend of Sleepy Hollow), 60976 and 64636 (Rip Van Winkle), and 1850, 20656, 64092 and 52361 (Irving's Christmas chapters): illustrated separate printings of pieces in The Sketch-Book, matched by title; 35-82% of their long paragraphs match PG 2048 at the start of the paragraph (not checked further). Held once inside the Sketch-Book. |
+
+## Jeremiah Curtin (folk tales and myths)
+
+Shelf: `pipeline/curtin-folk_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Tales he took down from Irish, Slav, Magyar, Seneca, Modoc and Wintu tellers, in his English; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Myths and Folk Tales of Ireland | have | PG 36540, `curtin-myths-and-folk-tales-of-ireland` (1823 units) |
+| Myths and Folk-tales of the Russians, Western Slavs, and Magyars | have | PG 50011, `curtin-myths-and-folk-tales-of-the-russians` (3248 units) |
+| Hero-Tales of Ireland | have | PG 63866, `curtin-hero-tales-of-ireland` (3529 units) |
+| Creation Myths of Primitive America | have | PG 39106, `curtin-creation-myths-of-primitive-america` (3721 units) |
+| Seneca Fiction, Legends, and Myths | have | PG 64176, `curtin-seneca-fiction-legends-and-myths` (4064 units) |
+| Myths of the Modocs | have | PG 73418, `curtin-myths-of-the-modocs` (3601 units) |
+
+## William Larminie, tr.
+
+Shelf: `pipeline/larminie_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). West Irish tales he collected and translated, each with its narrator named; cut by tale, with his phonetic specimens and notes. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| West Irish Folk-Tales and Romances | have | PG 57858, `larminie-west-irish-folk-tales` (1529 units) |
+
+## K. Langloh Parker
+
+Shelf: `pipeline/langloh-parker_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Noongahburrah legends as she heard them, with Andrew Lang's introduction; cut by numbered tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Australian Legendary Tales | have | PG 3833, `langloh-parker-australian-legendary-tales` (403 units) |
+
+## Norman Hinsdale Pitman
+
+Shelf: `pipeline/pitman_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Chinese tales retold; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Chinese Wonder Book | have | PG 18674, `pitman-chinese-wonder-book` (942 units) |
+
+## W. A. Clouston
+
+Shelf: `pipeline/clouston_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Popular tales traced and gathered: the noodle stories, and Eastern romances in Rehatsek's and Ouseley's English; cut by chapter or tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Book of Noodles | have | PG 13032, `clouston-book-of-noodles` (648 units) |
+| A Group of Eastern Romances and Stories from the Persian, Tamil and Urdu | have | PG 57468, `clouston-group-of-eastern-romances` (1871 units) |
+| The Bakhtyār Nāma: A Persian Romance | have | PG 60316, `clouston-bakhtyar-nama` (799 units) |
+
+## Florence Holbrook
+
+Shelf: `pipeline/holbrook_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Nature myths and Norse hero tales retold for school readers; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Book of Nature Myths | have | PG 22420, `holbrook-book-of-nature-myths` (1016 units) |
+| Northland Heroes | have | PG 20853, `holbrook-northland-heroes` (399 units) |
+
+## Alexander Chodzko (tr. Emily J. Harding)
+
+Shelf: `pipeline/chodzko_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Slav fairy tales, Czech, Slovak, Russian and others, translated and illustrated by Emily J. Harding; cut by tale and part. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Fairy Tales of the Slav Peasants and Herdsmen | have | PG 25555, `chodzko-fairy-tales-of-the-slav-peasants` (1390 units) |
+
+## Leonard A. Magnus, tr.
+
+Shelf: `pipeline/magnus_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Russian folk tales from Afanasyev, translated direct from the Russian; cut by tale, with his notes and glossary. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Russian Folk-Tales | have | PG 62509, `magnus-russian-folk-tales` (2830 units) |
+
+## Moses Gaster, tr.
+
+Shelf: `pipeline/gaster_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Rumanian animal and bird legends, numbered as he printed them, with appendices of charms and Ben Sira's animal stories. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Rumanian Bird and Beast Stories | have | PG 43059, `gaster-rumanian-bird-and-beast-stories` (1601 units) |
+
+## George McCall Theal
+
+Shelf: `pipeline/theal_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Xhosa folk tales and proverbs as Theal printed them, with his notes; cut by story. The book's title uses a term now recognised as a slur. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Kaffir Folk-lore | have | PG 71335, `theal-kaffir-folk-lore` (1264 units) |
+
+## Mary F. Nixon-Roulet
+
+Shelf: `pipeline/nixon-roulet_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Japanese folk stories and fairy tales retold for school readers; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Japanese Folk Stories and Fairy Tales | have | PG 73293, `nixon-roulet-japanese-folk-stories` (811 units) |
+
+## Marie L. McLaughlin
+
+Shelf: `pipeline/mclaughlin_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Sioux myths and legends as she heard them in the Sioux language; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Myths and Legends of the Sioux | have | PG 341, `mclaughlin-myths-and-legends-of-the-sioux` (680 units) |
+
+## Gerald Friedlander, tr.
+
+Shelf: `pipeline/friedlander_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Jewish fairy stories retold from Talmudic and later sources; cut by story. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Jewish Fairy Stories | have | PG 72880, `friedlander-jewish-fairy-stories` (331 units) |
+
+## Louis Ginzberg (tr. Henrietta Szold)
+
+Shelf: `pipeline/ginzberg_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The legends of the Bible's people from Talmud, Midrash and later sources; cut by chapter and legend. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Legends of the Jews, Volume 1 | have | PG 1493, `ginzberg-legends-of-the-jews-1` (918 units) |
+| The Legends of the Jews, Volume 2 | have | PG 1494, `ginzberg-legends-of-the-jews-2` (918 units) |
+| ginzberg-legends-of-the-jews-3 | excluded | Gutenberg 2881, tr. Paul Radin (catalogue 1883-1959): held for Adam, UK copyright to 2029 |
+| ginzberg-legends-of-the-jews-4 | excluded | Gutenberg 2882, tr. Paul Radin with Henrietta Szold: held for Adam with volume 3 |
+
+## Carl Ewald (tr. Teixeira de Mattos; Moore Smith)
+
+Shelf: `pipeline/ewald_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Nature fairy tales; cut by story and numbered section, or by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Old Willow Tree, and Other Stories | have | PG 31167, `ewald-old-willow-tree` (1075 units) |
+| The Pond | have | PG 31708, `ewald-pond` (710 units) |
+| Two-Legs | have | PG 65029, `ewald-two-legs` (1086 units) |
+| The Spider, and Other Tales | have | PG 62910, `ewald-spider` (946 units) |
+| The Four Seasons | have | PG 62912, `ewald-four-seasons` (605 units) |
+| The Queen Bee, and Other Nature Stories | have | PG 40553, `ewald-queen-bee` (546 units) |
+| ewald-adult | excluded | My Little Boy (35543) and The Old Room (62883): not stories for children |
+
+## Elizabeth Harrison
+
+Shelf: `pipeline/elizabeth-harrison_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Kindergarten stories; cut by story. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| In Story-land | have | PG 33980, `harrison-in-story-land` (459 units) |
+
+## Edith Howes
+
+Shelf: `pipeline/howes_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Fairy and nature stories from New Zealand; cut by story. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Wonderwings and other Fairy Stories | have | PG 20366, `howes-wonderwings` (116 units) |
+| The Sun's Babies | have | PG 38063, `howes-suns-babies` (1019 units) |
+
+## Alice Elizabeth Dracott
+
+Shelf: `pipeline/dracott_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Folk tales she collected around Simla; cut by tale, with her notes. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Simla Village Tales; Or, Folk Tales from the Himalayas | have | PG 58816, `dracott-simla-village-tales` (1117 units) |
+
+## A. H. Wratislaw, tr.
+
+Shelf: `pipeline/wratislaw_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Sixty Slavonic tales, cut by nation and numbered tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Sixty Folk-Tales from Exclusively Slavonic Sources | have | PG 48761, `wratislaw-sixty-folk-tales` (565 units) |
+
+## George Borrow, tr.
+
+Shelf: `pipeline/borrow_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Nasreddin anecdotes, cited by paragraph. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Turkish Jester | have | PG 16244, `borrow-turkish-jester` (115 units) |
+
+## E. Pauline Johnson
+
+Shelf: `pipeline/pauline-johnson_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Squamish legends Chief Joe Capilano told her, in her retelling; cut by legend. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Legends of Vancouver | have | PG 28483, `pauline-legends-of-vancouver` (466 units) |
+| pauline-legends-of-vancouver-3478 | excluded | PG 3478, an undated Gutenberg transcription of Legends of Vancouver: checked 2026-10-03, 332 of its 360 long paragraphs (92%) are in PG 28483 (copyright 1911, 1913 printing), which is kept as the dated edition; held once |
+
+## Edmund Leamy
+
+Shelf: `pipeline/leamy_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Irish fairy tales retold, with notes; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Irish Fairy Tales | have | PG 29311, `leamy-irish-fairy-tales` (715 units) |
+| leamy-golden-spears | excluded | PG 22168, The Golden Spears and Other Fairy Tales (copyright 1911): checked 2026-10-03, 455 of its 510 long paragraphs (89%) are in Irish Fairy Tales (PG 29311, Dublin 1906), the same seven tales; held once |
+
+## Basil Hall Chamberlain
+
+Shelf: `pipeline/basil-chamberlain_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Ainu tales he took down and Englished, and two of his Japanese fairy-tale booklets; cut by section and numbered tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Aino Folk-Tales | have | PG 29287, `chamberlain-aino-folk-tales` (220 units) |
+| The Silly Jelly-Fish | have | PG 25590, `chamberlain-silly-jelly-fish` (32 units) |
+| The Fisher-Boy Urashima | have | PG 30024, `chamberlain-fisher-boy-urashima` (20 units) |
+
+## Cyrus MacMillan
+
+Shelf: `pipeline/cyrus-macmillan_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Canadian Indigenous and French-Canadian tales retold; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Canadian Fairy Tales | have | PG 36241, `macmillan-canadian-fairy-tales` (357 units) |
+
+## E. T. C. Werner
+
+Shelf: `pipeline/werner_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Chinese myths and legends retold, with his chapters on sociology and mythology; cut by chapter and section. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Myths and Legends of China | have | PG 15250, `werner-myths-and-legends-of-china` (1227 units) |
+
+## Wirt Sikes
+
+Shelf: `pipeline/sikes_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Welsh fairy lore, ghost lore and customs; cut by book, chapter, numbered section and footnotes. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| British Goblins: Welsh Folk-lore, Fairy Mythology, Legends and Traditions | have | PG 34704, `sikes-british-goblins` (2072 units) |
+
+## Enys Tregarthen
+
+Shelf: `pipeline/tregarthen_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Cornish piskey tales and legends, with her notes; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Piskey-Purse: Legends and Tales of North Cornwall | have | PG 37245, `tregarthen-piskey-purse` (1143 units) |
+| North Cornwall Fairies and Legends | have | PG 40246, `tregarthen-north-cornwall-fairies` (760 units) |
+
+## M. I. Ebbutt
+
+Shelf: `pipeline/ebbutt_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Hero tales of the British peoples retold; cut by chapter and section. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Hero-Myths & Legends of the British Race | have | PG 25502, `ebbutt-hero-myths-and-legends` (1680 units) |
+
+## Maurice Baring
+
+Shelf: `pipeline/maurice-baring_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Original fairy stories; cut by story. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Blue Rose Fairy Book | have | PG 36008, `baring-blue-rose-fairy-book` (769 units) |
+
+## Evelyn Sharp
+
+Shelf: `pipeline/evelyn-sharp_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Original fairy stories; cut by story. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| All the Way to Fairyland: Fairy Stories | have | PG 30400, `sharp-all-the-way-to-fairyland` (833 units) |
+| The Other Side of the Sun: Fairy Stories | have | PG 40573, `sharp-other-side-of-the-sun` (881 units) |
+
+## M. R. James
+
+Shelf: `pipeline/mr-james_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Apocryphal Old Testament legends retold for children, and a children's fantasy; cut by legend or chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Old Testament Legends | have | PG 15874, `mrjames-old-testament-legends` (251 units) |
+| The Five Jars | have | PG 24089, `mrjames-five-jars` (452 units) |
+
+## J. Macgowan
+
+Shelf: `pipeline/macgowan_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Chinese folk tales; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Chinese Folk-Lore Tales | have | PG 26070, `macgowan-chinese-folk-lore-tales` (690 units) |
 
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 

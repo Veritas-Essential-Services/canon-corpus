@@ -1,0 +1,67 @@
+{
+ "_about": "M. R. James's Old Testament Legends (1913), apocryphal legends of the patriarchs retold for children, and his children's fantasy The Five Jars (1922). His ghost stories are not taken here. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "M. R. James",
+ "_name_words": [
+  "james"
+ ],
+ "_surname": [
+  "m. r. james"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mrjames-old-testament-legends": [
+   15874,
+   "Old Testament Legends",
+   {
+    "levels": [
+     {
+      "re": "(?![IVX]+$)[A-Z][^a-z]+$",
+      "strip": "\\.$",
+      "repeat_continues": true
+     },
+     {
+      "re": "[IVX]+$"
+     }
+    ],
+    "start": "OLD TESTAMENT LEGENDS$",
+    "front": true
+   }
+  ],
+  "mrjames-five-jars": [
+   24089,
+   "The Five Jars",
+   {
+    "levels": [
+     {
+      "re": "[IVX]+$",
+      "title_next": true
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mrjames-old-testament-legends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "m. r. james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrjames-five-jars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "m. r. james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

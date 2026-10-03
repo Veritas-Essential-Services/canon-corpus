@@ -1,0 +1,30 @@
+{
+ "_about": "Myths and Legends of the Sioux, told by Marie L. McLaughlin, who writes that she was born at Wabasha in 1842, of Mdewakanton Sioux descent, and heard these stories in the Sioux language; her preface is dated May 1, 1913. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Marie L. McLaughlin",
+ "_name_words": [
+  "mclaughlin"
+ ],
+ "_surname": [
+  "marie l. mclaughlin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mclaughlin-myths-and-legends-of-the-sioux": [
+   341,
+   "Myths and Legends of the Sioux"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mclaughlin-myths-and-legends-of-the-sioux": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "marie l. mclaughlin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

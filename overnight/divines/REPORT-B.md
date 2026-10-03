@@ -306,3 +306,147 @@
 - Paley's prose Odes of Pindar (1868; OCR 0.88; translator unchecked, OCR reads 'PA LET').
 - Banks's Bohn Works of Hesiod, Callimachus and Theognis (1856; OCR 0.84), with the verse of Elton (Hesiod), Tytler (Callimachus) and Frere (Theognis) appended, which answers the Tytler wishlist line.
 - Refused on OCR: Tytler's 1793 Callimachus (0.767, just under the bar), Polwhele's Theocritus (0.68).
+
+## 2026-10-03 01:21 CDT — Seneca (Morell 1786), Apuleius (Taylor 1822), review round 8
+- Seneca: Thomas Morell's Epistles to Lucilius, 1786, both volumes (Woodfall for Robinson); the translator's name OCRs garbled on each title page, so the claim is recorded as unchecked with the OCR spelling
+- Apuleius: Thomas Taylor's 1822 Metamorphosis; a second scan of the same edition excluded
+- Review round 8: the Everyman Ethics (PG 8438) moved to _held as a duplicate of the Adler shelf's aristotle-ethics; the duplicate Rendall 1898 row dropped (same IA item as marcus-aurelius-rendall); Bennett now carries a translator check (surname, since the title page OCRs 'C. E, BENNETT'); Firth vol. 2's date marked inferred; the digest's Adam decisions narrowed to Ross v09, and the stale 'Bennett not found' line removed
+
+## 2026-10-03 01:30 CDT — Aeschines (new), Livy XXI-XXV, Quintilian (Watson), stale notes
+- Aeschines: new shelf with Charles Darwin Adams's three speeches (Loeb 1919) from Perseus TEI; the record also gives 1958, the printing Perseus keyed from, so each row carries a _rights_checked reason
+- Livy: Church and Brodribb's Books XXI-XXV, The Second Punic War (Macmillan, 1883)
+- Quintilian: Watson's Bohn Institutes, vol. I from Bell's 1903 reprint from the 1856 stereotype plates and vol. II from 1856; this fills the 'Watson, no scan located' gap
+- Eighteen 'pending' notes refreshed where the work was already held (Carter's Epictetus, Cary's Herodotus, Buckley's Euripides vol. II, Golding's Caesar, Holland's Livy, Murray's Homer, C. F. Smith's Thucydides, the Bohn Plato, Bysshe, Elton's Hesiod and others); the Brookes More note now agrees with the Perseus source record (Cornhill, 1922)
+
+## 2026-10-03 01:35 CDT — Perseus census fill: Smyth, Norlin, Perrin, Godley, Hicks, Rackham
+- Aeschylus: Smyth's Loeb (1922-26), seven plays; Perseus marks these files modernized
+- Isocrates: Norlin's Loeb vols. 1-2 (1928-29), eleven speeches; Van Hook's vol. 3 (1945) not taken
+- Plutarch: Perrin's Lives (Loeb 1914-26), 66 texts
+- Herodotus: Godley's Loeb (1920-25), whole Histories, in Perseus's modernized text (its header says archaisms were removed and the text revised)
+- Diogenes Laertius: Hicks's Loeb (1925), whole Lives
+- Aristotle: Rackham's Nicomachean Ethics (Loeb 1926) as a second Ethics witness; Freese's Rhetoric refused (1947 printing in its record, no reason stated)
+- Apollodorus: Frazer's Epitome joins his Library
+
+## 2026-10-03 01:38 CDT — Perseus 'check' rows: Isaeus (Forster), Xenophon (Miller)
+- Isaeus: Forster's Loeb (1927), twelve speeches; Perseus keyed the 1962 printing, reason in _rights_checked
+- Xenophon: Miller's Cyropaedia (Loeb 1914); the census's '1949' is Miller's death year
+- The census is now exhausted for lane B: what remains is post-1930 Loebs (Murray's and Vince's later Demosthenes, Harmon's and Babbitt's later volumes), modern translations (Svarlien's Pindar and Bacchylides), or other lanes' authors
+
+## 2026-10-03 01:45 CDT — Lucan (Ridley), Statius (Lewis), Aristophanes (Wheelwright), Pindar (Cary, Wheelwright), Herodotus (Littlebury)
+- Lucan: Ridley's blank-verse Pharsalia, first edition (Longmans, 1896) and his revised second edition (1905)
+- Statius: William Lillington Lewis's verse Thebaid, both volumes of the Becket second edition (IA dates them 1767 and 1773; the vol. I imprint year OCRs garbled)
+- Aristophanes: C. A. Wheelwright's complete Comedies in blank verse, 2 vols (Oxford, Talboys; IA 1837)
+- Pindar: Henry Francis Cary's Pindar in English Verse (Moxon; IA 1833) and Wheelwright's Pindar (Valpy, 1830)
+- Herodotus: Isaac Littlebury's translation, third edition, 2 vols (1737)
+
+## 2026-10-03 01:52 CDT — Horace (Martin), Virgil (Kennedy; Pitt and Warton), Greek Anthology (Burges), Martial (Bohn), Catullus/Tibullus (Kelly)
+- Horace: Theodore Martin's complete Works in verse, 2 vols (Blackwood, 1881)
+- Virgil: the Works in verse by Rann Kennedy and Charles Rann Kennedy, 2 vols (1849); Pitt and Warton's Works of Virgil in English Verse (Dodsley, 1763), vols. I and III of four (vols. II and IV not found); Pitt's 1740 Aeneid refused for OCR
+- Greek Anthology: Burges's Bohn prose with metrical versions (1854), on the greek-lyric shelf
+- Martial: the Bohn Epigrams (Bell, 1877), prose with verse versions; no translator named, none claimed
+- Catullus and Tibullus: Kelly's Bohn Erotica (1854), which also prints Lamb's metrical Catullus whole (the missing Lamb vol. II's poems) and Grainger's Tibullus
+- Sophocles: Potter's 1820 translation refused for OCR (0.758)
+
+## 2026-10-03 01:57 CDT — Review round 9
+- Later printings: Ross v09 and v02, Bennett, three Cicero Loebs, Quintilian Butler v1, Velleius, Casaubon Everyman, Adams's Aeschines (1958), Forster's Isaeus (1962) and the refused Freese Rhetoric (1947) are one decision for Adam in DIGEST-B; nothing in the class is decided in-lane
+- Godley's Herodotus and seven Smyth Aeschylus plays are Perseus-modernized texts: each has a _rights_checked reason naming the modernizer its header gives, a DIGEST-B decision, and fetch_perseus.py now refuses any modernized file without a reason
+- Every kept Perseus finding (lane B, 290 texts) now carries a rights block with redistribute_whole false; markup_licence_in_file is recorded only where the file itself states a licence (Godley's and Smyth's files do not, so their block cites the repository README)
+- pindar-cary-1833 withdrawn: the same IA scan as lane C's cary-pindar, already cross-referenced
+- Unchecked translators: Lewis vol. I now matches ('Lillington Lewis' in the dedication); Ridley 1896, Paley, Watson vol. II, Morell (2), Lewis vol. II and Littlebury (2) print the name nowhere the OCR can read, so each stays under _translator_unchecked with the title page's OCR spelling
+
+## 2026-10-03 02:04 CDT — Nicomachus (D'Ooge), Hermetica (new)
+- Nicomachus: D'Ooge's Introduction to Arithmetic with Robbins and Karpinski's studies (University of Michigan Studies; Macmillan, 1926), on the greek-mechanics-astronomy shelf; date from the title page, IA records none
+- Hermetica: new shelf. John David Chambers's translation from the Greek (T. & T. Clark, 1882); Everard's Divine Pymander (1650) in Redway's 1884 reprint with Hargrave Jennings's introduction; G. R. S. Mead's Thrice-Greatest Hermes, all three volumes (1906)
+- Gellius: a stale 'Beloe vol. 2 pending' note closed; vol. 2 was already held
+
+## 2026-10-03 02:10 CDT — Epictetus (Stanhope), Sallustius (Taylor), Orphic Hymns (Taylor)
+- Epictetus: Stanhope's Epictetus his Morals with Simplicius his Comment, fifth edition (1741)
+- Pythagoreans: Taylor's Sallust on the Gods and the World with Demophilus's Pythagoric Sentences (Jeffery; IA 1793); the book names no translator, so none is claimed
+- Orphica: new shelf, Taylor's Mystical Initiations; or, Hymns of Orpheus (1787, first edition); IA's mysticalhymnsor00taylgoog, catalogued 1824, is Dobell's 1896 reprint
+- Refused for OCR: Taylor's Two Orations of Julian (1793), the 1896 Alciphron, Scott's Hermetica vol. I
+
+## 2026-10-03 02:13 CDT — Proclus on the Timaeus (Taylor), Boethius (Ridpath, Colville)
+- Proclus: Taylor's Commentaries of Proclus on the Timaeus of Plato, 2 vols (printed for the author; IA 1820)
+- Boethius: Philip Ridpath's Consolation (Dilly, 1785); George Colville's 1556 translation in Ernest Belfort Bax's edition (Nutt, 1897; Tudor English, unlike Chaucer's Middle English Boece, which the shelf leaves out)
+- Retry list: Queen Elizabeth's Englishings of Boethius (EETS, 1899), archive.org 500
+
+## 2026-10-03 02:15 CDT — Seneca tragedies (Bradshaw)
+- Seneca: Watson Bradshaw's prose Ten Tragedies (Swan Sonnenschein, 1902)
+- Tenne Tragedies (Tudor Translations, 1927) still held for Adam (Eliot introduction)
+
+## 2026-10-03 02:17 CDT — Arrian and others (McCrindle)
+- Arrian shelf: McCrindle's Invasion of India by Alexander the Great (Constable, 1893), Arrian, Curtius, Diodoros, Plutarch, Justin
+
+## 2026-10-03 02:18 CDT — Silius Italicus (Tytler)
+- New shelf silius: Tytler's verse Punics vol. I (Calcutta, 1828)
+- Duff's Loeb vol. I (1961 reprint) held for Adam; added to the later-printings decision
+- Duff vol. II (first printed 1934) not taken
+
+## 2026-10-03 02:20 CDT — Cebes (Guthrie)
+- New shelf cebes: Guthrie's Greek Pilgrim's Progress (1910)
+- Healey 1610 and two 18th-century versions refused on OCR
+
+## 2026-10-03 02:23 CDT — Bohn gaps (Lucan, Aristotle)
+- Lucan: Riley's literal prose Pharsalia (Bohn, 1853)
+- Aristotle: M'Mahon's literal Metaphysics (Bohn, 1857)
+- Refused on OCR (EEBO, 0.57-0.74): Stanley's Aelian 1665/1666, Fleming's Aelian 1576, Bingham's Tactiks of Aelian 1616, Golding's Mela 1585; the 1670 Aelian answers 500 (added to the retry)
+
+## 2026-10-03 02:27 CDT — Bohn and single plays
+- Aristotle: Walford's Politics and Economics (Bohn, 1853)
+- Euripides: Augusta Webster's verse Medea (1868)
+- Julian: C. W. King's Julian the Emperor (Bohn, 1888), with Gregory Nazianzen's Invectives and Libanius' Monody
+- Aeschylus: Prometheus Bound by Augusta Webster (1866), C. B. Cayley (1867), Paul Elmer More (1899), Edwyn Bevan (1902)
+
+## 2026-10-03 02:30 CDT — Aeschylus: Agamemnons
+- Aeschylus: Agamemnon by J. S. Harford (1831, translator unchecked), H. H. Milman (1865, with the Bacchae), W. R. Paton (1907), Locke Ellis (1920)
+- Not taken: Trevelyan's Oresteia (Greek facing, OCR 0.51) and Greek-facing school editions
+
+## 2026-10-03 02:35 CDT — Reviewer cycle 9
+- Distinguishing name forms on seven shelves (Maximus, Xenophon, Apollonius, Sallust, Hermes); all items re-pass
+- McCrindle label kept at 1893 on the title page's evidence; IA's 1896 noted
+- Virgil Pitt vol. III: title_weak explained (Æneid ligature), title page recorded
+- Plutarch: stale Holland exclusion removed
+
+## 2026-10-03 02:38 CDT — Euripides and Aristophanes
+- Euripides: Oxford literal prose Hecuba, Orestes, Phoenissae, Medea (1820s; translator unnamed)
+- Aristophanes: Walsh's Acharnians, Knights, Clouds (Bohn, 1848)
+- Aristophanes: Comedies (Clouds, Plutus, Frogs, Birds; Valpy, 1812)
+- Aristophanes: Oxford literal Plutus and Frogs (Talboys, 1822; unnamed)
+- Aristophanes: Acharnians in verse by Billson (1882) and Tyrrell (1883)
+
+## 2026-10-03 02:43 CDT — Horace; retry
+- Horace: verse Odes by C. S. Mathews (1867), H. H. Pierce (1884), W. H. Cudworth (1917)
+- Retry: three items now show metadata but their text still answers 500 (Queen Elizabeth's Boethius, the 1670 Aelian, Sheppard's Oedipus); the rest unchanged
+
+## 2026-10-03 02:45 CDT — Virgil: Aeneids
+- Virgil: Aeneid by G. K. Rickards (I-VI, 1871), John D. Long (1879), Oliver Crane (1888), Sir Charles Bowen (Eclogues and I-VI, 1889)
+- IA aeneidvirgil00rickgoog mislabelled (Rickards, not Ravensworth); Ravensworth's VII-XII still wanted
+
+## 2026-10-03 02:47 CDT — Virgil: Georgics and Eclogues
+- Virgil: Georgics by William Sotheby (1808), R. D. Blackmore (1871), Harriet Waters Preston (1881), Lord Burghclere (I-II, 1900)
+- Virgil: Bucolics by T. W. C. Edwards (1825); Eclogues by T. F. Royds (1922)
+- Retry list: I. P. Smith's Eclogues (1909), 500
+
+## 2026-10-03 02:50 CDT — Minor Latin poets
+- New shelf latin-minor-poets: Calpurnius (Scott, 1890), Publilius Syrus (Lyman, 1856), Distichs of Cato (Chase, 1922), Grattius (Wase, 1654)
+- Wase's date: IA gives 1654; the title page OCR reads 1664; label states both
+
+## 2026-10-03 02:52 CDT — Presocratics
+- New shelf presocratics: Heraclitus (G. T. W. Patrick, 1889), Empedocles in verse (W. E. Leonard, 1908)
+- Fairbanks's First Philosophers of Greece refused on OCR; Burnet not taken (a study)
+
+## 2026-10-03 02:53 CDT — Plato
+- Plato: F. J. Church, Trial and Death of Socrates (Euthyphro, Apology, Crito, Phaedo)
+- Plato: A. D. Lindsay's Republic (Everyman, 3rd ed. 1923)
+- Plato: E. M. Cope's literal Gorgias (1864) and Phaedo (1875)
+- Wright's Phaedrus, Lysis and Protagoras: the only scan found answers 404
+
+## 2026-10-03 02:55 CDT — Plato (2)
+- Plato: J. Wright's Phaedrus, Lysis, Protagoras (1888); S. W. Dyde's Theaetetus (1899); Talks with Athenian Youths (1891, translator unnamed in the volume); F. A. Paley's Philebus (1879)
+- No text layer on IA: a Theaetetus (1875), two Menos (1869, 1880), Socrates (1879), The Judgment of Socrates (1898)
+
+## 2026-10-03 03:00 CDT — Cicero (older translations)
+- Cicero: Guthrie's Epistles to Atticus (1752 vol. I; 1806 vols. II-III)
+- Cicero: Guthrie's Offices, Cato, Laelius, Paradoxes, Scipio's Dream (1755); his On Oratory and Orators (1808, 2 vols.)
+- Cicero: Heberden's Letters to Atticus (1825, 2 vols.); Francklin's Nature of the Gods (1829); Jeans's Life and Letters (1887)
+- Three translator claims unchecked with reasons (OCR'd name, lost title page, name only in advertisements)

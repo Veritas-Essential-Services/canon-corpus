@@ -46,7 +46,7 @@
  "_excluded": {
   "pg26245": "Crawley, duplicate of PG 7142",
   "pg9074": "Stories from Thucydides (Havell): an adaptation",
-  "C. F. Smith, Loeb (1919-23)": "on Perseus, US PD by date; pending"
+  "C. F. Smith, Loeb (1919-23)": "now held: thucydides-smith-v1..v3, and the Perseus text (thucydides-perseus-smith-history-of-the-peloponnesian-war)"
  },
  "perseus": {
   "thucydides-perseus-smith-history-of-the-peloponnesian-war": [
@@ -176,7 +176,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0003/tlg001/tlg0003.tlg001.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "thucydides-perseus-dale-history-of-the-peloponnesian-war": {
    "checked": "2026-10-03",
@@ -190,7 +197,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0003/tlg001/tlg0003.tlg001.1st1K-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "thucydides-perseus-hobbes-the-history-of-the-grecian-war": {
    "checked": "2026-10-03",
@@ -204,7 +218,14 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0003/tlg001/tlg0003.tlg001.perseus-eng4.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   }
  }
 }

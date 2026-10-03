@@ -1057,94 +1057,431 @@
     },
     {
       "id": "b-f-westcott",
-      "status": "queued",
+      "status": "done",
       "scope": "B. F. Westcott: commentaries on John, Hebrews, the Epistles of John; the Canon (d. 1901)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:16:45-05:00",
+      "finished": "2026-10-03T01:18:48-05:00",
+      "notes": "6 IA"
     },
     {
       "id": "r-c-trench",
-      "status": "queued",
+      "status": "done",
       "scope": "R. C. Trench: Synonyms of the New Testament; Notes on the Parables and Miracles; On the Study of Words (d. 1886)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:20:41-05:00",
+      "finished": "2026-10-03T01:21:46-05:00",
+      "notes": "4 PG + 3 IA"
     },
     {
       "id": "henry-alford",
-      "status": "queued",
+      "status": "done",
       "scope": "Henry Alford: The Greek Testament (d. 1871)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:23:30-05:00",
+      "finished": "2026-10-03T01:37:57-05:00",
+      "notes": "3 IA; 1 pending"
     },
     {
       "id": "john-eadie",
-      "status": "queued",
+      "status": "done",
       "scope": "John Eadie: commentaries on Ephesians, Colossians, Philippians, Galatians (d. 1876)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:25:48-05:00",
+      "finished": "2026-10-03T01:36:19-05:00",
+      "notes": "2 IA; 1 pending"
     },
     {
       "id": "john-brown-edinburgh",
-      "status": "queued",
+      "status": "done",
       "scope": "John Brown of Edinburgh: Expository Discourses (d. 1858)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:30:32-05:00",
+      "finished": "2026-10-03T01:31:38-05:00",
+      "notes": "4 IA"
     },
     {
       "id": "f-w-robertson",
-      "status": "queued",
+      "status": "done",
       "scope": "F. W. Robertson of Brighton: Sermons (d. 1853)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:32:13-05:00",
+      "finished": "2026-10-03T01:33:24-05:00",
+      "notes": "1 PG + 4 IA"
     },
     {
       "id": "john-keble",
-      "status": "queued",
+      "status": "done",
       "scope": "John Keble: The Christian Year; Sermons (d. 1866)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:38:36-05:00",
+      "finished": "2026-10-03T01:39:28-05:00",
+      "notes": "1 CCEL + 1 PG + 2 IA"
     },
     {
       "id": "e-b-pusey",
-      "status": "queued",
+      "status": "done",
       "scope": "E. B. Pusey: Parochial Sermons; The Minor Prophets (d. 1882)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:40:01-05:00",
+      "finished": "2026-10-03T01:45:20-05:00",
+      "notes": "3 IA; 1 pending"
     },
     {
       "id": "h-p-liddon",
-      "status": "queued",
+      "status": "done",
       "scope": "H. P. Liddon: The Divinity of Our Lord (Bampton Lectures); sermons (d. 1890)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "started": "2026-10-03T01:42:24-05:00",
+      "finished": "2026-10-03T01:45:38-05:00",
+      "notes": "5 IA"
     },
     {
       "id": "a-a-hodge",
-      "status": "queued",
+      "status": "done",
       "scope": "A. A. Hodge: Outlines of Theology; Commentary on the Confession (d. 1886)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "finished": "2026-10-03T01:49:26-05:00",
+      "notes": "5 IA volumes; Confession commentary is the 1885 edition"
     },
     {
       "id": "j-a-alexander",
-      "status": "queued",
+      "status": "done",
       "scope": "Joseph Addison Alexander: commentaries on Isaiah, Psalms, Mark, Acts (d. 1860)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "finished": "2026-10-03T01:52:44-05:00",
+      "notes": "12 IA volumes; Church Offices pending"
     },
     {
       "id": "albert-barnes",
-      "status": "queued",
+      "status": "done",
       "scope": "Albert Barnes: Notes on the New Testament (d. 1870)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "finished": "2026-10-03T02:05:51-05:00",
+      "notes": "CCEL NT Notes + 16 IA volumes"
     },
     {
       "id": "moses-stuart",
-      "status": "queued",
+      "status": "done",
       "scope": "Moses Stuart: commentaries on Hebrews and Romans; Hebrew grammar (d. 1852)",
       "added": "2026-10-03T01:11:23-05:00",
-      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list."
+      "added_by": "lane A worker, round 10 (round 9 done at 01:10 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Biblical scholars and commentators whose work bears on the Word Hoard's Greek and English, plus Victorian preachers; none from the English Reformers/Knox list.",
+      "finished": "2026-10-03T02:09:55-05:00",
+      "notes": "8 IA volumes; NT Grammar excluded (no Greek)"
+    },
+    {
+      "id": "thomas-hooker",
+      "status": "skipped",
+      "scope": "Thomas Hooker of Hartford: The Soul's Preparation, The Application of Redemption (d. 1647)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:12:15-05:00",
+      "notes": "not shelved: IA holds only the 1638-48 first printings and 1956-82 facsimiles; the one 1648 copy that passed read at 77.7% OCR and the other three never name him in their text layer. Retry if a 19th-century edition or a clean transcription turns up."
+    },
+    {
+      "id": "john-cotton",
+      "status": "done",
+      "scope": "John Cotton of Boston: The Way of Life, Christ the Fountain of Life, Milk for Babes (d. 1652)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:16:42-05:00",
+      "notes": "1 IA volume (Keyes, 1843 reprint)"
+    },
+    {
+      "id": "increase-mather",
+      "status": "done",
+      "scope": "Increase Mather: Cases of Conscience, sermons (d. 1723)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:14:46-05:00",
+      "notes": "4 IA volumes (19th-c. editions)"
+    },
+    {
+      "id": "samuel-willard",
+      "status": "done",
+      "scope": "Samuel Willard: A Compleat Body of Divinity (1726) (d. 1707)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:16:50-05:00",
+      "notes": "1 IA volume (1726 folio, 85.5% OCR)"
+    },
+    {
+      "id": "solomon-stoddard",
+      "status": "done",
+      "scope": "Solomon Stoddard: A Guide to Christ, The Safety of Appearing (d. 1729)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:14:54-05:00",
+      "notes": "2 IA volumes"
+    },
+    {
+      "id": "thomas-wilson",
+      "status": "done",
+      "scope": "Bishop Thomas Wilson of Sodor and Man: Sacra Privata, Maxims, sermons (d. 1755)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:22:23-05:00",
+      "notes": "6 IA volumes (Works vols 2-7)"
+    },
+    {
+      "id": "daniel-waterland",
+      "status": "done",
+      "scope": "Daniel Waterland: works on the Trinity and the Eucharist (d. 1740)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:24:42-05:00",
+      "notes": "9 IA volumes (1823 Works)"
+    },
+    {
+      "id": "john-tillotson",
+      "status": "done",
+      "scope": "John Tillotson: sermons (d. 1694)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:22:15-05:00",
+      "notes": "7 CCEL + 2 IA volumes; vol. 3 pending"
+    },
+    {
+      "id": "william-wilberforce",
+      "status": "done",
+      "scope": "William Wilberforce: A Practical View of the Prevailing Religious System (1797) (d. 1833)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:24:49-05:00",
+      "notes": "1 PG title"
+    },
+    {
+      "id": "j-w-alexander",
+      "status": "done",
+      "scope": "James W. Alexander: Thoughts on Preaching, Consolation, sermons (d. 1859)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:30:51-05:00",
+      "notes": "3 IA volumes"
+    },
+    {
+      "id": "samuel-miller",
+      "status": "done",
+      "scope": "Samuel Miller: Letters on Clerical Manners, The Ruling Elder (d. 1850)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:31:09-05:00",
+      "notes": "6 IA volumes"
+    },
+    {
+      "id": "gardiner-spring",
+      "status": "done",
+      "scope": "Gardiner Spring: Essays on the Distinguishing Traits of Christian Character (d. 1873)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:31:07-05:00",
+      "notes": "5 IA volumes"
+    },
+    {
+      "id": "ichabod-spencer",
+      "status": "done",
+      "scope": "Ichabod Spencer: A Pastor's Sketches (d. 1854)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:31:11-05:00",
+      "notes": "5 IA volumes"
+    },
+    {
+      "id": "robert-candlish",
+      "status": "done",
+      "scope": "Robert S. Candlish: The Fatherhood of God, Genesis lectures (d. 1873)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:42:04-05:00",
+      "notes": "6 IA volumes"
+    },
+    {
+      "id": "hugh-martin",
+      "status": "done",
+      "scope": "Hugh Martin: The Atonement, The Shadow of Calvary, Jonah (d. 1885)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:42:12-05:00",
+      "notes": "4 IA volumes"
+    },
+    {
+      "id": "george-smeaton",
+      "status": "done",
+      "scope": "George Smeaton: The Doctrine of the Atonement, The Holy Spirit (d. 1889)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:42:14-05:00",
+      "notes": "3 IA volumes"
+    },
+    {
+      "id": "john-kennedy-dingwall",
+      "status": "done",
+      "scope": "John Kennedy of Dingwall: The Days of the Fathers in Ross-shire (d. 1884)",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:42:16-05:00",
+      "notes": "2 IA volumes"
+    },
+    {
+      "id": "thomas-mccrie",
+      "status": "done",
+      "scope": "Thomas M'Crie the elder: Life of Andrew Melville, sermons (d. 1835); NOT his Life of Knox, which the Reformers/Knox thread owns",
+      "added": "2026-10-03T02:10:52-05:00",
+      "added_by": "lane A worker, round 11 (round 10 done at 02:09 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). New England Puritans, later Anglican divines, Scots Free Church theologians and American Presbyterians; none from the English Reformers/Knox list, and no commentators PR #11 plans (Ellicott, Bengel, Keil-Delitzsch).",
+      "finished": "2026-10-03T02:42:19-05:00",
+      "notes": "4 IA volumes; Knox left to the Reformers thread"
+    },
+    {
+      "id": "alexander-maclaren",
+      "status": "done",
+      "scope": "Alexander Maclaren: Expositions of Holy Scripture (d. 1910)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans.",
+      "finished": "2026-10-03T02:58:49-05:00",
+      "notes": "19 CCEL texts"
+    },
+    {
+      "id": "charles-finney",
+      "status": "done",
+      "scope": "Charles G. Finney: Lectures on Revivals, Systematic Theology, Memoirs (d. 1875)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans.",
+      "finished": "2026-10-03T02:58:57-05:00",
+      "notes": "7 CCEL texts"
+    },
+    {
+      "id": "e-m-bounds",
+      "status": "done",
+      "scope": "E. M. Bounds: Power Through Prayer and the other prayer books (d. 1913)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans.",
+      "finished": "2026-10-03T02:58:59-05:00",
+      "notes": "7 CCEL texts"
+    },
+    {
+      "id": "hannah-whitall-smith",
+      "status": "done",
+      "scope": "Hannah Whitall Smith: The Christian's Secret of a Happy Life (d. 1911)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans.",
+      "finished": "2026-10-03T02:59:01-05:00",
+      "notes": "3 CCEL texts"
+    },
+    {
+      "id": "d-l-moody",
+      "status": "queued",
+      "scope": "D. L. Moody: sermons and addresses (d. 1899)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans."
+    },
+    {
+      "id": "r-a-torrey",
+      "status": "done",
+      "scope": "R. A. Torrey: How to Pray, What the Bible Teaches (d. 1928)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans.",
+      "finished": "2026-10-03T02:59:04-05:00",
+      "notes": "3 CCEL texts"
+    },
+    {
+      "id": "george-muller",
+      "status": "queued",
+      "scope": "George M\u00fcller: A Narrative of Some of the Lord's Dealings (d. 1898)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans."
+    },
+    {
+      "id": "c-h-mackintosh",
+      "status": "queued",
+      "scope": "C. H. Mackintosh: Notes on the Pentateuch (d. 1896)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans."
+    },
+    {
+      "id": "a-b-bruce",
+      "status": "done",
+      "scope": "A. B. Bruce: The Training of the Twelve, The Humiliation of Christ (d. 1899)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans.",
+      "finished": "2026-10-03T05:40:23-05:00",
+      "notes": "1 CCEL + 4 IA; Parabolic Teaching pending"
+    },
+    {
+      "id": "james-denney",
+      "status": "queued",
+      "scope": "James Denney: The Death of Christ, Studies in Theology (d. 1917)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans."
+    },
+    {
+      "id": "alexander-whyte",
+      "status": "queued",
+      "scope": "Alexander Whyte: Bible Characters, Bunyan Characters (d. 1921)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans."
+    },
+    {
+      "id": "h-c-g-moule",
+      "status": "queued",
+      "scope": "H. C. G. Moule: Outlines of Christian Doctrine, devotional commentaries (d. 1920)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans."
+    },
+    {
+      "id": "f-b-meyer",
+      "status": "queued",
+      "scope": "F. B. Meyer: Old Testament biographies, devotional works (d. 1929)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans."
+    },
+    {
+      "id": "john-mcleod-campbell",
+      "status": "queued",
+      "scope": "John McLeod Campbell: The Nature of the Atonement (d. 1872)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans."
+    },
+    {
+      "id": "horace-bushnell",
+      "status": "done",
+      "scope": "Horace Bushnell: Christian Nurture, The Vicarious Sacrifice (d. 1876)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans.",
+      "finished": "2026-10-03T02:59:06-05:00",
+      "notes": "5 CCEL texts"
+    },
+    {
+      "id": "phillips-brooks",
+      "status": "queued",
+      "scope": "Phillips Brooks: Lectures on Preaching, sermons (d. 1893)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans."
+    },
+    {
+      "id": "richard-watson-methodist",
+      "status": "queued",
+      "scope": "Richard Watson: Theological Institutes (d. 1833)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans."
+    },
+    {
+      "id": "abraham-booth",
+      "status": "queued",
+      "scope": "Abraham Booth: The Reign of Grace (d. 1806)",
+      "added": "2026-10-03T02:54:08-05:00",
+      "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans."
     }
   ]
 }

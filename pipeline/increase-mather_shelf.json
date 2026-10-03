@@ -1,0 +1,85 @@
+{
+ "_about": "Public-domain Increase Mather (1639-1723, minister of the Second Church, Boston, and president of Harvard) for the Word Hoard, from 19th-century editions, raw Internet Archive OCR: Remarkable Providences (ed. George Offor, London: J. R. Smith, 1856), Early History of New England (ed. S. G. Drake, Albany: Munsell, 1864), The History of King Philip's War (ed. S. G. Drake, Boston, 1862) and his Diary of 1675-76 (Cambridge, 1900). Added 2026-10-03 by lane A, round 11 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "mather",
+  "increase"
+ ],
+ "_surname": [
+  "increase mather",
+  "i. mather",
+  "mather, increase"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "imather-remarkable-providences-1856": [
+   "remarkableprovid00math",
+   "Remarkable Providences Illustrative of the Earlier Days of American Colonisation (London: J. R. Smith, 1856)"
+  ],
+  "imather-early-history-1864": [
+   "earlyhistoryofne00mathrich",
+   "Early History of New England (Albany: J. Munsell, 1864)"
+  ],
+  "imather-king-philips-war-1862": [
+   "historyofkingphi00math",
+   "The History of King Philip's War (Boston: printed for the editor, 1862)"
+  ],
+  "imather-diary-1900": [
+   "matherdiary00mathrich",
+   "Diary, March 1675 to December 1676 (Cambridge: J. Wilson and Son, 1900)"
+  ]
+ },
+ "_alternates": {
+  "imather-remarkable-providences-1856": "the 1890 Reeves and Turner reissue (IA remarkableprovid00mathuoft)"
+ },
+ "_excluded": {
+  "imather-cases-of-conscience": "Cases of Conscience concerning Witchcrafts is printed in the 1862 J. R. Smith volume with Cotton Mather's Wonders of the Invisible World, which is excluded from the cotton-mather shelf as a veto point; held back on the same footing"
+ },
+ "_checks": {
+  "imather-remarkable-providences-1856": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "increase mather",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "imather-early-history-1864": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "increase mather",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "imather-king-philips-war-1862": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "increase mather",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "imather-diary-1900": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "increase mather",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

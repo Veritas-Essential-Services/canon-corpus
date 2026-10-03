@@ -1,0 +1,99 @@
+{
+ "_about": "Public-domain Frederick William Robertson (1816-1853, incumbent of Trinity Chapel, Brighton) for the Word Hoard: Sermons Preached at Brighton, third series, clean from Project Gutenberg, and Sermons Preached at Brighton (London: H. S. King, 1875, 4 vols), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "r/robertson",
+ "_name_words": [
+  "robertson",
+  "frederick",
+  "william"
+ ],
+ "_surname": [
+  "frederick william robertson",
+  "f. w. robertson",
+  "robertson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "fwrobertson-brighton-third-series": [
+   "16645",
+   "Sermons Preached at Brighton, Third Series"
+  ]
+ },
+ "internet_archive": {
+  "fwrobertson-brighton-1": [
+   "sermonspreacheda01robeuoft",
+   "Sermons Preached at Brighton, vol. 1 (London: H. S. King, 1875)"
+  ],
+  "fwrobertson-brighton-2": [
+   "sermonspreacheda02robeuoft",
+   "Sermons Preached at Brighton, vol. 2 (London: H. S. King, 1875)"
+  ],
+  "fwrobertson-brighton-3": [
+   "sermonspreacheda03robe",
+   "Sermons Preached at Brighton, vol. 3 (London: H. S. King, 1875)"
+  ],
+  "fwrobertson-brighton-4": [
+   "sermonspreacheda04robeuoft",
+   "Sermons Preached at Brighton, vol. 4 (London: H. S. King, 1875)"
+  ]
+ },
+ "_alternates": {
+  "fwrobertson": "Harper's one-volume New York edition (1870); the Everyman volumes of 1906 (later arrangement); 'The Human Race' and other sermons (1881)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "fwrobertson-brighton-third-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "frederick william robertson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwrobertson-brighton-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "f. w. robertson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fwrobertson-brighton-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "f. w. robertson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fwrobertson-brighton-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "f. w. robertson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fwrobertson-brighton-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "f. w. robertson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

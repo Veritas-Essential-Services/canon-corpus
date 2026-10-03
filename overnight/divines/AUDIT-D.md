@@ -302,3 +302,29 @@ All 137 shelves (890 slugs: 790 Gutenberg, 69 Internet Archive, 31 CCEL).
 - **Same source held twice.** None new.
 - **Translators.** The catalog lists Spenser as an author of Jean Lang's *Stories from the Faerie Queen*. It is her prose retelling, so no translator is involved.
 - **Text held twice.** Ouida's *Bimbi* shares stories with her two other collections (Nürnberg Stove, Lampblack, Bandita, The Ambitious Rose Tree): 27% and 13% of it. Mint those once, with two witnesses. The single-story books were held once before commit, as was Garis's *Old Mother Hubbard* (97% inside *Uncle Wiggily and Mother Goose*). Garis's fourteen picture pamphlets share almost nothing with his longer books (5% at most), so they stay.
+
+## 10. Eighth pass (2026-10-03 small hours, after batches 19-21 and review rounds 6-7)
+
+All 163 shelves (926 slugs).
+
+- **URLs.** 926 checked in three chunks (one sweep at higher concurrency tripped the proxy's Gutenberg tunnel and was discarded). Five Gutenberg files reset on the first try and all five answered on retry. Lang's Lockhart vol. 1 returned HTTP 500 again, as at the fifth pass; the Internet Archive record still lists its text file, and the local copy fetched on 2026-10-02 is intact. Every slug is in the map.
+- **Author names.** Lane A's load-time gate (e1ef08b) and the reviewer's round 6 led to full-name `_surname` forms on 32 shelves (REPORT-D). Every Lane D shelf passes `check_surnames`, and every re-recorded book matched. The change caught one misattribution: Lang's shelf held a 1896 Christian Literature Society for India pamphlet "compiled from Lang, Caldwell, Conway, Tylor ... and others", now in `_held` (DIGEST decision 16).
+- **Header-author check.** Unchanged since the seventh pass: three Gutenberg headers name only an illustrator (Burgess's Sammy Jay, Baldwin's Story of the Golden Age, Baring-Gould's Grettir), and each text names its author.
+- **Same source held twice.** None new. The only new title collision is "Welsh Fairy-Tales" (P. H. Emerson, PG 8675) against "Welsh Fairy Tales" (Griffis, PG 9368): different books.
+- **Translators.** The catalog check finds nothing new. Batch 21's translations carry `_translators` (Jones for the Magyar tales, Hall, O'Connor, Ralston for Tibetan Tales), and `--verify --record` matched each one; Gutenberg's header for Tibetan Tales names both Schiefner and Ralston.
+- **Text held twice.** Batch 21's sixteen new books were compared paragraph by paragraph against every built book. The only overlap above five paragraphs is seven quoted passages Jameson's Sacred and Legendary Art shares with Kingsley's lectures (7 of 1,327). Mint once.
+- **CCEL.** Lane A's print-source check (36ca012) flags four MacDonald books keyed from 1934-2001 reprints (DIGEST decision 17).
+
+## 11. Ninth pass (2026-10-03 small hours, after batches 22-24)
+
+All 190 shelves.
+
+- **URLs.** 983 URLs on the 181 shelves of batches 1-23 checked in one sweep. Three Gutenberg files reset the connection and all three answered on retry; Lang's Lockhart vol. 1 returned HTTP 500 again (local copy intact). Batch 24's 16 files were fetched fresh the same hour and every slug is in the map.
+- **Jacobs's Celtic Folk and Fairy Tales (PG 35862), held since relay 5 as a probable retitling.** Compared paragraph by paragraph with Celtic Fairy Tales (PG 7885): 81% of each book's long paragraphs are in the other, and the preface is the same. It is Putnam's American title for the same book; it stays in `_excluded`, now with the measurement recorded. Closed.
+- **Text held twice.** Batches 22-24 (47 new books) were compared against every built book. Above 10%: van Dyke's Blue Flower repeats three of his separate books (75%, 62%, 50%; mint once, two witnesses), and Irving's Pennell-illustrated Alhambra (PG 49872, 66%) is held once as the same work. Below 10% but real: Ewald's Old Willow Tree (1921) reprints three tales from The Spider (1907) in a revised text, 59 paragraphs alike; mint those once. The Queen Bee is Moore Smith's separate translation of five of the same tales: a different witness, nothing shared word for word.
+- **Same tale title twice in one book.** Magnus's three tales called A Tale of the Dead, Curtin's two Koshchéi and two Yahyáhaäs tales, and Dracott's two Sheik Chilli tales used to collide or run together. `convert_nested.py` now takes `number_repeats`, and they cite as "(2)", "(3)". Tests: convert_nested 14 passed, structure_test 64 passed.
+- **Translators.** Every batch 23-24 translation carries `_translators`, and `--verify --record` matched each name in its text (Curtin, Larminie, Rehatsek and Ouseley under Clouston, Harding, Magnus, Gaster, Theal, Friedlander, Szold, Teixeira de Mattos, Moore Smith, Wratislaw, Borrow). 0 Gutenberg copyright markers. One translator was refused rather than assumed: Paul Radin's Ginzberg volumes are held (DIGEST decision 18).
+- **Retention.** Every new book was checked for prose paragraphs that land in no unit: none lost. The only flagged lines are headings (Clouston's "Gothamite Drolleries (continued)", Howes's "Fairy Tenderheart.").
+- **Header-author check.** Two headers word the name differently from the title page (Dracott: "Alice Dracott" against "Alice Elizabeth Dracott"; Wratislaw as compiler). Both texts print the full name, and `_surname` uses it.
+- **Name forms (reviewer cycle 9).** Bare "webster", "wilde" and "perkins" each passed two different people's books. Now "jean webster", "wentworth webster", "lady wilde"/"speranza", "oscar wilde" and "lucy fitch perkins", re-recorded clean (0ba7662). The three forms still shared between Lane D shelves name one person on both sides: Joseph Jacobs, William Morris and Martens.
+- **number_repeats** now counts a heading once it holds text, so a Contents list cannot use up "(2)" (b8e46fd, two new tests; the eight books using it rebuild with identical ids).

@@ -11,7 +11,7 @@
   "owen-mort": "already in pipeline/fetch_sources.py CCEL dict; not refetched here",
   "owen-temptation": "already in pipeline/fetch_sources.py CCEL dict; not refetched here",
   "owen-communion": "already in pipeline/fetch_sources.py CCEL dict; not refetched here",
-  "owen-glory": "already in pipeline/fetch_sources.py CCEL dict; not refetched here"
+  "owen-glory": "already in pipeline/fetch_sources.py CCEL dict; not refetched here. CAUTION (press thread, PR #15, 2026-10-03): CCEL's o/owen/glory is a modernised text, not Goold's: collated against Goold vol. 1 it differs in 591 places (hath->has, doth->does, should->would). Goold's text is on this shelf as owen-works-goold-01 (raw OCR); EEBO-TCP A53707 is the other faithful source. The fetch_sources.py entry is not lane A's to change."
  },
  "ccel": {
   "owen-apostasy": [

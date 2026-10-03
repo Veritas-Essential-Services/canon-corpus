@@ -1,0 +1,106 @@
+{
+ "_about": "Public-domain A. B. Bruce (Alexander Balmain Bruce, 1831-1899, Free Church of Scotland, professor of apologetics and New Testament exegesis at the Free Church College, Glasgow) for the Word Hoard: The Training of the Twelve clean from CCEL, and The Humiliation of Christ (second edition, 1889), The Kingdom of God (1889), St. Paul's Conception of Christianity (1896 printing) and The Epistle to the Hebrews (1899) as raw Internet Archive OCR. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "b/bruce",
+ "_name_words": [
+  "bruce",
+  "balmain"
+ ],
+ "_surname": [
+  "alexander balmain bruce",
+  "a. b. bruce",
+  "a.b. bruce",
+  "bruce, a.b",
+  "bruce, a. b",
+  "bruce, alexander balmain"
+ ],
+ "_held": {},
+ "ccel": {
+  "bruce-training-twelve": [
+   "twelve",
+   "The Training of the Twelve",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "bruce-humiliation-1889": [
+   "2edhumiliationof00brucuoft",
+   "The Humiliation of Christ in its Physical, Ethical, and Official Aspects, second edition revised and enlarged (New York: A. C. Armstrong, 1889)"
+  ],
+  "bruce-kingdom-of-god-1889": [
+   "kingdomofgodorch00brucrich",
+   "The Kingdom of God, or Christ's Teaching according to the Synoptical Gospels (Edinburgh: T. & T. Clark, 1889)"
+  ],
+  "bruce-st-paul-1896": [
+   "stpaulsconcepti00brucuoft",
+   "St. Paul's Conception of Christianity (Edinburgh: T. & T. Clark, 1896)"
+  ],
+  "bruce-hebrews-1899": [
+   "theepistletotheh00brucuoft",
+   "The Epistle to the Hebrews, the First Apology for Christianity: an Exegetical Study (Edinburgh: T. & T. Clark, 1899)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_pending": {
+  "bruce-parabolic-teaching": "The Parabolic Teaching of Christ (1882-86): IA theparabolicteac00brucuoft returned HTTP 500 on 2026-10-03; retry"
+ },
+ "_checks": {
+  "bruce-training-twelve": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "a. b. bruce",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "bruce-humiliation-1889": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander balmain bruce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bruce-kingdom-of-god-1889": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander balmain bruce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bruce-st-paul-1896": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander balmain bruce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bruce-hebrews-1899": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander balmain bruce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

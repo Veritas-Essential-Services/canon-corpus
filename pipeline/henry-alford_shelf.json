@@ -1,0 +1,85 @@
+{
+ "_about": "Public-domain Henry Alford (1810-1871, Dean of Canterbury) for the Word Hoard: The Greek Testament, with a critically revised text, a digest of various readings and a critical and exegetical commentary, all four volumes, raw Internet Archive OCR: vols 1-3 from London (Rivington, catalogued 1849-56), vol. 4 from the Boston (Lee and Shepard) issue catalogued 1874. The volumes come from different printings of a work Alford revised edition by edition. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted. Vol. 1's text layer carries no Greek characters (its Greek was read as Latin letters); vols 2 and 4 carry Greek. Overlap: PR #11's build_commentaries.py plans a verse-keyed Alford; this shelf's raw OCR is a second copy, and Adam picks which is the reading of record. Vol. 3 (shelved after retries, 2026-10-03) carries 273,536 Greek characters.",
+ "_ccel_author": "a/alford",
+ "_name_words": [
+  "alford",
+  "henry"
+ ],
+ "_surname": [
+  "henry alford",
+  "h. alford",
+  "dean alford",
+  "alford"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "alford-greek-testament-1": [
+   "greektestamentwi01alfo",
+   "The Greek Testament, vol. 1: the Four Gospels (London: Rivington; catalogued 1849)"
+  ],
+  "alford-greek-testament-2": [
+   "greektestamentwi02alfo",
+   "The Greek Testament, vol. 2: Acts to Second Corinthians (London: Rivington; catalogued 1856)"
+  ],
+  "alford-greek-testament-4": [
+   "greektestamentwi04alfo",
+   "The Greek Testament, vol. 4: Hebrews to Revelation (Boston: Lee and Shepard; catalogued 1874)"
+  ],
+  "alford-greek-testament-3": [
+   "greektestamentwi03alfo",
+   "The Greek Testament, vol. 3: Galatians to Philemon (London: Rivingtons; Cambridge: Deighton, Bell, 1856)"
+  ]
+ },
+ "_alternates": {
+  "alford-greek-testament": "Boston, Lee and Shepard, 1874: vol. 1 (greektestamentwidv01alfo, 81% OCR) and vol. 2 (greektestamentwidvr02alfo, never shows Alford's name); Robarts 1868 vol. 3 (greektestament03alfo, refused: neither name nor title words in its text layer); London: Longmans, 1897 (no vol. 3 found)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "alford-greek-testament-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "alford-greek-testament-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry alford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "alford-greek-testament-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "h. alford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "alford-greek-testament-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry alford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

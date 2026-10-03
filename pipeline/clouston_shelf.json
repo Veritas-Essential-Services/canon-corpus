@@ -1,0 +1,118 @@
+{
+ "_about": "W. A. Clouston's books of popular tales: The Book of Noodles (Glasgow, March 1888), the stories of simpletons traced across countries; A Group of Eastern Romances and Stories (MDCCCLXXXIX), which he compiled from Edward Rehatsek's translations from the Persian and others' from the Tamil and Urdu; and The Bakhtyār Nāma (MDCCCLXXXIII), Sir William Ouseley's translation, which he edited. His essays and wise sayings are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "W. A. Clouston",
+ "_name_words": [
+  "clouston"
+ ],
+ "_surname": [
+  "w. a. clouston"
+ ],
+ "_translators": {
+  "clouston-group-of-eastern-romances": "Rehatsek",
+  "clouston-bakhtyar-nama": "Ouseley"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "clouston-book-of-noodles": [
+   13032,
+   "The Book of Noodles",
+   {
+    "levels": [
+     {
+      "re": "INDEX\\.$"
+     },
+     {
+      "re": "(?:CHAPTER [IVX]+|APPENDIX)\\.$",
+      "title_next": true,
+      "strip": "_"
+     },
+     {
+      "re": "FOOTNOTES:$"
+     }
+    ],
+    "start": "THE BOOK OF NOODLES\\.$",
+    "front": true
+   }
+  ],
+  "clouston-group-of-eastern-romances": [
+   57468,
+   "A Group of Eastern Romances and Stories from the Persian, Tamil and Urdu",
+   {
+    "levels": [
+     {
+      "re": "(?:APPENDIX|_ADDITIONAL NOTES\\._|FOOTNOTES|INDEX)\\.?$",
+      "strip": "_"
+     },
+     {
+      "re": "(?:INTRODUCTION|HISTORY OF NASSAR|HISTORY OF FARRUKHRÚZ|THE KING AND HIS FOUR MINISTERS|THE ROSE OF BAKÁWALÍ|PERSIAN STORIES|ABSTRACT OF THE ROMANCE OF HATIM TAÏ|STORY OF PRINCE KASHARKASHA|SANSKRIT ORIGINAL)\\.?$"
+     },
+     {
+      "re": "(?:CHAPTER [IVX]+|PROEM|FIRST ADVICE|SECOND ADVICE|THIRD ADVICE|CONTINUATION OF THE HISTORY OF NASSAR|CONCLUSION OF THE HISTORY OF NASSAR|THE THREE DECEITFUL WOMEN|THE ENVIOUS VAZÍR|THE BLIND BEGGAR|THE KAZI OF GHAZNI AND THE MERCHANT’S WIFE|THE INDEPENDENT MAN AND HIS TRAVELLING COMPANIONS|THE KING WHO LEARNED A TRADE|THE HIDDEN TREASURE|THE DEAF MAN AND HIS SICK FRIEND|THE GARDENER AND THE LITTLE BIRD)\\.$"
+     }
+    ],
+    "start": "INTRODUCTION\\.$",
+    "front": true
+   }
+  ],
+  "clouston-bakhtyar-nama": [
+   60316,
+   "The Bakhtyār Nāma: A Persian Romance",
+   {
+    "levels": [
+     {
+      "re": "(?:INTRODUCTION|THE BAKHTYĀR NĀMA|NOTES AND ILLUSTRATIONS)\\.$|-----$",
+      "label": {
+       "-----": "FOOTNOTES"
+      }
+     },
+     {
+      "re": "(?:CHAPTER [IVX]+|CONCLUSION|NOTES ON CHAPTER [IVX]+|NOTES ON CONCLUSION|ADDITIONAL NOTES|I—ORIENTAL FICTIONS—THE ARABIAN NIGHTS—THE BOOK OF SINDIBĀD|II—THE BAKHTYĀR NĀMA AND ITS VERSIONS)\\.$"
+     },
+     {
+      "re": "(?:(?:HISTORY|STORY) OF [^a-z]+)\\.$",
+      "max": 100
+     }
+    ],
+    "start": "INTRODUCTION\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "clouston-book-of-noodles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "w. a. clouston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clouston-group-of-eastern-romances": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "w. a. clouston",
+   "translator_claimed": "Rehatsek",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward Rehatsek",
+   "translator_match": true
+  },
+  "clouston-bakhtyar-nama": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "w. a. clouston",
+   "translator_claimed": "Ouseley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Ouseley",
+   "translator_match": true
+  }
+ }
+}

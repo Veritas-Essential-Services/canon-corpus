@@ -1,5 +1,5 @@
 {
- "_about": "Plato in English: Benjamin Jowett's complete translation of the dialogues (3rd ed., Oxford, 1892), public domain. One translator's whole Plato. Gutenberg texts are clean and carry Jowett's introductions and analyses; the Internet Archive set is the 1892 Clarendon five-volume collected edition (Royal College of Physicians copy) as raw OCR, kept as the page-citable edition of record and for the general index in vol. 5. Order: Gutenberg > Internet Archive. English only; no Greek. Translator recorded per title. Alcibiades II and Eryxias in Jowett's edition were translated by his secretary Matthew Knight (Jowett says so in the introduction to his second appendix). Two Jowett texts were already in the collection via the Adler shelf (Republic, Apology); they are cross-referenced, not refetched. Second translator, added 2026-10-02: the complete Bohn Works of Plato (Cary, Davis, Burges; 6 vols., 1848-54) as raw IA OCR, with vols. 1-2 also clean from Gutenberg (PG 78618, 79398). It carries the dialogues Jowett left out (Hipparchus, Minos, Rivals, Theages, Clitophon, Epinomis, the Epistles, Definitions and the other doubtful works). Third translator, added 2026-10-02: Thomas Taylor's complete Works of Plato (London, 1804; nine dialogues by Floyer Sydenham), 5 vols., raw IA OCR.",
+ "_about": "Plato in English: Benjamin Jowett's complete translation of the dialogues (3rd ed., Oxford, 1892), public domain. One translator's whole Plato. Gutenberg texts are clean and carry Jowett's introductions and analyses; the Internet Archive set is the 1892 Clarendon five-volume collected edition (Royal College of Physicians copy) as raw OCR, kept as the page-citable edition of record and for the general index in vol. 5. Order: Gutenberg > Internet Archive. English only; no Greek. Translator recorded per title. Alcibiades II and Eryxias in Jowett's edition were translated by his secretary Matthew Knight (Jowett says so in the introduction to his second appendix). Two Jowett texts were already in the collection via the Adler shelf (Republic, Apology); they are cross-referenced, not refetched. Second translator, added 2026-10-02: the complete Bohn Works of Plato (Cary, Davis, Burges; 6 vols., 1848-54) as raw IA OCR, with vols. 1-2 also clean from Gutenberg (PG 78618, 79398). It carries the dialogues Jowett left out (Hipparchus, Minos, Rivals, Theages, Clitophon, Epinomis, the Epistles, Definitions and the other doubtful works). Third translator, added 2026-10-02: Thomas Taylor's complete Works of Plato (London, 1804; nine dialogues by Floyer Sydenham), 5 vols., raw IA OCR. Added 2026-10-03, raw IA OCR: F. J. Church's Trial and Death of Socrates (1903 printing of the 1886 second edition), A. D. Lindsay's Everyman Republic (third edition, 1923; first 1906) and E. M. Cope's literal Gorgias (1864) and Phaedo (1875). Also J. Wright's Phaedrus, Lysis and Protagoras (1888), S. W. Dyde's Theaetetus (1899), the Scribner Talks with Athenian Youths (1891; translator from the catalogue only) and F. A. Paley's Philebus (1879; IA says 1873, the title page 1879).",
  "_name_words": [
   "plato",
   "jowett",
@@ -291,6 +291,46 @@
    "republicofplatoi00platuoft",
    "The Republic of Plato in Ten Books, translated from the Greek (Everyman's Library; first issue of this edition 1906, this scan the 1919 reprint; Spens's translation first published 1763)",
    "tr. Harry Spens"
+  ],
+  "plato-church-trial-death-1903": [
+   "trialdeathofsocr00platiala",
+   "The Trial and Death of Socrates: the Euthyphron, Apology, Crito and Phaedo (Golden Treasury, 2nd ed. 1886; 1903 printing)",
+   "tr. F. J. Church"
+  ],
+  "plato-lindsay-republic-1923": [
+   "therepublicofpla00platuoft",
+   "The Republic of Plato, third edition with revised text (Everyman; Dent, 1923)",
+   "tr. A. D. Lindsay"
+  ],
+  "plato-cope-gorgias-1864": [
+   "bub_gb_H50hsgIss64C",
+   "Plato's Gorgias, literally translated, with an introductory essay (Deighton, Bell, 1864)",
+   "tr. E. M. Cope"
+  ],
+  "plato-cope-phaedo-1875": [
+   "phaedoliterally00platuoft",
+   "Plato's Phaedo, literally translated (Cambridge University Press, 1875; published after the translator's death)",
+   "tr. E. M. Cope"
+  ],
+  "plato-wright-phaedrus-lysis-protagoras-1888": [
+   "phaedruslysisand02platuoft",
+   "The Phaedrus, Lysis, and Protagoras of Plato, a new and literal translation (Macmillan, 1888)",
+   "tr. J. Wright"
+  ],
+  "plato-dyde-theaetetus-1899": [
+   "theaetetustransl00plat",
+   "The Theaetetus of Plato, a translation with an introduction (Maclehose, 1899)",
+   "tr. S. W. Dyde"
+  ],
+  "plato-mason-talks-1891": [
+   "talkswithathenia00platrich",
+   "Talks with Athenian Youths: translations from the Charmides, Lysis, Laches, Euthydemus and Theaetetus (Scribner, 1891)",
+   "tr. Ellen Francis Mason (from the catalogue; the volume names no translator)"
+  ],
+  "plato-paley-philebus-1879": [
+   "philebusplato00platuoft",
+   "The Philebus of Plato, translated, with brief explanatory notes (George Bell, 1879)",
+   "tr. F. A. Paley"
   ]
  },
  "_excluded": {
@@ -300,7 +340,7 @@
   "pg76464": "The Dialogues of Plato, 3rd ed. 1892, vol. 2 only (clean Gutenberg transcription of the collected edition, 2025). Same text as the per-dialogue PG files; the other four volumes are not on Gutenberg yet. Pending: when PG finishes the set, it would be the cleanest collected edition",
   "pg29441": "Project Gutenberg Works of Plato: An Index (an index page, not a text)",
   "pg13726": "Apology, Crito and Phaedo of Socrates: Henry Cary translation, not Jowett",
-  "pg78618, pg79398": "The Works of Plato (Bohn, 6 vols.): Cary / Davis translations, not Jowett. Pending as a second translator shelf if wanted",
+  "pg78618, pg79398": "now held: plato-bohn-cary-v1-pg (PG 78618), plato-bohn-davis-v2-pg (PG 79398)",
   "Seventh Letter and the Epistles": "Jowett did not translate the Epistles in the Dialogues; not on this shelf",
   "tlg0059.tlg030.perseus-eng2 (Shorey, Republic)": "Paul Shorey's Loeb Republic: vol. 1 1930, vol. 2 1935; the one Perseus file holds both books and its sourceDesc dates it 1935-37 printings, so it is after the 1930 line as a whole. Not taken; Jowett's, Taylor's and Davis's (Bohn) Republics are held"
  },
@@ -396,7 +436,14 @@
   "plato-whewell-v1-1860": "William Whewell",
   "plato-whewell-v2-1860": "William Whewell",
   "plato-whewell-v3-1861": "William Whewell",
-  "plato-spens-republic-everyman": "Harry Spens"
+  "plato-spens-republic-everyman": "Harry Spens",
+  "plato-church-trial-death-1903": "F. J. Church",
+  "plato-lindsay-republic-1923": "Lindsay",
+  "plato-cope-gorgias-1864": "E. M. Cope",
+  "plato-cope-phaedo-1875": "Cope",
+  "plato-wright-phaedrus-lysis-protagoras-1888": "J. Wright",
+  "plato-dyde-theaetetus-1899": "S. W. Dyde",
+  "plato-paley-philebus-1879": "Paley"
  },
  "_checks": {
   "plato-charmides": {
@@ -1023,11 +1070,114 @@
    "ia_date": "1919",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "plato-church-trial-death-1903": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "F. J. Church",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plato-lindsay-republic-1923": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "Lindsay",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plato-cope-gorgias-1864": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "E. M. Cope",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "plato-cope-phaedo-1875": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "Cope",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plato-wright-phaedrus-lysis-protagoras-1888": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "J. Wright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plato-dyde-theaetetus-1899": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "S. W. Dyde",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "plato-mason-talks-1891": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plato-paley-philebus-1879": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "Paley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_translator_unchecked": {
   "plato-eryxias": "Gutenberg's header names Jowett, whose edition it is; the text credits the translation of the spurious dialogues to his secretary, Mr. Knight (as the row says), so no single surname is checked against the header",
-  "plato-alcibiades-2": "Jowett's edition names no translator for this spurious dialogue; 'Mr. Knight' appears only as his secretary in the preface"
+  "plato-alcibiades-2": "Jowett's edition names no translator for this spurious dialogue; 'Mr. Knight' appears only as his secretary in the preface",
+  "plato-mason-talks-1891": "the volume names no translator; Ellen Francis Mason is the library catalogue's attribution"
  },
  "perseus": {
   "plato-perseus-fowler-euthyphro": [
@@ -1253,7 +1403,14 @@
     1914
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg001/tlg0059.tlg001.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-fowler-apology": {
    "checked": "2026-10-03",
@@ -1266,7 +1423,14 @@
     1914
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg002/tlg0059.tlg002.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-fowler-crito": {
    "checked": "2026-10-03",
@@ -1279,7 +1443,14 @@
     1914
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg003/tlg0059.tlg003.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-fowler-phaedo": {
    "checked": "2026-10-03",
@@ -1292,7 +1463,14 @@
     1914
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg004/tlg0059.tlg004.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-fowler-cratylus": {
    "checked": "2026-10-03",
@@ -1305,7 +1483,14 @@
     1926
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg005/tlg0059.tlg005.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-fowler-theaetetus": {
    "checked": "2026-10-03",
@@ -1318,7 +1503,14 @@
     1921
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg006/tlg0059.tlg006.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-fowler-sophist": {
    "checked": "2026-10-03",
@@ -1331,7 +1523,14 @@
     1921
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg007/tlg0059.tlg007.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-fowler-statesman": {
    "checked": "2026-10-03",
@@ -1344,7 +1543,14 @@
     1925
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg008/tlg0059.tlg008.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-fowler-parmenides": {
    "checked": "2026-10-03",
@@ -1357,7 +1563,14 @@
     1926
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg009/tlg0059.tlg009.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-fowler-philebus": {
    "checked": "2026-10-03",
@@ -1370,7 +1583,14 @@
     1925
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg010/tlg0059.tlg010.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-lamb-symposium": {
    "checked": "2026-10-03",
@@ -1383,7 +1603,14 @@
     1925
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg011/tlg0059.tlg011.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-fowler-phaedrus": {
    "checked": "2026-10-03",
@@ -1396,7 +1623,14 @@
     1914
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg012/tlg0059.tlg012.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-lamb-alcibiades-i": {
    "checked": "2026-10-03",
@@ -1409,7 +1643,14 @@
     1927
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg013/tlg0059.tlg013.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-lamb-alcibiades-ii": {
    "checked": "2026-10-03",
@@ -1422,7 +1663,14 @@
     1927
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg014/tlg0059.tlg014.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-lamb-hipparchus": {
    "checked": "2026-10-03",
@@ -1435,7 +1683,14 @@
     1927
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg015/tlg0059.tlg015.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-lamb-lovers": {
    "checked": "2026-10-03",
@@ -1448,7 +1703,14 @@
     1927
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg016/tlg0059.tlg016.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-lamb-theages": {
    "checked": "2026-10-03",
@@ -1461,7 +1723,14 @@
     1927
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg017/tlg0059.tlg017.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-lamb-charmides": {
    "checked": "2026-10-03",
@@ -1474,7 +1743,14 @@
     1927
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg018/tlg0059.tlg018.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-lamb-laches": {
    "checked": "2026-10-03",
@@ -1487,7 +1763,14 @@
     1924
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg019/tlg0059.tlg019.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-lamb-lysis": {
    "checked": "2026-10-03",
@@ -1500,7 +1783,14 @@
     1925
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg020/tlg0059.tlg020.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-lamb-euthydemus": {
    "checked": "2026-10-03",
@@ -1513,7 +1803,14 @@
     1924
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg021/tlg0059.tlg021.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-lamb-protagoras": {
    "checked": "2026-10-03",
@@ -1526,7 +1823,14 @@
     1924
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg022/tlg0059.tlg022.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-lamb-gorgias": {
    "checked": "2026-10-03",
@@ -1539,7 +1843,14 @@
     1925
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg023/tlg0059.tlg023.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-lamb-meno": {
    "checked": "2026-10-03",
@@ -1552,7 +1863,14 @@
     1924
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg024/tlg0059.tlg024.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-fowler-greater-hippias": {
    "checked": "2026-10-03",
@@ -1565,7 +1883,14 @@
     1926
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg025/tlg0059.tlg025.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-fowler-lesser-hippias": {
    "checked": "2026-10-03",
@@ -1578,7 +1903,14 @@
     1926
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg026/tlg0059.tlg026.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-lamb-ion": {
    "checked": "2026-10-03",
@@ -1591,7 +1923,14 @@
     1925
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg027/tlg0059.tlg027.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-bury-menexenus": {
    "checked": "2026-10-03",
@@ -1604,7 +1943,14 @@
     1929
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg028/tlg0059.tlg028.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-bury-cleitophon": {
    "checked": "2026-10-03",
@@ -1617,7 +1963,14 @@
     1929
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg029/tlg0059.tlg029.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-bury-timaeus": {
    "checked": "2026-10-03",
@@ -1630,7 +1983,14 @@
     1929
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg031/tlg0059.tlg031.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-bury-critias": {
    "checked": "2026-10-03",
@@ -1643,7 +2003,14 @@
     1929
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg032/tlg0059.tlg032.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-lamb-minos": {
    "checked": "2026-10-03",
@@ -1656,7 +2023,14 @@
     1927
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg033/tlg0059.tlg033.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-bury-laws": {
    "checked": "2026-10-03",
@@ -1669,7 +2043,14 @@
     1926
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg034/tlg0059.tlg034.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-lamb-epinomis": {
    "checked": "2026-10-03",
@@ -1682,7 +2063,14 @@
     1927
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg035/tlg0059.tlg035.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "plato-perseus-bury-letters": {
    "checked": "2026-10-03",
@@ -1695,7 +2083,14 @@
     1929
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0059/tlg036/tlg0059.tlg036.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   }
  }
 }

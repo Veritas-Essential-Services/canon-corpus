@@ -21,6 +21,11 @@
    "martialepigrams02martiala",
    "Martial, Epigrams, vol. 2: Books VIII-XIV (Loeb, 1920)",
    "tr. Walter C. A. Ker"
+  ],
+  "martial-bohn-1877": [
+   "epigramsmartial01bohngoog",
+   "The Epigrams of Martial, translated into English prose, each accompanied by one or more verse translations from the works of English poets (Bohn's Classical Library; George Bell, 1877)",
+   "tr. unnamed (Bohn prose), with verse versions by various hands"
   ]
  },
  "_excluded": {
@@ -37,7 +42,8 @@
   "martial-ker-v2": "Walter C. A. Ker"
  },
  "_translator_unchecked": {
-  "martial-bohn": "no single translator to check: None"
+  "martial-bohn": "no single translator to check: None",
+  "martial-bohn-1877": "the title page names no translator: the prose is the Bohn editor's, unnamed, and the verse versions are by many hands"
  },
  "_checks": {
   "martial-bohn": {
@@ -74,6 +80,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1920",
    "ia_date": "1919-1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "martial-bohn-1877": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "martial",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

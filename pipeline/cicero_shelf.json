@@ -1,5 +1,5 @@
 {
- "_about": "Cicero in English, translator per title. Orations: C. D. Yonge (Bohn), 4 vols. (vols. 1-3 raw IA, vol. 4 clean Gutenberg). Philosophy: Yonge's Academics, De Finibus, Tusculans (with a sketch of the Greek philosophers) and his Tusculans, Nature of the Gods and Commonwealth; Shuckburgh's Friendship and Old Age; Peabody's De Amicitia and Scipio's Dream; Featherstonhaugh's Republic. Rhetoric: E. Jones's Brutus and Orator. Letters: Shuckburgh's whole extant correspondence (vol. 1 clean Gutenberg, vols. 2-4 raw IA) and his selection. Walter Miller's Loeb De Officiis (Gutenberg; Latin facing kept) added 2026-10-02 from the bilingual catalogue. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
+ "_about": "Cicero in English, translator per title. Orations: C. D. Yonge (Bohn), 4 vols. (vols. 1-3 raw IA, vol. 4 clean Gutenberg). Philosophy: Yonge's Academics, De Finibus, Tusculans (with a sketch of the Greek philosophers) and his Tusculans, Nature of the Gods and Commonwealth; Shuckburgh's Friendship and Old Age; Peabody's De Amicitia and Scipio's Dream; Featherstonhaugh's Republic. Rhetoric: E. Jones's Brutus and Orator. Letters: Shuckburgh's whole extant correspondence (vol. 1 clean Gutenberg, vols. 2-4 raw IA) and his selection. Walter Miller's Loeb De Officiis (Gutenberg; Latin facing kept) added 2026-10-02 from the bilingual catalogue. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Added 2026-10-03, older translations as raw IA OCR: William Guthrie's Epistles to Atticus (vol. I of the 1752 edition; vols. II-III of the corrected 1806 edition), his Offices with Cato, Laelius, Paradoxes and the Vision of Scipio (1755) and his On Oratory and Orators (1808, 2 vols., as amended by Jones); William Heberden's Letters to Atticus (1825, 2 vols.); Thomas Francklin's Nature of the Gods (1829); and G. E. Jeans's Life and Letters (2nd ed., 1887).",
  "_name_words": [
   "cicero",
   "tullius",
@@ -171,6 +171,56 @@
    "Cicero, Pro Quinctio, Pro Roscio Amerino, Pro Roscio Comoedo, De Lege Agraria I-III (Loeb, first printed 1930; this scan a 1967 reprint; Latin facing)",
    "Cicero in 28 volumes. vol.6 [Loeb 240]_djvu.txt",
    "tr. John Henry Freese"
+  ],
+  "cicero-guthrie-atticus-1752-v1": [
+   "cicerosepistles00guthgoog",
+   "Cicero's Epistles to Atticus, with notes, vol. I of two (Books I-VIII; T. Waller, 1752)",
+   "tr. William Guthrie"
+  ],
+  "cicero-guthrie-atticus-1806-v2": [
+   "cicerosepistles01cicegoog",
+   "Cicero's Epistles to Atticus, new edition corrected and amended, vol. II of three (Books VI-XI; Lackington, Allen, 1806)",
+   "tr. William Guthrie"
+  ],
+  "cicero-guthrie-atticus-1806-v3": [
+   "cicerosepistles00cicegoog",
+   "Cicero's Epistles to Atticus, new edition corrected and amended, vol. III of three (Books XII-XVI; 1806)",
+   "tr. William Guthrie (title page lost in this volume; vol. II of the set names him)"
+  ],
+  "cicero-guthrie-offices-etc-1755": [
+   "mtcicerohisoffi00guthgoog",
+   "M. T. Cicero, His Offices; Cato Major; Laelius; Moral Paradoxes; the Vision of Scipio; his Letter concerning the Duties of a Magistrate (T. Waller, 1755)",
+   "tr. William Guthrie"
+  ],
+  "cicero-guthrie-de-oratore-1808-v1": [
+   "onoratoryandorat01ciceuoft",
+   "Cicero on Oratory and Orators, with notes, new edition, vol. I of two (1808)",
+   "tr. William Guthrie, amended by Jones (named in the volume's advertisements; the title page names no translator)"
+  ],
+  "cicero-guthrie-de-oratore-1808-v2": [
+   "onoratoryandorat02ciceuoft",
+   "Cicero on Oratory and Orators, with notes, new edition, vol. II of two (1808)",
+   "tr. William Guthrie, amended by Jones (as vol. I)"
+  ],
+  "cicero-heberden-atticus-1825-v1": [
+   "b24748742_0001",
+   "The Letters of Marcus Tullius Cicero to Titus Pomponius Atticus, in sixteen books, vol. I (Payne and Foss, 1825)",
+   "tr. William Heberden"
+  ],
+  "cicero-heberden-atticus-1825-v2": [
+   "b24748742_0002",
+   "The Letters of Marcus Tullius Cicero to Titus Pomponius Atticus, vol. II (Payne and Foss, 1825)",
+   "tr. William Heberden"
+  ],
+  "cicero-francklin-nature-gods-1829": [
+   "naturegods00frangoog",
+   "M. Tullius Cicero of the Nature of the Gods, with notes, and an inquiry into the astronomy and anatomy of the ancients (Pickering, 1829)",
+   "tr. Thomas Francklin"
+  ],
+  "cicero-jeans-letters-1887": [
+   "cu31924026480347",
+   "The Life and Letters of Marcus Tullius Cicero, a new translation of the letters in Watson's selection, second edition (Macmillan, 1887)",
+   "tr. G. E. Jeans"
   ]
  },
  "_excluded": {
@@ -211,11 +261,21 @@
   "cicero-edmonds-offices": "edmonds, c. r.",
   "cicero-watts-pro-archia-etc": "N. H. Watts",
   "cicero-grose-hodge-pro-lege-manilia-etc": "H. Grose Hodge",
-  "cicero-freese-pro-quinctio-etc": "John Henry Freese"
+  "cicero-freese-pro-quinctio-etc": "John Henry Freese",
+  "cicero-guthrie-atticus-1752-v1": "William Guthrie",
+  "cicero-guthrie-offices-etc-1755": "William Guthrie",
+  "cicero-guthrie-de-oratore-1808-v1": "Guthrie",
+  "cicero-heberden-atticus-1825-v2": "Heberden",
+  "cicero-jeans-letters-1887": "Jeans",
+  "cicero-heberden-atticus-1825-v1": "Heberden",
+  "cicero-francklin-nature-gods-1829": "Francklin"
  },
  "_translator_unchecked": {
   "cicero-ker-philippics": "translator on the row (Walter C. A. Ker) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
-  "cicero-watson-on-oratory": "the OCR garbles the title page (\"J.' S,' WATSON\"); 'watson' alone is a common name and proves nothing"
+  "cicero-watson-on-oratory": "the OCR garbles the title page (\"J.' S,' WATSON\"); 'watson' alone is a common name and proves nothing",
+  "cicero-guthrie-atticus-1806-v2": "the title page OCRs the name as 'WILLIAM GUTHEIE'; read by eye as William Guthrie",
+  "cicero-guthrie-atticus-1806-v3": "this volume's title page is lost in the scan; the translator is the one named on vol. II of the same 1806 set (cicero-guthrie-atticus-1806-v2)",
+  "cicero-guthrie-de-oratore-1808-v2": "the title pages name no translator; vol. I's publisher's advertisements list 'Cicero on Oratory and Orators, translated by Guthrie, and amended by Jones, 2 vols.'"
  },
  "_checks": {
   "cicero-yonge-orations-v4": {
@@ -619,6 +679,130 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null,
    "rights_override": "Imprint page read: 'First printed 1930, Reprinted 1945, 1956, 1961, 1967'; reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Works first published in 1930 entered the US public domain on 2026-01-01. Taken as the 1930 text."
+  },
+  "cicero-guthrie-atticus-1752-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "William Guthrie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1752",
+   "ia_date": "1752",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-guthrie-atticus-1806-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "identity": "ok",
+   "ia_rights": "ok: published 1806",
+   "ia_date": "1806",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-guthrie-atticus-1806-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "identity": "ok",
+   "ia_rights": "ok: published 1806",
+   "ia_date": "1806",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-guthrie-offices-etc-1755": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "William Guthrie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1755",
+   "ia_date": "1755",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-guthrie-de-oratore-1808-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Guthrie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-guthrie-de-oratore-1808-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-heberden-atticus-1825-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Heberden",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cicero-heberden-atticus-1825-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Heberden",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cicero-francklin-nature-gods-1829": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Francklin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-jeans-letters-1887": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Jeans",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_held": {

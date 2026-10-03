@@ -1,0 +1,180 @@
+{
+ "_about": "Jeremiah Curtin's folk tales and myths, as he took them down and put them into English: Myths and Folk Tales of Ireland (undated in the text), Myths and Folk-tales of the Russians, Western Slavs, and Magyars (copyright 1890), Hero-Tales of Ireland (1894), Creation Myths of Primitive America (copyright 1898), Seneca Fiction, Legends, and Myths (with J. N. B. Hewitt, in the Bureau of American Ethnology's Thirty-Second Annual Report, 1910-1911, printed 1918) and Myths of the Modocs (London: Sampson Low, 1912, per Gutenberg's record). His Sienkiewicz translations are on lane C's curtin shelf; his histories of the Mongols are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Jeremiah Curtin",
+ "_name_words": [
+  "curtin"
+ ],
+ "_surname": [
+  "jeremiah curtin"
+ ],
+ "_translators": {
+  "curtin-myths-and-folk-tales-of-ireland": "Curtin",
+  "curtin-myths-and-folk-tales-of-the-russians": "Curtin",
+  "curtin-hero-tales-of-ireland": "Curtin",
+  "curtin-creation-myths-of-primitive-america": "Curtin",
+  "curtin-seneca-fiction-legends-and-myths": "Curtin",
+  "curtin-myths-of-the-modocs": "Curtin"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "curtin-myths-and-folk-tales-of-ireland": [
+   36540,
+   "Myths and Folk Tales of Ireland"
+  ],
+  "curtin-myths-and-folk-tales-of-the-russians": [
+   50011,
+   "Myths and Folk-tales of the Russians, Western Slavs, and Magyars",
+   {
+    "levels": [
+     {
+      "re": "(?:INTRODUCTION|RUSSIAN MYTHS AND FOLK-TALES|CHEKH MYTHS AND FOLK-TALES|MAGYAR MYTHS AND FOLK-TALES|NOTES)\\.$"
+     },
+     {
+      "re": "(?!JEREMIAH CURTIN)[A-ZÁÉÍÓÚ][^a-z]+\\.$",
+      "number_repeats": true
+     }
+    ],
+    "start": "INTRODUCTION\\.$",
+    "front": true
+   }
+  ],
+  "curtin-hero-tales-of-ireland": [
+   63866,
+   "Hero-Tales of Ireland"
+  ],
+  "curtin-creation-myths-of-primitive-america": [
+   39106,
+   "Creation Myths of Primitive America",
+   {
+    "levels": [
+     {
+      "re": "NOTES$|MYTHS AND FOLK-LORE OF IRELAND\\.$",
+      "label": {
+       "MYTHS AND FOLK-LORE": "PUBLISHER'S ADVERTISEMENTS"
+      }
+     },
+     {
+      "re": "(?!PERSONAGES$|NOTES$|JEREMIAH CURTIN|CREATION MYTHS OF PRIMITIVE AMERICA$)[A-Z][A-Z ,'’-]+$"
+     }
+    ],
+    "start": "INTRODUCTION$",
+    "front": true
+   }
+  ],
+  "curtin-seneca-fiction-legends-and-myths": [
+   64176,
+   "Seneca Fiction, Legends, and Myths",
+   {
+    "levels": [
+     {
+      "re": "(?:INTRODUCTION|MATERIAL COLLECTED BY JEREMIAH CURTIN|PART 2|SENECA FICTION, LEGENDS, AND MYTHS|NOTES|FOOT-NOTES)$",
+      "label": {
+       "SENECA FICTION": "PART 2"
+      }
+     },
+     {
+      "re": "(?:FICTION|LEGENDS|TRADITIONS|TALES|MYTHS|MEDICAL NOTE|THE SENECA|CHARACTERIZATION OF CONTENTS|PHONETIC KEY)$"
+     },
+     {
+      "re": "\\d+\\. [^a-z]+$",
+      "strip": " ?\\[\\d+\\]",
+      "max": 160
+     },
+     {
+      "re": "\\([^a-z]+\\)$"
+     }
+    ],
+    "start": "INTRODUCTION$",
+    "front": true
+   }
+  ],
+  "curtin-myths-of-the-modocs": [
+   73418,
+   "Myths of the Modocs",
+   {
+    "levels": [
+     {
+      "re": "NOTES$"
+     },
+     {
+      "re": "(?!CHARACTERS?$|NOTES$|THE END|MYTHS OF THE MODOCS$|BY JEREMIAH|TRANSLATOR OF|CONTENTS$|PAGE$)[A-ZÁÉÍÓÚÄÖÜŎÛ][^a-z]+$",
+      "strip": " ?\\[\\d+\\]",
+      "number_repeats": true
+     }
+    ],
+    "start": "INTRODUCTION$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "curtin-myths-and-folk-tales-of-ireland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremiah curtin",
+   "translator_claimed": "Curtin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curtin-myths-and-folk-tales-of-the-russians": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremiah curtin",
+   "translator_claimed": "Curtin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curtin-hero-tales-of-ireland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremiah curtin",
+   "translator_claimed": "Curtin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curtin-creation-myths-of-primitive-america": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremiah curtin",
+   "translator_claimed": "Curtin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curtin-seneca-fiction-legends-and-myths": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremiah curtin",
+   "translator_claimed": "Curtin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "curtin-myths-of-the-modocs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jeremiah curtin",
+   "translator_claimed": "Curtin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

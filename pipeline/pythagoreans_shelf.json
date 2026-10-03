@@ -1,9 +1,11 @@
 {
- "_about": "Minor Pythagorean texts in Thomas Taylor's translation, clean Gutenberg: Ocellus Lucanus on the Nature of the Universe, with Taurus, Julius Firmicus Maternus and Proclus pieces (1831).",
+ "_about": "Minor Pythagorean texts in Thomas Taylor's translation, clean Gutenberg: Ocellus Lucanus on the Nature of the Universe, with Taurus, Julius Firmicus Maternus and Proclus pieces (1831). Also Taylor's Sallust on the Gods and the World with the Pythagoric Sentences of Demophilus (Jeffery, 1793), raw IA OCR; the title page names no translator.",
  "_name_words": [
   "ocellus",
   "lucanus",
-  "universe"
+  "universe",
+  "sallust",
+  "demophilus"
  ],
  "ccel": {},
  "gutenberg": {
@@ -18,6 +20,11 @@
    "politicalfragmen00taylrich",
    "Political Fragments of Archytas, Charondas, Zaleucus and other ancient Pythagoreans, preserved by Stobaeus; and Ethical Fragments of Hierocles (London: for the translator, 1822)",
    "tr. Thomas Taylor"
+  ],
+  "sallustius-demophilus-taylor-1793": [
+   "sallustongodsan00pythgoog",
+   "Sallust on the Gods and the World; and the Pythagoric Sentences of Demophilus, translated from the Greek; and Five Hymns by Proclus, in the original Greek, with a poetical version; to which are added Five Hymns by the translator (London: Edward Jeffery; IA records 1793)",
+   "tr. Thomas Taylor (attributed; the title page names no translator)"
   ]
  },
  "_surname": [
@@ -57,6 +64,17 @@
    "ia_date": "1822",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "sallustius-demophilus-taylor-1793": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sallust on the gods",
+   "identity": "ok",
+   "ia_rights": "ok: published 1793",
+   "ia_date": "1793",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_surname_by_slug": {
@@ -68,6 +86,13 @@
    "charondas",
    "zaleucus",
    "pythagoreans"
+  ],
+  "sallustius-demophilus-taylor-1793": [
+   "sallust on the gods",
+   "demophilus"
   ]
+ },
+ "_translator_unchecked": {
+  "sallustius-demophilus-taylor-1793": "the title page names no translator ('by the translator'); the 1793 Jeffery edition is Thomas Taylor's, an attribution from outside the book"
  }
 }

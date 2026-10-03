@@ -14,13 +14,24 @@
   ]
  },
  "_excluded": {
-  "George Norlin and La Rue Van Hook, Loeb (1928-45)": "vols. 1-2 (1928-29) US PD by date, Greek facing; on Perseus; pending"
+  "George Norlin and La Rue Van Hook, Loeb (1928-45)": "Norlin's vols. 1-2 (1928-29) now held from Perseus, English only: eleven speeches (isocrates-perseus-norlin-*). Van Hook's vol. 3 (1945) is not public domain and is not taken"
  },
  "_surname": [
   "isocrates"
  ],
  "_translators": {
-  "isocrates-freese-v1": "J. H. Freese"
+  "isocrates-freese-v1": "J. H. Freese",
+  "isocrates-perseus-norlin-against-the-sophists": "George Norlin",
+  "isocrates-perseus-norlin-antidosis": "George Norlin",
+  "isocrates-perseus-norlin-to-archidamus": "George Norlin",
+  "isocrates-perseus-norlin-areopagiticus": "George Norlin",
+  "isocrates-perseus-norlin-nicocles-or-the-cyprians": "George Norlin",
+  "isocrates-perseus-norlin-on-the-peace": "George Norlin",
+  "isocrates-perseus-norlin-panathenaicus": "George Norlin",
+  "isocrates-perseus-norlin-panegyricus": "George Norlin",
+  "isocrates-perseus-norlin-to-demonicus": "George Norlin",
+  "isocrates-perseus-norlin-to-nicocles": "George Norlin",
+  "isocrates-perseus-norlin-to-philip": "George Norlin"
  },
  "_checks": {
   "isocrates-freese-v1": {
@@ -35,6 +46,307 @@
    "ia_date": "1894-01-01",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  }
+ },
+ "perseus": {
+  "isocrates-perseus-norlin-against-the-sophists": [
+   "tlg0010.tlg008.perseus-eng2",
+   "Against the Sophists",
+   "George Norlin",
+   "Translation published 1929: US public domain (in or before 1930). Perseus source line: Isocrates, Vol 2. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1929 (printing)."
+  ],
+  "isocrates-perseus-norlin-antidosis": [
+   "tlg0010.tlg019.perseus-eng2",
+   "Antidosis",
+   "George Norlin",
+   "Translation published 1929: US public domain (in or before 1930). Perseus source line: Isocrates, Vol 2. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1929 (printing)."
+  ],
+  "isocrates-perseus-norlin-to-archidamus": [
+   "tlg0010.tlg016.perseus-eng2",
+   "To Archidamus",
+   "George Norlin",
+   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Isocrates, Vol. 1. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd., 1928 (printing)."
+  ],
+  "isocrates-perseus-norlin-areopagiticus": [
+   "tlg0010.tlg018.perseus-eng2",
+   "Areopagiticus",
+   "George Norlin",
+   "Translation published 1929: US public domain (in or before 1930). Perseus source line: Isocrates, Vol 2. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1929 (printing)."
+  ],
+  "isocrates-perseus-norlin-nicocles-or-the-cyprians": [
+   "tlg0010.tlg014.perseus-eng2",
+   "Nicocles or the Cyprians",
+   "George Norlin",
+   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Isocrates, Vol. 1. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd., 1928 (printing)."
+  ],
+  "isocrates-perseus-norlin-on-the-peace": [
+   "tlg0010.tlg017.perseus-eng2",
+   "On the Peace",
+   "George Norlin",
+   "Translation published 1929: US public domain (in or before 1930). Perseus source line: Isocrates, Vol 2. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1929 (printing)."
+  ],
+  "isocrates-perseus-norlin-panathenaicus": [
+   "tlg0010.tlg021.perseus-eng2",
+   "Panathenaicus",
+   "George Norlin",
+   "Translation published 1929: US public domain (in or before 1930). Perseus source line: IIsocrates, Vol 2. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1929 (printing)."
+  ],
+  "isocrates-perseus-norlin-panegyricus": [
+   "tlg0010.tlg011.perseus-eng2",
+   "Panegyricus",
+   "George Norlin",
+   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Isocrates, Vol. 1. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd., 1928 (printing)."
+  ],
+  "isocrates-perseus-norlin-to-demonicus": [
+   "tlg0010.tlg007.perseus-eng2",
+   "To Demonicus",
+   "George Norlin",
+   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Isocrates, Vol. 1. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd., 1928 (printing)."
+  ],
+  "isocrates-perseus-norlin-to-nicocles": [
+   "tlg0010.tlg013.perseus-eng2",
+   "To Nicocles",
+   "George Norlin",
+   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Isocrates, Vol. 1. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd., 1928 (printing)."
+  ],
+  "isocrates-perseus-norlin-to-philip": [
+   "tlg0010.tlg020.perseus-eng2",
+   "To Philip",
+   "George Norlin",
+   "Translation published 1928: US public domain (in or before 1930). Perseus source line: Isocrates, Vol. 1. Norlin, George, translator. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd., 1928 (printing)."
+  ]
+ },
+ "_perseus_checks": {
+  "isocrates-perseus-norlin-against-the-sophists": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0010.tlg008.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "George Norlin",
+   "author_seen": "isocrates",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0010/tlg008/tlg0010.tlg008.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "isocrates-perseus-norlin-antidosis": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0010.tlg019.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "George Norlin",
+   "author_seen": "isocrates",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0010/tlg019/tlg0010.tlg019.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "isocrates-perseus-norlin-to-archidamus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0010.tlg016.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "George Norlin",
+   "author_seen": "isocrates",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0010/tlg016/tlg0010.tlg016.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "isocrates-perseus-norlin-areopagiticus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0010.tlg018.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "George Norlin",
+   "author_seen": "isocrates",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0010/tlg018/tlg0010.tlg018.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "isocrates-perseus-norlin-nicocles-or-the-cyprians": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0010.tlg014.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "George Norlin",
+   "author_seen": "isocrates",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0010/tlg014/tlg0010.tlg014.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "isocrates-perseus-norlin-on-the-peace": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0010.tlg017.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "George Norlin",
+   "author_seen": "isocrates",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0010/tlg017/tlg0010.tlg017.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "isocrates-perseus-norlin-panathenaicus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0010.tlg021.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "George Norlin",
+   "author_seen": "isocrates",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0010/tlg021/tlg0010.tlg021.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "isocrates-perseus-norlin-panegyricus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0010.tlg011.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "George Norlin",
+   "author_seen": "isocrates",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0010/tlg011/tlg0010.tlg011.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "isocrates-perseus-norlin-to-demonicus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0010.tlg007.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "George Norlin",
+   "author_seen": "isocrates",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0010/tlg007/tlg0010.tlg007.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "isocrates-perseus-norlin-to-nicocles": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0010.tlg013.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "George Norlin",
+   "author_seen": "isocrates",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0010/tlg013/tlg0010.tlg013.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "isocrates-perseus-norlin-to-philip": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0010.tlg020.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "George Norlin",
+   "author_seen": "isocrates",
+   "source_years": [
+    1928
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0010/tlg020/tlg0010.tlg020.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   }
  }
 }

@@ -1,0 +1,40 @@
+{
+ "_about": "Simla Village Tales, or Folk Tales from the Himalayas, collected by Alice Elizabeth Dracott (1906). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Alice Elizabeth Dracott",
+ "_name_words": [
+  "dracott"
+ ],
+ "_surname": [
+  "alice elizabeth dracott"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dracott-simla-village-tales": [
+   58816,
+   "Simla Village Tales; Or, Folk Tales from the Himalayas",
+   {
+    "levels": [
+     {
+      "re": "(?!PAGE$|CONTENTS$)[A-Z][^a-z]+$",
+      "number_repeats": true
+     }
+    ],
+    "start": "THE CAUSE OF A LAWSUIT BETWEEN THE OWL AND THE KITE$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "dracott-simla-village-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alice elizabeth dracott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

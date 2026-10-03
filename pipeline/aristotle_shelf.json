@@ -1,5 +1,5 @@
 {
- "_about": "Aristotle in English: the Oxford translation, The Works of Aristotle Translated into English, ed. J. A. Smith and W. D. Ross (Oxford: Clarendon, 1908-1952, 12 vols.). Raw Internet Archive OCR, one item per volume (mostly the St. Michael's College, Toronto set, which follows the official numbering), translator recorded per work. Bekker pages are printed in the margins and survive in the OCR; nothing is converted yet (the Edwards precedent). Rights: US public domain for volumes published 1930 or earlier (vols. I, II, IV-XI). Vol. III (1931) enters the US public domain on 2027-01-01 and Vol. XII (1952) is not cleared, so neither is fetched; its pre-1931 parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues, not yet found, and a PD 1902 English De Anima + Parva Naturalia (Hammond) stands in as a gap-fill. Several translators died after 1956, so these are not public domain in the UK or other life+70 countries. English only; no Greek (Perseus Greek not pulled). Clean Gutenberg witnesses (rows ending -pg): Butcher's and Bywater's Poetics, Kenyon's Athenian Constitution, Cresswell's History of Animals. Ellis's Politics and Chase's Ethics are on the Adler shelf and Edghill's Categories is in vol. I (see _held). Added 2026-10-03, older single-work translations (raw IA unless noted): Taylor's Metaphysics (1801); the Bohn volumes of Browne (Ethics, 1850), Owen (Organon, 1853, 2 vols.) and the literal Rhetoric with Buckley's Poetic (1857); Peters's Ethics (1881); Welldon's Politics (1883, in a 1901 printing), Rhetoric (1886) and Ethics (1892); and from Gutenberg, Ellis's Politics and the Everyman Ethics (translator unnamed in the file).",
+ "_about": "Aristotle in English: the Oxford translation, The Works of Aristotle Translated into English, ed. J. A. Smith and W. D. Ross (Oxford: Clarendon, 1908-1952, 12 vols.). Raw Internet Archive OCR, one item per volume (mostly the St. Michael's College, Toronto set, which follows the official numbering), translator recorded per work. Bekker pages are printed in the margins and survive in the OCR; nothing is converted yet (the Edwards precedent). Rights: US public domain for volumes published 1930 or earlier (vols. I, II, IV-XI). Vol. III (1931) enters the US public domain on 2027-01-01 and Vol. XII (1952) is not cleared, so neither is fetched; its pre-1931 parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues, not yet found, and a PD 1902 English De Anima + Parva Naturalia (Hammond) stands in as a gap-fill. Several translators died after 1956, so these are not public domain in the UK or other life+70 countries. English only; no Greek (Perseus Greek not pulled). Clean Gutenberg witnesses (rows ending -pg): Butcher's and Bywater's Poetics, Kenyon's Athenian Constitution, Cresswell's History of Animals. Ellis's Politics and Chase's Ethics are on the Adler shelf and Edghill's Categories is in vol. I (see _held). Added 2026-10-03, older single-work translations (raw IA unless noted): Taylor's Metaphysics (1801); the Bohn volumes of Browne (Ethics, 1850), Owen (Organon, 1853, 2 vols.) and the literal Rhetoric with Buckley's Poetic (1857); Peters's Ethics (1881); Welldon's Politics (1883, in a 1901 printing), Rhetoric (1886) and Ethics (1892); and from Gutenberg, Ellis's Politics and the Everyman Ethics (translator unnamed in the file). Added 2026-10-03 (later): John H. M'Mahon's literal Metaphysics (Bohn, 1857), raw IA OCR (Google scan; the title page prints the name M'Mahon). Also Edward Walford's Politics and Economics (Bohn, 1853); his preface says the Politics is based on Ellis's version, revised against Taylor and Gillies.",
  "_name_words": [
   "aristotle",
   "works",
@@ -32,11 +32,6 @@
    6762,
    "Politics: A Treatise on Government (Everyman's Library edition)",
    "tr. William Ellis"
-  ],
-  "aristotle-everyman-ethics-pg": [
-   8438,
-   "The Nicomachean Ethics of Aristotle (Everyman's Library, introduction by J. A. Smith)",
-   "tr. unnamed in the Gutenberg file"
   ]
  },
  "internet_archive": {
@@ -133,6 +128,16 @@
    "nicomacheanethi00petegoog",
    "The Nicomachean Ethics of Aristotle (London: C. Kegan Paul, 1881)",
    "tr. F. H. Peters"
+  ],
+  "aristotle-mcmahon-metaphysics-1857": [
+   "metaphysicsaris01arisgoog",
+   "The Metaphysics of Aristotle, literally translated from the Greek (Bohn, 1857)",
+   "tr. John H. M'Mahon"
+  ],
+  "aristotle-walford-politics-economics-1853": [
+   "politicseconomic00aris",
+   "The Politics and Economics, with Gillies's introductory essay and life (Bohn, 1853)",
+   "tr. Edward Walford"
   ]
  },
  "_excluded": {
@@ -140,9 +145,10 @@
   "vol. XII (1952)": "Select Fragments (Ross). Published 1952; renewal status not checked; not cleared. Pending",
   "worksofaristotle10arisuoft / 11 / 12": "duplicate Toronto scans of vols. X-XII; the 'theworksofaristo' scans kept",
   "R. D. Hicks, De Anima (1907)": "PD and a fine translation, but printed with the Greek text facing; Greek-English mixed OCR. Pending as an alternative De Anima",
-  "Perseus English Aristotle": "Loeb translations (Rackham, Tredennick, Freese); thin and not the Oxford corpus. Gap-fill only if a hole remains; none fetched",
+  "Perseus English Aristotle": "Loeb translations (Rackham, Tredennick, Freese); thin and not the Oxford corpus. Gap-fill only if a hole remains; none fetched Update 2026-10-03: Rackham's Nicomachean Ethics (Loeb, 1926 printing) taken as a second Ethics witness (aristotle-perseus-rackham-nicomachean-ethics); Freese's Rhetoric refused (1947 printing in its record).",
   "worksofaristotle00unse (1830)": "'Aristotle's Masterpiece', a popular sex-and-midwifery manual falsely ascribed to Aristotle. Wrong author",
-  "meteorologica00aris": "Catalogued as 'Meteorologica, 1923, separate issue', but the scan is the whole of vol. III as bound in 1931: it carries J. A. Smith's De Anima, first published 1931. Checked by its sub-title pages (1923, 1914, 1931, 1908). Removed after fetching; pending with vol. III until 2027-01-01. The PD parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues"
+  "meteorologica00aris": "Catalogued as 'Meteorologica, 1923, separate issue', but the scan is the whole of vol. III as bound in 1931: it carries J. A. Smith's De Anima, first published 1931. Checked by its sub-title pages (1923, 1914, 1931, 1908). Removed after fetching; pending with vol. III until 2027-01-01. The PD parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues",
+  "tlg0086.tlg038.perseus-eng2": "Freese's Loeb Rhetoric (1926) on Perseus: the file's sourceDesc gives a 1947 printing, and the gate refused it because no reason was written. It is in the same position as the kept Aeschines and Isaeus printings, so it is put to Adam with that whole class in DIGEST-B; held back until he rules. The Bohn Rhetoric is held meanwhile"
  },
  "_surname": [
   "aristotle",
@@ -160,7 +166,10 @@
   "aristotle-owen-organon-1853-v2": "Octavius Freire Owen",
   "aristotle-taylor-metaphysics-1801": "Thomas Taylor",
   "aristotle-welldon-ethics-1892": "J. E. C. Welldon",
-  "aristotle-welldon-rhetoric-1886": "J. E. C. Welldon"
+  "aristotle-welldon-rhetoric-1886": "J. E. C. Welldon",
+  "aristotle-perseus-rackham-nicomachean-ethics": "Harris Rackham",
+  "aristotle-mcmahon-metaphysics-1857": "M'Mahon",
+  "aristotle-walford-politics-economics-1853": "Edward Walford"
  },
  "_translator_unchecked": {
   "aristotle-ross-v01": "no single translator to check: None",
@@ -174,7 +183,6 @@
   "aristotle-ross-v10": "no single translator to check: None",
   "aristotle-ross-v11": "no single translator to check: None",
   "aristotle-forster-de-mundo-1914": "translator on the row (E. S. Forster) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
-  "aristotle-everyman-ethics-pg": "the Gutenberg file names no translator (title page: 'By Aristotle, Introduction by J. A. Smith'). The Everyman Ethics is usually attributed to D. P. Chase; not verified here, so no claim is made",
   "aristotle-browne-ethics-1850": "title page OCRs the name as 'E. W. BROWNE, M.A.' (professor of classical literature, King's College London; Bohn 1850); the claim is not matched as written",
   "aristotle-welldon-politics-1901": "title page OCRs the name as 'J. EK. C. WELLDON, D.D.' (headmaster of Harrow); the claim is not matched as written",
   "aristotle-peters-ethics-1881": "title page OCRs the name as 'F. H. PETEES, M.A.' (fellow of University College, Oxford); the claim is not matched as written"
@@ -239,15 +247,6 @@
    "pg_copyrighted": false,
    "pg_translator": "William Ellis",
    "translator_match": true
-  },
-  "aristotle-everyman-ethics-pg": {
-   "kind": "gutenberg",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "aristotle",
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": null
   },
   "aristotle-ross-v01": {
    "kind": "ia",
@@ -504,6 +503,32 @@
    "ia_date": "1881",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "aristotle-mcmahon-metaphysics-1857": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "M'Mahon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristotle-walford-politics-economics-1853": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "Edward Walford",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_rights_checked": {
@@ -521,6 +546,38 @@
  "_held": {
   "aristotle-chase-ethics-pg": "PG 8438 is already held on pipeline/adler_shelf.json as aristotle-ethics (labelled 'tr. Chase', which the collation agrees with: 167 of 200 sampled 8-word runs match the 1915 Everyman 'Translated by D. P. Chase'); not refetched",
   "aristotle-ellis-politics-pg": "PG 6762 is already held on pipeline/adler_shelf.json as aristotle-politics; not refetched. Its label there says 'tr. Jowett', but Gutenberg's header names William Ellis (and the text is Ellis's 1776 translation): the Adler label is wrong, flagged in DIGEST-B for Adam (lane B does not edit that file)",
-  "aristotle-edghill-categories-pg": "PG 2412 is Edghill's Categories, the same Oxford translation held in aristotle-ross-v01 (Works vol. I, 1928); not a second witness"
+  "aristotle-edghill-categories-pg": "PG 2412 is Edghill's Categories, the same Oxford translation held in aristotle-ross-v01 (Works vol. I, 1928); not a second witness",
+  "aristotle-everyman-ethics-pg": "PG 8438 again, the same file as aristotle-chase-ethics-pg above: already held on pipeline/adler_shelf.json as aristotle-ethics, so not fetched as a second witness (added in error 2026-10-03 and withdrawn on review)"
+ },
+ "perseus": {
+  "aristotle-perseus-rackham-nicomachean-ethics": [
+   "tlg0086.tlg010.perseus-eng2",
+   "Nicomachean Ethics",
+   "Harris Rackham",
+   "Translation published 1926: US public domain (in or before 1930). Perseus source line: Aristotle. The Nicomachean Ethics. Rackham, Harris, translator. London: William Heinemann; New York: G. P. Putnam's Sons, 1926 (printing)."
+  ]
+ },
+ "_perseus_checks": {
+  "aristotle-perseus-rackham-nicomachean-ethics": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0086.tlg010.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Harris Rackham",
+   "author_seen": "aristotle",
+   "source_years": [
+    1926
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0086/tlg010/tlg0086.tlg010.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
  }
 }

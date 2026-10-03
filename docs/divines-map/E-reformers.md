@@ -126,6 +126,7 @@ The narrative histories of the Kirk from the Reformation to the Revolution, in t
 | Wodrow, History of the Sufferings of the Church of Scotland, ed. Burns (4 vols, 1828-1830) | have-raw | `robert-wodrow_shelf.json` |
 | Kirkton, Secret and True History of the Church of Scotland, ed. Sharpe (1817) | have-raw | `kirkton_shelf.json` |
 | M'Crie, Life of John Knox (ed. by his son, 1873); Life of Andrew Melville (2 vols, 1819); the Reformation in Italy and in Spain (1842 reprints) | have-raw | `thomas-mccrie_shelf.json` |
+| M'Crie, Lectures on the Book of Esther (New York, 1838); Works vol. 4 (Review of Tales of My Landlord, Unity of the Church, sermons, 1857) | have-raw | `thomas-mccrie_shelf.json`, from lane A's copy, merged |
 | Thomas M'Crie the younger, Sketches of Scottish Church History (6th ed., 1849, Google scan); Life of Thomas M'Crie (1842) | have-raw | `thomas-mccrie_shelf.json` |
 | Howie, The Scots Worthies, rev. Carslaw (1870) | have-raw | `howie_shelf.json` |
 | A Cloud of Witnesses, ed. J. H. Thomson (1871) | have-raw | `cloud-of-witnesses_shelf.json`; name check on the editor |
@@ -181,8 +182,8 @@ Other lanes already hold William Cunningham, Thomas Chalmers and James Buchanan.
 | Bannerman, The Church of Christ (2 vols, 1868) | have-raw (vol. 1) | `james-bannerman_shelf.json`; vol. 2 pending on an Internet Archive server error |
 | Bannerman, Inspiration: the Infallible Truth and Divine Authority of the Holy Scriptures (1865) | have-raw | `james-bannerman_shelf.json` |
 | Smeaton, The Doctrine of the Atonement as taught by Christ Himself (1868); as taught by the Apostles (1870); The Doctrine of the Holy Spirit (1882) | have-raw | `george-smeaton_shelf.json` |
-| Kennedy, The Days of the Fathers in Ross-shire (4th ed., 1867) | have-raw | `john-kennedy-dingwall_shelf.json` |
-| Hugh Martin, The Atonement (1877); The Prophet Jonah (3rd ed., 1880) | have-raw | `hugh-martin_shelf.json` |
+| Kennedy, The Days of the Fathers in Ross-shire (4th ed., 1867); The Apostle of the North (1866) | have-raw | `john-kennedy-dingwall_shelf.json` |
+| Hugh Martin, The Atonement (1877); The Prophet Jonah (3rd ed., 1880); The Westminster Doctrine of the Inspiration of Scripture (1890); Letters to Marcus Dods (1877) | have-raw | `hugh-martin_shelf.json` |
 | Hugh Martin, The Shadow of Calvary | pending | no pre-1930 scan found |
 
 ## English Reformation histories

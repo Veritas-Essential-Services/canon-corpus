@@ -93,7 +93,7 @@
  },
  "_excluded": {
   "pg21920": "The Last Poems of Ovid (Akrigg): a COPYRIGHTED Project Gutenberg eBook (2006). Refused by the rights gate",
-  "Brookes More, Metamorphoses": "only Book I (1922) is on IA; the complete translation (1933, 1941) is not cleared. Pending",
+  "Brookes More, Metamorphoses": "now held from Perseus: ovid-perseus-more-metamorphoses, whose TEI source record gives Boston: Cornhill, 1922 (US public domain). The earlier note here, that only Book I appeared in 1922, is superseded by that record",
   "Marlowe, All Ovid's Elegies (Amores)": "PD; inside The Works of Christopher Marlowe, vol. 3 (PG 21262), a whole Marlowe volume. Pending: belongs to a Marlowe shelf if one is built, cross-referenced from here",
   "A. S. Kline and other modern translations": "copyrighted",
   "heroidesorepist00ovidiala (1885), fastitristiapont00oviduoft (1876)": "later reprints of the same Riley volumes; the first printings kept"
@@ -365,7 +365,14 @@
     1922
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0959/phi006/phi0959.phi006.perseus-eng3.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "ovid-perseus-1855-amours": {
    "checked": "2026-10-03",
@@ -379,7 +386,14 @@
     1855
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0959/phi001/phi0959.phi001.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "ovid-perseus-1855-art-of-beauty": {
    "checked": "2026-10-03",
@@ -393,7 +407,14 @@
     1855
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0959/phi003/phi0959.phi003.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "ovid-perseus-1855-art-of-love": {
    "checked": "2026-10-03",
@@ -407,7 +428,14 @@
     1855
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0959/phi004/phi0959.phi004.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "ovid-perseus-1855-remedy-of-love": {
    "checked": "2026-10-03",
@@ -421,7 +449,14 @@
     1855
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0959/phi005/phi0959.phi005.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "ovid-perseus-1813-epistles": {
    "checked": "2026-10-03",
@@ -435,7 +470,14 @@
     1813
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0959/phi002/phi0959.phi002.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   }
  }
 }

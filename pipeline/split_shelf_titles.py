@@ -56,6 +56,9 @@ def find(lines, marker, after=0):
 def main():
     if len(sys.argv) < 2:
         sys.exit("usage: split_shelf_titles.py <shelf>")
+    if sys.argv[1] in ("-h", "--help"):      # not a shelf name (reviewer, 2026-10-03)
+        print(__doc__)
+        sys.exit(0)
     name = sys.argv[1]
     shelf = json.load(open(os.path.join(HERE, f"{name}_shelf.json"), encoding="utf-8"))
     src_dir = os.path.join(ROOT, "data", "corpus", name)

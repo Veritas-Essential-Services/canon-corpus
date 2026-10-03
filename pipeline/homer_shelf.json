@@ -153,7 +153,7 @@
   "pg2199": "Butler's Iliad: already in the build from Perseus (iliad-butler)",
   "pg28797": "Butler's Odyssey: duplicate of PG 1727",
   "pg24856": "Odysseus, the Hero of Ithaca (Burt, Ragozin): a schoolbook adaptation",
-  "A. T. Murray, Iliad (1924-25) and Odyssey (1919), Loeb": "on Perseus (eng3), US public domain by date. Pending: needs a Perseus manifest entry"
+  "A. T. Murray, Iliad (1924-25) and Odyssey (1919), Loeb": "now held from Perseus: homer-perseus-murray-iliad, homer-perseus-murray-odyssey"
  },
  "perseus": {
   "homer-perseus-murray-iliad": [
@@ -529,7 +529,14 @@
     1925
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0012/tlg001/tlg0012.tlg001.perseus-eng3.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   },
   "homer-perseus-murray-odyssey": {
    "checked": "2026-10-03",
@@ -542,7 +549,14 @@
     1919
    ],
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept"
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0012/tlg002/tlg0012.tlg002.perseus-eng3.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   }
  }
 }

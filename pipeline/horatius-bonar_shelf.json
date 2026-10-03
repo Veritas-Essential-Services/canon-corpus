@@ -6,7 +6,10 @@
   "horatius"
  ],
  "_surname": [
-  "bonar"
+  "horatius bonar",
+  "h. bonar",
+  "horatio bonar",
+  "bonar, horatius"
  ],
  "ccel": {
   "hbonar-gods-way-of-peace": [
@@ -164,29 +167,33 @@
  "_checks": {
   "hbonar-gods-way-of-peace": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "hbonar-rent-veil": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ccel_dc_rights": null,
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "hbonar-follow-the-lamb": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1874",
    "ia_date": "1874",
@@ -195,9 +202,9 @@
   },
   "hbonar-everlasting-righteousness": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1873",
    "ia_date": "1873",
@@ -206,9 +213,9 @@
   },
   "hbonar-christ-of-god": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "bonar, horatius",
    "identity": "ok",
    "ia_rights": "ok: published 1874",
    "ia_date": "1874",
@@ -217,9 +224,9 @@
   },
   "hbonar-blood-of-the-cross": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1858",
    "ia_date": "1858",
@@ -228,9 +235,9 @@
   },
   "hbonar-night-of-weeping": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1852",
    "ia_date": "1852",
@@ -239,9 +246,9 @@
   },
   "hbonar-morning-of-joy": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1856",
    "ia_date": "1856",
@@ -250,9 +257,9 @@
   },
   "hbonar-winners-of-souls": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1860",
    "ia_date": "1860",
@@ -261,9 +268,9 @@
   },
   "hbonar-words-of-peace": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1860",
    "ia_date": "1860",
@@ -272,9 +279,9 @@
   },
   "hbonar-family-sermons": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1863",
    "ia_date": "1863",
@@ -283,9 +290,9 @@
   },
   "hbonar-truth-and-error": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "bonar, horatius",
    "identity": "ok",
    "ia_rights": "ok: published 1851",
    "ia_date": "1851",
@@ -294,9 +301,9 @@
   },
   "hbonar-prophetical-landmarks": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1847",
    "ia_date": "1847",
@@ -305,9 +312,9 @@
   },
   "hbonar-coming-and-kingdom": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1849",
    "ia_date": "1849",
@@ -316,9 +323,9 @@
   },
   "hbonar-desert-of-sinai": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1857",
    "ia_date": "1857",
@@ -327,9 +334,9 @@
   },
   "hbonar-land-of-promise": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1858",
    "ia_date": "1858",
@@ -338,9 +345,9 @@
   },
   "hbonar-days-and-nights-east": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1866",
    "ia_date": "1866",
@@ -349,9 +356,9 @@
   },
   "hbonar-earths-morning": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1875",
    "ia_date": "1875",
@@ -360,9 +367,9 @@
   },
   "hbonar-life-john-milne": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1870",
    "ia_date": "1870",
@@ -371,10 +378,10 @@
   },
   "hbonar-life-dodds": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
-   "identity": "ok",
+   "author_seen": null,
+   "identity": "identity_override",
    "ia_rights": "ok: published 1884",
    "ia_date": "1884",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
@@ -382,9 +389,9 @@
   },
   "hbonar-white-fields-france": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "bonar, horatius",
    "identity": "ok",
    "ia_rights": "ok: published 1879",
    "ia_date": "1879",
@@ -393,9 +400,9 @@
   },
   "hbonar-light-truth-gospels": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1871",
    "ia_date": "1871",
@@ -404,9 +411,9 @@
   },
   "hbonar-light-truth-acts-epistles": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1870",
    "ia_date": "1870",
@@ -415,9 +422,9 @@
   },
   "hbonar-light-truth-lesser-epistles": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1883",
    "ia_date": "1883",
@@ -426,9 +433,9 @@
   },
   "hbonar-stranger-here": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1853",
    "ia_date": "1853",
@@ -437,14 +444,22 @@
   },
   "hbonar-light-truth-ot": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-03",
    "name_check": "surname",
-   "author_seen": "bonar",
+   "author_seen": "horatius bonar",
    "identity": "ok",
    "ia_rights": "ok: published 1869",
    "ia_date": "1869",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "hbonar-truth-and-error": {
+   "author": "title page reads 'THE REV. HORATIUS” BON KR' (OCR of Horatius Bonar), Carter 1851; checked by eye 2026-10-03"
+  },
+  "hbonar-life-dodds": {
+   "author": "title page reads 'HORATIUS^BONAR, D.D.' (OCR of Horatius Bonar); checked by eye 2026-10-03"
   }
  }
 }

@@ -1,5 +1,5 @@
 {
- "_about": "Virgil in English: Aeneid, Georgics, Eclogues, translator recorded per title. Two translators cover all three works: James Rhoades (verse; his complete Poems of Virgil, Oxford 1921, raw IA OCR, plus clean Gutenberg Georgics and Eclogues) and John Conington (prose; the Aeneid clean on Gutenberg, the complete Works of Virgil, 1880, raw IA OCR). Further Aeneid witnesses: Mackail (prose, 1885), William Morris (verse, 1876), E. Fairfax Taylor (Spenserian verse, 1903-07), Rolfe Humphries (verse, 1951; Gutenberg clears it as US public domain, not PD elsewhere). Mackail's prose Eclogues and Georgics (1889; 1910 reprint) on IA. Dryden's Virgil lives on the DRYDEN shelf (lane C) and is cross-referenced, never fetched here. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row).",
+ "_about": "Virgil in English: Aeneid, Georgics, Eclogues, translator recorded per title. Two translators cover all three works: James Rhoades (verse; his complete Poems of Virgil, Oxford 1921, raw IA OCR, plus clean Gutenberg Georgics and Eclogues) and John Conington (prose; the Aeneid clean on Gutenberg, the complete Works of Virgil, 1880, raw IA OCR). Further Aeneid witnesses: Mackail (prose, 1885), William Morris (verse, 1876), E. Fairfax Taylor (Spenserian verse, 1903-07), Rolfe Humphries (verse, 1951; Gutenberg clears it as US public domain, not PD elsewhere). Mackail's prose Eclogues and Georgics (1889; 1910 reprint) on IA. Dryden's Virgil lives on the DRYDEN shelf (lane C) and is cross-referenced, never fetched here. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Added 2026-10-03 (later), raw IA OCR: John D. Long's blank-verse Aeneid (1879), G. K. Rickards's Books I-VI (1871; IA's aeneidvirgil00rickgoog is labelled Books VII-XII by Lord Ravensworth but holds the same Books I-VI, so it is not used and Ravensworth's half is still wanted), Oliver Crane's line-by-line hexameters (1888) and Sir Charles Bowen's Eclogues and Aeneid I-VI (2nd ed., 1889). Georgics and Eclogues added the same night, raw IA OCR: Sotheby's Georgics (American printing, 1808), Blackmore's (1871), Harriet Waters Preston's (1881), Lord Burghclere's Books I-II (1900), T. W. C. Edwards's literal Bucolics (1825) and T. F. Royds's revised Eclogues (Blackwell, 1922, Latin facing).",
  "_name_words": [
   "virgil",
   "vergil",
@@ -105,6 +105,76 @@
    "worksofvirgilren00virg",
    "The Works of Virgil rendered into English Prose (Globe Edition; Macmillan, 1871)",
    "tr. James Lonsdale and Samuel Lee"
+  ],
+  "virgil-kennedy-1849-v1": [
+   "worksofvirgiltra0001char",
+   "The Works of Virgil, translated, vol. I (London, MDCCCXLIX): first four Pastorals, Georgics and first four Aeneids by Rann Kennedy; the rest by Charles Rann Kennedy",
+   "tr. Rann Kennedy and Charles Rann Kennedy"
+  ],
+  "virgil-kennedy-1849-v2": [
+   "worksofvirgiltra0002char",
+   "The Works of Virgil, translated, vol. II (London, MDCCCXLIX)",
+   "tr. Rann Kennedy and Charles Rann Kennedy"
+  ],
+  "virgil-pitt-warton-1763-v1": [
+   "worksvirgilinen01attegoog",
+   "The Works of Virgil in English Verse, vol. I of four: the Eclogues and Georgics by Joseph Warton, with the Life and two essays (London: R. and J. Dodsley, MDCCLXIII)",
+   "tr. Joseph Warton"
+  ],
+  "virgil-pitt-warton-1763-v3": [
+   "worksvirgilinen00attegoog",
+   "The Works of Virgil in English Verse, vol. III of four: the Aeneid, Books V-VIII, by Christopher Pitt, with Warburton's dissertation on the sixth book (Dodsley, MDCCLXIII)",
+   "tr. Christopher Pitt"
+  ],
+  "virgil-crane-aeneid-1888": [
+   "virgilsneid00virgrich",
+   "Virgil's Aeneid, translated literally, line by line, into English dactylic hexameter (Baker and Taylor, 1888)",
+   "tr. Oliver Crane"
+  ],
+  "virgil-long-aeneid-1879": [
+   "neidofvirgil00vir",
+   "The Aeneid of Virgil, translated into English (blank verse; Lockwood, Brooks, 1879)",
+   "tr. John D. Long"
+  ],
+  "virgil-rickards-aeneid-1-6-1871": [
+   "neidvirgilbooks00rickgoog",
+   "The Aeneid of Virgil, Books I-VI, translated in English blank verse (Blackwood, 1871)",
+   "tr. G. K. Rickards"
+  ],
+  "virgil-bowen-1889": [
+   "virgilinenglishv00virguoft",
+   "Virgil in English Verse: Eclogues and Aeneid I-VI, second edition (Murray, 1889)",
+   "tr. Charles Bowen"
+  ],
+  "virgil-sotheby-georgics-1808": [
+   "georgicsofvirgil00virg",
+   "The Georgics of Virgil (Middletown, Conn., for I. Riley, New York, 1808)",
+   "tr. William Sotheby"
+  ],
+  "virgil-blackmore-georgics-1871": [
+   "virgilgeorgics00virgrich",
+   "The Georgics of Virgil (Sampson Low, 1871)",
+   "tr. R. D. Blackmore"
+  ],
+  "virgil-preston-georgics-1881": [
+   "georgicageorgics00virg",
+   "The Georgics of Vergil, translated into English verse (Osgood, 1881)",
+   "tr. Harriet Waters Preston"
+  ],
+  "virgil-burghclere-georgics-1-2-1900": [
+   "georgicsbooks0102virguoft",
+   "The Georgics of Virgil, Books I, II, translated into English verse (Murray, 1900)",
+   "tr. Lord Burghclere"
+  ],
+  "virgil-edwards-bucolics-1825": [
+   "publiivirgiliima00virg",
+   "The Bucolics of Virgil, literally translated into English prose from the text of Heyne, with a freer translation and notes (1825)",
+   "tr. T. W. C. Edwards"
+  ],
+  "virgil-royds-eclogues-1922": [
+   "ecloguesbucolics00virguoft",
+   "The Eclogues, Bucolics, or Pastorals of Virgil, a revised translation with text and notes (Blackwell, 1922)",
+   "tr. Thomas Fletcher Royds"
   ]
  },
  "_cross_ref": {
@@ -117,7 +187,9 @@
   "pg20144": "The Fourth Book of Virgil's Aeneid and the Ninth Book of Voltaire's Henriad: a fragment with Voltaire; not a Virgil translation of record",
   "pg54717": "Two Dramatizations from Vergil (Miller): adaptations for the stage, not the poems",
   "pg66399": "Virgil & Lucretius passages (Stebbing): excerpts",
-  "poemsvirgil00magoog (Conington, 1882)": "no text layer on IA; the 1880 Works kept"
+  "poemsvirgil00magoog (Conington, 1882)": "no text layer on IA; the 1880 Works kept",
+  "Pitt and Warton's Works of Virgil (Dodsley, 1763), vols. II and IV": "vols. I and III held (virgil-pitt-warton-1763-v1, -v3); vols. II and IV (Aeneid I-IV and IX-XII) not found on IA as of 2026-10-03; wanted",
+  "Pitt's Aeneid (Dodsley, 1740, 2 vols.)": "PD; the only scans found (IA bim_eighteenth-century_the-neid-of-virgil-tra_virgil_1740_1/_2) read at 0.74-0.76 clean words, below the lane's bar. Refused for OCR quality on 2026-10-03; vol. III of the 1763 Works (held) carries Books V-VIII of the same translation"
  },
  "_convert_hints": {
   "_note": "Verse texts: tried with structure_texts.convert_gutenberg_verse(path, slug, title, author, abbr, divre) using this divre; unit counts from that trial (12-line blocks). Everything else converts as prose with contents_chapre. For the manifest entry when Adam adds these to the build; nothing here is wired in.",
@@ -166,10 +238,24 @@
   "virgil-douglas-eneados-v2": "gawinus douglas",
   "virgil-stanyhurst-1836": "Richard Stanyhurst",
   "virgil-davidson-buckley-1874": "Theodore Alois Buckley",
-  "virgil-lonsdale-lee-1871": "James Lonsdale"
+  "virgil-lonsdale-lee-1871": "James Lonsdale",
+  "virgil-kennedy-1849-v1": "Charles Rann Kennedy",
+  "virgil-kennedy-1849-v2": "Charles Rann Kennedy",
+  "virgil-pitt-warton-1763-v1": "Joseph Warton",
+  "virgil-crane-aeneid-1888": "Oliver Crane",
+  "virgil-long-aeneid-1879": "John D. Long",
+  "virgil-rickards-aeneid-1-6-1871": "Rickards",
+  "virgil-bowen-1889": "Charles Bowen",
+  "virgil-sotheby-georgics-1808": "William Sotheby",
+  "virgil-blackmore-georgics-1871": "R. D. Blackmore",
+  "virgil-preston-georgics-1881": "Harriet Waters Preston",
+  "virgil-burghclere-georgics-1-2-1900": "Burghclere",
+  "virgil-edwards-bucolics-1825": "T. W. C. Edwards",
+  "virgil-royds-eclogues-1922": "Thomas Fletcher Royds"
  },
  "_translator_unchecked": {
-  "virgil-rhoades-eclogues": "translator on the row (James Rhoades (verse); PG names no translator: identified by collating its openi) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+  "virgil-rhoades-eclogues": "translator on the row (James Rhoades (verse); PG names no translator: identified by collating its openi) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "virgil-pitt-warton-1763-v3": "title page OCRs the name as 'CHRISTOPH ER PITT' (split by OCR; Dodsley, MDCCLXIII); the claim is not matched as written"
  },
  "_checks": {
   "virgil-rhoades-eclogues": {
@@ -410,9 +496,197 @@
    "ia_date": "1871",
    "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
+  },
+  "virgil-kennedy-1849-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "Charles Rann Kennedy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "virgil-kennedy-1849-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "Charles Rann Kennedy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "virgil-pitt-warton-1763-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "Joseph Warton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1763",
+   "ia_date": "1763",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "virgil-pitt-warton-1763-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1763",
+   "ia_date": "1763",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "virgil-crane-aeneid-1888": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "Oliver Crane",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "virgil-long-aeneid-1879": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "John D. Long",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "virgil-rickards-aeneid-1-6-1871": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "Rickards",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "virgil-bowen-1889": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "Charles Bowen",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "virgil-sotheby-georgics-1808": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "William Sotheby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "virgil-blackmore-georgics-1871": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "R. D. Blackmore",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "virgil-preston-georgics-1881": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "vergil",
+   "translator_claimed": "Harriet Waters Preston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "virgil-burghclere-georgics-1-2-1900": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "Burghclere",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "virgil-edwards-bucolics-1825": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "T. W. C. Edwards",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "virgil-royds-eclogues-1922": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "Thomas Fletcher Royds",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_rights_checked": {
   "virgil-fairclough-v1": "Title page read: 'First printed 1916; reprinted 1920 ... 1929, 1930': a 1930 reprint of the unrevised 1916 text (Fairclough's revision is 1935). Works published in 1930 or earlier are US public domain."
+ },
+ "_identity_checked": {
+  "virgil-pitt-warton-1763-v3": "title_weak only on spelling: the 1763 print has the Æ ligature, which OCRs as '/ENEID', 'JENEID' or 'iENEID' (49 times), so the word 'aeneid' never appears. Title page read: 'IN FOUR VOLUMES. VOL. III. LONDON, Printed for R. and J. Dodsley, in Pall-mall. MDCCLXIII. VOLUME THE THIRD. CONTAINING The ÆNEID; Book V. Book VI. Book VII. Book VIII. A Dissertation on the Sixth Book'"
  }
 }

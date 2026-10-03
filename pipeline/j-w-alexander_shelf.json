@@ -1,0 +1,69 @@
+{
+ "_about": "Public-domain James Waddel Alexander (1804-1859, Princeton professor and pastor of the Fifth Avenue Presbyterian Church, New York; son of Archibald Alexander) for the Word Hoard: Consolation, in Discourses on Select Topics (sixth edition, catalogued 1852), Discourses on Common Topics of Christian Faith and Practice (1858) and Thoughts on Preaching (Scribner, 1869), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 11 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "alexander",
+  "james",
+  "waddel"
+ ],
+ "_surname": [
+  "james w. alexander",
+  "james waddel alexander",
+  "j. w. alexander",
+  "alexander, james w",
+  "james w: alexander"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jwalexander-consolation-1852": [
+   "consolationindis00alex",
+   "Consolation, in Discourses on Select Topics Addressed to the Suffering People of God, sixth edition (New York: Charles Scribner, catalogued 1852)"
+  ],
+  "jwalexander-common-topics-1858": [
+   "discoursesoncom00alex",
+   "Discourses on Common Topics of Christian Faith and Practice (New York: Charles Scribner, 1858)"
+  ],
+  "jwalexander-thoughts-preaching-1869": [
+   "thoughtsonpreach0000jame",
+   "Thoughts on Preaching, being Contributions to Homiletics (New York: Charles Scribner, 1869)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "jwalexander-consolation-1852": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james w: alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jwalexander-common-topics-1858": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james w. alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jwalexander-thoughts-preaching-1869": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james w: alexander",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
