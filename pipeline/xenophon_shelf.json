@@ -1,5 +1,5 @@
 {
- "_about": "Xenophon in English: H. G. Dakyns's complete translation (The Works of Xenophon, 1890-97), clean Gutenberg, one text per work. Edward Bysshe's Memorable Thoughts of Socrates (1712; Morley's 1888 edition), clean Gutenberg, added 2026-10-02.",
+ "_about": "Xenophon in English: H. G. Dakyns's complete translation (The Works of Xenophon, 1890-97), clean Gutenberg, one text per work. Edward Bysshe's Memorable Thoughts of Socrates (1712; Morley's 1888 edition), clean Gutenberg, added 2026-10-02. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): the translations are public domain; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution and share-alike), and each file's own licence statement and a rights block (license, attribution, source_url, share_alike, redistribute_whole false) are recorded per row in _perseus_checks and in the shelf's perseus report.",
  "_name_words": [
   "xenophon",
   "dakyns"
