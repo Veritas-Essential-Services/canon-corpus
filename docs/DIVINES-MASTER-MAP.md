@@ -5248,6 +5248,18 @@ Shelf: `pipeline/gruelle_shelf.json` (2026-10-02; added at the coordinator's rel
 | The Magical Land of Noom | have | PG 62440, `gruelle-magical-land-of-noom` (1219 units) |
 | The Paper Dragon | have | PG 78535, `gruelle-paper-dragon` (736 units) |
 
+## Albert Bigelow Paine
+
+Shelf: `pipeline/albert-paine_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Hollow Tree animal tales and his other children's books. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Hollow Tree Nights and Days | have | PG 24410, `albert-paine-hollow-tree-nights-and-days` (702 units) |
+| Mr. Turtle's Flying Adventure | have | PG 28192, `albert-paine-mr-turtles-flying-adventure` (186 units) |
+| Mr. Rabbit's Wedding | have | PG 28193, `albert-paine-mr-rabbits-wedding` (232 units) |
+| How Mr. Rabbit Lost His Tail | have | PG 28204, `albert-paine-how-mr-rabbit-lost-his-tail` (232 units) |
+| The Arkansaw Bear | have | PG 28302, `albert-paine-arkansaw-bear` (722 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

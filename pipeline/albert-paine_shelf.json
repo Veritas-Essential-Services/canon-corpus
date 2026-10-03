@@ -1,0 +1,85 @@
+{
+ "_about": "Albert Bigelow Paine's (1861-1937) Hollow Tree animal stories and The Arkansaw Bear. His Mark Twain biography and letters are left for now. Gutenberg cleared each as US public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Albert Bigelow Paine",
+ "_name_words": [
+  "paine"
+ ],
+ "_surname": [
+  "paine"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "albert-paine-hollow-tree-nights-and-days": [
+   24410,
+   "Hollow Tree Nights and Days",
+   {
+    "contents_only": true
+   }
+  ],
+  "albert-paine-mr-turtles-flying-adventure": [
+   28192,
+   "Mr. Turtle's Flying Adventure"
+  ],
+  "albert-paine-mr-rabbits-wedding": [
+   28193,
+   "Mr. Rabbit's Wedding"
+  ],
+  "albert-paine-how-mr-rabbit-lost-his-tail": [
+   28204,
+   "How Mr. Rabbit Lost His Tail"
+  ],
+  "albert-paine-arkansaw-bear": [
+   28302,
+   "The Arkansaw Bear"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "albert-paine-hollow-tree-nights-and-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "paine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "albert-paine-mr-turtles-flying-adventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "paine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "albert-paine-mr-rabbits-wedding": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "paine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "albert-paine-how-mr-rabbit-lost-his-tail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "paine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "albert-paine-arkansaw-bear": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "paine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
