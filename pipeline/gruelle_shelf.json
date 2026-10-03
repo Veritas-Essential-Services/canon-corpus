@@ -1,0 +1,85 @@
+{
+ "_about": "Johnny Gruelle's (1880-1938) Raggedy Ann and Raggedy Andy stories and his fairy tales. Gutenberg cleared each as US public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Johnny Gruelle",
+ "_name_words": [
+  "gruelle"
+ ],
+ "_surname": [
+  "gruelle"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gruelle-raggedy-ann-stories": [
+   18190,
+   "Raggedy Ann Stories"
+  ],
+  "gruelle-raggedy-andy-stories": [
+   17371,
+   "Raggedy Andy Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "gruelle-friendly-fairies": [
+   11315,
+   "Friendly Fairies"
+  ],
+  "gruelle-magical-land-of-noom": [
+   62440,
+   "The Magical Land of Noom"
+  ],
+  "gruelle-paper-dragon": [
+   78535,
+   "The Paper Dragon"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "gruelle-raggedy-ann-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gruelle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gruelle-raggedy-andy-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gruelle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gruelle-friendly-fairies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gruelle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gruelle-magical-land-of-noom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gruelle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gruelle-paper-dragon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gruelle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -969,8 +969,10 @@
     {
       "id": "gruelle",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — American children's classics and saints in verse: gruelle; no minting",
-      "status": "running",
-      "started": "2026-10-02T20:59:03-05:00"
+      "status": "done",
+      "started": "2026-10-02T20:59:03-05:00",
+      "finished": "2026-10-02T21:04:21-05:00",
+      "notes": "5/5 fetched (Gutenberg 18190, 17371, 11315, 62440, 78535), 3,792 units, 0 ~2 ids."
     },
     {
       "id": "albert-paine",

@@ -1877,6 +1877,18 @@ Shelf: `pipeline/jean-webster_shelf.json` (2026-10-02; added at the coordinator'
 | jean-webster-daddy-long-legs-40426 | excluded | PG 40426, a second transcription of the novel Daddy-Long-Legs (2012, PGDP). Not a copy of PG 157: paragraph-start containment measured 58% one way, 68% the other, so the two differ in paragraphing or text. Held once here (PG 157); if both are wanted, they are two witnesses of one work, never two books. |
 | jean-webster-daddy-long-legs-play-75857 | excluded | PG 75857 is a DIFFERENT work: Daddy Long-Legs, a comedy in four acts. PG's header says New York: Samuel French, 1914; the title page's copyright lines read 1912 (novel form), 1914 (Jean Webster) and 1922 (Samuel French), so this printing is 1922 or later and is public domain in the US. Not added this batch: it carries production notes after Act IV, and the acts would need their own heading rule. A candidate for Adam. |
 
+## Johnny Gruelle
+
+Shelf: `pipeline/gruelle_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Raggedy Ann and Andy stories and his other fairy tales. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Raggedy Ann Stories | have | PG 18190, `gruelle-raggedy-ann-stories` (653 units) |
+| Raggedy Andy Stories | have | PG 17371, `gruelle-raggedy-andy-stories` (645 units) |
+| Friendly Fairies | have | PG 11315, `gruelle-friendly-fairies` (539 units) |
+| The Magical Land of Noom | have | PG 62440, `gruelle-magical-land-of-noom` (1219 units) |
+| The Paper Dragon | have | PG 78535, `gruelle-paper-dragon` (736 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
