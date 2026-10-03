@@ -494,3 +494,6 @@
 
 ## 2026-10-03 02:31 CDT — samuel-miller done
 - `pipeline/samuel-miller_shelf.json`: 6 IA volumes of raw OCR, median 95.6% (94.5-97.3%). The Ruling Elder copy carries the Presbyterian Board of Publication imprint, and that Board was founded in 1838, so this printing is later than the 1832 IA catalogues (an inference; its copyright year is illegible). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:31 CDT — ichabod-spencer done
+- `pipeline/ichabod-spencer_shelf.json`: 5 IA volumes of raw OCR, median 98.3% (97.7-98.8%). Sketches 1 names him only in an OCR-mangled copyright line, which is recorded in `_identity_checked`. The first second-series copy tried never names him, so a Toronto copy that does replaced it. `--verify --record`: 0 mismatched. 0 uids minted.

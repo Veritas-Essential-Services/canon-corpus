@@ -1773,3 +1773,15 @@ Slugs `smiller-*`.
 | Infant Baptism Scriptural and Reasonable (1835) | have-raw | IA |
 | A Continuation of Letters concerning the Christian Ministry (1809) | have-raw | IA |
 | A Brief Retrospect of the Eighteenth Century (Swords, 1803), vols 1-2 | have-raw | IA |
+
+
+## Ichabod Spencer (round 11, my pick, 2026-10-03)
+
+Slugs `ispencer-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| A Pastor's Sketches, first series (Dodd; copyright 1850) | have-raw | IA (identifiers in the shelf) |
+| A Pastor's Sketches, second series (new edition; copyright 1853) | have-raw | IA |
+| Discourses on Sacramental Occasions (Dodd, 1861) | have-raw | IA |
+| Sermons, with a memoir (Presbyterian Board, catalogued 1885), vols 1-2 | have-raw | IA |
