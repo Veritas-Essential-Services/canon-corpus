@@ -143,6 +143,7 @@ Shelf: `pipeline/aristotle_shelf.json`. The Oxford translation, ed. J. A. Smith 
 | The Politics of Aristotle, translated with an analysis and critical notes (London: Macmillan, 1901 printing; first published 1883) | J. E. C. Welldon | `aristotle-welldon-politics-1901` | have-raw (IA `bwb_KU-767-069`) |
 | The Nicomachean Ethics of Aristotle (London: C. Kegan Paul, 1881) | F. H. Peters | `aristotle-peters-ethics-1881` | have-raw (IA `nicomacheanethi00petegoog`) |
 | Nicomachean Ethics | Harris Rackham (1926) | `aristotle-perseus-rackham-nicomachean-ethics` | have (Perseus TEI `tlg0086.tlg010.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Metaphysics of Aristotle, literally translated from the Greek (Bohn, 1857) | John H. M'Mahon | `aristotle-mcmahon-metaphysics-1857` | have-raw (IA `metaphysicsaris01arisgoog`) |
 
 Pending (wishlist): genuine pre-1931 separate issues of Meteorologica (1923) and Parva Naturalia (1908), which are PD now (no scan found yet; De Mundo, 1914, is held above); R. D. Hicks's De Anima (1907, Greek facing); a clean proofread Nicomachean Ethics (Ross) from Gutenberg if one appears.
 
@@ -1028,6 +1029,7 @@ Shelf: `pipeline/lucan_shelf.json`. Ridley's blank-verse Pharsalia (1896); PG na
 | Lucan's Pharsalia, vol. 2 (1812; with Vida's Art of Poetry) | Nicholas Rowe | `lucan-rowe-v2` | have-raw (IA `bub_gb_GEsNZ2BDG1QC`) |
 | The Pharsalia of Lucan, translated into blank verse (Longmans, 1896) | Edward Ridley | `lucan-ridley-1896` | have-raw (IA `cu31924026485809`) |
 | The Pharsalia of Lucan, translated into blank verse, second edition, revised and corrected (Longmans, 1905) | Edward Ridley | `lucan-ridley-1905` | have-raw (IA `pharsaliatransla00lucauoft`) |
+| The Pharsalia of Lucan, literally translated into English prose (Bohn, 1853) | H. T. Riley | `lucan-riley-1853` | have-raw (IA `pharsaliaoflucan00lucaiala`) |
 
 Pending (wishlist): Marlowe's First Book (Marlowe shelf).
 
