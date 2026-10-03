@@ -109,6 +109,11 @@
    "odesepodescarme00hughgoog",
    "The Odes, Epodes, Carmen Seculare and the first Satire of Horace translated into English verse (London, 1867)",
    "tr. Christopher Hughes"
+  ],
+  "horace-forsyth-odes-1876": [
+   "odeshoraceineng00flacgoog",
+   "The Odes of Horace in English verse (London, 1876)",
+   "tr. W. E. H. Forsyth"
   ]
  },
  "_cross_ref": {
@@ -146,7 +151,8 @@
   "horace-francis-1825-v1": "Francis",
   "horace-francis-1825-v2": "Francis",
   "horace-deazeley-odes-1895": "Deazeley",
-  "horace-hughes-1867": "Hughes"
+  "horace-hughes-1867": "Hughes",
+  "horace-forsyth-odes-1876": "Forsyth"
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
@@ -402,6 +408,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1867",
    "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-forsyth-odes-1876": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "odes of horace",
+   "translator_claimed": "Forsyth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
