@@ -658,3 +658,6 @@
 
 ## 2026-10-03 07:13 CDT — james-haldane done
 - `pipeline/james-haldane_shelf.json`: 5 IA volumes, title pages read; two IA catalogue dates (2002) contradicted by the title pages, one "0000"-style id, all recorded in `_rights_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 07:15 CDT — john-foster-essayist done
+- `pipeline/john-foster-essayist_shelf.json`: 1 Gutenberg (not COPYRIGHTED) + 7 IA, title pages read. `--verify --record`: 0 mismatched. 0 uids minted.

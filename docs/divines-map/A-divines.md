@@ -2153,3 +2153,12 @@ Slugs `jahaldane-*` (Robert Haldane has his own shelf).
 |---|---|---|
 | Man's Responsibility (1842); Galatians (1848); Notes on Hebrews (1860); The Doctrine of the Atonement (3rd ed., 1862) | have-ocr | IA, OCR 97-99%; IA catalogues Galatians and Hebrews as 2002, but their title pages show the originals |
 | A View of the Social Worship of the First Christians (1805) | have-raw | IA, OCR 83.6% (long s) |
+
+## John Foster, essayist (round 14, my pick, 2026-10-03)
+
+Slugs `jfoster-*`. Each title page ties the book to the Baptist essayist, not another John Foster.
+
+| Work | Status | Where |
+|---|---|---|
+| An Essay on the Evils of Popular Ignorance | have-clean | Gutenberg 8940 |
+| Essays in a Series of Letters (1833); Broadmead Lectures, 2 series (1845-47); Life and Correspondence, ed. Ryland, 2 vols (1848); Critical Essays, 2 vols (1856) | have-ocr | IA, OCR 96.7-98.8% |
