@@ -243,13 +243,13 @@ def readings(words):
         sig = significant(w["code"])
         repl = [v for v in meaning_variants(w["meaning"]) if v["editions"]]
         if (run and not repl and not run["instead"] and run["in"] == list(present)
-                and run["significant"] == sig and run["to"] == w["n"] - 1):
+                and run["significant"] == sig and run["to"] == w["n"] - 1 and run["tagnt"] == w["tagnt"]):
             run["to"] = w["n"]
             run["words"].append(w["greek"])
             run["strongs"].append(w["strongs"])
             run["grammar"].append(w["grammar"])
         else:
-            run = {"from": w["n"], "to": w["n"], "words": [w["greek"]], "strongs": [w["strongs"]],
+            run = {"tagnt": w["tagnt"], "from": w["n"], "to": w["n"], "words": [w["greek"]], "strongs": [w["strongs"]],
                    "grammar": [w["grammar"]], "in": list(present),
                    "absent": [e for e in EDITIONS if e not in present], "significant": sig,
                    "instead": repl}
@@ -291,14 +291,21 @@ def build():
             missing.append(osis)
             continue
         rds = readings(words)
-        spell = [{"n": w["n"], "greek": w["greek"], "variants": spelling_variants(w["spelling"])}
+        # A KJV verse fed by two TAGNT verses (Matt 17:14, Acts 2:10, ...) has
+        # two runs of word numbers, so there every `n` names its TAGNT verse.
+        refs = list(dict.fromkeys(w["tagnt"] for w in words))
+        at = (lambda w: {"tagnt": w["tagnt"], "n": w["n"]}) if len(refs) > 1 else (lambda w: {"n": w["n"]})
+        if len(refs) == 1:
+            for r in rds:
+                del r["tagnt"]
+        spell = [{**at(w), "greek": w["greek"], "variants": spelling_variants(w["spelling"])}
                  for w in words if w["spelling"]]
-        mean = [{"n": w["n"], "greek": w["greek"], "variants": meaning_variants(w["meaning"])}
+        mean = [{**at(w), "greek": w["greek"], "variants": meaning_variants(w["meaning"])}
                 for w in words if w["meaning"]]
-        moved = [{"n": w["n"], "greek": w["greek"],
+        moved = [{**at(w), "greek": w["greek"],
                   "moved": {e: d for e, d in sorted(w["editions"].items(), key=lambda kv: EDITIONS.index(kv[0])) if d}}
                  for w in words if any(w["editions"].values())]
-        wits = [{"n": w["n"], "greek": w["greek"], "witnesses": w["extra"]} for w in words if w["extra"]]
+        wits = [{**at(w), "greek": w["greek"], "witnesses": w["extra"]} for w in words if w["extra"]]
         stats["spelling"] += len(spell)
         stats["meaning"] += len(mean)
         stats["displaced"] += len(moved)
@@ -311,7 +318,8 @@ def build():
         unit = {"id": f"{SLUG}:{osis}", "ref": osis.split(".")[0] + " " + osis.split(".", 1)[1].replace(".", ":"),
                 "text": apparatus_line(osis, rds) if rds else "",
                 "links": [{"target": f"kjv:{osis}", "type": "apparatus-of", "resolved": True}],
-                "lex": {"passage_uid": uid_of[osis], "tagnt_ref": words[0]["tagnt"],
+                "lex": {"passage_uid": uid_of[osis], "tagnt_ref": refs[0],
+                        **({"tagnt_refs": refs} if len(refs) > 1 else {}),
                         "readings": rds, "meaning_variants": mean, "word_order": moved,
                         "spelling_variants": spell, "witnesses": wits}}
         units.append(unit)
@@ -330,8 +338,11 @@ def build():
                                   "(upper-case variant codes). Its Byz is RP2005, not data/nt's "
                                   "RP2018: --measure says how far they agree.",
                        "note": "One unit per KJV verse where the editions differ; `text` is a "
-                               "readable apparatus line, `lex` the structured readings. TAGNT's "
-                               "English (Berean) and Spanish columns are never read in."},
+                               "readable apparatus line, `lex` the structured readings. Word numbers `n` "
+                               "count within a TAGNT verse; where a KJV verse takes words from "
+                               "two, `lex.tagnt_refs` lists them and every entry names its own "
+                               "`tagnt`. TAGNT's English (Berean) and Spanish columns are never "
+                               "read in."},
             "rights": dict(RIGHTS),
             "stats": stats,
             "units": units}

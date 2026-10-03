@@ -100,6 +100,16 @@ else:
           r["words"] == ["ὃς"] and r["instead"][0]["greek"] == "θεὸς" and r["omit"] == [])
     check("Rom 16:25: the Byzantine text prints the doxology at 14:24, after 14:23",
           u["Rom.16.25"]["lex"]["word_order"][0]["moved"] == {"Byz": "at 14.24"})
+    multi = [x for x in u.values() if "tagnt_refs" in x["lex"]]
+    check(f"a KJV verse fed by two TAGNT verses lists both, and every entry names its own ({len(multi)}, "
+          "Matt 17:14 among them)",
+          "Matt.17.14" in u and "tagnt_refs" in u["Matt.17.14"]["lex"]
+          and all(len(x["lex"]["tagnt_refs"]) > 1 and x["lex"]["tagnt_ref"] == x["lex"]["tagnt_refs"][0]
+                  and all(e.get("tagnt") in x["lex"]["tagnt_refs"]
+                          for k in ("readings", "meaning_variants", "word_order", "spelling_variants", "witnesses")
+                          for e in x["lex"][k]) for x in multi)
+          and not any("tagnt" in e for x in u.values() if "tagnt_refs" not in x["lex"]
+                      for k in ("readings", "spelling_variants") for e in x["lex"][k]))
     check("nothing of TAGNT's English (Berean) or Spanish is in the book",
           "do deliver" not in blob.decode("utf-8") and "lleves" not in blob.decode("utf-8"))
 
