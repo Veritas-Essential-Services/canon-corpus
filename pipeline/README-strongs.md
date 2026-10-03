@@ -132,8 +132,11 @@ the uid column as provisional.
 - **BDB, TBESG, LSJ:** `witnesses.jsonl`, built from the sources in `data/corpus/`.
   BDB files several numbers under 1,204 of its entries (H6_H8: two forms of one
   word; but also words it only mentions, like H430 under the entry for YHWH).
-  Only the first is the entry's own and counts as a witness (`bdb`); the rest are
-  listed apart as `bdb-shared`, never as witnesses.
+  Only one is the entry's own and counts as a witness (`bdb`): of the numbers in the
+  entry's own language (Aramaic from BDB9264, where BDB's Aramaic part opens; it often
+  lists the Hebrew cognate first), the one whose Strong's lemma spells the headword, else
+  the first. The rest are listed apart as `bdb-shared`, never as witnesses.
+  `pipeline/strongs_coverage.py` reports what no entry covers: `docs/strongs-coverage/`.
 - **Thayer:** PR #7's `thayer-entries` book already links each entry to `strongs-greek`.
   It is built only on Adam's machine (the OCR lives there), so a cloud build carries
   Thayer's committed links forward untouched. A local build fills them in.

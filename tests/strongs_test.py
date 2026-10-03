@@ -109,6 +109,11 @@ ok(all(set(w["witnesses"]) <= {"strongs-1890", *B.WITNESSES, *(n + "-shared" for
    "only known witness books")
 ok(wit[[w["strongs"] for w in wit].index("H430")]["witnesses"].get("bdb") == ["bdb-hebrew:BDB430"],
    "H430: BDB's own entry only; the entry for YHWH, which also lists it, is bdb-shared")
+W_ = {w["strongs"]: w["witnesses"] for w in wit}
+ok("bdb-hebrew:BDB9268" in W_["H69"].get("bdb", []) and "bdb-hebrew:BDB9268" in W_["H68"].get("bdb-shared", []),
+   "BDB's Aramaic 'stone' (H68_H69) is the Aramaic H69's entry; the Hebrew H68 is only listed beside it")
+ok("bdb-hebrew:BDB842" in W_["H8391"].get("bdb", []), "BDB842 te'ashshur is H8391, the number spelling its headword")
+ok("bdb-hebrew:BDB734" not in W_["H744"].get("bdb", []), "a Hebrew entry keyed only to an Aramaic number is not its entry")
 ww = {w["strongs"]: w["witnesses"] for w in wit}
 ok("bdb-hebrew:BDB2965" in ww["H2617"].get("bdb", []), "H2617 חֶסֶד is witnessed by BDB2965")
 ok("tbesg-greek:G0001G" in ww["G1"].get("tbesg", []) and "tbesg-greek:G0001H" in ww["G1"]["tbesg"],

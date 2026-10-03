@@ -126,6 +126,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_strongs.py        # Strong's table + proposed word uids + concordance
     python3 pipeline/build_strongs.py --check # data/strongs byte-identical, 0 newly proposed
     python3 tests/strongs_test.py            # the table, the proposals vs the registry, the links
+    python3 pipeline/strongs_coverage.py     # Strong's vs BDB/Thayer -> docs/strongs-coverage/ (--check)
     python3 pipeline/build_latin_key.py --fetch  # Lewis & Short (Perseus TEI, CC BY-SA), pinned
     python3 pipeline/build_latin_key.py      # L&S key <- Whitaker lemma <- every Vulgate word
     python3 pipeline/build_latin_key.py --check  # manifest byte-identical; build/latin-key = its sha256

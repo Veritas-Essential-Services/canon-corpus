@@ -46,6 +46,7 @@ import hashlib
 import json
 import os
 import re
+import unicodedata
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -272,8 +273,41 @@ def _units_for(label, conv, paths):
     return None, None
 
 
+# BDB's Biblical Aramaic part opens at this entry (its head lists Dan 2:4-7:28,
+# Ezra 4:8-6:18 ...); checked against the source in build_witnesses
+BDB_ARAMAIC_FROM = 9264
+
+
+def _bdb_no(uid):
+    return int(uid.rsplit("BDB", 1)[1])
+
+
+_FINALS = str.maketrans("ךםןףץ", "כמנפצ")
+
+
+def _heb_skeleton(word):
+    """Consonants only, finals folded, matres lectionis (ו י) and a final ה
+    dropped: אֲחַזְיָ֫הוּ and אֲחַזְיָה, אַהֲרֹן and אַהֲרוֹן compare equal."""
+    c = "".join(ch for ch in unicodedata.normalize("NFD", word or "") if "\u05d0" <= ch <= "\u05ea")
+    return c.translate(_FINALS).replace("ו", "").replace("י", "").rstrip("ה")
+
+
+def _bdb_heads(u):
+    """The headword(s) a BDB entry prints: its lemma field's words, or, where
+    that field holds no Hebrew (the Aramaic part's is often a siglum), the
+    first Hebrew word of the entry."""
+    words = [w for w in re.split(r"[\s()\[\],]+", (u.get("lex") or {}).get("lemma") or "") if w]
+    heads = ({_heb_skeleton(w) for w in words} | {_heb_skeleton("".join(words))}) - {""}   # and a two-word name whole
+    if not heads:
+        m = re.search(r"[\u05d0-\u05ea][\u0591-\u05c7\u05d0-\u05ea]*", u.get("text") or "")
+        heads = {_heb_skeleton(m.group(0))} if m else set()
+    return heads
+
+
 def build_witnesses(table, prior_rows, prior_manifest):
     keys = {t["strongs"] for t in table}
+    lang = {t["strongs"]: t["lang"] for t in table}
+    lemma_of = {t["strongs"]: t["lemma"] for t in table}
     out = {t["strongs"]: {"strongs-1890": t["entry"]} for t in table}
     stats, carried = {}, []
     prior = {r["strongs"]: r["witnesses"] for r in prior_rows}
@@ -299,6 +333,10 @@ def build_witnesses(table, prior_rows, prior_manifest):
                                  f"{stats[name].get('numbers_covered')}")
             print(f"  {label} not here: {n} numbers' committed {name} links carried forward")
             continue
+        if name == "bdb":
+            head = next((u for u in units if _bdb_no(u["id"]) == BDB_ARAMAIC_FROM), None)
+            if not head or "Dan 2:4-7:28" not in head["text"]:
+                raise SystemExit(f"HARD STOP: BDB's Aramaic part no longer opens at BDB{BDB_ARAMAIC_FROM}")
         linked, beyond, unkeyed = 0, 0, 0
         for u in units:
             targets = []
@@ -317,11 +355,24 @@ def build_witnesses(table, prior_rows, prior_manifest):
             hit = False
             # BDB files several numbers under one entry (H6_H8, two spellings
             # of one word, but also words it only mentions: H430 under the
-            # entry for YHWH). Only the first is the entry's own; the rest
-            # are kept apart, as `<name>-shared`, never as a witness.
-            for i, k in enumerate(dict.fromkeys(targets)):
+            # entry for YHWH). Only one is the entry's own: the first in the
+            # entry's own language. BDB's Aramaic part (BDB_ARAMAIC_FROM on)
+            # often lists the Hebrew cognate first (its "stone" is H68, H69):
+            # there the Aramaic number is its own, and an Aramaic entry that
+            # lists only Hebrew numbers has no own number at all. The rest are
+            # kept apart, as `<name>-shared`, never as a witness.
+            uniq = list(dict.fromkeys(targets))
+            own = uniq[0]
+            if name == "bdb":
+                want = "arc" if _bdb_no(u["id"]) >= BDB_ARAMAIC_FROM else "hbo"
+                mine = [k for k in uniq if lang.get(k) == want]
+                # of those, the one spelling BDB's own headword (תְּאַשּׁוּר is
+                # H8391, not H839 listed first), else the first
+                own = next((k for k in mine if _heb_skeleton(lemma_of.get(k)) in _bdb_heads(u)),
+                           mine[0] if mine else None)
+            for k in uniq:
                 if k in keys:
-                    out[k].setdefault(name if i == 0 else name + "-shared", []).append(u["id"])
+                    out[k].setdefault(name if k == own else name + "-shared", []).append(u["id"])
                     hit = True
                 else:
                     beyond += 1

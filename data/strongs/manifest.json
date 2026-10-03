@@ -55,7 +55,7 @@
    },
    "concordance-view.jsonl": {
     "rows": 14197,
-    "sha256": "050134fbf7bedcb82e7e3d7fd1b9391ad09de79ea1117edd5b7962b2dc4dd3f9"
+    "sha256": "acc8c2983b0471839cb161954e68605cb7dd0f04a306a8b24c634f5872f3a740"
    },
    "kjv-renderings.jsonl": {
     "rows": 14057,
@@ -263,8 +263,8 @@
    },
    "linked": 9164,
    "no_strongs": 847,
-   "numbers_covered": 8049,
-   "numbers_shared_only": 563
+   "numbers_covered": 8202,
+   "numbers_shared_only": 410
   },
   "lsj": {
    "beyond_1890": 3840,
