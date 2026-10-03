@@ -4482,7 +4482,7 @@ Shelf: `pipeline/beowulf_shelf.json` (2026-10-02; added at the coordinator's rel
 
 | Work | Status | Where |
 |---|---|---|
-| Beowulf: An Anglo-Saxon Epic Poem, tr. J. Lesslie Hall (1892) | have | PG 16328, `beowulf-hall` (1402 units) |
+| Beowulf: An Anglo-Saxon Epic Poem, tr. J. Lesslie Hall (1892) | held on main | PG 16328 is slug `beowulf` in fetch_sources.py; not fetched twice (was `beowulf-hall`) |
 | The Tale of Beowulf, tr. William Morris and A. J. Wyatt (1895) | have | PG 20431, `beowulf-morris-wyatt` (212 units) |
 | The Story of Beowulf, tr. Ernest J. B. Kirtlan (1914) | have | PG 50742, `beowulf-kirtlan` (366 units) |
 | Beowulf, tr. Francis B. Gummere (1910) | have | PG 981, `beowulf-gummere` (201 units) |

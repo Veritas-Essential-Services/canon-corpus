@@ -1,5 +1,5 @@
 {
- "_about": "Beowulf in four English translations published before 1929, each its own work with its translator in the title, as with Andersen: John Lesslie Hall's verse (1892), William Morris and A. J. Wyatt's (1895), Ernest J. B. Kirtlan's prose (1914) and Francis B. Gummere's verse (1909/1910). Clean Gutenberg text; US public domain.",
+ "_about": "Beowulf in English translations published before 1929, each its own work with its translator in the title, as with Andersen: John Lesslie Hall's verse (1892, held on main as `beowulf`), William Morris and A. J. Wyatt's (1895), Ernest J. B. Kirtlan's prose (1914) and Francis B. Gummere's verse (1909/1910). Clean Gutenberg text; US public domain.",
  "_author": "Beowulf poet (Old English, anonymous)",
  "_name_words": [
   "beowulf"
@@ -12,17 +12,12 @@
   "wyatt"
  ],
  "_translators": {
-  "beowulf-hall": "Hall",
   "beowulf-morris-wyatt": "Morris",
   "beowulf-kirtlan": "Kirtlan",
   "beowulf-gummere": "Gummere"
  },
  "ccel": {},
  "gutenberg": {
-  "beowulf-hall": [
-   16328,
-   "Beowulf: An Anglo-Saxon Epic Poem, tr. J. Lesslie Hall (1892)"
-  ],
   "beowulf-morris-wyatt": [
    20431,
    "The Tale of Beowulf, tr. William Morris and A. J. Wyatt (1895)"
@@ -37,24 +32,15 @@
   ]
  },
  "internet_archive": {},
+ "_held": {
+  "beowulf-hall": "PG 16328 (Beowulf, tr. J. Lesslie Hall, 1892) is already fetched on main as slug `beowulf` by fetch_sources.py; held there, not fetched twice (moved here at the coordinator's overlap check, 2026-10-03)."
+ },
  "_excluded": {
   "beowulf-scholarship": "Chambers's Beowulf: An Introduction (PG 34117), Olson's Hrolfs Saga and Beowulf (14878), Tinker's Translations of Beowulf (25942): about the poem, not the poem",
   "beowulf-elsewhere": "Longfellow's Beowulf passage is on the Longfellow translator shelf (lane C)",
   "beowulf-ia-candidates": "Earle (1892) and Tinker (1902) translations exist as IA scans; not taken in this batch"
  },
  "_checks": {
-  "beowulf-hall": {
-   "kind": "gutenberg",
-   "checked": "2026-10-03",
-   "name_check": "surname",
-   "author_seen": "hall",
-   "translator_claimed": "Hall",
-   "translator_in_text": true,
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": "J. Lesslie Hall",
-   "translator_match": true
-  },
   "beowulf-morris-wyatt": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
