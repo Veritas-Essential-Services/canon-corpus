@@ -1,5 +1,5 @@
 {
- "_about": "Plato in English: Benjamin Jowett's complete translation of the dialogues (3rd ed., Oxford, 1892), public domain. One translator's whole Plato. Gutenberg texts are clean and carry Jowett's introductions and analyses; the Internet Archive set is the 1892 Clarendon five-volume collected edition (Royal College of Physicians copy) as raw OCR, kept as the page-citable edition of record and for the general index in vol. 5. Order: Gutenberg > Internet Archive. English only; no Greek. Translator recorded per title. Alcibiades II and Eryxias in Jowett's edition were translated by his secretary Matthew Knight (Jowett says so in the introduction to his second appendix). Two Jowett texts were already in the collection via the Adler shelf (Republic, Apology); they are cross-referenced, not refetched. Second translator, added 2026-10-02: the complete Bohn Works of Plato (Cary, Davis, Burges; 6 vols., 1848-54) as raw IA OCR, with vols. 1-2 also clean from Gutenberg (PG 78618, 79398). It carries the dialogues Jowett left out (Hipparchus, Minos, Rivals, Theages, Clitophon, Epinomis, the Epistles, Definitions and the other doubtful works). Third translator, added 2026-10-02: Thomas Taylor's complete Works of Plato (London, 1804; nine dialogues by Floyer Sydenham), 5 vols., raw IA OCR. Added 2026-10-03, raw IA OCR: F. J. Church's Trial and Death of Socrates (1903 printing of the 1886 second edition), A. D. Lindsay's Everyman Republic (third edition, 1923; first 1906) and E. M. Cope's literal Gorgias (1864) and Phaedo (1875).",
+ "_about": "Plato in English: Benjamin Jowett's complete translation of the dialogues (3rd ed., Oxford, 1892), public domain. One translator's whole Plato. Gutenberg texts are clean and carry Jowett's introductions and analyses; the Internet Archive set is the 1892 Clarendon five-volume collected edition (Royal College of Physicians copy) as raw OCR, kept as the page-citable edition of record and for the general index in vol. 5. Order: Gutenberg > Internet Archive. English only; no Greek. Translator recorded per title. Alcibiades II and Eryxias in Jowett's edition were translated by his secretary Matthew Knight (Jowett says so in the introduction to his second appendix). Two Jowett texts were already in the collection via the Adler shelf (Republic, Apology); they are cross-referenced, not refetched. Second translator, added 2026-10-02: the complete Bohn Works of Plato (Cary, Davis, Burges; 6 vols., 1848-54) as raw IA OCR, with vols. 1-2 also clean from Gutenberg (PG 78618, 79398). It carries the dialogues Jowett left out (Hipparchus, Minos, Rivals, Theages, Clitophon, Epinomis, the Epistles, Definitions and the other doubtful works). Third translator, added 2026-10-02: Thomas Taylor's complete Works of Plato (London, 1804; nine dialogues by Floyer Sydenham), 5 vols., raw IA OCR. Added 2026-10-03, raw IA OCR: F. J. Church's Trial and Death of Socrates (1903 printing of the 1886 second edition), A. D. Lindsay's Everyman Republic (third edition, 1923; first 1906) and E. M. Cope's literal Gorgias (1864) and Phaedo (1875). Also J. Wright's Phaedrus, Lysis and Protagoras (1888), S. W. Dyde's Theaetetus (1899), the Scribner Talks with Athenian Youths (1891; translator from the catalogue only) and F. A. Paley's Philebus (1879; IA says 1873, the title page 1879).",
  "_name_words": [
   "plato",
   "jowett",
@@ -311,6 +311,26 @@
    "phaedoliterally00platuoft",
    "Plato's Phaedo, literally translated (Cambridge University Press, 1875; published after the translator's death)",
    "tr. E. M. Cope"
+  ],
+  "plato-wright-phaedrus-lysis-protagoras-1888": [
+   "phaedruslysisand02platuoft",
+   "The Phaedrus, Lysis, and Protagoras of Plato, a new and literal translation (Macmillan, 1888)",
+   "tr. J. Wright"
+  ],
+  "plato-dyde-theaetetus-1899": [
+   "theaetetustransl00plat",
+   "The Theaetetus of Plato, a translation with an introduction (Maclehose, 1899)",
+   "tr. S. W. Dyde"
+  ],
+  "plato-mason-talks-1891": [
+   "talkswithathenia00platrich",
+   "Talks with Athenian Youths: translations from the Charmides, Lysis, Laches, Euthydemus and Theaetetus (Scribner, 1891)",
+   "tr. Ellen Francis Mason (from the catalogue; the volume names no translator)"
+  ],
+  "plato-paley-philebus-1879": [
+   "philebusplato00platuoft",
+   "The Philebus of Plato, translated, with brief explanatory notes (George Bell, 1879)",
+   "tr. F. A. Paley"
   ]
  },
  "_excluded": {
@@ -420,7 +440,10 @@
   "plato-church-trial-death-1903": "F. J. Church",
   "plato-lindsay-republic-1923": "Lindsay",
   "plato-cope-gorgias-1864": "E. M. Cope",
-  "plato-cope-phaedo-1875": "Cope"
+  "plato-cope-phaedo-1875": "Cope",
+  "plato-wright-phaedrus-lysis-protagoras-1888": "J. Wright",
+  "plato-dyde-theaetetus-1899": "S. W. Dyde",
+  "plato-paley-philebus-1879": "Paley"
  },
  "_checks": {
   "plato-charmides": {
@@ -1099,11 +1122,62 @@
    "ia_date": "1875",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "plato-wright-phaedrus-lysis-protagoras-1888": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "J. Wright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plato-dyde-theaetetus-1899": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "S. W. Dyde",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "plato-mason-talks-1891": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plato-paley-philebus-1879": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "Paley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_translator_unchecked": {
   "plato-eryxias": "Gutenberg's header names Jowett, whose edition it is; the text credits the translation of the spurious dialogues to his secretary, Mr. Knight (as the row says), so no single surname is checked against the header",
-  "plato-alcibiades-2": "Jowett's edition names no translator for this spurious dialogue; 'Mr. Knight' appears only as his secretary in the preface"
+  "plato-alcibiades-2": "Jowett's edition names no translator for this spurious dialogue; 'Mr. Knight' appears only as his secretary in the preface",
+  "plato-mason-talks-1891": "the volume names no translator; Ellen Francis Mason is the library catalogue's attribution"
  },
  "perseus": {
   "plato-perseus-fowler-euthyphro": [

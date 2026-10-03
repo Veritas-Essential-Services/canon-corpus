@@ -98,6 +98,10 @@ Shelf: `pipeline/plato_shelf.json`. Jowett, *The Dialogues of Plato*, 3rd ed. (O
 | The Republic of Plato, third edition with revised text (Everyman; Dent, 1923) | A. D. Lindsay | `plato-lindsay-republic-1923` | have-raw (IA `therepublicofpla00platuoft`) |
 | Plato's Gorgias, literally translated, with an introductory essay (Deighton, Bell, 1864) | E. M. Cope | `plato-cope-gorgias-1864` | have-raw (IA `bub_gb_H50hsgIss64C`) |
 | Plato's Phaedo, literally translated (Cambridge University Press, 1875; published after the translator's death) | E. M. Cope | `plato-cope-phaedo-1875` | have-raw (IA `phaedoliterally00platuoft`) |
+| The Phaedrus, Lysis, and Protagoras of Plato, a new and literal translation (Macmillan, 1888) | J. Wright | `plato-wright-phaedrus-lysis-protagoras-1888` | have-raw (IA `phaedruslysisand02platuoft`) |
+| The Theaetetus of Plato, a translation with an introduction (Maclehose, 1899) | S. W. Dyde | `plato-dyde-theaetetus-1899` | have-raw (IA `theaetetustransl00plat`) |
+| Talks with Athenian Youths: translations from the Charmides, Lysis, Laches, Euthydemus and Theaetetus (Scribner, 1891) | Ellen Francis Mason (from the catalogue; the volume names no translator) | `plato-mason-talks-1891` | have-raw (IA `talkswithathenia00platrich`) |
+| The Philebus of Plato, translated, with brief explanatory notes (George Bell, 1879) | F. A. Paley | `plato-paley-philebus-1879` | have-raw (IA `philebusplato00platuoft`) |
 
 Pending (wishlist):
 
