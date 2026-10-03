@@ -1248,6 +1248,42 @@ SECOND = {
         [("Gal", 8, 66), ("Eph", 67, 125), ("Phil", 126, 163), ("Col", 164, 195), ("1Thess", 196, 218),
          ("2Thess", 219, 244), ("1Tim", 245, 295), ("2Tim", 296, 323), ("Titus", 324, 333), ("Phlm", 334, 338),
          ("Heb", 339, 509)]),
+    "keil-delitzsch-pentateuch-1": _kd(
+        "Biblical Commentary on the Old Testament: The Pentateuch, vol. I", "Keil, Pent. I", _KDP,
+        "thepentateuch01keiluoft", "39ee9f3f185433552ab2069c3dc4e4049ad032fdb961337303c229b162291d06",
+        f"{_KD}, vol. I: The Pentateuch (Genesis; Exodus i.-xi.), by C. F. Keil, tr. James Martin (1878 issue), "
+        "as its title page reads", 1878, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT", (7, 507),
+        [("Gen", 37, 420), ("Exod", 421, 507)]),
+    "keil-delitzsch-pentateuch-2": _kd(
+        "Biblical Commentary on the Old Testament: The Pentateuch, vol. II", "Keil, Pent. II", _KDP,
+        "biblicalcomm02keiluoft", "314975d9d073558e6a5382f4f48d5b26273e101c5b6a76fb9559775efc4583de",
+        f"{_KD}, vol. II: The Pentateuch (Exodus xii.-xl.; Leviticus), by C. F. Keil, tr. James Martin (1872), "
+        "as its title page reads", 1872, "University of Toronto (Emmanuel College)", "NOT_IN_COPYRIGHT", (8, 489),
+        [("Exod", 12, 263), ("Lev", 264, 489)]),
+    "keil-delitzsch-pentateuch-3": _kd(
+        "Biblical Commentary on the Old Testament: The Pentateuch, vol. III", "Keil, Pent. III", _KDP,
+        "pentateuch03keiluoft", "9e0b0189d5a0806fabbaa733a673c6888e49ec00c8da01f442ca260225b59f04",
+        f"{_KD}, vol. III: The Pentateuch (Numbers; Deuteronomy), by C. F. Keil, tr. James Martin (1871), "
+        "as its title page reads", 1871, "University of Toronto (Robarts)", "NOT_IN_COPYRIGHT", (8, 544),
+        [("Num", 14, 281), ("Deut", 282, 529)]),
+    "delitzsch-psalms-1": _kd(
+        "Biblical Commentary on the Psalms, vol. I", "Delitzsch, Ps. I", "Franz Delitzsch",
+        "commentarypsalm01deliuoft", "dcd1104005b32e8a3ac96a84b400719f55a7848bac5dbaa39a55b25aa805c787",
+        f"{_KD}: Franz Delitzsch, Biblical Commentary on the Psalms, vol. I (Ps. i.-xxxv.), tr. Francis Bolton "
+        "(1880 issue), as its title page reads", 1880, "Trinity College, Toronto", "NOT_IN_COPYRIGHT", (8, 447),
+        [("Ps", 100, 447)]),
+    "delitzsch-psalms-2": _kd(
+        "Biblical Commentary on the Psalms, vol. II", "Delitzsch, Ps. II", "Franz Delitzsch",
+        "biblicalcommenta187102deli", "f453ad2a67b60934f86336d9ce461d039cf407245d29e5abb902805211a29f3a",
+        f"{_KD}: Franz Delitzsch, Biblical Commentary on the Psalms, vol. II (Ps. xxxvi.-lxxxiii.), tr. Francis "
+        "Bolton (1871), as its title page reads", 1871, "Princeton Theological Seminary Library", "NOT_IN_COPYRIGHT",
+        (7, 432), [("Ps", 13, 423)]),
+    "delitzsch-psalms-3": _kd(
+        "Biblical Commentary on the Psalms, vol. III", "Delitzsch, Ps. III", "Franz Delitzsch",
+        "commentarypsalm03deliuoft", "ce83fe38fb61611a348f998a612776e990e62e5f015082fdcffb0a5787f0d8f9",
+        f"{_KD}: Franz Delitzsch, Biblical Commentary on the Psalms, vol. III (Ps. lxxxiv.-cl.), tr. Francis Bolton "
+        "(second edition of the translation, 1881), as its title page reads", 1881, "Trinity College, Toronto", "NOT_IN_COPYRIGHT", (4, 431),
+        [("Ps", 12, 427)]),
 }
 # How each scan was chosen, carried into the manifest (scheme.scan_choice), so a reader of the manifest
 # sees the other witnesses without opening this file.

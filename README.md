@@ -242,6 +242,42 @@ The five scanned books are unproofread OCR, and their honesty fields say
 so. Run `--fetch`, then `--check`. To see each book's coverage and Greek
 measures, run `--report`.
 
+### The second shelf: Alford, Bengel, Keil & Delitzsch (drafts)
+
+The same build shelves twelve more volumes, one book per volume, all read
+from Internet Archive scans:
+
+| Books | Volumes | Printed |
+|---|---|---|
+| Alford, *The Greek Testament* | II (Acts-2 Cor), III (Gal-Phlm), IV (Heb-Rev) | 1857, 1865, Boston issue cat. 1874 |
+| Bengel, *Gnomon of the New Testament* (T&T Clark English) | II (Luke-Acts), III (Rom-2 Cor), IV (Gal-Heb) | 1873, 1873, 1877 |
+| Keil, *The Pentateuch* (Keil & Delitzsch) | I-III | 1878, 1872, 1871 |
+| Delitzsch, *The Psalms* (Keil & Delitzsch) | I-III | 1880, 1871, 1881 |
+
+Ids lead with the book in a volume of several books
+(`alford-commentary-3:Gal.2.20`, `bengel-gnomon-4:Heb.11.1`). Alford runs
+his verse notes on inline ("9.] As we said"), so his openers are read inside
+the lines. Keil & Delitzsch open sections "Ver. 3." or "Vers. 14-19.", at a
+paragraph or after a dash. Delitzsch's psalm titles start each psalm, and
+what comes before the first verse note is the unit `<psalm>.intro`.
+
+**Which numbering.** Keil & Delitzsch number the Old Testament as the
+Hebrew does in places. This is measured for each book, not assumed: a verse
+only the Hebrew has is a vote for the Hebrew, and a verse only the KJV has
+is a vote for the KJV. Delitzsch's Psalms measure as Hebrew, so
+`delitzsch-psalms-2:51.5-6` links to the KJV's Ps 51:3-4 through
+`data/versification/bhs-kjv.json`, and a psalm's title stays unresolved
+with its reason. The Pentateuch mostly measures undecided (the numberings
+rarely differ there), and then each verse is read where it exists.
+
+**What is lost.** No scan of Keil & Delitzsch keeps its Hebrew: the OCR
+read it as Latin letters, which stay in the text as the OCR gave them.
+Every honesty field says so.
+
+**Not shelved.** Alford vol. I and Bengel vols I and V have no scan that
+keeps the Greek. Delitzsch's Isaiah does not mark its sections "Ver.", so it
+needs a different reader; its scans are measured and listed in the code.
+
 ## Josephus (Greek and English)
 
 The Antiquities, the Jewish War, the Life and Against Apion: Niese's Greek
