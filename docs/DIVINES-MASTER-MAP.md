@@ -5908,6 +5908,14 @@ Shelf: `pipeline/barker-sinclair_shelf.json` (2026-10-02; added at the coordinat
 |---|---|---|
 | West African Folk-Tales | have | PG 66923, `barker-sinclair-west-african-folk-tales` (425 units) |
 
+## Mrs. Rafy
+
+Shelf: `pipeline/rafy_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Tales of the Khasi Hills. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Folk-Tales of the Khasis | have | PG 37884, `rafy-folk-tales-of-the-khasis` (505 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
