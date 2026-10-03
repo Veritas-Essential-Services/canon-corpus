@@ -1885,3 +1885,13 @@ Slugs `hwsmith-*`.
 | Work | Status | Where |
 |---|---|---|
 | The Christian's Secret of a Happy Life; The God of All Comfort; Old Testament Types and Teachings | have-clean | CCEL |
+
+
+## R. A. Torrey (round 12, my pick, 2026-10-03)
+
+Slugs `torrey-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| How to Pray; Revival Addresses (Revell, 1903) | have-clean | CCEL |
+| The Person and Work of the Holy Spirit | have-clean | CCEL (keyed from the Zondervan reprint, 1974) |

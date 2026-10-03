@@ -533,3 +533,6 @@
 
 ## 2026-10-03 02:59 CDT — hannah-whitall-smith done
 - `pipeline/hannah-whitall-smith_shelf.json`: 3 CCEL texts. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:59 CDT — r-a-torrey done
+- `pipeline/r-a-torrey_shelf.json`: 3 CCEL texts. The Person and Work of the Holy Spirit is keyed from a 1974 Zondervan reprint and is flagged. `--verify --record`: 0 mismatched. 0 uids minted.
