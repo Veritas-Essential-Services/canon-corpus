@@ -1,0 +1,104 @@
+{
+ "_about": "TRANSLATOR SHELF: Isabel Florence Hapgood (1851-1928). Hugo's Les Misérables (1887), Gorky, Turgenev and Bunin. PD. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "hapgood"
+ ],
+ "_surname": [
+  "hapgood"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hapgood-les-miserables": [
+   135,
+   "Les Misérables"
+  ],
+  "hapgood-orloff": [
+   55636,
+   "Orlóff and His Wife: Tales of the Barefoot Brigade"
+  ],
+  "hapgood-village": [
+   59981,
+   "The Village"
+  ],
+  "hapgood-first-love": [
+   56878,
+   "First love, and other stories"
+  ],
+  "hapgood-superfluous-man": [
+   41201,
+   "The diary of a superfluous man, and other stories"
+  ],
+  "hapgood-reckless-character": [
+   15994,
+   "A Reckless Character, and Other Stories"
+  ],
+  "hapgood-nobleman": [
+   25771,
+   "A Nobleman's Nest"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "hapgood-les-miserables": {
+   "source": "hapgood-les-miserables",
+   "of": "Hugo",
+   "work": "Les Misérables",
+   "translated": 1887,
+   "translator": "Isabel F. Hapgood",
+   "scan_edition": "Project Gutenberg 135 (clean text)"
+  },
+  "hapgood-gorky-orloff": {
+   "source": "hapgood-orloff",
+   "of": "Gorky",
+   "work": "Orlóff and His Wife: Tales of the Barefoot Brigade",
+   "translated": 1901,
+   "translator": "Isabel F. Hapgood",
+   "scan_edition": "Project Gutenberg 55636 (clean text)"
+  },
+  "hapgood-bunin-village": {
+   "source": "hapgood-village",
+   "of": "Bunin",
+   "work": "The Village",
+   "translated": 1923,
+   "translator": "Isabel F. Hapgood",
+   "scan_edition": "Project Gutenberg 59981 (clean text)"
+  },
+  "hapgood-turgenev-first-love": {
+   "source": "hapgood-first-love",
+   "of": "Turgenev",
+   "work": "First Love, and Other Stories",
+   "translated": 1904,
+   "translator": "Isabel F. Hapgood",
+   "scan_edition": "Project Gutenberg 56878 (clean text)"
+  },
+  "hapgood-turgenev-superfluous-man": {
+   "source": "hapgood-superfluous-man",
+   "of": "Turgenev",
+   "work": "The Diary of a Superfluous Man, and Other Stories",
+   "translated": 1904,
+   "translator": "Isabel F. Hapgood",
+   "scan_edition": "Project Gutenberg 41201 (clean text)"
+  },
+  "hapgood-turgenev-reckless-character": {
+   "source": "hapgood-reckless-character",
+   "of": "Turgenev",
+   "work": "A Reckless Character, and Other Stories",
+   "translated": 1904,
+   "translator": "Isabel F. Hapgood",
+   "scan_edition": "Project Gutenberg 15994 (clean text)"
+  },
+  "hapgood-turgenev-nobleman": {
+   "source": "hapgood-nobleman",
+   "of": "Turgenev",
+   "work": "A Nobleman's Nest",
+   "translated": 1903,
+   "translator": "Isabel F. Hapgood",
+   "scan_edition": "Project Gutenberg 25771 (clean text)"
+  }
+ },
+ "_pending": {
+  "hapgood-tolstoy": "Hapgood's Tolstoy (Childhood, Boyhood, Youth 1886; Sevastopol 1888): not on Gutenberg in her version; IA not checked this run."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}

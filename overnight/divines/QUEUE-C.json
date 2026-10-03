@@ -184,6 +184,48 @@
    "started": "2026-10-02T17:31-05:00",
    "finished": "2026-10-02T19:41-05:00",
    "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 4. No uids minted."
+  },
+  {
+   "id": "shelf-curtin",
+   "status": "running",
+   "started": "2026-10-02T19:43-05:00",
+   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- curtin; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-hapgood",
+   "status": "running",
+   "started": "2026-10-02T19:43-05:00",
+   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- hapgood; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-legge",
+   "status": "running",
+   "started": "2026-10-02T19:43-05:00",
+   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- legge; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-giles",
+   "status": "running",
+   "started": "2026-10-02T19:43-05:00",
+   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- giles; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-waley",
+   "status": "running",
+   "started": "2026-10-02T19:43-05:00",
+   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- waley; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-hoole",
+   "status": "running",
+   "started": "2026-10-02T19:43-05:00",
+   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- hoole; PD printings before 1931 only; no minting"
+  },
+  {
+   "id": "shelf-harington",
+   "status": "running",
+   "started": "2026-10-02T19:43-05:00",
+   "scope": "TRANSLATOR SHELF (round 5, lane C's choice under the coordinator's standing instruction; Adam may veto) -- harington; PD printings before 1931 only; no minting"
   }
  ]
 }

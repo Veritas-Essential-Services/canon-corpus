@@ -1,0 +1,88 @@
+{
+ "_about": "TRANSLATOR SHELF: Jeremiah Curtin (1835-1906). Sienkiewicz's Quo Vadis (1896) and the Trilogy (With Fire and Sword 1890, The Deluge 1891, Pan Michael 1893), with On the Field of Glory (1906). PD. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "curtin"
+ ],
+ "_surname": [
+  "curtin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "curtin-quo-vadis": [
+   2853,
+   "Quo Vadis: A Narrative of the Time of Nero"
+  ],
+  "curtin-fire-and-sword": [
+   37027,
+   "With Fire and Sword"
+  ],
+  "curtin-deluge-1": [
+   37198,
+   "The Deluge, vol. 1"
+  ],
+  "curtin-deluge-2": [
+   37308,
+   "The Deluge, vol. 2"
+  ],
+  "curtin-pan-michael": [
+   37361,
+   "Pan Michael"
+  ],
+  "curtin-field-of-glory": [
+   37406,
+   "On the Field of Glory"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "curtin-quo-vadis": {
+   "source": "curtin-quo-vadis",
+   "of": "Sienkiewicz",
+   "work": "Quo Vadis",
+   "translated": 1896,
+   "translator": "Jeremiah Curtin",
+   "scan_edition": "Project Gutenberg 2853 (clean text)"
+  },
+  "curtin-with-fire-and-sword": {
+   "source": "curtin-fire-and-sword",
+   "of": "Sienkiewicz",
+   "work": "With Fire and Sword (Trilogy I)",
+   "translated": 1890,
+   "translator": "Jeremiah Curtin",
+   "scan_edition": "Project Gutenberg 37027 (clean text)"
+  },
+  "curtin-the-deluge": {
+   "source": [
+    "curtin-deluge-1",
+    "curtin-deluge-2"
+   ],
+   "of": "Sienkiewicz",
+   "work": "The Deluge (Trilogy II)",
+   "translated": 1891,
+   "translator": "Jeremiah Curtin",
+   "scan_edition": "Project Gutenberg 37198 + 37308 (clean text)"
+  },
+  "curtin-pan-michael": {
+   "source": "curtin-pan-michael",
+   "of": "Sienkiewicz",
+   "work": "Pan Michael (Trilogy III)",
+   "translated": 1893,
+   "translator": "Jeremiah Curtin",
+   "scan_edition": "Project Gutenberg 37361 (clean text)"
+  },
+  "curtin-on-the-field-of-glory": {
+   "source": "curtin-field-of-glory",
+   "of": "Sienkiewicz",
+   "work": "On the Field of Glory",
+   "translated": 1906,
+   "translator": "Jeremiah Curtin",
+   "scan_edition": "Project Gutenberg 37406 (clean text)"
+  }
+ },
+ "_pending": {
+  "curtin-knights-of-the-cross": "The Knights of the Cross (1900): Gutenberg's edition is not Curtin's; no Curtin scan checked this run.",
+  "curtin-myths": "Curtin's own collections of Irish, Russian and Native American myths: his own fieldwork rather than translations of a work; left out."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}

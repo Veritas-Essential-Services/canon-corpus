@@ -1,0 +1,58 @@
+{
+ "_about": "TRANSLATOR SHELF: James Legge (1815-1897). The Chinese classics: the Tao Teh King (Sacred Books of the East 39, 1891), the Analects (Chinese Classics I, 1861/1893), and Faxian's Record of Buddhistic Kingdoms (1886). PD. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "legge"
+ ],
+ "_surname": [
+  "legge"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "legge-tao-teh-king": [
+   216,
+   "The Tao Teh King, or the Tao and its Characteristics"
+  ],
+  "legge-analects": [
+   3330,
+   "The Analects of Confucius"
+  ],
+  "legge-faxian": [
+   2124,
+   "A Record of Buddhistic Kingdoms"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "legge-tao-teh-king": {
+   "source": "legge-tao-teh-king",
+   "of": "Laozi",
+   "work": "Tao Te Ching",
+   "translated": 1891,
+   "translator": "James Legge",
+   "scan_edition": "Project Gutenberg 216 (clean text)"
+  },
+  "legge-analects": {
+   "source": "legge-analects",
+   "of": "Confucius",
+   "work": "Analects",
+   "translated": 1861,
+   "translator": "James Legge",
+   "scan_edition": "Project Gutenberg 3330 (clean text)"
+  },
+  "legge-faxian": {
+   "source": "legge-faxian",
+   "of": "Faxian",
+   "work": "A Record of Buddhistic Kingdoms",
+   "translated": 1886,
+   "translator": "James Legge",
+   "scan_edition": "Project Gutenberg 2124 (clean text)"
+  }
+ },
+ "_pending": {
+  "legge-sacred-books": "The rest of Legge's Sacred Books of the East (Shu King, Shih King, Yi King, Li Ki, Zhuangzi: SBE 3, 16, 27-28, 39-40): on IA, not fetched this run."
+ },
+ "_excluded": {
+  "pg-3100-4094": "Gutenberg 3100 and 4094 are the Chinese-language text of the Chinese Classics, not the translation."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}

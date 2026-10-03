@@ -1,0 +1,68 @@
+{
+ "_about": "TRANSLATOR SHELF: Herbert Allen Giles (1845-1935) and his son Lionel Giles (1875-1958). Zhuangzi (H. A., 1889), Pu Songling's Strange Stories (H. A., 1880), Sunzi's Art of War (L., 1910) and the Sayings of Confucius (L., 1907). The translator is recorded per title. US PD (published before 1931). In the UK, H. A. Giles's work is PD (d. 1935) but Lionel Giles's stays in copyright until the end of 2028. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "giles"
+ ],
+ "_surname": [
+  "giles"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "giles-chuang-tzu": [
+   59709,
+   "Chuang Tzu: Mystic, Moralist, and Social Reformer"
+  ],
+  "giles-strange-stories": [
+   43629,
+   "Strange Stories from a Chinese Studio"
+  ],
+  "giles-art-of-war": [
+   132,
+   "The Art of War"
+  ],
+  "giles-sayings-of-confucius": [
+   46389,
+   "The Sayings of Confucius"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "giles-chuang-tzu": {
+   "source": "giles-chuang-tzu",
+   "of": "Zhuangzi",
+   "work": "Chuang Tzu",
+   "translated": 1889,
+   "translator": "Herbert A. Giles",
+   "scan_edition": "Project Gutenberg 59709 (clean text)"
+  },
+  "giles-strange-stories": {
+   "source": "giles-strange-stories",
+   "of": "Pu Songling",
+   "work": "Strange Stories from a Chinese Studio",
+   "translated": 1880,
+   "translator": "Herbert A. Giles",
+   "scan_edition": "Project Gutenberg 43629 (clean text)"
+  },
+  "giles-art-of-war": {
+   "source": "giles-art-of-war",
+   "of": "Sunzi",
+   "work": "The Art of War",
+   "translated": 1910,
+   "translator": "Lionel Giles",
+   "scan_edition": "Project Gutenberg 132 (clean text)"
+  },
+  "giles-sayings-of-confucius": {
+   "source": "giles-sayings-of-confucius",
+   "of": "Confucius",
+   "work": "The Sayings of Confucius",
+   "translated": 1907,
+   "translator": "Lionel Giles",
+   "scan_edition": "Project Gutenberg 46389 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "giles-own-works": "H. A. Giles's History of Chinese Literature and China and the Chinese: his own works."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}

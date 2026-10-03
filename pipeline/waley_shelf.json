@@ -1,0 +1,106 @@
+{
+ "_about": "TRANSLATOR SHELF: Arthur Waley (1889-1966). Only work published before 1931, which is US public domain: Chinese poems (1918, 1919), Li Po (1919), the No plays (1921), the Tale of Genji parts 1-3 (1925-27), and the Pillow-Book (1928). 🔴 The UK term runs to the end of 2036 (he died in 1966): US PD only, so check before republishing outside the US. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "waley"
+ ],
+ "_surname": [
+  "waley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "waley-170-chinese-poems": [
+   42290,
+   "A Hundred and Seventy Chinese Poems"
+  ],
+  "waley-more-translations": [
+   16500,
+   "More Translations from the Chinese"
+  ],
+  "waley-li-po": [
+   43274,
+   "The Poet Li Po, A.D. 701-762"
+  ],
+  "waley-no-plays": [
+   43304,
+   "The Nō Plays of Japan"
+  ],
+  "waley-genji-1": [
+   66057,
+   "The tale of Genji"
+  ],
+  "waley-genji-2": [
+   67111,
+   "The sacred tree"
+  ],
+  "waley-genji-3": [
+   75852,
+   "A wreath of cloud"
+  ],
+  "waley-pillow-book": [
+   76016,
+   "The pillow-book of Sei Shōnagon"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "waley-170-chinese-poems": {
+   "source": "waley-170-chinese-poems",
+   "of": "Chinese poets",
+   "work": "A Hundred and Seventy Chinese Poems",
+   "translated": 1918,
+   "translator": "Arthur Waley",
+   "scan_edition": "Project Gutenberg 42290 (clean text)"
+  },
+  "waley-more-translations": {
+   "source": "waley-more-translations",
+   "of": "Chinese poets",
+   "work": "More Translations from the Chinese",
+   "translated": 1919,
+   "translator": "Arthur Waley",
+   "scan_edition": "Project Gutenberg 16500 (clean text)"
+  },
+  "waley-li-po": {
+   "source": "waley-li-po",
+   "of": "Li Bai",
+   "work": "The Poet Li Po",
+   "translated": 1919,
+   "translator": "Arthur Waley",
+   "scan_edition": "Project Gutenberg 43274 (clean text)"
+  },
+  "waley-no-plays": {
+   "source": "waley-no-plays",
+   "of": "Zeami and others",
+   "work": "The No Plays of Japan",
+   "translated": 1921,
+   "translator": "Arthur Waley",
+   "scan_edition": "Project Gutenberg 43304 (clean text)"
+  },
+  "waley-genji-1-3": {
+   "source": [
+    "waley-genji-1",
+    "waley-genji-2",
+    "waley-genji-3"
+   ],
+   "of": "Murasaki Shikibu",
+   "work": "The Tale of Genji, parts 1-3 (The Tale of Genji; The Sacred Tree; A Wreath of Cloud)",
+   "translated": "1925-1927",
+   "translator": "Arthur Waley",
+   "scan_edition": "Project Gutenberg 66057 + 67111 + 75852 (clean text)"
+  },
+  "waley-pillow-book": {
+   "source": "waley-pillow-book",
+   "of": "Sei Shonagon",
+   "work": "The Pillow-Book of Sei Shonagon",
+   "translated": 1928,
+   "translator": "Arthur Waley",
+   "scan_edition": "Project Gutenberg 76016 (clean text)"
+  }
+ },
+ "_pending": {
+  "waley-genji-4-6": "Genji parts 4-6 (Blue Trousers 1928, The Lady of the Boat 1932, The Bridge of Dreams 1933): part 4 is US PD but not on Gutenberg; parts 5-6 are after 1930 and are refused."
+ },
+ "_excluded": {
+  "waley-after-1930": "The Way and its Power (1934), the Analects (1938), Monkey (1942): still in copyright."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed."
+}
