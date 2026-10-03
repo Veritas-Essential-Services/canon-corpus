@@ -43,12 +43,12 @@
   ],
   "herodotus-littlebury-1737-v1": [
    "historyofherodot01hero",
-   "The History of Herodotus, translated from the Greek (London, 1737), vol. 1 (John Adams's copy)",
+   "The History of Herodotus, translated from the Greek, vol. I, third edition (London: Midwinter and others, MDCCXXXVII)",
    "tr. Isaac Littlebury"
   ],
   "herodotus-littlebury-1737-v2": [
    "historyofherodot02hero",
-   "The History of Herodotus, translated from the Greek (London, 1737), vol. 2 (John Adams's copy)",
+   "The History of Herodotus, translated from the Greek, vol. II, third edition (London: Midwinter and others, MDCCXXXVII)",
    "tr. Isaac Littlebury"
   ],
   "herodotus-beloe-1821-v1": [
@@ -101,8 +101,8 @@
   "herodotus-perseus-godley-histories": "A. D. Godley"
  },
  "_translator_unchecked": {
-  "herodotus-littlebury-1737-v1": "translator on the row (Isaac Littlebury) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
-  "herodotus-littlebury-1737-v2": "translator on the row (Isaac Littlebury) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "herodotus-littlebury-1737-v1": "title page OCRs the name as 'Isaac Littleburyt'^' (third edition, MDCCXXXVII); the claim is not matched as written",
+  "herodotus-littlebury-1737-v2": "title page OCRs the name as 'Isaac Little bury' (split by OCR; third edition, MDCCXXXVII); the claim is not matched as written",
   "herodotus-beloe-1821-v4": "translator on the row (William Beloe) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
  },
  "_checks": {
