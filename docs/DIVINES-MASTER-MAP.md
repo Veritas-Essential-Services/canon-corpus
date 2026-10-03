@@ -6632,6 +6632,7 @@ Shelf: `pipeline/busk_shelf.json` (2026-10-02; added at the coordinator's relay 
 | Work | Status | Where |
 |---|---|---|
 | Patrañas; or, Spanish Stories, Legendary and Traditional (London: Griffith and Farran, 1870) | have | PG 45859, `busk-patranas` (1411 units) |
+| Roman Legends: A Collection of the Fables and Folk-lore of Rome | have | PG 48771, `busk-roman-legends` (3421 units) |
 
 ## Wentworth Webster
 

@@ -1,5 +1,5 @@
 {
- "_about": "Rachel Harriette Busk's (1831-1907) Patrañas; or, Spanish Stories, Legendary and Traditional (London, 1870; published as by 'the author of Traditions of Tirol'), tales gathered in Spain and set in her English. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Rachel Harriette Busk's (1831-1907) Patrañas; or, Spanish Stories, Legendary and Traditional (London, 1870; published as by 'the author of Traditions of Tirol'), tales gathered in Spain and set in her English, and Roman Legends: A Collection of the Fables and Folk-lore of Rome (1877). Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
  "_author": "Rachel Harriette Busk",
  "_name_words": [
   "patranas",
@@ -14,12 +14,43 @@
   "busk-patranas": [
    45859,
    "Patrañas; or, Spanish Stories, Legendary and Traditional (London: Griffith and Farran, 1870)"
+  ],
+  "busk-roman-legends": [
+   48771,
+   "Roman Legends: A Collection of the Fables and Folk-lore of Rome",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE|CONTENTS|FAVOLE|LEGENDARY TALES AND ESEMPJ|GHOST AND TREASURE STORIES AND FAMILY AND LOCAL TRADITIONS|CIARPE|APPENDICES)\\.$|NOTES$",
+      "max": 120
+     },
+     {
+      "re": "(?!(?:SECOND|THIRD|FOURTH|FIFTH) VERSION)(?:[A-Z][^a-z]*\\.(?: ?\\[\\d+\\])?|APPENDIX [A-F]\\..*)$",
+      "strip": "\\.?(?: ?\\[\\d+\\])?$|\\. p\\. .*$",
+      "max": 120
+     },
+     {
+      "re": "(?:SECOND|THIRD|FOURTH|FIFTH) VERSION\\.$"
+     }
+    ],
+    "start": "PREFACE\\.$",
+    "front": true
+   }
   ]
  },
  "internet_archive": {},
  "_excluded": {},
  "_checks": {
   "busk-patranas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "rachel harriette busk",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "busk-roman-legends": {
    "kind": "gutenberg",
    "checked": "2026-10-03",
    "name_check": "surname",
