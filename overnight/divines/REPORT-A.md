@@ -515,3 +515,6 @@
 
 ## 2026-10-03 02:42 CDT — john-kennedy-dingwall done
 - `pipeline/john-kennedy-dingwall_shelf.json`: 2 IA volumes of raw OCR, median 98.3%. Gaelic items under his name are left out of this English shelf. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-03 02:42 CDT — thomas-mccrie done
+- `pipeline/thomas-mccrie_shelf.json`: 4 IA volumes of raw OCR, median 96.6% (93.5-99.0%), about 6 MB. IA catalogues the Works as 1855, but the title pages read 1856 and 1857, and the slugs carry no year. His Life of Knox (Works vol. 1) is left to the Reformers/Knox thread. `--verify --record`: 0 mismatched. 0 uids minted.

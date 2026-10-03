@@ -1838,6 +1838,19 @@ Slugs `jkennedy-*`.
 |---|---|---|
 | The Days of the Fathers in Ross-shire (Toronto: J. Campbell, MDCCCLXVII) | have-raw | IA (identifiers in the shelf) |
 | The Apostle of the North: the Life of Dr. M'Donald (Nelson, 1866) | have-raw | IA |
+
+
+## Thomas M'Crie the elder (round 11, my pick, 2026-10-03)
+
+Slugs `mccrie-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, vol. 2: Life of Andrew Melville (Blackwood, 1856) | have-raw | IA (identifiers in the shelf) |
+| Works, vol. 3: The Reformation in Italy; The Reformation in Spain (1856) | have-raw | IA |
+| Works, vol. 4: Review of Tales of My Landlord; On the Unity of the Church; Sermons (1857) | have-raw | IA |
+| Lectures on the Book of Esther (Carter, 1838) | have-raw | IA |
+| Life of John Knox | excluded | the English Reformers and Knox thread owns Knox |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
