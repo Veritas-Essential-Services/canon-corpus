@@ -107,6 +107,17 @@ def classify_page(page, body_fs, known_heads=()):
                                               or like_head(t0, known_heads)):
             head = t0
             pars = pars[1:]
+            # a running head the OCR split in two at the same height ("188" and
+            # "PUBLIC WORSHIP TO BE" beside it) is one head
+            for _ in range(2):
+                if not (pars and page["h"] and len(pars[0]["lines"]) == 1
+                        and abs(pars[0]["box"][1] - p0["box"][1]) < page["h"] * 0.012):
+                    break
+                t1 = par_text(pars[0]).strip()
+                if not (RE_HEAD_NUM.search(t1) or (t1.isupper() and len(t1) < 70) or like_head(t1, known_heads)):
+                    break
+                head = f"{head} {t1}"
+                pars = pars[1:]
     def foot_mark(p):
         # a short line at the very foot: a gathering mark ("Aa3", "Dd 3"), a
         # volume signature ("VOL. IV."), never a note or text
@@ -127,6 +138,37 @@ def classify_page(page, body_fs, known_heads=()):
         else:
             break
     return head, pars, notes
+
+ROMAN = [(1000, "M"), (900, "CM"), (500, "D"), (400, "CD"), (100, "C"), (90, "XC"), (50, "L"), (40, "XL"),
+         (10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I")]
+
+def to_roman(n):
+    out = ""
+    for v, s in ROMAN:
+        while n >= v:
+            out, n = out + s, n - v
+    return out
+
+# "SEEMON YIIL" / "SEKMON IX" / ": SEEMOX IIL": a numbered division heading the
+# OCR garbled. The word is read loosely; the number is never guessed from its
+# letters alone, only accepted as the next in the book's own sequence.
+RE_NUMBERED = re.compile(r"^\W*(S[EKR][RKE]M[O0][NXI]|SERMON|CHAP|CHAPTER|LECTURE|DISCOURSE)\W*\s+([IVXLYCl1]+)\W*$")
+
+def numbered_heading(md, last):
+    """-> (heading, number) for a numbered division heading that reads as the
+    next one after `last`, else (md, None)."""
+    m = RE_NUMBERED.match(press_render.plain(md).strip())
+    if not m:
+        return md, None
+    word = {"CHAP": "CHAP."}.get(m.group(1).upper(), "SERMON" if m.group(1).upper().startswith("S") else m.group(1).upper())
+    raw = m.group(2).upper().replace("Y", "V").replace("1", "I")
+    nxt = to_roman(last + 1)
+    # as printed, or with an I (or the full stop after it) misread as L ("VIIL", "XL" for "XI")
+    if nxt in (raw, raw.replace("L", "I")) or (raw.endswith("L") and raw[:-1] == nxt):
+        return f"{word} {nxt}", last + 1
+    if raw == "I":
+        return f"{word} I", 1      # a new series begins
+    return md, None
 
 def printed_page(head):
     if not head:
@@ -245,6 +287,7 @@ def convert(path, slug, e):
     started = not src.get("start")
     nnote = 0
     carry = None    # a paragraph broken by the page turn
+    last_num = 0    # the last numbered division heading set (SERMON IV -> 4)
     carry_leaf = None
     tp = src.get("titlepage") or {}
     if tp and tp["leaf"] < a:
@@ -355,6 +398,10 @@ def convert(path, slug, e):
                     # "UNCONVERTED READER") is one heading
                     prev[-1]["md"] += " " + md
                 else:
+                    if not sub:
+                        md2, num = numbered_heading(md, last_num)
+                        if num is not None:
+                            md, last_num = md2, num
                     d.heading(md, level=2 if sub else 1)
                 if first_body:
                     d.add("pb", anchor, n=pn or "", leaf=page["i"]); first_body = False

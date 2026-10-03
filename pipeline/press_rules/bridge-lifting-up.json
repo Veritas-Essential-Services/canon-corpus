@@ -290,7 +290,7 @@
   {
    "leaf": 223,
    "from": "Ijing",
-   "to": "Lying",
+   "to": "lying",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },

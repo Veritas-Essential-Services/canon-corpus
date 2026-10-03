@@ -1,4 +1,18 @@
 {
+ "corrections": [
+  {
+   "find": "THE TENDEE HEART",
+   "replace": "THE TENDER HEART",
+   "why": "OCR",
+   "evidence": "archive.org completeworksofr06sibbuoft, sermon headings on leaves 44 and 89; read against the page image (OCR: R read as E and K)"
+  },
+  {
+   "find": "SEKMON I",
+   "replace": "SERMON I",
+   "why": "OCR",
+   "evidence": "archive.org completeworksofr06sibbuoft, sermon headings on leaves 44 and 89; read against the page image (OCR: R read as E and K)"
+  }
+ ],
  "ocr_fixes": [
   {
    "leaf": 45,
@@ -45,7 +59,7 @@
   {
    "leaf": 58,
    "from": "Jieardest",
-   "to": "Heardest",
+   "to": "heardest",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -237,20 +251,6 @@
    "to": "commonwealth",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
-  }
- ],
- "corrections": [
-  {
-   "find": "THE TENDEE HEART",
-   "replace": "THE TENDER HEART",
-   "why": "OCR",
-   "evidence": "archive.org completeworksofr06sibbuoft, sermon headings on leaves 44 and 89; read against the page image (OCR: R read as E and K)"
-  },
-  {
-   "find": "SEKMON I",
-   "replace": "SERMON I",
-   "why": "OCR",
-   "evidence": "archive.org completeworksofr06sibbuoft, sermon headings on leaves 44 and 89; read against the page image (OCR: R read as E and K)"
   }
  ]
 }

@@ -1,4 +1,48 @@
 {
+ "corrections": [
+  {
+   "find": "PEECIOUS",
+   "replace": "PRECIOUS",
+   "why": "OCR: R read as E",
+   "evidence": "title page, archive.org completeworksoft01broouoft leaf 89 (facsimile of the 1676 eighth edition); read against the page image and Tesseract"
+  },
+  {
+   "find": "AQAIMST",
+   "replace": "AGAINST",
+   "why": "OCR",
+   "evidence": "title page, archive.org completeworksoft01broouoft leaf 89 (facsimile of the 1676 eighth edition); read against the page image and Tesseract"
+  },
+  {
+   "find": "f Believers \") and \\\\ SORES. Unbelievers j",
+   "replace": "SALVE for Believers and Unbelievers SORES.",
+   "why": "OCR lost the bracketed layout: the page sets 'Believers' over 'Unbelievers' between braces, between 'SALVE for' and 'SORES.'",
+   "evidence": "title page, archive.org completeworksoft01broouoft leaf 89 (facsimile of the 1676 eighth edition); read against the page image and Tesseract"
+  },
+  {
+   "find": "*Thomat Brooks,*",
+   "replace": "*Thomas Brooks,*",
+   "why": "OCR",
+   "evidence": "title page, archive.org completeworksoft01broouoft leaf 89 (facsimile of the 1676 eighth edition); read against the page image and Tesseract"
+  },
+  {
+   "find": "Faith of bis People",
+   "replace": "Faith of his People",
+   "why": "OCR",
+   "evidence": "title page, archive.org completeworksoft01broouoft leaf 89 (facsimile of the 1676 eighth edition); read against the page image and Tesseract"
+  },
+  {
+   "find": "*St. MargaretsFishstreet-hill.*",
+   "replace": "*St. Margarets Fishstreet-hill.*",
+   "why": "OCR ran two words together",
+   "evidence": "title page, archive.org completeworksoft01broouoft leaf 89 (facsimile of the 1676 eighth edition); read against the page image and Tesseract"
+  },
+  {
+   "find": "*PtU on the whole",
+   "replace": "*Put on the whole",
+   "why": "OCR",
+   "evidence": "title page, archive.org completeworksoft01broouoft leaf 89 (facsimile of the 1676 eighth edition); read against the page image and Tesseract"
+  }
+ ],
  "ocr_fixes": [
   {
    "leaf": 92,
@@ -57,27 +101,6 @@
    "by": "press_proof"
   },
   {
-   "leaf": 96,
-   "from": "liilosopbical",
-   "to": "philosophical",
-   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
-   "by": "press_proof"
-  },
-  {
-   "leaf": 96,
-   "from": "tbroughoot",
-   "to": "throughout",
-   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
-   "by": "press_proof"
-  },
-  {
-   "leaf": 96,
-   "from": "L PMCrOUS",
-   "to": "PRECIOUS",
-   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
-   "by": "press_proof"
-  },
-  {
    "leaf": 98,
    "from": "devi ies",
    "to": "devices",
@@ -115,7 +138,7 @@
   {
    "leaf": 100,
    "from": "Jiate",
-   "to": "Hate",
+   "to": "hate",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -192,7 +215,7 @@
   {
    "leaf": 104,
    "from": "Tiames",
-   "to": "Names",
+   "to": "names",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -472,7 +495,7 @@
   {
    "leaf": 119,
    "from": "Avays",
-   "to": "Ways",
+   "to": "ways",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -603,13 +626,6 @@
    "by": "press_proof"
   },
   {
-   "leaf": 125,
-   "from": "andone",
-   "to": "undone",
-   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
-   "by": "press_proof"
-  },
-  {
    "leaf": 127,
    "from": "bave",
    "to": "have",
@@ -668,7 +684,7 @@
   {
    "leaf": 128,
    "from": "Tence",
-   "to": "Fence",
+   "to": "fence",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -869,21 +885,21 @@
    "by": "press_proof"
   },
   {
-   "leaf": 137,
+   "leaf": 138,
    "from": "affl iction8",
    "to": "afflictions",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
   {
-   "leaf": 137,
+   "leaf": 138,
    "from": "recich",
    "to": "reach",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
   {
-   "leaf": 137,
+   "leaf": 138,
    "from": "shoH",
    "to": "short",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
@@ -1109,7 +1125,7 @@
   {
    "leaf": 149,
    "from": "Jiave",
-   "to": "Have",
+   "to": "have",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -1268,7 +1284,7 @@
    "by": "press_proof"
   },
   {
-   "leaf": 159,
+   "leaf": 160,
    "from": "ajfictions",
    "to": "afflictions",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
@@ -1291,7 +1307,7 @@
   {
    "leaf": 161,
    "from": "Tuiore",
-   "to": "More",
+   "to": "more",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -1305,7 +1321,7 @@
   {
    "leaf": 162,
    "from": "Jiard",
-   "to": "Hard",
+   "to": "hard",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -1368,14 +1384,14 @@
   {
    "leaf": 166,
    "from": "Iiath",
-   "to": "Hath",
+   "to": "hath",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
   {
    "leaf": 166,
    "from": "Itath",
-   "to": "Hath",
+   "to": "hath",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -1417,7 +1433,7 @@
   {
    "leaf": 166,
    "from": "Jiereafter",
-   "to": "Hereafter",
+   "to": "hereafter",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -1625,42 +1641,42 @@
    "by": "press_proof"
   },
   {
-   "leaf": 173,
+   "leaf": 174,
    "from": "Bemedy",
    "to": "Remedy",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
   {
-   "leaf": 173,
+   "leaf": 174,
    "from": "notvjitlcstanding",
    "to": "notwithstanding",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
   {
-   "leaf": 173,
+   "leaf": 174,
    "from": "wlten",
    "to": "when",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
   {
-   "leaf": 173,
+   "leaf": 174,
    "from": "clierished",
    "to": "cherished",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
   {
-   "leaf": 173,
+   "leaf": 174,
    "from": "abhoiTed",
    "to": "abhorred",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
   {
-   "leaf": 173,
+   "leaf": 174,
    "from": "ti'vubles",
    "to": "troubles",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
@@ -1683,7 +1699,7 @@
   {
    "leaf": 175,
    "from": "Iieavenly",
-   "to": "Heavenly",
+   "to": "heavenly",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -1730,42 +1746,42 @@
    "by": "press_proof"
   },
   {
-   "leaf": 177,
+   "leaf": 178,
    "from": "haih",
    "to": "hath",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
   {
-   "leaf": 177,
+   "leaf": 178,
    "from": "jporing",
    "to": "poring",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
   {
-   "leaf": 177,
+   "leaf": 178,
    "from": "tfieir",
    "to": "their",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
   {
-   "leaf": 177,
+   "leaf": 178,
    "from": "Tieglect",
-   "to": "Neglect",
+   "to": "neglect",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
   {
-   "leaf": 177,
+   "leaf": 178,
    "from": "jyresence",
    "to": "presence",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
   {
-   "leaf": 177,
+   "leaf": 178,
    "from": "damnatoi",
    "to": "damnatory",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
@@ -2278,7 +2294,7 @@
   {
    "leaf": 198,
    "from": "Iiath",
-   "to": "Hath",
+   "to": "hath",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -2579,14 +2595,14 @@
   {
    "leaf": 210,
    "from": "Jtath",
-   "to": "Hath",
+   "to": "hath",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
   {
    "leaf": 210,
    "from": "Tnake",
-   "to": "Make",
+   "to": "make",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -2859,7 +2875,7 @@
   {
    "leaf": 224,
    "from": "Iteart",
-   "to": "Heart",
+   "to": "heart",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -3384,7 +3400,7 @@
   {
    "leaf": 247,
    "from": "Jceep",
-   "to": "Keep",
+   "to": "keep",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -3412,7 +3428,7 @@
   {
    "leaf": 248,
    "from": "Avickedness",
-   "to": "Wickedness",
+   "to": "wickedness",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -3471,57 +3487,6 @@
    "to": "affections",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
-  },
-  {
-   "leaf": 198,
-   "from": "jyrom ise",
-   "to": "promise",
-   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
-   "by": "press_proof"
-  }
- ],
- "corrections": [
-  {
-   "find": "PEECIOUS",
-   "replace": "PRECIOUS",
-   "why": "OCR: R read as E",
-   "evidence": "title page, archive.org completeworksoft01broouoft leaf 89 (facsimile of the 1676 eighth edition); read against the page image and Tesseract"
-  },
-  {
-   "find": "AQAIMST",
-   "replace": "AGAINST",
-   "why": "OCR",
-   "evidence": "title page, archive.org completeworksoft01broouoft leaf 89 (facsimile of the 1676 eighth edition); read against the page image and Tesseract"
-  },
-  {
-   "find": "f Believers \") and \\\\ SORES. Unbelievers j",
-   "replace": "SALVE for Believers and Unbelievers SORES.",
-   "why": "OCR lost the bracketed layout: the page sets 'Believers' over 'Unbelievers' between braces, between 'SALVE for' and 'SORES.'",
-   "evidence": "title page, archive.org completeworksoft01broouoft leaf 89 (facsimile of the 1676 eighth edition); read against the page image and Tesseract"
-  },
-  {
-   "find": "*Thomat Brooks,*",
-   "replace": "*Thomas Brooks,*",
-   "why": "OCR",
-   "evidence": "title page, archive.org completeworksoft01broouoft leaf 89 (facsimile of the 1676 eighth edition); read against the page image and Tesseract"
-  },
-  {
-   "find": "Faith of bis People",
-   "replace": "Faith of his People",
-   "why": "OCR",
-   "evidence": "title page, archive.org completeworksoft01broouoft leaf 89 (facsimile of the 1676 eighth edition); read against the page image and Tesseract"
-  },
-  {
-   "find": "*St. MargaretsFishstreet-hill.*",
-   "replace": "*St. Margarets Fishstreet-hill.*",
-   "why": "OCR ran two words together",
-   "evidence": "title page, archive.org completeworksoft01broouoft leaf 89 (facsimile of the 1676 eighth edition); read against the page image and Tesseract"
-  },
-  {
-   "find": "*PtU on the whole",
-   "replace": "*Put on the whole",
-   "why": "OCR",
-   "evidence": "title page, archive.org completeworksoft01broouoft leaf 89 (facsimile of the 1676 eighth edition); read against the page image and Tesseract"
   }
  ]
 }

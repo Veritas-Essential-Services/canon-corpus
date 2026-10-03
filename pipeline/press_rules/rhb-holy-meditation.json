@@ -1,0 +1,10 @@
+{
+ "corrections": [
+  {
+   "find": "SERMOiNS UPON GENESIS",
+   "replace": "SERMONS UPON GENESIS",
+   "why": "OCR",
+   "evidence": "archive.org completeworksoft17mant leaf 275, the series title; every running head after it reads SERMONS"
+  }
+ ]
+}

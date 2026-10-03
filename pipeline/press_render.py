@@ -101,6 +101,21 @@ def render(doc, meta):
             h = b["md"].strip()
             if not re.search(r"\b(?:St|Mr|Mrs|Dr|Mt|ver|viz|ch|chap|p|pp|ib|ibid|Ibid|cf|Cf|&c)\.$", h):
                 h = re.sub(r"\.\s*$", "", h)
+            # a page anchor caught inside a heading goes before it: an EPUB's
+            # contents list may not hold an empty span
+            pbs = re.findall(r"\[\]\{#[^}]*\.pb[^}]*\}", h)
+            if pbs:
+                h = re.sub(r"\[\]\{#[^}]*\.pb[^}]*\}\s*", "", h).strip()
+                L.append("".join(pbs) + "\n")
+            if not plain(h).strip():
+                # a heading with no words (an untitled division) is no heading:
+                # its anchor stays so links into it still land
+                if b.get("anchor"):
+                    aid = anchor_id(slug, b["anchor"])
+                    L.append(f"[]{{#{aid}}}\n")
+                    # the index names it after the section it stands in
+                    seen_sections.setdefault(aid, next(reversed(seen_sections.values()), "") or meta["title"])
+                continue
             b = dict(b, md=h)
             if b.get("anchor") and not b.get("sub"):
                 aid = anchor_id(slug, b["anchor"])

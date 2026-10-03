@@ -2,9 +2,9 @@
 
 `sibbes-bruised-reed` is set from the OCR of archive.org `completeworksofr01sibbuoft` (leaves 176-244). Proofed by a second engine: every page re-read with Tesseract and collated word by word (2026-10-03).
 
-- Words: 43,002; the two engines agree on 40,691 (94.6%)
-- OCR errors fixed where only one engine's reading is a word: **80** (`pipeline/press_rules/sibbes-bruised-reed.json`, `ocr_fixes`)
-- ABBYY upheld against a Tesseract misread: 919
+- Words: 42,988; the two engines agree on 40,602 (94.5%)
+- OCR errors fixed where only one engine's reading is a word: **77** (`pipeline/press_rules/sibbes-bruised-reed.json`, `ocr_fixes`)
+- ABBYY upheld against a Tesseract misread: 920
 - For a person to look at: **503**
 
 | # | ABBYY | Tesseract | Leaf |
@@ -59,143 +59,143 @@
 | 48 | hav | hay G | 183 |
 | 49 | h | t | 183 |
 | 50 | what | at | 184 |
-| 51 | Text | Teat | 184 |
-| 52 | THE | bt Tue | 184 |
-| 53 | froirj | fr | 184 |
-| 54 | presen | pre | 184 |
-| 55 | whon | wh | 184 |
-| 56 | safest t i | safes | 184 |
-| 57 | of Go | A | 184 |
-| 58 | hat | hi | 184 |
-| 59 | onli | o | 184 |
-| 60 | in a | i | 184 |
-| 61 | recoi citing | ciling | 184 |
-| 62 | love | a | 184 |
-| 63 | we | Re | 184 |
-| 64 | Father | her | 184 |
-| 65 | II | Il | 184 |
-| 66 | without | font | 184 |
-| 67 | what | at | 184 |
-| 68 | c | e | 184 |
-| 69 | will | I | 184 |
-| 70 | them | Ty | 184 |
-| 71 | until judg merit | wntil judgnent | 184 |
-| 72 | their | i a | 184 |
-| 73 | 1 | on | 184 |
-| 74 | that they | hes | 184 |
-| 75 | not | i | 184 |
-| 76 | I amongst | mongst | 184 |
-| 77 | God's | i is | 184 |
-| 78 | f we will | ill | 184 |
-| 79 | They | my | 184 |
-| 80 | dififerent | difre | 184 |
-| 81 | per | pa | 184 |
-| 82 | parts | s | 184 |
-| 83 | foi I the time | fot ue ume | 184 |
-| 84 | them | the em | 184 |
-| 85 | ias those | a ve e | 184 |
-| 86 | see sin | n | 184 |
-| 87 | bruising | si g | 184 |
-| 88 | to have | ode | 184 |
-| 89 | ising | ag | 184 |
-| 90 | j | q | 187 |
-| 91 | forj | i | 187 |
-| 92 | reasonl | ree | 187 |
-| 93 | by | I | 187 |
-| 94 | not 1 | x | 187 |
-| 95 | xxxiij | xm | 187 |
-| 96 | oj | 0 | 187 |
-| 97 | hij | J b | 187 |
-| 98 | neede | ne | 187 |
-| 99 | om | F’ I | 187 |
-| 100 | liii | lili | 187 |
-| 101 | much | valid | 187 |
-| 102 | Prc' | ff | 187 |
-| 103 | un tractable | unractable | 188 |
-| 104 | III | IIl | 188 |
-| 105 | ivill | will | 188 |
-| 106 | Phy sicians | Phygsicians | 188 |
-| 107 | i | the | 188 |
-| 108 | his | is | 188 |
-| 109 | i Isa | Tsa | 188 |
-| 110 | sheep | p | 188 |
-| 111 | of prayer | ayer | 188 |
-| 112 | i admit | it | 188 |
-| 113 | i him | Aim | 188 |
-| 114 | especially | specially | 188 |
-| 115 | same | e | 188 |
-| 116 | eed him | i | 188 |
-| 117 | tliat | i | 188 |
-| 118 | dis | lis | 189 |
-| 119 | and | ai | 189 |
-| 120 | Ixi | lxi | 189 |
-| 121 | run into j | ran i | 189 |
-| 122 | to | od | 189 |
-| 123 | upon j | u | 189 |
-| 124 | sins | gins | 190 |
-| 125 | sym pathy | symhy | 190 |
-| 126 | Eom x | Rom | 190 |
-| 127 | then | hen | 190 |
-| 128 | chas tisements | chasfisements | 190 |
-| 129 | can | an | 190 |
-| 130 | accom pany | accomany | 190 |
-| 131 | gerous | g | 190 |
-| 132 | prejtence | pre tence | 190 |
-| 133 | braised | bruised | 190 |
-| 134 | Iviii | lviii | 190 |
-| 135 | I confess | Fame | 190 |
-| 136 | I this | bis | 190 |
-| 137 | And | Ai | 191 |
-| 138 | Am | Ans | 191 |
-| 139 | works | we a | 191 |
-| 140 | felt in | nD | 191 |
-| 141 | between | betel | 191 |
-| 142 | c | e | 191 |
-| 143 | con | com | 191 |
-| 144 | sudden | sud de | 191 |
-| 145 | thatj | thal | 191 |
-| 146 | Ixvi | lxvi | 191 |
-| 147 | He | Hes | 191 |
-| 148 | seeks | a | 191 |
-| 149 | the | le | 191 |
-| 150 | 15 | Le | 191 |
-| 151 | hi | in | 192 |
-| 152 | the | tine | 192 |
-| 153 | first | fitst | 192 |
-| 154 | shall | hall | 192 |
-| 155 | ft | It | 192 |
-| 156 | OL | VOL | 192 |
-| 157 | much | site | 193 |
-| 158 | of | a | 193 |
-| 159 | CHAPTER YI Grace | CuapteR VI G race | 193 |
-| 160 | the | h | 193 |
-| 161 | WThen | 4 When | 193 |
-| 162 | I | T | 193 |
-| 163 | 0 | O | 193 |
-| 164 | golden candlesticks Rev ii iii most of them had much smoke with their'light | g0 dq | 193 |
-| 165 | and | ai | 193 |
-| 166 | CHAPTEB | 4 he 8 As the least dram of grace ts in A and B Perform in A and B a a 9 aay ee td F 4 uF me Pi a ye AND SMOKING FLAX 51 a Cuaprer | 194 |
-| 167 | ivill | will | 194 |
-| 168 | xx | Xxx | 194 |
-| 169 | in | b n | 194 |
-| 170 | i | if | 194 |
-| 171 | In | Th | 194 |
-| 172 | xxvi | vi | 194 |
-| 173 | therefore to thee shall all flesh come Ps Ixv 2 He useth moderation and care lest the spirit should fail before him and the souls which he hath made | mac iio | 194 |
-| 174 | Ivii | lvii | 194 |
-| 175 | yearned | p | 194 |
-| 176 | the | e | 194 |
-| 177 | the | me | 194 |
-| 178 | 0 | O | 194 |
-| 179 | that | hat | 194 |
-| 180 | but | out | 194 |
-| 181 | them | fe | 194 |
-| 182 | was | d | 194 |
-| 183 | good | et | 194 |
-| 184 | now | new | 194 |
-| 185 | 0 | O | 195 |
-| 186 | carry | ce | 195 |
-| 187 | offence | offen | 195 |
+| 51 | Text | Teat | 185 |
+| 52 | THE | bt Tue | 185 |
+| 53 | froirj | fr | 185 |
+| 54 | presen | pre | 185 |
+| 55 | whon | wh | 185 |
+| 56 | safest t i | safes | 185 |
+| 57 | of Go | A | 185 |
+| 58 | hat | hi | 185 |
+| 59 | onli | o | 185 |
+| 60 | in a | i | 185 |
+| 61 | recoi citing | ciling | 185 |
+| 62 | love | a | 185 |
+| 63 | Father | her | 186 |
+| 64 | II | Il | 186 |
+| 65 | without | font | 186 |
+| 66 | what | at | 186 |
+| 67 | c | e | 186 |
+| 68 | will | I | 186 |
+| 69 | them | Ty | 186 |
+| 70 | until judg merit | wntil judgnent | 186 |
+| 71 | their | i a | 186 |
+| 72 | 1 | on | 186 |
+| 73 | that they | hes | 186 |
+| 74 | not | i | 186 |
+| 75 | I amongst | mongst | 186 |
+| 76 | God's | i is | 186 |
+| 77 | f we will | ill | 186 |
+| 78 | They | my | 186 |
+| 79 | dififerent | difre | 186 |
+| 80 | per | pa | 186 |
+| 81 | parts | s | 186 |
+| 82 | foi I the time | fot ue ume | 186 |
+| 83 | them | the em | 186 |
+| 84 | ias those | a ve e | 186 |
+| 85 | see sin | n | 186 |
+| 86 | bruising | si g | 186 |
+| 87 | to have | ode | 186 |
+| 88 | ising | ag | 186 |
+| 89 | j | q | 187 |
+| 90 | forj | i | 187 |
+| 91 | reasonl | ree | 187 |
+| 92 | by | I | 187 |
+| 93 | not 1 | x | 187 |
+| 94 | xxxiij | xm | 187 |
+| 95 | oj | 0 | 187 |
+| 96 | hij | J b | 187 |
+| 97 | neede | ne | 187 |
+| 98 | om | F’ I | 187 |
+| 99 | liii | lili | 187 |
+| 100 | much | valid | 187 |
+| 101 | Prc' | ff | 187 |
+| 102 | un tractable | unractable | 188 |
+| 103 | III | IIl | 188 |
+| 104 | ivill | will | 188 |
+| 105 | Phy sicians | Phygsicians | 188 |
+| 106 | i | the | 188 |
+| 107 | his | is | 188 |
+| 108 | i Isa | Tsa | 188 |
+| 109 | sheep | p | 188 |
+| 110 | of prayer | ayer | 188 |
+| 111 | i admit | it | 188 |
+| 112 | i him | Aim | 188 |
+| 113 | especially | specially | 188 |
+| 114 | same | e | 188 |
+| 115 | eed him | i | 188 |
+| 116 | tliat | i | 188 |
+| 117 | dis | lis | 189 |
+| 118 | and | ai | 189 |
+| 119 | Ixi | lxi | 189 |
+| 120 | run into j | ran i | 189 |
+| 121 | to | od | 189 |
+| 122 | upon j | u | 189 |
+| 123 | sins | gins | 190 |
+| 124 | sym pathy | symhy | 190 |
+| 125 | Eom x | Rom | 190 |
+| 126 | then | hen | 190 |
+| 127 | chas tisements | chasfisements | 190 |
+| 128 | can | an | 190 |
+| 129 | accom pany | accomany | 190 |
+| 130 | gerous | g | 190 |
+| 131 | prejtence | pre tence | 190 |
+| 132 | braised | bruised | 190 |
+| 133 | Iviii | lviii | 190 |
+| 134 | I confess | Fame | 190 |
+| 135 | I this | bis | 190 |
+| 136 | And | Ai | 191 |
+| 137 | Am | Ans | 191 |
+| 138 | works | we a | 191 |
+| 139 | felt in | nD | 191 |
+| 140 | between | betel | 191 |
+| 141 | c | e | 191 |
+| 142 | con | com | 191 |
+| 143 | sudden | sud de | 191 |
+| 144 | thatj | thal | 191 |
+| 145 | Ixvi | lxvi | 191 |
+| 146 | He | Hes | 191 |
+| 147 | seeks | a | 191 |
+| 148 | the | le | 191 |
+| 149 | 15 | Le | 191 |
+| 150 | hi | in | 192 |
+| 151 | the | tine | 192 |
+| 152 | first | fitst | 192 |
+| 153 | shall | hall | 192 |
+| 154 | ft | It | 192 |
+| 155 | OL | VOL | 192 |
+| 156 | much | site | 193 |
+| 157 | of | a | 193 |
+| 158 | CHAPTER YI Grace | CuapteR VI G race | 193 |
+| 159 | the | h | 193 |
+| 160 | WThen | 4 When | 193 |
+| 161 | I | T | 193 |
+| 162 | 0 | O | 193 |
+| 163 | golden candlesticks Rev ii iii most of them had much smoke with their'light | g0 dq | 193 |
+| 164 | and | ai | 193 |
+| 165 | CHAPTEB | 4 he 8 As the least dram of grace ts in A and B Perform in A and B a a 9 aay ee td F 4 uF me Pi a ye AND SMOKING FLAX 51 a Cuaprer | 194 |
+| 166 | ivill | will | 194 |
+| 167 | xx | Xxx | 194 |
+| 168 | in | b n | 194 |
+| 169 | i | if | 194 |
+| 170 | In | Th | 194 |
+| 171 | xxvi | vi | 194 |
+| 172 | therefore to thee shall all flesh come Ps Ixv 2 He useth moderation and care lest the spirit should fail before him and the souls which he hath made | mac iio | 194 |
+| 173 | Ivii | lvii | 194 |
+| 174 | yearned | p | 194 |
+| 175 | the | e | 194 |
+| 176 | the | me | 194 |
+| 177 | 0 | O | 194 |
+| 178 | that | hat | 194 |
+| 179 | but | out | 194 |
+| 180 | them | fe | 194 |
+| 181 | was | d | 194 |
+| 182 | good | et | 194 |
+| 183 | now | new | 194 |
+| 184 | 0 | O | 195 |
+| 185 | carry | ce | 195 |
+| 186 | offence | offen | 195 |
+| 187 | Neitherf | if Neither | 195 |
 | 188 | wilralness meet | wilfulness me ot | 195 |
 | 189 | grace | graces | 195 |
 | 190 | none | non y | 195 |

@@ -45,7 +45,11 @@
     "id": 42557,
     "edition": "Letters of Samuel Rutherford, ed. Andrew A. Bonar (3rd ed., 1891; Project Gutenberg 42557)"
    },
-   "note": "Banner's volume is a 1973 SELECTION with a modern foreword (both in copyright). The Press sets Bonar's complete edition (PD), never the selection. CCEL's 'A Selection from his Letters' looks like that modern selection and is not used."
+   "note": "Banner's volume is a 1973 SELECTION with a modern foreword (both in copyright). The Press sets Bonar's complete edition (PD), never the selection. CCEL's 'A Selection from his Letters' looks like that modern selection and is not used.",
+   "scan": {
+    "ia": "lettersofsamuelr00ruth",
+    "note": "Bonar's edition, 1891 printing"
+   }
   },
   "rutherford-loveliness": {
    "author": "Samuel Rutherford",
@@ -299,6 +303,10 @@
     "id": 6046,
     "edition": "The Works of John Bunyan, ed. George Offor (Glasgow: Blackie, 1854), vol. 1 (Project Gutenberg 6046)",
     "extract": "I WILL PRAY WITH THE SPIRIT"
+   },
+   "scan": {
+    "ia": "worksofjohnbunya01buny",
+    "note": "Offor's Works, Blackie's 1855 printing of vol. 1 (the same stereotype edition as 1854)"
    }
   },
   "perkins-art-of-prophesying": {
@@ -402,10 +410,6 @@
      "edition": "The Works of John Owen, ed. William H. Goold (Edinburgh: Johnstone & Hunter, 1850-53), vol. 1, CCEL transcription",
      "why": "Not Goold's text. CCEL keyed it from Banner of Truth's 1965 printing, and collation against the 1850 Goold scan (press_proof, 2026-10-03) shows the wording modernised throughout: 'has' for Goold's 'hath', 'does' for 'doth', 'would' for 'should', 'excellence' for 'excellency' (591 disagreements, against 0-68 confirmed errors in the other eight Owen titles from the same source). A modernised text is an editor's work, not Owen's."
     }
-   },
-   "scan": {
-    "shelf": "owen",
-    "volume": "owen-works-goold-01"
    },
    "note": "Banner's is an abridgement (copyright); the Press sets Owen's full PD text."
   },
@@ -533,6 +537,10 @@
     "kind": "gutenberg",
     "id": 3270,
     "edition": "Project Gutenberg 3270 (from Offor's edition)"
+   },
+   "scan": {
+    "ia": "worksofjohnbunya01buny",
+    "note": "Offor's Works, Blackie's 1855 printing of vol. 1 (the same stereotype edition as 1854)"
    }
   },
   "bunyan-come-and-welcome": {
@@ -548,6 +556,10 @@
     "id": 6046,
     "edition": "The Works of John Bunyan, ed. George Offor (Glasgow: Blackie, 1854), vol. 1 (Project Gutenberg 6046)",
     "extract": "COME AND WELCOME TO JESUS CHRIST"
+   },
+   "scan": {
+    "ia": "worksofjohnbunya01buny",
+    "note": "Offor's Works, Blackie's 1855 printing of vol. 1 (the same stereotype edition as 1854)"
    }
   },
   "bunyan-fear-of-god": {
@@ -563,6 +575,10 @@
     "id": 6046,
     "edition": "The Works of John Bunyan, ed. George Offor (Glasgow: Blackie, 1854), vol. 1 (Project Gutenberg 6046)",
     "extract": "A TREATISE OF THE FEAR OF GOD"
+   },
+   "scan": {
+    "ia": "worksofjohnbunya01buny",
+    "note": "Offor's Works, Blackie's 1855 printing of vol. 1 (the same stereotype edition as 1854)"
    }
   },
   "bunyan-acceptable-sacrifice": {
@@ -578,6 +594,10 @@
     "id": 6046,
     "edition": "The Works of John Bunyan, ed. George Offor (Glasgow: Blackie, 1854), vol. 1 (Project Gutenberg 6046)",
     "extract": "THE ACCEPTABLE SACRIFICE"
+   },
+   "scan": {
+    "ia": "worksofjohnbunya01buny",
+    "note": "Offor's Works, Blackie's 1855 printing of vol. 1 (the same stereotype edition as 1854)"
    }
   },
   "bunyan-all-loves-excelling": {
@@ -593,6 +613,10 @@
     "id": 6047,
     "edition": "The Works of John Bunyan, ed. George Offor (Glasgow: Blackie, 1854), vol. 2 (Project Gutenberg 6047)",
     "extract": "THE SAINTS' KNOWLEDGE OF CHRIST'S LOVE"
+   },
+   "scan": {
+    "ia": "worksofjohnbunya02buny",
+    "note": "Offor's Works, Blackie's 1855 printing of vol. 2"
    }
   },
   "binning-christian-love": {
@@ -609,6 +633,10 @@
     "edition": "The Works of the Rev. Hugh Binning (Project Gutenberg 24238)",
     "extract": "A TREATISE OF CHRISTIAN LOVE",
     "extract_end": "SEVERAL SERMONS UPON THE MOST IMPORTANT"
+   },
+   "scan": {
+    "ia": "worksofrevhughbi00binn",
+    "note": "The Works of the Rev. Hugh Binning (Edinburgh: Fullarton, 1851); which printing Project Gutenberg keyed is not stated, so the collation also tests that"
    }
   },
   "sibbes-glorious-freedom": {
@@ -1417,10 +1445,19 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "Main sermon is Clarkson's \"Public Worship to be Preferred before Private\" (Ps. 87:2), probably from his posthumous Sermons and Discourses (1696), which EEBO-TCP has not keyed. The other two sermons are unidentified."
+    "kind": "ia-extract",
+    "shelf": "clarkson",
+    "volume": "clarkson-works-3",
+    "edition": "The Practical Works of David Clarkson (Edinburgh: James Nichol, 1864), vol. 3, the sermon on Ps. 87:2 (first printed in Clarkson's posthumous Sermons and Discourses, 1696)",
+    "leaves": [
+     197,
+     219
+    ],
+    "identified": "RHB's Prizing Public Worship is three Clarkson sermons; its main one is this sermon on Ps. 87:2 (identified from a published review of RHB's edition, not RHB's own copyright page). A sermon titled 'Hearing the Word' is in Nichol vol. 1 (leaves 460-478) and is probably another of the three; it is not set here until RHB's contents confirm it."
    },
-   "rhb_isbn": "9798886860603"
+   "rhb_isbn": "9798886860603",
+   "title": "Public Worship to be Preferred before Private",
+   "first_published": "1696"
   },
   "rhb-a-perfect-redeemer": {
    "author": "William Perkins",
@@ -1477,10 +1514,19 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "Unconfirmed: probably Manton's sermons on Gen. 24:63. RHB names no source."
+    "kind": "ia-extract",
+    "shelf": "manton",
+    "volume": "manton-works-17",
+    "edition": "The Complete Works of Thomas Manton (London: James Nisbet, 1870-75), vol. 17, Sermons upon Genesis xxiv. 63",
+    "leaves": [
+     275,
+     360
+    ],
+    "identified": "INFERRED: RHB names no source. Manton's sermons on Gen. 24:63 ('Isaac went out to meditate in the field') are his treatment of meditation and the likeliest original; confirm from RHB's copyright page before publishing."
    },
-   "rhb_isbn": "9798886862294"
+   "rhb_isbn": "9798886862294",
+   "title": "Sermons upon Genesis XXIV. 63: Of Meditation",
+   "first_published": "1684"
   },
   "rhb-special-providence-for-anxious": {
    "author": "Obadiah Sedgwick",
@@ -1489,8 +1535,8 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "Unconfirmed: Sedgwick on Matt. 10:29-31; no 17th-century printing found."
+    "kind": "excluded",
+    "why": "No public-domain printing appears to exist. Sedgwick's sermons on Matt. 10:29-31 are, as far as can be found, the ones RHB first printed in 2007 as Providence Handled Practically, from a manuscript; that transcription is RHB's and in copyright, and no 17th-century printing is in EEBO-TCP or on archive.org (searched 2026-10-03). If a manuscript facsimile is ever published, the Press could set from it. Inferred, not confirmed from RHB's copyright page."
    },
    "rhb_isbn": "9798886860092"
   },
@@ -1530,10 +1576,19 @@
     "rhb-puritan-treasures"
    ],
    "source": {
-    "kind": "research",
-    "why": "Unconfirmed: Manton's sermons on Titus 2:11-14; first printing not found."
+    "kind": "ia-extract",
+    "shelf": "manton",
+    "volume": "manton-works-16",
+    "edition": "The Complete Works of Thomas Manton (London: James Nisbet, 1870-75), vol. 16, Several Sermons upon Titus ii. 11-14 (22 sermons)",
+    "leaves": [
+     49,
+     304
+    ],
+    "identified": "INFERRED: RHB's product page cites Titus 2:11-14 and 2:13 but names no source; these are Manton's sermons on that text. Confirm from RHB's copyright page before publishing (RHB's book may be a selection)."
    },
-   "rhb_isbn": "9798886862492"
+   "rhb_isbn": "9798886862492",
+   "title": "Several Sermons upon Titus II. 11-14",
+   "first_published": "1685"
   }
  }
 }

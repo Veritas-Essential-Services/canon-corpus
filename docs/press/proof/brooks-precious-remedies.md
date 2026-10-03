@@ -2,10 +2,10 @@
 
 `brooks-precious-remedies` is set from the OCR of archive.org `completeworksoft01broouoft` (leaves 89-253). Proofed by a second engine: every page re-read with Tesseract and collated word by word (2026-10-03).
 
-- Words: 88,897; the two engines agree on 87,215 (98.1%)
-- OCR errors fixed where only one engine's reading is a word: **497** (`pipeline/press_rules/brooks-precious-remedies.json`, `ocr_fixes`)
+- Words: 88,927; the two engines agree on 86,706 (97.5%)
+- OCR errors fixed where only one engine's reading is a word: **492** (`pipeline/press_rules/brooks-precious-remedies.json`, `ocr_fixes`)
 - ABBYY upheld against a Tesseract misread: 533
-- For a person to look at: **636**
+- For a person to look at: **637**
 
 | # | ABBYY | Tesseract | Leaf |
 |---:|---|---|---|
@@ -410,4 +410,4 @@
 | 399 | c | e | 195 |
 | 400 | this | titis | 195 |
 
-…and 236 more in data/press/brooks-precious-remedies/proof.json.
+…and 237 more in data/press/brooks-precious-remedies/proof.json.

@@ -607,10 +607,55 @@ def proof_ocr(slug):
     press_build.atomic_write(os.path.join(ROOT, "docs", "press", "proof", f"{slug}.md"), "\n".join(L) + "\n")
     return res
 
+# ===================================================================== TCP books
+# A hand-keyed EEBO-TCP text has no scan on archive.org to collate against: the
+# page images belong to ProQuest's EEBO. What a person must still do is supply
+# what the keyers could not read. The sheet lists every such place with the
+# page (printed number and EEBO image) and the words around it.
+RE_GAP = re.compile(r"\[((?:⟨[^⟩]*⟩\s?)+)\]\{\.gap\}")
+RE_TCP_PB = re.compile(r'\[\]\{#[^}]*\.pb n="([^"]*)" img="([^"]*)"\}')
+
+def proof_tcp(slug):
+    cat = json.load(open(press_build.CATALOG, encoding="utf-8"))
+    e = cat["titles"][slug]
+    doc = press_build.convert(slug, e, press_build.source_file(slug, e))
+    rows, page, img = [], "", ""
+    texts = [(b.get("md") or "") for b in doc["blocks"]] + list(doc.get("notes", {}).values())
+    for md in texts:
+        pos = 0
+        events = sorted([(m.start(), "pb", m) for m in RE_TCP_PB.finditer(md)] +
+                        [(m.start(), "gap", m) for m in RE_GAP.finditer(md)], key=lambda x: x[0])
+        for at, kind, m in events:
+            if kind == "pb":
+                page, img = m.group(1), m.group(2)
+                continue
+            before = press_render.plain(md[max(0, at - 120):at]).split()[-6:]
+            after = press_render.plain(md[m.end():m.end() + 120]).split()[:6]
+            what = "Greek or Hebrew" if "Greek" in m.group(1) else m.group(1).replace("⟨•⟩", "•").replace("⟨word⟩", "[word]")
+            rows.append((what, page, img, " ".join(before), " ".join(after)))
+    ill = sum(1 for r in rows if r[0] != "Greek or Hebrew")
+    L = [f"# Proof sheet: {e['title']}", "",
+         f"`{slug}` is set from EEBO-TCP {e['source']['id']}, keyed twice by hand from the first edition's "
+         f"page images. There is no scan of that printing on archive.org to collate against, so this sheet "
+         f"lists what a person must still supply from the page images "
+         f"(`python3 pipeline/press_proof.py {slug}`, {time.strftime('%Y-%m-%d')}).", "",
+         f"- Places the keyers could not read: **{ill}**",
+         f"- Greek or Hebrew they did not key: **{len(rows) - ill}**",
+         f"- Errata printed in the first edition, listed in the Note on the Text, not yet applied: "
+         f"{len(doc.get('errata') or [])}", ""]
+    if rows:
+        L += ["| # | Missing | Page (EEBO image) | Before | After |", "|---:|---|---|---|---|"]
+        for n, (what, pg, im, b, a) in enumerate(rows, 1):
+            L.append(f"| {n} | {what} | {pg or '?'} ({im or '?'}) | …{b} | {a}… |")
+    press_build.atomic_write(os.path.join(ROOT, "docs", "press", "proof", f"{slug}.md"), "\n".join(L) + "\n")
+    return {"unread": ill, "untranscribed": len(rows) - ill}
+
 if __name__ == "__main__":
     cat = json.load(open(press_build.CATALOG, encoding="utf-8"))
     slug = sys.argv[1]
-    if cat["titles"][slug]["source"]["kind"] == "ia-extract":
+    if cat["titles"][slug]["source"]["kind"] == "tcp":
+        print(json.dumps(proof_tcp(slug)))
+    elif cat["titles"][slug]["source"]["kind"] == "ia-extract":
         r = proof_ocr(slug)
         print(json.dumps({k: r[k] for k in ("book_words", "agreeing_words", "agreement", "ocr_fixes_new",
                                               "ocr_fixes_total", "upheld")}, ensure_ascii=False), "review", len(r["review"]))

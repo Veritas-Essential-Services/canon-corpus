@@ -1,6 +1,20 @@
 {
  "ocr_fixes": [
   {
+   "leaf": 610,
+   "from": "Almiohtv",
+   "to": "Almighty",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
+   "leaf": 610,
+   "from": "motner",
+   "to": "mother",
+   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
+   "by": "press_proof"
+  },
+  {
    "leaf": 612,
    "from": "youv",
    "to": "your",
@@ -24,7 +38,7 @@
   {
    "leaf": 612,
    "from": "Jit",
-   "to": "Fit",
+   "to": "fit",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -73,7 +87,7 @@
   {
    "leaf": 616,
    "from": "M'ithout",
-   "to": "Without",
+   "to": "without",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -143,7 +157,7 @@
   {
    "leaf": 618,
    "from": "I'elations",
-   "to": "Relations",
+   "to": "relations",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -157,7 +171,7 @@
   {
    "leaf": 618,
    "from": "Aveep",
-   "to": "Weep",
+   "to": "weep",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -225,13 +239,6 @@
    "by": "press_proof"
   },
   {
-   "leaf": 621,
-   "from": "NUiil",
-   "to": "Nihil",
-   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
-   "by": "press_proof"
-  },
-  {
    "leaf": 622,
    "from": "htimble",
    "to": "humble",
@@ -248,7 +255,7 @@
   {
    "leaf": 622,
    "from": "Avould",
-   "to": "Would",
+   "to": "would",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -276,7 +283,7 @@
   {
    "leaf": 623,
    "from": "Xi hich",
-   "to": "Which",
+   "to": "which",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -353,7 +360,7 @@
   {
    "leaf": 630,
    "from": "Korld",
-   "to": "World",
+   "to": "world",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -410,13 +417,6 @@
    "leaf": 632,
    "from": "v alk",
    "to": "walk",
-   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
-   "by": "press_proof"
-  },
-  {
-   "leaf": 633,
-   "from": "TOKEX",
-   "to": "TOKEN",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -541,20 +541,6 @@
   },
   {
    "leaf": 637,
-   "from": "TOtCEN",
-   "to": "TOKEN",
-   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
-   "by": "press_proof"
-  },
-  {
-   "leaf": 637,
-   "from": "MOURNETl",
-   "to": "MOURNERS",
-   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
-   "by": "press_proof"
-  },
-  {
-   "leaf": 637,
    "from": "appohitcd",
    "to": "appointed",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
@@ -577,7 +563,7 @@
   {
    "leaf": 637,
    "from": "Vv'eep",
-   "to": "Weep",
+   "to": "weep",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -800,13 +786,6 @@
   },
   {
    "leaf": 644,
-   "from": "gtartor",
-   "to": "start or",
-   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
-   "by": "press_proof"
-  },
-  {
-   "leaf": 644,
    "from": "v ithereth",
    "to": "withereth",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
@@ -815,14 +794,7 @@
   {
    "leaf": 644,
    "from": "I'csuri ection",
-   "to": "Resurrection",
-   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
-   "by": "press_proof"
-  },
-  {
-   "leaf": 644,
-   "from": "qfsorrozo",
-   "to": "of sorrow",
+   "to": "resurrection",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -928,20 +900,6 @@
    "leaf": 647,
    "from": "odies",
    "to": "bodies",
-   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
-   "by": "press_proof"
-  },
-  {
-   "leaf": 648,
-   "from": "TOXEX",
-   "to": "TOKEN",
-   "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
-   "by": "press_proof"
-  },
-  {
-   "leaf": 648,
-   "from": "MOUPtNEKS",
-   "to": "MOURNERS",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -1179,7 +1137,7 @@
   {
    "leaf": 654,
    "from": "Avound",
-   "to": "Wound",
+   "to": "wound",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
@@ -1564,7 +1522,7 @@
   {
    "leaf": 668,
    "from": "M'ithdrawment",
-   "to": "Withdrawment",
+   "to": "withdrawment",
    "why": "ABBYY and Tesseract disagree; only Tesseract's reading is a word",
    "by": "press_proof"
   },
