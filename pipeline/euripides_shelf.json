@@ -1,5 +1,5 @@
 {
- "_about": "Euripides in English, translator per title. Complete in two translators: Arthur S. Way (verse, 1894-98, 3 vols., English only; raw IA OCR) and Edward P. Coleridge (prose, 1891, 2 vols., raw IA OCR). Also T. A. Buckley (prose, Bohn) vol. I clean on Gutenberg, Michael Wodhull's 1782 verse in Morley's Universal Library selection (1888), and Gilbert Murray's verse plays (early 1900s; Gutenberg clears them as US PD; Murray d. 1957, not PD in life+70 countries). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_about": "Euripides in English, translator per title. Complete in two translators: Arthur S. Way (verse, 1894-98, 3 vols., English only; raw IA OCR) and Edward P. Coleridge (prose, 1891, 2 vols., raw IA OCR). Also T. A. Buckley (prose, Bohn) vol. I clean on Gutenberg, Michael Wodhull's 1782 verse in Morley's Universal Library selection (1888), and Gilbert Murray's verse plays (early 1900s; Gutenberg clears them as US PD; Murray d. 1957, not PD in life+70 countries). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report. Added 2026-10-03: Augusta Webster's Medea in literal verse (Macmillan, 1868), raw IA OCR.",
  "_name_words": [
   "euripides",
   "translated",
@@ -116,6 +116,11 @@
    "tragedieseuripi01eurigoog",
    "The Tragedies of Euripides, vol. 2 (prose, Bohn, 1850)",
    "tr. Theodore Alois Buckley"
+  ],
+  "euripides-webster-medea-1868": [
+   "medeaofeuripides00euririch",
+   "The Medea of Euripides, literally translated into English verse (Macmillan, 1868)",
+   "tr. Augusta Webster"
   ]
  },
  "_excluded": {
@@ -146,7 +151,8 @@
   "euripides-potter-v1": "R. Potter",
   "euripides-potter-v2": "R. Potter",
   "euripides-potter-v3": "R. Potter",
-  "euripides-buckley-v2": "Theodore Alois Buckley"
+  "euripides-buckley-v2": "Theodore Alois Buckley",
+  "euripides-webster-medea-1868": "Augusta Webster"
  },
  "_translator_unchecked": {
   "euripides-wodhull-v3": "translator on the row (Michael Wodhull) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -410,6 +416,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1850",
    "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "euripides-webster-medea-1868": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "euripides",
+   "translator_claimed": "Augusta Webster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

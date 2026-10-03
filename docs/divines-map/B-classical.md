@@ -345,6 +345,7 @@ Shelf: `pipeline/euripides_shelf.json`. Translator per title; complete in Way (v
 | Euripides, translated by R. Potter, vol. 2 (Valpy, 1832) | Robert Potter | `euripides-potter-v2` | have-raw (IA `euripides01pottgoog`) |
 | Euripides, translated by R. Potter, vol. 3 (Valpy, 1832) | Robert Potter | `euripides-potter-v3` | have-raw (IA `euripides02pottgoog`) |
 | The Tragedies of Euripides, vol. 2 (prose, Bohn, 1850) | Theodore Alois Buckley | `euripides-buckley-v2` | have-raw (IA `tragedieseuripi01eurigoog`) |
+| The Medea of Euripides, literally translated into English verse (Macmillan, 1868) | Augusta Webster | `euripides-webster-medea-1868` | have-raw (IA `medeaofeuripides00euririch`) |
 
 Pending (wishlist): Way's 1912 Loeb (Greek facing). Potter's Euripides is held complete in the 1832 Valpy reprint (3 vols.). Wodhull's Euripides is held complete from the 1809 Greek Tragic Theatre (vols. 3-5).
 
@@ -1442,6 +1443,7 @@ Shelf: `pipeline/julian_shelf.json`. Wright's Loeb vols. 1-2 (Gutenberg; facing 
 |---|---|---|---|
 | The Works of the Emperor Julian, vol. 1 | Wilmer Cave Wright | `julian-wright-v1` | held: Gutenberg's transcription (PG 48664) includes a 'Bibliographical Addendum (1980)' from the reprint it was made from, which is not public domain by date; not fetched (see `_held`) |
 | The Works of the Emperor Julian, vol. 2 | Wilmer Cave Wright | `julian-wright-v2` | have (PG 48768) |
+| Julian the Emperor: Gregory Nazianzen's two Invectives, Libanius' Monody, and Julian's Upon the Sovereign Sun and Upon the Mother of the Gods (Bohn, 1888) | C. W. King | `julian-king-1888` | have-raw (IA `julianemperor00king`) |
 
 Pending (wishlist): Wright vol. 3 (1923)
 
