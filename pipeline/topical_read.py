@@ -198,7 +198,7 @@ def refs(text, here=None, point=False, old=False):
     end = -1
     while i < n:
         if book and i == end:
-            k = _CONT.match(text, i)
+            k = (_CONT_POINT if point else _CONT).match(text, i)
             if k:
                 j = k.end()
                 cv = _CV.match(text, j)
@@ -206,7 +206,8 @@ def refs(text, here=None, point=False, old=False):
                     i = end = _take(text, cv, book, out)
                     chapter = out[-1]["c2"]
                     continue
-                if (k.group(1) == ";" or out[-1]["v"] is None) and chapter is not None \
+                prev_v = out[-1]["v"] if out else None      # nothing yet: "Ps. 3 title; 4:1"
+                if (k.group(1) == ";" or prev_v is None) and chapter is not None \
                         and book not in SINGLE_CHAPTER:
                     ch = _CHAPTER.match(text, j)
                     if ch:
@@ -217,7 +218,7 @@ def refs(text, here=None, point=False, old=False):
                         i = end = ch.end()
                         continue
                 vm = _VERSE.match(text, j)
-                if vm and (k.group(1) != ";" or book in SINGLE_CHAPTER) and out[-1]["v"] is not None:
+                if vm and (k.group(1) != ";" or book in SINGLE_CHAPTER) and prev_v is not None:
                     v = int(vm.group(1))
                     v2 = int(vm.group(2)) if vm.group(2) else v
                     out.append({"book": book, "c": chapter, "v": v, "c2": chapter, "v2": v2, "at": j, "end": vm.end()})
@@ -237,7 +238,7 @@ def refs(text, here=None, point=False, old=False):
                 continue
             rm = _REL_CH.match(text, i)
             if rm:
-                book = _context(text, i, out, here, forms)[0]
+                book = _context(text, i, out, here, forms, chapter_ref=True)[0]
                 c = int(rm.group(1)) if rm.group(1).isdigit() else _roman(rm.group(1))
                 if rm.group(2):
                     v = int(rm.group(2))
@@ -272,7 +273,10 @@ def refs(text, here=None, point=False, old=False):
                         i = end = pt.end()
                         continue
                     ch = _CHAPTER.match(text, m.end()) if b not in SINGLE_CHAPTER else None
-                    if ch and m.group("name") in _WORDLIKE and not m.group(0).endswith("."):
+                    # "Is 40 days" is prose; Nave's "Ex 32; Ac 7:40" is not: without
+                    # its point, a word-like form reads a chapter only before punctuation
+                    if ch and m.group("name") in _WORDLIKE and not m.group(0).endswith(".") \
+                            and re.match(r"\s*[A-Za-z]", text[ch.end():]):
                         ch = None
                     if ch:
                         book = b
@@ -297,6 +301,8 @@ def refs(text, here=None, point=False, old=False):
 
 
 _CONT = re.compile(r"\s*([;,]|and\b|&)\s*(?:and\s+)?")
+# Poole and the older printings close each reference with a point: "chap. 7. 34. & 25. 10."
+_CONT_POINT = re.compile(r"\.?\s*([;,]|and\b|&)\s*(?:and\s+)?")
 # a number is not a chapter or verse if a ":" or digit follows, or if it is the
 # ordinal of the next book ("; 2 Sam. 4", "; 2Sa 4")
 _NOT_AFTER = r"(?![\d:]|\s*:|\s?[A-Z][a-z]{0,13}[.,]?\s*\d)"
@@ -311,12 +317,25 @@ _NEAR = 40     # characters: a reference this close lends "ver. 31" its book and
 _NAMED = re.compile(_BOOK_RE.replace("(?P<ord>", "(?P<o>").replace("(?P<name>", "(?P<n>"))
 
 
-def _context(text, i, out, here, forms):
+# names a sentence may give a book in, without a point ("as Luke tells us");
+# a shorter form only counts with its point ("Ezek. chap."), and "Philip" is a man
+_SPELLED = {"Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges", "Ruth",
+            "Samuel", "Kings", "Chronicles", "Ezra", "Nehemiah", "Esther", "Job", "Psalms", "Psalm",
+            "Proverbs", "Ecclesiastes", "Isaiah", "Jeremiah", "Lamentations", "Ezekiel", "Daniel",
+            "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah",
+            "Haggai", "Zechariah", "Malachi", "Matthew", "Mark", "Luke", "John", "Acts", "Romans",
+            "Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians", "Thessalonians",
+            "Timothy", "Titus", "Philemon", "Hebrews", "James", "Peter", "Jude", "Revelation"}
+
+
+def _context(text, i, out, here, forms, chapter_ref=False):
     """(book, chapter) for a relative "ver. 31" / "ch. 3. 4" at i: a book
     named just before with no number after it ("as Luke tells us, ch. 1. 26",
     "Ezek. chap. 27. 28"); else the reference just read, if it ended within
     _NEAR characters in the same sentence ("Exod. 30. 25. to ver. 31"); else
-    the comment's own place."""
+    the comment's own place. "Chap. 20. 12" right after another book's
+    reference is still the comment's own book (Poole: "Gal. 6. 5. Chap. 20.
+    12" on Revelation), so chapter_ref skips the second rule."""
     last_end = out[-1].get("end", -10 ** 9) if out else -10 ** 9
     win_from = max(0, i - 40, last_end)
     win = text[win_from:i]
@@ -325,12 +344,12 @@ def _context(text, i, out, here, forms):
         last = m
     # a short form only with its point ("So here" is not the Song)
     if last and not re.search(r"\d", win[last.end():]) and len(win[last.end():].split()) <= 3 \
-            and (last.group(0).endswith(".") or len(last.group("n")) >= 4):
+            and (last.group(0).endswith(".") or last.group("n") in _SPELLED):
         b = book_of(last.group("o"), last.group("n"), forms)
         if b:
             return b, here[1] if b == here[0] else None
-    if out and last_end > i - _NEAR and out[-1]["c2"] is not None \
-            and not re.search(r"[.;:?!]\s+[A-Z]|\(|\)", text[last_end:i]):
+    if not chapter_ref and out and last_end > i - _NEAR and out[-1]["c2"] is not None \
+            and not re.search(r"[.;:?!]\s+[A-Z]|\(|\)", text[last_end:i + 1]):
         return out[-1]["book"], out[-1]["c2"]
     return here
 

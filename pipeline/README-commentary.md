@@ -8,10 +8,10 @@ The ids are read from `data/uids/wordhoard.uids.json` and never written.
 
 | work | comments | verses covered | citations | source |
 |---|---|---|---|---|
-| Matthew Henry, *Exposition* (1706-21) | 5,417 | 31,065 | 63,877 | CCEL |
-| Jamieson, Fausset and Brown (1871) | 19,776 | 19,776 | 59,013 | CCEL |
-| Matthew Poole, *Annotations* (1683-85) | 26,208 | 26,208 | 50,684 (+14,181 margin parallels) | EEBO-TCP, hand-keyed first edition |
-| Albert Barnes, *Notes on the New Testament* | 7,947 | 7,947 | 39,573 | CCEL (keyed from Baker's 1949 reprint) |
+| Matthew Henry, *Exposition* (1706-21) | 5,417 | 31,065 | 63,918 | CCEL |
+| Jamieson, Fausset and Brown (1871) | 19,776 | 19,776 | 59,019 | CCEL |
+| Matthew Poole, *Annotations* (1683-85) | 26,208 | 26,208 | 55,433 (+16,020 margin parallels) | EEBO-TCP, hand-keyed first edition |
+| Albert Barnes, *Notes on the New Testament* | 7,947 | 7,947 | 39,586 | CCEL (keyed from Baker's 1949 reprint) |
 
 ```
 python3 pipeline/build_commentary.py --fetch    # CCEL's texts, Poole's TCP files, the scans' OCR, all sha256-pinned
@@ -95,9 +95,9 @@ order with GNU diff.
 
 | work | both read it | found in print | CCEL only | found in print | reader only | found in print |
 |---|---|---|---|---|---|---|
-| Henry | 33,658 | 71.1% | 1,672 | 3.6% | 4,165 | 53.2% |
-| JFB | 50,206 | 66.6% | 59 | 22.0% | 164 | 53.7% |
-| Barnes (Gospels) | 11,890 | 48.1% | 78 | 11.5% | 80 | 31.3% |
+| Henry | 33,686 | 71.0% | 1,644 | 3.6% | 4,140 | 53.7% |
+| JFB | 50,207 | 66.6% | 58 | 5.2% | 174 | 59.8% |
+| Barnes (Gospels) | 11,890 | 48.1% | 78 | 11.5% | 84 | 29.8% |
 
 The print figures count only citations that name their own book. "ver. 31"
 has no book in print to align with. The figures are capped by OCR quality.
@@ -107,7 +107,7 @@ iii. 16"), and the OCR reads the Roman chapters less well.
 **Poole.** TCP transcribed the folio by hand, twice, from page images, and
 marked every word it could not read (`<gap>`). There is no second text to vote
 against. A citation is committed when it names a KJV verse and no unread word
-touches it. 2,516 were dropped for touching one, and 671 name no KJV verse.
+touches it. 2,667 were dropped for touching one, and 697 name no KJV verse.
 The reader handles his forms:
 
 - 17th-century book names (`Psal.`, `Ioh.`, `Iob`, `Ier.`, `Matth.`).
@@ -116,7 +116,13 @@ The reader handles his forms:
 - "Chap. 3. 4" and "ver. 31" are read in the book named just before them
   ("as Luke tells us, ch. 1. 26"). Failing that, they take the chapter of a
   reference that ended within 40 characters in the same sentence ("Exod. 30.
-  25. to verse 31"). Failing both, they take the comment's own place.
+  25. to verse 31"). Failing both, they take the comment's own place. A
+  "Chap." never borrows the last reference's book: "Gal. 6. 5. Chap. 20. 12"
+  in a note on Revelation is Revelation 20:12. Only a spelled-out name
+  counts without its point, so "as Philip had done" names no book.
+- A point closes each reference ("chap. 7. 34. & 25. 10."), and the book
+  carries over it.
+- A psalm's title ("Psal. 18. title") is no reference, as in the topical layer.
 
 **An outside check for all four.** The Treasury of Scripture Knowledge
 (`data/xrefs/tsk.jsonl`, read from its own 1830s scans) is compared with each
@@ -128,8 +134,8 @@ how many at an unrelated verse, 1,000 verses on?
 | Henry | 29.2% | 1.6% |
 | JFB | 28.1% | 0.2% |
 | Barnes | 34.3% | 0.2% |
-| Poole, notes | 25.4% | 0.2% |
-| Poole, margin parallels | 66.6% | 0.2% |
+| Poole, notes | 24.9% | 0.2% |
+| Poole, margin parallels | 68.0% | 0.2% |
 
 The check is a measure only. Nothing is kept or dropped by it. Henry's
 unrelated-verse figure is higher because his comments span whole sections.

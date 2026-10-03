@@ -8,10 +8,10 @@ minted: the ids are read from `data/uids/wordhoard.uids.json` and never written.
 
 | book | entries | references committed | also found in print |
 |---|---|---|---|
-| Nave's Topical Bible (1896/97) | 5,322 (22,259 subtopics) | 77,879 | 82.8% |
+| Nave's Topical Bible (1896/97) | 5,322 (22,259 subtopics) | 77,877 | 82.8% |
 | Torrey's New Topical Text Book (1897) | 623 (21,544 subtopics) | 38,543 | 94.3% |
-| Easton's Bible Dictionary (1893/1897) | 3,964 | 23,317 | 88.8% |
-| Smith's Bible Dictionary (Peloubet, 1884) | 4,561 | 10,323 | 82.5% |
+| Easton's Bible Dictionary (1893/1897) | 3,964 | 23,364 | 88.8% |
+| Smith's Bible Dictionary (Peloubet, 1884) | 4,561 | 10,416 | 82.5% |
 
 ```
 python3 pipeline/build_topical.py --fetch   # CCEL's four texts + five scans' OCR, sha256-pinned (~60 MB into data/corpus/topical/)
@@ -84,7 +84,7 @@ mark this where it can be seen:
 - A heading with a word that appears in neither printed scan carries
   `wording_not_in_print` with those words. That is 877 of 27,581 Nave
   headings, and 562 of 22,167 for Torrey, nearly all spellings.
-- The references are what counts. In Nave, only 392 of 22,259 subtopics have
+- The references are what counts. In Nave, only 394 of 22,259 subtopics have
   no reference at all that is also found in print.
 
 ## 3. Three readings of every reference
@@ -96,8 +96,13 @@ mark this where it can be seen:
    - a book that carries over a `;` or a `,`;
    - whole chapters (`Jer 21; 22`);
    - chapter ranges and ranges across chapters;
-   - the single-chapter books (`Jude 9`, `Jude 1:9`);
-   - ordinals (`1Jo`, `II Sam.`).
+   - the single-chapter books (`Jude 9`, `Jude 1:9`, `Jude 6; 14`);
+   - lists of chapters (`Ps. 23, 24`);
+   - ordinals (`1Jo`, `II Sam.`, `3 Macc.`), and Susanna and Bel;
+   - a psalm's title (`Ps. 18, title`, `Ps. 51:title`) is no reference:
+     the KJV does not number titles;
+   - `Is`, `Am`, `So`, `Ex` and `Re` before a bare number and then a word
+     (`Is 40 days`) are prose, not books. Nave's `Ex 32;` still reads.
 3. **Print.** The archive.org OCR of open scans of the printed books is read
    by the same reader:
    - Nave's: the 1897 and 1903 printings.
@@ -117,15 +122,17 @@ What the vote catches (the manifest's `by_reading`):
 
 | book | both | found in print | CCEL only | found in print | reader only | found in print |
 |---|---|---|---|---|---|---|
-| Nave | 77,643 | 82.7% | 291 | 13.7% | 371 | 83.8% |
+| Nave | 77,643 | 82.7% | 291 | 13.4% | 371 | 83.6% |
 | Torrey | 38,436 | 94.3% | 136 | 0% | 142 | 77.5% |
-| Easton | 23,466 | 88.5% | 177 | 3.4% | 675 | 81.9% |
-| Smith | 10,847 | 81.4% | 169 | 27.8% | 32 | 43.8% |
+| Easton | 23,491 | 88.5% | 152 | 5.3% | 695 | 82.5% |
+| Smith | 10,865 | 81.3% | 151 | 47.7% | 112 | 67.9% |
 
 References that only CCEL tagged are mostly tagger errors, and print says so.
 The commonest is `Jude 1:9` tagged as `Jude 1` (verse 1), with the `:9` left
 untagged. References only the reader found are mostly real references CCEL
-missed, and print confirms them.
+missed, and print confirms them. Smith's CCEL-only references are the
+exception: half are in print, so there the reader still misses forms Smith
+uses (the vote keeps those only where print has them).
 
 The "found in print" figures are not a measure of error. They are capped by
 OCR quality: the OCR writes `Ley.` for Lev. and `18:138` for 18:13. Nave's
@@ -135,9 +142,9 @@ together reach 94%.
 
 Last, every reference must name a KJV verse or chapter:
 
-- 107 do not and are dropped (`names no KJV verse`). Most are typos in the
+- 108 do not and are dropped (`names no KJV verse`). Most are typos in the
   source, such as Smith's "1 Chronicles 7:88" and Easton's "Jer. 38:60".
-- 177 are the Apocrypha, kept under `apocrypha`.
+- 178 are the Apocrypha, kept under `apocrypha`.
 
 ## 4. Hitchcock
 

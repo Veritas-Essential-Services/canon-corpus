@@ -96,14 +96,14 @@ with no 3 or 8 at all: the digit error is gone, not just reduced.
 
 **Where an error would hide.** The labels come only from references where one
 reading names a verse and the other does not, and nine in ten of them are 3s.
-In 74,844 committed references (30%), some 3 or 8 swapped names a verse too:
+In 74,842 committed references (30%), some 3 or 8 swapped names a verse too:
 there the Bible's shape cannot tell, only the model chose, and the two scans
 agreeing adds little because both go through the same model. `--measure`
 scores those ("3/8, shape blind") apart from the ones shape confirms ("3/8,
 shape tells") and from "no-3/8". If "shape blind" matches OpenBible as often as
 "no-3/8", the model is not hiding errors there, and it does: measured
-2026-10-03, shape blind 94.0% (74,844), shape tells 94.0% (41,872), no-3/8
-93.9% (131,700). All 74,844 stay committed.
+2026-10-03, shape blind 94.0% (74,842), shape tells 94.0% (41,859), no-3/8
+93.9% (131,688). All 74,842 stay committed.
 
 ## 4. Two scans, and what is committed
 
@@ -122,16 +122,26 @@ Both scans are read independently, then:
   counted in the manifest. Most are misreadings of a reference the other scan
   read rightly, or entries one alignment missed.
 
-The build of 2026-10-03, after review (an unsure reading in either scan now
-keeps the reference in `unsure_digit`, which is why that list grew from 1,038):
+The build of 2026-10-03, after two reviews. The first: an unsure reading in
+either scan now keeps the reference in `unsure_digit`, which is why that list
+grew from 1,038. The second: a psalm's title is no reference (below), and
+"etc." / "f." / "ff." after references no longer open the next catchword.
 
 | | references | also in OpenBible |
 |---|---|---|
-| **committed** | **248,416** on 25,622 verses | **94.0%** |
-| of which agreed (the manifest's `agreed`, 227,774, includes unsure_digit) | 226,294 | 94.6% |
-| of which placed | 20,642 | 87.9% |
+| **committed** | **248,389** on 25,621 verses | **94.0%** |
+| of which agreed (the manifest's `agreed`, 227,748, includes unsure_digit) | 226,268 | 94.6% |
+| of which placed | 20,641 | 87.9% |
 | of which unsure_digit (the manifest's 1,667 includes 187 also placed) | 1,480 | 81.9% |
-| one scan only (not committed) | 122,369 | 55.9% |
+| one scan only (not committed) | 122,338 | 55.9% |
+
+**Psalm titles.** The Treasury prints "Ps 18. title" for a psalm's
+superscription. The KJV does not number titles (bhs-kjv.json leaves them
+`resolved: false`), so such a reference names no KJV verse and is dropped,
+like the 1,345 BDB title citations. Before the second review, 44 of them
+were committed as the whole psalm (Exod 18:4 cited `Ps.18.1-50`). Keeping
+the titles in a side list, as the topical layer keeps its Apocrypha, is a
+possible follow-up.
 
 The jump from about 84% for either scan alone to 94.6% for what both read
 is the point of reading two scans. Each scan aligned about 26,000 entries

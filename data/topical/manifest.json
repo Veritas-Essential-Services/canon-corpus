@@ -10,51 +10,51 @@
  "layers": {
   "nave": {
    "file": "data/topical/nave.jsonl",
-   "sha256": "1be48b022ee8e560c71128a6bdc19d98e7504c55e0e4037dfc05f38938bb8679",
+   "sha256": "46b1498b9c7a03420de0de2e731c779409a3f0d843df1bbc3822f7285e9d2b20",
    "rows": 5322,
    "counts": {
-    "committed": 77879,
-    "committed, printed": 64488,
+    "committed": 77877,
+    "committed, printed": 64499,
     "entries": 5322,
     "entries_with_refs": 4673,
     "headings_with_wording_not_in_print": 877,
     "hitchcock_joined": 2326,
     "names no KJV verse": 5,
-    "one reading, not printed": 311,
-    "refs_in_rows": 77879,
+    "one reading, not printed": 313,
+    "refs_in_rows": 77877,
     "repeat in one paragraph": 110,
     "topics": 22259,
-    "topics_none_in_print": 392
+    "topics_none_in_print": 394
    },
    "by_reading": {
     "both": {
      "refs": 77643,
-     "printed": 64208,
-     "share_printed": 0.827
+     "printed": 64221,
+     "share_printed": 0.8271
     },
     "ccel-only": {
      "refs": 291,
-     "printed": 40,
-     "share_printed": 0.1375
+     "printed": 39,
+     "share_printed": 0.134
     },
     "reader-only": {
      "refs": 371,
-     "printed": 311,
-     "share_printed": 0.8383
+     "printed": 310,
+     "share_printed": 0.8356
     }
    },
    "scans": [
     {
      "scan": "navestopicalbibl0000orvi_h3u8",
      "what": "1897, tesseract 5.3",
-     "refs_read": 65848,
-     "aligned": 59584
+     "refs_read": 65972,
+     "aligned": 59581
     },
     {
      "scan": "navestopicalbibl00nave",
      "what": "1903, ABBYY 8; NOT_IN_COPYRIGHT",
-     "refs_read": 65171,
-     "aligned": 56336
+     "refs_read": 65277,
+     "aligned": 56348
     }
    ],
    "source": {
@@ -69,11 +69,11 @@
   },
   "torrey": {
    "file": "data/topical/torrey.jsonl",
-   "sha256": "f0183a0464e39045c1a876e41dc353497cc76086e75f270e78da5d0faf6922b7",
+   "sha256": "83b24e2fc19c92dde94fe2b977e640e4d89abcb01f85e251417cd125970cbf4e",
    "rows": 623,
    "counts": {
     "committed": 38543,
-    "committed, printed": 36366,
+    "committed, printed": 36356,
     "entries": 623,
     "entries_with_refs": 623,
     "headings_with_wording_not_in_print": 562,
@@ -83,13 +83,13 @@
     "refs_in_rows": 38543,
     "repeat in one paragraph": 1,
     "topics": 21544,
-    "topics_none_in_print": 712
+    "topics_none_in_print": 716
    },
    "by_reading": {
     "both": {
      "refs": 38436,
-     "printed": 36258,
-     "share_printed": 0.9433
+     "printed": 36248,
+     "share_printed": 0.9431
     },
     "ccel-only": {
      "refs": 136,
@@ -106,14 +106,14 @@
     {
      "scan": "newtopicaltextbo00torr",
      "what": "1897 Revell; NOT_IN_COPYRIGHT",
-     "refs_read": 37940,
-     "aligned": 34718
+     "refs_read": 37962,
+     "aligned": 34708
     },
     {
      "scan": "newtopicaltextbo0000revr",
      "what": "1897 Revell, tesseract 5.3",
-     "refs_read": 29557,
-     "aligned": 23698
+     "refs_read": 29659,
+     "aligned": 23678
     }
    ],
    "source": {
@@ -128,43 +128,43 @@
   },
   "easton": {
    "file": "data/topical/easton.jsonl",
-   "sha256": "222722b2162248390b454437e4d34dd47f4127f0f0075e0b19bff1b46053bda2",
+   "sha256": "8a70598ea510bd49f7189567379651dee77a02bf7502bd26da1a1a6af5cb5a31",
    "rows": 3964,
    "counts": {
     "apocrypha": 5,
-    "committed": 23649,
-    "committed, printed": 21006,
+    "committed": 23696,
+    "committed, printed": 21041,
     "entries": 3964,
-    "entries_with_refs": 3866,
+    "entries_with_refs": 3864,
     "hitchcock_joined": 1768,
-    "names no KJV verse": 23,
-    "one reading, not printed": 293,
-    "refs_in_rows": 23317,
-    "repeat in one paragraph": 348
+    "names no KJV verse": 24,
+    "one reading, not printed": 266,
+    "refs_in_rows": 23364,
+    "repeat in one paragraph": 347
    },
    "by_reading": {
     "both": {
-     "refs": 23466,
-     "printed": 20769,
-     "share_printed": 0.8851
+     "refs": 23491,
+     "printed": 20782,
+     "share_printed": 0.8847
     },
     "ccel-only": {
-     "refs": 177,
-     "printed": 6,
-     "share_printed": 0.0339
+     "refs": 152,
+     "printed": 8,
+     "share_printed": 0.0526
     },
     "reader-only": {
-     "refs": 675,
-     "printed": 553,
-     "share_printed": 0.8193
+     "refs": 695,
+     "printed": 573,
+     "share_printed": 0.8245
     }
    },
    "scans": [
     {
      "scan": "illustratedbible00east",
      "what": "1893 first edition (N.Y.), ABBYY 8; the only open scan, and an earlier edition than CCEL's 1897",
-     "refs_read": 23897,
-     "aligned": 21328
+     "refs_read": 23947,
+     "aligned": 21363
     }
    ],
    "source": {
@@ -179,43 +179,43 @@
   },
   "smith": {
    "file": "data/topical/smith.jsonl",
-   "sha256": "66d634660bc7bc7579b9d9422537c813694c23026dcc7e7a73a8643a2bbda814",
+   "sha256": "4fd02d4732ca4456ca8e32da39a42307aa86c2ef72ae42c1907d33687d384082",
    "rows": 4561,
    "counts": {
-    "apocrypha": 172,
-    "committed": 10326,
-    "committed, printed": 8519,
+    "apocrypha": 173,
+    "committed": 10419,
+    "committed, printed": 8597,
     "entries": 4561,
-    "entries_with_refs": 3297,
+    "entries_with_refs": 3302,
     "hitchcock_joined": 2239,
     "names no KJV verse": 77,
-    "one reading, not printed": 140,
-    "refs_in_rows": 10323,
-    "repeat in one paragraph": 333
+    "one reading, not printed": 115,
+    "refs_in_rows": 10416,
+    "repeat in one paragraph": 344
    },
    "by_reading": {
     "both": {
-     "refs": 10847,
+     "refs": 10865,
      "printed": 8829,
-     "share_printed": 0.814
+     "share_printed": 0.8126
     },
     "ccel-only": {
-     "refs": 169,
-     "printed": 47,
-     "share_printed": 0.2781
+     "refs": 151,
+     "printed": 72,
+     "share_printed": 0.4768
     },
     "reader-only": {
-     "refs": 32,
-     "printed": 14,
-     "share_printed": 0.4375
+     "refs": 112,
+     "printed": 76,
+     "share_printed": 0.6786
     }
    },
    "scans": [
     {
      "scan": "dictionaryofbibl00smit_0",
      "what": "1884 Porter and Coates (Peloubet), ABBYY 9; the edition CCEL's text is",
-     "refs_read": 16675,
-     "aligned": 8890
+     "refs_read": 16787,
+     "aligned": 8977
     }
    ],
    "source": {

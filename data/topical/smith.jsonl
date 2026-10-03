@@ -141,7 +141,7 @@
 {"id":"smith:agate","term":"Agate","refs":["kjv:Exod.28.19","kjv:Exod.39.12","kjv:Isa.54.12","kjv:Ezek.27.16"],"in_print":4}
 {"id":"smith:age-old","term":"Age, Old","refs":["kjv:Job.15.10","kjv:Lev.19.32","kjv:Job.32.4","kjv:Prov.16.31","kjv:Prov.20.29","kjv:Job.5.26"],"in_print":6}
 {"id":"smith:agee-or-agee","term":"Agee, Or Agee","refs":["kjv:2Sam.23.11"],"in_print":1}
-{"id":"smith:agriculture","term":"Agriculture","refs":["kjv:Lev.25.23","kjv:Lev.25.8-16","kjv:Jer.5.24","kjv:Hos.6.3","kjv:Zech.10.1","kjv:Jas.5.7","kjv:Job.31.40","kjv:Job.15.33","kjv:Job.24.6","kjv:Job.29.19","kjv:Job.39.10","kjv:Isa.28.27","kjv:Isa.7.25","kjv:Jer.4.3","kjv:Hos.10.12","kjv:Isa.5.2","kjv:Job.5.5","kjv:Prov.24.30","kjv:Prov.24.31","kjv:Isa.32.20","kjv:Judg.3.31","kjv:Gen.26.12","kjv:Matt.13.8","kjv:Amos.2.13","kjv:Gen.1.10","kjv:Gen.1.11","kjv:2Sam.24.16","kjv:2Sam.24.18","kjv:Isa.41.15","kjv:2Sam.24.22","kjv:1Chr.21.23","kjv:Ps.83.10","kjv:2Kgs.9.37","kjv:Jer.8.2","kjv:Isa.30.24","kjv:Ps.35.5","kjv:Job.21.18","kjv:Isa.17.13","kjv:Ruth.3.2","kjv:Matt.3.12","kjv:Amos.9.9","kjv:Num.22.24","kjv:Ps.80.13","kjv:Isa.5.5","kjv:Matt.21.33","kjv:Judg.6.11","kjv:2Sam.9.10","kjv:Matt.21.34","kjv:Matt.12.1","kjv:Lev.19.9","kjv:Lev.19.10","kjv:Lev.24.19"],"in_print":47}
+{"id":"smith:agriculture","term":"Agriculture","refs":["kjv:Lev.25.23","kjv:Lev.25.8-16","kjv:Jer.5.24","kjv:Hos.6.3","kjv:Zech.10.1","kjv:Jas.5.7","kjv:Job.31.40","kjv:Job.15.33","kjv:Job.24.6","kjv:Job.29.19","kjv:Job.39.10","kjv:Isa.28.27","kjv:Isa.7.25","kjv:Jer.4.3","kjv:Hos.10.12","kjv:Isa.5.2","kjv:Job.5.5","kjv:Prov.24.30","kjv:Prov.24.31","kjv:Isa.32.20","kjv:Judg.3.31","kjv:Gen.26.12","kjv:Matt.13.8","kjv:Amos.2.13","kjv:Gen.1.10","kjv:Gen.1.11","kjv:2Sam.24.16","kjv:2Sam.24.18","kjv:Isa.41.15","kjv:2Sam.24.22","kjv:1Chr.21.23","kjv:Ps.83.10","kjv:2Kgs.9.37","kjv:Jer.8.2","kjv:Isa.30.24","kjv:Ps.35.5","kjv:Job.21.18","kjv:Isa.17.13","kjv:Ruth.3.2","kjv:Matt.3.12","kjv:Amos.9.9","kjv:Num.22.24","kjv:Ps.80.13","kjv:Isa.5.5","kjv:Matt.21.33","kjv:Judg.6.11","kjv:Song.8.11","kjv:2Sam.9.10","kjv:Matt.21.34","kjv:Matt.12.1","kjv:Lev.19.9","kjv:Lev.19.10","kjv:Lev.24.19"],"in_print":48}
 {"id":"smith:agrippa","term":"Agrippa","refs":[],"in_print":0,"hitchcock":"a-p0.218"}
 {"id":"smith:agur","term":"Agur","refs":["kjv:Prov.30.1-33"],"in_print":1,"hitchcock":"a-p0.220"}
 {"id":"smith:ahab","term":"Ahab","refs":[],"in_print":0,"hitchcock":"a-p0.222"}
@@ -205,11 +205,11 @@
 {"id":"smith:alabaster","term":"Alabaster","refs":["kjv:Matt.26.7","kjv:Mark.14.3","kjv:Luke.7.37"],"in_print":3}
 {"id":"smith:alameth","term":"Alameth","refs":["kjv:1Chr.7.8"],"in_print":1}
 {"id":"smith:alammelech","term":"Alammelech","refs":["kjv:Josh.19.26"],"in_print":1,"hitchcock":"a-p0.320"}
-{"id":"smith:alamoth","term":"Alamoth","refs":["kjv:Ps.46.1","kjv:1Chr.15.20"],"in_print":1}
+{"id":"smith:alamoth","term":"Alamoth","refs":["kjv:Ps.46.1","kjv:1Chr.15.20"],"in_print":0}
 {"id":"smith:alemeth","term":"Alemeth","refs":["kjv:1Chr.8.36","kjv:1Chr.9.42"],"in_print":2,"hitchcock":"a-p0.322"}
 {"id":"smith:alexander","term":"Alexander","refs":[],"in_print":0,"hitchcock":"a-p0.324"}
 {"id":"smith:alexander-iii","term":"Alexander Iii","refs":["kjv:Dan.7.6","kjv:Dan.8.5","kjv:Dan.11.3","kjv:Dan.2.39","kjv:Dan.8.7"],"in_print":5}
-{"id":"smith:alexandria-or-alexandria","term":"Alexandria, Or Alexandria","refs":["kjv:Acts.18.24","kjv:Acts.6.9"],"in_print":2}
+{"id":"smith:alexandria-or-alexandria","term":"Alexandria, Or Alexandria","refs":["kjv:Acts.18.24","kjv:Acts.6.9"],"in_print":2,"apocrypha":["3Macc.3.1"]}
 {"id":"smith:alexandrians","term":"Alexandrians","refs":["kjv:Acts.6.9"],"in_print":1}
 {"id":"smith:algum-or-almug-trees","term":"Algum Or Almug Trees","refs":["kjv:2Chr.2.8","kjv:2Chr.9.10","kjv:2Chr.9.11","kjv:1Kgs.10.11","kjv:1Kgs.10.12"],"in_print":5}
 {"id":"smith:aliah","term":"Aliah","refs":[],"in_print":0}
@@ -224,13 +224,13 @@
 {"id":"smith:almondiblathaim","term":"Almondiblathaim","refs":["kjv:Num.33.46","kjv:Num.33.47"],"in_print":0,"hitchcock":"a-p0.338"}
 {"id":"smith:alms","term":"Alms","refs":["kjv:Lev.19.9","kjv:Lev.19.10","kjv:Lev.23.22","kjv:Lev.15.11","kjv:Lev.24.19","kjv:Lev.26.2-13","kjv:Ruth.2.2","kjv:Job.31.17","kjv:Prov.10.2","kjv:Prov.11.4","kjv:Esth.9.22","kjv:Ps.112.9","kjv:Acts.9.36","kjv:Acts.10.2","kjv:Matt.6.2","kjv:Matt.6.1-4","kjv:Luke.14.13","kjv:Acts.20.35","kjv:Gal.2.10","kjv:Acts.11.30","kjv:Rom.15.25-27","kjv:1Cor.16.1-4"],"in_print":16,"apocrypha":["Tob.4.10","Tob.4.11","Tob.14.10","Tob.14.11","Sir.3.30","Sir.40.24"]}
 {"id":"smith:almug-trees","term":"Almug Trees","refs":[],"in_print":0}
-{"id":"smith:aloes-lign-aloes","term":"Aloes, Lign Aloes","refs":["kjv:Num.24.6","kjv:Ps.45.8","kjv:Prov.7.17","kjv:John.19.39"],"in_print":4}
+{"id":"smith:aloes-lign-aloes","term":"Aloes, Lign Aloes","refs":["kjv:Num.24.6","kjv:Ps.45.8","kjv:Prov.7.17","kjv:Song.4.14","kjv:John.19.39"],"in_print":5}
 {"id":"smith:aloth","term":"Aloth","refs":["kjv:1Kgs.4.16"],"in_print":1}
 {"id":"smith:alpha","term":"Alpha","refs":["kjv:Rev.1.8","kjv:Rev.1.11","kjv:Rev.21.6","kjv:Rev.22.13","kjv:Isa.41.4","kjv:Isa.44.6"],"in_print":6}
 {"id":"smith:alphabet","term":"Alphabet","refs":[],"in_print":0}
 {"id":"smith:alphaeus","term":"Alphaeus","refs":["kjv:Matt.10.3","kjv:Mark.3.18","kjv:Luke.6.15","kjv:Acts.1.13","kjv:John.19.25"],"in_print":5}
 {"id":"smith:altar","term":"Altar","refs":["kjv:Gen.8.20","kjv:Gen.12.7","kjv:Gen.13.18","kjv:Gen.26.25","kjv:Gen.35.1","kjv:Exod.17.15","kjv:Exod.17.16","kjv:Exod.20.24","kjv:Exod.20.25","kjv:Exod.27.1","kjv:Exod.38.1","kjv:Exod.27.8","kjv:Exod.27.2","kjv:Ps.118.27","kjv:Exod.20.26","kjv:Exod.40.29","kjv:1Kgs.8.64","kjv:2Chr.7.7","kjv:Lev.6.12","kjv:Lev.6.13","kjv:Exod.38.30","kjv:Exod.30.6","kjv:Exod.40.5","kjv:1Kgs.7.48","kjv:1Chr.28.18","kjv:Acts.17.23"],"in_print":20}
-{"id":"smith:altaschith","term":"Altaschith","refs":["kjv:Ps.57.1-11"],"in_print":1}
+{"id":"smith:altaschith","term":"Altaschith","refs":["kjv:Ps.57.1-11","kjv:Ps.58.1-11","kjv:Ps.59.1-17","kjv:Ps.75.1-10"],"in_print":4}
 {"id":"smith:alush","term":"Alush","refs":["kjv:Num.33.13","kjv:Num.33.14"],"in_print":2,"hitchcock":"a-p0.342"}
 {"id":"smith:alvah","term":"Alvah","refs":["kjv:Gen.36.40","kjv:1Chr.1.51"],"in_print":2,"hitchcock":"a-p0.344"}
 {"id":"smith:alvan","term":"Alvan","refs":["kjv:Gen.36.23","kjv:1Chr.1.40"],"in_print":2}
@@ -242,7 +242,7 @@
 {"id":"smith:amalekites-mount-of","term":"Amalekites, Mount Of","refs":["kjv:Judg.12.15"],"in_print":1}
 {"id":"smith:amam","term":"Amam","refs":["kjv:Josh.15.26"],"in_print":1}
 {"id":"smith:aman","term":"Aman","refs":[],"in_print":0,"apocrypha":["AddEsth(vulgate:Esth.10.7)","AddEsth(vulgate:Esth.12.6)","AddEsth(vulgate:Esth.13.3)","AddEsth(vulgate:Esth.13.12)","AddEsth(vulgate:Esth.14.17)","AddEsth(vulgate:Esth.16.10)","AddEsth(vulgate:Esth.16.17)"],"hitchcock":"a-p0.352"}
-{"id":"smith:amana","term":"Amana","refs":["kjv:2Kgs.5.12"],"in_print":1,"hitchcock":"a-p0.354"}
+{"id":"smith:amana","term":"Amana","refs":["kjv:Song.4.8","kjv:2Kgs.5.12"],"in_print":2,"hitchcock":"a-p0.354"}
 {"id":"smith:amariah","term":"Amariah","refs":[],"in_print":0,"hitchcock":"a-p0.356"}
 {"id":"smith:amasa","term":"Amasa","refs":[],"in_print":0,"hitchcock":"a-p0.358"}
 {"id":"smith:amasai-or-amasai","term":"Amasai, Or Amasai","refs":[],"in_print":0}
@@ -262,7 +262,7 @@
 {"id":"smith:ammiel","term":"Ammiel","refs":[],"in_print":0,"hitchcock":"a-p0.378"}
 {"id":"smith:ammihud","term":"Ammihud","refs":[],"in_print":0,"hitchcock":"a-p0.380"}
 {"id":"smith:amminadab","term":"Amminadab","refs":[],"in_print":0,"hitchcock":"a-p0.382"}
-{"id":"smith:amminadib","term":"Amminadib","refs":["kjv:Num.1.12","kjv:Num.2.25","kjv:Num.7.66","kjv:Num.7.71","kjv:Num.10.25"],"in_print":5}
+{"id":"smith:amminadib","term":"Amminadib","refs":["kjv:Song.6.12","kjv:Num.1.12","kjv:Num.2.25","kjv:Num.7.66","kjv:Num.7.71","kjv:Num.10.25"],"in_print":6}
 {"id":"smith:ammizabad","term":"Ammizabad","refs":["kjv:1Chr.27.6"],"in_print":1,"hitchcock":"a-p0.386"}
 {"id":"smith:ammon","term":"Ammon","refs":["kjv:Gen.19.38","kjv:Judg.10.6","kjv:2Chr.20.1","kjv:Zeph.2.8","kjv:Num.21.24","kjv:Num.3.16","kjv:1Sam.11.2","kjv:Amos.1.13","kjv:Jer.41.6","kjv:Jer.41.7","kjv:Judg.17.11","kjv:Judg.17.12","kjv:Judg.11.12","kjv:1Sam.12.12","kjv:2Sam.10.1","kjv:Jer.40.14","kjv:2Sam.10.3","kjv:1Chr.19.3"],"in_print":11,"hitchcock":"a-p0.388"}
 {"id":"smith:ammonitess","term":"Ammonitess","refs":["kjv:1Kgs.14.21","kjv:1Kgs.14.31","kjv:2Chr.12.13"],"in_print":2}
@@ -343,7 +343,7 @@
 {"id":"smith:apphia","term":"Apphia","refs":["kjv:Phil.2.1-30"],"in_print":1,"hitchcock":"a-p0.480"}
 {"id":"smith:appii-forum","term":"Appii Forum","refs":["kjv:Acts.28.15"],"in_print":1}
 {"id":"smith:appius-market-of","term":"Appius, Market Of","refs":["kjv:Acts.28.16"],"in_print":0}
-{"id":"smith:apple-tree-apple","term":"Apple Tree, Apple","refs":["kjv:Joel.1.12","kjv:Prov.25.11","kjv:Song.2.5","kjv:Song.7.8"],"in_print":3}
+{"id":"smith:apple-tree-apple","term":"Apple Tree, Apple","refs":["kjv:Song.2.3","kjv:Song.8.5","kjv:Joel.1.12","kjv:Prov.25.11","kjv:Song.2.5","kjv:Song.7.8"],"in_print":5}
 {"id":"smith:aquila","term":"Aquila","refs":["kjv:Acts.18.2"],"in_print":1,"hitchcock":"a-p0.482"}
 {"id":"smith:ar","term":"Ar","refs":["kjv:Num.21.28","kjv:Isa.15.1"],"in_print":2,"hitchcock":"a-p0.484"}
 {"id":"smith:ara","term":"Ara","refs":[],"in_print":0,"hitchcock":"a-p0.486"}
@@ -533,7 +533,7 @@
 {"id":"smith:baanah","term":"Baanah","refs":[],"in_print":0,"hitchcock":"b-p0.40"}
 {"id":"smith:baara","term":"Baara","refs":["kjv:1Chr.8.8"],"in_print":1,"hitchcock":"b-p0.42"}
 {"id":"smith:baaseiah-or-basseiah","term":"Baaseiah, Or Basseiah","refs":["kjv:1Chr.6.40","kjv:1Chr.6.25"],"in_print":1}
-{"id":"smith:baasha","term":"Baasha","refs":["kjv:1Kgs.15.27","kjv:1Kgs.16.2","kjv:1Kgs.16.6","kjv:2Chr.16.1-6"],"in_print":3,"hitchcock":"b-p0.46"}
+{"id":"smith:baasha","term":"Baasha","refs":["kjv:1Kgs.15.27","kjv:1Kgs.16.2","kjv:Song.6.4","kjv:1Kgs.16.6","kjv:2Chr.16.1-6"],"in_print":4,"hitchcock":"b-p0.46"}
 {"id":"smith:babel","term":"Babel","refs":["kjv:Gen.10.6-10","kjv:Jer.51.31","kjv:Dan.5.1-31","kjv:Isa.21.1-9","kjv:Jer.51.39","kjv:Jer.51.37","kjv:Gen.11.4","kjv:Gen.11.5"],"in_print":8,"hitchcock":"b-p0.48"}
 {"id":"smith:babylon","term":"Babylon","refs":["kjv:Rev.14.8","kjv:Rev.17.18","kjv:Jer.51.7","kjv:1Pet.5.13"],"in_print":3,"hitchcock":"b-p0.50"}
 {"id":"smith:babylonians","term":"Babylonians","refs":["kjv:Ezra.4.9"],"in_print":1}
@@ -594,7 +594,7 @@
 {"id":"smith:bat","term":"Bat","refs":["kjv:Lev.11.19","kjv:Lev.14.18"],"in_print":1}
 {"id":"smith:bath","term":"Bath","refs":[],"in_print":0}
 {"id":"smith:bath-bathing","term":"Bath, Bathing","refs":["kjv:Lev.15.1-33","kjv:Lev.16.28","kjv:Lev.22.6","kjv:Num.19.7","kjv:Num.19.1-22","kjv:2Sam.11.2","kjv:2Sam.11.4","kjv:2Kgs.5.10","kjv:Ruth.3.3","kjv:2Sam.12.20","kjv:Esth.2.12","kjv:2Kgs.20.20","kjv:Neh.3.15","kjv:Neh.3.16","kjv:Isa.22.11","kjv:John.9.7","kjv:John.5.2"],"in_print":13,"apocrypha":["Jdt.10.3"]}
-{"id":"smith:bathrabbim","term":"Bathrabbim","refs":[],"in_print":0}
+{"id":"smith:bathrabbim","term":"Bathrabbim","refs":["kjv:Song.7.4"],"in_print":1}
 {"id":"smith:bathsheba-or-bathsheba","term":"Bathsheba, Or Bathsheba","refs":["kjv:2Sam.11.3","kjv:1Chr.3.5","kjv:2Sam.23.34","kjv:Matt.1.6","kjv:1Kgs.1.11","kjv:1Kgs.1.15","kjv:1Kgs.1.23","kjv:1Kgs.2.21-25"],"in_print":8}
 {"id":"smith:bathshua","term":"Bathshua","refs":[],"in_print":0}
 {"id":"smith:batteringram","term":"Batteringram","refs":["kjv:Ezek.4.2","kjv:Ezek.21.22"],"in_print":2}
@@ -615,7 +615,7 @@
 {"id":"smith:bebai","term":"Bebai","refs":[],"in_print":0,"hitchcock":"b-p0.102"}
 {"id":"smith:becher","term":"Becher","refs":[],"in_print":0,"hitchcock":"b-p0.104"}
 {"id":"smith:bechorath","term":"Bechorath","refs":["kjv:1Sam.9.1","kjv:1Chr.7.8"],"in_print":1,"hitchcock":"b-p0.106"}
-{"id":"smith:bed","term":"Bed","refs":["kjv:1Sam.19.13","kjv:Amos.6.4","kjv:Esth.1.6","kjv:2Kgs.4.10"],"in_print":4,"apocrypha":["Jdt.13.9"]}
+{"id":"smith:bed","term":"Bed","refs":["kjv:1Sam.19.13","kjv:Amos.6.4","kjv:Esth.1.6","kjv:Song.3.9","kjv:Song.3.10","kjv:2Kgs.4.10"],"in_print":6,"apocrypha":["Jdt.13.9"]}
 {"id":"smith:bedad","term":"Bedad","refs":["kjv:Gen.36.35","kjv:1Chr.1.46"],"in_print":1,"hitchcock":"b-p0.108"}
 {"id":"smith:bedan","term":"Bedan","refs":[],"in_print":0,"hitchcock":"b-p0.112"}
 {"id":"smith:bedeiah","term":"Bedeiah","refs":["kjv:Ezra.10.35"],"in_print":1}
@@ -707,7 +707,7 @@
 {"id":"smith:bethdiblathaim","term":"Bethdiblathaim","refs":["kjv:Jer.48.22"],"in_print":1,"hitchcock":"b-p0.234"}
 {"id":"smith:bethel","term":"Bethel","refs":["kjv:Gen.12.8","kjv:Gen.13.3","kjv:Gen.13.4","kjv:Gen.28.11-19","kjv:Gen.31.13","kjv:Gen.35.1-8","kjv:Judg.1.22","kjv:Judg.1.23","kjv:Judg.20.18","kjv:Judg.20.26","kjv:Judg.20.31","kjv:Judg.21.2","kjv:Judg.21.4","kjv:1Sam.7.16","kjv:2Chr.13.19","kjv:2Kgs.2.2","kjv:2Kgs.2.3","kjv:2Kgs.10.29","kjv:2Kgs.17.27","kjv:2Kgs.17.28"],"in_print":20,"hitchcock":"b-p0.236"}
 {"id":"smith:bethemek","term":"Bethemek","refs":["kjv:Josh.19.27"],"in_print":1,"hitchcock":"b-p0.238"}
-{"id":"smith:bether","term":"Bether","refs":[],"in_print":0,"hitchcock":"b-p0.240"}
+{"id":"smith:bether","term":"Bether","refs":["kjv:Song.2.17"],"in_print":1,"hitchcock":"b-p0.240"}
 {"id":"smith:bethesda","term":"Bethesda","refs":["kjv:John.5.2"],"in_print":1,"hitchcock":"b-p0.242"}
 {"id":"smith:bethezel","term":"Bethezel","refs":["kjv:Mic.1.11"],"in_print":1}
 {"id":"smith:bethgader","term":"Bethgader","refs":["kjv:1Chr.2.51"],"in_print":1,"hitchcock":"b-p0.246"}
@@ -806,7 +806,7 @@
 {"id":"smith:bozes","term":"Bozes","refs":["kjv:1Sam.14.4","kjv:1Sam.14.5"],"in_print":2}
 {"id":"smith:bozkath","term":"Bozkath","refs":["kjv:Josh.15.39","kjv:2Kgs.22.1"],"in_print":1}
 {"id":"smith:bozrah","term":"Bozrah","refs":[],"in_print":0,"hitchcock":"b-p0.352"}
-{"id":"smith:bracelet","term":"Bracelet","refs":["kjv:Gen.38.18","kjv:Gen.38.25"],"in_print":2}
+{"id":"smith:bracelet","term":"Bracelet","refs":["kjv:Gen.38.18","kjv:Gen.38.25","kjv:Song.5.14"],"in_print":3}
 {"id":"smith:bramble","term":"Bramble","refs":[],"in_print":0}
 {"id":"smith:brass","term":"Brass","refs":["kjv:Job.28.1-28","kjv:Gen.4.22"],"in_print":1}
 {"id":"smith:brazen-serpent","term":"Brazen Serpent","refs":[],"in_print":0}
@@ -853,7 +853,7 @@
 {"id":"smith:camel","term":"Camel","refs":["kjv:Gen.12.16","kjv:Gen.24.64","kjv:Gen.37.25","kjv:Judg.7.12","kjv:1Sam.27.9","kjv:1Kgs.19.2","kjv:2Chr.14.15","kjv:Job.1.3","kjv:Jer.49.29","kjv:Jer.49.32","kjv:Matt.3.4","kjv:Mark.1.6"],"in_print":9}
 {"id":"smith:camon","term":"Camon","refs":["kjv:Judg.10.5"],"in_print":1,"hitchcock":"c-p0.26"}
 {"id":"smith:camp","term":"Camp","refs":[],"in_print":0}
-{"id":"smith:camphire","term":"Camphire","refs":[],"in_print":0}
+{"id":"smith:camphire","term":"Camphire","refs":["kjv:Song.4.13"],"in_print":1}
 {"id":"smith:cana","term":"Cana","refs":["kjv:John.2.1","kjv:John.2.11","kjv:John.4.46","kjv:John.4.54","kjv:John.21.2"],"in_print":5,"hitchcock":"c-p0.28"}
 {"id":"smith:canaan","term":"Canaan","refs":[],"in_print":0,"hitchcock":"c-p0.30"}
 {"id":"smith:canaan-the-land-of","term":"Canaan, The Land Of","refs":["kjv:Exod.6.4","kjv:Lev.25.38"],"in_print":2}
@@ -898,7 +898,7 @@
 {"id":"smith:cauda","term":"Cauda","refs":["kjv:Acts.27.16"],"in_print":1}
 {"id":"smith:caul","term":"Caul","refs":["kjv:Isa.3.18"],"in_print":1}
 {"id":"smith:cave","term":"Cave","refs":["kjv:Gen.19.30","kjv:Gen.23.17","kjv:Josh.10.10","kjv:1Sam.22.1","kjv:1Sam.24.3","kjv:1Kgs.18.4","kjv:1Kgs.19.9","kjv:Matt.27.60","kjv:John.11.38"],"in_print":9}
-{"id":"smith:cedar","term":"Cedar","refs":["kjv:Lev.14.6","kjv:1Kgs.7.2","kjv:1Kgs.10.27","kjv:Ps.92.12","kjv:Isa.2.13","kjv:Ezek.31.3-6"],"in_print":6}
+{"id":"smith:cedar","term":"Cedar","refs":["kjv:Lev.14.6","kjv:1Kgs.7.2","kjv:1Kgs.10.27","kjv:Ps.92.12","kjv:Song.5.15","kjv:Isa.2.13","kjv:Ezek.31.3-6"],"in_print":7}
 {"id":"smith:cedron","term":"Cedron","refs":["kjv:John.18.1"],"in_print":1,"hitchcock":"c-p0.58"}
 {"id":"smith:ceiling","term":"Ceiling","refs":["kjv:1Kgs.6.9","kjv:1Kgs.6.15","kjv:1Kgs.7.3","kjv:2Chr.3.5","kjv:2Chr.3.9","kjv:Jer.22.14","kjv:Hag.1.4"],"in_print":5}
 {"id":"smith:celosyria","term":"Celosyria","refs":[],"in_print":0}
@@ -932,7 +932,7 @@
 {"id":"smith:chebar","term":"Chebar","refs":["kjv:Ezek.1.3","kjv:Ezek.3.15","kjv:Ezek.3.23","kjv:2Kgs.17.6"],"in_print":4,"hitchcock":"c-p0.72"}
 {"id":"smith:chebel","term":"Chebel","refs":["kjv:1Kgs.4.13"],"in_print":0}
 {"id":"smith:chedorlaomer-or-chedorlaomer","term":"Chedorlaomer, Or Chedorlaomer","refs":["kjv:Gen.14.17"],"in_print":1}
-{"id":"smith:cheese","term":"Cheese","refs":["kjv:1Sam.17.18","kjv:2Sam.17.29","kjv:Job.10.10","kjv:1Sam.17.1-58","kjv:2Sam.17.1-29"],"in_print":4}
+{"id":"smith:cheese","term":"Cheese","refs":["kjv:1Sam.17.18","kjv:2Sam.17.29","kjv:Job.10.10","kjv:1Sam.17.1-58","kjv:1Sam.2.1-36"],"in_print":4}
 {"id":"smith:chelal","term":"Chelal","refs":["kjv:Ezra.10.30"],"in_print":1,"hitchcock":"c-p0.76"}
 {"id":"smith:chelluh","term":"Chelluh","refs":["kjv:Ezra.10.35"],"in_print":1,"hitchcock":"c-p0.80"}
 {"id":"smith:chelub","term":"Chelub","refs":[],"in_print":0,"hitchcock":"c-p0.78"}
@@ -1200,7 +1200,7 @@
 {"id":"smith:dositheus","term":"Dositheus","refs":[],"in_print":0,"apocrypha":["AddEsth(vulgate:Esth.11.1)","AddEsth(vulgate:Esth.11.2)"]}
 {"id":"smith:dothaim","term":"Dothaim","refs":[],"in_print":0}
 {"id":"smith:dothan","term":"Dothan","refs":["kjv:Gen.37.17","kjv:2Kgs.6.13"],"in_print":2,"hitchcock":"d-p0.116"}
-{"id":"smith:dove","term":"Dove","refs":["kjv:Gen.8.1-22","kjv:Ps.55.6","kjv:Ps.68.13","kjv:Jer.48.28","kjv:Ezek.7.16","kjv:Isa.38.14","kjv:Isa.59.11","kjv:Nah.2.7","kjv:Matt.10.16","kjv:Hos.7.11","kjv:Isa.60.8"],"in_print":11}
+{"id":"smith:dove","term":"Dove","refs":["kjv:Gen.8.1-22","kjv:Ps.55.6","kjv:Ps.68.13","kjv:Jer.48.28","kjv:Ezek.7.16","kjv:Isa.38.14","kjv:Isa.59.11","kjv:Nah.2.7","kjv:Matt.10.16","kjv:Hos.7.11","kjv:Song.1.15","kjv:Song.2.14","kjv:Isa.60.8"],"in_print":13}
 {"id":"smith:doves-dung","term":"Doves Dung","refs":["kjv:2Kgs.6.25"],"in_print":1}
 {"id":"smith:dowry","term":"Dowry","refs":[],"in_print":0}
 {"id":"smith:drachm","term":"Drachm","refs":["kjv:Luke.15.8","kjv:Luke.15.9"],"in_print":2,"apocrypha":["2Macc.4.19","2Macc.10.20","2Macc.12.43"]}
@@ -1349,12 +1349,12 @@
 {"id":"smith:en","term":"En","refs":[],"in_print":0}
 {"id":"smith:enam","term":"Enam","refs":["kjv:Josh.15.34"],"in_print":1,"hitchcock":"e-p0.188"}
 {"id":"smith:enan","term":"Enan","refs":["kjv:Num.1.15"],"in_print":1,"hitchcock":"e-p0.190"}
-{"id":"smith:encampment","term":"Encampment","refs":["kjv:Gen.32.21","kjv:Exod.16.13","kjv:Gen.32.7","kjv:Gen.32.8","kjv:Exod.14.19","kjv:Josh.10.5","kjv:Josh.11.4","kjv:Num.2.1-34","kjv:Num.2.1","kjv:Num.1.52","kjv:Num.2.2","kjv:Num.2.17"],"in_print":12}
+{"id":"smith:encampment","term":"Encampment","refs":["kjv:Gen.32.21","kjv:Exod.16.13","kjv:Gen.32.7","kjv:Gen.32.8","kjv:Exod.14.19","kjv:Josh.10.5","kjv:Josh.11.4","kjv:Num.2.1-34","kjv:Num.3.1-51","kjv:Num.2.1","kjv:Num.1.52","kjv:Num.2.2","kjv:Num.2.17"],"in_print":13}
 {"id":"smith:enchantments","term":"Enchantments","refs":["kjv:Exod.7.11","kjv:Exod.7.22","kjv:Exod.8.7","kjv:2Kgs.9.22","kjv:Mic.5.12","kjv:Eccl.10.11","kjv:Num.24.1","kjv:Isa.47.9","kjv:Isa.47.12","kjv:Lev.19.26","kjv:2Kgs.17.17","kjv:Acts.13.6","kjv:Acts.13.8"],"in_print":13}
 {"id":"smith:endor","term":"Endor","refs":["kjv:Josh.17.11","kjv:1Sam.28.7"],"in_print":2,"hitchcock":"e-p0.192"}
 {"id":"smith:eneglaim","term":"Eneglaim","refs":["kjv:Ezek.47.10"],"in_print":1,"hitchcock":"e-p0.196"}
 {"id":"smith:engannim","term":"Engannim","refs":[],"in_print":0,"hitchcock":"e-p0.198"}
-{"id":"smith:engedi-or-engedi","term":"Engedi Or Engedi","refs":["kjv:Josh.15.62","kjv:Ezek.47.10","kjv:2Chr.20.2","kjv:Gen.14.7","kjv:1Sam.24.1-4"],"in_print":5}
+{"id":"smith:engedi-or-engedi","term":"Engedi Or Engedi","refs":["kjv:Josh.15.62","kjv:Ezek.47.10","kjv:2Chr.20.2","kjv:Gen.14.7","kjv:1Sam.24.1-4","kjv:Song.1.14"],"in_print":6}
 {"id":"smith:engine","term":"Engine","refs":["kjv:2Chr.26.15","kjv:Ezek.26.9","kjv:Ezek.4.2","kjv:Ezek.21.22"],"in_print":4}
 {"id":"smith:engraver","term":"Engraver","refs":["kjv:Exod.28.11","kjv:Exod.28.21","kjv:Exod.28.36"],"in_print":3}
 {"id":"smith:enhaddah","term":"Enhaddah","refs":["kjv:Josh.19.21"],"in_print":1,"hitchcock":"e-p0.202"}
@@ -1369,7 +1369,7 @@
 {"id":"smith:enrimmon","term":"Enrimmon","refs":["kjv:Neh.11.29","kjv:Josh.15.32","kjv:Josh.19.7","kjv:1Chr.4.32"],"in_print":4,"hitchcock":"e-p0.216"}
 {"id":"smith:enrogel","term":"Enrogel","refs":["kjv:Josh.15.7","kjv:Josh.18.16"],"in_print":2,"hitchcock":"e-p0.218"}
 {"id":"smith:enshemesh","term":"Enshemesh","refs":["kjv:Josh.15.7","kjv:Josh.18.17"],"in_print":2,"hitchcock":"e-p0.220"}
-{"id":"smith:ensign","term":"Ensign","refs":["kjv:Isa.13.2","kjv:Isa.18.3"],"in_print":2}
+{"id":"smith:ensign","term":"Ensign","refs":["kjv:Song.2.4","kjv:Isa.13.2","kjv:Isa.18.3"],"in_print":3}
 {"id":"smith:entappuah","term":"Entappuah","refs":["kjv:Josh.17.7"],"in_print":1,"hitchcock":"e-p0.222"}
 {"id":"smith:epah","term":"Epah","refs":["kjv:Gen.25.4","kjv:1Chr.1.33","kjv:Isa.60.6"],"in_print":0}
 {"id":"smith:epaphras","term":"Epaphras","refs":["kjv:Col.1.7","kjv:Col.1.8","kjv:Col.4.12"],"in_print":3,"hitchcock":"e-p0.224"}
@@ -1556,7 +1556,7 @@
 {"id":"smith:galilee","term":"Galilee","refs":["kjv:Josh.20.7","kjv:1Kgs.9.11","kjv:Luke.17.11","kjv:Acts.9.31","kjv:Isa.9.1","kjv:Matt.4.16"],"in_print":3,"hitchcock":"g-p0.28"}
 {"id":"smith:galilee-sea-of","term":"Galilee, Sea Of","refs":["kjv:Matt.4.18","kjv:John.6.1","kjv:Luke.5.1","kjv:Num.34.11","kjv:Josh.12.3","kjv:Josh.19.35"],"in_print":6}
 {"id":"smith:gall","term":"Gall","refs":[],"in_print":0}
-{"id":"smith:gallery","term":"Gallery","refs":["kjv:Ezek.41.15"],"in_print":1}
+{"id":"smith:gallery","term":"Gallery","refs":["kjv:Song.1.17","kjv:Ezek.41.15"],"in_print":2}
 {"id":"smith:galley","term":"Galley","refs":[],"in_print":0}
 {"id":"smith:gallim","term":"Gallim","refs":["kjv:1Sam.25.44","kjv:Isa.10.30"],"in_print":2,"hitchcock":"g-p0.30"}
 {"id":"smith:gallio","term":"Gallio","refs":["kjv:Acts.18.12"],"in_print":1,"hitchcock":"g-p0.32"}
@@ -1565,7 +1565,7 @@
 {"id":"smith:games","term":"Games","refs":["kjv:1Cor.15.32","kjv:1Tim.6.12","kjv:2Tim.4.7","kjv:1Cor.9.25","kjv:2Tim.2.5","kjv:1Tim.4.8","kjv:1Cor.9.27","kjv:Heb.12.1","kjv:1Cor.4.9","kjv:Heb.10.33","kjv:2Tim.4.8","kjv:Col.3.15","kjv:1Cor.9.24","kjv:2Tim.2.6"],"in_print":10}
 {"id":"smith:gammadim","term":"Gammadim","refs":["kjv:Ezek.27.11"],"in_print":1}
 {"id":"smith:gamul","term":"Gamul","refs":["kjv:1Chr.24.17"],"in_print":1,"hitchcock":"g-p0.38"}
-{"id":"smith:garden","term":"Garden","refs":["kjv:Isa.5.5","kjv:Prov.24.31","kjv:Isa.1.8","kjv:Lam.2.6","kjv:Mark.12.1","kjv:Job.27.18","kjv:Exod.23.11","kjv:Jer.29.5","kjv:Amos.9.14","kjv:1Kgs.21.2"],"in_print":9}
+{"id":"smith:garden","term":"Garden","refs":["kjv:Isa.5.5","kjv:Prov.24.31","kjv:Isa.1.8","kjv:Lam.2.6","kjv:Mark.12.1","kjv:Job.27.18","kjv:Song.6.12","kjv:Exod.23.11","kjv:Jer.29.5","kjv:Amos.9.14","kjv:1Kgs.21.2"],"in_print":10}
 {"id":"smith:gareb","term":"Gareb","refs":["kjv:2Sam.23.38"],"in_print":1,"hitchcock":"g-p0.40"}
 {"id":"smith:gareb-the-hill","term":"Gareb, The Hill","refs":["kjv:Jer.31.39"],"in_print":1}
 {"id":"smith:garlic","term":"Garlic","refs":["kjv:Num.11.5"],"in_print":1}
@@ -1669,7 +1669,7 @@
 {"id":"smith:gittahhepher","term":"Gittahhepher","refs":["kjv:Josh.19.13"],"in_print":1,"hitchcock":"g-p0.146"}
 {"id":"smith:gittaim","term":"Gittaim","refs":[],"in_print":0,"hitchcock":"g-p0.148"}
 {"id":"smith:gittites","term":"Gittites","refs":["kjv:2Sam.15.18","kjv:2Sam.15.19","kjv:2Sam.4.3","kjv:Neh.11.33"],"in_print":4,"hitchcock":"g-p0.150"}
-{"id":"smith:gittith","term":"Gittith","refs":["kjv:Ps.8.1-9"],"in_print":1}
+{"id":"smith:gittith","term":"Gittith","refs":["kjv:Ps.8.1-9","kjv:Ps.81.1-16","kjv:Ps.84.1-12"],"in_print":3}
 {"id":"smith:gizonites-the","term":"Gizonites, The","refs":["kjv:1Chr.11.34"],"in_print":1}
 {"id":"smith:glass","term":"Glass","refs":["kjv:Job.28.17","kjv:Rev.4.6","kjv:Rev.15.2","kjv:Rev.21.18"],"in_print":4}
 {"id":"smith:gleaning","term":"Gleaning","refs":[],"in_print":0}
@@ -1684,7 +1684,7 @@
 {"id":"smith:god","term":"God","refs":["kjv:Gen.17.1","kjv:Gen.28.3","kjv:Exod.6.3","kjv:Lev.24.16","kjv:Exod.3.14"],"in_print":5}
 {"id":"smith:gog","term":"Gog","refs":[],"in_print":0,"hitchcock":"g-p0.156"}
 {"id":"smith:golan","term":"Golan","refs":["kjv:Josh.21.27","kjv:Josh.20.8"],"in_print":1,"hitchcock":"g-p0.158"}
-{"id":"smith:gold","term":"Gold","refs":["kjv:Gen.2.11","kjv:Gen.24.22","kjv:Gen.43.21","kjv:1Chr.22.14","kjv:2Chr.1.15","kjv:2Chr.9.9","kjv:Dan.3.1","kjv:Nah.2.9","kjv:1Kgs.6.22","kjv:Esth.1.6","kjv:Jer.10.9","kjv:1Kgs.9.28","kjv:1Kgs.10.1","kjv:Job.28.16"],"in_print":12}
+{"id":"smith:gold","term":"Gold","refs":["kjv:Gen.2.11","kjv:Gen.24.22","kjv:Gen.43.21","kjv:1Chr.22.14","kjv:2Chr.1.15","kjv:2Chr.9.9","kjv:Dan.3.1","kjv:Nah.2.9","kjv:1Kgs.6.22","kjv:Esth.1.6","kjv:Song.3.9","kjv:Song.3.10","kjv:Jer.10.9","kjv:1Kgs.9.28","kjv:1Kgs.10.1","kjv:Job.28.16"],"in_print":14}
 {"id":"smith:golgotha","term":"Golgotha","refs":["kjv:Matt.27.33","kjv:Mark.15.22","kjv:John.19.17"],"in_print":2,"hitchcock":"g-p0.160"}
 {"id":"smith:goliath","term":"Goliath","refs":["kjv:1Sam.17.1","kjv:2Sam.21.22","kjv:2Sam.21.19"],"in_print":1,"hitchcock":"g-p0.162"}
 {"id":"smith:gomer","term":"Gomer","refs":[],"in_print":0,"hitchcock":"g-p0.164"}
@@ -1747,7 +1747,7 @@
 {"id":"smith:haggites-the","term":"Haggites, The","refs":["kjv:Num.26.15"],"in_print":1}
 {"id":"smith:haggith","term":"Haggith","refs":["kjv:2Sam.3.4","kjv:1Kgs.1.6"],"in_print":1,"hitchcock":"h-p0.50"}
 {"id":"smith:hai","term":"Hai","refs":[],"in_print":0}
-{"id":"smith:hair","term":"Hair","refs":["kjv:2Sam.14.26","kjv:Isa.3.17","kjv:Isa.3.24","kjv:Isa.15.2","kjv:Jer.7.29","kjv:Ezra.9.3","kjv:Dan.7.9","kjv:Rev.1.14","kjv:2Kgs.9.30","kjv:1Tim.2.9","kjv:1Pet.3.3","kjv:Judg.16.13","kjv:Judg.16.19","kjv:Ruth.3.3","kjv:2Sam.14.2","kjv:Ps.23.6","kjv:Ps.92.10","kjv:Eccl.9.8","kjv:Luke.7.46","kjv:Matt.5.36"],"in_print":17}
+{"id":"smith:hair","term":"Hair","refs":["kjv:2Sam.14.26","kjv:Isa.3.17","kjv:Isa.3.24","kjv:Isa.15.2","kjv:Jer.7.29","kjv:Ezra.9.3","kjv:Song.5.11","kjv:Song.1.5","kjv:Song.4.1","kjv:Dan.7.9","kjv:Rev.1.14","kjv:2Kgs.9.30","kjv:1Tim.2.9","kjv:1Pet.3.3","kjv:Judg.16.13","kjv:Judg.16.19","kjv:Ruth.3.3","kjv:2Sam.14.2","kjv:Ps.23.6","kjv:Ps.92.10","kjv:Eccl.9.8","kjv:Luke.7.46","kjv:Matt.5.36"],"in_print":20}
 {"id":"smith:hakkatan","term":"Hakkatan","refs":["kjv:Ezra.8.12"],"in_print":1,"hitchcock":"h-p0.52"}
 {"id":"smith:hakkoz","term":"Hakkoz","refs":["kjv:1Chr.24.10","kjv:Ezra.2.61"],"in_print":2,"hitchcock":"h-p0.54"}
 {"id":"smith:hakupha","term":"Hakupha","refs":["kjv:Ezra.2.61","kjv:Neh.7.63"],"in_print":0,"hitchcock":"h-p0.56"}
@@ -1789,7 +1789,7 @@
 {"id":"smith:hanes","term":"Hanes","refs":["kjv:Isa.30.4"],"in_print":1,"hitchcock":"h-p0.106"}
 {"id":"smith:hanging-hangings","term":"Hanging, Hangings","refs":[],"in_print":0}
 {"id":"smith:haniel","term":"Haniel","refs":["kjv:1Chr.7.39"],"in_print":1,"hitchcock":"h-p0.108"}
-{"id":"smith:hannah","term":"Hannah","refs":["kjv:1Sam.1.1-28","kjv:1Sam.2.1-10","kjv:Luke.1.46-55","kjv:Ps.113.1"],"in_print":3,"hitchcock":"h-p0.110"}
+{"id":"smith:hannah","term":"Hannah","refs":["kjv:1Sam.1.1-28","kjv:1Sam.2.1-36","kjv:1Sam.2.1-10","kjv:Luke.1.46-55","kjv:Ps.113.1"],"in_print":4,"hitchcock":"h-p0.110"}
 {"id":"smith:hannathon","term":"Hannathon","refs":["kjv:Josh.19.14"],"in_print":1,"hitchcock":"h-p0.112"}
 {"id":"smith:hanoch","term":"Hanoch","refs":[],"in_print":0,"hitchcock":"h-p0.116"}
 {"id":"smith:hanun","term":"Hanun","refs":[],"in_print":0,"hitchcock":"h-p0.118"}
@@ -1926,7 +1926,7 @@
 {"id":"smith:herodion","term":"Herodion","refs":["kjv:Rom.16.11"],"in_print":0,"hitchcock":"h-p0.278"}
 {"id":"smith:heron","term":"Heron","refs":["kjv:Lev.11.19","kjv:Lev.14.18"],"in_print":1}
 {"id":"smith:hesed","term":"Hesed","refs":["kjv:1Kgs.4.10"],"in_print":1}
-{"id":"smith:heshbon","term":"Heshbon","refs":["kjv:Num.21.26","kjv:Josh.13.17"],"in_print":2,"hitchcock":"h-p0.280"}
+{"id":"smith:heshbon","term":"Heshbon","refs":["kjv:Num.21.26","kjv:Josh.13.17","kjv:Song.7.4"],"in_print":3,"hitchcock":"h-p0.280"}
 {"id":"smith:heshmon","term":"Heshmon","refs":["kjv:Josh.15.27"],"in_print":1,"hitchcock":"h-p0.282"}
 {"id":"smith:hesron-hezron","term":"Hesron, Hezron","refs":["kjv:Num.26.6"],"in_print":1}
 {"id":"smith:heth","term":"Heth","refs":["kjv:Gen.10.15","kjv:1Chr.1.13","kjv:Gen.24.3","kjv:Gen.24.4","kjv:Gen.28.1","kjv:Gen.28.2"],"in_print":5,"hitchcock":"h-p0.284"}
@@ -1950,7 +1950,7 @@
 {"id":"smith:hillel","term":"Hillel","refs":["kjv:Judg.12.13","kjv:Judg.12.15"],"in_print":0,"hitchcock":"h-p0.310"}
 {"id":"smith:hills","term":"Hills","refs":["kjv:Exod.24.4","kjv:Exod.24.12","kjv:Exod.24.13","kjv:Exod.24.18","kjv:Josh.9.1","kjv:Josh.10.40","kjv:Josh.11.16","kjv:Num.13.29"],"in_print":5}
 {"id":"smith:hin","term":"Hin","refs":[],"in_print":0}
-{"id":"smith:hind","term":"Hind","refs":["kjv:Gen.49.21","kjv:Ps.18.33","kjv:Prov.5.19","kjv:Ps.42.1","kjv:Jer.14.5","kjv:Job.39.1","kjv:Ps.29.9"],"in_print":7}
+{"id":"smith:hind","term":"Hind","refs":["kjv:Gen.49.21","kjv:Ps.18.33","kjv:Prov.5.19","kjv:Song.2.7","kjv:Song.3.5","kjv:Ps.42.1","kjv:Jer.14.5","kjv:Job.39.1","kjv:Ps.29.9"],"in_print":9}
 {"id":"smith:hinge","term":"Hinge","refs":["kjv:1Kgs.7.50","kjv:Prov.26.14"],"in_print":2}
 {"id":"smith:hinnom","term":"Hinnom","refs":["kjv:Josh.15.8","kjv:Josh.18.16","kjv:1Kgs.11.7","kjv:2Kgs.16.3","kjv:2Chr.28.3","kjv:2Chr.33.6","kjv:2Kgs.23.10","kjv:2Kgs.23.13","kjv:2Kgs.23.14","kjv:2Chr.34.4","kjv:2Chr.34.5","kjv:Matt.5.29","kjv:Matt.10.28","kjv:Matt.23.15","kjv:Mark.9.43","kjv:Luke.12.5"],"in_print":12,"hitchcock":"h-p0.312"}
 {"id":"smith:hippopotamus","term":"Hippopotamus","refs":[],"in_print":0}
@@ -2547,7 +2547,7 @@
 {"id":"smith:kishion","term":"Kishion","refs":["kjv:Josh.19.20","kjv:Josh.21.28"],"in_print":2,"hitchcock":"k-p0.100"}
 {"id":"smith:kishon","term":"Kishon","refs":["kjv:Judg.4.1-24","kjv:1Kgs.18.40"],"in_print":2,"hitchcock":"k-p0.102"}
 {"id":"smith:kison","term":"Kison","refs":["kjv:Ps.83.9"],"in_print":1}
-{"id":"smith:kiss","term":"Kiss","refs":["kjv:Gen.29.11","kjv:Rom.16.16","kjv:1Cor.16.20","kjv:2Cor.13.12","kjv:1Thess.5.6","kjv:1Pet.5.14","kjv:Gen.41.40","kjv:1Sam.24.8","kjv:Ps.72.9","kjv:1Kgs.19.18","kjv:Hos.13.2"],"in_print":8}
+{"id":"smith:kiss","term":"Kiss","refs":["kjv:Gen.29.11","kjv:Song.8.1","kjv:Rom.16.16","kjv:1Cor.16.20","kjv:2Cor.13.12","kjv:1Thess.5.6","kjv:1Pet.5.14","kjv:Gen.41.40","kjv:1Sam.24.8","kjv:Ps.72.9","kjv:1Kgs.19.18","kjv:Hos.13.2"],"in_print":9}
 {"id":"smith:kite","term":"Kite","refs":["kjv:Lev.11.14","kjv:Lev.14.13","kjv:Job.28.7"],"in_print":2}
 {"id":"smith:kithlish","term":"Kithlish","refs":["kjv:Josh.15.40"],"in_print":1,"hitchcock":"k-p0.104"}
 {"id":"smith:kitron","term":"Kitron","refs":["kjv:Judg.1.30"],"in_print":1,"hitchcock":"k-p0.106"}
@@ -2559,7 +2559,7 @@
 {"id":"smith:kohath","term":"Kohath","refs":["kjv:Gen.46.11","kjv:Exod.6.16","kjv:Num.4.1","kjv:Exod.6.20","kjv:Exod.6.18"],"in_print":4,"hitchcock":"k-p0.112"}
 {"id":"smith:kolaiah","term":"Kolaiah","refs":[],"in_print":0}
 {"id":"smith:korah","term":"Korah","refs":[],"in_print":0,"hitchcock":"k-p0.116"}
-{"id":"smith:korahite","term":"Korahite","refs":["kjv:1Chr.9.19","kjv:1Chr.9.31","kjv:2Chr.20.19","kjv:Ps.43.1-5","kjv:Ps.42.1-11"],"in_print":5}
+{"id":"smith:korahite","term":"Korahite","refs":["kjv:1Chr.9.19","kjv:1Chr.9.31","kjv:2Chr.20.19","kjv:Ps.43.1-5","kjv:Ps.42.1-11","kjv:Ps.44.1-26"],"in_print":6}
 {"id":"smith:kore","term":"Kore","refs":[],"in_print":0}
 {"id":"smith:koz","term":"Koz","refs":["kjv:Ezra.2.61","kjv:Neh.3.4","kjv:Neh.3.21"],"in_print":3}
 {"id":"smith:kushaiah","term":"Kushaiah","refs":["kjv:1Chr.15.17"],"in_print":1,"hitchcock":"k-p0.118"}
@@ -2621,7 +2621,7 @@
 {"id":"smith:lehi","term":"Lehi","refs":["kjv:Judg.15.9","kjv:Judg.15.14","kjv:Judg.15.19"],"in_print":3,"hitchcock":"l-p0.48"}
 {"id":"smith:lemuel","term":"Lemuel","refs":["kjv:Prov.31.1-9","kjv:Prov.30.1"],"in_print":1,"hitchcock":"l-p0.52"}
 {"id":"smith:lentils","term":"Lentils","refs":["kjv:Gen.25.34"],"in_print":1}
-{"id":"smith:leopard","term":"Leopard","refs":["kjv:Isa.11.6","kjv:Jer.5.6","kjv:Jer.13.23","kjv:Dan.7.6","kjv:Hos.13.7","kjv:Rev.13.2"],"in_print":6,"apocrypha":["Sir.28.23"]}
+{"id":"smith:leopard","term":"Leopard","refs":["kjv:Song.4.8","kjv:Isa.11.6","kjv:Jer.5.6","kjv:Jer.13.23","kjv:Dan.7.6","kjv:Hos.13.7","kjv:Rev.13.2"],"in_print":7,"apocrypha":["Sir.28.23"]}
 {"id":"smith:leper-leprosy","term":"Leper, Leprosy","refs":["kjv:Exod.4.6","kjv:Num.12.10","kjv:2Kgs.5.1","kjv:2Kgs.5.27","kjv:Lev.13.1","kjv:Lev.14.1","kjv:Lev.13.12","kjv:Lev.13.13","kjv:Lev.13.16","kjv:Lev.13.17","kjv:Lev.13.2","kjv:Lev.13.3","kjv:Lev.13.4","kjv:Lev.13.10","kjv:Lev.13.20","kjv:Lev.13.25","kjv:Lev.13.30","kjv:Lev.13.14","kjv:Lev.13.15"],"in_print":8}
 {"id":"smith:leshem","term":"Leshem","refs":["kjv:Josh.19.47"],"in_print":1,"hitchcock":"l-p0.54"}
 {"id":"smith:letushim","term":"Letushim","refs":["kjv:Gen.25.3"],"in_print":1,"hitchcock":"l-p0.56"}
@@ -2640,7 +2640,7 @@
 {"id":"smith:lign-aloes","term":"Lign Aloes","refs":[],"in_print":0}
 {"id":"smith:ligure","term":"Ligure","refs":["kjv:Exod.28.19","kjv:Exod.39.12"],"in_print":2}
 {"id":"smith:likhi","term":"Likhi","refs":["kjv:1Chr.7.19"],"in_print":1}
-{"id":"smith:lily","term":"Lily","refs":["kjv:Matt.6.28","kjv:Luke.12.27","kjv:Hos.14.5"],"in_print":3,"apocrypha":["Sir.39.14"]}
+{"id":"smith:lily","term":"Lily","refs":["kjv:Matt.6.28","kjv:Luke.12.27","kjv:Song.2.1","kjv:Hos.14.5","kjv:Song.5.13"],"in_print":5,"apocrypha":["Sir.39.14"]}
 {"id":"smith:lime","term":"Lime","refs":["kjv:Isa.33.12","kjv:Amos.2.1"],"in_print":2}
 {"id":"smith:linen","term":"Linen","refs":[],"in_print":0}
 {"id":"smith:lintel","term":"Lintel","refs":[],"in_print":0}
@@ -2794,7 +2794,7 @@
 {"id":"smith:mary-the-virgin","term":"Mary The Virgin","refs":["kjv:Ps.132.11","kjv:Luke.1.32","kjv:Rom.1.3","kjv:John.19.25","kjv:Luke.1.36"],"in_print":0}
 {"id":"smith:mary-mother-of-mark","term":"Mary, Mother Of Mark","refs":["kjv:Col.4.10","kjv:Acts.4.36","kjv:Acts.12.15","kjv:Acts.12.12"],"in_print":3}
 {"id":"smith:mary-sister-of-lazarus","term":"Mary, Sister Of Lazarus","refs":["kjv:Luke.10.40","kjv:John.11.1","kjv:John.12.3"],"in_print":2}
-{"id":"smith:maschil","term":"Maschil","refs":["kjv:Ps.32.1-11","kjv:Ps.47.7"],"in_print":1}
+{"id":"smith:maschil","term":"Maschil","refs":["kjv:Ps.32.1-11","kjv:Ps.45.1-17","kjv:Ps.44.1-26","kjv:Ps.52.1-9","kjv:Ps.47.7"],"in_print":1}
 {"id":"smith:mash","term":"Mash","refs":["kjv:Gen.10.23","kjv:1Chr.1.17"],"in_print":2,"hitchcock":"m-p0.140"}
 {"id":"smith:mashal","term":"Mashal","refs":["kjv:1Chr.6.74"],"in_print":1,"hitchcock":"m-p0.142"}
 {"id":"smith:massa","term":"Massa","refs":["kjv:Gen.26.14","kjv:1Chr.1.30"],"in_print":0,"hitchcock":"m-p0.146"}
@@ -2833,7 +2833,7 @@
 {"id":"smith:medeba","term":"Medeba","refs":["kjv:Num.21.30","kjv:Josh.13.9","kjv:Isa.15.2"],"in_print":3,"hitchcock":"m-p0.186"}
 {"id":"smith:medes-media","term":"Medes, Media","refs":[],"in_print":0}
 {"id":"smith:median-the","term":"Median, The","refs":["kjv:Dan.9.1","kjv:Dan.11.1","kjv:Dan.5.31"],"in_print":2}
-{"id":"smith:medicine","term":"Medicine","refs":["kjv:Exod.1.1","kjv:Gen.29.17","kjv:2Kgs.6.18","kjv:Lev.13.23","kjv:Lev.21.20","kjv:Lev.22.22","kjv:2Kgs.4.19","kjv:Num.21.6","kjv:Exod.4.25","kjv:Josh.5.2","kjv:Exod.21.6","kjv:Ezek.30.21","kjv:Job.2.8","kjv:Exod.30.23-25","kjv:Exod.32.20","kjv:Prov.25.20","kjv:Exod.30.35","kjv:Eccl.10.1","kjv:Matt.15.2","kjv:Mark.7.5","kjv:Luke.11.38","kjv:Lev.15.13","kjv:2Sam.11.2","kjv:2Kgs.5.10"],"in_print":21,"apocrypha":["Sir.38.1","Sir.38.3","Sir.38.12","2Macc.9.5"]}
+{"id":"smith:medicine","term":"Medicine","refs":["kjv:Exod.1.1","kjv:Gen.29.17","kjv:2Kgs.6.18","kjv:Lev.13.23","kjv:Lev.21.20","kjv:Lev.22.22","kjv:2Kgs.4.19","kjv:Num.21.6","kjv:Exod.4.25","kjv:Josh.5.2","kjv:Exod.21.6","kjv:Ezek.30.21","kjv:Job.2.8","kjv:Exod.30.23-25","kjv:Exod.32.20","kjv:Prov.25.20","kjv:Exod.30.35","kjv:Eccl.10.1","kjv:Song.3.6","kjv:Matt.15.2","kjv:Mark.7.5","kjv:Luke.11.38","kjv:Lev.15.13","kjv:2Sam.11.2","kjv:2Kgs.5.10"],"in_print":22,"apocrypha":["Sir.38.1","Sir.38.3","Sir.38.12","2Macc.9.5"]}
 {"id":"smith:megiddo","term":"Megiddo","refs":["kjv:Josh.12.21","kjv:2Kgs.23.29","kjv:2Chr.35.22-24","kjv:Judg.5.19"],"in_print":2,"apocrypha":["Jdt.4.7"],"hitchcock":"m-p0.190"}
 {"id":"smith:mehetabel","term":"Mehetabel","refs":["kjv:Gen.36.39"],"in_print":0,"hitchcock":"m-p0.194"}
 {"id":"smith:mehetableel","term":"Mehetableel","refs":["kjv:Neh.6.10"],"in_print":1}
@@ -2899,7 +2899,7 @@
 {"id":"smith:meshullemeth","term":"Meshullemeth","refs":["kjv:2Kgs.21.19"],"in_print":1}
 {"id":"smith:mesobaite-the","term":"Mesobaite, The","refs":["kjv:1Chr.11.47"],"in_print":1}
 {"id":"smith:mesopotamia","term":"Mesopotamia","refs":["kjv:Gen.24.10","kjv:Judg.3.1","kjv:1Chr.19.6"],"in_print":2,"hitchcock":"m-p0.288"}
-{"id":"smith:messiah","term":"Messiah","refs":["kjv:1Sam.2.10","kjv:1Sam.2.35","kjv:1Sam.12.3","kjv:1Sam.12.5","kjv:John.1.41","kjv:John.4.25","kjv:Gen.3.15","kjv:Gen.9.26","kjv:Gen.12.2","kjv:Gen.12.3","kjv:Gen.49.10","kjv:Num.24.17-19","kjv:Mic.5.2","kjv:Matt.2.6","kjv:Zech.12.1-14","kjv:Mal.3.1","kjv:Mal.4.5","kjv:Mal.4.6","kjv:Matt.20.20","kjv:Matt.20.21","kjv:Luke.24.21","kjv:Acts.1.6","kjv:Luke.2.30","kjv:Luke.23.42"],"in_print":20,"hitchcock":"m-p0.290"}
+{"id":"smith:messiah","term":"Messiah","refs":["kjv:1Sam.2.10","kjv:1Sam.2.35","kjv:1Sam.12.3","kjv:1Sam.12.5","kjv:John.1.41","kjv:John.4.25","kjv:Gen.3.15","kjv:Gen.9.26","kjv:Gen.12.2","kjv:Gen.12.3","kjv:Gen.49.10","kjv:Num.24.17-19","kjv:Mic.5.2","kjv:Matt.2.6","kjv:Zech.12.1-14","kjv:Mal.3.1","kjv:Mal.4.5","kjv:Mal.4.6","kjv:Matt.20.20","kjv:Matt.20.21","kjv:Luke.24.21","kjv:Acts.1.6","kjv:Luke.2.30","kjv:Luke.23.42","kjv:Ps.2.1-12","kjv:Ps.16.1-11","kjv:Ps.22.1-31","kjv:Ps.40.1-17","kjv:Ps.110.1-7","kjv:Ps.21.1-13","kjv:Isa.11.1-16","kjv:Isa.40.1-31"],"in_print":20,"hitchcock":"m-p0.290"}
 {"id":"smith:messias","term":"Messias","refs":["kjv:John.1.41","kjv:John.4.25"],"in_print":2}
 {"id":"smith:metals","term":"Metals","refs":["kjv:Gen.2.11-12","kjv:Gen.13.2","kjv:Num.31.22","kjv:Exod.15.10","kjv:2Sam.22.35","kjv:Job.20.24","kjv:Ps.18.34","kjv:Jer.15.12","kjv:Josh.7.21","kjv:Num.31.48-54","kjv:Judg.8.26","kjv:Gen.23.16","kjv:1Kgs.10.21","kjv:1Kgs.10.27","kjv:Job.28.2","kjv:1Kgs.7.47","kjv:2Sam.21.16","kjv:1Sam.17.5","kjv:1Sam.17.6","kjv:1Sam.17.38"],"in_print":20}
 {"id":"smith:methegammah","term":"Methegammah","refs":["kjv:2Sam.8.1","kjv:2Sam.20.19"],"in_print":2,"hitchcock":"m-p0.292"}
@@ -2978,7 +2978,7 @@
 {"id":"smith:mizraim-or-mizraim","term":"Mizraim, Or Mizraim","refs":["kjv:Gen.10.1"],"in_print":0}
 {"id":"smith:mizzah","term":"Mizzah","refs":["kjv:Gen.36.13","kjv:Gen.36.17","kjv:1Chr.1.37"],"in_print":2,"hitchcock":"m-p0.396"}
 {"id":"smith:mnason","term":"Mnason","refs":["kjv:Acts.21.16","kjv:Acts.4.36"],"in_print":2,"hitchcock":"m-p0.398"}
-{"id":"smith:moab","term":"Moab","refs":["kjv:Num.21.13","kjv:Judg.11.18","kjv:Ruth.1.1","kjv:Ruth.1.2","kjv:Ruth.1.6","kjv:Num.22.1","kjv:Judg.3.12-30","kjv:1Sam.22.3","kjv:1Sam.22.4","kjv:2Sam.8.2","kjv:1Chr.18.2","kjv:2Chr.22.1","kjv:Isa.15.1-9"],"in_print":10,"hitchcock":"m-p0.400"}
+{"id":"smith:moab","term":"Moab","refs":["kjv:Num.21.13","kjv:Judg.11.18","kjv:Ruth.1.1","kjv:Ruth.1.2","kjv:Ruth.1.6","kjv:Num.22.1","kjv:Judg.3.12-30","kjv:1Sam.22.3","kjv:1Sam.22.4","kjv:2Sam.8.2","kjv:1Chr.18.2","kjv:2Chr.22.1","kjv:Isa.15.1-9","kjv:Isa.16.1-14"],"in_print":10,"hitchcock":"m-p0.400"}
 {"id":"smith:moabite-stone-the","term":"Moabite Stone, The","refs":["kjv:2Kgs.3.4"],"in_print":1}
 {"id":"smith:moadiah","term":"Moadiah","refs":["kjv:Neh.12.17"],"in_print":1}
 {"id":"smith:modin","term":"Modin","refs":[],"in_print":0,"apocrypha":["1Macc.13.25","2Macc.13.14","1Macc.16.4"]}
@@ -3164,7 +3164,7 @@
 {"id":"smith:numbers","term":"Numbers","refs":["kjv:Num.1.1","kjv:Num.10.10"],"in_print":1}
 {"id":"smith:nun","term":"Nun","refs":["kjv:Exod.33.11","kjv:1Chr.7.1"],"in_print":1,"hitchcock":"n-p0.202"}
 {"id":"smith:nurse","term":"Nurse","refs":["kjv:Gen.24.59","kjv:Gen.36.8","kjv:2Sam.4.4","kjv:2Kgs.11.2","kjv:Num.11.12","kjv:Ruth.4.16","kjv:Isa.49.23"],"in_print":5}
-{"id":"smith:nuts","term":"Nuts","refs":["kjv:Gen.43.11"],"in_print":1}
+{"id":"smith:nuts","term":"Nuts","refs":["kjv:Gen.43.11","kjv:Song.6.11"],"in_print":2}
 {"id":"smith:nym-phas","term":"Nym Phas","refs":["kjv:Col.4.15"],"in_print":1,"hitchcock":"n-p0.204"}
 {"id":"smith:oak","term":"Oak","refs":[],"in_print":0}
 {"id":"smith:oath","term":"Oath","refs":["kjv:Heb.6.16","kjv:Exod.23.13","kjv:Exod.34.6","kjv:Exod.29.12","kjv:Gen.42.15","kjv:2Sam.11.11","kjv:2Sam.14.19","kjv:Matt.6.33","kjv:Matt.23.16-22","kjv:Jas.5.12"],"in_print":7}
@@ -3288,7 +3288,7 @@
 {"id":"smith:pedahel","term":"Pedahel","refs":["kjv:Num.34.28"],"in_print":1}
 {"id":"smith:pedaiah","term":"Pedaiah","refs":[],"in_print":0,"hitchcock":"p-p0.70"}
 {"id":"smith:pedarhzur","term":"Pedarhzur","refs":["kjv:Num.1.10","kjv:Num.2.20","kjv:Num.7.54","kjv:Num.7.59","kjv:Num.10.23"],"in_print":5}
-{"id":"smith:pekah","term":"Pekah","refs":["kjv:2Kgs.15.20","kjv:2Chr.27.1","kjv:2Kgs.13.1-25","kjv:2Chr.28.1-27","kjv:Isa.7.1-25"],"in_print":3,"hitchcock":"p-p0.72"}
+{"id":"smith:pekah","term":"Pekah","refs":["kjv:2Kgs.15.20","kjv:2Chr.27.1","kjv:2Kgs.13.1-25","kjv:2Chr.28.1-27","kjv:Isa.7.1-25"],"in_print":2,"hitchcock":"p-p0.72"}
 {"id":"smith:pekahiah","term":"Pekahiah","refs":[],"in_print":0,"hitchcock":"p-p0.74"}
 {"id":"smith:pekod","term":"Pekod","refs":["kjv:Jer.50.21","kjv:Ezek.23.23"],"in_print":2,"hitchcock":"p-p0.76"}
 {"id":"smith:pelaiah","term":"Pelaiah","refs":[],"in_print":0,"hitchcock":"p-p0.78"}
@@ -3305,14 +3305,14 @@
 {"id":"smith:peninnah","term":"Peninnah","refs":["kjv:1Sam.1.2"],"in_print":1,"hitchcock":"p-p0.92"}
 {"id":"smith:penny-pennyworth","term":"Penny, Pennyworth","refs":["kjv:Matt.20.2","kjv:Matt.22.10","kjv:Mark.6.37","kjv:Mark.12.15","kjv:Luke.20.24","kjv:John.6.7","kjv:Rev.6.6"],"in_print":5}
 {"id":"smith:pentateuch-the","term":"Pentateuch, The","refs":["kjv:Ezra.7.6","kjv:Neh.8.1","kjv:2Chr.25.4","kjv:2Chr.35.12","kjv:Ezra.6.13","kjv:Neh.13.1","kjv:2Chr.34.14"],"in_print":5}
-{"id":"smith:pentecost","term":"Pentecost","refs":["kjv:Exod.23.16","kjv:Exod.34.22","kjv:Lev.23.15","kjv:Lev.23.22","kjv:Num.28.1-31","kjv:Lev.23.18","kjv:Lev.23.19","kjv:Exod.12.1-51","kjv:Acts.2.1-47"],"in_print":8,"hitchcock":"p-p0.98"}
+{"id":"smith:pentecost","term":"Pentecost","refs":["kjv:Exod.23.16","kjv:Exod.34.22","kjv:Lev.23.15","kjv:Lev.23.22","kjv:Num.28.1-31","kjv:Lev.23.18","kjv:Lev.23.19","kjv:Exod.12.1-51","kjv:Exod.19.1-25","kjv:Acts.2.1-47"],"in_print":9,"hitchcock":"p-p0.98"}
 {"id":"smith:penuel","term":"Penuel","refs":[],"in_print":0,"hitchcock":"p-p0.100"}
 {"id":"smith:peor","term":"Peor","refs":["kjv:Num.23.14","kjv:Num.23.28","kjv:Num.25.18","kjv:Num.31.16","kjv:Josh.22.17"],"in_print":4,"hitchcock":"p-p0.102"}
 {"id":"smith:perazim","term":"Perazim","refs":["kjv:Isa.28.21"],"in_print":1,"hitchcock":"p-p0.104"}
 {"id":"smith:peresh","term":"Peresh","refs":["kjv:1Chr.7.16"],"in_print":1,"hitchcock":"p-p0.106"}
 {"id":"smith:perez","term":"Perez","refs":["kjv:1Chr.27.3","kjv:Neh.11.4","kjv:Neh.11.6"],"in_print":3,"hitchcock":"p-p0.108"}
 {"id":"smith:perezuzza","term":"Perezuzza","refs":["kjv:1Chr.13.11","kjv:2Sam.6.8"],"in_print":2,"hitchcock":"p-p0.110"}
-{"id":"smith:perfumes","term":"Perfumes","refs":["kjv:Prov.27.9","kjv:Exod.30.22-38","kjv:Ps.45.8","kjv:Prov.7.17"],"in_print":4}
+{"id":"smith:perfumes","term":"Perfumes","refs":["kjv:Prov.27.9","kjv:Exod.30.22-38","kjv:Ps.45.8","kjv:Song.4.11","kjv:Prov.7.17"],"in_print":5}
 {"id":"smith:perga","term":"Perga","refs":["kjv:Acts.13.13"],"in_print":1,"hitchcock":"p-p0.112"}
 {"id":"smith:pergamos","term":"Pergamos","refs":["kjv:Rev.1.11","kjv:Rev.2.12-17"],"in_print":0,"hitchcock":"p-p0.114"}
 {"id":"smith:pergamum","term":"Pergamum","refs":["kjv:Rev.1.11"],"in_print":0}
@@ -3353,7 +3353,7 @@
 {"id":"smith:philemon","term":"Philemon","refs":["kjv:Col.4.9","kjv:Col.4.17","kjv:Phlm.1.1"],"in_print":2,"hitchcock":"p-p0.158"}
 {"id":"smith:philemon-the-epistle-of-paul-to","term":"Philemon, The Epistle Of Paul To","refs":[],"in_print":0}
 {"id":"smith:philetus","term":"Philetus","refs":["kjv:2Tim.2.17","kjv:1Tim.1.20"],"in_print":2,"hitchcock":"p-p0.160"}
-{"id":"smith:philip","term":"Philip","refs":["kjv:John.1.44","kjv:John.6.1-71","kjv:John.1.43","kjv:Matt.10.3","kjv:Mark.5.18","kjv:Luke.6.14","kjv:John.2.1-25","kjv:John.6.5-9","kjv:John.12.20-22","kjv:John.14.8","kjv:Acts.1.13"],"in_print":10,"hitchcock":"p-p0.162"}
+{"id":"smith:philip","term":"Philip","refs":["kjv:John.1.44","kjv:John.6.1-71","kjv:John.12.1-50","kjv:John.1.43","kjv:Matt.10.3","kjv:Mark.5.18","kjv:Luke.6.14","kjv:John.2.1-25","kjv:John.6.5-9","kjv:John.12.20-22","kjv:John.14.8","kjv:Acts.1.13"],"in_print":11,"hitchcock":"p-p0.162"}
 {"id":"smith:philip-the-evangelist","term":"Philip The Evangelist","refs":["kjv:Acts.6.1-15","kjv:Acts.8.1-40","kjv:Acts.8.9-13","kjv:Acts.8.26","kjv:Acts.21.8","kjv:Acts.21.9"],"in_print":6}
 {"id":"smith:philippi","term":"Philippi","refs":["kjv:Acts.16.23"],"in_print":1,"hitchcock":"p-p0.164"}
 {"id":"smith:philippians-epistle-to-the","term":"Philippians, Epistle To The","refs":["kjv:Acts.16.18","kjv:1Thess.2.2","kjv:Acts.20.4"],"in_print":2}
@@ -3383,7 +3383,7 @@
 {"id":"smith:pilate","term":"Pilate","refs":["kjv:Luke.13.1"],"in_print":0,"hitchcock":"p-p0.186"}
 {"id":"smith:pildash","term":"Pildash","refs":["kjv:Gen.22.22"],"in_print":1}
 {"id":"smith:pileha","term":"Pileha","refs":["kjv:Neh.10.24"],"in_print":1}
-{"id":"smith:pillar","term":"Pillar","refs":["kjv:Gen.28.18","kjv:Gen.31.40","kjv:1Sam.20.19","kjv:1Sam.15.12","kjv:Gen.36.20"],"in_print":3}
+{"id":"smith:pillar","term":"Pillar","refs":["kjv:Gen.28.18","kjv:Gen.31.40","kjv:1Sam.20.19","kjv:1Sam.15.12","kjv:Gen.36.20","kjv:Song.3.6"],"in_print":4}
 {"id":"smith:pillar-plain-of-the","term":"Pillar, Plain Of The","refs":["kjv:Judg.9.6"],"in_print":1}
 {"id":"smith:pilled","term":"Pilled","refs":["kjv:Gen.30.37","kjv:Gen.30.38","kjv:Isa.18.2"],"in_print":3}
 {"id":"smith:piltai-or-piltai","term":"Piltai, Or Piltai","refs":["kjv:Neh.12.17"],"in_print":1}
@@ -3412,7 +3412,7 @@
 {"id":"smith:poetry-hebrew","term":"Poetry, Hebrew","refs":[],"in_print":0}
 {"id":"smith:pollux","term":"Pollux","refs":[],"in_print":0}
 {"id":"smith:polygamy","term":"Polygamy","refs":[],"in_print":0}
-{"id":"smith:pomegranate","term":"Pomegranate","refs":["kjv:Num.20.5","kjv:1Kgs.7.18","kjv:1Kgs.7.20","kjv:Exod.28.33","kjv:Exod.28.34"],"in_print":5}
+{"id":"smith:pomegranate","term":"Pomegranate","refs":["kjv:Song.8.2","kjv:Num.20.5","kjv:1Kgs.7.18","kjv:1Kgs.7.20","kjv:Exod.28.33","kjv:Exod.28.34"],"in_print":6}
 {"id":"smith:pommels","term":"Pommels","refs":["kjv:2Chr.4.12","kjv:2Chr.4.13","kjv:1Kgs.7.41"],"in_print":3}
 {"id":"smith:pond","term":"Pond","refs":["kjv:Exod.7.19","kjv:Exod.13.5","kjv:Isa.19.10"],"in_print":2}
 {"id":"smith:pontius-pilate","term":"Pontius Pilate","refs":[],"in_print":0}
@@ -3446,12 +3446,12 @@
 {"id":"smith:prison","term":"Prison","refs":["kjv:Gen.40.3","kjv:Gen.42.17","kjv:Lev.24.12","kjv:Num.15.34","kjv:1Kgs.22.27","kjv:Acts.23.10","kjv:Acts.16.24","kjv:Jer.35.6-11"],"in_print":7}
 {"id":"smith:prochorus","term":"Prochorus","refs":["kjv:Acts.6.5"],"in_print":1,"hitchcock":"p-p0.220"}
 {"id":"smith:proconsul","term":"Proconsul","refs":[],"in_print":0}
-{"id":"smith:procurator","term":"Procurator","refs":["kjv:Matt.27.1","kjv:Acts.23.1-35","kjv:Acts.26.30","kjv:Acts.23.23","kjv:Acts.25.6","kjv:Acts.25.23","kjv:Acts.25.12","kjv:Matt.27.27","kjv:Mark.15.16","kjv:Acts.23.35"],"in_print":9}
+{"id":"smith:procurator","term":"Procurator","refs":["kjv:Matt.27.1","kjv:Acts.23.1-35","kjv:Acts.24.1-27","kjv:Acts.26.30","kjv:Acts.23.23","kjv:Acts.25.6","kjv:Acts.25.23","kjv:Acts.25.12","kjv:Matt.27.27","kjv:Mark.15.16","kjv:Acts.23.35"],"in_print":10}
 {"id":"smith:prophet","term":"Prophet","refs":["kjv:1Chr.6.28","kjv:1Chr.9.22","kjv:1Sam.19.19","kjv:1Sam.19.20","kjv:2Kgs.2.3","kjv:2Kgs.2.2","kjv:2Kgs.2.5","kjv:2Kgs.4.38","kjv:2Kgs.6.1","kjv:Exod.15.20","kjv:Judg.4.4","kjv:Judg.5.1","kjv:Amos.7.14"],"in_print":13}
 {"id":"smith:proselyte","term":"Proselyte","refs":["kjv:Luke.7.5","kjv:Acts.10.2","kjv:Acts.10.30","kjv:Acts.10.7","kjv:Matt.23.15"],"in_print":5}
 {"id":"smith:proverbs-book-of","term":"Proverbs, Book Of","refs":["kjv:Prov.1.1","kjv:Prov.10.1","kjv:Prov.25.1"],"in_print":0}
 {"id":"smith:province","term":"Province","refs":[],"in_print":0}
-{"id":"smith:psalms-book-of","term":"Psalms, Book Of","refs":["kjv:Ps.145.1","kjv:Ps.46.1","kjv:Ps.72.20","kjv:2Sam.22.1","kjv:1Chr.28.1-21","kjv:Ezra.3.1-13","kjv:Ps.73.1-28","kjv:Ps.90.1-17","kjv:Ps.107.1-43","kjv:Ps.8.1-9","kjv:Ps.24.1-10","kjv:Ps.9.1-20","kjv:Ps.10.1-18","kjv:Ps.15.1-5","kjv:Ps.18.1-50","kjv:Ps.69.1-36","kjv:Ps.71.1-24","kjv:Ps.70.1-5","kjv:Ps.72.1-20","kjv:Ps.45.1-17","kjv:Ps.42.1-11","kjv:Ps.46.1-11","kjv:Ps.80.1-19","kjv:Ps.120.1-7","kjv:Ps.139.1-24","kjv:Ps.140.1-13","kjv:Ps.147.1-20","kjv:Ps.19.1-14","kjv:Ps.32.1-11","kjv:Ps.2.1-12"],"in_print":25}
+{"id":"smith:psalms-book-of","term":"Psalms, Book Of","refs":["kjv:Ps.145.1","kjv:Ps.46.1","kjv:Ps.72.20","kjv:2Sam.22.1","kjv:1Chr.28.1-21","kjv:1Chr.29.1-30","kjv:Ezra.3.1-13","kjv:Ps.73.1-28","kjv:Ps.90.1-17","kjv:Ps.107.1-43","kjv:Ps.8.1-9","kjv:Ps.24.1-10","kjv:Ps.9.1-20","kjv:Ps.10.1-18","kjv:Ps.15.1-5","kjv:Ps.18.1-50","kjv:Ps.69.1-36","kjv:Ps.71.1-24","kjv:Ps.70.1-5","kjv:Ps.72.1-20","kjv:Ps.45.1-17","kjv:Ps.42.1-11","kjv:Ps.46.1-11","kjv:Ps.75.1-10","kjv:Ps.76.1-12","kjv:Ps.80.1-19","kjv:Ps.120.1-7","kjv:Ps.139.1-24","kjv:Ps.140.1-13","kjv:Ps.147.1-20","kjv:Ps.19.1-14","kjv:Ps.32.1-11","kjv:Ps.34.1-22","kjv:Ps.51.1-19","kjv:Ps.2.1-12","kjv:Ps.110.1-7"],"in_print":30}
 {"id":"smith:psaltery","term":"Psaltery","refs":["kjv:Isa.5.12","kjv:Isa.14.11","kjv:Isa.22.24","kjv:Amos.5.23","kjv:Amos.6.6","kjv:2Sam.6.5","kjv:2Chr.9.11","kjv:Dan.3.6","kjv:Dan.3.10","kjv:Dan.3.15"],"in_print":8}
 {"id":"smith:ptolemaeus-or-ptolemy","term":"Ptolemaeus, Or Ptolemy","refs":["kjv:Dan.11.6","kjv:Dan.11.7","kjv:Dan.11.8","kjv:Dan.11.10-12","kjv:Dan.11.14","kjv:Dan.11.15","kjv:Dan.11.27","kjv:Dan.11.25","kjv:Dan.11.30"],"in_print":6,"apocrypha":["2Macc.4.21","1Macc.1.16","2Macc.5.1","1Macc.11.13","1Macc.11.18"]}
 {"id":"smith:ptolemais","term":"Ptolemais","refs":[],"in_print":0}
@@ -3597,7 +3597,7 @@
 {"id":"smith:rizpah","term":"Rizpah","refs":["kjv:2Sam.21.8-11"],"in_print":1,"hitchcock":"r-p0.138"}
 {"id":"smith:road","term":"Road","refs":[],"in_print":0}
 {"id":"smith:robbery","term":"Robbery","refs":["kjv:Gen.16.12","kjv:Exod.2.2","kjv:Exod.21.16","kjv:Exod.24.7","kjv:Isa.5.8","kjv:Mic.2.2"],"in_print":4}
-{"id":"smith:roe-roebuck","term":"Roe, Roebuck","refs":["kjv:2Sam.2.18","kjv:1Chr.12.8","kjv:Isa.13.14","kjv:Prov.6.5"],"in_print":2}
+{"id":"smith:roe-roebuck","term":"Roe, Roebuck","refs":["kjv:2Sam.2.18","kjv:1Chr.12.8","kjv:Isa.13.14","kjv:Prov.6.5","kjv:Song.2.9","kjv:Song.2.17","kjv:Song.8.14"],"in_print":5}
 {"id":"smith:rogelim","term":"Rogelim","refs":["kjv:2Sam.17.27","kjv:2Sam.19.31"],"in_print":2,"hitchcock":"r-p0.140"}
 {"id":"smith:rohgah","term":"Rohgah","refs":["kjv:1Chr.7.34"],"in_print":1,"hitchcock":"r-p0.142"}
 {"id":"smith:roll","term":"Roll","refs":["kjv:Ezek.2.10"],"in_print":1}
@@ -3607,7 +3607,7 @@
 {"id":"smith:rome","term":"Rome","refs":["kjv:Rev.17.9"],"in_print":1,"hitchcock":"r-p0.148"}
 {"id":"smith:roof","term":"Roof","refs":[],"in_print":0}
 {"id":"smith:room","term":"Room","refs":["kjv:Matt.23.6","kjv:Mark.12.39","kjv:Luke.14.7","kjv:Luke.14.8","kjv:Luke.20.46","kjv:Luke.11.43"],"in_print":6}
-{"id":"smith:rose","term":"Rose","refs":["kjv:Isa.35.1"],"in_print":1}
+{"id":"smith:rose","term":"Rose","refs":["kjv:Song.2.1","kjv:Isa.35.1"],"in_print":2}
 {"id":"smith:rosh","term":"Rosh","refs":["kjv:Ezek.38.2","kjv:Ezek.38.3","kjv:Ezek.39.1","kjv:Gen.46.21"],"in_print":3,"hitchcock":"r-p0.150"}
 {"id":"smith:rosin","term":"Rosin","refs":[],"in_print":0}
 {"id":"smith:rubies","term":"Rubies","refs":["kjv:Job.28.18","kjv:Prov.3.15","kjv:Prov.8.11","kjv:Prov.31.10"],"in_print":4}
@@ -3632,7 +3632,7 @@
 {"id":"smith:sacrifice","term":"Sacrifice","refs":["kjv:Gen.8.20","kjv:Job.1.5","kjv:Job.42.8","kjv:Exod.10.26","kjv:Exod.24.1","kjv:Lev.8.1","kjv:Exod.29.38-42","kjv:Num.28.9","kjv:Num.28.10","kjv:Num.26.11","kjv:Num.29.39","kjv:Exod.29.40","kjv:Exod.29.41","kjv:Lev.24.6","kjv:Lev.24.9","kjv:Num.28.1","kjv:Num.29.1","kjv:Lev.23.10-14","kjv:Lev.23.17-20","kjv:Num.15.20","kjv:Num.15.21","kjv:Num.26.1-11","kjv:Num.28.15","kjv:Num.28.22","kjv:Num.28.30","kjv:Num.29.5","kjv:Num.29.16","kjv:Num.29.19","kjv:Num.29.22","kjv:Num.29.25","kjv:Num.29.28","kjv:Num.29.31","kjv:Num.29.34","kjv:Num.29.38","kjv:Lev.16.1","kjv:Exod.30.7","kjv:Exod.30.8","kjv:Lev.16.12","kjv:Rom.3.20","kjv:Rom.12.1","kjv:1Pet.1.20","kjv:Rev.13.8","kjv:Heb.13.15","kjv:Heb.13.16"],"in_print":29}
 {"id":"smith:sadducees","term":"Sadducees","refs":["kjv:Matt.3.7","kjv:Matt.16.1","kjv:Matt.16.6","kjv:Matt.16.11","kjv:Matt.16.12","kjv:Matt.22.23","kjv:Matt.22.31","kjv:Mark.12.18","kjv:Luke.20.27","kjv:Acts.4.1","kjv:Acts.5.17","kjv:Acts.23.6","kjv:Acts.23.7","kjv:Acts.23.8","kjv:Matt.16.4","kjv:1Kgs.1.32-45"],"in_print":15,"hitchcock":"s-p0.12"}
 {"id":"smith:sadoc","term":"Sadoc","refs":[],"in_print":0,"hitchcock":"s-p0.14"}
-{"id":"smith:saffron","term":"Saffron","refs":[],"in_print":0}
+{"id":"smith:saffron","term":"Saffron","refs":["kjv:Song.4.14"],"in_print":1}
 {"id":"smith:sala-or-salah","term":"Sala, Or Salah","refs":["kjv:Gen.10.24","kjv:Luke.3.35"],"in_print":2}
 {"id":"smith:salamis","term":"Salamis","refs":["kjv:Acts.13.5"],"in_print":1,"hitchcock":"s-p0.18"}
 {"id":"smith:salathiel","term":"Salathiel","refs":["kjv:1Chr.3.17"],"in_print":1,"hitchcock":"s-p0.20"}
@@ -3851,7 +3851,7 @@
 {"id":"smith:shepham","term":"Shepham","refs":["kjv:Num.34.10","kjv:Num.34.11"],"in_print":2}
 {"id":"smith:shephathiah","term":"Shephathiah","refs":["kjv:1Chr.9.8"],"in_print":1}
 {"id":"smith:shephatiah","term":"Shephatiah","refs":[],"in_print":0,"hitchcock":"s-p0.292"}
-{"id":"smith:shepherd","term":"Shepherd","refs":["kjv:Gen.30.29","kjv:Gen.29.6","kjv:Gen.29.8","kjv:Exod.2.10","kjv:Num.32.1","kjv:Gen.31.40","kjv:Amos.7.14","kjv:Luke.15.16","kjv:Matt.3.4","kjv:1Sam.17.34","kjv:Isa.31.4","kjv:Jer.5.6","kjv:Amos.5.12","kjv:Gen.31.39","kjv:Jer.43.12","kjv:1Sam.17.40","kjv:Ps.23.4","kjv:Zech.11.7","kjv:Jer.35.7","kjv:Isa.38.12","kjv:2Chr.26.10","kjv:2Chr.27.4","kjv:Gen.35.21","kjv:Mic.4.8","kjv:John.10.4","kjv:Job.30.1","kjv:Ezek.34.12","kjv:Luke.15.4","kjv:Gen.29.7","kjv:Gen.30.38","kjv:Exod.2.16","kjv:Ps.23.2","kjv:Lev.27.32","kjv:Ezek.20.37","kjv:Jer.33.13","kjv:John.10.3","kjv:Luke.2.8","kjv:Isa.40.11","kjv:Gen.33.13","kjv:Gen.47.6","kjv:1Pet.5.4","kjv:1Sam.21.7"],"in_print":39}
+{"id":"smith:shepherd","term":"Shepherd","refs":["kjv:Gen.30.29","kjv:Gen.29.6","kjv:Gen.29.8","kjv:Exod.2.10","kjv:Num.32.1","kjv:Gen.31.40","kjv:Amos.7.14","kjv:Luke.15.16","kjv:Matt.3.4","kjv:1Sam.17.34","kjv:Isa.31.4","kjv:Jer.5.6","kjv:Amos.5.12","kjv:Gen.31.39","kjv:Jer.43.12","kjv:1Sam.17.40","kjv:Ps.23.4","kjv:Zech.11.7","kjv:Song.1.8","kjv:Jer.35.7","kjv:Isa.38.12","kjv:2Chr.26.10","kjv:2Chr.27.4","kjv:Gen.35.21","kjv:Mic.4.8","kjv:John.10.4","kjv:Job.30.1","kjv:Ezek.34.12","kjv:Luke.15.4","kjv:Gen.29.7","kjv:Gen.30.38","kjv:Exod.2.16","kjv:Ps.23.2","kjv:Lev.27.32","kjv:Ezek.20.37","kjv:Jer.33.13","kjv:John.10.3","kjv:Luke.2.8","kjv:Isa.40.11","kjv:Gen.33.13","kjv:Gen.47.6","kjv:1Pet.5.4","kjv:1Sam.21.7"],"in_print":40}
 {"id":"smith:shephi","term":"Shephi","refs":["kjv:1Chr.1.40","kjv:Gen.36.23"],"in_print":2,"hitchcock":"s-p0.294"}
 {"id":"smith:shepho","term":"Shepho","refs":["kjv:Gen.36.23"],"in_print":1,"hitchcock":"s-p0.296"}
 {"id":"smith:shephuphan","term":"Shephuphan","refs":["kjv:1Chr.8.5","kjv:Num.26.39","kjv:1Chr.7.12","kjv:1Chr.7.15","kjv:Gen.46.21"],"in_print":5,"hitchcock":"s-p0.298"}
@@ -3906,7 +3906,7 @@
 {"id":"smith:shimshai-or-shimshai","term":"Shimshai, Or Shimshai","refs":["kjv:Ezra.4.8","kjv:Ezra.4.13","kjv:Ezra.4.17","kjv:Ezra.4.23","kjv:Ezra.4.7"],"in_print":4}
 {"id":"smith:shinab","term":"Shinab","refs":["kjv:Gen.14.2"],"in_print":1,"hitchcock":"s-p0.362"}
 {"id":"smith:shinar","term":"Shinar","refs":["kjv:Gen.11.3"],"in_print":1,"hitchcock":"s-p0.364"}
-{"id":"smith:ship","term":"Ship","refs":["kjv:Acts.27.1-44","kjv:Acts.27.1-6","kjv:Acts.27.6-28","kjv:Acts.28.11-13"],"in_print":4}
+{"id":"smith:ship","term":"Ship","refs":["kjv:Acts.27.1-44","kjv:Acts.28.1-31","kjv:Acts.27.1-6","kjv:Acts.27.6-28","kjv:Acts.28.11-13"],"in_print":5}
 {"id":"smith:shiphi","term":"Shiphi","refs":["kjv:1Chr.4.37"],"in_print":0,"hitchcock":"s-p0.366"}
 {"id":"smith:shiphmite-the","term":"Shiphmite The","refs":["kjv:1Chr.27.27"],"in_print":1}
 {"id":"smith:shiphrah","term":"Shiphrah","refs":["kjv:Exod.1.15"],"in_print":1,"hitchcock":"s-p0.368"}
@@ -3914,7 +3914,7 @@
 {"id":"smith:shiramoth","term":"Shiramoth","refs":[],"in_print":0}
 {"id":"smith:shisha","term":"Shisha","refs":["kjv:1Kgs.4.3"],"in_print":1,"hitchcock":"s-p0.370"}
 {"id":"smith:shishak","term":"Shishak","refs":["kjv:1Kgs.11.40","kjv:1Kgs.14.25","kjv:1Kgs.14.26","kjv:2Chr.12.2-9"],"in_print":3,"hitchcock":"s-p0.372"}
-{"id":"smith:shittah-tree-shittim","term":"Shittah Tree, Shittim","refs":["kjv:Exod.25.1-40"],"in_print":1}
+{"id":"smith:shittah-tree-shittim","term":"Shittah Tree, Shittim","refs":["kjv:Exod.25.1-40","kjv:Exod.26.1-37","kjv:Exod.36.1-38","kjv:Exod.37.1-29","kjv:Exod.38.1-31"],"in_print":5}
 {"id":"smith:shittim","term":"Shittim","refs":["kjv:Num.25.1","kjv:Num.33.49","kjv:Josh.2.1","kjv:Josh.3.1","kjv:Mic.6.5","kjv:Num.22.1","kjv:Num.26.3","kjv:Num.31.12","kjv:Num.33.48"],"in_print":9,"hitchcock":"s-p0.376"}
 {"id":"smith:shiza","term":"Shiza","refs":["kjv:1Chr.11.42"],"in_print":1,"hitchcock":"s-p0.378"}
 {"id":"smith:shoa","term":"Shoa","refs":["kjv:Ezek.23.23"],"in_print":1,"hitchcock":"s-p0.380"}
@@ -3940,7 +3940,7 @@
 {"id":"smith:shuham","term":"Shuham","refs":["kjv:Num.26.42"],"in_print":1,"hitchcock":"s-p0.412"}
 {"id":"smith:shuhamites-the","term":"Shuhamites, The","refs":[],"in_print":0}
 {"id":"smith:shuhite","term":"Shuhite","refs":[],"in_print":0}
-{"id":"smith:shulamite-the","term":"Shulamite, The","refs":[],"in_print":0}
+{"id":"smith:shulamite-the","term":"Shulamite, The","refs":["kjv:Song.6.13"],"in_print":1}
 {"id":"smith:shumathites-the","term":"Shumathites, The","refs":["kjv:1Chr.2.53"],"in_print":1}
 {"id":"smith:shunammite-the","term":"Shunammite, The","refs":["kjv:1Kgs.1.3","kjv:1Kgs.1.15","kjv:1Kgs.2.17","kjv:1Kgs.2.21","kjv:1Kgs.2.22","kjv:2Kgs.4.12","kjv:2Kgs.4.25"],"in_print":7}
 {"id":"smith:shunem","term":"Shunem","refs":["kjv:Josh.13.18","kjv:1Sam.23.4","kjv:2Kgs.4.8","kjv:1Kgs.1.3"],"in_print":1,"hitchcock":"s-p0.416"}
@@ -4016,7 +4016,7 @@
 {"id":"smith:sodom","term":"Sodom","refs":["kjv:Gen.14.1","kjv:Gen.10.19","kjv:Gen.13.10-13","kjv:Gen.19.1"],"in_print":2,"hitchcock":"s-p0.486"}
 {"id":"smith:sodoma","term":"Sodoma","refs":["kjv:Rom.2.29"],"in_print":0}
 {"id":"smith:sodomites","term":"Sodomites","refs":[],"in_print":0}
-{"id":"smith:solomon","term":"Solomon","refs":["kjv:1Chr.3.5","kjv:2Sam.11.24","kjv:2Sam.11.25","kjv:2Sam.13.37","kjv:2Sam.18.33","kjv:2Sam.14.13","kjv:2Sam.15.1-6","kjv:1Kgs.1.13","kjv:1Chr.28.9","kjv:1Chr.20.1-8","kjv:Ps.72.1","kjv:2Sam.15.16","kjv:Ps.45.1","kjv:1Sam.17.42","kjv:1Kgs.11.4","kjv:1Kgs.6.1","kjv:1Kgs.6.37","kjv:1Kgs.6.38","kjv:1Kgs.7.1","kjv:2Chr.8.1"],"in_print":12,"hitchcock":"s-p0.488"}
+{"id":"smith:solomon","term":"Solomon","refs":["kjv:1Chr.3.5","kjv:2Sam.11.24","kjv:2Sam.11.25","kjv:2Sam.13.37","kjv:2Sam.18.33","kjv:2Sam.14.13","kjv:2Sam.15.1-6","kjv:1Kgs.1.13","kjv:1Chr.28.9","kjv:1Chr.20.1-8","kjv:Ps.72.1","kjv:2Sam.15.16","kjv:Ps.45.1","kjv:Song.5.10","kjv:1Sam.17.42","kjv:1Kgs.11.4","kjv:1Kgs.6.1","kjv:1Kgs.6.37","kjv:1Kgs.6.38","kjv:1Kgs.7.1","kjv:2Chr.8.1"],"in_print":13,"hitchcock":"s-p0.488"}
 {"id":"smith:solomon-wisdom-of","term":"Solomon, Wisdom Of","refs":[],"in_print":0}
 {"id":"smith:solomons-porch","term":"Solomons Porch","refs":[],"in_print":0}
 {"id":"smith:solomons-servants","term":"Solomons Servants","refs":["kjv:Ezra.2.55","kjv:Ezra.2.58","kjv:Neh.7.57","kjv:Neh.7.60","kjv:1Kgs.5.13","kjv:1Kgs.5.14","kjv:1Kgs.9.20","kjv:1Kgs.9.21","kjv:2Chr.8.7","kjv:2Chr.8.8"],"in_print":8}
@@ -4041,7 +4041,7 @@
 {"id":"smith:spearmen","term":"Spearmen","refs":["kjv:Acts.23.23"],"in_print":1}
 {"id":"smith:spice-spices","term":"Spice, Spices","refs":[],"in_print":0}
 {"id":"smith:spider","term":"Spider","refs":["kjv:Isa.59.5","kjv:Prov.30.28"],"in_print":2}
-{"id":"smith:spikenard","term":"Spikenard","refs":["kjv:Mark.14.3-5","kjv:John.12.3","kjv:John.12.5","kjv:Matt.20.2"],"in_print":4}
+{"id":"smith:spikenard","term":"Spikenard","refs":["kjv:Song.1.12","kjv:Song.4.13","kjv:Song.4.14","kjv:Mark.14.3-5","kjv:John.12.3","kjv:John.12.5","kjv:Matt.20.2"],"in_print":7}
 {"id":"smith:spinning","term":"Spinning","refs":["kjv:Exod.35.25","kjv:Exod.35.26","kjv:Prov.31.19","kjv:Matt.6.28"],"in_print":4}
 {"id":"smith:sponge","term":"Sponge","refs":["kjv:Matt.27.48","kjv:Mark.15.36","kjv:John.19.29"],"in_print":3}
 {"id":"smith:spouse","term":"Spouse","refs":[],"in_print":0}
@@ -4057,14 +4057,14 @@
 {"id":"smith:stoics","term":"Stoics","refs":["kjv:Acts.17.18"],"in_print":1}
 {"id":"smith:stomacher","term":"Stomacher","refs":["kjv:Isa.3.24"],"in_print":0}
 {"id":"smith:stones","term":"Stones","refs":["kjv:Gen.28.18","kjv:Gen.35.14","kjv:Gen.31.45","kjv:Josh.4.9","kjv:1Sam.7.12","kjv:Gen.31.47","kjv:Josh.7.26","kjv:Josh.8.29","kjv:2Sam.18.17","kjv:Rev.2.17","kjv:Zech.12.3","kjv:Isa.28.16","kjv:1Sam.25.37","kjv:Ezek.11.19","kjv:Ezek.36.26","kjv:Gen.49.24","kjv:Eph.2.20-22","kjv:1Pet.2.4-8"],"in_print":15,"apocrypha":["Sir.6.21"]}
-{"id":"smith:stones-precious","term":"Stones, Precious","refs":["kjv:Ezek.27.16","kjv:Gen.38.18","kjv:Exod.28.17-21","kjv:Isa.54.11","kjv:Isa.54.12","kjv:Lam.4.7","kjv:Rev.4.3","kjv:Rev.21.10","kjv:Rev.21.21"],"in_print":9}
+{"id":"smith:stones-precious","term":"Stones, Precious","refs":["kjv:Ezek.27.16","kjv:Gen.38.18","kjv:Exod.28.17-21","kjv:Song.5.14","kjv:Isa.54.11","kjv:Isa.54.12","kjv:Lam.4.7","kjv:Rev.4.3","kjv:Rev.21.10","kjv:Rev.21.21"],"in_print":10}
 {"id":"smith:stoning","term":"Stoning","refs":[],"in_print":0}
 {"id":"smith:stork","term":"Stork","refs":["kjv:Zech.6.9","kjv:Lev.11.19","kjv:Lev.14.18"],"in_print":1}
 {"id":"smith:strain-at","term":"Strain At","refs":["kjv:Matt.23.24"],"in_print":1}
 {"id":"smith:stranger","term":"Stranger","refs":["kjv:Exod.12.38","kjv:Exod.12.44","kjv:Exod.12.48","kjv:Lev.19.34","kjv:Lev.10.19","kjv:Exod.12.45","kjv:Lev.22.10","kjv:Lev.25.6","kjv:Lev.25.40"],"in_print":8}
 {"id":"smith:straw","term":"Straw","refs":["kjv:Gen.24.25","kjv:1Kgs.4.28","kjv:Isa.11.7","kjv:Exod.5.7","kjv:Exod.5.16"],"in_print":4}
 {"id":"smith:stream-of-egypt","term":"Stream Of Egypt","refs":["kjv:Isa.27.12"],"in_print":1}
-{"id":"smith:street","term":"Street","refs":["kjv:Acts.9.11","kjv:Jer.37.21","kjv:Rev.21.21"],"in_print":3,"apocrypha":["Tob.13.17"]}
+{"id":"smith:street","term":"Street","refs":["kjv:Acts.9.11","kjv:Jer.37.21","kjv:Rev.21.21","kjv:Song.3.3"],"in_print":4,"apocrypha":["Tob.13.17"]}
 {"id":"smith:stripes","term":"Stripes","refs":[],"in_print":0}
 {"id":"smith:suah","term":"Suah","refs":["kjv:1Chr.7.36"],"in_print":0,"hitchcock":"s-p0.508"}
 {"id":"smith:succoth","term":"Succoth","refs":[],"in_print":0,"hitchcock":"s-p0.510"}
@@ -4169,7 +4169,7 @@
 {"id":"smith:temeni","term":"Temeni","refs":["kjv:1Chr.4.6"],"in_print":1}
 {"id":"smith:temple","term":"Temple","refs":["kjv:2Sam.7.5","kjv:1Kgs.6.7","kjv:1Kgs.7.15-22","kjv:2Chr.3.9","kjv:2Kgs.23.12","kjv:Ezra.6.3","kjv:Ezra.3.12","kjv:John.2.20","kjv:Neh.12.37"],"in_print":8}
 {"id":"smith:ten-commandments","term":"Ten Commandments","refs":["kjv:Exod.34.28","kjv:Exod.4.13","kjv:Exod.10.4","kjv:Deut.11.1-32","kjv:1Kgs.8.21","kjv:2Chr.6.11","kjv:Exod.25.16","kjv:Exod.25.21","kjv:Exod.31.18","kjv:Exod.19.20","kjv:Exod.32.16","kjv:Ps.19.7","kjv:Luke.18.20"],"in_print":9}
-{"id":"smith:tent","term":"Tent","refs":["kjv:Gen.4.20","kjv:Judg.4.21","kjv:Gen.26.17","kjv:Gen.26.22","kjv:Gen.26.25","kjv:Isa.38.12","kjv:Gen.18.4","kjv:Gen.18.8"],"in_print":8}
+{"id":"smith:tent","term":"Tent","refs":["kjv:Gen.4.20","kjv:Song.1.5","kjv:Judg.4.21","kjv:Gen.26.17","kjv:Gen.26.22","kjv:Gen.26.25","kjv:Isa.38.12","kjv:Gen.18.4","kjv:Gen.18.8"],"in_print":9}
 {"id":"smith:terah","term":"Terah","refs":["kjv:Gen.11.24-32","kjv:Josh.24.2","kjv:Gen.11.28","kjv:Gen.11.31","kjv:Gen.11.32"],"in_print":1,"hitchcock":"t-p0.94"}
 {"id":"smith:teraphim","term":"Teraphim","refs":["kjv:1Sam.19.13","kjv:1Sam.19.16","kjv:Judg.17.3-5","kjv:Judg.18.17","kjv:Judg.18.18","kjv:Judg.18.20","kjv:Zech.10.2","kjv:Judg.18.5","kjv:Judg.18.6","kjv:1Sam.15.22","kjv:1Sam.15.23","kjv:2Kgs.23.24","kjv:Ezek.21.19-22"],"in_print":9,"hitchcock":"t-p0.96"}
 {"id":"smith:teresh","term":"Teresh","refs":["kjv:Esth.2.21","kjv:Esth.6.2"],"in_print":2}
@@ -4344,12 +4344,12 @@
 {"id":"smith:vaniah","term":"Vaniah","refs":["kjv:Ezra.10.36"],"in_print":1,"hitchcock":"v-p0.4"}
 {"id":"smith:vashni","term":"Vashni","refs":["kjv:1Chr.6.28","kjv:1Sam.8.2"],"in_print":2,"hitchcock":"v-p0.6"}
 {"id":"smith:vashti","term":"Vashti","refs":["kjv:Esth.1.1"],"in_print":0,"hitchcock":"v-p0.8"}
-{"id":"smith:veil","term":"Veil","refs":["kjv:Gen.24.65","kjv:Gen.38.14"],"in_print":2}
+{"id":"smith:veil","term":"Veil","refs":["kjv:Song.4.1","kjv:Song.4.3","kjv:Song.6.7","kjv:Gen.24.65","kjv:Gen.38.14"],"in_print":5}
 {"id":"smith:veil-of-the-tabernacle-and-temple","term":"Veil Of The Tabernacle And Temple","refs":[],"in_print":0}
 {"id":"smith:versions-ancient-of-the-old-and-new-testaments","term":"Versions, Ancient, Of The Old And New Testaments","refs":[],"in_print":0}
 {"id":"smith:versions-authorized","term":"Versions, Authorized","refs":[],"in_print":0}
 {"id":"smith:village","term":"Village","refs":["kjv:Josh.13.15","kjv:Josh.13.19"],"in_print":2}
-{"id":"smith:vine","term":"Vine","refs":["kjv:Gen.9.20","kjv:Gen.9.21","kjv:Gen.40.9-11","kjv:Ps.78.47","kjv:Num.13.23","kjv:Num.13.24","kjv:Num.32.9","kjv:Isa.16.8","kjv:Isa.16.9","kjv:Isa.16.10","kjv:Jer.48.32","kjv:1Kgs.4.25","kjv:Ps.128.3","kjv:Mic.4.4","kjv:Isa.6.2","kjv:Isa.6.4","kjv:Jer.2.21","kjv:Hos.10.1","kjv:John.15.1-6","kjv:Ezek.19.11","kjv:Ezek.19.12","kjv:Judg.8.27","kjv:Jer.25.30","kjv:Jer.6.9","kjv:Isa.5.1","kjv:Jer.31.5","kjv:Amos.9.13","kjv:Ps.80.13","kjv:Num.22.24","kjv:Neh.4.3","kjv:Ezek.13.4","kjv:Ezek.13.5","kjv:Matt.21.33","kjv:Isa.1.8","kjv:Isa.5.2"],"in_print":32}
+{"id":"smith:vine","term":"Vine","refs":["kjv:Gen.9.20","kjv:Gen.9.21","kjv:Gen.40.9-11","kjv:Ps.78.47","kjv:Num.13.23","kjv:Num.13.24","kjv:Num.32.9","kjv:Isa.16.8","kjv:Isa.16.9","kjv:Isa.16.10","kjv:Jer.48.32","kjv:Song.1.14","kjv:1Kgs.4.25","kjv:Ps.128.3","kjv:Mic.4.4","kjv:Isa.6.2","kjv:Isa.6.4","kjv:Jer.2.21","kjv:Hos.10.1","kjv:John.15.1-6","kjv:Ezek.19.11","kjv:Ezek.19.12","kjv:Judg.8.27","kjv:Jer.25.30","kjv:Jer.6.9","kjv:Isa.5.1","kjv:Jer.31.5","kjv:Amos.9.13","kjv:Ps.80.13","kjv:Num.22.24","kjv:Neh.4.3","kjv:Song.2.15","kjv:Ezek.13.4","kjv:Ezek.13.5","kjv:Matt.21.33","kjv:Isa.1.8","kjv:Isa.5.2"],"in_print":34}
 {"id":"smith:vine-of-sodom","term":"Vine Of Sodom","refs":[],"in_print":0}
 {"id":"smith:vinegar","term":"Vinegar","refs":["kjv:Prov.10.26","kjv:Ruth.2.14","kjv:Matt.27.48","kjv:Mark.15.36","kjv:John.19.29","kjv:John.19.30"],"in_print":6}
 {"id":"smith:vineyards-plain-of-the","term":"Vineyards, Plain Of The","refs":["kjv:Judg.11.33"],"in_print":1}
@@ -4385,9 +4385,9 @@
 {"id":"smith:willows-the-brook-of-the","term":"Willows, The Brook Of The","refs":["kjv:Isa.15.7"],"in_print":1}
 {"id":"smith:wills","term":"Wills","refs":["kjv:Lev.25.30","kjv:2Sam.17.23","kjv:2Kgs.20.1","kjv:Isa.38.1"],"in_print":4}
 {"id":"smith:wimple","term":"Wimple","refs":["kjv:Isa.3.22","kjv:Ruth.3.15"],"in_print":2}
-{"id":"smith:window","term":"Window","refs":["kjv:Judg.5.28","kjv:Prov.7.6","kjv:Eccl.12.3","kjv:Hos.13.3"],"in_print":4}
-{"id":"smith:winds","term":"Winds","refs":["kjv:Ezek.37.9","kjv:Dan.8.8","kjv:Zech.2.6","kjv:Matt.24.31","kjv:Prov.25.23","kjv:Job.1.19","kjv:Jer.13.14","kjv:Job.27.21","kjv:Job.38.24","kjv:Ps.48.7","kjv:Isa.27.8","kjv:Ezek.27.26","kjv:Job.37.17","kjv:Luke.12.55","kjv:Mark.4.37","kjv:Luke.8.23","kjv:Acts.27.12","kjv:Acts.27.14"],"in_print":17,"apocrypha":["Sir.43.20"]}
-{"id":"smith:wine","term":"Wine","refs":["kjv:Gen.9.20","kjv:Gen.9.21","kjv:Jer.6.9","kjv:Neh.13.15","kjv:Job.24.11","kjv:Jer.25.30","kjv:Jer.48.33","kjv:Amos.9.13","kjv:Rev.19.15","kjv:Acts.2.13","kjv:Isa.16.9","kjv:Isa.16.10","kjv:Gen.40.11","kjv:Isa.63.2","kjv:Isa.63.3","kjv:Isa.25.6","kjv:Gen.40.12","kjv:Prov.20.1","kjv:Isa.28.7","kjv:Prov.31.6","kjv:Isa.5.11","kjv:Zech.9.15","kjv:Zech.10.7","kjv:Hos.4.11","kjv:Prov.31.5","kjv:Hab.2.15","kjv:Hab.2.16","kjv:Hos.7.5","kjv:Prov.9.2","kjv:Prov.9.5","kjv:Prov.23.30","kjv:Isa.5.22","kjv:Mark.15.23","kjv:Ezek.27.18","kjv:Hos.14.7","kjv:Gen.14.18","kjv:John.2.3","kjv:Exod.29.40","kjv:Lev.23.13","kjv:Num.15.5","kjv:Exod.22.29"],"in_print":38}
+{"id":"smith:window","term":"Window","refs":["kjv:Judg.5.28","kjv:Prov.7.6","kjv:Eccl.12.3","kjv:Song.2.9","kjv:Hos.13.3"],"in_print":5}
+{"id":"smith:winds","term":"Winds","refs":["kjv:Ezek.37.9","kjv:Dan.8.8","kjv:Zech.2.6","kjv:Matt.24.31","kjv:Song.4.16","kjv:Prov.25.23","kjv:Job.1.19","kjv:Jer.13.14","kjv:Job.27.21","kjv:Job.38.24","kjv:Ps.48.7","kjv:Isa.27.8","kjv:Ezek.27.26","kjv:Job.37.17","kjv:Luke.12.55","kjv:Mark.4.37","kjv:Luke.8.23","kjv:Acts.27.12","kjv:Acts.27.14"],"in_print":18,"apocrypha":["Sir.43.20"]}
+{"id":"smith:wine","term":"Wine","refs":["kjv:Gen.9.20","kjv:Gen.9.21","kjv:Song.8.2","kjv:Jer.6.9","kjv:Neh.13.15","kjv:Job.24.11","kjv:Jer.25.30","kjv:Jer.48.33","kjv:Amos.9.13","kjv:Rev.19.15","kjv:Acts.2.13","kjv:Isa.16.9","kjv:Isa.16.10","kjv:Gen.40.11","kjv:Isa.63.2","kjv:Isa.63.3","kjv:Isa.25.6","kjv:Gen.40.12","kjv:Prov.20.1","kjv:Isa.28.7","kjv:Prov.31.6","kjv:Isa.5.11","kjv:Zech.9.15","kjv:Zech.10.7","kjv:Hos.4.11","kjv:Prov.31.5","kjv:Hab.2.15","kjv:Hab.2.16","kjv:Hos.7.5","kjv:Prov.9.2","kjv:Prov.9.5","kjv:Prov.23.30","kjv:Isa.5.22","kjv:Mark.15.23","kjv:Ezek.27.18","kjv:Hos.14.7","kjv:Gen.14.18","kjv:John.2.3","kjv:Exod.29.40","kjv:Lev.23.13","kjv:Num.15.5","kjv:Exod.22.29"],"in_print":39}
 {"id":"smith:winepress","term":"Winepress","refs":["kjv:Joel.3.13","kjv:Isa.5.2","kjv:Matt.21.33"],"in_print":3}
 {"id":"smith:winnowing","term":"Winnowing","refs":[],"in_print":0}
 {"id":"smith:wisdom-of-jesus-son-of-sirach","term":"Wisdom Of Jesus, Son Of Sirach","refs":[],"in_print":0}

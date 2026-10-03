@@ -5,15 +5,15 @@
  "layers": {
   "tsk": {
    "file": "data/xrefs/tsk.jsonl",
-   "sha256": "4b5703da1fdd21107363ab91e5fd2af8bc3545758a8f6a75346c1b068099fd69",
-   "rows": 25622,
+   "sha256": "e55eb0fae90c529a019144c600e0c16c8676c299195ac2b5d1285a46b29e8e44",
+   "rows": 25621,
    "counts": {
-    "verses_with_entries": 25622,
-    "refs": 248416,
-    "agreed": 227774,
-    "placed": 20642,
+    "verses_with_entries": 25621,
+    "refs": 248389,
+    "agreed": 227748,
+    "placed": 20641,
     "unsure_digit": 1667,
-    "one_scan_not_committed": 122369
+    "one_scan_not_committed": 122338
    },
    "rights": {
     "license": "public-domain",
@@ -38,12 +38,12 @@
       }
      },
      "read": {
-      "refs": 325801,
-      "glyphs_as-read": 245380,
-      "resolved": 308495,
-      "glyphs_fixed": 69197,
-      "glyphs_unsure": 11224,
-      "unresolved": 16983,
+      "refs": 325846,
+      "glyphs_as-read": 245414,
+      "resolved": 308450,
+      "glyphs_fixed": 69205,
+      "glyphs_unsure": 11227,
+      "unresolved": 17073,
       "ambiguous_book": 323,
       "entries": 25865,
       "headings": 808,
@@ -69,12 +69,12 @@
       }
      },
      "read": {
-      "refs": 333824,
-      "glyphs_as-read": 229654,
-      "resolved": 315237,
-      "glyphs_fixed": 91882,
-      "unresolved": 18015,
-      "glyphs_unsure": 12288,
+      "refs": 333868,
+      "glyphs_as-read": 229687,
+      "resolved": 315197,
+      "glyphs_fixed": 91891,
+      "unresolved": 18099,
+      "glyphs_unsure": 12290,
       "ambiguous_book": 572,
       "entries": 26321,
       "headings": 822,
@@ -114,17 +114,14 @@
   },
   "cited_by": {
    "file": "build/xrefs/cited-by.jsonl (gitignored; rebuilt)",
-   "sha256": "cc703f557dba64c11bfe0cb5ef5fb05f8d5b8181b1c216442479deafebf02b32",
-   "verses": 30920,
+   "sha256": "759dcd8162e951d03c49b0c18df8d6a05d21ee75fa0cfa3b81191baacb365d3e",
+   "verses": 30868,
    "counts": {
-    "tsk": 442557,
-    "fathers-notes-ot-provisional": 26279,
-    "fathers-notes": 60896,
-    "book-links": 4407
+    "tsk": 441375
    },
    "inputs": {
-    "fathers_links": "build/fathers/scripture-links.jsonl (pipeline/tag_fathers.py, PR #7)",
-    "fathers_links_sha256": "2180daa2e3b46e5587ca895154e483cddf30a45cd1e43febc93b5c78676573d5",
+    "fathers_links": null,
+    "fathers_links_sha256": null,
     "books": "data/books/*.json (structure_texts.py): unit links of kind scripture to a kjv: verse"
    },
    "rights": {

@@ -45,6 +45,13 @@ check("'ch. 1. 26' after a book named in words is in that book ('who Luke tells 
       refs("as the Angel Gabriel, who Luke tells us ch. 1.26. was sent", here=("Matt", 1), point=True, old=True) == [("Luke", 1, 26, 26)])
 check("'Ezek. chap. 27. 28' is Ezekiel's, not the comment's book",
       refs("so did Ezek. chap. 27.28, 29. it was", here=("Jer", 25), point=True, old=True) == [("Ezek", 27, 28, 28), ("Ezek", 27, 29, 29)])
+check("'Chap. 20. 12' after another book's reference is the comment's own book (Poole on Rev: 'Gal. 6.5. Chap. 20.12')",
+      refs("2 Cor. 5.10. Gal. 6.5. Chap. 20.12", here=("Rev", 2), point=True, old=True) == [("2Cor", 5, 10, 10), ("Gal", 6, 5, 5), ("Rev", 20, 12, 12)])
+check("'Philip' in prose is a man, not Philippians ('as Philip had done, Chap. 8.35.' on Acts)",
+      refs("as Philip had done, Chap. 8.35.", here=("Acts", 15), point=True, old=True) == [("Acts", 8, 35, 35)])
+check("a point closes each reference in old print ('chap. 7.34. & 25.10. Ezek. 26.13.')",
+      refs("Isa. 24.7, 8. chap. 7.34. & 25.10. Ezek. 26.13.", here=("Jer", 16), point=True, old=True)
+      == [("Isa", 24, 7, 7), ("Isa", 24, 8, 8), ("Jer", 7, 34, 34), ("Jer", 25, 10, 10), ("Ezek", 26, 13, 13)])
 check("'chap. 23. ver. 24' is one reference", refs("See chap. 23. ver. 24. let. d.", here=("Ezek", 26), point=True, old=True) == [("Ezek", 23, 24, 24)])
 check("CCEL Barnes' running heads cite nothing ('Chapter 1 - Verse 2'); Poole's 'Chap. 3. 4' does",
       refs("MATTHEW - Chapter 1 - Verse 2 INTRODUCTION", here=("Matt", 1)) == []

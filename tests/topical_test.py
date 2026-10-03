@@ -69,6 +69,8 @@ check("refs: 3 and 4 Maccabees, Susanna and Bel are read (as Apocrypha), 4 John 
 check("refs: 'Song of Solomon' and 'S. of S.' are the Song, positions kept",
       refs("Song of Solomon 2:1") == [("Song", 2, 1, 2, 1)]
       and R.refs("see S. of S. 2:1, 3")[1]["at"] == len("see S. of S. 2:1, "))
+check("... but Nave's own 'Ex 32; Ac 7:40' is Exodus 32 (punctuation, not a word, follows)",
+      refs("Makes the golden calf Ex 32; Ac 7:40") == [("Exod", 32, None, 32, None), ("Acts", 7, 40, 7, 40)])
 check("refs: 'Is 40 days' is not Isaiah; 'Is. 40' and 'Am 5:24' still are",
       refs("Is 40 days") == [] and refs("Is. 40") == [("Isa", 40, None, 40, None)]
       and refs("Am 5:24") == [("Amos", 5, 24, 5, 24)])

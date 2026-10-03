@@ -9,37 +9,37 @@
  "layers": {
   "henry": {
    "file": "data/commentary/henry.jsonl",
-   "sha256": "8a39ed013e4a1e7ae9b9495574a51d6bc57d92e4b8a5954b8db6f2b27df618e7",
+   "sha256": "f7c876c4d950b02078dffa713937ecc36590495ed69df781e34403bc08343c41",
    "rows": 5417,
    "counts": {
     "anchor agrees": 4232,
     "anchor differs": 19,
     "anchor names no KJV verse": 6,
     "anchor unread": 1166,
-    "citations": 63877,
+    "citations": 63918,
     "cite apocrypha": 45,
-    "cite both": 66545,
-    "cite ccel-only": 2066,
-    "cite names no KJV verse": 103,
-    "cite reader-only": 8382,
+    "cite both": 66583,
+    "cite ccel-only": 2028,
+    "cite names no KJV verse": 105,
+    "cite reader-only": 8358,
     "comments": 5417,
     "verses_covered": 31065
    },
    "explicit_citations_by_reading": {
     "both": {
-     "refs": 33658,
-     "printed": 23914,
-     "share_printed": 0.7105
+     "refs": 33686,
+     "printed": 23915,
+     "share_printed": 0.7099
     },
     "ccel-only": {
-     "refs": 1672,
-     "printed": 60,
+     "refs": 1644,
+     "printed": 59,
      "share_printed": 0.0359
     },
     "reader-only": {
-     "refs": 4165,
-     "printed": 2215,
-     "share_printed": 0.5318
+     "refs": 4140,
+     "printed": 2223,
+     "share_printed": 0.537
     }
    },
    "print_check": [
@@ -53,14 +53,14 @@
       "expositionofoldn05henr",
       "expositionofoldn06henr"
      ],
-     "refs_read": 29039,
-     "aligned": 26189
+     "refs_read": 29148,
+     "aligned": 26197
     }
    ],
    "treasury_check": {
     "cites": {
-     "refs": 60438,
-     "in_treasury_at_that_verse": 0.2924,
+     "refs": 60481,
+     "in_treasury_at_that_verse": 0.2922,
      "in_treasury_at_an_unrelated_verse": 0.0162
     }
    },
@@ -122,36 +122,36 @@
   },
   "jfb": {
    "file": "data/commentary/jfb.jsonl",
-   "sha256": "dac4ab5ef834eab92eac2b2391aa6fcf10a232ae59895e12475c51bfde56fc3d",
+   "sha256": "89bd29f9ccea67d2ada1d755b1f6feef274dcf42a8fe8a34a3340cfdc689740a",
    "rows": 19776,
    "counts": {
     "anchor agrees": 16604,
     "anchor differs": 4,
     "anchor unread": 3168,
-    "citations": 59013,
-    "cite apocrypha": 103,
-    "cite both": 60898,
-    "cite ccel-only": 62,
+    "citations": 59019,
+    "cite apocrypha": 104,
+    "cite both": 60899,
+    "cite ccel-only": 61,
     "cite names no KJV verse": 8,
-    "cite reader-only": 179,
+    "cite reader-only": 189,
     "comments": 19776,
     "verses_covered": 19776
    },
    "explicit_citations_by_reading": {
     "both": {
-     "refs": 50206,
-     "printed": 33412,
-     "share_printed": 0.6655
+     "refs": 50207,
+     "printed": 33433,
+     "share_printed": 0.6659
     },
     "ccel-only": {
-     "refs": 59,
-     "printed": 13,
-     "share_printed": 0.2203
+     "refs": 58,
+     "printed": 3,
+     "share_printed": 0.0517
     },
     "reader-only": {
-     "refs": 164,
-     "printed": 88,
-     "share_printed": 0.5366
+     "refs": 174,
+     "printed": 104,
+     "share_printed": 0.5977
     }
    },
    "print_check": [
@@ -160,21 +160,21 @@
      "scans": [
       "commentarycritic00jami"
      ],
-     "refs_read": 36256,
-     "aligned": 30211
+     "refs_read": 37176,
+     "aligned": 30244
     },
     {
      "printing": "1879 one-volume printing",
      "scans": [
       "commentarycritic00jami_0"
      ],
-     "refs_read": 48603,
-     "aligned": 25969
+     "refs_read": 50092,
+     "aligned": 26000
     }
    ],
    "treasury_check": {
     "cites": {
-     "refs": 49314,
+     "refs": 49320,
      "in_treasury_at_that_verse": 0.2809,
      "in_treasury_at_an_unrelated_verse": 0.0019
     }
@@ -197,7 +197,7 @@
   },
   "poole": {
    "file": "data/commentary/poole.jsonl",
-   "sha256": "0cf561fe63a96eafeff45ea7ed3db7ee843a6c0a395ed11e75acc78899a8c776",
+   "sha256": "00cbefd2f4dfe475244be209bcd057f5234bc73df83c7137dbae78f28f1637f2",
    "rows": 26208,
    "counts": {
     "chapter numbers misprinted, read by order": 1,
@@ -205,14 +205,14 @@
     "chapters by order": 20,
     "chapters differs": 49,
     "chapters with pages missing": 1,
-    "citations": 50684,
-    "cite apocrypha": 78,
-    "cite names no KJV verse": 671,
-    "cite next to an unread word, dropped": 2516,
+    "citations": 55433,
+    "cite apocrypha": 67,
+    "cite names no KJV verse": 697,
+    "cite next to an unread word, dropped": 2667,
     "comments": 26208,
     "notes": 58485,
     "notes after missing pages, dropped": 24,
-    "parallels": 14181,
+    "parallels": 16020,
     "unread words in the notes": 24876,
     "verse numbers misprinted, read by order": 22,
     "verses_covered": 26208
@@ -221,13 +221,13 @@
    "print_check": [],
    "treasury_check": {
     "cites": {
-     "refs": 41881,
-     "in_treasury_at_that_verse": 0.2537,
-     "in_treasury_at_an_unrelated_verse": 0.0018
+     "refs": 45674,
+     "in_treasury_at_that_verse": 0.2491,
+     "in_treasury_at_an_unrelated_verse": 0.0019
     },
     "parallels": {
-     "refs": 12147,
-     "in_treasury_at_that_verse": 0.6663,
+     "refs": 13776,
+     "in_treasury_at_that_verse": 0.6802,
      "in_treasury_at_an_unrelated_verse": 0.0015
     }
    },
@@ -255,25 +255,25 @@
   },
   "barnes": {
    "file": "data/commentary/barnes.jsonl",
-   "sha256": "40a241ed461301754e9cde8e9abdcbf2e415889165238c23c2af888d25ab6072",
+   "sha256": "5d22cc89ff4b95dae7e9141ccf47ed253787b35ac7eaeaa7751131f3be251c1a",
    "rows": 7947,
    "counts": {
     "anchor agrees": 7569,
     "anchor unread": 378,
-    "citations": 39573,
+    "citations": 39586,
     "cite apocrypha": 52,
-    "cite both": 44886,
-    "cite ccel-only": 455,
+    "cite both": 44901,
+    "cite ccel-only": 440,
     "cite names no KJV verse": 9,
-    "cite reader-only": 766,
+    "cite reader-only": 774,
     "comments": 7947,
     "verses_covered": 7947
    },
    "explicit_citations_by_reading": {
     "both": {
      "refs": 11890,
-     "printed": 5723,
-     "share_printed": 0.4813
+     "printed": 5720,
+     "share_printed": 0.4811
     },
     "ccel-only": {
      "refs": 78,
@@ -281,9 +281,9 @@
      "share_printed": 0.1154
     },
     "reader-only": {
-     "refs": 80,
+     "refs": 84,
      "printed": 25,
-     "share_printed": 0.3125
+     "share_printed": 0.2976
     }
    },
    "print_check": [
@@ -293,14 +293,14 @@
       "notesexplanatory01inbarn",
       "notesexplanatory02barn_0"
      ],
-     "refs_read": 8330,
-     "aligned": 5757
+     "refs_read": 8371,
+     "aligned": 5754
     }
    ],
    "treasury_check": {
     "cites": {
-     "refs": 32170,
-     "in_treasury_at_that_verse": 0.3432,
+     "refs": 32180,
+     "in_treasury_at_that_verse": 0.3431,
      "in_treasury_at_an_unrelated_verse": 0.0018
     }
    },
