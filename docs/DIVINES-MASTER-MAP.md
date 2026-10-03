@@ -5881,6 +5881,14 @@ Shelf: `pipeline/gale-korean_shelf.json` (2026-10-02; added at the coordinator's
 |---|---|---|
 | Korean Folk Tales | have | PG 51002, `gale-korean-korean-folk-tales` (776 units) |
 
+## Cecil Henry Bompas, tr.
+
+Shelf: `pipeline/bompas_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Santal tales collected by P. O. Bodding and written out in Santali, in Bompas's English. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Folklore of the Santal Parganas | have | PG 11938, `bompas-folklore-of-the-santal-parganas` (1409 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

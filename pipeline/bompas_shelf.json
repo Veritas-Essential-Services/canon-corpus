@@ -1,0 +1,38 @@
+{
+ "_about": "Folklore of the Santal Parganas (1909), Santal tales collected by the Rev. P. O. Bodding and written out in Santali, translated by Cecil Henry Bompas (title page: 'Translated by'). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Cecil Henry Bompas, tr.; collected by P. O. Bodding",
+ "_name_words": [
+  "bompas"
+ ],
+ "_surname": [
+  "bompas"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bompas-folklore-of-the-santal-parganas": [
+   11938,
+   "Folklore of the Santal Parganas",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "bompas-folklore-of-the-santal-parganas": "Bompas"
+ },
+ "_checks": {
+  "bompas-folklore-of-the-santal-parganas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "bompas",
+   "translator_claimed": "Bompas",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -547,3 +547,6 @@
 
 ## 2026-10-02 21:56 CDT — gale-korean: done
 - 1/1 fetched (Gutenberg 51002), 776 units, 0 ~2 ids.
+
+## 2026-10-02 21:57 CDT — bompas: done
+- 1/1 fetched (Gutenberg 11938), 1,409 units, 1 ~2 ids.
