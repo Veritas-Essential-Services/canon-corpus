@@ -3119,6 +3119,16 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | Cicero, The Speeches: Pro Archia, Post Reditum in Senatu, Post Reditum ad Quirites, De Domo Sua, De Haruspicum Responsis, Pro Plancio (Loeb, first printed 1923; this scan a 1965 reprint; Latin facing) | N. H. Watts | `cicero-watts-pro-archia-etc` | have-raw (IA `cicero-in-28-volumes.-vol.-11-loeb-158`) |
 | Cicero, The Speeches: Pro Lege Manilia, Pro Caecina, Pro Cluentio, Pro Rabirio Perduellionis (Loeb, first printed 1927; this scan a 1966 reprint; Latin facing) | H. Grose Hodge | `cicero-grose-hodge-pro-lege-manilia-etc` | have-raw (IA `cicero-in-28-volumes.-vol.-9-loeb-198`) |
 | Cicero, Pro Quinctio, Pro Roscio Amerino, Pro Roscio Comoedo, De Lege Agraria I-III (Loeb, first printed 1930; this scan a 1967 reprint; Latin facing) | John Henry Freese | `cicero-freese-pro-quinctio-etc` | have-raw (IA `cicero-in-28-volumes.-vol.-6-loeb-240`) |
+| Cicero's Epistles to Atticus, with notes, vol. I of two (Books I-VIII; T. Waller, 1752) | William Guthrie | `cicero-guthrie-atticus-1752-v1` | have-raw (IA `cicerosepistles00guthgoog`) |
+| Cicero's Epistles to Atticus, new edition corrected and amended, vol. II of three (Books VI-XI; Lackington, Allen, 1806) | William Guthrie | `cicero-guthrie-atticus-1806-v2` | have-raw (IA `cicerosepistles01cicegoog`) |
+| Cicero's Epistles to Atticus, new edition corrected and amended, vol. III of three (Books XII-XVI; 1806) | William Guthrie (title page lost in this volume; vol. II of the set names him) | `cicero-guthrie-atticus-1806-v3` | have-raw (IA `cicerosepistles00cicegoog`) |
+| M. T. Cicero, His Offices; Cato Major; Laelius; Moral Paradoxes; the Vision of Scipio; his Letter concerning the Duties of a Magistrate (T. Waller, 1755) | William Guthrie | `cicero-guthrie-offices-etc-1755` | have-raw (IA `mtcicerohisoffi00guthgoog`) |
+| Cicero on Oratory and Orators, with notes, new edition, vol. I of two (1808) | William Guthrie, amended by Jones (named in the volume's advertisements; the title page names no translator) | `cicero-guthrie-de-oratore-1808-v1` | have-raw (IA `onoratoryandorat01ciceuoft`) |
+| Cicero on Oratory and Orators, with notes, new edition, vol. II of two (1808) | William Guthrie, amended by Jones (as vol. I) | `cicero-guthrie-de-oratore-1808-v2` | have-raw (IA `onoratoryandorat02ciceuoft`) |
+| The Letters of Marcus Tullius Cicero to Titus Pomponius Atticus, in sixteen books, vol. I (Payne and Foss, 1825) | William Heberden | `cicero-heberden-atticus-1825-v1` | have-raw (IA `b24748742_0001`) |
+| The Letters of Marcus Tullius Cicero to Titus Pomponius Atticus, vol. II (Payne and Foss, 1825) | William Heberden | `cicero-heberden-atticus-1825-v2` | have-raw (IA `b24748742_0002`) |
+| M. Tullius Cicero of the Nature of the Gods, with notes, and an inquiry into the astronomy and anatomy of the ancients (Pickering, 1829) | Thomas Francklin | `cicero-francklin-nature-gods-1829` | have-raw (IA `naturegods00frangoog`) |
+| The Life and Letters of Marcus Tullius Cicero, a new translation of the letters in Watson's selection, second edition (Macmillan, 1887) | G. E. Jeans | `cicero-jeans-letters-1887` | have-raw (IA `cu31924026480347`) |
 
 Pending (wishlist): King's Tusculans (Loeb 1927; only the 1945 revised printing has text, refused).
 

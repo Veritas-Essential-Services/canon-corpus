@@ -740,6 +740,14 @@
    "started": "2026-10-03T02:53:45-05:00",
    "finished": "2026-10-03T02:55:22-05:00",
    "notes": "OCR 0.87-0.95. Mason's name is the catalogue's only (unchecked). Several Google scans (Theaetetus 1875, two Menos, Socrates 1879, More's Judgment of Socrates 1898) have no text layer on IA."
+  },
+  {
+   "id": "cicero-older",
+   "status": "done",
+   "scope": "Cicero: ten volumes of older translations (Guthrie, Heberden, Francklin, Jeans)",
+   "started": "2026-10-03T02:55:22-05:00",
+   "finished": "2026-10-03T03:00:49-05:00",
+   "notes": "Guthrie: Atticus 1752 vol. I + 1806 vols. II-III (different editions, labelled as such; vol. I of 1806 and vol. II of 1752 not found as text), Offices etc. 1755, De Oratore 1808 (2 vols.; translator named only in the volume's advertisements). Heberden's Atticus 1825 (2 vols.), Francklin 1829, Jeans 1887. OCR 0.88-0.96. A 1806 microform (epistlestoatticu00cice) with unclear volume contents not used."
   }
  ]
 }

@@ -133,3 +133,4 @@
 - **Presocratics (02:52):** new shelf; Patrick's Heraclitus and Leonard's Empedocles.
 - **Plato (02:53):** Church's Trial and Death of Socrates, Lindsay's Republic, Cope's Gorgias and Phaedo.
 - **Plato, more (02:55):** Wright, Dyde, Talks with Athenian Youths, Paley's Philebus.
+- **Cicero (03:00):** ten volumes of older translations: Guthrie, Heberden, Francklin, Jeans.

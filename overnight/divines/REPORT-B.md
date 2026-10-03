@@ -444,3 +444,9 @@
 ## 2026-10-03 02:55 CDT — Plato (2)
 - Plato: J. Wright's Phaedrus, Lysis, Protagoras (1888); S. W. Dyde's Theaetetus (1899); Talks with Athenian Youths (1891, translator unnamed in the volume); F. A. Paley's Philebus (1879)
 - No text layer on IA: a Theaetetus (1875), two Menos (1869, 1880), Socrates (1879), The Judgment of Socrates (1898)
+
+## 2026-10-03 03:00 CDT — Cicero (older translations)
+- Cicero: Guthrie's Epistles to Atticus (1752 vol. I; 1806 vols. II-III)
+- Cicero: Guthrie's Offices, Cato, Laelius, Paradoxes, Scipio's Dream (1755); his On Oratory and Orators (1808, 2 vols.)
+- Cicero: Heberden's Letters to Atticus (1825, 2 vols.); Francklin's Nature of the Gods (1829); Jeans's Life and Letters (1887)
+- Three translator claims unchecked with reasons (OCR'd name, lost title page, name only in advertisements)
