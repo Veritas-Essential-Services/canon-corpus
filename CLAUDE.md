@@ -86,7 +86,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/fetch_sources.py        # fetch everything missing (resumable)
     python3 pipeline/fetch_sources.py --list # show the manifests
     python3 pipeline/structure_texts.py      # build data/books/*.json + manifest
-    python3 tests/structure_test.py          # 191 offline checks (no corpus needed)
+    python3 tests/structure_test.py          # 197 offline checks (no corpus needed)
     python3 tests/wh_uid_test.py             # 67 identity-layer checks
     python3 tests/latin_shelf_uid_test.py    # wave-1 Latin shelf uids (vault; skips when unreachable)
     python3 pipeline/build_versification.py --fetch    # TVTMS + WLC, pinned
@@ -259,7 +259,11 @@ The living truth for project state is the Obsidian vault:
   Romans (7-16) and Jude are verse-divided in the file, so
   convert_catena_verses (table CATENA_VERSES) READS the passage urn instead
   of measuring; Munich Romans names the father of each comment, one unit
-  each (7.9-12.c1, field `by`).
+  each (7.9-12.c1, field `by`; "of the same" takes the father before it).
+  Every link is checked against the KJV's units: the Byzantine Romans
+  doxology (14:24-26) links to the KJV's 16:25-27 (CATENA_KJV_MOVED). A
+  placement whose lemma shares under 10% of its words with the verse is
+  dropped (MIN_PLACE); a second section on one verse is id + b (9.20b).
   The LATIN fathers (2026-10-02): 82 CSEL volumes (Vienna, 1867-1922) from
   OpenGreekAndLatin/csel-dev, slug suffix `-lat`, data/corpus/csel/, table
   CSEL in fetch_sources.py, through the same prose converter (OGL in
@@ -272,7 +276,7 @@ The living truth for project state is the Obsidian vault:
   Adamnan, Eucherius, Eugippius, Paulinus of Nola's letters, Sedulius'
   Opus paschale, Sulpicius Severus. Exclusions and why are in the CSEL
   comment.
-  Tertullian's works CSEL lacks come from Perseus (Oehler, 1853-54): 14
+  Tertullian's works CSEL lacks come from Perseus (Oehler, Leipzig, 1853 or 1854 by volume, as each rights note says): 14
   books in PERSEUS, listed in TEI_ORIGINAL so the converter records the
   edition and the rights say "Latin text", never "translation".
   Exclusions and why are in the FIRST1K comment.

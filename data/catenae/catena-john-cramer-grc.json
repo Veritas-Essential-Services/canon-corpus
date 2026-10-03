@@ -7,16 +7,17 @@
  },
  "rule": {
   "skip": 0.3,
-  "back": 0.25,
+  "back": 0.35,
   "gap": 0.05,
   "jump": 0.02,
   "fix": 0.35,
   "fix_min": 0.6,
   "fix_at": 0.3,
   "lb": 0.5,
-  "short": 3
+  "short": 3,
+  "min_place": 0.1
  },
- "honesty": "The chapter of every verse is MEASURED, not printed: of 466 numbered marks, 256 were placed at a verse by pipeline/place_catena.py (220 printed verse numbers, 36 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 184 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 226 at least 30% (the others are linked as weak); 8 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-21; a kephalaion with no placed mark is one unlinked unit.",
+ "honesty": "The chapter of every verse is MEASURED, not printed: of 466 numbered marks, 248 were placed at a verse by pipeline/place_catena.py (212 printed verse numbers, 36 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 184 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 226 at least 30% (the others are linked as weak); 8 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-21; a kephalaion with no placed mark is one unlinked unit.",
  "placed": [
   {
    "ord": 0,
@@ -370,15 +371,6 @@
    "score": 0.7273
   },
   {
-   "ord": 80,
-   "k": "5",
-   "n": "21",
-   "src": "lb",
-   "chapter": 4,
-   "verse": 21,
-   "score": 0.0625
-  },
-  {
    "ord": 83,
    "k": "5",
    "n": "27",
@@ -449,15 +441,6 @@
    "chapter": 4,
    "verse": 51,
    "score": 0.4167
-  },
-  {
-   "ord": 96,
-   "k": "6",
-   "n": "54",
-   "src": "lb",
-   "chapter": 4,
-   "verse": 54,
-   "score": 0.0833
   },
   {
    "ord": 97,
@@ -593,15 +576,6 @@
    "chapter": 5,
    "verse": 35,
    "score": 0.5833
-  },
-  {
-   "ord": 120,
-   "k": "7",
-   "n": "3",
-   "src": "lb",
-   "chapter": 5,
-   "verse": 3,
-   "score": 0.0
   },
   {
    "ord": 121,
@@ -964,15 +938,6 @@
    "score": 0.8333
   },
   {
-   "ord": 196,
-   "k": "9",
-   "n": "48",
-   "src": "lb",
-   "chapter": 7,
-   "verse": 48,
-   "score": 0.0
-  },
-  {
    "ord": 202,
    "k": "9",
    "n": "12",
@@ -1205,15 +1170,6 @@
    "chapter": 8,
    "verse": 54,
    "score": 0.4706
-  },
-  {
-   "ord": 245,
-   "k": "9",
-   "n": "58",
-   "src": "lb",
-   "chapter": 8,
-   "verse": 58,
-   "score": 0.0909
   },
   {
    "ord": 247,
@@ -1513,15 +1469,6 @@
    "score": 0.2
   },
   {
-   "ord": 302,
-   "k": "11",
-   "n": "8",
-   "src": "lb",
-   "chapter": 11,
-   "verse": 8,
-   "score": 0.0833
-  },
-  {
    "ord": 307,
    "k": "11",
    "n": "32",
@@ -1529,15 +1476,6 @@
    "chapter": 11,
    "verse": 32,
    "score": 0.15
-  },
-  {
-   "ord": 308,
-   "k": "11",
-   "n": "34",
-   "src": "lb",
-   "chapter": 11,
-   "verse": 34,
-   "score": 0.0
   },
   {
    "ord": 310,
@@ -1880,15 +1818,6 @@
    "chapter": 16,
    "verse": 33,
    "score": 0.5
-  },
-  {
-   "ord": 372,
-   "k": "17",
-   "n": "2",
-   "src": "lb",
-   "chapter": 17,
-   "verse": 2,
-   "score": 0.0769
   },
   {
    "ord": 374,
