@@ -114,6 +114,11 @@
    "odeshoraceineng00flacgoog",
    "The Odes of Horace in English verse (London, 1876)",
    "tr. W. E. H. Forsyth"
+  ],
+  "horace-hague-1892": [
+   "odesepodesofhora00horarich",
+   "The Odes and Epodes of Horace translated into English verse, with introduction, notes and Latin text (G. P. Putnam's Sons, 1892)",
+   "tr. John B. Hague"
   ]
  },
  "_cross_ref": {
@@ -156,7 +161,8 @@
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
-  "horace-martin-odes-1866": "title page OCRs the name as 'THEODOKE MARTIN'; the full name is not printed as a word in this OCR"
+  "horace-martin-odes-1866": "title page OCRs the name as 'THEODOKE MARTIN'; the full name is not printed as a word in this OCR",
+  "horace-hague-1892": "title page names John B. Hague, Ph.D. (G. P. Putnam's Sons, 1892); the OCR reads 'HAGUL'"
  },
  "_checks": {
   "horace-conington-odes": {
@@ -421,6 +427,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1876",
    "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-hague-1892": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "horatian",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
