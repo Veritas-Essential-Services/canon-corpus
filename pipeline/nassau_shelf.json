@@ -1,0 +1,46 @@
+{
+ "_about": "Robert Hamill Nassau's (1835-1921) Where Animals Talk, West African animal tales he heard in Gabon. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Robert Hamill Nassau",
+ "_name_words": [
+  "nassau"
+ ],
+ "_surname": [
+  "nassau"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "nassau-where-animals-talk": [
+   58900,
+   "Where Animals Talk: West African Folk Lore Tales",
+   {
+    "levels": [
+     {
+      "re": "PART (?:FIRST|SECOND|THIRD)$",
+      "title_next": true
+     },
+     {
+      "re": "(?:FOREWORD|TALE \\d+)$",
+      "title_next": true
+     },
+     {
+      "re": "NOTE\\.?$",
+      "strip": "\\.$"
+     }
+    ]
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "nassau-where-animals-talk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "nassau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
