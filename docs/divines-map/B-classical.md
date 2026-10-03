@@ -453,6 +453,7 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | Oedipus, King of Thebes, translated from the Oedipus Tyrannus of Sophocles (Oxford and London: John Henry Parker, 1849) | Sir Francis Hastings Doyle | `sophocles-doyle-oedipus-1849` | have-raw (IA `dipuskingthebes00sophgoog`) |
 | Sophocles, Oedipus Tyrannus, literally translated (Dublin; London: Simpkin, Marshall, 1865) | Roscoe Mongan | `sophocles-mongan-oedipus-tyrannus-1865` | have-raw (IA `sophoclesdipust00sophgoog`) |
 | Oedipus at Colonus, closely translated from the Greek of Sophocles: an experiment in metre (London: Simpkin, Marshall, Hamilton, Kent, 1894) | Arthur Compton Auchmuty Hull | `sophocles-hull-oedipus-coloneus-1894` | have-raw (IA `cu31924026593511`) |
+| The Antigone of Sophocles, translated with introduction and notes (Boston and New York: Houghton Mifflin; copyright 1899, this printing undated) | George Herbert Palmer | `sophocles-palmer-antigone-1899` | have-raw (IA `antigoneofsophoc0000geor_m2w3`) |
 
 Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 

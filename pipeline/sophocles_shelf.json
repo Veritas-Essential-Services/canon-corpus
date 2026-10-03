@@ -115,6 +115,11 @@
    "cu31924026593511",
    "Oedipus at Colonus, closely translated from the Greek of Sophocles: an experiment in metre (London: Simpkin, Marshall, Hamilton, Kent, 1894)",
    "tr. Arthur Compton Auchmuty Hull"
+  ],
+  "sophocles-palmer-antigone-1899": [
+   "antigoneofsophoc0000geor_m2w3",
+   "The Antigone of Sophocles, translated with introduction and notes (Boston and New York: Houghton Mifflin; copyright 1899, this printing undated)",
+   "tr. George Herbert Palmer"
   ]
  },
  "_cross_ref": {
@@ -154,6 +159,7 @@
   "sophocles-young-dramas-1888": "george young",
   "sophocles-mongan-oedipus-tyrannus-1865": "roscoe mongan",
   "sophocles-hull-oedipus-coloneus-1894": "arthur compton auchmuty hull",
+  "sophocles-palmer-antigone-1899": "george herbert palmer",
   "sophocles-doyle-oedipus-1849": "francis hastings doyle"
  },
  "_checks": {
@@ -422,6 +428,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1894",
    "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-palmer-antigone-1899": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "george herbert palmer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
