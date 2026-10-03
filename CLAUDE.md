@@ -541,7 +541,8 @@ The living truth for project state is the Obsidian vault:
   and by scanning for keys far from their neighbours'). Each unit of those
   books carries `kjva` (versification.resolve_dc). Jerome's Tobit and Judith
   are another recension: keyed only where the words agree. R. H. Charles's
-  1913 Apocrypha has a reserved slot (WITNESSES, TSV_COLUMNS): see
+  1913 Apocrypha is the fourth witness, `charles` (fifteen charles-* books read
+  as one; refs are the KJV book name before his own number): see
   docs/pending-sources.md.
 - pipeline/render_reader.py — the reverse-interlinear reader (D5) →
   build/reader/reader.html; test tests/reader_test.py. John's KJV column
