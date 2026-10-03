@@ -1050,6 +1050,11 @@ def main():
         bad = [s for s, (_, blob, e) in built.items() if manifest.get(s) != e]
         if bad:
             raise SystemExit(f"CHECK FAILED: rebuilt books differ from the manifest: {bad}")
+        if missing:
+            # a gate that skipped the aligned books has not checked them: say so, and fail
+            raise SystemExit(f"CHECK INCOMPLETE: {len(built)} books match, but the work books "
+                             f"aligned to {sorted(set(missing))} were not built (their counterpart "
+                             "source is missing); fetch it and re-run")
         print(f"  CHECK PASSED: {len(built)} books = their committed manifest entries.")
         return
     os.makedirs(BOOKS, exist_ok=True)
