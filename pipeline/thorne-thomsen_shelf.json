@@ -1,0 +1,39 @@
+{
+ "_about": "The Birch and the Star, and Other Stories (Row, Peterson, 1915): stories by Jørgen Moe and Zacharias Topelius, given in English by Gudrun Thorne-Thomsen. The title page reads 'By Gudrun Thorne-Thomsen' and the book names no other translator; her foreword says the stories were written in Norwegian and Swedish. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Gudrun Thorne-Thomsen (English); Jørgen Moe and Zacharias Topelius",
+ "_name_words": [
+  "thorne-thomsen",
+  "thomsen"
+ ],
+ "_surname": [
+  "thorne-thomsen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "thorne-thomsen-birch-and-the-star": [
+   49201,
+   "The Birch and the Star, and Other Stories",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "thorne-thomsen-birch-and-the-star": "Thorne-Thomsen"
+ },
+ "_checks": {
+  "thorne-thomsen-birch-and-the-star": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thorne-thomsen",
+   "translator_claimed": "Thorne-Thomsen",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
