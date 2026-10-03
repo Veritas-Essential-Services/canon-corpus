@@ -1,0 +1,38 @@
+{
+ "_about": "The Wodrow Society's collective volume: The Miscellany of the Wodrow Society, vol. 1, ed. David Laing (Edinburgh, 1844). The name check looks for the Society's name. The Society's authored volumes have their own shelves (john-knox, calderwood, james-melville, rollock, robert-bruce). Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_name_words": [
+  "wodrow"
+ ],
+ "_surname": [
+  "wodrow"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wodrow-miscellany-1": [
+   "miscellanyofwodr01wodr",
+   "The Miscellany of the Wodrow Society: tracts and original letters, chiefly relating to the Church of Scotland, ed. David Laing (Wodrow Society, Edinburgh, 1844), vol. 1"
+  ]
+ },
+ "_alternates": {
+  "miscellanyofwodr01lain, miscellanywodro00laingoog, miscellanywodro0[01]edingoog": "Other scans of the Miscellany."
+ },
+ "_pending": {
+  "John Row, History of the Kirk of Scotland (Wodrow Society, 1842)": "Not yet searched.",
+  "Robert Blair's Life; James Melville's other pieces; Spottiswoode's History (Bannatyne/Spottiswoode Society)": "Not yet searched."
+ },
+ "_excluded": {},
+ "_checks": {
+  "wodrow-miscellany-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wodrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
