@@ -313,3 +313,6 @@
 
 ## 2026-10-02 21:15 CDT — timothy-dwight done
 - `pipeline/timothy-dwight_shelf.json`: 4 volumes, raw IA OCR, median 98.6%, about 7.2 MB; title pages read (Harper, 1846, vols I-IV). `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.
+
+## 2026-10-02 21:17 CDT — samuel-hopkins done
+- `pipeline/samuel-hopkins_shelf.json`: 3 volumes, raw IA OCR, median 98.8% (98.1-98.8%), about 7.6 MB; title page read (Boston, 1854, three volumes). The memoir's author is not on the title page, so the shelf does not name him. `--verify --record`: 0 mismatched, 0 rights flags. 0 uids minted.

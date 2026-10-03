@@ -1144,6 +1144,16 @@ No CCEL or Gutenberg text of the Theology. Raw IA OCR from California scans; slu
 |---|---|---|
 | Theology Explained and Defended in a Series of Sermons, 4 vols (New York: Harper, 1846, with a memoir) | have-raw | IA (identifiers in the shelf) |
 | Editions of 1818-1837 | alternate | IA |
+
+## Samuel Hopkins (round 7, my pick, 2026-10-02)
+
+No CCEL or Gutenberg text. Raw IA OCR from Princeton scans; slugs `shopkins-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Works, 3 vols (Boston: Doctrinal Tract and Book Society, 1854, with a memoir): the System of Doctrines, the Inquiry into True Holiness, the Dialogue concerning the Slavery of the Africans and more | have-raw | IA (identifiers in the shelf) |
+| Separate printings (1765-1815), including his Life of Edwards | alternate | IA |
+| Sketches of his life (1805) | excluded | autobiographical, edited by Stephen West; for Adam to add if wanted |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

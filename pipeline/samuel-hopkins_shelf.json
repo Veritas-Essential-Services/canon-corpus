@@ -1,0 +1,76 @@
+{
+ "_about": "Public-domain Samuel Hopkins (1721-1803, New Divinity theologian, pupil and biographer of Jonathan Edwards, pastor at Newport, Rhode Island, an early opponent of the slave trade) for the Word Hoard: the Works (Boston: Doctrinal Tract and Book Society, 1854, 3 vols, with a memoir of his life), including the System of Doctrines, raw Internet Archive OCR from Princeton scans. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 7 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "hopkins",
+  "samuel"
+ ],
+ "_surname": [
+  "hopkins"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "shopkins-works-1": [
+   "worksofsamuelhop01hopk",
+   "The Works of Samuel Hopkins, vol. 1 (Boston: Doctrinal Tract and Book Society, 1854, with a memoir)"
+  ],
+  "shopkins-works-2": [
+   "worksofsamuelhop02hopk",
+   "The Works of Samuel Hopkins, vol. 2 (Boston: Doctrinal Tract and Book Society, 1854, with a memoir)"
+  ],
+  "shopkins-works-3": [
+   "worksofsamuelhop03hopk",
+   "The Works of Samuel Hopkins, vol. 3 (Boston: Doctrinal Tract and Book Society, 1854, with a memoir)"
+  ]
+ },
+ "_alternates": {
+  "6330e45a-..., 3e84b313-..., 6a5a65a9-... (antislavery collection, 1852); workssamuelhopk00hardgoog, 00/01parkgoog": "Other scans and printings of the same Works.",
+  "systemofdoctrin* (1793, 1811)": "Separate editions of the System of Doctrines.",
+  "lifecharacterofl00hopk, lifecharacterofl00ho (1765); cu31924029461278 (1815)": "His Life of Edwards, separately printed.",
+  "dialogueconcerni00hopk (1776); inquiryconcernin00hopk (1783); inquiryintonatur00hopk (1791); memoirsoflifeofm*, memoirslifemrss01hopkgoog (Sarah Osborn); lifecharacterofm00anth (Susanna Anthony)": "Separate printings of his shorter books."
+ },
+ "_excluded": {
+  "bplscarwm manuscripts; philliswheatleyl00whea": "Letters and manuscripts.",
+  "dialogueconcerni0000hopk (1970), treatiseonmillen0000hopk (1972)": "Modern reprints.",
+  "sketchesoflifeof00hop, 00hopk (1805)": "His autobiographical sketches, edited by Stephen West; left for Adam to add if wanted.",
+  "lessonsatcrossor00hopk (1864)": "By a later Samuel Hopkins.",
+  "hetleevenvandenw00hopk": "A Dutch translation of his Life of Edwards.",
+  "tennewenglandlea00walk": "Walker's Ten New England Leaders, another author."
+ },
+ "_checks": {
+  "shopkins-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hopkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shopkins-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hopkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "shopkins-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hopkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
