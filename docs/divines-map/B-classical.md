@@ -40,10 +40,18 @@ Shelf: `pipeline/plato_shelf.json`. Jowett, *The Dialogues of Plato*, 3rd ed. (O
 | The Dialogues of Plato, 3rd ed. (Oxford: Clarendon, 1892), vol. 3 | Jowett | `plato-jowett-1892-v3` | have-raw (IA `b24750189_0003`) |
 | The Dialogues of Plato, 3rd ed. (Oxford: Clarendon, 1892), vol. 4 | Jowett | `plato-jowett-1892-v4` | have-raw (IA `b24750189_0004`) |
 | The Dialogues of Plato, 3rd ed. (Oxford: Clarendon, 1892), vol. 5 | Jowett | `plato-jowett-1892-v5` | have-raw (IA `b24750189_0005`) |
+| The Works of Plato, vol. 1 of 6 (Bohn, 1848) | Henry Cary | `plato-bohn-cary-v1-pg` | have (PG 78618) |
+| The Works of Plato, vol. 2 of 6 (Bohn, 1849) | Henry Davis | `plato-bohn-davis-v2-pg` | have (PG 79398) |
+| The Works of Plato, a new and literal version, vol. 1: Apology, Crito, Phaedo, Gorgias, Protagoras, Phaedrus, Theaetetus, Euthyphron, Lysis (Bohn, 1848) | Henry Cary | `plato-bohn-v1` | have-raw (IA `theworksofplato01platiala`) |
+| The Works of Plato, a new and literal version, vol. 2: Republic, Timaeus, Critias (Bohn, 1849) | Henry Davis | `plato-bohn-v2` | have-raw (IA `worksofplatonewl02platiala`) |
+| The Works of Plato, a new and literal version, vol. 3: Meno, Euthydemus, Sophist, Statesman, Cratylus, Parmenides, Banquet (Bohn, 1850) | George Burges | `plato-bohn-v3` | have-raw (IA `theworksofplato03platiala`) |
+| The Works of Plato, a new and literal version, vol. 4: Philebus, Hippias Minor, Rivals, Charmides, Ion, Hipparchus, Laches, Alcibiades I-II, Minos, Menexenus, Clitopho, Hippias Major, Theages, Epistles (Bohn, 1851) | George Burges | `plato-bohn-v4` | have-raw (IA `b29340986_0004`) |
+| The Works of Plato, a new and literal version, vol. 5: The Laws (Bohn, 1852) | George Burges | `plato-bohn-v5` | have-raw (IA `worksofplatonew05platiala`) |
+| The Works of Plato, a new and literal version, vol. 6: the doubtful works, with lives and introductions (Bohn, 1854) | George Burges | `plato-bohn-v6` | have-raw (IA `worksofplatonewl06platiala`) |
 
 Pending (wishlist):
 
-- Greater Hippias, Hipparchus, Minos, Lovers (Rivals), Theages, Clitophon, Epinomis, the Epistles, Definitions: not in Jowett's edition. PD English exists in the Bohn *Works of Plato* (Cary, Davis, Burges, 6 vols., 1848–54), of which PG has vols. 1–2 (78618, 79398); the rest want an Internet Archive set. A second-translator shelf, Adam's call.
+- Held now (2026-10-02): the complete Bohn *Works of Plato* (Cary, Davis, Burges, 6 vols., 1848-54), which carries the dialogues Jowett left out (Greater Hippias, Hipparchus, Minos, Rivals, Theages, Clitophon, Epinomis, the Epistles, Definitions and the other doubtful works). Vols. 1-2 are clean from Gutenberg as well. Whether a second translator belongs on this shelf or its own is still Adam's call; moving the rows is cheap.
 - The Republic, Jowett's separate 3rd ed. with marginal analysis and index (PG 55201): an alternate witness of the Republic.
 - The Dialogues of Plato, 1892, vol. 2 as a clean Gutenberg transcription (PG 76464, 2025): the other four volumes are not on Gutenberg yet; when they are, that is the cleanest collected edition.
 - Shelley's Symposium and Ion; Thomas Taylor's complete Plato (1804): PD, other translators, not fetched.

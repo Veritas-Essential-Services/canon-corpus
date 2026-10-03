@@ -1,5 +1,5 @@
 {
- "_about": "Plato in English: Benjamin Jowett's complete translation of the dialogues (3rd ed., Oxford, 1892), public domain. One translator's whole Plato. Gutenberg texts are clean and carry Jowett's introductions and analyses; the Internet Archive set is the 1892 Clarendon five-volume collected edition (Royal College of Physicians copy) as raw OCR, kept as the page-citable edition of record and for the general index in vol. 5. Order: Gutenberg > Internet Archive. English only; no Greek. Translator recorded per title. Alcibiades II and Eryxias in Jowett's edition were translated by his secretary Matthew Knight (Jowett says so in the introduction to his second appendix). Two Jowett texts were already in the collection via the Adler shelf (Republic, Apology); they are cross-referenced, not refetched.",
+ "_about": "Plato in English: Benjamin Jowett's complete translation of the dialogues (3rd ed., Oxford, 1892), public domain. One translator's whole Plato. Gutenberg texts are clean and carry Jowett's introductions and analyses; the Internet Archive set is the 1892 Clarendon five-volume collected edition (Royal College of Physicians copy) as raw OCR, kept as the page-citable edition of record and for the general index in vol. 5. Order: Gutenberg > Internet Archive. English only; no Greek. Translator recorded per title. Alcibiades II and Eryxias in Jowett's edition were translated by his secretary Matthew Knight (Jowett says so in the introduction to his second appendix). Two Jowett texts were already in the collection via the Adler shelf (Republic, Apology); they are cross-referenced, not refetched. Second translator, added 2026-10-02: the complete Bohn Works of Plato (Cary, Davis, Burges; 6 vols., 1848-54) as raw IA OCR, with vols. 1-2 also clean from Gutenberg (PG 78618, 79398). It carries the dialogues Jowett left out (Hipparchus, Minos, Rivals, Theages, Clitophon, Epinomis, the Epistles, Definitions and the other doubtful works).",
  "_name_words": [
   "plato",
   "jowett",
@@ -168,6 +168,16 @@
    "Laws",
    "tr. Benjamin Jowett",
    "vol. 5"
+  ],
+  "plato-bohn-cary-v1-pg": [
+   78618,
+   "The Works of Plato, vol. 1 of 6 (Bohn, 1848)",
+   "tr. Henry Cary"
+  ],
+  "plato-bohn-davis-v2-pg": [
+   79398,
+   "The Works of Plato, vol. 2 of 6 (Bohn, 1849)",
+   "tr. Henry Davis"
   ]
  },
  "internet_archive": {
@@ -195,6 +205,36 @@
    "b24750189_0005",
    "The Dialogues of Plato, 3rd ed. (Oxford: Clarendon, 1892), vol. 5",
    "tr. Benjamin Jowett"
+  ],
+  "plato-bohn-v1": [
+   "theworksofplato01platiala",
+   "The Works of Plato, a new and literal version, vol. 1: Apology, Crito, Phaedo, Gorgias, Protagoras, Phaedrus, Theaetetus, Euthyphron, Lysis (Bohn, 1848)",
+   "tr. Henry Cary"
+  ],
+  "plato-bohn-v2": [
+   "worksofplatonewl02platiala",
+   "The Works of Plato, a new and literal version, vol. 2: Republic, Timaeus, Critias (Bohn, 1849)",
+   "tr. Henry Davis"
+  ],
+  "plato-bohn-v3": [
+   "theworksofplato03platiala",
+   "The Works of Plato, a new and literal version, vol. 3: Meno, Euthydemus, Sophist, Statesman, Cratylus, Parmenides, Banquet (Bohn, 1850)",
+   "tr. George Burges"
+  ],
+  "plato-bohn-v4": [
+   "b29340986_0004",
+   "The Works of Plato, a new and literal version, vol. 4: Philebus, Hippias Minor, Rivals, Charmides, Ion, Hipparchus, Laches, Alcibiades I-II, Minos, Menexenus, Clitopho, Hippias Major, Theages, Epistles (Bohn, 1851)",
+   "tr. George Burges"
+  ],
+  "plato-bohn-v5": [
+   "worksofplatonew05platiala",
+   "The Works of Plato, a new and literal version, vol. 5: The Laws (Bohn, 1852)",
+   "tr. George Burges"
+  ],
+  "plato-bohn-v6": [
+   "worksofplatonewl06platiala",
+   "The Works of Plato, a new and literal version, vol. 6: the doubtful works, with lives and introductions (Bohn, 1854)",
+   "tr. George Burges"
   ]
  },
  "_excluded": {

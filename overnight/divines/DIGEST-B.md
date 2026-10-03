@@ -5,7 +5,7 @@
 
 | Author | Held (clean / raw) | Pending, short |
 |---|---|---|
-| Plato (Jowett) | 27 / 5 | Bohn Plato for the dialogues Jowett omitted |
+| Plato (Jowett; Bohn Cary-Davis-Burges) | 29 / 11 | Taylor 1804, Shelley |
 | Aristotle (Oxford, Smith & Ross) | 0 / 11 | vol. III (US PD 2027-01-01), vol. XII (1952) |
 | Hesiod (Evelyn-White) | 1 / 0 | Elton |
 | Ovid (Riley; Golding, Howard) | 6 / 3 | Marlowe's Elegies, Brookes More |
