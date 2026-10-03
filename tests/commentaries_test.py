@@ -477,8 +477,11 @@ check("manifest: Lane A's same scans are named", all("same_scan_as" in ents[k]["
 check("meyer: every volume pinned, printed before 1929, IA date recorded, in SECOND and ORDER",
       B.MEYER and all(re.fullmatch(r"[0-9a-f]{64}", v["sha256"]) and v["printed"] < 1929 and v.get("ia_date")
                       and k in B.SECOND and k in B.ORDER and v["reader"] == "meyer" for k, v in B.MEYER.items()))
-check("meyer: the Gospels and Romans are shelved",
-      {b for v in B.MEYER.values() for b, _, _ in v["epistles"]} >= {"Matt", "Mark", "Luke", "John", "Rom"})
+check("meyer: the Gospels, Acts, Romans and Corinthians are shelved",
+      {b for v in B.MEYER.values() for b, _, _ in v["epistles"]} >= {"Matt", "Mark", "Luke", "John", "Acts", "Rom",
+                                                                    "1Cor", "2Cor"})
+check("meyer: Corinthians vol. II holds 1 Cor 14-16 and 2 Cor, so its ids name the book",
+      "meyer-corinthians-2" in B.MULTI and B.MEYER["meyer-corinthians-2"]["first_chapter"] == {"1Cor": 14})
 check("meyer: an IA date that is not the title page's year says why",
       all(v.get("ia_date_note") for v in B.MEYER.values() if not v["ia_date"].startswith(str(v["printed"]))))
 check("meyer: no Godet volume is shelved (no scan keeps its Greek)", not any("godet" in k for k in B.ORDER))
@@ -532,6 +535,19 @@ for k in B.MEYER:
 check("manifest: Meyer on Mark and on Romans comment on 95% of their verses",
       all(ents[k]["measure"]["kjv_coverage"][b]["commented"] >= 0.95 * ents[k]["measure"]["kjv_coverage"][b]["kjv_verses"]
           for k, b in (("meyer-mark-luke-1", "Mark"), ("meyer-romans", "Rom")) if k in ents))
+
+
+def _in_chapters(e, b):
+    c = e["measure"]["kjv_coverage"][b]
+    return c["commented"] / c.get("kjv_verses_in_chapters", c["kjv_verses"])
+
+
+check("manifest: Meyer on Acts and Corinthians comments on 93% of the verses in the chapters each volume holds",
+      all(_in_chapters(ents[k], b) >= 0.93 for k, b in (
+          ("meyer-acts-1", "Acts"), ("meyer-acts-2", "Acts"), ("meyer-corinthians-1", "1Cor"),
+          ("meyer-corinthians-2", "1Cor"), ("meyer-corinthians-2", "2Cor")) if k in ents))
+check("manifest: Meyer's Acts II read 'XX.' over chapter XIX as XIX (the running heads print it)",
+      ents.get("meyer-acts-2", {}).get("measure", {}).get("chapter_headings_skip_refused", 0) >= 1)
 
 print(f"\n{passed} passed, {failed} failed")
 sys.exit(1 if failed else 0)

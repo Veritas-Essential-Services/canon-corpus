@@ -2959,9 +2959,14 @@ def build_book_2b(slug, ids):
 #                   (1874, vol. II), criticalexeg00meye (1881, vol. I). The Funk & Wagnalls issue (New York,
 #                   1884, with Timothy Dwight's notes for the American edition): criticalexegetic06meye
 #                   6.5% / 40.5%  <- chosen; criticalandexeg03meyegoog, criticalandexege05meyeuoft: 0.0%
-#   (Acts: criticalexegetic51meye / 52meye 1877 keep the Greek, 6.2% and 7.4%; Corinthians: criticalexegetic71meye
-#   / 72meye 1877, 7.3% and 8.3%: measured, not yet shelved. CriticalExegeticalHandbookNewTestament11Volumes,
-#   a modern compilation of no stated edition, and in.ernet.dli.2015.350526: 0.0%.)
+#   Acts I, II      criticalexegetic51meye / 52meye (Princeton, 1877) 6.2% / 33.8% and 7.4% / 31.0%  <- chosen;
+#                   criticalexegetic01meyeiala 6.1% / 33.4%, criticalexeget00meye 5.7% / 33.3% (vol. I): not better
+#   Corinthians I   criticalexegetic71meye (Princeton, 1877) 7.3% / 40.3%  <- chosen; criticalexege01meye
+#                   6.9% / 40.6%, Funk & Wagnalls criticalexegetme00meye (1884) 7.3% / 41.0%: not clearly better;
+#                   criticalhandbook01meyeuoft: catalogued 1906-
+#   Corinthians II  criticalexegetic72meye (Princeton, title page 1879) 8.3% / 41.0%  <- chosen
+#   (CriticalExegeticalHandbookNewTestament11Volumes, a modern compilation of no stated edition, and
+#   in.ernet.dli.2015.350526: 0.0%.)
 #
 # F. Godet's commentaries in the T. & T. Clark translation (John, 3 vols, 1876-77 and later issues; Luke,
 # 2 vols, 1875 and later; Romans, 2 vols, 1880-81; 1 Corinthians, 2 vols, 1886-87) are NOT SHELVED: all 50
@@ -3062,6 +3067,42 @@ MEYER = {
         scan_choice="every T&T Clark scan of Romans (1873, 1874, 1881) has 0.0% Greek; this Funk & Wagnalls issue "
                     "keeps it: Greek 6.5%, known 40.5%; criticalandexeg03meyegoog and criticalandexege05meyeuoft "
                     "(the same issue): 0.0%"),
+    "meyer-acts-1": _meyer(
+        "criticalexegetic51meye", "32b16af1c81832fd678e4195b6a0a18872d580a3f9f20d286a2d622a7d29a27f",
+        "Critical and Exegetical Handbook to the Acts of the Apostles, vol. I", "Meyer, Acts I",
+        f"{_MEY}: the Acts of the Apostles, vol. I (chapters i.-xii.), tr. from the fourth German edition by "
+        "Paton J. Gloag, revised and edited by William P. Dickson (MDCCCLXXVII: 1877), as its title page reads",
+        1877, "Princeton Theological Seminary Library", (7, 340), [("Acts", 53, 338)], "1877",
+        scan_choice="criticalexegetic51meye (the Princeton set): Greek 6.2%, known 33.8%; criticalexegetic01meyeiala "
+                    "6.1% / 33.4% and criticalexeget00meye 5.7% / 33.3%: not better"),
+    "meyer-acts-2": _meyer(
+        "criticalexegetic52meye", "5240ce3b1d0e3cb5178b8e1d4efa339920d1481d6cac87636840498564cd041d",
+        "Critical and Exegetical Handbook to the Acts of the Apostles, vol. II", "Meyer, Acts II",
+        f"{_MEY}: the Acts of the Apostles, vol. II (chapters xiii.-xxviii.), tr. Paton J. Gloag, revised and "
+        "edited by William P. Dickson (MDCCCLXXVII: 1877), as its title page reads", 1877,
+        "Princeton Theological Seminary Library", (9, 338), [("Acts", 13, 337)], "1877",
+        first_chapter={"Acts": 13},
+        scan_choice="criticalexegetic52meye, the same Princeton set as vol. I: Greek 7.4%, known 31.0%"),
+    "meyer-corinthians-1": _meyer(
+        "criticalexegetic71meye", "fcaf4b22a50fb767972384cc029e1e53ae34a366397bf728c9d6ed4dbf1ac334",
+        "Critical and Exegetical Handbook to the Epistles to the Corinthians, vol. I", "Meyer, Cor. I",
+        f"{_MEY}: the Epistles to the Corinthians, vol. I (First Epistle, chapters i.-xiii.), tr. from the fifth "
+        "German edition by D. Douglas Bannerman, revised and edited by William P. Dickson (MDCCCLXXVII: 1877), "
+        "as its title page reads", 1877, "Princeton Theological Seminary Library", (9, 425),
+        [("1Cor", 34, 424)], "1877",
+        scan_choice="criticalexegetic71meye (the Princeton set): Greek 7.3%, known 40.3%; criticalexege01meye "
+                    "6.9% / 40.6% and the Funk & Wagnalls issue criticalexegetme00meye (1884) 7.3% / 41.0%: not "
+                    "clearly better; criticalhandbook01meyeuoft is catalogued 1906-"),
+    "meyer-corinthians-2": _meyer(
+        "criticalexegetic72meye", "688cdcce28c09942f9e291efd9a6a1af23b4f8c19b4b1a4dfec3173932f06943",
+        "Critical and Exegetical Handbook to the Epistles to the Corinthians, vol. II", "Meyer, Cor. II",
+        f"{_MEY}: the Epistles to the Corinthians, vol. II (First Epistle, chapters xiv.-xvi., tr. D. Douglas "
+        "Bannerman; Second Epistle, tr. from the fifth German edition by David Hunter; revised and edited by "
+        "William P. Dickson) (MDCCCLXXIX: 1879), as its title page reads", 1879,
+        "Princeton Theological Seminary Library", (13, 540), [("1Cor", 19, 142), ("2Cor", 151, 534)], "1877",
+        ia_date_note="IA catalogues it 1877 (the set's first date); this volume's title page reads 1879",
+        first_chapter={"1Cor": 14},
+        scan_choice="criticalexegetic72meye, the same Princeton set as vol. I: Greek 8.3%, known 41.0%"),
 }
 SCANS.update(MEYER)
 SECOND.update(MEYER)
@@ -3173,7 +3214,8 @@ def build_scan_meyer(slug, ids):
                 m["leaves_page"] += 1
             continue
         m["leaves_commentary"] += 1
-        hc, hv = sc_head(head, nch[book])
+        # 'CHAP. XXVL 4, 5.': a final L after a roman is its I and the period (no NT book reaches chapter L)
+        hc, hv = sc_head(re.sub(r'(?<=[IVX])L(?=[\s.,:;]|$)', 'I', head or ""), nch[book])
         hv = [v for v in hv if v not in nums]
         xs0 = sorted(l["bbox"][0] for l, _ in body if len(l["words"]) >= 4)
         mg = xs0[len(xs0) // 5] if xs0 else 0
@@ -3318,6 +3360,9 @@ def decode_meyer(slug, items, decoders, pp, m):
             nxt_c = last_ch[book] + 1
             # of the readings ('IIL' is II or III), the next chapter first, else one skipped
             h = next((x for x in sorted(it["heading"]) if last_ch[book] < x <= last_ch[book] + 2 and x <= dec.nch), None)
+            if h == nxt_c + 1 and nxt_c in (it["hc"], it["hc_next"]):
+                h = nxt_c               # a heading that skips a chapter the running heads print ('XX.' for XIX.)
+                m["chapter_headings_skip_refused"] += 1
             if h is not None:
                 chapter(book, h, it, "chapter_headings_read")
             elif nxt_c <= dec.nch:

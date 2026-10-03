@@ -30901,5 +30901,299 @@
    }
   },
   "built_sha256": "4fe6eadf3d7b3e6b999916db8c5973128144f4c70c38653b3823100f3751d571"
+ },
+ "meyer-acts-1": {
+  "title": "Critical and Exegetical Handbook to the Acts of the Apostles, vol. I",
+  "author": "H. A. W. Meyer",
+  "format": "ia-hocr",
+  "sha256": "32b16af1c81832fd678e4195b6a0a18872d580a3f9f20d286a2d622a7d29a27f",
+  "units": 332,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic51meye (the Princeton set): Greek 6.2%, known 33.8%; criticalexegetic01meyeiala 6.1% / 33.4% and criticalexeget00meye 5.7% / 33.3%: not better",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Acts of the Apostles, vol. I (chapters i.-xii.), tr. from the fourth German edition by Paton J. Gloag, revised and edited by William P. Dickson (MDCCCLXXVII: 1877), as its title page reads; scan leaves 7-340 of criticalexegetic51meye"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1877); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic51meye (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic51meye",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 13,
+    "note": 272,
+    "page": 47
+   },
+   "chapter_headings_read": 12,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 752,
+   "inline_openers_outside_notes": 179,
+   "junk_lines_dropped": 8,
+   "leaves_commentary": 286,
+   "leaves_page": 47,
+   "openers_accepted": 272,
+   "openers_naming_sigla": 1,
+   "printed_page_from_neighbours": 144,
+   "printed_page_read": 171,
+   "kjv_coverage": {
+    "Acts": {
+     "kjv_verses": 1007,
+     "commented": 418,
+     "with_own_note": 157,
+     "chapters": [
+      1,
+      12
+     ],
+     "kjv_verses_in_chapters": 439
+    }
+   },
+   "scripture_links": {
+    "read": 2031,
+    "resolved": 1819,
+    "ranges": 40,
+    "ranges_start_only": 0
+   },
+   "greek": {
+    "greek_letters": 32774,
+    "greek_share_of_letters": 0.0635,
+    "greek_tokens_3plus": 5304,
+    "greek_tokens_in_reference_vocab": 0.3409,
+    "mixed_script_tokens": 15
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "f1b7d8beaa57dd18ca2534ff229955898fd8e27a3e0266b7a4a9106b409ca877"
+ },
+ "meyer-acts-2": {
+  "title": "Critical and Exegetical Handbook to the Acts of the Apostles, vol. II",
+  "author": "H. A. W. Meyer",
+  "format": "ia-hocr",
+  "sha256": "5240ce3b1d0e3cb5178b8e1d4efa339920d1481d6cac87636840498564cd041d",
+  "units": 392,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic52meye, the same Princeton set as vol. I: Greek 7.4%, known 31.0%",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Acts of the Apostles, vol. II (chapters xiii.-xxviii.), tr. Paton J. Gloag, revised and edited by William P. Dickson (MDCCCLXXVII: 1877), as its title page reads; scan leaves 9-338 of criticalexegetic52meye"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1877); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic52meye (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic52meye",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 17,
+    "note": 371,
+    "page": 4
+   },
+   "chapter_headings_implied": 2,
+   "chapter_headings_read": 8,
+   "chapter_headings_skip_refused": 1,
+   "chapter_headings_unread_next": 6,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 684,
+   "inline_openers_outside_notes": 232,
+   "junk_lines_dropped": 14,
+   "leaves_commentary": 325,
+   "leaves_page": 4,
+   "openers_accepted": 371,
+   "openers_against_running_head": 1,
+   "printed_page_from_neighbours": 127,
+   "printed_page_read": 189,
+   "kjv_coverage": {
+    "Acts": {
+     "kjv_verses": 1007,
+     "commented": 544,
+     "with_own_note": 214,
+     "chapters": [
+      13,
+      28
+     ],
+     "kjv_verses_in_chapters": 568
+    }
+   },
+   "scripture_links": {
+    "read": 1473,
+    "resolved": 1307,
+    "ranges": 16,
+    "ranges_start_only": 0
+   },
+   "greek": {
+    "greek_letters": 42336,
+    "greek_share_of_letters": 0.0818,
+    "greek_tokens_3plus": 6738,
+    "greek_tokens_in_reference_vocab": 0.3117,
+    "mixed_script_tokens": 30
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "6aba9ff8963fcedb72ccc7fa4f3671d270900ff3feba77772c7e5aca8e74d58e"
+ },
+ "meyer-corinthians-1": {
+  "title": "Critical and Exegetical Handbook to the Epistles to the Corinthians, vol. I",
+  "author": "H. A. W. Meyer",
+  "format": "ia-hocr",
+  "sha256": "fcaf4b22a50fb767972384cc029e1e53ae34a366397bf728c9d6ed4dbf1ac334",
+  "units": 322,
+  "scheme": {
+   "citation": "note: chapter.verse of the verse commented on (a run of verses: chapter.verse-end); a chapter's heading and critical notes: chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic71meye (the Princeton set): Greek 7.3%, known 40.3%; criticalexege01meye 6.9% / 40.6% and the Funk & Wagnalls issue criticalexegetme00meye (1884) 7.3% / 41.0%: not clearly better; criticalhandbook01meyeuoft is catalogued 1906-",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Epistles to the Corinthians, vol. I (First Epistle, chapters i.-xiii.), tr. from the fifth German edition by D. Douglas Bannerman, revised and edited by William P. Dickson (MDCCCLXXVII: 1877), as its title page reads; scan leaves 9-425 of criticalexegetic71meye"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1877); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic71meye (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic71meye",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 14,
+    "note": 283,
+    "page": 25
+   },
+   "chapter_headings_read": 7,
+   "chapter_headings_unread_next": 6,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 1395,
+   "inline_openers_outside_notes": 113,
+   "junk_lines_dropped": 18,
+   "leaves_commentary": 391,
+   "leaves_page": 25,
+   "notes_reopened": 3,
+   "openers_accepted": 286,
+   "openers_out_of_sequence": 1,
+   "printed_page_from_neighbours": 196,
+   "printed_page_read": 188,
+   "kjv_coverage": {
+    "1Cor": {
+     "kjv_verses": 437,
+     "commented": 298,
+     "with_own_note": 234,
+     "chapters": [
+      1,
+      13
+     ],
+     "kjv_verses_in_chapters": 315
+    }
+   },
+   "scripture_links": {
+    "read": 2697,
+    "resolved": 2366,
+    "ranges": 78,
+    "ranges_start_only": 1
+   },
+   "greek": {
+    "greek_letters": 49761,
+    "greek_share_of_letters": 0.0714,
+    "greek_tokens_3plus": 8070,
+    "greek_tokens_in_reference_vocab": 0.4128,
+    "mixed_script_tokens": 26
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "a9c7a2af24399585aea3bb96b549a72e2a1fd7ba210f66071825e985bcac2dcb"
+ },
+ "meyer-corinthians-2": {
+  "title": "Critical and Exegetical Handbook to the Epistles to the Corinthians, vol. II",
+  "author": "H. A. W. Meyer",
+  "format": "ia-hocr",
+  "sha256": "688cdcce28c09942f9e291efd9a6a1af23b4f8c19b4b1a4dfec3173932f06943",
+  "units": 369,
+  "scheme": {
+   "citation": "note: book.chapter.verse of the verse commented on (a run of verses: book.chapter.verse-end); a chapter's heading and critical notes: book.chapter.intro; everything else: scan leaf (leaf.N; folio in scan.printed_page)",
+   "resolution": "verse-note",
+   "honesty": "notes keyed by verse where the OCR'd page lets them be: Meyer's exegesis opens each verse's paragraph 'Ver. 4.' or 'Vv. 2-6.', and an indented paragraph so opening is a candidate, accepted when the verse sequence and the running head ('CHAP. XVII. 4-8.') allow it; following paragraphs belong to it until the next accepted opener; the chapter is set by Meyer's 'CHAPTER IV.' headings, read fuzzily (a heading whose number is unread is taken as the next chapter: measure.chapter_headings_unread_next; one the OCR lost, from a critical paragraph where the running heads turn: chapter_headings_implied), and each heading with the critical notes on the chapter's readings that follow it is the unit <chapter>.intro, a paragraph of critical notes found elsewhere staying in the text where it stands (critical_paragraphs_in_text); the American editor's notes (Funk & Wagnalls issues) are <chapter>.american, the chapter they follow; the translators' footnotes (the smaller type at a page's foot) go in `notes` of the unit open at that point; boundaries are only as good as the numbers read off the page, and a misread or rejected number merges a verse's notes into the verse before (counts in measure); introductions, prefaces and index by scan leaf (leaf.N, the folio in scan.printed_page where read); the Hebrew words are lost (no Hebrew script survives: measure.hebrew; the OCR gave Latin- or Greek-letter debris, left as it stands); unproofread OCR; in the scripture references a range keeps its end in `through` (one crossing chapters included; a range is applied only to a reference under its own book), and a range the KJV cannot end keeps its start only, marked through_unread (scripture_links.ranges_start_only)",
+   "status": "draft",
+   "scan_choice": "criticalexegetic72meye, the same Princeton set as vol. I: Greek 8.3%, known 41.0%",
+   "note": "H. A. W. Meyer, Critical and Exegetical Commentary on the New Testament, translated from the German (Edinburgh: T. & T. Clark, Clark's Foreign Theological Library): the Epistles to the Corinthians, vol. II (First Epistle, chapters xiv.-xvi., tr. D. Douglas Bannerman; Second Epistle, tr. from the fifth German edition by David Hunter; revised and edited by William P. Dickson) (MDCCCLXXIX: 1879), as its title page reads; scan leaves 13-540 of criticalexegetic72meye"
+  },
+  "rights": {
+   "license": "public domain in the US (printed 1879); the scan and its OCR are the Internet Archive's",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "attribution": "Internet Archive, criticalexegetic72meye (Princeton Theological Seminary Library copy)",
+   "source_url": "https://archive.org/details/criticalexegetic72meye",
+   "redistribute_whole": true
+  },
+  "measure": {
+   "units": {
+    "intro": 17,
+    "note": 337,
+    "page": 15
+   },
+   "chapter_headings_implied": 1,
+   "chapter_headings_read": 7,
+   "chapter_headings_unread_next": 7,
+   "chapter_turns_without_heading": 1,
+   "footnote_blocks_two_columns": 0,
+   "footnote_lines": 1728,
+   "inline_openers_outside_notes": 124,
+   "junk_lines_dropped": 36,
+   "leaves_commentary": 508,
+   "leaves_page": 15,
+   "notes_reopened": 3,
+   "openers_accepted": 340,
+   "openers_naming_sigla": 1,
+   "printed_page_from_neighbours": 255,
+   "printed_page_read": 228,
+   "kjv_coverage": {
+    "1Cor": {
+     "kjv_verses": 437,
+     "commented": 117,
+     "with_own_note": 84,
+     "chapters": [
+      14,
+      16
+     ],
+     "kjv_verses_in_chapters": 122
+    },
+    "2Cor": {
+     "kjv_verses": 257,
+     "commented": 242,
+     "with_own_note": 211
+    }
+   },
+   "scripture_links": {
+    "read": 3422,
+    "resolved": 2988,
+    "ranges": 76,
+    "ranges_start_only": 0
+   },
+   "greek": {
+    "greek_letters": 75050,
+    "greek_share_of_letters": 0.0854,
+    "greek_tokens_3plus": 11975,
+    "greek_tokens_in_reference_vocab": 0.4156,
+    "mixed_script_tokens": 31
+   },
+   "hebrew": {
+    "hebrew_letters": 0,
+    "hebrew_share_of_letters": 0.0
+   }
+  },
+  "built_sha256": "7f0241c84c25391207975882d32d8bfadbf7cc8a92c9de483526b9f6ff0ccf79"
  }
 }

@@ -351,6 +351,10 @@ scans:
 | `meyer-mark-luke-2` | Luke 3-24 | Edinburgh, 1880 | criticalexegetic22meye |
 | `meyer-john` | John | New York (Funk & Wagnalls), 1884 | criticalexegetic04meye |
 | `meyer-romans` | Romans | New York (Funk & Wagnalls), 1884 | criticalexegetic06meye |
+| `meyer-acts-1` | Acts I (ch. 1-12) | Edinburgh, 1877 | criticalexegetic51meye |
+| `meyer-acts-2` | Acts II (ch. 13-28) | Edinburgh, 1877 | criticalexegetic52meye |
+| `meyer-corinthians-1` | 1 Corinthians 1-13 | Edinburgh, 1877 | criticalexegetic71meye |
+| `meyer-corinthians-2` | 1 Corinthians 14-16; 2 Corinthians | Edinburgh, 1879 (IA says 1877) | criticalexegetic72meye |
 
 Every T&T Clark scan of John and of Romans lost its Greek, so those two come
 from the American issue of the same translation. That issue adds notes by an
@@ -367,17 +371,16 @@ Meyer also runs notes on after a dash ("— Ver. 14."), and those are read too.
 Romans measured better without them. A heading the OCR garbled or lost is
 found by the critical paragraph under it. Its number is checked against the
 chapter that should come next. The running heads never move a note back to
-an earlier chapter.
+an earlier chapter, and a heading whose number would skip a chapter the
+running heads print ("XX." over chapter XIX) is read as that chapter.
 
 **Coverage** (verses with a note, of the verses in the chapters the volume
 holds): Matthew I 86%, Matthew II 75%, Mark 97%, Luke 1-2 61%, Luke 3-24
-95%, John 91%, Romans 97%. Meyer passes over some verses, and the measure in
+95%, John 91%, Romans 97%, Acts I 95%, Acts II 96%, 1 Corinthians 1-13 95%,
+1 Corinthians 14-16 96%, 2 Corinthians 94%. Meyer passes over some verses, and the measure in
 each manifest entry counts the openers accepted, refused and taken from the
 running heads. The Hebrew is lost in every scan, and every honesty field
 says so.
-
-**Not shelved yet:** Meyer on Acts and on Corinthians. Their scans keep the
-Greek and are listed in the code.
 
 **Godet is not shelved.** All 50 scans of his John, Luke, Romans and
 1 Corinthians in English (the Edinburgh issues and the Funk & Wagnalls
