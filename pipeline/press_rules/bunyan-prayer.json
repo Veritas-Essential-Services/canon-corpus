@@ -1,0 +1,202 @@
+{
+ "corrections": [
+  {
+   "find": "skillfully",
+   "replace": "skilfully",
+   "count": 1,
+   "why": "the scan reads “skilfully” (archive.org worksofjohnbunya01buny, leaf 659, printed p. 622): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     659
+    ],
+    "page": [
+     "622"
+    ],
+    "ocr": "skilfully",
+    "tesseract": "skilfully"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "thralldom",
+   "replace": "thraldom",
+   "count": 1,
+   "why": "the scan reads “thraldom” (archive.org worksofjohnbunya01buny, leaf 662, printed p. 625): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     662
+    ],
+    "page": [
+     "625"
+    ],
+    "ocr": "thraldom",
+    "tesseract": "thraldom"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "veil",
+   "replace": "vail",
+   "count": 1,
+   "why": "the scan reads “vail” (archive.org worksofjohnbunya01buny, leaf 665, printed p. 628): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     665
+    ],
+    "page": [
+     "628"
+    ],
+    "ocr": "vail",
+    "tesseract": "vail"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "or teaching",
+   "replace": "or learning",
+   "count": 1,
+   "why": "the scan reads “learning” (archive.org worksofjohnbunya01buny, leaf 666, printed p. 629): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     666
+    ],
+    "page": [
+     "629"
+    ],
+    "ocr": "learning",
+    "tesseract": "learning"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "and teach",
+   "replace": "and learn",
+   "count": 1,
+   "why": "the scan reads “learn” (archive.org worksofjohnbunya01buny, leaf 667, printed p. 630): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     667
+    ],
+    "page": [
+     "630"
+    ],
+    "ocr": "learn",
+    "tesseract": "learn"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "sooner teach",
+   "replace": "sooner learn",
+   "count": 1,
+   "why": "the scan reads “learn” (archive.org worksofjohnbunya01buny, leaf 672, printed p. 635): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     672
+    ],
+    "page": [
+     "635"
+    ],
+    "ocr": "learn",
+    "tesseract": "learn"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "in teaching",
+   "replace": "in learning",
+   "count": 1,
+   "why": "the scan reads “learning” (archive.org worksofjohnbunya01buny, leaf 672, printed p. 635): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     672
+    ],
+    "page": [
+     "635"
+    ],
+    "ocr": "learning",
+    "tesseract": "learning"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Teach",
+   "replace": "Learn",
+   "count": 1,
+   "why": "the scan reads “Learn” (archive.org worksofjohnbunya01buny, leaf 672, printed p. 635): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     672
+    ],
+    "page": [
+     "635"
+    ],
+    "ocr": "Learn",
+    "tesseract": "learn"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "you teach",
+   "replace": "you learn",
+   "count": 1,
+   "why": "the scan reads “learn” (archive.org worksofjohnbunya01buny, leaf 672, printed p. 635): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     672
+    ],
+    "page": [
+     "635"
+    ],
+    "ocr": "learn",
+    "tesseract": "learn"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "to practice",
+   "replace": "to practise",
+   "count": 1,
+   "why": "the scan reads “practise” (archive.org worksofjohnbunya01buny, leaf 672, printed p. 635): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     672
+    ],
+    "page": [
+     "635"
+    ],
+    "ocr": "practise",
+    "tesseract": "practise"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "either do",
+   "replace": "either not",
+   "count": 1,
+   "why": "the scan reads “not” (archive.org worksofjohnbunya01buny, leaf 673, printed p. 636): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnbunya01buny",
+    "leaf": [
+     673
+    ],
+    "page": [
+     "636"
+    ],
+    "ocr": "not",
+    "tesseract": "not"
+   },
+   "by": "press_proof"
+  }
+ ]
+}

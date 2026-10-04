@@ -1,0 +1,39 @@
+{
+ "supplied": [
+  {
+   "find": " ab[⟨•⟩]{.gap}sed,",
+   "replace": " ab[u]{.supplied}sed,",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " lea[⟨•⟩]{.gap}t ",
+   "replace": " lea[s]{.supplied}t ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " merci[⟨•⟩]{.gap}s▪",
+   "replace": " merci[e]{.supplied}s▪",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " ther[⟨•⟩]{.gap}'",
+   "replace": " ther[e]{.supplied}'",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}ouch ",
+   "replace": " [t]{.supplied}ouch ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  }
+ ]
+}
