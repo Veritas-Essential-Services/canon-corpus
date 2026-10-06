@@ -1,0 +1,677 @@
+[
+  {
+    "id": "0d2e4c97-e1b3-55da-a581-8a77082ec823",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "Blue Roses",
+    "source": "Rudyard Kipling, The Light That Failed (1891)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "Roses red and roses white\nPlucked I for my love's delight.\n\nShe would none of all my posies,--\nBade me gather her blue roses.\n\nHalf the world I wandered through,\nSeeking where such flowers grew;\nHalf the world unto my quest\nAnswered but with laugh and jest.\n\nIt may be beyond the grave\nShe shall find what she would have.\n\nMine was but an idle quest,--\nRoses white and red are best!",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: The Light That Failed (None), Project Gutenberg #2876.\nUS public domain: first published 1891 in The Light That Failed, before 1931. The text is from The Light That Failed, Project Gutenberg #2876, which Gutenberg issues as US public domain (no copyright notice in its header); the file does not date its edition.\nWord Hoard poetry:rudyard-kipling.blue-roses · wh-SW1K2HQEN7",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "1e5d0632-c98d-50e4-8540-bf00c1707d2d",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "The Broken Men",
+    "source": "Rudyard Kipling, The Five Nations (1903)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "For things we never mention,\n  For Art misunderstood--\nFor excellent intention\n  That did not turn to good;\nFrom ancient tales’ renewing,\n  From clouds we would not clear--\nBeyond the Law’s pursuing\n  We fled, and settled here.\n\nWe took no tearful leaving,\n  We bade no long good-byes;\nMen talked of crime and thieving,\n  Men wrote of fraud and lies.\nTo save our injured feelings\n  ’Twas time and time to go--\nBehind was dock and Dartmoor,\n  Ahead lay Callao!\n\nThe widow and the orphan\n  That pray for ten per cent.,\nThey clapped their trailers on us\n  To spy the road we went.\nThey watched the foreign sailings\n  (They scan the shipping still),\nAnd that’s your Christian people\n  Returning good for ill!\n\nGod bless the thoughtful islands\n  Where never warrants come!\nGod bless the just Republics\n  That give a man a home,\nThat ask no foolish questions,\n  But set him on his feet;\nAnd save his wife and daughters\n  From the workhouse and the street!\n\nOn church and square and market\n  The noonday silence falls;\nYou’ll hear the drowsy mutter\n  Of the fountain in our halls.\nAsleep amid the yuccas\n  The city takes her ease--\nTill twilight brings the land-wind\n  To our clicking jalousies.\n\nDay long the diamond weather,\n  The high, unaltered blue--\nThe smell of goats and incense\n  And the mule-bells tinkling through.\nDay long the warder ocean\n  That keeps us from our kin,\nAnd once a month our levee\n  When the English mail comes in.\n\nYou’ll find us up and waiting\n  To treat you at the bar;\nYou’ll find us less exclusive\n  Than the average English are.\nWe’ll meet you with our carriage,\n  Too glad to show you round,\nBut--we do not lunch on steamers,\n  For they are English ground.\n\nWe sail o’ nights to England\n  And join our smiling Boards;\nOur wives go in with Viscounts\n  And our daughters dance with Lords.\nBut behind our princely doings,\n  And behind each coup we make,\nWe feel there’s Something Waiting,\n  And--we meet It when we wake.\n\nAh God! One sniff of England--\n  To greet our flesh and blood--\nTo hear the hansoms slurring\n  Once more through London mud!\nOur towns of wasted honour--\n  Our streets of lost delight!\nHow stands the old Lord Warden?\n  Are Dover’s cliffs still white?",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: The Five Nations, Volume I (1903), Project Gutenberg #60260.\nUS public domain: the text hosted here is from The Five Nations, Volume I (1903), published before 1931, so its 95-year US term has run out. Project Gutenberg #60260.\nWord Hoard poetry:rudyard-kipling.the-broken-men · wh-VYPCCPA86E",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "ef0c953d-a3bf-5b9e-b1db-c5ae39763e87",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "The Children's Song",
+    "source": "Rudyard Kipling, Puck of Pook's Hill (1906)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "Land of our Birth, we pledge to thee\nOur love and toil in the years to be;\nWhen we are grown and take our place\nAs men and women with our race.\n\nFather in Heaven Who lovest all,\nOh, help Thy children when they call;\nThat they may build from age to age\nAn undefiled heritage.\n\nTeach us to bear the yoke in youth,\nWith steadfastness and careful truth;\nThat, in our time, Thy Grace may give\nThe Truth whereby the Nations live.\n\nTeach us to rule ourselves alway,\nControlled and cleanly night and day;\nThat we may bring, if need arise,\nNo maimed or worthless sacrifice.\n\nTeach us to look in all our ends,\nOn Thee for judge, and not our friends;\nThat we, with Thee, may walk uncowed\nBy fear or favour of the crowd.\n\nTeach us the Strength that cannot seek,\nBy deed or thought, to hurt the weak;\nThat, under Thee, we may possess\nMan's strength to comfort man's distress.\n\nTeach us Delight in simple things,\nAnd Mirth that has no bitter springs;\nForgiveness free of evil done,\nAnd Love to all men 'neath the sun!\n\nLand of our Birth, our faith, our pride,\nFor whose dear sake our fathers died;\nO Motherland, we pledge to thee\nHead, heart and hand through the years to be!",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: Puck of Pook's Hill (1906), Project Gutenberg #557.\nUS public domain: the text hosted here is from Puck of Pook's Hill (1906), published before 1931, so its 95-year US term has run out. Project Gutenberg #557.\nWord Hoard poetry:rudyard-kipling.the-childrens-song · wh-TV60MM176T",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "006fdca4-d956-53cc-8fdc-59a22ec148bf",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "Covenant",
+    "source": "Rudyard Kipling, The Years Between (1919)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "We thought we ranked above the chance of ill.\n  Others might fall, not we, for we were wise--\nMerchants in freedom. So, of our free-will\n  We let our servants drug our strength with lies.\nThe pleasure and the poison had its way\n  On us as on the meanest, till we learned\nThat he who lies will steal, who steals will slay.\n  Neither God's judgment nor man's heart was turned.\n\nYet there remains His Mercy--to be sought\nThrough wrath and peril till we cleanse the wrong\nBy that last right which our forefathers claimed\nWhen their Law failed them and its stewards were bought.\nThis is our cause. God help us, and make strong\nOur wills to meet Him later, unashamed!",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: The Years Between (1919), Project Gutenberg #21777.\nUS public domain: the text hosted here is from The Years Between (1919), published before 1931, so its 95-year US term has run out. Project Gutenberg #21777.\nWord Hoard poetry:rudyard-kipling.covenant · wh-7BEKAVFTYF",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "5d660197-a147-52e5-a005-6bcbbdde5f78",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "The Holy War",
+    "source": "Rudyard Kipling, The Years Between (1919)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "A tinker out of Bedford,\n  A vagrant oft in quod,\nA private under Fairfax,\n  A minister of God--\nTwo hundred years and thirty\n  Ere Armageddon came\nHis single hand portrayed it,\n  And Bunyan was his name!\n\nHe mapped, for those who follow,\n  The world in which we are--\n'This famous town of Mansoul'\n  That takes the Holy War\nHer true and traitor people,\n  The gates along her wall,\nFrom Eye Gate unto Feel Gate,\n  John Bunyan showed them all.\n\nAll enemy divisions,\n  Recruits of every class,\nAnd highly-screened positions\n  For flame or poison-gas,\nThe craft that we call modern,\n  The crimes that we call new,\nJohn Bunyan had 'em typed and filed\n  In Sixteen Eighty-two\n\nLikewise the Lords of Looseness\n  That hamper faith and works,\nThe Perseverance-Doubters,\n  And Present-Comfort shirks,\nWith brittle intellectuals\n  Who crack beneath a strain--\nJohn Bunyan met that helpful set\n  In Charles the Second's reign.\n\nEmmanuel's vanguard dying\n  For right and not for rights,\nMy Lord Apollyon lying\n  To the State-kept Stockholmites,\nThe Pope, the swithering Neutrals,\n  The Kaiser and his Gott--\nTheir roles, their goals, their naked souls--\n  He knew and drew the lot.\n\nNow he hath left his quarters,\n  In Bunhill Fields to lie.\nThe wisdom that he taught us\n  Is proven prophecy--\nOne watchword through our armies,\n  One answer from our lands--\n'No dealings with Diabolus\n  As long as Mansoul stands.\n\nA pedlar from a hovel,\n  The lowest of the low,\nThe father of the Novel,\n  Salvation's first Defoe,\nEight blinded generations\n  Ere Armageddon came,\nHe showed us how to meet it,\n  And Bunyan was his name!",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: The Years Between (1919), Project Gutenberg #21777.\nUS public domain: the text hosted here is from The Years Between (1919), published before 1931, so its 95-year US term has run out. Project Gutenberg #21777.\nWord Hoard poetry:rudyard-kipling.the-holy-war · wh-HRYA9924BX",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "2863a0fc-deda-5e00-9f4b-aa18b7431527",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "Hymn Before Action",
+    "source": "Rudyard Kipling, The Seven Seas (1896)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "The earth is full of anger,\n The seas are dark with wrath,\nThe Nations in their harness\n Go up against our path:\nEre yet we loose the legions --\n Ere yet we draw the blade,\nJehovah of the Thunders,\n Lord God of Battles, aid!\n\nHigh lust and froward bearing,\n Proud heart, rebellious brow --\nDeaf ear and soul uncaring,\n We seek Thy mercy now!\nThe sinner that forswore Thee,\n The fool that passed Thee by,\nOur times are known before Thee --\n Lord, grant us strength to die!\n\nFor those who kneel beside us\n At altars not Thine own,\nWho lack the lights that guide us,\n Lord, let their faith atone.\nIf wrong we did to call them,\n By honour bound they came;\nLet not Thy Wrath befall them,\n But deal to us the blame.\n\nFrom panic, pride, and terror,\n Revenge that knows no rein,\nLight haste and lawless error,\n Protect us yet again.\nCloak Thou our undeserving,\n Make firm the shuddering breath,\nIn silence and unswerving\n To taste Thy lesser death!\n\nAh, Mary pierced with sorrow,\n Remember, reach and save\nThe soul that comes to-morrow\n Before the God that gave!\nSince each was born of woman,\n For each at utter need --\nTrue comrade and true foeman --\n Madonna, intercede!\n\nE'en now their vanguard gathers,\n E'en now we face the fray --\nAs Thou didst help our fathers,\n Help Thou our host to-day!\nFulfilled of signs and wonders,\n In life, in death made clear --\nJehovah of the Thunders,\n Lord God of Battles, hear!",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: Verses 1889-1896 (Writings in Prose and Verse vol. XI) (None), Project Gutenberg #323.\nUS public domain: first published 1896 in The Seven Seas, before 1931. The text is from Verses 1889-1896 (Writings in Prose and Verse vol. XI), Project Gutenberg #323, which Gutenberg issues as US public domain (no copyright notice in its header); the file does not date its edition.\nWord Hoard poetry:rudyard-kipling.hymn-before-action · wh-YDYSQ9A3JH",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "9e0ea6b4-12e9-5e5e-b434-acddaaf75830",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "from The Elephant's Child",
+    "source": "Rudyard Kipling, Just So Stories (1902)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "I Keep six honest serving-men:\n  (They taught me all I knew)\nTheir names are What and Where and When\n  And How and Why and Who.\nI send them over land and sea,\n  I send them east and west;\nBut after they have worked for me,\n  I give them all a rest.\n\nI let them rest from nine till five.\n  For I am busy then,\nAs well as breakfast, lunch, and tea,\n  For they are hungry men:\nBut different folk have different views:\n  I know a person small--\nShe keeps ten million serving-men,\n  Who get no rest at all!\nShe sends 'em abroad on her own affairs,\n  From the second she opens her eyes--\nOne million Hows, two million Wheres,\n  And seven million Whys!",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: Just So Stories (1902), Project Gutenberg #2781.\nUS public domain: the text hosted here is from Just So Stories (1902), published before 1931, so its 95-year US term has run out. Project Gutenberg #2781.\nWord Hoard poetry:rudyard-kipling.from-the-elephants-child · wh-M336ZQ0K0Z",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "6d567384-e1bd-5a08-b227-6e46b16ffe72",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "The Cat That Walked by Himself",
+    "source": "Rudyard Kipling, Just So Stories (1902)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "PUSSY can sit by the fire and sing,\n  Pussy can climb a tree,\nOr play with a silly old cork and string\n  To'muse herself, not me.\nBut I like Binkie my dog, because\n  He Lnows how to behave;\nSo, Binkie's the same as the First Friend was,\n  And I am the Man in the Cave.\n\nPussy will play man-Friday till\n  It's time to wet her paw\nAnd make her walk on the window-sill\n  (For the footprint Crusoe saw);\nThen she fluffles her tail and mews,\n  And scratches and won't attend.\nBut Binkie will play whatever I choose,\n  And he is my true First Friend.\n\nPussy will rub my knees with her head\n  Pretending she loves me hard;\nBut the very minute I go to my bed\n  Pussy runs out in the yard,\nAnd there she stays till the morning-light;\n  So I know it is only pretend;\nBut Binkie, he snores at my feet all night,\n  And he is my Firstest Friend!",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: Just So Stories (1902), Project Gutenberg #2781.\nUS public domain: the text hosted here is from Just So Stories (1902), published before 1931, so its 95-year US term has run out. Project Gutenberg #2781.\nWord Hoard poetry:rudyard-kipling.the-cat-that-walked-by-himself · wh-EW2KVBSNHQ",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "65bdf812-e69e-5d9a-a2ff-6a833723a098",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "A Nativity",
+    "source": "Rudyard Kipling, The Years Between (1919)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "The Babe was laid in the Manger\n  Between the gentle kine--\nAll safe from cold and danger--\n  'But it was not so with mine.\n              (With mine! With mine!)\n'Is it well with the child, is it well?'\n  The waiting mother prayed.\n'For I know not how he fell,\n  And I know not where he is laid.'\n\nA Star stood forth in Heaven,\n  The watchers ran to see\nThe Sign of the Promise given--\n  'But there comes no sign to me.\n                      (To me! To me!)\n'My child died in the dark.\n  Is it well with the child, is it well?\nThere was none to tend him or mark,\n  And I know not how he fell.'\n\nThe Cross was raised on high;\n  The Mother grieved beside--\n'But the Mother saw Him die\n  And took Him when He died.\n                (He died! He died!)\n'Seemly and undefiled\n  His burial-place was made--\nIs it well, is it well with the child?\n  For I know not where he is laid.'\n\nOn the dawning of Easter Day\n  Comes Mary Magdalene;\nBut the Stone was rolled away,\n  And the Body was not within--\n                      (Within! Within!)\n'Ah, who will answer my word?'\n  The broken mother prayed.\n'They have taken away my Lord,\n  And I know not where He is laid.'\n\n   *       *       *       *       *\n\nThe Star stands forth in Heaven.\n  The watchers watch in vain\nFor a Sign of the Promise given\n  Of peace on Earth again--\n                        (Again! Again!)\n'But I know for Whom he fell'--\n  The steadfast mother smiled\n'Is it well with the child--is it well?\n  It is well--it is well with the child!'",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: The Years Between (1919), Project Gutenberg #21777.\nUS public domain: the text hosted here is from The Years Between (1919), published before 1931, so its 95-year US term has run out. Project Gutenberg #21777.\nWord Hoard poetry:rudyard-kipling.a-nativity · wh-N0QHCFW19D",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "c015b0ac-0228-5225-a17e-0b28964f7010",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "Our Fathers of Old",
+    "source": "Rudyard Kipling, Rewards and Fairies (1910)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "Excellent herbs had our fathers of old--\nExcellent herbs to ease their pain--\nAlexanders and Marigold,\nEyebright, Orris, and Elecampane,\nBasil, Rocket, Valerian, Rue,\n(Almost singing themselves they run)\nVervain, Dittany, Call-me-to-you--\nCowslip, Melilot, Rose of the Sun.\nAnything green that grew out of the mould\nWas an excellent herb to our fathers of old.\n\nWonderful tales had our fathers of old--\nWonderful tales of the herbs and the stars--\nThe Sun was Lord of the Marigold,\nBasil and Rocket belonged to Mars.\nPat as a sum in division it goes--\n(Every plant had a star bespoke)--\nWho but Venus should govern the Rose?\nWho but Jupiter own the Oak?\nSimply and gravely the facts are told\nIn the wonderful books of our fathers of old.\n\nWonderful little, when all is said,\nWonderful little our fathers knew.\nHalf their remedies cured you dead--\nMost of their teaching was quite untrue--\n'Look at the stars when a patient is ill,\n(Dirt has nothing to do with disease,)\nBleed and blister as much as you will,\nBlister and bleed him as oft as you please.'\nWhence enormous and manifold\nErrors were made by our fathers of old.\n\nYet when the sickness was sore in the land,\nAnd neither planet nor herb assuaged,\nThey took their lives in their lancet-hand\nAnd, oh, what a wonderful war they waged!\nYes, when the crosses were chalked on the door--\nYes, when the terrible dead-cart rolled,\nExcellent courage our fathers bore--\nExcellent heart had our fathers of old.\nNot too learned, but nobly bold,\nInto the fight went our fathers of old.\n\nIf it be certain, as Galen says,\nAnd sage Hippocrates holds as much--\n'That those afflicted by doubts and dismays\nAre mightily helped by a dead man's touch,'\nThen, be good to us, stars above!\nThen, be good to us, herbs below!\nWe are afflicted by what we can prove;\nWe are distracted by what we know--\nSo--ah, so!\nDown from your Heaven or up from your mould,\nSend us the hearts of our fathers of old!",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: Rewards and Fairies (1910), Project Gutenberg #556.\nUS public domain: the text hosted here is from Rewards and Fairies (1910), published before 1931, so its 95-year US term has run out. Project Gutenberg #556.\nWord Hoard poetry:rudyard-kipling.our-fathers-of-old · wh-3SC26YJ1MS",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "ced0e715-3f95-57eb-8c42-a18cb21d88ee",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "The Thousandth Man",
+    "source": "Rudyard Kipling, Rewards and Fairies (1910)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "One man in a thousand, Solomon says,\n  Will stick more close than a brother.\nAnd it's worth while seeking him half your days\n  If you find him before the other.\nNine hundred and ninety-nine depend\n  on what the world sees in you,\nBut the Thousandth Man will stand your friend\n  With the whole round world agin you.\n\n'Tis neither promise nor prayer nor show\n  Will settle the finding for 'ee.\nNine hundred and ninety-nine of 'em go\n  By your looks or your acts or your glory.\nBut if he finds you and you find him,\n  The rest of the world don't matter;\nFor the Thousandth Man will sink or swim\n  With you in any water.\n\nYou can use his purse with no more shame\n  Than he uses yours for his spendings;\nAnd laugh and mention it just the same\n  As though there had been no lendings.\nNine hundred and ninety-nine of 'em call\n  For silver and gold in their dealings;\nBut the Thousandth Man he's worth 'em all,\n  Because you can show him your feelings!\n\nHis wrong's your wrong, and his right's your right,\n  In season or out of season.\nStand up and back it in all men's sight--\n  With that for your only reason!\nNine hundred and ninety-nine can't bide\n  The shame or mocking or laughter,\nBut the Thousandth Man will stand by your side\n  To the gallows-foot--and after!",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: Rewards and Fairies (1910), Project Gutenberg #556.\nUS public domain: the text hosted here is from Rewards and Fairies (1910), published before 1931, so its 95-year US term has run out. Project Gutenberg #556.\nWord Hoard poetry:rudyard-kipling.the-thousandth-man · wh-N78NMAHJ3P",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "2bc55a60-c651-54c4-802b-d38766445c77",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "L'Envoi",
+    "source": "Rudyard Kipling, The Seven Seas (1896)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "When Earth's last picture is painted and the tubes are twisted and dried,\nWhen the oldest colours have faded, and the youngest critic has died,\nWe shall rest, and, faith, we shall need it -- lie down for an ]aeon or two,\nTill the Master of All Good Workmen shall put us to work anew!\n\nAnd those that were good shall be happy:  they shall sit in a golden chair;\nThey shall splash at a ten-league canvas with brushes of comets' hair;\nThey shall find real saints to draw from -- Magdalene, Peter, and Paul;\nThey shall work for an age at a sitting and never be tired at all!\n\nAnd only the Master shall praise us, and only the Master shall blame;\nAnd no one shall work for money, and no one shall work for fame,\nBut each for the joy of the working, and each, in his separate star,\nShall draw the Thing as he sees It for the God of Things as They Are!",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: Verses 1889-1896 (Writings in Prose and Verse vol. XI) (None), Project Gutenberg #323.\nUS public domain: first published 1896 in The Seven Seas, before 1931. The text is from Verses 1889-1896 (Writings in Prose and Verse vol. XI), Project Gutenberg #323, which Gutenberg issues as US public domain (no copyright notice in its header); the file does not date its edition.\nWord Hoard poetry:rudyard-kipling.lenvoi · wh-9QZHH5V7Y8",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "32488277-a000-51f0-a9f1-b2fcf9bc7e9d",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "The Way Through the Woods",
+    "source": "Rudyard Kipling, Rewards and Fairies (1910)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "They shut the road through the woods\nSeventy years ago.\nWeather and rain have undone it again,\nAnd now you would never know\nThere was once a road through the woods\nBefore they planted the trees.\nIt is underneath the coppice and heath,\nAnd the thin anemones.\nOnly the keeper sees\nThat, where the ring-dove broods,\nAnd the badgers roll at ease,\nThere was once a road through the woods.\n\nYet, if you enter the woods\nOf a summer evening late,\nWhen the night-air cools on the trout-ringed pools\nWhere the otter whistles his mate\n(They fear not men in the woods\nBecause they see so few),\nYou will hear the beat of a horse's feet\nAnd the swish of a skirt in the dew,\nSteadily cantering through\nThe misty solitudes,\nAs though they perfectly knew\nThe old lost road through the woods...\nBut there is no road through the woods!",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: Rewards and Fairies (1910), Project Gutenberg #556.\nUS public domain: the text hosted here is from Rewards and Fairies (1910), published before 1931, so its 95-year US term has run out. Project Gutenberg #556.\nWord Hoard poetry:rudyard-kipling.the-way-through-the-woods · wh-MB9TPVXP0F",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "766427ec-291a-5390-b4b1-34f1213fd5d9",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "The Explanation",
+    "source": "Rudyard Kipling, Barrack-Room Ballads and Other Verses (1892)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "Love and Death once ceased their strife\nAt the Tavern of Man's Life.\nCalled for wine, and threw -- alas! --\nEach his quiver on the grass.\nWhen the bout was o'er they found\nMingled arrows strewed the ground.\nHastily they gathered then\nEach the loves and lives of men.\nAh, the fateful dawn deceived!\nMingled arrows each one sheaved;\nDeath's dread armoury was stored\nWith the shafts he most abhorred;\nLove's light quiver groaned beneath\nVenom-headed darts of Death.\n\nThus it was they wrought our woe\nAt the Tavern long ago.\nTell me, do our masters know,\nLoosing blindly as they fly,\nOld men love while young men die?",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: Verses 1889-1896 (Writings in Prose and Verse vol. XI) (None), Project Gutenberg #323.\nUS public domain: first published 1892 in Barrack-Room Ballads and Other Verses, before 1931. The text is from Verses 1889-1896 (Writings in Prose and Verse vol. XI), Project Gutenberg #323, which Gutenberg issues as US public domain (no copyright notice in its header); the file does not date its edition.\nWord Hoard poetry:rudyard-kipling.the-explanation · wh-1KJJSSHQ75",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "7eeeb2a2-1127-5b41-9a3d-c8d98a4cd621",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "If",
+    "source": "Rudyard Kipling, Rewards and Fairies (1910)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "If you can keep your head when all about you\nAre losing theirs and blaming it on you;\nIf you can trust yourself when all men doubt you,\nBut make allowance for their doubting too;\nIf you can wait and not be tired by waiting,\nOr being lied about, don't deal in lies,\nOr being hated, don't give way to hating,\nAnd yet don't look too good, nor talk too wise;\n\nIf you can dream--and not make dreams your master;\nIf you can think--and not make thoughts your aim,\nIf you can meet with Triumph and Disaster\nAnd treat those two impostors just the same;\nIf you can bear to hear the truth you've spoken\nTwisted by knaves to make a trap for fools,\nOr watch the things you gave your life to, broken,\nAnd stoop and build 'em up with worn-out tools;\n\nIf you can make one heap of all your winnings\nAnd risk it on one turn of pitch-and-toss,\nAnd lose, and start again at your beginnings\nAnd never breathe a word about your loss;\nIf you can force your heart and nerve and sinew\nTo serve your turn long after they are gone,\nAnd so hold on when there is nothing in you\nExcept the Will which says to them: 'Hold on!'\n\nIf you can talk with crowds and keep your virtue,\nOr walk with Kings--nor lose the common touch,\nIf neither foes nor loving friends can hurt you,\nIf all men count with you, but none too much;\nIf you can fill the unforgiving minute\nWith sixty seconds' worth of distance run,\nYours is the Earth and everything that's in it,\nAnd--which is more--you'll be a Man, my son!",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: Rewards and Fairies (1910), Project Gutenberg #556.\nUS public domain: the text hosted here is from Rewards and Fairies (1910), published before 1931, so its 95-year US term has run out. Project Gutenberg #556.\nWord Hoard poetry:rudyard-kipling.if · wh-NH8TJJSFG5",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "39dceaba-0607-5049-bf7e-9c7f854c0f7f",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "Gunga Din",
+    "source": "Rudyard Kipling, Barrack-Room Ballads and Other Verses (1892)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "You may talk o' gin and beer\nWhen you're quartered safe out 'ere,\nAn' you're sent to penny-fights an' Aldershot it;\nBut when it comes to slaughter\nYou will do your work on water,\nAn' you'll lick the bloomin' boots of 'im that's got it.\nNow in Injia's sunny clime,\nWhere I used to spend my time\nA-servin' of 'Er Majesty the Queen,\nOf all them blackfaced crew\nThe finest man I knew\nWas our regimental bhisti, Gunga Din.\n      He was \"Din! Din! Din!\n  You limpin' lump o' brick-dust, Gunga Din!\n      Hi! slippery hitherao!\n      Water, get it!  Panee lao!\n  You squidgy-nosed old idol, Gunga Din.\"\n\nThe uniform 'e wore\nWas nothin' much before,\nAn' rather less than 'arf o' that be'ind,\nFor a piece o' twisty rag\nAn' a goatskin water-bag\nWas all the field-equipment 'e could find.\nWhen the sweatin' troop-train lay\nIn a sidin' through the day,\nWhere the 'eat would make your bloomin' eyebrows crawl,\nWe shouted \"Harry By!\"\nTill our throats were bricky-dry,\nThen we wopped 'im 'cause 'e couldn't serve us all.\n      It was \"Din! Din! Din!\n  You 'eathen, where the mischief 'ave you been?\n      You put some juldee in it\n      Or I'll marrow you this minute\n  If you don't fill up my helmet, Gunga Din!\"\n\n'E would dot an' carry one\nTill the longest day was done;\nAn' 'e didn't seem to know the use o' fear.\nIf we charged or broke or cut,\nYou could bet your bloomin' nut,\n'E'd be waitin' fifty paces right flank rear.\nWith 'is mussick on 'is back,\n'E would skip with our attack,\nAn' watch us till the bugles made \"Retire\",\nAn' for all 'is dirty 'ide\n'E was white, clear white, inside\nWhen 'e went to tend the wounded under fire!\n      It was \"Din! Din! Din!\"\n  With the bullets kickin' dust-spots on the green.\n      When the cartridges ran out,\n      You could hear the front-files shout,\n  \"Hi! ammunition-mules an' Gunga Din!\"\n\nI shan't forgit the night\nWhen I dropped be'ind the fight\nWith a bullet where my belt-plate should 'a' been.\nI was chokin' mad with thirst,\nAn' the man that spied me first\nWas our good old grinnin', gruntin' Gunga Din.\n'E lifted up my 'ead,\nAn' he plugged me where I bled,\nAn' 'e guv me 'arf-a-pint o' water-green:\nIt was crawlin' and it stunk,\nBut of all the drinks I've drunk,\nI'm gratefullest to one from Gunga Din.\n      It was \"Din! Din! Din!\n  'Ere's a beggar with a bullet through 'is spleen;\n      'E's chawin' up the ground,\n      An' 'e's kickin' all around:\n  For Gawd's sake git the water, Gunga Din!\"\n\n'E carried me away\nTo where a dooli lay,\nAn' a bullet come an' drilled the beggar clean.\n'E put me safe inside,\nAn' just before 'e died,\n\"I 'ope you liked your drink\", sez Gunga Din.\nSo I'll meet 'im later on\nAt the place where 'e is gone--\nWhere it's always double drill and no canteen;\n'E'll be squattin' on the coals\nGivin' drink to poor damned souls,\nAn' I'll get a swig in hell from Gunga Din!\n      Yes, Din! Din! Din!\n  You Lazarushian-leather Gunga Din!\n      Though I've belted you and flayed you,\n      By the livin' Gawd that made you,\n  You're a better man than I am, Gunga Din!",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: Barrack-room Ballads (None), Project Gutenberg #2819.\nUS public domain: first published 1892 in Barrack-Room Ballads and Other Verses, before 1931. The text is from Barrack-room Ballads, Project Gutenberg #2819, which Gutenberg issues as US public domain (no copyright notice in its header); the file does not date its edition.\nWord Hoard poetry:rudyard-kipling.gunga-din · wh-D6R6DZ7HVF",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "efb5d41a-2ed0-5f75-84cc-de809114f0d0",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "The Overland Mail",
+    "source": "Rudyard Kipling, Departmental Ditties (1886)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "In the name of the Empress of India, make way,\n  O Lords of the Jungle, wherever you roam.\nThe woods are astir at the close of the day--\n  We exiles are waiting for letters from Home.\nLet the robber retreat--let the tiger turn tail--\nIn the Name of the Empress, the Overland Mail!\n\nWith a jingle of bells as the dusk gathers in,\n  He turns to the foot-path that heads up the hill--\nThe bags on his back and a cloth round his chin,\n  And, tucked in his waist-belt, the Post Office bill:\n\"Despatched on this date, as received by the rail,\nPer runner, two bags of the Overland Mail.\"\n\nIs the torrent in spate? He must ford it or swim.\n  Has the rain wrecked the road? He must climb by the cliff.\nDoes the tempest cry \"Halt\"? What are tempests to him?\n  The Service admits not a \"but\" or and \"if.\"\nWhile the breath's in his mouth, he must bear without fail,\nIn the Name of the Empress, the Overland Mail.\n\nFrom aloe to rose-oak, from rose-oak to fir,\n  From level to upland, from upland to crest,\nFrom rice-field to rock-ridge, from rock-ridge to spur,\n  Fly the soft sandalled feet, strains the brawny brown chest.\nFrom rail to ravine--to the peak from the vale--\nUp, up through the night goes the Overland Mail.\n\nThere's a speck on the hillside, a dot on the road--\n  A jingle of bells on the foot-path below--\nThere's a scuffle above in the monkey's abode--\n  The world is awake, and the clouds are aglow.\n\nFor the great Sun himself must attend to the hail:\n\"In the name of the Empress the Overland Mail!\"",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: Departmental Ditties and Ballads and Barrack-Room Ballads (None), Project Gutenberg #7846.\nUS public domain: first published 1886 in Departmental Ditties, before 1931. The text is from Departmental Ditties and Ballads and Barrack-Room Ballads, Project Gutenberg #7846, which Gutenberg issues as US public domain (no copyright notice in its header); the file does not date its edition.\nWord Hoard poetry:rudyard-kipling.the-overland-mail · wh-3XK3FW6P0G",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "355cd166-2a24-5a71-b3eb-1d1506c793cc",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "Seal Lullaby",
+    "source": "Rudyard Kipling, The Jungle Book (1894)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "Oh! hush thee, my baby, the night is behind us,\n   And black are the waters that sparkled so green.\nThe moon, o'er the combers, looks downward to find us\n   At rest in the hollows that rustle between.\nWhere billow meets billow, then soft be thy pillow,\n   Ah, weary wee flipperling, curl at thy ease!\nThe storm shall not wake thee, nor shark overtake thee,\n   Asleep in the arms of the slow-swinging seas!",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: The Jungle Book (1894), Project Gutenberg #236.\nUS public domain: the text hosted here is from The Jungle Book (1894), published before 1931, so its 95-year US term has run out. Project Gutenberg #236.\nWord Hoard poetry:rudyard-kipling.seal-lullaby · wh-TPT84RFA38",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "0c26ddb1-8b33-575e-b831-2ab522b1a2b6",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "Cold Iron",
+    "source": "Rudyard Kipling, Rewards and Fairies (1910)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "'Gold is for the mistress--silver for the maid!\nCopper for the craftsman cunning at his trade.'\n'Good!' said the Baron, sitting in his hall,\n'But Iron--Cold Iron--is master of them all!'\n\nSo he made rebellion 'gainst the King his liege,\nCamped before his citadel and summoned it to siege--\n'Nay!' said the cannoneer on the castle wall,\n'But Iron--Cold Iron--shall be master of you all!'\n\nWoe for the Baron and his knights so strong,\nWhen the cruel cannon-balls laid 'em all along!\nHe was taken prisoner, he was cast in thrall,\nAnd Iron--Cold Iron--was master of it all!\n\nYet his King spake kindly (Oh, how kind a Lord!)\n'What if I release thee now and give thee back thy sword?'\n'Nay!' said the Baron, 'mock not at my fall,\nFor Iron--Cold Iron--is master of men all.'\n\n'Tears are for the craven, prayers are for the clown--\nHalters for the silly neck that cannot keep a crown.'\n'As my loss is grievous, so my hope is small,\nFor Iron--Cold Iron--must be master of men all!'\n\nYet his King made answer (few such Kings there be!)\n'Here is Bread and here is Wine--sit and sup with me.\nEat and drink in Mary's Name, the whiles I do recall\nHow Iron--Cold Iron--can be master of men all!'\n\nHe took the Wine and blessed It; He blessed and brake the Bread.\nWith His own Hands He served Them, and presently He said:\n'Look!  These Hands they pierced with nails outside my city wall\nShow Iron--Cold Iron--to be master of men all!\n\n'Wounds are for the desperate, blows are for the strong,\nBalm and oil for weary hearts all cut and bruised with wrong.\nI forgive thy treason--I redeem thy fall--\nFor Iron--Cold Iron--must be master of men all!'\n\n'Crowns are for the valiant--sceptres for the bold!\nThrones and powers for mighty men who dare to take and hold.'\n'Nay!' said the Baron, kneeling in his hall,\n'But Iron--Cold Iron--is master of men all!\nIron, out of Calvary, is master of men all!'",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: Rewards and Fairies (1910), Project Gutenberg #556.\nUS public domain: the text hosted here is from Rewards and Fairies (1910), published before 1931, so its 95-year US term has run out. Project Gutenberg #556.\nWord Hoard poetry:rudyard-kipling.cold-iron · wh-RJ20JNJ5CB",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "e335b665-c034-54e7-9193-0c673ba790d4",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "Recessional",
+    "source": "Rudyard Kipling, The Five Nations (1903)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "God of our fathers, known of old,\n  Lord of our far-flung battle-line,\nBeneath whose awful Hand we hold\n  Dominion over palm and pine--\nLord God of Hosts, be with us yet,\nLest we forget--lest we forget!\n\nThe tumult and the shouting dies;\n  The captains and the kings depart:\nStill stands Thine ancient sacrifice,\n  An humble and a contrite heart.\nLord God of Hosts, be with us yet,\nLest we forget--lest we forget!\n\nFar-called, our navies melt away;\n  On dune and headland sinks the fire:\nLo, all our pomp of yesterday\n  Is one with Nineveh and Tyre!\nJudge of the Nations, spare us yet,\nLest we forget--lest we forget!\n\nIf, drunk with sight of power, we loose\n  Wild tongues that have not Thee in awe,\nSuch boastings as the Gentiles use,\n  Or lesser breeds without the Law--\nLord God of Hosts, be with us yet,\nLest we forget--lest we forget!\n\nFor heathen heart that puts her trust\n  In reeking tube and iron shard,\nAll valiant dust that builds on dust,\n  And guarding, calls not Thee to guard,\nFor frantic boast and foolish word--\nThy Mercy on Thy People, Lord!\n\n                                Amen.",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: The Five Nations, Volume II (1903), Project Gutenberg #60261.\nUS public domain: the text hosted here is from The Five Nations, Volume II (1903), published before 1931, so its 95-year US term has run out. Project Gutenberg #60261.\nWord Hoard poetry:rudyard-kipling.recessional · wh-7Z92NES8VW",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "98d4fe1f-1dff-5d20-9576-d2cc3bad616d",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "A Pilgrim's Way",
+    "source": "Rudyard Kipling, The Years Between (1919)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "I do not look for holy saints to guide me on my way,\nOr male and female devilkins to lead my feet astray.\nIf these are added, I rejoice--if not, I shall not mind,\nSo long as I have leave and choice to meet my fellow-kind.\n  For as we come and as we go (and deadly-soon go we!)\n  The people, Lord, Thy people, are good enough for me!\n\nThus I will honour pious men whose virtue shines so bright\n(Though none are more amazed than I when I by chance do right),\nAnd I will pity foolish men for woe their sins have bred\n(Though ninety-nine per cent. of mine I brought on my own head)\n  And, Amorite or Eremite, or General Averagee,\n  The people, Lord, Thy people, are good enough for me!\n\nAnd when they bore me overmuch, I will not shake mine ears,\nRecalling many thousand such whom I have bored to tears.\nAnd when they labour to impress, I will not doubt nor scoff;\nSince I myself have done no less and--sometimes pulled it off.\n  Yea, as we are and we are not, and we pretend to be,\n  The people, Lord, Thy people, are good enough for me!\n\nAnd when they work me random wrong, as often-times hath been,\nI will not cherish hate too long (my hands are none too clean)\nAnd when they do me random good I will not feign surprise,\nNo more than those whom I have cheered with wayside charities.\n  But, as we give and as we take--whate'er our takings be--\n  The people, Lord, Thy people, are good enough for me!\n\nBut when I meet with frantic folk who sinfully declare\nThere is no pardon for their sin, the same I will not spare\nTill I have proved that Heaven and Hell which in our hearts we have\nShow nothing irredeemable on either side the grave.\n  For as we live and as we die--if utter Death there be--\n  The people, Lord, Thy people, are good enough for me!\n\nDeliver me from every pride--the Middle, High, and Low--\nThat bars me from a brother's side, whatever pride he show.\nAnd purge me from all heresies of thought and speech and pen\nThat bid me judge him otherwise than I am judged. Amen!\n  That I may sing of Crowd or King or road-borne company,\n  That I may labour in my day, vocation and degree,\n  To prove the same in deed and name, and hold unshakenly\n  (Where'er I go, whate'er I know, whoe'er my neighbour be)\n  This single faith in Life and Death and all Eternity\n  'The people, Lord, Thy people, are good enough for me!'",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: The Years Between (1919), Project Gutenberg #21777.\nUS public domain: the text hosted here is from The Years Between (1919), published before 1931, so its 95-year US term has run out. Project Gutenberg #21777.\nWord Hoard poetry:rudyard-kipling.a-pilgrims-way · wh-4EN5SN460K",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "26e960b7-9c5c-51eb-a748-0dc2ab315602",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "Cities and Thrones and Powers",
+    "source": "Rudyard Kipling, Puck of Pook's Hill (1906)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "Cities and Thrones and Powers\nStand in Time's eye,\nAlmost as long as flowers,\nWhich daily die.\nBut, as new buds put forth\nTo glad new men,\nOut of the spent and unconsidered Earth\nThe Cities rise again.\n\nThis season's Daffodil,\nShe never hears\nWhat change, what chance, what chill,\nCut down last year's:\nBut with bold countenance,\nAnd knowledge small,\nEsteems her seven days' continuance\nTo be perpetual.\n\nSo Time that is o'er-kind\nTo all that be,\nOrdains us e'en as blind,\nAs bold as she:\nThat in our very death,\nAnd burial sure,\nShadow to shadow, well persuaded, saith,\n'See how our works endure!'",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: Puck of Pook's Hill (1906), Project Gutenberg #557.\nUS public domain: the text hosted here is from Puck of Pook's Hill (1906), published before 1931, so its 95-year US term has run out. Project Gutenberg #557.\nWord Hoard poetry:rudyard-kipling.cities-and-thrones-and-powers · wh-K6FFT4B0NQ",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "362356a0-ab3e-52c0-9373-3aba606675fb",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "\"For All We Have and Are\" (A War Poem)",
+    "source": "Rudyard Kipling, The Years Between (1919)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "Stand up and take the war,\nThe Hun is at the gate!\nOur world has passed away,\nIn wantonness o'erthrown.\nThere is nothing left to-day\nBut steel and fire and stone!\n    Though all we knew depart,\n    The old Commandments stand:--\n    'In courage keep your heart,\n    In strength lift up your hand.'\n\nOnce more we hear the word\nThat sickened earth of old:--\n'No law except the Sword\nUnsheathed and uncontrolled.'\nOnce more it knits mankind,\nOnce more the nations go\nTo meet and break and bind\nA crazed and driven foe.\n\nComfort, content, delight,\nThe ages' slow-bought gain,\nThey shrivelled in a night.\nOnly ourselves remain\nTo face the naked days\nIn silent fortitude,\nThrough perils and dismays\nRenewed and re-renewed.\n    Though all we made depart,\n    The old Commandments stand;--\n    'In patience keep your heart,\n    In strength lift up your hand.'\n\nNo easy hope or lies\nShall bring us to our goal,\nBut iron sacrifice\nOf body, will, and soul.\nThere is but one task for all--\nOne life for each to give\nWho stands if Freedom fall?\nWho dies if England live?",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: The Years Between (1919), Project Gutenberg #21777.\nUS public domain: the text hosted here is from The Years Between (1919), published before 1931, so its 95-year US term has run out. Project Gutenberg #21777.\nWord Hoard poetry:rudyard-kipling.for-all-we-have-and-are-a-war-poem · wh-GGJ0SZSAHX",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "116d2967-7291-5283-a066-084179b1b945",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "The Power of the Dog",
+    "source": "Rudyard Kipling, Actions and Reactions (1909)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "There is sorrow enough in the natural way\nFrom men and women to fill our day;\nBut when we are certain of sorrow in store,\nWhy do we always arrange for more?\nBrothers and sisters, I bid you beware\nOf giving your heart to a dog to tear.\n\nBuy a pup and your money will buy\nLove unflinching that cannot lie--\nPerfect passion and worship fed\nBy a kick in the ribs or a pat on the head.\nNevertheless it is hardly fair\nTo risk your heart for a dog to tear.\n\nWhen the fourteen years which Nature permits\nAre closing in asthma, or tumour, or fits,\nAnd the vet's unspoken prescription runs\nTo lethal chambers or loaded guns,\nThen you will find--it's your own affair\nBut... you've given your heart to a dog to tear.\n\nWhen the body that lived at your single will\nWhen the whimper of welcome is stilled (how still!)\nWhen the spirit that answered your every mood\nIs gone wherever it goes--for good,\nYou will discover how much you care,\nAnd will give your heart to a dog to tear!\n\nWe've sorrow enough in the natural way,\nWhen it comes to burying Christian clay.\nOur loves are not given, but only lent,\nAt compound interest of cent per cent.\nThough it is not always the case, I believe,\nThat the longer we've kept 'em, the more do we grieve:\nFor, when debts are payable, right or wrong,\nA short-time loan is as bad as a long\nSo why in Heaven (before we are there!)\nShould we give our hearts to a dog to tear?",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: Actions and Reactions (1909), Project Gutenberg #2381.\nUS public domain: the text hosted here is from Actions and Reactions (1909), published before 1931, so its 95-year US term has run out. Project Gutenberg #2381.\nWord Hoard poetry:rudyard-kipling.the-power-of-the-dog · wh-385K0X6XBW",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "2973bfd5-c25a-5e41-b586-fc4a3acd918d",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "The Choice",
+    "source": "Rudyard Kipling, The Years Between (1919)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "  To the Judge of Right and Wrong\n    With Whom fulfilment lies\n  Our purpose and our power belong,\n    Our faith and sacrifice.\n\nLet Freedom's Land rejoice!\n  Our ancient bonds are riven;\nOnce more to us the eternal choice\n  Of Good or Ill is given.\n\nNot at a little cost,\n  Hardly by prayer or tears,\nShall we recover the road we lost\n  In the drugged and doubting years.\n\nBut, after the fires and the wrath,\n  But, after searching and pain,\nHis Mercy opens us a path\n  To live with ourselves again.\n\nIn the Gates of Death rejoice!\n  We see and hold the good--\nBear witness, Earth, we have made our choice\n  With Freedom's brotherhood!\n\nThen praise the Lord Most High\n  Whose Strength hath saved us whole,\nWho bade us choose that the Flesh should die\n  And not the living Soul!\n\n  To the God in Man displayed--\n    Where e'er we see that Birth,\n  Be love and understanding paid\n    As never yet on earth!\n\n  To the Spirit that moves in Man,\n    On Whom all worlds depend,\n  Be Glory since our world began\n    And service to the end!",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: The Years Between (1919), Project Gutenberg #21777.\nUS public domain: the text hosted here is from The Years Between (1919), published before 1931, so its 95-year US term has run out. Project Gutenberg #21777.\nWord Hoard poetry:rudyard-kipling.the-choice · wh-B3ZDEQKHD3",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "499fd199-ef6c-569f-a426-7196c8536aad",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "Mesopotamia",
+    "source": "Rudyard Kipling, The Years Between (1919)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "They shall not return to us, the resolute, the young,\n  The eager and whole-hearted whom we gave:\nBut the men who left them thriftily to die in their own dung,\n  Shall they come with years and honour to the grave?\n\nThey shall not return to us, the strong men coldly slain\n  In sight of help denied from day to day:\nBut the men who edged their agonies and chid them in their pain,\n  Are they too strong and wise to put away?\n\nOur dead shall not return to us while Day and Night divide--\n  Never while the bars of sunset hold:\nBut the idle-minded overlings who quibbled while they died,\n  Shall they thrust for high employments as of old?\n\nShall we only threaten and be angry for an hour?\n  When the storm is ended shall we find\nHow softly but how swiftly they have sidled back to power\n  By the favour and contrivance of their kind?\n\nEven while they soothe us, while they promise large amends,\n  Even while they make a show of fear,\nDo they call upon their debtors, and take council with their friends,\n  To confirm and re-establish each career?\n\nTheir lives cannot repay us--their death could not undo--\n  The shame that they have laid upon our race:\nBut the slothfulness that wasted and the arrogance that slew,\n  Shall we leave it unabated in its place?",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: The Years Between (1919), Project Gutenberg #21777.\nUS public domain: the text hosted here is from The Years Between (1919), published before 1931, so its 95-year US term has run out. Project Gutenberg #21777.\nWord Hoard poetry:rudyard-kipling.mesopotamia · wh-RYQSGT0JBM",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "9df0a8e5-48c5-5f46-ad5e-00b451b274e8",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "A Carol",
+    "source": "Rudyard Kipling, Rewards and Fairies (1910)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "Our Lord Who did the Ox command\nTo kneel to Judah's King,\nHe binds His frost upon the land\nTo ripen it for Spring--\nTo ripen it for Spring, good sirs,\nAccording to His word;\nWhich well must be as ye can see--\nAnd who shall judge the Lord?\n\nWhen we poor fenmen skate the ice\nOr shiver on the wold,\nWe hear the cry of a single tree\nThat breaks her heart in the cold--\nThat breaks her heart in the cold, good sirs,\nAnd rendeth by the board;\nWhich well must be as ye can see--\nAnd who shall judge the Lord?\n\nHer wood is crazed and little worth\nExcepting as to burn\nThat we may warm and make our mirth\nUntil the Spring return--\nUntil the Spring return, good sirs,\nWhen people walk abroad;\nWhich well must be as ye can see--\nAnd who shall judge the Lord?\n\nGod bless the master of this house,\nAnd all that sleep therein!\nAnd guard the fens from pirate folk,\nAnd keep us all from sin,\nTo walk in honesty, good sirs,\nOf thought and deed and word!\nWhich shall befriend our latter end--\nAnd who shall judge the Lord?",
+    "notes": "AmblesideOnline Year 5, Term 1.\nText: Rewards and Fairies (1910), Project Gutenberg #556.\nUS public domain: the text hosted here is from Rewards and Fairies (1910), published before 1931, so its 95-year US term has run out. Project Gutenberg #556.\nWord Hoard poetry:rudyard-kipling.a-carol · wh-YXFNZN6071",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y5",
+      "ao-y5-t1",
+      "rudyard-kipling"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  }
+]

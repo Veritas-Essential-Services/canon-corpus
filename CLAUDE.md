@@ -108,6 +108,10 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/export_mnemonicon_pack.py --check # packs byte-identical
     python3 tests/mnemonicon_pack_test.py              # the packs vs the app's import; the PD gate
     node tests/mnemonicon_pack_browser_test.js         # import into the real page (Playwright, temp copy)
+    python3 pipeline/build_poetry.py --fetch           # poetry: fetch the pinned Gutenberg books (GITenberg mirror)
+    python3 pipeline/build_poetry.py                   # AO + heroic addendum -> catalogs, texts, Mnemonicon packs
+    python3 pipeline/build_poetry.py --check           # poetry: mint 0, byte-identical
+    python3 tests/poetry_test.py                       # the poetry section: rights gate, ids, packs, cutter
     python3 pipeline/review.py status                  # Adam's review sheets: answered / open
     python3 pipeline/review.py apply docs/review/<sheet>.md   # answers -> override rows, rebuild, --check
     python3 pipeline/review.py render --check          # the sheets are what the data renders
@@ -155,6 +159,14 @@ The living truth for project state is the Obsidian vault:
   files, one per hymn → exports/mnemonicon/ (COMMITTED; PD only, the gate
   refuses anything else). One piece per stanza, a line per clause; ids are
   uuid5 of the passage uid, so a re-import adds nothing. Launch plan C5.
+- pipeline/build_poetry.py — the poetry section (2026-10-06): AmblesideOnline's
+  poetry schedule (tag `ao`) and the house's heroic/adventurous/vocational
+  addendum (tag `addendum-heroic`, proposals), one row shape, in
+  data/poetry/ (COMMITTED: selections, catalogs, texts). Texts are CUT by the
+  script from pinned Gutenberg books, never typed; hosted only when US public
+  domain, with the reason per poem; everything else links out. Packs in
+  exports/mnemonicon/poetry/, ids uuid5 of the poem's wh-uid. Rules and
+  schema: data/poetry/README.md.
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "f540467d-5cb0-5203-bbd0-a4246bb61418",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "The Negro",
+    "source": "Langston Hughes, The Weary Blues (as 'Proem') (1926)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "I am a Negro:\n  Black as the night is black,\n  Black like the depths of my Africa.\n\nI’ve been a slave:\n  Caesar told me to keep his door-steps clean.\n  I brushed the boots of Washington.\n\nI’ve been a worker:\n  Under my hand the pyramids arose.\n  I made mortar for the Woolworth Building.\n\nI’ve been a singer:\n  All the way from Africa to Georgia\n  I carried my sorrow songs.\n  I made ragtime.\n\nI’ve been a victim:\n  The Belgians cut off my hands in the Congo.\n  They lynch me now in Texas.\n\nI am a Negro:\n  Black as the night is black,\n  Black like the depths of my Africa.",
+    "notes": "AmblesideOnline Year 6, Term 3.\nText: The Weary Blues (Knopf) (1926), Project Gutenberg #74745.\nUS public domain: the text hosted here is from The Weary Blues (Knopf) (1926), published before 1931, so its 95-year US term has run out. Project Gutenberg #74745.\nWord Hoard poetry:langston-hughes.the-negro · wh-FYNKPKNFCN",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y6",
+      "ao-y6-t3",
+      "langston-hughes"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "aa961449-8fdf-57b1-9cc8-4881bd3d3c06",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "I, Too, Sing America",
+    "source": "Langston Hughes, The Weary Blues (as 'Epilogue') (1926)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "I, too, sing America.\n\nI am the darker brother.\nThey send me to eat in the kitchen\nWhen company comes,\nBut I laugh,\nAnd eat well,\nAnd grow strong.\n\nTomorrow,\nI’ll sit at the table\nWhen company comes.\nNobody’ll dare\nSay to me,\n“Eat in the kitchen,”\nThen.\n\nBesides,\nThey’ll see how beautiful I am\nAnd be ashamed,—\n\nI, too, am America.",
+    "notes": "AmblesideOnline Year 6, Term 3.\nText: The Weary Blues (Knopf) (1926), Project Gutenberg #74745.\nUS public domain: the text hosted here is from The Weary Blues (Knopf) (1926), published before 1931, so its 95-year US term has run out. Project Gutenberg #74745.\nWord Hoard poetry:langston-hughes.i-too-sing-america · wh-369J912R65",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y6",
+      "ao-y6-t3",
+      "langston-hughes"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "0e672486-aeea-52ce-9eb6-ed2e242d89e3",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "The Negro Speaks of Rivers",
+    "source": "Langston Hughes, The Weary Blues (1926)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "I’ve known rivers:\n\nI’ve known rivers ancient as the world and older than the flow of\n  human blood in human veins.\n\nMy soul has grown deep like the rivers.\n\nI bathed in the Euphrates when dawns were young.\nI built my hut near the Congo and it lulled me to sleep.\nI looked upon the Nile and raised the pyramids above it.\nI heard the singing of the Mississippi when Abe Lincoln went down to\n  New Orleans, and I’ve seen its muddy bosom turn all golden in the\n  sunset.\n\nI’ve known rivers:\nAncient, dusky rivers.\n\nMy soul has grown deep like the rivers.",
+    "notes": "AmblesideOnline Year 6, Term 3.\nText: The Weary Blues (Knopf) (1926), Project Gutenberg #74745.\nUS public domain: the text hosted here is from The Weary Blues (Knopf) (1926), published before 1931, so its 95-year US term has run out. Project Gutenberg #74745.\nWord Hoard poetry:langston-hughes.the-negro-speaks-of-rivers · wh-KSFNSJ093K",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y6",
+      "ao-y6-t3",
+      "langston-hughes"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  }
+]
