@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e5ca51b8-2496-529b-b9bc-95ca1fb5fac7",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "In Flanders Fields",
+    "source": "John McCrae, Punch (periodical) (1915)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "In Flanders fields the poppies blow\nBetween the crosses, row on row,\n That mark our place; and in the sky\n The larks, still bravely singing, fly\nScarce heard amid the guns below.\n\nWe are the Dead.  Short days ago\nWe lived, felt dawn, saw sunset glow,\n Loved and were loved, and now we lie,\n            In Flanders fields.\n\nTake up our quarrel with the foe:\nTo you from failing hands we throw\n The torch; be yours to hold it high.\n If ye break faith with us who die\nWe shall not sleep, though poppies grow\n            In Flanders fields.",
+    "notes": "Heroic addendum (proposed), beside AO Year 6, Term 3.\nText: In Flanders Fields and Other Poems (1919), Project Gutenberg #353.\nUS public domain: the text hosted here is from In Flanders Fields and Other Poems (1919), published before 1931, so its 95-year US term has run out. Project Gutenberg #353. First published 1915 in Punch (periodical).\nWord Hoard poetry:john-mccrae.in-flanders-fields · wh-JBF3E00D38",
+    "tags": [
+      "poetry",
+      "addendum-heroic",
+      "heroic",
+      "year-6",
+      "john-mccrae"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  }
+]

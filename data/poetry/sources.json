@@ -1,0 +1,845 @@
+{
+ "_note": "Project Gutenberg books the poetry section cuts its texts from, fetched from the GITenberg mirror on GitHub (gutenberg.org itself is not reachable from the build sandbox) and pinned by sha256. A file whose hash differs is refused. Fetch: python3 pipeline/build_poetry.py --fetch",
+ "books": {
+  "19": {
+   "title": "The Song Of Hiawatha",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Song-of-Hiawatha_19/master/19.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/19",
+   "sha256": "c1f1725c6e9a8d96ac34de046f2c9ee320b49ed27f724dc51f85c643b715748f",
+   "copyrighted_header": false
+  },
+  "109": {
+   "title": "Renascence and Other Poems",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Renascence-and-Other-Poems_109/master/109.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/109",
+   "sha256": "0d0b5eb4c8ba9a9d38dc243509e5599673dea1b6ee3252b0c49724a3c5eb0da4",
+   "copyrighted_header": false
+  },
+  "207": {
+   "title": "The Spell of the Yukon",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Spell-of-the-Yukon-and-Other-Verses_207/master/207.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/207",
+   "sha256": "f1eb5d5056d2dea5c58b91232d98da7066b1a3dc9abef48eecbaa2adf78085a3",
+   "copyrighted_header": false
+  },
+  "236": {
+   "title": "The Jungle Book",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Jungle-Book_236/master/236.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/236",
+   "sha256": "e78970f1aa6734f575b0721616424b7253060df1d81f82c513f34ae07cca0282",
+   "copyrighted_header": false
+  },
+  "262": {
+   "title": "The Collected Poems of Rupert Brooke",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Collected-Poems-of-Rupert-Brooke_262/master/262.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/262",
+   "sha256": "31b4f2887fb7d617d5ddecc15ae2b509adcaf25065079e8859f8db46fdf0d870",
+   "copyrighted_header": false
+  },
+  "323": {
+   "title": "Verses 1889-1896",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Verses-1889-1896_323/master/323.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/323",
+   "sha256": "c7358077b3e959f0a0741cc7e4178de6c347603b8744e0f0b619648b25cc5c5c",
+   "copyrighted_header": false
+  },
+  "353": {
+   "title": "In Flanders Fields and Other Poems",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/In-Flanders-Fields-and-Other-Poems_353/master/353.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/353",
+   "sha256": "df3e7d81a915d3126c688e03f56aeac74470ec3dff00012a75787d97fbe5f9bb",
+   "copyrighted_header": false
+  },
+  "400": {
+   "title": "Helen of Troy and Other Poems",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Helen-of-Troy-and-Other-Poems_400/master/400.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/400",
+   "sha256": "7c07eb6a8c727526e073e8b7d1877e3967e96b78c34e9e94509a90300e204667",
+   "copyrighted_header": false
+  },
+  "409": {
+   "title": "Religious and Moral Poems",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems-on-Various-Subjects-Religious-and-Moral_409/master/409.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/409",
+   "sha256": "fd5cda10e922b81065c2a46ffdf438fd7af054bed95d365ae4b9f78a1a83d65d",
+   "copyrighted_header": false
+  },
+  "438": {
+   "title": "Underwoods",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Underwoods_438/master/438-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/438",
+   "sha256": "1b9b1b7156266a111d099d1d14532fb50ab7e7bd1e7d5710d73d01e9f16ee97d",
+   "copyrighted_header": false
+  },
+  "442": {
+   "title": "Love Songs",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Love-Songs_442/master/442.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/442",
+   "sha256": "66442cf8aa027bfc07cdeb148add30e6a793df5636878403410e42198e149767",
+   "copyrighted_header": false
+  },
+  "556": {
+   "title": "Rewards and Fairies",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Rewards-and-Fairies_556/master/556.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/556",
+   "sha256": "0b8395984988cd12c82269927942c2a1fd1c25e614377cd80c729d6d2fe2a40f",
+   "copyrighted_header": false
+  },
+  "557": {
+   "title": "Puck of Pook's Hill",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Puck-of-Pook-s-Hill_557/master/557.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/557",
+   "sha256": "8786594f4b3f3680967fa5b4bb97fcf60986174011e3b1f66e9abe10566713db",
+   "copyrighted_header": false
+  },
+  "591": {
+   "title": "Flame and Shadow",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Flame-and-Shadow_591/master/591.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/591",
+   "sha256": "7367741985bddfcdb555850a54aedffdc20e5cffbf2230ee52602bb4806fe246",
+   "copyrighted_header": false
+  },
+  "596": {
+   "title": "Rivers to the Sea",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Rivers-to-the-Sea_596/master/596.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/596",
+   "sha256": "51aed3c124c7e238f2434aa3b7b73bca7faf150305db84bf43cb43658a9c9025",
+   "copyrighted_header": false
+  },
+  "610": {
+   "title": "Idylls of the King",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Idylls-of-the-King_610/master/610.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/610",
+   "sha256": "2981ada5c5d5041196f18efc17b93f2dac597234d22b31b1cde558c4151f6f56",
+   "copyrighted_header": false
+  },
+  "617": {
+   "title": "Poems",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems_617/master/617.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/617",
+   "sha256": "92dc2f9d805d5fd4948ff8a668025fa29bec166c73fb0b4f7465a6727dbf8882",
+   "copyrighted_header": false
+  },
+  "691": {
+   "title": "The Complete Works of James Whitcomb Riley, Volume 1 (Memorial Edition, Harper)",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Complete-Works-of-James-Whitcomb-Riley-Volume-1_691/master/691.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/691",
+   "sha256": "05972aa4e7250021735b5c81366d7da425722499a56c989679660bd6559997dd",
+   "copyrighted_header": false
+  },
+  "791": {
+   "title": "The Princess",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Princess_791/master/791.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/791",
+   "sha256": "49938430a135e060888d79a6e998d73c2826e4c2dfd1f3e974bda885cc4aa131",
+   "copyrighted_header": false
+  },
+  "847": {
+   "title": "Lays of Ancient Rome",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Lays-of-Ancient-Rome_847/master/847.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/847",
+   "sha256": "9f41a9590756e037be3293d7019c18d3ad527dd54f7f07b21f71a3a94c490b44",
+   "copyrighted_header": false
+  },
+  "1041": {
+   "title": "Shakespeare's Sonnets",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Shakespeare-s-Sonnets_1041/master/1041.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/1041",
+   "sha256": "e3580b25135e2d89467dd4cef0ccdcdd5f50f8779247fc24612ef653d27dc9d5",
+   "copyrighted_header": false
+  },
+  "1247": {
+   "title": "Second April",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Second-April_1247/master/1247.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/1247",
+   "sha256": "b40167f66c69131df7304b1f56b7dbd3122a007b15f4d277cf854948465e3338",
+   "copyrighted_header": false
+  },
+  "1304": {
+   "title": "The Oxford Book of English Verse 1250-1900, ed. Quiller-Couch (PG title 'Bulchevy's Book of English Verse')",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Bulchevy-s-Book-of-English-Verse_1304/master/1304.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/1304",
+   "sha256": "2fbd1d4ced5f73c87255bf57feab1bb40cbbb0f8e88422b43d915017e3e4bb7e",
+   "copyrighted_header": false
+  },
+  "1322": {
+   "title": "Leaves of Grass",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Leaves-of-Grass_1322/master/1322.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/1322",
+   "sha256": "3670a70ed46264f6efdbbbef78f594dcbea6bde8c98b07c89fd183bb2c960a1c",
+   "copyrighted_header": false
+  },
+  "1358": {
+   "title": "Enoch Arden, &c.",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Enoch-Arden--amp-c._1358/master/1358.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/1358",
+   "sha256": "afeb6cc70e61747fcb7738c1afbea3df25f1d84004f9aec113f6fa39ba7d2895",
+   "copyrighted_header": false
+  },
+  "1365": {
+   "title": "The Complete Poetical Works of Henry Wadsworth Longfellow",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Complete-Poetical-Works-of-Henry-Wadsworth-Longfellow_1365/master/1365.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/1365",
+   "sha256": "9a2594213268bb8eed98081881264b23515a762eadf19d1ab14031231ceb397d",
+   "copyrighted_header": false
+  },
+  "1568": {
+   "title": "Poems",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems_1568/master/1568-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/1568",
+   "sha256": "e792c0cf864e6897f7365224a31a2d79190b2d5227bd153a465d94df7e34ebf0",
+   "copyrighted_header": false
+  },
+  "1612": {
+   "title": "Poems By a Little Girl",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems-By-a-Little-Girl_1612/master/1612.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/1612",
+   "sha256": "f9d89ed7e04f6d55b632f6bb2afb8932093a592d3e4892ab91a7bb8d150b1f55",
+   "copyrighted_header": false
+  },
+  "1719": {
+   "title": "The Ballad of the White Horse",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Ballad-of-the-White-Horse_1719/master/1719.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/1719",
+   "sha256": "a94ec7b599f401129227a790476b6a845c0ef374898257da2d4b9ba4eefe0d04",
+   "copyrighted_header": false
+  },
+  "1745": {
+   "title": "The Poetical Works of John Milton",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Poetical-Works-of-John-Milton_1745/master/1745.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/1745",
+   "sha256": "76b42fb39e46303ca0345fb2d9957e17ee36a168f6ebdb3e0a64244fd279363b",
+   "copyrighted_header": false
+  },
+  "1934": {
+   "title": "Songs of Innocence and Songs of Experience",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Songs-of-Innocence-and-Songs-of-Experience_1934/master/1934.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/1934",
+   "sha256": "3b5cb687d0183e1633ad9aaf502a5392802825c2e695ad9225ae2aaabfd4ac37",
+   "copyrighted_header": false
+  },
+  "2039": {
+   "title": "Evangeline",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Evangeline--A-Tale-of-Acadie_2039/master/2039.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/2039",
+   "sha256": "488d507d0646058fc4f123849483b2e4fe9c56c436175b30e8637c1d0b110005",
+   "copyrighted_header": false
+  },
+  "2381": {
+   "title": "Actions and Reactions",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Actions-and-Reactions_2381/master/2381.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/2381",
+   "sha256": "22f1bdc897d3620bb6035190ce68d5fdc7a96549924c3f724e80a4efa00245d2",
+   "copyrighted_header": false
+  },
+  "2678": {
+   "title": "Poems  [Series 1]",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems-by-Emily-Dickinson-Series-One_2678/master/2678.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/2678",
+   "sha256": "6ce3fcbdb18c3665cc0ba1561f629f5afbf45b7273243ed412ea033168689433",
+   "copyrighted_header": false
+  },
+  "2679": {
+   "title": "Poems  [Series 2]",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems-by-Emily-Dickinson-Series-Two_2679/master/2679.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/2679",
+   "sha256": "d6004aa72d444531cc78e9f2bc800dd55c21af0a5fedd40c4047933d957dfd12",
+   "copyrighted_header": false
+  },
+  "2781": {
+   "title": "Just So Stories",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Just-So-Stories_2781/master/2781.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/2781",
+   "sha256": "51db0c5f18859b2dfe5af2d340de6fbc9736e35ed41ef7b200c2725eb03cf555",
+   "copyrighted_header": false
+  },
+  "2819": {
+   "title": "Barrack-Room Ballads",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Barrack-Room-Ballads_2819/master/2819.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/2819",
+   "sha256": "9e19e8544baf6ab0684cba0e7cc067e30e0f9c57b90380d363ea90c94ce7d86c",
+   "copyrighted_header": false
+  },
+  "2876": {
+   "title": "The Light That Failed",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Light-That-Failed_2876/master/2876.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/2876",
+   "sha256": "4ab140eee024d4a347571172281f0ebc9cd6a51e6d0a7956864d03c561de9d97",
+   "copyrighted_header": false
+  },
+  "3021": {
+   "title": "A Boy's Will",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/A-Boy-s-Will_3021/master/3021.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/3021",
+   "sha256": "f33145b20a3de29c12940d9bc72220a3b342fea20442ab3d728173e0852a3763",
+   "copyrighted_header": false
+  },
+  "3753": {
+   "title": "Peacock Pie, A Book of Rhymes",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Peacock-Pie-A-Book-of-Rhymes_3753/master/3753.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/3753",
+   "sha256": "4005f9c981ebef3f25a5753a92726ef265e82e61c02b529cb7530728db1d043e",
+   "copyrighted_header": false
+  },
+  "4010": {
+   "title": "Marmion",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Marmion-A-Tale-Of-Flodden-Field_4010/master/4010-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/4010",
+   "sha256": "fb3f547de2c24b80344c1adb12867520056d8aa6e71ccde14378a6ce42816f72",
+   "copyrighted_header": false
+  },
+  "4399": {
+   "title": "A Few Figs from Thistles",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/A-Few-Figs-from-Thistles_4399/master/4399.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/4399",
+   "sha256": "eb21c4786949d570ed2a35f34789ca302a507fc61303f0f484e63a7f292160f3",
+   "copyrighted_header": false
+  },
+  "4783": {
+   "title": "Riley Farm-Rhymes",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Riley-Farm-Rhymes_4783/master/4783.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/4783",
+   "sha256": "12dec5def7d9adf8da7fee9ab9a383305c540a70f82c9b13ae002bae43aa8232",
+   "copyrighted_header": false
+  },
+  "6048": {
+   "title": "The Works of John Bunyan Volume 3",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Works-of-John-Bunyan-Volume-03_6048/master/6048.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/6048",
+   "sha256": "807b51df3f3c402850b7106bb44b10cff5eb58f9c70be7c9d296e1a897fa202e",
+   "copyrighted_header": false
+  },
+  "7846": {
+   "title": "Departmental Ditties and Barrack Room Ballads",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Departmental-Ditties-and-Barrack-Room-Ballads_7846/master/7846.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/7846",
+   "sha256": "519ee3a826c434f994267e9c0924af00353b128f93a4bffc68e25f2753d56f0c",
+   "copyrighted_header": false
+  },
+  "7848": {
+   "title": "Last Poems",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Last-Poems-by-A.-E.-Housman_7848/master/7848.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/7848",
+   "sha256": "59a569c81712e78da8bc8d6c387f06d9062042da65592d8059856aa5a760dbf9",
+   "copyrighted_header": false
+  },
+  "8209": {
+   "title": "Poems 1817",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems-1817_8209/master/8209.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/8209",
+   "sha256": "21dac76b556d17c3534c54a028323d645c708bcad07bb67bbc689fb0e41d327e",
+   "copyrighted_header": false
+  },
+  "8601": {
+   "title": "The Early Poems of Alfred Lord Tennyson",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Early-Poems-of-Alfred-Lord-Tennyson_8601/master/8601.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/8601",
+   "sha256": "53754199dce6ff19aaadfd8430492aeaed8dcfca12dfc00e0ef1a4145541eb3c",
+   "copyrighted_header": false
+  },
+  "8774": {
+   "title": "Poems In Two Volumes, Vol. 1",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems-in-Two-Volumes-Volume-1_8774/master/8774.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/8774",
+   "sha256": "ff77bf6bb105bd0686d92cd82cdbfef4eceadf63733f75db85e921b7e27c0f87",
+   "copyrighted_header": false
+  },
+  "8824": {
+   "title": "Poems In Two Volumes, Vol. 2",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems-in-Two-Volumes-Volume-2_8824/master/8824.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/8824",
+   "sha256": "8860911fbcff4b9828a1e8622693dac6378e1d8f8ba3c64902d353ea4190213c",
+   "copyrighted_header": false
+  },
+  "8861": {
+   "title": "Byron's Poetical Works, Vol. 1",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Works-of-Lord-Byron-Vol-1-Poetry_8861/master/8861-8.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/8861",
+   "sha256": "037328a9d69ea1217420d9273267e8f860a320c9e5151df3033862aa191a2f08",
+   "copyrighted_header": false
+  },
+  "8912": {
+   "title": "Lyrical Ballads with Other Poems, 1800, Vol. 2",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Lyrical-Ballads-with-Other-Poems-1800-Volume-2_8912/master/8912.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/8912",
+   "sha256": "dc6e03ba93aa5f2154013a48fbd651aa345223d3bc496aa2316a3333a0f0d1d3",
+   "copyrighted_header": false
+  },
+  "9413": {
+   "title": "The Poetical Works Of Alexander Pope, Vol. 1",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Poetical-Works-of-Alexander-Pope-Volume-1_9413/master/9413-8.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/9413",
+   "sha256": "0d3a4cd46e7d7933d5ce0b6eaf32e81bda28e917d66f4491e90dcae1cfcc971c",
+   "copyrighted_header": false
+  },
+  "9600": {
+   "title": "The Complete Works of Whittier",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Works-of-John-Greenleaf-Whittier-Complete_9600/master/9600.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/9600",
+   "sha256": "5e6cc3895a7efd0071a52904c6678bf3fcaa97ea65608f23736a987de39aae58",
+   "copyrighted_header": false
+  },
+  "9601": {
+   "title": "Poetical Works of Pope, Vol. II",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Poetical-Works-of-Alexander-Pope-Volume-2_9601/master/9601.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/9601",
+   "sha256": "a132ad11be66b409211e28767ebacc5a76f6b01a4cc065243a68942aff263d04",
+   "copyrighted_header": false
+  },
+  "9606": {
+   "title": "A Little Book of Western Verse",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/A-Little-Book-of-Western-Verse_9606/master/9606.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/9606",
+   "sha256": "9f25cffb840adc3abb621db9496b32fc8a7f9fda31d2882ee11eb6bb7a3f326d",
+   "copyrighted_header": false
+  },
+  "9622": {
+   "title": "Lyrical Ballads 1798",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Lyrical-Ballads-With-a-Few-Other-Poems--1798-_9622/master/9622.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/9622",
+   "sha256": "d329235e67a5ce25947da7c4cad604053c0afe643350cd34f82ec7f5937e819f",
+   "copyrighted_header": false
+  },
+  "9651": {
+   "title": "A Child-World",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/A-Child-World_9651/master/9651.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/9651",
+   "sha256": "ec66e7f09f5dbaa17a6a701fd0a4fb4b4b41bf749fd1e24bd6e7997e6d068986",
+   "copyrighted_header": false
+  },
+  "9777": {
+   "title": "Riley Child-Rhymes",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Riley-Child-Rhymes_9777/master/9777.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/9777",
+   "sha256": "d6c3dea5d5c7b8c3d5be57bb9381cd1cfca8c6432f355e4b4d214406a363dbc9",
+   "copyrighted_header": false
+  },
+  "9825": {
+   "title": "A Calendar of Sonnets",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/A-Calendar-of-Sonnets_9825/master/9825.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/9825",
+   "sha256": "2b77328bbd042dbf7bd7dc44b93a2ffdde00dad0690cbec19eb610171a228ec9",
+   "copyrighted_header": false
+  },
+  "9889": {
+   "title": "Songs and Other Verse",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Songs-and-Other-Verse_9889/master/9889.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/9889",
+   "sha256": "03a0d33cd258d6dabc0610ce5a89569e3dbc4af7111d7f336989172bf0c29534",
+   "copyrighted_header": false
+  },
+  "12031": {
+   "title": "Collected Poems 1901-1918 in Two Volumes",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Collected-Poems-1901-1918-in-Two-VolumesVolume-I._12031/master/12031.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/12031",
+   "sha256": "2924457b69ada270850d150904818472f34c4fdfd7270f8b3884e4711ca936e1",
+   "copyrighted_header": false
+  },
+  "12241": {
+   "title": "Poems: Third Series",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems-by-Emily-Dickinson-Third-Series_12241/master/12241.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/12241",
+   "sha256": "72a508b58e062a858b6a95fa7aec34bab7cd5f1ec5c4c73fae19447b64e95f13",
+   "copyrighted_header": false
+  },
+  "12413": {
+   "title": "Among the Millet and Other Poems",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Among-the-Millet-and-Other-Poems_12413/master/12413.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/12413",
+   "sha256": "3b4665a6fce89092c537e2b3f964ef0c253cedd8c4af558f1bd90c46ef9b3022",
+   "copyrighted_header": false
+  },
+  "12664": {
+   "title": "Lyrics of Earth",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Lyrics-of-Earth_12664/master/12664.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/12664",
+   "sha256": "15ceb8f5d3a747d56332f49d0f8d67816c465e8d19a26d4c8e35e1ab1636950c",
+   "copyrighted_header": false
+  },
+  "12843": {
+   "title": "Poems",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/PoemsHousehold-Edition_12843/master/12843.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/12843",
+   "sha256": "42a45870c6467d067fcfc2a578cc8b3b17a943215503403aa9c0cb1a27106770",
+   "copyrighted_header": false
+  },
+  "15862": {
+   "title": "Afterwhiles",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Afterwhiles_15862/master/15862.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/15862",
+   "sha256": "bafe87c7e4bf76ef9e6b9e386c1a9462ca27a57d4b373158736e78b449f0da9c",
+   "copyrighted_header": false
+  },
+  "16376": {
+   "title": "Browning's Shorter Poems",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Browning-s-Shorter-Poems_16376/master/16376.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/16376",
+   "sha256": "da5e46326747348cd7afb54b728d5cc8234f7041dd75a381563d2c945f68663e",
+   "copyrighted_header": false
+  },
+  "16436": {
+   "title": "Poems Every Child Should Know",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems-Every-Child-Should-KnowThe-What-Every-Child-Should-Know-Library_16436/master/16436.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/16436",
+   "sha256": "6a50b70fae0f0c5c26239f439ef8840ddbf2054cd1b02d08a3160d73c5a2c429",
+   "copyrighted_header": false
+  },
+  "18338": {
+   "title": "The Complete Poems of Paul Laurence Dunbar",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Complete-Poems-of-Paul-Laurence-Dunbar_18338/master/18338.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/18338",
+   "sha256": "32aafcb598faebaa435cf02c7734d6b9266ae269e3c4358a04a6b158a3917881",
+   "copyrighted_header": false
+  },
+  "18500": {
+   "title": "The Complete Works of Robert Burns: Containing his Poems, Songs, and Correspondence.",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Complete-Works-of-Robert-Burns--Containing-his-Poems-Songs-and-Correspondence.--13-With-a__18500/master/18500.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/18500",
+   "sha256": "c88f2eac594a4329c3b8e9f4a63bef5a35f8cb158b0513900b3e51cb917148e6",
+   "copyrighted_header": false
+  },
+  "19221": {
+   "title": "The Golden Treasury",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Golden-TreasuryOf-the-Best-Songs-and-Lyrical-Poems-in-the-English-Language_19221/master/19221.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/19221",
+   "sha256": "7d8e94d130673c7ab5dfdad3afa39eb34e97b13af47e7852d7a52e11fc5734c4",
+   "copyrighted_header": false
+  },
+  "19316": {
+   "title": "Lyra Heroica",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Lyra-Heroica--A-Book-of-Verse-for-Boys_19316/master/19316.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/19316",
+   "sha256": "3a6369b2e06f9453d652d2195ee4031d57b62f106a72248970295ee9030a3ada",
+   "copyrighted_header": false
+  },
+  "20158": {
+   "title": "The Works of Lord Byron, Volume 4",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Works-of-Lord-Byron.-Vol.-4_20158/master/20158.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/20158",
+   "sha256": "928c5dd4d9c08b13c2a7123abac03401c49a5b077b4ab90423cc9c7cbccda209",
+   "copyrighted_header": false
+  },
+  "20226": {
+   "title": "Snow-Bound",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Snow-BoundA-Winter-Idyll_20226/master/20226.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/20226",
+   "sha256": "31e9f5087d8d29d375330deecbbdfa42a5c12d4ef95fffe0221545270d807ed0",
+   "copyrighted_header": false
+  },
+  "21777": {
+   "title": "The Years Between",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Years-Between_21777/master/21777.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/21777",
+   "sha256": "5f755181696db603fa13548294dd42f9c8b7b5cc5d7715ec13d37593c7780e5b",
+   "copyrighted_header": false
+  },
+  "21811": {
+   "title": "The Works Of Lord Byron, Vol. 3 (of 7)",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Works-of-Lord-Byron.-Vol.-3_21811/master/21811.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/21811",
+   "sha256": "91084ae906dfcef0edc16f0c5a1243217f7cd5069ce1e2bbec2a76e4b68a10bc",
+   "copyrighted_header": false
+  },
+  "22403": {
+   "title": "Poems of Gerard Manley Hopkins",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems-of-Gerard-Manley-HopkinsNow-First-Published_22403/master/22403.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/22403",
+   "sha256": "248953da3496a19f413cf7ecf44a28c0154f6a0a77cb8c16a9d1624e7eade350",
+   "copyrighted_header": false
+  },
+  "22569": {
+   "title": "The Listeners and Other Poems",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Listeners-and-Other-Poems_22569/master/22569.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/22569",
+   "sha256": "04abb13db9cbe58ed8a13c7a6ed8e1619f5d4e06a24de913c079f3d370e43645",
+   "copyrighted_header": false
+  },
+  "22833": {
+   "title": "Alcyone",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Alcyone_22833/master/22833.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/22833",
+   "sha256": "e49b8ab1929c5faf35f810e7f90a4cfca5a0396c21f8c82fbf7344b73454bf2f",
+   "copyrighted_header": false
+  },
+  "23684": {
+   "title": "Keats: Poems Published in 1820",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Keats--Poems-Published-in-1820_23684/master/23684.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/23684",
+   "sha256": "11a48b90e4b5ff8ff07577c29010d01f34c812e9c2348e142b5e8da464c8ec2f",
+   "copyrighted_header": false
+  },
+  "23772": {
+   "title": "Devotions Upon Emergent Occasions",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Devotions-Upon-Emergent-OccasionsTogether-with-Death-s-Duel_23772/master/23772.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/23772",
+   "sha256": "eef5337f098c4bfc4c010ac7dad1d53b06099ae1ac64f7b301a334a7e60bcbe7",
+   "copyrighted_header": false
+  },
+  "24280": {
+   "title": "Endymion",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/EndymionA-Poetic-Romance_24280/master/24280.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/24280",
+   "sha256": "2f010c857f79e771aad4dbb9daf26b4be207db9bfe808016af8833fbbea2427c",
+   "copyrighted_header": false
+  },
+  "24405": {
+   "title": "Poems: New and Old",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems--New-and-Old_24405/master/24405.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/24405",
+   "sha256": "faf0fdd11953fd11f4496aa64badc263c9c7f4be82ed703d9b9a87c67263cced",
+   "copyrighted_header": false
+  },
+  "25340": {
+   "title": "The Works of Lord Byron, Volume 2",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Works-of-Lord-Byron.-Vol.-2_25340/master/25340.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/25340",
+   "sha256": "b290cb909461f38ad48fd0a3999db30fee58a1dca52309d24dab859c51a358f6",
+   "copyrighted_header": false
+  },
+  "25643": {
+   "title": "'He Giveth His Beloved Sleep'",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/-He-Giveth-His-Beloved-Sleep-_25643/master/25643.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/25643",
+   "sha256": "b45688fbc261853bbc9b686c458ba68312446c95b2bc0df8576424c8d0902824",
+   "copyrighted_header": false
+  },
+  "25880": {
+   "title": "American Poetry, 1922",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/American-Poetry-1922--A-Miscellany_25880/master/25880.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/25880",
+   "sha256": "cb15f5d27b30085b6829c96a8ccff0582cb925b1456c6c40a3f3e54b0c572149",
+   "copyrighted_header": false
+  },
+  "27577": {
+   "title": "The Works of Lord Byron, Vol. 7.",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Works-of-Lord-Byron-Vol.-7.-Poetry_27577/master/27577-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/27577",
+   "sha256": "1cf8fb04a9cdb6b3ef566edbf23d8a59f651ffeb5a9e596632817eb4d08ec6d9",
+   "copyrighted_header": false
+  },
+  "27870": {
+   "title": "The Seven Seas",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Seven-Seas_27870/master/27870.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/27870",
+   "sha256": "addc329068790b727733536b6da7898a0ae80ac6a8b8b1b5a458084a0b0a4d1e",
+   "copyrighted_header": false
+  },
+  "28722": {
+   "title": "A Child's Garden of Verses",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/A-Child-s-Garden-of-Verses_28722/master/28722.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/28722",
+   "sha256": "c806486cdc483de96a0c7062ae5f5db34a6c175829aa061d07f38a41d142538e",
+   "copyrighted_header": false
+  },
+  "29090": {
+   "title": "The Complete Poetical Works of Samuel Taylor Coleridge",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Complete-Poetical-Works-of-Samuel-Taylor-ColeridgeVol-I-and-II_29090/master/29090-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/29090",
+   "sha256": "655c59241fd03ebbdc40cc5cf19d8746cb03decb7346b5e49d2b846599395ad1",
+   "copyrighted_header": false
+  },
+  "30131": {
+   "title": "Nye and Riley's Wit and Humor (Poems and Yarns)",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Nye-and-Riley-s-Wit-and-Humor--Poems-and-Yarns-_30131/master/30131.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/30131",
+   "sha256": "d163f67f5ea2b82be9d0297e70b351d3bbf99731e1034d50a0e06ebe2de22fa0",
+   "copyrighted_header": false
+  },
+  "31015": {
+   "title": "The Poetical Works of Elizabeth Barrett Browning, Volume IV",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Poetical-Works-of-Elizabeth-Barrett-Browning-Volume-IV_31015/master/31015.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/31015",
+   "sha256": "83887faeb28609afc3d5759babc0d3c3376160d8591b2417b67a20df44b1653c",
+   "copyrighted_header": false
+  },
+  "31184": {
+   "title": "Poems",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems_31184/master/31184.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/31184",
+   "sha256": "5990a746dfe5e6f06cc66e9cf1009c1ba2c2f4f0c25564fcee1ba7fb00c1be78",
+   "copyrighted_header": false
+  },
+  "31874": {
+   "title": "Second Book of Verse",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Second-Book-of-Verse_31874/master/31874.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/31874",
+   "sha256": "077d3e08ed9b735a38ee20801e6b357a1be6e95930cf0cacc90558efcb6aca29",
+   "copyrighted_header": false
+  },
+  "32459": {
+   "title": "The Poetical Works of William Wordsworth, Volume IV (of 8)",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Poetical-Works-of-William-Wordsworth-Volume-IV--of-8-_32459/master/32459.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/32459",
+   "sha256": "a3711371682a40841334d94c062643c15f5b56d08d398f07e4d651d0bd5c0373",
+   "copyrighted_header": false
+  },
+  "37074": {
+   "title": "Neghborly Poems and Dialect Sketches",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Neghborly-Poems-and-Dialect-Sketches_37074/master/37074.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/37074",
+   "sha256": "afc43cee87000a7346708dc16b6b2a63affbde2f722479c8f45d3921160071a3",
+   "copyrighted_header": false
+  },
+  "46041": {
+   "title": "The Christian Hymn Book",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Christian-Hymn-Bookand-Selected-by-A.-Campbell-and-Others_46041/master/46041.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/46041",
+   "sha256": "f656581801edc10595feb73d837623677ac203384dcbf442d5b640a9c0964d77",
+   "copyrighted_header": false
+  },
+  "47143": {
+   "title": "The Poetical Works of William Wordsworth, Vol. VII",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Poetical-Works-of-William-Wordsworth-Vol-VII_47143/master/47143.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/47143",
+   "sha256": "d79d5ee8f246159256578259beb9c184cbde2b47a3278624c71283bdf586e848",
+   "copyrighted_header": false
+  },
+  "48688": {
+   "title": "The Poems of John Donne [2 vols.] Volume I",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Poems-of-John-Donne-2-vols-Volume-I-Edited-from-the-Old-Editions-and-Numerous-Manuscripts_48688/master/48688-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/48688",
+   "sha256": "93695b9c26daaabfb6dd893e30e37a48fc0e55b90527453b7927d90cc03a3aa1",
+   "copyrighted_header": false
+  },
+  "50954": {
+   "title": "The Complete Poetic and Dramatic Works of Robert Browning",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Complete-Poetic-and-Dramatic-Works-of-Robert-Browning-Cambridge-Edition_50954/master/50954-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/50954",
+   "sha256": "ab19b6ccc7a763bc74e7e5807f4de078dc930868e67476ad13905b6f24f97a5b",
+   "copyrighted_header": false
+  },
+  "52761": {
+   "title": "Salt-Water Ballads",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Salt-Water-Ballads_52761/master/52761-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/52761",
+   "sha256": "e81f3e59f06844f3e17e0804734ceaa9e70b64fc863b02cb22ef72edc84b21e6",
+   "copyrighted_header": false
+  },
+  "52836": {
+   "title": "The Poetical Works of William Wordsworth -- Volume 8 (of 8)",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Poetical-Works-of-William-Wordsworth-Volume-8-of-8_52836/master/52836-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/52836",
+   "sha256": "93ead6e227e43f6039edfaac63a1c464ffa0f915a0f17ce0c6e7b226f9b76741",
+   "copyrighted_header": false
+  },
+  "54414": {
+   "title": "Courtship of Miles Standish",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Courtship-of-Miles-Standish-Minnehaha-Edition_54414/master/54414-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/54414",
+   "sha256": "d202bc8dc15c6dbd29564cdf9fa0e5cd3dc27f51fe22193e242225fa287b7f5f",
+   "copyrighted_header": false
+  },
+  "56913": {
+   "title": "Maud, and Other Poems",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Maud-and-Other-Poems_56913/master/56913-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/56913",
+   "sha256": "3241d6b04cd1114132a6f5facdd3f8413103054e6f7bd52100f1f7dabf70e5f6",
+   "copyrighted_header": false
+  },
+  "59474": {
+   "title": "The harp-weaver, and other poems",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Harp-Weaver-and-Other-Poems_59474/master/59474.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/59474",
+   "sha256": "f7dcd2fa9a04ed5ca285f8dc47442931554e74be63f3a9b91b6a2d22c1f045cc",
+   "copyrighted_header": false
+  },
+  "59788": {
+   "title": "The Poetical Works of Thomas Campbell",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Poetical-Works-of-Thomas-Campbell_59788/master/59788-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/59788",
+   "sha256": "b6daf418b9809c9dfe32905f1b8d9c851d4af71353332bd23f2b8946ecb84142",
+   "copyrighted_header": false
+  },
+  "60260": {
+   "title": "The Five Nations, Volume I (of 2)",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Five-Nations-Volume-I_60260/master/60260-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/60260",
+   "sha256": "fc20b185ee255a4c32a8c7977487be24b70644a8201fcce2c545d6faaf1984da",
+   "copyrighted_header": false
+  },
+  "60261": {
+   "title": "The Five Nations, Volume II (of 2)",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Five-Nations-Volume-II_60261/master/60261-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/60261",
+   "sha256": "755af67b1ec1973034420f0ef7750068ea1d32178cc433f8ae9b836918d6b092",
+   "copyrighted_header": false
+  },
+  "61286": {
+   "title": "Selected Poems",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Selected-Poems_61286/master/61286-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/61286",
+   "sha256": "fec588d837fdae864a23a2689602b2e2d61d3974ff4cf35c223988851e76572f",
+   "copyrighted_header": false
+  },
+  "63552": {
+   "title": "Armazindy",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Armazindy-The-Poems-and-Prose-Sketches-of-James-Whitcomb-Riley_63552/master/63552-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/63552",
+   "sha256": "12906060cb5416dad102befe6c979c550dd00035dfd34dcbb7877db9ff619d7f",
+   "copyrighted_header": false
+  },
+  "66683": {
+   "title": "The Story of the Battle Hymn of the Republic",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Story-of-the-Battle-Hymn-of-the-Republic_66683/master/66683-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/66683",
+   "sha256": "630f06584aca45c6e4fa358704b076458d36521544d57be9218106be19c237cf",
+   "copyrighted_header": false
+  },
+  "66689": {
+   "title": "Poems of Arthur Hugh Clough",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems-of-Arthur-Hugh-Clough_66689/master/66689-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/66689",
+   "sha256": "dc5d669c9925d89af14e9875a3265205e278fc46b31321225c5e4a13bb6e2516",
+   "copyrighted_header": false
+  },
+  "66785": {
+   "title": "The Poems of Felicia Hemans",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Poems-of-Felicia-Hemans_66785/master/66785-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/66785",
+   "sha256": "6344acd7cea8cb91f40a8951a741321093717f982c51b97cc0390f55706f3ee5",
+   "copyrighted_header": false
+  },
+  "67012": {
+   "title": "The man with the hoe, and other poems",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-man-with-the-hoe-and-other-poems_67012/master/67012-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/67012",
+   "sha256": "b029e70bbbfb87e2a4760f0ece5edf61f82498d0ca34fd02996fdf4171b97431",
+   "copyrighted_header": false
+  },
+  "70271": {
+   "title": "When we were very young",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/When-We-Were-Very-Young_70271/master/70271-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/70271",
+   "sha256": "a027c227a2691c298ae23a9f960c4c40aaf17941c08345331f6701e8c1efe185",
+   "copyrighted_header": false
+  },
+  "70516": {
+   "title": "Now we are six",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Now-We-Are-Six_70516/master/70516-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/70516",
+   "sha256": "aca2e08a07407c26b8c509da971b7811555f4c136aeb488ac9e76082bfffb61f",
+   "copyrighted_header": false
+  },
+  "70950": {
+   "title": "In memoriam",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/In-Memoriam_70950/master/70950-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/70950",
+   "sha256": "d0e776124bda6d2e5f1d2baad4d93621fb5d10b73ef90cde9ea73387ecdbc4e7",
+   "copyrighted_header": false
+  },
+  "74745": {
+   "title": "The Weary Blues (Knopf)",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/The-Weary-Blues_74745/master/74745-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/74745",
+   "sha256": "25bbfb1fd38cc6a9066c50ebd0c13ad1afcaff904ea19366af3764d60a3d184b",
+   "copyrighted_header": false
+  },
+  "75578": {
+   "title": "Poems of Childhood (illus. Maxfield Parrish)",
+   "raw_url": "https://raw.githubusercontent.com/GITenberg/Poems-of-Childhood_75578/master/75578-0.txt",
+   "gutenberg_url": "https://www.gutenberg.org/ebooks/75578",
+   "sha256": "31307fd32cbe72b5d649bf8559432b0b350f440543d1b2b558ba2588a5a0b1ff",
+   "copyrighted_header": false
+  }
+ }
+}
