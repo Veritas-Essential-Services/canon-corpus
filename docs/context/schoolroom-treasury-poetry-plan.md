@@ -2,6 +2,7 @@
 model_log:
   - 2026-10-07 claude-opus-5-5 drafted
   - 2026-10-07 claude-opus-5-5 added the feel, American poets, declamations, pictures
+  - 2026-10-07 claude-opus-5-5 recorded one-volume decision
 fable_review: pending
 ---
 # The Schoolroom Treasury: Poetry and Song
@@ -121,6 +122,8 @@ Each piece is placed in the earliest year that most of the readers placed it, wi
 | Years 7–9 | 12–15 | Scott, Macaulay, Kipling, Shakespeare speeches |
 | Years 10–12 | 15–18 | Milton, Spenser, the long odes and epics in extract |
 
+**Decided (Adam, 2026-10-07):** build one mega book, graded by band inside it. Split it into a book per band later, only if each band has enough to stand alone.
+
 Every piece also gets a length and a difficulty mark, so the Mnemonicon can portion it out stanza by stanza.
 
 ## Rights gate
@@ -159,6 +162,5 @@ What is missing is the tally itself: the readers and anthologies, parsed into ro
 ## Open questions
 
 - Admission threshold: how many sources must carry a piece?
-- One volume, or one book per band?
 
 Living copy (editable): https://claude.ai/code/artifact/8151c654-d39c-4d3e-bc8e-c3cc7f22457a
