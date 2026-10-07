@@ -6,6 +6,11 @@ it saves the largest image the source offers:
 
   - IIIF image service  -> {service}/full/max/0/default.jpg (falls back to full/full/)
   - IIIF manifest       -> every canvas in the manifest, largest size each
+  - Library of Congress -> every page's largest file (usually the master TIFF or
+                           JPEG 2000), read from loc.gov's JSON API, because its
+                           manifest.json sits behind a bot wall
+  - Wikimedia Commons   -> the original file (a source's `image`, or the file a
+                           commons.wikimedia.org/wiki/File: page names)
   - plain image URL     -> saved as is
   - web page only       -> listed in _not_downloaded.txt for you to fetch by hand
 
@@ -26,6 +31,7 @@ import re
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -97,6 +103,29 @@ def manifest_services(manifest):
     return [u for u in out if u]
 
 
+def loc_files(url):
+    """The largest file of every page of a loc.gov item or resource."""
+    base = url.split("manifest.json")[0].split("?")[0].rstrip("/") + "/?fo=json"
+    d = json.loads(get(base)[0])
+    pages = [page for res in d.get("resources", []) for page in res.get("files", [])]
+    out = []
+    for page in pages:
+        files = [f for f in page if f.get("url") and f.get("size") and str(f.get("mimetype", "")).startswith("image/")]
+        if files:
+            out.append(max(files, key=lambda f: f["size"])["url"])
+    return out
+
+
+def commons_original(page_url):
+    """The original file behind a commons.wikimedia.org/wiki/File: page."""
+    title = urllib.parse.unquote(page_url.split("/wiki/", 1)[1])
+    q = urllib.parse.urlencode({"action": "query", "titles": title, "prop": "imageinfo", "iiprop": "url",
+                                "format": "json", "formatversion": 2})
+    d = json.loads(get("https://commons.wikimedia.org/w/api.php?" + q)[0])
+    pages = d["query"]["pages"]
+    return pages[0]["imageinfo"][0]["url"] if pages and pages[0].get("imageinfo") else None
+
+
 def save(path, blob):
     tmp = path + ".part"
     with open(tmp, "wb") as f:
@@ -128,9 +157,15 @@ def main():
                                   safe(f"{work.get('published') or 'undated'} {work['title']}"))
             targets = []  # (kind, url, source)
             for src in work.get("sources", []):
-                if src.get("iiif"):
+                if src.get("iiif") and "www.loc.gov" in src["iiif"]:
+                    targets.append(("loc", src["iiif"], src))
+                elif src.get("iiif"):
                     kind = "manifest" if "manifest" in src["iiif"] else "service"
                     targets.append((kind, src["iiif"], src))
+                elif src.get("image"):
+                    targets.append(("image", src["image"], src))
+                elif re.match(r"https://commons\.wikimedia\.org/wiki/File:", src.get("url", "")):
+                    targets.append(("commons", src["url"], src))
                 elif re.search(r"\.(tiff?|png|jp2|jpe?g)(?:$|\?)", src.get("url", ""), re.I):
                     targets.append(("image", src["url"], src))
                 else:
@@ -148,6 +183,10 @@ def main():
                 try:
                     if kind == "manifest":
                         services = manifest_services(json.loads(get(url)[0]))
+                    elif kind == "loc":
+                        services, kind = loc_files(url), "image"
+                    elif kind == "commons":
+                        services, kind = [u for u in [commons_original(url)] if u], "image"
                     else:
                         services = [url]
                     if services:
