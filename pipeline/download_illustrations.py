@@ -137,16 +137,28 @@ def main():
                     manual.append(f"{artist['artist']} | {work['title']} | {src.get('url')}")
             if not targets:
                 continue
-            kind, url, src = targets[0]  # the catalog lists the best source first
             if a.dry_run:
+                kind, url, _ = targets[0]
                 print(f"{kind:8} {artist['artist']} / {work['title']}: {url}")
                 continue
             os.makedirs(folder, exist_ok=True)
+            # The catalog lists the best source first; fall back to the next if one fails.
+            services = None
+            for kind, url, src in targets:
+                try:
+                    if kind == "manifest":
+                        services = manifest_services(json.loads(get(url)[0]))
+                    else:
+                        services = [url]
+                    if services:
+                        break
+                except Exception as e:  # noqa: BLE001
+                    print(f"  source failed, trying next: {url} ({e})", file=sys.stderr)
+            if not services:
+                failed += 1
+                manual.extend(f"{artist['artist']} | {work['title']} | {u}" for _, u, _ in targets)
+                continue
             try:
-                if kind == "manifest":
-                    services = manifest_services(json.loads(get(url)[0]))
-                else:
-                    services = [url]
                 for i, svc in enumerate(services, 1):
                     stem = os.path.join(folder, f"{i:03d}")
                     if any(os.path.exists(stem + e) for e in (".jpg", ".tif", ".png", ".jp2")):
