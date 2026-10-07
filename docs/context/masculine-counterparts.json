@@ -1,0 +1,2409 @@
+{
+ "title": "Masculine counterparts for the Word Hoard rooms",
+ "compiled": "2026-10-06",
+ "verification_key": {
+  "full-text": "Matched word for word against the complete public-domain text",
+  "source-fetched": "Copied from the source page or book by a researcher; not re-matched against a complete text",
+  "secondary": "Taken from a reliable secondary page quoting the original; the original book was not opened"
+ },
+ "rooms": [
+  {
+   "key": "poetry",
+   "room": "Poetry",
+   "blurb": "Heroic, adventurous and vocational verse",
+   "entries": [
+    {
+     "who": "W. E. Henley (ed.)",
+     "work": "Lyra Heroica: A Book of Verse for Boys",
+     "year": 1891,
+     "author_died": 1903,
+     "kind": "anthology",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "19316",
+       "url": "https://www.gutenberg.org/ebooks/19316",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "A late-Victorian anthology built for boys from the ballads, Shakespeare, Drayton, Campbell, Macaulay, Tennyson and others. Henley's preface states the purpose plainly. The text was fetched and confirmed: it includes Horatius, Chevy Chase, Sir Patrick Spens, Ye Mariners of England, and Tennyson's 'A Ballad of the Fleet' (The Revenge).",
+     "fit": "The direct boys' counterpart to an Ambleside poetry anthology. Its stated aim is to teach courage, devotion and patriotism through verse.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "No direct statement by Lewis about Lyra Heroica was found. INFERRED: the book is built from the ballad and heroic tradition (Chevy Chase, Macaulay, Scott) that Lewis valued.",
+       "source": "none found",
+       "verified": false,
+       "evidence": "inferred"
+      },
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "No direct statement by Chesterton about Lyra Heroica was found. INFERRED: its content overlaps with the Macaulay and Scott romance he praised (see those entries).",
+       "source": "none found",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "Published 1891 and Henley died 1903, so it is PD in the US. The Gutenberg text is from a 1920 reprint.",
+     "top_pick": true
+    },
+    {
+     "who": "Thomas Babington Macaulay",
+     "work": "Lays of Ancient Rome (Horatius)",
+     "year": 1842,
+     "author_died": 1859,
+     "kind": "poem",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "847",
+       "url": "https://www.gutenberg.org/ebooks/847",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "A standard schoolroom recitation piece for 150 years, and Henley reprinted Horatius in Lyra Heroica. Chesterton praised Macaulay's 'abstract passion for history' and his 'poetry'.",
+     "fit": "Horatius at the bridge is the archetype of the man who holds the gap for his city. It is ideal for boys' memory work.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "direct-quote",
+       "statement": "His noble enduring quality in our literature is this: that he truly had an abstract passion for history; a warm, poetic and sincere enthusiasm for great things as such; an ardour and appetite for great books, great battles, great cities, great men. He felt and used names like trumpets.",
+       "source": "The Victorian Age in Literature, 1913, ch. 1, https://www.gutenberg.org/cache/epub/18639/pg18639.txt (cross-checked in the full text from the GITenberg mirror)",
+       "verified": true,
+       "evidence": "primary"
+      },
+      {
+       "by": "Chesterton",
+       "type": "critical",
+       "statement": "There were two Macaulays, a rational Macaulay who was generally wrong, and a romantic Macaulay who was almost invariably right.",
+       "source": "The Victorian Age in Literature, 1913, Gutenberg 18639",
+       "verified": true,
+       "evidence": "primary"
+      },
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "No statement by Lewis was found. INFERRED only.",
+       "source": "none found",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "Published 1842 and the author died 1859, so it is PD.",
+     "top_pick": false
+    },
+    {
+     "who": "G. K. Chesterton",
+     "work": "The Ballad of the White Horse (1911); 'Lepanto' (in Poems, 1915)",
+     "year": 1911,
+     "author_died": 1936,
+     "kind": "poem",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "1719",
+       "url": "https://www.gutenberg.org/ebooks/1719",
+       "checked": true
+      },
+      {
+       "site": "Gutenberg",
+       "id": "31184",
+       "url": "https://www.gutenberg.org/ebooks/31184",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Chesterton's own heroic epic about Alfred against the Danes, and his poem on Don John of Austria at Lepanto. Lewis is documented quoting the Ballad with admiration.",
+     "fit": "These poems teach Christian courage without hope of easy victory: Alfred's 'joy without a cause'. It is the best single fit for this room.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "direct-quote",
+       "statement": "\"in those quaking days after the fall of France [...] [we] found ourselves quoting to one another stanza after stanza of the Ballad. There was nothing else to say\". Lewis also defended the poem as 'permanent and dateless'. This is SECONDARY: quoted by Nicholas Milne, Mythlore 35.1 (2016), from Lewis's 'Period Criticism' (1946; repr. Of This and Other Worlds, 1982, pp. 147-52). The Lewis original was not fetched.",
+       "source": "Milne, 'Chesterton's Ballad of the White Horse: From Conception to Critical Reception', Mythlore 35.1 (2016), https://dc.swosu.edu/cgi/viewcontent.cgi?article=1062&context=mythlore",
+       "verified": true,
+       "evidence": "secondary"
+      },
+      {
+       "by": "Lewis",
+       "type": "direct-quote",
+       "statement": "\"Here and there it achieves the heroic, the rarest quality in modern literature\". Lewis said this in conversation, as recalled by George Sayer. It is SECONDARY: quoted in the same Milne Mythlore article, citing Sayer.",
+       "source": "Milne, Mythlore 35.1 (2016), same URL",
+       "verified": true,
+       "evidence": "secondary"
+      }
+     ],
+     "pd_note": "Both are pre-1930 publications, so they are PD in the US. Chesterton died 1936, so they are PD in the UK (life+70) since 2007. The Gutenberg header for Poems gives a 1916 edition.",
+     "top_pick": true
+    },
+    {
+     "who": "Rudyard Kipling",
+     "work": "Barrack-Room Ballads (1892); 'If—' in Rewards and Fairies (1910)",
+     "year": 1892,
+     "author_died": 1936,
+     "kind": "collection",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "2819",
+       "url": "https://www.gutenberg.org/ebooks/2819",
+       "checked": true
+      },
+      {
+       "site": "Gutenberg",
+       "id": "556",
+       "url": "https://www.gutenberg.org/ebooks/556",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "These are the most widely memorised poems of duty in English. Chesterton gave them a careful two-sided judgment in Heretics. Lewis wrote a whole essay on Kipling.",
+     "fit": "Kipling is the poet of the trades and of discipline: 'the romance of the division of labour'. That makes him the vocational heart of the room.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "direct-quote",
+       "statement": "The real poetry, the \"true romance\" which Mr. Kipling has taught, is the romance of the division of labour and the discipline of all the trades. He sings the arts of peace much more accurately than the arts of war. And his main contention is vital and valuable.",
+       "source": "Heretics, 1905, ch. 'On Mr. Rudyard Kipling and Making the World Small', https://www.gutenberg.org/cache/epub/470/pg470.txt (full text grep-checked)",
+       "verified": true,
+       "evidence": "primary"
+      },
+      {
+       "by": "Chesterton",
+       "type": "critical",
+       "statement": "The great gap in his mind is what may be roughly called the lack of patriotism--that is to say, he lacks altogether the faculty of attaching himself to any cause or community finally and tragically; for all finality must be tragic. He admires England, but he does not love her; for we admire things with reasons, but love them without reasons.",
+       "source": "Heretics, 1905, same chapter, Gutenberg 470",
+       "verified": true,
+       "evidence": "primary"
+      },
+      {
+       "by": "Lewis",
+       "type": "cited-work",
+       "statement": "Lewis wrote the essay 'Kipling's World', reprinted in They Asked for a Paper (1962) and Selected Literary Essays (1969). Its existence was confirmed from the lewisiana.nl essay bibliography, which dates first publication 1944 (it is usually cited as Literature and Life, 1948). The text was not fetched. His view, from memory and UNVERIFIED: he admired Kipling's celebration of work and craft but was uneasy with the 'inner ring' and professional cult.",
+       "source": "https://lewisiana.nl/cslessays/index.htm; fadedpage They Asked for a Paper https://fadedpage.com/books/20150423/html.php",
+       "verified": false,
+       "evidence": "work-exists"
+      }
+     ],
+     "pd_note": "Barrack-Room Ballads (1892) and Rewards and Fairies (1910) were published before 1930, so they are PD in the US. Kipling died 1936. Use pre-1930 poems only.",
+     "top_pick": false
+    },
+    {
+     "who": "Sir Walter Scott",
+     "work": "Marmion (1808); The Lay of the Last Minstrel (1805), Canto VI 'Breathes there the man'",
+     "year": 1805,
+     "author_died": 1832,
+     "kind": "poem",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "4010",
+       "url": "https://www.gutenberg.org/ebooks/4010",
+       "checked": true
+      },
+      {
+       "site": "poets.org (Academy of American Poets), Lay Canto VI extract",
+       "id": "",
+       "url": "https://poets.org/anthology/sir-walter-scott",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Scott was the father of chivalric romance in English. Chesterton wrote a whole essay defending him, and Lewis gave a Scott address.",
+     "fit": "Border chivalry and love of one's own land. 'Breathes there the man' is a classic recitation.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "direct-quote",
+       "statement": "In truth, one of Scott's most splendid traits is his difficulty, or rather incapacity, for despising any of his characters. He did not scorn the most revolting miscreant as the realist of to-day commonly scorns his own hero. Though his soul may be in rags, every man of Scott can speak like a king.",
+       "source": "Twelve Types, 1902, 'The Position of Sir Walter Scott', Gutenberg 12491 https://www.gutenberg.org/ebooks/12491 (WebFetch truncates before this chapter; verified in the full text from the GITenberg mirror raw.githubusercontent.com/GITenberg/Twelve-Types_12491/master/12491.txt)",
+       "verified": true,
+       "evidence": "primary"
+      },
+      {
+       "by": "Chesterton",
+       "type": "direct-quote",
+       "statement": "Romance, indeed, does not consist by any means so much in experiencing adventures as in being ready for them.",
+       "source": "Twelve Types, 1902, same essay, same source",
+       "verified": true,
+       "evidence": "primary"
+      },
+      {
+       "by": "Lewis",
+       "type": "cited-work",
+       "statement": "Lewis wrote the essay 'Sir Walter Scott' (first published 1956; reprinted in They Asked for a Paper, 1962, and Selected Literary Essays, 1969). Its existence was confirmed via the lewisiana.nl bibliography. The text was not fetched.",
+       "source": "https://lewisiana.nl/cslessays/index.htm",
+       "verified": false,
+       "evidence": "work-exists"
+      }
+     ],
+     "pd_note": "Published 1805/1808 and Scott died 1832, so it is PD. The Gutenberg Lay of the Last Minstrel ID could not be found. Marmion 4010 (Morley ed.) was confirmed. The 'Breathes there' text comes from poets.org, not Gutenberg.",
+     "top_pick": false
+    },
+    {
+     "who": "Sir Henry Newbolt",
+     "work": "Admirals All (1897); in Collected Poems 1897-1907 (Drake's Drum, Vitaï Lampada)",
+     "year": 1897,
+     "author_died": 1938,
+     "kind": "collection",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "13900",
+       "url": "https://www.gutenberg.org/ebooks/13900",
+       "checked": true
+      },
+      {
+       "site": "Gutenberg",
+       "id": "24405",
+       "url": "https://www.gutenberg.org/ebooks/24405",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Newbolt was a standard schoolroom poet of naval and school courage. Both poems were confirmed present in Gutenberg 13900.",
+     "fit": "These are sea-courage and team-duty poems that boys love to recite. KEEP AS SECONDARY.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "None found. INFERRED: Lewis would likely have treated 'Vitaï Lampada' public-school 'play the game' heroics with reserve; he disliked his own public school (Surprised by Joy). Drake's Drum fits his love of story better.",
+       "source": "none found",
+       "verified": false,
+       "evidence": "inferred"
+      },
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "None found.",
+       "source": "none found",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "Published 1897 and the collection 1910, so it is PD in the US. Newbolt died 1938, so it is PD in the UK since 2009.",
+     "top_pick": false
+    },
+    {
+     "who": "Beowulf, tr. Francis B. Gummere; William Morris, Sigurd the Volsung",
+     "work": "Beowulf (Gummere tr., 1909/1910 Harvard Classics); The Story of Sigurd the Volsung and the Fall of the Niblungs (1876)",
+     "year": 1876,
+     "author_died": 1896,
+     "kind": "poem",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "981",
+       "url": "https://www.gutenberg.org/ebooks/981",
+       "checked": true
+      },
+      {
+       "site": "Gutenberg",
+       "id": "18328",
+       "url": "https://www.gutenberg.org/ebooks/18328",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "These are the old Northern heroic epics in Victorian/Edwardian verse. Morris was a formative author for Lewis. Gummere's translation is the scholarly standard of its day.",
+     "fit": "This is 'Northernness': the hero facing monster and doom. Lewis named it as the root of his imagination.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "cited-work",
+       "statement": "Lewis wrote the essay 'William Morris' (first published 1937; reprinted in Rehabilitations, 1939, and Selected Literary Essays, 1969). Its existence was confirmed via the lewisiana.nl bibliography. The text was not fetched (Rehabilitations is not on fadedpage).",
+       "source": "https://lewisiana.nl/cslessays/index.htm",
+       "verified": false,
+       "evidence": "work-exists"
+      },
+      {
+       "by": "Chesterton",
+       "type": "direct-quote",
+       "statement": "The manner in which Morris carried out his crusade may, considering the circumstances, be called triumphant.",
+       "source": "Twelve Types, 1902, 'William Morris and His School', Gutenberg 12491 (grep-verified in full text)",
+       "verified": true,
+       "evidence": "primary"
+      },
+      {
+       "by": "Chesterton",
+       "type": "critical",
+       "statement": "But herein, indeed, lay Morris's deepest claim to the name of a great reformer: that he left his work incomplete.",
+       "source": "Twelve Types, 1902, same essay",
+       "verified": true,
+       "evidence": "primary"
+      },
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "Beowulf: no specific Lewis statement was fetched. INFERRED from his well-known love of Norse and Old English 'Northernness'.",
+       "source": "none fetched",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "Sigurd was published 1876 and Morris died 1896, so it is PD. Gummere died 1919 and the translation is pre-1930, so it is PD. Gutenberg 13486 is a different Volsung text, so use 18328 for the poem.",
+     "top_pick": false
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Then out spake brave Horatius,\n     The Captain of the Gate:\n\"To every man upon this earth\n     Death cometh soon or late.\nAnd how can man die better\n     Than facing fearful odds,\nFor the ashes of his fathers,\n     And the temples of his gods,",
+     "author": "Thomas Babington Macaulay",
+     "work": "Lays of Ancient Rome, 'Horatius'",
+     "locus": "stanza XXVII",
+     "url": "https://www.gutenberg.org/cache/epub/847/pg847.txt",
+     "use": "Courage as willing sacrifice for home and altar.",
+     "check": "full-text"
+    },
+    {
+     "text": "\"I tell you naught for your comfort,\nYea, naught for your desire,\nSave that the sky grows darker yet\nAnd the sea rises higher.\n\n\"Night shall be thrice night over you,\nAnd heaven an iron cope.\nDo you have joy without a cause,\nYea, faith without a hope?\"",
+     "author": "G. K. Chesterton",
+     "work": "The Ballad of the White Horse",
+     "locus": "Book I, 'The Vision of the King'",
+     "url": "https://www.gutenberg.org/cache/epub/1719/pg1719.txt",
+     "use": "Christian fortitude: fight on without promise of earthly victory. Lewis quoted it in 1940.",
+     "check": "full-text"
+    },
+    {
+     "text": "Cervantes on his galley sets the sword back in the sheath\n(Don John of Austria rides homeward with a wreath.)\nAnd he sees across a weary land a straggling road in Spain,\nUp which a lean and foolish knight for ever rides in vain,\nAnd he smiles, but not as Sultans smile, and settles back the blade....\n(But Don John of Austria rides home from the Crusade.)",
+     "author": "G. K. Chesterton",
+     "work": "Poems (1915), 'Lepanto'",
+     "locus": "closing lines",
+     "url": "https://www.gutenberg.org/cache/epub/31184/pg31184.txt",
+     "use": "The soldier-poet and the chivalric ideal, with a smile at its folly. The italics in the original are shown here as plain text.",
+     "check": "full-text"
+    },
+    {
+     "text": "If you can fill the unforgiving minute\nWith sixty seconds' worth of distance run,\nYours is the Earth and everything that's in it,\nAnd--which is more--you'll be a Man, my son!",
+     "author": "Rudyard Kipling",
+     "work": "Rewards and Fairies, 'If—'",
+     "locus": "final lines",
+     "url": "https://www.gutenberg.org/ebooks/556 (full text grep-checked via GITenberg mirror Rewards-and-Fairies_556)",
+     "use": "Manhood as disciplined use of time and self-command.",
+     "check": "full-text"
+    },
+    {
+     "text": "To set forth, as only art can, the beauty and the joy of living, the beauty and the blessedness of death, the glory of battle and adventure, the nobility of devotion--to a cause, an ideal, a passion even--the dignity of resistance, the sacred quality of patriotism, that is my ambition here.",
+     "author": "W. E. Henley",
+     "work": "Lyra Heroica, Preface",
+     "locus": "preface",
+     "url": "https://www.gutenberg.org/cache/epub/19316/pg19316.txt",
+     "use": "Henley's own statement of what heroic verse is for.",
+     "check": "source-fetched",
+     "check_note": "Re-fetched and matched a second time"
+    },
+    {
+     "text": "Every thing is military in the sense that everything depends upon obedience. There is no perfectly epicurean corner; there is no perfectly irresponsible place. Everywhere men have made the way for us with sweat and submission.",
+     "author": "G. K. Chesterton",
+     "work": "Heretics",
+     "locus": "ch. 'On Mr. Rudyard Kipling and Making the World Small'",
+     "url": "https://www.gutenberg.org/cache/epub/470/pg470.txt",
+     "use": "Vocation: every honest trade is a discipline others depend on.",
+     "check": "full-text"
+    },
+    {
+     "text": "Romance, indeed, does not consist by any means so much in experiencing adventures as in being ready for them.",
+     "author": "G. K. Chesterton",
+     "work": "Twelve Types",
+     "locus": "'The Position of Sir Walter Scott'",
+     "url": "https://www.gutenberg.org/ebooks/12491 (verified in full text via GITenberg mirror)",
+     "use": "Readiness and preparation are the soul of adventure.",
+     "check": "full-text"
+    },
+    {
+     "text": "Breathes there the man, with soul so dead,\nWho never to himself hath said,\nThis is my own, my native land!\nWhose heart hath ne'er within him burn'd,\nAs home his footsteps he hath turn'd\nFrom wandering on a foreign strand!",
+     "author": "Sir Walter Scott",
+     "work": "The Lay of the Last Minstrel",
+     "locus": "Canto VI",
+     "url": "https://poets.org/anthology/sir-walter-scott",
+     "use": "Love of one's own land. The source is poets.org because no Gutenberg copy of the Lay was located.",
+     "check": "source-fetched"
+    },
+    {
+     "text": "And falling fling to the host behind—\n'Play up! play up! and play the game!'",
+     "author": "Henry Newbolt",
+     "work": "Collected Poems 1897-1907, 'Vitaï Lampada'",
+     "locus": "final lines",
+     "url": "https://www.gutenberg.org/cache/epub/13900/pg13900.txt",
+     "use": "Passing the torch of duty to the next generation. Optional, as it is the more contested piece.",
+     "check": "source-fetched",
+     "check_note": "Re-fetched and matched a second time"
+    }
+   ],
+   "dropped": [
+    "Marmion 'Charge, Chester, charge! On, Stanley, on!': the Gutenberg 4010 text is truncated by WebFetch at Canto III and has no GITenberg mirror, so the quote was not verified.",
+    "Lewis direct quotations on Kipling, Scott and Morris: the essay texts were not fetchable (They Asked for a Paper is on fadedpage, but only the landing page was reached). Existence was confirmed and statements are marked verified:false.",
+    "Gutenberg Lay of the Last Minstrel ID: not found by search, and Gutenberg search is robots-blocked.",
+    "Gutenberg 13486 (Sigurd/Volsung) was not used: 18328 is the confirmed Morris poem."
+   ]
+  },
+  {
+   "key": "folk",
+   "room": "Folk Songs",
+   "blurb": "Ballads, sea shanties and soldiers' songs",
+   "entries": [
+    {
+     "who": "Thomas Percy (ed.; 1885 Wheatley edition on Gutenberg)",
+     "work": "Reliques of Ancient English Poetry",
+     "year": 1765,
+     "author_died": 1811,
+     "kind": "anthology",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "45939",
+       "url": "https://www.gutenberg.org/cache/epub/45939/pg45939.txt",
+       "checked": true,
+       "note": "Vol 1 of 3 (Percy, ed. Wheatley); TOC lists 'The ancient Ballad of Chevy-chase' as Book I no. 1. Vols 2-3 exist on Gutenberg (45940?, 45941 seen in search) but IDs not individually checked."
+      }
+     ],
+     "why_trustworthy": "An Anglican bishop (Dromore) whose collection rescued the old minstrel ballads and directly fed Scott, Wordsworth and the whole ballad revival.",
+     "fit": "Opens with Chevy Chase - border warfare, vows, loyalty and valour - the archetypal English heroic ballad.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "INFERRED: no direct Chesterton statement on Percy found this session. His essay on Scott (verified) praises the romance Scott drew from this ballad tradition.",
+       "source": "n/a",
+       "verified": false,
+       "evidence": "inferred"
+      },
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "INFERRED: none found. Lewis's admiration for Sidney (who praised the Percy-Douglas song) is well known but his remarks on the ballad were not confirmed this session.",
+       "source": "n/a",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "1765; Percy d.1811; Wheatley ed. 1876-86, Wheatley d.1917. PD in US.",
+     "top_pick": true
+    },
+    {
+     "who": "Sir Walter Scott (ed.)",
+     "work": "Minstrelsy of the Scottish Border",
+     "year": 1802,
+     "author_died": 1832,
+     "kind": "anthology",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "12742",
+       "url": "https://www.gutenberg.org/ebooks/12742",
+       "checked": true,
+       "note": "Volume 1; page summary names Sir Patrick Spens, Thomas the Rhymer, Twa Corbies. Other volumes exist but IDs not checked."
+      }
+     ],
+     "why_trustworthy": "Scott collected Border ballads by field-work and manuscript; Chesterton defended him as a master of romance.",
+     "fit": "Reivers, raids, loyal clansmen and sea-disaster ballads (Sir Patrick Spens) - the Border's soldier and fighting songs.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "direct-quote",
+       "statement": "\"In the selection of these situations which catch the spirit of romance as in a net, Scott has never been equalled or even approached.\"",
+       "source": "Twelve Types, 'The Position of Sir Walter Scott', 1902, https://www.online-literature.com/chesterton/twelve-types/12/ (also Gutenberg 12491, but that file truncated before the essay in fetch)",
+       "verified": true,
+       "evidence": "primary"
+      },
+      {
+       "by": "Chesterton",
+       "type": "direct-quote",
+       "statement": "\"Scott takes his heroes and villains seriously, which is, after all, the way that heroes and villains take themselves--especially villains.\"",
+       "source": "Twelve Types, 1902, https://www.online-literature.com/chesterton/twelve-types/12/",
+       "verified": true,
+       "evidence": "primary"
+      },
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "INFERRED: Lewis read and reread Scott (he lectured on Scott in 'Sir Walter Scott', in They Asked for a Paper, 1962) - essay existence not confirmed by fetch this session.",
+       "source": "They Asked for a Paper, 1962 (not fetched)",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "1802-03; Scott d.1832. PD. Note: Chesterton essay contains no mention of the ballads/Border specifically - the regard is for Scott as romancer.",
+     "top_pick": false
+    },
+    {
+     "who": "Francis James Child (ed.)",
+     "work": "The English and Scottish Popular Ballads (5 vols)",
+     "year": 1882,
+     "author_died": 1896,
+     "kind": "anthology",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "44969",
+       "url": "https://www.gutenberg.org/ebooks/44969",
+       "checked": true,
+       "note": "Vol 1 of 5; other volume IDs not checked."
+      },
+      {
+       "site": "sacred-texts",
+       "id": "ch058",
+       "url": "https://sacred-texts.com/neu/eng/child/ch058.htm",
+       "checked": true,
+       "note": "Child 58, Sir Patrick Spens, version A (Percy 1765)"
+      }
+     ],
+     "why_trustworthy": "The standard scholarly canon of 305 ballads with all variants; Harvard's first English professor, meticulous and non-ideological.",
+     "fit": "Reference backbone: Robin Hood, Chevy Chase/Cheviot, Otterburn, Sir Patrick Spens - the whole heroic ballad canon in one place.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "None found; inferred fit via Chesterton's love of the ballad form (he wrote The Ballad of the White Horse, 1911).",
+       "source": "n/a",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "1882-98; Child d.1896. PD.",
+     "top_pick": false
+    },
+    {
+     "who": "John Masefield (ed.)",
+     "work": "A Sailor's Garland",
+     "year": 1906,
+     "author_died": 1967,
+     "kind": "anthology",
+     "links": [
+      {
+       "site": "archive.org",
+       "id": "asailorsgarland01masegoog",
+       "url": "https://archive.org/details/asailorsgarland01masegoog",
+       "checked": true,
+       "note": "Methuen 1908 printing (first ed. 1906); IA marks NOT_IN_COPYRIGHT; contains a CHANTIES section incl. 'Whiskey Johnny'. OCR text truncated on fetch; no quote taken."
+      }
+     ],
+     "why_trustworthy": "Masefield, a former merchant sailor and later Poet Laureate, edited sea songs and chanteys from lived experience.",
+     "fit": "Sea ballads, naval songs and work chanteys - sailor's counterpart to a folk-song room.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "None found this session; inferred only.",
+       "source": "n/a",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "Published 1906 (pre-1931) so PD in the US; NOT PD in UK/EU until 2038 (Masefield d.1967). Flag for non-US users.",
+     "top_pick": false
+    },
+    {
+     "who": "Cecil J. Sharp (ed.)",
+     "work": "English Folk-Chanteys (with pianoforte accompaniment, introduction and notes)",
+     "year": 1914,
+     "author_died": 1924,
+     "kind": "songbook",
+     "links": [
+      {
+       "site": "archive.org",
+       "id": "englishfolkchant00shar",
+       "url": "https://archive.org/details/englishfolkchant00shar",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Sharp was the leading field collector of English folk song, taking chanteys from old sailors with tunes.",
+     "fit": "Singable chanteys with music for the family to learn as work songs.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "None found; inferred via Chesterton's Distributist esteem for popular, unpaid, communal art.",
+       "source": "n/a",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "1914; Sharp d.1924; PD everywhere. 'English Folk-Song: Some Conclusions' (1907) not checked this session.",
+     "top_pick": false
+    },
+    {
+     "who": "Richard Runciman Terry (ed.), foreword by Sir Walter Runciman",
+     "work": "The Shanty Book, Part I: Sailor Shanties",
+     "year": 1921,
+     "author_died": 1938,
+     "kind": "songbook",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "20774",
+       "url": "https://www.gutenberg.org/cache/epub/20774/pg20774.txt",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "ADDED. Terry, director of music at Westminster Cathedral and restorer of Tudor church music, learned these shanties as a boy from sailors; foreword by a shipowner who went to sea as a boy.",
+     "fit": "Clear introduction 'What a shanty is' plus words and tunes (Shenandoah etc.) - ready-made work-song memory pieces.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "None found; inferred - Terry was a prominent Catholic musician of Chesterton's circle era.",
+       "source": "n/a",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "1921 (pre-1931) so PD in US; Terry d.1938, PD in UK from 2009.",
+     "top_pick": true
+    },
+    {
+     "who": "George Wharton Edwards (illus.), intro by Hamilton Wright Mabie",
+     "work": "The Book of Old English Ballads",
+     "year": 1896,
+     "author_died": 1950,
+     "kind": "anthology",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "9405",
+       "url": "https://www.gutenberg.org/cache/epub/9405/pg9405.txt",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "ADDED. A compact illustrated selection of 27 standard ballads drawn from Percy/Scott texts; good child-facing gateway.",
+     "fit": "Contains Chevy Chace, Battle of Otterburn, Flodden Field, Robin Hood, Sir Patrick Spens in one short book.",
+     "regard": [],
+     "pd_note": "1896; PD in US (pre-1931).",
+     "top_pick": false
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Certainly, I must confess mine own barbarousness; I never heard the old song of Percy and Douglas, that I found not my heart moved more than with a trumpet; and yet it is sung but by some blind crowder, with no rougher voice than rude style; which being so evil apparelled in the dust and cobweb of that uncivil age, what would it work, trimmed in the gorgeous eloquence of Pindar?",
+     "author": "Sir Philip Sidney",
+     "work": "A Defence of Poesie",
+     "locus": "section on lyric/heroic poetry",
+     "url": "https://www.gutenberg.org/cache/epub/1962/pg1962.txt",
+     "use": "A soldier-poet testifies that a rough old battle ballad stirs the heart more than a trumpet.",
+     "check": "source-fetched"
+    },
+    {
+     "text": "God prosper long our noble king,\nOur liffes and safetyes all;\nA woefull hunting once there did\nIn Chevy-Chace befall.\n\nTo drive the deere with hound and horne,\nErle Percy took his way;\nThe child may rue that is unborne\nThe hunting of that day.",
+     "author": "Anonymous (later 'Chevy Chace' version)",
+     "work": "Chevy Chace, in The Book of Old English Ballads (1896)",
+     "locus": "stanzas 1-2",
+     "url": "https://www.gutenberg.org/cache/epub/9405/pg9405.txt",
+     "use": "Opening of the most famous English battle ballad; the cost of rash pride.",
+     "check": "full-text"
+    },
+    {
+     "text": "For Witherington needs must I wayle,\nAs one in doleful dumpes;\nFor when his legs were smitten off,\nHe fought upon his stumpes.",
+     "author": "Anonymous",
+     "work": "Chevy Chace, in The Book of Old English Ballads (1896)",
+     "locus": "Witherington stanza",
+     "url": "https://www.gutenberg.org/cache/epub/9405/pg9405.txt",
+     "use": "Dogged courage to the last (famous, slightly comic - boys love it).",
+     "check": "full-text"
+    },
+    {
+     "text": "THE king sits in Dumferling toune,\nDrinking the blude-reid wine:\n'O whar will I get guid sailor,\nTo sail this schip of mine?'",
+     "author": "Anonymous",
+     "work": "Sir Patrick Spens, Child 58A (from Percy's Reliques, 1765)",
+     "locus": "stanza 1",
+     "url": "https://sacred-texts.com/neu/eng/child/ch058.htm",
+     "use": "The call to duty that a good man answers even when it means death.",
+     "check": "source-fetched"
+    },
+    {
+     "text": "Haf owre, haf owre to Aberdour,\nIt's fiftie fadom deip,\nAnd thair lies guid Sir Patrick Spence,\nWi the Scots lords at his feit.",
+     "author": "Anonymous",
+     "work": "Sir Patrick Spens, Child 58A",
+     "locus": "final stanza",
+     "url": "https://sacred-texts.com/neu/eng/child/ch058.htm",
+     "use": "Obedient faithfulness unto death; the loyal captain honoured in his grave.",
+     "check": "source-fetched"
+    },
+    {
+     "text": "Shanties were labour songs sung by sailors of the merchant service only while at work, and never by way of recreation.",
+     "author": "Richard Runciman Terry",
+     "work": "The Shanty Book, Part I",
+     "locus": "Introduction, 'What a Shanty Is'",
+     "url": "https://www.gutenberg.org/cache/epub/20774/pg20774.txt",
+     "use": "Work songs are tools for shared labour - song serving the job.",
+     "check": "full-text"
+    },
+    {
+     "text": "Oh Shenandoah, I long to hear you.\nAway you rolling river.\nOh Shenandoah, I long to hear you.\nAway, I'm bound to go\n'Cross the wide Missouri.",
+     "author": "Traditional",
+     "work": "Shenandoah, in The Shanty Book, Part I (no. 9, windlass and capstan shanty)",
+     "locus": "first verse and chorus",
+     "url": "https://www.gutenberg.org/cache/epub/20774/pg20774.txt",
+     "use": "Longing for home while bound away on duty - the sailor's heart. (Line breaks reconstructed from fetch output separators.)",
+     "check": "full-text"
+    },
+    {
+     "text": "Romance lies not upon the outside of life but absolutely in the centre of it.",
+     "author": "G. K. Chesterton",
+     "work": "Twelve Types, 'The Position of Sir Walter Scott' (1902)",
+     "locus": "essay 12",
+     "url": "https://www.online-literature.com/chesterton/twelve-types/12/",
+     "use": "Why heroic ballads and romance matter: they are about the centre of life, not its trimmings.",
+     "check": "full-text"
+    }
+   ],
+   "dropped": [
+    "Robert Burns ('Scots Wha Hae', 'A Man's a Man') - no Chesterton or Lewis statement found; an art-poet rather than a folk-song collection; could be a separate entry if wanted, but no regard evidence.",
+    "William Chappell, Popular Music of the Olden Time - not checked this session (time); not dropped on merit.",
+    "Percy preface and Scott introduction quotes - Gutenberg files truncate at ~100-125k chars in WebFetch, so the target passages (Percy's Preface; Scott's 'history of my native country' sentence) could not be reached and were not quoted.",
+    "Lewis on Sidney (English Literature in the Sixteenth Century, 1954) - not fetchable/confirmed; not cited as verified.",
+    "No Chesterton essay specifically on ballads/folk songs was found in PD text this session."
+   ]
+  },
+  {
+   "key": "hymns",
+   "room": "Hymns",
+   "blurb": "Valiant, pilgrim and soldier hymns",
+   "entries": [
+    {
+     "who": "John Bunyan",
+     "work": "\"Who would true Valour see\" (song of Mr. Valiant-for-truth), The Pilgrim's Progress, The Second Part; hymn form \"He who would valiant be\" (Percy Dearmer's 1906 recast, English Hymnal #402, tune MONKS GATE)",
+     "year": 1684,
+     "author_died": 1688,
+     "kind": "poem",
+     "links": [
+      {
+       "site": "Representative Poetry Online (Univ. of Toronto, ed. Ian Lancashire)",
+       "id": "rpo/poems/pilgrim",
+       "url": "https://rpo.library.utoronto.ca/poems/pilgrim",
+       "checked": true,
+       "note": "Full original 3-stanza text in 1684 spelling, sourced to Nathaniel Ponder's 1684 first edition of the Second Part."
+      },
+      {
+       "site": "Hymnary.org",
+       "id": "EH1906/402",
+       "url": "https://hymnary.org/hymn/EH1906/402",
+       "checked": true,
+       "note": "Confirms 'He who would valiant be', J. Bunyan, English Hymnal 1906 #402, MONKS GATE."
+      },
+      {
+       "site": "Gutenberg",
+       "id": "131",
+       "url": "https://www.gutenberg.org/ebooks/131",
+       "checked": true,
+       "note": "CAUTION: Gutenberg #131 is Part 1 ONLY (its own notes say so) and does NOT contain this song. Standard Ebooks (standardebooks.org/ebooks/john-bunyan/the-pilgrims-progress) has both parts but blocks automated fetch; not verified at text level."
+      }
+     ],
+     "why_trustworthy": "Baptist tinker-preacher imprisoned 12 years for conscience; the Pilgrim's Progress is the most widely read English Christian book after the Bible.",
+     "fit": "The archetypal valiant-pilgrim hymn: constancy against lions, giants, hobgoblins and men's talk, sung by a knightly character, Mr. Valiant-for-truth.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "cited-work",
+       "statement": "Lewis wrote \"The Vision of John Bunyan\" (a 1962 BBC talk, printed in The Listener and collected in Selected Literary Essays, 1969). Confirmed to exist in the Lewis essay index (lewisiana.nl). A scholarly blog quotes it: \"The light is sharp: it never comes through stained glass\". The blog also quotes Lewis's 1916 letter: \"just as a romance it is unsurpassed\". These quotes are second-hand and were not checked against the book. Lewis also modelled his first Christian book, The Pilgrim's Regress (1933), on Bunyan.",
+       "source": "https://lewisiana.nl/cslessays/index.htm ; https://apilgriminnarnia.com/2022/03/30/bunyan-writing-cs-lewis/",
+       "verified": true,
+       "evidence": "secondary"
+      },
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "No verified Chesterton text on Bunyan was found. Come to Think of It (1930) is said to include a Bunyan piece. It is PD in the US as of 2026 (1930 works entered the US public domain on 1 Jan 2026), but no online full text was located and the essay was not confirmed. INFERRED: Chesterton respected Bunyan as a great English imaginative writer despite their Puritan/Catholic differences.",
+       "source": "none fetched",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "Published 1684, author died 1688: PD everywhere. Dearmer's 1906 'He who would valiant be' version is also PD (pre-1931 in the US; Dearmer died 1936).",
+     "top_pick": true
+    },
+    {
+     "who": "G. K. Chesterton",
+     "work": "\"A Hymn\" (\"O God of earth and altar\"), in Poems (1915); English Hymnal 1906 #562, tune KING'S LYNN",
+     "year": 1906,
+     "author_died": 1936,
+     "kind": "poem",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "31184",
+       "url": "https://www.gutenberg.org/cache/epub/31184/pg31184.txt",
+       "checked": true,
+       "note": "Poems by G. K. Chesterton; 'A Hymn' is in the Religious Poems section. Full text grep-verified via GITenberg mirror (raw.githubusercontent.com/GITenberg/Poems_31184/master/31184.txt): 3 stanzas of 8 lines. Stanza 2: 'From all that terror teaches ... Deliver us, good Lord!'."
+      },
+      {
+       "site": "Hymnary.org",
+       "id": "EH1906/562",
+       "url": "https://hymnary.org/hymn/EH1906/562",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Chesterton is one of the room's own touchstones. He wrote this for Dearmer's English Hymnal.",
+     "fit": "A manly prayer for the nation that asks God to smite and save, to take away pride rather than courage, and to lift up 'a single sword'.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "cited-work",
+       "statement": "Chesterton's own hymn.",
+       "source": "Poems, 1915, Gutenberg #31184",
+       "verified": true,
+       "evidence": "work-exists"
+      }
+     ],
+     "pd_note": "Published 1906/1915, before 1931: PD in the US. Chesterton died 1936, so it is PD in life+70 countries too (since 2007).",
+     "top_pick": true
+    },
+    {
+     "who": "Percy Dearmer (general editor) and Ralph Vaughan Williams (music editor)",
+     "work": "The English Hymnal (1906)",
+     "year": 1906,
+     "author_died": 1958,
+     "kind": "songbook",
+     "links": [
+      {
+       "site": "archive.org",
+       "id": "englishhymnalwit0000unse_b6d2",
+       "url": "https://archive.org/details/englishhymnalwit0000unse_b6d2",
+       "checked": true,
+       "note": "The English Hymnal with Tunes, H. Frowde, London, 1906, 967 pp. Music edited by Vaughan Williams. Free download (PDF/EPUB/full text)."
+      },
+      {
+       "site": "archive.org",
+       "id": "englishhymnal00unse",
+       "url": "https://archive.org/details/englishhymnal00unse",
+       "checked": true,
+       "note": "Words-only edition, Oxford UP, 1906. The preface lists the committee: Birkbeck, Dearmer, Hanbury-Tracy, Lacey, Lathbury, Riley."
+      }
+     ],
+     "why_trustworthy": "This is the classic Anglican hymnal. Vaughan Williams set English folk melodies (e.g. MONKS GATE, KING'S LYNN) to the strongest old texts.",
+     "fit": "This is the source book in which Bunyan's valour hymn and Chesterton's national hymn first appeared as congregational hymns.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "INFERRED: Chesterton contributed 'O God of earth and altar' (#562) to it, so he plainly endorsed the project.",
+       "source": "https://hymnary.org/hymn/EH1906/562",
+       "verified": true,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "1906: PD in the US. Vaughan Williams died 1958, so his own harmonizations may still be in copyright in the UK/EU (life+70 runs to 2028). Old texts and folk tunes are fine.",
+     "top_pick": true
+    },
+    {
+     "who": "Martin Luther, tr. Thomas Carlyle",
+     "work": "\"Ein feste Burg\", translated as \"A safe stronghold our God is still\" (Carlyle, 'Luther's Psalm', Fraser's Magazine 1831)",
+     "year": 1831,
+     "author_died": 1881,
+     "kind": "poem",
+     "links": [
+      {
+       "site": "CCEL (Schaff, History of the Christian Church vol. 7, section 125)",
+       "id": "schaff/hcc7.ii.ix.ix",
+       "url": "https://ccel.org/ccel/schaff/hcc7.ii.ix.ix.html",
+       "checked": true,
+       "note": "Schaff (1888) quotes Carlyle's version only in fragments in notes marked 'C.'. He says Porter's translation is 'almost equal to that of Thomas Carlyle in its reproduction of the rugged force of the original'."
+      },
+      {
+       "site": "Hymnary.org",
+       "id": "text/a_safe_stronghold_our_god_is_still",
+       "url": "https://hymnary.org/text/a_safe_stronghold_our_god_is_still",
+       "checked": true,
+       "note": "Full text in modernized lower-case form, credited to Carlyle (1831)."
+      }
+     ],
+     "why_trustworthy": "This is Luther's battle hymn of the Reformation. Carlyle's version keeps its rugged force (Schaff).",
+     "fit": "A fortress-and-weapon hymn ending in defiance: take life, goods, wife and child, yet 'the city of God remaineth'.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "direct-quote",
+       "statement": "On Carlyle, praise: \"His great and real work was the attack on Utilitarianism: which did real good, though there was much that was muddled and dangerous in the historical philosophy which he preached as an alternative.\"",
+       "source": "The Victorian Age in Literature (1913), ch. I, Gutenberg #18639, https://www.gutenberg.org/cache/epub/18639/pg18639.txt ; full text grep-verified via https://raw.githubusercontent.com/GITenberg/The-Victorian-Age-in-Literature_18639/master/18639.txt",
+       "verified": true,
+       "evidence": "primary"
+      },
+      {
+       "by": "Chesterton",
+       "type": "critical",
+       "statement": "On Carlyle's might-is-right view of history: \"It practically comes to saying that God is on the side of the big battalions--or at least, of the victorious ones.\" Context, grep-verified from the full text: the passage addresses 'Carlyle and the Carlyleans' and continues: \"Thus a creed which set out to create conquerors would only corrupt soldiers; corrupt them with a craven and unsoldierly worship of success\".",
+       "source": "The Victorian Age in Literature (1913), ch. I, Gutenberg #18639",
+       "verified": true,
+       "evidence": "primary"
+      },
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "INFERRED: Chesterton was generally critical of Luther as a theologian. No PD quote was fetched for this, so it is a caution only.",
+       "source": "none fetched",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "1529/1831: PD.",
+     "top_pick": false
+    },
+    {
+     "who": "Charles Wesley",
+     "work": "\"Soldiers of Christ, arise\" (Hymns and Sacred Poems, 1749)",
+     "year": 1749,
+     "author_died": 1788,
+     "kind": "poem",
+     "links": [
+      {
+       "site": "Hymnary.org",
+       "id": "text/soldiers_of_christ_arise_andputyour_stro",
+       "url": "https://hymnary.org/text/soldiers_of_christ_arise_andputyour_stro",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Charles Wesley was the foremost English hymn-writer. This hymn is built on Ephesians 6.",
+     "fit": "The whole-armour-of-God hymn, a direct call to arms.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "None found. INFERRED: it is a standard hymn of the Anglican tradition Lewis worshipped in.",
+       "source": "none",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "1749: PD.",
+     "top_pick": false
+    },
+    {
+     "who": "Isaac Watts",
+     "work": "\"Am I a soldier of the cross\" ('Holy Fortitude'), appended to his Sermons (1721-24)",
+     "year": 1724,
+     "author_died": 1748,
+     "kind": "poem",
+     "links": [
+      {
+       "site": "Hymnary.org",
+       "id": "text/am_i_a_soldier_of_the_cross",
+       "url": "https://hymnary.org/text/am_i_a_soldier_of_the_cross",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Watts is the father of English hymnody. The hymn has been printed in more than 2,000 hymnals.",
+     "fit": "A short, memorizable hymn on courage and shame: 'Sure I must fight, if I would reign'.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "None found.",
+       "source": "none",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "1724: PD.",
+     "top_pick": false
+    },
+    {
+     "who": "Sabine Baring-Gould",
+     "work": "\"Onward, Christian soldiers\" (written 1864 for a Whitsun children's procession; tune ST GERTRUDE by Sullivan, 1871)",
+     "year": 1864,
+     "author_died": 1924,
+     "kind": "poem",
+     "links": [
+      {
+       "site": "Hymnary.org",
+       "id": "text/onward_christian_soldiers_marching_as",
+       "url": "https://hymnary.org/text/onward_christian_soldiers_marching_as",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Baring-Gould was a country parson, folklorist and collector of West Country folk song. He wrote it as a children's processional.",
+     "fit": "The best-known marching hymn, written for boys to sing while walking behind the cross.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "None found.",
+       "source": "none",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "1864: PD (author died 1924).",
+     "top_pick": false
+    },
+    {
+     "who": "J. M. Neale (trans./author; traditionally ascribed to St Andrew of Crete)",
+     "work": "\"Christian, dost thou see them\" (Hymns of the Eastern Church, 1862)",
+     "year": 1862,
+     "author_died": 1866,
+     "kind": "poem",
+     "links": [
+      {
+       "site": "Hymnary.org",
+       "id": "text/christian_dost_thou_see_them",
+       "url": "https://hymnary.org/text/christian_dost_thou_see_them",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Neale was the great Victorian translator of ancient hymns. Note that most scholars now think Neale wrote it himself, since no Greek original has been found.",
+     "fit": "A hymn on spiritual combat: 'how the pow'rs of darkness rage thy steps around'.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "None found.",
+       "source": "none",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "1862: PD.",
+     "top_pick": false
+    },
+    {
+     "who": "Sir Cecil Spring Rice",
+     "work": "\"I vow to thee, my country\" (from 'Urbs Dei'/'The Two Fatherlands', c.1908-12, revised Jan 1918; set by Holst to THAXTED, 1921)",
+     "year": 1918,
+     "author_died": 1918,
+     "kind": "poem",
+     "links": [
+      {
+       "site": "Hymnary.org",
+       "id": "BoCP1938/805",
+       "url": "https://hymnary.org/hymn/BoCP1938/805",
+       "checked": true,
+       "note": "Confirms authorship and the THAXTED tune. It is also in the Winchester Hymn Supplement (1928) #69 (hymnary.org/hymn/WHS1928/69, search result only, not fetched)."
+      },
+      {
+       "site": "Wikipedia",
+       "id": "I_Vow_to_Thee,_My_Country",
+       "url": "https://en.wikipedia.org/wiki/I_Vow_to_Thee,_My_Country",
+       "checked": true,
+       "note": "Dates and opening lines. This is a secondary source; no PD primary printing was fetched."
+      }
+     ],
+     "why_trustworthy": "Spring Rice was the British ambassador to the US in the First World War. He revised the poem just before he died.",
+     "fit": "The vow of a man's service to two countries, the earthly one and the heavenly one whose 'ways are ways of gentleness'.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "None found.",
+       "source": "none fetched",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "Author died Feb 1918; first published by 1921. PD in the US (pre-1931) and in life+70 countries. Holst's THAXTED tune is PD in the UK (Holst died 1934).",
+     "top_pick": false
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Who would true Valour see\nLet him come hither;\nOne here will Constant be,\nCome Wind, come Weather.",
+     "author": "John Bunyan",
+     "work": "The Pilgrim's Progress, The Second Part (1684)",
+     "locus": "Mr. Valiant-for-truth's song, st. 1, ll. 1-4",
+     "url": "https://rpo.library.utoronto.ca/poems/pilgrim",
+     "use": "Valour shown as constancy: keeping a vow in all weathers.",
+     "check": "source-fetched"
+    },
+    {
+     "text": "Hobgoblin, nor foul Fiend,\nCan daunt his Spirit:\nHe knows, he at the end,\nShall Life Inherit.",
+     "author": "John Bunyan",
+     "work": "The Pilgrim's Progress, The Second Part (1684)",
+     "locus": "st. 3, ll. 1-4",
+     "url": "https://rpo.library.utoronto.ca/poems/pilgrim",
+     "use": "Courage rooted in hope of the end; the original 'hobgoblin' line that later hymnals softened.",
+     "check": "source-fetched"
+    },
+    {
+     "text": "The walls of gold entomb us,\nThe swords of scorn divide,\nTake not thy thunder from us,\nBut take away our pride.",
+     "author": "G. K. Chesterton",
+     "work": "A Hymn ('O God of earth and altar'), Poems (1915)",
+     "locus": "st. 1, ll. 5-8",
+     "url": "https://www.gutenberg.org/cache/epub/31184/pg31184.txt (also grep-verified at https://raw.githubusercontent.com/GITenberg/Poems_31184/master/31184.txt)",
+     "use": "Asks God to keep strength and remove pride: humility without weakness.",
+     "check": "full-text"
+    },
+    {
+     "text": "In ire and exultation\nAflame with faith, and free,\nLift up a living nation,\nA single sword to thee.",
+     "author": "G. K. Chesterton",
+     "work": "A Hymn ('O God of earth and altar'), Poems (1915)",
+     "locus": "final 4 lines",
+     "url": "https://www.gutenberg.org/cache/epub/31184/pg31184.txt (also grep-verified at https://raw.githubusercontent.com/GITenberg/Poems_31184/master/31184.txt)",
+     "use": "A whole people offered to God as one sword.",
+     "check": "full-text"
+    },
+    {
+     "text": "Sure I must fight, if I would reign;\nincrease my courage, Lord!\nI'll bear the toil, endure the pain,\nsupported by Thy word.",
+     "author": "Isaac Watts",
+     "work": "Am I a soldier of the cross ('Holy Fortitude', 1724)",
+     "locus": "st. 4",
+     "url": "https://hymnary.org/text/am_i_a_soldier_of_the_cross",
+     "use": "No crown without a fight; courage asked for, not assumed. (The lower-case line starts are hymnary's modern presentation.)",
+     "check": "source-fetched"
+    },
+    {
+     "text": "Soldiers of Christ, arise,\nAnd put your armor on;\nStrong in the strength which God supplies\nThro' His eternal Son",
+     "author": "Charles Wesley",
+     "work": "Soldiers of Christ, arise (1749)",
+     "locus": "st. 1, ll. 1-4",
+     "url": "https://hymnary.org/text/soldiers_of_christ_arise_andputyour_stro",
+     "use": "Ephesians 6 in verse: borrowed strength. (Hymnary's spelling is American 'armor'; the 1749 original reads 'armour'.)",
+     "check": "source-fetched"
+    },
+    {
+     "text": "A safe stronghold our God is still,\nA trusty shield and weapon",
+     "author": "Martin Luther, tr. Thomas Carlyle",
+     "work": "Ein feste Burg (Carlyle tr. 1831)",
+     "locus": "st. 1, ll. 1-2, as quoted in Schaff, History of the Christian Church vol. 7 §125",
+     "url": "https://ccel.org/ccel/schaff/hcc7.ii.ix.ix.html",
+     "use": "God as fortress and weapon. For the closing 'the city of God remaineth' see the modernized text on hymnary (text/a_safe_stronghold_our_god_is_still).",
+     "check": "source-fetched"
+    },
+    {
+     "text": "Thus a creed which set out to create conquerors would only corrupt soldiers; corrupt them with a craven and unsoldierly worship of success",
+     "author": "G. K. Chesterton",
+     "work": "The Victorian Age in Literature (1913)",
+     "locus": "ch. I, on Carlyle and the Carlyleans",
+     "url": "https://raw.githubusercontent.com/GITenberg/The-Victorian-Age-in-Literature_18639/master/18639.txt",
+     "use": "A guardrail for a martial room: real soldierliness is not the worship of winning.",
+     "check": "full-text"
+    }
+   ],
+   "dropped": [
+    "Gutenberg #131 as a source for the Bunyan song: it holds Part 1 only, and the song is in Part 2. Use RPO (or Standard Ebooks, whose robots rules block fetching).",
+    "Chesterton-on-Bunyan quote: no PD full text of Come to Think of It (1930) found online, so no verified statement.",
+    "A Carlyle-original full text of 'Luther's Psalm' (Critical and Miscellaneous Essays) on Gutenberg: not located quickly, so CCEL/Schaff and hymnary were used instead.",
+    "Chesterton critique of Luther: plausible but no PD quote fetched; labelled inferred.",
+    "No additions: no further candidate clearly beat the list."
+   ]
+  },
+  {
+   "key": "art",
+   "room": "Art",
+   "blurb": "Knights, explorers, and men who wrote well about pictures",
+   "entries": [
+    {
+     "who": "George Frederic Watts",
+     "work": "Sir Galahad (1860-62, Harvard Art Museums 1943.209); Hope (1886); with Chesterton's monograph 'G. F. Watts' (1904)",
+     "year": 1862,
+     "author_died": 1904,
+     "kind": "art",
+     "links": [
+      {
+       "site": "Harvard Art Museums",
+       "id": "1943.209",
+       "url": "https://hvrd.art/o/230160",
+       "checked": true
+      },
+      {
+       "site": "Gutenberg",
+       "id": "64074",
+       "url": "https://www.gutenberg.org/cache/epub/64074/pg64074.txt",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Victorian painter of moral allegory whom Chesterton chose for a whole book-length study; Watts is the 'monk of art' who preached through paint.",
+     "fit": "Sir Galahad is the classic image of the pure young knight; Chesterton's book treats Watts as a preacher of courage and right.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "direct-quote",
+       "statement": "He has the one great certainty which marks off all the great Victorians from those who have come after them: he may not be certain that he is successful, or certain that he is great, or certain that he is good, or certain that he is capable: but he is certain that he is right.",
+       "source": "G. F. Watts, 1904, https://gutenberg.org/cache/epub/64074/pg64074-images.html",
+       "verified": true,
+       "evidence": "primary"
+      },
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "No Lewis statement on Watts found. INFERRED: Watts's Galahad/allegorical idealism sits close to Lewis's love of Malory and chivalric romance.",
+       "source": "none found",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "Painting 1860-62 (PD). Chesterton's book 1904; Chesterton d. 1936; pre-1930 publication so PD in US. The Galahad sentence: none found in Chesterton's book (searched full text for 'Galahad', 'knight', 'chivalry').",
+     "top_pick": true
+    },
+    {
+     "who": "Albrecht Durer",
+     "work": "Knight, Death, and the Devil (engraving)",
+     "year": 1513,
+     "author_died": 1528,
+     "kind": "art",
+     "links": [
+      {
+       "site": "Metropolitan Museum of Art (Open Access)",
+       "id": "43.106.2",
+       "url": "https://www.metmuseum.org/art/collection/search/336223",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "One of Durer's three 'master engravings'; the Met describes it as an image of moral virtue, the Christian knight riding on unmoved.",
+     "fit": "The steadfast Christian knight riding past Death and the Devil is the chivalric image of courage under temptation.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "None found in texts fetched. INFERRED: Chesterton's medievalism and his theme of the knight-errant fit the image.",
+       "source": "none found",
+       "verified": false,
+       "evidence": "inferred"
+      },
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "None found. INFERRED only.",
+       "source": "none found",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "Met Open Access, public domain image (CC0).",
+     "top_pick": true
+    },
+    {
+     "who": "Arthur Rackham",
+     "work": "Illustrations to Wagner's Ring, trans. Margaret Armour: 'The Rhinegold & The Valkyrie' (1910) and 'Siegfried & The Twilight of the Gods' (1911)",
+     "year": 1911,
+     "author_died": 1939,
+     "kind": "art",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "49507",
+       "url": "https://www.gutenberg.org/ebooks/49507",
+       "checked": true
+      },
+      {
+       "site": "Gutenberg",
+       "id": "48214",
+       "url": "https://www.gutenberg.org/ebooks/48214",
+       "checked": true
+      },
+      {
+       "site": "FadedPage (Canada PD) - Lewis, Surprised by Joy",
+       "id": "20150220",
+       "url": "https://www.fadedpage.com/books/20150220/20150220.txt",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "These very pictures set off Lewis's lifelong 'Northernness'. Rackham is the standard Edwardian illustrator of myth and fairy-tale.",
+     "fit": "Heroic Norse-Germanic subjects (Siegfried, the Valkyries, the dragon), drawn with the firm grotesque line Lewis loved.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "direct-quote",
+       "statement": "I fell deeply under the spell of Dwarfs—the old bright-hooded, snowy-bearded dwarfs we had in those days before Arthur Rackham sublimed, or Walt Disney vulgarised, the earthmen.",
+       "source": "Surprised by Joy, 1955, ch. III 'Mountbracken and Campbell', https://www.fadedpage.com/books/20150220/20150220.txt",
+       "verified": true,
+       "evidence": "primary"
+      },
+      {
+       "by": "Lewis",
+       "type": "cited-work",
+       "statement": "Surprised by Joy ch. V 'Renaissance': Lewis saw the headline 'Siegfried and the Twilight of the Gods' with a Rackham picture in a periodical, and this produced his 'Northernness'. The sentence 'What I had read was the words Siegfried and the Twilight of the Gods.' was fetched verbatim. The following Rackham/'Pure Northernness' passage could NOT be fetched (WebFetch cut off the FadedPage text at about 120k characters), so it is UNVERIFIED. Scholarly confirmation of the episode: N. Feinendegen, 'Which Image Triggered C. S. Lewis's Enthusiasm for Wagner's Ring Cycle?', VII / C.S. Lewis journal (George Fox Digital Commons) 2022, abstract fetched.",
+       "source": "https://www.fadedpage.com/books/20150220/20150220.txt (offset 100000); https://digitalcommons.georgefox.edu/cslewisjournal/vol16/iss1/2",
+       "verified": false,
+       "evidence": "work-exists"
+      }
+     ],
+     "pd_note": "Rackham d. 1939: his illustrations are PD in the US because published 1910/1911. Armour d. 1943; translation 1910-11, PD in the US. Surprised by Joy (1955) is PD in Canada only (Lewis d. 1963) and STILL IN COPYRIGHT IN THE US, so quote only briefly, as fair use.",
+     "top_pick": false
+    },
+    {
+     "who": "John Everett Millais",
+     "work": "The Boyhood of Raleigh",
+     "year": 1870,
+     "author_died": 1896,
+     "kind": "art",
+     "links": [
+      {
+       "site": "Tate",
+       "id": "N01691",
+       "url": "https://www.tate.org.uk/art/artworks/millais-the-boyhood-of-raleigh-n01691",
+       "checked": true
+      },
+      {
+       "site": "Gutenberg (A. L. Baldry, 'Millais')",
+       "id": "41648",
+       "url": "https://www.gutenberg.org/ebooks/41648",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "A canonical Victorian image held by Tate Britain, with a PD monograph on the painter by A. L. Baldry.",
+     "fit": "Boys listening to a sailor's tale of the sea: the vocation of adventure and exploration as it awakens in boyhood.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "None found. INFERRED: Chesterton praised adventure and the romance of the sea, but no statement on this painting was located.",
+       "source": "none found",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "Painting 1870, PD. Baldry's 'Millais' (c.1899; Baldry d. 1939) is PD in the US as a pre-1930 publication.",
+     "top_pick": false
+    },
+    {
+     "who": "John Ruskin",
+     "work": "Modern Painters (1843-60); Lectures on Art (1870)",
+     "year": 1843,
+     "author_died": 1900,
+     "kind": "essay",
+     "links": [
+      {
+       "site": "Gutenberg (Chesterton, The Victorian Age in Literature)",
+       "id": "18639",
+       "url": "https://www.gutenberg.org/cache/epub/18639/pg18639.txt",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "The great Victorian teacher of seeing. He taught that art is moral and that the eye must be trained on nature.",
+     "fit": "A man's way of writing about art: it treats looking as a discipline and art as part of right living.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "direct-quote",
+       "statement": "Ruskin's sentence branches into brackets and relative clauses as a straight strong tree branches into boughs and bifurcations, rather shaking off its burden than merely adding to it.",
+       "source": "The Victorian Age in Literature, 1913, ch. I, https://www.gutenberg.org/cache/epub/18639/pg18639.txt",
+       "verified": true,
+       "evidence": "primary"
+      },
+      {
+       "by": "Chesterton",
+       "type": "critical",
+       "statement": "Rather he set up and worshipped all the arts and trophies of the Catholic Church as a rival to the Church itself.",
+       "source": "The Victorian Age in Literature, 1913, ch. I, same URL",
+       "verified": true,
+       "evidence": "primary"
+      }
+     ],
+     "pd_note": "Ruskin's own works were not fetched in this pass, so no Gutenberg ID is confirmed for them. Chesterton's book (1913) is PD in the US. Chesterton admired Ruskin's prose but CRITICISED his aestheticised half-faith.",
+     "top_pick": false
+    },
+    {
+     "who": "William Blake (via G. K. Chesterton, 'William Blake', 1910)",
+     "work": "William Blake",
+     "year": 1910,
+     "author_died": 1936,
+     "kind": "biography",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "67639",
+       "url": "https://www.gutenberg.org/cache/epub/67639/pg67639.txt",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Chesterton's own short study of a painter-poet. It is strong on the principle of the firm outline.",
+     "fit": "It teaches boys a definite, muscular principle of drawing and of thinking: clear outline over vagueness.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "direct-quote",
+       "statement": "No one can understand Blake's pictures, no one can understand a hundred allusions in his epigrams, satires, and art criticism who does not first of all realise that William Blake was a fanatic on the subject of the firm line.",
+       "source": "William Blake, 1910, https://www.gutenberg.org/cache/epub/67639/pg67639.txt",
+       "verified": true,
+       "evidence": "primary"
+      }
+     ],
+     "pd_note": "1910, PD in the US. Blake's own mysticism is heterodox, so it is better to use him as a teacher of line than of doctrine.",
+     "top_pick": false
+    }
+   ],
+   "quotes": [
+    {
+     "text": "He has the one great certainty which marks off all the great Victorians from those who have come after them: he may not be certain that he is successful, or certain that he is great, or certain that he is good, or certain that he is capable: but he is certain that he is right.",
+     "author": "G. K. Chesterton",
+     "work": "G. F. Watts (1904)",
+     "locus": "opening character-study of Watts",
+     "url": "https://gutenberg.org/cache/epub/64074/pg64074-images.html",
+     "use": "A man's aim is to be right, not to be successful.",
+     "check": "source-fetched"
+    },
+    {
+     "text": "Faith is always at a disadvantage; it is a perpetually defeated thing which survives all its conquerors.",
+     "author": "G. K. Chesterton",
+     "work": "G. F. Watts (1904)",
+     "locus": "discussion of the painting 'Hope'",
+     "url": "https://www.gutenberg.org/cache/epub/64074/pg64074.txt",
+     "use": "Hope as endurance: faith outlives the things that seem to defeat it.",
+     "check": "source-fetched"
+    },
+    {
+     "text": "Ruskin's sentence branches into brackets and relative clauses as a straight strong tree branches into boughs and bifurcations, rather shaking off its burden than merely adding to it.",
+     "author": "G. K. Chesterton",
+     "work": "The Victorian Age in Literature (1913)",
+     "locus": "ch. I, The Victorian Compromise and Its Enemies",
+     "url": "https://www.gutenberg.org/cache/epub/18639/pg18639.txt",
+     "use": "Good writing about art grows like a living thing, strong and organic.",
+     "check": "full-text"
+    },
+    {
+     "text": "No one can understand Blake's pictures, no one can understand a hundred allusions in his epigrams, satires, and art criticism who does not first of all realise that William Blake was a fanatic on the subject of the firm line. The thing he loved most in art was that lucidity and decision of outline which can be seen best in the cartoons of Raphael, in the Elgin Marbles, and in the simpler designs of Michael Angelo.",
+     "author": "G. K. Chesterton",
+     "work": "William Blake (1910)",
+     "locus": "on Blake's art",
+     "url": "https://www.gutenberg.org/cache/epub/67639/pg67639.txt",
+     "use": "Decision and clear outline are virtues in art, as in character.",
+     "check": "source-fetched"
+    },
+    {
+     "text": "I fell deeply under the spell of Dwarfs—the old bright-hooded, snowy-bearded dwarfs we had in those days before Arthur Rackham sublimed, or Walt Disney vulgarised, the earthmen.",
+     "author": "C. S. Lewis",
+     "work": "Surprised by Joy (1955)",
+     "locus": "ch. III, Mountbracken and Campbell",
+     "url": "https://www.fadedpage.com/books/20150220/20150220.txt",
+     "use": "Lewis's judgement: Rackham ennobled ('sublimed') the old tale-figures, while Disney cheapened them. Text is US-copyright, so use as a brief quotation only.",
+     "check": "source-fetched"
+    }
+   ],
+   "dropped": [
+    "Chesterton on Watts's Sir Galahad: there is no mention of 'Galahad' in the full text of G. F. Watts, so no quote is possible.",
+    "Lewis's ch. V 'Pure Northernness' / Rackham-picture passage: FadedPage text was cut off at about 120k characters in WebFetch (curl to fadedpage blocked), so the passage beyond 'What I had read was the words Siegfried and the Twilight of the Gods.' was not verified. It is not quoted.",
+    "'Blake was in a most practical sense, that he came out to teach rather than to learn.' Returned garbled or paraphrased and could not be confirmed, so dropped.",
+    "'There does exist a certain dark and driving force in the world; one of its products is this picture, another is Commerce. The picture is not Commerce, it is Mammon.' (Chesterton, G. F. Watts) was verified but left out of the quotes list as less useful for boys.",
+    "Ruskin's own texts (Modern Painters, Lectures on Art): not fetched in this pass, so no Gutenberg ID is given."
+   ]
+  },
+  {
+   "key": "composers",
+   "room": "Composers",
+   "blurb": "Heroic music and a man's plain guide to the masters",
+   "entries": [
+    {
+     "who": "Richard Wagner",
+     "work": "The Ring of the Niblung, Eng. trans. Margaret Armour, illus. Arthur Rackham: 'The Rhinegold & The Valkyrie' (1910), 'Siegfried & The Twilight of the Gods' (1911)",
+     "year": 1876,
+     "author_died": 1883,
+     "kind": "music",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "48214",
+       "url": "https://www.gutenberg.org/ebooks/48214",
+       "checked": true
+      },
+      {
+       "site": "Gutenberg",
+       "id": "49507",
+       "url": "https://www.gutenberg.org/ebooks/49507",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "The Ring was the source of Lewis's lifelong 'Northernness'. The Armour/Rackham edition is the very book whose advertisement struck him.",
+     "fit": "Heroic Norse-Germanic myth: Siegfried forging the sword, slaying the dragon, the doom of the gods.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "cited-work",
+       "statement": "Surprised by Joy (1955) ch. V 'Renaissance': fetched verbatim from FadedPage: 'What I had read was the words Siegfried and the Twilight of the Gods.' (the source italicises the title). The fuller 'Pure Northernness' passage could not be fetched because of the WebFetch length cut-off, so it is UNVERIFIED. The episode is confirmed by Feinendegen, 'Which Image Triggered C. S. Lewis's Enthusiasm for Wagner's Ring Cycle?' (2022), abstract fetched.",
+       "source": "https://www.fadedpage.com/books/20150220/20150220.txt ; https://digitalcommons.georgefox.edu/cslewisjournal/vol16/iss1/2",
+       "verified": false,
+       "evidence": "work-exists"
+      },
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "None found: Heretics (Gutenberg 470, first 100k chars) has no mention of Wagner. Chesterton's general suspicion of Nietzschean/Teutonic myth suggests he would be cool towards Wagner. This is INFERRED and was not verified.",
+       "source": "none found",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "Armour d. 1943 and Rackham d. 1939, but the editions were published in 1910-11, so they are PD in the US. Wagner's own ideas, including his antisemitic writings, are a known caveat: present the myth-dramas, not the man as a model.",
+     "top_pick": false
+    },
+    {
+     "who": "George Frideric Handel",
+     "work": "Judas Maccabaeus, HWV 63 (1746), incl. 'See, the conqu'ring hero comes' (Act III No. 35); with Parry's chapter on Handel",
+     "year": 1746,
+     "author_died": 1759,
+     "kind": "music",
+     "links": [
+      {
+       "site": "IMSLP",
+       "id": "Judas_Maccabaeus,_HWV_63",
+       "url": "https://imslp.org/wiki/Judas_Maccabaeus,_HWV_63_(Handel,_George_Frideric)",
+       "checked": true
+      },
+      {
+       "site": "archive.org (Parry, Studies of Great Composers)",
+       "id": "studiesofgreatco00parr",
+       "url": "https://archive.org/stream/studiesofgreatco00parr/studiesofgreatco00parr_djvu.txt",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "The great Protestant oratorio composer. Parry presents him as a man of independent spirit and courage who worked on through blindness.",
+     "fit": "A martial-heroic oratorio about a Maccabean warrior-deliverer, with the classic victory chorus.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "None found. INFERRED: Handel's oratorio settings of Scripture would sit comfortably with Lewis's taste.",
+       "source": "none found",
+       "verified": false,
+       "evidence": "inferred"
+      },
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "None found.",
+       "source": "none found",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "Music PD. The libretto is by Thomas Morell, but IMSLP's page did not name him, so this was not verified.",
+     "top_pick": true
+    },
+    {
+     "who": "Henry Purcell (with John Dryden)",
+     "work": "King Arthur, Z.628 (semi-opera, 1691)",
+     "year": 1691,
+     "author_died": 1695,
+     "kind": "music",
+     "links": [
+      {
+       "site": "IMSLP",
+       "id": "King_Arthur,_Z.628",
+       "url": "https://imslp.org/wiki/King_Arthur,_Z.628_(Purcell,_Henry)",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "England's greatest native Baroque composer, setting Dryden's patriotic Arthurian drama.",
+     "fit": "An Arthurian and British-patriotic subject, with songs such as 'Fairest Isle'.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "None found. INFERRED: the Arthurian subject matter is a strong link to Lewis.",
+       "source": "none found",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "PD. IMSLP did not name Dryden on the page fetched. No Gutenberg text of Dryden's libretto was located.",
+     "top_pick": false
+    },
+    {
+     "who": "C. Hubert H. Parry",
+     "work": "Studies of Great Composers (1887; 17th ed. fetched); composer of 'Jerusalem' (1916)",
+     "year": 1887,
+     "author_died": 1918,
+     "kind": "biography",
+     "links": [
+      {
+       "site": "archive.org",
+       "id": "studiesofgreatco00parr",
+       "url": "https://archive.org/stream/studiesofgreatco00parr/studiesofgreatco00parr_djvu.txt",
+       "checked": true
+      },
+      {
+       "site": "archive.org",
+       "id": "studiesofgreatco00parruoft",
+       "url": "https://archive.org/metadata/studiesofgreatco00parruoft",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "An English composer, Director of the Royal College of Music. This book is the classic Victorian compiler's set of plain-spoken composer biographies, with chapters running from Palestrina, Handel and Bach to Wagner.",
+     "fit": "Composers presented as working men of character and courage: an ideal read-aloud spine for the room.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "None found.",
+       "source": "none found",
+       "verified": false,
+       "evidence": "inferred"
+      },
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "None found.",
+       "source": "none found",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "Parry d. 1918; book 1887, PD. WARNING: the archive.org item studiesofgreatco00parruoft has its metadata right (Parry, 1902) but its djvu.txt holds the WRONG book (Krehbiel, Studies in the Wagnerian Drama), so use studiesofgreatco00parr for the text.",
+     "top_pick": true
+    }
+   ],
+   "quotes": [
+    {
+     "text": "He had long been wanting to go there, to study on the spot what were then considered the classical models of composition, and to meet the representative Italian composers; but funds had been wanting, and when some Italian grandee offered to take him, Handel could not bring his independent spirit to submit to the appearance of charity.",
+     "author": "C. Hubert H. Parry",
+     "work": "Studies of Great Composers",
+     "locus": "ch. II, Handel",
+     "url": "https://archive.org/stream/studiesofgreatco00parr/studiesofgreatco00parr_djvu.txt",
+     "use": "Independence: a young man who would rather wait and earn his way than take charity.",
+     "check": "source-fetched"
+    },
+    {
+     "text": "Yet he struggled against this misfortune with all the strength and courage of his disposition, and made his appearance at performances of the Messiah and other works, and played concertos and accompaniments as usual.",
+     "author": "C. Hubert H. Parry",
+     "work": "Studies of Great Composers",
+     "locus": "ch. II, Handel (his blindness)",
+     "url": "https://archive.org/stream/studiesofgreatco00parr/studiesofgreatco00parr_djvu.txt",
+     "use": "Perseverance in one's calling through affliction.",
+     "check": "source-fetched"
+    },
+    {
+     "text": "Handel in these respects ceased very early to be like the rest of his compatriots, and he really represents a compound of different schools, combining the solid and intellectual qualities of the Germans with the softness and smoothness of the Italians.",
+     "author": "C. Hubert H. Parry",
+     "work": "Studies of Great Composers",
+     "locus": "ch. II, Handel",
+     "url": "https://archive.org/stream/studiesofgreatco00parr/studiesofgreatco00parr_djvu.txt",
+     "use": "A craftsman learns from more than one school: strength joined to grace.",
+     "check": "source-fetched"
+    }
+   ],
+   "dropped": [
+    "Lewis 'Pure Northernness' passage (Surprised by Joy ch. V): this could not be fetched past the WebFetch cut-off, and curl to fadedpage is proxy-blocked, so it is unverified and not quoted.",
+    "Lines from Armour's Siegfried libretto (the forging song): the fetch tool declined to reproduce them, so they were not quoted.",
+    "Parry on Wagner: the Wagner chapter (ch. XI) lies beyond the part of the archive.org stream that was readable, so it is not quoted.",
+    "Elgar, and George Grove's Dictionary: not researched in this pass because of time and budget. Elgar d. 1934, so some of his works may still be in copyright, depending on date.",
+    "Chesterton or Lewis regard for Handel, Purcell or Parry: none found."
+   ]
+  },
+  {
+   "key": "year0",
+   "room": "Year 0 Books",
+   "blurb": "Hero tales and fables for ages 3 to 6",
+   "entries": [
+    {
+     "who": "Andrew Lang (ed.), illus. H. J. Ford",
+     "work": "The Blue Fairy Book (1889); The Red Fairy Book (1890)",
+     "year": 1889,
+     "author_died": 1912,
+     "kind": "collection",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "503",
+       "url": "https://www.gutenberg.org/ebooks/503",
+       "checked": true
+      },
+      {
+       "site": "Gutenberg",
+       "id": "540",
+       "url": "https://www.gutenberg.org/ebooks/540",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Lang was a Scottish classicist and folklorist who collected traditional European tales largely without modern softening; the colour books were the standard Victorian-Edwardian nursery canon.",
+     "fit": "Full of giant-killers, youngest sons and dragon-slayers (Jack, the Brave Little Tailor, Soria Moria Castle, Sigurd in the Red book): courage tales a small boy can hear before he can read.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "No direct Chesterton statement on Lang found in this session. INFERRED: Orthodoxy ch. 4 defends exactly these traditional nursery tales (naming 'Jack the Giant Killer', Cinderella, Beauty and the Beast), all of which Lang printed.",
+       "source": "Orthodoxy (1908) ch. IV, https://www.gutenberg.org/cache/epub/130/pg130.txt",
+       "verified": false,
+       "evidence": "inferred"
+      },
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "None found in this session. INFERRED from Lewis's 'On Three Ways of Writing for Children' (1952) defence of fairy tales with 'brave knights and heroic courage'.",
+       "source": "Of Other Worlds (1966)",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "First published 1889/1890; Lang d. 1912. PD worldwide. Gutenberg marks PD in USA.",
+     "top_pick": false
+    },
+    {
+     "who": "Aesop, tr. V. S. Vernon Jones, intro. G. K. Chesterton, illus. Arthur Rackham",
+     "work": "Aesop's Fables: A New Translation (1912)",
+     "year": 1912,
+     "author_died": 0,
+     "kind": "collection",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "11339",
+       "url": "https://www.gutenberg.org/ebooks/11339",
+       "checked": true
+      },
+      {
+       "site": "Gutenberg (alt: Townsend tr., Three hundred Aesop's fables)",
+       "id": "21",
+       "url": "https://www.gutenberg.org/ebooks/21",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "The oldest beast-fable stock of the West; this edition carries a Chesterton introduction, so it is literally endorsed by him. Townsend (d. 1900) was an Anglican clergyman.",
+     "fit": "Short beast fables teaching pluck, prudence and the fall of the proud: ideal first moral stories for a 3-6-year-old boy.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "direct-quote",
+       "statement": "\"There can be no good fable with human beings in it.\" ... the fable teaches \"that superiority is always insolent, because it is always accidental;\"",
+       "source": "Introduction to Aesop's Fables (Jones tr., 1912), https://www.gutenberg.org/cache/epub/11339/pg11339.txt",
+       "verified": true,
+       "evidence": "primary"
+      }
+     ],
+     "pd_note": "Jones/Rackham/Chesterton edition 1912 - PD in US (pre-1931). Rackham d. 1939, Chesterton d. 1936 (PD in life+70 countries); Vernon Jones's death date not confirmed, so for non-US use prefer Townsend (#21, d. 1900).",
+     "top_pick": true
+    },
+    {
+     "who": "Rudyard Kipling",
+     "work": "Just So Stories (1902); The Jungle Book (1894)",
+     "year": 1902,
+     "author_died": 1936,
+     "kind": "collection",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "2781",
+       "url": "https://www.gutenberg.org/ebooks/2781",
+       "checked": true
+      },
+      {
+       "site": "Gutenberg",
+       "id": "236",
+       "url": "https://www.gutenberg.org/ebooks/236",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Nobel laureate (1907) whose children's books are rooted in law, obedience, and courage; widely read aloud in British nurseries for a century.",
+     "fit": "Just So Stories are the right length and rhythm for ages 3-6; Mowgli and Rikki-Tikki-Tavi (Jungle Book) give the small boy fearless, dutiful animal heroes - better at the upper end (5-6).",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "critical",
+       "statement": "Mixed. Praise: \"Every thing is military in the sense that everything depends upon obedience.\" (describing Kipling's real merit). Criticism: \"He admires England, but he does not love her; for we admire things with reasons, but love them without reasons.\"",
+       "source": "Heretics (1905), ch. 'On Mr. Rudyard Kipling and Making the World Small', https://www.gutenberg.org/cache/epub/470/pg470.txt",
+       "verified": true,
+       "evidence": "primary"
+      },
+      {
+       "by": "Lewis",
+       "type": "cited-work",
+       "statement": "Lewis wrote the essay 'Kipling's World' (lecture 1948; printed in They Asked for a Paper, 1962), a respectful but ambivalent assessment. Existence known; text not fetched this session.",
+       "source": "They Asked for a Paper (1962)",
+       "verified": false,
+       "evidence": "work-cited-unconfirmed"
+      }
+     ],
+     "pd_note": "1894/1902, Kipling d. 1936. PD in US and in life+70 countries.",
+     "top_pick": false
+    },
+    {
+     "who": "Charles Kingsley",
+     "work": "The Heroes; or, Greek Fairy Tales for My Children (1856)",
+     "year": 1856,
+     "author_died": 1875,
+     "kind": "collection",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "677",
+       "url": "https://www.gutenberg.org/ebooks/677",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Anglican priest and Regius Professor of History who wrote these tales of Perseus, Jason and Theseus explicitly for his own children, framing them in a Christian moral preface.",
+     "fit": "The archetypal hero-quest read-aloud (Perseus and the Gorgon, Theseus and the Minotaur); best for the 5-6 end of the room.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "None found. INFERRED: fits Chesterton's 'chivalrous lesson' that giants (monsters) should be killed. Note Chesterton was not uncritical of Kingsley's 'muscular' Protestantism generally (not checked this session).",
+       "source": "n/a",
+       "verified": false,
+       "evidence": "inferred"
+      },
+      {
+       "by": "Lewis",
+       "type": "inferred",
+       "statement": "None found. INFERRED: Lewis's love of Greek myth from childhood.",
+       "source": "n/a",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "1856; Kingsley d. 1875. PD worldwide.",
+     "top_pick": false
+    },
+    {
+     "who": "George MacDonald",
+     "work": "The Princess and the Goblin (1872)",
+     "year": 1872,
+     "author_died": 1905,
+     "kind": "collection",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "708",
+       "url": "https://www.gutenberg.org/ebooks/708",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Scottish minister and novelist; the one author both Chesterton and Lewis named as formative.",
+     "fit": "Curdie the miner's boy - brave, singing at the goblins, guarding the princess - is a model of a working boy's courage (read aloud at 5-6).",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "direct-quote",
+       "statement": "\"I for one can really testify to a book that has made a difference to my whole existence, which helped me to see things in a certain way from the start\" ... \"It is called The Princess and the Goblin, and is by George MacDonald\"",
+       "source": "Introduction to Greville MacDonald, George MacDonald and His Wife (1924); fetched from excerpt at https://www.worksofmacdonald.com/george-macdonald-and-his-wife/2023/7/20/excerpt-from-gk-chestertons-introduction-to-george-macdonald-and-his-wife (secondary site, not a scan)",
+       "verified": true,
+       "evidence": "secondary"
+      },
+      {
+       "by": "Lewis",
+       "type": "cited-work",
+       "statement": "Lewis's preface to George MacDonald: An Anthology (1946), in which he calls MacDonald his master. The book's existence and Lewis as editor confirmed on fadedpage.com (Canadian PD), but the preface text could not be retrieved through the tool, so the 'master' wording is NOT verbatim-confirmed.",
+       "source": "George MacDonald: An Anthology (1946), https://www.fadedpage.com/showbook.php?pid=20140910",
+       "verified": false,
+       "evidence": "work-exists"
+      }
+     ],
+     "pd_note": "1872; MacDonald d. 1905. PD worldwide.",
+     "top_pick": true
+    }
+   ],
+   "quotes": [
+    {
+     "text": "My first and last philosophy, that which I believe in with unbroken certainty, I learnt in the nursery.",
+     "author": "G. K. Chesterton",
+     "work": "Orthodoxy (1908)",
+     "locus": "ch. IV, The Ethics of Elfland",
+     "url": "https://www.gutenberg.org/cache/epub/130/pg130.txt",
+     "use": "The nursery tale is where a man's first and lasting philosophy is formed - why Year 0 matters.",
+     "check": "full-text"
+    },
+    {
+     "text": "There is the chivalrous lesson of 'Jack the Giant Killer'; that giants should be killed because they are gigantic.",
+     "author": "G. K. Chesterton",
+     "work": "Orthodoxy (1908)",
+     "locus": "ch. IV, The Ethics of Elfland",
+     "url": "https://www.gutenberg.org/cache/epub/130/pg130.txt",
+     "use": "Fairy tales teach the small boy chivalry: to stand against the proud and monstrous.",
+     "check": "full-text"
+    },
+    {
+     "text": "Fairy tales do not give the child his first idea of bogey. What fairy tales give the child is his first clear idea of the possible defeat of bogey. The baby has known the dragon intimately ever since he had an imagination. What the fairy tale provides for him is a St. George to kill the dragon.",
+     "author": "G. K. Chesterton",
+     "work": "Tremendous Trifles (1909)",
+     "locus": "XVII, The Red Angel",
+     "url": "https://www.gutenberg.org/ebooks/8092",
+     "use": "The real line behind the popular paraphrase: hero tales give courage, not fear. NOTE: Gutenberg #8092 could not be read past essay XVI via the fetch tool, so this was confirmed from a secondary full-text reprint; spot-check against https://www.gutenberg.org/ebooks/8092 before publishing.",
+     "check": "full-text",
+     "check_note": "Matched in the complete Gutenberg 8092 text"
+    },
+    {
+     "text": "There can be no good fable with human beings in it.",
+     "author": "G. K. Chesterton",
+     "work": "Introduction to Aesop's Fables, tr. V. S. Vernon Jones (1912)",
+     "locus": "Introduction",
+     "url": "https://www.gutenberg.org/cache/epub/11339/pg11339.txt",
+     "use": "Why beast fables suit small children: the animals are clear, impersonal moral types.",
+     "check": "source-fetched"
+    },
+    {
+     "text": "I for one can really testify to a book that has made a difference to my whole existence, which helped me to see things in a certain way from the start",
+     "author": "G. K. Chesterton",
+     "work": "Introduction to George MacDonald and His Wife (1924)",
+     "locus": "Introduction (on The Princess and the Goblin)",
+     "url": "https://www.worksofmacdonald.com/george-macdonald-and-his-wife/2023/7/20/excerpt-from-gk-chestertons-introduction-to-george-macdonald-and-his-wife",
+     "use": "One early read-aloud can shape a whole life's way of seeing (sentence fragment as given on that site).",
+     "check": "secondary",
+     "check_note": "Chesterton 1924 introduction, from an excerpt on worksofmacdonald.com; book itself not opened"
+    },
+    {
+     "text": "Since it is so likely that they will meet cruel enemies, let them at least have heard of brave knights and heroic courage.",
+     "author": "C. S. Lewis",
+     "work": "On Three Ways of Writing for Children (talk to the Library Association, 1952; in Of Other Worlds, 1966)",
+     "locus": "section defending frightening elements in fairy tales",
+     "url": "https://apilgriminnarnia.com/2011/12/28/c-s-lewis-on-three-ways-of-writing-for-children/",
+     "use": "Lewis's case for hero tales in early childhood. In copyright (US); verified only via a secondary blog quoting it, not the primary text.",
+     "check": "secondary",
+     "check_note": "Lewis 1952 talk (in copyright), quoted on apilgriminnarnia.com; book itself not opened"
+    }
+   ],
+   "dropped": [
+    "Lang, The Red True Story Book (1895, Gutenberg #27603, checked): real history (Joan of Arc, Wilson's Last Fight) - too long and grown-up for ages 3-6; move to Years 1-3.",
+    "Padraic Colum, The Children's Homer (1918; on Gutenberg as 'The Adventures of Odysseus and The Tales of Troy', #16867, checked) and The Children of Odin (1920, #24737, checked): both PD in US (pre-1929), but Colum d. 1972 so NOT PD in life+70 countries; also too long/advanced for ages 3-6 - better for Years 3-5.",
+    "Lewis 'master' quote from the MacDonald Anthology preface: could not fetch preface text (fadedpage pages return only catalogue metadata to the tool); kept as cited-work, verified:false.",
+    "No Chesterton or Lewis statement found specifically on Andrew Lang or on Kingsley's The Heroes; regard marked inferred."
+   ]
+  },
+  {
+   "key": "manhood",
+   "room": "The Study",
+   "blurb": "Essays on manhood, vocation and chivalry, for every room",
+   "entries": [
+    {
+     "who": "William Cobbett",
+     "work": "Advice to Young Men, and (incidentally) to Young Women",
+     "year": 1829,
+     "author_died": 1835,
+     "kind": "essay",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "15510",
+       "url": "https://www.gutenberg.org/cache/epub/15510/pg15510.txt",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "A self-taught farmer's son, soldier and journalist who wrote plain, bracing counsel on work, sobriety and household duty from his own hard life.",
+     "fit": "Direct letters 'To a Youth', 'To a Lover', 'To a Husband', 'To a Father' - the most practical manhood manual of the old world.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "direct-quote",
+       "statement": "\"He was emphatically the sort of man with whom one cannot afford to be in the wrong.\" (Chesterton wrote a whole book-length study of Cobbett.)",
+       "source": "G. K. Chesterton, William Cobbett (1925), ch. II 'A Self-Made Man', https://gutenberg.net.au/ebooks09/0900441.txt",
+       "verified": true,
+       "evidence": "primary"
+      }
+     ],
+     "pd_note": "1829; author d. 1835. PD. Chesterton's William Cobbett (1925; GKC d. 1936) is PD in US (pre-1930) and on Project Gutenberg Australia.",
+     "top_pick": true
+    },
+    {
+     "who": "Thomas Hughes",
+     "work": "The Manliness of Christ",
+     "year": 1879,
+     "author_died": 1896,
+     "kind": "essay",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "79039",
+       "url": "https://www.gutenberg.org/cache/epub/79039/pg79039.txt",
+       "checked": true
+      },
+      {
+       "site": "Gutenberg",
+       "id": "52534",
+       "url": "https://gutenberg.org/cache/epub/52534/pg52534-images.html",
+       "checked": false
+      }
+     ],
+     "why_trustworthy": "Author of Tom Brown's School Days, Christian Socialist and Working Men's College teacher; argues true courage is will surrendered to God.",
+     "fit": "Lectures to young men distinguishing true manliness from mere athleticism, using Christ as the pattern.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "INFERRED: no direct statement found. Hughes's insistence that manliness lies in a surrendered will, not physical force, matches Chesterton's paradox of courage in Orthodoxy ch. VI.",
+       "source": "inference",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "1879; author d. 1896. PD. (52534 'True Manliness' is a Hughes selection; link from search, not fetched.)",
+     "top_pick": false
+    },
+    {
+     "who": "Leon Gautier (trans. Henry Frith)",
+     "work": "Chivalry",
+     "year": 1891,
+     "author_died": 1897,
+     "kind": "essay",
+     "links": [
+      {
+       "site": "archive.org",
+       "id": "chivalry00fritgoog",
+       "url": "https://archive.org/details/chivalry00fritgoog",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "French Catholic medievalist and editor of the Chanson de Roland; distils the knight's code from the epics into a 'Decalogue' (chapters II-IV).",
+     "fit": "The Ten Commandments of Chivalry are a ready-made memory piece for boys.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "INFERRED: no statement found. Gautier's chivalry as Christian, protective of the weak, fits Chesterton's defence of medieval Christendom.",
+       "source": "inference",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "French 1884; English trans. London: Routledge 1891. PD in US. Archive.org scan (Google/UC). NOTE: Commandment VI ('war against the Infidel without cessation, and without mercy') needs parental framing/omission for children.",
+     "top_pick": false
+    },
+    {
+     "who": "Kenelm Henry Digby",
+     "work": "The Broad Stone of Honour, or the True Sense and Practice of Chivalry",
+     "year": 1822,
+     "author_died": 1880,
+     "kind": "essay",
+     "links": [
+      {
+       "site": "archive.org",
+       "id": "broadstoneofhono01digb_0",
+       "url": "https://archive.org/details/broadstoneofhono01digb_0",
+       "checked": true
+      },
+      {
+       "site": "archive.org",
+       "id": "broadstoneofhono00digb_0",
+       "url": "https://archive.org/details/broadstoneofhono00digb_0",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Cambridge Catholic convert whose vast chivalric anthology shaped the Victorian gentleman ideal (Ruskin, Burne-Jones, Tennyson read it).",
+     "fit": "The source-book of the 19th-century revival of Christian chivalry, organised by virtue (Godefridus, Tancredus, Morus, Orlandus).",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "INFERRED: none found.",
+       "source": "inference",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "First 1822; scans are 1848 (Morus, Lumley) and 1876-77 (Orlandus, Quaritch). PD. Very long, discursive, poor OCR: a reference work, not a read-aloud. No clean quote obtained (OCR text garbled); keep as reference only.",
+     "top_pick": false
+    },
+    {
+     "who": "Sir Thomas Malory",
+     "work": "Le Morte d'Arthur (Caxton text, Pollard ed.), Vol. 2",
+     "year": 1485,
+     "author_died": 1471,
+     "kind": "anthology",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "1252",
+       "url": "https://www.gutenberg.org/cache/epub/1252/pg1252.txt",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "The great English prose of knighthood; Lewis wrote on it as a scholar and used Launcelot as his pattern of the chivalrous man.",
+     "fit": "Sir Ector's lament is the classic statement of the knight who is both stern and meek.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "cited-work",
+       "statement": "C. S. Lewis, 'The English Prose Morte', in J. A. W. Bennett (ed.), Essays on Malory (Oxford: Clarendon, 1963) - existence CONFIRMED from library catalogue contents list.",
+       "source": "https://search.ub.tum.de/vufind/Record/DE-604.BV002916992?print=1",
+       "verified": true,
+       "evidence": "work-exists"
+      },
+      {
+       "by": "Lewis",
+       "type": "cited-work",
+       "statement": "C. S. Lewis, 'The Necessity of Chivalry' (Time and Tide, 1940; first essay in Present Concerns, 1986) - existence CONFIRMED from a contents listing. Its argument: Launcelot is 'fierce to the nth and meek to the nth'. No reliable full text fetchable, so NOT quoted (fragment seen only on a blog, mereinkling.net).",
+       "source": "https://www.exodusbooks.com/present-concerns/lewis/70563/ ; https://mereinkling.net/tag/lancelot/",
+       "verified": false,
+       "evidence": "work-cited-unconfirmed"
+      }
+     ],
+     "pd_note": "Caxton 1485; Gutenberg Pollard text. PD. WebFetch truncates the Gutenberg file at ~108k chars so Book XXI could not be read there; the lament was verified from a transcription (see quotes) that matches the Pollard/Caxton spelling.",
+     "top_pick": true
+    },
+    {
+     "who": "George Herbert",
+     "work": "A Priest to the Temple, or The Country Parson",
+     "year": 1652,
+     "author_died": 1633,
+     "kind": "essay",
+     "links": [
+      {
+       "site": "CCEL",
+       "id": "herbert/temple2",
+       "url": "https://ccel.org/ccel/herbert/temple2",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Anglican priest-poet of Bemerton; a short handbook of a man's calling lived in a country parish.",
+     "fit": "The best old-world book on vocation as daily, humble, accountable service.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "direct-quote",
+       "statement": "In Surprised by Joy Lewis quotes Herbert while describing Chesterton's effect on him: \"There are traps everywhere--'Bibles laid open, millions of surprises,' as Herbert says, 'fine nets and stratagems.'\"",
+       "source": "Surprised by Joy (1955), ch. 12, as quoted in National Review, https://www.nationalreview.com/2006/04/progress-orthodoxy/amp/",
+       "verified": true,
+       "evidence": "secondary"
+      }
+     ],
+     "pd_note": "Published posthumously 1652; author d. 1633. PD. Not on Gutenberg; CCEL hosts it chapter by chapter (ch. I at https://ccel.org/ccel/herbert/temple2/temple2.iv.html). Fadedpage hosts Surprised by Joy (pid 20150220) but the text file could not be fetched.",
+     "top_pick": false
+    },
+    {
+     "who": "Robert Louis Stevenson",
+     "work": "'Aes Triplex' (Virginibus Puerisque, 1881) and 'A Christmas Sermon' (1888; Across the Plains 1892)",
+     "year": 1881,
+     "author_died": 1894,
+     "kind": "essay",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "10761",
+       "url": "https://www.gutenberg.org/cache/epub/10761/pg10761.txt",
+       "checked": true
+      },
+      {
+       "site": "Gutenberg",
+       "id": "14535",
+       "url": "https://www.gutenberg.org/cache/epub/14535/pg14535.txt",
+       "checked": true
+      },
+      {
+       "site": "Gutenberg",
+       "id": "386",
+       "url": "https://www.gutenberg.org/cache/epub/386/pg386.txt",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Invalid all his life yet wrote the most cheerful essays on courage and duty in English.",
+     "fit": "Aes Triplex on facing death with zest; A Christmas Sermon on the plain duties of a man.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "direct-quote",
+       "statement": "\"That the stars in their courses fight against virtue, that humanity is in its nature a forlorn hope, this was the very spirit that through the whole of Stevenson's work sounded a trumpet to all the brave.\"",
+       "source": "Chesterton, 'Stevenson', Twelve Types (1902), https://www.gutenberg.org/cache/epub/12491/pg12491.txt",
+       "verified": true,
+       "evidence": "primary"
+      },
+      {
+       "by": "Chesterton",
+       "type": "cited-work",
+       "statement": "Chesterton also wrote the book Robert Louis Stevenson (1927); not fetched.",
+       "source": "LibriVox/catalogue listings in search results",
+       "verified": false,
+       "evidence": "work-cited-unconfirmed"
+      }
+     ],
+     "pd_note": "PD. 10761 = Essays of RLS ed. W. L. Phelps (1906), which contains Aes Triplex; 14535 = A Christmas Sermon standalone (1900 ed.).",
+     "top_pick": false
+    },
+    {
+     "who": "Samuel Johnson (via James Boswell)",
+     "work": "The Life of Samuel Johnson, LL.D.",
+     "year": 1791,
+     "author_died": 1795,
+     "kind": "biography",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "9180",
+       "url": "https://gutenberg.org/ebooks/9180",
+       "checked": false
+      }
+     ],
+     "why_trustworthy": "Johnson was a devout, brave, plain-spoken moralist; Boswell's record is the classic picture of a great man's talk.",
+     "fit": "Johnson's table-talk on courage, work and duty.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "cited-work",
+       "statement": "Chesterton wrote a play about him, The Judgment of Dr. Johnson (1927), and admired him often in essays. NOT verified in this session.",
+       "source": "not fetched",
+       "verified": false,
+       "evidence": "work-cited-unconfirmed"
+      }
+     ],
+     "pd_note": "PD. Gutenberg 9180 is Hill ed. Vol. 3 (1776-1780), found by search only; title not fetched. WebFetch truncates long files, so the April 1778 'soldier' passage could not be verified. Quote left unverified.",
+     "top_pick": false
+    },
+    {
+     "who": "Edmund Burke",
+     "work": "Reflections on the Revolution in France",
+     "year": 1790,
+     "author_died": 1797,
+     "kind": "essay",
+     "links": [
+      {
+       "site": "Gutenberg",
+       "id": "15679",
+       "url": "https://www.gutenberg.org/cache/epub/15679/pg15679.txt",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "Statesman who defended inherited loyalties, honour and religion against revolutionary abstraction.",
+     "fit": "The 'age of chivalry is gone' passage is the classic English lament for chivalry as a living spirit.",
+     "regard": [
+      {
+       "by": "Chesterton",
+       "type": "inferred",
+       "statement": "INFERRED: no direct statement fetched. Chesterton admired Burke's rhetoric but was sympathetic to the French Revolution, so his regard is MIXED.",
+       "source": "inference",
+       "verified": false,
+       "evidence": "inferred"
+      }
+     ],
+     "pd_note": "PD. Gutenberg 15679 = Works of Burke Vol. 03 (title confirmed; contains Reflections). The file is truncated in WebFetch; passage verified from a page reproducing the 1790 text, pp. 75-6 (see quotes).",
+     "top_pick": false
+    },
+    {
+     "who": "G. K. Chesterton",
+     "work": "Orthodoxy (1908); What's Wrong with the World (1910); All Things Considered (1908); Twelve Types (1902)",
+     "year": 1908,
+     "author_died": 1936,
+     "kind": "essay",
+     "links": [
+      {
+       "site": "CCEL",
+       "id": "chesterton/orthodoxy",
+       "url": "https://ccel.org/ccel/chesterton/orthodoxy/orthodoxy.ix.html",
+       "checked": true
+      },
+      {
+       "site": "Gutenberg",
+       "id": "1717",
+       "url": "https://www.gutenberg.org/cache/epub/1717/pg1717.txt",
+       "checked": true
+      },
+      {
+       "site": "Gutenberg",
+       "id": "11505",
+       "url": "https://www.gutenberg.org/cache/epub/11505/pg11505.txt",
+       "checked": true
+      },
+      {
+       "site": "Gutenberg",
+       "id": "12491",
+       "url": "https://www.gutenberg.org/cache/epub/12491/pg12491.txt",
+       "checked": true
+      }
+     ],
+     "why_trustworthy": "The room's own touchstone: lines on courage, home and the ordinary man's dignity.",
+     "fit": "His paradoxes on courage and the home give the frame for the whole manhood study.",
+     "regard": [
+      {
+       "by": "Lewis",
+       "type": "direct-quote",
+       "statement": "\"In reading Chesterton, as in reading Macdonald, I did not know what I was letting myself in for. A young man who wishes to remain a sound Atheist can not be too careful of his reading.\"",
+       "source": "Surprised by Joy (1955), ch. 12, as quoted in National Review, https://www.nationalreview.com/2006/04/progress-orthodoxy/amp/",
+       "verified": true,
+       "evidence": "secondary"
+      },
+      {
+       "by": "Lewis",
+       "type": "direct-quote",
+       "statement": "\"I read Chesterton's Everlasting Man and for the first time saw the whole Christian outline of history set out in a form that seemed to me to make sense.\"",
+       "source": "Surprised by Joy (1955), ch. 14, as quoted on Hendrickson publisher page, https://www.hendricksonpublishers.com/p/the-everlasting-man/25636/e-book (Lewis's full sentence begins 'Then I read...')",
+       "verified": true,
+       "evidence": "secondary"
+      }
+     ],
+     "pd_note": "All pre-1930; PD in US. Surprised by Joy (1955) is under US copyright; Lewis lines come from secondary sources, not from the book itself (fadedpage text would not load).",
+     "top_pick": false
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Superior sobriety, industry, activity, though accompanied with but a moderate portion of knowledge, command respect, because they have great and visible influence.",
+     "author": "William Cobbett",
+     "work": "Advice to Young Men",
+     "locus": "Letter I, To a Youth, para. 40",
+     "url": "https://www.gutenberg.org/cache/epub/15510/pg15510.txt",
+     "use": "Character outweighs cleverness: sobriety and industry earn respect.",
+     "check": "source-fetched",
+     "check_note": "Re-fetched and matched a second time"
+    },
+    {
+     "text": "Tenacity of will, or wilfulness, lies at the root of all courage, but courage can only rise into true manliness when the will is surrendered; and the more absolute the surrender of the will, the more perfect will be the temper of our courage and the strength of our manliness.",
+     "author": "Thomas Hughes",
+     "work": "The Manliness of Christ",
+     "locus": "section on the tests of manliness",
+     "url": "https://www.gutenberg.org/cache/epub/79039/pg79039.txt",
+     "use": "Manliness is courage under obedience, not self-will.",
+     "check": "source-fetched",
+     "check_note": "Re-fetched and matched a second time"
+    },
+    {
+     "text": "III. Thou shalt respect all weaknesses, and shalt constitute thyself the defender of them. ... VIII. Thou shalt never lie, and shalt remain faithful to thy pledged word. ... X. Thou shalt be everywhere and always the champion of the Right and the Good against Injustice and Evil.",
+     "author": "Leon Gautier (trans. Henry Frith)",
+     "work": "Chivalry",
+     "locus": "The Code of Chivalry (chs. II-IV), summary decalogue",
+     "url": "https://dn760004.eu.archive.org/0/items/chivalry00fritgoog/chivalry00fritgoog_djvu.txt",
+     "use": "Knighthood as protecting the weak, keeping your word and championing the right. All ten were fetched; selection shown. I: 'Thou shalt believe all that the Church teaches, and shalt observe all its directions.' II: 'Thou shalt defend the Church.' IV: 'Thou shalt love the country in the which thou wast born.' V: 'Thou shalt not recoil before thine enemy.' VI: 'Thou shalt make war against the Infidel without cessation, and without mercy.' VII: 'Thou shalt perform scrupulously thy feudal duties, if they be not contrary to the laws of God.' IX: 'Thou shalt be generous, and give largesse to everyone.'",
+     "check": "source-fetched"
+    },
+    {
+     "text": "And thou were the kindest man that ever struck with sword. And thou were the goodliest person that ever came among press of knights. And thou was the meekest man and the gentlest that ever ate in hall among ladies. And thou were the sternest knight to thy mortal foe that ever put spear in the rest.",
+     "author": "Sir Thomas Malory",
+     "work": "Le Morte d'Arthur",
+     "locus": "Book XXI, ch. XIII (Sir Ector's lament for Launcelot)",
+     "url": "https://davidsuttonpoetry.com/tag/sir-thomas-malory/",
+     "use": "The knight is gentle with the weak and stern with the enemy; Lewis's 'fierce to the nth and meek to the nth'. Verified from a transcription matching the Pollard/Caxton text (Gutenberg 1252 could not be read to Book XXI). The full lament opens: 'Ah Launcelot, he said, thou were head of all Christian knights...'",
+     "check": "secondary",
+     "check_note": "Two independent transcriptions of the Caxton/Pollard text agree (davidsuttonpoetry.com, wist.info); Gutenberg 1252 too long to open in full"
+    },
+    {
+     "text": "But the age of chivalry is gone. -- That of sophisters, oeconomists, and calculators, has succeeded; and the glory of Europe is extinguished for ever. ... The unbought grace of life, the cheap defence of nations, the nurse of manly sentiment and heroic enterprize is gone!",
+     "author": "Edmund Burke",
+     "work": "Reflections on the Revolution in France",
+     "locus": "1790 ed., pp. 75-6",
+     "url": "https://sites.ualberta.ca/~dmiall/Romanticism/Burke.htm",
+     "use": "Chivalry as the 'nurse of manly sentiment', lost when everything is reduced to calculation. Original spelling ('oeconomists', 'enterprize') kept; Fordham's sourcebook has a modernised version.",
+     "check": "secondary",
+     "check_note": "1790 text as reproduced on a University of Alberta page; Gutenberg 15679 too long to open in full"
+    },
+    {
+     "text": "Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.",
+     "author": "G. K. Chesterton",
+     "work": "Orthodoxy",
+     "locus": "ch. VI, The Paradoxes of Christianity",
+     "url": "https://ccel.org/ccel/chesterton/orthodoxy/orthodoxy.ix.html",
+     "use": "The paradox of courage, which pairs with 'He that will lose his life...' (the next sentence in the source).",
+     "check": "full-text"
+    },
+    {
+     "text": "He wants an objective and visible kingdom; a fire at which he can cook what food he likes, a door he can open to what friends he chooses. This is the normal appetite of men; I do not say there are not exceptions.",
+     "author": "G. K. Chesterton",
+     "work": "What's Wrong with the World",
+     "locus": "Part One, ch. VII 'The Free Family' (chapter per fetch tool)",
+     "url": "https://www.gutenberg.org/cache/epub/1717/pg1717.txt",
+     "use": "A man's home as his small kingdom, the ground of a free family.",
+     "check": "full-text"
+    },
+    {
+     "text": "There has appeared in our time a particular class of books and articles which I sincerely and solemnly think may be called the silliest ever known among men. They are much more wild than the wildest romances of chivalry and much more dull than the dullest religious tract.",
+     "author": "G. K. Chesterton",
+     "work": "All Things Considered, 'The Fallacy of Success'",
+     "locus": "opening",
+     "url": "https://www.gutenberg.org/cache/epub/11505/pg11505.txt",
+     "use": "A caution against success-worship. Use it to frame Samuel Smiles-type 'self-help' material.",
+     "check": "full-text"
+    },
+    {
+     "text": "In the hot-fit of life, a tip-toe on the highest point of being, he passes at a bound on to the other side. The noise of the mallet and chisel is scarcely quenched, the trumpets are hardly done blowing, when, trailing with him clouds of glory, this happy-starred, full-blooded spirit shoots into the spiritual land.",
+     "author": "Robert Louis Stevenson",
+     "work": "Aes Triplex",
+     "locus": "closing paragraph",
+     "url": "https://www.gutenberg.org/cache/epub/10761/pg10761.txt",
+     "use": "Better to die working at full stretch than to live hoarding life out of fear.",
+     "check": "source-fetched"
+    },
+    {
+     "text": "To be honest, to be kind--to earn a little and to spend a little less, to make upon the whole a family happier for his presence, to renounce when that shall be necessary and not be embittered, to keep a few friends but these without capitulation--above all, on the same grim condition, to keep friends with himself--here is a task for all that a man has of fortitude and delicacy.",
+     "author": "Robert Louis Stevenson",
+     "work": "A Christmas Sermon",
+     "locus": "section I",
+     "url": "https://www.gutenberg.org/cache/epub/14535/pg14535.txt",
+     "use": "An ordinary man's duties named plainly. An ideal memory piece.",
+     "check": "source-fetched"
+    },
+    {
+     "text": "A Pastor is the Deputy of Christ for the reducing of Man to the Obedience of God.",
+     "author": "George Herbert",
+     "work": "A Priest to the Temple, or The Country Parson",
+     "locus": "ch. I, Of a Pastor",
+     "url": "https://ccel.org/ccel/herbert/temple2/temple2.iv.html",
+     "use": "A vocation is a commission held from Christ, not a career.",
+     "check": "source-fetched"
+    }
+   ],
+   "dropped": [
+    "Samuel Smiles, Self-Help: not added. Chesterton's 'The Fallacy of Success' (All Things Considered, 1908) attacks success-worship books (verified opening quoted). No mention of Smiles or 'Self-Help' by name was found in the first ~100k chars of that volume, so a direct GKC-on-Smiles link is NOT verified.",
+    "Carlyle, On Heroes: not added. CAUTION, mixed: in Twelve Types (1902), 'Carlyle', Chesterton actually defends Carlyle against readers who 'imbibed the notion that Carlyle's theory of hero worship was a theory of terrified submission to stern and arrogant men' (verified, Gutenberg 12491). He criticised the strong-man cult elsewhere, but that was not fetched this session. Leave Carlyle out, or include only with this framing.",
+    "Lewis 'The Necessity of Chivalry' quote: not added to quotes. No reliable full text could be fetched; only blog fragments ('fierce to the nth and meek to the nth').",
+    "Digby quote: no clean sentence; OCR is poor and the work is very long. Kept as a reference entry only.",
+    "Boswell/Johnson soldier quote: kept but marked verified:false.",
+    "No new candidates added (none needed)."
+   ]
+  }
+ ]
+}
