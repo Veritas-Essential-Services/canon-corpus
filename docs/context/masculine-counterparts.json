@@ -134,7 +134,7 @@
        "evidence": "secondary"
       }
      ],
-     "pd_note": "Both are pre-1930 publications, so they are PD in the US. Chesterton died 1936, so they are PD in the UK (life+70) since 2007. The Gutenberg header for Poems gives a 1916 edition.",
+     "pd_note": "Both are pre-1930 publications, so they are PD in the US. The Gutenberg header for Poems gives a 1916 edition.",
      "top_pick": true
     },
     {
@@ -185,7 +185,7 @@
        "evidence": "work-exists"
       }
      ],
-     "pd_note": "Barrack-Room Ballads (1892) and Rewards and Fairies (1910) were published before 1930, so they are PD in the US. Kipling died 1936. Use pre-1930 poems only.",
+     "pd_note": "Barrack-Room Ballads (1892) and Rewards and Fairies (1910) were published before 1931, so they are PD in the US. Use pre-1931 poems only.",
      "top_pick": false
     },
     {
@@ -279,7 +279,7 @@
        "evidence": "inferred"
       }
      ],
-     "pd_note": "Published 1897 and the collection 1910, so it is PD in the US. Newbolt died 1938, so it is PD in the UK since 2009.",
+     "pd_note": "Published 1897 and the collection 1910, so it is PD in the US.",
      "top_pick": false
     },
     {
@@ -587,7 +587,7 @@
        "evidence": "inferred"
       }
      ],
-     "pd_note": "Published 1906 (pre-1931) so PD in the US; NOT PD in UK/EU until 2038 (Masefield d.1967). Flag for non-US users.",
+     "pd_note": "Published 1906, before 1931, so PD in the US.",
      "top_pick": false
     },
     {
@@ -616,7 +616,7 @@
        "evidence": "inferred"
       }
      ],
-     "pd_note": "1914; Sharp d.1924; PD everywhere. 'English Folk-Song: Some Conclusions' (1907) not checked this session.",
+     "pd_note": "1914; Sharp d. 1924. PD in the US. 'English Folk-Song: Some Conclusions' (1907) not checked this session.",
      "top_pick": false
     },
     {
@@ -645,7 +645,7 @@
        "evidence": "inferred"
       }
      ],
-     "pd_note": "1921 (pre-1931) so PD in US; Terry d.1938, PD in UK from 2009.",
+     "pd_note": "Published 1921, before 1931, so PD in the US.",
      "top_pick": true
     },
     {
@@ -805,7 +805,7 @@
        "evidence": "inferred"
       }
      ],
-     "pd_note": "Published 1684, author died 1688: PD everywhere. Dearmer's 1906 'He who would valiant be' version is also PD (pre-1931 in the US; Dearmer died 1936).",
+     "pd_note": "Published 1684; Bunyan died 1688. PD in the US. Dearmer's 1906 'He who would valiant be' version is also PD (published before 1931).",
      "top_pick": true
     },
     {
@@ -841,7 +841,7 @@
        "evidence": "work-exists"
       }
      ],
-     "pd_note": "Published 1906/1915, before 1931: PD in the US. Chesterton died 1936, so it is PD in life+70 countries too (since 2007).",
+     "pd_note": "Published 1906/1915, before 1931: PD in the US.",
      "top_pick": true
     },
     {
@@ -878,7 +878,7 @@
        "evidence": "inferred"
       }
      ],
-     "pd_note": "1906: PD in the US. Vaughan Williams died 1958, so his own harmonizations may still be in copyright in the UK/EU (life+70 runs to 2028). Old texts and folk tunes are fine.",
+     "pd_note": "1906: PD in the US. Old texts and folk tunes are fine.",
      "top_pick": true
     },
     {
@@ -1084,7 +1084,7 @@
        "evidence": "inferred"
       }
      ],
-     "pd_note": "Author died Feb 1918; first published by 1921. PD in the US (pre-1931) and in life+70 countries. Holst's THAXTED tune is PD in the UK (Holst died 1934).",
+     "pd_note": "Spring Rice died Feb 1918; first published by 1921, so PD in the US.",
      "top_pick": false
     }
    ],
@@ -1275,7 +1275,7 @@
        "checked": true
       },
       {
-       "site": "FadedPage (Canada PD) - Lewis, Surprised by Joy",
+       "site": "FadedPage, Lewis, Surprised by Joy",
        "id": "20150220",
        "url": "https://www.fadedpage.com/books/20150220/20150220.txt",
        "checked": true
@@ -1301,7 +1301,7 @@
        "evidence": "work-exists"
       }
      ],
-     "pd_note": "Rackham d. 1939: his illustrations are PD in the US because published 1910/1911. Armour d. 1943; translation 1910-11, PD in the US. Surprised by Joy (1955) is PD in Canada only (Lewis d. 1963) and STILL IN COPYRIGHT IN THE US, so quote only briefly, as fair use.",
+     "pd_note": "Rackham's illustrations and Armour's translation were published 1910-11, so they are PD in the US. Surprised by Joy (1955) is still in US copyright: quote it briefly, never host it.",
      "top_pick": false
     },
     {
@@ -1707,7 +1707,7 @@
        "evidence": "inferred"
       }
      ],
-     "pd_note": "First published 1889/1890; Lang d. 1912. PD worldwide. Gutenberg marks PD in USA.",
+     "pd_note": "First published 1889/1890; Lang d. 1912. Gutenberg marks PD in USA.",
      "top_pick": false
     },
     {
@@ -1742,7 +1742,7 @@
        "evidence": "primary"
       }
      ],
-     "pd_note": "Jones/Rackham/Chesterton edition 1912 - PD in US (pre-1931). Rackham d. 1939, Chesterton d. 1936 (PD in life+70 countries); Vernon Jones's death date not confirmed, so for non-US use prefer Townsend (#21, d. 1900).",
+     "pd_note": "The Jones/Rackham/Chesterton edition of 1912 was published before 1931, so it is PD in the US.",
      "top_pick": true
     },
     {
@@ -1785,7 +1785,7 @@
        "evidence": "work-cited-unconfirmed"
       }
      ],
-     "pd_note": "1894/1902, Kipling d. 1936. PD in US and in life+70 countries.",
+     "pd_note": "1894/1902, so PD in the US.",
      "top_pick": false
     },
     {
@@ -1822,7 +1822,7 @@
        "evidence": "inferred"
       }
      ],
-     "pd_note": "1856; Kingsley d. 1875. PD worldwide.",
+     "pd_note": "1856; Kingsley d. 1875. PD in the US.",
      "top_pick": false
     },
     {
@@ -1853,13 +1853,13 @@
       {
        "by": "Lewis",
        "type": "cited-work",
-       "statement": "Lewis's preface to George MacDonald: An Anthology (1946), in which he calls MacDonald his master. The book's existence and Lewis as editor confirmed on fadedpage.com (Canadian PD), but the preface text could not be retrieved through the tool, so the 'master' wording is NOT verbatim-confirmed.",
+       "statement": "Lewis's preface to George MacDonald: An Anthology (1946), in which he calls MacDonald his master. The book and Lewis as its editor were confirmed on fadedpage.com, but the preface text could not be retrieved, so the 'master' wording is not quoted.",
        "source": "George MacDonald: An Anthology (1946), https://www.fadedpage.com/showbook.php?pid=20140910",
        "verified": false,
        "evidence": "work-exists"
       }
      ],
-     "pd_note": "1872; MacDonald d. 1905. PD worldwide.",
+     "pd_note": "1872; MacDonald d. 1905. PD in the US.",
      "top_pick": true
     }
    ],
@@ -1924,7 +1924,7 @@
    ],
    "dropped": [
     "Lang, The Red True Story Book (1895, Gutenberg #27603, checked): real history (Joan of Arc, Wilson's Last Fight) - too long and grown-up for ages 3-6; move to Years 1-3.",
-    "Padraic Colum, The Children's Homer (1918; on Gutenberg as 'The Adventures of Odysseus and The Tales of Troy', #16867, checked) and The Children of Odin (1920, #24737, checked): both PD in US (pre-1929), but Colum d. 1972 so NOT PD in life+70 countries; also too long/advanced for ages 3-6 - better for Years 3-5.",
+    "Padraic Colum, The Children's Homer (1918; on Gutenberg as 'The Adventures of Odysseus and The Tales of Troy', #16867, checked) and The Children of Odin (1920, #24737, checked): both PD in the US, but too long and advanced for ages 3-6. Better for Years 3-5.",
     "Lewis 'master' quote from the MacDonald Anthology preface: could not fetch preface text (fadedpage pages return only catalogue metadata to the tool); kept as cited-work, verified:false.",
     "No Chesterton or Lewis statement found specifically on Andrew Lang or on Kingsley's The Heroes; regard marked inferred."
    ]

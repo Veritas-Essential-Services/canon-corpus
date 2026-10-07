@@ -24,7 +24,6 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 - Gautier's sixth commandment of chivalry ("war against the Infidel... without mercy") needs framing for children.
 - Wagner's myth is the root of Lewis's "Northernness", but Wagner's own writings carry known antisemitism. Present the myth and the Rackham pictures, not the man.
 - Newbolt's "play the game" school ethos: no Lewis statement found; Lewis disliked his own public school (inferred caution only). Keep Newbolt secondary.
-- Copyright outside the US: Masefield (d. 1967) and Padraic Colum (d. 1972) are PD in the US only. Vaughan Williams's own English Hymnal harmonizations run to 2028 in the UK/EU.
 - Johnson's "Every man thinks meanly of himself for not having been a soldier" (Boswell, 1778) is NOT yet verified against the text. Do not use it until checked.
 
 ## Poetry: Heroic, adventurous and vocational verse
@@ -45,7 +44,7 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 - **Fit:** These poems teach Christian courage without hope of easy victory: Alfred's 'joy without a cause'. It is the best single fit for this room.
 - **Lewis (secondary source):** "in those quaking days after the fall of France [...] [we] found ourselves quoting to one another stanza after stanza of the Ballad. There was nothing else to say". Lewis also defended the poem as 'permanent and dateless'. This is SECONDARY: quoted by Nicholas Milne, Mythlore 35.1 (2016), from Lewis's 'Period Criticism' (1946; repr. Of This and Other Worlds, 1982, pp. 147-52). The Lewis original was not fetched. — Milne, 'Chesterton's Ballad of the White Horse: From Conception to Critical Reception', Mythlore 35.1 (2016), https://dc.swosu.edu/cgi/viewcontent.cgi?article=1062&context=mythlore
 - **Lewis (secondary source):** "Here and there it achieves the heroic, the rarest quality in modern literature". Lewis said this in conversation, as recalled by George Sayer. It is SECONDARY: quoted in the same Milne Mythlore article, citing Sayer. — Milne, Mythlore 35.1 (2016), same URL
-- **Rights:** Both are pre-1930 publications, so they are PD in the US. Chesterton died 1936, so they are PD in the UK (life+70) since 2007. The Gutenberg header for Poems gives a 1916 edition.
+- **Rights:** Both are pre-1930 publications, so they are PD in the US. The Gutenberg header for Poems gives a 1916 edition.
 
 ### Thomas Babington Macaulay: Lays of Ancient Rome (Horatius)
 
@@ -65,7 +64,7 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 - **Chesterton (checked in his own text):** The real poetry, the "true romance" which Mr. Kipling has taught, is the romance of the division of labour and the discipline of all the trades. He sings the arts of peace much more accurately than the arts of war. And his main contention is vital and valuable. — Heretics, 1905, ch. 'On Mr. Rudyard Kipling and Making the World Small', https://www.gutenberg.org/cache/epub/470/pg470.txt (full text grep-checked)
 - **Chesterton (critical; checked in his own text):** The great gap in his mind is what may be roughly called the lack of patriotism--that is to say, he lacks altogether the faculty of attaching himself to any cause or community finally and tragically; for all finality must be tragic. He admires England, but he does not love her; for we admire things with reasons, but love them without reasons. — Heretics, 1905, same chapter, Gutenberg 470
 - **Lewis (the work is confirmed to exist):** Lewis wrote the essay 'Kipling's World', reprinted in They Asked for a Paper (1962) and Selected Literary Essays (1969). Its existence was confirmed from the lewisiana.nl essay bibliography, which dates first publication 1944 (it is usually cited as Literature and Life, 1948). The text was not fetched. His view, from memory and UNVERIFIED: he admired Kipling's celebration of work and craft but was uneasy with the 'inner ring' and professional cult. — https://lewisiana.nl/cslessays/index.htm; fadedpage They Asked for a Paper https://fadedpage.com/books/20150423/html.php
-- **Rights:** Barrack-Room Ballads (1892) and Rewards and Fairies (1910) were published before 1930, so they are PD in the US. Kipling died 1936. Use pre-1930 poems only.
+- **Rights:** Barrack-Room Ballads (1892) and Rewards and Fairies (1910) were published before 1931, so they are PD in the US. Use pre-1931 poems only.
 
 ### Sir Walter Scott: Marmion (1808); The Lay of the Last Minstrel (1805), Canto VI 'Breathes there the man'
 
@@ -84,7 +83,7 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 - **Fit:** These are sea-courage and team-duty poems that boys love to recite. KEEP AS SECONDARY.
 - **Lewis (our inference, not his words):** None found. INFERRED: Lewis would likely have treated 'Vitaï Lampada' public-school 'play the game' heroics with reserve; he disliked his own public school (Surprised by Joy). Drake's Drum fits his love of story better. — none found
 - **Chesterton (our inference, not his words):** None found. — none found
-- **Rights:** Published 1897 and the collection 1910, so it is PD in the US. Newbolt died 1938, so it is PD in the UK since 2009.
+- **Rights:** Published 1897 and the collection 1910, so it is PD in the US.
 
 ### Beowulf, tr. Francis B. Gummere; William Morris, Sigurd the Volsung: Beowulf (Gummere tr., 1909/1910 Harvard Classics); The Story of Sigurd the Volsung and the Fall of the Niblungs (1876)
 
@@ -199,7 +198,7 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 - **Why trust him:** ADDED. Terry, director of music at Westminster Cathedral and restorer of Tudor church music, learned these shanties as a boy from sailors; foreword by a shipowner who went to sea as a boy.
 - **Fit:** Clear introduction 'What a shanty is' plus words and tunes (Shenandoah etc.) - ready-made work-song memory pieces.
 - **Chesterton (our inference, not his words):** None found; inferred - Terry was a prominent Catholic musician of Chesterton's circle era. — n/a
-- **Rights:** 1921 (pre-1931) so PD in US; Terry d.1938, PD in UK from 2009.
+- **Rights:** Published 1921, before 1931, so PD in the US.
 
 ### Sir Walter Scott (ed.): Minstrelsy of the Scottish Border
 
@@ -225,7 +224,7 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 - **Why trust him:** Masefield, a former merchant sailor and later Poet Laureate, edited sea songs and chanteys from lived experience.
 - **Fit:** Sea ballads, naval songs and work chanteys - sailor's counterpart to a folk-song room.
 - **Lewis (our inference, not his words):** None found this session; inferred only. — n/a
-- **Rights:** Published 1906 (pre-1931) so PD in the US; NOT PD in UK/EU until 2038 (Masefield d.1967). Flag for non-US users.
+- **Rights:** Published 1906, before 1931, so PD in the US.
 
 ### Cecil J. Sharp (ed.): English Folk-Chanteys (with pianoforte accompaniment, introduction and notes)
 
@@ -233,7 +232,7 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 - **Why trust him:** Sharp was the leading field collector of English folk song, taking chanteys from old sailors with tunes.
 - **Fit:** Singable chanteys with music for the family to learn as work songs.
 - **Chesterton (our inference, not his words):** None found; inferred via Chesterton's Distributist esteem for popular, unpaid, communal art. — n/a
-- **Rights:** 1914; Sharp d.1924; PD everywhere. 'English Folk-Song: Some Conclusions' (1907) not checked this session.
+- **Rights:** 1914; Sharp d. 1924. PD in the US. 'English Folk-Song: Some Conclusions' (1907) not checked this session.
 
 ### George Wharton Edwards (illus.), intro by Hamilton Wright Mabie: The Book of Old English Ballads
 
@@ -324,7 +323,7 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 - **Fit:** The archetypal valiant-pilgrim hymn: constancy against lions, giants, hobgoblins and men's talk, sung by a knightly character, Mr. Valiant-for-truth.
 - **Lewis (secondary source):** Lewis wrote "The Vision of John Bunyan" (a 1962 BBC talk, printed in The Listener and collected in Selected Literary Essays, 1969). Confirmed to exist in the Lewis essay index (lewisiana.nl). A scholarly blog quotes it: "The light is sharp: it never comes through stained glass". The blog also quotes Lewis's 1916 letter: "just as a romance it is unsurpassed". These quotes are second-hand and were not checked against the book. Lewis also modelled his first Christian book, The Pilgrim's Regress (1933), on Bunyan. — https://lewisiana.nl/cslessays/index.htm ; https://apilgriminnarnia.com/2022/03/30/bunyan-writing-cs-lewis/
 - **Chesterton (our inference, not his words):** No verified Chesterton text on Bunyan was found. Come to Think of It (1930) is said to include a Bunyan piece. It is PD in the US as of 2026 (1930 works entered the US public domain on 1 Jan 2026), but no online full text was located and the essay was not confirmed. INFERRED: Chesterton respected Bunyan as a great English imaginative writer despite their Puritan/Catholic differences. — none fetched
-- **Rights:** Published 1684, author died 1688: PD everywhere. Dearmer's 1906 'He who would valiant be' version is also PD (pre-1931 in the US; Dearmer died 1936).
+- **Rights:** Published 1684; Bunyan died 1688. PD in the US. Dearmer's 1906 'He who would valiant be' version is also PD (published before 1931).
 
 ### ★ G. K. Chesterton: "A Hymn" ("O God of earth and altar"), in Poems (1915); English Hymnal 1906 #562, tune KING'S LYNN
 
@@ -332,7 +331,7 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 - **Why trust him:** Chesterton is one of the room's own touchstones. He wrote this for Dearmer's English Hymnal.
 - **Fit:** A manly prayer for the nation that asks God to smite and save, to take away pride rather than courage, and to lift up 'a single sword'.
 - **Chesterton (the work is confirmed to exist):** Chesterton's own hymn. — Poems, 1915, Gutenberg #31184
-- **Rights:** Published 1906/1915, before 1931: PD in the US. Chesterton died 1936, so it is PD in life+70 countries too (since 2007).
+- **Rights:** Published 1906/1915, before 1931: PD in the US.
 
 ### ★ Percy Dearmer (general editor) and Ralph Vaughan Williams (music editor): The English Hymnal (1906)
 
@@ -340,7 +339,7 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 - **Why trust him:** This is the classic Anglican hymnal. Vaughan Williams set English folk melodies (e.g. MONKS GATE, KING'S LYNN) to the strongest old texts.
 - **Fit:** This is the source book in which Bunyan's valour hymn and Chesterton's national hymn first appeared as congregational hymns.
 - **Chesterton (our inference, not his words):** INFERRED: Chesterton contributed 'O God of earth and altar' (#562) to it, so he plainly endorsed the project. — https://hymnary.org/hymn/EH1906/562
-- **Rights:** 1906: PD in the US. Vaughan Williams died 1958, so his own harmonizations may still be in copyright in the UK/EU (life+70 runs to 2028). Old texts and folk tunes are fine.
+- **Rights:** 1906: PD in the US. Old texts and folk tunes are fine.
 
 ### Martin Luther, tr. Thomas Carlyle: "Ein feste Burg", translated as "A safe stronghold our God is still" (Carlyle, 'Luther's Psalm', Fraser's Magazine 1831)
 
@@ -390,7 +389,7 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 - **Why trust him:** Spring Rice was the British ambassador to the US in the First World War. He revised the poem just before he died.
 - **Fit:** The vow of a man's service to two countries, the earthly one and the heavenly one whose 'ways are ways of gentleness'.
 - **Lewis (our inference, not his words):** None found. — none fetched
-- **Rights:** Author died Feb 1918; first published by 1921. PD in the US (pre-1931) and in life+70 countries. Holst's THAXTED tune is PD in the UK (Holst died 1934).
+- **Rights:** Spring Rice died Feb 1918; first published by 1921, so PD in the US.
 
 ### Quotations for Hymns
 
@@ -485,12 +484,12 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 
 ### Arthur Rackham: Illustrations to Wagner's Ring, trans. Margaret Armour: 'The Rhinegold & The Valkyrie' (1910) and 'Siegfried & The Twilight of the Gods' (1911)
 
-- **Source:** [Gutenberg 49507](https://www.gutenberg.org/ebooks/49507); [Gutenberg 48214](https://www.gutenberg.org/ebooks/48214); [FadedPage (Canada PD) - Lewis, Surprised by Joy 20150220](https://www.fadedpage.com/books/20150220/20150220.txt)
+- **Source:** [Gutenberg 49507](https://www.gutenberg.org/ebooks/49507); [Gutenberg 48214](https://www.gutenberg.org/ebooks/48214); [FadedPage, Lewis, Surprised by Joy 20150220](https://www.fadedpage.com/books/20150220/20150220.txt)
 - **Why trust him:** These very pictures set off Lewis's lifelong 'Northernness'. Rackham is the standard Edwardian illustrator of myth and fairy-tale.
 - **Fit:** Heroic Norse-Germanic subjects (Siegfried, the Valkyries, the dragon), drawn with the firm grotesque line Lewis loved.
 - **Lewis (checked in his own text):** I fell deeply under the spell of Dwarfs—the old bright-hooded, snowy-bearded dwarfs we had in those days before Arthur Rackham sublimed, or Walt Disney vulgarised, the earthmen. — Surprised by Joy, 1955, ch. III 'Mountbracken and Campbell', https://www.fadedpage.com/books/20150220/20150220.txt
 - **Lewis (the work is confirmed to exist):** Surprised by Joy ch. V 'Renaissance': Lewis saw the headline 'Siegfried and the Twilight of the Gods' with a Rackham picture in a periodical, and this produced his 'Northernness'. The sentence 'What I had read was the words Siegfried and the Twilight of the Gods.' was fetched verbatim. The following Rackham/'Pure Northernness' passage could NOT be fetched (WebFetch cut off the FadedPage text at about 120k characters), so it is UNVERIFIED. Scholarly confirmation of the episode: N. Feinendegen, 'Which Image Triggered C. S. Lewis's Enthusiasm for Wagner's Ring Cycle?', VII / C.S. Lewis journal (George Fox Digital Commons) 2022, abstract fetched. — https://www.fadedpage.com/books/20150220/20150220.txt (offset 100000); https://digitalcommons.georgefox.edu/cslewisjournal/vol16/iss1/2
-- **Rights:** Rackham d. 1939: his illustrations are PD in the US because published 1910/1911. Armour d. 1943; translation 1910-11, PD in the US. Surprised by Joy (1955) is PD in Canada only (Lewis d. 1963) and STILL IN COPYRIGHT IN THE US, so quote only briefly, as fair use.
+- **Rights:** Rackham's illustrations and Armour's translation were published 1910-11, so they are PD in the US. Surprised by Joy (1955) is still in US copyright: quote it briefly, never host it.
 
 ### John Everett Millais: The Boyhood of Raleigh
 
@@ -626,7 +625,7 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 - **Why trust him:** The oldest beast-fable stock of the West; this edition carries a Chesterton introduction, so it is literally endorsed by him. Townsend (d. 1900) was an Anglican clergyman.
 - **Fit:** Short beast fables teaching pluck, prudence and the fall of the proud: ideal first moral stories for a 3-6-year-old boy.
 - **Chesterton (checked in his own text):** "There can be no good fable with human beings in it." ... the fable teaches "that superiority is always insolent, because it is always accidental;" — Introduction to Aesop's Fables (Jones tr., 1912), https://www.gutenberg.org/cache/epub/11339/pg11339.txt
-- **Rights:** Jones/Rackham/Chesterton edition 1912 - PD in US (pre-1931). Rackham d. 1939, Chesterton d. 1936 (PD in life+70 countries); Vernon Jones's death date not confirmed, so for non-US use prefer Townsend (#21, d. 1900).
+- **Rights:** The Jones/Rackham/Chesterton edition of 1912 was published before 1931, so it is PD in the US.
 
 ### ★ George MacDonald: The Princess and the Goblin (1872)
 
@@ -634,8 +633,8 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 - **Why trust him:** Scottish minister and novelist; the one author both Chesterton and Lewis named as formative.
 - **Fit:** Curdie the miner's boy - brave, singing at the goblins, guarding the princess - is a model of a working boy's courage (read aloud at 5-6).
 - **Chesterton (secondary source):** "I for one can really testify to a book that has made a difference to my whole existence, which helped me to see things in a certain way from the start" ... "It is called The Princess and the Goblin, and is by George MacDonald" — Introduction to Greville MacDonald, George MacDonald and His Wife (1924); fetched from excerpt at https://www.worksofmacdonald.com/george-macdonald-and-his-wife/2023/7/20/excerpt-from-gk-chestertons-introduction-to-george-macdonald-and-his-wife (secondary site, not a scan)
-- **Lewis (the work is confirmed to exist):** Lewis's preface to George MacDonald: An Anthology (1946), in which he calls MacDonald his master. The book's existence and Lewis as editor confirmed on fadedpage.com (Canadian PD), but the preface text could not be retrieved through the tool, so the 'master' wording is NOT verbatim-confirmed. — George MacDonald: An Anthology (1946), https://www.fadedpage.com/showbook.php?pid=20140910
-- **Rights:** 1872; MacDonald d. 1905. PD worldwide.
+- **Lewis (the work is confirmed to exist):** Lewis's preface to George MacDonald: An Anthology (1946), in which he calls MacDonald his master. The book and Lewis as its editor were confirmed on fadedpage.com, but the preface text could not be retrieved, so the 'master' wording is not quoted. — George MacDonald: An Anthology (1946), https://www.fadedpage.com/showbook.php?pid=20140910
+- **Rights:** 1872; MacDonald d. 1905. PD in the US.
 
 ### Andrew Lang (ed.), illus. H. J. Ford: The Blue Fairy Book (1889); The Red Fairy Book (1890)
 
@@ -644,7 +643,7 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 - **Fit:** Full of giant-killers, youngest sons and dragon-slayers (Jack, the Brave Little Tailor, Soria Moria Castle, Sigurd in the Red book): courage tales a small boy can hear before he can read.
 - **Chesterton (our inference, not his words):** No direct Chesterton statement on Lang found in this session. INFERRED: Orthodoxy ch. 4 defends exactly these traditional nursery tales (naming 'Jack the Giant Killer', Cinderella, Beauty and the Beast), all of which Lang printed. — Orthodoxy (1908) ch. IV, https://www.gutenberg.org/cache/epub/130/pg130.txt
 - **Lewis (our inference, not his words):** None found in this session. INFERRED from Lewis's 'On Three Ways of Writing for Children' (1952) defence of fairy tales with 'brave knights and heroic courage'. — Of Other Worlds (1966)
-- **Rights:** First published 1889/1890; Lang d. 1912. PD worldwide. Gutenberg marks PD in USA.
+- **Rights:** First published 1889/1890; Lang d. 1912. Gutenberg marks PD in USA.
 
 ### Rudyard Kipling: Just So Stories (1902); The Jungle Book (1894)
 
@@ -653,7 +652,7 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 - **Fit:** Just So Stories are the right length and rhythm for ages 3-6; Mowgli and Rikki-Tikki-Tavi (Jungle Book) give the small boy fearless, dutiful animal heroes - better at the upper end (5-6).
 - **Chesterton (critical; checked in his own text):** Mixed. Praise: "Every thing is military in the sense that everything depends upon obedience." (describing Kipling's real merit). Criticism: "He admires England, but he does not love her; for we admire things with reasons, but love them without reasons." — Heretics (1905), ch. 'On Mr. Rudyard Kipling and Making the World Small', https://www.gutenberg.org/cache/epub/470/pg470.txt
 - **Lewis (cited, not confirmed):** Lewis wrote the essay 'Kipling's World' (lecture 1948; printed in They Asked for a Paper, 1962), a respectful but ambivalent assessment. Existence known; text not fetched this session. — They Asked for a Paper (1962)
-- **Rights:** 1894/1902, Kipling d. 1936. PD in US and in life+70 countries.
+- **Rights:** 1894/1902, so PD in the US.
 
 ### Charles Kingsley: The Heroes; or, Greek Fairy Tales for My Children (1856)
 
@@ -662,7 +661,7 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 - **Fit:** The archetypal hero-quest read-aloud (Perseus and the Gorgon, Theseus and the Minotaur); best for the 5-6 end of the room.
 - **Chesterton (our inference, not his words):** None found. INFERRED: fits Chesterton's 'chivalrous lesson' that giants (monsters) should be killed. Note Chesterton was not uncritical of Kingsley's 'muscular' Protestantism generally (not checked this session). — n/a
 - **Lewis (our inference, not his words):** None found. INFERRED: Lewis's love of Greek myth from childhood. — n/a
-- **Rights:** 1856; Kingsley d. 1875. PD worldwide.
+- **Rights:** 1856; Kingsley d. 1875. PD in the US.
 
 ### Quotations for Year 0 Books
 
@@ -699,7 +698,7 @@ Context file for the Word Hoard threads. Compiled 2026-10-06. Companion data: `m
 <details><summary>Left out, and why</summary>
 
 - Lang, The Red True Story Book (1895, Gutenberg #27603, checked): real history (Joan of Arc, Wilson's Last Fight) - too long and grown-up for ages 3-6; move to Years 1-3.
-- Padraic Colum, The Children's Homer (1918; on Gutenberg as 'The Adventures of Odysseus and The Tales of Troy', #16867, checked) and The Children of Odin (1920, #24737, checked): both PD in US (pre-1929), but Colum d. 1972 so NOT PD in life+70 countries; also too long/advanced for ages 3-6 - better for Years 3-5.
+- Padraic Colum, The Children's Homer (1918; on Gutenberg as 'The Adventures of Odysseus and The Tales of Troy', #16867, checked) and The Children of Odin (1920, #24737, checked): both PD in the US, but too long and advanced for ages 3-6. Better for Years 3-5.
 - Lewis 'master' quote from the MacDonald Anthology preface: could not fetch preface text (fadedpage pages return only catalogue metadata to the tool); kept as cited-work, verified:false.
 - No Chesterton or Lewis statement found specifically on Andrew Lang or on Kingsley's The Heroes; regard marked inferred.
 
