@@ -1,6 +1,7 @@
 ---
 model_log:
   - 2026-10-07 claude-opus-5-5 drafted
+  - 2026-10-07 claude-opus-5-5 added the feel, American poets, declamations, pictures
 fable_review: pending
 ---
 # The Schoolroom Treasury: Poetry and Song
@@ -9,10 +10,18 @@ Oct 7, 2026
 
 ## Aim
 
-One graded volume of English poems and songs published up to 1930: the pieces schoolchildren actually learned by heart, from nursery verse to Horatius at the bridge. Teachers will use it as the standard book, and children will bank its pieces in the Mnemonicon.
+One graded volume of English-language poems, British and American, and songs published up to 1930: the pieces schoolchildren actually learned by heart, from nursery verse to Horatius at the bridge. Teachers will use it as the standard book, and children will bank its pieces in the Mnemonicon.
 
 - **Reader:** the teacher or parent who reads it aloud, then the child who memorizes from it.
 - **First in the series.** The other volumes (nursery, fables, myth, Arthur, saints, mathematics, riddles, jokes, stories) copy its method.
+
+## The feel
+
+This is the book a schoolboy carried before television and video games, when adolescence had not yet been invented and a boy of twelve was expected to stand up and recite Horatius. It prizes nobility, courage, duty and faith, and it expects great things of the young reader.
+
+- **Touchstones Adam named:** Horatius at the bridge, On First Looking into Chapman's Homer, The Cremation of Sam McGee, Stevenson and "Yo ho ho, and a bottle of rum," Roosevelt's man in the arena, and Tolkien.
+- **Pictures:** Arthur Rackham, N. C. Wyeth and Howard Pyle (see Pictures below).
+- **Test for an editor's addition:** would a boy in 1910 have begged to learn it by heart?
 
 ## Selection rule
 
@@ -36,7 +45,69 @@ Only Lyra Heroica is checked so far. Every other row needs its edition and link 
 | Quiller-Couch, The Oxford Book of English Verse | 1900 | anthology | to confirm |
 | Percy, Reliques; Scott, Minstrelsy | 1765; 1802 | ballads | checked (see the masculine-counterparts file) |
 | British school readers and recitation books | 1850s–1930 | readers | to locate |
-| McGuffey's Eclectic Readers | 1836–1879 | American readers | to confirm; a check on the British list |
+| McGuffey's Eclectic Readers | 1836–1879 | American readers | to confirm; counts in the tally |
+| American recitation books (speakers, declaimers) | 1850s–1930 | readers | to locate; counts in the tally |
+
+## American poets
+
+American poems count in the tally on the same terms as British ones. Many of the classics are already in canon-corpus, in the AO catalog or the heroic addendum (PR #17).
+
+**Already catalogued:** Paul Revere's Ride, The Village Blacksmith, The Wreck of the Hesperus, Excelsior, A Psalm of Life, The Building of the Ship, Hiawatha and The Children's Hour (Longfellow); Concord Hymn (Emerson); Barbara Frietchie and The Barefoot Boy (Whittier); O Captain! My Captain! (Whitman); Battle Hymn of the Republic (Howe); Casey at the Bat (Thayer); The Raven, Annabel Lee and The Bells (Poe); Little Boy Blue and Wynken, Blynken, and Nod (Field); Little Orphant Annie and When the Frost Is on the Punkin (Riley); The Man with the Hoe (Markham); Trees (Kilmer); I Have a Rendezvous with Death (Seeger); Stopping by Woods and The Road Not Taken (Frost).
+
+**To add.** Every one of these was published before 1931, so all can be printed in full. Dates are first printings, to be confirmed against the pinned edition when each text is cut.
+
+| Poem | Poet | First printed | Why a boy would want it |
+| --- | --- | --- | --- |
+| Old Ironsides | Oliver Wendell Holmes | 1830 | a poem that saved a warship |
+| The Chambered Nautilus | Oliver Wendell Holmes | 1858 | "Build thee more stately mansions, O my soul" |
+| The Deacon's Masterpiece | Oliver Wendell Holmes | 1858 | the one-hoss shay, a comic tour de force |
+| The Skeleton in Armor | Henry Wadsworth Longfellow | 1841 | a Viking ballad |
+| Skipper Ireson's Ride | John Greenleaf Whittier | 1857 | a sea town's judgement |
+| Snow-Bound | John Greenleaf Whittier | 1866 | the American winter fireside |
+| Thanatopsis | William Cullen Bryant | 1817 | the great early American meditation |
+| The Present Crisis | James Russell Lowell | 1845 | "Once to every man and nation" |
+| The Star-Spangled Banner | Francis Scott Key | 1814 | the anthem, all four stanzas |
+| Sheridan's Ride | Thomas Buchanan Read | 1864 | a gallop to the battle, made for reciting |
+| The Bivouac of the Dead | Theodore O'Hara | 1847 | the soldier's elegy carved on cemetery gates |
+| The Conquered Banner | Abram J. Ryan | 1865 | the South's lament |
+| The Blue and the Gray | Francis Miles Finch | 1867 | North and South honoured together |
+| A Visit from St. Nicholas | Clement Clarke Moore | 1823 | the Christmas Eve recitation |
+| Columbus ("Sail on! sail on!") | Joaquin Miller | 1892 | perseverance in one refrain |
+| Richard Cory | Edwin Arlington Robinson | 1897 | for the older years |
+| The House by the Side of the Road | Sam Walter Foss | 1897 | "and be a friend to man" |
+| Abraham Lincoln Walks at Midnight | Vachel Lindsay | 1914 | Lincoln as the nation's watchman |
+| Derelict ("Fifteen men on the dead man's chest") | Young E. Allison | 1891 | the full pirate song built on Stevenson's chant |
+
+**Songs for the song half:** My Country, 'Tis of Thee (Samuel F. Smith, 1831), America the Beautiful (Katharine Lee Bates, 1895), Dixie (1859), When Johnny Comes Marching Home (1863), Home on the Range (printed by John Lomax, 1910) and Stephen Foster's songs.
+
+## Declamation pieces
+
+Schoolboys memorized speeches as well as poems, and the old speakers and McGuffey's printed them side by side. The volume gets a short prose section for them, graded like the poems.
+
+| Piece | Speaker | Year |
+| --- | --- | --- |
+| The Man in the Arena (from "Citizenship in a Republic") | Theodore Roosevelt | 1910 |
+| The Gettysburg Address | Abraham Lincoln | 1863 |
+| "Give me liberty, or give me death!" | Patrick Henry, as printed by William Wirt | 1775; printed 1817 |
+| Crispin's Day speech (Henry V) | Shakespeare | c. 1599 |
+
+## Pictures
+
+Every picture must come from a book printed before 1931; those are public domain in the US. The artist's death date does not matter, only the printing.
+
+| Artist | Pre-1931 books to draw from |
+| --- | --- |
+| Arthur Rackham | Rip Van Winkle (1905), A Midsummer Night's Dream (1908), the Ring (1910–11), Aesop (1912), Mother Goose (1913), The Romance of King Arthur (1917) |
+| N. C. Wyeth | Treasure Island (1911), Kidnapped (1913), The Black Arrow (1916), The Boy's King Arthur (1917), Robin Hood (1917), Robinson Crusoe (1920) |
+| Howard Pyle (Wyeth's teacher) | The Merry Adventures of Robin Hood (1883), The Story of King Arthur and His Knights (1903) |
+
+Robert Louis Stevenson is both a poet of the volume (A Child's Garden of Verses, 1885) and the source of "Fifteen men on the dead man's chest" (Treasure Island, 1883).
+
+## Tolkien
+
+Tolkien can set the feel but cannot be printed. The Hobbit (1937) and The Lord of the Rings (1954–55) are under US copyright, so his poems can be quoted briefly and linked, never printed in full.
+
+What can be printed in full are the old Northern sources he loved: Beowulf in a pre-1931 translation, the Elder Edda, the Kalevala, and William Morris's Sigurd the Volsung (1876).
 
 ## Grading
 
@@ -75,7 +146,9 @@ What is missing is the tally itself: the readers and anthologies, parsed into ro
 
 ## Steps
 
-- [ ] Merge PR #17 (the poetry catalog) and PR #18 (the sources file)
+- [x] Merge PR #18 (the sources file)
+- [ ] Merge PR #17 (the poetry catalog)
+- [ ] Add the American and declamation rows above to the catalog
 - [ ] Confirm editions and links for every source in the tally table
 - [ ] Parse each source into rows: first line, title, author, year printed, grade placed
 - [ ] Match rows across sources and rank by count
@@ -86,7 +159,6 @@ What is missing is the tally itself: the readers and anthologies, parsed into ro
 ## Open questions
 
 - Admission threshold: how many sources must carry a piece?
-- Should American readers count toward the tally, or serve only as a check?
 - One volume, or one book per band?
 
 Living copy (editable): https://claude.ai/code/artifact/8151c654-d39c-4d3e-bc8e-c3cc7f22457a
