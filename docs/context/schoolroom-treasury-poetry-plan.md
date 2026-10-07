@@ -3,6 +3,7 @@ model_log:
   - 2026-10-07 claude-opus-5-5 drafted
   - 2026-10-07 claude-opus-5-5 added the feel, American poets, declamations, pictures
   - 2026-10-07 claude-opus-5-5 recorded one-volume decision
+  - 2026-10-07 claude-opus-5-5 collect-then-cull decision; candidate pool built
 fable_review: pending
 ---
 # The Schoolroom Treasury: Poetry and Song
@@ -26,12 +27,11 @@ This is the book a schoolboy carried before television and video games, when ado
 
 ## Selection rule
 
-A piece earns its place by evidence, not by our taste: how many period school readers and anthologies carried it. That makes "every piece a schoolboy delighted to memorize" countable.
+**Decided (Adam, 2026-10-07): collect everything that fits the feel, then Adam culls.** There is no admission threshold. The count of books that carry a poem is a guide for culling, not a gate.
 
-1. Tally every poem in a fixed set of readers and anthologies (next section), matched across sources by first line and author.
-2. Rank by the number of sources that carry it, as the hymn manifest ranks hymns by hymnals.
-3. Admit everything above a threshold Adam sets, plus the AO list and the heroic addendum by right.
-4. Keep a short, named list of editor's additions below the threshold, each with a one-line reason.
+1. Gather many old anthologies: for boys and girls, and for men and women, plus school readers and recitation books.
+2. List every poem in them, matched across books by first line and author: the candidate pool in `data/poetry/pool/` (7,391 candidates from 55 books).
+3. Adam culls the pool. The AO list and the heroic addendum are already in.
 
 ## Sources to tally
 
@@ -110,6 +110,13 @@ Tolkien can set the feel but cannot be printed. The Hobbit (1937) and The Lord o
 
 What can be printed in full are the old Northern sources he loved: Beowulf in a pre-1931 translation, the Elder Edda, the Kalevala, and William Morris's Sigurd the Volsung (1876).
 
+## Alfred J. Church
+
+Adam wants every Church retelling for boys and girls, Homer first. They belong to the myth volume more than this one, but the shelf is gathered now: 43 books in `data/poetry/pool/sources.json` (shelf `church`), 17 texts saved.
+
+- The Iliad for Boys and Girls is an audiobook only on Gutenberg (PG 21584). Its text must come from the archive.org scan.
+- The Odyssey for Boys and Girls and Stories from Homer (the Flaxman-plate edition) are not on Gutenberg; scans exist on archive.org.
+
 ## Grading
 
 Each piece is placed in the earliest year that most of the readers placed it, with AO's year used where AO lists it.
@@ -155,12 +162,9 @@ What is missing is the tally itself: the readers and anthologies, parsed into ro
 - [ ] Confirm editions and links for every source in the tally table
 - [ ] Parse each source into rows: first line, title, author, year printed, grade placed
 - [ ] Match rows across sources and rank by count
-- [ ] Adam sets the admission threshold and reviews the editor's additions
+- [x] Build the candidate pool (`data/poetry/pool/`)
+- [ ] Adam culls the pool
 - [ ] Cut texts through the rights gate and grade them
 - [ ] Build the read-aloud edition and the Mnemonicon packs
-
-## Open questions
-
-- Admission threshold: how many sources must carry a piece?
 
 Living copy (editable): https://claude.ai/code/artifact/8151c654-d39c-4d3e-bc8e-c3cc7f22457a
