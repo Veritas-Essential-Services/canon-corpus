@@ -9,7 +9,7 @@ no corpus needed — fixtures inline. Run:  python3 tests/structure_test.py
 Split from patrimonium's tests/armarium_test.py at the 2026-07-22
 extraction: the converter checks live here; the engine checks live in the
 armarium repo's tests/armarium_test.py. 18 checks."""
-import os, sys, tempfile, importlib.util
+import os, sys, json, shutil, tempfile, importlib.util
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 PIPE = os.path.join(HERE, "..", "pipeline")
@@ -215,7 +215,10 @@ BDB_FIX = ("BDBid\tStrongNumber\tcontent\n"
            "BDB6\tH6_H8\t"
            '<h1><entry>BDB6</entry></h1><div class="navigation">BDB5 | BIBLICAL HEBREW | BDB7</div>'
            '<p><bdbheb>אַב</bdbheb> noun '
-           '<ref ref="Gen 24:12" b="1" cBegin="24" vBegin="12">Gen 24:12</ref></p>\n'
+           '<ref ref="Gen 24:12" b="1" cBegin="24" vBegin="12">Gen 24:12</ref> '
+           '<ref ref="Ps 51:3" b="19" cBegin="51" vBegin="3">Ps 51:3</ref> '
+           '<ref ref="Ps 51:1" b="19" cBegin="51" vBegin="1">Ps 51:1</ref> '
+           '<ref ref="Mal 4:1" b="39" cBegin="4" vBegin="1">Mal 4:1</ref></p>\n'
            "BDB7\t\t<h1>x</h1><p>no strongs equivalent</p>\n")
 with tempfile.NamedTemporaryFile("w", suffix=".tsv", delete=False, encoding="utf-8") as f:
     f.write(BDB_FIX); bdb_path = f.name
@@ -227,9 +230,16 @@ check("bdb: one entry can carry several Strong's numbers (H6_H8 -> two links)",
 check("bdb: header and prev|next navigation are furniture, stripped",
       "BIBLICAL HEBREW" not in b6["text"] and b6["text"].startswith("אַב"))
 scr = [l for l in b6["links"] if l["kind"] == "scripture"]
-check("bdb: scripture ref keeps the book number's OSIS and stays UNresolved",
-      scr and scr[0]["osis"] == "Gen.24.12" and scr[0]["resolved"] is False
-      and scr[0]["versification"] == "bhs")
+check("bdb: scripture ref keeps the book number's OSIS as stated, in Hebrew numbering",
+      scr and scr[0]["osis"] == "Gen.24.12" and scr[0]["versification"] == "bhs")
+check("bdb: a verse numbered alike in both schemes resolves to its kjv: unit id",
+      scr[0]["resolved"] is True and scr[0]["target"] == "kjv:Gen.24.12")
+check("bdb: Hebrew Ps 51:3 resolves to KJV Ps 51:1, the stated osis untouched",
+      scr[1]["osis"] == "Ps.51.3" and scr[1]["target"] == "kjv:Ps.51.1")
+check("bdb: Hebrew Ps 51:1 is the KJV's unnumbered title -- unresolved, and says why",
+      scr[2]["resolved"] is False and "title" in scr[2]["why"] and "target" not in scr[2])
+check("bdb: a reference naming no Hebrew verse stays unresolved (Mal has 3 chapters in Hebrew)",
+      scr[3]["osis"] == "Mal.4.1" and scr[3]["resolved"] is False and "target" not in scr[3])
 check("bdb: an entry with no Strong's number gets no strongs link",
       [l for l in bd["units"][1]["links"] if l["kind"] == "strongs"] == [])
 os.unlink(bdb_path)
@@ -290,8 +300,11 @@ check("prose: divisions numbered by their first section (1, 9) are SPANS, and ho
       and pb["scheme"]["resolution"] == "section")
 os.unlink(_sp_path)
 check("prose: every prose slug in the fetch manifest has an abbreviation, and back",
-      set(st.TEI_PROSE) <= set(load("fetch_sources").PERSEUS) | set(load("fetch_sources").FIRST1K)
-      and set(load("fetch_sources").FIRST1K) <= set(st.TEI_PROSE))
+      set(st.TEI_PROSE) <= (set(load("fetch_sources").PERSEUS) | set(load("fetch_sources").FIRST1K)
+                            | set(load("fetch_sources").CSEL))
+      and set(load("fetch_sources").FIRST1K) <= (set(st.TEI_PROSE) | set(st.CATENA)
+                                                   | set(st.CATENA_VERSES))
+      and set(load("fetch_sources").CSEL) <= set(st.TEI_PROSE))
 os.unlink(pr_path)
 
 # ---------------------------------------------------------- Perseus drama
@@ -370,6 +383,79 @@ check("drama: every play in the fetch manifest has a converter abbreviation, and
       {k for k in load("fetch_sources").PERSEUS if k.startswith(_dramatists)}
       == set(st.TEI_DRAMA))
 os.unlink(dr_path)
+# ---------------------------------------------------------------- Vulgate
+vd = tempfile.mkdtemp()
+with open(os.path.join(vd, "Ps.lat"), "w", encoding="cp1252", newline="\r\n") as f:
+    f.write("50:1 In finem. Psalmus David,\\\n"
+            "50:3 [Miserere mei, Deus,/ secundum magnam misericordiam tuam;]\n")
+with open(os.path.join(vd, "Ct.lat"), "w", encoding="cp1252", newline="\r\n") as f:
+    f.write("1:1 [<Sponsa>Osculetur me osculo oris sui:/ quia meliora sunt ubera tua vino,]\n"
+            "\n"
+            "1:2 et c\u0153li.\n")
+vg = st.convert_vulgate(vd, ["Ps", "Ct"], "pin")
+vu = {u["id"]: u for u in vg["units"]}
+check("vulgate: ids are the Vulgate's own numbering on OSIS books (Ps 50 stays 50)",
+      list(vu) == ["vulgate:Ps.50.1", "vulgate:Ps.50.3", "vulgate:Song.1.1", "vulgate:Song.1.2"])
+check("vulgate: '/' becomes a line break, brackets and the paragraph mark go",
+      vu["vulgate:Ps.50.3"]["text"] == "Miserere mei, Deus,\nsecundum magnam misericordiam tuam;"
+      and vu["vulgate:Ps.50.1"]["text"] == "In finem. Psalmus David,")
+check("vulgate: the marked line is kept as the file has it",
+      vu["vulgate:Ps.50.1"]["marked"] == "In finem. Psalmus David,\\")
+check("vulgate: a speaker heading is lifted out of the text",
+      vu["vulgate:Song.1.1"]["speakers"] == ["Sponsa"]
+      and vu["vulgate:Song.1.1"]["text"].startswith("Osculetur"))
+check("vulgate: read as cp1252 (the oe ligature survives)", "œ" in vu["vulgate:Song.1.2"]["text"])
+check("vulgate: scheme says Vulgate numbering; ids are not rewritten, links[] stays empty",
+      vg["scheme"]["versification"] == "vulgate"
+      and not any(u["links"] for u in vg["units"]))
+check("vulgate: each unit's `kjv` names the KJV verse by the committed map (Ps 50:3 = KJV 51:1)",
+      vu["vulgate:Ps.50.3"]["kjv"] == {"resolved": True, "target": "kjv:Ps.51.1"}
+      and vu["vulgate:Song.1.1"]["kjv"] == {"resolved": True, "target": "kjv:Song.1.2"})
+check("vulgate: a psalm title is not resolved, and says where it is in the KJV",
+      vu["vulgate:Ps.50.1"]["kjv"]["resolved"] is False
+      and vu["vulgate:Ps.50.1"]["kjv"]["kjv"] == ["Ps.51.title"])
+check("vulgate: the scheme counts resolved and unresolved units",
+      vg["scheme"]["kjv_resolved"] == 3 and vg["scheme"]["kjv_unresolved"] == 1)
+check("vulgate: the rights block travels with the book",
+      vg["rights"]["license"] == "public-domain" and "Clementine" in vg["rights"]["attribution"])
+shutil.rmtree(vd)
+
+# ---------------------------------------------------------------- Douay-Rheims
+dd = tempfile.mkdtemp()
+_books = [{"name": n, "chapters": []} for n in st.DOUAY_NAMES]
+_books[20]["chapters"] = [{"chapter": 50, "verses": [
+    {"verse": 3, "text": "Have mercy on me, O God,  according to thy great mercy."}]}]
+_books[58]["chapters"] = [{"chapter": 4, "verses": [
+    {"verse": 12, "text": "And we will not have you ignorant brethren, concerning them that are asleep"},
+    {"verse": 18, "text": ""}]}]
+_books.append({"name": "I Esdras", "chapters": [{"chapter": 1, "verses": [{"verse": 1, "text": "x"}]}]})
+with open(os.path.join(dd, "DRC.json"), "w", encoding="utf-8") as f:
+    json.dump({"books": _books}, f)
+_vb = ["Gn Ex Lv Nm Dt Jos Jdc Rt 1Rg 2Rg 3Rg 4Rg 1Par 2Par Esr Neh Tob Jdt Est Job Ps Pr Ecl Ct "
+       "Sap Sir Is Jr Lam Bar Ez Dn Os Joel Am Abd Jon Mch Nah Hab Soph Agg Zach Mal 1Mcc 2Mcc Mt "
+       "Mc Lc Jo Act Rom 1Cor 2Cor Gal Eph Phlp Col 1Thes 2Thes 1Tim 2Tim Tit Phlm Hbr Jac 1Ptr "
+       "2Ptr 1Jo 2Jo 3Jo Jud Apc"][0].split()
+dg = st.convert_douay(os.path.join(dd, "DRC.json"), _vb, "pin")
+du = {u["id"]: u for u in dg["units"]}
+check("douay: ids in the Vulgate's numbering; an empty padding verse gets no id; appendix not read",
+      list(du) == ["douay:Ps.50.3", "douay:1Thess.4.12"] and dg["scheme"]["empty_verses_dropped"] == 1)
+check("douay: whitespace runs collapse", du["douay:Ps.50.3"]["text"].count("  ") == 0)
+check("douay: the same number reads the same Clementine verse, and the KJV through the map",
+      du["douay:Ps.50.3"]["vulgate"] == ["vulgate:Ps.50.3"]
+      and du["douay:Ps.50.3"]["kjv"] == {"resolved": True, "target": "kjv:Ps.51.1"})
+check("douay: DOUAY_ROWS carries the Douay's own breaks (1 Thess 4:12 is the Clementine's 4:13)",
+      du["douay:1Thess.4.12"]["vulgate"] == ["vulgate:1Thess.4.13"]
+      and du["douay:1Thess.4.12"]["kjv"]["target"] == "kjv:1Thess.4.13")
+_books[20]["chapters"][0]["verses"][0]["verse"] = 99
+_books[0]["name"] = "Genesys"
+with open(os.path.join(dd, "DRC.json"), "w", encoding="utf-8") as f:
+    json.dump({"books": _books}, f)
+try:
+    st.convert_douay(os.path.join(dd, "DRC.json"), _vb, "pin"); _ok = False
+except ValueError:
+    _ok = True
+check("douay: a file whose books are not in the pinned order is refused", _ok)
+shutil.rmtree(dd)
 
 # ---------------------------------------------------------------- Thayer (OCR)
 import json as _json
@@ -984,10 +1070,237 @@ check("fathers: honesty names the printed edition whose numbering the ids are",
 check("fathers: outside First1KGreek the same markup is not taken for an original",
       "edition" not in _nb["source"] and "latin_letters" not in str(_nb["units"])
       and _nb["rights"]["attribution"].startswith("Perseus"))
+# An English translation from First1KGreek: the translator is the printed
+# book's author; the rights say translation, not edition.
+_EN = (_GK.replace('<div type="edition" xml:lang="grc">', '<div type="translation" xml:lang="eng">')
+       .replace('<editor>&gt;Otto Stählin</editor>', '<author>James, Montague Rhodes</author>')
+       .replace('<date>1905</date>', '<date>1924</date>'))
+_ep = os.path.join(_gd, "first1k", "en.xml")
+open(_ep, "w", encoding="utf-8").write(_EN)
+st.CORPUS = _gd
+_eb = st.convert_tei_prose(_ep, "en", "Act. Thom.")
+st.CORPUS = _saved[0]
+check("fathers: a First1KGreek translation names its translator and says so in the rights",
+      _eb["source"]["translator"] == "James, Montague Rhodes" and "edition" not in _eb["source"]
+      and "The translation is public domain (James, Montague Rhodes" in _eb["rights"]["note"]
+      and "(James, Montague Rhodes, 1924)" in _eb["scheme"]["honesty"])
+_open = open(_gp, encoding="utf-8").read().replace("<p>δέλτα", "<p>³δέλτα")
+open(_gp, "w", encoding="utf-8").write(_open)
+st.CORPUS = _gd
+st.TEI_PROSE_VERSE_NUMERALS.add("gk")
+_vb = st.convert_tei_prose(_gp, "gk", "1 En.")
+st.TEI_PROSE_VERSE_NUMERALS.discard("gk")
+st.CORPUS = _saved[0]
+check("fathers: a verse number glued to the verse's first word is dropped, and counted",
+      _vb["units"][-1]["text"] == "δέλτα" and "1 printed verse number(s)" in _vb["scheme"]["note"])
+# CSEL (Open Greek and Latin, Latin): the edition's rights and language,
+# the OCR caveat, and an unnumbered preface named by what it is.
+_CS = ('<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>De Anima</title>'
+       '<author>Tertullian</author></titleStmt><publicationStmt><availability><licence>CC BY-SA 4.0'
+       '</licence></availability></publicationStmt><sourceDesc><biblStruct><monogr><editor>Emil '
+       'Kroymann</editor><title>Opera</title><imprint><pubPlace>Vienna</pubPlace><date>1906</date>'
+       '</imprint></monogr></biblStruct></sourceDesc></fileDesc></teiHeader><text><body>'
+       '<div type="edition" xml:lang="lat"><div type="textpart" subtype="preface"><p>Praefatio.</p></div>'
+       '<div type="textpart" subtype="chapter" n="1"><p>Felix sacramentum aquae nostrae.</p></div>'
+       '</div></body></text></TEI>')
+os.makedirs(os.path.join(_gd, "csel"), exist_ok=True)
+_csp = os.path.join(_gd, "csel", "tertullian-de-baptismo-lat.xml")
+open(_csp, "w", encoding="utf-8").write(_CS)
+_csb = st.convert_tei_prose(_csp, "tertullian-de-baptismo-lat", "Tert. Bapt.")
+check("csel: a Latin edition, its rights read from the file, the OCR caveat in honesty",
+      _csb["source"]["language"] == "lat" and _csb["source"]["edition"]["date"] == "1906"
+      and "The Latin text is a public-domain printed edition (Emil Kroymann" in _csb["rights"]["note"]
+      and _csb["rights"]["source_url"].endswith("OpenGreekAndLatin/csel-dev")
+      and "NOT proofread" in _csb["scheme"]["honesty"] and ".." not in _csb["scheme"]["honesty"])
+check("csel: an unnumbered part is named by its subtype; a mislabelled title is fixed by slug",
+      [u["id"].split(":")[1] for u in _csb["units"]] == ["preface", "1"]
+      and _csb["title"] == "De Baptismo" and "latin_letters" not in str(_csb["units"]))
+# A Perseus file that is the Latin text itself (TEI_ORIGINAL): its edition
+# recorded and its rights say so, not "the translation is public domain".
+_po = _CS.replace("Emil Kroymann", "Franz Oehler").replace("1906", "1853")
+_pop = os.path.join(_gd, "perseus-orig.xml")
+open(_pop, "w", encoding="utf-8").write(_po)
+st.TEI_ORIGINAL.add("perseus-orig")
+_pob = st.convert_tei_prose(_pop, "perseus-orig", "Tert.")
+st.TEI_ORIGINAL.discard("perseus-orig")
+_pnb = st.convert_tei_prose(_pop, "perseus-orig", "Tert.")
+check("perseus: a listed original records its edition; its rights name the Latin edition",
+      _pob["source"].get("language") == "lat" and "Franz Oehler" in _pob["rights"]["note"]
+      and "The Latin text is a public-domain printed edition" in _pob["rights"]["note"]
+      and "edition" not in _pnb["source"] and "translation itself" in _pnb["rights"]["note"])
+# A catena (Cramer): kephalaia, margin verse numbers, a lemma that runs on
+# over a second mark, a page-line <lb n> left unplaced, a misprinted margin
+# placed by the measured file, an unplaced kephalaion, and a placement file
+# that no longer fits the source.
+_CT = ('<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Cat</title>'
+       '</titleStmt><sourceDesc><biblStruct><monogr><title>Catenae</title><imprint><date>1840</date>'
+       '</imprint></monogr></biblStruct></sourceDesc></fileDesc></teiHeader><text><body>'
+       '<div type="edition" xml:lang="grc">'
+       '<div type="textpart" subtype="chapter" n="1"><head>ΚΕΦ. Α.</head><p>Περὶ μάγων.</p>'
+       '<note type="marginal">1</note><p>Τοῦ δὲ Ἰησοῦ <note type="marginal">2</note>γεννηθέντος.</p>'
+       '<p>Χρυσοστόμου. ὅτι ἦλθον.</p><lb n="5"/><p>Ὠριγένους. οὐκ.</p>'
+       '<note type="marginal">9</note><p>Καὶ ἰδοὺ.</p>'
+       '</div><div type="textpart" subtype="chapter" n="2"><note type="marginal">1</note>'
+       '<p>Ἐν δὲ ταῖς ἡμέραις.</p></div>'
+       '<div type="textpart" subtype="chapter" n="3"><head>ΚΕΦ. Γ.</head><p>Λόγος.</p></div>'
+       '</div></body></text></TEI>')
+_cp = os.path.join(_gd, "first1k", "cat.xml")
+open(_cp, "w", encoding="utf-8").write(_CT)
+_cj = os.path.join(_gd, "cat.json")
+
+
+def _cat_placed(placed):
+    _json.dump({"honesty": "h", "placed": placed}, open(_cj, "w", encoding="utf-8"))
+
+
+_saved_cd = st.CATENA_DIR
+st.CATENA["cat"] = ("Cat. Matt.", "Matt", "MAT")
+st.CATENA_DIR, st.CORPUS = _gd, _gd
+_cm = [(i["ord"], i["k"], i["n"], i["src"]) for i in st.catena_marks(
+    st.tei_load(_cp).find(f".//{st.TEI_NS}body")) if i["kind"] == "mark"]
+_cat_placed([{"ord": 0, "k": "1", "n": "1", "src": "margin", "chapter": 2, "verse": 1, "score": 0.9},
+             {"ord": 2, "k": "1", "n": "9", "src": "margin", "chapter": 2, "verse": 3, "score": 0.2},
+             {"ord": 3, "k": "2", "n": "1", "src": "margin", "chapter": 3, "verse": 1, "score": 1.0}])
+_cb = st.convert_catena(_cp, "cat")
+_cu = {u["id"].split(":")[1]: u for u in _cb["units"]}
+_cat_placed([{"ord": 2, "k": "1", "n": "5", "src": "margin", "chapter": 2, "verse": 5, "score": 1.0}])
+try:
+    st.convert_catena(_cp, "cat"); _cbad = False
+except ValueError:
+    _cbad = True
+del st.CATENA["cat"]
+st.CATENA_DIR, st.CORPUS = _saved_cd, _saved[0]
+check("catena: candidates are margin numbers and bare <lb n>; a mark inside the lemma is not one",
+      _cm == [(0, "1", "1", "margin"), (1, "1", "5", "lb"), (2, "1", "9", "margin"),
+              (3, "2", "1", "margin")])
+check("catena: a placed mark is its chapter.verse; a mark inside the lemma makes a range",
+      list(_cu) == ["2.1-2", "2.3", "3.1", "k3"]
+      and [l["target"] for l in _cu["2.1-2"]["links"]] == ["kjv:Matt.2.1", "kjv:Matt.2.2"])
+check("catena: the heading and title before the first mark ride on the first unit",
+      _cu["2.1-2"]["apparatus"]["head"] == ["ΚΕΦ. Α.", "Περὶ μάγων."]
+      and _cu["2.1-2"]["text"] == "Τοῦ δὲ Ἰησοῦ γεννηθέντος. Χρυσοστόμου. ὅτι ἦλθον. Ὠριγένους. οὐκ.")
+check("catena: a misprinted margin is placed by the file, its printed number kept; weak below 0.3",
+      _cu["2.3"]["milestones"] == {"kephalaion": "1", "margin": "9"}
+      and _cu["2.3"]["links"][0]["match"] == "weak")
+check("catena: an unplaced kephalaion is one unlinked unit; a file that no longer fits fails",
+      _cu["k3"]["links"] == [] and _cbad)
+# A catena divided by verse in the file: the passage read off the urn
+# (both forms), the lemma and each father's comment their own units.
+_CV = _CT.split("<body>")[0] + ('<body><div type="edition" xml:lang="grc">'
+       '<div type="textpart" subtype="chapter" n="7"><head>ΚΕΦ.</head>'
+       '<div type="textpart" subtype="verse" n="9">'
+       '<div type="textpart" subtype="comment" n="verse" corresp="urn:cts:greekLit:tlg0031.tlg006:7.9-7.10">'
+       '<p>Ἐγὼ δὲ ἔζων.</p></div>'
+       '<div type="textpart" subtype="comment" n="1" corresp="#Chrysostom"><p>Τί ἐστιν.</p></div></div>'
+       '<div type="textpart" subtype="verse" n="28" corresp="urn:cts:greekLit:tlg0031.tlg006:8.28-29">'
+       '<p>Οἴδαμεν.</p></div></div></div></body></text></TEI>')
+_cvp = os.path.join(_gd, "first1k", "cv.xml")
+open(_cvp, "w", encoding="utf-8").write(_CV)
+st.CATENA_VERSES["cv"] = ("Cat. Rom.", "Rom")
+st.CORPUS = _gd
+_cvb = st.convert_catena_verses(_cvp, "cv")
+open(_cvp, "w", encoding="utf-8").write(_CV.replace("8.28-29", "7.28-29"))
+try:
+    st.convert_catena_verses(_cvp, "cv")
+    _cvbad = False
+except ValueError:
+    _cvbad = True
+del st.CATENA_VERSES["cv"]
+st.CORPUS = _saved[0]
+_cvu = {u["id"].split(":")[1]: u for u in _cvb["units"]}
+check("catena by verse: an encoded verse the KJV does not have (Rom 7:28) fails loudly", _cvbad)
+check("catena by verse: ids from the passage urn (7.9-7.10 and 8.28-29), a comment per father",
+      list(_cvu) == ["7.9-10", "7.9-10.c1", "8.28-29"] and _cvu["7.9-10.c1"]["by"] == "Chrysostom"
+      and [l["target"] for l in _cvu["7.9-10"]["links"]] == ["kjv:Rom.7.9", "kjv:Rom.7.10"]
+      and _cvu["7.9-10"]["apparatus"]["head"] == ["ΚΕΦ."] and _cvu["7.9-10"]["text"] == "Ἐγὼ δὲ ἔζων.")
+_pc = load("place_catena")
+_nt = {1: {1: {"αλφα", "βητα", "γαμμα"}, 5: {"δελτα", "εψιλον", "ζητα"}},
+       2: {1: {"ηλιος", "θαλασσα", "ιωτα"}, 2: {"καππα", "λαμβδα", "μυ"}}}
+_pg = _pc.place([(0, "1", "1", "margin", {"αλφα", "βητα", "γαμμα"}),
+                 (1, "1", "5", "lb", {"ουδεν", "αλλο", "τουτο"}),
+                 (2, "2", "1", "margin", {"ηλιος", "θαλασσα", "ιωτα"}),
+                 (3, "2", "9", "margin", {"καππα", "λαμβδα", "μυ"})], _nt)
+check("place_catena: chapters advance; a page-line <lb> is left out; a wrong margin is read by its lemma",
+      _pg == {0: (1, 1, 1.0), 2: (2, 1, 1.0), 3: (2, 2, 1.0)})
+_pg2 = _pc.place([(0, "1", "1", "lb", {"αλφα", "βητα", "γαμμα"}),
+                  (1, "1", "5", "lb", {"δελτα", "εψιλον", "ζητα"}),
+                  (2, "2", "2", "lb", {"ουδεν", "αλλο", "τουτο"})], _nt)
+check("place_catena: a bare number not a multiple of 5 is a printed verse; a multiple of 5 must "
+      "earn it; one with no evidence (score under 0.1) is not placed, so links to nothing",
+      _pg2 == {0: (1, 1, 1.0), 1: (1, 5, 1.0)})
+_ct2 = st.ET.fromstring('<body xmlns="http://www.tei-c.org/ns/1.0"><div subtype="chapter" n="sup1">'
+                        '<lb n="7"/><p>α</p></div><div subtype="chapter" n="1"><lb n="7"/><p>β</p>'
+                        '</div></body>')
+check("catena: numbers in the supplement, contents or index are never verse candidates",
+      [i["k"] for i in st.catena_marks(_ct2) if i["kind"] == "mark"] == ["1"])
+check("place_catena: two shared words are not a 100% match for a two-word lemma",
+      _pc.score({"αλφα", "βητα"}, {"αλφα", "βητα", "γαμμα", "δελτα"}) < 0.7)
 _bt, _br, _bf = st.tei_brackets("ὑψηλῷ [cf. Deut., v, 45]· εὐ[fol. 51]δαιμονίαν [καὶ] [ΙS., II, 2] τε [?]")
 check("fathers: bracketed references and folios lifted; Greek supplements stay",
       _bt == "ὑψηλῷ· εὐδαιμονίαν [καὶ] τε [?]" and _br == ["cf. Deut., v, 45", "ΙS., II, 2"]
       and _bf == ["51"])
+# Brenton's English Septuagint (eBible USFM in a zip). Fixture is invented
+# text in eBible's markup; the kjv fields come from the committed map.
+import zipfile as _zf
+_bz = os.path.join(_tf.mkdtemp(), "eng-Brenton_usfm.zip")
+with _zf.ZipFile(_bz, "w") as _z:
+    _z.writestr("19-PSAeng-Brenton.usfm",
+                "\\id PSA - Brenton\n\\h Psalms \n\\c 50  \n\\d\n\\v 1 For the end, a Psalm,  \n"
+                "\\v 2 when Nathan came.   \n\\p\n\\v 3 \\sc Have\\sc* mercy \\f + \\fr 50:3 "
+                "\\fqa Gr. \\ft pity.\\f*upon me.  \n")
+    _z.writestr("18-NEHeng-Brenton.usfm", "\\id NEH\n\\h Nehemiah\n\\c 1\n\\v 1 skipped\n")
+    _z.writestr("27-LAMeng-Brenton.usfm",
+                "\\id LAM\n\\h Lamentations \n\\c 1  \n\\p [And it came to pass, and said]  \n"
+                "\\p\n\\v 1 \\sc Aleph.\\sc* How does the city sit solitary!   \n")
+    _z.writestr("12-1KIeng-Brenton.usfm",
+                "\\id 1KI\n\\h 3 Kingdoms\n\\c 12\n\\v 24a And king Solomon slept.\n")
+_bb = st.convert_brenton(_bz, "pin")
+_bu = {u["id"]: u for u in _bb["units"]}
+check("brenton: ids are Brenton's own numbering (Ps 50 stays 50, a lettered verse keeps its "
+      "letter, the text before Lam 1:1 is verse 0); eBible's KJV-numbered NEH is not read",
+      list(_bu) == ["brenton:1Kgs.12.24a", "brenton:Ps.50.1", "brenton:Ps.50.2",
+                    "brenton:Ps.50.3", "brenton:Lam.1.0", "brenton:Lam.1.1"])
+check("brenton: notes leave the text for `notes`; character markers go; `marked` is as is",
+      _bu["brenton:Ps.50.3"]["text"] == "Have mercy upon me."
+      and "pity" in _bu["brenton:Ps.50.3"]["notes"][0]
+      and _bu["brenton:Ps.50.3"]["marked"].startswith("\\sc Have"))
+check("brenton: each unit's `kjv` comes from the committed map (Ps 50:3 = KJV 51:1)",
+      _bu["brenton:Ps.50.3"]["kjv"] == {"resolved": True, "target": "kjv:Ps.51.1"}
+      and _bu["brenton:Ps.50.1"]["kjv"]["kjv"] == ["Ps.51.title"]
+      and _bu["brenton:1Kgs.12.24a"]["kjv"]["resolved"] is False
+      and _bu["brenton:Lam.1.0"]["kjv"]["resolved"] is False)
+check("brenton: scheme and rights say what the book is",
+      _bb["scheme"]["versification"] == "lxx-brenton"
+      and _bb["rights"]["license"] == "public-domain")
+
+# Review fixes, 2026-10-03
+_seen = {}
+check("catena: a second section on one verse is id + b, not an order-dependent ~2",
+      [st.catena_sid("9.20", _seen) for _ in range(3)] == ["9.20", "9.20b", "9.20c"])
+check("catena: the Byzantine Romans doxology links to the KJV's 16:25-27",
+      st.CATENA_KJV_MOVED[("Rom", 14, 24)] == (16, 25) and st.CATENA_KJV_MOVED[("Rom", 14, 26)] == (16, 27))
+check("edition date: a sourceDesc date the CSEL volume contradicts is corrected, the file's kept",
+      st.EDITION_DATE_FIX[("Emil Kroymann", "1900")] == "1906")
+import xml.etree.ElementTree as ET
+_tei31 = ET.fromstring(
+    '<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><sourceDesc><biblStruct>'
+    '<monogr><editor>X</editor><title>T</title><imprint><date>1933</date></imprint></monogr>'
+    '</biblStruct></sourceDesc></fileDesc></teiHeader><text><body/></text></TEI>')
+try:
+    st.perseus_rights(_tei31, os.path.join(st.CORPUS, "csel", "x-lat.xml"))
+    _gate = False
+except ValueError:
+    _gate = True
+check("rights: an OGL edition dated 1931 or later is refused, not labelled", _gate)
+
+# Share-alike books are not served whole until Adam rules (st.SHARE_ALIKE_WHOLE)
+import json as _json
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "books",
+                       "manifest.json"), encoding="utf-8") as _f:
+    _man = _json.load(_f)
+_sa = [e for e in _man.values() if (e.get("rights") or {}).get("license") == "CC BY-SA 4.0"]
+check("rights: every CC BY-SA book in the manifest says not to serve it whole",
+      st.SHARE_ALIKE_WHOLE is False and _sa and all(e["rights"]["redistribute_whole"] is False for e in _sa))
 
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

@@ -37,7 +37,12 @@ RAW = "https://raw.githubusercontent.com/PerseusDL/{repo}/master/data/{path}"
 # a critical edition, where a country grants one at all (Germany: 25 years
 # from publication, s.70 UrhG), is long expired. Taken only where the
 # sourceDesc date is before 1931.
-F1K_RAW = "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/{path}"
+# Pinned to the commit every file's sha256 was measured at (the Apostolic
+# Fathers' build pins the same one), so a later push upstream cannot change
+# what a fetch returns.
+F1K_COMMIT = "03776b39f4047c5cff06f5296fae4b2bae4b08fb"
+F1K_RAW = ("https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/"
+           + F1K_COMMIT + "/data/{path}")
 
 # slug -> (path, note)
 FIRST1K = {
@@ -193,6 +198,343 @@ FIRST1K = {
     "passio-perpetuae-grc": ("tlg2016/tlg001/tlg2016.tlg001.1st1K-grc1.xml",
         "The Passion of Perpetua and Felicity, Greek version -- ed. J. Armitage Robinson "
         "(Cambridge UP, 1891)"),
+    # Wave 4, 2026-10-02: early Christian apocrypha and pseudepigrapha. Two
+    # ENGLISH witnesses: M. R. James, The Apocryphal New Testament (Oxford,
+    # 1924) -- published before 1931; James died 1936, so public domain in
+    # life+70 countries too. NOT taken:
+    #   - Enoch in Flemming & Radermacher (1901): their German of the
+    #     Ethiopic is interleaved (6,486 Latin-letter words); Swete taken;
+    #   - Cramer's NT catenae (1838-44): one unit per chapter of the catena,
+    #     too coarse to cite; they want their own verse-keyed converter.
+    "acts-of-thomas-grc": ("tlg2038/tlg001/tlg2038.tlg001.1st1K-grc1.xml",
+        "Acts of Thomas -- Greek, ed. Maximilian Bonnet (Leipzig: Mendelssohn, 1903)"),
+    "acts-of-thomas-james": ("tlg2038/tlg001/tlg2038.tlg001.1st1K-eng1.xml",
+        "Acts of Thomas -- English, M. R. James, The Apocryphal New Testament (Oxford, 1924)"),
+    "acts-of-philip-grc": ("tlg2948/tlg001/tlg2948.tlg001.1st1K-grc1.xml",
+        "Acts of Philip -- Greek, ed. Bonnet (1903)"),
+    "acts-of-philip-james": ("tlg2948/tlg001/tlg2948.tlg001.1st1K-eng1.xml",
+        "Acts of Philip -- English, M. R. James (1924), abridged"),
+    "acts-of-barnabas-grc": ("tlg2949/tlg001/tlg2949.tlg001.1st1K-grc1.xml",
+        "Acts of Barnabas -- Greek, ed. Bonnet (1903)"),
+    "testament-of-abraham-a-grc": ("tlg1701/tlg001/tlg1701.tlg001.1st1K-grc1.xml",
+        "Testament of Abraham, long recension (A) -- Greek, ed. M. R. James (Cambridge UP, 1892)"),
+    "testament-of-abraham-b-grc": ("tlg1701/tlg002/tlg1701.tlg002.1st1K-grc1.xml",
+        "Testament of Abraham, short recension (B) -- Greek, ed. James (1892)"),
+    "lives-of-prophets-dorotheus-grc": ("tlg1750/tlg001/tlg1750.tlg001.1st1K-grc1.xml",
+        "Lives of the Prophets, recension of Pseudo-Dorotheus -- Greek, ed. Theodor Schermann "
+        "(Teubner, 1907)"),
+    "lives-of-prophets-anonymous-grc": ("tlg1750/tlg002/tlg1750.tlg002.1st1K-grc1.xml",
+        "Lives of the Prophets, anonymous recension -- Greek, ed. Schermann (1907)"),
+    "enoch-swete-grc": ("tlg1463/tlg001/tlg1463.tlg001.1st1K-grc1.xml",
+        "1 Enoch, the Greek fragments (1-32, 89) -- ed. H. B. Swete, The Old Testament in Greek "
+        "III (Cambridge UP, 1905)"),
+    # Cramer's catenae (2026-10-02), through convert_catena, not the prose
+    # converter: see CATENA in structure_texts.py. Every book Cramer
+    # printed with verse marks. NOT taken: his three "Supplementum et
+    # varietas lectionis" (tlg003, 006, 007), which are variant readings by
+    # page and line, not comments. The Munich-type Romans (tlg011) and Jude
+    # (tlg046) are divided by verse in the file: CATENA_VERSES reads them.
+    "catena-matthew-cramer-grc": ("tlg4102/tlg001/tlg4102.tlg001.1st1K-grc1.xml",
+        "Catena on Matthew (Paris. Coislin. 23 etc.) -- Greek, ed. J. A. Cramer, Catenae Graecorum "
+        "Patrum in Novum Testamentum I (Oxford, 1840)"),
+    "catena-mark-cramer-grc": ("tlg4102/tlg002/tlg4102.tlg002.1st1K-grc1.xml",
+        "Catena on Mark -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum I "
+        "(Oxford, 1840)"),
+    "catena-luke-cramer-grc": ("tlg4102/tlg004/tlg4102.tlg004.1st1K-grc1.xml",
+        "Catena on Luke -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum II "
+        "(Oxford, 1841)"),
+    "catena-john-cramer-grc": ("tlg4102/tlg005/tlg4102.tlg005.1st1K-grc1.xml",
+        "Catena on John -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum II "
+        "(Oxford, 1841)"),
+    "catena-acts-cramer-grc": ("tlg4102/tlg008/tlg4102.tlg008.1st1K-grc1.xml",
+        "Catena on Acts -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum III "
+        "(Oxford, 1838)"),
+    "catena-romans-cramer-grc": ("tlg4102/tlg010/tlg4102.tlg010.1st1K-grc1.xml",
+        "Catena on Romans (Vatican type) -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum IV "
+        "(Oxford, 1844)"),
+    "catena-1corinthians-cramer-grc": ("tlg4102/tlg012/tlg4102.tlg012.1st1K-grc1.xml",
+        "Catena on 1 Corinthians -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum V "
+        "(Oxford, 1841)"),
+    "catena-2corinthians-cramer-grc": ("tlg4102/tlg013/tlg4102.tlg013.1st1K-grc1.xml",
+        "Catena on 2 Corinthians -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum V "
+        "(Oxford, 1841)"),
+    "catena-galatians-cramer-grc": ("tlg4102/tlg019/tlg4102.tlg019.1st1K-grc1.xml",
+        "Catena on Galatians -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VI "
+        "(Oxford, 1842)"),
+    "catena-ephesians-cramer-grc": ("tlg4102/tlg020/tlg4102.tlg020.1st1K-grc1.xml",
+        "Catena on Ephesians -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VI "
+        "(Oxford, 1842)"),
+    "catena-philippians-cramer-grc": ("tlg4102/tlg021/tlg4102.tlg021.1st1K-grc1.xml",
+        "Catena on Philippians -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VI "
+        "(Oxford, 1842)"),
+    "catena-colossians-cramer-grc": ("tlg4102/tlg022/tlg4102.tlg022.1st1K-grc1.xml",
+        "Catena on Colossians -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VI "
+        "(Oxford, 1842)"),
+    "catena-1thessalonians-cramer-grc": ("tlg4102/tlg023/tlg4102.tlg023.1st1K-grc1.xml",
+        "Catena on 1 Thessalonians -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VI "
+        "(Oxford, 1842)"),
+    "catena-2thessalonians-cramer-grc": ("tlg4102/tlg024/tlg4102.tlg024.1st1K-grc1.xml",
+        "Catena on 2 Thessalonians -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VI "
+        "(Oxford, 1842)"),
+    "catena-1timothy-cramer-grc": ("tlg4102/tlg034/tlg4102.tlg034.1st1K-grc1.xml",
+        "Catena on 1 Timothy -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VII "
+        "(Oxford, 1843)"),
+    "catena-2timothy-cramer-grc": ("tlg4102/tlg035/tlg4102.tlg035.1st1K-grc1.xml",
+        "Catena on 2 Timothy -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VII "
+        "(Oxford, 1843)"),
+    "catena-titus-cramer-grc": ("tlg4102/tlg036/tlg4102.tlg036.1st1K-grc1.xml",
+        "Catena on Titus -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VII "
+        "(Oxford, 1843)"),
+    "catena-philemon-cramer-grc": ("tlg4102/tlg037/tlg4102.tlg037.1st1K-grc1.xml",
+        "Catena on Philemon -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VII "
+        "(Oxford, 1843)"),
+    "catena-hebrews-cramer-grc": ("tlg4102/tlg038/tlg4102.tlg038.1st1K-grc1.xml",
+        "Catena on Hebrews -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VII "
+        "(Oxford, 1843)"),
+    "catena-james-cramer-grc": ("tlg4102/tlg040/tlg4102.tlg040.1st1K-grc1.xml",
+        "Catena on James -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VIII "
+        "(Oxford, 1840)"),
+    "catena-1peter-cramer-grc": ("tlg4102/tlg041/tlg4102.tlg041.1st1K-grc1.xml",
+        "Catena on 1 Peter -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VIII "
+        "(Oxford, 1840)"),
+    "catena-2peter-cramer-grc": ("tlg4102/tlg042/tlg4102.tlg042.1st1K-grc1.xml",
+        "Catena on 2 Peter -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VIII "
+        "(Oxford, 1840)"),
+    "catena-1john-cramer-grc": ("tlg4102/tlg043/tlg4102.tlg043.1st1K-grc1.xml",
+        "Catena on 1 John -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VIII "
+        "(Oxford, 1840)"),
+    "catena-2john-cramer-grc": ("tlg4102/tlg044/tlg4102.tlg044.1st1K-grc1.xml",
+        "Catena on 2 John -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VIII "
+        "(Oxford, 1840)"),
+    "catena-3john-cramer-grc": ("tlg4102/tlg045/tlg4102.tlg045.1st1K-grc1.xml",
+        "Catena on 3 John -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum VIII "
+        "(Oxford, 1840)"),
+    "catena-romans-monacensis-cramer-grc": ("tlg4102/tlg011/tlg4102.tlg011.1st1K-grc1.xml",
+        "Catena on Romans 7-16 (Munich type, the fathers named) -- Greek, ed. J. A. Cramer, "
+        "Catenae Graecorum Patrum in Novum Testamentum IV (Oxford, 1844)"),
+    "catena-jude-cramer-grc": ("tlg4102/tlg046/tlg4102.tlg046.1st1K-grc1.xml",
+        "Catena on Jude -- Greek, ed. J. A. Cramer, Catenae Graecorum Patrum in Novum "
+        "Testamentum VIII (Oxford, 1840)"),
+}
+
+
+# CSEL (Corpus Scriptorum Ecclesiasticorum Latinorum, Vienna) -- the Latin
+# FATHERS, 2026-10-02, from OpenGreekAndLatin/csel-dev: each the TEI of a
+# CSEL volume published 1867-1922 (all before 1931; the Latin text has no
+# author's right and any editor's right is long expired), OCR'd and
+# machine-corrected by Leipzig, licence CC BY-SA 4.0 read from each file.
+# The text is NOT proofread: the books say so. NOT taken:
+#   - verse (Commodian; Lactantius' Phoenix and De passione; Augustine's
+#     Psalmus contra partem Donati): no prose divisions to cite;
+#   - stoa0040.stoa054.opp-lat2: the excerpts from Augustine's De natura et
+#     gratia printed in Zangemeister's Orosius (CSEL 5, 1882), not the work
+#     itself;
+#   - Cyprian: not in csel-dev; Jerome beyond the Letters and Jeremiah, and
+#     Augustine's sermons and Psalms: not there either.
+CSEL_COMMIT = "2813e3a52b4206df0324299e5110e5bd0d95cee4"   # pinned as F1K_COMMIT is
+CSEL_RAW = ("https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/"
+            + CSEL_COMMIT + "/data/{path}")
+CSEL = {
+    "ambrose-apologia-david-altera-lat": ("stoa0022/stoa014/stoa0022.stoa014.opp-lat1.xml",
+        "Apologia Altera Prophetae David -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-apologia-david-lat": ("stoa0022/stoa015/stoa0022.stoa015.opp-lat1.xml",
+        "Apologia Prophetae David Ad Theodosium Augustum -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-de-benedictionibus-patriarcharum-lat": ("stoa0022/stoa019/stoa0022.stoa019.opp-lat1.xml",
+        "De Benedictionibus Patriarcharum Liber Unus -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-de-cain-et-abel-lat": ("stoa0022/stoa021/stoa0022.stoa021.opp-lat1.xml",
+        "De Cain et Abel -- ed. Karl Schenkl, CSEL 32.1 (1896)"),
+    "ambrose-de-helia-lat": ("stoa0022/stoa025/stoa0022.stoa025.opp-lat1.xml",
+        "De Helia et Ieiunio -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-de-fuga-saeculi-lat": ("stoa0022/stoa029/stoa0022.stoa029.opp-lat1.xml",
+        "De Fuga Saeculi -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-de-interpellatione-iob-lat": ("stoa0022/stoa032/stoa0022.stoa032.opp-lat1.xml",
+        "De Interpellatione Iob et David -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-de-iacob-lat": ("stoa0022/stoa034/stoa0022.stoa034.opp-lat1.xml",
+        "De Iacob -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-de-ioseph-lat": ("stoa0022/stoa035/stoa0022.stoa035.opp-lat1.xml",
+        "De Joseph -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-de-nabuthae-lat": ("stoa0022/stoa038/stoa0022.stoa038.opp-lat1.xml",
+        "De Nabuthae -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-de-noe-lat": ("stoa0022/stoa039/stoa0022.stoa039.opp-lat1.xml",
+        "De Noe -- ed. Karl Schenkl, CSEL 32.1 (1896)"),
+    "ambrose-de-paradiso-lat": ("stoa0022/stoa042/stoa0022.stoa042.opp-lat1.xml",
+        "De Paradiso -- ed. Karl Schenkl, CSEL 32.1 (1896)"),
+    "ambrose-de-tobia-lat": ("stoa0022/stoa044/stoa0022.stoa044.opp-lat1.xml",
+        "De Tobia -- ed. Karl Schenkl, CSEL 32.2 (1897)"),
+    "ambrose-explanatio-psalmorum-xii-lat": ("stoa0022/stoa048/stoa0022.stoa048.opp-lat1.xml",
+        "Explanatio Psalmorum XII -- ed. Michael Petschenig, CSEL 64 (1919)"),
+    "ambrose-expositio-lucam-lat": ("stoa0022/stoa051/stoa0022.stoa051.opp-lat1.xml",
+        "Expositio Evangelii secundum Lucam -- ed. Karl Schenkl & Henricus Schenkl, CSEL 32.4 (1902)"),
+    "ambrose-expositio-psalmi-118-lat": ("stoa0022/stoa052/stoa0022.stoa052.opp-lat1.xml",
+        "Expositio Psalmi CXVIII -- ed. Michael Petschenig, CSEL 62 (1913)"),
+    "ambrose-exameron-lat": ("stoa0022/stoa054/stoa0022.stoa054.opp-lat1.xml",
+        "Exameron -- ed. Karl Schenkl, CSEL 32.1 (1896)"),
+    "arnobius-adversus-nationes-lat": ("stoa0034/stoa001/stoa0034.stoa001.opp-lat1.xml",
+        "Adversus nationes Libri VII -- ed. August Reifferscheid, CSEL 4 (1875)"),
+    "augustine-confessiones-lat": ("stoa0040/stoa001/stoa0040.stoa001.opp-lat1.xml",
+        "Confessiones -- ed. Pius Knöll, CSEL 33 (1896)"),
+    "augustine-de-civitate-dei-lat": ("stoa0040/stoa003/stoa0040.stoa003.opp-lat3.xml",
+        "De Civitate Dei -- ed. Emmanuel Hoffmann, CSEL 40 (1899-1900)"),
+    "augustine-de-fide-et-symbolo-lat": ("stoa0040/stoa006/stoa0040.stoa006.opp-lat1.xml",
+        "De Fide et Symbolo -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-epistulae-lat": ("stoa0040/stoa011/stoa0040.stoa011.opp-lat2.xml",
+        "Epistulae -- ed. Alois Goldbacher, CSEL 34.1-2, 44, 57 (1895-1911)"),
+    "augustine-contra-academicos-lat": ("stoa0040/stoa016/stoa0040.stoa016.opp-lat1.xml",
+        "Contra Academicos -- ed. Pius Knöll, CSEL 63 (1922)"),
+    "augustine-contra-adimantum-lat": ("stoa0040/stoa017/stoa0040.stoa017.opp-lat1.xml",
+        "Contra Adimantum -- ed. Joseph Zycha, CSEL 25.1 (1891)"),
+    "augustine-contra-cresconium-lat": ("stoa0040/stoa019/stoa0040.stoa019.opp-lat1.xml",
+        "Contra Cresconium -- ed. Michael Petschenig, CSEL 52 (1909)"),
+    "augustine-ad-catholicos-de-secta-donatistarum-lat": ("stoa0040/stoa020/stoa0040.stoa020.opp-lat1.xml",
+        "Epistula ad Catholicos de Secta Donatistarum -- ed. Michael Petschenig, CSEL 52 (1909)"),
+    "augustine-contra-duas-epistulas-pelagianorum-lat": ("stoa0040/stoa021/stoa0040.stoa021.opp-lat1.xml",
+        "Contra Duas Epistulas Pelagianorum -- ed. Karl F. Urba & Joseph Zycha, CSEL 60 (1913)"),
+    "augustine-contra-epistulam-parmeniani-lat": ("stoa0040/stoa023/stoa0040.stoa023.opp-lat1.xml",
+        "Contra Epistulam Parmeniani -- ed. Michael Petschenig, CSEL 51 (1908)"),
+    "augustine-contra-faustum-lat": ("stoa0040/stoa024/stoa0040.stoa024.opp-lat1.xml",
+        "Contra Faustum -- ed. Joseph Zycha, CSEL 25.1 (1891)"),
+    "augustine-contra-gaudentium-lat": ("stoa0040/stoa025/stoa0040.stoa025.opp-lat1.xml",
+        "Contra Gaudentium Donatistarum Episcopum -- ed. Michael Petschenig, CSEL 53 (1910)"),
+    "augustine-contra-litteras-petiliani-lat": ("stoa0040/stoa027/stoa0040.stoa027.opp-lat1.xml",
+        "Contra Litteras Petiliani -- ed. Michael Petschenig, CSEL 52 (1909)"),
+    "augustine-contra-mendacium-lat": ("stoa0040/stoa029/stoa0040.stoa029.opp-lat1.xml",
+        "Contra Mendacium -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-contra-secundinum-lat": ("stoa0040/stoa031/stoa0040.stoa031.opp-lat1.xml",
+        "Contra Secundinum -- ed. Joseph Zycha, CSEL 25.2 (1892)"),
+    "augustine-de-agone-christiano-lat": ("stoa0040/stoa032/stoa0040.stoa032.opp-lat1.xml",
+        "De agone christiano -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-de-natura-et-origine-animae-lat": ("stoa0040/stoa033/stoa0040.stoa033.opp-lat1.xml",
+        "De Natura et Origine Animae -- ed. Karl F. Urba & Joseph Zycha, CSEL 60 (1913)"),
+    "augustine-de-beata-vita-lat": ("stoa0040/stoa034/stoa0040.stoa034.opp-lat1.xml",
+        "De Beata Vita -- ed. Pius Knöll, CSEL 63 (1922)"),
+    "augustine-de-bono-coniugali-lat": ("stoa0040/stoa035/stoa0040.stoa035.opp-lat1.xml",
+        "De bono coniugali -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-de-coniugiis-adulterinis-lat": ("stoa0040/stoa036/stoa0040.stoa036.opp-lat1.xml",
+        "De Conjugiis Adulterinis -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-de-consensu-evangelistarum-lat": ("stoa0040/stoa037/stoa0040.stoa037.opp-lat1.xml",
+        "De Consensu Evangelistarum -- ed. Franz Weirich, CSEL 43 (1904)"),
+    "augustine-de-duabus-animabus-lat": ("stoa0040/stoa040/stoa0040.stoa040.opp-lat1.xml",
+        "De Duabus Animabus -- ed. Joseph Zycha, CSEL 25.1 (1891)"),
+    "augustine-de-fide-et-operibus-lat": ("stoa0040/stoa041/stoa0040.stoa041.opp-lat1.xml",
+        "De Fide et Operibus -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-de-genesi-ad-litteram-imperfectus-lat": ("stoa0040/stoa042/stoa0040.stoa042.opp-lat1.xml",
+        "De Genesi Ad Litteram Imperfectus Liber -- ed. Joseph Zycha, CSEL 28.1 (1894)"),
+    "augustine-de-gestis-pelagii-lat": ("stoa0040/stoa044/stoa0040.stoa044.opp-lat1.xml",
+        "De Gestis Pelagii -- ed. Karl F. Urba & Joseph Zycha, CSEL 42 (1902)"),
+    "augustine-de-gratia-christi-lat": ("stoa0040/stoa046/stoa0040.stoa046.opp-lat1.xml",
+        "De Gratia Christi (Book I only) -- ed. Karl F. Urba & Joseph Zycha, CSEL 42 (1902)"),
+    "augustine-de-mendacio-lat": ("stoa0040/stoa050/stoa0040.stoa050.opp-lat1.xml",
+        "De Mendacio -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-de-natura-boni-lat": ("stoa0040/stoa053/stoa0040.stoa053.opp-lat1.xml",
+        "De Natura Boni -- ed. Joseph Zycha, CSEL 25.2 (1892)"),
+    "augustine-de-natura-et-gratia-lat": ("stoa0040/stoa054/stoa0040.stoa054.opp-lat1.xml",
+        "De Natura et Gratia -- ed. Karl F. Urba & Joseph Zycha, CSEL 60 (1913)"),
+    "augustine-de-opere-monachorum-lat": ("stoa0040/stoa055/stoa0040.stoa055.opp-lat1.xml",
+        "De Opere Monachorum -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-de-ordine-lat": ("stoa0040/stoa056/stoa0040.stoa056.opp-lat1.xml",
+        "De Ordine -- ed. Pius Knöll, CSEL 63 (1922)"),
+    "augustine-de-peccatorum-meritis-lat": ("stoa0040/stoa057/stoa0040.stoa057.opp-lat1.xml",
+        "De Peccatorum Meritis et Remissione et de Baptismo Parvulorum -- ed. Karl F. Urba & Joseph Zycha, CSEL 60 (1913)"),
+    "augustine-de-sancta-virginitate-lat": ("stoa0040/stoa060/stoa0040.stoa060.opp-lat1.xml",
+        "De Sancta Virginitate -- ed. Joseph Zycha, CSEL 41 (1900)"),
+    "augustine-de-spiritu-et-littera-lat": ("stoa0040/stoa062/stoa0040.stoa062.opp-lat1.xml",
+        "De Spiritu et Littera -- ed. Karl F. Urba & Joseph Zycha, CSEL 60 (1913)"),
+    "augustine-de-unico-baptismo-lat": ("stoa0040/stoa063/stoa0040.stoa063.opp-lat1.xml",
+        "Liber de Unico Baptismo -- ed. Michael Petschenig, CSEL 53 (1910)"),
+    "augustine-de-utilitate-credendi-lat": ("stoa0040/stoa064/stoa0040.stoa064.opp-lat1.xml",
+        "De Utilitate Credendi -- ed. Joseph Zycha, CSEL 25.1 (1891)"),
+    "augustine-quaestiones-in-heptateuchum-lat": ("stoa0040/stoa074/stoa0040.stoa074.opp-lat1.xml",
+        "Quaestiones in Heptateuchum -- ed. Joseph Zycha, CSEL 28.2 (1895)"),
+    "augustine-retractationes-lat": ("stoa0040/stoa077/stoa0040.stoa077.opp-lat1.xml",
+        "Retractationum -- ed. Pius Knöll, CSEL 36 (1902)"),
+    "augustine-speculum-lat": ("stoa0040/stoa080/stoa0040.stoa080.opp-lat1.xml",
+        "Liber qui appellatur Speculum -- ed. Franz Weihrich, CSEL 12 (1887)"),
+    "jerome-epistulae-lat": ("stoa0162/stoa004/stoa0162.stoa004.opp-lat1.xml",
+        "Epistulae -- ed. Isidor Hilberg, CSEL 54-56 (1910-1918)"),
+    "jerome-in-hieremiam-lat": ("stoa0162/stoa024/stoa0162.stoa024.opp-lat1.xml",
+        "In Hieremiam Prophetam Libri Sex -- ed. Siegfried Reiter, CSEL 59 (1913)"),
+    "lactantius-de-mortibus-persecutorum-lat": ("stoa0171/stoa002/stoa0171.stoa002.opp-lat1.xml",
+        "De Mortibus Persecutorum -- ed. Samuel Brandt & Georg Laubmann, CSEL 27 (1897)"),
+    "lactantius-de-ira-dei-lat": ("stoa0171/stoa006/stoa0171.stoa006.opp-lat1.xml",
+        "De Ira Dei -- ed. Samuel Brandt & Georg Laubmann, CSEL 27 (1897)"),
+    "lactantius-de-opificio-dei-lat": ("stoa0171/stoa007/stoa0171.stoa007.opp-lat1.xml",
+        "De Opificio Dei -- ed. Samuel Brandt & Georg Laubmann, CSEL 27 (1897)"),
+    "lactantius-epitome-lat": ("stoa0171/stoa008/stoa0171.stoa008.opp-lat1.xml",
+        "Epitome Divinarum Institutionum -- ed. Samuel Brandt & Georg Laubmann, CSEL 19 (1890)"),
+    "lactantius-divinae-institutiones-lat": ("stoa0171/stoa009/stoa0171.stoa009.opp-lat1.xml",
+        "Divinarum Institutionum -- ed. Samuel Brandt & Georg Laubmann, CSEL 19 (1890)"),
+    "lactantius-fragmenta-lat": ("stoa0171/stoa010/stoa0171.stoa010.opp-lat1.xml",
+        "Fragmenta -- ed. Samuel Brandt & Georg Laubmann, CSEL 27 (1897)"),
+    "minucius-felix-octavius-lat": ("stoa0203/stoa001/stoa0203.stoa001.opp-lat2.xml",
+        "Octavius -- ed. Karl Halm, CSEL 2 (1867)"),
+    "tertullian-ad-nationes-lat": ("stoa0275/stoa002/stoa0275.stoa002.opp-lat2.xml",
+        "Ad Nationes Libri Duo -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-adversus-hermogenem-lat": ("stoa0275/stoa004/stoa0275.stoa004.opp-lat2.xml",
+        "Adversus Hermogenem -- ed. Emil Kroymann, CSEL 47 (1906)"),
+    "tertullian-adversus-marcionem-lat": ("stoa0275/stoa006/stoa0275.stoa006.opp-lat2.xml",
+        "Adversus Marcionem -- ed. Emil Kroymann, CSEL 47 (1906)"),
+    "tertullian-adversus-praxean-lat": ("stoa0275/stoa007/stoa0275.stoa007.opp-lat2.xml",
+        "Adversus Praxean -- ed. Emil Kroymann, CSEL 47 (1906)"),
+    "tertullian-adversus-valentinianos-lat": ("stoa0275/stoa008/stoa0275.stoa008.opp-lat2.xml",
+        "Adversus Valentinianos -- ed. Emil Kroymann, CSEL 47 (1906)"),
+    "tertullian-de-anima-lat": ("stoa0275/stoa010/stoa0275.stoa010.opp-lat2.xml",
+        "De Anima -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-de-baptismo-lat": ("stoa0275/stoa011/stoa0275.stoa011.opp-lat2.xml",
+        "De Baptismo -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-de-idololatria-lat": ("stoa0275/stoa017/stoa0275.stoa017.opp-lat2.xml",
+        "De idololatria -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-de-ieiunio-lat": ("stoa0275/stoa018/stoa0275.stoa018.opp-lat2.xml",
+        "De Ieiunio Adversus Psychicos -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-de-oratione-lat": ("stoa0275/stoa020/stoa0275.stoa020.opp-lat2.xml",
+        "De Oratione -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-de-patientia-lat": ("stoa0275/stoa023/stoa0275.stoa023.opp-lat2.xml",
+        "De Patientia -- ed. Emil Kroymann, CSEL 47 (1906)"),
+    "tertullian-de-pudicitia-lat": ("stoa0275/stoa025/stoa0275.stoa025.opp-lat2.xml",
+        "De Pudicitia -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-de-resurrectione-carnis-lat": ("stoa0275/stoa026/stoa0275.stoa026.opp-lat2.xml",
+        "De Carnis Resurrectione -- ed. Emil Kroymann, CSEL 47 (1906)"),
+    "tertullian-de-spectaculis-lat": ("stoa0275/stoa027/stoa0275.stoa027.opp-lat2.xml",
+        "De Spectaculis -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-de-testimonio-animae-lat": ("stoa0275/stoa028/stoa0275.stoa028.opp-lat2.xml",
+        "De Testimonio Animae -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    "tertullian-scorpiace-lat": ("stoa0275/stoa030/stoa0275.stoa030.opp-lat2.xml",
+        "Scorpiace -- ed. August Reifferscheid & Georg Wissowa, CSEL 20 (1890)"),
+    # Wave 2, 2026-10-02: the other CSEL prose -- pilgrims (Egeria, the
+    # Bordeaux pilgrim, Adamnan), Gallic monks (Eucherius, Sulpicius
+    # Severus), Eugippius, Paulinus of Nola, Sedulius. NOT taken: verse;
+    # Boethius (philosophy, the classical lane's); undivided single letters.
+    "adamnan-de-locis-sanctis-lat": ("stoa0007/stoa002/stoa0007.stoa002.opp-lat1.xml",
+        "De locis sanctis -- ed. Paul Geyer, CSEL 39 (1898)"),
+    "egeria-itinerarium-lat": ("stoa0111/stoa001/stoa0111.stoa001.opp-lat3.xml",
+        "Itinerarium Egeriae (Peregrinatio Silviae) -- ed. Paul Geyer, CSEL 39 (1898)"),
+    "eucherius-de-laude-heremi-lat": ("stoa0117/stoa001/stoa0117.stoa001.opp-lat1.xml",
+        "De laude heremi -- ed. Karl Wotke, CSEL 31 (1894)"),
+    "eucherius-formulae-lat": ("stoa0117/stoa002/stoa0117.stoa002.opp-lat1.xml",
+        "Formulae spiritalis intellegentiae -- ed. Karl Wotke, CSEL 31 (1894)"),
+    "eucherius-instructiones-lat": ("stoa0117/stoa003/stoa0117.stoa003.opp-lat1.xml",
+        "Instructiones -- ed. Karl Wotke, CSEL 31 (1894)"),
+    "eucherius-passio-agaunensium-lat": ("stoa0117/stoa004/stoa0117.stoa004.opp-lat1.xml",
+        "Passio Agaunensium martyrum -- ed. Karl Wotke, CSEL 31 (1894)"),
+    "eugippius-vita-severini-lat": ("stoa0119/stoa001/stoa0119.stoa001.opp-lat2.xml",
+        "Vita sancti Severini -- ed. Pius Knöll, CSEL 9.2 (1886)"),
+    "eugippius-excerpta-augustini-lat": ("stoa0119/stoa003/stoa0119.stoa003.opp-lat1.xml",
+        "Excerpta ex operibus Augustini -- ed. Pius Knöll, CSEL 9.1 (1885)"),
+    "paulinus-nola-epistulae-lat": ("stoa0223/stoa002/stoa0223.stoa002.opp-lat1.xml",
+        "Epistulae -- ed. Wilhelm von Hartel, CSEL 29 (1894)"),
+    "sedulius-opus-paschale-lat": ("stoa0252/stoa008/stoa0252.stoa008.opp-lat1.xml",
+        "Opus paschale -- ed. Johann Huemer, CSEL 10 (1885)"),
+    "sulpicius-chronica-lat": ("stoa0270/stoa001/stoa0270.stoa001.opp-lat1.xml",
+        "Chronica -- ed. Karl Halm, CSEL 1 (1866)"),
+    "sulpicius-vita-martini-lat": ("stoa0270/stoa002/stoa0270.stoa002.opp-lat2.xml",
+        "Vita sancti Martini -- ed. Karl Halm, CSEL 1 (1866)"),
+    "sulpicius-dialogi-lat": ("stoa0270/stoa003/stoa0270.stoa003.opp-lat2.xml",
+        "Dialogi -- ed. Karl Halm, CSEL 1 (1866)"),
+    "sulpicius-epistulae-lat": ("stoa0270/stoa005/stoa0270.stoa005.opp-lat1.xml",
+        "Epistulae tres -- ed. Karl Halm, CSEL 1 (1866)"),
+    "pseudo-tertullian-adversus-omnes-haereses-lat": ("stoa0276/stoa003/stoa0276.stoa003.opp-lat2.xml",
+        "Adversus omnes haereses -- ed. Emil Kroymann, CSEL 47 (1906)"),
+    "itinerarium-burdigalense-lat": ("stoa0329/stoa001/stoa0329.stoa001.opp-lat1.xml",
+        "Itinerarium Burdigalense (Hierosolymitanum) -- ed. Paul Geyer, CSEL 39 (1898)"),
 }
 
 # slug -> (repo, path, note)   — PD status verified per edition, see notes
@@ -564,25 +906,14 @@ PERSEUS = {
         "Plutarch, Otho — B. Perrin 1926 (PD); urn ...tlg0007.tlg066.perseus-eng2"),
     # More Greek historians and a geographer, 2026-10-02. Rights line read
     # per file; all PD everywhere, long dead translators: Shuckburgh (1889,
-    # d. 1906), Whiston (1737; this printing 1856, d. 1752), Hamilton &
+    # d. 1906), Hamilton &
     # Falconer (Bohn 1854-57). Strabo is eng4, the complete Bohn version;
     # eng3 (H. L. Jones, Loeb) covers only books 6-14. NOT taken: Pausanias
-    # (W. H. S. Jones d. 1963, not yet PD in the UK).
+    # (W. H. S. Jones d. 1963, not yet PD in the UK). Josephus (Whiston) is
+    # PR #8's build_josephus.py, aligned to Niese: not here, one owner per slug.
     "polybius-histories-shuckburgh": ("canonical-greekLit",
         "tlg0543/tlg001/tlg0543.tlg001.perseus-eng2.xml",
         "Polybius, Histories — E. S. Shuckburgh 1889 (PD); urn ...tlg0543.tlg001.perseus-eng2"),
-    "josephus-antiquities-whiston": ("canonical-greekLit",
-        "tlg0526/tlg001/tlg0526.tlg001.perseus-eng2.xml",
-        "Josephus, Jewish Antiquities — William Whiston (PD); urn ...tlg0526.tlg001.perseus-eng2"),
-    "josephus-life-whiston": ("canonical-greekLit",
-        "tlg0526/tlg002/tlg0526.tlg002.perseus-eng2.xml",
-        "Josephus, Life — William Whiston (PD); urn ...tlg0526.tlg002.perseus-eng2"),
-    "josephus-against-apion-whiston": ("canonical-greekLit",
-        "tlg0526/tlg003/tlg0526.tlg003.perseus-eng2.xml",
-        "Josephus, Against Apion — William Whiston (PD); urn ...tlg0526.tlg003.perseus-eng2"),
-    "josephus-jewish-war-whiston": ("canonical-greekLit",
-        "tlg0526/tlg004/tlg0526.tlg004.perseus-eng2.xml",
-        "Josephus, The Jewish War — William Whiston (PD); urn ...tlg0526.tlg004.perseus-eng2"),
     "strabo-geography-hamilton": ("canonical-greekLit",
         "tlg0099/tlg001/tlg0099.tlg001.perseus-eng4.xml",
         "Strabo, Geography — H. C. Hamilton & W. Falconer 1854-57 (PD); urn ...tlg0099.tlg001.perseus-eng4"),
@@ -1204,6 +1535,42 @@ PERSEUS = {
     "athenaeus-deipnosophists-yonge": ("canonical-greekLit",
         "tlg0008/tlg001/tlg0008.tlg001.perseus-eng2.xml",
         "Athenaeus, The Deipnosophists — C. D. Yonge (Bohn, 1854; d. 1891) (PD); urn ...tlg0008.tlg001.perseus-eng2"),
+    # TERTULLIAN in Latin, 2026-10-02: the works CSEL (table CSEL) lacks,
+    # from Perseus's Oehler edition (Leipzig, 1853-54; PD). The LATIN TEXT,
+    # not a translation (TEI_ORIGINAL in structure_texts.py). Ad uxorem is
+    # filed under stoa0276 (Pseudo-Tertullian) but is Tertullian's. NOT
+    # taken: Glover's Apologeticum (Loeb, 1931: not before 1931); Baxter's
+    # Augustine letters (Loeb, 1930: PD in the US but Baxter died 1973, so
+    # not in life+70 countries; the Latin is in CSEL already); Wright's
+    # Jerome letters (1933).
+    "tertullian-ad-martyras-lat": ("canonical-latinLit", "stoa0275/stoa001/stoa0275.stoa001.opp-lat1.xml",
+        "Tertullian, Ad martyras -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-ad-scapulam-lat": ("canonical-latinLit", "stoa0275/stoa003/stoa0275.stoa003.opp-lat1.xml",
+        "Tertullian, Ad Scapulam -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-adversus-iudaeos-lat": ("canonical-latinLit", "stoa0275/stoa005/stoa0275.stoa005.opp-lat1.xml",
+        "Tertullian, Adversus Iudaeos -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1854)"),
+    "tertullian-de-carne-christi-lat": ("canonical-latinLit", "stoa0275/stoa012/stoa0275.stoa012.opp-lat1.xml",
+        "Tertullian, De carne Christi -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1854)"),
+    "tertullian-de-corona-lat": ("canonical-latinLit", "stoa0275/stoa013/stoa0275.stoa013.opp-lat1.xml",
+        "Tertullian, De corona -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-de-cultu-feminarum-lat": ("canonical-latinLit", "stoa0275/stoa014/stoa0275.stoa014.opp-lat1.xml",
+        "Tertullian, De cultu feminarum -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-de-exhortatione-castitatis-lat": ("canonical-latinLit", "stoa0275/stoa015/stoa0275.stoa015.opp-lat1.xml",
+        "Tertullian, De exhortatione castitatis -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-de-fuga-lat": ("canonical-latinLit", "stoa0275/stoa016/stoa0275.stoa016.opp-lat1.xml",
+        "Tertullian, De fuga in persecutione -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-de-monogamia-lat": ("canonical-latinLit", "stoa0275/stoa019/stoa0275.stoa019.opp-lat1.xml",
+        "Tertullian, De monogamia -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-de-paenitentia-lat": ("canonical-latinLit", "stoa0275/stoa021/stoa0275.stoa021.opp-lat1.xml",
+        "Tertullian, De paenitentia -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-de-pallio-lat": ("canonical-latinLit", "stoa0275/stoa022/stoa0275.stoa022.opp-lat1.xml",
+        "Tertullian, De pallio -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-de-praescriptione-lat": ("canonical-latinLit", "stoa0275/stoa024/stoa0275.stoa024.opp-lat1.xml",
+        "Tertullian, De praescriptione haereticorum -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1854)"),
+    "tertullian-de-virginibus-velandis-lat": ("canonical-latinLit", "stoa0275/stoa029/stoa0275.stoa029.opp-lat1.xml",
+        "Tertullian, De virginibus velandis -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
+    "tertullian-ad-uxorem-lat": ("canonical-latinLit", "stoa0276/stoa002/stoa0276.stoa002.opp-lat1.xml",
+        "Tertullian, Ad uxorem -- Latin, ed. Franz Oehler, Opera omnia (Leipzig, 1853)"),
 }
 
 # Gutenberg .txt shelf (structured by structure_texts.py's converters).
@@ -1223,6 +1590,141 @@ GUTENBERG_EXTRA = {
 GUTENBERG_TXT = "https://www.gutenberg.org/cache/epub/{id}/pg{id}.txt"
 
 CCEL_XML = "https://ccel.org/ccel/{initial}/{author}/{work}.xml"
+
+# Bibles fetched from GitHub mirrors, pinned to a commit (2026-10-02).
+#
+# VULGATE -- the Clementine Vulgate (Sixto-Clementine, 1592; the Clementine
+# Vulgate Project's electronic text, Michael Tweedale et al.). Public domain:
+# "The text has been released into the public domain" (vulsearch.sourceforge.net,
+# evidence pinned in benchmark_whitaker.LICENCE, which already reads these same
+# 73 files). The project ASKS, without licence, for acknowledgment, error
+# reports, and that modifications be made clear: the converter changes no
+# file and keeps each verse's marked-up line beside its plain text.
+# Mirror: github.com/BibleGet-I-O/Clementine-Vulgate, src/iso-encoded (the
+# project's own cp1252 files; the mirror's utf8 copies mangle the oe ligature).
+# The pin is one sha256 over "name<TAB>sha256\n" for the files, sorted.
+# NOT INCLUDED: the Clementine appendix (Prayer of Manasses, 3 and 4 Esdras),
+# which the mirror does not carry.
+VULGATE = {
+    "repo": "BibleGet-I-O/Clementine-Vulgate",
+    "commit": "d57e2cde0cceda0d073ea9efc1fee616bcfeb2c1",
+    "dir": "src/iso-encoded",
+    "books": ("Gn Ex Lv Nm Dt Jos Jdc Rt 1Rg 2Rg 3Rg 4Rg 1Par 2Par Esr Neh Tob Jdt Est Job "
+              "Ps Pr Ecl Ct Sap Sir Is Jr Lam Bar Ez Dn Os Joel Am Abd Jon Mch Nah Hab Soph "
+              "Agg Zach Mal 1Mcc 2Mcc Mt Mc Lc Jo Act Rom 1Cor 2Cor Gal Eph Phlp Col 1Thes "
+              "2Thes 1Tim 2Tim Tit Phlm Hbr Jac 1Ptr 2Ptr 1Jo 2Jo 3Jo Jud Apc").split(),
+    "pin": "8002776ae05d72fcec447dac1b890728423096ffd22970771cbb419b0536b990",
+    "note": "Biblia Sacra Vulgatae Editionis (Clementine, 1592), 73 books; PD",
+}
+
+
+def vulgate_digest(d):
+    import hashlib
+    lines = []
+    for b in sorted(VULGATE["books"]):
+        with open(os.path.join(d, b + ".lat"), "rb") as f:
+            lines.append(f"{b}.lat\t{hashlib.sha256(f.read()).hexdigest()}\n")
+    return hashlib.sha256("".join(lines).encode("ascii")).hexdigest()
+
+
+def fetch_vulgate():
+    """73 files into data/corpus/vulgate/ (skips present ones); hard stop on a
+    digest other than the pin."""
+    d = os.path.join(CORPUS, "vulgate")
+    os.makedirs(d, exist_ok=True)
+    raw = (f"https://raw.githubusercontent.com/{VULGATE['repo']}/"
+           f"{VULGATE['commit']}/{VULGATE['dir']}/")
+    for b in VULGATE["books"]:
+        p = os.path.join(d, b + ".lat")
+        if not os.path.exists(p):
+            req = urllib.request.Request(raw + b + ".lat", headers={"User-Agent": "canon-corpus"})
+            with urllib.request.urlopen(req, timeout=120) as r:
+                blob = r.read()
+            with open(p + ".tmp", "wb") as f:
+                f.write(blob)
+            os.replace(p + ".tmp", p)
+    got = vulgate_digest(d)
+    if got != VULGATE["pin"]:
+        raise RuntimeError(f"Clementine digest {got} != pinned {VULGATE['pin']}")
+    return f"{len(VULGATE['books'])} books, digest pinned"
+
+
+# DOUAY -- the Douay-Rheims, Challoner revision (1749-52), the Vulgate's
+# English companion. Public domain (Challoner died 1781); the mirror's own
+# README for this file: "DRC: Douay-Rheims Bible, Challoner Revision.
+# License: Public Domain" (scrollmapper/bible_databases, MIT code over PD
+# texts). One JSON file of books -> chapters -> verses, numbered as the
+# Vulgate numbers them. Its 73 books run in the Clementine's order; the
+# five after them (3-4 Esdras as "I/II Esdras", the Prayer of Manasses, an
+# "Additional Psalm", Laodiceans) have no Clementine text and are not read.
+DOUAY = {
+    "repo": "scrollmapper/bible_databases",
+    "commit": "e1b254cef86d0e65b1a5d1a94b8b112d0f296a2c",
+    "path": "sources/en/DRC/DRC.json",
+    "sha256": "2c9b2ab58363bcddccdcaaf9e9a75924bbbc636d918e798d9ab517de07767b4f",
+    "note": "Douay-Rheims, Challoner revision (1749-52), 73 books; PD",
+}
+
+
+def fetch_douay():
+    """data/corpus/douay/DRC.json (skips a present file); hard stop on a sha256
+    other than the pin."""
+    import hashlib
+    p = os.path.join(CORPUS, "douay", "DRC.json")
+    if not os.path.exists(p):
+        os.makedirs(os.path.dirname(p), exist_ok=True)
+        url = (f"https://raw.githubusercontent.com/{DOUAY['repo']}/"
+               f"{DOUAY['commit']}/{DOUAY['path']}")
+        req = urllib.request.Request(url, headers={"User-Agent": "canon-corpus"})
+        with urllib.request.urlopen(req, timeout=120) as r:
+            blob = r.read()
+        with open(p + ".tmp", "wb") as f:
+            f.write(blob)
+        os.replace(p + ".tmp", p)
+    with open(p, "rb") as f:
+        got = hashlib.sha256(f.read()).hexdigest()
+    if got != DOUAY["sha256"]:
+        raise RuntimeError(f"Douay-Rheims sha256 {got} != pinned {DOUAY['sha256']}")
+    return "1 file, sha256 pinned"
+
+# BRENTON -- Brenton's English Septuagint (1851), as eBible.org transcribed
+# and corrected it (eng-Brenton). eBible's rights line, in the archive's own
+# copr.htm: "Translation of the Greek Septuagint into English by Sir Lancelot
+# Charles Lee Brenton. Published in 1851, and now in the Public Domain." The
+# archive is fetched from basil/bible, which commits eBible's
+# eng-Brenton_usfm.zip unaltered (its sources/README.md: retrieved from
+# https://ebible.org/Scriptures/eng-Brenton_usfm.zip), because ebible.org is
+# out of this sandbox's reach. Only the zip is used: that repository's own
+# edition (CC BY-NC-ND) is not.
+BRENTON = {
+    "repo": "basil/bible",
+    "commit": "af36d5cc04a6cbf9101488e1790142bfae928cce",
+    "path": "sources/eng-Brenton_usfm.zip",
+    "sha256": "93496ef23f7ff2427c32f5d353089dee73e82975ab92c80a00663fb333c57e32",
+    "note": "Brenton's English Septuagint (1851), eBible.org USFM (source files 2025-12-12); PD",
+}
+
+
+def fetch_brenton():
+    """data/corpus/brenton/eng-Brenton_usfm.zip (skips a present file); hard
+    stop on a sha256 other than the pin."""
+    import hashlib
+    p = os.path.join(CORPUS, "brenton", "eng-Brenton_usfm.zip")
+    if not os.path.exists(p):
+        os.makedirs(os.path.dirname(p), exist_ok=True)
+        url = (f"https://raw.githubusercontent.com/{BRENTON['repo']}/"
+               f"{BRENTON['commit']}/{BRENTON['path']}")
+        req = urllib.request.Request(url, headers={"User-Agent": "canon-corpus"})
+        with urllib.request.urlopen(req, timeout=120) as r:
+            blob = r.read()
+        with open(p + ".tmp", "wb") as f:
+            f.write(blob)
+        os.replace(p + ".tmp", p)
+    with open(p, "rb") as f:
+        got = hashlib.sha256(f.read()).hexdigest()
+    if got != BRENTON["sha256"]:
+        raise RuntimeError(f"Brenton sha256 {got} != pinned {BRENTON['sha256']}")
+    return "1 archive, sha256 pinned"
 
 # ---------------------------------------------------------------- Lexicons
 #
@@ -1527,12 +2029,17 @@ def main():
             print(f"perseus/{slug}: {note}")
         for slug, (path, note) in FIRST1K.items():
             print(f"first1k/{slug}: {note}")
+        for slug, (path, note) in CSEL.items():
+            print(f"csel/{slug}: {note}")
         for slug, (author, work, note) in CCEL.items():
             print(f"ccel/{slug}: {note}")
         for slug, (url, fn, note) in LEXICONS.items():
             print(f"lexicon/{slug}: {note}")
         for slug, gid in GUTENBERG_EXTRA.items():
             print(f"gutenberg/{slug}: pg{gid}")
+        print(f"github/vulgate: {VULGATE['repo']}@{VULGATE['commit'][:7]} -- {VULGATE['note']}")
+        print(f"github/douay: {DOUAY['repo']}@{DOUAY['commit'][:7]} -- {DOUAY['note']}")
+        print(f"github/brenton: {BRENTON['repo']}@{BRENTON['commit'][:7]} -- {BRENTON['note']}")
         return
     failures = []
     for slug, (repo, path, note) in PERSEUS.items():
@@ -1548,6 +2055,13 @@ def main():
             print(f"first1k/{slug}: {fetch(F1K_RAW.format(path=path), dest)}")
         except Exception as e:
             failures.append(slug); print(f"first1k/{slug}: FAIL {e}")
+        time.sleep(0.5)
+    for slug, (path, note) in CSEL.items():
+        dest = os.path.join(CORPUS, "csel", slug + ".xml")
+        try:
+            print(f"csel/{slug}: {fetch(CSEL_RAW.format(path=path), dest)}")
+        except Exception as e:
+            failures.append(slug); print(f"csel/{slug}: FAIL {e}")
         time.sleep(0.5)
     for slug, (author, work, note) in CCEL.items():
         dest = os.path.join(CORPUS, "ccel", slug + ".xml")
@@ -1571,6 +2085,18 @@ def main():
         except Exception as e:
             failures.append(slug); print(f"lexicon/{slug}: FAIL {e}")
         time.sleep(0.5)
+    try:
+        print(f"github/vulgate: {fetch_vulgate()}")
+    except Exception as e:
+        failures.append("vulgate"); print(f"github/vulgate: FAIL {e}")
+    try:
+        print(f"github/douay: {fetch_douay()}")
+    except Exception as e:
+        failures.append("douay"); print(f"github/douay: FAIL {e}")
+    try:
+        print(f"github/brenton: {fetch_brenton()}")
+    except Exception as e:
+        failures.append("brenton"); print(f"github/brenton: FAIL {e}")
     print("DONE" + (f" ({len(failures)} failures: {failures})" if failures else " — all fetched/present"))
 
 if __name__ == "__main__":

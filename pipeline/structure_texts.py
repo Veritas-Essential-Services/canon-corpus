@@ -23,7 +23,7 @@ Every unit: {id, ref, text, links[]} — id is the citation hub
 
 Run:  python3 pipeline/structure_texts.py          # build all available
 """
-import os, re, json, hashlib, html, html.entities, unicodedata
+import os, re, json, hashlib, html, html.entities, unicodedata, copy, collections
 import xml.etree.ElementTree as ET
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -94,22 +94,111 @@ def tei_edition(root):
     # A stray ">" opens one editor's name (Wendland's Hippolytus): a markup
     # slip, dropped by rule.
     eds = [txt(e).lstrip("<> ") for e in m.findall(f"{T}editor")]
-    ed = {"editor": " & ".join(e for e in eds if e),
+    ed = {"author": " & ".join(a for a in (txt(e) for e in m.findall(f"{T}author")) if a),
+          "editor": " & ".join(e for e in eds if e),
           "title": txt(m.find(f"{T}title")),
           "publisher": txt(m.find(f".//{T}imprint/{T}publisher")),
           "place": txt(m.find(f".//{T}imprint/{T}pubPlace")),
           "date": txt(m.find(f".//{T}imprint/{T}date"))}
+    fix = EDITION_DATE_FIX.get((ed["editor"], ed["date"]))
+    if fix:
+        ed["date_in_file"], ed["date"] = ed["date"], fix
     return {k: v for k, v in ed.items() if v}
+
+
+# Translators of OGL translations taken, with the year each died (checked;
+# a translation needs its translator dead 70 years for life+70 countries).
+TRANSLATOR_DIED = {"James, Montague Rhodes": 1936}   # as the sourceDesc names him
+
+
+# A sourceDesc date the printed volume contradicts, by (editor, date in the
+# file): the volume's own date is used, the file's is kept as date_in_file.
+# Both are before 1931, so no rights call moves.
+EDITION_DATE_FIX = {
+    ("Emil Kroymann", "1900"): "1906",                  # CSEL 47 is 1906
+    ("Karl F. Urba & Joseph Zycha", "1904"): "1902",    # CSEL 42 is 1902
+}
+
+
+def csel_part_names(e, is_part):
+    """Unnumbered sibling parts that share a subtype (three tables of
+    chapters, one before each book) are named by the numbered part they
+    stand before, + b, c for a second and third: 2.toc, 2.tocb. A name used
+    once keeps the plain subtype, so no other book's ids move."""
+    kids = [c for c in e if is_part(c)]
+    count = collections.Counter(c.get("subtype", "?").lower() for c in kids if not c.get("n"))
+    out, seen = {}, collections.Counter()
+    for i, c in enumerate(kids):
+        sub = c.get("subtype", "?").lower()
+        if c.get("n") or count[sub] < 2:
+            continue
+        nxt = next((d.get("n") for d in kids[i + 1:] if d.get("n")), "end")
+        base = f"{nxt}.{sub}"
+        seen[base] += 1
+        out[c] = base if seen[base] == 1 else base + "abcdefghijklmnopqrstuvwxyz"[seen[base] - 1]
+    return out
+
+
+def is_translation(body):
+    """A First1KGreek file is a translation when its body holds a translation
+    div WITH text. Bonnet's Greek Acts of Philip and of Barnabas carry an
+    empty <div type="translation"/>: Greek, not a translation."""
+    T = "{http://www.tei-c.org/ns/1.0}"
+    if body is None:
+        return False
+    return any("".join(d.itertext()).strip() for d in body.findall(f"{T}div[@type='translation']"))
 
 
 def printed_by(root):
     """'Otto Stählin, 1905' -- the editor and date a First1KGreek file's
     sourceDesc states (blank parts left out)."""
     ed = tei_edition(root)
-    return ", ".join(x for x in (ed.get("editor"), ed.get("date")) if x) or "edition unnamed"
+    T = "{http://www.tei-c.org/ns/1.0}"
+    who = ed.get("editor")
+    if not who and is_translation(root.find(f".//{T}body")):
+        who = ed.get("author")                  # a translation: its translator
+    return ", ".join(x for x in (who, ed.get("date")) if x) or "edition unnamed"
 
 
-def perseus_rights(root, path=None):
+# Open Greek and Latin corpora, one directory each under data/corpus/: the
+# text of a printed critical edition (not a translation), in its language.
+OGL = {
+    "first1k": {"house": "First1KGreek", "repo": "OpenGreekAndLatin/First1KGreek",
+                "lang": "grc", "language": "Greek"},
+    # CSEL, the Vienna Corpus Scriptorum Ecclesiasticorum Latinorum: the
+    # volumes' scans OCR'd and machine-corrected by Leipzig (2014), the
+    # Konstanz-proofread files aside -- the text is NOT proofread.
+    "csel": {"house": "CSEL (Open Greek and Latin)", "repo": "OpenGreekAndLatin/csel-dev",
+             "lang": "lat", "language": "Latin"},
+}
+
+
+def ogl(path):
+    """The OGL corpus a file came from (by its directory), or None."""
+    return OGL.get(os.path.basename(os.path.dirname(path))) if path else None
+
+
+# Perseus files that are the Latin or Greek TEXT itself, not a translation
+# (Perseus's own labels are not trusted for this: some translations are
+# marked type="edition", Smart's English Horace xml:lang="lat").
+TEI_ORIGINAL = {
+    "tertullian-ad-martyras-lat", "tertullian-ad-scapulam-lat", "tertullian-adversus-iudaeos-lat",
+    "tertullian-de-carne-christi-lat", "tertullian-de-corona-lat", "tertullian-de-cultu-feminarum-lat",
+    "tertullian-de-exhortatione-castitatis-lat", "tertullian-de-fuga-lat", "tertullian-de-monogamia-lat",
+    "tertullian-de-paenitentia-lat", "tertullian-de-pallio-lat", "tertullian-de-praescriptione-lat",
+    "tertullian-de-virginibus-velandis-lat", "tertullian-ad-uxorem-lat",
+}
+
+
+# CC BY-SA permits serving a whole book, on condition of credit and
+# share-alike; whether the house accepts that condition for what it serves is
+# Adam's ruling (pending, with the OSHB/Perseus rights question). Until he
+# rules, these books are flagged as the Apostolic Fathers' are: quote, cite
+# and link with attribution; do not serve or ship the whole.
+SHARE_ALIKE_WHOLE = False
+
+
+def perseus_rights(root, path=None, original=False):
     """The rights block every Perseus-derived book carries. The translations
     are PD; Perseus's TEI, and any modernizing of the wording it did (the
     title says when), are CC BY-SA 4.0 -- share-alike. The licence is read
@@ -123,31 +212,66 @@ def perseus_rights(root, path=None):
         d = root.find(f".//{T}body/{T}div")
         base = (d.get("n") or "") if d is not None else ""
     repo = "canonical-latinLit" if ":latinLit:" in base else "canonical-greekLit"
-    if path and os.path.basename(os.path.dirname(path)) == "first1k":
-        # First1KGreek (Open Greek and Latin): the Greek text of a printed
+    o = ogl(path)
+    if o:
+        # First1KGreek / CSEL (Open Greek and Latin): the text of a printed
         # critical edition, not a translation. The edition is public domain
         # (published before 1931; the ancient text has no author's right,
         # and an editor's right in a critical edition -- where a country
         # grants one, e.g. Germany's 25 years, s.70 UrhG -- long expired);
         # the TEI is CC BY-SA.
         ed = tei_edition(root)
-        printed = ", ".join(x for x in (ed.get("editor"), ed.get("title"),
+        transl = is_translation(body)
+        printed = ", ".join(x for x in ((ed.get("author") if transl else None),
+                                         ed.get("editor"), ed.get("title"),
                                          ed.get("place"), ed.get("date")) if x)
+        # The gate, checked, not assumed: the printed edition is before 1931
+        # (US public domain), and a translator's death is looked up, not said.
+        years = [int(y) for y in re.findall(r"\b(1[5-9]\d\d|20\d\d)\b", ed.get("date", ""))]
+        if not years or max(years) >= 1931:
+            raise ValueError(f"{path}: printed edition dated {ed.get('date')!r}: "
+                             "not provably before 1931; not taken")
+        died = None
+        if transl:
+            died = TRANSLATOR_DIED.get(ed.get("author", ""))
+            if died is None or died > 1955:
+                raise ValueError(f"{path}: translator {ed.get('author')!r}: death year "
+                                 f"{died!r} not in TRANSLATOR_DIED or too recent for life+70")
         return {"license": "CC BY-SA 4.0",
-                "attribution": "First1KGreek, Open Greek and Latin "
-                               "(OpenGreekAndLatin/First1KGreek)",
-                "source_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
-                "redistribute_whole": True,
+                "attribution": f"{o['house'].split(' (')[0]}, Open Greek and Latin "
+                               f"({o['repo']})",
+                "source_url": f"https://github.com/{o['repo']}",
+                "redistribute_whole": SHARE_ALIKE_WHOLE,
                 "note": ("licence line read from this file: " + clean("".join(lic.itertext()))
                          if lic is not None else
                          "this file states no licence; the repository's licence is CC BY-SA 4.0")
-                        + f". The Greek text is a public-domain printed edition ({printed}); "
-                          "the TEI is share-alike: a derivative must credit First1KGreek "
-                          "and carry the same licence."}
+                        + (f". The translation is public domain ({printed}): published "
+                           f"before 1931, its translator died in {died}; "
+                           if transl else
+                           f". The {o['language']} text is a public-domain printed edition "
+                           f"({printed}); ")
+                        + f"the TEI is share-alike: a derivative must credit "
+                          f"{o['house'].split(' (')[0]} and carry the same licence."}
+    if original:
+        ed = tei_edition(root)
+        lang = {"lat": "Latin", "grc": "Greek"}.get(
+            body.find(f"{T}div[@type='edition']").get("{http://www.w3.org/XML/1998/namespace}lang"))
+        printed = ", ".join(x for x in (ed.get("editor"), ed.get("title"), ed.get("place"),
+                                         ed.get("date")) if x)
+        return {"license": "CC BY-SA 4.0",
+                "attribution": f"Perseus Digital Library, Tufts University (PerseusDL/{repo})",
+                "source_url": f"https://github.com/PerseusDL/{repo}",
+                "redistribute_whole": SHARE_ALIKE_WHOLE,
+                "note": ("licence line read from this file: " + clean("".join(lic.itertext()))
+                         if lic is not None else
+                         "this file states no licence; the repository's licence is CC BY-SA 4.0")
+                        + f". The {lang} text is a public-domain printed edition ({printed}); "
+                          "the TEI is share-alike: a derivative must credit Perseus and carry "
+                          "the same licence."}
     return {"license": "CC BY-SA 4.0",
             "attribution": f"Perseus Digital Library, Tufts University (PerseusDL/{repo})",
             "source_url": f"https://github.com/PerseusDL/{repo}",
-            "redistribute_whole": True,
+            "redistribute_whole": SHARE_ALIKE_WHOLE,
             "note": ("licence line read from this file: " + clean("".join(lic.itertext()))
                      if lic is not None else
                      "this file states no licence; the repository's licence is CC BY-SA 4.0")
@@ -407,10 +531,6 @@ TEI_PROSE = {
     "plutarch-galba-perrin": "Plut. Galba",
     "plutarch-otho-perrin": "Plut. Otho",
     "polybius-histories-shuckburgh": "Polyb.",
-    "josephus-antiquities-whiston": "Joseph. AJ",
-    "josephus-life-whiston": "Joseph. Vit.",
-    "josephus-against-apion-whiston": "Joseph. Ap.",
-    "josephus-jewish-war-whiston": "Joseph. BJ",
     "strabo-geography-hamilton": "Strab.",
     "apollodorus-library-frazer": "Apollod.",
     "apollodorus-epitome-frazer": "Apollod. Epit.",
@@ -636,6 +756,134 @@ TEI_PROSE = {
     "gelasius-historia-ecclesiastica-grc": "Gelas. HE",
     "mark-deacon-vita-porphyrii-grc": "Marc. Diac. V. Porph.",
     "passio-perpetuae-grc": "Pass. Perp.",
+    # Wave 4: early Christian apocrypha and pseudepigrapha in Greek, and
+    # M. R. James's English (1924) beside two of them, on Bonnet's sections.
+    "acts-of-thomas-grc": "Act. Thom.",
+    "acts-of-thomas-james": "Act. Thom.",
+    "acts-of-philip-grc": "Act. Phil.",
+    "acts-of-philip-james": "Act. Phil.",
+    "acts-of-barnabas-grc": "Act. Barn.",
+    "testament-of-abraham-a-grc": "T. Ab. A",
+    "testament-of-abraham-b-grc": "T. Ab. B",
+    "lives-of-prophets-dorotheus-grc": "Vit. Proph. (Dor.)",
+    "lives-of-prophets-anonymous-grc": "Vit. Proph. (anon.)",
+    "enoch-swete-grc": "1 En.",
+    # Tertullian's works CSEL lacks: Oehler's Latin (1853-54), from Perseus.
+    "tertullian-ad-martyras-lat": "Tert. Mart.",
+    "tertullian-ad-scapulam-lat": "Tert. Scap.",
+    "tertullian-adversus-iudaeos-lat": "Tert. Adv. Iud.",
+    "tertullian-de-carne-christi-lat": "Tert. Carn.",
+    "tertullian-de-corona-lat": "Tert. Cor.",
+    "tertullian-de-cultu-feminarum-lat": "Tert. Cult. fem.",
+    "tertullian-de-exhortatione-castitatis-lat": "Tert. Exh. cast.",
+    "tertullian-de-fuga-lat": "Tert. Fug.",
+    "tertullian-de-monogamia-lat": "Tert. Mon.",
+    "tertullian-de-paenitentia-lat": "Tert. Paen.",
+    "tertullian-de-pallio-lat": "Tert. Pall.",
+    "tertullian-de-praescriptione-lat": "Tert. Praescr.",
+    "tertullian-de-virginibus-velandis-lat": "Tert. Virg.",
+    "tertullian-ad-uxorem-lat": "Tert. Ux.",
+    # The LATIN fathers, 2026-10-02: CSEL volumes (1867-1922) from
+    # OpenGreekAndLatin/csel-dev, built from data/corpus/csel/. Unproofread
+    # OCR, machine-corrected; the honesty field says so.
+    "ambrose-apologia-david-altera-lat": "Ambr. Apol. alt.",
+    "ambrose-apologia-david-lat": "Ambr. Apol. Dav.",
+    "ambrose-de-benedictionibus-patriarcharum-lat": "Ambr. Patr.",
+    "ambrose-de-cain-et-abel-lat": "Ambr. Cain",
+    "ambrose-de-helia-lat": "Ambr. Hel.",
+    "ambrose-de-fuga-saeculi-lat": "Ambr. Fug.",
+    "ambrose-de-interpellatione-iob-lat": "Ambr. Interp.",
+    "ambrose-de-iacob-lat": "Ambr. Iac.",
+    "ambrose-de-ioseph-lat": "Ambr. Ioseph",
+    "ambrose-de-nabuthae-lat": "Ambr. Nab.",
+    "ambrose-de-noe-lat": "Ambr. Noe",
+    "ambrose-de-paradiso-lat": "Ambr. Parad.",
+    "ambrose-de-tobia-lat": "Ambr. Tob.",
+    "ambrose-explanatio-psalmorum-xii-lat": "Ambr. Psal.",
+    "ambrose-expositio-lucam-lat": "Ambr. in Luc.",
+    "ambrose-expositio-psalmi-118-lat": "Ambr. in Psal. 118",
+    "ambrose-exameron-lat": "Ambr. Hex.",
+    "arnobius-adversus-nationes-lat": "Arnob. Nat.",
+    "augustine-confessiones-lat": "Aug. Conf.",
+    "augustine-de-civitate-dei-lat": "Aug. Civ.",
+    "augustine-de-fide-et-symbolo-lat": "Aug. Fid. et symb.",
+    "augustine-epistulae-lat": "Aug. Ep.",
+    "augustine-contra-academicos-lat": "Aug. Acad.",
+    "augustine-contra-adimantum-lat": "Aug. Adim.",
+    "augustine-contra-cresconium-lat": "Aug. Cresc.",
+    "augustine-ad-catholicos-de-secta-donatistarum-lat": "Aug. Cath.",
+    "augustine-contra-duas-epistulas-pelagianorum-lat": "Aug. C. du. ep. Pel.",
+    "augustine-contra-epistulam-parmeniani-lat": "Aug. C. ep. Parm.",
+    "augustine-contra-faustum-lat": "Aug. C. Faust.",
+    "augustine-contra-gaudentium-lat": "Aug. C. Gaud.",
+    "augustine-contra-litteras-petiliani-lat": "Aug. C. litt. Pet.",
+    "augustine-contra-mendacium-lat": "Aug. C. mend.",
+    "augustine-contra-secundinum-lat": "Aug. C. Sec.",
+    "augustine-de-agone-christiano-lat": "Aug. Agon.",
+    "augustine-de-natura-et-origine-animae-lat": "Aug. Nat. et orig. an.",
+    "augustine-de-beata-vita-lat": "Aug. Beata v.",
+    "augustine-de-bono-coniugali-lat": "Aug. Bon. coniug.",
+    "augustine-de-coniugiis-adulterinis-lat": "Aug. Adult. coniug.",
+    "augustine-de-consensu-evangelistarum-lat": "Aug. Cons. ev.",
+    "augustine-de-duabus-animabus-lat": "Aug. Duab.",
+    "augustine-de-fide-et-operibus-lat": "Aug. Fid. et op.",
+    "augustine-de-genesi-ad-litteram-imperfectus-lat": "Aug. Gen. imp.",
+    "augustine-de-gestis-pelagii-lat": "Aug. Gest. Pel.",
+    "augustine-de-gratia-christi-lat": "Aug. Grat. Chr.",
+    "augustine-de-mendacio-lat": "Aug. Mend.",
+    "augustine-de-natura-boni-lat": "Aug. Nat. b.",
+    "augustine-de-natura-et-gratia-lat": "Aug. Nat. et gr.",
+    "augustine-de-opere-monachorum-lat": "Aug. Op. mon.",
+    "augustine-de-ordine-lat": "Aug. Ord.",
+    "augustine-de-peccatorum-meritis-lat": "Aug. Pecc. mer.",
+    "augustine-de-sancta-virginitate-lat": "Aug. Virg.",
+    "augustine-de-spiritu-et-littera-lat": "Aug. Spir. et litt.",
+    "augustine-de-unico-baptismo-lat": "Aug. Bapt. un.",
+    "augustine-de-utilitate-credendi-lat": "Aug. Util. cred.",
+    "augustine-quaestiones-in-heptateuchum-lat": "Aug. Quaest. Hept.",
+    "augustine-retractationes-lat": "Aug. Retract.",
+    "augustine-speculum-lat": "Aug. Spec.",
+    "jerome-epistulae-lat": "Hier. Ep.",
+    "jerome-in-hieremiam-lat": "Hier. in Hier.",
+    "lactantius-de-mortibus-persecutorum-lat": "Lact. Mort. pers.",
+    "lactantius-de-ira-dei-lat": "Lact. Ira",
+    "lactantius-de-opificio-dei-lat": "Lact. Opif.",
+    "lactantius-epitome-lat": "Lact. Epit.",
+    "lactantius-divinae-institutiones-lat": "Lact. Inst.",
+    "lactantius-fragmenta-lat": "Lact. Frag.",
+    "minucius-felix-octavius-lat": "Min. Fel. Oct.",
+    "adamnan-de-locis-sanctis-lat": "Adamn. Loc. sanct.",
+    "egeria-itinerarium-lat": "Itin. Eger.",
+    "eucherius-de-laude-heremi-lat": "Eucher. Laud. her.",
+    "eucherius-formulae-lat": "Eucher. Form.",
+    "eucherius-instructiones-lat": "Eucher. Instr.",
+    "eucherius-passio-agaunensium-lat": "Eucher. Pass. Acaun.",
+    "eugippius-vita-severini-lat": "Eugipp. Sev.",
+    "eugippius-excerpta-augustini-lat": "Eugipp. Exc.",
+    "paulinus-nola-epistulae-lat": "Paul. Nol. Ep.",
+    "sedulius-opus-paschale-lat": "Sedul. Op. pasch.",
+    "sulpicius-chronica-lat": "Sulp. Sev. Chron.",
+    "sulpicius-vita-martini-lat": "Sulp. Sev. Mart.",
+    "sulpicius-dialogi-lat": "Sulp. Sev. Dial.",
+    "sulpicius-epistulae-lat": "Sulp. Sev. Ep.",
+    "pseudo-tertullian-adversus-omnes-haereses-lat": "Ps.-Tert. Haer.",
+    "itinerarium-burdigalense-lat": "Itin. Burdig.",
+    "tertullian-ad-nationes-lat": "Tert. Nat.",
+    "tertullian-adversus-hermogenem-lat": "Tert. Herm.",
+    "tertullian-adversus-marcionem-lat": "Tert. Marc.",
+    "tertullian-adversus-praxean-lat": "Tert. Prax.",
+    "tertullian-adversus-valentinianos-lat": "Tert. Val.",
+    "tertullian-de-anima-lat": "Tert. An.",
+    "tertullian-de-baptismo-lat": "Tert. Bapt.",
+    "tertullian-de-idololatria-lat": "Tert. Idol.",
+    "tertullian-de-ieiunio-lat": "Tert. Ieiun.",
+    "tertullian-de-oratione-lat": "Tert. Or.",
+    "tertullian-de-patientia-lat": "Tert. Pat.",
+    "tertullian-de-pudicitia-lat": "Tert. Pud.",
+    "tertullian-de-resurrectione-carnis-lat": "Tert. Res.",
+    "tertullian-de-spectaculis-lat": "Tert. Spect.",
+    "tertullian-de-testimonio-animae-lat": "Tert. Test.",
+    "tertullian-scorpiace-lat": "Tert. Scorp.",
 }
 
 # A per-book line appended to the Perseus rights note, where the edition
@@ -755,6 +1003,11 @@ def tei_brackets(text):
     return text.strip(), refs, folios
 
 
+# Books that print each verse's number at the head of its text.
+TEI_PROSE_VERSE_NUMERALS = {"enoch-swete-grc"}
+RE_VERSE_NUMERAL = re.compile(r"^[0-9\u2070\u00b9\u00b2\u00b3\u2074-\u2079]+\s*")
+
+
 # Where the source's divisions are exact but are NOT the standard citation,
 # the honesty field says so instead of claiming the standard numbering.
 _APPIAN = ("exact to the source's innermost division. The last number is the "
@@ -762,6 +1015,20 @@ _APPIAN = ("exact to the source's innermost division. The last number is the "
            "the unit ending .6); the number before it is Horace White's "
            "chapter, which a standard citation does not use.")
 TEI_PROSE_HONESTY = {
+    "acts-of-philip-james": (
+        "on Bonnet's section numbers (1903), as James gives them (1924). James "
+        "abridges: measured, 7,062 English words against 16,316 Greek in "
+        "Bonnet, so a unit may be his summary of a section, not a "
+        "translation of it, and four of Bonnet's sections have no unit."),
+    "acts-of-thomas-james": (
+        "on Bonnet's section numbers (1903), as James gives them (1924); "
+        "a citation of Act. Thom. 12 reaches the same section in the Greek "
+        "book. One section James adds (144x) has no Greek counterpart."),
+    "enoch-swete-grc": (
+        "exact to the verse in the chapter.verse numbering of the Ethiopic "
+        "book, as Swete prints it (1905). Only what survives in Greek is "
+        "here: chapters 1-32 and a fragment of 89, so most of 1 Enoch has "
+        "no unit."),
     "athanasius-de-decretis-grc": (
         "chapters 41-42 only -- the passage Gelasius of Cyzicus quotes in his "
         "Church History, from whose edition (Loeschke & Heinemann, 1918) this "
@@ -889,11 +1156,40 @@ def tei_slice(el, start, end):
     return rec(el) if el is not start else ET.Element(el.tag)
 
 
+# A title the file's titleStmt gets wrong, by slug (the text is untouched).
+TEI_PROSE_TITLE = {
+    "tertullian-de-baptismo-lat": "De Baptismo",       # filed as "De Anima"
+    "augustine-contra-secundinum-lat": "Contra Secundinum",
+    "augustine-de-duabus-animabus-lat": "De Duabus Animabus",
+    "augustine-de-gratia-christi-lat": "De Gratia Christi",
+    "augustine-contra-duas-epistulas-pelagianorum-lat": "Contra Duas Epistulas Pelagianorum",
+    "ambrose-expositio-lucam-lat": "Expositio Evangelii secundum Lucam",
+    "eucherius-passio-agaunensium-lat": "Passio Agaunensium Martyrum",  # titleStmt empty
+    "adamnan-de-locis-sanctis-lat": "De Locis Sanctis",
+    # Geyer printed it as "S. Silviae Peregrinatio", the old misattribution;
+    # since Férotin (1903) the pilgrim is Egeria.
+    "egeria-itinerarium-lat": "Itinerarium Egeriae",
+}
+TEI_PROSE_AUTHOR = {"egeria-itinerarium-lat": "Egeria"}
+# A line added to a book's honesty where the file is not what its title says.
+TEI_PROSE_HONESTY_ADD = {
+    "augustine-de-gratia-christi-lat": (
+        "This file holds Book I only, De gratia Christi (55 sections, the ids); "
+        "Book II, De peccato originali, printed with it in CSEL 42, is not in it."),
+}
+
+
 def convert_tei_prose(path, slug, abbrev):
     T = TEI_NS
     root = tei_load(path)
     title, author, transl = tei_meta(root)
+    title = TEI_PROSE_TITLE.get(slug, title)
+    author = TEI_PROSE_AUTHOR.get(slug, author)
     body = root.find(f".//{T}body")
+    if (not transl and ogl(path)
+            and is_translation(body)):
+        # First1KGreek names the translator only as the printed book's author.
+        transl = tei_edition(root).get("author", "")
     tei_fix_n(body, slug)
     nbeta = tei_beta(body)
     units, pending_head, levels = [], [], []
@@ -931,9 +1227,14 @@ def convert_tei_prose(path, slug, abbrev):
             else:
                 leaf(e, ".".join(path_ns))
             return
+        names = csel_part_names(e, is_part) if csel else {}
         for c in e:
             if is_part(c):
-                visit(c, path_ns + [c.get("n") or "?"])
+                # An unnumbered part (a preface, a table of chapters): "?"
+                # in the books already built; a CSEL book names it by its
+                # subtype instead (1.preface), a citable name.
+                visit(c, path_ns + [c.get("n") or names.get(c) or (c.get("subtype", "?").lower()
+                                                                   if csel else "?")])
             elif any(is_part(d) for d in c.iter()):
                 visit(c, path_ns)               # a wrapper (the translation div)
             elif c.tag == T + "milestone":
@@ -984,7 +1285,7 @@ def convert_tei_prose(path, slug, abbrev):
             levels.append(cut[0])
 
     def leaf(e, ref, milestones=None):
-        nonlocal nnotes, nrefs, nfol, ncode
+        nonlocal nnotes, nrefs, nfol, ncode, nnum
         if True:
             text, _stage, notes, sic = tei_split(e)
             refs, folios = [], []
@@ -993,6 +1294,11 @@ def convert_tei_prose(path, slug, abbrev):
                 # NAME ("τῆU+03F2"): decoded by rule, counted.
                 text, k = re.subn(r"U\+([0-9A-F]{4})", lambda m: chr(int(m.group(1), 16)), text)
                 ncode += k
+            if slug in TEI_PROSE_VERSE_NUMERALS:
+                # Swete prints the verse number glued to the verse's first
+                # word ("⁷καὶ"); the unit id already carries it.
+                text, k = RE_VERSE_NUMERAL.subn("", text, count=1)
+                nnum += k
             if slug in TEI_PROSE_BRACKETS:
                 text, refs, folios = tei_brackets(text)
                 nrefs += len(refs); nfol += len(folios)
@@ -1010,7 +1316,7 @@ def convert_tei_prose(path, slug, abbrev):
                 app["notes"] = notes; nnotes += len(notes)
             if sic:
                 app["sic"] = sic
-            nlat = original and sum(1 for w in text.split() if re.search(r"[A-Za-z]", w))
+            nlat = greek and sum(1 for w in text.split() if re.search(r"[A-Za-z]", w))
             if nlat:
                 app["latin_letters"] = nlat     # a Latin passage, or OCR residue
             if refs:
@@ -1036,14 +1342,17 @@ def convert_tei_prose(path, slug, abbrev):
                         a.setdefault(k, []).extend(v)
 
     cut = TEI_PROSE_CUT.get(slug)
+    csel = ogl(path) is OGL["csel"]
     outside = []
-    nrefs = nfol = ncode = 0
+    nrefs = nfol = ncode = nnum = 0
     # The text itself, not a translation: a First1KGreek edition div. (Not
     # read off the markup alone: some Perseus translations are labelled
     # type="edition", and Smart's English Horace xml:lang="lat".)
     ed_div = body.find(f"{T}div[@type='edition']") if body is not None else None
-    original = (ed_div is not None and os.path.basename(os.path.dirname(path)) == "first1k"
-                and ed_div.get("{http://www.w3.org/XML/1998/namespace}lang") == "grc")
+    lang = ed_div.get("{http://www.w3.org/XML/1998/namespace}lang") if ed_div is not None else None
+    original = ((ogl(path) is not None and lang == ogl(path)["lang"])
+                or (slug in TEI_ORIGINAL and lang in ("lat", "grc")))
+    greek = original and lang == "grc"
     if cut and body is not None and not any(is_part(d) for d in body.iter()):
         split(body, [])                         # no divisions at all: De Senectute
     else:
@@ -1063,8 +1372,7 @@ def convert_tei_prose(path, slug, abbrev):
             steps += 1
             jumps += int(pb_[-1]) - int(pa[-1]) > 1
     spans = steps and jumps / steps > 0.1
-    house = ("First1KGreek" if os.path.basename(os.path.dirname(path)) == "first1k"
-             else "Perseus")
+    house = ogl(path)["house"] if ogl(path) else "Perseus"
     honesty = ("each unit is the run of numbered sections from its id to the next "
                f"unit's ({jumps:,} of {steps:,} steps skip numbers): a citation "
                "resolves to the unit that contains it" if spans else
@@ -1075,7 +1383,17 @@ def convert_tei_prose(path, slug, abbrev):
                "renumbered the work, the standard citation can differ.")
     if slug in TEI_PROSE_HONESTY and not spans:
         honesty = TEI_PROSE_HONESTY[slug]
-    rights = perseus_rights(root, path)
+    if csel:
+        honesty = (honesty.rstrip(".") + ". The text is OCR of the printed CSEL volume, "
+                   "machine-corrected (Leipzig, 2014) and NOT proofread: expect misread and "
+                   "run-together words. A part the edition leaves unnumbered (a preface, "
+                   "a table of chapters) is named by what it is: 1.preface (several of one "
+                   "kind, by the part each stands before: 2.toc, 2.tocb); the editor's "
+                   "list of manuscript sigla, where the file has one, is its own unit, "
+                   "mss, not the author's text.")
+    if slug in TEI_PROSE_HONESTY_ADD:
+        honesty = honesty.rstrip(".") + ". " + TEI_PROSE_HONESTY_ADD[slug]
+    rights = perseus_rights(root, path, original=slug in TEI_ORIGINAL)
     if slug in TEI_RIGHTS_NOTE:
         rights["note"] += " " + TEI_RIGHTS_NOTE[slug]
     source = {"path": os.path.relpath(path, CORPUS), "format": "tei",
@@ -1117,12 +1435,410 @@ def convert_tei_prose(path, slug, abbrev):
                                   f"residue in the source (r for γ, a for α): left as the "
                                   f"source has them, and counted on each such unit as "
                                   f"apparatus.latin_letters, so a reader can tell a clean "
-                                  f"unit from a damaged one." if original and latin else "")
+                                  f"unit from a damaged one." if greek and latin else "")
+                               + (f" {nnum} printed verse number(s) glued to a verse's "
+                                  f"first word dropped (the id carries the number)." if nnum else "")
                                + (f" {ncode} character(s) the source writes as a code-point "
                                   f"name (U+03F2) decoded to the character." if ncode else "")},
             "rights": rights,
             "units": units}
 
+
+# CATENAE: J. A. Cramer, Catenae Graecorum Patrum in Novum Testamentum
+# (Oxford, 1838-44), from First1KGreek. A catena strings the fathers'
+# comments (Chrysostom, Origen, Cyril...) on each verse, lemma then
+# comments. The files divide only by the ancient KEPHALAIA, never by
+# modern chapter. Cramer printed the VERSE number beside each lemma -- as a
+# margin note in Matthew, as a bare <lb n="12"/> between paragraphs in the
+# epistles, where it is mixed with his page-line numbers (5, 10, 15...).
+# The chapter is printed nowhere. So which marks are verses, and in which
+# chapter, was MEASURED: pipeline/place_catena.py matches each candidate
+# mark's lemma against the Robinson-Pierpont Greek NT (2018, PD; pinned)
+# under the rule that chapters only advance, and COMMITS its decisions as
+# data/catenae/<slug>.json. This converter only reads them: every placed
+# mark names the kephalaion and printed number it expects, so a changed
+# source fails loudly instead of misplacing comments.
+# A unit is one placed mark: the lemma and the comments after it up to the
+# next placed mark, id = chapter.verse (a lemma that runs on over a second
+# mark is a range, 7.1-2). A kephalaion with no placed mark is one
+# unlinked unit (k41).
+CATENA = {
+    # slug: (abbrev, OSIS book, Robinson-Pierpont file stem)
+    "catena-matthew-cramer-grc": ("Cat. Matt.", "Matt", "MAT"),
+    "catena-mark-cramer-grc": ("Cat. Mk.", "Mark", "MAR"),
+    "catena-luke-cramer-grc": ("Cat. Lk.", "Luke", "LUK"),
+    "catena-john-cramer-grc": ("Cat. Jn.", "John", "JOH"),
+    "catena-acts-cramer-grc": ("Cat. Act.", "Acts", "ACT"),
+    "catena-romans-cramer-grc": ("Cat. Rom.", "Rom", "ROM"),
+    "catena-1corinthians-cramer-grc": ("Cat. 1 Cor.", "1Cor", "1CO"),
+    "catena-2corinthians-cramer-grc": ("Cat. 2 Cor.", "2Cor", "2CO"),
+    "catena-galatians-cramer-grc": ("Cat. Gal.", "Gal", "GAL"),
+    "catena-ephesians-cramer-grc": ("Cat. Eph.", "Eph", "EPH"),
+    "catena-philippians-cramer-grc": ("Cat. Phil.", "Phil", "PHP"),
+    "catena-colossians-cramer-grc": ("Cat. Col.", "Col", "COL"),
+    "catena-1thessalonians-cramer-grc": ("Cat. 1 Thess.", "1Thess", "1TH"),
+    "catena-2thessalonians-cramer-grc": ("Cat. 2 Thess.", "2Thess", "2TH"),
+    "catena-1timothy-cramer-grc": ("Cat. 1 Tim.", "1Tim", "1TI"),
+    "catena-2timothy-cramer-grc": ("Cat. 2 Tim.", "2Tim", "2TI"),
+    "catena-titus-cramer-grc": ("Cat. Tit.", "Titus", "TIT"),
+    "catena-philemon-cramer-grc": ("Cat. Philem.", "Phlm", "PHM"),
+    "catena-hebrews-cramer-grc": ("Cat. Heb.", "Heb", "HEB"),
+    "catena-james-cramer-grc": ("Cat. Jas.", "Jas", "JAM"),
+    "catena-1peter-cramer-grc": ("Cat. 1 Pet.", "1Pet", "1PE"),
+    "catena-2peter-cramer-grc": ("Cat. 2 Pet.", "2Pet", "2PE"),
+    "catena-1john-cramer-grc": ("Cat. 1 Jn.", "1John", "1JO"),
+    "catena-2john-cramer-grc": ("Cat. 2 Jn.", "2John", "2JO"),
+    "catena-3john-cramer-grc": ("Cat. 3 Jn.", "3John", "3JO"),
+}
+CATENA_DIR = os.path.join(HERE, "..", "data", "catenae")
+# Kephalaia that are apparatus, not commentary: Cramer's table of contents,
+# his index of authors, addenda, and the "Supplementum" of variant readings
+# by page and line (2 Cor, Hebrews), whose numbers are LINE numbers. Their
+# numbers are never verse candidates; their text stays, one unit each.
+CATENA_APPARATUS = re.compile(r"^(toc|authors|index|addenda|sup\w*)$")
+
+
+def catena_marks(body):
+    """The catena as a flat walk: one item per child of each kephalaion,
+    with the CANDIDATE verse marks in document order (ordinal). A candidate
+    is a margin note or a bare <lb n> between paragraphs with a number, or
+    a margin note inside a paragraph that is not the lemma just marked (a
+    mark inside the lemma itself only extends it: `also`)."""
+    T = TEI_NS
+    items, ordinal = [], -1
+    for k in body.iter(T + "div"):
+        if k.get("subtype") != "chapter":
+            continue
+        kn = k.get("n")
+        just_marked = False
+        apparatus = bool(CATENA_APPARATUS.match(kn or ""))
+        for c in k:
+            n = None
+            if c.tag == T + "note" and c.get("type") == "marginal":
+                n, src = clean("".join(c.itertext())), "margin"
+            elif c.tag == T + "lb":
+                n, src = c.get("n") or "", "lb"
+            if n is not None:
+                if n.isdigit() and not apparatus:
+                    ordinal += 1
+                    items.append({"k": kn, "kind": "mark", "n": n, "ord": ordinal, "src": src})
+                    just_marked = True
+                continue
+            inner = [clean("".join(x.itertext())) for x in c.iter(T + "note")
+                     if x.get("type") == "marginal"]
+            inner = [x for x in inner if x.isdigit() and not apparatus]
+            if c.tag == T + "p" and inner and not just_marked:
+                ordinal += 1
+                items.append({"k": kn, "kind": "mark", "n": inner[0], "ord": ordinal,
+                              "src": "margin"})
+                inner = inner[1:]
+            items.append({"k": kn, "kind": "head" if c.tag == T + "head" else "el",
+                          "el": c, "also": inner})
+            if c.tag == T + "p":
+                just_marked = False
+    return items
+
+
+def catena_lemma(items, i):
+    """The lemma a mark at items[i] stands beside: the next paragraph."""
+    for it in items[i + 1:]:
+        if it["kind"] == "mark":
+            return ""
+        if it["kind"] == "el" and it["el"].tag == TEI_NS + "p":
+            return clean("".join(it["el"].itertext()))
+    return ""
+
+
+def catena_sid(base, seen):
+    """A second section on the same verse (or kephalaion) is that id + b, a
+    third + c, in the order Cramer prints them: 9.20, 9.20b. Deliberate, so
+    main()'s order-dependent ~N dedupe never has to step in."""
+    seen[base] = seen.get(base, 0) + 1
+    k = seen[base]
+    return base if k == 1 else base + "abcdefghijklmnopqrstuvwxyz"[k - 1]
+
+
+def convert_catena(path, slug):
+    T = TEI_NS
+    abbrev, osis, _stem = CATENA[slug]
+    root = tei_load(path)
+    title, _a, _t = tei_meta(root)
+    body = root.find(f".//{T}body")
+    placed_doc = json.load(open(os.path.join(CATENA_DIR, slug + ".json"), encoding="utf-8"))
+    placed = {p["ord"]: p for p in placed_doc["placed"]}
+    items = catena_marks(body)
+    units, seen = [], {}
+    nnotes = 0
+
+    def is_margin(e):
+        return e.tag == T + "note" and e.get("type") == "marginal"
+
+    def flush(sec):
+        nonlocal nnotes
+        if sec is None or not (sec["els"] or sec["head"]):
+            return
+        texts, notes = [], []
+        for el in sec["els"]:
+            el = copy.deepcopy(el)
+            for par in list(el.iter()):
+                for c in list(par):
+                    if is_margin(c):
+                        # Drop the mark, keep the text after it in place.
+                        kids = list(par)
+                        j = kids.index(c)
+                        if j:
+                            kids[j - 1].tail = (kids[j - 1].tail or "") + (c.tail or "")
+                        else:
+                            par.text = (par.text or "") + (c.tail or "")
+                        par.remove(c)
+            t, _st, n2, _sic = tei_split(el)
+            if t:
+                texts.append(t)
+            notes.extend(n2)
+        app = {}
+        if sec["head"]:
+            app["head"] = sec["head"]
+        if notes:
+            app["notes"] = notes; nnotes += len(notes)
+        text = " ".join(texts)
+        lat = sum(1 for w in text.split() if re.search(r"[A-Za-z]", w))
+        if lat:
+            app["latin_letters"] = lat
+        if "p" in sec:
+            pl = sec["p"]
+            ch, v = pl["chapter"], pl["verse"]
+            also = [int(a) for a in sec["also"] if int(a) > v]
+            last = max(also) if also else None
+            base = f"{ch}.{v}" + (f"-{last}" if last else "")
+            sid = catena_sid(base, seen)
+            match = "checked" if pl["score"] >= 0.3 else "weak"
+            links = [{"kind": "scripture", "target": f"kjv:{osis}.{ch}.{x}", "match": match}
+                     for x in range(v, (last or v) + 1)]
+            ms = {"kephalaion": pl["k"], "margin": pl["n"]}
+            ref = f"{ch}:{v}" + (f"-{last}" if last else "")
+        else:
+            sid, links, ms, ref = (catena_sid(f"k{sec['k']}", seen), [], {"kephalaion": sec["k"]},
+                                   f"κεφ. {sec['k']}")
+        u = {"id": f"{slug}:{sid}", "ref": f"{abbrev} {ref}", "text": text,
+             "links": links, "milestones": ms}
+        if app:
+            u["apparatus"] = app
+        units.append(u)
+
+    sec, cur_k = None, None
+    for it in items:
+        if it["k"] != cur_k:
+            # A new kephalaion: what came before stays with its own section;
+            # the new one opens unlinked until its first placed mark.
+            flush(sec)
+            cur_k = it["k"]
+            sec = {"k": cur_k, "els": [], "head": [], "also": []}
+        if it["kind"] == "mark":
+            pl = placed.get(it["ord"])
+            if pl is None:
+                continue                        # a page-line number, or unplaceable
+            if (pl["k"], pl["n"]) != (it["k"], it["n"]):
+                raise ValueError(f"{slug}: candidate {it['ord']} is k{it['k']} n{it['n']}, "
+                                 f"{CATENA_DIR}/{slug}.json expects k{pl['k']} n{pl['n']}")
+            if "p" in sec:
+                flush(sec)
+                sec = {"k": cur_k, "els": [], "head": [], "also": []}
+            elif len(sec["els"]) <= 1:
+                # The kephalaion's title paragraph: a heading of the first unit.
+                sec["head"] += [t for t in (clean("".join(e.itertext())) for e in sec["els"]) if t]
+                sec["els"] = []
+            else:
+                # More than a title before the first placed mark: its own
+                # unlinked unit, k<n>.
+                flush(sec)
+                sec = {"k": cur_k, "els": [], "head": [], "also": []}
+            sec["p"] = pl
+            continue
+        if it["kind"] == "head":
+            sec["head"].append(clean("".join(it["el"].itertext())))
+            continue
+        sec["els"].append(it["el"])
+        if "p" in sec and len([e for e in sec["els"] if e.tag == T + "p"]) == 1:
+            sec["also"] += it["also"]           # a mark inside the lemma: a range
+    flush(sec)
+    linked = sum(1 for u in units if u["links"])
+    weak = sum(1 for u in units if u["links"] and u["links"][0]["match"] == "weak")
+    return {"slug": slug, "title": title, "author": "Catena (Cramer)",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
+                       "translator": "", "sha256": sha256(path),
+                       "edition": tei_edition(root), "language": "grc"},
+            "scheme": {"citation": f"{abbrev} chapter.verse (placed sections); k<kephalaion> (the rest)",
+                       "resolution": "verse (placed sections); kephalaion (the rest)",
+                       "honesty": placed_doc["honesty"],
+                       "note": f"First1KGreek TEI of Cramer's catena. One unit per verse mark "
+                               f"placed by pipeline/place_catena.py (lemma and the comments "
+                               f"after it); {linked} unit(s) link to the KJV verse(s) they "
+                               f"comment on ({weak} weak: the lemma shares under 30% of its "
+                               f"words with the verse). Where Cramer prints two sections "
+                               f"on one verse, the second is that id + b (9.20b), a third + c. "
+                               f"{nnotes} footnote(s) in "
+                               f"apparatus.notes; kephalaion headings and titles in "
+                               f"apparatus.head. Units with Latin-letter words (OCR residue) "
+                               f"carry apparatus.latin_letters."},
+            "rights": perseus_rights(root, path),
+            "units": units}
+
+
+# Two catenae First1KGreek already divides BY VERSE, each verse div naming
+# its passage as a CTS urn (corresp="...tlg0031.tlg006:7.9-7.12"): nothing
+# to measure, the encoder's reading is read. The Munich-type Romans
+# (Rom 7-16) also divides each verse into its lemma and one div per father
+# (corresp="#Chrysostom"): each comment is its own unit, 7.9-12.c1, with
+# the father named, so a citation of "Chrysostom on Rom 7:9 in the catena"
+# has an address. Jude: one unit per verse div.
+CATENA_VERSES = {
+    # slug: (abbrev, OSIS book)
+    "catena-romans-monacensis-cramer-grc": ("Cat. Rom. Monac.", "Rom"),
+    "catena-jude-cramer-grc": ("Cat. Jud.", "Jude"),
+}
+RE_CTS_PASSAGE = re.compile(r":(\d+)\.(\d+)(?:-(?:(\d+)\.)?(\d+))?$")  # 7.9-7.12, 15.28-29
+# Where the encoder's passage is not the KJV's verse. The Byzantine text
+# (and so Cramer's catena) prints the doxology "To him that is of power"
+# after Rom 14:23, as 14:24-26; the KJV prints it as 16:25-27. The unit id
+# keeps the encoder's citation; the link goes to the KJV's verse.
+CATENA_KJV_MOVED = {("Rom", 14, 24): (16, 25), ("Rom", 14, 25): (16, 26), ("Rom", 14, 26): (16, 27)}
+# The rubric "Τοῦ Αὐτοῦ" (of the same) is encoded as "Same": the father is
+# the one before it in the same verse.
+CATENA_BY_SAME = "Same"
+CATENA_FATHERS = {"Chrysostom", "Theodoret", "Cyril", "Gennadius", "Monachus", "Photius",
+                  "Severianus", "Oecumenius", "Isidore", "Basil", "Theodore", "Origen", "Maximus",
+                  "Nyssa", "Diodorus", "Chrysologus", "Methodius", "Clement", "Agathius",
+                  "Euthalius", "Caesarius", "Patara", "Didymus"}
+
+
+def kjv_unit_ids():
+    with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+        return {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+
+
+def convert_catena_verses(path, slug):
+    T = TEI_NS
+    abbrev, osis = CATENA_VERSES[slug]
+    root = tei_load(path)
+    title, _a, _t = tei_meta(root)
+    body = root.find(f".//{T}body")
+    units, seen, pending_head = [], {}, []
+    nnotes = nby = nsame = nmoved = 0
+    odd_by = collections.Counter()
+    kjv = kjv_unit_ids()
+
+    def target(ch, v):
+        nonlocal nmoved
+        c2, v2 = CATENA_KJV_MOVED.get((osis, ch, v), (ch, v))
+        nmoved += (c2, v2) != (ch, v)
+        t = f"kjv:{osis}.{c2}.{v2}"
+        if t not in kjv:
+            raise ValueError(f"{slug}: the encoder's {ch}:{v} is no KJV verse ({t}); "
+                             f"add it to CATENA_KJV_MOVED")
+        return t
+
+    def passage(cr):
+        m = RE_CTS_PASSAGE.search(cr or "")
+        if not m:
+            raise ValueError(f"{slug}: verse div without a passage urn: {cr!r}")
+        c1, v1 = int(m.group(1)), int(m.group(2))
+        c2 = int(m.group(3)) if m.group(3) else c1
+        v2 = int(m.group(4)) if m.group(4) else v1
+        if c2 != c1:
+            raise ValueError(f"{slug}: a passage across chapters: {cr!r}")
+        return c1, v1, v2
+
+    def add(sid, ref, e, links, ms, by=None):
+        nonlocal nnotes
+        text, _stage, notes, _sic = tei_split(e)
+        seen[sid] = seen.get(sid, 0) + 1
+        if seen[sid] > 1:
+            sid = f"{sid}~{seen[sid]}"
+        u = {"id": f"{slug}:{sid}", "ref": f"{abbrev} {ref}", "text": text,
+             "links": links, "milestones": ms}
+        app = {}
+        if pending_head:
+            app["head"] = list(pending_head); pending_head.clear()
+        if notes:
+            app["notes"] = notes; nnotes += len(notes)
+        lat = sum(1 for w in text.split() if re.search(r"[A-Za-z]", w))
+        if lat:
+            app["latin_letters"] = lat
+        if by:
+            u["by"] = by
+        if app:
+            u["apparatus"] = app
+        units.append(u)
+
+    for k in body.iter(T + "div"):
+        if k.get("subtype") != "chapter":
+            continue
+        for c in k:
+            if c.tag in (T + "head", T + "p"):
+                # A kephalaion's heading or title paragraph: on the next unit.
+                t = clean("".join(c.itertext()))
+                if t:
+                    pending_head.append(t)
+                continue
+            if not (c.tag == T + "div" and c.get("subtype") == "verse"):
+                continue
+            parts = [x for x in c if x.tag == T + "div"]
+            lemma = [x for x in parts if x.get("n") == "verse"]
+            ch, v1, v2 = passage(c.get("corresp") or (lemma[0].get("corresp") if lemma else ""))
+            base = f"{ch}.{v1}" + (f"-{v2}" if v2 != v1 else "")
+            ref = f"{ch}:{v1}" + (f"-{v2}" if v2 != v1 else "")
+            links = [{"kind": "scripture", "target": target(ch, x), "match": "encoded"}
+                     for x in range(v1, v2 + 1)]
+            ms = {"kephalaion": k.get("n")}
+            if not parts:
+                add(base, ref, c, links, ms)
+                continue
+            prev_by = None
+            for x in parts:
+                if x.get("n") == "verse":
+                    add(base, ref, x, links, ms)
+                else:
+                    by = (x.get("corresp") or "").lstrip("#") or None
+                    if by == CATENA_BY_SAME and prev_by:
+                        by = prev_by; nsame += 1
+                    elif by and by not in CATENA_FATHERS:
+                        odd_by[by] += 1
+                    prev_by = by or prev_by
+                    nby += bool(by) and by in CATENA_FATHERS
+                    add(f"{base}.c{x.get('n')}", f"{ref}, {by or 'comment ' + x.get('n')}",
+                        x, links, ms, by)
+    if pending_head and units:
+        units[-1].setdefault("apparatus", {}).setdefault("head", []).extend(pending_head)
+    linked = sum(1 for u in units if u["links"])
+    return {"slug": slug, "title": title, "author": "Catena (Cramer)",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "tei",
+                       "translator": "", "sha256": sha256(path),
+                       "edition": tei_edition(root), "language": "grc"},
+            "scheme": {"citation": f"{abbrev} chapter.verse[-verse]" + (".c<comment>" if nby else ""),
+                       "resolution": "verse" + (" (lemma); comment (each father's)" if nby else ""),
+                       "honesty": ("Each unit's verse(s) are the passage the First1KGreek encoder "
+                                   "names on its verse div (a CTS urn), read, not measured, and "
+                                   "not checked here against the Greek NT. "
+                                   + (f"{nby} comment(s) carry the father the file names (by); "
+                                      "the name is the encoder's reading of Cramer's rubric"
+                                      + (f" ({nsame} \"of the same\" rubric(s) given the father "
+                                         "before them)" if nsame else "")
+                                      + (". Kept as encoded but not a father's name: "
+                                         + ", ".join(f"{k} ({v})" for k, v in sorted(odd_by.items()))
+                                         if odd_by else "") + ". "
+                                      if nby else "")
+                                   + (f"{nmoved} verse(s) link to the KJV's numbering of a verse "
+                                      "the encoder numbers otherwise (the Byzantine Romans "
+                                      "doxology, 14:24-26, is the KJV's 16:25-27). "
+                                      if nmoved else "")
+                                   + "The text is unproofread OCR; Latin-letter words are counted "
+                                     "per unit as apparatus.latin_letters."),
+                       "note": f"First1KGreek TEI of Cramer's catena, divided by verse in the "
+                               f"file. {linked} unit(s) link to the KJV verse(s) they comment "
+                               f"on (match: encoded). {nnotes} footnote(s) in apparatus.notes; "
+                               f"kephalaion headings and titles in apparatus.head."},
+            "rights": perseus_rights(root, path),
+            "units": units}
 
 # Perseus LETTERS: Cicero's correspondence in Shuckburgh's translation
 # (1899-1900). Shuckburgh printed the letters in ONE chronological series,
@@ -1674,6 +2390,434 @@ def convert_kjv(path, slug="kjv"):
                        "resolution": "verse", "honesty": "exact"},
             "units": units}
 
+# ---------------------------------------------------------------- Vulgate
+#
+# The Clementine Vulgate (1592), from the Clementine Vulgate Project's own
+# files (fetch_sources.VULGATE, pinned). One file per book, one line per
+# verse, "chapter:verse text". The project's markup, read from its files
+# (counts measured 2026-10-02 over all 35,809 verses):
+#     /        a line break inside poetry            28,860
+#     \        a paragraph break (2,058 of 2,085 at a verse's end)
+#     [ ... ]  a stretch set as poetry; it opens and closes mid-verse too
+#     <Name>   a speaker heading (the Song of Songs: Sponsa, Sponsus, Chorus)
+# `text` is the verse with the markup turned into layout ("/" a newline,
+# "\" a blank line, brackets dropped, speakers lifted into `speakers`);
+# `marked` is the line exactly as the file has it, so nothing is lost and
+# the change is plain to see (the project asks that modifications be clear).
+#
+# WHAT IS NOT CLAIMED (rule 4): ids are in the VULGATE's own numbering, which
+# is not the KJV's. Its Psalms follow the Greek count (Vulgate Ps 50 is KJV
+# Ps 51) and count a title in verse 1, as the Hebrew does; Daniel 3
+# carries the Song of the Three Children (3:24-90) and Esther its Greek
+# additions (10:4-16:24). So `vulgate:Ps.50.3` stays a citation in the
+# Vulgate, and no Word Hoard uid is minted here. Each unit's `kjv` says which
+# KJV verse holds the same text, by the map data/versification/vulgate-kjv.json
+# (pipeline/build_vulgate_versification.py, STEPBible TVTMS run against this
+# very text): {"resolved": true, "target": "kjv:Ps.51.1"}, with `spans` when
+# the verse holds several KJV verses; or {"resolved": false, "why": ...} for a
+# psalm title (the KJV numbers none) or text the KJV's canon does not hold.
+
+VULGATE_BOOKS = {   # file -> (OSIS, the book's Latin name)
+    "Gn": ("Gen", "Genesis"), "Ex": ("Exod", "Exodus"), "Lv": ("Lev", "Leviticus"),
+    "Nm": ("Num", "Numeri"), "Dt": ("Deut", "Deuteronomium"), "Jos": ("Josh", "Josue"),
+    "Jdc": ("Judg", "Judicum"), "Rt": ("Ruth", "Ruth"), "1Rg": ("1Sam", "1 Regum"),
+    "2Rg": ("2Sam", "2 Regum"), "3Rg": ("1Kgs", "3 Regum"), "4Rg": ("2Kgs", "4 Regum"),
+    "1Par": ("1Chr", "1 Paralipomenon"), "2Par": ("2Chr", "2 Paralipomenon"),
+    "Esr": ("Ezra", "1 Esdrae"), "Neh": ("Neh", "Nehemiae"), "Tob": ("Tob", "Tobiae"),
+    "Jdt": ("Jdt", "Judith"), "Est": ("Esth", "Esther"), "Job": ("Job", "Job"),
+    "Ps": ("Ps", "Psalmi"), "Pr": ("Prov", "Proverbia"), "Ecl": ("Eccl", "Ecclesiastes"),
+    "Ct": ("Song", "Canticum Canticorum"), "Sap": ("Wis", "Sapientia"),
+    "Sir": ("Sir", "Ecclesiasticus"), "Is": ("Isa", "Isaias"), "Jr": ("Jer", "Jeremias"),
+    "Lam": ("Lam", "Lamentationes"), "Bar": ("Bar", "Baruch"), "Ez": ("Ezek", "Ezechiel"),
+    "Dn": ("Dan", "Daniel"), "Os": ("Hos", "Osee"), "Joel": ("Joel", "Joel"),
+    "Am": ("Amos", "Amos"), "Abd": ("Obad", "Abdias"), "Jon": ("Jonah", "Jonas"),
+    "Mch": ("Mic", "Michaea"), "Nah": ("Nah", "Nahum"), "Hab": ("Hab", "Habacuc"),
+    "Soph": ("Zeph", "Sophonias"), "Agg": ("Hag", "Aggaeus"), "Zach": ("Zech", "Zacharias"),
+    "Mal": ("Mal", "Malachias"), "1Mcc": ("1Macc", "1 Machabaeorum"),
+    "2Mcc": ("2Macc", "2 Machabaeorum"), "Mt": ("Matt", "Matthaeus"), "Mc": ("Mark", "Marcus"),
+    "Lc": ("Luke", "Lucas"), "Jo": ("John", "Joannes"), "Act": ("Acts", "Actus Apostolorum"),
+    "Rom": ("Rom", "ad Romanos"), "1Cor": ("1Cor", "1 ad Corinthios"),
+    "2Cor": ("2Cor", "2 ad Corinthios"), "Gal": ("Gal", "ad Galatas"),
+    "Eph": ("Eph", "ad Ephesios"), "Phlp": ("Phil", "ad Philippenses"),
+    "Col": ("Col", "ad Colossenses"), "1Thes": ("1Thess", "1 ad Thessalonicenses"),
+    "2Thes": ("2Thess", "2 ad Thessalonicenses"), "1Tim": ("1Tim", "1 ad Timotheum"),
+    "2Tim": ("2Tim", "2 ad Timotheum"), "Tit": ("Titus", "ad Titum"),
+    "Phlm": ("Phlm", "ad Philemonem"), "Hbr": ("Heb", "ad Hebraeos"),
+    "Jac": ("Jas", "Jacobi"), "1Ptr": ("1Pet", "1 Petri"), "2Ptr": ("2Pet", "2 Petri"),
+    "1Jo": ("1John", "1 Joannis"), "2Jo": ("2John", "2 Joannis"), "3Jo": ("3John", "3 Joannis"),
+    "Jud": ("Jude", "Judae"), "Apc": ("Rev", "Apocalypsis"),
+}
+RE_VULG_LINE = re.compile(r"^(\d+):(\d+)\s(.*)$")
+RE_VULG_SPEAKER = re.compile(r"<([^>]*)>")
+
+
+def vulgate_layout(marked):
+    """(text, speakers) for one verse's marked-up line."""
+    speakers = [m.strip() for m in RE_VULG_SPEAKER.findall(marked)]
+    t = RE_VULG_SPEAKER.sub(" ", marked).replace("[", "").replace("]", "")
+    t = t.replace("\\", "\n\n").replace("/", "\n")
+    t = "\n".join(re.sub(r"[ \t]+", " ", ln).strip() for ln in t.split("\n"))
+    t = re.sub(r"\n{3,}", "\n\n", t).strip()
+    return t, speakers
+
+
+def convert_vulgate(vdir, books, digest, slug="vulgate"):
+    """`books`: file names in canonical order; `digest`: the pinned digest."""
+    import sys as _sys
+    if HERE not in _sys.path:       # loaded by path (the tests do), not as a script
+        _sys.path.insert(0, HERE)
+    import versification as _V
+    vmap, kjv_ids = None, set()
+    if os.path.exists(_V.VULGATE_PATH):
+        vmap = _V.load(_V.VULGATE_PATH)
+        with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+            kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+    resolved = {True: 0, False: 0}
+    units = []
+    for b in books:
+        osis, name = VULGATE_BOOKS[b]
+        with open(os.path.join(vdir, b + ".lat"), encoding="cp1252") as f:
+            for n, line in enumerate(f, 1):
+                line = line.rstrip("\r\n")
+                if not line.strip():
+                    continue
+                m = RE_VULG_LINE.match(line)
+                if not m:
+                    raise ValueError(f"{b}.lat line {n}: not 'chapter:verse text'")
+                c, v, marked = m.groups()
+                text, speakers = vulgate_layout(marked)
+                u = {"id": f"{slug}:{osis}.{c}.{v}", "ref": f"{name} {c}:{v}",
+                     "text": text, "links": [], "marked": marked}
+                if speakers:
+                    u["speakers"] = speakers
+                if vmap:
+                    u["kjv"] = _V.resolve_vulgate(f"{osis}.{c}.{v}", vmap, kjv_ids)
+                    resolved[u["kjv"]["resolved"]] += 1
+                units.append(u)
+    return {"slug": slug, "title": "Biblia Sacra Vulgatae Editionis (Clementine Vulgate, 1592)",
+            "author": "—",
+            "source": {"path": os.path.relpath(vdir, CORPUS), "format": "clementine-lat",
+                       "sha256": digest,
+                       "sha256_of": "name<TAB>sha256 lines of the book files, sorted"},
+            "scheme": {"citation": "Book chapter:verse in the Vulgate's own numbering (OSIS book ids)",
+                       "resolution": "verse", "honesty": "exact",
+                       "versification": "vulgate",
+                       "kjv_resolved": resolved[True], "kjv_unresolved": resolved[False],
+                       "note": "Ids follow the Clementine numbering, NOT the KJV's: the "
+                               "Psalms are numbered as in the Greek (Vulgate Ps 50 = KJV "
+                               "Ps 51) with a title counted in verse 1, Daniel 3 holds 3:24-90 "
+                               "and Esther 10:4-16:24 the Greek additions. Each unit's `kjv` "
+                               "names the KJV verse(s) holding the same text, by the map "
+                               "data/versification/vulgate-kjv.json (STEPBible TVTMS, CC BY "
+                               "4.0, tested against this text), or says why there is none; "
+                               "no uids minted. `text` is the verse with the "
+                               "project's markup turned into line and paragraph breaks; "
+                               "`marked` is the file's line as is. The Clementine appendix "
+                               "(Prayer of Manasses, 3-4 Esdras) is not in the source."},
+            "rights": {"license": "public-domain",
+                       "attribution": "The Clementine Vulgate Project (vulsearch.sourceforge.net)",
+                       "source_url": "https://github.com/BibleGet-I-O/Clementine-Vulgate",
+                       "requests": "acknowledge the source; report typographical errors to the "
+                                   "project; make modifications clear (requests, not a licence)"},
+            "units": units}
+
+# ---------------------------------------------------------------- Douay-Rheims
+#
+# The Douay-Rheims, Challoner revision (fetch_sources.DOUAY, pinned): the
+# Vulgate's English companion. One JSON file, books -> chapters -> verses, its
+# first 73 books in the Clementine's order and, nearly everywhere, the
+# Clementine's numbering. So a unit's id is in that numbering (douay:Ps.50.3)
+# and `vulgate` names the Clementine verse(s) holding the same text: the same
+# number, except at DOUAY_ROWS, where this edition breaks verses elsewhere.
+# `kjv` follows through the Vulgate map (data/versification/vulgate-kjv.json).
+#
+# WHAT IS NOT CLAIMED (rule 4): the file pads its versification with EMPTY
+# verses where the KJV numbers a verse it has not got (John 11:57, 2 Cor
+# 1:24, 1 Thess 4:18 ...). An empty verse is no verse of the Douay: it is
+# dropped, and counted in the scheme, never given an id. DOUAY_ROWS was found
+# by aligning this English against the KJV's (build_vulgate_versification.py
+# --audit-douay) and read verse by verse against the Latin.
+
+DOUAY_NAMES = [   # the file's own book names, in order: a reordered file fails loudly
+    "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges",
+    "Ruth", "I Samuel", "II Samuel", "I Kings", "II Kings", "I Chronicles",
+    "II Chronicles", "Ezra", "Nehemiah", "Tobit", "Judith", "Esther", "Job", "Psalms",
+    "Proverbs", "Ecclesiastes", "Song of Solomon", "Wisdom", "Sirach", "Isaiah",
+    "Jeremiah", "Lamentations", "Baruch", "Ezekiel", "Daniel", "Hosea", "Joel", "Amos",
+    "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah",
+    "Malachi", "I Maccabees", "II Maccabees", "Matthew", "Mark", "Luke", "John", "Acts",
+    "Romans", "I Corinthians", "II Corinthians", "Galatians", "Ephesians", "Philippians",
+    "Colossians", "I Thessalonians", "II Thessalonians", "I Timothy", "II Timothy",
+    "Titus", "Philemon", "Hebrews", "James", "I Peter", "II Peter", "I John", "II John",
+    "III John", "Jude", "Revelation of John"]
+
+# Douay verse -> (the Clementine verse(s) holding its text, words that stand in
+# the Douay verse), where that is not the verse of the same number. Each was
+# read against the Latin; the words are checked, so a changed file fails loudly.
+DOUAY_ROWS = {
+    "Ps.15.11": (["Ps.15.10"], "made known to me the ways of life"),
+    "Ps.42.5": (["Ps.42.4", "Ps.42.5"], "give praise upon the harp"),
+    "Ps.42.6": (["Ps.42.5"], "Hope in God"),
+    "Ps.125.7": (["Ps.125.6"], "carrying their sheaves"),
+    "Ps.135.27": (["Ps.135.26"], "Lord of lords"),
+    "Isa.45.24": (["Isa.45.23"], "every knee shall be bowed"),
+    "Isa.45.25": (["Isa.45.24"], "In the Lord are my justices"),
+    "Isa.45.26": (["Isa.45.25"], "seed of Israel be justified"),
+    "Acts.8.8": (["Acts.8.7"], "taken with the palsy"),
+    "Acts.8.9": (["Acts.8.8", "Acts.8.9"], "great joy in that city"),
+    "1Thess.4.11": (["1Thess.4.11", "1Thess.4.12"], "walk honestly"),
+    "1Thess.4.12": (["1Thess.4.13"], "concerning them that are asleep"),
+    "1Thess.4.13": (["1Thess.4.14"], "Jesus died and rose again"),
+    "1Thess.4.14": (["1Thess.4.15"], "in the word of the Lord"),
+    "1Thess.4.15": (["1Thess.4.16"], "voice of an archangel"),
+    "1Thess.4.16": (["1Thess.4.17"], "taken up together with them"),
+    "1Thess.4.17": (["1Thess.4.18"], "comfort ye one another"),
+    "2Thess.2.10": (["2Thess.2.10", "2Thess.2.11"], "operation of error"),
+    "2Thess.2.11": (["2Thess.2.12"], "That all may be judged"),
+    "2Thess.2.12": (["2Thess.2.13"], "give thanks to God always"),
+    "2Thess.2.13": (["2Thess.2.14"], "called you by our gospel"),
+    "2Thess.2.14": (["2Thess.2.15"], "hold the traditions"),
+    "2Thess.2.15": (["2Thess.2.16"], "who hath loved us"),
+    "2Thess.2.16": (["2Thess.2.17"], "Exhort your hearts"),
+}
+
+
+def douay_vulgate(ref, vchapters):
+    """The Clementine verse(s) Douay verse `ref` ('Ps.42.6') reads."""
+    if ref in DOUAY_ROWS:
+        return list(DOUAY_ROWS[ref][0])
+    b, c, v = ref.split(".")
+    return [ref] if int(v) <= vchapters.get(f"{b}.{c}", 0) else []
+
+
+def convert_douay(path, books, sha, slug="douay"):
+    """`books`: the Clementine's file names in canonical order (for the OSIS
+    ids); `sha`: the pinned sha256."""
+    import sys as _sys
+    if HERE not in _sys.path:
+        _sys.path.insert(0, HERE)
+    import versification as _V
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    names = [b["name"] for b in data["books"][:len(DOUAY_NAMES)]]
+    if names != DOUAY_NAMES:
+        raise ValueError(f"Douay book order differs from the pinned file's: {names[:5]}...")
+    vmap, kjv_ids = None, set()
+    if os.path.exists(_V.VULGATE_PATH):
+        vmap = _V.load(_V.VULGATE_PATH)
+        with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+            kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+    vch = vmap["vulgate_chapters"] if vmap else {}
+    units, empty = [], 0
+    resolved = {True: 0, False: 0}
+    for b, book in zip(books, data["books"]):
+        osis = VULGATE_BOOKS[b][0]
+        for ch in book["chapters"]:
+            for vs in ch["verses"]:
+                text = re.sub(r"\s+", " ", vs["text"]).strip()
+                if not text:
+                    empty += 1
+                    continue
+                ref = f"{osis}.{ch['chapter']}.{vs['verse']}"
+                if ref in DOUAY_ROWS and DOUAY_ROWS[ref][1] not in text:
+                    raise ValueError(f"DOUAY_ROWS {ref}: {DOUAY_ROWS[ref][1]!r} is not in the verse")
+                u = {"id": f"{slug}:{ref}", "ref": f"{book['name']} {ch['chapter']}:{vs['verse']}",
+                     "text": text, "links": []}
+                if vmap:
+                    vl = douay_vulgate(ref, vch)
+                    u["vulgate"] = [f"vulgate:{x}" for x in vl]
+                    rs = [_V.resolve_vulgate(x, vmap, kjv_ids) for x in vl]
+                    if rs and all(r["resolved"] for r in rs):
+                        ts = []
+                        for r in rs:
+                            for t in r.get("spans", [r["target"]]):
+                                if t not in ts:
+                                    ts.append(t)
+                        u["kjv"] = {"resolved": True, "target": next(t for t in ts if t.startswith("kjv:"))}
+                        if len(ts) > 1:
+                            u["kjv"]["spans"] = ts
+                    else:
+                        why = next((r for r in rs if not r["resolved"]), None)
+                        u["kjv"] = dict(why) if why else {"resolved": False,
+                                                          "why": "no Clementine verse holds this text"}
+                    resolved[u["kjv"]["resolved"]] += 1
+                units.append(u)
+    return {"slug": slug, "title": "The Holy Bible, Douay-Rheims Version (Challoner revision)",
+            "author": "Richard Challoner (reviser); Gregory Martin et al. (translators)",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "scrollmapper-json",
+                       "sha256": sha},
+            "scheme": {"citation": "Book chapter:verse in the Vulgate's numbering (OSIS book ids)",
+                       "resolution": "verse", "honesty": "exact",
+                       "versification": "vulgate",
+                       "empty_verses_dropped": empty,
+                       "kjv_resolved": resolved[True], "kjv_unresolved": resolved[False],
+                       "note": "The Clementine Vulgate's English companion, numbered as the "
+                               "Vulgate is. `vulgate` names the Clementine verse(s) holding the "
+                               "same text (the same number except at structure_texts.DOUAY_ROWS); "
+                               "`kjv` follows through data/versification/vulgate-kjv.json. "
+                               "Empty verses in the file (versification padding) are dropped, "
+                               "never given ids. The file's five appendix books (3-4 Esdras, "
+                               "Prayer of Manasses, an additional psalm, Laodiceans) are not "
+                               "read: the Clementine source has no text for them."},
+            "rights": {"license": "public-domain",
+                       "attribution": "Douay-Rheims Bible, Challoner revision, via "
+                                      "scrollmapper/bible_databases",
+                       "source_url": "https://github.com/scrollmapper/bible_databases"},
+            "units": units}
+
+# ---------------------------------------------------------------- Brenton
+#
+# Brenton's English Septuagint (1851), from eBible.org's own USFM archive
+# (fetch_sources.BRENTON, pinned: the archive kept unaltered in a GitHub
+# repository, because ebible.org is out of this sandbox's reach). One file per
+# book. Read: the scripture books; not read: the front matter, Brenton's
+# introductions, and his appendix of Alexandrinus readings (FRT, INT, BAK,
+# OTH, XX*), and NEH, eBible's own copy of Nehemiah RENUMBERED to the KJV
+# (Brenton prints Nehemiah as chapters 11-23 of "Ezra and Nehemiah", the
+# Greek's 2 Esdras, and that is the file read).
+#
+# Markup, read from the files: \v and \c number; \add ... \add* are the
+# words Brenton supplies (in italics in print), \sc small capitals, \it
+# italics: kept as plain words, with `marked` holding the verse's USFM as is.
+# \f ... \f* are Brenton's footnotes and \x ... \x* his cross references:
+# out of `text`, into `notes`. \d (a psalm title) and \p, \nb are layout.
+#
+# WHAT IS NOT CLAIMED (rule 4): ids are in BRENTON's numbering, the Greek's,
+# not the KJV's: the Psalms counted as in the Greek with the title as verse 1,
+# Jeremiah's oracles in the Greek's order, the Greek's additions LETTERED
+# after the verse they follow (1Kgs.12.24a, Esth.1.1b), verses the Greek lacks
+# simply absent. `kjv` names the KJV verse(s) holding the same text by the map
+# data/versification/brenton-kjv.json (build_brenton_versification.py), or says
+# why there is none. No uids are minted.
+
+BRENTON_BOOKS = {   # USFM id -> OSIS (the id's book code)
+    "GEN": "Gen", "EXO": "Exod", "LEV": "Lev", "NUM": "Num", "DEU": "Deut", "JOS": "Josh",
+    "JDG": "Judg", "RUT": "Ruth", "1SA": "1Sam", "2SA": "2Sam", "1KI": "1Kgs", "2KI": "2Kgs",
+    "1CH": "1Chr", "2CH": "2Chr", "EZR": "Ezra", "JOB": "Job", "PSA": "Ps",
+    "PRO": "Prov", "ECC": "Eccl", "SNG": "Song", "ISA": "Isa", "JER": "Jer", "LAM": "Lam",
+    "EZK": "Ezek", "HOS": "Hos", "JOL": "Joel", "AMO": "Amos", "OBA": "Obad", "JON": "Jonah",
+    "MIC": "Mic", "NAM": "Nah", "HAB": "Hab", "ZEP": "Zeph", "HAG": "Hag", "ZEC": "Zech",
+    "MAL": "Mal", "TOB": "Tob", "JDT": "Jdt", "ESG": "Esth", "WIS": "Wis", "SIR": "Sir",
+    "BAR": "Bar", "LJE": "EpJer", "SUS": "Sus", "BEL": "Bel", "1MA": "1Macc", "2MA": "2Macc",
+    "1ES": "1Esd", "MAN": "PrMan", "3MA": "3Macc", "4MA": "4Macc", "DAG": "Dan",
+}
+BRENTON_SKIP = {"FRT", "INT", "BAK", "OTH", "XXA", "XXB", "XXC", "NEH"}
+RE_USFM_NOTE = re.compile(r"\\(f|x) .*?\\\1\*", re.S)
+RE_USFM_MARK = re.compile(r"\\[a-z]+[0-9]*\*?")
+RE_USFM_PARA = re.compile(r"\\(?:p|d|nb|b|q[0-9]?|m)(?=\s|$)")   # layout: a space
+RE_USFM_CHAR = re.compile(r"\\[a-z]+[0-9]*(?:\*| )")          # \add ... \add*: the words stay
+
+
+def brenton_note(raw):
+    """A footnote's or cross reference's text, its markers dropped."""
+    body = re.sub(r"^\\[fx] \S+\s*", "", raw)[:-3]
+    body = re.sub(r"\\(fr|xo) \S+\s*", "", body)
+    return re.sub(r"\s+", " ", RE_USFM_MARK.sub(" ", body)).strip()
+
+
+def brenton_verses(zpath):
+    """[(osis, book name, chapter, verse label, marked USFM)] in file order,
+    scripture books only. A label is "12"; "24a" for a lettered addition; "0"
+    for text before a chapter's verse 1. Refuses a repeated label."""
+    import zipfile
+    out = []
+    with zipfile.ZipFile(zpath) as z:
+        for name in sorted(z.namelist(), key=lambda n: int(n.split("-")[0]) if n[0].isdigit() else 999):
+            if not name.endswith(".usfm"):
+                continue
+            code = name.split("-", 1)[1][:3]
+            if code in BRENTON_SKIP:
+                continue
+            if code not in BRENTON_BOOKS:
+                raise ValueError(f"Brenton {name}: an unknown book")
+            t = z.read(name).decode("utf-8")
+            title = re.search(r"^\\h (.+?)\s*$", t, re.M).group(1)
+            ch, seen, in_verse = None, set(), False
+            for part in re.split(r"(\\c \d+|\\v \S+)", t):
+                m = re.match(r"\\(c|v) (\S+)$", part)
+                if m and m.group(1) == "c":
+                    ch, in_verse = m.group(2), False
+                    continue
+                if m:
+                    if (ch, m.group(2)) in seen:
+                        raise ValueError(f"Brenton {code} {ch}:{m.group(2)} twice")
+                    seen.add((ch, m.group(2)))
+                    out.append([BRENTON_BOOKS[code], title, ch, m.group(2), ""])
+                    in_verse = True
+                    continue
+                if in_verse:
+                    out[-1][4] += part
+                elif ch is not None and RE_USFM_MARK.sub("", RE_USFM_NOTE.sub("", part)).strip():
+                    # Text Brenton prints before a chapter's verse 1 (the
+                    # Greek's prologue to Lamentations): verse "0".
+                    seen.add((ch, "0"))
+                    out.append([BRENTON_BOOKS[code], title, ch, "0", part])
+    return [tuple(x[:4]) + (x[4].strip(),) for x in out]
+
+
+def brenton_text(marked):
+    """(text, notes) for one verse's USFM."""
+    notes = [brenton_note(m.group(0)) for m in RE_USFM_NOTE.finditer(marked)]
+    t = RE_USFM_PARA.sub(" ", RE_USFM_NOTE.sub("", marked))
+    t = re.sub(r"\s+", " ", RE_USFM_CHAR.sub("", t)).strip()
+    if "\\" in t:
+        raise ValueError(f"Brenton: a marker left in {t[:80]!r}")
+    return t, notes
+
+
+def convert_brenton(zpath, sha, slug="brenton"):
+    import sys as _sys
+    if HERE not in _sys.path:
+        _sys.path.insert(0, HERE)
+    import versification as _V
+    bmap, kjv_ids = None, set()
+    if os.path.exists(_V.BRENTON_PATH):
+        bmap = _V.load(_V.BRENTON_PATH)
+        with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+            kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+    resolved = {True: 0, False: 0}
+    units, empty = [], []
+    for osis, title, c, v, marked in brenton_verses(zpath):
+        text, notes = brenton_text(marked)
+        if not text:
+            empty.append(f"{osis}.{c}.{v}")     # Prov 30:1: only a note ("see chapter 24")
+            continue
+        u = {"id": f"{slug}:{osis}.{c}.{v}", "ref": f"{title} {c}:{v}", "text": text,
+             "links": [], "marked": marked}
+        if notes:
+            u["notes"] = notes
+        if bmap:
+            u["kjv"] = _V.resolve_brenton(f"{osis}.{c}.{v}", bmap, kjv_ids)
+            resolved[u["kjv"]["resolved"]] += 1
+        units.append(u)
+    return {"slug": slug, "title": "The Septuagint in English (Brenton, 1851)",
+            "author": "Sir Lancelot Charles Lee Brenton (translator)",
+            "source": {"path": os.path.relpath(zpath, CORPUS), "format": "ebible-usfm-zip",
+                       "sha256": sha},
+            "scheme": {"citation": "Book chapter:verse in Brenton's (the Greek's) numbering; "
+                                   "the Greek's additions lettered (OSIS book ids)",
+                       "resolution": "verse", "honesty": "exact",
+                       "versification": "lxx-brenton",
+                       "kjv_resolved": resolved[True], "kjv_unresolved": resolved[False],
+                       "empty_verses_not_units": empty,
+                       "note": "Ids follow Brenton's numbering, NOT the KJV's: the Psalms "
+                               "as in the Greek with a title as verse 1, Jeremiah's oracles "
+                               "in the Greek's order, Nehemiah as chapters 11-23 of Ezra "
+                               "(the Greek's 2 Esdras), the Greek's additions lettered after "
+                               "the verse they follow. Each unit's `kjv` names the KJV "
+                               "verse(s) holding the same text by "
+                               "data/versification/brenton-kjv.json, or says why there is "
+                               "none; no uids minted. `text` drops Brenton's notes, which "
+                               "are in `notes`; `marked` is the verse's USFM as is. eBible's "
+                               "corrections to the printing are in the text; its "
+                               "KJV-renumbered Nehemiah and Brenton's appendix are not read."},
+            "rights": {"license": "public-domain",
+                       "attribution": "Brenton's English Septuagint, transcribed and corrected "
+                                      "by eBible.org (eng-Brenton)",
+                       "source_url": "https://ebible.org/eng-Brenton/",
+                       "requests": "eBible asks that errors in the text be reported to it"},
+            "units": units}
+
 # ---------------------------------------------------------------- Lexicons
 #
 # A lexicon is not a linear text; it is a reference work keyed by lemma. It
@@ -1696,9 +2840,18 @@ def convert_kjv(path, slug="kjv"):
 # KJV's -- most visibly in the Psalms, where a Hebrew superscription is
 # counted as verse 1 and every later verse in that psalm is off by one. So a
 # scripture citation is recorded as what the source actually said (its own
-# reference string, plus the OSIS book/chapter/verse it states) and is NOT
-# resolved to a kjv: unit id. A labelled hole beats a confident wrong label;
-# resolving these needs a versification map, which is its own piece of work.
+# reference string, plus the OSIS book/chapter/verse it states). A labelled
+# hole beats a confident wrong label.
+#
+# Since 2026-10-02 that hole is filled where it can be: the Hebrew -> KJV map
+# (data/versification/bhs-kjv.json, pipeline/build_versification.py) turns
+# the stated reference into a kjv: unit id, added as `target` with
+# `resolved: true`; the stated `osis` is kept as it was. A citation of a psalm
+# title (the KJV's unnumbered superscription) or of a verse the KJV lacks
+# stays `resolved: false` and says why. `build_versification.py --measure`
+# is the evidence BDB numbers in Hebrew: where the two schemes differ, the
+# entry's own word is in the cited Hebrew verse 72% of the time and in the
+# same-numbered KJV verse 5.5%.
 
 HEB_NS = "{http://openscriptures.github.com/morphhb/namespace}"
 
@@ -1861,7 +3014,17 @@ def convert_bdb(path, slug="bdb-hebrew"):
     BDBid \\t StrongNumber \\t content(HTML)."""
     import csv as _csv
     _csv.field_size_limit(1 << 27)          # single entries run past 200k chars
+    import sys as _sys
+    if HERE not in _sys.path:       # loaded by path (the tests do), not as a script
+        _sys.path.insert(0, HERE)
+    import versification as _V
     units, furniture, extended = [], 0, 0
+    resolved = {True: 0, False: 0}
+    vmap, kjv_ids = None, set()
+    if os.path.exists(_V.PATH):
+        vmap = _V.load()
+        with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+            kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
     with open(path, encoding="utf-8", errors="replace", newline="") as f:
         rows = _csv.reader(f, delimiter="\t")
         header = next(rows, None)
@@ -1902,9 +3065,13 @@ def convert_bdb(path, slug="bdb-hebrew"):
                 if key in seen_refs:
                     continue
                 seen_refs.add(key)
-                links.append({"kind": "scripture", "osis": key,
-                              "ref": clean(label) or key, "versification": "bhs",
-                              "resolved": False})
+                link = {"kind": "scripture", "osis": key,
+                        "ref": clean(label) or key, "versification": "bhs",
+                        "resolved": False}
+                if vmap:
+                    link.update(_V.resolve(key, vmap, kjv_ids))
+                resolved[link["resolved"]] += 1
+                links.append(link)
             lemma = ""
             m = re.search(r"<bdbheb>(.*?)</bdbheb>", body, re.S)
             if m:
@@ -1926,8 +3093,13 @@ def convert_bdb(path, slug="bdb-hebrew"):
                        "note": "Unabridged. 9,176 of 10,022 entries carry a Strong's number; "
                                "the rest are cross-reference and sub-root entries with no "
                                "Strong's equivalent. Scripture citations are recorded in the "
-                               "source's own (Hebrew/BHS) versification and are NOT resolved "
-                               "to kjv: unit ids -- Psalms superscriptions shift the numbering. "
+                               "source's own (Hebrew/BHS) versification (`osis`, as stated) and "
+                               "resolved to a kjv: unit id (`target`) through the Hebrew->KJV "
+                               "map data/versification/bhs-kjv.json (STEPBible TVTMS, CC BY "
+                               f"4.0): {resolved[True]:,} resolved, {resolved[False]:,} left "
+                               "unresolved with the reason (psalm titles, which the KJV does "
+                               "not number; references that name no Hebrew verse; NT "
+                               "references). "
                                f"{furniture} navigation/header furniture blocks stripped; "
                                f"{extended} refs above H{HEBREW_MAX} dropped as extended "
                                "Strong's prefix/particle codes."},
@@ -3339,15 +4511,22 @@ def main():
                 jobs.append((slug, lambda p=path, s=slug: convert_tei_letters(p, s, *TEI_LETTERS[s])))
                 continue
             jobs.append((slug, lambda p=path, s=slug: convert_tei(p, s, tei_abbrevs.get(s, s))))
-    # First1KGreek: Greek texts of the fathers, through the prose converter
-    # only (a file with no TEI_PROSE entry is not built).
-    fdir = os.path.join(CORPUS, "first1k")
-    if os.path.isdir(fdir):
+    # Open Greek and Latin (First1KGreek, CSEL): the fathers, through the
+    # prose converter only (a file with no TEI_PROSE entry is not built).
+    for fdir in (os.path.join(CORPUS, d) for d in OGL):
+        if not os.path.isdir(fdir):
+            continue
         for fn in sorted(os.listdir(fdir)):
             slug = fn[:-4]
             if slug in TEI_PROSE:
                 jobs.append((slug, lambda p=os.path.join(fdir, fn), s=slug:
                              convert_tei_prose(p, s, TEI_PROSE[s])))
+            elif slug in CATENA:
+                jobs.append((slug, lambda p=os.path.join(fdir, fn), s=slug:
+                             convert_catena(p, s)))
+            elif slug in CATENA_VERSES:
+                jobs.append((slug, lambda p=os.path.join(fdir, fn), s=slug:
+                             convert_catena_verses(p, s)))
     cdir = os.path.join(CORPUS, "ccel")
     if os.path.isdir(cdir):
         for fn in sorted(os.listdir(cdir)):
@@ -3375,6 +4554,17 @@ def main():
         if os.path.exists(path):
             jobs.append((slug, lambda p=path, s=slug, t=title, a=author:
                          convert_gutenberg_prose(p, s, t, a, contents_chapre(p))))
+    vdir = os.path.join(CORPUS, "vulgate")
+    if os.path.isdir(vdir) and all(os.path.exists(os.path.join(vdir, b + ".lat"))
+                                   for b in _fs.VULGATE["books"]):
+        jobs.append(("vulgate", lambda: convert_vulgate(vdir, _fs.VULGATE["books"],
+                                                         _fs.vulgate_digest(vdir))))
+    drc = os.path.join(CORPUS, "douay", "DRC.json")
+    if os.path.exists(drc):
+        jobs.append(("douay", lambda: convert_douay(drc, _fs.VULGATE["books"], sha256(drc))))
+    bz = os.path.join(CORPUS, "brenton", "eng-Brenton_usfm.zip")
+    if os.path.exists(bz):
+        jobs.append(("brenton", lambda: convert_brenton(bz, sha256(bz))))
     shk = os.path.join(CORPUS, "shakespeare.txt")
     if os.path.exists(shk):
         jobs.append(("shakespeare", lambda: convert_shakespeare(shk)))

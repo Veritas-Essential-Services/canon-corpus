@@ -1,0 +1,1104 @@
+{
+ "schema": "wordhoard/corpus-jsonl/v1",
+ "doc": "pipeline/README-ot-jsonl.md",
+ "built_on": "2026-10-02",
+ "row_unit": "verse",
+ "selection": {
+  "title": "The Hebrew Old Testament (Westminster Leningrad Codex)",
+  "books": [
+   "Gen",
+   "Exod",
+   "Lev",
+   "Num",
+   "Deut",
+   "Josh",
+   "Judg",
+   "Ruth",
+   "1Sam",
+   "2Sam",
+   "1Kgs",
+   "2Kgs",
+   "1Chr",
+   "2Chr",
+   "Ezra",
+   "Neh",
+   "Esth",
+   "Job",
+   "Ps",
+   "Prov",
+   "Eccl",
+   "Song",
+   "Isa",
+   "Jer",
+   "Lam",
+   "Ezek",
+   "Dan",
+   "Hos",
+   "Joel",
+   "Amos",
+   "Obad",
+   "Jonah",
+   "Mic",
+   "Nah",
+   "Hab",
+   "Zeph",
+   "Hag",
+   "Zech",
+   "Mal"
+  ]
+ },
+ "counts": {
+  "passages": 23142,
+  "verses": 23142,
+  "witnesses": 23142,
+  "tokens": 305124,
+  "alignments": 23142,
+  "wlc_verses_read": 23213,
+  "wlc_verses_left_out": 67,
+  "ketiv": 1264,
+  "ketiv_with_qere": 1243,
+  "ketiv_not_read": 6,
+  "words_oshb_divided": 12,
+  "qere_only": 9,
+  "tokens_with_lemma": 0,
+  "tokens_with_parsing": 0,
+  "tokens_with_gloss": 0
+ },
+ "shards": {
+  "layout": "book",
+  "order": [
+   "Gen",
+   "Exod",
+   "Lev",
+   "Num",
+   "Deut",
+   "Josh",
+   "Judg",
+   "Ruth",
+   "1Sam",
+   "2Sam",
+   "1Kgs",
+   "2Kgs",
+   "1Chr",
+   "2Chr",
+   "Ezra",
+   "Neh",
+   "Esth",
+   "Job",
+   "Ps",
+   "Prov",
+   "Eccl",
+   "Song",
+   "Isa",
+   "Jer",
+   "Lam",
+   "Ezek",
+   "Dan",
+   "Hos",
+   "Joel",
+   "Amos",
+   "Obad",
+   "Jonah",
+   "Mic",
+   "Nah",
+   "Hab",
+   "Zeph",
+   "Hag",
+   "Zech",
+   "Mal"
+  ],
+  "books": {
+   "Gen": {
+    "verses": 1533,
+    "tokens": 20612,
+    "dir": "Gen"
+   },
+   "Exod": {
+    "verses": 1213,
+    "tokens": 16713,
+    "dir": "Exod"
+   },
+   "Lev": {
+    "verses": 859,
+    "tokens": 11950,
+    "dir": "Lev"
+   },
+   "Num": {
+    "verses": 1288,
+    "tokens": 16413,
+    "dir": "Num"
+   },
+   "Deut": {
+    "verses": 959,
+    "tokens": 14294,
+    "dir": "Deut"
+   },
+   "Josh": {
+    "verses": 658,
+    "tokens": 10051,
+    "dir": "Josh"
+   },
+   "Judg": {
+    "verses": 618,
+    "tokens": 9885,
+    "dir": "Judg"
+   },
+   "Ruth": {
+    "verses": 85,
+    "tokens": 1294,
+    "dir": "Ruth"
+   },
+   "1Sam": {
+    "verses": 810,
+    "tokens": 13264,
+    "dir": "1Sam"
+   },
+   "2Sam": {
+    "verses": 695,
+    "tokens": 11039,
+    "dir": "2Sam"
+   },
+   "1Kgs": {
+    "verses": 816,
+    "tokens": 13140,
+    "dir": "1Kgs"
+   },
+   "2Kgs": {
+    "verses": 719,
+    "tokens": 12280,
+    "dir": "2Kgs"
+   },
+   "1Chr": {
+    "verses": 942,
+    "tokens": 10745,
+    "dir": "1Chr"
+   },
+   "2Chr": {
+    "verses": 822,
+    "tokens": 13312,
+    "dir": "2Chr"
+   },
+   "Ezra": {
+    "verses": 280,
+    "tokens": 3753,
+    "dir": "Ezra"
+   },
+   "Neh": {
+    "verses": 405,
+    "tokens": 5312,
+    "dir": "Neh"
+   },
+   "Esth": {
+    "verses": 167,
+    "tokens": 3045,
+    "dir": "Esth"
+   },
+   "Job": {
+    "verses": 1070,
+    "tokens": 8343,
+    "dir": "Job"
+   },
+   "Ps": {
+    "verses": 2460,
+    "tokens": 19215,
+    "dir": "Ps"
+   },
+   "Prov": {
+    "verses": 915,
+    "tokens": 6915,
+    "dir": "Prov"
+   },
+   "Eccl": {
+    "verses": 222,
+    "tokens": 2987,
+    "dir": "Eccl"
+   },
+   "Song": {
+    "verses": 117,
+    "tokens": 1250,
+    "dir": "Song"
+   },
+   "Isa": {
+    "verses": 1291,
+    "tokens": 16931,
+    "dir": "Isa"
+   },
+   "Jer": {
+    "verses": 1364,
+    "tokens": 21835,
+    "dir": "Jer"
+   },
+   "Lam": {
+    "verses": 154,
+    "tokens": 1542,
+    "dir": "Lam"
+   },
+   "Ezek": {
+    "verses": 1273,
+    "tokens": 18730,
+    "dir": "Ezek"
+   },
+   "Dan": {
+    "verses": 357,
+    "tokens": 5919,
+    "dir": "Dan"
+   },
+   "Hos": {
+    "verses": 197,
+    "tokens": 2381,
+    "dir": "Hos"
+   },
+   "Joel": {
+    "verses": 73,
+    "tokens": 957,
+    "dir": "Joel"
+   },
+   "Amos": {
+    "verses": 146,
+    "tokens": 2042,
+    "dir": "Amos"
+   },
+   "Obad": {
+    "verses": 21,
+    "tokens": 291,
+    "dir": "Obad"
+   },
+   "Jonah": {
+    "verses": 48,
+    "tokens": 688,
+    "dir": "Jonah"
+   },
+   "Mic": {
+    "verses": 105,
+    "tokens": 1396,
+    "dir": "Mic"
+   },
+   "Nah": {
+    "verses": 47,
+    "tokens": 558,
+    "dir": "Nah"
+   },
+   "Hab": {
+    "verses": 56,
+    "tokens": 671,
+    "dir": "Hab"
+   },
+   "Zeph": {
+    "verses": 53,
+    "tokens": 767,
+    "dir": "Zeph"
+   },
+   "Hag": {
+    "verses": 38,
+    "tokens": 600,
+    "dir": "Hag"
+   },
+   "Zech": {
+    "verses": 211,
+    "tokens": 3128,
+    "dir": "Zech"
+   },
+   "Mal": {
+    "verses": 55,
+    "tokens": 876,
+    "dir": "Mal"
+   }
+  },
+  "ruling": {
+   "status": "house default, awaiting Adam's ruling (the NT's, PR #8)",
+   "default": "one folder per book under data/ot/, one manifest"
+  }
+ },
+ "versification": {
+  "of_record": "kjv",
+  "map": "data/versification/bhs-kjv.json",
+  "map_sha256": "d11d7f07fc428be7e799611e89afc51786a2dcf7adfb71192e406282bab16d21",
+  "map_rights": {
+   "license": "CC BY 4.0",
+   "attribution": "Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0)",
+   "source_url": "https://github.com/STEPBible/STEPBible-Data",
+   "redistribute_whole": false
+  },
+  "renumbered": 1969,
+  "spans": [
+   {
+    "wlc": "Ps.13.6",
+    "kjv": [
+     "Ps.13.5",
+     "Ps.13.6"
+    ],
+    "witness_on": "Ps.13.5"
+   },
+   {
+    "wlc": "Isa.63.19",
+    "kjv": [
+     "Isa.63.19",
+     "Isa.64.1"
+    ],
+    "witness_on": "Isa.63.19"
+   }
+  ],
+  "joined": [
+   {
+    "kjv": "Num.26.1",
+    "wlc": [
+     "Num.25.19",
+     "Num.26.1"
+    ]
+   },
+   {
+    "kjv": "1Sam.20.42",
+    "wlc": [
+     "1Sam.20.42",
+     "1Sam.21.1"
+    ]
+   },
+   {
+    "kjv": "1Kgs.22.43",
+    "wlc": [
+     "1Kgs.22.43",
+     "1Kgs.22.44"
+    ]
+   },
+   {
+    "kjv": "1Chr.12.4",
+    "wlc": [
+     "1Chr.12.4",
+     "1Chr.12.5"
+    ]
+   }
+  ],
+  "left_out": [
+   {
+    "wlc": "Ps.3.1",
+    "kjv": "Ps.3.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 6
+   },
+   {
+    "wlc": "Ps.4.1",
+    "kjv": "Ps.4.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.5.1",
+    "kjv": "Ps.5.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 5
+   },
+   {
+    "wlc": "Ps.6.1",
+    "kjv": "Ps.6.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 6
+   },
+   {
+    "wlc": "Ps.7.1",
+    "kjv": "Ps.7.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 10
+   },
+   {
+    "wlc": "Ps.8.1",
+    "kjv": "Ps.8.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 5
+   },
+   {
+    "wlc": "Ps.9.1",
+    "kjv": "Ps.9.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 5
+   },
+   {
+    "wlc": "Ps.12.1",
+    "kjv": "Ps.12.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 5
+   },
+   {
+    "wlc": "Ps.13.1",
+    "kjv": "Ps.13.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 3
+   },
+   {
+    "wlc": "Ps.18.1",
+    "kjv": "Ps.18.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 20
+   },
+   {
+    "wlc": "Ps.19.1",
+    "kjv": "Ps.19.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 3
+   },
+   {
+    "wlc": "Ps.20.1",
+    "kjv": "Ps.20.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 3
+   },
+   {
+    "wlc": "Ps.21.1",
+    "kjv": "Ps.21.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 3
+   },
+   {
+    "wlc": "Ps.22.1",
+    "kjv": "Ps.22.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 6
+   },
+   {
+    "wlc": "Ps.30.1",
+    "kjv": "Ps.30.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 5
+   },
+   {
+    "wlc": "Ps.31.1",
+    "kjv": "Ps.31.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 3
+   },
+   {
+    "wlc": "Ps.34.1",
+    "kjv": "Ps.34.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 8
+   },
+   {
+    "wlc": "Ps.36.1",
+    "kjv": "Ps.36.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.38.1",
+    "kjv": "Ps.38.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 3
+   },
+   {
+    "wlc": "Ps.39.1",
+    "kjv": "Ps.39.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.40.1",
+    "kjv": "Ps.40.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 3
+   },
+   {
+    "wlc": "Ps.41.1",
+    "kjv": "Ps.41.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 3
+   },
+   {
+    "wlc": "Ps.42.1",
+    "kjv": "Ps.42.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.44.1",
+    "kjv": "Ps.44.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.45.1",
+    "kjv": "Ps.45.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 8
+   },
+   {
+    "wlc": "Ps.46.1",
+    "kjv": "Ps.46.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 6
+   },
+   {
+    "wlc": "Ps.47.1",
+    "kjv": "Ps.47.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.48.1",
+    "kjv": "Ps.48.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.49.1",
+    "kjv": "Ps.49.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.51.1",
+    "kjv": "Ps.51.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 3
+   },
+   {
+    "wlc": "Ps.51.2",
+    "kjv": "Ps.51.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 9
+   },
+   {
+    "wlc": "Ps.52.1",
+    "kjv": "Ps.52.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 3
+   },
+   {
+    "wlc": "Ps.52.2",
+    "kjv": "Ps.52.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 12
+   },
+   {
+    "wlc": "Ps.53.1",
+    "kjv": "Ps.53.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 5
+   },
+   {
+    "wlc": "Ps.54.1",
+    "kjv": "Ps.54.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.54.2",
+    "kjv": "Ps.54.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 8
+   },
+   {
+    "wlc": "Ps.55.1",
+    "kjv": "Ps.55.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.56.1",
+    "kjv": "Ps.56.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 11
+   },
+   {
+    "wlc": "Ps.57.1",
+    "kjv": "Ps.57.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 9
+   },
+   {
+    "wlc": "Ps.58.1",
+    "kjv": "Ps.58.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 5
+   },
+   {
+    "wlc": "Ps.59.1",
+    "kjv": "Ps.59.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 11
+   },
+   {
+    "wlc": "Ps.60.1",
+    "kjv": "Ps.60.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 7
+   },
+   {
+    "wlc": "Ps.60.2",
+    "kjv": "Ps.60.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 17
+   },
+   {
+    "wlc": "Ps.61.1",
+    "kjv": "Ps.61.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.62.1",
+    "kjv": "Ps.62.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 5
+   },
+   {
+    "wlc": "Ps.63.1",
+    "kjv": "Ps.63.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 5
+   },
+   {
+    "wlc": "Ps.64.1",
+    "kjv": "Ps.64.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 3
+   },
+   {
+    "wlc": "Ps.65.1",
+    "kjv": "Ps.65.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.67.1",
+    "kjv": "Ps.67.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.68.1",
+    "kjv": "Ps.68.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.69.1",
+    "kjv": "Ps.69.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.70.1",
+    "kjv": "Ps.70.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 3
+   },
+   {
+    "wlc": "Ps.75.1",
+    "kjv": "Ps.75.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 6
+   },
+   {
+    "wlc": "Ps.76.1",
+    "kjv": "Ps.76.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 5
+   },
+   {
+    "wlc": "Ps.77.1",
+    "kjv": "Ps.77.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 5
+   },
+   {
+    "wlc": "Ps.80.1",
+    "kjv": "Ps.80.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 6
+   },
+   {
+    "wlc": "Ps.81.1",
+    "kjv": "Ps.81.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.83.1",
+    "kjv": "Ps.83.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 3
+   },
+   {
+    "wlc": "Ps.84.1",
+    "kjv": "Ps.84.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 6
+   },
+   {
+    "wlc": "Ps.85.1",
+    "kjv": "Ps.85.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.88.1",
+    "kjv": "Ps.88.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 11
+   },
+   {
+    "wlc": "Ps.89.1",
+    "kjv": "Ps.89.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 3
+   },
+   {
+    "wlc": "Ps.92.1",
+    "kjv": "Ps.92.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 4
+   },
+   {
+    "wlc": "Ps.102.1",
+    "kjv": "Ps.102.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 8
+   },
+   {
+    "wlc": "Ps.108.1",
+    "kjv": "Ps.108.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 3
+   },
+   {
+    "wlc": "Ps.140.1",
+    "kjv": "Ps.140.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 3
+   },
+   {
+    "wlc": "Ps.142.1",
+    "kjv": "Ps.142.title",
+    "why": "psalm title: the KJV numbers no title",
+    "words": 5
+   }
+  ],
+  "kjv_verses_without_hbo": [
+   "kjv:Isa.64.1",
+   "kjv:Neh.7.68",
+   "kjv:Ps.13.6"
+  ],
+  "rulings": {
+   "psalm-titles": {
+    "status": "house default, awaiting Adam's ruling",
+    "default": "a Hebrew verse that is a psalm title has no KJV uid (the KJV numbers no title), so it is left out and listed under versification.left_out",
+    "alternative": "a citation grammar for titles (e.g. kjv:Ps.51.title) is a registry ruling: once minted a uid is never taken back (R5)"
+   },
+   "spans": {
+    "status": "house default, awaiting Adam's ruling",
+    "default": "a Hebrew verse holding two KJV verses (2: Ps 13:6, Isa 63:19) is a witness of the first KJV verse no other Hebrew verse reaches; its alignment names both (type 1:2), and the other KJV verse has no Hebrew witness of its own"
+   },
+   "joined": {
+    "status": "house default, awaiting Adam's ruling",
+    "default": "two Hebrew verses that make one KJV verse (4: Num 26:1, 1 Sam 20:42, 1 Kgs 22:43, 1 Chr 12:4) are ONE witness of that verse: their texts joined in codex order, tokens numbered straight through, wlc_ref listing both and wlc_verse_starts the token where each begins"
+   }
+  }
+ },
+ "identity": {
+  "rule": "a Hebrew verse is a witness of the KJV verse passage that already exists; registry opened frozen; nothing minted",
+  "citation_slug": "kjv names the versification of record, not the language",
+  "reading_of_record": {
+   "value": "kjv.plain",
+   "note": "unchanged; a ruling"
+  }
+ },
+ "witness": {
+  "name": "hbo.wlc",
+  "lang": "hbo",
+  "textform": "masoretic",
+  "facing": "kjv.plain"
+ },
+ "licence_gate": {
+  "allowed": [
+   "PD",
+   "own"
+  ],
+  "rule": "launch plan D4 / ADR 0001: public-domain editions or own work only",
+  "withheld": {
+   "status": "withheld by the licence gate until ADR 0019",
+   "default": "no lemma, parsing or gloss in these files",
+   "alternative": "admit OSHB's CC BY layer as its own file keyed by token address, with its rights block and attribution, never merged into the PD files"
+  }
+ },
+ "sources": {
+  "wlc-4.20": {
+   "what": "Hebrew text: words, ketiv and qere, section marks (pe, samekh)",
+   "edition": "Westminster Leningrad Codex 4.20 (J. Alan Groves Center), as encoded by the Open Scriptures Hebrew Bible, github.com/openscriptures/morphhb commit 3d15126",
+   "license": "PD",
+   "license_basis": [
+    {
+     "where": "morphhb wlc/*.xml, <work osisWork=\"WLC\"> <rights>",
+     "says": "Public Domain"
+    },
+    {
+     "where": "morphhb README.md",
+     "says": "Lemma and morphology data are licensed under a Creative Commons Attribution 4.0 International license. ... The text of the WLC remains in the Public Domain."
+    }
+   ],
+   "taken": "the text of each <w> (morpheme slashes removed), maqqef, sof pasuq, paseq, inverted nun, pe/samekh, and the qere of each x-qere reading",
+   "not_taken": "OSHB's lemma=, morph=, id= and n= attributes and its morpheme splits: CC BY 4.0, outside this repo's licence gate",
+   "source_url": "https://github.com/openscriptures/morphhb/tree/3d15126fb1ef74867fc1434be1942e837932691f",
+   "redistribute_whole": true,
+   "verified": true,
+   "verified_on": "2026-10-02"
+  }
+ },
+ "token_fields": {
+  "surface": "the WLC word as written (the ketiv where there is one), OSHB's morpheme slashes removed",
+  "normalized": "derived: NFC(surface)",
+  "search_key": "derived: consonants only -- every point and accent dropped, final forms folded",
+  "translit": "null: no house Hebrew transliteration scheme yet (README-ot-jsonl.md s.6)",
+  "lemma": "null: OSHB's lemmas are CC BY 4.0 and withheld by the licence gate",
+  "parsing": "null: OSHB's morphology is CC BY 4.0 and withheld by the licence gate",
+  "gloss": "null: there is no lemma to gloss from",
+  "plain_form": "null"
+ },
+ "token_provenance": {
+  "every_token": {
+   "lemma": {
+    "source": null,
+    "status": "withheld",
+    "why": "oshb-cc-by"
+   },
+   "parsing": {
+    "source": null,
+    "status": "withheld",
+    "why": "oshb-cc-by"
+   },
+   "gloss": {
+    "source": null,
+    "status": "none",
+    "why": "no lemma"
+   }
+  },
+  "why": "identical for every token, so stated once here and null on each token (saves about 55 MB)",
+  "codes": {
+   "oshb-cc-by": "OSHB's lemma/morph attributes are CC BY 4.0: collected, not committed (ADR 0001)"
+  }
+ },
+ "wlc_notes_by_n": {
+  "1": 207,
+  "4": 16,
+  "5": 4,
+  "6": 3,
+  "7": 4,
+  "8": 9,
+  "?": 2027,
+  "C": 48,
+  "F": 1,
+  "K": 1,
+  "M": 2,
+  "P": 16,
+  "Q": 116,
+  "U": 79,
+  "V": 4,
+  "a": 39,
+  "alternative": 119,
+  "c": 189,
+  "exegesis": 21,
+  "k": 28,
+  "n": 109,
+  "p": 86,
+  "q": 51,
+  "v": 33,
+  "y": 27
+ },
+ "inputs_sha256": {
+  "wlc/Gen.xml": "0526e5c9a5fb4d907847645f954ed3d1268fa69decbd872056cedd2668d86449",
+  "wlc/Exod.xml": "04868367cdacb6ccdc61488e923e20f918172042e6437842a0621f63ac5b847f",
+  "wlc/Lev.xml": "e21e70265c9ef500182f8ccb4f4e1186e5a79e1169d24cef23cc479baf07b191",
+  "wlc/Num.xml": "02e4febfcc027d10b3e35e4f091eae67a40d26f37b6254faac6b4af053fe4896",
+  "wlc/Deut.xml": "04f8087442a1e67a631cd70f2ac4e42fe0a780ae132edb165a3a29f3f290358f",
+  "wlc/Josh.xml": "a066200ab2269c0a86a2e9ba119a3d0fce8c5f7ecc44bb53ec134b83dffc6006",
+  "wlc/Judg.xml": "3b3a909f04041dbd52dc6b7293a96ce75d94db8a90fdeda878943db7b8fac57f",
+  "wlc/Ruth.xml": "fb6a2660383c7176941cb87b2be182ef634b66d49d057635869f4d9cb1f0a11e",
+  "wlc/1Sam.xml": "960432732c22286b82d80b6b25af8d10dc5f2e82a4e5e48b2e3a1b1eea17f3cb",
+  "wlc/2Sam.xml": "e7793e141ed94eadbd2dfb23936abbb4062e81a7dcd41114a6e36644f50b8333",
+  "wlc/1Kgs.xml": "832ba10f605dce34c4888ee0a795d91edc2b293391d6ae9c36c36c6350761a3e",
+  "wlc/2Kgs.xml": "056db5393beaef0a1159d9bcaac7dfd865df9bab2eb240ea90e9fa3f0c0e7449",
+  "wlc/1Chr.xml": "8b59992b6607c6ca0fc423813be8cc244f011c1da32bc8485c0c0f581a897ed4",
+  "wlc/2Chr.xml": "507294e8ca0fcf31ec25fe62fa24a7f2581f53116519bf08cfe96ff85e9c99fb",
+  "wlc/Ezra.xml": "fb28ff697d0ee17eba5b4db47fb7261ee1870cea0d5701bfc77c9e28d4138129",
+  "wlc/Neh.xml": "be082e95c206469122455b9849d4dd08da50c817732d8198c1beece90402801a",
+  "wlc/Esth.xml": "f9b5b8adaf504dcac409bb6a27c9328967f47eeb4e920070cd53ef5301299019",
+  "wlc/Job.xml": "7db3311184122f37a8fd52f3c7c0c4a6d2da7b77ee82f4fdb26bcba9171d297f",
+  "wlc/Ps.xml": "fe55eef316a65fb0f46d833d526ca2fd722e86ff7339f1a39f0c5b7f9062ced2",
+  "wlc/Prov.xml": "964f99c00239b53b854c4686c99490c8d1ac7664784a30afdfc23781a3abb161",
+  "wlc/Eccl.xml": "2dfc858d19048f6479eca33b9fe781c2d7e9059e9ae3ab0b37b802d3afec02bb",
+  "wlc/Song.xml": "5cd6ae36d32c059aaf794af5a5eaed914ac643486db3e412eb0b969760db82ca",
+  "wlc/Isa.xml": "0807678de609bdef284bed5400b94ddab570d101b593c7f59ae1939015572fa2",
+  "wlc/Jer.xml": "1a7ad7bc26a2cae1d3964230e8eb73043bc1f32505cb86cd69a25261dc39f493",
+  "wlc/Lam.xml": "be68fc6a913313367280c2596e28733ee8cf877c12a65227237733b40d0248c4",
+  "wlc/Ezek.xml": "90bf8adfa66b2f6695c702263fe668755c99c6afc386202c12de4f704f5d4e46",
+  "wlc/Dan.xml": "bc69d0fa9708dacb11ea6d587509250bf1bcc1b4343eac2d6e97f8b41518fc0d",
+  "wlc/Hos.xml": "f38ae44a3a97d142768bd5f4d40e77b69265184f9a5aec9e6af1b9b226e8daae",
+  "wlc/Joel.xml": "c0fefc6881afe949b023968106cdccc05a690734b8bb6e9aa48914d77e5369af",
+  "wlc/Amos.xml": "6ad94c6a18076762f1a458720c62156d354e5111ee25719b7792b70792d0084d",
+  "wlc/Obad.xml": "1e893e552a7ed7e2e6d4048637ff5da8a2853a9e4432f4095cede80b959d850c",
+  "wlc/Jonah.xml": "1e1afcc3aaba1399d5c884ee106894c6bfca87c8c81fa57783ab75a923eee17d",
+  "wlc/Mic.xml": "267e111adc1b941e32444816af07aa136ecde02cb315cd42597f78b393e67a01",
+  "wlc/Nah.xml": "5993b28bdbee3c922e3e93002d343a655493e8bd45e3472f3b62d77beadcb62c",
+  "wlc/Hab.xml": "2592b212d816775adc8dac46bd0c46263982c308a186dde64dfb8239c57bd2d1",
+  "wlc/Zeph.xml": "eb5bd2a745fba1ffeed31dfafd834ce7c290929c992390be1a2b9451d22dea2e",
+  "wlc/Hag.xml": "26ebbae4fe491cf89ce70e1264cbcbf66a562b497cb214b677e67a9a43ad545c",
+  "wlc/Zech.xml": "2e287c8d0e0abd3bf601eb8ef9b4ee6ca3ae12cf36c0ed1612a7dcca54a2e777",
+  "wlc/Mal.xml": "1583e6a701406dce7b8c2bf85e3522ec31383756de130685fc7c2eb6df8964b2"
+ },
+ "files_sha256": {
+  "1Chr/alignments.jsonl": "88db62d1232c0dc9092af655f77dec998710e09b4886da4c16a3341913dbe926",
+  "1Chr/passages.jsonl": "f1f1b4019f2fbb1e8e7f981eebfb8514c56bd62ba0f7f214dac672606c7502e8",
+  "1Chr/tokens.jsonl": "561fc02fb957d5feea6c24da79a20eb285643a4ab79bec9176345ca35bf98acd",
+  "1Chr/witnesses.jsonl": "164c75fccd8e68f0ba65e71c5eda85d429d2b1bb318338af55caae688cc71d1b",
+  "1Kgs/alignments.jsonl": "95edb304b55abe2e52fa86d9512bddcfb29a16201d273a6fc6fc2a1c4905c1d2",
+  "1Kgs/passages.jsonl": "52979246aed52ff7f4e5f13e9557dbe5db399e9971f4b4efa3580717d0a13eb1",
+  "1Kgs/tokens.jsonl": "b10c059f165ed2ded504856127093c0336cf1e7a42f683e1925bce2bbe56f962",
+  "1Kgs/witnesses.jsonl": "2573447e441e898bfbbe38baa976c8a511106f159cf1ab51f5c7249e4235f29f",
+  "1Sam/alignments.jsonl": "6aa89a98e8cd27a8cadea560409197ae901fbb2ed3e0bdbd1a5fb4485de55c90",
+  "1Sam/passages.jsonl": "5fe884511aa7fb0cf6dd464738f96dedc0f47effc10514dea4571cc42af18a9b",
+  "1Sam/tokens.jsonl": "5de879e531805e186f251ff5df60c4f3cc9daf2b5e12b4b5f9a2b5336617b6e9",
+  "1Sam/witnesses.jsonl": "e3c502f405ff1ae23748ec15d4a1b45139dcfca1a7923934a88c5f315aff176a",
+  "2Chr/alignments.jsonl": "a5761e2aaf4a2996b9b1a6d49b95b9f1573b712006a4afa57447751a9fde94b8",
+  "2Chr/passages.jsonl": "ee81c40b3cd121dd79210038a407d0eded11e3e517c2460688facc32424795c3",
+  "2Chr/tokens.jsonl": "85f64d45e15599c17a22bdbece2a2e82fa2f53a4ee9b681873f3a434be580183",
+  "2Chr/witnesses.jsonl": "0ba4e33f950cb8d16b79d90d68cded613d2f7abd55983f7480d470219defe993",
+  "2Kgs/alignments.jsonl": "85d48cee69aa715b9d4b67da88bae14c8d4f34ea7eb6f331623c82a44090ae12",
+  "2Kgs/passages.jsonl": "850d7f371c83268ab8703f89abc51fb20c1b06f42fd2e91884b4b0662867f4ce",
+  "2Kgs/tokens.jsonl": "6762ecb839a29d4f5682e6e95e7aa8ceb574b22f36f25afbb7adf7507c4a8293",
+  "2Kgs/witnesses.jsonl": "843b16055ecb345a430dd886f27e611fd5018db35e69617d719f4a8c82a2fbaf",
+  "2Sam/alignments.jsonl": "1f15a003beeac6e062b8f038791c0fe4a41f4c111d643c4bd328f56a1740ba72",
+  "2Sam/passages.jsonl": "c88df140b4e82d2b3a7ba6238756d75ec0aa5826a70b5b4aeadf3a12b879c88e",
+  "2Sam/tokens.jsonl": "fa6ce53e3f07892aa9f8018c96537ac685fd8d1dfe0e819b9c25010b7c5d575f",
+  "2Sam/witnesses.jsonl": "dceaac076dbde67cd4a7d9710f8abd0ffb7861eb1b5ce76c39fb63901a7de086",
+  "Amos/alignments.jsonl": "1270f41e86515212932b41469fe1afb04bedba450f744ed80902624d8257f6a1",
+  "Amos/passages.jsonl": "673d6c7da5925b8f679b46bdb18de77b461e1e11629b827b0c06a1322c42aeaa",
+  "Amos/tokens.jsonl": "5116f7228a7e82ef0562f9fdb4714928dc3743d2b0cf81f7cbd65c3d00ac55c6",
+  "Amos/witnesses.jsonl": "b1df479ede91a97187bb244bbb69adda964ffd6df6e36670ad9890027d3ca0d1",
+  "Dan/alignments.jsonl": "95b101cdd62f4c75610f7b716bb956d589da3b49682d14bd70d84aea5445a4db",
+  "Dan/passages.jsonl": "0ec3b8106a4e3ce307edb08c964a070016387b97a52a797d149d468e460da07b",
+  "Dan/tokens.jsonl": "3bea273830f7bcf515043ba7d9d900bcaea167cae3d9b43390c73643ef3383d3",
+  "Dan/witnesses.jsonl": "a3371b3d782678952baa1b3e0e663102369b0db5541d9c37d111f66fa2bf9798",
+  "Deut/alignments.jsonl": "021ac8dd60ccda7500f2a0e44be6adaa4bcb2e1c33a37d5d481d8d5a3b05b44d",
+  "Deut/passages.jsonl": "104c5e45dd1da26d959fe4015278c859f332cd29729213ce7c74547dd79a9fcc",
+  "Deut/tokens.jsonl": "26d0254d9b923c273d57103020ef166aa16b99f80a89faf20f0e4341a5940c3c",
+  "Deut/witnesses.jsonl": "6211734ed0ee24d031c587663a0f9d7e8049c26e33e99a6a1791452f87d47413",
+  "Eccl/alignments.jsonl": "e09281b0161d2902803692156a752adda15e1177f0c116e4d732189337c2eb00",
+  "Eccl/passages.jsonl": "321ac5d5a959a4c9e000e0503a2f05f01ef0d734bb8ed5718089ceb3cc4e5d04",
+  "Eccl/tokens.jsonl": "3bb8939adf8cb04c41a9934e28d37dd07ee69a130965470c79e7cf4488d17f28",
+  "Eccl/witnesses.jsonl": "a716a14fb06ce5faa00ef833a40d16a93f4da46ad6008f3f8597e224b0464a4a",
+  "Esth/alignments.jsonl": "15178a0fdaa06034c458eba7282bddb0a3c4292b7906bee5d6ccbd6fd24fead0",
+  "Esth/passages.jsonl": "017a9a94090392e28604a0a063c938e2d99f6d8861227fa0cbf7a8949f49e493",
+  "Esth/tokens.jsonl": "280cffe01fc36831e2602ea6e622c817f7f44275a2490468472c70aa6b7e454e",
+  "Esth/witnesses.jsonl": "4f1599f82550538140ffb744f0f7ef5adf0b40705704d32b7c252620c99c254e",
+  "Exod/alignments.jsonl": "3085d495bfd2227ef328bb99713087e8f376c4cd28cacee1c2e872e359c34485",
+  "Exod/passages.jsonl": "22b61ed4b114ff8e531c0cdb44fdd80f1b452ff848fa980926a9fdca5353ec05",
+  "Exod/tokens.jsonl": "6ac1823e479e0d1a063f5c1c45d10db2abd792204fc87d154be3b5dc9d34d675",
+  "Exod/witnesses.jsonl": "2ec07c58cacf2026675d40c39f163c036425477e7974ffcbbf75c794fc3aaaa0",
+  "Ezek/alignments.jsonl": "125f872d5c58bac87c160f1c31748c0166d07721f9fc31c2ad0faaa302c277d6",
+  "Ezek/passages.jsonl": "9ede09f8d49d868129ed1c9f067573db883c3813bf9ca4d66d422e0444d4511a",
+  "Ezek/tokens.jsonl": "d9e8e5faa8631c22f406ed4edb00044ff88b1a2c5e59d809a1316b0da0134008",
+  "Ezek/witnesses.jsonl": "76f51898ae05137e3e88681f413fbb3be3fb518f907246df860ac92d171c8655",
+  "Ezra/alignments.jsonl": "73abb47e71e7a4694af89965bfea3c176fc50c41b8ff0e46da0b475fee93f94d",
+  "Ezra/passages.jsonl": "0683e1e8f3c47db5fdbac0afcc350a66636dc0720326b7c1dc152d014ddd1ec2",
+  "Ezra/tokens.jsonl": "ffb4688c67e7e293a603c4ffcca342243a010a895094ddc131c34fb386af3c76",
+  "Ezra/witnesses.jsonl": "044ad070004f95a2582bfbcf2ec41270638d2c945bec5819da14264c968d9e31",
+  "Gen/alignments.jsonl": "4b86ba7f58ed9a203378f65b477ac4097bd0969a3ad24725b35616d31666794f",
+  "Gen/passages.jsonl": "a8faa7b25f9845f6ad4204ab957773642938260be332d74d47fe032d9c20bba1",
+  "Gen/tokens.jsonl": "41874a0a126c0650504756d92fa24d127ff82b34ef04597420a92fe8c0f9a01a",
+  "Gen/witnesses.jsonl": "1449e957c6585bd25635d276a3061268b60ff3d15cf504840f258d618d6ef8fa",
+  "Hab/alignments.jsonl": "3c5d8df90f87c2a1fdea4b0f13139136e1c4daa2c696b6fd2745d66e4a034bcc",
+  "Hab/passages.jsonl": "018e96889c3b95b165a1cbb89ee754220d24bad0d32a7f4ae9f7a171f280a9a2",
+  "Hab/tokens.jsonl": "704b1517e38307c4e63b76ce1cfa9b50f839370313a824db7a3c8bf91429f710",
+  "Hab/witnesses.jsonl": "68d3feff1c5e79e549508ca580059f4de0ca6357b425f47b2c1123c79fe0f5a3",
+  "Hag/alignments.jsonl": "eefeebcbee83963fd40b1b916f818341e09ebb7445330a825842cfab225b1772",
+  "Hag/passages.jsonl": "790c94d789ec47aa9f780d4bed2998b4828371017521da14eb7f37a10a9a558b",
+  "Hag/tokens.jsonl": "8c294ed2e8bf610d2d907f91eb7ee1220aaa1b4907bc5da0d3539f3ddfbb8b78",
+  "Hag/witnesses.jsonl": "6e0fdcc64289e90dd1a13f1ee6220da78416b99b1c43c1a8fe43226614aec817",
+  "Hos/alignments.jsonl": "61736f6af7cb80438b75950fac6d3987f42640adbf09c49f1e4bd7df89ce26d3",
+  "Hos/passages.jsonl": "dd50c2321ba62a59c4724524be17ff56082ac19c66e73d9a529e7a37e7955757",
+  "Hos/tokens.jsonl": "98f084f3850cf5b837222246068d2912387400bc5d8654471b62f0968847bb85",
+  "Hos/witnesses.jsonl": "73897273ac6941805a02ecd7ee7e299629807fb3e581c35925935d4cddf75793",
+  "Isa/alignments.jsonl": "b57052fe4c383d47f93af0f3114ef450cccecc5ce7a032252e7bf580435ddbf6",
+  "Isa/passages.jsonl": "5830c1367f6f4d26b4076570fb5726e6400f516f7b8fa412a44118a56320c772",
+  "Isa/tokens.jsonl": "63266996b56d8b19073e9df538cec86b158629bb3e7ef8a4a2a92496847915e4",
+  "Isa/witnesses.jsonl": "d248d64dbdcadf45f964a45c14165a7ed75862bd15fb640a27ff3da5cc8c5d0e",
+  "Jer/alignments.jsonl": "a68ace9b12894733d186ba202f06b82db92069cc5c33c087235a9fbb571da1c1",
+  "Jer/passages.jsonl": "1bcfbbf888da403ff984180ffba6169550fa781fa91adb7c5423cabfc725b4fc",
+  "Jer/tokens.jsonl": "3ab7733113ead80668423d2518225f653eee79d0c5304744746b3f1ee44c6b80",
+  "Jer/witnesses.jsonl": "e7c20b1044cc067b89e6e7c08175a90726d52efb538e42da7d207b4866f51723",
+  "Job/alignments.jsonl": "45787bd159cc43cf0c7fcdcffbf715c8ded0148ceeed5b5eaea706a2e27bde95",
+  "Job/passages.jsonl": "e6fd4c6266b774f4fae70e839cff2c4edc1e5d0cc125b73adfd93bfe93ce6e17",
+  "Job/tokens.jsonl": "98b072c1ce6030359a60aa0a8c984e02eebc5a2a31e20a1d6714bd74b533df93",
+  "Job/witnesses.jsonl": "8202c01f4b716571c7bafa09daea895e2aa84e139e214609dbbba2f3693884f5",
+  "Joel/alignments.jsonl": "22d617b08824946dcd7373ac257e0aab7947945d7a5815c3f8d0fff0c4c5e93e",
+  "Joel/passages.jsonl": "754ced7f2d48a88bf6bbf2a424d18fc6c90559165bd6089598d482db8dc5b7cf",
+  "Joel/tokens.jsonl": "6cc6afd9a1cf0b9f032acbdee3ddaa8e845c688efe68ebbabf875e61501e606f",
+  "Joel/witnesses.jsonl": "1347aa747edaa00ec120911573be4e2c4e66a9b0710e9c72b13e431528131f8d",
+  "Jonah/alignments.jsonl": "826fc3457d5a970e1bdc8c9344f0e8825ee7d74e33017630db024c95e8054cc5",
+  "Jonah/passages.jsonl": "818ae113dbdfe0b2dbf8f6628e6c064f0d7638dcaaa2d2ddcf377f2d2ccdf457",
+  "Jonah/tokens.jsonl": "265e4d9e9cc24368f369118e2eec1730cb9b50b6b0f5db3302c3adba66231820",
+  "Jonah/witnesses.jsonl": "ad4d24be948aaa97689bb57e30d296add61c6b494abcdb4741e7b7cf4d108224",
+  "Josh/alignments.jsonl": "32e18e6edc5a5bb756eddb074ab3d37b2f7bd246a70a384c4a21303c73bc677b",
+  "Josh/passages.jsonl": "5fb663f3e27e83a69504f860bc5340cfa73994e6e04a02ce1a47831a23abf33e",
+  "Josh/tokens.jsonl": "06e49d8f3d83e90a5f7db4d0d85e7c35697b3e6009d34efaccd2ac2b35318f45",
+  "Josh/witnesses.jsonl": "8a6d88237a2332d396d3753694fbb4992767898c183e70f232556f5e4ecd3b34",
+  "Judg/alignments.jsonl": "01159612f3dbe3df4ed4886ac4e68cce58285a49bb72c2d3639deed185c05242",
+  "Judg/passages.jsonl": "bef3cce4edb663b99c883b64097f108966cdb16ba860758899cc81bc61665a41",
+  "Judg/tokens.jsonl": "d491aa457f754b127f4d29237659e883dbfe7fc121b6534758be115fdb76c8ca",
+  "Judg/witnesses.jsonl": "5ceada87526136db0dd5c7e1c7e5ccf1f234f2a721094a57e543a70634eaca66",
+  "Lam/alignments.jsonl": "62995f978a81df7d2db45839c26b87b727b6d483cd90c1eb97d121cbb02b1556",
+  "Lam/passages.jsonl": "b57c920ffafcc0c66e6fd0b975bf378c4ee3de1fde515fc6d43fbd9eae136488",
+  "Lam/tokens.jsonl": "a1e24f02c637a98aef3215a23903d3b611fe808ff2f4ada5ccdf5928875c0cd1",
+  "Lam/witnesses.jsonl": "c41b270aeb120a9983e5203b2ebc85206f4f5833edee66b31c755bcb4b4beaf1",
+  "Lev/alignments.jsonl": "55ee5e555e5a6a5960ea6ee11a4ce9e90b8719ad8e4ac0f6481c372d81bea409",
+  "Lev/passages.jsonl": "637f450e86575ebe989cabf86a5714d1c4254b1e49aba39b73fb86006e2cc62f",
+  "Lev/tokens.jsonl": "45d1707961a39c2e3fea1f0590459807e82739d1419b73facbebbf0008faaa22",
+  "Lev/witnesses.jsonl": "e6409ddf41bd4ca5085ccf0caf35a98840e418f63a869fca84957b005fbd6464",
+  "Mal/alignments.jsonl": "0804d3a713355660a5d63d8ed4589572cee991e23ab7afc4ac84b2ec0e23c86f",
+  "Mal/passages.jsonl": "28bf5434ee1fc0e079414a32c814b9a7cb55b97ba18419ece6789e9d768ff051",
+  "Mal/tokens.jsonl": "75bc7836f98720548243496c0175762231e228c4e6b96e7cad134e81a175b235",
+  "Mal/witnesses.jsonl": "58a737b592bf0519776e87c47c9e14614d8856a8e3b35086423e081517aab865",
+  "Mic/alignments.jsonl": "4c402d6426d63e7fac920ef9166014693cbb0ea512529a4c58daa094a2c8d1ca",
+  "Mic/passages.jsonl": "ac25d37360c805a0e36d3f6638b78f5c948109a2ffd6856319e961d35b570f42",
+  "Mic/tokens.jsonl": "33521255ab6f332e8e39d5e321cbb8b73bd561abb5cb23aef85bf6a83de4d9c4",
+  "Mic/witnesses.jsonl": "ebfea1a30a7234e980776ae082a9bf8628b9739ea0ccdde5026f3fa227cbd064",
+  "Nah/alignments.jsonl": "91d8267a46be0d1a0d18c2dea5747f3bc09a3d8e95a1ff68d1a84ed9347d103c",
+  "Nah/passages.jsonl": "d267ff95126a671412b649c5e5ef9f07f9e63951f97253d13f0579e46343267a",
+  "Nah/tokens.jsonl": "b6c118055f45e4db4d27b34a435d632662a225cd9f5658782920db0e0f6a879c",
+  "Nah/witnesses.jsonl": "97e1b54cb9719853f7cc128a443213335c145acc7a1fe8f172cd05095ded8482",
+  "Neh/alignments.jsonl": "e7392066bec59b6ab0643512efefe3964bdc546f1d05e6cde68d4ba8a5774812",
+  "Neh/passages.jsonl": "35b820523fccf3062e743dc7c6cc9e29088e9621d4b03123d9e5541ecd801033",
+  "Neh/tokens.jsonl": "fccd96c0dde26afccb03c495a1c653b42a167d09e919b9f61dd9c5bccc9b0f0c",
+  "Neh/witnesses.jsonl": "109a804be262fa124fa6e52c50527c0ad73182fa97e0bf60073c7c671ea620d3",
+  "Num/alignments.jsonl": "21f014c1db57ed5d30a55f177b59130f9d75c0fa9ab503c61d0f192ab9928627",
+  "Num/passages.jsonl": "32094e59d72fd3fe09cac624b4295477218ed02592abe8825539240c7dcbb38d",
+  "Num/tokens.jsonl": "c8334a24b158feade3a11e782603b259a59dffb295bafbcc434a487b9dafdff7",
+  "Num/witnesses.jsonl": "d9a13e4521dc22a822bb7585f676664e281454390df1d3cae9a380a98df3a6be",
+  "Obad/alignments.jsonl": "e8d8aef8636a0dd1f9806db7285f715060b6af8a125b5314c470bb0a4b656f4a",
+  "Obad/passages.jsonl": "768267569990fa48afc4201afd9bbc5e656757504dbfd5f9c266c3826f97e8d5",
+  "Obad/tokens.jsonl": "f9c7075d5b33152a29c34be1c7fd605132f760e8df413c29e1ecbe55426876a8",
+  "Obad/witnesses.jsonl": "baf39999883e78a0223c747f1d643263002585c199940a88bcd9b84d0cdea24e",
+  "Prov/alignments.jsonl": "3d95a24bc28e709275bd6b5ff19e899c936e9cd3027b640362dbbae819cf53c4",
+  "Prov/passages.jsonl": "cce503c90b227d07bccb8b15914fe9b6dffa55deefae408b6c6dbae5b581736d",
+  "Prov/tokens.jsonl": "b22fcdd92badbd3b473fe0c9689a28401e63010ef7a1674d3d1543abfe445e84",
+  "Prov/witnesses.jsonl": "1e417ac54b2c400ceb0d72dc2a88ca86ac1bbbf8636d4248d59153a10e9e1b55",
+  "Ps/alignments.jsonl": "5bb2ebc48f476cae3c35753414e78a21612caa6058fe7c905e7e26c1aea4a554",
+  "Ps/passages.jsonl": "f39d73987fff75807c991dd2aff9873f6eb3d22f5ec6dbf127ac8fe090d9d858",
+  "Ps/tokens.jsonl": "c10bc4909104d2556181356621562b86a5522d33279ad5823feb274813163c20",
+  "Ps/witnesses.jsonl": "f75c85f553804b1d77ca1a44567eefdf5b850453a5c249f1218ea70d7da0c19f",
+  "Ruth/alignments.jsonl": "364b87d9c5afc43f703d2d5c9dba623eda88b241b672e28ad08695ab8987fff6",
+  "Ruth/passages.jsonl": "be277467d7d3fe08330c14784a9a0677055f70e2ff25df41a199c55b5c19e96c",
+  "Ruth/tokens.jsonl": "4b641f8fcc0ea2472c337691f1032ff86040877009639a7cc396679dba2b2a8d",
+  "Ruth/witnesses.jsonl": "4fc0e883184070793673be489d9973b1de2d7737ed8e3a24ec82ced0d929049c",
+  "Song/alignments.jsonl": "56e27a671e9134fbadea9e2a7643ab39e6f39d81b0e25bc21b9df885b23a7666",
+  "Song/passages.jsonl": "28c55f9b3e73211159f15ca3fdfeed4fd3667723358a1c2ea9d049c823fca85b",
+  "Song/tokens.jsonl": "ac4c94b7e512dbd08ea6af21919aeb64164b1849b330c063d106b244f59e617d",
+  "Song/witnesses.jsonl": "5f1809408d39e057ea0fd4c9df6954b310a88f7f54dba46b23204389c0bdd9e4",
+  "Zech/alignments.jsonl": "bedf512b84a971b702d5bdd6632f244701a47626614d73da49ab58dbb814b18e",
+  "Zech/passages.jsonl": "a33d4d43c75c07ca6f3a23039b5881f043fd055b5ff08b8c1d0f720d977506ae",
+  "Zech/tokens.jsonl": "8d5847204d5c5e2e7c87862ec8c9647922c1d6ce7529e93c55ad6739683a229f",
+  "Zech/witnesses.jsonl": "d77abbf7a299ed9f5b0928a2d78efcfb7f85bd5a37bdf0f99d4011c6b7be2601",
+  "Zeph/alignments.jsonl": "dee0523b7ebfe2c5e2b41bb9f563a365a2d29b42c249bb2eabcd0616f7a8f400",
+  "Zeph/passages.jsonl": "3be6597d1c4d37286fe39c3c7d9c2c5b4f97eab96636b4bd3a1e174393f7ef74",
+  "Zeph/tokens.jsonl": "449e211a3cf0e847f6fb621cbf3976865a88f3261536c3c50f8d54ddf6f80760",
+  "Zeph/witnesses.jsonl": "ed8cfda3acebc2a755e15a865e2d9eec6a5a3e6ac87693d9611e4e3b4f505445"
+ }
+}

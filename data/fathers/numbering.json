@@ -1,0 +1,1949 @@
+{
+ "schema": "canon-corpus/fathers-numbering/v3",
+ "built_by": "pipeline/fathers_numbering.py",
+ "rule": {
+  "numberings": {
+   "grc": [
+    "lxx",
+    "hebrew",
+    "english"
+   ],
+   "lat": [
+    "vulgate",
+    "hebrew",
+    "english"
+   ]
+  },
+  "margin": 0.2,
+  "min_shared": 2,
+  "min_votes": 4,
+  "min_own": 2,
+  "share": 0.7,
+  "clip": 0.05,
+  "common": 100,
+  "classes": [
+   "Ps",
+   "Jer",
+   "rest"
+  ],
+  "how": [
+   "each OT reference is read in every numbering of its family: lxx (Brenton's map) or vulgate (the Clementine's), hebrew (BHS chapter and verse, a psalm's title counted as verse 1: data/versification/bhs-kjv.json) and english (the KJV's chapter and verse as printed)",
+   "votes, keyed kind:numberings-supported: existence (only some numberings have the verse) and, in Greek, content_chapter / content_verse (the father's glossed words favour one candidate verse by margin)",
+   "an edition's class takes the numbering with the highest score: the log of its pooled share for the class (a mixture estimate: a vote two numberings share is split between them by their shares, to a fixed point, so an LXX editor's lxx+hebrew votes lend the Hebrew count nothing against the English), clipped to clip..1-clip, plus each supporting vote's weight (`weights`: the log-odds of a vote of that kind being right, from `calibration` and, for existence, the Latin Psalms)",
+   "an edition leaves the pool's numbering only on at least min_own votes of its own that tell the two apart, where the pool holds `share` of the class (a near-even pool cannot outvote one vote: it stays undecided); a rival is ruled out only by min_own such votes netting against it, or, for the pool's numbering, by a pooled share of at least `share` with no vote of the edition's against it. Rivals not ruled out are `undecided`, and every link that would read differently in one says so (numbering_undecided)",
+   "mixed (Greek): at least min_votes and no numbering has `share` of them; each note's run of references to one chapter is then read by one content vote where the candidates differ by chapter, else as the edition leans"
+  ],
+  "weights": {
+   "existence": 2.9444,
+   "chapter": 2.1249,
+   "verse": 1.0885
+  }
+ },
+ "calibration": {
+  "chapter": {
+   "right": 737,
+   "unclear": 2497,
+   "wrong": 88,
+   "right_share_of_votes": 0.8933
+  },
+  "verse": {
+   "right": 692,
+   "unclear": 3125,
+   "wrong": 233,
+   "right_share_of_votes": 0.7481
+  }
+ },
+ "pooled": {
+  "grc": {
+   "Ps": {
+    "share": {
+     "lxx": 0.8882,
+     "hebrew": 0.0251,
+     "english": 0.0867
+    },
+    "votes": {
+     "content_chapter:english": 4,
+     "content_chapter:hebrew": 3,
+     "content_chapter:hebrew+english": 25,
+     "content_chapter:lxx": 195,
+     "content_verse:english": 8,
+     "content_verse:lxx+hebrew": 12,
+     "existence:hebrew+english": 18,
+     "existence:lxx": 253,
+     "existence:lxx+hebrew": 5
+    },
+    "numbering": "lxx"
+   },
+   "Jer": {
+    "share": {
+     "lxx": 0.5745,
+     "hebrew": 0.0,
+     "english": 0.4255
+    },
+    "votes": {
+     "content_chapter:hebrew+english": 9,
+     "content_chapter:lxx": 10,
+     "content_verse:english": 3,
+     "existence:english": 1,
+     "existence:hebrew+english": 7,
+     "existence:lxx": 17
+    },
+    "numbering": "lxx",
+    "undecided": [
+     "hebrew",
+     "english"
+    ]
+   },
+   "rest": {
+    "share": {
+     "lxx": 0.4122,
+     "hebrew": 0.0758,
+     "english": 0.5121
+    },
+    "votes": {
+     "content_chapter:english": 2,
+     "content_chapter:hebrew+english": 1,
+     "content_chapter:lxx": 2,
+     "content_verse:english": 14,
+     "content_verse:hebrew": 4,
+     "content_verse:hebrew+english": 1,
+     "content_verse:lxx": 1,
+     "content_verse:lxx+english": 7,
+     "content_verse:lxx+hebrew": 4,
+     "existence:english": 11,
+     "existence:hebrew+english": 9,
+     "existence:lxx": 18,
+     "existence:lxx+english": 12,
+     "existence:lxx+hebrew": 6
+    },
+    "numbering": "english",
+    "undecided": [
+     "lxx",
+     "hebrew"
+    ]
+   }
+  },
+  "lat": {
+   "Ps": {
+    "share": {
+     "vulgate": 0.9775,
+     "hebrew": 0.0225,
+     "english": 0.0
+    },
+    "votes": {
+     "existence:hebrew+english": 40,
+     "existence:vulgate": 1741,
+     "existence:vulgate+hebrew": 73
+    },
+    "numbering": "vulgate"
+   },
+   "Jer": {
+    "share": {
+     "vulgate": 0.5,
+     "hebrew": 0.0,
+     "english": 0.5
+    },
+    "votes": {
+     "existence:vulgate+english": 2
+    },
+    "numbering": "vulgate",
+    "undecided": [
+     "hebrew",
+     "english"
+    ]
+   },
+   "rest": {
+    "share": {
+     "vulgate": 0.9425,
+     "hebrew": 0.0,
+     "english": 0.0575
+    },
+    "votes": {
+     "existence:hebrew+english": 5,
+     "existence:vulgate": 71,
+     "existence:vulgate+english": 101,
+     "existence:vulgate+hebrew": 11
+    },
+    "numbering": "vulgate"
+   }
+  }
+ },
+ "editions": {
+  "grc": {
+   "Arthur James Mason": {
+    "books": [
+     "gregory-nazianzen-oration-27-grc",
+     "gregory-nazianzen-oration-28-grc",
+     "gregory-nazianzen-oration-29-grc",
+     "gregory-nazianzen-oration-30-grc",
+     "gregory-nazianzen-oration-31-grc"
+    ],
+    "Ps": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 25.28,
+      "hebrew": 1.306,
+      "english": -0.32
+     },
+     "votes": {
+      "content_chapter:hebrew+english": 1,
+      "content_chapter:lxx": 4,
+      "content_verse:lxx+hebrew": 2,
+      "existence:lxx": 5
+     }
+    },
+    "Jer": {
+     "numbering": "english",
+     "score": {
+      "lxx": -0.554,
+      "hebrew": 2.074,
+      "english": 4.215
+     },
+     "undecided": [
+      "hebrew"
+     ],
+     "votes": {
+      "content_chapter:hebrew+english": 1,
+      "existence:hebrew+english": 1
+     }
+    },
+    "rest": {
+     "numbering": "english",
+     "score": {
+      "lxx": -0.886,
+      "hebrew": -2.58,
+      "english": 7.397
+     },
+     "votes": {
+      "content_verse:english": 2,
+      "existence:english": 2
+     }
+    }
+   },
+   "Charles de La Rue & Charles Vincent de La Rue": {
+    "books": [
+     "origen-epistula-africanum-grc"
+    ],
+    "Ps": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": -0.119,
+      "hebrew": -2.996,
+      "english": -2.445
+     },
+     "votes": {}
+    },
+    "Jer": {
+     "numbering": "english",
+     "score": {
+      "lxx": -0.554,
+      "hebrew": -0.051,
+      "english": 2.09
+     },
+     "undecided": [
+      "lxx",
+      "hebrew"
+     ],
+     "votes": {
+      "existence:hebrew+english": 1
+     }
+    },
+    "rest": {
+     "numbering": "english",
+     "score": {
+      "lxx": -0.886,
+      "hebrew": -2.58,
+      "english": -0.669
+     },
+     "undecided": [
+      "lxx",
+      "hebrew"
+     ],
+     "votes": {}
+    }
+   },
+   "D.G. Nathanael Bonwetsch": {
+    "books": [
+     "methodius-symposium-grc"
+    ],
+    "Ps": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 24.075,
+      "hebrew": 6.323,
+      "english": 7.962
+     },
+     "per_reference": true,
+     "votes": {
+      "content_chapter:hebrew+english": 3,
+      "content_chapter:lxx": 10,
+      "content_verse:english": 1,
+      "existence:hebrew+english": 1,
+      "existence:lxx": 1
+     }
+    },
+    "Jer": {
+     "numbering": "english",
+     "score": {
+      "lxx": -0.554,
+      "hebrew": -2.996,
+      "english": 2.09
+     },
+     "undecided": [
+      "lxx",
+      "hebrew"
+     ],
+     "votes": {
+      "existence:english": 1
+     }
+    },
+    "rest": {
+     "numbering": "english",
+     "score": {
+      "lxx": 2.058,
+      "hebrew": -2.58,
+      "english": 2.275
+     },
+     "undecided": [
+      "lxx",
+      "hebrew"
+     ],
+     "votes": {
+      "existence:lxx+english": 1
+     }
+    }
+   },
+   "Erich Klostermann": {
+    "books": [
+     "marcellus-fragmenta-grc",
+     "origen-de-engastrimytho-grc",
+     "origen-homilies-jeremiah-1-11-grc",
+     "origen-homilies-jeremiah-12-20-grc"
+    ],
+    "Ps": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 143.448,
+      "hebrew": 15.478,
+      "english": 12.763
+     },
+     "votes": {
+      "content_chapter:hebrew+english": 3,
+      "content_chapter:lxx": 30,
+      "content_verse:lxx+hebrew": 3,
+      "existence:hebrew+english": 3,
+      "existence:lxx": 26
+     }
+    },
+    "Jer": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 11.709,
+      "hebrew": -0.871,
+      "english": 3.447
+     },
+     "per_reference": true,
+     "votes": {
+      "content_chapter:hebrew+english": 1,
+      "content_chapter:lxx": 3,
+      "content_verse:english": 2,
+      "existence:lxx": 2
+     }
+    },
+    "rest": {
+     "numbering": "english",
+     "score": {
+      "lxx": 3.147,
+      "hebrew": -2.58,
+      "english": 8.164
+     },
+     "per_reference": true,
+     "votes": {
+      "content_verse:lxx": 1,
+      "existence:english": 3,
+      "existence:lxx": 1
+     }
+    }
+   },
+   "Erwin Preuschen": {
+    "books": [
+     "origen-commentary-john-grc"
+    ],
+    "Ps": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 200.072,
+      "hebrew": 6.323,
+      "english": 4.749
+     },
+     "votes": {
+      "content_chapter:hebrew": 1,
+      "content_chapter:hebrew+english": 2,
+      "content_chapter:lxx": 18,
+      "existence:hebrew+english": 1,
+      "existence:lxx": 55
+     }
+    },
+    "Jer": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 2.39,
+      "hebrew": -2.996,
+      "english": -0.854
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {
+      "existence:lxx": 1
+     }
+    },
+    "rest": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 19.725,
+      "hebrew": 9.198,
+      "english": 18.086
+     },
+     "votes": {
+      "content_verse:english": 1,
+      "existence:hebrew+english": 2,
+      "existence:lxx": 1,
+      "existence:lxx+english": 4,
+      "existence:lxx+hebrew": 2
+     }
+    }
+   },
+   "Georges Archambault": {
+    "books": [
+     "justin-dialogue-trypho-grc"
+    ],
+    "Ps": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 120.175,
+      "hebrew": 4.467,
+      "english": 1.804
+     },
+     "votes": {
+      "content_chapter:hebrew": 1,
+      "content_chapter:hebrew+english": 2,
+      "content_chapter:lxx": 27,
+      "content_verse:lxx+hebrew": 1,
+      "existence:lxx": 21
+     }
+    },
+    "Jer": {
+     "numbering": "english",
+     "score": {
+      "lxx": 1.571,
+      "hebrew": 11.393,
+      "english": 13.534
+     },
+     "undecided": [
+      "hebrew"
+     ],
+     "votes": {
+      "content_chapter:hebrew+english": 4,
+      "content_chapter:lxx": 1,
+      "existence:hebrew+english": 2
+     }
+    },
+    "rest": {
+     "numbering": "english",
+     "score": {
+      "lxx": 6.091,
+      "hebrew": 1.453,
+      "english": 11.108
+     },
+     "votes": {
+      "content_verse:lxx+hebrew": 1,
+      "existence:english": 1,
+      "existence:hebrew+english": 1,
+      "existence:lxx+english": 2
+     }
+    }
+   },
+   "Ivar A. Heikel": {
+    "books": [
+     "eusebius-laudes-constantini-grc",
+     "eusebius-vita-constantini-grc"
+    ],
+    "Ps": {
+     "numbering": "english",
+     "score": {
+      "lxx": -0.119,
+      "hebrew": 2.074,
+      "english": 2.624
+     },
+     "undecided": [
+      "hebrew"
+     ],
+     "votes": {
+      "content_chapter:hebrew+english": 1,
+      "existence:hebrew+english": 1
+     }
+    },
+    "Jer": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": -0.554,
+      "hebrew": -2.996,
+      "english": -0.854
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "english",
+     "score": {
+      "lxx": 2.058,
+      "hebrew": -2.58,
+      "english": 2.275
+     },
+     "undecided": [
+      "lxx",
+      "hebrew"
+     ],
+     "votes": {
+      "existence:lxx+english": 1
+     }
+    }
+   },
+   "James Armitage Robinson": {
+    "books": [
+     "origen-philocalia-grc"
+    ],
+    "Ps": {
+     "numbering": "english",
+     "score": {
+      "lxx": 0.97,
+      "hebrew": 1.037,
+      "english": 1.588
+     },
+     "undecided": [
+      "hebrew"
+     ],
+     "votes": {
+      "content_verse:english": 1,
+      "content_verse:lxx+hebrew": 1,
+      "existence:hebrew+english": 1
+     }
+    },
+    "Jer": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": -0.554,
+      "hebrew": -2.996,
+      "english": -0.854
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "english",
+     "score": {
+      "lxx": 3.147,
+      "hebrew": 6.254,
+      "english": 6.308
+     },
+     "undecided": [
+      "hebrew"
+     ],
+     "votes": {
+      "content_verse:lxx+english": 1,
+      "existence:hebrew+english": 2,
+      "existence:lxx+hebrew": 1
+     }
+    }
+   },
+   "Joseph Bidez & Leon Parmentier": {
+    "books": [
+     "evagrius-historia-ecclesiastica-grc"
+    ],
+    "Ps": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 2.826,
+      "hebrew": -2.996,
+      "english": -2.445
+     },
+     "votes": {
+      "existence:lxx": 1
+     }
+    },
+    "Jer": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": -0.554,
+      "hebrew": -2.996,
+      "english": -0.854
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "english",
+     "score": {
+      "lxx": -0.886,
+      "hebrew": -2.58,
+      "english": -0.669
+     },
+     "undecided": [
+      "lxx",
+      "hebrew"
+     ],
+     "votes": {}
+    }
+   },
+   "Karl Holl": {
+    "books": [
+     "epiphanius-ancoratus-grc"
+    ],
+    "Ps": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 33.575,
+      "hebrew": 1.254,
+      "english": 1.804
+     },
+     "votes": {
+      "content_chapter:hebrew+english": 2,
+      "content_chapter:lxx": 2,
+      "existence:lxx": 10
+     }
+    },
+    "Jer": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": -0.554,
+      "hebrew": -2.996,
+      "english": -0.854
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 41.424,
+      "hebrew": 6.254,
+      "english": 6.308
+     },
+     "votes": {
+      "content_verse:lxx+english": 1,
+      "existence:english": 1,
+      "existence:hebrew+english": 1,
+      "existence:lxx": 12,
+      "existence:lxx+hebrew": 2
+     }
+    }
+   },
+   "Léon Parmentier": {
+    "books": [
+     "theodoret-historia-ecclesiastica-grc"
+    ],
+    "Ps": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 23.923,
+      "hebrew": -2.996,
+      "english": -2.445
+     },
+     "votes": {
+      "content_chapter:lxx": 3,
+      "existence:lxx": 6
+     }
+    },
+    "Jer": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": -0.554,
+      "hebrew": -2.996,
+      "english": -0.854
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 2.058,
+      "hebrew": -2.58,
+      "english": -0.669
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {
+      "existence:lxx": 1
+     }
+    }
+   },
+   "Margret Heinemann & Gerhard Loeschke": {
+    "books": [
+     "gelasius-historia-ecclesiastica-grc"
+    ],
+    "Ps": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 26.867,
+      "hebrew": -0.051,
+      "english": 0.499
+     },
+     "votes": {
+      "content_chapter:lxx": 3,
+      "existence:hebrew+english": 1,
+      "existence:lxx": 7
+     }
+    },
+    "Jer": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": -0.554,
+      "hebrew": -2.996,
+      "english": -0.854
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 6.091,
+      "hebrew": -1.491,
+      "english": 0.419
+     },
+     "votes": {
+      "content_verse:hebrew": 1,
+      "content_verse:lxx+english": 1,
+      "existence:lxx": 2
+     }
+    }
+   },
+   "Paul Wendland": {
+    "books": [
+     "hippolytus-refutatio-grc"
+    ],
+    "Ps": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 30.414,
+      "hebrew": -1.907,
+      "english": -2.445
+     },
+     "votes": {
+      "content_verse:lxx+hebrew": 1,
+      "existence:lxx": 10
+     }
+    },
+    "Jer": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": -0.554,
+      "hebrew": -2.996,
+      "english": -0.854
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 2.058,
+      "hebrew": 0.365,
+      "english": -0.669
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {
+      "existence:lxx+hebrew": 1
+     }
+    }
+   },
+   "Philip Edward Pusey": {
+    "books": [
+     "cyril-alexandria-xii-prophetas-grc"
+    ],
+    "Ps": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 470.828,
+      "hebrew": 26.436,
+      "english": 18.639
+     },
+     "votes": {
+      "content_chapter:english": 3,
+      "content_chapter:hebrew+english": 4,
+      "content_chapter:lxx": 94,
+      "content_verse:english": 3,
+      "content_verse:lxx+hebrew": 3,
+      "existence:hebrew+english": 1,
+      "existence:lxx": 86,
+      "existence:lxx+hebrew": 5
+     }
+    },
+    "Jer": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 53.417,
+      "hebrew": -2.996,
+      "english": -0.854
+     },
+     "votes": {
+      "content_chapter:lxx": 6,
+      "existence:lxx": 14
+     }
+    },
+    "rest": {
+     "numbering": "english",
+     "score": {
+      "lxx": 11.429,
+      "hebrew": 8.7,
+      "english": 34.257
+     },
+     "votes": {
+      "content_chapter:english": 2,
+      "content_chapter:hebrew+english": 1,
+      "content_chapter:lxx": 2,
+      "content_verse:english": 7,
+      "content_verse:hebrew": 2,
+      "content_verse:hebrew+english": 1,
+      "content_verse:lxx+english": 2,
+      "existence:english": 3,
+      "existence:hebrew+english": 2,
+      "existence:lxx": 1,
+      "existence:lxx+english": 1
+     }
+    }
+   },
+   "Robert Hussey & William Bright": {
+    "books": [
+     "socrates-historia-ecclesiastica-grc"
+    ],
+    "Ps": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": -0.119,
+      "hebrew": -2.996,
+      "english": -2.445
+     },
+     "votes": {}
+    },
+    "Jer": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": -0.554,
+      "hebrew": -2.996,
+      "english": -0.854
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "english",
+     "score": {
+      "lxx": -0.886,
+      "hebrew": -1.491,
+      "english": -0.669
+     },
+     "undecided": [
+      "lxx",
+      "hebrew"
+     ],
+     "votes": {
+      "content_verse:hebrew": 1
+     }
+    }
+   },
+   "Societatis philologae bonnensis sodales": {
+    "books": [
+     "mark-deacon-vita-porphyrii-grc"
+    ],
+    "Ps": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 7.895,
+      "hebrew": -0.871,
+      "english": -0.32
+     },
+     "votes": {
+      "content_chapter:hebrew+english": 1,
+      "content_chapter:lxx": 1,
+      "existence:lxx": 2
+     }
+    },
+    "Jer": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": -0.554,
+      "hebrew": -2.996,
+      "english": -0.854
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "english",
+     "score": {
+      "lxx": -0.886,
+      "hebrew": -2.58,
+      "english": -0.669
+     },
+     "undecided": [
+      "lxx",
+      "hebrew"
+     ],
+     "votes": {}
+    }
+   },
+   "Wilhelm Dindorf": {
+    "books": [
+     "eusebius-demonstratio-evangelica-grc",
+     "eusebius-historia-ecclesiastica-grc"
+    ],
+    "Ps": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 69.177,
+      "hebrew": 39.467,
+      "english": 41.106
+     },
+     "per_reference": true,
+     "votes": {
+      "content_chapter:english": 1,
+      "content_chapter:hebrew": 1,
+      "content_chapter:hebrew+english": 6,
+      "content_chapter:lxx": 3,
+      "content_verse:english": 2,
+      "content_verse:lxx+hebrew": 1,
+      "existence:hebrew+english": 9,
+      "existence:lxx": 21
+     }
+    },
+    "Jer": {
+     "numbering": "english",
+     "score": {
+      "lxx": -0.554,
+      "hebrew": 7.143,
+      "english": 9.284
+     },
+     "undecided": [
+      "hebrew"
+     ],
+     "votes": {
+      "content_chapter:hebrew+english": 2,
+      "existence:hebrew+english": 2
+     }
+    },
+    "rest": {
+     "numbering": "english",
+     "score": {
+      "lxx": 11.212,
+      "hebrew": -0.403,
+      "english": 13.606
+     },
+     "votes": {
+      "content_verse:english": 4,
+      "content_verse:lxx+english": 1,
+      "content_verse:lxx+hebrew": 2,
+      "existence:lxx+english": 3
+     }
+    }
+   },
+   "William Bright": {
+    "books": [
+     "athanasius-contra-arianos-1-grc",
+     "athanasius-contra-arianos-2-grc",
+     "athanasius-contra-arianos-3-grc",
+     "athanasius-contra-arianos-4-grc"
+    ],
+    "Ps": {
+     "numbering": "lxx",
+     "score": {
+      "lxx": 5.77,
+      "hebrew": -2.996,
+      "english": -1.357
+     },
+     "votes": {
+      "content_verse:english": 1,
+      "existence:lxx": 2
+     }
+    },
+    "Jer": {
+     "numbering": "english",
+     "score": {
+      "lxx": -0.554,
+      "hebrew": 2.074,
+      "english": 5.303
+     },
+     "undecided": [
+      "hebrew"
+     ],
+     "votes": {
+      "content_chapter:hebrew+english": 1,
+      "content_verse:english": 1,
+      "existence:hebrew+english": 1
+     }
+    },
+    "rest": {
+     "numbering": "english",
+     "score": {
+      "lxx": 1.291,
+      "hebrew": 1.453,
+      "english": 6.308
+     },
+     "votes": {
+      "content_verse:lxx+english": 1,
+      "content_verse:lxx+hebrew": 1,
+      "existence:english": 1,
+      "existence:hebrew+english": 1
+     }
+    }
+   }
+  },
+  "lat": {
+   "Alois Goldbacher": {
+    "books": [
+     "augustine-epistulae-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 441.609,
+      "hebrew": 11.726,
+      "english": 2.893
+     },
+     "votes": {
+      "existence:hebrew+english": 2,
+      "existence:vulgate": 147,
+      "existence:vulgate+hebrew": 3
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 79.44,
+      "hebrew": -0.051,
+      "english": 35.421
+     },
+     "votes": {
+      "existence:vulgate": 13,
+      "existence:vulgate+english": 13,
+      "existence:vulgate+hebrew": 1
+     }
+    }
+   },
+   "August Reifferscheid & Georg Wissowa": {
+    "books": [
+     "tertullian-de-anima-lat",
+     "tertullian-de-idololatria-lat",
+     "tertullian-de-ieiunio-lat",
+     "tertullian-de-oratione-lat",
+     "tertullian-de-pudicitia-lat",
+     "tertullian-de-spectaculis-lat",
+     "tertullian-scorpiace-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 5.838,
+      "hebrew": 5.837,
+      "english": 2.893
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {
+      "existence:hebrew+english": 2,
+      "existence:vulgate": 1,
+      "existence:vulgate+hebrew": 1
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 2.885,
+      "hebrew": -2.996,
+      "english": 0.088
+     },
+     "votes": {
+      "existence:vulgate+english": 1
+     }
+    }
+   },
+   "Emil Kroymann": {
+    "books": [
+     "tertullian-adversus-hermogenem-lat",
+     "tertullian-adversus-marcionem-lat",
+     "tertullian-adversus-praxean-lat",
+     "tertullian-de-patientia-lat",
+     "tertullian-de-resurrectione-carnis-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 91.225,
+      "hebrew": -2.996,
+      "english": -2.996
+     },
+     "votes": {
+      "existence:vulgate": 31
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 29.385,
+      "hebrew": -0.051,
+      "english": 11.866
+     },
+     "votes": {
+      "existence:vulgate": 4,
+      "existence:vulgate+english": 5,
+      "existence:vulgate+hebrew": 1
+     }
+    }
+   },
+   "Emmanuel Hoffmann": {
+    "books": [
+     "augustine-de-civitate-dei-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 117.725,
+      "hebrew": 5.837,
+      "english": 5.837
+     },
+     "votes": {
+      "existence:hebrew+english": 3,
+      "existence:vulgate": 40
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 17.607,
+      "hebrew": -2.996,
+      "english": 11.866
+     },
+     "votes": {
+      "existence:vulgate": 1,
+      "existence:vulgate+english": 5
+     }
+    }
+   },
+   "Franz Weihrich": {
+    "books": [
+     "augustine-speculum-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 44.115,
+      "hebrew": 5.837,
+      "english": 2.893
+     },
+     "votes": {
+      "existence:hebrew+english": 2,
+      "existence:vulgate": 14,
+      "existence:vulgate+hebrew": 1
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 2.885,
+      "hebrew": -2.996,
+      "english": 0.088
+     },
+     "votes": {
+      "existence:vulgate+english": 1
+     }
+    }
+   },
+   "Franz Weirich": {
+    "books": [
+     "augustine-de-consensu-evangelistarum-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 17.615,
+      "hebrew": -2.996,
+      "english": -2.996
+     },
+     "votes": {
+      "existence:vulgate": 6
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 11.718,
+      "hebrew": -2.996,
+      "english": 5.977
+     },
+     "votes": {
+      "existence:vulgate": 1,
+      "existence:vulgate+english": 3
+     }
+    }
+   },
+   "Isidor Hilberg": {
+    "books": [
+     "jerome-epistulae-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 753.715,
+      "hebrew": 50.003,
+      "english": -0.051
+     },
+     "votes": {
+      "existence:hebrew+english": 1,
+      "existence:vulgate": 239,
+      "existence:vulgate+hebrew": 17
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 111.828,
+      "hebrew": 5.837,
+      "english": 61.921
+     },
+     "votes": {
+      "existence:vulgate": 13,
+      "existence:vulgate+english": 22,
+      "existence:vulgate+hebrew": 3
+     }
+    }
+   },
+   "Johann Huemer": {
+    "books": [
+     "sedulius-opus-paschale-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 8.782,
+      "hebrew": -0.051,
+      "english": -0.051
+     },
+     "votes": {
+      "existence:hebrew+english": 1,
+      "existence:vulgate": 3
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 2.885,
+      "hebrew": -2.996,
+      "english": 0.088
+     },
+     "votes": {
+      "existence:vulgate+english": 1
+     }
+    }
+   },
+   "Joseph Zycha": {
+    "books": [
+     "augustine-contra-adimantum-lat",
+     "augustine-contra-faustum-lat",
+     "augustine-contra-mendacium-lat",
+     "augustine-contra-secundinum-lat",
+     "augustine-de-agone-christiano-lat",
+     "augustine-de-bono-coniugali-lat",
+     "augustine-de-coniugiis-adulterinis-lat",
+     "augustine-de-fide-et-operibus-lat",
+     "augustine-de-fide-et-symbolo-lat",
+     "augustine-de-genesi-ad-litteram-imperfectus-lat",
+     "augustine-de-mendacio-lat",
+     "augustine-de-natura-boni-lat",
+     "augustine-de-opere-monachorum-lat",
+     "augustine-de-sancta-virginitate-lat",
+     "augustine-quaestiones-in-heptateuchum-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 129.502,
+      "hebrew": 2.893,
+      "english": -0.051
+     },
+     "votes": {
+      "existence:hebrew+english": 1,
+      "existence:vulgate": 43,
+      "existence:vulgate+hebrew": 1
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 35.274,
+      "hebrew": 2.893,
+      "english": 32.477
+     },
+     "undecided": [
+      "english"
+     ],
+     "votes": {
+      "existence:hebrew+english": 2,
+      "existence:vulgate": 2,
+      "existence:vulgate+english": 10
+     }
+    }
+   },
+   "Karl F. Urba & Joseph Zycha": {
+    "books": [
+     "augustine-contra-duas-epistulas-pelagianorum-lat",
+     "augustine-de-gestis-pelagii-lat",
+     "augustine-de-gratia-christi-lat",
+     "augustine-de-natura-et-gratia-lat",
+     "augustine-de-natura-et-origine-animae-lat",
+     "augustine-de-peccatorum-meritis-lat",
+     "augustine-de-spiritu-et-littera-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 120.669,
+      "hebrew": 14.671,
+      "english": -0.051
+     },
+     "votes": {
+      "existence:hebrew+english": 1,
+      "existence:vulgate": 36,
+      "existence:vulgate+hebrew": 5
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 11.718,
+      "hebrew": -2.996,
+      "english": 0.088
+     },
+     "votes": {
+      "existence:vulgate": 3,
+      "existence:vulgate+english": 1
+     }
+    }
+   },
+   "Karl Halm": {
+    "books": [
+     "sulpicius-vita-martini-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.051,
+      "hebrew": -2.996,
+      "english": -2.996
+     },
+     "votes": {}
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.059,
+      "hebrew": -2.996,
+      "english": -2.856
+     },
+     "votes": {}
+    }
+   },
+   "Karl Schenkl": {
+    "books": [
+     "ambrose-apologia-david-altera-lat",
+     "ambrose-apologia-david-lat",
+     "ambrose-de-benedictionibus-patriarcharum-lat",
+     "ambrose-de-cain-et-abel-lat",
+     "ambrose-de-fuga-saeculi-lat",
+     "ambrose-de-helia-lat",
+     "ambrose-de-iacob-lat",
+     "ambrose-de-interpellatione-iob-lat",
+     "ambrose-de-ioseph-lat",
+     "ambrose-de-nabuthae-lat",
+     "ambrose-de-noe-lat",
+     "ambrose-de-paradiso-lat",
+     "ambrose-de-tobia-lat",
+     "ambrose-exameron-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 270.834,
+      "hebrew": 5.837,
+      "english": -2.996
+     },
+     "votes": {
+      "existence:vulgate": 89,
+      "existence:vulgate+hebrew": 3
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 52.94,
+      "hebrew": -0.051,
+      "english": 23.644
+     },
+     "votes": {
+      "existence:vulgate": 8,
+      "existence:vulgate+english": 9,
+      "existence:vulgate+hebrew": 1
+     }
+    }
+   },
+   "Karl Schenkl & Henricus Schenkl": {
+    "books": [
+     "ambrose-expositio-lucam-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 135.391,
+      "hebrew": 2.893,
+      "english": -2.996
+     },
+     "votes": {
+      "existence:vulgate": 44,
+      "existence:vulgate+hebrew": 2
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 5.83,
+      "hebrew": -2.996,
+      "english": 0.088
+     },
+     "votes": {
+      "existence:vulgate": 1,
+      "existence:vulgate+english": 1
+     }
+    }
+   },
+   "Karl Wotke": {
+    "books": [
+     "eucherius-de-laude-heremi-lat",
+     "eucherius-formulae-lat",
+     "eucherius-instructiones-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 126.558,
+      "hebrew": 17.615,
+      "english": 11.726
+     },
+     "votes": {
+      "existence:hebrew+english": 5,
+      "existence:vulgate": 41,
+      "existence:vulgate+hebrew": 2
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 5.83,
+      "hebrew": -0.051,
+      "english": 0.088
+     },
+     "votes": {
+      "existence:vulgate+english": 1,
+      "existence:vulgate+hebrew": 1
+     }
+    }
+   },
+   "Michael Petschenig": {
+    "books": [
+     "ambrose-explanatio-psalmorum-xii-lat",
+     "ambrose-expositio-psalmi-118-lat",
+     "augustine-ad-catholicos-de-secta-donatistarum-lat",
+     "augustine-contra-cresconium-lat",
+     "augustine-contra-epistulam-parmeniani-lat",
+     "augustine-contra-gaudentium-lat",
+     "augustine-contra-litteras-petiliani-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 2084.584,
+      "hebrew": 55.892,
+      "english": 2.893
+     },
+     "votes": {
+      "existence:hebrew+english": 2,
+      "existence:vulgate": 690,
+      "existence:vulgate+hebrew": 18
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 97.106,
+      "hebrew": 8.782,
+      "english": 50.143
+     },
+     "votes": {
+      "existence:hebrew+english": 1,
+      "existence:vulgate": 13,
+      "existence:vulgate+english": 17,
+      "existence:vulgate+hebrew": 3
+     }
+    }
+   },
+   "Paul Geyer": {
+    "books": [
+     "adamnan-de-locis-sanctis-lat",
+     "egeria-itinerarium-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 2.893,
+      "hebrew": -2.996,
+      "english": -2.996
+     },
+     "votes": {
+      "existence:vulgate": 1
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.059,
+      "hebrew": -2.996,
+      "english": -2.856
+     },
+     "votes": {}
+    }
+   },
+   "Pius Knöll": {
+    "books": [
+     "augustine-confessiones-lat",
+     "augustine-contra-academicos-lat",
+     "augustine-de-ordine-lat",
+     "augustine-retractationes-lat",
+     "eugippius-excerpta-augustini-lat",
+     "eugippius-vita-severini-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 356.221,
+      "hebrew": 50.003,
+      "english": 29.393
+     },
+     "votes": {
+      "existence:hebrew+english": 11,
+      "existence:vulgate": 114,
+      "existence:vulgate+hebrew": 7
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 17.607,
+      "hebrew": -0.051,
+      "english": 8.922
+     },
+     "votes": {
+      "existence:hebrew+english": 1,
+      "existence:vulgate": 3,
+      "existence:vulgate+english": 3
+     }
+    }
+   },
+   "Samuel Brandt & Georg Laubmann": {
+    "books": [
+     "lactantius-de-ira-dei-lat",
+     "lactantius-de-mortibus-persecutorum-lat",
+     "lactantius-divinae-institutiones-lat",
+     "lactantius-epitome-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 20.56,
+      "hebrew": -2.996,
+      "english": -2.996
+     },
+     "votes": {
+      "existence:vulgate": 7
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 2.885,
+      "hebrew": -2.996,
+      "english": 0.088
+     },
+     "votes": {
+      "existence:vulgate+english": 1
+     }
+    }
+   },
+   "Siegfried Reiter": {
+    "books": [
+     "jerome-in-hieremiam-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 120.669,
+      "hebrew": -0.051,
+      "english": -2.996
+     },
+     "votes": {
+      "existence:vulgate": 40,
+      "existence:vulgate+hebrew": 1
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 5.196,
+      "hebrew": -2.996,
+      "english": 5.196
+     },
+     "undecided": [
+      "english"
+     ],
+     "votes": {
+      "existence:vulgate+english": 2
+     }
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 38.218,
+      "hebrew": -0.051,
+      "english": 11.866
+     },
+     "votes": {
+      "existence:hebrew+english": 1,
+      "existence:vulgate": 9,
+      "existence:vulgate+english": 4
+     }
+    }
+   },
+   "Wilhelm von Hartel": {
+    "books": [
+     "paulinus-nola-epistulae-lat"
+    ],
+    "Ps": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 491.664,
+      "hebrew": 58.837,
+      "english": 23.504
+     },
+     "votes": {
+      "existence:hebrew+english": 9,
+      "existence:vulgate": 155,
+      "existence:vulgate+hebrew": 12
+     }
+    },
+    "Jer": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": -0.693,
+      "hebrew": -2.996,
+      "english": -0.693
+     },
+     "undecided": [
+      "hebrew",
+      "english"
+     ],
+     "votes": {}
+    },
+    "rest": {
+     "numbering": "vulgate",
+     "score": {
+      "vulgate": 11.718,
+      "hebrew": -0.051,
+      "english": 5.977
+     },
+     "votes": {
+      "existence:vulgate+english": 3,
+      "existence:vulgate+hebrew": 1
+     }
+    }
+   }
+  }
+ }
+}
