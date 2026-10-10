@@ -1939,10 +1939,12 @@
     },
     {
       "id": "julius-muller",
-      "status": "queued",
+      "status": "done",
       "scope": "Julius M\u00fcller in English: The Christian Doctrine of Sin (d. 1878)",
       "added": "2026-10-10T09:49:31-05:00",
-      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
+      "finished": "2026-10-10T10:28:51-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "rudolf-stier",

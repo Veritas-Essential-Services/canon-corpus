@@ -2629,3 +2629,13 @@ Slugs `dorner-*`. The System of Christian Doctrine is a mixed set (1883-88). The
 | History of Protestant Theology, Particularly in Germany, vol. 1, tr. George Robson (Edinburgh: T. & T. Clark, 1871) | have-ocr | IA `historyofprotest01dorn` |
 | History of Protestant Theology, Particularly in Germany, vol. 2, tr. Sophia Taylor (Edinburgh: T. & T. Clark, 1871) | have-ocr | IA `historyofprotest02dorn` |
 | System of Christian Ethics, ed. A. Dorner, tr. C. M. Mead and R. T. Cunningham (Edinburgh: T. & T. Clark, 1887) | have-ocr | IA `christianethics00dornuoft` |
+
+## Julius Müller (in English) (round 16, my pick, 2026-10-10)
+
+Slugs `jmuller-*`. Urwick's 1868 translation; Pulsford's earlier one is an alternate.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian Doctrine of Sin, vol. 1, tr. William Urwick from the fifth German edition (Edinburgh: T. & T. Clark, MDCCCLXVIII) | have-ocr | IA `christiandoctrin01mull` |
+| The Christian Doctrine of Sin, vol. 2, tr. William Urwick from the fifth German edition (Edinburgh: T. & T. Clark, MDCCCLXVIII) | have-ocr | IA `christiandoctrin02mull` |
+| the earlier translation by William Pulsford from the third German edition (Clark, 1852-53; IA christiandoctri05mlgoog, 02mlgoog) | alternate | not shelved |
