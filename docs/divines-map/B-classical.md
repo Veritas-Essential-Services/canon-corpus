@@ -3186,6 +3186,8 @@ Shelf: `pipeline/e-a-freeman_shelf.json`. History of Federal Government in Greec
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Studies of Travel: Greece |  | `e-a-freeman-studies-travel-greece` | have (PG 45132) |
+| History of Federal Government in Greece and Italy, second edition, ed. J. B. Bury (London: Macmillan) |  | `e-a-freeman-federal-government-1893` | have-raw (IA `historyoffederal00freeuoft`) |
 
 Pending (wishlist): History of Sicily (4 vols., 1891-1894).
 

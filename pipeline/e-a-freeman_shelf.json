@@ -1,0 +1,47 @@
+{
+ "_about": "Edward Augustus Freeman (1823-1892), Regius Professor of Modern History at Oxford: History of Federal Government in Greece and Italy, second edition edited by J. B. Bury (London: Macmillan), raw IA OCR, and Studies of Travel: Greece, clean Gutenberg. The federal-government title page year reads '1883' in the OCR; Bury's second edition is catalogued by IA as 1893, so the OCR likely misreads it (an inference). His English medieval histories are outside the classical brief. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "freeman"
+ ],
+ "_surname": [
+  "edward a. freeman",
+  "edward augustus freeman",
+  "e. a. freeman",
+  "freeman, edward a"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "e-a-freeman-studies-travel-greece": [
+   45132,
+   "Studies of Travel: Greece"
+  ]
+ },
+ "internet_archive": {
+  "e-a-freeman-federal-government-1893": [
+   "historyoffederal00freeuoft",
+   "History of Federal Government in Greece and Italy, second edition, ed. J. B. Bury (London: Macmillan)"
+  ]
+ },
+ "_checks": {
+  "e-a-freeman-studies-travel-greece": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward a. freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "e-a-freeman-federal-government-1893": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward a. freeman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
