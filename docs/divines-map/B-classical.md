@@ -2616,6 +2616,8 @@ Shelf: `pipeline/mahaffy_shelf.json`. John Pentland Mahaffy (1839-1919), Trinity
 | Problems in Greek History |  | `mahaffy-problems-greek-history` | have (PG 36354) |
 | What Have the Greeks Done for Modern Civilisation? |  | `mahaffy-what-have-greeks-done` | have (PG 59132) |
 | Old Greek Education |  | `mahaffy-old-greek-education` | have (PG 65058) |
+| Social Life in Greece from Homer to Menander (seventh edition 1890, reprinted; London and New York: Macmillan, 1894) |  | `mahaffy-social-life-greece-1894` | have-raw (IA `sociallifeingree00maha`) |
+| Greek Life and Thought from the Death of Alexander to the Roman Conquest (London and New York: Macmillan, 1896) |  | `mahaffy-greek-life-thought-1896` | have-raw (IA `greeklifethought00maha`) |
 
 Excluded: PG 65638 (The Principles of the Art of Conversation) (outside the classical brief)
 

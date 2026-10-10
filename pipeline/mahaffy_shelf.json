@@ -1,5 +1,5 @@
 {
- "_about": "John Pentland Mahaffy (1839-1919), Trinity College Dublin. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Rambles and Studies in Greece, Problems in Greek History, What Have the Greeks Done for Modern Civilisation?, Old Greek Education, clean Gutenberg. No uids minted.",
+ "_about": "John Pentland Mahaffy (1839-1919), Trinity College Dublin. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Rambles and Studies in Greece, Problems in Greek History, What Have the Greeks Done for Modern Civilisation?, Old Greek Education, clean Gutenberg; also Social Life in Greece (1894 reprint of the seventh edition) and Greek Life and Thought (1896) as raw IA OCR. No uids minted.",
  "_name_words": [
   "mahaffy"
  ],
@@ -27,7 +27,16 @@
    "Old Greek Education"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "mahaffy-social-life-greece-1894": [
+   "sociallifeingree00maha",
+   "Social Life in Greece from Homer to Menander (seventh edition 1890, reprinted; London and New York: Macmillan, 1894)"
+  ],
+  "mahaffy-greek-life-thought-1896": [
+   "greeklifethought00maha",
+   "Greek Life and Thought from the Death of Alexander to the Roman Conquest (London and New York: Macmillan, 1896)"
+  ]
+ },
  "_excluded": {
   "PG 65638 (The Principles of the Art of Conversation)": "outside the classical brief"
  },
@@ -67,6 +76,28 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "mahaffy-social-life-greece-1894": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mahaffy-greek-life-thought-1896": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  }
 }
