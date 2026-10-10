@@ -2769,6 +2769,8 @@ Shelf: `pipeline/t-g-tucker_shelf.json`. Thomas George Tucker (1859-1946), Profe
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Life in the Roman World of Nero and St. Paul |  | `tucker-life-roman-world-nero-paul` | have (PG 12875) |
+| Sappho |  | `tucker-sappho` | have (PG 60906) |
 
 ## Guglielmo Ferrero (scholarship)
 
