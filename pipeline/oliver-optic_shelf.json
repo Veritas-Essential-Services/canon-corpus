@@ -1,0 +1,86 @@
+{
+ "_about": "Oliver Optic's Boat Club series, its first three books: The Boat Club, All Aboard and Now or Never. Gutenberg catalogue: Oliver Optic 1822-1897. Gutenberg's second Now or Never (PG 19473) is not taken. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Oliver Optic",
+ "_name_words": [
+  "optic"
+ ],
+ "_surname": [
+  "oliver optic"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "optic-the-boat-club": [
+   24557,
+   "The Boat Club; or, The Bunkers of Rippleton",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "optic-all-aboard": [
+   15002,
+   "All Aboard; or, Life on the Lake",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "optic-now-or-never": [
+   14762,
+   "Now or Never; Or, The Adventures of Bobby Bright",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "optic-the-boat-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "oliver optic",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "optic-all-aboard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "oliver optic",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "optic-now-or-never": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "oliver optic",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

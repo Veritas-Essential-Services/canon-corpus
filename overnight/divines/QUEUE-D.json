@@ -1945,8 +1945,10 @@
     {
       "id": "oliver-optic",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: oliver-optic; no minting",
-      "status": "running",
-      "started": "2026-10-10T09:03:14-05:00"
+      "status": "done",
+      "started": "2026-10-10T09:03:14-05:00",
+      "finished": "2026-10-10T09:07:27-05:00",
+      "notes": "3/3 fetched (Gutenberg 24557, 15002, 14762), 5,463 units, 0 ~2 ids."
     },
     {
       "id": "james-cowan",
