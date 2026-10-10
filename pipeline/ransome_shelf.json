@@ -1,0 +1,71 @@
+{
+ "_about": "Arthur Ransome's (1884-1967) Swallows and Amazons series: the twelve novels (Jonathan Cape, London, 1930-1947). Only Swallows and Amazons (1930) is held: it is the one book of the series in the US public domain today (published 1930; a 95-year term ran out on 2026-01-01). The rest are listed under _pending with the date each one becomes free in the US. US STATUS ONLY: Ransome died in 1967, so in the UK, the EU and other life+70 countries the whole series is in copyright until 2038-01-01 (see _jurisdiction). Source: the Standard Ebooks production (CC0), the only clean text there is; Gutenberg does not hold it. SE keyed it from the 2018 Faded Page (Canada) transcription and checked it against the 1958 Cape 'new edition' scan on archive.org, so the text is the received text of later Cape printings, NOT a transcription of the 1930 first edition, and its spelling is modernized ('today' where the 1930s printings print 'to-day'). See _rights_checked for why it is kept and _collation for what was measured.",
+ "_author": "Arthur Ransome",
+ "_name_words": [
+  "ransome"
+ ],
+ "_surname": [
+  "arthur ransome"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {},
+ "standard_ebooks": {
+  "ransome-swallows-and-amazons": [
+   "arthur-ransome/swallows-and-amazons",
+   "Swallows and Amazons (Jonathan Cape, July 1930), Swallows and Amazons #1"
+  ]
+ },
+ "_jurisdiction": {
+  "rule": "the hosted chest is in the US and the US rule binds (as on the Chesterton and Barrie shelves). A work first published abroad in 1930-1977 has a US term of 95 years from publication (its copyright was restored by the URAA on 1996-01-01 whether or not it was ever renewed), so it is free on 1 January of the 96th year.",
+  "us": "Swallows and Amazons: public domain since 2026-01-01. Every later title: see _pending.",
+  "uk_eu_life_plus_70": "in copyright until 2038-01-01 (Ransome d. 1967-06-03). Armarium must not serve this text to readers in those countries if it ever serves by region.",
+  "canada": "public domain since 2018-01-01 (life+50 for authors who died before 1972; Canada's 2022 extension to life+70 is not retroactive). This is why Faded Page holds all twelve; a Canadian transcription is not US public domain for that reason.",
+  "illustrations": "not taken: the pipeline is text only. The 1930 first edition carried only Steven Spurrier's endpaper maps and frontispiece (SE keeps those). Clifford Webb's drawings (1931) and Ransome's own (1938) are later publications with their own US dates (2027 and 2034)."
+ },
+ "_rights_checked": {
+  "ransome-swallows-and-amazons": "Kept as a later-printing, spelling-modernized witness of the 1930 text (the same class as the reprint questions in DIGEST-B; Adam's ruling on that class covers this one too). Standard Ebooks' imprint says the source text is believed US public domain and dedicates SE's work to CC0. No textual collation of the 1930 first edition against later printings has been published and no scan of the first edition is open online, so 'no revision' is inferred, not proved: see _collation."
+ },
+ "_collation": {
+  "checked": "2026-10-10",
+  "method": "SE's chapters 1-31, lower-cased, to-day/to-morrow/to-night joined, compared word by word (difflib) with the raw OCR of two Cape printings on archive.org; counts only, no text kept",
+  "swallows-and-amazons_1946": "archive.org 'swallows-and-amazons' (Cape, 'new illustrated edition 1931', 23rd impression Feb 1946): 101,020 of SE's 102,161 words match (98.9%); the rest is unseparated OCR noise, running heads and plate captions. This printing still has 'to-day' (25), 'to-morrow' (40), 'to-night' (7); SE has none and prints today/tomorrow/tonight instead.",
+  "dli.ernet.425473_1953": "archive.org 'dli.ernet.425473' (Cape, 'this edition 1953'; the catalogue's 1930 is the first-publication year, not this printing): 98,872 of SE's words match (96.8%). This printing already reads 'today' (25) and 'tomorrow' (39): Cape's own resetting dropped the hyphens, so the modern spelling may be Cape's, not SE's."
+ },
+ "_pending": {
+  "ransome-swallowdale": "Swallowdale (Cape, 1931): US public domain on 2027-01-01; take then from Standard Ebooks (arthur-ransome/swallowdale), whose page for it already names that date",
+  "ransome-peter-duck": "Peter Duck (Cape, 1932): US public domain on 2028-01-01; take then from Standard Ebooks (arthur-ransome/peter-duck), whose page for it already names that date",
+  "ransome-winter-holiday": "Winter Holiday (Cape, 1933): US public domain on 2029-01-01; take then from Standard Ebooks (arthur-ransome/winter-holiday), whose page for it already names that date",
+  "ransome-coot-club": "Coot Club (Cape, 1934): US public domain on 2030-01-01; take then from Standard Ebooks (arthur-ransome/coot-club), whose page for it already names that date",
+  "ransome-pigeon-post": "Pigeon Post (Cape, 1936): US public domain on 2032-01-01; take then from Standard Ebooks (arthur-ransome/pigeon-post), whose page for it already names that date",
+  "ransome-we-didnt-mean-to-go-to-sea": "We Didn't Mean to Go to Sea (Cape, 1937): US public domain on 2033-01-01; take then from Standard Ebooks (arthur-ransome/we-didnt-mean-to-go-to-sea), whose page for it already names that date",
+  "ransome-secret-water": "Secret Water (Cape, 1939): US public domain on 2035-01-01; take then from Standard Ebooks (arthur-ransome/secret-water), whose page for it already names that date",
+  "ransome-the-big-six": "The Big Six (Cape, 1940): US public domain on 2036-01-01; take then from Standard Ebooks (arthur-ransome/the-big-six), whose page for it already names that date",
+  "ransome-missee-lee": "Missee Lee (Cape, 1941): US public domain on 2037-01-01; take then from Standard Ebooks (arthur-ransome/missee-lee), whose page for it already names that date",
+  "ransome-the-picts-and-the-martyrs": "The Picts and the Martyrs; or, Not Welcome at All (Cape, 1943): US public domain on 2039-01-01; take then from Standard Ebooks (arthur-ransome/the-picts-and-the-martyrs), whose page for it already names that date",
+  "ransome-great-northern": "Great Northern? (Cape, 1947): US public domain on 2043-01-01; take then from Standard Ebooks (arthur-ransome/great-northern), whose page for it already names that date"
+ },
+ "_excluded": {
+  "ransome-swallows-and-amazons-1946-ocr": "archive.org 'swallows-and-amazons' (1946 impression, marked Public Domain Mark by its uploader on 2026-01-01): the closest open scan to the 1930 text, but it is the 1931 new illustrated edition with Ransome's 1938 pictures and their captions, which are not US public domain until 2027 and 2034. Held as a collation witness only; reconsider on 2027-01-01 for its 1931 setting.",
+  "ransome-swallows-and-amazons-1953-dli": "archive.org 'dli.ernet.425473' (Cape 1953 edition, Digital Library of India scan): a later reset with Ransome's illustrations; the SE text is cleaner. Collation witness only.",
+  "ransome-swallows-and-amazons-fadedpage": "Faded Page 20180107: a Canadian (life+50) transcription from an edition with Ransome's illustrations; SE's production is built on it and corrected against a scan, so SE is taken instead.",
+  "ransome-swallows-and-amazons-1931-lippincott": "archive.org 'swallowsamazons0000rans' (Lippincott, Philadelphia, 1931): a lending-library scan, not open; the US edition is a later publication anyway.",
+  "ransome-coots-in-the-north": "Coots in the North and Other Stories (unfinished, ed. Hugh Brogan, 1988): first published 1988, so in US copyright until at least 2048-01-01.",
+  "ransome-other-books": "Ransome's books outside the series (Old Peter's Russian Tales 1916, Racundra's First Cruise 1923, the Russia books, Oscar Wilde 1912 and others, several on Gutenberg) are US public domain but were not asked for here; not shelved."
+ },
+ "_checks": {
+  "ransome-swallows-and-amazons": {
+   "kind": "se",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "se_rights": "ok: CC0 production, source believed US public domain",
+   "se_sources": [
+    "https://archive.org/details/swallowsamazonsb0000arth",
+    "https://www.fadedpage.com/showbook.php?pid=20180107"
+   ],
+   "rights_override": "Kept as a later-printing, spelling-modernized witness of the 1930 text (the same class as the reprint questions in DIGEST-B; Adam's ruling on that class covers this one too). Standard Ebooks' imprint says the source text is believed US public domain and dedicates SE's work to CC0. No textual collation of the 1930 first edition against later printings has been published and no scan of the first edition is open online, so 'no revision' is inferred, not proved: see _collation."
+  }
+ }
+}
