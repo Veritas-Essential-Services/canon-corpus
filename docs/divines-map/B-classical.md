@@ -3319,6 +3319,7 @@ Shelf: `pipeline/anthony-rich_shelf.json`. A Dictionary of Roman and Greek Antiq
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Dictionary of Roman and Greek Antiquities, fourth edition, revised (London: Longmans, Green, 1874) |  | `anthony-rich-dictionary-antiquities-1874` | have-raw (IA `cu31924031428737`) |
 
 ## Harry Thurston Peck (reference)
 
