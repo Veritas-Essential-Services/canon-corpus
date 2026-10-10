@@ -1499,6 +1499,7 @@ Shelf: `pipeline/quintus-smyrnaeus_shelf.json`. Way's Fall of Troy (Gutenberg).
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Fall of Troy | Arthur S. Way | `quintus-smyrnaeus-way` | have (PG 658) |
+| Select Translations from the Greek of Quintus Smyrnaeus (Oxford: W. Baxter, 1821) | Alexander Dyce | `quintus-smyrnaeus-dyce-1821` | have-raw (IA `selecttranslatio00quin`) |
 
 ## Greek lyric and the Anthology
 

@@ -42,7 +42,8 @@
   ]
  },
  "_excluded": {
-  "PG 830": "duplicate of PG 13977 (same Seaton text, shingle overlap 0.98)"
+  "PG 830": "duplicate of PG 13977 (same Seaton text, shingle overlap 0.98)",
+  "Preston, Argonautics, 1811 edition (4 vols.)": "not taken: of the scans found, bub_gb_01YZAAAAYAAJ and bub_gb_yH4ZAAAAYAAJ are both vol. III (notes only) and bub_gb_m1YZAAAAYAAJ (Book I text) has no readable title page. The 1803 edition's vols. I and III are held; its vol. II is still wanted."
  },
  "_surname": [
   "apollonius rhodius",
@@ -60,7 +61,7 @@
  "_checks": {
   "apollonius-seaton": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "apollonius rhodius",
    "translator_claimed": "R. C. Seaton",
@@ -72,7 +73,7 @@
   },
   "apollonius-way": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "rhodius",
    "translator_claimed": "Arthur S. Way",
@@ -84,7 +85,7 @@
   },
   "apollonius-coleridge": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "apollonius rhodius",
    "translator_claimed": "Edward P. Coleridge",
@@ -97,7 +98,7 @@
   },
   "apollonius-fawkes-1780": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "apollonius rhodius",
    "translator_claimed": "Francis Fawkes",
@@ -110,7 +111,7 @@
   },
   "apollonius-preston-1803-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "apollonius rhodius",
    "translator_claimed": "William Preston",
@@ -123,7 +124,7 @@
   },
   "apollonius-preston-1803-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "apollonius rhodius",
    "translator_claimed": "William Preston",
