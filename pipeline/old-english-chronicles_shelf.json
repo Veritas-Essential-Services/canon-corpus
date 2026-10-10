@@ -1,0 +1,35 @@
+{
+ "_about": "Old English Chronicles (Bohn, 1848), ed. J. A. Giles: Ethelwerd, Asser's Life of Alfred, Geoffrey of Monmouth's British History, Gildas, Nennius, Richard of Cirencester. Holds Geoffrey of Monmouth's History of the Kings of Britain for the Logos Online list. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "J. A. Giles (ed.)",
+ "_name_words": [
+  "giles",
+  "geoffrey",
+  "monmouth",
+  "asser",
+  "gildas",
+  "nennius"
+ ],
+ "_surname": [
+  "giles"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "giles-old-english-chronicles": [
+   37848,
+   "Old English Chronicles, ed. J. A. Giles (Bohn, 1848)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "giles-old-english-chronicles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "giles",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

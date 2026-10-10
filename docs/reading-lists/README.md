@@ -80,3 +80,27 @@ Three books needed a chapter rule because their Contents and body headings diffe
 | `dcfisher` | Understood Betsy (US PD; UK until 2029) |
 
 Held back: Conan Doyle's Case-Book (1927) pending a per-story date check.
+
+### Batch 3 (2026-10-10): medieval and church
+
+15 shelves, 18 texts, all checks passed. Fourteen Gutenberg texts are converted (about 31,800 units); the four Internet Archive scans stay raw OCR until someone structures them.
+
+| Shelf | Works |
+|---|---|
+| `bede` | Ecclesiastical History of England (Sellar, 1907) |
+| `kempis` | The Imitation of Christ (Benham) |
+| `erasmus` | The Praise of Folly (Wilson, 1668) |
+| `marco-polo` | The Travels of Marco Polo, vols 1–2 (Yule, rev. Cordier) |
+| `einhard` | Einhard's Life of Charlemagne (Grant, 1905) |
+| `old-english-chronicles` | Six Old English Chronicles (Giles), with Geoffrey of Monmouth's History of the Kings of Britain |
+| `chretien` | Four Arthurian Romances (Comfort) |
+| `petrarch` | The Sonnets, Triumphs, and Other Poems (Bohn) |
+| `spenser` | The Faerie Queene, Books I–VII in two volumes (J. C. Smith). PG 6930 is excluded: its header is COPYRIGHTED |
+| `hammurabi` | The Oldest Code of Laws in the World (Johns, 1903) |
+| `enuma-elish` | The Seven Tablets of Creation, vols 1–2 (L. W. King, 1902; IA) |
+| `anselm` | Proslogium, Monologium, Cur Deus Homo (Deane, 1903; IA) |
+| `hegel` | Philosophy of Right (Dyde, 1896; IA) |
+| `benedict-rule` | The Rule of St. Benedict, Latin and English (Fort Augustus, 1906; IA). PG 50040 (Doyle) is excluded: copyright 1948 |
+| `abelard` | Historia Calamitatum (Bellows). The Letters are Lane C's `moncrieff-abelard` |
+
+The Song of Roland is already held on Lane C's `scott-moncrieff` shelf.

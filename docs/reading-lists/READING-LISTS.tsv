@@ -26,8 +26,8 @@ Meditations	Marcus Aurelius	c. AD 170–180	BCS; Canon; CiRCE; Logos Online	held
 Seneca: essays and letters	Seneca	1st c. AD	BCS	held	seneca shelf	PD		
 Aesop's Fables	Aesop	6th c. BC	CiRCE; Logos; Logos Online	held	aesop-jacobs (PG 28) + aesop shelf	PD		
 Fables	Phaedrus	1st c. AD	Logos	held	phaedrus-riley-smart (PG 25512)	PD		
-Enuma Elish (the Seven Tablets of Creation)	anonymous (Babylonian)	c. 1200 BC	BCS	missing	source: L. W. King, The Seven Tablets of Creation (1902), Internet Archive	PD (King 1902)	Gilgamesh is held; Enuma Elish is not	
-The Code of Hammurabi	Hammurabi	c. 1754 BC	Logos Online	missing	source: L. W. King tr. (1910) / R. F. Harper (1904), Internet Archive or PG 17150	PD		
+Enuma Elish (the Seven Tablets of Creation)	anonymous (Babylonian)	c. 1200 BC	BCS	ingested	enuma-elish (IA, L. W. King 1902, raw OCR)	PD (King 1902)	Gilgamesh is held; Enuma Elish is not	3
+The Code of Hammurabi	Hammurabi	c. 1754 BC	Logos Online	ingested	hammurabi (PG 17150, Johns 1903)	PD		3
 Epic of Gilgamesh	anonymous	c. 1800 BC	BCS; Logos; Logos Online	held	gilgamesh (Jastrow & Clay 1920)	PD (Jastrow & Clay); modern versions are not		
 The Apocrypha	various	3rd–1st c. BC	BCS; CiRCE; Logos Online	held	kjv-apocrypha / kjva	PD (KJV)		
 The Bible (KJV, Psalms, Genesis, Jonah, Vulgate, LXX)	various	—	BCS; CC; CiRCE; Memoria; NSA	held	kjv; Vulgate, Douay, Brenton LXX on PR #9	PD (KJV, Clementine Vulgate, Brenton)		
@@ -40,12 +40,12 @@ On Christian Doctrine (De doctrina christiana)	Augustine	AD 397–426	BCS; CiRCE
 On the Deaths of the Persecutors	Lactantius	c. AD 315	NSA	partial	lactantius-…-lat (Latin only); English in ANF 7	PD (Fletcher, ANF 7)	check schaff-anf07 on PR #11	
 Address to Young Men on Greek Literature	Basil of Caesarea	4th c.	BCS	missing	source: F. M. Padelford, Essays on the Study and Use of Poetry by Plutarch and Basil (1902), IA	PD (Padelford 1902)	not in NPNF2 8	
 The Consolation of Philosophy	Boethius	c. 524	BCS; Canon; Logos Online; Memoria; NSA	held	boethius-james (PG 14328), boethius-rand-stewart	PD		
-The Rule of St. Benedict	Benedict of Nursia	c. 530	CiRCE; Logos Online	missing	source: Verheyen tr. 1906 or Gasquet 1909, Internet Archive (PG's Doyle tr. is 1948, not PD)	PD (Gasquet 1909)		
-Ecclesiastical History of the English People	Bede	731	Logos; Logos Online	missing	source: Sellar tr. 1907 (PG 38326)	PD		
-Two Lives of Charlemagne	Einhard; Notker	c. 830; 885	Logos Online	missing	source: Einhard, Turner tr. 1880; Notker in Grant 1922 (Internet Archive)	PD (Turner 1880; Grant 1922)		
+The Rule of St. Benedict	Benedict of Nursia	c. 530	CiRCE; Logos Online	ingested	benedict-rule (IA, Fort Augustus 1906, raw OCR)	PD (Gasquet 1909)		3
+Ecclesiastical History of the English People	Bede	731	Logos; Logos Online	ingested	bede (PG 38326, Sellar 1907)	PD		3
+Two Lives of Charlemagne	Einhard; Notker	c. 830; 885	Logos Online	ingested	einhard (PG 48870, Grant 1905)	PD (Turner 1880; Grant 1922)		3
 Chronicle of the Kings of England	William of Malmesbury	c. 1125	Logos Online	missing	source: Giles/Bohn 1847, Internet Archive	PD		
-History of the Kings of Britain	Geoffrey of Monmouth	c. 1136	Logos Online	missing	source: Giles, Six Old English Chronicles (1848) or Evans tr. 1904, Internet Archive	PD (Evans 1904)		
-The Song of Roland	anonymous	c. 1100	BCS; Logos Online	missing	source: Scott-Moncrieff tr. 1919 (PG 391)	PD		
+History of the Kings of Britain	Geoffrey of Monmouth	c. 1136	Logos Online	ingested	old-english-chronicles (PG 37848, Giles; includes Geoffrey)	PD (Evans 1904)		3
+The Song of Roland	anonymous	c. 1100	BCS; Logos Online	held	moncrieff-roland (scott-moncrieff shelf, Lane C)	PD		
 Beowulf	anonymous	c. 700–1000	BCS; CC; CiRCE; Logos; Logos Online; NSA	held	beowulf (Gummere) + beowulf shelf	PD (Gummere 1910); CC's modern tr. is not		
 Sir Gawain and the Green Knight	anonymous	c. 1390	CC; CiRCE; Logos Online; Memoria; NSA	held	weston-gawain-and-the-green-knight (PG 66084)	PD (Weston 1898); Tolkien is not		
 The Saga of the Volsungs	anonymous	13th c.	Logos Online	held	edda-volsunga-morris (PG 1152)	PD		
@@ -54,17 +54,17 @@ Old English prose: Alfred and Aelfric	Alfred; Aelfric	9th–10th c.	NSA	missing	
 Junius 11 (Caedmonian Old Testament poems)	anonymous	c. 1000	NSA	missing	source: Kennedy, The Caedmon Poems tr. (1916), IA	PD (Kennedy 1916)		
 Summa Theologica	Thomas Aquinas	1265–1274	BCS; CiRCE; Logos Online; NSA	held	aquinas-summa, -1-2, -2-2, -3	PD (English Dominicans 1911–25)		
 The Mind's Road to God	Bonaventure	1259	NSA	missing	source: no confirmed PD English yet (Boas 1953 is not PD)	needs a PD translation	search IA for a pre-1931 English edition	
-Anselm: Proslogion, Cur Deus Homo	Anselm of Canterbury	11th c.	BCS; NSA	missing	source: S. N. Deane tr. 1903 (Open Court), Internet Archive	PD (Deane 1903)		
+Anselm: Proslogion, Cur Deus Homo	Anselm of Canterbury	11th c.	BCS; NSA	ingested	anselm (IA, Deane 1903, raw OCR)	PD (Deane 1903)		3
 The Divine Comedy	Dante Alighieri	c. 1308–1320	BCS; Canon; CiRCE; Logos Online; Memoria; NSA	held	divine_comedy (Cary), longfellow-*, norton-*	PD		
-Canzoniere (Rime)	Petrarch	1327–1374	BCS	missing	source: Petrarch's Sonnets and Songs, tr. various (Bohn 1859), Internet Archive	PD (Bohn 1859; Auslander 1931 is not)		
+Canzoniere (Rime)	Petrarch	1327–1374	BCS	ingested	petrarch (PG 17650, Bohn translators)	PD (Bohn 1859; Auslander 1931 is not)		3
 The Decameron	Giovanni Boccaccio	c. 1353	Logos Online	held	payne-decameron, florio-decameron	PD		
 The Canterbury Tales	Geoffrey Chaucer	c. 1387–1400	BCS; CC; Canon; CiRCE; Logos; Logos Online; Memoria; NSA	held	chaucer-canterbury	PD		
 The House of Fame	Geoffrey Chaucer	c. 1380	NSA	partial	not a separate item; in Skeat's Complete Works	PD	verify: chaucer shelf has Canterbury and Troilus only	
 Chaucer (works)	Geoffrey Chaucer	14th c.	BCS	partial	chaucer-canterbury, chaucer-troilus	PD		
 Le Morte d'Arthur	Thomas Malory	1485	CiRCE; Logos Online	held	malory-morte-darthur-caxton-1/2	PD		
-Arthurian literature	various	12th–15th c.	NSA	partial	malory, bulfinch-age-of-chivalry, Chrétien (Comfort 1914) missing	PD	Chrétien's Arthurian Romances (Comfort 1914) is a gap	
-The Travels of Marco Polo	Marco Polo	c. 1300	Logos Online	missing	source: Yule tr. (PG 10636, 12410) or Marsden (Everyman)	PD		
-The Praise of Folly	Desiderius Erasmus	1511	BCS; Logos Online	missing	source: tr. John Wilson 1668 (PG 9371)	PD		
+Arthurian literature	various	12th–15th c.	NSA	ingested	chretien (PG 831, Comfort) + held Malory	PD	Chrétien's Arthurian Romances (Comfort 1914) is a gap	3
+The Travels of Marco Polo	Marco Polo	c. 1300	Logos Online	ingested	marco-polo (PG 10636, 12410, Yule-Cordier)	PD		3
+The Praise of Folly	Desiderius Erasmus	1511	BCS; Logos Online	ingested	erasmus (PG 9371, Wilson 1668)	PD		3
 The Bondage of the Will	Martin Luther	1525	Canon; Logos Online	lane	Lane A queue: martin-luther (round 15)	PD (Cole 1823)	claimed by Relay Lane A	
 Luther: Three Treatises and other writings	Martin Luther	1520	BCS; Canon; Logos Online	lane	Lane A queue: martin-luther	PD (Wace & Buchheim 1883)	claimed by Relay Lane A	
 Institutes of the Christian Religion	John Calvin	1559	BCS; Canon; Logos Online; NSA	held	calvin-allen-institutes-1..3, calvin-institutes-beveridge	PD		
@@ -75,7 +75,7 @@ De Vera Theologia	Franciscus Junius	1594	NSA	notpd	no PD English (Thomas 2014 is
 Heidelberg Catechism	Ursinus; Olevianus	1563	Logos Online	held	ursinus-commentary (Williard)	PD		
 The Three Forms of Unity	de Brès; Ursinus; Synod of Dort	1561–1619	Canon	partial	synod-of-dort shelf; Heidelberg via ursinus; Belgic in Schaff's Creeds?	PD (Schaff 1877)	Schaff's Creeds of Christendom vol. 3 is the clean source	
 A Reformed Catholic	William Perkins	1597	Canon	missing	source: EEBO-TCP or Works vol. 1 (1612)	PD	perkins shelf exists (relay lane A) — add as item?	
-The Faerie Queene	Edmund Spenser	1590–1596	BCS; Canon; Logos Online	missing	source: PG 15272 (Books I–VII, ed. Child) 	PD		
+The Faerie Queene	Edmund Spenser	1590–1596	BCS; Canon; Logos Online	ingested	spenser (PG 70717, 72698, J. C. Smith)	PD		3
 Doctor Faustus	Christopher Marlowe	c. 1592	BCS	ingested	marlowe-doctor-faustus (PG 779)	PD		Batch 1
 Shakespeare: plays and sonnets	William Shakespeare	1590–1613	BCS; CC; Canon; CiRCE; Logos; Logos Online; Memoria; NSA	held	shakespeare (PG 100, Complete Works)	PD	every play the lists name is in PG 100	
 Essays	Michel de Montaigne	1580–1588	NSA	held	cotton-montaigne-essays, florio-montaigne-1..5	PD		
@@ -223,7 +223,7 @@ The Romantic poets	various	19th c.	BCS	partial	coleridge, southey shelves held; 
 Pre-Socratics, Epicureans, Stoics, Neoplatonists	various	6th c. BC – 3rd c. AD	BCS	held	presocratics, epictetus, plotinus, diogenes-laertius shelves	PD		
 Tertullian; Clement of Alexandria	Tertullian; Clement	2nd–3rd c.	BCS	held	Schaff ANF 2–4 (PR #11)	PD		
 Augustine (works)	Augustine	4th–5th c.	BCS	held	Schaff NPNF1 1–8 (PR #11)	PD		
-Peter Abelard (works)	Peter Abelard	12th c.	BCS	missing	source: Historia Calamitatum, Bellows tr. 1922 (PG 14268)	PD		
+Peter Abelard (works)	Peter Abelard	12th c.	BCS	ingested	abelard (PG 14268, Bellows) + Lane C's Letters	PD		3
 William of Ockham	William of Ockham	14th c.	BCS	notpd	no PD English translation known	Latin only		
 Richard Hooker (works)	Richard Hooker	16th c.	BCS	held	hooker-works-1..3	PD		
 William James (works)	William James	1890–1907	BCS	missing	source: Varieties PG 621; Pragmatism PG 5116	PD		
@@ -253,8 +253,8 @@ The Blue Fairy Book	Andrew Lang (ed.)	1889	Memoria	held	lang-blue-fairy-book	PD
 Freckles	Gene Stratton-Porter	1904	CiRCE	held	stratton-porter-freckles	PD		
 Letters	Pliny the Younger	c. AD 100	Memoria	held	pliny-younger-melmoth-letters, pliny-younger-firth-letters	PD		
 De Ordine; De Quantitate Animae	Augustine	386–388	Memoria	partial	augustine-de-ordine-lat (Latin); no PD English of either found yet	Latin PD; English needs checking		
-The Imitation of Christ	Thomas à Kempis	c. 1418	CiRCE	missing	source: CCEL (Benham tr.) / Project Gutenberg	PD	not held anywhere	
-Philosophy of Right	G. W. F. Hegel	1820	CiRCE	missing	source: Dyde tr. 1896, Internet Archive	PD (Dyde 1896)		
+The Imitation of Christ	Thomas à Kempis	c. 1418	CiRCE	ingested	kempis (PG 1653, Benham)	PD	not held anywhere	3
+Philosophy of Right	G. W. F. Hegel	1820	CiRCE	ingested	hegel (IA, Dyde 1896, raw OCR)	PD (Dyde 1896)		3
 My Ántonia	Willa Cather	1918	CiRCE	ingested	cather-my-antonia (PG 242)	PD		Batch 2
 The White Company	Arthur Conan Doyle	1891	CiRCE	ingested	conan-doyle-white-company (PG 903)	PD		Batch 2
 Penrod	Booth Tarkington	1914	CiRCE	ingested	tarkington-penrod (PG 402)	PD		Batch 2
