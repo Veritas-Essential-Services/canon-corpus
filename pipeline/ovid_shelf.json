@@ -92,6 +92,11 @@
    "poemstranslation00tayluoft",
    "Poems and Translations, including the first four books of Ovid's Fasti, with the ancient Roman calendar (Liverpool: William Forshaw, 1839); the volume also holds Taylor's own poems",
    "tr. John Taylor"
+  ],
+  "ovid-thynne-fasti-1833-pt1": [
+   "translationofovi00ovid",
+   "A Translation of Ovid's Fasti into English Prose, with notes, Part I: books I-III (Dublin: John Cumming, 1833)",
+   "tr. William Thynne"
   ]
  },
  "_cross_ref": {
@@ -107,7 +112,8 @@
   "Marlowe, All Ovid's Elegies (Amores)": "PD; inside The Works of Christopher Marlowe, vol. 3 (PG 21262), a whole Marlowe volume. Pending: belongs to a Marlowe shelf if one is built, cross-referenced from here",
   "A. S. Kline and other modern translations": "copyrighted",
   "heroidesorepist00ovidiala (1885), fastitristiapont00oviduoft (1876)": "later reprints of the same Riley volumes; the first printings kept",
-  "William Massey, Ovid's Fasti, or the Romans' Sacred Calendar (1757)": "PD; the only scan found (IA bim_eighteenth-century_fasti-english-1757-_ovidius-naso-publius_1757, ECCO) reads 0.738 clean words, under the bar; refused for OCR quality 2026-10-10. Translator per the catalogue; the title-page OCR breaks the name"
+  "William Massey, Ovid's Fasti, or the Romans' Sacred Calendar (1757)": "PD; the only scan found (IA bim_eighteenth-century_fasti-english-1757-_ovidius-naso-publius_1757, ECCO) reads 0.738 clean words, under the bar; refused for OCR quality 2026-10-10. Translator per the catalogue; the title-page OCR breaks the name",
+  "William Thynne, Ovid's Fasti in English prose, Part II (books IV-VI)": "not found on IA (searched 2026-10-10); Part I held as ovid-thynne-fasti-1833-pt1"
  },
  "_convert_hints": {
   "_note": "Verse texts: tried with structure_texts.convert_gutenberg_verse(path, slug, title, author, abbr, divre) using this divre; unit counts from that trial (12-line blocks). Everything else converts as prose with contents_chapre. For the manifest entry when Adam adds these to the build; nothing here is wired in.",
@@ -137,7 +143,8 @@
   "ovid-sandys-1632": "George Sandys",
   "ovid-perseus-more-metamorphoses": "brookes more",
   "ovid-mozley-art-of-love-1929": "J. H. Mozley",
-  "ovid-taylor-fasti-1839": "john taylor"
+  "ovid-taylor-fasti-1839": "john taylor",
+  "ovid-thynne-fasti-1833-pt1": "william thynne"
  },
  "_checks": {
   "ovid-riley-metamorphoses-1": {
@@ -338,6 +345,19 @@
    "ia_rights": "ok: published 1839",
    "ia_date": "1839",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ovid-thynne-fasti-1833-pt1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ovid",
+   "translator_claimed": "william thynne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
   }
  },
