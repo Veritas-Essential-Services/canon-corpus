@@ -2775,6 +2775,20 @@ Slugs `huntington-*`. Coal-heaver preacher of Providence Chapel. A broken run of
 | Posthumous Letters of the Rev. W. Huntington, S.S., vol. 2 (London: T. Bensley; catalogued 1815) | have-ocr | IA `posthumouslette02huntgoog` |
 | God the Poor Man's Guardian, and the Bank of Faith (London, 1784, ECCO; and New York, 1843, IA godguardianofpoo00hunt): in Works vol. 1 | alternate | not shelved |
 | Thomas Wright, The Life of William Huntington (1909; IA lifeofwilliamhun00wrigrich) | alternate | not shelved |
+
+## John Brine (round 17, my pick, 2026-10-10)
+
+Slugs `brine-*`. Particular Baptist (1703-1765). Mostly ECCO first-edition scans whose long-s OCR is rough; every title page was read.
+
+| Work | Status | Where |
+|---|---|---|
+| A Treatise on Various Subjects (London: George Keith, MDCCLXVI) | have-ocr | IA `atreatiseonvari00bringoog` |
+| The Certain Efficacy of the Death of Christ, Asserted (London: Aaron Ward; title-page year garbled, catalogued 1743) | have-ocr | IA `certainefficacy00wattgoog` |
+| A Vindication of Some Truths of Natural and Revealed Religion (London: Aaron Ward, MDCCXLVI) | have-ocr | IA `bim_eighteenth-century_a-vindication-of-some-tr_brine-john_1746` |
+| The True Sense of Atonement for Sin, by Christ's Death (London: John Ward; catalogued 1752) | have-ocr | IA `bim_eighteenth-century_the-true-sense-of-attone_brine-john_1752` |
+| A Defence of the Doctrine of Eternal Justification (London: A. Ward; catalogued 1732) | have-ocr | IA `bim_eighteenth-century_a-defence-of-the-doctrin_brine-john_1732` |
+| Motives to Love and Unity among Calvinists (London: John Ward; catalogued 1753) | have-ocr | IA `bim_eighteenth-century_motives-to-love-and-unit_brine-john_1753` |
+| A Discourse on the Prayer of Jabez (London: Aaron Ward, M.DCC.XXXVI) | have-ocr | IA `bim_eighteenth-century_a-discourse-on-the-praye_brine-john_1736` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

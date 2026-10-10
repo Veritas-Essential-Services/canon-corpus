@@ -802,3 +802,6 @@
 
 ## 2026-10-10 11:00 CDT — william-huntington done
 - `pipeline/william-huntington_shelf.json`: 0 CCEL, 0 PG, 15 IA. Title pages read for huntington-works-18 (OCR garbles the name), recorded in `_identity_checked`. Works volumes are an incomplete set. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:00 CDT — john-brine done
+- `pipeline/john-brine_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for brine-certain-efficacy, brine-vindication-1746, brine-true-sense-atonement, brine-eternal-justification, brine-motives-love-unity, brine-jabez-1736 (OCR garbles the name), recorded in `_identity_checked`. ECCO OCR is rough (long s). `--verify --record`: 0 mismatched. 0 uids minted.
