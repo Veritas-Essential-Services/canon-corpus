@@ -826,3 +826,6 @@
 
 ## 2026-10-10 11:54 CDT — a-j-gordon done
 - `pipeline/a-j-gordon_shelf.json`: 0 CCEL, 1 PG, 8 IA. Title pages read for gordon-gods-tenth (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:54 CDT — c-i-scofield done
+- `pipeline/c-i-scofield_shelf.json`: 0 CCEL, 0 PG, 12 IA. Course of Study vols. 1-3 carry only a 1907 copyright, no printing year. `--verify --record`: 0 mismatched. 0 uids minted.

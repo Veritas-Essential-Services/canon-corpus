@@ -2936,3 +2936,28 @@ Slugs `gordon-*`. Baptist of Clarendon Street, Boston. Eight books and one tract
 | IA dasamtdesgeistes00gord: German translation | excluded | |
 | Ernest B. Gordon's biography of his father: by another hand, not shelved | excluded | |
 | S. D. Gordon (CCEL ccel/gordon) and other Gordons: different people | excluded | |
+
+## C. I. Scofield (round 18, my pick, 2026-10-10)
+
+Slugs `scofield-*`. His own books, not the Reference Bible. Three items are compilations of his writings by other hands (Reid, Pohle, Gaebelein), so marked in their titles.
+
+| Work | Status | Where |
+|---|---|---|
+| Plain Papers on the Doctrine of the Holy Spirit (New York, Chicago, Toronto: Fleming H. Revell; no year on title page, copyright 1899) | have-ocr | IA `plainpapersondoc00scof` |
+| The Scofield Bible Correspondence School, Course of Study, vol. 1: The Old Testament (ninth edition, Bible Institute of Los Angeles; no year on title page, copyright 1907) | have-ocr | IA `scofieldbiblecor00scof` |
+| The Scofield Bible Correspondence School, Course of Study, vol. 2: The New Testament (ninth edition, Bible Institute of Los Angeles; no year on title page, copyright 1907) | have-ocr | IA `scofieldbiblecor00scof_0` |
+| The Scofield Bible Correspondence School, Course of Study, vol. 3: Synthesis of Bible Truth (ninth edition; no year on title page, copyright 1907) | have-ocr | IA `scofieldbiblecor00scof_1` |
+| No Room in the Inn, and Other Interpretations, compiled from his writings by Mary Emily Reid (New York: Oxford University Press American Branch, copyright 1913) | have-ocr | IA `noroomininnother00scof` |
+| Addresses on Prophecy (Los Angeles: Bible House of Los Angeles; no year on title page, catalogued 1914) | have-ocr | IA `addressesonproph0000cisc` |
+| The New Life in Christ Jesus (Chicago: Bible Institute Colportage Association, copyright 1915) | have-ocr | IA `newlifeinchristj00scof` |
+| What Do the Prophets Say? (Philadelphia: The Sunday School Times Company, copyright 1916 and 1918) | have-ocr | IA `whatdoprophetssa00scof` |
+| Dr. C. I. Scofield's Question Box, compiled by Ella E. Pohle (Chicago: Bible Institute Colportage Association; no year read, library stamp 1918) | have-ocr | IA `drciscofieldsque00scof` |
+| Things New and Old: Old and New Testament Studies, compiled and edited by A. C. Gaebelein (New York: Our Hope, copyright 1920) | have-ocr | IA `thingsnewoldoldn00scof` |
+| In Many Pulpits with Dr. C. I. Scofield (New York: Oxford University Press American Branch, 1922) | have-ocr | IA `inmanypulpits00scof` |
+| Rightly Dividing the Word of Truth: Ten Outline Studies (Philadelphia, second edition, tenth thousand, January 1923) | have-ocr | IA `rightlydividingw0000scof` |
+| other ninth-edition copies of the Course (IA bwb_S0-CAP-650, bwb_S0-CAP-649_3, scofieldbiblecor0000cisc, scofieldbiblecor0002cisc) | alternate | not shelved |
+| In Many Pulpits, other copies (IA inmanypulpitswit00scof, inmanypulpitswi00scofgoog) | alternate | not shelved |
+| The Scofield Reference Bible (1909/1917) and its notes: out of scope for this shelf | excluded | |
+| IA plainpapersondoc0000unse (Baker 1966), bwb_Y0-AID-318, isbn_9781330577295, a retyped What Do the Prophets Say?: modern reprints | excluded | |
+| Spanish translations | excluded | |
+| Cora L., Carl S., Glenni W., Charles Josiah and Anna Bishop Scofield | excluded | |
