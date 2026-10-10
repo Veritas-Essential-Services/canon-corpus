@@ -3268,6 +3268,7 @@ Shelf: `pipeline/tozer_shelf.json`. A History of Ancient Geography (Cambridge, 1
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A History of Ancient Geography (Cambridge: University Press, 1897) |  | `tozer-history-ancient-geography-1897` | have-raw (IA `ahistoryancient00tozegoog`) |
 
 ## T. H. Dyer (scholarship)
 
