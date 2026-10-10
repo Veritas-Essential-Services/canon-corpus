@@ -3267,3 +3267,28 @@ Slugs `pierson-*`. Presbyterian missions leader. Works he only edited or introdu
 | Zondervan reprints and 1931-1990s printings | excluded | |
 | Books where he wrote only an introduction or essay (Paton, Brainerd, Liggins, Angus) and Maclean's book about him | excluded | |
 | Zachariah Chandler memorials (1879-80) | excluded | |
+
+## Asa Mahan (round 19, my pick, 2026-10-10)
+
+Slugs `mahan-*`. First president of Oberlin. Ten books of divinity and apologetics; his philosophy textbooks are alternates.
+
+| Work | Status | Where |
+|---|---|---|
+| Doctrine of the Will (New York: Mark H. Newman; Oberlin: R. E. Gillet, 1845) | have-clean | Gutenberg 38621 |
+| Scripture Doctrine of Christian Perfection (Boston: D. S. King, 1839) | have-ocr | IA `scripturedoctrin00maharich` |
+| The True Believer: His Character, Duty, and Privileges (New York: Harper & Brothers, 1847) | have-ocr | IA `truebelieverhis00mahagoog` |
+| Lectures on the Ninth of Romans; Election, and the Influence of the Holy Spirit (London: Ward & Co., 1850) | have-ocr | IA `lecturesonninth00mahagoog` |
+| Modern Mysteries Explained and Exposed (fourth thousand, Boston: John P. Jewett, 1855) | have-ocr | IA `modernmysteries00mahagoog` |
+| The Science of Natural Theology; or, God the Unconditioned Cause (Boston: Henry Hoyt, 1867) | have-ocr | IA `scienceofnatural00maha` |
+| The Baptism of the Holy Ghost (New York: W. C. Palmer, Jr., 1870) | have-ocr | IA `baptismofholygho00maha` |
+| Out of Darkness into Light; or, The Hidden Life Made Manifest (London: Wesleyan Conference Office, 1875) | have-ocr | IA `outdarknessinto00mahagoog` |
+| The Phenomena of Spiritualism Scientifically Explained and Exposed (London: Hodder and Stoughton, MDCCCLXXV) | have-ocr | IA `phenomenaofspiri00maha` |
+| Autobiography: Intellectual, Moral, and Spiritual (London: T. Woolmer, 1882) | have-ocr | IA `autobiographyint00maha` |
+| Philosophy textbooks: A System of Intellectual Philosophy (1847; IA systemofintellec00maha), Science of Moral Philosophy (1848; sciencemoralphi00mahagoog), The Science of Logic (1863; scienceoflogicor00asam), The System of Mental Philosophy (1882; systemofmentalph00maha), A Critical History of Philosophy, 2 vols. (1883; criticalhistoryo01mahaiala, 02mahaiala) | alternate | not shelved |
+| Doctrine of the Will, scan (IA doctrineofwill00maha) | alternate | not shelved |
+| Christian Perfection, 4th ed. 1840 and 7th ed. 1844 (IA scripturedoctri00mahagoog, scripturedoctrin00maha) | alternate | not shelved |
+| The Baptism of the Holy Ghost, London: Elliot Stock 1876 with Finney's Enduement of Power added (IA baptismholyghos00finngoog): mixed authorship | alternate | not shelved |
+| Epub-only uploads with no scan (Misunderstood Texts, Teachings of the Spirit and others) | excluded | |
+| 1972-2015 reprints | excluded | |
+| Mrs. Asa Mahan's Bulgarian Faith Mission, and A. T., Milo and D. H. Mahan | excluded | |
+| Critical History of the Late American War (1877): not divinity | excluded | |
