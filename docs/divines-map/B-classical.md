@@ -2898,6 +2898,7 @@ Shelf: `pipeline/matthew-arnold-homer_shelf.json`. Matthew Arnold (1822-1888): O
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| On Translating Homer |  | `arnold-on-translating-homer` | have (PG 65381) |
 
 ## Evelyn S. Shuckburgh (scholarship)
 

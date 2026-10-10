@@ -1,0 +1,29 @@
+{
+ "_about": "Matthew Arnold (1822-1888): On Translating Homer, with F. W. Newman's reply. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): On Translating Homer, clean Gutenberg. The shelf is for this book only. No uids minted.",
+ "_name_words": [
+  "arnold"
+ ],
+ "_surname": [
+  "matthew arnold",
+  "arnold, matthew"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "arnold-on-translating-homer": [
+   65381,
+   "On Translating Homer"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "arnold-on-translating-homer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "matthew arnold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
