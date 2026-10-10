@@ -1894,10 +1894,12 @@
     },
     {
       "id": "e-w-hengstenberg",
-      "status": "queued",
+      "status": "done",
       "scope": "E. W. Hengstenberg in English (d. 1869; translators checked)",
       "added": "2026-10-10T08:56:38-05:00",
-      "added_by": "lane A worker, round 15, on the coordinator's relay of Adam's 2026-10-10 request to keep going until he stops it. Baptist and Methodist theologians, Scots, and Luther and four German divines in pre-1930 English translations. Checked against every remote branch's shelves and docs before queueing; none on any branch, none from the Reformers/Knox list, no commentators PR #11 plans."
+      "added_by": "lane A worker, round 15, on the coordinator's relay of Adam's 2026-10-10 request to keep going until he stops it. Baptist and Methodist theologians, Scots, and Luther and four German divines in pre-1930 English translations. Checked against every remote branch's shelves and docs before queueing; none on any branch, none from the Reformers/Knox list, no commentators PR #11 plans.",
+      "finished": "2026-10-10T09:48:14-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "august-neander",

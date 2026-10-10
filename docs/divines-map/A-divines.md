@@ -2454,3 +2454,24 @@ Slugs `fwkrummacher-*`. Not F. A. Krummacher (the Parables) or G. D. Krummacher;
 | The Dew of Israel and the Lily of God (New York: Robert Carter, 1840, from the second London edition; translator not named) | have-ocr | IA `dewofisraellily00krum` |
 | Friedrich Wilhelm Krummacher: An Autobiography, ed. his daughter, tr. M. G. Easton (Edinburgh: T. & T. Clark, MDCCCLXIX) | have-ocr | IA `friedrichwilhelm00krum` |
 | Elisha (no imprint or year; catalogued 1840; IA elisha0000fwkr_p7n0): a weak witness | alternate | not shelved |
+
+## E. W. Hengstenberg (in English) (round 15, my pick, 2026-10-10)
+
+Slugs `hengstenberg-*`. The Fairbairn shelf leaves these translations out as other men's books; this is their home.
+
+| Work | Status | Where |
+|---|---|---|
+| Christology of the Old Testament, vol. 1, tr. Theodore Meyer, second edition (Edinburgh: T. & T. Clark, MDCCCLXVIII) | have-ocr | IA `christologyofold01heng` |
+| Christology of the Old Testament, vol. 2, tr. Theodore Meyer (Edinburgh: T. & T. Clark, 1861) | have-ocr | IA `christologyofold02heng` |
+| Christology of the Old Testament, vol. 3, tr. James Martin (Edinburgh: T. & T. Clark, MDCCCLXIV) | have-ocr | IA `christologyofold03heng` |
+| Christology of the Old Testament, vol. 4, tr. James Martin (Edinburgh: T. & T. Clark, MDCCCLXV) | have-ocr | IA `christologyofold04heng` |
+| Commentary on the Psalms, vol. 1, fourth edition (Edinburgh: T. & T. Clark, 1863; translator not named on this title page) | have-ocr | IA `commentaryonpsal186301heng` |
+| Commentary on the Psalms, vol. 2, tr. John Thomson and Patrick Fairbairn (Edinburgh: T. & T. Clark, 1864) | have-ocr | IA `commentaryonpsal186402heng` |
+| Commentary on the Psalms, vol. 3, tr. John Thomson and Patrick Fairbairn (Edinburgh: T. & T. Clark, 1864) | have-ocr | IA `commentaryonpsal186403heng` |
+| The Revelation of St John Expounded, vol. 1, tr. Patrick Fairbairn (Edinburgh: T. & T. Clark, 1851) | have-ocr | IA `revelationstjoh01fairgoog` |
+| The Revelation of St John Expounded, vol. 2, tr. Patrick Fairbairn (Edinburgh: T. & T. Clark, 1852) | have-ocr | IA `revelationstjoh00fairgoog` |
+| Commentary on Ecclesiastes, with Other Treatises, tr. D. W. Simon (Philadelphia: Smith, English, 1860) | have-ocr | IA `commentaryoneccl00heng` |
+| Egypt and the Books of Moses, tr. R. D. C. Robbins (Andover: Allen, Morrill & Wardwell, 1843); the translator's name OCRs as "J^BBINS", so it is not machine-checked | have-ocr | IA `egyptbooksofmose00heng` |
+| Commentary on the Gospel of St John, vol. 1 (Edinburgh: T. & T. Clark, 1865; translator not named) | have-ocr | IA `commentaryongosp01heng` |
+| Commentary on the Gospel of St John, vol. 2 (Edinburgh: T. & T. Clark, 1865; translator not named) | have-ocr | IA `commentaryongosp02heng` |
+| Gutenberg 30410 and 30608: Christology vols. 1-2 only; the IA set is complete | alternate | not shelved |

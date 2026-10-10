@@ -736,3 +736,6 @@
 
 ## 2026-10-10 09:48 CDT — f-w-krummacher done
 - `pipeline/f-w-krummacher_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for fwkrummacher-elijah-1869, fwkrummacher-suffering-saviour-1856 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — e-w-hengstenberg done
+- `pipeline/e-w-hengstenberg_shelf.json`: 0 CCEL, 0 PG, 13 IA. Title pages read for hengstenberg-christology-4, hengstenberg-psalms-1, hengstenberg-psalms-2, hengstenberg-psalms-3 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
