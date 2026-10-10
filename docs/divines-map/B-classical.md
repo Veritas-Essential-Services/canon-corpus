@@ -2575,6 +2575,7 @@ Shelf: `pipeline/mackail_shelf.json`. John William Mackail (1859-1945): 1 clean 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Latin Literature |  | `mackail-latin-literature` | have (PG 8894) |
 
 ## A. H. J. Greenidge (scholarship)
 

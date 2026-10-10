@@ -1,0 +1,30 @@
+{
+ "_about": "John William Mackail (1859-1945). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Latin Literature, clean Gutenberg. His translations (Virgil, Catullus, the Greek Anthology, the Odyssey) are on those shelves. No uids minted.",
+ "_name_words": [
+  "mackail"
+ ],
+ "_surname": [
+  "j. w. mackail",
+  "john william mackail",
+  "mackail, j. w"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mackail-latin-literature": [
+   8894,
+   "Latin Literature"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "mackail-latin-literature": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. w. mackail",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
