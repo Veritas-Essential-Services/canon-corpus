@@ -1,0 +1,29 @@
+{
+ "_about": "Rodolfo Lanciani (1847-1929), Roman archaeologist, writing in English. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Pagan and Christian Rome, clean Gutenberg. No uids minted.",
+ "_name_words": [
+  "lanciani"
+ ],
+ "_surname": [
+  "rodolfo lanciani",
+  "lanciani, rodolfo"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lanciani-pagan-christian-rome": [
+   22153,
+   "Pagan and Christian Rome"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "lanciani-pagan-christian-rome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rodolfo lanciani",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

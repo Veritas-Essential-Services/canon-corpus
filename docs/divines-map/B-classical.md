@@ -2681,6 +2681,7 @@ Shelf: `pipeline/lanciani_shelf.json`. Rodolfo Lanciani (1847-1929), Roman archa
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Pagan and Christian Rome |  | `lanciani-pagan-christian-rome` | have (PG 22153) |
 
 ## G. W. Botsford (scholarship)
 
