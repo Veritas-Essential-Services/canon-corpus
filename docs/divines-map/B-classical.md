@@ -2727,6 +2727,7 @@ Shelf: `pipeline/k-j-freeman_shelf.json`. Kenneth John Freeman (1882-1906); ed. 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Schools of Hellas: an essay on the practice and theory of ancient Greek education from 600 to 300 B.C. |  | `freeman-schools-of-hellas` | have (PG 63644) |
 
 ## Percy Gardner (scholarship)
 
