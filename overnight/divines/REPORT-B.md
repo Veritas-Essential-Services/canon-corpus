@@ -733,3 +733,8 @@
 - Ihne's History of Rome, English edition, 5 vols. (Longmans, 1871-1882); the English edition is the author's own
 - Pelham's Outlines of Roman History (1893) and Leaf's Homer and History (1915) added to their shelves
 - Not added: Mommsen's Provinces of the Roman Empire (already held from Gutenberg on the mommsen shelf)
+
+## 2026-10-10 12:01 CDT — Round 2026-10-10z: 11 volumes on 6 new shelves
+- Geography: Bunbury's History of Ancient Geography (2 vols., 1879); Tozer's History of Ancient Geography (1897)
+- Topography: Dyer's Ancient Athens (1873) and City of Rome (2nd ed., 1883); Middleton's Remains of Ancient Rome (2 vols., 1892); Christopher Wordsworth's Athens and Attica (2nd ed., 1837)
+- Manuals: Ramsay's Manual of Roman Antiquities (2nd ed., 1851); Gardner and Jevons's Manual of Greek Antiquities (2nd ed., 1898) on the percy-gardner shelf
