@@ -3828,3 +3828,22 @@ Slugs `govett-*`. Norwich independent; most of his tracts were printed without h
 | Calvinism by Calvin: Calvin's text with his introductory essay, modern reprint | excluded | |
 | Schoettle and Conley reprints (1981-2010) | excluded | |
 | Ernest Govett and others | excluded | |
+
+## Andrew Jukes (round 20, my pick, 2026-10-10)
+
+Slugs `jukes-*`. Typological expositor. The Second Death's 1867 first edition prints no name, so the named 1869 second edition is shelved.
+
+| Work | Status | Where |
+|---|---|---|
+| The Law of the Offerings in Leviticus I.-VII. (London: James Nisbet, 1847) | have-ocr | IA `lawofferingsinl01jukegoog` |
+| The Characteristic Differences of the Four Gospels (London: James Nisbet, 1853) | have-ocr | IA `characteristicd00jukegoog` |
+| The Types of Genesis briefly considered as revealing the development of human nature (London: Longman, Brown, Green, Longmans, and Roberts, 1858) | have-ocr | IA `typesgenesisbri00jukegoog` |
+| The Second Death and the Restitution of All Things, second edition (London: Longmans, Green, 1869) | have-ocr | IA `seconddeathresti00juke_0` |
+| The New Man and the Eternal Life: Notes on the Reiterated Amens of the Son of God (London: Longmans, Green, 1881) | have-ocr | IA `newmanandeterna00jukegoog` |
+| The Mystery of the Kingdom traced through the Four Books of Kings, Part I, third edition (London: Longmans, Green, 1884) | have-ocr | IA `the-mystery-of-the-kingdom` |
+| The Names of God in Holy Scripture, first edition (London: Longmans, Green, 1888) | have-ocr | IA `bwb_T3-CBT-064` |
+| Pharisaism and Self-Sacrifice: Thoughts on Schism and its Remedy (London: Morgan and Chase, 38 Ludgate Hill; no year on title page, IA's 1923 date cannot be right for this imprint) | have-ocr | IA `bim_early-english-books-1641-1700_andrew-jukes_1923_ia40330117-15` |
+| The Second Death, first edition (Longmans, 1867; seconddeathandr03jukegoog): no name on the title page; later editions 1869-1881 also on IA | alternate | not shelved |
+| Later editions of Law of the Offerings, Four Gospels, Types of Genesis (to 1910), Names of God (1889) and American issues of The New Man | alternate | not shelved |
+| Kregel, Portavoz and Concordant reprints (1966-2013); undated Pickering and Inglis Law of the Offerings, probably after 1930 | excluded | |
+| J. Beete Jukes and others | excluded | |

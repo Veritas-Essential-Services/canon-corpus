@@ -928,3 +928,6 @@
 
 ## 2026-10-10 14:05 CDT — robert-govett done
 - `pipeline/robert-govett_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for govett-not-water-baptism, govett-brides-bath (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:05 CDT — andrew-jukes done
+- `pipeline/andrew-jukes_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for jukes-law-of-offerings, jukes-new-man (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
