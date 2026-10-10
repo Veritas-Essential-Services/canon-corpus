@@ -1,5 +1,5 @@
 {
- "_about": "Greek lyric and epigram in English, translator per title. Mackail's Select Epigrams from the Greek Anthology (1890; PG text). H. T. Wharton's Sappho (first ed. 1885; Gutenberg text is the 1908 John Lane edition), which gathers renderings by many hands plus his own literal prose and the Greek. Thomas Moore's Odes of Anacreon (an 1860s reprint). Edward Poste's prose Bacchylides (1898), raw IA OCR.",
+ "_about": "Greek lyric and epigram in English, translator per title. Mackail's Select Epigrams from the Greek Anthology (1890; PG text). H. T. Wharton's Sappho (first ed. 1885; Gutenberg text is the 1908 John Lane edition), which gathers renderings by many hands plus his own literal prose and the Greek. Thomas Moore's Odes of Anacreon (an 1860s reprint). Edward Poste's prose Bacchylides (1898), raw IA OCR. MacGregor's Greek Anthology (greek-anthology-macgregor) prints no year (archive.org's 1800 is a placeholder); its preface refers to his own 1857 Epitaphs and to events of 1854-55, and its dedication addresses W. E. Gladstone as a living M.P. (d. 1898), so it is a nineteenth-century printing.",
  "_name_words": [
   "anthology",
   "epigrams",
@@ -50,6 +50,11 @@
    "anacreoninengli00anacgoog",
    "Anacreon in English, attempted in the metres of the original (undated title page; the publisher's advertisements bound in quote notices of July 1868, the latest year in the book; IA gives 1869)",
    "tr. Thomas James Arnold"
+  ],
+  "greek-anthology-macgregor": [
+   "greekanthologywi00macguoft",
+   "Greek Anthology, with notes critical and explanatory (London: Nissen and Parker; undated, after 1857 by its preface)",
+   "tr. Robert Guthrie MacGregor"
   ]
  },
  "_excluded": {
@@ -57,7 +62,9 @@
   "Edmonds, Lyra Graeca (Loeb, 1922-27)": "Greek facing; vol. 2 (1931 scan) not yet PD; pending",
   "Mair, Callimachus/Lycophron/Aratus (Loeb, 1921) and Oppian/Colluthus/Tryphiodorus (Loeb, 1928)": "Greek facing; pending",
   "Musaeus": "held on the late-greek-poets shelf (Arnold's Hero and Leander, musaeus-arnold-hero-leander)",
-  "Carman, O'Hara, Stacpoole Sappho versions (PG 12389, 42166, 42543)": "free modern recreations, not translations; not taken"
+  "Carman, O'Hara, Stacpoole Sappho versions (PG 12389, 42166, 42543)": "free modern recreations, not translations; not taken",
+  "bub_gb_3QevpbXOklcC": "Fawkes's Anacreon, Sappho and Musaeus, 1810 reprint (Suttaby); the 1760 edition is held as anacreon-fawkes-1760.",
+  "odesofanacreonof00anac": "The Odes of Anacreon of Teos, literally translated into English prose (1806): OCR 0.70, under the 0.78 bar."
  },
  "_surname": [
   "sappho",
@@ -76,12 +83,13 @@
   "greek-anthology-burges-1854": "George Burges",
   "anacreon-fawkes-1760": "Fawkes",
   "anacreon-girdlestone-1804": "Girdlestone",
-  "anacreon-arnold-1869": "thomas james arnold"
+  "anacreon-arnold-1869": "thomas james arnold",
+  "greek-anthology-macgregor": "robert guthrie macgregor"
  },
  "_checks": {
   "greek-anthology-mackail": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "greek anthology",
    "translator_claimed": "J. W. Mackail",
@@ -93,7 +101,7 @@
   },
   "sappho-wharton": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "henry thornton wharton",
@@ -104,7 +112,7 @@
   },
   "anacreon-moore": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "anacreon",
    "translator_claimed": "Thomas Moore",
@@ -115,7 +123,7 @@
   },
   "bacchylides-poste": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "bacchylides",
    "translator_claimed": "poste",
@@ -128,7 +136,7 @@
   },
   "greek-anthology-burges-1854": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "George Burges",
@@ -141,7 +149,7 @@
   },
   "anacreon-fawkes-1760": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "anacreon",
    "translator_claimed": "Fawkes",
@@ -155,7 +163,7 @@
   },
   "anacreon-girdlestone-1804": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "anacreon",
    "translator_claimed": "Girdlestone",
@@ -168,7 +176,7 @@
   },
   "anacreon-arnold-1869": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "anacreon",
    "translator_claimed": "thomas james arnold",
@@ -178,6 +186,20 @@
    "ia_date": "1869",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "greek-anthology-macgregor": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "robert guthrie macgregor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "[18--?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-10: 'Translated by Major Robert Guthrie MacGregor. London: Nissen & Parker, 43, Mark Lane', no year. The preface refers to his 1857 Epitaphs from the Greek Anthology and to 1854-55; the dedication addresses W. E. Gladstone, M.P. and P.C., as living (he died 1898). A nineteenth-century printing, so public domain."
   }
  },
  "_surname_by_slug": {
@@ -202,5 +224,8 @@
   "anacreon-arnold-1869": [
    "anacreon"
   ]
+ },
+ "_rights_checked": {
+  "greek-anthology-macgregor": "Title page read 2026-10-10: 'Translated by Major Robert Guthrie MacGregor. London: Nissen & Parker, 43, Mark Lane', no year. The preface refers to his 1857 Epitaphs from the Greek Anthology and to 1854-55; the dedication addresses W. E. Gladstone, M.P. and P.C., as living (he died 1898). A nineteenth-century printing, so public domain."
  }
 }

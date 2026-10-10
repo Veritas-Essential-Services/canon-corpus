@@ -1504,6 +1504,7 @@ Shelf: `pipeline/greek-lyric_shelf.json`. Mackail, Wharton's Sappho, Moore's Ana
 | The Works of Anacreon, Sappho, Bion, Moschus and Musaeus, translated from the original Greek (London: J. Newbery; the imprint date is lost in the OCR, IA gives 1760) | Francis Fawkes | `anacreon-fawkes-1760` | have-raw (IA `worksofanacreons00fawkuoft`) |
 | The Odes of Anacreon translated from the Greek into English verse (London: B. Crosby, 1804) | Thomas Girdlestone | `anacreon-girdlestone-1804` | have-raw (IA `odesanacreontra00girdgoog`) |
 | Anacreon in English, attempted in the metres of the original (undated title page; the publisher's advertisements bound in quote notices of July 1868, the latest year in the book; IA gives 1869) | Thomas James Arnold | `anacreon-arnold-1869` | have-raw (IA `anacreoninengli00anacgoog`) |
+| Greek Anthology, with notes critical and explanatory (London: Nissen and Parker; undated, after 1857 by its preface) | Robert Guthrie MacGregor | `greek-anthology-macgregor` | have-raw (IA `greekanthologywi00macguoft`) |
 
 Pending (wishlist): Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus/Aratus/Oppian (all Loebs, Greek facing). Callimachus, Aratus, Tryphiodorus and Musaeus in older translations are on the late-greek-poets shelf.
 
