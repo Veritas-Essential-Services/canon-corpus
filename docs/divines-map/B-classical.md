@@ -1269,6 +1269,7 @@ Shelf: `pipeline/lucian_shelf.json`. The Fowlers' Works (1905), 4 vols., complet
 | The Works of Lucian, from the Greek (London: T. Cadell, 1780), vol. 2 | Thomas Francklin | `lucian-francklin-1780-v2` | have-raw (IA `worksoflucian02luci`) |
 | Lucian of Samosata, from the Greek, with the comments and illustrations of Wieland and others, vol. I (London, 1820) | William Tooke | `lucian-tooke-1820-v1` | have-raw (IA `lucianofsamosata01luciuoft`) |
 | Lucian of Samosata, from the Greek, with the comments and illustrations of Wieland and others, vol. II (London, 1820) | William Tooke | `lucian-tooke-1820-v2` | have-raw (IA `lucianofsamosata02luciuoft`) |
+| Homeric Ballads and Comedies of Lucian (Miscellaneous Writings of the late Dr. Maginn, vol. IV; New York: Redfield, 1856) | William Maginn | `lucian-maginn-1856` | have-raw (IA `homericballadsan00homeuoft`) |
 
 Pending (wishlist): none for Francklin: his Works of Lucian (1780, 2 vols.) is held above. Harmon's Loeb vols. 5 on (1936-) are after the 1930 line.
 
