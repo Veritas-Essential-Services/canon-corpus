@@ -1,0 +1,236 @@
+{
+ "_about": "TRANSLATOR SHELF: Rasmus B. Anderson (1846-1936): Bjørnson's Arne, A Happy Boy and Magnhild/Dust (1881-82), Viktor Rydberg's Teutonic Mythology (1889, 3 vols), Brandes's Eminent Authors of the Nineteenth Century (1886) and Lumholtz's Among Cannibals (1889). US public domain. Added 2026-10-10 by lane C (round 35); Adam may veto. No uids minted.",
+ "_name_words": [
+  "rasmus b. anderson",
+  "rasmus björn anderson",
+  "r. b. anderson"
+ ],
+ "_surname": [
+  "rasmus b. anderson",
+  "rasmus björn anderson",
+  "r. b. anderson"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ran-12633": [
+   12633,
+   "A Happy Boy"
+  ],
+  "ran-33683": [
+   33683,
+   "Magnhild; Dust"
+  ],
+  "ran-37876": [
+   37876,
+   "Teutonic Mythology: Gods and Goddesses of the Northland, Vol. 1"
+  ],
+  "ran-39744": [
+   39744,
+   "Arne; Early Tales and Sketches Patriots Edition"
+  ],
+  "ran-49999": [
+   49999,
+   "Eminent Authors of the Nineteenth Century: Literary Portraits"
+  ],
+  "ran-58829": [
+   58829,
+   "Teutonic Mythology: Gods and Goddesses of the Northland, Vol. 2"
+  ],
+  "ran-58830": [
+   58830,
+   "Teutonic Mythology: Gods and Goddesses of the Northland, Vol. 3"
+  ],
+  "ran-66299": [
+   66299,
+   "Among Cannibals: An Account of Four Years' Travels in Australia and of Camp Life With the Aborigines of Queensland"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "rasmus-anderson-bjornson-a-happy-boy": {
+   "source": "ran-12633",
+   "of": "Bjørnstjerne Bjørnson",
+   "work": "A Happy Boy",
+   "translated": "1881-1889 (see the Gutenberg header)",
+   "translator": "Rasmus B. Anderson",
+   "scan_edition": "Project Gutenberg 12633 (clean text)"
+  },
+  "rasmus-anderson-bjornson-arne": {
+   "source": "ran-39744",
+   "of": "Bjørnstjerne Bjørnson",
+   "work": "Arne; Early Tales and Sketches Patriots Edition",
+   "translated": "1881-1889 (see the Gutenberg header)",
+   "translator": "Rasmus B. Anderson",
+   "scan_edition": "Project Gutenberg 39744 (clean text)"
+  },
+  "rasmus-anderson-bjornson-magnhild-dust": {
+   "source": "ran-33683",
+   "of": "Bjørnstjerne Bjørnson",
+   "work": "Magnhild; Dust",
+   "translated": "1881-1889 (see the Gutenberg header)",
+   "translator": "Rasmus B. Anderson",
+   "scan_edition": "Project Gutenberg 33683 (clean text)"
+  },
+  "rasmus-anderson-brandes-eminent-authors-of-the-nineteenth-century": {
+   "source": "ran-49999",
+   "of": "Georg Brandes",
+   "work": "Eminent Authors of the Nineteenth Century: Literary Portraits",
+   "translated": "1881-1889 (see the Gutenberg header)",
+   "translator": "Rasmus B. Anderson",
+   "scan_edition": "Project Gutenberg 49999 (clean text)"
+  },
+  "rasmus-anderson-lumholtz-among-cannibals": {
+   "source": "ran-66299",
+   "of": "Carl Lumholtz",
+   "work": "Among Cannibals: An Account of Four Years' Travels in Australia and of Camp Life With the Aborigines of Queensland",
+   "translated": "1881-1889 (see the Gutenberg header)",
+   "translator": "Rasmus B. Anderson",
+   "scan_edition": "Project Gutenberg 66299 (clean text)"
+  },
+  "rasmus-anderson-rydberg-teutonic-mythology-vol-1": {
+   "source": "ran-37876",
+   "of": "Viktor Rydberg",
+   "work": "Teutonic Mythology: Gods and Goddesses of the Northland, Vol. 1",
+   "translated": "1881-1889 (see the Gutenberg header)",
+   "translator": "Rasmus B. Anderson",
+   "scan_edition": "Project Gutenberg 37876 (clean text)"
+  },
+  "rasmus-anderson-rydberg-teutonic-mythology-vol-2": {
+   "source": "ran-58829",
+   "of": "Viktor Rydberg",
+   "work": "Teutonic Mythology: Gods and Goddesses of the Northland, Vol. 2",
+   "translated": "1881-1889 (see the Gutenberg header)",
+   "translator": "Rasmus B. Anderson",
+   "scan_edition": "Project Gutenberg 58829 (clean text)"
+  },
+  "rasmus-anderson-rydberg-teutonic-mythology-vol-3": {
+   "source": "ran-58830",
+   "of": "Viktor Rydberg",
+   "work": "Teutonic Mythology: Gods and Goddesses of the Northland, Vol. 3",
+   "translated": "1881-1889 (see the Gutenberg header)",
+   "translator": "Rasmus B. Anderson",
+   "scan_edition": "Project Gutenberg 58830 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ran-12633": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rasmus b. anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Rasmus Björn Anderson"
+  },
+  "ran-33683": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rasmus b. anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Rasmus Björn Anderson"
+  },
+  "ran-37876": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rasmus b. anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Rasmus Björn Anderson"
+  },
+  "ran-39744": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rasmus b. anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Rasmus Björn Anderson"
+  },
+  "ran-49999": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rasmus b. anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Rasmus Björn Anderson"
+  },
+  "ran-58829": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rasmus b. anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Rasmus Björn Anderson"
+  },
+  "ran-58830": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rasmus b. anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Rasmus Björn Anderson"
+  },
+  "ran-66299": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rasmus b. anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Rasmus Björn Anderson"
+  }
+ },
+ "_verified": {
+  "ran-12633": {
+   "pg": 12633,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Rasmus Björn Anderson"
+  },
+  "ran-33683": {
+   "pg": 33683,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Rasmus Björn Anderson"
+  },
+  "ran-37876": {
+   "pg": 37876,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Rasmus Björn Anderson"
+  },
+  "ran-39744": {
+   "pg": 39744,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Rasmus Björn Anderson"
+  },
+  "ran-49999": {
+   "pg": 49999,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Rasmus Björn Anderson"
+  },
+  "ran-58829": {
+   "pg": 58829,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Rasmus Björn Anderson"
+  },
+  "ran-58830": {
+   "pg": 58830,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Rasmus Björn Anderson"
+  },
+  "ran-66299": {
+   "pg": 66299,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Rasmus Björn Anderson"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

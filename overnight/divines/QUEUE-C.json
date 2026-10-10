@@ -2240,6 +2240,46 @@
       "finished": "2026-10-10T12:41-05:00",
       "scope": "TRANSLATOR SHELF (round 34, lane C's choice; Adam may veto) -- smollett-translations; PD printings before 1931 only; no minting",
       "notes": "5 titles; ids checked across all branches. See DIGEST-C round 34. No uids minted."
+    },
+    {
+      "id": "shelf-rasmus-anderson",
+      "status": "done",
+      "started": "2026-10-10T12:59-05:00",
+      "finished": "2026-10-10T12:59-05:00",
+      "scope": "TRANSLATOR SHELF (round 35, lane C's choice; Adam may veto) -- rasmus-anderson; PD printings before 1931 only; no minting",
+      "notes": "8 titles; ids checked across all branches. See DIGEST-C round 35. No uids minted."
+    },
+    {
+      "id": "shelf-archer-other",
+      "status": "done",
+      "started": "2026-10-10T12:59-05:00",
+      "finished": "2026-10-10T12:59-05:00",
+      "scope": "TRANSLATOR SHELF (round 35, lane C's choice; Adam may veto) -- archer-other; PD printings before 1931 only; no minting",
+      "notes": "2 titles; ids checked across all branches. See DIGEST-C round 35. No uids minted."
+    },
+    {
+      "id": "shelf-borrow-translations",
+      "status": "done",
+      "started": "2026-10-10T12:59-05:00",
+      "finished": "2026-10-10T12:59-05:00",
+      "scope": "TRANSLATOR SHELF (round 35, lane C's choice; Adam may veto) -- borrow-translations; PD printings before 1931 only; no minting",
+      "notes": "31 titles; ids checked across all branches. See DIGEST-C round 35. No uids minted."
+    },
+    {
+      "id": "shelf-adele-seltzer",
+      "status": "done",
+      "started": "2026-10-10T12:59-05:00",
+      "finished": "2026-10-10T12:59-05:00",
+      "scope": "TRANSLATOR SHELF (round 35, lane C's choice; Adam may veto) -- adele-seltzer; PD printings before 1931 only; no minting",
+      "notes": "5 titles; ids checked across all branches. See DIGEST-C round 35. No uids minted."
+    },
+    {
+      "id": "gap-fill-round-35",
+      "status": "done",
+      "started": "2026-10-10T12:59-05:00",
+      "finished": "2026-10-10T12:59-05:00",
+      "scope": "GAP AUDIT (round 35): titles by already-shelved lane C translators missing from their shelves; add or record as excluded",
+      "notes": "+24 titles: curtin 8, hapgood 6, wormeley 4, clara-bell 3, levy-nietzsche 2, payne 1; burton Kama Sutra excluded by judgment; Adele Szold Seltzer's titles moved to adele-seltzer. No uids minted."
     }
   ]
 }

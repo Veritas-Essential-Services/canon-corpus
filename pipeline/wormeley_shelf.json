@@ -176,137 +176,33 @@
   "wo-66513": [
    66513,
    "The Bagpipers"
+  ],
+  "wo-1678": [
+   1678,
+   "An Historical Mystery (The Gondreville Mystery)"
+  ],
+  "wo-1704": [
+   1704,
+   "Pierrette"
+  ],
+  "wo-1921": [
+   1921,
+   "The Chouans"
+  ],
+  "wo-1942": [
+   1942,
+   "Rise and Fall of César Birotteau"
   ]
  },
  "internet_archive": {},
  "titles": {
-  "wormeley-balzac-ursula": {
-   "source": "wo-1223",
+  "wormeley-balzac-a-daughter-of-eve": {
+   "source": "wo-1481",
    "of": "Honoré de Balzac",
-   "work": "Ursula",
+   "work": "A Daughter of Eve",
    "translated": "1885-1900 (Roberts Brothers)",
    "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1223 (clean text)"
-  },
-  "wormeley-balzac-pierre-grassou": {
-   "source": "wo-1230",
-   "of": "Honoré de Balzac",
-   "work": "Pierre Grassou",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1230 (clean text)"
-  },
-  "wormeley-balzac-unconscious-comedians": {
-   "source": "wo-1242",
-   "of": "Honoré de Balzac",
-   "work": "Unconscious Comedians",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1242 (clean text)"
-  },
-  "wormeley-balzac-bureaucracy": {
-   "source": "wo-1343",
-   "of": "Honoré de Balzac",
-   "work": "Bureaucracy",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1343 (clean text)"
-  },
-  "wormeley-balzac-the-secrets-of-the-princesse-de-cadignan": {
-   "source": "wo-1344",
-   "of": "Honoré de Balzac",
-   "work": "The Secrets of the Princesse de Cadignan",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1344 (clean text)"
-  },
-  "wormeley-balzac-the-vicar-of-tours": {
-   "source": "wo-1345",
-   "of": "Honoré de Balzac",
-   "work": "The Vicar of Tours",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1345 (clean text)"
-  },
-  "wormeley-balzac-an-old-maid": {
-   "source": "wo-1352",
-   "of": "Honoré de Balzac",
-   "work": "An Old Maid",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1352 (clean text)"
-  },
-  "wormeley-balzac-madame-firmiani": {
-   "source": "wo-1357",
-   "of": "Honoré de Balzac",
-   "work": "Madame Firmiani",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1357 (clean text)"
-  },
-  "wormeley-balzac-paz-la-fausse-maitresse": {
-   "source": "wo-1369",
-   "of": "Honoré de Balzac",
-   "work": "Paz (La Fausse Maitresse)",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1369 (clean text)"
-  },
-  "wormeley-balzac-study-of-a-woman": {
-   "source": "wo-1373",
-   "of": "Honoré de Balzac",
-   "work": "Study of a Woman",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1373 (clean text)"
-  },
-  "wormeley-balzac-vendetta": {
-   "source": "wo-1374",
-   "of": "Honoré de Balzac",
-   "work": "Vendetta",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1374 (clean text)"
-  },
-  "wormeley-balzac-the-two-brothers": {
-   "source": "wo-1380",
-   "of": "Honoré de Balzac",
-   "work": "The Two Brothers",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1380 (clean text)"
-  },
-  "wormeley-balzac-a-start-in-life": {
-   "source": "wo-1403",
-   "of": "Honoré de Balzac",
-   "work": "A Start in Life",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1403 (clean text)"
-  },
-  "wormeley-balzac-sons-of-the-soil": {
-   "source": "wo-1417",
-   "of": "Honoré de Balzac",
-   "work": "Sons of the Soil",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1417 (clean text)"
-  },
-  "wormeley-balzac-el-verdugo": {
-   "source": "wo-1425",
-   "of": "Honoré de Balzac",
-   "work": "El Verdugo",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1425 (clean text)"
-  },
-  "wormeley-balzac-the-recruit": {
-   "source": "wo-1426",
-   "of": "Honoré de Balzac",
-   "work": "The Recruit",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1426 (clean text)"
+   "scan_edition": "Project Gutenberg 1481 (clean text)"
   },
   "wormeley-balzac-a-drama-on-the-seashore": {
    "source": "wo-1427",
@@ -316,85 +212,13 @@
    "translator": "Katharine Prescott Wormeley",
    "scan_edition": "Project Gutenberg 1427 (clean text)"
   },
-  "wormeley-balzac-seraphita": {
-   "source": "wo-1432",
+  "wormeley-balzac-a-start-in-life": {
+   "source": "wo-1403",
    "of": "Honoré de Balzac",
-   "work": "Seraphita",
+   "work": "A Start in Life",
    "translated": "1885-1900 (Roberts Brothers)",
    "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1432 (clean text)"
-  },
-  "wormeley-balzac-the-red-inn": {
-   "source": "wo-1433",
-   "of": "Honoré de Balzac",
-   "work": "The Red Inn",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1433 (clean text)"
-  },
-  "wormeley-balzac-juana": {
-   "source": "wo-1437",
-   "of": "Honoré de Balzac",
-   "work": "Juana",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1437 (clean text)"
-  },
-  "wormeley-balzac-the-alkahest": {
-   "source": "wo-1453",
-   "of": "Honoré de Balzac",
-   "work": "The Alkahest",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1453 (clean text)"
-  },
-  "wormeley-balzac-maitre-cornelius": {
-   "source": "wo-1454",
-   "of": "Honoré de Balzac",
-   "work": "Maitre Cornelius",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1454 (clean text)"
-  },
-  "wormeley-balzac-the-hated-son": {
-   "source": "wo-1455",
-   "of": "Honoré de Balzac",
-   "work": "The Hated Son",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1455 (clean text)"
-  },
-  "wormeley-balzac-the-illustrious-gaudissart": {
-   "source": "wo-1474",
-   "of": "Honoré de Balzac",
-   "work": "The Illustrious Gaudissart",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1474 (clean text)"
-  },
-  "wormeley-balzac-a-daughter-of-eve": {
-   "source": "wo-1481",
-   "of": "Honoré de Balzac",
-   "work": "A Daughter of Eve",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1481 (clean text)"
-  },
-  "wormeley-balzac-modeste-mignon": {
-   "source": "wo-1482",
-   "of": "Honoré de Balzac",
-   "work": "Modeste Mignon",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1482 (clean text)"
-  },
-  "wormeley-balzac-the-hidden-masterpiece": {
-   "source": "wo-1553",
-   "of": "Honoré de Balzac",
-   "work": "The Hidden Masterpiece",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1553 (clean text)"
+   "scan_edition": "Project Gutenberg 1403 (clean text)"
   },
   "wormeley-balzac-adieu": {
    "source": "wo-1554",
@@ -404,69 +228,22 @@
    "translator": "Katharine Prescott Wormeley",
    "scan_edition": "Project Gutenberg 1554 (clean text)"
   },
-  "wormeley-balzac-the-marriage-contract": {
-   "source": "wo-1556",
+  "wormeley-balzac-an-historical-mystery": {
+   "source": "wo-1678",
    "of": "Honoré de Balzac",
-   "work": "The Marriage Contract",
+   "work": "An Historical Mystery (The Gondreville Mystery)",
    "translated": "1885-1900 (Roberts Brothers)",
    "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1556 (clean text)"
+   "scan_edition": "Project Gutenberg 1678 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
   },
-  "wormeley-balzac-the-lily-of-the-valley": {
-   "source": "wo-1569",
+  "wormeley-balzac-an-old-maid": {
+   "source": "wo-1352",
    "of": "Honoré de Balzac",
-   "work": "The Lily of the Valley",
+   "work": "An Old Maid",
    "translated": "1885-1900 (Roberts Brothers)",
    "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1569 (clean text)"
-  },
-  "wormeley-balzac-the-lesser-bourgeoisie": {
-   "source": "wo-1641",
-   "of": "Honoré de Balzac",
-   "work": "The Lesser Bourgeoisie",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1641 (clean text)"
-  },
-  "wormeley-balzac-ferragus-chief-of-the-d-vorants": {
-   "source": "wo-1649",
-   "of": "Honoré de Balzac",
-   "work": "Ferragus, Chief of the Dévorants",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1649 (clean text)"
-  },
-  "wormeley-balzac-eugenie-grandet": {
-   "source": "wo-1715",
-   "of": "Honoré de Balzac",
-   "work": "Eugenie Grandet",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1715 (clean text)"
-  },
-  "wormeley-balzac-catherine-de-medici": {
-   "source": "wo-1854",
-   "of": "Honoré de Balzac",
-   "work": "Catherine De Medici",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1854 (clean text)"
-  },
-  "wormeley-balzac-the-deputy-of-arcis": {
-   "source": "wo-1871",
-   "of": "Honoré de Balzac",
-   "work": "The Deputy of Arcis",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1871 (clean text)"
-  },
-  "wormeley-balzac-the-village-rector": {
-   "source": "wo-1899",
-   "of": "Honoré de Balzac",
-   "work": "The Village Rector",
-   "translated": "1885-1900 (Roberts Brothers)",
-   "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1899 (clean text)"
+   "scan_edition": "Project Gutenberg 1352 (clean text)"
   },
   "wormeley-balzac-beatrix": {
    "source": "wo-1957",
@@ -476,21 +253,62 @@
    "translator": "Katharine Prescott Wormeley",
    "scan_edition": "Project Gutenberg 1957 (clean text)"
   },
-  "wormeley-balzac-the-brotherhood-of-consolation": {
-   "source": "wo-1967",
+  "wormeley-balzac-bureaucracy": {
+   "source": "wo-1343",
    "of": "Honoré de Balzac",
-   "work": "The Brotherhood of Consolation",
+   "work": "Bureaucracy",
    "translated": "1885-1900 (Roberts Brothers)",
    "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 1967 (clean text)"
+   "scan_edition": "Project Gutenberg 1343 (clean text)"
   },
-  "wormeley-daudet-tartarin-on-the-alps": {
-   "source": "wo-25768",
-   "of": "Alphonse Daudet",
-   "work": "Tartarin on the Alps",
+  "wormeley-balzac-catherine-de-medici": {
+   "source": "wo-1854",
+   "of": "Honoré de Balzac",
+   "work": "Catherine De Medici",
    "translated": "1885-1900 (Roberts Brothers)",
    "translator": "Katharine Prescott Wormeley",
-   "scan_edition": "Project Gutenberg 25768 (clean text)"
+   "scan_edition": "Project Gutenberg 1854 (clean text)"
+  },
+  "wormeley-balzac-cesar-birotteau": {
+   "source": "wo-1942",
+   "of": "Honoré de Balzac",
+   "work": "Rise and Fall of César Birotteau",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1942 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "wormeley-balzac-el-verdugo": {
+   "source": "wo-1425",
+   "of": "Honoré de Balzac",
+   "work": "El Verdugo",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1425 (clean text)"
+  },
+  "wormeley-balzac-eugenie-grandet": {
+   "source": "wo-1715",
+   "of": "Honoré de Balzac",
+   "work": "Eugenie Grandet",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1715 (clean text)"
+  },
+  "wormeley-balzac-ferragus-chief-of-the-d-vorants": {
+   "source": "wo-1649",
+   "of": "Honoré de Balzac",
+   "work": "Ferragus, Chief of the Dévorants",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1649 (clean text)"
+  },
+  "wormeley-balzac-juana": {
+   "source": "wo-1437",
+   "of": "Honoré de Balzac",
+   "work": "Juana",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1437 (clean text)"
   },
   "wormeley-balzac-letters-to-madame-hanska-born-countess-rzewuska": {
    "source": "wo-54466",
@@ -499,6 +317,240 @@
    "translated": "1885-1900 (Roberts Brothers)",
    "translator": "Katharine Prescott Wormeley",
    "scan_edition": "Project Gutenberg 54466 (clean text)"
+  },
+  "wormeley-balzac-madame-firmiani": {
+   "source": "wo-1357",
+   "of": "Honoré de Balzac",
+   "work": "Madame Firmiani",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1357 (clean text)"
+  },
+  "wormeley-balzac-maitre-cornelius": {
+   "source": "wo-1454",
+   "of": "Honoré de Balzac",
+   "work": "Maitre Cornelius",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1454 (clean text)"
+  },
+  "wormeley-balzac-modeste-mignon": {
+   "source": "wo-1482",
+   "of": "Honoré de Balzac",
+   "work": "Modeste Mignon",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1482 (clean text)"
+  },
+  "wormeley-balzac-paz-la-fausse-maitresse": {
+   "source": "wo-1369",
+   "of": "Honoré de Balzac",
+   "work": "Paz (La Fausse Maitresse)",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1369 (clean text)"
+  },
+  "wormeley-balzac-pierre-grassou": {
+   "source": "wo-1230",
+   "of": "Honoré de Balzac",
+   "work": "Pierre Grassou",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1230 (clean text)"
+  },
+  "wormeley-balzac-pierrette": {
+   "source": "wo-1704",
+   "of": "Honoré de Balzac",
+   "work": "Pierrette",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1704 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "wormeley-balzac-seraphita": {
+   "source": "wo-1432",
+   "of": "Honoré de Balzac",
+   "work": "Seraphita",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1432 (clean text)"
+  },
+  "wormeley-balzac-sons-of-the-soil": {
+   "source": "wo-1417",
+   "of": "Honoré de Balzac",
+   "work": "Sons of the Soil",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1417 (clean text)"
+  },
+  "wormeley-balzac-study-of-a-woman": {
+   "source": "wo-1373",
+   "of": "Honoré de Balzac",
+   "work": "Study of a Woman",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1373 (clean text)"
+  },
+  "wormeley-balzac-the-alkahest": {
+   "source": "wo-1453",
+   "of": "Honoré de Balzac",
+   "work": "The Alkahest",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1453 (clean text)"
+  },
+  "wormeley-balzac-the-brotherhood-of-consolation": {
+   "source": "wo-1967",
+   "of": "Honoré de Balzac",
+   "work": "The Brotherhood of Consolation",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1967 (clean text)"
+  },
+  "wormeley-balzac-the-chouans": {
+   "source": "wo-1921",
+   "of": "Honoré de Balzac",
+   "work": "The Chouans",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1921 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "wormeley-balzac-the-deputy-of-arcis": {
+   "source": "wo-1871",
+   "of": "Honoré de Balzac",
+   "work": "The Deputy of Arcis",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1871 (clean text)"
+  },
+  "wormeley-balzac-the-hated-son": {
+   "source": "wo-1455",
+   "of": "Honoré de Balzac",
+   "work": "The Hated Son",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1455 (clean text)"
+  },
+  "wormeley-balzac-the-hidden-masterpiece": {
+   "source": "wo-1553",
+   "of": "Honoré de Balzac",
+   "work": "The Hidden Masterpiece",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1553 (clean text)"
+  },
+  "wormeley-balzac-the-illustrious-gaudissart": {
+   "source": "wo-1474",
+   "of": "Honoré de Balzac",
+   "work": "The Illustrious Gaudissart",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1474 (clean text)"
+  },
+  "wormeley-balzac-the-lesser-bourgeoisie": {
+   "source": "wo-1641",
+   "of": "Honoré de Balzac",
+   "work": "The Lesser Bourgeoisie",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1641 (clean text)"
+  },
+  "wormeley-balzac-the-lily-of-the-valley": {
+   "source": "wo-1569",
+   "of": "Honoré de Balzac",
+   "work": "The Lily of the Valley",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1569 (clean text)"
+  },
+  "wormeley-balzac-the-marriage-contract": {
+   "source": "wo-1556",
+   "of": "Honoré de Balzac",
+   "work": "The Marriage Contract",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1556 (clean text)"
+  },
+  "wormeley-balzac-the-recruit": {
+   "source": "wo-1426",
+   "of": "Honoré de Balzac",
+   "work": "The Recruit",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1426 (clean text)"
+  },
+  "wormeley-balzac-the-red-inn": {
+   "source": "wo-1433",
+   "of": "Honoré de Balzac",
+   "work": "The Red Inn",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1433 (clean text)"
+  },
+  "wormeley-balzac-the-secrets-of-the-princesse-de-cadignan": {
+   "source": "wo-1344",
+   "of": "Honoré de Balzac",
+   "work": "The Secrets of the Princesse de Cadignan",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1344 (clean text)"
+  },
+  "wormeley-balzac-the-two-brothers": {
+   "source": "wo-1380",
+   "of": "Honoré de Balzac",
+   "work": "The Two Brothers",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1380 (clean text)"
+  },
+  "wormeley-balzac-the-vicar-of-tours": {
+   "source": "wo-1345",
+   "of": "Honoré de Balzac",
+   "work": "The Vicar of Tours",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1345 (clean text)"
+  },
+  "wormeley-balzac-the-village-rector": {
+   "source": "wo-1899",
+   "of": "Honoré de Balzac",
+   "work": "The Village Rector",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1899 (clean text)"
+  },
+  "wormeley-balzac-unconscious-comedians": {
+   "source": "wo-1242",
+   "of": "Honoré de Balzac",
+   "work": "Unconscious Comedians",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1242 (clean text)"
+  },
+  "wormeley-balzac-ursula": {
+   "source": "wo-1223",
+   "of": "Honoré de Balzac",
+   "work": "Ursula",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1223 (clean text)"
+  },
+  "wormeley-balzac-vendetta": {
+   "source": "wo-1374",
+   "of": "Honoré de Balzac",
+   "work": "Vendetta",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1374 (clean text)"
+  },
+  "wormeley-daudet-tartarin-on-the-alps": {
+   "source": "wo-25768",
+   "of": "Alphonse Daudet",
+   "work": "Tartarin on the Alps",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 25768 (clean text)"
   },
   "wormeley-sand-the-bagpipers": {
    "source": "wo-66513",
@@ -891,6 +943,42 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1678": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1704": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1921": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1942": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
   }
  },
  "_verified": {
@@ -1096,6 +1184,26 @@
   },
   "wo-66513": {
    "pg": 66513,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1678": {
+   "pg": 1678,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1704": {
+   "pg": 1704,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1921": {
+   "pg": 1921,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1942": {
+   "pg": 1942,
    "pg_copyrighted_marker": false,
    "pg_translator": "Katharine Prescott Wormeley"
   }

@@ -188,6 +188,7 @@ Added at the coordinator's relay, vetoable. Catullus, Kama Sutra and Pentamerone
 | — | — | pg-3435..3450: Older PG transcriptions of the same Nights and Supplemental Nights; the DP proofread editions (51252..64384) are used. | — | — | excluded | — |
 | — | — | pg-6036: The Kasidah: Burton's own poem presented as a translation (a literary mask). | — | — | excluded | — |
 | — | — | travel-books: Pilgrimage to Al-Madinah, Lake Regions, etc.: his own prose, not translations (an author section would hold them). | — | — | excluded | — |
+| — | — | pg-27827: The Kama Sutra (Burton and Bhide, 1883): left off by judgment, not rights, like the Pauls' sexology titles. Adam can ask for it. | — | — | excluded | — |
 
 ## Maude (Tolstoy, PD editions only)
 
@@ -356,6 +357,7 @@ Round 4, vetoable. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
+| `payne-alaeddin-and-the-enchanted-lamp` | Anonymous (from the Arabian Nights) | Alaeddin and the Enchanted Lamp | John Payne | 1889 | have | PG 5100 |
 | `payne-decameron` | Boccaccio | The Decameron | John Payne | 1886 | have | PG 23700 |
 | `payne-villon` | Villon | Poems (Lesser and Greater Testament, Ballades) | John Payne | 1878 | have-raw | IA `poemsofmasterfra00villiala` |
 | `payne-thousand-nights` | — | Payne's Book of the Thousand Nights and One Night (Villon Society 1882-84, 9 vols): Burton's and Lane's are already shelved; the IA set is incomplete and not fetched. Your call. | — | — | pending | — |
@@ -379,13 +381,22 @@ Round 5, lane C's choice; vetoable. Not converted to unit-id JSON; **no uids min
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
-| `curtin-quo-vadis` | Sienkiewicz | Quo Vadis | Jeremiah Curtin | 1896 | have | PG 2853 |
-| `curtin-with-fire-and-sword` | Sienkiewicz | With Fire and Sword (Trilogy I) | Jeremiah Curtin | 1890 | have | PG 37027 |
-| `curtin-the-deluge` | Sienkiewicz | The Deluge (Trilogy II) | Jeremiah Curtin | 1891 | have | PG 37198 + PG 37308 |
-| `curtin-pan-michael` | Sienkiewicz | Pan Michael (Trilogy III) | Jeremiah Curtin | 1893 | have | PG 37361 |
 | `curtin-on-the-field-of-glory` | Sienkiewicz | On the Field of Glory | Jeremiah Curtin | 1906 | have | PG 37406 |
+| `curtin-orzeszkowa-the-argonauts` | Eliza Orzeszkowa | The Argonauts | Jeremiah Curtin | 1901 | have | PG 20537 |
+| `curtin-pan-michael` | Sienkiewicz | Pan Michael (Trilogy III) | Jeremiah Curtin | 1893 | have | PG 37361 |
+| `curtin-prus-the-pharaoh-and-the-priest` | Bolesław Prus | The Pharaoh and the Priest | Jeremiah Curtin | 1902 | have | PG 23646 |
+| `curtin-quo-vadis` | Sienkiewicz | Quo Vadis | Jeremiah Curtin | 1896 | have | PG 2853 |
+| `curtin-sienkiewicz-children-of-the-soil` | Henryk Sienkiewicz | Children of the Soil | Jeremiah Curtin | 1895 | have | PG 44939 |
+| `curtin-sienkiewicz-hania` | Henryk Sienkiewicz | Hania | Jeremiah Curtin | 1897 | have | PG 36583 |
+| `curtin-sienkiewicz-in-vain` | Henryk Sienkiewicz | In Vain | Jeremiah Curtin | 1899 | have | PG 46454 |
+| `curtin-sienkiewicz-let-us-follow-him` | Henryk Sienkiewicz | Let Us Follow Him | Jeremiah Curtin | 1897 | have | PG 41988 |
+| `curtin-sienkiewicz-life-and-death` | Henryk Sienkiewicz | Life and Death, and Other Legends and Stories | Jeremiah Curtin | 1904 | have | PG 35736 |
+| `curtin-sienkiewicz-lillian-morris` | Henryk Sienkiewicz | Lillian Morris, and Other Stories | Jeremiah Curtin | 1894 | have | PG 47527 |
+| `curtin-the-deluge` | Sienkiewicz | The Deluge (Trilogy II) | Jeremiah Curtin | 1891 | have | PG 37198 + PG 37308 |
+| `curtin-with-fire-and-sword` | Sienkiewicz | With Fire and Sword (Trilogy I) | Jeremiah Curtin | 1890 | have | PG 37027 |
 | `curtin-knights-of-the-cross` | — | The Knights of the Cross (1900): Gutenberg's edition is not Curtin's; no Curtin scan checked this run. | — | — | pending | — |
 | `curtin-myths` | — | Curtin's own collections of Irish, Russian and Native American myths: his own fieldwork rather than translations of a work; left out. | — | — | pending | — |
+| — | — | pg-35499: The Pharaoh and the Priest again: a second Gutenberg transcription of the same Curtin translation; this shelf keeps 23646. | — | — | excluded | — |
 
 ## Isabel Hapgood (Hugo, Gorky, Turgenev, Bunin)
 
@@ -394,14 +405,21 @@ Round 5, vetoable. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
-| `hapgood-les-miserables` | Hugo | Les Misérables | Isabel F. Hapgood | 1887 | have | PG 135 |
-| `hapgood-gorky-orloff` | Gorky | Orlóff and His Wife: Tales of the Barefoot Brigade | Isabel F. Hapgood | 1901 | have | PG 55636 |
 | `hapgood-bunin-village` | Bunin | The Village | Isabel F. Hapgood | 1923 | have | PG 59981 |
+| `hapgood-gorky-orloff` | Gorky | Orlóff and His Wife: Tales of the Barefoot Brigade | Isabel F. Hapgood | 1901 | have | PG 55636 |
+| `hapgood-hugo-notre-dame-de-paris` | Victor Hugo | Notre-Dame de Paris | Isabel Florence Hapgood | 1888 | have | PG 2610 |
+| `hapgood-les-miserables` | Hugo | Les Misérables | Isabel F. Hapgood | 1887 | have | PG 135 |
+| `hapgood-leskov-the-steel-flea` | Nikolai Leskov | The Steel Flea | Isabel Florence Hapgood | 1916 | have | PG 61172 |
+| `hapgood-tolstoy-on-the-significance-of-science-and-art` | Leo Tolstoy | On the Significance of Science and Art | Isabel Florence Hapgood | 1887 | have | PG 3631 |
+| `hapgood-tolstoy-sevastopol` | Leo Tolstoy | Sevastopol | Isabel Florence Hapgood | 1888 | have | PG 47197 |
+| `hapgood-tolstoy-the-census-in-moscow` | Leo Tolstoy | The Census in Moscow | Isabel Florence Hapgood | 1887 | have | PG 3540 |
+| `hapgood-tolstoy-what-to-do` | Leo Tolstoy | What to Do? Thoughts Evoked by the Census of Moscow | Isabel Florence Hapgood | 1887 | have | PG 3541 |
 | `hapgood-turgenev-first-love` | Turgenev | First Love, and Other Stories | Isabel F. Hapgood | 1904 | have | PG 56878 |
-| `hapgood-turgenev-superfluous-man` | Turgenev | The Diary of a Superfluous Man, and Other Stories | Isabel F. Hapgood | 1904 | have | PG 41201 |
-| `hapgood-turgenev-reckless-character` | Turgenev | A Reckless Character, and Other Stories | Isabel F. Hapgood | 1904 | have | PG 15994 |
 | `hapgood-turgenev-nobleman` | Turgenev | A Nobleman's Nest | Isabel F. Hapgood | 1903 | have | PG 25771 |
-| `hapgood-tolstoy` | — | Hapgood's Tolstoy (Childhood, Boyhood, Youth 1886; Sevastopol 1888): not on Gutenberg in her version; IA not checked this run. | — | — | pending | — |
+| `hapgood-turgenev-reckless-character` | Turgenev | A Reckless Character, and Other Stories | Isabel F. Hapgood | 1904 | have | PG 15994 |
+| `hapgood-turgenev-superfluous-man` | Turgenev | The Diary of a Superfluous Man, and Other Stories | Isabel F. Hapgood | 1904 | have | PG 41201 |
+| `hapgood-tolstoy-childhood` | — | Hapgood's Childhood, Boyhood, Youth (1886): not on Gutenberg in her version; IA not checked. (Her Sevastopol was found on Gutenberg in round 35.) | — | — | pending | — |
+| — | — | pg-3630: What to Do? again: a second Gutenberg file of the same Hapgood translation; this shelf keeps 3541. | — | — | excluded | — |
 
 ## James Legge (Chinese classics)
 
@@ -727,26 +745,33 @@ Round 10 (2026-10-10), vetoable. Each title gates on its own translator. Not con
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
-| `levy-nietzsche-zarathustra` | Nietzsche | Thus Spake Zarathustra | Thomas Common | 1909 | have | PG 1998 |
 | `levy-nietzsche-beyond-good-and-evil` | Nietzsche | Beyond Good and Evil | Helen Zimmern | 1907 | have | PG 4363 |
+| `levy-nietzsche-birth-of-tragedy` | Nietzsche | The Birth of Tragedy | Wm. A. Haussmann | 1909 | have | PG 51356 |
+| `levy-nietzsche-case-of-wagner` | Nietzsche | The Case of Wagner, Nietzsche contra Wagner, Selected Aphorisms | Anthony M. Ludovici | 1911 | have | PG 25012 |
+| `levy-nietzsche-dawn-of-day` | Nietzsche | The Dawn of Day | J. M. Kennedy | 1911 | have | PG 39955 |
+| `levy-nietzsche-early-greek-philosophy` | Nietzsche | Early Greek Philosophy and Other Essays | Maximilian A. Mügge | 1911 | have | PG 51548 |
+| `levy-nietzsche-ecce-homo` | Nietzsche | Ecce Homo | Anthony M. Ludovici (poetry by Paul V. Cohn) | 1911 | have | PG 52190 |
+| `levy-nietzsche-future-of-our-educational-institutions` | Nietzsche | On the Future of our Educational Institutions; Homer and Classical Philology; We Philologists | J. M. Kennedy | 1909 | have | PG 51580 |
+| `levy-nietzsche-genealogy-of-morals` | Nietzsche | The Genealogy of Morals | Horace B. Samuel (with J. M. Kennedy) | 1910 | have | PG 52319 |
 | `levy-nietzsche-human-all-too-human-1` | Nietzsche | Human, All-Too-Human, Part I | Helen Zimmern | 1909 | have | PG 51935 |
 | `levy-nietzsche-human-all-too-human-2` | Nietzsche | Human, All-Too-Human, Part II | Paul V. Cohn | 1911 | have | PG 37841 |
-| `levy-nietzsche-dawn-of-day` | Nietzsche | The Dawn of Day | J. M. Kennedy | 1911 | have | PG 39955 |
 | `levy-nietzsche-joyful-wisdom` | Nietzsche | The Joyful Wisdom | Thomas Common (poetry by Paul V. Cohn and Maude Dominica Petre) | 1910 | have | PG 52881 |
-| `levy-nietzsche-genealogy-of-morals` | Nietzsche | The Genealogy of Morals | Horace B. Samuel (with J. M. Kennedy) | 1910 | have | PG 52319 |
-| `levy-nietzsche-birth-of-tragedy` | Nietzsche | The Birth of Tragedy | Wm. A. Haussmann | 1909 | have | PG 51356 |
+| `levy-nietzsche-thoughts-out-of-season-1` | Nietzsche | Thoughts Out of Season, Part I | Anthony M. Ludovici | 1909 | have | PG 51710 |
 | `levy-nietzsche-thoughts-out-of-season-2` | Nietzsche | Thoughts Out of Season, Part II | Adrian Collins | 1909 | have | PG 38226 |
-| `levy-nietzsche-early-greek-philosophy` | Nietzsche | Early Greek Philosophy and Other Essays | Maximilian A. Mügge | 1911 | have | PG 51548 |
 | `levy-nietzsche-twilight-and-antichrist` | Nietzsche | The Twilight of the Idols; The Antichrist | Anthony M. Ludovici | 1911 | have | PG 52263 |
-| `levy-nietzsche-ecce-homo` | Nietzsche | Ecce Homo | Anthony M. Ludovici (poetry by Paul V. Cohn) | 1911 | have | PG 52190 |
-| `levy-nietzsche-case-of-wagner` | Nietzsche | The Case of Wagner, Nietzsche contra Wagner, Selected Aphorisms | Anthony M. Ludovici | 1911 | have | PG 25012 |
 | `levy-nietzsche-will-to-power-1` | Nietzsche | The Will to Power, Books I and II | Anthony M. Ludovici | 1909 | have | PG 52914 |
 | `levy-nietzsche-will-to-power-2` | Nietzsche | The Will to Power, Books III and IV | Anthony M. Ludovici | 1910 | have | PG 52915 |
-| `levy-nietzsche-missing-volumes` | — | Levy vols not on Gutenberg in this pass: Thoughts Out of Season I (Ludovici), Miscellaneous Aphorisms (Human All-Too-Human II), the Future of our Educational Institutions (Kennedy), Poems, Letters, the Index. Look on archive.org next round. | — | — | pending | — |
+| `levy-nietzsche-zarathustra` | Nietzsche | Thus Spake Zarathustra | Thomas Common | 1909 | have | PG 1998 |
+| `levy-nietzsche-missing-volumes` | — | Levy vols still not on Gutenberg: Miscellaneous Aphorisms, Poems, Letters, the Index. (Thoughts Out of Season I and vol. 3, the Future of our Educational Institutions, were found in round 35.) | — | — | pending | — |
 | — | — | pg-52124: A second Gutenberg Joyful Wisdom from the same Levy volume; 52881 (Distributed Proofreaders) is used. | — | — | excluded | — |
 | — | — | pg-19322: Mencken's own Antichrist translation (1918), not Levy's; its front matter carries 1923-1924 dates; a separate translator. | — | — | excluded | — |
 | — | — | pg-38145: Alexander Harvey's 1908 Human, All Too Human selection, not Levy's. | — | — | excluded | — |
 | — | — | pg-19634: Another Beyond Good and Evil with no translator in the header; not checked. | — | — | excluded | — |
+| — | — | pg-5652: Thoughts Out of Season I again: an earlier Gutenberg file of Ludovici's translation; this shelf keeps 51710, the Levy edition. | — | — | excluded | — |
+| — | — | pg-28146: On the Future of our Educational Institutions alone; 51580 holds it with the rest of Levy vol. 3. | — | — | excluded | — |
+| — | — | pg-18188: Homer and Classical Philology alone; part of Levy vol. 3 (51580). | — | — | excluded | — |
+| — | — | pg-18267: We Philologists alone; part of Levy vol. 3 (51580). | — | — | excluded | — |
+| — | — | pg-52166: The Case of Wagner again: another file of Levy vol. 8, already held as 25012. | — | — | excluded | — |
 
 ## William Archer's Ibsen (Collected Works, 1906-12)
 
@@ -839,46 +864,50 @@ Round 14 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
-| `wormeley-balzac-ursula` | Honoré de Balzac | Ursula | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1223 |
-| `wormeley-balzac-pierre-grassou` | Honoré de Balzac | Pierre Grassou | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1230 |
-| `wormeley-balzac-unconscious-comedians` | Honoré de Balzac | Unconscious Comedians | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1242 |
-| `wormeley-balzac-bureaucracy` | Honoré de Balzac | Bureaucracy | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1343 |
-| `wormeley-balzac-the-secrets-of-the-princesse-de-cadignan` | Honoré de Balzac | The Secrets of the Princesse de Cadignan | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1344 |
-| `wormeley-balzac-the-vicar-of-tours` | Honoré de Balzac | The Vicar of Tours | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1345 |
-| `wormeley-balzac-an-old-maid` | Honoré de Balzac | An Old Maid | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1352 |
-| `wormeley-balzac-madame-firmiani` | Honoré de Balzac | Madame Firmiani | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1357 |
-| `wormeley-balzac-paz-la-fausse-maitresse` | Honoré de Balzac | Paz (La Fausse Maitresse) | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1369 |
-| `wormeley-balzac-study-of-a-woman` | Honoré de Balzac | Study of a Woman | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1373 |
-| `wormeley-balzac-vendetta` | Honoré de Balzac | Vendetta | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1374 |
-| `wormeley-balzac-the-two-brothers` | Honoré de Balzac | The Two Brothers | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1380 |
-| `wormeley-balzac-a-start-in-life` | Honoré de Balzac | A Start in Life | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1403 |
-| `wormeley-balzac-sons-of-the-soil` | Honoré de Balzac | Sons of the Soil | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1417 |
-| `wormeley-balzac-el-verdugo` | Honoré de Balzac | El Verdugo | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1425 |
-| `wormeley-balzac-the-recruit` | Honoré de Balzac | The Recruit | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1426 |
-| `wormeley-balzac-a-drama-on-the-seashore` | Honoré de Balzac | A Drama on the Seashore | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1427 |
-| `wormeley-balzac-seraphita` | Honoré de Balzac | Seraphita | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1432 |
-| `wormeley-balzac-the-red-inn` | Honoré de Balzac | The Red Inn | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1433 |
-| `wormeley-balzac-juana` | Honoré de Balzac | Juana | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1437 |
-| `wormeley-balzac-the-alkahest` | Honoré de Balzac | The Alkahest | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1453 |
-| `wormeley-balzac-maitre-cornelius` | Honoré de Balzac | Maitre Cornelius | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1454 |
-| `wormeley-balzac-the-hated-son` | Honoré de Balzac | The Hated Son | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1455 |
-| `wormeley-balzac-the-illustrious-gaudissart` | Honoré de Balzac | The Illustrious Gaudissart | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1474 |
 | `wormeley-balzac-a-daughter-of-eve` | Honoré de Balzac | A Daughter of Eve | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1481 |
-| `wormeley-balzac-modeste-mignon` | Honoré de Balzac | Modeste Mignon | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1482 |
-| `wormeley-balzac-the-hidden-masterpiece` | Honoré de Balzac | The Hidden Masterpiece | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1553 |
+| `wormeley-balzac-a-drama-on-the-seashore` | Honoré de Balzac | A Drama on the Seashore | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1427 |
+| `wormeley-balzac-a-start-in-life` | Honoré de Balzac | A Start in Life | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1403 |
 | `wormeley-balzac-adieu` | Honoré de Balzac | Adieu | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1554 |
-| `wormeley-balzac-the-marriage-contract` | Honoré de Balzac | The Marriage Contract | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1556 |
-| `wormeley-balzac-the-lily-of-the-valley` | Honoré de Balzac | The Lily of the Valley | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1569 |
-| `wormeley-balzac-the-lesser-bourgeoisie` | Honoré de Balzac | The Lesser Bourgeoisie | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1641 |
-| `wormeley-balzac-ferragus-chief-of-the-d-vorants` | Honoré de Balzac | Ferragus, Chief of the Dévorants | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1649 |
-| `wormeley-balzac-eugenie-grandet` | Honoré de Balzac | Eugenie Grandet | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1715 |
-| `wormeley-balzac-catherine-de-medici` | Honoré de Balzac | Catherine De Medici | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1854 |
-| `wormeley-balzac-the-deputy-of-arcis` | Honoré de Balzac | The Deputy of Arcis | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1871 |
-| `wormeley-balzac-the-village-rector` | Honoré de Balzac | The Village Rector | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1899 |
+| `wormeley-balzac-an-historical-mystery` | Honoré de Balzac | An Historical Mystery (The Gondreville Mystery) | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1678 |
+| `wormeley-balzac-an-old-maid` | Honoré de Balzac | An Old Maid | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1352 |
 | `wormeley-balzac-beatrix` | Honoré de Balzac | Beatrix | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1957 |
-| `wormeley-balzac-the-brotherhood-of-consolation` | Honoré de Balzac | The Brotherhood of Consolation | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1967 |
-| `wormeley-daudet-tartarin-on-the-alps` | Alphonse Daudet | Tartarin on the Alps | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 25768 |
+| `wormeley-balzac-bureaucracy` | Honoré de Balzac | Bureaucracy | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1343 |
+| `wormeley-balzac-catherine-de-medici` | Honoré de Balzac | Catherine De Medici | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1854 |
+| `wormeley-balzac-cesar-birotteau` | Honoré de Balzac | Rise and Fall of César Birotteau | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1942 |
+| `wormeley-balzac-el-verdugo` | Honoré de Balzac | El Verdugo | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1425 |
+| `wormeley-balzac-eugenie-grandet` | Honoré de Balzac | Eugenie Grandet | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1715 |
+| `wormeley-balzac-ferragus-chief-of-the-d-vorants` | Honoré de Balzac | Ferragus, Chief of the Dévorants | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1649 |
+| `wormeley-balzac-juana` | Honoré de Balzac | Juana | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1437 |
 | `wormeley-balzac-letters-to-madame-hanska-born-countess-rzewuska` | Honoré de Balzac | Letters to Madame Hanska, born Countess Rzewuska, aft | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 54466 |
+| `wormeley-balzac-madame-firmiani` | Honoré de Balzac | Madame Firmiani | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1357 |
+| `wormeley-balzac-maitre-cornelius` | Honoré de Balzac | Maitre Cornelius | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1454 |
+| `wormeley-balzac-modeste-mignon` | Honoré de Balzac | Modeste Mignon | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1482 |
+| `wormeley-balzac-paz-la-fausse-maitresse` | Honoré de Balzac | Paz (La Fausse Maitresse) | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1369 |
+| `wormeley-balzac-pierre-grassou` | Honoré de Balzac | Pierre Grassou | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1230 |
+| `wormeley-balzac-pierrette` | Honoré de Balzac | Pierrette | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1704 |
+| `wormeley-balzac-seraphita` | Honoré de Balzac | Seraphita | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1432 |
+| `wormeley-balzac-sons-of-the-soil` | Honoré de Balzac | Sons of the Soil | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1417 |
+| `wormeley-balzac-study-of-a-woman` | Honoré de Balzac | Study of a Woman | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1373 |
+| `wormeley-balzac-the-alkahest` | Honoré de Balzac | The Alkahest | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1453 |
+| `wormeley-balzac-the-brotherhood-of-consolation` | Honoré de Balzac | The Brotherhood of Consolation | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1967 |
+| `wormeley-balzac-the-chouans` | Honoré de Balzac | The Chouans | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1921 |
+| `wormeley-balzac-the-deputy-of-arcis` | Honoré de Balzac | The Deputy of Arcis | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1871 |
+| `wormeley-balzac-the-hated-son` | Honoré de Balzac | The Hated Son | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1455 |
+| `wormeley-balzac-the-hidden-masterpiece` | Honoré de Balzac | The Hidden Masterpiece | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1553 |
+| `wormeley-balzac-the-illustrious-gaudissart` | Honoré de Balzac | The Illustrious Gaudissart | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1474 |
+| `wormeley-balzac-the-lesser-bourgeoisie` | Honoré de Balzac | The Lesser Bourgeoisie | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1641 |
+| `wormeley-balzac-the-lily-of-the-valley` | Honoré de Balzac | The Lily of the Valley | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1569 |
+| `wormeley-balzac-the-marriage-contract` | Honoré de Balzac | The Marriage Contract | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1556 |
+| `wormeley-balzac-the-recruit` | Honoré de Balzac | The Recruit | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1426 |
+| `wormeley-balzac-the-red-inn` | Honoré de Balzac | The Red Inn | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1433 |
+| `wormeley-balzac-the-secrets-of-the-princesse-de-cadignan` | Honoré de Balzac | The Secrets of the Princesse de Cadignan | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1344 |
+| `wormeley-balzac-the-two-brothers` | Honoré de Balzac | The Two Brothers | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1380 |
+| `wormeley-balzac-the-vicar-of-tours` | Honoré de Balzac | The Vicar of Tours | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1345 |
+| `wormeley-balzac-the-village-rector` | Honoré de Balzac | The Village Rector | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1899 |
+| `wormeley-balzac-unconscious-comedians` | Honoré de Balzac | Unconscious Comedians | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1242 |
+| `wormeley-balzac-ursula` | Honoré de Balzac | Ursula | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1223 |
+| `wormeley-balzac-vendetta` | Honoré de Balzac | Vendetta | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1374 |
+| `wormeley-daudet-tartarin-on-the-alps` | Alphonse Daudet | Tartarin on the Alps | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 25768 |
 | `wormeley-sand-the-bagpipers` | George Sand | The Bagpipers | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 66513 |
 | — | — | pg-7927: The Celibates collects Pierrette, The Vicar of Tours and The Two Brothers; the last two are shelved singly (1345, 1380), so the collection would hold them twice. | — | — | excluded | — |
 | — | — | pg-43283: The Correspondence of Madame, Princess Palatine (ed. Wormeley): letters, edited not translated in the same sense; not checked. | — | — | excluded | — |
@@ -1014,14 +1043,18 @@ Round 17 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
-| `seltzer-gorky-the-spy` | Gorky | The Spy: The Story of a Superfluous Man | Thomas Seltzer | 1908 | have | PG 51094 |
 | `seltzer-andreyev-savva-and-life-of-man` | Andreyev | Savva and The Life of Man | Thomas Seltzer | 1914 | have | PG 13147 |
 | `seltzer-gogol-inspector-general` | Gogol | The Inspector-General | Thomas Seltzer | 1916 | have | PG 3735 |
-| `seltzer-sudermann-song-of-songs` | Sudermann | The Song of Songs | Thomas Seltzer | 1909 | have | PG 34791 |
+| `seltzer-gorky-the-spy` | Gorky | The Spy: The Story of a Superfluous Man | Thomas Seltzer | 1908 | have | PG 51094 |
 | `seltzer-ostwald-natural-philosophy` | Ostwald | Natural Philosophy | Thomas Seltzer | 1910 | have | PG 43791 |
+| `seltzer-sudermann-song-of-songs` | Sudermann | The Song of Songs | Thomas Seltzer | 1909 | have | PG 34791 |
 | — | — | pg-13437: Best Russian Short Stories (1917): an anthology Seltzer edited, with many translators. | — | — | excluded | — |
-| — | — | pg-17241: Atlantis: Adele Szold Seltzer's translation. | — | — | excluded | — |
+| — | — | pg-17241: Atlantis: Adele Szold Seltzer's translation; it is on adele-seltzer_shelf.json (round 35). | — | — | excluded | — |
 | — | — | pg-62880: The Glebe magazine issue: a periodical. | — | — | excluded | — |
+| — | — | pg-3165: Rashi: Adele Szold Seltzer's translation; it is on adele-seltzer_shelf.json (round 35). | — | — | excluded | — |
+| — | — | pg-22354: The Adventures of Maya the Bee: Adele Szold Seltzer's translation; it is on adele-seltzer_shelf.json (round 35). | — | — | excluded | — |
+| — | — | pg-33943: Woman: Adele Szold Seltzer's translation; it is on adele-seltzer_shelf.json (round 35). | — | — | excluded | — |
+| — | — | pg-34358: Iolanthe's Wedding: Adele Szold Seltzer's translation; it is on adele-seltzer_shelf.json (round 35). | — | — | excluded | — |
 
 ## Nathan Haskell Dole (Tolstoy, Palacio Valdés, Verga)
 
@@ -1075,6 +1108,7 @@ Round 18 (2026-10-10), vetoable. Ebers complete texts only, not the PG part-file
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
+| `clara-bell-balzac-a-man-of-business` | Honoré de Balzac | A Man of Business | Clara Bell | 1890s (Dent) | have | PG 1813 |
 | `clara-bell-balzac-a-prince-of-bohemia` | Honoré de Balzac | A Prince of Bohemia | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1812 |
 | `clara-bell-balzac-a-second-home` | Honoré de Balzac | A Second Home | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1810 |
 | `clara-bell-balzac-an-episode-under-the-terror` | Honoré de Balzac | An Episode under the Terror | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1456 |
@@ -1117,7 +1151,9 @@ Round 18 (2026-10-10), vetoable. Ebers complete texts only, not the PG part-file
 | `clara-bell-huysmans-the-cathedral` | J.-K. Huysmans | The Cathedral | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 15067 |
 | `clara-bell-karadordevic-enchanted-india` | Bozidar Karadordevic | Enchanted India | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 57153 |
 | `clara-bell-maupassant-pierre-and-jean` | Guy de Maupassant | Pierre and Jean | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 3804 |
+| `clara-bell-schubin-our-own-set` | Ossip Schubin | Our Own Set | Clara Bell | 1884 | have | PG 35673 |
 | `clara-bell-vald-froth-a-novel` | Armando Palacio Valdé | Froth: A Novel | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 38411 |
+| `clara-bell-van-eeden-little-johannes` | Frederik van Eeden | Little Johannes | Clara Bell (introduction by Andrew Lang) | 1895 | have | PG 40656 |
 | — | — | ebers-volume-splits: Gutenberg's per-volume splits of Uarda, The Sisters, The Emperor, Homo Sum, Serapis, The Bride of the Nile, A Thorny Path and Margery are left out; the complete texts (5449, 5466, 5493, 5499, 5507, 5529, 5542, 5560) are used. | — | — | excluded | — |
 | — | — | pg-7958: The Napoleon of the People is an extract from The Country Doctor (1350), shelved whole. | — | — | excluded | — |
 | — | — | two-volume-novels: Leon Roch (48752, 49272) and Quintus Claudius (47221, 47222) have no complete Gutenberg text; each Gutenberg volume is shelved as its own title. | — | — | excluded | — |
@@ -3745,6 +3781,86 @@ Round 34 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `smollett-translations-le-sage-gil-blas-vol-2` | Alain-René Le Sage | The Adventures of Gil Blas of Santillane, Volume 2 (of 3) | Tobias Smollett | 1749-1761 (see the Gutenberg header) | have | PG 66678 |
 | `smollett-translations-le-sage-gil-blas-vol-3` | Alain-René Le Sage | The Adventures of Gil Blas of Santillane, Volume 3 (of 3) | Tobias Smollett | 1749-1761 (see the Gutenberg header) | have | PG 66679 |
 | `smollett-translations-voltaire-the-history-of-peter-the-great` | Voltaire | The History of Peter the Great, Emperor of Russia | Tobias Smollett | 1749-1761 (see the Gutenberg header) | have | PG 42540 |
+
+## Rasmus B. Anderson (Bjørnson; Rydberg's Teutonic Mythology, 3 vols; Brandes; Lumholtz)
+
+Shelf: `pipeline/rasmus-anderson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py rasmus-anderson` · titles `python3 pipeline/split_shelf_titles.py rasmus-anderson`.
+Round 35 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `rasmus-anderson-bjornson-a-happy-boy` | Bjørnstjerne Bjørnson | A Happy Boy | Rasmus B. Anderson | 1881-1889 (see the Gutenberg header) | have | PG 12633 |
+| `rasmus-anderson-bjornson-arne` | Bjørnstjerne Bjørnson | Arne; Early Tales and Sketches Patriots Edition | Rasmus B. Anderson | 1881-1889 (see the Gutenberg header) | have | PG 39744 |
+| `rasmus-anderson-bjornson-magnhild-dust` | Bjørnstjerne Bjørnson | Magnhild; Dust | Rasmus B. Anderson | 1881-1889 (see the Gutenberg header) | have | PG 33683 |
+| `rasmus-anderson-brandes-eminent-authors-of-the-nineteenth-century` | Georg Brandes | Eminent Authors of the Nineteenth Century: Literary Portraits | Rasmus B. Anderson | 1881-1889 (see the Gutenberg header) | have | PG 49999 |
+| `rasmus-anderson-lumholtz-among-cannibals` | Carl Lumholtz | Among Cannibals: An Account of Four Years' Travels in Australia and of Camp Life With the Aborigines of Queensland | Rasmus B. Anderson | 1881-1889 (see the Gutenberg header) | have | PG 66299 |
+| `rasmus-anderson-rydberg-teutonic-mythology-vol-1` | Viktor Rydberg | Teutonic Mythology: Gods and Goddesses of the Northland, Vol. 1 | Rasmus B. Anderson | 1881-1889 (see the Gutenberg header) | have | PG 37876 |
+| `rasmus-anderson-rydberg-teutonic-mythology-vol-2` | Viktor Rydberg | Teutonic Mythology: Gods and Goddesses of the Northland, Vol. 2 | Rasmus B. Anderson | 1881-1889 (see the Gutenberg header) | have | PG 58829 |
+| `rasmus-anderson-rydberg-teutonic-mythology-vol-3` | Viktor Rydberg | Teutonic Mythology: Gods and Goddesses of the Northland, Vol. 3 | Rasmus B. Anderson | 1881-1889 (see the Gutenberg header) | have | PG 58830 |
+
+## William Archer beyond Ibsen (Nansen's Eskimo Life; Kielland)
+
+Shelf: `pipeline/archer-other_shelf.json` · fetch `python3 pipeline/fetch_shelf.py archer-other` · titles `python3 pipeline/split_shelf_titles.py archer-other`.
+Round 35 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `archer-other-kielland-tales-of-two-countries` | Alexander Lange Kielland | Tales of Two Countries | William Archer | 1891-1893 (see the Gutenberg header) | have | PG 8663 |
+| `archer-other-nansen-eskimo-life` | Fridtjof Nansen | Eskimo Life | William Archer | 1891-1893 (see the Gutenberg header) | have | PG 46972 |
+| — | — | single-play-ibsen: Gutenberg's single Ibsen plays (4070, 4093, 4782, 7942, 8121, 18428, 18792) are excluded on archer-ibsen_shelf.json as duplicates of the collected set. | — | — | excluded | — |
+
+## George Borrow as translator (Romantic Ballads; The Sleeping Bard; Faustus; Welsh Poems; the Wise ballad pamphlets)
+
+Shelf: `pipeline/borrow-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py borrow-translations` · titles `python3 pipeline/split_shelf_titles.py borrow-translations`.
+Round 35 (2026-10-10), vetoable. Lane D's borrow shelf keeps the Turkish Jester. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `borrow-translations-alf-the-freebooter-little-danneved-and-s` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Alf the Freebooter, Little Danneved and Swayne Trost, and Other Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 26787 |
+| `borrow-translations-axel-thordson-and-fair-valborg-a-ballad` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Axel Thordson and Fair Valborg: a ballad | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 27406 |
+| `borrow-translations-brown-william-the-power-of-the-harp-and` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Brown William, The Power of the Harp, and Other Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 26788 |
+| `borrow-translations-child-maidelvold-and-other-ballads` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Child Maidelvold, and Other Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 28771 |
+| `borrow-translations-ellen-of-villenskov-and-other-ballads` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Ellen of Villenskov, and Other Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 28772 |
+| `borrow-translations-embeo-e-majaro-lucas` | The Gospel of Luke (Borrow's Romani version) | Embéo e Majaró Lucas | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 29470 |
+| `borrow-translations-emelian-the-fool-a-tale` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Emelian the Fool: a tale | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 26789 |
+| `borrow-translations-ermeline` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Ermeline | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 26791 |
+| `borrow-translations-finnish-arts-or-sir-thor-and-damsel-thur` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Finnish Arts; Or, Sir Thor and Damsel Thure, a Ballad | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 28774 |
+| `borrow-translations-grimmer-and-kamper-the-end-of-sivard-sna` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Grimmer and Kamper, The End of Sivard Snarenswayne, and Other Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 26792 |
+| `borrow-translations-hafbur-and-signe-a-ballad` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Hafbur and Signe: a ballad | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 27473 |
+| `borrow-translations-king-diderik-and-the-fight-between-the-l` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | King Diderik and the fight between the Lion and Dragon, and Other Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 26802 |
+| `borrow-translations-king-hacon-s-death-and-bran-and-the-blac` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | King Hacon's Death, and Bran and the Black Dog: Two Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 26803 |
+| `borrow-translations-klinger-faustus` | Friedrich Maximilian Klinger | Faustus | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 25468 |
+| `borrow-translations-little-engel-a-ballad-with-a-series-of-e` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Little Engel: a ballad; with a series of epigrams from the Persian | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 26805 |
+| `borrow-translations-marsk-stig-a-ballad` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Marsk Stig: a ballad | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 26831 |
+| `borrow-translations-marsk-stig-s-daughters-and-other-songs-a` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Marsk Stig's Daughters, and Other Songs and Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 26832 |
+| `borrow-translations-mollie-charane-and-other-ballads` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Mollie Charane, and Other Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 27408 |
+| `borrow-translations-niels-ebbesen-and-germand-gladenswayne-t` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Niels Ebbesen, and Germand Gladenswayne: Two Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 26833 |
+| `borrow-translations-oehlenschlager-the-gold-horns` | Adam Oehlenschläger | The Gold Horns | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 29124 |
+| `borrow-translations-proud-signild-and-other-ballads` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Proud Signild, and Other Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 27396 |
+| `borrow-translations-queen-berngerd-the-bard-and-the-dreams-a` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Queen Berngerd, The Bard and the Dreams, and Other Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 27474 |
+| `borrow-translations-romantic-ballads-translated-from-the-dan` | Danish ballads and Oehlenschläger, Ewald and others | Romantic Ballads, Translated from the Danish; and Miscellaneous Pieces | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 2430 |
+| `borrow-translations-the-brother-avenged-and-other-ballads` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | The Brother Avenged, and Other Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 26790 |
+| `borrow-translations-the-expedition-to-birting-s-land-and-oth` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | The Expedition to Birting's Land, and Other Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 26793 |
+| `borrow-translations-the-nightingale-the-valkyrie-and-raven-a` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | The Nightingale, the Valkyrie and Raven, and Other Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 26834 |
+| `borrow-translations-the-return-of-the-dead-and-other-ballads` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | The Return of the Dead, and Other Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 27407 |
+| `borrow-translations-the-story-of-tim` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | The Story of Tim | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 28770 |
+| `borrow-translations-ulf-van-yern-and-other-ballads` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Ulf Van Yern, and Other Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 27405 |
+| `borrow-translations-welsh-poems-and-ballads` | Welsh poets (Dafydd ap Gwilym and others) | Welsh Poems and Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 54851 |
+| `borrow-translations-wynne-the-sleeping-bard-or-visions-of-the-worl` | Ellis Wynne | The Sleeping Bard; Or, Visions of the World, Death, and Hell | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 20634 |
+| — | — | pg-13879: Ewald's The Death of Balder (Borrow, 1889): Ewald has his own shelf on lane D (ewald_shelf.json); left for its owner. | — | — | excluded | — |
+
+## Adele Szold Seltzer (Hauptmann's Atlantis; Rashi; Sudermann; Maya the Bee)
+
+Shelf: `pipeline/adele-seltzer_shelf.json` · fetch `python3 pipeline/fetch_shelf.py adele-seltzer` · titles `python3 pipeline/split_shelf_titles.py adele-seltzer`.
+Round 35 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `adele-seltzer-bonsels-the-adventures-of-maya-the-bee` | Waldemar Bonsels | The Adventures of Maya the Bee | Adele Szold Seltzer (verses by Arthur Guiterman) | 1922 | have | PG 22354 |
+| `adele-seltzer-hauptmann-atlantis` | Gerhart Hauptmann | Atlantis | Adele Szold Seltzer | 1912 | have | PG 17241 |
+| `adele-seltzer-liber-rashi` | Maurice Liber | Rashi | Adele Szold Seltzer | 1906 | have | PG 3165 |
+| `adele-seltzer-magdeleine-marx-woman` | Magdeleine Marx | Woman | Adele Szold Seltzer | 1920 | have | PG 33943 |
+| `adele-seltzer-sudermann-iolanthes-wedding` | Hermann Sudermann | Iolanthe's Wedding | Adele Szold Seltzer | 1918 | have | PG 34358 |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 

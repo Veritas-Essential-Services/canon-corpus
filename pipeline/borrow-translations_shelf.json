@@ -1,0 +1,834 @@
+{
+ "_about": "TRANSLATOR SHELF: George Borrow (1803-1881) as translator: Romantic Ballads from the Danish (1826), Ellis Wynne's The Sleeping Bard (1860), Klinger's Faustus (1825), Welsh Poems and Ballads (ed. Ernest Rhys, 1915), and the ballads and tales from his manuscripts that T. J. Wise printed in small private editions (1913-14). Lane D's borrow_shelf.json holds only his Turkish Jester and leaves the ballads out. US public domain. Added 2026-10-10 by lane C (round 35); Adam may veto. No uids minted.",
+ "_name_words": [
+  "george borrow",
+  "borrow"
+ ],
+ "_surname": [
+  "george borrow",
+  "borrow"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "bor2-20634": [
+   20634,
+   "The Sleeping Bard; Or, Visions of the World, Death, and Hell"
+  ],
+  "bor2-2430": [
+   2430,
+   "Romantic Ballads, Translated from the Danish; and Miscellaneous Pieces"
+  ],
+  "bor2-25468": [
+   25468,
+   "Faustus"
+  ],
+  "bor2-26787": [
+   26787,
+   "Alf the Freebooter, Little Danneved and Swayne Trost, and Other Ballads"
+  ],
+  "bor2-26788": [
+   26788,
+   "Brown William, The Power of the Harp, and Other Ballads"
+  ],
+  "bor2-26789": [
+   26789,
+   "Emelian the Fool: a tale"
+  ],
+  "bor2-26790": [
+   26790,
+   "The Brother Avenged, and Other Ballads"
+  ],
+  "bor2-26791": [
+   26791,
+   "Ermeline"
+  ],
+  "bor2-26792": [
+   26792,
+   "Grimmer and Kamper, The End of Sivard Snarenswayne, and Other Ballads"
+  ],
+  "bor2-26793": [
+   26793,
+   "The Expedition to Birting's Land, and Other Ballads"
+  ],
+  "bor2-26802": [
+   26802,
+   "King Diderik and the fight between the Lion and Dragon, and Other Ballads"
+  ],
+  "bor2-26803": [
+   26803,
+   "King Hacon's Death, and Bran and the Black Dog: Two Ballads"
+  ],
+  "bor2-26805": [
+   26805,
+   "Little Engel: a ballad; with a series of epigrams from the Persian"
+  ],
+  "bor2-26831": [
+   26831,
+   "Marsk Stig: a ballad"
+  ],
+  "bor2-26832": [
+   26832,
+   "Marsk Stig's Daughters, and Other Songs and Ballads"
+  ],
+  "bor2-26833": [
+   26833,
+   "Niels Ebbesen, and Germand Gladenswayne: Two Ballads"
+  ],
+  "bor2-26834": [
+   26834,
+   "The Nightingale, the Valkyrie and Raven, and Other Ballads"
+  ],
+  "bor2-27396": [
+   27396,
+   "Proud Signild, and Other Ballads"
+  ],
+  "bor2-27405": [
+   27405,
+   "Ulf Van Yern, and Other Ballads"
+  ],
+  "bor2-27406": [
+   27406,
+   "Axel Thordson and Fair Valborg: a ballad"
+  ],
+  "bor2-27407": [
+   27407,
+   "The Return of the Dead, and Other Ballads"
+  ],
+  "bor2-27408": [
+   27408,
+   "Mollie Charane, and Other Ballads"
+  ],
+  "bor2-27473": [
+   27473,
+   "Hafbur and Signe: a ballad"
+  ],
+  "bor2-27474": [
+   27474,
+   "Queen Berngerd, The Bard and the Dreams, and Other Ballads"
+  ],
+  "bor2-28770": [
+   28770,
+   "The Story of Tim"
+  ],
+  "bor2-28771": [
+   28771,
+   "Child Maidelvold, and Other Ballads"
+  ],
+  "bor2-28772": [
+   28772,
+   "Ellen of Villenskov, and Other Ballads"
+  ],
+  "bor2-28774": [
+   28774,
+   "Finnish Arts; Or, Sir Thor and Damsel Thure, a Ballad"
+  ],
+  "bor2-29124": [
+   29124,
+   "The Gold Horns"
+  ],
+  "bor2-29470": [
+   29470,
+   "Embéo e Majaró Lucas"
+  ],
+  "bor2-54851": [
+   54851,
+   "Welsh Poems and Ballads"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "borrow-translations-alf-the-freebooter-little-danneved-and-s": {
+   "source": "bor2-26787",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Alf the Freebooter, Little Danneved and Swayne Trost, and Other Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 26787 (clean text)"
+  },
+  "borrow-translations-axel-thordson-and-fair-valborg-a-ballad": {
+   "source": "bor2-27406",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Axel Thordson and Fair Valborg: a ballad",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 27406 (clean text)"
+  },
+  "borrow-translations-brown-william-the-power-of-the-harp-and": {
+   "source": "bor2-26788",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Brown William, The Power of the Harp, and Other Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 26788 (clean text)"
+  },
+  "borrow-translations-child-maidelvold-and-other-ballads": {
+   "source": "bor2-28771",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Child Maidelvold, and Other Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 28771 (clean text)"
+  },
+  "borrow-translations-ellen-of-villenskov-and-other-ballads": {
+   "source": "bor2-28772",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Ellen of Villenskov, and Other Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 28772 (clean text)"
+  },
+  "borrow-translations-embeo-e-majaro-lucas": {
+   "source": "bor2-29470",
+   "of": "The Gospel of Luke (Borrow's Romani version)",
+   "work": "Embéo e Majaró Lucas",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 29470 (clean text)"
+  },
+  "borrow-translations-emelian-the-fool-a-tale": {
+   "source": "bor2-26789",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Emelian the Fool: a tale",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 26789 (clean text)"
+  },
+  "borrow-translations-ermeline": {
+   "source": "bor2-26791",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Ermeline",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 26791 (clean text)"
+  },
+  "borrow-translations-finnish-arts-or-sir-thor-and-damsel-thur": {
+   "source": "bor2-28774",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Finnish Arts; Or, Sir Thor and Damsel Thure, a Ballad",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 28774 (clean text)"
+  },
+  "borrow-translations-grimmer-and-kamper-the-end-of-sivard-sna": {
+   "source": "bor2-26792",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Grimmer and Kamper, The End of Sivard Snarenswayne, and Other Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 26792 (clean text)"
+  },
+  "borrow-translations-hafbur-and-signe-a-ballad": {
+   "source": "bor2-27473",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Hafbur and Signe: a ballad",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 27473 (clean text)"
+  },
+  "borrow-translations-king-diderik-and-the-fight-between-the-l": {
+   "source": "bor2-26802",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "King Diderik and the fight between the Lion and Dragon, and Other Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 26802 (clean text)"
+  },
+  "borrow-translations-king-hacon-s-death-and-bran-and-the-blac": {
+   "source": "bor2-26803",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "King Hacon's Death, and Bran and the Black Dog: Two Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 26803 (clean text)"
+  },
+  "borrow-translations-klinger-faustus": {
+   "source": "bor2-25468",
+   "of": "Friedrich Maximilian Klinger",
+   "work": "Faustus",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 25468 (clean text)"
+  },
+  "borrow-translations-little-engel-a-ballad-with-a-series-of-e": {
+   "source": "bor2-26805",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Little Engel: a ballad; with a series of epigrams from the Persian",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 26805 (clean text)"
+  },
+  "borrow-translations-marsk-stig-a-ballad": {
+   "source": "bor2-26831",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Marsk Stig: a ballad",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 26831 (clean text)"
+  },
+  "borrow-translations-marsk-stig-s-daughters-and-other-songs-a": {
+   "source": "bor2-26832",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Marsk Stig's Daughters, and Other Songs and Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 26832 (clean text)"
+  },
+  "borrow-translations-mollie-charane-and-other-ballads": {
+   "source": "bor2-27408",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Mollie Charane, and Other Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 27408 (clean text)"
+  },
+  "borrow-translations-niels-ebbesen-and-germand-gladenswayne-t": {
+   "source": "bor2-26833",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Niels Ebbesen, and Germand Gladenswayne: Two Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 26833 (clean text)"
+  },
+  "borrow-translations-oehlenschlager-the-gold-horns": {
+   "source": "bor2-29124",
+   "of": "Adam Oehlenschläger",
+   "work": "The Gold Horns",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 29124 (clean text)"
+  },
+  "borrow-translations-proud-signild-and-other-ballads": {
+   "source": "bor2-27396",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Proud Signild, and Other Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 27396 (clean text)"
+  },
+  "borrow-translations-queen-berngerd-the-bard-and-the-dreams-a": {
+   "source": "bor2-27474",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Queen Berngerd, The Bard and the Dreams, and Other Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 27474 (clean text)"
+  },
+  "borrow-translations-romantic-ballads-translated-from-the-dan": {
+   "source": "bor2-2430",
+   "of": "Danish ballads and Oehlenschläger, Ewald and others",
+   "work": "Romantic Ballads, Translated from the Danish; and Miscellaneous Pieces",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 2430 (clean text)"
+  },
+  "borrow-translations-the-brother-avenged-and-other-ballads": {
+   "source": "bor2-26790",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "The Brother Avenged, and Other Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 26790 (clean text)"
+  },
+  "borrow-translations-the-expedition-to-birting-s-land-and-oth": {
+   "source": "bor2-26793",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "The Expedition to Birting's Land, and Other Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 26793 (clean text)"
+  },
+  "borrow-translations-the-nightingale-the-valkyrie-and-raven-a": {
+   "source": "bor2-26834",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "The Nightingale, the Valkyrie and Raven, and Other Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 26834 (clean text)"
+  },
+  "borrow-translations-the-return-of-the-dead-and-other-ballads": {
+   "source": "bor2-27407",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "The Return of the Dead, and Other Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 27407 (clean text)"
+  },
+  "borrow-translations-the-story-of-tim": {
+   "source": "bor2-28770",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "The Story of Tim",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 28770 (clean text)"
+  },
+  "borrow-translations-ulf-van-yern-and-other-ballads": {
+   "source": "bor2-27405",
+   "of": "Anonymous (Danish and other ballads; from Borrow's manuscripts)",
+   "work": "Ulf Van Yern, and Other Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 27405 (clean text)"
+  },
+  "borrow-translations-welsh-poems-and-ballads": {
+   "source": "bor2-54851",
+   "of": "Welsh poets (Dafydd ap Gwilym and others)",
+   "work": "Welsh Poems and Ballads",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 54851 (clean text)"
+  },
+  "borrow-translations-wynne-the-sleeping-bard-or-visions-of-the-worl": {
+   "source": "bor2-20634",
+   "of": "Ellis Wynne",
+   "work": "The Sleeping Bard; Or, Visions of the World, Death, and Hell",
+   "translated": "1825-1915 (see the Gutenberg header)",
+   "translator": "George Borrow",
+   "scan_edition": "Project Gutenberg 20634 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-13879": "Ewald's The Death of Balder (Borrow, 1889): Ewald has his own shelf on lane D (ewald_shelf.json); left for its owner."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "bor2-20634": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-2430": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-25468": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26787": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26788": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26789": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26790": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26791": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26792": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26793": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26802": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26803": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26805": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26831": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26832": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26833": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26834": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-27396": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-27405": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-27406": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-27407": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-27408": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-27473": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-27474": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-28770": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-28771": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-28772": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-28774": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-29124": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-29470": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-54851": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Borrow"
+  }
+ },
+ "_verified": {
+  "bor2-20634": {
+   "pg": 20634,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-2430": {
+   "pg": 2430,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-25468": {
+   "pg": 25468,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26787": {
+   "pg": 26787,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26788": {
+   "pg": 26788,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26789": {
+   "pg": 26789,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26790": {
+   "pg": 26790,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26791": {
+   "pg": 26791,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26792": {
+   "pg": 26792,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26793": {
+   "pg": 26793,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26802": {
+   "pg": 26802,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26803": {
+   "pg": 26803,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26805": {
+   "pg": 26805,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26831": {
+   "pg": 26831,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26832": {
+   "pg": 26832,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26833": {
+   "pg": 26833,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-26834": {
+   "pg": 26834,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-27396": {
+   "pg": 27396,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-27405": {
+   "pg": 27405,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-27406": {
+   "pg": 27406,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-27407": {
+   "pg": 27407,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-27408": {
+   "pg": 27408,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-27473": {
+   "pg": 27473,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-27474": {
+   "pg": 27474,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-28770": {
+   "pg": 28770,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-28771": {
+   "pg": 28771,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-28772": {
+   "pg": 28772,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-28774": {
+   "pg": 28774,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-29124": {
+   "pg": 29124,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-29470": {
+   "pg": 29470,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  },
+  "bor2-54851": {
+   "pg": 54851,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Borrow"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

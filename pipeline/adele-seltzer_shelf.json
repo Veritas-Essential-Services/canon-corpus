@@ -1,0 +1,162 @@
+{
+ "_about": "TRANSLATOR SHELF: Adele Szold Seltzer (1876-1940): Hauptmann's Atlantis (1912), Liber's Rashi (1906), Sudermann's Iolanthe's Wedding (1918), Magdeleine Marx's Woman (1920) and Bonsels's The Adventures of Maya the Bee (1922, verses by Arthur Guiterman). Her husband Thomas Seltzer's translations are on seltzer_shelf.json. US public domain. Added 2026-10-10 by lane C (round 35); Adam may veto. No uids minted.",
+ "_name_words": [
+  "adele szold seltzer",
+  "adele seltzer",
+  "a. s. seltzer",
+  "adele szold"
+ ],
+ "_surname": [
+  "adele szold seltzer",
+  "adele seltzer",
+  "a. s. seltzer",
+  "adele szold"
+ ],
+ "_surname_note": "Full name only: 'seltzer' alone would match Thomas Seltzer, her husband and publisher.",
+ "ccel": {},
+ "gutenberg": {
+  "asz-17241": [
+   17241,
+   "Atlantis"
+  ],
+  "asz-22354": [
+   22354,
+   "The Adventures of Maya the Bee"
+  ],
+  "asz-3165": [
+   3165,
+   "Rashi"
+  ],
+  "asz-33943": [
+   33943,
+   "Woman"
+  ],
+  "asz-34358": [
+   34358,
+   "Iolanthe's Wedding"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "adele-seltzer-bonsels-the-adventures-of-maya-the-bee": {
+   "source": "asz-22354",
+   "of": "Waldemar Bonsels",
+   "work": "The Adventures of Maya the Bee",
+   "translated": "1922",
+   "translator": "Adele Szold Seltzer (verses by Arthur Guiterman)",
+   "scan_edition": "Project Gutenberg 22354 (clean text)"
+  },
+  "adele-seltzer-hauptmann-atlantis": {
+   "source": "asz-17241",
+   "of": "Gerhart Hauptmann",
+   "work": "Atlantis",
+   "translated": "1912",
+   "translator": "Adele Szold Seltzer",
+   "scan_edition": "Project Gutenberg 17241 (clean text)"
+  },
+  "adele-seltzer-liber-rashi": {
+   "source": "asz-3165",
+   "of": "Maurice Liber",
+   "work": "Rashi",
+   "translated": "1906",
+   "translator": "Adele Szold Seltzer",
+   "scan_edition": "Project Gutenberg 3165 (clean text)",
+   "note": "Credited to 'Adele Szold' on the 1906 title page, before her marriage."
+  },
+  "adele-seltzer-magdeleine-marx-woman": {
+   "source": "asz-33943",
+   "of": "Magdeleine Marx",
+   "work": "Woman",
+   "translated": "1920",
+   "translator": "Adele Szold Seltzer",
+   "scan_edition": "Project Gutenberg 33943 (clean text)"
+  },
+  "adele-seltzer-sudermann-iolanthes-wedding": {
+   "source": "asz-34358",
+   "of": "Hermann Sudermann",
+   "work": "Iolanthe's Wedding",
+   "translated": "1918",
+   "translator": "Adele Szold Seltzer",
+   "scan_edition": "Project Gutenberg 34358 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "asz-17241": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adele szold seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Adele Szold Seltzer; Thomas Seltzer"
+  },
+  "asz-22354": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adele szold seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Guiterman; Adele Szold Seltzer"
+  },
+  "asz-3165": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adele szold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "asz-33943": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adele szold seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Adele Szold Seltzer"
+  },
+  "asz-34358": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adele szold seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Adele Szold Seltzer"
+  }
+ },
+ "_verified": {
+  "asz-17241": {
+   "pg": 17241,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Adele Szold Seltzer"
+  },
+  "asz-22354": {
+   "pg": 22354,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Guiterman"
+  },
+  "asz-3165": {
+   "pg": 3165,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": false
+  },
+  "asz-33943": {
+   "pg": 33943,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Adele Szold Seltzer"
+  },
+  "asz-34358": {
+   "pg": 34358,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Adele Szold Seltzer"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

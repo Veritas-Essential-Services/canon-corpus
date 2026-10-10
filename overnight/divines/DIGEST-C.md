@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T12:41-05:00: 276 shelves, 1319 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5; 27 (eleven shelves): 57; 28 (twelve shelves): 41; 29 (seventeen shelves): 51; 30 (seventeen shelves): 56; 31 (twenty-five shelves): 48; 32 (thirty shelves): 66; 33 (thirty-six shelves): 72; 34 (six shelves): 32. **15 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T12:59-05:00: 280 shelves, 1389 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5; 27 (eleven shelves): 57; 28 (twelve shelves): 41; 29 (seventeen shelves): 51; 30 (seventeen shelves): 56; 31 (twenty-five shelves): 48; 32 (thirty shelves): 66; 33 (thirty-six shelves): 72; 34 (six shelves): 32; 35 (gap audit: four new shelves 46, plus 24 on seven older shelves): 70. **15 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -535,3 +535,28 @@ This round took the large translations that the rank of smaller translators kept
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Flag (the facsimile question again):** the Yoga-Vasishtha was scanned from modern Indian photo-reprints (Delhi, 1978 and 1999) of the 1890s Calcutta edition. The words are the 1890s text, but the copy is a facsimile. It is the same question as Whishaw's *Injury and Insult* and Stanley's Barbosa.
+
+## Round 35: gap audit of older shelves, and four new translators (2026-10-10)
+
+70 titles, all from Gutenberg, with the translator line read in every header:
+
+**Part 1: titles missing from shelves this lane already had.** A sweep of the Gutenberg catalogue found 24 titles by translators already shelved here that had never been added or ruled out:
+
+- **`curtin`** (+8): Sienkiewicz's *Children of the Soil*, *Hania*, *In Vain*, *Let Us Follow Him*, *Life and Death* and *Lillian Morris*, Prus's *The Pharaoh and the Priest*, and Orzeszkowa's *The Argonauts*. A second transcription of the Prus is left out.
+- **`hapgood`** (+6): Hugo's *Notre-Dame de Paris*, Leskov's *The Steel Flea*, and four Tolstoy titles, including *Sevastopol*. That one was in `_pending` as "not on Gutenberg in her version" and is there now. A duplicate *What to Do?* is left out.
+- **`wormeley`** (+4): Balzac's *The Chouans*, *César Birotteau*, *Pierrette* and *An Historical Mystery*.
+- **`clara-bell`** (+3): Balzac's *A Man of Business*, Schubin's *Our Own Set*, and van Eeden's *Little Johannes*.
+- **`levy-nietzsche`** (+2): *Thoughts Out of Season* I (Ludovici) and vol. 3, *The Future of our Educational Institutions* (Kennedy). Both were on the shelf's missing-volumes list. Five part-files and duplicate files are recorded as excluded.
+- **`payne`** (+1): *Alaeddin and the Enchanted Lamp*. His *Thousand Nights* stays a pending decision for you (Gutenberg has only 4 of the 9 volumes).
+- **`burton`**: the *Kama Sutra* (Burton and Bhide) is recorded as left off by judgment, like the Pauls' sexology titles.
+
+**Part 2: four new shelves (46 titles).**
+
+- **`rasmus-anderson`** (8): Bjørnson's *Arne*, *A Happy Boy* and *Magnhild*, Rydberg's *Teutonic Mythology* (3 volumes), Brandes's *Eminent Authors*, and Lumholtz's *Among Cannibals*. His *Younger Edda* is already on the `sturluson` shelf.
+- **`archer-other`** (2): Nansen's *Eskimo Life* and Kielland's *Tales of Two Countries*.
+- **`borrow-translations`** (31): *Romantic Ballads from the Danish* (1826), *The Sleeping Bard*, Klinger's *Faustus*, Oehlenschläger's *The Gold Horns*, *Welsh Poems and Ballads*, Borrow's Romani *Gospel of Luke* (*Embeo e Majaro Lucas*), and 24 ballad and tale pamphlets from his manuscripts that T. J. Wise printed in 1913-14. Wise is the bibliographer later exposed for forging "first editions". These pamphlets are genuine Borrow texts, but the editions are Wise's. Lane D's `borrow` shelf keeps the *Turkish Jester*. Ewald's *The Death of Balder* is left for Lane D's `ewald` shelf.
+- **`adele-seltzer`** (5): Hauptmann's *Atlantis*, Liber's *Rashi* (credited to "Adele Szold", 1906), Sudermann's *Iolanthe's Wedding*, Magdeleine Marx's *Woman*, and *The Adventures of Maya the Bee*. Her husband Thomas Seltzer's shelf now records these five as hers.
+
+Not added: Ludovici's van Gogh letters (Gutenberg has no text file for it).
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.

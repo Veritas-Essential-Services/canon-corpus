@@ -180,10 +180,31 @@
   "cla-5466": [
    5466,
    "The Sisters"
+  ],
+  "cla-1813": [
+   1813,
+   "A Man of Business"
+  ],
+  "cla-35673": [
+   35673,
+   "Our Own Set"
+  ],
+  "cla-40656": [
+   40656,
+   "Little Johannes"
   ]
  },
  "internet_archive": {},
  "titles": {
+  "clara-bell-balzac-a-man-of-business": {
+   "source": "cla-1813",
+   "of": "Honoré de Balzac",
+   "work": "A Man of Business",
+   "translated": "1890s (Dent)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1813 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
   "clara-bell-balzac-a-prince-of-bohemia": {
    "source": "cla-1812",
    "of": "Honoré de Balzac",
@@ -520,6 +541,15 @@
    "translator": "Clara Bell",
    "scan_edition": "Project Gutenberg 3804 (clean text)"
   },
+  "clara-bell-schubin-our-own-set": {
+   "source": "cla-35673",
+   "of": "Ossip Schubin",
+   "work": "Our Own Set",
+   "translated": "1884",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 35673 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
   "clara-bell-vald-froth-a-novel": {
    "source": "cla-38411",
    "of": "Armando Palacio Valdé",
@@ -527,6 +557,15 @@
    "translated": "before 1931 (see the Gutenberg header)",
    "translator": "Clara Bell",
    "scan_edition": "Project Gutenberg 38411 (clean text)"
+  },
+  "clara-bell-van-eeden-little-johannes": {
+   "source": "cla-40656",
+   "of": "Frederik van Eeden",
+   "work": "Little Johannes",
+   "translated": "1895",
+   "translator": "Clara Bell (introduction by Andrew Lang)",
+   "scan_edition": "Project Gutenberg 40656 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
   }
  },
  "_pending": {},
@@ -923,6 +962,33 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Clara Bell"
+  },
+  "cla-1813": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-35673": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-40656": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
   }
  },
  "_verified": {
@@ -1138,6 +1204,21 @@
   },
   "cla-5466": {
    "pg": 5466,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1813": {
+   "pg": 1813,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-35673": {
+   "pg": 35673,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-40656": {
+   "pg": 40656,
    "pg_copyrighted_marker": false,
    "pg_translator": "Clara Bell"
   }

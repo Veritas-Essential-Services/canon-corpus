@@ -32,14 +32,6 @@
  },
  "internet_archive": {},
  "titles": {
-  "seltzer-gorky-the-spy": {
-   "source": "sel-51094",
-   "of": "Gorky",
-   "work": "The Spy: The Story of a Superfluous Man",
-   "translated": 1908,
-   "translator": "Thomas Seltzer",
-   "scan_edition": "Project Gutenberg 51094 (clean text)"
-  },
   "seltzer-andreyev-savva-and-life-of-man": {
    "source": "sel-13147",
    "of": "Andreyev",
@@ -56,13 +48,13 @@
    "translator": "Thomas Seltzer",
    "scan_edition": "Project Gutenberg 3735 (clean text)"
   },
-  "seltzer-sudermann-song-of-songs": {
-   "source": "sel-34791",
-   "of": "Sudermann",
-   "work": "The Song of Songs",
-   "translated": 1909,
+  "seltzer-gorky-the-spy": {
+   "source": "sel-51094",
+   "of": "Gorky",
+   "work": "The Spy: The Story of a Superfluous Man",
+   "translated": 1908,
    "translator": "Thomas Seltzer",
-   "scan_edition": "Project Gutenberg 34791 (clean text); the fourteenth printing, December 1926"
+   "scan_edition": "Project Gutenberg 51094 (clean text)"
   },
   "seltzer-ostwald-natural-philosophy": {
    "source": "sel-43791",
@@ -71,13 +63,25 @@
    "translated": 1910,
    "translator": "Thomas Seltzer",
    "scan_edition": "Project Gutenberg 43791 (clean text)"
+  },
+  "seltzer-sudermann-song-of-songs": {
+   "source": "sel-34791",
+   "of": "Sudermann",
+   "work": "The Song of Songs",
+   "translated": 1909,
+   "translator": "Thomas Seltzer",
+   "scan_edition": "Project Gutenberg 34791 (clean text); the fourteenth printing, December 1926"
   }
  },
  "_pending": {},
  "_excluded": {
   "pg-13437": "Best Russian Short Stories (1917): an anthology Seltzer edited, with many translators.",
-  "pg-17241": "Atlantis: Adele Szold Seltzer's translation.",
-  "pg-62880": "The Glebe magazine issue: a periodical."
+  "pg-17241": "Atlantis: Adele Szold Seltzer's translation; it is on adele-seltzer_shelf.json (round 35).",
+  "pg-62880": "The Glebe magazine issue: a periodical.",
+  "pg-3165": "Rashi: Adele Szold Seltzer's translation; it is on adele-seltzer_shelf.json (round 35).",
+  "pg-22354": "The Adventures of Maya the Bee: Adele Szold Seltzer's translation; it is on adele-seltzer_shelf.json (round 35).",
+  "pg-33943": "Woman: Adele Szold Seltzer's translation; it is on adele-seltzer_shelf.json (round 35).",
+  "pg-34358": "Iolanthe's Wedding: Adele Szold Seltzer's translation; it is on adele-seltzer_shelf.json (round 35)."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
