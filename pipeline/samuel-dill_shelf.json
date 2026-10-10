@@ -1,0 +1,29 @@
+{
+ "_about": "Sir Samuel Dill (1844-1924). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Roman Society from Nero to Marcus Aurelius, clean Gutenberg. No uids minted.",
+ "_name_words": [
+  "dill"
+ ],
+ "_surname": [
+  "samuel dill",
+  "dill, samuel"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dill-roman-society-nero-marcus-aurelius": [
+   34122,
+   "Roman Society from Nero to Marcus Aurelius"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "dill-roman-society-nero-marcus-aurelius": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "samuel dill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

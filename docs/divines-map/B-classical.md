@@ -2603,6 +2603,7 @@ Shelf: `pipeline/samuel-dill_shelf.json`. Sir Samuel Dill (1844-1924): 1 clean G
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Roman Society from Nero to Marcus Aurelius |  | `dill-roman-society-nero-marcus-aurelius` | have (PG 34122) |
 
 ## J. P. Mahaffy (scholarship)
 
