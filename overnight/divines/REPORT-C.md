@@ -159,3 +159,5 @@
 - 2026-10-10T13:53-05:00: round 40: singles-medieval-epic (27), singles-ideas (26), singles-literature (40). --verify --record 0 mismatched. New single-translation shelf form (_surname_by_slug per title). Flags: Hypnerotomachia 1969 facsimile; Underdogs post-1952 printing. _pending: Hilbert, Dedekind, Ramus.
 
 - 2026-10-10T14:21-05:00: round 41: singles-history-travel (44), singles-science-craft (39), singles-ideas-2 (41). --verify --record 0 mismatched. Flags: De Re Metallica Dover 1950; Durkheim 1964 impression. _pending: six PDF-only physics/maths books.
+
+- 2026-10-10T14:40-05:00: round 42: singles-continental-fiction (64), singles-verse-drama-tales (32). --verify --record 0 mismatched. No late printings found in the year check. Left for owners: Lagerlöf's From a Swedish Homestead (lagerlof, Lane D) and two Tudor Erasmus translations (erasmus shelf).

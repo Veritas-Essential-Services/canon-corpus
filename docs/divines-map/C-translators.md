@@ -5269,6 +5269,118 @@ Round 41 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `singles-ideas-2-stendhal-on-love` | Stendhal | On Love | Cecil N. Sidney Woolf and Philip Sidney Woolf | (see the Gutenberg header) | have | PG 53720 |
 | `singles-ideas-2-trotsky-our-revolution` | Leon Trotsky | Our Revolution: Essays on Working-Class and International Revolution, 1904-1917 | Moissaye J. Olgin | (see the Gutenberg header) | have | PG 36303 |
 
+## One-off translations: nineteenth-century continental fiction (Auerbach, Heyse, Spielhagen, E. Werner, Jókai, Bjørnson, De Coster, Mann's Royal Highness, Hugo, Laclos, Gourmont)
+
+Shelf: `pipeline/singles-continental-fiction_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-continental-fiction` · titles `python3 pipeline/split_shelf_titles.py singles-continental-fiction`.
+Round 42 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-continental-fiction-aimard-the-missouri-outlaws` | Gustave Aimard | The Missouri Outlaws | Percy B. St. John | (see the Gutenberg header) | have | PG 44574 |
+| `singles-continental-fiction-auerbach-black-forest-village-stories` | Berthold Auerbach | Black Forest Village Stories | Charles Goepp | (see the Gutenberg header) | have | PG 32517 |
+| `singles-continental-fiction-auerbach-landolin` | Berthold Auerbach | Landolin | Annie B. Irish | (see the Gutenberg header) | have | PG 33008 |
+| `singles-continental-fiction-auerbach-villa-eden` | Berthold Auerbach | Villa Eden: The Country-House on the Rhine | Charles C. Shackford | (see the Gutenberg header) | have | PG 32902 |
+| `singles-continental-fiction-bazan-the-mystery-of-the-lost-dauphin-louis-xv` | Emilia Pardo Bazán | The Mystery of the Lost Dauphin (Louis XVII) | Annabel Hord Seeger | (see the Gutenberg header) | have | PG 41509 |
+| `singles-continental-fiction-bergerac-a-voyage-to-the-moon` | Cyrano de Bergerac | A Voyage to the Moon | Archibald Lovell | (see the Gutenberg header) | have | PG 46547 |
+| `singles-continental-fiction-bjornson-arne` | Bjørnstjerne Bjørnson | Arne: A Sketch of Norwegian Country Life | Augusta Plesner and Susan Rugeley-Powers | (see the Gutenberg header) | have | PG 35246 |
+| `singles-continental-fiction-bjornson-in-god-s-way` | Bjørnstjerne Bjørnson | In God's Way: A Novel | Elizabeth Carmichael | (see the Gutenberg header) | have | PG 37726 |
+| `singles-continental-fiction-brouwer-akbar` | P. A. S. van Limburg Brouwer | Akbar: An Eastern Romance | M. M. | (see the Gutenberg header) | have | PG 40155 |
+| `singles-continental-fiction-coster-flemish-legends` | Charles de Coster | Flemish Legends | Harold Taylor | (see the Gutenberg header) | have | PG 37668 |
+| `singles-continental-fiction-coster-the-legend-of-the-glorious-adventures-of` | Charles de Coster | The Legend of the Glorious Adventures of Tyl Ulenspiegel in the land of Flanders and elsewhere | Geoffrey Arundel Whitworth | (see the Gutenberg header) | have | PG 37599 |
+| `singles-continental-fiction-couperus-psyche` | Louis Couperus | Psyche | Benjamin Shepherd Berrington | (see the Gutenberg header) | have | PG 38005 |
+| `singles-continental-fiction-dahn-saga-of-halfred-the-sigskald` | Felix Dahn | Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century | Sophie F. F. Veitch | (see the Gutenberg header) | have | PG 32443 |
+| `singles-continental-fiction-dumas-the-prussian-terror` | Alexandre Dumas | The Prussian Terror | R. S. Garnett | (see the Gutenberg header) | have | PG 36016 |
+| `singles-continental-fiction-eeden-the-quest-the-authorized-translation-fro` | Frederik van Eeden | The Quest The authorized translation from the Dutch of De kleine Johannes | Laura Ward Cole | (see the Gutenberg header) | have | PG 40657 |
+| `singles-continental-fiction-filon-garrick-s-pupil` | Augustin Filon | Garrick's Pupil | J. V. Prichard | (see the Gutenberg header) | have | PG 35023 |
+| `singles-continental-fiction-franzos-judith-trachtenberg` | Karl Emil Franzos | Judith Trachtenberg: A Novel | Charlton Thomas Lewis and L. P. Lewis | (see the Gutenberg header) | have | PG 36937 |
+| `singles-continental-fiction-franzos-the-chief-justice` | Karl Emil Franzos | The Chief Justice: A Novel | Miles Corbet | (see the Gutenberg header) | have | PG 36854 |
+| `singles-continental-fiction-gerstacker-the-wanderings-and-fortunes-of-some-germ` | Friedrich Gerstäcker | The wanderings and fortunes of some German emigrants | David Black | (see the Gutenberg header) | have | PG 42672 |
+| `singles-continental-fiction-gourmont-a-virgin-heart` | Remy de Gourmont | A Virgin Heart: A Novel | Aldous Huxley | (see the Gutenberg header) | have | PG 44384 |
+| `singles-continental-fiction-gourmont-very-woman-sixtine` | Remy de Gourmont | Very woman (Sixtine) | J. L. Barrets | (see the Gutenberg header) | have | PG 45920 |
+| `singles-continental-fiction-guerrazzi-isabella-orsini` | Francesco Domenico Guerrazzi | Isabella Orsini: A Historical Novel of the Fifteenth Century | Luigi Monti | (see the Gutenberg header) | have | PG 46967 |
+| `singles-continental-fiction-harting-anno-domini-2071-translated-from-the-dut` | Pieter Harting | Anno Domini 2071 Translated from the Dutch Original | Alexander V. W. Bikkers | (see the Gutenberg header) | have | PG 45350 |
+| `singles-continental-fiction-hausrath-klytia` | Adolf Hausrath | Klytia: A Story of Heidelberg Castle | Sutton Fraser Corkran | (see the Gutenberg header) | have | PG 33133 |
+| `singles-continental-fiction-heimburg-gertrude-s-marriage` | W. Heimburg | Gertrude's Marriage | J. W. Davis | (see the Gutenberg header) | have | PG 32442 |
+| `singles-continental-fiction-heyse-a-divided-heart-and-other-stories` | Paul Heyse | A divided heart, and other stories | Constance Stewart Copeland | (see the Gutenberg header) | have | PG 34102 |
+| `singles-continental-fiction-heyse-at-the-ghost-hour-the-house-of-the-unbel` | Paul Heyse | At the Ghost Hour. The House of the Unbelieving Thomas | Frances A. Van Santford | (see the Gutenberg header) | have | PG 33878 |
+| `singles-continental-fiction-heyse-barbarossa-and-other-tales` | Paul Heyse | Barbarossa, and Other Tales | L. C. S. | (see the Gutenberg header) | have | PG 33789 |
+| `singles-continental-fiction-heyse-four-phases-of-love` | Paul Heyse | Four Phases of Love | G. H. Kingsley | (see the Gutenberg header) | have | PG 34104 |
+| `singles-continental-fiction-hugo-toilers-of-the-sea` | Victor Hugo | Toilers of the sea | W. Moy Thomas | (see the Gutenberg header) | have | PG 32338 |
+| `singles-continental-fiction-ibanez-the-cabin-la-barraca` | Vicente Blasco Ibáñez | The Cabin [La barraca] | Beatrice M. Mekota and Francis Haffkine Snow | (see the Gutenberg header) | have | PG 38165 |
+| `singles-continental-fiction-ibanez-the-enemies-of-women-los-enemigos-de-la` | Vicente Blasco Ibáñez | The Enemies of Women (Los enemigos de la mujer) | Irving Brown | (see the Gutenberg header) | have | PG 38458 |
+| `singles-continental-fiction-ingemann-the-childhood-of-king-erik-menved` | Bernhard Severin Ingemann | The Childhood of King Erik Menved: An Historical Romance | John Kesson | (see the Gutenberg header) | have | PG 36626 |
+| `singles-continental-fiction-jokai-black-diamonds` | Mór Jókai | Black Diamonds: A Novel | Frances A. Gerard | (see the Gutenberg header) | have | PG 32668 |
+| `singles-continental-fiction-jokai-in-love-with-the-czarina-and-other-stori` | Mór Jókai | In Love With the Czarina, and Other Stories | Louis Felbermann | (see the Gutenberg header) | have | PG 34574 |
+| `singles-continental-fiction-jokai-the-strange-story-of-rab-raby` | Mór Jókai | The Strange Story of Rab Ráby | Emil Reich | (see the Gutenberg header) | have | PG 36739 |
+| `singles-continental-fiction-jokai-the-yellow-rose` | Mór Jókai | The yellow rose | Beatrice Danford | (see the Gutenberg header) | have | PG 34911 |
+| `singles-continental-fiction-keller-seven-legends` | Gottfried Keller | Seven Legends | Martin Wyness | (see the Gutenberg header) | have | PG 34504 |
+| `singles-continental-fiction-kock-the-barber-of-paris` | Paul de Kock | The Barber of Paris | Edith Mary Norris | (see the Gutenberg header) | have | PG 37453 |
+| `singles-continental-fiction-kohn-gabriel` | S. Kohn | Gabriel: A Story of the Jews in Prague | Arthur Milman | (see the Gutenberg header) | have | PG 36855 |
+| `singles-continental-fiction-kraszewski-the-jew` | Józef Ignacy Kraszewski | The Jew | Linda Da Kowalewska | (see the Gutenberg header) | have | PG 37621 |
+| `singles-continental-fiction-laclos-dangerous-connections-v-1-2-3-4-a-series` | Choderlos de Laclos | Dangerous Connections, v. 1, 2, 3, 4 A Series of Letters, selected from the Correspondence of a Private Circle; and Published for the Instruction of Society. | Thomas Moore | (see the Gutenberg header) | have | PG 45512 |
+| `singles-continental-fiction-leblanc-arsene-lupin-versus-herlock-sholmes` | Maurice Leblanc | Arsène Lupin versus Herlock Sholmes | George Morehead | (see the Gutenberg header) | have | PG 40203 |
+| `singles-continental-fiction-mamin-siberiak-verotchka-s-tales` | D. N. Mamin-Siberiak | Verotchka's Tales | Ray Davidson | (see the Gutenberg header) | have | PG 35036 |
+| `singles-continental-fiction-mann-royal-highness` | Thomas Mann | Royal Highness | A. Cecil Curtis | (see the Gutenberg header) | have | PG 36028 |
+| `singles-continental-fiction-mary-lafon-jaufry-the-knight-and-the-fair-brunissen` | Jean Bernard Lafon Mary-Lafon | Jaufry the Knight and the Fair Brunissende: A Tale of the Times of King Arthur | Alfred Elwes | (see the Gutenberg header) | have | PG 44433 |
+| `singles-continental-fiction-patot-the-travels-and-adventures-of-james-mass` | Simon Tyssot de Patot | The Travels and Adventures of James Massey | Stephen Whatley | (see the Gutenberg header) | have | PG 37400 |
+| `singles-continental-fiction-quatrelles-the-days-of-chivalry` | Quatrelles | The Days of Chivalry; Or, The Legend of Croquemitaine | Tom Hood | (see the Gutenberg header) | have | PG 44428 |
+| `singles-continental-fiction-reuter-in-the-year-13` | Fritz Reuter | In the Year '13: A Tale of Mecklenburg Life | Charles Lee Lewes | (see the Gutenberg header) | have | PG 35852 |
+| `singles-continental-fiction-schubin-blanche` | Ossip Schubin | Blanche: The Maid of Lille | Sarah Holland Adams | (see the Gutenberg header) | have | PG 35385 |
+| `singles-continental-fiction-schubin-gloria-victis-a-romance` | Ossip Schubin | 'Gloria Victis!' A Romance | Mary Maxwell | (see the Gutenberg header) | have | PG 35672 |
+| `singles-continental-fiction-schubin-the-story-of-a-genius` | Ossip Schubin | The Story of a Genius | E. H. Lockwood | (see the Gutenberg header) | have | PG 35590 |
+| `singles-continental-fiction-sparre-the-black-tortoise` | Christian Sparre | The Black Tortoise: Being the Strange Story of Old Frick's Diamond | Gertrude Hughes Brækstad | (see the Gutenberg header) | have | PG 46006 |
+| `singles-continental-fiction-spielhagen-hammer-and-anvil` | Friedrich Spielhagen | Hammer and Anvil: A Novel | William Hand Browne | (see the Gutenberg header) | have | PG 34868 |
+| `singles-continental-fiction-spielhagen-quisisana` | Friedrich Spielhagen | Quisisana; or, Rest at Last | H. E. Goldschmidt | (see the Gutenberg header) | have | PG 34764 |
+| `singles-continental-fiction-spielhagen-the-german-pioneers` | Friedrich Spielhagen | The German Pioneers: A Tale of the Mohawk | Levi Sternberg | (see the Gutenberg header) | have | PG 34583 |
+| `singles-continental-fiction-strindberg-on-the-seaboard` | August Strindberg | On the Seaboard: A Novel of the Baltic Islands | Elizabeth Clarke Westergren | (see the Gutenberg header) | have | PG 44184 |
+| `singles-continental-fiction-sudermann-the-wish` | Hermann Sudermann | The Wish: A Novel | Lily Henkel | (see the Gutenberg header) | have | PG 33886 |
+| `singles-continental-fiction-trueba-the-cid-campeador` | Antonio de Trueba | The Cid Campeador: A Historical Romance | Henry Joseph Gill | (see the Gutenberg header) | have | PG 41990 |
+| `singles-continental-fiction-turgenev-annouchka` | Ivan Sergeevich Turgenev | Annouchka: A Tale | Franklin Pierce Abbott | (see the Gutenberg header) | have | PG 39427 |
+| `singles-continental-fiction-vanderem-two-banks-of-the-seine-les-deux-rives` | Fernand Vandérem | Two banks of the Seine (Les Deux Rives) | George Raffalovich | (see the Gutenberg header) | have | PG 45857 |
+| `singles-continental-fiction-werner-hermann` | E. Werner | Hermann: A Novel | Helen Keer Brown | (see the Gutenberg header) | have | PG 35142 |
+| `singles-continental-fiction-werner-partners` | E. Werner | Partners: A Novel. | H. G. Godwin | (see the Gutenberg header) | have | PG 35135 |
+| `singles-continental-fiction-werner-the-sign-of-flame` | E. Werner | The Sign of Flame | Eva Freeman Hart and E. Van Gerpen | (see the Gutenberg header) | have | PG 35069 |
+
+## One-off translations: plays, verse and tale collections (Sudermann's plays incl. Edith Wharton's, Vondel's Lucifer, Cyrano, Salomé, the Noh, Baudelaire, Christine de Pisan, Kathá Sarit Ságara, Kādambarī, Old Celtic Romances)
+
+Shelf: `pipeline/singles-verse-drama-tales_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-verse-drama-tales` · titles `python3 pipeline/split_shelf_titles.py singles-verse-drama-tales`.
+Round 42 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-verse-drama-tales-alighieri-the-divine-comedy-of-dante-alighieri` | Dante Alighieri | The Divine Comedy of Dante Alighieri: The Inferno | James Romanes Sibbald | (see the Gutenberg header) | have | PG 41537 |
+| `singles-verse-drama-tales-anon-chinese-mother-goose-rhymes` | traditional Chinese nursery rhymes | Chinese Mother Goose Rhymes | Isaac Taylor Headland | (see the Gutenberg header) | have | PG 40425 |
+| `singles-verse-drama-tales-anon-martha` | Friedrich von Flotow (music) and W. Friedrich (libretto) | Martha; or, The Fair at Richmond | M. Louise Baum | (see the Gutenberg header) | have | PG 38597 |
+| `singles-verse-drama-tales-anon-old-celtic-romances` | anonymous Old Irish tales | Old Celtic Romances | P. W. Joyce | (see the Gutenberg header) | have | PG 38041 |
+| `singles-verse-drama-tales-anon-plays-of-old-japan` | Zeami and other Noh playwrights | Plays of Old Japan: The 'No' | Marie Carmichael Stopes and Joji Sakurai | (see the Gutenberg header) | have | PG 44092 |
+| `singles-verse-drama-tales-anon-roumanian-stories-translated-from-the-or` | various Romanian authors | Roumanian Stories, Translated from the Original Roumanian | Lucy Byng | (see the Gutenberg header) | have | PG 38991 |
+| `singles-verse-drama-tales-anon-tales-from-the-old-french` | anonymous Old French tales | Tales from the Old French | Isabel Butler | (see the Gutenberg header) | have | PG 36658 |
+| `singles-verse-drama-tales-anon-zanzibar-tales` | Swahili oral tales | Zanzibar Tales: Told by Natives of the East Coast of Africa | George W. Bateman | (see the Gutenberg header) | have | PG 37472 |
+| `singles-verse-drama-tales-aryasura-the-gatakamala` | Aryasura | The Gâtakamâlâ; Or, Garland of Birth-Stories | J. S. Speyer | (see the Gutenberg header) | have | PG 46984 |
+| `singles-verse-drama-tales-bana-the-kadambari-of-bana` | Bāṇa and Bhūṣaṇabhaṭṭa | The Kādambarī of Bāṇa | C. M. Ridding | (see the Gutenberg header) | have | PG 41128 |
+| `singles-verse-drama-tales-baudelaire-the-flowers-of-evil` | Charles Baudelaire | The Flowers of Evil | Cyril Scott | (see the Gutenberg header) | have | PG 36098 |
+| `singles-verse-drama-tales-bhatta-the-katha-sarit-sagara` | Somadeva Bhatta | The Kathá Sarit Ságara; or, Ocean of the Streams of Story | C. H. Tawney | (see the Gutenberg header) | have | PG 40588 |
+| `singles-verse-drama-tales-christine-the-book-of-the-duke-of-true-lovers` | Christine de Pisan | The Book of the Duke of True Lovers | Laurence Binyon and Eric Robert Dalrymple Maclagan | (see the Gutenberg header) | have | PG 36737 |
+| `singles-verse-drama-tales-gosvami-chaitanya-s-life-and-teachings-from-his` | Kṛṣṇadāsa Kavirāja Gosvāmi | Chaitanya's Life And Teachings From his contemporary Begali biography the Chaitanya-charit-amrita | Jadunath Sarkar | (see the Gutenberg header) | have | PG 38016 |
+| `singles-verse-drama-tales-gul-bat-caucasian-legends` | Abraam Abraamovich Gul'bat | Caucasian Legends | Sergiei Veselitskii-Bozhidarovich | (see the Gutenberg header) | have | PG 35577 |
+| `singles-verse-drama-tales-heijermans-the-ghetto` | Herman Heijermans | The Ghetto: A Drama in Four Acts | Chester Bailey Fernald | (see the Gutenberg header) | have | PG 36307 |
+| `singles-verse-drama-tales-holberg-jeppe-on-the-hill` | Ludvig Holberg | Jeppe on the Hill; Or, The Transformed Peasant: A Comedy in Five Acts | Martin B. Ruud and Waldemar Westergaard | (see the Gutenberg header) | have | PG 42022 |
+| `singles-verse-drama-tales-iriarte-literary-fables-of-yriarte` | Tomás de Iriarte | Literary Fables of Yriarte | George H. Devereux | (see the Gutenberg header) | have | PG 39640 |
+| `singles-verse-drama-tales-lloyd-aw-aw-tam-indian-nights` | Comalk-Hawk-Kih (as told to J. Wm. Lloyd) | Aw-Aw-Tam Indian Nights: Being the Myths and Legends of the Pimas of Arizona | Edward Hubert Wood | (see the Gutenberg header) | have | PG 38064 |
+| `singles-verse-drama-tales-llull-the-buke-of-the-order-of-knyghthood-tran` | Ramon Llull | The Buke of the Order of Knyghthood Translated from the French by Sir Gilbert Hay, Knight | Gilbert Hay | (see the Gutenberg header) | have | PG 43365 |
+| `singles-verse-drama-tales-quevedo-the-visions-of-dom-francisco-de-quevedo` | Francisco de Quevedo | The Visions of Dom Francisco de Quevedo Villegas | Roger L'Estrange | (see the Gutenberg header) | have | PG 41908 |
+| `singles-verse-drama-tales-quevedo-the-visions-of-quevedo` | Francisco de Quevedo | The Visions of Quevedo | William Elliot | (see the Gutenberg header) | have | PG 41950 |
+| `singles-verse-drama-tales-rostand-cyrano-de-bergerac` | Edmond Rostand | Cyrano de Bergerac: An Heroic Comedy in Five Acts | Charles Renauld | (see the Gutenberg header) | have | PG 41949 |
+| `singles-verse-drama-tales-sudermann-fires-of-st-john` | Hermann Sudermann | Fires of St. John: A Drama in Four Acts | Charles Swickard | (see the Gutenberg header) | have | PG 34356 |
+| `singles-verse-drama-tales-sudermann-honor` | Hermann Sudermann | Honor: A Play in Four Acts | Hilmar R. Baukhage | (see the Gutenberg header) | have | PG 34357 |
+| `singles-verse-drama-tales-sudermann-magda` | Hermann Sudermann | Magda: A Play in Four Acts | Charles Edward Amory Winslow | (see the Gutenberg header) | have | PG 34184 |
+| `singles-verse-drama-tales-sudermann-morituri` | Hermann Sudermann | Morituri: Three One-Act Plays Teja—Fritzchen—The Eternal Masculine | Archibald Alexander | (see the Gutenberg header) | have | PG 34359 |
+| `singles-verse-drama-tales-sudermann-roses` | Hermann Sudermann | Roses: Four One-Act Plays Streaks of Light—The Last Visit—Margot—The Far-away Princess | Grace Frank | (see the Gutenberg header) | have | PG 34360 |
+| `singles-verse-drama-tales-sudermann-the-joy-of-living-es-lebe-das-leben` | Hermann Sudermann | The Joy of Living (Es lebe das Leben): A Play in Five Acts | Edith Wharton | (see the Gutenberg header) | have | PG 34207 |
+| `singles-verse-drama-tales-thakura-vidyapati` | Vidyāpati Thākura | Vidyāpati: Bangīya padābali; songs of the love of Rādhā and Krishna | Ananda K. Coomaraswamy | (see the Gutenberg header) | have | PG 38174 |
+| `singles-verse-drama-tales-vondel-vondel-s-lucifer` | Joost van den Vondel | Vondel's Lucifer | Leonard Charles Van Noppen | (see the Gutenberg header) | have | PG 37659 |
+| `singles-verse-drama-tales-wilde-salome` | Oscar Wilde | Salomé: A Tragedy in One Act | Alfred Bruce Douglas | (see the Gutenberg header) | have | PG 42704 |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
