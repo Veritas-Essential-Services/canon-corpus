@@ -1,0 +1,32 @@
+{
+ "_about": "Phillis Wheatley, Poems on Various Subjects, Religious and Moral (London, 1773). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Phillis Wheatley",
+ "_name_words": [
+  "phillis",
+  "wheatley"
+ ],
+ "_surname": [
+  "phillis wheatley",
+  "wheatley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wheatley-poems": [
+   409,
+   "Poems on Various Subjects, Religious and Moral (1773)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "wheatley-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "phillis wheatley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

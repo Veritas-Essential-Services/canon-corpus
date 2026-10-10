@@ -1,0 +1,56 @@
+{
+ "_about": "Old English prose: King Alfred's version of Boethius done into modern English by W. J. Sedgefield (Oxford, 1900), and Aelfric's Catholic Homilies, part 1, with Thorpe's facing translation (Aelfric Society, 1844). IA scans, raw OCR. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Alfred; Aelfric",
+ "_name_words": [
+  "alfred",
+  "boethius",
+  "aelfric",
+  "thorpe",
+  "sedgefield"
+ ],
+ "_surname": [
+  "sedgefield"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "alfred-boethius-sedgefield-1900": [
+   "KingAlfredsfBoethius",
+   "King Alfred's Version of the Consolations of Boethius, tr. Sedgefield (1900)"
+  ],
+  "aelfric-homilies-thorpe-1": [
+   "sermonescatholic01aelfuoft",
+   "The Homilies of the Anglo-Saxon Church (Sermones Catholici), part 1, ed. Thorpe (1844)"
+  ]
+ },
+ "_excluded": {},
+ "_surname_by_slug": {
+  "aelfric-homilies-thorpe-1": [
+   "thorpe"
+  ]
+ },
+ "_checks": {
+  "alfred-boethius-sedgefield-1900": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sedgefield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aelfric-homilies-thorpe-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thorpe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1844-1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

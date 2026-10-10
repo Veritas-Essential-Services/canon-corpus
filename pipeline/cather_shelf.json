@@ -1,0 +1,31 @@
+{
+ "_about": "Willa Cather's (1873-1947) My Ántonia. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Willa Cather",
+ "_name_words": [
+  "willa",
+  "cather"
+ ],
+ "_surname": [
+  "willa cather"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cather-my-antonia": [
+   242,
+   "My Ántonia (1918)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "cather-my-antonia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "willa cather",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

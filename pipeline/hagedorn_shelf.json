@@ -1,0 +1,33 @@
+{
+ "_about": "Hermann Hagedorn, The Boys' Life of Theodore Roosevelt (Harper, 1918). US public domain; Hagedorn died 1964, so UK copyright runs to 2034. IA (Cornell) scan, raw OCR. Added from the classical reading lists (Classical Conversations' 117 must-read list): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Hermann Hagedorn",
+ "_name_words": [
+  "hermann",
+  "hagedorn"
+ ],
+ "_surname": [
+  "hagedorn"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hagedorn-boys-life-roosevelt-1918": [
+   "cu31924030930022",
+   "The Boys' Life of Theodore Roosevelt (1918)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hagedorn-boys-life-roosevelt-1918": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hagedorn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

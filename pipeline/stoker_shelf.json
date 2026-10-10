@@ -1,0 +1,31 @@
+{
+ "_about": "Bram Stoker's (1847-1912) Dracula. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Bram Stoker",
+ "_name_words": [
+  "bram",
+  "stoker"
+ ],
+ "_surname": [
+  "bram stoker"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "stoker-dracula": [
+   345,
+   "Dracula (1897)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "stoker-dracula": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bram stoker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

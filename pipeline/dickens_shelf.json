@@ -1,0 +1,102 @@
+{
+ "_about": "Charles Dickens's (1812-1870) major novels named on the reading lists, plus Oliver Twist, David Copperfield, Bleak House and Hard Times. The five Christmas books are Lane D's `dickens-christmas` shelf; Little Dorrit is adler_shelf.json `dickens-littledorrit`. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Charles Dickens",
+ "_name_words": [
+  "charles",
+  "dickens"
+ ],
+ "_surname": [
+  "charles dickens"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dickens-tale-of-two-cities": [
+   98,
+   "A Tale of Two Cities (1859)"
+  ],
+  "dickens-great-expectations": [
+   1400,
+   "Great Expectations (1861)",
+   {
+    "chapre": "^Chapter [IVXLC]+\\.\\s*$"
+   }
+  ],
+  "dickens-oliver-twist": [
+   730,
+   "Oliver Twist (1838)"
+  ],
+  "dickens-david-copperfield": [
+   766,
+   "David Copperfield (1850)"
+  ],
+  "dickens-bleak-house": [
+   1023,
+   "Bleak House (1853)"
+  ],
+  "dickens-hard-times": [
+   786,
+   "Hard Times (1854)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "dickens-christmas-books": "HELD elsewhere: Lane D's dickens-christmas shelf",
+  "dickens-little-dorrit": "HELD elsewhere: adler_shelf.json `dickens-littledorrit`"
+ },
+ "_checks": {
+  "dickens-tale-of-two-cities": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-great-expectations": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-oliver-twist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-david-copperfield": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-bleak-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dickens-hard-times": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles dickens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

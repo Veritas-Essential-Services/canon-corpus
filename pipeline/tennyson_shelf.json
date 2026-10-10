@@ -1,0 +1,31 @@
+{
+ "_about": "Tennyson's (1809-1892) Idylls of the King. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Alfred Tennyson",
+ "_name_words": [
+  "alfred",
+  "tennyson"
+ ],
+ "_surname": [
+  "tennyson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tennyson-idylls-of-the-king": [
+   610,
+   "Idylls of the King (1859-1885)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "tennyson-idylls-of-the-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "tennyson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

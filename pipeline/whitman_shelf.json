@@ -1,0 +1,31 @@
+{
+ "_about": "Walt Whitman, Leaves of Grass (the 1891-92 deathbed edition as Gutenberg gives it). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Walt Whitman",
+ "_name_words": [
+  "walt",
+  "whitman"
+ ],
+ "_surname": [
+  "whitman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "whitman-leaves-of-grass": [
+   1322,
+   "Leaves of Grass (1891-92)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "whitman-leaves-of-grass": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "whitman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

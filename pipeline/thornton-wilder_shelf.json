@@ -1,0 +1,31 @@
+{
+ "_about": "Thornton Wilder, The Bridge of San Luis Rey (1927). US public domain since 2023; Wilder died 1975, so UK copyright runs to 2045. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Thornton Wilder",
+ "_name_words": [
+  "thornton",
+  "wilder"
+ ],
+ "_surname": [
+  "thornton wilder"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wilder-bridge-of-san-luis-rey": [
+   69768,
+   "The Bridge of San Luis Rey (1927)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "wilder-bridge-of-san-luis-rey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thornton wilder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

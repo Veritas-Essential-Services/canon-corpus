@@ -1,0 +1,55 @@
+{
+ "_about": "Leo Tolstoy, Twenty-Three Tales, tr. L. and A. Maude (Oxford: Frowde, 1906; IA, raw OCR), which holds Little Girls Wiser Than Men; and What Men Live By, and Other Tales, tr. Aylmer Maude. Lane C's maude shelves hold other Maude translations. Added from the classical reading lists (Classical Conversations' 117 must-read list): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Leo Tolstoy",
+ "_name_words": [
+  "leo",
+  "tolstoy",
+  "tolstoi"
+ ],
+ "_surname": [
+  "tolstoy",
+  "tolstoi"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tolstoy-what-men-live-by-maude": [
+   6157,
+   "What Men Live By, and Other Tales, tr. Aylmer Maude"
+  ]
+ },
+ "internet_archive": {
+  "tolstoy-twenty-three-tales-1906": [
+   "cihm_85206",
+   "Twenty-Three Tales, tr. L. and A. Maude (1906)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "tolstoy-what-men-live-by-maude": "Maude"
+ },
+ "_checks": {
+  "tolstoy-what-men-live-by-maude": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "tolstoy",
+   "translator_claimed": "Maude",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aylmer Maude; Louise Maude",
+   "translator_match": true
+  },
+  "tolstoy-twenty-three-tales-1906": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "tolstoy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

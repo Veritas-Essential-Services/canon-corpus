@@ -1,0 +1,57 @@
+{
+ "_about": "Jane Eyre (Charlotte Brontë, 1847) and Wuthering Heights (Emily Brontë, 1847). Two authors on one shelf: each item names its own author. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Charlotte and Emily Brontë",
+ "_name_words": [
+  "charlotte",
+  "emily",
+  "bronte",
+  "brontë"
+ ],
+ "_surname": [
+  "brontë",
+  "bronte"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bronte-jane-eyre": [
+   1260,
+   "Jane Eyre: An Autobiography (Charlotte Brontë, 1847)"
+  ],
+  "bronte-wuthering-heights": [
+   768,
+   "Wuthering Heights (Emily Brontë, 1847)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_surname_by_slug": {
+  "bronte-jane-eyre": [
+   "charlotte brontë",
+   "charlotte bronte"
+  ],
+  "bronte-wuthering-heights": [
+   "emily brontë",
+   "emily bronte"
+  ]
+ },
+ "_checks": {
+  "bronte-jane-eyre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charlotte brontë",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bronte-wuthering-heights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "emily brontë",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
