@@ -266,6 +266,11 @@
    "selectorationsc00cicegoog",
    "Select Orations of Cicero, translated into English, with notes historical, critical and explanatory (Oxford: J. Vincent for Thomas Tegg, 1841)",
    "tr. William Duncan"
+  ],
+  "cicero-select-letters-literal-1891": [
+   "selectlettersci01cicegoog",
+   "Select Letters of Cicero, literally translated (New York: Arthur Hinds, copyright 1891)",
+   "tr. anonymous (the title page names no translator)"
   ]
  },
  "_surname": [
@@ -326,7 +331,8 @@
   "cicero-guthrie-atticus-1806-v2": "the title page OCRs the name as 'WILLIAM GUTHEIE'; read by eye as William Guthrie",
   "cicero-guthrie-atticus-1806-v3": "this volume's title page is lost in the scan; the translator is the one named on vol. II of the same 1806 set (cicero-guthrie-atticus-1806-v2)",
   "cicero-guthrie-de-oratore-1808-v2": "the title pages name no translator; vol. I's publisher's advertisements list 'Cicero on Oratory and Orators, translated by Guthrie, and amended by Jones, 2 vols.'",
-  "cicero-reid-academics-1880": "title page OCR reads 'JAMES S. RE ID', the surname split by the OCR; left unchecked on that reading"
+  "cicero-reid-academics-1880": "title page OCR reads 'JAMES S. RE ID', the surname split by the OCR; left unchecked on that reading",
+  "cicero-select-letters-literal-1891": "the title page names no translator (Hinds's 'literal translations' series)"
  },
  "_checks": {
   "cicero-yonge-orations-v4": {
@@ -967,6 +973,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1841",
    "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-select-letters-literal-1891": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
