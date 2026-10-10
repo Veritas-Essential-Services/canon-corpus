@@ -2025,8 +2025,10 @@
     {
       "id": "toru-dutt",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: toru-dutt; no minting",
-      "status": "running",
-      "started": "2026-10-10T09:22:54-05:00"
+      "status": "done",
+      "started": "2026-10-10T09:22:54-05:00",
+      "finished": "2026-10-10T09:31:48-05:00",
+      "notes": "1/1 fetched (Gutenberg 23245), 364 units, 0 ~2 ids."
     },
     {
       "id": "rice-davies",

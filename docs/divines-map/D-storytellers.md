@@ -3075,6 +3075,14 @@ Shelf: `pipeline/burton-harrison_shelf.json` (2026-10-02; added at the coordinat
 |---|---|---|
 | The Old-Fashioned Fairy Book | have | PG 37348, `bharrison-old-fashioned-fairy-book` (910 units) |
 
+## Toru Dutt
+
+Shelf: `pipeline/toru-dutt_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Indian legends in ballad form, with Gosse's memoir; cut by ballad and part. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Ancient Ballads and Legends of Hindustan | have | PG 23245, `tdutt-ancient-ballads-and-legends-of-hindustan` (364 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
