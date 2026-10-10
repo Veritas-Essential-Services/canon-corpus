@@ -1,0 +1,113 @@
+{
+ "_about": "TRANSLATOR SHELF: Eiríkr Magnússon (1833-1913) and William Morris (1834-1896): their Icelandic sagas. The Volsunga Saga (1870), Grettir the Strong (1869) and Frithiof the Bold (1875). PD everywhere. Morris's Odyssey, Aeneid and Beowulf stay on the homer, virgil and beowulf shelves. Added 2026-10-10 by lane C (round 12); Adam may veto. No uids minted.",
+ "_name_words": [
+  "magnússon",
+  "magnusson",
+  "eirikr magnusson",
+  "eiríkr magnússon"
+ ],
+ "_surname": [
+  "magnússon",
+  "magnusson",
+  "eirikr magnusson",
+  "eiríkr magnússon"
+ ],
+ "_surname_note": "Magnússon, not Morris: 'morris' alone would pass Morris dancers, Morris chairs, and other Morrises; every one of these sagas names Magnússon.",
+ "ccel": {},
+ "gutenberg": {
+  "mm-volsunga": [
+   1152,
+   "The Story of the Volsungs"
+  ],
+  "mm-grettir": [
+   12747,
+   "The Story of Grettir the Strong"
+  ],
+  "mm-frithiof": [
+   24420,
+   "The Story of Frithiof the Bold"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "mm-volsunga-saga": {
+   "source": "mm-volsunga",
+   "of": "anonymous (Old Norse)",
+   "work": "The Story of the Volsungs (Volsunga Saga), with excerpts from the Poetic Edda",
+   "translated": 1870,
+   "translator": "Eiríkr Magnússon and William Morris",
+   "scan_edition": "Project Gutenberg 1152 (clean text); Walter Scott Press, London, 1888. The file opens with an e-text editor's preface and bibliography (Douglas B. Killings, OMACL) naming books of 1962-1997; that page is the e-text editor's, not Morris's, and must be stripped before the text is published or built into units."
+  },
+  "mm-grettir-the-strong": {
+   "source": "mm-grettir",
+   "of": "anonymous (Old Norse)",
+   "work": "The Story of Grettir the Strong",
+   "translated": 1869,
+   "translator": "Eiríkr Magnússon and William Morris",
+   "scan_edition": "Project Gutenberg 12747 (clean text); a 1900 printing"
+  },
+  "mm-frithiof-the-bold": {
+   "source": "mm-frithiof",
+   "of": "anonymous (Old Norse)",
+   "work": "The Story of Frithiof the Bold",
+   "translated": 1875,
+   "translator": "Eiríkr Magnússon and William Morris",
+   "scan_edition": "Project Gutenberg 24420 (clean text)"
+  }
+ },
+ "_pending": {
+  "mm-saga-library": "The Saga Library (6 vols, 1891-1905: Howard the Halt, the Banded Men, Hen Thorir, the Ere-Dwellers, the Heimskringla) and Three Northern Love Stories (1875): on archive.org; next round."
+ },
+ "_excluded": {
+  "pg-347": "Another Grettir's Saga with no translator named (apparently G. A. Hight's 1914 Everyman version); not Magnússon and Morris.",
+  "pg-48622": "Baring-Gould's Grettir the Outlaw, his own retelling; on baring-gould_shelf.json."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mm-volsunga": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnússon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eiríkr Magnússon; William Morris"
+  },
+  "mm-grettir": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnússon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eiríkr Magnússon; William Morris"
+  },
+  "mm-frithiof": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnússon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eiríkr Magnússon; William Morris"
+  }
+ },
+ "_verified": {
+  "mm-volsunga": {
+   "pg": 1152,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eiríkr Magnússon"
+  },
+  "mm-grettir": {
+   "pg": 12747,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eiríkr Magnússon"
+  },
+  "mm-frithiof": {
+   "pg": 24420,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eiríkr Magnússon"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

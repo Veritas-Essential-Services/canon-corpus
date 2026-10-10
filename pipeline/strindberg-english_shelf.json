@@ -1,0 +1,471 @@
+{
+ "_about": "TRANSLATOR SHELF: Strindberg in English before 1931, by translator: Edwin Björkman (Scribner's Plays series, 1912-16), Edith and Warner Oland (1912), Claud Field (1912-15), Ellie Schleussner (1912-13). Each title gates on its own translator (_surname_by_slug). US public domain (pre-1931). Added 2026-10-10 by lane C (round 12); Adam may veto. No uids minted.",
+ "_name_words": [
+  "bjorkman",
+  "björkman",
+  "claud field",
+  "edith oland",
+  "edwin björkman",
+  "ellie schleussner",
+  "oland",
+  "schleussner",
+  "warner oland"
+ ],
+ "_surname": [
+  "bjorkman",
+  "björkman",
+  "claud field",
+  "edith oland",
+  "edwin björkman",
+  "ellie schleussner",
+  "oland",
+  "schleussner",
+  "warner oland"
+ ],
+ "_surname_by_slug": {
+  "sb-bjorkman-plays-2": [
+   "edwin björkman",
+   "björkman",
+   "bjorkman"
+  ],
+  "sb-bjorkman-plays-3": [
+   "edwin björkman",
+   "björkman",
+   "bjorkman"
+  ],
+  "sb-bjorkman-plays-4": [
+   "edwin björkman",
+   "björkman",
+   "bjorkman"
+  ],
+  "sb-bjorkman-master-olof": [
+   "edwin björkman",
+   "björkman",
+   "bjorkman"
+  ],
+  "sb-oland-plays-1": [
+   "edith oland",
+   "warner oland",
+   "oland"
+  ],
+  "sb-oland-plays-2": [
+   "edith oland",
+   "warner oland",
+   "oland"
+  ],
+  "sb-field-inferno": [
+   "claud field"
+  ],
+  "sb-field-son-of-a-servant": [
+   "claud field"
+  ],
+  "sb-field-zones-of-the-spirit": [
+   "claud field"
+  ],
+  "sb-field-german-lieutenant": [
+   "claud field"
+  ],
+  "sb-field-historical-miniatures": [
+   "claud field"
+  ],
+  "sb-schleussner-red-room": [
+   "ellie schleussner",
+   "schleussner"
+  ],
+  "sb-schleussner-confession-of-a-fool": [
+   "ellie schleussner",
+   "schleussner"
+  ],
+  "sb-schleussner-in-midsummer-days": [
+   "ellie schleussner",
+   "schleussner"
+  ]
+ },
+ "_surname_note": "'oland', 'björkman' and 'schleussner' are surnames, not English words; Field always as 'claud field'.",
+ "ccel": {},
+ "gutenberg": {
+  "sb-bjorkman-plays-2": [
+   14347,
+   "Plays, second series"
+  ],
+  "sb-bjorkman-plays-3": [
+   44233,
+   "Plays, third series"
+  ],
+  "sb-bjorkman-plays-4": [
+   44302,
+   "Plays, fourth series"
+  ],
+  "sb-bjorkman-master-olof": [
+   7363,
+   "Master Olof"
+  ],
+  "sb-oland-plays-1": [
+   8499,
+   "Plays"
+  ],
+  "sb-oland-plays-2": [
+   8500,
+   "Plays"
+  ],
+  "sb-field-inferno": [
+   44108,
+   "The Inferno"
+  ],
+  "sb-field-son-of-a-servant": [
+   44109,
+   "The Son of a Servant"
+  ],
+  "sb-field-zones-of-the-spirit": [
+   44118,
+   "Zones of the Spirit"
+  ],
+  "sb-field-german-lieutenant": [
+   46107,
+   "The German Lieutenant and Other Stories"
+  ],
+  "sb-field-historical-miniatures": [
+   7955,
+   "Historical Miniatures"
+  ],
+  "sb-schleussner-red-room": [
+   37039,
+   "The Red Room"
+  ],
+  "sb-schleussner-confession-of-a-fool": [
+   44106,
+   "The Confession of a Fool"
+  ],
+  "sb-schleussner-in-midsummer-days": [
+   6694,
+   "In Midsummer Days and Other Tales"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "strindberg-bjorkman-plays-2": {
+   "source": "sb-bjorkman-plays-2",
+   "of": "Strindberg",
+   "work": "Plays, second series: There Are Crimes and Crimes; Miss Julia; The Stronger; Creditors; Pariah",
+   "translated": 1913,
+   "translator": "Edwin Björkman",
+   "scan_edition": "Project Gutenberg 14347 (clean text)"
+  },
+  "strindberg-bjorkman-plays-3": {
+   "source": "sb-bjorkman-plays-3",
+   "of": "Strindberg",
+   "work": "Plays, third series: Swanwhite; Simoom; Debit and Credit; Advent; The Thunderstorm; After the Fire",
+   "translated": 1913,
+   "translator": "Edwin Björkman",
+   "scan_edition": "Project Gutenberg 44233 (clean text)"
+  },
+  "strindberg-bjorkman-plays-4": {
+   "source": "sb-bjorkman-plays-4",
+   "of": "Strindberg",
+   "work": "Plays, fourth series: The Bridal Crown; The Spook Sonata; The First Warning; Gustavus Vasa",
+   "translated": 1916,
+   "translator": "Edwin Björkman",
+   "scan_edition": "Project Gutenberg 44302 (clean text)"
+  },
+  "strindberg-bjorkman-master-olof": {
+   "source": "sb-bjorkman-master-olof",
+   "of": "Strindberg",
+   "work": "Master Olof",
+   "translated": 1915,
+   "translator": "Edwin Björkman",
+   "scan_edition": "Project Gutenberg 7363 (clean text)"
+  },
+  "strindberg-oland-plays-1": {
+   "source": "sb-oland-plays-1",
+   "of": "Strindberg",
+   "work": "Plays: The Father; Countess Julie; The Outlaw; The Stronger",
+   "translated": 1912,
+   "translator": "Edith and Warner Oland",
+   "scan_edition": "Project Gutenberg 8499 (clean text)"
+  },
+  "strindberg-oland-plays-2": {
+   "source": "sb-oland-plays-2",
+   "of": "Strindberg",
+   "work": "Plays: Comrades; Facing Death; Pariah; Easter",
+   "translated": 1912,
+   "translator": "Edith and Warner Oland",
+   "scan_edition": "Project Gutenberg 8500 (clean text)"
+  },
+  "strindberg-field-inferno": {
+   "source": "sb-field-inferno",
+   "of": "Strindberg",
+   "work": "The Inferno",
+   "translated": 1912,
+   "translator": "Claud Field",
+   "scan_edition": "Project Gutenberg 44108 (clean text)"
+  },
+  "strindberg-field-son-of-a-servant": {
+   "source": "sb-field-son-of-a-servant",
+   "of": "Strindberg",
+   "work": "The Son of a Servant",
+   "translated": 1913,
+   "translator": "Claud Field",
+   "scan_edition": "Project Gutenberg 44109 (clean text)"
+  },
+  "strindberg-field-zones-of-the-spirit": {
+   "source": "sb-field-zones-of-the-spirit",
+   "of": "Strindberg",
+   "work": "Zones of the Spirit",
+   "translated": 1913,
+   "translator": "Claud Field",
+   "scan_edition": "Project Gutenberg 44118 (clean text)"
+  },
+  "strindberg-field-german-lieutenant": {
+   "source": "sb-field-german-lieutenant",
+   "of": "Strindberg",
+   "work": "The German Lieutenant and Other Stories",
+   "translated": 1915,
+   "translator": "Claud Field",
+   "scan_edition": "Project Gutenberg 46107 (clean text)"
+  },
+  "strindberg-field-historical-miniatures": {
+   "source": "sb-field-historical-miniatures",
+   "of": "Strindberg",
+   "work": "Historical Miniatures",
+   "translated": 1913,
+   "translator": "Claud Field",
+   "scan_edition": "Project Gutenberg 7955 (clean text)"
+  },
+  "strindberg-schleussner-red-room": {
+   "source": "sb-schleussner-red-room",
+   "of": "Strindberg",
+   "work": "The Red Room",
+   "translated": 1913,
+   "translator": "Ellie Schleussner",
+   "scan_edition": "Project Gutenberg 37039 (clean text)"
+  },
+  "strindberg-schleussner-confession-of-a-fool": {
+   "source": "sb-schleussner-confession-of-a-fool",
+   "of": "Strindberg",
+   "work": "The Confession of a Fool",
+   "translated": 1912,
+   "translator": "Ellie Schleussner",
+   "scan_edition": "Project Gutenberg 44106 (clean text)"
+  },
+  "strindberg-schleussner-in-midsummer-days": {
+   "source": "sb-schleussner-in-midsummer-days",
+   "of": "Strindberg",
+   "work": "In Midsummer Days and Other Tales",
+   "translated": 1913,
+   "translator": "Ellie Schleussner",
+   "scan_edition": "Project Gutenberg 6694 (clean text)"
+  }
+ },
+ "_pending": {
+  "strindberg-bjorkman-plays-1": "Björkman's first series (The Dream Play; The Link; The Dance of Death, 1912) is not on Gutenberg; look on archive.org."
+ },
+ "_excluded": {
+  "pg-4970": "There Are Crimes and Crimes alone: the same Björkman text is in the second series (14347).",
+  "pg-5053": "Creditors and Pariah alone: the same Björkman text is in the second series.",
+  "pg-8875": "The Road to Damascus, tr. Graham Rawson: the text cites a 1937 production; Rawson's translation is of 1939. Not before 1931.",
+  "pg-7956": "Married (1913): no translator named.",
+  "pg-46397": "Legends (1912): no translator named."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "sb-bjorkman-plays-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edwin björkman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edwin Björkman"
+  },
+  "sb-bjorkman-plays-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edwin björkman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edwin Björkman"
+  },
+  "sb-bjorkman-plays-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edwin björkman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edwin Björkman"
+  },
+  "sb-bjorkman-master-olof": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edwin björkman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edwin Björkman"
+  },
+  "sb-oland-plays-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edith oland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edith Oland; Warner Oland"
+  },
+  "sb-oland-plays-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edith oland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edith Oland; Warner Oland"
+  },
+  "sb-field-inferno": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "claud field",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Claud Field"
+  },
+  "sb-field-son-of-a-servant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "claud field",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Claud Field"
+  },
+  "sb-field-zones-of-the-spirit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "claud field",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Claud Field"
+  },
+  "sb-field-german-lieutenant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "claud field",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Claud Field"
+  },
+  "sb-field-historical-miniatures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "claud field",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Claud Field"
+  },
+  "sb-schleussner-red-room": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellie schleussner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellie Schleussner"
+  },
+  "sb-schleussner-confession-of-a-fool": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellie schleussner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellie Schleussner"
+  },
+  "sb-schleussner-in-midsummer-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellie schleussner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellie Schleussner"
+  }
+ },
+ "_verified": {
+  "sb-bjorkman-plays-2": {
+   "pg": 14347,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edwin Björkman"
+  },
+  "sb-bjorkman-plays-3": {
+   "pg": 44233,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edwin Björkman"
+  },
+  "sb-bjorkman-plays-4": {
+   "pg": 44302,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edwin Björkman"
+  },
+  "sb-bjorkman-master-olof": {
+   "pg": 7363,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edwin Björkman"
+  },
+  "sb-oland-plays-1": {
+   "pg": 8499,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edith Oland"
+  },
+  "sb-oland-plays-2": {
+   "pg": 8500,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edith Oland"
+  },
+  "sb-field-inferno": {
+   "pg": 44108,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Claud Field"
+  },
+  "sb-field-son-of-a-servant": {
+   "pg": 44109,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Claud Field"
+  },
+  "sb-field-zones-of-the-spirit": {
+   "pg": 44118,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Claud Field"
+  },
+  "sb-field-german-lieutenant": {
+   "pg": 46107,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Claud Field"
+  },
+  "sb-field-historical-miniatures": {
+   "pg": 7955,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Claud Field"
+  },
+  "sb-schleussner-red-room": {
+   "pg": 37039,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellie Schleussner"
+  },
+  "sb-schleussner-confession-of-a-fool": {
+   "pg": 44106,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellie Schleussner"
+  },
+  "sb-schleussner-in-midsummer-days": {
+   "pg": 6694,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellie Schleussner"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

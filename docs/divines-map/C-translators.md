@@ -771,6 +771,48 @@ Round 11 (2026-10-10), vetoable. One title per volume; vol. 12 pending. Not conv
 | — | — | sharp-everyman: R. Farquharson Sharp's Everyman Ibsen (PG 2446, 2467): another translator; A Doll's House in his version is on adler_shelf.json. | — | — | excluded | — |
 | — | — | marx-aveling-wild-duck: PG 73631: Eleanor Marx Aveling's translation; another translator. | — | — | excluded | — |
 
+## Magnússon and Morris (Icelandic sagas)
+
+Shelf: `pipeline/morris-magnusson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py morris-magnusson` · titles `python3 pipeline/split_shelf_titles.py morris-magnusson`.
+Round 12 (2026-10-10), vetoable. Saga Library pending. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `mm-volsunga-saga` | anonymous (Old Norse) | The Story of the Volsungs (Volsunga Saga), with excerpts from the Poetic Edda | Eiríkr Magnússon and William Morris | 1870 | have | PG 1152 |
+| `mm-grettir-the-strong` | anonymous (Old Norse) | The Story of Grettir the Strong | Eiríkr Magnússon and William Morris | 1869 | have | PG 12747 |
+| `mm-frithiof-the-bold` | anonymous (Old Norse) | The Story of Frithiof the Bold | Eiríkr Magnússon and William Morris | 1875 | have | PG 24420 |
+| `mm-saga-library` | — | The Saga Library (6 vols, 1891-1905: Howard the Halt, the Banded Men, Hen Thorir, the Ere-Dwellers, the Heimskringla) and Three Northern Love Stories (1875): on archive.org; next round. | — | — | pending | — |
+| — | — | pg-347: Another Grettir's Saga with no translator named (apparently G. A. Hight's 1914 Everyman version); not Magnússon and Morris. | — | — | excluded | — |
+| — | — | pg-48622: Baring-Gould's Grettir the Outlaw, his own retelling; on baring-gould_shelf.json. | — | — | excluded | — |
+
+## Strindberg in English (Björkman, the Olands, Field, Schleussner)
+
+Shelf: `pipeline/strindberg-english_shelf.json` · fetch `python3 pipeline/fetch_shelf.py strindberg-english` · titles `python3 pipeline/split_shelf_titles.py strindberg-english`.
+Round 12 (2026-10-10), vetoable. Each title gates on its own translator. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `strindberg-bjorkman-plays-2` | Strindberg | Plays, second series: There Are Crimes and Crimes; Miss Julia; The Stronger; Creditors; Pariah | Edwin Björkman | 1913 | have | PG 14347 |
+| `strindberg-bjorkman-plays-3` | Strindberg | Plays, third series: Swanwhite; Simoom; Debit and Credit; Advent; The Thunderstorm; After the Fire | Edwin Björkman | 1913 | have | PG 44233 |
+| `strindberg-bjorkman-plays-4` | Strindberg | Plays, fourth series: The Bridal Crown; The Spook Sonata; The First Warning; Gustavus Vasa | Edwin Björkman | 1916 | have | PG 44302 |
+| `strindberg-bjorkman-master-olof` | Strindberg | Master Olof | Edwin Björkman | 1915 | have | PG 7363 |
+| `strindberg-oland-plays-1` | Strindberg | Plays: The Father; Countess Julie; The Outlaw; The Stronger | Edith and Warner Oland | 1912 | have | PG 8499 |
+| `strindberg-oland-plays-2` | Strindberg | Plays: Comrades; Facing Death; Pariah; Easter | Edith and Warner Oland | 1912 | have | PG 8500 |
+| `strindberg-field-inferno` | Strindberg | The Inferno | Claud Field | 1912 | have | PG 44108 |
+| `strindberg-field-son-of-a-servant` | Strindberg | The Son of a Servant | Claud Field | 1913 | have | PG 44109 |
+| `strindberg-field-zones-of-the-spirit` | Strindberg | Zones of the Spirit | Claud Field | 1913 | have | PG 44118 |
+| `strindberg-field-german-lieutenant` | Strindberg | The German Lieutenant and Other Stories | Claud Field | 1915 | have | PG 46107 |
+| `strindberg-field-historical-miniatures` | Strindberg | Historical Miniatures | Claud Field | 1913 | have | PG 7955 |
+| `strindberg-schleussner-red-room` | Strindberg | The Red Room | Ellie Schleussner | 1913 | have | PG 37039 |
+| `strindberg-schleussner-confession-of-a-fool` | Strindberg | The Confession of a Fool | Ellie Schleussner | 1912 | have | PG 44106 |
+| `strindberg-schleussner-in-midsummer-days` | Strindberg | In Midsummer Days and Other Tales | Ellie Schleussner | 1913 | have | PG 6694 |
+| `strindberg-bjorkman-plays-1` | — | Björkman's first series (The Dream Play; The Link; The Dance of Death, 1912) is not on Gutenberg; look on archive.org. | — | — | pending | — |
+| — | — | pg-4970: There Are Crimes and Crimes alone: the same Björkman text is in the second series (14347). | — | — | excluded | — |
+| — | — | pg-5053: Creditors and Pariah alone: the same Björkman text is in the second series. | — | — | excluded | — |
+| — | — | pg-8875: The Road to Damascus, tr. Graham Rawson: the text cites a 1937 production; Rawson's translation is of 1939. Not before 1931. | — | — | excluded | — |
+| — | — | pg-7956: Married (1913): no translator named. | — | — | excluded | — |
+| — | — | pg-46397: Legends (1912): no translator named. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

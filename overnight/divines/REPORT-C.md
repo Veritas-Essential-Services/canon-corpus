@@ -97,3 +97,5 @@
 - 2026-10-10T09:17-05:00: round 10: ryder (5), gertrude-bell (1), levy-nietzsche (15). --verify --record 0 mismatched on all.
 
 - 2026-10-10T09:26-05:00: round 11: archer-ibsen (11 vols). --verify --record 0 mismatched.
+
+- 2026-10-10T09:38-05:00: round 12: morris-magnusson (3), strindberg-english (14). --verify --record 0 mismatched.
