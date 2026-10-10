@@ -2760,6 +2760,8 @@ Shelf: `pipeline/w-s-davis_shelf.json`. William Stearns Davis (1877-1930), histo
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Day in Old Athens: a Picture of Athenian Life |  | `w-s-davis-day-in-old-athens` | have (PG 4716) |
+| A Day in Old Rome |  | `w-s-davis-day-in-old-rome` | have (PG 76087) |
 
 ## T. G. Tucker (scholarship)
 
