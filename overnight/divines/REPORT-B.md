@@ -657,3 +657,10 @@
 - Arthur Fairbanks, The First Philosophers of Greece (1898): a third scan reads 0.790 with the Greek counted, clearing the bar the first two missed
 - Propertius: Phillimore's 1906 translation was already held; the wishlist line asking for it is corrected
 - Still not found on IA: Chinnock's Bohn Indica (1893), Tytler's Punics vol. II, Phillimore's Apollonius vol. II, separate pre-1931 issues of the Oxford Meteorologica and Parva Naturalia (the scan found is the 1931 collected vol. III)
+
+## 2026-10-10 10:47 CDT — Round 2026-10-10o: three volumes
+- Aristophanes, Frere's Frogs, from the Everyman Plays of Aristophanes vol. II (1911; this scan a 1922 printing); rights note records the unsigned bibliography
+- Aeschines and Demosthenes, the two Crown orations: George W. Biddle (Philadelphia, Lippincott, 1881) and Abraham Portal (1814 printing); on the Aeschines shelf, cross-referenced from Demosthenes. Biddle's translator line is marked unchecked only because the OCR misreads his forename
+- Storr's Loeb Sophocles vol. II measured 0.51/0.49 with the Greek facing: joins the Greek-facing class awaiting Adam
+- Wishlist corrections: Watson's Quintilian is held (only an 1856 vol. I printing is wanted); Aeschines needs nothing further known
+- Refused: Herodian 1789 (ECCO 0.65), Cebes 1699 (EEBO 0.68)

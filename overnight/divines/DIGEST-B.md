@@ -170,3 +170,4 @@
 - Round 2026-10-10l (10:34): eight volumes added. No decision needed.
 - Round 2026-10-10m (10:37): one volume added. Robert Duncan's Boethius (Edinburgh, catalogue 1789) joins the undated rows: it reads cleanly but prints no legible year. Same answer as the other undated rows applies.
 - Round 2026-10-10n (10:40): Fairbanks's First Philosophers added from a cleaner scan; one stale wishlist line fixed. No decision needed.
+- 10:47 round o: 3 volumes (Frere's Frogs; Biddle and Portal Crown orations). Storr's Loeb Sophocles vol. II added to the Greek-facing question. No new decision class.

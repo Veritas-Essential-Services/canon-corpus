@@ -3213,8 +3213,9 @@ Shelf: `pipeline/aristophanes_shelf.json`. Translator per title; complete in the
 | The Acharnians of Aristophanes, translated into English verse (Dublin University Press Series, 1883) | Robert Yelverton Tyrrell | `aristophanes-tyrrell-acharnians-1883` | have-raw (IA `aristophanesach00arisrich`) |
 | The Comedies of Aristophanes, vol. I (London, 1820) | Thomas Mitchell | `aristophanes-mitchell-1820-v1` | have-raw (IA `comediesaristop02mitcgoog`) |
 | The Comedies of Aristophanes, a new and literal translation, vol. II: Lysistrata, Thesmophoriazusae, Frogs, Ecclesiazusae, Plutus (London: Henry G. Bohn, 1853) | William James Hickie | `aristophanes-hickie-1853-v2` | have-raw (IA `comediesaristop00hickgoog`) |
+| The Frogs and Other Plays of Aristophanes (Everyman's Library, The Plays of Aristophanes vol. II; first issued 1911, this scan the 1922 reprint): the Frogs tr. Frere, the Thesmophoriazusae tr. Hickie, the Clouds tr. Mitchell, the Wasps tr. Cumberland | J. Hookham Frere | `aristophanes-frere-frogs-everyman-1911` | have-raw (IA `frogsthreeotherp00aris`) |
 
-Pending (wishlist): B. B. Rogers's complete verse Aristophanes (1902-16; Greek facing). Frere's Frogs (the fourth play of his 1840 set) is not in the 1887 Morley volume held above. Hickie's Bohn vol. II (1853) and Mitchell's vol. I (1820) are now held above, from Google scans.
+Pending (wishlist): B. B. Rogers's complete verse Aristophanes (1902-16; Greek facing). Frere's Frogs (the fourth play of his 1840 set) is now held above from Everyman vol. II. Hickie's Bohn vol. II (1853) and Mitchell's vol. I (1820) are now held above, from Google scans.
 
 Excluded: PG 3012, 2571, 3013 (the Athenian Society translation split into single plays).
 
@@ -4125,6 +4126,8 @@ Shelf: `pipeline/demosthenes_shelf.json`. Kennedy (Bohn) and Pickard-Cambridge (
 | The Orations of Demosthenes, pronounced to excite the Athenians against Philip, King of Macedon, a new edition, vol. II (London: Bensley, 1806) | Thomas Leland | `demosthenes-leland-1806-v2` | have-raw (IA `orationsofdemost02demouoft`) |
 | The Oration of Demosthenes upon the Crown, translated into English (London: Charles Knight, 1840) | Henry, Lord Brougham | `demosthenes-brougham-crown-1840` | have-raw (IA `orationdemosthe02vauxgoog`) |
 | The Oration of Demosthenes on the Crown (London: Longmans, Green, 1876) | Sir Robert Collier | `demosthenes-collier-crown-1876` | have-raw (IA `orationdemosthe00collgoog`) |
+| On the Crown, with Aeschines Against Ctesiphon (Philadelphia, 1881) | George W. Biddle | `aeschines-demosthenes-biddle-crown-1881` | cross-ref: held on the Aeschines shelf |
+| De Corona, with Aeschines Against Ctesiphon (Oxford, 1814 edition) | Andrew Portal | `aeschines-demosthenes-portal-crown-1814` | cross-ref: held on the Aeschines shelf |
 
 Pending (wishlist): the rest of the early Loeb vols. (Vince, 1926-; Greek facing: OCR not taken). The 1930 Vince volume is held above as Perseus TEI.
 
@@ -4643,7 +4646,7 @@ Shelf: `pipeline/quintilian_shelf.json`. Butler Loeb 1920-22, 4 vols. (IA, 0.87-
 | Quintilian's Institutes of Oratory, vol. I (Bohn's Classical Library; London: George Bell, 1903, reprinted from stereotype plates of the 1856 edition) | John Selby Watson | `quintilian-watson-v1-1903` | have-raw (IA `cu31924075437685`) |
 | Quintilian's Institutes of Oratory, vol. II (Bohn, 1856) | John Selby Watson | `quintilian-watson-v2-1856` | have-raw (IA `cu31924075437677`) |
 
-Pending (wishlist): Watson's Bohn (no scan located)
+Pending (wishlist): Watson's vol. I in its 1856 first printing (vol. I is held above from the 1903 stereotype reprint; the 1856 scans checked on 2026-10-10 are all vol. II)
 
 ## Vitruvius
 
@@ -5056,8 +5059,10 @@ Shelf: `pipeline/aeschines_shelf.json`. New shelf 2026-10-03: the three speeches
 | Against Timarchus | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-against-timarchus` | have (Perseus TEI `tlg0026.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
 | On the Embassy | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-on-the-embassy` | have (Perseus TEI `tlg0026.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
 | Against Ctesiphon | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-against-ctesiphon` | have (Perseus TEI `tlg0026.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Two Orations on the Crown: Aeschines and Demosthenes, a new translation (Philadelphia: Lippincott, 1881) | George W. Biddle | `aeschines-demosthenes-biddle-crown-1881` | have-raw (IA `twoorationsoncr00biddgoog`) |
+| Orations of Aeschines against Ctesiphon and Demosthenes De Corona, translated, with notes; a new edition, revised and corrected (Oxford: Munday and Slatter, 1814) | Andrew Portal | `aeschines-demosthenes-portal-crown-1814` | have-raw (IA `orationsaeschin00demogoog`) |
 
-Pending (wishlist): an older English Aeschines (pre-1900), if a clean scan turns up.
+Pending (wishlist): none known. Two older English versions of Against Ctesiphon are now held above (Portal, 1814 edition; Biddle, 1881).
 
 ## Apollodorus
 
