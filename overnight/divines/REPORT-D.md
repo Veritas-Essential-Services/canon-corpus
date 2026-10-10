@@ -911,3 +911,6 @@
 
 ## 2026-10-10 09:54 CDT — talbot-baines-reed: done
 - 5/5 fetched (Gutenberg 24632, 21044, 21037, 21035, 21137), 14,545 units, 0 ~2 ids.
+
+## 2026-10-10 09:56 CDT — de-amicis: done
+- 1/1 fetched (Gutenberg 28961), 1,593 units, 0 ~2 ids.
