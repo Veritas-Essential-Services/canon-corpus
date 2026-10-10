@@ -37,7 +37,7 @@ Ecclesiastical History	Eusebius	c. AD 325	Logos; Logos Online; Memoria	held	euse
 Confessions	Augustine	c. AD 400	BCS; CiRCE; Logos Online; NSA	held	augustine-confessions (Pusey)	PD		
 The City of God	Augustine	AD 413–426	BCS; CiRCE; Logos Online; Memoria; NSA	held	augustine-cityofgod (Dods)	PD		
 On Christian Doctrine (De doctrina christiana)	Augustine	AD 397–426	BCS; CiRCE; Logos Online; NSA	held	schaff-npnf102 (NPNF1 2, PR #11)	PD (Shaw 1887)		
-On the Deaths of the Persecutors	Lactantius	c. AD 315	NSA	partial	lactantius-…-lat (Latin only); English in ANF 7	PD (Fletcher, ANF 7)	check schaff-anf07 on PR #11	
+On the Deaths of the Persecutors	Lactantius	c. AD 315	NSA	held	lactantius-de-mortibus-persecutorum-schaff (ANF 7, PR #11)	PD (Fletcher, ANF 7)	check schaff-anf07 on PR #11	
 Address to Young Men on Greek Literature	Basil of Caesarea	4th c.	BCS	ingested	basil-padelford (IA, Padelford 1902, raw OCR)	PD (Padelford 1902)	not in NPNF2 8	6
 The Consolation of Philosophy	Boethius	c. 524	BCS; Canon; Logos Online; Memoria; NSA	held	boethius-james (PG 14328), boethius-rand-stewart	PD		
 The Rule of St. Benedict	Benedict of Nursia	c. 530	CiRCE; Logos Online	ingested	benedict-rule (IA, Fort Augustus 1906, raw OCR)	PD (Gasquet 1909)		3
@@ -59,8 +59,8 @@ The Divine Comedy	Dante Alighieri	c. 1308–1320	BCS; Canon; CiRCE; Logos Online
 Canzoniere (Rime)	Petrarch	1327–1374	BCS	ingested	petrarch (PG 17650, Bohn translators)	PD (Bohn 1859; Auslander 1931 is not)		3
 The Decameron	Giovanni Boccaccio	c. 1353	Logos Online	held	payne-decameron, florio-decameron	PD		
 The Canterbury Tales	Geoffrey Chaucer	c. 1387–1400	BCS; CC; Canon; CiRCE; Logos; Logos Online; Memoria; NSA	held	chaucer-canterbury	PD		
-The House of Fame	Geoffrey Chaucer	c. 1380	NSA	partial	not a separate item; in Skeat's Complete Works	PD	verify: chaucer shelf has Canterbury and Troilus only	
-Chaucer (works)	Geoffrey Chaucer	14th c.	BCS	partial	chaucer-canterbury, chaucer-troilus	PD		
+The House of Fame	Geoffrey Chaucer	c. 1380	NSA	ingested	chaucer-skeat vol. 3 (PG 45027)	PD	verify: chaucer shelf has Canterbury and Troilus only	7
+Chaucer (works)	Geoffrey Chaucer	14th c.	BCS	ingested	chaucer-canterbury, chaucer-troilus + chaucer-skeat vols 1-3 (PG 43089, 44833, 45027)	PD		7
 Le Morte d'Arthur	Thomas Malory	1485	CiRCE; Logos Online	held	malory-morte-darthur-caxton-1/2	PD		
 Arthurian literature	various	12th–15th c.	NSA	ingested	chretien (PG 831, Comfort) + held Malory	PD	Chrétien's Arthurian Romances (Comfort 1914) is a gap	3
 The Travels of Marco Polo	Marco Polo	c. 1300	Logos Online	ingested	marco-polo (PG 10636, 12410, Yule-Cordier)	PD		3
@@ -69,11 +69,11 @@ The Bondage of the Will	Martin Luther	1525	Canon; Logos Online	lane	Lane A queue
 Luther: Three Treatises and other writings	Martin Luther	1520	BCS; Canon; Logos Online	lane	Lane A queue: martin-luther	PD (Wace & Buchheim 1883)	claimed by Relay Lane A	
 Institutes of the Christian Religion	John Calvin	1559	BCS; Canon; Logos Online; NSA	held	calvin-allen-institutes-1..3, calvin-institutes-beveridge	PD		
 A Learned Treatise of the Plague	Theodore Beza	1580	Canon	lane	Lane A (beza shelf); left to the lane	PD	beza shelf exists (relay); add this title there via Lane A?	
-Vindiciae contra Tyrannos	"""Junius Brutus"""	1579	Canon	missing	source: 1689 English tr. (EEBO-TCP) / Laski ed. 1924	PD		
+Vindiciae contra Tyrannos	"""Junius Brutus"""	1579	Canon	ingested	vindiciae (IA, 1689 tr., Laski 1924, raw OCR)	PD		7
 Letter of Consolation	Pierre Viret	16th c.	Canon	notpd	modern English translation (Canon 2010s)	PD original; no PD English known	viret shelf holds other titles	
 De Vera Theologia	Franciscus Junius	1594	NSA	notpd	no PD English (Thomas 2014 is modern)	Latin original only		
 Heidelberg Catechism	Ursinus; Olevianus	1563	Logos Online	held	ursinus-commentary (Williard)	PD		
-The Three Forms of Unity	de Brès; Ursinus; Synod of Dort	1561–1619	Canon	partial	synod-of-dort shelf; Heidelberg via ursinus; Belgic in Schaff's Creeds?	PD (Schaff 1877)	Schaff's Creeds of Christendom vol. 3 is the clean source	
+The Three Forms of Unity	de Brès; Ursinus; Synod of Dort	1561–1619	Canon	held	schaff-creeds-3-1878 (Belgic, Heidelberg, Dort) + synod-of-dort, ursinus	PD (Schaff 1877)	Schaff's Creeds of Christendom vol. 3 is the clean source	
 A Reformed Catholic	William Perkins	1597	Canon	lane	Lane A (perkins shelf); left to the lane	PD	perkins shelf exists (relay lane A) — add as item?	
 The Faerie Queene	Edmund Spenser	1590–1596	BCS; Canon; Logos Online	ingested	spenser (PG 70717, 72698, J. C. Smith)	PD		3
 Doctor Faustus	Christopher Marlowe	c. 1592	BCS	ingested	marlowe-doctor-faustus (PG 779)	PD		Batch 1
@@ -109,7 +109,7 @@ Gradus ad Parnassum	Johann Joseph Fux	1725	NSA	notpd	only English is Mann 1943 (
 Robinson Crusoe	Daniel Defoe	1719	BCS; CC; Canon; CiRCE; Logos; Logos Online; Memoria	ingested	defoe-robinson-crusoe (PG 521)	PD		Batch 1
 Gulliver's Travels	Jonathan Swift	1726	CC; CiRCE; Logos Online	held	swift-gulliver (PG 829)	PD		
 Essays to Do Good	Cotton Mather	1710	CC	held	cmather-essays-to-do-good-1808	PD		
-The Method of Grace (sermon)	George Whitefield	c. 1740	CC	partial	whitefield journals held; sermons are a gap (Sermons on Important Subjects 1828, IA)	PD		
+The Method of Grace (sermon)	George Whitefield	c. 1740	CC	lane	Lane A (whitefield shelf holds the journals); sermons left to the lane	PD		
 Edwards: End for Which God Created the World; Religious Affections	Jonathan Edwards	1746–1765	BCS; Canon	held	edwards shelf (affections, works1/2)	PD		
 Voltaire (works)	Voltaire	18th c.	BCS	held	voltaire-candide	PD		
 Goethe (works)	Goethe	18th–19th c.	BCS	held	faust (Taylor), anster-faust, bowring-goethe-poems	PD		
@@ -122,7 +122,7 @@ Common Sense	Thomas Paine	1776	BCS; Logos Online	ingested	thomas-paine (PG 147; 
 Autobiography	Benjamin Franklin	1771–1790	Logos Online	ingested	franklin (PG 20203, Pine 1916)	PD		4
 Origin and Principles of the American Revolution	Friedrich von Gentz	1800	Logos Online	ingested	gentz (IA, J. Q. Adams tr. 1800, raw OCR)	PD		4
 Poems	Phillis Wheatley	1773	BCS	ingested	wheatley (PG 409)	PD		4
-American founding documents and speeches	various	1620–1892	CC; Logos Online	partial	american-founding (Mayflower, Henry, Declaration, Constitution, Bill of Rights) + lincoln + held Federalist; Articles, Northwest Ordinance, Washington, Clay, Calhoun, Garrison still to find	PD (government works and pre-1930 texts)	propose one 'american-documents' shelf; PG has most (e.g. Bradford PG 24950, Declaration PG 1, Constitution PG 5)	4
+American founding documents and speeches	various	1620–1892	CC; Logos Online	partial	american-founding + macdonald-documents (Articles, Ordinance of 1787) + lincoln + held Federalist; Washington's Farewell, Clay, Calhoun, Garrison still to find	PD (government works and pre-1930 texts)	propose one 'american-documents' shelf; PG has most (e.g. Bradford PG 24950, Declaration PG 1, Constitution PG 5)	4, 7
 Pride and Prejudice (and Austen's novels)	Jane Austen	1813	BCS; CC; Canon; CiRCE; Logos Online; Memoria	ingested	austen shelf: pride-and-prejudice, sense-and-sensibility, mansfield-park, northanger-abbey, persuasion (Emma already held)	PD	Pride and Prejudice PG 1342; Sense and Sensibility 161; Persuasion 105; Mansfield 141; Northanger 121	Batch 1
 Jane Eyre	Charlotte Brontë	1847	BCS; CC; Canon; Memoria	ingested	bronte-jane-eyre (PG 1260)	PD		Batch 1
 Wuthering Heights	Emily Brontë	1847	Canon; Memoria	ingested	bronte-wuthering-heights (PG 768)	PD		Batch 1
@@ -240,7 +240,7 @@ The Aeneid for Boys and Girls	Alfred J. Church	1908	Memoria	ingested	church-aene
 The Talisman (and Scott's novels)	Walter Scott	1825	Memoria	ingested	walter-scott shelf: Ivanhoe, The Talisman	PD	no Walter Scott novel is held anywhere	Batch 2
 Silas Marner	George Eliot	1861	Memoria	ingested	george-eliot-silas-marner (PG 550)	PD	Middlemarch is held (adler)	Batch 2
 The Bridge of San Luis Rey	Thornton Wilder	1927	Memoria	ingested	thornton-wilder (PG 69768)	US PD; UK in copyright until 2046		5
-Millions of Cats	Wanda Gág	1928	Memoria	missing	picture book; Internet Archive	US PD since 2024	illustrations are the work	
+Millions of Cats	Wanda Gág	1928	Memoria	ingested	wanda-gag (IA, 1928 LC copy; a picture book, the scan is the work)	US PD since 2024	illustrations are the work	7
 Stopping by Woods on a Snowy Evening (New Hampshire)	Robert Frost	1923	Memoria	ingested	robert-frost (PG 58611)	US PD; UK in copyright until 2034		5
 Poems Every Child Should Know	Mary E. Burt (ed.)	1904	Memoria	ingested	burt (PG 16436)	PD		6
 Children's poems (Alexander, Field, Lear, Coleridge)	various	1802–1889	CiRCE; Memoria	ingested	lear (PG 13650) + eugene-field (PG 75578) + coleridge; Alexander's hymns not yet	PD		6

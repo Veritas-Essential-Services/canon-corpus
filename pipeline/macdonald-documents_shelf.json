@@ -1,0 +1,33 @@
+{
+  "_about": "William MacDonald, Select Documents Illustrative of the History of the United States, 1776-1861 (Macmillan, 1905 printing): the Articles of Confederation, the Northwest Ordinance of 1787, the Kentucky and Virginia Resolutions, Hayne's reply to Webster and other documents the lists name. Washington's Farewell Address is not in it. IA scan, raw OCR. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+  "_author": "William MacDonald (ed.)",
+  "_name_words": [
+    "william",
+    "macdonald"
+  ],
+  "_surname": [
+    "macdonald"
+  ],
+  "ccel": {},
+  "gutenberg": {},
+  "internet_archive": {
+    "macdonald-select-documents-1776-1861": [
+      "selectdocuments00macdrich",
+      "Select Documents Illustrative of the History of the United States, 1776-1861 (1905)"
+    ]
+  },
+  "_excluded": {},
+  "_checks": {
+    "macdonald-select-documents-1776-1861": {
+      "kind": "ia",
+      "checked": "2026-10-10",
+      "name_check": "surname",
+      "author_seen": "macdonald",
+      "identity": "ok",
+      "ia_rights": "ok: published 1905",
+      "ia_date": "1905",
+      "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+      "ia_lending": null
+    }
+  }
+}

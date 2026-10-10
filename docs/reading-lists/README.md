@@ -176,3 +176,18 @@ Gibbon vols 2–6 needed a chapter rule: their headings are indented and repeat 
 | `basil-padelford` | Plutarch and Basil on poetry, with Basil's Address to Young Men (Padelford, 1902; IA) |
 
 Left to Lane A, whose author shelves they belong on: Finney's Memoirs, Dabney's Stonewall Jackson, Ryle's Thoughts for Young Men, Spurgeon's Lectures to My Students, Perkins's A Reformed Catholic, Beza on the plague.
+
+### Batch 7 (2026-10-10): the last gaps
+
+4 shelves, 6 texts, all checks passed. Chaucer's three volumes are converted (11,501 units); the rest are Internet Archive scans and stay raw OCR.
+
+| Shelf | Works |
+|---|---|
+| `chaucer-skeat` | Chaucer's Works, ed. Skeat, vols 1–3: Romaunt of the Rose and minor poems; Boethius and Troilus; the House of Fame, Legend of Good Women and Astrolabe |
+| `vindiciae` | A Defence of Liberty against Tyrants (Vindiciae contra Tyrannos), the 1689 translation with Laski's introduction (1924) |
+| `wanda-gag` | Millions of Cats (1928). A picture book: the scan is the work, and its text is only a pointer |
+| `macdonald-documents` | Select Documents Illustrative of the History of the United States, 1776–1861: the Articles of Confederation, the Ordinance of 1787 and more |
+
+Found already held while checking: the Three Forms of Unity (Schaff's Creeds, vol. 3) and the English Lactantius (ANF 7, on PR #11). Whitefield's sermons are left to Lane A with his journals.
+
+What the lists still lack: Bonaventure's Mind's Road to God has no PD English translation found; Augustine's De Ordine and De Quantitate Animae have no PD English found; Washington's Farewell Address and the Clay, Calhoun and Garrison speeches; Bandello's novella and the CC anthology pieces, which need a source per story.
