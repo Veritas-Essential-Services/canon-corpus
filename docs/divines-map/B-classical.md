@@ -2741,6 +2741,7 @@ Shelf: `pipeline/percy-gardner_shelf.json`. Percy Gardner (1846-1937): Sculpture
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Sculptured Tombs of Hellas |  | `percy-gardner-sculptured-tombs-hellas` | have (PG 69508) |
+| A Manual of Greek Antiquities, books I-V by Percy Gardner, books VI-IX by F. B. Jevons, second edition (London: Charles Griffin, 1898) |  | `gardner-jevons-manual-greek-antiquities-1898` | have-raw (IA `manualofgreekant00gard`) |
 
 ## Walter Pater (scholarship)
 
