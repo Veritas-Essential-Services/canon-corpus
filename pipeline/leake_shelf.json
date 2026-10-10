@@ -1,0 +1,47 @@
+{
+ "_about": "William Martin Leake (1777-1860): The Topography of Athens and the Demi, second edition, 2 vols. (London: printed for the author, sold by J. Rodwell, 1841), raw IA OCR. His Travels in the Morea and in Northern Greece are wanted. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "leake"
+ ],
+ "_surname": [
+  "william martin leake",
+  "w. m. leake",
+  "leake, william martin"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "leake-topography-athens-v1-1841": [
+   "topographyathen02leakgoog",
+   "The Topography of Athens, with some remarks on its antiquities, second edition, vol. I (London: J. Rodwell, 1841)"
+  ],
+  "leake-demi-attica-v2-1841": [
+   "topographyathen05leakgoog",
+   "The Topography of Athens and the Demi, vol. II, The Demi of Attica, second edition (London: J. Rodwell, 1841)"
+  ]
+ },
+ "_checks": {
+  "leake-topography-athens-v1-1841": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william martin leake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leake-demi-attica-v2-1841": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william martin leake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

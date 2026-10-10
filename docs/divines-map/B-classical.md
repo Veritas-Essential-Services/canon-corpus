@@ -3377,6 +3377,8 @@ Shelf: `pipeline/leake_shelf.json`. The Topography of Athens and the Demi, 2nd e
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Topography of Athens, with some remarks on its antiquities, second edition, vol. I (London: J. Rodwell, 1841) |  | `leake-topography-athens-v1-1841` | have-raw (IA `topographyathen02leakgoog`) |
+| The Topography of Athens and the Demi, vol. II, The Demi of Attica, second edition (London: J. Rodwell, 1841) |  | `leake-demi-attica-v2-1841` | have-raw (IA `topographyathen05leakgoog`) |
 
 Pending (wishlist): Travels in the Morea (3 vols., 1830) and Travels in Northern Greece (4 vols., 1835).
 
