@@ -3040,6 +3040,11 @@ Shelf: `pipeline/mure_shelf.json`. A Critical History of the Language and Litera
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Critical History of the Language and Literature of Antient Greece, second edition, vol. I (London: Longman, 1854) |  | `mure-critical-history-greek-literature-v1-1854` | have-raw (IA `criticalhistoryo01mureuoft`) |
+| A Critical History of the Language and Literature of Antient Greece, vol. II (London: Longman, 1854) |  | `mure-critical-history-greek-literature-v2-1854` | have-raw (IA `acriticalhistor06muregoog`) |
+| A Critical History of the Language and Literature of Antient Greece, vol. III (London: Longman, 1850) |  | `mure-critical-history-greek-literature-v3-1850` | have-raw (IA `criticalhistoryo03mureuoft`) |
+| A Critical History of the Language and Literature of Antient Greece, vol. IV (London: Longman, 1853) |  | `mure-critical-history-greek-literature-v4-1853` | have-raw (IA `acriticalhistor04muregoog`) |
+| A Critical History of the Language and Literature of Antient Greece, vol. V (London: Longman, 1857) |  | `mure-critical-history-greek-literature-v5-1857` | have-raw (IA `criticalhistoryo05mureuoft`) |
 
 ## George Cornewall Lewis (scholarship)
 
