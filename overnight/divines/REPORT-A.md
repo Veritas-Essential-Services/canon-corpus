@@ -916,3 +916,6 @@
 
 ## 2026-10-10 13:56 CDT — william-kelly-brethren done
 - `pipeline/william-kelly-brethren_shelf.json`: 0 CCEL, 0 PG, 29 IA. Title pages read for kelly-daniel-notes, kelly-galatians, kelly-abram, kelly-elements-prophecy (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:56 CDT — f-w-grant done
+- `pipeline/f-w-grant_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for grant-numerical-bible-2, grant-numerical-bible-5 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

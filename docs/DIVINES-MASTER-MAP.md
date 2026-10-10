@@ -3745,6 +3745,27 @@ Slugs `kelly-*`. Brethren scholar and Darby's editor; Morrish and later Broom/We
 | Nabu, Klock & Klock, Bible Truth Publishers and Welch Foundation reprints | excluded | |
 | French translation of his Daniel | excluded | |
 | William Kelly of Leicester, the California travel writer, W. Hyde Kelly, J. N. D. Kelly, and CCEL's John Kelly | excluded | |
+
+## F. W. Grant (round 20, my pick, 2026-10-10)
+
+Slugs `grant-*`. Brethren expositor; the Numerical Bible title pages name no author, so the attribution rests on the catalogue and, for vol. 5, his signed preface.
+
+| Work | Status | Where |
+|---|---|---|
+| The Revelation of Christ to His Servants: Brief Notes in Interpretation (New York: Loizeaux Brothers, 63 Fourth Avenue; no year on title page) | have-ocr | IA `revelationofchri00granrich` |
+| Facts and Theories as to a Future State (New York: M. Cathcart; Toronto: S. W. Hallows; no year on title page, catalogued 1879) | have-ocr | IA `cihm_89794` |
+| Spiritual Law in the Natural World (New York: Loizeaux Brothers, copyright 1891) | have-ocr | IA `spirituallawinna00gran` |
+| The Numerical Bible, being a revised translation with expository notes, vol. 1, Pentateuch, fourth edition (New York: Loizeaux Brothers, 1 East 13th Street; copyright 1903; author not named on the title page) | have-ocr | IA `numericalbiblebe01gran` |
+| The Numerical Bible, being a revised translation with expository notes, vol. 2, Joshua to 2 Samuel, third edition (New York: Loizeaux Brothers, 1 East 13th Street; copyright 1901; author not named on the title page) | have-ocr | IA `numericalbiblebe02gran` |
+| The Numerical Bible, being a revised translation with expository notes, vol. 3, Psalms, fourth edition (New York: Loizeaux Brothers, 1 East 13th Street; copyright year garbled; author not named on the title page) | have-ocr | IA `numericalbiblebe03gran` |
+| The Numerical Bible, being a revised translation with expository notes, vol. 5, Gospels, third edition (New York: Loizeaux Brothers, 1 East 13th Street; copyright 1901; author not named on the title page) | have-ocr | IA `numericalbiblebe05gran` |
+| The Numerical Bible, being a revised translation with expository notes, vol. 6, Acts to 2 Corinthians, fourth edition (New York: Loizeaux Brothers, 1 East 13th Street; no year in OCR; author not named on the title page) | have-ocr | IA `numericalbiblebe06gran` |
+| The Numerical Bible, being a revised translation with expository notes, vol. 7, Hebrews to Revelation, third edition (New York: Loizeaux Brothers, 1 East 13th Street; copyright 1903; author not named on the title page) | have-ocr | IA `numericalbiblebe07gran` |
+| Facts and Theories, second edition enlarged (1889; IA factsandtheorie00grangoog) | alternate | not shelved |
+| Numerical Bible, Psalms, copyright 1897 (IA numericalbiblebe0000loiz_n0n7) | alternate | not shelved |
+| Ought We to be Watching? (Toronto, catalogued 1877; cihm_33695) and A Letter Relating to the Division at Montreal (1885; cihm_60949): no author on their title pages | alternate | not shelved |
+| Numerical Bible printings of 1932 and later (New York 10, Neptune NJ) | excluded | |
+| Frederick Dent Grant, Miles Grant, James Grant | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

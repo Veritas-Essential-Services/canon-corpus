@@ -2362,10 +2362,12 @@
     },
     {
       "id": "f-w-grant",
-      "status": "queued",
+      "status": "done",
       "scope": "F. W. Grant (Frederick William Grant, d. 1902): The Numerical Bible, Facts and Theories as to a Future State",
       "added": "2026-10-10T13:16:19-05:00",
-      "added_by": "lane A worker, round 20, continuing on Adam's 2026-10-10 keep-going request. Plymouth Brethren and their neighbours, Scottish Marrow men, and three Victorian Anglicans and scholars. Checked against every remote branch's shelves and queues: none held."
+      "added_by": "lane A worker, round 20, continuing on Adam's 2026-10-10 keep-going request. Plymouth Brethren and their neighbours, Scottish Marrow men, and three Victorian Anglicans and scholars. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:56:04-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "b-w-newton",
