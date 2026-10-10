@@ -2284,6 +2284,16 @@ Slugs `jdavenport-*`. The New Haven founder (1597-1670).
 | The Knowledge of Christ (1653); Another Essay (1663); The Power of Congregational Churches (1672); An Apologeticall Reply (1636) | have-ocr | IA Early English Books scans, OCR 81-87%: 17th-century type, poor |
 | A Catechisme (1659) | excluded | OCR is noise |
 | A Discourse about Civil Government (1663) | excluded | title page attributes it to John Cotton |
+
+## James Petigru Boyce (round 15, my pick, 2026-10-10)
+
+Slugs `boyce-*`. One work; the 1887 first edition on IA is an alternate to collate CCEL against.
+
+| Work | Status | Where |
+|---|---|---|
+| Abstract of Systematic Theology (CCEL; print source 1887) | have-clean | CCEL b/boyce/theology |
+| Abstract of Systematic Theology (Baltimore: H. M. Wharton, 1887, the first published edition; IA abstractofsystem00boyc_0): the dated edition to collate the CCEL text against | alternate | not shelved |
+| the 1882 Louisville printing for his pupils only (IA abstractofsystem00boyc), not published | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
