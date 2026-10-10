@@ -3028,6 +3028,11 @@ Shelf: `pipeline/george-long_shelf.json`. The Decline of the Roman Republic, 5 v
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Decline of the Roman Republic, vol. I (London: Bell and Daldy, 1864) |  | `george-long-decline-roman-republic-v1-1864` | have-raw (IA `declineromanrep01unkngoog`) |
+| The Decline of the Roman Republic, vol. II (London: Bell and Daldy, 1866) |  | `george-long-decline-roman-republic-v2-1866` | have-raw (IA `declineofromanre02longuoft`) |
+| The Decline of the Roman Republic, vol. III (London: Bell and Daldy, 1869) |  | `george-long-decline-roman-republic-v3-1869` | have-raw (IA `declineromanrep00longgoog`) |
+| The Decline of the Roman Republic, vol. IV (London: Bell and Daldy, 1872) |  | `george-long-decline-roman-republic-v4-1872` | have-raw (IA `declineromanrep03longgoog`) |
+| The Decline of the Roman Republic, vol. V (London: Bell and Daldy, 1874) |  | `george-long-decline-roman-republic-v5-1874` | have-raw (IA `declineofromanre05longuoft`) |
 
 ## William Mure (scholarship)
 
