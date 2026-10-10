@@ -3491,6 +3491,7 @@ Shelf: `pipeline/allen-greenough_shelf.json`. Latin Grammar Founded on Comparati
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Latin Grammar Founded on Comparative Grammar, revised edition (Boston: Ginn, 1887) |  | `allen-greenough-latin-grammar-1887` | have-raw (IA `latingrammar00greegoog`) |
 
 ## Perseus census (overflow)
 
