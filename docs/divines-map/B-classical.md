@@ -336,7 +336,6 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | The Odyssey of Homer, Books I-XII, translated into English verse, with notes and parallel passages (Edinburgh and London: William Blackwood and Sons, 1880) | Sir Charles Du Cane | `homer-du-cane-odyssey-1880` | have-raw (IA `odysseybooksixi00homegoog`) |
 | The Iliad of Homer in English Hexameter Verse (London: Longmans, Green, and Co.; title-page date partly legible as LXV, catalogue 1865) | J. Henry Dart | `homer-dart-iliad-1865` | have-raw (IA `cu31924026468441`) |
 | The Iliad of Homer, translated into English prose, edited with an introduction by Evelyn Abbott (London: Percival and Co., 1891) | John Purves | `homer-purves-iliad-1891` | have-raw (IA `iliadhomertrans00abbogoog`) |
-| The Hymns of Homer, translated into verse from the original Greek, with notes (Philadelphia: Mifflin and Parry, 1830) | Columbus C. Conwell | `homer-conwell-hymns-1830` | have-raw (IA `hymnshomertrans00conwgoog`) |
 
 Pending (wishlist): none known beyond the rows above.
 
@@ -1522,6 +1521,7 @@ Shelf: `pipeline/greek-lyric_shelf.json`. Mackail, Wharton's Sappho, Moore's Ana
 | The Odes of Anacreon translated from the Greek into English verse (London: B. Crosby, 1804) | Thomas Girdlestone | `anacreon-girdlestone-1804` | have-raw (IA `odesanacreontra00girdgoog`) |
 | Anacreon in English, attempted in the metres of the original (undated title page; the publisher's advertisements bound in quote notices of July 1868, the latest year in the book; IA gives 1869) | Thomas James Arnold | `anacreon-arnold-1869` | have-raw (IA `anacreoninengli00anacgoog`) |
 | Greek Anthology, with notes critical and explanatory (London: Nissen and Parker; undated, after 1857 by its preface) | Robert Guthrie MacGregor | `greek-anthology-macgregor` | have-raw (IA `greekanthologywi00macguoft`) |
+| Anacreon, Bion and Moschus, with other translations, first printed 1651, a new edition (London: Longman, 1815) | Thomas Stanley | `anacreon-stanley-1815` | have-raw (IA `anacreonbionmosc00bionuoft`) |
 
 Pending (wishlist): Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus/Aratus/Oppian (all Loebs, Greek facing). Callimachus, Aratus, Tryphiodorus and Musaeus in older translations are on the late-greek-poets shelf.
 

@@ -55,6 +55,11 @@
    "greekanthologywi00macguoft",
    "Greek Anthology, with notes critical and explanatory (London: Nissen and Parker; undated, after 1857 by its preface)",
    "tr. Robert Guthrie MacGregor"
+  ],
+  "anacreon-stanley-1815": [
+   "anacreonbionmosc00bionuoft",
+   "Anacreon, Bion and Moschus, with other translations, first printed 1651, a new edition (London: Longman, 1815)",
+   "tr. Thomas Stanley"
   ]
  },
  "_excluded": {
@@ -84,7 +89,8 @@
   "anacreon-fawkes-1760": "Fawkes",
   "anacreon-girdlestone-1804": "Girdlestone",
   "anacreon-arnold-1869": "thomas james arnold",
-  "greek-anthology-macgregor": "robert guthrie macgregor"
+  "greek-anthology-macgregor": "robert guthrie macgregor",
+  "anacreon-stanley-1815": "thomas stanley"
  },
  "_checks": {
   "greek-anthology-mackail": {
@@ -200,6 +206,19 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null,
    "rights_override": "Title page read 2026-10-10: 'Translated by Major Robert Guthrie MacGregor. London: Nissen & Parker, 43, Mark Lane', no year. The preface refers to his 1857 Epitaphs from the Greek Anthology and to 1854-55; the dedication addresses W. E. Gladstone, M.P. and P.C., as living (he died 1898). A nineteenth-century printing, so public domain."
+  },
+  "anacreon-stanley-1815": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "thomas stanley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_surname_by_slug": {
