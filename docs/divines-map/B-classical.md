@@ -2736,7 +2736,7 @@ Shelf: `pipeline/k-j-freeman_shelf.json`. Kenneth John Freeman (1882-1906); ed. 
 
 ## Percy Gardner (scholarship)
 
-Shelf: `pipeline/percy-gardner_shelf.json`. Percy Gardner (1846-1937), Oxford classical archaeologist: 1 clean Gutenberg text. Not minted.
+Shelf: `pipeline/percy-gardner_shelf.json`. Percy Gardner (1846-1937): Sculptured Tombs of Hellas (clean Gutenberg) and A Manual of Greek Antiquities with F. B. Jevons, 2nd ed. (Griffin, 1898, raw IA OCR). Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -3252,6 +3252,50 @@ Shelf: `pipeline/ihne_shelf.json`. The History of Rome, English edition (the aut
 | The History of Rome, English edition, vol. III (London: Longmans, Green, 1877) |  | `ihne-history-rome-v3-1877` | have-raw (IA `historyofrome03ihne`) |
 | The History of Rome, English edition, vol. IV (London: Longmans, Green, 1882) |  | `ihne-history-rome-v4-1882` | have-raw (IA `historyofrome04ihne`) |
 | The History of Rome, English edition, vol. V (London: Longmans, Green, 1882) |  | `ihne-history-rome-v5-1882` | have-raw (IA `historyofrome05ihne`) |
+
+## E. H. Bunbury (scholarship)
+
+Shelf: `pipeline/bunbury_shelf.json`. A History of Ancient Geography among the Greeks and Romans, 2 vols. (John Murray, 1879), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Ancient Geography among the Greeks and Romans, vol. I (London: John Murray, 1879) |  | `bunbury-ancient-geography-v1-1879` | have-raw (IA `historyofancient01bunb`) |
+| A History of Ancient Geography among the Greeks and Romans, vol. II (London: John Murray, 1879) |  | `bunbury-ancient-geography-v2-1879` | have-raw (IA `ahistoryancient01bunbgoog`) |
+
+## H. F. Tozer (scholarship)
+
+Shelf: `pipeline/tozer_shelf.json`. A History of Ancient Geography (Cambridge, 1897), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## T. H. Dyer (scholarship)
+
+Shelf: `pipeline/dyer_shelf.json`. Ancient Athens (1873) and The City of Rome, 2nd ed. (1883), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## J. H. Middleton (scholarship)
+
+Shelf: `pipeline/middleton_shelf.json`. The Remains of Ancient Rome, 2 vols. (A. and C. Black, 1892), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## William Ramsay (scholarship)
+
+Shelf: `pipeline/ramsay_shelf.json`. A Manual of Roman Antiquities, 2nd ed. (Griffin, 1851), raw IA OCR. Professor of Humanity at Glasgow, not Sir W. M. Ramsay. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Christopher Wordsworth (scholarship)
+
+Shelf: `pipeline/christopher-wordsworth_shelf.json`. Athens and Attica, 2nd ed. (John Murray, 1837), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
 
 ## Perseus census (overflow)
 

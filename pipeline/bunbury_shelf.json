@@ -1,0 +1,47 @@
+{
+ "_about": "Edward Herbert Bunbury (1811-1895): A History of Ancient Geography among the Greeks and Romans, 2 vols. (London: John Murray, 1879), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "bunbury"
+ ],
+ "_surname": [
+  "e. h. bunbury",
+  "edward herbert bunbury",
+  "bunbury, e. h"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bunbury-ancient-geography-v1-1879": [
+   "historyofancient01bunb",
+   "A History of Ancient Geography among the Greeks and Romans, vol. I (London: John Murray, 1879)"
+  ],
+  "bunbury-ancient-geography-v2-1879": [
+   "ahistoryancient01bunbgoog",
+   "A History of Ancient Geography among the Greeks and Romans, vol. II (London: John Murray, 1879)"
+  ]
+ },
+ "_checks": {
+  "bunbury-ancient-geography-v1-1879": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bunbury, e. h",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bunbury-ancient-geography-v2-1879": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. h. bunbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
