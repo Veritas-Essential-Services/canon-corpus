@@ -3432,6 +3432,39 @@ Slugs `gerhart-*`. Mercersburg theologian. The two-volume Institutes, the Heidel
 | Rauch's The Inner Life of the Christian, which he edited (1856), and collective addresses and dedications where he wrote only a part | excluded | |
 | periodical articles | excluded | |
 | Gerhart Hauptmann and others | excluded | |
+
+## W. H. Griffith Thomas (round 19, my pick, 2026-10-10)
+
+Slugs `gthomas-*`. Held to printings before 1930: twenty items. The Principles of Theology (1930) is outside the cutoff.
+
+| Work | Status | Where |
+|---|---|---|
+| The Prayers of St. Paul (New York: Charles Scribner's Sons, 1914) | have-clean | Gutenberg 30389 |
+| The Apostle Peter: Outline Studies in his Life, Character, and Writings (London: Religious Tract Society, 1904) | have-ocr | IA `apostlepeter0000whgr` |
+| Genesis I-XXV.10: A Devotional Commentary, third edition (London: Religious Tract Society, 1909) | have-ocr | IA `genesisadevotion00thomuoft` |
+| Genesis XXV.11-XXXVI.8: A Devotional Commentary, second edition (London: Religious Tract Society, 1909) | have-ocr | IA `genesisdevotiona0002thom` |
+| Genesis XXXVII-L: A Devotional Commentary (London: Religious Tract Society, 1908) | have-ocr | IA `genesisadevotion03thomuoft` |
+| Romans I-V: A Devotional Commentary (London: Religious Tract Society, 1911) | have-ocr | IA `romansdevotional0000thom` |
+| Romans VI-XI: A Devotional Commentary (London: Religious Tract Society, 1912) | have-ocr | IA `romansdevotional0000thom_d3n8` |
+| Methods of Bible Study (New York: Fleming H. Revell; no year on title page, catalogued 1903) | have-ocr | IA `methodsofbiblest0000whgr_y8d9` |
+| The Work of the Ministry (London: Hodder and Stoughton; no year on title page, catalogued 1910) | have-ocr | IA `theworkofthemini00thomuoft` |
+| Life Abiding and Abounding: Bible Studies in Prayer and Meditation (Chicago: Bible Institute Colportage Association; no year on title page, catalogued 1910) | have-ocr | IA `lifeabidingaboun00thom` |
+| The Conflict of Ideals in the English Church, an address (Toronto; no imprint read, catalogued 1910) | have-ocr | IA `cihm_76187` |
+| What Did Our Lord Mean? Notes on the Holy Communion (Toronto: J. M. Robertson; no year on title page, the text cites November 1910) | have-ocr | IA `cihm_80483` |
+| The Holy Spirit of God, the L. P. Stone Lectures (London: Longmans, Green, 1913) | have-ocr | IA `holyspiritofgod00thom` |
+| Stronghold of Truth: Five Lectures at the Montrose Bible Conference (Los Angeles: Biola Book Room, copyright 1915) | have-ocr | IA `strongholdoftrut0000whgr` |
+| Christianity is Christ, fifth impression (London: Longmans, Green, 1916) | have-ocr | IA `christianityisch0000whgr` |
+| Grace and Power: Some Aspects of the Spiritual Life (Fleming H. Revell, copyright 1916) | have-ocr | IA `gracepowersomeas00thom` |
+| The Christian Life and How to Live It (Chicago: Bible Institute Colportage Association, copyright 1919) | have-ocr | IA `christianlifehow00thom` |
+| The Catholic Faith: A Manual of Instruction for Members of the Church of England, new edition (London: Longmans, Green, 1920) | have-ocr | IA `thecatholicfaith00thomuoft` |
+| Christ Pre-eminent: Studies in the Epistle to the Colossians (Chicago: Bible Institute Colportage Association, copyright 1923) | have-ocr | IA `christpreeminent00thom` |
+| And God Spake These Words: How We Got Our Bible and Why We Believe It Is God's Word (Philadelphia: Sunday School Times, copyright 1926) | have-ocr | IA `andgodspakethese0000revw` |
+| Ministerial Life and Work, an abridgement of The Work of the Ministry by his wife (1927; IA ministeriallifew00thom) | alternate | not shelved |
+| Second copies of Genesis vol. 1, The Prayers of St. Paul, Grace and Power, The Christian Life and Christ Pre-eminent | alternate | not shelved |
+| The Principles of Theology: first published 1930, all IA copies 1945-1963 | excluded | |
+| Eerdmans, Moody and other post-1930 printings; a 1955 Catholic Faith; an undated Pickering & Inglis Apostle John | excluded | |
+| Armitage's The Fruit of the Spirit: introductory note only | excluded | |
+| other Thomas Griffiths | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
