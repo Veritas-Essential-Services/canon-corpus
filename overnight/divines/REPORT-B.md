@@ -574,3 +574,9 @@
 ## 2026-10-03 07:21 CDT — Greek prose title sweep
 - R. W. Mackay, Sophistes (1868), 0.88
 - Not taken: Kennedy's Theaetetus (Greek facing, 0.60); ECCO Xenophon copies already covered by the held multi-hand volume
+
+## 2026-10-10 09:11 CDT — Round 2026-10-10a: title sweeps, plus Ransome
+- Ransome shelf: book 1 held (US public domain since 2026-01-01); books 2-12 excluded with their US dates; none UK-free until 2038
+- Added 9 volumes across Seneca, Pindar, Greek lyric, Marcus Aurelius, Lucian
+- Held back for Adam: Index Expurgatorius of Martial (1868); Carr's Dialogues of Lucian (title-page rule)
+- Excluded under the OCR bar: the 1773 Martial (0.43), the 1806 Anacreon (0.70), Murphy's Lucian (0.68)
