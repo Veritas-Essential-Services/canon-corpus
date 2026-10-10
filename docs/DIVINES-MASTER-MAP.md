@@ -8924,6 +8924,16 @@ Shelf: `pipeline/thomas-day_shelf.json` (2026-10-02; added at the coordinator's 
 | The History of Sandford and Merton | have | PG 30274, `tday-history-of-sandford-and-merton` (1186 units) |
 | The History of Little Jack, a Foundling | have | PG 42805, `tday-history-of-little-jack` (61 units) |
 
+## F. W. Farrar
+
+Shelf: `pipeline/farrar_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Three school stories; cut by chapter. His sermons and commentaries are Lane A's. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Eric, or Little by Little | have | PG 23126, `farrar-eric-or-little-by-little` (2145 units) |
+| Julian Home | have | PG 23127, `farrar-julian-home` (2015 units) |
+| St. Winifred's; or, The World of School | have | PG 24329, `farrar-st-winifreds` (2325 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

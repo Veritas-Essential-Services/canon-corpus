@@ -1,0 +1,92 @@
+{
+ "_about": "F. W. Farrar's three school stories: Eric, or Little by Little (this printing 1889), Julian Home and St. Winifred's, or The World of School (both undated in the text). His sermons, Bible commentaries and Life of Christ are Lane A's territory and are not taken here. Gutenberg's 1902 printing of Eric (PG 12083) is not taken. Gutenberg catalogue: Farrar 1831-1903. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "F. W. Farrar",
+ "_name_words": [
+  "school"
+ ],
+ "_surname": [
+  "f. w. farrar",
+  "frederic w. farrar",
+  "frederic william farrar"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "farrar-eric-or-little-by-little": [
+   23126,
+   "Eric, or Little by Little",
+   {
+    "levels": [
+     {
+      "re": "VOLUME (ONE|TWO)\\.?, CHAPTER [A-Z ]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "VOLUME ONE, CHAPTER ONE\\.$",
+    "front": true
+   }
+  ],
+  "farrar-julian-home": [
+   23127,
+   "Julian Home",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [A-Z ]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER ONE\\.$",
+    "front": true
+   }
+  ],
+  "farrar-st-winifreds": [
+   24329,
+   "St. Winifred's; or, The World of School",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [A-Z ]+\\.$",
+      "title_next": true
+     },
+     {
+      "re": "PART II\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER ONE\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "farrar-eric-or-little-by-little": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. w. farrar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "farrar-julian-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. w. farrar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "farrar-st-winifreds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. w. farrar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

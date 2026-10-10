@@ -905,3 +905,6 @@
 
 ## 2026-10-10 09:50 CDT — thomas-day: done
 - 2/2 fetched (Gutenberg 30274, 42805), 1,247 units, 0 ~2 ids.
+
+## 2026-10-10 09:52 CDT — farrar: done
+- 3/3 fetched (Gutenberg 23126, 23127, 24329), 6,485 units, 0 ~2 ids.
