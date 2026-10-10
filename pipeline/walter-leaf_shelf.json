@@ -1,5 +1,5 @@
 {
- "_about": "Walter Leaf (1852-1927): Troy, a Study in Homeric Geography (London: Macmillan, 1912), raw IA OCR. His Iliad with Lang and Myers (PG 3059) is on the lang shelf. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Walter Leaf (1852-1927): Troy, a Study in Homeric Geography (London: Macmillan, 1912) and Homer and History (Macmillan, 1915), raw IA OCR. His Iliad with Lang and Myers (PG 3059) is on the lang shelf. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
  "_name_words": [
   "leaf"
  ],
@@ -13,6 +13,10 @@
   "walter-leaf-troy-1912": [
    "troystudyinhomer00leaf",
    "Troy: A Study in Homeric Geography (London: Macmillan, 1912)"
+  ],
+  "walter-leaf-homer-history-1915": [
+   "gpl_1735164",
+   "Homer and History (London: Macmillan, 1915)"
   ]
  },
  "_checks": {
@@ -24,6 +28,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1912",
    "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "walter-leaf-homer-history-1915": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "walter leaf",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }

@@ -3218,6 +3218,7 @@ Shelf: `pipeline/walter-leaf_shelf.json`. Troy, a Study in Homeric Geography (19
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Troy: A Study in Homeric Geography (London: Macmillan, 1912) |  | `walter-leaf-troy-1912` | have-raw (IA `troystudyinhomer00leaf`) |
+| Homer and History (London: Macmillan, 1915) |  | `walter-leaf-homer-history-1915` | have-raw (IA `gpl_1735164`) |
 
 ## Evelyn Abbott (scholarship)
 
