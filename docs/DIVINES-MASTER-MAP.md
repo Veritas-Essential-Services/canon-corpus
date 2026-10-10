@@ -8341,6 +8341,18 @@ Shelf: `pipeline/sophie-may_shelf.json` (2026-10-02; added at the coordinator's 
 | Little Prudy's Dotty Dimple | have | PG 16390, `smay-little-prudys-dotty-dimple` (769 units) |
 | smay-little-prudys-captain-horace-2 | excluded | PG 53306, Little Prudy's Captain Horace in a later printing: the same book as PG 25484, which is kept; held once (2026-10-10). |
 
+## Jacob Abbott
+
+Shelf: `pipeline/jacob-abbott_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The first Rollo books; cut by story and section, or by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Rollo at Work | have | PG 25274, `jabbott-rollo-at-work` (968 units) |
+| Rollo at Play; Or, Safe Amusements | have | PG 11140, `jabbott-rollo-at-play` (939 units) |
+| Rollo's Experiments | have | PG 24993, `jabbott-rollos-experiments` (952 units) |
+| Rollo's Museum | have | PG 25548, `jabbott-rollos-museum` (1003 units) |
+| jabbott-rollo-in-the-woods | excluded | PG 19195, 'Rollo in the Woods': a short Rollo Story Books number whose text is 94% the same paragraphs as Rollo at Play (PG 11140), which is kept; held once (2026-10-10). |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

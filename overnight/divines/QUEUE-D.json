@@ -1937,8 +1937,10 @@
     {
       "id": "jacob-abbott",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: jacob-abbott; no minting",
-      "status": "running",
-      "started": "2026-10-10T09:03:14-05:00"
+      "status": "done",
+      "started": "2026-10-10T09:03:14-05:00",
+      "finished": "2026-10-10T09:05:19-05:00",
+      "notes": "4/4 fetched (Gutenberg 25274, 11140, 24993, 25548), 3,862 units, 0 ~2 ids."
     },
     {
       "id": "oliver-optic",
