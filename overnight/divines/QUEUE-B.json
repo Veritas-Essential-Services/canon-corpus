@@ -1140,6 +1140,14 @@
    "started": "2026-10-10T12:04:02-05:00",
    "finished": "2026-10-10T12:06:26-05:00",
    "notes": "7 volumes on 5 new shelves"
+  },
+  {
+   "id": "round-2026-10-10ac",
+   "status": "done",
+   "scope": "Leake's Travels; Mahaffy's Greek literature",
+   "started": "2026-10-10T12:06:26-05:00",
+   "finished": "2026-10-10T12:08:59-05:00",
+   "notes": "8 volumes; Mahaffy hold from 10v resolved"
   }
  ]
 }

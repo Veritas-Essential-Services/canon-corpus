@@ -749,3 +749,8 @@
 - Greek drama: Donaldson's Theatre of the Greeks (7th ed., 1860, OCR 0.781), Lewis Campbell's Guide to Greek Tragedy (1891) and Religion in Greek Literature (1898), Moulton's Ancient Classical Drama (1890)
 - Felton's Greece, Ancient and Modern (9th ed., 1893); Leake's Topography of Athens and the Demi (2nd ed., 2 vols., 1841)
 - Skipped: Blackie (a blackie shelf already exists on this branch); K. O. Müller's Dorians (no IA hit under that search)
+
+## 2026-10-10 12:08 CDT — Round 2026-10-10ac: 8 volumes
+- Leake's Travels in Northern Greece, 4 vols. (1835), and Travels in the Morea, vols. I and III (1830); Morea vol. II wanted (IA returned 503)
+- Mahaffy's History of Classical Greek Literature, 2 vols., from a consistent Harper (New York) 1880 set; this settles the round-10v hold, which was about mixed editions
+- Not found: K. O. Müller's Dorians in English (no IA hit under a title search)
