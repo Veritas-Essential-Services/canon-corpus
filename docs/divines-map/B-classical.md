@@ -418,6 +418,7 @@ Shelf: `pipeline/euripides_shelf.json`. Translator per title; complete in Way (v
 | The Alcestis of Euripides translated into English verse for the thirteenth annual rendition of the Classical Department (Beloit, Wis.: Ingersoll, 1898) | the Class of 1900 of Beloit College | `euripides-beloit-alcestis-1898` | have-raw (IA `alcestisofeuripi00euri_1`) |
 | Euripides' Alcestis translated, with introduction and notes by J. Churton Collins (Oxford: Clarendon Press, 1906) | H. Kynaston | `euripides-kynaston-alcestis-1906` | have-raw (IA `euripidesalcest00eurigoog`) |
 | The Bacchae and Heraclidae of Euripides, literally translated into English from the text of Dindorf, by a Member of the University of Oxford (London: Henry Washbourne, 1846) | anonymous ('a Member of the University of Oxford') | `euripides-oxford-member-bacchae-heraclidae-1846` | have-raw (IA `TheBacchaeAndHeraclidae`) |
+| The Ion of Euripides, now first translated into English in its original metres (London: Williams and Norgate, 1889) | H. B. L. | `euripides-hbl-ion-1889` | have-raw (IA `ionofeuripidesno00euriiala`) |
 
 Pending (wishlist): Way's 1912 Loeb (Greek facing). Potter's Euripides is held complete in the 1832 Valpy reprint (3 vols.). Wodhull's Euripides is held complete from the 1809 Greek Tragic Theatre (vols. 3-5).
 
