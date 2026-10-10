@@ -606,3 +606,8 @@
 - Added: Potter's Sophocles (1820, cleaner scan), Gilchrist's Iliad I-VIII (1869), Bland's Greek Anthology collections (1813)
 - Corrected: Goldwin Smith's Euripides excerpts moved to _excluded, matching the rule already applied to his Sophocles
 - Held already: Adams's Hippocrates, Morgan's Vitruvius, Bennett's Frontinus, Collier's Celsus, Holland's Suetonius
+
+## 2026-10-10 09:54 CDT — Round 2026-10-10g: refused items retried
+- Added: Smart's prose Horace (1780, 2 vols.), Smart's verse Horace (1767, vol. I), Thornton's Plautus (1769, vols. I-II), Angel Day's Daphnis and Chloe (1890 reprint of 1587)
+- Held back: Thornley's Daphnis (modern reprint with no printed year)
+- Still wanted from cleaner scans: Aristaenetus 1771, Taylor's Julian 1793, Mawer's Oppian 1736, Gillies's Lysias 1778, Dart's Tibullus 1720, Pitt's Aeneid 1740, Polwhele's Theocritus

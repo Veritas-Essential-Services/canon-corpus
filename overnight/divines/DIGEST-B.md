@@ -162,3 +162,4 @@
 - Round 2026-10-10d (09:31): five volumes added; no decision needed.
 - Round 2026-10-10e (09:42): six volumes added. Cooke's Terence vol. II joins Carr's Lucian in the title-page question already asked; no new decision.
 - Round 2026-10-10f (09:48): three volumes added; Goldwin Smith's Euripides excerpts taken back out. No decision needed.
+- Round 2026-10-10g (09:54): six volumes added from retries of refused items; no decision needed.

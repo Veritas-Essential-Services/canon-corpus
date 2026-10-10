@@ -964,6 +964,14 @@
    "started": "2026-10-10T09:42:13-05:00",
    "finished": "2026-10-10T09:48:14-05:00",
    "notes": "Science, technical and historian candidates were all held. From the subject sweep: Potter's Sophocles 1820 from a cleaner scan (0.843; the refused one read 0.758), Gilchrist's Iliad I-VIII 1869, Bland's Collections from the Greek Anthology 1813. Goldwin Smith's Euripides Specimens (added in round 10d) taken back out: excerpts, excluded like his PG 7073 volume."
+  },
+  {
+   "id": "round-2026-10-10g",
+   "status": "done",
+   "scope": "Retry of items refused for OCR or wanted from a cleaner scan",
+   "started": "2026-10-10T09:48:14-05:00",
+   "finished": "2026-10-10T09:54:27-05:00",
+   "notes": "Found cleaner or other editions for four refused or wanted items: Smart's prose Horace (5th ed. 1780, 2 vols.) and his verse Horace (1767, vol. I), Thornton's Plautus (2nd ed. 1769, vols. I-II), and Angel Day's Daphnis and Chloe (1587, Jacobs's 1890 reprint). Thornley's Daphnis held back (undated modern reprint). Still not found cleaner: Aristaenetus, Taylor's Julian, Mawer's Oppian, Gillies's Lysias, Dart's Tibullus, Pitt's Aeneid, Polwhele's Theocritus."
   }
  ]
 }
