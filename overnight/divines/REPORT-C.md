@@ -173,3 +173,5 @@
 - 2026-10-10T15:03-05:00: round 47: singles-arts-miscellany (51). --verify --record 0 mismatched. Flag: Rimsky-Korsakov's Principles of Orchestration keyed from the 1964 Dover reprint. _pending: Van Gogh letters (HTML only). Excluded: Buzz a Buzz (no plain text).
 
 - 2026-10-10T15:12-05:00: round 48: singles-fiction-4 (99). --verify --record 0 mismatched. Flag: Maurois's General Bramble keyed from a 1931 reprint. Excluded: Karl May's Travel Tales (COPYRIGHTED PG header), My First Battle (2009 translation). Left for owner: Lisbeth Longfrock (poulsson, Lane D).
+
+- 2026-10-10T15:15-05:00: round 49: singles-nonfiction-2 (84). --verify --record 0 mismatched. Facsimiles flagged: Rapin/Creech (ARS 1947), Gregorovius's Lucretia Borgia (Blom 1968), Tosi/Galliard (Reeves 1967). Excluded: Nicole/Cunningham (a 1950 translation) and Fernández Bolívar (modern).

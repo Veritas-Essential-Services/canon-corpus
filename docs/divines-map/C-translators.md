@@ -5972,6 +5972,100 @@ Round 48 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | poulsson-26348: Aanrud's Lisbeth Longfrock (tr. Laura E. Poulsson): left for Lane D's poulsson shelf, which covers both Poulsson sisters. | — | — | excluded | — |
 | — | — | may-25729: Karl May's Travel Tales in the Promised Land (tr. Schoonover): the Gutenberg header marks it a COPYRIGHTED Project Gutenberg eBook, and the rights gate refuses it. | — | — | excluded | — |
 
+## One-off translations: history, travel, ideas and music from the first stretch of the list (De Orbe Novo, Morga's Philippines, Lobo's Abyssinia by Samuel Johnson, the Tudor Machiavelli, Lamartine's Girondists, Arago, Wagner On Conducting)
+
+Shelf: `pipeline/singles-nonfiction-2_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-nonfiction-2` · titles `python3 pipeline/split_shelf_titles.py singles-nonfiction-2`.
+Round 49 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-nonfiction-2-achenwall-achenwall-s-observations-on-north-americ` | Gottfried Achenwall | Achenwall's Observations on North America | J. G. Rosengarten | (see the Gutenberg header) | have | PG 24752 |
+| `singles-nonfiction-2-adam-the-schemes-of-the-kaiser` | Juliette Adam | The Schemes of the Kaiser | J. O. P. Bland | (see the Gutenberg header) | have | PG 17737 |
+| `singles-nonfiction-2-amman-the-talking-deaf-man-a-method-proposed-w` | Johann Conrad Amman | The Talking Deaf Man A Method Proposed, Whereby He Who is Born Deaf, May Learn to Speak | Daniel Foot | (see the Gutenberg header) | have | PG 13014 |
+| `singles-nonfiction-2-anghiera-de-orbe-novo-volume-1-of-2-the-eight-dec` | Pietro Martire d' Anghiera | De Orbe Novo, Volume 1 (of 2) The Eight Decades of Peter Martyr D'Anghera | Francis Augustus MacNutt | (see the Gutenberg header) | have | PG 12425 |
+| `singles-nonfiction-2-anon-how-to-write-a-play-letters-from-augier` | Augier, Banville, Dennery, Dumas, Gondinet, Labiche, Legouvé, Pailleron, Sardou, Zola | How to Write a Play Letters from Augier, Banville, Dennery, Dumas, Gondinet, Labiche, Legouvé, Pailleron, Sardou and Zola | Dudley H. Miles | (see the Gutenberg header) | have | PG 18230 |
+| `singles-nonfiction-2-arago-biographies-of-distinguished-scientific` | F. Arago | Biographies of distinguished scientific men. First series | Robert Grant and Baden Powell and W. H. Smyth | (see the Gutenberg header) | have | PG 16775 |
+| `singles-nonfiction-2-becker-christianity-and-islam` | Carl Heinrich Becker | Christianity and Islam | H. J. Chaytor | (see the Gutenberg header) | have | PG 11198 |
+| `singles-nonfiction-2-bernhardi-cavalry-in-future-wars` | Friedrich von Bernhardi | Cavalry in Future Wars | Charles Sydney Goldman | (see the Gutenberg header) | have | PG 28298 |
+| `singles-nonfiction-2-birnbaum-prof-koch-s-method-to-cure-tuberculosis` | Max Birnbaum | Prof. Koch's Method to Cure Tuberculosis Popularly Treated | Fr. Brendecke | (see the Gutenberg header) | have | PG 27181 |
+| `singles-nonfiction-2-blakman-henry-the-sixth` | John Blakman | Henry the Sixth | M. R. James | (see the Gutenberg header) | have | PG 29689 |
+| `singles-nonfiction-2-boelcke-an-aviator-s-field-book-being-the-field` | Oswald Boelcke | An Aviator's Field Book Being the field reports of Oswald Bölcke, from August 1, 1914 to October 28, 1916 | Robert Reynold Hirsch | (see the Gutenberg header) | have | PG 30011 |
+| `singles-nonfiction-2-bordeaux-georges-guynemer` | Henry Bordeaux | Georges Guynemer: Knight of the Air | Louise Morgan Sill | (see the Gutenberg header) | have | PG 18117 |
+| `singles-nonfiction-2-busoni-sketch-of-a-new-esthetic-of-music` | Ferruccio Busoni | Sketch of a New Esthetic of Music | Theodore Baker | (see the Gutenberg header) | have | PG 31799 |
+| `singles-nonfiction-2-cerruti-my-friends-the-savages-notes-and-observa` | Giovanni Battista Cerruti | My Friends the Savages Notes and Observations of a Perak settler (Malay Peninsula) | I. Stone Sanpietro | (see the Gutenberg header) | have | PG 28189 |
+| `singles-nonfiction-2-cramer-bremen-cotton-exchange-1872-1922` | Andreas Wilhelm Cramer | Bremen Cotton Exchange, 1872/1922 | Ch. F. C. Uhte | (see the Gutenberg header) | have | PG 29065 |
+| `singles-nonfiction-2-crignelle-le-morvan-a-district-of-france-its-wild` | Henri de Crignelle | Le Morvan, [A District of France,] Its Wild Sports, Vineyards and Forests; with Legends, Antiquities, Rural and Local Sketches | William Jesse | (see the Gutenberg header) | have | PG 28573 |
+| `singles-nonfiction-2-dard-perils-and-captivity-comprising-the-suff` | Charlotte-Adélaïde Dard, Pierre-Raymond de Brisson and Jean Godin des Odonais | Perils and Captivity Comprising The sufferings of the Picard family after the shipwreck of the Medusa, in the year 1816; Narrative of the captivity of M. de Brisson, in the year 1785; Voyage of Madame | Patrick Maxwell | (see the Gutenberg header) | have | PG 22792 |
+| `singles-nonfiction-2-decelles-the-patriotes-of-37` | Alfred D. DeCelles | The 'Patriotes' of '37: A Chronicle of the Lower Canada Rebellion | W. Stewart Wallace | (see the Gutenberg header) | have | PG 29973 |
+| `singles-nonfiction-2-dennert-at-the-deathbed-of-darwinism` | Eberhard Dennert | At the Deathbed of Darwinism: A Series of Papers | Edwin V. O'Harra and John H. Peschges | (see the Gutenberg header) | have | PG 21019 |
+| `singles-nonfiction-2-durer-records-of-journeys-to-venice-and-the-lo` | Albrecht Dürer | Records of Journeys to Venice and the Low Countries | Rudolf Tombo | (see the Gutenberg header) | have | PG 3226 |
+| `singles-nonfiction-2-ehrlich-histology-of-the-blood-normal-and-pathol` | Paul Ehrlich and Adolf Lazarus | Histology of the Blood, Normal and Pathological | W. Myers | (see the Gutenberg header) | have | PG 29842 |
+| `singles-nonfiction-2-faguet-the-cult-of-incompetence` | Émile Faguet | The cult of incompetence | Beatrice Barstow | (see the Gutenberg header) | have | PG 27368 |
+| `singles-nonfiction-2-feuillet-orchesography-or-the-art-of-dancing-the` | Raoul-Auger Feuillet | Orchesography, or, the Art of Dancing The Art of Dancing by Characters and Demonstrative Figures | John Weaver | (see the Gutenberg header) | have | PG 9454 |
+| `singles-nonfiction-2-finot-modern-saints-and-seers` | Jean Finot | Modern Saints and Seers | Evan Marrett | (see the Gutenberg header) | have | PG 25126 |
+| `singles-nonfiction-2-forstner-the-journal-of-submarine-commander-von-f` | Georg-Günther Forstner | The Journal of Submarine Commander von Forstner | Russell Codman | (see the Gutenberg header) | have | PG 30114 |
+| `singles-nonfiction-2-frobel-autobiography-of-friedrich-froebel` | Friedrich Fröbel | Autobiography of Friedrich Froebel | Emilie Michaelis and Henry Keatley Moore | (see the Gutenberg header) | have | PG 16434 |
+| `singles-nonfiction-2-gasparin-the-uprising-of-a-great-people-the-unite` | Agénor Gasparin | The Uprising of a Great People The United States in 1861. to Which is Added a Word of Peace on the Difference Between England the United States. | Mary L. Booth | (see the Gutenberg header) | have | PG 10637 |
+| `singles-nonfiction-2-goudemetz-historical-epochs-of-the-french-revoluti` | Henry Goudemetz | Historical Epochs of the French Revolution With The Judgment And Execution Of Louis XVI., King Of France And A List Of The Members Of The National Convention, Who Voted For And Against His Death | Francis Randolph | (see the Gutenberg header) | have | PG 16962 |
+| `singles-nonfiction-2-grasser-synthetic-tannins-their-synthesis-indust` | Georg Grasser | Synthetic Tannins, Their Synthesis, Industrial Production and Application | Fini Georges Alexander Enna | (see the Gutenberg header) | have | PG 7981 |
+| `singles-nonfiction-2-gregorovius-lucretia-borgia-according-to-original-do` | Ferdinand Gregorovius | Lucretia Borgia According to Original Documents and Correspondence of Her Day | John Leslie Garner | (see the Gutenberg header) | have | PG 20804 |
+| `singles-nonfiction-2-gross-criminal-psychology` | Hans Gross | Criminal Psychology: A Manual for Judges, Practitioners, and Students | Horace Meyer Kallen | (see the Gutenberg header) | have | PG 1320 |
+| `singles-nonfiction-2-guizot-memoirs-to-illustrate-the-history-of-my` | François Guizot | Memoirs to Illustrate the History of My Time, Volume 1 | John William Cole | (see the Gutenberg header) | have | PG 28169 |
+| `singles-nonfiction-2-hertzka-freeland` | Theodor Hertzka | Freeland: A Social Anticipation | Arthur Ransom | (see the Gutenberg header) | have | PG 9866 |
+| `singles-nonfiction-2-holbach-superstition-in-all-ages` | Paul Henri Thiry Holbach | Superstition in all ages | Anna Knoop | (see the Gutenberg header) | have | PG 17607 |
+| `singles-nonfiction-2-hugo-the-history-of-a-crime-the-testimony-of` | Victor Hugo | The History of a Crime The Testimony of an Eye-Witness | T. H. Joyce and Arthur Locker | (see the Gutenberg header) | have | PG 10381 |
+| `singles-nonfiction-2-inostrantzev-iranian-influence-on-moslem-literature-p` | Konstantin Aleksandrovich Inostrantzev | Iranian Influence on Moslem Literature, Part I | G. K. Nariman | (see the Gutenberg header) | have | PG 12918 |
+| `singles-nonfiction-2-kestell-the-peace-negotiations-between-the-gover` | J. D. Kestell and D. E. van Velden | The peace negotiations between the governments of the South African Republic and the Orange Free State, and the representatives of the British government, which terminated in the peace concluded at Ve | D. E. van Velden | (see the Gutenberg header) | have | PG 27529 |
+| `singles-nonfiction-2-labat-the-art-of-fencing` | maître d'armes Labat | The Art of Fencing; Or, The Use of the Small Sword | Andrew Mahon | (see the Gutenberg header) | have | PG 12135 |
+| `singles-nonfiction-2-lamartine-atheism-among-the-people` | Alphonse de Lamartine | Atheism Among the People | Edward Everett Hale and Francis Le Baron | (see the Gutenberg header) | have | PG 25339 |
+| `singles-nonfiction-2-lamartine-history-of-the-girondists-volume-i-perso` | Alphonse de Lamartine | History of the Girondists, Volume I Personal Memoirs of the Patriots of the French Revolution | H. T. Ryde | (see the Gutenberg header) | have | PG 18094 |
+| `singles-nonfiction-2-lasker-chess-strategy` | Edward Lasker | Chess Strategy | J. Du Mont | (see the Gutenberg header) | have | PG 5614 |
+| `singles-nonfiction-2-lauzanne-fighting-france` | Stéphane Lauzanne | Fighting France | John Lauris Blake Williams | (see the Gutenberg header) | have | PG 18483 |
+| `singles-nonfiction-2-ledesma-chocolate` | Antonio Colmenero de Ledesma | Chocolate: or, An Indian Drinke By the wise and Moderate use whereof, Health is preserved, Sicknesse Diverted, and Cured, especially the Plague of the Guts; vulgarly called The New Disease | James Wadsworth | (see the Gutenberg header) | have | PG 21271 |
+| `singles-nonfiction-2-lehmann-how-to-sing-meine-gesangskunst` | Lilli Lehmann | How to sing [Meine Gesangskunst] | Richard Aldrich | (see the Gutenberg header) | have | PG 19116 |
+| `singles-nonfiction-2-lenclos-life-letters-and-epicurean-philosophy-of` | Ninon de Lenclos | Life, letters, and Epicurean philosophy of Ninon de L'Enclos, the celebrated beauty of the seventeenth century | William Hassell Overton and Charles Henry Robinson | (see the Gutenberg header) | have | PG 10665 |
+| `singles-nonfiction-2-liszt-life-of-chopin` | Franz Liszt | Life of Chopin | Martha Walker Cook | (see the Gutenberg header) | have | PG 4386 |
+| `singles-nonfiction-2-lobo-a-voyage-to-abyssinia` | Jerónimo Lobo | A Voyage to Abyssinia | Samuel Johnson | (see the Gutenberg header) | have | PG 1436 |
+| `singles-nonfiction-2-machiavelli-machiavelli-volume-i` | Niccolò Machiavelli | Machiavelli, Volume I | Edward Dacres and Peter Whitehorne | (see the Gutenberg header) | have | PG 15772 |
+| `singles-nonfiction-2-mauclair-the-french-impressionists-1860-1900` | Camille Mauclair | The French Impressionists (1860-1900) | Paul G. Konody | (see the Gutenberg header) | have | PG 14056 |
+| `singles-nonfiction-2-mead-medica-sacra-or-a-commentary-on-the-most` | Richard Mead | Medica Sacra Or, A Commentary on the Most Remarkable Diseases Mentioned in the Holy Scriptures | Thomas Stack | (see the Gutenberg header) | have | PG 31203 |
+| `singles-nonfiction-2-menant-les-parsis` | Delphine Menant | Les Parsis | Ratanbai Ardeshir Vakil | (see the Gutenberg header) | have | PG 29109 |
+| `singles-nonfiction-2-menzel-germany-from-the-earliest-period-volume` | Wolfgang Menzel | Germany from the Earliest Period, Volume 4 | George Horrocks | (see the Gutenberg header) | have | PG 8401 |
+| `singles-nonfiction-2-morga-history-of-the-philippine-islands` | Antonio de Morga | History of the Philippine Islands | Emma Helen Blair and James Alexander Robertson | (see the Gutenberg header) | have | PG 7001 |
+| `singles-nonfiction-2-muller-facts-and-arguments-for-darwin` | Fritz Müller | Facts and Arguments for Darwin | W. S. Dallas | (see the Gutenberg header) | have | PG 6475 |
+| `singles-nonfiction-2-niebuhr-the-tell-el-amarna-period` | Carl Niebuhr | The Tell El Amarna Period | J. Hutchison | (see the Gutenberg header) | have | PG 26145 |
+| `singles-nonfiction-2-nordenskiold-the-voyage-of-the-vega-round-asia-and-eu` | A. E. Nordenskiöld | The Voyage of the Vega round Asia and Europe, Volume I and Volume II | Alexander Leslie | (see the Gutenberg header) | have | PG 24365 |
+| `singles-nonfiction-2-persky-contemporary-russian-novelists` | Serge Persky | Contemporary Russian Novelists | Frederick Eisemann | (see the Gutenberg header) | have | PG 31503 |
+| `singles-nonfiction-2-petrucci-chinese-painters` | Raphaël Petrucci | Chinese Painters: A Critical Study | Frances Seaver | (see the Gutenberg header) | have | PG 22288 |
+| `singles-nonfiction-2-picq-battle-studies` | Charles Ardant du Picq | Battle Studies; Ancient and Modern Battle | Robert Christie Cotton and John N. Greely | (see the Gutenberg header) | have | PG 7294 |
+| `singles-nonfiction-2-preyer-the-mind-of-the-child-part-ii-the-develo` | William T. Preyer | The Mind of the Child, Part II The Development of the Intellect, International Education Series Edited By William T. Harris, Volume IX. | Henry W. Brown | (see the Gutenberg header) | have | PG 19549 |
+| `singles-nonfiction-2-quelus-the-natural-history-of-chocolate-being-a` | D. Quélus | The Natural History of Chocolate Being a Distinct and Particular Account of the Cocoa-Tree, its Growth and Culture, and the Preparation, Excellent Properties, and Medicinal Vertues of its Fruit | R. Brookes | (see the Gutenberg header) | have | PG 24588 |
+| `singles-nonfiction-2-rapin-de-carmine-pastorali-prefixed-to-thomas` | René Rapin | De Carmine Pastorali Prefixed to Thomas Creech's translation of the Idylliums of Theocritus (1684) | Thomas Creech | (see the Gutenberg header) | have | PG 14495 |
+| `singles-nonfiction-2-rathenau-the-new-society` | Walther Rathenau | The New Society | Arthur Windham | (see the Gutenberg header) | have | PG 20936 |
+| `singles-nonfiction-2-reggio-a-guide-for-the-religious-instruction-of` | Isaac Samuel Reggio | A Guide for the Religious Instruction of Jewish Youth | M. H. Picciotto | (see the Gutenberg header) | have | PG 21905 |
+| `singles-nonfiction-2-rolland-musicians-of-to-day` | Romain Rolland | Musicians of to-day | Mary Blaiklock | (see the Gutenberg header) | have | PG 16467 |
+| `singles-nonfiction-2-rosenkranz-pedagogics-as-a-system` | Karl Rosenkranz | Pedagogics as a System | Anna C. Brackett | (see the Gutenberg header) | have | PG 30661 |
+| `singles-nonfiction-2-roy-a-new-philosophy` | Edouard Le Roy | A New Philosophy | Vincent Benson | (see the Gutenberg header) | have | PG 1347 |
+| `singles-nonfiction-2-sadger-sleep-walking-and-moon-walking` | J. Sadger | Sleep Walking and Moon Walking: A Medico-Literary Study | Louise Brink | (see the Gutenberg header) | have | PG 30556 |
+| `singles-nonfiction-2-saint-saens-on-the-execution-of-music-and-principall` | Camille Saint-Saëns | On the Execution of Music, and Principally of Ancient Music | Henry P. Bowie | (see the Gutenberg header) | have | PG 30412 |
+| `singles-nonfiction-2-salvator-the-caravan-route-between-egypt-and-syri` | Archduke of Austria Ludwig Salvator | The Caravan Route between Egypt and Syria | Ernst von Hesse-Wartegg | (see the Gutenberg header) | have | PG 26705 |
+| `singles-nonfiction-2-sancho-an-account-of-the-conquest-of-peru` | Pedro Sancho | An Account of the Conquest of Peru | Philip Ainsworth Means | (see the Gutenberg header) | have | PG 26602 |
+| `singles-nonfiction-2-sand-the-george-sand-gustave-flaubert-letters` | George Sand and Gustave Flaubert | The George Sand-Gustave Flaubert Letters | Aimée L. McKenzie | (see the Gutenberg header) | have | PG 5115 |
+| `singles-nonfiction-2-schmid-the-theories-of-darwin-and-their-relatio` | Rudolf Schmid | The Theories of Darwin and Their Relation to Philosophy, Religion, and Morality | G. A. Zimmermann | (see the Gutenberg header) | have | PG 22150 |
+| `singles-nonfiction-2-scholten-a-comparative-view-of-religions` | Johannes Henricus Scholten | A Comparative View of Religions | Francis T. Washburn | (see the Gutenberg header) | have | PG 20137 |
+| `singles-nonfiction-2-starke-poise` | D. Starke | Poise | Francis Medhurst | (see the Gutenberg header) | have | PG 13877 |
+| `singles-nonfiction-2-supino-fra-angelico` | I. B. Supino | Fra Angelico | Leader Scott | (see the Gutenberg header) | have | PG 21561 |
+| `singles-nonfiction-2-tavera-the-medicinal-plants-of-the-philippines` | T. H. Pardo de Tavera | The Medicinal Plants of the Philippines | Jerome Beers Thomas | (see the Gutenberg header) | have | PG 26393 |
+| `singles-nonfiction-2-tolstoy-tolstoy-on-shakespeare` | Leo Tolstoy | Tolstoy on Shakespeare: A Critical Essay on Shakespeare | V. G. Chertkov and Isabella Fyvie Mayo | (see the Gutenberg header) | have | PG 27726 |
+| `singles-nonfiction-2-tosi-observations-on-the-florid-song` | Pier Francesco Tosi | Observations on the Florid Song; Or, Sentiments on the Ancient and Modern Singers | John Ernest Galliard | (see the Gutenberg header) | have | PG 26477 |
+| `singles-nonfiction-2-valentinus-of-natural-and-supernatural-things-also` | Basilius Valentinus | Of Natural and Supernatural Things Also of the first Tincture, Root, and Spirit of Metals and Minerals, how the same are Conceived, Generated, Brought forth, Changed, and Augmented. | Daniel Cable | (see the Gutenberg header) | have | PG 26340 |
+| `singles-nonfiction-2-wagner-on-conducting-ueber-das-dirigiren` | Richard Wagner | On Conducting (Üeber Das Dirigiren) : A Treatise on Style in the Execution of Classical Music | Edward Dannreuther | (see the Gutenberg header) | have | PG 4523 |
+| `singles-nonfiction-2-wagner-the-simple-life` | Charles Wagner | The Simple Life | Mary Louise Hendee | (see the Gutenberg header) | have | PG 23092 |
+| `singles-nonfiction-2-yajnavalkya-hindu-law-and-judicature-from-the-dharma` | Yajñavalkya | Hindu Law and Judicature from the Dharma-Sástra of Yájnavalkya | W. A. Montriou and Edward Röer | (see the Gutenberg header) | have | PG 21918 |
+| `singles-nonfiction-2-yoritomo-tashi-common-sense-how-to-exercise-it` | Yoritomo-Tashi | Common sense, how to exercise it | Lily Kendall Beers Berthelot de la Boileverie | (see the Gutenberg header) | have | PG 13072 |
+| — | — | ferrer-30174: Fernández Bolívar's Mathematical-Historical Principles: author born 1923, so a modern work. | — | — | excluded | — |
+| — | — | cunningham-28921: Nicole's Essay on True and Apparent Beauty: J. V. Cunningham translated it for the Augustan Reprint Society in 1950, so it is not a pre-1931 printing. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
