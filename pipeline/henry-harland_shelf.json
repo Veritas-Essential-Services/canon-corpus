@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Henry Harland (1861-1905), editor of The Yellow Book: Feuillet's The Romance of a Poor Young Man and, with Paul Sylvester, Serao's Fantasy (1890). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "henry harland"
+ ],
+ "_surname": [
+  "henry harland"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "hha-45200": [
+   45200,
+   "The Romance of a Poor Young Man"
+  ],
+  "hha-67143": [
+   67143,
+   "Fantasy: A Novel"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "henry-harland-feuillet-the-romance-of-a-poor-young-man": {
+   "source": "hha-45200",
+   "of": "Octave Feuillet",
+   "work": "The Romance of a Poor Young Man",
+   "translated": "1890 (see the Gutenberg header)",
+   "translator": "Henry Harland",
+   "scan_edition": "Project Gutenberg 45200 (clean text)"
+  },
+  "henry-harland-serao-fantasy-a-novel": {
+   "source": "hha-67143",
+   "of": "Matilde Serao",
+   "work": "Fantasy: A Novel",
+   "translated": "1890 (see the Gutenberg header)",
+   "translator": "Henry Harland (with Paul Sylvester)",
+   "scan_edition": "Project Gutenberg 67143 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "hha-45200": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry harland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Harland"
+  },
+  "hha-67143": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry harland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Harland; Paul Sylvester"
+  }
+ },
+ "_verified": {
+  "hha-45200": {
+   "pg": 45200,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry Harland"
+  },
+  "hha-67143": {
+   "pg": 67143,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry Harland"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

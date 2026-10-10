@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Eleanor Stimson Brooks: Duhamel's The Heart's Domain (1919) and, with Van Wyck Brooks, Rolland's Summer (1925). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "eleanor stimson brooks"
+ ],
+ "_surname": [
+  "eleanor stimson brooks"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "esb-66564": [
+   66564,
+   "The Heart's Domain"
+  ],
+  "esb-66882": [
+   66882,
+   "Summer"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "eleanor-brooks-duhamel-the-heart-s-domain": {
+   "source": "esb-66564",
+   "of": "Georges Duhamel",
+   "work": "The Heart's Domain",
+   "translated": "1919-1925 (see the Gutenberg header)",
+   "translator": "Eleanor Stimson Brooks",
+   "scan_edition": "Project Gutenberg 66564 (clean text)"
+  },
+  "eleanor-brooks-rolland-summer": {
+   "source": "esb-66882",
+   "of": "Romain Rolland",
+   "work": "Summer",
+   "translated": "1919-1925 (see the Gutenberg header)",
+   "translator": "Eleanor Stimson Brooks (with Van Wyck Brooks)",
+   "scan_edition": "Project Gutenberg 66882 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "esb-66564": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eleanor stimson brooks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eleanor Stimson Brooks"
+  },
+  "esb-66882": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eleanor stimson brooks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eleanor Stimson Brooks; Van Wyck Brooks"
+  }
+ },
+ "_verified": {
+  "esb-66564": {
+   "pg": 66564,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eleanor Stimson Brooks"
+  },
+  "esb-66882": {
+   "pg": 66882,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eleanor Stimson Brooks"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

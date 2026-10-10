@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Sir Home Gordon (1871-1956): Émile Faguet's Initiation into Literature (1913) and Initiation into Philosophy (1914). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "home gordon"
+ ],
+ "_surname": [
+  "home gordon"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "hgo-8555": [
+   8555,
+   "Initiation into Literature"
+  ],
+  "hgo-9304": [
+   9304,
+   "Initiation into Philosophy"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "home-gordon-faguet-initiation-into-literature": {
+   "source": "hgo-8555",
+   "of": "Émile Faguet",
+   "work": "Initiation into Literature",
+   "translated": "1913-1914 (see the Gutenberg header)",
+   "translator": "Sir Home Gordon",
+   "scan_edition": "Project Gutenberg 8555 (clean text)"
+  },
+  "home-gordon-faguet-initiation-into-philosophy": {
+   "source": "hgo-9304",
+   "of": "Émile Faguet",
+   "work": "Initiation into Philosophy",
+   "translated": "1913-1914 (see the Gutenberg header)",
+   "translator": "Sir Home Gordon",
+   "scan_edition": "Project Gutenberg 9304 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "hgo-8555": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "home gordon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Home Gordon"
+  },
+  "hgo-9304": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "home gordon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Home Gordon"
+  }
+ },
+ "_verified": {
+  "hgo-8555": {
+   "pg": 8555,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Home Gordon"
+  },
+  "hgo-9304": {
+   "pg": 9304,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Home Gordon"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

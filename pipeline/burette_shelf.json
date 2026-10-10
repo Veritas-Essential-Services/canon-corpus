@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Madame Burette: Tieck's The Rebellion in the Cevennes (1845), 2 vols. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "madame burette"
+ ],
+ "_surname": [
+  "madame burette"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mbu-31738": [
+   31738,
+   "The Rebellion in the Cevennes, an Historical Novel. Vol. I."
+  ],
+  "mbu-31739": [
+   31739,
+   "The Rebellion in the Cevennes, an Historical Novel. Vol. II."
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "burette-tieck-the-rebellion-in-the-cevennes-an-histori-vol-1": {
+   "source": "mbu-31738",
+   "of": "Ludwig Tieck",
+   "work": "The Rebellion in the Cevennes, an Historical Novel. Vol. I.",
+   "translated": "1845 (see the Gutenberg header)",
+   "translator": "Madame Burette",
+   "scan_edition": "Project Gutenberg 31738 (clean text)"
+  },
+  "burette-tieck-the-rebellion-in-the-cevennes-an-histori-vol-2": {
+   "source": "mbu-31739",
+   "of": "Ludwig Tieck",
+   "work": "The Rebellion in the Cevennes, an Historical Novel. Vol. II.",
+   "translated": "1845 (see the Gutenberg header)",
+   "translator": "Madame Burette",
+   "scan_edition": "Project Gutenberg 31739 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mbu-31738": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "madame burette",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Madame Burette"
+  },
+  "mbu-31739": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "madame burette",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Madame Burette"
+  }
+ },
+ "_verified": {
+  "mbu-31738": {
+   "pg": 31738,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Madame Burette"
+  },
+  "mbu-31739": {
+   "pg": 31739,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Madame Burette"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

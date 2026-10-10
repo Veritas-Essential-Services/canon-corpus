@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Mary H. Allies (1852-1927): St John Damascene on Holy Images (1898) and Leaves from St. John Chrysostom (1889). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "mary h. allies"
+ ],
+ "_surname": [
+  "mary h. allies"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mha-49917": [
+   49917,
+   "St John Damascene on Holy Images (πρὸς τοὺς διαβάλλοντας τᾶς ἁγίας εἰκόνας). Followed by Three Sermons on the Assumption (κοίμησις)"
+  ],
+  "mha-62447": [
+   62447,
+   "Leaves from St. John Chrysostom"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "mh-allies-chrysostom-leaves-from-st-john-chrysostom": {
+   "source": "mha-62447",
+   "of": "Saint John Chrysostom",
+   "work": "Leaves from St. John Chrysostom",
+   "translated": "1889-1898 (see the Gutenberg header)",
+   "translator": "Mary H. Allies",
+   "scan_edition": "Project Gutenberg 62447 (clean text)"
+  },
+  "mh-allies-damascus-st-john-damascene-on-holy-images-followe": {
+   "source": "mha-49917",
+   "of": "Saint John of Damascus",
+   "work": "St John Damascene on Holy Images (πρὸς τοὺς διαβάλλοντας τᾶς ἁγίας εἰκόνας). Followed by Three Sermons on the Assumption (κοίμησις)",
+   "translated": "1889-1898 (see the Gutenberg header)",
+   "translator": "Mary H. Allies",
+   "scan_edition": "Project Gutenberg 49917 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mha-49917": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary h. allies",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary H. Allies"
+  },
+  "mha-62447": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary h. allies",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary H. Allies"
+  }
+ },
+ "_verified": {
+  "mha-49917": {
+   "pg": 49917,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary H. Allies"
+  },
+  "mha-62447": {
+   "pg": 62447,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary H. Allies"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

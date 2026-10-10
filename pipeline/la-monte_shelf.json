@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Robert Rives La Monte: Ferri's Socialism and Modern Science (1900) and Deville's Socialism, Revolution and Internationalism (1907). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "robert rives la monte",
+  "la monte"
+ ],
+ "_surname": [
+  "robert rives la monte",
+  "la monte"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "rrl-18397": [
+   18397,
+   "Socialism and Modern Science (Darwin, Spencer, Marx)"
+  ],
+  "rrl-35962": [
+   35962,
+   "Socialism, Revolution and Internationalism"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "la-monte-deville-socialism-revolution-and-internationalis": {
+   "source": "rrl-35962",
+   "of": "Gabriel Pierre Deville",
+   "work": "Socialism, Revolution and Internationalism",
+   "translated": "1900-1907 (see the Gutenberg header)",
+   "translator": "Robert Rives La Monte",
+   "scan_edition": "Project Gutenberg 35962 (clean text)"
+  },
+  "la-monte-ferri-socialism-and-modern-science-darwin-spen": {
+   "source": "rrl-18397",
+   "of": "Enrico Ferri",
+   "work": "Socialism and Modern Science (Darwin, Spencer, Marx)",
+   "translated": "1900-1907 (see the Gutenberg header)",
+   "translator": "Robert Rives La Monte",
+   "scan_edition": "Project Gutenberg 18397 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "rrl-18397": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert rives la monte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Rives La Monte"
+  },
+  "rrl-35962": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert rives la monte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Rives La Monte"
+  }
+ },
+ "_verified": {
+  "rrl-18397": {
+   "pg": 18397,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Rives La Monte"
+  },
+  "rrl-35962": {
+   "pg": 35962,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Rives La Monte"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

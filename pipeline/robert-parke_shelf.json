@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: Robert Parke (fl. 1588): González de Mendoza's The History of the Great and Mighty Kingdom of China (1588; Hakluyt Society, ed. Staunton, 1853-1854), 2 vols. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "robert parke",
+  "r. parke"
+ ],
+ "_surname": [
+  "robert parke",
+  "r. parke"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "rpa-39009": [
+   39009,
+   "The History of the Great and Mighty Kingdom of China and the Situation Thereof, Volume 1 (of 2)"
+  ],
+  "rpa-42551": [
+   42551,
+   "The History of the Great and Mighty Kingdom of China and the Situation Thereof, Volume 2 (of 2)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "robert-parke-mendoza-the-history-of-the-great-and-mighty-king-vol-1": {
+   "source": "rpa-39009",
+   "of": "Juan González de Mendoza",
+   "work": "The History of the Great and Mighty Kingdom of China and the Situation Thereof, Volume 1 (of 2)",
+   "translated": "1588 (Hakluyt Society reprint, 1853-1854) (see the Gutenberg header)",
+   "translator": "Robert Parke",
+   "scan_edition": "Project Gutenberg 39009 (clean text)",
+   "note": "Gutenberg keyed this from Burt Franklin's 1970 reprint ('Originally Published: 1854'), a facsimile of the Hakluyt Society edition of Parke's 1588 translation (flagged in DIGEST-C)."
+  },
+  "robert-parke-mendoza-the-history-of-the-great-and-mighty-king-vol-2": {
+   "source": "rpa-42551",
+   "of": "Juan González de Mendoza",
+   "work": "The History of the Great and Mighty Kingdom of China and the Situation Thereof, Volume 2 (of 2)",
+   "translated": "1588 (Hakluyt Society reprint, 1853-1854) (see the Gutenberg header)",
+   "translator": "Robert Parke",
+   "scan_edition": "Project Gutenberg 42551 (clean text)",
+   "note": "Gutenberg keyed this from Burt Franklin's 1970 reprint ('Originally Published: 1854'), a facsimile of the Hakluyt Society edition of Parke's 1588 translation (flagged in DIGEST-C)."
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "rpa-39009": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert parke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "active 1588 Robert Parke"
+  },
+  "rpa-42551": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert parke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "active 1588 Robert Parke"
+  }
+ },
+ "_verified": {
+  "rpa-39009": {
+   "pg": 39009,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "active 1588 Robert Parke"
+  },
+  "rpa-42551": {
+   "pg": 42551,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "active 1588 Robert Parke"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

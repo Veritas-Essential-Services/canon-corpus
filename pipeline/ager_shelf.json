@@ -1,0 +1,77 @@
+{
+ "_about": "TRANSLATOR SHELF: John C. Ager (1835-1913): Swedenborg's Heaven and Its Wonders and Hell and Angelic Wisdom concerning the Divine Love and Wisdom (1890s). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "john c. ager"
+ ],
+ "_surname": [
+  "john c. ager"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "jca-16627": [
+   16627,
+   "Angelic Wisdom Concerning the Divine Love and the Divine Wisdom"
+  ],
+  "jca-17368": [
+   17368,
+   "Heaven and its Wonders and Hell"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ager-swedenborg-angelic-wisdom-concerning-the-divine-lov": {
+   "source": "jca-16627",
+   "of": "Emanuel Swedenborg",
+   "work": "Angelic Wisdom Concerning the Divine Love and the Divine Wisdom",
+   "translated": "1890s (see the Gutenberg header)",
+   "translator": "John C. Ager",
+   "scan_edition": "Project Gutenberg 16627 (clean text)",
+   "note": "Gutenberg's text is the Swedenborg Foundation Standard Edition, 55th printing (1988), of Ager's revised translation; the translator's note is the pre-1931 one. The printing is post-1930 (flagged in DIGEST-C)."
+  },
+  "ager-swedenborg-heaven-and-its-wonders-and-hell": {
+   "source": "jca-17368",
+   "of": "Emanuel Swedenborg",
+   "work": "Heaven and its Wonders and Hell",
+   "translated": "1890s (see the Gutenberg header)",
+   "translator": "John C. Ager",
+   "scan_edition": "Project Gutenberg 17368 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "jca-16627": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john c. ager",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John C. Ager"
+  },
+  "jca-17368": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john c. ager",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John C. Ager"
+  }
+ },
+ "_verified": {
+  "jca-16627": {
+   "pg": 16627,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John C. Ager"
+  },
+  "jca-17368": {
+   "pg": 17368,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John C. Ager"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,54 @@
+{
+ "_about": "TRANSLATOR SHELF: J. V. Huntington (1815-1862): Franchère's Narrative of a Voyage to the Northwest Coast of America (1854). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "j. v. huntington",
+  "jedediah vincent huntington"
+ ],
+ "_surname": [
+  "j. v. huntington",
+  "jedediah vincent huntington"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "jvh-15911": [
+   15911,
+   "Narrative of a Voyage to the Northwest Coast of America in the years 1811, 1812, 1813, and 1814 or the First American Settlement on the Pacific"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "jv-huntington-franchere-narrative-of-a-voyage-to-the-northwest-c": {
+   "source": "jvh-15911",
+   "of": "Gabriel Franchère",
+   "work": "Narrative of a Voyage to the Northwest Coast of America in the years 1811, 1812, 1813, and 1814 or the First American Settlement on the Pacific",
+   "translated": "1854 (see the Gutenberg header)",
+   "translator": "J. V. Huntington",
+   "scan_edition": "Project Gutenberg 15911 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-76209": "Thwaites's Early Western Travels vol. 6 reprints Huntington's Franchère together with Brackenridge's own English journal; the translation is already shelved from PG 15911."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "jvh-15911": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. v. huntington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. V. Huntington"
+  }
+ },
+ "_verified": {
+  "jvh-15911": {
+   "pg": 15911,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. V. Huntington"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

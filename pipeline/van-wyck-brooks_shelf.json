@@ -1,0 +1,52 @@
+{
+ "_about": "TRANSLATOR SHELF: Van Wyck Brooks (1886-1963): Bazalgette's Henry Thoreau, Bachelor of Nature (1924). His Rolland with Eleanor Stimson Brooks is on eleanor-brooks_shelf.json. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "van wyck brooks"
+ ],
+ "_surname": [
+  "van wyck brooks"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "vwb-78810": [
+   78810,
+   "Henry Thoreau, bachelor of nature"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "van-wyck-brooks-bazalgette-henry-thoreau-bachelor-of-nature": {
+   "source": "vwb-78810",
+   "of": "Léon Bazalgette",
+   "work": "Henry Thoreau, bachelor of nature",
+   "translated": "1924 (see the Gutenberg header)",
+   "translator": "Van Wyck Brooks",
+   "scan_edition": "Project Gutenberg 78810 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-66882": "Rolland's Summer: on eleanor-brooks_shelf.json (a joint translation)."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "vwb-78810": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "van wyck brooks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Van Wyck Brooks"
+  }
+ },
+ "_verified": {
+  "vwb-78810": {
+   "pg": 78810,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Van Wyck Brooks"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

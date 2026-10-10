@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Mrs. Carlton A. Kingsbury: Claretie's The Crime of the Boulevard (1897) and About's The King of the Mountains (1897). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "mrs. carlton a. kingsbury",
+  "carlton a. kingsbury"
+ ],
+ "_surname": [
+  "mrs. carlton a. kingsbury",
+  "carlton a. kingsbury"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "cak-34058": [
+   34058,
+   "The Crime of the Boulevard"
+  ],
+  "cak-42096": [
+   42096,
+   "The King of the Mountains"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "kingsbury-about-the-king-of-the-mountains": {
+   "source": "cak-42096",
+   "of": "Edmond About",
+   "work": "The King of the Mountains",
+   "translated": "1897 (see the Gutenberg header)",
+   "translator": "Mrs. Carlton A. Kingsbury",
+   "scan_edition": "Project Gutenberg 42096 (clean text)"
+  },
+  "kingsbury-claretie-the-crime-of-the-boulevard": {
+   "source": "cak-34058",
+   "of": "Jules Claretie",
+   "work": "The Crime of the Boulevard",
+   "translated": "1897 (see the Gutenberg header)",
+   "translator": "Mrs. Carlton A. Kingsbury",
+   "scan_edition": "Project Gutenberg 34058 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "cak-34058": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mrs. carlton a. kingsbury",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Carlton A. Kingsbury"
+  },
+  "cak-42096": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mrs. carlton a. kingsbury",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Carlton A. Kingsbury"
+  }
+ },
+ "_verified": {
+  "cak-34058": {
+   "pg": 34058,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Carlton A. Kingsbury"
+  },
+  "cak-42096": {
+   "pg": 42096,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Carlton A. Kingsbury"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Katharine Babbitt (1871-1925): Cuvru-Magot's Beyond the Marne (1918) and Lieutenant Nicolas's Campaign Diary of a French Officer (1917). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "katharine babbitt"
+ ],
+ "_surname": [
+  "katharine babbitt"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "kba-44599": [
+   44599,
+   "Beyond the Marne: Quincy, Huiry, Voisins before and during the battle"
+  ],
+  "kba-77912": [
+   77912,
+   "Campaign diary of a French officer"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "katharine-babbitt-cuvru-magot-beyond-the-marne-quincy-huiry-voisins-be": {
+   "source": "kba-44599",
+   "of": "Henriette Cuvru-Magot",
+   "work": "Beyond the Marne: Quincy, Huiry, Voisins before and during the battle",
+   "translated": "1917-1918 (see the Gutenberg header)",
+   "translator": "Katharine Babbitt",
+   "scan_edition": "Project Gutenberg 44599 (clean text)"
+  },
+  "katharine-babbitt-nicolas-campaign-diary-of-a-french-officer": {
+   "source": "kba-77912",
+   "of": "René Nicolas",
+   "work": "Campaign diary of a French officer",
+   "translated": "1917-1918 (see the Gutenberg header)",
+   "translator": "Katharine Babbitt",
+   "scan_edition": "Project Gutenberg 77912 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "kba-44599": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine babbitt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Babbitt"
+  },
+  "kba-77912": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine babbitt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Babbitt"
+  }
+ },
+ "_verified": {
+  "kba-44599": {
+   "pg": 44599,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Babbitt"
+  },
+  "kba-77912": {
+   "pg": 77912,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Babbitt"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

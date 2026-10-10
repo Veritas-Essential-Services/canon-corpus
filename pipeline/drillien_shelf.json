@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: Bérengère Drillien: two volumes of Anatole France's Contemporary History, The Amethyst Ring (1919) and Monsieur Bergeret in Paris (1921). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "bérengère drillien",
+  "berengere drillien",
+  "drillien"
+ ],
+ "_surname": [
+  "bérengère drillien",
+  "berengere drillien",
+  "drillien"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "bdr-49108": [
+   49108,
+   "The Amethyst Ring"
+  ],
+  "bdr-49414": [
+   49414,
+   "Monsieur Bergeret in Paris"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "drillien-france-monsieur-bergeret-in-paris": {
+   "source": "bdr-49414",
+   "of": "Anatole France",
+   "work": "Monsieur Bergeret in Paris",
+   "translated": "1919-1921 (see the Gutenberg header)",
+   "translator": "Bérengère Drillien",
+   "scan_edition": "Project Gutenberg 49414 (clean text)"
+  },
+  "drillien-france-the-amethyst-ring": {
+   "source": "bdr-49108",
+   "of": "Anatole France",
+   "work": "The Amethyst Ring",
+   "translated": "1919-1921 (see the Gutenberg header)",
+   "translator": "Bérengère Drillien",
+   "scan_edition": "Project Gutenberg 49108 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "bdr-49108": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bérengère drillien",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bérengère Drillien"
+  },
+  "bdr-49414": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bérengère drillien",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bérengère Drillien"
+  }
+ },
+ "_verified": {
+  "bdr-49108": {
+   "pg": 49108,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bérengère Drillien"
+  },
+  "bdr-49414": {
+   "pg": 49414,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bérengère Drillien"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

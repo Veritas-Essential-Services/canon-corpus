@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Robert B. Douglas (1848-1927): Anatole France's Thaïs (1909) and the fifteenth-century Cent Nouvelles Nouvelles as One Hundred Merrie and Delightsome Stories (1899). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "robert b. douglas"
+ ],
+ "_surname": [
+  "robert b. douglas"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "rbd-18575": [
+   18575,
+   "One Hundred Merrie And Delightsome Stories Right Pleasaunte To Relate In All Goodly Companie By Way Of Joyance And Jollity"
+  ],
+  "rbd-2078": [
+   2078,
+   "Thais"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "rb-douglas-france-thais": {
+   "source": "rbd-2078",
+   "of": "Anatole France",
+   "work": "Thais",
+   "translated": "1899-1909 (see the Gutenberg header)",
+   "translator": "Robert B. Douglas",
+   "scan_edition": "Project Gutenberg 2078 (clean text)"
+  },
+  "rb-douglas-one-hundred-merrie-and-delightsome-stori": {
+   "source": "rbd-18575",
+   "of": "anonymous (Les Cent Nouvelles Nouvelles)",
+   "work": "One Hundred Merrie And Delightsome Stories Right Pleasaunte To Relate In All Goodly Companie By Way Of Joyance And Jollity",
+   "translated": "1899-1909 (see the Gutenberg header)",
+   "translator": "Robert B. Douglas",
+   "scan_edition": "Project Gutenberg 18575 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "rbd-18575": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert b. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert B. Douglas"
+  },
+  "rbd-2078": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert b. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert B. Douglas"
+  }
+ },
+ "_verified": {
+  "rbd-18575": {
+   "pg": 18575,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert B. Douglas"
+  },
+  "rbd-2078": {
+   "pg": 2078,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert B. Douglas"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: H. Parker (b. 1849): Village Folk-Tales of Ceylon (1910-1914), vols. 1-2 of 3. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "h. parker",
+  "henry parker"
+ ],
+ "_surname": [
+  "h. parker",
+  "henry parker"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "hpa-56614": [
+   56614,
+   "Village Folk-Tales of Ceylon, Volume 1 (of 3)"
+  ],
+  "hpa-57399": [
+   57399,
+   "Village Folk-Tales of Ceylon, Volume 2 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "h-parker-village-folk-tales-of-ceylon-volume-1-of": {
+   "source": "hpa-56614",
+   "of": "Sinhalese village storytellers (collected by H. Parker)",
+   "work": "Village Folk-Tales of Ceylon, Volume 1 (of 3)",
+   "translated": "1910-1914 (see the Gutenberg header)",
+   "translator": "H. Parker",
+   "scan_edition": "Project Gutenberg 56614 (clean text)"
+  },
+  "h-parker-village-folk-tales-of-ceylon-volume-2-of": {
+   "source": "hpa-57399",
+   "of": "Sinhalese village storytellers (collected by H. Parker)",
+   "work": "Village Folk-Tales of Ceylon, Volume 2 (of 3)",
+   "translated": "1910-1914 (see the Gutenberg header)",
+   "translator": "H. Parker",
+   "scan_edition": "Project Gutenberg 57399 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "hpa-56614": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. Parker"
+  },
+  "hpa-57399": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. Parker"
+  }
+ },
+ "_verified": {
+  "hpa-56614": {
+   "pg": 56614,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "H. Parker"
+  },
+  "hpa-57399": {
+   "pg": 57399,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "H. Parker"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

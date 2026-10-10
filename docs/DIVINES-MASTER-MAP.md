@@ -7556,6 +7556,7 @@ Round 5, vetoable. Lionel Giles is US PD only (UK until end-2028). Not converted
 | `giles-art-of-war` | Sunzi | The Art of War | Lionel Giles | 1910 | have | PG 132 |
 | `giles-sayings-of-confucius` | Confucius | The Sayings of Confucius | Lionel Giles | 1907 | have | PG 46389 |
 | — | — | giles-own-works: H. A. Giles's History of Chinese Literature and China and the Chinese: his own works. | — | — | excluded | — |
+| — | — | art-of-war-other-files: PG 17405 and 66706 are two more Gutenberg files of Lionel Giles's 1910 Art of War, already shelved here from PG 132: duplicates, not shelved (round 39). | — | — | excluded | — |
 
 ## Arthur Waley (pre-1931 only)
 
@@ -11581,6 +11582,526 @@ Round 38 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 |---|---|---|---|---|---|---|
 | `katherine-miller-rolland-clerambault-the-story-of-an-independent` | Romain Rolland | Clerambault: The Story of an Independent Spirit During the War | Katherine Miller | 1919-1921 (see the Gutenberg header) | have | PG 10868 |
 | `katherine-miller-rolland-colas-breugnon` | Romain Rolland | Colas Breugnon | Katherine Miller | 1919-1921 (see the Gutenberg header) | have | PG 70371 |
+
+## Anthony C. Middleton: d'Holbach's Letters to Eugenia
+
+Shelf: `pipeline/ac-middleton_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ac-middleton` · titles `python3 pipeline/split_shelf_titles.py ac-middleton`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ac-middleton-holbach-letters-to-eugenia-or-a-preservative-aga` | Paul-Henri Thiry, baron d'Holbach | Letters to Eugenia; Or, A Preservative Against Religious Prejudices | Anthony C. Middleton | 1870 (see the Gutenberg header) | have | PG 31275 |
+| — | — | pg-38094: Another Gutenberg file of the same translation: duplicate, not shelved. | — | — | excluded | — |
+
+## L. G. Meyer (Huysmans; Zola)
+
+Shelf: `pipeline/lg-meyer_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lg-meyer` · titles `python3 pipeline/split_shelf_titles.py lg-meyer`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `lg-meyer-huysmans-sac-au-dos` | J.-K. Huysmans | Sac-Au-Dos | L. G. Meyer | 1907 (see the Gutenberg header) | have | PG 23216 |
+| `lg-meyer-zola-the-fete-at-coqueville` | Émile Zola | The Fête At Coqueville | L. G. Meyer | 1907 (see the Gutenberg header) | have | PG 23222 |
+
+## Ella McMahon (Caussade's Abandonment; St Francis de Sales)
+
+Shelf: `pipeline/ella-mcmahon_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ella-mcmahon` · titles `python3 pipeline/split_shelf_titles.py ella-mcmahon`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ella-mcmahon-caussade-abandonment-or-absolute-surrender-to-div` | Jean Pierre de Caussade | Abandonment; or, Absolute Surrender to Divine Providence | Ella McMahon | 1884-1887 (see the Gutenberg header) | have | PG 52057 |
+| `ella-mcmahon-francis-maxims-and-counsels-of-st-francis-de-sal` | St. Francis de Sales | Maxims and counsels of St. Francis de Sales for every day of the year | Ella McMahon | 1884-1887 (see the Gutenberg header) | have | PG 73661 |
+
+## John Maver: Zúñiga's Historical View of the Philippine Islands (2 vols)
+
+Shelf: `pipeline/maver_shelf.json` · fetch `python3 pipeline/fetch_shelf.py maver` · titles `python3 pipeline/split_shelf_titles.py maver`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `maver-zuniga-an-historical-view-of-the-philippine-isl-vol-1` | Joaquín Martínez de Zúñiga | An Historical View of the Philippine Islands, Vol 1 (of 2) Exhibiting their discovery, population, language, government, manners, customs, productions and commerce. | John Maver | 1814 (see the Gutenberg header) | have | PG 39010 |
+| `maver-zuniga-an-historical-view-of-the-philippine-isl-vol-2` | Joaquín Martínez de Zúñiga | An Historical View of the Philippine Islands, Vol 2 (of 2) Exhibiting their discovery, population, language, government, manners, customs, productions and commerce. | John Maver | 1814 (see the Gutenberg header) | have | PG 39027 |
+
+## Clarence A. Manning: Korolenko's Birds of Heaven
+
+Shelf: `pipeline/ca-manning_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ca-manning` · titles `python3 pipeline/split_shelf_titles.py ca-manning`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ca-manning-korolenko-birds-of-heaven-and-other-stories` | Vladimir Korolenko | Birds of Heaven, and Other Stories | Clarence A. Manning | 1919 (see the Gutenberg header) | have | PG 60256 |
+| — | — | pg-78316: Taras Shevchenko, the Poet of Ukraine (1945): printed after 1930, not public domain on this lane's rule. | — | — | excluded | — |
+
+## George Maidment's Funck-Brentano
+
+Shelf: `pipeline/maidment_shelf.json` · fetch `python3 pipeline/fetch_shelf.py maidment` · titles `python3 pipeline/split_shelf_titles.py maidment`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `maidment-funck-brentano-legends-of-the-bastille` | Frantz Funck-Brentano | Legends of the Bastille | George Maidment | 1899-1901 (see the Gutenberg header) | have | PG 43231 |
+| `maidment-funck-brentano-princes-and-poisoners-studies-of-the-cou` | Frantz Funck-Brentano | Princes and Poisoners: Studies of the Court of Louis XIV | George Maidment | 1899-1901 (see the Gutenberg header) | have | PG 43238 |
+
+## Kenneth R. H. Mackenzie (Tyll Owlglass; Hesekiel's Bismarck)
+
+Shelf: `pipeline/krh-mackenzie_shelf.json` · fetch `python3 pipeline/fetch_shelf.py krh-mackenzie` · titles `python3 pipeline/split_shelf_titles.py krh-mackenzie`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `krh-mackenzie-hesekiel-the-life-of-bismarck-private-and-politic` | George Hesekiel | The Life of Bismarck, Private and Political With Descriptive Notices of His Ancestry | Kenneth R. H. Mackenzie | 1860-1870 (see the Gutenberg header) | have | PG 58776 |
+| `krh-mackenzie-owlglass-the-marvellous-adventures-and-rare-conce` | anonymous (the Till Eulenspiegel chapbook) | The Marvellous Adventures and Rare Conceits of Master Tyll Owlglass Newly collected, chronicled and set forth, in our English tongue | Kenneth R. H. Mackenzie | 1860-1870 (see the Gutenberg header) | have | PG 55035 |
+
+## Marjorie Laurie's Loti
+
+Shelf: `pipeline/marjorie-laurie_shelf.json` · fetch `python3 pipeline/fetch_shelf.py marjorie-laurie` · titles `python3 pipeline/split_shelf_titles.py marjorie-laurie`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `marjorie-laurie-loti-the-sahara` | Pierre Loti | The Sahara | Marjorie Laurie | 1917-1921 (see the Gutenberg header) | have | PG 59077 |
+| `marjorie-laurie-loti-war` | Pierre Loti | War | Marjorie Laurie | 1917-1921 (see the Gutenberg header) | have | PG 35211 |
+
+## Mrs. John Lane's Anatole France
+
+Shelf: `pipeline/mrs-john-lane_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mrs-john-lane` · titles `python3 pipeline/split_shelf_titles.py mrs-john-lane`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `mrs-john-lane-france-balthasar-and-other-works` | Anatole France | Balthasar and Other Works - | Mrs. John Lane | 1909-1911 (see the Gutenberg header) | have | PG 22059 |
+| `mrs-john-lane-france-honey-bee` | Anatole France | Honey-Bee | Mrs. John Lane | 1909-1911 (see the Gutenberg header) | have | PG 25405 |
+
+## Robert Rives La Monte (Ferri; Deville)
+
+Shelf: `pipeline/la-monte_shelf.json` · fetch `python3 pipeline/fetch_shelf.py la-monte` · titles `python3 pipeline/split_shelf_titles.py la-monte`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `la-monte-deville-socialism-revolution-and-internationalis` | Gabriel Pierre Deville | Socialism, Revolution and Internationalism | Robert Rives La Monte | 1900-1907 (see the Gutenberg header) | have | PG 35962 |
+| `la-monte-ferri-socialism-and-modern-science-darwin-spen` | Enrico Ferri | Socialism and Modern Science (Darwin, Spencer, Marx) | Robert Rives La Monte | 1900-1907 (see the Gutenberg header) | have | PG 18397 |
+
+## Mrs. Carlton A. Kingsbury (Claretie; About)
+
+Shelf: `pipeline/kingsbury_shelf.json` · fetch `python3 pipeline/fetch_shelf.py kingsbury` · titles `python3 pipeline/split_shelf_titles.py kingsbury`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `kingsbury-about-the-king-of-the-mountains` | Edmond About | The King of the Mountains | Mrs. Carlton A. Kingsbury | 1897 (see the Gutenberg header) | have | PG 42096 |
+| `kingsbury-claretie-the-crime-of-the-boulevard` | Jules Claretie | The Crime of the Boulevard | Mrs. Carlton A. Kingsbury | 1897 (see the Gutenberg header) | have | PG 34058 |
+
+## Charles H. Kerr (Labriola; Lafargue's Right to Be Lazy)
+
+Shelf: `pipeline/ch-kerr_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ch-kerr` · titles `python3 pipeline/split_shelf_titles.py ch-kerr`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ch-kerr-labriola-essays-on-the-materialistic-conception-o` | Antonio Labriola | Essays on the Materialistic Conception of History | Charles H. Kerr | 1904-1907 (see the Gutenberg header) | have | PG 32644 |
+| `ch-kerr-lafargue-the-right-to-be-lazy-and-other-studies` | Paul Lafargue | The right to be lazy, and other studies | Charles H. Kerr | 1904-1907 (see the Gutenberg header) | have | PG 52984 |
+
+## John Kenrick: Strauss's Helon's Pilgrimage to Jerusalem (2 vols)
+
+Shelf: `pipeline/kenrick_shelf.json` · fetch `python3 pipeline/fetch_shelf.py kenrick` · titles `python3 pipeline/split_shelf_titles.py kenrick`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `kenrick-strauss-helon-s-pilgrimage-to-jerusalem-volume-1` | Friedrich Strauss | Helon's Pilgrimage to Jerusalem, Volume 1 (of 2) A picture of Judaism, in the century which preceded the advent of our Savior. | John Kenrick | 1824 (see the Gutenberg header) | have | PG 54867 |
+| `kenrick-strauss-helon-s-pilgrimage-to-jerusalem-volume-2` | Friedrich Strauss | Helon's Pilgrimage to Jerusalem, Volume 2 (of 2) A picture of Judaism, in the century which preceded the advent of our Savior. | John Kenrick | 1824 (see the Gutenberg header) | have | PG 56891 |
+
+## Charlotte Brewster Jordan's Blasco Ibáñez (The Four Horsemen of the Apocalypse)
+
+Shelf: `pipeline/cb-jordan_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cb-jordan` · titles `python3 pipeline/split_shelf_titles.py cb-jordan`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `cb-jordan-ibanez-mare-nostrum-our-sea-a-novel` | Vicente Blasco Ibáñez | Mare Nostrum (Our Sea): A Novel | Charlotte Brewster Jordan | 1918-1919 (see the Gutenberg header) | have | PG 11697 |
+| `cb-jordan-ibanez-the-four-horsemen-of-the-apocalypse` | Vicente Blasco Ibáñez | The Four Horsemen of the Apocalypse | Charlotte Brewster Jordan | 1918-1919 (see the Gutenberg header) | have | PG 1484 |
+
+## Smith Ely Jelliffe (Silberer; Rank)
+
+Shelf: `pipeline/jelliffe_shelf.json` · fetch `python3 pipeline/fetch_shelf.py jelliffe` · titles `python3 pipeline/split_shelf_titles.py jelliffe`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `jelliffe-rank-the-myth-of-the-birth-of-the-hero-a-psyc` | Otto Rank | The Myth of the Birth of the Hero: A psychological interpretation of mythology | Smith Ely Jelliffe (with F. Robbins) | 1914-1917 (see the Gutenberg header) | have | PG 66192 |
+| `jelliffe-silberer-hidden-symbolism-of-alchemy-and-the-occu` | Herbert Silberer | Hidden Symbolism of Alchemy and the Occult Arts | Smith Ely Jelliffe | 1914-1917 (see the Gutenberg header) | have | PG 27755 |
+
+## J. V. Huntington: Franchère's Voyage to the Northwest Coast
+
+Shelf: `pipeline/jv-huntington_shelf.json` · fetch `python3 pipeline/fetch_shelf.py jv-huntington` · titles `python3 pipeline/split_shelf_titles.py jv-huntington`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `jv-huntington-franchere-narrative-of-a-voyage-to-the-northwest-c` | Gabriel Franchère | Narrative of a Voyage to the Northwest Coast of America in the years 1811, 1812, 1813, and 1814 or the First American Settlement on the Pacific | J. V. Huntington | 1854 (see the Gutenberg header) | have | PG 15911 |
+| — | — | pg-76209: Thwaites's Early Western Travels vol. 6 reprints Huntington's Franchère together with Brackenridge's own English journal; the translation is already shelved from PG 15911. | — | — | excluded | — |
+
+## John Howard's Remy de Gourmont
+
+Shelf: `pipeline/john-howard_shelf.json` · fetch `python3 pipeline/fetch_shelf.py john-howard` · titles `python3 pipeline/split_shelf_titles.py john-howard`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `john-howard-gourmont-mr-antiphilos-satyr` | Remy de Gourmont | Mr. Antiphilos, satyr | John Howard (with Louis Lozowick) | 1921-1922 (see the Gutenberg header) | have | PG 78206 |
+| `john-howard-gourmont-the-book-of-masks` | Remy de Gourmont | The Book of Masks | John Howard | 1921-1922 (see the Gutenberg header) | have | PG 46247 |
+
+## F. Appleby Holt (Gilliard's Thirteen Years at the Russian Court; Benoît)
+
+Shelf: `pipeline/fa-holt_shelf.json` · fetch `python3 pipeline/fetch_shelf.py fa-holt` · titles `python3 pipeline/split_shelf_titles.py fa-holt`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `fa-holt-benoit-the-secret-spring` | Pierre Benoît | The secret spring | F. Appleby Holt (with H. W. Fox) | 1920-1921 (see the Gutenberg header) | have | PG 69281 |
+| `fa-holt-gilliard-thirteen-years-at-the-russian-court-a-pe` | Pierre Gilliard | Thirteen years at the Russian court (a personal record of the last years and death of the Czar Nicholas II. and his family) | F. Appleby Holt | 1920-1921 (see the Gutenberg header) | have | PG 60546 |
+
+## Nora Kathleen Hills's Vimar picture books
+
+Shelf: `pipeline/nk-hills_shelf.json` · fetch `python3 pipeline/fetch_shelf.py nk-hills` · titles `python3 pipeline/split_shelf_titles.py nk-hills`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `nk-hills-vimar-clown-the-circus-dog` | Auguste Vimar | Clown, the Circus Dog | Nora Kathleen Hills | 1914 (see the Gutenberg header) | have | PG 46793 |
+| `nk-hills-vimar-the-curly-haired-hen` | Auguste Vimar | The Curly-Haired Hen | Nora Kathleen Hills | 1914 (see the Gutenberg header) | have | PG 13302 |
+
+## Emily Hill: Karasowski's Chopin (2 vols)
+
+Shelf: `pipeline/emily-hill_shelf.json` · fetch `python3 pipeline/fetch_shelf.py emily-hill` · titles `python3 pipeline/split_shelf_titles.py emily-hill`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `emily-hill-karasowski-frederic-chopin-his-life-letters-and-wor-vol-1` | Maurycy Karasowski | Frederic Chopin: His Life, Letters, and Works,  v. 1 (of  2) | Emily Hill | 1879 (see the Gutenberg header) | have | PG 46577 |
+| `emily-hill-karasowski-frederic-chopin-his-life-letters-and-wor-vol-2` | Maurycy Karasowski | Frederic Chopin: His Life, Letters, and Works,  v. 2 (of  2) | Emily Hill | 1879 (see the Gutenberg header) | have | PG 46573 |
+
+## William Frederick Harvey (Nyrop; Nordau)
+
+Shelf: `pipeline/wf-harvey_shelf.json` · fetch `python3 pipeline/fetch_shelf.py wf-harvey` · titles `python3 pipeline/split_shelf_titles.py wf-harvey`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `wf-harvey-nordau-on-art-and-artists` | Max Nordau | On art and artists | William Frederick Harvey | 1901-1907 (see the Gutenberg header) | have | PG 76748 |
+| `wf-harvey-nyrop-the-kiss-and-its-history` | Kristoffer Nyrop | The kiss and its history | William Frederick Harvey | 1901-1907 (see the Gutenberg header) | have | PG 51856 |
+
+## Robert Harrison: Reumont's Lorenzo de' Medici (2 vols)
+
+Shelf: `pipeline/robert-harrison_shelf.json` · fetch `python3 pipeline/fetch_shelf.py robert-harrison` · titles `python3 pipeline/split_shelf_titles.py robert-harrison`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `robert-harrison-reumont-lorenzo-de-medici-the-magnificent-vol-1` | Alfred von Reumont | Lorenzo de' Medici, the Magnificent (vol. 1 of 2) | Robert Harrison | 1876 (see the Gutenberg header) | have | PG 50624 |
+| `robert-harrison-reumont-lorenzo-de-medici-the-magnificent-vol-2` | Alfred von Reumont | Lorenzo de' Medici, the Magnificent (vol. 2 of 2) | Robert Harrison | 1876 (see the Gutenberg header) | have | PG 50625 |
+
+## Henry Harland (Feuillet; Serao)
+
+Shelf: `pipeline/henry-harland_shelf.json` · fetch `python3 pipeline/fetch_shelf.py henry-harland` · titles `python3 pipeline/split_shelf_titles.py henry-harland`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `henry-harland-feuillet-the-romance-of-a-poor-young-man` | Octave Feuillet | The Romance of a Poor Young Man | Henry Harland | 1890 (see the Gutenberg header) | have | PG 45200 |
+| `henry-harland-serao-fantasy-a-novel` | Matilde Serao | Fantasy: A Novel | Henry Harland (with Paul Sylvester) | 1890 (see the Gutenberg header) | have | PG 67143 |
+
+## Joseph I. Gorfinkle's Pirke Avot
+
+Shelf: `pipeline/gorfinkle_shelf.json` · fetch `python3 pipeline/fetch_shelf.py gorfinkle` · titles `python3 pipeline/split_shelf_titles.py gorfinkle`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `gorfinkle-pirke-avot-the-sayings-of-the-jewish-fat` | the Mishnah (tractate Avot) | Pirke Avot: The Sayings of the Jewish Fathers | Joseph I. Gorfinkle | 1913 (see the Gutenberg header) | have | PG 8547 |
+| — | — | pg-8548: Another Gutenberg file of the same translation: duplicate, not shelved. | — | — | excluded | — |
+
+## Sir Home Gordon's Faguet
+
+Shelf: `pipeline/home-gordon_shelf.json` · fetch `python3 pipeline/fetch_shelf.py home-gordon` · titles `python3 pipeline/split_shelf_titles.py home-gordon`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `home-gordon-faguet-initiation-into-literature` | Émile Faguet | Initiation into Literature | Sir Home Gordon | 1913-1914 (see the Gutenberg header) | have | PG 8555 |
+| `home-gordon-faguet-initiation-into-philosophy` | Émile Faguet | Initiation into Philosophy | Sir Home Gordon | 1913-1914 (see the Gutenberg header) | have | PG 9304 |
+
+## Mrs. W. A. Gillespie's Blasco Ibáñez
+
+Shelf: `pipeline/mrs-gillespie_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mrs-gillespie` · titles `python3 pipeline/split_shelf_titles.py mrs-gillespie`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `mrs-gillespie-ibanez-blood-and-sand` | Vicente Blasco Ibáñez | Blood and Sand | Mrs. W. A. Gillespie | 1909-1913 (see the Gutenberg header) | have | PG 54222 |
+| `mrs-gillespie-ibanez-the-shadow-of-the-cathedral` | Vicente Blasco Ibáñez | The Shadow of the Cathedral | Mrs. W. A. Gillespie | 1909-1913 (see the Gutenberg header) | have | PG 12041 |
+
+## J. E. Fries (Arrhenius; Björklund)
+
+Shelf: `pipeline/je-fries_shelf.json` · fetch `python3 pipeline/fetch_shelf.py je-fries` · titles `python3 pipeline/split_shelf_titles.py je-fries`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `je-fries-arrhenius-the-destinies-of-the-stars` | Svante Arrhenius | The Destinies of the Stars | J. E. Fries | 1910-1918 (see the Gutenberg header) | have | PG 58222 |
+| `je-fries-bjorklund-death-and-resurrection-from-the-point-of` | Gustaf Björklund | Death and resurrection from the point of view of the cell-theory | J. E. Fries | 1910-1918 (see the Gutenberg header) | have | PG 60750 |
+
+## Frank Roy Fraprie (Hallays; Mayer)
+
+Shelf: `pipeline/fraprie_shelf.json` · fetch `python3 pipeline/fetch_shelf.py fraprie` · titles `python3 pipeline/split_shelf_titles.py fraprie`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `fraprie-hallays-the-spell-of-the-heart-of-france-the-tow` | André Hallays | The spell of the heart of France: the towns, villages and châteaux about Paris | Frank Roy Fraprie | 1912-1923 (see the Gutenberg header) | have | PG 46321 |
+| `fraprie-mayer-bromoil-printing-and-bromoil-transfer` | Emil Mayer | Bromoil printing and bromoil transfer | Frank Roy Fraprie | 1912-1923 (see the Gutenberg header) | have | PG 69127 |
+
+## Cecil Fairfax: Bjørnson's Heritage of the Kurts (2 vols)
+
+Shelf: `pipeline/cecil-fairfax_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cecil-fairfax` · titles `python3 pipeline/split_shelf_titles.py cecil-fairfax`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `cecil-fairfax-bjornson-the-heritage-of-the-kurts-volume-1-of-2` | Bjørnstjerne Bjørnson | The Heritage of the Kurts, Volume 1 (of 2) | Cecil Fairfax | 1892 (see the Gutenberg header) | have | PG 37801 |
+| `cecil-fairfax-bjornson-the-heritage-of-the-kurts-volume-2-of-2` | Bjørnstjerne Bjørnson | The Heritage of the Kurts, Volume 2 (of 2) | Cecil Fairfax | 1892 (see the Gutenberg header) | have | PG 37802 |
+
+## George Eliot as translator (Strauss's Life of Jesus; Feuerbach's Essence of Christianity)
+
+Shelf: `pipeline/george-eliot-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py george-eliot-translations` · titles `python3 pipeline/split_shelf_titles.py george-eliot-translations`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `george-eliot-translations-feuerbach-the-essence-of-christianity-translated-f` | Ludwig Feuerbach | The Essence of Christianity Translated from the second German edition | George Eliot | 1846-1854 (see the Gutenberg header) | have | PG 47025 |
+| `george-eliot-translations-strauss-the-life-of-jesus-critically-examined-4t` | David Friedrich Strauss | The Life of Jesus Critically Examined (4th ed.) | George Eliot | 1846-1854 (see the Gutenberg header) | have | PG 64037 |
+
+## Amelia B. Edwards (Maspero's Egyptian Archaeology; Loviot)
+
+Shelf: `pipeline/amelia-edwards_shelf.json` · fetch `python3 pipeline/fetch_shelf.py amelia-edwards` · titles `python3 pipeline/split_shelf_titles.py amelia-edwards`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `amelia-edwards-loviot-a-lady-s-captivity-among-chinese-pirates` | Fanny Loviot | A lady's captivity among Chinese pirates in the Chinese seas | Amelia B. Edwards | 1858-1887 (see the Gutenberg header) | have | PG 34167 |
+| `amelia-edwards-maspero-manual-of-egyptian-archaeology-and-guide` | Gaston Maspero | Manual of Egyptian Archaeology and Guide to the Study of Antiquities in Egypt | Amelia B. Edwards | 1858-1887 (see the Gutenberg header) | have | PG 14400 |
+
+## J. D. Duff (Aksakov; Herzen's Memoirs)
+
+Shelf: `pipeline/jd-duff_shelf.json` · fetch `python3 pipeline/fetch_shelf.py jd-duff` · titles `python3 pipeline/split_shelf_titles.py jd-duff`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `jd-duff-aksakov-a-russian-gentleman` | S. T. Aksakov | A Russian Gentleman | J. D. Duff | 1917-1923 (see the Gutenberg header) | have | PG 38781 |
+| `jd-duff-herzen-the-memoirs-of-alexander-herzen-parts-i` | Aleksandr Herzen | The Memoirs of Alexander Herzen, Parts I and II | J. D. Duff | 1917-1923 (see the Gutenberg header) | have | PG 67882 |
+
+## Bérengère Drillien's Anatole France
+
+Shelf: `pipeline/drillien_shelf.json` · fetch `python3 pipeline/fetch_shelf.py drillien` · titles `python3 pipeline/split_shelf_titles.py drillien`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `drillien-france-monsieur-bergeret-in-paris` | Anatole France | Monsieur Bergeret in Paris | Bérengère Drillien | 1919-1921 (see the Gutenberg header) | have | PG 49414 |
+| `drillien-france-the-amethyst-ring` | Anatole France | The Amethyst Ring | Bérengère Drillien | 1919-1921 (see the Gutenberg header) | have | PG 49108 |
+
+## Robert B. Douglas (Thaïs; the Cent Nouvelles Nouvelles)
+
+Shelf: `pipeline/rb-douglas_shelf.json` · fetch `python3 pipeline/fetch_shelf.py rb-douglas` · titles `python3 pipeline/split_shelf_titles.py rb-douglas`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `rb-douglas-france-thais` | Anatole France | Thais | Robert B. Douglas | 1899-1909 (see the Gutenberg header) | have | PG 2078 |
+| `rb-douglas-one-hundred-merrie-and-delightsome-stori` | anonymous (Les Cent Nouvelles Nouvelles) | One Hundred Merrie And Delightsome Stories Right Pleasaunte To Relate In All Goodly Companie By Way Of Joyance And Jollity | Robert B. Douglas | 1899-1909 (see the Gutenberg header) | have | PG 18575 |
+
+## Frances Elizabeth Cox's Hymns from the German
+
+Shelf: `pipeline/fe-cox_shelf.json` · fetch `python3 pipeline/fetch_shelf.py fe-cox` · titles `python3 pipeline/split_shelf_titles.py fe-cox`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `fe-cox-hymns-from-the-german-translated-by-fran` | various German hymn writers (anthology) | Hymns from the German Translated by Frances Elizabeth Cox | Frances Elizabeth Cox | 1841-1864 (see the Gutenberg header) | have | PG 39439 |
+| `fe-cox-sacred-hymns-from-the-german-translated` | various German hymn writers (anthology) | Sacred Hymns from the German Translated by Frances Elizabeth Cox | Frances Elizabeth Cox | 1841-1864 (see the Gutenberg header) | have | PG 39440 |
+
+## Mrs. L. Burke's Madame Guizot
+
+Shelf: `pipeline/mrs-l-burke_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mrs-l-burke` · titles `python3 pipeline/split_shelf_titles.py mrs-l-burke`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `mrs-l-burke-guizot-moral-tales` | Madame Guizot | Moral Tales | Mrs. L. Burke | 1850s (see the Gutenberg header) | have | PG 47485 |
+| `mrs-l-burke-guizot-popular-tales` | Madame Guizot | Popular Tales | Mrs. L. Burke | 1850s (see the Gutenberg header) | have | PG 42839 |
+
+## Madame Burette: Tieck's Rebellion in the Cevennes (2 vols)
+
+Shelf: `pipeline/burette_shelf.json` · fetch `python3 pipeline/fetch_shelf.py burette` · titles `python3 pipeline/split_shelf_titles.py burette`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `burette-tieck-the-rebellion-in-the-cevennes-an-histori-vol-1` | Ludwig Tieck | The Rebellion in the Cevennes, an Historical Novel. Vol. I. | Madame Burette | 1845 (see the Gutenberg header) | have | PG 31738 |
+| `burette-tieck-the-rebellion-in-the-cevennes-an-histori-vol-2` | Ludwig Tieck | The Rebellion in the Cevennes, an Historical Novel. Vol. II. | Madame Burette | 1845 (see the Gutenberg header) | have | PG 31739 |
+
+## Neil Buchanan: Harnack's History of Dogma (vols 1-2)
+
+Shelf: `pipeline/neil-buchanan_shelf.json` · fetch `python3 pipeline/fetch_shelf.py neil-buchanan` · titles `python3 pipeline/split_shelf_titles.py neil-buchanan`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `neil-buchanan-harnack-history-of-dogma-volume-1` | Adolf von Harnack | History of Dogma, Volume 1 | Neil Buchanan | 1894-1896 (see the Gutenberg header) | have | PG 19612 |
+| `neil-buchanan-harnack-history-of-dogma-volume-2` | Adolf von Harnack | History of Dogma, Volume 2 | Neil Buchanan | 1894-1896 (see the Gutenberg header) | have | PG 19613 |
+
+## Eleanor Stimson Brooks (Duhamel; Rolland)
+
+Shelf: `pipeline/eleanor-brooks_shelf.json` · fetch `python3 pipeline/fetch_shelf.py eleanor-brooks` · titles `python3 pipeline/split_shelf_titles.py eleanor-brooks`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `eleanor-brooks-duhamel-the-heart-s-domain` | Georges Duhamel | The Heart's Domain | Eleanor Stimson Brooks | 1919-1925 (see the Gutenberg header) | have | PG 66564 |
+| `eleanor-brooks-rolland-summer` | Romain Rolland | Summer | Eleanor Stimson Brooks (with Van Wyck Brooks) | 1919-1925 (see the Gutenberg header) | have | PG 66882 |
+
+## Van Wyck Brooks: Bazalgette's Thoreau
+
+Shelf: `pipeline/van-wyck-brooks_shelf.json` · fetch `python3 pipeline/fetch_shelf.py van-wyck-brooks` · titles `python3 pipeline/split_shelf_titles.py van-wyck-brooks`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `van-wyck-brooks-bazalgette-henry-thoreau-bachelor-of-nature` | Léon Bazalgette | Henry Thoreau, bachelor of nature | Van Wyck Brooks | 1924 (see the Gutenberg header) | have | PG 78810 |
+| — | — | pg-66882: Rolland's Summer: on eleanor-brooks_shelf.json (a joint translation). | — | — | excluded | — |
+
+## Percy Favor Bicknell's Jókai
+
+Shelf: `pipeline/pf-bicknell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py pf-bicknell` · titles `python3 pipeline/split_shelf_titles.py pf-bicknell`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `pf-bicknell-jokai-manasseh-a-romance-of-transylvania` | Mór Jókai | Manasseh: A Romance of Transylvania | Percy Favor Bicknell | 1900-1901 (see the Gutenberg header) | have | PG 20892 |
+| `pf-bicknell-jokai-the-baron-s-sons-a-romance-of-the-hungar` | Mór Jókai | The Baron's Sons: A Romance of the Hungarian Revolution of 1848 | Percy Favor Bicknell | 1900-1901 (see the Gutenberg header) | have | PG 34674 |
+
+## Ernest Bell's Lessing
+
+Shelf: `pipeline/ernest-bell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ernest-bell` · titles `python3 pipeline/split_shelf_titles.py ernest-bell`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ernest-bell-lessing-minna-von-barnhelm` | Gotthold Ephraim Lessing | Minna Von Barnhelm | Ernest Bell | 1878 (see the Gutenberg header) | have | PG 2663 |
+| `ernest-bell-lessing-the-dramatic-works-of-g-e-lessing-miss-s` | Gotthold Ephraim Lessing | The Dramatic Works of G. E. Lessing Miss Sara Sampson, Philotas, Emilia Galotti, Nathan the Wise | Ernest Bell | 1878 (see the Gutenberg header) | have | PG 33435 |
+
+## W. P. Baines's Loti
+
+Shelf: `pipeline/baines_shelf.json` · fetch `python3 pipeline/fetch_shelf.py baines` · titles `python3 pipeline/split_shelf_titles.py baines`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `baines-loti-a-tale-of-brittany-mon-frere-yves` | Pierre Loti | A Tale of Brittany (Mon frère Yves) | W. P. Baines | 1909-1923 (see the Gutenberg header) | have | PG 62667 |
+| `baines-loti-egypt-la-mort-de-philae` | Pierre Loti | Egypt (La Mort de Philae) | W. P. Baines | 1909-1923 (see the Gutenberg header) | have | PG 3685 |
+
+## Katharine Babbitt (French war memoirs)
+
+Shelf: `pipeline/katharine-babbitt_shelf.json` · fetch `python3 pipeline/fetch_shelf.py katharine-babbitt` · titles `python3 pipeline/split_shelf_titles.py katharine-babbitt`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `katharine-babbitt-cuvru-magot-beyond-the-marne-quincy-huiry-voisins-be` | Henriette Cuvru-Magot | Beyond the Marne: Quincy, Huiry, Voisins before and during the battle | Katharine Babbitt | 1917-1918 (see the Gutenberg header) | have | PG 44599 |
+| `katharine-babbitt-nicolas-campaign-diary-of-a-french-officer` | René Nicolas | Campaign diary of a French officer | Katharine Babbitt | 1917-1918 (see the Gutenberg header) | have | PG 77912 |
+
+## Ingeborg Andersen (Drachmann; Poulsen)
+
+Shelf: `pipeline/ingeborg-andersen_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ingeborg-andersen` · titles `python3 pipeline/split_shelf_titles.py ingeborg-andersen`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ingeborg-andersen-drachmann-atheism-in-pagan-antiquity` | A. B. Drachmann | Atheism in Pagan Antiquity | Ingeborg Andersen | 1922 (see the Gutenberg header) | have | PG 28312 |
+| `ingeborg-andersen-poulsen-etruscan-tomb-paintings-their-subjects-a` | Frederik Poulsen | Etruscan Tomb Paintings, Their Subjects and Significance | Ingeborg Andersen | 1922 (see the Gutenberg header) | have | PG 62431 |
+
+## Mary H. Allies (Damascene on Holy Images; Chrysostom)
+
+Shelf: `pipeline/mh-allies_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mh-allies` · titles `python3 pipeline/split_shelf_titles.py mh-allies`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `mh-allies-chrysostom-leaves-from-st-john-chrysostom` | Saint John Chrysostom | Leaves from St. John Chrysostom | Mary H. Allies | 1889-1898 (see the Gutenberg header) | have | PG 62447 |
+| `mh-allies-damascus-st-john-damascene-on-holy-images-followe` | Saint John of Damascus | St John Damascene on Holy Images (πρὸς τοὺς διαβάλλοντας τᾶς ἁγίας εἰκόνας). Followed by Three Sermons on the Assumption (κοίμησις) | Mary H. Allies | 1889-1898 (see the Gutenberg header) | have | PG 49917 |
+
+## Abby Langdon Alger (Judith Gautier; Delsarte)
+
+Shelf: `pipeline/abby-alger_shelf.json` · fetch `python3 pipeline/fetch_shelf.py abby-alger` · titles `python3 pipeline/split_shelf_titles.py abby-alger`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `abby-alger-delaumosne-delsarte-system-of-oratory` | Delaumosne and Angélique Arnaud (on François Delsarte) | Delsarte System of Oratory | Abby Langdon Alger (with Frances A. Shaw) | 1884-1887 (see the Gutenberg header) | have | PG 12200 |
+| `abby-alger-gautier-the-usurper-an-episode-in-japanese-histo` | Judith Gautier | The Usurper: An Episode in Japanese History | Abby Langdon Alger | 1884-1887 (see the Gutenberg header) | have | PG 47002 |
+
+## John C. Ager's Swedenborg
+
+Shelf: `pipeline/ager_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ager` · titles `python3 pipeline/split_shelf_titles.py ager`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ager-swedenborg-angelic-wisdom-concerning-the-divine-lov` | Emanuel Swedenborg | Angelic Wisdom Concerning the Divine Love and the Divine Wisdom | John C. Ager | 1890s (see the Gutenberg header) | have | PG 16627 |
+| `ager-swedenborg-heaven-and-its-wonders-and-hell` | Emanuel Swedenborg | Heaven and its Wonders and Hell | John C. Ager | 1890s (see the Gutenberg header) | have | PG 17368 |
+
+## T. K. Abbott's Kant (the ethics)
+
+Shelf: `pipeline/tk-abbott_shelf.json` · fetch `python3 pipeline/fetch_shelf.py tk-abbott` · titles `python3 pipeline/split_shelf_titles.py tk-abbott`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `tk-abbott-kant-fundamental-principles-of-the-metaphysic` | Immanuel Kant | Fundamental Principles of the Metaphysic of Morals | Thomas Kingsmill Abbott | 1873 (see the Gutenberg header) | have | PG 5682 |
+| `tk-abbott-kant-the-metaphysical-elements-of-ethics` | Immanuel Kant | The Metaphysical Elements of Ethics | Thomas Kingsmill Abbott | 1873 (see the Gutenberg header) | have | PG 5684 |
+
+## H. Parker: Village Folk-Tales of Ceylon (vols 1-2)
+
+Shelf: `pipeline/h-parker_shelf.json` · fetch `python3 pipeline/fetch_shelf.py h-parker` · titles `python3 pipeline/split_shelf_titles.py h-parker`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `h-parker-village-folk-tales-of-ceylon-volume-1-of` | Sinhalese village storytellers (collected by H. Parker) | Village Folk-Tales of Ceylon, Volume 1 (of 3) | H. Parker | 1910-1914 (see the Gutenberg header) | have | PG 56614 |
+| `h-parker-village-folk-tales-of-ceylon-volume-2-of` | Sinhalese village storytellers (collected by H. Parker) | Village Folk-Tales of Ceylon, Volume 2 (of 3) | H. Parker | 1910-1914 (see the Gutenberg header) | have | PG 57399 |
+
+## Robert Parke: Mendoza's History of China (2 vols)
+
+Shelf: `pipeline/robert-parke_shelf.json` · fetch `python3 pipeline/fetch_shelf.py robert-parke` · titles `python3 pipeline/split_shelf_titles.py robert-parke`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `robert-parke-mendoza-the-history-of-the-great-and-mighty-king-vol-1` | Juan González de Mendoza | The History of the Great and Mighty Kingdom of China and the Situation Thereof, Volume 1 (of 2) | Robert Parke | 1588 (Hakluyt Society reprint, 1853-1854) (see the Gutenberg header) | have | PG 39009 |
+| `robert-parke-mendoza-the-history-of-the-great-and-mighty-king-vol-2` | Juan González de Mendoza | The History of the Great and Mighty Kingdom of China and the Situation Thereof, Volume 2 (of 2) | Robert Parke | 1588 (Hakluyt Society reprint, 1853-1854) (see the Gutenberg header) | have | PG 42551 |
+
+## Alexander Muir: Gregorovius's Wanderings in Corsica (2 vols)
+
+Shelf: `pipeline/alexander-muir_shelf.json` · fetch `python3 pipeline/fetch_shelf.py alexander-muir` · titles `python3 pipeline/split_shelf_titles.py alexander-muir`.
+Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `alexander-muir-gregorovius-wanderings-in-corsica-its-history-and-it-vol-1` | Ferdinand Gregorovius | Wanderings in Corsica: Its History and Its Heroes. Vol. 1 of 2 | Alexander Muir | 1855 (see the Gutenberg header) | have | PG 44727 |
+| `alexander-muir-gregorovius-wanderings-in-corsica-its-history-and-it-vol-2` | Ferdinand Gregorovius | Wanderings in Corsica: Its History and Its Heroes. Vol. 2 of 2 | Alexander Muir | 1855 (see the Gutenberg header) | have | PG 58337 |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
