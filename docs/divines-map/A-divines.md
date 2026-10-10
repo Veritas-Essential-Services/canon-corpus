@@ -4151,3 +4151,36 @@ Slugs `pendleton-*`. Landmark Baptist; the Church Manual exists on IA only in la
 | Memoirs of William Vaughan and Life of Reuben Ross: biographies by others | excluded | |
 | 1955 and 1966 reprints | excluded | |
 | other Pendletons | excluded | |
+
+## J. H. Jowett (round 21, my pick, 2026-10-10)
+
+Slugs `jowett-*`. Carr's Lane and Fifth Avenue; held to printings dated before 1930. CCEL's Silver Lining is a Grosset reprint, so the 1907 Revell scan is shelved. Not Benjamin Jowett.
+
+| Work | Status | Where |
+|---|---|---|
+| Brooks by the Traveller's Way (New York: A. C. Armstrong; London: H. R. Allenson, 1902) | have-clean | CCEL jowett/brooks |
+| The Passion for Souls (New York: Fleming H. Revell, 1905) | have-clean | CCEL jowett/passion |
+| The Epistles of St. Peter (London: Hodder and Stoughton, 1910) | have-clean | CCEL jowett/epistpeter |
+| Things That Matter Most (New York: Fleming H. Revell, 1913) | have-clean | CCEL jowett/mattermost |
+| The Friend on the Road and Other Studies in the Gospels (New York: George H. Doran, 1922) | have-clean | CCEL jowett/friendonroad |
+| My Daily Meditation for the Circling Year (New York: Fleming H. Revell; copyright 1914) | have-clean | Gutenberg 23241 |
+| The Whole Armour of God (New York: Fleming H. Revell; copyright 1916) | have-clean | Gutenberg 36692 |
+| From Strength to Strength, in a series edited by W. Robertson Nicoll (London: Hodder and Stoughton, 1898) | have-ocr | IA `fromstrengthtost00joweuoft` |
+| Apostolic Optimism and Other Sermons, third edition (New York: A. C. Armstrong; London: Hodder and Stoughton, 1902) | have-ocr | IA `apostolicoptimis0000jhjo_u8y5` |
+| Thirsting for the Springs: Twenty-six Weeknight Addresses (London: H. R. Allenson, 1902) | have-ocr | IA `thirstingforspri00jowe` |
+| Yet Another Day: a Prayer for Every Day of the Year (New York: Fleming H. Revell; copyright 1905) | have-ocr | IA `cihm_66379` |
+| The Silver Lining (New York: Fleming H. Revell; copyright 1907) | have-ocr | IA `silverlining1907jowe` |
+| The High Calling: Meditations on St. Paul's Letter to the Philippians (New York: Fleming H. Revell; copyright 1909) | have-ocr | IA `highcallingmedit00jowe` |
+| The Transfigured Church (New York: Fleming H. Revell; copyright 1910) | have-ocr | IA `transfiguredchur00jowe` |
+| Our Blessed Dead (New York: Fleming H. Revell; copyright 1910) | have-ocr | IA `ourblesseddead00jowe` |
+| The Preacher: His Life and Work, the Yale Lectures (New York: George H. Doran; copyright 1912) | have-ocr | IA `preacherhislifew00jowe` |
+| Things Which Cannot Be Shaken, a sermon at the Fifth Avenue Presbyterian Church, 9 May 1915 (New York, 1915) | have-ocr | IA `thingswhichcanno00jowe` |
+| Come Ye Apart: Daily Exercises in Prayer and Devotion (New York: Fleming H. Revell; copyright 1920) | have-ocr | IA `comeyeapartdaily00jowe` |
+| The Spiritual Uplands: Daily Steps in the Ascent (London and Edinburgh: Oliphants; copyright 1920) | have-ocr | IA `spiritualuplands0000john` |
+| The Eagle Life and Other Studies in the Old Testament (New York: George H. Doran; copyright 1922) | have-ocr | IA `eaglelifeotherst00jowe` |
+| Life in the Heights: Studies in the Epistles, posthumous (New York: Christian Herald and George H. Doran; copyright 1925) | have-ocr | IA `lifeinheightsstu00jowe` |
+| CCEL jowett/silverlining: keyed from a Grosset and Dunlap reprint; the 1907 Revell scan is shelved instead | alternate | not shelved |
+| Scans duplicating the CCEL and Gutenberg texts (Brooks, Passion for Souls, Epistles of St. Peter 1906, Things That Matter Most, My Daily Meditation, Whole Armour, Friend on the Road) and second copies of most titles | alternate | not shelved |
+| The School of Calvary (CCEL, 1969 revised reprint), Apostolic Optimism 1930 printing, and reprints and anthologies from 1948 onward | excluded | |
+| The Dry Dock of a Thousand Wrecks (his introduction only); multi-author collections | excluded | |
+| Benjamin Jowett, William Jowett and others | excluded | |

@@ -973,3 +973,6 @@
 
 ## 2026-10-10 14:52 CDT — j-m-pendleton done
 - `pipeline/j-m-pendleton_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for pendleton-atonement (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:52 CDT — j-h-jowett done
+- `pipeline/j-h-jowett_shelf.json`: 5 CCEL, 2 PG, 14 IA. Title pages read for jowett-apostolic-optimism, jowett-the-preacher (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
