@@ -2983,6 +2983,54 @@ Slugs `ironside-*`. Held to printings before 1930. Nearly every scan of his book
 | Evangelistic Songs, a hymnal he compiled (Oakland: Western Book and Tract Co.; catalogued 1925; IA evangelisticsong00iron) | alternate | not shelved |
 | More than twenty Loizeaux printings from 1941 to 1986 (Neptune, NJ, numbered editions, Zondervan 1940) of Daniel, Revelation, Philippians, Colossians, Holiness, Minor Prophets, Prophecy and others: after 1930 | excluded | |
 | IA machinegundrillsignalscontrolironside: the British army officer | excluded | |
+
+## A. C. Gaebelein (round 18, my pick, 2026-10-10)
+
+Slugs `gaebelein-*`. Held to printings before 1930. Five Gutenberg texts and 31 scans, among them eight of the nine Annotated Bible volumes (New Testament vol. 4 has no date and waits in _pending).
+
+| Work | Status | Where |
+|---|---|---|
+| The Work of Christ: Past, Present and Future (New York: Our Hope, copyright 1913) | have-clean | Gutenberg 26643 |
+| The Lord of Glory: Meditations on the Person, the Work and Glory of Our Lord Jesus Christ (New York: Our Hope, copyright 1910) | have-clean | Gutenberg 29557 |
+| Studies in Zechariah (eighth edition, New York: Francis E. Fitch, copyright 1911) | have-clean | Gutenberg 36216 |
+| Studies in Prophecy (New York: Our Hope, copyright 1918) | have-clean | Gutenberg 31603 |
+| The Prophet Ezekiel: An Analytical Exposition (New York: Fleming H. Revell, copyright 1918) | have-clean | Gutenberg 36857 |
+| The Seven Parables, Matthew XIII: An Exposition (Los Angeles: Bible House of Los Angeles; no year on title page, library stamp 1906) | have-ocr | IA `sevenparablesmat00gaeb` |
+| The Gospel of Matthew: An Exposition, vol. 1 (New York: Gospel Publishing House, 1903) | have-ocr | IA `gospelmatthewan00gaebgoog` |
+| Hath God Cast Away His People? (New York: Gospel Publishing House; Toronto: Upper Canada Tract Society, 1905) | have-ocr | IA `cihm_86920` |
+| The Harmony of the Prophetic Word (New York: Fleming H. Revell; no year on title page, copyright 1907) | have-ocr | IA `harmonypropheti00gaebgoog` |
+| The Prophet Joel: An Exposition, foreword by C. I. Scofield (New York: Our Hope, copyright 1909) | have-ocr | IA `prophetjoelexpos00gaebuoft` |
+| The Gospel of Matthew: An Exposition, vol. 1 (New York: Our Hope, copyright 1910) | have-ocr | IA `gospelofmatthewe01gaeb` |
+| The Gospel of Matthew: An Exposition, vol. 2 (New York: Our Hope, copyright 1910) | have-ocr | IA `gospelofmatthewe02gaeb` |
+| The Prophet Daniel: A Key to the Visions and Prophecies (New York: Our Hope; no year on title page, copyright 1911) | have-ocr | IA `prophetdanielkey00gae` |
+| The Jewish Question (New York: Our Hope, copyright 1912) | have-ocr | IA `jewishquestion00gaeb` |
+| The Acts of the Apostles: An Exposition (New York: Our Hope, copyright 1912) | have-ocr | IA `actsofapostles00gaeb` |
+| The Book of Genesis: A Complete Analysis with Annotations (New York: Our Hope, copyright 1912) | have-ocr | IA `bookofgenesiscom00gaeb` |
+| God's Masterpiece: An Analytical Exposition of Ephesians I-III (New York: Our Hope, copyright 1913) | have-ocr | IA `godsmasterpiecea0000gaeb` |
+| Current Events in the Light of the Bible (New York: Our Hope; copyright year garbled, library stamp 1915) | have-ocr | IA `currenteventsinl00gaeb` |
+| The Revelation: An Analysis and Exposition (New York: Our Hope, copyright 1915) | have-ocr | IA `revelationanalys00gaebiala` |
+| The Holy Spirit in the New Testament (New York: Our Hope; no year on title page, catalogued 1920) | have-ocr | IA `holyspiritinnewt0000gaeb` |
+| His Riches, Our Riches: A Gospel Message (New York: Gospel Publishing House; no year on title page, catalogued 1920) | have-ocr | IA `hisrichesourrich00gaeb` |
+| The Angels of God (New York: Our Hope; no year on title page, catalogued 1924) | have-ocr | IA `angelsofgod0000arno_b2n0` |
+| The Gospel of John: A Complete Analytical Exposition (New York: Our Hope, copyright 1925) | have-ocr | IA `gospelofjohn00gaeb` |
+| The Healing Question (New York: Our Hope, copyright 1925) | have-ocr | IA `healingquestione00gaeb` |
+| The Return of the Lord (New York: Our Hope, copyright 1925) | have-ocr | IA `returnoflordwhat00gaeb` |
+| Christianity or Religion? (New York: Our Hope, copyright 1927) | have-ocr | IA `christianityorre00gaeb` |
+| The Christ We Know (New York: Our Hope, copyright 1927 by the Bible Institute Colportage Association) | have-ocr | IA `christweknowmedi00gaeb` |
+| The Annotated Bible: The Holy Scriptures Analysed and Annotated, Old Testament vol. 1, Pentateuch (New York: Our Hope; no year on title page, copyright 1913) | have-ocr | IA `annotatedbibleho01gaeb` |
+| The Annotated Bible: The Holy Scriptures Analysed and Annotated, Old Testament vol. 2, Joshua to Chronicles (New York: Our Hope; no year on title page, copyright 1915) | have-ocr | IA `annotatedbibleho02gaeb` |
+| The Annotated Bible: The Holy Scriptures Analysed and Annotated, Old Testament vol. 3, Ezra to Psalms (New York: Our Hope; no year on title page, copyright 1916) | have-ocr | IA `annotatedbibleh01gaebgoog` |
+| The Annotated Bible: The Holy Scriptures Analysed and Annotated, Old Testament vol. 4, Proverbs to Ezekiel (New York: Our Hope; no year on title page, copyright 1921) | have-ocr | IA `annotatedbibleho04gaeb` |
+| The Annotated Bible: The Holy Scriptures Analysed and Annotated, Old Testament vol. 5, Daniel to Malachi (New York: Our Hope; no year on title page, no copyright line seen) | have-ocr | IA `annotatedbibleho05gaeb` |
+| The Annotated Bible: The Holy Scriptures Analysed and Annotated, New Testament vol. 1, Gospels and Acts (New York: Our Hope; no year on title page, copyright 1913) | have-ocr | IA `annotatedbibleho06gaeb` |
+| The Annotated Bible: The Holy Scriptures Analysed and Annotated, New Testament vol. 2, Romans to Ephesians (New York: Our Hope; no year on title page, copyright 1916) | have-ocr | IA `annotatedbibleho07gaeb` |
+| The Annotated Bible: The Holy Scriptures Analysed and Annotated, New Testament vol. 3, Philippians to Hebrews (New York: Our Hope; no year on title page, copyright 1917) | have-ocr | IA `annotatedbibleho08gaeb` |
+| Scans of the PG texts: Zechariah (studiesinzechari0000gaeb, studiesinzechar00gaebgoog), Ezekiel (prophetezekielan00gaeb), Studies in Prophecy (studiesinprophec00gaebuoft), Work of Christ (in.ernet.dli.2015.268575) | alternate | not shelved |
+| other Annotated Bible copies (IA annotatedbible01gaeb to 05gaeb, annotatedbib01gaeb to 04gaeb, and Google copies) | alternate | not shelved |
+| second copies of Matthew, Joel, Daniel, Revelation, John and others listed in the round 18 research | alternate | not shelved |
+| IA bwb_C0-ALM-289 (Loizeaux 1961), actsofapostles0000arno_q5g8 (Loizeaux reprint), annotatedbibleho0001arno (posthumous reprint), the 1943 history of the Scofield Reference Bible | excluded | |
+| IA gospelofjohn0000gaeb: actually the Moffatt commentary | excluded | |
+| Raimund and Richard Gaebelein | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -2211,10 +2211,12 @@
     },
     {
       "id": "a-c-gaebelein",
-      "status": "queued",
+      "status": "done",
       "scope": "A. C. Gaebelein (d. 1945): pre-1930 printings only",
       "added": "2026-10-10T11:20:02-05:00",
-      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held."
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T12:10:46-05:00",
+      "notes": "built and verified"
     }
   ]
 }

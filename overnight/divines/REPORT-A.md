@@ -832,3 +832,6 @@
 
 ## 2026-10-10 12:10 CDT — h-a-ironside done
 - `pipeline/h-a-ironside_shelf.json`: 0 CCEL, 0 PG, 5 IA. The Loizeaux address on the title page (1 East 13th Street) is the dating evidence for two undated items. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — a-c-gaebelein done
+- `pipeline/a-c-gaebelein_shelf.json`: 0 CCEL, 5 PG, 30 IA. Title pages read for gaebelein-matthew-1903, gaebelein-acts, gaebelein-john, gaebelein-christianity-religion (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
