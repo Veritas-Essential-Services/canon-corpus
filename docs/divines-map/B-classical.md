@@ -3238,6 +3238,10 @@ Shelf: `pipeline/holm_shelf.json`. The History of Greece, translated from the Ge
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The History of Greece from its Commencement to the Close of the Independence of the Greek Nation, vol. I (London: Macmillan, 1894) | Frederick Clarke (named in vol. IV) | `holm-history-greece-v1-1894` | have-raw (IA `historyofgreecef01holm`) |
+| The History of Greece, vol. II, The Fifth Century B.C. (London: Macmillan, 1899) | Frederick Clarke (named in vol. IV) | `holm-history-greece-v2-1899` | have-raw (IA `historyofgreecef02holm`) |
+| The History of Greece, vol. III, The Fourth Century B.C. up to the Death of Alexander (London: Macmillan, 1896) | Frederick Clarke (named in vol. IV) | `holm-history-greece-v3-1896` | have-raw (IA `historyofgreecef03holm_0`) |
+| The History of Greece, vol. IV, The Graeco-Macedonian Age (London: Macmillan, 1898) | Clarke | `holm-history-greece-v4-1898` | have-raw (IA `historygreecefr04holmgoog`) |
 
 ## Perseus census (overflow)
 
