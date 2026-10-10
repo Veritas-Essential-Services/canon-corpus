@@ -1,0 +1,34 @@
+{
+ "_about": "John Conington (1825-1869), Corpus Professor of Latin at Oxford. Classical scholarship (lane B pivot, 2026-10-10): Miscellaneous Writings, ed. J. A. Symonds with a memoir by H. J. S. Smith (1872), vol. I, raw IA OCR. His translations of Horace, Virgil and Persius are on those shelves. His Virgil commentary (with Nettleship) reads 0.73 on the OCR measure, under the bar. No uids minted.",
+ "_name_words": [
+  "conington"
+ ],
+ "_surname": [
+  "john conington",
+  "conington, john"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "conington-miscellaneous-writings-v1-1872": [
+   "miscellaneouswri01coniuoft",
+   "Miscellaneous Writings of John Conington, ed. J. A. Symonds, with a memoir by H. J. S. Smith, vol. I (London: Longmans, Green, 1872)"
+  ]
+ },
+ "_excluded": {
+  "P. Vergili Maronis Opera, with a commentary (with Henry Nettleship), vol. III (IA pvergilimaroniso03virg)": "refused: OCR 0.73 (dense line references; sampled OCR is otherwise good)"
+ },
+ "_checks": {
+  "conington-miscellaneous-writings-v1-1872": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john conington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

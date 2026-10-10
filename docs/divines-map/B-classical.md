@@ -2547,6 +2547,7 @@ Shelf: `pipeline/conington_shelf.json`. Conington's Miscellaneous Writings (1872
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Miscellaneous Writings of John Conington, ed. J. A. Symonds, with a memoir by H. J. S. Smith, vol. I (London: Longmans, Green, 1872) |  | `conington-miscellaneous-writings-v1-1872` | have-raw (IA `miscellaneouswri01coniuoft`) |
 
 Excluded: P. Vergili Maronis Opera, with a commentary (with Henry Nettleship), vol. III (IA pvergilimaroniso03virg) (refused: OCR 0.73 (dense line references; sampled OCR is otherwise good))
 
