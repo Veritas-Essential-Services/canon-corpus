@@ -664,3 +664,11 @@
 - Storr's Loeb Sophocles vol. II measured 0.51/0.49 with the Greek facing: joins the Greek-facing class awaiting Adam
 - Wishlist corrections: Watson's Quintilian is held (only an 1856 vol. I printing is wanted); Aeschines needs nothing further known
 - Refused: Herodian 1789 (ECCO 0.65), Cebes 1699 (EEBO 0.68)
+
+## 2026-10-10 10:55 CDT — Round 2026-10-10p: nothing added; one question
+- Re-hunted the wishlist (Munford Iliad I, Thornton Plautus III-V, Smart's verse Horace III, Tytler's Punics II, Chinnock's Indica, King's Tusculans 1927): only duplicate scans of held volumes, the 1767 first edition of Thornton vol. I (the 1769 second edition is held), and the 1945 revised Tusculans again
+- Aelian, Various History, Thomas Stanley (1665): the EEBO scan reads 0.57; the clean copy on IA (aelian-various-history, 0.94) is a modern retyping with unsigned modern endnotes, so it is not the 1665 book. Not taken
+- Refused under the bar: Coluthus, Rape of Helen 1786 (ECCO 0.60); Artemidorus, Interpretation of Dreams 1644/1656/1690 (EEBO 0.48-0.71) and 1755 (two ECCO scans, 0.714 and 0.778, the better one just under 0.78); two more scans of Rhys Roberts's Demetrius On Style (0.59, 0.72) and the 1927 Loeb Poetics/Longinus/Demetrius (0.73), all Greek facing
+- Heath's Diophantus (1910) not taken: a study with the Arithmetica paraphrased in modern notation, not a translation, and its notation drags the OCR measure to 0.71
+- Anna Comnena's Alexiad, tr. Elizabeth A. S. Dawes (London, 1928): public domain everywhere (US by date; Dawes d. 1954). IA has no scan of the 1928 printing, only two modern digital retypes: the Internet Medieval Sourcebook file (keeps Dawes's introduction, adds Buckler's 1929 summaries and an editor's non-commercial notice) and the In Parentheses edition (Cambridge, Ontario, 2000). Held for Adam (DIGEST-B)
+- Finding: the classical lane is close to exhausted on IA and Gutenberg at the 0.78 bar. What remains is the Greek-facing Loebs, the later-printings class, ECCO scans under the bar and duplicate scans, all of which wait on Adam's rulings
