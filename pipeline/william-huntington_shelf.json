@@ -1,0 +1,257 @@
+{
+ "_about": "Public-domain William Huntington, S.S. (1745-1813, coal-heaver turned preacher of Providence Chapel, London; not the American W. R. Huntington) for the Word Hoard: thirteen of the twenty volumes of his Works (London: E. Huntington, 1811; vols. II, III, V, VI, XV, XVII and XIX not found), Gleanings of the Vintage (1813) and Posthumous Letters vol. II (catalogued 1815), raw Internet Archive OCR (Google scans, fair). The Bank of Faith and The Kingdom of Heaven Taken by Prayer are in the Works. Added 2026-10-10 by lane A, round 17 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "huntington",
+  "william"
+ ],
+ "_surname": [
+  "william huntington",
+  "w. huntington, s.s",
+  "william huntington, s.s",
+  "huntington, william",
+  "the late william huntington",
+  "w. huntington"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "huntington-works-01": [
+   "workswilliamhun00huntgoog",
+   "The Works of the Reverend William Huntington, S.S., vol. 01 (London: printed for E. Huntington by T. Bensley, 1811)"
+  ],
+  "huntington-works-04": [
+   "workswilliamhun04huntgoog",
+   "The Works of the Reverend William Huntington, S.S., vol. 04 (London: printed for E. Huntington by T. Bensley, 1811)"
+  ],
+  "huntington-works-07": [
+   "workswilliamhun07huntgoog",
+   "The Works of the Reverend William Huntington, S.S., vol. 07 (London: printed for E. Huntington by T. Bensley, 1811)"
+  ],
+  "huntington-works-08": [
+   "workswilliamhun05huntgoog",
+   "The Works of the Reverend William Huntington, S.S., vol. 08 (London: printed for E. Huntington by T. Bensley, 1811)"
+  ],
+  "huntington-works-09": [
+   "workswilliamhun06huntgoog",
+   "The Works of the Reverend William Huntington, S.S., vol. 09 (London: printed for E. Huntington by T. Bensley, 1811)"
+  ],
+  "huntington-works-10": [
+   "workswilliamhun01worgoog",
+   "The Works of the Reverend William Huntington, S.S., vol. 10 (London: printed for E. Huntington by T. Bensley, 1811)"
+  ],
+  "huntington-works-11": [
+   "workswilliamhun00worgoog",
+   "The Works of the Reverend William Huntington, S.S., vol. 11 (London: printed for E. Huntington by T. Bensley, 1811)"
+  ],
+  "huntington-works-12": [
+   "workswilliamhun09huntgoog",
+   "The Works of the Reverend William Huntington, S.S., vol. 12 (London: printed for E. Huntington by T. Bensley, 1811)"
+  ],
+  "huntington-works-13": [
+   "workswilliamhun00unkngoog",
+   "The Works of the Reverend William Huntington, S.S., vol. 13 (London: printed for E. Huntington by T. Bensley, 1811)"
+  ],
+  "huntington-works-14": [
+   "workswilliamhun01huntgoog",
+   "The Works of the Reverend William Huntington, S.S., vol. 14 (London: printed for E. Huntington by T. Bensley, 1811)"
+  ],
+  "huntington-works-16": [
+   "workswilliamhun08huntgoog",
+   "The Works of the Reverend William Huntington, S.S., vol. 16 (London: printed for E. Huntington by T. Bensley, 1811)"
+  ],
+  "huntington-works-18": [
+   "workswilliamhun03huntgoog",
+   "The Works of the Reverend William Huntington, S.S., vol. 18 (London: printed for E. Huntington by T. Bensley, 1811)"
+  ],
+  "huntington-works-20": [
+   "workswilliamhun02huntgoog",
+   "The Works of the Reverend William Huntington, S.S., vol. 20 (London: printed for E. Huntington by T. Bensley, 1811)"
+  ],
+  "huntington-gleanings-1813": [
+   "gleaningsvintag00huntgoog",
+   "Gleanings of the Vintage, or Letters to the Spiritual Edification of the Church of Christ (London: E. Huntington, 1813; this copy's preface is to the fifth part)"
+  ],
+  "huntington-posthumous-letters-2": [
+   "posthumouslette02huntgoog",
+   "Posthumous Letters of the Rev. W. Huntington, S.S., vol. 2 (London: T. Bensley; catalogued 1815)"
+  ]
+ },
+ "_alternates": {
+  "huntington-bank-of-faith": "God the Poor Man's Guardian, and the Bank of Faith (London, 1784, ECCO; and New York, 1843, IA godguardianofpoo00hunt): in Works vol. 1",
+  "huntington-wright-life": "Thomas Wright, The Life of William Huntington (1909; IA lifeofwilliamhun00wrigrich)"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "huntington-works-18": {
+   "author": "Title page read: \"THE WORKS OF THE REVEREND WILUAM HUNTINGTON, S.S.\" (OCR for William)."
+  }
+ },
+ "_checks": {
+  "huntington-works-01": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william huntington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huntington-works-04": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william huntington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huntington-works-07": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william huntington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huntington-works-08": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william huntington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huntington-works-09": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william huntington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huntington-works-10": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william huntington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huntington-works-11": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william huntington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huntington-works-12": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william huntington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huntington-works-13": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william huntington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huntington-works-14": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william huntington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huntington-works-16": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william huntington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huntington-works-18": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huntington-works-20": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william huntington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huntington-gleanings-1813": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william huntington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "huntington-posthumous-letters-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. huntington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

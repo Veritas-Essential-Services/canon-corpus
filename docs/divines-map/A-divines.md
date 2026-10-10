@@ -2745,3 +2745,27 @@ Slugs `philpot-*`. Strict Baptist editor of the Gospel Standard. Distinct from J
 |---|---|---|
 | Letters by the late Joseph Charles Philpot, M.A. (London: J. Gadsby, 1871) | have-ocr | IA `lettersbylatejos0000vari` |
 | The Gospel Standard vols. XVII-XXXV (1851-69; IA gospelstandardo06unkngoog and others), which he edited: a magazine of many hands, not claimed as his | alternate | not shelved |
+
+## William Huntington, S.S. (round 17, my pick, 2026-10-10)
+
+Slugs `huntington-*`. Coal-heaver preacher of Providence Chapel. A broken run of the 20-volume Works (Google scans, volume numbers read from title pages), plus Gleanings of the Vintage and Posthumous Letters vol. 2.
+
+| Work | Status | Where |
+|---|---|---|
+| The Works of the Reverend William Huntington, S.S., vol. 01 (London: printed for E. Huntington by T. Bensley, 1811) | have-ocr | IA `workswilliamhun00huntgoog` |
+| The Works of the Reverend William Huntington, S.S., vol. 04 (London: printed for E. Huntington by T. Bensley, 1811) | have-ocr | IA `workswilliamhun04huntgoog` |
+| The Works of the Reverend William Huntington, S.S., vol. 07 (London: printed for E. Huntington by T. Bensley, 1811) | have-ocr | IA `workswilliamhun07huntgoog` |
+| The Works of the Reverend William Huntington, S.S., vol. 08 (London: printed for E. Huntington by T. Bensley, 1811) | have-ocr | IA `workswilliamhun05huntgoog` |
+| The Works of the Reverend William Huntington, S.S., vol. 09 (London: printed for E. Huntington by T. Bensley, 1811) | have-ocr | IA `workswilliamhun06huntgoog` |
+| The Works of the Reverend William Huntington, S.S., vol. 10 (London: printed for E. Huntington by T. Bensley, 1811) | have-ocr | IA `workswilliamhun01worgoog` |
+| The Works of the Reverend William Huntington, S.S., vol. 11 (London: printed for E. Huntington by T. Bensley, 1811) | have-ocr | IA `workswilliamhun00worgoog` |
+| The Works of the Reverend William Huntington, S.S., vol. 12 (London: printed for E. Huntington by T. Bensley, 1811) | have-ocr | IA `workswilliamhun09huntgoog` |
+| The Works of the Reverend William Huntington, S.S., vol. 13 (London: printed for E. Huntington by T. Bensley, 1811) | have-ocr | IA `workswilliamhun00unkngoog` |
+| The Works of the Reverend William Huntington, S.S., vol. 14 (London: printed for E. Huntington by T. Bensley, 1811) | have-ocr | IA `workswilliamhun01huntgoog` |
+| The Works of the Reverend William Huntington, S.S., vol. 16 (London: printed for E. Huntington by T. Bensley, 1811) | have-ocr | IA `workswilliamhun08huntgoog` |
+| The Works of the Reverend William Huntington, S.S., vol. 18 (London: printed for E. Huntington by T. Bensley, 1811) | have-ocr | IA `workswilliamhun03huntgoog` |
+| The Works of the Reverend William Huntington, S.S., vol. 20 (London: printed for E. Huntington by T. Bensley, 1811) | have-ocr | IA `workswilliamhun02huntgoog` |
+| Gleanings of the Vintage, or Letters to the Spiritual Edification of the Church of Christ (London: E. Huntington, 1813; this copy's preface is to the fifth part) | have-ocr | IA `gleaningsvintag00huntgoog` |
+| Posthumous Letters of the Rev. W. Huntington, S.S., vol. 2 (London: T. Bensley; catalogued 1815) | have-ocr | IA `posthumouslette02huntgoog` |
+| God the Poor Man's Guardian, and the Bank of Faith (London, 1784, ECCO; and New York, 1843, IA godguardianofpoo00hunt): in Works vol. 1 | alternate | not shelved |
+| Thomas Wright, The Life of William Huntington (1909; IA lifeofwilliamhun00wrigrich) | alternate | not shelved |

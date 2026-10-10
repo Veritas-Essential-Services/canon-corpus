@@ -799,3 +799,6 @@
 
 ## 2026-10-10 11:00 CDT — j-c-philpot done
 - `pipeline/j-c-philpot_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:00 CDT — william-huntington done
+- `pipeline/william-huntington_shelf.json`: 0 CCEL, 0 PG, 15 IA. Title pages read for huntington-works-18 (OCR garbles the name), recorded in `_identity_checked`. Works volumes are an incomplete set. `--verify --record`: 0 mismatched. 0 uids minted.
