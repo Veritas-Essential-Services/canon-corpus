@@ -2599,6 +2599,7 @@ Shelf: `pipeline/warde-fowler_shelf.json`. William Warde Fowler (1847-1921), Oxf
 | The Religious Experience of the Roman People, from the Earliest Times to the Age of Augustus |  | `warde-fowler-religious-experience-roman-people` | have (PG 23349) |
 | Rome (Home University Library) |  | `warde-fowler-rome` | have (PG 56630) |
 | The Roman Festivals of the Period of the Republic |  | `warde-fowler-roman-festivals` | have (PG 59007) |
+| Julius Caesar and the Foundation of the Roman Imperial System (New York and London: Putnam, 1892) |  | `warde-fowler-julius-caesar-1892` | have-raw (IA `cu31924028312290`) |
 
 Pending (wishlist): The City-State of the Greeks and Romans (1893) in a scan whose imprint year is legible.
 

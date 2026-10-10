@@ -1,5 +1,5 @@
 {
- "_about": "William Warde Fowler (1847-1921), Oxford historian of Roman religion. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Social Life at Rome in the Age of Cicero, The Religious Experience of the Roman People, from the Earliest Times to the Age of Augustus, Rome (Home University Library), The Roman Festivals of the Period of the Republic, clean Gutenberg. His bird books are outside the brief. No uids minted.",
+ "_about": "William Warde Fowler (1847-1921), Oxford historian of Roman religion. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Social Life at Rome in the Age of Cicero, The Religious Experience of the Roman People, from the Earliest Times to the Age of Augustus, Rome (Home University Library), The Roman Festivals of the Period of the Republic, clean Gutenberg. His bird books are outside the brief. No uids minted. Also Julius Caesar and the Foundation of the Roman Imperial System (Putnam, 1892), raw IA OCR.",
  "_name_words": [
   "fowler",
   "warde"
@@ -28,7 +28,12 @@
    "The Roman Festivals of the Period of the Republic"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "warde-fowler-julius-caesar-1892": [
+   "cu31924028312290",
+   "Julius Caesar and the Foundation of the Roman Imperial System (New York and London: Putnam, 1892)"
+  ]
+ },
  "_checks": {
   "warde-fowler-social-life-rome-cicero": {
    "kind": "gutenberg",
@@ -65,6 +70,22 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "warde-fowler-julius-caesar-1892": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "warde-fowler-julius-caesar-1892": {
+   "author": "title page read 2026-10-10: OCR gives 'W. WARDE roWLER, M.A. SUB-RECTOR OF LINCOLN COLLEGE OXFORD', Putnam 1892 (W. Warde Fowler); the OCR misreads FOWLER"
   }
  }
 }
