@@ -1,0 +1,582 @@
+{
+ "_about": "Public-domain A. B. Simpson (Albert Benjamin Simpson, 1843-1919, founder of the Christian and Missionary Alliance) for the Word Hoard: Days of Heaven upon Earth (Project Gutenberg, 1897) and 35 books from Internet Archive scans, 1888-1926, among them four volumes of Christ in the Bible, The Four-Fold Gospel, The Holy Spirit, The Gospel of Healing and two books of verse. Every Christian Publications (Harrisburg) printing is a post-1930 reprint and is left out. Divine healing teaching; veto point. Added 2026-10-10 by lane A, round 18 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "simpson"
+ ],
+ "_surname": [
+  "a. b. simpson",
+  "simpson, a. b.",
+  "albert b. simpson",
+  "albert benjamin simpson",
+  "rev. a. b. simpson",
+  "a. b. simpson, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "simpson-days-of-heaven": [
+   "28416",
+   "Days of Heaven upon Earth: A Year Book of Scripture Texts and Living Truths (Brooklyn: Christian Alliance Publishing Co., copyright December 1897)"
+  ]
+ },
+ "internet_archive": {
+  "simpson-christ-bible-genesis-exodus": [
+   "christinbible0001reva",
+   "Christ in the Bible, Genesis and Exodus (New York: Word, Work and World, 1888; volume catalogued as 1)"
+  ],
+  "simpson-christ-bible-tabernacle": [
+   "christinbible0002reva",
+   "Christ in the Bible, the Tabernacle and offerings (New York: Word, Work and World, 1889; volume catalogued as 2)"
+  ],
+  "simpson-christ-in-tabernacle": [
+   "christintabernac00simp",
+   "Christ in the Tabernacle (New York: Word, Work and World, 1888)"
+  ],
+  "simpson-divine-emblems": [
+   "divineemblemsinb0000simp",
+   "Divine Emblems in the Book of Genesis (New York: Word, Work and World, 1888)"
+  ],
+  "simpson-christ-bible-joshua": [
+   "unset0000unse_q2r6",
+   "Christ in the Bible, vol. 3, Joshua (New York: Christian Alliance Publishing Co., copyright 1894)"
+  ],
+  "simpson-christ-bible-david-solomon": [
+   "christinbible0005absi",
+   "Christ in the Bible, vol. 5, The Times of David and Solomon (New York: Alliance Press, copyright 1903)"
+  ],
+  "simpson-larger-life": [
+   "largerchristianl00simp",
+   "A Larger Christian Life (New York: Christian Alliance Publishing Co., copyright 1890)"
+  ],
+  "simpson-fourfold-gospel": [
+   "fourfoldgospel00simp",
+   "The Four-Fold Gospel, third edition, revised (New York: Christian Alliance Publishing Co.; no year on title page, catalogued 1890)"
+  ],
+  "simpson-forty-days": [
+   "christoffortyday00simprich",
+   "The Christ of the Forty Days (New York: Christian Alliance Publishing Co.; no year on title page, catalogued 1890)"
+  ],
+  "simpson-gospel-kingdom": [
+   "gospelofkingdoms0000simp",
+   "The Gospel of the Kingdom, discourses on the Lord's coming (New York: Christian Alliance Publishing Co., copyright 1890)"
+  ],
+  "simpson-names-of-jesus": [
+   "nameofjesus00simp",
+   "The Names of Jesus (New York: Christian Alliance Publishing Co., copyright 1892)"
+  ],
+  "simpson-christ-life": [
+   "christlife00simp",
+   "Christ Life (New York: Christian Alliance Publishing Co., copyright 1892)"
+  ],
+  "simpson-heavenly-places": [
+   "bwb_W9-CYY-897",
+   "In Heavenly Places (New York: Christian Alliance Publishing Co., copyright 1892)"
+  ],
+  "simpson-larger-outlooks": [
+   "cihm_50167",
+   "Larger Outlooks on Missionary Lands (New York: Christian Alliance Publishing Co.; entered 1893)"
+  ],
+  "simpson-millennial-chimes": [
+   "millchimes00simp",
+   "Millennial Chimes: A Collection of Poems (New York: Christian Alliance Publishing Co., copyright 1894)"
+  ],
+  "simpson-holy-spirit-1": [
+   "holyspiritorpowe00simp_0",
+   "The Holy Spirit, or, Power from on High, part 1, The Old Testament (New York: Christian Alliance Publishing Co., copyright 1895)"
+  ],
+  "simpson-holy-spirit-2": [
+   "holyspiritorpowe0000reva",
+   "The Holy Spirit, or, Power from on High, part 2, new edition from new plates (New York: Christian Alliance Publishing Co., 1924)"
+  ],
+  "simpson-self-life": [
+   "selflifechristli00simp",
+   "The Self Life and the Christ Life (South Nyack: Christian Alliance Publishing Co., copyright 1897)"
+  ],
+  "simpson-present-truth": [
+   "presenttruth00simp",
+   "Present Truth (South Nyack: Christian Alliance Publishing Co., copyright 1897)"
+  ],
+  "simpson-heavenly-vision": [
+   "heavenlyvision00simp",
+   "The Heavenly Vision (Brooklyn: Christian Alliance Publishing Co., copyright 1898)"
+  ],
+  "simpson-making-jesus-king": [
+   "makingjesusking0000reva",
+   "Making Jesus King (South Nyack: Christian Alliance Publishing Co., copyright 1898)"
+  ],
+  "simpson-but-god": [
+   "butgodresourcess0000reva",
+   "But God: The Resources and Sufficiency of God (Brooklyn: Christian Alliance Publishing Co.; copyright year garbled, catalogued 1899)"
+  ],
+  "simpson-heaven-opened": [
+   "heavenopened00simp",
+   "Heaven Opened: Expositions of the Book of Revelation (Nyack and New York: Christian Alliance Publishing Co., copyright 1899)"
+  ],
+  "simpson-apostolic-church": [
+   "apostolicchurch00simp",
+   "The Apostolic Church (Nyack and New York: Christian Alliance Publishing Co.; no year on title page, catalogued 1900)"
+  ],
+  "simpson-christs-return": [
+   "christsreturnkey00simp",
+   "Christ's Return: The Key to Prophecy and Providence (New York: Alliance Press; no year on title page, preface dated 1906)"
+  ],
+  "simpson-comforter-came": [
+   "whencomfortercam00simp",
+   "When the Comforter Came (New York: Alliance Press, copyright 1911)"
+  ],
+  "simpson-old-faith": [
+   "oldfaithandnewgo0000absi",
+   "The Old Faith and the New Gospels (New York: Christian Alliance Publishing Co., copyright 1911)"
+  ],
+  "simpson-coming-one": [
+   "cu31924014011997",
+   "The Coming One (New York: Christian Alliance Publishing Co.; copyright year illegible, catalogued 1912)"
+  ],
+  "simpson-life-more-abundantly": [
+   "lifemoreabundant00simp",
+   "Life More Abundantly (New York: Christian Alliance Publishing Co., copyright 1912)"
+  ],
+  "simpson-back-to-patmos": [
+   "backtopatmos0000absi",
+   "Back to Patmos (New York: Christian Alliance Publishing Co., copyright 1914)"
+  ],
+  "simpson-gospel-healing": [
+   "gospelofhealing0000absi_b6o2",
+   "The Gospel of Healing, revised edition (New York: Christian Alliance Publishing Co., copyright 1888 and 1915)"
+  ],
+  "simpson-michele-nardi": [
+   "michelenardiital00simp",
+   "Michele Nardi, the Italian Evangelist: His Life and Work (New York, copyright 1916)"
+  ],
+  "simpson-songs-of-spirit": [
+   "songsofspirithit00simp",
+   "Songs of the Spirit: Hitherto Unpublished Poems (New York: Christian Alliance Publishing Co., copyright 1920; posthumous)"
+  ],
+  "simpson-earnests": [
+   "earnestsofcoming00simp",
+   "Earnests of the Coming Age, and Other Sermons (New York: Christian Alliance Publishing Co., copyright 1921; posthumous)"
+  ],
+  "simpson-challenge-missions": [
+   "challengeofmissi0000absi",
+   "The Challenge of Missions (New York: Christian Alliance Publishing Co., copyright 1926; posthumous)"
+  ]
+ },
+ "_alternates": {
+  "simpson-days-heaven-scan": "Days of Heaven upon Earth, scan (IA daysofheavenupon00simp)",
+  "simpson-later-editions": "The Christ Life, 1925 edition (IA christlife00simp_0); The Four-Fold Gospel, 1925 (fourfoldgospel0000absi)",
+  "simpson-hymnals": "Hymnals he compiled, which hold other writers' hymns: Hymns and Songs of the Four-Fold Gospel (1890), Hymns of the Christian Life nos. 1-3 (1891, 1897, 1904) and the 1908 edition"
+ },
+ "_excluded": {
+  "simpson-harrisburg": "Christian Publications, Inc. (Harrisburg) printings: post-1930 reprints, whatever IA's 1886 date says",
+  "simpson-late": "1974 and later reprints",
+  "simpson-namesakes": "Albert F. Simpson and other namesakes"
+ },
+ "_identity_checked": {
+  "simpson-christ-bible-tabernacle": {
+   "author": "Title page read: \"BY REV. A-B: SIMPSON, Pastor of the Gospel Tabernacle, New York\" (OCR)."
+  },
+  "simpson-divine-emblems": {
+   "author": "Title page read: \"Rev. A, B. SIMPSON\", published by Word, Work and World Pub. Co. (OCR)."
+  }
+ },
+ "_pending": {
+  "simpson-nt-standpoint": "The New Testament Standpoint of Missions (IA newtestamentstan00simp): undated pamphlet",
+  "simpson-fullness-jesus": "The Fullness of Jesus (IA fullnessofjesuso00simp): title page not reached"
+ },
+ "_checks": {
+  "simpson-days-of-heaven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "simpson-christ-bible-genesis-exodus": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-christ-bible-tabernacle": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-christ-in-tabernacle": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-divine-emblems": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-christ-bible-joshua": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-christ-bible-david-solomon": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-larger-life": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "simpson-fourfold-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simpson-forty-days": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "[1890?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simpson-gospel-kingdom": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-names-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "simpson-christ-life": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "simpson-heavenly-places": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-larger-outlooks": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-millennial-chimes": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-holy-spirit-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-holy-spirit-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-self-life": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "simpson-present-truth": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "simpson-heavenly-vision": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-making-jesus-king": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-but-god": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-heaven-opened": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "simpson-apostolic-church": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simpson-christs-return": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "simpson, a. b.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-comforter-came": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-old-faith": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-coming-one": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-life-more-abundantly": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simpson-back-to-patmos": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-gospel-healing": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-michele-nardi": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "simpson-songs-of-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-earnests": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "simpson-challenge-missions": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

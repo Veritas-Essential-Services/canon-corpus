@@ -3170,6 +3170,55 @@ Slugs `strong-*`. Rochester Seminary president. The 1907-09 Systematic Theology 
 | 1946-1963 reprints of the Systematic Theology | excluded | |
 | Herbert Augustus, Charles Augustus, Frederick A. and Thomas Augustus Strong; James Strong | excluded | |
 | Reminiscences of Early Rochester (1916), the seminary General Catalogue, the 1880 dedication address | excluded | |
+
+## A. B. Simpson (round 18, my pick, 2026-10-10)
+
+Slugs `simpson-*`. Founder of the Christian and Missionary Alliance. Every Christian Publications (Harrisburg) scan is a post-1930 reprint despite IA's 1886 date, and is left out; his hymnals are alternates.
+
+| Work | Status | Where |
+|---|---|---|
+| Days of Heaven upon Earth: A Year Book of Scripture Texts and Living Truths (Brooklyn: Christian Alliance Publishing Co., copyright December 1897) | have-clean | Gutenberg 28416 |
+| Christ in the Bible, Genesis and Exodus (New York: Word, Work and World, 1888; volume catalogued as 1) | have-ocr | IA `christinbible0001reva` |
+| Christ in the Bible, the Tabernacle and offerings (New York: Word, Work and World, 1889; volume catalogued as 2) | have-ocr | IA `christinbible0002reva` |
+| Christ in the Tabernacle (New York: Word, Work and World, 1888) | have-ocr | IA `christintabernac00simp` |
+| Divine Emblems in the Book of Genesis (New York: Word, Work and World, 1888) | have-ocr | IA `divineemblemsinb0000simp` |
+| Christ in the Bible, vol. 3, Joshua (New York: Christian Alliance Publishing Co., copyright 1894) | have-ocr | IA `unset0000unse_q2r6` |
+| Christ in the Bible, vol. 5, The Times of David and Solomon (New York: Alliance Press, copyright 1903) | have-ocr | IA `christinbible0005absi` |
+| A Larger Christian Life (New York: Christian Alliance Publishing Co., copyright 1890) | have-ocr | IA `largerchristianl00simp` |
+| The Four-Fold Gospel, third edition, revised (New York: Christian Alliance Publishing Co.; no year on title page, catalogued 1890) | have-ocr | IA `fourfoldgospel00simp` |
+| The Christ of the Forty Days (New York: Christian Alliance Publishing Co.; no year on title page, catalogued 1890) | have-ocr | IA `christoffortyday00simprich` |
+| The Gospel of the Kingdom, discourses on the Lord's coming (New York: Christian Alliance Publishing Co., copyright 1890) | have-ocr | IA `gospelofkingdoms0000simp` |
+| The Names of Jesus (New York: Christian Alliance Publishing Co., copyright 1892) | have-ocr | IA `nameofjesus00simp` |
+| Christ Life (New York: Christian Alliance Publishing Co., copyright 1892) | have-ocr | IA `christlife00simp` |
+| In Heavenly Places (New York: Christian Alliance Publishing Co., copyright 1892) | have-ocr | IA `bwb_W9-CYY-897` |
+| Larger Outlooks on Missionary Lands (New York: Christian Alliance Publishing Co.; entered 1893) | have-ocr | IA `cihm_50167` |
+| Millennial Chimes: A Collection of Poems (New York: Christian Alliance Publishing Co., copyright 1894) | have-ocr | IA `millchimes00simp` |
+| The Holy Spirit, or, Power from on High, part 1, The Old Testament (New York: Christian Alliance Publishing Co., copyright 1895) | have-ocr | IA `holyspiritorpowe00simp_0` |
+| The Holy Spirit, or, Power from on High, part 2, new edition from new plates (New York: Christian Alliance Publishing Co., 1924) | have-ocr | IA `holyspiritorpowe0000reva` |
+| The Self Life and the Christ Life (South Nyack: Christian Alliance Publishing Co., copyright 1897) | have-ocr | IA `selflifechristli00simp` |
+| Present Truth (South Nyack: Christian Alliance Publishing Co., copyright 1897) | have-ocr | IA `presenttruth00simp` |
+| The Heavenly Vision (Brooklyn: Christian Alliance Publishing Co., copyright 1898) | have-ocr | IA `heavenlyvision00simp` |
+| Making Jesus King (South Nyack: Christian Alliance Publishing Co., copyright 1898) | have-ocr | IA `makingjesusking0000reva` |
+| But God: The Resources and Sufficiency of God (Brooklyn: Christian Alliance Publishing Co.; copyright year garbled, catalogued 1899) | have-ocr | IA `butgodresourcess0000reva` |
+| Heaven Opened: Expositions of the Book of Revelation (Nyack and New York: Christian Alliance Publishing Co., copyright 1899) | have-ocr | IA `heavenopened00simp` |
+| The Apostolic Church (Nyack and New York: Christian Alliance Publishing Co.; no year on title page, catalogued 1900) | have-ocr | IA `apostolicchurch00simp` |
+| Christ's Return: The Key to Prophecy and Providence (New York: Alliance Press; no year on title page, preface dated 1906) | have-ocr | IA `christsreturnkey00simp` |
+| When the Comforter Came (New York: Alliance Press, copyright 1911) | have-ocr | IA `whencomfortercam00simp` |
+| The Old Faith and the New Gospels (New York: Christian Alliance Publishing Co., copyright 1911) | have-ocr | IA `oldfaithandnewgo0000absi` |
+| The Coming One (New York: Christian Alliance Publishing Co.; copyright year illegible, catalogued 1912) | have-ocr | IA `cu31924014011997` |
+| Life More Abundantly (New York: Christian Alliance Publishing Co., copyright 1912) | have-ocr | IA `lifemoreabundant00simp` |
+| Back to Patmos (New York: Christian Alliance Publishing Co., copyright 1914) | have-ocr | IA `backtopatmos0000absi` |
+| The Gospel of Healing, revised edition (New York: Christian Alliance Publishing Co., copyright 1888 and 1915) | have-ocr | IA `gospelofhealing0000absi_b6o2` |
+| Michele Nardi, the Italian Evangelist: His Life and Work (New York, copyright 1916) | have-ocr | IA `michelenardiital00simp` |
+| Songs of the Spirit: Hitherto Unpublished Poems (New York: Christian Alliance Publishing Co., copyright 1920; posthumous) | have-ocr | IA `songsofspirithit00simp` |
+| Earnests of the Coming Age, and Other Sermons (New York: Christian Alliance Publishing Co., copyright 1921; posthumous) | have-ocr | IA `earnestsofcoming00simp` |
+| The Challenge of Missions (New York: Christian Alliance Publishing Co., copyright 1926; posthumous) | have-ocr | IA `challengeofmissi0000absi` |
+| Days of Heaven upon Earth, scan (IA daysofheavenupon00simp) | alternate | not shelved |
+| The Christ Life, 1925 edition (IA christlife00simp_0); The Four-Fold Gospel, 1925 (fourfoldgospel0000absi) | alternate | not shelved |
+| Hymnals he compiled, which hold other writers' hymns: Hymns and Songs of the Four-Fold Gospel (1890), Hymns of the Christian Life nos. 1-3 (1891, 1897, 1904) and the 1908 edition | alternate | not shelved |
+| Christian Publications, Inc. (Harrisburg) printings: post-1930 reprints, whatever IA's 1886 date says | excluded | |
+| 1974 and later reprints | excluded | |
+| Albert F. Simpson and other namesakes | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
