@@ -84,6 +84,11 @@
    "comediesplautus01colmgoog",
    "Comedies of Plautus, translated into familiar blank verse, second edition revised, vol. II (London: T. Becket and P. A. De Hondt, 1769)",
    "tr. Bonnell Thornton"
+  ],
+  "terence-morgan-phormio-1894": [
+   "phormiotranslate00tereuoft",
+   "The Phormio of Terence, translated into English prose, with a new prologue by J. B. Greenough and the Vatican miniatures (Cambridge, Mass.: C. W. Sever, 1894)",
+   "tr. Morris Hicky Morgan"
   ]
  },
  "_excluded": {
@@ -110,7 +115,8 @@
   "plautus-evans-trinummus-1883": "h. evans",
   "terence-cooke-1755-v1": "thomas cooke",
   "plautus-thornton-1769-v1": "bonnell thornton",
-  "plautus-thornton-1769-v2": "bonnell thornton"
+  "plautus-thornton-1769-v2": "bonnell thornton",
+  "terence-morgan-phormio-1894": "m. h. morgan"
  },
  "_checks": {
   "plautus-riley-captivi-mostellaria": {
@@ -299,6 +305,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1769",
    "ia_date": "1769",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "terence-morgan-phormio-1894": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "terence",
+   "translator_claimed": "m. h. morgan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

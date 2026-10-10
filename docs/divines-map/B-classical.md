@@ -1180,6 +1180,7 @@ Shelf: `pipeline/roman-comedy_shelf.json`. Riley's complete Plautus (raw IA, 2 v
 | Terence's Comedies, translated into English, together with the original Latin, with critical and explanatory notes, second edition, vol. I (London: R. Ware and others, 1755) | Thomas Cooke | `terence-cooke-1755-v1` | have-raw (IA `comediestranslat01tere`) |
 | Comedies of Plautus, translated into familiar blank verse, second edition revised, vol. I (London: T. Becket and P. A. De Hondt, 1769) | Bonnell Thornton | `plautus-thornton-1769-v1` | have-raw (IA `comediesplautus02colmgoog`) |
 | Comedies of Plautus, translated into familiar blank verse, second edition revised, vol. II (London: T. Becket and P. A. De Hondt, 1769) | Bonnell Thornton | `plautus-thornton-1769-v2` | have-raw (IA `comediesplautus01colmgoog`) |
+| The Phormio of Terence, translated into English prose, with a new prologue by J. B. Greenough and the Vatican miniatures (Cambridge, Mass.: C. W. Sever, 1894) | Morris Hicky Morgan | `terence-morgan-phormio-1894` | have-raw (IA `phormiotranslate00tereuoft`) |
 
 Pending (wishlist): Thornton's verse Plautus vols. III-V (1772-74); vols. I-II are held from the revised second edition (1769).
 
