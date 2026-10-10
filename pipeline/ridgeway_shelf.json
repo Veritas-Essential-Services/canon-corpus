@@ -1,0 +1,60 @@
+{
+ "_about": "William Ridgeway (1853-1926), Disney Professor of Archaeology at Cambridge: The Origin of Metallic Currency and Weight Standards (clean Gutenberg), The Early Age of Greece vol. I (Cambridge, 1901) and The Origin of Tragedy (Cambridge, 1910), raw IA OCR. Vol. II of The Early Age of Greece appeared only in 1931 and is not yet public domain in the US, so it is not taken. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "ridgeway"
+ ],
+ "_surname": [
+  "william ridgeway",
+  "ridgeway, william"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ridgeway-metallic-currency": [
+   66160,
+   "The Origin of Metallic Currency and Weight Standards"
+  ]
+ },
+ "internet_archive": {
+  "ridgeway-early-age-greece-v1-1901": [
+   "earlyageofgreece0001will",
+   "The Early Age of Greece, vol. I (Cambridge: University Press, 1901)"
+  ],
+  "ridgeway-origin-tragedy-1910": [
+   "cu31924022692853",
+   "The Origin of Tragedy, with special reference to the Greek tragedians (Cambridge: University Press, 1910)"
+  ]
+ },
+ "_checks": {
+  "ridgeway-metallic-currency": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william ridgeway",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ridgeway-early-age-greece-v1-1901": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william ridgeway",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ridgeway-origin-tragedy-1910": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william ridgeway",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

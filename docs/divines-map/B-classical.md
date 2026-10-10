@@ -3411,6 +3411,9 @@ Shelf: `pipeline/ridgeway_shelf.json`. The Origin of Metallic Currency (clean Gu
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Origin of Metallic Currency and Weight Standards |  | `ridgeway-metallic-currency` | have (PG 66160) |
+| The Early Age of Greece, vol. I (Cambridge: University Press, 1901) |  | `ridgeway-early-age-greece-v1-1901` | have-raw (IA `earlyageofgreece0001will`) |
+| The Origin of Tragedy, with special reference to the Greek tragedians (Cambridge: University Press, 1910) |  | `ridgeway-origin-tragedy-1910` | have-raw (IA `cu31924022692853`) |
 
 ## T. Rice Holmes (scholarship)
 
