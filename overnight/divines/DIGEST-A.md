@@ -296,6 +296,7 @@ Started 2026-10-10 on Adam's request to keep going until he stops it. Baptist an
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
 |---|---|---|---|---|---|
 | James Petigru Boyce | james-petigru-boyce_shelf.json | 1 (Abstract of Systematic Theology (CCEL; print source 1887)) | none | none | CCEL text only |
+| John L. Dagg | john-l-dagg_shelf.json | none | 3 (Manual of Theology, in two parts: Christian Doctrine; Church Order (Charleston: Southern Baptist Publication Society, 1859); The Elements of Moral Science (New York: Sheldon; Charleston: Southern Baptist Publication Society, 1860); The Evidences of Christianity (Macon: J. W. Burke; Philadelphia: Claxton, Remsen & Haffelfinger, 1869)) | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

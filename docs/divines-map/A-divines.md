@@ -2288,3 +2288,14 @@ Slugs `boyce-*`. One work; the 1887 first edition on IA is an alternate to colla
 | Abstract of Systematic Theology (CCEL; print source 1887) | have-clean | CCEL b/boyce/theology |
 | Abstract of Systematic Theology (Baltimore: H. M. Wharton, 1887, the first published edition; IA abstractofsystem00boyc_0): the dated edition to collate the CCEL text against | alternate | not shelved |
 | the 1882 Louisville printing for his pupils only (IA abstractofsystem00boyc), not published | alternate | not shelved |
+
+## John L. Dagg (round 15, my pick, 2026-10-10)
+
+Slugs `dagg-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| Manual of Theology, in two parts: Christian Doctrine; Church Order (Charleston: Southern Baptist Publication Society, 1859) | have-ocr | IA `manualoftheology12dagg` |
+| The Elements of Moral Science (New York: Sheldon; Charleston: Southern Baptist Publication Society, 1860) | have-ocr | IA `elementsofmorals00dagg` |
+| The Evidences of Christianity (Macon: J. W. Burke; Philadelphia: Claxton, Remsen & Haffelfinger, 1869) | have-ocr | IA `evidencesofchris00dagg` |
+| Manual of Theology part 1 (Philadelphia, entered 1871; IA manualoftheology00dagg) and part 2 (Charleston, 1858; IA manualoftheology02dagg): the same text as the 1859 two-part scan | alternate | not shelved |

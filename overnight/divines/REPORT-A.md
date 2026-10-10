@@ -706,3 +706,6 @@
 
 ## 2026-10-10 09:25 CDT — james-petigru-boyce done
 - `pipeline/james-petigru-boyce_shelf.json`: 1 CCEL, 0 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:25 CDT — john-l-dagg done
+- `pipeline/john-l-dagg_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for dagg-evidences-1869 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
