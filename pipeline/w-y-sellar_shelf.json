@@ -1,5 +1,5 @@
 {
- "_about": "William Young Sellar (1825-1890), Professor of Humanity at Edinburgh. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Roman Poets of the Augustan Age: Virgil, The Roman Poets of the Republic, 3rd edition, clean Gutenberg. The shelf name carries his initials because A. M. Sellar, Bede's translator, is a different person. No uids minted.",
+ "_about": "William Young Sellar (1825-1890), Professor of Humanity at Edinburgh. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Roman Poets of the Augustan Age: Virgil, The Roman Poets of the Republic, 3rd edition, clean Gutenberg. The shelf name carries his initials because A. M. Sellar, Bede's translator, is a different person. No uids minted. Also The Roman Poets of the Augustan Age: Horace and the Elegiac Poets (Clarendon Press, 1892), raw IA OCR: published after Sellar's death, seen through the press by W. P. Ker (editor's preface), with a memoir by Andrew Lang and a short memorial poem signed J. W. M. (probably Mackail, Sellar's pupil and died 1945; an inference).",
  "_name_words": [
   "sellar"
  ],
@@ -19,7 +19,12 @@
    "The Roman Poets of the Republic, 3rd edition"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "sellar-roman-poets-augustan-horace-1892": [
+   "cu31924059173355",
+   "The Roman Poets of the Augustan Age: Horace and the Elegiac Poets, with a memoir of the author by Andrew Lang (Oxford: Clarendon Press, 1892)"
+  ]
+ },
  "_excluded": {
   "PG 48323 (The Roman Poets of the Republic, 2nd edition)": "the 3rd edition is held"
  },
@@ -41,6 +46,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "sellar-roman-poets-augustan-horace-1892": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. y. sellar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  }
 }

@@ -2567,6 +2567,7 @@ Shelf: `pipeline/w-y-sellar_shelf.json`. William Young Sellar (1825-1890), Profe
 |---|---|---|---|
 | The Roman Poets of the Augustan Age: Virgil |  | `sellar-roman-poets-augustan-virgil` | have (PG 34163) |
 | The Roman Poets of the Republic, 3rd edition |  | `sellar-roman-poets-republic-3rd` | have (PG 38566) |
+| The Roman Poets of the Augustan Age: Horace and the Elegiac Poets, with a memoir of the author by Andrew Lang (Oxford: Clarendon Press, 1892) |  | `sellar-roman-poets-augustan-horace-1892` | have-raw (IA `cu31924059173355`) |
 
 Excluded: PG 48323 (The Roman Poets of the Republic, 2nd edition) (the 3rd edition is held)
 
