@@ -167,3 +167,4 @@
 - Round 2026-10-10i (10:07): seven volumes added, two new shelves (Paulus Aegineta, Phalaris). No decision needed.
 - Round 2026-10-10j (10:18): four volumes added, six refusals recorded. No decision needed.
 - Round 2026-10-10k (10:24): six volumes added, including Brumoy's Greek Theatre in Lennox's translation (new shelf). No decision needed; the Greek-facing question now also covers Kennedy's Agamemnon and Cromer's Paraphrases.
+- Round 2026-10-10l (10:34): eight volumes added. No decision needed.

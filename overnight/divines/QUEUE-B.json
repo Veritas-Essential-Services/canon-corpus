@@ -1004,6 +1004,14 @@
    "started": "2026-10-10T10:18:25-05:00",
    "finished": "2026-10-10T10:24:15-05:00",
    "notes": "6 volumes added; 5 refusals recorded"
+  },
+  {
+   "id": "round-2026-10-10l",
+   "status": "done",
+   "scope": "Bohn Classical Library gaps; IA sweep of 'translated into English' by classical author",
+   "started": "2026-10-10T10:24:15-05:00",
+   "finished": "2026-10-10T10:34:06-05:00",
+   "notes": "8 volumes added"
   }
  ]
 }

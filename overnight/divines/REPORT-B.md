@@ -638,3 +638,11 @@
 - Missing volumes re-hunted (Munford Iliad I, Thornton Plautus III-V, Preston Argonautics II, Greek Tragic Theatre II): only duplicate scans of held volumes or sub-bar ECCO copies. Preston's vol. II would add nothing, since the held vol. I prints the whole poem
 - Refused: Kennedy's Agamemnon (0.642, Greek facing), Cromer's Paraphrases (0.734, Greek facing), Innes (0.625), Golding's Mela (0.738), Bingham's Tactiks of Aelian 1616 (0.50/0.71), Babington's Hyperides (0.65/0.73)
 - No new Gutenberg classical releases since 1 Sept besides Plutarch Moralia vol. 4 (held)
+
+## 2026-10-10 10:34 CDT — Round 2026-10-10l: eight volumes
+- Kelly's Bohn Erotica: Propertius, Petronius, Secundus (1854), on the Propertius shelf, cross-referenced from Petronius
+- Lucian, Six Dialogues, Sidney T. Irwin (1894; imprint year partly legible)
+- Terence's Phormio, M. H. Morgan (1894)
+- Cicero: De Oratore I, E. N. P. Moor (1892; translator's death year not checked); Pro Cluentio, William Peterson (1895)
+- Homer, Iliad I-III in hexameters, F. H. J. Ritso (1861). Correction to its commit message: that the three books are all he translated is inferred from the title page ('by the late'), not checked
+- Caesar's Gallic War, T. Rice Holmes (1908)
