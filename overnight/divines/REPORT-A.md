@@ -715,3 +715,6 @@
 
 ## 2026-10-10 09:25 CDT — joseph-milner done
 - `pipeline/joseph-milner_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:25 CDT — francis-wayland done
+- `pipeline/francis-wayland_shelf.json`: 0 CCEL, 0 PG, 12 IA. Title pages read for fwayland-intellectual-philosophy-1854 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

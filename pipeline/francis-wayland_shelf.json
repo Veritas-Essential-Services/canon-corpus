@@ -1,0 +1,208 @@
+{
+ "_about": "Public-domain Francis Wayland (1796-1865, Baptist, president of Brown University) for the Word Hoard: The Elements of Moral Science (1835), Political Economy (1837), Intellectual Philosophy (1854), The Limitations of Human Responsibility (1838), University Sermons (1849), Notes on Baptist Churches (1857), Sermons to the Churches (1859), Salvation by Christ (1859), Letters on the Ministry (1863), the Memoir of Adoniram Judson (2 vols, 1853) and Domestic Slavery Considered as a Scriptural Institution (1845, his published correspondence with Richard Fuller, who argued the other side), raw Internet Archive OCR. Added 2026-10-10 by lane A, round 15 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "wayland",
+  "francis"
+ ],
+ "_surname": [
+  "francis wayland",
+  "f. wayland",
+  "wayland, francis",
+  "francis wayland, d.d",
+  "president wayland"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fwayland-moral-science-1835": [
+   "element00wayl",
+   "The Elements of Moral Science (New York: Cooke, 1835)"
+  ],
+  "fwayland-political-economy-1837": [
+   "elementsofpoliti01wayl",
+   "The Elements of Political Economy (New York: Leavitt, Lord, 1837)"
+  ],
+  "fwayland-intellectual-philosophy-1854": [
+   "elementsofintell00wayl_0",
+   "The Elements of Intellectual Philosophy (Boston: Phillips, Sampson, 1854)"
+  ],
+  "fwayland-limitations-1838": [
+   "limitationsofhum00wayluoft",
+   "The Limitations of Human Responsibility (Boston: Gould, Kendall & Lincoln, 1838)"
+  ],
+  "fwayland-university-sermons-1849": [
+   "universitysermon00wayl",
+   "University Sermons (Boston: Gould, Kendall & Lincoln, 1849)"
+  ],
+  "fwayland-baptist-churches-1857": [
+   "notesonprinciple00wayl",
+   "Notes on the Principles and Practices of Baptist Churches (New York: Sheldon, Blakeman, 1857)"
+  ],
+  "fwayland-sermons-churches-1859": [
+   "sermonstochurche00wayl",
+   "Sermons to the Churches (New York: Sheldon, Blakeman, 1859)"
+  ],
+  "fwayland-salvation-1859": [
+   "salvationbychri00wayl",
+   "Salvation by Christ (Boston: Gould & Lincoln, 1859)"
+  ],
+  "fwayland-ministry-1863": [
+   "lettersonminis00wayl",
+   "Letters on the Ministry of the Gospel (Boston: Gould & Lincoln, 1863)"
+  ],
+  "fwayland-judson-1": [
+   "memoiroflifela01wayl",
+   "A Memoir of the Life and Labors of the Rev. Adoniram Judson, vol. 1 (Boston: Phillips, Sampson, 1853)"
+  ],
+  "fwayland-judson-2": [
+   "memoiroflifela02wayl",
+   "A Memoir of the Life and Labors of the Rev. Adoniram Judson, vol. 2 (Boston: Phillips, Sampson; entered 1853)"
+  ],
+  "fwayland-domestic-slavery-1845": [
+   "domesticslaveryc00full",
+   "Domestic Slavery Considered as a Scriptural Institution, correspondence of Richard Fuller and Francis Wayland (New York: Lewis Colby, 1845)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_identity_checked": {
+  "fwayland-intellectual-philosophy-1854": {
+   "author": "title page read 2026-10-10: OCR gives \"BY FRANCIS: WAYLAND, ... PRESIDENT OF BROWN UNIVERSITY\" (a stray colon), Phillips, Sampson, 1854: Francis Wayland"
+  }
+ },
+ "_checks": {
+  "fwayland-moral-science-1835": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "francis wayland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "fwayland-political-economy-1837": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "francis wayland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "fwayland-intellectual-philosophy-1854": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fwayland-limitations-1838": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "francis wayland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fwayland-university-sermons-1849": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "francis wayland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "fwayland-baptist-churches-1857": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "francis wayland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fwayland-sermons-churches-1859": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "francis wayland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fwayland-salvation-1859": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "francis wayland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "fwayland-ministry-1863": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "francis wayland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "fwayland-judson-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wayland, francis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fwayland-judson-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "francis wayland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fwayland-domestic-slavery-1845": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "francis wayland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

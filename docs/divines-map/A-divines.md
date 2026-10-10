@@ -2328,3 +2328,22 @@ Slugs `jmilner-*`. History of the Church of Christ as continued by his brother I
 | Practical Sermons, with an account of the life of the author, revised by Isaac Milner, third edition (London: J. & E. Hodson, 1804) | have-ocr | IA `practicalsermons00milniala` |
 | vol. 1 of the York first edition, MDCCXCIV (IA bim_eighteenth-century_the-history-of-the-churc_milner-joseph_1794_1): long-s OCR, one volume only | alternate | not shelved |
 | London: Cadell, 1834, 4 vols (IA 10026214bsb, 10026216bsb, 10026217bsb): vol. 2 not found | alternate | not shelved |
+
+## Francis Wayland (round 15, my pick, 2026-10-10)
+
+Slugs `fwayland-*`. Domestic Slavery (1845) is his published exchange with Richard Fuller, who argued the other side; it is shelved as a historical document.
+
+| Work | Status | Where |
+|---|---|---|
+| The Elements of Moral Science (New York: Cooke, 1835) | have-ocr | IA `element00wayl` |
+| The Elements of Political Economy (New York: Leavitt, Lord, 1837) | have-ocr | IA `elementsofpoliti01wayl` |
+| The Elements of Intellectual Philosophy (Boston: Phillips, Sampson, 1854) | have-ocr | IA `elementsofintell00wayl_0` |
+| The Limitations of Human Responsibility (Boston: Gould, Kendall & Lincoln, 1838) | have-ocr | IA `limitationsofhum00wayluoft` |
+| University Sermons (Boston: Gould, Kendall & Lincoln, 1849) | have-ocr | IA `universitysermon00wayl` |
+| Notes on the Principles and Practices of Baptist Churches (New York: Sheldon, Blakeman, 1857) | have-ocr | IA `notesonprinciple00wayl` |
+| Sermons to the Churches (New York: Sheldon, Blakeman, 1859) | have-ocr | IA `sermonstochurche00wayl` |
+| Salvation by Christ (Boston: Gould & Lincoln, 1859) | have-ocr | IA `salvationbychri00wayl` |
+| Letters on the Ministry of the Gospel (Boston: Gould & Lincoln, 1863) | have-ocr | IA `lettersonminis00wayl` |
+| A Memoir of the Life and Labors of the Rev. Adoniram Judson, vol. 1 (Boston: Phillips, Sampson, 1853) | have-ocr | IA `memoiroflifela01wayl` |
+| A Memoir of the Life and Labors of the Rev. Adoniram Judson, vol. 2 (Boston: Phillips, Sampson; entered 1853) | have-ocr | IA `memoiroflifela02wayl` |
+| Domestic Slavery Considered as a Scriptural Institution, correspondence of Richard Fuller and Francis Wayland (New York: Lewis Colby, 1845) | have-ocr | IA `domesticslaveryc00full` |
