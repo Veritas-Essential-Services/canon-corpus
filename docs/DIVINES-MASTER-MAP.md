@@ -8934,6 +8934,18 @@ Shelf: `pipeline/farrar_shelf.json` (2026-10-02; added at the coordinator's rela
 | Julian Home | have | PG 23127, `farrar-julian-home` (2015 units) |
 | St. Winifred's; or, The World of School | have | PG 24329, `farrar-st-winifreds` (2325 units) |
 
+## Talbot Baines Reed
+
+Shelf: `pipeline/talbot-baines-reed_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Five school stories; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Fifth Form at Saint Dominic's: A School Story | have | PG 24632, `tbreed-fifth-form-at-saint-dominics` (3180 units) |
+| The Willoughby Captains | have | PG 21044, `tbreed-willoughby-captains` (4051 units) |
+| The Cock-House at Fellsgarth | have | PG 21037, `tbreed-cock-house-at-fellsgarth` (2911 units) |
+| The Adventures of a Three-Guinea Watch | have | PG 21035, `tbreed-three-guinea-watch` (2267 units) |
+| Parkhurst Boys, and Other Stories of School Life | have | PG 21137, `tbreed-parkhurst-boys` (2136 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

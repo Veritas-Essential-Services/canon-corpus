@@ -1,0 +1,135 @@
+{
+ "_about": "Talbot Baines Reed's school stories: The Fifth Form at Saint Dominic's, The Willoughby Captains, The Cock-House at Fellsgarth, The Adventures of a Three-Guinea Watch and Parkhurst Boys (all five undated in the text). One chapter heading in Parkhurst Boys is garbled in the transcription (\"CHAPTER THIRTY FOURCHAPTER TWO\") and is cited as printed. His other boys' books are left for now. Gutenberg catalogue: Reed 1852-1893. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Talbot Baines Reed",
+ "_name_words": [
+  "school"
+ ],
+ "_surname": [
+  "talbot baines reed"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tbreed-fifth-form-at-saint-dominics": [
+   24632,
+   "The Fifth Form at Saint Dominic's: A School Story",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [A-Z ]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER ONE\\.$",
+    "front": true
+   }
+  ],
+  "tbreed-willoughby-captains": [
+   21044,
+   "The Willoughby Captains",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [A-Z ]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER ONE\\.$",
+    "front": true
+   }
+  ],
+  "tbreed-cock-house-at-fellsgarth": [
+   21037,
+   "The Cock-House at Fellsgarth",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [A-Z ]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER ONE\\.$",
+    "front": true
+   }
+  ],
+  "tbreed-three-guinea-watch": [
+   21035,
+   "The Adventures of a Three-Guinea Watch",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [A-Z ]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER ONE\\.$",
+    "front": true
+   }
+  ],
+  "tbreed-parkhurst-boys": [
+   21137,
+   "Parkhurst Boys, and Other Stories of School Life",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [A-Z ]+\\.$",
+      "title_next": true
+     },
+     {
+      "re": "CHAPTER [IVX]+\\. .*|CHAPTER THIRTY FOURCHAPTER TWO\\.$"
+     }
+    ],
+    "start": "CHAPTER ONE\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "tbreed-fifth-form-at-saint-dominics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "talbot baines reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbreed-willoughby-captains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "talbot baines reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbreed-cock-house-at-fellsgarth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "talbot baines reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbreed-three-guinea-watch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "talbot baines reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbreed-parkhurst-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "talbot baines reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
