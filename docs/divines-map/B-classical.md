@@ -3294,6 +3294,7 @@ Shelf: `pipeline/ramsay_shelf.json`. A Manual of Roman Antiquities, 2nd ed. (Gri
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Manual of Roman Antiquities, second edition (London and Glasgow: Griffin, 1851) |  | `ramsay-manual-roman-antiquities-1851` | have-raw (IA `manualofromanan00rams`) |
 
 ## Christopher Wordsworth (scholarship)
 
