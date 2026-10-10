@@ -874,3 +874,6 @@
 
 ## 2026-10-10 12:46 CDT — charles-p-krauth done
 - `pipeline/charles-p-krauth_shelf.json`: 0 CCEL, 0 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:14 CDT — s-s-schmucker done
+- `pipeline/s-s-schmucker_shelf.json`: 0 CCEL, 1 PG, 14 IA. Title pages read for schmucker-christian-pulpit, schmucker-peace-of-zion (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -3365,6 +3365,37 @@ Slugs `krauth-*`. Lutheran confessional theologian. Nine items; his Tholuck tran
 | Adolph Spaeth's biography of him (1898-1909): by another hand | excluded | |
 | Post-1913 and undated later printings of The Conservative Reformation | excluded | |
 | a later Charles Philip Krauth; Harriet Reynolds Krauth's Church Book | excluded | |
+
+## S. S. Schmucker (round 19, my pick, 2026-10-10)
+
+Slugs `schmucker-*`. Gettysburg Seminary. Fifteen items; his Storr and Flatt translation and his Psychology are alternates; three items wait in _pending because OCR hides the name or year.
+
+| Work | Status | Where |
+|---|---|---|
+| American Lutheranism Vindicated; or, Examination of the Lutheran Symbols (Baltimore: T. Newton Kurtz, 1856) | have-clean | Gutenberg 18107 |
+| A Plea for the Sabbath-School System (Gettysburg: Theological Seminary Press, 1830) | have-ocr | IA `pleaforsabbathsc00schm` |
+| Elements of Popular Theology, with Special Reference to the Doctrines of the Reformation (Andover: Gould and Newman, 1834) | have-ocr | IA `elementspopular00statgoog` |
+| Discourse in Commemoration of the Glorious Reformation of the Sixteenth Century (New York: Gould & Newman, 1838) | have-ocr | IA `discourseincomm00schm` |
+| Appeal to the American Churches, with a Plan for Catholic Union (New York: Gould & Newman, 1838) | have-ocr | IA `appealtoamerican00schm` |
+| Fraternal Appeal to the American Churches, with a Plan for Catholic Union on Apostolic Principles, second edition enlarged (New York: Taylor & Dodd, 1839) | have-ocr | IA `bim_early-english-books-1641-1700_s-s-schmucker_1839` |
+| Portraiture of Lutheranism: A Discourse (Baltimore: Publication Rooms, 1840) | have-ocr | IA `portraitureluth00schmgoog` |
+| The Papal Hierarchy, Viewed in the Light of Prophecy and History (Gettysburg: H. C. Neinstedt, MDCCCXLV) | have-ocr | IA `papalhierarchyvi00schm` |
+| The Christian Pulpit, the Rightful Guardian of Morals (Gettysburg: H. C. Neinstedt, MDCCCXLVI) | have-ocr | IA `christianpulpitr00schm` |
+| The American Lutheran Church, Historically, Doctrinally, and Practically Delineated (Springfield: Harbaugh & Butler, 1851) | have-ocr | IA `americanluthera00schm` |
+| The Peace of Zion: A Discourse before the General Synod (Gettysburg: H. C. Neinstedt, 1853) | have-ocr | IA `peaceofziondisco00schm` |
+| Lutheran Manual on Scriptural Principles: or, The Augsburg Confession Illustrated and Sustained (Philadelphia: Lindsay & Blakiston, 1855) | have-ocr | IA `lutheranmanualon00schm` |
+| The Church of the Redeemer, as Developed within the General Synod (Baltimore: T. Newton Kurtz, 1867) | have-ocr | IA `churchofredeemer00schm` |
+| The True Unity of Christ's Church: A Renewed Appeal (New York: Anson D. F. Randolph, 1870) | have-ocr | IA `trueunityofchris00schm` |
+| Evangelical Lutheran Catechism; or, Class-Book of Religious Instruction (Baltimore: T. Newton Kurtz, 1871) | have-ocr | IA `evangelicalluth00schmgoog` |
+| His translation of Storr and Flatt, An Elementary Course of Biblical Theology, with additions, 2 vols. (Andover, 1826; IA elementarycourse01stor, 02stor) and 2nd ed. 1836 (elementarycourse00storrich) | alternate | not shelved |
+| Psychology, or Elements of a New System of Mental Philosophy (Harper 1842, 1844): philosophy | alternate | not shelved |
+| Elements of Popular Theology, 2nd ed. 1834 and 3rd ed. with additions 1842 (IA elementsofpopu00schm, elementsofpopul00schm) | alternate | not shelved |
+| Discourse on the Reformation, second edition improved, 1838 (IA discourseincomme00schm) | alternate | not shelved |
+| Memorial relative to binding out minor colored children (Harrisburg, 1839): a legislative memorial | alternate | not shelved |
+| Luther's Galatians with his appended discourse (1840): Luther's work | excluded | |
+| Samuel Mosheim, Beale M., Samuel Christian Schmucker and others | excluded | |
+| Kurzgefasste Geschichte (German, 1834) | excluded | |
+| 1965 and 1969 reprints | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
