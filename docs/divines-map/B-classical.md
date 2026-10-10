@@ -3369,6 +3369,7 @@ Shelf: `pipeline/felton_shelf.json`. Greece, Ancient and Modern, two volumes in 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Greece, Ancient and Modern: Lectures Delivered before the Lowell Institute, two volumes in one (Boston: Houghton, Mifflin, 1893) |  | `felton-greece-ancient-modern-1893` | have-raw (IA `greeceancientmod00feltiala`) |
 
 ## W. M. Leake (scholarship)
 
