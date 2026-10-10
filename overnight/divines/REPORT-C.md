@@ -171,3 +171,5 @@
 - 2026-10-10T15:02-05:00: round 46: singles-ideas-3 (48), singles-science-2 (71). --verify --record 0 mismatched. No late printings found. _pending: Newton's Principia (Motte) and Menabrea/Lovelace, HTML-only at Gutenberg.
 
 - 2026-10-10T15:03-05:00: round 47: singles-arts-miscellany (51). --verify --record 0 mismatched. Flag: Rimsky-Korsakov's Principles of Orchestration keyed from the 1964 Dover reprint. _pending: Van Gogh letters (HTML only). Excluded: Buzz a Buzz (no plain text).
+
+- 2026-10-10T15:12-05:00: round 48: singles-fiction-4 (99). --verify --record 0 mismatched. Flag: Maurois's General Bramble keyed from a 1931 reprint. Excluded: Karl May's Travel Tales (COPYRIGHTED PG header), My First Battle (2009 translation). Left for owner: Lisbeth Longfrock (poulsson, Lane D).

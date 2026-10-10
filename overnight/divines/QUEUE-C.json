@@ -3272,6 +3272,14 @@
       "finished": "2026-10-10T15:03-05:00",
       "scope": "TRANSLATOR SHELF (round 47, lane C's choice; Adam may veto) -- singles-arts-miscellany; PD printings before 1931 only; no minting",
       "notes": "51 titles; ids checked across all branches. See DIGEST-C round 47. No uids minted."
+    },
+    {
+      "id": "shelf-singles-fiction-4",
+      "status": "done",
+      "started": "2026-10-10T15:12-05:00",
+      "finished": "2026-10-10T15:12-05:00",
+      "scope": "TRANSLATOR SHELF (round 48, lane C's choice; Adam may veto) -- singles-fiction-4; PD printings before 1931 only; no minting",
+      "notes": "99 titles; ids checked across all branches. See DIGEST-C round 48. No uids minted."
     }
   ]
 }

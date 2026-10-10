@@ -5862,6 +5862,116 @@ Round 47 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `pg-40393` | — | Vincent van Gogh, The Letters of a Post-Impressionist Being the Familiar Correspondence of Vincent Van Gogh (Anthony M. Ludovici): Gutenberg has this only as HTML, with no plain-text file. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
 | — | — | busch-38902: Buzz a Buzz: no plain-text file at Gutenberg (as the wilhelm-busch shelf also notes). | — | — | excluded | — |
 
+## One-off translations: fiction, plays and verse from the first stretch of the list (Mühlbach, Pushkin, Blavatsky's Grand Inquisitor, Sienkiewicz, Hamsun, Ibsen's early plays, Dante's Banquet, the Pembroke Antonius)
+
+Shelf: `pipeline/singles-fiction-4_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-fiction-4` · titles `python3 pipeline/split_shelf_titles.py singles-fiction-4`.
+Round 48 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-fiction-4-about-the-man-with-the-broken-ear` | Edmond About | The man with the broken ear | Henry Holt | (see the Gutenberg header) | have | PG 20724 |
+| `singles-fiction-4-aleichem-jewish-children` | Sholem Aleichem | Jewish children | Hannah Berman | (see the Gutenberg header) | have | PG 27001 |
+| `singles-fiction-4-alighieri-the-banquet-il-convito` | Dante Alighieri | The Banquet (Il Convito) | Elizabeth Price Sayer | (see the Gutenberg header) | have | PG 12867 |
+| `singles-fiction-4-amfiteatrov-folk-tales-of-napoleon-napoleonder-from` | Aleksandr Amfiteatrov, with a tale by Balzac | Folk-Tales of Napoleon Napoleonder from the Russian; The Napoleon of the People from the French of Honoré De Balzac | George Kennan | (see the Gutenberg header) | have | PG 11278 |
+| `singles-fiction-4-anon-after-long-years-and-other-stories` | various writers | After Long Years and Other Stories | Sophie Antoinette Miller and Agnes Mary Dunne | (see the Gutenberg header) | have | PG 8111 |
+| `singles-fiction-4-anon-armenian-literature` | various Armenian writers | Armenian Literature: Comprising Poetry, Drama, Folk-lore and Classic Traditions; Translated into English for the First Time | Robert Arnot and F. B. Collins | (see the Gutenberg header) | have | PG 11461 |
+| `singles-fiction-4-anon-hindustani-lyrics` | various Hindustani poets | Hindustani Lyrics | Inayat Khan and Jessie Duncan Westbrook | (see the Gutenberg header) | have | PG 17711 |
+| `singles-fiction-4-anon-malayan-literature` | various Malay writers | Malayan Literature: Comprising Romantic Tales, Epic Poetry and Royal Chronicles | Chauncey C. Starkweather | (see the Gutenberg header) | have | PG 7095 |
+| `singles-fiction-4-anon-markandeya-purana-books-vii-and-viii` | anonymous (the Mārkaṇḍeya Purāṇa) | Mârkandeya Purâna, Books VII and VIII | B. Hale Wortham | (see the Gutenberg header) | have | PG 7169 |
+| `singles-fiction-4-anon-russian-lyrics` | various Russian poets | Russian Lyrics | Martha Dickinson Bianchi | (see the Gutenberg header) | have | PG 11985 |
+| `singles-fiction-4-anon-the-departing-soul-s-address-to-the-body` | anonymous (Old English poem) | The Departing Soul's Address to the Body: A Fragment of a Semi-Saxon Poem Discovered Among the Archives of Worcester Cathedral | Samuel Weller Singer | (see the Gutenberg header) | have | PG 19937 |
+| `singles-fiction-4-anon-the-garden-of-bright-waters-one-hundred` | various Asian poets | The Garden of Bright Waters One Hundred and Twenty Asiatic Love Poems | E. Powys Mathers | (see the Gutenberg header) | have | PG 9920 |
+| `singles-fiction-4-anon-the-matsuyama-mirror` | anonymous Japanese tale | The Matsuyama Mirror | T. H. James | (see the Gutenberg header) | have | PG 30020 |
+| `singles-fiction-4-anon-welsh-lyrics-of-the-nineteenth-century` | various Welsh poets | Welsh Lyrics of the Nineteenth Century | Edmund O. Jones | (see the Gutenberg header) | have | PG 15165 |
+| `singles-fiction-4-anonymous-battle-of-the-monkey-the-crab` | anonymous Japanese tale | Battle of the Monkey & the Crab | David Thompson | (see the Gutenberg header) | have | PG 25021 |
+| `singles-fiction-4-asbjornsen-round-the-yule-log` | Peter Christen Asbjørnsen | 'Round the yule-log: Christmas in Norway | H. L. Broekstad | (see the Gutenberg header) | have | PG 31993 |
+| `singles-fiction-4-audoux-marie-claire` | Marguerite Audoux | Marie Claire | John N. Raphael | (see the Gutenberg header) | have | PG 20572 |
+| `singles-fiction-4-balzac-a-street-of-paris-and-its-inhabitant` | Honoré de Balzac | A Street of Paris and Its Inhabitant | Henri Pène du Bois | (see the Gutenberg header) | have | PG 8150 |
+| `singles-fiction-4-barbusse-the-inferno` | Henri Barbusse | The Inferno | Edward J. O'Brien | (see the Gutenberg header) | have | PG 12414 |
+| `singles-fiction-4-baroja-caesar-or-nothing` | Pío Baroja | Cæsar or Nothing | Louis How | (see the Gutenberg header) | have | PG 8444 |
+| `singles-fiction-4-benoit-atlantida` | Pierre Benoît | Atlantida | Mary Ross and Mary Van Arsdale Tongue | (see the Gutenberg header) | have | PG 14301 |
+| `singles-fiction-4-bjornson-the-bridal-march` | Bjørnstjerne Bjørnson | The Bridal March; One Day | Edmund Gosse | (see the Gutenberg header) | have | PG 18110 |
+| `singles-fiction-4-bosboom-toussaint-major-frank` | A. L. G. Bosboom-Toussaint | Major Frank | James Akeroyd | (see the Gutenberg header) | have | PG 27425 |
+| `singles-fiction-4-cherubini-pinocchio-in-africa` | Eugenio Cherubini | Pinocchio in Africa | Angelo Patri | (see the Gutenberg header) | have | PG 5327 |
+| `singles-fiction-4-claretie-his-excellency-the-minister` | Jules Claretie | His Excellency the Minister | Henri Roberts | (see the Gutenberg header) | have | PG 15934 |
+| `singles-fiction-4-colette-barks-and-purrs` | Colette | Barks and Purrs | Maire Monica Kelly | (see the Gutenberg header) | have | PG 11737 |
+| `singles-fiction-4-coppee-ten-tales` | François Coppée | Ten Tales | Walter Learned | (see the Gutenberg header) | have | PG 20380 |
+| `singles-fiction-4-coppee-the-lost-child` | François Coppée | The Lost Child | J. Matthewman | (see the Gutenberg header) | have | PG 23063 |
+| `singles-fiction-4-corneille-the-cid` | Pierre Corneille | The Cid | Roscoe Mongan | (see the Gutenberg header) | have | PG 14954 |
+| `singles-fiction-4-dandin-hindoo-tales` | Dandin | Hindoo Tales; Or, the Adventures of Ten Princes | Philip Whittington Jacob | (see the Gutenberg header) | have | PG 11738 |
+| `singles-fiction-4-daudet-jack-1877` | Alphonse Daudet | Jack 1877 | Mary Neal Sherwood | (see the Gutenberg header) | have | PG 25302 |
+| `singles-fiction-4-daudet-the-immortal` | Alphonse Daudet | The Immortal; Or, One of the "Forty." (L'immortel) - 1877 | A. W. Verrall and Margaret de Gaudrion Merrifield Verrall | (see the Gutenberg header) | have | PG 25766 |
+| `singles-fiction-4-dostoyevsky-the-grand-inquisitor` | Fyodor Dostoyevsky | The Grand Inquisitor | H. P. Blavatsky | (see the Gutenberg header) | have | PG 8578 |
+| `singles-fiction-4-eeden-the-bride-of-dreams` | Frederik van Eeden | The Bride of Dreams | Mellie von Auw | (see the Gutenberg header) | have | PG 9111 |
+| `singles-fiction-4-erckmann-chatrian-the-dean-s-watch` | Erckmann-Chatrian | The Dean's Watch | Ralph Browning Fiske | (see the Gutenberg header) | have | PG 23054 |
+| `singles-fiction-4-flygare-carlen-the-home-in-the-valley` | Emilie Flygare-Carlén | The Home in the Valley | Elbert Perce | (see the Gutenberg header) | have | PG 16422 |
+| `singles-fiction-4-fontaine-fables-in-rhyme-for-little-folks-from-th` | Jean de La Fontaine | Fables in Rhyme for Little Folks From the French of La Fontaine | W. T. Larned | (see the Gutenberg header) | have | PG 24108 |
+| `singles-fiction-4-fontaine-the-original-fables-of-la-fontaine-rende` | Jean de La Fontaine | The Original Fables of La Fontaine Rendered into English Prose by Fredk. Colin Tilney | F. C. Tilney | (see the Gutenberg header) | have | PG 15946 |
+| `singles-fiction-4-france-the-queen-pedauque` | Anatole France | The Queen Pedauque | Jos. A. V. Stritzko | (see the Gutenberg header) | have | PG 6571 |
+| `singles-fiction-4-girardin-the-cross-of-berny` | Delphine de Girardin, Théophile Gautier, Joseph Méry and Jules Sandeau | The Cross of Berny; Or, Irene's Lovers | Florence Fendall and Florence Holcomb | (see the Gutenberg header) | have | PG 13191 |
+| `singles-fiction-4-halevy-parisian-points-of-view` | Ludovic Halévy | Parisian Points of View | Edith Virginia Brander Matthews | (see the Gutenberg header) | have | PG 15465 |
+| `singles-fiction-4-hamsun-look-back-on-happiness` | Knut Hamsun | Look Back on Happiness | Paula Wiking | (see the Gutenberg header) | have | PG 8445 |
+| `singles-fiction-4-hamsun-shallow-soil` | Knut Hamsun | Shallow Soil | Carl Christian Hyllested | (see the Gutenberg header) | have | PG 7537 |
+| `singles-fiction-4-ibanez-woman-triumphant-la-maja-desnuda` | Vicente Blasco Ibáñez | Woman Triumphant (La Maja Desnuda) | Hayward Keniston | (see the Gutenberg header) | have | PG 18876 |
+| `singles-fiction-4-ibsen-early-plays-catiline-the-warrior-s-barro` | Henrik Ibsen | Early Plays — Catiline, the Warrior's Barrow, Olaf Liljekrans | Anders Orbeck | (see the Gutenberg header) | have | PG 7172 |
+| `singles-fiction-4-iffland-the-lawyers-a-drama-in-five-acts` | August Wilhelm Iffland | The Lawyers, A Drama in Five Acts | C. Lüdger | (see the Gutenberg header) | have | PG 31567 |
+| `singles-fiction-4-jammes-romance-of-the-rabbit` | Francis Jammes | Romance of the Rabbit | Gladys Edgerton | (see the Gutenberg header) | have | PG 12909 |
+| `singles-fiction-4-jokai-debts-of-honor` | Mór Jókai | Debts of Honor | Arthur B. Yolland | (see the Gutenberg header) | have | PG 22757 |
+| `singles-fiction-4-jokai-timar-s-two-worlds` | Mór Jókai | Timar's Two Worlds | Hegan Kennard | (see the Gutenberg header) | have | PG 31409 |
+| `singles-fiction-4-karrik-more-russian-picture-tales` | Valerian Viliamovich Karrik | More Russian Picture Tales | Nevill Forbes | (see the Gutenberg header) | have | PG 23462 |
+| `singles-fiction-4-kielland-garman-and-worse` | Alexander Lange Kielland | Garman and Worse: A Norwegian Novel | W. W. Kettlewell | (see the Gutenberg header) | have | PG 15864 |
+| `singles-fiction-4-kielland-norse-tales-and-sketches` | Alexander Lange Kielland | Norse Tales and Sketches | R. L. Cassie | (see the Gutenberg header) | have | PG 14593 |
+| `singles-fiction-4-kindermann-lola` | Henny Kindermann | Lola | Agnes Blake | (see the Gutenberg header) | have | PG 25887 |
+| `singles-fiction-4-kompert-a-ghetto-violet-from-christian-and-leah` | Leopold Kompert | A Ghetto Violet From "Christian and Leah" | Alfred S. Arnold | (see the Gutenberg header) | have | PG 22663 |
+| `singles-fiction-4-kotzebue-the-stranger` | August von Kotzebue | The Stranger: A Drama, in Five Acts | Benjamin Thompson | (see the Gutenberg header) | have | PG 20217 |
+| `singles-fiction-4-lang-pixy-s-holiday-journey` | George Lang | Pixy's Holiday Journey | Mary E. Ireland | (see the Gutenberg header) | have | PG 15426 |
+| `singles-fiction-4-lenotre-the-house-of-the-combrays` | G. Lenotre | The House of the Combrays | Gwendolen Jackson Gilder | (see the Gutenberg header) | have | PG 17067 |
+| `singles-fiction-4-lie-the-pilot-and-his-wife` | Jonas Lie | The Pilot and His Wife | G. L. Tottenham | (see the Gutenberg header) | have | PG 15588 |
+| `singles-fiction-4-maurois-general-bramble` | André Maurois | General Bramble | Ronald Boswell and Jules Castier | (see the Gutenberg header) | have | PG 30596 |
+| `singles-fiction-4-mikszath-heathen-master-filcsik` | Kálmán Mikszáth | Heathen Master Filcsik | William N. Loew | (see the Gutenberg header) | have | PG 31676 |
+| `singles-fiction-4-mikszath-st-peter-s-umbrella` | Kálmán Mikszáth | St. Peter's Umbrella: A Novel | B. W. Worswick | (see the Gutenberg header) | have | PG 31945 |
+| `singles-fiction-4-milton-poemata` | John Milton | Poemata : Latin, Greek and Italian Poems by John Milton | William Cowper | (see the Gutenberg header) | have | PG 6929 |
+| `singles-fiction-4-montgolfier-piccolissima` | Adélaïde de Montgolfier | Piccolissima | Eliza Lee Cabot Follen | (see the Gutenberg header) | have | PG 4049 |
+| `singles-fiction-4-mornay-a-discourse-of-life-and-death-by-mornay` | Philippe de Mornay and Robert Garnier | A Discourse of Life and Death, by Mornay; and Antonius by Garnier | Mary Sidney Herbert, Countess of Pembroke | (see the Gutenberg header) | have | PG 21789 |
+| `singles-fiction-4-muhlbach-henry-viii-and-his-court` | L. Mühlbach | Henry VIII and His Court: A Historical Novel | Henry Niles Pierce | (see the Gutenberg header) | have | PG 3476 |
+| `singles-fiction-4-muhlbach-joseph-ii-and-his-court` | L. Mühlbach | Joseph II. and His Court: An Historical Novel | A. de V. Chaudron | (see the Gutenberg header) | have | PG 3793 |
+| `singles-fiction-4-muhlbach-napoleon-and-the-queen-of-prussia` | L. Mühlbach | Napoleon and the Queen of Prussia | F. Jordan | (see the Gutenberg header) | have | PG 19562 |
+| `singles-fiction-4-muhlbach-old-fritz-and-the-new-era` | L. Mühlbach | Old Fritz and the New Era | Peter Langley | (see the Gutenberg header) | have | PG 3460 |
+| `singles-fiction-4-muhlbach-the-merchant-of-berlin` | L. Mühlbach | The Merchant of Berlin: An Historical Novel | Amory Coffin | (see the Gutenberg header) | have | PG 12016 |
+| `singles-fiction-4-multatuli-walter-pieterse` | Multatuli | Walter Pieterse: A Story of Holland | Hubert Evans | (see the Gutenberg header) | have | PG 30135 |
+| `singles-fiction-4-niese-the-story-of-the-little-mamsell` | Charlotte Niese | The Story of the Little Mamsell | E. C. Emerson | (see the Gutenberg header) | have | PG 23221 |
+| `singles-fiction-4-palamas-life-immovable-first-part` | Kostes Palamas | Life Immovable. First Part | Aristides E. Phoutrides | (see the Gutenberg header) | have | PG 24191 |
+| `singles-fiction-4-pushkin-marie` | Aleksandr Sergeevich Pushkin | Marie; a story of Russian love | Marie H. de Zielinska | (see the Gutenberg header) | have | PG 4344 |
+| `singles-fiction-4-pushkin-the-daughter-of-the-commandant` | Aleksandr Sergeevich Pushkin | The Daughter of the Commandant | Mary Pamela Milne-Home | (see the Gutenberg header) | have | PG 13511 |
+| `singles-fiction-4-pushkin-the-queen-of-spades` | Aleksandr Sergeevich Pushkin | The Queen Of Spades | H. Twitchell | (see the Gutenberg header) | have | PG 23058 |
+| `singles-fiction-4-reymont-the-comedienne` | Władysław Stanisław Reymont | The Comedienne | Edmund Obecny | (see the Gutenberg header) | have | PG 25760 |
+| `singles-fiction-4-rizal-friars-and-filipinos-an-abridged-transla` | José Rizal | Friars and Filipinos An Abridged Translation of Dr. Jose Rizal's Tagalog Novel, 'Noli Me Tangere.' | Frank E. Gannett | (see the Gutenberg header) | have | PG 30278 |
+| `singles-fiction-4-sacher-masoch-venus-in-furs` | Leopold Sacher-Masoch | Venus in Furs | Fernanda Savage | (see the Gutenberg header) | have | PG 6852 |
+| `singles-fiction-4-sadi-the-persian-literature-comprising-the-sh` | Sadi | The Persian Literature, Comprising The Shah Nameh, The Rubaiyat, The Divan, and The Gulistan, Volume 2 | James Ross | (see the Gutenberg header) | have | PG 13060 |
+| `singles-fiction-4-sallengre-ebrietatis-encomium-or-the-praise-of-dru` | Albert-Henri de Sallengre | Ebrietatis Encomium or, the Praise of Drunkenness | Robert Samber | (see the Gutenberg header) | have | PG 29188 |
+| `singles-fiction-4-scheffel-the-trumpeter-of-sakkingen` | Joseph Victor von Scheffel | The Trumpeter of Säkkingen: A Song from the Upper Rhine. | Rebecca Brünnow | (see the Gutenberg header) | have | PG 31314 |
+| `singles-fiction-4-schiller-turandot` | Friedrich Schiller | Turandot: The Chinese Sphinx | Sabilla Novello | (see the Gutenberg header) | have | PG 26553 |
+| `singles-fiction-4-shinran-buddhist-psalms-translated-from-the-japa` | Shinran | Buddhist Psalms translated from the Japanese of Shinran Shonin | L. Adams Beck and S. Yamabe | (see the Gutenberg header) | have | PG 7015 |
+| `singles-fiction-4-sienkiewicz-sielanka` | Henryk Sienkiewicz | Sielanka: An Idyll | Thomas H. Bullick and Vatslaf A. Hlasko | (see the Gutenberg header) | have | PG 29305 |
+| `singles-fiction-4-sienkiewicz-without-dogma` | Henryk Sienkiewicz | Without Dogma: A Novel of Modern Poland | Iza Young | (see the Gutenberg header) | have | PG 11686 |
+| `singles-fiction-4-spillman-the-shipwreck-a-story-for-the-young` | Joseph Spillman | The Shipwreck A Story for the Young | Mary Richards Gray | (see the Gutenberg header) | have | PG 18399 |
+| `singles-fiction-4-steinberg-in-those-days` | Judah Steinberg | In Those Days: The Story of an Old Man | George Jeshurun | (see the Gutenberg header) | have | PG 8539 |
+| `singles-fiction-4-sudermann-dame-care` | Hermann Sudermann | Dame Care | Bertha Overbeck | (see the Gutenberg header) | have | PG 8487 |
+| `singles-fiction-4-sue-a-cardinal-sin` | Eugène Sue | A Cardinal Sin | Alexina Loranger Donovan | (see the Gutenberg header) | have | PG 18832 |
+| `singles-fiction-4-sue-a-romance-of-the-west-indies` | Eugène Sue | A Romance of the West Indies | Marian Longfellow | (see the Gutenberg header) | have | PG 29894 |
+| `singles-fiction-4-sue-the-brass-bell` | Eugène Sue | The Brass Bell; or, The Chariot of Death | Solon De Leon | (see the Gutenberg header) | have | PG 26623 |
+| `singles-fiction-4-thoma-moral` | Ludwig Thoma | Moral | Charles Recht | (see the Gutenberg header) | have | PG 4963 |
+| `singles-fiction-4-tieck-the-pictures` | Ludwig Tieck | The Pictures; The Betrothing: Novels | Connop Thirlwall | (see the Gutenberg header) | have | PG 31912 |
+| `singles-fiction-4-valdes-the-grandee` | Armando Palacio Valdés | The Grandee | Rachel Challice | (see the Gutenberg header) | have | PG 31056 |
+| `singles-fiction-4-werner-the-northern-light` | E. Werner | The Northern Light | D. M. Lowrey | (see the Gutenberg header) | have | PG 16095 |
+| `singles-fiction-4-zamacois-their-son` | Eduardo Zamacois | Their Son; The Necklace | George Allan England | (see the Gutenberg header) | have | PG 31662 |
+| `singles-fiction-4-zola-a-love-episode` | Émile Zola | A Love Episode | C. C. Starkweather | (see the Gutenberg header) | have | PG 13695 |
+| `singles-fiction-4-zola-the-dream` | Émile Zola | The Dream | Eliza E. Chase | (see the Gutenberg header) | have | PG 9499 |
+| `singles-fiction-4-zschokke-the-broken-cup` | Heinrich Zschokke | The Broken Cup | Parke Godwin | (see the Gutenberg header) | have | PG 23062 |
+| — | — | orgegan-28277: Mickiewicz's My First Battle: the translation was made for Project Gutenberg in 2009 and is not public domain. | — | — | excluded | — |
+| — | — | poulsson-26348: Aanrud's Lisbeth Longfrock (tr. Laura E. Poulsson): left for Lane D's poulsson shelf, which covers both Poulsson sisters. | — | — | excluded | — |
+| — | — | may-25729: Karl May's Travel Tales in the Promised Land (tr. Schoonover): the Gutenberg header marks it a COPYRIGHTED Project Gutenberg eBook, and the rights gate refuses it. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
