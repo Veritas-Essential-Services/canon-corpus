@@ -2186,6 +2186,14 @@ Slugs `melvill-*`. Name forms are full ("henry melvill", etc.); the shelf is dis
 |---|---|---|
 | Sermons, ed. M'Ilvaine (2 vols, 1853); Sermons before Cambridge (1836); Less Prominent Facts (2 series, 1843/1846); Public Occasions (1846); Lothbury Lectures (1858) | have-ocr | IA, OCR 97-99% |
 | The Golden Lectures | alternate | no year on the title page |
+
+## Daniel Wilson, Bishop of Calcutta (round 14, my pick, 2026-10-10)
+
+Slugs `dwilson-*`. Not `thomas-wilson` (another branch's shelf).
+
+| Work | Status | Where |
+|---|---|---|
+| Evidences of Christianity (2 vols, 1829-30); Sermons and Tracts (2 vols, 1825); Lord's Day (3rd ed., 1840); Colossians (1846); Sermons Delivered in India (catalogued 1838) | have-ocr | IA, OCR 94-99% |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

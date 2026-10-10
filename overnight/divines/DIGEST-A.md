@@ -275,6 +275,7 @@ Round 13 was done by 06:48 CDT on 3 October. Round 14 turns to Victorian Anglica
 | John Foster (essayist) | john-foster-essayist_shelf.json | 1 Gutenberg (Essay on the Evils of Popular Ignorance) | 7 (Essays in a Series of Letters, 10th ed. 1833; Broadmead Lectures, 2 series 1845-47; Life and Correspondence, 2 vols 1848; Critical Essays, 2 vols 1856) | none | none |
 | Edward Bickersteth | edward-bickersteth_shelf.json | none | 7 (Scripture Help 1821; Prayer 1839; Lord's Supper 1849; Christian Student 1830; Prophecies 1852; Promised Glory 1844; Baptism 1844) | none | Works (Carter, 1855): vol. 5 unavailable |
 | Henry Melvill | henry-melvill_shelf.json | none | 7 (Sermons ed. M'Ilvaine 2 vols 1853; Cambridge 1836; Less Prominent Facts 2 vols 1843/1846; Public Occasions 1846; Lothbury Lectures 1858) | none | Golden Lectures (no year on title page), alternate only |
+| Daniel Wilson (Calcutta) | daniel-wilson-calcutta_shelf.json | none | 7 (Evidences 2 vols 1829-30; Sermons and Tracts 2 vols 1825; Lord's Day 3rd ed. 1840; Colossians 1846; Sermons in India, catalogued 1838) | none | India Sermons year unreadable in OCR (preface 1837) |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

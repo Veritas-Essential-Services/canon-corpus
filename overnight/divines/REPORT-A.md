@@ -667,3 +667,6 @@
 
 ## 2026-10-09 21:57 CDT — henry-melvill done
 - `pipeline/henry-melvill_shelf.json`: 7 IA volumes. Public Occasions (1846) failed the name gate on an OCR artifact ("HENRY 'MELVILL"); title page read, recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-09 21:57 CDT — daniel-wilson-calcutta done
+- `pipeline/daniel-wilson-calcutta_shelf.json`: 7 IA volumes. Evidences vol. 1 failed the name gate on an OCR artifact ("DANIEL ^WILSON"); title page read (year OCR'd "1329" = 1829), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
