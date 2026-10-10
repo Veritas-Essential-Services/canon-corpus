@@ -1,0 +1,629 @@
+{
+ "_about": "TRANSLATOR SHELF: Mary J. Safford (1842-1916): Georg Ebers's later novels and his autobiography (Gottsberger, New York, 1880s-90s), Felix Dahn, Mühlbach, Heyse, Hamerling, Eckstein, Jókai's The Corsair King, Max Nordau's fairy tales and Marie Bashkirtseff. US public domain. Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted.",
+ "_name_words": [
+  "mary j. safford",
+  "mary j safford",
+  "safford"
+ ],
+ "_surname": [
+  "mary j. safford",
+  "mary j safford",
+  "safford"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "saf-13916": [
+   13916,
+   "Marie Bashkirtseff (From Childhood to Girlhood)"
+  ],
+  "saf-16396": [
+   16396,
+   "A Conspiracy of the Carbonari"
+  ],
+  "saf-26865": [
+   26865,
+   "The Corsair King"
+  ],
+  "saf-32220": [
+   32220,
+   "A Captive of the Roman Eagles"
+  ],
+  "saf-32222": [
+   32222,
+   "Felicitas: A Tale of the German Migrations: A.D. 476"
+  ],
+  "saf-32461": [
+   32461,
+   "The Scarlet Banner"
+  ],
+  "saf-33879": [
+   33879,
+   "The Romance of the Canoness: A Life-History"
+  ],
+  "saf-36725": [
+   36725,
+   "On the Cross: A Romance of the Passion Play at Oberammergau"
+  ],
+  "saf-5472": [
+   5472,
+   "Joshua — Complete"
+  ],
+  "saf-5482": [
+   5482,
+   "Cleopatra — Complete"
+  ],
+  "saf-5516": [
+   5516,
+   "Arachne — Complete"
+  ],
+  "saf-5551": [
+   5551,
+   "In the Fire of the Forge: A Romance of Old Nuremberg — Complete"
+  ],
+  "saf-5571": [
+   5571,
+   "Barbara Blomberg — Complete"
+  ],
+  "saf-5577": [
+   5577,
+   "A Word, Only a Word — Complete"
+  ],
+  "saf-5583": [
+   5583,
+   "The Burgomaster's Wife — Complete"
+  ],
+  "saf-5587": [
+   5587,
+   "In the Blue Pike — Complete"
+  ],
+  "saf-5588": [
+   5588,
+   "A Question"
+  ],
+  "saf-5599": [
+   5599,
+   "The Story of My Life — Complete"
+  ],
+  "saf-56929": [
+   56929,
+   "Pictures of Hellas: Five Tales of Ancient Greece"
+  ],
+  "saf-59851": [
+   59851,
+   "The Chaldean Magician"
+  ],
+  "saf-76058": [
+   76058,
+   "Aspasia"
+  ],
+  "saf-77279": [
+   77279,
+   "The dwarf's spectacles, and other fairy tales"
+  ],
+  "saf-77764": [
+   77764,
+   "Soap bubbles"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "safford-bashkirtseff-marie-bashkirtseff-from-childhood-to-gir": {
+   "source": "saf-13916",
+   "of": "Marie Bashkirtseff",
+   "work": "Marie Bashkirtseff (From Childhood to Girlhood)",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 13916 (clean text)"
+  },
+  "safford-dahn-a-captive-of-the-roman-eagles": {
+   "source": "saf-32220",
+   "of": "Felix Dahn",
+   "work": "A Captive of the Roman Eagles",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 32220 (clean text)"
+  },
+  "safford-dahn-felicitas-a-tale-of-the-german-migration": {
+   "source": "saf-32222",
+   "of": "Felix Dahn",
+   "work": "Felicitas: A Tale of the German Migrations: A.D. 476",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 32222 (clean text)"
+  },
+  "safford-dahn-the-scarlet-banner": {
+   "source": "saf-32461",
+   "of": "Felix Dahn",
+   "work": "The Scarlet Banner",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 32461 (clean text)"
+  },
+  "safford-ebers-a-question": {
+   "source": "saf-5588",
+   "of": "Georg Ebers",
+   "work": "A Question",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 5588 (clean text)"
+  },
+  "safford-ebers-a-word-only-a-word-complete": {
+   "source": "saf-5577",
+   "of": "Georg Ebers",
+   "work": "A Word, Only a Word — Complete",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 5577 (clean text)"
+  },
+  "safford-ebers-arachne-complete": {
+   "source": "saf-5516",
+   "of": "Georg Ebers",
+   "work": "Arachne — Complete",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 5516 (clean text)"
+  },
+  "safford-ebers-barbara-blomberg-complete": {
+   "source": "saf-5571",
+   "of": "Georg Ebers",
+   "work": "Barbara Blomberg — Complete",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 5571 (clean text)"
+  },
+  "safford-ebers-cleopatra-complete": {
+   "source": "saf-5482",
+   "of": "Georg Ebers",
+   "work": "Cleopatra — Complete",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 5482 (clean text)"
+  },
+  "safford-ebers-in-the-blue-pike-complete": {
+   "source": "saf-5587",
+   "of": "Georg Ebers",
+   "work": "In the Blue Pike — Complete",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 5587 (clean text)"
+  },
+  "safford-ebers-in-the-fire-of-the-forge-a-romance-of-ol": {
+   "source": "saf-5551",
+   "of": "Georg Ebers",
+   "work": "In the Fire of the Forge: A Romance of Old Nuremberg — Complete",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 5551 (clean text)"
+  },
+  "safford-ebers-joshua-complete": {
+   "source": "saf-5472",
+   "of": "Georg Ebers",
+   "work": "Joshua — Complete",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 5472 (clean text)"
+  },
+  "safford-ebers-the-burgomaster-s-wife-complete": {
+   "source": "saf-5583",
+   "of": "Georg Ebers",
+   "work": "The Burgomaster's Wife — Complete",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 5583 (clean text)"
+  },
+  "safford-ebers-the-story-of-my-life-complete": {
+   "source": "saf-5599",
+   "of": "Georg Ebers",
+   "work": "The Story of My Life — Complete",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 5599 (clean text)"
+  },
+  "safford-eckstein-the-chaldean-magician": {
+   "source": "saf-59851",
+   "of": "Ernst Eckstein",
+   "work": "The Chaldean Magician",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 59851 (clean text)"
+  },
+  "safford-hamerling-aspasia": {
+   "source": "saf-76058",
+   "of": "Robert Hamerling",
+   "work": "Aspasia",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 76058 (clean text)"
+  },
+  "safford-heyse-the-romance-of-the-canoness-a-life-histo": {
+   "source": "saf-33879",
+   "of": "Paul Heyse",
+   "work": "The Romance of the Canoness: A Life-History",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 33879 (clean text)"
+  },
+  "safford-hillern-on-the-cross-a-romance-of-the-passion-pl": {
+   "source": "saf-36725",
+   "of": "Wilhelmine von Hillern",
+   "work": "On the Cross: A Romance of the Passion Play at Oberammergau",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 36725 (clean text)"
+  },
+  "safford-jokai-the-corsair-king": {
+   "source": "saf-26865",
+   "of": "Mór Jókai",
+   "work": "The Corsair King",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 26865 (clean text)"
+  },
+  "safford-mariager-pictures-of-hellas-five-tales-of-ancient": {
+   "source": "saf-56929",
+   "of": "Peder Mariager",
+   "work": "Pictures of Hellas: Five Tales of Ancient Greece",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 56929 (clean text)"
+  },
+  "safford-muhlbach-a-conspiracy-of-the-carbonari": {
+   "source": "saf-16396",
+   "of": "Luise Mühlbach",
+   "work": "A Conspiracy of the Carbonari",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 16396 (clean text)"
+  },
+  "safford-nordau-soap-bubbles": {
+   "source": "saf-77764",
+   "of": "Max Nordau",
+   "work": "Soap bubbles",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 77764 (clean text)"
+  },
+  "safford-nordau-the-dwarf-s-spectacles-and-other-fairy-t": {
+   "source": "saf-77279",
+   "of": "Max Nordau",
+   "work": "The dwarf's spectacles, and other fairy tales",
+   "translated": "1880-1910 (see the Gutenberg header)",
+   "translator": "Mary J. Safford",
+   "scan_edition": "Project Gutenberg 77279 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "ebers-volume-splits": "Gutenberg's per-volume part-files of the Ebers novels are left out; the complete texts are used.",
+  "pg-5592": "The Complete Short Works of Georg Ebers is a Gutenberg compilation with more than one translator; A Question (5588) is shelved singly."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "saf-13916": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-16396": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-26865": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-32220": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-32222": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-32461": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-33879": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-36725": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5472": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5482": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5516": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5551": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5571": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5577": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5583": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5587": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5588": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5599": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-56929": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-59851": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-76058": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-77279": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-77764": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Safford"
+  }
+ },
+ "_verified": {
+  "saf-13916": {
+   "pg": 13916,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-16396": {
+   "pg": 16396,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-26865": {
+   "pg": 26865,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-32220": {
+   "pg": 32220,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-32222": {
+   "pg": 32222,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-32461": {
+   "pg": 32461,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-33879": {
+   "pg": 33879,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-36725": {
+   "pg": 36725,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5472": {
+   "pg": 5472,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5482": {
+   "pg": 5482,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5516": {
+   "pg": 5516,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5551": {
+   "pg": 5551,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5571": {
+   "pg": 5571,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5577": {
+   "pg": 5577,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5583": {
+   "pg": 5583,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5587": {
+   "pg": 5587,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5588": {
+   "pg": 5588,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-5599": {
+   "pg": 5599,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-56929": {
+   "pg": 56929,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-59851": {
+   "pg": 59851,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-76058": {
+   "pg": 76058,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-77279": {
+   "pg": 77279,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  },
+  "saf-77764": {
+   "pg": 77764,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Safford"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

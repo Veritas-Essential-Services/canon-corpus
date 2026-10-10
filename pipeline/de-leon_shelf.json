@@ -1,0 +1,494 @@
+{
+ "_about": "TRANSLATOR SHELF: Daniel De Leon (1852-1914): Eugène Sue's The Mysteries of the People, 17 of its tales (New York Labor News, 1904-11), and Bebel's Woman under Socialism (1904). US public domain. Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted.",
+ "_name_words": [
+  "daniel de leon",
+  "de leon"
+ ],
+ "_surname": [
+  "daniel de leon",
+  "de leon"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "dle-30646": [
+   30646,
+   "Woman under socialism"
+  ],
+  "dle-31752": [
+   31752,
+   "The Gold Sickle; Or, Hena, The Virgin of The Isle of Sen. A Tale of Druid Gaul"
+  ],
+  "dle-31759": [
+   31759,
+   "The Infant's Skull; Or, The End of the World. A Tale of the Millennium"
+  ],
+  "dle-31782": [
+   31782,
+   "The Poniard's Hilt; Or, Karadeucq and Ronan. A Tale of Bagauders and Vagres"
+  ],
+  "dle-32743": [
+   32743,
+   "The Silver Cross; Or, The Carpenter of Nazareth"
+  ],
+  "dle-33021": [
+   33021,
+   "The Carlovingian Coins; Or, The Daughters of Charlemagne"
+  ],
+  "dle-33114": [
+   33114,
+   "The Iron Pincers; or, Mylio and Karvel: A Tale of the Albigensian Crusades"
+  ],
+  "dle-33274": [
+   33274,
+   "The Abbatial Crosier; or, Bonaik and Septimine. A Tale of a Medieval Abbess"
+  ],
+  "dle-33618": [
+   33618,
+   "The Branding Needle; or, The Monastery of Charolles"
+  ],
+  "dle-33868": [
+   33868,
+   "The Casque's Lark; or, Victoria, the Mother of the Camps"
+  ],
+  "dle-34390": [
+   34390,
+   "The Iron Trevet; or, Jocelyn the Champion: A Tale of the Jacquerie"
+  ],
+  "dle-34452": [
+   34452,
+   "The Iron Arrow Head or The Buckler Maiden: A Tale of the Northman Invasion"
+  ],
+  "dle-34531": [
+   34531,
+   "The Pilgrim's Shell; Or, Fergan the Quarryman: A Tale from the Feudal Times"
+  ],
+  "dle-34987": [
+   34987,
+   "The Blacksmith's Hammer; or, The Peasant Code: A Tale of the Grand Monarch"
+  ],
+  "dle-35067": [
+   35067,
+   "The Pocket Bible; or, Christian the Printer: A Tale of the Sixteenth Century"
+  ],
+  "dle-35633": [
+   35633,
+   "The Sword of Honor; or, The Foundation of the French Republic"
+  ],
+  "dle-37225": [
+   37225,
+   "The Galley Slave's Ring; or, The Family of Lebrenn"
+  ],
+  "dle-37399": [
+   37399,
+   "The Executioner's Knife; Or, Joan of Arc"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "de-leon-bebel-woman-under-socialism": {
+   "source": "dle-30646",
+   "of": "August Bebel",
+   "work": "Woman under socialism",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 30646 (clean text)"
+  },
+  "de-leon-sue-the-abbatial-crosier-or-bonaik-and-septi": {
+   "source": "dle-33274",
+   "of": "Eugène Sue",
+   "work": "The Abbatial Crosier; or, Bonaik and Septimine. A Tale of a Medieval Abbess",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 33274 (clean text)"
+  },
+  "de-leon-sue-the-blacksmith-s-hammer-or-the-peasant-c": {
+   "source": "dle-34987",
+   "of": "Eugène Sue",
+   "work": "The Blacksmith's Hammer; or, The Peasant Code: A Tale of the Grand Monarch",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 34987 (clean text)"
+  },
+  "de-leon-sue-the-branding-needle-or-the-monastery-of": {
+   "source": "dle-33618",
+   "of": "Eugène Sue",
+   "work": "The Branding Needle; or, The Monastery of Charolles",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 33618 (clean text)"
+  },
+  "de-leon-sue-the-carlovingian-coins-or-the-daughters": {
+   "source": "dle-33021",
+   "of": "Eugène Sue",
+   "work": "The Carlovingian Coins; Or, The Daughters of Charlemagne",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 33021 (clean text)"
+  },
+  "de-leon-sue-the-casque-s-lark-or-victoria-the-mother": {
+   "source": "dle-33868",
+   "of": "Eugène Sue",
+   "work": "The Casque's Lark; or, Victoria, the Mother of the Camps",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 33868 (clean text)"
+  },
+  "de-leon-sue-the-executioner-s-knife-or-joan-of-arc": {
+   "source": "dle-37399",
+   "of": "Eugène Sue",
+   "work": "The Executioner's Knife; Or, Joan of Arc",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 37399 (clean text)"
+  },
+  "de-leon-sue-the-galley-slave-s-ring-or-the-family-of": {
+   "source": "dle-37225",
+   "of": "Eugène Sue",
+   "work": "The Galley Slave's Ring; or, The Family of Lebrenn",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 37225 (clean text)"
+  },
+  "de-leon-sue-the-gold-sickle-or-hena-the-virgin-of-th": {
+   "source": "dle-31752",
+   "of": "Eugène Sue",
+   "work": "The Gold Sickle; Or, Hena, The Virgin of The Isle of Sen. A Tale of Druid Gaul",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 31752 (clean text)"
+  },
+  "de-leon-sue-the-infant-s-skull-or-the-end-of-the-wor": {
+   "source": "dle-31759",
+   "of": "Eugène Sue",
+   "work": "The Infant's Skull; Or, The End of the World. A Tale of the Millennium",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 31759 (clean text)"
+  },
+  "de-leon-sue-the-iron-arrow-head-or-the-buckler-maide": {
+   "source": "dle-34452",
+   "of": "Eugène Sue",
+   "work": "The Iron Arrow Head or The Buckler Maiden: A Tale of the Northman Invasion",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 34452 (clean text)"
+  },
+  "de-leon-sue-the-iron-pincers-or-mylio-and-karvel-a-t": {
+   "source": "dle-33114",
+   "of": "Eugène Sue",
+   "work": "The Iron Pincers; or, Mylio and Karvel: A Tale of the Albigensian Crusades",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 33114 (clean text)"
+  },
+  "de-leon-sue-the-iron-trevet-or-jocelyn-the-champion": {
+   "source": "dle-34390",
+   "of": "Eugène Sue",
+   "work": "The Iron Trevet; or, Jocelyn the Champion: A Tale of the Jacquerie",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 34390 (clean text)"
+  },
+  "de-leon-sue-the-pilgrim-s-shell-or-fergan-the-quarry": {
+   "source": "dle-34531",
+   "of": "Eugène Sue",
+   "work": "The Pilgrim's Shell; Or, Fergan the Quarryman: A Tale from the Feudal Times",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 34531 (clean text)"
+  },
+  "de-leon-sue-the-pocket-bible-or-christian-the-printe": {
+   "source": "dle-35067",
+   "of": "Eugène Sue",
+   "work": "The Pocket Bible; or, Christian the Printer: A Tale of the Sixteenth Century",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 35067 (clean text)"
+  },
+  "de-leon-sue-the-poniard-s-hilt-or-karadeucq-and-rona": {
+   "source": "dle-31782",
+   "of": "Eugène Sue",
+   "work": "The Poniard's Hilt; Or, Karadeucq and Ronan. A Tale of Bagauders and Vagres",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 31782 (clean text)"
+  },
+  "de-leon-sue-the-silver-cross-or-the-carpenter-of-naz": {
+   "source": "dle-32743",
+   "of": "Eugène Sue",
+   "work": "The Silver Cross; Or, The Carpenter of Nazareth",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 32743 (clean text)"
+  },
+  "de-leon-sue-the-sword-of-honor-or-the-foundation-of": {
+   "source": "dle-35633",
+   "of": "Eugène Sue",
+   "work": "The Sword of Honor; or, The Foundation of the French Republic",
+   "translated": "1904-1911 (see the Gutenberg header)",
+   "translator": "Daniel De Leon (with Solon De Leon)",
+   "scan_edition": "Project Gutenberg 35633 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "dle-30646": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-31752": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-31759": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-31782": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-32743": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-33021": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-33114": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-33274": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-33618": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-33868": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-34390": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-34452": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-34531": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-34987": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-35067": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-35633": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon; Solon De Leon"
+  },
+  "dle-37225": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-37399": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel De Leon"
+  }
+ },
+ "_verified": {
+  "dle-30646": {
+   "pg": 30646,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-31752": {
+   "pg": 31752,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-31759": {
+   "pg": 31759,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-31782": {
+   "pg": 31782,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-32743": {
+   "pg": 32743,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-33021": {
+   "pg": 33021,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-33114": {
+   "pg": 33114,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-33274": {
+   "pg": 33274,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-33618": {
+   "pg": 33618,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-33868": {
+   "pg": 33868,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-34390": {
+   "pg": 34390,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-34452": {
+   "pg": 34452,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-34531": {
+   "pg": 34531,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-34987": {
+   "pg": 34987,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-35067": {
+   "pg": 35067,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-35633": {
+   "pg": 35633,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-37225": {
+   "pg": 37225,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  },
+  "dle-37399": {
+   "pg": 37399,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel De Leon"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

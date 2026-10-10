@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T11:08-05:00: 82 shelves, 593 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55. **13 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T11:18-05:00: 88 shelves, 672 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79. **13 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -249,3 +249,19 @@ Six new shelves, 55 titles, all from Gutenberg, with the translator line read in
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Your call:** none beyond the veto. Casanova's *Memoirs* are frank about his love affairs; veto if that is not wanted on the shelf.
+
+
+## Round 22: German romances, Scandinavians, Sue (2026-10-10)
+
+Six new shelves, 79 titles, all from Gutenberg, with the translator line read in every header:
+
+- **`safford`** (23): Mary J. Safford's Ebers (nine complete novels, *A Question*, and his autobiography), Felix Dahn (3), Mühlbach, Heyse, Hamerling's *Aspasia*, Eckstein, Hillern, Jókai, Mariager, Nordau (2) and Marie Bashkirtseff. Gutenberg's per-volume Ebers files and its mixed-translator *Complete Short Works* are left out.
+- **`wister`** (14): Annis Lee Wister's German popular novels for Lippincott: Marlitt, E. Werner, Streckfuss, Ossip Schubin and others.
+- **`allinson`** (9): A. R. Allinson's Anatole France (4), Brantôme's *Lives of Fair and Gallant Ladies* (2 volumes), Dumas's *The Wolf-Leader*, Lemonnier and *Fantômas*.
+- **`worster`** (8): W. W. Worster's Hamsun (*Growth of the Soil*, *Pan*, *Wanderers*, *Mothwise*), Bojer's *The Great Hunger* (with Charles Archer), Gunnarsson, Buchholtz and Nilsen. His Rasmussen is on the rasmussen shelf, and his Lagerlöf (*The Outcast*, PG 71086) is left for the lagerlof shelf's owner.
+- **`chater`** (7): Arthur G. Chater's Amundsen (*The South Pole*), Nansen (*In Northern Mists*, 2 volumes), Brandes's *Nietzsche*, Ellen Key, Hamsun's *Victoria* and Duun's *The Trough of the Wave*. Duun is a 1930 Knopf printing; its copyright line was read, and a 1930 book has been US public domain since January 2026.
+- **`de-leon`** (18): Daniel De Leon's Eugène Sue, 17 tales of *The Mysteries of the People*, and Bebel's *Woman under Socialism*.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** none beyond the veto.

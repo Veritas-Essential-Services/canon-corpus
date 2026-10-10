@@ -1424,6 +1424,138 @@ Round 21 (2026-10-10), vetoable. His folk-tale books are on lane D's bain_shelf.
 | `bain-jokai-lie-weird-tales-from-northern-seas` | Jonas Lie | Weird Tales from Northern Seas | R. Nisbet Bain | 1893-1904 (see the Gutenberg header) | have | PG 13508 |
 | — | — | folk-tales: Cossack Fairy Tales (29672), Polevoi's Russian Fairy Tales (34705) and Kúnos's Turkish Fairy Tales (64807) are on bain_shelf.json (lane D). | — | — | excluded | — |
 
+## Mary J. Safford (Ebers, Felix Dahn, Mühlbach, Nordau)
+
+Shelf: `pipeline/safford_shelf.json` · fetch `python3 pipeline/fetch_shelf.py safford` · titles `python3 pipeline/split_shelf_titles.py safford`.
+Round 22 (2026-10-10), vetoable. Ebers complete texts only. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `safford-bashkirtseff-marie-bashkirtseff-from-childhood-to-gir` | Marie Bashkirtseff | Marie Bashkirtseff (From Childhood to Girlhood) | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 13916 |
+| `safford-dahn-a-captive-of-the-roman-eagles` | Felix Dahn | A Captive of the Roman Eagles | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 32220 |
+| `safford-dahn-felicitas-a-tale-of-the-german-migration` | Felix Dahn | Felicitas: A Tale of the German Migrations: A.D. 476 | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 32222 |
+| `safford-dahn-the-scarlet-banner` | Felix Dahn | The Scarlet Banner | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 32461 |
+| `safford-ebers-a-question` | Georg Ebers | A Question | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 5588 |
+| `safford-ebers-a-word-only-a-word-complete` | Georg Ebers | A Word, Only a Word — Complete | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 5577 |
+| `safford-ebers-arachne-complete` | Georg Ebers | Arachne — Complete | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 5516 |
+| `safford-ebers-barbara-blomberg-complete` | Georg Ebers | Barbara Blomberg — Complete | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 5571 |
+| `safford-ebers-cleopatra-complete` | Georg Ebers | Cleopatra — Complete | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 5482 |
+| `safford-ebers-in-the-blue-pike-complete` | Georg Ebers | In the Blue Pike — Complete | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 5587 |
+| `safford-ebers-in-the-fire-of-the-forge-a-romance-of-ol` | Georg Ebers | In the Fire of the Forge: A Romance of Old Nuremberg — Complete | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 5551 |
+| `safford-ebers-joshua-complete` | Georg Ebers | Joshua — Complete | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 5472 |
+| `safford-ebers-the-burgomaster-s-wife-complete` | Georg Ebers | The Burgomaster's Wife — Complete | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 5583 |
+| `safford-ebers-the-story-of-my-life-complete` | Georg Ebers | The Story of My Life — Complete | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 5599 |
+| `safford-eckstein-the-chaldean-magician` | Ernst Eckstein | The Chaldean Magician | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 59851 |
+| `safford-hamerling-aspasia` | Robert Hamerling | Aspasia | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 76058 |
+| `safford-heyse-the-romance-of-the-canoness-a-life-histo` | Paul Heyse | The Romance of the Canoness: A Life-History | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 33879 |
+| `safford-hillern-on-the-cross-a-romance-of-the-passion-pl` | Wilhelmine von Hillern | On the Cross: A Romance of the Passion Play at Oberammergau | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 36725 |
+| `safford-jokai-the-corsair-king` | Mór Jókai | The Corsair King | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 26865 |
+| `safford-mariager-pictures-of-hellas-five-tales-of-ancient` | Peder Mariager | Pictures of Hellas: Five Tales of Ancient Greece | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 56929 |
+| `safford-muhlbach-a-conspiracy-of-the-carbonari` | Luise Mühlbach | A Conspiracy of the Carbonari | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 16396 |
+| `safford-nordau-soap-bubbles` | Max Nordau | Soap bubbles | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 77764 |
+| `safford-nordau-the-dwarf-s-spectacles-and-other-fairy-t` | Max Nordau | The dwarf's spectacles, and other fairy tales | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 77279 |
+| — | — | ebers-volume-splits: Gutenberg's per-volume part-files of the Ebers novels are left out; the complete texts are used. | — | — | excluded | — |
+| — | — | pg-5592: The Complete Short Works of Georg Ebers is a Gutenberg compilation with more than one translator; A Question (5588) is shelved singly. | — | — | excluded | — |
+
+## Annis Lee Wister (Marlitt, E. Werner, Ossip Schubin)
+
+Shelf: `pipeline/wister_shelf.json` · fetch `python3 pipeline/fetch_shelf.py wister` · titles `python3 pipeline/split_shelf_titles.py wister`.
+Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `wister-bethusy-huc-the-eichhofs-a-romance` | Valeska Bethusy-Huc | The Eichhofs: A Romance | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 35311 |
+| `wister-glumer-a-noble-name-or-donninghausen` | Claire von Glümer | A Noble Name; or, Dönninghausen | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 36550 |
+| `wister-hillern-only-a-girl-or-a-physician-for-the-soul` | Wilhelmine von Hillern | Only a Girl: or, A Physician for the Soul. | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 36709 |
+| `wister-marlitt-at-the-councillor-s-or-a-nameless-histor` | E. (Eugenie) Marlitt | At the Councillor's; or, A Nameless History | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 43393 |
+| `wister-marlitt-gold-elsie` | E. (Eugenie) Marlitt | Gold Elsie | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 42426 |
+| `wister-schubin-countess-erika-s-apprenticeship` | Ossip Schubin | Countess Erika's Apprenticeship | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 35531 |
+| `wister-schubin-erlach-court` | Ossip Schubin | Erlach Court | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 35541 |
+| `wister-schubin-o-thou-my-austria` | Ossip Schubin | "O Thou, My Austria!" | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 35454 |
+| `wister-streckfuss-castle-hohenwald-a-romance` | Adolf Streckfuss | Castle Hohenwald: A Romance | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 34892 |
+| `wister-streckfuss-quicksands` | Adolf Streckfuss | Quicksands | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 34953 |
+| `wister-streckfuss-the-lonely-house` | Adolf Streckfuss | The Lonely House | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 34917 |
+| `wister-streckfuss-too-rich-a-romance` | Adolf Streckfuss | Too Rich: A Romance | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 34995 |
+| `wister-werner-saint-michael-a-romance` | E. Werner | Saint Michael: A Romance | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 35116 |
+| `wister-werner-the-alpine-fay-a-romance` | E. Werner | The Alpine Fay: A Romance | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 35229 |
+
+## A. R. Allinson (Anatole France, Brantôme, Fantômas)
+
+Shelf: `pipeline/allinson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py allinson` · titles `python3 pipeline/split_shelf_titles.py allinson`.
+Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `allinson-brantome-lives-of-fair-and-gallant-ladies-vol-1` | Pierre de Bourdeille, seigneur de Brantôme | Lives of Fair and Gallant Ladies. Vol 1 | A. R. Allinson | 1901-1924 (see the Gutenberg header) | have | PG 67025 |
+| `allinson-brantome-lives-of-fair-and-gallant-ladies-vol-2` | Pierre de Bourdeille, seigneur de Brantôme | Lives of Fair and Gallant Ladies. Vol 2. | A. R. Allinson | 1901-1924 (see the Gutenberg header) | have | PG 67026 |
+| `allinson-dumas-the-wolf-leader` | Alexandre Dumas | The Wolf-Leader | A. R. Allinson | 1901-1924 (see the Gutenberg header) | have | PG 51054 |
+| `allinson-france-child-life-in-town-and-country` | Anatole France | Child Life in Town and Country | A. R. Allinson | 1901-1924 (see the Gutenberg header) | have | PG 25408 |
+| `allinson-france-the-aspirations-of-jean-servien` | Anatole France | The Aspirations of Jean Servien | A. R. Allinson | 1901-1924 (see the Gutenberg header) | have | PG 11060 |
+| `allinson-france-the-merrie-tales-of-jacques-tournebroche` | Anatole France | The Merrie Tales of Jacques Tournebroche | A. R. Allinson | 1901-1924 (see the Gutenberg header) | have | PG 25407 |
+| `allinson-france-the-well-of-saint-clare` | Anatole France | The Well of Saint Clare | A. R. Allinson | 1901-1924 (see the Gutenberg header) | have | PG 18728 |
+| `allinson-lemonnier-birds-and-beasts` | Camille Lemonnier | Birds and Beasts | A. R. Allinson | 1901-1924 (see the Gutenberg header) | have | PG 51847 |
+| `allinson-souvestre-the-long-arm-of-fantomas` | Pierre Souvestre | The long arm of Fantômas | A. R. Allinson | 1901-1924 (see the Gutenberg header) | have | PG 71587 |
+
+## W. W. Worster (Hamsun, Bojer, Gunnarsson)
+
+Shelf: `pipeline/worster_shelf.json` · fetch `python3 pipeline/fetch_shelf.py worster` · titles `python3 pipeline/split_shelf_titles.py worster`.
+Round 22 (2026-10-10), vetoable. Rasmussen and Lagerlöf left to their own shelves. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `worster-bojer-the-great-hunger` | Johan Bojer | The Great Hunger | W. W. Worster (with Charles Archer) | 1918-1923 (see the Gutenberg header) | have | PG 2943 |
+| `worster-buchholtz-egholm-and-his-god` | Johannes Buchholtz | Egholm and his God | W. W. Worster | 1918-1923 (see the Gutenberg header) | have | PG 46913 |
+| `worster-gunnarsson-guest-the-one-eyed` | Gunnar Gunnarsson | Guest the One-Eyed | W. W. Worster | 1918-1923 (see the Gutenberg header) | have | PG 62455 |
+| `worster-hamsun-growth-of-the-soil` | Knut Hamsun | Growth of the Soil | W. W. Worster | 1918-1923 (see the Gutenberg header) | have | PG 10984 |
+| `worster-hamsun-mothwise` | Knut Hamsun | Mothwise | W. W. Worster | 1918-1923 (see the Gutenberg header) | have | PG 46220 |
+| `worster-hamsun-pan` | Knut Hamsun | Pan | W. W. Worster | 1918-1923 (see the Gutenberg header) | have | PG 7214 |
+| `worster-hamsun-wanderers` | Knut Hamsun | Wanderers | W. W. Worster | 1918-1923 (see the Gutenberg header) | have | PG 7762 |
+| `worster-nilsen-dry-fish-and-wet` | Anthon Bernhard Elias Nilsen (Elias Kræmmer) | Dry fish and wet | W. W. Worster | 1918-1923 (see the Gutenberg header) | have | PG 35918 |
+| — | — | pg-28932: Rasmussen's Eskimo Folk-Tales is on rasmussen_shelf.json (another lane). | — | — | excluded | — |
+| — | — | pg-71086: Lagerlöf's The Outcast (1922) is left for lagerlof_shelf.json (another lane), which does not hold it yet. | — | — | excluded | — |
+
+## Arthur G. Chater (Amundsen, Nansen, Brandes, Hamsun)
+
+Shelf: `pipeline/chater_shelf.json` · fetch `python3 pipeline/fetch_shelf.py chater` · titles `python3 pipeline/split_shelf_titles.py chater`.
+Round 22 (2026-10-10), vetoable. One title is a 1930 Knopf printing. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `chater-amundsen-the-south-pole-an-account-of-the-norwegi` | Roald Amundsen | The South Pole; an account of the Norwegian Antarctic expedition in the "Fram," 1910-12 — Volume 1 and Volume 2 | Arthur G. Chater | 1911-1930 (see the Gutenberg header) | have | PG 4229 |
+| `chater-brandes-friedrich-nietzsche` | Georg Brandes | Friedrich Nietzsche | Arthur G. Chater | 1911-1930 (see the Gutenberg header) | have | PG 47588 |
+| `chater-duun-the-trough-of-the-wave` | Olav Duun | The trough of the wave | Arthur G. Chater | 1911-1930 (see the Gutenberg header) | have | PG 79140 |
+| `chater-hamsun-victoria` | Knut Hamsun | Victoria | Arthur G. Chater | 1911-1930 (see the Gutenberg header) | have | PG 74458 |
+| `chater-key-love-and-marriage` | Ellen Key | Love and Marriage | Arthur G. Chater | 1911-1930 (see the Gutenberg header) | have | PG 57592 |
+| `chater-nansen-in-northern-mists-arctic-exploration-in-vol-1` | Fridtjof Nansen | In Northern Mists: Arctic Exploration in Early Times (Volume 1 of 2) | Arthur G. Chater | 1911-1930 (see the Gutenberg header) | have | PG 40633 |
+| `chater-nansen-in-northern-mists-arctic-exploration-in-vol-2` | Fridtjof Nansen | In Northern Mists: Arctic Exploration in Early Times (Volume 2 of 2) | Arthur G. Chater | 1911-1930 (see the Gutenberg header) | have | PG 40634 |
+| — | — | south-pole-volumes: The South Pole's two Gutenberg volume files (3414, 3415) are left out; 4229 holds both volumes. | — | — | excluded | — |
+
+## Daniel De Leon (Sue's Mysteries of the People; Bebel)
+
+Shelf: `pipeline/de-leon_shelf.json` · fetch `python3 pipeline/fetch_shelf.py de-leon` · titles `python3 pipeline/split_shelf_titles.py de-leon`.
+Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `de-leon-bebel-woman-under-socialism` | August Bebel | Woman under socialism | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 30646 |
+| `de-leon-sue-the-abbatial-crosier-or-bonaik-and-septi` | Eugène Sue | The Abbatial Crosier; or, Bonaik and Septimine. A Tale of a Medieval Abbess | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 33274 |
+| `de-leon-sue-the-blacksmith-s-hammer-or-the-peasant-c` | Eugène Sue | The Blacksmith's Hammer; or, The Peasant Code: A Tale of the Grand Monarch | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 34987 |
+| `de-leon-sue-the-branding-needle-or-the-monastery-of` | Eugène Sue | The Branding Needle; or, The Monastery of Charolles | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 33618 |
+| `de-leon-sue-the-carlovingian-coins-or-the-daughters` | Eugène Sue | The Carlovingian Coins; Or, The Daughters of Charlemagne | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 33021 |
+| `de-leon-sue-the-casque-s-lark-or-victoria-the-mother` | Eugène Sue | The Casque's Lark; or, Victoria, the Mother of the Camps | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 33868 |
+| `de-leon-sue-the-executioner-s-knife-or-joan-of-arc` | Eugène Sue | The Executioner's Knife; Or, Joan of Arc | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 37399 |
+| `de-leon-sue-the-galley-slave-s-ring-or-the-family-of` | Eugène Sue | The Galley Slave's Ring; or, The Family of Lebrenn | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 37225 |
+| `de-leon-sue-the-gold-sickle-or-hena-the-virgin-of-th` | Eugène Sue | The Gold Sickle; Or, Hena, The Virgin of The Isle of Sen. A Tale of Druid Gaul | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 31752 |
+| `de-leon-sue-the-infant-s-skull-or-the-end-of-the-wor` | Eugène Sue | The Infant's Skull; Or, The End of the World. A Tale of the Millennium | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 31759 |
+| `de-leon-sue-the-iron-arrow-head-or-the-buckler-maide` | Eugène Sue | The Iron Arrow Head or The Buckler Maiden: A Tale of the Northman Invasion | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 34452 |
+| `de-leon-sue-the-iron-pincers-or-mylio-and-karvel-a-t` | Eugène Sue | The Iron Pincers; or, Mylio and Karvel: A Tale of the Albigensian Crusades | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 33114 |
+| `de-leon-sue-the-iron-trevet-or-jocelyn-the-champion` | Eugène Sue | The Iron Trevet; or, Jocelyn the Champion: A Tale of the Jacquerie | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 34390 |
+| `de-leon-sue-the-pilgrim-s-shell-or-fergan-the-quarry` | Eugène Sue | The Pilgrim's Shell; Or, Fergan the Quarryman: A Tale from the Feudal Times | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 34531 |
+| `de-leon-sue-the-pocket-bible-or-christian-the-printe` | Eugène Sue | The Pocket Bible; or, Christian the Printer: A Tale of the Sixteenth Century | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 35067 |
+| `de-leon-sue-the-poniard-s-hilt-or-karadeucq-and-rona` | Eugène Sue | The Poniard's Hilt; Or, Karadeucq and Ronan. A Tale of Bagauders and Vagres | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 31782 |
+| `de-leon-sue-the-silver-cross-or-the-carpenter-of-naz` | Eugène Sue | The Silver Cross; Or, The Carpenter of Nazareth | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 32743 |
+| `de-leon-sue-the-sword-of-honor-or-the-foundation-of` | Eugène Sue | The Sword of Honor; or, The Foundation of the French Republic | Daniel De Leon (with Solon De Leon) | 1904-1911 (see the Gutenberg header) | have | PG 35633 |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

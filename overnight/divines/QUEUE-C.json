@@ -672,6 +672,54 @@
       "finished": "2026-10-10T11:08-05:00",
       "scope": "TRANSLATOR SHELF (round 21, lane C's choice; Adam may veto) -- bain-jokai; PD printings before 1931 only; no minting",
       "notes": "12 titles; ids checked across all branches. See DIGEST-C round 21. No uids minted."
+    },
+    {
+      "id": "shelf-safford",
+      "status": "done",
+      "started": "2026-10-10T11:18-05:00",
+      "finished": "2026-10-10T11:18-05:00",
+      "scope": "TRANSLATOR SHELF (round 22, lane C's choice; Adam may veto) -- safford; PD printings before 1931 only; no minting",
+      "notes": "23 titles; ids checked across all branches. See DIGEST-C round 22. No uids minted."
+    },
+    {
+      "id": "shelf-wister",
+      "status": "done",
+      "started": "2026-10-10T11:18-05:00",
+      "finished": "2026-10-10T11:18-05:00",
+      "scope": "TRANSLATOR SHELF (round 22, lane C's choice; Adam may veto) -- wister; PD printings before 1931 only; no minting",
+      "notes": "14 titles; ids checked across all branches. See DIGEST-C round 22. No uids minted."
+    },
+    {
+      "id": "shelf-allinson",
+      "status": "done",
+      "started": "2026-10-10T11:18-05:00",
+      "finished": "2026-10-10T11:18-05:00",
+      "scope": "TRANSLATOR SHELF (round 22, lane C's choice; Adam may veto) -- allinson; PD printings before 1931 only; no minting",
+      "notes": "9 titles; ids checked across all branches. See DIGEST-C round 22. No uids minted."
+    },
+    {
+      "id": "shelf-worster",
+      "status": "done",
+      "started": "2026-10-10T11:18-05:00",
+      "finished": "2026-10-10T11:18-05:00",
+      "scope": "TRANSLATOR SHELF (round 22, lane C's choice; Adam may veto) -- worster; PD printings before 1931 only; no minting",
+      "notes": "8 titles; ids checked across all branches. See DIGEST-C round 22. No uids minted."
+    },
+    {
+      "id": "shelf-chater",
+      "status": "done",
+      "started": "2026-10-10T11:18-05:00",
+      "finished": "2026-10-10T11:18-05:00",
+      "scope": "TRANSLATOR SHELF (round 22, lane C's choice; Adam may veto) -- chater; PD printings before 1931 only; no minting",
+      "notes": "7 titles; ids checked across all branches. See DIGEST-C round 22. No uids minted."
+    },
+    {
+      "id": "shelf-de-leon",
+      "status": "done",
+      "started": "2026-10-10T11:18-05:00",
+      "finished": "2026-10-10T11:18-05:00",
+      "scope": "TRANSLATOR SHELF (round 22, lane C's choice; Adam may veto) -- de-leon; PD printings before 1931 only; no minting",
+      "notes": "18 titles; ids checked across all branches. See DIGEST-C round 22. No uids minted."
     }
   ]
 }
