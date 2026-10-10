@@ -5,7 +5,13 @@
  ],
  "ccel": {},
  "gutenberg": {},
- "internet_archive": {},
+ "internet_archive": {
+  "aeschines-demosthenes-biddle-crown-1881": [
+   "twoorationsoncr00biddgoog",
+   "The Two Orations on the Crown: Aeschines and Demosthenes, a new translation (Philadelphia: Lippincott, 1881)",
+   "tr. George W. Biddle"
+  ]
+ },
  "perseus": {
   "aeschines-perseus-adams-against-timarchus": [
    "tlg0026.tlg001.perseus-eng2",
@@ -37,7 +43,8 @@
  "_rights_checked": {
   "aeschines-perseus-adams-against-timarchus": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930 Kept pending Adam's one ruling on the later-printings class (DIGEST-B), which also covers Freese's refused Rhetoric.",
   "aeschines-perseus-adams-on-the-embassy": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930 Kept pending Adam's one ruling on the later-printings class (DIGEST-B), which also covers Freese's refused Rhetoric.",
-  "aeschines-perseus-adams-against-ctesiphon": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930 Kept pending Adam's one ruling on the later-printings class (DIGEST-B), which also covers Freese's refused Rhetoric."
+  "aeschines-perseus-adams-against-ctesiphon": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930 Kept pending Adam's one ruling on the later-printings class (DIGEST-B), which also covers Freese's refused Rhetoric.",
+  "aeschines-demosthenes-biddle-crown-1881": "title page and verso read: Philadelphia, J. B. Lippincott & Co., 1881, 'Copyright, 1881, by J. B. Lippincott & Co.' An 1881 US publication, public domain in the US and everywhere by date of publication."
  },
  "_perseus_checks": {
   "aeschines-perseus-adams-against-timarchus": {
@@ -110,12 +117,28 @@
    }
   }
  },
- "_checks": {},
+ "_checks": {
+  "aeschines-demosthenes-biddle-crown-1881": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aeschines",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page and verso read: Philadelphia, J. B. Lippincott & Co., 1881, 'Copyright, 1881, by J. B. Lippincott & Co.' An 1881 US publication, public domain in the US and everywhere by date of publication."
+  }
+ },
  "_perseus_licence": {
   "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
   "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
   "attribution": "Perseus Digital Library, Tufts University",
   "share_alike": true,
   "redistribute_whole": false
+ },
+ "_translator_unchecked": {
+  "aeschines-demosthenes-biddle-crown-1881": "the title page OCRs the name as 'GEOKGE W. BIDDLE'; the claim is not matched as written"
  }
 }
