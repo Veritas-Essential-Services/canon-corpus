@@ -2677,6 +2677,18 @@ Slugs `luthardt-*`.
 | St. John's Gospel Described and Explained, vol. 2, tr. C. R. Gregory (Edinburgh: T. & T. Clark; catalogued 1876, issued 1877) | have-ocr | IA `stjohnsgospeldes02luth` |
 | St. John's Gospel Described and Explained, vol. 3, tr. C. R. Gregory (Edinburgh: T. & T. Clark, 1878) | have-ocr | IA `stjohnsgospeldes1878luth` |
 | History of Christian Ethics, vol. 1, tr. W. Hastie (Edinburgh: T. & T. Clark, 1889) | have-ocr | IA `historyofchristi01luthuoft` |
+
+## Theodor Christlieb (in English) (round 16, my pick, 2026-10-10)
+
+Slugs `christlieb-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| Modern Doubt and Christian Belief, tr. chiefly H. U. Weitbrecht, ed. T. L. Kingsbury (Edinburgh: T. & T. Clark, 1874) | have-ocr | IA `moderndoubtchris00chriuoft` |
+| Homiletic: Lectures on Preaching, ed. Th. Haarbeck, tr. C. H. Irwin (Edinburgh: T. & T. Clark, 1897) | have-ocr | IA `homileticlecture00chri` |
+| Protestant Foreign Missions: Their Present State (no year on the title page, catalogued 1880; translator not named) | have-ocr | IA `protestantforei01chrigoog` |
+| The Best Methods of Counteracting Modern Infidelity, an Evangelical Alliance paper (New York; catalogued 1874) | have-ocr | IA `bestmethodsofcou00chri` |
+| Modern Doubt, fifth edition (Clark, 1895; IA moderndoubtandch00chriuoft) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

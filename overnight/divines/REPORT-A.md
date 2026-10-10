@@ -778,3 +778,6 @@
 
 ## 2026-10-10 10:28 CDT — c-e-luthardt done
 - `pipeline/c-e-luthardt_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for luthardt-st-john-author-1875, luthardt-st-johns-gospel-1 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:28 CDT — theodor-christlieb done
+- `pipeline/theodor-christlieb_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
