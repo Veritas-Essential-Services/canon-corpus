@@ -1,0 +1,45 @@
+{
+ "_about": "C. Ranger-Gull's The Adventures of Ulysses the Wanderer (London, 1902), the Odyssey retold; the title page prints his own name, and the Gutenberg catalogue files it under his pen name Guy Thorne (1875-1923). Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "C. Ranger-Gull (Guy Thorne)",
+ "_name_words": [
+  "ulysses"
+ ],
+ "_surname": [
+  "c. ranger-gull",
+  "ranger-gull"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rgull-adventures-of-ulysses": [
+   41935,
+   "The Adventures of Ulysses the Wanderer",
+   {
+    "levels": [
+     {
+      "re": "(?:FOREWORD|THE ADVENTURES OF ULYSSES|A NOTE ON HOMER AND ULYSSES)$"
+     },
+     {
+      "re": "THE (?:FIRST|SECOND|THIRD|FOURTH|LAST) EPISODE$",
+      "title_next": true,
+      "max": 40
+     }
+    ],
+    "start": "FOREWORD$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "rgull-adventures-of-ulysses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. ranger-gull",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
