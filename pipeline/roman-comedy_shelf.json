@@ -74,11 +74,21 @@
    "comediestranslat01tere",
    "Terence's Comedies, translated into English, together with the original Latin, with critical and explanatory notes, second edition, vol. I (London: R. Ware and others, 1755)",
    "tr. Thomas Cooke"
+  ],
+  "plautus-thornton-1769-v1": [
+   "comediesplautus02colmgoog",
+   "Comedies of Plautus, translated into familiar blank verse, second edition revised, vol. I (London: T. Becket and P. A. De Hondt, 1769)",
+   "tr. Bonnell Thornton"
+  ],
+  "plautus-thornton-1769-v2": [
+   "comediesplautus01colmgoog",
+   "Comedies of Plautus, translated into familiar blank verse, second edition revised, vol. II (London: T. Becket and P. A. De Hondt, 1769)",
+   "tr. Bonnell Thornton"
   ]
  },
  "_excluded": {
   "Paul Nixon, Loeb Plautus (1916-38)": "vol. 1 (PG) and vol. 2 (IA) held; vol. 3 (1924) is held back on rights because its only scan is a 1980 reprint (see plautus-nixon-v3's note below); vols. 4-5 first printed 1932 and 1938, not PD",
-  "Bonnell Thornton's Plautus (1767-74)": "PD verse; the only scans (IA bim_eighteenth-century_the-comedies-of-plautus-_plautus-titus-maccius_1767_1/_2/_3) are ECCO OCR at 0.65-0.70 clean words. Refused for OCR quality on 2026-10-02, retaken that evening without new evidence and withdrawn again on review; wanted only from a cleaner scan",
+  "Bonnell Thornton's Plautus (1767-74)": "the first-edition ECCO scans (bim_eighteenth-century_the-comedies-of-plautus-_plautus-titus-maccius_1767_1/_2/_3) read 0.65-0.70, under the bar. The revised second edition's vols. I-II (1769, Google scans, 0.796) are held as plautus-thornton-1769-v1/v2; vols. III-V (1772-74, Warner's continuation) are still wanted. comediesplautus00warngoog reads 0.772, under the bar.",
   "comediestranslat02tere": "Cooke's Terence (1755), vol. II: no readable title page in the OCR (the preface is signed Thomas Cooke). Not taken under the title-page rule; vol. I is held."
  },
  "_surname": [
@@ -98,7 +108,9 @@
   "terence-sargeaunt-v1": "John Sargeaunt",
   "terence-sargeaunt-v2": "John Sargeaunt",
   "plautus-evans-trinummus-1883": "h. evans",
-  "terence-cooke-1755-v1": "thomas cooke"
+  "terence-cooke-1755-v1": "thomas cooke",
+  "plautus-thornton-1769-v1": "bonnell thornton",
+  "plautus-thornton-1769-v2": "bonnell thornton"
  },
  "_checks": {
   "plautus-riley-captivi-mostellaria": {
@@ -262,6 +274,32 @@
    "ia_rights": "ok: published 1755",
    "ia_date": "1755",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "plautus-thornton-1769-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "plautus",
+   "translator_claimed": "bonnell thornton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1769",
+   "ia_date": "1769",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "plautus-thornton-1769-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "plautus",
+   "translator_claimed": "bonnell thornton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1769",
+   "ia_date": "1769",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },

@@ -1059,7 +1059,6 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | — | — | `dryden-horace` | cross-ref → Dryden shelf, lane C |
 | Satires, Epistles and Ars Poetica (Loeb, 1926; this printing revised 1929) | H. Rushton Fairclough | `horace-fairclough-satires-epistles` | have-raw (IA `satiresepistlesa00horauoft`) |
 | Odes | John Conington | `horace-perseus-conington-odes` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
-| The Works of Horace, translated literally into English prose (new edition revised by T. A. Buckley; Harper, 1869) | Christopher Smart, revised by Theodore Alois Buckley | `horace-smart-buckley-1869` | have-raw (IA `workshorace00smargoog`) |
 | The Works of Horace rendered into English Prose (Globe Edition; Macmillan, 1874) | James Lonsdale and Samuel Lee | `horace-lonsdale-lee-1874` | have-raw (IA `worksofhoraceren00hora`) |
 | The Odes of Horace translated into English Verse, with a life and notes (Boston: Ticknor and Fields, 1866) | Theodore Martin | `horace-martin-odes-1866` | have-raw (IA `odesofhoracetran00horarich`) |
 | The Odes and Epodes of Horace, a metrical translation into English, with Latin text (Blackwood, 1869) | Edward Bulwer-Lytton, Lord Lytton | `horace-lytton-1869` | have-raw (IA `odes00epodesofhorahorarich`) |
@@ -1166,6 +1165,8 @@ Shelf: `pipeline/roman-comedy_shelf.json`. Riley's complete Plautus (raw IA, 2 v
 | Terence's Comedies made English, with his life and some remarks at the end, eighth edition, revised by Dr. Echard and Sir R. L'Estrange (London: Knapton and others, MDCCXXXIII) | Laurence Echard | `terence-echard-1733` | have-raw (IA `terencescomedie00teregoog`) |
 | The Trinummus of T. Maccius Plautus translated into literal English, with notes (London: Simpkin, Marshall, 1883) | A. H. Evans | `plautus-evans-trinummus-1883` | have-raw (IA `trinnummustmacc00plaugoog`) |
 | Terence's Comedies, translated into English, together with the original Latin, with critical and explanatory notes, second edition, vol. I (London: R. Ware and others, 1755) | Thomas Cooke | `terence-cooke-1755-v1` | have-raw (IA `comediestranslat01tere`) |
+| Comedies of Plautus, translated into familiar blank verse, second edition revised, vol. I (London: T. Becket and P. A. De Hondt, 1769) | Bonnell Thornton | `plautus-thornton-1769-v1` | have-raw (IA `comediesplautus02colmgoog`) |
+| Comedies of Plautus, translated into familiar blank verse, second edition revised, vol. II (London: T. Becket and P. A. De Hondt, 1769) | Bonnell Thornton | `plautus-thornton-1769-v2` | have-raw (IA `comediesplautus01colmgoog`) |
 
 Pending (wishlist): Thornton's verse Plautus (1767-74), from a cleaner scan than the ECCO OCR (0.65-0.70), which was refused.
 
