@@ -34,7 +34,7 @@
  },
  "internet_archive": {},
  "_held": {
-  "beowulf-hall": "PG 16328 (Beowulf, tr. J. Lesslie Hall, 1892) is already fetched on main as slug `beowulf` by fetch_sources.py; held there, not fetched twice (moved here at the coordinator's overlap check, 2026-10-03)."
+  "beowulf-hall": "PG 16328 (Beowulf, tr. J. Lesslie Hall, 1892) is already fetched on main as slug `beowulf` by fetch_sources.py; held there, not fetched twice (moved here at the coordinator's overlap check, 2026-10-03). Note: main's fetch_sources.py, structure_texts.py and the committed manifest label that file 'tr. Gummere', but its header and text are Hall's; Gummere's own translation is PG 981, on this shelf. So a consumer now sees two books called Gummere's. The relabel is commit 4819839 on PR #6, which awaits Adam's ruling."
  },
  "_excluded": {
   "beowulf-scholarship": "Chambers's Beowulf: An Introduction (PG 34117), Olson's Hrolfs Saga and Beowulf (14878), Tinker's Translations of Beowulf (25942): about the poem, not the poem",
