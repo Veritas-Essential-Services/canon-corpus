@@ -1098,6 +1098,7 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The Works of Horace, translated into verse, vol. I of four (London: W. Flexney, J. Johnson and T. Caslon, 1767) | Christopher Smart | `horace-smart-verse-1767-v1` | have-raw (IA `workshorace03smargoog`) |
 | The Works of Horace, translated into verse, with a prose interpretation, vol. II (London: W. Flexney and others, 1767) | Christopher Smart | `horace-smart-verse-1767-v2` | have-raw (IA `workshorace11horagoog`) |
 | The Works of Horace, translated into verse, with a prose interpretation, vol. IV (London: W. Flexney and others, 1767) | Christopher Smart | `horace-smart-verse-1767-v4` | have-raw (IA `workshorace08horagoog`) |
+| The Lyrics of Horace, done into English rhyme (London: Rivingtons, 1870) | Thomas Charles Baring | `horace-baring-lyrics-1870` | have-raw (IA `cu31924026490668`) |
 
 Pending (wishlist): Smart's verse Horace vol. III (1767). His unrevised prose is now held from the fifth edition (1780), so the 1756 ECCO scans are no longer needed.
 
