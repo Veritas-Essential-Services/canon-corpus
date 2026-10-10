@@ -962,3 +962,7 @@
 
 ## 2026-10-10 10:52 CDT — hanford-gordon: done
 - 1/1 fetched (Gutenberg 8122), 525 units, 0 ~2 ids.
+
+## 2026-10-10 15:09 CDT — session end: paused at Adam's request
+- Batches 30-35 (37 shelves, headline 239 to 270) and audit passes 11-12 committed and pushed. No batch in progress; no partial shelves on disk.
+- Lock set to paused. Resume with batch 36 when reactivated.
