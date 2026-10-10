@@ -3813,6 +3813,27 @@ Slugs `fraser-brea-*`. Covenanter; all six are posthumous 18th-century first pri
 | James Fraser of Pitcalzian (1700-1769) | excluded | |
 | in.ernet.dli.2015.514043: text layer unusable | excluded | |
 | 2008 reprint | excluded | |
+
+## Robert Govett (round 20, my pick, 2026-10-10)
+
+Slugs `govett-*`. Norwich independent; most of his tracts were printed without his name, so only the seven named works are shelved.
+
+| Work | Status | Where |
+|---|---|---|
+| Isaiah Unfulfilled: an Exposition of the Prophet, with New Version and Critical Notes (London: James Nisbet, MDCCCXLI) | have-ocr | IA `isaiahunfulfill00govegoog` |
+| Not Water Baptism, but the Gifts of the Holy Spirit the Baptism of Christ (Norwich: Josiah Fletcher; London: Hamilton, Adams, 1844) | have-ocr | IA `notwaterbaptismb00gove` |
+| Infant Sprinkling No Baptism: a Refutation of Mr. C. Paget's Godly Practice of Infant Baptism (London: Houlston and Wright, 1858) | have-ocr | IA `infantsprinkling00gove` |
+| Christ's Resurrection and Ours; or, I. Corinthians XV. Expounded (Glasgow: James Maclehose; London: Macmillan, 1876) | have-ocr | IA `christsresurrec00govegoog` |
+| The Bride's Bath (Norwich: Fletcher and Son, MDCCCLXXVI) | have-ocr | IA `Robert_Govett_Bath` |
+| The Apocalypse Expounded by Scripture, abridged from the four-volume edition first issued under the pen-name Mathetes (London: Chas. J. Thynne, November 1920) | have-ocr | IA `apocalypseexpoun00gove` |
+| Entrance into the Kingdom; or, Reward According to Works, Part I, second edition (London: Charles J. Thynne, October 1922) | have-ocr | IA `entranceintoking00gove` |
+| Anonymous Norwich tracts catalogued to him, no name on the title page: The Passage through the Red Sea a Type of Baptism (passagethroughre00gove), Baptism Foreshadowed by Noah's Salvation (baptismforeshado00gove), Principal Arguments in favour of Infant Baptism Considered (principalargumen00gove), Open or Strict Communion? (openorstrictcomm00gove, 1845), Sin after Baptism (sinafterbaptismo00gove, 1845), At Any Rate, Infant Baptism is Not Forbidden (atanyrateinfantb00gove, 1847), Your Children Holy (yourchildrenholy00gove, 1857), Infant Baptism and the Abrahamic Covenant (infantbaptismabr00gove, 1860) | alternate | not shelved |
+| The Prophecy on Olivet, Part I (Norwich, 1846; prophecyonolive00ofgoog): anonymous; attributed to him from an advertisement in his 1847 tract | alternate | not shelved |
+| English Derived from Hebrew (1869; englishderivedf00govegoog): philology, not divinity | alternate | not shelved |
+| Other copies of the 1920 abridgment, and the 1929 Thynne and Jarvis printing | alternate | not shelved |
+| Calvinism by Calvin: Calvin's text with his introductory essay, modern reprint | excluded | |
+| Schoettle and Conley reprints (1981-2010) | excluded | |
+| Ernest Govett and others | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
