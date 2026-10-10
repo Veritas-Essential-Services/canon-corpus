@@ -2185,8 +2185,10 @@
     {
       "id": "michael-barrett",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: michael-barrett; no minting",
-      "status": "running",
-      "started": "2026-10-10T10:21:53-05:00"
+      "status": "done",
+      "started": "2026-10-10T10:21:53-05:00",
+      "finished": "2026-10-10T10:29:49-05:00",
+      "notes": "1/1 fetched (Gutenberg 31121), 401 units, 0 ~2 ids."
     },
     {
       "id": "elizabeth-prentiss",
