@@ -2720,3 +2720,19 @@ Slugs `berridge-*`. Vicar of Everton, evangelical Anglican. The 1760 Fragment wa
 | Cheerful Piety, or Religion without Gloom: select letters (Brooklyn: Thomas Kirk; catalogued 1812) | have-ocr | IA `cheerfulpietyorr00berr` |
 | The Christian World Unmasked (London, 1773; IA bim_eighteenth-century_the-christian-world-unma_berridge-john_1773) and Sion's Songs (1785; IA bim_eighteenth-century_sions-songs-or-hymns-_berridge-john_1785): first editions, long-s OCR; their text is in the 1838 Works | alternate | not shelved |
 | The Whole Works, 2nd ed. (London: Palmer, 1864; IA wholeworksofrevj00berruoft) | alternate | not shelved |
+
+## Rowland Hill (Surrey Chapel) (round 17, my pick, 2026-10-10)
+
+Slugs `rhill-*`. Rowland Hill of Surrey Chapel (1744-1833), not the postal reformer; the shelf name carries the chapel to keep them apart. Includes Edwin Sidney's 1835 Life (biography by another hand).
+
+| Work | Status | Where |
+|---|---|---|
+| Village Dialogues, vol. 1, twenty-fourth edition (London: Thomas Tegg, 1825) | have-ocr | IA `villagedialogues11hill` |
+| Village Dialogues, vol. 2, twenty-second edition (London: Thomas Tegg, 1825) | have-ocr | IA `villagedialogues21hill` |
+| Journal of a Tour through the North of England and Parts of Scotland (1799; long-s OCR) | have-ocr | IA `bim_eighteenth-century_journal-of-a-tour-throug_hill-rowland_1799` |
+| Extract of a Journal of a Second Tour (London: A. Paris, 1800; long-s OCR) | have-ocr | IA `bim_eighteenth-century_extract-of-a-journal-of-_hill-rowland_1800` |
+| Christ Crucified, the sermon at the opening of Surrey Chapel, 1783 (London: Religious Tract Society; catalogued 1839) | have-ocr | IA `christcrucifieds733hill` |
+| A Collection of Psalms and Hymns, chiefly intended for public worship (London, sold at Surrey Chapel; catalogued 1787) | have-ocr | IA `copsal00hill` |
+| The Life of the Rev. Rowland Hill, by Edwin Sidney, third edition (London: Baldwin & Cradock, 1835) | have-ocr | IA `thelifeoftherevr00sidnuoft` |
+| Select Notes of the Preaching of the late Rev. Rowland Hill, by Edwin Sidney (London: Baldwin and Cradock, 1837) | have-ocr | IA `selectnotesprea00hillgoog` |
+| Memoir by William Jones, 3rd ed. (Bohn, 1845; IA revrowla00jone) | alternate | not shelved |

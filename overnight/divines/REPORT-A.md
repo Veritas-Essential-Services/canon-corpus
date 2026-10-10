@@ -793,3 +793,6 @@
 
 ## 2026-10-10 11:00 CDT — john-berridge done
 - `pipeline/john-berridge_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for berridge-fragment-1760 (OCR garbles the name), recorded in `_identity_checked`. Fragment of the True Religion attributed by catalogue (anonymous title page). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:00 CDT — rowland-hill done
+- `pipeline/rowland-hill-surrey-chapel_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for rhill-psalms-hymns (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
