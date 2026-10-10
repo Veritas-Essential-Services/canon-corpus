@@ -156,6 +156,11 @@
    "ionofeuripidesno00euriiala",
    "The Ion of Euripides, now first translated into English in its original metres (London: Williams and Norgate, 1889)",
    "tr. H. B. L."
+  ],
+  "euripides-goldwin-smith-specimens-1893": [
+   "specimensofgreek00euriuoft",
+   "Specimens of Greek Tragedy: Euripides (Macmillan, copyright 1893)",
+   "tr. Goldwin Smith"
   ]
  },
  "_excluded": {
@@ -191,7 +196,8 @@
   "euripides-lawton-three-dramas-1889": "william cranston lawton",
   "euripides-beloit-alcestis-1898": "beloit college",
   "euripides-kynaston-alcestis-1906": "Kynaston",
-  "euripides-hbl-ion-1889": "h. b. l."
+  "euripides-hbl-ion-1889": "h. b. l.",
+  "euripides-goldwin-smith-specimens-1893": "goldwin smith"
  },
  "_translator_unchecked": {
   "euripides-wodhull-v3": "translator on the row (Michael Wodhull) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -556,6 +562,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1889",
    "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "euripides-goldwin-smith-specimens-1893": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "euripides",
+   "translator_claimed": "goldwin smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
