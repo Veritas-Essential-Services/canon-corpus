@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-09 22:03 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-09 22:10 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -278,6 +278,7 @@ Round 13 was done by 06:48 CDT on 3 October. Round 14 turns to Victorian Anglica
 | Daniel Wilson (Calcutta) | daniel-wilson-calcutta_shelf.json | none | 7 (Evidences 2 vols 1829-30; Sermons and Tracts 2 vols 1825; Lord's Day 3rd ed. 1840; Colossians 1846; Sermons in India, catalogued 1838) | none | India Sermons year unreadable in OCR (preface 1837) |
 | J. B. Mozley | j-b-mozley_shelf.json | none | 8 (Augustinian Predestination 1855; Baptismal Regeneration 1856; Bampton Lectures on Miracles 1865; University Sermons 2nd ed. 1876; Ruling Ideas 1877; Essays 2 vols 1878; Lectures and Papers 1883) | none | Baptismal Controversy and Parochial Sermons are alternates only |
 | R. W. Church | r-w-church_shelf.json | none | 10 (Oxford Movement, PG 12092; Saint Anselm 1870; Gifts of Civilisation 1880; Discipline 1885; Pascal 1896; Village Sermons 3 series, 1899-1901 reprints; Occasional Papers 2 vols 1897) | none | his Bacon, Spenser and Dante on PG left out as literary |
+| Norman Macleod | norman-macleod_shelf.json | none | 7 (PG: Parish Papers, Gold Thread, Starling; IA: Temptation of Our Lord 1873, Simple Truths 1867, Highland Parish 1871, Earnest Student 1863) | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

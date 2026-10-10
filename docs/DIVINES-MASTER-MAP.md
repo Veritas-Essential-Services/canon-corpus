@@ -2213,6 +2213,15 @@ Slugs `rwchurch-*`. Full name forms only; not Lane D's `church` shelf (Alfred Jo
 | The Oxford Movement | have-clean | Gutenberg 12092 |
 | Saint Anselm (1870); Gifts of Civilisation (1880); Discipline of the Christian Character (1885); Pascal and Other Sermons (1896); Village Sermons (3 series, 1899-1901 reprints); Occasional Papers (2 vols, 1897) | have-ocr | IA, OCR 96-100% |
 | Bacon, Spenser, Dante (PG) | alternate | literary, not shelved |
+
+## Norman Macleod (round 14, my pick, 2026-10-09)
+
+Slugs `nmacleod-*`. The Barony minister (1812-1872), not his father or grandson of the same name.
+
+| Work | Status | Where |
+|---|---|---|
+| Parish Papers; The Gold Thread; The Starling | have-clean | Gutenberg 12605, 26039, 41989 |
+| The Temptation of Our Lord (1873); Simple Truths (1867); Reminiscences of a Highland Parish (1871); The Earnest Student (1863) | have-ocr | IA, OCR 98-99% |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
