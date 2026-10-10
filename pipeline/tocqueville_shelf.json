@@ -1,0 +1,57 @@
+{
+  "_about": "Alexis de Tocqueville, Democracy in America (1835-40), tr. Henry Reeve, vols 1-2. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+  "_author": "Alexis de Tocqueville",
+  "_name_words": [
+    "alexis",
+    "tocqueville"
+  ],
+  "_surname": [
+    "tocqueville"
+  ],
+  "ccel": {},
+  "gutenberg": {
+    "tocqueville-democracy-1": [
+      815,
+      "Democracy in America, vol. 1, tr. Henry Reeve"
+    ],
+    "tocqueville-democracy-2": [
+      816,
+      "Democracy in America, vol. 2, tr. Henry Reeve",
+      {
+        "chapre_only": "^\\s*(Book [A-Z][a-z]+:|Section [IVXL]+:|Chapter [IVXL]+:)"
+      }
+    ]
+  },
+  "internet_archive": {},
+  "_excluded": {},
+  "_translators": {
+    "tocqueville-democracy-1": "Reeve",
+    "tocqueville-democracy-2": "Reeve"
+  },
+  "_checks": {
+    "tocqueville-democracy-1": {
+      "kind": "gutenberg",
+      "checked": "2026-10-10",
+      "name_check": "surname",
+      "author_seen": "tocqueville",
+      "translator_claimed": "Reeve",
+      "translator_in_text": true,
+      "identity": "ok",
+      "pg_copyrighted": false,
+      "pg_translator": "Henry Reeve",
+      "translator_match": true
+    },
+    "tocqueville-democracy-2": {
+      "kind": "gutenberg",
+      "checked": "2026-10-10",
+      "name_check": "surname",
+      "author_seen": "tocqueville",
+      "translator_claimed": "Reeve",
+      "translator_in_text": true,
+      "identity": "ok",
+      "pg_copyrighted": false,
+      "pg_translator": "Henry Reeve",
+      "translator_match": true
+    }
+  }
+}

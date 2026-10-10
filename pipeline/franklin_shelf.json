@@ -1,0 +1,31 @@
+{
+ "_about": "The Autobiography of Benjamin Franklin (written 1771-1790), ed. Frank Woodworth Pine (1916). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Benjamin Franklin",
+ "_name_words": [
+  "benjamin",
+  "franklin"
+ ],
+ "_surname": [
+  "benjamin franklin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "franklin-autobiography": [
+   20203,
+   "Autobiography of Benjamin Franklin, ed. F. W. Pine (1916)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "franklin-autobiography": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "benjamin franklin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

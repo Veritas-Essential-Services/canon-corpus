@@ -87,7 +87,7 @@ Decline and Fall of the Roman Empire	Edward Gibbon	1776–1789	CiRCE; NSA	partia
 Paradise Lost	John Milton	1667	BCS; CC; Canon; CiRCE; Logos Online; NSA	held	paradise_lost (PG 20)	PD		
 The Temple and English poems	George Herbert	1633	BCS; Canon; Logos Online	held	herbert-english-works-1..3, herbert-country-parson	PD		
 Poems	John Donne	1633	BCS; Canon	partial	donne-works-1..6 (sermons & prose); the poems are a gap	PD	Grierson's Poems of John Donne (1912) on IA	
-The Poems of Anne Bradstreet	Anne Bradstreet	1650–1678	Canon	missing	source: Works, ed. Ellis 1867, Internet Archive	PD		
+The Poems of Anne Bradstreet	Anne Bradstreet	1650–1678	Canon	ingested	bradstreet (IA, Ellis 1867, raw OCR)	PD		4
 Thomas Traherne: prose and poetry	Thomas Traherne	17th c.	NSA	held	thomas-traherne shelf (relay)	PD		
 Discourse on Method	René Descartes	1637	BCS	held	descartes-method, descartes-meditations	PD		
 Leviathan	Thomas Hobbes	1651	BCS; Logos Online	held	hobbes-leviathan	PD		
@@ -117,12 +117,12 @@ Rousseau: Discourses, Emile, Social Contract	Jean-Jacques Rousseau	1750–1762	B
 Hume (works)	David Hume	18th c.	BCS	held	hume-enquiry	PD		
 Kant (works)	Immanuel Kant	18th c.	BCS; CiRCE	held	kant-pure-reason, kant-practical	PD		
 The Wealth of Nations	Adam Smith	1776	BCS; Logos Online	held	smith-wealth	PD		
-Reflections on the Revolution in France	Edmund Burke	1790	Logos Online	missing	source: Burke's Works vol. 3 (PG 15679)	PD		
-Common Sense	Thomas Paine	1776	BCS; Logos Online	missing	source: Common Sense (PG id to confirm); Rights of Man in Writings vol. 2 (PG 3742)	PD		
-Autobiography	Benjamin Franklin	1771–1790	Logos Online	missing	source: PG 20203	PD		
-Origin and Principles of the American Revolution	Friedrich von Gentz	1800	Logos Online	missing	source: J. Q. Adams tr. 1800, Internet Archive	PD		
-Poems	Phillis Wheatley	1773	BCS	missing	source: PG 409	PD		
-American founding documents and speeches	various	1620–1892	CC; Logos Online	partial	federalist held; the rest (Mayflower Compact, Declaration, Constitution, Articles, Northwest Ordinance, Washington, Patrick Henry, Clay, Calhoun, Garrison, Stanton, Taney, Lincoln, Winthrop, Columbus, Bellamy, Anti-Federalist, Bradford's Plymouth) are gaps	PD (government works and pre-1930 texts)	propose one 'american-documents' shelf; PG has most (e.g. Bradford PG 24950, Declaration PG 1, Constitution PG 5)	
+Reflections on the Revolution in France	Edmund Burke	1790	Logos Online	ingested	edmund-burke (PG 15679, Works vol. 3)	PD		4
+Common Sense	Thomas Paine	1776	BCS; Logos Online	ingested	thomas-paine (PG 147; Rights of Man PG 3742)	PD		4
+Autobiography	Benjamin Franklin	1771–1790	Logos Online	ingested	franklin (PG 20203, Pine 1916)	PD		4
+Origin and Principles of the American Revolution	Friedrich von Gentz	1800	Logos Online	ingested	gentz (IA, J. Q. Adams tr. 1800, raw OCR)	PD		4
+Poems	Phillis Wheatley	1773	BCS	ingested	wheatley (PG 409)	PD		4
+American founding documents and speeches	various	1620–1892	CC; Logos Online	partial	american-founding (Mayflower, Henry, Declaration, Constitution, Bill of Rights) + lincoln + held Federalist; Articles, Northwest Ordinance, Washington, Clay, Calhoun, Garrison still to find	PD (government works and pre-1930 texts)	propose one 'american-documents' shelf; PG has most (e.g. Bradford PG 24950, Declaration PG 1, Constitution PG 5)	4
 Pride and Prejudice (and Austen's novels)	Jane Austen	1813	BCS; CC; Canon; CiRCE; Logos Online; Memoria	ingested	austen shelf: pride-and-prejudice, sense-and-sensibility, mansfield-park, northanger-abbey, persuasion (Emma already held)	PD	Pride and Prejudice PG 1342; Sense and Sensibility 161; Persuasion 105; Mansfield 141; Northanger 121	Batch 1
 Jane Eyre	Charlotte Brontë	1847	BCS; CC; Canon; Memoria	ingested	bronte-jane-eyre (PG 1260)	PD		Batch 1
 Wuthering Heights	Emily Brontë	1847	Canon; Memoria	ingested	bronte-wuthering-heights (PG 768)	PD		Batch 1
@@ -143,16 +143,16 @@ The Red Badge of Courage	Stephen Crane	1895	CC; CiRCE; Logos Online	ingested	ste
 Mark Twain: Tom Sawyer, Huck Finn, Connecticut Yankee, sketches	Mark Twain	1865–1889	BCS; CC; Canon; CiRCE; Logos; Logos Online; Memoria	ingested	mark-twain shelf + twain-rl: Connecticut Yankee, Sketches New and Old	PD	Connecticut Yankee PG 86; Sketches New and Old PG 3189	Batch 2
 Alcott: Little Women, An Old-Fashioned Girl	Louisa May Alcott	1868–1870	CC; Logos Online; Memoria	held	alcott shelf	PD		
 Narrative of the Life of Frederick Douglass	Frederick Douglass	1845	CC; Canon; CiRCE; Logos Online	ingested	douglass-narrative (PG 23)	PD		Batch 1
-Up from Slavery	Booker T. Washington	1901	CC	missing	source: PG 2376	PD		
+Up from Slavery	Booker T. Washington	1901	CC	ingested	booker-washington (PG 2376)	PD		4
 Self-Reliance and other essays	Ralph Waldo Emerson	1841	CC; Logos Online	ingested	rwemerson-essays-first, -second (PG 2944, 2945)	PD		Batch 1
 Walden; Civil Disobedience	Henry David Thoreau	1849–1854	CC; Canon; Logos Online	ingested	thoreau-walden (PG 205)	PD		Batch 1
 The Song of Hiawatha	Henry Wadsworth Longfellow	1855	CC; Memoria	held	longfellow-poetical-works (PG 1365)	PD		
-Leaves of Grass	Walt Whitman	1855	Logos Online	missing	source: PG 1322	PD		
-Uncle Tom's Cabin	Harriet Beecher Stowe	1852	Logos Online	missing	source: PG 203	PD		
-Speeches and Writings	Abraham Lincoln	1859–1865	Logos Online	missing	source: Lincoln's speeches PG 2653–2659 (Writings vols)	PD		
-Democracy in America	Alexis de Tocqueville	1835–1840	Logos Online	missing	source: Reeve tr. PG 815 / 816	PD (Reeve 1835)		
+Leaves of Grass	Walt Whitman	1855	Logos Online	ingested	whitman (PG 1322)	PD		4
+Uncle Tom's Cabin	Harriet Beecher Stowe	1852	Logos Online	ingested	stowe (PG 203)	PD		4
+Speeches and Writings	Abraham Lincoln	1859–1865	Logos Online	ingested	lincoln (PG 2653-2659, Lapsley 1905)	PD		4
+Democracy in America	Alexis de Tocqueville	1835–1840	Logos Online	ingested	tocqueville (PG 815, 816, Reeve)	PD (Reeve 1835)		4
 The Communist Manifesto	Marx & Engels	1848	BCS; Logos Online	held	marx-manifesto	PD		
-Beyond Good and Evil	Friedrich Nietzsche	1886	BCS; Canon; Logos Online	missing	source: Zimmern tr. PG 4363	PD (Zimmern 1907)		
+Beyond Good and Evil	Friedrich Nietzsche	1886	BCS; Canon; Logos Online	held	levy-nietzsche (Lane C, Zimmern tr.)	PD (Zimmern 1907)		
 Notes from Underground	Fyodor Dostoevsky	1864	Logos Online	held	garnett-white-nights (PG 36034, includes Notes from Underground)	PD (Garnett 1918)		
 Crime and Punishment; The Brothers Karamazov	Fyodor Dostoevsky	1866–1880	BCS; Canon	held	garnett-crime-and-punishment, garnett-karamazov	PD (Garnett)		
 Anna Karenina; War and Peace	Leo Tolstoy	1869–1878	Canon; Memoria	held	garnett-anna-karenina, tolstoy-warpeace	PD		
@@ -192,10 +192,10 @@ Father Brown stories	G. K. Chesterton	1910–1935	CC; CiRCE; Logos	partial	Innoc
 Orthodoxy; The Everlasting Man	G. K. Chesterton	1908–1925	Canon; Memoria	held	chesterton-orthodoxy, chesterton-everlasting	PD		
 On the Origin of Species	Charles Darwin	1859	Canon; CiRCE	held	darwin-origin	PD		
 The Interpretation of Dreams	Sigmund Freud	1899	Logos Online	missing	source: Brill tr. 1913 (PG 66048)	PD (Brill 1913)		
-The Jungle	Upton Sinclair	1906	Logos Online	missing	source: PG 140	US PD; UK in copyright until 2039		
+The Jungle	Upton Sinclair	1906	Logos Online	ingested	upton-sinclair (PG 140)	US PD; UK in copyright until 2039		4
 The Waste Land and early poems	T. S. Eliot	1915–1922	Logos Online	missing	source: PG 1321 (The Waste Land); Prufrock PG 1459	US PD (pre-1930 poems only); UK until 2036		
 World War One poets (Brooke, Owen, Sassoon…)	various	1914–1918	Logos Online	missing	source: Brooke PG 262; Owen Poems 1920 (IA)	PD for pre-1930 publications		
-The Souls of Black Folk	W. E. B. Du Bois	1903	BCS	missing	source: PG 408	US PD; UK until 2034		
+The Souls of Black Folk	W. E. B. Du Bois	1903	BCS	ingested	du-bois (PG 408)	US PD; UK until 2034		4
 The Great Gatsby	F. Scott Fitzgerald	1925	BCS; Logos Online; Memoria	missing	source: PG 64317	PD (US since 2021)		
 The Curious Case of Benjamin Button	F. Scott Fitzgerald	1922	CC	missing	in Tales of the Jazz Age, PG 6695	PD		
 A Passage to India	E. M. Forster	1924	CC	missing	source: Internet Archive (1924 ed.)	US PD since 2020; UK until 2041		
@@ -226,7 +226,7 @@ Augustine (works)	Augustine	4th–5th c.	BCS	held	Schaff NPNF1 1–8 (PR #11)	PD
 Peter Abelard (works)	Peter Abelard	12th c.	BCS	ingested	abelard (PG 14268, Bellows) + Lane C's Letters	PD		3
 William of Ockham	William of Ockham	14th c.	BCS	notpd	no PD English translation known	Latin only		
 Richard Hooker (works)	Richard Hooker	16th c.	BCS	held	hooker-works-1..3	PD		
-William James (works)	William James	1890–1907	BCS	missing	source: Varieties PG 621; Pragmatism PG 5116	PD		
+William James (works)	William James	1890–1907	BCS	ingested	william-james (PG 621, 5116)	PD		4
 The Twelve Caesars	Suetonius	c. AD 121	BCS	held	suetonius shelf	PD		
 Mein Kampf	Adolf Hitler	1925	Logos Online	notpd	excluded: English translations (1933, 1939) are not confirmed PD	not PD in English	listed only because Logos Online assigns it	
 The Koran	Muhammad (trad.)	7th c.	Logos Online	held	rodwell-koran, sale-koran, palmer-quran	PD		

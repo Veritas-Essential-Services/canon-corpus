@@ -1,0 +1,44 @@
+{
+ "_about": "Thomas Paine: Common Sense (1776), and The Rights of Man (1791-92) in Conway's Writings, vol. 2 (1894). Distinct from Lane D's `albert-paine` (Albert Bigelow Paine). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Thomas Paine",
+ "_name_words": [
+  "thomas",
+  "paine"
+ ],
+ "_surname": [
+  "thomas paine"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "paine-common-sense": [
+   147,
+   "Common Sense (1776)"
+  ],
+  "paine-writings-2-rights-of-man": [
+   3742,
+   "The Writings of Thomas Paine, vol. 2: The Rights of Man, ed. M. D. Conway (1894)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "paine-common-sense": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas paine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "paine-writings-2-rights-of-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas paine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

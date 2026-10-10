@@ -104,3 +104,27 @@ Held back: Conan Doyle's Case-Book (1927) pending a per-story date check.
 | `abelard` | Historia Calamitatum (Bellows). The Letters are Lane C's `moncrieff-abelard` |
 
 The Song of Roland is already held on Lane C's `scott-moncrieff` shelf.
+
+### Batch 4 (2026-10-10): American documents and essays
+
+15 shelves, 29 texts, all checks passed. 27 Gutenberg texts are converted (about 25,600 units); Gentz and Bradstreet are Internet Archive scans and stay raw OCR.
+
+| Shelf | Works |
+|---|---|
+| `american-founding` | The Mayflower Compact, Patrick Henry's Liberty or Death, the Declaration of Independence, the Constitution, the Bill of Rights (The Federalist is already held) |
+| `lincoln` | The Papers and Writings of Abraham Lincoln, vols 1–7 (Lapsley, 1905) |
+| `franklin` | Autobiography (Pine, 1916) |
+| `thomas-paine` | Common Sense; Writings vol. 2, The Rights of Man (Conway). Distinct from Lane D's `albert-paine` |
+| `edmund-burke` | Works vol. 3: Reflections on the Revolution in France |
+| `gentz` | The Origin and Principles of the American Revolution (J. Q. Adams tr., 1800; IA) |
+| `wheatley` | Poems on Various Subjects (1773) |
+| `bradstreet` | Works in Prose and Verse (Ellis, 1867; IA) |
+| `tocqueville` | Democracy in America, vols 1–2 (Reeve) |
+| `stowe` | Uncle Tom's Cabin |
+| `whitman` | Leaves of Grass |
+| `booker-washington` | Up from Slavery |
+| `du-bois` | The Souls of Black Folk |
+| `william-james` | The Varieties of Religious Experience; Pragmatism |
+| `upton-sinclair` | The Jungle (US PD; UK until 2038) |
+
+Beyond Good and Evil is already held on Lane C's `levy-nietzsche`. Still to find for the founding-documents row: the Articles of Confederation, the Northwest Ordinance, Washington's Farewell Address, and the Clay, Calhoun and Garrison speeches.
