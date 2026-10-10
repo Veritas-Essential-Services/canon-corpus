@@ -646,3 +646,9 @@
 - Cicero: De Oratore I, E. N. P. Moor (1892; translator's death year not checked); Pro Cluentio, William Peterson (1895)
 - Homer, Iliad I-III in hexameters, F. H. J. Ritso (1861). Correction to its commit message: that the three books are all he translated is inferred from the title page ('by the late'), not checked
 - Caesar's Gallic War, T. Rice Holmes (1908)
+
+## 2026-10-10 10:37 CDT — Round 2026-10-10m: one volume, one held, sixteen refused
+- Suetonius, Alexander Thomson's unrevised 1796 first edition (the text Forester later revised for Bohn)
+- Held back undated: Robert Duncan's Boethius (Edinburgh; catalogue 1789): reads 0.783 but no year is legible in the OCR
+- Refused under the bar (ECCO): Guthrie's Quintilian, Newton's Vitruvius, Budgell's Theophrastus, Suetonius 1717, Petronius 1713/1736, Velleius 1721/1722, Hippocrates 1752/1780/1788, Medea and Jason 1771, Moschus and Bion 1724, Heliodorus 1753, Alciphron 1791, Daphnis 1763, Hero and Leander 1747
+- Finding: the remaining unrecorded 18th-century English classics on IA are almost all ECCO scans at 0.55-0.76; the lane's bar keeps them out unless cleaner copies appear

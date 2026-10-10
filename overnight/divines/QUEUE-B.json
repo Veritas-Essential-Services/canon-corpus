@@ -1012,6 +1012,14 @@
    "started": "2026-10-10T10:24:15-05:00",
    "finished": "2026-10-10T10:34:06-05:00",
    "notes": "8 volumes added"
+  },
+  {
+   "id": "round-2026-10-10m",
+   "status": "done",
+   "scope": "IA sweep of 'translated' titles across ~70 classical authors (mostly ECCO 18th-century scans)",
+   "started": "2026-10-10T10:34:06-05:00",
+   "finished": "2026-10-10T10:37:47-05:00",
+   "notes": "1 volume added; 1 held back undated; 16 refusals recorded"
   }
  ]
 }

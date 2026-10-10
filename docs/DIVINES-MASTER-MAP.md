@@ -3698,6 +3698,7 @@ Shelf: `pipeline/suetonius_shelf.json`. Thomson rev. Forester (Bohn), complete. 
 | Suetonius, vol. 2 (Loeb, 1914) | J. C. Rolfe | `suetonius-rolfe-v2` | have-raw (IA `suetonius02suetuoft`) |
 | The Deified Julius | John C. Rolfe | `suetonius-perseus-rolfe-the-deified-julius` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Historie of Twelve Caesars, Emperours of Rome (London, 1606) | Philemon Holland | `suetonius-holland-1606` | have-raw (IA `suetoniushollandtwelvecaesars`) |
+| The Lives of the First Twelve Caesars, translated from the Latin, with annotations and a review of the government and literature of the different periods (London: G. G. and J. Robinson, 1796), the unrevised first edition of the version Forester later revised | Alexander Thomson | `suetonius-thomson-1796` | have-raw (IA `bim_eighteenth-century_the-lives-of-the-first-t_suetonius_1796`) |
 
 Pending (wishlist): none known.
 
