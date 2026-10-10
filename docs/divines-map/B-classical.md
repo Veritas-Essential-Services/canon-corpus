@@ -825,6 +825,8 @@ Shelf: `pipeline/marcus-aurelius_shelf.json`. Long (1862) and Chrystal (1902), c
 | The Meditations of Marcus Aurelius (Everyman's Library no. 9, intro. W. H. D. Rouse; first issue of this edition 1906, this scan the 1948 reprint) | Meric Casaubon | `marcus-aurelius-casaubon-everyman` | have-raw (IA `meditations00marcuoft`) |
 | The Emperor Marcus Antoninus his Conversation with Himself, with Gataker's preliminary discourse and Dacier's Life (London: Richard Sare, 1701) | Jeremy Collier | `marcus-aurelius-collier-1701` | have-raw (IA `emperormarcusant01marc`) |
 | The Meditations of Marcus Aurelius (Camelot Series; London: Walter Scott, 1887) | Jeremy Collier, revised by Alice Zimmern | `marcus-aurelius-collier-zimmern-1887` | have-raw (IA `meditationsmarc02collgoog`) |
+| Meditations of the Emperor Marcus Aurelius Antoninus, newly translated from the Greek, with notes and an account of his life, second edition, vol. I (Glasgow: Robert and Andrew Foulis, 1749) | anonymous (the title page names no translator) | `marcus-aurelius-foulis-1749-v1` | have-raw (IA `meditationsempe01gatagoog`) |
+| Meditations of the Emperor Marcus Aurelius Antoninus, vol. II (Glasgow: Robert and Andrew Foulis, 1749) | anonymous (the title page names no translator) | `marcus-aurelius-foulis-1749-v2` | have-raw (IA `meditationsempe02gatagoog`) |
 
 Pending (wishlist): Haines's Loeb (1916; Greek facing).
 

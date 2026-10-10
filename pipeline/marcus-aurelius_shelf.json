@@ -50,6 +50,16 @@
    "meditationsmarc02collgoog",
    "The Meditations of Marcus Aurelius (Camelot Series; London: Walter Scott, 1887)",
    "tr. Jeremy Collier, revised by Alice Zimmern"
+  ],
+  "marcus-aurelius-foulis-1749-v1": [
+   "meditationsempe01gatagoog",
+   "Meditations of the Emperor Marcus Aurelius Antoninus, newly translated from the Greek, with notes and an account of his life, second edition, vol. I (Glasgow: Robert and Andrew Foulis, 1749)",
+   "tr. anonymous (the title page names no translator)"
+  ],
+  "marcus-aurelius-foulis-1749-v2": [
+   "meditationsempe02gatagoog",
+   "Meditations of the Emperor Marcus Aurelius Antoninus, vol. II (Glasgow: Robert and Andrew Foulis, 1749)",
+   "tr. anonymous (the title page names no translator)"
   ]
  },
  "_cross_ref": {
@@ -59,7 +69,9 @@
   "pg6920": "Thoughts of Marcus Aurelius (Long): catalogued but serves no text; PG 15877 kept",
   "pg59784": "an index page",
   "Rendall (1898), Jackson (1906), Collier (1701)": "all now held: Jackson (marcus-aurelius-jackson-1906), Rendall (marcus-aurelius-rendall), Collier (marcus-aurelius-collier-1701, and Zimmern's 1887 revision)",
-  "C. R. Haines, Loeb (1916)": "PD in US; pending"
+  "C. R. Haines, Loeb (1916)": "PD in US; pending",
+  "meditationsempe00gatagoog": "second copy of the 1749 Foulis vol. I; lower OCR (0.851 vs 0.862)",
+  "meditationsempe03gatagoog": "the Foulis translation's third edition (1752), same text as the 1749 held"
  },
  "_surname": [
   "aurelius",
@@ -75,12 +87,14 @@
  },
  "_translator_unchecked": {
   "marcus-aurelius-jackson-1906": "translator on the row (John Jackson (from the catalogue; the scan's title page names no translator)) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
-  "marcus-aurelius-collier-1701": "title page OCRs the name as 'Jeremy Cortrier, M. A.' (London: Richard Sare, MDCCI); the full name is not printed as a word in this OCR"
+  "marcus-aurelius-collier-1701": "title page OCRs the name as 'Jeremy Cortrier, M. A.' (London: Richard Sare, MDCCI); the full name is not printed as a word in this OCR",
+  "marcus-aurelius-foulis-1749-v1": "the title page names no translator ('Newly translated from the Greek'); the archive.org record's creator field is not a translator attribution",
+  "marcus-aurelius-foulis-1749-v2": "the title page names no translator ('Newly translated from the Greek'); the archive.org record's creator field is not a translator attribution"
  },
  "_checks": {
   "marcus-aurelius-long": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aurelius",
    "translator_claimed": "George Long",
@@ -92,7 +106,7 @@
   },
   "marcus-aurelius-chrystal": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aurelius",
    "translator_claimed": "George W. Chrystal",
@@ -104,7 +118,7 @@
   },
   "marcus-aurelius-collier": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aurelius",
    "translator_claimed": "Jeremy Collier",
@@ -117,7 +131,7 @@
   },
   "marcus-aurelius-rendall": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aurelius",
    "translator_claimed": "Gerald H. Rendall",
@@ -130,7 +144,7 @@
   },
   "marcus-aurelius-jackson-1906": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aurelius",
    "identity": "ok",
@@ -141,7 +155,7 @@
   },
   "marcus-aurelius-casaubon-everyman": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aurelius",
    "translator_claimed": "Meric Casaubon",
@@ -155,7 +169,7 @@
   },
   "marcus-aurelius-collier-1701": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aurelius",
    "identity": "ok",
@@ -166,7 +180,7 @@
   },
   "marcus-aurelius-collier-zimmern-1887": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aurelius",
    "translator_claimed": "Jeremy Collier",
@@ -174,6 +188,29 @@
    "identity": "ok",
    "ia_rights": "ok: published 1887",
    "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "marcus-aurelius-foulis-1749-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "marcus-aurelius-foulis-1749-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
