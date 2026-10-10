@@ -465,6 +465,7 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | Oedipus at Colonus, closely translated from the Greek of Sophocles: an experiment in metre (London: Simpkin, Marshall, Hamilton, Kent, 1894) | Arthur Compton Auchmuty Hull | `sophocles-hull-oedipus-coloneus-1894` | have-raw (IA `cu31924026593511`) |
 | The Antigone of Sophocles, translated with introduction and notes (Boston and New York: Houghton Mifflin; copyright 1899, this printing undated) | George Herbert Palmer | `sophocles-palmer-antigone-1899` | have-raw (IA `antigoneofsophoc0000geor_m2w3`) |
 | The Tragedies of Sophocles, translated, a new edition (London: N. Bliss, 1820) | Robert Potter | `sophocles-potter-1820` | have-raw (IA `tragediesofsopho00soph_0`) |
+| The Tragedies of Sophocles, translated from the Greek (a new edition, 1818) | George Adams | `sophocles-george-adams-1818` | have-raw (IA `tragediesofso00soph`) |
 
 Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 

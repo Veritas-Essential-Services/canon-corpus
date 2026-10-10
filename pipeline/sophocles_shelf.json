@@ -125,6 +125,11 @@
    "tragediesofsopho00soph_0",
    "The Tragedies of Sophocles, translated, a new edition (London: N. Bliss, 1820)",
    "tr. Robert Potter"
+  ],
+  "sophocles-george-adams-1818": [
+   "tragediesofso00soph",
+   "The Tragedies of Sophocles, translated from the Greek (a new edition, 1818)",
+   "tr. George Adams"
   ]
  },
  "_cross_ref": {
@@ -166,7 +171,8 @@
   "sophocles-hull-oedipus-coloneus-1894": "arthur compton auchmuty hull",
   "sophocles-palmer-antigone-1899": "george herbert palmer",
   "sophocles-doyle-oedipus-1849": "francis hastings doyle",
-  "sophocles-potter-1820": "r. potter"
+  "sophocles-potter-1820": "r. potter",
+  "sophocles-george-adams-1818": "george adams"
  },
  "_checks": {
   "sophocles-campbell-seven": {
@@ -461,6 +467,19 @@
    "ia_rights": "ok: published 1820",
    "ia_date": "1820",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-george-adams-1818": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "george adams",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
   }
  },
