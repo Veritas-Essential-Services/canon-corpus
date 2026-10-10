@@ -673,3 +673,6 @@
 
 ## 2026-10-09 22:03 CDT — j-b-mozley done
 - `pipeline/j-b-mozley_shelf.json`: 8 IA volumes. Augustinian Predestination failed the name gate on letterspaced OCR ("M 0 Z L E Y"); title page read, recorded in `_identity_checked` instead of adding a garbled name form. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-09 22:03 CDT — r-w-church done
+- `pipeline/r-w-church_shelf.json`: PG 12092 + 9 IA volumes. Gifts of Civilisation failed the name gate on OCR artifacts ("R[ W. CHURCH"); title page read, recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

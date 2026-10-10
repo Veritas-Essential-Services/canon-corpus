@@ -2197,3 +2197,13 @@ Slugs `mozley-*`. James Bowling Mozley (1813-1878), Regius Professor of Divinity
 |---|---|---|
 | Augustinian Predestination (1855); Baptismal Regeneration (1856); Miracles, Bampton 1865; University Sermons (2nd ed., 1876); Ruling Ideas (1877); Essays (2 vols, 1878); Lectures and Papers (1883) | have-ocr | IA, OCR 97-99% |
 | Baptismal Controversy (2nd ed., 1883); Sermons Parochial and Occasional (1879) | alternate | not shelved |
+
+## R. W. Church, Dean of St Paul's (round 14, my pick, 2026-10-09)
+
+Slugs `rwchurch-*`. Full name forms only; not Lane D's `church` shelf (Alfred John Church).
+
+| Work | Status | Where |
+|---|---|---|
+| The Oxford Movement | have-clean | Gutenberg 12092 |
+| Saint Anselm (1870); Gifts of Civilisation (1880); Discipline of the Christian Character (1885); Pascal and Other Sermons (1896); Village Sermons (3 series, 1899-1901 reprints); Occasional Papers (2 vols, 1897) | have-ocr | IA, OCR 96-100% |
+| Bacon, Spenser, Dante (PG) | alternate | literary, not shelved |
