@@ -2515,6 +2515,9 @@ Shelf: `pipeline/william-smith_shelf.json`. Smith's smaller histories of Greece 
 
 | Work | Reviser | Slug | Status |
 |---|---|---|---|
+| A Smaller History of Greece: from the Earliest Times to the Roman Conquest |  | `william-smith-smaller-history-of-greece` | have (PG 2096) |
+| A Smaller History of Rome, from the Earliest Times to the Establishment of the Empire (with Eugene Lawrence) |  | `william-smith-smaller-history-of-rome` | have (PG 19694) |
+| A Smaller Dictionary of Greek and Roman Antiquities |  | `william-smith-smaller-dictionary-antiquities` | have (PG 65909) |
 
 Pending (wishlist): The full Dictionary of Greek and Roman Antiquities (1842; 3rd ed. 1890-91), Dictionary of Greek and Roman Biography and Mythology (3 vols., 1844-49) and Dictionary of Greek and Roman Geography (2 vols., 1854-57), from IA scans.
 

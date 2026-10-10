@@ -1,0 +1,56 @@
+{
+ "_about": "Sir William Smith (1813-1893), lexicographer and editor of the classical dictionaries. Classical scholarship (lane B pivot, 2026-10-10): A Smaller History of Greece, A Smaller History of Rome (revised by Eugene Lawrence) and A Smaller Dictionary of Greek and Roman Antiquities, clean Gutenberg. The full Dictionaries of Greek and Roman Antiquities, Biography and Mythology, and Geography are wanted from IA scans. No uids minted.",
+ "_name_words": [
+  "smith"
+ ],
+ "_surname": [
+  "william smith",
+  "smith, william",
+  "wm. smith"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "william-smith-smaller-history-of-greece": [
+   2096,
+   "A Smaller History of Greece: from the Earliest Times to the Roman Conquest"
+  ],
+  "william-smith-smaller-history-of-rome": [
+   19694,
+   "A Smaller History of Rome, from the Earliest Times to the Establishment of the Empire (with Eugene Lawrence)"
+  ],
+  "william-smith-smaller-dictionary-antiquities": [
+   65909,
+   "A Smaller Dictionary of Greek and Roman Antiquities"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "william-smith-smaller-history-of-greece": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "william-smith-smaller-history-of-rome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "william-smith-smaller-dictionary-antiquities": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
