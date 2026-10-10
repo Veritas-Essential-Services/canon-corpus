@@ -1928,7 +1928,7 @@ Shelf: `pipeline/quintilian_shelf.json`. Butler Loeb 1920-22, 4 vols. (IA, 0.87-
 | Quintilian's Institutes of Oratory, vol. I (Bohn's Classical Library; London: George Bell, 1903, reprinted from stereotype plates of the 1856 edition) | John Selby Watson | `quintilian-watson-v1-1903` | have-raw (IA `cu31924075437685`) |
 | Quintilian's Institutes of Oratory, vol. II (Bohn, 1856) | John Selby Watson | `quintilian-watson-v2-1856` | have-raw (IA `cu31924075437677`) |
 
-Pending (wishlist): Watson's Bohn (no scan located)
+Pending (wishlist): Watson's vol. I in its 1856 first printing (vol. I is held above from the 1903 stereotype reprint; the 1856 scans checked on 2026-10-10 are all vol. II)
 
 ## Vitruvius
 
