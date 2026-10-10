@@ -778,7 +778,7 @@ Rounds 12-13 (2026-10-10), vetoable. Includes the six-volume Saga Library. Not c
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
-| `mm-volsunga-saga` | anonymous (Old Norse) | The Story of the Volsungs (Volsunga Saga), with excerpts from the Poetic Edda | Eiríkr Magnússon and William Morris | 1870 | have | PG 1152 |
+| `mm-volsunga-saga` | anonymous (Old Norse) | The Story of the Volsungs (Volsunga Saga), with excerpts from the Poetic Edda | Eiríkr Magnússon and William Morris | 1870 | held elsewhere (cross-ref) | `pipeline/poetic-edda_shelf.json` → `edda-volsunga-morris` (PG 1152) |
 | `mm-grettir-the-strong` | anonymous (Old Norse) | The Story of Grettir the Strong | Eiríkr Magnússon and William Morris | 1869 | have | PG 12747 |
 | `mm-frithiof-the-bold` | anonymous (Old Norse) | The Story of Frithiof the Bold | Eiríkr Magnússon and William Morris | 1875 | have | PG 24420 |
 | `mm-saga-library-vol-1` | anonymous (Old Norse) | The Saga Library, vol. 1: The Story of Howard the Halt; The Banded Men; Hen Thorir | William Morris and Eiríkr Magnússon | 1891 | have-raw | IA `sagalibrarydonei01snoriala` |
@@ -792,6 +792,7 @@ Rounds 12-13 (2026-10-10), vetoable. Includes the six-volume Saga Library. Not c
 | — | — | pg-48622: Baring-Gould's Grettir the Outlaw, his own retelling; on baring-gould_shelf.json. | — | — | excluded | — |
 | — | — | sagalibrary01snoruoft: Labelled vol. 1 on archive.org, but its title page reads Saga Library VOL. III (Heimskringla I); the cdl copy is used for vol. 3. | — | — | excluded | — |
 | — | — | heimskringla-laing: Laing's Heimskringla (a different translation) is on sturluson_shelf.json; the Saga Library Heimskringla here is Morris and Magnússon's, a second witness. | — | — | excluded | — |
+| — | — | mm-volsunga: PG 1152 (Volsunga Saga) lives on Lane D's poetic-edda_shelf.json as edda-volsunga-morris; this shelf only cross-references it. | — | — | excluded | — |
 
 ## Strindberg in English (Björkman, the Olands, Field, Schleussner)
 

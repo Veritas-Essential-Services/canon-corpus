@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T09:45-05:00: 56 shelves, 248 titles (round 13: Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1; round 12: Magnússon-Morris 3, Strindberg 14; round 11: Archer's Ibsen 11; round 10: Ryder 5, Gertrude Bell 1, Levy Nietzsche 15; round 9, Scott Moncrieff: 9; Ransome translations, 2026-10-10: 2; rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11; round 7: 12; round 8: 8 — Symonds 3, Blackie 2, Theodore Martin 1, Hearn 2). **11 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
+Totals 2026-10-10T09:45-05:00: 56 shelves, 248 titles, 12 of them cross-references (Volsunga moved to a cross-reference 2026-10-10; round 13: Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1; round 12: Magnússon-Morris 3, Strindberg 14; round 11: Archer's Ibsen 11; round 10: Ryder 5, Gertrude Bell 1, Levy Nietzsche 15; round 9, Scott Moncrieff: 9; Ransome translations, 2026-10-10: 2; rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11; round 7: 12; round 8: 8 — Symonds 3, Blackie 2, Theodore Martin 1, Hearn 2). **11 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -154,3 +154,7 @@ Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. **Your call
 Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Your call:** Pickthall passes only through a `_rights_checked` override, the same one Swallows and Amazons needed, because fetch_shelf still treats 1930 as in copyright (Lane A's file; I flagged this to the coordinator). Unlike Swallows and Amazons, this scan is a 1930 printing, so there is no later-printing question. Still pending: Archer's Ibsen vol. 12, because archive.org keeps returning errors for that file.
+
+## Fix: Volsunga Saga overlap (2026-10-10)
+
+In round 12 I shelved Magnússon and Morris's *Volsunga Saga* (PG 1152), which Lane D has held on `poetic-edda_shelf.json` since October 3. I missed it in my overlap check. It is now a cross-reference (`held_in`) on `morris-magnusson`, and the duplicate source is gone. Re-verified: 0 mismatched.
