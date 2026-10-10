@@ -9180,6 +9180,16 @@ Shelf: `pipeline/mary-martha-sherwood_shelf.json` (2026-10-02; added at the coor
 | The Wishing Cap | have | PG 63295, `msherwood-wishing-cap` (58 units) |
 | Soffrona and Her Cat Muff | have | PG 58754, `msherwood-soffrona` (56 units) |
 
+## Mrs. O. F. Walton
+
+Shelf: `pipeline/mrs-o-f-walton_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Three evangelical children's stories; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Christie's Old Organ | have | PG 21997, `ofwalton-christies-old-organ` (650 units) |
+| Christie, the King's Servant | have | PG 10728, `ofwalton-christie-the-kings-servant` (667 units) |
+| A Peep Behind the Scenes | have | PG 7437, `ofwalton-peep-behind-the-scenes` (1729 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

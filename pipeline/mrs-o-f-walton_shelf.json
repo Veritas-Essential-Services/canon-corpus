@@ -1,0 +1,87 @@
+{
+ "_about": "Mrs. O. F. Walton's evangelical children's stories: Christie's Old Organ, its sequel Christie, the King's Servant, and A Peep Behind the Scenes (all undated in the text). Gutenberg catalogue: Walton 1849-1939. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Mrs. O. F. Walton",
+ "_name_words": [
+  "christie"
+ ],
+ "_surname": [
+  "mrs. o. f. walton",
+  "o. f. walton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ofwalton-christies-old-organ": [
+   21997,
+   "Christie's Old Organ",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.$",
+    "front": true
+   }
+  ],
+  "ofwalton-christie-the-kings-servant": [
+   10728,
+   "Christie, the King's Servant",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXL]+$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I$",
+    "front": true
+   }
+  ],
+  "ofwalton-peep-behind-the-scenes": [
+   7437,
+   "A Peep Behind the Scenes",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "ofwalton-christies-old-organ": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mrs. o. f. walton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ofwalton-christie-the-kings-servant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mrs. o. f. walton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ofwalton-peep-behind-the-scenes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mrs. o. f. walton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

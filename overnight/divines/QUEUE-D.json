@@ -2153,8 +2153,10 @@
     {
       "id": "mrs-o-f-walton",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: mrs-o-f-walton; no minting",
-      "status": "running",
-      "started": "2026-10-10T09:56:24-05:00"
+      "status": "done",
+      "started": "2026-10-10T09:56:24-05:00",
+      "finished": "2026-10-10T10:14:14-05:00",
+      "notes": "3/3 fetched (Gutenberg 21997, 10728, 7437), 3,046 units, 0 ~2 ids."
     }
   ]
 }
