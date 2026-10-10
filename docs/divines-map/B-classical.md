@@ -2871,6 +2871,9 @@ Shelf: `pipeline/gladstone-homer_shelf.json`. William Ewart Gladstone (1809-1898
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Studies on Homer and the Homeric Age, vol. 1 |  | `gladstone-studies-homer-v1` | have (PG 47356) |
+| Studies on Homer and the Homeric Age, vol. 2 |  | `gladstone-studies-homer-v2` | have (PG 49858) |
+| Studies on Homer and the Homeric Age, vol. 3 |  | `gladstone-studies-homer-v3` | have (PG 53004) |
 
 ## H. B. Walters (scholarship)
 
