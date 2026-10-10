@@ -3197,6 +3197,7 @@ Shelf: `pipeline/w-t-arnold_shelf.json`. The Roman System of Provincial Administ
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Roman System of Provincial Administration to the Accession of Constantine the Great (Macmillan, 1879) |  | `w-t-arnold-roman-provincial-administration-1879` | have-raw (IA `romansystemofpro00arnoiala`) |
 
 ## H. F. Pelham (scholarship)
 
