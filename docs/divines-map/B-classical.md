@@ -3327,6 +3327,7 @@ Shelf: `pipeline/peck_shelf.json`. Harper's Dictionary of Classical Literature a
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Harper's Dictionary of Classical Literature and Antiquities, ed. Harry Thurston Peck (New York: Harper, 1898) |  | `peck-harpers-dictionary-classical-1898` | have-raw (IA `cu31924027019482`) |
 
 ## H. G. Liddell (scholarship)
 
