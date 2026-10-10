@@ -2846,6 +2846,7 @@ Shelf: `pipeline/mau_shelf.json`. August Mau (1840-1909) in English, tr. Francis
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Pompeii, Its Life and Art | Francis W. Kelsey | `mau-pompeii-life-and-art` | have (PG 42715) |
 
 ## Harold North Fowler (scholarship)
 
