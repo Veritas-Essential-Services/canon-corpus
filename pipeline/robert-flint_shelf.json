@@ -1,0 +1,141 @@
+{
+ "_about": "Public-domain Robert Flint (1838-1910, Church of Scotland, Edinburgh) for the Word Hoard: Theism, the Baird Lecture for 1876 (Project Gutenberg, first edition 1877), and from Internet Archive scans Anti-Theistic Theories (1879), Agnosticism (1903), Christ's Kingdom upon Earth (1865), Christian Unity (1878), Sermons and Addresses (1899) and On Theological, Biblical, and Other Subjects (1905). His philosophy-of-history volumes are alternates. Added 2026-10-10 by lane A, round 19 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "flint",
+  "robert"
+ ],
+ "_surname": [
+  "robert flint",
+  "flint, robert",
+  "robert flint, d.d.",
+  "rev. robert flint",
+  "robert flint, d.d., ll.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "flint-theism": [
+   "45850",
+   "Theism, being the Baird Lecture for 1876 (Edinburgh and London: William Blackwood, MDCCCLXXVII)"
+  ]
+ },
+ "internet_archive": {
+  "flint-anti-theistic": [
+   "antitheistictheo00flinuoft",
+   "Anti-Theistic Theories, being the Baird Lecture for 1877 (Edinburgh and London: Blackwood, MDCCCLXXIX)"
+  ],
+  "flint-agnosticism": [
+   "agnosticism00flinuoft",
+   "Agnosticism, the Croall Lecture for 1887-88 (Edinburgh and London: Blackwood, MCMIII)"
+  ],
+  "flint-christs-kingdom": [
+   "christskingdomup00flin",
+   "Christ's Kingdom upon Earth: A Series of Discourses (Edinburgh and London: Blackwood, MDCCCLXV)"
+  ],
+  "flint-christian-unity": [
+   "cihm_07120",
+   "Christian Unity: A Sermon at the First General Presbyterian Council (Montreal: A. A. Stevenson, 1878)"
+  ],
+  "flint-sermons-addresses": [
+   "sermonsaddresses0000flin",
+   "Sermons and Addresses (Edinburgh and London: Blackwood, MDCCCXCIX)"
+  ],
+  "flint-theological-subjects": [
+   "ontheologicalbib00flin",
+   "On Theological, Biblical, and Other Subjects (Edinburgh and London: Blackwood, MCMV)"
+  ]
+ },
+ "_alternates": {
+  "flint-philosophy-history": "The Philosophy of History in Europe, vol. 1 (1874; IA philosophyofhist00flin_0) and History of the Philosophy of History (1893; historicalphilos00flinuoft): philosophy of history",
+  "flint-theism-editions": "Theism, later editions 1878-1918 (IA theism0000robe 2nd ed. and many others)",
+  "flint-anti-theistic-editions": "Anti-Theistic Theories, later editions 1880-1917",
+  "flint-agnosticism-copies": "Agnosticism, Scribner 1903 and 1908"
+ },
+ "_excluded": {
+  "flint-others": "Janet's Final Causes (preface only), Kinross's Dogma in Religion (note only), Lorimer's collection",
+  "flint-out-of-scope": "Socialism, Vico, Philosophy as Scientia Scientiarum, a French translation",
+  "flint-reprints": "Arno Press 1975-79 reprints",
+  "flint-notes": "manuscript lecture notes"
+ },
+ "_rights_checked": {
+  "flint-sermons-addresses": "title page read: Blackwood, MDCCCXCIX; author died 1910"
+ },
+ "_checks": {
+  "flint-theism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert flint",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flint-anti-theistic": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert flint",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "flint-agnosticism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert flint",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "flint-christs-kingdom": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "flint, robert",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "flint-christian-unity": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert flint",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "flint-sermons-addresses": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert flint",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Blackwood, MDCCCXCIX; author died 1910"
+  },
+  "flint-theological-subjects": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert flint",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

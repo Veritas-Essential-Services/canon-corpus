@@ -3503,6 +3503,28 @@ Slugs `forsyth-*`. Congregationalist theologian of the cross. Twenty-four dated 
 | Independent Press reissues (1946-1957) and later reprints | excluded | |
 | modern LaTeX retypesets | excluded | |
 | single journal-article scans in the experientialtheology collection: no title pages | excluded | |
+
+## Robert Flint (round 19, my pick, 2026-10-10)
+
+Slugs `flint-*`. Edinburgh apologist. Theism from Gutenberg (first edition) and six books from IA; philosophy of history is alternates.
+
+| Work | Status | Where |
+|---|---|---|
+| Theism, being the Baird Lecture for 1876 (Edinburgh and London: William Blackwood, MDCCCLXXVII) | have-clean | Gutenberg 45850 |
+| Anti-Theistic Theories, being the Baird Lecture for 1877 (Edinburgh and London: Blackwood, MDCCCLXXIX) | have-ocr | IA `antitheistictheo00flinuoft` |
+| Agnosticism, the Croall Lecture for 1887-88 (Edinburgh and London: Blackwood, MCMIII) | have-ocr | IA `agnosticism00flinuoft` |
+| Christ's Kingdom upon Earth: A Series of Discourses (Edinburgh and London: Blackwood, MDCCCLXV) | have-ocr | IA `christskingdomup00flin` |
+| Christian Unity: A Sermon at the First General Presbyterian Council (Montreal: A. A. Stevenson, 1878) | have-ocr | IA `cihm_07120` |
+| Sermons and Addresses (Edinburgh and London: Blackwood, MDCCCXCIX) | have-ocr | IA `sermonsaddresses0000flin` |
+| On Theological, Biblical, and Other Subjects (Edinburgh and London: Blackwood, MCMV) | have-ocr | IA `ontheologicalbib00flin` |
+| The Philosophy of History in Europe, vol. 1 (1874; IA philosophyofhist00flin_0) and History of the Philosophy of History (1893; historicalphilos00flinuoft): philosophy of history | alternate | not shelved |
+| Theism, later editions 1878-1918 (IA theism0000robe 2nd ed. and many others) | alternate | not shelved |
+| Anti-Theistic Theories, later editions 1880-1917 | alternate | not shelved |
+| Agnosticism, Scribner 1903 and 1908 | alternate | not shelved |
+| Janet's Final Causes (preface only), Kinross's Dogma in Religion (note only), Lorimer's collection | excluded | |
+| Socialism, Vico, Philosophy as Scientia Scientiarum, a French translation | excluded | |
+| Arno Press 1975-79 reprints | excluded | |
+| manuscript lecture notes | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
