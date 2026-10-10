@@ -3031,6 +3031,22 @@ Slugs `gaebelein-*`. Held to printings before 1930. Five Gutenberg texts and 31 
 | IA bwb_C0-ALM-289 (Loizeaux 1961), actsofapostles0000arno_q5g8 (Loizeaux reprint), annotatedbibleho0001arno (posthumous reprint), the 1943 history of the Scofield Reference Bible | excluded | |
 | IA gospelofjohn0000gaeb: actually the Moffatt commentary | excluded | |
 | Raimund and Richard Gaebelein | excluded | |
+
+## Arthur W. Pink (round 18, my pick, 2026-10-10)
+
+Slugs `pink-*`. Held to printings before 1930: four CCEL texts with dated print sources (1917-1923) and the second edition of The Sovereignty of God. CCEL's own Sovereignty is a post-1949 text and is left out.
+
+| Work | Status | Where |
+|---|---|---|
+| The Divine Inspiration of the Bible (CCEL; published Swengel, PA: Bible Truth Depot, 1917) | have-clean | CCEL p/pink/inspiration |
+| The Redeemer's Return (CCEL; published Swengel, PA: Bible Truth Depot, 1918) | have-clean | CCEL p/pink/return |
+| Why Four Gospels? (CCEL; published Swengel, PA: Bible Truth Depot, 1921) | have-clean | CCEL p/pink/gospels |
+| The Antichrist (CCEL; dated 1923, print source not stated) | have-clean | CCEL p/pink/antichrist |
+| The Sovereignty of God, second edition, with the forewords to the first (1918) and second editions (Swengel, Pa.: Bible Truth Depot; copyright 1918; second-edition foreword dated c. 1921 by OCR) | have-ocr | IA `sovereigntyofgod00pink_0` |
+| Scans of the CCEL texts: Divine Inspiration (IA divineinspiratio00pink, 1917), Redeemer's Return (redeemersreturn0000arth, 1918), Why Four Gospels? (whyfourgospels00pink, 1921) | alternate | not shelved |
+| CCEL pink/sovereignty: carries the third and fourth edition forewords and mentions 1949; a post-1930 text | excluded | |
+| CCEL pink/comfort: preface signed 1952 | excluded | |
+| Zondervan, Moody, Banner of Truth, Baker and later printings, and The Attributes of God (1930) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

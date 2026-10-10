@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain Arthur W. Pink (1886-1952) for the Word Hoard, held to works printed before 1930: The Divine Inspiration of the Bible (1917), The Redeemer's Return (1918), Why Four Gospels? (1921) and The Antichrist (1923) from CCEL, and The Sovereignty of God (second edition, c. 1921) from an Internet Archive scan. CCEL's Sovereignty and Comfort for Christians are later texts and are left out. Added 2026-10-10 by lane A, round 18 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "p/pink",
+ "_name_words": [
+  "pink"
+ ],
+ "_surname": [
+  "arthur w. pink",
+  "pink, arthur w.",
+  "a. w. pink",
+  "arthur walkington pink"
+ ],
+ "_held": {},
+ "ccel": {
+  "pink-inspiration": [
+   "inspiration",
+   "The Divine Inspiration of the Bible (CCEL; published Swengel, PA: Bible Truth Depot, 1917)",
+   ""
+  ],
+  "pink-redeemers-return": [
+   "return",
+   "The Redeemer's Return (CCEL; published Swengel, PA: Bible Truth Depot, 1918)",
+   ""
+  ],
+  "pink-why-four-gospels": [
+   "gospels",
+   "Why Four Gospels? (CCEL; published Swengel, PA: Bible Truth Depot, 1921)",
+   ""
+  ],
+  "pink-antichrist": [
+   "antichrist",
+   "The Antichrist (CCEL; dated 1923, print source not stated)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "pink-sovereignty-1921": [
+   "sovereigntyofgod00pink_0",
+   "The Sovereignty of God, second edition, with the forewords to the first (1918) and second editions (Swengel, Pa.: Bible Truth Depot; copyright 1918; second-edition foreword dated c. 1921 by OCR)"
+  ]
+ },
+ "_alternates": {
+  "pink-scans": "Scans of the CCEL texts: Divine Inspiration (IA divineinspiratio00pink, 1917), Redeemer's Return (redeemersreturn0000arth, 1918), Why Four Gospels? (whyfourgospels00pink, 1921)"
+ },
+ "_excluded": {
+  "pink-ccel-sovereignty": "CCEL pink/sovereignty: carries the third and fourth edition forewords and mentions 1949; a post-1930 text",
+  "pink-ccel-comfort": "CCEL pink/comfort: preface signed 1952",
+  "pink-late-printings": "Zondervan, Moody, Banner of Truth, Baker and later printings, and The Attributes of God (1930)"
+ },
+ "_pending": {
+  "pink-kingdom-heaven": "The Kingdom of Heaven (IA kingdomofheaveni00pink, Our Hope, no year): IA's 1906 date is doubtful",
+  "pink-gleanings-genesis": "Gleanings in Genesis vols. 1-2 (IA gleaningsingenes0000arth_u7s7, bwb_Y0-CHU-809): copyright 1922 but no printing year; may be 1930s printings",
+  "pink-ccel-undated": "CCEL pink/law (Reiner reprint, no year), pink/godhood, pink/just, pink/tithing: no dated print source"
+ },
+ "_checks": {
+  "pink-inspiration": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur w. pink",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Swengel, PA: Bible Truth Depot, 1917",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "pink-redeemers-return": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur w. pink",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Swengel, PA: Bible Truth Depot, 1918",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "pink-why-four-gospels": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur w. pink",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Swengel, PA: Bible Truth Depot, 1921",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "pink-antichrist": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur w. pink",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "pink-sovereignty-1921": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur w. pink",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
