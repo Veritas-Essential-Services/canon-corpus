@@ -3219,6 +3219,60 @@ Slugs `simpson-*`. Founder of the Christian and Missionary Alliance. Every Chris
 | Christian Publications, Inc. (Harrisburg) printings: post-1930 reprints, whatever IA's 1886 date says | excluded | |
 | 1974 and later reprints | excluded | |
 | Albert F. Simpson and other namesakes | excluded | |
+
+## A. T. Pierson (round 18, my pick, 2026-10-10)
+
+Slugs `pierson-*`. Presbyterian missions leader. Works he only edited or introduced are alternates or excluded; CCEL's Müller has no text file, so Gutenberg's is used.
+
+| Work | Status | Where |
+|---|---|---|
+| George Müller of Bristol, and His Witness to a Prayer-Hearing God (New York: Fleming H. Revell; copyright 1899 Baker and Taylor) | have-clean | Gutenberg 26522 |
+| The Crisis of Missions; or, The Voice out of the Cloud (New York: Robert Carter and Brothers, copyright 1886) | have-ocr | IA `crisisofmissions00pier` |
+| Many Infallible Proofs: The Evidences of Christianity (New York, Chicago, Toronto: Fleming H. Revell; entered 1886) | have-ocr | IA `manyinfalliblepr00pier` |
+| Keys to the Word; or, Help to Bible Study (New York: Anson D. F. Randolph, copyright 1887) | have-ocr | IA `keystowordorhelp00pier` |
+| Evangelistic Work in Principle and Practice (New York: Baker and Taylor, copyright 1887) | have-ocr | IA `evangelisticwork00pier` |
+| The Claim of the Bible to be the Word of God Tested and Vindicated, an address (Toronto: C. Blackett Robinson, 1889) | have-ocr | IA `cihm_90155` |
+| The Divine Enterprise of Missions (New York: Baker and Taylor, copyright 1891) | have-ocr | IA `divineenterprise00pieruoft` |
+| Stumbling Stones Removed from the Word of God (New York: Baker and Taylor, copyright 1891) | have-ocr | IA `stumblingstonesr01pier` |
+| The Miracles of Missions, first series (New York: Funk & Wagnalls; entered 1891) | have-ocr | IA `miraclesofmissiommh00pier` |
+| The Miracles of Missions, second series (New York: Funk & Wagnalls, 1895) | have-ocr | IA `miraclesofmissio0000pier` |
+| The Miracles of Missions, third series (New York: Funk & Wagnalls, 1899) | have-ocr | IA `miraclesofmissio00pier` |
+| The Miracles of Missions, fourth series (New York: Funk & Wagnalls, 1901) | have-ocr | IA `miraclesofmissio0000arth_e5f9` |
+| The Greatest Work in the World (New York and Chicago: Fleming H. Revell, copyright 1891) | have-ocr | IA `greatestworkinwo00pier` |
+| The Heart of the Gospel, sermons preached in the Metropolitan Tabernacle (New York: Baker and Taylor, copyright 1892) | have-ocr | IA `heartofgospel0000arth` |
+| The Divine Art of Preaching (New York: Baker and Taylor; no year read, catalogued 1892) | have-ocr | IA `divineartofpreac00pier` |
+| Love in Wrath, or, The Perfection of God's Judgments (New York: Baker and Taylor, 1892) | have-ocr | IA `loveinwrathorper00pier` |
+| The New Acts of the Apostles; or, The Marvels of Modern Missions (New York: Baker and Taylor, copyright 1894) | have-ocr | IA `newactsofapostle1894pier` |
+| Lessons in the School of Prayer (New York: Anson D. F. Randolph, 1897; copyright 1895) | have-ocr | IA `lessonsinschoolo00pier` |
+| Life-Power; or, Character, Culture and Conduct (New York, Chicago, Toronto: Fleming H. Revell, copyright 1895) | have-ocr | IA `lifepowerorchar00piergoog` |
+| The Acts of the Holy Spirit (New York, Chicago, Toronto: Fleming H. Revell, copyright 1895) | have-ocr | IA `actsofholyspirit0000pier_h1n3` |
+| Seven Years in Sierra Leone: The Story of the Work of William A. B. Johnson (New York: Fleming H. Revell, copyright 1897) | have-ocr | IA `sevenyearsinsier00pier` |
+| Shall We Continue in Sin? (New York: Baker and Taylor, copyright 1897) | have-ocr | IA `shallwecontinuei01pier` |
+| Sketch of the Life of the Hon. Ion Keith-Falconer (New York: The Arabian Mission; no year on title page, catalogued 1897) | have-ocr | IA `sketchoflifeofho00pier` |
+| In Christ Jesus, or, The Sphere of the Believer's Life (New York and London: Funk & Wagnalls, 1898) | have-ocr | IA `inchristjesusors00pier` |
+| Catharine of Siena, an Ancient Lay Preacher (New York and London: Funk & Wagnalls, 1898) | have-ocr | IA `CatharineOfSiena` |
+| Forward Movements of the Last Half Century (New York and London: Funk & Wagnalls, 1900) | have-ocr | IA `forwardmovements00pier` |
+| Seed Thoughts for Public Speakers (New York: Funk & Wagnalls; no year on title page, catalogued 1900) | have-ocr | IA `cu31924027666118` |
+| The Spirit's Voice to the Churches (London: Marshall Brothers; no year on title page, catalogued 1900) | have-ocr | IA `spiritsvoicetoch00pier` |
+| The Modern Mission Century Viewed as a Cycle of Divine Working (New York: Baker and Taylor, copyright 1901) | have-ocr | IA `modernmissioncen00pier` |
+| The Gordian Knot, or, The Problem Which Baffles Infidelity (New York and London: Funk & Wagnalls, 1902) | have-ocr | IA `gordianknot0000arth` |
+| The Keswick Movement in Precept and Practise (New York and London: Funk & Wagnalls, 1903) | have-ocr | IA `MN41537ucmf_0` |
+| God's Living Oracles (New York: Baker and Taylor, copyright 1904) | have-ocr | IA `godslivingoracle00pier` |
+| The Believer's Life: Its Past, Present, and Future Tenses (London: Morgan and Scott, 1905) | have-ocr | IA `believerslifeits00pier` |
+| The Bible and Spiritual Criticism (New York: Baker and Taylor, copyright 1905) | have-ocr | IA `bwb_P8-ABV-663` |
+| James Wright of Bristol: A Memorial of a Fragrant Life (London: James Nisbet, 1906) | have-ocr | IA `cu31924012524470` |
+| The Making of a Sermon, second edition, revised and enlarged (New York: Gospel Publishing House, copyright 1907) | have-ocr | IA `makingofsermon0000arth_y9l3` |
+| A Spiritual Clinique: Four Bible Readings Given at Keswick in 1907 (New York: Gospel Publishing House; no year on title page, catalogued 1907) | have-ocr | IA `spiritualcliniqu00pier` |
+| Knowing the Scriptures: Rules and Methods of Bible Study (New York: Gospel Publishing House, copyright 1910) | have-ocr | IA `knowingscripture00pier` |
+| The Bible and Spiritual Life (Los Angeles: Biola Book Room, copyright 1923) | have-ocr | IA `biblespiritualli00pier` |
+| Works he edited with others: The Inspired Word (1888; IA inspiredwordseri00biblrich), The One Gospel, a harmony of the Gospels (1889; onegospelorcombi00pier), From the Pulpit to the Palm-Branch, a Spurgeon memorial with five of his sermons (1892; frompulpittopalm00pier) | alternate | not shelved |
+| The Huguenot College and Seminaries, South Africa (pamphlet, 1894; IA huguenotcollegea00pier) | alternate | not shelved |
+| George Müller of Bristol, scan (IA cu31924011505900, 1899) | alternate | not shelved |
+| The Coronation Hymnal, with A. J. Gordon (1894): on the A. J. Gordon shelf as an alternate | alternate | not shelved |
+| CCEL pierson/mueller: no ThML and no print basis; the Gutenberg text is preferred | excluded | |
+| Zondervan reprints and 1931-1990s printings | excluded | |
+| Books where he wrote only an introduction or essay (Paton, Brainerd, Liggins, Angus) and Maclean's book about him | excluded | |
+| Zachariah Chandler memorials (1879-80) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

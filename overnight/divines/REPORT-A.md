@@ -856,3 +856,6 @@
 
 ## 2026-10-10 12:25 CDT — a-b-simpson done
 - `pipeline/a-b-simpson_shelf.json`: 0 CCEL, 1 PG, 35 IA. Title pages read for simpson-christ-bible-tabernacle, simpson-divine-emblems (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:25 CDT — a-t-pierson done
+- `pipeline/a-t-pierson_shelf.json`: 0 CCEL, 1 PG, 38 IA. Title pages read for pierson-greatest-work, pierson-life-power (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
