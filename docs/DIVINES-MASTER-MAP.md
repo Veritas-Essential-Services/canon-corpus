@@ -2863,6 +2863,21 @@ Slugs `parker-*`. Of the City Temple, London. The full 27-volume New York People
 | IA genesispeoplesbi0000jose (1951), parkerspeoplesbi0015jose (1941), parkerspeoplesbi0000jose (1945): post-1930 reprints | excluded | |
 | Claremont People's Bible copies with no volume on the title page (_m4e9, _l6l5, _b7v1, _z6c9, _s5o5) | excluded | |
 | PG 54736: an anthology of Moody, Talmage and Parker, not a Parker book | excluded | |
+
+## Christmas Evans (round 17, my pick, 2026-10-10)
+
+Slugs `evans-*`. Welsh Baptist. One book of his own (Sermons, in English translation, 1857) and three biographies by other hands; no translator is claimed.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons of Christmas Evans: A New Translation from the Welsh, with a Memoir and Portraiture of the Author by Joseph Cross (Philadelphia: Leary & Getz, 1857) | have-clean | Gutenberg 42340 |
+| Christmas Evans, the Preacher of Wild Wales, by Edwin Paxton Hood (biography; transcribed from the London: Hodder and Stoughton 3rd ed., 1888) | have-clean | Gutenberg 41480 |
+| Memoirs of the Late Christmas Evans, of Wales, by David Rhys Stephen (biography; London: Aylott and Jones, 1847) | have-ocr | IA `memoirslatechri00stepgoog` |
+| Memoir of the Life, Labors, and Extensive Usefulness of the Rev. Christmas Evans, by D. Phillips (biography; catalogued New York: M. W. Dodd, 1843) | have-ocr | IA `reverendevens00philuoft` |
+| Sermons, same Cross edition, scan (IA cu31924032172466); also Richmond: John Early, 1850 (IA sermonsofchristm01evan) | alternate | not shelved |
+| IA sermonsmemoirsof0000evan (Kregel 1986) and christmasevans0000unse (1938): after 1930 | excluded | |
+| IA wg35-5-41/42: 1838 Welsh elegies, 4 pages | excluded | |
+| IA sermonsofchristm00evan_1 (1848): returned 500, unverified | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
