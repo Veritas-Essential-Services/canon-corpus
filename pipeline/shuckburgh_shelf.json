@@ -1,0 +1,30 @@
+{
+ "_about": "Evelyn Shirley Shuckburgh (1843-1906). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Augustus: the Life and Times of the Founder of the Roman Empire, clean Gutenberg. His translations (Polybius, Cicero's letters) are on those shelves. No uids minted.",
+ "_name_words": [
+  "shuckburgh"
+ ],
+ "_surname": [
+  "evelyn s. shuckburgh",
+  "evelyn shirley shuckburgh",
+  "shuckburgh, evelyn"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "shuckburgh-augustus": [
+   66609,
+   "Augustus: the Life and Times of the Founder of the Roman Empire"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "shuckburgh-augustus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "evelyn s. shuckburgh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

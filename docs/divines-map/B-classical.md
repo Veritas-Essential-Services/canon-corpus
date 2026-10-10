@@ -2906,6 +2906,7 @@ Shelf: `pipeline/shuckburgh_shelf.json`. Evelyn Shirley Shuckburgh (1843-1906): 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Augustus: the Life and Times of the Founder of the Roman Empire |  | `shuckburgh-augustus` | have (PG 66609) |
 
 ## Gaston Boissier (scholarship)
 
