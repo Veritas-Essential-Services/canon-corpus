@@ -806,6 +806,7 @@ Shelf: `pipeline/plutarch_shelf.json`. Translator per title. Lives complete thre
 | Tiberius and Caius Gracchus | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-tiberius-and-caius-gracchus` | have (Perseus TEI `tlg0007.tlg052.perseus-eng1`; markup CC BY-SA 4.0) |
 | Timoleon | Bernadotte Perrin (1918) | `plutarch-perseus-perrin-timoleon` | have (Perseus TEI `tlg0007.tlg018.perseus-eng2`; markup CC BY-SA 4.0) |
 | Titus Flamininus | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-titus-flamininus` | have (Perseus TEI `tlg0007.tlg028.perseus-eng2`; markup CC BY-SA 4.0) |
+| Greek Lives from Plutarch, newly translated (London: Edward Arnold, 1907): Theseus, Lycurgus, Aristides, Themistocles, Pericles, Alcibiades, Dion, Demosthenes, Alexander | C. E. Byles | `plutarch-byles-greek-lives-1907` | have-raw (IA `greeklivesfrompl00plutuoft`) |
 
 Pending (wishlist): Philemon Holland's Morals (1603) is held above from the UC San Diego copy (OCR 0.90-0.92, old spelling); Babbitt's Moralia vols. 3 on (1931-) are after the 1930 line. Perrin's Lives are on PR #7 as Perseus TEI.
 

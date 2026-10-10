@@ -154,6 +154,11 @@
    "plutarchhollandmorals02",
    "The Philosophie, commonlie called, The Morals (London, 1603), second part of the scan (from the Symposiaques)",
    "tr. Philemon Holland"
+  ],
+  "plutarch-byles-greek-lives-1907": [
+   "greeklivesfrompl00plutuoft",
+   "Greek Lives from Plutarch, newly translated (London: Edward Arnold, 1907): Theseus, Lycurgus, Aristides, Themistocles, Pericles, Alcibiades, Dion, Demosthenes, Alexander",
+   "tr. C. E. Byles"
   ]
  },
  "_cross_ref": {
@@ -754,7 +759,8 @@
   "plutarch-perseus-perrin-theseus": "Bernadotte Perrin",
   "plutarch-perseus-perrin-tiberius-and-caius-gracchus": "Bernadotte Perrin",
   "plutarch-perseus-perrin-timoleon": "Bernadotte Perrin",
-  "plutarch-perseus-perrin-titus-flamininus": "Bernadotte Perrin"
+  "plutarch-perseus-perrin-titus-flamininus": "Bernadotte Perrin",
+  "plutarch-byles-greek-lives-1907": "c. e. byles"
  },
  "_translator_unchecked": {
   "plutarch-goodwin-moralia-v1": "no single translator to check: several hands, ed. William W. Goodwin (1870)",
@@ -771,7 +777,7 @@
  "_checks": {
   "plutarch-stewart-long-lives-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "Aubrey Stewart",
@@ -783,7 +789,7 @@
   },
   "plutarch-stewart-long-lives-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "Aubrey Stewart",
@@ -795,7 +801,7 @@
   },
   "plutarch-stewart-long-lives-v3": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "Aubrey Stewart",
@@ -807,7 +813,7 @@
   },
   "plutarch-stewart-long-lives-v4": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "Aubrey Stewart",
@@ -819,7 +825,7 @@
   },
   "plutarch-goodwin-moralia-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "identity": "ok",
@@ -828,7 +834,7 @@
   },
   "plutarch-goodwin-moralia-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "identity": "ok",
@@ -837,7 +843,7 @@
   },
   "plutarch-goodwin-moralia-v3": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "identity": "ok",
@@ -846,7 +852,7 @@
   },
   "plutarch-goodwin-moralia-v4": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "identity": "ok",
@@ -855,7 +861,7 @@
   },
   "plutarch-goodwin-moralia-v5": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "identity": "ok",
@@ -864,7 +870,7 @@
   },
   "plutarch-shilleto-morals": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "A. R. Shilleto",
@@ -876,7 +882,7 @@
   },
   "plutarch-holland-roman-questions": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "Philemon Holland",
@@ -888,7 +894,7 @@
   },
   "plutarch-peabody-delay": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "Andrew P. Peabody",
@@ -900,7 +906,7 @@
   },
   "plutarch-tucker-essays": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "T. G. Tucker",
@@ -912,7 +918,7 @@
   },
   "plutarch-prickard-essays": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "A. O. Prickard",
@@ -924,7 +930,7 @@
   },
   "plutarch-north-lives-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "Thomas North",
@@ -937,7 +943,7 @@
   },
   "plutarch-north-lives-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "Thomas North",
@@ -950,7 +956,7 @@
   },
   "plutarch-north-lives-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarke",
    "identity": "ok",
@@ -961,7 +967,7 @@
   },
   "plutarch-north-lives-v4": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarke",
    "translator_claimed": "Thomas North",
@@ -974,7 +980,7 @@
   },
   "plutarch-north-lives-v5": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "Thomas North",
@@ -987,7 +993,7 @@
   },
   "plutarch-north-lives-v6": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "Thomas North",
@@ -1000,7 +1006,7 @@
   },
   "plutarch-langhorne-lives-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "William Langhorne",
@@ -1013,7 +1019,7 @@
   },
   "plutarch-langhorne-lives-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "langhorne",
@@ -1026,7 +1032,7 @@
   },
   "plutarch-langhorne-lives-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "William Langhorne",
@@ -1039,7 +1045,7 @@
   },
   "plutarch-langhorne-lives-v4": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "William Langhorne",
@@ -1052,7 +1058,7 @@
   },
   "plutarch-langhorne-lives-v5": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "William Langhorne",
@@ -1065,7 +1071,7 @@
   },
   "plutarch-langhorne-lives-v6": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "William Langhorne",
@@ -1078,7 +1084,7 @@
   },
   "plutarch-holland-morals-1603-part1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "translator_claimed": "philémon holland",
@@ -1092,7 +1098,7 @@
   },
   "plutarch-holland-morals-1603-part2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plutarch",
    "title_weak": true,
@@ -1100,6 +1106,19 @@
    "ia_rights": "ok: published 1603",
    "ia_date": "1603",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "plutarch-byles-greek-lives-1907": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "plutarch",
+   "translator_claimed": "c. e. byles",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "[1907]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
