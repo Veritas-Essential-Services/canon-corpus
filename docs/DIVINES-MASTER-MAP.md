@@ -8412,6 +8412,146 @@ Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `eleanor-grove-ebers-an-egyptian-princess-complete` | Georg Ebers | An Egyptian Princess — Complete | Eleanor Grove | 1880 (see the Gutenberg header) | have | PG 5460 |
 | — | — | volumes: The ten Gutenberg part-files are left out; the complete text (5460) is used. | — | — | excluded | — |
 
+## Lady Mary Loyd (Mérimée, Stendhal's Chartreuse of Parma)
+
+Shelf: `pipeline/mary-loyd_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mary-loyd` · titles `python3 pipeline/split_shelf_titles.py mary-loyd`.
+Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `mary-loyd-joinville-memoirs` | François d'Orléans, Prince de Joinville | Memoirs (Vieux Souvenirs) of the Prince de Joinville | Lady Mary Loyd | 1895-1905 (see the Gutenberg header) | have | PG 5716 |
+| `mary-loyd-merimee-carmen` | Prosper Mérimée | Carmen | Lady Mary Loyd | 1895-1905 (see the Gutenberg header) | have | PG 2465 |
+| `mary-loyd-merimee-colomba` | Prosper Mérimée | Colomba | Lady Mary Loyd | 1895-1905 (see the Gutenberg header) | have | PG 2708 |
+| `mary-loyd-stendhal-the-chartreuse-of-parma` | Stendhal | The Chartreuse of Parma | Lady Mary Loyd | 1895-1905 (see the Gutenberg header) | have | PG 57638 |
+
+## H. E. Krehbiel (Thayer's Life of Beethoven; Kerst's Mozart)
+
+Shelf: `pipeline/krehbiel_shelf.json` · fetch `python3 pipeline/fetch_shelf.py krehbiel` · titles `python3 pipeline/split_shelf_titles.py krehbiel`.
+Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `krehbiel-kerst-mozart-the-man-and-the-artist` | Wolfgang Amadeus Mozart | Mozart: The Man and the Artist, as Revealed in His Own Words | Henry Edward Krehbiel | 1905-1921 (see the Gutenberg header) | have | PG 4042 |
+| `krehbiel-thayer-life-of-beethoven-vol-1` | Alexander Wheelock Thayer | The Life of Ludwig van Beethoven, Volume I | Henry Edward Krehbiel | 1905-1921 (see the Gutenberg header) | have | PG 43591 |
+| `krehbiel-thayer-life-of-beethoven-vol-2` | Alexander Wheelock Thayer | The Life of Ludwig van Beethoven, Volume II | Henry Edward Krehbiel | 1905-1921 (see the Gutenberg header) | have | PG 43592 |
+| `krehbiel-thayer-life-of-beethoven-vol-3` | Alexander Wheelock Thayer | The Life of Ludwig van Beethoven, Volume III | Henry Edward Krehbiel | 1905-1921 (see the Gutenberg header) | have | PG 43593 |
+
+## Frances Cashel Hoey (Rémusat's Memoirs; Verne)
+
+Shelf: `pipeline/frances-hoey_shelf.json` · fetch `python3 pipeline/fetch_shelf.py frances-hoey` · titles `python3 pipeline/split_shelf_titles.py frances-hoey`.
+Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `frances-hoey-challamel-the-history-of-fashion-in-france` | Augustin Challamel | The history of fashion in France | Frances Cashel Hoey (with John Lillie) | 1880-1898 (see the Gutenberg header) | have | PG 76717 |
+| `frances-hoey-remusat-memoirs-vol-1` | Madame de Rémusat | Memoirs of the Empress Josephine, Vol. 1 of 2 | Frances Cashel Hoey (with John Lillie) | 1880-1898 (see the Gutenberg header) | have | PG 49175 |
+| `frances-hoey-remusat-memoirs-vol-2` | Madame de Rémusat | Memoirs of the Empress Josephine, Vol. 2 of 2 | Frances Cashel Hoey (with John Lillie) | 1880-1898 (see the Gutenberg header) | have | PG 49176 |
+| `frances-hoey-verne-an-antarctic-mystery` | Jules Verne | An Antarctic Mystery | Frances Cashel Hoey | 1880-1898 (see the Gutenberg header) | have | PG 10339 |
+
+## H. W. Dulcken (Ida Pfeiffer's travels)
+
+Shelf: `pipeline/dulcken_shelf.json` · fetch `python3 pipeline/fetch_shelf.py dulcken` · titles `python3 pipeline/split_shelf_titles.py dulcken`.
+Round 28 (2026-10-10), vetoable. His Andersen is on andersen_shelf.json. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `dulcken-pfeiffer-a-visit-to-the-holy-land-egypt-and-italy` | Ida Pfeiffer | A Visit to the Holy Land, Egypt, and Italy | H. W. Dulcken | 1852-1861 (see the Gutenberg header) | have | PG 12561 |
+| `dulcken-pfeiffer-the-last-travels-of-ida-pfeiffer-inclusi` | Ida Pfeiffer | The last travels of Ida Pfeiffer: inclusive of a visit to Madagascar, with a biographical memoir of the author | H. W. Dulcken | 1852-1861 (see the Gutenberg header) | have | PG 60474 |
+| — | — | andersen: What the Moon Saw (27000) is on andersen_shelf.json; The Nightingale (71096) is left for that shelf's owner. | — | — | excluded | — |
+
+## Edgar Prestage (Azurara's Chronicle of Guinea; Eça de Queirós)
+
+Shelf: `pipeline/prestage_shelf.json` · fetch `python3 pipeline/fetch_shelf.py prestage` · titles `python3 pipeline/split_shelf_titles.py prestage`.
+Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `prestage-queiros-our-lady-of-the-pillar` | Eça de Queirós | Our Lady of the Pillar | Edgar Prestage | 1896-1906 (see the Gutenberg header) | have | PG 56670 |
+| `prestage-queiros-the-sweet-miracle` | Eça de Queirós | The sweet miracle | Edgar Prestage | 1896-1906 (see the Gutenberg header) | have | PG 74802 |
+| `prestage-zurara-chronicle-of-guinea-vol-1` | Gomes Eannes de Zurara | The Chronicle of the Discovery and Conquest of Guinea. Vol. I | Edgar Prestage (with C. Raymond Beazley) | 1896-1906 (see the Gutenberg header) | have | PG 35738 |
+| `prestage-zurara-chronicle-of-guinea-vol-2` | Gomes Eannes de Zurara | The Chronicle of the Discovery and Conquest of Guinea. Vol. II | Edgar Prestage (with C. Raymond Beazley) | 1896-1906 (see the Gutenberg header) | have | PG 35764 |
+
+## Dorothy Bussy (Gide)
+
+Shelf: `pipeline/dorothy-bussy_shelf.json` · fetch `python3 pipeline/fetch_shelf.py dorothy-bussy` · titles `python3 pipeline/split_shelf_titles.py dorothy-bussy`.
+Round 28 (2026-10-10), vetoable. One 1930 Knopf printing. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `dorothy-bussy-gide-strait-is-the-gate-la-porte-etroite` | André Gide | Strait is the gate (La porte étroite) | Dorothy Bussy | 1924-1930 (see the Gutenberg header) | have | PG 79693 |
+| `dorothy-bussy-gide-the-counterfeiters` | André Gide | The counterfeiters | Dorothy Bussy | 1924-1930 (see the Gutenberg header) | have | PG 76965 |
+| `dorothy-bussy-gide-the-immoralist` | André Gide | The immoralist | Dorothy Bussy | 1924-1930 (see the Gutenberg header) | have | PG 78975 |
+| `dorothy-bussy-gide-the-vatican-swindle` | André Gide | The Vatican swindle | Dorothy Bussy | 1924-1930 (see the Gutenberg header) | have | PG 73838 |
+
+## M. H. Dziewicki (Reymont's The Peasants)
+
+Shelf: `pipeline/dziewicki_shelf.json` · fetch `python3 pipeline/fetch_shelf.py dziewicki` · titles `python3 pipeline/split_shelf_titles.py dziewicki`.
+Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `dziewicki-reymont-the-peasants-vol-1` | Władysław Stanisław Reymont | The peasants, [vol. 1] | Michael Henry Dziewicki | 1924-1925 (see the Gutenberg header) | have | PG 75846 |
+| `dziewicki-reymont-the-peasants-vol-2` | Władysław Stanisław Reymont | The peasants, [vol. 2] | Michael Henry Dziewicki | 1924-1925 (see the Gutenberg header) | have | PG 76328 |
+| `dziewicki-reymont-the-peasants-vol-3` | Władysław Stanisław Reymont | The peasants, [vol. 3] | Michael Henry Dziewicki | 1924-1925 (see the Gutenberg header) | have | PG 76330 |
+| `dziewicki-reymont-the-peasants-vol-4` | Władysław Stanisław Reymont | The peasants, [vol. 4] | Michael Henry Dziewicki | 1924-1925 (see the Gutenberg header) | have | PG 76329 |
+
+## Anna Swanwick (Goethe, Schiller)
+
+Shelf: `pipeline/swanwick_shelf.json` · fetch `python3 pipeline/fetch_shelf.py swanwick` · titles `python3 pipeline/split_shelf_titles.py swanwick`.
+Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `swanwick-goethe-egmont` | Johann Wolfgang von Goethe | Egmont | Anna Swanwick | 1843-1850 (see the Gutenberg header) | have | PG 1945 |
+| `swanwick-goethe-iphigenia-in-tauris` | Johann Wolfgang von Goethe | Iphigenia in Tauris | Anna Swanwick | 1843-1850 (see the Gutenberg header) | have | PG 15850 |
+| `swanwick-schiller-the-maid-of-orleans-a-tragedy` | Friedrich Schiller | The Maid of Orleans: A Tragedy | Anna Swanwick | 1843-1850 (see the Gutenberg header) | have | PG 6792 |
+
+## John Oxenford (Goethe's Autobiography; Tales from the German)
+
+Shelf: `pipeline/oxenford_shelf.json` · fetch `python3 pipeline/fetch_shelf.py oxenford` · titles `python3 pipeline/split_shelf_titles.py oxenford`.
+Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `oxenford-goethe-the-autobiography-of-goethe` | Johann Wolfgang von Goethe | The Autobiography of Goethe | John Oxenford (with A. J. W. Morrison) | 1844-1848 (see the Gutenberg header) | have | PG 52654 |
+| `oxenford-tales-from-the-german` | Various (Hauff, Hoffmann and others) | Tales from the German, comprising specimens from the most celebrated authors | John Oxenford (with C. A. Feiling) | 1844-1848 (see the Gutenberg header) | have | PG 32046 |
+| — | — | pg-5733: Truth and Fiction (5733) is Oxenford's part alone, about half the text of the full Bohn Autobiography (52654), which is used. | — | — | excluded | — |
+
+## Sir Monier Monier-Williams (Sakoontala; the Siksha-Patri)
+
+Shelf: `pipeline/monier-williams_shelf.json` · fetch `python3 pipeline/fetch_shelf.py monier-williams` · titles `python3 pipeline/split_shelf_titles.py monier-williams`.
+Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `monier-williams-kalidasa-sakoontala-or-the-lost-ring-an-indian-dr` | Kālidāsa | Sakoontala; Or, The Lost Ring: An Indian Drama | Monier Monier-Williams | 1853-1882 (see the Gutenberg header) | have | PG 12169 |
+| `monier-williams-siksha-patri` | Sahajanand Swami (the Svami-Narayana sect) | The Siksha-Patri of the Svami-Narayana Sect | Monier Monier-Williams | 1853-1882 (see the Gutenberg header) | have | PG 7261 |
+| — | — | pg-13268: Hindu Literature (Colonial Press, 1900) is a compilation of several translators (Arnold, Toru Dutt and others), not his alone. | — | — | excluded | — |
+
+## John J. Lalor (Roscher; Nohl's Mozart and Beethoven)
+
+Shelf: `pipeline/lalor_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lalor` · titles `python3 pipeline/split_shelf_titles.py lalor`.
+Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `lalor-nohl-life-of-beethoven` | Ludwig Nohl | Life of Beethoven | John J. Lalor | 1878-1881 (see the Gutenberg header) | have | PG 69693 |
+| `lalor-nohl-life-of-mozart` | Ludwig Nohl | Life of Mozart | John J. Lalor | 1878-1881 (see the Gutenberg header) | have | PG 67828 |
+| `lalor-roscher-principles-of-political-economy-vol-1` | Wilhelm Roscher | Principles of Political Economy, Vol. 1 | John J. Lalor | 1878-1881 (see the Gutenberg header) | have | PG 27698 |
+| `lalor-roscher-principles-of-political-economy-vol-2` | Wilhelm Roscher | Principles of Political Economy, Vol. 2 | John J. Lalor | 1878-1881 (see the Gutenberg header) | have | PG 38655 |
+
+## Sir Walter Armstrong (Perrot and Chipiez's histories of ancient art)
+
+Shelf: `pipeline/walter-armstrong_shelf.json` · fetch `python3 pipeline/fetch_shelf.py walter-armstrong` · titles `python3 pipeline/split_shelf_titles.py walter-armstrong`.
+Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `walter-armstrong-perrot-chipiez-art-in-ancient-egypt-vol-1` | Georges Perrot and Charles Chipiez | A History of Art in Ancient Egypt, Vol. 1 (of 2) | Walter Armstrong | 1883-1884 (see the Gutenberg header) | have | PG 40144 |
+| `walter-armstrong-perrot-chipiez-art-in-ancient-egypt-vol-2` | Georges Perrot and Charles Chipiez | A History of Art in Ancient Egypt, Vol. 2 (of 2) | Walter Armstrong | 1883-1884 (see the Gutenberg header) | have | PG 40149 |
+| `walter-armstrong-perrot-chipiez-art-in-chaldaea-assyria-vol-1` | Georges Perrot and Charles Chipiez | A history of art in Chaldæa & Assyria, Vol. 1 (of 2) | Walter Armstrong | 1883-1884 (see the Gutenberg header) | have | PG 28072 |
+| `walter-armstrong-perrot-chipiez-art-in-chaldaea-assyria-vol-2` | Georges Perrot and Charles Chipiez | A history of art in Chaldæa & Assyria, Vol. 2 (of 2) | Walter Armstrong | 1883-1884 (see the Gutenberg header) | have | PG 71842 |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

@@ -1,0 +1,128 @@
+{
+ "_about": "TRANSLATOR SHELF: Edgar Prestage (1869-1951): Azurara's Chronicle of the Discovery and Conquest of Guinea (Hakluyt Society, 1896-99, 2 vols, with C. R. Beazley) and Eça de Queirós's Our Lady of the Pillar and The Sweet Miracle (1904-06). US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted.",
+ "_name_words": [
+  "edgar prestage"
+ ],
+ "_surname": [
+  "edgar prestage"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "pre-35738": [
+   35738,
+   "The Chronicle of the Discovery and Conquest of Guinea. Vol. I"
+  ],
+  "pre-35764": [
+   35764,
+   "The Chronicle of the Discovery and Conquest of Guinea. Vol. II"
+  ],
+  "pre-56670": [
+   56670,
+   "Our Lady of the Pillar"
+  ],
+  "pre-74802": [
+   74802,
+   "The sweet miracle"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "prestage-queiros-our-lady-of-the-pillar": {
+   "source": "pre-56670",
+   "of": "Eça de Queirós",
+   "work": "Our Lady of the Pillar",
+   "translated": "1896-1906 (see the Gutenberg header)",
+   "translator": "Edgar Prestage",
+   "scan_edition": "Project Gutenberg 56670 (clean text)"
+  },
+  "prestage-queiros-the-sweet-miracle": {
+   "source": "pre-74802",
+   "of": "Eça de Queirós",
+   "work": "The sweet miracle",
+   "translated": "1896-1906 (see the Gutenberg header)",
+   "translator": "Edgar Prestage",
+   "scan_edition": "Project Gutenberg 74802 (clean text)"
+  },
+  "prestage-zurara-chronicle-of-guinea-vol-1": {
+   "source": "pre-35738",
+   "of": "Gomes Eannes de Zurara",
+   "work": "The Chronicle of the Discovery and Conquest of Guinea. Vol. I",
+   "translated": "1896-1906 (see the Gutenberg header)",
+   "translator": "Edgar Prestage (with C. Raymond Beazley)",
+   "scan_edition": "Project Gutenberg 35738 (clean text)"
+  },
+  "prestage-zurara-chronicle-of-guinea-vol-2": {
+   "source": "pre-35764",
+   "of": "Gomes Eannes de Zurara",
+   "work": "The Chronicle of the Discovery and Conquest of Guinea. Vol. II",
+   "translated": "1896-1906 (see the Gutenberg header)",
+   "translator": "Edgar Prestage (with C. Raymond Beazley)",
+   "scan_edition": "Project Gutenberg 35764 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "pre-35738": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edgar prestage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. Raymond Beazley; Edgar Prestage"
+  },
+  "pre-35764": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edgar prestage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. Raymond Beazley; Edgar Prestage"
+  },
+  "pre-56670": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edgar prestage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edgar Prestage"
+  },
+  "pre-74802": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edgar prestage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edgar Prestage"
+  }
+ },
+ "_verified": {
+  "pre-35738": {
+   "pg": 35738,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. Raymond Beazley"
+  },
+  "pre-35764": {
+   "pg": 35764,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. Raymond Beazley"
+  },
+  "pre-56670": {
+   "pg": 56670,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edgar Prestage"
+  },
+  "pre-74802": {
+   "pg": 74802,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edgar Prestage"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

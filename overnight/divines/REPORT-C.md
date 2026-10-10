@@ -131,3 +131,5 @@
 - 2026-10-10T11:44-05:00: round 26: archer-ibsen vol 12, marian-fell Plays, julius-west (1), george-calderon (2). --verify --record 0 mismatched.
 
 - 2026-10-10T11:50-05:00: round 27: johnes (12), elwes (6, one held_in), fleming (11), mcclure (1), ainslie (6), derbyshire (4), gilbert-cannan (4), lewisohn (4), van-laun (4), eugene-mason (4), eleanor-grove (1). --verify --record 0 mismatched.
+
+- 2026-10-10T11:55-05:00: round 28: mary-loyd (4), krehbiel (4), frances-hoey (4), dulcken (2), prestage (4), dorothy-bussy (4), dziewicki (4), swanwick (3), oxenford (2), monier-williams (2), lalor (4), walter-armstrong (4). --verify --record 0 mismatched.

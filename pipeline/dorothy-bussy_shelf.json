@@ -1,0 +1,129 @@
+{
+ "_about": "TRANSLATOR SHELF: Dorothy Bussy (1865-1960): André Gide for Knopf: Strait is the Gate (1924), The Vatican Swindle (1925), The Counterfeiters (1927) and The Immoralist (1930). Published before 1931. US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted.",
+ "_name_words": [
+  "dorothy bussy"
+ ],
+ "_surname": [
+  "dorothy bussy"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "dbu-73838": [
+   73838,
+   "The Vatican swindle"
+  ],
+  "dbu-76965": [
+   76965,
+   "The counterfeiters"
+  ],
+  "dbu-78975": [
+   78975,
+   "The immoralist"
+  ],
+  "dbu-79693": [
+   79693,
+   "Strait is the gate (La porte étroite)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "dorothy-bussy-gide-strait-is-the-gate-la-porte-etroite": {
+   "source": "dbu-79693",
+   "of": "André Gide",
+   "work": "Strait is the gate (La porte étroite)",
+   "translated": "1924-1930 (see the Gutenberg header)",
+   "translator": "Dorothy Bussy",
+   "scan_edition": "Project Gutenberg 79693 (clean text)"
+  },
+  "dorothy-bussy-gide-the-counterfeiters": {
+   "source": "dbu-76965",
+   "of": "André Gide",
+   "work": "The counterfeiters",
+   "translated": "1924-1930 (see the Gutenberg header)",
+   "translator": "Dorothy Bussy",
+   "scan_edition": "Project Gutenberg 76965 (clean text)"
+  },
+  "dorothy-bussy-gide-the-immoralist": {
+   "source": "dbu-78975",
+   "of": "André Gide",
+   "work": "The immoralist",
+   "translated": "1924-1930 (see the Gutenberg header)",
+   "translator": "Dorothy Bussy",
+   "scan_edition": "Project Gutenberg 78975 (clean text)",
+   "note": "Knopf 1930: US public domain since 2026; the copyright line was read."
+  },
+  "dorothy-bussy-gide-the-vatican-swindle": {
+   "source": "dbu-73838",
+   "of": "André Gide",
+   "work": "The Vatican swindle",
+   "translated": "1924-1930 (see the Gutenberg header)",
+   "translator": "Dorothy Bussy",
+   "scan_edition": "Project Gutenberg 73838 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "dbu-73838": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dorothy bussy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Dorothy Bussy"
+  },
+  "dbu-76965": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dorothy bussy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Dorothy Bussy"
+  },
+  "dbu-78975": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dorothy bussy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Dorothy Bussy"
+  },
+  "dbu-79693": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dorothy bussy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Dorothy Bussy"
+  }
+ },
+ "_verified": {
+  "dbu-73838": {
+   "pg": 73838,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Dorothy Bussy"
+  },
+  "dbu-76965": {
+   "pg": 76965,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Dorothy Bussy"
+  },
+  "dbu-78975": {
+   "pg": 78975,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Dorothy Bussy"
+  },
+  "dbu-79693": {
+   "pg": 79693,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Dorothy Bussy"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

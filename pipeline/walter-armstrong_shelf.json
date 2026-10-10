@@ -1,0 +1,128 @@
+{
+ "_about": "TRANSLATOR SHELF: Sir Walter Armstrong (1850-1918): Perrot and Chipiez's History of Art in Ancient Egypt (1883, 2 vols) and in Chaldæa and Assyria (1884, 2 vols). US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted.",
+ "_name_words": [
+  "walter armstrong"
+ ],
+ "_surname": [
+  "walter armstrong"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "war2-28072": [
+   28072,
+   "A history of art in Chaldæa & Assyria, Vol. 1 (of 2)"
+  ],
+  "war2-40144": [
+   40144,
+   "A History of Art in Ancient Egypt, Vol. 1 (of 2)"
+  ],
+  "war2-40149": [
+   40149,
+   "A History of Art in Ancient Egypt, Vol. 2 (of 2)"
+  ],
+  "war2-71842": [
+   71842,
+   "A history of art in Chaldæa & Assyria, Vol. 2 (of 2)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "walter-armstrong-perrot-chipiez-art-in-ancient-egypt-vol-1": {
+   "source": "war2-40144",
+   "of": "Georges Perrot and Charles Chipiez",
+   "work": "A History of Art in Ancient Egypt, Vol. 1 (of 2)",
+   "translated": "1883-1884 (see the Gutenberg header)",
+   "translator": "Walter Armstrong",
+   "scan_edition": "Project Gutenberg 40144 (clean text)"
+  },
+  "walter-armstrong-perrot-chipiez-art-in-ancient-egypt-vol-2": {
+   "source": "war2-40149",
+   "of": "Georges Perrot and Charles Chipiez",
+   "work": "A History of Art in Ancient Egypt, Vol. 2 (of 2)",
+   "translated": "1883-1884 (see the Gutenberg header)",
+   "translator": "Walter Armstrong",
+   "scan_edition": "Project Gutenberg 40149 (clean text)"
+  },
+  "walter-armstrong-perrot-chipiez-art-in-chaldaea-assyria-vol-1": {
+   "source": "war2-28072",
+   "of": "Georges Perrot and Charles Chipiez",
+   "work": "A history of art in Chaldæa & Assyria, Vol. 1 (of 2)",
+   "translated": "1883-1884 (see the Gutenberg header)",
+   "translator": "Walter Armstrong",
+   "scan_edition": "Project Gutenberg 28072 (clean text)"
+  },
+  "walter-armstrong-perrot-chipiez-art-in-chaldaea-assyria-vol-2": {
+   "source": "war2-71842",
+   "of": "Georges Perrot and Charles Chipiez",
+   "work": "A history of art in Chaldæa & Assyria, Vol. 2 (of 2)",
+   "translated": "1883-1884 (see the Gutenberg header)",
+   "translator": "Walter Armstrong",
+   "scan_edition": "Project Gutenberg 71842 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "war2-28072": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "walter armstrong",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Walter Armstrong"
+  },
+  "war2-40144": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "walter armstrong",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Walter Armstrong"
+  },
+  "war2-40149": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "walter armstrong",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Walter Armstrong"
+  },
+  "war2-71842": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "walter armstrong",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Walter Armstrong"
+  }
+ },
+ "_verified": {
+  "war2-28072": {
+   "pg": 28072,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Walter Armstrong"
+  },
+  "war2-40144": {
+   "pg": 40144,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Walter Armstrong"
+  },
+  "war2-40149": {
+   "pg": 40149,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Walter Armstrong"
+  },
+  "war2-71842": {
+   "pg": 71842,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Walter Armstrong"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

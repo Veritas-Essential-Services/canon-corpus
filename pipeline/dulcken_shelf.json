@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: H. W. Dulcken (1832-1894): Ida Pfeiffer's A Visit to the Holy Land, Egypt, and Italy (1852) and The Last Travels of Ida Pfeiffer (1861). His Andersen is on andersen_shelf.json (another lane). US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted.",
+ "_name_words": [
+  "h. w. dulcken",
+  "dulcken"
+ ],
+ "_surname": [
+  "h. w. dulcken",
+  "dulcken"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "dul-12561": [
+   12561,
+   "A Visit to the Holy Land, Egypt, and Italy"
+  ],
+  "dul-60474": [
+   60474,
+   "The last travels of Ida Pfeiffer: inclusive of a visit to Madagascar, with a biographical memoir of the author"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "dulcken-pfeiffer-a-visit-to-the-holy-land-egypt-and-italy": {
+   "source": "dul-12561",
+   "of": "Ida Pfeiffer",
+   "work": "A Visit to the Holy Land, Egypt, and Italy",
+   "translated": "1852-1861 (see the Gutenberg header)",
+   "translator": "H. W. Dulcken",
+   "scan_edition": "Project Gutenberg 12561 (clean text)"
+  },
+  "dulcken-pfeiffer-the-last-travels-of-ida-pfeiffer-inclusi": {
+   "source": "dul-60474",
+   "of": "Ida Pfeiffer",
+   "work": "The last travels of Ida Pfeiffer: inclusive of a visit to Madagascar, with a biographical memoir of the author",
+   "translated": "1852-1861 (see the Gutenberg header)",
+   "translator": "H. W. Dulcken",
+   "scan_edition": "Project Gutenberg 60474 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "andersen": "What the Moon Saw (27000) is on andersen_shelf.json; The Nightingale (71096) is left for that shelf's owner."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "dul-12561": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. w. dulcken",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. W. Dulcken"
+  },
+  "dul-60474": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. w. dulcken",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. W. Dulcken"
+  }
+ },
+ "_verified": {
+  "dul-12561": {
+   "pg": 12561,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "H. W. Dulcken"
+  },
+  "dul-60474": {
+   "pg": 60474,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "H. W. Dulcken"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

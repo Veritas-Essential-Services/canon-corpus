@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: Sir Monier Monier-Williams (1819-1899): Kalidasa's Sakoontala (1853) and the Siksha-Patri of the Svami-Narayana Sect (1882). US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted.",
+ "_name_words": [
+  "monier-williams",
+  "monier williams"
+ ],
+ "_surname": [
+  "monier-williams",
+  "monier williams"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mwi-12169": [
+   12169,
+   "Sakoontala; Or, The Lost Ring: An Indian Drama"
+  ],
+  "mwi-7261": [
+   7261,
+   "The Siksha-Patri of the Svami-Narayana Sect"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "monier-williams-kalidasa-sakoontala-or-the-lost-ring-an-indian-dr": {
+   "source": "mwi-12169",
+   "of": "Kālidāsa",
+   "work": "Sakoontala; Or, The Lost Ring: An Indian Drama",
+   "translated": "1853-1882 (see the Gutenberg header)",
+   "translator": "Monier Monier-Williams",
+   "scan_edition": "Project Gutenberg 12169 (clean text)"
+  },
+  "monier-williams-siksha-patri": {
+   "source": "mwi-7261",
+   "of": "Sahajanand Swami (the Svami-Narayana sect)",
+   "work": "The Siksha-Patri of the Svami-Narayana Sect",
+   "translated": "1853-1882 (see the Gutenberg header)",
+   "translator": "Monier Monier-Williams",
+   "scan_edition": "Project Gutenberg 7261 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-13268": "Hindu Literature (Colonial Press, 1900) is a compilation of several translators (Arnold, Toru Dutt and others), not his alone."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mwi-12169": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "monier-williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Monier Monier-Williams"
+  },
+  "mwi-7261": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "monier-williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Monier Monier-Williams"
+  }
+ },
+ "_verified": {
+  "mwi-12169": {
+   "pg": 12169,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Monier Monier-Williams"
+  },
+  "mwi-7261": {
+   "pg": 7261,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Monier Monier-Williams"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

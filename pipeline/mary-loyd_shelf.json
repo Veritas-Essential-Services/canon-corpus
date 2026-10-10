@@ -1,0 +1,130 @@
+{
+ "_about": "TRANSLATOR SHELF: Lady Mary Loyd (1853-1936): Mérimée's Carmen and Colomba, Stendhal's The Chartreuse of Parma (1901) and the Prince de Joinville's Memoirs (1895). US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted.",
+ "_name_words": [
+  "lady mary loyd",
+  "mary loyd"
+ ],
+ "_surname": [
+  "lady mary loyd",
+  "mary loyd"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mlo-2465": [
+   2465,
+   "Carmen"
+  ],
+  "mlo-2708": [
+   2708,
+   "Colomba"
+  ],
+  "mlo-5716": [
+   5716,
+   "Memoirs (Vieux Souvenirs) of the Prince de Joinville"
+  ],
+  "mlo-57638": [
+   57638,
+   "The Chartreuse of Parma"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "mary-loyd-joinville-memoirs": {
+   "source": "mlo-5716",
+   "of": "François d'Orléans, Prince de Joinville",
+   "work": "Memoirs (Vieux Souvenirs) of the Prince de Joinville",
+   "translated": "1895-1905 (see the Gutenberg header)",
+   "translator": "Lady Mary Loyd",
+   "scan_edition": "Project Gutenberg 5716 (clean text)"
+  },
+  "mary-loyd-merimee-carmen": {
+   "source": "mlo-2465",
+   "of": "Prosper Mérimée",
+   "work": "Carmen",
+   "translated": "1895-1905 (see the Gutenberg header)",
+   "translator": "Lady Mary Loyd",
+   "scan_edition": "Project Gutenberg 2465 (clean text)"
+  },
+  "mary-loyd-merimee-colomba": {
+   "source": "mlo-2708",
+   "of": "Prosper Mérimée",
+   "work": "Colomba",
+   "translated": "1895-1905 (see the Gutenberg header)",
+   "translator": "Lady Mary Loyd",
+   "scan_edition": "Project Gutenberg 2708 (clean text)"
+  },
+  "mary-loyd-stendhal-the-chartreuse-of-parma": {
+   "source": "mlo-57638",
+   "of": "Stendhal",
+   "work": "The Chartreuse of Parma",
+   "translated": "1895-1905 (see the Gutenberg header)",
+   "translator": "Lady Mary Loyd",
+   "scan_edition": "Project Gutenberg 57638 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mlo-2465": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lady mary loyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lady Mary Loyd"
+  },
+  "mlo-2708": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lady mary loyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lady Mary Loyd"
+  },
+  "mlo-5716": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lady mary loyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lady Mary Loyd"
+  },
+  "mlo-57638": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lady mary loyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lady Mary Loyd"
+  }
+ },
+ "_verified": {
+  "mlo-2465": {
+   "pg": 2465,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lady Mary Loyd"
+  },
+  "mlo-2708": {
+   "pg": 2708,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lady Mary Loyd"
+  },
+  "mlo-5716": {
+   "pg": 5716,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lady Mary Loyd"
+  },
+  "mlo-57638": {
+   "pg": 57638,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lady Mary Loyd"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

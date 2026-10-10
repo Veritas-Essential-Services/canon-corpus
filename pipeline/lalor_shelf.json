@@ -1,0 +1,130 @@
+{
+ "_about": "TRANSLATOR SHELF: John J. Lalor (d. 1899): Roscher's Principles of Political Economy (1878, 2 vols) and Nohl's Lives of Mozart and Beethoven (Jansen, McClurg, 1880-81). US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted.",
+ "_name_words": [
+  "john j. lalor",
+  "lalor"
+ ],
+ "_surname": [
+  "john j. lalor",
+  "lalor"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "lal-27698": [
+   27698,
+   "Principles of Political Economy, Vol. 1"
+  ],
+  "lal-38655": [
+   38655,
+   "Principles of Political Economy, Vol. 2"
+  ],
+  "lal-67828": [
+   67828,
+   "Life of Mozart"
+  ],
+  "lal-69693": [
+   69693,
+   "Life of Beethoven"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "lalor-nohl-life-of-beethoven": {
+   "source": "lal-69693",
+   "of": "Ludwig Nohl",
+   "work": "Life of Beethoven",
+   "translated": "1878-1881 (see the Gutenberg header)",
+   "translator": "John J. Lalor",
+   "scan_edition": "Project Gutenberg 69693 (clean text)"
+  },
+  "lalor-nohl-life-of-mozart": {
+   "source": "lal-67828",
+   "of": "Ludwig Nohl",
+   "work": "Life of Mozart",
+   "translated": "1878-1881 (see the Gutenberg header)",
+   "translator": "John J. Lalor",
+   "scan_edition": "Project Gutenberg 67828 (clean text)"
+  },
+  "lalor-roscher-principles-of-political-economy-vol-1": {
+   "source": "lal-27698",
+   "of": "Wilhelm Roscher",
+   "work": "Principles of Political Economy, Vol. 1",
+   "translated": "1878-1881 (see the Gutenberg header)",
+   "translator": "John J. Lalor",
+   "scan_edition": "Project Gutenberg 27698 (clean text)"
+  },
+  "lalor-roscher-principles-of-political-economy-vol-2": {
+   "source": "lal-38655",
+   "of": "Wilhelm Roscher",
+   "work": "Principles of Political Economy, Vol. 2",
+   "translated": "1878-1881 (see the Gutenberg header)",
+   "translator": "John J. Lalor",
+   "scan_edition": "Project Gutenberg 38655 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "lal-27698": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john j. lalor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John J. Lalor"
+  },
+  "lal-38655": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john j. lalor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John J. Lalor"
+  },
+  "lal-67828": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john j. lalor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John J. Lalor"
+  },
+  "lal-69693": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john j. lalor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John J. Lalor"
+  }
+ },
+ "_verified": {
+  "lal-27698": {
+   "pg": 27698,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John J. Lalor"
+  },
+  "lal-38655": {
+   "pg": 38655,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John J. Lalor"
+  },
+  "lal-67828": {
+   "pg": 67828,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John J. Lalor"
+  },
+  "lal-69693": {
+   "pg": 69693,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John J. Lalor"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

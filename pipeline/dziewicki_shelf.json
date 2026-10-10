@@ -1,0 +1,130 @@
+{
+ "_about": "TRANSLATOR SHELF: Michael Henry Dziewicki (1851-1928): Reymont's The Peasants (Knopf, 1924-25, 4 vols: Autumn, Winter, Spring, Summer), the novel of the 1924 Nobel Prize. US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted.",
+ "_name_words": [
+  "m. h. dziewicki",
+  "dziewicki"
+ ],
+ "_surname": [
+  "m. h. dziewicki",
+  "dziewicki"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "dzi-75846": [
+   75846,
+   "The peasants, [vol. 1]"
+  ],
+  "dzi-76328": [
+   76328,
+   "The peasants, [vol. 2]"
+  ],
+  "dzi-76329": [
+   76329,
+   "The peasants, [vol. 4]"
+  ],
+  "dzi-76330": [
+   76330,
+   "The peasants, [vol. 3]"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "dziewicki-reymont-the-peasants-vol-1": {
+   "source": "dzi-75846",
+   "of": "Władysław Stanisław Reymont",
+   "work": "The peasants, [vol. 1]",
+   "translated": "1924-1925 (see the Gutenberg header)",
+   "translator": "Michael Henry Dziewicki",
+   "scan_edition": "Project Gutenberg 75846 (clean text)"
+  },
+  "dziewicki-reymont-the-peasants-vol-2": {
+   "source": "dzi-76328",
+   "of": "Władysław Stanisław Reymont",
+   "work": "The peasants, [vol. 2]",
+   "translated": "1924-1925 (see the Gutenberg header)",
+   "translator": "Michael Henry Dziewicki",
+   "scan_edition": "Project Gutenberg 76328 (clean text)"
+  },
+  "dziewicki-reymont-the-peasants-vol-3": {
+   "source": "dzi-76330",
+   "of": "Władysław Stanisław Reymont",
+   "work": "The peasants, [vol. 3]",
+   "translated": "1924-1925 (see the Gutenberg header)",
+   "translator": "Michael Henry Dziewicki",
+   "scan_edition": "Project Gutenberg 76330 (clean text)"
+  },
+  "dziewicki-reymont-the-peasants-vol-4": {
+   "source": "dzi-76329",
+   "of": "Władysław Stanisław Reymont",
+   "work": "The peasants, [vol. 4]",
+   "translated": "1924-1925 (see the Gutenberg header)",
+   "translator": "Michael Henry Dziewicki",
+   "scan_edition": "Project Gutenberg 76329 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "dzi-75846": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dziewicki",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Michael Henry Dziewicki"
+  },
+  "dzi-76328": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dziewicki",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Michael Henry Dziewicki"
+  },
+  "dzi-76329": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dziewicki",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Michael Henry Dziewicki"
+  },
+  "dzi-76330": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dziewicki",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Michael Henry Dziewicki"
+  }
+ },
+ "_verified": {
+  "dzi-75846": {
+   "pg": 75846,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Michael Henry Dziewicki"
+  },
+  "dzi-76328": {
+   "pg": 76328,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Michael Henry Dziewicki"
+  },
+  "dzi-76329": {
+   "pg": 76329,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Michael Henry Dziewicki"
+  },
+  "dzi-76330": {
+   "pg": 76330,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Michael Henry Dziewicki"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

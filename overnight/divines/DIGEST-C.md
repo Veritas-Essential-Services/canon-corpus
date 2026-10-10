@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T11:50-05:00: 133 shelves, 953 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5; 27 (eleven shelves): 57. **15 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T11:55-05:00: 145 shelves, 994 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5; 27 (eleven shelves): 57; 28 (twelve shelves): 41. **15 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -356,3 +356,23 @@ Skipped because they are already shelved on other branches: Brill's Freud (freud
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Your call:** none beyond the veto.
+
+
+## Round 28: twelve more translators (2026-10-10)
+
+Twelve new shelves, 41 titles, all from Gutenberg, with the translator line read in every header:
+
+- **`mary-loyd`** (4): Lady Mary Loyd's Mérimée (*Carmen*, *Colomba*), Stendhal's *The Chartreuse of Parma* and the Prince de Joinville's *Memoirs*.
+- **`krehbiel`** (4): H. E. Krehbiel's edition of Thayer's *Life of Beethoven* (3 volumes, 1921) and Kerst's *Mozart*.
+- **`frances-hoey`** (4): Madame de Rémusat's *Memoirs* (2 volumes) and Challamel's *History of Fashion* (both with John Lillie), and Verne's *An Antarctic Mystery*.
+- **`dulcken`** (2): Ida Pfeiffer's travels. His Andersen stays on the andersen shelf.
+- **`prestage`** (4): Azurara's *Chronicle of the Discovery and Conquest of Guinea* (2 volumes, with Beazley) and Eça de Queirós (2).
+- **`dorothy-bussy`** (4): Dorothy Bussy's Gide: *Strait is the Gate*, *The Vatican Swindle*, *The Counterfeiters*, and *The Immoralist*. *The Immoralist* is a 1930 Knopf printing, US public domain since January 2026.
+- **`dziewicki`** (4): Reymont's *The Peasants* (4 volumes, 1924-25).
+- **`swanwick`** (3): Goethe's *Egmont* and *Iphigenia in Tauris*, and Schiller's *The Maid of Orleans*.
+- **`oxenford`** (2): Goethe's *Autobiography* (the full Bohn text; Gutenberg's half-length copy is left out) and *Tales from the German*.
+- **`monier-williams`** (2): *Sakoontala* and the *Siksha-Patri*. **`lalor`** (4): Roscher (2) and Nohl's *Mozart* and *Beethoven*. **`walter-armstrong`** (4): Perrot and Chipiez on the art of Egypt and of Chaldæa and Assyria.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Merge note (not a decision):** the reading-lists thread's `chekhov-bet_shelf.json` (on its own branch, added today) holds PG 55283, Koteliansky and Murry's *The Bet*, which is also on this lane's `koteliansky` shelf. Whichever merges second should turn its copy into a cross-reference.

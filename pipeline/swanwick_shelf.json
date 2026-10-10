@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: Anna Swanwick (1813-1899): Goethe's Egmont and Iphigenia in Tauris and Schiller's The Maid of Orleans (Bohn, 1843-50). US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted.",
+ "_name_words": [
+  "anna swanwick"
+ ],
+ "_surname": [
+  "anna swanwick"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "swa-15850": [
+   15850,
+   "Iphigenia in Tauris"
+  ],
+  "swa-1945": [
+   1945,
+   "Egmont"
+  ],
+  "swa-6792": [
+   6792,
+   "The Maid of Orleans: A Tragedy"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "swanwick-goethe-egmont": {
+   "source": "swa-1945",
+   "of": "Johann Wolfgang von Goethe",
+   "work": "Egmont",
+   "translated": "1843-1850 (see the Gutenberg header)",
+   "translator": "Anna Swanwick",
+   "scan_edition": "Project Gutenberg 1945 (clean text)"
+  },
+  "swanwick-goethe-iphigenia-in-tauris": {
+   "source": "swa-15850",
+   "of": "Johann Wolfgang von Goethe",
+   "work": "Iphigenia in Tauris",
+   "translated": "1843-1850 (see the Gutenberg header)",
+   "translator": "Anna Swanwick",
+   "scan_edition": "Project Gutenberg 15850 (clean text)"
+  },
+  "swanwick-schiller-the-maid-of-orleans-a-tragedy": {
+   "source": "swa-6792",
+   "of": "Friedrich Schiller",
+   "work": "The Maid of Orleans: A Tragedy",
+   "translated": "1843-1850 (see the Gutenberg header)",
+   "translator": "Anna Swanwick",
+   "scan_edition": "Project Gutenberg 6792 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "swa-15850": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "anna swanwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Anna Swanwick"
+  },
+  "swa-1945": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "anna swanwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Anna Swanwick"
+  },
+  "swa-6792": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "anna swanwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Anna Swanwick"
+  }
+ },
+ "_verified": {
+  "swa-15850": {
+   "pg": 15850,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Anna Swanwick"
+  },
+  "swa-1945": {
+   "pg": 1945,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Anna Swanwick"
+  },
+  "swa-6792": {
+   "pg": 6792,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Anna Swanwick"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

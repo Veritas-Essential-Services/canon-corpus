@@ -1,0 +1,132 @@
+{
+ "_about": "TRANSLATOR SHELF: Henry Edward Krehbiel (1854-1923): Thayer's Life of Ludwig van Beethoven (Beethoven Association, 1921, 3 vols) and Kerst's Mozart: The Man and the Artist, as Revealed in His Own Words (1905). US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted.",
+ "_name_words": [
+  "henry edward krehbiel",
+  "h. e. krehbiel",
+  "krehbiel"
+ ],
+ "_surname": [
+  "henry edward krehbiel",
+  "h. e. krehbiel",
+  "krehbiel"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "kre-4042": [
+   4042,
+   "Mozart: The Man and the Artist, as Revealed in His Own Words"
+  ],
+  "kre-43591": [
+   43591,
+   "The Life of Ludwig van Beethoven, Volume I"
+  ],
+  "kre-43592": [
+   43592,
+   "The Life of Ludwig van Beethoven, Volume II"
+  ],
+  "kre-43593": [
+   43593,
+   "The Life of Ludwig van Beethoven, Volume III"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "krehbiel-kerst-mozart-the-man-and-the-artist": {
+   "source": "kre-4042",
+   "of": "Wolfgang Amadeus Mozart",
+   "work": "Mozart: The Man and the Artist, as Revealed in His Own Words",
+   "translated": "1905-1921 (see the Gutenberg header)",
+   "translator": "Henry Edward Krehbiel",
+   "scan_edition": "Project Gutenberg 4042 (clean text)"
+  },
+  "krehbiel-thayer-life-of-beethoven-vol-1": {
+   "source": "kre-43591",
+   "of": "Alexander Wheelock Thayer",
+   "work": "The Life of Ludwig van Beethoven, Volume I",
+   "translated": "1905-1921 (see the Gutenberg header)",
+   "translator": "Henry Edward Krehbiel",
+   "scan_edition": "Project Gutenberg 43591 (clean text)"
+  },
+  "krehbiel-thayer-life-of-beethoven-vol-2": {
+   "source": "kre-43592",
+   "of": "Alexander Wheelock Thayer",
+   "work": "The Life of Ludwig van Beethoven, Volume II",
+   "translated": "1905-1921 (see the Gutenberg header)",
+   "translator": "Henry Edward Krehbiel",
+   "scan_edition": "Project Gutenberg 43592 (clean text)"
+  },
+  "krehbiel-thayer-life-of-beethoven-vol-3": {
+   "source": "kre-43593",
+   "of": "Alexander Wheelock Thayer",
+   "work": "The Life of Ludwig van Beethoven, Volume III",
+   "translated": "1905-1921 (see the Gutenberg header)",
+   "translator": "Henry Edward Krehbiel",
+   "scan_edition": "Project Gutenberg 43593 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "kre-4042": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry edward krehbiel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Edward Krehbiel"
+  },
+  "kre-43591": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry edward krehbiel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Edward Krehbiel"
+  },
+  "kre-43592": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry edward krehbiel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Edward Krehbiel"
+  },
+  "kre-43593": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry edward krehbiel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Edward Krehbiel"
+  }
+ },
+ "_verified": {
+  "kre-4042": {
+   "pg": 4042,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry Edward Krehbiel"
+  },
+  "kre-43591": {
+   "pg": 43591,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry Edward Krehbiel"
+  },
+  "kre-43592": {
+   "pg": 43592,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry Edward Krehbiel"
+  },
+  "kre-43593": {
+   "pg": 43593,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry Edward Krehbiel"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}
