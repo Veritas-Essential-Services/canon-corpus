@@ -1918,6 +1918,90 @@
       "added_by": "lane A worker, round 15, on the coordinator's relay of Adam's 2026-10-10 request to keep going until he stops it. Baptist and Methodist theologians, Scots, and Luther and four German divines in pre-1930 English translations. Checked against every remote branch's shelves and docs before queueing; none on any branch, none from the Reformers/Knox list, no commentators PR #11 plans.",
       "finished": "2026-10-10T09:48:19-05:00",
       "notes": "built and verified"
+    },
+    {
+      "id": "frederic-godet",
+      "status": "queued",
+      "scope": "Fr\u00e9d\u00e9ric Godet in English: commentaries on Luke, John, Romans, 1 Corinthians (d. 1900)",
+      "added": "2026-10-10T09:49:31-05:00",
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+    },
+    {
+      "id": "i-a-dorner",
+      "status": "queued",
+      "scope": "I. A. Dorner in English: System of Christian Doctrine, Person of Christ (d. 1884)",
+      "added": "2026-10-10T09:49:31-05:00",
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+    },
+    {
+      "id": "julius-muller",
+      "status": "queued",
+      "scope": "Julius M\u00fcller in English: The Christian Doctrine of Sin (d. 1878)",
+      "added": "2026-10-10T09:49:31-05:00",
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+    },
+    {
+      "id": "rudolf-stier",
+      "status": "queued",
+      "scope": "Rudolf Stier in English: The Words of the Lord Jesus (d. 1862)",
+      "added": "2026-10-10T09:49:31-05:00",
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+    },
+    {
+      "id": "c-e-luthardt",
+      "status": "queued",
+      "scope": "C. E. Luthardt in English: apologetic lectures (d. 1902)",
+      "added": "2026-10-10T09:49:31-05:00",
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+    },
+    {
+      "id": "theodor-christlieb",
+      "status": "queued",
+      "scope": "Theodor Christlieb in English: Modern Doubt and Christian Belief (d. 1889)",
+      "added": "2026-10-10T09:49:31-05:00",
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+    },
+    {
+      "id": "j-h-kurtz",
+      "status": "queued",
+      "scope": "J. H. Kurtz in English: Church History, Old Covenant, Sacrificial Worship (d. 1890)",
+      "added": "2026-10-10T09:49:31-05:00",
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+    },
+    {
+      "id": "william-arnot",
+      "status": "queued",
+      "scope": "William Arnot: Laws from Heaven, Parables, Proverbs (d. 1875)",
+      "added": "2026-10-10T09:49:31-05:00",
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+    },
+    {
+      "id": "james-hamilton-london",
+      "status": "queued",
+      "scope": "James Hamilton of Regent Square: The Royal Preacher, Mount of Olives (d. 1867)",
+      "added": "2026-10-10T09:49:31-05:00",
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+    },
+    {
+      "id": "john-ker",
+      "status": "queued",
+      "scope": "John Ker: Sermons, Lectures on Preaching (d. 1886)",
+      "added": "2026-10-10T09:49:31-05:00",
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+    },
+    {
+      "id": "james-stalker",
+      "status": "queued",
+      "scope": "James Stalker: Life of Jesus Christ, Life of St. Paul (d. 1927; pre-1930 printings)",
+      "added": "2026-10-10T09:49:31-05:00",
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+    },
+    {
+      "id": "w-g-blaikie",
+      "status": "queued",
+      "scope": "W. G. Blaikie: Expositor's Bible volumes, For the Work of the Ministry (d. 1899)",
+      "added": "2026-10-10T09:49:31-05:00",
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
     }
   ]
 }
