@@ -1,0 +1,61 @@
+{
+ "_about": "H. G. Wells's (1866-1946) three scientific romances on the lists. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "H. G. Wells",
+ "_name_words": [
+  "h",
+  "g",
+  "wells",
+  "herbert",
+  "george"
+ ],
+ "_surname": [
+  "h. g. wells",
+  "wells"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hgwells-time-machine": [
+   35,
+   "The Time Machine (1895)"
+  ],
+  "hgwells-invisible-man": [
+   5230,
+   "The Invisible Man (1897)"
+  ],
+  "hgwells-war-of-the-worlds": [
+   36,
+   "The War of the Worlds (1898)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "hgwells-time-machine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-invisible-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-war-of-the-worlds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

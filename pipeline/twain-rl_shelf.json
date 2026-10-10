@@ -1,0 +1,46 @@
+{
+ "_about": "Mark Twain's (1835-1910) A Connecticut Yankee and Sketches New and Old (with the 'good little boy' and 'bad little boy' stories). The boys' books are the mark-twain shelf. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Mark Twain",
+ "_name_words": [
+  "mark",
+  "twain"
+ ],
+ "_surname": [
+  "mark twain"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "twain-connecticut-yankee": [
+   86,
+   "A Connecticut Yankee in King Arthur's Court (1889)"
+  ],
+  "twain-sketches-new-and-old": [
+   3189,
+   "Sketches New and Old (1875)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "mark-twain": "HELD elsewhere: mark-twain shelf (Tom Sawyer, Huck Finn, Prince and the Pauper)"
+ },
+ "_checks": {
+  "twain-connecticut-yankee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mark twain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twain-sketches-new-and-old": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mark twain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

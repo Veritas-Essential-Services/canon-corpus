@@ -48,3 +48,35 @@ Shelves follow the relay convention (`pipeline/<name>_shelf.json`, `fetch_shelf.
 | `marlowe` | Doctor Faustus |
 
 Three books needed a chapter rule because their Contents and body headings differ in case: Great Expectations, The Red Badge of Courage, Frankenstein (Letters and Chapters).
+
+### Batch 2 (2026-10-10): novels and adventure
+
+23 shelves, 43 Gutenberg texts, 75,708 units, all checks passed.
+
+| Shelf | Works |
+|---|---|
+| `stoker` | Dracula |
+| `hardy` | Far from the Madding Crowd |
+| `wilkie-collins` | The Woman in White |
+| `wilde-novels` | The Picture of Dorian Gray (the fairy tales are Lane D's `wilde-fairy-tales`) |
+| `conan-doyle` | A Study in Scarlet, The Sign of the Four, Adventures, Memoirs, The Hound of the Baskervilles, The Return of Sherlock Holmes, The Lost World, The White Company |
+| `hgwells` | The Time Machine, The Invisible Man, The War of the Worlds |
+| `verne` | Twenty Thousand Leagues under the Sea (the 1872 translation; F. P. Walter's modern one is excluded) |
+| `walter-scott` | Ivanhoe, The Talisman |
+| `george-eliot` | Silas Marner (Middlemarch already held) |
+| `kipling-novels` | Kim, The Man Who Would Be King, Stalky & Co. (children's books are Lane D's `kipling`) |
+| `henty` | The Cat of Bubastes, The Dragon and the Raven, Winning His Spurs, By Right of Conquest, In the Reign of Terror, With Lee in Virginia, In the Heart of the Rockies, Redskin and Cow-Boy |
+| `orczy` | The Scarlet Pimpernel |
+| `john-buchan` | The Thirty-Nine Steps |
+| `tennyson` | Idylls of the King |
+| `twain-rl` | A Connecticut Yankee, Sketches New and Old (boys' books are the `mark-twain` shelf) |
+| `cather` | My Ántonia |
+| `tarkington` | Penrod |
+| `sabatini` | Scaramouche |
+| `terhune` | Lad: A Dog |
+| `allen-french` | The Story of Rolf and the Viking's Bow |
+| `jane-porter` | The Scottish Chiefs |
+| `margery-williams` | The Velveteen Rabbit |
+| `dcfisher` | Understood Betsy (US PD; UK until 2029) |
+
+Held back: Conan Doyle's Case-Book (1927) pending a per-story date check.

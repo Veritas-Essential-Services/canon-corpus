@@ -128,10 +128,10 @@ Jane Eyre	Charlotte Brontë	1847	BCS; CC; Canon; Memoria	ingested	bronte-jane-ey
 Wuthering Heights	Emily Brontë	1847	Canon; Memoria	ingested	bronte-wuthering-heights (PG 768)	PD		Batch 1
 Dickens: A Tale of Two Cities, Great Expectations…	Charles Dickens	1843–1861	BCS; CC; Canon; CiRCE; Logos; Logos Online; Memoria	ingested	dickens shelf: tale-of-two-cities, great-expectations, oliver-twist, david-copperfield, bleak-house, hard-times	PD	Two Cities PG 98; Great Expectations 1400; Oliver Twist 730; David Copperfield 766	Batch 1
 Frankenstein	Mary Shelley	1818	BCS; Canon; Logos Online; Memoria	ingested	mshelley-frankenstein (PG 84)	PD		Batch 1
-Dracula	Bram Stoker	1897	Canon	missing	source: PG 345	PD		
-Far from the Madding Crowd	Thomas Hardy	1874	Canon	missing	source: PG 107	PD		
-The Woman in White	Wilkie Collins	1859–1860	Canon	missing	source: PG 583	PD		
-The Picture of Dorian Gray; The Selfish Giant	Oscar Wilde	1888–1890	CC; Canon; Logos Online	partial	wilde-happy-prince (has The Selfish Giant), wilde-house-of-pomegranates; Dorian Gray missing	PD	Dorian Gray PG 174	
+Dracula	Bram Stoker	1897	Canon	ingested	stoker-dracula (PG 345)	PD		Batch 2
+Far from the Madding Crowd	Thomas Hardy	1874	Canon	ingested	hardy-far-from-the-madding-crowd (PG 107)	PD		Batch 2
+The Woman in White	Wilkie Collins	1859–1860	Canon	ingested	wilkie-collins-woman-in-white (PG 583)	PD		Batch 2
+The Picture of Dorian Gray; The Selfish Giant	Oscar Wilde	1888–1890	CC; Canon; Logos Online	ingested	wilde-picture-of-dorian-gray (PG 174); The Selfish Giant is in wilde-happy-prince	PD	Dorian Gray PG 174	Batch 2
 Stevenson: Jekyll and Hyde, Treasure Island, The Black Arrow	Robert Louis Stevenson	1883–1888	Canon; CiRCE; Logos; Logos Online; Memoria	held	stevenson shelf; treasure_island	PD		
 Heart of Darkness	Joseph Conrad	1899	Canon; Logos Online	held	conrad-heart	PD		
 Moby-Dick	Herman Melville	1851	Canon; Logos Online; Memoria	held	melville-mobydick	PD		
@@ -140,7 +140,7 @@ The Scarlet Letter	Nathaniel Hawthorne	1850	CC; Canon; CiRCE; Memoria	ingested	h
 Tanglewood Tales	Nathaniel Hawthorne	1853	CC	held	hawthorne-tanglewood-tales	PD		
 Poe: tales and poems	Edgar Allan Poe	1830s–1849	CC; Canon; CiRCE	ingested	poe-works-1..5 (Raven Edition, PG 2147-2151)	PD		Batch 1
 The Red Badge of Courage	Stephen Crane	1895	CC; CiRCE; Logos Online	ingested	stephen-crane-red-badge (PG 73)	PD		Batch 1
-Mark Twain: Tom Sawyer, Huck Finn, Connecticut Yankee, sketches	Mark Twain	1865–1889	BCS; CC; Canon; CiRCE; Logos; Logos Online; Memoria	partial	Tom Sawyer, Huck Finn, Prince and the Pauper held; Connecticut Yankee and the sketches missing	PD	Connecticut Yankee PG 86; Sketches New and Old PG 3189	
+Mark Twain: Tom Sawyer, Huck Finn, Connecticut Yankee, sketches	Mark Twain	1865–1889	BCS; CC; Canon; CiRCE; Logos; Logos Online; Memoria	ingested	mark-twain shelf + twain-rl: Connecticut Yankee, Sketches New and Old	PD	Connecticut Yankee PG 86; Sketches New and Old PG 3189	Batch 2
 Alcott: Little Women, An Old-Fashioned Girl	Louisa May Alcott	1868–1870	CC; Logos Online; Memoria	held	alcott shelf	PD		
 Narrative of the Life of Frederick Douglass	Frederick Douglass	1845	CC; Canon; CiRCE; Logos Online	ingested	douglass-narrative (PG 23)	PD		Batch 1
 Up from Slavery	Booker T. Washington	1901	CC	missing	source: PG 2376	PD		
@@ -153,23 +153,23 @@ Speeches and Writings	Abraham Lincoln	1859–1865	Logos Online	missing	source: L
 Democracy in America	Alexis de Tocqueville	1835–1840	Logos Online	missing	source: Reeve tr. PG 815 / 816	PD (Reeve 1835)		
 The Communist Manifesto	Marx & Engels	1848	BCS; Logos Online	held	marx-manifesto	PD		
 Beyond Good and Evil	Friedrich Nietzsche	1886	BCS; Canon; Logos Online	missing	source: Zimmern tr. PG 4363	PD (Zimmern 1907)		
-Notes from Underground	Fyodor Dostoevsky	1864	Logos Online	missing	source: Garnett tr. 1918 (PG 600)	PD (Garnett 1918)	Lane C garnett shelf may have it: check before fetching	
+Notes from Underground	Fyodor Dostoevsky	1864	Logos Online	held	garnett-white-nights (PG 36034, includes Notes from Underground)	PD (Garnett 1918)		
 Crime and Punishment; The Brothers Karamazov	Fyodor Dostoevsky	1866–1880	BCS; Canon	held	garnett-crime-and-punishment, garnett-karamazov	PD (Garnett)		
 Anna Karenina; War and Peace	Leo Tolstoy	1869–1878	Canon; Memoria	held	garnett-anna-karenina, tolstoy-warpeace	PD		
 Russian short stories (Tolstoy, Dostoevsky, Chekhov)	various	1880s	CC	partial	garnett-chekhov-* held; the specific Tolstoy and Dostoevsky stories unverified	PD	short pieces	
 Bulfinch's Mythology	Thomas Bulfinch	1855–1863	Canon	held	bulfinch-age-of-fable, -chivalry, -charlemagne	PD		
 Grimm's Fairy Tales	Brothers Grimm	1812–1857	Canon; CiRCE; Memoria	held	grimm-hunt-household-tales	PD (Hunt 1884)		
 Andersen: tales	Hans Christian Andersen	1837–1850s	CC; CiRCE; Logos; Memoria	held	andersen shelf (Craigie, Paull, Lucas…)	PD		
-Kipling: Jungle Books, Kim, The Man Who Would Be King, If	Rudyard Kipling	1888–1910	CC; Canon; CiRCE; Logos; Memoria	partial	Jungle Books, Just So, Puck held; Kim and Man Who Would Be King missing	PD	Kim PG 2226; The Man Who Would Be King PG 8147; Rewards and Fairies has 'If'	
-Sherlock Holmes stories; The Lost World	Arthur Conan Doyle	1887–1912	CC; Canon; CiRCE; Logos; Logos Online; Memoria	missing	source: Adventures PG 1661, Memoirs 834, Hound 2852, Lost World 139	PD (pre-1927 stories)	1927 Case-Book stories are not US PD until 2023+ — all now PD in US	
-The Time Machine; The Invisible Man; The War of the Worlds	H. G. Wells	1895–1898	Canon; Logos	missing	source: PG 35, 5230, 36	PD		
-Twenty Thousand Leagues Under the Sea	Jules Verne	1870	Logos Online	missing	source: PG 164 (Lewis Mercier tr.) / 2488 (Walter tr.)	PD		
+Kipling: Jungle Books, Kim, The Man Who Would Be King, If	Rudyard Kipling	1888–1910	CC; Canon; CiRCE; Logos; Memoria	ingested	Lane D's kipling shelf + kipling-novels: Kim, The Man Who Would Be King, Stalky & Co.	PD	Kim PG 2226; The Man Who Would Be King PG 8147; Rewards and Fairies has 'If'	Batch 2
+Sherlock Holmes stories; The Lost World	Arthur Conan Doyle	1887–1912	CC; Canon; CiRCE; Logos; Logos Online; Memoria	ingested	conan-doyle shelf: Study in Scarlet, Sign of the Four, Adventures, Memoirs, Hound, Return, Lost World	PD (pre-1927 stories)	1927 Case-Book stories are not US PD until 2023+ — all now PD in US	Batch 2
+The Time Machine; The Invisible Man; The War of the Worlds	H. G. Wells	1895–1898	Canon; Logos	ingested	hgwells shelf (PG 35, 5230, 36)	PD		Batch 2
+Twenty Thousand Leagues Under the Sea	Jules Verne	1870	Logos Online	ingested	verne-twenty-thousand-leagues (PG 164)	PD		Batch 2
 Rip Van Winkle; The Legend of Sleepy Hollow	Washington Irving	1819–1820	Logos	held	irving-sketch-book (PG 2048)	PD		
-The Scottish Chiefs	Jane Porter	1810	Logos	missing	source: Project Gutenberg (id to confirm)	PD		
-The Scarlet Pimpernel	Baroness Orczy	1905	Logos	missing	source: PG 60	PD		
-The Thirty-Nine Steps	John Buchan	1915	CiRCE; Logos	missing	source: PG 558	PD		
-Idylls of the King	Alfred Tennyson	1859–1885	Logos Online	missing	source: PG 610	PD		
-G. A. Henty: historical novels	G. A. Henty	1882–1894	Canon; Logos; Logos Online	missing	source: Project Gutenberg (each title to be confirmed)	PD		
+The Scottish Chiefs	Jane Porter	1810	Logos	ingested	jane-porter-scottish-chiefs (PG 6086)	PD		Batch 2
+The Scarlet Pimpernel	Baroness Orczy	1905	Logos	ingested	orczy-scarlet-pimpernel (PG 60)	PD		Batch 2
+The Thirty-Nine Steps	John Buchan	1915	CiRCE; Logos	ingested	john-buchan-thirty-nine-steps (PG 558)	PD		Batch 2
+Idylls of the King	Alfred Tennyson	1859–1885	Logos Online	ingested	tennyson-idylls-of-the-king (PG 610)	PD		Batch 2
+G. A. Henty: historical novels	G. A. Henty	1882–1894	Canon; Logos; Logos Online	ingested	henty shelf: 8 novels	PD		Batch 2
 Makers of History: Alexander the Great	Jacob Abbott	1848	Canon	missing	source: Project Gutenberg (id to confirm)	PD		
 MacDonald: Princess books, Phantastes	George MacDonald	1858–1883	Canon; CiRCE; Logos; Logos Online; Memoria	held	macdonald shelf (CCEL)	PD		
 E. Nesbit: Psammead books, Railway Children, Dragons, Treasure Seekers	E. Nesbit	1899–1906	Canon; CiRCE; Logos; Memoria	held	nesbit shelf	PD		
@@ -186,8 +186,8 @@ The Merry Adventures of Robin Hood	Howard Pyle	1883	CiRCE; Logos; Logos Online	h
 The Tale of Peter Rabbit	Beatrix Potter	1902	Canon; Logos; Memoria	held	potter shelf	PD (UK too: Potter d. 1943)		
 Thornton Burgess animal books	Thornton W. Burgess	1915–1917	Logos	held	burgess shelf	US PD; UK in copyright until 2036		
 Winnie-the-Pooh; When We Were Very Young	A. A. Milne	1924–1926	Logos; Memoria	held	milne shelf	US PD; UK PD from 2027		
-The Velveteen Rabbit	Margery Williams	1922	Logos; Memoria	missing	source: PG 11757	PD		
-Understood Betsy	Dorothy Canfield Fisher	1917	Logos	missing	source: Project Gutenberg (id to confirm)	US PD; UK in copyright until 2029		
+The Velveteen Rabbit	Margery Williams	1922	Logos; Memoria	ingested	margery-williams-velveteen-rabbit (PG 11757)	PD		Batch 2
+Understood Betsy	Dorothy Canfield Fisher	1917	Logos	ingested	dcfisher-understood-betsy (PG 5347)	US PD; UK in copyright until 2029		Batch 2
 Father Brown stories	G. K. Chesterton	1910–1935	CC; CiRCE; Logos	partial	Innocence, Wisdom, Incredulity, Secret held; Scandal (1935) is not PD	1911–1927 books PD		
 Orthodoxy; The Everlasting Man	G. K. Chesterton	1908–1925	Canon; Memoria	held	chesterton-orthodoxy, chesterton-everlasting	PD		
 On the Origin of Species	Charles Darwin	1859	Canon; CiRCE	held	darwin-origin	PD		
@@ -237,8 +237,8 @@ Lays of Ancient Rome (Horatius)	Thomas Babington Macaulay	1842	Memoria	missing	s
 The Story of the Thirteen Colonies; The Story of the Great Republic	H. A. Guerber	1898–1899	Memoria	missing	guerber shelf (lane D) holds the myth books, not these histories	PD		
 The Book of the Ancient World / Greeks / Romans	Dorothy Mills	1923–1927	Memoria	missing	source: Internet Archive (1923, 1925, 1927 eds.)	US PD; UK in copyright until 2030		
 The Aeneid for Boys and Girls	Alfred J. Church	1908	Memoria	missing	source: Project Gutenberg	PD	church shelf (lane D) holds the Iliad and Odyssey retellings	
-The Talisman (and Scott's novels)	Walter Scott	1825	Memoria	missing	source: Project Gutenberg (Talisman, Ivanhoe, Rob Roy…)	PD	no Walter Scott novel is held anywhere	
-Silas Marner	George Eliot	1861	Memoria	missing	source: Project Gutenberg	PD	Middlemarch is held (adler)	
+The Talisman (and Scott's novels)	Walter Scott	1825	Memoria	ingested	walter-scott shelf: Ivanhoe, The Talisman	PD	no Walter Scott novel is held anywhere	Batch 2
+Silas Marner	George Eliot	1861	Memoria	ingested	george-eliot-silas-marner (PG 550)	PD	Middlemarch is held (adler)	Batch 2
 The Bridge of San Luis Rey	Thornton Wilder	1927	Memoria	missing	source: check Gutenberg (US PD since 2023)	US PD; UK in copyright until 2046		
 Millions of Cats	Wanda Gág	1928	Memoria	missing	picture book; Internet Archive	US PD since 2024	illustrations are the work	
 Stopping by Woods on a Snowy Evening (New Hampshire)	Robert Frost	1923	Memoria	missing	source: New Hampshire (1923), Project Gutenberg	US PD; UK in copyright until 2034		
@@ -255,12 +255,12 @@ Letters	Pliny the Younger	c. AD 100	Memoria	held	pliny-younger-melmoth-letters, 
 De Ordine; De Quantitate Animae	Augustine	386–388	Memoria	partial	augustine-de-ordine-lat (Latin); no PD English of either found yet	Latin PD; English needs checking		
 The Imitation of Christ	Thomas à Kempis	c. 1418	CiRCE	missing	source: CCEL (Benham tr.) / Project Gutenberg	PD	not held anywhere	
 Philosophy of Right	G. W. F. Hegel	1820	CiRCE	missing	source: Dyde tr. 1896, Internet Archive	PD (Dyde 1896)		
-My Ántonia	Willa Cather	1918	CiRCE	missing	source: Project Gutenberg	PD		
-The White Company	Arthur Conan Doyle	1891	CiRCE	missing	source: Project Gutenberg	PD		
-Penrod	Booth Tarkington	1914	CiRCE	missing	source: Project Gutenberg	PD		
-Scaramouche	Rafael Sabatini	1921	CiRCE	missing	source: Project Gutenberg	US PD; UK PD (d. 1950)		
-Rolf and the Viking's Bow	Allen French	1904	CiRCE	missing	source: Project Gutenberg / IA	PD		
-Lad: A Dog	Albert Payson Terhune	1919	CiRCE	missing	source: Project Gutenberg	PD		
+My Ántonia	Willa Cather	1918	CiRCE	ingested	cather-my-antonia (PG 242)	PD		Batch 2
+The White Company	Arthur Conan Doyle	1891	CiRCE	ingested	conan-doyle-white-company (PG 903)	PD		Batch 2
+Penrod	Booth Tarkington	1914	CiRCE	ingested	tarkington-penrod (PG 402)	PD		Batch 2
+Scaramouche	Rafael Sabatini	1921	CiRCE	ingested	sabatini-scaramouche (PG 1947)	US PD; UK PD (d. 1950)		Batch 2
+Rolf and the Viking's Bow	Allen French	1904	CiRCE	ingested	allen-french-rolf (PG 43381)	PD		Batch 2
+Lad: A Dog	Albert Payson Terhune	1919	CiRCE	ingested	terhune-lad-a-dog (PG 38777)	PD		Batch 2
 Memoria Press anthologies (poetry, British Tradition I–III)	Memoria Press (ed.)	2010s	Memoria	modern	the anthologies are modern; their PD contents appear under their own authors	not PD		
 Swallows and Amazons	Arthur Ransome	1930	CiRCE	lane	"the project's ""Swallows and Amazons"" thread owns Ransome"	US PD since 2026; UK until 2038		
 The Lion, the Witch and the Wardrobe	C. S. Lewis	1950	CC; Memoria	modern		not PD		

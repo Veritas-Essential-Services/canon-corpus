@@ -1,0 +1,44 @@
+{
+ "_about": "Sir Walter Scott's (1771-1832) novels on the reading lists (The Talisman) and the best-known of the rest. No lane held any Scott novel. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Walter Scott",
+ "_name_words": [
+  "walter",
+  "scott"
+ ],
+ "_surname": [
+  "walter scott"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "walter-scott-ivanhoe": [
+   82,
+   "Ivanhoe (1819)"
+  ],
+  "walter-scott-talisman": [
+   1377,
+   "The Talisman (1825)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "walter-scott-ivanhoe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "walter-scott-talisman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "walter scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
