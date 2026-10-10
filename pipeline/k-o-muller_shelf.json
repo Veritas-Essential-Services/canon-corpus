@@ -1,5 +1,5 @@
 {
- "_about": "Karl Otfried Müller (1797-1840), A History of the Literature of Ancient Greece, translated by George Cornewall Lewis and continued after the author's death by John William Donaldson (1811-1861): A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. I (London: Longmans, 1858); A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. II (London: Longmans, 1858); A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. III (London: Longmans, 1858), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Karl Otfried Müller (1797-1840), A History of the Literature of Ancient Greece, translated by George Cornewall Lewis and continued after the author's death by John William Donaldson (1811-1861): A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. I (London: Longmans, 1858); A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. II (London: Longmans, 1858); A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. III (London: Longmans, 1858), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Also The History and Antiquities of the Doric Race, tr. Henry Tufnell (died 1854) and George Cornewall Lewis, second edition, revised, 2 vols. (John Murray, 1839), raw IA OCR.",
  "_name_words": [
   "muller",
   "müller"
@@ -8,7 +8,9 @@
   "k. o. muller",
   "k. o. müller",
   "karl otfried muller",
-  "karl otfried müller"
+  "karl otfried müller",
+  "c. o. müller",
+  "c. o. muller"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -27,12 +29,24 @@
    "historyofliterat03mluoft",
    "A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. III (London: Longmans, 1858)",
    "tr. George Cornewall Lewis and John William Donaldson"
+  ],
+  "k-o-muller-doric-race-v1-1839": [
+   "historyantiquiti01mull",
+   "The History and Antiquities of the Doric Race, second edition, revised, vol. I (London: John Murray, MDCCCXXXIX)",
+   "tr. Henry Tufnell and George Cornewall Lewis"
+  ],
+  "k-o-muller-doric-race-v2-1839": [
+   "historyantiquiti02mull",
+   "The History and Antiquities of the Doric Race, second edition, revised, vol. II (London: John Murray, MDCCCXXXIX)",
+   "tr. Henry Tufnell and George Cornewall Lewis"
   ]
  },
  "_translators": {
   "k-o-muller-literature-ancient-greece-v1-1858": "Donaldson",
   "k-o-muller-literature-ancient-greece-v2-1858": "Donaldson",
-  "k-o-muller-literature-ancient-greece-v3-1858": "Donaldson"
+  "k-o-muller-literature-ancient-greece-v3-1858": "Donaldson",
+  "k-o-muller-doric-race-v1-1839": "Tufnell",
+  "k-o-muller-doric-race-v2-1839": "Tufnell"
  },
  "_checks": {
   "k-o-muller-literature-ancient-greece-v1-1858": {
@@ -72,6 +86,32 @@
    "ia_rights": "ok: published 1858",
    "ia_date": "[pref. 1858]",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "k-o-muller-doric-race-v1-1839": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. o. müller",
+   "translator_claimed": "Tufnell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "k-o-muller-doric-race-v2-1839": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. o. muller",
+   "translator_claimed": "Tufnell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
