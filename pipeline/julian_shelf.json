@@ -17,11 +17,17 @@
    "julianemperor00king",
    "Julian the Emperor: Gregory Nazianzen's two Invectives, Libanius' Monody, and Julian's Upon the Sovereign Sun and Upon the Mother of the Gods (Bohn, 1888)",
    "tr. C. W. King"
+  ],
+  "julian-duncombe-1798-v2": [
+   "worksofemperorju02juliiala",
+   "The Works of the Emperor Julian, and some pieces of the sophist Libanius, vol. II (3rd ed. corrected, 1798)",
+   "tr. John Duncombe"
   ]
  },
  "_excluded": {
   "Wright vol. 3 (Loeb, 1923)": "not on Gutenberg. The IA scan worksofemperorju0000unse (1923) reads 0.760 with its Greek pages counted, under the bar; pending Adam's ruling on measuring Greek-facing Loebs by their English pages.",
-  "Thomas Taylor, Two Orations of the Emperor Julian (1793)": "PD; the only scan found (IA bim_eighteenth-century_two-orations-of-the-empe_julian-emperor-of-rome_1793, ECCO) reads at 0.696 clean words, below the lane's bar. Refused for OCR quality on 2026-10-03; Wright's Loeb translation of the same orations is held"
+  "Thomas Taylor, Two Orations of the Emperor Julian (1793)": "PD; the only scan found (IA bim_eighteenth-century_two-orations-of-the-empe_julian-emperor-of-rome_1793, ECCO) reads at 0.696 clean words, below the lane's bar. Refused for OCR quality on 2026-10-03; Wright's Loeb translation of the same orations is held",
+  "Duncombe, Works of the Emperor Julian, vol. I (3rd ed., 1798)": "IA worksofemperorju01juliiala reads 0.876, but its OCR opens at the half-title 'SELECT WORKS OF THE EMPEROR JULIAN' with no title page; not taken under the lane's title-page rule. Vol. II (julian-duncombe-1798-v2) prints the full title page"
  },
  "_surname": [
   "julian",
@@ -34,7 +40,7 @@
  "_checks": {
   "julian-wright-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "julian",
    "translator_claimed": "Wilmer Cave Wright",
@@ -46,7 +52,7 @@
   },
   "julian-king-1888": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "julian",
    "translator_claimed": "C. W. King",
@@ -56,9 +62,23 @@
    "ia_date": "1888",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "julian-duncombe-1798-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "julian",
+   "identity": "ok",
+   "ia_rights": "ok: published 1798",
+   "ia_date": "1798",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_held": {
   "julian-wright-v1": "held back on rights, not fetched: Gutenberg's transcription (PG 48664) includes a 'Bibliographical Addendum (1980)' from the reprint it was made from, which is not public domain by date. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 copy. Was PG 48664: The Works of the Emperor Julian, vol. 1"
+ },
+ "_translator_unchecked": {
+  "julian-duncombe-1798-v2": "the title page OCR reads 'JOHN BUNCOMBE'; the name is not printed correctly as a word anywhere in the OCR"
  }
 }
