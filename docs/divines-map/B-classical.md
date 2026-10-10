@@ -2624,6 +2624,7 @@ Shelf: `pipeline/lowes-dickinson_shelf.json`. Goldsworthy Lowes Dickinson (1862-
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Greek View of Life |  | `lowes-dickinson-greek-view-of-life` | have (PG 6200) |
 
 ## John Burnet (scholarship)
 
