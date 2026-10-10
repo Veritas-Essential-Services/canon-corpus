@@ -2611,6 +2611,10 @@ Shelf: `pipeline/mahaffy_shelf.json`. John Pentland Mahaffy (1839-1919), Trinity
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Rambles and Studies in Greece |  | `mahaffy-rambles-studies-greece` | have (PG 35298) |
+| Problems in Greek History |  | `mahaffy-problems-greek-history` | have (PG 36354) |
+| What Have the Greeks Done for Modern Civilisation? |  | `mahaffy-what-have-greeks-done` | have (PG 59132) |
+| Old Greek Education |  | `mahaffy-old-greek-education` | have (PG 65058) |
 
 Excluded: PG 65638 (The Principles of the Art of Conversation) (outside the classical brief)
 

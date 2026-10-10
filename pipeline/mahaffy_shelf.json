@@ -1,0 +1,72 @@
+{
+ "_about": "John Pentland Mahaffy (1839-1919), Trinity College Dublin. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Rambles and Studies in Greece, Problems in Greek History, What Have the Greeks Done for Modern Civilisation?, Old Greek Education, clean Gutenberg. No uids minted.",
+ "_name_words": [
+  "mahaffy"
+ ],
+ "_surname": [
+  "j. p. mahaffy",
+  "john pentland mahaffy",
+  "mahaffy, j. p"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mahaffy-rambles-studies-greece": [
+   35298,
+   "Rambles and Studies in Greece"
+  ],
+  "mahaffy-problems-greek-history": [
+   36354,
+   "Problems in Greek History"
+  ],
+  "mahaffy-what-have-greeks-done": [
+   59132,
+   "What Have the Greeks Done for Modern Civilisation?"
+  ],
+  "mahaffy-old-greek-education": [
+   65058,
+   "Old Greek Education"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "PG 65638 (The Principles of the Art of Conversation)": "outside the classical brief"
+ },
+ "_checks": {
+  "mahaffy-rambles-studies-greece": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mahaffy-problems-greek-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mahaffy-what-have-greeks-done": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mahaffy-old-greek-education": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
