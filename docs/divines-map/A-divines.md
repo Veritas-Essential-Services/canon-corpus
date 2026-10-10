@@ -4043,3 +4043,25 @@ Slugs `tregelles-*`. Textual critic and early Brethren; his own treatises only.
 | his translation of Gesenius' Hebrew and Chaldee Lexicon | excluded | |
 | 1965 and later reprints | excluded | |
 | Edwin O. and Arthur E. Tregelles | excluded | |
+
+## George Salmon (round 21, my pick, 2026-10-10)
+
+Slugs `salmon-*`. Provost of Trinity College, Dublin; first editions of the Introduction and Infallibility.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons Preached in Trinity College, Dublin (Cambridge and London: Macmillan, 1861) | have-ocr | IA `sermonspreachedi0000salm` |
+| The Reign of Law, and Other Sermons (London: Macmillan, 1873) | have-ocr | IA `reignoflawothers00salm` |
+| Non-Miraculous Christianity, and Other Sermons, first edition (Macmillan, 1881) | have-ocr | IA `nonmiraculousch00salmgoog` |
+| A Historical Introduction to the Study of the Books of the New Testament, first edition (London: John Murray, 1885) | have-ocr | IA `historicalintrod00salm` |
+| Gnosticism and Agnosticism, and Other Sermons (London and New York: Macmillan, 1887) | have-ocr | IA `gnosticismagnost00salm` |
+| The Infallibility of the Church, first edition (London: John Murray, 1888) | have-ocr | IA `infallibilityofc00salm` |
+| Some Thoughts on the Textual Criticism of the New Testament (London: John Murray, 1897) | have-ocr | IA `somethoughtsonte00salm` |
+| Cathedral and University Sermons (London: John Murray, 1900) | have-ocr | IA `cathedralunivers00salm` |
+| Episcopacy and Other Sermons, posthumous, with a biographical note by another hand (London: SPCK, 1907) | have-ocr | IA `episcopacyandoth00salmuoft` |
+| The Human Element in the Gospels (1907; humanelementingo00salm): edited by Newport J. D. White from his notes | alternate | not shelved |
+| Later editions of the Introduction (1886-1904), Infallibility (1890-1923), Non-Miraculous Christianity (1887) and Cathedral Sermons (1901) | alternate | not shelved |
+| Conic Sections, Higher Plane Curves, Modern Higher Algebra, Analytic Geometry of Three Dimensions: mathematics, not divinity | alternate | not shelved |
+| George Salmon (1801-1865, Canadian sermons) and David Salmon | excluded | |
+| 1948-1959 reprints | excluded | |
+| German and French translations of the mathematics | excluded | |

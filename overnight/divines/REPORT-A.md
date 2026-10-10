@@ -958,3 +958,6 @@
 
 ## 2026-10-10 14:42 CDT — s-p-tregelles done
 - `pipeline/s-p-tregelles_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for tregelles-daniel-visions (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:42 CDT — george-salmon done
+- `pipeline/george-salmon_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for salmon-nt-introduction, salmon-cathedral-sermons (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
