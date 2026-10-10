@@ -744,3 +744,8 @@
 - Liddell's History of Rome, 2 vols. (Murray, 1855)
 - Under the bar: Fynes Clinton's Fasti Hellenici and Fasti Romani (0.58-0.76; the chronological tables defeat the OCR)
 - Not taken: Lempriere's Classical Dictionary on Gutenberg (PG 68769) is a 1904 Routledge text whose transcribers expanded the abbreviations, an editorial change in the same family as the Perseus modernized texts; held rather than decided in the lane. An unexpanded scan is wanted
+
+## 2026-10-10 12:06 CDT — Round 2026-10-10ab: 7 volumes on 5 new shelves
+- Greek drama: Donaldson's Theatre of the Greeks (7th ed., 1860, OCR 0.781), Lewis Campbell's Guide to Greek Tragedy (1891) and Religion in Greek Literature (1898), Moulton's Ancient Classical Drama (1890)
+- Felton's Greece, Ancient and Modern (9th ed., 1893); Leake's Topography of Athens and the Demi (2nd ed., 2 vols., 1841)
+- Skipped: Blackie (a blackie shelf already exists on this branch); K. O. Müller's Dorians (no IA hit under that search)
