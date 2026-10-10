@@ -276,6 +276,11 @@
    "deoratorebook1tr00ciceuoft",
    "Cicero, De Oratore, Book I, translated into English with an introduction (London, 1892)",
    "tr. E. N. P. Moor"
+  ],
+  "cicero-peterson-pro-cluentio-1895": [
+   "speechindefenceo00ciceuoft",
+   "The Speech of Cicero in Defence of Cluentius, translated into English with an introduction and notes (London: Macmillan, 1895)",
+   "tr. William Peterson"
   ]
  },
  "_surname": [
@@ -329,7 +334,8 @@
   "cicero-smith-amicitia-1897": "benjamin e. smith",
   "cicero-black-tusculan-i-1889": "robert black",
   "cicero-duncan-select-orations-1841": "william duncan",
-  "cicero-moor-de-oratore-i-1892": "e. n. p. moor"
+  "cicero-moor-de-oratore-i-1892": "e. n. p. moor",
+  "cicero-peterson-pro-cluentio-1895": "w. peterson"
  },
  "_translator_unchecked": {
   "cicero-ker-philippics": "translator on the row (Walter C. A. Ker) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -1006,6 +1012,19 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null,
    "rights_override": "title page: London, 1892. Public domain in the US by date; the translator's death year was not checked, so UK status rests on it (an assistant master at Clifton College in 1892)"
+  },
+  "cicero-peterson-pro-cluentio-1895": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "w. peterson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_held": {
