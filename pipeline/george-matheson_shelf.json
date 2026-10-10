@@ -1,0 +1,162 @@
+{
+ "_about": "Public-domain George Matheson (1842-1906, Church of Scotland, the blind minister of St Bernard's, Edinburgh) for the Word Hoard: The Growth of the Spirit of Christianity (2 vols, 1877), Studies of the Portrait of Christ (2 vols, 1899-1900), Spiritual Development of St. Paul (1897), Can the Old Faith Live with the New? (1885), Natural Elements of Revealed Theology (1881), Sacred Songs (1891) and Moments on the Mount (catalogued 1880), raw Internet Archive OCR. Added 2026-10-09 by lane A, round 14 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "matheson",
+  "george"
+ ],
+ "_surname": [
+  "george matheson",
+  "g. matheson",
+  "matheson, george",
+  "george matheson, d.d"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gmatheson-growth-1": [
+   "growthofspiritof01math",
+   "The Growth of the Spirit of Christianity, vol. 1 (1877)"
+  ],
+  "gmatheson-growth-2": [
+   "growthofspiritof02math",
+   "The Growth of the Spirit of Christianity, vol. 2 (1877)"
+  ],
+  "gmatheson-portrait-1": [
+   "studiesportrait01mathuoft",
+   "Studies of the Portrait of Christ, vol. 1 (1899)"
+  ],
+  "gmatheson-portrait-2": [
+   "studieschrist02mathuoft",
+   "Studies of the Portrait of Christ, vol. 2 (1900)"
+  ],
+  "gmatheson-st-paul-1897": [
+   "spiritualdevelop00math",
+   "The Spiritual Development of St. Paul (1897)"
+  ],
+  "gmatheson-old-faith-1885": [
+   "canoldfaithlivew00math",
+   "Can the Old Faith Live with the New? (1885)"
+  ],
+  "gmatheson-natural-elements-1881": [
+   "naturalelements00mathuoft",
+   "Natural Elements of Revealed Theology, the Baird Lecture for 1881 (London: James Nisbet, 1881)"
+  ],
+  "gmatheson-sacred-songs-1891": [
+   "sacredsongs00math",
+   "Sacred Songs (1891)"
+  ],
+  "gmatheson-moments": [
+   "momntse00math",
+   "Moments on the Mount: A Series of Devotional Meditations, seventh edition (London: James Nisbet; no year on the title page, catalogued 1880)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_identity_checked": {
+  "gmatheson-natural-elements-1881": {
+   "author": "title page read 2026-10-09: OCR gives \"BY THE EEV. GEOEGE MATHESON, D.D. MINISTER OF INNELLAN\" (EEV/GEOEGE are OCR artifacts), Nisbet, 1881: George Matheson"
+  }
+ },
+ "_checks": {
+  "gmatheson-growth-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george matheson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gmatheson-growth-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george matheson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gmatheson-portrait-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george matheson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1899-1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gmatheson-portrait-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george matheson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1899-1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gmatheson-st-paul-1897": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "matheson, george",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gmatheson-old-faith-1885": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george matheson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gmatheson-natural-elements-1881": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gmatheson-sacred-songs-1891": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george matheson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gmatheson-moments": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george matheson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "[188-]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

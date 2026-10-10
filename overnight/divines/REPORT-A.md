@@ -688,3 +688,6 @@
 
 ## 2026-10-09 22:17 CDT — a-b-davidson done
 - `pipeline/a-b-davidson_shelf.json`: 8 IA. Hebrews has no year on its title page (catalogued 1900; "1907-1932" in the OCR is a bookplate). Grammar and Syntax: Hebrew OCR unusable, recorded as such. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-09 22:17 CDT — george-matheson done
+- `pipeline/george-matheson_shelf.json`: 9 IA. Natural Elements failed the name gate on OCR ("GEOEGE MATHESON"); title page read, in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

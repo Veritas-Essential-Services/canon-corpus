@@ -2248,6 +2248,14 @@ Slugs `abdavidson-*`.
 |---|---|---|
 | Theology of the OT (1904); OT Prophecy (1905); Job (1884); Ezekiel (1892); Hebrews (catalogued 1900); The Called of God (1905) | have-ocr | IA, OCR 98-99% |
 | Introductory Hebrew Grammar (14th ed., 1897); Hebrew Syntax (2nd ed., 1896) | have-ocr | IA, OCR 86-90%: Hebrew not usable |
+
+## George Matheson (round 14, my pick, 2026-10-09)
+
+Slugs `gmatheson-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Growth of the Spirit of Christianity (2 vols, 1877); Studies of the Portrait of Christ (2 vols, 1899-1900); Spiritual Development of St Paul (1897); Can the Old Faith Live with the New? (1885); Natural Elements of Revealed Theology (1881); Sacred Songs (1891); Moments on the Mount (7th ed., no year) | have-ocr | IA, OCR 98-100% |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
