@@ -2737,6 +2737,162 @@ Shelf: `pipeline/percy-gardner_shelf.json`. Percy Gardner (1846-1937), Oxford cl
 |---|---|---|---|
 | Sculptured Tombs of Hellas |  | `percy-gardner-sculptured-tombs-hellas` | have (PG 69508) |
 
+## Walter Pater (scholarship)
+
+Shelf: `pipeline/pater_shelf.json`. Walter Pater (1839-1894), Brasenose College, Oxford: 2 clean Gutenberg texts. His Renaissance and fiction are outside the classical brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Greek Studies: a Series of Essays |  | `pater-greek-studies` | have (PG 4035) |
+| Plato and Platonism |  | `pater-plato-and-platonism` | have (PG 4095) |
+
+## F. B. Tarbell (scholarship)
+
+Shelf: `pipeline/f-b-tarbell_shelf.json`. Frank Bigelow Tarbell (1853-1920), University of Chicago: 1 clean Gutenberg text. Initials keep him apart from Ida M. Tarbell. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## William Stearns Davis (scholarship)
+
+Shelf: `pipeline/w-s-davis_shelf.json`. William Stearns Davis (1877-1930), historian: 2 clean Gutenberg texts. His historical novels are outside the brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## T. G. Tucker (scholarship)
+
+Shelf: `pipeline/t-g-tucker_shelf.json`. Thomas George Tucker (1859-1946), Professor of Classical Philology at Melbourne: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Guglielmo Ferrero (scholarship)
+
+Shelf: `pipeline/ferrero_shelf.json`. Guglielmo Ferrero (1871-1942) in English: 3 clean Gutenberg texts. Translators are as each Gutenberg file names them; not separately checked. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Frank Frost Abbott (scholarship)
+
+Shelf: `pipeline/frank-frost-abbott_shelf.json`. Frank Frost Abbott (1860-1924), Princeton: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Grant Showerman (scholarship)
+
+Shelf: `pipeline/showerman_shelf.json`. Grant Showerman (1870-1935), Wisconsin: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Ernest A. Gardner (scholarship)
+
+Shelf: `pipeline/ernest-gardner_shelf.json`. Ernest Arthur Gardner (1862-1939), Director of the British School at Athens: 1 clean Gutenberg text. Brother of Percy Gardner, whose book has its own shelf. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Franz Cumont (scholarship)
+
+Shelf: `pipeline/cumont_shelf.json`. Franz Cumont (1868-1947) in English: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## How and Wells (scholarship)
+
+Shelf: `pipeline/how-wells_shelf.json`. Walter Wybergh How (1861-1932) and Joseph Wells (1855-1929): 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## D. B. Monro (scholarship)
+
+Shelf: `pipeline/monro_shelf.json`. David Binning Monro (1836-1905), Provost of Oriel: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Harold Whetstone Johnston (scholarship)
+
+Shelf: `pipeline/h-w-johnston_shelf.json`. Harold Whetstone Johnston (1859-1912), Indiana University: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## August Mau (scholarship)
+
+Shelf: `pipeline/mau_shelf.json`. August Mau (1840-1909) in English, tr. Francis W. Kelsey (1858-1927): 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Harold North Fowler (scholarship)
+
+Shelf: `pipeline/h-n-fowler_shelf.json`. Harold North Fowler (1859-1955), Western Reserve University: 1 clean Gutenberg text. He died in 1955, so the book is public domain under life plus 70 from 2026 as well as in the US. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Heinrich Schliemann (scholarship)
+
+Shelf: `pipeline/schliemann_shelf.json`. Heinrich Schliemann (1822-1890), in English: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## W. E. Gladstone (scholarship)
+
+Shelf: `pipeline/gladstone-homer_shelf.json`. William Ewart Gladstone (1809-1898), Studies on Homer and the Homeric Age (Oxford, 1858): 3 clean Gutenberg texts. The shelf is for his Homeric work only; his politics are outside the brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## H. B. Walters (scholarship)
+
+Shelf: `pipeline/h-b-walters_shelf.json`. Henry Beauchamp Walters (1867-1944), British Museum; with Samuel Birch: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## J. G. Frazer (scholarship)
+
+Shelf: `pipeline/frazer-greece_shelf.json`. Sir James George Frazer (1854-1941): his Greek writing only: 1 clean Gutenberg text. His Pausanias translation is on the pausanias shelf; The Golden Bough is comparative religion and is left out. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Matthew Arnold (scholarship)
+
+Shelf: `pipeline/matthew-arnold-homer_shelf.json`. Matthew Arnold (1822-1888): On Translating Homer, with F. W. Newman's reply: 1 clean Gutenberg text. The shelf is for this book only. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Evelyn S. Shuckburgh (scholarship)
+
+Shelf: `pipeline/shuckburgh_shelf.json`. Evelyn Shirley Shuckburgh (1843-1906): 1 clean Gutenberg text. His translations (Polybius, Cicero's letters) are on those shelves. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Gaston Boissier (scholarship)
+
+Shelf: `pipeline/boissier_shelf.json`. Gaston Boissier (1823-1908) in English, tr. Adnah David Jones: 1 clean Gutenberg text. The translator's death year was not checked. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## P. N. Ure (scholarship)
+
+Shelf: `pipeline/p-n-ure_shelf.json`. Percy Neville Ure (1879-1950), Reading: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.
