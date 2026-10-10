@@ -3102,3 +3102,30 @@ Slugs `carroll-*`. Founder of Southwestern Seminary. Nine Revell volumes (1913-1
 | Second copies: interpretationof00carr, interpretationof12carr, MN41874ucmf_1, cihm_66598; Revell-imprint scans with unknown printing year (bookofrevelation0000bhca and others) | alternate | not shelved |
 | Broadman Press reprints (copyright purchased 1942) and 1930-and-later volumes | excluded | |
 | B. H. Carroll Jr. (IA genesisofamerica00carr and his histories): his son, a different author | excluded | |
+
+## J. R. Graves (round 18, my pick, 2026-10-10)
+
+Slugs `graves-*`. Landmark Baptist editor. Seven early printings (1853-1881) and seven works held only in the Texarkana reprints (copyright 1928); their titles were read from the title pages and the publisher's list.
+
+| Work | Status | Where |
+|---|---|---|
+| The Watchman's Reply (Nashville: Graves & Shankland, 1853) | have-ocr | IA `watchmansreply00grav` |
+| The Great Iron Wheel; or, Republicanism Backwards and Christianity Reversed (Nashville: Graves and Marks; New York: Sheldon, Lamport, 1855) | have-ocr | IA `greatironwheel00grav` |
+| The Tri-lemma; or, Death by Three Horns (Nashville: South-Western Publishing House, 1860) | have-ocr | IA `trilemmaordeathb00grav` |
+| The Graves-Ditzler: or, Great Carrollton Debate, with Jacob Ditzler (fifth thousand, Memphis: Southern Baptist Publication Society, 1876) | have-ocr | IA `gravesditzlerorg00grav` |
+| Old Landmarkism: What Is It? (Memphis: Baptist Book House, Graves, Mahaffy, 1880; IA's 1928 date is wrong) | have-ocr | IA `oldlandmarkismw00gravgoog` |
+| A Discussion on the Doctrine of Endless Punishment, with John C. Burruss (Atlanta: J. C. Burruss, 1880) | have-ocr | IA `adiscussionondo00burrgoog` |
+| John's Baptism: Was It from Moses or Christ? (Memphis: J. R. Graves & Son; title page reads 1881, verso copyright 1891) | have-ocr | IA `johnsbaptismwasi00grav` |
+| The Work of Christ in the Covenant of Redemption; Developed in Seven Dispensations (Texarkana: Baptist Sunday School Committee, 1928 reprint; entered 1883) | have-ocr | IA `workofchristinco00grav` |
+| The New Great Iron Wheel (Texarkana: Baptist Sunday School Committee reprint, copyright 1928; entered 1884) | have-ocr | IA `newgreatironwhee0000grav` |
+| The Bible Doctrine of the Middle Life, as Opposed to Swedenborgianism and Spiritism (title as catalogued; Texarkana reprint; entered 1873 by Mrs. G. A. Graves) | have-ocr | IA `bibledoctrineofm0000jrgr` |
+| The Relation of Baptism to Salvation, Denominational Discourses no. 3 (Texarkana: Baptist Sunday School Committee reprint) | have-ocr | IA `relationofbaptis0000jrgr` |
+| What Is Conscience? Have You a Good Conscience? (Texarkana: Baptist Sunday School Committee reprint; copyright 1882) | have-ocr | IA `whatisconscience0000jrgr` |
+| What Is It to Eat Unworthily? (title from the publisher's list; Texarkana reprint, copyright 1881 by J. R. Graves and 1928 by the Baptist Sunday School Committee) | have-ocr | IA `whatisittoeatdri0000unse` |
+| The Lord's Supper a Church Ordinance, Denominational Tracts no. 4 (Texarkana reprint, copyright 1881 by J. R. Graves and 1928 by the Baptist Sunday School Committee) | have-ocr | IA `bwb_P9-DAU-363` |
+| greatironwheelor00grav (1855), greatironwheelo00gravgoog (30th edition, 1860), trilemma00grav (second edition, 1881), oldlandmarkism0000unse and johnsbaptism0000jrgr (Texarkana reprints), trilemmaallhuman0000jrgr | alternate | not shelved |
+| The Little Seraph and The New Baptist Psalmist (1873), hymnals he edited | alternate | not shelved |
+| Trials and Sufferings for Religious Liberty in New England (1858; IA trialsandsuffer00gravgoog): he edited it; IA also credits Samuel Adlam | alternate | not shelved |
+| Pedobaptist and Campbellite Immersions, by A. C. Dayton with an essay by Graves | excluded | |
+| bwb_Y0-BUW-976 (1939) | excluded | |
+| other Graveses | excluded | |
