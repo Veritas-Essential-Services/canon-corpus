@@ -1,0 +1,79 @@
+{
+ "_about": "TRANSLATOR SHELF: Edward Storer (1880-1944): Il Novellino: The Hundred Old Tales (Broadway Translations, 1925) and Pirandello's Three Plays (1922, with Arthur Livingston). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "edward storer",
+  "storer"
+ ],
+ "_surname": [
+  "edward storer",
+  "storer"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "sto-42148": [
+   42148,
+   "Three Plays"
+  ],
+  "sto-68831": [
+   68831,
+   "Il Novellino: The hundred old tales"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "storer-il-novellino-the-hundred-old-tales": {
+   "source": "sto-68831",
+   "of": "Anonymous (Il Novellino, 13th century)",
+   "work": "Il Novellino: The hundred old tales",
+   "translated": "1922-1925 (see the Gutenberg header)",
+   "translator": "Edward Storer",
+   "scan_edition": "Project Gutenberg 68831 (clean text)"
+  },
+  "storer-pirandello-three-plays": {
+   "source": "sto-42148",
+   "of": "Luigi Pirandello",
+   "work": "Three Plays",
+   "translated": "1922-1925 (see the Gutenberg header)",
+   "translator": "Edward Storer (with Arthur [Translator] Livingstone)",
+   "scan_edition": "Project Gutenberg 42148 (clean text)",
+   "note": "The Gutenberg text comes from a printing after 1934: its title page reads 'Awarded Nobel Prize in Literature, 1934'. The translation is the 1922 Dutton text, which is public domain, but the copy is not a pre-1931 printing: flagged in DIGEST-C for Adam's veto."
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "sto-42148": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward storer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Livingstone; Edward Storer"
+  },
+  "sto-68831": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward storer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward Storer"
+  }
+ },
+ "_verified": {
+  "sto-42148": {
+   "pg": 42148,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Livingstone"
+  },
+  "sto-68831": {
+   "pg": 68831,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edward Storer"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

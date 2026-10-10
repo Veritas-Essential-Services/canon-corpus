@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Herman George Scheffauer (1878-1927): Heine's Atta Troll (1913) and Thomas Mann's Bashan and I (1923). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "herman scheffauer",
+  "scheffauer"
+ ],
+ "_surname": [
+  "herman scheffauer",
+  "scheffauer"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "sch-31305": [
+   31305,
+   "Atta Troll"
+  ],
+  "sch-61284": [
+   61284,
+   "Bashan and I"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "scheffauer-heine-atta-troll": {
+   "source": "sch-31305",
+   "of": "Heinrich Heine",
+   "work": "Atta Troll",
+   "translated": "1913-1923 (see the Gutenberg header)",
+   "translator": "Herman Scheffauer",
+   "scan_edition": "Project Gutenberg 31305 (clean text)"
+  },
+  "scheffauer-mann-bashan-and-i": {
+   "source": "sch-61284",
+   "of": "Thomas Mann",
+   "work": "Bashan and I",
+   "translated": "1913-1923 (see the Gutenberg header)",
+   "translator": "Herman Scheffauer",
+   "scan_edition": "Project Gutenberg 61284 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "sch-31305": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "herman scheffauer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herman George Scheffauer"
+  },
+  "sch-61284": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "scheffauer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herman George Scheffauer"
+  }
+ },
+ "_verified": {
+  "sch-31305": {
+   "pg": 31305,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Herman George Scheffauer"
+  },
+  "sch-61284": {
+   "pg": 61284,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Herman George Scheffauer"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: Raphael Meldola (1849-1915): Weismann's Studies in the Theory of Descent, with a prefatory notice by Charles Darwin (1882, 2 vols). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "raphael meldola",
+  "meldola"
+ ],
+ "_surname": [
+  "raphael meldola",
+  "meldola"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mel-47847": [
+   47847,
+   "Studies in the Theory of Descent, Volume I"
+  ],
+  "mel-47848": [
+   47848,
+   "Studies in the Theory of Descent, Volume II"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "meldola-weismann-studies-in-the-theory-of-descent-vol-1": {
+   "source": "mel-47847",
+   "of": "August Weismann",
+   "work": "Studies in the Theory of Descent, Volume I",
+   "translated": "1882 (see the Gutenberg header)",
+   "translator": "Raphael Meldola",
+   "scan_edition": "Project Gutenberg 47847 (clean text)"
+  },
+  "meldola-weismann-studies-in-the-theory-of-descent-vol-2": {
+   "source": "mel-47848",
+   "of": "August Weismann",
+   "work": "Studies in the Theory of Descent, Volume II",
+   "translated": "1882 (see the Gutenberg header)",
+   "translator": "Raphael Meldola",
+   "scan_edition": "Project Gutenberg 47848 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-47849": "The two volumes again in one file; this shelf keeps them separately (47847, 47848)."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mel-47847": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "raphael meldola",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Raphael Meldola"
+  },
+  "mel-47848": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "raphael meldola",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Raphael Meldola"
+  }
+ },
+ "_verified": {
+  "mel-47847": {
+   "pg": 47847,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Raphael Meldola"
+  },
+  "mel-47848": {
+   "pg": 47848,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Raphael Meldola"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

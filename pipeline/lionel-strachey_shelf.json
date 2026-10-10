@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Lionel Strachey (1864-1927): The Memoirs of Madame Vigée Lebrun (1903) and Nataly von Eschstruth's The Gray Nun (1905). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "lionel strachey"
+ ],
+ "_surname": [
+  "lionel strachey"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "lst-23220": [
+   23220,
+   "The Gray Nun"
+  ],
+  "lst-31934": [
+   31934,
+   "The Memoirs of Madame Vigée Lebrun"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "lionel-strachey-eschstruth-the-gray-nun": {
+   "source": "lst-23220",
+   "of": "Nataly von Eschstruth",
+   "work": "The Gray Nun",
+   "translated": "1903-1905 (see the Gutenberg header)",
+   "translator": "Lionel Strachey",
+   "scan_edition": "Project Gutenberg 23220 (clean text)"
+  },
+  "lionel-strachey-vigee-lebrun-the-memoirs-of-madame-vigee-lebrun": {
+   "source": "lst-31934",
+   "of": "Louise-Elisabeth Vigée-Lebrun",
+   "work": "The Memoirs of Madame Vigée Lebrun",
+   "translated": "1903-1905 (see the Gutenberg header)",
+   "translator": "Lionel Strachey",
+   "scan_edition": "Project Gutenberg 31934 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "lst-23220": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lionel strachey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lionel Strachey"
+  },
+  "lst-31934": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lionel strachey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lionel Strachey"
+  }
+ },
+ "_verified": {
+  "lst-23220": {
+   "pg": 23220,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lionel Strachey"
+  },
+  "lst-31934": {
+   "pg": 31934,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lionel Strachey"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

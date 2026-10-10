@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: Jean Paul Richter (1847-1937): The Notebooks of Leonardo da Vinci (1883, 2 vols). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "jean paul richter",
+  "j. p. richter"
+ ],
+ "_surname": [
+  "jean paul richter",
+  "j. p. richter"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "jpr-4998": [
+   4998,
+   "The Notebooks of Leonardo Da Vinci — Volume 1"
+  ],
+  "jpr-4999": [
+   4999,
+   "The Notebooks of Leonardo Da Vinci — Volume 2"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "jp-richter-leonardo-the-notebooks-of-leonardo-da-vinci-vol-1": {
+   "source": "jpr-4998",
+   "of": "Leonardo da Vinci",
+   "work": "The Notebooks of Leonardo Da Vinci — Volume 1",
+   "translated": "1883 (see the Gutenberg header)",
+   "translator": "Jean Paul Richter",
+   "scan_edition": "Project Gutenberg 4998 (clean text)"
+  },
+  "jp-richter-leonardo-the-notebooks-of-leonardo-da-vinci-vol-2": {
+   "source": "jpr-4999",
+   "of": "Leonardo da Vinci",
+   "work": "The Notebooks of Leonardo Da Vinci — Volume 2",
+   "translated": "1883 (see the Gutenberg header)",
+   "translator": "Jean Paul Richter",
+   "scan_edition": "Project Gutenberg 4999 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-5000": "The two volumes again in one file; this shelf keeps them separately (4998, 4999)."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "jpr-4998": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jean paul richter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jean Paul Richter"
+  },
+  "jpr-4999": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jean paul richter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jean Paul Richter"
+  }
+ },
+ "_verified": {
+  "jpr-4998": {
+   "pg": 4998,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jean Paul Richter"
+  },
+  "jpr-4999": {
+   "pg": 4999,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jean Paul Richter"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Percy Pinkerton (1855-1946): Artsybashev's Sanine (1914) and, with William Grist, the libretto of La Bohème (1896). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "percy pinkerton",
+  "pinkerton"
+ ],
+ "_surname": [
+  "percy pinkerton",
+  "pinkerton"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "pin-13843": [
+   13843,
+   "Libretto: La Bohème"
+  ],
+  "pin-9051": [
+   9051,
+   "Sanine"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "pinkerton-artsybashev-sanine": {
+   "source": "pin-9051",
+   "of": "Mikhail Artsybashev",
+   "work": "Sanine",
+   "translated": "1896-1914 (see the Gutenberg header)",
+   "translator": "Percy Pinkerton",
+   "scan_edition": "Project Gutenberg 9051 (clean text)"
+  },
+  "pinkerton-giacosa-libretto-la-boheme": {
+   "source": "pin-13843",
+   "of": "Giuseppe Giacosa",
+   "work": "Libretto: La Bohème",
+   "translated": "1896-1914 (see the Gutenberg header)",
+   "translator": "Percy Pinkerton (with William Grist)",
+   "scan_edition": "Project Gutenberg 13843 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "pin-13843": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "percy pinkerton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Grist; Percy Pinkerton"
+  },
+  "pin-9051": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "percy pinkerton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Percy Pinkerton"
+  }
+ },
+ "_verified": {
+  "pin-13843": {
+   "pg": 13843,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Grist"
+  },
+  "pin-9051": {
+   "pg": 9051,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Percy Pinkerton"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

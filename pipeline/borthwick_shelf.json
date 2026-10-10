@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Mamah Bouton Borthwick (1869-1914): Ellen Key's The Morality of Woman (1911) and The Woman Movement (1912). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "mamah bouton borthwick",
+  "borthwick"
+ ],
+ "_surname": [
+  "mamah bouton borthwick",
+  "borthwick"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "bor-34267": [
+   34267,
+   "The Morality of Woman, and Other Essays"
+  ],
+  "bor-60840": [
+   60840,
+   "The Woman Movement"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "borthwick-key-the-morality-of-woman-and-other-essays": {
+   "source": "bor-34267",
+   "of": "Ellen Key",
+   "work": "The Morality of Woman, and Other Essays",
+   "translated": "1911-1912 (see the Gutenberg header)",
+   "translator": "Mamah Bouton Borthwick",
+   "scan_edition": "Project Gutenberg 34267 (clean text)"
+  },
+  "borthwick-key-the-woman-movement": {
+   "source": "bor-60840",
+   "of": "Ellen Key",
+   "work": "The Woman Movement",
+   "translated": "1911-1912 (see the Gutenberg header)",
+   "translator": "Mamah Bouton Borthwick",
+   "scan_edition": "Project Gutenberg 60840 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "bor-34267": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mamah bouton borthwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mamah Bouton Borthwick"
+  },
+  "bor-60840": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mamah bouton borthwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mamah Bouton Borthwick"
+  }
+ },
+ "_verified": {
+  "bor-34267": {
+   "pg": 34267,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mamah Bouton Borthwick"
+  },
+  "bor-60840": {
+   "pg": 60840,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mamah Bouton Borthwick"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

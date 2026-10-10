@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Francis J. Ziegler (1866-): Frank Wedekind's The Awakening of Spring (1909) and Such is Life (1912). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "francis j. ziegler",
+  "ziegler"
+ ],
+ "_surname": [
+  "francis j. ziegler",
+  "ziegler"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "zie-35242": [
+   35242,
+   "The Awakening of Spring: A Tragedy of Childhood"
+  ],
+  "zie-45228": [
+   45228,
+   "Such is Life: A Play in Five Acts"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ziegler-wedekind-such-is-life-a-play-in-five-acts": {
+   "source": "zie-45228",
+   "of": "Frank Wedekind",
+   "work": "Such is Life: A Play in Five Acts",
+   "translated": "1909-1912 (see the Gutenberg header)",
+   "translator": "Francis J. Ziegler",
+   "scan_edition": "Project Gutenberg 45228 (clean text)"
+  },
+  "ziegler-wedekind-the-awakening-of-spring-a-tragedy-of-chi": {
+   "source": "zie-35242",
+   "of": "Frank Wedekind",
+   "work": "The Awakening of Spring: A Tragedy of Childhood",
+   "translated": "1909-1912 (see the Gutenberg header)",
+   "translator": "Francis J. Ziegler",
+   "scan_edition": "Project Gutenberg 35242 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "zie-35242": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "francis j. ziegler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis J. Ziegler"
+  },
+  "zie-45228": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "francis j. ziegler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis J. Ziegler"
+  }
+ },
+ "_verified": {
+  "zie-35242": {
+   "pg": 35242,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Francis J. Ziegler"
+  },
+  "zie-45228": {
+   "pg": 45228,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Francis J. Ziegler"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

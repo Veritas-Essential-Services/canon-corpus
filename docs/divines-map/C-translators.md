@@ -2985,6 +2985,318 @@ Round 31 (2026-10-10), vetoable. Knopf's bowdlerised 1920 text; duplicate copy l
 | `egerton-hamsun-hunger` | Knut Hamsun | Hunger | George Egerton | 1899 (see the Gutenberg header) | have | PG 76692 |
 | — | — | pg-8387: Hunger again: the same Knopf text from its 1921 eighth printing; this shelf keeps the 1920 first printing (76692). | — | — | excluded | — |
 
+## Elise L. Lathrop (three Ossip Schubin novels)
+
+Shelf: `pipeline/elise-lathrop_shelf.json` · fetch `python3 pipeline/fetch_shelf.py elise-lathrop` · titles `python3 pipeline/split_shelf_titles.py elise-lathrop`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `elise-lathrop-schubin-asbein-from-the-life-of-a-virtuoso` | Ossip Schubin | Asbeïn: From the Life of a Virtuoso | Elise L. Lathrop | 1890-1891 (see the Gutenberg header) | have | PG 35396 |
+| `elise-lathrop-schubin-boris-lensky` | Ossip Schubin | Boris Lensky | Elise L. Lathrop | 1890-1891 (see the Gutenberg header) | have | PG 35491 |
+| `elise-lathrop-schubin-felix-lanzberg-s-expiation` | Ossip Schubin | Felix Lanzberg's Expiation | Elise L. Lathrop | 1890-1891 (see the Gutenberg header) | have | PG 35571 |
+
+## Joseph von Hammer-Purgstall (Evliya Çelebi's Travels, 2 parts)
+
+Shelf: `pipeline/hammer-purgstall_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hammer-purgstall` · titles `python3 pipeline/split_shelf_titles.py hammer-purgstall`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `hammer-purgstall-celebi-narrative-of-travels-in-europe-asia-and-vol-1` | Evliya Çelebi | Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, Vol. I | Joseph von Hammer-Purgstall | 1834-1850 (see the Gutenberg header) | have | PG 53597 |
+| `hammer-purgstall-celebi-narrative-of-travels-in-europe-asia-and-vol-2` | Evliya Çelebi | Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century, Vol. II | Joseph von Hammer-Purgstall | 1834-1850 (see the Gutenberg header) | have | PG 54255 |
+| — | — | pg-56464: Turkish Literature (Colonial Press, 1901) is an anthology with several translators (Wilson, Arnot, Gibb and others). | — | — | excluded | — |
+
+## Nathaniel Greene (Van der Velde's Tales from the German; Mühlbach)
+
+Shelf: `pipeline/nathaniel-greene_shelf.json` · fetch `python3 pipeline/fetch_shelf.py nathaniel-greene` · titles `python3 pipeline/split_shelf_titles.py nathaniel-greene`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `nathaniel-greene-muhlbach-the-daughter-of-an-empress` | Luise Mühlbach | The Daughter of an Empress | Nathaniel Greene | 1837-1867 (see the Gutenberg header) | have | PG 2132 |
+| `nathaniel-greene-velde-tales-from-the-german-vol-1` | Carl Franz van der Velde | Tales from the German.  Volume I. | Nathaniel Greene | 1837-1867 (see the Gutenberg header) | have | PG 32478 |
+| `nathaniel-greene-velde-tales-from-the-german-vol-2` | Carl Franz van der Velde | Tales from the German.  Volume II. | Nathaniel Greene | 1837-1867 (see the Gutenberg header) | have | PG 32444 |
+
+## H. Mainwaring Dunstan (Belot's A Parisian Sultana, 3 vols)
+
+Shelf: `pipeline/dunstan_shelf.json` · fetch `python3 pipeline/fetch_shelf.py dunstan` · titles `python3 pipeline/split_shelf_titles.py dunstan`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `dunstan-belot-a-parisian-sultana-vol-1` | Adolphe Belot | A Parisian Sultana, Vol. 1 (of 3) | H. Mainwaring Dunstan | 1879 (see the Gutenberg header) | have | PG 58677 |
+| `dunstan-belot-a-parisian-sultana-vol-2` | Adolphe Belot | A Parisian Sultana, Vol. 2 (of 3) | H. Mainwaring Dunstan | 1879 (see the Gutenberg header) | have | PG 58678 |
+| `dunstan-belot-a-parisian-sultana-vol-3` | Adolphe Belot | A Parisian Sultana, Vol. 3 (of 3) | H. Mainwaring Dunstan | 1879 (see the Gutenberg header) | have | PG 58679 |
+
+## Thomas De Quincey as translator (Walladmor, 2 vols)
+
+Shelf: `pipeline/de-quincey-walladmor_shelf.json` · fetch `python3 pipeline/fetch_shelf.py de-quincey-walladmor` · titles `python3 pipeline/split_shelf_titles.py de-quincey-walladmor`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `de-quincey-walladmor-alexis-walladmor-vol-1` | Willibald Alexis | Walladmor, Vol. 1 (of 2) "Freely Translated into German from the English of Sir Walter Scott." And Now Freely Translated from the German into English. | Thomas De Quincey | 1825 (see the Gutenberg header) | have | PG 31563 |
+| `de-quincey-walladmor-alexis-walladmor-vol-2` | Willibald Alexis | Walladmor, Vol. 2 (of 2) "Freely Translated into German from the English of Sir Walter Scott." And Now Freely Translated from the German into English. | Thomas De Quincey | 1825 (see the Gutenberg header) | have | PG 31568 |
+| — | — | pg-35948: The Campaner Thal and Other Writings is a Jean Paul miscellany with several translators (Carlyle, Juliette Bauer, De Quincey). | — | — | excluded | — |
+
+## Jane Frances Chapman (Ingemann's King Eric and the Outlaws, 3 vols)
+
+Shelf: `pipeline/jane-chapman_shelf.json` · fetch `python3 pipeline/fetch_shelf.py jane-chapman` · titles `python3 pipeline/split_shelf_titles.py jane-chapman`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `jane-chapman-ingemann-king-eric-and-the-outlaws-vol-1` | Bernhard Severin Ingemann | King Eric and the Outlaws, Vol. 1 or, the Throne, the Church, and the People in the Thirteenth Century. | Jane Frances Chapman | 1843 (see the Gutenberg header) | have | PG 36631 |
+| `jane-chapman-ingemann-king-eric-and-the-outlaws-vol-2` | Bernhard Severin Ingemann | King Eric and the Outlaws, Vol. 2 or, the Throne, the Church, and the People in the Thirteenth Century. | Jane Frances Chapman | 1843 (see the Gutenberg header) | have | PG 36632 |
+| `jane-chapman-ingemann-king-eric-and-the-outlaws-vol-3` | Bernhard Severin Ingemann | King Eric and the Outlaws, Vol. 3 or, the Throne, the Church, and the People in the Thirteenth Century. | Jane Frances Chapman | 1843 (see the Gutenberg header) | have | PG 36633 |
+
+## Mrs. Anna S. Bushby (The Danes, Sketched by Themselves, 3 vols)
+
+Shelf: `pipeline/bushby_shelf.json` · fetch `python3 pipeline/fetch_shelf.py bushby` · titles `python3 pipeline/split_shelf_titles.py bushby`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `bushby-the-danes-sketched-by-themselves-vol-1` | Various Danish writers (compiled and translated by Mrs. Bushby) | The Danes, Sketched by Themselves. Vol. 1 (of 3) A Series of Popular Stories by the Best Danish Authors | Mrs. Anna S. Bushby | 1864 (see the Gutenberg header) | have | PG 37831 |
+| `bushby-the-danes-sketched-by-themselves-vol-2` | Various Danish writers (compiled and translated by Mrs. Bushby) | The Danes, Sketched by Themselves. Vol. 2 (of 3) A Series of Popular Stories by the Best Danish Authors | Mrs. Anna S. Bushby | 1864 (see the Gutenberg header) | have | PG 37832 |
+| `bushby-the-danes-sketched-by-themselves-vol-3` | Various Danish writers (compiled and translated by Mrs. Bushby) | The Danes, Sketched by Themselves. Vol. 3 (of 3) A Series of Popular Stories by the Best Danish Authors | Mrs. Anna S. Bushby | 1864 (see the Gutenberg header) | have | PG 37833 |
+| — | — | pg-26491: Andersen's The Sand-Hills of Jutland is already shelved elsewhere. | — | — | excluded | — |
+
+## B. G. Babington (Hecker's Black Death; Epidemics of the Middle Ages)
+
+Shelf: `pipeline/babington_shelf.json` · fetch `python3 pipeline/fetch_shelf.py babington` · titles `python3 pipeline/split_shelf_titles.py babington`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `babington-hecker-the-black-death-in-the-fourteenth-centur` | Justus Friedrich Carl Hecker | The Black Death in the Fourteenth Century | B. G. Babington | 1833-1844 (see the Gutenberg header) | have | PG 52413 |
+| `babington-hecker-the-epidemics-of-the-middle-ages` | Justus Friedrich Carl Hecker | The Epidemics of the Middle Ages | B. G. Babington | 1833-1844 (see the Gutenberg header) | have | PG 63232 |
+| — | — | pg-1739: The Black Death and the Dancing Mania is Henry Morley's 1888 Cassell reprint of two parts of the 1844 Epidemics, which this shelf holds whole. | — | — | excluded | — |
+
+## Raphael Meldola (Weismann's Studies in the Theory of Descent, 2 vols)
+
+Shelf: `pipeline/meldola_shelf.json` · fetch `python3 pipeline/fetch_shelf.py meldola` · titles `python3 pipeline/split_shelf_titles.py meldola`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `meldola-weismann-studies-in-the-theory-of-descent-vol-1` | August Weismann | Studies in the Theory of Descent, Volume I | Raphael Meldola | 1882 (see the Gutenberg header) | have | PG 47847 |
+| `meldola-weismann-studies-in-the-theory-of-descent-vol-2` | August Weismann | Studies in the Theory of Descent, Volume II | Raphael Meldola | 1882 (see the Gutenberg header) | have | PG 47848 |
+| — | — | pg-47849: The two volumes again in one file; this shelf keeps them separately (47847, 47848). | — | — | excluded | — |
+
+## Jean Paul Richter (The Notebooks of Leonardo da Vinci, 2 vols)
+
+Shelf: `pipeline/jp-richter_shelf.json` · fetch `python3 pipeline/fetch_shelf.py jp-richter` · titles `python3 pipeline/split_shelf_titles.py jp-richter`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `jp-richter-leonardo-the-notebooks-of-leonardo-da-vinci-vol-1` | Leonardo da Vinci | The Notebooks of Leonardo Da Vinci — Volume 1 | Jean Paul Richter | 1883 (see the Gutenberg header) | have | PG 4998 |
+| `jp-richter-leonardo-the-notebooks-of-leonardo-da-vinci-vol-2` | Leonardo da Vinci | The Notebooks of Leonardo Da Vinci — Volume 2 | Jean Paul Richter | 1883 (see the Gutenberg header) | have | PG 4999 |
+| — | — | pg-5000: The two volumes again in one file; this shelf keeps them separately (4998, 4999). | — | — | excluded | — |
+
+## Lord Stanley of Alderley (Barbosa; Pigafetta's Magellan; Alvares)
+
+Shelf: `pipeline/lord-stanley_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lord-stanley` · titles `python3 pipeline/split_shelf_titles.py lord-stanley`.
+Round 32 (2026-10-10), vetoable. Barbosa is keyed from a 1970 facsimile: flagged. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `lord-stanley-alvares-narrative-of-the-portuguese-embassy-to-a` | Francisco Alvares | Narrative of the Portuguese embassy to Abyssinia during the years 1520-1527 | Henry E. J. Stanley, Lord Stanley of Alderley | 1866-1881 (see the Gutenberg header) | have | PG 72622 |
+| `lord-stanley-barbosa-a-description-of-the-coasts-of-east-afri` | Duarte Barbosa | A Description of the Coasts of East Africa and Malabar in the Beginning of the Sixteenth Century | Henry E. J. Stanley, Lord Stanley of Alderley | 1866-1881 (see the Gutenberg header) | have | PG 38253 |
+| `lord-stanley-pigafetta-the-first-voyage-round-the-world-by-mage` | Antonio Pigafetta | The first voyage round the world, by Magellan | Henry E. J. Stanley, Lord Stanley of Alderley | 1866-1881 (see the Gutenberg header) | have | PG 74723 |
+
+## Francis J. Ziegler (Wedekind's The Awakening of Spring; Such is Life)
+
+Shelf: `pipeline/ziegler_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ziegler` · titles `python3 pipeline/split_shelf_titles.py ziegler`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ziegler-wedekind-such-is-life-a-play-in-five-acts` | Frank Wedekind | Such is Life: A Play in Five Acts | Francis J. Ziegler | 1909-1912 (see the Gutenberg header) | have | PG 45228 |
+| `ziegler-wedekind-the-awakening-of-spring-a-tragedy-of-chi` | Frank Wedekind | The Awakening of Spring: A Tragedy of Childhood | Francis J. Ziegler | 1909-1912 (see the Gutenberg header) | have | PG 35242 |
+
+## W. Fitzwater Wray (Barbusse's Under Fire; Light)
+
+Shelf: `pipeline/fitzwater-wray_shelf.json` · fetch `python3 pipeline/fetch_shelf.py fitzwater-wray` · titles `python3 pipeline/split_shelf_titles.py fitzwater-wray`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `fitzwater-wray-barbusse-light` | Henri Barbusse | Light | W. Fitzwater Wray | 1917-1919 (see the Gutenberg header) | have | PG 12904 |
+| `fitzwater-wray-barbusse-under-fire-the-story-of-a-squad` | Henri Barbusse | Under Fire: The Story of a Squad | W. Fitzwater Wray | 1917-1919 (see the Gutenberg header) | have | PG 4380 |
+
+## Otto Wenckstern (Eötvös's The Village Notary; Schlesinger)
+
+Shelf: `pipeline/wenckstern_shelf.json` · fetch `python3 pipeline/fetch_shelf.py wenckstern` · titles `python3 pipeline/split_shelf_titles.py wenckstern`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `wenckstern-eotvos-the-village-notary-a-romance-of-hungaria` | József Eötvös | The Village Notary: A Romance of Hungarian Life | Otto Wenckstern | 1850-1853 (see the Gutenberg header) | have | PG 34819 |
+| `wenckstern-schlesinger-saunterings-in-and-about-london` | Max Schlesinger | Saunterings in and about London | Otto Wenckstern | 1850-1853 (see the Gutenberg header) | have | PG 46571 |
+
+## Albert D. Vandam (Sastrow's Memoirs; the Congress of Vienna)
+
+Shelf: `pipeline/vandam_shelf.json` · fetch `python3 pipeline/fetch_shelf.py vandam` · titles `python3 pipeline/split_shelf_titles.py vandam`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `vandam-la-garde-chambonas-anecdotal-recollections-of-the-congress` | Auguste de La Garde-Chambonas | Anecdotal Recollections of the Congress of Vienna | Albert D. Vandam | 1902 (see the Gutenberg header) | have | PG 54061 |
+| `vandam-sastrow-bartholomew-sastrow-being-the-memoirs-of` | Bartholomäus Sastrow | Bartholomew Sastrow: Being the Memoirs of a German Burgomaster | Albert D. Vandam | 1902 (see the Gutenberg header) | have | PG 33891 |
+
+## Ernest Untermann (Engels's Origin of the Family; Dietzgen)
+
+Shelf: `pipeline/untermann_shelf.json` · fetch `python3 pipeline/fetch_shelf.py untermann` · titles `python3 pipeline/split_shelf_titles.py untermann`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `untermann-dietzgen-the-positive-outcome-of-philosophy` | Joseph Dietzgen | The positive outcome of philosophy | Ernest Untermann | 1902-1906 (see the Gutenberg header) | have | PG 39964 |
+| `untermann-engels-the-origin-of-the-family-private-propert` | Friedrich Engels | The origin of the family, private property, and the state | Ernest Untermann | 1902-1906 (see the Gutenberg header) | have | PG 33111 |
+
+## Alma Strettell (Verhaeren's Poems; Memoirs of Mistral)
+
+Shelf: `pipeline/strettell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py strettell` · titles `python3 pipeline/split_shelf_titles.py strettell`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `strettell-mistral-memoirs-of-mistral` | Frédéric Mistral | Memoirs of Mistral | Alma Strettell (with Constance Elizabeth Maud) | 1899-1907 (see the Gutenberg header) | have | PG 56040 |
+| `strettell-verhaeren-poems-of-emile-verhaeren` | Emile Verhaeren | Poems of Emile Verhaeren | Alma Strettell | 1899-1907 (see the Gutenberg header) | have | PG 33792 |
+
+## Lionel Strachey (Memoirs of Madame Vigée Lebrun; The Gray Nun)
+
+Shelf: `pipeline/lionel-strachey_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lionel-strachey` · titles `python3 pipeline/split_shelf_titles.py lionel-strachey`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `lionel-strachey-eschstruth-the-gray-nun` | Nataly von Eschstruth | The Gray Nun | Lionel Strachey | 1903-1905 (see the Gutenberg header) | have | PG 23220 |
+| `lionel-strachey-vigee-lebrun-the-memoirs-of-madame-vigee-lebrun` | Louise-Elisabeth Vigée-Lebrun | The Memoirs of Madame Vigée Lebrun | Lionel Strachey | 1903-1905 (see the Gutenberg header) | have | PG 31934 |
+
+## Edward Storer (Il Novellino; Pirandello's Three Plays)
+
+Shelf: `pipeline/storer_shelf.json` · fetch `python3 pipeline/fetch_shelf.py storer` · titles `python3 pipeline/split_shelf_titles.py storer`.
+Round 32 (2026-10-10), vetoable. Three Plays is keyed from a post-1934 printing: flagged. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `storer-il-novellino-the-hundred-old-tales` | Anonymous (Il Novellino, 13th century) | Il Novellino: The hundred old tales | Edward Storer | 1922-1925 (see the Gutenberg header) | have | PG 68831 |
+| `storer-pirandello-three-plays` | Luigi Pirandello | Three Plays | Edward Storer (with Arthur [Translator] Livingstone) | 1922-1925 (see the Gutenberg header) | have | PG 42148 |
+
+## Herman Scheffauer (Heine's Atta Troll; Mann's Bashan and I)
+
+Shelf: `pipeline/scheffauer_shelf.json` · fetch `python3 pipeline/fetch_shelf.py scheffauer` · titles `python3 pipeline/split_shelf_titles.py scheffauer`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `scheffauer-heine-atta-troll` | Heinrich Heine | Atta Troll | Herman Scheffauer | 1913-1923 (see the Gutenberg header) | have | PG 31305 |
+| `scheffauer-mann-bashan-and-i` | Thomas Mann | Bashan and I | Herman Scheffauer | 1913-1923 (see the Gutenberg header) | have | PG 61284 |
+
+## Percy Pinkerton (Artsybashev's Sanine; La Bohème libretto)
+
+Shelf: `pipeline/pinkerton_shelf.json` · fetch `python3 pipeline/fetch_shelf.py pinkerton` · titles `python3 pipeline/split_shelf_titles.py pinkerton`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `pinkerton-artsybashev-sanine` | Mikhail Artsybashev | Sanine | Percy Pinkerton | 1896-1914 (see the Gutenberg header) | have | PG 9051 |
+| `pinkerton-giacosa-libretto-la-boheme` | Giuseppe Giacosa | Libretto: La Bohème | Percy Pinkerton (with William Grist) | 1896-1914 (see the Gutenberg header) | have | PG 13843 |
+
+## Leo Ongley (Blasco Ibáñez's The Temptress; Gálvez)
+
+Shelf: `pipeline/ongley_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ongley` · titles `python3 pipeline/split_shelf_titles.py ongley`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ongley-galvez-nacha-regules` | Manuel Gálvez | Nacha Regules | Leo Ongley | 1922-1923 (see the Gutenberg header) | have | PG 59441 |
+| `ongley-ibanez-the-temptress-la-tierra-de-todos` | Vicente Blasco Ibáñez | The Temptress (La tierra de todos) | Leo Ongley | 1922-1923 (see the Gutenberg header) | have | PG 63649 |
+
+## Jessie Lemont (Rilke's Poems; Auguste Rodin)
+
+Shelf: `pipeline/jessie-lemont_shelf.json` · fetch `python3 pipeline/fetch_shelf.py jessie-lemont` · titles `python3 pipeline/split_shelf_titles.py jessie-lemont`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `jessie-lemont-rilke-auguste-rodin` | Rainer Maria Rilke | Auguste Rodin | Jessie Lemont (with Hans Trausil) | 1918-1919 (see the Gutenberg header) | have | PG 45605 |
+| `jessie-lemont-rilke-poems` | Rainer Maria Rilke | Poems | Jessie Lemont | 1918-1919 (see the Gutenberg header) | have | PG 38594 |
+
+## Lee M. Hollander (Kierkegaard selections, 1923; Einarsson)
+
+Shelf: `pipeline/hollander_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hollander` · titles `python3 pipeline/split_shelf_titles.py hollander`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `hollander-einarsson-sword-and-crozier-drama-in-five-acts` | Indriði Einarsson | Sword and crozier, drama in five acts | Lee M. Hollander | 1912-1923 (see the Gutenberg header) | have | PG 15298 |
+| `hollander-kierkegaard-selections-from-the-writings-of-kierkega` | Søren Kierkegaard | Selections from the Writings of Kierkegaard | Lee M. Hollander | 1912-1923 (see the Gutenberg header) | have | PG 60333 |
+
+## Gertrude Hall (Verlaine's Poems; Rostand's Chantecler)
+
+Shelf: `pipeline/gertrude-hall_shelf.json` · fetch `python3 pipeline/fetch_shelf.py gertrude-hall` · titles `python3 pipeline/split_shelf_titles.py gertrude-hall`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `gertrude-hall-rostand-chantecler-play-in-four-acts` | Edmond Rostand | Chantecler: Play in Four Acts | Gertrude Hall | 1895-1910 (see the Gutenberg header) | have | PG 10747 |
+| `gertrude-hall-verlaine-poems-of-paul-verlaine` | Paul Verlaine | Poems of Paul Verlaine | Gertrude Hall | 1895-1910 (see the Gutenberg header) | have | PG 8426 |
+
+## Jethro Bithell (Zweig's Verhaeren; Turandot)
+
+Shelf: `pipeline/bithell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py bithell` · titles `python3 pipeline/split_shelf_titles.py bithell`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `bithell-gozzi-turandot-princess-of-china-a-chinoiserie` | Carlo Gozzi | Turandot, Princess of China: A Chinoiserie in Three Acts | Jethro Bithell | 1913-1914 (see the Gutenberg header) | have | PG 26730 |
+| `bithell-zweig-emile-verhaeren` | Stefan Zweig | Émile Verhaeren | Jethro Bithell | 1913-1914 (see the Gutenberg header) | have | PG 35387 |
+
+## M. Prichard Agnetti (Fogazzaro's The Patriot; Leila)
+
+Shelf: `pipeline/agnetti_shelf.json` · fetch `python3 pipeline/fetch_shelf.py agnetti` · titles `python3 pipeline/split_shelf_titles.py agnetti`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `agnetti-fogazzaro-leila` | Antonio Fogazzaro | Leila | M. Prichard Agnetti | 1906-1911 (see the Gutenberg header) | have | PG 78258 |
+| `agnetti-fogazzaro-the-patriot-piccolo-mondo-antico` | Antonio Fogazzaro | The Patriot (Piccolo Mondo Antico) | M. Prichard Agnetti | 1906-1911 (see the Gutenberg header) | have | PG 33778 |
+
+## Mamah Bouton Borthwick (Ellen Key)
+
+Shelf: `pipeline/borthwick_shelf.json` · fetch `python3 pipeline/fetch_shelf.py borthwick` · titles `python3 pipeline/split_shelf_titles.py borthwick`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `borthwick-key-the-morality-of-woman-and-other-essays` | Ellen Key | The Morality of Woman, and Other Essays | Mamah Bouton Borthwick | 1911-1912 (see the Gutenberg header) | have | PG 34267 |
+| `borthwick-key-the-woman-movement` | Ellen Key | The Woman Movement | Mamah Bouton Borthwick | 1911-1912 (see the Gutenberg header) | have | PG 60840 |
+
+## George Kamensky (Mendeleyev's Principles of Chemistry, 2 vols)
+
+Shelf: `pipeline/kamensky_shelf.json` · fetch `python3 pipeline/fetch_shelf.py kamensky` · titles `python3 pipeline/split_shelf_titles.py kamensky`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `kamensky-mendeleyev-the-principles-of-chemistry-vol-1` | Dmitry Ivanovich Mendeleyev | The Principles of Chemistry, Volume I | George Kamensky | 1891 (see the Gutenberg header) | have | PG 51326 |
+| `kamensky-mendeleyev-the-principles-of-chemistry-vol-2` | Dmitry Ivanovich Mendeleyev | The Principles of Chemistry, Volume II | George Kamensky | 1891 (see the Gutenberg header) | have | PG 54210 |
+
+## Benjamin Bucknall (Viollet-le-Duc)
+
+Shelf: `pipeline/bucknall_shelf.json` · fetch `python3 pipeline/fetch_shelf.py bucknall` · titles `python3 pipeline/split_shelf_titles.py bucknall`.
+Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `bucknall-viollet-le-duc-annals-of-a-fortress` | Eugène-Emmanuel Viollet-le-Duc | Annals of a Fortress | Benjamin Bucknall | 1874-1875 (see the Gutenberg header) | have | PG 41426 |
+| `bucknall-viollet-le-duc-how-to-build-a-house` | Eugène-Emmanuel Viollet-le-Duc | How to build a house | Benjamin Bucknall | 1874-1875 (see the Gutenberg header) | have | PG 71669 |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
