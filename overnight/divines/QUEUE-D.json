@@ -2077,6 +2077,38 @@
       "started": "2026-10-10T09:22:54-05:00",
       "finished": "2026-10-10T09:45:31-05:00",
       "notes": "1/1 fetched (Gutenberg 34956), 1,111 units, 0 ~2 ids."
+    },
+    {
+      "id": "thomas-day",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: thomas-day; no minting",
+      "status": "done",
+      "started": "2026-10-10T09:50:08-05:00",
+      "finished": "2026-10-10T09:50:08-05:00",
+      "notes": "2/2 fetched (Gutenberg 30274, 42805), 1,247 units, 0 ~2 ids."
+    },
+    {
+      "id": "farrar",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: farrar; no minting",
+      "status": "running",
+      "started": "2026-10-10T09:50:08-05:00"
+    },
+    {
+      "id": "talbot-baines-reed",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: talbot-baines-reed; no minting",
+      "status": "running",
+      "started": "2026-10-10T09:50:08-05:00"
+    },
+    {
+      "id": "edward-lear",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: edward-lear; no minting",
+      "status": "running",
+      "started": "2026-10-10T09:50:08-05:00"
+    },
+    {
+      "id": "palmer-cox",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: palmer-cox; no minting",
+      "status": "running",
+      "started": "2026-10-10T09:50:08-05:00"
     }
   ]
 }

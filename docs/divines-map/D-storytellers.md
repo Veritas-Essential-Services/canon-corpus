@@ -3131,6 +3131,15 @@ Shelf: `pipeline/montalba_shelf.json` (2026-10-02; added at the coordinator's re
 |---|---|---|
 | Fairy Tales From All Nations | have | PG 34956, `montalba-fairy-tales-from-all-nations` (1111 units) |
 
+## Thomas Day
+
+Shelf: `pipeline/thomas-day_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Eighteenth-century moral tales for children; cut by chapter and inset story. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The History of Sandford and Merton | have | PG 30274, `tday-history-of-sandford-and-merton` (1186 units) |
+| The History of Little Jack, a Foundling | have | PG 42805, `tday-history-of-little-jack` (61 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
