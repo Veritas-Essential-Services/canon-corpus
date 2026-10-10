@@ -60,6 +60,11 @@
    "anacreonbionmosc00bionuoft",
    "Anacreon, Bion and Moschus, with other translations, first printed 1651, a new edition (London: Longman, 1815)",
    "tr. Thomas Stanley"
+  ],
+  "greek-anthology-bland-1813": [
+   "collectionsfromg00blanuoft",
+   "Collections from the Greek Anthology, and from the pastoral, elegiac and dramatic poets of Greece (London: John Murray, 1813)",
+   "tr. Robert Bland and others"
   ]
  },
  "_excluded": {
@@ -90,7 +95,8 @@
   "anacreon-girdlestone-1804": "Girdlestone",
   "anacreon-arnold-1869": "thomas james arnold",
   "greek-anthology-macgregor": "robert guthrie macgregor",
-  "anacreon-stanley-1815": "thomas stanley"
+  "anacreon-stanley-1815": "thomas stanley",
+  "greek-anthology-bland-1813": "robert bland"
  },
  "_checks": {
   "greek-anthology-mackail": {
@@ -217,6 +223,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1815",
    "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "greek-anthology-bland-1813": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "robert bland",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
