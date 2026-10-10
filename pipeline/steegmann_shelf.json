@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Mary G. Steegmann: Grazia Deledda's The Woman and the Priest (1922) and The Mother (1923). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "mary g. steegmann",
+  "steegmann"
+ ],
+ "_surname": [
+  "mary g. steegmann",
+  "steegmann"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mst-53918": [
+   53918,
+   "The Woman & the Priest"
+  ],
+  "mst-77111": [
+   77111,
+   "The mother"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "steegmann-deledda-the-mother": {
+   "source": "mst-77111",
+   "of": "Grazia Deledda",
+   "work": "The mother",
+   "translated": "1922-1923 (see the Gutenberg header)",
+   "translator": "Mary G. Steegmann",
+   "scan_edition": "Project Gutenberg 77111 (clean text)"
+  },
+  "steegmann-deledda-the-woman-the-priest": {
+   "source": "mst-53918",
+   "of": "Grazia Deledda",
+   "work": "The Woman & the Priest",
+   "translated": "1922-1923 (see the Gutenberg header)",
+   "translator": "Mary G. Steegmann",
+   "scan_edition": "Project Gutenberg 53918 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mst-53918": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary g. steegmann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary G. Steegmann"
+  },
+  "mst-77111": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary g. steegmann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary G. Steegmann"
+  }
+ },
+ "_verified": {
+  "mst-53918": {
+   "pg": 53918,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary G. Steegmann"
+  },
+  "mst-77111": {
+   "pg": 77111,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary G. Steegmann"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: Fanny S. Copeland (1872-1970): Ivana Brlić-Mažuranić's Croatian Tales of Long Ago (1924) and Srđan Tucić's The Slav Nations (1915). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "fanny s. copeland",
+  "fanny copeland",
+  "copeland"
+ ],
+ "_surname": [
+  "fanny s. copeland",
+  "fanny copeland",
+  "copeland"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "fco-54348": [
+   54348,
+   "The Slav Nations"
+  ],
+  "fco-60095": [
+   60095,
+   "Croatian Tales of Long Ago"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "fanny-copeland-brlic-mazuranic-croatian-tales-of-long-ago": {
+   "source": "fco-60095",
+   "of": "Ivana Brlic-Mazuranic",
+   "work": "Croatian Tales of Long Ago",
+   "translated": "1915-1924 (see the Gutenberg header)",
+   "translator": "Fanny S. Copeland",
+   "scan_edition": "Project Gutenberg 60095 (clean text)"
+  },
+  "fanny-copeland-tucic-the-slav-nations": {
+   "source": "fco-54348",
+   "of": "Srdan Tucic",
+   "work": "The Slav Nations",
+   "translated": "1915-1924 (see the Gutenberg header)",
+   "translator": "Fanny S. Copeland",
+   "scan_edition": "Project Gutenberg 54348 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "fco-54348": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "fanny s. copeland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Fanny S. Copeland"
+  },
+  "fco-60095": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "fanny s. copeland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Fanny S. Copeland"
+  }
+ },
+ "_verified": {
+  "fco-54348": {
+   "pg": 54348,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Fanny S. Copeland"
+  },
+  "fco-60095": {
+   "pg": 60095,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Fanny S. Copeland"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

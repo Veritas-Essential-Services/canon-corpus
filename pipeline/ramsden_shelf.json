@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Hermione Ramsden (1867-1951): Laura Marholm's Six Modern Women (1896) and We Women and Our Authors (1899). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "hermione ramsden",
+  "ramsden"
+ ],
+ "_surname": [
+  "hermione ramsden",
+  "ramsden"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ram-67577": [
+   67577,
+   "We Women and Our Authors"
+  ],
+  "ram-68655": [
+   68655,
+   "Six modern women: Psychological sketches"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ramsden-marholm-six-modern-women-psychological-sketches": {
+   "source": "ram-68655",
+   "of": "Laura Marholm",
+   "work": "Six modern women: Psychological sketches",
+   "translated": "1896-1899 (see the Gutenberg header)",
+   "translator": "Hermione Ramsden",
+   "scan_edition": "Project Gutenberg 68655 (clean text)"
+  },
+  "ramsden-marholm-we-women-and-our-authors": {
+   "source": "ram-67577",
+   "of": "Laura Marholm",
+   "work": "We Women and Our Authors",
+   "translated": "1896-1899 (see the Gutenberg header)",
+   "translator": "Hermione Ramsden",
+   "scan_edition": "Project Gutenberg 67577 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ram-67577": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hermione ramsden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Hermione Charlotte Ramsden"
+  },
+  "ram-68655": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hermione ramsden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Hermione Charlotte Ramsden"
+  }
+ },
+ "_verified": {
+  "ram-67577": {
+   "pg": 67577,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Hermione Charlotte Ramsden"
+  },
+  "ram-68655": {
+   "pg": 68655,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Hermione Charlotte Ramsden"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

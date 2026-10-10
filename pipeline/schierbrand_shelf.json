@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Wolf von Schierbrand (1851-1920): Gottfried Keller's Seldwyla Folks (1919) and Bilse's A Little Garrison (1904). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "wolf von schierbrand",
+  "schierbrand"
+ ],
+ "_surname": [
+  "wolf von schierbrand",
+  "schierbrand"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "wsc-31248": [
+   31248,
+   "A Little Garrison: A Realistic Novel of German Army Life of To-day"
+  ],
+  "wsc-34505": [
+   34505,
+   "Seldwyla Folks: Three Singular Tales"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "schierbrand-bilse-a-little-garrison-a-realistic-novel-of-g": {
+   "source": "wsc-31248",
+   "of": "Fritz Oswald Bilse",
+   "work": "A Little Garrison: A Realistic Novel of German Army Life of To-day",
+   "translated": "1904-1919 (see the Gutenberg header)",
+   "translator": "Wolf von Schierbrand",
+   "scan_edition": "Project Gutenberg 31248 (clean text)"
+  },
+  "schierbrand-keller-seldwyla-folks-three-singular-tales": {
+   "source": "wsc-34505",
+   "of": "Gottfried Keller",
+   "work": "Seldwyla Folks: Three Singular Tales",
+   "translated": "1904-1919 (see the Gutenberg header)",
+   "translator": "Wolf von Schierbrand",
+   "scan_edition": "Project Gutenberg 34505 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "wsc-31248": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wolf von schierbrand",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Wolf von Schierbrand"
+  },
+  "wsc-34505": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wolf von schierbrand",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Wolf von Schierbrand"
+  }
+ },
+ "_verified": {
+  "wsc-31248": {
+   "pg": 31248,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Wolf von Schierbrand"
+  },
+  "wsc-34505": {
+   "pg": 34505,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Wolf von Schierbrand"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

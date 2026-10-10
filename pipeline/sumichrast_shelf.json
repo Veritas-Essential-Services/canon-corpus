@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Frederick C. de Sumichrast (1845-1933): two volumes of his Works of Théophile Gautier (1900-03): The Romance of a Mummy with Egypt, and My Private Menagerie. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "sumichrast"
+ ],
+ "_surname": [
+  "sumichrast"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "sum-27724": [
+   27724,
+   "The Romance of a Mummy and Egypt The Works of Theophile Gautier, Volume 5"
+  ],
+  "sum-30760": [
+   30760,
+   "My Private Menagerie from The Works of Theophile Gautier Volume 19"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "sumichrast-gautier-my-private-menagerie-from-the-works-of-t": {
+   "source": "sum-30760",
+   "of": "Théophile Gautier",
+   "work": "My Private Menagerie from The Works of Theophile Gautier Volume 19",
+   "translated": "1900-1903 (see the Gutenberg header)",
+   "translator": "Frederick C. de Sumichrast",
+   "scan_edition": "Project Gutenberg 30760 (clean text)"
+  },
+  "sumichrast-gautier-the-romance-of-a-mummy-and-egypt-the-wor": {
+   "source": "sum-27724",
+   "of": "Théophile Gautier",
+   "work": "The Romance of a Mummy and Egypt The Works of Theophile Gautier, Volume 5",
+   "translated": "1900-1903 (see the Gutenberg header)",
+   "translator": "Frederick C. de Sumichrast",
+   "scan_edition": "Project Gutenberg 27724 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "sum-27724": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sumichrast",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederick C. de Sumichrast"
+  },
+  "sum-30760": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sumichrast",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederick C. de Sumichrast"
+  }
+ },
+ "_verified": {
+  "sum-27724": {
+   "pg": 27724,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederick C. de Sumichrast"
+  },
+  "sum-30760": {
+   "pg": 30760,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederick C. de Sumichrast"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

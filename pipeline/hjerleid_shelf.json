@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Sivert and Elizabeth Hjerleid: Bjørnson's The Fisher Girl and Ovind (1869). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "hjerleid"
+ ],
+ "_surname": [
+  "hjerleid"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "hje-37725": [
+   37725,
+   "The Fisher Girl"
+  ],
+  "hje-37727": [
+   37727,
+   "Ovind: A Story of Country Life in Norway"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "hjerleid-bjornson-ovind-a-story-of-country-life-in-norway": {
+   "source": "hje-37727",
+   "of": "Bjørnstjerne Bjørnson",
+   "work": "Ovind: A Story of Country Life in Norway",
+   "translated": "1869 (see the Gutenberg header)",
+   "translator": "Sivert and Elizabeth Hjerleid",
+   "scan_edition": "Project Gutenberg 37727 (clean text)"
+  },
+  "hjerleid-bjornson-the-fisher-girl": {
+   "source": "hje-37725",
+   "of": "Bjørnstjerne Bjørnson",
+   "work": "The Fisher Girl",
+   "translated": "1869 (see the Gutenberg header)",
+   "translator": "Sivert and Elizabeth Hjerleid",
+   "scan_edition": "Project Gutenberg 37725 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "hje-37725": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hjerleid",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elizabeth Hjerleid; Sivert Hjerleid"
+  },
+  "hje-37727": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hjerleid",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elizabeth Hjerleid; Sivert Hjerleid"
+  }
+ },
+ "_verified": {
+  "hje-37725": {
+   "pg": 37725,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Elizabeth Hjerleid"
+  },
+  "hje-37727": {
+   "pg": 37727,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Elizabeth Hjerleid"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

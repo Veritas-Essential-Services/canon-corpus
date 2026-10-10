@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: John D. Godman (1794-1830): Levasseur's Lafayette in America in 1824 and 1825 (1829, 2 vols). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "john d. godman",
+  "godman"
+ ],
+ "_surname": [
+  "john d. godman",
+  "godman"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "god-61518": [
+   61518,
+   "Lafayette in America in 1824 and 1825, Vol. 1 (of 2) Or, Journal of a Voyage to the United States"
+  ],
+  "god-61778": [
+   61778,
+   "Lafayette in America in 1824 and 1825, Vol. 2 (of 2) Or, Journal of a Voyage to the United States"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "godman-levasseur-lafayette-in-america-in-1824-and-1825-vol-1": {
+   "source": "god-61518",
+   "of": "Auguste Levasseur",
+   "work": "Lafayette in America in 1824 and 1825, Vol. 1 (of 2) Or, Journal of a Voyage to the United States",
+   "translated": "1829 (see the Gutenberg header)",
+   "translator": "John D. Godman",
+   "scan_edition": "Project Gutenberg 61518 (clean text)"
+  },
+  "godman-levasseur-lafayette-in-america-in-1824-and-1825-vol-2": {
+   "source": "god-61778",
+   "of": "Auguste Levasseur",
+   "work": "Lafayette in America in 1824 and 1825, Vol. 2 (of 2) Or, Journal of a Voyage to the United States",
+   "translated": "1829 (see the Gutenberg header)",
+   "translator": "John D. Godman",
+   "scan_edition": "Project Gutenberg 61778 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "god-61518": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john d. godman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John D. Godman"
+  },
+  "god-61778": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john d. godman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John D. Godman"
+  }
+ },
+ "_verified": {
+  "god-61518": {
+   "pg": 61518,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John D. Godman"
+  },
+  "god-61778": {
+   "pg": 61778,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John D. Godman"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

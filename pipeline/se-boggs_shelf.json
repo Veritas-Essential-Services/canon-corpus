@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: S. E. Boggs (1843-): Mór Jókai's The Nameless Castle (1898) and Told by the Death's Head (1902). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "s. e. boggs",
+  "boggs"
+ ],
+ "_surname": [
+  "s. e. boggs",
+  "boggs"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "seb-14048": [
+   14048,
+   "The nameless castle"
+  ],
+  "seb-34770": [
+   34770,
+   "Told by the death's head"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "se-boggs-jokai-the-nameless-castle": {
+   "source": "seb-14048",
+   "of": "Mór Jókai",
+   "work": "The nameless castle",
+   "translated": "1898-1902 (see the Gutenberg header)",
+   "translator": "S. E. Boggs",
+   "scan_edition": "Project Gutenberg 14048 (clean text)"
+  },
+  "se-boggs-jokai-told-by-the-death-s-head": {
+   "source": "seb-34770",
+   "of": "Mór Jókai",
+   "work": "Told by the death's head",
+   "translated": "1898-1902 (see the Gutenberg header)",
+   "translator": "S. E. Boggs",
+   "scan_edition": "Project Gutenberg 34770 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "seb-14048": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. e. boggs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. E. Boggs"
+  },
+  "seb-34770": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. e. boggs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. E. Boggs"
+  }
+ },
+ "_verified": {
+  "seb-14048": {
+   "pg": 14048,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. E. Boggs"
+  },
+  "seb-34770": {
+   "pg": 34770,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. E. Boggs"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

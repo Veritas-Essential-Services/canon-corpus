@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T12:27-05:00: 234 shelves, 1215 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5; 27 (eleven shelves): 57; 28 (twelve shelves): 41; 29 (seventeen shelves): 51; 30 (seventeen shelves): 56; 31 (twenty-five shelves): 48; 32 (thirty shelves): 66. **15 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T12:36-05:00: 270 shelves, 1287 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5; 27 (eleven shelves): 57; 28 (twelve shelves): 41; 29 (seventeen shelves): 51; 30 (seventeen shelves): 56; 31 (twenty-five shelves): 48; 32 (thirty shelves): 66; 33 (thirty-six shelves): 72. **15 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -487,3 +487,34 @@ Thirty new shelves, 66 titles, all from Gutenberg, with the translator line read
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Flags (same questions as earlier rounds):** Barbosa's *Description of the Coasts of East Africa and Malabar* on `lord-stanley` comes from a 1970 photo-reprint of the 1866 Hakluyt volume (the same question as Whishaw's facsimile). Storer's Pirandello *Three Plays* comes from a printing after 1934 of the 1922 text. Veto either if you want only pre-1931 copies.
+
+## Round 33: thirty-six more translators (2026-10-10)
+
+Thirty-six new shelves, 72 titles, all from Gutenberg, with the translator line read in every header:
+
+- **`laura-kendall`** (3): Verne's *Ticket No. "9672"*, Ernest Daudet's *Which?*, and Gaboriau's *A Thousand Francs Reward*.
+- **`rs-townsend`** (2): Turgenev's *Virgin Soil* (Everyman) and *Tolstoi for the Young*.
+- **`silvanus-thompson`** (2): Huygens's *Treatise on Light* (1912) and William Gilbert's *De Magnete* (1900).
+- **`surendranath-tagore`** (2): *The Home and the World* and *My Reminiscences*. **`rabindranath-tagore`** (2): *Songs of Kabir* (with Evelyn Underhill) and *The Crescent Moon*, his own Bengali poems in his own English.
+- **`arthur-symons`** (2): Baudelaire's *Poems in Prose*, and D'Annunzio's *The Child of Pleasure* (Georgina Harding's prose, Symons's verse).
+- **`sumichrast`** (2): Gautier's *The Romance of a Mummy* and *My Private Menagerie*. **`burnham-maupin`** (2): Gautier's *Mademoiselle de Maupin*.
+- **`rose-strunsky`** (2): *The Journal of Leo Tolstoi, 1895-1899* and Gorky's *The Confession*. **`jakowleff-montefiore`** (2): two volumes of early Gorky stories.
+- **`cw-stork`** (2): *Modern Swedish Masterpieces* (1923) and Söderberg's *Martin Birck's Youth*, a 1930 first edition, US public domain since January 2026.
+- **`adler-stern`** (2): Auerbach's *On the Heights* and *Waldfried*. **`schele-de-vere`** (2): Spielhagen's *Problematic Characters* and *Through Night to Light*. His Saintine is already shelved elsewhere.
+- **`steegmann`** (2): Deledda's *The Woman and the Priest* and *The Mother*. **`schierbrand`** (2): Keller's *Seldwyla Folks* and Bilse's *A Little Garrison*.
+- **`elizabeth-sabine`** (2): Humboldt's *Aspects of Nature*. **`ramsden`** (2): Laura Marholm's *Six Modern Women* and *We Women and Our Authors*.
+- **`ts-perry`** (2): Imbert de Saint-Amand on the empresses Josephine and Marie Louise. **`oliver-colt`** (2): *The Memoirs of General Baron de Marbot* and Daudet's *Tartarin de Tarascon*.
+- **`neumann`** (2): the *History of the Pirates who Infested the China Sea* and *Vahram's Chronicle of the Armenian Kingdom in Cilicia* (Oriental Translation Fund, 1831).
+- **`lady-moreton`** (2): Coloma's *The Story of Don John of Austria* and *Perez the Mouse*.
+- **`jepson`** (2): Leblanc's *Arsène Lupin* and Leroux's *The Man with the Black Feather*. **`hjerleid`** (2): Bjørnson's *The Fisher Girl* and *Ovind*.
+- **`godman`** (2): Levasseur's *Lafayette in America in 1824 and 1825*. **`selina-gaye`** (2) and **`se-boggs`** (2): Hungarian novels by Jósika and Jókai.
+- **`freese`** (2): *The Library of Photius*, vol. 1 (1920), and Niemann's *The Coming Conquest of England*. A Livy he only edited is left out.
+- **`duncan-forbes`** (2): *The Adventures of Hatim Taï* and the *Bagh o Bahar*. **`cowell`** (2): the *Sarva-Darsana-Samgraha* and the *Tattva-Muktavali*.
+- **`fassett`** (2): Pío Baroja's *Youth and Egolatry* and *The City of the Discreet*. **`de-kay`** (2): Rolland's *Pierre and Luce* and Daudet's *Numa Roumestan*.
+- **`fanny-copeland`** (2): *Croatian Tales of Long Ago* (1924) and *The Slav Nations*. **`drezmal`** (2): Sienkiewicz's *In Desert and Wilderness* and *Whirlpools*.
+- **`hf-brownson`** (2): Balmes's *Fundamental Philosophy*. **`wa-bradley`** (2): Gourmont's *Decadence* and *The Story of Flamenca*.
+- **`bonney`** (1): Pierotti's *Jerusalem Explored*, the text volume. The plates volume is left out.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Flag (same question as earlier rounds):** Lady Moreton's *Perez the Mouse* comes from a 1935 reprint of the 1914 book. Veto it if you want only pre-1931 copies.

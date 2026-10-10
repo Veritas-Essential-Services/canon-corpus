@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: Edward Byles Cowell (1826-1903): Madhava's Sarva-Darsana-Samgraha (with A. E. Gough, 1882) and the Tattva-Muktavali (1882). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "e. b. cowell",
+  "edward b. cowell",
+  "cowell"
+ ],
+ "_surname": [
+  "e. b. cowell",
+  "edward b. cowell",
+  "cowell"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "cow-34125": [
+   34125,
+   "The Sarva-Darsana-Samgraha Or, Review of the Different Systems of Hindu Philosophy"
+  ],
+  "cow-7175": [
+   7175,
+   "The Tattva-Muktavali"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "cowell-gaudapurnanandacakravarti-the-tattva-muktavali": {
+   "source": "cow-7175",
+   "of": "active 17th century Gaudapurnanandacakravarti",
+   "work": "The Tattva-Muktavali",
+   "translated": "1882 (see the Gutenberg header)",
+   "translator": "E. B. Cowell",
+   "scan_edition": "Project Gutenberg 7175 (clean text)"
+  },
+  "cowell-madhava-the-sarva-darsana-samgraha-or-review-of": {
+   "source": "cow-34125",
+   "of": "Madhava",
+   "work": "The Sarva-Darsana-Samgraha Or, Review of the Different Systems of Hindu Philosophy",
+   "translated": "1882 (see the Gutenberg header)",
+   "translator": "E. B. Cowell (with Archibald Edward Gough)",
+   "scan_edition": "Project Gutenberg 34125 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "cow-34125": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. b. cowell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward B. Cowell; Archibald Edward Gough"
+  },
+  "cow-7175": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. b. cowell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward B. Cowell"
+  }
+ },
+ "_verified": {
+  "cow-34125": {
+   "pg": 34125,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edward B. Cowell"
+  },
+  "cow-7175": {
+   "pg": 7175,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edward B. Cowell"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}
