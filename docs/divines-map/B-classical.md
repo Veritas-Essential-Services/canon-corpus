@@ -2640,6 +2640,7 @@ Shelf: `pipeline/zeller_shelf.json`. Eduard Zeller (1814-1908) in English, tr. O
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Stoics, Epicureans and Sceptics | Oswald J. Reichel | `zeller-stoics-epicureans-sceptics` | have (PG 77777) |
 
 ## Jane Ellen Harrison (scholarship)
 
