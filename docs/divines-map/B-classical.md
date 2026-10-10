@@ -1224,6 +1224,7 @@ Shelf: `pipeline/petronius_shelf.json`. Firebaugh's complete Satyricon (US PD pe
 | The Satyricon, complete | W. C. Firebaugh; US PD per Gutenberg | `petronius-firebaugh-satyricon` | have (PG 5225) |
 | The Satyricon of Petronius Arbiter | William Burnaby | `petronius-burnaby-satyricon` | have (PG 5611) |
 | Petronius (Satyricon); Seneca, Apocolocyntosis (Loeb, 1913) | Michael Heseltine (Petronius), W. H. D. Rouse (Seneca) | `petronius-heseltine-seneca-rouse` | have-raw (IA `petronius00petruoft`) |
+| The Satyricon of Petronius Arbiter, literally translated, in Erotica (Bohn, 1854) | Walter K. Kelly | `propertius-petronius-kelly-erotica-1854` | cross-ref: held on the Propertius shelf |
 
 
 Excluded: PG 5218-5224 (Firebaugh split into seven files).
@@ -2167,6 +2168,7 @@ Shelf: `pipeline/propertius_shelf.json`. Butler's Loeb (1912, Latin facing; the 
 | The Elegies of Sextus Propertius, translated into English verse (Edinburgh, 1875) | James Cranstoun | `propertius-cranstoun-1875` | have-raw (IA `elegiessextuspr00unkngoog`) |
 | Propertius, translated (Oxford: Clarendon Press, 1906) | J. S. Phillimore | `propertius-phillimore-1906` | have-raw (IA `propertius00propuoft`) |
 | The Elegies of Propertius, translated into English verse (London: Rivingtons, 1870) | Charles Robert Moore | `propertius-moore-1870` | have-raw (IA `elegiesproperti00magoog`) |
+| Erotica: the Elegies of Propertius, the Satyricon of Petronius Arbiter, and the Kisses of Johannes Secundus, literally translated, with poetical versions from various sources; with the Love Epistles of Aristaenetus, tr. R. B. Sheridan and N. B. Halhed (Bohn, 1854) | Walter K. Kelly | `propertius-petronius-kelly-erotica-1854` | have-raw (IA `eroticaelegiesp01arbigoog`) |
 
 Pending (wishlist): Phillimore's 1906 prose translation (Oxford), if a scan turns up.
 

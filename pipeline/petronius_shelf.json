@@ -39,7 +39,7 @@
  "_checks": {
   "petronius-firebaugh-satyricon": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "petronius",
    "translator_claimed": "W. C. Firebaugh",
@@ -51,7 +51,7 @@
   },
   "petronius-burnaby-satyricon": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "petronius",
    "translator_claimed": "William Burnaby",
@@ -63,7 +63,7 @@
   },
   "petronius-heseltine-seneca-rouse": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "petronius",
    "translator_claimed": "michael heseltine",
@@ -74,5 +74,8 @@
    "ia_possible_copyright_status": "Permission Granted to Digitize Item",
    "ia_lending": null
   }
+ },
+ "_cross_ref": {
+  "propertius-petronius-kelly-erotica-1854": "Kelly's Bohn Erotica (1854), which prints a literal Satyricon with Propertius and Secundus, is held on the Propertius shelf"
  }
 }
