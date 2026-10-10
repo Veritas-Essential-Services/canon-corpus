@@ -709,3 +709,9 @@
 - Jevons's History of Greek Literature: the imprint year reads 1880 in the OCR but the book first appeared in 1886, so the printed year is probably misread (an inference). Kept, since it prints a 19th-century year
 - Mahaffy shelf gains Social Life in Greece (1894) and Greek Life and Thought (1896)
 - Under the bar: Teuffel's History of Roman Literature tr. Warr (0.74 in both scans), Butcher's Aristotle's Theory of Poetry and Fine Art (0.69)
+
+## 2026-10-10 11:44 CDT — Round 2026-10-10v: 10 volumes
+- New shelves: Cruttwell's History of Roman Literature (clean Gutenberg); Verrall's Odes of Horace (1884), Bacchants of Euripides (1910) and the two 1913 collections edited by Bayfield and Duff (Bayfield's death year unchecked)
+- Extended: Haigh's Tragic Drama of the Greeks (1896), Mackail's Lectures on Greek Poetry (1910), Sellar's Horace and the Elegiac Poets (1892), Butcher's Some Aspects of the Greek Genius (3rd ed., 1904), Bury's History of Greece (1900)
+- Not added: Gutenberg's Attic Theatre (PG 76555) is the 1907 revision by Pickard-Cambridge, and the 1889 first edition is already held
+- Held back: Mahaffy's History of Classical Greek Literature (the scans mix a Macmillan third edition of vol. I with a Longmans second edition of vol. II)

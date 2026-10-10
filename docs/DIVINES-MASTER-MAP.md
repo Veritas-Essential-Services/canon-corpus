@@ -5482,22 +5482,24 @@ Pending (wishlist): The Virgil and Persius commentaries if a scan clears the bar
 
 ## W. Y. Sellar (scholarship)
 
-Shelf: `pipeline/w-y-sellar_shelf.json`. William Young Sellar (1825-1890), Professor of Humanity at Edinburgh: 2 clean Gutenberg texts. The shelf name carries his initials because A. M. Sellar, Bede's translator, is a different person. Not minted.
+Shelf: `pipeline/w-y-sellar_shelf.json`. William Young Sellar (1825-1890), Professor of Humanity at Edinburgh: 2 clean Gutenberg texts, plus Horace and the Elegiac Poets (Clarendon Press, 1892, raw IA OCR; seen through the press by W. P. Ker, memoir by Andrew Lang). The shelf name carries his initials because A. M. Sellar, Bede's translator, is a different person. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Roman Poets of the Augustan Age: Virgil |  | `sellar-roman-poets-augustan-virgil` | have (PG 34163) |
 | The Roman Poets of the Republic, 3rd edition |  | `sellar-roman-poets-republic-3rd` | have (PG 38566) |
+| The Roman Poets of the Augustan Age: Horace and the Elegiac Poets, with a memoir of the author by Andrew Lang (Oxford: Clarendon Press, 1892) |  | `sellar-roman-poets-augustan-horace-1892` | have-raw (IA `cu31924059173355`) |
 
 Excluded: PG 48323 (The Roman Poets of the Republic, 2nd edition) (the 3rd edition is held)
 
 ## J. W. Mackail (scholarship)
 
-Shelf: `pipeline/mackail_shelf.json`. John William Mackail (1859-1945): 1 clean Gutenberg text. His translations (Virgil, Catullus, the Greek Anthology, the Odyssey) are on those shelves. Not minted.
+Shelf: `pipeline/mackail_shelf.json`. John William Mackail (1859-1945): Latin Literature (clean Gutenberg) and Lectures on Greek Poetry (1910, raw IA OCR). His translations (Virgil, Catullus, the Greek Anthology, the Odyssey) are on those shelves. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Latin Literature |  | `mackail-latin-literature` | have (PG 8894) |
+| Lectures on Greek Poetry (London: Longmans, Green, 1910) |  | `mackail-lectures-greek-poetry-1910` | have-raw (IA `lecturesongreekp00mackuoft`) |
 
 ## A. H. J. Greenidge (scholarship)
 
@@ -5885,7 +5887,7 @@ Pending (wishlist): Charicles in a scan that clears the bar.
 
 ## J. B. Bury (scholarship)
 
-Shelf: `pipeline/bury_shelf.json`. Bury's Later Roman Empire (1889, 2 vols.), Eastern Roman Empire (1912) and Constitution of the Later Roman Empire (1910), raw IA OCR. Not minted.
+Shelf: `pipeline/bury_shelf.json`. Bury's Later Roman Empire (1889, 2 vols.), Eastern Roman Empire (1912), Constitution of the Later Roman Empire (1910) and History of Greece (first edition, 1900), raw IA OCR. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -5893,10 +5895,11 @@ Shelf: `pipeline/bury_shelf.json`. Bury's Later Roman Empire (1889, 2 vols.), Ea
 | A History of the Later Roman Empire from Arcadius to Irene (395 A.D. to 800 A.D.), vol. II (London and New York: Macmillan, 1889) |  | `bury-later-roman-empire-v2-1889` | have-raw (IA `ahistorylaterro01burygoog`) |
 | A History of the Eastern Roman Empire from the Fall of Irene to the Accession of Basil I (London: Macmillan, 1912) |  | `bury-eastern-roman-empire-1912` | have-raw (IA `historyofeastern00buryiala`) |
 | The Constitution of the Later Roman Empire (Creighton memorial lecture; Cambridge: University Press, 1910) |  | `bury-constitution-later-roman-empire-1910` | have-raw (IA `constitutionofla00buryuoft`) |
+| A History of Greece to the Death of Alexander the Great (London: Macmillan, 1900) |  | `bury-history-greece-1900` | have-raw (IA `ahistorygreecet01burygoog`) |
 
 Excluded: The Student's Roman Empire (IA studentsromanemp00buryuoft) (no year on the scan's title page; held back under the undated rule); A History of the Later Roman Empire vol. II (IA historyoflaterro02buryuoft) (no year on the scan's title page; the dated 1889 copy is taken)
 
-Pending (wishlist): A History of Greece (1900) and the Student's Roman Empire in dated scans.
+Pending (wishlist): the Student's Roman Empire in a dated scan.
 
 ## Ernst Curtius (scholarship)
 
@@ -5980,23 +5983,23 @@ Shelf: `pipeline/cornewall-lewis_shelf.json`. An Inquiry into the Credibility of
 
 ## S. H. Butcher (scholarship)
 
-Shelf: `pipeline/butcher_shelf.json`. Harvard Lectures on Greek Subjects (1904). Raw IA OCR. Not minted.
+Shelf: `pipeline/butcher_shelf.json`. Harvard Lectures on Greek Subjects (1904) and Some Aspects of the Greek Genius (third edition, 1904). Raw IA OCR. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Harvard Lectures on Greek Subjects (New York: Macmillan, 1904) |  | `butcher-harvard-lectures-greek-subjects-1904` | have-raw (IA `harvardlectureso00butciala`) |
+| Some Aspects of the Greek Genius, third edition (London: Macmillan, 1904) |  | `butcher-some-aspects-greek-genius-1904` | have-raw (IA `someaspectsofgre00butcuoft`) |
 
 Excluded: Aristotle's Theory of Poetry and Fine Art (1898; IA aristotlestheory00butc) (refused: OCR 0.69, Greek text facing)
 
 ## A. E. Haigh (scholarship)
 
-Shelf: `pipeline/haigh_shelf.json`. The Attic Theatre, Oxford: Clarendon Press 1889. Raw IA OCR; the OCR garbles the author line, so identity was checked by eye. Not minted.
+Shelf: `pipeline/haigh_shelf.json`. The Attic Theatre (Clarendon Press, 1889) and The Tragic Drama of the Greeks (Clarendon Press, 1896), raw IA OCR; the 1889 OCR garbles the author line, so identity was checked by eye. Gutenberg's Attic Theatre (PG 76555) is the 1907 third edition revised by Pickard-Cambridge, not added beside the first. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Attic Theatre: a description of the stage and theatre of the Athenians (Oxford: Clarendon Press, 1889) |  | `haigh-attic-theatre-1889` | have-raw (IA `attictheatredesc00haiguoft`) |
-
-Pending (wishlist): The Tragic Drama of the Greeks (1896)
+| The Tragic Drama of the Greeks (Oxford: Clarendon Press, 1896) |  | `haigh-tragic-drama-greeks-1896` | have-raw (IA `tragicdramaofgre00haiguoft`) |
 
 ## Henry Nettleship (scholarship)
 
@@ -6030,6 +6033,25 @@ Shelf: `pipeline/gow_shelf.json`. A Companion to School Classics, 2nd ed., 1889.
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | A Companion to School Classics, second edition, revised (London and New York: Macmillan, 1889) |  | `gow-companion-school-classics-1889` | have-raw (IA `companiontoschoo00gowjuoft`) |
+
+## C. T. Cruttwell (scholarship)
+
+Shelf: `pipeline/cruttwell_shelf.json`. A History of Roman Literature, clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Roman Literature from the Earliest Period to the Death of Marcus Aurelius |  | `cruttwell-history-roman-literature` | have (PG 7525) |
+
+## A. W. Verrall (scholarship)
+
+Shelf: `pipeline/verrall_shelf.json`. Odes of Horace (1884), Bacchants of Euripides (1910), and the two 1913 collections edited by Bayfield and Duff, raw IA OCR. Bayfield's death year unchecked (editorial matter US-PD by date). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Studies Literary and Historical in the Odes of Horace (London: Macmillan, 1884) |  | `verrall-odes-horace-1884` | have-raw (IA `cu31924026492458`) |
+| The Bacchants of Euripides and Other Essays (Cambridge: University Press, 1910) |  | `verrall-bacchants-euripides-1910` | have-raw (IA `bacchantsofeurip00verrrich`) |
+| Collected Literary Essays, Classical and Modern, ed. M. A. Bayfield and J. D. Duff, with a memoir (Cambridge: University Press, 1913) |  | `verrall-collected-literary-essays-1913` | have-raw (IA `collectedliterar00verruoft`) |
+| Collected Studies in Greek and Latin Scholarship, ed. M. A. Bayfield and J. D. Duff (Cambridge: University Press, 1913) |  | `verrall-collected-studies-1913` | have-raw (IA `cu31924021596261`) |
 
 ## Perseus census (overflow)
 
