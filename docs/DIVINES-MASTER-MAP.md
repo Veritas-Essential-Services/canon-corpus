@@ -3088,6 +3088,26 @@ Slugs `mullins-*`. Southern Baptist Seminary president. Eight books 1905-1924; e
 | Baptist Beliefs Judson printings to 1974, Faith in the Modern World (1930) and other 1930-and-later books | excluded | |
 | The International Standard Bible Encyclopaedia: he was an editor | excluded | |
 | Eustace Mullins and others | excluded | |
+
+## B. H. Carroll (round 18, my pick, 2026-10-10)
+
+Slugs `carroll-*`. Founder of Southwestern Seminary. Nine Revell volumes (1913-1917) of An Interpretation of the English Bible; the other volumes exist only in Broadman reprints from 1942 on.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons and Life Sketch of B. H. Carroll, compiled by J. B. Cranfill (Philadelphia: American Baptist Publication Society; copyright 1893) | have-ocr | IA `sermonslifesketc0000carr` |
+| An Interpretation of the English Bible: Exodus and Leviticus (New York: Fleming H. Revell; copyright 1913) | have-ocr | IA `interpretationof02carr` |
+| An Interpretation of the English Bible: The Book of Revelation (New York: Fleming H. Revell; copyright 1913) | have-ocr | IA `bookofrevelation00carr` |
+| An Interpretation of the English Bible: Daniel and the Inter-Biblical Period (New York: Fleming H. Revell; copyright 1915) | have-ocr | IA `danielinterbibli00carr` |
+| An Interpretation of the English Bible: The Pastoral Epistles of Paul, I and II Peter, Jude, and I, II and III John (New York: Fleming H. Revell; copyright 1915) | have-ocr | IA `pastoralepistles00carr` |
+| An Interpretation of the English Bible: The Four Gospels, vol. 2 (New York: Fleming H. Revell; copyright 1916) | have-ocr | IA `interpretationof07carr` |
+| An Interpretation of the English Bible: James, I and II Thessalonians, I and II Corinthians (New York: Fleming H. Revell; copyright 1916) | have-ocr | IA `interpretationof10carr` |
+| An Interpretation of the English Bible: Galatians, Romans, Philippians, Philemon (New York: Fleming H. Revell; copyright 1916) | have-ocr | IA `galatiansromansp00carr` |
+| An Interpretation of the English Bible: The Hebrew Monarchy (New York: Fleming H. Revell; copyright 1916) | have-ocr | IA `hebrewmonarchy00carr` |
+| An Interpretation of the English Bible: Colossians, Ephesians and Hebrews (New York: Fleming H. Revell; copyright 1917) | have-ocr | IA `colossians00carr` |
+| Second copies: interpretationof00carr, interpretationof12carr, MN41874ucmf_1, cihm_66598; Revell-imprint scans with unknown printing year (bookofrevelation0000bhca and others) | alternate | not shelved |
+| Broadman Press reprints (copyright purchased 1942) and 1930-and-later volumes | excluded | |
+| B. H. Carroll Jr. (IA genesisofamerica00carr and his histories): his son, a different author | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

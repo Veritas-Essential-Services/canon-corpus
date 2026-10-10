@@ -844,3 +844,6 @@
 
 ## 2026-10-10 12:10 CDT — e-y-mullins done
 - `pipeline/e-y-mullins_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for mullins-axioms (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — b-h-carroll done
+- `pipeline/b-h-carroll_shelf.json`: 0 CCEL, 0 PG, 10 IA. An incomplete set of the Interpretation. `--verify --record`: 0 mismatched. 0 uids minted.
