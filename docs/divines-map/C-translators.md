@@ -908,6 +908,42 @@ Round 14 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `vizetelly-zola-paris` | Émile Zola | Paris | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 9169 |
 | — | — | three-cities-parts: Gutenberg also splits Lourdes, Rome and Paris into volumes (8511-8515, 8721-8725, 9165-9167) and has a trilogy omnibus (9170); the complete single-novel texts (8516, 8726, 9169) are used, so nothing is held twice. | — | — | excluded | — |
 
+## Leo Wiener's Complete Works of Count Tolstoy (1904-05)
+
+Shelf: `pipeline/wiener-tolstoy_shelf.json` · fetch `python3 pipeline/fetch_shelf.py wiener-tolstoy` · titles `python3 pipeline/split_shelf_titles.py wiener-tolstoy`.
+Round 15 (2026-10-10), vetoable. One title per volume, 24 volumes. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `wiener-tolstoy-vol-01` | Tolstoy | Complete Works, vol. 1: Childhood, Boyhood, Youth; The Incursion | Leo Wiener | 1904 | have-raw | IA `completeworksofc01tols` |
+| `wiener-tolstoy-vol-02` | Tolstoy | Complete Works, vol. 2: A Landed Proprietor; The Cossacks; Sevastopol | Leo Wiener | 1904 | have-raw | IA `completeworksofc02tols` |
+| `wiener-tolstoy-vol-03` | Tolstoy | Complete Works, vol. 3: A Moscow Acquaintance; The Snow-Storm; Domestic Happiness; Miscellanies | Leo Wiener | 1904 | have-raw | IA `completeworksofc03tols` |
+| `wiener-tolstoy-vol-04` | Tolstoy | Complete Works, vol. 4: Pedagogical Articles; Linen-Measurer | Leo Wiener | 1904 | have-raw | IA `completeworksofc04tols` |
+| `wiener-tolstoy-vol-05` | Tolstoy | Complete Works, vol. 5: War and Peace, vol. I | Leo Wiener | 1904 | have-raw | IA `completeworksofc05tols` |
+| `wiener-tolstoy-vol-06` | Tolstoy | Complete Works, vol. 6: War and Peace, vol. II | Leo Wiener | 1904 | have-raw | IA `completeworksofc06tols` |
+| `wiener-tolstoy-vol-07` | Tolstoy | Complete Works, vol. 7: War and Peace, vol. III | Leo Wiener | 1904 | have-raw | IA `completeworksofc07tols` |
+| `wiener-tolstoy-vol-08` | Tolstoy | Complete Works, vol. 8: War and Peace, vol. IV | Leo Wiener | 1904 | have-raw | IA `completeworksof08tols` |
+| `wiener-tolstoy-vol-09` | Tolstoy | Complete Works, vol. 9: Anna Karénin, vol. I | Leo Wiener | 1904 | have-raw | IA `completeworksofc09tols` |
+| `wiener-tolstoy-vol-10` | Tolstoy | Complete Works, vol. 10: Anna Karénin, vol. II | Leo Wiener | 1904 | have-raw | IA `completeworksof10tols` |
+| `wiener-tolstoy-vol-11` | Tolstoy | Complete Works, vol. 11: Anna Karénin, vol. III | Leo Wiener | 1904 | have-raw | IA `completeworksofc11tols` |
+| `wiener-tolstoy-vol-12` | Tolstoy | Complete Works, vol. 12: Fables for Children; Stories for Children; Natural Science Stories; Popular Education; Decembrists; Moral Tales | Leo Wiener | 1904 | have-raw | IA `completeworksofc12tols` |
+| `wiener-tolstoy-vol-13` | Tolstoy | Complete Works, vol. 13: My Confession; Critique of Dogmatic Theology | Leo Wiener | 1904 | have-raw | IA `completeworksofc13tols` |
+| `wiener-tolstoy-vol-14` | Tolstoy | Complete Works, vol. 14: The Four Gospels Harmonized and Translated, vol. I | Leo Wiener | 1904 | have-raw | IA `completeworksofc14tols` |
+| `wiener-tolstoy-vol-15` | Tolstoy | Complete Works, vol. 15: The Four Gospels Harmonized and Translated, vol. II | Leo Wiener | 1904 | have-raw | IA `completeworksofc15tols` |
+| `wiener-tolstoy-vol-16` | Tolstoy | Complete Works, vol. 16: My Religion; On Life; Thoughts on God; On the Meaning of Life | Leo Wiener | 1904 | have-raw | IA `completeworksofc16tols` |
+| `wiener-tolstoy-vol-17` | Tolstoy | Complete Works, vol. 17: What Shall We Do Then?; On the Moscow Census; Collected Articles | Leo Wiener | 1904 | have-raw | IA `completeworksofc17tols` |
+| `wiener-tolstoy-vol-18` | Tolstoy | Complete Works, vol. 18: The Death of Ivan Ilich; Dramatic Works; The Kreutzer Sonata | Leo Wiener | 1904 | have-raw | IA `completeworksofc18tols` |
+| `wiener-tolstoy-vol-19` | Tolstoy | Complete Works, vol. 19: Walk in the Light while Ye Have Light; Thoughts and Aphorisms; Letters; Miscellanies | Leo Wiener | 1904 | have-raw | IA `completeworksofc19tols` |
+| `wiener-tolstoy-vol-20` | Tolstoy | Complete Works, vol. 20: The Kingdom of God is Within You; Christianity and Patriotism; Miscellanies | Leo Wiener | 1905 | have-raw | IA `completeworksofc20tols` |
+| `wiener-tolstoy-vol-21` | Tolstoy | Complete Works, vol. 21: Resurrection, vol. I | Leo Wiener | 1904 | have-raw | IA `completeworksofc21tols` |
+| `wiener-tolstoy-vol-22` | Tolstoy | Complete Works, vol. 22: Resurrection, vol. II; What is Art?; The Christian Teaching | Leo Wiener | 1904 | have-raw | IA `completeworksofc22tols` |
+| `wiener-tolstoy-vol-23` | Tolstoy | Complete Works, vol. 23: Miscellaneous Letters and Essays | Leo Wiener | 1905 | have-raw | IA `completeworksofc23tolsiala` |
+| `wiener-tolstoy-vol-24` | Tolstoy | Complete Works, vol. 24: Latest Works; Life; General Index; Bibliography | Leo Wiener | 1905 | have-raw | IA `completeworksofc24tols` |
+| — | — | completeworksofc08tols: Vol. 8 copy without its title page (starts at War and Peace Part XII); the Florida copy completeworksof08tols is used. | — | — | excluded | — |
+| — | — | completeworksofc10tols: Vol. 10: archive.org returned HTTP 500 for its text; completeworksof10tols is used. | — | — | excluded | — |
+| — | — | completeworksofc25tols-28tols: Vols 25-28 in the same cdl run are outside Wiener's 24-volume set; not checked. | — | — | excluded | — |
+| — | — | pg-38025, pg-43372: Gutenberg texts of Wiener vols 12 and 20 exist; the scans are used for the whole set from one edition. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

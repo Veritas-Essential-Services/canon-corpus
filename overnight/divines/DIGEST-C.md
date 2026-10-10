@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T10:05-05:00: 58 shelves, 305 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57. **12 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T10:18-05:00: 59 shelves, 329 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24. **12 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -167,3 +167,7 @@ From this round on, every Gutenberg and archive.org id is checked against every 
 - **`vizetelly`** (16 titles, Gutenberg): Ernest Alfred Vizetelly's Zola (Chatto and Windus, 1886-1906), including the Three Cities as complete single novels rather than Gutenberg's split volumes. Gutenberg names him as editor rather than translator for *The Fortune of the Rougons* and *His Masterpiece*. Those two say they revise an earlier version, so their titles say so.
 
 The `translated` field gives the series' date range, not each book's first year. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. **Your call:** none beyond the veto.
+
+## Round 15: Leo Wiener's Complete Tolstoy (2026-10-10)
+
+New shelf `wiener-tolstoy`: the first complete English Tolstoy, translated by Leo Wiener (Dana Estes, Boston, 1904-05). It is shelved as one title per volume, all 24 volumes, raw OCR with each title page read ("Translated from the Original Russian and Edited by Leo Wiener"). For two volumes the first copy was unusable: one lacked its title page and one would not download. Florida's copies are used for those and the swaps are noted. It is a second witness beside the Maudes', Garnett's and Hapgood's Tolstoy; ids were checked across all branches and nothing is held twice. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. **Your call:** none beyond the veto.

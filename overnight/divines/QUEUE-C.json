@@ -480,6 +480,14 @@
    "finished": "2026-10-10T10:05-05:00",
    "scope": "TRANSLATOR SHELF (round 14, lane C's choice; Adam may veto) -- vizetelly; PD printings before 1931 only; no minting",
    "notes": "16 titles; ids checked against all shelves on all branches first. See DIGEST-C round 14. No uids minted."
+  },
+  {
+   "id": "shelf-wiener-tolstoy",
+   "status": "done",
+   "started": "2026-10-10T10:18-05:00",
+   "finished": "2026-10-10T10:18-05:00",
+   "scope": "TRANSLATOR SHELF (round 15, lane C's choice; Adam may veto) -- wiener-tolstoy; PD printings before 1931 only; no minting",
+   "notes": "24 volumes; ids checked across all branches. See DIGEST-C round 15. No uids minted."
   }
  ]
 }
