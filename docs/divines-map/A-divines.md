@@ -3699,3 +3699,43 @@ Slugs `richmond-*`. Evangelical Anglican tract writer; no pre-1826 printing of a
 | Gaelic, German, Portuguese, Marathi and other translations | excluded | |
 | Grimshawe's Memoir (1829) and Domestic Portraiture (1833): by other hands | excluded | |
 | Burgess's Moral Annals of the Poor and other works not by him | excluded | |
+
+## William Kelly (round 20, my pick, 2026-10-10)
+
+Slugs `kelly-*`. Brethren scholar and Darby's editor; Morrish and later Broom/Weston printings.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on the Epistle of Paul the Apostle to the Ephesians, with a new translation (London: G. Morrish; no year on title page) | have-ocr | IA `MN41979ucmf_7` |
+| Notes on the Book of Daniel (London: George Morrish; no year on title page, catalogued 1858) | have-ocr | IA `notesonbookofdan00kell` |
+| Lectures on the Book of Revelation (London: Williams and Norgate, 1861) | have-ocr | IA `lecturesonbookof00kell` |
+| Lectures on the Epistle of Paul the Apostle to the Galatians, with a new translation (London: G. Morrish; no year on title page, catalogued 1865) | have-ocr | IA `lecturesonepistl00kell` |
+| Six Lectures on Fundamental Truths Connected with the Church of God (London: W. H. Broom, 1865) | have-ocr | IA `sixlecturesonfun00kell` |
+| Lectures on the Second Coming and Kingdom of the Lord and Saviour Jesus Christ (London: W. H. Broom, 1865) | have-ocr | IA `lecturesonsecon01kellgoog` |
+| Lectures Introductory to the Study of the Gospels (London: W. H. Broom, 1867) | have-ocr | IA `cu31924031187754` |
+| Lectures on the New Testament Doctrine of the Holy Spirit (London: W. H. Broom, 1868) | have-ocr | IA `lecturesonnewtes00kell` |
+| Lectures on the Gospel of Matthew (London: G. Morrish; no year on title page, catalogued 1868) | have-ocr | IA `lecturesongospel00kell` |
+| The Second Advent of Christ Premillennial: A Reply to the Rev. D. Brown (Glasgow: R. L. Allan, 1868) | have-ocr | IA `secondadventchr00kellgoog` |
+| Christ and the Seven Churches (Glasgow: R. L. Allan; no year on title page, catalogued 1868) | have-ocr | IA `christsevenchur00kellgoog` |
+| Lectures Introductory to the Study of the Epistles of Paul the Apostle (London: W. H. Broom, 1869) | have-ocr | IA `cu31924031183803` |
+| Lectures on the Church of God, new edition revised (London: W. H. Broom, 1869) | have-ocr | IA `lectureschurchg00kellgoog` |
+| Lectures Introductory to the Study of the Acts, the Catholic Epistles, and the Revelation (London: W. H. Broom, 1870) | have-ocr | IA `lecturesintroduc00kell` |
+| Lectures Introductory to the Study of the Pentateuch (London: W. H. Broom; no year on title page, catalogued 1871) | have-ocr | IA `lecturesintrodu02kellgoog` |
+| Lectures on the Book of Isaiah (London: Robert L. Allan, 1871) | have-ocr | IA `lecturesonbooko00kell` |
+| Notes on the Epistle of Paul the Apostle to the Romans, with a new translation (London: G. Morrish; year read as 1875, preface 1873) | have-ocr | IA `notesonepistleof00kell` |
+| Abram: Lectures on Genesis XII-XXV, by W. K. (London: G. Morrish, 1876) | have-ocr | IA `abramlectureson00kellgoog` |
+| Elements of Prophecy (London: G. Morrish; no year on title page, catalogued 1876) | have-ocr | IA `elementsprophec00kellgoog` |
+| Notes on the Book of Job, with a new version (London: G. Morrish, 1879) | have-ocr | IA `notesonbookjobw00kellgoog` |
+| Lectures on the Day of Atonement, Leviticus XVI (London: W. Walters, 1889) | have-ocr | IA `lecturesondayat01kellgoog` |
+| Notes on the Book of Daniel, with an introduction in review of Dean Farrar's work (London: James Carter, 1897) | have-ocr | IA `bwb_S0-AVH-962` |
+| An Exposition of the Gospel of John (London: T. Weston, 1898) | have-ocr | IA `bwb_Y0-BSQ-075` |
+| The Preaching to the Spirits in Prison, 1 Peter III.18-20 (London: T. Weston, 1900) | have-ocr | IA `preachingtospiri00kellrich` |
+| The Lord's Prophecy on Olivet in Matthew XXIV-XXV (London: T. Weston, 1903) | have-ocr | IA `lordsprophecyon00kellgoog` |
+| An Exposition of the Epistle to the Hebrews, with a new version (London: T. Weston, 1905) | have-ocr | IA `anexpositionepi02unkngoog` |
+| In the Beginning, and the Adamic Earth: An Exposition of Genesis I-II.3, new edition revised (London: T. Weston, 1907) | have-ocr | IA `imbeginningadami0000will` |
+| Exposition of the Epistle of James (London: F. E. Race, 1913) | have-ocr | IA `expositionofepis0000will_q9n7` |
+| An Exposition of the Book of Isaiah, third edition (London: F. E. Race, 1916) | have-ocr | IA `bwb_P9-EGA-318` |
+| Second copies of the Revelation, Six Lectures, Second Coming, the Introductory Lectures, Romans, Job, Day of Atonement, Spirits in Prison and Genesis volumes | alternate | not shelved |
+| Nabu, Klock & Klock, Bible Truth Publishers and Welch Foundation reprints | excluded | |
+| French translation of his Daniel | excluded | |
+| William Kelly of Leicester, the California travel writer, W. Hyde Kelly, J. N. D. Kelly, and CCEL's John Kelly | excluded | |
