@@ -1,0 +1,31 @@
+{
+ "_about": "Charles Anthon (1797-1867), Jay Professor of Greek and Latin at Columbia: A Classical Dictionary (New York: Harper, 1848 printing; entered for copyright 1841), raw IA OCR. A reference work, not a lexicon of words. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "anthon"
+ ],
+ "_surname": [
+  "charles anthon",
+  "anthon, charles"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "anthon-classical-dictionary-1848": [
+   "classicaldiction00anth",
+   "A Classical Dictionary, containing an account of the principal proper names mentioned in ancient authors (New York: Harper, 1848)"
+  ]
+ },
+ "_checks": {
+  "anthon-classical-dictionary-1848": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles anthon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
