@@ -1,0 +1,106 @@
+{
+ "_about": "TRANSLATOR SHELF: Lt.-Col. Alexander Ewing (1830-1895), composer of 'Jerusalem the Golden': Hoffmann's The Serapion Brethren, 2 vols (1886-1892), and Jean Paul's Flower, Fruit, and Thorn Pieces (1877). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "alexander ewing",
+  "lt.-col. alex. ewing",
+  "a. ewing"
+ ],
+ "_surname": [
+  "alexander ewing",
+  "lt.-col. alex. ewing",
+  "a. ewing"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ewi-31668": [
+   31668,
+   "The Serapion Brethren, Vol. II"
+  ],
+  "ewi-31820": [
+   31820,
+   "The Serapion Brethren, Vol. I."
+  ],
+  "ewi-36164": [
+   36164,
+   "Flower, Fruit, and Thorn Pieces; or, the Wedded Life, Death, and Marriage of Firmian Stanislaus Siebenkaes, Parish Advocate in the Burgh of Kuhschnappel."
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "alexander-ewing-hoffmann-the-serapion-brethren-vol-i": {
+   "source": "ewi-31820",
+   "of": "E. T. A. Hoffmann",
+   "work": "The Serapion Brethren, Vol. I.",
+   "translated": "1877-1892 (see the Gutenberg header)",
+   "translator": "Alexander Ewing",
+   "scan_edition": "Project Gutenberg 31820 (clean text)"
+  },
+  "alexander-ewing-hoffmann-the-serapion-brethren-vol-ii": {
+   "source": "ewi-31668",
+   "of": "E. T. A. Hoffmann",
+   "work": "The Serapion Brethren, Vol. II",
+   "translated": "1877-1892 (see the Gutenberg header)",
+   "translator": "Alexander Ewing",
+   "scan_edition": "Project Gutenberg 31668 (clean text)"
+  },
+  "alexander-ewing-jean-paul-flower-fruit-and-thorn-pieces-or-the-wed": {
+   "source": "ewi-36164",
+   "of": "Jean Paul",
+   "work": "Flower, Fruit, and Thorn Pieces; or, the Wedded Life, Death, and Marriage of Firmian Stanislaus Siebenkaes, Parish Advocate in the Burgh of Kuhschnappel.",
+   "translated": "1877-1892 (see the Gutenberg header)",
+   "translator": "Alexander Ewing",
+   "scan_edition": "Project Gutenberg 36164 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ewi-31668": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. ewing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. Ewing"
+  },
+  "ewi-31820": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. ewing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. Ewing"
+  },
+  "ewi-36164": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alexander ewing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. Ewing"
+  }
+ },
+ "_verified": {
+  "ewi-31668": {
+   "pg": 31668,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. Ewing"
+  },
+  "ewi-31820": {
+   "pg": 31820,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. Ewing"
+  },
+  "ewi-36164": {
+   "pg": 36164,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. Ewing"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

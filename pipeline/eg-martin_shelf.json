@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: Elizabeth Gilbert Martin (b. 1837): Imbert de Saint-Amand's Famous Women of the French Court: Marie Antoinette and the Downfall of Royalty, The Court of Louis XV and Last Years of Louis XV (Scribner, 1890s). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "elizabeth gilbert martin"
+ ],
+ "_surname": [
+  "elizabeth gilbert martin"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "egm-32408": [
+   32408,
+   "Marie Antoinette and the Downfall of Royalty"
+  ],
+  "egm-73192": [
+   73192,
+   "The court of Louis XV"
+  ],
+  "egm-79712": [
+   79712,
+   "Last years of Louis XV"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "eg-martin-saint-amand-last-years-of-louis-xv": {
+   "source": "egm-79712",
+   "of": "Imbert de Saint-Amand",
+   "work": "Last years of Louis XV",
+   "translated": "1891-1893 (see the Gutenberg header)",
+   "translator": "Elizabeth Gilbert Martin",
+   "scan_edition": "Project Gutenberg 79712 (clean text)"
+  },
+  "eg-martin-saint-amand-marie-antoinette-and-the-downfall-of-roy": {
+   "source": "egm-32408",
+   "of": "Imbert de Saint-Amand",
+   "work": "Marie Antoinette and the Downfall of Royalty",
+   "translated": "1891-1893 (see the Gutenberg header)",
+   "translator": "Elizabeth Gilbert Martin",
+   "scan_edition": "Project Gutenberg 32408 (clean text)"
+  },
+  "eg-martin-saint-amand-the-court-of-louis-xv": {
+   "source": "egm-73192",
+   "of": "Imbert de Saint-Amand",
+   "work": "The court of Louis XV",
+   "translated": "1891-1893 (see the Gutenberg header)",
+   "translator": "Elizabeth Gilbert Martin",
+   "scan_edition": "Project Gutenberg 73192 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "egm-32408": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "elizabeth gilbert martin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elizabeth Gilbert Martin"
+  },
+  "egm-73192": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "elizabeth gilbert martin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elizabeth Gilbert Martin"
+  },
+  "egm-79712": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "elizabeth gilbert martin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elizabeth Gilbert Martin"
+  }
+ },
+ "_verified": {
+  "egm-32408": {
+   "pg": 32408,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Elizabeth Gilbert Martin"
+  },
+  "egm-73192": {
+   "pg": 73192,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Elizabeth Gilbert Martin"
+  },
+  "egm-79712": {
+   "pg": 79712,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Elizabeth Gilbert Martin"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: two Bowrings, translator recorded per title. Sir John Bowring (1792-1872): Chamisso's Peter Schlemihl (1824). His son Edgar Alfred Bowring (1826-1911): Goethe's Poems in the original metres (1853) and Heine's Poems, complete (1859). PD. Added 2026-10-03 by lane C (round 7) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_about": "TRANSLATOR SHELF: two Bowrings, translator recorded per title. Sir John Bowring (1792-1872): Chamisso's Peter Schlemihl (1824). His son Edgar Alfred Bowring (1826-1911): Goethe's Poems in the original metres (1853) and Heine's Poems, complete (1859). PD. Added 2026-10-03 by lane C (round 7) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst. Round 37 gap-fill: Sir John's Specimens of the Russian Poets (2 vols, 1821-1823), Servian Popular Poetry (1827) and the 1920 Anthology of Jugoslav Poetry built mostly on his versions.",
  "_name_words": [
   "bowring"
  ],
@@ -19,17 +19,35 @@
   "bowring-heine-poems": [
    52882,
    "The poems of Heine; Complete"
+  ],
+  "bowring-pg39028": [
+   39028,
+   "Servian Popular Poetry"
+  ],
+  "bowring-pg78744": [
+   78744,
+   "Specimens of the Russian Poets, vol. 1 (of 2)"
+  ],
+  "bowring-pg78745": [
+   78745,
+   "Specimens of the Russian Poets, vol. 2 (of 2)"
+  ],
+  "bowring-pg36091": [
+   36091,
+   "An Anthology of Jugoslav Poetry: Serbian Lyrics"
   ]
  },
  "internet_archive": {},
  "titles": {
-  "bowring-peter-schlemihl": {
-   "source": "bowring-schlemihl",
-   "of": "Chamisso",
-   "work": "Peter Schlemihl",
-   "translated": 1824,
-   "translator": "John Bowring",
-   "scan_edition": "Project Gutenberg 21943 (clean text)"
+  "bowring-anthology-of-jugoslav-poetry": {
+   "source": "bowring-pg36091",
+   "of": "Serbian lyric poets (anthology, ed. Beatrice L. Stevenson)",
+   "work": "An Anthology of Jugoslav Poetry: Serbian Lyrics",
+   "translated": "1920 anthology of 19th-century translations (see the Gutenberg header)",
+   "translator": "John Bowring (with Owen Meredith and others; ed. Beatrice L. Stevenson)",
+   "scan_edition": "Project Gutenberg 36091 (clean text)",
+   "added": "2026-10-10, lane C round 37 (gap-fill); Adam may veto",
+   "note": "A 1920 anthology: Bowring is the main translator but not the only one; Stevenson's selection, credited per poem in the text."
   },
   "bowring-goethe-poems": {
    "source": "bowring-goethe-poems",
@@ -46,6 +64,41 @@
    "translated": 1859,
    "translator": "Edgar Alfred Bowring",
    "scan_edition": "Project Gutenberg 52882 (clean text)"
+  },
+  "bowring-peter-schlemihl": {
+   "source": "bowring-schlemihl",
+   "of": "Chamisso",
+   "work": "Peter Schlemihl",
+   "translated": 1824,
+   "translator": "John Bowring",
+   "scan_edition": "Project Gutenberg 21943 (clean text)"
+  },
+  "bowring-servian-popular-poetry": {
+   "source": "bowring-pg39028",
+   "of": "Serbian folk poetry (Vuk Karadžić's collection)",
+   "work": "Servian Popular Poetry",
+   "translated": "1827 (see the Gutenberg header)",
+   "translator": "John Bowring",
+   "scan_edition": "Project Gutenberg 39028 (clean text)",
+   "added": "2026-10-10, lane C round 37 (gap-fill); Adam may veto"
+  },
+  "bowring-specimens-of-the-russian-poets-vol-1": {
+   "source": "bowring-pg78744",
+   "of": "various Russian poets (anthology)",
+   "work": "Specimens of the Russian Poets, vol. 1 (of 2)",
+   "translated": "1821 (see the Gutenberg header)",
+   "translator": "John Bowring",
+   "scan_edition": "Project Gutenberg 78744 (clean text)",
+   "added": "2026-10-10, lane C round 37 (gap-fill); Adam may veto"
+  },
+  "bowring-specimens-of-the-russian-poets-vol-2": {
+   "source": "bowring-pg78745",
+   "of": "various Russian poets (anthology)",
+   "work": "Specimens of the Russian Poets, vol. 2 (of 2)",
+   "translated": "1823 (see the Gutenberg header)",
+   "translator": "John Bowring",
+   "scan_edition": "Project Gutenberg 78745 (clean text)",
+   "added": "2026-10-10, lane C round 37 (gap-fill); Adam may veto"
   }
  },
  "_pending": {
@@ -59,7 +112,7 @@
  "_checks": {
   "bowring-schlemihl": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "bowring",
    "identity": "ok",
@@ -68,7 +121,7 @@
   },
   "bowring-goethe-poems": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "bowring",
    "identity": "ok",
@@ -77,12 +130,48 @@
   },
   "bowring-heine-poems": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "bowring",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Edgar Alfred Bowring"
+  },
+  "bowring-pg39028": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bowring",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Bowring"
+  },
+  "bowring-pg78744": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bowring",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Bowring"
+  },
+  "bowring-pg78745": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bowring",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Bowring"
+  },
+  "bowring-pg36091": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bowring",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Bowring; Earl of Edward Robert Bulwer Lytton Lytton; James William Wiles"
   }
  },
  "_verified": {
@@ -100,6 +189,26 @@
    "pg": 52882,
    "pg_copyrighted_marker": false,
    "pg_translator": "Edgar Alfred Bowring"
+  },
+  "bowring-pg39028": {
+   "pg": 39028,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Bowring"
+  },
+  "bowring-pg78744": {
+   "pg": 78744,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Bowring"
+  },
+  "bowring-pg78745": {
+   "pg": 78745,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Bowring"
+  },
+  "bowring-pg36091": {
+   "pg": 36091,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Bowring"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

@@ -1,0 +1,128 @@
+{
+ "_about": "TRANSLATOR SHELF: Captain John Brett (d. 1785): Feijoo's Essays, or Discourses, selected from the Teatro Crítico Universal, 4 vols (1777-1780). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "john brett"
+ ],
+ "_surname": [
+  "john brett"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "bre-71277": [
+   71277,
+   "Essays, or discourses, vol. 1 (of 4)"
+  ],
+  "bre-71278": [
+   71278,
+   "Essays, or discourses, vol. 2 (of 4)"
+  ],
+  "bre-76228": [
+   76228,
+   "Essays, or discourses, vol. 3 (of 4)"
+  ],
+  "bre-76229": [
+   76229,
+   "Essays, or discourses, vol. 4 (of 4)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "brett-feijoo-feijoo-essays-or-discourses-vol-1-of-4": {
+   "source": "bre-71277",
+   "of": "Benito Jerónimo Feijoo",
+   "work": "Essays, or discourses, vol. 1 (of 4)",
+   "translated": "1777-1780 (see the Gutenberg header)",
+   "translator": "John Brett",
+   "scan_edition": "Project Gutenberg 71277 (clean text)"
+  },
+  "brett-feijoo-feijoo-essays-or-discourses-vol-2-of-4": {
+   "source": "bre-71278",
+   "of": "Benito Jerónimo Feijoo",
+   "work": "Essays, or discourses, vol. 2 (of 4)",
+   "translated": "1777-1780 (see the Gutenberg header)",
+   "translator": "John Brett",
+   "scan_edition": "Project Gutenberg 71278 (clean text)"
+  },
+  "brett-feijoo-feijoo-essays-or-discourses-vol-3-of-4": {
+   "source": "bre-76228",
+   "of": "Benito Jerónimo Feijoo",
+   "work": "Essays, or discourses, vol. 3 (of 4)",
+   "translated": "1777-1780 (see the Gutenberg header)",
+   "translator": "John Brett",
+   "scan_edition": "Project Gutenberg 76228 (clean text)"
+  },
+  "brett-feijoo-feijoo-essays-or-discourses-vol-4-of-4": {
+   "source": "bre-76229",
+   "of": "Benito Jerónimo Feijoo",
+   "work": "Essays, or discourses, vol. 4 (of 4)",
+   "translated": "1777-1780 (see the Gutenberg header)",
+   "translator": "John Brett",
+   "scan_edition": "Project Gutenberg 76229 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "bre-71277": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john brett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Brett"
+  },
+  "bre-71278": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john brett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Brett"
+  },
+  "bre-76228": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john brett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Brett"
+  },
+  "bre-76229": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john brett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Brett"
+  }
+ },
+ "_verified": {
+  "bre-71277": {
+   "pg": 71277,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Brett"
+  },
+  "bre-71278": {
+   "pg": 71278,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Brett"
+  },
+  "bre-76228": {
+   "pg": 76228,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Brett"
+  },
+  "bre-76229": {
+   "pg": 76229,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Brett"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,128 @@
+{
+ "_about": "TRANSLATOR SHELF: Alfred Sutro (1863-1933), Maeterlinck's first English translator: The Treasure of the Humble (1897), Wisdom and Destiny (1898), The Life of the Bee (1901) and The Buried Temple (1902). The Double Garden (with Teixeira de Mattos) is already held elsewhere. US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "alfred sutro"
+ ],
+ "_surname": [
+  "alfred sutro"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "sut-19711": [
+   19711,
+   "The Buried Temple"
+  ],
+  "sut-4349": [
+   4349,
+   "Wisdom and Destiny"
+  ],
+  "sut-4511": [
+   4511,
+   "The Life of the Bee"
+  ],
+  "sut-48217": [
+   48217,
+   "The Treasure of the Humble"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "sutro-maeterlinck-the-buried-temple": {
+   "source": "sut-19711",
+   "of": "Maurice Maeterlinck",
+   "work": "The Buried Temple",
+   "translated": "1897-1902 (see the Gutenberg header)",
+   "translator": "Alfred Sutro",
+   "scan_edition": "Project Gutenberg 19711 (clean text)"
+  },
+  "sutro-maeterlinck-the-life-of-the-bee": {
+   "source": "sut-4511",
+   "of": "Maurice Maeterlinck",
+   "work": "The Life of the Bee",
+   "translated": "1897-1902 (see the Gutenberg header)",
+   "translator": "Alfred Sutro",
+   "scan_edition": "Project Gutenberg 4511 (clean text)"
+  },
+  "sutro-maeterlinck-the-treasure-of-the-humble": {
+   "source": "sut-48217",
+   "of": "Maurice Maeterlinck",
+   "work": "The Treasure of the Humble",
+   "translated": "1897-1902 (see the Gutenberg header)",
+   "translator": "Alfred Sutro",
+   "scan_edition": "Project Gutenberg 48217 (clean text)"
+  },
+  "sutro-maeterlinck-wisdom-and-destiny": {
+   "source": "sut-4349",
+   "of": "Maurice Maeterlinck",
+   "work": "Wisdom and Destiny",
+   "translated": "1897-1902 (see the Gutenberg header)",
+   "translator": "Alfred Sutro",
+   "scan_edition": "Project Gutenberg 4349 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "sut-19711": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred sutro",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alfred Sutro"
+  },
+  "sut-4349": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred sutro",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alfred Sutro"
+  },
+  "sut-4511": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred sutro",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alfred Sutro"
+  },
+  "sut-48217": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred sutro",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alfred Sutro"
+  }
+ },
+ "_verified": {
+  "sut-19711": {
+   "pg": 19711,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alfred Sutro"
+  },
+  "sut-4349": {
+   "pg": 4349,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alfred Sutro"
+  },
+  "sut-4511": {
+   "pg": 4511,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alfred Sutro"
+  },
+  "sut-48217": {
+   "pg": 48217,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alfred Sutro"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

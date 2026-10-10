@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: Elizabeth Lee (1858?-1920): Jusserand's The English Novel in the Time of Shakespeare (1890), Maspero's Egyptian Art (1913) and Rosegger's I.N.R.I.: A Prisoner's Story of the Cross (1905). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "elizabeth lee"
+ ],
+ "_surname": [
+  "elizabeth lee"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ele-17011": [
+   17011,
+   "I.N.R.I.: A prisoner's Story of the Cross"
+  ],
+  "ele-31151": [
+   31151,
+   "The English Novel in the Time of Shakespeare"
+  ],
+  "ele-64387": [
+   64387,
+   "Egyptian Art: Studies"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "elizabeth-lee-jusserand-the-english-novel-in-the-time-of-shakesp": {
+   "source": "ele-31151",
+   "of": "J. J. Jusserand",
+   "work": "The English Novel in the Time of Shakespeare",
+   "translated": "1890-1913 (see the Gutenberg header)",
+   "translator": "Elizabeth Lee",
+   "scan_edition": "Project Gutenberg 31151 (clean text)"
+  },
+  "elizabeth-lee-maspero-egyptian-art-studies": {
+   "source": "ele-64387",
+   "of": "Gaston Maspero",
+   "work": "Egyptian Art: Studies",
+   "translated": "1890-1913 (see the Gutenberg header)",
+   "translator": "Elizabeth Lee",
+   "scan_edition": "Project Gutenberg 64387 (clean text)"
+  },
+  "elizabeth-lee-rosegger-i-n-r-i-a-prisoner-s-story-of-the-cross": {
+   "source": "ele-17011",
+   "of": "Peter Rosegger",
+   "work": "I.N.R.I.: A prisoner's Story of the Cross",
+   "translated": "1890-1913 (see the Gutenberg header)",
+   "translator": "Elizabeth Lee",
+   "scan_edition": "Project Gutenberg 17011 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ele-17011": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "elizabeth lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elizabeth Lee"
+  },
+  "ele-31151": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "elizabeth lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elizabeth Lee"
+  },
+  "ele-64387": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "elizabeth lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elizabeth Lee"
+  }
+ },
+ "_verified": {
+  "ele-17011": {
+   "pg": 17011,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Elizabeth Lee"
+  },
+  "ele-31151": {
+   "pg": 31151,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Elizabeth Lee"
+  },
+  "ele-64387": {
+   "pg": 64387,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Elizabeth Lee"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

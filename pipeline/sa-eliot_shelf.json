@@ -1,0 +1,104 @@
+{
+ "_about": "TRANSLATOR SHELF: Samuel A. Eliot Jr. (1893-1984): Wedekind's Erdgeist (1914), Pandora's Box (1918) and Tragedies of Sex (1923). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "samuel a. eliot",
+  "samuel atkins eliot"
+ ],
+ "_surname": [
+  "samuel a. eliot",
+  "samuel atkins eliot"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "sae-29682": [
+   29682,
+   "Erdgeist (Earth-Spirit): A Tragedy in Four Acts"
+  ],
+  "sae-33415": [
+   33415,
+   "Pandora's Box: A Tragedy in Three Acts"
+  ],
+  "sae-76872": [
+   76872,
+   "Tragedies of sex"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "sa-eliot-wedekind-erdgeist-earth-spirit-a-tragedy-in-four": {
+   "source": "sae-29682",
+   "of": "Frank Wedekind",
+   "work": "Erdgeist (Earth-Spirit): A Tragedy in Four Acts",
+   "translated": "1914-1923 (see the Gutenberg header)",
+   "translator": "Samuel A. Eliot Jr.",
+   "scan_edition": "Project Gutenberg 29682 (clean text)"
+  },
+  "sa-eliot-wedekind-pandora-s-box-a-tragedy-in-three-acts": {
+   "source": "sae-33415",
+   "of": "Frank Wedekind",
+   "work": "Pandora's Box: A Tragedy in Three Acts",
+   "translated": "1914-1923 (see the Gutenberg header)",
+   "translator": "Samuel A. Eliot Jr.",
+   "scan_edition": "Project Gutenberg 33415 (clean text)"
+  },
+  "sa-eliot-wedekind-tragedies-of-sex": {
+   "source": "sae-76872",
+   "of": "Frank Wedekind",
+   "work": "Tragedies of sex",
+   "translated": "1914-1923 (see the Gutenberg header)",
+   "translator": "Samuel A. Eliot Jr.",
+   "scan_edition": "Project Gutenberg 76872 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "sae-29682": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "samuel a. eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Samuel A. Eliot"
+  },
+  "sae-33415": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "samuel a. eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Samuel A. Eliot"
+  },
+  "sae-76872": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "samuel a. eliot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Samuel A. Eliot"
+  }
+ },
+ "_verified": {
+  "sae-29682": {
+   "pg": 29682,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Samuel A. Eliot"
+  },
+  "sae-33415": {
+   "pg": 33415,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Samuel A. Eliot"
+  },
+  "sae-76872": {
+   "pg": 76872,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Samuel A. Eliot"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

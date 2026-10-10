@@ -7705,9 +7705,13 @@ Round 7, vetoable. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
-| `bowring-peter-schlemihl` | Chamisso | Peter Schlemihl | John Bowring | 1824 | have | PG 21943 |
+| `bowring-anthology-of-jugoslav-poetry` | Serbian lyric poets (anthology, ed. Beatrice L. Stevenson) | An Anthology of Jugoslav Poetry: Serbian Lyrics | John Bowring (with Owen Meredith and others; ed. Beatrice L. Stevenson) | 1920 anthology of 19th-century translations (see the Gutenberg header) | have | PG 36091 |
 | `bowring-goethe-poems` | Goethe | Poems, in the original metres | Edgar Alfred Bowring | 1853 | have | PG 1287 |
 | `bowring-heine-poems` | Heine | Poems, complete | Edgar Alfred Bowring | 1859 | have | PG 52882 |
+| `bowring-peter-schlemihl` | Chamisso | Peter Schlemihl | John Bowring | 1824 | have | PG 21943 |
+| `bowring-servian-popular-poetry` | Serbian folk poetry (Vuk Karadžić's collection) | Servian Popular Poetry | John Bowring | 1827 (see the Gutenberg header) | have | PG 39028 |
+| `bowring-specimens-of-the-russian-poets-vol-1` | various Russian poets (anthology) | Specimens of the Russian Poets, vol. 1 (of 2) | John Bowring | 1821 (see the Gutenberg header) | have | PG 78744 |
+| `bowring-specimens-of-the-russian-poets-vol-2` | various Russian poets (anthology) | Specimens of the Russian Poets, vol. 2 (of 2) | John Bowring | 1823 (see the Gutenberg header) | have | PG 78745 |
 | `john-bowring-anthologies` | — | Sir John Bowring's Specimens of the Russian Poets (1821-23), Servian Popular Poetry (1827), Poetry of the Magyars (1830): on IA; not fetched this run. | — | — | pending | — |
 
 ## John Anster (Faust I)
@@ -7760,6 +7764,8 @@ Round 8, lane C's choice; vetoable. Not converted to unit-id JSON; **no uids min
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `symonds-cellini-autobiography` | Cellini | The Autobiography of Benvenuto Cellini | John Addington Symonds | 1888 | have | PG 4028 |
+| `symonds-gozzi-memoirs-vol-1` | Carlo Gozzi | The Memoirs of Count Carlo Gozzi, vol. 1 | John Addington Symonds | 1890 (see the Gutenberg header) | have | PG 38266 |
+| `symonds-gozzi-memoirs-vol-2` | Carlo Gozzi | The Memoirs of Count Carlo Gozzi, vol. 2 | John Addington Symonds | 1890 (see the Gutenberg header) | have | PG 33225 |
 | `symonds-michelangelo-campanella-sonnets` | Michelangelo, Campanella | Sonnets, in rhymed English | John Addington Symonds | 1878 | have | PG 10314 |
 | `symonds-wine-women-and-song` | Carmina Burana and other goliard poets | Wine, Women, and Song (medieval Latin students' songs) | John Addington Symonds | 1884 | have | PG 18044 |
 | — | — | symonds-own-works: Renaissance in Italy, the Life of Michelangelo (PG 11242) etc.: Symonds's own works. | — | — | excluded | — |
@@ -11044,6 +11050,321 @@ Round 36 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 |---|---|---|---|---|---|---|
 | `horace-samuel-schnitzler-the-road-to-the-open` | Arthur Schnitzler | The Road to the Open | Horace B. Samuel | 1913-1923 (see the Gutenberg header) | have | PG 45895 |
 | `horace-samuel-stendhal-the-red-and-the-black` | Stendhal | The Red and the Black: A Chronicle of 1830 | Horace B. Samuel | 1913-1923 (see the Gutenberg header) | have | PG 44747 |
+
+## Gaston du C. de Vere: the complete Vasari, Lives of the Painters (10 vols, 1912-1915)
+
+Shelf: `pipeline/gaston-de-vere_shelf.json` · fetch `python3 pipeline/fetch_shelf.py gaston-de-vere` · titles `python3 pipeline/split_shelf_titles.py gaston-de-vere`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-01` | Giorgio Vasari | Lives of the Most Eminent Painters Sculptors and Architects, Vol. 01 (of 10) Cimabue to Agnolo Gaddi | Gaston du C. de Vere | 1912-1915 (see the Gutenberg header) | have | PG 25326 |
+| `gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-02` | Giorgio Vasari | Lives of the Most Eminent Painters Sculptors and Architects, Vol. 02 (of 10) Berna to Michelozzo Michelozzi | Gaston du C. de Vere | 1912-1915 (see the Gutenberg header) | have | PG 25759 |
+| `gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-03` | Giorgio Vasari | Lives of the Most Eminent Painters Sculptors and Architects, Vol. 03 (of 10) Filarete and Simone to Mantegna | Gaston du C. de Vere | 1912-1915 (see the Gutenberg header) | have | PG 26860 |
+| `gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-04` | Giorgio Vasari | Lives of the Most Eminent Painters Sculptors and Architects, Vol. 04 (of 10) Filippino Lippi to Domenico Puligo | Gaston du C. de Vere | 1912-1915 (see the Gutenberg header) | have | PG 28420 |
+| `gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-05` | Giorgio Vasari | Lives of the Most Eminent Painters Sculptors and Architects, Vol. 05 (of 10) Andrea da Fiesole to Lorenzo Lotto | Gaston du C. de Vere | 1912-1915 (see the Gutenberg header) | have | PG 28421 |
+| `gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-06` | Giorgio Vasari | Lives of the most Eminent Painters Sculptors and Architects, Vol. 06 (of 10) Fra Giocondo to Niccolo Soggi | Gaston du C. de Vere | 1912-1915 (see the Gutenberg header) | have | PG 28422 |
+| `gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-07` | Giorgio Vasari | Lives of the most Eminent Painters Sculptors and Architects, Vol. 07 (of 10) Tribolo to Il Sodoma | Gaston du C. de Vere | 1912-1915 (see the Gutenberg header) | have | PG 31845 |
+| `gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-08` | Giorgio Vasari | Lives of the most Eminent Painters Sculptors and Architects, Vol. 08 (of 10) Bastiano to Taddeo Zucchero | Gaston du C. de Vere | 1912-1915 (see the Gutenberg header) | have | PG 31938 |
+| `gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-09` | Giorgio Vasari | Lives of the Most Eminent Painters, Sculptors and Architects, Vol. 09 (of 10) Michelagnolo to the Flemings | Gaston du C. de Vere | 1912-1915 (see the Gutenberg header) | have | PG 32362 |
+| `gaston-de-vere-vasari-lives-of-the-most-eminent-painters-sculp-vol-10` | Giorgio Vasari | Lives of the most Eminent Painters Sculptors and Architects, Vol. 10 (of 10) Bronzino to Vasari, & General Index. | Gaston du C. de Vere | 1912-1915 (see the Gutenberg header) | have | PG 33203 |
+
+## Alfred Sutro's Maeterlinck (Treasure of the Humble; Wisdom and Destiny; Life of the Bee; Buried Temple)
+
+Shelf: `pipeline/sutro_shelf.json` · fetch `python3 pipeline/fetch_shelf.py sutro` · titles `python3 pipeline/split_shelf_titles.py sutro`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `sutro-maeterlinck-the-buried-temple` | Maurice Maeterlinck | The Buried Temple | Alfred Sutro | 1897-1902 (see the Gutenberg header) | have | PG 19711 |
+| `sutro-maeterlinck-the-life-of-the-bee` | Maurice Maeterlinck | The Life of the Bee | Alfred Sutro | 1897-1902 (see the Gutenberg header) | have | PG 4511 |
+| `sutro-maeterlinck-the-treasure-of-the-humble` | Maurice Maeterlinck | The Treasure of the Humble | Alfred Sutro | 1897-1902 (see the Gutenberg header) | have | PG 48217 |
+| `sutro-maeterlinck-wisdom-and-destiny` | Maurice Maeterlinck | Wisdom and Destiny | Alfred Sutro | 1897-1902 (see the Gutenberg header) | have | PG 4349 |
+
+## 'Monk' Lewis as translator (Zschokke's Bravo of Venice; Naubert's Feudal Tyrants)
+
+Shelf: `pipeline/mg-lewis_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mg-lewis` · titles `python3 pipeline/split_shelf_titles.py mg-lewis`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `mg-lewis-naubert-feudal-tyrants-or-the-counts-of-carlshei-vol-1` | Benedikte Naubert | Feudal tyrants; or, The Counts of Carlsheim and Sargans, volume 1 (of 4) | Matthew Gregory Lewis | 1805-1806 (see the Gutenberg header) | have | PG 69553 |
+| `mg-lewis-naubert-feudal-tyrants-or-the-counts-of-carlshei-vol-2` | Benedikte Naubert | Feudal tyrants; or, The Counts of Carlsheim and Sargans, volume 2 (of 4) | Matthew Gregory Lewis | 1805-1806 (see the Gutenberg header) | have | PG 69623 |
+| `mg-lewis-naubert-feudal-tyrants-or-the-counts-of-carlshei-vol-3` | Benedikte Naubert | Feudal tyrants; or, The Counts of Carlsheim and Sargans, volume 3 (of 4) | Matthew Gregory Lewis | 1805-1806 (see the Gutenberg header) | have | PG 69624 |
+| `mg-lewis-naubert-feudal-tyrants-or-the-counts-of-carlshei-vol-4` | Benedikte Naubert | Feudal tyrants; or, The Counts of Carlsheim and Sargans, volume 4 (of 4) | Matthew Gregory Lewis | 1805-1806 (see the Gutenberg header) | have | PG 69625 |
+| `mg-lewis-zschokke-the-bravo-of-venice-a-romance` | Heinrich Zschokke | The Bravo of Venice: A Romance | Matthew Gregory Lewis | 1805-1806 (see the Gutenberg header) | have | PG 2706 |
+
+## A. B. Lindsay: the Russo-Japanese War from the Russian (Semenov; Nozhin; Kuropatkin)
+
+Shelf: `pipeline/ab-lindsay_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ab-lindsay` · titles `python3 pipeline/split_shelf_titles.py ab-lindsay`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ab-lindsay-kuropatkin-the-russian-army-and-the-japanese-war-vol-1` | A. N. Kuropatkin | The Russian Army and the Japanese War, Vol. 1 (of 2) Being Historical and Critical Comments on the Military Policy and Power of Russia and on the Campaign in the Far East | A. B. Lindsay | 1906-1909 (see the Gutenberg header) | have | PG 58256 |
+| `ab-lindsay-kuropatkin-the-russian-army-and-the-japanese-war-vol-2` | A. N. Kuropatkin | The Russian Army and the Japanese War, Vol. 2 (of 2) Being Historical and Critical Comments on the Military Policy and Power of Russia and on the Campaign in the Far East | A. B. Lindsay | 1906-1909 (see the Gutenberg header) | have | PG 60975 |
+| `ab-lindsay-nozhin-the-truth-about-port-arthur` | E. K. Nozhin | The Truth About Port Arthur | A. B. Lindsay | 1906-1909 (see the Gutenberg header) | have | PG 59972 |
+| `ab-lindsay-semenov-the-battle-of-tsu-shima-between-the-japa` | Vladimir Semenov | The Battle of Tsu-shima between the Japanese and Russian fleets, fought on 27th May 1905 | A. B. Lindsay | 1906-1909 (see the Gutenberg header) | have | PG 57324 |
+
+## Thomas Rymer Jones: Brehm's Cassell's Book of Birds (4 vols)
+
+Shelf: `pipeline/rymer-jones_shelf.json` · fetch `python3 pipeline/fetch_shelf.py rymer-jones` · titles `python3 pipeline/split_shelf_titles.py rymer-jones`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `rymer-jones-brehm-cassell-s-book-of-birds-vol-1` | Alfred Edmund Brehm | Cassell's book of birds; vol. 1 | Thomas Rymer Jones | 1869-1873 (see the Gutenberg header) | have | PG 48675 |
+| `rymer-jones-brehm-cassell-s-book-of-birds-vol-2` | Alfred Edmund Brehm | Cassell's book of birds; vol. 2 | Thomas Rymer Jones | 1869-1873 (see the Gutenberg header) | have | PG 57450 |
+| `rymer-jones-brehm-cassell-s-book-of-birds-vol-3` | Alfred Edmund Brehm | Cassell's book of birds; vol. 3 | Thomas Rymer Jones | 1869-1873 (see the Gutenberg header) | have | PG 60254 |
+| `rymer-jones-brehm-cassell-s-book-of-birds-vol-4` | Alfred Edmund Brehm | Cassell's book of birds; vol. 4 | Thomas Rymer Jones | 1869-1873 (see the Gutenberg header) | have | PG 68801 |
+
+## George Hayward: Bichat's General Anatomy (3 vols) and Physiological Researches
+
+Shelf: `pipeline/hayward-bichat_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hayward-bichat` · titles `python3 pipeline/split_shelf_titles.py hayward-bichat`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `hayward-bichat-bichat-general-anatomy-applied-to-physiology-an-vol-1` | Xavier Bichat | General Anatomy, Applied to Physiology and Medicine, Vol. 1 (of 3) | George Hayward | 1822-1827 (see the Gutenberg header) | have | PG 56118 |
+| `hayward-bichat-bichat-general-anatomy-applied-to-physiology-an-vol-2` | Xavier Bichat | General Anatomy, Applied to Physiology and Medicine, Vol. 2 (of 3) | George Hayward | 1822-1827 (see the Gutenberg header) | have | PG 56147 |
+| `hayward-bichat-bichat-general-anatomy-applied-to-physiology-an-vol-3` | Xavier Bichat | General Anatomy, Applied to Physiology and Medicine, Vol. 3 (of 3) | George Hayward | 1822-1827 (see the Gutenberg header) | have | PG 56328 |
+| `hayward-bichat-bichat-physiological-researches-on-life-and-dea` | Xavier Bichat | Physiological Researches on Life and Death | George Hayward (with F. [Translator] Gold) | 1822-1827 (see the Gutenberg header) | have | PG 56440 |
+
+## Johann Reinhold Forster: Kalm's Travels into North America; Bougainville's Voyage
+
+Shelf: `pipeline/jr-forster_shelf.json` · fetch `python3 pipeline/fetch_shelf.py jr-forster` · titles `python3 pipeline/split_shelf_titles.py jr-forster`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `jr-forster-bougainville-a-voyage-round-the-world` | Louis-Antoine de Bougainville | A voyage round the world | Johann Reinhold Forster | 1770-1772 (see the Gutenberg header) | have | PG 73429 |
+| `jr-forster-kalm-travels-into-north-america-volume-1-of-3` | Pehr Kalm | Travels into North America, Volume 1 (of 3) | Johann Reinhold Forster | 1770-1772 (see the Gutenberg header) | have | PG 71849 |
+| `jr-forster-kalm-travels-into-north-america-volume-2-of-3` | Pehr Kalm | Travels into North America, Volume 2 (of 3) | Johann Reinhold Forster | 1770-1772 (see the Gutenberg header) | have | PG 72103 |
+| `jr-forster-kalm-travels-into-north-america-volume-3-of-3` | Pehr Kalm | Travels into North America, Volume 3 (of 3) | Johann Reinhold Forster | 1770-1772 (see the Gutenberg header) | have | PG 72737 |
+
+## John Brett: Feijoo's Essays, or Discourses (4 vols)
+
+Shelf: `pipeline/brett-feijoo_shelf.json` · fetch `python3 pipeline/fetch_shelf.py brett-feijoo` · titles `python3 pipeline/split_shelf_titles.py brett-feijoo`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `brett-feijoo-feijoo-essays-or-discourses-vol-1-of-4` | Benito Jerónimo Feijoo | Essays, or discourses, vol. 1 (of 4) | John Brett | 1777-1780 (see the Gutenberg header) | have | PG 71277 |
+| `brett-feijoo-feijoo-essays-or-discourses-vol-2-of-4` | Benito Jerónimo Feijoo | Essays, or discourses, vol. 2 (of 4) | John Brett | 1777-1780 (see the Gutenberg header) | have | PG 71278 |
+| `brett-feijoo-feijoo-essays-or-discourses-vol-3-of-4` | Benito Jerónimo Feijoo | Essays, or discourses, vol. 3 (of 4) | John Brett | 1777-1780 (see the Gutenberg header) | have | PG 76228 |
+| `brett-feijoo-feijoo-essays-or-discourses-vol-4-of-4` | Benito Jerónimo Feijoo | Essays, or discourses, vol. 4 (of 4) | John Brett | 1777-1780 (see the Gutenberg header) | have | PG 76229 |
+
+## Frederic Whyte (Filon's The English Stage; Schillings's In Wildest Africa)
+
+Shelf: `pipeline/frederic-whyte_shelf.json` · fetch `python3 pipeline/fetch_shelf.py frederic-whyte` · titles `python3 pipeline/split_shelf_titles.py frederic-whyte`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `frederic-whyte-filon-the-english-stage-being-an-account-of-th` | Augustin Filon | The English Stage: Being an Account of the Victorian Drama | Frederic Whyte | 1897-1907 (see the Gutenberg header) | have | PG 36590 |
+| `frederic-whyte-schillings-in-wildest-africa-vol-1` | C. G. Schillings | In Wildest Africa, Vol. 1 | Frederic Whyte | 1897-1907 (see the Gutenberg header) | have | PG 54922 |
+| `frederic-whyte-schillings-in-wildest-africa-vol-2` | C. G. Schillings | In Wildest Africa, Vol. 2 | Frederic Whyte | 1897-1907 (see the Gutenberg header) | have | PG 54923 |
+
+## Emilie Poulsson's Zwilgmeyer (Inger Johanne; Johnny Blossom)
+
+Shelf: `pipeline/poulsson-zwilgmeyer_shelf.json` · fetch `python3 pipeline/fetch_shelf.py poulsson-zwilgmeyer` · titles `python3 pipeline/split_shelf_titles.py poulsson-zwilgmeyer`.
+Round 37 (2026-10-10), vetoable. Lane D's poulsson shelf holds her Top-of-the-World Stories. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `poulsson-zwilgmeyer-zwilgmeyer-inger-johanne-s-lively-doings` | Dikken Zwilgmeyer | Inger Johanne's lively doings | Emilie Poulsson | 1912-1920 (see the Gutenberg header) | have | PG 70274 |
+| `poulsson-zwilgmeyer-zwilgmeyer-johnny-blossom` | Dikken Zwilgmeyer | Johnny Blossom | Emilie Poulsson | 1912-1920 (see the Gutenberg header) | have | PG 64005 |
+| `poulsson-zwilgmeyer-zwilgmeyer-what-happened-to-inger-johanne-as-told-b` | Dikken Zwilgmeyer | What happened to Inger Johanne, as told by herself | Emilie Poulsson | 1912-1920 (see the Gutenberg header) | have | PG 32502 |
+
+## Elizabeth Gilbert Martin: Imbert de Saint-Amand's French court histories
+
+Shelf: `pipeline/eg-martin_shelf.json` · fetch `python3 pipeline/fetch_shelf.py eg-martin` · titles `python3 pipeline/split_shelf_titles.py eg-martin`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `eg-martin-saint-amand-last-years-of-louis-xv` | Imbert de Saint-Amand | Last years of Louis XV | Elizabeth Gilbert Martin | 1891-1893 (see the Gutenberg header) | have | PG 79712 |
+| `eg-martin-saint-amand-marie-antoinette-and-the-downfall-of-roy` | Imbert de Saint-Amand | Marie Antoinette and the Downfall of Royalty | Elizabeth Gilbert Martin | 1891-1893 (see the Gutenberg header) | have | PG 32408 |
+| `eg-martin-saint-amand-the-court-of-louis-xv` | Imbert de Saint-Amand | The court of Louis XV | Elizabeth Gilbert Martin | 1891-1893 (see the Gutenberg header) | have | PG 73192 |
+
+## Elizabeth Lee (Jusserand; Maspero; Rosegger)
+
+Shelf: `pipeline/elizabeth-lee_shelf.json` · fetch `python3 pipeline/fetch_shelf.py elizabeth-lee` · titles `python3 pipeline/split_shelf_titles.py elizabeth-lee`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `elizabeth-lee-jusserand-the-english-novel-in-the-time-of-shakesp` | J. J. Jusserand | The English Novel in the Time of Shakespeare | Elizabeth Lee | 1890-1913 (see the Gutenberg header) | have | PG 31151 |
+| `elizabeth-lee-maspero-egyptian-art-studies` | Gaston Maspero | Egyptian Art: Studies | Elizabeth Lee | 1890-1913 (see the Gutenberg header) | have | PG 64387 |
+| `elizabeth-lee-rosegger-i-n-r-i-a-prisoner-s-story-of-the-cross` | Peter Rosegger | I.N.R.I.: A prisoner's Story of the Cross | Elizabeth Lee | 1890-1913 (see the Gutenberg header) | have | PG 17011 |
+
+## William Johnston (Beckmann's History of Inventions; Paulinus's Voyage to the East Indies)
+
+Shelf: `pipeline/w-johnston_shelf.json` · fetch `python3 pipeline/fetch_shelf.py w-johnston` · titles `python3 pipeline/split_shelf_titles.py w-johnston`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `w-johnston-beckmann-a-history-of-inventions-discoveries-and-vol-1` | Johann Beckmann | A History of Inventions, Discoveries, and Origins, Volume 1 (of 2) | William Johnston | 1797-1846 (see the Gutenberg header) | have | PG 48151 |
+| `w-johnston-beckmann-a-history-of-inventions-discoveries-and-vol-2` | Johann Beckmann | A History of Inventions, Discoveries, and Origins, Volume 2 (of 2) | William Johnston | 1797-1846 (see the Gutenberg header) | have | PG 48152 |
+| `w-johnston-paulinus-voyage-to-the-east-indies` | Paulinus a S. Bartholomaeo | Voyage to the East Indies | William Johnston | 1797-1846 (see the Gutenberg header) | have | PG 76461 |
+
+## Louise Seymour Houghton (Sabatier's St Francis; Bordeaux; Boylesve)
+
+Shelf: `pipeline/houghton-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py houghton-translations` · titles `python3 pipeline/split_shelf_titles.py houghton-translations`.
+Round 37 (2026-10-10), vetoable. Lane D's louise-houghton shelf holds her Russian Grandmother's Wonder Tales. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `houghton-translations-bordeaux-the-house` | Henry Bordeaux | The house | Louise Seymour Houghton | 1894-1918 (see the Gutenberg header) | have | PG 72388 |
+| `houghton-translations-boylesve-you-no-longer-count-tu-n-es-plus-rien` | René Boylesve | You no longer count (Tu n'es plus rien!) | Louise Seymour Houghton | 1894-1918 (see the Gutenberg header) | have | PG 68557 |
+| `houghton-translations-sabatier-life-of-st-francis-of-assisi` | Paul Sabatier | Life of St. Francis of Assisi | Louise Seymour Houghton | 1894-1918 (see the Gutenberg header) | have | PG 18787 |
+
+## Helena Frank (Yiddish Tales; Peretz; Rosenfeld)
+
+Shelf: `pipeline/helena-frank_shelf.json` · fetch `python3 pipeline/fetch_shelf.py helena-frank` · titles `python3 pipeline/split_shelf_titles.py helena-frank`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `helena-frank-peretz-stories-and-pictures` | Isaac Loeb Peretz | Stories and Pictures | Helena Frank | 1906-1914 (see the Gutenberg header) | have | PG 37242 |
+| `helena-frank-rosenfeld-songs-of-labor-and-other-poems` | Morris Rosenfeld | Songs of Labor, and Other Poems | Helena Frank (with Rose Pastor Stokes) | 1906-1914 (see the Gutenberg header) | have | PG 6859 |
+| `helena-frank-yiddish-tales` | various authors (anthology) | Yiddish Tales | Helena Frank | 1906-1914 (see the Gutenberg header) | have | PG 33707 |
+
+## Alexander Ewing (Hoffmann's Serapion Brethren; Jean Paul)
+
+Shelf: `pipeline/alexander-ewing_shelf.json` · fetch `python3 pipeline/fetch_shelf.py alexander-ewing` · titles `python3 pipeline/split_shelf_titles.py alexander-ewing`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `alexander-ewing-hoffmann-the-serapion-brethren-vol-i` | E. T. A. Hoffmann | The Serapion Brethren, Vol. I. | Alexander Ewing | 1877-1892 (see the Gutenberg header) | have | PG 31820 |
+| `alexander-ewing-hoffmann-the-serapion-brethren-vol-ii` | E. T. A. Hoffmann | The Serapion Brethren, Vol. II | Alexander Ewing | 1877-1892 (see the Gutenberg header) | have | PG 31668 |
+| `alexander-ewing-jean-paul-flower-fruit-and-thorn-pieces-or-the-wed` | Jean Paul | Flower, Fruit, and Thorn Pieces; or, the Wedded Life, Death, and Marriage of Firmian Stanislaus Siebenkaes, Parish Advocate in the Burgh of Kuhschnappel. | Alexander Ewing | 1877-1892 (see the Gutenberg header) | have | PG 36164 |
+
+## Samuel A. Eliot Jr.'s Wedekind
+
+Shelf: `pipeline/sa-eliot_shelf.json` · fetch `python3 pipeline/fetch_shelf.py sa-eliot` · titles `python3 pipeline/split_shelf_titles.py sa-eliot`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `sa-eliot-wedekind-erdgeist-earth-spirit-a-tragedy-in-four` | Frank Wedekind | Erdgeist (Earth-Spirit): A Tragedy in Four Acts | Samuel A. Eliot Jr. | 1914-1923 (see the Gutenberg header) | have | PG 29682 |
+| `sa-eliot-wedekind-pandora-s-box-a-tragedy-in-three-acts` | Frank Wedekind | Pandora's Box: A Tragedy in Three Acts | Samuel A. Eliot Jr. | 1914-1923 (see the Gutenberg header) | have | PG 33415 |
+| `sa-eliot-wedekind-tragedies-of-sex` | Frank Wedekind | Tragedies of sex | Samuel A. Eliot Jr. | 1914-1923 (see the Gutenberg header) | have | PG 76872 |
+
+## Frances Douglas's Blasco Ibáñez
+
+Shelf: `pipeline/frances-douglas_shelf.json` · fetch `python3 pipeline/fetch_shelf.py frances-douglas` · titles `python3 pipeline/split_shelf_titles.py frances-douglas`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `frances-douglas-ibanez-sonnica` | Vicente Blasco Ibáñez | Sónnica | Frances Douglas | 1911-1919 (see the Gutenberg header) | have | PG 31821 |
+| `frances-douglas-ibanez-the-blood-of-the-arena` | Vicente Blasco Ibáñez | The Blood of the Arena | Frances Douglas | 1911-1919 (see the Gutenberg header) | have | PG 33799 |
+| `frances-douglas-ibanez-the-dead-command-from-the-spanish-los-mu` | Vicente Blasco Ibáñez | The Dead Command From the Spanish Los Muertos Mandan | Frances Douglas | 1911-1919 (see the Gutenberg header) | have | PG 27068 |
+
+## Henry L. Brose: relativity from the German (Moszkowski; Weyl and Freundlich pending)
+
+Shelf: `pipeline/brose_shelf.json` · fetch `python3 pipeline/fetch_shelf.py brose` · titles `python3 pipeline/split_shelf_titles.py brose`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `brose-moszkowski-einstein-the-searcher` | Alexander Moszkowski | Einstein, the searcher | Henry L. Brose | 1920-1922 (see the Gutenberg header) | have | PG 70678 |
+| `pg-43006` | — | Weyl's Space-Time-Matter: Gutenberg publishes this physics book only as PDF/LaTeX, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+| `pg-70793` | — | Freundlich's The Foundations of Einstein's Theory of Gravitation: Gutenberg has only an HTML edition, no plain-text file. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+
+## Mary Wilson's Heyse tales
+
+Shelf: `pipeline/mary-wilson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mary-wilson` · titles `python3 pipeline/split_shelf_titles.py mary-wilson`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `mary-wilson-heyse-l-arrabiata-and-other-tales` | Paul Heyse | L'Arrabiata and Other Tales | Mary Wilson | 1867-1870 (see the Gutenberg header) | have | PG 33583 |
+| `mary-wilson-heyse-the-dead-lake-and-other-tales` | Paul Heyse | The Dead Lake, and Other Tales | Mary Wilson | 1867-1870 (see the Gutenberg header) | have | PG 33916 |
+
+## Robert Willis's Harvey
+
+Shelf: `pipeline/robert-willis_shelf.json` · fetch `python3 pipeline/fetch_shelf.py robert-willis` · titles `python3 pipeline/split_shelf_titles.py robert-willis`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `robert-willis-harvey-an-anatomical-disquisition-on-the-motion` | William Harvey | An anatomical disquisition on the motion of the heart & blood in animals | Robert Willis | 1847 (see the Gutenberg header) | have | PG 67065 |
+| `robert-willis-harvey-the-works-of-william-harvey-m-d-translat` | William Harvey | The Works of William Harvey M.D. Translated from the Latin with a life of the author | Robert Willis | 1847 (see the Gutenberg header) | have | PG 58857 |
+
+## L. Williams: Bruno's Heroic Enthusiasts
+
+Shelf: `pipeline/l-williams_shelf.json` · fetch `python3 pipeline/fetch_shelf.py l-williams` · titles `python3 pipeline/split_shelf_titles.py l-williams`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `l-williams-bruno-the-heroic-enthusiasts-part-1` | Giordano Bruno | The Heroic Enthusiasts (Gli Eroici Furori) Part the First An Ethical Poem | L. Williams | 1887-1889 (see the Gutenberg header) | have | PG 19817 |
+| `l-williams-bruno-the-heroic-enthusiasts-part-2` | Giordano Bruno | The Heroic Enthusiasts (Gli Eroici Furori) Part the Second An Ethical Poem | L. Williams | 1887-1889 (see the Gutenberg header) | have | PG 19833 |
+
+## Alice Werner (Weule's Native Life in East Africa; The Humour of Holland)
+
+Shelf: `pipeline/alice-werner_shelf.json` · fetch `python3 pipeline/fetch_shelf.py alice-werner` · titles `python3 pipeline/split_shelf_titles.py alice-werner`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `alice-werner-dircks-the-humour-of-holland` | various authors (anthology, ed. W. H. Dircks) | The humour of Holland | Alice Werner | 1894-1909 (see the Gutenberg header) | have | PG 64761 |
+| `alice-werner-weule-native-life-in-east-africa` | Karl Weule | Native life in East Africa | Alice Werner | 1894-1909 (see the Gutenberg header) | have | PG 71496 |
+
+## Herbert Trench's Merezhkovsky
+
+Shelf: `pipeline/herbert-trench_shelf.json` · fetch `python3 pipeline/fetch_shelf.py herbert-trench` · titles `python3 pipeline/split_shelf_titles.py herbert-trench`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `herbert-trench-merezhkovsky-the-death-of-the-gods-christ-and-antichr` | Dmitry Sergeyevich Merezhkovsky | The Death of the Gods (Christ and Antichrist, 1 of 3) | Herbert Trench | 1901-1902 (see the Gutenberg header) | have | PG 46492 |
+| `herbert-trench-merezhkovsky-the-romance-of-leonardo-da-vinci-the-for` | Dmitry Sergeyevich Merezhkovsky | The Romance of Leonardo da Vinci, the Forerunner | Herbert Trench | 1901-1902 (see the Gutenberg header) | have | PG 47902 |
+
+## Frederic Taber Cooper (French painter monographs; Montessori)
+
+Shelf: `pipeline/ft-cooper_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ft-cooper` · titles `python3 pipeline/split_shelf_titles.py ft-cooper`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ft-cooper-barbusse-meissonier` | Henri Barbusse | Meissonier | Frederic Taber Cooper | 1912-1914 (see the Gutenberg header) | have | PG 43085 |
+| `ft-cooper-beaume-fromentin` | Georges Beaume | Fromentin | Frederic Taber Cooper | 1912-1914 (see the Gutenberg header) | have | PG 42838 |
+| `ft-cooper-crastre-bastien-lepage` | François Crastre | Bastien Lepage | Frederic Taber Cooper | 1912-1914 (see the Gutenberg header) | have | PG 36533 |
+| `ft-cooper-crastre-goya` | François Crastre | Goya | Frederic Taber Cooper | 1912-1914 (see the Gutenberg header) | have | PG 42425 |
+| `ft-cooper-crastre-henner` | François Crastre | Henner | Frederic Taber Cooper | 1912-1914 (see the Gutenberg header) | have | PG 47443 |
+| `ft-cooper-crastre-rosa-bonheur` | François Crastre | Rosa Bonheur | Frederic Taber Cooper | 1912-1914 (see the Gutenberg header) | have | PG 41939 |
+| `ft-cooper-crastre-veronese` | François Crastre | Veronese | Frederic Taber Cooper | 1912-1914 (see the Gutenberg header) | have | PG 41974 |
+| `ft-cooper-keim-gerome` | Albert Keim | Gérôme | Frederic Taber Cooper | 1912-1914 (see the Gutenberg header) | have | PG 44340 |
+| `ft-cooper-keim-honore-de-balzac` | Albert Keim and Louis Lumet | Honoré de Balzac | Frederic Taber Cooper | 1912-1914 (see the Gutenberg header) | have | PG 3625 |
+| `ft-cooper-montessori-pedagogical-anthropology` | Maria Montessori | Pedagogical Anthropology | Frederic Taber Cooper | 1912-1914 (see the Gutenberg header) | have | PG 46643 |
+
+## Ruth Helen Davis (Gautier and Loti; Bordeaux)
+
+Shelf: `pipeline/ruth-davis_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ruth-davis` · titles `python3 pipeline/split_shelf_titles.py ruth-davis`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ruth-davis-bordeaux-the-awakening` | Henry Bordeaux | The awakening | Ruth Helen Davis | 1912-1914 (see the Gutenberg header) | have | PG 70440 |
+| `ruth-davis-bordeaux-the-fear-of-living` | Henry Bordeaux | The fear of living | Ruth Helen Davis | 1912-1914 (see the Gutenberg header) | have | PG 73031 |
+| `ruth-davis-bordeaux-the-woollen-dress` | Henry Bordeaux | The woollen dress | Ruth Helen Davis | 1912-1914 (see the Gutenberg header) | have | PG 71410 |
+| `ruth-davis-gautier-the-daughter-of-heaven` | Judith Gautier and Pierre Loti | The Daughter of Heaven | Ruth Helen Davis | 1912-1914 (see the Gutenberg header) | have | PG 47218 |
+
+## D. B. Stewart: Anatole France's Seven Wives of Bluebeard (3 files)
+
+Shelf: `pipeline/db-stewart_shelf.json` · fetch `python3 pipeline/fetch_shelf.py db-stewart` · titles `python3 pipeline/split_shelf_titles.py db-stewart`.
+Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `db-stewart-france-the-miracle-of-the-great-st-nicolas` | Anatole France | The Miracle of the Great St. Nicolas | D. B. Stewart | 1920 (see the Gutenberg header) | have | PG 25410 |
+| `db-stewart-france-the-seven-wives-of-bluebeard` | Anatole France | The Seven Wives of Bluebeard | D. B. Stewart | 1920 (see the Gutenberg header) | have | PG 25411 |
+| `db-stewart-france-the-story-of-the-duchess-of-cicogne-and` | Anatole France | The Story of the Duchess of Cicogne and of Monsieur de Boulingrin | D. B. Stewart | 1920 (see the Gutenberg header) | have | PG 25409 |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 

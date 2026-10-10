@@ -1,0 +1,284 @@
+{
+ "_about": "TRANSLATOR SHELF: Frederic Taber Cooper (1864-1937): the Stokes 'Masterpieces in Colour' French monographs (Bastien-Lepage, Rosa Bonheur, Veronese, Goya, Fromentin, Meissonier, Gérôme, Henner, c. 1912-1914), Keim and Lumet's Honoré de Balzac (1914) and Montessori's Pedagogical Anthropology (1913). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "frederic taber cooper"
+ ],
+ "_surname": [
+  "frederic taber cooper"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ftc-3625": [
+   3625,
+   "Honoré de Balzac"
+  ],
+  "ftc-36533": [
+   36533,
+   "Bastien Lepage"
+  ],
+  "ftc-41939": [
+   41939,
+   "Rosa Bonheur"
+  ],
+  "ftc-41974": [
+   41974,
+   "Veronese"
+  ],
+  "ftc-42425": [
+   42425,
+   "Goya"
+  ],
+  "ftc-42838": [
+   42838,
+   "Fromentin"
+  ],
+  "ftc-43085": [
+   43085,
+   "Meissonier"
+  ],
+  "ftc-44340": [
+   44340,
+   "Gérôme"
+  ],
+  "ftc-46643": [
+   46643,
+   "Pedagogical Anthropology"
+  ],
+  "ftc-47443": [
+   47443,
+   "Henner"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ft-cooper-barbusse-meissonier": {
+   "source": "ftc-43085",
+   "of": "Henri Barbusse",
+   "work": "Meissonier",
+   "translated": "1912-1914 (see the Gutenberg header)",
+   "translator": "Frederic Taber Cooper",
+   "scan_edition": "Project Gutenberg 43085 (clean text)"
+  },
+  "ft-cooper-beaume-fromentin": {
+   "source": "ftc-42838",
+   "of": "Georges Beaume",
+   "work": "Fromentin",
+   "translated": "1912-1914 (see the Gutenberg header)",
+   "translator": "Frederic Taber Cooper",
+   "scan_edition": "Project Gutenberg 42838 (clean text)"
+  },
+  "ft-cooper-crastre-bastien-lepage": {
+   "source": "ftc-36533",
+   "of": "François Crastre",
+   "work": "Bastien Lepage",
+   "translated": "1912-1914 (see the Gutenberg header)",
+   "translator": "Frederic Taber Cooper",
+   "scan_edition": "Project Gutenberg 36533 (clean text)"
+  },
+  "ft-cooper-crastre-goya": {
+   "source": "ftc-42425",
+   "of": "François Crastre",
+   "work": "Goya",
+   "translated": "1912-1914 (see the Gutenberg header)",
+   "translator": "Frederic Taber Cooper",
+   "scan_edition": "Project Gutenberg 42425 (clean text)"
+  },
+  "ft-cooper-crastre-henner": {
+   "source": "ftc-47443",
+   "of": "François Crastre",
+   "work": "Henner",
+   "translated": "1912-1914 (see the Gutenberg header)",
+   "translator": "Frederic Taber Cooper",
+   "scan_edition": "Project Gutenberg 47443 (clean text)"
+  },
+  "ft-cooper-crastre-rosa-bonheur": {
+   "source": "ftc-41939",
+   "of": "François Crastre",
+   "work": "Rosa Bonheur",
+   "translated": "1912-1914 (see the Gutenberg header)",
+   "translator": "Frederic Taber Cooper",
+   "scan_edition": "Project Gutenberg 41939 (clean text)"
+  },
+  "ft-cooper-crastre-veronese": {
+   "source": "ftc-41974",
+   "of": "François Crastre",
+   "work": "Veronese",
+   "translated": "1912-1914 (see the Gutenberg header)",
+   "translator": "Frederic Taber Cooper",
+   "scan_edition": "Project Gutenberg 41974 (clean text)"
+  },
+  "ft-cooper-keim-gerome": {
+   "source": "ftc-44340",
+   "of": "Albert Keim",
+   "work": "Gérôme",
+   "translated": "1912-1914 (see the Gutenberg header)",
+   "translator": "Frederic Taber Cooper",
+   "scan_edition": "Project Gutenberg 44340 (clean text)"
+  },
+  "ft-cooper-keim-honore-de-balzac": {
+   "source": "ftc-3625",
+   "of": "Albert Keim and Louis Lumet",
+   "work": "Honoré de Balzac",
+   "translated": "1912-1914 (see the Gutenberg header)",
+   "translator": "Frederic Taber Cooper",
+   "scan_edition": "Project Gutenberg 3625 (clean text)"
+  },
+  "ft-cooper-montessori-pedagogical-anthropology": {
+   "source": "ftc-46643",
+   "of": "Maria Montessori",
+   "work": "Pedagogical Anthropology",
+   "translated": "1912-1914 (see the Gutenberg header)",
+   "translator": "Frederic Taber Cooper",
+   "scan_edition": "Project Gutenberg 46643 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ftc-3625": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederic taber cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-36533": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederic taber cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-41939": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederic taber cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-41974": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederic taber cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-42425": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederic taber cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-42838": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederic taber cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-43085": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederic taber cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-44340": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederic taber cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-46643": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederic taber cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-47443": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederic taber cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederic Taber Cooper"
+  }
+ },
+ "_verified": {
+  "ftc-3625": {
+   "pg": 3625,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-36533": {
+   "pg": 36533,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-41939": {
+   "pg": 41939,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-41974": {
+   "pg": 41974,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-42425": {
+   "pg": 42425,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-42838": {
+   "pg": 42838,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-43085": {
+   "pg": 43085,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-44340": {
+   "pg": 44340,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-46643": {
+   "pg": 46643,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederic Taber Cooper"
+  },
+  "ftc-47443": {
+   "pg": 47443,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederic Taber Cooper"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}
