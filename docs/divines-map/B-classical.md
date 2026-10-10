@@ -2822,6 +2822,7 @@ Shelf: `pipeline/how-wells_shelf.json`. Walter Wybergh How (1861-1932) and Josep
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Commentary on Herodotus |  | `how-wells-commentary-herodotus` | have (PG 24146) |
 
 ## D. B. Monro (scholarship)
 
