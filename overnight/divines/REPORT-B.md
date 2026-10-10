@@ -728,3 +728,8 @@
 - Freeman's History of Sicily, 4 vols. (Clarendon Press, 1891-1894; vol. IV edited by Arthur J. Evans)
 - Evelyn Abbott's History of Greece, 3 parts (1900-1901); Holm's History of Greece, 4 vols. (Macmillan, 1894-1899; translator Frederick Clarke named only in vol. IV, death year unchecked)
 - Merivale's Romans under the Empire completed with vols. VI-VIII from pre-1930 impressions (1868, 1904, 1872). Correction to round 10w: I had put this to Adam as a later-printings question, but that class covers only printings after 1930, so no ruling was needed. The DIGEST question is withdrawn
+
+## 2026-10-10 11:58 CDT — Round 2026-10-10y: 7 volumes
+- Ihne's History of Rome, English edition, 5 vols. (Longmans, 1871-1882); the English edition is the author's own
+- Pelham's Outlines of Roman History (1893) and Leaf's Homer and History (1915) added to their shelves
+- Not added: Mommsen's Provinces of the Roman Empire (already held from Gutenberg on the mommsen shelf)

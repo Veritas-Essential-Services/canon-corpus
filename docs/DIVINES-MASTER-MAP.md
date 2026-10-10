@@ -6173,23 +6173,21 @@ Shelf: `pipeline/w-t-arnold_shelf.json`. The Roman System of Provincial Administ
 
 ## H. F. Pelham (scholarship)
 
-Shelf: `pipeline/pelham_shelf.json`. Essays, ed. Haverfield (Clarendon Press, 1911), raw IA OCR. Not minted.
+Shelf: `pipeline/pelham_shelf.json`. Outlines of Roman History (Percival, 1893) and Essays, ed. Haverfield (Clarendon Press, 1911), raw IA OCR. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Essays, collected and edited by F. Haverfield (Oxford: Clarendon Press, 1911) |  | `pelham-essays-1911` | have-raw (IA `essaysonromanhis00pelhuoft`) |
-
-Pending (wishlist): Outlines of Roman History (1895).
+| Outlines of Roman History (London: Percival, 1893) |  | `pelham-outlines-roman-history-1893` | have-raw (IA `outlinesofroman00pelh`) |
 
 ## Walter Leaf (scholarship)
 
-Shelf: `pipeline/walter-leaf_shelf.json`. Troy, a Study in Homeric Geography (Macmillan, 1912), raw IA OCR. Not minted.
+Shelf: `pipeline/walter-leaf_shelf.json`. Troy, a Study in Homeric Geography (1912) and Homer and History (1915), Macmillan, raw IA OCR. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Troy: A Study in Homeric Geography (London: Macmillan, 1912) |  | `walter-leaf-troy-1912` | have-raw (IA `troystudyinhomer00leaf`) |
-
-Pending (wishlist): Homer and History (1915).
+| Homer and History (London: Macmillan, 1915) |  | `walter-leaf-homer-history-1915` | have-raw (IA `gpl_1735164`) |
 
 ## Evelyn Abbott (scholarship)
 
@@ -6211,6 +6209,18 @@ Shelf: `pipeline/holm_shelf.json`. The History of Greece, translated from the Ge
 | The History of Greece, vol. II, The Fifth Century B.C. (London: Macmillan, 1899) | Frederick Clarke (named in vol. IV) | `holm-history-greece-v2-1899` | have-raw (IA `historyofgreecef02holm`) |
 | The History of Greece, vol. III, The Fourth Century B.C. up to the Death of Alexander (London: Macmillan, 1896) | Frederick Clarke (named in vol. IV) | `holm-history-greece-v3-1896` | have-raw (IA `historyofgreecef03holm_0`) |
 | The History of Greece, vol. IV, The Graeco-Macedonian Age (London: Macmillan, 1898) | Clarke | `holm-history-greece-v4-1898` | have-raw (IA `historygreecefr04holmgoog`) |
+
+## Wilhelm Ihne (scholarship)
+
+Shelf: `pipeline/ihne_shelf.json`. The History of Rome, English edition (the author's own), 5 vols. (Longmans, 1871-1882), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Rome, English edition, vol. I (London: Longmans, Green, 1871) |  | `ihne-history-rome-v1-1871` | have-raw (IA `historyrome02unkngoog`) |
+| The History of Rome, English edition, vol. II (London: Longmans, Green, 1871) |  | `ihne-history-rome-v2-1871` | have-raw (IA `historyofrome02ihne_0`) |
+| The History of Rome, English edition, vol. III (London: Longmans, Green, 1877) |  | `ihne-history-rome-v3-1877` | have-raw (IA `historyofrome03ihne`) |
+| The History of Rome, English edition, vol. IV (London: Longmans, Green, 1882) |  | `ihne-history-rome-v4-1882` | have-raw (IA `historyofrome04ihne`) |
+| The History of Rome, English edition, vol. V (London: Longmans, Green, 1882) |  | `ihne-history-rome-v5-1882` | have-raw (IA `historyofrome05ihne`) |
 
 ## Perseus census (overflow)
 
