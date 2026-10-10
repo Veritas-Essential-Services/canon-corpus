@@ -2145,8 +2145,10 @@
     {
       "id": "mary-martha-sherwood",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: mary-martha-sherwood; no minting",
-      "status": "running",
-      "started": "2026-10-10T09:56:24-05:00"
+      "status": "done",
+      "started": "2026-10-10T09:56:24-05:00",
+      "finished": "2026-10-10T10:11:41-05:00",
+      "notes": "2/2 fetched (Gutenberg 63295, 58754), 114 units, 3 ~2 ids."
     },
     {
       "id": "mrs-o-f-walton",

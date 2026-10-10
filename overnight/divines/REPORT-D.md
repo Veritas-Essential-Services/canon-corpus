@@ -926,3 +926,6 @@
 
 ## 2026-10-10 10:09 CDT — kate-greenaway: done
 - 2/2 fetched (Gutenberg 22888, 19541), 349 units, 2 ~2 ids.
+
+## 2026-10-10 10:11 CDT — mary-martha-sherwood: done
+- 2/2 fetched (Gutenberg 63295, 58754), 114 units, 3 ~2 ids.

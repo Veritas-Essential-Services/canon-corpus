@@ -3209,6 +3209,15 @@ Shelf: `pipeline/kate-greenaway_shelf.json` (2026-10-02; added at the coordinato
 | Marigold Garden | have | PG 19541, `greenaway-marigold-garden` (192 units) |
 | greenaway-a-apple-pie | excluded | PG 15809, A Apple Pie: not taken. The rhyme is traditional (Greenaway illustrated it), its text is about a page of letter lines, and the Gutenberg file carries an unsigned, undated publisher's note from a later reprint. |
 
+## Mary Martha Sherwood
+
+Shelf: `pipeline/mary-martha-sherwood_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Two moral tales for children; one section each. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Wishing Cap | have | PG 63295, `msherwood-wishing-cap` (58 units) |
+| Soffrona and Her Cat Muff | have | PG 58754, `msherwood-soffrona` (56 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
