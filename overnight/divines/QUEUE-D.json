@@ -2193,8 +2193,10 @@
     {
       "id": "elizabeth-prentiss",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: elizabeth-prentiss; no minting",
-      "status": "running",
-      "started": "2026-10-10T10:21:53-05:00"
+      "status": "done",
+      "started": "2026-10-10T10:21:53-05:00",
+      "finished": "2026-10-10T10:32:30-05:00",
+      "notes": "1/1 fetched (Gutenberg 37219), 400 units, 0 ~2 ids."
     }
   ]
 }
