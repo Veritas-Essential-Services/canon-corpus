@@ -3766,6 +3766,32 @@ Slugs `grant-*`. Brethren expositor; the Numerical Bible title pages name no aut
 | Ought We to be Watching? (Toronto, catalogued 1877; cihm_33695) and A Letter Relating to the Division at Montreal (1885; cihm_60949): no author on their title pages | alternate | not shelved |
 | Numerical Bible printings of 1932 and later (New York 10, Neptune NJ) | excluded | |
 | Frederick Dent Grant, Miles Grant, James Grant | excluded | |
+
+## B. W. Newton (round 20, my pick, 2026-10-10)
+
+Slugs `newton-*`. Early Plymouth Brethren leader, later independent; post-tribulation prophecy.
+
+| Work | Status | Where |
+|---|---|---|
+| Aids to Prophetic Enquiry (London: James Nisbet, 1848) | have-ocr | IA `aidstoprophetic00newtgoog` |
+| Thoughts on Parts of Leviticus (London: Partridge and Oakey, 1852) | have-ocr | IA `thoughtsonparts01newtgoog` |
+| Thoughts on the Apocalypse (London: Houlston and Sons; year read as 1853, which the imprint makes doubtful) | have-ocr | IA `thoughtsonapocal00newtrich` |
+| Notes Expository of the Greek of the First Chapter of the Romans (London: Houlston and Stoneman, 1856) | have-ocr | IA `bwb_P9-DAK-936` |
+| The Judgment of the Court of Arches and of the Privy Council in the Case of Rowland Williams Considered (London: Houlston & Wright, 1866) | have-ocr | IA `judgmentcourtar00newtgoog` |
+| Doctrines of Popery (London: Houlston & Wright, 1867) | have-ocr | IA `doctrinepopery00newtuoft` |
+| Thoughts on Parts of the Prophecy of Isaiah, part 1 (London: Houlston & Wright, 1868) | have-ocr | IA `thoughtsonparts00newtgoog` |
+| Thoughts on Scriptural Subjects (London: Houlston & Sons, 1871) | have-ocr | IA `thoughtsonscrip00newtgoog` |
+| Prospects of the Ten Kingdoms of the Roman Empire, second edition revised (London: Houlston and Sons, 1873) | have-ocr | IA `prospectstenkin00newtgoog` |
+| Atonement and its Results (London: Houlston & Sons, 1882) | have-ocr | IA `atonementandits00newtgoog` |
+| Remarks on 'Mosaic Cosmogony', the fifth of the Essays and Reviews (London: Houlston and Sons, 1882) | have-ocr | IA `remarksonmosiac00goodgoog` |
+| Gospel Truths (London: Houlston & Sons, 1885) | have-ocr | IA `gospeltruths00newtuoft` |
+| Narratives from the Old Testament (London: C. M. Tucker; title page 1886, a later reissue; library accession 1927) | have-ocr | IA `worksbenjaminwi02unkngoog` |
+| Babylon: Its Future History and Doom, third edition (London: C. M. Tucker; title page 1890, a later reissue; library accession 1927) | have-ocr | IA `worksbenjaminwi01newtgoog` |
+| Propositions for the Solemn Consideration of Christians, fourth edition (London: C. M. Tucker; title page 1892, a later reissue; library accession 1927) | have-ocr | IA `worksbenjaminwi00unkngoog` |
+| The Doctrine of Scripture Respecting Baptism Briefly Considered, second edition (London: C. M. Tucker; no year on title page; library accession 1927) | have-ocr | IA `worksbenjaminwi00newtgoog` |
+| Third edition of Aids (catalogued 1881); Tucker reissues of Isaiah, Mosaic Cosmogony, Gospel Truths (1901) and the Apocalypse (catalogued 1904) | alternate | not shelved |
+| 1955 Ten Kingdoms | excluded | |
+| CCEL newton: John Newton | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

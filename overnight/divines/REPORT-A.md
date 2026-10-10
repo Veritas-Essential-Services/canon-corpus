@@ -919,3 +919,6 @@
 
 ## 2026-10-10 13:56 CDT — f-w-grant done
 - `pipeline/f-w-grant_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for grant-numerical-bible-2, grant-numerical-bible-5 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:56 CDT — b-w-newton done
+- `pipeline/b-w-newton_shelf.json`: 0 CCEL, 0 PG, 16 IA. Title pages read for newton-aids-prophetic, newton-court-of-arches (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
