@@ -194,6 +194,16 @@
    "workshorace03smargoog",
    "The Works of Horace, translated into verse, vol. I of four (London: W. Flexney, J. Johnson and T. Caslon, 1767)",
    "tr. Christopher Smart"
+  ],
+  "horace-smart-verse-1767-v2": [
+   "workshorace11horagoog",
+   "The Works of Horace, translated into verse, with a prose interpretation, vol. II (London: W. Flexney and others, 1767)",
+   "tr. Christopher Smart"
+  ],
+  "horace-smart-verse-1767-v4": [
+   "workshorace08horagoog",
+   "The Works of Horace, translated into verse, with a prose interpretation, vol. IV (London: W. Flexney and others, 1767)",
+   "tr. Christopher Smart"
   ]
  },
  "_cross_ref": {
@@ -205,7 +215,7 @@
   "Christopher Smart's prose Horace (1756)": "PD; the only scans (IA bim_eighteenth-century_the-works-of-horace-tra_horace_1756_1/_2) are ECCO OCR at 0.74-0.76 clean words. Refused for OCR quality on 2026-10-02, retaken that evening without new evidence and withdrawn again on review. Smart's text is held in Buckley's 1869 revision; wanted only from a cleaner scan. Smart's own prose (unrevised by Buckley) is now held from the fifth edition (1780, 2 vols.: horace-smart-prose-1780-v1/v2), so the 1756 scans are not needed.",
   "Philip Francis's verse Horace (1743/1746)": "PD; the IA scans of the eighteenth-century printings read at 0.61-0.64 clean words and were refused on 2026-10-02. Now held from a cleaner later printing: horace-francis-1825-v1/-v2 (New York: Solomon King, 1825, 2 vols., OCR 0.86-0.88)",
   "E. C. Wickham, Horace for English Readers (prose, 1903)": "the scan (horaceforenglis00wickgoog) lacks its title page in the OCR, so the translator and date cannot be read from the file; wanted from another scan",
-  "Smart's verse Horace (1767), vols. II-IV": "vol. I held (horace-smart-verse-1767-v1); vols. II-IV not found on IA as of 2026-10-10"
+  "Smart's verse Horace (1767), vol. III": "vols. I, II and IV held (horace-smart-verse-1767-v1/v2/v4); vol. III not found on IA as of 2026-10-10"
  },
  "_surname": [
   "horatius flaccus",
@@ -243,7 +253,9 @@
   "horace-coutts-pollock-icarian-1920": "francis coutts",
   "horace-jones-odes-i-ii-1865": "hugo nicholas jones",
   "horace-fenwick-odes-ii-1918": "gerard fenwick",
-  "horace-mills-nineteen-odes-1920": "william hathorn mills"
+  "horace-mills-nineteen-odes-1920": "william hathorn mills",
+  "horace-smart-verse-1767-v2": "christopher smart",
+  "horace-smart-verse-1767-v4": "christopher smart"
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
@@ -718,6 +730,32 @@
    "ia_date": "1767",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "horace-smart-verse-1767-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "horatian",
+   "translator_claimed": "christopher smart",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1767",
+   "ia_date": "1767",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "horace-smart-verse-1767-v4": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "christopher smart",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1767",
+   "ia_date": "1767",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_held": {
@@ -733,6 +771,10 @@
   "horace-bennett-loeb-odes": "translator claimed by surname only: the title page OCRs the full name as 'C. E, BENNETT' (comma for the second point), which a full-name match cannot meet; the surname is matched as a word on the title page and again in the series list",
   "horace-whyte-melville-1850": "title page reads 'Horace. Odes, Epodes, and Carmen Saeculare. Translated into English verse by G. J. Whyte Melville, Esq.' (London, 1850); the author's name stands alone as 'Horace', a form the shelf does not match on because it would also match Horace Bushnell",
   "horace-smart-prose-1780-v1": "Title page read 2026-10-10: 'Works of Horace, translated literally into English prose, by C. Smart, A.M. of Pembroke-College, Cambridge. The Fifth Edition. In two volumes ... London: Printed for T. Carnan ... MDCCLXXX'. The OCR letter-spaces the title ('W O R K S  O F  H O R A C E') and the Latin running heads read 'Q. Horatii Flacci', so no surname form matches as a word.",
-  "horace-smart-prose-1780-v2": "Title page read 2026-10-10: 'Works of Horace, translated literally into English prose, by C. Smart, A.M. of Pembroke-College, Cambridge. The Fifth Edition. In two volumes. Vol. II ... London: Printed for T. Carnan ... MDCCLXXX'. The OCR letter-spaces the title ('W O R K S  O F  H O R A C E') and the Latin running heads read 'Q. Horatii Flacci', so no surname form matches as a word."
+  "horace-smart-prose-1780-v2": "Title page read 2026-10-10: 'Works of Horace, translated literally into English prose, by C. Smart, A.M. of Pembroke-College, Cambridge. The Fifth Edition. In two volumes. Vol. II ... London: Printed for T. Carnan ... MDCCLXXX'. The OCR letter-spaces the title ('W O R K S  O F  H O R A C E') and the Latin running heads read 'Q. Horatii Flacci', so no surname form matches as a word.",
+  "horace-smart-verse-1767-v4": {
+   "author": "Title page read 2026-10-10: '...RKS OF HORACE, TRANSLATED INTO VERSE, with a prose interpretation, for the help of students, and occasional notes. By Christopher Smart, A.M. ... In four volumes. Volume IV. London: W. Flexney ... MDCCLXVII'. The OCR garbles 'Works' and 'Translated' ('TRANSLATBD INTO V£lt«t'), so neither the surname forms nor the title words match.",
+   "title": "Title page read 2026-10-10: '...RKS OF HORACE, TRANSLATED INTO VERSE, with a prose interpretation, for the help of students, and occasional notes. By Christopher Smart, A.M. ... In four volumes. Volume IV. London: W. Flexney ... MDCCLXVII'. The OCR garbles 'Works' and 'Translated' ('TRANSLATBD INTO V£lt«t'), so neither the surname forms nor the title words match."
+  }
  }
 }
