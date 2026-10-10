@@ -1187,6 +1187,7 @@ Shelf: `pipeline/apuleius_shelf.json`. Adlington's Golden Asse (1566) and Butler
 | The Metamorphoses or Golden Ass of Apuleius of Madaura, vol. 1 (Oxford, 1910) | H. E. Butler | `apuleius-butler-v1` | have-raw (IA `metamorphosesorg01apuluoft`) |
 | The Metamorphoses or Golden Ass of Apuleius of Madaura, vol. 2 (Oxford, 1910) | H. E. Butler | `apuleius-butler-v2` | have-raw (IA `metamorphosesorg02apuluoft`) |
 | The Metamorphosis, or Golden Ass, and Philosophical Works, of Apuleius, translated from the original Latin (London: Triphook and Rodd, 1822) | Thomas Taylor | `apuleius-taylor-1822` | have-raw (IA `metamorphosisor00apulgoog`) |
+| The Works of Apuleius, a new translation: the Metamorphoses or Golden Ass, the God of Socrates, the Florida and the Defence, with a metrical Cupid and Psyche and Mrs. Tighe's Psyche (London: G. Bell, 1914, reprinted from stereotype plates) | anonymous (Bohn's Classical Library; the title page names no translator) | `apuleius-bohn-works-1914` | have-raw (IA `worksofapuleiusn00apul`) |
 
 Pending (wishlist): none known.
 

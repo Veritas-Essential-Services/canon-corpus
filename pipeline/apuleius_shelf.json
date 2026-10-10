@@ -38,6 +38,11 @@
    "metamorphosisor00apulgoog",
    "The Metamorphosis, or Golden Ass, and Philosophical Works, of Apuleius, translated from the original Latin (London: Triphook and Rodd, 1822)",
    "tr. Thomas Taylor"
+  ],
+  "apuleius-bohn-works-1914": [
+   "worksofapuleiusn00apul",
+   "The Works of Apuleius, a new translation: the Metamorphoses or Golden Ass, the God of Socrates, the Florida and the Defence, with a metrical Cupid and Psyche and Mrs. Tighe's Psyche (London: G. Bell, 1914, reprinted from stereotype plates)",
+   "tr. anonymous (Bohn's Classical Library; the title page names no translator)"
   ]
  },
  "_excluded": {
@@ -57,7 +62,7 @@
  "_checks": {
   "apuleius-adlington-golden-asse": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "apuleius",
    "translator_claimed": "William Adlington",
@@ -69,7 +74,7 @@
   },
   "apuleius-butler-apologia-florida": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "apuleius",
    "translator_claimed": "harold edgeworth butler",
@@ -81,7 +86,7 @@
   },
   "apuleius-adlington-gaselee": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "apuleius",
    "translator_claimed": "William Adlington",
@@ -94,7 +99,7 @@
   },
   "apuleius-butler-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "apuleius",
    "translator_claimed": "H. E. Butler",
@@ -107,7 +112,7 @@
   },
   "apuleius-butler-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "apuleius",
    "translator_claimed": "H. E. Butler",
@@ -120,7 +125,7 @@
   },
   "apuleius-taylor-1822": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "apuleius",
    "translator_claimed": "Thomas Taylor",
@@ -130,6 +135,24 @@
    "ia_date": "1822",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "apuleius-bohn-works-1914": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "apuleius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-10: 'London: G. Bell and Sons, Ltd. 1914 [Reprinted from Stereotype plates]'. A 1914 printing, US public domain by date. The archive.org catalogue's 'Gurney, Hudson' is not printed on the title page and is not used as the translator."
   }
+ },
+ "_translator_unchecked": {
+  "apuleius-bohn-works-1914": "the title page names no translator (a Bohn's Classical Library volume reprinted from stereotype plates)"
+ },
+ "_rights_checked": {
+  "apuleius-bohn-works-1914": "Title page read 2026-10-10: 'London: G. Bell and Sons, Ltd. 1914 [Reprinted from Stereotype plates]'. A 1914 printing, US public domain by date. The archive.org catalogue's 'Gurney, Hudson' is not printed on the title page and is not used as the translator."
  }
 }
