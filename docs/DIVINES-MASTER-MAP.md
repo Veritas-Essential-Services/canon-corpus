@@ -12209,6 +12209,128 @@ Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `alexander-muir-gregorovius-wanderings-in-corsica-its-history-and-it-vol-1` | Ferdinand Gregorovius | Wanderings in Corsica: Its History and Its Heroes. Vol. 1 of 2 | Alexander Muir | 1855 (see the Gutenberg header) | have | PG 44727 |
 | `alexander-muir-gregorovius-wanderings-in-corsica-its-history-and-it-vol-2` | Ferdinand Gregorovius | Wanderings in Corsica: Its History and Its Heroes. Vol. 2 of 2 | Alexander Muir | 1855 (see the Gutenberg header) | have | PG 58337 |
 
+## One-off translations: medieval and early texts (Anglo-Saxon Chronicle, Saxo, the Táin, Roland, sagas, Old English poems, Ship of Fools, Lusiad, Hypnerotomachia)
+
+Shelf: `pipeline/singles-medieval-epic_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-medieval-epic` · titles `python3 pipeline/split_shelf_titles.py singles-medieval-epic`.
+Round 40 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-medieval-epic-andreas` | anonymous (Old English) | Andreas: The Legend of St. Andrew | Robert K. Root | (see the Gutenberg header) | have | PG 15225 |
+| `singles-medieval-epic-bartholomaeus-mediaeval-lore-from-bartholomew-anglicus` | Bartholomaeus Anglicus | Mediaeval Lore from Bartholomew Anglicus | John Trevisa | (see the Gutenberg header) | have | PG 6493 |
+| `singles-medieval-epic-bedier-the-romance-of-tristan-and-iseult` | Joseph Bédier | The Romance of Tristan and Iseult | Hilaire Belloc | (see the Gutenberg header) | have | PG 14244 |
+| `singles-medieval-epic-benjamin-the-itinerary-of-benjamin-of-tudela` | Benjamin of Tudela | The Itinerary of Benjamin of Tudela | Marcus Nathan Adler | (see the Gutenberg header) | have | PG 14981 |
+| `singles-medieval-epic-brant-the-ship-of-fools-volume-1` | Sebastian Brant | The Ship of Fools, Volume 1 | Alexander Barclay | (see the Gutenberg header) | have | PG 20179 |
+| `singles-medieval-epic-bury-the-love-of-books` | Richard de Bury | The Love of Books: The Philobiblon of Richard de Bury | Ernest Chester Thomas | (see the Gutenberg header) | have | PG 626 |
+| `singles-medieval-epic-camoes-the-lusiad` | Luís de Camões | The Lusiad; Or, The Discovery of India, an Epic Poem | William Julius Mickle | (see the Gutenberg header) | have | PG 32528 |
+| `singles-medieval-epic-colonna-hypnerotomachia` | Francesco Colonna | Hypnerotomachia: The Strife of Loue in a Dreame | Robert Dallington | (see the Gutenberg header) | have | PG 18459 |
+| `singles-medieval-epic-cynewulf-the-elene-of-cynewulf-translated-into-en` | Cynewulf | The Elene of Cynewulf translated into English prose | Lucius Hudson Holt | (see the Gutenberg header) | have | PG 14781 |
+| `singles-medieval-epic-eirik-the-red-s-saga` | anonymous (Icelandic saga) | Eirik the Red's Saga | John Sephton | (see the Gutenberg header) | have | PG 17946 |
+| `singles-medieval-epic-elene` | anonymous (Old English) | Elene; Judith; Athelstan, or the Fight at Brunanburh; Byrhtnoth, or the Fight at Maldon; and the Dream of the Rood Anglo-Saxon Poems | James Mercer Garnett | (see the Gutenberg header) | have | PG 15879 |
+| `singles-medieval-epic-haleole-the-hawaiian-romance-of-laieikawai` | S. N. Haleole | The Hawaiian Romance Of Laieikawai | Martha Warren Beckwith | (see the Gutenberg header) | have | PG 13603 |
+| `singles-medieval-epic-john-damascene-barlaam-and-ioasaph` | attributed to St John of Damascus | Barlaam and Ioasaph | Harold Mattingly and George Ratcliffe Woodward | (see the Gutenberg header) | have | PG 749 |
+| `singles-medieval-epic-la-chanson-de-roland` | anonymous (Old French epic) | La Chanson de Roland : Translated from the Seventh Edition of Léon Gautier | Léonce Rabillon | (see the Gutenberg header) | have | PG 23819 |
+| `singles-medieval-epic-laxdaela-saga-translated-from-the-icelan` | anonymous (Icelandic saga) | Laxdæla Saga Translated from the Icelandic | Muriel A. C. Press | (see the Gutenberg header) | have | PG 17803 |
+| `singles-medieval-epic-old-english-poems-translated-into-the-or` | anonymous (Old English) | Old English Poems Translated into the Original Meter Together with Short Selections from Old English Prose | Cosette Faust Newton and Stith Thompson | (see the Gutenberg header) | have | PG 31172 |
+| `singles-medieval-epic-saxo-the-danish-history-books-i-ix` | Saxo Grammaticus | The Danish History, Books I-IX | Oliver Elton | (see the Gutenberg header) | have | PG 1150 |
+| `singles-medieval-epic-selections-from-ancient-irish-poetry` | anonymous (Old Irish poets) | Selections from Ancient Irish Poetry | Kuno Meyer | (see the Gutenberg header) | have | PG 32030 |
+| `singles-medieval-epic-sturla-the-norwegian-account-of-haco-s-expediti` | Sturla Þórðarson | The Norwegian account of Haco's expedition against Scotland, A.D. MCCLXIII. | James Johnstone | (see the Gutenberg header) | have | PG 18299 |
+| `singles-medieval-epic-tegner-fridthjof-s-saga` | Esaias Tegnér | Fridthjof's Saga; a Norse romance | Martha A. Lyon Holcomb and Thomas A. E. Holcomb | (see the Gutenberg header) | have | PG 3759 |
+| `singles-medieval-epic-the-ancient-irish-epic-tale-tain-bo-cual` | anonymous (Old Irish) | The Ancient Irish Epic Tale Táin Bó Cúalnge | Joseph Dunn | (see the Gutenberg header) | have | PG 16464 |
+| `singles-medieval-epic-the-anglo-saxon-chronicle` | anonymous (Old English annals) | The Anglo-Saxon Chronicle | J. Ingram and J. A. Giles | (see the Gutenberg header) | have | PG 657 |
+| `singles-medieval-epic-the-cattle-raid-of-cualnge-tain-bo-cualn` | anonymous (Old Irish) | The Cattle-Raid of Cualnge (Tain Bo Cualnge) : An Old Irish Prose-Epic | Lucy Winifred Faraday | (see the Gutenberg header) | have | PG 14391 |
+| `singles-medieval-epic-the-high-history-of-the-holy-graal` | anonymous (Old French romance, Perlesvaus) | The High History of the Holy Graal | Sebastian Evans | (see the Gutenberg header) | have | PG 750 |
+| `singles-medieval-epic-the-lay-of-the-cid` | anonymous (Old Spanish epic) | The Lay of the Cid | R. Selden Rose and Leonard Bacon | (see the Gutenberg header) | have | PG 6088 |
+| `singles-medieval-epic-villani-villani-s-chronicle-being-selections-fro` | Giovanni Villani | Villani's Chronicle Being Selections from the First Nine Books of the Croniche Fiorentine of Giovanni Villani | Rose E. Selfe | (see the Gutenberg header) | have | PG 33022 |
+| `singles-medieval-epic-wynne-the-visions-of-the-sleeping-bard` | Ellis Wynne | The Visions of the Sleeping Bard | Robert Gwyneddon Davies | (see the Gutenberg header) | have | PG 5671 |
+
+## One-off translations: philosophy, history and science (Burckhardt, Bergson, Amiel, Machiavelli's Discourses, Kandinsky, Engels, Planck, Lavoisier, Comenius)
+
+Shelf: `pipeline/singles-ideas_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-ideas` · titles `python3 pipeline/split_shelf_titles.py singles-ideas`.
+Round 40 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-ideas-amiel-amiel-s-journal` | Henri Frédéric Amiel | Amiel's Journal: The Journal Intime of Henri-Frédéric Amiel | Humphry Ward | (see the Gutenberg header) | have | PG 8545 |
+| `singles-ideas-bastiat-sophisms-of-the-protectionists` | Frédéric Bastiat | Sophisms of the Protectionists | Horace White | (see the Gutenberg header) | have | PG 20161 |
+| `singles-ideas-bastiat-what-is-free-trade-an-adaptation-of-fred` | Frédéric Bastiat | What Is Free Trade? An Adaptation of Frederic Bastiat's "Sophismes Éconimiques" Designed for the American Reader | Alexander Del Mar | (see the Gutenberg header) | have | PG 16106 |
+| `singles-ideas-bergson-creative-evolution` | Henri Bergson | Creative Evolution | Arthur Mitchell | (see the Gutenberg header) | have | PG 26163 |
+| `singles-ideas-bergson-dreams` | Henri Bergson | Dreams | Edwin E. Slosson | (see the Gutenberg header) | have | PG 20842 |
+| `singles-ideas-burckhardt-the-civilisation-of-the-renaissance-in-i` | Jacob Burckhardt | The Civilisation of the Renaissance in Italy | S. G. C. Middlemore | (see the Gutenberg header) | have | PG 2074 |
+| `singles-ideas-comenius-the-orbis-pictus` | Johann Amos Comenius | The Orbis Pictus | Charles Hoole | (see the Gutenberg header) | have | PG 28299 |
+| `singles-ideas-condorcet-the-first-essay-on-the-political-rights` | Condorcet | The first essay on the political rights of women | Alice Drysdale Vickery | (see the Gutenberg header) | have | PG 31550 |
+| `singles-ideas-descartes-selections-from-the-principles-of-philos` | René Descartes | Selections from the Principles of Philosophy | John Veitch | (see the Gutenberg header) | have | PG 4391 |
+| `singles-ideas-engels-the-condition-of-the-working-class-in-en` | Friedrich Engels | The Condition of the Working-Class in England in 1844 with a Preface written in 1892 | Florence Kelley | (see the Gutenberg header) | have | PG 17306 |
+| `singles-ideas-falckenberg-history-of-modern-philosophy-from-nicola` | Richard Falckenberg | History of Modern Philosophy From Nicolas of Cusa to the Present Time | Andrew Campbell Armstrong | (see the Gutenberg header) | have | PG 11100 |
+| `singles-ideas-ibn-tufayl-the-awakening-of-the-soul` | Ibn Tufayl | The Awakening of the Soul | Paul Brönnle | (see the Gutenberg header) | have | PG 34572 |
+| `singles-ideas-jellinek-the-declaration-of-the-rights-of-man-and` | Georg Jellinek | The Declaration of the Rights of Man and of Citizens | Max Farrand | (see the Gutenberg header) | have | PG 29815 |
+| `singles-ideas-kandinsky-concerning-the-spiritual-in-art` | Wassily Kandinsky | Concerning the Spiritual in Art | Michael Sadleir | (see the Gutenberg header) | have | PG 5321 |
+| `singles-ideas-kropotkin-the-place-of-anarchism-in-socialistic-ev` | Petr Alekseevich Kropotkin | The place of anarchism in socialistic evolution | Henry Glasse | (see the Gutenberg header) | have | PG 31104 |
+| `singles-ideas-lavoisier-elements-of-chemistry-in-a-new-systemati` | Antoine Laurent Lavoisier | Elements of Chemistry, In a New Systematic Order, Containing all the Modern Discoveries | Robert Kerr | (see the Gutenberg header) | have | PG 30775 |
+| `singles-ideas-leonardo-thoughts-on-art-and-life` | Leonardo da Vinci | Thoughts on Art and Life | Maurice Baring | (see the Gutenberg header) | have | PG 29904 |
+| `singles-ideas-machiavelli-discourses-on-the-first-decade-of-titus` | Niccolò Machiavelli | Discourses on the First Decade of Titus Livius | Ninian Hill Thomson | (see the Gutenberg header) | have | PG 10827 |
+| `singles-ideas-michelet-la-sorciere` | Jules Michelet | La Sorcière: The Witch of the Middle Ages | Lionel J. Trotter | (see the Gutenberg header) | have | PG 31420 |
+| `singles-ideas-planck-the-origin-and-development-of-the-quantu` | Max Planck | The Origin and Development of the Quantum Theory | Hans Thacher Clarke and Ludwik Silberstein | (see the Gutenberg header) | have | PG 33663 |
+| `singles-ideas-ptahhotep-the-instruction-of-ptah-hotep-and-the-in` | Ptahhotep and Kagemna | The Instruction of Ptah-Hotep and the Instruction of Ke'Gemni The Oldest Books in the World | Battiscombe G. Gunn | (see the Gutenberg header) | have | PG 30508 |
+| `singles-ideas-ribot-essay-on-the-creative-imagination` | Th. Ribot | Essay on the Creative Imagination | Albert Heyem Nachmen Baron | (see the Gutenberg header) | have | PG 26430 |
+| `singles-ideas-rochefoucauld-reflections` | La Rochefoucauld | Reflections; or Sentences and Moral Maxims | J. Hain Friswell and J. W. Willis Bund | (see the Gutenberg header) | have | PG 9105 |
+| `singles-ideas-schlegel-lectures-on-dramatic-art-and-literature` | August Wilhelm von Schlegel | Lectures on Dramatic Art and Literature | John Black | (see the Gutenberg header) | have | PG 7148 |
+| `singles-ideas-schopenhauer-essays-of-schopenhauer` | Arthur Schopenhauer | Essays of Schopenhauer | Sara Hay Goddard Dircks | (see the Gutenberg header) | have | PG 11945 |
+| `singles-ideas-tarde-underground-man` | Gabriel de Tarde | Underground Man | Cloudesley Brereton | (see the Gutenberg header) | have | PG 33549 |
+| `pg-17384` | — | Hilbert's The Foundations of Geometry (Townsend, 1902): Gutenberg publishes this mathematics book only as PDF/LaTeX, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+| `pg-21016` | — | Dedekind's Essays on the Theory of Numbers (Beman, 1901): Gutenberg publishes this mathematics book only as PDF/LaTeX, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+| `pg-26752` | — | Ramus's The Way to Geometry (Bedwell, 1636): Gutenberg's text file is a stub ('a text version was not prepared'; HTML only, for the diagrams). Left for a later pass that finds a period scan. | — | — | pending | — |
+
+## One-off translations: novels, plays and poems (Lermontov, Pushkin, Mickiewicz, Botchan, Maria Chapdelaine, Huysmans, the Noh plays, Cervantes's Exemplary Novels)
+
+Shelf: `pipeline/singles-literature_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-literature` · titles `python3 pipeline/split_shelf_titles.py singles-literature`.
+Round 40 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-literature-azuela-the-underdogs` | Mariano Azuela | The Underdogs: A Novel of the Mexican Revolution | E. Munguía | (see the Gutenberg header) | have | PG 549 |
+| `singles-literature-boccaccio-la-fiammetta` | Giovanni Boccaccio | La Fiammetta | James C. Brogan | (see the Gutenberg header) | have | PG 10006 |
+| `singles-literature-cattopadhyaya-the-poison-tree` | Bankimacandra Cattopadhyaya | The Poison Tree: A Tale of Hindu Life in Bengal | Miriam S. Knight | (see the Gutenberg header) | have | PG 17455 |
+| `singles-literature-certain-noble-plays-of-japan` | Zeami and other Noh playwrights | Certain Noble Plays of Japan: From the manuscripts of Ernest Fenollosa | Ernest Fenollosa | (see the Gutenberg header) | have | PG 8094 |
+| `singles-literature-cervantes-the-exemplary-novels-of-cervantes` | Miguel de Cervantes | The Exemplary Novels of Cervantes | Walter K. Kelly | (see the Gutenberg header) | have | PG 14420 |
+| `singles-literature-corneille-polyeucte` | Pierre Corneille | Polyeucte | Thomas Constable | (see the Gutenberg header) | have | PG 2543 |
+| `singles-literature-daudet-the-nabob` | Alphonse Daudet | The Nabob | W. Blaydes | (see the Gutenberg header) | have | PG 2077 |
+| `singles-literature-fontaine-fables-of-la-fontaine-a-new-edition-with` | Jean de La Fontaine | Fables of La Fontaine — a New Edition, with Notes | Elizur Wright | (see the Gutenberg header) | have | PG 7241 |
+| `singles-literature-gautier-enamels-and-cameos-and-other-poems` | Théophile Gautier | Enamels and Cameos and other Poems | Agnes Lee | (see the Gutenberg header) | have | PG 29521 |
+| `singles-literature-gorky-creatures-that-once-were-men` | Maksim Gorky | Creatures That Once Were Men | J. K. M. Shirazi | (see the Gutenberg header) | have | PG 1466 |
+| `singles-literature-heine-poems-and-ballads-of-heinrich-heine` | Heinrich Heine | Poems and Ballads of Heinrich Heine | Emma Lazarus | (see the Gutenberg header) | have | PG 31726 |
+| `singles-literature-hemon-maria-chapdelaine` | Louis Hémon | Maria Chapdelaine: A Tale of the Lake St. John Country | W. H. Blake | (see the Gutenberg header) | have | PG 4383 |
+| `singles-literature-holberg-comedies-by-holberg` | Ludvig Holberg | Comedies by Holberg : Jeppe of the Hill, The Political Tinker, Erasmus Montanus | Oscar James Campbell and Frederic Schenck | (see the Gutenberg header) | have | PG 5749 |
+| `singles-literature-holberg-niels-klim-s-journey-under-the-ground-be` | Ludvig Holberg | Niels Klim's journey under the ground being a narrative of his wonderful descent to the subterranean lands; together with an account of the sensible animals and trees inhabiting the planet Nazar and t | John Gierlow | (see the Gutenberg header) | have | PG 27884 |
+| `singles-literature-huysmans-against-the-grain` | J.-K. Huysmans | Against the Grain | John Howard | (see the Gutenberg header) | have | PG 12341 |
+| `singles-literature-huysmans-la-bas` | J.-K. Huysmans | Là-bas | Keene Wallis | (see the Gutenberg header) | have | PG 14323 |
+| `singles-literature-jacobsen-mogens-and-other-stories` | J. P. Jacobsen | Mogens, and Other Stories | Anna Grabow | (see the Gutenberg header) | have | PG 6765 |
+| `singles-literature-kalidasa-the-birth-of-the-war-god` | Kālidāsa | The Birth of the War-God: A Poem by Kálidása | Ralph T. H. Griffith | (see the Gutenberg header) | have | PG 31968 |
+| `singles-literature-kartini-letters-of-a-javanese-princess` | Raden Adjeng Kartini | Letters of a Javanese Princess | Agnes Louise Symmers | (see the Gutenberg header) | have | PG 34647 |
+| `singles-literature-kochanowski-laments` | Jan Kochanowski | Laments | Dorothea Prall | (see the Gutenberg header) | have | PG 27179 |
+| `singles-literature-leopardi-the-poems-of-giacomo-leopardi` | Giacomo Leopardi | The Poems of Giacomo Leopardi | Frederick Townsend | (see the Gutenberg header) | have | PG 19315 |
+| `singles-literature-lermontov-a-hero-of-our-time` | Mikhail Iurevich Lermontov | A Hero of Our Time | Marr Murray and J. H. Wisdom | (see the Gutenberg header) | have | PG 913 |
+| `singles-literature-lessing-nathan-the-wise` | Gotthold Ephraim Lessing | Nathan the Wise; a dramatic poem in five acts | W. Taylor | (see the Gutenberg header) | have | PG 3820 |
+| `singles-literature-loti-an-iceland-fisherman` | Pierre Loti | An Iceland Fisherman | Jules Cambon | (see the Gutenberg header) | have | PG 2196 |
+| `singles-literature-maeterlinck-pelleas-and-melisande` | Maurice Maeterlinck | Pélléas and Mélisande; Alladine and Palomides; Home | Richard Hovey | (see the Gutenberg header) | have | PG 13329 |
+| `singles-literature-mickiewicz-konrad-wallenrod` | Adam Mickiewicz | Konrad Wallenrod: An Historical Poem | Maude Ashurst Biggs | (see the Gutenberg header) | have | PG 34050 |
+| `singles-literature-mickiewicz-pan-tadeusz` | Adam Mickiewicz | Pan Tadeusz; or, The last foray in Lithuania a story of life among Polish gentlefolk in the years 1811 and 1812 | George Rapall Noyes | (see the Gutenberg header) | have | PG 28240 |
+| `singles-literature-moliere-amphitryon` | Molière | Amphitryon | A. R. Waller | (see the Gutenberg header) | have | PG 2536 |
+| `singles-literature-moliere-the-middle-class-gentleman` | Molière | The Middle-Class Gentleman | Philip Dwight Jones | (see the Gutenberg header) | have | PG 2992 |
+| `singles-literature-musset-the-confession-of-a-child-of-the-century` | Alfred de Musset | The Confession of a Child of the Century | Kendall Warren | (see the Gutenberg header) | have | PG 9869 |
+| `singles-literature-natsume-botchan-master-darling` | Natsume Sōseki | Botchan (Master Darling) | Yasotaro Mori | (see the Gutenberg header) | have | PG 8868 |
+| `singles-literature-nekrasov-who-can-be-happy-and-free-in-russia` | Nikolai Alekseevich Nekrasov | Who Can Be Happy and Free in Russia? | Juliet M. Soskice | (see the Gutenberg header) | have | PG 9619 |
+| `singles-literature-novalis-henry-of-ofterdingen` | Novalis | Henry of Ofterdingen: A Romance. | Friedrich von Schlegel and Ludwig Tieck | (see the Gutenberg header) | have | PG 31873 |
+| `singles-literature-pushkin-boris-godunov` | Aleksandr Sergeevich Pushkin | Boris Godunov: a drama in verse | Alfred Hayes | (see the Gutenberg header) | have | PG 5089 |
+| `singles-literature-pushkin-eugene-oneguine-onegin-a-romance-of-russ` | Aleksandr Sergeevich Pushkin | Eugene Oneguine [Onegin] A Romance of Russian Life in Verse | Henry Spalding | (see the Gutenberg header) | have | PG 23997 |
+| `singles-literature-rostand-l-aiglon` | Edmond Rostand | L'Aiglon | Louis Napoleon Parker | (see the Gutenberg header) | have | PG 30012 |
+| `singles-literature-saint-pierre-paul-and-virginia-from-the-french-of-j-b` | Bernardin de Saint-Pierre | Paul and Virginia from the French of J.B.H. de Saint Pierre | Helen Maria Williams | (see the Gutenberg header) | have | PG 10859 |
+| `singles-literature-sand-mauprat` | George Sand | Mauprat | Stanley Young | (see the Gutenberg header) | have | PG 2194 |
+| `singles-literature-schiller-mary-stuart` | Friedrich Schiller | Mary Stuart: A Tragedy | Joseph Charles Mellish | (see the Gutenberg header) | have | PG 6791 |
+| `singles-literature-sigurjonsson-modern-icelandic-plays-eyvind-of-the-hil` | Jóhann Sigurjónsson | Modern Icelandic Plays Eyvind of the Hills; The Hraun Farm | Henninge Margrethe Krohn Schanche | (see the Gutenberg header) | have | PG 21937 |
+| — | — | pg-30442: Daudet's Letters from My Windmill in the Keith Adams and Mireille Harmelin translation: a modern translation, not a printing before 1931. | — | — | excluded | — |
+| — | — | pg-17445: Pumpurs's Bearslayer in Arthur Cropley's translation: a modern translation, not a printing before 1931. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

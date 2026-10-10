@@ -3152,6 +3152,30 @@
       "finished": "2026-10-10T13:40-05:00",
       "scope": "TRANSLATOR SHELF (round 39, lane C's choice; Adam may veto) -- alexander-muir; PD printings before 1931 only; no minting",
       "notes": "2 titles; ids checked across all branches. See DIGEST-C round 39. No uids minted."
+    },
+    {
+      "id": "shelf-singles-medieval-epic",
+      "status": "done",
+      "started": "2026-10-10T13:53-05:00",
+      "finished": "2026-10-10T13:53-05:00",
+      "scope": "TRANSLATOR SHELF (round 40, lane C's choice; Adam may veto) -- singles-medieval-epic; PD printings before 1931 only; no minting",
+      "notes": "27 titles; ids checked across all branches. See DIGEST-C round 40. No uids minted."
+    },
+    {
+      "id": "shelf-singles-ideas",
+      "status": "done",
+      "started": "2026-10-10T13:53-05:00",
+      "finished": "2026-10-10T13:53-05:00",
+      "scope": "TRANSLATOR SHELF (round 40, lane C's choice; Adam may veto) -- singles-ideas; PD printings before 1931 only; no minting",
+      "notes": "26 titles; ids checked across all branches. See DIGEST-C round 40. No uids minted."
+    },
+    {
+      "id": "shelf-singles-literature",
+      "status": "done",
+      "started": "2026-10-10T13:53-05:00",
+      "finished": "2026-10-10T13:53-05:00",
+      "scope": "TRANSLATOR SHELF (round 40, lane C's choice; Adam may veto) -- singles-literature; PD printings before 1931 only; no minting",
+      "notes": "40 titles; ids checked across all branches. See DIGEST-C round 40. No uids minted."
     }
   ]
 }
