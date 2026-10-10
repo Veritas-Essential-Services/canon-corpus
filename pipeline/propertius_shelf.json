@@ -45,7 +45,7 @@
   "propertius-butler-loeb": "H. E. Butler",
   "propertius-gantillon-bohn": "P. J. F. Gantillon",
   "propertius-cranstoun-1875": "James Cranstoun",
-  "propertius-phillimore-1906": "Phillimore",
+  "propertius-phillimore-1906": "j. s. phillimore",
   "propertius-petronius-kelly-erotica-1854": "walter k. kelly"
  },
  "_checks": {
@@ -93,13 +93,14 @@
    "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "propertius",
-   "translator_claimed": "Phillimore",
+   "translator_claimed": "j. s. phillimore",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1906",
    "ia_date": "1906",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
+   "ia_lending": null,
+   "rights_override": "Oxford: Clarendon Press, 1906: US PD by date. Phillimore died in 1926 (catalogue heading 'Phillimore, John Swinnerton, 1873-1926'), so UK PD since 1997"
   },
   "propertius-moore-1870": {
    "kind": "ia",
@@ -132,5 +133,8 @@
  },
  "_excluded": {
   "Kelly's Erotica, later printings (IA eroticaelegiesp00arbigoog, Bell; eroticaelegiesof00kell, 1878; eroticaelegiesp00shergoog, 1880)": "later stereotype printings of the same volume; the 1854 first printing is held"
+ },
+ "_rights_checked": {
+  "propertius-phillimore-1906": "Oxford: Clarendon Press, 1906: US PD by date. Phillimore died in 1926 (catalogue heading 'Phillimore, John Swinnerton, 1873-1926'), so UK PD since 1997"
  }
 }

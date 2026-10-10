@@ -2177,7 +2177,7 @@ Shelf: `pipeline/propertius_shelf.json`. Butler's Loeb (1912, Latin facing; the 
 | The Elegies of Propertius, translated into English verse (London: Rivingtons, 1870) | Charles Robert Moore | `propertius-moore-1870` | have-raw (IA `elegiesproperti00magoog`) |
 | Erotica: the Elegies of Propertius, the Satyricon of Petronius Arbiter, and the Kisses of Johannes Secundus, literally translated, with poetical versions from various sources; with the Love Epistles of Aristaenetus, tr. R. B. Sheridan and N. B. Halhed (Bohn, 1854) | Walter K. Kelly | `propertius-petronius-kelly-erotica-1854` | have-raw (IA `eroticaelegiesp01arbigoog`) |
 
-Pending (wishlist): Phillimore's 1906 prose translation (Oxford), if a scan turns up.
+Pending (wishlist): none known. Phillimore's 1906 prose translation is now held above.
 
 ## Zosimus
 
