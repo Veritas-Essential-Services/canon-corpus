@@ -8328,6 +8328,19 @@ Shelf: `pipeline/kalakaua_shelf.json` (2026-10-02; added at the coordinator's re
 |---|---|---|
 | The Legends and Myths of Hawaii | have | PG 56597, `kalakaua-legends-and-myths-of-hawaii` (2677 units) |
 
+## Sophie May
+
+Shelf: `pipeline/sophie-may_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Little Prudy books for small children; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Little Prudy | have | PG 24711, `smay-little-prudy` (921 units) |
+| Little Prudy's Sister Susy | have | PG 14202, `smay-little-prudys-sister-susy` (758 units) |
+| Captain Horace | have | PG 25484, `smay-little-prudys-captain-horace` (877 units) |
+| Little Prudy's Cousin Grace | have | PG 49686, `smay-little-prudys-cousin-grace` (780 units) |
+| Little Prudy's Dotty Dimple | have | PG 16390, `smay-little-prudys-dotty-dimple` (769 units) |
+| smay-little-prudys-captain-horace-2 | excluded | PG 53306, Little Prudy's Captain Horace in a later printing: the same book as PG 25484, which is kept; held once (2026-10-10). |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
