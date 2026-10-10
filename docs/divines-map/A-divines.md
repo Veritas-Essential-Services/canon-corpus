@@ -2475,3 +2475,23 @@ Slugs `hengstenberg-*`. The Fairbairn shelf leaves these translations out as oth
 | Commentary on the Gospel of St John, vol. 1 (Edinburgh: T. & T. Clark, 1865; translator not named) | have-ocr | IA `commentaryongosp01heng` |
 | Commentary on the Gospel of St John, vol. 2 (Edinburgh: T. & T. Clark, 1865; translator not named) | have-ocr | IA `commentaryongosp02heng` |
 | Gutenberg 30410 and 30608: Christology vols. 1-2 only; the IA set is complete | alternate | not shelved |
+
+## August Neander (in English) (round 15, my pick, 2026-10-10)
+
+Slugs `neander-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| The Life of Jesus Christ in Its Historical Connexion, tr. John M'Clintock and Charles E. Blumenthal (New York: Harper, 1870) | have-clean | CCEL n/neander_a/life |
+| Light in the Dark Places (New York: Lane & Scott, 1851; translator not named) | have-clean | CCEL n/neander_a/light |
+| The Epistle to the Philippians Practically Explained, tr. Mrs H. C. Conant (New York: Lewis Colby, 1853) | have-clean | CCEL n/neander_a/expo_phil |
+| The Epistle of James Practically Explained, tr. Mrs H. C. Conant (New York: Lewis Colby, 1853) | have-clean | CCEL n/neander_a/expo_james |
+| The First Epistle of John Practically Explained, tr. Mrs H. C. Conant (New York: Lewis Colby, 1853) | have-clean | CCEL n/neander_a/expo_1john |
+| General History of the Christian Religion and Church, vol. 1, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871) | have-ocr | IA `generalhistoryof187101nean` |
+| General History of the Christian Religion and Church, vol. 2, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871) | have-ocr | IA `generalhistoryof187102nean` |
+| General History of the Christian Religion and Church, vol. 3, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871) | have-ocr | IA `generalhistoryof187103nean` |
+| General History of the Christian Religion and Church, vol. 4, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871) | have-ocr | IA `generalhistoryof187104nean` |
+| General History of the Christian Religion and Church, vol. 5, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871) | have-ocr | IA `generalhistoryof187105nean` |
+| History of the Planting and Training of the Christian Church by the Apostles, tr. J. E. Ryland, rev. E. G. Robinson (New York: Sheldon; Boston: Gould & Lincoln; entered 1864) | have-ocr | IA `historyofplantin1864nean` |
+| Planting, Bohn 1851, 2 vols (IA historyofplanting01nean, 02nean): title pages not read | alternate | not shelved |
+| Index to Neander's General History by Thomas Clayton (Houghton, Mifflin, 1881; IA generalhistoryof00nean): Clayton's index, not Neander's text | alternate | not shelved |
