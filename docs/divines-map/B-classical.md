@@ -3335,6 +3335,8 @@ Shelf: `pipeline/liddell_shelf.json`. A History of Rome, 2 vols. (John Murray, 1
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A History of Rome from the Earliest Times to the Establishment of the Empire, vol. I (London: John Murray, 1855) |  | `liddell-history-rome-v1-1855` | have-raw (IA `ahistoryromefro04liddgoog`) |
+| A History of Rome from the Earliest Times to the Establishment of the Empire, vol. II (London: John Murray, 1855) |  | `liddell-history-rome-v2-1855` | have-raw (IA `ahistoryrometoe00liddgoog`) |
 
 ## Perseus census (overflow)
 
