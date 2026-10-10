@@ -720,6 +720,86 @@
       "finished": "2026-10-10T11:18-05:00",
       "scope": "TRANSLATOR SHELF (round 22, lane C's choice; Adam may veto) -- de-leon; PD printings before 1931 only; no minting",
       "notes": "18 titles; ids checked across all branches. See DIGEST-C round 22. No uids minted."
+    },
+    {
+      "id": "shelf-upton",
+      "status": "done",
+      "started": "2026-10-10T11:27-05:00",
+      "finished": "2026-10-10T11:27-05:00",
+      "scope": "TRANSLATOR SHELF (round 23, lane C's choice; Adam may veto) -- upton; PD printings before 1931 only; no minting",
+      "notes": "35 titles; ids checked across all branches. See DIGEST-C round 23. No uids minted."
+    },
+    {
+      "id": "shelf-colbron",
+      "status": "done",
+      "started": "2026-10-10T11:27-05:00",
+      "finished": "2026-10-10T11:27-05:00",
+      "scope": "TRANSLATOR SHELF (round 23, lane C's choice; Adam may veto) -- colbron; PD printings before 1931 only; no minting",
+      "notes": "5 titles; ids checked across all branches. See DIGEST-C round 23. No uids minted."
+    },
+    {
+      "id": "shelf-isaac-goldberg",
+      "status": "done",
+      "started": "2026-10-10T11:27-05:00",
+      "finished": "2026-10-10T11:27-05:00",
+      "scope": "TRANSLATOR SHELF (round 23, lane C's choice; Adam may veto) -- isaac-goldberg; PD printings before 1931 only; no minting",
+      "notes": "9 titles; ids checked across all branches. See DIGEST-C round 23. No uids minted."
+    },
+    {
+      "id": "shelf-thomas-roscoe",
+      "status": "done",
+      "started": "2026-10-10T11:27-05:00",
+      "finished": "2026-10-10T11:27-05:00",
+      "scope": "TRANSLATOR SHELF (round 23, lane C's choice; Adam may veto) -- thomas-roscoe; PD printings before 1931 only; no minting",
+      "notes": "8 titles; ids checked across all branches. See DIGEST-C round 23. No uids minted."
+    },
+    {
+      "id": "shelf-durand",
+      "status": "done",
+      "started": "2026-10-10T11:27-05:00",
+      "finished": "2026-10-10T11:27-05:00",
+      "scope": "TRANSLATOR SHELF (round 23, lane C's choice; Adam may veto) -- durand; PD printings before 1931 only; no minting",
+      "notes": "7 titles; ids checked across all branches. See DIGEST-C round 23. No uids minted."
+    },
+    {
+      "id": "shelf-ct-brooks",
+      "status": "done",
+      "started": "2026-10-10T11:27-05:00",
+      "finished": "2026-10-10T11:27-05:00",
+      "scope": "TRANSLATOR SHELF (round 23, lane C's choice; Adam may veto) -- ct-brooks; PD printings before 1931 only; no minting",
+      "notes": "6 titles; ids checked across all branches. See DIGEST-C round 23. No uids minted."
+    },
+    {
+      "id": "shelf-lady-wallace",
+      "status": "done",
+      "started": "2026-10-10T11:27-05:00",
+      "finished": "2026-10-10T11:27-05:00",
+      "scope": "TRANSLATOR SHELF (round 23, lane C's choice; Adam may veto) -- lady-wallace; PD printings before 1931 only; no minting",
+      "notes": "8 titles; ids checked across all branches. See DIGEST-C round 23. No uids minted."
+    },
+    {
+      "id": "shelf-frewer",
+      "status": "done",
+      "started": "2026-10-10T11:27-05:00",
+      "finished": "2026-10-10T11:27-05:00",
+      "scope": "TRANSLATOR SHELF (round 23, lane C's choice; Adam may veto) -- frewer; PD printings before 1931 only; no minting",
+      "notes": "6 titles; ids checked across all branches. See DIGEST-C round 23. No uids minted."
+    },
+    {
+      "id": "shelf-laura-ensor",
+      "status": "done",
+      "started": "2026-10-10T11:27-05:00",
+      "finished": "2026-10-10T11:27-05:00",
+      "scope": "TRANSLATOR SHELF (round 23, lane C's choice; Adam may veto) -- laura-ensor; PD printings before 1931 only; no minting",
+      "notes": "6 titles; ids checked across all branches. See DIGEST-C round 23. No uids minted."
+    },
+    {
+      "id": "shelf-ranous",
+      "status": "done",
+      "started": "2026-10-10T11:27-05:00",
+      "finished": "2026-10-10T11:27-05:00",
+      "scope": "TRANSLATOR SHELF (round 23, lane C's choice; Adam may veto) -- ranous; PD printings before 1931 only; no minting",
+      "notes": "2 titles; ids checked across all branches. See DIGEST-C round 23. No uids minted."
     }
   ]
 }

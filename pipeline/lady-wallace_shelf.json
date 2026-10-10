@@ -1,0 +1,234 @@
+{
+ "_about": "TRANSLATOR SHELF: Grace, Lady Wallace (1804-1878): the letters of Mozart (vol. 1, the only one on Gutenberg), Beethoven (2 vols) and Mendelssohn (2 vols), and Auerbach's Joseph in the Snow (3 vols). US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted.",
+ "_name_words": [
+  "lady wallace",
+  "grace wallace"
+ ],
+ "_surname": [
+  "lady wallace",
+  "grace wallace"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "lwa-13065": [
+   13065,
+   "Beethoven's Letters 1790-1826, Volume 1"
+  ],
+  "lwa-13272": [
+   13272,
+   "Beethoven's Letters 1790-1826, Volume 2"
+  ],
+  "lwa-33162": [
+   33162,
+   "Joseph in the Snow, and The Clockmaker. In Three Volumes. Vol. I."
+  ],
+  "lwa-33163": [
+   33163,
+   "Joseph in the Snow, and The Clockmaker. In Three Volumes. Vol. II."
+  ],
+  "lwa-33164": [
+   33164,
+   "Joseph in the Snow, and The Clockmaker. In Three Volumes. Vol. III."
+  ],
+  "lwa-39384": [
+   39384,
+   "Letters of Felix Mendelssohn Bartholdy from Italy and Switzerland"
+  ],
+  "lwa-50473": [
+   50473,
+   "Letters of Felix Mendelssohn-Bartholdy from 1833 to 1847"
+  ],
+  "lwa-5307": [
+   5307,
+   "The Letters of Wolfgang Amadeus Mozart — Volume 01"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "lady-wallace-auerbach-joseph-in-the-snow-vol-1": {
+   "source": "lwa-33162",
+   "of": "Berthold Auerbach",
+   "work": "Joseph in the Snow, and The Clockmaker. In Three Volumes. Vol. I.",
+   "translated": "1862-1867 (see the Gutenberg header)",
+   "translator": "Lady Wallace",
+   "scan_edition": "Project Gutenberg 33162 (clean text)"
+  },
+  "lady-wallace-auerbach-joseph-in-the-snow-vol-2": {
+   "source": "lwa-33163",
+   "of": "Berthold Auerbach",
+   "work": "Joseph in the Snow, and The Clockmaker. In Three Volumes. Vol. II.",
+   "translated": "1862-1867 (see the Gutenberg header)",
+   "translator": "Lady Wallace",
+   "scan_edition": "Project Gutenberg 33163 (clean text)"
+  },
+  "lady-wallace-auerbach-joseph-in-the-snow-vol-3": {
+   "source": "lwa-33164",
+   "of": "Berthold Auerbach",
+   "work": "Joseph in the Snow, and The Clockmaker. In Three Volumes. Vol. III.",
+   "translated": "1862-1867 (see the Gutenberg header)",
+   "translator": "Lady Wallace",
+   "scan_edition": "Project Gutenberg 33164 (clean text)"
+  },
+  "lady-wallace-beethoven-beethoven-s-letters-1790-1826-volume-1": {
+   "source": "lwa-13065",
+   "of": "Ludwig van Beethoven",
+   "work": "Beethoven's Letters 1790-1826, Volume 1",
+   "translated": "1862-1867 (see the Gutenberg header)",
+   "translator": "Lady Wallace",
+   "scan_edition": "Project Gutenberg 13065 (clean text)"
+  },
+  "lady-wallace-beethoven-beethoven-s-letters-1790-1826-volume-2": {
+   "source": "lwa-13272",
+   "of": "Ludwig van Beethoven",
+   "work": "Beethoven's Letters 1790-1826, Volume 2",
+   "translated": "1862-1867 (see the Gutenberg header)",
+   "translator": "Lady Wallace",
+   "scan_edition": "Project Gutenberg 13272 (clean text)"
+  },
+  "lady-wallace-mendelssohn-letters-1833-1847": {
+   "source": "lwa-50473",
+   "of": "Felix Mendelssohn-Bartholdy",
+   "work": "Letters of Felix Mendelssohn-Bartholdy from 1833 to 1847",
+   "translated": "1862-1867 (see the Gutenberg header)",
+   "translator": "Lady Wallace",
+   "scan_edition": "Project Gutenberg 50473 (clean text)"
+  },
+  "lady-wallace-mendelssohn-letters-italy-switzerland": {
+   "source": "lwa-39384",
+   "of": "Felix Mendelssohn-Bartholdy",
+   "work": "Letters of Felix Mendelssohn Bartholdy from Italy and Switzerland",
+   "translated": "1862-1867 (see the Gutenberg header)",
+   "translator": "Lady Wallace",
+   "scan_edition": "Project Gutenberg 39384 (clean text)"
+  },
+  "lady-wallace-mozart-the-letters-of-wolfgang-amadeus-mozart-v": {
+   "source": "lwa-5307",
+   "of": "Wolfgang Amadeus Mozart",
+   "work": "The Letters of Wolfgang Amadeus Mozart — Volume 01",
+   "translated": "1862-1867 (see the Gutenberg header)",
+   "translator": "Lady Wallace",
+   "scan_edition": "Project Gutenberg 5307 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "lwa-13065": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lady wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lady Grace Wallace"
+  },
+  "lwa-13272": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lady wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lady Grace Wallace"
+  },
+  "lwa-33162": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lady wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lady Grace Wallace"
+  },
+  "lwa-33163": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lady wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lady Grace Wallace"
+  },
+  "lwa-33164": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lady wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lady Grace Wallace"
+  },
+  "lwa-39384": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lady wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lady Grace Wallace"
+  },
+  "lwa-50473": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lady wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lady Grace Wallace"
+  },
+  "lwa-5307": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lady wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lady Grace Wallace"
+  }
+ },
+ "_verified": {
+  "lwa-13065": {
+   "pg": 13065,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lady Grace Wallace"
+  },
+  "lwa-13272": {
+   "pg": 13272,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lady Grace Wallace"
+  },
+  "lwa-33162": {
+   "pg": 33162,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lady Grace Wallace"
+  },
+  "lwa-33163": {
+   "pg": 33163,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lady Grace Wallace"
+  },
+  "lwa-33164": {
+   "pg": 33164,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lady Grace Wallace"
+  },
+  "lwa-39384": {
+   "pg": 39384,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lady Grace Wallace"
+  },
+  "lwa-50473": {
+   "pg": 50473,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lady Grace Wallace"
+  },
+  "lwa-5307": {
+   "pg": 5307,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lady Grace Wallace"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

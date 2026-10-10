@@ -1,0 +1,259 @@
+{
+ "_about": "TRANSLATOR SHELF: Isaac Goldberg (1887-1938): Spanish, Brazilian, Yiddish and French writing in the 1910s and 1920s: Baroja, Blasco Ibáñez, Brazilian Tales (1921), David Pinski, and Remy de Gourmont (two Haldeman-Julius Little Blue Books). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted.",
+ "_name_words": [
+  "isaac goldberg"
+ ],
+ "_surname": [
+  "isaac goldberg"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "igo-11674": [
+   11674,
+   "The Torrent (Entre Naranjos)"
+  ],
+  "igo-21040": [
+   21040,
+   "Brazilian Tales"
+  ],
+  "igo-21870": [
+   21870,
+   "Luna Benamor"
+  ],
+  "igo-46759": [
+   46759,
+   "Philosophic Nights in Paris"
+  ],
+  "igo-61183": [
+   61183,
+   "Weeds"
+  ],
+  "igo-71439": [
+   71439,
+   "Temptations"
+  ],
+  "igo-78436": [
+   78436,
+   "Stories in yellow, black, white, blue, violet and red"
+  ],
+  "igo-79446": [
+   79446,
+   "Stories in green, zinzolin, rose, purple, mauve, lilac and orange"
+  ],
+  "igo-8496": [
+   8496,
+   "The Quest"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "isaac-goldberg-baroja-the-quest": {
+   "source": "igo-8496",
+   "of": "Pío Baroja",
+   "work": "The Quest",
+   "translated": "1917-1927 (see the Gutenberg header)",
+   "translator": "Isaac Goldberg",
+   "scan_edition": "Project Gutenberg 8496 (clean text)"
+  },
+  "isaac-goldberg-baroja-weeds": {
+   "source": "igo-61183",
+   "of": "Pío Baroja",
+   "work": "Weeds",
+   "translated": "1917-1927 (see the Gutenberg header)",
+   "translator": "Isaac Goldberg",
+   "scan_edition": "Project Gutenberg 61183 (clean text)"
+  },
+  "isaac-goldberg-brazilian-tales": {
+   "source": "igo-21040",
+   "of": "Various Brazilian authors (Machado de Assis and others)",
+   "work": "Brazilian Tales",
+   "translated": "1917-1927 (see the Gutenberg header)",
+   "translator": "Isaac Goldberg",
+   "scan_edition": "Project Gutenberg 21040 (clean text)"
+  },
+  "isaac-goldberg-gourmont-philosophic-nights-in-paris": {
+   "source": "igo-46759",
+   "of": "Remy de Gourmont",
+   "work": "Philosophic Nights in Paris",
+   "translated": "1917-1927 (see the Gutenberg header)",
+   "translator": "Isaac Goldberg",
+   "scan_edition": "Project Gutenberg 46759 (clean text)"
+  },
+  "isaac-goldberg-gourmont-stories-in-green-zinzolin-rose-purple-ma": {
+   "source": "igo-79446",
+   "of": "Remy de Gourmont",
+   "work": "Stories in green, zinzolin, rose, purple, mauve, lilac and orange",
+   "translated": "1917-1927 (see the Gutenberg header)",
+   "translator": "Isaac Goldberg",
+   "scan_edition": "Project Gutenberg 79446 (clean text)"
+  },
+  "isaac-goldberg-gourmont-stories-in-yellow-black-white-blue-viole": {
+   "source": "igo-78436",
+   "of": "Remy de Gourmont",
+   "work": "Stories in yellow, black, white, blue, violet and red",
+   "translated": "1917-1927 (see the Gutenberg header)",
+   "translator": "Isaac Goldberg",
+   "scan_edition": "Project Gutenberg 78436 (clean text)"
+  },
+  "isaac-goldberg-ibanez-luna-benamor": {
+   "source": "igo-21870",
+   "of": "Vicente Blasco Ibáñez",
+   "work": "Luna Benamor",
+   "translated": "1917-1927 (see the Gutenberg header)",
+   "translator": "Isaac Goldberg",
+   "scan_edition": "Project Gutenberg 21870 (clean text)"
+  },
+  "isaac-goldberg-ibanez-the-torrent-entre-naranjos": {
+   "source": "igo-11674",
+   "of": "Vicente Blasco Ibáñez",
+   "work": "The Torrent (Entre Naranjos)",
+   "translated": "1917-1927 (see the Gutenberg header)",
+   "translator": "Isaac Goldberg (with Arthur Livingston)",
+   "scan_edition": "Project Gutenberg 11674 (clean text)",
+   "note": "Gutenberg credits Arthur Livingston alongside Goldberg."
+  },
+  "isaac-goldberg-pinski-temptations": {
+   "source": "igo-71439",
+   "of": "David Pinski",
+   "work": "Temptations",
+   "translated": "1917-1927 (see the Gutenberg header)",
+   "translator": "Isaac Goldberg",
+   "scan_edition": "Project Gutenberg 71439 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "igo-11674": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "isaac goldberg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isaac Goldberg; Arthur Livingston"
+  },
+  "igo-21040": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "isaac goldberg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isaac Goldberg"
+  },
+  "igo-21870": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "isaac goldberg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isaac Goldberg"
+  },
+  "igo-46759": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "isaac goldberg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isaac Goldberg"
+  },
+  "igo-61183": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "isaac goldberg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isaac Goldberg"
+  },
+  "igo-71439": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "isaac goldberg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isaac Goldberg"
+  },
+  "igo-78436": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "isaac goldberg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isaac Goldberg"
+  },
+  "igo-79446": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "isaac goldberg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isaac Goldberg"
+  },
+  "igo-8496": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "isaac goldberg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isaac Goldberg"
+  }
+ },
+ "_verified": {
+  "igo-11674": {
+   "pg": 11674,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isaac Goldberg"
+  },
+  "igo-21040": {
+   "pg": 21040,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isaac Goldberg"
+  },
+  "igo-21870": {
+   "pg": 21870,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isaac Goldberg"
+  },
+  "igo-46759": {
+   "pg": 46759,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isaac Goldberg"
+  },
+  "igo-61183": {
+   "pg": 61183,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isaac Goldberg"
+  },
+  "igo-71439": {
+   "pg": 71439,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isaac Goldberg"
+  },
+  "igo-78436": {
+   "pg": 78436,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isaac Goldberg"
+  },
+  "igo-79446": {
+   "pg": 79446,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isaac Goldberg"
+  },
+  "igo-8496": {
+   "pg": 8496,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isaac Goldberg"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

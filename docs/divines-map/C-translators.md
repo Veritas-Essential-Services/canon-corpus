@@ -1556,6 +1556,181 @@ Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `de-leon-sue-the-silver-cross-or-the-carpenter-of-naz` | Eugène Sue | The Silver Cross; Or, The Carpenter of Nazareth | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 32743 |
 | `de-leon-sue-the-sword-of-honor-or-the-foundation-of` | Eugène Sue | The Sword of Honor; or, The Foundation of the French Republic | Daniel De Leon (with Solon De Leon) | 1904-1911 (see the Gutenberg header) | have | PG 35633 |
 
+## George P. Upton (McClurg's Life Stories for Young People; Nohl's composer lives)
+
+Shelf: `pipeline/upton_shelf.json` · fetch `python3 pipeline/fetch_shelf.py upton` · titles `python3 pipeline/split_shelf_titles.py upton`.
+Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `upton-becker-achilles` | Karl Friedrich Becker | Achilles | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 62453 |
+| `upton-becker-ulysses-of-ithaca` | Karl Friedrich Becker | Ulysses of Ithaca | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 59750 |
+| `upton-campe-christopher-columbus` | Joachim Heinrich Campe | Christopher Columbus | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 62366 |
+| `upton-campe-hernando-cortes` | Joachim Heinrich Campe | Hernando Cortes | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 59732 |
+| `upton-henning-the-maid-of-orleans` | Friedrich Henning | The Maid of Orleans | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 65431 |
+| `upton-hocker-arnold-of-winkelried-the-hero-of-sempach` | Gustav Höcker | Arnold of Winkelried, the Hero of Sempach | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 59751 |
+| `upton-hoffmann-ludwig-van-beethoven` | Franz Hoffmann | Ludwig Van Beethoven | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 62742 |
+| `upton-hoffmann-mozart-s-youth` | Franz Hoffmann | Mozart's Youth | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 65302 |
+| `upton-hoffmann-the-little-dauphin` | Franz Hoffmann | The Little Dauphin | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 62650 |
+| `upton-horn-maria-theresa` | W. O. von Horn | Maria Theresa | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 62527 |
+| `upton-jeanrenaud-the-duke-of-brittany` | Henriette Jeanrenaud | The Duke of Brittany | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 60257 |
+| `upton-kemper-maximilian-in-mexico` | J. Kemper | Maximilian in Mexico | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 62449 |
+| `upton-kuchler-elizabeth-empress-of-austria-and-queen-o` | Carl Küchler | Elizabeth, Empress of Austria and Queen of Hungary | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 60408 |
+| `upton-kuchler-queen-maria-sophia-of-naples-a-forgotten` | Carl Küchler | Queen Maria Sophia of Naples, a Forgotten Heroine | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 65606 |
+| `upton-kuhn-barbarossa` | Franz Kühn | Barbarossa | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 65142 |
+| `upton-merz-louise-queen-of-prussia` | Heinrich Merz | Louise, Queen of Prussia | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 65549 |
+| `upton-muller-memories-a-story-of-german-love` | F. Max (Friedrich Max) Müller | Memories: A Story of German Love | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 14521 |
+| `upton-nohl-life-of-haydn` | Ludwig Nohl | Life of Haydn | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 67827 |
+| `upton-nohl-life-of-liszt` | Ludwig Nohl | Life of Liszt | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 68522 |
+| `upton-nohl-life-of-wagner` | Ludwig Nohl | Life of Wagner | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 31526 |
+| `upton-oertel-william-penn` | Hugo Oertel | William Penn | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 62656 |
+| `upton-plehn-emin-pasha` | M. C. Plehn | Emin Pasha | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 59691 |
+| `upton-schmidt-charlemagne` | Ferdinand Schmidt | Charlemagne | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 59882 |
+| `upton-schmidt-george-washington` | Ferdinand Schmidt | George Washington | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 60236 |
+| `upton-schmidt-gods-and-heroes` | Ferdinand Schmidt | Gods and Heroes | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 59956 |
+| `upton-schmidt-gudrun` | Ferdinand Schmidt | Gudrun | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 59626 |
+| `upton-schmidt-the-nibelungs` | Ferdinand Schmidt | The Nibelungs | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 73227 |
+| `upton-schmidt-the-youth-of-the-great-elector` | Ferdinand Schmidt | The Youth of the Great Elector | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 59929 |
+| `upton-schrader-frederick-the-great-and-the-seven-years` | Ferdinand Schrader | Frederick the Great and the Seven Years' War | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 65827 |
+| `upton-tegner-the-frithiof-saga` | Esaias Tegnér | The Frithiof Saga | George P. Upton (with Ferdinand Schmidt) | 1875-1911 (see the Gutenberg header) | have | PG 59689 |
+| `upton-tschudi-eugenie-empress-of-the-french` | Clara Tschudi | Eugenie, Empress of the French | George P. Upton (with Erich Holm) | 1875-1911 (see the Gutenberg header) | have | PG 62965 |
+| `upton-walter-emperor-william-first-the-great-war-and` | A. Walter | Emperor William First, the Great War and Peace Hero | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 62451 |
+| `upton-willys-swiss-heroes-an-historical-romance-of-th` | A. A. Willys | Swiss Heroes: An Historical Romance of the Time of Charles the Bold | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 61788 |
+| `upton-wurdig-prince-eugene-the-noble-knight` | L. (Ludwig) Würdig | Prince Eugene, the Noble Knight | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 59733 |
+| `upton-ziemssen-johann-sebastian-bach` | Ludwig Ziemssen | Johann Sebastian Bach | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 65747 |
+
+## Grace Isabel Colbron (Groner's Joe Muller detective stories)
+
+Shelf: `pipeline/colbron_shelf.json` · fetch `python3 pipeline/fetch_shelf.py colbron` · titles `python3 pipeline/split_shelf_titles.py colbron`.
+Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `colbron-groner-the-case-of-the-golden-bullet` | Auguste Groner | The Case of the Golden Bullet | Grace Isabel Colbron | 1910 (see the Gutenberg header) | have | PG 1836 |
+| `colbron-groner-the-case-of-the-lamp-that-went-out` | Auguste Groner | The Case of the Lamp That Went Out | Grace Isabel Colbron | 1910 (see the Gutenberg header) | have | PG 1832 |
+| `colbron-groner-the-case-of-the-pocket-diary-found-in-th` | Auguste Groner | The Case of the Pocket Diary Found in the Snow | Grace Isabel Colbron | 1910 (see the Gutenberg header) | have | PG 1834 |
+| `colbron-groner-the-case-of-the-pool-of-blood-in-the-pas` | Auguste Groner | The Case of the Pool of Blood in the Pastor's Study | Grace Isabel Colbron | 1910 (see the Gutenberg header) | have | PG 1835 |
+| `colbron-groner-the-case-of-the-registered-letter` | Auguste Groner | The Case of the Registered Letter | Grace Isabel Colbron | 1910 (see the Gutenberg header) | have | PG 1833 |
+
+## Isaac Goldberg (Baroja, Blasco Ibáñez, Brazilian Tales, Gourmont, Pinski)
+
+Shelf: `pipeline/isaac-goldberg_shelf.json` · fetch `python3 pipeline/fetch_shelf.py isaac-goldberg` · titles `python3 pipeline/split_shelf_titles.py isaac-goldberg`.
+Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `isaac-goldberg-baroja-the-quest` | Pío Baroja | The Quest | Isaac Goldberg | 1917-1927 (see the Gutenberg header) | have | PG 8496 |
+| `isaac-goldberg-baroja-weeds` | Pío Baroja | Weeds | Isaac Goldberg | 1917-1927 (see the Gutenberg header) | have | PG 61183 |
+| `isaac-goldberg-brazilian-tales` | Various Brazilian authors (Machado de Assis and others) | Brazilian Tales | Isaac Goldberg | 1917-1927 (see the Gutenberg header) | have | PG 21040 |
+| `isaac-goldberg-gourmont-philosophic-nights-in-paris` | Remy de Gourmont | Philosophic Nights in Paris | Isaac Goldberg | 1917-1927 (see the Gutenberg header) | have | PG 46759 |
+| `isaac-goldberg-gourmont-stories-in-green-zinzolin-rose-purple-ma` | Remy de Gourmont | Stories in green, zinzolin, rose, purple, mauve, lilac and orange | Isaac Goldberg | 1917-1927 (see the Gutenberg header) | have | PG 79446 |
+| `isaac-goldberg-gourmont-stories-in-yellow-black-white-blue-viole` | Remy de Gourmont | Stories in yellow, black, white, blue, violet and red | Isaac Goldberg | 1917-1927 (see the Gutenberg header) | have | PG 78436 |
+| `isaac-goldberg-ibanez-luna-benamor` | Vicente Blasco Ibáñez | Luna Benamor | Isaac Goldberg | 1917-1927 (see the Gutenberg header) | have | PG 21870 |
+| `isaac-goldberg-ibanez-the-torrent-entre-naranjos` | Vicente Blasco Ibáñez | The Torrent (Entre Naranjos) | Isaac Goldberg (with Arthur Livingston) | 1917-1927 (see the Gutenberg header) | have | PG 11674 |
+| `isaac-goldberg-pinski-temptations` | David Pinski | Temptations | Isaac Goldberg | 1917-1927 (see the Gutenberg header) | have | PG 71439 |
+
+## Thomas Roscoe (Lanzi's History of Painting in Italy; Pellico)
+
+Shelf: `pipeline/thomas-roscoe_shelf.json` · fetch `python3 pipeline/fetch_shelf.py thomas-roscoe` · titles `python3 pipeline/split_shelf_titles.py thomas-roscoe`.
+Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `thomas-roscoe-lanzi-the-history-of-painting-in-italy-vol-1-o` | Luigi Lanzi | The History of Painting in Italy, Vol. 1 (of 6) | Thomas Roscoe | 1824-1853 (see the Gutenberg header) | have | PG 34479 |
+| `thomas-roscoe-lanzi-the-history-of-painting-in-italy-vol-2-o` | Luigi Lanzi | The History of Painting in Italy, Vol. 2 (of 6) | Thomas Roscoe | 1824-1853 (see the Gutenberg header) | have | PG 34585 |
+| `thomas-roscoe-lanzi-the-history-of-painting-in-italy-vol-3-o` | Luigi Lanzi | The History of Painting in Italy, Vol. 3 (of 6) | Thomas Roscoe | 1824-1853 (see the Gutenberg header) | have | PG 34645 |
+| `thomas-roscoe-lanzi-the-history-of-painting-in-italy-vol-4-o` | Luigi Lanzi | The History of Painting in Italy, Vol. 4 (of 6) | Thomas Roscoe | 1824-1853 (see the Gutenberg header) | have | PG 38967 |
+| `thomas-roscoe-lanzi-the-history-of-painting-in-italy-vol-5-o` | Luigi Lanzi | The History of Painting in Italy, Vol. 5 (of 6) | Thomas Roscoe | 1824-1853 (see the Gutenberg header) | have | PG 39996 |
+| `thomas-roscoe-lanzi-the-history-of-painting-in-italy-vol-6-o` | Luigi Lanzi | The History of Painting in Italy, Vol. 6 (of 6) | Thomas Roscoe | 1824-1853 (see the Gutenberg header) | have | PG 41533 |
+| `thomas-roscoe-pellico-my-ten-years-imprisonment` | Silvio Pellico | My Ten Years' Imprisonment | Thomas Roscoe | 1824-1853 (see the Gutenberg header) | have | PG 2792 |
+| `thomas-roscoe-tales-of-humour-gallantry-romance` | Various European authors (selected; with J. Y. Akerman) | Tales of Humour, Gallantry & Romance, Selected and Translated from the Italian | Thomas Roscoe (with John Yonge Akerman) | 1824-1853 (see the Gutenberg header) | have | PG 44561 |
+
+## John Durand (Taine's Origins of Contemporary France; Philosophy of Art)
+
+Shelf: `pipeline/durand_shelf.json` · fetch `python3 pipeline/fetch_shelf.py durand` · titles `python3 pipeline/split_shelf_titles.py durand`.
+Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `durand-taine-the-ancient-regime` | Hippolyte Taine | The Ancient Regime | John Durand | 1865-1894 (see the Gutenberg header) | have | PG 2577 |
+| `durand-taine-the-french-revolution-volume-1` | Hippolyte Taine | The French Revolution - Volume 1 | John Durand | 1865-1894 (see the Gutenberg header) | have | PG 2578 |
+| `durand-taine-the-french-revolution-volume-2` | Hippolyte Taine | The French Revolution - Volume 2 | John Durand | 1865-1894 (see the Gutenberg header) | have | PG 2579 |
+| `durand-taine-the-french-revolution-volume-3` | Hippolyte Taine | The French Revolution - Volume 3 | John Durand | 1865-1894 (see the Gutenberg header) | have | PG 2580 |
+| `durand-taine-the-modern-regime-volume-1` | Hippolyte Taine | The Modern Regime, Volume 1 | John Durand | 1865-1894 (see the Gutenberg header) | have | PG 2581 |
+| `durand-taine-the-modern-regime-volume-2` | Hippolyte Taine | The Modern Regime, Volume 2 | John Durand | 1865-1894 (see the Gutenberg header) | have | PG 2582 |
+| `durand-taine-the-philosophy-of-art` | Hippolyte Taine | The Philosophy of Art | John Durand | 1865-1894 (see the Gutenberg header) | have | PG 52980 |
+| — | — | pg-23524: Gutenberg's combined table of contents for the Origins, not a text. | — | — | excluded | — |
+
+## Charles Timothy Brooks (Goethe's Faust; Jean Paul)
+
+Shelf: `pipeline/ct-brooks_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ct-brooks` · titles `python3 pipeline/split_shelf_titles.py ct-brooks`.
+Round 23 (2026-10-10), vetoable. His Busch stays on wilhelm-busch. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ct-brooks-goethe-faust-a-tragedy-part-1-translated-from-t` | Johann Wolfgang von Goethe | Faust: a Tragedy [part 1], Translated from the German of Goethe | Charles Timothy Brooks | 1856-1883 (see the Gutenberg header) | have | PG 14460 |
+| `ct-brooks-jean-paul-hesperus-vol-1` | Jean Paul | Hesperus; or, Forty-Five Dog-Post-Days: A Biography. Vol. I. | Charles Timothy Brooks | 1856-1883 (see the Gutenberg header) | have | PG 36071 |
+| `ct-brooks-jean-paul-hesperus-vol-2` | Jean Paul | Hesperus; or, Forty-Five Dog-Post-Days: A Biography. Vol. II. | Charles Timothy Brooks | 1856-1883 (see the Gutenberg header) | have | PG 36087 |
+| `ct-brooks-jean-paul-the-invisible-lodge` | Jean Paul | The Invisible Lodge | Charles Timothy Brooks | 1856-1883 (see the Gutenberg header) | have | PG 36353 |
+| `ct-brooks-jean-paul-titan-a-romance-v-1-of-2` | Jean Paul | Titan: A Romance. v. 1 (of 2) | Charles Timothy Brooks | 1856-1883 (see the Gutenberg header) | have | PG 35664 |
+| `ct-brooks-jean-paul-titan-a-romance-v-2-of-2` | Jean Paul | Titan: A Romance. v. 2 (of 2) | Charles Timothy Brooks | 1856-1883 (see the Gutenberg header) | have | PG 36403 |
+| — | — | busch: Max and Maurice (28847) is on wilhelm-busch_shelf.json; Plish and Plum (37188) is left for that shelf's owner. | — | — | excluded | — |
+
+## Lady Wallace (Mozart, Beethoven and Mendelssohn letters; Auerbach)
+
+Shelf: `pipeline/lady-wallace_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lady-wallace` · titles `python3 pipeline/split_shelf_titles.py lady-wallace`.
+Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `lady-wallace-auerbach-joseph-in-the-snow-vol-1` | Berthold Auerbach | Joseph in the Snow, and The Clockmaker. In Three Volumes. Vol. I. | Lady Wallace | 1862-1867 (see the Gutenberg header) | have | PG 33162 |
+| `lady-wallace-auerbach-joseph-in-the-snow-vol-2` | Berthold Auerbach | Joseph in the Snow, and The Clockmaker. In Three Volumes. Vol. II. | Lady Wallace | 1862-1867 (see the Gutenberg header) | have | PG 33163 |
+| `lady-wallace-auerbach-joseph-in-the-snow-vol-3` | Berthold Auerbach | Joseph in the Snow, and The Clockmaker. In Three Volumes. Vol. III. | Lady Wallace | 1862-1867 (see the Gutenberg header) | have | PG 33164 |
+| `lady-wallace-beethoven-beethoven-s-letters-1790-1826-volume-1` | Ludwig van Beethoven | Beethoven's Letters 1790-1826, Volume 1 | Lady Wallace | 1862-1867 (see the Gutenberg header) | have | PG 13065 |
+| `lady-wallace-beethoven-beethoven-s-letters-1790-1826-volume-2` | Ludwig van Beethoven | Beethoven's Letters 1790-1826, Volume 2 | Lady Wallace | 1862-1867 (see the Gutenberg header) | have | PG 13272 |
+| `lady-wallace-mendelssohn-letters-1833-1847` | Felix Mendelssohn-Bartholdy | Letters of Felix Mendelssohn-Bartholdy from 1833 to 1847 | Lady Wallace | 1862-1867 (see the Gutenberg header) | have | PG 50473 |
+| `lady-wallace-mendelssohn-letters-italy-switzerland` | Felix Mendelssohn-Bartholdy | Letters of Felix Mendelssohn Bartholdy from Italy and Switzerland | Lady Wallace | 1862-1867 (see the Gutenberg header) | have | PG 39384 |
+| `lady-wallace-mozart-the-letters-of-wolfgang-amadeus-mozart-v` | Wolfgang Amadeus Mozart | The Letters of Wolfgang Amadeus Mozart — Volume 01 | Lady Wallace | 1862-1867 (see the Gutenberg header) | have | PG 5307 |
+
+## Ellen E. Frewer (Verne's Dick Sands; Schweinfurth; Holub)
+
+Shelf: `pipeline/frewer_shelf.json` · fetch `python3 pipeline/fetch_shelf.py frewer` · titles `python3 pipeline/split_shelf_titles.py frewer`.
+Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `frewer-cahun-the-adventures-of-captain-mago-or-a-phoe` | David-Léon Cahun | The adventures of Captain Mago; or, a Phoenician expedition, B.C. 1000 | Ellen E. Frewer | 1873-1881 (see the Gutenberg header) | have | PG 47582 |
+| `frewer-holub-seven-years-in-south-africa-volume-1-of` | Emil Holub | Seven years in South Africa, volume 1 (of 2) | Ellen E. Frewer | 1873-1881 (see the Gutenberg header) | have | PG 74281 |
+| `frewer-holub-seven-years-in-south-africa-volume-2-of` | Emil Holub | Seven years in South Africa, volume 2 (of 2) | Ellen E. Frewer | 1873-1881 (see the Gutenberg header) | have | PG 74291 |
+| `frewer-schweinfurth-the-heart-of-africa-vol-1-of-2` | Georg August Schweinfurth | The heart of Africa, Vol. 1 (of 2) | Ellen E. Frewer | 1873-1881 (see the Gutenberg header) | have | PG 71621 |
+| `frewer-schweinfurth-the-heart-of-africa-vol-2-of-2` | Georg August Schweinfurth | The heart of Africa, Vol. 2 (of 2) | Ellen E. Frewer | 1873-1881 (see the Gutenberg header) | have | PG 71622 |
+| `frewer-verne-dick-sands-the-boy-captain` | Jules Verne | Dick Sands, the Boy Captain | Ellen E. Frewer | 1873-1881 (see the Gutenberg header) | have | PG 9150 |
+
+## Laura Ensor (Loti, Daudet, Maupassant)
+
+Shelf: `pipeline/laura-ensor_shelf.json` · fetch `python3 pipeline/fetch_shelf.py laura-ensor` · titles `python3 pipeline/split_shelf_titles.py laura-ensor`.
+Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `laura-ensor-daudet-artists-wives` | Alphonse Daudet | Artists' Wives | Laura Ensor | 1887-1896 (see the Gutenberg header) | have | PG 22522 |
+| `laura-ensor-daudet-robert-helmont-diary-of-a-recluse-1870-1` | Alphonse Daudet | Robert Helmont: Diary of a Recluse, 1870-1871 | Laura Ensor | 1887-1896 (see the Gutenberg header) | have | PG 51235 |
+| `laura-ensor-loti-madame-chrysantheme` | Pierre Loti | Madame Chrysanthème | Laura Ensor | 1887-1896 (see the Gutenberg header) | have | PG 15335 |
+| `laura-ensor-massalska-memoirs-of-the-princesse-de-ligne-vol-1` | Apolonia Helena Massalska | Memoirs of the Princesse de Ligne, Vol. 1 (of 2) | Laura Ensor | 1887-1896 (see the Gutenberg header) | have | PG 71048 |
+| `laura-ensor-massalska-memoirs-of-the-princesse-de-ligne-vol-2` | Apolonia Helena Massalska | Memoirs of the Princesse de Ligne, Vol. 2 (of 2) | Laura Ensor | 1887-1896 (see the Gutenberg header) | have | PG 71051 |
+| `laura-ensor-maupassant-afloat-sur-l-eau` | Guy de Maupassant | Afloat (Sur l'eau) | Laura Ensor | 1887-1896 (see the Gutenberg header) | have | PG 49318 |
+
+## Dora Knowlton Ranous (D'Annunzio's The Flame; Zibeline)
+
+Shelf: `pipeline/ranous_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ranous` · titles `python3 pipeline/split_shelf_titles.py ranous`.
+Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ranous-d-annunzio-the-flame` | Gabriele D'Annunzio | The Flame | Dora Knowlton Ranous | 1900-1906 (see the Gutenberg header) | have | PG 60601 |
+| `ranous-massa-zibeline-complete` | Philippe Massa | Zibeline — Complete | Dora Knowlton Ranous | 1900-1906 (see the Gutenberg header) | have | PG 3934 |
+| — | — | zibeline-volumes: Zibeline's three Gutenberg volume files are left out; the complete text (3934) is used. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

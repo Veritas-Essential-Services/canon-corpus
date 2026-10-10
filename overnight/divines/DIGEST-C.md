@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T11:18-05:00: 88 shelves, 672 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79. **13 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T11:27-05:00: 98 shelves, 764 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92. **13 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -265,3 +265,23 @@ Six new shelves, 79 titles, all from Gutenberg, with the translator line read in
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Your call:** none beyond the veto.
+
+
+## Round 23: ten smaller translators (2026-10-10)
+
+Ten new shelves, 92 titles, all from Gutenberg, with the translator line read in every header:
+
+- **`upton`** (35): George P. Upton's *Life Stories for Young People* (McClurg, 1904-11), short German biographies and legends for children (Charlemagne, Columbus, Beethoven, the Nibelungs, Frithiof and others), plus Nohl's lives of Wagner, Haydn and Liszt and Max Müller's *Memories*.
+- **`colbron`** (5): Grace Isabel Colbron's Auguste Groner detective stories (1910).
+- **`isaac-goldberg`** (9): Isaac Goldberg's Baroja, Blasco Ibáñez, *Brazilian Tales*, Pinski, and Remy de Gourmont (two 1920s Little Blue Books).
+- **`thomas-roscoe`** (8): Thomas Roscoe's Lanzi, *History of Painting in Italy* (6 volumes), Pellico's *My Ten Years' Imprisonment*, and *Tales of Humour, Gallantry and Romance*.
+- **`durand`** (7): John Durand's Taine: *The Origins of Contemporary France* (6 volumes) and *The Philosophy of Art*. Gutenberg's text adds a short modern preface and notes by its volunteer annotator, which is why 1988 shows up in the front matter. The translation itself is from 1876-94.
+- **`ct-brooks`** (6): Charles Timothy Brooks's Goethe *Faust*, Part I, and Jean Paul (*Titan*, *Hesperus*, *The Invisible Lodge*). His Busch stays on the wilhelm-busch shelf.
+- **`lady-wallace`** (8): Lady Wallace's Mozart, Beethoven and Mendelssohn letters and Auerbach's *Joseph in the Snow* (3 volumes).
+- **`frewer`** (6): Ellen Frewer's Verne (*Dick Sands*), Cahun, Schweinfurth's *The Heart of Africa* and Holub's *Seven Years in South Africa*.
+- **`laura-ensor`** (6): Laura Ensor's Loti (*Madame Chrysanthème*), Daudet (2), Maupassant's *Afloat* and the *Memoirs of the Princesse de Ligne*.
+- **`ranous`** (2): Dora Knowlton Ranous's D'Annunzio (*The Flame*) and *Zibeline*.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** none beyond the veto. For the wilhelm-busch shelf's owner: Brooks's *Plish and Plum* (PG 37188) is not on it yet.

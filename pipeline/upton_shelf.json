@@ -1,0 +1,938 @@
+{
+ "_about": "TRANSLATOR SHELF: George P. Upton (1834-1919): McClurg's Life Stories for Young People (Chicago, 1904-1911), translated from German juvenile biographies and legends (Charlemagne, Columbus, Maria Theresa, Beethoven, Mozart, the Nibelungs, Gudrun, Frithiof), plus Nohl's Lives of Wagner, Haydn and Liszt and Max Müller's Memories. US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted.",
+ "_name_words": [
+  "george p. upton",
+  "george putnam upton",
+  "upton"
+ ],
+ "_surname": [
+  "george p. upton",
+  "george putnam upton",
+  "upton"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "upt-14521": [
+   14521,
+   "Memories: A Story of German Love"
+  ],
+  "upt-31526": [
+   31526,
+   "Life of Wagner"
+  ],
+  "upt-59626": [
+   59626,
+   "Gudrun"
+  ],
+  "upt-59689": [
+   59689,
+   "The Frithiof Saga"
+  ],
+  "upt-59691": [
+   59691,
+   "Emin Pasha"
+  ],
+  "upt-59732": [
+   59732,
+   "Hernando Cortes"
+  ],
+  "upt-59733": [
+   59733,
+   "Prince Eugene, the Noble Knight"
+  ],
+  "upt-59750": [
+   59750,
+   "Ulysses of Ithaca"
+  ],
+  "upt-59751": [
+   59751,
+   "Arnold of Winkelried, the Hero of Sempach"
+  ],
+  "upt-59882": [
+   59882,
+   "Charlemagne"
+  ],
+  "upt-59929": [
+   59929,
+   "The Youth of the Great Elector"
+  ],
+  "upt-59956": [
+   59956,
+   "Gods and Heroes"
+  ],
+  "upt-60236": [
+   60236,
+   "George Washington"
+  ],
+  "upt-60257": [
+   60257,
+   "The Duke of Brittany"
+  ],
+  "upt-60408": [
+   60408,
+   "Elizabeth, Empress of Austria and Queen of Hungary"
+  ],
+  "upt-61788": [
+   61788,
+   "Swiss Heroes: An Historical Romance of the Time of Charles the Bold"
+  ],
+  "upt-62366": [
+   62366,
+   "Christopher Columbus"
+  ],
+  "upt-62449": [
+   62449,
+   "Maximilian in Mexico"
+  ],
+  "upt-62451": [
+   62451,
+   "Emperor William First, the Great War and Peace Hero"
+  ],
+  "upt-62453": [
+   62453,
+   "Achilles"
+  ],
+  "upt-62527": [
+   62527,
+   "Maria Theresa"
+  ],
+  "upt-62650": [
+   62650,
+   "The Little Dauphin"
+  ],
+  "upt-62656": [
+   62656,
+   "William Penn"
+  ],
+  "upt-62742": [
+   62742,
+   "Ludwig Van Beethoven"
+  ],
+  "upt-62965": [
+   62965,
+   "Eugenie, Empress of the French"
+  ],
+  "upt-65142": [
+   65142,
+   "Barbarossa"
+  ],
+  "upt-65302": [
+   65302,
+   "Mozart's Youth"
+  ],
+  "upt-65431": [
+   65431,
+   "The Maid of Orleans"
+  ],
+  "upt-65549": [
+   65549,
+   "Louise, Queen of Prussia"
+  ],
+  "upt-65606": [
+   65606,
+   "Queen Maria Sophia of Naples, a Forgotten Heroine"
+  ],
+  "upt-65747": [
+   65747,
+   "Johann Sebastian Bach"
+  ],
+  "upt-65827": [
+   65827,
+   "Frederick the Great and the Seven Years' War"
+  ],
+  "upt-67827": [
+   67827,
+   "Life of Haydn"
+  ],
+  "upt-68522": [
+   68522,
+   "Life of Liszt"
+  ],
+  "upt-73227": [
+   73227,
+   "The Nibelungs"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "upton-becker-achilles": {
+   "source": "upt-62453",
+   "of": "Karl Friedrich Becker",
+   "work": "Achilles",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 62453 (clean text)"
+  },
+  "upton-becker-ulysses-of-ithaca": {
+   "source": "upt-59750",
+   "of": "Karl Friedrich Becker",
+   "work": "Ulysses of Ithaca",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 59750 (clean text)"
+  },
+  "upton-campe-christopher-columbus": {
+   "source": "upt-62366",
+   "of": "Joachim Heinrich Campe",
+   "work": "Christopher Columbus",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 62366 (clean text)"
+  },
+  "upton-campe-hernando-cortes": {
+   "source": "upt-59732",
+   "of": "Joachim Heinrich Campe",
+   "work": "Hernando Cortes",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 59732 (clean text)"
+  },
+  "upton-henning-the-maid-of-orleans": {
+   "source": "upt-65431",
+   "of": "Friedrich Henning",
+   "work": "The Maid of Orleans",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 65431 (clean text)"
+  },
+  "upton-hocker-arnold-of-winkelried-the-hero-of-sempach": {
+   "source": "upt-59751",
+   "of": "Gustav Höcker",
+   "work": "Arnold of Winkelried, the Hero of Sempach",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 59751 (clean text)"
+  },
+  "upton-hoffmann-ludwig-van-beethoven": {
+   "source": "upt-62742",
+   "of": "Franz Hoffmann",
+   "work": "Ludwig Van Beethoven",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 62742 (clean text)"
+  },
+  "upton-hoffmann-mozart-s-youth": {
+   "source": "upt-65302",
+   "of": "Franz Hoffmann",
+   "work": "Mozart's Youth",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 65302 (clean text)"
+  },
+  "upton-hoffmann-the-little-dauphin": {
+   "source": "upt-62650",
+   "of": "Franz Hoffmann",
+   "work": "The Little Dauphin",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 62650 (clean text)"
+  },
+  "upton-horn-maria-theresa": {
+   "source": "upt-62527",
+   "of": "W. O. von Horn",
+   "work": "Maria Theresa",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 62527 (clean text)"
+  },
+  "upton-jeanrenaud-the-duke-of-brittany": {
+   "source": "upt-60257",
+   "of": "Henriette Jeanrenaud",
+   "work": "The Duke of Brittany",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 60257 (clean text)"
+  },
+  "upton-kemper-maximilian-in-mexico": {
+   "source": "upt-62449",
+   "of": "J. Kemper",
+   "work": "Maximilian in Mexico",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 62449 (clean text)"
+  },
+  "upton-kuchler-elizabeth-empress-of-austria-and-queen-o": {
+   "source": "upt-60408",
+   "of": "Carl Küchler",
+   "work": "Elizabeth, Empress of Austria and Queen of Hungary",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 60408 (clean text)"
+  },
+  "upton-kuchler-queen-maria-sophia-of-naples-a-forgotten": {
+   "source": "upt-65606",
+   "of": "Carl Küchler",
+   "work": "Queen Maria Sophia of Naples, a Forgotten Heroine",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 65606 (clean text)"
+  },
+  "upton-kuhn-barbarossa": {
+   "source": "upt-65142",
+   "of": "Franz Kühn",
+   "work": "Barbarossa",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 65142 (clean text)"
+  },
+  "upton-merz-louise-queen-of-prussia": {
+   "source": "upt-65549",
+   "of": "Heinrich Merz",
+   "work": "Louise, Queen of Prussia",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 65549 (clean text)"
+  },
+  "upton-muller-memories-a-story-of-german-love": {
+   "source": "upt-14521",
+   "of": "F. Max (Friedrich Max) Müller",
+   "work": "Memories: A Story of German Love",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 14521 (clean text)"
+  },
+  "upton-nohl-life-of-haydn": {
+   "source": "upt-67827",
+   "of": "Ludwig Nohl",
+   "work": "Life of Haydn",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 67827 (clean text)"
+  },
+  "upton-nohl-life-of-liszt": {
+   "source": "upt-68522",
+   "of": "Ludwig Nohl",
+   "work": "Life of Liszt",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 68522 (clean text)"
+  },
+  "upton-nohl-life-of-wagner": {
+   "source": "upt-31526",
+   "of": "Ludwig Nohl",
+   "work": "Life of Wagner",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 31526 (clean text)"
+  },
+  "upton-oertel-william-penn": {
+   "source": "upt-62656",
+   "of": "Hugo Oertel",
+   "work": "William Penn",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 62656 (clean text)"
+  },
+  "upton-plehn-emin-pasha": {
+   "source": "upt-59691",
+   "of": "M. C. Plehn",
+   "work": "Emin Pasha",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 59691 (clean text)"
+  },
+  "upton-schmidt-charlemagne": {
+   "source": "upt-59882",
+   "of": "Ferdinand Schmidt",
+   "work": "Charlemagne",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 59882 (clean text)"
+  },
+  "upton-schmidt-george-washington": {
+   "source": "upt-60236",
+   "of": "Ferdinand Schmidt",
+   "work": "George Washington",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 60236 (clean text)"
+  },
+  "upton-schmidt-gods-and-heroes": {
+   "source": "upt-59956",
+   "of": "Ferdinand Schmidt",
+   "work": "Gods and Heroes",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 59956 (clean text)"
+  },
+  "upton-schmidt-gudrun": {
+   "source": "upt-59626",
+   "of": "Ferdinand Schmidt",
+   "work": "Gudrun",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 59626 (clean text)"
+  },
+  "upton-schmidt-the-nibelungs": {
+   "source": "upt-73227",
+   "of": "Ferdinand Schmidt",
+   "work": "The Nibelungs",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 73227 (clean text)"
+  },
+  "upton-schmidt-the-youth-of-the-great-elector": {
+   "source": "upt-59929",
+   "of": "Ferdinand Schmidt",
+   "work": "The Youth of the Great Elector",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 59929 (clean text)"
+  },
+  "upton-schrader-frederick-the-great-and-the-seven-years": {
+   "source": "upt-65827",
+   "of": "Ferdinand Schrader",
+   "work": "Frederick the Great and the Seven Years' War",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 65827 (clean text)"
+  },
+  "upton-tegner-the-frithiof-saga": {
+   "source": "upt-59689",
+   "of": "Esaias Tegnér",
+   "work": "The Frithiof Saga",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton (with Ferdinand Schmidt)",
+   "scan_edition": "Project Gutenberg 59689 (clean text)"
+  },
+  "upton-tschudi-eugenie-empress-of-the-french": {
+   "source": "upt-62965",
+   "of": "Clara Tschudi",
+   "work": "Eugenie, Empress of the French",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton (with Erich Holm)",
+   "scan_edition": "Project Gutenberg 62965 (clean text)"
+  },
+  "upton-walter-emperor-william-first-the-great-war-and": {
+   "source": "upt-62451",
+   "of": "A. Walter",
+   "work": "Emperor William First, the Great War and Peace Hero",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 62451 (clean text)"
+  },
+  "upton-willys-swiss-heroes-an-historical-romance-of-th": {
+   "source": "upt-61788",
+   "of": "A. A. Willys",
+   "work": "Swiss Heroes: An Historical Romance of the Time of Charles the Bold",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 61788 (clean text)"
+  },
+  "upton-wurdig-prince-eugene-the-noble-knight": {
+   "source": "upt-59733",
+   "of": "L. (Ludwig) Würdig",
+   "work": "Prince Eugene, the Noble Knight",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 59733 (clean text)"
+  },
+  "upton-ziemssen-johann-sebastian-bach": {
+   "source": "upt-65747",
+   "of": "Ludwig Ziemssen",
+   "work": "Johann Sebastian Bach",
+   "translated": "1875-1911 (see the Gutenberg header)",
+   "translator": "George P. Upton",
+   "scan_edition": "Project Gutenberg 65747 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "upt-14521": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-31526": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59626": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59689": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ferdinand Schmidt; George P. Upton"
+  },
+  "upt-59691": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59732": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59733": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59750": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59751": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59882": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59929": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59956": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-60236": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-60257": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-60408": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-61788": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62366": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62449": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62451": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62453": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62527": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62650": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62656": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62742": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62965": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Erich Holm; George P. Upton"
+  },
+  "upt-65142": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-65302": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-65431": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-65549": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-65606": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-65747": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-65827": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-67827": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-68522": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-73227": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George P. Upton"
+  }
+ },
+ "_verified": {
+  "upt-14521": {
+   "pg": 14521,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-31526": {
+   "pg": 31526,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59626": {
+   "pg": 59626,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59689": {
+   "pg": 59689,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ferdinand Schmidt"
+  },
+  "upt-59691": {
+   "pg": 59691,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59732": {
+   "pg": 59732,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59733": {
+   "pg": 59733,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59750": {
+   "pg": 59750,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59751": {
+   "pg": 59751,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59882": {
+   "pg": 59882,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59929": {
+   "pg": 59929,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-59956": {
+   "pg": 59956,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-60236": {
+   "pg": 60236,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-60257": {
+   "pg": 60257,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-60408": {
+   "pg": 60408,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-61788": {
+   "pg": 61788,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62366": {
+   "pg": 62366,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62449": {
+   "pg": 62449,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62451": {
+   "pg": 62451,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62453": {
+   "pg": 62453,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62527": {
+   "pg": 62527,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62650": {
+   "pg": 62650,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62656": {
+   "pg": 62656,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62742": {
+   "pg": 62742,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-62965": {
+   "pg": 62965,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Erich Holm"
+  },
+  "upt-65142": {
+   "pg": 65142,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-65302": {
+   "pg": 65302,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-65431": {
+   "pg": 65431,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-65549": {
+   "pg": 65549,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-65606": {
+   "pg": 65606,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-65747": {
+   "pg": 65747,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-65827": {
+   "pg": 65827,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-67827": {
+   "pg": 67827,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-68522": {
+   "pg": 68522,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  },
+  "upt-73227": {
+   "pg": 73227,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George P. Upton"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

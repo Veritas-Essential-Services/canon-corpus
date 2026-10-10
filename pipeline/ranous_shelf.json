@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: Dora Knowlton Ranous (1859-1916): the Marquis de Massa's Zibeline and D'Annunzio's The Flame (1906). US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted.",
+ "_name_words": [
+  "dora knowlton ranous",
+  "ranous"
+ ],
+ "_surname": [
+  "dora knowlton ranous",
+  "ranous"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ran-3934": [
+   3934,
+   "Zibeline — Complete"
+  ],
+  "ran-60601": [
+   60601,
+   "The Flame"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ranous-d-annunzio-the-flame": {
+   "source": "ran-60601",
+   "of": "Gabriele D'Annunzio",
+   "work": "The Flame",
+   "translated": "1900-1906 (see the Gutenberg header)",
+   "translator": "Dora Knowlton Ranous",
+   "scan_edition": "Project Gutenberg 60601 (clean text)"
+  },
+  "ranous-massa-zibeline-complete": {
+   "source": "ran-3934",
+   "of": "Philippe Massa",
+   "work": "Zibeline — Complete",
+   "translated": "1900-1906 (see the Gutenberg header)",
+   "translator": "Dora Knowlton Ranous",
+   "scan_edition": "Project Gutenberg 3934 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "zibeline-volumes": "Zibeline's three Gutenberg volume files are left out; the complete text (3934) is used."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ran-3934": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dora knowlton ranous",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Dora Knowlton Ranous"
+  },
+  "ran-60601": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dora knowlton ranous",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Dora Knowlton Ranous"
+  }
+ },
+ "_verified": {
+  "ran-3934": {
+   "pg": 3934,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Dora Knowlton Ranous"
+  },
+  "ran-60601": {
+   "pg": 60601,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Dora Knowlton Ranous"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

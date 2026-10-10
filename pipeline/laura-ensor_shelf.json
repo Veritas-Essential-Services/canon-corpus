@@ -1,0 +1,180 @@
+{
+ "_about": "TRANSLATOR SHELF: Laura Ensor (1840-1920): Loti's Madame Chrysanthème, Daudet's Artists' Wives and Robert Helmont, Maupassant's Afloat, and the Memoirs of the Princesse de Ligne (2 vols). US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted.",
+ "_name_words": [
+  "laura ensor"
+ ],
+ "_surname": [
+  "laura ensor"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ens-15335": [
+   15335,
+   "Madame Chrysanthème"
+  ],
+  "ens-22522": [
+   22522,
+   "Artists' Wives"
+  ],
+  "ens-49318": [
+   49318,
+   "Afloat (Sur l'eau)"
+  ],
+  "ens-51235": [
+   51235,
+   "Robert Helmont: Diary of a Recluse, 1870-1871"
+  ],
+  "ens-71048": [
+   71048,
+   "Memoirs of the Princesse de Ligne, Vol. 1 (of 2)"
+  ],
+  "ens-71051": [
+   71051,
+   "Memoirs of the Princesse de Ligne, Vol. 2 (of 2)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "laura-ensor-daudet-artists-wives": {
+   "source": "ens-22522",
+   "of": "Alphonse Daudet",
+   "work": "Artists' Wives",
+   "translated": "1887-1896 (see the Gutenberg header)",
+   "translator": "Laura Ensor",
+   "scan_edition": "Project Gutenberg 22522 (clean text)"
+  },
+  "laura-ensor-daudet-robert-helmont-diary-of-a-recluse-1870-1": {
+   "source": "ens-51235",
+   "of": "Alphonse Daudet",
+   "work": "Robert Helmont: Diary of a Recluse, 1870-1871",
+   "translated": "1887-1896 (see the Gutenberg header)",
+   "translator": "Laura Ensor",
+   "scan_edition": "Project Gutenberg 51235 (clean text)"
+  },
+  "laura-ensor-loti-madame-chrysantheme": {
+   "source": "ens-15335",
+   "of": "Pierre Loti",
+   "work": "Madame Chrysanthème",
+   "translated": "1887-1896 (see the Gutenberg header)",
+   "translator": "Laura Ensor",
+   "scan_edition": "Project Gutenberg 15335 (clean text)"
+  },
+  "laura-ensor-massalska-memoirs-of-the-princesse-de-ligne-vol-1": {
+   "source": "ens-71048",
+   "of": "Apolonia Helena Massalska",
+   "work": "Memoirs of the Princesse de Ligne, Vol. 1 (of 2)",
+   "translated": "1887-1896 (see the Gutenberg header)",
+   "translator": "Laura Ensor",
+   "scan_edition": "Project Gutenberg 71048 (clean text)"
+  },
+  "laura-ensor-massalska-memoirs-of-the-princesse-de-ligne-vol-2": {
+   "source": "ens-71051",
+   "of": "Apolonia Helena Massalska",
+   "work": "Memoirs of the Princesse de Ligne, Vol. 2 (of 2)",
+   "translated": "1887-1896 (see the Gutenberg header)",
+   "translator": "Laura Ensor",
+   "scan_edition": "Project Gutenberg 71051 (clean text)"
+  },
+  "laura-ensor-maupassant-afloat-sur-l-eau": {
+   "source": "ens-49318",
+   "of": "Guy de Maupassant",
+   "work": "Afloat (Sur l'eau)",
+   "translated": "1887-1896 (see the Gutenberg header)",
+   "translator": "Laura Ensor",
+   "scan_edition": "Project Gutenberg 49318 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ens-15335": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "laura ensor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Laura Ensor"
+  },
+  "ens-22522": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "laura ensor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Laura Ensor"
+  },
+  "ens-49318": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "laura ensor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Laura Ensor"
+  },
+  "ens-51235": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "laura ensor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Laura Ensor"
+  },
+  "ens-71048": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "laura ensor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Laura Ensor"
+  },
+  "ens-71051": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "laura ensor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Laura Ensor"
+  }
+ },
+ "_verified": {
+  "ens-15335": {
+   "pg": 15335,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Laura Ensor"
+  },
+  "ens-22522": {
+   "pg": 22522,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Laura Ensor"
+  },
+  "ens-49318": {
+   "pg": 49318,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Laura Ensor"
+  },
+  "ens-51235": {
+   "pg": 51235,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Laura Ensor"
+  },
+  "ens-71048": {
+   "pg": 71048,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Laura Ensor"
+  },
+  "ens-71051": {
+   "pg": 71051,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Laura Ensor"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}
