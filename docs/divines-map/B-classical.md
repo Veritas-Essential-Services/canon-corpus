@@ -3228,6 +3228,9 @@ Shelf: `pipeline/evelyn-abbott_shelf.json`. A History of Greece, 3 parts (Putnam
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A History of Greece, part I, from the earliest times to the Ionian Revolt (New York: Putnam; London: Longmans, Green, 1901) |  | `evelyn-abbott-history-greece-v1-1901` | have-raw (IA `historyofgreece01abbo`) |
+| A History of Greece, part II, from the Ionian Revolt to the Thirty Years' Peace, 500-445 B.C. (New York: Putnam; London: Longmans, Green, 1901) |  | `evelyn-abbott-history-greece-v2-1901` | have-raw (IA `historyofgreece02abbo_0`) |
+| A History of Greece, part III, from the Thirty Years' Peace to the Fall of the Thirty at Athens, 445-403 B.C. (New York: Putnam; London: Longmans, Green, 1900) |  | `evelyn-abbott-history-greece-v3-1900` | have-raw (IA `historyofgreece03abbo`) |
 
 ## Adolf Holm (scholarship)
 
