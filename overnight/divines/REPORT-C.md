@@ -165,3 +165,5 @@
 - 2026-10-10T14:51-05:00: round 43: singles-fiction-2 (67), singles-plays-poetry-2 (39). --verify --record 0 mismatched. No late printings found. Left for owners: Spyri's New Year's Carol (spyri, Lane D). Excluded: The Jade Flute (translator unnamed).
 
 - 2026-10-10T14:52-05:00: round 44: singles-fiction-3 (68). --verify --record 0 mismatched. Three 1930 translations in _pending (Emil and the Detectives, Confessions of Zeno, Akutagawa) await the 1930 override. Hutton's Táin carries a 1948 presentation inscription (not a printing). Left for owners: Lagerlöf's Liliecrona's Home.
+
+- 2026-10-10T14:55-05:00: round 45: singles-history-2 (72). --verify --record 0 mismatched. No late printings found.

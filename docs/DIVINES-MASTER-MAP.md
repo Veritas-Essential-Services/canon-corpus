@@ -13285,6 +13285,86 @@ Round 44 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `pg-79453` | — | Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-78105` | — | Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 
+## One-off translations: more history, travel and memoir (Gregory of Tours, Alberuni's India, Columbus's letters, Timur, Omar ibn Said, Jusserand, the Dreyfus letters, lives of Wagner, Berlioz and Chopin)
+
+Shelf: `pipeline/singles-history-2_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-history-2` · titles `python3 pipeline/split_shelf_titles.py singles-history-2`.
+Round 45 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-history-2-adam-the-romance-of-my-childhood-and-youth` | Juliette Adam | The romance of my childhood and youth | Helen Stanley | (see the Gutenberg header) | have | PG 70563 |
+| `singles-history-2-amicis-morocco-its-people-and-places` | Edmondo De Amicis | Morocco, Its People and Places | Caroline Tilton | (see the Gutenberg header) | have | PG 57206 |
+| `singles-history-2-amt-the-german-army-in-belgium-the-white-boo` | the German Foreign Office (Auswärtiges Amt) | The German Army in Belgium, the White Book of May 1915 | E. N. Bennett | (see the Gutenberg header) | have | PG 54296 |
+| `singles-history-2-anon-the-unwritten-history-of-old-st-augustin` | Spanish colonial records (compiled by A. M. Brooks) | The unwritten history of old St. Augustine | Annie Averette | (see the Gutenberg header) | have | PG 54804 |
+| `singles-history-2-barbaro-travels-to-tana-and-persia` | Giosofat Barbaro and Ambrogio Contarini | Travels to Tana and Persia | Eugene Armand Roy and William Thomas | (see the Gutenberg header) | have | PG 75292 |
+| `singles-history-2-barine-bernardin-de-st-pierre` | Arvède Barine | Bernardin de St. Pierre | James Edward Gordon | (see the Gutenberg header) | have | PG 58723 |
+| `singles-history-2-bedier-german-atrocities-from-german-evidence` | Joseph Bédier | German Atrocities from German Evidence | Bernhard Harrison | (see the Gutenberg header) | have | PG 47088 |
+| `singles-history-2-berlioz-the-life-of-hector-berlioz-as-written-by` | Hector Berlioz | The life of Hector Berlioz as written by himself in his letters and memoirs | Katharine F. Boult | (see the Gutenberg header) | have | PG 62668 |
+| `singles-history-2-biruni-alberuni-s-india-volume-1-of-2` | Muḥammad ibn Aḥmad Bīrūnī | Alberuni's India (Volume 1 of 2) | Eduard Sachau | (see the Gutenberg header) | have | PG 79672 |
+| `singles-history-2-bourcier-under-the-german-shells` | Emmanuel Bourcier | Under the German shells | George Nelson Holt and Mary Roxy Wilkins Holt | (see the Gutenberg header) | have | PG 68301 |
+| `singles-history-2-brunet-the-new-german-constitution` | René Brunet | The New German Constitution | Joseph Gollomb | (see the Gutenberg header) | have | PG 54957 |
+| `singles-history-2-capart-a-blue-devil-of-france` | G.-P. Capart | A Blue Devil of France: Epic figures and stories of the Great War, 1914-1918 | J. C. Drouillard | (see the Gutenberg header) | have | PG 48229 |
+| `singles-history-2-columbus-select-letters-of-christopher-columbus` | Christopher Columbus | Select letters of Christopher Columbus | Richard Henry Major | (see the Gutenberg header) | have | PG 77820 |
+| `singles-history-2-cousin-the-youth-of-madame-de-longueville-or-ne` | Victor Cousin | The youth of Madame de Longueville, or new revelations of court and convent in the seventeenth century | Frederick W. Ricord | (see the Gutenberg header) | have | PG 77579 |
+| `singles-history-2-deich-sixteen-years-in-siberia` | L. G. Deich | Sixteen years in Siberia: Some experiences of a Russian revolutionist | Helen Chisholm | (see the Gutenberg header) | have | PG 54129 |
+| `singles-history-2-dieterich-hellenism-in-asia-minor` | Karl Dieterich | Hellenism in Asia Minor | Carroll N. Brown | (see the Gutenberg header) | have | PG 55728 |
+| `singles-history-2-dingelstedt-john-gutenberg-first-master-printer-his` | Franz von Dingelstedt | John Gutenberg, First Master Printer His Acts and Most Remarkable Discourses and his Death | Caroline Wintour | (see the Gutenberg header) | have | PG 50000 |
+| `singles-history-2-dreyfus-lettres-d-un-innocent` | Alfred Dreyfus | Lettres d'un Innocent: The Letters of Captain Dreyfus to His Wife | L. G. Moreau | (see the Gutenberg header) | have | PG 64720 |
+| `singles-history-2-ebers-richard-lepsius-a-biography` | Georg Ebers | Richard Lepsius, a biography | Zoe Dana Underhill | (see the Gutenberg header) | have | PG 74815 |
+| `singles-history-2-engelmann-pompeii` | Richard Engelmann | Pompeii | Talfourd Ely | (see the Gutenberg header) | have | PG 78658 |
+| `singles-history-2-friis-the-monastery-of-petschenga` | J. A. Friis | The monastery of Petschenga | Hill Repp | (see the Gutenberg header) | have | PG 72118 |
+| `singles-history-2-ganz-the-land-of-riddles-russia-of-to-day` | Hugo Ganz | The Land of Riddles (Russia of To-day) | Herman Rosenthal | (see the Gutenberg header) | have | PG 56772 |
+| `singles-history-2-garo-why-armenia-should-be-free` | Armen Garo | Why Armenia Should Be Free: Armenia's Rôle in the Present War | Aram Torossian | (see the Gutenberg header) | have | PG 53976 |
+| `singles-history-2-gautier-charles-baudelaire-his-life` | Théophile Gautier and Charles Baudelaire | Charles Baudelaire, His Life | Guy Thorne | (see the Gutenberg header) | have | PG 47075 |
+| `singles-history-2-gautier-richard-wagner-and-his-poetical-work-fro` | Judith Gautier | Richard Wagner and His Poetical Work, from "Rienzi" to "Parsifal" | L. S. J. | (see the Gutenberg header) | have | PG 46982 |
+| `singles-history-2-gautier-wagner-at-home` | Judith Gautier | Wagner at Home | Effie Dunreith Massie | (see the Gutenberg header) | have | PG 47080 |
+| `singles-history-2-gebler-galileo-galilei-and-the-roman-curia-from` | Karl von Gebler | Galileo Galilei and the Roman Curia From Authentic Sources | G. Sturge | (see the Gutenberg header) | have | PG 60215 |
+| `singles-history-2-gregory-history-of-the-franks` | Bishop of Tours Gregory | History of the Franks | Ernest Brehaut | (see the Gutenberg header) | have | PG 74955 |
+| `singles-history-2-grellmann-dissertation-on-the-gipseys-representing` | Heinrich Moritz Gottlieb Grellmann | Dissertation on the Gipseys Representing their manner of life, family economy, occupations & trades, marriages & education, sickness, death, & burial, religion, language, sciences & arts, &c. &c. &c.; | Matthew Raper | (see the Gutenberg header) | have | PG 62745 |
+| `singles-history-2-guizot-essay-on-the-character-and-influence-of` | François Guizot | Essay on the Character and Influence of Washington in the Revolution of the United States of America | George Stillman Hillard | (see the Gutenberg header) | have | PG 60668 |
+| `singles-history-2-guizot-history-of-the-origin-of-representative` | François Guizot | History of the Origin of Representative Government in Europe | Andrew R. Scoble | (see the Gutenberg header) | have | PG 61250 |
+| `singles-history-2-hedin-with-the-german-armies-in-the-west` | Sven Anders Hedin | With the German armies in the West | H. G. De Walterstorff | (see the Gutenberg header) | have | PG 79238 |
+| `singles-history-2-homberg-d-eon-de-beaumont-his-life-and-times` | Octave Homberg and Fernand Jousselin | D'Eon de Beaumont, his life and times | Alfred Rieu | (see the Gutenberg header) | have | PG 75490 |
+| `singles-history-2-houssaye-cleopatra` | Henry Houssaye | Cleopatra: A Study | A. F. D. | (see the Gutenberg header) | have | PG 56049 |
+| `singles-history-2-hugo-oration-on-voltaire` | Victor Hugo | Oration on Voltaire | James Parton | (see the Gutenberg header) | have | PG 76789 |
+| `singles-history-2-humboldt-letters-of-alexander-von-humboldt-to-var` | Alexander von Humboldt | Letters of Alexander von Humboldt to Varnhagen von Ense. From 1827 to 1858. With extracts from Varnhagen's diaries, and letters of Varnhagen and others to Humboldt | Friedrich Kapp | (see the Gutenberg header) | have | PG 67420 |
+| `singles-history-2-huret-sarah-bernhardt` | Jules Huret | Sarah Bernhardt | George A. Raper | (see the Gutenberg header) | have | PG 57583 |
+| `singles-history-2-husen-the-confessions-of-the-celebrated-counte` | Heinrich Husen | The Confessions of the Celebrated Countess of Lichtenau, Late Mrs. Rietz Now Confined in the Fortress of Gloglau as a State-prisoner | Richard B--t--n | (see the Gutenberg header) | have | PG 67532 |
+| `singles-history-2-josephus-selections-from-josephus` | Flavius Josephus | Selections From Josephus | H. St. J. Thackeray | (see the Gutenberg header) | have | PG 64837 |
+| `singles-history-2-jusserand-english-wayfaring-life-in-the-middle-age` | J. J. Jusserand | English Wayfaring Life in the Middle Ages (XIVth Century) | Lucy Toulmin Smith | (see the Gutenberg header) | have | PG 58530 |
+| `singles-history-2-koldewey-the-german-arctic-expedition-of-1869-70` | Karl Koldewey | The German Arctic expedition of 1869-70, and narrative of the wreck of the "Hansa" in the ice | Lewis Page Mercier | (see the Gutenberg header) | have | PG 79056 |
+| `singles-history-2-kolff-voyages-of-the-dutch-brig-of-war-dourga` | D. H. Kolff | Voyages of the Dutch brig of war Dourga | George Windsor Earl | (see the Gutenberg header) | have | PG 73305 |
+| `singles-history-2-laurin-sweden` | Carl G. Laurin | Sweden | Grenville Grove | (see the Gutenberg header) | have | PG 78746 |
+| `singles-history-2-lederer-the-discoveries-of-john-lederer-in-three` | John Lederer | The Discoveries of John Lederer In three several Marches from Virginia to the East of Carolina, and other parts of the Continent | William Talbot | (see the Gutenberg header) | have | PG 65160 |
+| `singles-history-2-lepsius-letters-from-egypt-ethiopia-and-the-peni` | Richard Lepsius | Letters from Egypt, Ethiopia, and the peninsula of Sinai | Joanna B. Horner and Leonora Horner | (see the Gutenberg header) | have | PG 78968 |
+| `singles-history-2-leroy-beaulieu-the-awakening-of-the-east` | Pierre Leroy-Beaulieu | The Awakening of the East: Siberia—Japan—China | Richard Davey | (see the Gutenberg header) | have | PG 61310 |
+| `singles-history-2-malsagov-an-island-hell` | S. A. Malʹsagov | An island hell: A Soviet prison in the far north | F. H. Lyon | (see the Gutenberg header) | have | PG 68923 |
+| `singles-history-2-martin-captivity-and-escape` | Jean Martin | Captivity and Escape | V. A. Randell | (see the Gutenberg header) | have | PG 49347 |
+| `singles-history-2-maulde-la-claviere-the-women-of-the-renaissance` | R. de Maulde-La-Clavière | The women of the Renaissance | George Herbert Ely | (see the Gutenberg header) | have | PG 77508 |
+| `singles-history-2-mirza-the-baz-nama-yi-nasiri` | Prince Taymur Mirza | The Baz-nama-yi Nasiri | D. C. Phillott | (see the Gutenberg header) | have | PG 74303 |
+| `singles-history-2-mokveld-the-german-fury-in-belgium-experiences-o` | L. Mokveld | The German Fury in Belgium Experiences of a Netherland Journalist during four months with the German Army in Belgium | Carel Thieme | (see the Gutenberg header) | have | PG 60364 |
+| `singles-history-2-naima-annals-of-the-turkish-empire-from-1591-t` | Mustafa Naima | Annals of the Turkish Empire, from 1591 to 1659 | Charles Fraser | (see the Gutenberg header) | have | PG 60151 |
+| `singles-history-2-nicolaus-nicolaus-of-damascus-life-of-augustus` | of Damascus Nicolaus | Nicolaus of Damascus' life of Augustus | Clayton Morris Hall | (see the Gutenberg header) | have | PG 74423 |
+| `singles-history-2-pourtales-frederick-chopin` | Guy de Pourtalès | Frederick Chopin | Charles Bayly | (see the Gutenberg header) | have | PG 76904 |
+| `singles-history-2-rey-a-woman-s-wanderings-and-trials-during-t` | Jacoba Elizabeth De la Rey | A woman's wanderings and trials during the Anglo-Boer War | Lucy Hotz | (see the Gutenberg header) | have | PG 72195 |
+| `singles-history-2-rolland-mahatma-gandhi` | Romain Rolland | Mahatma Gandhi: The Man Who Became One With the Universal Being | Catherine Dase Groth | (see the Gutenberg header) | have | PG 61575 |
+| `singles-history-2-said-translation-of-the-life-of-omar-ibn-said` | Omar ibn Said | Translation of the Life of Omar ibn Said: Manuscript No. 1 | Isaac Bird | (see the Gutenberg header) | have | PG 63635 |
+| `singles-history-2-schultze-the-sultanate-of-bornu` | Arnold Schultze | The Sultanate of Bornu | Philip Askell Benton | (see the Gutenberg header) | have | PG 77463 |
+| `singles-history-2-stackelberg-the-life-of-carmen-sylva-queen-of-rouman` | Natalie Stackelberg | The Life of Carmen Sylva (Queen of Roumania) | Hilda Elizabeth Deichmann | (see the Gutenberg header) | have | PG 49139 |
+| `singles-history-2-sturmer-two-war-years-in-constantinople` | Harry Stürmer | Two war years in Constantinople | E. Allen | (see the Gutenberg header) | have | PG 60638 |
+| `singles-history-2-stutterheim-a-detailed-account-of-the-battle-of-aust` | Karl von Stutterheim | A Detailed Account of the Battle of Austerlitz | John Pine Coffin | (see the Gutenberg header) | have | PG 66641 |
+| `singles-history-2-sukloff-the-life-story-of-a-russian-exile` | Marie Sukloff | The life-story of a Russian exile | Gregory Yarros | (see the Gutenberg header) | have | PG 79182 |
+| `singles-history-2-sylva-from-memory-s-shrine` | Carmen Sylva | From Memory's Shrine: The Reminscences of Carmen Sylva | Edith Hopkirk | (see the Gutenberg header) | have | PG 51674 |
+| `singles-history-2-symington-pen-and-pencil-sketches-of-faroe-and-ice` | Andrew James Symington | Pen and pencil sketches of Faröe and Iceland | Ólafur Pálsson | (see the Gutenberg header) | have | PG 71936 |
+| `singles-history-2-timur-the-mulfuzat-timury` | Timur | The Mulfuzāt Timūry = | Abū Ṭālib al-Ḥusaynī and Charles Stewart | (see the Gutenberg header) | have | PG 76195 |
+| `singles-history-2-topin-the-man-with-the-iron-mask` | Marius Topin | The man with the iron mask | Henry Vizetelly | (see the Gutenberg header) | have | PG 70207 |
+| `singles-history-2-tret-iakov-my-experiences-at-nan-shan-and-port-arth` | Nikolaĭ Aleksandrovich Tret'iakov | My Experiences at Nan Shan and Port Arthur with the Fifth East Siberian Rifles | Arthur Cameron Rimington Alford | (see the Gutenberg header) | have | PG 59741 |
+| `singles-history-2-tschudi-ludwig-the-second-king-of-bavaria` | Clara Tschudi | Ludwig the Second, King of Bavaria | Ethel Harriet Hearn | (see the Gutenberg header) | have | PG 48578 |
+| `singles-history-2-tunisi-travels-of-an-arab-merchant-in-soudan-th` | Muḥammad ibn ʻUmar Tūnisī | Travels of an Arab merchant in Soudan (the Black Kingdoms of Central Africa) | Dr. Perron and Bayle St. John | (see the Gutenberg header) | have | PG 70889 |
+| `singles-history-2-ungern-sternberg-the-memoirs-of-maria-stella-lady-newboro` | Maria Stella Petronilla Ungern-Sternberg | The Memoirs of Maria Stella (Lady Newborough) | M. Harriet M. Capes | (see the Gutenberg header) | have | PG 56643 |
+| `singles-history-2-vogue-the-russian-novelists` | Eugène-Melchior Vogüé | The Russian novelists | Jane Loring Edmands | (see the Gutenberg header) | have | PG 72271 |
+| `singles-history-2-werne-african-wanderings` | Ferdinand Werne | African wanderings | J. R. Johnston | (see the Gutenberg header) | have | PG 78507 |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
