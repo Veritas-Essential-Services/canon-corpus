@@ -2797,6 +2797,7 @@ Shelf: `pipeline/showerman_shelf.json`. Grant Showerman (1870-1935), Wisconsin: 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Horace and His Influence |  | `showerman-horace-and-his-influence` | have (PG 16801) |
 
 ## Ernest A. Gardner (scholarship)
 
