@@ -2811,6 +2811,58 @@ Slugs `dale-*`. Congregationalist of Carr's Lane, Birmingham. Ten books from IA 
 | Essays and Addresses, 3rd ed. 1901 (IA essaysandaddress00daleuoft) | alternate | not shelved |
 | IA protestantism0000rwda: catalogued 1928, 70 pages, not checked further | excluded | |
 | IA livingchristfour0002rwda: catalogued 1903 as v2 of a one-volume work; unexplained | excluded | |
+
+## Joseph Parker (round 17, my pick, 2026-10-10)
+
+Slugs `parker-*`. Of the City Temple, London. The full 27-volume New York People's Bible (vol. 10 is the Claremont copy; the Princeton copy would not load), the City Temple Pulpit vols. 1-7 and five earlier books. Ecce Deus was published anonymously.
+
+| Work | Status | Where |
+|---|---|---|
+| Ecce Deus: Essays on the Life and Doctrine of Jesus Christ (Boston: Roberts Brothers, 1867; published anonymously) | have-ocr | IA `eccedeusessay00parkuoft` |
+| Ad Clerum: Advices to a Young Preacher (London: Hodder & Stoughton, MDCCCLXXIII) | have-ocr | IA `adclerumadvicest00park` |
+| The Paraclete: An Essay on the Personality and Ministry of the Holy Ghost (New York: Scribner, Armstrong & Co.; no year on title page, catalogued 1875) | have-ocr | IA `paracleteessayon00park` |
+| The Priesthood of Christ: A Re-statement of Vital Truth (catalogued London: R. D. Dickinson, 1876) | have-ocr | IA `priesthoodofchri00park` |
+| The City Temple: Sermons Preached in the Poultry Chapel, London, 1869-70 (London: Hodder & Stoughton, MDCCCLXX) | have-ocr | IA `citytemplesermon00park` |
+| The City Temple Pulpit, vol. 1 (London: Hodder and Stoughton, 1899) | have-ocr | IA `citytemplepulpit01park` |
+| The City Temple Pulpit, vol. 2 (London: Hodder and Stoughton, 1900) | have-ocr | IA `citytemplepulpit02park` |
+| The City Temple Pulpit, vol. 3 (London: Hodder and Stoughton, 1900) | have-ocr | IA `citytemplepulpit03park` |
+| The City Temple Pulpit, vol. 4 (London: Hodder and Stoughton, 1901) | have-ocr | IA `citytemplepulpit04park` |
+| The City Temple Pulpit, vol. 5 (London: Hodder and Stoughton, 1901) | have-ocr | IA `citytemplepulpit05park` |
+| The City Temple Pulpit, vol. 6 (London: Hodder and Stoughton, 1902) | have-ocr | IA `citytemplepulpit06park` |
+| The City Temple Pulpit, vol. 7 (London: Hodder and Stoughton, 1902) | have-ocr | IA `citytemplepulpit07park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 1, Genesis (New York: Funk & Wagnalls, 1886) | have-ocr | IA `peoplesbibledisc01park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 2, Exodus (New York: Funk & Wagnalls, 1887) | have-ocr | IA `peoplesbibledisc02park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 3, Leviticus to Numbers xxvi (New York: Funk & Wagnalls, 1886) | have-ocr | IA `peoplesbibledisc03park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 4, Numbers xxvii to Deuteronomy (New York: Funk & Wagnalls, 1886) | have-ocr | IA `peoplesbibledisc04park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 5, Joshua to Judges v (New York: Funk & Wagnalls, 1887) | have-ocr | IA `peoplesbibledisc05park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 6, Judges vi to 1 Samuel xviii (New York: Funk & Wagnalls, 1887) | have-ocr | IA `peoplesbibledisc06park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 7, 1 Samuel xviii to 1 Kings xiii (New York: Funk & Wagnalls, 1887) | have-ocr | IA `peoplesbibledisc07park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 8, 1 Kings xv to 1 Chronicles ix (New York: Funk & Wagnalls; no year on title page, catalogued 1886) | have-ocr | IA `peoplesbibledisc08park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 9, 1 Chronicles x to 2 Chronicles xx (New York: Funk & Wagnalls; no year on title page, catalogued 1886) | have-ocr | IA `peoplesbibledisc09park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 10, 2 Chronicles xxi to Esther (New York: Funk & Wagnalls, 1889) | have-ocr | IA `peoplesbibledisc0000park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 11, Job (New York: Funk & Wagnalls; no year on title page, catalogued 1886) | have-ocr | IA `peoplesbibledisc11park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 12, The Psalter (New York: Funk & Wagnalls, 1890) | have-ocr | IA `peoplesbibledisc12park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 13, Proverbs (New York: Funk & Wagnalls; no year on title page, catalogued 1886) | have-ocr | IA `peoplesbibledisc13park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 14, Ecclesiastes, Song of Solomon, Isaiah i-xxvi (New York: Funk & Wagnalls, 1891) | have-ocr | IA `peoplesbibledisc14park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 15, Isaiah xxvii to Jeremiah xix (New York: Funk & Wagnalls; no year on title page, catalogued 1886) | have-ocr | IA `peoplesbibledisc15park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 16, Jeremiah xx to Daniel (New York: Funk & Wagnalls; no year on title page, catalogued 1886) | have-ocr | IA `peoplesbibledisc16park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 17, Hosea to Malachi (New York: Funk & Wagnalls, 1892) | have-ocr | IA `peoplesbibledisc17park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 18, Matthew (The Inner Life of Christ, vol. 1) (New York: Funk & Wagnalls, 1888) | have-ocr | IA `peoplesbibledisc18park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 19, Matthew (The Inner Life of Christ, vol. 2) (New York: Funk & Wagnalls, 1888) | have-ocr | IA `peoplesbibledisc19park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 20, Matthew (The Inner Life of Christ, vol. 3) (New York: Funk & Wagnalls, 1887) | have-ocr | IA `peoplesbibledisc20park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 21, Mark and Luke (New York: Funk & Wagnalls; title-page year illegible, probably 1891) | have-ocr | IA `peoplesbibledisc21park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 22, John (New York: Funk & Wagnalls, 1893) | have-ocr | IA `peoplesbibledisc22park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 23, Acts (Apostolic Life, vol. 1) (New York: Funk & Wagnalls, 1887) | have-ocr | IA `peoplesbibledisc23park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 24, Acts (Apostolic Life, vol. 2) (New York: Funk & Wagnalls, 1887) | have-ocr | IA `peoplesbibledisc24park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 25, Acts (Apostolic Life, vol. 3) (New York: Funk & Wagnalls, 1887) | have-ocr | IA `peoplesbibledisc25park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 26, Romans to Galatians (New York: Funk & Wagnalls; no year on title page, catalogued 1886) | have-ocr | IA `peoplesbibledisc26park` |
+| The People's Bible: Discourses upon Holy Scripture, vol. 27, Ephesians to Revelation (New York: Funk & Wagnalls; no year on title page, catalogued 1886) | have-ocr | IA `peoplesbibledisc27park` |
+| London (Hazell, Watson & Viney) 25-volume set: IA peoplesbibledisc0023park, peoplesbibledisc0000park_o4d2, _l8d9, _s4u6 | alternate | not shelved |
+| Princeton copy of vol. 10 (IA peoplesbibledisc10park): returned 503 and empty metadata; Claremont copy shelved instead | alternate | not shelved |
+| second copy of Ad Clerum (IA adclerumadvicestyp00park): returned 503, unverified | alternate | not shelved |
+| IA genesispeoplesbi0000jose (1951), parkerspeoplesbi0015jose (1941), parkerspeoplesbi0000jose (1945): post-1930 reprints | excluded | |
+| Claremont People's Bible copies with no volume on the title page (_m4e9, _l6l5, _b7v1, _z6c9, _s5o5) | excluded | |
+| PG 54736: an anthology of Moody, Talmage and Parker, not a Parker book | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

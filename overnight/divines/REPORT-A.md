@@ -808,3 +808,6 @@
 
 ## 2026-10-10 11:17 CDT — r-w-dale done
 - `pipeline/r-w-dale_shelf.json`: 0 CCEL, 0 PG, 10 IA. Title pages read for dale-fellowship-with-christ (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:17 CDT — joseph-parker done
+- `pipeline/joseph-parker_shelf.json`: 0 CCEL, 0 PG, 39 IA. Title pages read for parker-ecce-deus, parker-peoples-bible-08, parker-peoples-bible-15, parker-peoples-bible-26 (OCR garbles the name), recorded in `_identity_checked`. Large shelf: 39 volumes. `--verify --record`: 0 mismatched. 0 uids minted.
