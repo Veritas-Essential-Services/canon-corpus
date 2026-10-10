@@ -865,3 +865,6 @@
 
 ## 2026-10-10 12:46 CDT — asa-mahan done
 - `pipeline/asa-mahan_shelf.json`: 0 CCEL, 1 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:46 CDT — thomas-c-upham done
+- `pipeline/thomas-c-upham_shelf.json`: 0 CCEL, 0 PG, 11 IA. Title pages read for upham-religious-maxims, upham-divine-union, upham-ratio-disciplinae (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

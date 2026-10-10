@@ -3292,3 +3292,29 @@ Slugs `mahan-*`. First president of Oberlin. Ten books of divinity and apologeti
 | 1972-2015 reprints | excluded | |
 | Mrs. Asa Mahan's Bulgarian Faith Mission, and A. T., Milo and D. H. Mahan | excluded | |
 | Critical History of the Late American War (1877): not divinity | excluded | |
+
+## Thomas C. Upham (round 19, my pick, 2026-10-10)
+
+Slugs `upham-*`. Bowdoin professor and holiness writer. Eleven books, among them the two-volume Life of Madame Guyon; the philosophy textbooks are alternates.
+
+| Work | Status | Where |
+|---|---|---|
+| Principles of the Interior or Hidden Life (Boston: D. S. King, 1843) | have-ocr | IA `principlesofinte00upha` |
+| Life of Madame Catharine Adorna (Boston: Waite, Peirce, 1845) | have-ocr | IA `lifeofmadamecath00upha_0` |
+| Religious Maxims, Having a Connection with the Doctrines and Practice of Holiness (Boston: Waite, Peirce, 1846) | have-ocr | IA `ReligiousMaxims` |
+| Life and Religious Opinions and Experience of Madame de la Mothe Guyon, vol. 1 (New York: Harper & Brothers, 1847) | have-ocr | IA `lifeandreligiou01uphagoog` |
+| Life and Religious Opinions and Experience of Madame de la Mothe Guyon, vol. 2 (New York: Harper & Brothers, 1847) | have-ocr | IA `lifeandreligiou02uphagoog` |
+| A Treatise on Divine Union (Boston: Charles H. Peirce, 1851) | have-ocr | IA `atreatiseondivi00uphagoog` |
+| The Life of Faith, in Three Parts (New York: Harper & Brothers, 1852; copyright 1845) | have-ocr | IA `lifeoffaithinthr00upha` |
+| A Method of Prayer: An Analysis of the Work So Entitled by Madame de la Mothe Guyon (London: Sampson Low, 1859) | have-ocr | IA `amethodprayeran00guyogoog` |
+| Christ in the Soul (New York: Warren, Broughton & Wyman, 1872) | have-ocr | IA `christinsouloril00upha` |
+| Absolute Religion (New York: G. P. Putnam's Sons, 1873; posthumous) | have-ocr | IA `absolutereligion01upha` |
+| Ratio Disciplinae, or the Constitution of the Congregational Churches (Portland; no year on title page, copyright 1829) | have-ocr | IA `ratiodisciplino00uphagoog` |
+| Mental philosophy: Elements of Intellectual Philosophy (1827), A Treatise on the Will (1834), Elements of Mental Philosophy vol. 2 (1837), Outlines of Imperfect and Disordered Mental Action (1840) | alternate | not shelved |
+| The Manual of Peace (1836), Letters Aesthetic, Social, and Moral (1855), A Book for the Home (verse, copyright 1850), his translation of Jahn's Biblical Archaeology (1823), Ratio Disciplinae 2nd ed. (1844) | alternate | not shelved |
+| Second copies of the Interior Life (1844), the Guyon Life (1847, 1849, 1855; a London 1854 edition revised by another hand), Divine Union (4th and 5th eds.), Life of Faith | alternate | not shelved |
+| CCEL upham/maxims: Fenelon's Maxims excerpted via a reprint; muddled print basis | excluded | |
+| The Religious Offering for 1835: does not name him | excluded | |
+| PG 30083 Letters of Madam Guyon, ed. Mrs. T. C. Upham | excluded | |
+| 1954-1984 reprints | excluded | |
+| Charles Wentworth Upham and others | excluded | |
