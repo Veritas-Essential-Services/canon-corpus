@@ -715,3 +715,11 @@
 - Extended: Haigh's Tragic Drama of the Greeks (1896), Mackail's Lectures on Greek Poetry (1910), Sellar's Horace and the Elegiac Poets (1892), Butcher's Some Aspects of the Greek Genius (3rd ed., 1904), Bury's History of Greece (1900)
 - Not added: Gutenberg's Attic Theatre (PG 76555) is the 1907 revision by Pickard-Cambridge, and the 1889 first edition is already held
 - Held back: Mahaffy's History of Classical Greek Literature (the scans mix a Macmillan third edition of vol. I with a Longmans second edition of vol. II)
+
+## 2026-10-10 11:51 CDT — Round 2026-10-10w: 13 volumes on 9 new shelves
+- Merivale's History of the Romans under the Empire, Longmans new edition, vols. I-V, each dated 1865. Vols. VI-VIII turned up only in later impressions of the same edition (1868, 1872, 1904), so they wait on Adam's later-printings ruling
+- German antiquities in English: Boeckh's Public Economy of the Athenians tr. Anthony Lamb (Boston, 1857); Schömann's Antiquities of Greece: The State tr. Hardy and Mann (1880); Guhl and Koner's Life of the Greeks and Romans tr. Hueffer (1875); Blümner's Home Life of the Ancient Greeks tr. Zimmern (Gutenberg)
+- Freeman's Federal Government in Greece and Italy (2nd ed. by Bury) and Studies of Travel: Greece; W. T. Arnold's Roman Provincial Administration (1879); Pelham's Essays (1911); Leaf's Troy (1912)
+- Translator death years not checked: Anthony Lamb, J. S. Mann (US public domain by date; noted in each shelf)
+- Left out: Duncker's History of Antiquity tr. Abbott (Near Eastern, like Oman and Hogarth before it); Gibbon (already on the adler shelf)
+- Wanted next: Freeman's Sicily, Abbott's and Holm's Histories of Greece, Ihne's Rome, Pelham's Outlines

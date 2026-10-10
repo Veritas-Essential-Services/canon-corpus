@@ -6053,6 +6053,93 @@ Shelf: `pipeline/verrall_shelf.json`. Odes of Horace (1884), Bacchants of Euripi
 | Collected Literary Essays, Classical and Modern, ed. M. A. Bayfield and J. D. Duff, with a memoir (Cambridge: University Press, 1913) |  | `verrall-collected-literary-essays-1913` | have-raw (IA `collectedliterar00verruoft`) |
 | Collected Studies in Greek and Latin Scholarship, ed. M. A. Bayfield and J. D. Duff (Cambridge: University Press, 1913) |  | `verrall-collected-studies-1913` | have-raw (IA `cu31924021596261`) |
 
+## Charles Merivale (scholarship)
+
+Shelf: `pipeline/merivale_shelf.json`. History of the Romans under the Empire, Longmans new edition in eight volumes, vols. I-V (1865), raw IA OCR; three title pages misread the name, so identity was checked by eye. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of the Romans under the Empire, new edition in eight volumes, vol. I (London: Longmans, Green, and Co., 1865) |  | `merivale-romans-empire-v1-1865` | have-raw (IA `historyofromans01meri`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. II (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v2-1865` | have-raw (IA `ahistoryromansu05merigoog`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. III (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v3-1865` | have-raw (IA `historyofromansu03meriiala`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. IV (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v4-1865` | have-raw (IA `ahistoryromansu00merigoog`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. V (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v5-1865` | have-raw (IA `ahistoryromansu01merigoog`) |
+
+Pending (wishlist): vols. VI-VIII of the same edition, found only in later impressions (VI 1868/1872, VII 1904, VIII 1872); held for Adam's ruling on later printings.
+
+## August Boeckh (scholarship)
+
+Shelf: `pipeline/boeckh_shelf.json`. The Public Economy of the Athenians, tr. Anthony Lamb (Boston, 1857), raw IA OCR; Lamb's death year unchecked. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Public Economy of the Athenians (Boston: Little, Brown, 1857) | Lamb | `boeckh-public-economy-athenians-lamb-1857` | have-raw (IA `publiceconomyath00boecuoft`) |
+
+Pending (wishlist): Lewis's English version (London, 1842).
+
+## G. F. Schömann (scholarship)
+
+Shelf: `pipeline/schomann_shelf.json`. The Antiquities of Greece, vol. I, The State, tr. Hardy and Mann (Rivingtons, 1880), raw IA OCR; Mann's death year unchecked. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Antiquities of Greece: The State (London: Rivingtons, 1880) | Hardy | `schomann-antiquities-greece-state-1880` | have-raw (IA `antiquitiesofgre00schuoft`) |
+
+## Guhl and Koner (scholarship)
+
+Shelf: `pipeline/guhl-koner_shelf.json`. The Life of the Greeks and Romans, tr. F. Hueffer (Chapman and Hall, 1875), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Life of the Greeks and Romans Described from Antique Monuments (London: Chapman and Hall, 1875) | F. Hueffer | `guhl-koner-life-greeks-romans-1875` | have-raw (IA `lifeofgreeksroma00guhl`) |
+
+## Hugo Blümner (scholarship)
+
+Shelf: `pipeline/blumner_shelf.json`. The Home Life of the Ancient Greeks, tr. Alice Zimmern, clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Home Life of the Ancient Greeks | Alice Zimmern | `blumner-home-life-ancient-greeks` | have (PG 61689) |
+
+## E. A. Freeman (scholarship)
+
+Shelf: `pipeline/e-a-freeman_shelf.json`. History of Federal Government in Greece and Italy, 2nd ed. by J. B. Bury (raw IA OCR), and Studies of Travel: Greece (clean Gutenberg). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Studies of Travel: Greece |  | `e-a-freeman-studies-travel-greece` | have (PG 45132) |
+| History of Federal Government in Greece and Italy, second edition, ed. J. B. Bury (London: Macmillan) |  | `e-a-freeman-federal-government-1893` | have-raw (IA `historyoffederal00freeuoft`) |
+
+Pending (wishlist): History of Sicily (4 vols., 1891-1894).
+
+## W. T. Arnold (scholarship)
+
+Shelf: `pipeline/w-t-arnold_shelf.json`. The Roman System of Provincial Administration (1879 first edition), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Roman System of Provincial Administration to the Accession of Constantine the Great (Macmillan, 1879) |  | `w-t-arnold-roman-provincial-administration-1879` | have-raw (IA `romansystemofpro00arnoiala`) |
+
+## H. F. Pelham (scholarship)
+
+Shelf: `pipeline/pelham_shelf.json`. Essays, ed. Haverfield (Clarendon Press, 1911), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Essays, collected and edited by F. Haverfield (Oxford: Clarendon Press, 1911) |  | `pelham-essays-1911` | have-raw (IA `essaysonromanhis00pelhuoft`) |
+
+Pending (wishlist): Outlines of Roman History (1895).
+
+## Walter Leaf (scholarship)
+
+Shelf: `pipeline/walter-leaf_shelf.json`. Troy, a Study in Homeric Geography (Macmillan, 1912), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Troy: A Study in Homeric Geography (London: Macmillan, 1912) |  | `walter-leaf-troy-1912` | have-raw (IA `troystudyinhomer00leaf`) |
+
+Pending (wishlist): Homer and History (1915).
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.

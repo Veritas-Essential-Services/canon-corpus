@@ -1092,6 +1092,14 @@
    "started": "2026-10-10T11:39:49-05:00",
    "finished": "2026-10-10T11:44:54-05:00",
    "notes": "10 volumes: 2 new shelves, 5 shelves extended"
+  },
+  {
+   "id": "round-2026-10-10w",
+   "status": "done",
+   "scope": "Merivale; translated German antiquities; Freeman, Arnold, Pelham, Leaf",
+   "started": "2026-10-10T11:44:54-05:00",
+   "finished": "2026-10-10T11:51:28-05:00",
+   "notes": "13 volumes on 9 new shelves; Merivale VI-VIII held for Adam"
   }
  ]
 }

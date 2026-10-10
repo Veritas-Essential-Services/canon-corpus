@@ -178,3 +178,4 @@
 - 11:32 round t: 12 more volumes (Thirlwall 8, Arnold's Rome 3, Smith's Biography vol. III). No new question.
 - 11:39 Round 10u: 27 scholarship volumes (Müller, Long, Mure, Cornewall Lewis and others). Nothing new for Adam to decide; Jevons's imprint year is OCR-doubtful and noted on the shelf.
 - 11:44 Round 10v: 10 volumes (Cruttwell, Verrall, Haigh, Mackail, Sellar, Butcher, Bury). Nothing new for Adam.
+- 11:51 Round 10w: 13 volumes. NEW QUESTION for Adam: complete Merivale's Romans under the Empire with vols. VI-VIII from later impressions of the same Longmans edition (1868/1872/1904)? Recommendation: yes, flagged per volume; it is part of the standing later-printings ruling.
