@@ -5658,6 +5658,193 @@ Shelf: `pipeline/percy-gardner_shelf.json`. Percy Gardner (1846-1937), Oxford cl
 |---|---|---|---|
 | Sculptured Tombs of Hellas |  | `percy-gardner-sculptured-tombs-hellas` | have (PG 69508) |
 
+## Walter Pater (scholarship)
+
+Shelf: `pipeline/pater_shelf.json`. Walter Pater (1839-1894), Brasenose College, Oxford: 2 clean Gutenberg texts. His Renaissance and fiction are outside the classical brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Greek Studies: a Series of Essays |  | `pater-greek-studies` | have (PG 4035) |
+| Plato and Platonism |  | `pater-plato-and-platonism` | have (PG 4095) |
+
+## F. B. Tarbell (scholarship)
+
+Shelf: `pipeline/f-b-tarbell_shelf.json`. Frank Bigelow Tarbell (1853-1920), University of Chicago: 1 clean Gutenberg text. Initials keep him apart from Ida M. Tarbell. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Greek Art, with an introductory chapter on art in Egypt and Mesopotamia |  | `tarbell-history-greek-art` | have (PG 4390) |
+
+## William Stearns Davis (scholarship)
+
+Shelf: `pipeline/w-s-davis_shelf.json`. William Stearns Davis (1877-1930), historian: 2 clean Gutenberg texts. His historical novels are outside the brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Day in Old Athens: a Picture of Athenian Life |  | `w-s-davis-day-in-old-athens` | have (PG 4716) |
+| A Day in Old Rome |  | `w-s-davis-day-in-old-rome` | have (PG 76087) |
+
+## T. G. Tucker (scholarship)
+
+Shelf: `pipeline/t-g-tucker_shelf.json`. Thomas George Tucker (1859-1946), Professor of Classical Philology at Melbourne: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Life in the Roman World of Nero and St. Paul |  | `tucker-life-roman-world-nero-paul` | have (PG 12875) |
+| Sappho |  | `tucker-sappho` | have (PG 60906) |
+
+## Guglielmo Ferrero (scholarship)
+
+Shelf: `pipeline/ferrero_shelf.json`. Guglielmo Ferrero (1871-1942) in English: 3 clean Gutenberg texts. Translators are as each Gutenberg file names them; not separately checked. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Characters and Events of Roman History | Frances Lance Ferrero | `ferrero-characters-events-roman-history` | have (PG 13208) |
+| The Women of the Caesars | Christian Gauss | `ferrero-women-of-the-caesars` | have (PG 16324) |
+| Ancient Rome and Modern America |  | `ferrero-ancient-rome-modern-america` | have (PG 66901) |
+
+## Frank Frost Abbott (scholarship)
+
+Shelf: `pipeline/frank-frost-abbott_shelf.json`. Frank Frost Abbott (1860-1924), Princeton: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Common People of Ancient Rome: Studies of Roman Life and Literature |  | `abbott-common-people-ancient-rome` | have (PG 13226) |
+| Roman Politics |  | `abbott-roman-politics` | have (PG 68064) |
+
+## Grant Showerman (scholarship)
+
+Shelf: `pipeline/showerman_shelf.json`. Grant Showerman (1870-1935), Wisconsin: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Horace and His Influence |  | `showerman-horace-and-his-influence` | have (PG 16801) |
+
+## Ernest A. Gardner (scholarship)
+
+Shelf: `pipeline/ernest-gardner_shelf.json`. Ernest Arthur Gardner (1862-1939), Director of the British School at Athens: 1 clean Gutenberg text. Brother of Percy Gardner, whose book has its own shelf. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Religion and Art in Ancient Greece |  | `ernest-gardner-religion-art-ancient-greece` | have (PG 20523) |
+
+## Franz Cumont (scholarship)
+
+Shelf: `pipeline/cumont_shelf.json`. Franz Cumont (1868-1947) in English: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Oriental Religions in Roman Paganism |  | `cumont-oriental-religions-roman-paganism` | have (PG 22213) |
+| After Life in Roman Paganism |  | `cumont-after-life-roman-paganism` | have (PG 64297) |
+
+## How and Wells (scholarship)
+
+Shelf: `pipeline/how-wells_shelf.json`. Walter Wybergh How (1861-1932) and Joseph Wells (1855-1929): 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Commentary on Herodotus |  | `how-wells-commentary-herodotus` | have (PG 24146) |
+
+## D. B. Monro (scholarship)
+
+Shelf: `pipeline/monro_shelf.json`. David Binning Monro (1836-1905), Provost of Oriel: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Modes of Ancient Greek Music |  | `monro-modes-ancient-greek-music` | have (PG 40288) |
+
+## Harold Whetstone Johnston (scholarship)
+
+Shelf: `pipeline/h-w-johnston_shelf.json`. Harold Whetstone Johnston (1859-1912), Indiana University: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Private Life of the Romans |  | `johnston-private-life-romans` | have (PG 40549) |
+
+## August Mau (scholarship)
+
+Shelf: `pipeline/mau_shelf.json`. August Mau (1840-1909) in English, tr. Francis W. Kelsey (1858-1927): 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Pompeii, Its Life and Art | Francis W. Kelsey | `mau-pompeii-life-and-art` | have (PG 42715) |
+
+## Harold North Fowler (scholarship)
+
+Shelf: `pipeline/h-n-fowler_shelf.json`. Harold North Fowler (1859-1955), Western Reserve University: 1 clean Gutenberg text. He died in 1955, so the book is public domain under life plus 70 from 2026 as well as in the US. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Roman Literature |  | `h-n-fowler-history-roman-literature` | have (PG 44975) |
+
+## Heinrich Schliemann (scholarship)
+
+Shelf: `pipeline/schliemann_shelf.json`. Heinrich Schliemann (1822-1890), in English: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Troy and Its Remains (ed. Philip Smith) | L. Dora Schmitz | `schliemann-troy-and-its-remains` | have (PG 45190) |
+| Mycenae: a narrative of researches and discoveries at Mycenae and Tiryns (preface by W. E. Gladstone) |  | `schliemann-mycenae` | have (PG 56940) |
+
+## W. E. Gladstone (scholarship)
+
+Shelf: `pipeline/gladstone-homer_shelf.json`. William Ewart Gladstone (1809-1898), Studies on Homer and the Homeric Age (Oxford, 1858): 3 clean Gutenberg texts. The shelf is for his Homeric work only; his politics are outside the brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Studies on Homer and the Homeric Age, vol. 1 |  | `gladstone-studies-homer-v1` | have (PG 47356) |
+| Studies on Homer and the Homeric Age, vol. 2 |  | `gladstone-studies-homer-v2` | have (PG 49858) |
+| Studies on Homer and the Homeric Age, vol. 3 |  | `gladstone-studies-homer-v3` | have (PG 53004) |
+
+## H. B. Walters (scholarship)
+
+Shelf: `pipeline/h-b-walters_shelf.json`. Henry Beauchamp Walters (1867-1944), British Museum; with Samuel Birch: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of Ancient Pottery: Greek, Etruscan, and Roman, vol. 1 |  | `walters-history-ancient-pottery-v1` | have (PG 48154) |
+| History of Ancient Pottery: Greek, Etruscan, and Roman, vol. 2 |  | `walters-history-ancient-pottery-v2` | have (PG 48155) |
+
+## J. G. Frazer (scholarship)
+
+Shelf: `pipeline/frazer-greece_shelf.json`. Sir James George Frazer (1854-1941): his Greek writing only: 1 clean Gutenberg text. His Pausanias translation is on the pausanias shelf; The Golden Bough is comparative religion and is left out. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Studies in Greek Scenery, Legend and History, selected from his commentary on Pausanias |  | `frazer-studies-greek-scenery` | have (PG 56002) |
+
+## Matthew Arnold (scholarship)
+
+Shelf: `pipeline/matthew-arnold-homer_shelf.json`. Matthew Arnold (1822-1888): On Translating Homer, with F. W. Newman's reply: 1 clean Gutenberg text. The shelf is for this book only. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| On Translating Homer |  | `arnold-on-translating-homer` | have (PG 65381) |
+
+## Evelyn S. Shuckburgh (scholarship)
+
+Shelf: `pipeline/shuckburgh_shelf.json`. Evelyn Shirley Shuckburgh (1843-1906): 1 clean Gutenberg text. His translations (Polybius, Cicero's letters) are on those shelves. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Augustus: the Life and Times of the Founder of the Roman Empire |  | `shuckburgh-augustus` | have (PG 66609) |
+
+## Gaston Boissier (scholarship)
+
+Shelf: `pipeline/boissier_shelf.json`. Gaston Boissier (1823-1908) in English, tr. Adnah David Jones: 1 clean Gutenberg text. The translator's death year was not checked. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Cicero and His Friends | Adnah David Jones | `boissier-cicero-and-his-friends` | have (PG 72216) |
+
+## P. N. Ure (scholarship)
+
+Shelf: `pipeline/p-n-ure_shelf.json`. Percy Neville Ure (1879-1950), Reading: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Origin of Tyranny |  | `ure-origin-of-tyranny` | have (PG 62364) |
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.
