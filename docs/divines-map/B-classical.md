@@ -2862,6 +2862,8 @@ Shelf: `pipeline/schliemann_shelf.json`. Heinrich Schliemann (1822-1890), in Eng
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Troy and Its Remains (ed. Philip Smith) | L. Dora Schmitz | `schliemann-troy-and-its-remains` | have (PG 45190) |
+| Mycenae: a narrative of researches and discoveries at Mycenae and Tiryns (preface by W. E. Gladstone) |  | `schliemann-mycenae` | have (PG 56940) |
 
 ## W. E. Gladstone (scholarship)
 
