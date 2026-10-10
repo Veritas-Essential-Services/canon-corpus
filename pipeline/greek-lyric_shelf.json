@@ -65,6 +65,11 @@
    "collectionsfromg00blanuoft",
    "Collections from the Greek Anthology, and from the pastoral, elegiac and dramatic poets of Greece (London: John Murray, 1813)",
    "tr. Robert Bland and others"
+  ],
+  "greek-anthology-perry-garden-of-hellas-1891": [
+   "fromgardenofhell00unse",
+   "From the Garden of Hellas: translations into verse from the Greek Anthology (New York: United States Book Company, 1891)",
+   "tr. Lilla Cabot Perry"
   ]
  },
  "_excluded": {
@@ -75,7 +80,9 @@
   "Carman, O'Hara, Stacpoole Sappho versions (PG 12389, 42166, 42543)": "free modern recreations, not translations; not taken",
   "bub_gb_3QevpbXOklcC": "Fawkes's Anacreon, Sappho and Musaeus, 1810 reprint (Suttaby); the 1760 edition is held as anacreon-fawkes-1760.",
   "odesofanacreonof00anac": "The Odes of Anacreon of Teos, literally translated into English prose (1806): OCR 0.70, under the 0.78 bar.",
-  "Edward Fry, Lady Fry and Agnes Fry, A Century of Greek Epigrams (privately printed, 1915)": "IA centuryofgreekep00fryerich reads 0.759 (Greek text facing), under the bar, and Agnes Fry is a co-translator whose death year was not checked, so UK status is open; US PD by date. Not taken"
+  "Edward Fry, Lady Fry and Agnes Fry, A Century of Greek Epigrams (privately printed, 1915)": "IA centuryofgreekep00fryerich reads 0.759 (Greek text facing), under the bar, and Agnes Fry is a co-translator whose death year was not checked, so UK status is open; US PD by date. Not taken",
+  "Evelyn Baring, Earl of Cromer, Paraphrases and Translations from the Greek (1903)": "IA paraphrasestrans00cromrich reads 0.734 (Greek facing); under the bar, part of the Greek-facing question",
+  "Arthur D. Innes, Verse Translations from Greek and Latin Poets (1894)": "IA versetranslation00innerich reads 0.625; refused for OCR quality 2026-10-10"
  },
  "_surname": [
   "sappho",
@@ -97,7 +104,8 @@
   "anacreon-arnold-1869": "thomas james arnold",
   "greek-anthology-macgregor": "robert guthrie macgregor",
   "anacreon-stanley-1815": "thomas stanley",
-  "greek-anthology-bland-1813": "robert bland"
+  "greek-anthology-bland-1813": "robert bland",
+  "greek-anthology-perry-garden-of-hellas-1891": "lilla cabot perry"
  },
  "_checks": {
   "greek-anthology-mackail": {
@@ -239,6 +247,20 @@
    "ia_date": "1813",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "greek-anthology-perry-garden-of-hellas-1891": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "lilla cabot perry",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title verso: 'Copyright, 1891, by United States Book Company'; US PD by date. The translator died in 1933, so UK PD since 2004 (death year from general reference, not from this book)"
   }
  },
  "_surname_by_slug": {
@@ -265,6 +287,7 @@
   ]
  },
  "_rights_checked": {
-  "greek-anthology-macgregor": "Title page read 2026-10-10: 'Translated by Major Robert Guthrie MacGregor. London: Nissen & Parker, 43, Mark Lane', no year. The preface refers to his 1857 Epitaphs from the Greek Anthology and to 1854-55; the dedication addresses W. E. Gladstone, M.P. and P.C., as living (he died 1898). A nineteenth-century printing, so public domain."
+  "greek-anthology-macgregor": "Title page read 2026-10-10: 'Translated by Major Robert Guthrie MacGregor. London: Nissen & Parker, 43, Mark Lane', no year. The preface refers to his 1857 Epitaphs from the Greek Anthology and to 1854-55; the dedication addresses W. E. Gladstone, M.P. and P.C., as living (he died 1898). A nineteenth-century printing, so public domain.",
+  "greek-anthology-perry-garden-of-hellas-1891": "title verso: 'Copyright, 1891, by United States Book Company'; US PD by date. The translator died in 1933, so UK PD since 2004 (death year from general reference, not from this book)"
  }
 }

@@ -1543,6 +1543,7 @@ Shelf: `pipeline/greek-lyric_shelf.json`. Mackail, Wharton's Sappho, Moore's Ana
 | Greek Anthology, with notes critical and explanatory (London: Nissen and Parker; undated, after 1857 by its preface) | Robert Guthrie MacGregor | `greek-anthology-macgregor` | have-raw (IA `greekanthologywi00macguoft`) |
 | Anacreon, Bion and Moschus, with other translations, first printed 1651, a new edition (London: Longman, 1815) | Thomas Stanley | `anacreon-stanley-1815` | have-raw (IA `anacreonbionmosc00bionuoft`) |
 | Collections from the Greek Anthology, and from the pastoral, elegiac and dramatic poets of Greece (London: John Murray, 1813) | Robert Bland and others | `greek-anthology-bland-1813` | have-raw (IA `collectionsfromg00blanuoft`) |
+| From the Garden of Hellas: translations into verse from the Greek Anthology (New York: United States Book Company, 1891) | Lilla Cabot Perry | `greek-anthology-perry-garden-of-hellas-1891` | have-raw (IA `fromgardenofhell00unse`) |
 
 Pending (wishlist): Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus/Aratus/Oppian (all Loebs, Greek facing). Callimachus, Aratus, Tryphiodorus and Musaeus in older translations are on the late-greek-poets shelf.
 
