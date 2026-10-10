@@ -1,5 +1,5 @@
 {
- "_about": "Edward Augustus Freeman (1823-1892), Regius Professor of Modern History at Oxford: History of Federal Government in Greece and Italy, second edition edited by J. B. Bury (London: Macmillan), raw IA OCR, and Studies of Travel: Greece, clean Gutenberg. The federal-government title page year reads '1883' in the OCR; Bury's second edition is catalogued by IA as 1893, so the OCR likely misreads it (an inference). His English medieval histories are outside the classical brief. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Edward Augustus Freeman (1823-1892), Regius Professor of Modern History at Oxford: History of Federal Government in Greece and Italy, second edition edited by J. B. Bury (London: Macmillan), raw IA OCR, and Studies of Travel: Greece, clean Gutenberg. The federal-government title page year reads '1883' in the OCR; Bury's second edition is catalogued by IA as 1893, so the OCR likely misreads it (an inference). Also The History of Sicily from the Earliest Times, 4 vols. (Clarendon Press, 1891-1894), raw IA OCR; vol. IV was edited from his posthumous papers by Arthur J. Evans (died 1941). His English medieval histories are outside the classical brief. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
  "_name_words": [
   "freeman"
  ],
@@ -20,6 +20,22 @@
   "e-a-freeman-federal-government-1893": [
    "historyoffederal00freeuoft",
    "History of Federal Government in Greece and Italy, second edition, ed. J. B. Bury (London: Macmillan)"
+  ],
+  "e-a-freeman-sicily-v1-1891": [
+   "historyofsicilyf01free",
+   "The History of Sicily from the Earliest Times, vol. I (Oxford: Clarendon Press, 1891)"
+  ],
+  "e-a-freeman-sicily-v2-1891": [
+   "historyofsicilyf02free",
+   "The History of Sicily from the Earliest Times, vol. II (Oxford: Clarendon Press, 1891)"
+  ],
+  "e-a-freeman-sicily-v3-1892": [
+   "historysicilyfr02freegoog",
+   "The History of Sicily from the Earliest Times, vol. III (Oxford: Clarendon Press, 1892)"
+  ],
+  "e-a-freeman-sicily-v4-1894": [
+   "historyofsicilyf04free",
+   "The History of Sicily from the Earliest Times, vol. IV, edited from posthumous MSS. by Arthur J. Evans (Oxford: Clarendon Press, 1894)"
   ]
  },
  "_checks": {
@@ -42,6 +58,58 @@
    "ia_date": "1893",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "e-a-freeman-sicily-v1-1891": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "e-a-freeman-sicily-v2-1891": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward a. freeman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "e-a-freeman-sicily-v3-1892": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "e-a-freeman-sicily-v4-1894": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward a. freeman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "e-a-freeman-sicily-v1-1891": {
+   "author": "title page read 2026-10-10: OCR gives 'HDWARD A. FREEMAN, M.A., Hon. D.C.L., LL.D. REGIUS PROFESSOR OF MODERN HISTORY', Clarendon Press 1891 (E. A. Freeman); the OCR misreads the E"
+  },
+  "e-a-freeman-sicily-v3-1892": {
+   "author": "title page read 2026-10-10: OCR gives 'EDWAED A. FREEMAN, MA., Hon. D.C.L., LL.D.', vol. III, Clarendon Press 1892 (E. A. Freeman); the OCR misreads the R"
   }
  }
 }
