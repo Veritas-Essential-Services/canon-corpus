@@ -3352,6 +3352,8 @@ Shelf: `pipeline/lewis-campbell_shelf.json`. A Guide to Greek Tragedy for Englis
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Guide to Greek Tragedy for English Readers (London: Percival, 1891) |  | `lewis-campbell-guide-greek-tragedy-1891` | have-raw (IA `guidetogreektrag00camp`) |
+| Religion in Greek Literature: a Sketch in Outline (London: Longmans, Green, 1898) |  | `lewis-campbell-religion-greek-literature-1898` | have-raw (IA `religioningreek00camp`) |
 
 ## R. G. Moulton (scholarship)
 

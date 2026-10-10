@@ -1,0 +1,46 @@
+{
+ "_about": "Lewis Campbell (1830-1908), Professor of Greek at St Andrews: A Guide to Greek Tragedy for English Readers (London: Percival, 1891) and Religion in Greek Literature (London: Longmans, Green, 1898), raw IA OCR. His verse Sophocles and Aeschylus are translations, outside this shelf. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "campbell"
+ ],
+ "_surname": [
+  "lewis campbell",
+  "campbell, lewis"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lewis-campbell-guide-greek-tragedy-1891": [
+   "guidetogreektrag00camp",
+   "A Guide to Greek Tragedy for English Readers (London: Percival, 1891)"
+  ],
+  "lewis-campbell-religion-greek-literature-1898": [
+   "religioningreek00camp",
+   "Religion in Greek Literature: a Sketch in Outline (London: Longmans, Green, 1898)"
+  ]
+ },
+ "_checks": {
+  "lewis-campbell-guide-greek-tragedy-1891": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lewis campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lewis-campbell-religion-greek-literature-1898": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lewis campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
