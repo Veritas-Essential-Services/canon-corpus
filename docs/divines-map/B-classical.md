@@ -2922,6 +2922,7 @@ Shelf: `pipeline/p-n-ure_shelf.json`. Percy Neville Ure (1879-1950), Reading: 1 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Origin of Tyranny |  | `ure-origin-of-tyranny` | have (PG 62364) |
 
 ## Perseus census (overflow)
 
