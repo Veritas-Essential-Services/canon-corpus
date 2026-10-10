@@ -271,6 +271,11 @@
    "selectlettersci01cicegoog",
    "Select Letters of Cicero, literally translated (New York: Arthur Hinds, copyright 1891)",
    "tr. anonymous (the title page names no translator)"
+  ],
+  "cicero-moor-de-oratore-i-1892": [
+   "deoratorebook1tr00ciceuoft",
+   "Cicero, De Oratore, Book I, translated into English with an introduction (London, 1892)",
+   "tr. E. N. P. Moor"
   ]
  },
  "_surname": [
@@ -323,7 +328,8 @@
   "cicero-melmoth-letters-1808-v1": "Melmoth",
   "cicero-smith-amicitia-1897": "benjamin e. smith",
   "cicero-black-tusculan-i-1889": "robert black",
-  "cicero-duncan-select-orations-1841": "william duncan"
+  "cicero-duncan-select-orations-1841": "william duncan",
+  "cicero-moor-de-oratore-i-1892": "e. n. p. moor"
  },
  "_translator_unchecked": {
   "cicero-ker-philippics": "translator on the row (Walter C. A. Ker) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -986,6 +992,20 @@
    "ia_date": "1891",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "cicero-moor-de-oratore-i-1892": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "e. n. p. moor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page: London, 1892. Public domain in the US by date; the translator's death year was not checked, so UK status rests on it (an assistant master at Clifton College in 1892)"
   }
  },
  "_held": {
@@ -994,6 +1014,7 @@
  "_rights_checked": {
   "cicero-watts-pro-archia-etc": "Imprint page read: 'First printed 1923, Reprinted 1935, 1955, 1961, 1965' (OCR '1028 ... 1985'); reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Taken as the 1923 text, US public domain.",
   "cicero-grose-hodge-pro-lege-manilia-etc": "Imprint page read: 'First printed 1927, Reprinted 1943, 1952, 1959, 1966'; reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Taken as the 1927 text, US public domain.",
-  "cicero-freese-pro-quinctio-etc": "Imprint page read: 'First printed 1930, Reprinted 1945, 1956, 1961, 1967'; reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Works first published in 1930 entered the US public domain on 2026-01-01. Taken as the 1930 text."
+  "cicero-freese-pro-quinctio-etc": "Imprint page read: 'First printed 1930, Reprinted 1945, 1956, 1961, 1967'; reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Works first published in 1930 entered the US public domain on 2026-01-01. Taken as the 1930 text.",
+  "cicero-moor-de-oratore-i-1892": "title page: London, 1892. Public domain in the US by date; the translator's death year was not checked, so UK status rests on it (an assistant master at Clifton College in 1892)"
  }
 }

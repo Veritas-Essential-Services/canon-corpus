@@ -1361,6 +1361,7 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | Death No Bane: a new translation, with copious illustrative notes, of Cicero's First Tusculan Disputation (London: Sampson Low, Marston, Searle and Rivington, 1889) | Robert Black | `cicero-black-tusculan-i-1889` | have-raw (IA `deathnobaneanew00blacgoog`) |
 | Select Orations of Cicero, translated into English, with notes historical, critical and explanatory (Oxford: J. Vincent for Thomas Tegg, 1841) | William Duncan | `cicero-duncan-select-orations-1841` | have-raw (IA `selectorationsc00cicegoog`) |
 | Select Letters of Cicero, literally translated (New York: Arthur Hinds, copyright 1891) | anonymous (the title page names no translator) | `cicero-select-letters-literal-1891` | have-raw (IA `selectlettersci01cicegoog`) |
+| Cicero, De Oratore, Book I, translated into English with an introduction (London, 1892) | E. N. P. Moor | `cicero-moor-de-oratore-i-1892` | have-raw (IA `deoratorebook1tr00ciceuoft`) |
 
 Pending (wishlist): King's Tusculans (Loeb 1927; only the 1945 revised printing has text, refused).
 
