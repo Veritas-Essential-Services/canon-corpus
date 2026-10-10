@@ -1,0 +1,47 @@
+{
+ "_about": "Anthony R. Montalba's Fairy Tales from All Nations (London, 1849), with Richard Doyle's illustrations (not in the text): tales from many countries set in his English. The Gutenberg catalogue gives no dates for Montalba; a book he put out in 1849 cannot be in anyone's copyright now. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Anthony R. Montalba",
+ "_name_words": [
+  "nations"
+ ],
+ "_surname": [
+  "anthony r. montalba",
+  "montalba"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "montalba-fairy-tales-from-all-nations": [
+   34956,
+   "Fairy Tales From All Nations",
+   {
+    "levels": [
+     {
+      "re": "(?!OR, |THE END)[A-Z][^a-z]*$",
+      "max": 120,
+      "strip": "[.;]$"
+     },
+     {
+      "re": "OR, [A-Z][^a-z]*$",
+      "max": 120,
+      "strip": "\\.$"
+     }
+    ],
+    "start": "THE BIRTH OF THE FAIRY TALE\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "montalba-fairy-tales-from-all-nations": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "anthony r. montalba",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
