@@ -2523,6 +2523,7 @@ Shelf: `pipeline/william-smith_shelf.json`. Smith's smaller histories of Greece 
 | Dictionary of Greek and Roman Biography and Mythology, ed. William Smith, vol. II (Boston: Little, Brown, 1870) |  | `william-smith-dictionary-biography-v2-1870` | have-raw (IA `dictionaryofgree02smituoft`) |
 | Dictionary of Greek and Roman Geography, ed. William Smith, vol. I, Abacaenum-Hytanis (Boston: Little, Brown, 1854) |  | `william-smith-dictionary-geography-v1-1854` | have-raw (IA `dictionarygreek16smitgoog`) |
 | Dictionary of Greek and Roman Geography, ed. William Smith, vol. II, Iabadius-Zymethus (Boston: Little, Brown, 1870) |  | `william-smith-dictionary-geography-v2-1870` | have-raw (IA `dictionaryofgre02smit`) |
+| Dictionary of Greek and Roman Biography and Mythology, ed. William Smith, vol. III (Boston: Little, Brown, 1870) |  | `william-smith-dictionary-biography-v3-1870` | have-raw (IA `dictionaryofgree03smituoft`) |
 
 Excluded: Dictionary of Greek and Roman Geography vol. II (IA dictionaryofgrromgeo02smituoft) (no title page in the scan; the 1870 Boston vol. II is taken instead)
 
