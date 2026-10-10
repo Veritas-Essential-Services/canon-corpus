@@ -624,6 +624,54 @@
       "finished": "2026-10-10T11:00-05:00",
       "scope": "TRANSLATOR SHELF (round 20, lane C's choice; Adam may veto) -- dowson; PD printings before 1931 only; no minting",
       "notes": "3 titles; ids checked across all branches. See DIGEST-C round 20. No uids minted."
+    },
+    {
+      "id": "shelf-machen-casanova",
+      "status": "done",
+      "started": "2026-10-10T11:08-05:00",
+      "finished": "2026-10-10T11:08-05:00",
+      "scope": "TRANSLATOR SHELF (round 21, lane C's choice; Adam may veto) -- machen-casanova; PD printings before 1931 only; no minting",
+      "notes": "1 titles; ids checked across all branches. See DIGEST-C round 21. No uids minted."
+    },
+    {
+      "id": "shelf-ives",
+      "status": "done",
+      "started": "2026-10-10T11:08-05:00",
+      "finished": "2026-10-10T11:08-05:00",
+      "scope": "TRANSLATOR SHELF (round 21, lane C's choice; Adam may veto) -- ives; PD printings before 1931 only; no minting",
+      "notes": "18 titles; ids checked across all branches. See DIGEST-C round 21. No uids minted."
+    },
+    {
+      "id": "shelf-cj-hogarth",
+      "status": "done",
+      "started": "2026-10-10T11:08-05:00",
+      "finished": "2026-10-10T11:08-05:00",
+      "scope": "TRANSLATOR SHELF (round 21, lane C's choice; Adam may veto) -- cj-hogarth; PD printings before 1931 only; no minting",
+      "notes": "10 titles; ids checked across all branches. See DIGEST-C round 21. No uids minted."
+    },
+    {
+      "id": "shelf-herman-bernstein",
+      "status": "done",
+      "started": "2026-10-10T11:08-05:00",
+      "finished": "2026-10-10T11:08-05:00",
+      "scope": "TRANSLATOR SHELF (round 21, lane C's choice; Adam may veto) -- herman-bernstein; PD printings before 1931 only; no minting",
+      "notes": "9 titles; ids checked across all branches. See DIGEST-C round 21. No uids minted."
+    },
+    {
+      "id": "shelf-eleanor-marx-aveling",
+      "status": "done",
+      "started": "2026-10-10T11:08-05:00",
+      "finished": "2026-10-10T11:08-05:00",
+      "scope": "TRANSLATOR SHELF (round 21, lane C's choice; Adam may veto) -- eleanor-marx-aveling; PD printings before 1931 only; no minting",
+      "notes": "5 titles; ids checked across all branches. See DIGEST-C round 21. No uids minted."
+    },
+    {
+      "id": "shelf-bain-jokai",
+      "status": "done",
+      "started": "2026-10-10T11:08-05:00",
+      "finished": "2026-10-10T11:08-05:00",
+      "scope": "TRANSLATOR SHELF (round 21, lane C's choice; Adam may veto) -- bain-jokai; PD printings before 1931 only; no minting",
+      "notes": "12 titles; ids checked across all branches. See DIGEST-C round 21. No uids minted."
     }
   ]
 }

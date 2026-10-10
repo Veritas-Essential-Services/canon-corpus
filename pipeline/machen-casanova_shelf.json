@@ -1,0 +1,54 @@
+{
+ "_about": "TRANSLATOR SHELF: Arthur Machen (1863-1947) as translator: the Memoirs of Casanova (privately printed, 1894), shelved once as Gutenberg's complete text. Machen's own fiction is not a translation and is not here. US public domain. Added 2026-10-10 by lane C (round 21); Adam may veto. No uids minted.",
+ "_name_words": [
+  "arthur machen",
+  "machen"
+ ],
+ "_surname": [
+  "arthur machen",
+  "machen"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mac-2981": [
+   2981,
+   "The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Complete"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "machen-casanova-casanova-the-memoirs-of-jacques-casanova-de-seing": {
+   "source": "mac-2981",
+   "of": "Giacomo Casanova",
+   "work": "The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Complete",
+   "translated": "1894 (see the Gutenberg header)",
+   "translator": "Arthur Machen",
+   "scan_edition": "Project Gutenberg 2981 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "casanova-splits": "Gutenberg's 30 part-files (2951-2980), the 6-volume set (39301-39306) and the quotes digest (7538) are left out; the complete text (2981) is used."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mac-2981": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur machen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Machen"
+  }
+ },
+ "_verified": {
+  "mac-2981": {
+   "pg": 2981,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Machen"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

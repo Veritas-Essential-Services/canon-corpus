@@ -1,0 +1,499 @@
+{
+ "_about": "TRANSLATOR SHELF: George Burnham Ives (1856-1930): George Sand's novels (Barrie, Philadelphia, 1900-02), Daudet's The Nabob, Mérimée, Paul de Kock, Bourget, Aicard, and Bernard's Geofroy Tory (1909). He died in 1930, so every translation predates 1931. US public domain. Added 2026-10-10 by lane C (round 21); Adam may veto. No uids minted.",
+ "_name_words": [
+  "george burnham ives",
+  "george b. ives",
+  "g. b. ives"
+ ],
+ "_surname": [
+  "george burnham ives",
+  "george b. ives",
+  "g. b. ives"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ive-12816": [
+   12816,
+   "The Devil's Pool"
+  ],
+  "ive-20646": [
+   20646,
+   "The Nabob, Vol. 1 (of 2)"
+  ],
+  "ive-21329": [
+   21329,
+   "The Nabob, Vol. 2 (of 2)"
+  ],
+  "ive-33867": [
+   33867,
+   "King of Camargue"
+  ],
+  "ive-34338": [
+   34338,
+   "Monsieur Cherami"
+  ],
+  "ive-51820": [
+   51820,
+   "Honoré de Balzac"
+  ],
+  "ive-60542": [
+   60542,
+   "Geofroy Tory"
+  ],
+  "ive-63445": [
+   63445,
+   "Indiana"
+  ],
+  "ive-65170": [
+   65170,
+   "Antonia"
+  ],
+  "ive-67460": [
+   67460,
+   "The Sin of Monsieur Antoine, Volume 1 (of 2)"
+  ],
+  "ive-67461": [
+   67461,
+   "The Sin of Monsieur Antoine, Volume 2 (of 2) and Leone Leoni"
+  ],
+  "ive-67643": [
+   67643,
+   "Prosper Mérimée's Short Stories"
+  ],
+  "ive-68045": [
+   68045,
+   "She and he; Lavinia; Memoir"
+  ],
+  "ive-68859": [
+   68859,
+   "The weight of the name"
+  ],
+  "ive-69331": [
+   69331,
+   "Les beaux messieurs de Bois-Doré Vol. 1 (of 2)"
+  ],
+  "ive-69332": [
+   69332,
+   "Les beaux messieurs de Bois-Doré Vol. 2 (of 2)"
+  ],
+  "ive-69839": [
+   69839,
+   "The Piccinino, Volume 1 (of 2)"
+  ],
+  "ive-69840": [
+   69840,
+   "The Piccinino, Volume 2 (of 2); The last of Aldinis"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ives-aicard-king-of-camargue": {
+   "source": "ive-33867",
+   "of": "Jean Aicard",
+   "work": "King of Camargue",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 33867 (clean text)"
+  },
+  "ives-balzac-honore-de-balzac": {
+   "source": "ive-51820",
+   "of": "Honoré de Balzac",
+   "work": "Honoré de Balzac",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 51820 (clean text)",
+   "note": "A Balzac selection edited by Alexander Jessup with Brunetière's introduction; Ives is credited as translator."
+  },
+  "ives-bernard-geofroy-tory": {
+   "source": "ive-60542",
+   "of": "Auguste Bernard",
+   "work": "Geofroy Tory",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 60542 (clean text)"
+  },
+  "ives-bourget-the-weight-of-the-name": {
+   "source": "ive-68859",
+   "of": "Paul Bourget",
+   "work": "The weight of the name",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 68859 (clean text)"
+  },
+  "ives-daudet-the-nabob-vol-1-of-2": {
+   "source": "ive-20646",
+   "of": "Alphonse Daudet",
+   "work": "The Nabob, Vol. 1 (of 2)",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 20646 (clean text)"
+  },
+  "ives-daudet-the-nabob-vol-2-of-2": {
+   "source": "ive-21329",
+   "of": "Alphonse Daudet",
+   "work": "The Nabob, Vol. 2 (of 2)",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 21329 (clean text)"
+  },
+  "ives-kock-monsieur-cherami": {
+   "source": "ive-34338",
+   "of": "Paul de Kock",
+   "work": "Monsieur Cherami",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 34338 (clean text)"
+  },
+  "ives-merimee-prosper-merimee-s-short-stories": {
+   "source": "ive-67643",
+   "of": "Prosper Mérimée",
+   "work": "Prosper Mérimée's Short Stories",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 67643 (clean text)"
+  },
+  "ives-sand-antonia": {
+   "source": "ive-65170",
+   "of": "George Sand",
+   "work": "Antonia",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 65170 (clean text)"
+  },
+  "ives-sand-indiana": {
+   "source": "ive-63445",
+   "of": "George Sand",
+   "work": "Indiana",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 63445 (clean text)"
+  },
+  "ives-sand-les-beaux-messieurs-de-bois-dore-vol-1-o": {
+   "source": "ive-69331",
+   "of": "George Sand",
+   "work": "Les beaux messieurs de Bois-Doré Vol. 1 (of 2)",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 69331 (clean text)"
+  },
+  "ives-sand-les-beaux-messieurs-de-bois-dore-vol-2-o": {
+   "source": "ive-69332",
+   "of": "George Sand",
+   "work": "Les beaux messieurs de Bois-Doré Vol. 2 (of 2)",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 69332 (clean text)"
+  },
+  "ives-sand-she-and-he-lavinia-memoir": {
+   "source": "ive-68045",
+   "of": "George Sand",
+   "work": "She and he; Lavinia; Memoir",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 68045 (clean text)"
+  },
+  "ives-sand-the-devil-s-pool": {
+   "source": "ive-12816",
+   "of": "George Sand",
+   "work": "The Devil's Pool",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 12816 (clean text)"
+  },
+  "ives-sand-the-piccinino-volume-1-of-2": {
+   "source": "ive-69839",
+   "of": "George Sand",
+   "work": "The Piccinino, Volume 1 (of 2)",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 69839 (clean text)"
+  },
+  "ives-sand-the-piccinino-volume-2-of-2-the-last-of": {
+   "source": "ive-69840",
+   "of": "George Sand",
+   "work": "The Piccinino, Volume 2 (of 2); The last of Aldinis",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 69840 (clean text)"
+  },
+  "ives-sand-the-sin-of-monsieur-antoine-volume-1-of": {
+   "source": "ive-67460",
+   "of": "George Sand",
+   "work": "The Sin of Monsieur Antoine, Volume 1 (of 2)",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 67460 (clean text)"
+  },
+  "ives-sand-the-sin-of-monsieur-antoine-volume-2-of": {
+   "source": "ive-67461",
+   "of": "George Sand",
+   "work": "The Sin of Monsieur Antoine, Volume 2 (of 2) and Leone Leoni",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "George Burnham Ives",
+   "scan_edition": "Project Gutenberg 67461 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-28810": "Gutenberg 28810 (The Devil's Pool) has no plain-text file; 12816 is used."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ive-12816": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-20646": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-21329": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-33867": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-34338": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-51820": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-60542": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-63445": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-65170": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-67460": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-67461": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-67643": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-68045": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-68859": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-69331": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-69332": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-69839": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-69840": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george burnham ives",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Burnham Ives"
+  }
+ },
+ "_verified": {
+  "ive-12816": {
+   "pg": 12816,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-20646": {
+   "pg": 20646,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-21329": {
+   "pg": 21329,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-33867": {
+   "pg": 33867,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-34338": {
+   "pg": 34338,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-51820": {
+   "pg": 51820,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-60542": {
+   "pg": 60542,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-63445": {
+   "pg": 63445,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-65170": {
+   "pg": 65170,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-67460": {
+   "pg": 67460,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-67461": {
+   "pg": 67461,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-67643": {
+   "pg": 67643,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-68045": {
+   "pg": 68045,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-68859": {
+   "pg": 68859,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-69331": {
+   "pg": 69331,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-69332": {
+   "pg": 69332,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-69839": {
+   "pg": 69839,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  },
+  "ive-69840": {
+   "pg": 69840,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Burnham Ives"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

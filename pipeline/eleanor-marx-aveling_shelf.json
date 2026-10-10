@@ -1,0 +1,158 @@
+{
+ "_about": "TRANSLATOR SHELF: Eleanor Marx Aveling (1855-1898): the first English Madame Bovary (1886), Ibsen's The Lady from the Sea and The Wild Duck, Lissagaray's History of the Commune (1886) and Plekhanov. US public domain. Added 2026-10-10 by lane C (round 21); Adam may veto. No uids minted.",
+ "_name_words": [
+  "eleanor marx aveling",
+  "eleanor marx",
+  "marx aveling"
+ ],
+ "_surname": [
+  "eleanor marx aveling",
+  "eleanor marx",
+  "marx aveling"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ema-2413": [
+   2413,
+   "Madame Bovary"
+  ],
+  "ema-2765": [
+   2765,
+   "The Lady from the Sea"
+  ],
+  "ema-30506": [
+   30506,
+   "Anarchism and Socialism"
+  ],
+  "ema-36043": [
+   36043,
+   "History of the Commune of 1871"
+  ],
+  "ema-73631": [
+   73631,
+   "The wild duck"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "eleanor-marx-aveling-flaubert-madame-bovary": {
+   "source": "ema-2413",
+   "of": "Gustave Flaubert",
+   "work": "Madame Bovary",
+   "translated": "1886-1895 (see the Gutenberg header)",
+   "translator": "Eleanor Marx Aveling",
+   "scan_edition": "Project Gutenberg 2413 (clean text)"
+  },
+  "eleanor-marx-aveling-ibsen-the-lady-from-the-sea": {
+   "source": "ema-2765",
+   "of": "Henrik Ibsen",
+   "work": "The Lady from the Sea",
+   "translated": "1886-1895 (see the Gutenberg header)",
+   "translator": "Eleanor Marx Aveling",
+   "scan_edition": "Project Gutenberg 2765 (clean text)"
+  },
+  "eleanor-marx-aveling-ibsen-the-wild-duck": {
+   "source": "ema-73631",
+   "of": "Henrik Ibsen",
+   "work": "The wild duck",
+   "translated": "1886-1895 (see the Gutenberg header)",
+   "translator": "Eleanor Marx Aveling",
+   "scan_edition": "Project Gutenberg 73631 (clean text)"
+  },
+  "eleanor-marx-aveling-lissagaray-history-of-the-commune-of-1871": {
+   "source": "ema-36043",
+   "of": "Prosper-Olivier Lissagaray",
+   "work": "History of the Commune of 1871",
+   "translated": "1886-1895 (see the Gutenberg header)",
+   "translator": "Eleanor Marx Aveling",
+   "scan_edition": "Project Gutenberg 36043 (clean text)"
+  },
+  "eleanor-marx-aveling-plekhanov-anarchism-and-socialism": {
+   "source": "ema-30506",
+   "of": "Georgi Plekhanov",
+   "work": "Anarchism and Socialism",
+   "translated": "1886-1895 (see the Gutenberg header)",
+   "translator": "Eleanor Marx Aveling",
+   "scan_edition": "Project Gutenberg 30506 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ema-2413": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eleanor marx aveling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eleanor Marx Aveling"
+  },
+  "ema-2765": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eleanor marx aveling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eleanor Marx Aveling"
+  },
+  "ema-30506": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eleanor marx aveling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eleanor Marx Aveling"
+  },
+  "ema-36043": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eleanor marx aveling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eleanor Marx Aveling"
+  },
+  "ema-73631": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eleanor marx aveling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eleanor Marx Aveling"
+  }
+ },
+ "_verified": {
+  "ema-2413": {
+   "pg": 2413,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eleanor Marx Aveling"
+  },
+  "ema-2765": {
+   "pg": 2765,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eleanor Marx Aveling"
+  },
+  "ema-30506": {
+   "pg": 30506,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eleanor Marx Aveling"
+  },
+  "ema-36043": {
+   "pg": 36043,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eleanor Marx Aveling"
+  },
+  "ema-73631": {
+   "pg": 73631,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eleanor Marx Aveling"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

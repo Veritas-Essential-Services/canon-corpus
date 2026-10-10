@@ -6586,6 +6586,113 @@ Round 20 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `dowson-laclos-les-liaisons-dangereuses-volume-1-of-2` | Choderlos de Laclos | Les liaisons dangereuses, volume 1 (of 2) | Ernest Dowson | 1896-1898 (see the Gutenberg header) | have | PG 69891 |
 | `dowson-laclos-les-liaisons-dangereuses-volume-2-of-2` | Choderlos de Laclos | Les liaisons dangereuses, volume 2 (of 2) | Ernest Dowson | 1896-1898 (see the Gutenberg header) | have | PG 69913 |
 
+## Arthur Machen as translator (Casanova's Memoirs, 1894)
+
+Shelf: `pipeline/machen-casanova_shelf.json` · fetch `python3 pipeline/fetch_shelf.py machen-casanova` · titles `python3 pipeline/split_shelf_titles.py machen-casanova`.
+Round 21 (2026-10-10), vetoable. One complete text, not Gutenberg's 30 part-files. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `machen-casanova-casanova-the-memoirs-of-jacques-casanova-de-seing` | Giacomo Casanova | The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Complete | Arthur Machen | 1894 (see the Gutenberg header) | have | PG 2981 |
+| — | — | casanova-splits: Gutenberg's 30 part-files (2951-2980), the 6-volume set (39301-39306) and the quotes digest (7538) are left out; the complete text (2981) is used. | — | — | excluded | — |
+
+## George Burnham Ives (George Sand, Daudet, Mérimée, Bourget)
+
+Shelf: `pipeline/ives_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ives` · titles `python3 pipeline/split_shelf_titles.py ives`.
+Round 21 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ives-aicard-king-of-camargue` | Jean Aicard | King of Camargue | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 33867 |
+| `ives-balzac-honore-de-balzac` | Honoré de Balzac | Honoré de Balzac | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 51820 |
+| `ives-bernard-geofroy-tory` | Auguste Bernard | Geofroy Tory | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 60542 |
+| `ives-bourget-the-weight-of-the-name` | Paul Bourget | The weight of the name | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 68859 |
+| `ives-daudet-the-nabob-vol-1-of-2` | Alphonse Daudet | The Nabob, Vol. 1 (of 2) | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 20646 |
+| `ives-daudet-the-nabob-vol-2-of-2` | Alphonse Daudet | The Nabob, Vol. 2 (of 2) | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 21329 |
+| `ives-kock-monsieur-cherami` | Paul de Kock | Monsieur Cherami | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 34338 |
+| `ives-merimee-prosper-merimee-s-short-stories` | Prosper Mérimée | Prosper Mérimée's Short Stories | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 67643 |
+| `ives-sand-antonia` | George Sand | Antonia | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 65170 |
+| `ives-sand-indiana` | George Sand | Indiana | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 63445 |
+| `ives-sand-les-beaux-messieurs-de-bois-dore-vol-1-o` | George Sand | Les beaux messieurs de Bois-Doré Vol. 1 (of 2) | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 69331 |
+| `ives-sand-les-beaux-messieurs-de-bois-dore-vol-2-o` | George Sand | Les beaux messieurs de Bois-Doré Vol. 2 (of 2) | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 69332 |
+| `ives-sand-she-and-he-lavinia-memoir` | George Sand | She and he; Lavinia; Memoir | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 68045 |
+| `ives-sand-the-devil-s-pool` | George Sand | The Devil's Pool | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 12816 |
+| `ives-sand-the-piccinino-volume-1-of-2` | George Sand | The Piccinino, Volume 1 (of 2) | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 69839 |
+| `ives-sand-the-piccinino-volume-2-of-2-the-last-of` | George Sand | The Piccinino, Volume 2 (of 2); The last of Aldinis | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 69840 |
+| `ives-sand-the-sin-of-monsieur-antoine-volume-1-of` | George Sand | The Sin of Monsieur Antoine, Volume 1 (of 2) | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 67460 |
+| `ives-sand-the-sin-of-monsieur-antoine-volume-2-of` | George Sand | The Sin of Monsieur Antoine, Volume 2 (of 2) and Leone Leoni | George Burnham Ives | 1898-1909 (see the Gutenberg header) | have | PG 67461 |
+| — | — | pg-28810: Gutenberg 28810 (The Devil's Pool) has no plain-text file; 12816 is used. | — | — | excluded | — |
+
+## C. J. Hogarth (Tolstoy's trilogy, Dostoevsky, Oblomov, Turgenev)
+
+Shelf: `pipeline/cj-hogarth_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cj-hogarth` · titles `python3 pipeline/split_shelf_titles.py cj-hogarth`.
+Round 21 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `cj-hogarth-andreyev-the-life-of-man-a-play-in-five-acts` | Leonid Andreyev | The Life of Man: A Play in Five Acts | C. J. Hogarth | 1912-1926 (see the Gutenberg header) | have | PG 49852 |
+| `cj-hogarth-dostoyevsky-poor-folk` | Fyodor Dostoyevsky | Poor Folk | C. J. Hogarth | 1912-1926 (see the Gutenberg header) | have | PG 2302 |
+| `cj-hogarth-dostoyevsky-the-gambler` | Fyodor Dostoyevsky | The Gambler | C. J. Hogarth | 1912-1926 (see the Gutenberg header) | have | PG 2197 |
+| `cj-hogarth-goncharov-oblomov` | Ivan Goncharov | Oblomov | C. J. Hogarth | 1912-1926 (see the Gutenberg header) | have | PG 54700 |
+| `cj-hogarth-gorky-through-russia` | Maksim Gorky | Through Russia | C. J. Hogarth | 1912-1926 (see the Gutenberg header) | have | PG 2288 |
+| `cj-hogarth-melgunov-the-red-terror-in-russia` | Sergei Melgunov | The red terror in Russia | C. J. Hogarth | 1912-1926 (see the Gutenberg header) | have | PG 77104 |
+| `cj-hogarth-tolstoy-boyhood` | Leo Tolstoy | Boyhood | C. J. Hogarth | 1912-1926 (see the Gutenberg header) | have | PG 2450 |
+| `cj-hogarth-tolstoy-childhood` | Leo Tolstoy | Childhood | C. J. Hogarth | 1912-1926 (see the Gutenberg header) | have | PG 2142 |
+| `cj-hogarth-tolstoy-youth` | Leo Tolstoy | Youth | C. J. Hogarth | 1912-1926 (see the Gutenberg header) | have | PG 2637 |
+| `cj-hogarth-turgenev-fathers-and-sons` | Ivan Turgenev | Fathers and Sons | C. J. Hogarth | 1912-1926 (see the Gutenberg header) | have | PG 47935 |
+| — | — | pg-19680: A second Gutenberg copy of Childhood; 2142 is used. | — | — | excluded | — |
+
+## Herman Bernstein (Andreyev, Gorky, Chekhov)
+
+Shelf: `pipeline/herman-bernstein_shelf.json` · fetch `python3 pipeline/fetch_shelf.py herman-bernstein` · titles `python3 pipeline/split_shelf_titles.py herman-bernstein`.
+Round 21 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `herman-bernstein-andreyev-anathema-a-tragedy-in-seven-scenes` | Leonid Andreyev | Anathema: A Tragedy in Seven Scenes | Herman Bernstein | 1901-1922 (see the Gutenberg header) | have | PG 49606 |
+| `herman-bernstein-andreyev-satan-s-diary` | Leonid Andreyev | Satan's Diary | Herman Bernstein | 1901-1922 (see the Gutenberg header) | have | PG 42665 |
+| `herman-bernstein-andreyev-the-crushed-flower-and-other-stories` | Leonid Andreyev | The Crushed Flower, and Other Stories | Herman Bernstein | 1901-1922 (see the Gutenberg header) | have | PG 5779 |
+| `herman-bernstein-andreyev-the-seven-who-were-hanged` | Leonid Andreyev | The Seven Who Were Hanged | Herman Bernstein | 1901-1922 (see the Gutenberg header) | have | PG 6722 |
+| `herman-bernstein-andreyev-the-sorrows-of-belgium-a-play-in-six-sce` | Leonid Andreyev | The Sorrows of Belgium: A Play in Six Scenes | Herman Bernstein | 1901-1922 (see the Gutenberg header) | have | PG 49596 |
+| `herman-bernstein-andreyev-the-waltz-of-the-dogs` | Leonid Andreyev | The waltz of the dogs | Herman Bernstein | 1901-1922 (see the Gutenberg header) | have | PG 78902 |
+| `herman-bernstein-chekhov-the-slanderer` | Anton Chekhov | The Slanderer | Herman Bernstein | 1901-1922 (see the Gutenberg header) | have | PG 23055 |
+| `herman-bernstein-gorky-the-man-who-was-afraid` | Maksim Gorky | The Man Who Was Afraid | Herman Bernstein | 1901-1922 (see the Gutenberg header) | have | PG 2709 |
+| `herman-bernstein-turgenev-the-rendezvous` | Ivan Turgenev | The Rendezvous | Herman Bernstein | 1901-1922 (see the Gutenberg header) | have | PG 23056 |
+
+## Eleanor Marx Aveling (Madame Bovary, Ibsen, Lissagaray)
+
+Shelf: `pipeline/eleanor-marx-aveling_shelf.json` · fetch `python3 pipeline/fetch_shelf.py eleanor-marx-aveling` · titles `python3 pipeline/split_shelf_titles.py eleanor-marx-aveling`.
+Round 21 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `eleanor-marx-aveling-flaubert-madame-bovary` | Gustave Flaubert | Madame Bovary | Eleanor Marx Aveling | 1886-1895 (see the Gutenberg header) | have | PG 2413 |
+| `eleanor-marx-aveling-ibsen-the-lady-from-the-sea` | Henrik Ibsen | The Lady from the Sea | Eleanor Marx Aveling | 1886-1895 (see the Gutenberg header) | have | PG 2765 |
+| `eleanor-marx-aveling-ibsen-the-wild-duck` | Henrik Ibsen | The wild duck | Eleanor Marx Aveling | 1886-1895 (see the Gutenberg header) | have | PG 73631 |
+| `eleanor-marx-aveling-lissagaray-history-of-the-commune-of-1871` | Prosper-Olivier Lissagaray | History of the Commune of 1871 | Eleanor Marx Aveling | 1886-1895 (see the Gutenberg header) | have | PG 36043 |
+| `eleanor-marx-aveling-plekhanov-anarchism-and-socialism` | Georgi Plekhanov | Anarchism and Socialism | Eleanor Marx Aveling | 1886-1895 (see the Gutenberg header) | have | PG 30506 |
+
+## R. Nisbet Bain's fiction (Jókai, Jonas Lie, Gorky)
+
+Shelf: `pipeline/bain-jokai_shelf.json` · fetch `python3 pipeline/fetch_shelf.py bain-jokai` · titles `python3 pipeline/split_shelf_titles.py bain-jokai`.
+Round 21 (2026-10-10), vetoable. His folk-tale books are on lane D's bain_shelf.json. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `bain-jokai-gorky-tales-from-gorky` | Maksim Gorky | Tales from Gorky | R. Nisbet Bain | 1893-1904 (see the Gutenberg header) | have | PG 56870 |
+| `bain-jokai-jokai-a-hungarian-nabob` | Mór Jókai | A Hungarian Nabob | R. Nisbet Bain | 1893-1904 (see the Gutenberg header) | have | PG 20978 |
+| `bain-jokai-jokai-eyes-like-the-sea-a-novel` | Mór Jókai | Eyes Like the Sea: A Novel | R. Nisbet Bain | 1893-1904 (see the Gutenberg header) | have | PG 31642 |
+| `bain-jokai-jokai-halil-the-pedlar-a-tale-of-old-stambul` | Mór Jókai | Halil the Pedlar: A Tale of Old Stambul | R. Nisbet Bain | 1893-1904 (see the Gutenberg header) | have | PG 17597 |
+| `bain-jokai-jokai-midst-the-wild-carpathians` | Mór Jókai | 'Midst the Wild Carpathians | R. Nisbet Bain | 1893-1904 (see the Gutenberg header) | have | PG 37339 |
+| `bain-jokai-jokai-pretty-michal` | Mór Jókai | Pretty Michal | R. Nisbet Bain | 1893-1904 (see the Gutenberg header) | have | PG 31886 |
+| `bain-jokai-jokai-tales-from-jokai` | Mór Jókai | Tales From Jókai | R. Nisbet Bain | 1893-1904 (see the Gutenberg header) | have | PG 37286 |
+| `bain-jokai-jokai-the-day-of-wrath` | Mór Jókai | The Day of Wrath | R. Nisbet Bain | 1893-1904 (see the Gutenberg header) | have | PG 23608 |
+| `bain-jokai-jokai-the-lion-of-janina-or-the-last-days-of-t` | Mór Jókai | The Lion of Janina; Or, The Last Days of the Janissaries: A Turkish Novel | R. Nisbet Bain | 1893-1904 (see the Gutenberg header) | have | PG 32234 |
+| `bain-jokai-jokai-the-poor-plutocrats` | Mór Jókai | The Poor Plutocrats | R. Nisbet Bain | 1893-1904 (see the Gutenberg header) | have | PG 18705 |
+| `bain-jokai-jokai-the-slaves-of-the-padishah` | Mór Jókai | The Slaves of the Padishah | R. Nisbet Bain | 1893-1904 (see the Gutenberg header) | have | PG 39048 |
+| `bain-jokai-lie-weird-tales-from-northern-seas` | Jonas Lie | Weird Tales from Northern Seas | R. Nisbet Bain | 1893-1904 (see the Gutenberg header) | have | PG 13508 |
+| — | — | folk-tales: Cossack Fairy Tales (29672), Polevoi's Russian Fairy Tales (34705) and Kúnos's Turkish Fairy Tales (64807) are on bain_shelf.json (lane D). | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

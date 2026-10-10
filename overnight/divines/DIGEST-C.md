@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T11:00-05:00: 76 shelves, 538 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40. **13 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T11:08-05:00: 82 shelves, 593 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55. **13 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -233,3 +233,19 @@ Four new shelves, 40 titles, all from Gutenberg, with the translator line read i
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Your call:** none beyond the veto. Aimard's frontier novels are period adventure fiction with the racial attitudes of the 1860s; they are shelved as period documents, the way the rest of the lane is. Veto them if that is not what the Armarium wants.
+
+
+## Round 21: Casanova, George Sand, and the Russians again (2026-10-10)
+
+Six new shelves, 55 titles, all from Gutenberg, with the translator line read in every header. No post-1930 year appears in any front matter:
+
+- **`machen-casanova`** (1): Arthur Machen's Casanova *Memoirs* (1894), as Gutenberg's one complete text rather than its 30 part-files.
+- **`ives`** (18): George Burnham Ives (d. 1930): ten George Sand novels for Barrie (1900-02), Daudet's *The Nabob*, Mérimée's stories, Paul de Kock, Bourget, Aicard, a Balzac selection, and Bernard's life of the printer Geofroy Tory.
+- **`cj-hogarth`** (10): C. J. Hogarth's Tolstoy (*Childhood*, *Boyhood*, *Youth*), Dostoevsky (*Poor Folk*, *The Gambler*), Goncharov's *Oblomov*, Turgenev's *Fathers and Sons*, Gorky, Andreyev and Melgunov's *Red Terror in Russia* (1926).
+- **`herman-bernstein`** (9): Herman Bernstein's Andreyev (6, including *The Seven Who Were Hanged*), Gorky, Chekhov and Turgenev.
+- **`eleanor-marx-aveling`** (5): Eleanor Marx Aveling's *Madame Bovary* (1886), Ibsen's *The Lady from the Sea* and *The Wild Duck*, Lissagaray's *History of the Commune* and Plekhanov.
+- **`bain-jokai`** (12): R. Nisbet Bain's fiction: ten Jókai books, Jonas Lie's *Weird Tales from Northern Seas* and *Tales from Gorky*. His three folk-tale books stay on lane D's `bain_shelf.json`; this shelf uses the name form "nisbet bain" only.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** none beyond the veto. Casanova's *Memoirs* are frank about his love affairs; veto if that is not wanted on the shelf.
