@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-03 07:16 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-09 21:57 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -274,6 +274,7 @@ Round 13 was done by 06:48 CDT on 3 October. Round 14 turns to Victorian Anglica
 | James Alexander Haldane | james-haldane_shelf.json | none | 5 (Social Worship 1805; Man's Responsibility 1842; Galatians 1848; Hebrews 1860; Atonement, 3rd ed. 1862) | none | none |
 | John Foster (essayist) | john-foster-essayist_shelf.json | 1 Gutenberg (Essay on the Evils of Popular Ignorance) | 7 (Essays in a Series of Letters, 10th ed. 1833; Broadmead Lectures, 2 series 1845-47; Life and Correspondence, 2 vols 1848; Critical Essays, 2 vols 1856) | none | none |
 | Edward Bickersteth | edward-bickersteth_shelf.json | none | 7 (Scripture Help 1821; Prayer 1839; Lord's Supper 1849; Christian Student 1830; Prophecies 1852; Promised Glory 1844; Baptism 1844) | none | Works (Carter, 1855): vol. 5 unavailable |
+| Henry Melvill | henry-melvill_shelf.json | none | 7 (Sermons ed. M'Ilvaine 2 vols 1853; Cambridge 1836; Less Prominent Facts 2 vols 1843/1846; Public Occasions 1846; Lothbury Lectures 1858) | none | Golden Lectures (no year on title page), alternate only |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

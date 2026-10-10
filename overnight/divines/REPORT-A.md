@@ -664,3 +664,6 @@
 
 ## 2026-10-03 07:16 CDT — edward-bickersteth done
 - `pipeline/edward-bickersteth_shelf.json`: 7 IA volumes, title pages read (Scripture Help is a "0000"-style id, an 1821 copy, in `_rights_checked`). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-09 21:57 CDT — henry-melvill done
+- `pipeline/henry-melvill_shelf.json`: 7 IA volumes. Public Occasions (1846) failed the name gate on an OCR artifact ("HENRY 'MELVILL"); title page read, recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

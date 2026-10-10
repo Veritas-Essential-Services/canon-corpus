@@ -2171,3 +2171,12 @@ Slugs `bickersteth-*`. The elder Bickersteth, not his son the Bishop of Exeter.
 |---|---|---|
 | A Scripture Help (1821); A Treatise on Prayer (1839); A Treatise on the Lord's Supper (1849); The Christian Student (1830); A Practical Guide to the Prophecies (1852); The Promised Glory of the Church (1844); A Treatise on Baptism (1844) | have-ocr | IA, OCR 97-99% |
 | Works (New York: Carter, 1855) | excluded | vol. 5 unavailable on IA |
+
+## Henry Melvill (round 14, my pick, 2026-10-10)
+
+Slugs `melvill-*`. Name forms are full ("henry melvill", etc.); the shelf is distinct from `james-melville`.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons, ed. M'Ilvaine (2 vols, 1853); Sermons before Cambridge (1836); Less Prominent Facts (2 series, 1843/1846); Public Occasions (1846); Lothbury Lectures (1858) | have-ocr | IA, OCR 97-99% |
+| The Golden Lectures | alternate | no year on the title page |
