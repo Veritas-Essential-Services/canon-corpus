@@ -5537,6 +5537,29 @@ Round 10 (2026-10-10), vetoable. Each title gates on its own translator. Not con
 | — | — | pg-38145: Alexander Harvey's 1908 Human, All Too Human selection, not Levy's. | — | — | excluded | — |
 | — | — | pg-19634: Another Beyond Good and Evil with no translator in the header; not checked. | — | — | excluded | — |
 
+## William Archer's Ibsen (Collected Works, 1906-12)
+
+Shelf: `pipeline/archer-ibsen_shelf.json` · fetch `python3 pipeline/fetch_shelf.py archer-ibsen` · titles `python3 pipeline/split_shelf_titles.py archer-ibsen`.
+Round 11 (2026-10-10), vetoable. One title per volume; vol. 12 pending. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `archer-ibsen-vol-01` | Ibsen | Collected Works, vol. 1: Lady Inger of Ostrat; The Feast at Solhoug; Love's Comedy | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1906 | have | PG 66060 |
+| `archer-ibsen-vol-02` | Ibsen | Collected Works, vol. 2: The Vikings at Helgeland; The Pretenders | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1906 | have | PG 66186 |
+| `archer-ibsen-vol-03` | Ibsen | Collected Works, vol. 3: Brand | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1906 | have | PG 66238 |
+| `archer-ibsen-vol-04` | Ibsen | Collected Works, vol. 4: Peer Gynt | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1906 | have | PG 66239 |
+| `archer-ibsen-vol-05` | Ibsen | Collected Works, vol. 5: Emperor and Galilean | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1906 | have | PG 66240 |
+| `archer-ibsen-vol-06` | Ibsen | Collected Works, vol. 6: The League of Youth; Pillars of Society | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1907 | have-raw | IA `collectedworksof06ibseiala` |
+| `archer-ibsen-vol-07` | Ibsen | Collected Works, vol. 7: A Doll's House; Ghosts | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1907 | have | PG 70566 |
+| `archer-ibsen-vol-08` | Ibsen | Collected Works, vol. 8: An Enemy of the People; The Wild Duck | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1907 | have | PG 70577 |
+| `archer-ibsen-vol-09` | Ibsen | Collected Works, vol. 9: Rosmersholm; The Lady from the Sea | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1907 | have-raw | IA `collectedworksof09ibseiala` |
+| `archer-ibsen-vol-10` | Ibsen | Collected Works, vol. 10: Hedda Gabler; The Master Builder | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1907 | have-raw | IA `collectedworkso10ibseuoft` |
+| `archer-ibsen-vol-11` | Ibsen | Collected Works, vol. 11: Little Eyolf; John Gabriel Borkman; When We Dead Awaken | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1907 | have | PG 74642 |
+| `archer-ibsen-vol-12` | — | From Ibsen's Workshop (A. G. Chater, 1912): collectedworkso12ibseuoft returned HTTP 500 on every try today; retry next round. | — | — | pending | — |
+| — | — | single-play-gutenberg-texts: PG 4093, 4070, 4782, 7942, 8121, 18428, 18792, 19018 are single plays from the same Archer edition; the volumes are used instead so nothing is held twice. | — | — | excluded | — |
+| — | — | sharp-everyman: R. Farquharson Sharp's Everyman Ibsen (PG 2446, 2467): another translator; A Doll's House in his version is on adler_shelf.json. | — | — | excluded | — |
+| — | — | marx-aveling-wild-duck: PG 73631: Eleanor Marx Aveling's translation; another translator. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

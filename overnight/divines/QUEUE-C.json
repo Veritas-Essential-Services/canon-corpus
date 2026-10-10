@@ -432,6 +432,14 @@
    "finished": "2026-10-10T09:17-05:00",
    "scope": "TRANSLATOR SHELF (round 10, lane C's choice; Adam may veto) -- levy-nietzsche; PD printings before 1931 only; no minting",
    "notes": "15 titles; see DIGEST-C round 10. No uids minted."
+  },
+  {
+   "id": "shelf-archer-ibsen",
+   "status": "done",
+   "started": "2026-10-10T09:26-05:00",
+   "finished": "2026-10-10T09:26-05:00",
+   "scope": "TRANSLATOR SHELF (round 11, lane C's choice; Adam may veto) -- archer-ibsen; PD printings before 1931 only; no minting",
+   "notes": "11 volumes; vol 12 pending (IA 500). See DIGEST-C round 11. No uids minted."
   }
  ]
 }

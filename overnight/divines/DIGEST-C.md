@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T09:17-05:00: 52 shelves, 211 titles (round 10: Ryder 5, Gertrude Bell 1, Levy Nietzsche 15; round 9, Scott Moncrieff: 9; Ransome translations, 2026-10-10: 2; rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11; round 7: 12; round 8: 8 — Symonds 3, Blackie 2, Theodore Martin 1, Hearn 2). **11 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
+Totals 2026-10-10T09:26-05:00: 53 shelves, 222 titles (round 11: Archer's Ibsen 11; round 10: Ryder 5, Gertrude Bell 1, Levy Nietzsche 15; round 9, Scott Moncrieff: 9; Ransome translations, 2026-10-10: 2; rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11; round 7: 12; round 8: 8 — Symonds 3, Blackie 2, Theodore Martin 1, Hearn 2). **11 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -131,3 +131,9 @@ Three new shelves, 21 titles; none was on any other lane's shelf.
 Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Your call:** none beyond the veto. One note: Ludovici lived until 1971, so the UK status of the Levy volumes varies by translator. In the US they are all public domain.
+
+## Round 11: William Archer's Ibsen (2026-10-10)
+
+New shelf `archer-ibsen`: the Heinemann/Scribner Collected Works of Henrik Ibsen (1906-1912), which was the standard English Ibsen. It is shelved one title per volume, vols 1 to 11, with the plays in each listed. Eight volumes come from Gutenberg's clean texts of that edition. Vols 6, 9 and 10 are archive.org OCR with their title pages read: 1906, 1907, and a 1913 impression of 1907. Vol 12 (*From Ibsen's Workshop*) is pending because archive.org returned errors all day. Gutenberg's single plays from the same edition are excluded so nothing is held twice. Sharp's *A Doll's House* stays on Adler's shelf, since it is a different translation. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** none beyond the veto. One note on the UK: Gosse died in 1928 and Herford in 1931, so the volumes they co-translated (*Hedda*, *Master Builder*, *Love's Comedy*, *Brand*) have been UK public domain only since 2002. The US is unaffected.
