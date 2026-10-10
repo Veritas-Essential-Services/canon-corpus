@@ -796,3 +796,6 @@
 
 ## 2026-10-10 11:00 CDT — rowland-hill done
 - `pipeline/rowland-hill-surrey-chapel_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for rhill-psalms-hymns (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:00 CDT — j-c-philpot done
+- `pipeline/j-c-philpot_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.

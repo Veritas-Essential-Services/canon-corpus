@@ -2742,6 +2742,15 @@ Slugs `rhill-*`. Rowland Hill of Surrey Chapel (1744-1833), not the postal refor
 | The Life of the Rev. Rowland Hill, by Edwin Sidney, third edition (London: Baldwin & Cradock, 1835) | have-ocr | IA `thelifeoftherevr00sidnuoft` |
 | Select Notes of the Preaching of the late Rev. Rowland Hill, by Edwin Sidney (London: Baldwin and Cradock, 1837) | have-ocr | IA `selectnotesprea00hillgoog` |
 | Memoir by William Jones, 3rd ed. (Bohn, 1845; IA revrowla00jone) | alternate | not shelved |
+
+## J. C. Philpot (round 17, my pick, 2026-10-10)
+
+Slugs `philpot-*`. Strict Baptist editor of the Gospel Standard. Distinct from John Philpot the Marian martyr, whose shelf PR #14 owns.
+
+| Work | Status | Where |
+|---|---|---|
+| Letters by the late Joseph Charles Philpot, M.A. (London: J. Gadsby, 1871) | have-ocr | IA `lettersbylatejos0000vari` |
+| The Gospel Standard vols. XVII-XXXV (1851-69; IA gospelstandardo06unkngoog and others), which he edited: a magazine of many hands, not claimed as his | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
