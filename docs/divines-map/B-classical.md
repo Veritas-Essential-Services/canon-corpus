@@ -2980,6 +2980,11 @@ Shelf: `pipeline/ernst-curtius_shelf.json`. Curtius's History of Greece in A. W.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The History of Greece, vol. I, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v1-1892` | have-raw (IA `historyofgreece11curt`) |
+| The History of Greece, vol. II, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v2-1892` | have-raw (IA `historyofgreece21curt`) |
+| The History of Greece, vol. III, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v3-1892` | have-raw (IA `historyofgreece31curt`) |
+| The History of Greece, vol. IV, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v4-1892` | have-raw (IA `historyofgreece51curt`) |
+| The History of Greece, vol. V, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v5-1892` | have-raw (IA `historyofgreece41curt`) |
 
 ## Perseus census (overflow)
 
