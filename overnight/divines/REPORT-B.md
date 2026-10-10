@@ -754,3 +754,9 @@
 - Leake's Travels in Northern Greece, 4 vols. (1835), and Travels in the Morea, vols. I and III (1830); Morea vol. II wanted (IA returned 503)
 - Mahaffy's History of Classical Greek Literature, 2 vols., from a consistent Harper (New York) 1880 set; this settles the round-10v hold, which was about mixed editions
 - Not found: K. O. Müller's Dorians in English (no IA hit under a title search)
+
+## 2026-10-10 12:11 CDT — Round 2026-10-10ad: 5 volumes
+- K. O. Müller's History and Antiquities of the Doric Race, tr. Tufnell and Lewis, 2nd ed., 2 vols. (Murray, 1839)
+- Niebuhr's History of Rome, 3 vols., new edition (vols. I-II tr. Hare and Thirlwall, 1851 and 1855; vol. III tr. Smith and Schmitz, imprint year illegible but plainly 19th-century)
+- Under the bar: Hermann's Manual of the Political Antiquities of Greece (1836; two scans at 0.76 and 0.68)
+- Left out: Heeren's Historical Researches (the nations of Asia and Africa: Near Eastern, like Duncker)

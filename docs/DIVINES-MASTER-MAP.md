@@ -5855,7 +5855,7 @@ Shelf: `pipeline/heitland_shelf.json`. William Emerton Heitland (1847-1935), St 
 
 ## B. G. Niebuhr (scholarship)
 
-Shelf: `pipeline/niebuhr_shelf.json`. Barthold Georg Niebuhr (1776-1831) in English: Lectures on Roman History, ed. Isler, tr. H. M. Chepmell and F. Demmler (1875, 3 vols.), and Lectures on Ancient Ethnography and Geography, tr. Leonhard Schmitz (2 vols.): 5 clean Gutenberg texts. Not minted.
+Shelf: `pipeline/niebuhr_shelf.json`. Barthold Georg Niebuhr (1776-1831) in English: Lectures on Roman History, ed. Isler, tr. H. M. Chepmell and F. Demmler (1875, 3 vols.), and Lectures on Ancient Ethnography and Geography, tr. Leonhard Schmitz (2 vols.): 5 clean Gutenberg texts. The History of Rome, 3 vols., new edition (Taylor, Walton, and Maberly; vols. I-II tr. Hare and Thirlwall, 1851 and 1855; vol. III tr. Smith and Schmitz, year illegible in the OCR), raw IA OCR. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -5864,6 +5864,9 @@ Shelf: `pipeline/niebuhr_shelf.json`. Barthold Georg Niebuhr (1776-1831) in Engl
 | Niebuhr's Lectures on Roman History, vol. 3 | H. M. Chepmell and F. Demmler | `niebuhr-lectures-roman-history-v3` | have (PG 75732) |
 | Lectures on Ancient Ethnography and Geography, vol. 1 | Leonhard Schmitz | `niebuhr-lectures-ethnography-geography-v1` | have (PG 78451) |
 | Lectures on Ancient Ethnography and Geography, vol. 2 | Leonhard Schmitz | `niebuhr-lectures-ethnography-geography-v2` | have (PG 78452) |
+| The History of Rome, tr. Julius Charles Hare and Connop Thirlwall, vol. I, a new edition (London: Taylor, Walton, and Maberly, MDCCCLI) | Julius Charles Hare and Connop Thirlwall | `niebuhr-history-rome-v1-1851` | have-raw (IA `historyrome03unkngoog`) |
+| The History of Rome, tr. Julius Charles Hare and Connop Thirlwall, vol. II, new edition (London: Walton and Maberly, MDCCCLV) | Julius Charles Hare and Connop Thirlwall | `niebuhr-history-rome-v2-1855` | have-raw (IA `historyofrome02nieb`) |
+| The History of Rome, tr. William Smith and Leonhard Schmitz, vol. III, a new edition (London: Taylor, Walton, and Maberly) | William Smith and Leonhard Schmitz | `niebuhr-history-rome-v3-new-ed` | have-raw (IA `historyrome02schmgoog`) |
 
 ## Kenneth J. Freeman (scholarship)
 
@@ -6159,13 +6162,15 @@ Shelf: `pipeline/thomas-arnold_shelf.json`. Arnold's History of Rome, third edit
 
 ## K. O. Müller (scholarship)
 
-Shelf: `pipeline/k-o-muller_shelf.json`. Karl Otfried Müller's History of the Literature of Ancient Greece, 3 vols., Longmans 1858; Müller's part Englished by George Cornewall Lewis and Donaldson, volumes II-III continued by John William Donaldson. Raw IA OCR. Not minted.
+Shelf: `pipeline/k-o-muller_shelf.json`. Karl Otfried Müller: History of the Literature of Ancient Greece, 3 vols. (Longmans, 1858; tr. Lewis and Donaldson, continued by Donaldson) and The History and Antiquities of the Doric Race, 2nd ed., 2 vols. (Murray, 1839; tr. Tufnell and Lewis). Raw IA OCR; the 1858 vols. II-III were identity-checked by eye. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
-| A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. I (London: Longmans, 1858) | Donaldson | `k-o-muller-literature-ancient-greece-v1-1858` | have-raw (IA `historyofliterat01mluoft`) |
-| A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. II (London: Longmans, 1858) | Donaldson | `k-o-muller-literature-ancient-greece-v2-1858` | have-raw (IA `historyofliterat02mluoft`) |
-| A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. III (London: Longmans, 1858) | Donaldson | `k-o-muller-literature-ancient-greece-v3-1858` | have-raw (IA `historyofliterat03mluoft`) |
+| A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. I (London: Longmans, 1858) | George Cornewall Lewis and John William Donaldson | `k-o-muller-literature-ancient-greece-v1-1858` | have-raw (IA `historyofliterat01mluoft`) |
+| A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. II (London: Longmans, 1858) | George Cornewall Lewis and John William Donaldson | `k-o-muller-literature-ancient-greece-v2-1858` | have-raw (IA `historyofliterat02mluoft`) |
+| A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. III (London: Longmans, 1858) | George Cornewall Lewis and John William Donaldson | `k-o-muller-literature-ancient-greece-v3-1858` | have-raw (IA `historyofliterat03mluoft`) |
+| The History and Antiquities of the Doric Race, second edition, revised, vol. I (London: John Murray, MDCCCXXXIX) | Henry Tufnell and George Cornewall Lewis | `k-o-muller-doric-race-v1-1839` | have-raw (IA `historyantiquiti01mull`) |
+| The History and Antiquities of the Doric Race, second edition, revised, vol. II (London: John Murray, MDCCCXXXIX) | Henry Tufnell and George Cornewall Lewis | `k-o-muller-doric-race-v2-1839` | have-raw (IA `historyantiquiti02mull`) |
 
 ## George Long (scholarship)
 
