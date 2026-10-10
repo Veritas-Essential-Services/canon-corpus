@@ -167,3 +167,5 @@
 - 2026-10-10T14:52-05:00: round 44: singles-fiction-3 (68). --verify --record 0 mismatched. Three 1930 translations in _pending (Emil and the Detectives, Confessions of Zeno, Akutagawa) await the 1930 override. Hutton's Táin carries a 1948 presentation inscription (not a printing). Left for owners: Lagerlöf's Liliecrona's Home.
 
 - 2026-10-10T14:55-05:00: round 45: singles-history-2 (72). --verify --record 0 mismatched. No late printings found.
+
+- 2026-10-10T15:02-05:00: round 46: singles-ideas-3 (48), singles-science-2 (71). --verify --record 0 mismatched. No late printings found. _pending: Newton's Principia (Motte) and Menabrea/Lovelace, HTML-only at Gutenberg.

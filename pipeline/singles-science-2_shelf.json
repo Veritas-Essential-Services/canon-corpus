@@ -1,0 +1,2385 @@
+{
+ "_about": "SINGLE-TRANSLATION SHELF: a second shelf of one-off translations of science, medicine, art history and the crafts: Carnot's Reflections on the Motive Power of Heat (Thurston), Huygens's Celestial Worlds Discover'd (1698), Pasteur's Studies on Fermentation, Sachs's History of Botany, Helmholtz's Popular Lectures, Metchnikoff's Immunity, Behring, Hansen on leprosy, Bichat on mucous membranes (Houlton), Desault on fractures, Marie Curie's Pierre Curie, Arrhenius's Worlds in the Making, Holst and Kramers on the Bohr atom, Warming's botany, Huber's ants, Fabre's Insect Life (Margaret Roberts), Bergman's mineralogy (Withering), Glauber and Sendivogius on alchemy, Chevreul on colour, Cellini's treatises on goldsmithing and sculpture (Ashbee), Vasari on technique, Koldewey's Excavations at Babylon, Rodin on art, Robert-Houdin's Secrets of Stage Conjuring, Groos's Play of Man, Mosso's Fear, Ritter's Comparative Geography, Flammarion, and handbooks on lithography, pigments, perfumes, horseshoeing, bees, music, warfare and engines. Newton's Principia (Motte) and Menabrea's Sketch of the Analytical Engine with Ada Lovelace's Notes wait in _pending: Gutenberg has them only as HTML. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 46); Adam may veto. No uids minted.",
+ "_name_words": [
+  "a. c. wright",
+  "a. s. johns",
+  "agnes sophia johns",
+  "ainsworth davis",
+  "alfred i. cohn",
+  "alfred isaac cohn",
+  "allen wilson porterfield",
+  "arthur columbine wright",
+  "athol garnet elliott",
+  "bettina kahnweiler",
+  "c. r. ashbee",
+  "charles bolduan",
+  "charles caldwell",
+  "charles d. meigs",
+  "charles delucena meigs",
+  "charles j. hempel",
+  "charles julius hempel",
+  "charles leonard leese",
+  "charles robert ashbee",
+  "charles salter",
+  "charles w. quin",
+  "charles william quin",
+  "charlotte kellogg",
+  "chas. salter",
+  "christopher packe",
+  "clementina stirling graham",
+  "d. constable robb",
+  "david constable robb",
+  "dorothy dudley",
+  "du bellet",
+  "e. atkinson",
+  "e. e. fournier d'albe",
+  "e. e. kellett",
+  "e. j. wall",
+  "e. lough",
+  "edmund atkinson",
+  "edmund edward fournier d'albe",
+  "edward gleichen",
+  "edward john wall",
+  "edward w. naylor",
+  "edward woodall naylor",
+  "edwin c. middleton",
+  "elizabeth l. baldwin",
+  "ernest edward kellett",
+  "f. j. fielden",
+  "f. sodemann",
+  "federico kiesow",
+  "fournier d'albe",
+  "francis g. binnie",
+  "frank faulkner",
+  "g. c. richards",
+  "g. s. whitmarsh",
+  "george chatterton richards",
+  "george haslam",
+  "h. borns",
+  "henry e. f. garnsey",
+  "henry edward fowler garnsey",
+  "henry p. du bellet",
+  "isidor furst",
+  "j. h.",
+  "j. r. ainsworth davis",
+  "james dafforne",
+  "james hutton",
+  "james rawlins johnson",
+  "james richard ainsworth davis",
+  "john clarke",
+  "john french",
+  "john matthews",
+  "john spanton",
+  "john w. adams",
+  "john william adams",
+  "joseph houlton",
+  "katharine waldo douglas fedden",
+  "l. a. e. b.",
+  "lewis spence",
+  "louisa s. maclehose",
+  "m. barrett",
+  "margaret roberts",
+  "michael cresse potter",
+  "norman walker",
+  "professor hoffmann",
+  "rachel t. lindsay",
+  "reginald cheyne elmslie",
+  "robert bruce lindsay",
+  "robert henry thurston",
+  "stephen salisbury",
+  "thomas c. minor",
+  "thomas chalmers minor",
+  "thomas morison legge",
+  "thomson hankey",
+  "tom bridges",
+  "vernon l. kellogg",
+  "vernon lyman kellogg",
+  "wallace goodrich",
+  "walter krueger",
+  "william combe",
+  "william leonard gage",
+  "william t. brannt",
+  "william theodore brannt",
+  "william withering"
+ ],
+ "_surname": [
+  "a. c. wright",
+  "a. s. johns",
+  "agnes sophia johns",
+  "ainsworth davis",
+  "alfred i. cohn",
+  "alfred isaac cohn",
+  "allen wilson porterfield",
+  "arthur columbine wright",
+  "athol garnet elliott",
+  "bettina kahnweiler",
+  "c. r. ashbee",
+  "charles bolduan",
+  "charles caldwell",
+  "charles d. meigs",
+  "charles delucena meigs",
+  "charles j. hempel",
+  "charles julius hempel",
+  "charles leonard leese",
+  "charles robert ashbee",
+  "charles salter",
+  "charles w. quin",
+  "charles william quin",
+  "charlotte kellogg",
+  "chas. salter",
+  "christopher packe",
+  "clementina stirling graham",
+  "d. constable robb",
+  "david constable robb",
+  "dorothy dudley",
+  "du bellet",
+  "e. atkinson",
+  "e. e. fournier d'albe",
+  "e. e. kellett",
+  "e. j. wall",
+  "e. lough",
+  "edmund atkinson",
+  "edmund edward fournier d'albe",
+  "edward gleichen",
+  "edward john wall",
+  "edward w. naylor",
+  "edward woodall naylor",
+  "edwin c. middleton",
+  "elizabeth l. baldwin",
+  "ernest edward kellett",
+  "f. j. fielden",
+  "f. sodemann",
+  "federico kiesow",
+  "fournier d'albe",
+  "francis g. binnie",
+  "frank faulkner",
+  "g. c. richards",
+  "g. s. whitmarsh",
+  "george chatterton richards",
+  "george haslam",
+  "h. borns",
+  "henry e. f. garnsey",
+  "henry edward fowler garnsey",
+  "henry p. du bellet",
+  "isidor furst",
+  "j. h.",
+  "j. r. ainsworth davis",
+  "james dafforne",
+  "james hutton",
+  "james rawlins johnson",
+  "james richard ainsworth davis",
+  "john clarke",
+  "john french",
+  "john matthews",
+  "john spanton",
+  "john w. adams",
+  "john william adams",
+  "joseph houlton",
+  "katharine waldo douglas fedden",
+  "l. a. e. b.",
+  "lewis spence",
+  "louisa s. maclehose",
+  "m. barrett",
+  "margaret roberts",
+  "michael cresse potter",
+  "norman walker",
+  "professor hoffmann",
+  "rachel t. lindsay",
+  "reginald cheyne elmslie",
+  "robert bruce lindsay",
+  "robert henry thurston",
+  "stephen salisbury",
+  "thomas c. minor",
+  "thomas chalmers minor",
+  "thomas morison legge",
+  "thomson hankey",
+  "tom bridges",
+  "vernon l. kellogg",
+  "vernon lyman kellogg",
+  "wallace goodrich",
+  "walter krueger",
+  "william combe",
+  "william leonard gage",
+  "william t. brannt",
+  "william theodore brannt",
+  "william withering"
+ ],
+ "_surname_by_slug": {
+  "ss2-49866": [
+   "edwin c. middleton",
+   "middleton"
+  ],
+  "ss2-50139": [
+   "brannt",
+   "william t. brannt",
+   "william theodore brannt"
+  ],
+  "ss2-50458": [
+   "alfred i. cohn",
+   "alfred isaac cohn",
+   "cohn"
+  ],
+  "ss2-50581": [
+   "hankey",
+   "thomson hankey"
+  ],
+  "ss2-51041": [
+   "hutton",
+   "james hutton"
+  ],
+  "ss2-52987": [
+   "houlton",
+   "joseph houlton"
+  ],
+  "ss2-55735": [
+   "furst",
+   "isidor furst"
+  ],
+  "ss2-55739": [
+   "elmslie",
+   "reginald cheyne elmslie"
+  ],
+  "ss2-55971": [
+   "e. j. wall",
+   "edward john wall",
+   "wall"
+  ],
+  "ss2-57057": [
+   "combe",
+   "william combe"
+  ],
+  "ss2-57069": [
+   "barrett",
+   "m. barrett"
+  ],
+  "ss2-57961": [
+   "salisbury",
+   "stephen salisbury"
+  ],
+  "ss2-58411": [
+   "baldwin",
+   "elizabeth l. baldwin"
+  ],
+  "ss2-58602": [
+   "caldwell",
+   "charles caldwell"
+  ],
+  "ss2-58635": [
+   "bridges",
+   "tom bridges"
+  ],
+  "ss2-59085": [
+   "goodrich",
+   "wallace goodrich"
+  ],
+  "ss2-59311": [
+   "athol garnet elliott",
+   "elliott"
+  ],
+  "ss2-59680": [
+   "dorothy dudley",
+   "dudley"
+  ],
+  "ss2-59799": [
+   "fedden",
+   "katharine waldo douglas fedden"
+  ],
+  "ss2-59804": [
+   "du bellet",
+   "henry p. du bellet"
+  ],
+  "ss2-59901": [
+   "e. lough",
+   "federico kiesow",
+   "kiesow",
+   "lough"
+  ],
+  "ss2-59924": [
+   "dafforne",
+   "james dafforne"
+  ],
+  "ss2-60605": [
+   "legge",
+   "thomas morison legge"
+  ],
+  "ss2-61034": [
+   "bettina kahnweiler",
+   "kahnweiler"
+  ],
+  "ss2-61112": [
+   "french",
+   "john french"
+  ],
+  "ss2-61240": [
+   "garnsey",
+   "henry e. f. garnsey",
+   "henry edward fowler garnsey"
+  ],
+  "ss2-61365": [
+   "edward gleichen",
+   "gleichen"
+  ],
+  "ss2-61894": [
+   "charles leonard leese",
+   "leese"
+  ],
+  "ss2-61986": [
+   "g. c. richards",
+   "george chatterton richards",
+   "richards"
+  ],
+  "ss2-63057": [
+   "j. h."
+  ],
+  "ss2-63355": [
+   "d. constable robb",
+   "david constable robb",
+   "faulkner",
+   "frank faulkner",
+   "robb"
+  ],
+  "ss2-63938": [
+   "minor",
+   "thomas c. minor",
+   "thomas chalmers minor"
+  ],
+  "ss2-64768": [
+   "f. j. fielden",
+   "fielden"
+  ],
+  "ss2-64796": [
+   "lewis spence",
+   "spence"
+  ],
+  "ss2-64834": [
+   "g. s. whitmarsh",
+   "whitmarsh"
+  ],
+  "ss2-64927": [
+   "krueger",
+   "walter krueger"
+  ],
+  "ss2-65041": [
+   "charles d. meigs",
+   "charles delucena meigs",
+   "meigs"
+  ],
+  "ss2-65114": [
+   "charles w. quin",
+   "charles william quin",
+   "quin"
+  ],
+  "ss2-66046": [
+   "f. sodemann",
+   "sodemann"
+  ],
+  "ss2-66786": [
+   "adams",
+   "john w. adams",
+   "john william adams"
+  ],
+  "ss2-67816": [
+   "clementina stirling graham",
+   "graham"
+  ],
+  "ss2-68186": [
+   "margaret roberts",
+   "roberts"
+  ],
+  "ss2-68580": [
+   "michael cresse potter",
+   "potter"
+  ],
+  "ss2-69022": [
+   "borns",
+   "h. borns"
+  ],
+  "ss2-69617": [
+   "charlotte kellogg",
+   "kellogg",
+   "vernon l. kellogg",
+   "vernon lyman kellogg"
+  ],
+  "ss2-70133": [
+   "bolduan",
+   "charles bolduan"
+  ],
+  "ss2-70350": [
+   "charles j. hempel",
+   "charles julius hempel",
+   "hempel"
+  ],
+  "ss2-70708": [
+   "lindsay",
+   "rachel t. lindsay",
+   "robert bruce lindsay"
+  ],
+  "ss2-71191": [
+   "clarke",
+   "john clarke"
+  ],
+  "ss2-71219": [
+   "charles salter",
+   "chas. salter",
+   "salter"
+  ],
+  "ss2-71312": [
+   "norman walker",
+   "walker"
+  ],
+  "ss2-71333": [
+   "e. e. kellett",
+   "edward w. naylor",
+   "edward woodall naylor",
+   "ernest edward kellett",
+   "kellett",
+   "naylor"
+  ],
+  "ss2-71398": [
+   "a. s. johns",
+   "agnes sophia johns",
+   "johns"
+  ],
+  "ss2-71585": [
+   "l. a. e. b."
+  ],
+  "ss2-72143": [
+   "a. c. wright",
+   "arthur columbine wright",
+   "wright"
+  ],
+  "ss2-72995": [
+   "ashbee",
+   "c. r. ashbee",
+   "charles robert ashbee"
+  ],
+  "ss2-73023": [
+   "john matthews",
+   "matthews"
+  ],
+  "ss2-73028": [
+   "allen wilson porterfield",
+   "porterfield"
+  ],
+  "ss2-73397": [
+   "louisa s. maclehose",
+   "maclehose"
+  ],
+  "ss2-73615": [
+   "gage",
+   "william leonard gage"
+  ],
+  "ss2-74239": [
+   "e. e. fournier d'albe",
+   "edmund edward fournier d'albe",
+   "fournier d'albe"
+  ],
+  "ss2-74240": [
+   "christopher packe",
+   "packe"
+  ],
+  "ss2-74532": [
+   "william withering",
+   "withering"
+  ],
+  "ss2-76939": [
+   "john spanton",
+   "spanton"
+  ],
+  "ss2-77045": [
+   "ainsworth davis",
+   "j. r. ainsworth davis",
+   "james richard ainsworth davis"
+  ],
+  "ss2-77523": [
+   "binnie",
+   "francis g. binnie"
+  ],
+  "ss2-77560": [
+   "george haslam",
+   "haslam"
+  ],
+  "ss2-77725": [
+   "atkinson",
+   "e. atkinson",
+   "edmund atkinson"
+  ],
+  "ss2-77917": [
+   "hoffmann",
+   "professor hoffmann"
+  ],
+  "ss2-78610": [
+   "robert henry thurston",
+   "thurston"
+  ],
+  "ss2-79213": [
+   "james rawlins johnson",
+   "johnson"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "ss2-49866": [
+   49866,
+   "Collotype and Photo-lithography"
+  ],
+  "ss2-50139": [
+   50139,
+   "A practical treatise on the manufacture of perfumery"
+  ],
+  "ss2-50458": [
+   50458,
+   "The Toxins and Venoms and Their Antibodies"
+  ],
+  "ss2-50581": [
+   50581,
+   "Remarks on the production of the precious metals and on the demonetization of gold in several countries in Europe"
+  ],
+  "ss2-51041": [
+   51041,
+   "The Horses of the Sahara and the Manners of the Desert"
+  ],
+  "ss2-52987": [
+   52987,
+   "Treatise on the Anatomy and Physiology of the Mucous Membranes With Illustrative Pathological Observations"
+  ],
+  "ss2-55735": [
+   55735,
+   "Perfumes and their preparation"
+  ],
+  "ss2-55739": [
+   55739,
+   "Artificial Limbs"
+  ],
+  "ss2-55971": [
+   55971,
+   "Photo-Lithography"
+  ],
+  "ss2-57057": [
+   57057,
+   "Healthful Sports for Young Ladies"
+  ],
+  "ss2-57069": [
+   57069,
+   "Obesity, or Excessive Corpulence: The Various Causes and the Rational Means of Cure"
+  ],
+  "ss2-57961": [
+   57961,
+   "Mexican Copper Tools: The Use of Copper by the Mexicans Before the Conquest; and the Katunes of Maya History, a Chapter in the Early History of Central America, With Special Reference to the Pio Perez"
+  ],
+  "ss2-58411": [
+   58411,
+   "The Play of Man"
+  ],
+  "ss2-58602": [
+   58602,
+   "A Treatise on Fractures, Luxations, and Other Affections of the Bones"
+  ],
+  "ss2-58635": [
+   58635,
+   "Cavalry A Popular Edition of \"Cavalry in War and Peace\""
+  ],
+  "ss2-59085": [
+   59085,
+   "Johann Sebastian Bach: The Organist and His Works for the Organ"
+  ],
+  "ss2-59311": [
+   59311,
+   "Gas and Petroleum Engines"
+  ],
+  "ss2-59680": [
+   59680,
+   "Venus. To the Venus of Melos"
+  ],
+  "ss2-59799": [
+   59799,
+   "Art"
+  ],
+  "ss2-59804": [
+   59804,
+   "The Making of a Modern Army and its Operations in the Field A study based on the experience of three years on the French front (1914-1917)"
+  ],
+  "ss2-59901": [
+   59901,
+   "Fear"
+  ],
+  "ss2-59924": [
+   59924,
+   "The Arts in the Middle Ages and at the Period of the Renaissance"
+  ],
+  "ss2-60605": [
+   60605,
+   "Industrial Poisoning from Fumes, Gases and Poisons of Manufacturing Processes"
+  ],
+  "ss2-61034": [
+   61034,
+   "Douris and the Painters of Greek Vases"
+  ],
+  "ss2-61112": [
+   61112,
+   "A New Light of Alchymie Taken out of the Fountaine of Nature, and Manuall Experience. Etc."
+  ],
+  "ss2-61240": [
+   61240,
+   "History of Botany (1530-1860)"
+  ],
+  "ss2-61365": [
+   61365,
+   "The Armies of Europe"
+  ],
+  "ss2-61894": [
+   61894,
+   "The World-Struggle for Oil"
+  ],
+  "ss2-61986": [
+   61986,
+   "Greek vase-painting (Griechische Vasenmalerei)"
+  ],
+  "ss2-63057": [
+   63057,
+   "Ruins of Buddhistic Temples in Prågå Valley—Tyandis Båråbudur, Mendut and Pawon"
+  ],
+  "ss2-63355": [
+   63355,
+   "Studies on fermentation"
+  ],
+  "ss2-63938": [
+   63938,
+   "Medicine in the Middle Ages Extracts from \"Le Moyen Age Medical\" by Dr. Edmond Dupouy; translated by T. C. Minor"
+  ],
+  "ss2-64768": [
+   64768,
+   "Primitive time-reckoning"
+  ],
+  "ss2-64796": [
+   64796,
+   "Spanish Painting"
+  ],
+  "ss2-64834": [
+   64834,
+   "The Origin of Thought and Speech"
+  ],
+  "ss2-64927": [
+   64927,
+   "Tactics, Volume 1 (of 2). Introduction and Formal Tactics of Infantry"
+  ],
+  "ss2-65041": [
+   65041,
+   "Phrenology Examined"
+  ],
+  "ss2-65114": [
+   65114,
+   "The Wonders of Optics"
+  ],
+  "ss2-66046": [
+   66046,
+   "Søren Hjorth: Inventor of the Dynamo-electric Principle"
+  ],
+  "ss2-66786": [
+   66786,
+   "A Text-Book of Horseshoeing, for Horseshoers and Veterinarians"
+  ],
+  "ss2-67816": [
+   67816,
+   "The Bee Preserver; or, Practical Directions for the Management and Preservation of Hives"
+  ],
+  "ss2-68186": [
+   68186,
+   "Insect life: Souvenirs of a naturalist"
+  ],
+  "ss2-68580": [
+   68580,
+   "A handbook of systematic botany"
+  ],
+  "ss2-69022": [
+   69022,
+   "Worlds in the making: The evolution of the universe"
+  ],
+  "ss2-69617": [
+   69617,
+   "Pierre Curie"
+  ],
+  "ss2-70133": [
+   70133,
+   "The suppression of tuberculosis"
+  ],
+  "ss2-70350": [
+   70350,
+   "Dr. B. Mure's materia medica"
+  ],
+  "ss2-70708": [
+   70708,
+   "The atom and the Bohr theory of its structure"
+  ],
+  "ss2-71191": [
+   71191,
+   "The celestial worlds discover'd"
+  ],
+  "ss2-71219": [
+   71219,
+   "The manufacture of earth colours"
+  ],
+  "ss2-71312": [
+   71312,
+   "Leprosy"
+  ],
+  "ss2-71333": [
+   71333,
+   "History of the pianoforte and pianoforte players"
+  ],
+  "ss2-71398": [
+   71398,
+   "The excavations at Babylon"
+  ],
+  "ss2-71585": [
+   71585,
+   "The cave dwellers of Southern Tunisia"
+  ],
+  "ss2-72143": [
+   72143,
+   "The manufacture of mineral and lake pigments"
+  ],
+  "ss2-72995": [
+   72995,
+   "The treatises of Benvenuto Cellini on goldsmithing and sculpture"
+  ],
+  "ss2-73023": [
+   73023,
+   "Handbook of violin playing"
+  ],
+  "ss2-73028": [
+   73028,
+   "The soul of the moving picture"
+  ],
+  "ss2-73397": [
+   73397,
+   "Vasari on technique"
+  ],
+  "ss2-73615": [
+   73615,
+   "Comparative geography"
+  ],
+  "ss2-74239": [
+   74239,
+   "Dreams of an astronomer"
+  ],
+  "ss2-74240": [
+   74240,
+   "The works of the highly experienced and famous chymist, John Rudolph Glauber"
+  ],
+  "ss2-74532": [
+   74532,
+   "Outlines of mineralogy"
+  ],
+  "ss2-76939": [
+   76939,
+   "The laws of contrast of colour"
+  ],
+  "ss2-77045": [
+   77045,
+   "Agricultural zoology"
+  ],
+  "ss2-77523": [
+   77523,
+   "Immunity in infective diseases"
+  ],
+  "ss2-77560": [
+   77560,
+   "The anatomy of the frog"
+  ],
+  "ss2-77725": [
+   77725,
+   "Popular lectures on scientific subjects"
+  ],
+  "ss2-77917": [
+   77917,
+   "The secrets of stage conjuring"
+  ],
+  "ss2-78610": [
+   78610,
+   "Reflections on the motive power of heat"
+  ],
+  "ss2-79213": [
+   79213,
+   "The natural history of ants"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "singles-science-2-arrhenius-worlds-in-the-making": {
+   "source": "ss2-69022",
+   "of": "Svante Arrhenius",
+   "work": "Worlds in the making: The evolution of the universe",
+   "translated": "(see the Gutenberg header)",
+   "translator": "H. Borns",
+   "scan_edition": "Project Gutenberg 69022 (clean text)"
+  },
+  "singles-science-2-askinson-perfumes-and-their-preparation": {
+   "source": "ss2-55735",
+   "of": "George William Askinson",
+   "work": "Perfumes and their preparation",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Isidor Furst",
+   "scan_edition": "Project Gutenberg 55735 (clean text)"
+  },
+  "singles-science-2-balck-tactics-volume-1-of-2-introduction-and-f": {
+   "source": "ss2-64927",
+   "of": "W. Balck",
+   "work": "Tactics, Volume 1 (of 2). Introduction and Formal Tactics of Infantry",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Walter Krueger",
+   "scan_edition": "Project Gutenberg 64927 (clean text)"
+  },
+  "singles-science-2-behring-the-suppression-of-tuberculosis": {
+   "source": "ss2-70133",
+   "of": "Emil von Behring",
+   "work": "The suppression of tuberculosis",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles Bolduan",
+   "scan_edition": "Project Gutenberg 70133 (clean text)"
+  },
+  "singles-science-2-bergman-outlines-of-mineralogy": {
+   "source": "ss2-74532",
+   "of": "Torbern Bergman",
+   "work": "Outlines of mineralogy",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Withering",
+   "scan_edition": "Project Gutenberg 74532 (clean text)"
+  },
+  "singles-science-2-bernhardi-cavalry-a-popular-edition-of-cavalry-in": {
+   "source": "ss2-58635",
+   "of": "Friedrich von Bernhardi",
+   "work": "Cavalry A Popular Edition of \"Cavalry in War and Peace\"",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Tom Bridges",
+   "scan_edition": "Project Gutenberg 58635 (clean text)"
+  },
+  "singles-science-2-bersch-the-manufacture-of-earth-colours": {
+   "source": "ss2-71219",
+   "of": "Josef Bersch",
+   "work": "The manufacture of earth colours",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Chas. Salter",
+   "scan_edition": "Project Gutenberg 71219 (clean text)"
+  },
+  "singles-science-2-bersch-the-manufacture-of-mineral-and-lake-pigm": {
+   "source": "ss2-72143",
+   "of": "Josef Bersch",
+   "work": "The manufacture of mineral and lake pigments",
+   "translated": "(see the Gutenberg header)",
+   "translator": "A. C. Wright",
+   "scan_edition": "Project Gutenberg 72143 (clean text)"
+  },
+  "singles-science-2-bichat-treatise-on-the-anatomy-and-physiology-o": {
+   "source": "ss2-52987",
+   "of": "Xavier Bichat",
+   "work": "Treatise on the Anatomy and Physiology of the Mucous Membranes With Illustrative Pathological Observations",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Joseph Houlton",
+   "scan_edition": "Project Gutenberg 52987 (clean text)",
+   "note": "Bichat's General Anatomy in George Hayward's translation is on hayward-bichat; this is Joseph Houlton's translation of a different treatise."
+  },
+  "singles-science-2-bie-history-of-the-pianoforte-and-pianoforte": {
+   "source": "ss2-71333",
+   "of": "Oskar Bie",
+   "work": "History of the pianoforte and pianoforte players",
+   "translated": "(see the Gutenberg header)",
+   "translator": "E. E. Kellett and Edward W. Naylor",
+   "scan_edition": "Project Gutenberg 71333 (clean text)"
+  },
+  "singles-science-2-bloem-the-soul-of-the-moving-picture": {
+   "source": "ss2-73028",
+   "of": "Walter Julius Bloem",
+   "work": "The soul of the moving picture",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Allen Wilson Porterfield",
+   "scan_edition": "Project Gutenberg 73028 (clean text)"
+  },
+  "singles-science-2-bos-agricultural-zoology": {
+   "source": "ss2-77045",
+   "of": "J. Ritzema Bos",
+   "work": "Agricultural zoology",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. R. Ainsworth Davis",
+   "scan_edition": "Project Gutenberg 77045 (clean text)"
+  },
+  "singles-science-2-broca-artificial-limbs": {
+   "source": "ss2-55739",
+   "of": "Auguste Broca and Charles Ducroquet",
+   "work": "Artificial Limbs",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Reginald Cheyne Elmslie",
+   "scan_edition": "Project Gutenberg 55739 (clean text)"
+  },
+  "singles-science-2-bruun-the-cave-dwellers-of-southern-tunisia": {
+   "source": "ss2-71585",
+   "of": "Daniel Bruun",
+   "work": "The cave dwellers of Southern Tunisia",
+   "translated": "(see the Gutenberg header)",
+   "translator": "L. A. E. B.",
+   "scan_edition": "Project Gutenberg 71585 (clean text)"
+  },
+  "singles-science-2-buschor-greek-vase-painting-griechische-vasenmal": {
+   "source": "ss2-61986",
+   "of": "Ernst Buschor",
+   "work": "Greek vase-painting (Griechische Vasenmalerei)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "G. C. Richards",
+   "scan_edition": "Project Gutenberg 61986 (clean text)"
+  },
+  "singles-science-2-carnot-reflections-on-the-motive-power-of-heat": {
+   "source": "ss2-78610",
+   "of": "Sadi Carnot and William Thomson Kelvin",
+   "work": "Reflections on the motive power of heat",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Robert Henry Thurston",
+   "scan_edition": "Project Gutenberg 78610 (clean text)"
+  },
+  "singles-science-2-cellini-the-treatises-of-benvenuto-cellini-on-go": {
+   "source": "ss2-72995",
+   "of": "Benvenuto Cellini",
+   "work": "The treatises of Benvenuto Cellini on goldsmithing and sculpture",
+   "translated": "(see the Gutenberg header)",
+   "translator": "C. R. Ashbee",
+   "scan_edition": "Project Gutenberg 72995 (clean text)"
+  },
+  "singles-science-2-chevreul-the-laws-of-contrast-of-colour": {
+   "source": "ss2-76939",
+   "of": "M. E. Chevreul",
+   "work": "The laws of contrast of colour",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Spanton",
+   "scan_edition": "Project Gutenberg 76939 (clean text)"
+  },
+  "singles-science-2-curie-pierre-curie": {
+   "source": "ss2-69617",
+   "of": "Marie Curie",
+   "work": "Pierre Curie",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charlotte Kellogg and Vernon L. Kellogg",
+   "scan_edition": "Project Gutenberg 69617 (clean text)"
+  },
+  "singles-science-2-dancel-obesity-or-excessive-corpulence": {
+   "source": "ss2-57069",
+   "of": "J.-F. Dancel",
+   "work": "Obesity, or Excessive Corpulence: The Various Causes and the Rational Means of Cure",
+   "translated": "(see the Gutenberg header)",
+   "translator": "M. Barrett",
+   "scan_edition": "Project Gutenberg 57069 (clean text)"
+  },
+  "singles-science-2-daumas-the-horses-of-the-sahara-and-the-manners": {
+   "source": "ss2-51041",
+   "of": "E.‏ Daumas",
+   "work": "The Horses of the Sahara and the Manners of the Desert",
+   "translated": "(see the Gutenberg header)",
+   "translator": "James Hutton",
+   "scan_edition": "Project Gutenberg 51041 (clean text)"
+  },
+  "singles-science-2-deite-a-practical-treatise-on-the-manufacture": {
+   "source": "ss2-50139",
+   "of": "C. Deite",
+   "work": "A practical treatise on the manufacture of perfumery",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William T. Brannt",
+   "scan_edition": "Project Gutenberg 50139 (clean text)"
+  },
+  "singles-science-2-desault-a-treatise-on-fractures-luxations-and-ot": {
+   "source": "ss2-58602",
+   "of": "P.-J. Desault",
+   "work": "A Treatise on Fractures, Luxations, and Other Affections of the Bones",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles Caldwell",
+   "scan_edition": "Project Gutenberg 58602 (clean text)"
+  },
+  "singles-science-2-dupouy-medicine-in-the-middle-ages-extracts-fro": {
+   "source": "ss2-63938",
+   "of": "Edmond Dupouy",
+   "work": "Medicine in the Middle Ages Extracts from \"Le Moyen Age Medical\" by Dr. Edmond Dupouy; translated by T. C. Minor",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Thomas C. Minor",
+   "scan_edition": "Project Gutenberg 63938 (clean text)"
+  },
+  "singles-science-2-ecker-the-anatomy-of-the-frog": {
+   "source": "ss2-77560",
+   "of": "Alexander Ecker",
+   "work": "The anatomy of the frog",
+   "translated": "(see the Gutenberg header)",
+   "translator": "George Haslam",
+   "scan_edition": "Project Gutenberg 77560 (clean text)"
+  },
+  "singles-science-2-fabre-insect-life": {
+   "source": "ss2-68186",
+   "of": "Jean-Henri Fabre",
+   "work": "Insect life: Souvenirs of a naturalist",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Margaret Roberts",
+   "scan_edition": "Project Gutenberg 68186 (clean text)"
+  },
+  "singles-science-2-faucher-remarks-on-the-production-of-the-preciou": {
+   "source": "ss2-50581",
+   "of": "Léon Faucher",
+   "work": "Remarks on the production of the precious metals and on the demonetization of gold in several countries in Europe",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Thomson Hankey",
+   "scan_edition": "Project Gutenberg 50581 (clean text)"
+  },
+  "singles-science-2-flammarion-dreams-of-an-astronomer": {
+   "source": "ss2-74239",
+   "of": "Camille Flammarion",
+   "work": "Dreams of an astronomer",
+   "translated": "(see the Gutenberg header)",
+   "translator": "E. E. Fournier d'Albe",
+   "scan_edition": "Project Gutenberg 74239 (clean text)"
+  },
+  "singles-science-2-flourens-phrenology-examined": {
+   "source": "ss2-65041",
+   "of": "P. Flourens",
+   "work": "Phrenology Examined",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles D. Meigs",
+   "scan_edition": "Project Gutenberg 65041 (clean text)"
+  },
+  "singles-science-2-fritz-photo-lithography": {
+   "source": "ss2-55971",
+   "of": "Georg Fritz",
+   "work": "Photo-Lithography",
+   "translated": "(see the Gutenberg header)",
+   "translator": "E. J. Wall",
+   "scan_edition": "Project Gutenberg 55971 (clean text)"
+  },
+  "singles-science-2-gelieu-the-bee-preserver": {
+   "source": "ss2-67816",
+   "of": "Jonas de Gélieu",
+   "work": "The Bee Preserver; or, Practical Directions for the Management and Preservation of Hives",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Clementina Stirling Graham",
+   "scan_edition": "Project Gutenberg 67816 (clean text)"
+  },
+  "singles-science-2-glauber-the-works-of-the-highly-experienced-and": {
+   "source": "ss2-74240",
+   "of": "Johann Rudolf Glauber",
+   "work": "The works of the highly experienced and famous chymist, John Rudolph Glauber",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Christopher Packe",
+   "scan_edition": "Project Gutenberg 74240 (clean text)"
+  },
+  "singles-science-2-graffigny-gas-and-petroleum-engines": {
+   "source": "ss2-59311",
+   "of": "H. de Graffigny",
+   "work": "Gas and Petroleum Engines",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Athol Garnet Elliott",
+   "scan_edition": "Project Gutenberg 59311 (clean text)"
+  },
+  "singles-science-2-groneman-ruins-of-buddhistic-temples-in-praga-val": {
+   "source": "ss2-63057",
+   "of": "I. Groneman",
+   "work": "Ruins of Buddhistic Temples in Prågå Valley—Tyandis Båråbudur, Mendut and Pawon",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. H.",
+   "scan_edition": "Project Gutenberg 63057 (clean text)"
+  },
+  "singles-science-2-groos-the-play-of-man": {
+   "source": "ss2-58411",
+   "of": "Karl Groos",
+   "work": "The Play of Man",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Elizabeth L. Baldwin",
+   "scan_edition": "Project Gutenberg 58411 (clean text)"
+  },
+  "singles-science-2-hansen-leprosy": {
+   "source": "ss2-71312",
+   "of": "G. Armauer Hansen and Carl Looft",
+   "work": "Leprosy",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Norman Walker",
+   "scan_edition": "Project Gutenberg 71312 (clean text)"
+  },
+  "singles-science-2-helmholtz-popular-lectures-on-scientific-subjects": {
+   "source": "ss2-77725",
+   "of": "Hermann von Helmholtz",
+   "work": "Popular lectures on scientific subjects",
+   "translated": "(see the Gutenberg header)",
+   "translator": "E. Atkinson",
+   "scan_edition": "Project Gutenberg 77725 (clean text)"
+  },
+  "singles-science-2-holst-the-atom-and-the-bohr-theory-of-its-stru": {
+   "source": "ss2-70708",
+   "of": "Helge Holst and Hendrik Anthony Kramers",
+   "work": "The atom and the Bohr theory of its structure",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Rachel T. Lindsay and Robert Bruce Lindsay",
+   "scan_edition": "Project Gutenberg 70708 (clean text)"
+  },
+  "singles-science-2-huber-the-natural-history-of-ants": {
+   "source": "ss2-79213",
+   "of": "P. Huber",
+   "work": "The natural history of ants",
+   "translated": "(see the Gutenberg header)",
+   "translator": "James Rawlins Johnson",
+   "scan_edition": "Project Gutenberg 79213 (clean text)"
+  },
+  "singles-science-2-huygens-the-celestial-worlds-discover-d": {
+   "source": "ss2-71191",
+   "of": "Christiaan Huygens",
+   "work": "The celestial worlds discover'd",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Clarke",
+   "scan_edition": "Project Gutenberg 71191 (clean text)"
+  },
+  "singles-science-2-jacob-the-arts-in-the-middle-ages-and-at-the-p": {
+   "source": "ss2-59924",
+   "of": "P. L. Jacob",
+   "work": "The Arts in the Middle Ages and at the Period of the Renaissance",
+   "translated": "(see the Gutenberg header)",
+   "translator": "James Dafforne",
+   "scan_edition": "Project Gutenberg 59924 (clean text)"
+  },
+  "singles-science-2-koldewey-the-excavations-at-babylon": {
+   "source": "ss2-71398",
+   "of": "Robert Koldewey",
+   "work": "The excavations at Babylon",
+   "translated": "(see the Gutenberg header)",
+   "translator": "A. S. Johns",
+   "scan_edition": "Project Gutenberg 71398 (clean text)"
+  },
+  "singles-science-2-koppen-the-armies-of-europe": {
+   "source": "ss2-61365",
+   "of": "Fedor von Köppen",
+   "work": "The Armies of Europe",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edward Gleichen",
+   "scan_edition": "Project Gutenberg 61365 (clean text)"
+  },
+  "singles-science-2-lungwitz-a-text-book-of-horseshoeing-for-horsesho": {
+   "source": "ss2-66786",
+   "of": "A. Lungwitz",
+   "work": "A Text-Book of Horseshoeing, for Horseshoers and Veterinarians",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John W. Adams",
+   "scan_edition": "Project Gutenberg 66786 (clean text)"
+  },
+  "singles-science-2-marion-the-wonders-of-optics": {
+   "source": "ss2-65114",
+   "of": "Fulgence Marion",
+   "work": "The Wonders of Optics",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles W. Quin",
+   "scan_edition": "Project Gutenberg 65114 (clean text)"
+  },
+  "singles-science-2-metchnikoff-immunity-in-infective-diseases": {
+   "source": "ss2-77523",
+   "of": "Elie Metchnikoff",
+   "work": "Immunity in infective diseases",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Francis G. Binnie",
+   "scan_edition": "Project Gutenberg 77523 (clean text)"
+  },
+  "singles-science-2-moncalm-the-origin-of-thought-and-speech": {
+   "source": "ss2-64834",
+   "of": "M. Moncalm",
+   "work": "The Origin of Thought and Speech",
+   "translated": "(see the Gutenberg header)",
+   "translator": "G. S. Whitmarsh",
+   "scan_edition": "Project Gutenberg 64834 (clean text)"
+  },
+  "singles-science-2-moret-spanish-painting": {
+   "source": "ss2-64796",
+   "of": "A. de Beruete y Moret",
+   "work": "Spanish Painting",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Lewis Spence",
+   "scan_edition": "Project Gutenberg 64796 (clean text)"
+  },
+  "singles-science-2-mosso-fear": {
+   "source": "ss2-59901",
+   "of": "A. Mosso",
+   "work": "Fear",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Federico Kiesow and E. Lough",
+   "scan_edition": "Project Gutenberg 59901 (clean text)"
+  },
+  "singles-science-2-mure-dr-b-mure-s-materia-medica": {
+   "source": "ss2-70350",
+   "of": "Benoît Mure",
+   "work": "Dr. B. Mure's materia medica",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles J. Hempel",
+   "scan_edition": "Project Gutenberg 70350 (clean text)"
+  },
+  "singles-science-2-nilsson-primitive-time-reckoning": {
+   "source": "ss2-64768",
+   "of": "Martin P. Nilsson",
+   "work": "Primitive time-reckoning",
+   "translated": "(see the Gutenberg header)",
+   "translator": "F. J. Fielden",
+   "scan_edition": "Project Gutenberg 64768 (clean text)"
+  },
+  "singles-science-2-pasteur-studies-on-fermentation": {
+   "source": "ss2-63355",
+   "of": "Louis Pasteur",
+   "work": "Studies on fermentation",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Frank Faulkner and D. Constable Robb",
+   "scan_edition": "Project Gutenberg 63355 (clean text)"
+  },
+  "singles-science-2-pirro-johann-sebastian-bach": {
+   "source": "ss2-59085",
+   "of": "André Pirro",
+   "work": "Johann Sebastian Bach: The Organist and His Works for the Organ",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Wallace Goodrich",
+   "scan_edition": "Project Gutenberg 59085 (clean text)"
+  },
+  "singles-science-2-pottier-douris-and-the-painters-of-greek-vases": {
+   "source": "ss2-61034",
+   "of": "Edmond Pottier",
+   "work": "Douris and the Painters of Greek Vases",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Bettina Kahnweiler",
+   "scan_edition": "Project Gutenberg 61034 (clean text)"
+  },
+  "singles-science-2-pozzi-escot-the-toxins-and-venoms-and-their-antibodi": {
+   "source": "ss2-50458",
+   "of": "M. Emm. Pozzi-Escot",
+   "work": "The Toxins and Venoms and Their Antibodies",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Alfred I. Cohn",
+   "scan_edition": "Project Gutenberg 50458 (clean text)"
+  },
+  "singles-science-2-radiguet-the-making-of-a-modern-army-and-its-oper": {
+   "source": "ss2-59804",
+   "of": "René-Louis-Jules Radiguet",
+   "work": "The Making of a Modern Army and its Operations in the Field A study based on the experience of three years on the French front (1914-1917)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Henry P. Du Bellet",
+   "scan_edition": "Project Gutenberg 59804 (clean text)"
+  },
+  "singles-science-2-rambousek-industrial-poisoning-from-fumes-gases-an": {
+   "source": "ss2-60605",
+   "of": "Josef Rambousek",
+   "work": "Industrial Poisoning from Fumes, Gases and Poisons of Manufacturing Processes",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Thomas Morison Legge",
+   "scan_edition": "Project Gutenberg 60605 (clean text)"
+  },
+  "singles-science-2-ritter-comparative-geography": {
+   "source": "ss2-73615",
+   "of": "Carl Ritter",
+   "work": "Comparative geography",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Leonard Gage",
+   "scan_edition": "Project Gutenberg 73615 (clean text)"
+  },
+  "singles-science-2-robert-houdin-the-secrets-of-stage-conjuring": {
+   "source": "ss2-77917",
+   "of": "Jean-Eugène Robert-Houdin",
+   "work": "The secrets of stage conjuring",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Professor Hoffmann",
+   "scan_edition": "Project Gutenberg 77917 (clean text)"
+  },
+  "singles-science-2-rodin-art": {
+   "source": "ss2-59799",
+   "of": "Auguste Rodin",
+   "work": "Art",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Katharine Waldo Douglas Fedden",
+   "scan_edition": "Project Gutenberg 59799 (clean text)"
+  },
+  "singles-science-2-rodin-venus-to-the-venus-of-melos": {
+   "source": "ss2-59680",
+   "of": "Auguste Rodin",
+   "work": "Venus. To the Venus of Melos",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Dorothy Dudley",
+   "scan_edition": "Project Gutenberg 59680 (clean text)"
+  },
+  "singles-science-2-sachs-history-of-botany-1530-1860": {
+   "source": "ss2-61240",
+   "of": "Julius Sachs",
+   "work": "History of Botany (1530-1860)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Henry E. F. Garnsey",
+   "scan_edition": "Project Gutenberg 61240 (clean text)"
+  },
+  "singles-science-2-schnauss-collotype-and-photo-lithography": {
+   "source": "ss2-49866",
+   "of": "Julius Schnauss",
+   "work": "Collotype and Photo-lithography",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edwin C. Middleton",
+   "scan_edition": "Project Gutenberg 49866 (clean text)"
+  },
+  "singles-science-2-schroeder-handbook-of-violin-playing": {
+   "source": "ss2-73023",
+   "of": "Carl Schroeder",
+   "work": "Handbook of violin playing",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Matthews",
+   "scan_edition": "Project Gutenberg 73023 (clean text)"
+  },
+  "singles-science-2-sedziwoj-a-new-light-of-alchymie-taken-out-of-the": {
+   "source": "ss2-61112",
+   "of": "Michal Sedziwój and Paracelsus",
+   "work": "A New Light of Alchymie Taken out of the Fountaine of Nature, and Manuall Experience. Etc.",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John French",
+   "scan_edition": "Project Gutenberg 61112 (clean text)"
+  },
+  "singles-science-2-sernin-healthful-sports-for-young-ladies": {
+   "source": "ss2-57057",
+   "of": "Mademoiselle St. Sernin",
+   "work": "Healthful Sports for Young Ladies",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Combe",
+   "scan_edition": "Project Gutenberg 57057 (clean text)"
+  },
+  "singles-science-2-smith-soren-hjorth": {
+   "source": "ss2-66046",
+   "of": "Sigurd Smith",
+   "work": "Søren Hjorth: Inventor of the Dynamo-electric Principle",
+   "translated": "(see the Gutenberg header)",
+   "translator": "F. Sodemann",
+   "scan_edition": "Project Gutenberg 66046 (clean text)"
+  },
+  "singles-science-2-tramerye-the-world-struggle-for-oil": {
+   "source": "ss2-61894",
+   "of": "Pierre Paul Ernest L'Espagnol de la Tramerye",
+   "work": "The World-Struggle for Oil",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles Leonard Leese",
+   "scan_edition": "Project Gutenberg 61894 (clean text)"
+  },
+  "singles-science-2-valentini-mexican-copper-tools": {
+   "source": "ss2-57961",
+   "of": "Philipp J. J. Valentini",
+   "work": "Mexican Copper Tools: The Use of Copper by the Mexicans Before the Conquest; and the Katunes of Maya History, a Chapter in the Early History of Central America, With Special Reference to the Pio Perez",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Stephen Salisbury",
+   "scan_edition": "Project Gutenberg 57961 (clean text)"
+  },
+  "singles-science-2-vasari-vasari-on-technique": {
+   "source": "ss2-73397",
+   "of": "Giorgio Vasari",
+   "work": "Vasari on technique",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Louisa S. Maclehose",
+   "scan_edition": "Project Gutenberg 73397 (clean text)"
+  },
+  "singles-science-2-warming-a-handbook-of-systematic-botany": {
+   "source": "ss2-68580",
+   "of": "Eugenius Warming",
+   "work": "A handbook of systematic botany",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Michael Cresse Potter",
+   "scan_edition": "Project Gutenberg 68580 (clean text)"
+  }
+ },
+ "_pending": {
+  "pg-75107": "Luigi Federico Menabrea, Sketch of the Analytical Engine invented by Charles Babbage, Esq. (Ada Lovelace (Augusta Ada King, Countess of Lovelace)): Gutenberg has this only as HTML (it is full of mathematics), with no plain-text file. Left for a later pass that finds a period scan on the Internet Archive.",
+  "pg-76404": "Isaac Newton, Newton's Principia (Andrew Motte): Gutenberg has this only as HTML (it is full of mathematics), with no plain-text file. Left for a later pass that finds a period scan on the Internet Archive."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
+ "_checks": {
+  "ss2-49866": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edwin c. middleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edwin C. Middleton"
+  },
+  "ss2-50139": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "brannt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William T. Brannt"
+  },
+  "ss2-50458": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred i. cohn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alfred I. Cohn"
+  },
+  "ss2-50581": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hankey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomson Hankey"
+  },
+  "ss2-51041": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hutton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Hutton"
+  },
+  "ss2-52987": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "houlton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph Houlton"
+  },
+  "ss2-55735": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "furst",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isidor Furst"
+  },
+  "ss2-55739": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "elmslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Reginald Cheyne Elmslie"
+  },
+  "ss2-55971": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. j. wall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. J. Wall"
+  },
+  "ss2-57057": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "combe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Combe"
+  },
+  "ss2-57069": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "barrett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. Barrett"
+  },
+  "ss2-57961": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "salisbury",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Stephen Salisbury"
+  },
+  "ss2-58411": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "baldwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elizabeth L. Baldwin"
+  },
+  "ss2-58602": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "caldwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Caldwell"
+  },
+  "ss2-58635": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "tom bridges",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Tom Bridges"
+  },
+  "ss2-59085": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "goodrich",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Wallace Goodrich"
+  },
+  "ss2-59311": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "athol garnet elliott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Athol Garnet Elliott"
+  },
+  "ss2-59680": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dorothy dudley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Dorothy Dudley"
+  },
+  "ss2-59799": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "fedden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Waldo Douglas Fedden"
+  },
+  "ss2-59804": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "du bellet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry P. Du Bellet"
+  },
+  "ss2-59901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. lough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Federico Kiesow; E. Lough"
+  },
+  "ss2-59924": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dafforne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Dafforne"
+  },
+  "ss2-60605": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "legge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Thomas Morison Legge"
+  },
+  "ss2-61034": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bettina kahnweiler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bettina Kahnweiler"
+  },
+  "ss2-61112": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "french",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John French"
+  },
+  "ss2-61240": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "garnsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry E. F. Garnsey"
+  },
+  "ss2-61365": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward gleichen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lord Edward Gleichen"
+  },
+  "ss2-61894": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles leonard leese",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Leonard Leese"
+  },
+  "ss2-61986": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. c. richards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "G. C. Richards"
+  },
+  "ss2-63057": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. H."
+  },
+  "ss2-63355": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "d. constable robb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frank Faulkner; D. Constable Robb"
+  },
+  "ss2-63938": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "minor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas C. Minor"
+  },
+  "ss2-64768": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. j. fielden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "F. J. Fielden"
+  },
+  "ss2-64796": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lewis spence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lewis Spence"
+  },
+  "ss2-64834": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. s. whitmarsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "G. S. Whitmarsh"
+  },
+  "ss2-64927": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "krueger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Walter Krueger"
+  },
+  "ss2-65041": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles d. meigs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles D. Meigs"
+  },
+  "ss2-65114": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles w. quin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles W. Quin"
+  },
+  "ss2-66046": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. sodemann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "F. Sodemann"
+  },
+  "ss2-66786": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John W. Adams"
+  },
+  "ss2-67816": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "clementina stirling graham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clementina Stirling Graham"
+  },
+  "ss2-68186": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "margaret roberts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Margaret Roberts"
+  },
+  "ss2-68580": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "michael cresse potter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Michael Cresse Potter"
+  },
+  "ss2-69022": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "borns",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. Borns"
+  },
+  "ss2-69617": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charlotte kellogg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charlotte Kellogg; Vernon L. Kellogg"
+  },
+  "ss2-70133": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bolduan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Bolduan"
+  },
+  "ss2-70350": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles j. hempel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles J. Hempel"
+  },
+  "ss2-70708": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lindsay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Rachel T. Lindsay; Robert Bruce Lindsay"
+  },
+  "ss2-71191": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Clarke"
+  },
+  "ss2-71219": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles salter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Chas. Salter"
+  },
+  "ss2-71312": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "norman walker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Norman Walker"
+  },
+  "ss2-71333": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. e. kellett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. E. Kellett; Edward W. Naylor"
+  },
+  "ss2-71398": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. s. johns",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. S. Johns"
+  },
+  "ss2-71585": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "l. a. e. b.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "L. A. E. B."
+  },
+  "ss2-72143": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. c. wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. C. Wright"
+  },
+  "ss2-72995": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ashbee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. R. Ashbee"
+  },
+  "ss2-73023": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john matthews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Matthews"
+  },
+  "ss2-73028": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "allen wilson porterfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Allen Wilson Porterfield"
+  },
+  "ss2-73397": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "louisa s. maclehose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Louisa S. Maclehose"
+  },
+  "ss2-73615": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Leonard Gage"
+  },
+  "ss2-74239": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. e. fournier d'albe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. E. Fournier d'Albe"
+  },
+  "ss2-74240": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "christopher packe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "active 1670-1711 Christopher Packe"
+  },
+  "ss2-74532": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william withering",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Withering"
+  },
+  "ss2-76939": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john spanton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Spanton"
+  },
+  "ss2-77045": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ainsworth davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. R. Ainsworth Davis"
+  },
+  "ss2-77523": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "binnie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis G. Binnie"
+  },
+  "ss2-77560": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george haslam",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Haslam"
+  },
+  "ss2-77725": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "atkinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. Atkinson"
+  },
+  "ss2-77917": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hoffmann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Professor Hoffmann"
+  },
+  "ss2-78610": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert henry thurston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Henry Thurston"
+  },
+  "ss2-79213": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james rawlins johnson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Rawlins Johnson"
+  }
+ },
+ "_verified": {
+  "ss2-49866": {
+   "pg": 49866,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edwin C. Middleton"
+  },
+  "ss2-50139": {
+   "pg": 50139,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William T. Brannt"
+  },
+  "ss2-50458": {
+   "pg": 50458,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alfred I. Cohn"
+  },
+  "ss2-50581": {
+   "pg": 50581,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomson Hankey"
+  },
+  "ss2-51041": {
+   "pg": 51041,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Hutton"
+  },
+  "ss2-52987": {
+   "pg": 52987,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph Houlton"
+  },
+  "ss2-55735": {
+   "pg": 55735,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isidor Furst"
+  },
+  "ss2-55739": {
+   "pg": 55739,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Reginald Cheyne Elmslie"
+  },
+  "ss2-55971": {
+   "pg": 55971,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. J. Wall"
+  },
+  "ss2-57057": {
+   "pg": 57057,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Combe"
+  },
+  "ss2-57069": {
+   "pg": 57069,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "M. Barrett"
+  },
+  "ss2-57961": {
+   "pg": 57961,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Stephen Salisbury"
+  },
+  "ss2-58411": {
+   "pg": 58411,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Elizabeth L. Baldwin"
+  },
+  "ss2-58602": {
+   "pg": 58602,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Caldwell"
+  },
+  "ss2-58635": {
+   "pg": 58635,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Tom Bridges"
+  },
+  "ss2-59085": {
+   "pg": 59085,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Wallace Goodrich"
+  },
+  "ss2-59311": {
+   "pg": 59311,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Athol Garnet Elliott"
+  },
+  "ss2-59680": {
+   "pg": 59680,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Dorothy Dudley"
+  },
+  "ss2-59799": {
+   "pg": 59799,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Waldo Douglas Fedden"
+  },
+  "ss2-59804": {
+   "pg": 59804,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry P. Du Bellet"
+  },
+  "ss2-59901": {
+   "pg": 59901,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Federico Kiesow"
+  },
+  "ss2-59924": {
+   "pg": 59924,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Dafforne"
+  },
+  "ss2-60605": {
+   "pg": 60605,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Thomas Morison Legge"
+  },
+  "ss2-61034": {
+   "pg": 61034,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bettina Kahnweiler"
+  },
+  "ss2-61112": {
+   "pg": 61112,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John French"
+  },
+  "ss2-61240": {
+   "pg": 61240,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry E. F. Garnsey"
+  },
+  "ss2-61365": {
+   "pg": 61365,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lord Edward Gleichen"
+  },
+  "ss2-61894": {
+   "pg": 61894,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Leonard Leese"
+  },
+  "ss2-61986": {
+   "pg": 61986,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "G. C. Richards"
+  },
+  "ss2-63057": {
+   "pg": 63057,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. H."
+  },
+  "ss2-63355": {
+   "pg": 63355,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frank Faulkner"
+  },
+  "ss2-63938": {
+   "pg": 63938,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas C. Minor"
+  },
+  "ss2-64768": {
+   "pg": 64768,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "F. J. Fielden"
+  },
+  "ss2-64796": {
+   "pg": 64796,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lewis Spence"
+  },
+  "ss2-64834": {
+   "pg": 64834,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "G. S. Whitmarsh"
+  },
+  "ss2-64927": {
+   "pg": 64927,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Walter Krueger"
+  },
+  "ss2-65041": {
+   "pg": 65041,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles D. Meigs"
+  },
+  "ss2-65114": {
+   "pg": 65114,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles W. Quin"
+  },
+  "ss2-66046": {
+   "pg": 66046,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "F. Sodemann"
+  },
+  "ss2-66786": {
+   "pg": 66786,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John W. Adams"
+  },
+  "ss2-67816": {
+   "pg": 67816,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clementina Stirling Graham"
+  },
+  "ss2-68186": {
+   "pg": 68186,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Margaret Roberts"
+  },
+  "ss2-68580": {
+   "pg": 68580,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Michael Cresse Potter"
+  },
+  "ss2-69022": {
+   "pg": 69022,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "H. Borns"
+  },
+  "ss2-69617": {
+   "pg": 69617,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charlotte Kellogg"
+  },
+  "ss2-70133": {
+   "pg": 70133,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Bolduan"
+  },
+  "ss2-70350": {
+   "pg": 70350,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles J. Hempel"
+  },
+  "ss2-70708": {
+   "pg": 70708,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Rachel T. Lindsay"
+  },
+  "ss2-71191": {
+   "pg": 71191,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Clarke"
+  },
+  "ss2-71219": {
+   "pg": 71219,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Chas. Salter"
+  },
+  "ss2-71312": {
+   "pg": 71312,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Norman Walker"
+  },
+  "ss2-71333": {
+   "pg": 71333,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. E. Kellett"
+  },
+  "ss2-71398": {
+   "pg": 71398,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. S. Johns"
+  },
+  "ss2-71585": {
+   "pg": 71585,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "L. A. E. B."
+  },
+  "ss2-72143": {
+   "pg": 72143,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. C. Wright"
+  },
+  "ss2-72995": {
+   "pg": 72995,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. R. Ashbee"
+  },
+  "ss2-73023": {
+   "pg": 73023,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Matthews"
+  },
+  "ss2-73028": {
+   "pg": 73028,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Allen Wilson Porterfield"
+  },
+  "ss2-73397": {
+   "pg": 73397,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Louisa S. Maclehose"
+  },
+  "ss2-73615": {
+   "pg": 73615,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Leonard Gage"
+  },
+  "ss2-74239": {
+   "pg": 74239,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. E. Fournier d'Albe"
+  },
+  "ss2-74240": {
+   "pg": 74240,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "active 1670-1711 Christopher Packe"
+  },
+  "ss2-74532": {
+   "pg": 74532,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Withering"
+  },
+  "ss2-76939": {
+   "pg": 76939,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Spanton"
+  },
+  "ss2-77045": {
+   "pg": 77045,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. R. Ainsworth Davis"
+  },
+  "ss2-77523": {
+   "pg": 77523,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Francis G. Binnie"
+  },
+  "ss2-77560": {
+   "pg": 77560,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Haslam"
+  },
+  "ss2-77725": {
+   "pg": 77725,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. Atkinson"
+  },
+  "ss2-77917": {
+   "pg": 77917,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Professor Hoffmann"
+  },
+  "ss2-78610": {
+   "pg": 78610,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Henry Thurston"
+  },
+  "ss2-79213": {
+   "pg": 79213,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Rawlins Johnson"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

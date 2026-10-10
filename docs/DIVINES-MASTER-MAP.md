@@ -13365,6 +13365,143 @@ Round 45 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `singles-history-2-vogue-the-russian-novelists` | Eugène-Melchior Vogüé | The Russian novelists | Jane Loring Edmands | (see the Gutenberg header) | have | PG 72271 |
 | `singles-history-2-werne-african-wanderings` | Ferdinand Werne | African wanderings | J. R. Johnston | (see the Gutenberg header) | have | PG 78507 |
 
+## One-off translations: philosophy, law, religion and politics (Machiavelli's Prince, the Courtier, Maimonides's Guide, Bergson's Time and Free Will, Laplace, Valla's Donation, Descartes, Avicenna, Averroes)
+
+Shelf: `pipeline/singles-ideas-3_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-ideas-3` · titles `python3 pipeline/split_shelf_titles.py singles-ideas-3`.
+Round 46 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-ideas-3-anon-the-visigothic-code` | the Visigothic kings (the Forum Judicum) | The Visigothic code | S. P. Scott | (see the Gutenberg header) | have | PG 72551 |
+| `singles-ideas-3-averroes-the-philosophy-and-theology-of-averroes` | Averroës | The Philosophy and Theology of Averroes | Muhammad Jamil al-Rahman | (see the Gutenberg header) | have | PG 65708 |
+| `singles-ideas-3-avicenna-a-compendium-on-the-soul` | Avicenna | A Compendium on the Soul | Edward Abbott Van Dyck | (see the Gutenberg header) | have | PG 58186 |
+| `singles-ideas-3-bergson-time-and-free-will` | Henri Bergson | Time and Free Will: An Essay on the Immediate Data of Consciousness | Frank Lubecki Pogson | (see the Gutenberg header) | have | PG 56852 |
+| `singles-ideas-3-boer-the-history-of-philosophy-in-islam` | T. J. de Boer | The History of Philosophy in Islam | Edward R. Jones | (see the Gutenberg header) | have | PG 66566 |
+| `singles-ideas-3-bonger-criminality-and-economic-conditions` | Willem Adriaan Bonger | Criminality and economic conditions | Henry P. Horton | (see the Gutenberg header) | have | PG 71282 |
+| `singles-ideas-3-callieres-on-the-manner-of-negotiating-with-prince` | Monsieur de Callières | On the manner of negotiating with princes On the uses of diplomacy; the choice of ministers and envoys; and the personal qualities necessary for success in missions abroad | Alexander Frederick Whyte | (see the Gutenberg header) | have | PG 68987 |
+| `singles-ideas-3-casaux-thoughts-on-the-mechanism-of-societies` | Charles Casaux | Thoughts on the mechanism of societies | Joseph Parkyns Macmahon | (see the Gutenberg header) | have | PG 73958 |
+| `singles-ideas-3-castiglione-the-book-of-the-courtier` | Baldassarre Castiglione | The Book of the Courtier | Leonard Eckstein Opdycke | (see the Gutenberg header) | have | PG 67799 |
+| `singles-ideas-3-chamfort-the-cynic-s-breviary` | Sébastien-Roch-Nicolas Chamfort | The cynic's breviary: Maxims and anecdotes from Nicolas de Chamfort | William G. Hutchison | (see the Gutenberg header) | have | PG 69632 |
+| `singles-ideas-3-chatelier-how-to-become-mentally-superior` | Henri Le Chatelier | How to become mentally superior | Ralph E. Oesper | (see the Gutenberg header) | have | PG 78988 |
+| `singles-ideas-3-compayre-the-history-of-pedagogy` | Gabriel Compayré | The History of Pedagogy | William Harold Payne | (see the Gutenberg header) | have | PG 62376 |
+| `singles-ideas-3-confucius-the-book-of-filial-duty` | Confucius and Zengzi | The book of filial duty | Ivan Chên | (see the Gutenberg header) | have | PG 75878 |
+| `singles-ideas-3-coulanges-the-origin-of-property-in-land-with-an-i` | Fustel de Coulanges | The Origin of Property in Land With an introductory chapter on the English manor by W. J. Ashley | Margaret Ashley | (see the Gutenberg header) | have | PG 67558 |
+| `singles-ideas-3-d-olivet-the-golden-verses-of-pythagoras` | Antoine Fabre d'Olivet and Pythagoras | The golden verses of Pythagoras | Nayán Louise Redfield | (see the Gutenberg header) | have | PG 69174 |
+| `singles-ideas-3-dahlke-buddhism-science` | Paul Dahlke | Buddhism & science | Bhikkhu Sīlāchāra | (see the Gutenberg header) | have | PG 77146 |
+| `singles-ideas-3-descartes-six-metaphysical-meditations` | René Descartes | Six metaphysical meditations | William Molyneux | (see the Gutenberg header) | have | PG 70091 |
+| `singles-ideas-3-droz-the-art-of-being-happy-in-a-series-of-le` | Joseph Droz | The Art of Being Happy In a Series of Letters from a Father to His Children: with Observations and Comments | Timothy Flint | (see the Gutenberg header) | have | PG 56869 |
+| `singles-ideas-3-fechner-the-little-book-of-life-after-death` | Gustav Theodor Fechner | The little book of life after death | Mary C. Wadsworth | (see the Gutenberg header) | have | PG 74480 |
+| `singles-ideas-3-flournoy-from-india-to-the-planet-mars` | Théodore Flournoy | From India to the planet Mars: A study of a case of somnambulism with glossolalia | Daniel B. Vermilye | (see the Gutenberg header) | have | PG 63092 |
+| `singles-ideas-3-fontenelle-conversations-on-the-plurality-of-worlds` | M. de Fontenelle | Conversations on the Plurality of Worlds | Miss Gunning | (see the Gutenberg header) | have | PG 66559 |
+| `singles-ideas-3-ghazzali-some-religious-and-moral-teachings-of-al` | Ghazzali | Some religious and moral teachings of Al-Ghazzali | Syed Nawab Ali | (see the Gutenberg header) | have | PG 73140 |
+| `singles-ideas-3-gide-a-history-of-economic-doctrines` | Charles Gide and Charles Rist | A history of economic doctrines | R. Richards and William Smart | (see the Gutenberg header) | have | PG 57500 |
+| `singles-ideas-3-glanville-a-translation-of-glanville` | Ranulf de Glanville | A translation of Glanville | John Beames | (see the Gutenberg header) | have | PG 71142 |
+| `singles-ideas-3-grotius-the-freedom-of-the-seas` | Hugo Grotius | The freedom of the seas | Ralph Van Deman Magoffin | (see the Gutenberg header) | have | PG 75962 |
+| `singles-ideas-3-hilty-happiness` | Karl Hilty | Happiness: Essays on the meaning of life | Francis Greenwood Peabody | (see the Gutenberg header) | have | PG 68817 |
+| `singles-ideas-3-hilty-the-steps-of-life` | Karl Hilty | The steps of life: further essays on happiness | Melvin Brandow | (see the Gutenberg header) | have | PG 71785 |
+| `singles-ideas-3-i-the-officer-s-manual` | Emperor of the French Napoleon I | The Officer's Manual: Napoleon's Maxims of War | G. C. D'Aguilar | (see the Gutenberg header) | have | PG 50750 |
+| `singles-ideas-3-key-the-century-of-the-child` | Ellen Key | The Century of the Child | Francis Maro | (see the Gutenberg header) | have | PG 57283 |
+| `singles-ideas-3-laplace-a-philosophical-essay-on-probabilities` | Pierre Simon Laplace | A Philosophical Essay on Probabilities | Frederick Lincoln Emory and Frederick Wilson Truscott | (see the Gutenberg header) | have | PG 58881 |
+| `singles-ideas-3-levi-the-history-of-magic` | Éliphas Lévi | The history of magic | Arthur Edward Waite | (see the Gutenberg header) | have | PG 70033 |
+| `singles-ideas-3-levy-bruhl-the-philosophy-of-auguste-comte` | Lucien Lévy-Bruhl | The Philosophy of Auguste Comte | Kathleen Mary de Beaumont Klein | (see the Gutenberg header) | have | PG 56517 |
+| `singles-ideas-3-lipsius-a-brief-outline-of-the-history-of-librar` | Justus Lipsius | A brief outline of the history of libraries | John Cotton Dana | (see the Gutenberg header) | have | PG 78256 |
+| `singles-ideas-3-machiavelli-the-prince` | Niccolò Machiavelli | The Prince | Luigi Ricci | (see the Gutenberg header) | have | PG 57037 |
+| `singles-ideas-3-maimonides-the-guide-for-the-perplexed` | Moses Maimonides | The guide for the perplexed | M. Friedländer | (see the Gutenberg header) | have | PG 73584 |
+| `singles-ideas-3-nostradamus-the-true-prophecies-or-prognostications` | Nostradamus | The true prophecies or prognostications of Michael Nostradamus, physician to Henry II. Francis II. and Charles IX. Kings of France, and one of the best astronomers that ever were. A work full of curio | Theophilus Garencières | (see the Gutenberg header) | have | PG 68907 |
+| `singles-ideas-3-palacios-islam-and-the-divine-comedy` | Miguel Asín Palacios | Islam and the Divine comedy | Harold Sunderland | (see the Gutenberg header) | have | PG 77789 |
+| `singles-ideas-3-pannekoek-marxism-and-darwinism` | Anton Pannekoek | Marxism and Darwinism | Nathan Weiser | (see the Gutenberg header) | have | PG 72095 |
+| `singles-ideas-3-petrarca-petrarch-the-first-modern-scholar-and-ma` | Francesco Petrarca | Petrarch, the First Modern Scholar and Man of Letters A Selection from His Correspondence with Boccaccio and Other Friends, Designed to Illustrate the Beginnings of the Renaissance | James Harvey Robinson and Henry Winchester Rolfe | (see the Gutenberg header) | have | PG 48776 |
+| `singles-ideas-3-rhyn-mysteria` | Otto Henne am Rhyn | Mysteria | J. Fitzgerald | (see the Gutenberg header) | have | PG 77541 |
+| `singles-ideas-3-richter-pictures-of-the-socialistic-future-freel` | Eugen Richter | Pictures of the Socialistic Future (freely adapted from Bebel) | Henry Wright | (see the Gutenberg header) | have | PG 66123 |
+| `singles-ideas-3-rohde-psyche` | Erwin Rohde | Psyche: The Cult of Souls and Belief in Immortality among the Greeks | W. B. Hillis | (see the Gutenberg header) | have | PG 66555 |
+| `singles-ideas-3-solovyof-the-justification-of-the-good` | Vladimir Solovyof | The justification of the good | Nathalie A. Duddington | (see the Gutenberg header) | have | PG 79715 |
+| `singles-ideas-3-stekel-the-depths-of-the-soul` | Wilhelm Stekel | The Depths of the Soul: Psycho-Analytical Studies | Samuel A. Tannenbaum | (see the Gutenberg header) | have | PG 57272 |
+| `singles-ideas-3-valla-the-treatise-of-lorenzo-valla-on-the-don` | Lorenzo Valla | The treatise of Lorenzo Valla on the Donation of Constantine | Christopher Bush Coleman | (see the Gutenberg header) | have | PG 70092 |
+| `singles-ideas-3-vives-tudor-school-boy-life` | Juan Luis Vives | Tudor school-boy life: the dialogues of Juan Luis Vives | Foster Watson | (see the Gutenberg header) | have | PG 56286 |
+| `singles-ideas-3-winckelmann-reflections-on-the-painting-and-sculptur` | Johann Joachim Winckelmann | Reflections on the painting and sculpture of the Greeks | Henry Fuseli | (see the Gutenberg header) | have | PG 61317 |
+| `singles-ideas-3-zetkin-social-democracy-and-woman-suffrage-a-pa` | Klara Zetkin | Social-Democracy and Woman Suffrage A Paper Read by Clara Zetkin to the Conference of Women Belonging to the Social-Democratic Party Held at Mannheim, Before the Opening of the Annual Congress of the  | A. Blaize | (see the Gutenberg header) | have | PG 57474 |
+
+## One-off translations: science, medicine, art and crafts (Carnot, Huygens, Pasteur, Sachs, Helmholtz, Cellini's treatises, Koldewey's Babylon, Robert-Houdin)
+
+Shelf: `pipeline/singles-science-2_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-science-2` · titles `python3 pipeline/split_shelf_titles.py singles-science-2`.
+Round 46 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-science-2-arrhenius-worlds-in-the-making` | Svante Arrhenius | Worlds in the making: The evolution of the universe | H. Borns | (see the Gutenberg header) | have | PG 69022 |
+| `singles-science-2-askinson-perfumes-and-their-preparation` | George William Askinson | Perfumes and their preparation | Isidor Furst | (see the Gutenberg header) | have | PG 55735 |
+| `singles-science-2-balck-tactics-volume-1-of-2-introduction-and-f` | W. Balck | Tactics, Volume 1 (of 2). Introduction and Formal Tactics of Infantry | Walter Krueger | (see the Gutenberg header) | have | PG 64927 |
+| `singles-science-2-behring-the-suppression-of-tuberculosis` | Emil von Behring | The suppression of tuberculosis | Charles Bolduan | (see the Gutenberg header) | have | PG 70133 |
+| `singles-science-2-bergman-outlines-of-mineralogy` | Torbern Bergman | Outlines of mineralogy | William Withering | (see the Gutenberg header) | have | PG 74532 |
+| `singles-science-2-bernhardi-cavalry-a-popular-edition-of-cavalry-in` | Friedrich von Bernhardi | Cavalry A Popular Edition of "Cavalry in War and Peace" | Tom Bridges | (see the Gutenberg header) | have | PG 58635 |
+| `singles-science-2-bersch-the-manufacture-of-earth-colours` | Josef Bersch | The manufacture of earth colours | Chas. Salter | (see the Gutenberg header) | have | PG 71219 |
+| `singles-science-2-bersch-the-manufacture-of-mineral-and-lake-pigm` | Josef Bersch | The manufacture of mineral and lake pigments | A. C. Wright | (see the Gutenberg header) | have | PG 72143 |
+| `singles-science-2-bichat-treatise-on-the-anatomy-and-physiology-o` | Xavier Bichat | Treatise on the Anatomy and Physiology of the Mucous Membranes With Illustrative Pathological Observations | Joseph Houlton | (see the Gutenberg header) | have | PG 52987 |
+| `singles-science-2-bie-history-of-the-pianoforte-and-pianoforte` | Oskar Bie | History of the pianoforte and pianoforte players | E. E. Kellett and Edward W. Naylor | (see the Gutenberg header) | have | PG 71333 |
+| `singles-science-2-bloem-the-soul-of-the-moving-picture` | Walter Julius Bloem | The soul of the moving picture | Allen Wilson Porterfield | (see the Gutenberg header) | have | PG 73028 |
+| `singles-science-2-bos-agricultural-zoology` | J. Ritzema Bos | Agricultural zoology | J. R. Ainsworth Davis | (see the Gutenberg header) | have | PG 77045 |
+| `singles-science-2-broca-artificial-limbs` | Auguste Broca and Charles Ducroquet | Artificial Limbs | Reginald Cheyne Elmslie | (see the Gutenberg header) | have | PG 55739 |
+| `singles-science-2-bruun-the-cave-dwellers-of-southern-tunisia` | Daniel Bruun | The cave dwellers of Southern Tunisia | L. A. E. B. | (see the Gutenberg header) | have | PG 71585 |
+| `singles-science-2-buschor-greek-vase-painting-griechische-vasenmal` | Ernst Buschor | Greek vase-painting (Griechische Vasenmalerei) | G. C. Richards | (see the Gutenberg header) | have | PG 61986 |
+| `singles-science-2-carnot-reflections-on-the-motive-power-of-heat` | Sadi Carnot and William Thomson Kelvin | Reflections on the motive power of heat | Robert Henry Thurston | (see the Gutenberg header) | have | PG 78610 |
+| `singles-science-2-cellini-the-treatises-of-benvenuto-cellini-on-go` | Benvenuto Cellini | The treatises of Benvenuto Cellini on goldsmithing and sculpture | C. R. Ashbee | (see the Gutenberg header) | have | PG 72995 |
+| `singles-science-2-chevreul-the-laws-of-contrast-of-colour` | M. E. Chevreul | The laws of contrast of colour | John Spanton | (see the Gutenberg header) | have | PG 76939 |
+| `singles-science-2-curie-pierre-curie` | Marie Curie | Pierre Curie | Charlotte Kellogg and Vernon L. Kellogg | (see the Gutenberg header) | have | PG 69617 |
+| `singles-science-2-dancel-obesity-or-excessive-corpulence` | J.-F. Dancel | Obesity, or Excessive Corpulence: The Various Causes and the Rational Means of Cure | M. Barrett | (see the Gutenberg header) | have | PG 57069 |
+| `singles-science-2-daumas-the-horses-of-the-sahara-and-the-manners` | E.‏ Daumas | The Horses of the Sahara and the Manners of the Desert | James Hutton | (see the Gutenberg header) | have | PG 51041 |
+| `singles-science-2-deite-a-practical-treatise-on-the-manufacture` | C. Deite | A practical treatise on the manufacture of perfumery | William T. Brannt | (see the Gutenberg header) | have | PG 50139 |
+| `singles-science-2-desault-a-treatise-on-fractures-luxations-and-ot` | P.-J. Desault | A Treatise on Fractures, Luxations, and Other Affections of the Bones | Charles Caldwell | (see the Gutenberg header) | have | PG 58602 |
+| `singles-science-2-dupouy-medicine-in-the-middle-ages-extracts-fro` | Edmond Dupouy | Medicine in the Middle Ages Extracts from "Le Moyen Age Medical" by Dr. Edmond Dupouy; translated by T. C. Minor | Thomas C. Minor | (see the Gutenberg header) | have | PG 63938 |
+| `singles-science-2-ecker-the-anatomy-of-the-frog` | Alexander Ecker | The anatomy of the frog | George Haslam | (see the Gutenberg header) | have | PG 77560 |
+| `singles-science-2-fabre-insect-life` | Jean-Henri Fabre | Insect life: Souvenirs of a naturalist | Margaret Roberts | (see the Gutenberg header) | have | PG 68186 |
+| `singles-science-2-faucher-remarks-on-the-production-of-the-preciou` | Léon Faucher | Remarks on the production of the precious metals and on the demonetization of gold in several countries in Europe | Thomson Hankey | (see the Gutenberg header) | have | PG 50581 |
+| `singles-science-2-flammarion-dreams-of-an-astronomer` | Camille Flammarion | Dreams of an astronomer | E. E. Fournier d'Albe | (see the Gutenberg header) | have | PG 74239 |
+| `singles-science-2-flourens-phrenology-examined` | P. Flourens | Phrenology Examined | Charles D. Meigs | (see the Gutenberg header) | have | PG 65041 |
+| `singles-science-2-fritz-photo-lithography` | Georg Fritz | Photo-Lithography | E. J. Wall | (see the Gutenberg header) | have | PG 55971 |
+| `singles-science-2-gelieu-the-bee-preserver` | Jonas de Gélieu | The Bee Preserver; or, Practical Directions for the Management and Preservation of Hives | Clementina Stirling Graham | (see the Gutenberg header) | have | PG 67816 |
+| `singles-science-2-glauber-the-works-of-the-highly-experienced-and` | Johann Rudolf Glauber | The works of the highly experienced and famous chymist, John Rudolph Glauber | Christopher Packe | (see the Gutenberg header) | have | PG 74240 |
+| `singles-science-2-graffigny-gas-and-petroleum-engines` | H. de Graffigny | Gas and Petroleum Engines | Athol Garnet Elliott | (see the Gutenberg header) | have | PG 59311 |
+| `singles-science-2-groneman-ruins-of-buddhistic-temples-in-praga-val` | I. Groneman | Ruins of Buddhistic Temples in Prågå Valley—Tyandis Båråbudur, Mendut and Pawon | J. H. | (see the Gutenberg header) | have | PG 63057 |
+| `singles-science-2-groos-the-play-of-man` | Karl Groos | The Play of Man | Elizabeth L. Baldwin | (see the Gutenberg header) | have | PG 58411 |
+| `singles-science-2-hansen-leprosy` | G. Armauer Hansen and Carl Looft | Leprosy | Norman Walker | (see the Gutenberg header) | have | PG 71312 |
+| `singles-science-2-helmholtz-popular-lectures-on-scientific-subjects` | Hermann von Helmholtz | Popular lectures on scientific subjects | E. Atkinson | (see the Gutenberg header) | have | PG 77725 |
+| `singles-science-2-holst-the-atom-and-the-bohr-theory-of-its-stru` | Helge Holst and Hendrik Anthony Kramers | The atom and the Bohr theory of its structure | Rachel T. Lindsay and Robert Bruce Lindsay | (see the Gutenberg header) | have | PG 70708 |
+| `singles-science-2-huber-the-natural-history-of-ants` | P. Huber | The natural history of ants | James Rawlins Johnson | (see the Gutenberg header) | have | PG 79213 |
+| `singles-science-2-huygens-the-celestial-worlds-discover-d` | Christiaan Huygens | The celestial worlds discover'd | John Clarke | (see the Gutenberg header) | have | PG 71191 |
+| `singles-science-2-jacob-the-arts-in-the-middle-ages-and-at-the-p` | P. L. Jacob | The Arts in the Middle Ages and at the Period of the Renaissance | James Dafforne | (see the Gutenberg header) | have | PG 59924 |
+| `singles-science-2-koldewey-the-excavations-at-babylon` | Robert Koldewey | The excavations at Babylon | A. S. Johns | (see the Gutenberg header) | have | PG 71398 |
+| `singles-science-2-koppen-the-armies-of-europe` | Fedor von Köppen | The Armies of Europe | Edward Gleichen | (see the Gutenberg header) | have | PG 61365 |
+| `singles-science-2-lungwitz-a-text-book-of-horseshoeing-for-horsesho` | A. Lungwitz | A Text-Book of Horseshoeing, for Horseshoers and Veterinarians | John W. Adams | (see the Gutenberg header) | have | PG 66786 |
+| `singles-science-2-marion-the-wonders-of-optics` | Fulgence Marion | The Wonders of Optics | Charles W. Quin | (see the Gutenberg header) | have | PG 65114 |
+| `singles-science-2-metchnikoff-immunity-in-infective-diseases` | Elie Metchnikoff | Immunity in infective diseases | Francis G. Binnie | (see the Gutenberg header) | have | PG 77523 |
+| `singles-science-2-moncalm-the-origin-of-thought-and-speech` | M. Moncalm | The Origin of Thought and Speech | G. S. Whitmarsh | (see the Gutenberg header) | have | PG 64834 |
+| `singles-science-2-moret-spanish-painting` | A. de Beruete y Moret | Spanish Painting | Lewis Spence | (see the Gutenberg header) | have | PG 64796 |
+| `singles-science-2-mosso-fear` | A. Mosso | Fear | Federico Kiesow and E. Lough | (see the Gutenberg header) | have | PG 59901 |
+| `singles-science-2-mure-dr-b-mure-s-materia-medica` | Benoît Mure | Dr. B. Mure's materia medica | Charles J. Hempel | (see the Gutenberg header) | have | PG 70350 |
+| `singles-science-2-nilsson-primitive-time-reckoning` | Martin P. Nilsson | Primitive time-reckoning | F. J. Fielden | (see the Gutenberg header) | have | PG 64768 |
+| `singles-science-2-pasteur-studies-on-fermentation` | Louis Pasteur | Studies on fermentation | Frank Faulkner and D. Constable Robb | (see the Gutenberg header) | have | PG 63355 |
+| `singles-science-2-pirro-johann-sebastian-bach` | André Pirro | Johann Sebastian Bach: The Organist and His Works for the Organ | Wallace Goodrich | (see the Gutenberg header) | have | PG 59085 |
+| `singles-science-2-pottier-douris-and-the-painters-of-greek-vases` | Edmond Pottier | Douris and the Painters of Greek Vases | Bettina Kahnweiler | (see the Gutenberg header) | have | PG 61034 |
+| `singles-science-2-pozzi-escot-the-toxins-and-venoms-and-their-antibodi` | M. Emm. Pozzi-Escot | The Toxins and Venoms and Their Antibodies | Alfred I. Cohn | (see the Gutenberg header) | have | PG 50458 |
+| `singles-science-2-radiguet-the-making-of-a-modern-army-and-its-oper` | René-Louis-Jules Radiguet | The Making of a Modern Army and its Operations in the Field A study based on the experience of three years on the French front (1914-1917) | Henry P. Du Bellet | (see the Gutenberg header) | have | PG 59804 |
+| `singles-science-2-rambousek-industrial-poisoning-from-fumes-gases-an` | Josef Rambousek | Industrial Poisoning from Fumes, Gases and Poisons of Manufacturing Processes | Thomas Morison Legge | (see the Gutenberg header) | have | PG 60605 |
+| `singles-science-2-ritter-comparative-geography` | Carl Ritter | Comparative geography | William Leonard Gage | (see the Gutenberg header) | have | PG 73615 |
+| `singles-science-2-robert-houdin-the-secrets-of-stage-conjuring` | Jean-Eugène Robert-Houdin | The secrets of stage conjuring | Professor Hoffmann | (see the Gutenberg header) | have | PG 77917 |
+| `singles-science-2-rodin-art` | Auguste Rodin | Art | Katharine Waldo Douglas Fedden | (see the Gutenberg header) | have | PG 59799 |
+| `singles-science-2-rodin-venus-to-the-venus-of-melos` | Auguste Rodin | Venus. To the Venus of Melos | Dorothy Dudley | (see the Gutenberg header) | have | PG 59680 |
+| `singles-science-2-sachs-history-of-botany-1530-1860` | Julius Sachs | History of Botany (1530-1860) | Henry E. F. Garnsey | (see the Gutenberg header) | have | PG 61240 |
+| `singles-science-2-schnauss-collotype-and-photo-lithography` | Julius Schnauss | Collotype and Photo-lithography | Edwin C. Middleton | (see the Gutenberg header) | have | PG 49866 |
+| `singles-science-2-schroeder-handbook-of-violin-playing` | Carl Schroeder | Handbook of violin playing | John Matthews | (see the Gutenberg header) | have | PG 73023 |
+| `singles-science-2-sedziwoj-a-new-light-of-alchymie-taken-out-of-the` | Michal Sedziwój and Paracelsus | A New Light of Alchymie Taken out of the Fountaine of Nature, and Manuall Experience. Etc. | John French | (see the Gutenberg header) | have | PG 61112 |
+| `singles-science-2-sernin-healthful-sports-for-young-ladies` | Mademoiselle St. Sernin | Healthful Sports for Young Ladies | William Combe | (see the Gutenberg header) | have | PG 57057 |
+| `singles-science-2-smith-soren-hjorth` | Sigurd Smith | Søren Hjorth: Inventor of the Dynamo-electric Principle | F. Sodemann | (see the Gutenberg header) | have | PG 66046 |
+| `singles-science-2-tramerye-the-world-struggle-for-oil` | Pierre Paul Ernest L'Espagnol de la Tramerye | The World-Struggle for Oil | Charles Leonard Leese | (see the Gutenberg header) | have | PG 61894 |
+| `singles-science-2-valentini-mexican-copper-tools` | Philipp J. J. Valentini | Mexican Copper Tools: The Use of Copper by the Mexicans Before the Conquest; and the Katunes of Maya History, a Chapter in the Early History of Central America, With Special Reference to the Pio Perez | Stephen Salisbury | (see the Gutenberg header) | have | PG 57961 |
+| `singles-science-2-vasari-vasari-on-technique` | Giorgio Vasari | Vasari on technique | Louisa S. Maclehose | (see the Gutenberg header) | have | PG 73397 |
+| `singles-science-2-warming-a-handbook-of-systematic-botany` | Eugenius Warming | A handbook of systematic botany | Michael Cresse Potter | (see the Gutenberg header) | have | PG 68580 |
+| `pg-75107` | — | Luigi Federico Menabrea, Sketch of the Analytical Engine invented by Charles Babbage, Esq. (Ada Lovelace (Augusta Ada King, Countess of Lovelace)): Gutenberg has this only as HTML (it is full of mathematics), with no plain-text file. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+| `pg-76404` | — | Isaac Newton, Newton's Principia (Andrew Motte): Gutenberg has this only as HTML (it is full of mathematics), with no plain-text file. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
