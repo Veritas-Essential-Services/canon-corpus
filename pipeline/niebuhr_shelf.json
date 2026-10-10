@@ -1,0 +1,109 @@
+{
+ "_about": "Barthold Georg Niebuhr (1776-1831) in English: Lectures on Roman History, ed. Isler, tr. H. M. Chepmell and F. Demmler (3 vols.), and Lectures on Ancient Ethnography and Geography, tr. Leonhard Schmitz (2 vols.). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Niebuhr's Lectures on Roman History, vol. 1, Niebuhr's Lectures on Roman History, vol. 2, Niebuhr's Lectures on Roman History, vol. 3, Lectures on Ancient Ethnography and Geography, vol. 1, Lectures on Ancient Ethnography and Geography, vol. 2, clean Gutenberg. No uids minted.",
+ "_name_words": [
+  "niebuhr"
+ ],
+ "_surname": [
+  "b. g. niebuhr",
+  "barthold georg niebuhr",
+  "niebuhr, barthold georg"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "niebuhr-lectures-roman-history-v1": [
+   71375,
+   "Niebuhr's Lectures on Roman History, vol. 1",
+   "tr. H. M. Chepmell and F. Demmler"
+  ],
+  "niebuhr-lectures-roman-history-v2": [
+   71385,
+   "Niebuhr's Lectures on Roman History, vol. 2",
+   "tr. H. M. Chepmell and F. Demmler"
+  ],
+  "niebuhr-lectures-roman-history-v3": [
+   75732,
+   "Niebuhr's Lectures on Roman History, vol. 3",
+   "tr. H. M. Chepmell and F. Demmler"
+  ],
+  "niebuhr-lectures-ethnography-geography-v1": [
+   78451,
+   "Lectures on Ancient Ethnography and Geography, vol. 1",
+   "tr. Leonhard Schmitz"
+  ],
+  "niebuhr-lectures-ethnography-geography-v2": [
+   78452,
+   "Lectures on Ancient Ethnography and Geography, vol. 2",
+   "tr. Leonhard Schmitz"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "niebuhr-lectures-roman-history-v1": "Chepmell",
+  "niebuhr-lectures-roman-history-v2": "Chepmell",
+  "niebuhr-lectures-roman-history-v3": "Chepmell",
+  "niebuhr-lectures-ethnography-geography-v1": "Leonhard Schmitz",
+  "niebuhr-lectures-ethnography-geography-v2": "Leonhard Schmitz"
+ },
+ "_checks": {
+  "niebuhr-lectures-roman-history-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "barthold georg niebuhr",
+   "translator_claimed": "Chepmell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Havilland Le Mesurier Chepmell; Franz Demmler",
+   "translator_match": true
+  },
+  "niebuhr-lectures-roman-history-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. g. niebuhr",
+   "translator_claimed": "Chepmell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Havilland Le Mesurier Chepmell; Franz Demmler",
+   "translator_match": true
+  },
+  "niebuhr-lectures-roman-history-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "barthold georg niebuhr",
+   "translator_claimed": "Chepmell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Havilland Le Mesurier Chepmell; Franz Demmler",
+   "translator_match": true
+  },
+  "niebuhr-lectures-ethnography-geography-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. g. niebuhr",
+   "translator_claimed": "Leonhard Schmitz",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Leonhard Schmitz",
+   "translator_match": true
+  },
+  "niebuhr-lectures-ethnography-geography-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. g. niebuhr",
+   "translator_claimed": "Leonhard Schmitz",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Leonhard Schmitz",
+   "translator_match": true
+  }
+ }
+}
