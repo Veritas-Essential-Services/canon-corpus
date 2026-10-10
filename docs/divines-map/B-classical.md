@@ -2059,6 +2059,7 @@ Shelf: `pipeline/philostratus_shelf.json`. Berwick's Life of Apollonius (1809) a
 |---|---|---|---|
 | The Life of Apollonius of Tyana, translated from the Greek of Philostratus (London, 1809) | Edward Berwick | `philostratus-berwick-apollonius` | have-raw (IA `lifeofapollonius00phil`) |
 | Philostratus, In Honour of Apollonius of Tyana, vol. 1 (Oxford, 1912) | J. S. Phillimore | `philostratus-phillimore-apollonius-v1` | have-raw (IA `philostratusinho00philuoft`) |
+| A Life and Times of Apollonius of Tyana, rendered into English from the Greek of Philostratus the Elder (Stanford University Publications, 1923) | Charles P. Eells | `philostratus-eells-apollonius-1923` | have-raw (IA `lifetimesofapoll00phil`) |
 
 Pending (wishlist): Phillimore vol. 2 (1912; no scan found); the Lives of the Sophists and Imagines in a PD English version; Conybeare's Loeb (Greek facing).
 
