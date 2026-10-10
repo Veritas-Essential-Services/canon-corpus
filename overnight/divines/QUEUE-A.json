@@ -2026,6 +2026,83 @@
       "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
       "finished": "2026-10-10T10:08:48-05:00",
       "notes": "built and verified"
+    },
+    {
+      "id": "r-w-dale",
+      "status": "queued",
+      "scope": "R. W. Dale: The Atonement, Ephesians, Christian Doctrine (d. 1895)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch)."
+    },
+    {
+      "id": "joseph-parker",
+      "status": "queued",
+      "scope": "Joseph Parker of the City Temple: Ecce Deus, sermons (d. 1902)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch)."
+    },
+    {
+      "id": "christmas-evans",
+      "status": "queued",
+      "scope": "Christmas Evans in English: sermons, memoirs (d. 1838)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch)."
+    },
+    {
+      "id": "john-berridge",
+      "status": "queued",
+      "scope": "John Berridge: The Christian World Unmasked, Works (d. 1793)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch)."
+    },
+    {
+      "id": "rowland-hill",
+      "status": "queued",
+      "scope": "Rowland Hill of Surrey Chapel: Village Dialogues (d. 1833)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch)."
+    },
+    {
+      "id": "j-c-philpot",
+      "status": "queued",
+      "scope": "J. C. Philpot, Strict Baptist: sermons, Meditations (d. 1869)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch)."
+    },
+    {
+      "id": "william-huntington",
+      "status": "queued",
+      "scope": "William Huntington S.S.: Works, Bank of Faith (d. 1813)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch)."
+    },
+    {
+      "id": "john-brine",
+      "status": "queued",
+      "scope": "John Brine, Particular Baptist (d. 1765)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch)."
+    },
+    {
+      "id": "william-gadsby",
+      "status": "queued",
+      "scope": "William Gadsby, Strict Baptist (d. 1844)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch)."
+    },
+    {
+      "id": "thomas-binney",
+      "status": "queued",
+      "scope": "Thomas Binney of the King's Weigh House (d. 1874)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch)."
+    },
+    {
+      "id": "henry-drummond",
+      "status": "queued",
+      "scope": "Henry Drummond: Natural Law in the Spiritual World, The Greatest Thing in the World (d. 1897)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch)."
     }
   ]
 }

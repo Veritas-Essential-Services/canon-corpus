@@ -2706,6 +2706,14 @@ Slugs `kurtz-*`.
 | Manual of Sacred History, tr. Charles F. Schaeffer from the sixth German edition (Philadelphia: Lindsay & Blakiston; year not legible, Schaff's letter dated 1855) | have-ocr | IA `manualofsacredhi00kurt` |
 | the earlier Church History translation 'with emendations' by Edersheim (Clark, 1860-64; IA historyofchristi01kurt, 02kurt) | alternate | not shelved |
 | Gutenberg 51491: the three Church History volumes in one file | alternate | not shelved |
+
+## Round 17 pickups (2026-10-10)
+
+| Shelf | Added | Where |
+|---|---|---|
+| spurgeon | Lectures to My Students (1st and 2nd series, 1875-77); The Soul-Winner (1895) | IA |
+| spurgeon | The Art of Illustration (3rd series); Around the Wicket Gate; Talks to Farmers; Gleanings among the Sheaves | Gutenberg 42558, 60669, 42518, 42657 |
+| charles-finney | Memoirs (A. S. Barnes, 1876) | IA |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
