@@ -33,6 +33,11 @@
    "commentariesofc00caes",
    "The Commentaries of Caesar, translated into English, with a discourse concerning the Roman art of war (1753; Philadelphia stereotype, 1837)",
    "tr. William Duncan"
+  ],
+  "caesar-holmes-gallic-war-1908": [
+   "commentariesonga00caesuoft",
+   "Caesar's Commentaries on the Gallic War, translated into English (London: Macmillan, 1908)",
+   "tr. T. Rice Holmes"
   ]
  },
  "_surname": [
@@ -45,12 +50,13 @@
   "caesar-edwards-gallic-war": "H. J. Edwards",
   "caesar-peskett-civil-wars": "A. G. Peskett",
   "caesar-golding-1565": "golding",
-  "caesar-duncan-1837": "William Duncan"
+  "caesar-duncan-1837": "William Duncan",
+  "caesar-holmes-gallic-war-1908": "t. rice holmes"
  },
  "_checks": {
   "caesar-mcdevitte-bohn": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "caesar",
    "translator_claimed": "W. A. McDevitte",
@@ -62,7 +68,7 @@
   },
   "caesar-edwards-gallic-war": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "caesar",
    "translator_claimed": "H. J. Edwards",
@@ -75,7 +81,7 @@
   },
   "caesar-peskett-civil-wars": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "caesar",
    "translator_claimed": "A. G. Peskett",
@@ -88,7 +94,7 @@
   },
   "caesar-golding-1565": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "caesar",
    "translator_claimed": "golding",
@@ -101,7 +107,7 @@
   },
   "caesar-duncan-1837": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "caesar",
    "translator_claimed": "William Duncan",
@@ -111,6 +117,23 @@
    "ia_date": "1837",
    "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
+  },
+  "caesar-holmes-gallic-war-1908": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "caesar",
+   "translator_claimed": "t. rice holmes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "London: Macmillan; the preface is dated October 16, 1908. US PD by date; Holmes died in 1933, so UK PD since 2004 (death year from general reference, not from this book)"
   }
+ },
+ "_rights_checked": {
+  "caesar-holmes-gallic-war-1908": "London: Macmillan; the preface is dated October 16, 1908. US PD by date; Holmes died in 1933, so UK PD since 2004 (death year from general reference, not from this book)"
  }
 }
