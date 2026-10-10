@@ -1,0 +1,32 @@
+{
+ "_about": "Robert Yelverton Tyrrell (1844-1914), Trinity College Dublin: Latin Poetry, lectures delivered in 1893 on the Percy Turnbull Memorial Foundation (Boston and New York: Houghton, Mifflin, 1895): Latin Poetry: lectures delivered in 1893 on the Percy Turnbull Memorial Foundation in the Johns Hopkins University (Boston and New York: Houghton, Mifflin, 1895), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "tyrrell"
+ ],
+ "_surname": [
+  "robert yelverton tyrrell",
+  "r. y. tyrrell",
+  "tyrrell, robert yelverton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tyrrell-latin-poetry-1895": [
+   "latinpoetrylectu00tyrr",
+   "Latin Poetry: lectures delivered in 1893 on the Percy Turnbull Memorial Foundation in the Johns Hopkins University (Boston and New York: Houghton, Mifflin, 1895)"
+  ]
+ },
+ "_checks": {
+  "tyrrell-latin-poetry-1895": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. y. tyrrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

@@ -3090,6 +3090,7 @@ Shelf: `pipeline/tyrrell_shelf.json`. Latin Poetry: Lectures Delivered in 1893 (
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Latin Poetry: lectures delivered in 1893 on the Percy Turnbull Memorial Foundation in the Johns Hopkins University (Boston and New York: Houghton, Mifflin, 1895) |  | `tyrrell-latin-poetry-1895` | have-raw (IA `latinpoetrylectu00tyrr`) |
 
 ## F. B. Jevons (scholarship)
 
