@@ -3483,6 +3483,7 @@ Shelf: `pipeline/lane-morgan_shelf.json`. A Latin Grammar for Schools and Colleg
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Latin Grammar for Schools and Colleges |  | `lane-latin-grammar` | have (PG 44653) |
 
 ## Allen and Greenough (reference)
 
