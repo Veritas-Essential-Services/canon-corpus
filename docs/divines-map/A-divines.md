@@ -2415,3 +2415,14 @@ Slugs `luther-*`. Translations printed before 1930 only; each translator read on
 | CCEL bondage: Atherton's 1931 revision of Cole | excluded | |
 | CCEL sermons: keyed from a Baker reprint of Lenker | excluded | |
 | Works of Martin Luther vols. 3-6 (1930-32), and PG 272 and PG 1670 (modern translations) | excluded | |
+
+## William Symington (round 15, my pick, 2026-10-10)
+
+Slugs `symington-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| Messiah the Prince: or, The Mediatorial Dominion of Jesus Christ, with a memoir (London, Edinburgh and New York: T. Nelson, 1881) | have-ocr | IA `messiahtheprince00symiuoft` |
+| On the Atonement and Intercession of Jesus Christ, second edition (Edinburgh: William Whyte, MDCCCXXXIV) | have-ocr | IA `onatonementinter00symi_1` |
+| Messiah the Prince, 2nd ed. (Edinburgh: Johnstone, catalogued 1840; IA messiahprinceorm00symi_1): noisy front matter | alternate | not shelved |
+| On the Atonement, 3rd American ed. (New York: Carter, 1847; IA onatonementinter00symi) | alternate | not shelved |

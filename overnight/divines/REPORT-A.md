@@ -727,3 +727,6 @@
 
 ## 2026-10-10 09:48 CDT — martin-luther done
 - `pipeline/martin-luther_shelf.json`: 3 CCEL, 6 PG, 7 IA. Cole's Bondage of the Will (1823 Google scan) OCRs at 82%. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — william-symington done
+- `pipeline/william-symington_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
