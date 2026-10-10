@@ -23,12 +23,12 @@
 {"id":"clarke:Gen.2.5","on":"kjv:Gen.2.5","anchor":"both printings","cites":[]}
 {"id":"clarke:Gen.2.6","on":"kjv:Gen.2.6","anchor":"both printings","cites":["kjv:Gen.2.5"]}
 {"id":"clarke:Gen.2.7","on":"kjv:Gen.2.7","anchor":"both printings","cites":[]}
-{"id":"clarke:Gen.2.8","on":"kjv:Gen.2.8","anchor":"both printings","cites":["kjv:Gen.4.16","kjv:Gen.2.1-25","kjv:Isa.37.12","kjv:Ezek.27.23","kjv:Amos.1.5","kjv:Gen.3.22","kjv:Gen.3.6"]}
+{"id":"clarke:Gen.2.8","on":"kjv:Gen.2.8","anchor":"both printings","cites":["kjv:Gen.4.16","kjv:Isa.37.12","kjv:Ezek.27.23","kjv:Amos.1.5","kjv:Gen.3.22","kjv:Gen.3.6"]}
 {"id":"clarke:Gen.2.10","on":"kjv:Gen.2.10","anchor":"both printings","cites":[]}
 {"id":"clarke:Gen.2.12","on":"kjv:Gen.2.12","anchor":"one printing","cites":[]}
 {"id":"clarke:Gen.2.15","on":"kjv:Gen.2.15","anchor":"one printing","cites":[]}
 {"id":"clarke:Gen.2.17","on":"kjv:Gen.2.17","anchor":"both printings","cites":[]}
-{"id":"clarke:Gen.2.18","on":"kjv:Gen.2.18","anchor":"both printings","cites":[]}
+{"id":"clarke:Gen.2.18","on":"kjv:Gen.2.18","anchor":"both printings","cites":["kjv:1Sam.26.12"]}
 {"id":"clarke:Gen.2.19","on":"kjv:Gen.2.19","anchor":"both printings","cites":[]}
 {"id":"clarke:Gen.2.21","on":"kjv:Gen.2.21","anchor":"one printing","cites":[]}
 {"id":"clarke:Gen.2.23","on":"kjv:Gen.2.23","anchor":"both printings","cites":["kjv:Gen.2.20"]}
@@ -60,10 +60,10 @@
 {"id":"clarke:Gen.4.5","on":"kjv:Gen.4.5","anchor":"both printings","cites":[]}
 {"id":"clarke:Gen.4.6","on":"kjv:Gen.4.6","anchor":"one printing","cites":[]}
 {"id":"clarke:Gen.4.7","on":"kjv:Gen.4.7","anchor":"one printing","cites":[]}
-{"id":"clarke:Gen.4.8","on":"kjv:Gen.4.8","anchor":"both printings","cites":["kjv:Rev.16.9","kjv:Prov.14.32","kjv:Prov.28.1","kjv:Ps.2.1-12","kjv:Ps.51.11"]}
+{"id":"clarke:Gen.4.8","on":"kjv:Gen.4.8","anchor":"both printings","cites":["kjv:Rev.16.9","kjv:Prov.14.32","kjv:Prov.28.1","kjv:2Thess.1.9","kjv:Ps.51.11"]}
 {"id":"clarke:Gen.4.10","on":"kjv:Gen.4.10","anchor":"both printings","cites":["kjv:Gen.4.14"]}
 {"id":"clarke:Gen.4.12","on":"kjv:Gen.4.12","anchor":"both printings","cites":[]}
-{"id":"clarke:Gen.4.13","on":"kjv:Gen.4.13","anchor":"both printings","cites":["kjv:Lev.26.41","kjv:Lev.26.43","kjv:Lev.1.1-17","kjv:2Kgs.7.9"]}
+{"id":"clarke:Gen.4.13","on":"kjv:Gen.4.13","anchor":"both printings","cites":["kjv:Lev.26.41","kjv:Lev.26.43","kjv:2Kgs.7.9"]}
 {"id":"clarke:Gen.4.14","on":"kjv:Gen.4.14","anchor":"both printings","cites":["kjv:Gen.4.11","kjv:Gen.4.12","kjv:Gen.4.16"]}
 {"id":"clarke:Gen.4.15","on":"kjv:Gen.4.15","anchor":"both printings","cites":[]}
 {"id":"clarke:Gen.4.16","on":"kjv:Gen.4.16","anchor":"one printing","cites":[]}
@@ -79,7 +79,7 @@
 {"id":"clarke:Gen.5.22","on":"kjv:Gen.5.22","anchor":"one printing","cites":[]}
 {"id":"clarke:Gen.5.27","on":"kjv:Gen.5.27","anchor":"both printings","cites":[]}
 {"id":"clarke:Gen.5.29","on":"kjv:Gen.5.29","anchor":"one printing","cites":[]}
-{"id":"clarke:Gen.5.32","on":"kjv:Gen.5.32","anchor":"both printings","cites":["kjv:Gen.10.21","kjv:Gen.1.1-31"]}
+{"id":"clarke:Gen.5.32","on":"kjv:Gen.5.32","anchor":"both printings","cites":["kjv:Gen.10.21","kjv:1Chr.1.5"]}
 {"id":"clarke:Gen.6.1","on":"kjv:Gen.6.1","anchor":"both printings","cites":["kjv:Gal.5.6"]}
 {"id":"clarke:Gen.6.3","on":"kjv:Gen.6.3","anchor":"both printings","cites":["kjv:Gen.6.5"]}
 {"id":"clarke:Gen.6.4","on":"kjv:Gen.6.4","anchor":"both printings","cites":[]}
@@ -101,7 +101,7 @@
 {"id":"clarke:Gen.7.15","on":"kjv:Gen.7.15","anchor":"both printings","cites":[]}
 {"id":"clarke:Gen.7.16","on":"kjv:Gen.7.16","anchor":"one printing","cites":[]}
 {"id":"clarke:Gen.7.20","on":"kjv:Gen.7.20","anchor":"both printings","cites":[]}
-{"id":"clarke:Gen.7.22","on":"kjv:Gen.7.22","anchor":"both printings","cites":["kjv:Gen.8.3","kjv:Gen.8.4","kjv:Gen.8.11"]}
+{"id":"clarke:Gen.7.22","on":"kjv:Gen.7.22","anchor":"both printings","cites":["kjv:1Pet.3.20","kjv:Gen.8.3","kjv:Gen.8.4","kjv:Gen.8.11"]}
 {"id":"clarke:Gen.8.1","on":"kjv:Gen.8.1","anchor":"both printings","cites":["kjv:Gen.8.5"]}
 {"id":"clarke:Gen.8.4","on":"kjv:Gen.8.4","anchor":"both printings","cites":[]}
 {"id":"clarke:Gen.8.7","on":"kjv:Gen.8.7","anchor":"both printings","cites":[]}
@@ -294,7 +294,7 @@
 {"id":"clarke:Gen.21.31","on":"kjv:Gen.21.31","anchor":"both printings","cites":["kjv:Gen.21.33","kjv:Isa.1.29","kjv:Deut.12.3","kjv:Deut.16.21","kjv:1Kgs.18.26","kjv:1Cor.8.5","kjv:Ps.14.4","kjv:1Sam.12.17","kjv:Jonah.1.6","kjv:Gen.4.17","kjv:Num.32.42","kjv:Ps.49.11","kjv:Isa.43.7","kjv:Gen.9.1-29","kjv:Eccl.3.14","kjv:Gen.17.7","kjv:Gen.17.8"]}
 {"id":"clarke:Gen.22.1","on":"kjv:Gen.22.1","anchor":"both printings","cites":["kjv:Gen.1.1","kjv:Gen.21.22","kjv:Gen.15.1"]}
 {"id":"clarke:Gen.22.2","on":"kjv:Gen.22.2","anchor":"both printings","cites":["kjv:Gen.22.13"]}
-{"id":"clarke:Gen.22.3","on":"kjv:Gen.22.3","anchor":"both printings","cites":["kjv:Gen.2.2","kjv:Matt.17.23","kjv:Matt.1.1-25","kjv:Mark.15.25","kjv:Rom.8.32","kjv:Luke.13.32","kjv:Gen.22.6","kjv:John.19.17","kjv:John.19.9","kjv:Exod.5.3","kjv:Num.10.33","kjv:Exod.19.11","kjv:Esth.5.1","kjv:2Kgs.20.5","kjv:Num.19.12","kjv:Gen.40.12","kjv:Gen.40.13","kjv:Gen.42.17","kjv:Gen.42.18","kjv:Jonah.1.17","kjv:Josh.2.16"]}
+{"id":"clarke:Gen.22.3","on":"kjv:Gen.22.3","anchor":"both printings","cites":["kjv:Gen.2.2","kjv:Matt.17.23","kjv:1Cor.15.4","kjv:Mark.15.25","kjv:Rom.8.32","kjv:Luke.13.32","kjv:Gen.22.6","kjv:John.19.17","kjv:John.19.9","kjv:Exod.5.3","kjv:Num.10.33","kjv:Exod.19.11","kjv:Esth.5.1","kjv:2Kgs.20.5","kjv:Num.19.12","kjv:Gen.40.12","kjv:Gen.40.13","kjv:Gen.42.17","kjv:Gen.42.18","kjv:Jonah.1.17","kjv:Josh.2.16"]}
 {"id":"clarke:Gen.22.5","on":"kjv:Gen.22.5","anchor":"both printings","cites":["kjv:Heb.11.17","kjv:Heb.11.19"]}
 {"id":"clarke:Gen.22.6","on":"kjv:Gen.22.6","anchor":"both printings","cites":[]}
 {"id":"clarke:Gen.22.7","on":"kjv:Gen.22.7","anchor":"both printings","cites":[]}
@@ -305,11 +305,11 @@
 {"id":"clarke:Gen.22.17","on":"kjv:Gen.22.17","anchor":"both printings","cites":["kjv:Matt.16.18"]}
 {"id":"clarke:Gen.22.18","on":"kjv:Gen.22.18","anchor":"both printings","cites":["kjv:Gal.3.8","kjv:Gal.3.16","kjv:Gal.3.18"]}
 {"id":"clarke:Gen.22.20","on":"kjv:Gen.22.20","anchor":"both printings","cites":[]}
-{"id":"clarke:Gen.22.23","on":"kjv:Gen.22.23","anchor":"both printings","cites":["kjv:1Chr.2.46","kjv:1Chr.2.48","kjv:2Sam.3.7","kjv:2Sam.5.13","kjv:2Chr.11.21"]}
+{"id":"clarke:Gen.22.23","on":"kjv:Gen.22.23","anchor":"both printings","cites":["kjv:1Chr.1.32","kjv:1Chr.2.46","kjv:1Chr.2.48","kjv:2Sam.3.7","kjv:2Sam.5.13","kjv:2Chr.11.21"]}
 {"id":"clarke:Gen.23.1","on":"kjv:Gen.23.1","anchor":"both printings","cites":["kjv:Gal.4.23","kjv:Heb.11.11"]}
 {"id":"clarke:Gen.23.2","on":"kjv:Gen.23.2","anchor":"both printings","cites":["kjv:Josh.14.14","kjv:Judg.1.10","kjv:Gen.23.19"]}
 {"id":"clarke:Gen.23.3","on":"kjv:Gen.23.3","anchor":"both printings","cites":["kjv:Isa.47.1","kjv:Gen.37.35"]}
-{"id":"clarke:Gen.23.4","on":"kjv:Gen.23.4","anchor":"both printings","cites":[]}
+{"id":"clarke:Gen.23.4","on":"kjv:Gen.23.4","anchor":"both printings","cites":["kjv:1Pet.2.11"]}
 {"id":"clarke:Gen.23.6","on":"kjv:Gen.23.6","anchor":"both printings","cites":[]}
 {"id":"clarke:Gen.23.8","on":"kjv:Gen.23.8","anchor":"both printings","cites":[]}
 {"id":"clarke:Gen.23.10","on":"kjv:Gen.23.10","anchor":"both printings","cites":[]}
@@ -494,7 +494,7 @@
 {"id":"clarke:Gen.31.41","on":"kjv:Gen.31.41","anchor":"one printing","cites":[]}
 {"id":"clarke:Gen.31.42","on":"kjv:Gen.31.42","anchor":"one printing","cites":[]}
 {"id":"clarke:Gen.31.46","on":"kjv:Gen.31.46","anchor":"both printings","cites":[]}
-{"id":"clarke:Gen.31.47","on":"kjv:Gen.31.47","anchor":"both printings","cites":["kjv:1Kgs.12.33","kjv:Judg.6.31","kjv:Judg.2.1-23"]}
+{"id":"clarke:Gen.31.47","on":"kjv:Gen.31.47","anchor":"both printings","cites":["kjv:1Kgs.12.33","kjv:Judg.6.31"]}
 {"id":"clarke:Gen.31.50","on":"kjv:Gen.31.50","anchor":"both printings","cites":[]}
 {"id":"clarke:Gen.31.51","on":"kjv:Gen.31.51","anchor":"both printings","cites":["kjv:Gen.31.45"]}
 {"id":"clarke:Gen.31.53","on":"kjv:Gen.31.53","anchor":"one printing","cites":[]}
@@ -565,7 +565,7 @@
 {"id":"clarke:Gen.36.16","on":"kjv:Gen.36.16","anchor":"both printings","cites":["kjv:Gen.36.4","kjv:Gen.36.11","kjv:Gen.36.12","kjv:Gen.36.5","kjv:Gen.36.14","kjv:Gen.36.18"]}
 {"id":"clarke:Gen.36.20","on":"kjv:Gen.36.20","anchor":"both printings","cites":["kjv:Gen.14.6"]}
 {"id":"clarke:Gen.36.21","on":"kjv:Gen.36.21","anchor":"both printings","cites":["kjv:Gen.36.30"]}
-{"id":"clarke:Gen.36.24","on":"kjv:Gen.36.24","anchor":"both printings","cites":["kjv:Judg.1.5","kjv:Judg.1.1-36","kjv:1Kgs.13.24","kjv:1Kgs.2.1-46","kjv:Num.35.27","kjv:Gen.4.14","kjv:Gen.21.1-34"]}
+{"id":"clarke:Gen.36.24","on":"kjv:Gen.36.24","anchor":"both printings","cites":["kjv:Judg.1.5","kjv:1Sam.31.3","kjv:1Kgs.13.24","kjv:2Chr.22.8","kjv:Num.35.27","kjv:Gen.4.14","kjv:Gen.21.1-34"]}
 {"id":"clarke:Gen.36.31","on":"kjv:Gen.36.31","anchor":"both printings","cites":["kjv:1Chr.1.43-50"]}
 {"id":"clarke:Gen.36.33","on":"kjv:Gen.36.33","anchor":"both printings","cites":["kjv:Gen.36.10"]}
 {"id":"clarke:Gen.36.35","on":"kjv:Gen.36.35","anchor":"both printings","cites":[]}
@@ -693,7 +693,7 @@
 {"id":"clarke:Gen.46.1","on":"kjv:Gen.46.1","anchor":"both printings","cites":["kjv:Gen.26.23"]}
 {"id":"clarke:Gen.46.3","on":"kjv:Gen.46.3","anchor":"both printings","cites":["kjv:Gen.26.1-3"]}
 {"id":"clarke:Gen.46.7","on":"kjv:Gen.46.7","anchor":"both printings","cites":["kjv:Gen.12.1-4"]}
-{"id":"clarke:Gen.46.8","on":"kjv:Gen.46.8","anchor":"both printings","cites":["kjv:Num.26.12","kjv:Num.1.1-54","kjv:Gen.25.15","kjv:Gen.46.12","kjv:Gen.46.20"]}
+{"id":"clarke:Gen.46.8","on":"kjv:Gen.46.8","anchor":"both printings","cites":["kjv:Num.26.12","kjv:1Chr.4.24","kjv:Gen.25.15","kjv:Gen.46.12","kjv:Gen.46.20"]}
 {"id":"clarke:Gen.46.12","on":"kjv:Gen.46.12","anchor":"both printings","cites":["kjv:Gen.46.8"]}
 {"id":"clarke:Gen.46.20","on":"kjv:Gen.46.20","anchor":"both printings","cites":["kjv:Num.26.29","kjv:Num.26.35","kjv:1Chr.7.14-20","kjv:Gen.46.26","kjv:Gen.46.10"]}
 {"id":"clarke:Gen.46.28","on":"kjv:Gen.46.28","anchor":"both printings","cites":["kjv:Gen.44.18","kjv:Gen.46.34"]}
@@ -721,7 +721,7 @@
 {"id":"clarke:Gen.48.8","on":"kjv:Gen.48.8","anchor":"one printing","cites":[]}
 {"id":"clarke:Gen.48.11","on":"kjv:Gen.48.11","anchor":"both printings","cites":[]}
 {"id":"clarke:Gen.48.12","on":"kjv:Gen.48.12","anchor":"both printings","cites":[]}
-{"id":"clarke:Gen.48.14","on":"kjv:Gen.48.14","anchor":"both printings","cites":["kjv:Num.27.18","kjv:Num.27.23","kjv:Deut.34.9","kjv:Matt.19.13","kjv:Matt.19.15","kjv:Acts.6.6","kjv:Acts.1.1-26","kjv:Rom.9.11","kjv:Gen.4.7","kjv:Heb.11.4"]}
+{"id":"clarke:Gen.48.14","on":"kjv:Gen.48.14","anchor":"both printings","cites":["kjv:Num.27.18","kjv:Num.27.23","kjv:Deut.34.9","kjv:Matt.19.13","kjv:Matt.19.15","kjv:Acts.6.6","kjv:1Tim.4.14","kjv:Rom.9.11","kjv:Gen.4.7","kjv:Heb.11.4"]}
 {"id":"clarke:Gen.48.15","on":"kjv:Gen.48.15","anchor":"both printings","cites":["kjv:Gen.48.12"]}
 {"id":"clarke:Gen.48.16","on":"kjv:Gen.48.16","anchor":"both printings","cites":["kjv:Gen.16.7","kjv:Gen.1.20","kjv:Num.26.34","kjv:Num.26.37","kjv:Josh.17.17"]}
 {"id":"clarke:Gen.48.18","on":"kjv:Gen.48.18","anchor":"both printings","cites":[]}
@@ -785,7 +785,7 @@
 {"id":"clarke:Exod.2.5","on":"kjv:Exod.2.5","anchor":"both printings","cites":[]}
 {"id":"clarke:Exod.2.6","on":"kjv:Exod.2.6","anchor":"both printings","cites":["kjv:Exod.2.2","kjv:Exod.1.22"]}
 {"id":"clarke:Exod.2.7","on":"kjv:Exod.2.7","anchor":"both printings","cites":["kjv:Heb.11.23"]}
-{"id":"clarke:Exod.2.10","on":"kjv:Exod.2.10","anchor":"both printings","cites":["kjv:Acts.7.22"]}
+{"id":"clarke:Exod.2.10","on":"kjv:Exod.2.10","anchor":"both printings","cites":["kjv:Acts.7.22","kjv:2Sam.22.17"]}
 {"id":"clarke:Exod.2.11","on":"kjv:Exod.2.11","anchor":"both printings","cites":["kjv:Acts.7.23","kjv:Acts.7.23-25","kjv:Exod.9.1-35","kjv:Exod.2.1"]}
 {"id":"clarke:Exod.2.14","on":"kjv:Exod.2.14","anchor":"both printings","cites":[]}
 {"id":"clarke:Exod.2.15","on":"kjv:Exod.2.15","anchor":"both printings","cites":["kjv:Heb.11.27","kjv:Gen.25.1","kjv:Gen.10.6"]}
@@ -1055,11 +1055,11 @@
 {"id":"clarke:Exod.17.16","on":"kjv:Exod.17.16","anchor":"both printings","cites":[]}
 {"id":"clarke:Exod.18.1","on":"kjv:Exod.18.1","anchor":"both printings","cites":["kjv:Exod.2.15","kjv:Exod.2.16","kjv:Exod.2.18","kjv:Exod.3.1","kjv:Exod.4.20","kjv:Exod.4.24"]}
 {"id":"clarke:Exod.18.2","on":"kjv:Exod.18.2","anchor":"both printings","cites":["kjv:Exod.4.20","kjv:Exod.4.24"]}
-{"id":"clarke:Exod.18.3","on":"kjv:Exod.18.3","anchor":"both printings","cites":["kjv:Exod.2.22","kjv:Num.10.11","kjv:Exod.19.1","kjv:Exod.19.2","kjv:Exod.16.1","kjv:Deut.1.6","kjv:Deut.1.10","kjv:Deut.1.12-15","kjv:Num.10.29","kjv:Exod.18.4","kjv:Exod.18.12","kjv:Judg.1.16","kjv:Judg.1.1-36","kjv:1Sam.15.6"]}
+{"id":"clarke:Exod.18.3","on":"kjv:Exod.18.3","anchor":"both printings","cites":["kjv:Exod.2.22","kjv:Num.10.11","kjv:Exod.19.1","kjv:Exod.19.2","kjv:Exod.16.1","kjv:Deut.1.6","kjv:Deut.1.10","kjv:Deut.1.12-15","kjv:Num.10.29","kjv:Exod.18.4","kjv:Exod.18.12","kjv:Judg.1.16","kjv:1Chr.2.55","kjv:1Sam.15.6"]}
 {"id":"clarke:Exod.18.6","on":"kjv:Exod.18.6","anchor":"one printing","cites":[]}
 {"id":"clarke:Exod.18.7","on":"kjv:Exod.18.7","anchor":"both printings","cites":["kjv:Gen.17.3","kjv:Exod.4.31","kjv:Exod.18.5"]}
 {"id":"clarke:Exod.18.9","on":"kjv:Exod.18.9","anchor":"both printings","cites":["kjv:Exod.18.10","kjv:Exod.18.1"]}
-{"id":"clarke:Exod.18.12","on":"kjv:Exod.18.12","anchor":"both printings","cites":["kjv:Gen.22.2","kjv:Exod.18.5","kjv:Exod.2.16","kjv:1Chr.2.55","kjv:Gen.15.13","kjv:Deut.12.5-7","kjv:Deut.12.1"]}
+{"id":"clarke:Exod.18.12","on":"kjv:Exod.18.12","anchor":"both printings","cites":["kjv:Gen.22.2","kjv:Exod.18.5","kjv:Exod.2.16","kjv:1Chr.2.55","kjv:Gen.15.13","kjv:Deut.12.5-7","kjv:1Chr.29.21","kjv:1Chr.29.22"]}
 {"id":"clarke:Exod.18.13","on":"kjv:Exod.18.13","anchor":"both printings","cites":[]}
 {"id":"clarke:Exod.18.15","on":"kjv:Exod.18.15","anchor":"both printings","cites":[]}
 {"id":"clarke:Exod.18.16","on":"kjv:Exod.18.16","anchor":"both printings","cites":["kjv:Exod.18.5"]}
@@ -1181,7 +1181,7 @@
 {"id":"clarke:Exod.25.7","on":"kjv:Exod.25.7","anchor":"both printings","cites":["kjv:Gen.2.12"]}
 {"id":"clarke:Exod.25.8","on":"kjv:Exod.25.8","anchor":"both printings","cites":[]}
 {"id":"clarke:Exod.25.9","on":"kjv:Exod.25.9","anchor":"both printings","cites":["kjv:Exod.25.40","kjv:Exod.33.7-10"]}
-{"id":"clarke:Exod.25.10","on":"kjv:Exod.25.10","anchor":"both printings","cites":["kjv:Exod.25.17","kjv:Exod.25.18-20","kjv:Exod.26.33","kjv:Exod.40.18","kjv:Exod.40.21"]}
+{"id":"clarke:Exod.25.10","on":"kjv:Exod.25.10","anchor":"both printings","cites":["kjv:Exod.25.17","kjv:Exod.25.18-20","kjv:Exod.26.33","kjv:Exod.40.18","kjv:Exod.40.21","kjv:2Sam.6.12"]}
 {"id":"clarke:Exod.25.15","on":"kjv:Exod.25.15","anchor":"both printings","cites":["kjv:Num.4.6"]}
 {"id":"clarke:Exod.25.16","on":"kjv:Exod.25.16","anchor":"one printing","cites":[]}
 {"id":"clarke:Exod.25.17","on":"kjv:Exod.25.17","anchor":"both printings","cites":["kjv:Heb.9.5","kjv:Rom.3.25"]}
@@ -1254,7 +1254,7 @@
 {"id":"clarke:Exod.30.18","on":"kjv:Exod.30.18","anchor":"one printing","cites":[]}
 {"id":"clarke:Exod.30.20","on":"kjv:Exod.30.20","anchor":"both printings","cites":["kjv:Titus.3.5"]}
 {"id":"clarke:Exod.30.21","on":"kjv:Exod.30.21","anchor":"both printings","cites":["kjv:Exod.29.20"]}
-{"id":"clarke:Exod.30.23","on":"kjv:Exod.30.23","anchor":"both printings","cites":["kjv:Jer.6.20","kjv:Acts.1.5","kjv:2Cor.1.21","kjv:2Cor.1.1-24","kjv:John.2.20"]}
+{"id":"clarke:Exod.30.23","on":"kjv:Exod.30.23","anchor":"both printings","cites":["kjv:Jer.6.20","kjv:Acts.1.5","kjv:2Cor.1.21","kjv:1John.2.20","kjv:1John.2.27"]}
 {"id":"clarke:Exod.30.25","on":"kjv:Exod.30.25","anchor":"both printings","cites":["kjv:1John.2.20","kjv:1John.2.27"]}
 {"id":"clarke:Exod.30.34","on":"kjv:Exod.30.34","anchor":"both printings","cites":["kjv:Exod.30.7"]}
 {"id":"clarke:Exod.31.2","on":"kjv:Exod.31.2","anchor":"both printings","cites":["kjv:1Chr.2.5","kjv:1Chr.2.9","kjv:1Chr.2.18","kjv:1Chr.2.19","kjv:1Chr.2.20","kjv:Exod.17.10"]}
@@ -1359,12 +1359,12 @@
 {"id":"clarke:Exod.40.20","on":"kjv:Exod.40.20","anchor":"both printings","cites":["kjv:Exod.25.16","kjv:Exod.40.22","kjv:Exod.40.24","kjv:Exod.40.26","kjv:Exod.40.29","kjv:Exod.40.30","kjv:Exod.40.31","kjv:Exod.40.33"]}
 {"id":"clarke:Exod.40.34","on":"kjv:Exod.40.34","anchor":"both printings","cites":["kjv:Exod.40.35","kjv:1Kgs.8.10","kjv:1Kgs.8.11"]}
 {"id":"clarke:Exod.40.36","on":"kjv:Exod.40.36","anchor":"both printings","cites":[]}
-{"id":"clarke:Exod.40.38","on":"kjv:Exod.40.38","anchor":"both printings","cites":["kjv:Isa.4.5","kjv:Exod.1.1","kjv:Exod.6.1","kjv:Exod.6.2","kjv:Exod.9.35","kjv:Exod.10.1","kjv:Exod.13.16","kjv:Exod.13.17","kjv:Exod.17.16","kjv:Exod.20.26","kjv:Exod.21.1","kjv:Exod.24.18","kjv:Exod.30.10","kjv:Exod.40.28","kjv:Exod.22.1-31","kjv:Ps.19.3","kjv:Ps.37.31","kjv:Ps.20.2","kjv:Exod.15.22","kjv:Exod.14.19","kjv:Exod.14.20","kjv:Exod.14.21","kjv:Exod.14.22","kjv:Exod.14.30","kjv:Exod.15.27","kjv:Num.33.9","kjv:Exod.3.2","kjv:Exod.17.1","kjv:Exod.17.6","kjv:Ps.107.4","kjv:Deut.2.1","kjv:Num.13.21","kjv:Josh.19.29","kjv:Josh.19.30","kjv:Josh.19.28","kjv:Josh.2.2","kjv:Num.14.25","kjv:Deut.1.40","kjv:Exod.40.8","kjv:Deut.2.14","kjv:1Kgs.9.26","kjv:1Kgs.9.2","kjv:2Kgs.3.9","kjv:Gen.31.41","kjv:Exod.6.18","kjv:Exod.1.22","kjv:Exod.2.2","kjv:Exod.3.1-22","kjv:Exod.5.1-23","kjv:Exod.7.1-25","kjv:Exod.8.1-7","kjv:Exod.8.16-20","kjv:Exod.8.20-32","kjv:Exod.9.1-7","kjv:Exod.9.22-26","kjv:Exod.10.1-20","kjv:Exod.12.1-36","kjv:Exod.13.19","kjv:Exod.14.1","kjv:Exod.14.2","kjv:Exod.15.23-25","kjv:Exod.16.1-36","kjv:Exod.40.17-32","kjv:Exod.1.1-22","kjv:Exod.2.1-25","kjv:Exod.4.1-31","kjv:Exod.6.1-30","kjv:Exod.8.1-32","kjv:Exod.9.1-35","kjv:Exod.11.1-10","kjv:Exod.12.1-51","kjv:Exod.13.1-22","kjv:Exod.14.1-31","kjv:Exod.17.1-16","kjv:Exod.19.1-25","kjv:Exod.21.1-36","kjv:Exod.24.1-18","kjv:Exod.25.1-40","kjv:Exod.26.1-37"]}
+{"id":"clarke:Exod.40.38","on":"kjv:Exod.40.38","anchor":"both printings","cites":["kjv:Isa.4.5","kjv:Exod.1.1","kjv:Exod.6.1","kjv:Exod.6.2","kjv:Exod.9.35","kjv:Exod.10.1","kjv:Exod.13.16","kjv:Exod.13.17","kjv:Exod.17.16","kjv:Exod.20.26","kjv:Exod.21.1","kjv:Exod.24.18","kjv:Exod.30.10","kjv:Exod.40.28","kjv:Exod.22.1-31","kjv:Ps.19.3","kjv:Ps.37.31","kjv:Ps.20.2","kjv:Exod.15.22","kjv:Exod.14.19","kjv:Exod.14.20","kjv:Exod.14.21","kjv:Exod.14.22","kjv:Exod.14.30","kjv:Exod.15.27","kjv:Num.33.9","kjv:Exod.3.2","kjv:Exod.17.1","kjv:Exod.17.6","kjv:Ps.107.4","kjv:Deut.2.1","kjv:Num.13.21","kjv:Josh.19.29","kjv:Josh.19.30","kjv:Josh.19.28","kjv:Josh.2.2","kjv:Num.14.25","kjv:Deut.1.40","kjv:Exod.40.8","kjv:Deut.2.14","kjv:1Kgs.9.26","kjv:2Chr.8.17","kjv:2Kgs.3.9","kjv:Gen.31.41","kjv:Exod.6.18","kjv:Exod.1.22","kjv:Exod.2.2","kjv:Exod.3.1-22","kjv:Exod.5.1-23","kjv:Exod.7.1-25","kjv:Exod.8.1-7","kjv:Exod.8.16-20","kjv:Exod.8.20-32","kjv:Exod.9.1-7","kjv:Exod.9.22-26","kjv:Exod.10.1-20","kjv:Exod.12.1-36","kjv:Exod.13.19","kjv:Exod.14.1","kjv:Exod.14.2","kjv:Exod.15.23-25","kjv:Exod.16.1-36","kjv:Exod.40.17-32","kjv:Exod.1.1-22","kjv:Exod.2.1-25","kjv:Exod.4.1-31","kjv:Exod.6.1-30","kjv:Exod.8.1-32","kjv:Exod.9.1-35","kjv:Exod.11.1-10","kjv:Exod.12.1-51","kjv:Exod.13.1-22","kjv:Exod.14.1-31","kjv:Exod.17.1-16","kjv:Exod.19.1-25","kjv:Exod.21.1-36","kjv:Exod.24.1-18","kjv:Exod.25.1-40","kjv:Exod.26.1-37"]}
 {"id":"clarke:Lev.1.1","on":"kjv:Lev.1.1","anchor":"one printing","cites":[]}
 {"id":"clarke:Lev.1.2","on":"kjv:Lev.1.2","anchor":"both printings","cites":["kjv:Lev.7.1-38","kjv:Gen.15.9","kjv:Lev.14.4"]}
 {"id":"clarke:Lev.1.3","on":"kjv:Lev.1.3","anchor":"both printings","cites":["kjv:Lev.7.1-38"]}
 {"id":"clarke:Lev.1.4","on":"kjv:Lev.1.4","anchor":"both printings","cites":["kjv:Lev.1.5","kjv:Exod.29.10","kjv:Exod.12.5"]}
-{"id":"clarke:Lev.1.6","on":"kjv:Lev.1.6","anchor":"both printings","cites":["kjv:Lev.7.8","kjv:Lev.7.2","kjv:Num.19.5"]}
+{"id":"clarke:Lev.1.6","on":"kjv:Lev.1.6","anchor":"both printings","cites":["kjv:Lev.7.8","kjv:2Chr.29.34","kjv:Num.19.5"]}
 {"id":"clarke:Lev.1.7","on":"kjv:Lev.1.7","anchor":"both printings","cites":["kjv:Lev.9.24","kjv:Lev.10.1-20"]}
 {"id":"clarke:Lev.1.8","on":"kjv:Lev.1.8","anchor":"one printing","cites":[]}
 {"id":"clarke:Lev.1.9","on":"kjv:Lev.1.9","anchor":"both printings","cites":["kjv:Eph.5.2"]}
@@ -1508,7 +1508,7 @@
 {"id":"clarke:Lev.16.10","on":"kjv:Lev.16.10","anchor":"both printings","cites":["kjv:Lev.1.4"]}
 {"id":"clarke:Lev.16.21","on":"kjv:Lev.16.21","anchor":"one printing","cites":[]}
 {"id":"clarke:Lev.16.26","on":"kjv:Lev.16.26","anchor":"both printings","cites":[]}
-{"id":"clarke:Lev.16.29","on":"kjv:Lev.16.29","anchor":"both printings","cites":["kjv:Lev.23.27-32","kjv:Lev.25.8","kjv:Lev.25.9","kjv:Luke.2.1-52"]}
+{"id":"clarke:Lev.16.29","on":"kjv:Lev.16.29","anchor":"both printings","cites":["kjv:Lev.23.27-32","kjv:Lev.25.8","kjv:Lev.25.9"]}
 {"id":"clarke:Lev.17.4","on":"kjv:Lev.17.4","anchor":"both printings","cites":["kjv:Lev.17.13","kjv:Deut.12.20","kjv:Deut.12.21"]}
 {"id":"clarke:Lev.17.7","on":"kjv:Lev.17.7","anchor":"both printings","cites":["kjv:Gen.38.21","kjv:Lev.20.16"]}
 {"id":"clarke:Lev.17.11","on":"kjv:Lev.17.11","anchor":"one printing","cites":[]}
@@ -1537,7 +1537,7 @@
 {"id":"clarke:Lev.19.29","on":"kjv:Lev.19.29","anchor":"both printings","cites":[]}
 {"id":"clarke:Lev.19.31","on":"kjv:Lev.19.31","anchor":"both printings","cites":["kjv:Acts.16.16","kjv:Acts.16.18"]}
 {"id":"clarke:Lev.19.32","on":"kjv:Lev.19.32","anchor":"both printings","cites":["kjv:Gen.48.12"]}
-{"id":"clarke:Lev.19.35","on":"kjv:Lev.19.35","anchor":"both printings","cites":["kjv:Exod.30.13","kjv:Exod.1.1-22","kjv:Exod.16.16"]}
+{"id":"clarke:Lev.19.35","on":"kjv:Lev.19.35","anchor":"both printings","cites":["kjv:Exod.30.13","kjv:1Chr.23.29","kjv:Exod.16.16"]}
 {"id":"clarke:Lev.19.36","on":"kjv:Lev.19.36","anchor":"both printings","cites":["kjv:Lev.26.15"]}
 {"id":"clarke:Lev.20.2","on":"kjv:Lev.20.2","anchor":"one printing","cites":[]}
 {"id":"clarke:Lev.20.6","on":"kjv:Lev.20.6","anchor":"both printings","cites":["kjv:Gen.48.12"]}
@@ -1578,7 +1578,7 @@
 {"id":"clarke:Lev.23.28","on":"kjv:Lev.23.28","anchor":"both printings","cites":["kjv:Lev.16.3","kjv:Lev.23.40","kjv:John.7.37","kjv:John.7.38","kjv:Exod.23.14"]}
 {"id":"clarke:Lev.23.40","on":"kjv:Lev.23.40","anchor":"both printings","cites":[]}
 {"id":"clarke:Lev.24.2","on":"kjv:Lev.24.2","anchor":"both printings","cites":[]}
-{"id":"clarke:Lev.24.10","on":"kjv:Lev.24.10","anchor":"both printings","cites":["kjv:Lev.24.1","kjv:Lev.24.16","kjv:Lev.24.11","kjv:Lev.24.14","kjv:Num.1.17","kjv:Num.1.1-54","kjv:Matt.9.3"]}
+{"id":"clarke:Lev.24.10","on":"kjv:Lev.24.10","anchor":"both printings","cites":["kjv:Lev.24.1","kjv:Lev.24.16","kjv:Lev.24.11","kjv:Lev.24.14","kjv:Num.1.17","kjv:1Chr.12.31","kjv:1Chr.16.41","kjv:1Chr.28.15","kjv:Matt.9.3"]}
 {"id":"clarke:Lev.24.14","on":"kjv:Lev.24.14","anchor":"one printing","cites":[]}
 {"id":"clarke:Lev.24.15","on":"kjv:Lev.24.15","anchor":"one printing","cites":[]}
 {"id":"clarke:Lev.24.16","on":"kjv:Lev.24.16","anchor":"both printings","cites":["kjv:Exod.6.3"]}
@@ -1726,7 +1726,7 @@
 {"id":"clarke:Num.12.3","on":"kjv:Num.12.3","anchor":"both printings","cites":[]}
 {"id":"clarke:Num.12.4","on":"kjv:Num.12.4","anchor":"both printings","cites":[]}
 {"id":"clarke:Num.12.6","on":"kjv:Num.12.6","anchor":"one printing","cites":[]}
-{"id":"clarke:Num.12.7","on":"kjv:Num.12.7","anchor":"both printings","cites":["kjv:1Sam.2.35","kjv:1Sam.3.20","kjv:1Sam.18.27","kjv:Prov.13.17","kjv:Prov.25.13","kjv:1Chr.9.22","kjv:1Chr.9.26","kjv:1Chr.9.31","kjv:1Chr.2.1-55"]}
+{"id":"clarke:Num.12.7","on":"kjv:Num.12.7","anchor":"both printings","cites":["kjv:1Sam.2.35","kjv:1Sam.3.20","kjv:1Sam.18.27","kjv:Prov.13.17","kjv:Prov.25.13","kjv:1Chr.9.22","kjv:1Chr.9.26","kjv:1Chr.9.31","kjv:2Chr.31.12","kjv:2Chr.31.15","kjv:2Chr.34.12"]}
 {"id":"clarke:Num.12.10","on":"kjv:Num.12.10","anchor":"one printing","cites":[]}
 {"id":"clarke:Num.12.14","on":"kjv:Num.12.14","anchor":"one printing","cites":[]}
 {"id":"clarke:Num.12.16","on":"kjv:Num.12.16","anchor":"both printings","cites":["kjv:Deut.1.1","kjv:Deut.1.2"]}
@@ -2213,7 +2213,7 @@
 {"id":"clarke:Deut.32.27","on":"kjv:Deut.32.27","anchor":"both printings","cites":[]}
 {"id":"clarke:Deut.32.29","on":"kjv:Deut.32.29","anchor":"both printings","cites":[]}
 {"id":"clarke:Deut.32.30","on":"kjv:Deut.32.30","anchor":"both printings","cites":[]}
-{"id":"clarke:Deut.32.31","on":"kjv:Deut.32.31","anchor":"both printings","cites":["kjv:Num.23.8-12"]}
+{"id":"clarke:Deut.32.31","on":"kjv:Deut.32.31","anchor":"both printings","cites":["kjv:Num.23.8-12","kjv:1Sam.4.8"]}
 {"id":"clarke:Deut.32.32","on":"kjv:Deut.32.32","anchor":"both printings","cites":["kjv:Ps.140.3","kjv:Isa.5.2","kjv:Isa.5.7","kjv:Isa.5.1-7"]}
 {"id":"clarke:Deut.32.33","on":"kjv:Deut.32.33","anchor":"both printings","cites":[]}
 {"id":"clarke:Deut.32.35","on":"kjv:Deut.32.35","anchor":"both printings","cites":[]}
@@ -2429,7 +2429,7 @@
 {"id":"clarke:Josh.13.1","on":"kjv:Josh.13.1","anchor":"both printings","cites":[]}
 {"id":"clarke:Josh.13.2","on":"kjv:Josh.13.2","anchor":"both printings","cites":[]}
 {"id":"clarke:Josh.13.3","on":"kjv:Josh.13.3","anchor":"both printings","cites":["kjv:Jer.2.18","kjv:2Kgs.1.2","kjv:Josh.15.1","kjv:Josh.19.43"]}
-{"id":"clarke:Josh.13.4","on":"kjv:Josh.13.4","anchor":"both printings","cites":["kjv:1Kgs.20.26","kjv:1Kgs.2.1-46"]}
+{"id":"clarke:Josh.13.4","on":"kjv:Josh.13.4","anchor":"both printings","cites":["kjv:1Kgs.20.26","kjv:2Kgs.13.17"]}
 {"id":"clarke:Josh.13.5","on":"kjv:Josh.13.5","anchor":"both printings","cites":["kjv:Ezek.27.9"]}
 {"id":"clarke:Josh.13.7","on":"kjv:Josh.13.7","anchor":"both printings","cites":[]}
 {"id":"clarke:Josh.13.9","on":"kjv:Josh.13.9","anchor":"both printings","cites":["kjv:Josh.12.2"]}
@@ -2559,7 +2559,7 @@
 {"id":"clarke:Judg.1.5","on":"kjv:Judg.1.5","anchor":"both printings","cites":[]}
 {"id":"clarke:Judg.1.6","on":"kjv:Judg.1.6","anchor":"one printing","cites":[]}
 {"id":"clarke:Judg.1.7","on":"kjv:Judg.1.7","anchor":"both printings","cites":[]}
-{"id":"clarke:Judg.1.8","on":"kjv:Judg.1.8","anchor":"both printings","cites":["kjv:Josh.10.26","kjv:Josh.15.63"]}
+{"id":"clarke:Judg.1.8","on":"kjv:Judg.1.8","anchor":"both printings","cites":["kjv:Josh.10.26","kjv:Josh.15.63","kjv:1Chr.11.4-8"]}
 {"id":"clarke:Judg.1.9","on":"kjv:Judg.1.9","anchor":"both printings","cites":["kjv:Josh.10.36","kjv:Josh.11.21"]}
 {"id":"clarke:Judg.1.12-15","on":"kjv:Judg.1.12-15","anchor":"both printings","cites":[]}
 {"id":"clarke:Judg.1.16","on":"kjv:Judg.1.16","anchor":"both printings","cites":["kjv:Exod.18.1-27","kjv:Num.10.29","kjv:Deut.34.3","kjv:1Chr.2.55","kjv:Jer.35.1"]}
@@ -2664,7 +2664,7 @@
 {"id":"clarke:Judg.6.27","on":"kjv:Judg.6.27","anchor":"both printings","cites":[]}
 {"id":"clarke:Judg.6.28","on":"kjv:Judg.6.28","anchor":"both printings","cites":["kjv:Judg.6.25"]}
 {"id":"clarke:Judg.6.29","on":"kjv:Judg.6.29","anchor":"both printings","cites":[]}
-{"id":"clarke:Judg.6.31","on":"kjv:Judg.6.31","anchor":"both printings","cites":["kjv:1Sam.12.11","kjv:1Sam.2.1-36","kjv:Jer.11.13","kjv:Hos.9.10","kjv:Hos.9.3"]}
+{"id":"clarke:Judg.6.31","on":"kjv:Judg.6.31","anchor":"both printings","cites":["kjv:1Sam.12.11","kjv:2Sam.11.21","kjv:Jer.11.13","kjv:Hos.9.10","kjv:Hos.9.3"]}
 {"id":"clarke:Judg.6.32","on":"kjv:Judg.6.32","anchor":"both printings","cites":["kjv:2Sam.11.21"]}
 {"id":"clarke:Judg.6.33","on":"kjv:Judg.6.33","anchor":"both printings","cites":[]}
 {"id":"clarke:Judg.6.34","on":"kjv:Judg.6.34","anchor":"both printings","cites":[]}
@@ -2731,7 +2731,7 @@
 {"id":"clarke:Judg.9.56","on":"kjv:Judg.9.56","anchor":"both printings","cites":[]}
 {"id":"clarke:Judg.10.1","on":"kjv:Judg.10.1","anchor":"both printings","cites":[]}
 {"id":"clarke:Judg.10.4","on":"kjv:Judg.10.4","anchor":"one printing","cites":[]}
-{"id":"clarke:Judg.10.6","on":"kjv:Judg.10.6","anchor":"both printings","cites":["kjv:1Kgs.11.33","kjv:1Kgs.11.1"]}
+{"id":"clarke:Judg.10.6","on":"kjv:Judg.10.6","anchor":"both printings","cites":["kjv:1Kgs.11.33"]}
 {"id":"clarke:Judg.10.7","on":"kjv:Judg.10.7","anchor":"both printings","cites":[]}
 {"id":"clarke:Judg.10.11","on":"kjv:Judg.10.11","anchor":"both printings","cites":[]}
 {"id":"clarke:Judg.10.15","on":"kjv:Judg.10.15","anchor":"one printing","cites":[]}
@@ -3540,7 +3540,7 @@
 {"id":"clarke:2Sam.15.1","on":"kjv:2Sam.15.1","anchor":"both printings","cites":["kjv:2Sam.3.2-5"]}
 {"id":"clarke:2Sam.15.6","on":"kjv:2Sam.15.6","anchor":"both printings","cites":[]}
 {"id":"clarke:2Sam.15.7","on":"kjv:2Sam.15.7","anchor":"both printings","cites":["kjv:2Sam.13.38"]}
-{"id":"clarke:2Sam.15.8","on":"kjv:2Sam.15.8","anchor":"both printings","cites":["kjv:Judg.1.10","kjv:Judg.1.1-36","kjv:2Sam.13.37"]}
+{"id":"clarke:2Sam.15.8","on":"kjv:2Sam.15.8","anchor":"both printings","cites":["kjv:Judg.1.10","kjv:1Sam.27.8","kjv:2Sam.13.37"]}
 {"id":"clarke:2Sam.15.10","on":"kjv:2Sam.15.10","anchor":"both printings","cites":["kjv:2Sam.15.1"]}
 {"id":"clarke:2Sam.15.12","on":"kjv:2Sam.15.12","anchor":"both printings","cites":["kjv:2Sam.15.3"]}
 {"id":"clarke:2Sam.15.14","on":"kjv:2Sam.15.14","anchor":"both printings","cites":["kjv:2Sam.5.6"]}
@@ -3743,7 +3743,7 @@
 {"id":"clarke:1Kgs.6.15","on":"kjv:1Kgs.6.15","anchor":"both printings","cites":["kjv:1Kgs.6.9"]}
 {"id":"clarke:1Kgs.6.26","on":"kjv:1Kgs.6.26","anchor":"both printings","cites":[]}
 {"id":"clarke:1Kgs.6.36","on":"kjv:1Kgs.6.36","anchor":"both printings","cites":["kjv:1Kgs.6.1","kjv:Hab.2.11"]}
-{"id":"clarke:1Kgs.6.38","on":"kjv:1Kgs.6.38","anchor":"both printings","cites":["kjv:1Kgs.6.1","kjv:1Kgs.12.1-33","kjv:2Kgs.12.4","kjv:2Kgs.12.5","kjv:2Kgs.12.2","kjv:2Kgs.16.10","kjv:2Kgs.16.11","kjv:2Kgs.16.12","kjv:2Chr.28.24","kjv:2Chr.28.25","kjv:2Chr.29.3","kjv:2Chr.29.4","kjv:2Kgs.18.15","kjv:2Kgs.18.16","kjv:Ezra.5.1","kjv:Ezra.6.1","kjv:Ezra.6.14","kjv:Hag.1.1","kjv:1Kgs.14.1-31","kjv:John.2.20","kjv:1Kgs.8.1-66","kjv:2Kgs.21.4","kjv:2Kgs.21.5","kjv:2Kgs.21.6","kjv:2Kgs.21.7","kjv:2Kgs.2.1-25","kjv:2Kgs.22.4","kjv:2Kgs.22.5","kjv:2Kgs.22.6","kjv:2Chr.35.3","kjv:2Chr.36.6","kjv:2Chr.36.7","kjv:2Chr.36.18","kjv:2Chr.36.19","kjv:Ezra.1.1","kjv:Ezra.1.2","kjv:Ezra.1.3","kjv:Ezra.4.5","kjv:Ezra.4.7"]}
+{"id":"clarke:1Kgs.6.38","on":"kjv:1Kgs.6.38","anchor":"both printings","cites":["kjv:1Kgs.6.1","kjv:1Kgs.12.1-33","kjv:2Kgs.12.4","kjv:2Kgs.12.5","kjv:2Chr.24.7","kjv:2Chr.24.8","kjv:2Chr.24.9","kjv:2Kgs.16.10","kjv:2Kgs.16.11","kjv:2Kgs.16.12","kjv:2Chr.28.24","kjv:2Chr.28.25","kjv:2Chr.29.3","kjv:2Chr.29.4","kjv:2Kgs.18.15","kjv:2Kgs.18.16","kjv:Ezra.5.1","kjv:Ezra.6.1","kjv:Ezra.6.14","kjv:Hag.1.1","kjv:1Kgs.14.1-31","kjv:John.2.20","kjv:1Kgs.8.1-66","kjv:2Kgs.21.4","kjv:2Kgs.21.5","kjv:2Kgs.21.6","kjv:2Kgs.21.7","kjv:2Chr.33.5","kjv:2Chr.33.6","kjv:2Chr.33.7","kjv:2Kgs.22.4","kjv:2Kgs.22.5","kjv:2Kgs.22.6","kjv:2Chr.35.3","kjv:2Chr.36.6","kjv:2Chr.36.7","kjv:2Chr.36.18","kjv:2Chr.36.19","kjv:Ezra.1.1","kjv:Ezra.1.2","kjv:Ezra.1.3","kjv:Ezra.4.5","kjv:Ezra.4.7"]}
 {"id":"clarke:1Kgs.7.1","on":"kjv:1Kgs.7.1","anchor":"both printings","cites":["kjv:1Kgs.9.10"]}
 {"id":"clarke:1Kgs.7.2","on":"kjv:1Kgs.7.2","anchor":"both printings","cites":[]}
 {"id":"clarke:1Kgs.7.7","on":"kjv:1Kgs.7.7","anchor":"both printings","cites":[]}
@@ -3781,7 +3781,7 @@
 {"id":"clarke:1Kgs.9.2","on":"kjv:1Kgs.9.2","anchor":"both printings","cites":[]}
 {"id":"clarke:1Kgs.9.7","on":"kjv:1Kgs.9.7","anchor":"both printings","cites":[]}
 {"id":"clarke:1Kgs.9.9","on":"kjv:1Kgs.9.9","anchor":"both printings","cites":[]}
-{"id":"clarke:1Kgs.9.10","on":"kjv:1Kgs.9.10","anchor":"both printings","cites":["kjv:1Kgs.7.1","kjv:1Kgs.2.1-46"]}
+{"id":"clarke:1Kgs.9.10","on":"kjv:1Kgs.9.10","anchor":"both printings","cites":["kjv:1Kgs.7.1"]}
 {"id":"clarke:1Kgs.9.11","on":"kjv:1Kgs.9.11","anchor":"one printing","cites":[]}
 {"id":"clarke:1Kgs.9.13","on":"kjv:1Kgs.9.13","anchor":"both printings","cites":["kjv:Judg.1.29","kjv:Josh.19.27"]}
 {"id":"clarke:1Kgs.9.14","on":"kjv:1Kgs.9.14","anchor":"both printings","cites":[]}
@@ -3799,7 +3799,7 @@
 {"id":"clarke:1Kgs.10.8","on":"kjv:1Kgs.10.8","anchor":"both printings","cites":[]}
 {"id":"clarke:1Kgs.10.11","on":"kjv:1Kgs.10.11","anchor":"both printings","cites":[]}
 {"id":"clarke:1Kgs.10.13","on":"kjv:1Kgs.10.13","anchor":"both printings","cites":[]}
-{"id":"clarke:1Kgs.10.14","on":"kjv:1Kgs.10.14","anchor":"both printings","cites":["kjv:Gen.10.4","kjv:Gen.2.1-25"]}
+{"id":"clarke:1Kgs.10.14","on":"kjv:1Kgs.10.14","anchor":"both printings","cites":["kjv:Gen.10.4","kjv:2Chr.20.36"]}
 {"id":"clarke:1Kgs.10.16","on":"kjv:1Kgs.10.16","anchor":"both printings","cites":[]}
 {"id":"clarke:1Kgs.10.17","on":"kjv:1Kgs.10.17","anchor":"both printings","cites":[]}
 {"id":"clarke:1Kgs.10.19","on":"kjv:1Kgs.10.19","anchor":"both printings","cites":[]}
@@ -3960,7 +3960,7 @@
 {"id":"clarke:1Kgs.19.18","on":"kjv:1Kgs.19.18","anchor":"both printings","cites":[]}
 {"id":"clarke:1Kgs.19.19","on":"kjv:1Kgs.19.19","anchor":"both printings","cites":["kjv:2Kgs.1.8"]}
 {"id":"clarke:1Kgs.19.20","on":"kjv:1Kgs.19.20","anchor":"both printings","cites":[]}
-{"id":"clarke:1Kgs.19.21","on":"kjv:1Kgs.19.21","anchor":"both printings","cites":["kjv:1Kgs.19.16","kjv:Zech.13.4","kjv:Zech.13.2"]}
+{"id":"clarke:1Kgs.19.21","on":"kjv:1Kgs.19.21","anchor":"both printings","cites":["kjv:1Kgs.19.16","kjv:Zech.13.4","kjv:2Kgs.1.8"]}
 {"id":"clarke:1Kgs.20.4","on":"kjv:1Kgs.20.4","anchor":"one printing","cites":[]}
 {"id":"clarke:1Kgs.20.8","on":"kjv:1Kgs.20.8","anchor":"one printing","cites":[]}
 {"id":"clarke:1Kgs.20.10","on":"kjv:1Kgs.20.10","anchor":"one printing","cites":[]}
@@ -3998,7 +3998,7 @@
 {"id":"clarke:1Kgs.21.27","on":"kjv:1Kgs.21.27","anchor":"both printings","cites":[]}
 {"id":"clarke:1Kgs.21.29","on":"kjv:1Kgs.21.29","anchor":"both printings","cites":[]}
 {"id":"clarke:1Kgs.22.1","on":"kjv:1Kgs.22.1","anchor":"both printings","cites":["kjv:1Kgs.20.34"]}
-{"id":"clarke:1Kgs.22.4","on":"kjv:1Kgs.22.4","anchor":"both printings","cites":["kjv:2Chr.19.1-3"]}
+{"id":"clarke:1Kgs.22.4","on":"kjv:1Kgs.22.4","anchor":"both printings","cites":["kjv:2Kgs.8.18","kjv:2Chr.19.1-3"]}
 {"id":"clarke:1Kgs.22.6","on":"kjv:1Kgs.22.6","anchor":"both printings","cites":[]}
 {"id":"clarke:1Kgs.22.8","on":"kjv:1Kgs.22.8","anchor":"both printings","cites":["kjv:1Kgs.20.35"]}
 {"id":"clarke:1Kgs.22.9","on":"kjv:1Kgs.22.9","anchor":"both printings","cites":[]}
@@ -4022,7 +4022,7 @@
 {"id":"clarke:1Kgs.22.47","on":"kjv:1Kgs.22.47","anchor":"both printings","cites":["kjv:2Kgs.8.22"]}
 {"id":"clarke:1Kgs.22.48","on":"kjv:1Kgs.22.48","anchor":"both printings","cites":["kjv:2Chr.20.36","kjv:1Kgs.9.26-28"]}
 {"id":"clarke:1Kgs.22.49","on":"kjv:1Kgs.22.49","anchor":"both printings","cites":[]}
-{"id":"clarke:2Kgs.1.1","on":"kjv:2Kgs.1.1","anchor":"both printings","cites":["kjv:2Kgs.3.4","kjv:2Kgs.3.2","kjv:2Kgs.3.5"]}
+{"id":"clarke:2Kgs.1.1","on":"kjv:2Kgs.1.1","anchor":"both printings","cites":["kjv:2Kgs.3.4","kjv:2Sam.8.2","kjv:2Kgs.3.5"]}
 {"id":"clarke:2Kgs.1.2","on":"kjv:2Kgs.1.2","anchor":"one printing","cites":[]}
 {"id":"clarke:2Kgs.1.4","on":"kjv:2Kgs.1.4","anchor":"both printings","cites":[]}
 {"id":"clarke:2Kgs.1.8","on":"kjv:2Kgs.1.8","anchor":"one printing","cites":[]}
@@ -4417,7 +4417,7 @@
 {"id":"clarke:1Chr.4.1","on":"kjv:1Chr.4.1","anchor":"both printings","cites":[]}
 {"id":"clarke:1Chr.4.3","on":"kjv:1Chr.4.3","anchor":"both printings","cites":[]}
 {"id":"clarke:1Chr.4.7","on":"kjv:1Chr.4.7","anchor":"both printings","cites":[]}
-{"id":"clarke:1Chr.4.9","on":"kjv:1Chr.4.9","anchor":"both printings","cites":["kjv:1Chr.2.55","kjv:1Chr.2.1-55","kjv:Num.10.9","kjv:Num.2.1-34"]}
+{"id":"clarke:1Chr.4.9","on":"kjv:1Chr.4.9","anchor":"both printings","cites":["kjv:1Chr.2.55","kjv:1Chr.2.1-55","kjv:Num.10.9","kjv:2Chr.13.12"]}
 {"id":"clarke:1Chr.4.12","on":"kjv:1Chr.4.12","anchor":"both printings","cites":["kjv:Num.13.6","kjv:Num.13.30","kjv:Num.14.24"]}
 {"id":"clarke:1Chr.4.18","on":"kjv:1Chr.4.18","anchor":"both printings","cites":[]}
 {"id":"clarke:1Chr.4.22","on":"kjv:1Chr.4.22","anchor":"both printings","cites":[]}
@@ -5258,7 +5258,7 @@
 {"id":"clarke:Job.2.9","on":"kjv:Job.2.9","anchor":"both printings","cites":[]}
 {"id":"clarke:Job.2.10","on":"kjv:Job.2.10","anchor":"both printings","cites":[]}
 {"id":"clarke:Job.2.12","on":"kjv:Job.2.12","anchor":"both printings","cites":[]}
-{"id":"clarke:Job.2.13","on":"kjv:Job.2.13","anchor":"both printings","cites":["kjv:Gen.1.1-31","kjv:1Sam.31.13","kjv:1Sam.1.1-28","kjv:Ezek.3.15"]}
+{"id":"clarke:Job.2.13","on":"kjv:Job.2.13","anchor":"both printings","cites":["kjv:Gen.1.1-31","kjv:1Sam.31.13","kjv:1Chr.10.12","kjv:Ezek.3.15"]}
 {"id":"clarke:Job.3.1","on":"kjv:Job.3.1","anchor":"both printings","cites":[]}
 {"id":"clarke:Job.3.3","on":"kjv:Job.3.3","anchor":"both printings","cites":[]}
 {"id":"clarke:Job.3.4","on":"kjv:Job.3.4","anchor":"both printings","cites":[]}
@@ -5319,7 +5319,7 @@
 {"id":"clarke:Job.5.21","on":"kjv:Job.5.21","anchor":"both printings","cites":["kjv:Prov.12.18","kjv:Prov.14.3","kjv:Jas.3.5-8"]}
 {"id":"clarke:Job.5.22","on":"kjv:Job.5.22","anchor":"one printing","cites":[]}
 {"id":"clarke:Job.5.23","on":"kjv:Job.5.23","anchor":"both printings","cites":[]}
-{"id":"clarke:Job.5.24","on":"kjv:Job.5.24","anchor":"both printings","cites":["kjv:Josh.22.4","kjv:Josh.22.6","kjv:Josh.22.7","kjv:Josh.22.8","kjv:Josh.2.1-24","kjv:Ps.52.7","kjv:Ps.91.10","kjv:Ps.132.3","kjv:Lam.2.4"]}
+{"id":"clarke:Job.5.24","on":"kjv:Job.5.24","anchor":"both printings","cites":["kjv:Josh.22.4","kjv:Josh.22.6","kjv:Josh.22.7","kjv:Josh.22.8","kjv:2Sam.18.17","kjv:2Sam.19.8","kjv:Ps.52.7","kjv:Ps.91.10","kjv:Ps.132.3","kjv:Lam.2.4"]}
 {"id":"clarke:Job.5.25","on":"kjv:Job.5.25","anchor":"both printings","cites":[]}
 {"id":"clarke:Job.5.27","on":"kjv:Job.5.27","anchor":"both printings","cites":[]}
 {"id":"clarke:Job.6.2","on":"kjv:Job.6.2","anchor":"one printing","cites":[]}
@@ -5595,7 +5595,7 @@
 {"id":"clarke:Job.20.12","on":"kjv:Job.20.12","anchor":"one printing","cites":[]}
 {"id":"clarke:Job.20.15","on":"kjv:Job.20.15","anchor":"both printings","cites":[]}
 {"id":"clarke:Job.20.16","on":"kjv:Job.20.16","anchor":"both printings","cites":[]}
-{"id":"clarke:Job.20.17","on":"kjv:Job.20.17","anchor":"both printings","cites":["kjv:Job.29.6","kjv:Isa.7.22"]}
+{"id":"clarke:Job.20.17","on":"kjv:Job.20.17","anchor":"both printings","cites":["kjv:Job.29.6","kjv:2Kgs.18.32","kjv:Isa.7.22"]}
 {"id":"clarke:Job.20.18","on":"kjv:Job.20.18","anchor":"one printing","cites":[]}
 {"id":"clarke:Job.20.19","on":"kjv:Job.20.19","anchor":"both printings","cites":[]}
 {"id":"clarke:Job.20.20","on":"kjv:Job.20.20","anchor":"both printings","cites":[]}
@@ -6876,7 +6876,7 @@
 {"id":"clarke:Ps.69.32","on":"kjv:Ps.69.32","anchor":"both printings","cites":[]}
 {"id":"clarke:Ps.69.33","on":"kjv:Ps.69.33","anchor":"both printings","cites":[]}
 {"id":"clarke:Ps.69.34","on":"kjv:Ps.69.34","anchor":"both printings","cites":[]}
-{"id":"clarke:Ps.69.35","on":"kjv:Ps.69.35","anchor":"both printings","cites":["kjv:Ps.69.1-21","kjv:Ps.69.22-28","kjv:Ps.69.29-36","kjv:Ps.69.13-15","kjv:Ps.69.19","kjv:Ps.69.20","kjv:Ps.69.22","kjv:Ps.69.23","kjv:Ps.69.24","kjv:Ps.69.25","kjv:Ps.69.27","kjv:Ps.69.28","kjv:Ps.69.3","kjv:Ps.69.32","kjv:Ps.69.33","kjv:Ps.69.34"]}
+{"id":"clarke:Ps.69.35","on":"kjv:Ps.69.35","anchor":"both printings","cites":["kjv:1Chr.11.5","kjv:Ps.69.1-21","kjv:Ps.69.22-28","kjv:Ps.69.29-36","kjv:Ps.69.13-15","kjv:Ps.69.19","kjv:Ps.69.20","kjv:Ps.69.22","kjv:Ps.69.23","kjv:Ps.69.24","kjv:Ps.69.25","kjv:Ps.69.27","kjv:Ps.69.28","kjv:Ps.69.3","kjv:Ps.69.32","kjv:Ps.69.33","kjv:Ps.69.34"]}
 {"id":"clarke:Ps.70.1","on":"kjv:Ps.70.1","anchor":"both printings","cites":[]}
 {"id":"clarke:Ps.70.3","on":"kjv:Ps.70.3","anchor":"both printings","cites":[]}
 {"id":"clarke:Ps.70.5","on":"kjv:Ps.70.5","anchor":"both printings","cites":["kjv:Ps.70.1","kjv:Ps.70.2","kjv:Ps.70.3","kjv:Ps.70.4","kjv:Ps.140.1","kjv:Ps.140.4"]}
@@ -7011,7 +7011,7 @@
 {"id":"clarke:Ps.78.48","on":"kjv:Ps.78.48","anchor":"both printings","cites":["kjv:Exod.9.23","kjv:Judg.12.1-15","kjv:Ps.78.51"]}
 {"id":"clarke:Ps.78.54","on":"kjv:Ps.78.54","anchor":"both printings","cites":[]}
 {"id":"clarke:Ps.78.57","on":"kjv:Ps.78.57","anchor":"one printing","cites":[]}
-{"id":"clarke:Ps.78.60","on":"kjv:Ps.78.60","anchor":"both printings","cites":["kjv:1Sam.6.1","kjv:1Sam.2.1-36","kjv:1Kgs.8.1","kjv:Ps.78.67","kjv:Ps.78.68","kjv:1Kgs.3.4"]}
+{"id":"clarke:Ps.78.60","on":"kjv:Ps.78.60","anchor":"both printings","cites":["kjv:1Sam.6.1","kjv:1Kgs.8.1","kjv:Ps.78.67","kjv:Ps.78.68","kjv:1Kgs.3.4"]}
 {"id":"clarke:Ps.78.63","on":"kjv:Ps.78.63","anchor":"one printing","cites":[]}
 {"id":"clarke:Ps.78.64","on":"kjv:Ps.78.64","anchor":"both printings","cites":["kjv:1Sam.4.11"]}
 {"id":"clarke:Ps.78.65","on":"kjv:Ps.78.65","anchor":"both printings","cites":[]}
@@ -7035,7 +7035,7 @@
 {"id":"clarke:Ps.80.6","on":"kjv:Ps.80.6","anchor":"both printings","cites":[]}
 {"id":"clarke:Ps.80.8","on":"kjv:Ps.80.8","anchor":"one printing","cites":[]}
 {"id":"clarke:Ps.80.9","on":"kjv:Ps.80.9","anchor":"one printing","cites":[]}
-{"id":"clarke:Ps.80.10","on":"kjv:Ps.80.10","anchor":"both printings","cites":["kjv:1Kgs.4.25","kjv:Mic.4.4","kjv:Mic.1.1-16"]}
+{"id":"clarke:Ps.80.10","on":"kjv:Ps.80.10","anchor":"both printings","cites":["kjv:1Kgs.4.25","kjv:Mic.4.4"]}
 {"id":"clarke:Ps.80.11","on":"kjv:Ps.80.11","anchor":"one printing","cites":[]}
 {"id":"clarke:Ps.80.12","on":"kjv:Ps.80.12","anchor":"both printings","cites":[]}
 {"id":"clarke:Ps.80.13","on":"kjv:Ps.80.13","anchor":"both printings","cites":[]}
@@ -7303,7 +7303,7 @@
 {"id":"clarke:Ps.102.14","on":"kjv:Ps.102.14","anchor":"one printing","cites":[]}
 {"id":"clarke:Ps.102.15","on":"kjv:Ps.102.15","anchor":"both printings","cites":[]}
 {"id":"clarke:Ps.102.16","on":"kjv:Ps.102.16","anchor":"one printing","cites":[]}
-{"id":"clarke:Ps.102.17","on":"kjv:Ps.102.17","anchor":"both printings","cites":["kjv:Eph.2.10","kjv:Eph.2.1-22","kjv:Eph.2.17","kjv:Gal.6.15"]}
+{"id":"clarke:Ps.102.17","on":"kjv:Ps.102.17","anchor":"both printings","cites":["kjv:Eph.2.10","kjv:2Cor.5.17","kjv:Gal.6.15"]}
 {"id":"clarke:Ps.102.19","on":"kjv:Ps.102.19","anchor":"both printings","cites":[]}
 {"id":"clarke:Ps.102.20","on":"kjv:Ps.102.20","anchor":"one printing","cites":[]}
 {"id":"clarke:Ps.102.21","on":"kjv:Ps.102.21","anchor":"both printings","cites":[]}
@@ -7449,7 +7449,7 @@
 {"id":"clarke:Ps.110.4","on":"kjv:Ps.110.4","anchor":"both printings","cites":["kjv:Gen.14.18","kjv:Gen.14.19"]}
 {"id":"clarke:Ps.110.5","on":"kjv:Ps.110.5","anchor":"one printing","cites":[]}
 {"id":"clarke:Ps.110.6","on":"kjv:Ps.110.6","anchor":"both printings","cites":[]}
-{"id":"clarke:Ps.110.7","on":"kjv:Ps.110.7","anchor":"both printings","cites":["kjv:Ps.110.6","kjv:Ps.110.1","kjv:Ps.110.2","kjv:Ps.110.3","kjv:Ps.110.4","kjv:Ps.110.5","kjv:Phil.2.6","kjv:Phil.2.7","kjv:Matt.22.45","kjv:Acts.2.34","kjv:Eph.1.20","kjv:Phil.2.9","kjv:1Thess.2.13","kjv:Eph.6.17","kjv:Rom.1.16","kjv:Luke.24.46","kjv:Acts.13.46","kjv:Isa.2.2","kjv:Isa.53.9","kjv:John.4.22","kjv:Jer.23.6","kjv:Jer.1.1-19","kjv:Isa.9.6","kjv:Jer.49.12"]}
+{"id":"clarke:Ps.110.7","on":"kjv:Ps.110.7","anchor":"both printings","cites":["kjv:Ps.110.6","kjv:Ps.110.1","kjv:Ps.110.2","kjv:Ps.110.3","kjv:Ps.110.4","kjv:Ps.110.5","kjv:Phil.2.6","kjv:Phil.2.7","kjv:Matt.22.45","kjv:Acts.2.34","kjv:Eph.1.20","kjv:Phil.2.9","kjv:1Thess.2.13","kjv:Eph.6.17","kjv:Rom.1.16","kjv:Luke.24.46","kjv:Acts.13.46","kjv:Isa.2.2","kjv:Isa.53.9","kjv:John.4.22","kjv:Jer.23.6","kjv:1Cor.1.30","kjv:Isa.9.6","kjv:Jer.49.12"]}
 {"id":"clarke:Ps.111.1","on":"kjv:Ps.111.1","anchor":"both printings","cites":[]}
 {"id":"clarke:Ps.111.2","on":"kjv:Ps.111.2","anchor":"both printings","cites":[]}
 {"id":"clarke:Ps.111.3","on":"kjv:Ps.111.3","anchor":"both printings","cites":[]}
@@ -8260,7 +8260,7 @@
 {"id":"clarke:Prov.22.16","on":"kjv:Prov.22.16","anchor":"both printings","cites":[]}
 {"id":"clarke:Prov.22.17","on":"kjv:Prov.22.17","anchor":"both printings","cites":["kjv:Prov.22.21","kjv:Prov.22.6"]}
 {"id":"clarke:Prov.22.18","on":"kjv:Prov.22.18","anchor":"both printings","cites":[]}
-{"id":"clarke:Prov.22.19","on":"kjv:Prov.22.19","anchor":"both printings","cites":["kjv:Amos.1.11","kjv:Amos.2.1-16"]}
+{"id":"clarke:Prov.22.19","on":"kjv:Prov.22.19","anchor":"both printings","cites":["kjv:Amos.1.11","kjv:2Cor.12.8"]}
 {"id":"clarke:Prov.22.21","on":"kjv:Prov.22.21","anchor":"both printings","cites":[]}
 {"id":"clarke:Prov.22.22","on":"kjv:Prov.22.22","anchor":"one printing","cites":[]}
 {"id":"clarke:Prov.22.23","on":"kjv:Prov.22.23","anchor":"one printing","cites":[]}
@@ -8528,7 +8528,7 @@
 {"id":"clarke:Eccl.7.17","on":"kjv:Eccl.7.17","anchor":"both printings","cites":[]}
 {"id":"clarke:Eccl.7.18","on":"kjv:Eccl.7.18","anchor":"both printings","cites":[]}
 {"id":"clarke:Eccl.7.19","on":"kjv:Eccl.7.19","anchor":"both printings","cites":[]}
-{"id":"clarke:Eccl.7.20","on":"kjv:Eccl.7.20","anchor":"both printings","cites":["kjv:1Kgs.8.31","kjv:1Kgs.8.46","kjv:1Kgs.8.2"]}
+{"id":"clarke:Eccl.7.20","on":"kjv:Eccl.7.20","anchor":"both printings","cites":["kjv:1Kgs.8.31","kjv:1Kgs.8.46","kjv:2Chr.6.36"]}
 {"id":"clarke:Eccl.7.21","on":"kjv:Eccl.7.21","anchor":"one printing","cites":[]}
 {"id":"clarke:Eccl.7.22","on":"kjv:Eccl.7.22","anchor":"one printing","cites":[]}
 {"id":"clarke:Eccl.7.23","on":"kjv:Eccl.7.23","anchor":"one printing","cites":[]}
@@ -8722,7 +8722,7 @@
 {"id":"clarke:Isa.2.4","on":"kjv:Isa.2.4","anchor":"both printings","cites":[]}
 {"id":"clarke:Isa.2.6","on":"kjv:Isa.2.6","anchor":"both printings","cites":["kjv:Isa.14.1","kjv:Job.30.7","kjv:Hos.5.7"]}
 {"id":"clarke:Isa.2.7","on":"kjv:Isa.2.7","anchor":"one printing","cites":[]}
-{"id":"clarke:Isa.2.8","on":"kjv:Isa.2.8","anchor":"both printings","cites":["kjv:2Kgs.15.3","kjv:2Kgs.15.4","kjv:2Kgs.15.34","kjv:2Kgs.15.35","kjv:Gen.31.34"]}
+{"id":"clarke:Isa.2.8","on":"kjv:Isa.2.8","anchor":"both printings","cites":["kjv:2Kgs.15.3","kjv:2Kgs.15.4","kjv:2Kgs.15.34","kjv:2Kgs.15.35","kjv:1Sam.19.13","kjv:Gen.31.34"]}
 {"id":"clarke:Isa.2.9","on":"kjv:Isa.2.9","anchor":"one printing","cites":[]}
 {"id":"clarke:Isa.2.18","on":"kjv:Isa.2.18","anchor":"one printing","cites":[]}
 {"id":"clarke:Isa.2.19-21","on":"kjv:Isa.2.19-21","anchor":"both printings","cites":["kjv:Isa.4.1-6","kjv:Judg.6.2","kjv:Jer.41.9"]}
@@ -8772,16 +8772,16 @@
 {"id":"clarke:Isa.6.2","on":"kjv:Isa.6.2","anchor":"both printings","cites":[]}
 {"id":"clarke:Isa.6.3","on":"kjv:Isa.6.3","anchor":"both printings","cites":["kjv:Exod.15.20","kjv:Exod.15.21"]}
 {"id":"clarke:Isa.6.5","on":"kjv:Isa.6.5","anchor":"both printings","cites":["kjv:Exod.4.10","kjv:Exod.6.12","kjv:Jer.1.6"]}
-{"id":"clarke:Isa.6.6","on":"kjv:Isa.6.6","anchor":"both printings","cites":["kjv:Lev.9.24","kjv:Lev.2.1-16","kjv:Lev.6.12","kjv:Lev.6.13"]}
+{"id":"clarke:Isa.6.6","on":"kjv:Isa.6.6","anchor":"both printings","cites":["kjv:Lev.9.24","kjv:2Chr.7.1","kjv:Lev.6.12","kjv:Lev.6.13"]}
 {"id":"clarke:Isa.6.9","on":"kjv:Isa.6.9","anchor":"both printings","cites":["kjv:Isa.44.18","kjv:Matt.13.14","kjv:John.12.40","kjv:Acts.28.27"]}
-{"id":"clarke:Isa.7.5","on":"kjv:Isa.7.5","anchor":"both printings","cites":["kjv:2Chr.20.20"]}
+{"id":"clarke:Isa.7.5","on":"kjv:Isa.7.5","anchor":"both printings","cites":["kjv:2Kgs.23.19","kjv:2Kgs.23.20","kjv:2Chr.20.20"]}
 {"id":"clarke:Isa.7.11","on":"kjv:Isa.7.11","anchor":"both printings","cites":["kjv:Isa.7.20"]}
 {"id":"clarke:Isa.7.15","on":"kjv:Isa.7.15","anchor":"both printings","cites":["kjv:Isa.7.16","kjv:Josh.5.6","kjv:Isa.7.3-7","kjv:Isa.8.4","kjv:Mic.5.3","kjv:Matt.1.23","kjv:1Tim.3.16","kjv:Prov.30.19","kjv:Gen.29.6","kjv:Exod.2.8","kjv:Lam.1.4","kjv:Luke.1.34","kjv:Gen.3.15"]}
 {"id":"clarke:Isa.7.17","on":"kjv:Isa.7.17","anchor":"both printings","cites":[]}
 {"id":"clarke:Isa.7.18","on":"kjv:Isa.7.18","anchor":"both printings","cites":["kjv:Isa.5.26"]}
-{"id":"clarke:Isa.7.20","on":"kjv:Isa.7.20","anchor":"both printings","cites":["kjv:Isa.1.1-31","kjv:Isa.8.8","kjv:Isa.8.1-22","kjv:Zech.3.8","kjv:2Kgs.16.7","kjv:Isa.7.10","kjv:Isa.7.1-25","kjv:Ezek.4.3-12","kjv:Zech.6.14","kjv:Exod.3.12","kjv:Exod.1.1-22","kjv:Jer.44.29","kjv:Jer.44.30","kjv:2Chr.31.1","kjv:Isa.2.1-22","kjv:John.7.41","kjv:John.7.52"]}
+{"id":"clarke:Isa.7.20","on":"kjv:Isa.7.20","anchor":"both printings","cites":["kjv:Isa.1.1-31","kjv:Isa.8.8","kjv:Isa.8.1-22","kjv:Zech.3.8","kjv:2Kgs.16.7","kjv:Isa.7.10","kjv:Isa.7.1-25","kjv:Ezek.4.3-12","kjv:Zech.6.14","kjv:Exod.3.12","kjv:1Sam.2.34","kjv:Jer.44.29","kjv:Jer.44.30","kjv:2Chr.31.1","kjv:Isa.2.1-22","kjv:John.7.41","kjv:John.7.52"]}
 {"id":"clarke:Isa.8.1","on":"kjv:Isa.8.1","anchor":"one printing","cites":[]}
-{"id":"clarke:Isa.8.4","on":"kjv:Isa.8.4","anchor":"both printings","cites":["kjv:2Kgs.15.29","kjv:2Kgs.16.9","kjv:2Kgs.1.1-18"]}
+{"id":"clarke:Isa.8.4","on":"kjv:Isa.8.4","anchor":"both printings","cites":["kjv:2Kgs.15.29","kjv:2Kgs.16.9","kjv:1Chr.5.26"]}
 {"id":"clarke:Isa.8.6","on":"kjv:Isa.8.6","anchor":"both printings","cites":["kjv:Isa.7.14"]}
 {"id":"clarke:Isa.8.8","on":"kjv:Isa.8.8","anchor":"both printings","cites":[]}
 {"id":"clarke:Isa.8.9","on":"kjv:Isa.8.9","anchor":"both printings","cites":[]}
@@ -8914,7 +8914,7 @@
 {"id":"clarke:Isa.22.3","on":"kjv:Isa.22.3","anchor":"both printings","cites":[]}
 {"id":"clarke:Isa.22.6","on":"kjv:Isa.22.6","anchor":"both printings","cites":[]}
 {"id":"clarke:Isa.22.8","on":"kjv:Isa.22.8","anchor":"both printings","cites":["kjv:1Kgs.7.2","kjv:1Kgs.7.3"]}
-{"id":"clarke:Isa.22.9","on":"kjv:Isa.22.9","anchor":"both printings","cites":["kjv:2Kgs.20.20","kjv:2Kgs.2.1-25"]}
+{"id":"clarke:Isa.22.9","on":"kjv:Isa.22.9","anchor":"both printings","cites":["kjv:2Chr.32.30","kjv:2Kgs.20.20","kjv:2Chr.32.2","kjv:2Chr.32.3","kjv:2Chr.32.5"]}
 {"id":"clarke:Isa.22.11","on":"kjv:Isa.22.11","anchor":"one printing","cites":[]}
 {"id":"clarke:Isa.22.13","on":"kjv:Isa.22.13","anchor":"both printings","cites":[]}
 {"id":"clarke:Isa.22.14","on":"kjv:Isa.22.14","anchor":"both printings","cites":["kjv:1Sam.2.27","kjv:Isa.5.9"]}
@@ -9167,7 +9167,7 @@
 {"id":"clarke:Isa.45.7","on":"kjv:Isa.45.7","anchor":"both printings","cites":["kjv:Isa.22.1-25"]}
 {"id":"clarke:Isa.45.8","on":"kjv:Isa.45.8","anchor":"both printings","cites":[]}
 {"id":"clarke:Isa.45.9","on":"kjv:Isa.45.9","anchor":"both printings","cites":["kjv:Isa.45.1"]}
-{"id":"clarke:Isa.45.13","on":"kjv:Isa.45.13","anchor":"both printings","cites":["kjv:Num.13.32","kjv:Num.13.1"]}
+{"id":"clarke:Isa.45.13","on":"kjv:Isa.45.13","anchor":"both printings","cites":["kjv:Num.13.32","kjv:1Chr.20.6"]}
 {"id":"clarke:Isa.45.15","on":"kjv:Isa.45.15","anchor":"both printings","cites":[]}
 {"id":"clarke:Isa.45.16","on":"kjv:Isa.45.16","anchor":"both printings","cites":["kjv:Isa.42.17"]}
 {"id":"clarke:Isa.45.18","on":"kjv:Isa.45.18","anchor":"one printing","cites":[]}
@@ -9349,7 +9349,7 @@
 {"id":"clarke:Isa.63.18","on":"kjv:Isa.63.18","anchor":"both printings","cites":[]}
 {"id":"clarke:Isa.64.1","on":"kjv:Isa.64.1","anchor":"both printings","cites":[]}
 {"id":"clarke:Isa.64.2","on":"kjv:Isa.64.2","anchor":"one printing","cites":[]}
-{"id":"clarke:Isa.64.4","on":"kjv:Isa.64.4","anchor":"both printings","cites":["kjv:Isa.1.1-31"]}
+{"id":"clarke:Isa.64.4","on":"kjv:Isa.64.4","anchor":"both printings","cites":["kjv:1Cor.2.9"]}
 {"id":"clarke:Isa.64.5","on":"kjv:Isa.64.5","anchor":"both printings","cites":["kjv:Ezek.23.12"]}
 {"id":"clarke:Isa.64.6","on":"kjv:Isa.64.6","anchor":"one printing","cites":[]}
 {"id":"clarke:Isa.64.7","on":"kjv:Isa.64.7","anchor":"both printings","cites":[]}
@@ -9713,7 +9713,7 @@
 {"id":"clarke:Jer.23.20","on":"kjv:Jer.23.20","anchor":"both printings","cites":[]}
 {"id":"clarke:Jer.23.21","on":"kjv:Jer.23.21","anchor":"both printings","cites":[]}
 {"id":"clarke:Jer.23.23","on":"kjv:Jer.23.23","anchor":"both printings","cites":["kjv:Jer.23.24"]}
-{"id":"clarke:Jer.23.27","on":"kjv:Jer.23.27","anchor":"both printings","cites":["kjv:Joel.3.1","kjv:Dan.7.1","kjv:Jer.23.28"]}
+{"id":"clarke:Jer.23.27","on":"kjv:Jer.23.27","anchor":"both printings","cites":["kjv:1Sam.28.6","kjv:Joel.3.1","kjv:Dan.7.1","kjv:Jer.23.28"]}
 {"id":"clarke:Jer.23.28","on":"kjv:Jer.23.28","anchor":"both printings","cites":[]}
 {"id":"clarke:Jer.23.29","on":"kjv:Jer.23.29","anchor":"both printings","cites":["kjv:Jer.23.32"]}
 {"id":"clarke:Jer.23.30","on":"kjv:Jer.23.30","anchor":"both printings","cites":["kjv:Jer.23.31","kjv:Jer.23.32"]}
@@ -9758,7 +9758,7 @@
 {"id":"clarke:Jer.27.13","on":"kjv:Jer.27.13","anchor":"both printings","cites":[]}
 {"id":"clarke:Jer.27.16","on":"kjv:Jer.27.16","anchor":"both printings","cites":["kjv:2Chr.36.7-10"]}
 {"id":"clarke:Jer.27.19","on":"kjv:Jer.27.19","anchor":"both printings","cites":[]}
-{"id":"clarke:Jer.27.22","on":"kjv:Jer.27.22","anchor":"both printings","cites":[]}
+{"id":"clarke:Jer.27.22","on":"kjv:Jer.27.22","anchor":"both printings","cites":["kjv:2Kgs.25.13"]}
 {"id":"clarke:Jer.28.1","on":"kjv:Jer.28.1","anchor":"one printing","cites":[]}
 {"id":"clarke:Jer.28.2","on":"kjv:Jer.28.2","anchor":"both printings","cites":[]}
 {"id":"clarke:Jer.28.6","on":"kjv:Jer.28.6","anchor":"one printing","cites":[]}
@@ -10311,7 +10311,7 @@
 {"id":"clarke:Ezek.11.21","on":"kjv:Ezek.11.21","anchor":"both printings","cites":[]}
 {"id":"clarke:Ezek.11.23","on":"kjv:Ezek.11.23","anchor":"both printings","cites":[]}
 {"id":"clarke:Ezek.12.2","on":"kjv:Ezek.12.2","anchor":"one printing","cites":[]}
-{"id":"clarke:Ezek.12.3","on":"kjv:Ezek.12.3","anchor":"both printings","cites":["kjv:Jer.39.2-4","kjv:Jer.2.1-37"]}
+{"id":"clarke:Ezek.12.3","on":"kjv:Ezek.12.3","anchor":"both printings","cites":["kjv:Jer.39.2-4","kjv:2Kgs.25.4"]}
 {"id":"clarke:Ezek.12.6","on":"kjv:Ezek.12.6","anchor":"both printings","cites":[]}
 {"id":"clarke:Ezek.12.10","on":"kjv:Ezek.12.10","anchor":"both printings","cites":[]}
 {"id":"clarke:Ezek.12.18","on":"kjv:Ezek.12.18","anchor":"both printings","cites":["kjv:Ezek.12.19"]}
@@ -10693,7 +10693,7 @@
 {"id":"clarke:Ezek.39.27","on":"kjv:Ezek.39.27","anchor":"one printing","cites":[]}
 {"id":"clarke:Ezek.39.28","on":"kjv:Ezek.39.28","anchor":"both printings","cites":[]}
 {"id":"clarke:Ezek.39.29","on":"kjv:Ezek.39.29","anchor":"both printings","cites":[]}
-{"id":"clarke:Ezek.40.1","on":"kjv:Ezek.40.1","anchor":"both printings","cites":["kjv:1Kgs.6.3-16","kjv:Ezek.41.2","kjv:1Kgs.6.29-36","kjv:1Kgs.2.1-46","kjv:Ezek.41.16","kjv:Ezek.41.17","kjv:2Chr.3.1"]}
+{"id":"clarke:Ezek.40.1","on":"kjv:Ezek.40.1","anchor":"both printings","cites":["kjv:1Kgs.6.3-16","kjv:Ezek.41.2","kjv:1Kgs.6.29-36","kjv:2Chr.4.9","kjv:Ezek.41.16","kjv:Ezek.41.17","kjv:2Chr.3.1"]}
 {"id":"clarke:Ezek.40.3","on":"kjv:Ezek.40.3","anchor":"both printings","cites":[]}
 {"id":"clarke:Ezek.40.4","on":"kjv:Ezek.40.4","anchor":"both printings","cites":[]}
 {"id":"clarke:Ezek.40.6","on":"kjv:Ezek.40.6","anchor":"both printings","cites":["kjv:Ezek.40.26","kjv:Ezek.40.34","kjv:Ezek.40.37","kjv:Ezek.40.49"]}
@@ -11680,7 +11680,7 @@
 {"id":"clarke:Zech.6.15","on":"kjv:Zech.6.15","anchor":"both printings","cites":[]}
 {"id":"clarke:Zech.7.1","on":"kjv:Zech.7.1","anchor":"both printings","cites":[]}
 {"id":"clarke:Zech.7.2","on":"kjv:Zech.7.2","anchor":"both printings","cites":[]}
-{"id":"clarke:Zech.7.5","on":"kjv:Zech.7.5","anchor":"both printings","cites":["kjv:Jer.41.1","kjv:Jer.41.2"]}
+{"id":"clarke:Zech.7.5","on":"kjv:Zech.7.5","anchor":"both printings","cites":["kjv:Jer.41.1","kjv:2Kgs.25.25"]}
 {"id":"clarke:Zech.7.6","on":"kjv:Zech.7.6","anchor":"both printings","cites":[]}
 {"id":"clarke:Zech.7.7","on":"kjv:Zech.7.7","anchor":"both printings","cites":["kjv:Obad.1.19"]}
 {"id":"clarke:Zech.7.9","on":"kjv:Zech.7.9","anchor":"both printings","cites":[]}
@@ -11901,7 +11901,7 @@
 {"id":"clarke:Matt.5.19","on":"kjv:Matt.5.19","anchor":"one printing","cites":[]}
 {"id":"clarke:Matt.5.20","on":"kjv:Matt.5.20","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.5.21","on":"kjv:Matt.5.21","anchor":"both printings","cites":["kjv:Gen.9.5"]}
-{"id":"clarke:Matt.5.22","on":"kjv:Matt.5.22","anchor":"both printings","cites":["kjv:Matt.15.1-39","kjv:Jer.7.31","kjv:Jer.7.32","kjv:Matt.5.21"]}
+{"id":"clarke:Matt.5.22","on":"kjv:Matt.5.22","anchor":"both printings","cites":["kjv:Matt.15.1-39","kjv:2Chr.28.3","kjv:Jer.7.31","kjv:Jer.7.32","kjv:Matt.5.21"]}
 {"id":"clarke:Matt.5.23","on":"kjv:Matt.5.23","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.5.24","on":"kjv:Matt.5.24","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.5.25","on":"kjv:Matt.5.25","anchor":"both printings","cites":[]}
@@ -11948,7 +11948,7 @@
 {"id":"clarke:Matt.6.20","on":"kjv:Matt.6.20","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.6.21","on":"kjv:Matt.6.21","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.6.22","on":"kjv:Matt.6.22","anchor":"both printings","cites":["kjv:Matt.6.23"]}
-{"id":"clarke:Matt.6.24","on":"kjv:Matt.6.24","anchor":"both printings","cites":["kjv:Exod.18.21","kjv:Exod.21.30","kjv:Luke.16.9","kjv:Luke.16.11"]}
+{"id":"clarke:Matt.6.24","on":"kjv:Matt.6.24","anchor":"both printings","cites":["kjv:Exod.18.21","kjv:1Sam.8.3","kjv:Exod.21.30","kjv:Luke.16.9","kjv:Luke.16.11"]}
 {"id":"clarke:Matt.6.26","on":"kjv:Matt.6.26","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.6.27","on":"kjv:Matt.6.27","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.6.28","on":"kjv:Matt.6.28","anchor":"one printing","cites":[]}
@@ -12011,7 +12011,7 @@
 {"id":"clarke:Matt.8.26","on":"kjv:Matt.8.26","anchor":"both printings","cites":["kjv:Josh.10.12-14"]}
 {"id":"clarke:Matt.8.27","on":"kjv:Matt.8.27","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.8.28","on":"kjv:Matt.8.28","anchor":"both printings","cites":[]}
-{"id":"clarke:Matt.8.29","on":"kjv:Matt.8.29","anchor":"both printings","cites":["kjv:Judg.11.12","kjv:2Kgs.9.18","kjv:Ezra.4.3","kjv:John.2.4"]}
+{"id":"clarke:Matt.8.29","on":"kjv:Matt.8.29","anchor":"both printings","cites":["kjv:Judg.11.12","kjv:2Sam.16.10","kjv:2Kgs.9.18","kjv:Ezra.4.3","kjv:John.2.4"]}
 {"id":"clarke:Matt.8.30","on":"kjv:Matt.8.30","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.8.31","on":"kjv:Matt.8.31","anchor":"both printings","cites":["kjv:Matt.4.9"]}
 {"id":"clarke:Matt.8.32","on":"kjv:Matt.8.32","anchor":"both printings","cites":["kjv:Luke.8.26"]}
@@ -12025,7 +12025,7 @@
 {"id":"clarke:Matt.9.6","on":"kjv:Matt.9.6","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.9.8","on":"kjv:Matt.9.8","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.9.9","on":"kjv:Matt.9.9","anchor":"both printings","cites":[]}
-{"id":"clarke:Matt.9.10","on":"kjv:Matt.9.10","anchor":"both printings","cites":["kjv:Luke.5.29","kjv:Matt.11.19","kjv:Gal.2.15","kjv:Heb.7.26"]}
+{"id":"clarke:Matt.9.10","on":"kjv:Matt.9.10","anchor":"both printings","cites":["kjv:Luke.5.29","kjv:Matt.11.19","kjv:Gal.2.15","kjv:Heb.7.26","kjv:1Pet.4.18"]}
 {"id":"clarke:Matt.9.11","on":"kjv:Matt.9.11","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.9.12","on":"kjv:Matt.9.12","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.9.13","on":"kjv:Matt.9.13","anchor":"both printings","cites":[]}
@@ -12065,7 +12065,7 @@
 {"id":"clarke:Matt.10.14","on":"kjv:Matt.10.14","anchor":"both printings","cites":["kjv:Amos.9.7"]}
 {"id":"clarke:Matt.10.15","on":"kjv:Matt.10.15","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.10.16","on":"kjv:Matt.10.16","anchor":"both printings","cites":["kjv:Gen.3.1"]}
-{"id":"clarke:Matt.10.17","on":"kjv:Matt.10.17","anchor":"both printings","cites":["kjv:Acts.22.19"]}
+{"id":"clarke:Matt.10.17","on":"kjv:Matt.10.17","anchor":"both printings","cites":["kjv:Acts.22.19","kjv:2Cor.11.24"]}
 {"id":"clarke:Matt.10.18","on":"kjv:Matt.10.18","anchor":"one printing","cites":[]}
 {"id":"clarke:Matt.10.19","on":"kjv:Matt.10.19","anchor":"both printings","cites":["kjv:Mark.13.11","kjv:Luke.11.13"]}
 {"id":"clarke:Matt.10.20","on":"kjv:Matt.10.20","anchor":"both printings","cites":[]}
@@ -12075,7 +12075,7 @@
 {"id":"clarke:Matt.10.24","on":"kjv:Matt.10.24","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.10.25","on":"kjv:Matt.10.25","anchor":"one printing","cites":[]}
 {"id":"clarke:Matt.10.26","on":"kjv:Matt.10.26","anchor":"both printings","cites":[]}
-{"id":"clarke:Matt.10.27","on":"kjv:Matt.10.27","anchor":"both printings","cites":["kjv:Eph.3.1-12","kjv:Deut.22.8","kjv:Josh.2.6","kjv:Judg.9.51","kjv:Neh.8.16","kjv:2Kgs.23.12","kjv:Isa.15.3","kjv:Jer.32.29","kjv:Acts.10.9"]}
+{"id":"clarke:Matt.10.27","on":"kjv:Matt.10.27","anchor":"both printings","cites":["kjv:Eph.3.1-12","kjv:Deut.22.8","kjv:Josh.2.6","kjv:Judg.9.51","kjv:Neh.8.16","kjv:2Sam.11.2","kjv:2Kgs.23.12","kjv:Isa.15.3","kjv:Jer.32.29","kjv:Acts.10.9"]}
 {"id":"clarke:Matt.10.28","on":"kjv:Matt.10.28","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.10.29","on":"kjv:Matt.10.29","anchor":"one printing","cites":[]}
 {"id":"clarke:Matt.10.30","on":"kjv:Matt.10.30","anchor":"both printings","cites":[]}
@@ -12296,7 +12296,7 @@
 {"id":"clarke:Matt.17.2","on":"kjv:Matt.17.2","anchor":"one printing","cites":[]}
 {"id":"clarke:Matt.17.3","on":"kjv:Matt.17.3","anchor":"both printings","cites":["kjv:2Kgs.2.11","kjv:Matt.17.10","kjv:Luke.9.31"]}
 {"id":"clarke:Matt.17.4","on":"kjv:Matt.17.4","anchor":"both printings","cites":["kjv:Luke.9.33"]}
-{"id":"clarke:Matt.17.5","on":"kjv:Matt.17.5","anchor":"both printings","cites":["kjv:Exod.16.10","kjv:Ezek.43.2","kjv:Exod.19.9","kjv:Heb.10.1","kjv:2Tim.1.10"]}
+{"id":"clarke:Matt.17.5","on":"kjv:Matt.17.5","anchor":"both printings","cites":["kjv:Exod.16.10","kjv:Ezek.43.2","kjv:1Chr.5.14","kjv:Exod.19.9","kjv:Heb.10.1","kjv:2Tim.1.10"]}
 {"id":"clarke:Matt.17.6","on":"kjv:Matt.17.6","anchor":"both printings","cites":["kjv:Dan.8.17","kjv:Acts.9.4"]}
 {"id":"clarke:Matt.17.7","on":"kjv:Matt.17.7","anchor":"one printing","cites":[]}
 {"id":"clarke:Matt.17.9","on":"kjv:Matt.17.9","anchor":"both printings","cites":["kjv:Matt.16.20","kjv:Matt.16.27"]}
@@ -12338,7 +12338,7 @@
 {"id":"clarke:Matt.18.21","on":"kjv:Matt.18.21","anchor":"both printings","cites":["kjv:Matt.18.22"]}
 {"id":"clarke:Matt.18.23","on":"kjv:Matt.18.23","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.18.24","on":"kjv:Matt.18.24","anchor":"one printing","cites":[]}
-{"id":"clarke:Matt.18.25","on":"kjv:Matt.18.25","anchor":"both printings","cites":["kjv:Exod.22.3","kjv:Lev.25.39","kjv:Lev.25.47"]}
+{"id":"clarke:Matt.18.25","on":"kjv:Matt.18.25","anchor":"both printings","cites":["kjv:Exod.22.3","kjv:Lev.25.39","kjv:Lev.25.47","kjv:2Kgs.4.1"]}
 {"id":"clarke:Matt.18.26","on":"kjv:Matt.18.26","anchor":"one printing","cites":[]}
 {"id":"clarke:Matt.18.27","on":"kjv:Matt.18.27","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.18.28","on":"kjv:Matt.18.28","anchor":"one printing","cites":[]}
@@ -12407,7 +12407,7 @@
 {"id":"clarke:Matt.21.5","on":"kjv:Matt.21.5","anchor":"both printings","cites":["kjv:Zech.9.9"]}
 {"id":"clarke:Matt.21.7","on":"kjv:Matt.21.7","anchor":"both printings","cites":["kjv:2Kgs.9.13"]}
 {"id":"clarke:Matt.21.8","on":"kjv:Matt.21.8","anchor":"both printings","cites":["kjv:Rev.7.9"]}
-{"id":"clarke:Matt.21.9","on":"kjv:Matt.21.9","anchor":"both printings","cites":["kjv:2Sam.14.4"]}
+{"id":"clarke:Matt.21.9","on":"kjv:Matt.21.9","anchor":"both printings","cites":["kjv:2Sam.14.4","kjv:2Kgs.6.26"]}
 {"id":"clarke:Matt.21.10","on":"kjv:Matt.21.10","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.21.11","on":"kjv:Matt.21.11","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.21.12","on":"kjv:Matt.21.12","anchor":"both printings","cites":[]}
@@ -12507,7 +12507,7 @@
 {"id":"clarke:Matt.24.9","on":"kjv:Matt.24.9","anchor":"both printings","cites":["kjv:Mark.13.9-11","kjv:Luke.21.12-15","kjv:Acts.4.5","kjv:Matt.6.10","kjv:John.12.2"]}
 {"id":"clarke:Matt.24.10","on":"kjv:Matt.24.10","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.24.11","on":"kjv:Matt.24.11","anchor":"both printings","cites":["kjv:2Cor.11.13","kjv:2Tim.2.17"]}
-{"id":"clarke:Matt.24.12","on":"kjv:Matt.24.12","anchor":"both printings","cites":["kjv:Matt.24.10","kjv:Matt.24.11","kjv:2Tim.1.15"]}
+{"id":"clarke:Matt.24.12","on":"kjv:Matt.24.12","anchor":"both printings","cites":["kjv:Matt.24.10","kjv:Matt.24.11","kjv:2Thess.3.1","kjv:2Tim.1.15"]}
 {"id":"clarke:Matt.24.13","on":"kjv:Matt.24.13","anchor":"both printings","cites":["kjv:Matt.24.20"]}
 {"id":"clarke:Matt.24.14","on":"kjv:Matt.24.14","anchor":"both printings","cites":["kjv:Luke.2.1","kjv:Col.1.6","kjv:Col.1.23","kjv:Rom.10.18"]}
 {"id":"clarke:Matt.24.15","on":"kjv:Matt.24.15","anchor":"both printings","cites":["kjv:Luke.21.20","kjv:Luke.21.21"]}
@@ -12538,7 +12538,7 @@
 {"id":"clarke:Matt.24.47","on":"kjv:Matt.24.47","anchor":"one printing","cites":[]}
 {"id":"clarke:Matt.24.48","on":"kjv:Matt.24.48","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.24.50","on":"kjv:Matt.24.50","anchor":"both printings","cites":[]}
-{"id":"clarke:Matt.24.51","on":"kjv:Matt.24.51","anchor":"both printings","cites":["kjv:Dan.2.5","kjv:2Sam.12.31"]}
+{"id":"clarke:Matt.24.51","on":"kjv:Matt.24.51","anchor":"both printings","cites":["kjv:Dan.2.5","kjv:2Sam.12.31","kjv:1Chr.20.3"]}
 {"id":"clarke:Matt.25.1","on":"kjv:Matt.25.1","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.25.2","on":"kjv:Matt.25.2","anchor":"both printings","cites":["kjv:Matt.25.3","kjv:Matt.25.4"]}
 {"id":"clarke:Matt.25.4","on":"kjv:Matt.25.4","anchor":"both printings","cites":[]}
@@ -12592,7 +12592,7 @@
 {"id":"clarke:Matt.26.24","on":"kjv:Matt.26.24","anchor":"one printing","cites":[]}
 {"id":"clarke:Matt.26.25","on":"kjv:Matt.26.25","anchor":"one printing","cites":[]}
 {"id":"clarke:Matt.26.26","on":"kjv:Matt.26.26","anchor":"both printings","cites":["kjv:Matt.14.1-36","kjv:John.14.1-31","kjv:Luke.22.1"]}
-{"id":"clarke:Matt.26.27","on":"kjv:Matt.26.27","anchor":"both printings","cites":["kjv:Luke.22.20","kjv:Matt.26.17","kjv:Matt.26.19","kjv:Matt.26.26"]}
+{"id":"clarke:Matt.26.27","on":"kjv:Matt.26.27","anchor":"both printings","cites":["kjv:Luke.22.20","kjv:1Cor.11.25","kjv:Matt.26.17","kjv:Matt.26.19","kjv:Matt.26.26"]}
 {"id":"clarke:Matt.26.28","on":"kjv:Matt.26.28","anchor":"both printings","cites":[]}
 {"id":"clarke:Matt.26.29","on":"kjv:Matt.26.29","anchor":"one printing","cites":[]}
 {"id":"clarke:Matt.26.30","on":"kjv:Matt.26.30","anchor":"both printings","cites":["kjv:Ps.113.1-9","kjv:Ps.114.1-8","kjv:Ps.115.1-18","kjv:Ps.116.1-19","kjv:Ps.117.1-2","kjv:Ps.118.1-29","kjv:Matt.26.3","kjv:Matt.26.4"]}
@@ -13014,7 +13014,7 @@
 {"id":"clarke:Luke.1.2","on":"kjv:Luke.1.2","anchor":"both printings","cites":["kjv:John.1.1"]}
 {"id":"clarke:Luke.1.3","on":"kjv:Luke.1.3","anchor":"both printings","cites":[]}
 {"id":"clarke:Luke.1.4","on":"kjv:Luke.1.4","anchor":"both printings","cites":[]}
-{"id":"clarke:Luke.1.5","on":"kjv:Luke.1.5","anchor":"both printings","cites":["kjv:Gen.49.10","kjv:Mic.5.1","kjv:Mic.5.2","kjv:1Chr.24.1","kjv:2Kgs.11.7","kjv:1Chr.24.10"]}
+{"id":"clarke:Luke.1.5","on":"kjv:Luke.1.5","anchor":"both printings","cites":["kjv:Gen.49.10","kjv:Mic.5.1","kjv:Mic.5.2","kjv:1Chr.24.1","kjv:2Kgs.11.7","kjv:2Chr.23.8","kjv:1Chr.24.10"]}
 {"id":"clarke:Luke.1.6","on":"kjv:Luke.1.6","anchor":"both printings","cites":["kjv:Matt.3.15"]}
 {"id":"clarke:Luke.1.7","on":"kjv:Luke.1.7","anchor":"both printings","cites":["kjv:Gen.11.30","kjv:Gen.17.17","kjv:Gen.18.11","kjv:Gen.17.16","kjv:Luke.1.13"]}
 {"id":"clarke:Luke.1.8","on":"kjv:Luke.1.8","anchor":"both printings","cites":[]}
@@ -13230,10 +13230,10 @@
 {"id":"clarke:Luke.7.41","on":"kjv:Luke.7.41","anchor":"both printings","cites":["kjv:Matt.26.6"]}
 {"id":"clarke:Luke.7.42","on":"kjv:Luke.7.42","anchor":"both printings","cites":[]}
 {"id":"clarke:Luke.7.43","on":"kjv:Luke.7.43","anchor":"one printing","cites":[]}
-{"id":"clarke:Luke.7.44","on":"kjv:Luke.7.44","anchor":"both printings","cites":["kjv:Gen.18.4","kjv:Judg.19.21"]}
+{"id":"clarke:Luke.7.44","on":"kjv:Luke.7.44","anchor":"both printings","cites":["kjv:Gen.18.4","kjv:Judg.19.21","kjv:1Sam.25.41"]}
 {"id":"clarke:Luke.7.45","on":"kjv:Luke.7.45","anchor":"both printings","cites":["kjv:Luke.7.37"]}
 {"id":"clarke:Luke.7.46","on":"kjv:Luke.7.46","anchor":"both printings","cites":["kjv:Ruth.3.3","kjv:2Kgs.4.2","kjv:Ps.23.5","kjv:Matt.5.17"]}
-{"id":"clarke:Luke.7.47","on":"kjv:Luke.7.47","anchor":"both printings","cites":["kjv:Luke.7.42","kjv:Luke.7.43","kjv:Matt.13.13","kjv:John.8.44","kjv:Isa.49.19","kjv:Eccl.5.6"]}
+{"id":"clarke:Luke.7.47","on":"kjv:Luke.7.47","anchor":"both printings","cites":["kjv:Luke.7.42","kjv:Luke.7.43","kjv:Matt.13.13","kjv:John.8.44","kjv:1Cor.10.17","kjv:Isa.49.19","kjv:Eccl.5.6"]}
 {"id":"clarke:Luke.7.48","on":"kjv:Luke.7.48","anchor":"both printings","cites":["kjv:Luke.7.47"]}
 {"id":"clarke:Luke.7.50","on":"kjv:Luke.7.50","anchor":"both printings","cites":["kjv:Judg.18.6","kjv:Jas.2.16","kjv:Luke.7.11-17","kjv:Luke.7.14","kjv:Luke.7.15","kjv:Luke.7.16"]}
 {"id":"clarke:Luke.8.1","on":"kjv:Luke.8.1","anchor":"one printing","cites":[]}
@@ -13298,7 +13298,7 @@
 {"id":"clarke:Luke.10.6","on":"kjv:Luke.10.6","anchor":"one printing","cites":[]}
 {"id":"clarke:Luke.10.18","on":"kjv:Luke.10.18","anchor":"one printing","cites":[]}
 {"id":"clarke:Luke.10.19","on":"kjv:Luke.10.19","anchor":"both printings","cites":["kjv:Matt.23.33","kjv:Rom.16.20","kjv:Mark.16.17"]}
-{"id":"clarke:Luke.10.20","on":"kjv:Luke.10.20","anchor":"both printings","cites":["kjv:Exod.32.32"]}
+{"id":"clarke:Luke.10.20","on":"kjv:Luke.10.20","anchor":"both printings","cites":["kjv:Exod.32.32","kjv:2Kgs.14.27"]}
 {"id":"clarke:Luke.10.21","on":"kjv:Luke.10.21","anchor":"one printing","cites":[]}
 {"id":"clarke:Luke.10.22","on":"kjv:Luke.10.22","anchor":"both printings","cites":["kjv:Matt.11.27"]}
 {"id":"clarke:Luke.10.23","on":"kjv:Luke.10.23","anchor":"one printing","cites":[]}
@@ -13422,7 +13422,7 @@
 {"id":"clarke:Luke.15.16","on":"kjv:Luke.15.16","anchor":"one printing","cites":[]}
 {"id":"clarke:Luke.15.18","on":"kjv:Luke.15.18","anchor":"one printing","cites":[]}
 {"id":"clarke:Luke.15.20","on":"kjv:Luke.15.20","anchor":"both printings","cites":["kjv:Luke.15.19"]}
-{"id":"clarke:Luke.15.22","on":"kjv:Luke.15.22","anchor":"both printings","cites":["kjv:Gen.41.42","kjv:Esth.8.2","kjv:Dan.6.17","kjv:Jas.2.2","kjv:Isa.20.1"]}
+{"id":"clarke:Luke.15.22","on":"kjv:Luke.15.22","anchor":"both printings","cites":["kjv:Gen.41.42","kjv:1Kgs.21.8","kjv:Esth.8.2","kjv:Dan.6.17","kjv:Jas.2.2","kjv:Isa.20.1"]}
 {"id":"clarke:Luke.15.23","on":"kjv:Luke.15.23","anchor":"both printings","cites":[]}
 {"id":"clarke:Luke.15.24","on":"kjv:Luke.15.24","anchor":"both printings","cites":[]}
 {"id":"clarke:Luke.15.25","on":"kjv:Luke.15.25","anchor":"one printing","cites":[]}
@@ -13459,7 +13459,7 @@
 {"id":"clarke:Luke.17.7-9","on":"kjv:Luke.17.7-9","anchor":"one printing","cites":[]}
 {"id":"clarke:Luke.17.10","on":"kjv:Luke.17.10","anchor":"both printings","cites":[]}
 {"id":"clarke:Luke.17.11","on":"kjv:Luke.17.11","anchor":"both printings","cites":["kjv:Luke.9.51","kjv:Luke.9.52","kjv:John.4.4"]}
-{"id":"clarke:Luke.17.12","on":"kjv:Luke.17.12","anchor":"both printings","cites":["kjv:Lev.13.46","kjv:Num.5.2"]}
+{"id":"clarke:Luke.17.12","on":"kjv:Luke.17.12","anchor":"both printings","cites":[]}
 {"id":"clarke:Luke.17.13","on":"kjv:Luke.17.13","anchor":"both printings","cites":[]}
 {"id":"clarke:Luke.17.14","on":"kjv:Luke.17.14","anchor":"both printings","cites":["kjv:Lev.13.2"]}
 {"id":"clarke:Luke.17.15","on":"kjv:Luke.17.15","anchor":"both printings","cites":[]}
@@ -13706,7 +13706,7 @@
 {"id":"clarke:John.1.47","on":"kjv:John.1.47","anchor":"both printings","cites":[]}
 {"id":"clarke:John.1.48","on":"kjv:John.1.48","anchor":"one printing","cites":[]}
 {"id":"clarke:John.1.50","on":"kjv:John.1.50","anchor":"one printing","cites":[]}
-{"id":"clarke:John.1.51","on":"kjv:John.1.51","anchor":"both printings","cites":["kjv:Gen.28.12","kjv:John.1.33","kjv:Mark.1.1","kjv:Luke.4.41","kjv:John.1.1","kjv:John.1.3","kjv:Phil.2.7","kjv:John.1.18","kjv:Mark.2.7","kjv:Rom.9.5","kjv:Phil.2.6","kjv:Matt.11.5","kjv:Luke.5.32","kjv:John.4.14","kjv:Col.2.3","kjv:Col.1.15","kjv:1Pet.2.25","kjv:Luke.4.18","kjv:Jas.1.21","kjv:Rom.10.12","kjv:Rom.8.21"]}
+{"id":"clarke:John.1.51","on":"kjv:John.1.51","anchor":"both printings","cites":["kjv:Gen.28.12","kjv:John.1.33","kjv:Mark.1.1","kjv:Luke.4.41","kjv:John.1.1","kjv:1Cor.1.24","kjv:John.1.3","kjv:Phil.2.7","kjv:John.1.18","kjv:Mark.2.7","kjv:Rom.9.5","kjv:Phil.2.6","kjv:Matt.11.5","kjv:Luke.5.32","kjv:John.4.14","kjv:Col.2.3","kjv:Col.1.15","kjv:1Pet.2.25","kjv:Luke.4.18","kjv:1Pet.2.24","kjv:Jas.1.21","kjv:Rom.10.12","kjv:1Cor.7.22","kjv:Rom.8.21"]}
 {"id":"clarke:John.2.1","on":"kjv:John.2.1","anchor":"both printings","cites":["kjv:Judg.14.12","kjv:Judg.14.17","kjv:Judg.14.18"]}
 {"id":"clarke:John.2.2","on":"kjv:John.2.2","anchor":"both printings","cites":[]}
 {"id":"clarke:John.2.3","on":"kjv:John.2.3","anchor":"one printing","cites":[]}
@@ -14001,7 +14001,7 @@
 {"id":"clarke:John.9.16","on":"kjv:John.9.16","anchor":"both printings","cites":[]}
 {"id":"clarke:John.9.18","on":"kjv:John.9.18","anchor":"both printings","cites":["kjv:John.9.8"]}
 {"id":"clarke:John.9.22","on":"kjv:John.9.22","anchor":"both printings","cites":[]}
-{"id":"clarke:John.9.24","on":"kjv:John.9.24","anchor":"both printings","cites":["kjv:Josh.7.19","kjv:Luke.17.18"]}
+{"id":"clarke:John.9.24","on":"kjv:John.9.24","anchor":"both printings","cites":["kjv:Josh.7.19","kjv:1Sam.6.5","kjv:Luke.17.18"]}
 {"id":"clarke:John.9.25","on":"kjv:John.9.25","anchor":"both printings","cites":[]}
 {"id":"clarke:John.9.27","on":"kjv:John.9.27","anchor":"both printings","cites":["kjv:John.9.15"]}
 {"id":"clarke:John.9.28","on":"kjv:John.9.28","anchor":"both printings","cites":[]}
@@ -14538,7 +14538,7 @@
 {"id":"clarke:Acts.7.2","on":"kjv:Acts.7.2","anchor":"both printings","cites":["kjv:Luke.2.15","kjv:Gen.11.31"]}
 {"id":"clarke:Acts.7.4","on":"kjv:Acts.7.4","anchor":"both printings","cites":["kjv:Gen.11.26"]}
 {"id":"clarke:Acts.7.6","on":"kjv:Acts.7.6","anchor":"both printings","cites":["kjv:Exod.12.40","kjv:Acts.1.1-26","kjv:Acts.9.1-43"]}
-{"id":"clarke:Acts.7.7","on":"kjv:Acts.7.7","anchor":"both printings","cites":["kjv:Rom.13.2"]}
+{"id":"clarke:Acts.7.7","on":"kjv:Acts.7.7","anchor":"both printings","cites":["kjv:Rom.13.2","kjv:1Cor.11.29","kjv:1Cor.11.30","kjv:1Cor.11.31"]}
 {"id":"clarke:Acts.7.8","on":"kjv:Acts.7.8","anchor":"both printings","cites":["kjv:Gen.17.10"]}
 {"id":"clarke:Acts.7.9","on":"kjv:Acts.7.9","anchor":"both printings","cites":[]}
 {"id":"clarke:Acts.7.10","on":"kjv:Acts.7.10","anchor":"one printing","cites":[]}
@@ -14620,7 +14620,7 @@
 {"id":"clarke:Acts.9.12","on":"kjv:Acts.9.12","anchor":"both printings","cites":[]}
 {"id":"clarke:Acts.9.13","on":"kjv:Acts.9.13","anchor":"one printing","cites":[]}
 {"id":"clarke:Acts.9.14","on":"kjv:Acts.9.14","anchor":"both printings","cites":[]}
-{"id":"clarke:Acts.9.15","on":"kjv:Acts.9.15","anchor":"both printings","cites":["kjv:Ruth.2.9","kjv:1Thess.4.4"]}
+{"id":"clarke:Acts.9.15","on":"kjv:Acts.9.15","anchor":"both printings","cites":["kjv:Ruth.2.9","kjv:1Thess.4.4","kjv:2Tim.1.11"]}
 {"id":"clarke:Acts.9.16","on":"kjv:Acts.9.16","anchor":"both printings","cites":[]}
 {"id":"clarke:Acts.9.17","on":"kjv:Acts.9.17","anchor":"both printings","cites":["kjv:John.4.2"]}
 {"id":"clarke:Acts.9.18","on":"kjv:Acts.9.18","anchor":"one printing","cites":[]}
@@ -14913,7 +14913,7 @@
 {"id":"clarke:Acts.17.34","on":"kjv:Acts.17.34","anchor":"one printing","cites":[]}
 {"id":"clarke:Acts.18.1","on":"kjv:Acts.18.1","anchor":"one printing","cites":[]}
 {"id":"clarke:Acts.18.2","on":"kjv:Acts.18.2","anchor":"one printing","cites":[]}
-{"id":"clarke:Acts.18.3","on":"kjv:Acts.18.3","anchor":"both printings","cites":["kjv:Acts.22.3","kjv:Acts.20.34","kjv:1Cor.4.12","kjv:1Thess.3.8","kjv:2Cor.11.9-12"]}
+{"id":"clarke:Acts.18.3","on":"kjv:Acts.18.3","anchor":"both printings","cites":["kjv:Acts.22.3","kjv:Acts.20.34","kjv:1Cor.4.12","kjv:2Cor.9.8","kjv:2Cor.9.9","kjv:1Thess.3.8","kjv:2Cor.11.9-12"]}
 {"id":"clarke:Acts.18.4","on":"kjv:Acts.18.4","anchor":"both printings","cites":["kjv:Acts.18.8"]}
 {"id":"clarke:Acts.18.5","on":"kjv:Acts.18.5","anchor":"both printings","cites":["kjv:Acts.17.13","kjv:1Thess.3.10","kjv:Acts.4.4"]}
 {"id":"clarke:Acts.18.6","on":"kjv:Acts.18.6","anchor":"one printing","cites":[]}
@@ -15314,7 +15314,7 @@
 {"id":"clarke:Rom.4.22","on":"kjv:Rom.4.22","anchor":"both printings","cites":[]}
 {"id":"clarke:Rom.4.23","on":"kjv:Rom.4.23","anchor":"both printings","cites":[]}
 {"id":"clarke:Rom.4.24","on":"kjv:Rom.4.24","anchor":"both printings","cites":[]}
-{"id":"clarke:Rom.4.25","on":"kjv:Rom.4.25","anchor":"both printings","cites":["kjv:1Cor.15.17","kjv:Eph.1.13","kjv:Eph.1.14"]}
+{"id":"clarke:Rom.4.25","on":"kjv:Rom.4.25","anchor":"both printings","cites":["kjv:1Cor.15.17","kjv:1Pet.1.3","kjv:Eph.1.13","kjv:Eph.1.14"]}
 {"id":"clarke:Rom.5.1","on":"kjv:Rom.5.1","anchor":"one printing","cites":[]}
 {"id":"clarke:Rom.5.2","on":"kjv:Rom.5.2","anchor":"one printing","cites":[]}
 {"id":"clarke:Rom.5.3","on":"kjv:Rom.5.3","anchor":"one printing","cites":[]}
@@ -15505,7 +15505,7 @@
 {"id":"clarke:Rom.12.3","on":"kjv:Rom.12.3","anchor":"both printings","cites":[]}
 {"id":"clarke:Rom.12.4","on":"kjv:Rom.12.4","anchor":"both printings","cites":[]}
 {"id":"clarke:Rom.12.5","on":"kjv:Rom.12.5","anchor":"one printing","cites":[]}
-{"id":"clarke:Rom.12.6","on":"kjv:Rom.12.6","anchor":"both printings","cites":["kjv:1Cor.11.4","kjv:1Cor.11.5","kjv:1Cor.14.3","kjv:Luke.1.76","kjv:Rom.12.3"]}
+{"id":"clarke:Rom.12.6","on":"kjv:Rom.12.6","anchor":"both printings","cites":["kjv:1Cor.11.4","kjv:1Cor.11.5","kjv:1Cor.14.3","kjv:Luke.1.76","kjv:1Cor.14.29","kjv:Rom.12.3"]}
 {"id":"clarke:Rom.12.8","on":"kjv:Rom.12.8","anchor":"one printing","cites":[]}
 {"id":"clarke:Rom.12.9","on":"kjv:Rom.12.9","anchor":"both printings","cites":[]}
 {"id":"clarke:Rom.12.10","on":"kjv:Rom.12.10","anchor":"one printing","cites":[]}
@@ -15990,7 +15990,7 @@
 {"id":"clarke:1Cor.16.11","on":"kjv:1Cor.16.11","anchor":"both printings","cites":["kjv:Mark.5.34","kjv:Luke.7.50"]}
 {"id":"clarke:1Cor.16.12","on":"kjv:1Cor.16.12","anchor":"both printings","cites":[]}
 {"id":"clarke:1Cor.16.14","on":"kjv:1Cor.16.14","anchor":"both printings","cites":[]}
-{"id":"clarke:1Cor.16.16","on":"kjv:1Cor.16.16","anchor":"both printings","cites":["kjv:Eph.5.21"]}
+{"id":"clarke:1Cor.16.16","on":"kjv:1Cor.16.16","anchor":"both printings","cites":["kjv:Eph.5.21","kjv:1Pet.5.5"]}
 {"id":"clarke:1Cor.16.17","on":"kjv:1Cor.16.17","anchor":"one printing","cites":[]}
 {"id":"clarke:1Cor.16.18","on":"kjv:1Cor.16.18","anchor":"one printing","cites":[]}
 {"id":"clarke:1Cor.16.19","on":"kjv:1Cor.16.19","anchor":"both printings","cites":["kjv:Acts.18.2","kjv:Rom.16.3"]}
@@ -16081,7 +16081,7 @@
 {"id":"clarke:2Cor.5.8","on":"kjv:2Cor.5.8","anchor":"both printings","cites":[]}
 {"id":"clarke:2Cor.5.9","on":"kjv:2Cor.5.9","anchor":"one printing","cites":[]}
 {"id":"clarke:2Cor.5.10","on":"kjv:2Cor.5.10","anchor":"both printings","cites":[]}
-{"id":"clarke:2Cor.5.11","on":"kjv:2Cor.5.11","anchor":"both printings","cites":["kjv:Rom.3.18"]}
+{"id":"clarke:2Cor.5.11","on":"kjv:2Cor.5.11","anchor":"both printings","cites":["kjv:Rom.3.18","kjv:1Pet.1.17"]}
 {"id":"clarke:2Cor.5.12","on":"kjv:2Cor.5.12","anchor":"both printings","cites":[]}
 {"id":"clarke:2Cor.5.13","on":"kjv:2Cor.5.13","anchor":"both printings","cites":[]}
 {"id":"clarke:2Cor.5.14","on":"kjv:2Cor.5.14","anchor":"both printings","cites":[]}
@@ -16159,7 +16159,7 @@
 {"id":"clarke:2Cor.10.1","on":"kjv:2Cor.10.1","anchor":"one printing","cites":[]}
 {"id":"clarke:2Cor.10.2","on":"kjv:2Cor.10.2","anchor":"both printings","cites":[]}
 {"id":"clarke:2Cor.10.3","on":"kjv:2Cor.10.3","anchor":"both printings","cites":[]}
-{"id":"clarke:2Cor.10.4","on":"kjv:2Cor.10.4","anchor":"both printings","cites":["kjv:Eph.6.10-17","kjv:2Tim.2.3","kjv:2Tim.2.4"]}
+{"id":"clarke:2Cor.10.4","on":"kjv:2Cor.10.4","anchor":"both printings","cites":["kjv:Eph.6.10-17","kjv:1Tim.1.18","kjv:2Tim.2.3","kjv:2Tim.2.4"]}
 {"id":"clarke:2Cor.10.5","on":"kjv:2Cor.10.5","anchor":"both printings","cites":[]}
 {"id":"clarke:2Cor.10.6","on":"kjv:2Cor.10.6","anchor":"both printings","cites":[]}
 {"id":"clarke:2Cor.10.7","on":"kjv:2Cor.10.7","anchor":"both printings","cites":[]}
@@ -16194,7 +16194,7 @@
 {"id":"clarke:2Cor.11.20","on":"kjv:2Cor.11.20","anchor":"both printings","cites":["kjv:Gal.4.9","kjv:Gal.4.1"]}
 {"id":"clarke:2Cor.11.21","on":"kjv:2Cor.11.21","anchor":"one printing","cites":[]}
 {"id":"clarke:2Cor.11.22","on":"kjv:2Cor.11.22","anchor":"both printings","cites":[]}
-{"id":"clarke:2Cor.11.23","on":"kjv:2Cor.11.23","anchor":"both printings","cites":["kjv:Acts.16.22","kjv:Acts.21.11"]}
+{"id":"clarke:2Cor.11.23","on":"kjv:2Cor.11.23","anchor":"both printings","cites":["kjv:Acts.16.22","kjv:Acts.21.11","kjv:2Cor.4.11"]}
 {"id":"clarke:2Cor.11.24","on":"kjv:2Cor.11.24","anchor":"both printings","cites":["kjv:2Cor.8.1-24"]}
 {"id":"clarke:2Cor.11.25","on":"kjv:2Cor.11.25","anchor":"both printings","cites":["kjv:Acts.16.22","kjv:Acts.14.19"]}
 {"id":"clarke:2Cor.11.26","on":"kjv:2Cor.11.26","anchor":"one printing","cites":[]}
@@ -16217,7 +16217,7 @@
 {"id":"clarke:2Cor.12.11","on":"kjv:2Cor.12.11","anchor":"both printings","cites":[]}
 {"id":"clarke:2Cor.12.12","on":"kjv:2Cor.12.12","anchor":"both printings","cites":[]}
 {"id":"clarke:2Cor.12.13","on":"kjv:2Cor.12.13","anchor":"both printings","cites":[]}
-{"id":"clarke:2Cor.12.14","on":"kjv:2Cor.12.14","anchor":"both printings","cites":["kjv:1Cor.16.5","kjv:1Cor.4.15"]}
+{"id":"clarke:2Cor.12.14","on":"kjv:2Cor.12.14","anchor":"both printings","cites":["kjv:1Cor.16.5","kjv:2Cor.1.16","kjv:1Cor.4.15"]}
 {"id":"clarke:2Cor.12.15","on":"kjv:2Cor.12.15","anchor":"both printings","cites":[]}
 {"id":"clarke:2Cor.12.16","on":"kjv:2Cor.12.16","anchor":"both printings","cites":[]}
 {"id":"clarke:2Cor.12.17","on":"kjv:2Cor.12.17","anchor":"both printings","cites":[]}
@@ -16351,7 +16351,7 @@
 {"id":"clarke:Gal.5.16","on":"kjv:Gal.5.16","anchor":"both printings","cites":[]}
 {"id":"clarke:Gal.5.17","on":"kjv:Gal.5.17","anchor":"both printings","cites":["kjv:Gal.5.16"]}
 {"id":"clarke:Gal.5.18","on":"kjv:Gal.5.18","anchor":"both printings","cites":[]}
-{"id":"clarke:Gal.5.19","on":"kjv:Gal.5.19","anchor":"both printings","cites":[]}
+{"id":"clarke:Gal.5.19","on":"kjv:Gal.5.19","anchor":"both printings","cites":["kjv:2Cor.12.21"]}
 {"id":"clarke:Gal.5.22","on":"kjv:Gal.5.22","anchor":"one printing","cites":[]}
 {"id":"clarke:Gal.5.24","on":"kjv:Gal.5.24","anchor":"both printings","cites":[]}
 {"id":"clarke:Gal.5.25","on":"kjv:Gal.5.25","anchor":"both printings","cites":[]}
@@ -16460,7 +16460,7 @@
 {"id":"clarke:Eph.4.24","on":"kjv:Eph.4.24","anchor":"both printings","cites":["kjv:Gen.1.27","kjv:Gen.1.26"]}
 {"id":"clarke:Eph.4.25","on":"kjv:Eph.4.25","anchor":"both printings","cites":["kjv:Eph.4.21","kjv:Eph.4.24"]}
 {"id":"clarke:Eph.4.26","on":"kjv:Eph.4.26","anchor":"both printings","cites":[]}
-{"id":"clarke:Eph.4.27","on":"kjv:Eph.4.27","anchor":"both printings","cites":["kjv:1Tim.3.11"]}
+{"id":"clarke:Eph.4.27","on":"kjv:Eph.4.27","anchor":"both printings","cites":["kjv:1Tim.3.11","kjv:2Tim.3.3"]}
 {"id":"clarke:Eph.4.28","on":"kjv:Eph.4.28","anchor":"both printings","cites":[]}
 {"id":"clarke:Eph.4.29","on":"kjv:Eph.4.29","anchor":"both printings","cites":["kjv:Col.4.6"]}
 {"id":"clarke:Eph.4.30","on":"kjv:Eph.4.30","anchor":"both printings","cites":[]}
@@ -16611,7 +16611,7 @@
 {"id":"clarke:Phil.4.13","on":"kjv:Phil.4.13","anchor":"one printing","cites":[]}
 {"id":"clarke:Phil.4.14","on":"kjv:Phil.4.14","anchor":"both printings","cites":[]}
 {"id":"clarke:Phil.4.15","on":"kjv:Phil.4.15","anchor":"one printing","cites":[]}
-{"id":"clarke:Phil.4.16","on":"kjv:Phil.4.16","anchor":"both printings","cites":["kjv:1Thess.2.9"]}
+{"id":"clarke:Phil.4.16","on":"kjv:Phil.4.16","anchor":"both printings","cites":["kjv:1Thess.2.9","kjv:2Thess.3.7-9"]}
 {"id":"clarke:Phil.4.17","on":"kjv:Phil.4.17","anchor":"both printings","cites":[]}
 {"id":"clarke:Phil.4.18","on":"kjv:Phil.4.18","anchor":"one printing","cites":[]}
 {"id":"clarke:Phil.4.19","on":"kjv:Phil.4.19","anchor":"both printings","cites":[]}
@@ -17015,7 +17015,7 @@
 {"id":"clarke:2Tim.4.19","on":"kjv:2Tim.4.19","anchor":"one printing","cites":[]}
 {"id":"clarke:2Tim.4.20","on":"kjv:2Tim.4.20","anchor":"both printings","cites":["kjv:Rom.16.23","kjv:Acts.19.22","kjv:Acts.20.4"]}
 {"id":"clarke:2Tim.4.21","on":"kjv:2Tim.4.21","anchor":"both printings","cites":[]}
-{"id":"clarke:2Tim.4.22","on":"kjv:2Tim.4.22","anchor":"both printings","cites":["kjv:2Tim.4.16","kjv:2Cor.7.6","kjv:2Cor.7.7","kjv:2Cor.7.13","kjv:2Cor.7.15","kjv:Phil.2.24","kjv:Ezek.25.16","kjv:Zeph.2.5","kjv:1Chr.18.17","kjv:1Tim.1.4","kjv:2Tim.3.9","kjv:2Tim.1.14","kjv:1Tim.4.12","kjv:2Tim.2.15","kjv:1Tim.3.2-4","kjv:Titus.1.6-8"]}
+{"id":"clarke:2Tim.4.22","on":"kjv:2Tim.4.22","anchor":"both printings","cites":["kjv:2Tim.4.16","kjv:2Cor.7.6","kjv:2Cor.7.7","kjv:2Cor.7.13","kjv:2Cor.7.15","kjv:Phil.2.24","kjv:Ezek.25.16","kjv:Zeph.2.5","kjv:1Kgs.1.38","kjv:1Chr.18.17","kjv:1Tim.1.4","kjv:2Tim.3.9","kjv:2Tim.1.14","kjv:1Tim.4.12","kjv:2Tim.2.15","kjv:1Tim.3.2-4","kjv:Titus.1.6-8"]}
 {"id":"clarke:Titus.1.1","on":"kjv:Titus.1.1","anchor":"one printing","cites":[]}
 {"id":"clarke:Titus.1.2","on":"kjv:Titus.1.2","anchor":"both printings","cites":["kjv:2Tim.1.9","kjv:2Tim.1.11"]}
 {"id":"clarke:Titus.1.3","on":"kjv:Titus.1.3","anchor":"one printing","cites":[]}
@@ -17054,10 +17054,10 @@
 {"id":"clarke:Titus.3.6","on":"kjv:Titus.3.6","anchor":"both printings","cites":[]}
 {"id":"clarke:Titus.3.7","on":"kjv:Titus.3.7","anchor":"both printings","cites":[]}
 {"id":"clarke:Titus.3.8","on":"kjv:Titus.3.8","anchor":"both printings","cites":[]}
-{"id":"clarke:Titus.3.9","on":"kjv:Titus.3.9","anchor":"both printings","cites":["kjv:1Tim.1.4"]}
+{"id":"clarke:Titus.3.9","on":"kjv:Titus.3.9","anchor":"both printings","cites":["kjv:1Tim.1.4","kjv:2Tim.2.23"]}
 {"id":"clarke:Titus.3.10","on":"kjv:Titus.3.10","anchor":"both printings","cites":[]}
 {"id":"clarke:Titus.3.12","on":"kjv:Titus.3.12","anchor":"both printings","cites":[]}
-{"id":"clarke:Titus.3.13","on":"kjv:Titus.3.13","anchor":"both printings","cites":[]}
+{"id":"clarke:Titus.3.13","on":"kjv:Titus.3.13","anchor":"both printings","cites":["kjv:1Cor.1.12","kjv:1Cor.3.5","kjv:1Cor.3.6"]}
 {"id":"clarke:Titus.3.14","on":"kjv:Titus.3.14","anchor":"both printings","cites":[]}
 {"id":"clarke:Titus.3.15","on":"kjv:Titus.3.15","anchor":"one printing","cites":[]}
 {"id":"clarke:Phlm.1.1","on":"kjv:Phlm.1.1","anchor":"both printings","cites":[]}
@@ -17140,7 +17140,7 @@
 {"id":"clarke:Heb.4.9","on":"kjv:Heb.4.9","anchor":"both printings","cites":[]}
 {"id":"clarke:Heb.4.10","on":"kjv:Heb.4.10","anchor":"both printings","cites":["kjv:Rev.14.13"]}
 {"id":"clarke:Heb.4.11","on":"kjv:Heb.4.11","anchor":"both printings","cites":[]}
-{"id":"clarke:Heb.4.12","on":"kjv:Heb.4.12","anchor":"both printings","cites":["kjv:John.1.1","kjv:Acts.20.32","kjv:Deut.8.3","kjv:Luke.7.7","kjv:Phlm.1.6","kjv:Isa.40.4","kjv:Eph.6.17","kjv:Rev.1.16","kjv:1Thess.5.23","kjv:Lev.10.1-5","kjv:Num.11.1-3"]}
+{"id":"clarke:Heb.4.12","on":"kjv:Heb.4.12","anchor":"both printings","cites":["kjv:John.1.1","kjv:Acts.20.32","kjv:Deut.8.3","kjv:Luke.7.7","kjv:Phlm.1.6","kjv:1Thess.2.13","kjv:Isa.40.4","kjv:Eph.6.17","kjv:Rev.1.16","kjv:1Thess.5.23","kjv:Lev.10.1-5","kjv:Num.11.1-3"]}
 {"id":"clarke:Heb.4.13","on":"kjv:Heb.4.13","anchor":"one printing","cites":[]}
 {"id":"clarke:Heb.4.14","on":"kjv:Heb.4.14","anchor":"both printings","cites":["kjv:Heb.3.1","kjv:Heb.2.17","kjv:Heb.3.6"]}
 {"id":"clarke:Heb.4.15","on":"kjv:Heb.4.15","anchor":"both printings","cites":["kjv:Heb.2.18","kjv:Rom.8.5"]}
@@ -17510,7 +17510,7 @@
 {"id":"clarke:1Pet.3.2","on":"kjv:1Pet.3.2","anchor":"both printings","cites":["kjv:Eph.5.33"]}
 {"id":"clarke:1Pet.3.3","on":"kjv:1Pet.3.3","anchor":"both printings","cites":["kjv:Heb.9.1","kjv:Gen.2.1"]}
 {"id":"clarke:1Pet.3.4","on":"kjv:1Pet.3.4","anchor":"both printings","cites":["kjv:Rom.7.22","kjv:Rom.6.6"]}
-{"id":"clarke:1Pet.3.5","on":"kjv:1Pet.3.5","anchor":"both printings","cites":["kjv:1Cor.11.14-16"]}
+{"id":"clarke:1Pet.3.5","on":"kjv:1Pet.3.5","anchor":"both printings","cites":["kjv:1Cor.11.14-16","kjv:1Tim.2.9"]}
 {"id":"clarke:1Pet.3.6","on":"kjv:1Pet.3.6","anchor":"one printing","cites":[]}
 {"id":"clarke:1Pet.3.7","on":"kjv:1Pet.3.7","anchor":"both printings","cites":["kjv:1Thess.4.4"]}
 {"id":"clarke:1Pet.3.8","on":"kjv:1Pet.3.8","anchor":"both printings","cites":[]}
@@ -17673,7 +17673,7 @@
 {"id":"clarke:1John.3.22","on":"kjv:1John.3.22","anchor":"one printing","cites":[]}
 {"id":"clarke:1John.3.23","on":"kjv:1John.3.23","anchor":"both printings","cites":[]}
 {"id":"clarke:1John.3.24","on":"kjv:1John.3.24","anchor":"both printings","cites":[]}
-{"id":"clarke:1John.4.1","on":"kjv:1John.4.1","anchor":"both printings","cites":["kjv:1Cor.12.1-12"]}
+{"id":"clarke:1John.4.1","on":"kjv:1John.4.1","anchor":"both printings","cites":["kjv:1Cor.12.1-12","kjv:1Tim.4.1"]}
 {"id":"clarke:1John.4.2","on":"kjv:1John.4.2","anchor":"both printings","cites":[]}
 {"id":"clarke:1John.4.3","on":"kjv:1John.4.3","anchor":"both printings","cites":[]}
 {"id":"clarke:1John.4.4","on":"kjv:1John.4.4","anchor":"one printing","cites":[]}

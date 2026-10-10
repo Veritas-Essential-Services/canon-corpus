@@ -71,6 +71,7 @@ import tsk_read as T  # noqa: E402
 import build_topical as BT  # noqa: E402
 import clarke_read as CR  # noqa: E402
 import spurgeon_read as SR  # noqa: E402
+import single_read as SB  # noqa: E402
 
 CORPUS = os.path.join(ROOT, "data", "corpus", "commentary")
 OUT = os.path.join(ROOT, "data", "commentary")
@@ -289,6 +290,87 @@ WORKS = {
             ]),
         ],
     },
+    # single-book commentaries no library has keyed, read from two printings (single_read.py);
+    # (archive.org id, sha256 of its OCR, the book, the book, bare "1." heads)
+    "hodge-romans": {
+        "kind": "scan", "reader": "single", "comma": True,
+        "title": "Commentary on the Epistle to the Romans (revised edition, 1864)",
+        "author": "Charles Hodge (1797-1878)",
+        "edition": "archive.org OCR of two printings (Philadelphia 1864, New York 1896)",
+        "files": [], "scans": [],
+        "testaments": [
+            ("Romans", [
+                ("Philadelphia: W. S. & A. Martien, 1864", [
+                    ("commentaryonepis00hodgiala", "4ecf9cf08e229b513d1c648ce0a5fd35b8008882756b9b075c7211802006d78c", "Rom", "Rom", False)]),
+                ("New York: A. C. Armstrong, 1896", [
+                    ("commentaryonepi00hodg", "8a28908cce8a1b07f803322fad7e50f6ce51bfa3ff694b9bda6ceb0351d27af3", "Rom", "Rom", False)])]),
+        ],
+    },
+    "hodge-corinthians": {
+        "kind": "scan", "reader": "single", "comma": True,
+        "title": "An Exposition of the First and Second Epistles to the Corinthians",
+        "author": "Charles Hodge (1797-1878)",
+        "edition": "archive.org OCR of two printings of each (New York: R. Carter, 1857/1874 and 1860/1872)",
+        "files": [], "scans": [],
+        "testaments": [
+            ("1 Corinthians", [
+                ("New York: R. Carter, 1857", [
+                    ("expositionoffirs00hodgrich", "d7249543a94dcd5bf3f7e589651ed6bfd3dd480f5bbf9d91a4c016414238add5", "1Cor", "1Cor", True)]),
+                ("New York: R. Carter, 1874", [
+                    ("expositionoffi00hodg", "329a11b10a80272a6157f6fd40da18478c608db508fb6ea9a1e274ef8ff9559e", "1Cor", "1Cor", True)])]),
+            ("2 Corinthians", [
+                ("New York: R. Carter, 1860", [
+                    ("expositionofseco00hodg", "9e88372cef83f4b768af284d9e4c77a844f93f30ac3f96d5df87487e6fbf1a4e", "2Cor", "2Cor", True)]),
+                ("New York: R. Carter, 1872", [
+                    ("expositionofsecon00hodg", "a599ffb6f7dfaa96fc1ae1657d8b089db0fd37d80aafaed4d4acfc662a687d70", "2Cor", "2Cor", True)])]),
+        ],
+    },
+    "haldane": {
+        "kind": "scan", "reader": "single", "roman_comma": True,
+        "title": "Exposition of the Epistle to the Romans",
+        "author": "Robert Haldane (1764-1842)",
+        "edition": "archive.org OCR of two printings (New York 1858, London 1874)",
+        "files": [], "scans": [],
+        "testaments": [
+            ("Romans", [
+                ("New York: R. Carter, 1858", [
+                    ("cu31924029293805", "e2a7584497bab2a6a67b9d8b42921edfee2f783156e6fc9347befeb9471f0856", "Rom", "Rom", False)]),
+                ("London: W. Oliphant, 1874", [
+                    ("expositionofthee00halduoft", "0cf5277f97f1856171a25d7deec6dcd16fd6242e695a2d39894e09a375355fc0", "Rom", "Rom", False)])]),
+        ],
+    },
+    "brown-hebrews": {
+        "kind": "scan", "reader": "free",
+        "title": "An Exposition of the Epistle of the Apostle Paul to the Hebrews (ed. David Smith)",
+        "author": "John Brown of Edinburgh (1784-1858)",
+        "edition": "archive.org OCR of two copies of the one printing (Edinburgh: W. Oliphant, 1862)",
+        "files": [], "scans": [],
+        "testaments": [
+            ("Hebrews", [
+                ("Edinburgh: W. Oliphant, 1862, two volumes (archive.org's copy)", [
+                    ("expositionofepis01brow", "666ddc50f6296575fb5751ef06a756bb10197d7679f1cd1f42a47ff56bac09d5", "Heb", "Heb", False),
+                    ("expositionofepis02brow", "f04e42f9ec3f4d7d29765a2ecce79827bc077ab39923975e6618fe51e3c09236", "Heb", "Heb", False)]),
+                ("Edinburgh: W. Oliphant, 1862, two volumes (Google's copy)", [
+                    ("anexpositionepi01browgoog", "2f55786b5373a934ab66af8778b1983acc9daccce56a0958b524698a824b5224", "Heb", "Heb", False),
+                    ("anexpositionepi02browgoog", "6d366a759ea249600c2a0086048cf825dbb78afd38e83c14132b1a4c6669569d", "Heb", "Heb", False)])]),
+        ],
+    },
+    "brown-1peter": {
+        "kind": "scan", "reader": "passages", "unit": "discourse",
+        "title": "Expository Discourses on the First Epistle of the Apostle Peter",
+        "author": "John Brown of Edinburgh (1784-1858)",
+        "edition": "archive.org OCR of two printings (New York: R. Carter, 1855 and 1866)",
+        "files": [], "scans": [],
+        "testaments": [
+            ("1 Peter", [
+                ("New York: R. Carter, 1855, one volume", [
+                    ("expositorydiscou00browuoft", "32d76542c89fe4b98eca9bb65972629a2376e91102c3494d42605bf37a40fdca", "1Pet", "1Pet", False)]),
+                ("New York: R. Carter, 1866, three volumes", [
+                    ("expositorydiscou01brow", "ea4f5e1077ec4e8d322dffedfafbe97082a7cf0688a5101c781b5d9e6b2e8965", "1Pet", "1Pet", False),
+                    ("expositorydiscou02brow", "f66c206503590a7b2fd7feae16d15727745b912c78a635d61e0280e932fc8843", "1Pet", "1Pet", False),
+                    ("expositorydiscou03brow", "de08c550edd8953abdcabb44e6e053e4b672d61ba64752baf9bd81334af5a393", "1Pet", "1Pet", False)])]),
+        ],
+    },
 }
 
 RIGHTS = {
@@ -297,7 +379,9 @@ RIGHTS = {
              " Manton 1651-58 (Nisbet 1871), Calvin in the"
              " Calvin Translation Society's English 1843-55, Clarke 1810-26 (read from archive.org scans of the 1835-46"
              " New York printings), Spurgeon's Treasury of David 1869-85 (read from archive.org scans of the London"
-             " and New York printings); every author and translator died before 1931."
+             " and New York printings), and from two printings each of Hodge on Romans (1864) and Corinthians (1857, 1860),"
+             " Haldane on Romans (1858, 1874) and John Brown on Hebrews (1862) and 1 Peter (1855, 1866);"
+             " every author and translator died before 1931."
              " Poole's transcription is EEBO-TCP's (Phase I), CC0 1.0",
     "committed": "which verses each comment is on and which verses it cites; the prose stays in build/",
     "redistribute_whole": True,
@@ -963,6 +1047,19 @@ def _scan_volume(d, t, b0, b1, bare, kjv, V, counts, label):
             counts[f"{label}: {k}"] += v
         for (c, v), g in got.items():
             out.append(("Ps", c, v, g["last"] if g["last"] > v else None, g["text"], SR.citations(g["text"], c)))
+        return out
+    if d.get("reader") in ("single", "passages", "free"):
+        b = b0                                          # a commentary on one book: b0 is the book
+        if d["reader"] == "single":
+            got, vc = SB.read_volume(t, b, kjv, V.seq, bare)
+        elif d["reader"] == "passages":
+            got, vc = SB.read_passages(t, b, kjv, d["unit"])
+        else:
+            got, vc = SB.read_free(t, b, kjv)
+        for k, v in vc.items():
+            counts[f"{label}: {k}"] += v
+        for c, v, v2, txt in got:
+            out.append((b, c, v, v2, txt, SB.citations(txt, b, c, comma=d.get("comma", False), roman_comma=d.get("roman_comma", False))))
         return out
     hs, vc = CR.read_volume(t, b0, b1, kjv, V.seq, bare)
     for k, v in vc.items():

@@ -2,44 +2,44 @@
  "about": "Whole-Bible commentaries keyed to KJV verse ids. pipeline/build_commentary.py; rules in pipeline/README-commentary.md",
  "rights": {
   "license": "public-domain",
-  "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85, Wesley 1755-66, Hodge 1856, Manton 1651-58 (Nisbet 1871), Calvin in the Calvin Translation Society's English 1843-55, Clarke 1810-26 (read from archive.org scans of the 1835-46 New York printings), Spurgeon's Treasury of David 1869-85 (read from archive.org scans of the London and New York printings); every author and translator died before 1931. Poole's transcription is EEBO-TCP's (Phase I), CC0 1.0",
+  "basis": "Henry 1706-21, Jamieson-Fausset-Brown 1871, Barnes 1832-53, Poole 1683-85, Wesley 1755-66, Hodge 1856, Manton 1651-58 (Nisbet 1871), Calvin in the Calvin Translation Society's English 1843-55, Clarke 1810-26 (read from archive.org scans of the 1835-46 New York printings), Spurgeon's Treasury of David 1869-85 (read from archive.org scans of the London and New York printings), and from two printings each of Hodge on Romans (1864) and Corinthians (1857, 1860), Haldane on Romans (1858, 1874) and John Brown on Hebrews (1862) and 1 Peter (1855, 1866); every author and translator died before 1931. Poole's transcription is EEBO-TCP's (Phase I), CC0 1.0",
   "committed": "which verses each comment is on and which verses it cites; the prose stays in build/",
   "redistribute_whole": true
  },
  "layers": {
   "henry": {
    "file": "data/commentary/henry.jsonl",
-   "sha256": "f7c876c4d950b02078dffa713937ecc36590495ed69df781e34403bc08343c41",
+   "sha256": "ae3f7f9d4c72561e82cc7fca9ee26b64635a2f99eebf5361f94d1a49031cab58",
    "rows": 5417,
    "counts": {
     "anchor agrees": 4232,
     "anchor differs": 19,
     "anchor names no KJV verse": 6,
     "anchor unread": 1166,
-    "citations": 63918,
+    "citations": 64108,
     "cite apocrypha": 45,
-    "cite both": 66583,
-    "cite ccel-only": 2028,
+    "cite both": 66806,
+    "cite ccel-only": 1805,
     "cite names no KJV verse": 105,
-    "cite reader-only": 8358,
+    "cite reader-only": 8122,
     "comments": 5417,
     "verses_covered": 31065
    },
    "explicit_citations_by_reading": {
     "both": {
-     "refs": 33686,
-     "printed": 23915,
-     "share_printed": 0.7099
+     "refs": 33909,
+     "printed": 24090,
+     "share_printed": 0.7104
     },
     "ccel-only": {
-     "refs": 1644,
-     "printed": 59,
-     "share_printed": 0.0359
+     "refs": 1421,
+     "printed": 23,
+     "share_printed": 0.0162
     },
     "reader-only": {
-     "refs": 4140,
-     "printed": 2223,
-     "share_printed": 0.537
+     "refs": 3906,
+     "printed": 2231,
+     "share_printed": 0.5712
     }
    },
    "print_check": [
@@ -53,14 +53,14 @@
       "expositionofoldn05henr",
       "expositionofoldn06henr"
      ],
-     "refs_read": 29148,
-     "aligned": 26197
+     "refs_read": 29147,
+     "aligned": 26344
     }
    ],
    "treasury_check": {
     "cites": {
-     "refs": 60481,
-     "in_treasury_at_that_verse": 0.2922,
+     "refs": 60660,
+     "in_treasury_at_that_verse": 0.2919,
      "in_treasury_at_an_unrelated_verse": 0.0162
     }
    },
@@ -122,14 +122,14 @@
   },
   "jfb": {
    "file": "data/commentary/jfb.jsonl",
-   "sha256": "89bd29f9ccea67d2ada1d755b1f6feef274dcf42a8fe8a34a3340cfdc689740a",
+   "sha256": "21197a14984d084a602f38b58aa6fbf12bfecabcf2f8563e58320ca8824b5c97",
    "rows": 19776,
    "counts": {
     "anchor agrees": 16604,
     "anchor differs": 4,
     "anchor unread": 3168,
-    "citations": 59019,
-    "cite apocrypha": 104,
+    "citations": 59018,
+    "cite apocrypha": 105,
     "cite both": 60899,
     "cite ccel-only": 61,
     "cite names no KJV verse": 8,
@@ -140,13 +140,13 @@
    "explicit_citations_by_reading": {
     "both": {
      "refs": 50207,
-     "printed": 33433,
-     "share_printed": 0.6659
+     "printed": 34362,
+     "share_printed": 0.6844
     },
     "ccel-only": {
      "refs": 58,
-     "printed": 3,
-     "share_printed": 0.0517
+     "printed": 2,
+     "share_printed": 0.0345
     },
     "reader-only": {
      "refs": 174,
@@ -160,21 +160,21 @@
      "scans": [
       "commentarycritic00jami"
      ],
-     "refs_read": 37176,
-     "aligned": 30244
+     "refs_read": 37275,
+     "aligned": 31231
     },
     {
      "printing": "1879 one-volume printing",
      "scans": [
       "commentarycritic00jami_0"
      ],
-     "refs_read": 50092,
-     "aligned": 26000
+     "refs_read": 50107,
+     "aligned": 26774
     }
    ],
    "treasury_check": {
     "cites": {
-     "refs": 49320,
+     "refs": 49319,
      "in_treasury_at_that_verse": 0.2809,
      "in_treasury_at_an_unrelated_verse": 0.0019
     }
@@ -255,7 +255,7 @@
   },
   "barnes": {
    "file": "data/commentary/barnes.jsonl",
-   "sha256": "5d22cc89ff4b95dae7e9141ccf47ed253787b35ac7eaeaa7751131f3be251c1a",
+   "sha256": "bcbaeaa2af01846e25c71b7ebf41b1e5a45e81bab5dd2ef7be74b50226bbb6ee",
    "rows": 7947,
    "counts": {
     "anchor agrees": 7569,
@@ -272,8 +272,8 @@
    "explicit_citations_by_reading": {
     "both": {
      "refs": 11890,
-     "printed": 5720,
-     "share_printed": 0.4811
+     "printed": 5748,
+     "share_printed": 0.4834
     },
     "ccel-only": {
      "refs": 78,
@@ -293,8 +293,8 @@
       "notesexplanatory01inbarn",
       "notesexplanatory02barn_0"
      ],
-     "refs_read": 8371,
-     "aligned": 5754
+     "refs_read": 8380,
+     "aligned": 5782
     }
    ],
    "treasury_check": {
@@ -334,7 +334,7 @@
     "cite both": 3179,
     "cite ccel-only": 108,
     "cite names no KJV verse": 3,
-    "cite reader-only": 5593,
+    "cite reader-only": 5592,
     "comments": 19073,
     "verses_covered": 28160
    },
@@ -350,7 +350,7 @@
      "share_printed": 0.0
     },
     "reader-only": {
-     "refs": 280,
+     "refs": 279,
      "printed": 0,
      "share_printed": 0.0
     }
@@ -846,33 +846,33 @@
   },
   "manton": {
    "file": "data/commentary/manton.jsonl",
-   "sha256": "4bea4dee4644a4ac98cd3fa98b5a56514ff81e94255452fc720cfdc7b2fdbc48",
+   "sha256": "ff5db1c92d10ad5ab10287200af38b56df8b6997ca1d2426f312992257912b72",
    "rows": 122,
    "counts": {
     "anchor agrees": 117,
     "anchor unread": 5,
-    "citations": 5298,
+    "citations": 5344,
     "cite apocrypha": 2,
-    "cite both": 5679,
-    "cite ccel-only": 528,
-    "cite names no KJV verse": 17,
-    "cite reader-only": 313,
+    "cite both": 5736,
+    "cite ccel-only": 471,
+    "cite names no KJV verse": 18,
+    "cite reader-only": 249,
     "comments": 122,
     "verses_covered": 132
    },
    "explicit_citations_by_reading": {
     "both": {
-     "refs": 5629,
+     "refs": 5686,
      "printed": 0,
      "share_printed": 0.0
     },
     "ccel-only": {
-     "refs": 512,
+     "refs": 455,
      "printed": 0,
      "share_printed": 0.0
     },
     "reader-only": {
-     "refs": 246,
+     "refs": 182,
      "printed": 0,
      "share_printed": 0.0
     }
@@ -880,8 +880,8 @@
    "print_check": [],
    "treasury_check": {
     "cites": {
-     "refs": 3085,
-     "in_treasury_at_that_verse": 0.0616,
+     "refs": 3109,
+     "in_treasury_at_that_verse": 0.0618,
      "in_treasury_at_an_unrelated_verse": 0.0006
     }
    },
@@ -987,7 +987,7 @@
   },
   "clarke": {
    "file": "data/commentary/clarke.jsonl",
-   "sha256": "4ff3af6f14260217342f46d0149263916755eab1de9b3c39e47428567100204e",
+   "sha256": "909e3fd4a82d43f3ae094faef15fc6f9ad16060462432688ae5a529eaac19db9",
    "rows": 18129,
    "counts": {
     "New Testament, New York: G. Lane & C. B. Tippett, 1846, two volumes: chapters": 260,
@@ -1010,26 +1010,26 @@
     "Old Testament, New York: G. Lane & P. P. Sandford, 1843, four volumes: heads": 11534,
     "Old Testament, New York: G. Lane & P. P. Sandford, 1843, four volumes: heads not placed": 839,
     "Old Testament, New York: G. Lane & P. P. Sandford, 1843, four volumes: heads placed": 10695,
-    "citations": 9100,
-    "cite apocrypha": 133,
-    "cite names no KJV verse": 1698,
-    "cite of the note's own verse, not kept": 471,
-    "cites one printing reads, not committed": 15130,
+    "citations": 9163,
+    "cite apocrypha": 132,
+    "cite names no KJV verse": 1695,
+    "cite of the note's own verse, not kept": 472,
+    "cites one printing reads, not committed": 14992,
     "comments": 18129,
     "comments placed in both printings": 13065,
     "comments placed in one printing": 5064,
     "paragraphs dropped: bible": 63405,
     "paragraphs dropped: chronology": 11496,
-    "paragraphs dropped: margin": 34276,
+    "paragraphs dropped: margin": 34280,
     "verses_covered": 18129
    },
    "explicit_citations_by_reading": null,
    "print_check": [],
    "treasury_check": {
     "cites": {
-     "refs": 7676,
-     "in_treasury_at_that_verse": 0.2302,
-     "in_treasury_at_an_unrelated_verse": 0.0025
+     "refs": 7726,
+     "in_treasury_at_that_verse": 0.2301,
+     "in_treasury_at_an_unrelated_verse": 0.0023
     }
    },
    "source": {
@@ -1248,6 +1248,327 @@
       "scan": "treasuryofdavidc0007spur",
       "url": "https://archive.org/download/treasuryofdavidc0007spur/treasuryofdavidc0007spur_djvu.txt",
       "sha256": "c179791fd17e58fc5e4ad5a4a06509b50bf49a94da9db4af0652c447b017cc88"
+     }
+    ]
+   }
+  },
+  "hodge-romans": {
+   "file": "data/commentary/hodge-romans.jsonl",
+   "sha256": "4efd477a47005374fcaa9a9054df3d67246c1d1745aca2e20d1c50eb359d7809",
+   "rows": 336,
+   "counts": {
+    "Romans, New York: A. C. Armstrong, 1896: chapters": 16,
+    "Romans, New York: A. C. Armstrong, 1896: chapters_found": 16,
+    "Romans, New York: A. C. Armstrong, 1896: heads not placed": 78,
+    "Romans, New York: A. C. Armstrong, 1896: heads placed": 318,
+    "Romans, Philadelphia: W. S. & A. Martien, 1864: chapters": 16,
+    "Romans, Philadelphia: W. S. & A. Martien, 1864: chapters_found": 16,
+    "Romans, Philadelphia: W. S. & A. Martien, 1864: heads not placed": 62,
+    "Romans, Philadelphia: W. S. & A. Martien, 1864: heads placed": 316,
+    "citations": 1743,
+    "cite apocrypha": 2,
+    "cite names no KJV verse": 70,
+    "cite of the note's own verse, not kept": 480,
+    "cites one printing reads, not committed": 737,
+    "comments": 336,
+    "comments placed in both printings": 298,
+    "comments placed in one printing": 38,
+    "verses_covered": 336
+   },
+   "explicit_citations_by_reading": null,
+   "print_check": [],
+   "treasury_check": {
+    "cites": {
+     "refs": 1083,
+     "in_treasury_at_that_verse": 0.121,
+     "in_treasury_at_an_unrelated_verse": 0.0009
+    }
+   },
+   "source": {
+    "title": "Commentary on the Epistle to the Romans (revised edition, 1864)",
+    "author": "Charles Hodge (1797-1878)",
+    "edition": "archive.org OCR of two printings (Philadelphia 1864, New York 1896)",
+    "files": [
+     {
+      "testament": "Romans",
+      "printing": "Philadelphia: W. S. & A. Martien, 1864",
+      "scan": "commentaryonepis00hodgiala",
+      "url": "https://archive.org/download/commentaryonepis00hodgiala/commentaryonepis00hodgiala_djvu.txt",
+      "sha256": "4ecf9cf08e229b513d1c648ce0a5fd35b8008882756b9b075c7211802006d78c"
+     },
+     {
+      "testament": "Romans",
+      "printing": "New York: A. C. Armstrong, 1896",
+      "scan": "commentaryonepi00hodg",
+      "url": "https://archive.org/download/commentaryonepi00hodg/commentaryonepi00hodg_djvu.txt",
+      "sha256": "8a28908cce8a1b07f803322fad7e50f6ce51bfa3ff694b9bda6ceb0351d27af3"
+     }
+    ]
+   }
+  },
+  "hodge-corinthians": {
+   "file": "data/commentary/hodge-corinthians.jsonl",
+   "sha256": "432ba308fd4195dde5dee86cd309e8b26c7af0c63a670d9d954300a088cb0344",
+   "rows": 470,
+   "counts": {
+    "1 Corinthians, New York: R. Carter, 1857: chapters": 16,
+    "1 Corinthians, New York: R. Carter, 1857: chapters_found": 16,
+    "1 Corinthians, New York: R. Carter, 1857: heads not placed": 225,
+    "1 Corinthians, New York: R. Carter, 1857: heads placed": 240,
+    "1 Corinthians, New York: R. Carter, 1874: chapters": 16,
+    "1 Corinthians, New York: R. Carter, 1874: chapters_found": 16,
+    "1 Corinthians, New York: R. Carter, 1874: heads not placed": 216,
+    "1 Corinthians, New York: R. Carter, 1874: heads placed": 239,
+    "2 Corinthians, New York: R. Carter, 1860: chapters": 13,
+    "2 Corinthians, New York: R. Carter, 1860: chapters_found": 13,
+    "2 Corinthians, New York: R. Carter, 1860: heads not placed": 66,
+    "2 Corinthians, New York: R. Carter, 1860: heads placed": 195,
+    "2 Corinthians, New York: R. Carter, 1872: chapters": 13,
+    "2 Corinthians, New York: R. Carter, 1872: chapters_found": 13,
+    "2 Corinthians, New York: R. Carter, 1872: heads not placed": 71,
+    "2 Corinthians, New York: R. Carter, 1872: heads placed": 190,
+    "citations": 1198,
+    "cite apocrypha": 6,
+    "cite names no KJV verse": 39,
+    "cite of the note's own verse, not kept": 26,
+    "cites one printing reads, not committed": 559,
+    "comments": 470,
+    "comments placed in both printings": 390,
+    "comments placed in one printing": 80,
+    "verses_covered": 470
+   },
+   "explicit_citations_by_reading": null,
+   "print_check": [],
+   "treasury_check": {
+    "cites": {
+     "refs": 983,
+     "in_treasury_at_that_verse": 0.2319,
+     "in_treasury_at_an_unrelated_verse": 0.0071
+    }
+   },
+   "source": {
+    "title": "An Exposition of the First and Second Epistles to the Corinthians",
+    "author": "Charles Hodge (1797-1878)",
+    "edition": "archive.org OCR of two printings of each (New York: R. Carter, 1857/1874 and 1860/1872)",
+    "files": [
+     {
+      "testament": "1 Corinthians",
+      "printing": "New York: R. Carter, 1857",
+      "scan": "expositionoffirs00hodgrich",
+      "url": "https://archive.org/download/expositionoffirs00hodgrich/expositionoffirs00hodgrich_djvu.txt",
+      "sha256": "d7249543a94dcd5bf3f7e589651ed6bfd3dd480f5bbf9d91a4c016414238add5"
+     },
+     {
+      "testament": "1 Corinthians",
+      "printing": "New York: R. Carter, 1874",
+      "scan": "expositionoffi00hodg",
+      "url": "https://archive.org/download/expositionoffi00hodg/expositionoffi00hodg_djvu.txt",
+      "sha256": "329a11b10a80272a6157f6fd40da18478c608db508fb6ea9a1e274ef8ff9559e"
+     },
+     {
+      "testament": "2 Corinthians",
+      "printing": "New York: R. Carter, 1860",
+      "scan": "expositionofseco00hodg",
+      "url": "https://archive.org/download/expositionofseco00hodg/expositionofseco00hodg_djvu.txt",
+      "sha256": "9e88372cef83f4b768af284d9e4c77a844f93f30ac3f96d5df87487e6fbf1a4e"
+     },
+     {
+      "testament": "2 Corinthians",
+      "printing": "New York: R. Carter, 1872",
+      "scan": "expositionofsecon00hodg",
+      "url": "https://archive.org/download/expositionofsecon00hodg/expositionofsecon00hodg_djvu.txt",
+      "sha256": "a599ffb6f7dfaa96fc1ae1657d8b089db0fd37d80aafaed4d4acfc662a687d70"
+     }
+    ]
+   }
+  },
+  "haldane": {
+   "file": "data/commentary/haldane.jsonl",
+   "sha256": "db659241730b1876e6acbf1b4cd9b9fb67bc835b5f48e77a190a82c637bc430b",
+   "rows": 407,
+   "counts": {
+    "Romans, London: W. Oliphant, 1874: chapters": 16,
+    "Romans, London: W. Oliphant, 1874: chapters_found": 16,
+    "Romans, London: W. Oliphant, 1874: heads not placed": 2,
+    "Romans, London: W. Oliphant, 1874: heads placed": 345,
+    "Romans, New York: R. Carter, 1858: chapters": 16,
+    "Romans, New York: R. Carter, 1858: chapters_found": 16,
+    "Romans, New York: R. Carter, 1858: heads not placed": 37,
+    "Romans, New York: R. Carter, 1858: heads placed": 299,
+    "citations": 470,
+    "cite names no KJV verse": 9,
+    "cite of the note's own verse, not kept": 358,
+    "cites one printing reads, not committed": 1128,
+    "comments": 407,
+    "comments placed in both printings": 237,
+    "comments placed in one printing": 170,
+    "verses_covered": 407
+   },
+   "explicit_citations_by_reading": null,
+   "print_check": [],
+   "treasury_check": {
+    "cites": {
+     "refs": 337,
+     "in_treasury_at_that_verse": 0.1157,
+     "in_treasury_at_an_unrelated_verse": 0.0
+    }
+   },
+   "source": {
+    "title": "Exposition of the Epistle to the Romans",
+    "author": "Robert Haldane (1764-1842)",
+    "edition": "archive.org OCR of two printings (New York 1858, London 1874)",
+    "files": [
+     {
+      "testament": "Romans",
+      "printing": "New York: R. Carter, 1858",
+      "scan": "cu31924029293805",
+      "url": "https://archive.org/download/cu31924029293805/cu31924029293805_djvu.txt",
+      "sha256": "e2a7584497bab2a6a67b9d8b42921edfee2f783156e6fc9347befeb9471f0856"
+     },
+     {
+      "testament": "Romans",
+      "printing": "London: W. Oliphant, 1874",
+      "scan": "expositionofthee00halduoft",
+      "url": "https://archive.org/download/expositionofthee00halduoft/expositionofthee00halduoft_djvu.txt",
+      "sha256": "0cf5277f97f1856171a25d7deec6dcd16fd6242e695a2d39894e09a375355fc0"
+     }
+    ]
+   }
+  },
+  "brown-hebrews": {
+   "file": "data/commentary/brown-hebrews.jsonl",
+   "sha256": "2d12cc5791a5658f42d3af65b96105fd3bf61a53a16969b34bf011dce7d3c0a6",
+   "rows": 37,
+   "counts": {
+    "Hebrews, Edinburgh: W. Oliphant, 1862, two volumes (Google's copy): sections placed by their printed passage": 4,
+    "Hebrews, Edinburgh: W. Oliphant, 1862, two volumes (Google's copy): sections with no passage read": 6,
+    "Hebrews, Edinburgh: W. Oliphant, 1862, two volumes (Google's copy): verse heads not placed": 1,
+    "Hebrews, Edinburgh: W. Oliphant, 1862, two volumes (Google's copy): verse heads placed": 26,
+    "Hebrews, Edinburgh: W. Oliphant, 1862, two volumes (Google's copy): verse heads with no lemma": 3,
+    "Hebrews, Edinburgh: W. Oliphant, 1862, two volumes (archive.org's copy): sections placed by their printed passage": 4,
+    "Hebrews, Edinburgh: W. Oliphant, 1862, two volumes (archive.org's copy): sections with no passage read": 7,
+    "Hebrews, Edinburgh: W. Oliphant, 1862, two volumes (archive.org's copy): verse heads placed": 31,
+    "Hebrews, Edinburgh: W. Oliphant, 1862, two volumes (archive.org's copy): verse heads with no lemma": 3,
+    "citations": 451,
+    "cite apocrypha": 16,
+    "cite names no KJV verse": 50,
+    "cite of the note's own verse, not kept": 72,
+    "cites one printing reads, not committed": 940,
+    "comments": 37,
+    "comments placed in both printings": 26,
+    "comments placed in one printing": 11,
+    "verses_covered": 37
+   },
+   "explicit_citations_by_reading": null,
+   "print_check": [],
+   "treasury_check": {
+    "cites": {
+     "refs": 371,
+     "in_treasury_at_that_verse": 0.0485,
+     "in_treasury_at_an_unrelated_verse": 0.0054
+    }
+   },
+   "source": {
+    "title": "An Exposition of the Epistle of the Apostle Paul to the Hebrews (ed. David Smith)",
+    "author": "John Brown of Edinburgh (1784-1858)",
+    "edition": "archive.org OCR of two copies of the one printing (Edinburgh: W. Oliphant, 1862)",
+    "files": [
+     {
+      "testament": "Hebrews",
+      "printing": "Edinburgh: W. Oliphant, 1862, two volumes (archive.org's copy)",
+      "scan": "expositionofepis01brow",
+      "url": "https://archive.org/download/expositionofepis01brow/expositionofepis01brow_djvu.txt",
+      "sha256": "666ddc50f6296575fb5751ef06a756bb10197d7679f1cd1f42a47ff56bac09d5"
+     },
+     {
+      "testament": "Hebrews",
+      "printing": "Edinburgh: W. Oliphant, 1862, two volumes (archive.org's copy)",
+      "scan": "expositionofepis02brow",
+      "url": "https://archive.org/download/expositionofepis02brow/expositionofepis02brow_djvu.txt",
+      "sha256": "f04e42f9ec3f4d7d29765a2ecce79827bc077ab39923975e6618fe51e3c09236"
+     },
+     {
+      "testament": "Hebrews",
+      "printing": "Edinburgh: W. Oliphant, 1862, two volumes (Google's copy)",
+      "scan": "anexpositionepi01browgoog",
+      "url": "https://archive.org/download/anexpositionepi01browgoog/anexpositionepi01browgoog_djvu.txt",
+      "sha256": "2f55786b5373a934ab66af8778b1983acc9daccce56a0958b524698a824b5224"
+     },
+     {
+      "testament": "Hebrews",
+      "printing": "Edinburgh: W. Oliphant, 1862, two volumes (Google's copy)",
+      "scan": "anexpositionepi02browgoog",
+      "url": "https://archive.org/download/anexpositionepi02browgoog/anexpositionepi02browgoog_djvu.txt",
+      "sha256": "6d366a759ea249600c2a0086048cf825dbb78afd38e83c14132b1a4c6669569d"
+     }
+    ]
+   }
+  },
+  "brown-1peter": {
+   "file": "data/commentary/brown-1peter.jsonl",
+   "sha256": "0eb38c058958a77b34e83e25bdf6ac1f491909ca0135f2419ceaf270463d6a80",
+   "rows": 26,
+   "counts": {
+    "1 Peter, New York: R. Carter, 1855, one volume: units": 51,
+    "1 Peter, New York: R. Carter, 1855, one volume: units placed by their printed head": 26,
+    "1 Peter, New York: R. Carter, 1855, one volume: units too short: the contents": 24,
+    "1 Peter, New York: R. Carter, 1855, one volume: units with no passage read": 1,
+    "1 Peter, New York: R. Carter, 1866, three volumes: units": 42,
+    "1 Peter, New York: R. Carter, 1866, three volumes: units placed by their printed head": 1,
+    "1 Peter, New York: R. Carter, 1866, three volumes: units placed by their printed text": 21,
+    "1 Peter, New York: R. Carter, 1866, three volumes: units too short: the contents": 18,
+    "1 Peter, New York: R. Carter, 1866, three volumes: units with no passage read": 2,
+    "citations": 1060,
+    "cite apocrypha": 3,
+    "cite names no KJV verse": 172,
+    "cite of the note's own verse, not kept": 10,
+    "cites one printing reads, not committed": 1617,
+    "comments": 26,
+    "comments placed in both printings": 20,
+    "comments placed in one printing": 6,
+    "verses_covered": 26
+   },
+   "explicit_citations_by_reading": null,
+   "print_check": [],
+   "treasury_check": {
+    "cites": {
+     "refs": 919,
+     "in_treasury_at_that_verse": 0.0435,
+     "in_treasury_at_an_unrelated_verse": 0.0011
+    }
+   },
+   "source": {
+    "title": "Expository Discourses on the First Epistle of the Apostle Peter",
+    "author": "John Brown of Edinburgh (1784-1858)",
+    "edition": "archive.org OCR of two printings (New York: R. Carter, 1855 and 1866)",
+    "files": [
+     {
+      "testament": "1 Peter",
+      "printing": "New York: R. Carter, 1855, one volume",
+      "scan": "expositorydiscou00browuoft",
+      "url": "https://archive.org/download/expositorydiscou00browuoft/expositorydiscou00browuoft_djvu.txt",
+      "sha256": "32d76542c89fe4b98eca9bb65972629a2376e91102c3494d42605bf37a40fdca"
+     },
+     {
+      "testament": "1 Peter",
+      "printing": "New York: R. Carter, 1866, three volumes",
+      "scan": "expositorydiscou01brow",
+      "url": "https://archive.org/download/expositorydiscou01brow/expositorydiscou01brow_djvu.txt",
+      "sha256": "ea4f5e1077ec4e8d322dffedfafbe97082a7cf0688a5101c781b5d9e6b2e8965"
+     },
+     {
+      "testament": "1 Peter",
+      "printing": "New York: R. Carter, 1866, three volumes",
+      "scan": "expositorydiscou02brow",
+      "url": "https://archive.org/download/expositorydiscou02brow/expositorydiscou02brow_djvu.txt",
+      "sha256": "f66c206503590a7b2fd7feae16d15727745b912c78a635d61e0280e932fc8843"
+     },
+     {
+      "testament": "1 Peter",
+      "printing": "New York: R. Carter, 1866, three volumes",
+      "scan": "expositorydiscou03brow",
+      "url": "https://archive.org/download/expositorydiscou03brow/expositorydiscou03brow_djvu.txt",
+      "sha256": "de08c550edd8953abdcabb44e6e053e4b672d61ba64752baf9bd81334af5a393"
      }
     ]
    }

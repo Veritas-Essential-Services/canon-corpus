@@ -8,10 +8,10 @@ minted: the ids are read from `data/uids/wordhoard.uids.json` and never written.
 
 | book | entries | references committed | also found in print |
 |---|---|---|---|
-| Nave's Topical Bible (1896/97) | 5,322 (22,259 subtopics) | 77,877 | 82.8% |
-| Torrey's New Topical Text Book (1897) | 623 (21,544 subtopics) | 38,543 | 94.3% |
-| Easton's Bible Dictionary (1893/1897) | 3,964 | 23,364 | 88.8% |
-| Smith's Bible Dictionary (Peloubet, 1884) | 4,561 | 10,416 | 82.5% |
+| Nave's Topical Bible (1896/97) | 5,322 (22,259 subtopics) | 77,848 | 83.5% |
+| Torrey's New Topical Text Book (1897) | 623 (21,544 subtopics) | 38,543 | 94.4% |
+| Easton's Bible Dictionary (1893/1897) | 3,964 | 23,414 | 93.5% |
+| Smith's Bible Dictionary (Peloubet, 1884) | 4,561 | 10,415 | 87.0% |
 
 ```
 python3 pipeline/build_topical.py --fetch   # CCEL's four texts + five scans' OCR, sha256-pinned (~60 MB into data/corpus/topical/)
@@ -101,6 +101,10 @@ mark this where it can be seen:
    - ordinals (`1Jo`, `II Sam.`, `3 Macc.`), and Susanna and Bel;
    - a psalm's title (`Ps. 18, title`, `Ps. 51:title`) is no reference:
      the KJV does not number titles;
+   - a number with a book after it is that book's ordinal, not a chapter of
+     the book before: "Eph. 2:15; 2 Tim. 1:10", and in the old Roman form
+     "1 Chr. 25:1, 2 Chr. 20:14" (read wrongly as 1 Chronicles 2 before
+     2026-10-10; fixing it raised every book's share found in print);
    - `Is`, `Am`, `So`, `Ex` and `Re` before a bare number and then a word
      (`Is 40 days`) are prose, not books. Nave's `Ex 32;` still reads.
 3. **Print.** The archive.org OCR of open scans of the printed books is read
@@ -122,10 +126,10 @@ What the vote catches (the manifest's `by_reading`):
 
 | book | both | found in print | CCEL only | found in print | reader only | found in print |
 |---|---|---|---|---|---|---|
-| Nave | 77,643 | 82.7% | 291 | 13.4% | 371 | 83.6% |
+| Nave | 77,643 | 83.4% | 291 | 2.4% | 371 | 84.4% |
 | Torrey | 38,436 | 94.3% | 136 | 0% | 142 | 77.5% |
-| Easton | 23,491 | 88.5% | 152 | 5.3% | 695 | 82.5% |
-| Smith | 10,865 | 81.3% | 151 | 47.7% | 112 | 67.9% |
+| Easton | 23,491 | 93.3% | 152 | 2.6% | 695 | 90.7% |
+| Smith | 10,865 | 85.7% | 151 | 46.4% | 112 | 68.8% |
 
 References that only CCEL tagged are mostly tagger errors, and print says so.
 The commonest is `Jude 1:9` tagged as `Jude 1` (verse 1), with the `:9` left

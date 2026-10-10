@@ -172,6 +172,34 @@ check("Spurgeon: one stray numbered line does not shut out the verse lines after
                                          "2 But his delight is in the law of the LORD; and in his law\n"
                                          "3 And he shall be like a tree planted by the rivers of water\n", "Ps", 1, _sk)] == [2, 3])
 
+# ---- the single-book commentaries read from scans (single_read.py), on fixtures
+import single_read as SB
+import topical_read as TR
+check("reader: an ordinal before a Roman chapter is the next book's ('Eph. ii. 15; 2 Tim. i. 10'), and New York's 'ii., 15'",
+      [(r["book"], r["c"], r["v"]) for r in TR.refs("Eph. ii. 15; 2 Tim. i. 10.", here=("Rom", 3), old=True)]
+      == [("Eph", 2, 15), ("2Tim", 1, 10)]
+      and [(r["book"], r["c"], r["v"]) for r in TR.refs("Eph.  ii.,  15;  2  Tim.  i.,  10.", old=True, roman_comma=True)]
+      == [("Eph", 2, 15), ("2Tim", 1, 10)])
+_rk = CR.Kjv({"kjv:Rom.1.1": "Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,",
+              "kjv:Rom.1.2": "(Which he had promised afore by his prophets in the holy scriptures,)",
+              "kjv:Rom.2.1": "Therefore thou art inexcusable, O man, whosoever thou art that judgest:",
+              "kjv:Rom.2.2": "But we are sure that the judgment of God is according to truth against them which commit such things."},
+             {"Rom": {1: 2, 2: 2}})
+_rt = ("CHAPTER I.\nVERSE 1. Paul, a servant of Jesus Christ. He names himself.\n2. God is the ultimate end of all.\n"
+       "CHAPTER I. PART II.\nV. 2.--Which he had promised afore by his prophets. See Gen. iii. 15.\n"
+       "CHAPTER II.\n1. Therefore thou art inexcusable, O man. The Jew is meant.\n")
+_rv, _rc = SB.read_volume(_rt, "Rom", _rk, [("Rom", 1, 1), ("Rom", 1, 2), ("Rom", 2, 1), ("Rom", 2, 2)], bare=True)
+check("single: heads placed by their lemmas; a numbered point is no head; 'CHAPTER I. PART II.' goes on with chapter I",
+      [(c, v) for c, v, _, _ in _rv] == [(1, 1), (1, 2), (2, 1)] and _rc["heads not placed"] == 1)
+_pk = CR.Kjv({"kjv:1Pet.1.1": "Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia",
+              "kjv:1Pet.1.2": "Elect according to the foreknowledge of God the Father, through sanctification of the Spirit",
+              "kjv:1Pet.2.1": "Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,"},
+             {"1Pet": {1: 2, 2: 1}})
+check("passages: a printed passage head is read and checked by the words after it",
+      SB.printed_head("TITLE\n1  PET.  ii.  1. \u2014 Wherefore,  laying  aside  all  malice,  and  all  guile", "1Pet", _pk)[:2]
+      == ((2, 1), (2, 1))
+      and SB.printed_head("1  PET.  i.  2. \u2014 Wherefore,  laying  aside  all  malice,  and  all  guile", "1Pet", _pk) is None)
+
 # ---- the committed files
 D = os.path.join(ROOT, "data", "commentary")
 man = json.load(open(os.path.join(D, "manifest.json"), encoding="utf-8"))
@@ -197,8 +225,10 @@ for w in C.WORKS:
           <= {"agrees", "differs", "unread", "by order", "both printings", "one printing"})
     check(f"{w}: no prose committed", all(set(r) <= {"id", "on", "anchor", "cites", "parallels", "in_print"} for r in rows))
     tc = L["treasury_check"]["cites"]
-    check(f"{w}: the Treasury lists its citations at that verse far more than at an unrelated one",
-          tc["in_treasury_at_that_verse"] > 10 * tc["in_treasury_at_an_unrelated_verse"])
+    # John Brown's comments are whole sections and discourses, so the Treasury at their first verse is a weaker check
+    k = 5 if w.startswith("brown-") else 10
+    check(f"{w}: the Treasury lists its citations at that verse far more ({k}x) than at an unrelated one",
+          tc["in_treasury_at_that_verse"] > k * tc["in_treasury_at_an_unrelated_verse"])
 srcs = {w: L["source"]["files"] for w, L in man["layers"].items()}
 check("Barnes: CCEL's print source (Baker, 1949) is flagged for a person to look at",
       srcs["barnes"][0]["ccel_print_source_check"] is True)
@@ -220,6 +250,13 @@ check("Spurgeon: two printings, every scan pinned; every Psalm has a comment, an
       and {int(r["on"].split(".")[1]) for r in _sp} == set(range(1, 151))
       and sum(r["anchor"] == "both printings" for r in _sp) > 1800
       and all(not r["cites"] for r in _sp if r["anchor"] == "one printing"))
+check("Hodge, Haldane, John Brown: two printings (or two copies) each, every scan pinned, a citation only where both read it",
+      all(len({f["printing"] for f in srcs[w] if f["testament"] == t}) == 2
+          for w in ("hodge-romans", "hodge-corinthians", "haldane", "brown-hebrews", "brown-1peter")
+          for t in {f["testament"] for f in srcs[w]})
+      and all(len(f["sha256"]) == 64 for w in ("hodge-romans", "haldane", "brown-1peter") for f in srcs[w])
+      and all(not r["cites"] for w in ("hodge-romans", "haldane", "brown-1peter")
+              for r in map(json.loads, open(os.path.join(D, w + ".jsonl"), encoding="utf-8")) if r["anchor"] == "one printing"))
 check("Trapp: five TCP volumes, first editions 1647-60, each public domain", len(srcs["trapp"]) == 5
       and all(f["tcp_licence"] in ("CC0 1.0", "public domain (TCP availability statement)") for f in srcs["trapp"]))
 check("Calvin: the CTS footnotes are dropped, the 45 CCEL volumes pinned", len(srcs["calvin"]) == 45

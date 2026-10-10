@@ -153,7 +153,7 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/build_xrefs.py --check            # tsk.jsonl byte-identical
     python3 pipeline/xrefs.py kjv:John.1.1             # a verse's Treasury refs and its citers
     python3 tests/xrefs_test.py                        # the Treasury reader rule by rule; the committed layer
-    python3 pipeline/build_commentary.py --fetch       # CCEL Henry/JFB/Barnes/Wesley/Calvin, Poole (EEBO-TCP), Clarke + Spurgeon + period scans, pinned
+    python3 pipeline/build_commentary.py --fetch       # CCEL Henry/JFB/Barnes/Wesley/Calvin, Poole (EEBO-TCP), scans (Clarke, Spurgeon, Hodge, Haldane, Brown), pinned
     python3 pipeline/build_commentary.py               # commentary layer -> data/commentary/ + build/commentary/
     python3 pipeline/build_commentary.py --check       # byte-identical
     python3 pipeline/build_commentary.py --collate     # CCEL's wording vs 1828/1840/1873 printings -> collation.json
@@ -494,6 +494,11 @@ The living truth for project state is the Obsidian vault:
   is read the same way by pipeline/spurgeon_read.py, from the London
   (Marshall) and New York (Funk & Wagnalls) printings: comments by
   Spurgeon's numbered heads inside each printed verse group.
+  Hodge (Romans 1864, 1 and 2 Corinthians), Haldane (Romans) and John Brown
+  (Hebrews, 1 Peter) are read the same way by pipeline/single_read.py: verse
+  heads placed by lemma (Hodge, Haldane), printed passages (Brown's 1 Peter
+  discourses), or heads placed by lemma alone (Brown's Hebrews, whose CHAPTERs
+  are not the Bible's).
   pipeline/README-commentary.md
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)

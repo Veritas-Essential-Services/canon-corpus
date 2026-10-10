@@ -8,17 +8,22 @@ The ids are read from `data/uids/wordhoard.uids.json` and never written.
 
 | work | comments | verses covered | citations | source |
 |---|---|---|---|---|
-| Matthew Henry, *Exposition* (1706-21) | 5,417 | 31,065 | 63,918 | CCEL |
+| Matthew Henry, *Exposition* (1706-21) | 5,417 | 31,065 | 64,108 | CCEL |
 | Jamieson, Fausset and Brown (1871) | 19,776 | 19,776 | 59,019 | CCEL |
 | Matthew Poole, *Annotations* (1683-85) | 26,208 | 26,208 | 55,433 (+16,020 margin parallels) | EEBO-TCP, hand-keyed first edition |
 | Albert Barnes, *Notes on the New Testament* | 7,947 | 7,947 | 39,586 | CCEL (keyed from Baker's 1949 reprint) |
 | John Wesley, *Explanatory Notes* (1755-66) | 19,073 | 28,160 | 3,151 | CCEL |
 | John Calvin, *Commentaries* (CTS English, 1843-55) | 14,041 | 16,363 | 17,102 | CCEL, 45 volumes |
 | Charles Hodge, *Ephesians* (1856) | 146 | 154 | 676 | CCEL |
-| Thomas Manton, *James* and *Jude* (1651-58) | 122 | 132 | 5,298 | CCEL (Nisbet, 1871) |
+| Thomas Manton, *James* and *Jude* (1651-58) | 122 | 132 | 5,344 | CCEL (Nisbet, 1871) |
 | John Trapp, *Commentary* (1647-60), five volumes | 14,699 | 14,662 | 34,557 (+3,776 margin) | EEBO-TCP, hand-keyed first editions |
-| Adam Clarke, *Commentary* (1810-26) | 18,129 | 18,129 | 9,100 | archive.org OCR of two printings of each Testament |
+| Adam Clarke, *Commentary* (1810-26) | 18,129 | 18,129 | 9,163 | archive.org OCR of two printings of each Testament |
 | C. H. Spurgeon, *Treasury of David*, the Exposition (1869-85) | 2,324 | 2,324 | 132 | archive.org OCR of two printings |
+| Charles Hodge, *Romans* (revised, 1864) | 336 | 336 | 1,743 | archive.org OCR of two printings |
+| Charles Hodge, *1 and 2 Corinthians* (1857, 1860) | 470 | 470 | 1,198 | archive.org OCR of two printings of each |
+| Robert Haldane, *Romans* | 407 | 407 | 470 | archive.org OCR of two printings |
+| John Brown of Edinburgh, *Hebrews* (1862) | 37 | 37 | 451 | archive.org OCR of two copies of one printing |
+| John Brown of Edinburgh, *1 Peter* (discourses) | 26 | 26 | 1,060 | archive.org OCR of two printings |
 
 ```
 python3 pipeline/build_commentary.py --fetch    # CCEL's texts, Poole's TCP files, the scans' OCR, all sha256-pinned
@@ -194,8 +199,13 @@ how many at an unrelated verse, 1,000 verses on?
 | Hodge | 10.6% | 0.4% |
 | Manton | 6.2% | 0.1% |
 | Trapp, notes | 15.0% | 0.2% |
-| Clarke | 23.0% | 0.25% |
+| Clarke | 23.0% | 0.23% |
 | Spurgeon | 5.5% | 0.0% (of 55) |
+| Hodge, Romans | 12.1% | 0.1% |
+| Hodge, Corinthians | 23.2% | 0.7% |
+| Haldane | 11.6% | 0.0% |
+| Brown, Hebrews | 4.9% | 0.5% |
+| Brown, 1 Peter | 4.4% | 0.1% |
 
 The check is a measure only. Nothing is kept or dropped by it. Henry's
 unrelated-verse figure is higher because his comments span whole sections.
@@ -299,11 +309,11 @@ and chapter. Two kinds of reading are not kept:
 - A citation of the note's own verse (471).
 
 **A citation is committed only when both printings read it in their notes on
-the same verse.** 9,100 are. 15,130 are read in one printing only. They go to
+the same verse.** 9,163 are. 14,992 are read in one printing only. They go to
 `build/commentary/clarke.rejected.jsonl`, with the printing that read them.
 
 The Treasury check (section 3) puts Clarke's citations near Poole's notes:
-23.0% at that verse, 0.25% at an unrelated one.
+23.0% at that verse, 0.23% at an unrelated one.
 
 **What it is not.** The head placement and the citations are only as good as
 the OCR and these rules. A Bible-text or margin paragraph the rules miss is
@@ -363,7 +373,70 @@ Treasury of Scripture Knowledge rarely lists: hence its low Treasury figure.
 **What it is not.** The prose in `build/commentary/spurgeon.text.jsonl` is
 unproofread OCR of the printing named.
 
-## 8. Not committed, not claimed
+## 8. Hodge, Haldane and John Brown (`single_read.py`)
+
+These are commentaries on one book that no library has keyed. CCEL has only
+Hodge's *Ephesians*, which section 2 reads. So, as with Clarke and Spurgeon,
+both readings come from the OCR of open archive.org scans, and a citation is
+committed only when both read it on the same verse:
+
+| work | first printing | second printing |
+|---|---|---|
+| Hodge, *Romans* | Philadelphia, Martien, 1864 | New York, Armstrong, 1896 |
+| Hodge, *1 Corinthians* | New York, Carter, 1857 | New York, Carter, 1874 |
+| Hodge, *2 Corinthians* | New York, Carter, 1860 | New York, Carter, 1872 |
+| Haldane, *Romans* | New York, Carter, 1858 | London, Oliphant, 1874 |
+| Brown, *Hebrews* | Edinburgh, Oliphant, 1862 (archive.org's copy) | the same printing (Google's copy) |
+| Brown, *1 Peter* | New York, Carter, 1855 | New York, Carter, 1866 |
+
+Hodge's *Romans* is the 1864 revision; the 1835 first edition is a
+different text and is not used. Carter's Hodge printings may share plates,
+and Brown's *Hebrews* has only the one printing open, in two copies. There
+the vote removes OCR error only, as in Clarke's Old Testament. Google's copy
+is only read: nothing of its file is committed, only the verse places and
+citations both copies agree on.
+
+**Hodge and Haldane: verse heads.** These books open each comment with a
+head: "VERSE 1. Paul, a servant ...", "V. 2.--Which he had promised ...",
+or, in Hodge's *Corinthians*, the bare "11. For it hath been declared".
+`read_volume` cuts the heads into runs at the "CHAPTER IV." headings ("CHAPTER
+I. PART II." goes on with chapter I). It aligns the runs to the book's
+chapters with Clarke's dynamic programming. A head is placed when half of
+its lemma's words are in the KJV verse it names, so a numbered point
+("5. God is the ultimate end") is never a head.
+
+| | heads placed | not placed |
+|---|---|---|
+| Hodge, *Romans*, 1864 / 1896 | 316 / 318 | 62 / 78 |
+| Hodge, *1 Corinthians*, 1857 / 1874 | 240 / 239 | 225 / 216 |
+| Hodge, *2 Corinthians*, 1860 / 1872 | 195 / 190 | 66 / 71 |
+| Haldane, 1858 / 1874 | 299 / 345 | 37 / 2 |
+
+The New York Haldane writes "Eph. ii., 15". The reader reads that form
+(`roman_comma`) along with the London "Eph. ii. 15".
+
+**Brown on 1 Peter: discourses.** Each discourse is on a passage, printed
+under its head: "1 PET. ii. 1-3.--Wherefore, laying aside ...". The 1855
+printing prints that head. It is read when the words after it are that
+verse's KJV words. The 1866 printing prints the passage without a head. There
+the passage is found by windows of ten words: it starts at the first window
+with 80% of its words in one KJV verse, and runs while each window has 60%
+in that verse or a few past it. A discourse is one comment on its passage
+(26 rows, 20 placed alike in both printings).
+
+**Brown on Hebrews: no chapter headings to align.** His CHAPTERs are the
+divisions of his argument, not the Bible's chapters. So a verse head ("Ver.
+5.", "Verses 1-3.--") is placed by its lemma alone, in the nearest chapter at
+or after the last one placed. The printed passages that open his sections
+are read as in 1 Peter. Brown heads few verses, so this gives 37 comments,
+26 placed alike in both copies. Most of his comment runs on without heads,
+inside the comment before.
+
+**What these are not.** Brown's comments are whole sections and discourses,
+so the Treasury check at their first verse is weak (4-5% against 0.1-0.5%).
+The prose in `build/commentary/` is unproofread OCR of the printing named.
+
+## 9. Not committed, not claimed
 
 - **The prose.** It goes to `build/commentary/<work>.text.jsonl`, and
   `commentary.py`'s `text()` reads it there. All four are public domain;
@@ -371,5 +444,5 @@ unproofread OCR of the printing named.
 - **A comment that differs** keeps its CCEL mark (or Poole's order) as `on`.
   The `anchor` field says so.
 - **No citation comes from a scan alone.** For the CCEL and TCP works the
-  scans are a check; Clarke and Spurgeon are read from two printings, and
-  a citation needs both.
+  scans are a check; Clarke, Spurgeon, Hodge's Romans and Corinthians,
+  Haldane and John Brown are read from two printings, and a citation needs both.

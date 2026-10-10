@@ -137,7 +137,7 @@ _CV = re.compile(r"\s*(?:(?P<c>%s)\s*:\s*|(?P<r>[ivxlc]{1,8})\.\s*)(?P<v>%s)" % 
 _CV_POINT = re.compile(r"\s*(?:(?P<c>%s)\s*(?::|\.(?=\s*\d))\s*|(?P<r>[ivxlc]{1,8})\.\s*)(?P<v>%s)(?!\s?[A-Z][a-z]{0,13}\.?\s*\d)" % (_NUM, _NUM))
 
 _CV_ANY_COMMA = re.compile(r"\s*(?:(?P<c>%s)\s*[:,]\s*|(?P<r>[ivxlc]{1,8})[.,]\s*)(?P<v>%s)" % (_NUM, _NUM))
-_CV_COMMA = re.compile(r"\s*(?:(?P<c>%s)\s*:\s*|(?P<r>[ivxlc]{1,8})[.,]\s*)(?P<v>%s)" % (_NUM, _NUM))
+_CV_COMMA = re.compile(r"\s*(?:(?P<c>%s)\s*:\s*|(?P<r>[ivxlc]{1,8})(?:\.\s*,?|,)\s*)(?P<v>%s)" % (_NUM, _NUM))
 
 
 def _chap(cv):
@@ -191,7 +191,8 @@ def refs(text, here=None, point=False, old=False, roman_comma=False, comma=False
     The topical books' scans print "Gen. 19. 1" too rarely to need it, and
     there it misreads more than it finds.
 
-    roman_comma=True also reads a comma after a Roman chapter ("Luke iii, 31"),
+    roman_comma=True also reads a comma after a Roman chapter ("Luke iii, 31",
+    and the New York Haldane's "Eph. ii., 15"),
     as CCEL's Wesley prints them; comma=True a comma after any chapter ("Heb.
     13, 9"), as CCEL's Hodge does (there "Ps. 23, 24" is a verse, not two psalms)."""
     _CV = _CV_POINT if point else (_CV_ANY_COMMA if comma else _CV_COMMA if roman_comma else globals()["_CV"])
@@ -312,7 +313,8 @@ _CONT = re.compile(r"\s*([;,]|and\b|&)\s*(?:and\s+)?")
 _CONT_POINT = re.compile(r"\.?\s*([;,]|and\b|&)\s*(?:and\s+)?")
 # a number is not a chapter or verse if a ":" or digit follows, or if it is the
 # ordinal of the next book ("; 2 Sam. 4", "; 2Sa 4")
-_NOT_AFTER = r"(?![\d:]|\s*:|\s?[A-Z][a-z]{0,13}[.,]?\s*\d)"
+# a number with a book after it is that book's ordinal ("; 2 Tim. 1:10", and in the old books "; 2 Tim. i. 10")
+_NOT_AFTER = r"(?![\d:]|\s*:|\s{0,3}[A-Z][a-z]{0,13}[.,]?\s*(?:\d|[ivxlc]{1,8}\.))"
 _REL_V = re.compile(r"(?:[Vv]erses|[Vv]erse|[Vv]ers|[Vv]er|vv|v)\.?\s*(\d{1,3})(?:\s*-\s*(\d{1,3}))?(?![\d:])")
 _REL_CH = re.compile(r"(?:[Cc]hapter|[Cc]hap|[Cc]ap|[Cc]h)\.?\s*(\d{1,3}|[ivxlc]{1,8}(?=\.))(?:(?:\s*[:.]\s*|\s*,\s*(?=[Vv]))(?:(?:[Vv]er(?:se)?|v)\.?\s*)?(\d{1,3})(?:\s*-\s*(\d{1,3}))?)?" + _NOT_AFTER)
 # a whole chapter (or run of chapters): a number not followed by ":" or another digit
