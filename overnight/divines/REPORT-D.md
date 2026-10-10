@@ -872,3 +872,6 @@
 
 ## 2026-10-10 09:22 CDT — hardwick: done
 - 1/1 fetched (Gutenberg 39934), 1,651 units, 0 ~2 ids.
+
+## 2026-10-10 09:25 CDT — harland-wilkinson: done
+- 1/1 fetched (Gutenberg 41148), 1,507 units, 0 ~2 ids.
