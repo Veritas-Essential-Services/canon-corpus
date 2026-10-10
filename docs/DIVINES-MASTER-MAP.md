@@ -3599,6 +3599,42 @@ Slugs `morgan-*`. Westminster Chapel. Held to printings before 1930: thirty-six 
 | The Song Companion to the Scriptures (hymnal, 1911); The Morning Message (selections by another hand, 1906); The Fulfilment of Life (c. 1920 reissue) | alternate | not shelved |
 | Living Messages and Crises copies whose advertisements list 1931-1939 titles; WWII economy printings; the Westminster Pulpit (1954 on); Luke 1931, John 1933 and later | excluded | |
 | Gipsy Smith: His Life and Work: introduction only | excluded | |
+
+## J. N. Darby (round 20, my pick, 2026-10-10)
+
+Slugs `darby-*`. Brethren founder; Synopsis and Notes and Comments are Morrish/Broom printings. Title pages read for Synopsis vol. 5 and the Newman Apologia (initials only).
+
+| Work | Status | Where |
+|---|---|---|
+| Synopsis of the Books of the Bible, vol. 1, Genesis to II Chronicles, new edition revised (London: G. Morrish; no year on title page) | have-ocr | IA `synopsisofbookso01darb` |
+| Synopsis of the Books of the Bible, vol. 2, Ezra to Malachi, new edition revised (London: G. Morrish; no year on title page) | have-ocr | IA `synopsisofbookso02darb` |
+| Synopsis of the Books of the Bible, vol. 3, Matthew to John, new edition revised (London: G. Morrish; no year on title page) | have-ocr | IA `synopsisofbookso03darb` |
+| Synopsis of the Books of the Bible, vol. 4, Acts to Philippians, new edition revised (London: G. Morrish; no year on title page) | have-ocr | IA `Synopsis4` |
+| Synopsis of the Books of the Bible, vol. 5, Colossians to Revelation, new edition revised (London: G. Morrish; no year on title page) | have-ocr | IA `synopsisofbookso05darb` |
+| Seven Lectures on the Second Coming of the Lord, Delivered in Toronto in 1863 (Toronto: Gospel Tract Depository, 1863) | have-ocr | IA `cihm_07686` |
+| Studies on the Book of Daniel, translated from the French and revised by the author (London: John B. Bateman; no year on title page, catalogued 1864) | have-ocr | IA `studiesonbookda00darbgoog` |
+| Analysis of Dr. Newman's Apologia pro Vita Sua (London: W. H. Broom, 1866) | have-ocr | IA `a567237300darbuoft` |
+| Practical Reflections on the Psalms, by J. N. D. (London: Robert L. Allan; no year on title page, catalogued 1870) | have-ocr | IA `practicalreflect00darb` |
+| Nine Lectures on the First Epistle of John, by J. N. D. (London: W. H. Broom, 1882; posthumous, unrevised) | have-ocr | IA `ninelecturesonf00darbgoog` |
+| Spiritual Songs, his own hymns and poems (Dublin; New York: Loizeaux Brothers, 1883) | have-ocr | IA `spiritualsongs00darb` |
+| Notes and Comments on Scripture, from the note books of J. N. Darby, vol. 1 (Bath: P. A. Humphery, 1884; posthumous) | have-ocr | IA `bwb_S0-ASP-787` |
+| Notes and Comments on Scripture, from the note books of J. N. Darby, vol. 2 (Bath: P. A. Humphery, 1885; posthumous) | have-ocr | IA `bwb_S0-ASP-790` |
+| Notes and Comments on Scripture, from the note books of J. N. Darby, vol. 3 (Bath: P. A. Humphery, 1886; posthumous) | have-ocr | IA `bwb_S0-ASP-784` |
+| Notes and Comments on Scripture, from the note books of J. N. Darby, vol. 4 (Bath: P. A. Humphery, 1889; posthumous) | have-ocr | IA `bwb_S0-ASP-785` |
+| Notes and Comments on Scripture, from the note books of J. N. Darby, vol. 5 (Bath: P. A. Humphery, 1893; posthumous) | have-ocr | IA `bwb_S0-ASP-786` |
+| Notes and Comments on Scripture, from the note books of J. N. Darby, vol. 7 (London: James Carter, 1913; posthumous) | have-ocr | IA `bwb_S0-ASP-821` |
+| His New Testament translation (Morrish 1867 and 1884; IA compiled-the-gospels-... and the multi-file DarbysWritings item): his translation, the translator not named on the title page | alternate | not shelved |
+| Works whose title pages carry no author: Dr. Colenso and the Pentateuch (1863; cihm_63132), Dialogues on the Essays and Reviews (catalogued 1863; dialoguesonessa00darbgoog), Notes on the Gospel of Luke (1869; notesongospellu00darbgoog) | alternate | not shelved |
+| The Claims of the Church of England Considered, his correspondence with James Kelly (1864; claimsofchurchof00kell) | alternate | not shelved |
+| Weighty Words from the Writings of J. N. D. (1898): extracts compiled by others | alternate | not shelved |
+| Lectures on the Second Coming (Morrish 1909; lecturesonsecond0000jnda_p7b1): carries a later Bible Truth Publishers stamp | alternate | not shelved |
+| Etudes sur la Parole (Paris, 1857): French original | alternate | not shelved |
+| Synopsis vol. 5, second edition (IA 11356645bsb) | alternate | not shelved |
+| CCEL darby/synopsis: New Testament only, legacy HTML with no ThML and no print source | excluded | |
+| IA Collected Writings: 1962-74 reprints, text restricted | excluded | |
+| Synopsis and other copies catalogued 1942 or later; Bible Truth Publishers printings; 1961 and 1970 Bibles | excluded | |
+| German and French translations | excluded | |
+| J. George N. Darby | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

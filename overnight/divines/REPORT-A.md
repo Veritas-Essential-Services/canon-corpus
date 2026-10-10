@@ -901,3 +901,6 @@
 
 ## 2026-10-10 13:15 CDT — round 19 closed
 - Twelve new shelves (Mahan, Upham, Moses D. Hoge, Krauth, Schmucker, Walther, Gerhart, Griffith Thomas, Forsyth, Flint, H. R. Mackintosh, Campbell Morgan). 0 uids minted.
+
+## 2026-10-10 13:51 CDT — j-n-darby done
+- `pipeline/j-n-darby_shelf.json`: 0 CCEL, 0 PG, 17 IA. Title pages read for darby-synopsis-05, darby-newman-apologia (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
