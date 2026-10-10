@@ -1,5 +1,5 @@
 {
- "_about": "William Martin Leake (1777-1860): The Topography of Athens and the Demi, second edition, 2 vols. (London: printed for the author, sold by J. Rodwell, 1841), raw IA OCR. His Travels in the Morea and in Northern Greece are wanted. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "William Martin Leake (1777-1860): The Topography of Athens and the Demi, second edition, 2 vols. (London: printed for the author, sold by J. Rodwell, 1841), raw IA OCR. Also Travels in Northern Greece, 4 vols. (J. Rodwell, 1835; vol. I's year reads '1885' in the OCR, a misreading of the 1835 set), and Travels in the Morea, vols. I and III (John Murray, MDCCCXXX); Morea vol. II is wanted (IA unavailable this round). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
  "_name_words": [
   "leake"
  ],
@@ -18,6 +18,30 @@
   "leake-demi-attica-v2-1841": [
    "topographyathen05leakgoog",
    "The Topography of Athens and the Demi, vol. II, The Demi of Attica, second edition (London: J. Rodwell, 1841)"
+  ],
+  "leake-northern-greece-v1-1835": [
+   "travelsinnorthe01leakgoog",
+   "Travels in Northern Greece, in four volumes, vol. I (London: J. Rodwell, 1835)"
+  ],
+  "leake-northern-greece-v2-1835": [
+   "gri_33125008698264",
+   "Travels in Northern Greece, in four volumes, vol. II (London: J. Rodwell, 1835)"
+  ],
+  "leake-northern-greece-v3-1835": [
+   "gri_000033125008698322",
+   "Travels in Northern Greece, in four volumes, vol. III (London: J. Rodwell, 1835)"
+  ],
+  "leake-northern-greece-v4-1835": [
+   "gri_000433125008698033",
+   "Travels in Northern Greece, in four volumes, vol. IV (London: J. Rodwell, 1835)"
+  ],
+  "leake-morea-v1-1830": [
+   "b29350219_0001",
+   "Travels in the Morea, in three volumes, vol. I (London: John Murray, 1830)"
+  ],
+  "leake-morea-v3-1830": [
+   "moreatravels03leak",
+   "Travels in the Morea, in three volumes, vol. III (London: John Murray, 1830)"
   ]
  },
  "_checks": {
@@ -41,6 +65,72 @@
    "ia_rights": "ok: published 1841",
    "ia_date": "1841",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leake-northern-greece-v1-1835": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william martin leake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leake-northern-greece-v2-1835": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william martin leake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leake-northern-greece-v3-1835": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william martin leake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leake-northern-greece-v4-1835": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william martin leake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leake-morea-v1-1830": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william martin leake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "leake-morea-v3-1830": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william martin leake",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

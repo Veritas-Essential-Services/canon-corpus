@@ -2610,7 +2610,7 @@ Shelf: `pipeline/samuel-dill_shelf.json`. Sir Samuel Dill (1844-1924): 1 clean G
 
 ## J. P. Mahaffy (scholarship)
 
-Shelf: `pipeline/mahaffy_shelf.json`. John Pentland Mahaffy (1839-1919), Trinity College Dublin: 4 clean Gutenberg texts, plus Social Life in Greece (1894) and Greek Life and Thought (1896) as raw IA OCR. Not minted.
+Shelf: `pipeline/mahaffy_shelf.json`. John Pentland Mahaffy (1839-1919), Trinity College Dublin: 4 clean Gutenberg texts, plus Social Life in Greece (1894), Greek Life and Thought (1896) and A History of Classical Greek Literature (2 vols., Harper, 1880; appendix by Sayce) as raw IA OCR. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -3373,14 +3373,20 @@ Shelf: `pipeline/felton_shelf.json`. Greece, Ancient and Modern, two volumes in 
 
 ## W. M. Leake (scholarship)
 
-Shelf: `pipeline/leake_shelf.json`. The Topography of Athens and the Demi, 2nd ed., 2 vols. (1841), raw IA OCR. Not minted.
+Shelf: `pipeline/leake_shelf.json`. The Topography of Athens and the Demi, 2nd ed., 2 vols. (1841); Travels in Northern Greece, 4 vols. (1835); Travels in the Morea, vols. I and III (1830). Raw IA OCR. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Topography of Athens, with some remarks on its antiquities, second edition, vol. I (London: J. Rodwell, 1841) |  | `leake-topography-athens-v1-1841` | have-raw (IA `topographyathen02leakgoog`) |
 | The Topography of Athens and the Demi, vol. II, The Demi of Attica, second edition (London: J. Rodwell, 1841) |  | `leake-demi-attica-v2-1841` | have-raw (IA `topographyathen05leakgoog`) |
+| Travels in Northern Greece, in four volumes, vol. I (London: J. Rodwell, 1835) |  | `leake-northern-greece-v1-1835` | have-raw (IA `travelsinnorthe01leakgoog`) |
+| Travels in Northern Greece, in four volumes, vol. II (London: J. Rodwell, 1835) |  | `leake-northern-greece-v2-1835` | have-raw (IA `gri_33125008698264`) |
+| Travels in Northern Greece, in four volumes, vol. III (London: J. Rodwell, 1835) |  | `leake-northern-greece-v3-1835` | have-raw (IA `gri_000033125008698322`) |
+| Travels in Northern Greece, in four volumes, vol. IV (London: J. Rodwell, 1835) |  | `leake-northern-greece-v4-1835` | have-raw (IA `gri_000433125008698033`) |
+| Travels in the Morea, in three volumes, vol. I (London: John Murray, 1830) |  | `leake-morea-v1-1830` | have-raw (IA `b29350219_0001`) |
+| Travels in the Morea, in three volumes, vol. III (London: John Murray, 1830) |  | `leake-morea-v3-1830` | have-raw (IA `moreatravels03leak`) |
 
-Pending (wishlist): Travels in the Morea (3 vols., 1830) and Travels in Northern Greece (4 vols., 1835).
+Pending (wishlist): Travels in the Morea vol. II (IA unavailable this round).
 
 ## Perseus census (overflow)
 
