@@ -2689,6 +2689,7 @@ Shelf: `pipeline/botsford_shelf.json`. George Willis Botsford (1862-1917), Colum
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Roman Assemblies from Their Origin to the End of the Republic |  | `botsford-roman-assemblies` | have (PG 68419) |
 
 Excluded: PG 49923, 51110 (The Mentor issues) (magazine pieces)
 
