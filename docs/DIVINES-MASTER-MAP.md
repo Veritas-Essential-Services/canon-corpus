@@ -2222,6 +2222,14 @@ Slugs `nmacleod-*`. The Barony minister (1812-1872), not his father or grandson 
 |---|---|---|
 | Parish Papers; The Gold Thread; The Starling | have-clean | Gutenberg 12605, 26039, 41989 |
 | The Temptation of Our Lord (1873); Simple Truths (1867); Reminiscences of a Highland Parish (1871); The Earnest Student (1863) | have-ocr | IA, OCR 98-99% |
+
+## John Cairns (round 14, my pick, 2026-10-09)
+
+Slugs `jcairns-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Unbelief in the Eighteenth Century (Cunningham Lectures, 1881); Romanism and Rationalism (1863); Christ the Morning Star (1892); Christianity and Miracles (catalogued 1883); Memoir of John Brown (catalogued 1860) | have-ocr | IA, OCR 97-99% |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

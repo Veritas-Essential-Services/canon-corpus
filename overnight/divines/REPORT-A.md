@@ -679,3 +679,6 @@
 
 ## 2026-10-09 22:10 CDT — norman-macleod done
 - `pipeline/norman-macleod_shelf.json`: 3 PG + 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-09 22:10 CDT — john-cairns done
+- `pipeline/john-cairns_shelf.json`: 5 IA. Unbelief failed the name gate on OCR ("JOHN CAIKNS"); title page read, in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
