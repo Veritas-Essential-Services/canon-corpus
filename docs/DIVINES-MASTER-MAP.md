@@ -3342,6 +3342,29 @@ Slugs `hoge-*`. Southern Presbyterian of Richmond. Five items; the biographies o
 | Appeal to the People of Virginia (1865): committee broadside, author from catalogue only | excluded | |
 | Proceedings in Memoriam of Moncure and Ould (1883) and the Cooke Stonewall Jackson biography: contributions only | excluded | |
 | The Victory Won, a memorial of his brother W. J. Hoge, by T. V. Moore | excluded | |
+
+## Charles P. Krauth (round 19, my pick, 2026-10-10)
+
+Slugs `krauth-*`. Lutheran confessional theologian. Nine items; his Tholuck translation and the philosophy he edited are alternates.
+
+| Work | Status | Where |
+|---|---|---|
+| The Conservative Reformation and its Theology (Philadelphia: J. B. Lippincott, 1871) | have-ocr | IA `conservativer00krau` |
+| The Augsburg Confession, Literally Translated from the Original Latin, with Introduction, Notes and Index (Philadelphia: Lutheran Bookstore, 1868) | have-ocr | IA `augsburgconfessi00krau` |
+| Christian Liberty in its Relation to the Usages of the Evangelical Lutheran Church (Philadelphia: Henry B. Ashmead, 1860) | have-ocr | IA `christianliberty00krau` |
+| Infant Baptism and Infant Salvation in the Calvinistic System: A Review of Dr. Hodge's Systematic Theology (Philadelphia: Lutheran Book Store, 1874) | have-ocr | IA `infantbaptisminf00krau` |
+| A Chronicle of the Augsburg Confession, bound with H. E. Jacobs, A Question of Latinity (Philadelphia: J. Fred'k Smith, 1878) | have-ocr | IA `chronicleofaugsb00krau` |
+| A Discourse Suggested by the Burning of the Old Lutheran Church, Winchester, Va. (Winchester: Republican Office; title-page year garbled, catalogued 1855) | have-ocr | IA `discoursesuggest00krau` |
+| The Former Days and These Days, a Thanksgiving discourse (Pittsburgh: W. S. Haven, 1856) | have-ocr | IA `formerdaysthesed00krau` |
+| The Altar on the Threshing-Floor, a Thanksgiving discourse (Pittsburgh: W. S. Haven, MDCCCLVII) | have-ocr | IA `altaronthreshing00krau` |
+| The Two Pageants, a discourse (Pittsburgh: W. S. Haven, 1865) | have-ocr | IA `twopageantsdisco00krau` |
+| His translation of Tholuck's Commentary on the Gospel of John (Philadelphia: Smith, English, 1859; IA commentaryongosp00thol): belongs with the august-tholuck shelf if wanted | alternate | not shelved |
+| Philosophy he translated or edited: Ulrici's Strauss as a Philosophical Thinker (1874), Berkeley's Principles (1874), Fleming's Vocabulary of Philosophy (c. 1860) and A Vocabulary of the Philosophical Sciences (1878) | alternate | not shelved |
+| Other printings of The Conservative Reformation (1871, 1872, 1875, and the 1899 General Council edition) | alternate | not shelved |
+| Works of his father Charles Philip Krauth (Evangelical Review vol. 4, the Henry Clay discourse of 1852, Human Life 1850) | excluded | |
+| Adolph Spaeth's biography of him (1898-1909): by another hand | excluded | |
+| Post-1913 and undated later printings of The Conservative Reformation | excluded | |
+| a later Charles Philip Krauth; Harriet Reynolds Krauth's Church Book | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

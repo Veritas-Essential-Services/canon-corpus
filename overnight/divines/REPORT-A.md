@@ -871,3 +871,6 @@
 
 ## 2026-10-10 12:46 CDT — moses-d-hoge done
 - `pipeline/moses-d-hoge_shelf.json`: 0 CCEL, 0 PG, 5 IA. Small shelf: most surviving material is about him. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:46 CDT — charles-p-krauth done
+- `pipeline/charles-p-krauth_shelf.json`: 0 CCEL, 0 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.

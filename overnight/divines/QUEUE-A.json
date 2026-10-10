@@ -2263,10 +2263,12 @@
     },
     {
       "id": "charles-p-krauth",
-      "status": "queued",
+      "status": "done",
       "scope": "Charles Porterfield Krauth (d. 1883): The Conservative Reformation and its Theology",
       "added": "2026-10-10T12:26:55-05:00",
-      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held."
+      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T12:46:43-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "s-s-schmucker",
