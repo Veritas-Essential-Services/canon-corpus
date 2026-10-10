@@ -924,6 +924,14 @@
    "started": "2026-10-10T08:59:27-05:00",
    "finished": "2026-10-10T09:11:14-05:00",
    "notes": "Added Ball's Apocolocyntosis 1902; West, Greene and Pye's Pindar 1810 (2 vols.); MacGregor's Greek Anthology (undated, 19th c.); the anonymous Foulis Marcus Aurelius 1749 (2 vols.); McCormac's Marcus Aurelius 1844; Maginn's Homeric Ballads and Comedies of Lucian 1856; Ransome's Swallows and Amazons (book 1, US-only PD). Held back: the 1868 Index Expurgatorius of Martial; Carr's Lucian (no readable title page in any scan). Epictetus, Hesiod, Statius and Lucan: nothing new."
+  },
+  {
+   "id": "round-2026-10-10b",
+   "status": "done",
+   "scope": "Old reviewer findings rechecked; stale exclusion rows; Ovid, Livy, Plutarch, Persius and Roman historians title sweeps",
+   "started": "2026-10-10T09:11:14-05:00",
+   "finished": "2026-10-10T09:19:49-05:00",
+   "notes": "Perseus duplicates and fetch_perseus gaps were already fixed. Corrected the Hobbes cross-reference, the Vince vol. II rights notes, and the Nixon exclusion note. Dropped 19 stale 'now held' rows from _excluded. Added Seneca's Tenne Tragedies from the 1581 first printing (resolves the Eliot-introduction hold), Taylor's Fasti I-IV 1839, Byles's Greek Lives 1907."
   }
  ]
 }

@@ -580,3 +580,9 @@
 - Added 9 volumes across Seneca, Pindar, Greek lyric, Marcus Aurelius, Lucian
 - Held back for Adam: Index Expurgatorius of Martial (1868); Carr's Dialogues of Lucian (title-page rule)
 - Excluded under the OCR bar: the 1773 Martial (0.43), the 1806 Anacreon (0.70), Murphy's Lucian (0.68)
+
+## 2026-10-10 09:19 CDT — Round 2026-10-10b: reviewer findings, Tenne Tragedies, sweeps
+- Old findings: the Perseus duplicates are all marked; fetch_perseus already matches whole words and refuses undated files
+- Fixed notes: Thucydides Hobbes cross-reference; Demosthenes Vince vol. II no longer claims a 1939 date the file does not state; Plautus Nixon vol. 3 is held back, not held
+- Dropped 19 stale 'now held' rows from _excluded
+- Added: Seneca his Tenne Tragedies (1581 first printing), Taylor's Fasti I-IV (1839), Byles's Greek Lives (1907)
