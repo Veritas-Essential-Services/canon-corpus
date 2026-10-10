@@ -2284,6 +2284,239 @@ Slugs `jdavenport-*`. The New Haven founder (1597-1670).
 | The Knowledge of Christ (1653); Another Essay (1663); The Power of Congregational Churches (1672); An Apologeticall Reply (1636) | have-ocr | IA Early English Books scans, OCR 81-87%: 17th-century type, poor |
 | A Catechisme (1659) | excluded | OCR is noise |
 | A Discourse about Civil Government (1663) | excluded | title page attributes it to John Cotton |
+
+## James Petigru Boyce (round 15, my pick, 2026-10-10)
+
+Slugs `boyce-*`. One work; the 1887 first edition on IA is an alternate to collate CCEL against.
+
+| Work | Status | Where |
+|---|---|---|
+| Abstract of Systematic Theology (CCEL; print source 1887) | have-clean | CCEL b/boyce/theology |
+| Abstract of Systematic Theology (Baltimore: H. M. Wharton, 1887, the first published edition; IA abstractofsystem00boyc_0): the dated edition to collate the CCEL text against | alternate | not shelved |
+| the 1882 Louisville printing for his pupils only (IA abstractofsystem00boyc), not published | alternate | not shelved |
+
+## John L. Dagg (round 15, my pick, 2026-10-10)
+
+Slugs `dagg-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| Manual of Theology, in two parts: Christian Doctrine; Church Order (Charleston: Southern Baptist Publication Society, 1859) | have-ocr | IA `manualoftheology12dagg` |
+| The Elements of Moral Science (New York: Sheldon; Charleston: Southern Baptist Publication Society, 1860) | have-ocr | IA `elementsofmorals00dagg` |
+| The Evidences of Christianity (Macon: J. W. Burke; Philadelphia: Claxton, Remsen & Haffelfinger, 1869) | have-ocr | IA `evidencesofchris00dagg` |
+| Manual of Theology part 1 (Philadelphia, entered 1871; IA manualoftheology00dagg) and part 2 (Charleston, 1858; IA manualoftheology02dagg): the same text as the 1859 two-part scan | alternate | not shelved |
+
+## John A. Broadus (round 15, my pick, 2026-10-10)
+
+Slugs `broadus-*`. His own 1872 text of Preparation and Delivery, not Dargan's 1898 revision.
+
+| Work | Status | Where |
+|---|---|---|
+| A Treatise on the Preparation and Delivery of Sermons, fourth edition (Philadelphia: Smith, English, 1872) | have-ocr | IA `treatiseonprepar00broa_0` |
+| Commentary on the Gospel of Matthew, An American Commentary on the New Testament, ed. Alvah Hovey (Philadelphia: American Baptist Publication Society; entered 1886) | have-ocr | IA `commentaryongosp01broa` |
+| Lectures on the History of Preaching, new edition (New York: A. C. Armstrong, 1893) | have-ocr | IA `lecturesonthehis00broauoft` |
+| Sermons and Addresses, second edition (Richmond: B. F. Johnson, 1887) | have-ocr | IA `sermonsaddresses00broa` |
+| Jesus of Nazareth (New York: A. C. Armstrong, 1890) | have-ocr | IA `jesusofnazareth00broa` |
+| Memoir of James Petigru Boyce (New York: A. C. Armstrong, 1893) | have-ocr | IA `memoirofjamespeti00broa` |
+| A Harmony of the Gospels in the Revised Version, notes by A. T. Robertson (New York: A. C. Armstrong, 1893) | have-ocr | IA `harmonyofgosp00broa` |
+| Commentary on the Gospel of Mark (Philadelphia: American Baptist Publication Society, 1905) | have-ocr | IA `gospelofmark0000john` |
+| the 1898 23rd edition revised by E. C. Dargan (IA treatiseonprepar1898broa): Dargan's revision, a different text | alternate | not shelved |
+| Gutenberg 36264, A. T. Robertson's 1922 Harmony based on Broadus: Robertson's book | alternate | not shelved |
+
+## Joseph Milner (round 15, my pick, 2026-10-10)
+
+Slugs `jmilner-*`. History of the Church of Christ as continued by his brother Isaac.
+
+| Work | Status | Where |
+|---|---|---|
+| The History of the Church of Christ, with additions by Isaac Milner, vol. 1 (Philadelphia: Hogan & Thompson, 1835) | have-ocr | IA `historyofchurcho01miln` |
+| The History of the Church of Christ, with additions by Isaac Milner, vol. 2 (Philadelphia: Hogan & Thompson, 1835) | have-ocr | IA `historyofchurcho02miln` |
+| Practical Sermons, with an account of the life of the author, revised by Isaac Milner, third edition (London: J. & E. Hodson, 1804) | have-ocr | IA `practicalsermons00milniala` |
+| vol. 1 of the York first edition, MDCCXCIV (IA bim_eighteenth-century_the-history-of-the-churc_milner-joseph_1794_1): long-s OCR, one volume only | alternate | not shelved |
+| London: Cadell, 1834, 4 vols (IA 10026214bsb, 10026216bsb, 10026217bsb): vol. 2 not found | alternate | not shelved |
+
+## Francis Wayland (round 15, my pick, 2026-10-10)
+
+Slugs `fwayland-*`. Domestic Slavery (1845) is his published exchange with Richard Fuller, who argued the other side; it is shelved as a historical document.
+
+| Work | Status | Where |
+|---|---|---|
+| The Elements of Moral Science (New York: Cooke, 1835) | have-ocr | IA `element00wayl` |
+| The Elements of Political Economy (New York: Leavitt, Lord, 1837) | have-ocr | IA `elementsofpoliti01wayl` |
+| The Elements of Intellectual Philosophy (Boston: Phillips, Sampson, 1854) | have-ocr | IA `elementsofintell00wayl_0` |
+| The Limitations of Human Responsibility (Boston: Gould, Kendall & Lincoln, 1838) | have-ocr | IA `limitationsofhum00wayluoft` |
+| University Sermons (Boston: Gould, Kendall & Lincoln, 1849) | have-ocr | IA `universitysermon00wayl` |
+| Notes on the Principles and Practices of Baptist Churches (New York: Sheldon, Blakeman, 1857) | have-ocr | IA `notesonprinciple00wayl` |
+| Sermons to the Churches (New York: Sheldon, Blakeman, 1859) | have-ocr | IA `sermonstochurche00wayl` |
+| Salvation by Christ (Boston: Gould & Lincoln, 1859) | have-ocr | IA `salvationbychri00wayl` |
+| Letters on the Ministry of the Gospel (Boston: Gould & Lincoln, 1863) | have-ocr | IA `lettersonminis00wayl` |
+| A Memoir of the Life and Labors of the Rev. Adoniram Judson, vol. 1 (Boston: Phillips, Sampson, 1853) | have-ocr | IA `memoiroflifela01wayl` |
+| A Memoir of the Life and Labors of the Rev. Adoniram Judson, vol. 2 (Boston: Phillips, Sampson; entered 1853) | have-ocr | IA `memoiroflifela02wayl` |
+| Domestic Slavery Considered as a Scriptural Institution, correspondence of Richard Fuller and Francis Wayland (New York: Lewis Colby, 1845) | have-ocr | IA `domesticslaveryc00full` |
+
+## Adam Clarke (round 15, my pick, 2026-10-10)
+
+Slugs `aclarke-*`. The Commentary set is mixed: OT vol. 4 is 1843, the rest 1846. Christian Theology (1840) is Samuel Dunn's selection.
+
+| Work | Status | Where |
+|---|---|---|
+| Entire Sanctification (CCEL) | have-clean | CCEL c/clarke/entire_sanct |
+| Commentary: Old Testament vol. 1, Genesis-Deuteronomy (New York: G. Lane & C. B. Tippett, 1846) | have-ocr | IA `holybiblecontain184601clar` |
+| Commentary: Old Testament vol. 2, Joshua-Esther (New York: Lane & Tippett, 1846) | have-ocr | IA `holybiblecontai184602clar` |
+| Commentary: Old Testament vol. 3, Job-Song of Solomon (New York: Lane & Tippett, 1846) | have-ocr | IA `holybiblecontai184603clar` |
+| Commentary: Old Testament vol. 4, Isaiah-Malachi (New York: G. Lane & P. P. Sandford, 1843) | have-ocr | IA `holybiblecontain184604clar` |
+| Commentary: New Testament vol. 1, Matthew-Acts (New York: Lane & Tippett, 1846) | have-ocr | IA `newtestamentofou01clar` |
+| Commentary: New Testament vol. 2, Romans-Revelation (New York: Lane & Tippett, 1846) | have-ocr | IA `newtestamentofo02clar` |
+| Christian Theology, selected and arranged with a life of the author by Samuel Dunn (New York: T. Mason & G. Lane, 1840) | have-ocr | IA `christiantheolog00clar` |
+| Discourses on Various Subjects, vol. 1, third edition (New York: M'Elrath & Bangs, 1830) | have-ocr | IA `discoursesonvari01clar` |
+| Discourses on Various Subjects, vol. 2, third edition (New York: M'Elrath & Bangs, 1831) | have-ocr | IA `discoursesonvari02clar` |
+| Discourses on Various Subjects, vol. 3, third edition (New York: M'Elrath & Bangs, 1831) | have-ocr | IA `discoursesonvari03clar` |
+| A Discourse on the Nature, Design, and Institution of the Holy Eucharist, with his smaller tracts (New York, 1812) | have-ocr | IA `discourseonnatur00clar` |
+| Clavis Biblica, in The Preacher's Manual (New York: N. Bangs & T. Mason; no year on the title page, catalogued 1821) | have-ocr | IA `preachersmanuali00clar` |
+| Memoirs of the Wesley Family (New York: N. Bangs & T. Mason, 1824) | have-ocr | IA `memoirsofwesleyf00clar_0` |
+| An Account of the Religious and Literary Life of Adam Clarke, ed. J. B. B. Clarke (New York: T. Mason & G. Lane, 1837) | have-ocr | IA `accountofreligio00clar` |
+
+## William Burt Pope (round 15, my pick, 2026-10-10)
+
+Slugs `wbpope-*`. Compendium vol. 2's title page OCR reads 1877, against 1879 for vols. 1 and 3.
+
+| Work | Status | Where |
+|---|---|---|
+| A Compendium of Christian Theology, second edition, vol. 1 (London: Wesleyan Conference Office, 1879) | have-ocr | IA `compendiumofchri01pope` |
+| A Compendium of Christian Theology, second edition, vol. 2 (London: Wesleyan Conference Office; title page OCR reads 1877, against 1879 for vols. 1 and 3) | have-ocr | IA `compendiumofchri02pope` |
+| A Compendium of Christian Theology, second edition, vol. 3 (London: Wesleyan Conference Office, 1879) | have-ocr | IA `compendiumofchri03pope` |
+| The Person of Christ: Dogmatic, Scriptural, Historical, the Fernley Lecture of 1871, second edition (London: Wesleyan Conference Office, 1875) | have-ocr | IA `personofchristdo00pope` |
+| The Prayers of St. Paul (London: Wesleyan Conference Office, 1876) | have-ocr | IA `prayersofstpaulb00pope` |
+| A Higher Catechism of Theology (London: T. Woolmer, 1883) | have-ocr | IA `highercatechismo00pope_0` |
+| The Inward Witness and Other Discourses (London: T. Woolmer, 1885) | have-ocr | IA `inwardwitnessan00popegoog` |
+| the one-volume first edition (London, 1875; IA compendiumofchri0000wbpo, a "0000"-style id): superseded by the enlarged second edition | alternate | not shelved |
+
+## Martin Luther (in English) (round 15, my pick, 2026-10-10)
+
+Slugs `luther-*`. Translations printed before 1930 only; each translator read on the title page, and four are machine-checked against the text (Hazlitt, Gillett, Cole, Buchheim). Works of Martin Luther vols. 3-6 (1930-32) are left out under the current fetcher gate.
+
+| Work | Status | Where |
+|---|---|---|
+| First Principles of the Reformation, ed. Henry Wace and C. A. Buchheim (London, 1883) | have-clean | CCEL l/luther/first_prin |
+| The Table-Talk of Martin Luther, tr. William Hazlitt (CCEL: Philadelphia, Lutheran Publication Society, no year) | have-clean | CCEL l/luther/tabletalk |
+| The Epistles of St. Peter and St. Jude Preached and Explained, tr. E. H. Gillett (New York: Randolph, 1859) | have-clean | CCEL l/luther/stpeter_stjude |
+| Works of Martin Luther, with Introductions and Notes, vol. 1 (Philadelphia: A. J. Holman, 1915) | have-clean | Gutenberg 31604 |
+| Works of Martin Luther, with Introductions and Notes, vol. 2 (Philadelphia: A. J. Holman, 1916) | have-clean | Gutenberg 34904 |
+| Epistle Sermons, vol. 2, tr. J. N. Lenker (Minneapolis: The Luther Press, 1909) | have-clean | Gutenberg 28464 |
+| Epistle Sermons, vol. 3, tr. J. N. Lenker (Minneapolis: The Luther Press, 1909) | have-clean | Gutenberg 30619 |
+| Commentary on Genesis, vol. 1, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, 1904) | have-clean | Gutenberg 48193 |
+| Commentary on Genesis, vol. 2, tr. J. N. Lenker (Minneapolis: The Luther Press, 1910) | have-clean | Gutenberg 27978 |
+| A Commentary on St. Paul's Epistle to the Galatians, the 16th-century English version, with Middleton's Life of Luther, new edition corrected and revised (London: B. Blake, 1839) | have-ocr | IA `commentaryonst00luth` |
+| Martin Luther on the Bondage of the Will, tr. Henry Cole (London: Simpkin & Marshall, 1823) | have-ocr | IA `bondagewill00colegoog` |
+| Precious and Sacred Writings vol. 10: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, 1905) | have-ocr | IA `precioussacredwr10luth` |
+| Precious and Sacred Writings vol. 11: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, 1906) | have-ocr | IA `precioussacredwr11luth` |
+| Precious and Sacred Writings vol. 12: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, 1907) | have-ocr | IA `precioussacredwr12luth` |
+| Precious and Sacred Writings vol. 13: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, copyright 1904) | have-ocr | IA `precioussacredwr13luth` |
+| Precious and Sacred Writings vol. 14: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, copyright 1905) | have-ocr | IA `precioussacredwr14luth` |
+| Table-Talk, tr. Hazlitt, Bohn new edition 1857 (IA tabletalkofmarti00luth): the dated printed witness for the CCEL text | alternate | not shelved |
+| The Bondage of the Will, tr. E. T. Vaughan (London: Hamilton, 1823; IA martinlutheronth00luthuoft): the other 1823 translation | alternate | not shelved |
+| Galatians (London: Mathews & Leigh, 1810; IA commentaryonstpa00luthuoft) | alternate | not shelved |
+| CCEL good_works and PG 418: the Treatise on Good Works from Works vol. 1 (1915), already on this shelf | alternate | not shelved |
+| CCEL galatians and PG 1549: Graebner's 1939 abridgment | excluded | |
+| CCEL bondage: Atherton's 1931 revision of Cole | excluded | |
+| CCEL sermons: keyed from a Baker reprint of Lenker | excluded | |
+| Works of Martin Luther vols. 3-6 (1930-32), and PG 272 and PG 1670 (modern translations) | excluded | |
+
+## William Symington (round 15, my pick, 2026-10-10)
+
+Slugs `symington-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| Messiah the Prince: or, The Mediatorial Dominion of Jesus Christ, with a memoir (London, Edinburgh and New York: T. Nelson, 1881) | have-ocr | IA `messiahtheprince00symiuoft` |
+| On the Atonement and Intercession of Jesus Christ, second edition (Edinburgh: William Whyte, MDCCCXXXIV) | have-ocr | IA `onatonementinter00symi_1` |
+| Messiah the Prince, 2nd ed. (Edinburgh: Johnstone, catalogued 1840; IA messiahprinceorm00symi_1): noisy front matter | alternate | not shelved |
+| On the Atonement, 3rd American ed. (New York: Carter, 1847; IA onatonementinter00symi) | alternate | not shelved |
+
+## John Dick (round 15, my pick, 2026-10-10)
+
+Slugs `jdick-*`. Lectures on Theology vols. 3-4 sit under misleading IA ids (sermonspreached03crai, 04crai); their title pages read Dick's Lectures.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on the Acts of the Apostles, second edition (New York: Robert Carter, 1857) | have-clean | CCEL d/dick_j/acts |
+| Lectures on Theology, vol. 1 (Edinburgh: William Oliphant, MDCCCXXXIV) | have-ocr | IA `lecturesontheol01dick` |
+| Lectures on Theology, vol. 2 (Edinburgh: William Oliphant, MDCCCXXXIV) | have-ocr | IA `lecturesontheol02dick` |
+| Lectures on Theology, vol. 3 (Edinburgh: William Oliphant, MDCCCXXXIV; the IA identifier is misleading) | have-ocr | IA `sermonspreached03crai` |
+| Lectures on Theology, vol. 4 (Edinburgh: William Oliphant, MDCCCXXXIV; the IA identifier is misleading) | have-ocr | IA `sermonspreached04crai` |
+| An Essay on the Inspiration of the Holy Scriptures, first American from the second English edition, with W. Parry's essay (Boston: Lincoln & Edmands, 1811) | have-ocr | IA `anessayoninspir00parrgoog` |
+| the Edinburgh first edition (Ritchie, 1800; IA anessayoninspir00dickgoog): long-s OCR | alternate | not shelved |
+
+## F. W. Krummacher (in English) (round 15, my pick, 2026-10-10)
+
+Slugs `fwkrummacher-*`. Not F. A. Krummacher (the Parables) or G. D. Krummacher; three of the six name no translator.
+
+| Work | Status | Where |
+|---|---|---|
+| Elijah the Tishbite (London, Edinburgh and New York: T. Nelson, 1869; translator not named) | have-ocr | IA `elijahtishbite00krum` |
+| The Suffering Saviour, tr. Samuel Jackson, second edition revised (Edinburgh: T. & T. Clark, MDCCCLVI) | have-ocr | IA `sufferingsaviour00krum` |
+| The Risen Redeemer, tr. John T. Betts (New York: Robert Carter, 1863) | have-ocr | IA `risenredeemergos00krum` |
+| The Martyr Lamb, fifth edition (New York: Robert Carter, 1845; translator not named) | have-ocr | IA `martyrlamborchri00krum` |
+| The Dew of Israel and the Lily of God (New York: Robert Carter, 1840, from the second London edition; translator not named) | have-ocr | IA `dewofisraellily00krum` |
+| Friedrich Wilhelm Krummacher: An Autobiography, ed. his daughter, tr. M. G. Easton (Edinburgh: T. & T. Clark, MDCCCLXIX) | have-ocr | IA `friedrichwilhelm00krum` |
+| Elisha (no imprint or year; catalogued 1840; IA elisha0000fwkr_p7n0): a weak witness | alternate | not shelved |
+
+## E. W. Hengstenberg (in English) (round 15, my pick, 2026-10-10)
+
+Slugs `hengstenberg-*`. The Fairbairn shelf leaves these translations out as other men's books; this is their home.
+
+| Work | Status | Where |
+|---|---|---|
+| Christology of the Old Testament, vol. 1, tr. Theodore Meyer, second edition (Edinburgh: T. & T. Clark, MDCCCLXVIII) | have-ocr | IA `christologyofold01heng` |
+| Christology of the Old Testament, vol. 2, tr. Theodore Meyer (Edinburgh: T. & T. Clark, 1861) | have-ocr | IA `christologyofold02heng` |
+| Christology of the Old Testament, vol. 3, tr. James Martin (Edinburgh: T. & T. Clark, MDCCCLXIV) | have-ocr | IA `christologyofold03heng` |
+| Christology of the Old Testament, vol. 4, tr. James Martin (Edinburgh: T. & T. Clark, MDCCCLXV) | have-ocr | IA `christologyofold04heng` |
+| Commentary on the Psalms, vol. 1, fourth edition (Edinburgh: T. & T. Clark, 1863; translator not named on this title page) | have-ocr | IA `commentaryonpsal186301heng` |
+| Commentary on the Psalms, vol. 2, tr. John Thomson and Patrick Fairbairn (Edinburgh: T. & T. Clark, 1864) | have-ocr | IA `commentaryonpsal186402heng` |
+| Commentary on the Psalms, vol. 3, tr. John Thomson and Patrick Fairbairn (Edinburgh: T. & T. Clark, 1864) | have-ocr | IA `commentaryonpsal186403heng` |
+| The Revelation of St John Expounded, vol. 1, tr. Patrick Fairbairn (Edinburgh: T. & T. Clark, 1851) | have-ocr | IA `revelationstjoh01fairgoog` |
+| The Revelation of St John Expounded, vol. 2, tr. Patrick Fairbairn (Edinburgh: T. & T. Clark, 1852) | have-ocr | IA `revelationstjoh00fairgoog` |
+| Commentary on Ecclesiastes, with Other Treatises, tr. D. W. Simon (Philadelphia: Smith, English, 1860) | have-ocr | IA `commentaryoneccl00heng` |
+| Egypt and the Books of Moses, tr. R. D. C. Robbins (Andover: Allen, Morrill & Wardwell, 1843); the translator's name OCRs as "J^BBINS", so it is not machine-checked | have-ocr | IA `egyptbooksofmose00heng` |
+| Commentary on the Gospel of St John, vol. 1 (Edinburgh: T. & T. Clark, 1865; translator not named) | have-ocr | IA `commentaryongosp01heng` |
+| Commentary on the Gospel of St John, vol. 2 (Edinburgh: T. & T. Clark, 1865; translator not named) | have-ocr | IA `commentaryongosp02heng` |
+| Gutenberg 30410 and 30608: Christology vols. 1-2 only; the IA set is complete | alternate | not shelved |
+
+## August Neander (in English) (round 15, my pick, 2026-10-10)
+
+Slugs `neander-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| The Life of Jesus Christ in Its Historical Connexion, tr. John M'Clintock and Charles E. Blumenthal (New York: Harper, 1870) | have-clean | CCEL n/neander_a/life |
+| Light in the Dark Places (New York: Lane & Scott, 1851; translator not named) | have-clean | CCEL n/neander_a/light |
+| The Epistle to the Philippians Practically Explained, tr. Mrs H. C. Conant (New York: Lewis Colby, 1853) | have-clean | CCEL n/neander_a/expo_phil |
+| The Epistle of James Practically Explained, tr. Mrs H. C. Conant (New York: Lewis Colby, 1853) | have-clean | CCEL n/neander_a/expo_james |
+| The First Epistle of John Practically Explained, tr. Mrs H. C. Conant (New York: Lewis Colby, 1853) | have-clean | CCEL n/neander_a/expo_1john |
+| General History of the Christian Religion and Church, vol. 1, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871) | have-ocr | IA `generalhistoryof187101nean` |
+| General History of the Christian Religion and Church, vol. 2, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871) | have-ocr | IA `generalhistoryof187102nean` |
+| General History of the Christian Religion and Church, vol. 3, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871) | have-ocr | IA `generalhistoryof187103nean` |
+| General History of the Christian Religion and Church, vol. 4, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871) | have-ocr | IA `generalhistoryof187104nean` |
+| General History of the Christian Religion and Church, vol. 5, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871) | have-ocr | IA `generalhistoryof187105nean` |
+| History of the Planting and Training of the Christian Church by the Apostles, tr. J. E. Ryland, rev. E. G. Robinson (New York: Sheldon; Boston: Gould & Lincoln; entered 1864) | have-ocr | IA `historyofplantin1864nean` |
+| Planting, Bohn 1851, 2 vols (IA historyofplanting01nean, 02nean): title pages not read | alternate | not shelved |
+| Index to Neander's General History by Thomas Clayton (Houghton, Mifflin, 1881; IA generalhistoryof00nean): Clayton's index, not Neander's text | alternate | not shelved |
+
+## August Tholuck (in English) (round 15, my pick, 2026-10-10)
+
+Slugs `tholuck-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| Guido and Julius; or, Sin and the Propitiator, tr. Jonathan Edwards Ryland (Boston: Gould & Lincoln, 1854) | have-ocr | IA `guidojuliusorsin00thol` |
+| Commentary on the Gospel of St. John, tr. A. Kaufman, second edition (New York: Saxton & Miles, 1842) | have-ocr | IA `commentaryongosp0000thol` |
+| Exposition of St Paul's Epistle to the Romans, vol. 1, tr. Robert Menzies, Biblical Cabinet V (Edinburgh: Thomas Clark, 1833) | have-ocr | IA `expositionofstpa05thol` |
+| Exposition of St Paul's Epistle to the Romans, vol. 2, tr. Robert Menzies, Biblical Cabinet XII (Edinburgh: Thomas Clark, 1836) | have-ocr | IA `expositionofstpa12thol` |
+| Exposition of Christ's Sermon on the Mount, vol. 1, tr. Robert Menzies, Biblical Cabinet VI (Edinburgh: Thomas Clark, 1834); the translator's name OCRs as MENZIE8, so it is not machine-checked | have-ocr | IA `expositiondoctri06thol` |
+| Exposition of Christ's Sermon on the Mount, vol. 2, tr. Robert Menzies, Biblical Cabinet XX (Edinburgh: Thomas Clark, MDCCCXXXVII) | have-ocr | IA `expositiondoctri20thol` |
+| A Commentary on the Epistle to the Hebrews, vol. 1, tr. James Hamilton, Biblical Cabinet XXXVIII (Edinburgh: Thomas Clark, 1842) | have-ocr | IA `acommentaryonep02rylagoog` |
+| A Commentary on the Epistle to the Hebrews, vol. 2, tr. James Hamilton, Biblical Cabinet XXXIX (Edinburgh: Thomas Clark, 1842) | have-ocr | IA `acommentaryonep00rylagoog` |
+| Light from the Cross: Sermons on the Passion (Philadelphia: W. S. & A. Martien, 1858; translator not named) | have-ocr | IA `lightfromcross00thol` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
@@ -2496,6 +2729,7 @@ Shelf: `pipeline/ovid_shelf.json`. No single PD translator covers all of Ovid, s
 | The Epistles (Heroides) | translators not named (1813) | `ovid-perseus-1813-epistles` | have (Perseus TEI `phi0959.phi002.perseus-eng2`; markup CC BY-SA 4.0) |
 | The Art of Love, and Other Poems: On Painting the Face, Ars Amatoria, Remedia Amoris, Nux, Ibis, Halieuticon, Consolatio ad Liviam (Loeb; London: Heinemann, New York: Putnam, MCMXXIX; Latin facing) | J. H. Mozley | `ovid-mozley-art-of-love-1929` | have-raw (IA `ovidartofloveoth0000unse`) |
 | The Metamorphoses of Publius Ovidius Naso translated in English blank verse (Blackwood, MDCCCLXXI) | Henry King | `ovid-king-metamorphoses-1871` | have-raw (IA `metamorphosesofp00ovid`) |
+| Poems and Translations, including the first four books of Ovid's Fasti, with the ancient Roman calendar (Liverpool: William Forshaw, 1839); the volume also holds Taylor's own poems | John Taylor | `ovid-taylor-fasti-1839` | have-raw (IA `poemstranslation00tayluoft`) |
 
 Excluded: PG 21920, *The Last Poems of Ovid* (Akrigg, 2006), a COPYRIGHTED Gutenberg eBook. Later reprints of the two Riley Bohn volumes. Modern translations (Kline and others).
 
@@ -2549,6 +2783,7 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | The Eclogues and Georgics of Virgil (London: Dorrell and Son; undated title page; the preface is dated Kensington, 1866, and no later year appears; IA catalogue 1866) | John Benson Rose | `virgil-rose-eclogues-georgics` | have-raw (IA `ecloguesandgeor00rosegoog`) |
 | A Translation of Virgil's Eclogues into Rhythmic Prose, based on those in Professor Conington's edition (London: Longmans, Green, Reader, and Dyer, 1870) | E. M. Millington | `virgil-millington-eclogues-1870` | have-raw (IA `atranslationvir00marogoog`) |
 | A Translation of the First Book of the Georgics of Virgil, in Blank Verse, with notes critical and explanatory (London: W. Phillips, 1825) | Robert Hoblyn | `virgil-hoblyn-georgics-i-1825` | have-raw (IA `atranslationfir00marogoog`) |
+| The Eclogues of Virgil translated into English verse (printed for private distribution, 1868) | Henry Duncan Skrine | `virgil-skrine-eclogues-1868` | have-raw (IA `ecloguesofvirgil00vir`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
@@ -2621,6 +2856,8 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | The Odyssey of Homer, Books I-XII, translated into English verse, with notes and parallel passages (Edinburgh and London: William Blackwood and Sons, 1880) | Sir Charles Du Cane | `homer-du-cane-odyssey-1880` | have-raw (IA `odysseybooksixi00homegoog`) |
 | The Iliad of Homer in English Hexameter Verse (London: Longmans, Green, and Co.; title-page date partly legible as LXV, catalogue 1865) | J. Henry Dart | `homer-dart-iliad-1865` | have-raw (IA `cu31924026468441`) |
 | The Iliad of Homer, translated into English prose, edited with an introduction by Evelyn Abbott (London: Percival and Co., 1891) | John Purves | `homer-purves-iliad-1891` | have-raw (IA `iliadhomertrans00abbogoog`) |
+| The Hymns of Homer, translated into verse from the original Greek, with notes (Philadelphia: Mifflin and Parry, 1830) | Columbus C. Conwell | `homer-conwell-hymns-1830` | have-raw (IA `hymnshomertrans00conwgoog`) |
+| An English Translation of the First Eight Books of the Iliad of Homer (Belfast: H. Adair, 1869) | James Gilchrist | `homer-gilchrist-iliad-1869` | have-raw (IA `englishtranslati00home`) |
 
 Pending (wishlist): none known beyond the rows above.
 
@@ -2662,6 +2899,7 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | The Agamemnon of Aeschylus and the Bacchanals of Euripides, with passages from the lyric and later poets of Greece (Murray, 1865) | Henry Hart Milman | `aeschylus-milman-agamemnon-1865` | have-raw (IA `agamemnonofaesch00aescuoft`) |
 | The Agamemnon of Aeschylus, rendered into English verse (Nutt, 1907) | W. R. Paton | `aeschylus-paton-agamemnon-1907` | have-raw (IA `agamemnonofaesch01aesc`) |
 | Agamemnon, after the Greek of Aeschylus (Selwyn and Blount, 1920) | Locke Ellis | `aeschylus-ellis-agamemnon-1920` | have-raw (IA `agamemnonaftergr00aesciala`) |
+| The Seven Tragedies of Aeschylus, literally translated, with notes (Oxford: D. A. Talboys and J. Vincent, 1829) | anonymous (the title page names no translator) | `aeschylus-oxford-literal-1829` | have-raw (IA `seventragediess00aescgoog`) |
 
 Pending (wishlist): none here: Smyth's Loeb (1922-26) is on PR #7 as Perseus TEI.
 
@@ -2702,6 +2940,7 @@ Shelf: `pipeline/euripides_shelf.json`. Translator per title; complete in Way (v
 | The Alcestis of Euripides translated into English verse for the thirteenth annual rendition of the Classical Department (Beloit, Wis.: Ingersoll, 1898) | the Class of 1900 of Beloit College | `euripides-beloit-alcestis-1898` | have-raw (IA `alcestisofeuripi00euri_1`) |
 | Euripides' Alcestis translated, with introduction and notes by J. Churton Collins (Oxford: Clarendon Press, 1906) | H. Kynaston | `euripides-kynaston-alcestis-1906` | have-raw (IA `euripidesalcest00eurigoog`) |
 | The Bacchae and Heraclidae of Euripides, literally translated into English from the text of Dindorf, by a Member of the University of Oxford (London: Henry Washbourne, 1846) | anonymous ('a Member of the University of Oxford') | `euripides-oxford-member-bacchae-heraclidae-1846` | have-raw (IA `TheBacchaeAndHeraclidae`) |
+| The Ion of Euripides, now first translated into English in its original metres (London: Williams and Norgate, 1889) | H. B. L. | `euripides-hbl-ion-1889` | have-raw (IA `ionofeuripidesno00euriiala`) |
 
 Pending (wishlist): Way's 1912 Loeb (Greek facing). Potter's Euripides is held complete in the 1832 Valpy reprint (3 vols.). Wodhull's Euripides is held complete from the 1809 Greek Tragic Theatre (vols. 3-5).
 
@@ -2742,6 +2981,7 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | Sophocles, Oedipus Tyrannus, literally translated (Dublin; London: Simpkin, Marshall, 1865) | Roscoe Mongan | `sophocles-mongan-oedipus-tyrannus-1865` | have-raw (IA `sophoclesdipust00sophgoog`) |
 | Oedipus at Colonus, closely translated from the Greek of Sophocles: an experiment in metre (London: Simpkin, Marshall, Hamilton, Kent, 1894) | Arthur Compton Auchmuty Hull | `sophocles-hull-oedipus-coloneus-1894` | have-raw (IA `cu31924026593511`) |
 | The Antigone of Sophocles, translated with introduction and notes (Boston and New York: Houghton Mifflin; copyright 1899, this printing undated) | George Herbert Palmer | `sophocles-palmer-antigone-1899` | have-raw (IA `antigoneofsophoc0000geor_m2w3`) |
+| The Tragedies of Sophocles, translated, a new edition (London: N. Bliss, 1820) | Robert Potter | `sophocles-potter-1820` | have-raw (IA `tragediesofsopho00soph_0`) |
 
 Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 
@@ -2795,6 +3035,8 @@ Shelf: `pipeline/herodotus_shelf.json`. Macaulay complete across two shelves (vo
 | Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. III | William Beloe | `herodotus-beloe-1821-v3` | have-raw (IA `india.history.resource.86418`) |
 | Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. IV | William Beloe | `herodotus-beloe-1821-v4` | have-raw (IA `india.history.resource.86419`) |
 | Histories | A. D. Godley (1920-25; modernized by Perseus) | `herodotus-perseus-godley-histories` | have (Perseus TEI `tlg0016.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Nine Books of the History of Herodotus, translated from the text of Thomas Gaisford, with notes, vol. I (Oxford: Henry Slatter, 1827) | Peter Edmund Laurent | `herodotus-laurent-1827-v1` | have-raw (IA `ninebooksofhisto01herdiala`) |
+| The Nine Books of the History of Herodotus, vol. II (Oxford: Henry Slatter, 1827) | Peter Edmund Laurent | `herodotus-laurent-1827-v2` | have-raw (IA `ninebooksofhisto02herdiala`) |
 
 Pending (wishlist): none here: Godley's Loeb (1920-25) is on PR #7 as Perseus TEI.
 
@@ -3091,6 +3333,7 @@ Shelf: `pipeline/plutarch_shelf.json`. Translator per title. Lives complete thre
 | Tiberius and Caius Gracchus | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-tiberius-and-caius-gracchus` | have (Perseus TEI `tlg0007.tlg052.perseus-eng1`; markup CC BY-SA 4.0) |
 | Timoleon | Bernadotte Perrin (1918) | `plutarch-perseus-perrin-timoleon` | have (Perseus TEI `tlg0007.tlg018.perseus-eng2`; markup CC BY-SA 4.0) |
 | Titus Flamininus | Bernadotte Perrin (1921) | `plutarch-perseus-perrin-titus-flamininus` | have (Perseus TEI `tlg0007.tlg028.perseus-eng2`; markup CC BY-SA 4.0) |
+| Greek Lives from Plutarch, newly translated (London: Edward Arnold, 1907): Theseus, Lycurgus, Aristides, Themistocles, Pericles, Alcibiades, Dion, Demosthenes, Alexander | C. E. Byles | `plutarch-byles-greek-lives-1907` | have-raw (IA `greeklivesfrompl00plutuoft`) |
 
 Pending (wishlist): Philemon Holland's Morals (1603) is held above from the UC San Diego copy (OCR 0.90-0.92, old spelling); Babbitt's Moralia vols. 3 on (1931-) are after the 1930 line. Perrin's Lives are on PR #7 as Perseus TEI.
 
@@ -3111,6 +3354,9 @@ Shelf: `pipeline/marcus-aurelius_shelf.json`. Long (1862) and Chrystal (1902), c
 | The Meditations of Marcus Aurelius (Everyman's Library no. 9, intro. W. H. D. Rouse; first issue of this edition 1906, this scan the 1948 reprint) | Meric Casaubon | `marcus-aurelius-casaubon-everyman` | have-raw (IA `meditations00marcuoft`) |
 | The Emperor Marcus Antoninus his Conversation with Himself, with Gataker's preliminary discourse and Dacier's Life (London: Richard Sare, 1701) | Jeremy Collier | `marcus-aurelius-collier-1701` | have-raw (IA `emperormarcusant01marc`) |
 | The Meditations of Marcus Aurelius (Camelot Series; London: Walter Scott, 1887) | Jeremy Collier, revised by Alice Zimmern | `marcus-aurelius-collier-zimmern-1887` | have-raw (IA `meditationsmarc02collgoog`) |
+| Meditations of the Emperor Marcus Aurelius Antoninus, newly translated from the Greek, with notes and an account of his life, second edition, vol. I (Glasgow: Robert and Andrew Foulis, 1749) | anonymous (the title page names no translator) | `marcus-aurelius-foulis-1749-v1` | have-raw (IA `meditationsempe01gatagoog`) |
+| Meditations of the Emperor Marcus Aurelius Antoninus, vol. II (Glasgow: Robert and Andrew Foulis, 1749) | anonymous (the title page names no translator) | `marcus-aurelius-foulis-1749-v2` | have-raw (IA `meditationsempe02gatagoog`) |
+| The Meditations of Marcus Aurelius Antoninus, with the Manual of Epictetus and a Summary of Christian Morality, freely translated from the original Greek (London: Longman, Brown, Green and Longmans, 1844) | Henry M'Cormac | `marcus-aurelius-mccormac-1844` | have-raw (IA `meditationsmarc00arrigoog`) |
 
 Pending (wishlist): Haines's Loeb (1916; Greek facing).
 
@@ -3165,6 +3411,8 @@ Shelf: `pipeline/seneca_shelf.json`. Translator per title, all clean Gutenberg: 
 | The Epistles of Lucius Annaeus Seneca, with large annotations, vol. I (London: Woodfall for Robinson, MDCCLXXXVI) | Thomas Morell | `seneca-morell-epistles-1786-v1` | have-raw (IA `epistlesluciusa01senegoog`) |
 | The Epistles of Lucius Annaeus Seneca, with large annotations, vol. II (London: Woodfall for Robinson, MDCCLXXXVI) | Thomas Morell | `seneca-morell-epistles-1786-v2` | have-raw (IA `epistlesluciusa00senegoog`) |
 | The Ten Tragedies of Seneca, with notes, rendered into English prose as equivalently as the idioms of both languages permit (London: Swan Sonnenschein, 1902) | Watson Bradshaw | `seneca-bradshaw-tragedies-1902` | have-raw (IA `cu31924104730209`) |
+| The Satire of Seneca on the Apotheosis of Claudius, commonly called the Apocolocyntosis: a study (New York: Columbia University Press, 1902), Latin text with English translation | Allan Perley Ball | `seneca-ball-apocolocyntosis-1902` | have-raw (IA `SatireOfSenecaOnTheApotheosisOfClaudiusCommonlyCalledThe`) |
+| Seneca his Tenne Tragedies, translated into Englysh (London: Thomas Marsh, 1581; black-letter, Boston Public Library copy) | Thomas Newton (ed.), with Jasper Heywood, John Studley, Alexander Nevile, Thomas Nuce | `seneca-newton-tenne-tragedies-1581` | have-raw (IA `senecahistennetr00sene`) |
 
 Pending (wishlist): Basore's Moral Essays vols. 2-3 (1932-35, not PD).
 
@@ -3414,6 +3662,7 @@ Shelf: `pipeline/juvenal_shelf.json`. Evans's literal prose with Gifford's verse
 | A Translation of Juvenal and Persius into English verse, second edition, with a new translation of Persius instead of Dr. Brewster's (London: Rivington and others, MDCCLXXXVI) | Edward Owen | `juvenal-persius-owen-1786` | have-raw (IA `atranslationjuv00persgoog`) |
 | Juvenal and Persius literally translated for the use of students (London: Whittaker, Treacher, 1829) | William Smart | `juvenal-persius-smart-1829` | have-raw (IA `juvenalandpersi01persgoog`) |
 | The Satires of Juvenal and Persius literally translated (London: Sampson Low, 1848) | W. Wallace | `juvenal-persius-wallace-1848` | have-raw (IA `satiresjuvenala00persgoog`) |
+| A New Translation, with Notes, of the Third Satire of Juvenal, to which are added miscellaneous poems original and translated (New York: E. Sargeant, 1806) | anonymous (catalogue attribution: John Duer) | `juvenal-duer-third-satire-1806` | have-raw (IA `thirdsatirejuvenal00nonerich`) |
 
 
 ## Plautus and Terence
@@ -3435,6 +3684,7 @@ Shelf: `pipeline/roman-comedy_shelf.json`. Riley's complete Plautus (raw IA, 2 v
 | Terence, vol. 2 (Loeb, 1912) | John Sargeaunt | `terence-sargeaunt-v2` | have-raw (IA `terence00iijohn`) |
 | Terence's Comedies made English, with his life and some remarks at the end, eighth edition, revised by Dr. Echard and Sir R. L'Estrange (London: Knapton and others, MDCCXXXIII) | Laurence Echard | `terence-echard-1733` | have-raw (IA `terencescomedie00teregoog`) |
 | The Trinummus of T. Maccius Plautus translated into literal English, with notes (London: Simpkin, Marshall, 1883) | A. H. Evans | `plautus-evans-trinummus-1883` | have-raw (IA `trinnummustmacc00plaugoog`) |
+| Terence's Comedies, translated into English, together with the original Latin, with critical and explanatory notes, second edition, vol. I (London: R. Ware and others, 1755) | Thomas Cooke | `terence-cooke-1755-v1` | have-raw (IA `comediestranslat01tere`) |
 
 Pending (wishlist): Thornton's verse Plautus (1767-74), from a cleaner scan than the ECCO OCR (0.65-0.70), which was refused.
 
@@ -3466,6 +3716,7 @@ Shelf: `pipeline/apuleius_shelf.json`. Adlington's Golden Asse (1566) and Butler
 | The Metamorphoses or Golden Ass of Apuleius of Madaura, vol. 1 (Oxford, 1910) | H. E. Butler | `apuleius-butler-v1` | have-raw (IA `metamorphosesorg01apuluoft`) |
 | The Metamorphoses or Golden Ass of Apuleius of Madaura, vol. 2 (Oxford, 1910) | H. E. Butler | `apuleius-butler-v2` | have-raw (IA `metamorphosesorg02apuluoft`) |
 | The Metamorphosis, or Golden Ass, and Philosophical Works, of Apuleius, translated from the original Latin (London: Triphook and Rodd, 1822) | Thomas Taylor | `apuleius-taylor-1822` | have-raw (IA `metamorphosisor00apulgoog`) |
+| The Works of Apuleius, a new translation: the Metamorphoses or Golden Ass, the God of Socrates, the Florida and the Defence, with a metrical Cupid and Psyche and Mrs. Tighe's Psyche (London: G. Bell, 1914, reprinted from stereotype plates) | anonymous (Bohn's Classical Library; the title page names no translator) | `apuleius-bohn-works-1914` | have-raw (IA `worksofapuleiusn00apul`) |
 
 Pending (wishlist): none known.
 
@@ -3551,6 +3802,7 @@ Shelf: `pipeline/lucian_shelf.json`. The Fowlers' Works (1905), 4 vols., complet
 | The Works of Lucian, from the Greek (London: T. Cadell, 1780), vol. 2 | Thomas Francklin | `lucian-francklin-1780-v2` | have-raw (IA `worksoflucian02luci`) |
 | Lucian of Samosata, from the Greek, with the comments and illustrations of Wieland and others, vol. I (London, 1820) | William Tooke | `lucian-tooke-1820-v1` | have-raw (IA `lucianofsamosata01luciuoft`) |
 | Lucian of Samosata, from the Greek, with the comments and illustrations of Wieland and others, vol. II (London, 1820) | William Tooke | `lucian-tooke-1820-v2` | have-raw (IA `lucianofsamosata02luciuoft`) |
+| Homeric Ballads and Comedies of Lucian (Miscellaneous Writings of the late Dr. Maginn, vol. IV; New York: Redfield, 1856) | William Maginn | `lucian-maginn-1856` | have-raw (IA `homericballadsan00homeuoft`) |
 
 Pending (wishlist): none for Francklin: his Works of Lucian (1780, 2 vols.) is held above. Harmon's Loeb vols. 5 on (1936-) are after the 1930 line.
 
@@ -3609,6 +3861,8 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | The Academics of Cicero (London: Macmillan, 1880) | James S. Reid | `cicero-reid-academics-1880` | have-raw (IA `academicscicero00cicegoog`) |
 | De Amicitia (On Friendship) (New York: The Century Co.; copyright 1897, this printing 1906) | Benjamin E. Smith | `cicero-smith-amicitia-1897` | have-raw (IA `deamicitiaonfrie00cice`) |
 | Death No Bane: a new translation, with copious illustrative notes, of Cicero's First Tusculan Disputation (London: Sampson Low, Marston, Searle and Rivington, 1889) | Robert Black | `cicero-black-tusculan-i-1889` | have-raw (IA `deathnobaneanew00blacgoog`) |
+| Select Orations of Cicero, translated into English, with notes historical, critical and explanatory (Oxford: J. Vincent for Thomas Tegg, 1841) | William Duncan | `cicero-duncan-select-orations-1841` | have-raw (IA `selectorationsc00cicegoog`) |
+| Select Letters of Cicero, literally translated (New York: Arthur Hinds, copyright 1891) | anonymous (the title page names no translator) | `cicero-select-letters-literal-1891` | have-raw (IA `selectlettersci01cicegoog`) |
 
 Pending (wishlist): King's Tusculans (Loeb 1927; only the 1945 revised printing has text, refused).
 
@@ -3733,6 +3987,8 @@ Shelf: `pipeline/pindar_shelf.json`. Myers (Gutenberg) and the Turner/Moore Bohn
 | The Odes of Pindar in English Prose, with West's Dissertation on the Olympic Games (Oxford: Munday and Slatter, 1824), 2 vols. in one scan | Peter Edmund Laurent per the catalogue (not named on the title page) | `pindar-laurent-prose-1824` | have-raw (IA `odespindarineng01pindgoog`) |
 | The Odes of Pindar translated into English Prose, with brief explanatory notes and a preface (London: Williams and Norgate, 1868) | F. A. Paley | `pindar-paley-1868` | have-raw (IA `bub_gb_z9lUAAAAcAAJ`) |
 | Pindar, translated (London: A. J. Valpy for Colburn and Bentley, 1830) | C. A. Wheelwright | `pindar-wheelwright-1830` | have-raw (IA `pindartrbycawhe00pindgoog`) |
+| Odes of Pindar, translated from the Greek, with notes and illustrations, vol. I (West's Dissertation on the Olympic Games) (London: Suttaby, Evance and Hutchings, 1810) | Gilbert West, R. B. Greene and H. J. Pye | `pindar-west-greene-pye-1810-v1` | have-raw (IA `bub_gb_DYwO8aCM97YC`) |
+| Odes of Pindar, translated from the Greek, with notes and illustrations, vol. II (the odes) (London: Suttaby, Evance and Hutchings, 1810) | Gilbert West, R. B. Greene and H. J. Pye | `pindar-west-greene-pye-1810-v2` | have-raw (IA `bub_gb_rkvNgCnbfGQC`) |
 
 Pending (wishlist): Sandys Loeb (1915; Greek facing)
 
@@ -3772,6 +4028,7 @@ Shelf: `pipeline/quintus-smyrnaeus_shelf.json`. Way's Fall of Troy (Gutenberg).
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Fall of Troy | Arthur S. Way | `quintus-smyrnaeus-way` | have (PG 658) |
+| Select Translations from the Greek of Quintus Smyrnaeus (Oxford: W. Baxter, 1821) | Alexander Dyce | `quintus-smyrnaeus-dyce-1821` | have-raw (IA `selecttranslatio00quin`) |
 
 ## Greek lyric and the Anthology
 
@@ -3787,6 +4044,9 @@ Shelf: `pipeline/greek-lyric_shelf.json`. Mackail, Wharton's Sappho, Moore's Ana
 | The Works of Anacreon, Sappho, Bion, Moschus and Musaeus, translated from the original Greek (London: J. Newbery; the imprint date is lost in the OCR, IA gives 1760) | Francis Fawkes | `anacreon-fawkes-1760` | have-raw (IA `worksofanacreons00fawkuoft`) |
 | The Odes of Anacreon translated from the Greek into English verse (London: B. Crosby, 1804) | Thomas Girdlestone | `anacreon-girdlestone-1804` | have-raw (IA `odesanacreontra00girdgoog`) |
 | Anacreon in English, attempted in the metres of the original (undated title page; the publisher's advertisements bound in quote notices of July 1868, the latest year in the book; IA gives 1869) | Thomas James Arnold | `anacreon-arnold-1869` | have-raw (IA `anacreoninengli00anacgoog`) |
+| Greek Anthology, with notes critical and explanatory (London: Nissen and Parker; undated, after 1857 by its preface) | Robert Guthrie MacGregor | `greek-anthology-macgregor` | have-raw (IA `greekanthologywi00macguoft`) |
+| Anacreon, Bion and Moschus, with other translations, first printed 1651, a new edition (London: Longman, 1815) | Thomas Stanley | `anacreon-stanley-1815` | have-raw (IA `anacreonbionmosc00bionuoft`) |
+| Collections from the Greek Anthology, and from the pastoral, elegiac and dramatic poets of Greece (London: John Murray, 1813) | Robert Bland and others | `greek-anthology-bland-1813` | have-raw (IA `collectionsfromg00blanuoft`) |
 
 Pending (wishlist): Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus/Aratus/Oppian (all Loebs, Greek facing). Callimachus, Aratus, Tryphiodorus and Musaeus in older translations are on the late-greek-poets shelf.
 
@@ -4241,6 +4501,7 @@ Shelf: `pipeline/phaedrus_shelf.json`. Riley's prose with Smart's verse (Gutenbe
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Fables of Phaedrus | Henry T. Riley (prose) and Christopher Smart (verse) | `phaedrus-riley-smart` | have (PG 25512) |
+| A Poetical Version of the Fables of Phaedrus, with an appendix of four fables by Gudius (preface dated January 1, 1854) | Frederick Toller | `phaedrus-toller-1854` | have-raw (IA `poeticalversiono00phae`) |
 
 ## Justin, Nepos, Eutropius, Florus, Velleius
 
@@ -4330,6 +4591,7 @@ Shelf: `pipeline/philostratus_shelf.json`. Berwick's Life of Apollonius (1809) a
 |---|---|---|---|
 | The Life of Apollonius of Tyana, translated from the Greek of Philostratus (London, 1809) | Edward Berwick | `philostratus-berwick-apollonius` | have-raw (IA `lifeofapollonius00phil`) |
 | Philostratus, In Honour of Apollonius of Tyana, vol. 1 (Oxford, 1912) | J. S. Phillimore | `philostratus-phillimore-apollonius-v1` | have-raw (IA `philostratusinho00philuoft`) |
+| A Life and Times of Apollonius of Tyana, rendered into English from the Greek of Philostratus the Elder (Stanford University Publications, 1923) | Charles P. Eells | `philostratus-eells-apollonius-1923` | have-raw (IA `lifetimesofapoll00phil`) |
 
 Pending (wishlist): Phillimore vol. 2 (1912; no scan found); the Lives of the Sophists and Imagines in a PD English version; Conybeare's Loeb (Greek facing).
 
@@ -4660,6 +4922,16 @@ Excluded: Fairbanks 1898 (Greek facing, OCR 0.73-0.77); Burnet's Early Greek Phi
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.
 
+
+## Arthur Ransome (outside the classical brief, at Adam's request)
+
+Shelf: `pipeline/ransome_shelf.json`. Ransome died in 1967, so nothing here is public domain in the UK until 2038. In the US each book frees on 1 January of its publication year + 96, so only book 1 is free today. Lane D (storytellers) may adopt the shelf. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Swallows and Amazons (Cape, 1930; scan is the 1946 impression) | Arthur Ransome | `ransome-swallows-and-amazons-1930` | have-raw (IA `swallows-and-amazons`), US-only PD |
+
+Pending (US public domain on 1 January of): Swallowdale 2027, Peter Duck 2028, Winter Holiday 2029, Coot Club 2030, Pigeon Post 2032, We Didn't Mean to Go to Sea 2033, Secret Water 2035, The Big Six 2036, Missee Lee 2037, The Picts and the Martyrs 2039, Great Northern? 2043.
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
@@ -5330,6 +5602,179 @@ Round 8, vetoable. Not converted to unit-id JSON; **no uids minted**.
 | `hearn-flaubert-temptation` | Flaubert | The Temptation of St. Anthony | Lafcadio Hearn | 1910 | have | PG 52225 |
 | — | — | pg-25053: Gutenberg 25053 is another Temptation of St. Antony with no translator named; not Hearn's. | — | — | excluded | — |
 | — | — | hearn-own-works: Kwaidan, Glimpses of Unfamiliar Japan etc.: Hearn's own books. | — | — | excluded | — |
+
+## C. K. Scott Moncrieff (Proust, Stendhal, Roland, Beowulf, Abelard)
+
+Shelf: `pipeline/scott-moncrieff_shelf.json` · fetch `python3 pipeline/fetch_shelf.py scott-moncrieff` · titles `python3 pipeline/split_shelf_titles.py scott-moncrieff`.
+Round 9 (2026-10-10), vetoable. Later Proust volumes and the Red and the Black wait for a pre-1931 scan. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `moncrieff-proust-swanns-way` | Proust | Swann's Way | C. K. Scott Moncrieff | 1922 | have | PG 7178 |
+| `moncrieff-proust-within-a-budding-grove` | Proust | Within a Budding Grove | C. K. Scott Moncrieff | 1924 | have | PG 63532 |
+| `moncrieff-proust-guermantes-way` | Proust | The Guermantes Way | C. K. Scott Moncrieff | 1925 | have | PG 73425 |
+| `moncrieff-song-of-roland` | anonymous (Old French) | The Song of Roland | C. K. Scott Moncrieff | 1919 | have | PG 391 |
+| `moncrieff-stendhal-charterhouse-of-parma` | Stendhal | The Charterhouse of Parma | C. K. Scott Moncrieff | 1925 | have | PG 66374 + PG 66375 |
+| `moncrieff-beowulf` | anonymous (Old English) | Widsith, Beowulf, Finnsburgh, Waldere, Deor | C. K. Scott Moncrieff | 1921 | have-raw | IA `widsithbeowulff00scotuoft` |
+| `moncrieff-stendhal-abbess-of-castro` | Stendhal | The Abbess of Castro and Other Tales | C. K. Scott Moncrieff | 1926 | have-raw | IA `abbessofcastro0000cksc` |
+| `moncrieff-abelard-and-heloise` | Abelard and Heloise | The Letters of Abelard and Heloise | C. K. Scott Moncrieff | 1925 | have-raw | IA `lettersofabelard0000abel` |
+| `moncrieff-stendhal-armance` | Stendhal | Armance | C. K. Scott Moncrieff | 1928 | have-raw | IA `armance0000sten` |
+| `moncrieff-proust-cities-of-the-plain` | — | 1927/1929: US PD, but the only open scans (citiesofplain0000prou_b6a6, dli.ernet.16336) are Chatto reprints of 1960 and 1971. | — | — | pending | — |
+| `moncrieff-proust-the-captive` | — | 1929: US PD, but captive00prourich is a Random House printing listing 1932 and 1947; dli.ernet.16281 is a 1957 Chatto reprint. | — | — | pending | — |
+| `moncrieff-proust-sweet-cheat-gone` | — | 1930: US PD since 2026, but every open scan is a 1957+ Random House or 1970 Vintage printing (copyright-renewal lines). | — | — | pending | — |
+| `moncrieff-pirandello-shoot` | — | 1926: shoot0000luig is the 1934 'Nobel Prize Edition'; shoot-luigi-pirandello is a Gutenberg-Australia text of unstated edition. | — | — | pending | — |
+| `moncrieff-pirandello-old-and-young` | — | 1928: only volume 2 is open (oldyoung02pira); volume 1 not found. | — | — | pending | — |
+| `moncrieff-lauzun` | — | Memoirs of the Duc de Lauzun (1928): translated jointly with Aldington and Rutherford; not checked. | — | — | pending | — |
+| `moncrieff-stendhal-red-and-black` | — | 1926: US PD. redblack0000mari_e9r8, _h6c2 and _z4c1 are all Modern Library printings by Random House (1931 or later; e9r8's back list carries Modern Library Giant numbers). redblack0000unse_p8m8 is the 1926 first printing but volume one only; volume two not found open. | — | — | pending | — |
+| — | — | moncrieff-past-recaptured: Time Regained / The Past Recaptured is Stephen Hudson's and Frederick Blossom's, not Scott Moncrieff's (he died in 1930). | — | — | excluded | — |
+
+## Arthur W. Ryder (Kalidasa, Little Clay Cart, Panchatantra, Gita)
+
+Shelf: `pipeline/ryder_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ryder` · titles `python3 pipeline/split_shelf_titles.py ryder`.
+Round 10 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ryder-kalidasa-shakuntala-and-other-works` | Kalidasa | Translations of Shakuntala and Other Works | Arthur W. Ryder | 1912 | have | PG 16659 |
+| `ryder-sudraka-little-clay-cart` | Sudraka | The Little Clay Cart | Arthur W. Ryder | 1905 | have | PG 21020 |
+| `ryder-twenty-two-goblins` | Sivadasa (Vetalapanchavimsati) | Twenty-Two Goblins | Arthur W. Ryder | 1917 | have | PG 2290 |
+| `ryder-panchatantra` | Panchatantra (anonymous) | The Panchatantra | Arthur W. Ryder | 1925 | have-raw | IA `panchatantra035159mbp` |
+| `ryder-bhagavad-gita` | Bhagavad-gita | The Bhagavad-gita | Arthur W. Ryder | 1929 | have-raw | IA `bhagavadgita0000unse_g1d6` |
+| `ryder-dandin-ten-princes` | — | 1927: US PD, but the only open scan (bwb_W7-BOY-629) is the third impression, 1960. | — | — | pending | — |
+| — | — | ryder-golds-gloom: Gold's Gloom (1925) is a selection from his Panchatantra, already shelved whole. | — | — | excluded | — |
+| — | — | pg-52309: A second Gutenberg Twenty-Two Goblins; 2290 is used. | — | — | excluded | — |
+
+## Gertrude Bell (Hafiz)
+
+Shelf: `pipeline/gertrude-bell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py gertrude-bell` · titles `python3 pipeline/split_shelf_titles.py gertrude-bell`.
+Round 10 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `bell-hafiz-divan` | Hafiz | Poems from the Divan of Hafiz | Gertrude Lowthian Bell | 1897 | have | PG 74883 |
+| — | — | bell-own-works: The Desert and the Sown, her letters: her own books. | — | — | excluded | — |
+
+## The Oscar Levy Nietzsche (Common, Zimmern, Ludovici and others)
+
+Shelf: `pipeline/levy-nietzsche_shelf.json` · fetch `python3 pipeline/fetch_shelf.py levy-nietzsche` · titles `python3 pipeline/split_shelf_titles.py levy-nietzsche`.
+Round 10 (2026-10-10), vetoable. Each title gates on its own translator. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `levy-nietzsche-zarathustra` | Nietzsche | Thus Spake Zarathustra | Thomas Common | 1909 | have | PG 1998 |
+| `levy-nietzsche-beyond-good-and-evil` | Nietzsche | Beyond Good and Evil | Helen Zimmern | 1907 | have | PG 4363 |
+| `levy-nietzsche-human-all-too-human-1` | Nietzsche | Human, All-Too-Human, Part I | Helen Zimmern | 1909 | have | PG 51935 |
+| `levy-nietzsche-human-all-too-human-2` | Nietzsche | Human, All-Too-Human, Part II | Paul V. Cohn | 1911 | have | PG 37841 |
+| `levy-nietzsche-dawn-of-day` | Nietzsche | The Dawn of Day | J. M. Kennedy | 1911 | have | PG 39955 |
+| `levy-nietzsche-joyful-wisdom` | Nietzsche | The Joyful Wisdom | Thomas Common (poetry by Paul V. Cohn and Maude Dominica Petre) | 1910 | have | PG 52881 |
+| `levy-nietzsche-genealogy-of-morals` | Nietzsche | The Genealogy of Morals | Horace B. Samuel (with J. M. Kennedy) | 1910 | have | PG 52319 |
+| `levy-nietzsche-birth-of-tragedy` | Nietzsche | The Birth of Tragedy | Wm. A. Haussmann | 1909 | have | PG 51356 |
+| `levy-nietzsche-thoughts-out-of-season-2` | Nietzsche | Thoughts Out of Season, Part II | Adrian Collins | 1909 | have | PG 38226 |
+| `levy-nietzsche-early-greek-philosophy` | Nietzsche | Early Greek Philosophy and Other Essays | Maximilian A. Mügge | 1911 | have | PG 51548 |
+| `levy-nietzsche-twilight-and-antichrist` | Nietzsche | The Twilight of the Idols; The Antichrist | Anthony M. Ludovici | 1911 | have | PG 52263 |
+| `levy-nietzsche-ecce-homo` | Nietzsche | Ecce Homo | Anthony M. Ludovici (poetry by Paul V. Cohn) | 1911 | have | PG 52190 |
+| `levy-nietzsche-case-of-wagner` | Nietzsche | The Case of Wagner, Nietzsche contra Wagner, Selected Aphorisms | Anthony M. Ludovici | 1911 | have | PG 25012 |
+| `levy-nietzsche-will-to-power-1` | Nietzsche | The Will to Power, Books I and II | Anthony M. Ludovici | 1909 | have | PG 52914 |
+| `levy-nietzsche-will-to-power-2` | Nietzsche | The Will to Power, Books III and IV | Anthony M. Ludovici | 1910 | have | PG 52915 |
+| `levy-nietzsche-missing-volumes` | — | Levy vols not on Gutenberg in this pass: Thoughts Out of Season I (Ludovici), Miscellaneous Aphorisms (Human All-Too-Human II), the Future of our Educational Institutions (Kennedy), Poems, Letters, the Index. Look on archive.org next round. | — | — | pending | — |
+| — | — | pg-52124: A second Gutenberg Joyful Wisdom from the same Levy volume; 52881 (Distributed Proofreaders) is used. | — | — | excluded | — |
+| — | — | pg-19322: Mencken's own Antichrist translation (1918), not Levy's; its front matter carries 1923-1924 dates; a separate translator. | — | — | excluded | — |
+| — | — | pg-38145: Alexander Harvey's 1908 Human, All Too Human selection, not Levy's. | — | — | excluded | — |
+| — | — | pg-19634: Another Beyond Good and Evil with no translator in the header; not checked. | — | — | excluded | — |
+
+## William Archer's Ibsen (Collected Works, 1906-12)
+
+Shelf: `pipeline/archer-ibsen_shelf.json` · fetch `python3 pipeline/fetch_shelf.py archer-ibsen` · titles `python3 pipeline/split_shelf_titles.py archer-ibsen`.
+Round 11 (2026-10-10), vetoable. One title per volume; vol. 12 pending. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `archer-ibsen-vol-01` | Ibsen | Collected Works, vol. 1: Lady Inger of Ostrat; The Feast at Solhoug; Love's Comedy | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1906 | have | PG 66060 |
+| `archer-ibsen-vol-02` | Ibsen | Collected Works, vol. 2: The Vikings at Helgeland; The Pretenders | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1906 | have | PG 66186 |
+| `archer-ibsen-vol-03` | Ibsen | Collected Works, vol. 3: Brand | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1906 | have | PG 66238 |
+| `archer-ibsen-vol-04` | Ibsen | Collected Works, vol. 4: Peer Gynt | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1906 | have | PG 66239 |
+| `archer-ibsen-vol-05` | Ibsen | Collected Works, vol. 5: Emperor and Galilean | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1906 | have | PG 66240 |
+| `archer-ibsen-vol-06` | Ibsen | Collected Works, vol. 6: The League of Youth; Pillars of Society | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1907 | have-raw | IA `collectedworksof06ibseiala` |
+| `archer-ibsen-vol-07` | Ibsen | Collected Works, vol. 7: A Doll's House; Ghosts | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1907 | have | PG 70566 |
+| `archer-ibsen-vol-08` | Ibsen | Collected Works, vol. 8: An Enemy of the People; The Wild Duck | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1907 | have | PG 70577 |
+| `archer-ibsen-vol-09` | Ibsen | Collected Works, vol. 9: Rosmersholm; The Lady from the Sea | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1907 | have-raw | IA `collectedworksof09ibseiala` |
+| `archer-ibsen-vol-10` | Ibsen | Collected Works, vol. 10: Hedda Gabler; The Master Builder | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1907 | have-raw | IA `collectedworkso10ibseuoft` |
+| `archer-ibsen-vol-11` | Ibsen | Collected Works, vol. 11: Little Eyolf; John Gabriel Borkman; When We Dead Awaken | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1907 | have | PG 74642 |
+| `archer-ibsen-vol-12` | — | From Ibsen's Workshop (A. G. Chater, 1912): collectedworkso12ibseuoft returned HTTP 500 on every try today; retry next round. | — | — | pending | — |
+| — | — | single-play-gutenberg-texts: PG 4093, 4070, 4782, 7942, 8121, 18428, 18792, 19018 are single plays from the same Archer edition; the volumes are used instead so nothing is held twice. | — | — | excluded | — |
+| — | — | sharp-everyman: R. Farquharson Sharp's Everyman Ibsen (PG 2446, 2467): another translator; A Doll's House in his version is on adler_shelf.json. | — | — | excluded | — |
+| — | — | marx-aveling-wild-duck: PG 73631: Eleanor Marx Aveling's translation; another translator. | — | — | excluded | — |
+
+## Magnússon and Morris (Icelandic sagas)
+
+Shelf: `pipeline/morris-magnusson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py morris-magnusson` · titles `python3 pipeline/split_shelf_titles.py morris-magnusson`.
+Rounds 12-13 (2026-10-10), vetoable. Includes the six-volume Saga Library. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `mm-volsunga-saga` | anonymous (Old Norse) | The Story of the Volsungs (Volsunga Saga), with excerpts from the Poetic Edda | Eiríkr Magnússon and William Morris | 1870 | have | PG 1152 |
+| `mm-grettir-the-strong` | anonymous (Old Norse) | The Story of Grettir the Strong | Eiríkr Magnússon and William Morris | 1869 | have | PG 12747 |
+| `mm-frithiof-the-bold` | anonymous (Old Norse) | The Story of Frithiof the Bold | Eiríkr Magnússon and William Morris | 1875 | have | PG 24420 |
+| `mm-saga-library-vol-1` | anonymous (Old Norse) | The Saga Library, vol. 1: The Story of Howard the Halt; The Banded Men; Hen Thorir | William Morris and Eiríkr Magnússon | 1891 | have-raw | IA `sagalibrarydonei01snoriala` |
+| `mm-saga-library-vol-2` | anonymous (Old Norse) | The Saga Library, vol. 2: The Story of the Ere-Dwellers (Eyrbyggja Saga), with The Heath-Slayings | William Morris and Eiríkr Magnússon | 1892 | have-raw | IA `sagalibrarydonei02snor` |
+| `mm-saga-library-vol-3` | Snorri Sturluson | The Saga Library, vol. 3: Heimskringla, vol. I | William Morris and Eiríkr Magnússon | 1893 | have-raw | IA `sagalibrarydonei03snor` |
+| `mm-saga-library-vol-4` | Snorri Sturluson | The Saga Library, vol. 4: Heimskringla, vol. II | William Morris and Eiríkr Magnússon | 1894 | have-raw | IA `sagalibrarydonei04snor` |
+| `mm-saga-library-vol-5` | Snorri Sturluson | The Saga Library, vol. 5: Heimskringla, vol. III | William Morris and Eiríkr Magnússon | 1895 | have-raw | IA `sagalibrary05snoruoft` |
+| `mm-saga-library-vol-6` | Snorri Sturluson | The Saga Library, vol. 6: Heimskringla, vol. IV (Magnússon's life of Snorri, notes and indexes) | Eiríkr Magnússon | 1905 | have-raw | IA `sagalibrarydonei06snor` |
+| `mm-three-northern-love-stories` | anonymous (Old Norse) | Three Northern Love Stories and Other Tales | Eiríkr Magnússon and William Morris | 1875 | have-raw | IA `threenorthernlo00morrgoog` |
+| — | — | pg-347: Another Grettir's Saga with no translator named (apparently G. A. Hight's 1914 Everyman version); not Magnússon and Morris. | — | — | excluded | — |
+| — | — | pg-48622: Baring-Gould's Grettir the Outlaw, his own retelling; on baring-gould_shelf.json. | — | — | excluded | — |
+| — | — | sagalibrary01snoruoft: Labelled vol. 1 on archive.org, but its title page reads Saga Library VOL. III (Heimskringla I); the cdl copy is used for vol. 3. | — | — | excluded | — |
+| — | — | heimskringla-laing: Laing's Heimskringla (a different translation) is on sturluson_shelf.json; the Saga Library Heimskringla here is Morris and Magnússon's, a second witness. | — | — | excluded | — |
+
+## Strindberg in English (Björkman, the Olands, Field, Schleussner)
+
+Shelf: `pipeline/strindberg-english_shelf.json` · fetch `python3 pipeline/fetch_shelf.py strindberg-english` · titles `python3 pipeline/split_shelf_titles.py strindberg-english`.
+Round 12 (2026-10-10), vetoable. Each title gates on its own translator. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `strindberg-bjorkman-plays-2` | Strindberg | Plays, second series: There Are Crimes and Crimes; Miss Julia; The Stronger; Creditors; Pariah | Edwin Björkman | 1913 | have | PG 14347 |
+| `strindberg-bjorkman-plays-3` | Strindberg | Plays, third series: Swanwhite; Simoom; Debit and Credit; Advent; The Thunderstorm; After the Fire | Edwin Björkman | 1913 | have | PG 44233 |
+| `strindberg-bjorkman-plays-4` | Strindberg | Plays, fourth series: The Bridal Crown; The Spook Sonata; The First Warning; Gustavus Vasa | Edwin Björkman | 1916 | have | PG 44302 |
+| `strindberg-bjorkman-master-olof` | Strindberg | Master Olof | Edwin Björkman | 1915 | have | PG 7363 |
+| `strindberg-oland-plays-1` | Strindberg | Plays: The Father; Countess Julie; The Outlaw; The Stronger | Edith and Warner Oland | 1912 | have | PG 8499 |
+| `strindberg-oland-plays-2` | Strindberg | Plays: Comrades; Facing Death; Pariah; Easter | Edith and Warner Oland | 1912 | have | PG 8500 |
+| `strindberg-field-inferno` | Strindberg | The Inferno | Claud Field | 1912 | have | PG 44108 |
+| `strindberg-field-son-of-a-servant` | Strindberg | The Son of a Servant | Claud Field | 1913 | have | PG 44109 |
+| `strindberg-field-zones-of-the-spirit` | Strindberg | Zones of the Spirit | Claud Field | 1913 | have | PG 44118 |
+| `strindberg-field-german-lieutenant` | Strindberg | The German Lieutenant and Other Stories | Claud Field | 1915 | have | PG 46107 |
+| `strindberg-field-historical-miniatures` | Strindberg | Historical Miniatures | Claud Field | 1913 | have | PG 7955 |
+| `strindberg-schleussner-red-room` | Strindberg | The Red Room | Ellie Schleussner | 1913 | have | PG 37039 |
+| `strindberg-schleussner-confession-of-a-fool` | Strindberg | The Confession of a Fool | Ellie Schleussner | 1912 | have | PG 44106 |
+| `strindberg-schleussner-in-midsummer-days` | Strindberg | In Midsummer Days and Other Tales | Ellie Schleussner | 1913 | have | PG 6694 |
+| `strindberg-bjorkman-plays-1` | Strindberg | Plays, first series: The Dream Play; The Link; The Dance of Death I and II | Edwin Björkman | 1912 | have-raw | IA `playsbyauguststr00stri` |
+| — | — | pg-4970: There Are Crimes and Crimes alone: the same Björkman text is in the second series (14347). | — | — | excluded | — |
+| — | — | pg-5053: Creditors and Pariah alone: the same Björkman text is in the second series. | — | — | excluded | — |
+| — | — | pg-8875: The Road to Damascus, tr. Graham Rawson: the text cites a 1937 production; Rawson's translation is of 1939. Not before 1931. | — | — | excluded | — |
+| — | — | pg-7956: Married (1913): no translator named. | — | — | excluded | — |
+| — | — | pg-46397: Legends (1912): no translator named. | — | — | excluded | — |
+
+## Marmaduke Pickthall (The Meaning of the Glorious Koran, 1930)
+
+Shelf: `pipeline/pickthall_shelf.json` · fetch `python3 pipeline/fetch_shelf.py pickthall` · titles `python3 pipeline/split_shelf_titles.py pickthall`.
+Round 13 (2026-10-10), vetoable. US public domain since 2026; gate override recorded. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `pickthall-meaning-of-the-glorious-koran` | The Quran | The Meaning of the Glorious Koran: An Explanatory Translation | Marmaduke Pickthall | 1930 | have-raw | IA `in.ernet.dli.2015.283503` |
+| — | — | dli.ministry.16944: The same sheets reissued under a George Allen & Unwin title page (Allen & Unwin took over Knopf's London list in 1931): a later issue; the Knopf issue is used. | — | — | excluded | — |
+
+## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
+
+Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
+2026-10-10, vetoable. His Swallows and Amazons is on Lane B's `ransome_shelf.json`, not here. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ransome-old-peters-russian-tales` | Russian folk tales, retold | Old Peter's Russian Tales | Arthur Ransome | 1916 | have | PG 16981 |
+| `ransome-gourmont-night-in-the-luxembourg` | Remy de Gourmont | A Night in the Luxembourg | Arthur Ransome | 1912 | have | PG 46766 |
+| — | — | ransome-own-books: Swallows and Amazons and the rest of the series: Ransome's own books, on Lane B's ransome_shelf.json. | — | — | excluded | — |
 # Storytellers
 
 ## Andrew Lang
@@ -6740,6 +7185,7 @@ Shelf: `pipeline/busk_shelf.json` (2026-10-02; added at the coordinator's relay 
 |---|---|---|
 | Patrañas; or, Spanish Stories, Legendary and Traditional (London: Griffith and Farran, 1870) | have | PG 45859, `busk-patranas` (1411 units) |
 | Roman Legends: A Collection of the Fables and Folk-lore of Rome | have | PG 48771, `busk-roman-legends` (3421 units) |
+| Household stories from the Land of Hofer; or, Popular Myths of Tirol | have | PG 44746, `busk-household-stories-from-the-land-of-hofer` (1849 units) |
 
 ## Wentworth Webster
 
@@ -8306,6 +8752,137 @@ Shelf: `pipeline/kalakaua_shelf.json` (2026-10-02; added at the coordinator's re
 | Work | Status | Where |
 |---|---|---|
 | The Legends and Myths of Hawaii | have | PG 56597, `kalakaua-legends-and-myths-of-hawaii` (2677 units) |
+
+## Sophie May
+
+Shelf: `pipeline/sophie-may_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Little Prudy books for small children; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Little Prudy | have | PG 24711, `smay-little-prudy` (921 units) |
+| Little Prudy's Sister Susy | have | PG 14202, `smay-little-prudys-sister-susy` (758 units) |
+| Captain Horace | have | PG 25484, `smay-little-prudys-captain-horace` (877 units) |
+| Little Prudy's Cousin Grace | have | PG 49686, `smay-little-prudys-cousin-grace` (780 units) |
+| Little Prudy's Dotty Dimple | have | PG 16390, `smay-little-prudys-dotty-dimple` (769 units) |
+| smay-little-prudys-captain-horace-2 | excluded | PG 53306, Little Prudy's Captain Horace in a later printing: the same book as PG 25484, which is kept; held once (2026-10-10). |
+
+## Jacob Abbott
+
+Shelf: `pipeline/jacob-abbott_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The first Rollo books; cut by story and section, or by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Rollo at Work | have | PG 25274, `jabbott-rollo-at-work` (968 units) |
+| Rollo at Play; Or, Safe Amusements | have | PG 11140, `jabbott-rollo-at-play` (939 units) |
+| Rollo's Experiments | have | PG 24993, `jabbott-rollos-experiments` (952 units) |
+| Rollo's Museum | have | PG 25548, `jabbott-rollos-museum` (1003 units) |
+| jabbott-rollo-in-the-woods | excluded | PG 19195, 'Rollo in the Woods': a short Rollo Story Books number whose text is 94% the same paragraphs as Rollo at Play (PG 11140), which is kept; held once (2026-10-10). |
+
+## Oliver Optic
+
+Shelf: `pipeline/oliver-optic_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Boat Club series, its first three books; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Boat Club; or, The Bunkers of Rippleton | have | PG 24557, `optic-the-boat-club` (2245 units) |
+| All Aboard; or, Life on the Lake | have | PG 15002, `optic-all-aboard` (1604 units) |
+| Now or Never; Or, The Adventures of Bobby Bright | have | PG 14762, `optic-now-or-never` (1614 units) |
+
+## James Cowan
+
+Shelf: `pipeline/james-cowan_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Maori legends of the Port Hills; cut by chapter and story. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Maori folk-tales of the Port Hills, Canterbury, New Zealand | have | PG 73766, `jcowan-maori-folk-tales-of-the-port-hills` (156 units) |
+
+## Kate McCosh Clark
+
+Shelf: `pipeline/kate-mccosh-clark_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). A New Zealand fairy tale drawing on Maori legend, with notes; cut by section. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Southern Cross fairy tale | have | PG 69782, `kmclark-southern-cross-fairy-tale` (441 units) |
+
+## C. Ranger-Gull (Guy Thorne)
+
+Shelf: `pipeline/ranger-gull_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Odyssey retold; cut by episode. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Adventures of Ulysses the Wanderer | have | PG 41935, `rgull-adventures-of-ulysses` (635 units) |
+
+## X.-B. Saintine (tr. M. Schele de Vere)
+
+Shelf: `pipeline/saintine_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Myths and legends of the Rhine, translated; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Myths of the Rhine | have | PG 44430, `saintine-myths-of-the-rhine` (1301 units) |
+
+## Charles Hardwick
+
+Shelf: `pipeline/hardwick_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Lancashire and northern folklore set beside its parallels; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Traditions, Superstitions and Folk-lore | have | PG 39934, `hardwick-traditions-superstitions-and-folk-lore` (1651 units) |
+
+## John Harland and T. T. Wilkinson
+
+Shelf: `pipeline/harland-wilkinson_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Lancashire superstitions, customs and legends; cut by section. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Lancashire Folk-lore | have | PG 41148, `harland-lancashire-folk-lore` (1507 units) |
+
+## Wilson Armistead
+
+Shelf: `pipeline/armistead_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Tales and legends of the Lake District; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Tales and Legends of the English Lakes | have | PG 42359, `armistead-tales-and-legends-of-the-english-lakes` (1064 units) |
+
+## Mrs. Burton Harrison
+
+Shelf: `pipeline/burton-harrison_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Fairy tales and romances of the Middle Ages; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Old-Fashioned Fairy Book | have | PG 37348, `bharrison-old-fashioned-fairy-book` (910 units) |
+
+## Toru Dutt
+
+Shelf: `pipeline/toru-dutt_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Indian legends in ballad form, with Gosse's memoir; cut by ballad and part. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Ancient Ballads and Legends of Hindustan | have | PG 23245, `tdutt-ancient-ballads-and-legends-of-hindustan` (364 units) |
+
+## R. Rice Davies
+
+Shelf: `pipeline/rice-davies_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Welsh tales, scenes and legends; cut by tale and chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Cambrian Sketch-Book: Tales, Scenes, and Legends of Wild Wales | have | PG 39539, `rdavies-cambrian-sketch-book` (1011 units) |
+
+## Mary H. Eastman
+
+Shelf: `pipeline/mary-eastman_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Dakota life and legends; cut by legend and chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Dahcotah: Life and Legends of the Sioux Around Fort Snelling | have | PG 10794, `meastman-dahcotah` (1184 units) |
+
+## James Napier
+
+Shelf: `pipeline/napier_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Superstitions of the West of Scotland; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Folk lore | have | PG 15792, `napier-folk-lore-west-of-scotland` (403 units) |
 
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 

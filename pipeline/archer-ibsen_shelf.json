@@ -1,0 +1,355 @@
+{
+ "_about": "TRANSLATOR SHELF: William Archer's Collected Works of Henrik Ibsen (Heinemann/Scribner Copyright Edition, 1906-1912), the standard English Ibsen. One title per volume (the plays inside are listed in 'work'; per-play cuts can come later). Vols 1-11 are shelved; vol 12 (From Ibsen's Workshop, Chater, 1912) is pending. All US public domain (pre-1931); UK: Archer died 1924, but co-translators Gosse (1928) and Herford (1931) mean UK status varies by play. A Doll's House in R. Farquharson Sharp's translation stays on adler_shelf.json; Archer's is a different translation, i.e. a different witness. Added 2026-10-10 by lane C (round 11); Adam may veto. No uids minted.",
+ "_name_words": [
+  "william archer"
+ ],
+ "_surname": [
+  "william archer"
+ ],
+ "_surname_note": "Never the bare 'archer' (an English word).",
+ "ccel": {},
+ "gutenberg": {
+  "archer-ibsen-v01": [
+   66060,
+   "The Collected Works of Henrik Ibsen"
+  ],
+  "archer-ibsen-v02": [
+   66186,
+   "The Collected Works of Henrik Ibsen"
+  ],
+  "archer-ibsen-v03": [
+   66238,
+   "The Collected Works of Henrik Ibsen"
+  ],
+  "archer-ibsen-v04": [
+   66239,
+   "The Collected Works of Henrik Ibsen"
+  ],
+  "archer-ibsen-v05": [
+   66240,
+   "The Collected Works of Henrik Ibsen"
+  ],
+  "archer-ibsen-v07": [
+   70566,
+   "The Collected Works of Henrik Ibsen"
+  ],
+  "archer-ibsen-v08": [
+   70577,
+   "The Collected Works of Henrik Ibsen"
+  ],
+  "archer-ibsen-v11": [
+   74642,
+   "The Collected Works of Henrik Ibsen"
+  ]
+ },
+ "internet_archive": {
+  "archer-ibsen-v06": [
+   "collectedworksof06ibseiala",
+   "The Collected Works of Henrik Ibsen"
+  ],
+  "archer-ibsen-v09": [
+   "collectedworksof09ibseiala",
+   "The Collected Works of Henrik Ibsen"
+  ],
+  "archer-ibsen-v10": [
+   "collectedworkso10ibseuoft",
+   "The Collected Works of Henrik Ibsen"
+  ]
+ },
+ "titles": {
+  "archer-ibsen-vol-01": {
+   "source": "archer-ibsen-v01",
+   "of": "Ibsen",
+   "work": "Collected Works, vol. 1: Lady Inger of Ostrat; The Feast at Solhoug; Love's Comedy",
+   "translated": 1906,
+   "translator": "William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse)",
+   "scan_edition": "Project Gutenberg 66060 (clean text, from the Heinemann/Scribner Copyright Edition)"
+  },
+  "archer-ibsen-vol-02": {
+   "source": "archer-ibsen-v02",
+   "of": "Ibsen",
+   "work": "Collected Works, vol. 2: The Vikings at Helgeland; The Pretenders",
+   "translated": 1906,
+   "translator": "William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse)",
+   "scan_edition": "Project Gutenberg 66186 (clean text, from the Heinemann/Scribner Copyright Edition)"
+  },
+  "archer-ibsen-vol-03": {
+   "source": "archer-ibsen-v03",
+   "of": "Ibsen",
+   "work": "Collected Works, vol. 3: Brand",
+   "translated": 1906,
+   "translator": "William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse)",
+   "scan_edition": "Project Gutenberg 66238 (clean text, from the Heinemann/Scribner Copyright Edition)"
+  },
+  "archer-ibsen-vol-04": {
+   "source": "archer-ibsen-v04",
+   "of": "Ibsen",
+   "work": "Collected Works, vol. 4: Peer Gynt",
+   "translated": 1906,
+   "translator": "William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse)",
+   "scan_edition": "Project Gutenberg 66239 (clean text, from the Heinemann/Scribner Copyright Edition)"
+  },
+  "archer-ibsen-vol-05": {
+   "source": "archer-ibsen-v05",
+   "of": "Ibsen",
+   "work": "Collected Works, vol. 5: Emperor and Galilean",
+   "translated": 1906,
+   "translator": "William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse)",
+   "scan_edition": "Project Gutenberg 66240 (clean text, from the Heinemann/Scribner Copyright Edition)"
+  },
+  "archer-ibsen-vol-06": {
+   "source": "archer-ibsen-v06",
+   "of": "Ibsen",
+   "work": "Collected Works, vol. 6: The League of Youth; Pillars of Society",
+   "translated": 1907,
+   "translator": "William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse)",
+   "scan_edition": "Heinemann/Scribner Copyright Edition, copyright 1906 (raw OCR)"
+  },
+  "archer-ibsen-vol-07": {
+   "source": "archer-ibsen-v07",
+   "of": "Ibsen",
+   "work": "Collected Works, vol. 7: A Doll's House; Ghosts",
+   "translated": 1907,
+   "translator": "William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse)",
+   "scan_edition": "Project Gutenberg 70566 (clean text, from the Heinemann/Scribner Copyright Edition)"
+  },
+  "archer-ibsen-vol-08": {
+   "source": "archer-ibsen-v08",
+   "of": "Ibsen",
+   "work": "Collected Works, vol. 8: An Enemy of the People; The Wild Duck",
+   "translated": 1907,
+   "translator": "William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse)",
+   "scan_edition": "Project Gutenberg 70577 (clean text, from the Heinemann/Scribner Copyright Edition)"
+  },
+  "archer-ibsen-vol-09": {
+   "source": "archer-ibsen-v09",
+   "of": "Ibsen",
+   "work": "Collected Works, vol. 9: Rosmersholm; The Lady from the Sea",
+   "translated": 1907,
+   "translator": "William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse)",
+   "scan_edition": "Heinemann/Scribner Copyright Edition, copyright 1907 (raw OCR)"
+  },
+  "archer-ibsen-vol-10": {
+   "source": "archer-ibsen-v10",
+   "of": "Ibsen",
+   "work": "Collected Works, vol. 10: Hedda Gabler; The Master Builder",
+   "translated": 1907,
+   "translator": "William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse)",
+   "scan_edition": "Copyright Edition: first printed June 1907, this impression November 1913 (raw OCR)"
+  },
+  "archer-ibsen-vol-11": {
+   "source": "archer-ibsen-v11",
+   "of": "Ibsen",
+   "work": "Collected Works, vol. 11: Little Eyolf; John Gabriel Borkman; When We Dead Awaken",
+   "translated": 1907,
+   "translator": "William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse)",
+   "scan_edition": "Project Gutenberg 74642 (clean text, from the Heinemann/Scribner Copyright Edition)"
+  }
+ },
+ "_pending": {
+  "archer-ibsen-vol-12": "From Ibsen's Workshop (A. G. Chater, 1912): collectedworkso12ibseuoft returned HTTP 500 on every try today; retry next round."
+ },
+ "_excluded": {
+  "single-play-gutenberg-texts": "PG 4093, 4070, 4782, 7942, 8121, 18428, 18792, 19018 are single plays from the same Archer edition; the volumes are used instead so nothing is held twice.",
+  "sharp-everyman": "R. Farquharson Sharp's Everyman Ibsen (PG 2446, 2467): another translator; A Doll's House in his version is on adler_shelf.json.",
+  "marx-aveling-wild-duck": "PG 73631: Eleanor Marx Aveling's translation; another translator."
+ },
+ "_name_words_note": "Editor's name: every volume of the edition prints 'with introductions by William Archer', so it is the identity check.",
+ "_checks": {
+  "archer-ibsen-v01": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william archer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "archer-ibsen-v02": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william archer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "archer-ibsen-v03": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william archer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "archer-ibsen-v04": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william archer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "archer-ibsen-v05": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william archer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "archer-ibsen-v07": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william archer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "archer-ibsen-v08": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william archer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "archer-ibsen-v11": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william archer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "archer-ibsen-v06": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william archer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "[1906-1908]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "archer-ibsen-v09": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william archer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "[1906-1908]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "archer-ibsen-v10": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william archer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1906-1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "archer-ibsen-v01": {
+   "pg": 66060,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "archer-ibsen-v02": {
+   "pg": 66186,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "archer-ibsen-v03": {
+   "pg": 66238,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "archer-ibsen-v04": {
+   "pg": 66239,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "archer-ibsen-v05": {
+   "pg": 66240,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "archer-ibsen-v07": {
+   "pg": 70566,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "archer-ibsen-v08": {
+   "pg": 70577,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "archer-ibsen-v11": {
+   "pg": 74642,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "archer-ibsen-v06": {
+   "ia": "collectedworksof06ibseiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1868,
+    1869,
+    1880,
+    1881,
+    1883,
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "archer-ibsen-v09": {
+   "ia": "collectedworksof09ibseiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1882,
+    1884,
+    1885,
+    1886,
+    1887,
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "archer-ibsen-v10": {
+   "ia": "collectedworkso10ibseuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1891,
+    1906,
+    1907,
+    1909,
+    1912,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,60 @@
+{
+ "_about": "TRANSLATOR SHELF: Marmaduke Pickthall (1875-1936): The Meaning of the Glorious Koran (1930), the first English Quran by an English Muslim. US public domain since 2026-01-01 (published 1930 + 95); UK public domain since 2007 (d. 1936). Sits beside lane C's sale, rodwell and palmer Quran shelves. Added 2026-10-10 by lane C (round 13); Adam may veto. No uids minted.",
+ "_name_words": [
+  "marmaduke pickthall"
+ ],
+ "_surname": [
+  "marmaduke pickthall"
+ ],
+ "_surname_note": "Full name; it is printed on the title page.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pickthall-koran": [
+   "in.ernet.dli.2015.283503",
+   "The Meaning of the Glorious Koran",
+   "2015.283503.The-Meaning_djvu.txt"
+  ]
+ },
+ "titles": {
+  "pickthall-meaning-of-the-glorious-koran": {
+   "source": "pickthall-koran",
+   "of": "The Quran",
+   "work": "The Meaning of the Glorious Koran: An Explanatory Translation",
+   "translated": 1930,
+   "translator": "Marmaduke Pickthall",
+   "scan_edition": "Alfred A. Knopf, London, printed in England by Richard Clay and Sons: the 1930 first edition (Knopf's London house closed in 1931; the title page carries no year). Raw OCR from the Digital Library of India; quality is level with the other open copy (common-word rate 0.414 against 0.419)."
+  }
+ },
+ "_rights_checked": {
+  "pickthall-koran": "Title page read 2026-10-10: 'THE MEANING OF THE GLORIOUS KORAN. AN EXPLANATORY TRANSLATION BY MARMADUKE PICKTHALL. LONDON: ALFRED A. KNOPF. Printed in England for Alfred A. Knopf Limited by Richard Clay & Sons Ltd.' Published 1930: US public domain since 2026-01-01 (fetch_shelf's 'published 1930 or later' threshold predates that and flags it); UK public domain since 2007. A 1930 printing, so no later-printing question."
+ },
+ "_pending": {},
+ "_excluded": {
+  "dli.ministry.16944": "The same sheets reissued under a George Allen & Unwin title page (Allen & Unwin took over Knopf's London list in 1931): a later issue; the Knopf issue is used."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check.",
+ "_checks": {
+  "pickthall-koran": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "marmaduke pickthall",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-10: 'THE MEANING OF THE GLORIOUS KORAN. AN EXPLANATORY TRANSLATION BY MARMADUKE PICKTHALL. LONDON: ALFRED A. KNOPF. Printed in England for Alfred A. Knopf Limited by Richard Clay & Sons Ltd.' Published 1930: US public domain since 2026-01-01 (fetch_shelf's 'published 1930 or later' threshold predates that and flags it); UK public domain since 2007. A 1930 printing, so no later-printing question."
+  }
+ },
+ "_verified": {
+  "pickthall-koran": {
+   "ia": "in.ernet.dli.2015.283503",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

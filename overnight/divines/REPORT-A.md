@@ -703,3 +703,48 @@
 
 ## 2026-10-09 22:20 CDT: round 14 complete, lock released
 - 16 shelves this round (4 on 2026-10-03, 12 on 2026-10-09 after Adam's restart). Every shelf: all remote branches checked for shelf-name and source-id clashes, `--verify --record` 0 mismatched, 0 uids minted. Stopped at the end of the round as asked.
+
+## 2026-10-10 09:25 CDT — james-petigru-boyce done
+- `pipeline/james-petigru-boyce_shelf.json`: 1 CCEL, 0 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:25 CDT — john-l-dagg done
+- `pipeline/john-l-dagg_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for dagg-evidences-1869 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:25 CDT — john-a-broadus done
+- `pipeline/john-a-broadus_shelf.json`: 0 CCEL, 0 PG, 8 IA. Mark 1905 is a "0000"-style id; its title page shows the April 1905 first printing, recorded in `_rights_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:25 CDT — joseph-milner done
+- `pipeline/joseph-milner_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:25 CDT — francis-wayland done
+- `pipeline/francis-wayland_shelf.json`: 0 CCEL, 0 PG, 12 IA. Title pages read for fwayland-intellectual-philosophy-1854 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:25 CDT — adam-clarke done
+- `pipeline/adam-clarke_shelf.json`: 1 CCEL, 0 PG, 14 IA. Commentary is 42 MB of OCR, the largest set this lane holds. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:25 CDT — william-burt-pope done
+- `pipeline/william-burt-pope_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for wbpope-compendium-1, wbpope-prayers-st-paul-1876 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — martin-luther done
+- `pipeline/martin-luther_shelf.json`: 3 CCEL, 6 PG, 7 IA. Cole's Bondage of the Will (1823 Google scan) OCRs at 82%. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — william-symington done
+- `pipeline/william-symington_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — john-dick done
+- `pipeline/john-dick_shelf.json`: 1 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — f-w-krummacher done
+- `pipeline/f-w-krummacher_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for fwkrummacher-elijah-1869, fwkrummacher-suffering-saviour-1856 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — e-w-hengstenberg done
+- `pipeline/e-w-hengstenberg_shelf.json`: 0 CCEL, 0 PG, 13 IA. Title pages read for hengstenberg-christology-4, hengstenberg-psalms-1, hengstenberg-psalms-2, hengstenberg-psalms-3 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — august-neander done
+- `pipeline/august-neander_shelf.json`: 5 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — august-tholuck done
+- `pipeline/august-tholuck_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for tholuck-sermon-mount-2 (OCR garbles the name), recorded in `_identity_checked`. Commentary on John is a "0000"-style id; its title page reads 1842, recorded in `_rights_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:50 CDT: round 15 complete
+- 14 shelves (Boyce, Dagg, Broadus, Milner, Wayland, Adam Clarke, W. B. Pope, Luther, Symington, John Dick, Krummacher, Hengstenberg, Neander, Tholuck). Shelf names and source ids checked on every remote branch (only generic CCEL work names like `life` and `acts` matched, under other authors). The fetcher cutoff fix from lane C was refused by this session's permissions and is logged for Adam. Round 16 follows.

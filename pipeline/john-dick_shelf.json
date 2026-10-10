@@ -1,0 +1,120 @@
+{
+ "_about": "Public-domain John Dick (1764-1833, Secession Church, professor of theology at Glasgow) for the Word Hoard: Lectures on the Acts of the Apostles (2nd ed., New York, 1857), clean from CCEL; and from the Internet Archive his Lectures on Theology (Edinburgh: Oliphant, 4 vols, 1834, the first edition) and An Essay on the Inspiration of the Holy Scriptures (Boston, 1811, with W. Parry's essay). Added 2026-10-10 by lane A, round 15 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "d/dick_j",
+ "_name_words": [
+  "dick",
+  "john"
+ ],
+ "_surname": [
+  "john dick",
+  "j. dick",
+  "dick, john",
+  "john dick, d.d",
+  "the late john dick",
+  "rev. john dick"
+ ],
+ "_held": {},
+ "ccel": {
+  "jdick-acts": [
+   "acts",
+   "Lectures on the Acts of the Apostles, second edition (New York: Robert Carter, 1857)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "jdick-theology-1": [
+   "lecturesontheol01dick",
+   "Lectures on Theology, vol. 1 (Edinburgh: William Oliphant, MDCCCXXXIV)"
+  ],
+  "jdick-theology-2": [
+   "lecturesontheol02dick",
+   "Lectures on Theology, vol. 2 (Edinburgh: William Oliphant, MDCCCXXXIV)"
+  ],
+  "jdick-theology-3": [
+   "sermonspreached03crai",
+   "Lectures on Theology, vol. 3 (Edinburgh: William Oliphant, MDCCCXXXIV; the IA identifier is misleading)"
+  ],
+  "jdick-theology-4": [
+   "sermonspreached04crai",
+   "Lectures on Theology, vol. 4 (Edinburgh: William Oliphant, MDCCCXXXIV; the IA identifier is misleading)"
+  ],
+  "jdick-inspiration-1811": [
+   "anessayoninspir00parrgoog",
+   "An Essay on the Inspiration of the Holy Scriptures, first American from the second English edition, with W. Parry's essay (Boston: Lincoln & Edmands, 1811)"
+  ]
+ },
+ "_alternates": {
+  "jdick-inspiration-1800": "the Edinburgh first edition (Ritchie, 1800; IA anessayoninspir00dickgoog): long-s OCR"
+ },
+ "_excluded": {},
+ "_checks": {
+  "jdick-acts": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john dick",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Robert Carter &amp; Brothers (1857)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "jdick-theology-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john dick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jdick-theology-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john dick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jdick-theology-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john dick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jdick-theology-4": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john dick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jdick-inspiration-1811": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john dick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

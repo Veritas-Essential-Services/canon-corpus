@@ -151,13 +151,19 @@
    "TheBacchaeAndHeraclidae",
    "The Bacchae and Heraclidae of Euripides, literally translated into English from the text of Dindorf, by a Member of the University of Oxford (London: Henry Washbourne, 1846)",
    "tr. anonymous ('a Member of the University of Oxford')"
+  ],
+  "euripides-hbl-ion-1889": [
+   "ionofeuripidesno00euriiala",
+   "The Ion of Euripides, now first translated into English in its original metres (London: Williams and Norgate, 1889)",
+   "tr. H. B. L."
   ]
  },
  "_excluded": {
   "pg35171": "The Trojan Women (Murray): duplicate of PG 10096",
   "pg35173": "The Bacchae (Murray): duplicate of the Bacchae in PG 8418",
-  "Buckley vol. II": "now held: euripides-buckley-v2",
-  "Way, Loeb (1912)": "same translator with the Greek facing; the 1894-98 English-only edition kept"
+  "Way, Loeb (1912)": "same translator with the Greek facing; the 1894-98 English-only edition kept",
+  "medealiterallyt00eurigoog": "Medea, literally translated into English prose (1840): OCR 0.73, under the 0.78 bar",
+  "specimensofgreek00euriuoft": "Goldwin Smith, Specimens of Greek Tragedy: Euripides (1893): excerpts joined by summaries, not whole plays; excluded like his Aeschylus and Sophocles volume (PG 7073) on the sophocles shelf"
  },
  "_surname": [
   "euripides"
@@ -185,7 +191,8 @@
   "euripides-webster-medea-1868": "Augusta Webster",
   "euripides-lawton-three-dramas-1889": "william cranston lawton",
   "euripides-beloit-alcestis-1898": "beloit college",
-  "euripides-kynaston-alcestis-1906": "Kynaston"
+  "euripides-kynaston-alcestis-1906": "Kynaston",
+  "euripides-hbl-ion-1889": "h. b. l."
  },
  "_translator_unchecked": {
   "euripides-wodhull-v3": "translator on the row (Michael Wodhull) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -197,7 +204,7 @@
  "_checks": {
   "euripides-buckley-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "Theodore Alois Buckley",
@@ -209,7 +216,7 @@
   },
   "euripides-wodhull-hecuba": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "Michael Wodhull",
@@ -221,7 +228,7 @@
   },
   "euripides-murray-hippolytus-bacchae": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "Gilbert Murray",
@@ -233,7 +240,7 @@
   },
   "euripides-murray-trojan-women": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "Gilbert Murray",
@@ -245,7 +252,7 @@
   },
   "euripides-murray-electra": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "Gilbert Murray",
@@ -257,7 +264,7 @@
   },
   "euripides-murray-medea": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "Gilbert Murray",
@@ -269,7 +276,7 @@
   },
   "euripides-murray-iphigenia-tauris": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "Gilbert Murray",
@@ -281,7 +288,7 @@
   },
   "euripides-murray-rhesus": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "Gilbert Murray",
@@ -293,7 +300,7 @@
   },
   "euripides-murray-alcestis": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "Gilbert Murray",
@@ -305,7 +312,7 @@
   },
   "euripides-way-1894-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "Arthur S. Way",
@@ -318,7 +325,7 @@
   },
   "euripides-way-1894-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "Arthur S. Way",
@@ -331,7 +338,7 @@
   },
   "euripides-way-1894-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "Arthur S. Way",
@@ -344,7 +351,7 @@
   },
   "euripides-coleridge-1891-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "Edward P. Coleridge",
@@ -357,7 +364,7 @@
   },
   "euripides-coleridge-1891-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "Edward P. Coleridge",
@@ -370,7 +377,7 @@
   },
   "euripides-wodhull-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "identity": "ok",
@@ -381,7 +388,7 @@
   },
   "euripides-wodhull-v4": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "identity": "ok",
@@ -392,7 +399,7 @@
   },
   "euripides-wodhull-v5": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "mich. wodhull",
@@ -405,7 +412,7 @@
   },
   "euripides-potter-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "R. Potter",
@@ -418,7 +425,7 @@
   },
   "euripides-potter-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "R. Potter",
@@ -431,7 +438,7 @@
   },
   "euripides-potter-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "R. Potter",
@@ -444,7 +451,7 @@
   },
   "euripides-buckley-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "Theodore Alois Buckley",
@@ -457,7 +464,7 @@
   },
   "euripides-webster-medea-1868": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "Augusta Webster",
@@ -470,7 +477,7 @@
   },
   "euripides-oxford-literal-hecuba-etc": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "identity": "ok",
@@ -481,7 +488,7 @@
   },
   "euripides-fitzgerald-hippolytus-1867": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "identity": "ok",
@@ -492,7 +499,7 @@
   },
   "euripides-lawton-three-dramas-1889": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "william cranston lawton",
@@ -505,7 +512,7 @@
   },
   "euripides-beloit-alcestis-1898": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "beloit college",
@@ -518,7 +525,7 @@
   },
   "euripides-kynaston-alcestis-1906": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "translator_claimed": "Kynaston",
@@ -531,13 +538,26 @@
   },
   "euripides-oxford-member-bacchae-heraclidae-1846": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "euripides",
    "identity": "ok",
    "ia_rights": "ok: published 1846",
    "ia_date": "1846",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "euripides-hbl-ion-1889": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "euripides",
+   "translator_claimed": "h. b. l.",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },

@@ -1,0 +1,44 @@
+{
+ "_about": "Public-domain James Petigru Boyce (1827-1888, Southern Baptist, founder and first president of the Southern Baptist Theological Seminary) for the Word Hoard: his Abstract of Systematic Theology, clean from CCEL (CCEL records its print source as 1887), with the 1887 first published edition on the Internet Archive as an alternate to collate against. Added 2026-10-10 by lane A, round 15 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "b/boyce",
+ "_name_words": [
+  "boyce",
+  "james"
+ ],
+ "_surname": [
+  "james p. boyce",
+  "james petigru boyce",
+  "j. p. boyce",
+  "boyce, james p",
+  "james p. boyce, d.d"
+ ],
+ "_held": {},
+ "ccel": {
+  "boyce-abstract": [
+   "theology",
+   "Abstract of Systematic Theology (CCEL; print source 1887)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {},
+ "_alternates": {
+  "boyce-abstract-1887": "Abstract of Systematic Theology (Baltimore: H. M. Wharton, 1887, the first published edition; IA abstractofsystem00boyc_0): the dated edition to collate the CCEL text against",
+  "boyce-abstract-1882": "the 1882 Louisville printing for his pupils only (IA abstractofsystem00boyc), not published"
+ },
+ "_excluded": {},
+ "_checks": {
+  "boyce-abstract": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james p. boyce",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "1887",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  }
+ }
+}

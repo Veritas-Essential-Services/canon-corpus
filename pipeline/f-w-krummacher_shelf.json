@@ -1,0 +1,135 @@
+{
+ "_about": "Public-domain F. W. Krummacher (1796-1868, German Reformed preacher, court chaplain at Potsdam) in pre-1930 English translations: Elijah the Tishbite (Nelson, 1869), The Suffering Saviour (tr. Samuel Jackson, 2nd ed., 1856), The Risen Redeemer (tr. John T. Betts, 1863), The Martyr Lamb (5th ed., 1845), The Dew of Israel and the Lily of God (1840) and his Autobiography (ed. his daughter, tr. M. G. Easton, 1869), raw Internet Archive OCR. Translators unnamed on the title page are recorded as unnamed. Not F. A. or G. D. Krummacher. Added 2026-10-10 by lane A, round 15 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "krummacher",
+  "frederick"
+ ],
+ "_surname": [
+  "f. w. krummacher",
+  "frederick william krummacher",
+  "friedrich wilhelm krummacher",
+  "krummacher, f. w",
+  "f. w. krummacher, d.d",
+  "fred. wm. krummacher"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fwkrummacher-elijah-1869": [
+   "elijahtishbite00krum",
+   "Elijah the Tishbite (London, Edinburgh and New York: T. Nelson, 1869; translator not named)"
+  ],
+  "fwkrummacher-suffering-saviour-1856": [
+   "sufferingsaviour00krum",
+   "The Suffering Saviour, tr. Samuel Jackson, second edition revised (Edinburgh: T. & T. Clark, MDCCCLVI)"
+  ],
+  "fwkrummacher-risen-redeemer-1863": [
+   "risenredeemergos00krum",
+   "The Risen Redeemer, tr. John T. Betts (New York: Robert Carter, 1863)"
+  ],
+  "fwkrummacher-martyr-lamb-1845": [
+   "martyrlamborchri00krum",
+   "The Martyr Lamb, fifth edition (New York: Robert Carter, 1845; translator not named)"
+  ],
+  "fwkrummacher-dew-of-israel-1840": [
+   "dewofisraellily00krum",
+   "The Dew of Israel and the Lily of God (New York: Robert Carter, 1840, from the second London edition; translator not named)"
+  ],
+  "fwkrummacher-autobiography-1869": [
+   "friedrichwilhelm00krum",
+   "Friedrich Wilhelm Krummacher: An Autobiography, ed. his daughter, tr. M. G. Easton (Edinburgh: T. & T. Clark, MDCCCLXIX)"
+  ]
+ },
+ "_alternates": {
+  "fwkrummacher-elisha": "Elisha (no imprint or year; catalogued 1840; IA elisha0000fwkr_p7n0): a weak witness"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "fwkrummacher-elijah-1869": {
+   "author": "title page read 2026-10-10: OCR gives \"By DR. F. IV. KRUMMACHER, Elberfeld\" (IV for W), Nelson, 1869: F. W. Krummacher"
+  },
+  "fwkrummacher-suffering-saviour-1856": {
+   "author": "title page read 2026-10-10: OCR gives \"REV. FRED. W. I^RUMMACHER, D.D. CHAPLAIN TO HIS MAJESTY THE KING OF PRUSSIA, AUTHOR OF ELIJAH THE TISHBITE\", translated by Samuel Jackson: F. W. Krummacher"
+  }
+ },
+ "_translators": {
+  "fwkrummacher-suffering-saviour-1856": "jackson",
+  "fwkrummacher-risen-redeemer-1863": "betts",
+  "fwkrummacher-autobiography-1869": "easton"
+ },
+ "_checks": {
+  "fwkrummacher-elijah-1869": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fwkrummacher-suffering-saviour-1856": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "jackson",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fwkrummacher-risen-redeemer-1863": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. w. krummacher",
+   "translator_claimed": "betts",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fwkrummacher-martyr-lamb-1845": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. w. krummacher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fwkrummacher-dew-of-israel-1840": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. w. krummacher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fwkrummacher-autobiography-1869": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. w. krummacher",
+   "translator_claimed": "easton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

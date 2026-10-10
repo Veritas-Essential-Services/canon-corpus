@@ -4,7 +4,7 @@
   {
    "id": "shelf-dryden",
    "status": "done-with-defects",
-   "scope": "TRANSLATOR SHELF \u2014 all John Dryden translations, each title its own uid; own grouping; shelf + fetch + map section",
+   "scope": "TRANSLATOR SHELF — all John Dryden translations, each title its own uid; own grouping; shelf + fetch + map section",
    "started": "2026-10-02T15:12-05:00",
    "finished": "2026-10-02T15:17-05:00",
    "notes": "Shelf pipeline/dryden_shelf.json: 10 sources fetched (8 PG, 2 IA), 7.5 MB; 21 titles cut by heading marker with new pipeline/split_shelf_titles.py (all 21 cut, 0 failed). Defects: (1) titles NOT converted to unit-id JSON - converters need a fetch_sources.py manifest entry, which relay rules forbid; (2) dryden-history-of-the-league is long-s OCR (78% of tokens in a clean-text vocabulary vs 94% for the Scott volumes); (3) dryden-metamorphoses is the Garth composite (many hands), raw OCR (95% vocab hit, good); (4) no uids minted - all 21 await Adam. Scott vol 1 (Life) not on PG; not a translation, out of scope. 'started' corrected from an estimated 15:20 to 15:12."
@@ -12,7 +12,7 @@
   {
    "id": "shelf-garnett",
    "status": "done-with-defects",
-   "scope": "TRANSLATOR SHELF \u2014 Constance Garnett's Russians (Dostoevsky, Tolstoy, Chekhov, Turgenev, Gogol), each title its own uid, record edition/year; own grouping; shelf + fetch + map section",
+   "scope": "TRANSLATOR SHELF — Constance Garnett's Russians (Dostoevsky, Tolstoy, Chekhov, Turgenev, Gogol), each title its own uid, record edition/year; own grouping; shelf + fetch + map section",
    "started": "2026-10-02T15:18-05:00",
    "finished": "2026-10-02T15:30-05:00",
    "notes": "Shelf pipeline/garnett_shelf.json: 60 sources (40 PG, 20 IA), 40.3 MB, 0 failed; 52 titles cut (multi-volume titles joined), 0 failed. Every PG file's Translator line reads Constance Garnett. IA OCR quality 0.92-0.97 (share of tokens in a clean Garnett vocabulary; PG Anna Karenina 0.962). Defects: not converted to unit-id JSON (needs fetch_sources.py entry: off limits); no uids minted (52 titles await Adam); War and Peace, House of the Dead, Honest Thief, plays are later printings (scan_edition recorded); Notes from Underground still inside garnett-white-nights; Gogol vols 3-6, Poor Folk, Uncle's Dream not found with a verified title page (pending)."
@@ -28,7 +28,7 @@
   {
    "id": "shelf-cary",
    "status": "done",
-   "scope": "TRANSLATOR SHELF (added at coordinator relay 2026-10-02, Adam may veto) \u2014 Henry Francis Cary's Dante (Divine Comedy blank verse) + other PD Cary translations; each title its own slug; no minting",
+   "scope": "TRANSLATOR SHELF (added at coordinator relay 2026-10-02, Adam may veto) — Henry Francis Cary's Dante (Divine Comedy blank verse) + other PD Cary translations; each title its own slug; no minting",
    "started": "2026-10-02T15:36-05:00",
    "finished": "2026-10-02T15:43-05:00",
    "notes": "4 sources (PG 1005-1007, IA pindarinenglish00carygoog 1833), 0 failed; 4 titles cut (inferno, purgatorio, paradiso, pindar). Pindar raw OCR, 0.92 vocabulary hit. Birds of Aristophanes pending (no scan). No uids minted."
@@ -36,7 +36,7 @@
   {
    "id": "shelf-longfellow",
    "status": "done",
-   "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 Longfellow as translator: Divine Comedy + other translations (Coplas de Manrique, Poets and Poetry of Europe pieces); no minting",
+   "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) — Longfellow as translator: Divine Comedy + other translations (Coplas de Manrique, Poets and Poetry of Europe pieces); no minting",
    "started": "2026-10-02T15:36-05:00",
    "finished": "2026-10-02T15:43-05:00",
    "notes": "4 sources (PG 1001-1003, PG 1365), 0 failed; 4 titles: three canticles + longfellow-translations cut from the Complete Poetical Works (stops before 'From the Latin': his Virgil/Ovid pieces are lane B's). No uids minted."
@@ -44,7 +44,7 @@
   {
    "id": "shelf-florio",
    "status": "done-with-defects",
-   "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 John Florio: Montaigne's Essays (1603) and other PD Florio translations; no minting",
+   "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) — John Florio: Montaigne's Essays (1603) and other PD Florio translations; no minting",
    "started": "2026-10-02T15:36-05:00",
    "finished": "2026-10-02T15:43-05:00",
    "notes": "8 sources: Montaigne Essayes 1603 in the Gibbings 1906 reprint, 6 IA vols (raw OCR, 0.83-0.86 vocabulary hit; the clean 1620 Decameron scores 0.89, so most of the gap is Elizabethan spelling), Decameron 1620 PG 52617-8 (Florio attribution is scholarly, the book was anonymous). 2 titles. No uids minted."
@@ -52,7 +52,7 @@
   {
    "id": "shelf-burton",
    "status": "done",
-   "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 Richard F. Burton: Arabian Nights (+ Supplemental Nights) and other PD Burton translations; no minting",
+   "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) — Richard F. Burton: Arabian Nights (+ Supplemental Nights) and other PD Burton translations; no minting",
    "started": "2026-10-02T15:36-05:00",
    "finished": "2026-10-02T15:43-05:00",
    "notes": "20 sources, 0 failed: Nights 10 vols + Supplemental 6 vols (7 PG parts) from the DP proofread editions, Lusiads 2 vols PG, Camoens Lyricks IA 1884 (raw, 0.87). 4 titles. Catullus, Kama Sutra, Pentamerone listed pending for Adam's content call, not fetched. No uids minted."
@@ -60,7 +60,7 @@
   {
    "id": "shelf-maude",
    "status": "done-with-defects",
-   "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) \u2014 Aylmer & Louise Maude: Tolstoy, public-domain editions only (pre-1931 US); record edition/year; no minting",
+   "scope": "TRANSLATOR SHELF (added at coordinator relay, vetoable) — Aylmer & Louise Maude: Tolstoy, public-domain editions only (pre-1931 US); record edition/year; no minting",
    "started": "2026-10-02T15:36-05:00",
    "finished": "2026-10-02T15:43-05:00",
    "notes": "16 sources, 0 failed after 2 fixes: PG 26472 404s (used 6157), PG 26660 is front matter only (used the six plays 26661-66, F&W 4th impr. 1919). 10 titles. Years stated in file: What Is Art 1904, Three Days 1910, The Devil 1926, Plays 1919 printing, Resurrection Dodd Mead (Tolstoy's authority note); War and Peace, Cossacks, Father Sergius, Master and Man, What Men Live By state no year - they rest on Gutenberg's US clearance (pre-1931). Anna Karenina (Maude) pending. No uids minted."
@@ -69,7 +69,7 @@
    "id": "shelf-cotton",
    "status": "done",
    "started": "2026-10-02T15:44-05:00",
-   "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) \u2014 Charles Cotton: Montaigne; no minting",
+   "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) — Charles Cotton: Montaigne; no minting",
    "finished": "2026-10-02T15:48-05:00",
    "notes": "PG 3600 (Cotton/Hazlitt, complete), 1 title. No uids minted."
   },
@@ -77,7 +77,7 @@
    "id": "shelf-ormsby",
    "status": "done",
    "started": "2026-10-02T15:44-05:00",
-   "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) \u2014 John Ormsby: Don Quixote; no minting",
+   "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) — John Ormsby: Don Quixote; no minting",
    "finished": "2026-10-02T15:48-05:00",
    "notes": "PG 996, 1 title. No uids minted."
   },
@@ -85,7 +85,7 @@
    "id": "shelf-urquhart-motteux",
    "status": "done",
    "started": "2026-10-02T15:44-05:00",
-   "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) \u2014 Urquhart & Motteux: Rabelais; Motteux's Don Quixote; no minting",
+   "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) — Urquhart & Motteux: Rabelais; Motteux's Don Quixote; no minting",
    "finished": "2026-10-02T15:48-05:00",
    "notes": "PG 1200 Rabelais (two hands, one title) + PG 35993 Motteux Quixote; 2 titles. No uids minted."
   },
@@ -93,7 +93,7 @@
    "id": "shelf-fitzgerald",
    "status": "done",
    "started": "2026-10-02T15:44-05:00",
-   "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) \u2014 Edward FitzGerald: Rubaiyat, Salaman and Absal, Calderon; no minting",
+   "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) — Edward FitzGerald: Rubaiyat, Salaman and Absal, Calderon; no minting",
    "finished": "2026-10-02T15:48-05:00",
    "notes": "PG 22535 (Rubaiyat + Salaman and Absal; first fetch tripped lane B's new title-word check on accented words, title fixed, refetched) + PG 63776 Eight Dramas; 2 titles. Greek plays left to lane B. No uids minted."
   },
@@ -101,7 +101,7 @@
    "id": "shelf-taylor",
    "status": "done",
    "started": "2026-10-02T15:44-05:00",
-   "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) \u2014 Bayard Taylor: Faust I-II; no minting",
+   "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) — Bayard Taylor: Faust I-II; no minting",
    "finished": "2026-10-02T15:48-05:00",
    "notes": "Faust I PG 14591 + Faust II IA goethetaylorfaust02 (1871, raw OCR 0.92); 1 title. No uids minted."
   },
@@ -109,7 +109,7 @@
    "id": "shelf-lane",
    "status": "done",
    "started": "2026-10-02T15:44-05:00",
-   "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) \u2014 E. W. Lane: Thousand and One Nights; no minting",
+   "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) — E. W. Lane: Thousand and One Nights; no minting",
    "finished": "2026-10-02T15:48-05:00",
    "notes": "Vol 1 PG 34206 (Chatto 1912) + vol 2 IA Chatto 1912 + vol 3 IA Routledge 1865 (1912 says it reprints 1859 exactly); OCR 0.95; 1 title. Selections from the Kur-an pending (Adam's call). No uids minted."
   },
@@ -117,7 +117,7 @@
    "id": "shelf-guest",
    "status": "done",
    "started": "2026-10-02T15:44-05:00",
-   "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) \u2014 Lady Charlotte Guest: Mabinogion; no minting",
+   "scope": "TRANSLATOR SHELF (added by lane C under the coordinator's keep-going relay; Adam may veto) — Lady Charlotte Guest: Mabinogion; no minting",
    "finished": "2026-10-02T15:48-05:00",
    "notes": "PG 5160, header names Lady Charlotte Schreiber (Guest); 1 title. No uids minted."
   },
@@ -392,6 +392,78 @@
    "scope": "TRANSLATOR SHELF (round 8, lane C's choice under the coordinator's standing instruction; Adam may veto) -- hearn; PD printings before 1931 only; no minting",
    "finished": "2026-10-03T05:42-05:00",
    "notes": "Fetched, verified (--verify --record), cut; see DIGEST-C round 8. No uids minted."
+  },
+  {
+   "id": "shelf-ransome-translations",
+   "status": "done",
+   "started": "2026-10-10T09:03-05:00",
+   "finished": "2026-10-10T09:03-05:00",
+   "scope": "Ransome as translator/reteller, after Adam's Swallows and Amazons request of 2026-10-10",
+   "notes": "Lane B shelved Swallows and Amazons first (ransome_shelf.json); lane C's duplicate was dropped before push. Gourmont + Old Peter only. No uids minted."
+  },
+  {
+   "id": "shelf-scott-moncrieff",
+   "status": "done",
+   "started": "2026-10-10T09:12-05:00",
+   "finished": "2026-10-10T09:12-05:00",
+   "scope": "TRANSLATOR SHELF (round 9, lane C's choice; Adam may veto) -- C. K. Scott Moncrieff; PD printings before 1931 only; no minting",
+   "notes": "9 titles; 6 pending for want of a pre-1931 scan. See DIGEST-C round 9. No uids minted."
+  },
+  {
+   "id": "shelf-ryder",
+   "status": "done",
+   "started": "2026-10-10T09:17-05:00",
+   "finished": "2026-10-10T09:17-05:00",
+   "scope": "TRANSLATOR SHELF (round 10, lane C's choice; Adam may veto) -- ryder; PD printings before 1931 only; no minting",
+   "notes": "5 titles; see DIGEST-C round 10. No uids minted."
+  },
+  {
+   "id": "shelf-gertrude-bell",
+   "status": "done",
+   "started": "2026-10-10T09:17-05:00",
+   "finished": "2026-10-10T09:17-05:00",
+   "scope": "TRANSLATOR SHELF (round 10, lane C's choice; Adam may veto) -- gertrude-bell; PD printings before 1931 only; no minting",
+   "notes": "1 titles; see DIGEST-C round 10. No uids minted."
+  },
+  {
+   "id": "shelf-levy-nietzsche",
+   "status": "done",
+   "started": "2026-10-10T09:17-05:00",
+   "finished": "2026-10-10T09:17-05:00",
+   "scope": "TRANSLATOR SHELF (round 10, lane C's choice; Adam may veto) -- levy-nietzsche; PD printings before 1931 only; no minting",
+   "notes": "15 titles; see DIGEST-C round 10. No uids minted."
+  },
+  {
+   "id": "shelf-archer-ibsen",
+   "status": "done",
+   "started": "2026-10-10T09:26-05:00",
+   "finished": "2026-10-10T09:26-05:00",
+   "scope": "TRANSLATOR SHELF (round 11, lane C's choice; Adam may veto) -- archer-ibsen; PD printings before 1931 only; no minting",
+   "notes": "11 volumes; vol 12 pending (IA 500). See DIGEST-C round 11. No uids minted."
+  },
+  {
+   "id": "shelf-morris-magnusson",
+   "status": "done",
+   "started": "2026-10-10T09:38-05:00",
+   "finished": "2026-10-10T09:38-05:00",
+   "scope": "TRANSLATOR SHELF (round 12, lane C's choice; Adam may veto) -- morris-magnusson; PD printings before 1931 only; no minting",
+   "notes": "3 titles; see DIGEST-C round 12. No uids minted."
+  },
+  {
+   "id": "shelf-strindberg-english",
+   "status": "done",
+   "started": "2026-10-10T09:38-05:00",
+   "finished": "2026-10-10T09:38-05:00",
+   "scope": "TRANSLATOR SHELF (round 12, lane C's choice; Adam may veto) -- strindberg-english; PD printings before 1931 only; no minting",
+   "notes": "14 titles; see DIGEST-C round 12. No uids minted."
+  },
+  {
+   "id": "round-13",
+   "status": "done",
+   "started": "2026-10-10T09:45-05:00",
+   "finished": "2026-10-10T09:45-05:00",
+   "scope": "Round 13: pending items cleared (Saga Library, Three Northern Love Stories, Björkman first series) and a new shelf, pickthall",
+   "notes": "9 titles; Archer Ibsen vol 12 still pending (IA 500). No uids minted."
   }
  ]
 }

@@ -574,3 +574,35 @@
 ## 2026-10-03 07:21 CDT — Greek prose title sweep
 - R. W. Mackay, Sophistes (1868), 0.88
 - Not taken: Kennedy's Theaetetus (Greek facing, 0.60); ECCO Xenophon copies already covered by the held multi-hand volume
+
+## 2026-10-10 09:11 CDT — Round 2026-10-10a: title sweeps, plus Ransome
+- Ransome shelf: book 1 held (US public domain since 2026-01-01); books 2-12 excluded with their US dates; none UK-free until 2038
+- Added 9 volumes across Seneca, Pindar, Greek lyric, Marcus Aurelius, Lucian
+- Held back for Adam: Index Expurgatorius of Martial (1868); Carr's Dialogues of Lucian (title-page rule)
+- Excluded under the OCR bar: the 1773 Martial (0.43), the 1806 Anacreon (0.70), Murphy's Lucian (0.68)
+
+## 2026-10-10 09:19 CDT — Round 2026-10-10b: reviewer findings, Tenne Tragedies, sweeps
+- Old findings: the Perseus duplicates are all marked; fetch_perseus already matches whole words and refuses undated files
+- Fixed notes: Thucydides Hobbes cross-reference; Demosthenes Vince vol. II no longer claims a 1939 date the file does not state; Plautus Nixon vol. 3 is held back, not held
+- Dropped 19 stale 'now held' rows from _excluded
+- Added: Seneca his Tenne Tragedies (1581 first printing), Taylor's Fasti I-IV (1839), Byles's Greek Lives (1907)
+
+## 2026-10-10 09:27 CDT — Round 2026-10-10c: Roman prose and late Greek sweeps
+- Added: Duncan's Cicero orations (1841), literal Select Letters of Cicero (1891), the Bohn Works of Apuleius (1914 printing), Dyce's Quintus Smyrnaeus (1821), Eells's Philostratus (1923)
+- Still missing: Munford Iliad vol. I, Greek Tragic Theatre vol. II, Ravensworth Aeneid VII-XII, Preston Argonautics 1803 vol. II
+- Greek-facing Loebs seen again (Gaselee's Achilles Tatius, Mair's Oppian): left for the pending measure ruling
+
+## 2026-10-10 09:31 CDT — Round 2026-10-10d: Greek drama, philosophy and history sweeps
+- Added: Oxford literal Aeschylus (1829), H. B. L.'s Ion (1889), Goldwin Smith's Euripides (1893), Laurent's Herodotus (1827, 2 vols.)
+- Under the OCR bar: Davies's Agamemnon (0.60), the 1840 literal Medea (0.73), Laurent's 1846 edition (0.745)
+- Held already: Plato, Aristotle, Xenophon, Demosthenes, Strabo, Pausanias candidates
+
+## 2026-10-10 09:42 CDT — Round 2026-10-10e: Latin poets and Greek hymns
+- Added: Cooke's Terence vol. I (1755), Toller's Phaedrus (1854), anonymous Juvenal III (1806), Skrine's Eclogues (1868), Conwell's Homeric Hymns (1830), Stanley's Anacreon, Bion and Moschus (1815)
+- Not taken: Cooke's Terence vol. II (title-page rule, same class as Carr's Lucian); the 1828 interlinear Phaedrus
+- Held already: Bailey and Leonard's Lucretius, Colman's Terence, Badham's Juvenal, Williams's and Cranch's Virgil, Lang's hymns and Theocritus, Dodd's Callimachus
+
+## 2026-10-10 09:48 CDT — Round 2026-10-10f: subject sweep
+- Added: Potter's Sophocles (1820, cleaner scan), Gilchrist's Iliad I-VIII (1869), Bland's Greek Anthology collections (1813)
+- Corrected: Goldwin Smith's Euripides excerpts moved to _excluded, matching the rule already applied to his Sophocles
+- Held already: Adams's Hippocrates, Morgan's Vitruvius, Bennett's Frontinus, Collier's Celsus, Holland's Suetonius

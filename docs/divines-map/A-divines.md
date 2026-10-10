@@ -2278,3 +2278,236 @@ Slugs `jdavenport-*`. The New Haven founder (1597-1670).
 | The Knowledge of Christ (1653); Another Essay (1663); The Power of Congregational Churches (1672); An Apologeticall Reply (1636) | have-ocr | IA Early English Books scans, OCR 81-87%: 17th-century type, poor |
 | A Catechisme (1659) | excluded | OCR is noise |
 | A Discourse about Civil Government (1663) | excluded | title page attributes it to John Cotton |
+
+## James Petigru Boyce (round 15, my pick, 2026-10-10)
+
+Slugs `boyce-*`. One work; the 1887 first edition on IA is an alternate to collate CCEL against.
+
+| Work | Status | Where |
+|---|---|---|
+| Abstract of Systematic Theology (CCEL; print source 1887) | have-clean | CCEL b/boyce/theology |
+| Abstract of Systematic Theology (Baltimore: H. M. Wharton, 1887, the first published edition; IA abstractofsystem00boyc_0): the dated edition to collate the CCEL text against | alternate | not shelved |
+| the 1882 Louisville printing for his pupils only (IA abstractofsystem00boyc), not published | alternate | not shelved |
+
+## John L. Dagg (round 15, my pick, 2026-10-10)
+
+Slugs `dagg-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| Manual of Theology, in two parts: Christian Doctrine; Church Order (Charleston: Southern Baptist Publication Society, 1859) | have-ocr | IA `manualoftheology12dagg` |
+| The Elements of Moral Science (New York: Sheldon; Charleston: Southern Baptist Publication Society, 1860) | have-ocr | IA `elementsofmorals00dagg` |
+| The Evidences of Christianity (Macon: J. W. Burke; Philadelphia: Claxton, Remsen & Haffelfinger, 1869) | have-ocr | IA `evidencesofchris00dagg` |
+| Manual of Theology part 1 (Philadelphia, entered 1871; IA manualoftheology00dagg) and part 2 (Charleston, 1858; IA manualoftheology02dagg): the same text as the 1859 two-part scan | alternate | not shelved |
+
+## John A. Broadus (round 15, my pick, 2026-10-10)
+
+Slugs `broadus-*`. His own 1872 text of Preparation and Delivery, not Dargan's 1898 revision.
+
+| Work | Status | Where |
+|---|---|---|
+| A Treatise on the Preparation and Delivery of Sermons, fourth edition (Philadelphia: Smith, English, 1872) | have-ocr | IA `treatiseonprepar00broa_0` |
+| Commentary on the Gospel of Matthew, An American Commentary on the New Testament, ed. Alvah Hovey (Philadelphia: American Baptist Publication Society; entered 1886) | have-ocr | IA `commentaryongosp01broa` |
+| Lectures on the History of Preaching, new edition (New York: A. C. Armstrong, 1893) | have-ocr | IA `lecturesonthehis00broauoft` |
+| Sermons and Addresses, second edition (Richmond: B. F. Johnson, 1887) | have-ocr | IA `sermonsaddresses00broa` |
+| Jesus of Nazareth (New York: A. C. Armstrong, 1890) | have-ocr | IA `jesusofnazareth00broa` |
+| Memoir of James Petigru Boyce (New York: A. C. Armstrong, 1893) | have-ocr | IA `memoirofjamespeti00broa` |
+| A Harmony of the Gospels in the Revised Version, notes by A. T. Robertson (New York: A. C. Armstrong, 1893) | have-ocr | IA `harmonyofgosp00broa` |
+| Commentary on the Gospel of Mark (Philadelphia: American Baptist Publication Society, 1905) | have-ocr | IA `gospelofmark0000john` |
+| the 1898 23rd edition revised by E. C. Dargan (IA treatiseonprepar1898broa): Dargan's revision, a different text | alternate | not shelved |
+| Gutenberg 36264, A. T. Robertson's 1922 Harmony based on Broadus: Robertson's book | alternate | not shelved |
+
+## Joseph Milner (round 15, my pick, 2026-10-10)
+
+Slugs `jmilner-*`. History of the Church of Christ as continued by his brother Isaac.
+
+| Work | Status | Where |
+|---|---|---|
+| The History of the Church of Christ, with additions by Isaac Milner, vol. 1 (Philadelphia: Hogan & Thompson, 1835) | have-ocr | IA `historyofchurcho01miln` |
+| The History of the Church of Christ, with additions by Isaac Milner, vol. 2 (Philadelphia: Hogan & Thompson, 1835) | have-ocr | IA `historyofchurcho02miln` |
+| Practical Sermons, with an account of the life of the author, revised by Isaac Milner, third edition (London: J. & E. Hodson, 1804) | have-ocr | IA `practicalsermons00milniala` |
+| vol. 1 of the York first edition, MDCCXCIV (IA bim_eighteenth-century_the-history-of-the-churc_milner-joseph_1794_1): long-s OCR, one volume only | alternate | not shelved |
+| London: Cadell, 1834, 4 vols (IA 10026214bsb, 10026216bsb, 10026217bsb): vol. 2 not found | alternate | not shelved |
+
+## Francis Wayland (round 15, my pick, 2026-10-10)
+
+Slugs `fwayland-*`. Domestic Slavery (1845) is his published exchange with Richard Fuller, who argued the other side; it is shelved as a historical document.
+
+| Work | Status | Where |
+|---|---|---|
+| The Elements of Moral Science (New York: Cooke, 1835) | have-ocr | IA `element00wayl` |
+| The Elements of Political Economy (New York: Leavitt, Lord, 1837) | have-ocr | IA `elementsofpoliti01wayl` |
+| The Elements of Intellectual Philosophy (Boston: Phillips, Sampson, 1854) | have-ocr | IA `elementsofintell00wayl_0` |
+| The Limitations of Human Responsibility (Boston: Gould, Kendall & Lincoln, 1838) | have-ocr | IA `limitationsofhum00wayluoft` |
+| University Sermons (Boston: Gould, Kendall & Lincoln, 1849) | have-ocr | IA `universitysermon00wayl` |
+| Notes on the Principles and Practices of Baptist Churches (New York: Sheldon, Blakeman, 1857) | have-ocr | IA `notesonprinciple00wayl` |
+| Sermons to the Churches (New York: Sheldon, Blakeman, 1859) | have-ocr | IA `sermonstochurche00wayl` |
+| Salvation by Christ (Boston: Gould & Lincoln, 1859) | have-ocr | IA `salvationbychri00wayl` |
+| Letters on the Ministry of the Gospel (Boston: Gould & Lincoln, 1863) | have-ocr | IA `lettersonminis00wayl` |
+| A Memoir of the Life and Labors of the Rev. Adoniram Judson, vol. 1 (Boston: Phillips, Sampson, 1853) | have-ocr | IA `memoiroflifela01wayl` |
+| A Memoir of the Life and Labors of the Rev. Adoniram Judson, vol. 2 (Boston: Phillips, Sampson; entered 1853) | have-ocr | IA `memoiroflifela02wayl` |
+| Domestic Slavery Considered as a Scriptural Institution, correspondence of Richard Fuller and Francis Wayland (New York: Lewis Colby, 1845) | have-ocr | IA `domesticslaveryc00full` |
+
+## Adam Clarke (round 15, my pick, 2026-10-10)
+
+Slugs `aclarke-*`. The Commentary set is mixed: OT vol. 4 is 1843, the rest 1846. Christian Theology (1840) is Samuel Dunn's selection.
+
+| Work | Status | Where |
+|---|---|---|
+| Entire Sanctification (CCEL) | have-clean | CCEL c/clarke/entire_sanct |
+| Commentary: Old Testament vol. 1, Genesis-Deuteronomy (New York: G. Lane & C. B. Tippett, 1846) | have-ocr | IA `holybiblecontain184601clar` |
+| Commentary: Old Testament vol. 2, Joshua-Esther (New York: Lane & Tippett, 1846) | have-ocr | IA `holybiblecontai184602clar` |
+| Commentary: Old Testament vol. 3, Job-Song of Solomon (New York: Lane & Tippett, 1846) | have-ocr | IA `holybiblecontai184603clar` |
+| Commentary: Old Testament vol. 4, Isaiah-Malachi (New York: G. Lane & P. P. Sandford, 1843) | have-ocr | IA `holybiblecontain184604clar` |
+| Commentary: New Testament vol. 1, Matthew-Acts (New York: Lane & Tippett, 1846) | have-ocr | IA `newtestamentofou01clar` |
+| Commentary: New Testament vol. 2, Romans-Revelation (New York: Lane & Tippett, 1846) | have-ocr | IA `newtestamentofo02clar` |
+| Christian Theology, selected and arranged with a life of the author by Samuel Dunn (New York: T. Mason & G. Lane, 1840) | have-ocr | IA `christiantheolog00clar` |
+| Discourses on Various Subjects, vol. 1, third edition (New York: M'Elrath & Bangs, 1830) | have-ocr | IA `discoursesonvari01clar` |
+| Discourses on Various Subjects, vol. 2, third edition (New York: M'Elrath & Bangs, 1831) | have-ocr | IA `discoursesonvari02clar` |
+| Discourses on Various Subjects, vol. 3, third edition (New York: M'Elrath & Bangs, 1831) | have-ocr | IA `discoursesonvari03clar` |
+| A Discourse on the Nature, Design, and Institution of the Holy Eucharist, with his smaller tracts (New York, 1812) | have-ocr | IA `discourseonnatur00clar` |
+| Clavis Biblica, in The Preacher's Manual (New York: N. Bangs & T. Mason; no year on the title page, catalogued 1821) | have-ocr | IA `preachersmanuali00clar` |
+| Memoirs of the Wesley Family (New York: N. Bangs & T. Mason, 1824) | have-ocr | IA `memoirsofwesleyf00clar_0` |
+| An Account of the Religious and Literary Life of Adam Clarke, ed. J. B. B. Clarke (New York: T. Mason & G. Lane, 1837) | have-ocr | IA `accountofreligio00clar` |
+
+## William Burt Pope (round 15, my pick, 2026-10-10)
+
+Slugs `wbpope-*`. Compendium vol. 2's title page OCR reads 1877, against 1879 for vols. 1 and 3.
+
+| Work | Status | Where |
+|---|---|---|
+| A Compendium of Christian Theology, second edition, vol. 1 (London: Wesleyan Conference Office, 1879) | have-ocr | IA `compendiumofchri01pope` |
+| A Compendium of Christian Theology, second edition, vol. 2 (London: Wesleyan Conference Office; title page OCR reads 1877, against 1879 for vols. 1 and 3) | have-ocr | IA `compendiumofchri02pope` |
+| A Compendium of Christian Theology, second edition, vol. 3 (London: Wesleyan Conference Office, 1879) | have-ocr | IA `compendiumofchri03pope` |
+| The Person of Christ: Dogmatic, Scriptural, Historical, the Fernley Lecture of 1871, second edition (London: Wesleyan Conference Office, 1875) | have-ocr | IA `personofchristdo00pope` |
+| The Prayers of St. Paul (London: Wesleyan Conference Office, 1876) | have-ocr | IA `prayersofstpaulb00pope` |
+| A Higher Catechism of Theology (London: T. Woolmer, 1883) | have-ocr | IA `highercatechismo00pope_0` |
+| The Inward Witness and Other Discourses (London: T. Woolmer, 1885) | have-ocr | IA `inwardwitnessan00popegoog` |
+| the one-volume first edition (London, 1875; IA compendiumofchri0000wbpo, a "0000"-style id): superseded by the enlarged second edition | alternate | not shelved |
+
+## Martin Luther (in English) (round 15, my pick, 2026-10-10)
+
+Slugs `luther-*`. Translations printed before 1930 only; each translator read on the title page, and four are machine-checked against the text (Hazlitt, Gillett, Cole, Buchheim). Works of Martin Luther vols. 3-6 (1930-32) are left out under the current fetcher gate.
+
+| Work | Status | Where |
+|---|---|---|
+| First Principles of the Reformation, ed. Henry Wace and C. A. Buchheim (London, 1883) | have-clean | CCEL l/luther/first_prin |
+| The Table-Talk of Martin Luther, tr. William Hazlitt (CCEL: Philadelphia, Lutheran Publication Society, no year) | have-clean | CCEL l/luther/tabletalk |
+| The Epistles of St. Peter and St. Jude Preached and Explained, tr. E. H. Gillett (New York: Randolph, 1859) | have-clean | CCEL l/luther/stpeter_stjude |
+| Works of Martin Luther, with Introductions and Notes, vol. 1 (Philadelphia: A. J. Holman, 1915) | have-clean | Gutenberg 31604 |
+| Works of Martin Luther, with Introductions and Notes, vol. 2 (Philadelphia: A. J. Holman, 1916) | have-clean | Gutenberg 34904 |
+| Epistle Sermons, vol. 2, tr. J. N. Lenker (Minneapolis: The Luther Press, 1909) | have-clean | Gutenberg 28464 |
+| Epistle Sermons, vol. 3, tr. J. N. Lenker (Minneapolis: The Luther Press, 1909) | have-clean | Gutenberg 30619 |
+| Commentary on Genesis, vol. 1, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, 1904) | have-clean | Gutenberg 48193 |
+| Commentary on Genesis, vol. 2, tr. J. N. Lenker (Minneapolis: The Luther Press, 1910) | have-clean | Gutenberg 27978 |
+| A Commentary on St. Paul's Epistle to the Galatians, the 16th-century English version, with Middleton's Life of Luther, new edition corrected and revised (London: B. Blake, 1839) | have-ocr | IA `commentaryonst00luth` |
+| Martin Luther on the Bondage of the Will, tr. Henry Cole (London: Simpkin & Marshall, 1823) | have-ocr | IA `bondagewill00colegoog` |
+| Precious and Sacred Writings vol. 10: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, 1905) | have-ocr | IA `precioussacredwr10luth` |
+| Precious and Sacred Writings vol. 11: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, 1906) | have-ocr | IA `precioussacredwr11luth` |
+| Precious and Sacred Writings vol. 12: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, 1907) | have-ocr | IA `precioussacredwr12luth` |
+| Precious and Sacred Writings vol. 13: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, copyright 1904) | have-ocr | IA `precioussacredwr13luth` |
+| Precious and Sacred Writings vol. 14: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, copyright 1905) | have-ocr | IA `precioussacredwr14luth` |
+| Table-Talk, tr. Hazlitt, Bohn new edition 1857 (IA tabletalkofmarti00luth): the dated printed witness for the CCEL text | alternate | not shelved |
+| The Bondage of the Will, tr. E. T. Vaughan (London: Hamilton, 1823; IA martinlutheronth00luthuoft): the other 1823 translation | alternate | not shelved |
+| Galatians (London: Mathews & Leigh, 1810; IA commentaryonstpa00luthuoft) | alternate | not shelved |
+| CCEL good_works and PG 418: the Treatise on Good Works from Works vol. 1 (1915), already on this shelf | alternate | not shelved |
+| CCEL galatians and PG 1549: Graebner's 1939 abridgment | excluded | |
+| CCEL bondage: Atherton's 1931 revision of Cole | excluded | |
+| CCEL sermons: keyed from a Baker reprint of Lenker | excluded | |
+| Works of Martin Luther vols. 3-6 (1930-32), and PG 272 and PG 1670 (modern translations) | excluded | |
+
+## William Symington (round 15, my pick, 2026-10-10)
+
+Slugs `symington-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| Messiah the Prince: or, The Mediatorial Dominion of Jesus Christ, with a memoir (London, Edinburgh and New York: T. Nelson, 1881) | have-ocr | IA `messiahtheprince00symiuoft` |
+| On the Atonement and Intercession of Jesus Christ, second edition (Edinburgh: William Whyte, MDCCCXXXIV) | have-ocr | IA `onatonementinter00symi_1` |
+| Messiah the Prince, 2nd ed. (Edinburgh: Johnstone, catalogued 1840; IA messiahprinceorm00symi_1): noisy front matter | alternate | not shelved |
+| On the Atonement, 3rd American ed. (New York: Carter, 1847; IA onatonementinter00symi) | alternate | not shelved |
+
+## John Dick (round 15, my pick, 2026-10-10)
+
+Slugs `jdick-*`. Lectures on Theology vols. 3-4 sit under misleading IA ids (sermonspreached03crai, 04crai); their title pages read Dick's Lectures.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on the Acts of the Apostles, second edition (New York: Robert Carter, 1857) | have-clean | CCEL d/dick_j/acts |
+| Lectures on Theology, vol. 1 (Edinburgh: William Oliphant, MDCCCXXXIV) | have-ocr | IA `lecturesontheol01dick` |
+| Lectures on Theology, vol. 2 (Edinburgh: William Oliphant, MDCCCXXXIV) | have-ocr | IA `lecturesontheol02dick` |
+| Lectures on Theology, vol. 3 (Edinburgh: William Oliphant, MDCCCXXXIV; the IA identifier is misleading) | have-ocr | IA `sermonspreached03crai` |
+| Lectures on Theology, vol. 4 (Edinburgh: William Oliphant, MDCCCXXXIV; the IA identifier is misleading) | have-ocr | IA `sermonspreached04crai` |
+| An Essay on the Inspiration of the Holy Scriptures, first American from the second English edition, with W. Parry's essay (Boston: Lincoln & Edmands, 1811) | have-ocr | IA `anessayoninspir00parrgoog` |
+| the Edinburgh first edition (Ritchie, 1800; IA anessayoninspir00dickgoog): long-s OCR | alternate | not shelved |
+
+## F. W. Krummacher (in English) (round 15, my pick, 2026-10-10)
+
+Slugs `fwkrummacher-*`. Not F. A. Krummacher (the Parables) or G. D. Krummacher; three of the six name no translator.
+
+| Work | Status | Where |
+|---|---|---|
+| Elijah the Tishbite (London, Edinburgh and New York: T. Nelson, 1869; translator not named) | have-ocr | IA `elijahtishbite00krum` |
+| The Suffering Saviour, tr. Samuel Jackson, second edition revised (Edinburgh: T. & T. Clark, MDCCCLVI) | have-ocr | IA `sufferingsaviour00krum` |
+| The Risen Redeemer, tr. John T. Betts (New York: Robert Carter, 1863) | have-ocr | IA `risenredeemergos00krum` |
+| The Martyr Lamb, fifth edition (New York: Robert Carter, 1845; translator not named) | have-ocr | IA `martyrlamborchri00krum` |
+| The Dew of Israel and the Lily of God (New York: Robert Carter, 1840, from the second London edition; translator not named) | have-ocr | IA `dewofisraellily00krum` |
+| Friedrich Wilhelm Krummacher: An Autobiography, ed. his daughter, tr. M. G. Easton (Edinburgh: T. & T. Clark, MDCCCLXIX) | have-ocr | IA `friedrichwilhelm00krum` |
+| Elisha (no imprint or year; catalogued 1840; IA elisha0000fwkr_p7n0): a weak witness | alternate | not shelved |
+
+## E. W. Hengstenberg (in English) (round 15, my pick, 2026-10-10)
+
+Slugs `hengstenberg-*`. The Fairbairn shelf leaves these translations out as other men's books; this is their home.
+
+| Work | Status | Where |
+|---|---|---|
+| Christology of the Old Testament, vol. 1, tr. Theodore Meyer, second edition (Edinburgh: T. & T. Clark, MDCCCLXVIII) | have-ocr | IA `christologyofold01heng` |
+| Christology of the Old Testament, vol. 2, tr. Theodore Meyer (Edinburgh: T. & T. Clark, 1861) | have-ocr | IA `christologyofold02heng` |
+| Christology of the Old Testament, vol. 3, tr. James Martin (Edinburgh: T. & T. Clark, MDCCCLXIV) | have-ocr | IA `christologyofold03heng` |
+| Christology of the Old Testament, vol. 4, tr. James Martin (Edinburgh: T. & T. Clark, MDCCCLXV) | have-ocr | IA `christologyofold04heng` |
+| Commentary on the Psalms, vol. 1, fourth edition (Edinburgh: T. & T. Clark, 1863; translator not named on this title page) | have-ocr | IA `commentaryonpsal186301heng` |
+| Commentary on the Psalms, vol. 2, tr. John Thomson and Patrick Fairbairn (Edinburgh: T. & T. Clark, 1864) | have-ocr | IA `commentaryonpsal186402heng` |
+| Commentary on the Psalms, vol. 3, tr. John Thomson and Patrick Fairbairn (Edinburgh: T. & T. Clark, 1864) | have-ocr | IA `commentaryonpsal186403heng` |
+| The Revelation of St John Expounded, vol. 1, tr. Patrick Fairbairn (Edinburgh: T. & T. Clark, 1851) | have-ocr | IA `revelationstjoh01fairgoog` |
+| The Revelation of St John Expounded, vol. 2, tr. Patrick Fairbairn (Edinburgh: T. & T. Clark, 1852) | have-ocr | IA `revelationstjoh00fairgoog` |
+| Commentary on Ecclesiastes, with Other Treatises, tr. D. W. Simon (Philadelphia: Smith, English, 1860) | have-ocr | IA `commentaryoneccl00heng` |
+| Egypt and the Books of Moses, tr. R. D. C. Robbins (Andover: Allen, Morrill & Wardwell, 1843); the translator's name OCRs as "J^BBINS", so it is not machine-checked | have-ocr | IA `egyptbooksofmose00heng` |
+| Commentary on the Gospel of St John, vol. 1 (Edinburgh: T. & T. Clark, 1865; translator not named) | have-ocr | IA `commentaryongosp01heng` |
+| Commentary on the Gospel of St John, vol. 2 (Edinburgh: T. & T. Clark, 1865; translator not named) | have-ocr | IA `commentaryongosp02heng` |
+| Gutenberg 30410 and 30608: Christology vols. 1-2 only; the IA set is complete | alternate | not shelved |
+
+## August Neander (in English) (round 15, my pick, 2026-10-10)
+
+Slugs `neander-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| The Life of Jesus Christ in Its Historical Connexion, tr. John M'Clintock and Charles E. Blumenthal (New York: Harper, 1870) | have-clean | CCEL n/neander_a/life |
+| Light in the Dark Places (New York: Lane & Scott, 1851; translator not named) | have-clean | CCEL n/neander_a/light |
+| The Epistle to the Philippians Practically Explained, tr. Mrs H. C. Conant (New York: Lewis Colby, 1853) | have-clean | CCEL n/neander_a/expo_phil |
+| The Epistle of James Practically Explained, tr. Mrs H. C. Conant (New York: Lewis Colby, 1853) | have-clean | CCEL n/neander_a/expo_james |
+| The First Epistle of John Practically Explained, tr. Mrs H. C. Conant (New York: Lewis Colby, 1853) | have-clean | CCEL n/neander_a/expo_1john |
+| General History of the Christian Religion and Church, vol. 1, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871) | have-ocr | IA `generalhistoryof187101nean` |
+| General History of the Christian Religion and Church, vol. 2, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871) | have-ocr | IA `generalhistoryof187102nean` |
+| General History of the Christian Religion and Church, vol. 3, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871) | have-ocr | IA `generalhistoryof187103nean` |
+| General History of the Christian Religion and Church, vol. 4, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871) | have-ocr | IA `generalhistoryof187104nean` |
+| General History of the Christian Religion and Church, vol. 5, tr. Joseph Torrey, thirteenth American edition (Boston: Houghton, Mifflin; entered 1871) | have-ocr | IA `generalhistoryof187105nean` |
+| History of the Planting and Training of the Christian Church by the Apostles, tr. J. E. Ryland, rev. E. G. Robinson (New York: Sheldon; Boston: Gould & Lincoln; entered 1864) | have-ocr | IA `historyofplantin1864nean` |
+| Planting, Bohn 1851, 2 vols (IA historyofplanting01nean, 02nean): title pages not read | alternate | not shelved |
+| Index to Neander's General History by Thomas Clayton (Houghton, Mifflin, 1881; IA generalhistoryof00nean): Clayton's index, not Neander's text | alternate | not shelved |
+
+## August Tholuck (in English) (round 15, my pick, 2026-10-10)
+
+Slugs `tholuck-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| Guido and Julius; or, Sin and the Propitiator, tr. Jonathan Edwards Ryland (Boston: Gould & Lincoln, 1854) | have-ocr | IA `guidojuliusorsin00thol` |
+| Commentary on the Gospel of St. John, tr. A. Kaufman, second edition (New York: Saxton & Miles, 1842) | have-ocr | IA `commentaryongosp0000thol` |
+| Exposition of St Paul's Epistle to the Romans, vol. 1, tr. Robert Menzies, Biblical Cabinet V (Edinburgh: Thomas Clark, 1833) | have-ocr | IA `expositionofstpa05thol` |
+| Exposition of St Paul's Epistle to the Romans, vol. 2, tr. Robert Menzies, Biblical Cabinet XII (Edinburgh: Thomas Clark, 1836) | have-ocr | IA `expositionofstpa12thol` |
+| Exposition of Christ's Sermon on the Mount, vol. 1, tr. Robert Menzies, Biblical Cabinet VI (Edinburgh: Thomas Clark, 1834); the translator's name OCRs as MENZIE8, so it is not machine-checked | have-ocr | IA `expositiondoctri06thol` |
+| Exposition of Christ's Sermon on the Mount, vol. 2, tr. Robert Menzies, Biblical Cabinet XX (Edinburgh: Thomas Clark, MDCCCXXXVII) | have-ocr | IA `expositiondoctri20thol` |
+| A Commentary on the Epistle to the Hebrews, vol. 1, tr. James Hamilton, Biblical Cabinet XXXVIII (Edinburgh: Thomas Clark, 1842) | have-ocr | IA `acommentaryonep02rylagoog` |
+| A Commentary on the Epistle to the Hebrews, vol. 2, tr. James Hamilton, Biblical Cabinet XXXIX (Edinburgh: Thomas Clark, 1842) | have-ocr | IA `acommentaryonep00rylagoog` |
+| Light from the Cross: Sermons on the Passion (Philadelphia: W. S. & A. Martien, 1858; translator not named) | have-ocr | IA `lightfromcross00thol` |

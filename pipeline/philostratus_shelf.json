@@ -16,6 +16,11 @@
    "philostratusinho00philuoft",
    "Philostratus, In Honour of Apollonius of Tyana, vol. 1 (Oxford, 1912)",
    "tr. J. S. Phillimore"
+  ],
+  "philostratus-eells-apollonius-1923": [
+   "lifetimesofapoll00phil",
+   "A Life and Times of Apollonius of Tyana, rendered into English from the Greek of Philostratus the Elder (Stanford University Publications, 1923)",
+   "tr. Charles P. Eells"
   ]
  },
  "_surname": [
@@ -23,12 +28,13 @@
  ],
  "_translators": {
   "philostratus-berwick-apollonius": "Edward Berwick",
-  "philostratus-phillimore-apollonius-v1": "J. S. Phillimore"
+  "philostratus-phillimore-apollonius-v1": "J. S. Phillimore",
+  "philostratus-eells-apollonius-1923": "charles p. eells"
  },
  "_checks": {
   "philostratus-berwick-apollonius": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "philostratus",
    "translator_claimed": "Edward Berwick",
@@ -41,7 +47,7 @@
   },
   "philostratus-phillimore-apollonius-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "philostratus",
    "translator_claimed": "J. S. Phillimore",
@@ -50,6 +56,19 @@
    "ia_rights": "ok: published 1912",
    "ia_date": "1912",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "philostratus-eells-apollonius-1923": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "philostratus",
+   "translator_claimed": "charles p. eells",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

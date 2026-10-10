@@ -1,0 +1,192 @@
+{
+ "_about": "Public-domain August Tholuck (1799-1877, professor at Halle) in pre-1930 English translations: Guido and Julius (tr. J. E. Ryland, 1854), the Gospel of St John (tr. A. Kaufman, 2nd ed., 1842), Romans (2 vols, tr. Robert Menzies, 1833-36), the Sermon on the Mount (2 vols, tr. Robert Menzies, 1834-37), Hebrews (2 vols, tr. James Hamilton, 1842) and Light from the Cross (1858), raw Internet Archive OCR. Added 2026-10-10 by lane A, round 15 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "tholuck",
+  "augustus"
+ ],
+ "_surname": [
+  "augustus tholuck",
+  "august tholuck",
+  "a. tholuck",
+  "dr. tholuck",
+  "tholuck, augustus",
+  "dr. a. tholuck",
+  "augustus tholuck, d.d"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tholuck-guido-julius-1854": [
+   "guidojuliusorsin00thol",
+   "Guido and Julius; or, Sin and the Propitiator, tr. Jonathan Edwards Ryland (Boston: Gould & Lincoln, 1854)"
+  ],
+  "tholuck-john-1842": [
+   "commentaryongosp0000thol",
+   "Commentary on the Gospel of St. John, tr. A. Kaufman, second edition (New York: Saxton & Miles, 1842)"
+  ],
+  "tholuck-romans-1": [
+   "expositionofstpa05thol",
+   "Exposition of St Paul's Epistle to the Romans, vol. 1, tr. Robert Menzies, Biblical Cabinet V (Edinburgh: Thomas Clark, 1833)"
+  ],
+  "tholuck-romans-2": [
+   "expositionofstpa12thol",
+   "Exposition of St Paul's Epistle to the Romans, vol. 2, tr. Robert Menzies, Biblical Cabinet XII (Edinburgh: Thomas Clark, 1836)"
+  ],
+  "tholuck-sermon-mount-1": [
+   "expositiondoctri06thol",
+   "Exposition of Christ's Sermon on the Mount, vol. 1, tr. Robert Menzies, Biblical Cabinet VI (Edinburgh: Thomas Clark, 1834); the translator's name OCRs as MENZIE8, so it is not machine-checked"
+  ],
+  "tholuck-sermon-mount-2": [
+   "expositiondoctri20thol",
+   "Exposition of Christ's Sermon on the Mount, vol. 2, tr. Robert Menzies, Biblical Cabinet XX (Edinburgh: Thomas Clark, MDCCCXXXVII)"
+  ],
+  "tholuck-hebrews-1": [
+   "acommentaryonep02rylagoog",
+   "A Commentary on the Epistle to the Hebrews, vol. 1, tr. James Hamilton, Biblical Cabinet XXXVIII (Edinburgh: Thomas Clark, 1842)"
+  ],
+  "tholuck-hebrews-2": [
+   "acommentaryonep00rylagoog",
+   "A Commentary on the Epistle to the Hebrews, vol. 2, tr. James Hamilton, Biblical Cabinet XXXIX (Edinburgh: Thomas Clark, 1842)"
+  ],
+  "tholuck-light-from-cross-1858": [
+   "lightfromcross00thol",
+   "Light from the Cross: Sermons on the Passion (Philadelphia: W. S. & A. Martien, 1858; translator not named)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_identity_checked": {
+  "tholuck-sermon-mount-2": {
+   "author": "title page read 2026-10-10: OCR gives \"TRANSLATED FROM THE ORIGINAL GERMAN OF DR. A.”THOLUCK, CONSISTORIAL COUNSELLOR AND PROFESSOR OF THEOLOGY IN THE UNIVERSITY OF HALLE\" (a stray quote mark), by Robert Menzies: A. Tholuck"
+  }
+ },
+ "_rights_checked": {
+  "tholuck-john-1842": "a \"0000\"-style id; the research pass read the title page: second edition, New York: Saxton & Miles, 1842"
+ },
+ "_translators": {
+  "tholuck-guido-julius-1854": "ryland",
+  "tholuck-john-1842": "kaufman",
+  "tholuck-romans-1": "menzies",
+  "tholuck-romans-2": "menzies",
+  "tholuck-sermon-mount-2": "menzies",
+  "tholuck-hebrews-1": "hamilton",
+  "tholuck-hebrews-2": "hamilton"
+ },
+ "_checks": {
+  "tholuck-guido-julius-1854": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dr. tholuck",
+   "translator_claimed": "ryland",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tholuck-john-1842": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. tholuck",
+   "translator_claimed": "kaufman",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "a \"0000\"-style id; the research pass read the title page: second edition, New York: Saxton & Miles, 1842"
+  },
+  "tholuck-romans-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dr. tholuck",
+   "translator_claimed": "menzies",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tholuck-romans-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dr. tholuck",
+   "translator_claimed": "menzies",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tholuck-sermon-mount-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dr. tholuck",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tholuck-sermon-mount-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "menzies",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tholuck-hebrews-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. tholuck",
+   "translator_claimed": "hamilton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tholuck-hebrews-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. tholuck",
+   "translator_claimed": "hamilton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tholuck-light-from-cross-1858": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. tholuck",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

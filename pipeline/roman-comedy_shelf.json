@@ -69,11 +69,17 @@
    "trinnummustmacc00plaugoog",
    "The Trinummus of T. Maccius Plautus translated into literal English, with notes (London: Simpkin, Marshall, 1883)",
    "tr. A. H. Evans"
+  ],
+  "terence-cooke-1755-v1": [
+   "comediestranslat01tere",
+   "Terence's Comedies, translated into English, together with the original Latin, with critical and explanatory notes, second edition, vol. I (London: R. Ware and others, 1755)",
+   "tr. Thomas Cooke"
   ]
  },
  "_excluded": {
-  "Paul Nixon, Loeb Plautus (1916-38)": "vol. 1 (PG), vols. 2 and 3 (IA) held; vols. 4-5 first printed 1932 and 1938, not PD",
-  "Bonnell Thornton's Plautus (1767-74)": "PD verse; the only scans (IA bim_eighteenth-century_the-comedies-of-plautus-_plautus-titus-maccius_1767_1/_2/_3) are ECCO OCR at 0.65-0.70 clean words. Refused for OCR quality on 2026-10-02, retaken that evening without new evidence and withdrawn again on review; wanted only from a cleaner scan"
+  "Paul Nixon, Loeb Plautus (1916-38)": "vol. 1 (PG) and vol. 2 (IA) held; vol. 3 (1924) is held back on rights because its only scan is a 1980 reprint (see plautus-nixon-v3's note below); vols. 4-5 first printed 1932 and 1938, not PD",
+  "Bonnell Thornton's Plautus (1767-74)": "PD verse; the only scans (IA bim_eighteenth-century_the-comedies-of-plautus-_plautus-titus-maccius_1767_1/_2/_3) are ECCO OCR at 0.65-0.70 clean words. Refused for OCR quality on 2026-10-02, retaken that evening without new evidence and withdrawn again on review; wanted only from a cleaner scan",
+  "comediestranslat02tere": "Cooke's Terence (1755), vol. II: no readable title page in the OCR (the preface is signed Thomas Cooke). Not taken under the title-page rule; vol. I is held."
  },
  "_surname": [
   "plautus",
@@ -91,12 +97,13 @@
   "plautus-nixon-v2": "Paul Nixon",
   "terence-sargeaunt-v1": "John Sargeaunt",
   "terence-sargeaunt-v2": "John Sargeaunt",
-  "plautus-evans-trinummus-1883": "h. evans"
+  "plautus-evans-trinummus-1883": "h. evans",
+  "terence-cooke-1755-v1": "thomas cooke"
  },
  "_checks": {
   "plautus-riley-captivi-mostellaria": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "Henry T. Riley",
@@ -108,7 +115,7 @@
   },
   "terence-riley-comedies": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "terence",
    "translator_claimed": "Henry T. Riley",
@@ -120,7 +127,7 @@
   },
   "terence-colman-comedies": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "terence",
    "translator_claimed": "George Colman",
@@ -132,7 +139,7 @@
   },
   "terence-goodluck-andrian": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "terence",
    "translator_claimed": "W. R. Goodluck",
@@ -144,7 +151,7 @@
   },
   "plautus-nixon-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "Paul Nixon",
@@ -156,7 +163,7 @@
   },
   "plautus-riley-comedies-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "henry thomas riley",
@@ -169,7 +176,7 @@
   },
   "plautus-riley-comedies-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "henry thomas riley",
@@ -182,7 +189,7 @@
   },
   "plautus-nixon-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "Paul Nixon",
@@ -195,7 +202,7 @@
   },
   "terence-sargeaunt-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "terence",
    "translator_claimed": "John Sargeaunt",
@@ -208,7 +215,7 @@
   },
   "terence-sargeaunt-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "terence",
    "translator_claimed": "John Sargeaunt",
@@ -221,7 +228,7 @@
   },
   "terence-echard-1733": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "terence",
    "identity": "ok",
@@ -232,7 +239,7 @@
   },
   "plautus-evans-trinummus-1883": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "h. evans",
@@ -241,6 +248,20 @@
    "ia_rights": "ok: published 1883",
    "ia_date": "1883",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "terence-cooke-1755-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "plautus",
+   "translator_claimed": "thomas cooke",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1755",
+   "ia_date": "1755",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },

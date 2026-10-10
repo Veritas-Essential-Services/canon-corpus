@@ -1,0 +1,116 @@
+{
+ "_about": "Jacob Abbott's first Rollo books, stories of a boy's work, play and learning: Rollo at Work, Rollo at Play, Rollo's Experiments, Rollo's Museum. Rollo's Experiments and Rollo's Museum (both entered for copyright in 1839) print only \"by the author of Rollo learning to talk\" and the rest; the attribution to Abbott is the Gutenberg catalogue's. His Makers of History biographies, the Rollo travel books and the Franconia stories are left for now. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Jacob Abbott",
+ "_name_words": [
+  "rollo"
+ ],
+ "_surname": [
+  "jacob abbott"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jabbott-rollo-at-work": [
+   25274,
+   "Rollo at Work",
+   {
+    "levels": [
+     {
+      "re": "(?:NOTICE TO PARENTS|LABOR\\ LOST|THE\\ TWO\\ LITTLE\\ WHEELBARROWS|CAUSEY\\-BUILDING|ROLLO’S\\ GARDEN|THE\\ APPLE\\-GATHERING|GEORGIE)\\.?$"
+     },
+     {
+      "re": "(?:Elky|Preparations|A\\ Bad\\ Beginning|What\\ Rollo\\ Might\\ Do|A\\ New\\ Plan|Hirrup!\\ Hirrup!|An\\ Overturn|Rides|The\\ Corporal’s|The\\ Old\\ Nails|A\\ Conversation|Rollo\\ Learns\\ to\\ Work\\ at\\ Last|The\\ Corporal’s\\ Again|Sand\\-Men|The\\ Gray\\ Garden|A\\ Contract|Instructions|Keeping\\ Tally|Rights\\ Defined|Calculation|Farmer\\ Cropwell|Work\\ and\\ Play|Planting|The\\ Trying\\ Time|A\\ Narrow\\ Escape|Advice|The\\ Garden\\-House|Jolly|The\\ Pet\\ Lamb|The\\ Meadow\\-Russet|Insubordination|Subordination|The\\ New\\ Plan\\ Tried|A\\ Present|The\\ Strawberry\\-Bed|The\\ Farmer’s\\ Story|The\\ Little\\ Landing|Georgie’s\\ Money|Two\\ Good\\ Friends|A\\ Lecture\\ On\\ Playthings|The\\ Young\\ Drivers|The\\ Toy\\-Shop)\\.?$"
+     }
+    ],
+    "start": "NOTICE TO PARENTS\\.$",
+    "front": true
+   }
+  ],
+  "jabbott-rollo-at-play": [
+   11140,
+   "Rollo at Play; Or, Safe Amusements",
+   {
+    "levels": [
+     {
+      "re": "(?:NOTICE TO PARENTS|ROLLO\\ AT\\ PLAY\\ IN\\ THE\\ WOODS|THE STEEPLE.TRAP|THE\\ HALO\\ ROUND\\ THE\\ MOON;\\ OR,\\ LUCY’S\\ VISIT|THE\\ FRESHET|BLUEBERRYING|TROUBLE\\ ON\\ THE\\ MOUNTAIN)\\.?$"
+     },
+     {
+      "re": "(?:THE\\ SETTING\\ OUT|BRIDGE.BUILDING|A\\ VISITOR|DIFFICULTY|HEARTS\\ WRONG|HEARTS\\ RIGHT\\ AGAIN|THE\\ WAY\\ TO\\ CATCH\\ A\\ SQUIRREL|THE\\ WAY\\ TO\\ LOSE\\ A\\ SQUIRREL|HOW\\ TO\\ KEEP\\ A\\ SQUIRREL|FIRES\\ IN\\ THE\\ WOODS|“A ROUND RAINBOW\\.”|WHO\\ KNOWS\\ BEST,\\ A\\ LITTLE\\ BOY\\ OR\\ HIS\\ FATHER|REPENTANCE|MARIA\\ AND\\ THE\\ CARAVAN|SMALL\\ CRAFT|THE\\ PRINCIPLES\\ OF\\ ORDER|CLEARING\\ UP|OLD\\ TRUMPETER|DEVIATION|LITTLE\\ MOSETTE|GOING\\ UP|THE\\ SECRET\\ OUT|BOASTING|GETTING\\ IN\\ TROUBLE|A\\ TEST\\ OF\\ PENITENCE)[.!?]?$",
+      "strip": "^“|\\.?”$"
+     }
+    ],
+    "start": "ROLLO AT PLAY IN THE WOODS\\.$",
+    "front": true
+   }
+  ],
+  "jabbott-rollos-experiments": [
+   24993,
+   "Rollo's Experiments",
+   {
+    "levels": [
+     {
+      "re": "(?:JONAS\\sAN\\sASTRONOMER|PRUNING|THE\\sGREAT\\sBEETLE\\sAND\\sWEDGE|THE\\sLITTLE\\sBEETLE\\sAND\\sWEDGE|SPLITTING|HOROLOGY|JONAS'S\\sDIAL|THE\\sBEE\\-HIVE|JONAS'S\\sMAGNET|MAGNETISM|INTELLECTUAL\\sPHILOSOPHY|OSCILLATIONS|ROLLO'S\\sEXPERIMENTS)\\.?$",
+      "max": 120
+     }
+    ],
+    "start": "JONAS\\ AN\\ ASTRONOMER\\.?$",
+    "front": true
+   }
+  ],
+  "jabbott-rollos-museum": [
+   25548,
+   "Rollo's Museum",
+   {
+    "levels": [
+     {
+      "re": "(?:THE\\sCANAL|A\\sFALSE\\sALARM|THE\\sHEMLOCK\\-SEED|A\\sLITTLE\\sLAW|CONFUSION|ORGANIZATION|CAUGHT,\\-\\-AND\\sGONE\\sAGAIN|THE\\sBAILMENT\\sCASES|THE\\sCURIOSITIES|THE\\sSEA\\-SHORE|THE\\sCLIFFS|THE\\sTHREE\\sNORTHMEN|ROLLO'S\\sMUSEUM)\\.?$",
+      "max": 120
+     }
+    ],
+    "start": "THE\\ CANAL\\.?$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "jabbott-rollo-in-the-woods": "PG 19195, 'Rollo in the Woods': a short Rollo Story Books number whose text is 94% the same paragraphs as Rollo at Play (PG 11140), which is kept; held once (2026-10-10)."
+ },
+ "_checks": {
+  "jabbott-rollo-at-work": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-rollo-at-play": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-rollos-experiments": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-rollos-museum": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

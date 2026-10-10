@@ -57,13 +57,20 @@
    "lucianofsamosata02luciuoft",
    "Lucian of Samosata, from the Greek, with the comments and illustrations of Wieland and others, vol. II (London, 1820)",
    "tr. William Tooke"
+  ],
+  "lucian-maginn-1856": [
+   "homericballadsan00homeuoft",
+   "Homeric Ballads and Comedies of Lucian (Miscellaneous Writings of the late Dr. Maginn, vol. IV; New York: Redfield, 1856)",
+   "tr. William Maginn"
   ]
  },
  "_cross_ref": {
   "dryden-polybius-lucian": "Dryden shelf, lane C (Dryden's Life of Lucian)"
  },
  "_excluded": {
-  "A. M. Harmon, Loeb (1913-)": "held in part from Perseus: 41 texts (lucian-perseus-harmon-*). early vols. US PD by date, Greek facing; on Perseus; pending"
+  "A. M. Harmon, Loeb (1913-)": "held in part from Perseus: 41 texts (lucian-perseus-harmon-*). early vols. US PD by date, Greek facing; on Perseus; pending",
+  "Carr, Dialogues of Lucian from the Greek (1773-98, 5 vols.)": "Not taken under the title-page rule: no scan found shows a readable title page (Google bub_gb_NerIjdd7gQEC; UCLA dialoguesoflucia02/03luciiala; Toronto dialoguesfromgre01/02luciuoft; ECCO 1798 set, OCR 0.78-0.81). Vol. I's preface is signed John Carr and vol. V's 'J. C., Jan. 29, 1798'. Adam may waive the rule (DIGEST-B).",
+  "selectdialogues00murpgoog": "Murphy's Select Dialogues (1804; Greek text with a literal translation): OCR 0.68, under the 0.78 bar."
  },
  "perseus": {
   "lucian-perseus-harmon-the-ignorant-book-collector": [
@@ -431,12 +438,13 @@
   "lucian-perseus-smith-loukios-or-the-ass": "Emily James Smith",
   "lucian-perseus-smith-the-halcyon": "Emily James Smith",
   "lucian-tooke-1820-v1": "William Tooke",
-  "lucian-tooke-1820-v2": "William Tooke"
+  "lucian-tooke-1820-v2": "William Tooke",
+  "lucian-maginn-1856": "william maginn"
  },
  "_checks": {
   "lucian-fowler-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "H. W.",
@@ -448,7 +456,7 @@
   },
   "lucian-fowler-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "H. W.",
@@ -460,7 +468,7 @@
   },
   "lucian-fowler-v3": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "H. W.",
@@ -472,7 +480,7 @@
   },
   "lucian-fowler-v4": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "H. W.",
@@ -484,7 +492,7 @@
   },
   "lucian-francklin-trips-to-the-moon": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "Thomas Francklin",
@@ -496,7 +504,7 @@
   },
   "lucian-hickes-true-history": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "Francis Hickes",
@@ -508,7 +516,7 @@
   },
   "lucian-francklin-1780-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "Thomas Francklin",
@@ -521,7 +529,7 @@
   },
   "lucian-francklin-1780-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "Thomas Francklin",
@@ -534,7 +542,7 @@
   },
   "lucian-tooke-1820-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "William Tooke",
@@ -547,7 +555,7 @@
   },
   "lucian-tooke-1820-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "William Tooke",
@@ -555,6 +563,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1820",
    "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lucian-maginn-1856": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lucian",
+   "translator_claimed": "william maginn",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

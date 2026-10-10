@@ -1,0 +1,134 @@
+{
+ "_about": "Sophie May's Little Prudy books, the first of her series for small children: Little Prudy, Little Prudy's Sister Susy, Little Prudy's Captain Horace, Little Prudy's Cousin Grace and Little Prudy's Dotty Dimple (first entered for copyright in 1864; these Gutenberg texts are 1891-92 printings whose copyright lines name Rebecca S. Clarke, the woman behind the pen name). Gutenberg catalogue: Sophie May 1833-1906. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Sophie May",
+ "_name_words": [
+  "prudy"
+ ],
+ "_surname": [
+  "sophie may"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "smay-little-prudy": [
+   24711,
+   "Little Prudy",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "smay-little-prudys-sister-susy": [
+   14202,
+   "Little Prudy's Sister Susy",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "smay-little-prudys-captain-horace": [
+   25484,
+   "Captain Horace",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "smay-little-prudys-cousin-grace": [
+   49686,
+   "Little Prudy's Cousin Grace",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "smay-little-prudys-dotty-dimple": [
+   16390,
+   "Little Prudy's Dotty Dimple",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "smay-little-prudys-captain-horace-2": "PG 53306, Little Prudy's Captain Horace in a later printing: the same book as PG 25484, which is kept; held once (2026-10-10)."
+ },
+ "_checks": {
+  "smay-little-prudy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-little-prudys-sister-susy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-little-prudys-captain-horace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-little-prudys-cousin-grace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-little-prudys-dotty-dimple": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -72,7 +72,7 @@
 ## Review fixes, 2026-10-02 21:10 CDT (for Adam)
 - **Duplicates now under `_held`, not fetched as second witnesses:** 111 Perseus TEI rows that repeat a translation already on the same shelf (Plutarch's Goodwin Moralia 77, Adams's Hippocrates 17 and Aretaeus 4, Brock's Galen, Burton and Smithers's Catullus, Heath's Euclid, Conington's Odes, Long and Higginson's Epictetus 4, the Fowlers' Lucian 2, Rolfe's Julius, Murray's Rhesus). 132 Perseus rows remain. Also held: Cary's Pindar (lane C's cary shelf), PG 6762 and 8438 (Adler shelf), Edghill's Categories (Oxford vol. I).
 - **Adler shelf label error, yours to fix:** `adler_shelf.json` labels PG 6762 (aristotle-politics) "tr. Jowett", but Gutenberg's header names William Ellis (his 1776 translation). Lane B does not edit that file.
-- **Held back on rights:** Seneca his Tenne Tragedies (Tudor Translations, 1927) carries T. S. Eliot's introduction: US public domain by date, but not life+70. Take the text without it, or the 1581 or 1887 printings?
+- **Held back on rights:** Seneca his Tenne Tragedies (Tudor Translations, 1927) carries T. S. Eliot's introduction: US public domain by date, but not life+70. Take the text without it, or the 1581 or 1887 printings? **Settled 2026-10-10 without needing a ruling:** the same translations are now held from the 1581 first printing, so the 1927 printing stays out.
 - **Withdrawn again:** Smart's 1756 Horace and Thornton's 1767 Plautus. The ECCO OCR is 0.65-0.76, and nothing new justified retaking them.
 - **Collated:** PG 14020 (anonymous literal Horace) matches Smart's prose as Buckley revised it (107 of 200 sampled 8-word runs), not the 1756 form. Both are kept; is one enough?
 
@@ -155,3 +155,10 @@
 - Cicero: Reid's Academics, Smith's De Amicitia and Black's Tusculan I added (07:17). No decision needed.
 - Roman historians: Aikin's Tacitus added; the 18th-century ECCO candidates fell under the OCR bar (07:19). No decision needed.
 - Greek prose: Mackay's Sophistes added; the rest is held (07:21). No decision needed.
+- Ransome, Swallows and Amazons (08:59, at Adam's request): only book 1 is public domain, and only in the US (since 1 January 2026); none of the twelve is free in the UK until 2038, and books 2-12 free in the US one by one from 2027 to 2043. Book 1 is held from a 1946 Cape impression, OCR 0.88. Three calls for Adam: (1) is a US-only book acceptable on the shelf, given Armarium may be read from the UK; (2) the scan is a later printing, not collated against 1930; (3) its drawings and captions date from the 1938 edition, so the captions are not yet US public domain. Faded Page has proofread texts of all twelve, but those are free in Canada only, so none were taken.
+- Round 2026-10-10a (09:11): nine volumes added. Two held back for you: (1) The Index Expurgatorius of Martial (1868), public domain with clean OCR, but it collects only the obscene epigrams; say if it belongs on the shelf. (2) Carr's five-volume Dialogues of Lucian (1773-98): no scan shows a readable title page, though the prefaces are signed John Carr; say if the signed preface is enough.
+- Round 2026-10-10b (09:19): the Tenne Tragedies hold is settled by taking the 1581 first printing (no Eliot introduction); two more volumes added; notes corrected. No decision needed.
+- Round 2026-10-10c (09:27): five volumes added; no decision needed.
+- Round 2026-10-10d (09:31): five volumes added; no decision needed.
+- Round 2026-10-10e (09:42): six volumes added. Cooke's Terence vol. II joins Carr's Lucian in the title-page question already asked; no new decision.
+- Round 2026-10-10f (09:48): three volumes added; Goldwin Smith's Euripides excerpts taken back out. No decision needed.

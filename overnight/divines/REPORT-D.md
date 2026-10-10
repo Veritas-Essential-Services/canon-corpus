@@ -845,3 +845,51 @@
 
 ## 2026-10-03 07:41 CDT — baring-gould-otc: done
 - 1/1 fetched (Gutenberg 72268), 4,212 units, 0 ~2 ids.
+
+## 2026-10-10 09:03 CDT — sophie-may: done
+- 5/5 fetched (Gutenberg 24711, 14202, 25484, 49686, 16390), 4,105 units, 0 ~2 ids.
+
+## 2026-10-10 09:05 CDT — jacob-abbott: done
+- 4/4 fetched (Gutenberg 25274, 11140, 24993, 25548), 3,862 units, 0 ~2 ids.
+
+## 2026-10-10 09:07 CDT — oliver-optic: done
+- 3/3 fetched (Gutenberg 24557, 15002, 14762), 5,463 units, 0 ~2 ids.
+
+## 2026-10-10 09:09 CDT — james-cowan: done
+- 1/1 fetched (Gutenberg 73766), 156 units, 0 ~2 ids.
+
+## 2026-10-10 09:11 CDT — kate-mccosh-clark: done
+- 1/1 fetched (Gutenberg 69782), 441 units, 0 ~2 ids.
+
+## 2026-10-10 09:13 CDT — ranger-gull: done
+- 1/1 fetched (Gutenberg 41935), 635 units, 0 ~2 ids.
+
+## 2026-10-10 09:16 CDT — saintine: done
+- 1/1 fetched (Gutenberg 44430), 1,301 units, 0 ~2 ids.
+
+## 2026-10-10 09:18 CDT — busk-hofer: done
+- 1/1 fetched (Gutenberg 44746), 1,849 units, 0 ~2 ids.
+
+## 2026-10-10 09:22 CDT — hardwick: done
+- 1/1 fetched (Gutenberg 39934), 1,651 units, 0 ~2 ids.
+
+## 2026-10-10 09:25 CDT — harland-wilkinson: done
+- 1/1 fetched (Gutenberg 41148), 1,507 units, 0 ~2 ids.
+
+## 2026-10-10 09:27 CDT — armistead: done
+- 1/1 fetched (Gutenberg 42359), 1,064 units, 0 ~2 ids.
+
+## 2026-10-10 09:29 CDT — burton-harrison: done
+- 1/1 fetched (Gutenberg 37348), 910 units, 0 ~2 ids.
+
+## 2026-10-10 09:31 CDT — toru-dutt: done
+- 1/1 fetched (Gutenberg 23245), 364 units, 0 ~2 ids.
+
+## 2026-10-10 09:34 CDT — rice-davies: done
+- 1/1 fetched (Gutenberg 39539), 1,011 units, 0 ~2 ids.
+
+## 2026-10-10 09:36 CDT — mary-eastman: done
+- 1/1 fetched (Gutenberg 10794), 1,184 units, 0 ~2 ids.
+
+## 2026-10-10 09:38 CDT — napier: done
+- 1/1 fetched (Gutenberg 15792), 403 units, 0 ~2 ids.

@@ -1408,6 +1408,7 @@ Shelf: `pipeline/busk_shelf.json` (2026-10-02; added at the coordinator's relay 
 |---|---|---|
 | Patrañas; or, Spanish Stories, Legendary and Traditional (London: Griffith and Farran, 1870) | have | PG 45859, `busk-patranas` (1411 units) |
 | Roman Legends: A Collection of the Fables and Folk-lore of Rome | have | PG 48771, `busk-roman-legends` (3421 units) |
+| Household stories from the Land of Hofer; or, Popular Myths of Tirol | have | PG 44746, `busk-household-stories-from-the-land-of-hofer` (1849 units) |
 
 ## Wentworth Webster
 
@@ -2974,6 +2975,137 @@ Shelf: `pipeline/kalakaua_shelf.json` (2026-10-02; added at the coordinator's re
 | Work | Status | Where |
 |---|---|---|
 | The Legends and Myths of Hawaii | have | PG 56597, `kalakaua-legends-and-myths-of-hawaii` (2677 units) |
+
+## Sophie May
+
+Shelf: `pipeline/sophie-may_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Little Prudy books for small children; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Little Prudy | have | PG 24711, `smay-little-prudy` (921 units) |
+| Little Prudy's Sister Susy | have | PG 14202, `smay-little-prudys-sister-susy` (758 units) |
+| Captain Horace | have | PG 25484, `smay-little-prudys-captain-horace` (877 units) |
+| Little Prudy's Cousin Grace | have | PG 49686, `smay-little-prudys-cousin-grace` (780 units) |
+| Little Prudy's Dotty Dimple | have | PG 16390, `smay-little-prudys-dotty-dimple` (769 units) |
+| smay-little-prudys-captain-horace-2 | excluded | PG 53306, Little Prudy's Captain Horace in a later printing: the same book as PG 25484, which is kept; held once (2026-10-10). |
+
+## Jacob Abbott
+
+Shelf: `pipeline/jacob-abbott_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The first Rollo books; cut by story and section, or by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Rollo at Work | have | PG 25274, `jabbott-rollo-at-work` (968 units) |
+| Rollo at Play; Or, Safe Amusements | have | PG 11140, `jabbott-rollo-at-play` (939 units) |
+| Rollo's Experiments | have | PG 24993, `jabbott-rollos-experiments` (952 units) |
+| Rollo's Museum | have | PG 25548, `jabbott-rollos-museum` (1003 units) |
+| jabbott-rollo-in-the-woods | excluded | PG 19195, 'Rollo in the Woods': a short Rollo Story Books number whose text is 94% the same paragraphs as Rollo at Play (PG 11140), which is kept; held once (2026-10-10). |
+
+## Oliver Optic
+
+Shelf: `pipeline/oliver-optic_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Boat Club series, its first three books; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Boat Club; or, The Bunkers of Rippleton | have | PG 24557, `optic-the-boat-club` (2245 units) |
+| All Aboard; or, Life on the Lake | have | PG 15002, `optic-all-aboard` (1604 units) |
+| Now or Never; Or, The Adventures of Bobby Bright | have | PG 14762, `optic-now-or-never` (1614 units) |
+
+## James Cowan
+
+Shelf: `pipeline/james-cowan_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Maori legends of the Port Hills; cut by chapter and story. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Maori folk-tales of the Port Hills, Canterbury, New Zealand | have | PG 73766, `jcowan-maori-folk-tales-of-the-port-hills` (156 units) |
+
+## Kate McCosh Clark
+
+Shelf: `pipeline/kate-mccosh-clark_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). A New Zealand fairy tale drawing on Maori legend, with notes; cut by section. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Southern Cross fairy tale | have | PG 69782, `kmclark-southern-cross-fairy-tale` (441 units) |
+
+## C. Ranger-Gull (Guy Thorne)
+
+Shelf: `pipeline/ranger-gull_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Odyssey retold; cut by episode. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Adventures of Ulysses the Wanderer | have | PG 41935, `rgull-adventures-of-ulysses` (635 units) |
+
+## X.-B. Saintine (tr. M. Schele de Vere)
+
+Shelf: `pipeline/saintine_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Myths and legends of the Rhine, translated; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Myths of the Rhine | have | PG 44430, `saintine-myths-of-the-rhine` (1301 units) |
+
+## Charles Hardwick
+
+Shelf: `pipeline/hardwick_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Lancashire and northern folklore set beside its parallels; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Traditions, Superstitions and Folk-lore | have | PG 39934, `hardwick-traditions-superstitions-and-folk-lore` (1651 units) |
+
+## John Harland and T. T. Wilkinson
+
+Shelf: `pipeline/harland-wilkinson_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Lancashire superstitions, customs and legends; cut by section. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Lancashire Folk-lore | have | PG 41148, `harland-lancashire-folk-lore` (1507 units) |
+
+## Wilson Armistead
+
+Shelf: `pipeline/armistead_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Tales and legends of the Lake District; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Tales and Legends of the English Lakes | have | PG 42359, `armistead-tales-and-legends-of-the-english-lakes` (1064 units) |
+
+## Mrs. Burton Harrison
+
+Shelf: `pipeline/burton-harrison_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Fairy tales and romances of the Middle Ages; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Old-Fashioned Fairy Book | have | PG 37348, `bharrison-old-fashioned-fairy-book` (910 units) |
+
+## Toru Dutt
+
+Shelf: `pipeline/toru-dutt_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Indian legends in ballad form, with Gosse's memoir; cut by ballad and part. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Ancient Ballads and Legends of Hindustan | have | PG 23245, `tdutt-ancient-ballads-and-legends-of-hindustan` (364 units) |
+
+## R. Rice Davies
+
+Shelf: `pipeline/rice-davies_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Welsh tales, scenes and legends; cut by tale and chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Cambrian Sketch-Book: Tales, Scenes, and Legends of Wild Wales | have | PG 39539, `rdavies-cambrian-sketch-book` (1011 units) |
+
+## Mary H. Eastman
+
+Shelf: `pipeline/mary-eastman_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Dakota life and legends; cut by legend and chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Dahcotah: Life and Legends of the Sioux Around Fort Snelling | have | PG 10794, `meastman-dahcotah` (1184 units) |
+
+## James Napier
+
+Shelf: `pipeline/napier_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Superstitions of the West of Scotland; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Folk lore | have | PG 15792, `napier-folk-lore-west-of-scotland` (403 units) |
 
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 

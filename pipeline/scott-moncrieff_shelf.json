@@ -1,0 +1,323 @@
+{
+ "_about": "TRANSLATOR SHELF: C. K. Scott Moncrieff (1889-1930): Proust, Stendhal, the Song of Roland, Beowulf, Abelard and Heloise. Only translations first published before 1931 AND available in a pre-1931 printing are shelved; the later Proust volumes survive online only in 1932+ reprints and wait in _pending. US public domain (pre-1931 publication); UK public domain since 2001 (d. 1930). Added 2026-10-10 by lane C (round 9); Adam may veto. No uids minted.",
+ "_name_words": [
+  "scott moncrieff",
+  "scott-moncrieff"
+ ],
+ "_surname": [
+  "scott moncrieff",
+  "scott-moncrieff"
+ ],
+ "_surname_note": "Never the bare 'moncrieff': A. R. Hope Moncrieff (travel books) and W. T. Moncrieff (plays) are on the same catalogue pages.",
+ "ccel": {},
+ "gutenberg": {
+  "moncrieff-swann": [
+   7178,
+   "Swann's Way"
+  ],
+  "moncrieff-budding-grove": [
+   63532,
+   "Within a Budding Grove"
+  ],
+  "moncrieff-guermantes": [
+   73425,
+   "The Guermantes Way"
+  ],
+  "moncrieff-roland": [
+   391,
+   "The Song of Roland"
+  ],
+  "moncrieff-charterhouse-1": [
+   66374,
+   "The Charterhouse of Parma"
+  ],
+  "moncrieff-charterhouse-2": [
+   66375,
+   "The Charterhouse of Parma"
+  ]
+ },
+ "internet_archive": {
+  "moncrieff-beowulf": [
+   "widsithbeowulff00scotuoft",
+   "Widsith, Beowulf"
+  ],
+  "moncrieff-abbess-of-castro": [
+   "abbessofcastro0000cksc",
+   "The Abbess of Castro"
+  ],
+  "moncrieff-abelard": [
+   "lettersofabelard0000abel",
+   "The Letters of Abelard and Heloise"
+  ],
+  "moncrieff-armance": [
+   "armance0000sten",
+   "Armance"
+  ]
+ },
+ "titles": {
+  "moncrieff-proust-swanns-way": {
+   "source": "moncrieff-swann",
+   "of": "Proust",
+   "work": "Swann's Way",
+   "translated": 1922,
+   "translator": "C. K. Scott Moncrieff",
+   "scan_edition": "Project Gutenberg 7178 (clean text); Henry Holt, New York, 1922"
+  },
+  "moncrieff-proust-within-a-budding-grove": {
+   "source": "moncrieff-budding-grove",
+   "of": "Proust",
+   "work": "Within a Budding Grove",
+   "translated": 1924,
+   "translator": "C. K. Scott Moncrieff",
+   "scan_edition": "Project Gutenberg 63532 (clean text); Thomas Seltzer, 1924"
+  },
+  "moncrieff-proust-guermantes-way": {
+   "source": "moncrieff-guermantes",
+   "of": "Proust",
+   "work": "The Guermantes Way",
+   "translated": 1925,
+   "translator": "C. K. Scott Moncrieff",
+   "scan_edition": "Project Gutenberg 73425 (clean text), made from a Modern Library printing that lists The Past Recaptured (1932), so the printing is 1932 or later; the text is Seltzer's 1925 (copyright line kept). Adam's call, DIGEST-C round 9."
+  },
+  "moncrieff-song-of-roland": {
+   "source": "moncrieff-roland",
+   "of": "anonymous (Old French)",
+   "work": "The Song of Roland",
+   "translated": 1919,
+   "translator": "C. K. Scott Moncrieff",
+   "scan_edition": "Project Gutenberg 391 (clean text)"
+  },
+  "moncrieff-stendhal-charterhouse-of-parma": {
+   "source": [
+    "moncrieff-charterhouse-1",
+    "moncrieff-charterhouse-2"
+   ],
+   "of": "Stendhal",
+   "work": "The Charterhouse of Parma",
+   "translated": 1925,
+   "translator": "C. K. Scott Moncrieff",
+   "scan_edition": "Project Gutenberg 66374 + 66375 (clean text, two volumes)"
+  },
+  "moncrieff-beowulf": {
+   "source": "moncrieff-beowulf",
+   "of": "anonymous (Old English)",
+   "work": "Widsith, Beowulf, Finnsburgh, Waldere, Deor",
+   "translated": 1921,
+   "translator": "C. K. Scott Moncrieff",
+   "scan_edition": "Chapman and Hall, London, 1921 (raw OCR)"
+  },
+  "moncrieff-stendhal-abbess-of-castro": {
+   "source": "moncrieff-abbess-of-castro",
+   "of": "Stendhal",
+   "work": "The Abbess of Castro and Other Tales",
+   "translated": 1926,
+   "translator": "C. K. Scott Moncrieff",
+   "scan_edition": "Boni and Liveright, New York, MCMXXVI (1926), raw OCR. The '1930' above the half-title is a handwritten owner's or library date, not an imprint."
+  },
+  "moncrieff-abelard-and-heloise": {
+   "source": "moncrieff-abelard",
+   "of": "Abelard and Heloise",
+   "work": "The Letters of Abelard and Heloise",
+   "translated": 1925,
+   "translator": "C. K. Scott Moncrieff",
+   "scan_edition": "Alfred A. Knopf, New York, March 1926 (raw OCR); first published London 1925"
+  },
+  "moncrieff-stendhal-armance": {
+   "source": "moncrieff-armance",
+   "of": "Stendhal",
+   "work": "Armance",
+   "translated": 1928,
+   "translator": "C. K. Scott Moncrieff",
+   "scan_edition": "Boni and Liveright, New York, MCMXXVIII (1928), raw OCR"
+  }
+ },
+ "_pending": {
+  "moncrieff-proust-cities-of-the-plain": "1927/1929: US PD, but the only open scans (citiesofplain0000prou_b6a6, dli.ernet.16336) are Chatto reprints of 1960 and 1971.",
+  "moncrieff-proust-the-captive": "1929: US PD, but captive00prourich is a Random House printing listing 1932 and 1947; dli.ernet.16281 is a 1957 Chatto reprint.",
+  "moncrieff-proust-sweet-cheat-gone": "1930: US PD since 2026, but every open scan is a 1957+ Random House or 1970 Vintage printing (copyright-renewal lines).",
+  "moncrieff-pirandello-shoot": "1926: shoot0000luig is the 1934 'Nobel Prize Edition'; shoot-luigi-pirandello is a Gutenberg-Australia text of unstated edition.",
+  "moncrieff-pirandello-old-and-young": "1928: only volume 2 is open (oldyoung02pira); volume 1 not found.",
+  "moncrieff-lauzun": "Memoirs of the Duc de Lauzun (1928): translated jointly with Aldington and Rutherford; not checked.",
+  "moncrieff-stendhal-red-and-black": "1926: US PD. redblack0000mari_e9r8, _h6c2 and _z4c1 are all Modern Library printings by Random House (1931 or later; e9r8's back list carries Modern Library Giant numbers). redblack0000unse_p8m8 is the 1926 first printing but volume one only; volume two not found open."
+ },
+ "_excluded": {
+  "moncrieff-past-recaptured": "Time Regained / The Past Recaptured is Stephen Hudson's and Frederick Blossom's, not Scott Moncrieff's (he died in 1930)."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "moncrieff-swann": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "scott moncrieff",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. K. Scott-Moncrieff"
+  },
+  "moncrieff-budding-grove": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "scott moncrieff",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. K. Scott-Moncrieff"
+  },
+  "moncrieff-guermantes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "scott moncrieff",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. K. Scott-Moncrieff"
+  },
+  "moncrieff-roland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "scott moncrieff",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. K. Scott-Moncrieff"
+  },
+  "moncrieff-charterhouse-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "scott moncrieff",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. K. Scott-Moncrieff"
+  },
+  "moncrieff-charterhouse-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "scott moncrieff",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. K. Scott-Moncrieff"
+  },
+  "moncrieff-beowulf": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "scott moncrieff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moncrieff-abbess-of-castro": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "scott moncrieff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moncrieff-abelard": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "scott moncrieff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moncrieff-armance": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "scott moncrieff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "moncrieff-swann": {
+   "pg": 7178,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. K. Scott-Moncrieff"
+  },
+  "moncrieff-budding-grove": {
+   "pg": 63532,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. K. Scott-Moncrieff"
+  },
+  "moncrieff-guermantes": {
+   "pg": 73425,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. K. Scott-Moncrieff"
+  },
+  "moncrieff-roland": {
+   "pg": 391,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. K. Scott-Moncrieff"
+  },
+  "moncrieff-charterhouse-1": {
+   "pg": 66374,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. K. Scott-Moncrieff"
+  },
+  "moncrieff-charterhouse-2": {
+   "pg": 66375,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. K. Scott-Moncrieff"
+  },
+  "moncrieff-beowulf": {
+   "ia": "widsithbeowulff00scotuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1919,
+    1920
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "moncrieff-abbess-of-castro": {
+   "ia": "abbessofcastro0000cksc",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1550,
+    1592,
+    1758,
+    1826,
+    1930
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "moncrieff-abelard": {
+   "ia": "lettersofabelard0000abel",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1925,
+    1926
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "moncrieff-armance": {
+   "ia": "armance0000sten",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1760,
+    1789,
+    1814,
+    1815,
+    1827,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,50 @@
+{
+ "_about": "Toru Dutt's Ancient Ballads and Legends of Hindustan (this printing 1885), nine ballads retelling Indian legends (Savitri, Lakshman, Prehlad, Sita and others) and seven miscellaneous poems, with Edmund Gosse's memoir. Gutenberg catalogue: Toru Dutt 1856-1877, Gosse 1849-1928. Not to be confused with Romesh Chunder Dutt on the dutt shelf. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Toru Dutt",
+ "_name_words": [
+  "hindustan"
+ ],
+ "_surname": [
+  "toru dutt"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tdutt-ancient-ballads-and-legends-of-hindustan": [
+   23245,
+   "Ancient Ballads and Legends of Hindustan",
+   {
+    "levels": [
+     {
+      "re": "(?:INTRODUCTORY MEMOIR|ANCIENT BALLADS OF HINDUSTAN|MISCELLANEOUS POEMS)\\.$",
+      "strip": "\\.$"
+     },
+     {
+      "re": "[IVX]+\\.$|(?:NEAR HASTINGS|FRANCE|THE TREE OF LIFE|ON THE FLY-LEAF OF ERCKMANN-CHATRIAN'S NOVEL ENTITLED \"MADAME THERESE\\.\"|SONNET\\.--BAUGMAREE|SONNET\\.--THE LOTUS|OUR CASUARINA TREE)\\.?$",
+      "title_next": true,
+      "max": 120,
+      "strip": "\\.$"
+     },
+     {
+      "re": "PART [IVX]+\\.$",
+      "strip": "\\.$"
+     }
+    ],
+    "start": "INTRODUCTORY MEMOIR\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "tdutt-ancient-ballads-and-legends-of-hindustan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "toru dutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

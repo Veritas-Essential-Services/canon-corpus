@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-03T05:42-05:00: 47 shelves, 179 titles (rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11; round 7: 12; round 8: 8 — Symonds 3, Blackie 2, Theodore Martin 1, Hearn 2). **11 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
+Totals 2026-10-10T09:45-05:00: 56 shelves, 248 titles (round 13: Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1; round 12: Magnússon-Morris 3, Strindberg 14; round 11: Archer's Ibsen 11; round 10: Ryder 5, Gertrude Bell 1, Levy Nietzsche 15; round 9, Scott Moncrieff: 9; Ransome translations, 2026-10-10: 2; rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11; round 7: 12; round 8: 8 — Symonds 3, Blackie 2, Theodore Martin 1, Hearn 2). **11 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -104,3 +104,53 @@ The coordinator re-sent the Chapman/Pope/Cowper/Butcher-Lang/Jowett/Rawlinson/No
 ## Name audit fix (2026-10-03, from Lane D's audit)
 
 Lane D found that `maude` and a bare `hearn` would also pass other authors' texts (Maude Ashurst Biggs, for one). Eleven shelves now gate on the full printed name only: maude (Aylmer/Louise Maude), hearn (Lafcadio Hearn), southey, symonds, blackie, rossetti, coleridge, garnett, griffith, nicholson, muller. Each was tested against every source on its shelf; the only three misses (southey-amadis-1, garnett-gogol-dikanka, nicholson-divani-1898) already carry `_identity_checked` overrides. All eleven re-verified and re-recorded: 0 mismatched, 0 rights flags. **Your call:** none.
+
+## Ransome as translator (2026-10-10)
+
+Your Swallows and Amazons request reached two lanes at once; Lane B shelved it first (`pipeline/ransome_shelf.json`, its questions are in DIGEST-B), so lane C dropped its own copy before pushing. Lane C's shelf `ransome-translations` holds only what is a translation or retelling: Gourmont's *A Night in the Luxembourg* (1912, PG 46766, translator line reads Arthur Ransome) and *Old Peter's Russian Tales* (1916, PG 16981). Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. **Your call:** none beyond the usual veto.
+
+Two notes on Lane B's shelf, passed to it through the coordinator: its `_surname` is a bare `ransome` (Lane D's audit asks for the full printed name), and Standard Ebooks' proofed CC0 edition (2026-01-01) is a cleaner text than the 1946 OCR if you want a reading copy.
+
+## Round 9: C. K. Scott Moncrieff (2026-10-10)
+
+New shelf `scott-moncrieff`, 9 titles. Nobody else shelves him; checked across every branch. From Gutenberg: Proust's *Swann's Way* (1922), *Within a Budding Grove* (1924) and *The Guermantes Way* (1925), *The Song of Roland* (1919), and Stendhal's *Charterhouse of Parma* (1925, two volumes joined). From archive.org, raw OCR, each title page read: *Widsith, Beowulf* (1921), and *The Abbess of Castro* (1926), *Armance* (1928) and *The Letters of Abelard and Heloise* (Knopf, 1926). Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** Gutenberg's *Guermantes Way* was made from a Modern Library printing of 1932 or later. The text is the 1925 translation. Keep it, or move it to `_pending`?
+
+Pending, because every open scan is a later printing: *Cities of the Plain*, *The Captive*, *The Sweet Cheat Gone*, *The Red and the Black* (only volume one of the 1926 printing is open), and Pirandello's *Shoot!*. *The Old and the Young* has only volume two open.
+
+
+## Round 10: Ryder, Gertrude Bell, the Levy Nietzsche (2026-10-10)
+
+Three new shelves, 21 titles; none was on any other lane's shelf.
+
+- **`ryder`** (5 titles): Arthur W. Ryder's Sanskrit. *Shakuntala and Other Works* (Kalidasa, 1912), *The Little Clay Cart* (1905) and *Twenty-Two Goblins* (1917) come from Gutenberg. *The Panchatantra* (Chicago, 1925) and *The Bhagavad-gita* (1929) are raw OCR. In the Panchatantra scan the printed year is garbled, so it rests on the catalogue's 1925 date. Pending: *Dandin's Ten Princes*, whose only open scan is from 1960.
+- **`gertrude-bell`** (1 title): *Poems from the Divan of Hafiz* (1897).
+- **`levy-nietzsche`** (15 titles): the first complete English Nietzsche, Oscar Levy's edition of 1909 to 1913, all from Gutenberg. It was a team of translators, so each title checks for its own translator's name rather than a shelf-wide one. Mencken's *Antichrist* and Harvey's *Human, All Too Human* are other translators and are excluded.
+
+Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** none beyond the veto. One note: Ludovici lived until 1971, so the UK status of the Levy volumes varies by translator. In the US they are all public domain.
+
+## Round 11: William Archer's Ibsen (2026-10-10)
+
+New shelf `archer-ibsen`: the Heinemann/Scribner Collected Works of Henrik Ibsen (1906-1912), which was the standard English Ibsen. It is shelved one title per volume, vols 1 to 11, with the plays in each listed. Eight volumes come from Gutenberg's clean texts of that edition. Vols 6, 9 and 10 are archive.org OCR with their title pages read: 1906, 1907, and a 1913 impression of 1907. Vol 12 (*From Ibsen's Workshop*) is pending because archive.org returned errors all day. Gutenberg's single plays from the same edition are excluded so nothing is held twice. Sharp's *A Doll's House* stays on Adler's shelf, since it is a different translation. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** none beyond the veto. One note on the UK: Gosse died in 1928 and Herford in 1931, so the volumes they co-translated (*Hedda*, *Master Builder*, *Love's Comedy*, *Brand*) have been UK public domain only since 2002. The US is unaffected.
+
+## Round 12: Magnússon and Morris; Strindberg in English (2026-10-10)
+
+- **`morris-magnusson`** (3 titles, all from Gutenberg): *The Volsunga Saga* (1870), *Grettir the Strong* (1869) and *Frithiof the Bold* (1875). Morris's Homer, Virgil and Beowulf stay on their author shelves. Pending for next round: the six-volume Saga Library (1891-1905) and *Three Northern Love Stories*, both from archive.org. The Volsunga file opens with a modern e-text editor's bibliography, which must be stripped before the text is published.
+- **`strindberg-english`** (14 titles, all from Gutenberg): four Björkman volumes (Scribner, 1913-16), two volumes by Edith and Warner Oland (1912), five by Claud Field (1912-15) and three by Ellie Schleussner (1912-13). Each title checks for its own translator's name. Excluded: Graham Rawson's *Road to Damascus* (a 1939 translation; Gutenberg has it, but it is too late for this lane), two Gutenberg single plays already inside Björkman's second series, and two books with no translator named.
+
+Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. **Your call:** none beyond the veto.
+
+## Round 13: pending items cleared, and Pickthall's Quran (2026-10-10)
+
+- **`morris-magnusson`** gains 7 titles: the six-volume Saga Library (Quaritch, 1891-1905), which includes their Heimskringla, and *Three Northern Love Stories* (1875). These are raw OCR with every title page read. Archive.org labels one copy "vol. 1" when it is actually vol. III, so the right copy is used and the note is recorded. Laing's Heimskringla stays on the Sturluson shelf as a separate translation.
+- **`strindberg-english`** gains Björkman's first series (Scribner, 1912).
+- **`pickthall`** (new, 1 title): Marmaduke Pickthall, *The Meaning of the Glorious Koran* (Knopf, London, 1930), the first English Quran by an English Muslim. It is US public domain since January 2026 and UK public domain since 2007. It sits beside the Sale, Rodwell and Palmer Quran shelves.
+
+Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** Pickthall passes only through a `_rights_checked` override, the same one Swallows and Amazons needed, because fetch_shelf still treats 1930 as in copyright (Lane A's file; I flagged this to the coordinator). Unlike Swallows and Amazons, this scan is a 1930 printing, so there is no later-printing question. Still pending: Archer's Ibsen vol. 12, because archive.org keeps returning errors for that file.

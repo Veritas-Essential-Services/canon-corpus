@@ -1,0 +1,285 @@
+{
+ "_about": "Public-domain Martin Luther (1483-1546) in English translations printed before 1930, each translator read on the title page: First Principles of the Reformation (ed. Wace and Buchheim, 1883), Table-Talk (tr. William Hazlitt), The Epistles of St. Peter and St. Jude (tr. E. H. Gillett, 1859), clean from CCEL; Works of Martin Luther vols. 1-2 (Philadelphia: Holman, 1915-16), Lenker's Epistle Sermons vols. 2-3 (1909) and Commentary on Genesis vols. 1-2 (1904, 1910), clean from Gutenberg; and from the Internet Archive the Galatians in its 16th-century English version (London, 1839), The Bondage of the Will (tr. Henry Cole, 1823) and Lenker's Church Postil gospel sermons (5 vols, 1904-07). Works vols. 3-6 (1930-32) and every later translation are left out. Added 2026-10-10 by lane A, round 15 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "l/luther",
+ "_name_words": [
+  "luther",
+  "martin"
+ ],
+ "_surname": [
+  "martin luther",
+  "dr. martin luther",
+  "luther, martin",
+  "d. martin luther",
+  "martini lutheri",
+  "martin luther's"
+ ],
+ "_held": {},
+ "ccel": {
+  "luther-first-principles": [
+   "first_prin",
+   "First Principles of the Reformation, ed. Henry Wace and C. A. Buchheim (London, 1883)",
+   ""
+  ],
+  "luther-table-talk": [
+   "tabletalk",
+   "The Table-Talk of Martin Luther, tr. William Hazlitt (CCEL: Philadelphia, Lutheran Publication Society, no year)",
+   ""
+  ],
+  "luther-peter-jude": [
+   "stpeter_stjude",
+   "The Epistles of St. Peter and St. Jude Preached and Explained, tr. E. H. Gillett (New York: Randolph, 1859)",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "luther-works-1": [
+   "31604",
+   "Works of Martin Luther, with Introductions and Notes, vol. 1 (Philadelphia: A. J. Holman, 1915)"
+  ],
+  "luther-works-2": [
+   "34904",
+   "Works of Martin Luther, with Introductions and Notes, vol. 2 (Philadelphia: A. J. Holman, 1916)"
+  ],
+  "luther-epistle-sermons-2": [
+   "28464",
+   "Epistle Sermons, vol. 2, tr. J. N. Lenker (Minneapolis: The Luther Press, 1909)"
+  ],
+  "luther-epistle-sermons-3": [
+   "30619",
+   "Epistle Sermons, vol. 3, tr. J. N. Lenker (Minneapolis: The Luther Press, 1909)"
+  ],
+  "luther-genesis-1": [
+   "48193",
+   "Commentary on Genesis, vol. 1, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, 1904)"
+  ],
+  "luther-genesis-2": [
+   "27978",
+   "Commentary on Genesis, vol. 2, tr. J. N. Lenker (Minneapolis: The Luther Press, 1910)"
+  ]
+ },
+ "internet_archive": {
+  "luther-galatians-1839": [
+   "commentaryonst00luth",
+   "A Commentary on St. Paul's Epistle to the Galatians, the 16th-century English version, with Middleton's Life of Luther, new edition corrected and revised (London: B. Blake, 1839)"
+  ],
+  "luther-bondage-will-cole-1823": [
+   "bondagewill00colegoog",
+   "Martin Luther on the Bondage of the Will, tr. Henry Cole (London: Simpkin & Marshall, 1823)"
+  ],
+  "luther-church-postil-10": [
+   "precioussacredwr10luth",
+   "Precious and Sacred Writings vol. 10: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, 1905)"
+  ],
+  "luther-church-postil-11": [
+   "precioussacredwr11luth",
+   "Precious and Sacred Writings vol. 11: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, 1906)"
+  ],
+  "luther-church-postil-12": [
+   "precioussacredwr12luth",
+   "Precious and Sacred Writings vol. 12: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, 1907)"
+  ],
+  "luther-church-postil-13": [
+   "precioussacredwr13luth",
+   "Precious and Sacred Writings vol. 13: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, copyright 1904)"
+  ],
+  "luther-church-postil-14": [
+   "precioussacredwr14luth",
+   "Precious and Sacred Writings vol. 14: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, copyright 1905)"
+  ]
+ },
+ "_alternates": {
+  "luther-table-talk-1857": "Table-Talk, tr. Hazlitt, Bohn new edition 1857 (IA tabletalkofmarti00luth): the dated printed witness for the CCEL text",
+  "luther-bondage-vaughan": "The Bondage of the Will, tr. E. T. Vaughan (London: Hamilton, 1823; IA martinlutheronth00luthuoft): the other 1823 translation",
+  "luther-galatians-1810": "Galatians (London: Mathews & Leigh, 1810; IA commentaryonstpa00luthuoft)",
+  "luther-good-works-ccel": "CCEL good_works and PG 418: the Treatise on Good Works from Works vol. 1 (1915), already on this shelf"
+ },
+ "_excluded": {
+  "luther-galatians-graebner": "CCEL galatians and PG 1549: Graebner's 1939 abridgment",
+  "luther-bondage-atherton": "CCEL bondage: Atherton's 1931 revision of Cole",
+  "luther-sermons-ccel": "CCEL sermons: keyed from a Baker reprint of Lenker",
+  "luther-works-3-6": "Works of Martin Luther vols. 3-6 (1930-32), and PG 272 and PG 1670 (modern translations)"
+ },
+ "_translators": {
+  "luther-table-talk": "hazlitt",
+  "luther-peter-jude": "gillett",
+  "luther-bondage-will-cole-1823": "cole",
+  "luther-first-principles": "buchheim"
+ },
+ "_checks": {
+  "luther-first-principles": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "translator_claimed": "buchheim",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: John Murray, 1883",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "luther-table-talk": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "translator_claimed": "hazlitt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "luther-peter-jude": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "translator_claimed": "gillett",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Minneapolis, Minn., Lutherans in all Lands Co., 1904",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "luther-works-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "luther-works-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "luther-epistle-sermons-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Nicholas Lenker"
+  },
+  "luther-epistle-sermons-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Nicholas Lenker"
+  },
+  "luther-genesis-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Nicholas Lenker"
+  },
+  "luther-genesis-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Nicholas Lenker"
+  },
+  "luther-galatians-1839": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-bondage-will-cole-1823": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "translator_claimed": "cole",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-church-postil-10": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-church-postil-11": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-church-postil-12": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-church-postil-13": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luther-church-postil-14": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin luther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
