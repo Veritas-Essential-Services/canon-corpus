@@ -2563,6 +2563,22 @@ Slugs `jker-*`. Not the other John Kers.
 | Scottish Nationality and Other Papers (Edinburgh: Andrew Elliot, 1887) | have-ocr | IA `scottishnationa00kergoog` |
 | Letters 1866-1885, 2nd ed. 1890 (IA lettersrevjohnk00kergoog): the title page names no author in its OCR | alternate | not shelved |
 | The Day Dawn and the Rain (Carter, 1869; IA daydawnrainother00kerj) and The Victory of Faith (IA victoryoffaithot00kerj): the American printings of the two sermon series | alternate | not shelved |
+
+## James Stalker (round 16, my pick, 2026-10-10)
+
+Slugs `stalker-*`. He died in 1927; only printings before 1930 are taken, and the Life of St. Paul is the 1885 text, not the 1912 revision.
+
+| Work | Status | Where |
+|---|---|---|
+| The Preacher and His Models, the Yale Lectures on Preaching 1891 (London: Hodder & Stoughton, MCMXIX) | have-clean | Gutenberg 24311 |
+| The Life of Jesus Christ, new edition (Edinburgh: T. & T. Clark, 1885) | have-ocr | IA `lifejesuschrist03stalgoog` |
+| The Life of St. Paul, new edition (Edinburgh: T. & T. Clark, 1885) | have-ocr | IA `lifestpaulththo00stalgoog` |
+| Imago Christi: The Example of Jesus Christ (New York: A. C. Armstrong, copyright 1889) | have-ocr | IA `imagochristiexam00stal` |
+| The Trial and Death of Jesus Christ (London: Hodder & Stoughton, 1894) | have-ocr | IA `trialanddeathjc00staluoft` |
+| The Christology of Jesus, the Cunningham Lectures, second edition (London: Hodder & Stoughton, 1900) | have-ocr | IA `christologyofjes00stal` |
+| The Ethic of Jesus according to the Synoptic Gospels (London: Hodder & Stoughton, MCMIX) | have-ocr | IA `ethicofjesusacco00stal_2` |
+| Gutenberg 21828 Life of St. Paul (the 1912 Revell revision) and 21814 Trial and Death (an undated Doran printing): the IA copies carry the original dated text | alternate | not shelved |
+| The Preacher and His Models, first edition (IA thepreacherandhi00staluoft, catalogued 1891) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
