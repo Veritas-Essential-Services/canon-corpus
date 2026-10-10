@@ -774,3 +774,8 @@
 ## 2026-10-10 12:19 CDT — Round 2026-10-10ag: 3 Latin grammars
 - Taken: Bennett's New Latin Grammar and Lane's Latin Grammar (completed by Morgan), both clean Gutenberg; Allen and Greenough's Latin Grammar, revised edition (Ginn, 1887), OCR 0.80
 - Under the bar: Goodwin's Greek Grammar (1892, 0.70), Smyth's Greek Grammar for Colleges (1920, 0.66) and Gildersleeve and Lodge's Latin Grammar (1894, 0.74). The Greek ones are mostly Greek paradigms, so they belong to the Greek-facing measure question already with Adam rather than to bad OCR
+
+## 2026-10-10 12:20 CDT — Lane B paused: the scholarship seam is thinning
+- Since the 15:55Z pivot: about 259 volumes over rounds 10q-10ag, on roughly 100 scholarship and reference shelves (Grote, Mommsen, Thirlwall, Curtius, Merivale, Niebuhr, Ihne, Freeman, Holm, Abbott, Bury; Jebb, Sandys, Mure, K. O. Müller; Smith's dictionaries, Seyffert, Anthon, Rich, Peck; Bunbury, Tozer, Leake; Latin grammars)
+- The last two rounds gave 9 and 3 volumes. What remains is second-tier, or fails a gate: OCR under 0.78 (Fynes Clinton, Hermann, Mayor's Juvenal, Conington's Virgil commentary), Greek-facing (Jebb's Sophocles, Goodwin's and Smyth's Greek grammars), illegible imprint years, or only post-1930 printings. Per the coordinator's steer, the lane stops here rather than grinding on small finds
+- Wanted, if the lane restarts: Leake's Morea vol. II, Bevan's Seleucus vol. II, Warde Fowler's City-State and Mahaffy's Ptolemies in dated scans, an unexpanded Lempriere
