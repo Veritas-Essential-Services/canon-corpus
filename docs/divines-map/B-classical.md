@@ -264,6 +264,7 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | The Eclogues and Georgics of Virgil (London: Dorrell and Son; undated title page; the preface is dated Kensington, 1866, and no later year appears; IA catalogue 1866) | John Benson Rose | `virgil-rose-eclogues-georgics` | have-raw (IA `ecloguesandgeor00rosegoog`) |
 | A Translation of Virgil's Eclogues into Rhythmic Prose, based on those in Professor Conington's edition (London: Longmans, Green, Reader, and Dyer, 1870) | E. M. Millington | `virgil-millington-eclogues-1870` | have-raw (IA `atranslationvir00marogoog`) |
 | A Translation of the First Book of the Georgics of Virgil, in Blank Verse, with notes critical and explanatory (London: W. Phillips, 1825) | Robert Hoblyn | `virgil-hoblyn-georgics-i-1825` | have-raw (IA `atranslationfir00marogoog`) |
+| The Eclogues of Virgil translated into English verse (printed for private distribution, 1868) | Henry Duncan Skrine | `virgil-skrine-eclogues-1868` | have-raw (IA `ecloguesofvirgil00vir`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
@@ -336,6 +337,7 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | The Odyssey of Homer, Books I-XII, translated into English verse, with notes and parallel passages (Edinburgh and London: William Blackwood and Sons, 1880) | Sir Charles Du Cane | `homer-du-cane-odyssey-1880` | have-raw (IA `odysseybooksixi00homegoog`) |
 | The Iliad of Homer in English Hexameter Verse (London: Longmans, Green, and Co.; title-page date partly legible as LXV, catalogue 1865) | J. Henry Dart | `homer-dart-iliad-1865` | have-raw (IA `cu31924026468441`) |
 | The Iliad of Homer, translated into English prose, edited with an introduction by Evelyn Abbott (London: Percival and Co., 1891) | John Purves | `homer-purves-iliad-1891` | have-raw (IA `iliadhomertrans00abbogoog`) |
+| The Hymns of Homer, translated into verse from the original Greek, with notes (Philadelphia: Mifflin and Parry, 1830) | Columbus C. Conwell | `homer-conwell-hymns-1830` | have-raw (IA `hymnshomertrans00conwgoog`) |
 
 Pending (wishlist): none known beyond the rows above.
 
@@ -1140,6 +1142,7 @@ Shelf: `pipeline/juvenal_shelf.json`. Evans's literal prose with Gifford's verse
 | A Translation of Juvenal and Persius into English verse, second edition, with a new translation of Persius instead of Dr. Brewster's (London: Rivington and others, MDCCLXXXVI) | Edward Owen | `juvenal-persius-owen-1786` | have-raw (IA `atranslationjuv00persgoog`) |
 | Juvenal and Persius literally translated for the use of students (London: Whittaker, Treacher, 1829) | William Smart | `juvenal-persius-smart-1829` | have-raw (IA `juvenalandpersi01persgoog`) |
 | The Satires of Juvenal and Persius literally translated (London: Sampson Low, 1848) | W. Wallace | `juvenal-persius-wallace-1848` | have-raw (IA `satiresjuvenala00persgoog`) |
+| A New Translation, with Notes, of the Third Satire of Juvenal, to which are added miscellaneous poems original and translated (New York: E. Sargeant, 1806) | anonymous (catalogue attribution: John Duer) | `juvenal-duer-third-satire-1806` | have-raw (IA `thirdsatirejuvenal00nonerich`) |
 
 
 ## Plautus and Terence
@@ -1161,6 +1164,7 @@ Shelf: `pipeline/roman-comedy_shelf.json`. Riley's complete Plautus (raw IA, 2 v
 | Terence, vol. 2 (Loeb, 1912) | John Sargeaunt | `terence-sargeaunt-v2` | have-raw (IA `terence00iijohn`) |
 | Terence's Comedies made English, with his life and some remarks at the end, eighth edition, revised by Dr. Echard and Sir R. L'Estrange (London: Knapton and others, MDCCXXXIII) | Laurence Echard | `terence-echard-1733` | have-raw (IA `terencescomedie00teregoog`) |
 | The Trinummus of T. Maccius Plautus translated into literal English, with notes (London: Simpkin, Marshall, 1883) | A. H. Evans | `plautus-evans-trinummus-1883` | have-raw (IA `trinnummustmacc00plaugoog`) |
+| Terence's Comedies, translated into English, together with the original Latin, with critical and explanatory notes, second edition, vol. I (London: R. Ware and others, 1755) | Thomas Cooke | `terence-cooke-1755-v1` | have-raw (IA `comediestranslat01tere`) |
 
 Pending (wishlist): Thornton's verse Plautus (1767-74), from a cleaner scan than the ECCO OCR (0.65-0.70), which was refused.
 
@@ -1976,6 +1980,7 @@ Shelf: `pipeline/phaedrus_shelf.json`. Riley's prose with Smart's verse (Gutenbe
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Fables of Phaedrus | Henry T. Riley (prose) and Christopher Smart (verse) | `phaedrus-riley-smart` | have (PG 25512) |
+| A Poetical Version of the Fables of Phaedrus, with an appendix of four fables by Gudius (preface dated January 1, 1854) | Frederick Toller | `phaedrus-toller-1854` | have-raw (IA `poeticalversiono00phae`) |
 
 ## Justin, Nepos, Eutropius, Florus, Velleius
 

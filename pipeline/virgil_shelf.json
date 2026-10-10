@@ -210,6 +210,11 @@
    "atranslationfir00marogoog",
    "A Translation of the First Book of the Georgics of Virgil, in Blank Verse, with notes critical and explanatory (London: W. Phillips, 1825)",
    "tr. Robert Hoblyn"
+  ],
+  "virgil-skrine-eclogues-1868": [
+   "ecloguesofvirgil00vir",
+   "The Eclogues of Virgil translated into English verse (printed for private distribution, 1868)",
+   "tr. Henry Duncan Skrine"
   ]
  },
  "_cross_ref": {
@@ -297,12 +302,13 @@
  "_translator_unchecked": {
   "virgil-rhoades-eclogues": "translator on the row (James Rhoades (verse); PG names no translator: identified by collating its openi) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
   "virgil-pitt-warton-1763-v3": "title page OCRs the name as 'CHRISTOPH ER PITT' (split by OCR; Dodsley, MDCCLXIII); the claim is not matched as written",
-  "virgil-rose-eclogues-georgics": "title page names John Benson Rose (London: Dorrell and Son; undated); the OCR reads 'BOSE', and 'rose' is a common word"
+  "virgil-rose-eclogues-georgics": "title page names John Benson Rose (London: Dorrell and Son; undated); the OCR reads 'BOSE', and 'rose' is a common word",
+  "virgil-skrine-eclogues-1868": "translator (henry duncan skrine) is not printed as a word in the OCR text"
  },
  "_checks": {
   "virgil-rhoades-eclogues": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "identity": "ok",
@@ -311,7 +317,7 @@
   },
   "virgil-rhoades-georgics": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "James Rhoades",
@@ -323,7 +329,7 @@
   },
   "virgil-conington-aeneid": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "John Conington",
@@ -336,7 +342,7 @@
   },
   "virgil-mackail-aeneid": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "J. W. Mackail",
@@ -348,7 +354,7 @@
   },
   "virgil-morris-aeneid": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "William Morris",
@@ -360,7 +366,7 @@
   },
   "virgil-taylor-aeneid": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "Edward Fairfax Taylor",
@@ -372,7 +378,7 @@
   },
   "virgil-humphries-aeneid": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "Rolfe Humphries",
@@ -384,7 +390,7 @@
   },
   "virgil-rhoades-poems-1921": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "James Rhoades",
@@ -397,7 +403,7 @@
   },
   "virgil-conington-works-1880": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "john conington",
@@ -410,7 +416,7 @@
   },
   "virgil-mackail-eclogues-georgics": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "J. W. Mackail",
@@ -423,7 +429,7 @@
   },
   "virgil-fairclough-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "H. Rushton Fairclough",
@@ -437,7 +443,7 @@
   },
   "virgil-fairclough-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "H. Rushton Fairclough",
@@ -450,7 +456,7 @@
   },
   "virgil-williams-georgics-eclogues": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "Theodore Chickering Williams",
@@ -463,7 +469,7 @@
   },
   "virgil-cranch-aeneid": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "Christopher Pearse Cranch",
@@ -489,7 +495,7 @@
   },
   "virgil-douglas-eneados-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "gawinus douglas",
@@ -502,7 +508,7 @@
   },
   "virgil-stanyhurst-1836": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "Richard Stanyhurst",
@@ -515,7 +521,7 @@
   },
   "virgil-davidson-buckley-1874": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "Theodore Alois Buckley",
@@ -528,7 +534,7 @@
   },
   "virgil-lonsdale-lee-1871": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "James Lonsdale",
@@ -541,7 +547,7 @@
   },
   "virgil-kennedy-1849-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "Charles Rann Kennedy",
@@ -554,7 +560,7 @@
   },
   "virgil-kennedy-1849-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "Charles Rann Kennedy",
@@ -567,7 +573,7 @@
   },
   "virgil-pitt-warton-1763-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "Joseph Warton",
@@ -580,7 +586,7 @@
   },
   "virgil-pitt-warton-1763-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "title_weak": true,
@@ -592,7 +598,7 @@
   },
   "virgil-crane-aeneid-1888": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "Oliver Crane",
@@ -606,7 +612,7 @@
   },
   "virgil-long-aeneid-1879": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "John D. Long",
@@ -620,7 +626,7 @@
   },
   "virgil-rickards-aeneid-1-6-1871": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "Rickards",
@@ -634,7 +640,7 @@
   },
   "virgil-bowen-1889": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "Charles Bowen",
@@ -648,7 +654,7 @@
   },
   "virgil-sotheby-georgics-1808": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "William Sotheby",
@@ -661,7 +667,7 @@
   },
   "virgil-blackmore-georgics-1871": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "R. D. Blackmore",
@@ -674,7 +680,7 @@
   },
   "virgil-preston-georgics-1881": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "vergil",
    "translator_claimed": "Harriet Waters Preston",
@@ -687,7 +693,7 @@
   },
   "virgil-burghclere-georgics-1-2-1900": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "Burghclere",
@@ -700,7 +706,7 @@
   },
   "virgil-edwards-bucolics-1825": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "T. W. C. Edwards",
@@ -713,7 +719,7 @@
   },
   "virgil-royds-eclogues-1922": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "Thomas Fletcher Royds",
@@ -726,7 +732,7 @@
   },
   "virgil-smith-eclogues-1909": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "Perley Smith",
@@ -739,7 +745,7 @@
   },
   "virgil-conington-verse-aeneid-1867": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "Conington",
@@ -753,7 +759,7 @@
   },
   "virgil-thornhill-aeneid-1886": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "Thornhill",
@@ -766,7 +772,7 @@
   },
   "virgil-king-eclogues-georgics-1882": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "J. M. King",
@@ -779,7 +785,7 @@
   },
   "virgil-rose-eclogues-georgics": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "identity": "ok",
@@ -790,7 +796,7 @@
   },
   "virgil-millington-eclogues-1870": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "e. m. millington",
@@ -803,7 +809,7 @@
   },
   "virgil-hoblyn-georgics-i-1825": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "virgil",
    "translator_claimed": "robert hoblyn",
@@ -812,6 +818,17 @@
    "ia_rights": "ok: published 1825",
    "ia_date": "1825",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "virgil-skrine-eclogues-1868": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
   }
  },
