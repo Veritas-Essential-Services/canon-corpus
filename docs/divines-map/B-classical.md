@@ -336,6 +336,7 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | The Odyssey of Homer, Books I-XII, translated into English verse, with notes and parallel passages (Edinburgh and London: William Blackwood and Sons, 1880) | Sir Charles Du Cane | `homer-du-cane-odyssey-1880` | have-raw (IA `odysseybooksixi00homegoog`) |
 | The Iliad of Homer in English Hexameter Verse (London: Longmans, Green, and Co.; title-page date partly legible as LXV, catalogue 1865) | J. Henry Dart | `homer-dart-iliad-1865` | have-raw (IA `cu31924026468441`) |
 | The Iliad of Homer, translated into English prose, edited with an introduction by Evelyn Abbott (London: Percival and Co., 1891) | John Purves | `homer-purves-iliad-1891` | have-raw (IA `iliadhomertrans00abbogoog`) |
+| The Hymns of Homer, translated into verse from the original Greek, with notes (Philadelphia: Mifflin and Parry, 1830) | Columbus C. Conwell | `homer-conwell-hymns-1830` | have-raw (IA `hymnshomertrans00conwgoog`) |
 
 Pending (wishlist): none known beyond the rows above.
 
@@ -1140,7 +1141,6 @@ Shelf: `pipeline/juvenal_shelf.json`. Evans's literal prose with Gifford's verse
 | A Translation of Juvenal and Persius into English verse, second edition, with a new translation of Persius instead of Dr. Brewster's (London: Rivington and others, MDCCLXXXVI) | Edward Owen | `juvenal-persius-owen-1786` | have-raw (IA `atranslationjuv00persgoog`) |
 | Juvenal and Persius literally translated for the use of students (London: Whittaker, Treacher, 1829) | William Smart | `juvenal-persius-smart-1829` | have-raw (IA `juvenalandpersi01persgoog`) |
 | The Satires of Juvenal and Persius literally translated (London: Sampson Low, 1848) | W. Wallace | `juvenal-persius-wallace-1848` | have-raw (IA `satiresjuvenala00persgoog`) |
-| A New Translation, with Notes, of the Third Satire of Juvenal, to which are added miscellaneous poems original and translated (New York: E. Sargeant, 1806) | anonymous (catalogue attribution: John Duer) | `juvenal-duer-third-satire-1806` | have-raw (IA `thirdsatirejuvenal00nonerich`) |
 
 
 ## Plautus and Terence
