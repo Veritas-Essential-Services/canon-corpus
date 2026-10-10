@@ -601,3 +601,8 @@
 - Added: Cooke's Terence vol. I (1755), Toller's Phaedrus (1854), anonymous Juvenal III (1806), Skrine's Eclogues (1868), Conwell's Homeric Hymns (1830), Stanley's Anacreon, Bion and Moschus (1815)
 - Not taken: Cooke's Terence vol. II (title-page rule, same class as Carr's Lucian); the 1828 interlinear Phaedrus
 - Held already: Bailey and Leonard's Lucretius, Colman's Terence, Badham's Juvenal, Williams's and Cranch's Virgil, Lang's hymns and Theocritus, Dodd's Callimachus
+
+## 2026-10-10 09:48 CDT — Round 2026-10-10f: subject sweep
+- Added: Potter's Sophocles (1820, cleaner scan), Gilchrist's Iliad I-VIII (1869), Bland's Greek Anthology collections (1813)
+- Corrected: Goldwin Smith's Euripides excerpts moved to _excluded, matching the rule already applied to his Sophocles
+- Held already: Adams's Hippocrates, Morgan's Vitruvius, Bennett's Frontinus, Collier's Celsus, Holland's Suetonius

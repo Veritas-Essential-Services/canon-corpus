@@ -956,6 +956,14 @@
    "started": "2026-10-10T09:31:46-05:00",
    "finished": "2026-10-10T09:42:13-05:00",
    "notes": "Added Cooke's Terence vol. I 1755, Toller's Phaedrus 1854, an anonymous Third Satire of Juvenal 1806, Skrine's Eclogues 1868, Conwell's Homeric Hymns 1830, Stanley's Anacreon, Bion and Moschus (1815 edition). Cooke vol. II not taken (no title page in OCR); the 1828 Phaedrus is an interlinear crib."
+  },
+  {
+   "id": "round-2026-10-10f",
+   "status": "done",
+   "scope": "Greek science, Roman technical writers and historians; IA subject sweep of classical translations",
+   "started": "2026-10-10T09:42:13-05:00",
+   "finished": "2026-10-10T09:48:14-05:00",
+   "notes": "Science, technical and historian candidates were all held. From the subject sweep: Potter's Sophocles 1820 from a cleaner scan (0.843; the refused one read 0.758), Gilchrist's Iliad I-VIII 1869, Bland's Collections from the Greek Anthology 1813. Goldwin Smith's Euripides Specimens (added in round 10d) taken back out: excerpts, excluded like his PG 7073 volume."
   }
  ]
 }
