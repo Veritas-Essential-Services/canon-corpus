@@ -3276,6 +3276,8 @@ Shelf: `pipeline/dyer_shelf.json`. Ancient Athens (1873) and The City of Rome, 2
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Ancient Athens: its History, Topography, and Remains (London: Bell and Daldy, 1873) |  | `dyer-ancient-athens-1873` | have-raw (IA `cu31924028305294`) |
+| The City of Rome: its Vicissitudes and Monuments, second edition, revised (London: George Bell, 1883) |  | `dyer-city-of-rome-1883` | have-raw (IA `cityromeitsvici00dyergoog`) |
 
 ## J. H. Middleton (scholarship)
 
