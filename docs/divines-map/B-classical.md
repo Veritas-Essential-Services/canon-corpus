@@ -2711,13 +2711,13 @@ Shelf: `pipeline/heitland_shelf.json`. William Emerton Heitland (1847-1935), St 
 
 ## B. G. Niebuhr (scholarship)
 
-Shelf: `pipeline/niebuhr_shelf.json`. Barthold Georg Niebuhr (1776-1831) in English: Lectures on Roman History, ed. Isler, tr. H. Le M. Chepmell and F. Demmler (3 vols.), and Lectures on Ancient Ethnography and Geography, tr. Leonhard Schmitz (2 vols.): 5 clean Gutenberg texts. Not minted.
+Shelf: `pipeline/niebuhr_shelf.json`. Barthold Georg Niebuhr (1776-1831) in English: Lectures on Roman History, ed. Isler, tr. H. M. Chepmell and F. Demmler (1875, 3 vols.), and Lectures on Ancient Ethnography and Geography, tr. Leonhard Schmitz (2 vols.): 5 clean Gutenberg texts. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
-| Niebuhr's Lectures on Roman History, vol. 1 | Chepmell | `niebuhr-lectures-roman-history-v1` | have (PG 71375) |
-| Niebuhr's Lectures on Roman History, vol. 2 | Chepmell | `niebuhr-lectures-roman-history-v2` | have (PG 71385) |
-| Niebuhr's Lectures on Roman History, vol. 3 | Chepmell | `niebuhr-lectures-roman-history-v3` | have (PG 75732) |
+| Niebuhr's Lectures on Roman History, vol. 1 | H. M. Chepmell and F. Demmler | `niebuhr-lectures-roman-history-v1` | have (PG 71375) |
+| Niebuhr's Lectures on Roman History, vol. 2 | H. M. Chepmell and F. Demmler | `niebuhr-lectures-roman-history-v2` | have (PG 71385) |
+| Niebuhr's Lectures on Roman History, vol. 3 | H. M. Chepmell and F. Demmler | `niebuhr-lectures-roman-history-v3` | have (PG 75732) |
 | Lectures on Ancient Ethnography and Geography, vol. 1 | Leonhard Schmitz | `niebuhr-lectures-ethnography-geography-v1` | have (PG 78451) |
 | Lectures on Ancient Ethnography and Geography, vol. 2 | Leonhard Schmitz | `niebuhr-lectures-ethnography-geography-v2` | have (PG 78452) |
 
