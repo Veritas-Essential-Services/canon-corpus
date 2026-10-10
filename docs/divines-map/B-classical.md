@@ -377,6 +377,7 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | The Agamemnon of Aeschylus and the Bacchanals of Euripides, with passages from the lyric and later poets of Greece (Murray, 1865) | Henry Hart Milman | `aeschylus-milman-agamemnon-1865` | have-raw (IA `agamemnonofaesch00aescuoft`) |
 | The Agamemnon of Aeschylus, rendered into English verse (Nutt, 1907) | W. R. Paton | `aeschylus-paton-agamemnon-1907` | have-raw (IA `agamemnonofaesch01aesc`) |
 | Agamemnon, after the Greek of Aeschylus (Selwyn and Blount, 1920) | Locke Ellis | `aeschylus-ellis-agamemnon-1920` | have-raw (IA `agamemnonaftergr00aesciala`) |
+| The Seven Tragedies of Aeschylus, literally translated, with notes (Oxford: D. A. Talboys and J. Vincent, 1829) | anonymous (the title page names no translator) | `aeschylus-oxford-literal-1829` | have-raw (IA `seventragediess00aescgoog`) |
 
 Pending (wishlist): none here: Smyth's Loeb (1922-26) is on PR #7 as Perseus TEI.
 

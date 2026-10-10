@@ -120,12 +120,18 @@
    "agamemnonaftergr00aesciala",
    "Agamemnon, after the Greek of Aeschylus (Selwyn and Blount, 1920)",
    "tr. Locke Ellis"
+  ],
+  "aeschylus-oxford-literal-1829": [
+   "seventragediess00aescgoog",
+   "The Seven Tragedies of Aeschylus, literally translated, with notes (Oxford: D. A. Talboys and J. Vincent, 1829)",
+   "tr. anonymous (the title page names no translator)"
   ]
  },
  "_excluded": {
   "pg7073": "Specimens of Greek Tragedy (Goldwin Smith): excerpts from Aeschylus and Sophocles, not whole plays",
   "Herbert Weir Smyth, Loeb (1922-26)": "now held from Perseus: the seven plays (aeschylus-perseus-smyth-*), English only. Perseus's source lines mark these files '(Modernized by Perseus.)', so the spelling may not be Smyth's as printed",
-  "G. M. Cookson, Aeschylus' Plays (Everyman, 1906)": "the only scan with text (aeschylusplays0000gmco) is a later Everyman printing whose introduction cites a 1936 book, so it carries post-1930 matter; not taken"
+  "G. M. Cookson, Aeschylus' Plays (Everyman, 1906)": "the only scan with text (aeschylusplays0000gmco) is a later Everyman printing whose introduction cites a 1936 book, so it carries post-1930 matter; not taken",
+  "agamemnonrevtran00aescuoft": "John F. Davies's Agamemnon, revised and translated (1868): Greek text facing, OCR 0.60, under the 0.78 bar"
  },
  "perseus": {
   "aeschylus-perseus-browning-agamemnon": [
@@ -217,7 +223,7 @@
  "_checks": {
   "aeschylus-plumptre": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aeschylus",
    "translator_claimed": "E. H. Plumptre",
@@ -229,7 +235,7 @@
   },
   "aeschylus-blackie": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aeschylus",
    "translator_claimed": "John Stuart Blackie",
@@ -241,7 +247,7 @@
   },
   "aeschylus-morshead-atreus": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aeschylus",
    "translator_claimed": "E. D. A. Morshead",
@@ -253,7 +259,7 @@
   },
   "aeschylus-morshead-four": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aeschylus",
    "translator_claimed": "E. D. A. Morshead",
@@ -265,7 +271,7 @@
   },
   "aeschylus-buckley-prometheus-seven": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aeschylus",
    "translator_claimed": "Theodore Alois Buckley",
@@ -277,7 +283,7 @@
   },
   "aeschylus-murray-agamemnon": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aeschylus",
    "translator_claimed": "Gilbert Murray",
@@ -289,7 +295,7 @@
   },
   "aeschylus-potter-greek-tragic-theatre": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "eschylus",
    "translator_claimed": "R. Potter",
@@ -302,7 +308,7 @@
   },
   "aeschylus-swanwick": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aeschylus",
    "translator_claimed": "Anna Swanwick",
@@ -315,7 +321,7 @@
   },
   "aeschylus-way-1906-part1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": null,
    "translator_claimed": "Arthur S. Way",
@@ -328,7 +334,7 @@
   },
   "aeschylus-way-1907-part2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aeschylus",
    "translator_claimed": "Arthur S. Way",
@@ -341,7 +347,7 @@
   },
   "aeschylus-way-1908-part3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": null,
    "translator_claimed": "Arthur S. Way",
@@ -354,7 +360,7 @@
   },
   "aeschylus-campbell-oresteia-prose-1893": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aeschylus",
    "translator_claimed": "Lewis Campbell",
@@ -367,7 +373,7 @@
   },
   "aeschylus-headlam-plays-1909": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aeschylus",
    "translator_claimed": "Walter Headlam",
@@ -380,7 +386,7 @@
   },
   "aeschylus-warr-oresteia-1900": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aeschylus",
    "translator_claimed": "George C. W. Warr",
@@ -393,7 +399,7 @@
   },
   "aeschylus-webster-prometheus-1866": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": null,
    "translator_claimed": "Augusta Webster",
@@ -406,7 +412,7 @@
   },
   "aeschylus-cayley-prometheus-1867": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": null,
    "translator_claimed": "C. B. Cayley",
@@ -419,7 +425,7 @@
   },
   "aeschylus-more-prometheus-1899": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aeschylus",
    "translator_claimed": "Paul Elmer More",
@@ -432,7 +438,7 @@
   },
   "aeschylus-bevan-prometheus-1902": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aeschylus",
    "translator_claimed": "Edwyn Robert Bevan",
@@ -445,7 +451,7 @@
   },
   "aeschylus-harford-agamemnon-1831": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "eschylus",
    "identity": "ok",
@@ -456,7 +462,7 @@
   },
   "aeschylus-milman-agamemnon-1865": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aeschylus",
    "translator_claimed": "Henry Hart Milman",
@@ -469,7 +475,7 @@
   },
   "aeschylus-paton-agamemnon-1907": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "aeschylus",
    "translator_claimed": "W. R. Paton",
@@ -482,7 +488,7 @@
   },
   "aeschylus-ellis-agamemnon-1920": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": null,
    "translator_claimed": "Locke Ellis",
@@ -490,6 +496,17 @@
    "identity": "identity_override",
    "ia_rights": "ok: published 1920",
    "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aeschylus-oxford-literal-1829": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eschylus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
@@ -687,7 +704,8 @@
   "aeschylus-perseus-smyth-suppliant-maidens": "the Perseus header says this text was modernized by Perseus (its header: 'modernized by Nancy Sultan'): an editorial layer over Herbert Weir Smyth's translation (Loeb 1922-26, US public domain), made by Perseus and licensed with its markup, CC BY-SA 4.0. Kept as Perseus's modernized witness, not as the translation as printed; whether to keep it is put to Adam in DIGEST-B"
  },
  "_translator_unchecked": {
-  "aeschylus-harford-agamemnon-1831": "translator not printed in the text layer: the scan's title page did not OCR and the preface does not name him; the attribution to John S. Harford is the library catalogue's (IA metadata), not the book's"
+  "aeschylus-harford-agamemnon-1831": "translator not printed in the text layer: the scan's title page did not OCR and the preface does not name him; the attribution to John S. Harford is the library catalogue's (IA metadata), not the book's",
+  "aeschylus-oxford-literal-1829": "the title page names no translator (one of Talboys's Oxford literal translations; text of Blomfield)"
  },
  "_perseus_licence": {
   "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
