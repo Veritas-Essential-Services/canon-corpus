@@ -1,0 +1,67 @@
+{
+ "_about": "Guglielmo Ferrero (1871-1942) in English. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Characters and Events of Roman History, The Women of the Caesars, Ancient Rome and Modern America, clean Gutenberg. Translators recorded where the Gutenberg file names one (Frances Lance Ferrero; Christian Gauss); Ancient Rome and Modern America names none. Frances Lance Ferrero's death year was not checked. No uids minted.",
+ "_name_words": [
+  "ferrero"
+ ],
+ "_surname": [
+  "guglielmo ferrero",
+  "ferrero, guglielmo"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ferrero-characters-events-roman-history": [
+   13208,
+   "Characters and Events of Roman History",
+   "tr. Frances Lance Ferrero"
+  ],
+  "ferrero-women-of-the-caesars": [
+   16324,
+   "The Women of the Caesars",
+   "tr. Christian Gauss"
+  ],
+  "ferrero-ancient-rome-modern-america": [
+   66901,
+   "Ancient Rome and Modern America"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "ferrero-characters-events-roman-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "guglielmo ferrero",
+   "translator_claimed": "Frances Lance Ferrero",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frances Lance Ferrero",
+   "translator_match": true
+  },
+  "ferrero-women-of-the-caesars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "guglielmo ferrero",
+   "translator_claimed": "Christian Gauss",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Christian Gauss",
+   "translator_match": true
+  },
+  "ferrero-ancient-rome-modern-america": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "guglielmo ferrero",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ },
+ "_translators": {
+  "ferrero-characters-events-roman-history": "Frances Lance Ferrero",
+  "ferrero-women-of-the-caesars": "Christian Gauss"
+ }
+}

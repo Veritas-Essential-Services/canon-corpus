@@ -2778,6 +2778,9 @@ Shelf: `pipeline/ferrero_shelf.json`. Guglielmo Ferrero (1871-1942) in English: 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Characters and Events of Roman History | Frances Lance Ferrero | `ferrero-characters-events-roman-history` | have (PG 13208) |
+| The Women of the Caesars | Christian Gauss | `ferrero-women-of-the-caesars` | have (PG 16324) |
+| Ancient Rome and Modern America |  | `ferrero-ancient-rome-modern-america` | have (PG 66901) |
 
 ## Frank Frost Abbott (scholarship)
 
