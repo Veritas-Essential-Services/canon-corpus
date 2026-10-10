@@ -1060,6 +1060,14 @@
    "started": "2026-10-10T11:12:31-05:00",
    "finished": "2026-10-10T11:20:35-05:00",
    "notes": "22 new shelves, 34 volumes"
+  },
+  {
+   "id": "round-2026-10-10s",
+   "status": "done",
+   "scope": "classical scholarship from IA: the big histories and reference works",
+   "started": "2026-10-10T11:20:35-05:00",
+   "finished": "2026-10-10T11:24:41-05:00",
+   "notes": "5 new shelves, 15 volumes"
   }
  ]
 }

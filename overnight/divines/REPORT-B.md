@@ -686,3 +686,11 @@
 - Clean Gutenberg, one shelf per scholar, names and PG ids checked against all branches first: Pater (Greek Studies; Plato and Platonism), F. B. Tarbell (History of Greek Art), W. S. Davis (A Day in Old Athens; A Day in Old Rome), T. G. Tucker (2), Ferrero (3), F. F. Abbott (2), Showerman (Horace and His Influence), E. A. Gardner, Cumont (2), How and Wells (Commentary on Herodotus), Monro (Modes of Ancient Greek Music), H. W. Johnston (Private Life of the Romans), Mau's Pompeii tr. Kelsey, H. N. Fowler (History of Roman Literature), Schliemann (Troy and Its Remains; Mycenae), Gladstone's Studies on Homer (3 vols.), Walters and Birch's History of Ancient Pottery (2 vols.), Frazer's Studies in Greek Scenery, Arnold's On Translating Homer, Shuckburgh's Augustus, Boissier's Cicero and His Friends, P. N. Ure's Origin of Tyranny
 - Translator death years not checked, so life-plus-70 status is unconfirmed (US public domain by date in each case): Frances Lance Ferrero, L. Dora Schmitz (Schliemann's Troy, 1875), Adnah David Jones (Boissier). Recorded in each shelf's _about
 - Left out: Rohde's Psyche tr. Hillis (1925; the translator's dates are unknown, so it may be US-only), the Golden Bough (comparative religion), Oman and Hogarth (Byzantine and Near Eastern), Church and Guerber retellings (lane D territory), Latin grammars (held for a later round)
+
+## 2026-10-10 11:24 CDT — Round 2026-10-10s: 15 volumes on 5 new shelves
+- Sandys, History of Classical Scholarship (3 vols.) and Short History (1915)
+- Seyffert's Dictionary of Classical Antiquities, ed. Nettleship and Sandys (1891)
+- Becker's Gallus, tr. Metcalfe (1882); Charicles refused at 0.71
+- Bury: Later Roman Empire (2 vols., 1889), Eastern Roman Empire (1912), Constitution of the Later Roman Empire (1910); the Student's Roman Empire held back as undated
+- Ernst Curtius, History of Greece, tr. A. W. Ward, 5 vols. (1892)
+- Still to do in this seam: Merivale's Romans under the Empire, Thirlwall's and Bury's histories of Greece, Arnold's Rome, Smith's Biography vol. III, Conington vol. II
