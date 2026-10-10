@@ -701,3 +701,11 @@
 - Smith's Biography and Mythology vol. III (Boston, 1870) completes that set
 - Conington's Miscellaneous Writings vol. II found; its contents are his prose Virgil, already held on the virgil shelf, so not added
 - Merivale's Romans under the Empire left for a later round: IA's copies mix five editions and printings, and assembling one consistent set needs a careful pass
+
+## 2026-10-10 11:39 CDT — Round 2026-10-10u: 27 volumes on 10 new shelves
+- K. O. Müller's History of the Literature of Ancient Greece (3 vols., Longmans 1858; Lewis and Donaldson). Volumes II-III: the OCR misreads the author's initials, so identity was checked by eye on the title page
+- George Long's Decline of the Roman Republic (5 vols., 1864-1874) and Mure's Critical History of Greek literature (5 vols., 1850-1857, vol. I in the 2nd ed. of 1854), each assembled from separate scans with every title page read
+- Cornewall Lewis, Credibility of the Early Roman History (2 vols., 1855); Butcher's Harvard Lectures (1904); Haigh's Attic Theatre (1889, author line garbled in OCR, checked by eye); Nettleship's Lectures and Essays (1885, 1895); Tyrrell's Latin Poetry (1895); Gow's Companion to School Classics (1889)
+- Jevons's History of Greek Literature: the imprint year reads 1880 in the OCR but the book first appeared in 1886, so the printed year is probably misread (an inference). Kept, since it prints a 19th-century year
+- Mahaffy shelf gains Social Life in Greece (1894) and Greek Life and Thought (1896)
+- Under the bar: Teuffel's History of Roman Literature tr. Warr (0.74 in both scans), Butcher's Aristotle's Theory of Poetry and Fine Art (0.69)

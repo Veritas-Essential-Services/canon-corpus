@@ -176,3 +176,4 @@
 - 11:20 round r: 34 more volumes of classical scholarship on 22 new shelves (Pater, Gladstone's Homer, Schliemann, Cumont, Mau's Pompeii, How and Wells and more). No new question.
 - 11:24 round s: 15 more volumes (Sandys, Seyffert, Bury, Curtius tr. Ward, Becker's Gallus). No new question.
 - 11:32 round t: 12 more volumes (Thirlwall 8, Arnold's Rome 3, Smith's Biography vol. III). No new question.
+- 11:39 Round 10u: 27 scholarship volumes (Müller, Long, Mure, Cornewall Lewis and others). Nothing new for Adam to decide; Jevons's imprint year is OCR-doubtful and noted on the shelf.
