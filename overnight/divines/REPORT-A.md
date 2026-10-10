@@ -745,3 +745,6 @@
 
 ## 2026-10-10 09:48 CDT — august-tholuck done
 - `pipeline/august-tholuck_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for tholuck-sermon-mount-2 (OCR garbles the name), recorded in `_identity_checked`. Commentary on John is a "0000"-style id; its title page reads 1842, recorded in `_rights_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:50 CDT: round 15 complete
+- 14 shelves (Boyce, Dagg, Broadus, Milner, Wayland, Adam Clarke, W. B. Pope, Luther, Symington, John Dick, Krummacher, Hengstenberg, Neander, Tholuck). Shelf names and source ids checked on every remote branch (only generic CCEL work names like `life` and `acts` matched, under other authors). The fetcher cutoff fix from lane C was refused by this session's permissions and is logged for Adam. Round 16 follows.
