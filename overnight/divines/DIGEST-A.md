@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-10 11:18 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-10 11:54 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -357,6 +357,14 @@ The Classical reading-lists thread left six pickups for lane A's shelves (relaye
 | Henry Drummond | henry-drummond_shelf.json | 11 (Natural Law in the Spiritual World (CCEL; print source London: Hodder & Stoughton, 29th ed., 1890); The Greatest Thing in the World and Other Addresses (CCEL; print source London: Hodder & Stoughton, updated ed., c. 1920); The Lowell Lectures on the Ascent of Man (CCEL; print source London: Hodder and Stoughton, 1904); The Ideal Life (CCEL; print source 1897); The New Evangelism and Other Papers (CCEL; print source London: Hodder & Stoughton, 2nd ed., 1899); Stones Rolled Away and Other Addresses to Young Men (CCEL; print source London: Samuel Bagster and Sons, no year); A Life for a Life (CCEL; print source 1897); Baxter's Second Innings (CCEL; print source 1892); The Monkey who Wouldn't Kill (CCEL; print source not stated); Pax Vobiscum (title page 1890); Eternal Life (Philadelphia: Henry Altemus, 1896)) | none | none | Tropical Africa (not theology); Cureton's extracts; translations; William Henry Drummond the poet |
 
 Round 17 closed 2026-10-10 11:20 CDT: ten new shelves, 104 items (14 clean CCEL/Gutenberg, 90 raw IA OCR), plus eight pickups on Spurgeon and Finney. Fourteen title pages were read by eye where OCR garbled or omitted the name, and each is recorded in `_identity_checked`. Two attributions rest on the catalogue, not the title page: Berridge's *Fragment of the True Religion* (1760) and Parker's *Ecce Deus* (1867), both published anonymously. William Gadsby was skipped: too thin for a shelf. Every `--verify --record` run: 0 mismatched. 0 uids minted.
+
+## Round 18: American and British evangelicals, Southern Presbyterian and Baptist divines (my picks)
+
+Twelve authors queued 2026-10-10. Twentieth-century men are held to printings dated before 1930 (US public domain); later printings are listed as excluded or pending in each shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| A. J. Gordon | a-j-gordon_shelf.json | 1 (The Ministry of the Spirit, introduction by F. B. Meyer (Philadelphia: American Baptist Publication Society, 1894; Greek transliterated by the transcriber)) | 8 (In Christ; or, The Believer's Union with His Lord (Boston: Gould and Lincoln, 1872); The Ministry of Healing, or, Miracles of Cure in All Ages (Boston: Howard Gannett, 1882); The Two-Fold Life; or, Christ's Work for Us and Christ's Work in Us (Boston: Howard Gannett, 1883); Ecce Venit: Behold He Cometh (New York and Chicago: Fleming H. Revell; no year on title page, copyright 1889, catalogued 1889); The Holy Spirit in Missions: Six Lectures (New York and Chicago: Fleming H. Revell; no year on title page, copyright 1893); Elements of Christian Character (Philadelphia: American Baptist Publication Society, 1895); How Christ Came to Church: The Pastor's Dream, with a life-story by A. T. Pierson (Philadelphia: American Baptist Publication Society, MDCCCXCV); God's Tenth (tract; no imprint on the title page, catalogued 1880)) | none | 1968 reprint; German translation; his son's biography of him |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

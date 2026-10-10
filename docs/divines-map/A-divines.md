@@ -2913,3 +2913,26 @@ Slugs `drummond-*`. Free Church evangelist and natural scientist. Nine CCEL edit
 | Beautiful Thoughts, PG 13677: extracts compiled by Elizabeth Cureton, not Drummond's own book | excluded | |
 | PG 61665 and 74868: Portuguese and Finnish translations | excluded | |
 | PG 40152, 20609, 9801: William Henry Drummond, the Canadian poet, a different person | excluded | |
+
+## A. J. Gordon (round 18, my pick, 2026-10-10)
+
+Slugs `gordon-*`. Baptist of Clarendon Street, Boston. Eight books and one tract; his three hymnals are alternates. Not S. D. Gordon, whose works are CCEL's ccel/gordon.
+
+| Work | Status | Where |
+|---|---|---|
+| The Ministry of the Spirit, introduction by F. B. Meyer (Philadelphia: American Baptist Publication Society, 1894; Greek transliterated by the transcriber) | have-clean | Gutenberg 25395 |
+| In Christ; or, The Believer's Union with His Lord (Boston: Gould and Lincoln, 1872) | have-ocr | IA `inchristorbelievul00gord` |
+| The Ministry of Healing, or, Miracles of Cure in All Ages (Boston: Howard Gannett, 1882) | have-ocr | IA `ministryofhealin00gord` |
+| The Two-Fold Life; or, Christ's Work for Us and Christ's Work in Us (Boston: Howard Gannett, 1883) | have-ocr | IA `twofoldlifeorchr00gord_1` |
+| Ecce Venit: Behold He Cometh (New York and Chicago: Fleming H. Revell; no year on title page, copyright 1889, catalogued 1889) | have-ocr | IA `eccevenitbehold00gord` |
+| The Holy Spirit in Missions: Six Lectures (New York and Chicago: Fleming H. Revell; no year on title page, copyright 1893) | have-ocr | IA `holyspiritinmiss00gord` |
+| Elements of Christian Character (Philadelphia: American Baptist Publication Society, 1895) | have-ocr | IA `elementsofchrist00gord` |
+| How Christ Came to Church: The Pastor's Dream, with a life-story by A. T. Pierson (Philadelphia: American Baptist Publication Society, MDCCCXCV) | have-ocr | IA `howchristcametoc0000gord` |
+| God's Tenth (tract; no imprint on the title page, catalogued 1880) | have-ocr | IA `godstenth00gord` |
+| The Ministry of the Spirit, scan (IA ministryofspirit00gordiala, 1895) | alternate | not shelved |
+| In Christ, London: Hodder & Stoughton 1882 (IA inchristorbelie00gordgoog) and Boston 1883 6th ed. (inchrist00gordiala) | alternate | not shelved |
+| Hymnals he compiled or edited: The Service of Song for Baptist Churches (with S. L. Caldwell, 1871; IA bapchur00cald), The Vestry Hymn and Tune Book (entered 1872; vestryhymntunebo0000gord), The Coronation Hymnal (with A. T. Pierson, copyright 1894; coronatio00gord) | alternate | not shelved |
+| IA holyspiritinmiss0000gord_e3g4: 1968 reprint | excluded | |
+| IA dasamtdesgeistes00gord: German translation | excluded | |
+| Ernest B. Gordon's biography of his father: by another hand, not shelved | excluded | |
+| S. D. Gordon (CCEL ccel/gordon) and other Gordons: different people | excluded | |

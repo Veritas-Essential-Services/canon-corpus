@@ -823,3 +823,6 @@
 
 ## 2026-10-10 11:18 CDT — round 17 closed
 - Ten new shelves (Berridge, Rowland Hill of Surrey Chapel, J. C. Philpot, Huntington, Brine, R. W. Dale, Joseph Parker, Christmas Evans, Thomas Binney, Henry Drummond), 104 items; pickups on Spurgeon and Finney; Gadsby skipped. 0 uids minted.
+
+## 2026-10-10 11:54 CDT — a-j-gordon done
+- `pipeline/a-j-gordon_shelf.json`: 0 CCEL, 1 PG, 8 IA. Title pages read for gordon-gods-tenth (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
