@@ -1,0 +1,46 @@
+{
+ "_about": "Thomas Rice Holmes (1855-1933): Ancient Britain and the Invasions of Julius Caesar (clean Gutenberg) and Caesar's Conquest of Gaul, second edition, revised throughout and largely rewritten (Oxford: Clarendon Press, 1911), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "holmes"
+ ],
+ "_surname": [
+  "t. rice holmes",
+  "thomas rice holmes",
+  "holmes, t. rice"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rice-holmes-ancient-britain-caesar": [
+   57336,
+   "Ancient Britain and the Invasions of Julius Caesar"
+  ]
+ },
+ "internet_archive": {
+  "rice-holmes-caesars-conquest-gaul-1911": [
+   "caesarsconquesto00holm",
+   "Caesar's Conquest of Gaul, second edition (Oxford: Clarendon Press, 1911)"
+  ]
+ },
+ "_checks": {
+  "rice-holmes-ancient-britain-caesar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "t. rice holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rice-holmes-caesars-conquest-gaul-1911": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "t. rice holmes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

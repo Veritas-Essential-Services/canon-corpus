@@ -3421,6 +3421,8 @@ Shelf: `pipeline/rice-holmes_shelf.json`. Ancient Britain and the Invasions of J
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Ancient Britain and the Invasions of Julius Caesar |  | `rice-holmes-ancient-britain-caesar` | have (PG 57336) |
+| Caesar's Conquest of Gaul, second edition (Oxford: Clarendon Press, 1911) |  | `rice-holmes-caesars-conquest-gaul-1911` | have-raw (IA `caesarsconquesto00holm`) |
 
 ## Perseus census (overflow)
 
