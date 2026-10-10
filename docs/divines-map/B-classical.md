@@ -2497,6 +2497,13 @@ Shelf: `pipeline/mommsen_shelf.json`. Dickson's translation of the History of Ro
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The History of Rome, Book I | William P. Dickson | `mommsen-history-of-rome-i` | have (PG 10701) |
+| The History of Rome, Book II | William P. Dickson | `mommsen-history-of-rome-ii` | have (PG 10702) |
+| The History of Rome, Book III | William P. Dickson | `mommsen-history-of-rome-iii` | have (PG 10703) |
+| The History of Rome, Book IV | William P. Dickson | `mommsen-history-of-rome-iv` | have (PG 10704) |
+| The History of Rome, Book V | William P. Dickson | `mommsen-history-of-rome-v` | have (PG 10705) |
+| The Provinces of the Roman Empire, from Caesar to Diocletian, vol. 1 | William P. Dickson | `mommsen-provinces-v1` | have (PG 48966) |
+| The Provinces of the Roman Empire, from Caesar to Diocletian, vol. 2 | William P. Dickson | `mommsen-provinces-v2` | have (PG 49483) |
 
 Excluded: PG 10706 (History of Rome, Volumes 1-5) (the same text as PG 10701-10705 in one file); PG 3060-3065 (Römische Geschichte) (German original; the English translation is held)
 
