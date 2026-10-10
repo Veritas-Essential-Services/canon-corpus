@@ -3905,6 +3905,19 @@ Slugs `kitto-*`. Daily Bible Illustrations from the New York Carter set, which m
 | John Eadie's Life of John Kitto (1861): by another hand | excluded | |
 | Judah and Israel; Randall's Handwriting of God; Kimpton's Illustrated History | excluded | |
 | F. H. Kitto and others | excluded | |
+
+## Anthony Norris Groves (round 21, my pick, 2026-10-10)
+
+Slugs `groves-*`. Missionary and early Brethren; two Gutenberg texts, both from Nisbet first or second editions.
+
+| Work | Status | Where |
+|---|---|---|
+| Christian Devotedness, second edition (London: James Nisbet, MDCCCXXIX) | have-clean | Gutenberg 24293 |
+| Journal of a Residence at Bagdad, during the years 1830 and 1831, introduction by A. J. Scott (London: James Nisbet, MDCCCXXXII) | have-clean | Gutenberg 29631 |
+| Journal of a Residence at Bagdad, 1832 scans (IA journalofresiden00grov, journalofresiden0000anth, journalaresiden00grovgoog) | alternate | not shelved |
+| Memoir of the late Anthony Norris Groves, compiled by his widow from his letters and journals (Nisbet, 1856; IA dli.ministry.17016; third edition memoiranthonyno00grovgoog) | alternate | not shelved |
+| G. H. Lang's 1949 biography and modern studies | excluded | |
+| G. W. Groves and others | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

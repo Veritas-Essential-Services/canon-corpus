@@ -940,3 +940,6 @@
 
 ## 2026-10-10 14:10 CDT — round 20 closed
 - Twelve shelves, 138 items (1 CCEL, 2 Gutenberg, 135 IA). Closing paragraph and veto points in DIGEST-A. 0 uids minted.
+
+## 2026-10-10 14:38 CDT — anthony-norris-groves done
+- `pipeline/anthony-norris-groves_shelf.json`: 0 CCEL, 2 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.

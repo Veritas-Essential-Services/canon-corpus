@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-10 14:10 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-10 14:38 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -420,6 +420,14 @@ Twelve authors queued 2026-10-10.
 | John Kitto | john-kitto_shelf.json | none | 18 (Daily Bible Illustrations, vol. 1, Antediluvians and Patriarchs (New York: Robert Carter and Brothers, 1854); Daily Bible Illustrations, vol. 2, Moses and the Judges (New York: Robert Carter and Brothers, 1860); Daily Bible Illustrations, vol. 3, Samuel, Saul, and David (New York: Robert Carter and Brothers, 1851); Daily Bible Illustrations, vol. 4, Solomon and the Kings (New York: Robert Carter and Brothers, OCR'd 1869); Daily Bible Illustrations, vol. 5, Job and the Poetical Books (New York: Robert Carter and Brothers, 1854); Daily Bible Illustrations, vol. 6, Isaiah and the Prophets (New York: Robert Carter and Brothers, 1855); Daily Bible Illustrations, vol. 7, The Life and Death of Our Lord (New York: Robert Carter and Brothers, 1853); Daily Bible Illustrations, vol. 8, The Apostles and Early Church (New York: Robert Carter and Brothers, 1855); Palestine: The Physical Geography and Natural History of the Holy Land (London: Charles Knight, 1841); Palestine: The Bible History of the Holy Land (London: Charles Knight, 1841); The Pictorial History of Palestine and the Holy Land, vol. 1, Biblical History (London: Charles Knight, MDCCCXLIV); The Pictorial History of Palestine and the Holy Land, vol. 2 (London: Charles Knight, MDCCCXLIV); A Pictorial Life of Our Saviour (London: Charles Cox, MDCCCXLVII); Scripture Lands, with a Complete Biblical Atlas (London: Henry G. Bohn, 1850); The History of Palestine from the Patriarchal Age to the Present Time (Edinburgh: Adam and Charles Black, MDCCCLI); The Land of Promise: a Topographical Description of the Principal Places in Palestine (London: Religious Tract Society; no year on title page, catalogued 1851); The Court of Persia, viewed in connexion with Scriptural Usages (London: Religious Tract Society; no year on title page, IA's 1800 date is wrong); The People of Persia (London: Religious Tract Society; no year on title page, IA's 1799 date is wrong)) | none | Pictorial Bible, Cyclopaedia (multi-author), Lost Senses (not divinity) and edited works left as alternates |
 
 Round 20 closed 2026-10-10 14:10 CDT: twelve new shelves, 138 items (3 clean: 1 CCEL (Hort's St James) and 2 Gutenberg (Legh Richmond); 135 raw IA OCR). CCEL keyed Hort's Christian Ecclesia from a 1914 reprint, so the 1897 first edition is shelved instead. Anonymous title pages were not shelved on catalogue word alone, except the Numerical Bible (F. W. Grant), whose vol. 5 preface he signs. Title pages read by eye where OCR garbled the name are in `_identity_checked`. Every `--verify --record` run: 0 mismatched. 0 uids minted.
+
+## Round 21: Hebrew Christian and Brethren scholars, textual critics, Scottish and American theologians (my picks)
+
+Twelve authors queued 2026-10-10. Twentieth-century men are held to printings dated before 1930.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| Anthony Norris Groves | anthony-norris-groves_shelf.json | 2 (Christian Devotedness, second edition (London: James Nisbet, MDCCCXXIX); Journal of a Residence at Bagdad, during the years 1830 and 1831, introduction by A. J. Scott (London: James Nisbet, MDCCCXXXII)) | none | none | Memoir compiled by his widow and the IA copies of the Journal left as alternates |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
