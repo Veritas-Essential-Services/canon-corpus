@@ -2699,6 +2699,7 @@ Shelf: `pipeline/grundy_shelf.json`. George Beardoe Grundy (1861-1948), Oxford: 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Great Persian War and Its Preliminaries |  | `grundy-great-persian-war` | have (PG 72704) |
 
 ## W. E. Heitland (scholarship)
 
