@@ -2752,6 +2752,7 @@ Shelf: `pipeline/f-b-tarbell_shelf.json`. Frank Bigelow Tarbell (1853-1920), Uni
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A History of Greek Art, with an introductory chapter on art in Egypt and Mesopotamia |  | `tarbell-history-greek-art` | have (PG 4390) |
 
 ## William Stearns Davis (scholarship)
 
