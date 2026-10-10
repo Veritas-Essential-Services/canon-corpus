@@ -935,3 +935,6 @@
 
 ## 2026-10-10 10:21 CDT — kingston: done
 - 3/3 fetched (Gutenberg 21474, 24812, 21477), 4,417 units, 0 ~2 ids.
+
+## 2026-10-10 10:24 CDT — mayne-reid: done
+- 3/3 fetched (Gutenberg 21237, 21239, 21238), 3,671 units, 0 ~2 ids.

@@ -3238,6 +3238,16 @@ Shelf: `pipeline/kingston_shelf.json` (2026-10-02; added at the coordinator's re
 | The Three Midshipmen | have | PG 24812, `kingston-three-midshipmen` (1741 units) |
 | Mark Seaworth | have | PG 21477, `kingston-mark-seaworth` (1131 units) |
 
+## Mayne Reid
+
+Shelf: `pipeline/mayne-reid_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Three adventure stories for boys; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Bush Boys | have | PG 21237, `mreid-bush-boys` (1643 units) |
+| The Cliff Climbers | have | PG 21239, `mreid-cliff-climbers` (1233 units) |
+| The Castaways | have | PG 21238, `mreid-castaways` (795 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
