@@ -820,3 +820,6 @@
 
 ## 2026-10-10 11:18 CDT — henry-drummond done
 - `pipeline/henry-drummond_shelf.json`: 9 CCEL, 2 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:18 CDT — round 17 closed
+- Ten new shelves (Berridge, Rowland Hill of Surrey Chapel, J. C. Philpot, Huntington, Brine, R. W. Dale, Joseph Parker, Christmas Evans, Thomas Binney, Henry Drummond), 104 items; pickups on Spurgeon and Finney; Gadsby skipped. 0 uids minted.
