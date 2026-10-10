@@ -161,3 +161,5 @@
 - 2026-10-10T14:21-05:00: round 41: singles-history-travel (44), singles-science-craft (39), singles-ideas-2 (41). --verify --record 0 mismatched. Flags: De Re Metallica Dover 1950; Durkheim 1964 impression. _pending: six PDF-only physics/maths books.
 
 - 2026-10-10T14:40-05:00: round 42: singles-continental-fiction (64), singles-verse-drama-tales (32). --verify --record 0 mismatched. No late printings found in the year check. Left for owners: Lagerlöf's From a Swedish Homestead (lagerlof, Lane D) and two Tudor Erasmus translations (erasmus shelf).
+
+- 2026-10-10T14:51-05:00: round 43: singles-fiction-2 (67), singles-plays-poetry-2 (39). --verify --record 0 mismatched. No late printings found. Left for owners: Spyri's New Year's Carol (spyri, Lane D). Excluded: The Jade Flute (translator unnamed).

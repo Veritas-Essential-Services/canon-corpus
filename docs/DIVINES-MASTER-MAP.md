@@ -12980,6 +12980,130 @@ Round 42 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `singles-verse-drama-tales-vondel-vondel-s-lucifer` | Joost van den Vondel | Vondel's Lucifer | Leonard Charles Van Noppen | (see the Gutenberg header) | have | PG 37659 |
 | `singles-verse-drama-tales-wilde-salome` | Oscar Wilde | Salomé: A Tragedy in One Act | Alfred Bruce Douglas | (see the Gutenberg header) | have | PG 42704 |
 
+## One-off translations: more continental and world fiction (Pushkin's prose tales, Gogol, Andreyev, La Gaviota, Corinne, Persiles, Galatea, Undset's Jenny, T. E. Lawrence's The Forest Giant)
+
+Shelf: `pipeline/singles-fiction-2_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-fiction-2` · titles `python3 pipeline/split_shelf_titles.py singles-fiction-2`.
+Round 43 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-fiction-2-alarcon-the-strange-friend-of-tito-gil` | Pedro Antonio de Alarcón | The Strange Friend of Tito Gil | Elizabeth Townsend Darr | (see the Gutenberg header) | have | PG 64456 |
+| `singles-fiction-2-andreyev-the-dark` | Leonid Andreyev | The dark | Leonard A. Magnus and K. Walter | (see the Gutenberg header) | have | PG 49594 |
+| `singles-fiction-2-andreyev-the-little-angel-and-other-stories` | Leonid Andreyev | The Little Angel, and Other Stories | W. H. Lowe | (see the Gutenberg header) | have | PG 49598 |
+| `singles-fiction-2-andreyev-the-red-laugh` | Leonid Andreyev | The red laugh: fragments of a discovered manuscript | A. Linden | (see the Gutenberg header) | have | PG 62460 |
+| `singles-fiction-2-andreyev-when-the-king-loses-his-head-and-other-s` | Leonid Andreyev | When the King Loses His Head, and Other Stories | Archibald J. Wolfe | (see the Gutenberg header) | have | PG 49595 |
+| `singles-fiction-2-anon-christmas-stories-from-french-and-spanis` | various French and Spanish writers | Christmas Stories from French and Spanish Writers | Antoinette Ogden | (see the Gutenberg header) | have | PG 47333 |
+| `singles-fiction-2-anon-christmas-tales-of-flanders` | various Flemish writers (compiled by André de Ridder) | Christmas tales of Flanders | M. C. O. Morris | (see the Gutenberg header) | have | PG 64134 |
+| `singles-fiction-2-apollinaire-the-poet-assassinated` | Guillaume Apollinaire | The Poet Assassinated | Matthew Josephson | (see the Gutenberg header) | have | PG 60771 |
+| `singles-fiction-2-balzac-love-in-a-mask` | Honoré de Balzac | Love in a Mask; Or, Imprudence and Happiness | Alice M. Ivimy | (see the Gutenberg header) | have | PG 48884 |
+| `singles-fiction-2-barzini-the-little-match-man` | Luigi Barzini | The Little Match Man | S. F. Woodruff | (see the Gutenberg header) | have | PG 54678 |
+| `singles-fiction-2-bazan-a-christian-woman` | Emilia Pardo Bazán | A Christian Woman | Mary Springer | (see the Gutenberg header) | have | PG 54796 |
+| `singles-fiction-2-becquer-romantic-legends-of-spain` | Gustavo Adolfo Bécquer | Romantic legends of Spain | Cornelia Frances Bates and Katharine Lee Bates | (see the Gutenberg header) | have | PG 50044 |
+| `singles-fiction-2-berger-the-ordeal-by-fire-by-a-sergeant-in-the` | Marcel Berger | The Ordeal by Fire By a Sergeant in the French Army | Cecil Curtis | (see the Gutenberg header) | have | PG 60166 |
+| `singles-fiction-2-bourget-a-cruel-enigma` | Paul Bourget | A Cruel Enigma | Julian Cray | (see the Gutenberg header) | have | PG 65620 |
+| `singles-fiction-2-bourget-the-blue-duchess` | Paul Bourget | The Blue Duchess | Ernest Tristan | (see the Gutenberg header) | have | PG 55726 |
+| `singles-fiction-2-caballero-la-gaviota` | Fernán Caballero | La Gaviota: A Spanish novel | J. Leander Starr | (see the Gutenberg header) | have | PG 48698 |
+| `singles-fiction-2-carove-the-story-without-an-end` | Friedrich Wilhelm Carové | The Story Without an End | Sarah Austin | (see the Gutenberg header) | have | PG 62229 |
+| `singles-fiction-2-chekhov-the-black-monk-and-other-stories` | Anton Pavlovich Chekhov | The Black Monk, and Other Stories | R. E. C. Long | (see the Gutenberg header) | have | PG 55307 |
+| `singles-fiction-2-corbeau-the-forest-giant` | Adrien Le Corbeau | The Forest Giant | T. E. Lawrence | (see the Gutenberg header) | have | PG 65161 |
+| `singles-fiction-2-d-annunzio-tales-of-my-native-town` | Gabriele D'Annunzio | Tales of My Native Town | Gaetano Ettore Raffaele Mantellini | (see the Gutenberg header) | have | PG 55742 |
+| `singles-fiction-2-delpit-odette-s-marriage-a-novel-from-the-frenc` | Albert Delpit | Odette's Marriage A Novel, from the French of Albert Delpit, Translated from the "Revue des Deux Mondes," by Emily Prescott | Emily Prescott | (see the Gutenberg header) | have | PG 47697 |
+| `singles-fiction-2-erckmann-chatrian-brigadier-frederick` | Erckmann-Chatrian | Brigadier Frederick; and, The Dean's Watch | Richard Burton | (see the Gutenberg header) | have | PG 50186 |
+| `singles-fiction-2-eschenbach-molly-and-kitty-or-peasant-life-in-irela` | Olga Eschenbach and Maria Burg | Molly and Kitty, or Peasant Life in Ireland; with Other Tales | Trauermantel | (see the Gutenberg header) | have | PG 48379 |
+| `singles-fiction-2-fonhus-the-trail-of-the-elk` | Mikkjel Fønhus | The Trail of the Elk | Sara Helene Petersen Weedon | (see the Gutenberg header) | have | PG 51771 |
+| `singles-fiction-2-france-bee` | Anatole France | Bee: The Princess of the Dwarfs | Peter Wright | (see the Gutenberg header) | have | PG 53771 |
+| `singles-fiction-2-france-mother-of-pearl` | Anatole France | Mother of Pearl | Frederic Chapman | (see the Gutenberg header) | have | PG 58099 |
+| `singles-fiction-2-gaspe-cameron-of-lochiel` | Philippe Aubert de Gaspé | Cameron of Lochiel | Charles G. D. Roberts | (see the Gutenberg header) | have | PG 53154 |
+| `singles-fiction-2-gautier-the-memoirs-of-a-white-elephant` | Judith Gautier | The Memoirs of a White Elephant | S. A. B. Harvey | (see the Gutenberg header) | have | PG 46983 |
+| `singles-fiction-2-gide-prometheus-illbound` | André Gide | Prometheus Illbound | Mary Lilian Share Harmsworth Rothermere | (see the Gutenberg header) | have | PG 60914 |
+| `singles-fiction-2-gogol-cossack-tales` | Nikolai Vasilevich Gogol | Cossack Tales | Jurij V. Tolstoj | (see the Gutenberg header) | have | PG 58409 |
+| `singles-fiction-2-gogol-home-life-in-russia-volumes-1-and-2-dead` | Nikolai Vasilevich Gogol | Home Life in Russia, Volumes 1 and 2 [Dead Souls] | Krystin Lach-Szyrma | (see the Gutenberg header) | have | PG 58070 |
+| `singles-fiction-2-gorky-three-men` | Maksim Gorky | Three Men: A Novel | Charles Horne | (see the Gutenberg header) | have | PG 56456 |
+| `singles-fiction-2-hugo-under-sentence-of-death` | Victor Hugo | Under Sentence of Death; Or, a Criminal's Last Hours | Gilbert Campbell | (see the Gutenberg header) | have | PG 50010 |
+| `singles-fiction-2-kuprin-a-slav-soul-and-other-stories` | A. I. Kuprin | A Slav Soul, and Other Stories | Rosa Savary Graham and Stephen Graham | (see the Gutenberg header) | have | PG 57036 |
+| `singles-fiction-2-lie-the-family-at-gilje` | Jonas Lie | The Family at Gilje: A Domestic Story of the Forties | Samuel Coffin Eastman | (see the Gutenberg header) | have | PG 55646 |
+| `singles-fiction-2-loti-the-last-days-of-pekin` | Pierre Loti | The Last Days of Pekin | Myrta Leonora Jones | (see the Gutenberg header) | have | PG 49121 |
+| `singles-fiction-2-maistre-a-journey-round-my-room` | Xavier de Maistre | A journey round my room | Henry Attwell | (see the Gutenberg header) | have | PG 62519 |
+| `singles-fiction-2-maupassant-the-sisters-rondoli-and-other-stories` | Guy de Maupassant | The Sisters Rondoli, and Other Stories | Ernest Augustus Boyd | (see the Gutenberg header) | have | PG 60136 |
+| `singles-fiction-2-maurois-ariel` | André Maurois | Ariel: A Shelley Romance | Ella D'Arcy | (see the Gutenberg header) | have | PG 64118 |
+| `singles-fiction-2-mirbeau-calvary` | Octave Mirbeau | Calvary: A Novel | Louis Rich | (see the Gutenberg header) | have | PG 48773 |
+| `singles-fiction-2-murai-kibun-daizin` | Gensai Murai | Kibun Daizin; Or, From Shark-Boy to Merchant Prince | Masao Yoshida | (see the Gutenberg header) | have | PG 65320 |
+| `singles-fiction-2-noriac-human-follies-la-betise-humaine` | Jules Noriac | Human Follies (La Bêtise Humaine.) | George Marlow | (see the Gutenberg header) | have | PG 50179 |
+| `singles-fiction-2-ortoli-evening-tales` | Jean-Baptiste Frédéric Ortoli | Evening Tales | Joel Chandler Harris | (see the Gutenberg header) | have | PG 56153 |
+| `singles-fiction-2-perelaer-baboe-dalima` | M. T. H. Perelaer | Baboe Dalima; or, The Opium Fiend | Edwin James Venning | (see the Gutenberg header) | have | PG 60751 |
+| `singles-fiction-2-pushkin-the-prose-tales-of-alexander-pushkin` | Aleksandr Sergeevich Pushkin | The Prose Tales of Alexander Pushkin | T. Keane | (see the Gutenberg header) | have | PG 55219 |
+| `singles-fiction-2-pushkin-the-queen-of-spades-and-other-stories` | Aleksandr Sergeevich Pushkin | The Queen of Spades, and other stories | H. Sutherland Edwards | (see the Gutenberg header) | have | PG 55024 |
+| `singles-fiction-2-rosegger-the-forest-schoolmaster` | Peter Rosegger | The Forest Schoolmaster | Frances E. Skinner | (see the Gutenberg header) | have | PG 47168 |
+| `singles-fiction-2-saavedra-galatea` | Miguel de Cervantes Saavedra | Galatea | Herman Oelsner and A. B. Welford | (see the Gutenberg header) | have | PG 63404 |
+| `singles-fiction-2-saavedra-the-wanderings-of-persiles-and-sigismund` | Miguel de Cervantes Saavedra | The Wanderings of Persiles and Sigismunda: A Northern Story | Louisa Dorothea Stanley | (see the Gutenberg header) | have | PG 61561 |
+| `singles-fiction-2-sage-asmodeus` | Alain René Le Sage | Asmodeus; or, The Devil on Two Sticks | Joseph Thomas | (see the Gutenberg header) | have | PG 51145 |
+| `singles-fiction-2-sand-the-marquis-de-villemer` | George Sand | The Marquis de Villemer | Ralph Keeler | (see the Gutenberg header) | have | PG 63083 |
+| `singles-fiction-2-segur-the-story-of-a-donkey-abridged-from-the` | Sophie Ségur | The Story of a Donkey abridged from the French of Madame la comtesse de Ségur | Charles Welsh | (see the Gutenberg header) | have | PG 55256 |
+| `singles-fiction-2-serao-farewell-love-a-novel` | Matilde Serao | Farewell Love! A Novel | Aline Harland | (see the Gutenberg header) | have | PG 54619 |
+| `singles-fiction-2-serao-the-desire-of-life` | Matilde Serao | The Desire of Life | William Collinge | (see the Gutenberg header) | have | PG 61109 |
+| `singles-fiction-2-sienkiewicz-through-the-desert` | Henryk Sienkiewicz | Through the Desert | Mary W. Artois | (see the Gutenberg header) | have | PG 60177 |
+| `singles-fiction-2-siwertz-downstream` | Sigfrid Siwertz | Downstream | E. Classen | (see the Gutenberg header) | have | PG 60685 |
+| `singles-fiction-2-stael-corinne` | Madame de Staël | Corinne; or, Italy | Isabel Hill and L. E. L. (Letitia Elizabeth Landon) | (see the Gutenberg header) | have | PG 52077 |
+| `singles-fiction-2-sue-paula-monti` | Eugène Sue | Paula Monti; or, The Hôtel Lambert | Charles H. Town | (see the Gutenberg header) | have | PG 64739 |
+| `singles-fiction-2-suttner-lay-down-your-arms` | Bertha von Suttner | Lay Down Your Arms: The Autobiography of Martha von Tilling | T. Holmes | (see the Gutenberg header) | have | PG 49294 |
+| `singles-fiction-2-tolstoy-sebastopol` | Leo Tolstoy | Sebastopol | Francis Davis Millet | (see the Gutenberg header) | have | PG 61388 |
+| `singles-fiction-2-topelius-the-king-s-ring` | Zacharias Topelius | The king's ring | Herbert Arnold and Sophie Öhrwall | (see the Gutenberg header) | have | PG 58838 |
+| `singles-fiction-2-undset-jenny` | Sigrid Undset | Jenny: A Novel | William Emmé | (see the Gutenberg header) | have | PG 60741 |
+| `singles-fiction-2-vega-the-pilgrim-of-castile` | Lope de Vega | The Pilgrim of Castile; or, El Pelegrino in Su Patria | William Dutton | (see the Gutenberg header) | have | PG 49847 |
+| `singles-fiction-2-verga-the-house-by-the-medlar-tree` | Giovanni Verga | The House by the Medlar-Tree | Mary A. Craig | (see the Gutenberg header) | have | PG 54684 |
+| `singles-fiction-2-veselitskaia-mimi-s-marriage` | Lidiia Ivanovna Veselitskaia | Mimi's Marriage | C. T. Hagberg Wright | (see the Gutenberg header) | have | PG 56719 |
+| `singles-fiction-2-zola-claude-s-confession` | Émile Zola | Claude's Confession | George D. Cox | (see the Gutenberg header) | have | PG 63819 |
+| `singles-fiction-2-zola-the-monomaniac-la-bete-humaine` | Émile Zola | The Monomaniac (La bête humaine) | Edward Vizetelly | (see the Gutenberg header) | have | PG 57038 |
+| — | — | spyri-65174: Spyri's The New Year's Carol: left for the spyri shelf (Lane D). | — | — | excluded | — |
+
+## One-off translations: more plays and poetry (The Lower Depths, Hands Around, Echegaray, Petrarch, Leopardi, Mirèio, Orlando Innamorato, the Mesnevi, the Orkneyinga Saga, the Jātaka, the Diamond Sutra)
+
+Shelf: `pipeline/singles-plays-poetry-2_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-plays-poetry-2` · titles `python3 pipeline/split_shelf_titles.py singles-plays-poetry-2`.
+Round 43 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-plays-poetry-2-al-maarri-the-luzumiyat-of-abu-l-ala-selected-from` | Abu al-Ala al-Maarri | The Luzumiyat of Abu'l-Ala Selected from his Luzum ma la Yalzam and Suct us-Zand | Ameen Fares Rihani | (see the Gutenberg header) | have | PG 50457 |
+| `singles-plays-poetry-2-anon-antar` | anonymous (the Sīrat ʿAntar) | Antar: A Bedoueen Romance | Terrick Hamilton | (see the Gutenberg header) | have | PG 57857 |
+| `singles-plays-poetry-2-anon-buddhist-birth-stories` | anonymous (the Pali Jātaka, ed. V. Fausbøll) | Buddhist birth stories; or, Jataka tales, Volume 1 | Robert Cæsar Childers and T. W. Rhys Davids | (see the Gutenberg header) | have | PG 51880 |
+| `singles-plays-poetry-2-anon-fir-flower-tablets` | various Chinese poets | Fir-Flower Tablets: Poems Translated from the Chinese | Florence Wheelock Ayscough and Amy Lowell | (see the Gutenberg header) | have | PG 48222 |
+| `singles-plays-poetry-2-anon-post-biblical-hebrew-literature` | various Hebrew writers | Post-Biblical Hebrew Literature: An Anthology | B. Halper | (see the Gutenberg header) | have | PG 61386 |
+| `singles-plays-poetry-2-anon-rustic-chivalry-cavalleria-rusticana` | Pietro Mascagni (music); G. Targioni-Tozzetti and G. Menasci (libretto) | Rustic Chivalry (Cavalleria Rusticana): Melodrama in One Act | James Cartwright Macy | (see the Gutenberg header) | have | PG 48007 |
+| `singles-plays-poetry-2-anon-sumerian-hymns-from-cuneiform-texts-in-t` | anonymous Sumerian hymns | Sumerian Hymns from Cuneiform Texts in the British Museum | Frederick Augustus Vanderburgh | (see the Gutenberg header) | have | PG 48094 |
+| `singles-plays-poetry-2-anon-the-babees-book` | anonymous medieval courtesy books (from F. J. Furnivall's texts) | The Babees' Book: Medieval Manners for the Young: Done into Modern English | L. J. Naylor | (see the Gutenberg header) | have | PG 58985 |
+| `singles-plays-poetry-2-anon-the-dean-of-lismore-s-book` | James MacGregor, Dean of Lismore (compiler) | The Dean of Lismore's Book: A Selection of Ancient Gaelic Poetry | Thomas Maclauchlan | (see the Gutenberg header) | have | PG 48099 |
+| `singles-plays-poetry-2-anon-the-king-s-mirror-speculum-regale-konung` | anonymous Norwegian (the Konungs skuggsjá) | The King's Mirror (Speculum regale-Konungs skuggsjá) | Laurence Marcellus Larson | (see the Gutenberg header) | have | PG 61264 |
+| `singles-plays-poetry-2-anon-the-lay-of-the-nibelung-men` | anonymous (the Nibelungenlied) | The Lay of the Nibelung Men | Arthur S. Way | (see the Gutenberg header) | have | PG 59831 |
+| `singles-plays-poetry-2-anonymous-the-orkneyinga-saga` | anonymous (the Orkneyinga saga) | The Orkneyinga Saga | Gilbert Goudie and Jón A. Hjaltalín (Jón Andrésson Hjaltalín) | (see the Gutenberg header) | have | PG 57723 |
+| `singles-plays-poetry-2-boiardo-the-orlando-innamorato` | Matteo Maria Boiardo | The Orlando Innamorato | William Stewart Rose | (see the Gutenberg header) | have | PG 57869 |
+| `singles-plays-poetry-2-brieux-three-plays-by-brieux-with-a-preface-by` | Eugène Brieux | Three Plays by Brieux With a Preface by Bernard Shaw | St. John Hankin and John Pollock and Charlotte Frances Shaw | (see the Gutenberg header) | have | PG 46992 |
+| `singles-plays-poetry-2-christine-the-epistle-of-othea-to-hector` | de Pisan Christine | The epistle of Othea to Hector; or, The boke of knyghthode | Stephen Scrope | (see the Gutenberg header) | have | PG 60567 |
+| `singles-plays-poetry-2-claudel-tete-d-or` | Paul Claudel | Tête-d'Or: A play in three acts | J. S. Newberry | (see the Gutenberg header) | have | PG 52088 |
+| `singles-plays-poetry-2-echegaray-the-great-galeoto` | José Echegaray | The great Galeoto; Folly or saintliness two plays done from the verse of José Echegaray into English prose by Hannah Lynch | Hannah Lynch | (see the Gutenberg header) | have | PG 55981 |
+| `singles-plays-poetry-2-echegaray-the-son-of-don-juan-an-original-drama-in` | José Echegaray | The son of Don Juan an original drama in 3 acts inspired by the reading of Ibsen's work entitled 'Gengangere' | James Graham | (see the Gutenberg header) | have | PG 56126 |
+| `singles-plays-poetry-2-fontaine-the-fables-of-la-fontaine-translated-int` | Jean de La Fontaine | The Fables of La Fontaine Translated into English Verse by Walter Thornbury and Illustrated by Gustave Doré | Walter Thornbury | (see the Gutenberg header) | have | PG 50316 |
+| `singles-plays-poetry-2-gorky-the-lower-depths` | Maksim Gorky | The Lower Depths: A Drama in Four Acts | Jenny Covan | (see the Gutenberg header) | have | PG 52468 |
+| `singles-plays-poetry-2-heijermans-the-good-hope-in-the-drama` | Herman Heijermans | The Good Hope (In "The Drama: A Quarterly Review of Dramatic Literature") | Harriet Gampert Higgins | (see the Gutenberg header) | have | PG 58473 |
+| `singles-plays-poetry-2-hrotsvitha-the-plays-of-roswitha` | Hrotsvitha | The Plays of Roswitha | Christopher St. John | (see the Gutenberg header) | have | PG 59770 |
+| `singles-plays-poetry-2-iqbal-the-secrets-of-the-self-asrar-i-khudi-a` | Muhammad Iqbal | The Secrets of the Self (Asrar-i Khudi) — A Philosophical Poem | Reynold Alleyne Nicholson | (see the Gutenberg header) | have | PG 57317 |
+| `singles-plays-poetry-2-leclerc-coward-or-hero` | Eugène Leclerc | Coward or Hero? | Sale Barker | (see the Gutenberg header) | have | PG 56369 |
+| `singles-plays-poetry-2-leopardi-the-poems-of-leopardi` | Giacomo Leopardi | The poems of Leopardi | Francis Henry Cliffe | (see the Gutenberg header) | have | PG 53020 |
+| `singles-plays-poetry-2-mistral-mireio-a-provencal-poem` | Frédéric Mistral | Mirèio, a Provençal Poem | H. W. Preston | (see the Gutenberg header) | have | PG 56008 |
+| `singles-plays-poetry-2-mitra-nil-darpan` | Dinabandhu Mitra | Nil Darpan; or, The Indigo Planting Mirror, A Drama. Translated from the Bengali by a Native. | Michael Madhusudan Dutt | (see the Gutenberg header) | have | PG 54027 |
+| `singles-plays-poetry-2-oehlenschlager-the-gods-of-the-north` | Adam Oehlenschläger | The Gods of the North: an epic poem | William Edward Frye | (see the Gutenberg header) | have | PG 49696 |
+| `singles-plays-poetry-2-petrarca-fifteen-sonnets-of-petrarch` | Francesco Petrarca | Fifteen sonnets of Petrarch | Thomas Wentworth Higginson | (see the Gutenberg header) | have | PG 50307 |
+| `singles-plays-poetry-2-pushkin-poems-with-introduction-and-notes` | Aleksandr Sergeevich Pushkin | Poems With Introduction and Notes | Ivan Panin | (see the Gutenberg header) | have | PG 54991 |
+| `singles-plays-poetry-2-rumi-the-mesnevi` | Maulana Jalal al-Din Rumi | The Mesnevi | James W. Redhouse | (see the Gutenberg header) | have | PG 61724 |
+| `singles-plays-poetry-2-saavedra-numantia` | Miguel de Cervantes Saavedra | Numantia | James Young Gibson | (see the Gutenberg header) | have | PG 53041 |
+| `singles-plays-poetry-2-sadi-the-bustan-of-sadi-translated-from-the-p` | Sadi | The Bustān of Sadi Translated from the Persian with an introduction | A. Hart Edwards | (see the Gutenberg header) | have | PG 60471 |
+| `singles-plays-poetry-2-sardou-the-sorceress` | Victorien Sardou | The Sorceress: A Drama in Five Acts | Charles A. Weissert | (see the Gutenberg header) | have | PG 54705 |
+| `singles-plays-poetry-2-schnitzler-hands-around-reigen` | Arthur Schnitzler | Hands Around [Reigen]: A Cycle of Ten Dialogues | L. D. Edwards and F. L. Glaser | (see the Gutenberg header) | have | PG 53513 |
+| `singles-plays-poetry-2-shikibu-diaries-of-court-ladies-of-old-japan` | Murasaki Shikibu, Izumi Shikibu and the Sarashina diarist | Diaries of Court Ladies of Old Japan | Annie Shepley Omori and Kochi Doi | (see the Gutenberg header) | have | PG 47151 |
+| `singles-plays-poetry-2-takeda-chushingura` | Izumo Takeda and Shoraku Miyoshi and Senryu Namiki | Chushingura; Or, The Treasury of Loyal Retainers | Jukichi Inouye | (see the Gutenberg header) | have | PG 59421 |
+| `singles-plays-poetry-2-unknown-the-diamond-sutra-chin-kang-ching-or-pra` | anonymous (the Vajracchedikā Sūtra) | The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita | William Gemmell (from Kumārajīva's Chinese) | (see the Gutenberg header) | have | PG 64623 |
+| `singles-plays-poetry-2-vega-the-works-of-garcilasso-de-la-vega-surna` | Garcilaso de la Vega | The Works of Garcilasso de la Vega, Surnamed the Prince of Castilian Poets, Translated into English Verse With a Critical and Historical Essay on Spanish Poetry and a Life of the Author | Jeremiah Holmes Wiffen | (see the Gutenberg header) | have | PG 49410 |
+| — | — | various-47036: The Jade Flute: translator unnamed, so the per-title translator gate has nothing to check. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
