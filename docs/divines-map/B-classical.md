@@ -2890,6 +2890,7 @@ Shelf: `pipeline/frazer-greece_shelf.json`. Sir James George Frazer (1854-1941):
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Studies in Greek Scenery, Legend and History, selected from his commentary on Pausanias |  | `frazer-studies-greek-scenery` | have (PG 56002) |
 
 ## Matthew Arnold (scholarship)
 
