@@ -670,3 +670,6 @@
 
 ## 2026-10-09 21:57 CDT — daniel-wilson-calcutta done
 - `pipeline/daniel-wilson-calcutta_shelf.json`: 7 IA volumes. Evidences vol. 1 failed the name gate on an OCR artifact ("DANIEL ^WILSON"); title page read (year OCR'd "1329" = 1829), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-09 22:03 CDT — j-b-mozley done
+- `pipeline/j-b-mozley_shelf.json`: 8 IA volumes. Augustinian Predestination failed the name gate on letterspaced OCR ("M 0 Z L E Y"); title page read, recorded in `_identity_checked` instead of adding a garbled name form. `--verify --record`: 0 mismatched. 0 uids minted.

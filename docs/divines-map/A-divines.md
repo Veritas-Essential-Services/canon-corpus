@@ -2172,7 +2172,7 @@ Slugs `bickersteth-*`. The elder Bickersteth, not his son the Bishop of Exeter.
 | A Scripture Help (1821); A Treatise on Prayer (1839); A Treatise on the Lord's Supper (1849); The Christian Student (1830); A Practical Guide to the Prophecies (1852); The Promised Glory of the Church (1844); A Treatise on Baptism (1844) | have-ocr | IA, OCR 97-99% |
 | Works (New York: Carter, 1855) | excluded | vol. 5 unavailable on IA |
 
-## Henry Melvill (round 14, my pick, 2026-10-10)
+## Henry Melvill (round 14, my pick, 2026-10-09)
 
 Slugs `melvill-*`. Name forms are full ("henry melvill", etc.); the shelf is distinct from `james-melville`.
 
@@ -2181,10 +2181,19 @@ Slugs `melvill-*`. Name forms are full ("henry melvill", etc.); the shelf is dis
 | Sermons, ed. M'Ilvaine (2 vols, 1853); Sermons before Cambridge (1836); Less Prominent Facts (2 series, 1843/1846); Public Occasions (1846); Lothbury Lectures (1858) | have-ocr | IA, OCR 97-99% |
 | The Golden Lectures | alternate | no year on the title page |
 
-## Daniel Wilson, Bishop of Calcutta (round 14, my pick, 2026-10-10)
+## Daniel Wilson, Bishop of Calcutta (round 14, my pick, 2026-10-09)
 
 Slugs `dwilson-*`. Not `thomas-wilson` (another branch's shelf).
 
 | Work | Status | Where |
 |---|---|---|
 | Evidences of Christianity (2 vols, 1829-30); Sermons and Tracts (2 vols, 1825); Lord's Day (3rd ed., 1840); Colossians (1846); Sermons Delivered in India (catalogued 1838) | have-ocr | IA, OCR 94-99% |
+
+## J. B. Mozley (round 14, my pick, 2026-10-09)
+
+Slugs `mozley-*`. James Bowling Mozley (1813-1878), Regius Professor of Divinity at Oxford. Not his brother Thomas Mozley.
+
+| Work | Status | Where |
+|---|---|---|
+| Augustinian Predestination (1855); Baptismal Regeneration (1856); Miracles, Bampton 1865; University Sermons (2nd ed., 1876); Ruling Ideas (1877); Essays (2 vols, 1878); Lectures and Papers (1883) | have-ocr | IA, OCR 97-99% |
+| Baptismal Controversy (2nd ed., 1883); Sermons Parochial and Occasional (1879) | alternate | not shelved |
