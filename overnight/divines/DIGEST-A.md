@@ -284,6 +284,7 @@ Round 13 was done by 06:48 CDT on 3 October. Round 14 turns to Victorian Anglica
 | A. B. Davidson | a-b-davidson_shelf.json | none | 8 (OT Theology 1904; OT Prophecy 1905; Job 1884; Ezekiel 1892; Hebrews, catalogued 1900; Hebrew Grammar 14th ed. 1897; Hebrew Syntax 2nd ed. 1896; Called of God 1905) | none | Grammar and Syntax OCR 86-90%: the Hebrew is garbled, the English usable |
 | George Matheson | george-matheson_shelf.json | none | 9 (Growth of the Spirit of Christianity 2 vols 1877; Portrait of Christ 2 vols 1899-1900; St Paul 1897; Old Faith 1885; Natural Elements 1881; Sacred Songs 1891; Moments on the Mount 7th ed., no year) | none | Moments on the Mount has no year on its title page |
 | Henry Boynton Smith | henry-boynton-smith_shelf.json | none | 4 (System of Christian Theology 1884; Introduction to Christian Theology 1883; Apologetics 1882; Faith and Philosophy 1877) | none | three are posthumous, edited from lectures |
+| Jonathan Dickinson | jonathan-dickinson_shelf.json | none | 3 (Familiar Letters 1841 ed.; True Scripture Doctrine 1841 ed.; Sermons and Tracts, Edinburgh 1793) | none | the 1793 volume's OCR is 83% (long s) |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

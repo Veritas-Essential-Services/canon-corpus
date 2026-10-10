@@ -694,3 +694,6 @@
 
 ## 2026-10-09 22:17 CDT — henry-boynton-smith done
 - `pipeline/henry-boynton-smith_shelf.json`: 4 IA (Apologetics is a "0000"-style id; title page reads 1882). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-09 22:17 CDT — jonathan-dickinson done
+- `pipeline/jonathan-dickinson_shelf.json`: 3 IA (True Scripture Doctrine is a "0000"-style id; title page reads 1841). `--verify --record`: 0 mismatched. 0 uids minted.

@@ -2258,3 +2258,12 @@ Slugs `hbsmith-*`. Full name forms only; not `henry-smith` (the Elizabethan prea
 | Work | Status | Where |
 |---|---|---|
 | System of Christian Theology (1884); Introduction to Christian Theology (1883); Apologetics (1882); Faith and Philosophy (1877) | have-ocr | IA, OCR 97-99% |
+
+## Jonathan Dickinson (round 14, my pick, 2026-10-09)
+
+Slugs `jdickinson-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Familiar Letters (1841 ed.); The True Scripture Doctrine (1841 ed.) | have-ocr | IA, OCR 99% |
+| Sermons and Tracts (Edinburgh, M.DCC.XCIII) | have-ocr | IA, OCR 83%: long s |
