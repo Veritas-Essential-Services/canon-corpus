@@ -2648,6 +2648,9 @@ Shelf: `pipeline/jane-harrison_shelf.json`. Jane Ellen Harrison (1850-1928), New
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Prolegomena to the Study of Greek Religion |  | `jane-harrison-prolegomena-greek-religion` | have (PG 78248) |
+| Primitive Athens as Described by Thucydides |  | `jane-harrison-primitive-athens` | have (PG 73789) |
+| Ancient Art and Ritual |  | `jane-harrison-ancient-art-ritual` | have (PG 17087) |
 
 Excluded: PG 75986 (Reminiscences of a Student's Life) (memoir, outside the brief)
 
