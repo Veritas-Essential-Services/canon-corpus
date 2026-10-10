@@ -3453,6 +3453,8 @@ Shelf: `pipeline/edwyn-bevan_shelf.json`. The House of Seleucus vol. I (1902) an
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The House of Seleucus, vol. I (London: Edward Arnold, 1902) |  | `edwyn-bevan-house-seleucus-v1-1902` | have-raw (IA `houseofseleucus01bevauoft`) |
+| Stoics and Sceptics: four lectures delivered in Oxford (Oxford University Press, 1913) |  | `edwyn-bevan-stoics-sceptics-1913` | have-raw (IA `stoicsscepticsfo00beva`) |
 
 Pending (wishlist): The House of Seleucus vol. II (1902).
 
