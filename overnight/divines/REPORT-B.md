@@ -770,3 +770,7 @@
 - New shelves: Capes (Early Empire, 1876; University Life in Ancient Athens, 1877), Strachan-Davidson (Cicero, 1894), Edwyn Bevan (House of Seleucus vol. I, 1902; Stoics and Sceptics, 1913), Oman (Seven Roman Statesmen, from a 1929 impression)
 - Added: Mahaffy's Prolegomena to Ancient History (1871) and Greek World under Roman Sway (1890); Warde Fowler's Julius Caesar (1892)
 - Held back for illegible imprint years: Capes's Stoicism, Warde Fowler's City-State, Mahaffy's Empire of the Ptolemies. Wanted: Bevan's Seleucus vol. II
+
+## 2026-10-10 12:19 CDT — Round 2026-10-10ag: 3 Latin grammars
+- Taken: Bennett's New Latin Grammar and Lane's Latin Grammar (completed by Morgan), both clean Gutenberg; Allen and Greenough's Latin Grammar, revised edition (Ginn, 1887), OCR 0.80
+- Under the bar: Goodwin's Greek Grammar (1892, 0.70), Smyth's Greek Grammar for Colleges (1920, 0.66) and Gildersleeve and Lodge's Latin Grammar (1894, 0.74). The Greek ones are mostly Greek paradigms, so they belong to the Greek-facing measure question already with Adam rather than to bad OCR

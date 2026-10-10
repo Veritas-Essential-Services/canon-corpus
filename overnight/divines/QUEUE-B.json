@@ -1172,6 +1172,14 @@
    "started": "2026-10-10T12:13:58-05:00",
    "finished": "2026-10-10T12:18:15-05:00",
    "notes": "9 volumes; 4 new shelves"
+  },
+  {
+   "id": "round-2026-10-10ag",
+   "status": "done",
+   "scope": "Latin and Greek grammars",
+   "started": "2026-10-10T12:18:15-05:00",
+   "finished": "2026-10-10T12:19:49-05:00",
+   "notes": "3 Latin grammars; the Greek grammars fall under the bar"
   }
  ]
 }
