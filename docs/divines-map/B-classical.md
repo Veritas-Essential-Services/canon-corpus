@@ -2511,15 +2511,46 @@ Pending (wishlist): other English Mommsen not yet searched.
 
 ## Sir William Smith (scholarship)
 
-Shelf: `pipeline/william-smith_shelf.json`. Smith's smaller histories of Greece and Rome and his Smaller Dictionary of Greek and Roman Antiquities, clean Gutenberg. Not minted.
+Shelf: `pipeline/william-smith_shelf.json`. Smith's smaller histories of Greece and Rome and his Smaller Dictionary of Antiquities (clean Gutenberg), and the full Dictionaries of Antiquities (1842), Biography and Mythology (Boston, 1870) and Geography (Boston, 1854 and 1870) as raw IA OCR. Many-author reference works under Smith's editorship, all published 1842-1870. Not minted.
 
-| Work | Reviser | Slug | Status |
+| Work | Translator | Slug | Status |
 |---|---|---|---|
 | A Smaller History of Greece: from the Earliest Times to the Roman Conquest |  | `william-smith-smaller-history-of-greece` | have (PG 2096) |
 | A Smaller History of Rome, from the Earliest Times to the Establishment of the Empire (with Eugene Lawrence) |  | `william-smith-smaller-history-of-rome` | have (PG 19694) |
 | A Smaller Dictionary of Greek and Roman Antiquities |  | `william-smith-smaller-dictionary-antiquities` | have (PG 65909) |
 
-Pending (wishlist): The full Dictionary of Greek and Roman Antiquities (1842; 3rd ed. 1890-91), Dictionary of Greek and Roman Biography and Mythology (3 vols., 1844-49) and Dictionary of Greek and Roman Geography (2 vols., 1854-57), from IA scans.
+Excluded: Dictionary of Greek and Roman Geography vol. II (IA dictionaryofgrromgeo02smituoft) (no title page in the scan; the 1870 Boston vol. II is taken instead)
+
+Pending (wishlist): Biography and Mythology vol. III (the matching Boston 1870 copy, IA dictionaryofgree03smituoft, would not download); the third edition of the Antiquities (Wayte and Marindin, 1890-91).
+
+## Sir Richard Jebb (scholarship)
+
+Shelf: `pipeline/jebb_shelf.json`. Jebb's Attic Orators (1893, 2 vols.), Growth and Influence of Classical Greek Poetry, Homer: an Introduction, Bentley, Modern Greece, and Essays and Addresses, raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Attic Orators from Antiphon to Isaeus, vol. I, second edition (London: Macmillan, 1893; first edition 1876) |  | `jebb-attic-orators-v1-1893` | have-raw (IA `atticoratorsfrom01jebbuoft`) |
+| The Attic Orators from Antiphon to Isaeus, vol. II, second edition (London: Macmillan, 1893) |  | `jebb-attic-orators-v2-1893` | have-raw (IA `atticoratorsfrom02jebbuoft`) |
+| The Growth and Influence of Classical Greek Poetry: lectures delivered in 1892 on the Percy Turnbull Memorial Foundation in the Johns Hopkins University (London and New York: Macmillan, 1893) |  | `jebb-growth-influence-greek-poetry-1893` | have-raw (IA `growthandinflue01jebbgoog`) |
+| Homer: an Introduction to the Iliad and the Odyssey, sixth edition (Glasgow: Maclehose, 1898) |  | `jebb-homer-introduction-1898` | have-raw (IA `cu31924059064653`) |
+| Bentley (English Men of Letters, ed. John Morley; New York: Harper, 1901 printing) |  | `jebb-bentley-1901` | have-raw (IA `bentleyclaver00jebbuoft`) |
+| Modern Greece: two lectures delivered before the Philosophical Institution of Edinburgh, with papers on 'The Progress of Greece' and 'Byron in Greece' (London: Macmillan, 1880) |  | `jebb-modern-greece-1880` | have-raw (IA `moderngreecetwol00jebbuoft`) |
+| Essays and Addresses (Cambridge: University Press, 1907) |  | `jebb-essays-addresses-1907` | have-raw (IA `essaysaddresses00jebbiala`) |
+
+Excluded: Primer of Greek Literature (IA greekliterature00jebbuoft) (no title page in the scan); Erasmus (Rede lecture, 1890) (Erasmus belongs to the Classical reading lists thread; not taken here to avoid overlap)
+
+Pending (wishlist): Humanism in Education (1899) and the Rede lecture on Erasmus are left out (Erasmus belongs to the Classical reading lists thread); the Sophocles commentaries (Greek facing) wait on the Greek-facing ruling.
+
+## John Conington (scholarship)
+
+Shelf: `pipeline/conington_shelf.json`. Conington's Miscellaneous Writings (1872), vol. I, raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Excluded: P. Vergili Maronis Opera, with a commentary (with Henry Nettleship), vol. III (IA pvergilimaroniso03virg) (refused: OCR 0.73 (dense line references; sampled OCR is otherwise good))
+
+Pending (wishlist): Miscellaneous Writings vol. II (every IA copy tried was vol. I or would not download); the Virgil and Persius commentaries if a scan clears the bar.
 
 ## Perseus census (overflow)
 
