@@ -979,3 +979,6 @@
 
 ## 2026-10-10 14:56 CDT — round 21 closed
 - Twelve shelves, 126 items (9 CCEL, 7 Gutenberg, 110 IA). Closing paragraph and veto points in DIGEST-A. 0 uids minted.
+
+## 2026-10-10 15:12 CDT — paused
+- Paused at Adam's request after round 21. Round 22 queued, not started. LOCK-A status paused. RUN-CONTROL.json not touched (its note says workers never write it).
