@@ -1,5 +1,5 @@
 {
- "_about": "Charles Merivale (1808-1893), later Dean of Ely: History of the Romans under the Empire, the Longmans new edition in eight volumes, vols. I-V, each title page dated 1865 (vol. V's year reads 'ia65' in the OCR), raw IA OCR. Vol. I's imprint reads 'Longmans, Green, and Co.' and vols. II-V 'Longman, Green, Longman, Roberts, & Green'; the firm took the shorter name in 1865, so both imprints can carry that year. Vols. VI-VIII were found only in later impressions of the same edition (VI 1868 and 1872, VII 1904 'new impression', VIII 1872), and are held for Adam's ruling on later printings. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Charles Merivale (1808-1893), later Dean of Ely: History of the Romans under the Empire, the Longmans new edition in eight volumes, vols. I-V, each title page dated 1865 (vol. V's year reads 'ia65' in the OCR), raw IA OCR. Vol. I's imprint reads 'Longmans, Green, and Co.' and vols. II-V 'Longman, Green, Longman, Roberts, & Green'; the firm took the shorter name in 1865, so both imprints can carry that year. Vols. VI-VIII were found only in later impressions of the same edition and are taken from them: VI 1868, VIII 1872, VII a 'new impression' whose year reads 'lu04' in the OCR (read as 1904, the year of the matching vol. VI impression on IA; an inference). All are pre-1930 printings, so the post-1930 later-printings question does not arise. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
  "_name_words": [
   "merivale"
  ],
@@ -30,6 +30,18 @@
   "merivale-romans-empire-v5-1865": [
    "ahistoryromansu01merigoog",
    "History of the Romans under the Empire, new edition in eight volumes, vol. V (London: Longman, Green, Longman, Roberts, & Green, 1865)"
+  ],
+  "merivale-romans-empire-v6-1868": [
+   "historyromansun07unkngoog",
+   "History of the Romans under the Empire, new edition in eight volumes, vol. VI (London: Longmans, Green, and Co., 1868)"
+  ],
+  "merivale-romans-empire-v7-1904": [
+   "historyofromansu07meri",
+   "History of the Romans under the Empire, in eight volumes, vol. VII, new impression (London: Longmans, Green, and Co., 1904)"
+  ],
+  "merivale-romans-empire-v8-1872": [
+   "historyromansun15unkngoog",
+   "History of the Romans under the Empire, new edition in eight volumes, vol. VIII (London: Longmans, Green, and Co., 1872)"
   ]
  },
  "_checks": {
@@ -87,6 +99,39 @@
    "ia_date": "1865",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "merivale-romans-empire-v6-1868": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles merivale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "merivale-romans-empire-v7-1904": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles merivale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "merivale-romans-empire-v8-1872": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_identity_checked": {
@@ -98,6 +143,9 @@
   },
   "merivale-romans-empire-v5-1865": {
    "author": "title page read 2026-10-10: OCR gives 'CHAELES MERIVALE, B.D.', new edition, vol. V, 1865 (Charles Merivale); the OCR misreads the forename"
+  },
+  "merivale-romans-empire-v8-1872": {
+   "author": "title page read 2026-10-10: OCR gives 'CHAELES MEEIVALi:, D.C.L. DBAIJ OF ELY', new edition in eight volumes, vol. VIII, Longmans 1872 (Charles Merivale); the OCR garbles the name"
   }
  }
 }

@@ -3143,6 +3143,9 @@ Shelf: `pipeline/merivale_shelf.json`. History of the Romans under the Empire, L
 | History of the Romans under the Empire, new edition in eight volumes, vol. III (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v3-1865` | have-raw (IA `historyofromansu03meriiala`) |
 | History of the Romans under the Empire, new edition in eight volumes, vol. IV (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v4-1865` | have-raw (IA `ahistoryromansu00merigoog`) |
 | History of the Romans under the Empire, new edition in eight volumes, vol. V (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v5-1865` | have-raw (IA `ahistoryromansu01merigoog`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. VI (London: Longmans, Green, and Co., 1868) |  | `merivale-romans-empire-v6-1868` | have-raw (IA `historyromansun07unkngoog`) |
+| History of the Romans under the Empire, in eight volumes, vol. VII, new impression (London: Longmans, Green, and Co., 1904) |  | `merivale-romans-empire-v7-1904` | have-raw (IA `historyofromansu07meri`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. VIII (London: Longmans, Green, and Co., 1872) |  | `merivale-romans-empire-v8-1872` | have-raw (IA `historyromansun15unkngoog`) |
 
 ## August Boeckh (scholarship)
 
