@@ -2645,6 +2645,23 @@ Slugs `jmuller-*`. Urwick's 1868 translation; Pulsford's earlier one is an alter
 | The Christian Doctrine of Sin, vol. 1, tr. William Urwick from the fifth German edition (Edinburgh: T. & T. Clark, MDCCCLXVIII) | have-ocr | IA `christiandoctrin01mull` |
 | The Christian Doctrine of Sin, vol. 2, tr. William Urwick from the fifth German edition (Edinburgh: T. & T. Clark, MDCCCLXVIII) | have-ocr | IA `christiandoctrin02mull` |
 | the earlier translation by William Pulsford from the third German edition (Clark, 1852-53; IA christiandoctri05mlgoog, 02mlgoog) | alternate | not shelved |
+
+## Rudolf Stier (in English) (round 16, my pick, 2026-10-10)
+
+Slugs `stier-*`. The eight volumes of The Words of the Lord Jesus are a mixed set of 1863-67 printings.
+
+| Work | Status | Where |
+|---|---|---|
+| The Words of the Lord Jesus, vol. 1, tr. William B. Pope (Edinburgh: T. & T. Clark, new edition, MDCCCLXVII) | have-ocr | IA `wordsoflordjesus01stie` |
+| The Words of the Lord Jesus, vol. 2, tr. William B. Pope (Edinburgh: T. & T. Clark, new edition, 1866) | have-ocr | IA `wordsoflordjesus02stie` |
+| The Words of the Lord Jesus, vol. 3, tr. William B. Pope (Edinburgh: T. & T. Clark, third edition, 1863) | have-ocr | IA `wordsoflordjesus03stie` |
+| The Words of the Lord Jesus, vol. 4, tr. William B. Pope (Edinburgh: T. & T. Clark, new edition, 1866) | have-ocr | IA `wordsoflordjesus04stie` |
+| The Words of the Lord Jesus, vol. 5, tr. William B. Pope (Edinburgh: T. & T. Clark, new edition, 1866) | have-ocr | IA `wordsoflordjesus05stie` |
+| The Words of the Lord Jesus, vol. 6, tr. William B. Pope (Edinburgh: T. & T. Clark, new edition, 1867) | have-ocr | IA `wordsoflordjesus06stie` |
+| The Words of the Lord Jesus, vol. 7, tr. William B. Pope (Edinburgh: T. & T. Clark, new edition, MDCCCLXV) | have-ocr | IA `wordsoflordjesus07stie` |
+| The Words of the Lord Jesus, vol. 8, tr. William B. Pope (Edinburgh: T. & T. Clark, third edition, 1863) | have-ocr | IA `wordsoflordjesus08stie` |
+| The Words of the Risen Saviour, and Commentary on the Epistle of St. James, tr. William B. Pope, new edition (Edinburgh: T. & T. Clark, MDCCCLXIV) | have-ocr | IA `wordsofrisensa00stie` |
+| The Words of the Apostles Expounded, tr. G. H. Venables (Edinburgh: T. & T. Clark, MDCCCLXIX); the translator's name is not machine-checked | have-ocr | IA `wordsofapostles00stie` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
