@@ -3912,3 +3912,30 @@ Slugs `groves-*`. Missionary and early Brethren; two Gutenberg texts, both from 
 | Memoir of the late Anthony Norris Groves, compiled by his widow from his letters and journals (Nisbet, 1856; IA dli.ministry.17016; third edition memoiranthonyno00grovgoog) | alternate | not shelved |
 | G. H. Lang's 1949 biography and modern studies | excluded | |
 | G. W. Groves and others | excluded | |
+
+## J. W. Burgon (round 21, my pick, 2026-10-10)
+
+Slugs `burgon-*`. Defender of the Traditional Text. The two 1896 books were arranged and edited by Edward Miller after his death. Gutenberg's Revision Revised came from a 1971 reprint, so the 1883 scan is shelved.
+
+| Work | Status | Where |
+|---|---|---|
+| Inspiration and Interpretation: Seven Sermons (Oxford and London: J. H. and Jas. Parker, 1861) | have-clean | CCEL burgon/inspiration |
+| The Last Twelve Verses of the Gospel According to S. Mark (Oxford and London: James Parker, 1871) | have-clean | CCEL burgon/mark |
+| The Traditional Text of the Holy Gospels Vindicated and Established, arranged and edited by Edward Miller (London: George Bell; Cambridge: Deighton, Bell, 1896) | have-clean | Gutenberg 38960 |
+| The Causes of the Corruption of the Traditional Text of the Holy Gospels, arranged and edited by Edward Miller (London: George Bell; Cambridge: Deighton, Bell, 1896) | have-clean | Gutenberg 21112 |
+| A Treatise on the Pastoral Office (London: Macmillan, 1864) | have-ocr | IA `treatiseonpastor00burg` |
+| Mr. Sandford and the University Sermon: a Letter to the Vice-Chancellor (Oxford: J. H. and J. Parker, 1865) | have-ocr | IA `mrsandforduniver00burg` |
+| England and Rome: Three Letters, American edition with a prefatory letter by the Bishop of Central New York (New York: E. P. Dutton, 1869) | have-ocr | IA `englandrome00burg` |
+| The Servants of Scripture (London: SPCK, 1878) | have-ocr | IA `servantsscriptu00willgoog` |
+| The Disestablishment of Religion in Oxford, the Betrayal of a Sacred Trust, a sermon of 21 November 1880 (Oxford and London: Parker; catalogued 1880) | have-ocr | IA `disestablishment00burgon` |
+| The Revision Revised, first edition (London: John Murray, 1883) | have-ocr | IA `revisionrevisedt00burg` |
+| The First Chapter of Genesis: a Reply and a Postscript (London: Mildmay Mission to the Jews Printing Office; no year on title page, catalogued 1886) | have-ocr | IA `firstchapterofge00burg` |
+| CCEL burgon/corruption (no print source in the header) and burgon/revision_revised (no print source; the dated 1883 scan is shelved instead) | alternate | not shelved |
+| Gutenberg 31090 and 26134 duplicate the CCEL texts; Gutenberg 36722 Revision Revised was transcribed from the 1971 Dover reprint | alternate | not shelved |
+| A Plain Commentary on the Four Holy Gospels (Parker, 1855; IA aplaincommentar0Nwillgoog) and Ninety Short Sermons for Family Reading (1855; ninetyshortsermo01/02burguoft): published anonymously, 'by the author of' the Commentary | alternate | not shelved |
+| Ninety-one Short Sermons for Family Reading, second series (1867; ninetyoneshorts00willgoog): author line not confirmed | alternate | not shelved |
+| Life and Times of Sir Thomas Gresham (1839), Lives of Twelve Good Men (1888), the Tytler memoir (1859), Letters from Rome (1862), Petra (1845), Remarks on Art (1846) | alternate | not shelved |
+| Second copies of most titles; American Plain Commentary (Philadelphia, 1855-59); Letters to Dr. Scrivener (no title page) | alternate | not shelved |
+| modern reprints (1965-2009) | excluded | |
+| John Burgon Bickersteth and others | excluded | |
+| modern composite uploads tagged with his name | excluded | |

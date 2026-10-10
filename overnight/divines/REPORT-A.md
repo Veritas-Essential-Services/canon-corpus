@@ -943,3 +943,6 @@
 
 ## 2026-10-10 14:38 CDT — anthony-norris-groves done
 - `pipeline/anthony-norris-groves_shelf.json`: 0 CCEL, 2 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:38 CDT — j-w-burgon done
+- `pipeline/j-w-burgon_shelf.json`: 2 CCEL, 2 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
