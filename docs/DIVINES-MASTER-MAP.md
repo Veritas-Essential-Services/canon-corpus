@@ -6103,7 +6103,7 @@ Shelf: `pipeline/verrall_shelf.json`. Odes of Horace (1884), Bacchants of Euripi
 
 ## Charles Merivale (scholarship)
 
-Shelf: `pipeline/merivale_shelf.json`. History of the Romans under the Empire, Longmans new edition in eight volumes, vols. I-V (1865), raw IA OCR; three title pages misread the name, so identity was checked by eye. Not minted.
+Shelf: `pipeline/merivale_shelf.json`. History of the Romans under the Empire, Longmans new edition in eight volumes: vols. I-V dated 1865, VI 1868, VII a 1904 impression, VIII 1872 (all pre-1930 impressions of one edition), raw IA OCR; several title pages misread the name, so identity was checked by eye. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -6112,8 +6112,9 @@ Shelf: `pipeline/merivale_shelf.json`. History of the Romans under the Empire, L
 | History of the Romans under the Empire, new edition in eight volumes, vol. III (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v3-1865` | have-raw (IA `historyofromansu03meriiala`) |
 | History of the Romans under the Empire, new edition in eight volumes, vol. IV (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v4-1865` | have-raw (IA `ahistoryromansu00merigoog`) |
 | History of the Romans under the Empire, new edition in eight volumes, vol. V (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v5-1865` | have-raw (IA `ahistoryromansu01merigoog`) |
-
-Pending (wishlist): vols. VI-VIII of the same edition, found only in later impressions (VI 1868/1872, VII 1904, VIII 1872); held for Adam's ruling on later printings.
+| History of the Romans under the Empire, new edition in eight volumes, vol. VI (London: Longmans, Green, and Co., 1868) |  | `merivale-romans-empire-v6-1868` | have-raw (IA `historyromansun07unkngoog`) |
+| History of the Romans under the Empire, in eight volumes, vol. VII, new impression (London: Longmans, Green, and Co., 1904) |  | `merivale-romans-empire-v7-1904` | have-raw (IA `historyofromansu07meri`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. VIII (London: Longmans, Green, and Co., 1872) |  | `merivale-romans-empire-v8-1872` | have-raw (IA `historyromansun15unkngoog`) |
 
 ## August Boeckh (scholarship)
 
@@ -6151,14 +6152,16 @@ Shelf: `pipeline/blumner_shelf.json`. The Home Life of the Ancient Greeks, tr. A
 
 ## E. A. Freeman (scholarship)
 
-Shelf: `pipeline/e-a-freeman_shelf.json`. History of Federal Government in Greece and Italy, 2nd ed. by J. B. Bury (raw IA OCR), and Studies of Travel: Greece (clean Gutenberg). Not minted.
+Shelf: `pipeline/e-a-freeman_shelf.json`. History of Federal Government in Greece and Italy, 2nd ed. by J. B. Bury, and The History of Sicily, 4 vols. (Clarendon Press, 1891-1894; vol. IV ed. Arthur J. Evans), raw IA OCR; Studies of Travel: Greece, clean Gutenberg. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Studies of Travel: Greece |  | `e-a-freeman-studies-travel-greece` | have (PG 45132) |
 | History of Federal Government in Greece and Italy, second edition, ed. J. B. Bury (London: Macmillan) |  | `e-a-freeman-federal-government-1893` | have-raw (IA `historyoffederal00freeuoft`) |
-
-Pending (wishlist): History of Sicily (4 vols., 1891-1894).
+| The History of Sicily from the Earliest Times, vol. I (Oxford: Clarendon Press, 1891) |  | `e-a-freeman-sicily-v1-1891` | have-raw (IA `historyofsicilyf01free`) |
+| The History of Sicily from the Earliest Times, vol. II (Oxford: Clarendon Press, 1891) |  | `e-a-freeman-sicily-v2-1891` | have-raw (IA `historyofsicilyf02free`) |
+| The History of Sicily from the Earliest Times, vol. III (Oxford: Clarendon Press, 1892) |  | `e-a-freeman-sicily-v3-1892` | have-raw (IA `historysicilyfr02freegoog`) |
+| The History of Sicily from the Earliest Times, vol. IV, edited from posthumous MSS. by Arthur J. Evans (Oxford: Clarendon Press, 1894) |  | `e-a-freeman-sicily-v4-1894` | have-raw (IA `historyofsicilyf04free`) |
 
 ## W. T. Arnold (scholarship)
 
@@ -6187,6 +6190,27 @@ Shelf: `pipeline/walter-leaf_shelf.json`. Troy, a Study in Homeric Geography (Ma
 | Troy: A Study in Homeric Geography (London: Macmillan, 1912) |  | `walter-leaf-troy-1912` | have-raw (IA `troystudyinhomer00leaf`) |
 
 Pending (wishlist): Homer and History (1915).
+
+## Evelyn Abbott (scholarship)
+
+Shelf: `pipeline/evelyn-abbott_shelf.json`. A History of Greece, 3 parts (Putnam and Longmans, 1900-1901), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Greece, part I, from the earliest times to the Ionian Revolt (New York: Putnam; London: Longmans, Green, 1901) |  | `evelyn-abbott-history-greece-v1-1901` | have-raw (IA `historyofgreece01abbo`) |
+| A History of Greece, part II, from the Ionian Revolt to the Thirty Years' Peace, 500-445 B.C. (New York: Putnam; London: Longmans, Green, 1901) |  | `evelyn-abbott-history-greece-v2-1901` | have-raw (IA `historyofgreece02abbo_0`) |
+| A History of Greece, part III, from the Thirty Years' Peace to the Fall of the Thirty at Athens, 445-403 B.C. (New York: Putnam; London: Longmans, Green, 1900) |  | `evelyn-abbott-history-greece-v3-1900` | have-raw (IA `historyofgreece03abbo`) |
+
+## Adolf Holm (scholarship)
+
+Shelf: `pipeline/holm_shelf.json`. The History of Greece, translated from the German (vol. IV names Frederick Clarke), 4 vols. (Macmillan, 1894-1899), raw IA OCR; Clarke's death year unchecked. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Greece from its Commencement to the Close of the Independence of the Greek Nation, vol. I (London: Macmillan, 1894) | Frederick Clarke (named in vol. IV) | `holm-history-greece-v1-1894` | have-raw (IA `historyofgreecef01holm`) |
+| The History of Greece, vol. II, The Fifth Century B.C. (London: Macmillan, 1899) | Frederick Clarke (named in vol. IV) | `holm-history-greece-v2-1899` | have-raw (IA `historyofgreecef02holm`) |
+| The History of Greece, vol. III, The Fourth Century B.C. up to the Death of Alexander (London: Macmillan, 1896) | Frederick Clarke (named in vol. IV) | `holm-history-greece-v3-1896` | have-raw (IA `historyofgreecef03holm_0`) |
+| The History of Greece, vol. IV, The Graeco-Macedonian Age (London: Macmillan, 1898) | Clarke | `holm-history-greece-v4-1898` | have-raw (IA `historygreecefr04holmgoog`) |
 
 ## Perseus census (overflow)
 

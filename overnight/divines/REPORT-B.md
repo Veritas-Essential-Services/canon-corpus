@@ -723,3 +723,8 @@
 - Translator death years not checked: Anthony Lamb, J. S. Mann (US public domain by date; noted in each shelf)
 - Left out: Duncker's History of Antiquity tr. Abbott (Near Eastern, like Oman and Hogarth before it); Gibbon (already on the adler shelf)
 - Wanted next: Freeman's Sicily, Abbott's and Holm's Histories of Greece, Ihne's Rome, Pelham's Outlines
+
+## 2026-10-10 11:56 CDT — Round 2026-10-10x: 14 volumes
+- Freeman's History of Sicily, 4 vols. (Clarendon Press, 1891-1894; vol. IV edited by Arthur J. Evans)
+- Evelyn Abbott's History of Greece, 3 parts (1900-1901); Holm's History of Greece, 4 vols. (Macmillan, 1894-1899; translator Frederick Clarke named only in vol. IV, death year unchecked)
+- Merivale's Romans under the Empire completed with vols. VI-VIII from pre-1930 impressions (1868, 1904, 1872). Correction to round 10w: I had put this to Adam as a later-printings question, but that class covers only printings after 1930, so no ruling was needed. The DIGEST question is withdrawn
