@@ -3445,6 +3445,7 @@ Shelf: `pipeline/strachan-davidson_shelf.json`. Cicero and the Fall of the Roman
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Cicero and the Fall of the Roman Republic (New York and London: Putnam, 1894) |  | `strachan-davidson-cicero-1894` | have-raw (IA `ciceroandthefall014652mbp`) |
 
 ## Edwyn Bevan (scholarship)
 
