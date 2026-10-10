@@ -3098,6 +3098,7 @@ Shelf: `pipeline/f-b-jevons_shelf.json`. A History of Greek Literature, Scribner
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A History of Greek Literature from the Earliest Period to the Death of Demosthenes (New York: Charles Scribner's Sons; imprint year read by OCR as 1880) |  | `f-b-jevons-history-greek-literature` | have-raw (IA `historyofgreekli00jevouoft`) |
 
 ## James Gow (scholarship)
 
