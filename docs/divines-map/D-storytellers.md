@@ -3228,6 +3228,16 @@ Shelf: `pipeline/mrs-o-f-walton_shelf.json` (2026-10-02; added at the coordinato
 | Christie, the King's Servant | have | PG 10728, `ofwalton-christie-the-kings-servant` (667 units) |
 | A Peep Behind the Scenes | have | PG 7437, `ofwalton-peep-behind-the-scenes` (1729 units) |
 
+## W. H. G. Kingston
+
+Shelf: `pipeline/kingston_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Three sea stories for boys; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Peter the Whaler | have | PG 21474, `kingston-peter-the-whaler` (1545 units) |
+| The Three Midshipmen | have | PG 24812, `kingston-three-midshipmen` (1741 units) |
+| Mark Seaworth | have | PG 21477, `kingston-mark-seaworth` (1131 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

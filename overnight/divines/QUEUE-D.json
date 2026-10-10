@@ -2157,6 +2157,38 @@
       "started": "2026-10-10T09:56:24-05:00",
       "finished": "2026-10-10T10:14:14-05:00",
       "notes": "3/3 fetched (Gutenberg 21997, 10728, 7437), 3,046 units, 0 ~2 ids."
+    },
+    {
+      "id": "kingston",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: kingston; no minting",
+      "status": "done",
+      "started": "2026-10-10T10:21:53-05:00",
+      "finished": "2026-10-10T10:21:53-05:00",
+      "notes": "3/3 fetched (Gutenberg 21474, 24812, 21477), 4,417 units, 0 ~2 ids."
+    },
+    {
+      "id": "mayne-reid",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: mayne-reid; no minting",
+      "status": "running",
+      "started": "2026-10-10T10:21:53-05:00"
+    },
+    {
+      "id": "jane-and-ann-taylor",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: jane-and-ann-taylor; no minting",
+      "status": "running",
+      "started": "2026-10-10T10:21:53-05:00"
+    },
+    {
+      "id": "michael-barrett",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: michael-barrett; no minting",
+      "status": "running",
+      "started": "2026-10-10T10:21:53-05:00"
+    },
+    {
+      "id": "elizabeth-prentiss",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: elizabeth-prentiss; no minting",
+      "status": "running",
+      "started": "2026-10-10T10:21:53-05:00"
     }
   ]
 }
