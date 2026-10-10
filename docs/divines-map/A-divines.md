@@ -3129,3 +3129,38 @@ Slugs `graves-*`. Landmark Baptist editor. Seven early printings (1853-1881) and
 | Pedobaptist and Campbellite Immersions, by A. C. Dayton with an essay by Graves | excluded | |
 | bwb_Y0-BUW-976 (1939) | excluded | |
 | other Graveses | excluded | |
+
+## Augustus H. Strong (round 18, my pick, 2026-10-10)
+
+Slugs `strong-*`. Rochester Seminary president. The 1907-09 Systematic Theology from Gutenberg (CCEL's copy is incomplete and misdates vol. 3), plus the 1876 Lectures and the 1886 first edition, so the growth of the book can be traced.
+
+| Work | Status | Where |
+|---|---|---|
+| Systematic Theology, vol. 1, revised and enlarged (Philadelphia: The Judson Press, 1907) | have-clean | Gutenberg 44035 |
+| Systematic Theology, vol. 2 (Philadelphia: The Judson Press, 1907) | have-clean | Gutenberg 44555 |
+| Systematic Theology, vol. 3 (Philadelphia: Griffith and Rowland, 1909) | have-clean | Gutenberg 45283 |
+| A Tour of the Missions: Observations and Conclusions (Philadelphia: Griffith and Rowland, MCMXVIII) | have-clean | Gutenberg 27452 |
+| Lectures on Theology, printed for students in the Rochester Theological Seminary (Rochester: E. R. Andrews, 1876) | have-ocr | IA `lecturesontheolo00stro` |
+| Systematic Theology: A Compendium and Commonplace-Book, first edition (Rochester: E. R. Andrews, 1886) | have-ocr | IA `systematictheolo00strouoft` |
+| Philosophy and Religion: Addresses, Essays and Sermons (New York: A. C. Armstrong, 1888) | have-ocr | IA `philosophyreligi00strorich` |
+| The Great Poets and Their Theology (Philadelphia: American Baptist Publication Society, MDCCCXCVII) | have-ocr | IA `greatpoetstheirt00strouoft` |
+| Christ in Creation and Ethical Monism (Philadelphia: Roger Williams Press, MDCCCXCIX) | have-ocr | IA `cu31924029232803` |
+| State and Church in 1492 and in 1892 (Philadelphia: American Baptist Publication Society; entered 1892) | have-ocr | IA `MN41430ucmf_0` |
+| The Transcendent Element in the Church (address, Boston, 27 September 1899; no imprint read) | have-ocr | IA `MN41694ucmf_1` |
+| The Miracle at Cana, with an Attempt at a Philosophy of Miracles (no imprint read; catalogued 1903) | have-ocr | IA `miracleatcanawit00stro` |
+| Our Denominational Outlook (address, Cleveland, 19 May 1904; no imprint) | have-ocr | IA `ourdenominationa00stro` |
+| Outlines of Systematic Theology (Philadelphia: Griffith and Rowland; no year on title page, copyright 1908) | have-ocr | IA `cu31924029369950` |
+| Miscellanies, vol. 1, Chiefly Historical (Philadelphia: Griffith and Rowland; published May 1912) | have-ocr | IA `miscellanies01strouoft` |
+| Miscellanies, vol. 2, Chiefly Theological (Philadelphia: Griffith and Rowland; published May 1912) | have-ocr | IA `miscellanies02strouoft` |
+| Union with Christ (Philadelphia: American Baptist Publication Society; published August 1913) | have-ocr | IA `unionwithchristc00strouoft` |
+| One Hundred Chapel-Talks to Theological Students (Philadelphia: Griffith and Rowland, 1913) | have-ocr | IA `onehundredchapel00strouoft` |
+| Popular Lectures on the Books of the New Testament (Philadelphia: Griffith and Rowland; published March 1914) | have-ocr | IA `popularlectureso00strouoft` |
+| American Poets and Their Theology (Philadelphia: Griffith and Rowland, MCMXVI) | have-ocr | IA `americanpoetsthe00strouoft` |
+| What Shall I Believe? A Primer of Christian Theology (New York: Fleming H. Revell; copyright 1922; posthumous) | have-ocr | IA `whatshallibeliev0000stro` |
+| CCEL strong/theology2 and theology3 (vol. 1 serves no text; CCEL dates vol. 3 1907, its title page says 1909): Gutenberg preferred | alternate | not shelved |
+| IA scans of the 1907-09 set (systematictheolo01strouoft, outlinesofsystem02strouoft and outlinesofsystem03strouoft, which are vols. 2-3 despite their ids; Cornell cu31924092368210/228/236) and the 1912 three-in-one | alternate | not shelved |
+| Systematic Theology, second edition (New York: A. C. Armstrong, 1889; IA systematictheolo00str) | alternate | not shelved |
+| Philosophy and Religion, second edition (1912; IA philosophyrelig00stro) | alternate | not shelved |
+| 1946-1963 reprints of the Systematic Theology | excluded | |
+| Herbert Augustus, Charles Augustus, Frederick A. and Thomas Augustus Strong; James Strong | excluded | |
+| Reminiscences of Early Rochester (1916), the seminary General Catalogue, the 1880 dedication address | excluded | |
