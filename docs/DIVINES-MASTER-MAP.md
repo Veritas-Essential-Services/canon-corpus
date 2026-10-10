@@ -2353,6 +2353,28 @@ Slugs `fwayland-*`. Domestic Slavery (1845) is his published exchange with Richa
 | A Memoir of the Life and Labors of the Rev. Adoniram Judson, vol. 1 (Boston: Phillips, Sampson, 1853) | have-ocr | IA `memoiroflifela01wayl` |
 | A Memoir of the Life and Labors of the Rev. Adoniram Judson, vol. 2 (Boston: Phillips, Sampson; entered 1853) | have-ocr | IA `memoiroflifela02wayl` |
 | Domestic Slavery Considered as a Scriptural Institution, correspondence of Richard Fuller and Francis Wayland (New York: Lewis Colby, 1845) | have-ocr | IA `domesticslaveryc00full` |
+
+## Adam Clarke (round 15, my pick, 2026-10-10)
+
+Slugs `aclarke-*`. The Commentary set is mixed: OT vol. 4 is 1843, the rest 1846. Christian Theology (1840) is Samuel Dunn's selection.
+
+| Work | Status | Where |
+|---|---|---|
+| Entire Sanctification (CCEL) | have-clean | CCEL c/clarke/entire_sanct |
+| Commentary: Old Testament vol. 1, Genesis-Deuteronomy (New York: G. Lane & C. B. Tippett, 1846) | have-ocr | IA `holybiblecontain184601clar` |
+| Commentary: Old Testament vol. 2, Joshua-Esther (New York: Lane & Tippett, 1846) | have-ocr | IA `holybiblecontai184602clar` |
+| Commentary: Old Testament vol. 3, Job-Song of Solomon (New York: Lane & Tippett, 1846) | have-ocr | IA `holybiblecontai184603clar` |
+| Commentary: Old Testament vol. 4, Isaiah-Malachi (New York: G. Lane & P. P. Sandford, 1843) | have-ocr | IA `holybiblecontain184604clar` |
+| Commentary: New Testament vol. 1, Matthew-Acts (New York: Lane & Tippett, 1846) | have-ocr | IA `newtestamentofou01clar` |
+| Commentary: New Testament vol. 2, Romans-Revelation (New York: Lane & Tippett, 1846) | have-ocr | IA `newtestamentofo02clar` |
+| Christian Theology, selected and arranged with a life of the author by Samuel Dunn (New York: T. Mason & G. Lane, 1840) | have-ocr | IA `christiantheolog00clar` |
+| Discourses on Various Subjects, vol. 1, third edition (New York: M'Elrath & Bangs, 1830) | have-ocr | IA `discoursesonvari01clar` |
+| Discourses on Various Subjects, vol. 2, third edition (New York: M'Elrath & Bangs, 1831) | have-ocr | IA `discoursesonvari02clar` |
+| Discourses on Various Subjects, vol. 3, third edition (New York: M'Elrath & Bangs, 1831) | have-ocr | IA `discoursesonvari03clar` |
+| A Discourse on the Nature, Design, and Institution of the Holy Eucharist, with his smaller tracts (New York, 1812) | have-ocr | IA `discourseonnatur00clar` |
+| Clavis Biblica, in The Preacher's Manual (New York: N. Bangs & T. Mason; no year on the title page, catalogued 1821) | have-ocr | IA `preachersmanuali00clar` |
+| Memoirs of the Wesley Family (New York: N. Bangs & T. Mason, 1824) | have-ocr | IA `memoirsofwesleyf00clar_0` |
+| An Account of the Religious and Literary Life of Adam Clarke, ed. J. B. B. Clarke (New York: T. Mason & G. Lane, 1837) | have-ocr | IA `accountofreligio00clar` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
