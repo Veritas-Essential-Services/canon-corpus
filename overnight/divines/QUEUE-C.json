@@ -400,6 +400,14 @@
    "finished": "2026-10-10T09:03-05:00",
    "scope": "Ransome as translator/reteller, after Adam's Swallows and Amazons request of 2026-10-10",
    "notes": "Lane B shelved Swallows and Amazons first (ransome_shelf.json); lane C's duplicate was dropped before push. Gourmont + Old Peter only. No uids minted."
+  },
+  {
+   "id": "shelf-scott-moncrieff",
+   "status": "done",
+   "started": "2026-10-10T09:12-05:00",
+   "finished": "2026-10-10T09:12-05:00",
+   "scope": "TRANSLATOR SHELF (round 9, lane C's choice; Adam may veto) -- C. K. Scott Moncrieff; PD printings before 1931 only; no minting",
+   "notes": "9 titles; 6 pending for want of a pre-1931 scan. See DIGEST-C round 9. No uids minted."
   }
  ]
 }

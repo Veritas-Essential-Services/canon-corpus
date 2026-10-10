@@ -5349,6 +5349,31 @@ Round 8, vetoable. Not converted to unit-id JSON; **no uids minted**.
 | — | — | pg-25053: Gutenberg 25053 is another Temptation of St. Antony with no translator named; not Hearn's. | — | — | excluded | — |
 | — | — | hearn-own-works: Kwaidan, Glimpses of Unfamiliar Japan etc.: Hearn's own books. | — | — | excluded | — |
 
+## C. K. Scott Moncrieff (Proust, Stendhal, Roland, Beowulf, Abelard)
+
+Shelf: `pipeline/scott-moncrieff_shelf.json` · fetch `python3 pipeline/fetch_shelf.py scott-moncrieff` · titles `python3 pipeline/split_shelf_titles.py scott-moncrieff`.
+Round 9 (2026-10-10), vetoable. Later Proust volumes and the Red and the Black wait for a pre-1931 scan. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `moncrieff-proust-swanns-way` | Proust | Swann's Way | C. K. Scott Moncrieff | 1922 | have | PG 7178 |
+| `moncrieff-proust-within-a-budding-grove` | Proust | Within a Budding Grove | C. K. Scott Moncrieff | 1924 | have | PG 63532 |
+| `moncrieff-proust-guermantes-way` | Proust | The Guermantes Way | C. K. Scott Moncrieff | 1925 | have | PG 73425 |
+| `moncrieff-song-of-roland` | anonymous (Old French) | The Song of Roland | C. K. Scott Moncrieff | 1919 | have | PG 391 |
+| `moncrieff-stendhal-charterhouse-of-parma` | Stendhal | The Charterhouse of Parma | C. K. Scott Moncrieff | 1925 | have | PG 66374 + PG 66375 |
+| `moncrieff-beowulf` | anonymous (Old English) | Widsith, Beowulf, Finnsburgh, Waldere, Deor | C. K. Scott Moncrieff | 1921 | have-raw | IA `widsithbeowulff00scotuoft` |
+| `moncrieff-stendhal-abbess-of-castro` | Stendhal | The Abbess of Castro and Other Tales | C. K. Scott Moncrieff | 1926 | have-raw | IA `abbessofcastro0000cksc` |
+| `moncrieff-abelard-and-heloise` | Abelard and Heloise | The Letters of Abelard and Heloise | C. K. Scott Moncrieff | 1925 | have-raw | IA `lettersofabelard0000abel` |
+| `moncrieff-stendhal-armance` | Stendhal | Armance | C. K. Scott Moncrieff | 1928 | have-raw | IA `armance0000sten` |
+| `moncrieff-proust-cities-of-the-plain` | — | 1927/1929: US PD, but the only open scans (citiesofplain0000prou_b6a6, dli.ernet.16336) are Chatto reprints of 1960 and 1971. | — | — | pending | — |
+| `moncrieff-proust-the-captive` | — | 1929: US PD, but captive00prourich is a Random House printing listing 1932 and 1947; dli.ernet.16281 is a 1957 Chatto reprint. | — | — | pending | — |
+| `moncrieff-proust-sweet-cheat-gone` | — | 1930: US PD since 2026, but every open scan is a 1957+ Random House or 1970 Vintage printing (copyright-renewal lines). | — | — | pending | — |
+| `moncrieff-pirandello-shoot` | — | 1926: shoot0000luig is the 1934 'Nobel Prize Edition'; shoot-luigi-pirandello is a Gutenberg-Australia text of unstated edition. | — | — | pending | — |
+| `moncrieff-pirandello-old-and-young` | — | 1928: only volume 2 is open (oldyoung02pira); volume 1 not found. | — | — | pending | — |
+| `moncrieff-lauzun` | — | Memoirs of the Duc de Lauzun (1928): translated jointly with Aldington and Rutherford; not checked. | — | — | pending | — |
+| `moncrieff-stendhal-red-and-black` | — | 1926: US PD. redblack0000mari_e9r8, _h6c2 and _z4c1 are all Modern Library printings by Random House (1931 or later; e9r8's back list carries Modern Library Giant numbers). redblack0000unse_p8m8 is the 1926 first printing but volume one only; volume two not found open. | — | — | pending | — |
+| — | — | moncrieff-past-recaptured: Time Regained / The Past Recaptured is Stephen Hudson's and Frederick Blossom's, not Scott Moncrieff's (he died in 1930). | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

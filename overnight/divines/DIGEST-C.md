@@ -110,3 +110,11 @@ Lane D found that `maude` and a bare `hearn` would also pass other authors' text
 Your Swallows and Amazons request reached two lanes at once; Lane B shelved it first (`pipeline/ransome_shelf.json`, its questions are in DIGEST-B), so lane C dropped its own copy before pushing. Lane C's shelf `ransome-translations` holds only what is a translation or retelling: Gourmont's *A Night in the Luxembourg* (1912, PG 46766, translator line reads Arthur Ransome) and *Old Peter's Russian Tales* (1916, PG 16981). Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. **Your call:** none beyond the usual veto.
 
 Two notes on Lane B's shelf, passed to it through the coordinator: its `_surname` is a bare `ransome` (Lane D's audit asks for the full printed name), and Standard Ebooks' proofed CC0 edition (2026-01-01) is a cleaner text than the 1946 OCR if you want a reading copy.
+
+## Round 9: C. K. Scott Moncrieff (2026-10-10)
+
+New shelf `scott-moncrieff`, 9 titles. Nobody else shelves him; checked across every branch. From Gutenberg: Proust's *Swann's Way* (1922), *Within a Budding Grove* (1924) and *The Guermantes Way* (1925), *The Song of Roland* (1919), and Stendhal's *Charterhouse of Parma* (1925, two volumes joined). From archive.org, raw OCR, each title page read: *Widsith, Beowulf* (1921), and *The Abbess of Castro* (1926), *Armance* (1928) and *The Letters of Abelard and Heloise* (Knopf, 1926). Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** Gutenberg's *Guermantes Way* was made from a Modern Library printing of 1932 or later. The text is the 1925 translation. Keep it, or move it to `_pending`?
+
+Pending, because every open scan is a later printing: *Cities of the Plain*, *The Captive*, *The Sweet Cheat Gone*, *The Red and the Black* (only volume one of the 1926 printing is open), and Pirandello's *Shoot!*. *The Old and the Young* has only volume two open.
