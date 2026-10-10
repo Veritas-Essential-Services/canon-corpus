@@ -2707,6 +2707,7 @@ Shelf: `pipeline/heitland_shelf.json`. William Emerton Heitland (1847-1935), St 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Agricola: a study of agriculture and rustic life in the Greco-Roman world |  | `heitland-agricola` | have (PG 74220) |
 
 ## B. G. Niebuhr (scholarship)
 

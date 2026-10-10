@@ -1,0 +1,30 @@
+{
+ "_about": "William Emerton Heitland (1847-1935), St John's College, Cambridge. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Agricola: a study of agriculture and rustic life in the Greco-Roman world, clean Gutenberg. No uids minted.",
+ "_name_words": [
+  "heitland"
+ ],
+ "_surname": [
+  "w. e. heitland",
+  "william emerton heitland",
+  "heitland, william emerton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "heitland-agricola": [
+   74220,
+   "Agricola: a study of agriculture and rustic life in the Greco-Roman world"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "heitland-agricola": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william emerton heitland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
