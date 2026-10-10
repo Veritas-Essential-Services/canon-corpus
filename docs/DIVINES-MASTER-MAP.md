@@ -3945,6 +3945,41 @@ Slugs `burgon-*`. Defender of the Traditional Text. The two 1896 books were arra
 | modern reprints (1965-2009) | excluded | |
 | John Burgon Bickersteth and others | excluded | |
 | modern composite uploads tagged with his name | excluded | |
+
+## James McCosh (round 21, my pick, 2026-10-10)
+
+Slugs `mccosh-*`. Princeton president; divinity, apologetics and his baccalaureate sermons only. Name appears as M'Cosh before about 1868 and McCosh after.
+
+| Work | Status | Where |
+|---|---|---|
+| The Method of the Divine Government, Physical and Moral, American reprint (New York: Robert Carter, 1851) | have-ocr | IA `methoddivinegov00mccogoog` |
+| The Supernatural in Relation to the Natural (Cambridge and London: Macmillan, MDCCCLXII) | have-ocr | IA `supernaturalinre00mccouoft` |
+| Waiting for God, a sermon for the Wesleyan-Methodist Missionary Society (London: Wesleyan Mission House, 1867) | have-ocr | IA `waitingforgodser00mcco` |
+| The Duty of Irish Presbyterians to their Church in the Sustentation of the Gospel Ministry (Belfast, 1868) | have-ocr | IA `dutyofirishpresb00mcco` |
+| Christ the Way, the Truth and the Life, baccalaureate sermon, 27 June 1869 (Princeton: Stelle and Smith, 1869) | have-ocr | IA `christwaytruthli00mcco` |
+| Lessons Derived from the Plant, baccalaureate sermon (Princeton: Stelle and Smith, 1870) | have-ocr | IA `lessonsderivedfr00mcco` |
+| Christianity and Positivism: Lectures on Natural Theology and Apologetics (New York: Robert Carter, 1871) | have-ocr | IA `christianitypos00mcco` |
+| Unity with Diversity in the Works and Word of God, baccalaureate sermon, 25 June 1871 (Princeton: Stelle and Smith, 1871) | have-ocr | IA `unitywithdiversi00mcco` |
+| Faith in Christ and Faith in Doctrine Compared and Contrasted, baccalaureate sermon, 23 June 1872 (Princeton: Stelle and Smith, 1872) | have-ocr | IA `faithinchristfai00mcco` |
+| On Singleness of Eye, baccalaureate sermon, 22 June 1873 (Princeton: McGinness and Runyan; title-page year OCR'd 1878, catalogued 1873) | have-ocr | IA `onsinglenessofey00mcco` |
+| Ideas in Nature Overlooked by Dr. Tyndall (New York: Robert Carter, copyright 1875) | have-ocr | IA `ideasinnatureove00mcco` |
+| The Royal Law of Love, baccalaureate sermon, 27 June 1875 (New York: Robert Carter; year illegible, catalogued 1875) | have-ocr | IA `royallawofloveor00mcco` |
+| The World a Scene of Contest, baccalaureate sermon (New York: Robert Carter, 1876) | have-ocr | IA `worldsceneofcont00mcco` |
+| The Development Hypothesis: Is It Sufficient? (New York: Robert Carter, 1876) | have-ocr | IA `developmenthypot00mcco` |
+| The Propriety of Acknowledging the Lord in All Our Ways, baccalaureate sermon, 16 June 1878 (New York: Robert Carter; Princeton: McGinness and Runyon, 1878) | have-ocr | IA `proprietyofackno00mcco` |
+| Certitude, Providence, and Prayer, Philosophic Series no. IV (New York: Charles Scribner's Sons, 1883) | have-ocr | IA `certitudeprovide00mccorich` |
+| Development: What It Can Do and What It Cannot Do, Philosophic Series no. III (New York: Charles Scribner's Sons, 1883) | have-ocr | IA `developmentwhati00mcco` |
+| Gospel Sermons (New York: Robert Carter, 1888) | have-ocr | IA `gospelsermons00mcco` |
+| The Religious Aspect of Evolution, the Bedell Lectures (New York and London: G. P. Putnam's Sons, 1888) | have-ocr | IA `religiousaspecto00mcco` |
+| The Wheat and the Chaff Gathered into Bundles (Perth, catalogued 1843; wheatchaffgather00mcco): Disruption statistics, not divinity | alternate | not shelved |
+| Typical Forms and Special Ends in Creation (1856; typicalformsspec00mcco): joint work with George Dickie | alternate | not shelved |
+| Religion in a College (1886; religionincolleg00mcco): college policy | alternate | not shelved |
+| Intuitions of the Mind, Examination of Mill, Laws of Discursive Thought, Scottish Philosophy, The Emotions, Psychology and other philosophy, logic and education: not divinity | alternate | not shelved |
+| The Life of James McCosh, chiefly autobiographical, edited by W. M. Sloane (1896) | alternate | not shelved |
+| Second copies and later editions of most titles | alternate | not shelved |
+| Mark Hopkins's The Law of Love (with McCosh's strictures); Questions of Modern Thought (multi-author); books he only introduced or edited | excluded | |
+| John McCosh, Andrew J. McCosh, Kate McCosh Clark | excluded | |
+| modern reprints | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

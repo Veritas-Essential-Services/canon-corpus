@@ -946,3 +946,6 @@
 
 ## 2026-10-10 14:38 CDT — j-w-burgon done
 - `pipeline/j-w-burgon_shelf.json`: 2 CCEL, 2 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:38 CDT — james-mccosh done
+- `pipeline/james-mccosh_shelf.json`: 0 CCEL, 0 PG, 19 IA. `--verify --record`: 0 mismatched. 0 uids minted.
