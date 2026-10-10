@@ -2533,10 +2533,12 @@
     },
     {
       "id": "alvah-hovey",
-      "status": "queued",
+      "status": "done",
       "scope": "Alvah Hovey (d. 1903): Manual of Systematic Theology, The Miracles of Christ, Biblical Eschatology",
       "added": "2026-10-10T14:07:47-05:00",
-      "added_by": "lane A worker, round 21, continuing on Adam's 2026-10-10 keep-going request. Hebrew Christian and Brethren scholars, Victorian textual critics and apologists, Scottish and American theologians and preachers. Checked against every remote branch's shelves and queues: none held."
+      "added_by": "lane A worker, round 21, continuing on Adam's 2026-10-10 keep-going request. Hebrew Christian and Brethren scholars, Victorian textual critics and apologists, Scottish and American theologians and preachers. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T14:52:55-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "j-m-pendleton",

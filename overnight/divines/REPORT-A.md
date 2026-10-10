@@ -967,3 +967,6 @@
 
 ## 2026-10-10 14:52 CDT — john-caird done
 - `pipeline/john-caird_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for caird-religion-common-life (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:52 CDT — alvah-hovey done
+- `pipeline/alvah-hovey_shelf.json`: 0 CCEL, 0 PG, 16 IA. Title pages read for hovey-impenitent-dead (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

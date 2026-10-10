@@ -4109,6 +4109,35 @@ Slugs `caird-*`. Glasgow principal and preacher; the Crathie sermon only survive
 | Spinoza (1888): philosophy | excluded | |
 | Oriental Religions and Cobden Club essays: multi-author | excluded | |
 | Edward Caird, Mona Caird and other John Cairds | excluded | |
+
+## Alvah Hovey (round 21, my pick, 2026-10-10)
+
+Slugs `hovey-*`. Newton Theological Institution; his own volumes only, not the American Commentary he edited.
+
+| Work | Status | Where |
+|---|---|---|
+| An Inaugural Address, delivered before the Newton Theological Institution, 28 June 1854 (Boston: J. M. Hewes, 1854) | have-ocr | IA `inauguraladdress00hove` |
+| A Memoir of the Life and Times of the Rev. Isaac Backus (Boston: Gould and Lincoln, 1858) | have-ocr | IA `memoiroflifetime00hove` |
+| The State of the Impenitent Dead (Boston: Gould and Lincoln, 1859) | have-ocr | IA `stateofimpeniten00hove` |
+| The Miracles of Christ as Attested by the Evangelists (Boston: Graves and Young, MDCCCLXIV) | have-ocr | IA `miraclesofchrist00hove` |
+| The Scriptural Law of Divorce (Boston: Gould and Lincoln, 1866) | have-ocr | IA `scripturallawofd0000hove` |
+| God with Us, or, The Person and Work of Christ, with an examination of Bushnell's Vicarious Sacrifice (Boston: Gould and Lincoln, 1872) | have-ocr | IA `godwithusorpers00hovegoog` |
+| Religion and the State: Protection or Alliance? Taxation or Exemption? (Boston: Estes and Lauriat, 1874) | have-ocr | IA `religionstatepro00hove` |
+| Historical Address at the Fiftieth Anniversary of the Newton Theological Institution, 8 June 1875 (Boston: Wright and Potter, 1875) | have-ocr | IA `historicaladdres00hove` |
+| The Doctrine of the Higher Christian Life compared with the Teaching of the Holy Scriptures (Boston: Henry A. Young, 1876) | have-ocr | IA `doctrineofhigher00hove` |
+| Manual of Systematic Theology, and Christian Ethics (Boston, copyright 1877) | have-ocr | IA `manualofsystemat00hove` |
+| Commentary on the Gospel of John, An American Commentary (Philadelphia: American Baptist Publication Society; entered 1885) | have-ocr | IA `commentaryongosp00hove` |
+| Biblical Eschatology (Philadelphia: American Baptist Publication Society; entered 1888) | have-ocr | IA `biblicaleschatol00hove` |
+| Commentary on the Epistle to the Galatians, his part of An American Commentary vol. 5 (Philadelphia: American Baptist Publication Society; catalogued 1890) | have-ocr | IA `commentaryonepis0502hove` |
+| Studies in Ethics and Religion (New York, Boston, Chicago: Silver, Burdett, 1892) | have-ocr | IA `studiesinethicsr00hove` |
+| Doctrines of the Bible (Philadelphia: American Baptist Publication Society; library stamp March 1892) | have-ocr | IA `doctrinesofbible00hove` |
+| Manual of Christian Theology, second edition (New York, Boston, Chicago: Silver, Burdett; copyright 1900) | have-ocr | IA `manualofchristia00hove` |
+| Outlines of Christian Theology (Boston, 1861; outlinesofchrist00hove): no author named on the title page | alternate | not shelved |
+| Barnas Sears, a Christian Educator (copyright 1902): biography | alternate | not shelved |
+| Second copies of the Backus memoir, Impenitent Dead, Divorce, Religion and the State, the Manual (incl. IA dates 1800 and 1701 that are wrong) and the John commentary | alternate | not shelved |
+| The other American Commentary volumes (Broadus, Hackett, Gould and others), Truth Unfolded, and multi-author tracts and sermons | excluded | |
+| Perthes' Life of Chrysostom, translated with D. B. Ford | excluded | |
+| 1972 reprint and journal stubs | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
