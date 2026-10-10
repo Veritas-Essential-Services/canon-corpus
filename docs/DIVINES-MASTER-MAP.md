@@ -4029,6 +4029,26 @@ Slugs `baron-*`. Hebrew Christian Testimony to Israel; held to printings before 
 | The Servant of Jehovah (first edition 1922) survives only in 1954 and 1978 printings; reprints from 1943 onward | excluded | |
 | The Scattered Nation (periodical, many authors) | excluded | |
 | Yiddish and German translations | excluded | |
+
+## S. P. Tregelles (round 21, my pick, 2026-10-10)
+
+Slugs `tregelles-*`. Textual critic and early Brethren; his own treatises only.
+
+| Work | Status | Where |
+|---|---|---|
+| Remarks on the Prophetic Visions in the Book of Daniel, first edition (Plymouth: Tract Depot; London: I. K. Campbell, MDCCCXLVII) | have-ocr | IA `remarksonprophe01treggoog` |
+| The Jansenists: their Rise, Persecutions by the Jesuits, and Existing Remnant (London: Samuel Bagster, M.DCCC.LI) | have-ocr | IA `janseniststheirr00treg` |
+| A Lecture on the Historic Evidence of the Authorship and Transmission of the Books of the New Testament (London: Samuel Bagster, M.DCCC.LII) | have-ocr | IA `a609742300treguoft` |
+| Defence of the Authenticity of the Book of Daniel (London: Samuel Bagster; year garbled, catalogued 1852) | have-ocr | IA `defenceofauthent00treg` |
+| An Account of the Printed Text of the Greek New Testament (London: Samuel Bagster, M.DCCC.LIV) | have-ocr | IA `accountofprinted00treg` |
+| The Book of Revelation, translated from the Ancient Greek Text (Bagster, 1849; bookofrevelation00treg): his translation of Scripture | alternate | not shelved |
+| Codex Zacynthius (1861), Canon Muratorianus (1867) and his Greek New Testament (1857-72): editions of texts | alternate | not shelved |
+| Horne's Introduction, vol. 4 (1856 onward; introductioncritic04horn): multi-author, edited by Horne, Ayre and Tregelles | alternate | not shelved |
+| Hebrew Reading Lessons and Heads of Hebrew Grammar: language aids, not divinity | alternate | not shelved |
+| Remarks on Daniel, enlarged fourth edition (remarksonprophe00treggoog); Historic Evidence, second edition 1881; copies of the Account | alternate | not shelved |
+| his translation of Gesenius' Hebrew and Chaldee Lexicon | excluded | |
+| 1965 and later reprints | excluded | |
+| Edwin O. and Arthur E. Tregelles | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

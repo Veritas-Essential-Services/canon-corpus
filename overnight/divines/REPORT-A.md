@@ -955,3 +955,6 @@
 
 ## 2026-10-10 14:42 CDT — david-baron done
 - `pipeline/david-baron_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:42 CDT — s-p-tregelles done
+- `pipeline/s-p-tregelles_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for tregelles-daniel-visions (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
