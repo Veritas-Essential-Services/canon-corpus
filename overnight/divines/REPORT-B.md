@@ -694,3 +694,10 @@
 - Bury: Later Roman Empire (2 vols., 1889), Eastern Roman Empire (1912), Constitution of the Later Roman Empire (1910); the Student's Roman Empire held back as undated
 - Ernst Curtius, History of Greece, tr. A. W. Ward, 5 vols. (1892)
 - Still to do in this seam: Merivale's Romans under the Empire, Thirlwall's and Bury's histories of Greece, Arnold's Rome, Smith's Biography vol. III, Conington vol. II
+
+## 2026-10-10 11:32 CDT — Round 2026-10-10t: 12 volumes
+- Thirlwall's History of Greece, new edition, 8 vols. (1845-1852), assembled volume by volume and checked on each title page
+- Thomas Arnold's History of Rome, third edition, 3 vols. (1844-1846)
+- Smith's Biography and Mythology vol. III (Boston, 1870) completes that set
+- Conington's Miscellaneous Writings vol. II found; its contents are his prose Virgil, already held on the virgil shelf, so not added
+- Merivale's Romans under the Empire left for a later round: IA's copies mix five editions and printings, and assembling one consistent set needs a careful pass
