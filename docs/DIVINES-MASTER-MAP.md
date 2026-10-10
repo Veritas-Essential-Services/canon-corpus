@@ -3465,6 +3465,44 @@ Slugs `gthomas-*`. Held to printings before 1930: twenty items. The Principles o
 | Eerdmans, Moody and other post-1930 printings; a 1955 Catholic Faith; an undated Pickering & Inglis Apostle John | excluded | |
 | Armitage's The Fruit of the Spirit: introductory note only | excluded | |
 | other Thomas Griffiths | excluded | |
+
+## P. T. Forsyth (round 19, my pick, 2026-10-10)
+
+Slugs `forsyth-*`. Congregationalist theologian of the cross. Twenty-four dated scans; CCEL's two texts name no print source and are alternates.
+
+| Work | Status | Where |
+|---|---|---|
+| The Pulpit and the Age, an address (Manchester: Brook and Chrystal, 1885) | have-ocr | IA `pulpitage00fors` |
+| Religion in Recent Art: Expository Lectures on Rossetti, Burne Jones, Watts, Holman Hunt and Wagner (first edition, Manchester: Abel Heywood; no year on title page, preface January 1889) | have-ocr | IA `religioninrecen00fors` |
+| The Charter of the Church: Six Lectures on the Spiritual Principle of Nonconformity (London: Alexander & Shepheard, 1896) | have-ocr | IA `charterofchurchs00fors_0` |
+| The Holy Father and the Living Christ (London: Hodder and Stoughton; no year on title page, catalogued 1897) | have-ocr | IA `theholyfatherand00forsuoft` |
+| Christian Perfection (London: Hodder and Stoughton, Little Books on Religion; no year on title page, IA's 1868 date is wrong) | have-ocr | IA `christianperfect00fors` |
+| Rome, Reform and Reaction: Four Lectures (London: Hodder and Stoughton, 1899) | have-ocr | IA `romereformreacti00fors` |
+| The Taste of Death and the Life of Grace (London: James Clarke, 1901) | have-ocr | IA `TheTasteOfDeath` |
+| Positive Preaching and Modern Mind, the Lyman Beecher Lectures 1907 (London: Hodder and Stoughton; New York: Doran; no year on title page, catalogued 1907) | have-ocr | IA `positivepreachin00forsuoft` |
+| Missions in State and Church: Sermons and Addresses (London: Hodder and Stoughton, 1908) | have-ocr | IA `missionsinstate00fors` |
+| Socialism, the Church and the Poor (London: Hodder and Stoughton, 1908) | have-ocr | IA `socialismchurch00forsgoog` |
+| The Person and Place of Jesus Christ, the Congregational Union Lecture for 1909 (London: Congregational Union and Hodder and Stoughton; no year on title page, catalogued 1909) | have-ocr | IA `personplacejes00forsuoft` |
+| The Cruciality of the Cross (London: Hodder and Stoughton, 1909) | have-ocr | IA `crucialityofthec00forsuoft` |
+| The Work of Christ (London: Hodder and Stoughton; no year on title page, catalogued 1910) | have-ocr | IA `workofchrist00forsuoft` |
+| Christ on Parnassus: Lectures on Art, Ethic, and Theology (London: Hodder and Stoughton; no year on title page, IA's 1900 date is wrong) | have-ocr | IA `christonparnassu00forsuoft` |
+| Faith, Freedom, and the Future (London: Hodder and Stoughton, 1912) | have-ocr | IA `faithfreedomfut00fors` |
+| Marriage: Its Ethic and Religion (London: Hodder and Stoughton; no year on title page, catalogued 1912) | have-ocr | IA `marriageitsethic00fors` |
+| The Principle of Authority in Relation to Certainty, Sanctity and Society (London: Hodder and Stoughton; no year on title page, catalogued 1912) | have-ocr | IA `theprincipleofau00forsuoft` |
+| Theology in Church and State (London: Hodder and Stoughton, 1915) | have-ocr | IA `theologyinchur00fors` |
+| The Justification of God: Lectures for War-Time on a Christian Theodicy (London: Duckworth; no year on title page, preface August 1916) | have-ocr | IA `justificationofg00forsiala` |
+| The Christian Ethic of War (London: Longmans, Green; no year on title page, preface June 1916) | have-ocr | IA `christianethicof00fors` |
+| The Soul of Prayer (London: Charles H. Kelly; first edition 1916) | have-ocr | IA `soulofprayer0000fors` |
+| Lectures on the Church and the Sacraments (London: Longmans, Green, 1917) | have-ocr | IA `lecturesonthechu00forsuoft` |
+| The Roots of a World-Commonwealth (New York: George H. Doran; no year on title page, catalogued 1918) | have-ocr | IA `rootsofworldcomm00fors` |
+| This Life and the Next (New York: Macmillan, published May 1918) | have-ocr | IA `thislifenextef00fors` |
+| CCEL forsyth/prayer (The Soul of Prayer) and forsyth/work (The Work of Christ): no print source stated; the dated scans are shelved instead | alternate | not shelved |
+| The Power of Prayer, with Dora Greenwell (Little Books on Religion; IA powerofprayer00gree): joint work, Forsyth's part only from p. 55 | alternate | not shelved |
+| Religion in Recent Art, Hodder and Stoughton 1901 and 1905 (IA ReligionInRecentArt, religioninrecent00fors) | alternate | not shelved |
+| Second copies and American issues of most titles (Armstrong, Eaton and Mains, Pilgrim Press, Scribner) | alternate | not shelved |
+| Independent Press reissues (1946-1957) and later reprints | excluded | |
+| modern LaTeX retypesets | excluded | |
+| single journal-article scans in the experientialtheology collection: no title pages | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

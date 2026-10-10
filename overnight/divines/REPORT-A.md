@@ -886,3 +886,6 @@
 
 ## 2026-10-10 13:15 CDT — w-h-griffith-thomas done
 - `pipeline/w-h-griffith-thomas_shelf.json`: 0 CCEL, 1 PG, 19 IA. Title pages read for gthomas-holy-spirit (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — p-t-forsyth done
+- `pipeline/p-t-forsyth_shelf.json`: 0 CCEL, 0 PG, 24 IA. `--verify --record`: 0 mismatched. 0 uids minted.
