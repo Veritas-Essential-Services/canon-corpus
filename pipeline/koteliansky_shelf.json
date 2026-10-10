@@ -1,0 +1,288 @@
+{
+ "_about": "TRANSLATOR SHELF: S. S. Koteliansky (1880-1955), Russian into English with his Bloomsbury collaborators: Leonard and Virginia Woolf, D. H. Lawrence, John Middleton Murry. Chekhov, Gorky's Reminiscences, Bunin, Kuprin, Shestov, Countess Tolstoy. All published 1915-1923: US public domain. UK: Koteliansky d. 1955, so PD there only since 2026; Murry (d. 1957) co-translated The Bet, The River of Life and Anton Tchekhov and Other Essays, which are UK PD only from 2028. Added 2026-10-10 by lane C (round 17); Adam may veto. No uids minted.",
+ "_name_words": [
+  "s. s. koteliansky",
+  "s. koteliansky",
+  "koteliansky"
+ ],
+ "_surname": [
+  "s. s. koteliansky",
+  "s. koteliansky",
+  "koteliansky"
+ ],
+ "_surname_note": "'koteliansky' is a unique surname, not an English word.",
+ "ccel": {},
+ "gutenberg": {
+  "kot-12494": [
+   12494,
+   "Note-Book of Anton Chekhov"
+  ],
+  "kot-37129": [
+   37129,
+   "Reminiscences of Anton Chekhov"
+  ],
+  "kot-55284": [
+   55284,
+   "Reminiscences of Leo Nicolayevitch Tolstoi"
+  ],
+  "kot-38027": [
+   38027,
+   "Autobiography of Countess Tolstoy"
+  ],
+  "kot-44998": [
+   44998,
+   "The Gentleman from San Francisco and Other Stories"
+  ],
+  "kot-55283": [
+   55283,
+   "The Bet, and Other Stories"
+  ],
+  "kot-58406": [
+   58406,
+   "The River of Life, and Other Stories"
+  ],
+  "kot-56758": [
+   56758,
+   "Anton Tchekhov, and Other Essays"
+  ],
+  "kot-57369": [
+   57369,
+   "All Things are Possible"
+  ],
+  "kot-65159": [
+   65159,
+   "Talks with Tolstoi"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "koteliansky-chekhov-note-book": {
+   "source": "kot-12494",
+   "of": "Chekhov",
+   "work": "Note-Book of Anton Chekhov",
+   "translated": 1921,
+   "translator": "S. S. Koteliansky and Leonard Woolf",
+   "scan_edition": "Project Gutenberg 12494 (clean text)"
+  },
+  "koteliansky-gorky-reminiscences-of-chekhov": {
+   "source": "kot-37129",
+   "of": "Gorky",
+   "work": "Reminiscences of Anton Chekhov",
+   "translated": 1921,
+   "translator": "S. S. Koteliansky and Leonard Woolf",
+   "scan_edition": "Project Gutenberg 37129 (clean text)"
+  },
+  "koteliansky-gorky-reminiscences-of-tolstoy": {
+   "source": "kot-55284",
+   "of": "Gorky",
+   "work": "Reminiscences of Leo Nicolayevitch Tolstoi",
+   "translated": 1920,
+   "translator": "S. S. Koteliansky and Leonard Woolf",
+   "scan_edition": "Project Gutenberg 55284 (clean text)"
+  },
+  "koteliansky-countess-tolstoy-autobiography": {
+   "source": "kot-38027",
+   "of": "S. A. Tolstaya",
+   "work": "Autobiography of Countess Tolstoy",
+   "translated": 1922,
+   "translator": "S. S. Koteliansky and Leonard Woolf",
+   "scan_edition": "Project Gutenberg 38027 (clean text)"
+  },
+  "koteliansky-bunin-gentleman-from-san-francisco": {
+   "source": "kot-44998",
+   "of": "Bunin",
+   "work": "The Gentleman from San Francisco and Other Stories",
+   "translated": 1922,
+   "translator": "S. S. Koteliansky and Leonard Woolf; the title story by D. H. Lawrence and S. S. Koteliansky (the book's own erratum note)",
+   "scan_edition": "Project Gutenberg 44998 (clean text)"
+  },
+  "koteliansky-chekhov-the-bet": {
+   "source": "kot-55283",
+   "of": "Chekhov",
+   "work": "The Bet, and Other Stories",
+   "translated": 1915,
+   "translator": "S. S. Koteliansky and J. M. Murry",
+   "scan_edition": "Project Gutenberg 55283 (clean text)"
+  },
+  "koteliansky-kuprin-river-of-life": {
+   "source": "kot-58406",
+   "of": "Kuprin",
+   "work": "The River of Life, and Other Stories",
+   "translated": 1916,
+   "translator": "S. S. Koteliansky and J. M. Murry",
+   "scan_edition": "Project Gutenberg 58406 (clean text)"
+  },
+  "koteliansky-shestov-anton-tchekhov": {
+   "source": "kot-56758",
+   "of": "Shestov",
+   "work": "Anton Tchekhov, and Other Essays",
+   "translated": 1916,
+   "translator": "S. S. Koteliansky and J. M. Murry",
+   "scan_edition": "Project Gutenberg 56758 (clean text)"
+  },
+  "koteliansky-shestov-all-things-are-possible": {
+   "source": "kot-57369",
+   "of": "Shestov",
+   "work": "All Things are Possible",
+   "translated": 1920,
+   "translator": "S. S. Koteliansky (foreword by D. H. Lawrence)",
+   "scan_edition": "Project Gutenberg 57369 (clean text)"
+  },
+  "koteliansky-goldenweizer-talks-with-tolstoi": {
+   "source": "kot-65159",
+   "of": "A. B. Goldenweizer",
+   "work": "Talks with Tolstoi",
+   "translated": 1923,
+   "translator": "S. S. Koteliansky and Virginia Woolf",
+   "scan_edition": "Project Gutenberg 65159 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "kot-12494": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; Leonard Woolf"
+  },
+  "kot-37129": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; Leonard Woolf"
+  },
+  "kot-55284": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; Leonard Woolf"
+  },
+  "kot-38027": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; Leonard Woolf"
+  },
+  "kot-44998": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; D. H. Lawrence; Leonard Woolf"
+  },
+  "kot-55283": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; John Middleton Murry"
+  },
+  "kot-58406": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; John Middleton Murry"
+  },
+  "kot-56758": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; John Middleton Murry"
+  },
+  "kot-57369": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-65159": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; Virginia Woolf"
+  }
+ },
+ "_verified": {
+  "kot-12494": {
+   "pg": 12494,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-37129": {
+   "pg": 37129,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-55284": {
+   "pg": 55284,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-38027": {
+   "pg": 38027,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-44998": {
+   "pg": 44998,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-55283": {
+   "pg": 55283,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-58406": {
+   "pg": 58406,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-56758": {
+   "pg": 56758,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-57369": {
+   "pg": 57369,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-65159": {
+   "pg": 65159,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

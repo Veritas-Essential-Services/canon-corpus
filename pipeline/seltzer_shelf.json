@@ -1,0 +1,158 @@
+{
+ "_about": "TRANSLATOR SHELF: Thomas Seltzer (1875-1943), translator and publisher: Gorky, Andreyev, Gogol, Sudermann, Ostwald, 1908-1916. US public domain (pre-1931). Adele Szold Seltzer's translations (Hauptmann's Atlantis) are hers, not his, and are left out. Added 2026-10-10 by lane C (round 17); Adam may veto. No uids minted.",
+ "_name_words": [
+  "thomas seltzer"
+ ],
+ "_surname": [
+  "thomas seltzer"
+ ],
+ "_surname_note": "Full name; Adele Szold Seltzer translated too.",
+ "ccel": {},
+ "gutenberg": {
+  "sel-51094": [
+   51094,
+   "The Spy: The Story of a Superfluous Man"
+  ],
+  "sel-13147": [
+   13147,
+   "Savva and The Life of Man"
+  ],
+  "sel-3735": [
+   3735,
+   "The Inspector-General"
+  ],
+  "sel-34791": [
+   34791,
+   "The Song of Songs"
+  ],
+  "sel-43791": [
+   43791,
+   "Natural Philosophy"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "seltzer-gorky-the-spy": {
+   "source": "sel-51094",
+   "of": "Gorky",
+   "work": "The Spy: The Story of a Superfluous Man",
+   "translated": 1908,
+   "translator": "Thomas Seltzer",
+   "scan_edition": "Project Gutenberg 51094 (clean text)"
+  },
+  "seltzer-andreyev-savva-and-life-of-man": {
+   "source": "sel-13147",
+   "of": "Andreyev",
+   "work": "Savva and The Life of Man",
+   "translated": 1914,
+   "translator": "Thomas Seltzer",
+   "scan_edition": "Project Gutenberg 13147 (clean text)"
+  },
+  "seltzer-gogol-inspector-general": {
+   "source": "sel-3735",
+   "of": "Gogol",
+   "work": "The Inspector-General",
+   "translated": 1916,
+   "translator": "Thomas Seltzer",
+   "scan_edition": "Project Gutenberg 3735 (clean text)"
+  },
+  "seltzer-sudermann-song-of-songs": {
+   "source": "sel-34791",
+   "of": "Sudermann",
+   "work": "The Song of Songs",
+   "translated": 1909,
+   "translator": "Thomas Seltzer",
+   "scan_edition": "Project Gutenberg 34791 (clean text); the fourteenth printing, December 1926"
+  },
+  "seltzer-ostwald-natural-philosophy": {
+   "source": "sel-43791",
+   "of": "Ostwald",
+   "work": "Natural Philosophy",
+   "translated": 1910,
+   "translator": "Thomas Seltzer",
+   "scan_edition": "Project Gutenberg 43791 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-13437": "Best Russian Short Stories (1917): an anthology Seltzer edited, with many translators.",
+  "pg-17241": "Atlantis: Adele Szold Seltzer's translation.",
+  "pg-62880": "The Glebe magazine issue: a periodical."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "sel-51094": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Seltzer"
+  },
+  "sel-13147": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Seltzer"
+  },
+  "sel-3735": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Seltzer"
+  },
+  "sel-34791": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Seltzer"
+  },
+  "sel-43791": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas seltzer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Seltzer"
+  }
+ },
+ "_verified": {
+  "sel-51094": {
+   "pg": 51094,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Seltzer"
+  },
+  "sel-13147": {
+   "pg": 13147,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Seltzer"
+  },
+  "sel-3735": {
+   "pg": 3735,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Seltzer"
+  },
+  "sel-34791": {
+   "pg": 34791,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Seltzer"
+  },
+  "sel-43791": {
+   "pg": 43791,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Seltzer"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

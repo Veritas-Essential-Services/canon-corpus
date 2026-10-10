@@ -977,6 +977,68 @@ Round 16 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | ost-english-the_idiot: A second scan of the same 1887 Idiot. | — | — | excluded | — |
 | — | — | unclesdreamandp00whisgoog: The Gutenberg text (38241) of the same book is used. | — | — | excluded | — |
 
+## S. S. Koteliansky and his Bloomsbury collaborators (Chekhov, Gorky, Bunin, Shestov)
+
+Shelf: `pipeline/koteliansky_shelf.json` · fetch `python3 pipeline/fetch_shelf.py koteliansky` · titles `python3 pipeline/split_shelf_titles.py koteliansky`.
+Round 17 (2026-10-10), vetoable. UK status varies by co-translator. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `koteliansky-chekhov-note-book` | Chekhov | Note-Book of Anton Chekhov | S. S. Koteliansky and Leonard Woolf | 1921 | have | PG 12494 |
+| `koteliansky-gorky-reminiscences-of-chekhov` | Gorky | Reminiscences of Anton Chekhov | S. S. Koteliansky and Leonard Woolf | 1921 | have | PG 37129 |
+| `koteliansky-gorky-reminiscences-of-tolstoy` | Gorky | Reminiscences of Leo Nicolayevitch Tolstoi | S. S. Koteliansky and Leonard Woolf | 1920 | have | PG 55284 |
+| `koteliansky-countess-tolstoy-autobiography` | S. A. Tolstaya | Autobiography of Countess Tolstoy | S. S. Koteliansky and Leonard Woolf | 1922 | have | PG 38027 |
+| `koteliansky-bunin-gentleman-from-san-francisco` | Bunin | The Gentleman from San Francisco and Other Stories | S. S. Koteliansky and Leonard Woolf; the title story by D. H. Lawrence and S. S. Koteliansky (the book's own erratum note) | 1922 | have | PG 44998 |
+| `koteliansky-chekhov-the-bet` | Chekhov | The Bet, and Other Stories | S. S. Koteliansky and J. M. Murry | 1915 | have | PG 55283 |
+| `koteliansky-kuprin-river-of-life` | Kuprin | The River of Life, and Other Stories | S. S. Koteliansky and J. M. Murry | 1916 | have | PG 58406 |
+| `koteliansky-shestov-anton-tchekhov` | Shestov | Anton Tchekhov, and Other Essays | S. S. Koteliansky and J. M. Murry | 1916 | have | PG 56758 |
+| `koteliansky-shestov-all-things-are-possible` | Shestov | All Things are Possible | S. S. Koteliansky (foreword by D. H. Lawrence) | 1920 | have | PG 57369 |
+| `koteliansky-goldenweizer-talks-with-tolstoi` | A. B. Goldenweizer | Talks with Tolstoi | S. S. Koteliansky and Virginia Woolf | 1923 | have | PG 65159 |
+
+## Marian Fell (Chekhov, Korolenko)
+
+Shelf: `pipeline/marian-fell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py marian-fell` · titles `python3 pipeline/split_shelf_titles.py marian-fell`.
+Round 17 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `marian-fell-chekhov-swan-song` | Chekhov | Swan Song | Marian Fell | 1912 | have | PG 1753 |
+| `marian-fell-chekhov-russian-silhouettes` | Chekhov | Russian Silhouettes: More Stories of Russian Life | Marian Fell | 1915 | have | PG 66790 |
+| `marian-fell-korolenko-makars-dream` | Korolenko | Makar's Dream, and Other Stories | Marian Fell | 1916 | have | PG 62555 |
+| `marian-fell-chekhov-plays` | — | Her Plays by Anton Tchekoff (Scribner, 1912/1916; Uncle Vanya, Ivanoff, The Sea-Gull, The Swan Song) is on archive.org; next round. | — | — | pending | — |
+
+## Thomas Seltzer (Gorky, Andreyev, Gogol, Sudermann)
+
+Shelf: `pipeline/seltzer_shelf.json` · fetch `python3 pipeline/fetch_shelf.py seltzer` · titles `python3 pipeline/split_shelf_titles.py seltzer`.
+Round 17 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `seltzer-gorky-the-spy` | Gorky | The Spy: The Story of a Superfluous Man | Thomas Seltzer | 1908 | have | PG 51094 |
+| `seltzer-andreyev-savva-and-life-of-man` | Andreyev | Savva and The Life of Man | Thomas Seltzer | 1914 | have | PG 13147 |
+| `seltzer-gogol-inspector-general` | Gogol | The Inspector-General | Thomas Seltzer | 1916 | have | PG 3735 |
+| `seltzer-sudermann-song-of-songs` | Sudermann | The Song of Songs | Thomas Seltzer | 1909 | have | PG 34791 |
+| `seltzer-ostwald-natural-philosophy` | Ostwald | Natural Philosophy | Thomas Seltzer | 1910 | have | PG 43791 |
+| — | — | pg-13437: Best Russian Short Stories (1917): an anthology Seltzer edited, with many translators. | — | — | excluded | — |
+| — | — | pg-17241: Atlantis: Adele Szold Seltzer's translation. | — | — | excluded | — |
+| — | — | pg-62880: The Glebe magazine issue: a periodical. | — | — | excluded | — |
+
+## Nathan Haskell Dole (Tolstoy, Palacio Valdés, Verga)
+
+Shelf: `pipeline/dole_shelf.json` · fetch `python3 pipeline/fetch_shelf.py dole` · titles `python3 pipeline/split_shelf_titles.py dole`.
+Round 17 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `dole-tolstoy-where-love-is` | Tolstoy | Where Love is There God is Also | Nathan Haskell Dole | 1887 | have | PG 38616 |
+| `dole-tolstoy-the-invaders` | Tolstoy | The Invaders, and Other Stories | Nathan Haskell Dole | 1887 | have | PG 56797 |
+| `dole-palacio-valdes-maximina` | Palacio Valdés | Maximina | Nathan Haskell Dole | 1888 | have | PG 33244 |
+| `dole-palacio-valdes-marquis-of-penalta` | Palacio Valdés | The Marquis of Peñalta (Marta y María) | Nathan Haskell Dole | 1886 | have | PG 37969 |
+| `dole-verga-under-the-shadow-of-etna` | Verga | Under the Shadow of Etna: Sicilian Stories | Nathan Haskell Dole | 1896 | have | PG 37979 |
+| `dole-dupuy-great-masters-of-russian-literature` | Ernest Dupuy | The Great Masters of Russian Literature in the Nineteenth Century | Nathan Haskell Dole | 1886 | have | PG 71884 |
+| — | — | pg-38520: Poems of James Russell Lowell: Dole wrote the introduction; not a translation. | — | — | excluded | — |
+| — | — | pg-41119: A Russian Proprietor (Tolstoy, PG 41119): not checked this round. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

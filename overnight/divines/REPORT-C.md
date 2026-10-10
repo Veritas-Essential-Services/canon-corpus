@@ -109,3 +109,5 @@
 - 2026-10-10T10:18-05:00: round 15: wiener-tolstoy (24 vols). --verify --record 0 mismatched.
 
 - 2026-10-10T10:23-05:00: round 16: leland-heine (8), whishaw (3). --verify --record 0 mismatched.
+
+- 2026-10-10T10:28-05:00: round 17: koteliansky (10), marian-fell (3), seltzer (5), dole (6). --verify --record 0 mismatched.

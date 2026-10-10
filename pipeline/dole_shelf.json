@@ -1,0 +1,187 @@
+{
+ "_about": "TRANSLATOR SHELF: Nathan Haskell Dole (1852-1935): Tolstoy for Crowell (1886-1887), Palacio Valdés, Verga, and Dupuy's Great Masters of Russian Literature. US public domain (pre-1931); UK PD since 2006. Added 2026-10-10 by lane C (round 17); Adam may veto. No uids minted.",
+ "_name_words": [
+  "nathan haskell dole",
+  "n. h. dole",
+  "haskell dole"
+ ],
+ "_surname": [
+  "nathan haskell dole",
+  "n. h. dole",
+  "haskell dole"
+ ],
+ "_surname_note": "Never the bare 'dole' (an English word).",
+ "ccel": {},
+ "gutenberg": {
+  "dol-38616": [
+   38616,
+   "Where Love is There God is Also"
+  ],
+  "dol-56797": [
+   56797,
+   "The Invaders, and Other Stories"
+  ],
+  "dol-33244": [
+   33244,
+   "Maximina"
+  ],
+  "dol-37969": [
+   37969,
+   "The Marquis of Peñalta (Marta y María)"
+  ],
+  "dol-37979": [
+   37979,
+   "Under the Shadow of Etna: Sicilian Stories"
+  ],
+  "dol-71884": [
+   71884,
+   "The Great Masters of Russian Literature in the Nineteenth Century"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "dole-tolstoy-where-love-is": {
+   "source": "dol-38616",
+   "of": "Tolstoy",
+   "work": "Where Love is There God is Also",
+   "translated": 1887,
+   "translator": "Nathan Haskell Dole",
+   "scan_edition": "Project Gutenberg 38616 (clean text)"
+  },
+  "dole-tolstoy-the-invaders": {
+   "source": "dol-56797",
+   "of": "Tolstoy",
+   "work": "The Invaders, and Other Stories",
+   "translated": 1887,
+   "translator": "Nathan Haskell Dole",
+   "scan_edition": "Project Gutenberg 56797 (clean text)"
+  },
+  "dole-palacio-valdes-maximina": {
+   "source": "dol-33244",
+   "of": "Palacio Valdés",
+   "work": "Maximina",
+   "translated": 1888,
+   "translator": "Nathan Haskell Dole",
+   "scan_edition": "Project Gutenberg 33244 (clean text)"
+  },
+  "dole-palacio-valdes-marquis-of-penalta": {
+   "source": "dol-37969",
+   "of": "Palacio Valdés",
+   "work": "The Marquis of Peñalta (Marta y María)",
+   "translated": 1886,
+   "translator": "Nathan Haskell Dole",
+   "scan_edition": "Project Gutenberg 37969 (clean text)"
+  },
+  "dole-verga-under-the-shadow-of-etna": {
+   "source": "dol-37979",
+   "of": "Verga",
+   "work": "Under the Shadow of Etna: Sicilian Stories",
+   "translated": 1896,
+   "translator": "Nathan Haskell Dole",
+   "scan_edition": "Project Gutenberg 37979 (clean text)"
+  },
+  "dole-dupuy-great-masters-of-russian-literature": {
+   "source": "dol-71884",
+   "of": "Ernest Dupuy",
+   "work": "The Great Masters of Russian Literature in the Nineteenth Century",
+   "translated": 1886,
+   "translator": "Nathan Haskell Dole",
+   "scan_edition": "Project Gutenberg 71884 (clean text); Crowell, New York, 1886"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-38520": "Poems of James Russell Lowell: Dole wrote the introduction; not a translation.",
+  "pg-41119": "A Russian Proprietor (Tolstoy, PG 41119): not checked this round."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "dol-38616": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nathan haskell dole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Nathan Haskell Dole"
+  },
+  "dol-56797": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nathan haskell dole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Nathan Haskell Dole"
+  },
+  "dol-33244": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nathan haskell dole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Nathan Haskell Dole"
+  },
+  "dol-37969": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nathan haskell dole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Nathan Haskell Dole"
+  },
+  "dol-37979": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nathan haskell dole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Nathan Haskell Dole"
+  },
+  "dol-71884": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nathan haskell dole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Nathan Haskell Dole"
+  }
+ },
+ "_verified": {
+  "dol-38616": {
+   "pg": 38616,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Nathan Haskell Dole"
+  },
+  "dol-56797": {
+   "pg": 56797,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Nathan Haskell Dole"
+  },
+  "dol-33244": {
+   "pg": 33244,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Nathan Haskell Dole"
+  },
+  "dol-37969": {
+   "pg": 37969,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Nathan Haskell Dole"
+  },
+  "dol-37979": {
+   "pg": 37979,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Nathan Haskell Dole"
+  },
+  "dol-71884": {
+   "pg": 71884,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Nathan Haskell Dole"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

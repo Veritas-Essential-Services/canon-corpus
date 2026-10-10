@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T10:23-05:00: 61 shelves, 340 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11. **12 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T10:28-05:00: 65 shelves, 364 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24. **12 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -180,3 +180,16 @@ New shelf `wiener-tolstoy`: the first complete English Tolstoy, translated by Le
 Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Your call:** Whishaw's *Injury and Insult* (1887) survives open only as a mid-century Micro Photo photographic facsimile of the 1887 edition. Does a photo-facsimile count as the 1887 printing? It is pending until you decide.
+
+## Round 17: Russian into English, 1886-1923 (2026-10-10)
+
+Four new shelves, 24 titles, all from Gutenberg, each translator line read in the text:
+
+- **`koteliansky`** (10): S. S. Koteliansky and his Bloomsbury collaborators. With Leonard Woolf: Chekhov's *Note-Book*, Gorky's *Reminiscences* of Chekhov and of Tolstoy, Countess Tolstoy's *Autobiography* and Bunin's *Gentleman from San Francisco*, whose title story is co-credited to D. H. Lawrence. With Virginia Woolf: *Talks with Tolstoi*. With J. M. Murry: Chekhov's *The Bet*, Kuprin and Shestov. Also *All Things are Possible*, with Lawrence's foreword.
+- **`marian-fell`** (3): Chekhov's *Swan Song* and *Russian Silhouettes*, and Korolenko's *Makar's Dream*. Her Scribner *Plays* volume is pending for next round.
+- **`seltzer`** (5): Thomas Seltzer's Gorky (*The Spy*), Andreyev, Gogol (*The Inspector-General*), Sudermann (*The Song of Songs*, in a 1926 printing) and Ostwald.
+- **`dole`** (6): Nathan Haskell Dole's Tolstoy (Crowell, 1887), Palacio Valdés, Verga and Dupuy's *Great Masters of Russian Literature*.
+
+All of these are US public domain. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** nothing for the US. If the library is ever published in the UK, the Koteliansky volumes have been UK public domain only since 2026, and the three he did with Murry not until 2028.
