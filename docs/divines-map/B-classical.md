@@ -2830,6 +2830,7 @@ Shelf: `pipeline/monro_shelf.json`. David Binning Monro (1836-1905), Provost of 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Modes of Ancient Greek Music |  | `monro-modes-ancient-greek-music` | have (PG 40288) |
 
 ## Harold Whetstone Johnston (scholarship)
 
