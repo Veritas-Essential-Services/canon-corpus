@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Paul Selver (1888-1970): Karel Čapek's R.U.R. (1923) and, with Josef Čapek, The Insect Play ('And So Ad Infinitum', 1923), both adapted with Nigel Playfair. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_name_words": [
+  "paul selver",
+  "selver"
+ ],
+ "_surname": [
+  "paul selver",
+  "selver"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "sel-59112": [
+   59112,
+   "R.U.R. (Rossum's Universal Robots) A Fantastic Melodrama in Three Acts and an Epilogue"
+  ],
+  "sel-61420": [
+   61420,
+   "'And So Ad Infinitum' (The Life of the Insects) An Entomological Review, in Three Acts, a Prologue and an Epilogue"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "selver-capek-and-so-ad-infinitum-the-life-of-the-inse": {
+   "source": "sel-61420",
+   "of": "Karel Čapek",
+   "work": "'And So Ad Infinitum' (The Life of the Insects) An Entomological Review, in Three Acts, a Prologue and an Epilogue",
+   "translated": "1923 (see the Gutenberg header)",
+   "translator": "Paul Selver",
+   "scan_edition": "Project Gutenberg 61420 (clean text)"
+  },
+  "selver-capek-r-u-r-rossum-s-universal-robots-a-fantas": {
+   "source": "sel-59112",
+   "of": "Karel Čapek",
+   "work": "R.U.R. (Rossum's Universal Robots) A Fantastic Melodrama in Three Acts and an Epilogue",
+   "translated": "1923 (see the Gutenberg header)",
+   "translator": "Paul Selver (with Nigel Playfair)",
+   "scan_edition": "Project Gutenberg 59112 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "sel-59112": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "paul selver",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Nigel Playfair; Paul Selver"
+  },
+  "sel-61420": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "paul selver",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Paul Selver"
+  }
+ },
+ "_verified": {
+  "sel-59112": {
+   "pg": 59112,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Nigel Playfair"
+  },
+  "sel-61420": {
+   "pg": 61420,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Paul Selver"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

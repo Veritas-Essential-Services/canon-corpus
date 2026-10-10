@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Constance Bache (1846-1903): the Letters of Franz Liszt, collected by La Mara (1894, 2 vols). US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_name_words": [
+  "constance bache",
+  "bache"
+ ],
+ "_surname": [
+  "constance bache",
+  "bache"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "cba-3689": [
+   3689,
+   "Letters of Franz Liszt -- Volume 1 from Paris to Rome: Years of Travel as a Virtuoso"
+  ],
+  "cba-3750": [
+   3750,
+   "Letters of Franz Liszt -- Volume 2 from Rome to the End"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "constance-bache-liszt-letters-of-franz-liszt-vol-1": {
+   "source": "cba-3689",
+   "of": "Franz Liszt",
+   "work": "Letters of Franz Liszt -- Volume 1 from Paris to Rome: Years of Travel as a Virtuoso",
+   "translated": "1894 (see the Gutenberg header)",
+   "translator": "Constance Bache",
+   "scan_edition": "Project Gutenberg 3689 (clean text)"
+  },
+  "constance-bache-liszt-letters-of-franz-liszt-vol-2": {
+   "source": "cba-3750",
+   "of": "Franz Liszt",
+   "work": "Letters of Franz Liszt -- Volume 2 from Rome to the End",
+   "translated": "1894 (see the Gutenberg header)",
+   "translator": "Constance Bache",
+   "scan_edition": "Project Gutenberg 3750 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "cba-3689": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "constance bache",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Bache"
+  },
+  "cba-3750": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "constance bache",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Bache"
+  }
+ },
+ "_verified": {
+  "cba-3689": {
+   "pg": 3689,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Bache"
+  },
+  "cba-3750": {
+   "pg": 3750,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Bache"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

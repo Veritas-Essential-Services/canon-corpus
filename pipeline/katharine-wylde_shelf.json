@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Katharine Wylde (1854-1941): Grazia Deledda's Nostalgia (1905) and Ashes (1908). US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_name_words": [
+  "katharine wylde",
+  "wylde"
+ ],
+ "_surname": [
+  "katharine wylde",
+  "wylde"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "kwy-53905": [
+   53905,
+   "Nostalgia"
+  ],
+  "kwy-63962": [
+   63962,
+   "Ashes (Cenere): A Sardinian Story"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "katharine-wylde-deledda-ashes-cenere-a-sardinian-story": {
+   "source": "kwy-63962",
+   "of": "Grazia Deledda",
+   "work": "Ashes (Cenere): A Sardinian Story",
+   "translated": "1905-1908 (see the Gutenberg header)",
+   "translator": "Katharine Wylde",
+   "scan_edition": "Project Gutenberg 63962 (clean text)"
+  },
+  "katharine-wylde-deledda-nostalgia": {
+   "source": "kwy-53905",
+   "of": "Grazia Deledda",
+   "work": "Nostalgia",
+   "translated": "1905-1908 (see the Gutenberg header)",
+   "translator": "Katharine Wylde",
+   "scan_edition": "Project Gutenberg 53905 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "kwy-53905": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine wylde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Wylde"
+  },
+  "kwy-63962": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine wylde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Wylde"
+  }
+ },
+ "_verified": {
+  "kwy-53905": {
+   "pg": 53905,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Wylde"
+  },
+  "kwy-63962": {
+   "pg": 63962,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Wylde"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

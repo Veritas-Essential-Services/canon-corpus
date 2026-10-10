@@ -9381,6 +9381,256 @@ Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `aline-delano-korolenko-the-blind-musician` | Vladimir Galaktionovich Korolenko | The Blind Musician | Aline Delano | 1888-1899 (see the Gutenberg header) | have | PG 59497 |
 | `aline-delano-tolstoy-the-kingdom-of-god-is-within-you-what-is` | Leo Tolstoy | The Kingdom of God is Within You; What is Art? | Aline Delano | 1888-1899 (see the Gutenberg header) | have | PG 43409 |
 
+## Gregory Zilboorg (Zamyatin's We, 1924; Andreyev's He Who Gets Slapped)
+
+Shelf: `pipeline/zilboorg_shelf.json` · fetch `python3 pipeline/fetch_shelf.py zilboorg` · titles `python3 pipeline/split_shelf_titles.py zilboorg`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `zilboorg-andreyev-he-who-gets-slapped-a-play-in-four-acts` | Leonid Andreyev | He Who Gets Slapped: A Play in Four Acts | Gregory Zilboorg | 1921-1924 (see the Gutenberg header) | have | PG 37961 |
+| `zilboorg-zamiatin-we` | Evgenii Ivanovich Zamiatin | We | Gregory Zilboorg | 1921-1924 (see the Gutenberg header) | have | PG 61963 |
+
+## Avrahm Yarmolinsky (Saltykov's A Family of Noblemen; The Shield)
+
+Shelf: `pipeline/yarmolinsky_shelf.json` · fetch `python3 pipeline/fetch_shelf.py yarmolinsky` · titles `python3 pipeline/split_shelf_titles.py yarmolinsky`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `yarmolinsky-gorky-the-shield` | Maksim Gorky | The shield | Avrahm Yarmolinsky | 1917 (see the Gutenberg header) | have | PG 19453 |
+| `yarmolinsky-saltykov-a-family-of-noblemen` | Mikhail Evgrafovich Saltykov | A family of noblemen | Avrahm Yarmolinsky | 1917 (see the Gutenberg header) | have | PG 44237 |
+
+## Katharine Wylde (Deledda's Ashes and Nostalgia)
+
+Shelf: `pipeline/katharine-wylde_shelf.json` · fetch `python3 pipeline/fetch_shelf.py katharine-wylde` · titles `python3 pipeline/split_shelf_titles.py katharine-wylde`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `katharine-wylde-deledda-ashes-cenere-a-sardinian-story` | Grazia Deledda | Ashes (Cenere): A Sardinian Story | Katharine Wylde | 1905-1908 (see the Gutenberg header) | have | PG 63962 |
+| `katharine-wylde-deledda-nostalgia` | Grazia Deledda | Nostalgia | Katharine Wylde | 1905-1908 (see the Gutenberg header) | have | PG 53905 |
+
+## Winifred Stephens (Anatole France's Life of Joan of Arc; Clio)
+
+Shelf: `pipeline/winifred-stephens_shelf.json` · fetch `python3 pipeline/fetch_shelf.py winifred-stephens` · titles `python3 pipeline/split_shelf_titles.py winifred-stephens`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `winifred-stephens-france-clio` | Anatole France | Clio | Winifred Stephens | 1909-1922 (see the Gutenberg header) | have | PG 50670 |
+| `winifred-stephens-france-the-life-of-joan-of-arc-vol-1-and-2` | Anatole France | The Life of Joan of Arc, Vol. 1 and 2 | Winifred Stephens | 1909-1922 (see the Gutenberg header) | have | PG 19488 |
+
+## Paul Selver (Čapek's R.U.R. and The Insect Play)
+
+Shelf: `pipeline/selver_shelf.json` · fetch `python3 pipeline/fetch_shelf.py selver` · titles `python3 pipeline/split_shelf_titles.py selver`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `selver-capek-and-so-ad-infinitum-the-life-of-the-inse` | Karel Čapek | 'And So Ad Infinitum' (The Life of the Insects) An Entomological Review, in Three Acts, a Prologue and an Epilogue | Paul Selver | 1923 (see the Gutenberg header) | have | PG 61420 |
+| `selver-capek-r-u-r-rossum-s-universal-robots-a-fantas` | Karel Čapek | R.U.R. (Rossum's Universal Robots) A Fantastic Melodrama in Three Acts and an Epilogue | Paul Selver (with Nigel Playfair) | 1923 (see the Gutenberg header) | have | PG 59112 |
+
+## J. M. Rigg (Boccaccio's Decameron, 2 vols)
+
+Shelf: `pipeline/rigg_shelf.json` · fetch `python3 pipeline/fetch_shelf.py rigg` · titles `python3 pipeline/split_shelf_titles.py rigg`.
+Round 31 (2026-10-10), vetoable. A separate translation from Payne's. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `rigg-boccaccio-the-decameron-vol-1` | Giovanni Boccaccio | The Decameron, Volume I | J. M. Rigg | 1903 (see the Gutenberg header) | have | PG 3726 |
+| `rigg-boccaccio-the-decameron-vol-2` | Giovanni Boccaccio | The Decameron, Volume II | J. M. Rigg | 1903 (see the Gutenberg header) | have | PG 13102 |
+
+## Arthur Hornblow (D'Annunzio's The Intruder; The Triumph of Death)
+
+Shelf: `pipeline/hornblow_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hornblow` · titles `python3 pipeline/split_shelf_titles.py hornblow`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `hornblow-d-annunzio-the-intruder` | Gabriele D'Annunzio | The Intruder | Arthur Hornblow | 1896-1898 (see the Gutenberg header) | have | PG 54236 |
+| `hornblow-d-annunzio-the-triumph-of-death` | Gabriele D'Annunzio | The Triumph of Death | Arthur Hornblow | 1896-1898 (see the Gutenberg header) | have | PG 54272 |
+
+## Hanna Astrup Larsen (Jacobsen's Marie Grubbe; Niels Lyhne)
+
+Shelf: `pipeline/hanna-larsen_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hanna-larsen` · titles `python3 pipeline/split_shelf_titles.py hanna-larsen`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `hanna-larsen-jacobsen-marie-grubbe-a-lady-of-the-seventeenth-c` | J. P. (Jens Peter) Jacobsen | Marie Grubbe, a Lady of the Seventeenth Century | Hanna Astrup Larsen | 1917-1919 (see the Gutenberg header) | have | PG 54845 |
+| `hanna-larsen-jacobsen-niels-lyhne` | J. P. (Jens Peter) Jacobsen | Niels Lyhne | Hanna Astrup Larsen | 1917-1919 (see the Gutenberg header) | have | PG 55389 |
+
+## J. E. Crawford Flitch (Unamuno's Tragic Sense of Life; Essays and Soliloquies)
+
+Shelf: `pipeline/flitch_shelf.json` · fetch `python3 pipeline/fetch_shelf.py flitch` · titles `python3 pipeline/split_shelf_titles.py flitch`.
+Round 31 (2026-10-10), vetoable. Tragic Sense is keyed from a 1954 Dover reprint: flagged. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `flitch-unamuno-essays-and-soliloquies` | Miguel de Unamuno | Essays and soliloquies | J. E. Crawford Flitch | 1921-1925 (see the Gutenberg header) | have | PG 71260 |
+| `flitch-unamuno-tragic-sense-of-life` | Miguel de Unamuno | Tragic Sense Of Life | J. E. Crawford Flitch | 1921-1925 (see the Gutenberg header) | have | PG 14636 |
+
+## Benjamin F. Glazer (Molnár's Liliom; Fashions for Men and The Swan)
+
+Shelf: `pipeline/glazer_shelf.json` · fetch `python3 pipeline/fetch_shelf.py glazer` · titles `python3 pipeline/split_shelf_titles.py glazer`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `glazer-molnar-fashions-for-men-and-the-swan` | Ferenc Molnár | Fashions for men, and The swan | Benjamin F. Glazer | 1921-1922 (see the Gutenberg header) | have | PG 75610 |
+| `glazer-molnar-liliom` | Ferenc Molnár | Liliom | Benjamin F. Glazer | 1921-1922 (see the Gutenberg header) | have | PG 48749 |
+
+## F. E. Bunnett (Fouqué's Undine; Memoirs of Leonora Christina)
+
+Shelf: `pipeline/bunnett_shelf.json` · fetch `python3 pipeline/fetch_shelf.py bunnett` · titles `python3 pipeline/split_shelf_titles.py bunnett`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `bunnett-motte-fouque-undine` | Friedrich Heinrich Karl La Motte-Fouqué | Undine | F. E. Bunnett | 1872 and earlier (see the Gutenberg header) | have | PG 3714 |
+| `bunnett-ulfeldt-memoirs-of-leonora-christina-daughter-of` | Leonora Christina Ulfeldt | Memoirs of Leonora Christina, Daughter of Christian IV. of Denmark Written During Her Imprisonment in the Blue Tower at Copenhagen 1663-1685 | F. E. Bunnett | 1872 and earlier (see the Gutenberg header) | have | PG 38128 |
+
+## Constance Bache (Letters of Franz Liszt, 2 vols)
+
+Shelf: `pipeline/constance-bache_shelf.json` · fetch `python3 pipeline/fetch_shelf.py constance-bache` · titles `python3 pipeline/split_shelf_titles.py constance-bache`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `constance-bache-liszt-letters-of-franz-liszt-vol-1` | Franz Liszt | Letters of Franz Liszt -- Volume 1 from Paris to Rome: Years of Travel as a Virtuoso | Constance Bache | 1894 (see the Gutenberg header) | have | PG 3689 |
+| `constance-bache-liszt-letters-of-franz-liszt-vol-2` | Franz Liszt | Letters of Franz Liszt -- Volume 2 from Rome to the End | Constance Bache | 1894 (see the Gutenberg header) | have | PG 3750 |
+
+## Francis Hueffer (Correspondence of Wagner and Liszt, 2 vols)
+
+Shelf: `pipeline/hueffer_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hueffer` · titles `python3 pipeline/split_shelf_titles.py hueffer`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `hueffer-correspondence-of-wagner-and-liszt-vol-1` | Richard Wagner | Correspondence of Wagner and Liszt — Volume 1 | Francis Hueffer | 1888 (see the Gutenberg header) | have | PG 3835 |
+| `hueffer-correspondence-of-wagner-and-liszt-vol-2` | Richard Wagner | Correspondence of Wagner and Liszt — Volume 2 | Francis Hueffer | 1888 (see the Gutenberg header) | have | PG 4234 |
+
+## F. M. Atkinson and J. H. Lepper (De Coster's Legend of Ulenspiegel, 2 vols)
+
+Shelf: `pipeline/atkinson-lepper_shelf.json` · fetch `python3 pipeline/fetch_shelf.py atkinson-lepper` · titles `python3 pipeline/split_shelf_titles.py atkinson-lepper`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `atkinson-lepper-de-coster-the-legend-of-ulenspiegel-vol-1` | Charles De Coster | The Legend of Ulenspiegel, Volume 1 (of 2) And Lamme Goedzak, and their Adventures Heroical, Joyous and Glorious in the Land of Flanders and Elsewhere | F. M. Atkinson and John Heron Lepper | 1918 (see the Gutenberg header) | have | PG 38247 |
+| `atkinson-lepper-de-coster-the-legend-of-ulenspiegel-vol-2` | Charles De Coster | The Legend of Ulenspiegel, Volume 2 (of 2) And Lamme Goedzak, and their Adventures Heroical, Joyous and Glorious in the Land of Flanders and Elsewhere | F. M. Atkinson and John Heron Lepper | 1918 (see the Gutenberg header) | have | PG 40004 |
+
+## Charles Francis Atkinson (Spengler's The Decline of the West, 2 vols)
+
+Shelf: `pipeline/cf-atkinson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cf-atkinson` · titles `python3 pipeline/split_shelf_titles.py cf-atkinson`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `cf-atkinson-spengler-the-decline-of-the-west-vol-1` | Oswald Spengler | The decline of the West, Volume 1 | Charles Francis Atkinson | 1926-1928 (see the Gutenberg header) | have | PG 72344 |
+| `cf-atkinson-spengler-the-decline-of-the-west-vol-2` | Oswald Spengler | The decline of the West, Volume 2 | Charles Francis Atkinson | 1926-1928 (see the Gutenberg header) | have | PG 78914 |
+
+## H. Bencraft Joly (Dream of the Red Chamber, 2 books)
+
+Shelf: `pipeline/joly_shelf.json` · fetch `python3 pipeline/fetch_shelf.py joly` · titles `python3 pipeline/split_shelf_titles.py joly`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `joly-cao-hung-lou-meng-dream-of-the-red-chamber-vol-1` | Xueqin Cao | Hung Lou Meng, or, the Dream of the Red Chamber, a Chinese Novel, Book I | H. Bencraft Joly | 1892-1893 (see the Gutenberg header) | have | PG 9603 |
+| `joly-cao-hung-lou-meng-dream-of-the-red-chamber-vol-2` | Xueqin Cao | Hung Lou Meng, or, the Dream of the Red Chamber, a Chinese Novel, Book II | H. Bencraft Joly | 1892-1893 (see the Gutenberg header) | have | PG 9604 |
+
+## Steven T. Byington (Stirner's The Ego and His Own; Eltzbacher's Anarchism)
+
+Shelf: `pipeline/byington_shelf.json` · fetch `python3 pipeline/fetch_shelf.py byington` · titles `python3 pipeline/split_shelf_titles.py byington`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `byington-eltzbacher-anarchism` | Paul Eltzbacher | Anarchism | Steven T. Byington | 1907-1908 (see the Gutenberg header) | have | PG 36690 |
+| `byington-stirner-the-ego-and-his-own` | Max Stirner | The Ego and His Own | Steven T. Byington | 1907-1908 (see the Gutenberg header) | have | PG 34580 |
+
+## J. T. Bealby (Hoffmann's Weird Tales, 2 vols)
+
+Shelf: `pipeline/bealby_shelf.json` · fetch `python3 pipeline/fetch_shelf.py bealby` · titles `python3 pipeline/split_shelf_titles.py bealby`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `bealby-hoffmann-weird-tales-vol-1-of-2` | E. T. A. (Ernst Theodor Amadeus) Hoffmann | Weird Tales. Vol. 1 (of 2) | J. T. Bealby | 1885 (see the Gutenberg header) | have | PG 31377 |
+| `bealby-hoffmann-weird-tales-vol-2-of-2` | E. T. A. (Ernst Theodor Amadeus) Hoffmann | Weird Tales, Vol. 2 (of 2) | J. T. Bealby | 1885 (see the Gutenberg header) | have | PG 31439 |
+
+## William Hazlitt the younger (Huc's Travels in Tartary, Thibet, and China, 2 vols)
+
+Shelf: `pipeline/hazlitt-huc_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hazlitt-huc` · titles `python3 pipeline/split_shelf_titles.py hazlitt-huc`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `hazlitt-huc-travels-in-tartary-thibet-and-china-vol-1` | Evariste Régis Huc | Travels in Tartary, Thibet, and China during the years 1844-5-6. Volume 1 | William Hazlitt (the younger) | 1852 (see the Gutenberg header) | have | PG 32747 |
+| `hazlitt-huc-travels-in-tartary-thibet-and-china-vol-2` | Evariste Régis Huc | Travels in Tartary, Thibet, and China During the years 1844-5-6. Volume 2 | William Hazlitt (the younger) | 1852 (see the Gutenberg header) | have | PG 33269 |
+
+## John Ingram Lockhart (Memoirs of Bernal Díaz del Castillo, 2 vols)
+
+Shelf: `pipeline/lockhart-diaz_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lockhart-diaz` · titles `python3 pipeline/split_shelf_titles.py lockhart-diaz`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `lockhart-diaz-memoirs-of-bernal-diaz-del-castillo-vol-1` | Bernal Díaz del Castillo | The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 1 (of 2) Written by Himself Containing a True and Full Account of the Discovery and Conquest of Mexico and New Spain. | John Ingram Lockhart | 1844 (see the Gutenberg header) | have | PG 32474 |
+| `lockhart-diaz-memoirs-of-bernal-diaz-del-castillo-vol-2` | Bernal Díaz del Castillo | The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 2 (of 2) Written by Himself Containing a True and Full Account of the Discovery and Conquest of Mexico and New Spain. | John Ingram Lockhart | 1844 (see the Gutenberg header) | have | PG 32475 |
+
+## Florence Crewe-Jones (Malot's Nobody's Boy; Nobody's Girl)
+
+Shelf: `pipeline/crewe-jones_shelf.json` · fetch `python3 pipeline/fetch_shelf.py crewe-jones` · titles `python3 pipeline/split_shelf_titles.py crewe-jones`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `crewe-jones-malot-nobody-s-boy-sans-famille` | Hector Malot | Nobody's boy (Sans famille) | Florence Crewe-Jones | 1916-1922 (see the Gutenberg header) | have | PG 25102 |
+| `crewe-jones-malot-nobody-s-girl-en-famille` | Hector Malot | Nobody's Girl (En Famille) | Florence Crewe-Jones | 1916-1922 (see the Gutenberg header) | have | PG 27690 |
+
+## W. J. Greenstreet (Dastre's Life and Death)
+
+Shelf: `pipeline/greenstreet_shelf.json` · fetch `python3 pipeline/fetch_shelf.py greenstreet` · titles `python3 pipeline/split_shelf_titles.py greenstreet`.
+Round 31 (2026-10-10), vetoable. His Poincaré is pending (PDF only on Gutenberg). Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `greenstreet-dastre-life-and-death` | A. (Albert) Dastre | Life and death | W. J. Greenstreet | 1905-1911 (see the Gutenberg header) | have | PG 65699 |
+| `pg-37157` | — | Poincaré's Science and Hypothesis: Gutenberg publishes it only as PDF/LaTeX, with no plain-text file to fetch. Left for a later pass that finds a period scan. | — | — | pending | — |
+
+## Patrick James Stirling (Bastiat's Economic Sophisms; Harmonies)
+
+Shelf: `pipeline/stirling-bastiat_shelf.json` · fetch `python3 pipeline/fetch_shelf.py stirling-bastiat` · titles `python3 pipeline/split_shelf_titles.py stirling-bastiat`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `stirling-bastiat-bastiat-economic-sophisms` | Frédéric Bastiat | Economic Sophisms | Patrick James Stirling | 1860-1873 (see the Gutenberg header) | have | PG 44145 |
+| `stirling-bastiat-bastiat-harmonies-of-political-economy-translate` | Frédéric Bastiat | Harmonies of Political Economy Translated from the Third French Edition, with a Notice of the Life and Writings of the Author | Patrick James Stirling | 1860-1873 (see the Gutenberg header) | have | PG 45002 |
+
+## Sofie Delffs (Scheffel's Ekkehard, 2 vols)
+
+Shelf: `pipeline/delffs_shelf.json` · fetch `python3 pipeline/fetch_shelf.py delffs` · titles `python3 pipeline/split_shelf_titles.py delffs`.
+Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `delffs-scheffel-ekkehard-a-tale-of-the-tenth-century-vol-1` | Joseph Victor von Scheffel | Ekkehard: A Tale of the Tenth Century. Vol. 1 (of 2) | Sofie Delffs | 1872 (see the Gutenberg header) | have | PG 35846 |
+| `delffs-scheffel-ekkehard-a-tale-of-the-tenth-century-vol-2` | Joseph Victor von Scheffel | Ekkehard: A Tale of the Tenth Century. Vol. 2 (of 2) | Sofie Delffs | 1872 (see the Gutenberg header) | have | PG 35847 |
+
+## George Egerton (Hamsun's Hunger)
+
+Shelf: `pipeline/egerton_shelf.json` · fetch `python3 pipeline/fetch_shelf.py egerton` · titles `python3 pipeline/split_shelf_titles.py egerton`.
+Round 31 (2026-10-10), vetoable. Knopf's bowdlerised 1920 text; duplicate copy left out. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `egerton-hamsun-hunger` | Knut Hamsun | Hunger | George Egerton | 1899 (see the Gutenberg header) | have | PG 76692 |
+| — | — | pg-8387: Hunger again: the same Knopf text from its 1921 eighth printing; this shelf keeps the 1920 first printing (76692). | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

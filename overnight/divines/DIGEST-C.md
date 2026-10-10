@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T12:14-05:00: 179 shelves, 1101 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5; 27 (eleven shelves): 57; 28 (twelve shelves): 41; 29 (seventeen shelves): 51; 30 (seventeen shelves): 56. **15 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T12:20-05:00: 204 shelves, 1149 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5; 27 (eleven shelves): 57; 28 (twelve shelves): 41; 29 (seventeen shelves): 51; 30 (seventeen shelves): 56; 31 (twenty-five shelves): 48. **15 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -426,3 +426,36 @@ Seventeen new shelves, 56 titles, all from Gutenberg, with the translator line r
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Flags (same question as Benecke in round 29):** two Gutenberg copies were keyed from reprints made after 1930 of translations first printed before it. Campion's *On the Edge of the Primeval Forest* comes from a 1937 reprint of the 1922 text, and Friedlaender's Dubnow volume 2 from the JPS's 1946 reprint of the 1918 text. The words are the public-domain text, but the copies are not pre-1931 printings. Veto them if you want only pre-1931 copies.
+
+## Round 31: twenty-five more translators (2026-10-10)
+
+Twenty-five new shelves, 48 titles, all from Gutenberg, with the translator line read in every header:
+
+- **`zilboorg`** (2): Zamyatin's *We* (Dutton, 1924), the book's first publication in any language, and Andreyev's *He Who Gets Slapped*.
+- **`yarmolinsky`** (2): Saltykov-Shchedrin's *A Family of Noblemen* (*The Golovlyov Family*) and *The Shield*, the 1917 anthology edited by Gorky, Andreyev and Sologub.
+- **`katharine-wylde`** (2): Grazia Deledda's *Ashes* and *Nostalgia*.
+- **`winifred-stephens`** (2): Anatole France's *The Life of Joan of Arc* and *Clio*.
+- **`selver`** (2): Karel Čapek's *R.U.R.* (the play that gave English the word "robot") and *The Insect Play*, both 1923.
+- **`rigg`** (2): Rigg's *Decameron* (1903, 2 volumes), a separate translation from Payne's on the `payne` shelf.
+- **`hornblow`** (2): D'Annunzio's *The Intruder* and *The Triumph of Death*.
+- **`hanna-larsen`** (2): J. P. Jacobsen's *Marie Grubbe* and *Niels Lyhne*.
+- **`flitch`** (2): Unamuno's *The Tragic Sense of Life* and *Essays and Soliloquies*.
+- **`glazer`** (2): Molnár's *Liliom*, and *Fashions for Men* with *The Swan*.
+- **`bunnett`** (2): Fouqué's *Undine* and the *Memoirs of Leonora Christina*.
+- **`constance-bache`** (2) and **`hueffer`** (2): the *Letters of Franz Liszt* and the *Correspondence of Wagner and Liszt*.
+- **`atkinson-lepper`** (2): De Coster's *The Legend of Ulenspiegel* (1918).
+- **`cf-atkinson`** (2): Spengler's *The Decline of the West* (Knopf, 1926 and 1928).
+- **`joly`** (2): the first two books of *Hung Lou Meng, or The Dream of the Red Chamber* (1892-93).
+- **`byington`** (2): Stirner's *The Ego and His Own* and Eltzbacher's *Anarchism*.
+- **`bealby`** (2): Hoffmann's *Weird Tales*.
+- **`hazlitt-huc`** (2): Huc's *Travels in Tartary, Thibet, and China*.
+- **`lockhart-diaz`** (2): *The Memoirs of the Conquistador Bernal Díaz del Castillo* (1844).
+- **`crewe-jones`** (2): Malot's *Nobody's Boy* and *Nobody's Girl*.
+- **`greenstreet`** (1): Dastre's *Life and Death*. His Poincaré is in `_pending` because Gutenberg has it only as PDF/LaTeX.
+- **`stirling-bastiat`** (2): Bastiat's *Economic Sophisms* and *Harmonies of Political Economy*.
+- **`delffs`** (2): Scheffel's *Ekkehard*.
+- **`egerton`** (1): Hamsun's *Hunger*, from Knopf's 1920 printing. Gutenberg's own note says the Knopf text bowdlerises Egerton's 1899 translation. The unexpurgated 1899 edition is not on Gutenberg. A second Gutenberg copy of the same Knopf text is left out.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Flag (same question as rounds 29 and 30):** Flitch's *The Tragic Sense of Life* comes from the 1954 Dover reprint, which calls itself an unaltered republication of the 1921 Macmillan text. Veto it if you want only pre-1931 copies.

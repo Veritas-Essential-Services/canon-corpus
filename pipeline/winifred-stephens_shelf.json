@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Winifred Stephens (Mrs. Whale, 1870-1944): Anatole France's The Life of Joan of Arc (1909) and Clio (1922). US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_name_words": [
+  "winifred stephens"
+ ],
+ "_surname": [
+  "winifred stephens"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "wsw-19488": [
+   19488,
+   "The Life of Joan of Arc, Vol. 1 and 2"
+  ],
+  "wsw-50670": [
+   50670,
+   "Clio"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "winifred-stephens-france-clio": {
+   "source": "wsw-50670",
+   "of": "Anatole France",
+   "work": "Clio",
+   "translated": "1909-1922 (see the Gutenberg header)",
+   "translator": "Winifred Stephens",
+   "scan_edition": "Project Gutenberg 50670 (clean text)"
+  },
+  "winifred-stephens-france-the-life-of-joan-of-arc-vol-1-and-2": {
+   "source": "wsw-19488",
+   "of": "Anatole France",
+   "work": "The Life of Joan of Arc, Vol. 1 and 2",
+   "translated": "1909-1922 (see the Gutenberg header)",
+   "translator": "Winifred Stephens",
+   "scan_edition": "Project Gutenberg 19488 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "wsw-19488": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "winifred stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Winifred Stephens Whale"
+  },
+  "wsw-50670": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "winifred stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Winifred Stephens Whale"
+  }
+ },
+ "_verified": {
+  "wsw-19488": {
+   "pg": 19488,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Winifred Stephens Whale"
+  },
+  "wsw-50670": {
+   "pg": 50670,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Winifred Stephens Whale"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

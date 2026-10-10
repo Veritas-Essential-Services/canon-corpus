@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Avrahm Yarmolinsky (1890-1975): Saltykov-Shchedrin's A Family of Noblemen (The Golovlyov Family, 1917) and The Shield (Gorky, Andreyev and Sologub, eds., 1917). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_name_words": [
+  "avrahm yarmolinsky",
+  "yarmolinsky"
+ ],
+ "_surname": [
+  "avrahm yarmolinsky",
+  "yarmolinsky"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "yar-19453": [
+   19453,
+   "The shield"
+  ],
+  "yar-44237": [
+   44237,
+   "A family of noblemen"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "yarmolinsky-gorky-the-shield": {
+   "source": "yar-19453",
+   "of": "Maksim Gorky",
+   "work": "The shield",
+   "translated": "1917 (see the Gutenberg header)",
+   "translator": "Avrahm Yarmolinsky",
+   "scan_edition": "Project Gutenberg 19453 (clean text)"
+  },
+  "yarmolinsky-saltykov-a-family-of-noblemen": {
+   "source": "yar-44237",
+   "of": "Mikhail Evgrafovich Saltykov",
+   "work": "A family of noblemen",
+   "translated": "1917 (see the Gutenberg header)",
+   "translator": "Avrahm Yarmolinsky",
+   "scan_edition": "Project Gutenberg 44237 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "yar-19453": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "avrahm yarmolinsky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Avrahm Yarmolinsky"
+  },
+  "yar-44237": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "avrahm yarmolinsky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Avrahm Yarmolinsky"
+  }
+ },
+ "_verified": {
+  "yar-19453": {
+   "pg": 19453,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Avrahm Yarmolinsky"
+  },
+  "yar-44237": {
+   "pg": 44237,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Avrahm Yarmolinsky"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

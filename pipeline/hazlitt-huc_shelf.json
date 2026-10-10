@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: William Hazlitt the younger (1811-1893): Huc's Travels in Tartary, Thibet, and China (1852, 2 vols). US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_name_words": [
+  "william hazlitt",
+  "w. hazlitt",
+  "hazlitt"
+ ],
+ "_surname": [
+  "william hazlitt",
+  "w. hazlitt",
+  "hazlitt"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "haz-32747": [
+   32747,
+   "Travels in Tartary, Thibet, and China during the years 1844-5-6. Volume 1"
+  ],
+  "haz-33269": [
+   33269,
+   "Travels in Tartary, Thibet, and China During the years 1844-5-6. Volume 2"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "hazlitt-huc-travels-in-tartary-thibet-and-china-vol-1": {
+   "source": "haz-32747",
+   "of": "Evariste Régis Huc",
+   "work": "Travels in Tartary, Thibet, and China during the years 1844-5-6. Volume 1",
+   "translated": "1852 (see the Gutenberg header)",
+   "translator": "William Hazlitt (the younger)",
+   "scan_edition": "Project Gutenberg 32747 (clean text)"
+  },
+  "hazlitt-huc-travels-in-tartary-thibet-and-china-vol-2": {
+   "source": "haz-33269",
+   "of": "Evariste Régis Huc",
+   "work": "Travels in Tartary, Thibet, and China During the years 1844-5-6. Volume 2",
+   "translated": "1852 (see the Gutenberg header)",
+   "translator": "William Hazlitt (the younger)",
+   "scan_edition": "Project Gutenberg 33269 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "haz-32747": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william hazlitt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Hazlitt"
+  },
+  "haz-33269": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william hazlitt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Hazlitt"
+  }
+ },
+ "_verified": {
+  "haz-32747": {
+   "pg": 32747,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Hazlitt"
+  },
+  "haz-33269": {
+   "pg": 33269,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Hazlitt"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}
