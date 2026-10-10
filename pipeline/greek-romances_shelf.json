@@ -137,7 +137,8 @@
   "bim_eighteenth-century_the-pastoral-amours-of-d_longus_1733": "The Pastoral Amours of Daphnis and Chloe (1733): ECCO OCR 0.69, below the lane's bar; wanted only from a cleaner scan",
   "Aristaenetus, Love Epistles (Halhed and Sheridan, 1771)": "PD; the ECCO scan reads at 0.54 clean words. Refused for OCR quality on 2026-10-03; wanted from a cleaner scan",
   "Alciphron, Letters, 'literally and completely translated' (Athenian Society, 1896)": "the two IA scans (alciphronliteral00alcirich, alciphronlitera00alcigoog) read at 0.50 and 0.32 clean words, far below the lane's bar; the translator is unnamed in that privately printed edition. Not taken; wanted from a cleaner scan (or Beloe and Monro's 1791 version); a third scan (bub_gb_RxJCAAAAIAAJ) reads 0.521, and alciphronlitera01alcigoog serves no text (HTTP 500), checked 2026-10-10",
-  "daphnischloetran00longuoft": "Thornley's 1657 Daphnis and Chloe in a modern reprint that prints no year of its own (its bibliography cites a 1912 book; archive.org says 1920). Held back under the undated-row rule; the translation itself is public domain."
+  "daphnischloetran00longuoft": "Thornley's 1657 Daphnis and Chloe in a modern reprint that prints no year of its own (its bibliography cites a 1912 book; archive.org says 1920). Held back under the undated-row rule; the translation itself is public domain.",
+  "Eighteenth-century Heliodorus (Aethiopian Adventures, 1753), Alciphron's Epistles (1791) and Daphnis and Chloe (1763)": "PD; the ECCO scans (bim_eighteenth-century_aethiopian-adventures-o_heliodorus-of-emesa_1753, bim_eighteenth-century_alciphrons-epistles-in_alciphron_1791, bim_eighteenth-century_the-pastoral-amours-of-d_longus_1763) read 0.756, 0.715 and 0.742; refused for OCR quality 2026-10-10"
  },
  "_surname_by_slug": {
   "greek-romances-smith": [

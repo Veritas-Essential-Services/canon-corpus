@@ -45,7 +45,8 @@
   "Edmonds, The Greek Bucolic Poets (Loeb, 1912)": "US PD by date but Greek facing; pending",
   "idyllstheocritus00theoiala": "same Banks edition, lower OCR (0.827 vs 0.858)",
   "idyllsoftheocrit00theorich": "1878 Banks reprint; empty text layer",
-  "Polwhele's Theocritus, Bion and Moschus (1786/1791-92, ECCO scans)": "PD; OCR 0.68. Refused for OCR quality on 2026-10-03; Polwhele's Tyrtaeus is in the Banks volume held above"
+  "Polwhele's Theocritus, Bion and Moschus (1786/1791-92, ECCO scans)": "PD; OCR 0.68. Refused for OCR quality on 2026-10-03; Polwhele's Tyrtaeus is in the Banks volume held above",
+  "The Idylliums of Moschus and Bion (1724)": "PD; the ECCO scan (bim_eighteenth-century_the-idylliums-of-moschus_moschus-of-syracuse_1724) reads 0.709; refused for OCR quality 2026-10-10"
  },
  "_surname": [
   "theocritus",

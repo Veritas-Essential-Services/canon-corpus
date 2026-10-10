@@ -37,7 +37,8 @@
  },
  "_excluded": {
   "PG 23082": "Gutenberg serves an HTML page for the .txt; not fetched",
-  "Chaucer's Boece (PG 42083, 44833)": "Middle English; not a modern translation; not taken"
+  "Chaucer's Boece (PG 42083, 44833)": "Middle English; not a modern translation; not taken",
+  "Robert Duncan, The Five Books of Boethius, Consolation of Philosophy (Edinburgh, printed for the translator; catalogue 1789)": "IA bim_eighteenth-century_the-five-books-of-aniciu_boethius_1789 reads 0.783, just over the bar, and the title page names Duncan, but no year is legible anywhere in the OCR; held back with the undated rows already put to Adam"
  },
  "_surname": [
   "boethius",
