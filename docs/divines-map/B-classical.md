@@ -2805,6 +2805,7 @@ Shelf: `pipeline/ernest-gardner_shelf.json`. Ernest Arthur Gardner (1862-1939), 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Religion and Art in Ancient Greece |  | `ernest-gardner-religion-art-ancient-greece` | have (PG 20523) |
 
 ## Franz Cumont (scholarship)
 
