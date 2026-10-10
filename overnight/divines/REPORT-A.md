@@ -859,3 +859,6 @@
 
 ## 2026-10-10 12:25 CDT — a-t-pierson done
 - `pipeline/a-t-pierson_shelf.json`: 0 CCEL, 1 PG, 38 IA. Title pages read for pierson-greatest-work, pierson-life-power (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:26 CDT — round 18 closed
+- Twelve new shelves (A. J. Gordon, Scofield, Ironside, Gaebelein, Pink, Girardeau, Mullins, B. H. Carroll, J. R. Graves, Augustus H. Strong, A. B. Simpson, A. T. Pierson), 203 items. 0 uids minted.
