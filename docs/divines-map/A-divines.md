@@ -3063,3 +3063,22 @@ Slugs `girardeau-*`. Southern Presbyterian of Columbia Seminary. Three of the ni
 | James L. Martin's replies to Girardeau | excluded | |
 | Obituary of Mrs. Eliza Leland (IA obituaryofmrseli00gira): no author named; attribution is the catalogue's only | excluded | |
 | Cape Girardeau and other namesakes | excluded | |
+
+## E. Y. Mullins (round 18, my pick, 2026-10-10)
+
+Slugs `mullins-*`. Southern Baptist Seminary president. Eight books 1905-1924; everything from 1930 on is left out.
+
+| Work | Status | Where |
+|---|---|---|
+| Why Is Christianity True? Christian Evidences (Chicago: Christian Culture Press, 1905) | have-ocr | IA `whyischristianit00mull` |
+| The Axioms of Religion: A New Interpretation of the Baptist Faith (Philadelphia: American Baptist Publication Society; published February 1908) | have-ocr | IA `axiomsofreligion00mull` |
+| Baptist Beliefs (Louisville: Baptist World Publishing Co., 1912) | have-ocr | IA `baptistbeliefs01mull` |
+| Freedom and Authority in Religion (Philadelphia: Griffith and Rowland, 1913) | have-ocr | IA `cu31924029371295` |
+| Studies in Ephesians and Colossians (Nashville: Sunday School Board, Southern Baptist Convention; no year on title page, copyright 1913) | have-ocr | IA `studiesinephesia0000eymu_n7r5` |
+| The Christian Religion in Its Doctrinal Expression (Philadelphia: Roger Williams Press; published September 1917) | have-ocr | IA `thechristianreli00mulluoft` |
+| The Life in Christ (New York: Fleming H. Revell; copyright 1917) | have-ocr | IA `lifeinchrist00mull` |
+| Christianity at the Cross Roads (New York: George H. Doran; copyright 1924) | have-ocr | IA `christianityatcr0000eymu_j2q3` |
+| Second copies: whyischristianit0000mull, axiomsofreligion01mull, freedomauthority00mull, christianreligio0000edga_i7l1, christianityatcr0000eymu_z3c5, christianityatcr0000mull | alternate | not shelved |
+| Baptist Beliefs Judson printings to 1974, Faith in the Modern World (1930) and other 1930-and-later books | excluded | |
+| The International Standard Bible Encyclopaedia: he was an editor | excluded | |
+| Eustace Mullins and others | excluded | |
