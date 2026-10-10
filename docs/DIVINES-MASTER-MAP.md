@@ -4138,6 +4138,25 @@ Slugs `hovey-*`. Newton Theological Institution; his own volumes only, not the A
 | The other American Commentary volumes (Broadus, Hackett, Gould and others), Truth Unfolded, and multi-author tracts and sermons | excluded | |
 | Perthes' Life of Chrysostom, translated with D. B. Ford | excluded | |
 | 1972 reprint and journal stubs | excluded | |
+
+## J. M. Pendleton (round 21, my pick, 2026-10-10)
+
+Slugs `pendleton-*`. Landmark Baptist; the Church Manual exists on IA only in later undated printings, so it is pending.
+
+| Work | Status | Where |
+|---|---|---|
+| Three Reasons Why I Am a Baptist, twelfth thousand (Cincinnati: Moore, Anderson, 1853) | have-ocr | IA `threereasonswhyi00pe` |
+| Three Reasons Why I Am a Baptist, with a Fourth Reason added, on Communion, thirteenth edition (Nashville: Graves, Marks, 1857) | have-ocr | IA `threereasonswhyi01pend` |
+| Thoughts on Christian Duty (Nashville: Graves, Marks; no year on title page, preface June 1857) | have-ocr | IA `thoughtsonchrist0000pend` |
+| The Atonement of Christ (Philadelphia: American Baptist Publication Society; catalogued 1877) | have-ocr | IA `MN40271ucmf_6` |
+| Christian Doctrines: a Compendium of Theology (Philadelphia: American Baptist Publication Society; entered 1878) | have-ocr | IA `christiandoctrin00pend` |
+| Distinctive Principles of Baptists (Philadelphia: American Baptist Publication Society; entered 1882) | have-ocr | IA `distinctiveprinc00pend` |
+| Notes of Sermons (Philadelphia: American Baptist Publication Society; no year on title page, preface April 1886) | have-ocr | IA `notesofsermons00pend` |
+| Reminiscences of a Long Life (Louisville: Baptist Book Concern, 1891) | have-ocr | IA `reminiscencesofl00pend` |
+| Second copies: christiandoctrin00pend_0, MN41875ucmf_8, reminiscencesofl01pend, Three Reasons (Louisville, catalogued 1903) | alternate | not shelved |
+| Memoirs of William Vaughan and Life of Reuben Ross: biographies by others | excluded | |
+| 1955 and 1966 reprints | excluded | |
+| other Pendletons | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
