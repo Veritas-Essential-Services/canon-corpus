@@ -1,0 +1,180 @@
+{
+ "_about": "TRANSLATOR SHELF: Christina Tyrrell: E. Werner's novels for Bentley (1870s-80s): Success and How He Won It, No Surrender, Under a Charm (3 vols), Fickle Fortune. US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_name_words": [
+  "christina tyrrell"
+ ],
+ "_surname": [
+  "christina tyrrell"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "cty-35032": [
+   35032,
+   "Success and How He Won It"
+  ],
+  "cty-35096": [
+   35096,
+   "No Surrender"
+  ],
+  "cty-35251": [
+   35251,
+   "Under a Charm: A Novel. Vol. I"
+  ],
+  "cty-35252": [
+   35252,
+   "Under a Charm: A Novel. Vol. II"
+  ],
+  "cty-35253": [
+   35253,
+   "Under a Charm: A Novel. Vol. III"
+  ],
+  "cty-39194": [
+   39194,
+   "Fickle Fortune"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "christina-tyrrell-werner-fickle-fortune": {
+   "source": "cty-39194",
+   "of": "E. Werner",
+   "work": "Fickle Fortune",
+   "translated": "1876-1886 (see the Gutenberg header)",
+   "translator": "Christina Tyrrell",
+   "scan_edition": "Project Gutenberg 39194 (clean text)"
+  },
+  "christina-tyrrell-werner-no-surrender": {
+   "source": "cty-35096",
+   "of": "E. Werner",
+   "work": "No Surrender",
+   "translated": "1876-1886 (see the Gutenberg header)",
+   "translator": "Christina Tyrrell",
+   "scan_edition": "Project Gutenberg 35096 (clean text)"
+  },
+  "christina-tyrrell-werner-success-and-how-he-won-it": {
+   "source": "cty-35032",
+   "of": "E. Werner",
+   "work": "Success and How He Won It",
+   "translated": "1876-1886 (see the Gutenberg header)",
+   "translator": "Christina Tyrrell",
+   "scan_edition": "Project Gutenberg 35032 (clean text)"
+  },
+  "christina-tyrrell-werner-under-a-charm-a-novel-vol-i": {
+   "source": "cty-35251",
+   "of": "E. Werner",
+   "work": "Under a Charm: A Novel. Vol. I",
+   "translated": "1876-1886 (see the Gutenberg header)",
+   "translator": "Christina Tyrrell",
+   "scan_edition": "Project Gutenberg 35251 (clean text)"
+  },
+  "christina-tyrrell-werner-under-a-charm-a-novel-vol-ii": {
+   "source": "cty-35252",
+   "of": "E. Werner",
+   "work": "Under a Charm: A Novel. Vol. II",
+   "translated": "1876-1886 (see the Gutenberg header)",
+   "translator": "Christina Tyrrell",
+   "scan_edition": "Project Gutenberg 35252 (clean text)"
+  },
+  "christina-tyrrell-werner-under-a-charm-a-novel-vol-iii": {
+   "source": "cty-35253",
+   "of": "E. Werner",
+   "work": "Under a Charm: A Novel. Vol. III",
+   "translated": "1876-1886 (see the Gutenberg header)",
+   "translator": "Christina Tyrrell",
+   "scan_edition": "Project Gutenberg 35253 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "cty-35032": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "christina tyrrell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Christina Tyrrell"
+  },
+  "cty-35096": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "christina tyrrell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Christina Tyrrell"
+  },
+  "cty-35251": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "christina tyrrell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Christina Tyrrell"
+  },
+  "cty-35252": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "christina tyrrell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Christina Tyrrell"
+  },
+  "cty-35253": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "christina tyrrell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Christina Tyrrell"
+  },
+  "cty-39194": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "christina tyrrell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Christina Tyrrell"
+  }
+ },
+ "_verified": {
+  "cty-35032": {
+   "pg": 35032,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Christina Tyrrell"
+  },
+  "cty-35096": {
+   "pg": 35096,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Christina Tyrrell"
+  },
+  "cty-35251": {
+   "pg": 35251,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Christina Tyrrell"
+  },
+  "cty-35252": {
+   "pg": 35252,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Christina Tyrrell"
+  },
+  "cty-35253": {
+   "pg": 35253,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Christina Tyrrell"
+  },
+  "cty-39194": {
+   "pg": 39194,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Christina Tyrrell"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

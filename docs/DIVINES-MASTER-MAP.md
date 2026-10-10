@@ -7814,6 +7814,182 @@ Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `rothwell-roujon-battles-bivouacs-a-french-soldier-s-note` | Jacques Roujon | Battles & Bivouacs: A French soldier's note-book | Fred Rothwell | 1910-1923 (see the Gutenberg header) | have | PG 58231 |
 | `rothwell-schure-pythagoras-and-the-delphic-mysteries` | Edouard Schuré | Pythagoras and the Delphic mysteries | Fred Rothwell | 1910-1923 (see the Gutenberg header) | have | PG 76522 |
 
+## Sir Clements Markham (Hakluyt Society: Cieza de León, Quirós, Vespucci; Lazarillo)
+
+Shelf: `pipeline/markham_shelf.json` · fetch `python3 pipeline/fetch_shelf.py markham` · titles `python3 pipeline/split_shelf_titles.py markham`.
+Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `markham-anonymous-the-life-of-lazarillo-de-tormes` | Anonymous | The Life of Lazarillo de Tormes | Clements R. Markham | 1864-1918 (see the Gutenberg header) | have | PG 53489 |
+| `markham-leon-the-travels-of-pedro-de-cieza-de-leon-a` | Pedro de Cieza de León | The travels of Pedro de Cieza de Léon, A.D. 1532-50, | Clements R. Markham | 1864-1918 (see the Gutenberg header) | have | PG 48770 |
+| `markham-leon-the-travels-of-pedro-de-cieza-de-leon-pa` | Pedro de Cieza de León | The travels of Pedro de Cieza de Léon; part 2 | Clements R. Markham | 1864-1918 (see the Gutenberg header) | have | PG 48785 |
+| `markham-leon-the-war-of-chupas` | Pedro de Cieza de León | The War of Chupas | Clements R. Markham | 1864-1918 (see the Gutenberg header) | have | PG 56486 |
+| `markham-leon-the-war-of-quito` | Pedro de Cieza de León | The War of Quito | Clements R. Markham | 1864-1918 (see the Gutenberg header) | have | PG 49095 |
+| `markham-queiros-the-voyages-of-pedro-fernandez-de-quiros` | Pedro Fernandes de Queirós | The Voyages of Pedro Fernandez de Quiros, 1595 to 1606. Volume 1 | Clements R. Markham | 1864-1918 (see the Gutenberg header) | have | PG 41200 |
+| `markham-vespucci-the-letters-of-amerigo-vespucci-and-othe` | Amerigo Vespucci | The Letters of Amerigo Vespucci, and Other Documents Illustrative of His Career | Clements R. Markham | 1864-1918 (see the Gutenberg header) | have | PG 36924 |
+
+## Thomasina Ross (Humboldt's Personal Narrative; Tschudi; Bouterwek)
+
+Shelf: `pipeline/thomasina-ross_shelf.json` · fetch `python3 pipeline/fetch_shelf.py thomasina-ross` · titles `python3 pipeline/split_shelf_titles.py thomasina-ross`.
+Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `thomasina-ross-bouterwek-spanish-portuguese-literature-vol-1` | Friedrich Bouterwek | History of Spanish and Portuguese Literature (Vol 1 of 2) | Thomasina Ross | 1823-1853 (see the Gutenberg header) | have | PG 55829 |
+| `thomasina-ross-bouterwek-spanish-portuguese-literature-vol-2` | Friedrich Bouterwek | History of Spanish and Portuguese Literature (Vol 2 of 2) | Thomasina Ross | 1823-1853 (see the Gutenberg header) | have | PG 56396 |
+| `thomasina-ross-castro-el-buscapie` | Adolfo de Castro | El Buscapié | Thomasina Ross | 1823-1853 (see the Gutenberg header) | have | PG 64011 |
+| `thomasina-ross-humboldt-personal-narrative-vol-1` | Alexander von Humboldt | Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 1 | Thomasina Ross | 1823-1853 (see the Gutenberg header) | have | PG 6322 |
+| `thomasina-ross-humboldt-personal-narrative-vol-2` | Alexander von Humboldt | Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 2 | Thomasina Ross | 1823-1853 (see the Gutenberg header) | have | PG 7014 |
+| `thomasina-ross-humboldt-personal-narrative-vol-3` | Alexander von Humboldt | Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 3 | Thomasina Ross | 1823-1853 (see the Gutenberg header) | have | PG 7254 |
+| `thomasina-ross-tschudi-travels-in-peru-on-the-coast-in-the-sier` | Johann Jakob von Tschudi | Travels in Peru, on the Coast, in the Sierra, Across the Cordilleras and the Andes, into the Primeval Forests | Thomasina Ross | 1823-1853 (see the Gutenberg header) | have | PG 26745 |
+
+## Henry Llewellyn Williams (Dumas's Marie Antoinette romances; Aimard)
+
+Shelf: `pipeline/hl-williams_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hl-williams` · titles `python3 pipeline/split_shelf_titles.py hl-williams`.
+Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `hl-williams-aimard-the-red-river-half-breed-a-tale-of-the-w` | Gustave Aimard | The Red River Half-Breed: A Tale of the Wild North-West | Henry Llewellyn Williams | 1878-1900 (see the Gutenberg header) | have | PG 45047 |
+| `hl-williams-dumas-balsamo-the-magician-or-the-memoirs-of-a` | Alexandre Dumas | Balsamo, the magician; or, the memoirs of a physician | Henry Llewellyn Williams | 1878-1900 (see the Gutenberg header) | have | PG 45822 |
+| `hl-williams-dumas-the-countess-of-charny-or-the-execution` | Alexandre Dumas | The Countess of Charny; or, The Execution of King Louis XVI | Henry Llewellyn Williams | 1878-1900 (see the Gutenberg header) | have | PG 42757 |
+| `hl-williams-dumas-the-hero-of-the-people-a-historical-roma` | Alexandre Dumas | The Hero of the People: A Historical Romance of Love, Liberty and Loyalty | Henry Llewellyn Williams | 1878-1900 (see the Gutenberg header) | have | PG 42681 |
+| `hl-williams-dumas-the-mesmerist-s-victim` | Alexandre Dumas | The Mesmerist's Victim | Henry Llewellyn Williams | 1878-1900 (see the Gutenberg header) | have | PG 42690 |
+| `hl-williams-dumas-the-royal-life-guard-or-the-flight-of-th` | Alexandre Dumas | The Royal Life Guard; or, the flight of the royal family. | Henry Llewellyn Williams | 1878-1900 (see the Gutenberg header) | have | PG 43633 |
+
+## Beatrice Marshall (Sudermann; Karin Michaëlis)
+
+Shelf: `pipeline/beatrice-marshall_shelf.json` · fetch `python3 pipeline/fetch_shelf.py beatrice-marshall` · titles `python3 pipeline/split_shelf_titles.py beatrice-marshall`.
+Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `beatrice-marshall-michaelis-elsie-lindtner` | Karin Michaëlis | Elsie Lindtner | Beatrice Marshall | 1898-1912 (see the Gutenberg header) | have | PG 68837 |
+| `beatrice-marshall-sudermann-john-the-baptist-a-play` | Hermann Sudermann | John the Baptist: A Play | Beatrice Marshall | 1898-1912 (see the Gutenberg header) | have | PG 34383 |
+| `beatrice-marshall-sudermann-regina-or-the-sins-of-the-fathers` | Hermann Sudermann | Regina, or the Sins of the Fathers | Beatrice Marshall | 1898-1912 (see the Gutenberg header) | have | PG 33892 |
+| `beatrice-marshall-sudermann-the-song-of-songs` | Hermann Sudermann | The Song of Songs | Beatrice Marshall | 1898-1912 (see the Gutenberg header) | have | PG 34361 |
+| `beatrice-marshall-sudermann-the-undying-past` | Hermann Sudermann | The Undying Past | Beatrice Marshall | 1898-1912 (see the Gutenberg header) | have | PG 34156 |
+
+## Alys Hallard (the Goncourts, Gyp, Doumic)
+
+Shelf: `pipeline/alys-hallard_shelf.json` · fetch `python3 pipeline/fetch_shelf.py alys-hallard` · titles `python3 pipeline/split_shelf_titles.py alys-hallard`.
+Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `alys-hallard-buffin-brave-belgians` | Camille Buffin | Brave Belgians | Alys Hallard | 1896-1915 (see the Gutenberg header) | have | PG 58509 |
+| `alys-hallard-doumic-george-sand-some-aspects-of-her-life-and` | René Doumic | George Sand: Some Aspects of Her Life and Writings | Alys Hallard | 1896-1915 (see the Gutenberg header) | have | PG 138 |
+| `alys-hallard-goncourt-renee-mauperin` | Edmond de Goncourt | Renée Mauperin | Alys Hallard | 1896-1915 (see the Gutenberg header) | have | PG 24604 |
+| `alys-hallard-gyp-bijou` | Gyp | Bijou | Alys Hallard | 1896-1915 (see the Gutenberg header) | have | PG 36199 |
+
+## Bertha Ness (E. Werner; Gottschall)
+
+Shelf: `pipeline/bertha-ness_shelf.json` · fetch `python3 pipeline/fetch_shelf.py bertha-ness` · titles `python3 pipeline/split_shelf_titles.py bertha-ness`.
+Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `bertha-ness-gottschall-withered-leaves-a-novel-vol-1-of-3` | Rudolf von Gottschall | Withered Leaves: A Novel. Vol. 1 (of 3) | Bertha Ness | 1875-1885 (see the Gutenberg header) | have | PG 35371 |
+| `bertha-ness-gottschall-withered-leaves-a-novel-vol-2-of-3` | Rudolf von Gottschall | Withered Leaves: A Novel.  Vol. 2 (of 3) | Bertha Ness | 1875-1885 (see the Gutenberg header) | have | PG 35372 |
+| `bertha-ness-gottschall-withered-leaves-a-novel-vol-3-of-3` | Rudolf von Gottschall | Withered Leaves: A Novel. Vol. 3 (of 3) | Bertha Ness | 1875-1885 (see the Gutenberg header) | have | PG 35373 |
+| `bertha-ness-werner-riven-bonds-vol-i` | E. Werner | Riven Bonds. Vol. I. | Bertha Ness | 1875-1885 (see the Gutenberg header) | have | PG 35283 |
+| `bertha-ness-werner-riven-bonds-vol-ii` | E. Werner | Riven Bonds.  Vol. II. | Bertha Ness | 1875-1885 (see the Gutenberg header) | have | PG 35284 |
+
+## M. W. Macdowall (Fritz Reuter; Franzos; Wägner)
+
+Shelf: `pipeline/macdowall_shelf.json` · fetch `python3 pipeline/fetch_shelf.py macdowall` · titles `python3 pipeline/split_shelf_titles.py macdowall`.
+Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `macdowall-franzos-the-jews-of-barnow-stories` | Karl Emil Franzos | The Jews of Barnow: Stories | M. W. Macdowall | 1878-1883 (see the Gutenberg header) | have | PG 34617 |
+| `macdowall-reuter-an-old-story-of-my-farming-days-vol-1-of` | Fritz Reuter | An Old Story of My Farming Days Vol. 1 (of 3). | M. W. Macdowall | 1878-1883 (see the Gutenberg header) | have | PG 35849 |
+| `macdowall-reuter-an-old-story-of-my-farming-days-vol-2-of` | Fritz Reuter | An Old Story of My Farming Days Vol. 2 (of 3). | M. W. Macdowall | 1878-1883 (see the Gutenberg header) | have | PG 35850 |
+| `macdowall-reuter-an-old-story-of-my-farming-days-vol-3-of` | Fritz Reuter | An Old Story of My Farming Days Vol. 3 (of 3). | M. W. Macdowall | 1878-1883 (see the Gutenberg header) | have | PG 35851 |
+| `macdowall-wagner-epics-and-romances-of-the-middle-ages` | Wilhelm Wägner | Epics and Romances of the Middle Ages | M. W. Macdowall | 1878-1883 (see the Gutenberg header) | have | PG 46923 |
+
+## R. P. Gillies (Hoffmann's Devil's Elixir; Fouqué's Magic Ring)
+
+Shelf: `pipeline/gillies_shelf.json` · fetch `python3 pipeline/fetch_shelf.py gillies` · titles `python3 pipeline/split_shelf_titles.py gillies`.
+Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `gillies-hoffmann-the-devil-s-elixir-vol-1-of-2` | E. T. A. (Ernst Theodor Amadeus) Hoffmann | The Devil's Elixir, Vol. 1 (of 2) | R. P. Gillies | 1824-1825 (see the Gutenberg header) | have | PG 36494 |
+| `gillies-hoffmann-the-devil-s-elixir-vol-2-of-2` | E. T. A. (Ernst Theodor Amadeus) Hoffmann | The Devil's Elixir, Vol. 2 (of 2) | R. P. Gillies | 1824-1825 (see the Gutenberg header) | have | PG 37005 |
+| `gillies-motte-fouque-the-magic-ring-vol-1-of-3` | Friedrich Heinrich Karl La Motte-Fouqué | The magic ring, Vol. 1 (of 3) | R. P. Gillies | 1824-1825 (see the Gutenberg header) | have | PG 77097 |
+| `gillies-motte-fouque-the-magic-ring-vol-2-of-3` | Friedrich Heinrich Karl La Motte-Fouqué | The magic ring, Vol. 2 (of 3) | R. P. Gillies | 1824-1825 (see the Gutenberg header) | have | PG 77098 |
+| `gillies-motte-fouque-the-magic-ring-vol-3-of-3` | Friedrich Heinrich Karl La Motte-Fouqué | The magic ring, Vol. 3 (of 3) | R. P. Gillies | 1824-1825 (see the Gutenberg header) | have | PG 77099 |
+
+## Christina Tyrrell (E. Werner)
+
+Shelf: `pipeline/christina-tyrrell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py christina-tyrrell` · titles `python3 pipeline/split_shelf_titles.py christina-tyrrell`.
+Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `christina-tyrrell-werner-fickle-fortune` | E. Werner | Fickle Fortune | Christina Tyrrell | 1876-1886 (see the Gutenberg header) | have | PG 39194 |
+| `christina-tyrrell-werner-no-surrender` | E. Werner | No Surrender | Christina Tyrrell | 1876-1886 (see the Gutenberg header) | have | PG 35096 |
+| `christina-tyrrell-werner-success-and-how-he-won-it` | E. Werner | Success and How He Won It | Christina Tyrrell | 1876-1886 (see the Gutenberg header) | have | PG 35032 |
+| `christina-tyrrell-werner-under-a-charm-a-novel-vol-i` | E. Werner | Under a Charm: A Novel. Vol. I | Christina Tyrrell | 1876-1886 (see the Gutenberg header) | have | PG 35251 |
+| `christina-tyrrell-werner-under-a-charm-a-novel-vol-ii` | E. Werner | Under a Charm: A Novel. Vol. II | Christina Tyrrell | 1876-1886 (see the Gutenberg header) | have | PG 35252 |
+| `christina-tyrrell-werner-under-a-charm-a-novel-vol-iii` | E. Werner | Under a Charm: A Novel. Vol. III | Christina Tyrrell | 1876-1886 (see the Gutenberg header) | have | PG 35253 |
+
+## N. D'Anvers, i.e. Nancy Bell (Verne; Nadaillac; Plauchut)
+
+Shelf: `pipeline/d-anvers_shelf.json` · fetch `python3 pipeline/fetch_shelf.py d-anvers` · titles `python3 pipeline/split_shelf_titles.py d-anvers`.
+Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `d-anvers-hourst-french-enterprise-in-africa` | Hourst | French enterprise in Africa | N. D'Anvers | 1873-1899 (see the Gutenberg header) | have | PG 71649 |
+| `d-anvers-nadaillac-manners-and-monuments-of-prehistoric-peo` | Jean-François-Albert du Pouget Nadaillac | Manners and Monuments of Prehistoric Peoples | N. D'Anvers | 1873-1899 (see the Gutenberg header) | have | PG 3309 |
+| `d-anvers-plauchut-china-and-the-chinese` | Edmond Plauchut | China and the Chinese | N. D'Anvers | 1873-1899 (see the Gutenberg header) | have | PG 63733 |
+| `d-anvers-verne-celebrated-travels-and-travellers-part-3` | Jules Verne | Celebrated Travels and Travellers, Part 3. | N. D'Anvers | 1873-1899 (see the Gutenberg header) | have | PG 26658 |
+| `d-anvers-verne-the-blockade-runners` | Jules Verne | The Blockade Runners | N. D'Anvers | 1873-1899 (see the Gutenberg header) | have | PG 8992 |
+| `d-anvers-verne-the-fur-country-or-seventy-degrees-north` | Jules Verne | The Fur Country: Or, Seventy Degrees North Latitude | N. D'Anvers | 1873-1899 (see the Gutenberg header) | have | PG 8991 |
+
+## Arthur Livingston (Blasco Ibáñez, Quiroga, Farrère)
+
+Shelf: `pipeline/livingston_shelf.json` · fetch `python3 pipeline/fetch_shelf.py livingston` · titles `python3 pipeline/split_shelf_titles.py livingston`.
+Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `livingston-farrere-the-house-of-the-secret-la-maison-des-ho` | Claude Farrère | The House of the Secret (La maison des hommes vivants) | Arthur Livingston | 1917-1923 (see the Gutenberg header) | have | PG 65709 |
+| `livingston-ibanez-mayflower-flor-de-mayo-a-tale-of-the-val` | Vicente Blasco Ibáñez | Mayflower (Flor de mayo): A Tale of the Valencian Seashore | Arthur Livingston | 1917-1923 (see the Gutenberg header) | have | PG 29577 |
+| `livingston-montessori-the-montessori-elementary-material` | Maria Montessori | The Montessori Elementary Material | Arthur Livingston | 1917-1923 (see the Gutenberg header) | have | PG 42869 |
+| `livingston-quiroga-south-american-jungle-tales` | Horacio Quiroga | South American Jungle Tales | Arthur Livingston | 1917-1923 (see the Gutenberg header) | have | PG 46051 |
+| — | — | pg-11674: The Torrent (with Isaac Goldberg) is on isaac-goldberg_shelf.json. | — | — | excluded | — |
+
+## Barrett H. Clark (Rostand, Rolland and other French plays)
+
+Shelf: `pipeline/barrett-clark_shelf.json` · fetch `python3 pipeline/fetch_shelf.py barrett-clark` · titles `python3 pipeline/split_shelf_titles.py barrett-clark`.
+Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `barrett-clark-bernard-french-without-a-master` | Tristan Bernard | French without a master | Barrett H. Clark | 1914-1918 (see the Gutenberg header) | have | PG 70884 |
+| `barrett-clark-bouchor-a-christmas-tale-in-one-act` | Maurice Bouchor | A Christmas Tale: in One Act | Barrett H. Clark | 1914-1918 (see the Gutenberg header) | have | PG 61613 |
+| `barrett-clark-pailleron-the-art-of-being-bored-a-comedy-in-three` | Edouard Pailleron | The Art of Being Bored: A Comedy in Three Acts | Barrett H. Clark | 1914-1918 (see the Gutenberg header) | have | PG 53334 |
+| `barrett-clark-rolland-the-fourteenth-of-july-and-danton-two-pl` | Romain Rolland | The Fourteenth of July, and Danton: Two Plays of the French Revolution | Barrett H. Clark | 1914-1918 (see the Gutenberg header) | have | PG 49438 |
+| `barrett-clark-rostand-the-romancers-a-comedy-in-three-acts` | Edmond Rostand | The Romancers: A Comedy in Three Acts | Barrett H. Clark | 1914-1918 (see the Gutenberg header) | have | PG 17581 |
+
+## E. M. Lamond (Grisar's Luther, 6 vols)
+
+Shelf: `pipeline/lamond_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lamond` · titles `python3 pipeline/split_shelf_titles.py lamond`.
+Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `lamond-grisar-luther-vol-1-of-6` | Hartmann Grisar | Luther, vol. 1 of 6 | E. M. Lamond | 1913-1917 (see the Gutenberg header) | have | PG 48995 |
+| `lamond-grisar-luther-vol-2-of-6` | Hartmann Grisar | Luther, vol. 2 of 6 | E. M. Lamond | 1913-1917 (see the Gutenberg header) | have | PG 49065 |
+| `lamond-grisar-luther-vol-3-of-6` | Hartmann Grisar | Luther, vol. 3 of 6 | E. M. Lamond | 1913-1917 (see the Gutenberg header) | have | PG 49106 |
+| `lamond-grisar-luther-vol-4-of-6` | Hartmann Grisar | Luther, vol. 4 of 6 | E. M. Lamond | 1913-1917 (see the Gutenberg header) | have | PG 49135 |
+| `lamond-grisar-luther-vol-5-of-6` | Hartmann Grisar | Luther, vol. 5 of 6 | E. M. Lamond | 1913-1917 (see the Gutenberg header) | have | PG 49171 |
+| `lamond-grisar-luther-vol-6-of-6` | Hartmann Grisar | Luther, vol. 6 of 6 | E. M. Lamond | 1913-1917 (see the Gutenberg header) | have | PG 54811 |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

@@ -1,0 +1,128 @@
+{
+ "_about": "TRANSLATOR SHELF: Alys Hallard: the Goncourts' Renée Mauperin, Gyp's Bijou, Doumic's George Sand (1910) and Buffin's Brave Belgians (1915). US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_name_words": [
+  "alys hallard"
+ ],
+ "_surname": [
+  "alys hallard"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "aha-138": [
+   138,
+   "George Sand: Some Aspects of Her Life and Writings"
+  ],
+  "aha-24604": [
+   24604,
+   "Renée Mauperin"
+  ],
+  "aha-36199": [
+   36199,
+   "Bijou"
+  ],
+  "aha-58509": [
+   58509,
+   "Brave Belgians"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "alys-hallard-buffin-brave-belgians": {
+   "source": "aha-58509",
+   "of": "Camille Buffin",
+   "work": "Brave Belgians",
+   "translated": "1896-1915 (see the Gutenberg header)",
+   "translator": "Alys Hallard",
+   "scan_edition": "Project Gutenberg 58509 (clean text)"
+  },
+  "alys-hallard-doumic-george-sand-some-aspects-of-her-life-and": {
+   "source": "aha-138",
+   "of": "René Doumic",
+   "work": "George Sand: Some Aspects of Her Life and Writings",
+   "translated": "1896-1915 (see the Gutenberg header)",
+   "translator": "Alys Hallard",
+   "scan_edition": "Project Gutenberg 138 (clean text)"
+  },
+  "alys-hallard-goncourt-renee-mauperin": {
+   "source": "aha-24604",
+   "of": "Edmond de Goncourt",
+   "work": "Renée Mauperin",
+   "translated": "1896-1915 (see the Gutenberg header)",
+   "translator": "Alys Hallard",
+   "scan_edition": "Project Gutenberg 24604 (clean text)"
+  },
+  "alys-hallard-gyp-bijou": {
+   "source": "aha-36199",
+   "of": "Gyp",
+   "work": "Bijou",
+   "translated": "1896-1915 (see the Gutenberg header)",
+   "translator": "Alys Hallard",
+   "scan_edition": "Project Gutenberg 36199 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "aha-138": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alys hallard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alys Hallard"
+  },
+  "aha-24604": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alys hallard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alys Hallard"
+  },
+  "aha-36199": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alys hallard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alys Hallard"
+  },
+  "aha-58509": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alys hallard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alys Hallard"
+  }
+ },
+ "_verified": {
+  "aha-138": {
+   "pg": 138,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alys Hallard"
+  },
+  "aha-24604": {
+   "pg": 24604,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alys Hallard"
+  },
+  "aha-36199": {
+   "pg": 36199,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alys Hallard"
+  },
+  "aha-58509": {
+   "pg": 58509,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alys Hallard"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

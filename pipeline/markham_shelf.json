@@ -1,0 +1,210 @@
+{
+ "_about": "TRANSLATOR SHELF: Sir Clements Markham (1830-1916) for the Hakluyt Society: Cieza de León's Travels and his Wars of Quito and Chupas, the Voyages of Quirós, Vespucci's letters with Columbus and Las Casas documents (1894), and Lazarillo de Tormes (1908). US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_name_words": [
+  "clements r. markham",
+  "clements markham",
+  "c. r. markham"
+ ],
+ "_surname": [
+  "clements r. markham",
+  "clements markham",
+  "c. r. markham"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mrk-36924": [
+   36924,
+   "The Letters of Amerigo Vespucci, and Other Documents Illustrative of His Career"
+  ],
+  "mrk-41200": [
+   41200,
+   "The Voyages of Pedro Fernandez de Quiros, 1595 to 1606. Volume 1"
+  ],
+  "mrk-48770": [
+   48770,
+   "The travels of Pedro de Cieza de Léon, A.D. 1532-50,"
+  ],
+  "mrk-48785": [
+   48785,
+   "The travels of Pedro de Cieza de Léon; part 2"
+  ],
+  "mrk-49095": [
+   49095,
+   "The War of Quito"
+  ],
+  "mrk-53489": [
+   53489,
+   "The Life of Lazarillo de Tormes"
+  ],
+  "mrk-56486": [
+   56486,
+   "The War of Chupas"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "markham-anonymous-the-life-of-lazarillo-de-tormes": {
+   "source": "mrk-53489",
+   "of": "Anonymous",
+   "work": "The Life of Lazarillo de Tormes",
+   "translated": "1864-1918 (see the Gutenberg header)",
+   "translator": "Clements R. Markham",
+   "scan_edition": "Project Gutenberg 53489 (clean text)"
+  },
+  "markham-leon-the-travels-of-pedro-de-cieza-de-leon-a": {
+   "source": "mrk-48770",
+   "of": "Pedro de Cieza de León",
+   "work": "The travels of Pedro de Cieza de Léon, A.D. 1532-50,",
+   "translated": "1864-1918 (see the Gutenberg header)",
+   "translator": "Clements R. Markham",
+   "scan_edition": "Project Gutenberg 48770 (clean text)"
+  },
+  "markham-leon-the-travels-of-pedro-de-cieza-de-leon-pa": {
+   "source": "mrk-48785",
+   "of": "Pedro de Cieza de León",
+   "work": "The travels of Pedro de Cieza de Léon; part 2",
+   "translated": "1864-1918 (see the Gutenberg header)",
+   "translator": "Clements R. Markham",
+   "scan_edition": "Project Gutenberg 48785 (clean text)"
+  },
+  "markham-leon-the-war-of-chupas": {
+   "source": "mrk-56486",
+   "of": "Pedro de Cieza de León",
+   "work": "The War of Chupas",
+   "translated": "1864-1918 (see the Gutenberg header)",
+   "translator": "Clements R. Markham",
+   "scan_edition": "Project Gutenberg 56486 (clean text)"
+  },
+  "markham-leon-the-war-of-quito": {
+   "source": "mrk-49095",
+   "of": "Pedro de Cieza de León",
+   "work": "The War of Quito",
+   "translated": "1864-1918 (see the Gutenberg header)",
+   "translator": "Clements R. Markham",
+   "scan_edition": "Project Gutenberg 49095 (clean text)"
+  },
+  "markham-queiros-the-voyages-of-pedro-fernandez-de-quiros": {
+   "source": "mrk-41200",
+   "of": "Pedro Fernandes de Queirós",
+   "work": "The Voyages of Pedro Fernandez de Quiros, 1595 to 1606. Volume 1",
+   "translated": "1864-1918 (see the Gutenberg header)",
+   "translator": "Clements R. Markham",
+   "scan_edition": "Project Gutenberg 41200 (clean text)"
+  },
+  "markham-vespucci-the-letters-of-amerigo-vespucci-and-othe": {
+   "source": "mrk-36924",
+   "of": "Amerigo Vespucci",
+   "work": "The Letters of Amerigo Vespucci, and Other Documents Illustrative of His Career",
+   "translated": "1864-1918 (see the Gutenberg header)",
+   "translator": "Clements R. Markham",
+   "scan_edition": "Project Gutenberg 36924 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mrk-36924": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Clements R. Markham"
+  },
+  "mrk-41200": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Clements R. Markham"
+  },
+  "mrk-48770": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Clements R. Markham"
+  },
+  "mrk-48785": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Clements R. Markham"
+  },
+  "mrk-49095": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Clements R. Markham"
+  },
+  "mrk-53489": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Clements R. Markham"
+  },
+  "mrk-56486": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Clements R. Markham"
+  }
+ },
+ "_verified": {
+  "mrk-36924": {
+   "pg": 36924,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Clements R. Markham"
+  },
+  "mrk-41200": {
+   "pg": 41200,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Clements R. Markham"
+  },
+  "mrk-48770": {
+   "pg": 48770,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Clements R. Markham"
+  },
+  "mrk-48785": {
+   "pg": 48785,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Clements R. Markham"
+  },
+  "mrk-49095": {
+   "pg": 49095,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Clements R. Markham"
+  },
+  "mrk-53489": {
+   "pg": 53489,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Clements R. Markham"
+  },
+  "mrk-56486": {
+   "pg": 56486,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Clements R. Markham"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

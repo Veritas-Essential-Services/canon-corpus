@@ -1,0 +1,182 @@
+{
+ "_about": "TRANSLATOR SHELF: N. D'Anvers (Nancy Bell, 1844-1933): Verne's The Fur Country, The Blockade Runners and Celebrated Travels and Travellers part 3, Nadaillac's Prehistoric Peoples (1892), Plauchut's China and the Chinese and Hourst's French Enterprise in Africa (1898). US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_name_words": [
+  "n. d'anvers",
+  "d'anvers"
+ ],
+ "_surname": [
+  "n. d'anvers",
+  "d'anvers"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "dan-26658": [
+   26658,
+   "Celebrated Travels and Travellers, Part 3."
+  ],
+  "dan-3309": [
+   3309,
+   "Manners and Monuments of Prehistoric Peoples"
+  ],
+  "dan-63733": [
+   63733,
+   "China and the Chinese"
+  ],
+  "dan-71649": [
+   71649,
+   "French enterprise in Africa"
+  ],
+  "dan-8991": [
+   8991,
+   "The Fur Country: Or, Seventy Degrees North Latitude"
+  ],
+  "dan-8992": [
+   8992,
+   "The Blockade Runners"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "d-anvers-hourst-french-enterprise-in-africa": {
+   "source": "dan-71649",
+   "of": "Hourst",
+   "work": "French enterprise in Africa",
+   "translated": "1873-1899 (see the Gutenberg header)",
+   "translator": "N. D'Anvers",
+   "scan_edition": "Project Gutenberg 71649 (clean text)"
+  },
+  "d-anvers-nadaillac-manners-and-monuments-of-prehistoric-peo": {
+   "source": "dan-3309",
+   "of": "Jean-François-Albert du Pouget Nadaillac",
+   "work": "Manners and Monuments of Prehistoric Peoples",
+   "translated": "1873-1899 (see the Gutenberg header)",
+   "translator": "N. D'Anvers",
+   "scan_edition": "Project Gutenberg 3309 (clean text)"
+  },
+  "d-anvers-plauchut-china-and-the-chinese": {
+   "source": "dan-63733",
+   "of": "Edmond Plauchut",
+   "work": "China and the Chinese",
+   "translated": "1873-1899 (see the Gutenberg header)",
+   "translator": "N. D'Anvers",
+   "scan_edition": "Project Gutenberg 63733 (clean text)"
+  },
+  "d-anvers-verne-celebrated-travels-and-travellers-part-3": {
+   "source": "dan-26658",
+   "of": "Jules Verne",
+   "work": "Celebrated Travels and Travellers, Part 3.",
+   "translated": "1873-1899 (see the Gutenberg header)",
+   "translator": "N. D'Anvers",
+   "scan_edition": "Project Gutenberg 26658 (clean text)"
+  },
+  "d-anvers-verne-the-blockade-runners": {
+   "source": "dan-8992",
+   "of": "Jules Verne",
+   "work": "The Blockade Runners",
+   "translated": "1873-1899 (see the Gutenberg header)",
+   "translator": "N. D'Anvers",
+   "scan_edition": "Project Gutenberg 8992 (clean text)"
+  },
+  "d-anvers-verne-the-fur-country-or-seventy-degrees-north": {
+   "source": "dan-8991",
+   "of": "Jules Verne",
+   "work": "The Fur Country: Or, Seventy Degrees North Latitude",
+   "translated": "1873-1899 (see the Gutenberg header)",
+   "translator": "N. D'Anvers",
+   "scan_edition": "Project Gutenberg 8991 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "dan-26658": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "n. d'anvers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "N. D'Anvers"
+  },
+  "dan-3309": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "n. d'anvers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "N. D'Anvers"
+  },
+  "dan-63733": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "n. d'anvers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "N. D'Anvers"
+  },
+  "dan-71649": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "n. d'anvers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "N. D'Anvers"
+  },
+  "dan-8991": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "n. d'anvers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "N. D'Anvers"
+  },
+  "dan-8992": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "n. d'anvers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "N. D'Anvers"
+  }
+ },
+ "_verified": {
+  "dan-26658": {
+   "pg": 26658,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "N. D'Anvers"
+  },
+  "dan-3309": {
+   "pg": 3309,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "N. D'Anvers"
+  },
+  "dan-63733": {
+   "pg": 63733,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "N. D'Anvers"
+  },
+  "dan-71649": {
+   "pg": 71649,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "N. D'Anvers"
+  },
+  "dan-8991": {
+   "pg": 8991,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "N. D'Anvers"
+  },
+  "dan-8992": {
+   "pg": 8992,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "N. D'Anvers"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

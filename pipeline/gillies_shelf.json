@@ -1,0 +1,158 @@
+{
+ "_about": "TRANSLATOR SHELF: Robert Pearse Gillies (1788-1858): Hoffmann's The Devil's Elixir (Blackwood, 1824, 2 vols) and Fouqué's The Magic Ring (1825, 3 vols). US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_name_words": [
+  "r. p. gillies",
+  "robert pearse gillies",
+  "gillies"
+ ],
+ "_surname": [
+  "r. p. gillies",
+  "robert pearse gillies",
+  "gillies"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "rpg-36494": [
+   36494,
+   "The Devil's Elixir, Vol. 1 (of 2)"
+  ],
+  "rpg-37005": [
+   37005,
+   "The Devil's Elixir, Vol. 2 (of 2)"
+  ],
+  "rpg-77097": [
+   77097,
+   "The magic ring, Vol. 1 (of 3)"
+  ],
+  "rpg-77098": [
+   77098,
+   "The magic ring, Vol. 2 (of 3)"
+  ],
+  "rpg-77099": [
+   77099,
+   "The magic ring, Vol. 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "gillies-hoffmann-the-devil-s-elixir-vol-1-of-2": {
+   "source": "rpg-36494",
+   "of": "E. T. A. (Ernst Theodor Amadeus) Hoffmann",
+   "work": "The Devil's Elixir, Vol. 1 (of 2)",
+   "translated": "1824-1825 (see the Gutenberg header)",
+   "translator": "R. P. Gillies",
+   "scan_edition": "Project Gutenberg 36494 (clean text)"
+  },
+  "gillies-hoffmann-the-devil-s-elixir-vol-2-of-2": {
+   "source": "rpg-37005",
+   "of": "E. T. A. (Ernst Theodor Amadeus) Hoffmann",
+   "work": "The Devil's Elixir, Vol. 2 (of 2)",
+   "translated": "1824-1825 (see the Gutenberg header)",
+   "translator": "R. P. Gillies",
+   "scan_edition": "Project Gutenberg 37005 (clean text)"
+  },
+  "gillies-motte-fouque-the-magic-ring-vol-1-of-3": {
+   "source": "rpg-77097",
+   "of": "Friedrich Heinrich Karl La Motte-Fouqué",
+   "work": "The magic ring, Vol. 1 (of 3)",
+   "translated": "1824-1825 (see the Gutenberg header)",
+   "translator": "R. P. Gillies",
+   "scan_edition": "Project Gutenberg 77097 (clean text)"
+  },
+  "gillies-motte-fouque-the-magic-ring-vol-2-of-3": {
+   "source": "rpg-77098",
+   "of": "Friedrich Heinrich Karl La Motte-Fouqué",
+   "work": "The magic ring, Vol. 2 (of 3)",
+   "translated": "1824-1825 (see the Gutenberg header)",
+   "translator": "R. P. Gillies",
+   "scan_edition": "Project Gutenberg 77098 (clean text)"
+  },
+  "gillies-motte-fouque-the-magic-ring-vol-3-of-3": {
+   "source": "rpg-77099",
+   "of": "Friedrich Heinrich Karl La Motte-Fouqué",
+   "work": "The magic ring, Vol. 3 (of 3)",
+   "translated": "1824-1825 (see the Gutenberg header)",
+   "translator": "R. P. Gillies",
+   "scan_edition": "Project Gutenberg 77099 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "rpg-36494": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. p. gillies",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. P. Gillies"
+  },
+  "rpg-37005": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. p. gillies",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. P. Gillies"
+  },
+  "rpg-77097": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. p. gillies",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. P. Gillies"
+  },
+  "rpg-77098": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. p. gillies",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. P. Gillies"
+  },
+  "rpg-77099": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. p. gillies",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. P. Gillies"
+  }
+ },
+ "_verified": {
+  "rpg-36494": {
+   "pg": 36494,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. P. Gillies"
+  },
+  "rpg-37005": {
+   "pg": 37005,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. P. Gillies"
+  },
+  "rpg-77097": {
+   "pg": 77097,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. P. Gillies"
+  },
+  "rpg-77098": {
+   "pg": 77098,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. P. Gillies"
+  },
+  "rpg-77099": {
+   "pg": 77099,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. P. Gillies"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

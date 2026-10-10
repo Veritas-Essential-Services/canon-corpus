@@ -125,3 +125,5 @@
 - 2026-10-10T11:27-05:00: round 23: upton (35), colbron (5), isaac-goldberg (9), thomas-roscoe (8), durand (7), ct-brooks (6), lady-wallace (8), frewer (6), laura-ensor (6), ranous (2). --verify --record 0 mismatched.
 
 - 2026-10-10T11:31-05:00: round 24: eden-cedar-paul (10), bailey-saunders (8), mccabe (9), farquharson-sharp (7, one held_in), mary-morison (8), diana-white (1), robert-black (1), waller (7), rothwell (5). --verify --record 0 mismatched.
+
+- 2026-10-10T11:36-05:00: round 25: markham (7), thomasina-ross (7), hl-williams (6), beatrice-marshall (5), alys-hallard (4), bertha-ness (5), macdowall (5), gillies (5), christina-tyrrell (6), d-anvers (6), livingston (4), barrett-clark (5), lamond (6). --verify --record 0 mismatched.

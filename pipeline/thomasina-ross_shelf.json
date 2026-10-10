@@ -1,0 +1,206 @@
+{
+ "_about": "TRANSLATOR SHELF: Thomasina Ross: Humboldt and Bonpland's Personal Narrative (Bohn, 1852-53, 3 vols), Tschudi's Travels in Peru (1847), Bouterwek's History of Spanish and Portuguese Literature (1823, 2 vols) and Castro's El Buscapié. US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_name_words": [
+  "thomasina ross"
+ ],
+ "_surname": [
+  "thomasina ross"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "tro-26745": [
+   26745,
+   "Travels in Peru, on the Coast, in the Sierra, Across the Cordilleras and the Andes, into the Primeval Forests"
+  ],
+  "tro-55829": [
+   55829,
+   "History of Spanish and Portuguese Literature (Vol 1 of 2)"
+  ],
+  "tro-56396": [
+   56396,
+   "History of Spanish and Portuguese Literature (Vol 2 of 2)"
+  ],
+  "tro-6322": [
+   6322,
+   "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 1"
+  ],
+  "tro-64011": [
+   64011,
+   "El Buscapié"
+  ],
+  "tro-7014": [
+   7014,
+   "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 2"
+  ],
+  "tro-7254": [
+   7254,
+   "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 3"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "thomasina-ross-bouterwek-spanish-portuguese-literature-vol-1": {
+   "source": "tro-55829",
+   "of": "Friedrich Bouterwek",
+   "work": "History of Spanish and Portuguese Literature (Vol 1 of 2)",
+   "translated": "1823-1853 (see the Gutenberg header)",
+   "translator": "Thomasina Ross",
+   "scan_edition": "Project Gutenberg 55829 (clean text)"
+  },
+  "thomasina-ross-bouterwek-spanish-portuguese-literature-vol-2": {
+   "source": "tro-56396",
+   "of": "Friedrich Bouterwek",
+   "work": "History of Spanish and Portuguese Literature (Vol 2 of 2)",
+   "translated": "1823-1853 (see the Gutenberg header)",
+   "translator": "Thomasina Ross",
+   "scan_edition": "Project Gutenberg 56396 (clean text)"
+  },
+  "thomasina-ross-castro-el-buscapie": {
+   "source": "tro-64011",
+   "of": "Adolfo de Castro",
+   "work": "El Buscapié",
+   "translated": "1823-1853 (see the Gutenberg header)",
+   "translator": "Thomasina Ross",
+   "scan_edition": "Project Gutenberg 64011 (clean text)"
+  },
+  "thomasina-ross-humboldt-personal-narrative-vol-1": {
+   "source": "tro-6322",
+   "of": "Alexander von Humboldt",
+   "work": "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 1",
+   "translated": "1823-1853 (see the Gutenberg header)",
+   "translator": "Thomasina Ross",
+   "scan_edition": "Project Gutenberg 6322 (clean text)"
+  },
+  "thomasina-ross-humboldt-personal-narrative-vol-2": {
+   "source": "tro-7014",
+   "of": "Alexander von Humboldt",
+   "work": "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 2",
+   "translated": "1823-1853 (see the Gutenberg header)",
+   "translator": "Thomasina Ross",
+   "scan_edition": "Project Gutenberg 7014 (clean text)"
+  },
+  "thomasina-ross-humboldt-personal-narrative-vol-3": {
+   "source": "tro-7254",
+   "of": "Alexander von Humboldt",
+   "work": "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 3",
+   "translated": "1823-1853 (see the Gutenberg header)",
+   "translator": "Thomasina Ross",
+   "scan_edition": "Project Gutenberg 7254 (clean text)"
+  },
+  "thomasina-ross-tschudi-travels-in-peru-on-the-coast-in-the-sier": {
+   "source": "tro-26745",
+   "of": "Johann Jakob von Tschudi",
+   "work": "Travels in Peru, on the Coast, in the Sierra, Across the Cordilleras and the Andes, into the Primeval Forests",
+   "translated": "1823-1853 (see the Gutenberg header)",
+   "translator": "Thomasina Ross",
+   "scan_edition": "Project Gutenberg 26745 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "tro-26745": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomasina ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomasina Ross"
+  },
+  "tro-55829": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomasina ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomasina Ross"
+  },
+  "tro-56396": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomasina ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomasina Ross"
+  },
+  "tro-6322": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomasina ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomasina Ross"
+  },
+  "tro-64011": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomasina ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomasina Ross"
+  },
+  "tro-7014": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomasina ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomasina Ross"
+  },
+  "tro-7254": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomasina ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomasina Ross"
+  }
+ },
+ "_verified": {
+  "tro-26745": {
+   "pg": 26745,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomasina Ross"
+  },
+  "tro-55829": {
+   "pg": 55829,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomasina Ross"
+  },
+  "tro-56396": {
+   "pg": 56396,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomasina Ross"
+  },
+  "tro-6322": {
+   "pg": 6322,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomasina Ross"
+  },
+  "tro-64011": {
+   "pg": 64011,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomasina Ross"
+  },
+  "tro-7014": {
+   "pg": 7014,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomasina Ross"
+  },
+  "tro-7254": {
+   "pg": 7254,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomasina Ross"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

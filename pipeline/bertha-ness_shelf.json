@@ -1,0 +1,154 @@
+{
+ "_about": "TRANSLATOR SHELF: Bertha Ness: E. Werner's Riven Bonds (2 vols) and Gottschall's Withered Leaves (3 vols), Bentley's 1870s-80s three-deckers. US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_name_words": [
+  "bertha ness"
+ ],
+ "_surname": [
+  "bertha ness"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "bne-35283": [
+   35283,
+   "Riven Bonds. Vol. I."
+  ],
+  "bne-35284": [
+   35284,
+   "Riven Bonds.  Vol. II."
+  ],
+  "bne-35371": [
+   35371,
+   "Withered Leaves: A Novel. Vol. 1 (of 3)"
+  ],
+  "bne-35372": [
+   35372,
+   "Withered Leaves: A Novel.  Vol. 2 (of 3)"
+  ],
+  "bne-35373": [
+   35373,
+   "Withered Leaves: A Novel. Vol. 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "bertha-ness-gottschall-withered-leaves-a-novel-vol-1-of-3": {
+   "source": "bne-35371",
+   "of": "Rudolf von Gottschall",
+   "work": "Withered Leaves: A Novel. Vol. 1 (of 3)",
+   "translated": "1875-1885 (see the Gutenberg header)",
+   "translator": "Bertha Ness",
+   "scan_edition": "Project Gutenberg 35371 (clean text)"
+  },
+  "bertha-ness-gottschall-withered-leaves-a-novel-vol-2-of-3": {
+   "source": "bne-35372",
+   "of": "Rudolf von Gottschall",
+   "work": "Withered Leaves: A Novel.  Vol. 2 (of 3)",
+   "translated": "1875-1885 (see the Gutenberg header)",
+   "translator": "Bertha Ness",
+   "scan_edition": "Project Gutenberg 35372 (clean text)"
+  },
+  "bertha-ness-gottschall-withered-leaves-a-novel-vol-3-of-3": {
+   "source": "bne-35373",
+   "of": "Rudolf von Gottschall",
+   "work": "Withered Leaves: A Novel. Vol. 3 (of 3)",
+   "translated": "1875-1885 (see the Gutenberg header)",
+   "translator": "Bertha Ness",
+   "scan_edition": "Project Gutenberg 35373 (clean text)"
+  },
+  "bertha-ness-werner-riven-bonds-vol-i": {
+   "source": "bne-35283",
+   "of": "E. Werner",
+   "work": "Riven Bonds. Vol. I.",
+   "translated": "1875-1885 (see the Gutenberg header)",
+   "translator": "Bertha Ness",
+   "scan_edition": "Project Gutenberg 35283 (clean text)"
+  },
+  "bertha-ness-werner-riven-bonds-vol-ii": {
+   "source": "bne-35284",
+   "of": "E. Werner",
+   "work": "Riven Bonds.  Vol. II.",
+   "translated": "1875-1885 (see the Gutenberg header)",
+   "translator": "Bertha Ness",
+   "scan_edition": "Project Gutenberg 35284 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "bne-35283": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bertha ness",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bertha Ness"
+  },
+  "bne-35284": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bertha ness",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bertha Ness"
+  },
+  "bne-35371": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bertha ness",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bertha Ness"
+  },
+  "bne-35372": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bertha ness",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bertha Ness"
+  },
+  "bne-35373": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bertha ness",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bertha Ness"
+  }
+ },
+ "_verified": {
+  "bne-35283": {
+   "pg": 35283,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bertha Ness"
+  },
+  "bne-35284": {
+   "pg": 35284,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bertha Ness"
+  },
+  "bne-35371": {
+   "pg": 35371,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bertha Ness"
+  },
+  "bne-35372": {
+   "pg": 35372,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bertha Ness"
+  },
+  "bne-35373": {
+   "pg": 35373,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bertha Ness"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

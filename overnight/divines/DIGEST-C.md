@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T11:31-05:00: 107 shelves, 820 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56. **14 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T11:36-05:00: 120 shelves, 891 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71. **14 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -303,3 +303,23 @@ Nine new shelves, 56 titles, all from Gutenberg, with the translator line read i
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Your call:** I left four of the Pauls' translations off, by judgment rather than rights: *A Young Girl's Diary* and three sexology books from the 1910s-20s (Moll, Bloch, Kisch). They are listed in the shelf's `_excluded`. Say if you want them in.
+
+
+## Round 25: thirteen smaller translators (2026-10-10)
+
+Thirteen new shelves, 71 titles, all from Gutenberg, with the translator line read in every header. The only post-1930 years in any front matter are Gutenberg transcribers' notes:
+
+- **`markham`** (7): Sir Clements Markham's Hakluyt Society Spanish chronicles (Cieza de León 4, Quirós, Vespucci's letters with Columbus and Las Casas documents) and *Lazarillo de Tormes*.
+- **`thomasina-ross`** (7): Humboldt's *Personal Narrative* (3 volumes), Tschudi's *Travels in Peru*, Bouterwek's *History of Spanish and Portuguese Literature* (2 volumes) and *El Buscapié*.
+- **`hl-williams`** (6): Henry Llewellyn Williams's Dumas (five Marie Antoinette romances) and Aimard.
+- **`beatrice-marshall`** (5): Sudermann (4) and Michaëlis. **`alys-hallard`** (4): the Goncourts, Gyp, Doumic's *George Sand*, *Brave Belgians*.
+- **`bertha-ness`** (5) and **`christina-tyrrell`** (6): E. Werner and Gottschall, Bentley three-deckers of the 1870s and 80s.
+- **`macdowall`** (5): Fritz Reuter's *An Old Story of My Farming Days* (3 volumes), Franzos's *The Jews of Barnow* and Wägner's *Epics and Romances of the Middle Ages*.
+- **`gillies`** (5): R. P. Gillies's Hoffmann, *The Devil's Elixir* (2 volumes, 1824), and Fouqué's *The Magic Ring* (3 volumes, 1825).
+- **`d-anvers`** (6): N. D'Anvers (Nancy Bell): Verne (3), Nadaillac, Plauchut and Hourst.
+- **`livingston`** (4): Arthur Livingston's Blasco Ibáñez, Quiroga, Farrère and Montessori. **`barrett-clark`** (5): Rostand's *The Romancers*, Rolland and other French plays.
+- **`lamond`** (6): E. M. Lamond's translation of Hartmann Grisar's *Luther* (6 volumes, 1913-17), the Jesuit historian's critical life.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** none beyond the veto. Grisar's *Luther* is a Catholic polemical biography. It is shelved as a translation, not as divinity; veto it if lane A's Reformation shelves should not sit beside it.
