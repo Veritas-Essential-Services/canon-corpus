@@ -691,3 +691,6 @@
 
 ## 2026-10-09 22:17 CDT — george-matheson done
 - `pipeline/george-matheson_shelf.json`: 9 IA. Natural Elements failed the name gate on OCR ("GEOEGE MATHESON"); title page read, in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-09 22:17 CDT — henry-boynton-smith done
+- `pipeline/henry-boynton-smith_shelf.json`: 4 IA (Apologetics is a "0000"-style id; title page reads 1882). `--verify --record`: 0 mismatched. 0 uids minted.

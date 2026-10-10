@@ -2256,6 +2256,14 @@ Slugs `gmatheson-*`.
 | Work | Status | Where |
 |---|---|---|
 | Growth of the Spirit of Christianity (2 vols, 1877); Studies of the Portrait of Christ (2 vols, 1899-1900); Spiritual Development of St Paul (1897); Can the Old Faith Live with the New? (1885); Natural Elements of Revealed Theology (1881); Sacred Songs (1891); Moments on the Mount (7th ed., no year) | have-ocr | IA, OCR 98-100% |
+
+## Henry Boynton Smith (round 14, my pick, 2026-10-09)
+
+Slugs `hbsmith-*`. Full name forms only; not `henry-smith` (the Elizabethan preacher) or `hannah-whitall-smith`.
+
+| Work | Status | Where |
+|---|---|---|
+| System of Christian Theology (1884); Introduction to Christian Theology (1883); Apologetics (1882); Faith and Philosophy (1877) | have-ocr | IA, OCR 97-99% |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

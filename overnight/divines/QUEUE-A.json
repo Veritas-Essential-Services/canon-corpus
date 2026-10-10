@@ -1768,10 +1768,12 @@
     },
     {
       "id": "henry-boynton-smith",
-      "status": "queued",
+      "status": "done",
       "scope": "Henry Boynton Smith: System of Christian Theology, Apologetics (d. 1877)",
       "added": "2026-10-03T06:50:23-05:00",
-      "added_by": "lane A worker, round 14 (round 13 done at 06:48 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian Anglicans and Scots, nineteenth-century Congregational and Presbyterian theologians, and two colonial American divines; all died before 1910. Checked against every remote branch's shelves (PR #14's included) and every lane's queue before queueing; none from the English Reformers/Knox list, and no commentators PR #11 plans."
+      "added_by": "lane A worker, round 14 (round 13 done at 06:48 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian Anglicans and Scots, nineteenth-century Congregational and Presbyterian theologians, and two colonial American divines; all died before 1910. Checked against every remote branch's shelves (PR #14's included) and every lane's queue before queueing; none from the English Reformers/Knox list, and no commentators PR #11 plans.",
+      "finished": "2026-10-09T22:17:25-05:00",
+      "notes": "4 IA"
     },
     {
       "id": "john-davenport",
