@@ -2788,6 +2788,8 @@ Shelf: `pipeline/frank-frost-abbott_shelf.json`. Frank Frost Abbott (1860-1924),
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Common People of Ancient Rome: Studies of Roman Life and Literature |  | `abbott-common-people-ancient-rome` | have (PG 13226) |
+| Roman Politics |  | `abbott-roman-politics` | have (PG 68064) |
 
 ## Grant Showerman (scholarship)
 
