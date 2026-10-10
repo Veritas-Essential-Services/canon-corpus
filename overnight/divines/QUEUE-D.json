@@ -2197,6 +2197,38 @@
       "started": "2026-10-10T10:21:53-05:00",
       "finished": "2026-10-10T10:32:30-05:00",
       "notes": "1/1 fetched (Gutenberg 37219), 400 units, 0 ~2 ids."
+    },
+    {
+      "id": "hugh-miller",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: hugh-miller; no minting",
+      "status": "done",
+      "started": "2026-10-10T10:40:57-05:00",
+      "finished": "2026-10-10T10:40:57-05:00",
+      "notes": "1/1 fetched (Gutenberg 71325), 960 units, 0 ~2 ids."
+    },
+    {
+      "id": "emilie-baker",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: emilie-baker; no minting",
+      "status": "running",
+      "started": "2026-10-10T10:40:57-05:00"
+    },
+    {
+      "id": "knatchbull-hugessen",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: knatchbull-hugessen; no minting",
+      "status": "running",
+      "started": "2026-10-10T10:40:57-05:00"
+    },
+    {
+      "id": "louise-houghton",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: louise-houghton; no minting",
+      "status": "running",
+      "started": "2026-10-10T10:40:57-05:00"
+    },
+    {
+      "id": "hanford-gordon",
+      "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: hanford-gordon; no minting",
+      "status": "running",
+      "started": "2026-10-10T10:40:57-05:00"
     }
   ]
 }
