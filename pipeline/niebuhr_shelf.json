@@ -1,5 +1,5 @@
 {
- "_about": "Barthold Georg Niebuhr (1776-1831) in English: Lectures on Roman History, ed. Isler, tr. H. M. Chepmell and F. Demmler (3 vols.), and Lectures on Ancient Ethnography and Geography, tr. Leonhard Schmitz (2 vols.). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Niebuhr's Lectures on Roman History, vol. 1, Niebuhr's Lectures on Roman History, vol. 2, Niebuhr's Lectures on Roman History, vol. 3, Lectures on Ancient Ethnography and Geography, vol. 1, Lectures on Ancient Ethnography and Geography, vol. 2, clean Gutenberg. No uids minted.",
+ "_about": "Barthold Georg Niebuhr (1776-1831) in English: Lectures on Roman History, ed. Isler, tr. H. M. Chepmell and F. Demmler (3 vols.), and Lectures on Ancient Ethnography and Geography, tr. Leonhard Schmitz (2 vols.). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Niebuhr's Lectures on Roman History, vol. 1, Niebuhr's Lectures on Roman History, vol. 2, Niebuhr's Lectures on Roman History, vol. 3, Lectures on Ancient Ethnography and Geography, vol. 1, Lectures on Ancient Ethnography and Geography, vol. 2, clean Gutenberg. No uids minted. Also The History of Rome, 3 vols., the 'new edition' of Taylor, Walton, and Maberly: vols. I-II tr. Julius Charles Hare and Connop Thirlwall (1851, 1855), vol. III tr. William Smith and Leonhard Schmitz (its imprint year is illegible in the OCR, 'MDCCCM'; the slug therefore carries no year), raw IA OCR.",
  "_name_words": [
   "niebuhr"
  ],
@@ -36,13 +36,32 @@
    "tr. Leonhard Schmitz"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "niebuhr-history-rome-v1-1851": [
+   "historyrome03unkngoog",
+   "The History of Rome, tr. Julius Charles Hare and Connop Thirlwall, vol. I, a new edition (London: Taylor, Walton, and Maberly, MDCCCLI)",
+   "tr. Julius Charles Hare and Connop Thirlwall"
+  ],
+  "niebuhr-history-rome-v2-1855": [
+   "historyofrome02nieb",
+   "The History of Rome, tr. Julius Charles Hare and Connop Thirlwall, vol. II, new edition (London: Walton and Maberly, MDCCCLV)",
+   "tr. Julius Charles Hare and Connop Thirlwall"
+  ],
+  "niebuhr-history-rome-v3-new-ed": [
+   "historyrome02schmgoog",
+   "The History of Rome, tr. William Smith and Leonhard Schmitz, vol. III, a new edition (London: Taylor, Walton, and Maberly)",
+   "tr. William Smith and Leonhard Schmitz"
+  ]
+ },
  "_translators": {
   "niebuhr-lectures-roman-history-v1": "Chepmell",
   "niebuhr-lectures-roman-history-v2": "Chepmell",
   "niebuhr-lectures-roman-history-v3": "Chepmell",
   "niebuhr-lectures-ethnography-geography-v1": "Leonhard Schmitz",
-  "niebuhr-lectures-ethnography-geography-v2": "Leonhard Schmitz"
+  "niebuhr-lectures-ethnography-geography-v2": "Leonhard Schmitz",
+  "niebuhr-history-rome-v1-1851": "Hare",
+  "niebuhr-history-rome-v2-1855": "Hare",
+  "niebuhr-history-rome-v3-new-ed": "Schmitz"
  },
  "_checks": {
   "niebuhr-lectures-roman-history-v1": {
@@ -104,6 +123,45 @@
    "pg_copyrighted": false,
    "pg_translator": "Leonhard Schmitz",
    "translator_match": true
+  },
+  "niebuhr-history-rome-v1-1851": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. g. niebuhr",
+   "translator_claimed": "Hare",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "niebuhr-history-rome-v2-1855": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. g. niebuhr",
+   "translator_claimed": "Hare",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "niebuhr-history-rome-v3-new-ed": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. g. niebuhr",
+   "translator_claimed": "Schmitz",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }

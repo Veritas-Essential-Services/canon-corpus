@@ -2727,6 +2727,9 @@ Shelf: `pipeline/niebuhr_shelf.json`. Barthold Georg Niebuhr (1776-1831) in Engl
 | Niebuhr's Lectures on Roman History, vol. 3 | H. M. Chepmell and F. Demmler | `niebuhr-lectures-roman-history-v3` | have (PG 75732) |
 | Lectures on Ancient Ethnography and Geography, vol. 1 | Leonhard Schmitz | `niebuhr-lectures-ethnography-geography-v1` | have (PG 78451) |
 | Lectures on Ancient Ethnography and Geography, vol. 2 | Leonhard Schmitz | `niebuhr-lectures-ethnography-geography-v2` | have (PG 78452) |
+| The History of Rome, tr. Julius Charles Hare and Connop Thirlwall, vol. I, a new edition (London: Taylor, Walton, and Maberly, MDCCCLI) | Julius Charles Hare and Connop Thirlwall | `niebuhr-history-rome-v1-1851` | have-raw (IA `historyrome03unkngoog`) |
+| The History of Rome, tr. Julius Charles Hare and Connop Thirlwall, vol. II, new edition (London: Walton and Maberly, MDCCCLV) | Julius Charles Hare and Connop Thirlwall | `niebuhr-history-rome-v2-1855` | have-raw (IA `historyofrome02nieb`) |
+| The History of Rome, tr. William Smith and Leonhard Schmitz, vol. III, a new edition (London: Taylor, Walton, and Maberly) | William Smith and Leonhard Schmitz | `niebuhr-history-rome-v3-new-ed` | have-raw (IA `historyrome02schmgoog`) |
 
 ## Kenneth J. Freeman (scholarship)
 
