@@ -156,18 +156,14 @@
    "ionofeuripidesno00euriiala",
    "The Ion of Euripides, now first translated into English in its original metres (London: Williams and Norgate, 1889)",
    "tr. H. B. L."
-  ],
-  "euripides-goldwin-smith-specimens-1893": [
-   "specimensofgreek00euriuoft",
-   "Specimens of Greek Tragedy: Euripides (Macmillan, copyright 1893)",
-   "tr. Goldwin Smith"
   ]
  },
  "_excluded": {
   "pg35171": "The Trojan Women (Murray): duplicate of PG 10096",
   "pg35173": "The Bacchae (Murray): duplicate of the Bacchae in PG 8418",
   "Way, Loeb (1912)": "same translator with the Greek facing; the 1894-98 English-only edition kept",
-  "medealiterallyt00eurigoog": "Medea, literally translated into English prose (1840): OCR 0.73, under the 0.78 bar"
+  "medealiterallyt00eurigoog": "Medea, literally translated into English prose (1840): OCR 0.73, under the 0.78 bar",
+  "specimensofgreek00euriuoft": "Goldwin Smith, Specimens of Greek Tragedy: Euripides (1893): excerpts joined by summaries, not whole plays; excluded like his Aeschylus and Sophocles volume (PG 7073) on the sophocles shelf"
  },
  "_surname": [
   "euripides"
@@ -196,8 +192,7 @@
   "euripides-lawton-three-dramas-1889": "william cranston lawton",
   "euripides-beloit-alcestis-1898": "beloit college",
   "euripides-kynaston-alcestis-1906": "Kynaston",
-  "euripides-hbl-ion-1889": "h. b. l.",
-  "euripides-goldwin-smith-specimens-1893": "goldwin smith"
+  "euripides-hbl-ion-1889": "h. b. l."
  },
  "_translator_unchecked": {
   "euripides-wodhull-v3": "translator on the row (Michael Wodhull) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -562,19 +557,6 @@
    "identity": "ok",
    "ia_rights": "ok: published 1889",
    "ia_date": "1889",
-   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
-  },
-  "euripides-goldwin-smith-specimens-1893": {
-   "kind": "ia",
-   "checked": "2026-10-10",
-   "name_check": "surname",
-   "author_seen": "euripides",
-   "translator_claimed": "goldwin smith",
-   "translator_in_text": true,
-   "identity": "ok",
-   "ia_rights": "ok: published 1893",
-   "ia_date": "1893",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

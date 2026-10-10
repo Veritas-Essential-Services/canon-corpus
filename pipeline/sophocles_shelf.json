@@ -120,6 +120,11 @@
    "antigoneofsophoc0000geor_m2w3",
    "The Antigone of Sophocles, translated with introduction and notes (Boston and New York: Houghton Mifflin; copyright 1899, this printing undated)",
    "tr. George Herbert Palmer"
+  ],
+  "sophocles-potter-1820": [
+   "tragediesofsopho00soph_0",
+   "The Tragedies of Sophocles, translated, a new edition (London: N. Bliss, 1820)",
+   "tr. Robert Potter"
   ]
  },
  "_cross_ref": {
@@ -134,7 +139,7 @@
  "_excluded": {
   "pg806": "Philoktetes (McNamee): a COPYRIGHTED Project Gutenberg eBook. Refused",
   "pg7073": "Specimens of Greek Tragedy (Goldwin Smith): excerpts",
-  "tragediessophoc00pottgoog": "Robert Potter's Tragedies of Sophocles (N. Bliss, 1820): PD; the scan reads at 0.758 clean words, below the lane's bar. Refused for OCR quality on 2026-10-03; wanted from a cleaner scan"
+  "tragediessophoc00pottgoog": "a second scan of Potter's 1820 Sophocles, reading 0.758 clean words; the cleaner scan tragediesofsopho00soph_0 (0.843) is held as sophocles-potter-1820"
  },
  "_surname": [
   "sophocles"
@@ -160,12 +165,13 @@
   "sophocles-mongan-oedipus-tyrannus-1865": "roscoe mongan",
   "sophocles-hull-oedipus-coloneus-1894": "arthur compton auchmuty hull",
   "sophocles-palmer-antigone-1899": "george herbert palmer",
-  "sophocles-doyle-oedipus-1849": "francis hastings doyle"
+  "sophocles-doyle-oedipus-1849": "francis hastings doyle",
+  "sophocles-potter-1820": "r. potter"
  },
  "_checks": {
   "sophocles-campbell-seven": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "Lewis Campbell",
@@ -177,7 +183,7 @@
   },
   "sophocles-storr-theban": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "Francis Storr",
@@ -189,7 +195,7 @@
   },
   "sophocles-murray-oedipus": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "Gilbert Murray",
@@ -201,7 +207,7 @@
   },
   "sophocles-sheridan-philoctetes": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "Thomas Sheridan",
@@ -213,7 +219,7 @@
   },
   "sophocles-plumptre": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "E. H. Plumptre",
@@ -226,7 +232,7 @@
   },
   "sophocles-francklin-1759": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "Thomas Francklin",
@@ -239,7 +245,7 @@
   },
   "sophocles-way-1909-part1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "Arthur S. Way",
@@ -252,7 +258,7 @@
   },
   "sophocles-jebb-prose-1904": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "Richard C. Jebb",
@@ -265,7 +271,7 @@
   },
   "sophocles-whitelaw-1883": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "Robert Whitelaw",
@@ -278,7 +284,7 @@
   },
   "sophocles-dale-1824-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "Thomas Dale",
@@ -291,7 +297,7 @@
   },
   "sophocles-dale-1824-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "Thomas Dale",
@@ -304,7 +310,7 @@
   },
   "sophocles-sheppard-oedipus-tyrannus-1922": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "Sheppard",
@@ -317,7 +323,7 @@
   },
   "sophocles-trevelyan-ajax-1919": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "Trevelyan",
@@ -330,7 +336,7 @@
   },
   "sophocles-plaistowe-philoctetes": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "Plaistowe",
@@ -343,7 +349,7 @@
   },
   "sophocles-oxford-prose-1886": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "identity": "ok",
@@ -354,7 +360,7 @@
   },
   "sophocles-morshead-ajax-1895": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "Morshead",
@@ -367,7 +373,7 @@
   },
   "sophocles-coleridge-prose-1905": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "edward p. coleridge",
@@ -380,7 +386,7 @@
   },
   "sophocles-young-dramas-1888": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "george young",
@@ -393,7 +399,7 @@
   },
   "sophocles-doyle-oedipus-1849": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "francis hastings doyle",
@@ -406,7 +412,7 @@
   },
   "sophocles-mongan-oedipus-tyrannus-1865": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "roscoe mongan",
@@ -420,7 +426,7 @@
   },
   "sophocles-hull-oedipus-coloneus-1894": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "arthur compton auchmuty hull",
@@ -433,7 +439,7 @@
   },
   "sophocles-palmer-antigone-1899": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "sophocles",
    "translator_claimed": "george herbert palmer",
@@ -441,6 +447,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1899",
    "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-potter-1820": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "r. potter",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }

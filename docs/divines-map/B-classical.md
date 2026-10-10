@@ -421,7 +421,6 @@ Shelf: `pipeline/euripides_shelf.json`. Translator per title; complete in Way (v
 | Euripides' Alcestis translated, with introduction and notes by J. Churton Collins (Oxford: Clarendon Press, 1906) | H. Kynaston | `euripides-kynaston-alcestis-1906` | have-raw (IA `euripidesalcest00eurigoog`) |
 | The Bacchae and Heraclidae of Euripides, literally translated into English from the text of Dindorf, by a Member of the University of Oxford (London: Henry Washbourne, 1846) | anonymous ('a Member of the University of Oxford') | `euripides-oxford-member-bacchae-heraclidae-1846` | have-raw (IA `TheBacchaeAndHeraclidae`) |
 | The Ion of Euripides, now first translated into English in its original metres (London: Williams and Norgate, 1889) | H. B. L. | `euripides-hbl-ion-1889` | have-raw (IA `ionofeuripidesno00euriiala`) |
-| Specimens of Greek Tragedy: Euripides (Macmillan, copyright 1893) | Goldwin Smith | `euripides-goldwin-smith-specimens-1893` | have-raw (IA `specimensofgreek00euriuoft`) |
 
 Pending (wishlist): Way's 1912 Loeb (Greek facing). Potter's Euripides is held complete in the 1832 Valpy reprint (3 vols.). Wodhull's Euripides is held complete from the 1809 Greek Tragic Theatre (vols. 3-5).
 
@@ -462,6 +461,7 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | Sophocles, Oedipus Tyrannus, literally translated (Dublin; London: Simpkin, Marshall, 1865) | Roscoe Mongan | `sophocles-mongan-oedipus-tyrannus-1865` | have-raw (IA `sophoclesdipust00sophgoog`) |
 | Oedipus at Colonus, closely translated from the Greek of Sophocles: an experiment in metre (London: Simpkin, Marshall, Hamilton, Kent, 1894) | Arthur Compton Auchmuty Hull | `sophocles-hull-oedipus-coloneus-1894` | have-raw (IA `cu31924026593511`) |
 | The Antigone of Sophocles, translated with introduction and notes (Boston and New York: Houghton Mifflin; copyright 1899, this printing undated) | George Herbert Palmer | `sophocles-palmer-antigone-1899` | have-raw (IA `antigoneofsophoc0000geor_m2w3`) |
+| The Tragedies of Sophocles, translated, a new edition (London: N. Bliss, 1820) | Robert Potter | `sophocles-potter-1820` | have-raw (IA `tragediesofsopho00soph_0`) |
 
 Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 
