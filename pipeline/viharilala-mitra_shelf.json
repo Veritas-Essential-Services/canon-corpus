@@ -1,0 +1,217 @@
+{
+ "_about": "TRANSLATOR SHELF: Vihari-Lala Mitra: The Yoga-Vasishtha Maharamayana of Valmiki (Calcutta, 1891-99, 4 vols in 7 parts). US public domain. Added 2026-10-10 by lane C (round 34); Adam may veto. No uids minted.",
+ "_name_words": [
+  "vihari-lala mitra",
+  "viharilala mitra",
+  "mitra"
+ ],
+ "_surname": [
+  "vihari-lala mitra",
+  "viharilala mitra",
+  "mitra"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "vim-46531": [
+   46531,
+   "The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 3 (of 4), Part 2 (of 2)"
+  ],
+  "vim-71063": [
+   71063,
+   "The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 2 (of 4), Part 1 (of 2)"
+  ],
+  "vim-71064": [
+   71064,
+   "The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 2 (of 4), Part 2 (of 2)"
+  ],
+  "vim-71095": [
+   71095,
+   "The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 3 (of 4), Part 1 (of 2)"
+  ],
+  "vim-71248": [
+   71248,
+   "The Yoga-Vasishtha Maharamayana of Valmiki, Vol 4 (of 4), Part 1 (of 2)"
+  ],
+  "vim-71249": [
+   71249,
+   "The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 4 (of 4), Part 2 (of 2)"
+  ],
+  "vim-71326": [
+   71326,
+   "The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 1 (of 4)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "viharilala-mitra-yoga-vasishtha-vol-1": {
+   "source": "vim-71326",
+   "of": "Valmiki (attributed)",
+   "work": "The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 1 (of 4)",
+   "translated": "1891-1899 (see the Gutenberg header)",
+   "translator": "Vihari-Lala Mitra",
+   "scan_edition": "Project Gutenberg 71326 (clean text)",
+   "note": "The Gutenberg text was scanned from modern Indian photo-reprints of the 1891-99 Calcutta edition (LPP, Delhi 1999; gaps filled from Bharatiya Publishing House, Delhi 1978), as its transcriber's note says. The text is the 1890s public-domain translation, but the copy is a later facsimile, not a pre-1931 printing: flagged in DIGEST-C for Adam's veto (same question as Whishaw's facsimile)."
+  },
+  "viharilala-mitra-yoga-vasishtha-vol-2-part-1": {
+   "source": "vim-71063",
+   "of": "Valmiki (attributed)",
+   "work": "The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 2 (of 4), Part 1 (of 2)",
+   "translated": "1891-1899 (see the Gutenberg header)",
+   "translator": "Vihari-Lala Mitra",
+   "scan_edition": "Project Gutenberg 71063 (clean text)",
+   "note": "The Gutenberg text was scanned from modern Indian photo-reprints of the 1891-99 Calcutta edition (LPP, Delhi 1999; gaps filled from Bharatiya Publishing House, Delhi 1978), as its transcriber's note says. The text is the 1890s public-domain translation, but the copy is a later facsimile, not a pre-1931 printing: flagged in DIGEST-C for Adam's veto (same question as Whishaw's facsimile)."
+  },
+  "viharilala-mitra-yoga-vasishtha-vol-2-part-2": {
+   "source": "vim-71064",
+   "of": "Valmiki (attributed)",
+   "work": "The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 2 (of 4), Part 2 (of 2)",
+   "translated": "1891-1899 (see the Gutenberg header)",
+   "translator": "Vihari-Lala Mitra",
+   "scan_edition": "Project Gutenberg 71064 (clean text)",
+   "note": "The Gutenberg text was scanned from modern Indian photo-reprints of the 1891-99 Calcutta edition (LPP, Delhi 1999; gaps filled from Bharatiya Publishing House, Delhi 1978), as its transcriber's note says. The text is the 1890s public-domain translation, but the copy is a later facsimile, not a pre-1931 printing: flagged in DIGEST-C for Adam's veto (same question as Whishaw's facsimile)."
+  },
+  "viharilala-mitra-yoga-vasishtha-vol-3-part-1": {
+   "source": "vim-71095",
+   "of": "Valmiki (attributed)",
+   "work": "The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 3 (of 4), Part 1 (of 2)",
+   "translated": "1891-1899 (see the Gutenberg header)",
+   "translator": "Vihari-Lala Mitra",
+   "scan_edition": "Project Gutenberg 71095 (clean text)",
+   "note": "The Gutenberg text was scanned from modern Indian photo-reprints of the 1891-99 Calcutta edition (LPP, Delhi 1999; gaps filled from Bharatiya Publishing House, Delhi 1978), as its transcriber's note says. The text is the 1890s public-domain translation, but the copy is a later facsimile, not a pre-1931 printing: flagged in DIGEST-C for Adam's veto (same question as Whishaw's facsimile)."
+  },
+  "viharilala-mitra-yoga-vasishtha-vol-3-part-2": {
+   "source": "vim-46531",
+   "of": "Valmiki (attributed)",
+   "work": "The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 3 (of 4), Part 2 (of 2)",
+   "translated": "1891-1899 (see the Gutenberg header)",
+   "translator": "Vihari-Lala Mitra",
+   "scan_edition": "Project Gutenberg 46531 (clean text)",
+   "note": "The Gutenberg text was scanned from modern Indian photo-reprints of the 1891-99 Calcutta edition (LPP, Delhi 1999; gaps filled from Bharatiya Publishing House, Delhi 1978), as its transcriber's note says. The text is the 1890s public-domain translation, but the copy is a later facsimile, not a pre-1931 printing: flagged in DIGEST-C for Adam's veto (same question as Whishaw's facsimile)."
+  },
+  "viharilala-mitra-yoga-vasishtha-vol-4-part-1": {
+   "source": "vim-71248",
+   "of": "Valmiki (attributed)",
+   "work": "The Yoga-Vasishtha Maharamayana of Valmiki, Vol 4 (of 4), Part 1 (of 2)",
+   "translated": "1891-1899 (see the Gutenberg header)",
+   "translator": "Vihari-Lala Mitra",
+   "scan_edition": "Project Gutenberg 71248 (clean text)",
+   "note": "The Gutenberg text was scanned from modern Indian photo-reprints of the 1891-99 Calcutta edition (LPP, Delhi 1999; gaps filled from Bharatiya Publishing House, Delhi 1978), as its transcriber's note says. The text is the 1890s public-domain translation, but the copy is a later facsimile, not a pre-1931 printing: flagged in DIGEST-C for Adam's veto (same question as Whishaw's facsimile)."
+  },
+  "viharilala-mitra-yoga-vasishtha-vol-4-part-2": {
+   "source": "vim-71249",
+   "of": "Valmiki (attributed)",
+   "work": "The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 4 (of 4), Part 2 (of 2)",
+   "translated": "1891-1899 (see the Gutenberg header)",
+   "translator": "Vihari-Lala Mitra",
+   "scan_edition": "Project Gutenberg 71249 (clean text)",
+   "note": "The Gutenberg text was scanned from modern Indian photo-reprints of the 1891-99 Calcutta edition (LPP, Delhi 1999; gaps filled from Bharatiya Publishing House, Delhi 1978), as its transcriber's note says. The text is the 1890s public-domain translation, but the copy is a later facsimile, not a pre-1931 printing: flagged in DIGEST-C for Adam's veto (same question as Whishaw's facsimile)."
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "vim-46531": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "vihari-lala mitra",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Viharilala Mitra"
+  },
+  "vim-71063": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "viharilala mitra",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Viharilala Mitra"
+  },
+  "vim-71064": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "vihari-lala mitra",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Viharilala Mitra"
+  },
+  "vim-71095": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "viharilala mitra",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Viharilala Mitra"
+  },
+  "vim-71248": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "vihari-lala mitra",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Viharilala Mitra"
+  },
+  "vim-71249": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "vihari-lala mitra",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Viharilala Mitra"
+  },
+  "vim-71326": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "vihari-lala mitra",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Viharilala Mitra"
+  }
+ },
+ "_verified": {
+  "vim-46531": {
+   "pg": 46531,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Viharilala Mitra"
+  },
+  "vim-71063": {
+   "pg": 71063,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Viharilala Mitra"
+  },
+  "vim-71064": {
+   "pg": 71064,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Viharilala Mitra"
+  },
+  "vim-71095": {
+   "pg": 71095,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Viharilala Mitra"
+  },
+  "vim-71248": {
+   "pg": 71248,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Viharilala Mitra"
+  },
+  "vim-71249": {
+   "pg": 71249,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Viharilala Mitra"
+  },
+  "vim-71326": {
+   "pg": 71326,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Viharilala Mitra"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

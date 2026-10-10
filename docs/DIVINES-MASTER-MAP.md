@@ -10444,6 +10444,92 @@ Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `cowell-gaudapurnanandacakravarti-the-tattva-muktavali` | active 17th century Gaudapurnanandacakravarti | The Tattva-Muktavali | E. B. Cowell | 1882 (see the Gutenberg header) | have | PG 7175 |
 | `cowell-madhava-the-sarva-darsana-samgraha-or-review-of` | Madhava | The Sarva-Darsana-Samgraha Or, Review of the Different Systems of Hindu Philosophy | E. B. Cowell (with Archibald Edward Gough) | 1882 (see the Gutenberg header) | have | PG 34125 |
 
+## William Whiston (The Works of Josephus, 5 titles)
+
+Shelf: `pipeline/whiston_shelf.json` · fetch `python3 pipeline/fetch_shelf.py whiston` · titles `python3 pipeline/split_shelf_titles.py whiston`.
+Round 34 (2026-10-10), vetoable. Lane B left Josephus unassigned. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `whiston-josephus-against-apion` | Flavius Josephus | Against Apion | William Whiston | 1737 (see the Gutenberg header) | have | PG 2849 |
+| `whiston-josephus-antiquities-of-the-jews` | Flavius Josephus | Antiquities of the Jews | William Whiston | 1737 (see the Gutenberg header) | have | PG 2848 |
+| `whiston-josephus-discourse-to-the-greeks-concerning-hades` | Flavius Josephus | An Extract out of Josephus's Discourse to The Greeks Concerning Hades | William Whiston | 1737 (see the Gutenberg header) | have | PG 2847 |
+| `whiston-josephus-the-life-of-flavius-josephus` | Flavius Josephus | The Life of Flavius Josephus | William Whiston | 1737 (see the Gutenberg header) | have | PG 2846 |
+| `whiston-josephus-the-wars-of-the-jews` | Flavius Josephus | The Wars of the Jews; Or, The History of the Destruction of Jerusalem | William Whiston | 1737 (see the Gutenberg header) | have | PG 2850 |
+
+## Kisari Mohan Ganguli (the complete prose Mahabharata, 4 vols)
+
+Shelf: `pipeline/ganguli_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ganguli` · titles `python3 pipeline/split_shelf_titles.py ganguli`.
+Round 34 (2026-10-10), vetoable. Gutenberg's single-parva files are left out as duplicates. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ganguli-vyasa-the-mahabharata-vol-1` | Vyasa (attributed) | The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1 Books 1, 2 and 3 | Kisari Mohan Ganguli | 1883-1896 (see the Gutenberg header) | have | PG 15474 |
+| `ganguli-vyasa-the-mahabharata-vol-2` | Vyasa (attributed) | The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2 Books 4, 5, 6 and 7 | Kisari Mohan Ganguli | 1883-1896 (see the Gutenberg header) | have | PG 15475 |
+| `ganguli-vyasa-the-mahabharata-vol-3` | Vyasa (attributed) | The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3 Books 8, 9, 10, 11 and 12 | Kisari Mohan Ganguli | 1883-1896 (see the Gutenberg header) | have | PG 15476 |
+| `ganguli-vyasa-the-mahabharata-vol-4` | Vyasa (attributed) | The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4 Books 13, 14, 15, 16, 17 and 18 | Kisari Mohan Ganguli | 1883-1896 (see the Gutenberg header) | have | PG 15477 |
+| — | — | pg-7864: A single parva of the same translation; the four volumes on this shelf hold all eighteen books. | — | — | excluded | — |
+| — | — | pg-7965: A single parva of the same translation; the four volumes on this shelf hold all eighteen books. | — | — | excluded | — |
+| — | — | pg-11894: A single parva of the same translation; the four volumes on this shelf hold all eighteen books. | — | — | excluded | — |
+| — | — | pg-12058: A single parva of the same translation; the four volumes on this shelf hold all eighteen books. | — | — | excluded | — |
+| — | — | pg-12333: A single parva of the same translation; the four volumes on this shelf hold all eighteen books. | — | — | excluded | — |
+
+## Manmatha Nath Dutt (prose Ramayana, 4 vols; Harivamsha; Vishnupuranam)
+
+Shelf: `pipeline/mn-dutt_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mn-dutt` · titles `python3 pipeline/split_shelf_titles.py mn-dutt`.
+Round 34 (2026-10-10), vetoable. Not R. C. Dutt (Lane D's dutt shelf). Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `mn-dutt-harivamsha` | Anonymous (the Harivamsha, the appendix to the Mahabharata) | A Prose English Translation of Harivamsha | Manmatha Nath Dutt | 1891-1897 (see the Gutenberg header) | have | PG 61937 |
+| `mn-dutt-valmiki-the-ramayana-vol-1` | Valmiki (attributed) | The Rāmāyana, Volume 1. Bālakāndam and Ayodhyākāndam | Manmatha Nath Dutt | 1891-1897 (see the Gutenberg header) | have | PG 57265 |
+| `mn-dutt-valmiki-the-ramayana-vol-2` | Valmiki (attributed) | The Rāmāyana, Volume 2. Āranya, Kishkindhā, and Sundara Kāndam | Manmatha Nath Dutt | 1891-1897 (see the Gutenberg header) | have | PG 57826 |
+| `mn-dutt-valmiki-the-ramayana-vol-3` | Valmiki (attributed) | The Rāmāyana, Volume 3. Yuddhakāndam | Manmatha Nath Dutt | 1891-1897 (see the Gutenberg header) | have | PG 60188 |
+| `mn-dutt-valmiki-the-ramayana-vol-4` | Valmiki (attributed) | The Rāmāyana, Volume 4. Uttara Kānda | Manmatha Nath Dutt | 1891-1897 (see the Gutenberg header) | have | PG 62496 |
+| `mn-dutt-vishnupuranam` | Anonymous (the Vishnu Purana) | A Prose English Translation of Vishnupuranam (Based on Professor H. H. Wilson's translation.) | Manmatha Nath Dutt (after H. H. Wilson) | 1891-1897 (see the Gutenberg header) | have | PG 66208 |
+
+## George Saintsbury (Marguerite of Navarre's Heptameron, 5 vols)
+
+Shelf: `pipeline/saintsbury-heptameron_shelf.json` · fetch `python3 pipeline/fetch_shelf.py saintsbury-heptameron` · titles `python3 pipeline/split_shelf_titles.py saintsbury-heptameron`.
+Round 34 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `saintsbury-heptameron-marguerite-the-heptameron-vol-1` | Marguerite of Navarre | The Tales of the Heptameron, Vol. 1 (of 5) | George Saintsbury | 1894 (see the Gutenberg header) | have | PG 17701 |
+| `saintsbury-heptameron-marguerite-the-heptameron-vol-2` | Marguerite of Navarre | The Tales of the Heptameron, Vol. 2 (of 5) | George Saintsbury | 1894 (see the Gutenberg header) | have | PG 17702 |
+| `saintsbury-heptameron-marguerite-the-heptameron-vol-3` | Marguerite of Navarre | The Tales of the Heptameron, Vol. 3 (of 5) | George Saintsbury | 1894 (see the Gutenberg header) | have | PG 17703 |
+| `saintsbury-heptameron-marguerite-the-heptameron-vol-4` | Marguerite of Navarre | The Tales of the Heptameron, Vol. 4 (of 5) | George Saintsbury | 1894 (see the Gutenberg header) | have | PG 17704 |
+| `saintsbury-heptameron-marguerite-the-heptameron-vol-5` | Marguerite of Navarre | The Tales of the Heptameron, Vol. 5 (of 5) | George Saintsbury | 1894 (see the Gutenberg header) | have | PG 17705 |
+| — | — | pg-28858: A linked index to the same Heptameron volumes, not a text. | — | — | excluded | — |
+
+## Vihari-Lala Mitra (The Yoga-Vasishtha, 7 parts)
+
+Shelf: `pipeline/viharilala-mitra_shelf.json` · fetch `python3 pipeline/fetch_shelf.py viharilala-mitra` · titles `python3 pipeline/split_shelf_titles.py viharilala-mitra`.
+Round 34 (2026-10-10), vetoable. Keyed from modern photo-reprints: flagged. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `viharilala-mitra-yoga-vasishtha-vol-1` | Valmiki (attributed) | The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 1 (of 4) | Vihari-Lala Mitra | 1891-1899 (see the Gutenberg header) | have | PG 71326 |
+| `viharilala-mitra-yoga-vasishtha-vol-2-part-1` | Valmiki (attributed) | The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 2 (of 4), Part 1 (of 2) | Vihari-Lala Mitra | 1891-1899 (see the Gutenberg header) | have | PG 71063 |
+| `viharilala-mitra-yoga-vasishtha-vol-2-part-2` | Valmiki (attributed) | The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 2 (of 4), Part 2 (of 2) | Vihari-Lala Mitra | 1891-1899 (see the Gutenberg header) | have | PG 71064 |
+| `viharilala-mitra-yoga-vasishtha-vol-3-part-1` | Valmiki (attributed) | The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 3 (of 4), Part 1 (of 2) | Vihari-Lala Mitra | 1891-1899 (see the Gutenberg header) | have | PG 71095 |
+| `viharilala-mitra-yoga-vasishtha-vol-3-part-2` | Valmiki (attributed) | The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 3 (of 4), Part 2 (of 2) | Vihari-Lala Mitra | 1891-1899 (see the Gutenberg header) | have | PG 46531 |
+| `viharilala-mitra-yoga-vasishtha-vol-4-part-1` | Valmiki (attributed) | The Yoga-Vasishtha Maharamayana of Valmiki, Vol 4 (of 4), Part 1 (of 2) | Vihari-Lala Mitra | 1891-1899 (see the Gutenberg header) | have | PG 71248 |
+| `viharilala-mitra-yoga-vasishtha-vol-4-part-2` | Valmiki (attributed) | The Yoga-Vasishtha Maharamayana of Valmiki, Vol. 4 (of 4), Part 2 (of 2) | Vihari-Lala Mitra | 1891-1899 (see the Gutenberg header) | have | PG 71249 |
+
+## Tobias Smollett as translator (Gil Blas, 3 vols; Don Quixote; Voltaire's Peter the Great)
+
+Shelf: `pipeline/smollett-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py smollett-translations` · titles `python3 pipeline/split_shelf_titles.py smollett-translations`.
+Round 34 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `smollett-translations-cervantes-don-quixote` | Miguel de Cervantes | The history and adventures of the renowned Don Quixote | Tobias Smollett | 1749-1761 (see the Gutenberg header) | have | PG 77095 |
+| `smollett-translations-le-sage-gil-blas-vol-1` | Alain-René Le Sage | The Adventures of Gil Blas of Santillane, Volume 1 (of 3) | Tobias Smollett | 1749-1761 (see the Gutenberg header) | have | PG 66677 |
+| `smollett-translations-le-sage-gil-blas-vol-2` | Alain-René Le Sage | The Adventures of Gil Blas of Santillane, Volume 2 (of 3) | Tobias Smollett | 1749-1761 (see the Gutenberg header) | have | PG 66678 |
+| `smollett-translations-le-sage-gil-blas-vol-3` | Alain-René Le Sage | The Adventures of Gil Blas of Santillane, Volume 3 (of 3) | Tobias Smollett | 1749-1761 (see the Gutenberg header) | have | PG 66679 |
+| `smollett-translations-voltaire-the-history-of-peter-the-great` | Voltaire | The History of Peter the Great, Emperor of Russia | Tobias Smollett | 1749-1761 (see the Gutenberg header) | have | PG 42540 |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
