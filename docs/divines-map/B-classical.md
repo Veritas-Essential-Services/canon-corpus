@@ -3071,6 +3071,7 @@ Shelf: `pipeline/haigh_shelf.json`. The Attic Theatre, Oxford: Clarendon Press 1
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Attic Theatre: a description of the stage and theatre of the Athenians (Oxford: Clarendon Press, 1889) |  | `haigh-attic-theatre-1889` | have-raw (IA `attictheatredesc00haiguoft`) |
 
 Pending (wishlist): The Tragic Drama of the Greeks (1896)
 

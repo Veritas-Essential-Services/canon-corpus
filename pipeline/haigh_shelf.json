@@ -1,0 +1,37 @@
+{
+ "_about": "Arthur Elam Haigh (1855-1905), The Attic Theatre (Oxford: Clarendon Press, 1889): The Attic Theatre: a description of the stage and theatre of the Athenians (Oxford: Clarendon Press, 1889), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "haigh"
+ ],
+ "_surname": [
+  "a. e. haigh",
+  "arthur elam haigh",
+  "haigh, a. e"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "haigh-attic-theatre-1889": [
+   "attictheatredesc00haiguoft",
+   "The Attic Theatre: a description of the stage and theatre of the Athenians (Oxford: Clarendon Press, 1889)"
+  ]
+ },
+ "_checks": {
+  "haigh-attic-theatre-1889": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "haigh-attic-theatre-1889": {
+   "author": "title page read 2026-10-10: OCR gives 'me & HALGH, MA, LATE FELLOW OF HERTFORD, AND CLASSICAL LECTURER AT CORPUS CHRISTI AND WADHAM COLLEGES' (A. E. Haigh), Oxford: Clarendon Press 1889; the OCR garbles the name line"
+  }
+ }
+}
