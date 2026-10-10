@@ -35,6 +35,11 @@
    "gpl_1772898",
    "Xenophon's Ephesian History: or the Love-Adventures of Abrocomas and Anthia, in five books (London, 1727)",
    "tr. unnamed in the OCR ('By Mr. ...', name illegible); attributed elsewhere to John Rooke, not verified here"
+  ],
+  "longus-day-1890": [
+   "daphnischloeeliz00long",
+   "Daphnis and Chloe: the Elizabethan version from Amyot's translation by Angel Day (1587), reprinted from the unique original and edited by Joseph Jacobs (London: David Nutt, 1890)",
+   "tr. Angel Day"
   ]
  },
  "_surname": [
@@ -47,12 +52,13 @@
  ],
  "_translators": {
   "greek-romances-smith": "Rowland Smith",
-  "heliodorus-underdowne-wright": "Thomas Underdowne"
+  "heliodorus-underdowne-wright": "Thomas Underdowne",
+  "longus-day-1890": "angel day"
  },
  "_checks": {
   "greek-romances-smith": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "heliodorus",
    "translator_claimed": "Rowland Smith",
@@ -64,7 +70,7 @@
   },
   "heliodorus-underdowne-wright": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "heliodorus",
    "translator_claimed": "Thomas Underdowne",
@@ -77,7 +83,7 @@
   },
   "chariton-1764-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "chariton",
    "identity": "ok",
@@ -88,7 +94,7 @@
   },
   "chariton-1764-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "chariton",
    "identity": "ok",
@@ -99,12 +105,25 @@
   },
   "xenophon-ephesius-1727": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "abrocomas",
    "identity": "ok",
    "ia_rights": "ok: published 1727",
    "ia_date": "1727",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "longus-day-1890": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "heliodorus",
+   "translator_claimed": "angel day",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
@@ -117,7 +136,8 @@
  "_excluded": {
   "bim_eighteenth-century_the-pastoral-amours-of-d_longus_1733": "The Pastoral Amours of Daphnis and Chloe (1733): ECCO OCR 0.69, below the lane's bar; wanted only from a cleaner scan",
   "Aristaenetus, Love Epistles (Halhed and Sheridan, 1771)": "PD; the ECCO scan reads at 0.54 clean words. Refused for OCR quality on 2026-10-03; wanted from a cleaner scan",
-  "Alciphron, Letters, 'literally and completely translated' (Athenian Society, 1896)": "the two IA scans (alciphronliteral00alcirich, alciphronlitera00alcigoog) read at 0.50 and 0.32 clean words, far below the lane's bar; the translator is unnamed in that privately printed edition. Not taken; wanted from a cleaner scan (or Beloe and Monro's 1791 version)"
+  "Alciphron, Letters, 'literally and completely translated' (Athenian Society, 1896)": "the two IA scans (alciphronliteral00alcirich, alciphronlitera00alcigoog) read at 0.50 and 0.32 clean words, far below the lane's bar; the translator is unnamed in that privately printed edition. Not taken; wanted from a cleaner scan (or Beloe and Monro's 1791 version)",
+  "daphnischloetran00longuoft": "Thornley's 1657 Daphnis and Chloe in a modern reprint that prints no year of its own (its bibliography cites a 1912 book; archive.org says 1920). Held back under the undated-row rule; the translation itself is public domain."
  },
  "_surname_by_slug": {
   "greek-romances-smith": [
