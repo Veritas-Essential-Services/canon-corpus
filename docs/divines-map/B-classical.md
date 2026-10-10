@@ -3061,6 +3061,7 @@ Shelf: `pipeline/butcher_shelf.json`. Harvard Lectures on Greek Subjects (1904).
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Harvard Lectures on Greek Subjects (New York: Macmillan, 1904) |  | `butcher-harvard-lectures-greek-subjects-1904` | have-raw (IA `harvardlectureso00butciala`) |
 
 Excluded: Aristotle's Theory of Poetry and Fine Art (1898; IA aristotlestheory00butc) (refused: OCR 0.69, Greek text facing)
 

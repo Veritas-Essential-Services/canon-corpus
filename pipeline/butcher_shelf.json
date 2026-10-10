@@ -1,0 +1,35 @@
+{
+ "_about": "Samuel Henry Butcher (1850-1910), Harvard Lectures on Greek Subjects (1904); his Aristotle's Theory of Poetry and Fine Art (Greek facing) reads 0.69 and is refused under the bar; his Odyssey with Lang is on the homer shelf: Harvard Lectures on Greek Subjects (New York: Macmillan, 1904), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "butcher"
+ ],
+ "_surname": [
+  "s. h. butcher",
+  "samuel henry butcher",
+  "butcher, s. h"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "butcher-harvard-lectures-greek-subjects-1904": [
+   "harvardlectureso00butciala",
+   "Harvard Lectures on Greek Subjects (New York: Macmillan, 1904)"
+  ]
+ },
+ "_excluded": {
+  "Aristotle's Theory of Poetry and Fine Art (1898; IA aristotlestheory00butc)": "refused: OCR 0.69, Greek text facing"
+ },
+ "_checks": {
+  "butcher-harvard-lectures-greek-subjects-1904": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. h. butcher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
