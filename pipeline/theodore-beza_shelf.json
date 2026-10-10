@@ -1,5 +1,5 @@
 {
- "_about": "Theodore Beza (1519-1605), Calvin's successor at Geneva, in Elizabethan translation: A Briefe and Pithie Summe of the Christian Faith, translated by R. F. (London, 1585); The Other Parte of Christian Questions and Answeres, translated by John Field (London, 1580); Christian Meditations upon Eight Psalmes (London, 1583, dedicated to Lady Anne Bacon); and Maister Bezaes Houshold Prayers (London, 1603). Elizabethan and Stuart English translations, as Early English Books Online scans on the Internet Archive; raw OCR of 16th- and 17th-century type (blackletter in places), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
+ "_about": "Theodore Beza (1519-1605), Calvin's successor at Geneva, in Elizabethan translation: A Briefe and Pithie Summe of the Christian Faith, translated by R. F. (London, 1585); The Other Parte of Christian Questions and Answeres, translated by John Field (London, 1580); Christian Meditations upon Eight Psalmes (London, 1583, dedicated to Lady Anne Bacon); Maister Bezaes Houshold Prayers (London, 1603); and A Shorte Learned and Pithie Treatize of the Plague, whether the plague be infectious and whether Christians may flee it, newly turned into English by John Stockwood, schoolmaster of Tunbridge (London: Thomas Dawson for George Bishop, 1580). Elizabethan and Stuart English translations, as Early English Books Online scans on the Internet Archive; raw OCR of 16th- and 17th-century type (blackletter in places), poor in places. Internet Archive OCR, raw and unconverted; each title page read before listing.",
  "_name_words": [
   "theodore beza",
   "theodore de beza",
@@ -20,12 +20,18 @@
   "beze",
   "bezaes"
  ],
+ "_translators": {
+  "beza-plague-1580": "Stockwood"
+ },
  "_identity_checked": {
   "beza-summe-christian-faith-1585": {
    "author": "The blackletter title page OCRs as 'Made by TasoD. DI BIZ A. Translated out of F[rench] by R. F.'; read as 'Made by Theod. de Beza, translated out of French by R. F.' The translator's dedication to the Earl of Huntingdon is signed 'Robert F' and says he knew the author."
   },
   "beza-houshold-prayers-1603": {
    "title": "The scan prints the long s, which the OCR keeps as 'ſ', so words such as 'Chriſtian' and 'Catholike' never match the plain spelling the title check looks for. The running head, 'Maiſter Bezaes Houſhold Prayers', is on nearly every page."
+  },
+  "beza-plague-1580": {
+   "author": "The OCR breaks the name: the title page reads 'Written in Latin by the famous & worthy divine Theodore Bex Vezclian' (Theodore Beza Vezelian, of Vézelay) 'and newly turned into English by John Stockwood, Schoolemaister of Tunbridge', imprinted by Thomas Dawson, 1580."
   }
  },
  "ccel": {},
@@ -46,10 +52,15 @@
   "beza-houshold-prayers-1603": [
    "bim_early-english-books-1475-1640_maister-bezaes-houshold-_beze-theodore-de_1603",
    "Maister Bezaes Houshold Prayers (London, 1603)"
+  ],
+  "beza-plague-1580": [
+   "bim_early-english-books-1475-1640_a-shorte-treatize-of-_beze-theodore-de_1580",
+   "A Shorte Learned and Pithie Treatize of the Plague, tr. John Stockwood (London, 1580)"
   ]
  },
  "_alternates": {
-  "bim_early-english-books-1475-1640_naister-bezas-houshold-_beze-theodore_1607": "Another printing of the Houshold Prayers."
+  "bim_early-english-books-1475-1640_naister-bezas-houshold-_beze-theodore_1607": "Another printing of the Houshold Prayers.",
+  "bim_early-english-books-1641-1700_a-learned-treatise-of-th_beze-theodore-de_1665, b30339911": "A Learned Treatise of the Plague (London: Thomas Ratcliffe, 1665), a later printing of the same treatise; b30339911 is Wellcome's copy."
  },
  "_pending": {
   "bim_early-english-books-1475-1640_a-booke-of-christian-que_beze-theodore_1578 (the first part of the Christian Questions)": "The scan holds 51 pages, too few for the book; left until a complete copy is found.",
@@ -60,7 +71,7 @@
  "_checks": {
   "beza-summe-christian-faith-1585": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": null,
    "title_weak": true,
@@ -72,7 +83,7 @@
   },
   "beza-christian-questions-2-1580": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "theodore beza",
    "identity": "ok",
@@ -83,7 +94,7 @@
   },
   "beza-meditations-eight-psalmes-1583": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "theodore beza",
    "identity": "ok",
@@ -94,12 +105,26 @@
   },
   "beza-houshold-prayers-1603": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "bezaes",
    "identity": "identity_override",
    "ia_rights": "ok: published 1603",
    "ia_date": "1603",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beza-plague-1580": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Stockwood",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1580",
+   "ia_date": "1580",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }

@@ -374,7 +374,7 @@ Calvin, Bullinger's Decades and the Zurich Letters (Parker Society), Ursinus and
 |---|---|---|
 | Peter Martyr Vermigli, The Common Places, tr. Marten (1583); Commentaries on Romans (1568) and Judges (1564) | have-raw | `peter-martyr-vermigli_shelf.json` |
 | Musculus, Common Places of Christian Religion, tr. John Man (1563) | have-raw | `wolfgang-musculus_shelf.json` |
-| Beza, A Briefe and Pithie Summe of the Christian Faith (1585), The Other Parte of Christian Questions (1580), Christian Meditations upon Eight Psalmes (1583), Houshold Prayers (1603) | have-raw | `theodore-beza_shelf.json`; the first part of the Questions is pending (the scan is incomplete) |
+| Beza, A Briefe and Pithie Summe of the Christian Faith (1585), The Other Parte of Christian Questions (1580), Christian Meditations upon Eight Psalmes (1583), Houshold Prayers (1603), A Shorte Learned and Pithie Treatize of the Plague, tr. John Stockwood (1580) | have-raw | `theodore-beza_shelf.json`; the first part of the Questions is pending (the scan is incomplete) |
 | Polanus, The Substance of Christian Religion (1595) | have-raw | `amandus-polanus_shelf.json`; the 1599 Treatise of Predestination is pending, its OCR never names him |
 | Wollebius, The Abridgment of Christian Divinitie, tr. Alexander Ross (3rd ed., 1660) | have-raw | `johannes-wollebius_shelf.json` |
 | Bucanus, Institutions of Christian Religion, tr. Robert Hill (1606) | have-raw | `william-bucanus_shelf.json` |
