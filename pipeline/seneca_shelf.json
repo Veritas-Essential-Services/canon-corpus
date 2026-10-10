@@ -102,6 +102,12 @@
    "cu31924104730209",
    "The Ten Tragedies of Seneca, with notes, rendered into English prose as equivalently as the idioms of both languages permit (London: Swan Sonnenschein, 1902)",
    "tr. Watson Bradshaw"
+  ],
+  "seneca-ball-apocolocyntosis-1902": [
+   "SatireOfSenecaOnTheApotheosisOfClaudiusCommonlyCalledThe",
+   "The Satire of Seneca on the Apotheosis of Claudius, commonly called the Apocolocyntosis: a study (New York: Columbia University Press, 1902), Latin text with English translation",
+   "SatireSenecaApotheosisClaudius_266pgs_djvu.txt",
+   "tr. Allan Perley Ball"
   ]
  },
  "_excluded": {
@@ -129,12 +135,13 @@
   "seneca-basore-moral-essays-v1": "John W. Basore",
   "seneca-miller-loeb-tragedies-v1": "Frank Justus Miller",
   "seneca-miller-loeb-tragedies-v2": "Frank Justus Miller",
-  "seneca-bradshaw-tragedies-1902": "Watson Bradshaw"
+  "seneca-bradshaw-tragedies-1902": "Watson Bradshaw",
+  "seneca-ball-apocolocyntosis-1902": "allan perley ball"
  },
  "_checks": {
   "seneca-stewart-benefits": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "translator_claimed": "Aubrey Stewart",
@@ -146,7 +153,7 @@
   },
   "seneca-stewart-minor-dialogues": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "translator_claimed": "Aubrey Stewart",
@@ -158,7 +165,7 @@
   },
   "seneca-lestrange-morals": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "translator_claimed": "Roger L'Estrange",
@@ -170,7 +177,7 @@
   },
   "seneca-clarke-natural-questions": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "translator_claimed": "John Clarke",
@@ -182,7 +189,7 @@
   },
   "seneca-miller-tragedies": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "translator_claimed": "Frank Justus Miller",
@@ -194,7 +201,7 @@
   },
   "seneca-harris-medea-troy": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "translator_claimed": "Ella Isabel Harris",
@@ -206,7 +213,7 @@
   },
   "seneca-hall-octavia": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "translator_claimed": "Elizabeth Twining Hall",
@@ -218,7 +225,7 @@
   },
   "seneca-rouse-apocolocyntosis": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "translator_claimed": "W. H. D. Rouse",
@@ -230,7 +237,7 @@
   },
   "seneca-super-providentia": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "translator_claimed": "Charles W. Super",
@@ -241,7 +248,7 @@
   },
   "seneca-gummere-epistles-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "translator_claimed": "Richard M. Gummere",
@@ -254,7 +261,7 @@
   },
   "seneca-gummere-epistles-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "translator_claimed": "Richard M. Gummere",
@@ -267,7 +274,7 @@
   },
   "seneca-gummere-epistles-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "translator_claimed": "Richard M. Gummere",
@@ -280,7 +287,7 @@
   },
   "seneca-basore-moral-essays-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "translator_claimed": "John W. Basore",
@@ -293,7 +300,7 @@
   },
   "seneca-miller-loeb-tragedies-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "translator_claimed": "Frank Justus Miller",
@@ -306,7 +313,7 @@
   },
   "seneca-miller-loeb-tragedies-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "translator_claimed": "Frank Justus Miller",
@@ -319,7 +326,7 @@
   },
   "seneca-lodge-workes-1614": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "identity": "ok",
@@ -330,7 +337,7 @@
   },
   "seneca-morell-epistles-1786-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "identity": "ok",
@@ -341,7 +348,7 @@
   },
   "seneca-morell-epistles-1786-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "identity": "ok",
@@ -352,10 +359,23 @@
   },
   "seneca-bradshaw-tragedies-1902": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "seneca",
    "translator_claimed": "Watson Bradshaw",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "seneca-ball-apocolocyntosis-1902": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "seneca",
+   "translator_claimed": "allan perley ball",
    "translator_in_text": true,
    "identity": "ok",
    "ia_rights": "ok: published 1902",

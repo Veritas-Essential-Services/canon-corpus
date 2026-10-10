@@ -879,6 +879,7 @@ Shelf: `pipeline/seneca_shelf.json`. Translator per title, all clean Gutenberg: 
 | The Epistles of Lucius Annaeus Seneca, with large annotations, vol. I (London: Woodfall for Robinson, MDCCLXXXVI) | Thomas Morell | `seneca-morell-epistles-1786-v1` | have-raw (IA `epistlesluciusa01senegoog`) |
 | The Epistles of Lucius Annaeus Seneca, with large annotations, vol. II (London: Woodfall for Robinson, MDCCLXXXVI) | Thomas Morell | `seneca-morell-epistles-1786-v2` | have-raw (IA `epistlesluciusa00senegoog`) |
 | The Ten Tragedies of Seneca, with notes, rendered into English prose as equivalently as the idioms of both languages permit (London: Swan Sonnenschein, 1902) | Watson Bradshaw | `seneca-bradshaw-tragedies-1902` | have-raw (IA `cu31924104730209`) |
+| The Satire of Seneca on the Apotheosis of Claudius, commonly called the Apocolocyntosis: a study (New York: Columbia University Press, 1902), Latin text with English translation | Allan Perley Ball | `seneca-ball-apocolocyntosis-1902` | have-raw (IA `SatireOfSenecaOnTheApotheosisOfClaudiusCommonlyCalledThe`) |
 
 Pending (wishlist): Basore's Moral Essays vols. 2-3 (1932-35, not PD).
 
