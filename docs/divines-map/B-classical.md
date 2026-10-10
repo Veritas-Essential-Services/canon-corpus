@@ -3170,6 +3170,7 @@ Shelf: `pipeline/guhl-koner_shelf.json`. The Life of the Greeks and Romans, tr. 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Life of the Greeks and Romans Described from Antique Monuments (London: Chapman and Hall, 1875) | F. Hueffer | `guhl-koner-life-greeks-romans-1875` | have-raw (IA `lifeofgreeksroma00guhl`) |
 
 ## Hugo Blümner (scholarship)
 
