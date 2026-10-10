@@ -2273,6 +2273,17 @@ Slugs `jdickinson-*`.
 |---|---|---|
 | Familiar Letters (1841 ed.); The True Scripture Doctrine (1841 ed.) | have-ocr | IA, OCR 99% |
 | Sermons and Tracts (Edinburgh, M.DCC.XCIII) | have-ocr | IA, OCR 83%: long s |
+
+## John Davenport (round 14, my pick, 2026-10-09)
+
+Slugs `jdavenport-*`. The New Haven founder (1597-1670).
+
+| Work | Status | Where |
+|---|---|---|
+| Election Sermon of 1669 (ed. Lindsay Swift, 1906) | have-ocr | IA, OCR 88% |
+| The Knowledge of Christ (1653); Another Essay (1663); The Power of Congregational Churches (1672); An Apologeticall Reply (1636) | have-ocr | IA Early English Books scans, OCR 81-87%: 17th-century type, poor |
+| A Catechisme (1659) | excluded | OCR is noise |
+| A Discourse about Civil Government (1663) | excluded | title page attributes it to John Cotton |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

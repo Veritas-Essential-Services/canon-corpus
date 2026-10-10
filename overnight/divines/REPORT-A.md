@@ -697,3 +697,6 @@
 
 ## 2026-10-09 22:17 CDT — jonathan-dickinson done
 - `pipeline/jonathan-dickinson_shelf.json`: 3 IA (True Scripture Doctrine is a "0000"-style id; title page reads 1841). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-09 22:19 CDT — john-davenport done
+- `pipeline/john-davenport_shelf.json`: 5 IA, four of them Early English Books scans with poor OCR (labelled). Power of Congregational Churches failed the name gate on OCR ("Joun DaVENPORT"); title page read, in `_identity_checked`. Catechisme excluded (OCR noise); Civil Government excluded (Cotton). `--verify --record`: 0 mismatched. 0 uids minted.

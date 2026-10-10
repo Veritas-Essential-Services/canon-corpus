@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-09 22:17 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-09 22:19 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -285,6 +285,7 @@ Round 13 was done by 06:48 CDT on 3 October. Round 14 turns to Victorian Anglica
 | George Matheson | george-matheson_shelf.json | none | 9 (Growth of the Spirit of Christianity 2 vols 1877; Portrait of Christ 2 vols 1899-1900; St Paul 1897; Old Faith 1885; Natural Elements 1881; Sacred Songs 1891; Moments on the Mount 7th ed., no year) | none | Moments on the Mount has no year on its title page |
 | Henry Boynton Smith | henry-boynton-smith_shelf.json | none | 4 (System of Christian Theology 1884; Introduction to Christian Theology 1883; Apologetics 1882; Faith and Philosophy 1877) | none | three are posthumous, edited from lectures |
 | Jonathan Dickinson | jonathan-dickinson_shelf.json | none | 3 (Familiar Letters 1841 ed.; True Scripture Doctrine 1841 ed.; Sermons and Tracts, Edinburgh 1793) | none | the 1793 volume's OCR is 83% (long s) |
+| John Davenport | john-davenport_shelf.json | none | 5 (Election Sermon of 1669, 1906 ed.; Knowledge of Christ 1653; Another Essay 1663; Power of Congregational Churches 1672; Apologeticall Reply 1636) | Catechisme 1659 (OCR is noise); Discourse about Civil Government (title page says Cotton) | four are Early English Books scans, OCR 81-87% |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
