@@ -2967,6 +2967,22 @@ Slugs `scofield-*`. His own books, not the Reference Bible. Three items are comp
 | IA plainpapersondoc0000unse (Baker 1966), bwb_Y0-AID-318, isbn_9781330577295, a retyped What Do the Prophets Say?: modern reprints | excluded | |
 | Spanish translations | excluded | |
 | Cora L., Carl S., Glenni W., Charles Josiah and Anna Bishop Scofield | excluded | |
+
+## H. A. Ironside (round 18, my pick, 2026-10-10)
+
+Slugs `ironside-*`. Held to printings before 1930. Nearly every scan of his books is a 1940s-1980s Loizeaux printing; five pre-1930 items qualify, and three undated ones wait in _pending.
+
+| Work | Status | Where |
+|---|---|---|
+| The Only Two Religions; and Other Gospel Papers (New York: Loizeaux Brothers; Toronto: Home Friend Office; no year on title page, catalogued 1912) | have-ocr | IA `cihm_66028` |
+| Notes on the Book of Esther (New York: Loizeaux Brothers, 1 East 13th Street; no year on title page, catalogued 1921) | have-ocr | IA `notes-on-the-book-of-esther` |
+| Notes on the Book of Nehemiah, revised edition (New York: Loizeaux Brothers, 1 East 13th Street; no year on title page, catalogued 1925) | have-ocr | IA `notesonbookofneh0000iron` |
+| Notes on the Minor Prophets (New York: Loizeaux Brothers, set up and printed January 1928) | have-ocr | IA `bwb_T5-CWQ-371` |
+| A Life Laid Down: A Brief Memoir of Fannie M. Arthur (Oakland: Western Book and Tract Co.; New York: Loizeaux Brothers, 1 East 13th Street; no year on title page, catalogue year wrong) | have-ocr | IA `lifelaiddown0000hair` |
+| Esther, revised edition with a December 1921 preface (IA notesonbookofest0000iron, notesonbookofest0000unse) | alternate | not shelved |
+| Evangelistic Songs, a hymnal he compiled (Oakland: Western Book and Tract Co.; catalogued 1925; IA evangelisticsong00iron) | alternate | not shelved |
+| More than twenty Loizeaux printings from 1941 to 1986 (Neptune, NJ, numbered editions, Zondervan 1940) of Daniel, Revelation, Philippians, Colossians, Holiness, Minor Prophets, Prophecy and others: after 1930 | excluded | |
+| IA machinegundrillsignalscontrolironside: the British army officer | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -829,3 +829,6 @@
 
 ## 2026-10-10 11:54 CDT — c-i-scofield done
 - `pipeline/c-i-scofield_shelf.json`: 0 CCEL, 0 PG, 12 IA. Course of Study vols. 1-3 carry only a 1907 copyright, no printing year. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — h-a-ironside done
+- `pipeline/h-a-ironside_shelf.json`: 0 CCEL, 0 PG, 5 IA. The Loizeaux address on the title page (1 East 13th Street) is the dating evidence for two undated items. `--verify --record`: 0 mismatched. 0 uids minted.
