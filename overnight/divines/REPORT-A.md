@@ -931,3 +931,6 @@
 
 ## 2026-10-10 14:05 CDT — andrew-jukes done
 - `pipeline/andrew-jukes_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for jukes-law-of-offerings, jukes-new-man (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:05 CDT — h-w-soltau done
+- `pipeline/h-w-soltau_shelf.json`: 0 CCEL, 0 PG, 4 IA. Title pages read for soltau-soul-difficulties (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

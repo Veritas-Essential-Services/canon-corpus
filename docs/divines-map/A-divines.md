@@ -3847,3 +3847,20 @@ Slugs `jukes-*`. Typological expositor. The Second Death's 1867 first edition pr
 | Later editions of Law of the Offerings, Four Gospels, Types of Genesis (to 1910), Names of God (1889) and American issues of The New Man | alternate | not shelved |
 | Kregel, Portavoz and Concordant reprints (1966-2013); undated Pickering and Inglis Law of the Offerings, probably after 1930 | excluded | |
 | J. Beete Jukes and others | excluded | |
+
+## Henry W. Soltau (round 20, my pick, 2026-10-10)
+
+Slugs `soltau-*`. Brethren writer on the tabernacle; every title page is undated.
+
+| Work | Status | Where |
+|---|---|---|
+| The Holy Vessels and Furniture of the Tabernacle of Israel (London: Yapp and Hawkins; S. W. Partridge; no year on title page) | have-ocr | IA `TheHolyVesselsAndFurnitureOfTheTabernacleByHenryWilliamSoltau` |
+| A Full Exposition of the Tabernacle; the Priestly Garments and the Priesthood (London: Morgan and Chase and W. Yapp; issued in parts from January 1864, volume title page undated) | have-ocr | IA `AnExpositionOfTheTabernacleThePriestlyGarmentsByHenryWilliamSoltau` |
+| The Tabernacle, the Priesthood, and the Offerings (London: Morgan and Scott; no year on title page, catalogued 1875) | have-ocr | IA `tabernaclepriest00solt` |
+| The Soul and its Difficulties, forty-first thousand (London: Yapp and Hawkins; no year on title page, IA's 1825 date is wrong) | have-ocr | IA `soulitsdifficult00solt` |
+| Other copies: soulitsdifficult0000solt; re-uploads of the Princeton Tabernacle scan; Morgan and Scott copies in dli.ministry.23582, in.ernet.dli.2015.200645 and 219433 | alternate | not shelved |
+| Pleasant Hymns for Boys and Girls (Morgan and Scott): no compiler named on the title page; attribution is the uploader's | alternate | not shelved |
+| George Soltau (his son) is a different author: Four Portraits of the Lord Jesus Christ (1905), Typical Characters of the Lord Jesus, The Person and Mission of the Holy Spirit; not shelved here | alternate | not shelved |
+| Italian translation (Florence, 1866) | excluded | |
+| Kregel reprints (1965-1998) | excluded | |
+| G. W. Soltau and others | excluded | |
