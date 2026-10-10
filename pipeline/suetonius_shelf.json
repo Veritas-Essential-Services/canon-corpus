@@ -22,10 +22,16 @@
    "suetoniushollandtwelvecaesars",
    "The Historie of Twelve Caesars, Emperours of Rome (London, 1606)",
    "tr. Philemon Holland"
+  ],
+  "suetonius-thomson-1796": [
+   "bim_eighteenth-century_the-lives-of-the-first-t_suetonius_1796",
+   "The Lives of the First Twelve Caesars, translated from the Latin, with annotations and a review of the government and literature of the different periods (London: G. G. and J. Robinson, 1796), the unrevised first edition of the version Forester later revised",
+   "tr. Alexander Thomson"
   ]
  },
  "_excluded": {
-  "pg6386-6399": "the same text split into 14 files"
+  "pg6386-6399": "the same text split into 14 files",
+  "Suetonius, The Lives of the XII Caesars (1717, 2 vols.; translated by several hands)": "PD; the only scans found (IA bim_eighteenth-century_the-lives-of-the-xii-c_suetonius_1717_1 and _2, ECCO) read 0.762 and 0.755; refused for OCR quality 2026-10-10"
  },
  "_surname": [
   "suetonius"
@@ -33,12 +39,13 @@
  "_translators": {
   "suetonius-thomson-forester": "Alexander Thomson",
   "suetonius-rolfe-v2": "J. C. Rolfe",
-  "suetonius-holland-1606": "philémon holland"
+  "suetonius-holland-1606": "philémon holland",
+  "suetonius-thomson-1796": "alexander thomson"
  },
  "_checks": {
   "suetonius-thomson-forester": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "suetonius",
    "translator_claimed": "Alexander Thomson",
@@ -50,7 +57,7 @@
   },
   "suetonius-rolfe-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "suetonius",
    "translator_claimed": "J. C. Rolfe",
@@ -63,7 +70,7 @@
   },
   "suetonius-holland-1606": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "suetonius",
    "translator_claimed": "philémon holland",
@@ -71,6 +78,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1606",
    "ia_date": "1606",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "suetonius-thomson-1796": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "suetonius",
+   "translator_claimed": "alexander thomson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1796",
+   "ia_date": "1796",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
