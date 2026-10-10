@@ -8723,6 +8723,14 @@ Shelf: `pipeline/mary-eastman_shelf.json` (2026-10-02; added at the coordinator'
 |---|---|---|
 | Dahcotah: Life and Legends of the Sioux Around Fort Snelling | have | PG 10794, `meastman-dahcotah` (1184 units) |
 
+## James Napier
+
+Shelf: `pipeline/napier_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Superstitions of the West of Scotland; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Folk lore | have | PG 15792, `napier-folk-lore-west-of-scotland` (403 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

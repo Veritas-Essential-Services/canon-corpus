@@ -1,0 +1,45 @@
+{
+ "_about": "James Napier's Folk Lore; or, Superstitious Beliefs in the West of Scotland within This Century (1879). Gutenberg catalogue: Napier 1810-1884. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "James Napier",
+ "_name_words": [
+  "scotland"
+ ],
+ "_surname": [
+  "james napier"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "napier-folk-lore-west-of-scotland": [
+   15792,
+   "Folk lore",
+   {
+    "levels": [
+     {
+      "re": "PREFACE$|CHAPTER [IVX]+\\.$|APPENDIX\\.$",
+      "title_next": true,
+      "strip": "\\.$|_"
+     },
+     {
+      "re": "_[A-Z][^a-z]*\\._$|INDEX\\.$",
+      "strip": "\\._$|\\.$|_"
+     }
+    ],
+    "start": "PREFACE$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "napier-folk-lore-west-of-scotland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james napier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
