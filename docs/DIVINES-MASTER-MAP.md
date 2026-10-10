@@ -8899,6 +8899,14 @@ Shelf: `pipeline/patrick-buchan_shelf.json` (2026-10-02; added at the coordinato
 |---|---|---|
 | Legends of the North: The Guidman O' Inglismill and The Fairy Bride | have | PG 37375, `pbuchan-legends-of-the-north` (218 units) |
 
+## William Henry Furness 3d
+
+Shelf: `pipeline/furness_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). A sketch of Bornean folklore; one essay. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Folk-lore in Borneo | have | PG 30233, `furness-folk-lore-in-borneo` (51 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
