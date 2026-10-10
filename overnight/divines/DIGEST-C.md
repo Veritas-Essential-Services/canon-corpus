@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T09:45-05:00: 56 shelves, 248 titles, 12 of them cross-references (Volsunga moved to a cross-reference 2026-10-10; round 13: Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1; round 12: Magnússon-Morris 3, Strindberg 14; round 11: Archer's Ibsen 11; round 10: Ryder 5, Gertrude Bell 1, Levy Nietzsche 15; round 9, Scott Moncrieff: 9; Ransome translations, 2026-10-10: 2; rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11; round 7: 12; round 8: 8 — Symonds 3, Blackie 2, Theodore Martin 1, Hearn 2). **11 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
+Totals 2026-10-10T10:05-05:00: 58 shelves, 305 titles (round 14: Wormeley 41, Vizetelly 16), 12 of them cross-references (Volsunga moved to a cross-reference 2026-10-10; round 13: Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1; round 12: Magnússon-Morris 3, Strindberg 14; round 11: Archer's Ibsen 11; round 10: Ryder 5, Gertrude Bell 1, Levy Nietzsche 15; round 9, Scott Moncrieff: 9; Ransome translations, 2026-10-10: 2; rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11; round 7: 12; round 8: 8 — Symonds 3, Blackie 2, Theodore Martin 1, Hearn 2). **11 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -158,3 +158,12 @@ Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 ## Fix: Volsunga Saga overlap (2026-10-10)
 
 In round 12 I shelved Magnússon and Morris's *Volsunga Saga* (PG 1152), which Lane D has held on `poetic-edda_shelf.json` since October 3. I missed it in my overlap check. It is now a cross-reference (`held_in`) on `morris-magnusson`, and the duplicate source is gone. Re-verified: 0 mismatched.
+
+## Round 14: Wormeley's Balzac and Vizetelly's Zola (2026-10-10)
+
+From this round on, every Gutenberg and archive.org id is checked against every shelf on every branch before anything is shelved. A re-run over all of lane C's shelves found no clash other than the Volsunga one, which is now fixed.
+
+- **`wormeley`** (41 titles, Gutenberg): Katharine Prescott Wormeley's Balzac (Roberts Brothers, Boston, 1885-1900), plus Daudet's *Tartarin on the Alps*, Sand's *The Bagpipers* and Balzac's *Letters to Madame Hanska*. Five texts had no Gutenberg cache copy, so they were fetched by hand and are noted in `_manual_fetch`. *The Celibates* is excluded because two of its three novels are already shelved singly. Waring's *Cousin Bette* stays on Adler's shelf.
+- **`vizetelly`** (16 titles, Gutenberg): Ernest Alfred Vizetelly's Zola (Chatto and Windus, 1886-1906), including the Three Cities as complete single novels rather than Gutenberg's split volumes. Gutenberg names him as editor rather than translator for *The Fortune of the Rougons* and *His Masterpiece*. Those two say they revise an earlier version, so their titles say so.
+
+The `translated` field gives the series' date range, not each book's first year. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. **Your call:** none beyond the veto.

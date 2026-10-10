@@ -1,0 +1,1104 @@
+{
+ "_about": "TRANSLATOR SHELF: Katharine Prescott Wormeley (1830-1908): her Balzac (Roberts Brothers, Boston, 1885-1900, some 40 volumes, the first full American Comédie humaine), plus Daudet, George Sand and Balzac's letters. US public domain (pre-1931), PD everywhere. Added 2026-10-10 by lane C (round 14); Adam may veto. James Waring's Cousin Bette stays on adler_shelf.json (another translator). No uids minted.",
+ "_name_words": [
+  "katharine prescott wormeley",
+  "k. p. wormeley",
+  "wormeley"
+ ],
+ "_surname": [
+  "katharine prescott wormeley",
+  "k. p. wormeley",
+  "wormeley"
+ ],
+ "_surname_note": "Full name or the bare surname, which is not an English word.",
+ "ccel": {},
+ "gutenberg": {
+  "wo-1223": [
+   1223,
+   "Ursula"
+  ],
+  "wo-1230": [
+   1230,
+   "Pierre Grassou"
+  ],
+  "wo-1242": [
+   1242,
+   "Unconscious Comedians"
+  ],
+  "wo-1343": [
+   1343,
+   "Bureaucracy"
+  ],
+  "wo-1344": [
+   1344,
+   "The Secrets of the Princesse de Cadignan"
+  ],
+  "wo-1345": [
+   1345,
+   "The Vicar of Tours"
+  ],
+  "wo-1352": [
+   1352,
+   "An Old Maid"
+  ],
+  "wo-1357": [
+   1357,
+   "Madame Firmiani"
+  ],
+  "wo-1369": [
+   1369,
+   "Paz (La Fausse Maitresse)"
+  ],
+  "wo-1373": [
+   1373,
+   "Study of a Woman"
+  ],
+  "wo-1374": [
+   1374,
+   "Vendetta"
+  ],
+  "wo-1380": [
+   1380,
+   "The Two Brothers"
+  ],
+  "wo-1403": [
+   1403,
+   "A Start in Life"
+  ],
+  "wo-1417": [
+   1417,
+   "Sons of the Soil"
+  ],
+  "wo-1425": [
+   1425,
+   "El Verdugo"
+  ],
+  "wo-1426": [
+   1426,
+   "The Recruit"
+  ],
+  "wo-1427": [
+   1427,
+   "A Drama on the Seashore"
+  ],
+  "wo-1432": [
+   1432,
+   "Seraphita"
+  ],
+  "wo-1433": [
+   1433,
+   "The Red Inn"
+  ],
+  "wo-1437": [
+   1437,
+   "Juana"
+  ],
+  "wo-1453": [
+   1453,
+   "The Alkahest"
+  ],
+  "wo-1454": [
+   1454,
+   "Maitre Cornelius"
+  ],
+  "wo-1455": [
+   1455,
+   "The Hated Son"
+  ],
+  "wo-1474": [
+   1474,
+   "The Illustrious Gaudissart"
+  ],
+  "wo-1481": [
+   1481,
+   "A Daughter of Eve"
+  ],
+  "wo-1482": [
+   1482,
+   "Modeste Mignon"
+  ],
+  "wo-1553": [
+   1553,
+   "The Hidden Masterpiece"
+  ],
+  "wo-1554": [
+   1554,
+   "Adieu"
+  ],
+  "wo-1556": [
+   1556,
+   "The Marriage Contract"
+  ],
+  "wo-1569": [
+   1569,
+   "The Lily of the Valley"
+  ],
+  "wo-1641": [
+   1641,
+   "The Lesser Bourgeoisie"
+  ],
+  "wo-1649": [
+   1649,
+   "Ferragus, Chief of the Dévorants"
+  ],
+  "wo-1715": [
+   1715,
+   "Eugenie Grandet"
+  ],
+  "wo-1854": [
+   1854,
+   "Catherine De Medici"
+  ],
+  "wo-1871": [
+   1871,
+   "The Deputy of Arcis"
+  ],
+  "wo-1899": [
+   1899,
+   "The Village Rector"
+  ],
+  "wo-1957": [
+   1957,
+   "Beatrix"
+  ],
+  "wo-1967": [
+   1967,
+   "The Brotherhood of Consolation"
+  ],
+  "wo-25768": [
+   25768,
+   "Tartarin on the Alps"
+  ],
+  "wo-54466": [
+   54466,
+   "Letters to Madame Hanska, born Countess Rzewuska, aft"
+  ],
+  "wo-66513": [
+   66513,
+   "The Bagpipers"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "wormeley-balzac-ursula": {
+   "source": "wo-1223",
+   "of": "Honoré de Balzac",
+   "work": "Ursula",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1223 (clean text)"
+  },
+  "wormeley-balzac-pierre-grassou": {
+   "source": "wo-1230",
+   "of": "Honoré de Balzac",
+   "work": "Pierre Grassou",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1230 (clean text)"
+  },
+  "wormeley-balzac-unconscious-comedians": {
+   "source": "wo-1242",
+   "of": "Honoré de Balzac",
+   "work": "Unconscious Comedians",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1242 (clean text)"
+  },
+  "wormeley-balzac-bureaucracy": {
+   "source": "wo-1343",
+   "of": "Honoré de Balzac",
+   "work": "Bureaucracy",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1343 (clean text)"
+  },
+  "wormeley-balzac-the-secrets-of-the-princesse-de-cadignan": {
+   "source": "wo-1344",
+   "of": "Honoré de Balzac",
+   "work": "The Secrets of the Princesse de Cadignan",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1344 (clean text)"
+  },
+  "wormeley-balzac-the-vicar-of-tours": {
+   "source": "wo-1345",
+   "of": "Honoré de Balzac",
+   "work": "The Vicar of Tours",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1345 (clean text)"
+  },
+  "wormeley-balzac-an-old-maid": {
+   "source": "wo-1352",
+   "of": "Honoré de Balzac",
+   "work": "An Old Maid",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1352 (clean text)"
+  },
+  "wormeley-balzac-madame-firmiani": {
+   "source": "wo-1357",
+   "of": "Honoré de Balzac",
+   "work": "Madame Firmiani",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1357 (clean text)"
+  },
+  "wormeley-balzac-paz-la-fausse-maitresse": {
+   "source": "wo-1369",
+   "of": "Honoré de Balzac",
+   "work": "Paz (La Fausse Maitresse)",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1369 (clean text)"
+  },
+  "wormeley-balzac-study-of-a-woman": {
+   "source": "wo-1373",
+   "of": "Honoré de Balzac",
+   "work": "Study of a Woman",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1373 (clean text)"
+  },
+  "wormeley-balzac-vendetta": {
+   "source": "wo-1374",
+   "of": "Honoré de Balzac",
+   "work": "Vendetta",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1374 (clean text)"
+  },
+  "wormeley-balzac-the-two-brothers": {
+   "source": "wo-1380",
+   "of": "Honoré de Balzac",
+   "work": "The Two Brothers",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1380 (clean text)"
+  },
+  "wormeley-balzac-a-start-in-life": {
+   "source": "wo-1403",
+   "of": "Honoré de Balzac",
+   "work": "A Start in Life",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1403 (clean text)"
+  },
+  "wormeley-balzac-sons-of-the-soil": {
+   "source": "wo-1417",
+   "of": "Honoré de Balzac",
+   "work": "Sons of the Soil",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1417 (clean text)"
+  },
+  "wormeley-balzac-el-verdugo": {
+   "source": "wo-1425",
+   "of": "Honoré de Balzac",
+   "work": "El Verdugo",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1425 (clean text)"
+  },
+  "wormeley-balzac-the-recruit": {
+   "source": "wo-1426",
+   "of": "Honoré de Balzac",
+   "work": "The Recruit",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1426 (clean text)"
+  },
+  "wormeley-balzac-a-drama-on-the-seashore": {
+   "source": "wo-1427",
+   "of": "Honoré de Balzac",
+   "work": "A Drama on the Seashore",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1427 (clean text)"
+  },
+  "wormeley-balzac-seraphita": {
+   "source": "wo-1432",
+   "of": "Honoré de Balzac",
+   "work": "Seraphita",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1432 (clean text)"
+  },
+  "wormeley-balzac-the-red-inn": {
+   "source": "wo-1433",
+   "of": "Honoré de Balzac",
+   "work": "The Red Inn",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1433 (clean text)"
+  },
+  "wormeley-balzac-juana": {
+   "source": "wo-1437",
+   "of": "Honoré de Balzac",
+   "work": "Juana",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1437 (clean text)"
+  },
+  "wormeley-balzac-the-alkahest": {
+   "source": "wo-1453",
+   "of": "Honoré de Balzac",
+   "work": "The Alkahest",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1453 (clean text)"
+  },
+  "wormeley-balzac-maitre-cornelius": {
+   "source": "wo-1454",
+   "of": "Honoré de Balzac",
+   "work": "Maitre Cornelius",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1454 (clean text)"
+  },
+  "wormeley-balzac-the-hated-son": {
+   "source": "wo-1455",
+   "of": "Honoré de Balzac",
+   "work": "The Hated Son",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1455 (clean text)"
+  },
+  "wormeley-balzac-the-illustrious-gaudissart": {
+   "source": "wo-1474",
+   "of": "Honoré de Balzac",
+   "work": "The Illustrious Gaudissart",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1474 (clean text)"
+  },
+  "wormeley-balzac-a-daughter-of-eve": {
+   "source": "wo-1481",
+   "of": "Honoré de Balzac",
+   "work": "A Daughter of Eve",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1481 (clean text)"
+  },
+  "wormeley-balzac-modeste-mignon": {
+   "source": "wo-1482",
+   "of": "Honoré de Balzac",
+   "work": "Modeste Mignon",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1482 (clean text)"
+  },
+  "wormeley-balzac-the-hidden-masterpiece": {
+   "source": "wo-1553",
+   "of": "Honoré de Balzac",
+   "work": "The Hidden Masterpiece",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1553 (clean text)"
+  },
+  "wormeley-balzac-adieu": {
+   "source": "wo-1554",
+   "of": "Honoré de Balzac",
+   "work": "Adieu",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1554 (clean text)"
+  },
+  "wormeley-balzac-the-marriage-contract": {
+   "source": "wo-1556",
+   "of": "Honoré de Balzac",
+   "work": "The Marriage Contract",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1556 (clean text)"
+  },
+  "wormeley-balzac-the-lily-of-the-valley": {
+   "source": "wo-1569",
+   "of": "Honoré de Balzac",
+   "work": "The Lily of the Valley",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1569 (clean text)"
+  },
+  "wormeley-balzac-the-lesser-bourgeoisie": {
+   "source": "wo-1641",
+   "of": "Honoré de Balzac",
+   "work": "The Lesser Bourgeoisie",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1641 (clean text)"
+  },
+  "wormeley-balzac-ferragus-chief-of-the-d-vorants": {
+   "source": "wo-1649",
+   "of": "Honoré de Balzac",
+   "work": "Ferragus, Chief of the Dévorants",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1649 (clean text)"
+  },
+  "wormeley-balzac-eugenie-grandet": {
+   "source": "wo-1715",
+   "of": "Honoré de Balzac",
+   "work": "Eugenie Grandet",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1715 (clean text)"
+  },
+  "wormeley-balzac-catherine-de-medici": {
+   "source": "wo-1854",
+   "of": "Honoré de Balzac",
+   "work": "Catherine De Medici",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1854 (clean text)"
+  },
+  "wormeley-balzac-the-deputy-of-arcis": {
+   "source": "wo-1871",
+   "of": "Honoré de Balzac",
+   "work": "The Deputy of Arcis",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1871 (clean text)"
+  },
+  "wormeley-balzac-the-village-rector": {
+   "source": "wo-1899",
+   "of": "Honoré de Balzac",
+   "work": "The Village Rector",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1899 (clean text)"
+  },
+  "wormeley-balzac-beatrix": {
+   "source": "wo-1957",
+   "of": "Honoré de Balzac",
+   "work": "Beatrix",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1957 (clean text)"
+  },
+  "wormeley-balzac-the-brotherhood-of-consolation": {
+   "source": "wo-1967",
+   "of": "Honoré de Balzac",
+   "work": "The Brotherhood of Consolation",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 1967 (clean text)"
+  },
+  "wormeley-daudet-tartarin-on-the-alps": {
+   "source": "wo-25768",
+   "of": "Alphonse Daudet",
+   "work": "Tartarin on the Alps",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 25768 (clean text)"
+  },
+  "wormeley-balzac-letters-to-madame-hanska-born-countess-rzewuska": {
+   "source": "wo-54466",
+   "of": "Honoré de Balzac",
+   "work": "Letters to Madame Hanska, born Countess Rzewuska, aft",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 54466 (clean text)"
+  },
+  "wormeley-sand-the-bagpipers": {
+   "source": "wo-66513",
+   "of": "George Sand",
+   "work": "The Bagpipers",
+   "translated": "1885-1900 (Roberts Brothers)",
+   "translator": "Katharine Prescott Wormeley",
+   "scan_edition": "Project Gutenberg 66513 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-7927": "The Celibates collects Pierrette, The Vicar of Tours and The Two Brothers; the last two are shelved singly (1345, 1380), so the collection would hold them twice.",
+  "pg-43283": "The Correspondence of Madame, Princess Palatine (ed. Wormeley): letters, edited not translated in the same sense; not checked."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_manual_fetch": {
+  "wo-1437": "Gutenberg has no cache/epub/1437/pg1437.txt; fetched by hand from https://www.gutenberg.org/ebooks/1437.txt.utf-8 into data/corpus/wormeley/wo-1437.txt (2026-10-10); fetch_shelf then keeps it.",
+  "wo-1454": "Gutenberg has no cache/epub/1454/pg1454.txt; fetched by hand from https://www.gutenberg.org/ebooks/1454.txt.utf-8 into data/corpus/wormeley/wo-1454.txt (2026-10-10); fetch_shelf then keeps it.",
+  "wo-1455": "Gutenberg has no cache/epub/1455/pg1455.txt; fetched by hand from https://www.gutenberg.org/ebooks/1455.txt.utf-8 into data/corpus/wormeley/wo-1455.txt (2026-10-10); fetch_shelf then keeps it.",
+  "wo-1482": "Gutenberg has no cache/epub/1482/pg1482.txt; fetched by hand from https://www.gutenberg.org/ebooks/1482.txt.utf-8 into data/corpus/wormeley/wo-1482.txt (2026-10-10); fetch_shelf then keeps it.",
+  "wo-1553": "Gutenberg has no cache/epub/1553/pg1553.txt; fetched by hand from https://www.gutenberg.org/ebooks/1553.txt.utf-8 into data/corpus/wormeley/wo-1553.txt (2026-10-10); fetch_shelf then keeps it."
+ },
+ "_checks": {
+  "wo-1223": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1230": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1242": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1343": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1344": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1345": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1352": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1357": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1369": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1373": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1374": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1380": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1403": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1417": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1425": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1426": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1427": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1432": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1433": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1437": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1453": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1454": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1455": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1474": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1481": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1482": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1553": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1554": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1556": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1569": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1641": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1649": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1715": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1854": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1871": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1899": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1957": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1967": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-25768": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-54466": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-66513": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katharine prescott wormeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  }
+ },
+ "_verified": {
+  "wo-1223": {
+   "pg": 1223,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1230": {
+   "pg": 1230,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1242": {
+   "pg": 1242,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1343": {
+   "pg": 1343,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1344": {
+   "pg": 1344,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1345": {
+   "pg": 1345,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1352": {
+   "pg": 1352,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1357": {
+   "pg": 1357,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1369": {
+   "pg": 1369,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1373": {
+   "pg": 1373,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1374": {
+   "pg": 1374,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1380": {
+   "pg": 1380,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1403": {
+   "pg": 1403,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1417": {
+   "pg": 1417,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1425": {
+   "pg": 1425,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1426": {
+   "pg": 1426,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1427": {
+   "pg": 1427,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1432": {
+   "pg": 1432,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1433": {
+   "pg": 1433,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1437": {
+   "pg": 1437,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1453": {
+   "pg": 1453,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1454": {
+   "pg": 1454,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1455": {
+   "pg": 1455,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1474": {
+   "pg": 1474,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1481": {
+   "pg": 1481,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1482": {
+   "pg": 1482,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1553": {
+   "pg": 1553,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1554": {
+   "pg": 1554,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1556": {
+   "pg": 1556,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1569": {
+   "pg": 1569,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1641": {
+   "pg": 1641,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1649": {
+   "pg": 1649,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1715": {
+   "pg": 1715,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1854": {
+   "pg": 1854,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1871": {
+   "pg": 1871,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1899": {
+   "pg": 1899,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1957": {
+   "pg": 1957,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-1967": {
+   "pg": 1967,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-25768": {
+   "pg": 25768,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-54466": {
+   "pg": 54466,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  },
+  "wo-66513": {
+   "pg": 66513,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katharine Prescott Wormeley"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

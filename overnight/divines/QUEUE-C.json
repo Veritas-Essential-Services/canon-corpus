@@ -464,6 +464,22 @@
    "finished": "2026-10-10T09:45-05:00",
    "scope": "Round 13: pending items cleared (Saga Library, Three Northern Love Stories, Björkman first series) and a new shelf, pickthall",
    "notes": "9 titles; Archer Ibsen vol 12 still pending (IA 500). No uids minted."
+  },
+  {
+   "id": "shelf-wormeley",
+   "status": "done",
+   "started": "2026-10-10T10:05-05:00",
+   "finished": "2026-10-10T10:05-05:00",
+   "scope": "TRANSLATOR SHELF (round 14, lane C's choice; Adam may veto) -- wormeley; PD printings before 1931 only; no minting",
+   "notes": "41 titles; ids checked against all shelves on all branches first. See DIGEST-C round 14. No uids minted."
+  },
+  {
+   "id": "shelf-vizetelly",
+   "status": "done",
+   "started": "2026-10-10T10:05-05:00",
+   "finished": "2026-10-10T10:05-05:00",
+   "scope": "TRANSLATOR SHELF (round 14, lane C's choice; Adam may veto) -- vizetelly; PD printings before 1931 only; no minting",
+   "notes": "16 titles; ids checked against all shelves on all branches first. See DIGEST-C round 14. No uids minted."
   }
  ]
 }

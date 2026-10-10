@@ -103,3 +103,5 @@
 - 2026-10-10T09:45-05:00: round 13: Saga Library + TNLS (morris-magnusson, now 10), Björkman series 1 (strindberg-english, now 15), pickthall (1, 1930 override). --verify --record 0 mismatched.
 
 - 2026-10-10T09:52-05:00: fix: mm-volsunga duplicated Lane D's edda-volsunga-morris; now held_in cross-reference. Re-verified 0 mismatched.
+
+- 2026-10-10T10:05-05:00: round 14: wormeley (41), vizetelly (16); id-clash check over all lane C shelves: none. --verify --record 0 mismatched.

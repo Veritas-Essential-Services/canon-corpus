@@ -1,0 +1,450 @@
+{
+ "_about": "TRANSLATOR SHELF: Ernest Alfred Vizetelly (1853-1922): Zola in English (Chatto and Windus, 1886-1906), translator and editor of the authorised English Zola, including the Three Cities. US public domain (pre-1931), PD everywhere. Added 2026-10-10 by lane C (round 14); Adam may veto. No uids minted.",
+ "_name_words": [
+  "ernest alfred vizetelly",
+  "ernest a. vizetelly",
+  "e. a. vizetelly",
+  "vizetelly"
+ ],
+ "_surname": [
+  "ernest alfred vizetelly",
+  "ernest a. vizetelly",
+  "e. a. vizetelly",
+  "vizetelly"
+ ],
+ "_surname_note": "Full name or the bare surname, which is not an English word.",
+ "ccel": {},
+ "gutenberg": {
+  "vi-15900": [
+   15900,
+   "His Masterpiece"
+  ],
+  "vi-5135": [
+   5135,
+   "The Fortune of the Rougons"
+  ],
+  "vi-10330": [
+   10330,
+   "Fruitfulness"
+  ],
+  "vi-14200": [
+   14200,
+   "Abbe Mouret's Transgression"
+  ],
+  "vi-54726": [
+   54726,
+   "The Ladies' Paradise"
+  ],
+  "vi-55282": [
+   55282,
+   "Work [Travail]"
+  ],
+  "vi-55849": [
+   55849,
+   "Truth [Vérité]"
+  ],
+  "vi-56590": [
+   56590,
+   "The Rush for the Spoil (La Curée): A Realistic Novel"
+  ],
+  "vi-56654": [
+   56654,
+   "His Excellency [Son Exc. Eugène Rougon]"
+  ],
+  "vi-56799": [
+   56799,
+   "The Downfall (La Débâcle): A Story of the Horrors o"
+  ],
+  "vi-56860": [
+   56860,
+   "The Conquest of Plassans (La Conquête de Plassans)"
+  ],
+  "vi-5744": [
+   5744,
+   "The Fat and the Thin"
+  ],
+  "vi-6626": [
+   6626,
+   "Theresa Raquin"
+  ],
+  "vi-8516": [
+   8516,
+   "Lourdes"
+  ],
+  "vi-8726": [
+   8726,
+   "Rome"
+  ],
+  "vi-9169": [
+   9169,
+   "Paris"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "vizetelly-zola-his-masterpiece": {
+   "source": "vi-15900",
+   "of": "Émile Zola",
+   "work": "His Masterpiece",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly (named in the Gutenberg header as editor)",
+   "scan_edition": "Project Gutenberg 15900 (clean text)"
+  },
+  "vizetelly-zola-the-fortune-of-the-rougons": {
+   "source": "vi-5135",
+   "of": "Émile Zola",
+   "work": "The Fortune of the Rougons",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly (named in the Gutenberg header as editor)",
+   "scan_edition": "Project Gutenberg 5135 (clean text)"
+  },
+  "vizetelly-zola-fruitfulness": {
+   "source": "vi-10330",
+   "of": "Émile Zola",
+   "work": "Fruitfulness",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 10330 (clean text)"
+  },
+  "vizetelly-zola-abbe-mourets-transgression": {
+   "source": "vi-14200",
+   "of": "Émile Zola",
+   "work": "Abbe Mouret's Transgression",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 14200 (clean text)"
+  },
+  "vizetelly-zola-the-ladies-paradise": {
+   "source": "vi-54726",
+   "of": "Émile Zola",
+   "work": "The Ladies' Paradise",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 54726 (clean text)"
+  },
+  "vizetelly-zola-work-travail": {
+   "source": "vi-55282",
+   "of": "Émile Zola",
+   "work": "Work [Travail]",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 55282 (clean text)"
+  },
+  "vizetelly-zola-truth-v-rit": {
+   "source": "vi-55849",
+   "of": "Émile Zola",
+   "work": "Truth [Vérité]",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 55849 (clean text)"
+  },
+  "vizetelly-zola-the-rush-for-the-spoil-la-cur-e-a-realistic-nove": {
+   "source": "vi-56590",
+   "of": "Émile Zola",
+   "work": "The Rush for the Spoil (La Curée): A Realistic Novel",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 56590 (clean text)"
+  },
+  "vizetelly-zola-his-excellency-son-exc-eug-ne-rougon": {
+   "source": "vi-56654",
+   "of": "Émile Zola",
+   "work": "His Excellency [Son Exc. Eugène Rougon]",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 56654 (clean text)"
+  },
+  "vizetelly-zola-the-downfall-la-d-b-cle-a-story-of-the-horrors-o": {
+   "source": "vi-56799",
+   "of": "Émile Zola",
+   "work": "The Downfall (La Débâcle): A Story of the Horrors o",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 56799 (clean text)"
+  },
+  "vizetelly-zola-the-conquest-of-plassans-la-conqu-te-de-plassans": {
+   "source": "vi-56860",
+   "of": "Émile Zola",
+   "work": "The Conquest of Plassans (La Conquête de Plassans)",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 56860 (clean text)"
+  },
+  "vizetelly-zola-the-fat-and-the-thin": {
+   "source": "vi-5744",
+   "of": "Émile Zola",
+   "work": "The Fat and the Thin",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 5744 (clean text)"
+  },
+  "vizetelly-zola-theresa-raquin": {
+   "source": "vi-6626",
+   "of": "Émile Zola",
+   "work": "Theresa Raquin",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 6626 (clean text)"
+  },
+  "vizetelly-zola-lourdes": {
+   "source": "vi-8516",
+   "of": "Émile Zola",
+   "work": "Lourdes",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 8516 (clean text)"
+  },
+  "vizetelly-zola-rome": {
+   "source": "vi-8726",
+   "of": "Émile Zola",
+   "work": "Rome",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 8726 (clean text)"
+  },
+  "vizetelly-zola-paris": {
+   "source": "vi-9169",
+   "of": "Émile Zola",
+   "work": "Paris",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 9169 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "three-cities-parts": "Gutenberg also splits Lourdes, Rome and Paris into volumes (8511-8515, 8721-8725, 9165-9167) and has a trilogy omnibus (9170); the complete single-novel texts (8516, 8726, 9169) are used, so nothing is held twice."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "vi-15900": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vi-5135": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vi-10330": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-14200": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-54726": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-55282": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-55849": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-56590": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-56654": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-56799": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-56860": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-5744": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-6626": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-8516": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-8726": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-9169": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  }
+ },
+ "_verified": {
+  "vi-15900": {
+   "pg": 15900,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "vi-5135": {
+   "pg": 5135,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "vi-10330": {
+   "pg": 10330,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-14200": {
+   "pg": 14200,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-54726": {
+   "pg": 54726,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-55282": {
+   "pg": 55282,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-55849": {
+   "pg": 55849,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-56590": {
+   "pg": 56590,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-56654": {
+   "pg": 56654,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-56799": {
+   "pg": 56799,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-56860": {
+   "pg": 56860,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-5744": {
+   "pg": 5744,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-6626": {
+   "pg": 6626,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-8516": {
+   "pg": 8516,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-8726": {
+   "pg": 8726,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-9169": {
+   "pg": 9169,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

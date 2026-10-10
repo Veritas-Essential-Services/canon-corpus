@@ -5776,6 +5776,82 @@ Round 13 (2026-10-10), vetoable. US public domain since 2026; gate override reco
 | `pickthall-meaning-of-the-glorious-koran` | The Quran | The Meaning of the Glorious Koran: An Explanatory Translation | Marmaduke Pickthall | 1930 | have-raw | IA `in.ernet.dli.2015.283503` |
 | — | — | dli.ministry.16944: The same sheets reissued under a George Allen & Unwin title page (Allen & Unwin took over Knopf's London list in 1931): a later issue; the Knopf issue is used. | — | — | excluded | — |
 
+## Katharine Prescott Wormeley (Balzac; Daudet, Sand)
+
+Shelf: `pipeline/wormeley_shelf.json` · fetch `python3 pipeline/fetch_shelf.py wormeley` · titles `python3 pipeline/split_shelf_titles.py wormeley`.
+Round 14 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `wormeley-balzac-ursula` | Honoré de Balzac | Ursula | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1223 |
+| `wormeley-balzac-pierre-grassou` | Honoré de Balzac | Pierre Grassou | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1230 |
+| `wormeley-balzac-unconscious-comedians` | Honoré de Balzac | Unconscious Comedians | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1242 |
+| `wormeley-balzac-bureaucracy` | Honoré de Balzac | Bureaucracy | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1343 |
+| `wormeley-balzac-the-secrets-of-the-princesse-de-cadignan` | Honoré de Balzac | The Secrets of the Princesse de Cadignan | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1344 |
+| `wormeley-balzac-the-vicar-of-tours` | Honoré de Balzac | The Vicar of Tours | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1345 |
+| `wormeley-balzac-an-old-maid` | Honoré de Balzac | An Old Maid | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1352 |
+| `wormeley-balzac-madame-firmiani` | Honoré de Balzac | Madame Firmiani | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1357 |
+| `wormeley-balzac-paz-la-fausse-maitresse` | Honoré de Balzac | Paz (La Fausse Maitresse) | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1369 |
+| `wormeley-balzac-study-of-a-woman` | Honoré de Balzac | Study of a Woman | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1373 |
+| `wormeley-balzac-vendetta` | Honoré de Balzac | Vendetta | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1374 |
+| `wormeley-balzac-the-two-brothers` | Honoré de Balzac | The Two Brothers | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1380 |
+| `wormeley-balzac-a-start-in-life` | Honoré de Balzac | A Start in Life | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1403 |
+| `wormeley-balzac-sons-of-the-soil` | Honoré de Balzac | Sons of the Soil | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1417 |
+| `wormeley-balzac-el-verdugo` | Honoré de Balzac | El Verdugo | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1425 |
+| `wormeley-balzac-the-recruit` | Honoré de Balzac | The Recruit | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1426 |
+| `wormeley-balzac-a-drama-on-the-seashore` | Honoré de Balzac | A Drama on the Seashore | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1427 |
+| `wormeley-balzac-seraphita` | Honoré de Balzac | Seraphita | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1432 |
+| `wormeley-balzac-the-red-inn` | Honoré de Balzac | The Red Inn | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1433 |
+| `wormeley-balzac-juana` | Honoré de Balzac | Juana | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1437 |
+| `wormeley-balzac-the-alkahest` | Honoré de Balzac | The Alkahest | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1453 |
+| `wormeley-balzac-maitre-cornelius` | Honoré de Balzac | Maitre Cornelius | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1454 |
+| `wormeley-balzac-the-hated-son` | Honoré de Balzac | The Hated Son | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1455 |
+| `wormeley-balzac-the-illustrious-gaudissart` | Honoré de Balzac | The Illustrious Gaudissart | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1474 |
+| `wormeley-balzac-a-daughter-of-eve` | Honoré de Balzac | A Daughter of Eve | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1481 |
+| `wormeley-balzac-modeste-mignon` | Honoré de Balzac | Modeste Mignon | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1482 |
+| `wormeley-balzac-the-hidden-masterpiece` | Honoré de Balzac | The Hidden Masterpiece | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1553 |
+| `wormeley-balzac-adieu` | Honoré de Balzac | Adieu | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1554 |
+| `wormeley-balzac-the-marriage-contract` | Honoré de Balzac | The Marriage Contract | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1556 |
+| `wormeley-balzac-the-lily-of-the-valley` | Honoré de Balzac | The Lily of the Valley | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1569 |
+| `wormeley-balzac-the-lesser-bourgeoisie` | Honoré de Balzac | The Lesser Bourgeoisie | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1641 |
+| `wormeley-balzac-ferragus-chief-of-the-d-vorants` | Honoré de Balzac | Ferragus, Chief of the Dévorants | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1649 |
+| `wormeley-balzac-eugenie-grandet` | Honoré de Balzac | Eugenie Grandet | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1715 |
+| `wormeley-balzac-catherine-de-medici` | Honoré de Balzac | Catherine De Medici | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1854 |
+| `wormeley-balzac-the-deputy-of-arcis` | Honoré de Balzac | The Deputy of Arcis | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1871 |
+| `wormeley-balzac-the-village-rector` | Honoré de Balzac | The Village Rector | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1899 |
+| `wormeley-balzac-beatrix` | Honoré de Balzac | Beatrix | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1957 |
+| `wormeley-balzac-the-brotherhood-of-consolation` | Honoré de Balzac | The Brotherhood of Consolation | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 1967 |
+| `wormeley-daudet-tartarin-on-the-alps` | Alphonse Daudet | Tartarin on the Alps | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 25768 |
+| `wormeley-balzac-letters-to-madame-hanska-born-countess-rzewuska` | Honoré de Balzac | Letters to Madame Hanska, born Countess Rzewuska, aft | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 54466 |
+| `wormeley-sand-the-bagpipers` | George Sand | The Bagpipers | Katharine Prescott Wormeley | 1885-1900 (Roberts Brothers) | have | PG 66513 |
+| — | — | pg-7927: The Celibates collects Pierrette, The Vicar of Tours and The Two Brothers; the last two are shelved singly (1345, 1380), so the collection would hold them twice. | — | — | excluded | — |
+| — | — | pg-43283: The Correspondence of Madame, Princess Palatine (ed. Wormeley): letters, edited not translated in the same sense; not checked. | — | — | excluded | — |
+
+## Ernest Alfred Vizetelly (Zola, incl. the Three Cities)
+
+Shelf: `pipeline/vizetelly_shelf.json` · fetch `python3 pipeline/fetch_shelf.py vizetelly` · titles `python3 pipeline/split_shelf_titles.py vizetelly`.
+Round 14 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `vizetelly-zola-his-masterpiece` | Émile Zola | His Masterpiece | Ernest Alfred Vizetelly (named in the Gutenberg header as editor) | 1886-1906 (Chatto and Windus) | have | PG 15900 |
+| `vizetelly-zola-the-fortune-of-the-rougons` | Émile Zola | The Fortune of the Rougons | Ernest Alfred Vizetelly (named in the Gutenberg header as editor) | 1886-1906 (Chatto and Windus) | have | PG 5135 |
+| `vizetelly-zola-fruitfulness` | Émile Zola | Fruitfulness | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 10330 |
+| `vizetelly-zola-abbe-mourets-transgression` | Émile Zola | Abbe Mouret's Transgression | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 14200 |
+| `vizetelly-zola-the-ladies-paradise` | Émile Zola | The Ladies' Paradise | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 54726 |
+| `vizetelly-zola-work-travail` | Émile Zola | Work [Travail] | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 55282 |
+| `vizetelly-zola-truth-v-rit` | Émile Zola | Truth [Vérité] | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 55849 |
+| `vizetelly-zola-the-rush-for-the-spoil-la-cur-e-a-realistic-nove` | Émile Zola | The Rush for the Spoil (La Curée): A Realistic Novel | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 56590 |
+| `vizetelly-zola-his-excellency-son-exc-eug-ne-rougon` | Émile Zola | His Excellency [Son Exc. Eugène Rougon] | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 56654 |
+| `vizetelly-zola-the-downfall-la-d-b-cle-a-story-of-the-horrors-o` | Émile Zola | The Downfall (La Débâcle): A Story of the Horrors o | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 56799 |
+| `vizetelly-zola-the-conquest-of-plassans-la-conqu-te-de-plassans` | Émile Zola | The Conquest of Plassans (La Conquête de Plassans) | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 56860 |
+| `vizetelly-zola-the-fat-and-the-thin` | Émile Zola | The Fat and the Thin | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 5744 |
+| `vizetelly-zola-theresa-raquin` | Émile Zola | Theresa Raquin | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 6626 |
+| `vizetelly-zola-lourdes` | Émile Zola | Lourdes | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 8516 |
+| `vizetelly-zola-rome` | Émile Zola | Rome | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 8726 |
+| `vizetelly-zola-paris` | Émile Zola | Paris | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 9169 |
+| — | — | three-cities-parts: Gutenberg also splits Lourdes, Rome and Paris into volumes (8511-8515, 8721-8725, 9165-9167) and has a trilogy omnibus (9170); the complete single-novel texts (8516, 8726, 9169) are used, so nothing is held twice. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
