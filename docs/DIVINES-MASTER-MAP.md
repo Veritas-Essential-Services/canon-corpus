@@ -13104,6 +13104,85 @@ Round 43 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `singles-plays-poetry-2-vega-the-works-of-garcilasso-de-la-vega-surna` | Garcilaso de la Vega | The Works of Garcilasso de la Vega, Surnamed the Prince of Castilian Poets, Translated into English Verse With a Critical and Historical Essay on Spanish Poetry and a Life of the Author | Jeremiah Holmes Wiffen | (see the Gutenberg header) | have | PG 49410 |
 | — | — | various-47036: The Jade Flute: translator unnamed, so the per-title translator gate has nothing to check. | — | — | excluded | — |
 
+## One-off translations: fiction, plays and verse, mostly 1920s (Three Kingdoms, All Quiet on the Western Front, Steppenwolf, Giants in the Earth, Death in Venice, Krakatit, Max Havelaar, Eloisa)
+
+Shelf: `pipeline/singles-fiction-3_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-fiction-3` · titles `python3 pipeline/split_shelf_titles.py singles-fiction-3`.
+Round 44 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-fiction-3-andreyev-plays-by-leonid-andreyeff` | Leonid Andreyev | Plays by Leonid Andreyeff | Clarence Linton Meader and Fred Newton Scott | (see the Gutenberg header) | have | PG 78247 |
+| `singles-fiction-3-anon-a-marvelous-history-of-mary-of-nimmegen` | anonymous (Mariken van Nieumeghen) | A marvelous history of Mary of Nimmegen Who for more than seven year lived and had ado with the devil | Harry Morgan Ayres | (see the Gutenberg header) | have | PG 68434 |
+| `singles-fiction-3-anon-french-fairy-tales` | various French writers | French fairy tales | Martha Ward Carey | (see the Gutenberg header) | have | PG 79327 |
+| `singles-fiction-3-anon-rhymes-from-the-russian` | various Russian poets | Rhymes from the Russian | John Pollen | (see the Gutenberg header) | have | PG 71595 |
+| `singles-fiction-3-anon-the-humour-of-russia` | various Russian writers | The humour of Russia | E. L. Voynich | (see the Gutenberg header) | have | PG 71756 |
+| `singles-fiction-3-anon-the-tain` | anonymous (the Táin Bó Cúailnge) | The Táin | Mary A. Hutton | (see the Gutenberg header) | have | PG 77663 |
+| `singles-fiction-3-anon-told-in-the-gardens-of-araby-untranslate` | anonymous Arabic tales | Told in the gardens of Araby (untranslated until now) | Izora C. Chandler and Mary Williams Montgomery | (see the Gutenberg header) | have | PG 73256 |
+| `singles-fiction-3-auerbach-the-little-barefoot` | Berthold Auerbach | The little Barefoot | Eliza Buckminster Lee | (see the Gutenberg header) | have | PG 70159 |
+| `singles-fiction-3-bettauer-the-city-without-jews` | Hugo Bettauer | The city without Jews | Salomea Neumark Brainin | (see the Gutenberg header) | have | PG 76288 |
+| `singles-fiction-3-bezruc-songs-of-the-slav` | various Czech and Slovak poets (Bezruč, Čech, Hálek, Kollár and others) | Songs of the Slav | Otto Kotouč | (see the Gutenberg header) | have | PG 70309 |
+| `singles-fiction-3-bordeaux-the-will-to-live-les-roquevillard` | Henry Bordeaux | The will to live (Les Roquevillard) | Pitts Duffield | (see the Gutenberg header) | have | PG 71923 |
+| `singles-fiction-3-bourget-a-living-lie` | Paul Bourget | A Living Lie | J. A. J. De Villiers | (see the Gutenberg header) | have | PG 65887 |
+| `singles-fiction-3-buonarroti-sonnets-and-madrigals-of-michelangelo-bu` | Michelangelo Buonarroti | Sonnets and madrigals of Michelangelo Buonarroti | William Wells Newell | (see the Gutenberg header) | have | PG 73109 |
+| `singles-fiction-3-capek-krakatit` | Karel Čapek | Krakatit | Lawrence Hyde | (see the Gutenberg header) | have | PG 79127 |
+| `singles-fiction-3-caturbhujamisra-the-prem-sagur` | Caturbhujamisra | The Prem sagur | W. Hollings and Lallu Lal | (see the Gutenberg header) | have | PG 74050 |
+| `singles-fiction-3-chekhov-the-shooting-party` | Anton Pavlovich Chekhov | The shooting party | A. E. Chamot | (see the Gutenberg header) | have | PG 73729 |
+| `singles-fiction-3-couperus-eline-vere` | Louis Couperus | Eline Vere | Jack Thomas Grein | (see the Gutenberg header) | have | PG 66911 |
+| `singles-fiction-3-d-annunzio-the-daughter-of-jorio` | Gabriele D'Annunzio | The daughter of Jorio | Alice Henry and Pietro Isola and Charlotte Porter | (see the Gutenberg header) | have | PG 76655 |
+| `singles-fiction-3-d-annunzio-the-virgins-of-the-rocks` | Gabriele D'Annunzio | The Virgins of the Rocks | Agatha Hughes | (see the Gutenberg header) | have | PG 67313 |
+| `singles-fiction-3-debans-catherine-s-coquetries` | Camille Debans | Catherine's coquetries | Leon Mead | (see the Gutenberg header) | have | PG 70172 |
+| `singles-fiction-3-dods-tales-of-the-wild-and-the-wonderful-1867` | Mary Diana Dods | Tales of the Wild and the Wonderful [1867] | Sarah Elizabeth Utterson | (see the Gutenberg header) | have | PG 66106 |
+| `singles-fiction-3-esme-the-red-gods` | Jean d' Esme | The Red Gods | Moreby Acklom | (see the Gutenberg header) | have | PG 79053 |
+| `singles-fiction-3-fitinghoff-children-of-the-moor` | Laura Fitinghoff | Children of the moor | Siri Andrews | (see the Gutenberg header) | have | PG 76142 |
+| `singles-fiction-3-fleuron-kittens` | Svend Fleuron | Kittens | David Pritchard | (see the Gutenberg header) | have | PG 74356 |
+| `singles-fiction-3-gnudtzmann-eyes-that-cannot-see` | Albert Theodor Gnudtzmann | Eyes that cannot see | Arvid Paulson | (see the Gutenberg header) | have | PG 79218 |
+| `singles-fiction-3-goethe-goethe-and-schiller-s-xenions` | Johann Wolfgang von Goethe and Friedrich Schiller | Goethe and Schiller's Xenions | Paul Carus | (see the Gutenberg header) | have | PG 76691 |
+| `singles-fiction-3-guardia-costa-rican-tales` | Ricardo Fernández Guardia | Costa Rican tales | Gray Casement | (see the Gutenberg header) | have | PG 79583 |
+| `singles-fiction-3-halek-evening-songs` | Vítězslav Hálek | Evening songs | Josef Štýbr | (see the Gutenberg header) | have | PG 77623 |
+| `singles-fiction-3-hauptmann-the-coming-of-peace-a-family-catastrophe` | Gerhart Hauptmann | The coming of peace (A family catastrophe) | Janet Achurch and C. E. Wheeler | (see the Gutenberg header) | have | PG 75247 |
+| `singles-fiction-3-hebbel-three-plays-by-frederic-hebbel` | Friedrich Hebbel | Three plays by Frederic Hebbel | Leslie Holdsworth Allen and Barker Fairley | (see the Gutenberg header) | have | PG 71187 |
+| `singles-fiction-3-hesse-steppenwolf` | Hermann Hesse | Steppenwolf | Basil Creighton | (see the Gutenberg header) | have | PG 75756 |
+| `singles-fiction-3-hofberg-swedish-fairy-tales` | Herman Hofberg | Swedish fairy tales | Willard Henry Myers | (see the Gutenberg header) | have | PG 73093 |
+| `singles-fiction-3-jacques-dr-mabuse-master-of-mystery` | Norbert Jacques | Dr. Mabuse, master of mystery | Lilian A. Clare | (see the Gutenberg header) | have | PG 75967 |
+| `singles-fiction-3-kielland-elsie` | Alexander Lange Kielland | Elsie | Miles Menander Dawson | (see the Gutenberg header) | have | PG 74860 |
+| `singles-fiction-3-kivi-seven-brothers` | Aleksis Kivi | Seven brothers | Alex Matson | (see the Gutenberg header) | have | PG 79566 |
+| `singles-fiction-3-kotzebue-the-virgin-of-the-sun` | August von Kotzebue | The virgin of the sun | Anne Plumptre | (see the Gutenberg header) | have | PG 69962 |
+| `singles-fiction-3-larrouy-vagabonds-of-the-sea` | Maurice Larrouy | Vagabonds of the sea | Randolph Silliman Bourne | (see the Gutenberg header) | have | PG 70982 |
+| `singles-fiction-3-leroux-the-new-terror` | Gaston Leroux | The new terror | Hannaford Bennett | (see the Gutenberg header) | have | PG 76493 |
+| `singles-fiction-3-lion-the-black-pearl` | Marie Lion | The black pearl | Maude Wholohan | (see the Gutenberg header) | have | PG 78087 |
+| `singles-fiction-3-loti-lives-of-two-cats` | Pierre Loti | Lives of Two Cats | Mary B. Richards | (see the Gutenberg header) | have | PG 67061 |
+| `singles-fiction-3-louys-the-songs-of-bilitis` | Pierre Louÿs | The songs of Bilitis | Mitchell S. Buck | (see the Gutenberg header) | have | PG 76646 |
+| `singles-fiction-3-luo-san-kuo` | Guanzhong Luo | San kuo; or, Romance of the three kingdoms (volume 1 of 2) | C. H. Brewitt-Taylor | (see the Gutenberg header) | have | PG 77416 |
+| `singles-fiction-3-mann-death-in-venice` | Thomas Mann | Death in Venice | Kenneth Burke | (see the Gutenberg header) | have | PG 66073 |
+| `singles-fiction-3-mauriac-the-kiss-to-the-leper` | François Mauriac | The kiss to the leper | James Whitall | (see the Gutenberg header) | have | PG 69443 |
+| `singles-fiction-3-mauriac-therese` | François Mauriac | Thérèse | Eric Sutton | (see the Gutenberg header) | have | PG 73670 |
+| `singles-fiction-3-merezhkovsky-akhnaton-king-of-egypt` | Dmitry Sergeyevich Merezhkovsky | Akhnaton, King of Egypt | Natalie Duddington | (see the Gutenberg header) | have | PG 73364 |
+| `singles-fiction-3-mitra-the-spoilt-child` | Peary Chand Mitra | The Spoilt Child: A Tale of Hindu Domestic Life | G. D. Oswell | (see the Gutenberg header) | have | PG 69173 |
+| `singles-fiction-3-mongiardini-rembadi-pinocchio-under-the-sea` | Gemma Mongiardini-Rembadi | Pinocchio under the sea | Carol Della Chiesa | (see the Gutenberg header) | have | PG 71880 |
+| `singles-fiction-3-morand-lewis-and-irene` | Paul Morand | Lewis and Irene | Vyvyan Beresford Holland | (see the Gutenberg header) | have | PG 71047 |
+| `singles-fiction-3-multatuli-max-havelaar` | Multatuli | Max Havelaar; | Alphonse Nahuys | (see the Gutenberg header) | have | PG 70128 |
+| `singles-fiction-3-natsume-unhuman-tour` | Soseki Natsume | Unhuman tour | Kazutomo Takahashi | (see the Gutenberg header) | have | PG 73131 |
+| `singles-fiction-3-nodier-the-bibliomaniac` | Charles Nodier | The Bibliomaniac | Mabel Osgood Wright | (see the Gutenberg header) | have | PG 66552 |
+| `singles-fiction-3-pearse-collected-works-of-padraic-h-pearse` | Padraic Pearse | Collected works of Padraic H. Pearse | Joseph Campbell | (see the Gutenberg header) | have | PG 78495 |
+| `singles-fiction-3-petrarca-love-s-crucifix` | Francesco Petrarca | Love's crucifix | Agnes Tobin | (see the Gutenberg header) | have | PG 78533 |
+| `singles-fiction-3-pont-jest-shadowed-by-a-detective` | René de Pont-Jest | Shadowed by a detective | Virginia Champlin | (see the Gutenberg header) | have | PG 78812 |
+| `singles-fiction-3-przyjemski-wanda` | Juliusz Rawicz Przyjemski | Wanda | Anna Maria May | (see the Gutenberg header) | have | PG 77708 |
+| `singles-fiction-3-remarque-all-quiet-on-the-western-front` | Erich Maria Remarque | All quiet on the Western Front | A. W. Wheen | (see the Gutenberg header) | have | PG 75011 |
+| `singles-fiction-3-rolland-annette-and-sylvie` | Romain Rolland | Annette and Sylvie: Being Volume One of The Soul Enchanted | Ben Ray Redman | (see the Gutenberg header) | have | PG 66405 |
+| `singles-fiction-3-rolvaag-giants-in-the-earth` | O. E. Rølvaag | Giants in the earth | Lincoln Colcord | (see the Gutenberg header) | have | PG 75491 |
+| `singles-fiction-3-rousseau-eloisa` | Jean-Jacques Rousseau | Eloisa | W. Kenrick | (see the Gutenberg header) | have | PG 76639 |
+| `singles-fiction-3-sand-the-naiad` | George Sand | The Naiad: A ghost story | Katherine Berry di Zérèga | (see the Gutenberg header) | have | PG 69312 |
+| `singles-fiction-3-shevchenko-the-kobzar-of-the-ukraine-being-select-p` | Taras Shevchenko | The Kobzar of the Ukraine Being select poems of Taras Shevchenko done into English verse with biographical fragments by Alexander Jardine Hunter | Alexander J. Hunter | (see the Gutenberg header) | have | PG 68486 |
+| `singles-fiction-3-tanizaki-a-spring-time-case` | Jun'ichiro Tanizaki | A spring-time case | Z. Tamotsu Iwado | (see the Gutenberg header) | have | PG 73132 |
+| `singles-fiction-3-terrasson-the-life-of-sethos-vol-1-of-2` | Jean Terrasson | The life of Sethos, Vol. 1 (of 2) | Thomas Lediard | (see the Gutenberg header) | have | PG 79675 |
+| `singles-fiction-3-tormay-the-old-house` | Cécile Tormay | The Old House: A Novel | Emil Torday | (see the Gutenberg header) | have | PG 66344 |
+| `singles-fiction-3-undset-the-bridal-wreath` | Sigrid Undset | The Bridal Wreath | Charles Archer and J. S. Scott | (see the Gutenberg header) | have | PG 67929 |
+| `singles-fiction-3-vega-the-new-art-of-writing-plays` | Lope de Vega | The new art of writing plays | W. T. Brewster | (see the Gutenberg header) | have | PG 76719 |
+| `singles-fiction-3-vollmar-sibylla` | A. Vollmar | Sibylla | Cornelia McFadden | (see the Gutenberg header) | have | PG 77545 |
+| `pg-79102` | — | Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
+| `pg-79453` | — | Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
+| `pg-78105` | — | Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
