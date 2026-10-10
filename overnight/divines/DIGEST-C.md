@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T09:12-05:00: 49 shelves, 190 titles (round 9, Scott Moncrieff: 9; Ransome translations, 2026-10-10: 2; rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11; round 7: 12; round 8: 8 — Symonds 3, Blackie 2, Theodore Martin 1, Hearn 2). **11 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
+Totals 2026-10-10T09:17-05:00: 52 shelves, 211 titles (round 10: Ryder 5, Gertrude Bell 1, Levy Nietzsche 15; round 9, Scott Moncrieff: 9; Ransome translations, 2026-10-10: 2; rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11; round 7: 12; round 8: 8 — Symonds 3, Blackie 2, Theodore Martin 1, Hearn 2). **11 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -118,3 +118,16 @@ New shelf `scott-moncrieff`, 9 titles. Nobody else shelves him; checked across e
 **Your call:** Gutenberg's *Guermantes Way* was made from a Modern Library printing of 1932 or later. The text is the 1925 translation. Keep it, or move it to `_pending`?
 
 Pending, because every open scan is a later printing: *Cities of the Plain*, *The Captive*, *The Sweet Cheat Gone*, *The Red and the Black* (only volume one of the 1926 printing is open), and Pirandello's *Shoot!*. *The Old and the Young* has only volume two open.
+
+
+## Round 10: Ryder, Gertrude Bell, the Levy Nietzsche (2026-10-10)
+
+Three new shelves, 21 titles; none was on any other lane's shelf.
+
+- **`ryder`** (5 titles): Arthur W. Ryder's Sanskrit. *Shakuntala and Other Works* (Kalidasa, 1912), *The Little Clay Cart* (1905) and *Twenty-Two Goblins* (1917) come from Gutenberg. *The Panchatantra* (Chicago, 1925) and *The Bhagavad-gita* (1929) are raw OCR. In the Panchatantra scan the printed year is garbled, so it rests on the catalogue's 1925 date. Pending: *Dandin's Ten Princes*, whose only open scan is from 1960.
+- **`gertrude-bell`** (1 title): *Poems from the Divan of Hafiz* (1897).
+- **`levy-nietzsche`** (15 titles): the first complete English Nietzsche, Oscar Levy's edition of 1909 to 1913, all from Gutenberg. It was a team of translators, so each title checks for its own translator's name rather than a shelf-wide one. Mencken's *Antichrist* and Harvey's *Human, All Too Human* are other translators and are excluded.
+
+Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** none beyond the veto. One note: Ludovici lived until 1971, so the UK status of the Levy volumes varies by translator. In the US they are all public domain.

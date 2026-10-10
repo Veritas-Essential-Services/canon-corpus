@@ -408,6 +408,30 @@
    "finished": "2026-10-10T09:12-05:00",
    "scope": "TRANSLATOR SHELF (round 9, lane C's choice; Adam may veto) -- C. K. Scott Moncrieff; PD printings before 1931 only; no minting",
    "notes": "9 titles; 6 pending for want of a pre-1931 scan. See DIGEST-C round 9. No uids minted."
+  },
+  {
+   "id": "shelf-ryder",
+   "status": "done",
+   "started": "2026-10-10T09:17-05:00",
+   "finished": "2026-10-10T09:17-05:00",
+   "scope": "TRANSLATOR SHELF (round 10, lane C's choice; Adam may veto) -- ryder; PD printings before 1931 only; no minting",
+   "notes": "5 titles; see DIGEST-C round 10. No uids minted."
+  },
+  {
+   "id": "shelf-gertrude-bell",
+   "status": "done",
+   "started": "2026-10-10T09:17-05:00",
+   "finished": "2026-10-10T09:17-05:00",
+   "scope": "TRANSLATOR SHELF (round 10, lane C's choice; Adam may veto) -- gertrude-bell; PD printings before 1931 only; no minting",
+   "notes": "1 titles; see DIGEST-C round 10. No uids minted."
+  },
+  {
+   "id": "shelf-levy-nietzsche",
+   "status": "done",
+   "started": "2026-10-10T09:17-05:00",
+   "finished": "2026-10-10T09:17-05:00",
+   "scope": "TRANSLATOR SHELF (round 10, lane C's choice; Adam may veto) -- levy-nietzsche; PD printings before 1931 only; no minting",
+   "notes": "15 titles; see DIGEST-C round 10. No uids minted."
   }
  ]
 }

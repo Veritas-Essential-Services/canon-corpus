@@ -694,6 +694,60 @@ Round 9 (2026-10-10), vetoable. Later Proust volumes and the Red and the Black w
 | `moncrieff-stendhal-red-and-black` | — | 1926: US PD. redblack0000mari_e9r8, _h6c2 and _z4c1 are all Modern Library printings by Random House (1931 or later; e9r8's back list carries Modern Library Giant numbers). redblack0000unse_p8m8 is the 1926 first printing but volume one only; volume two not found open. | — | — | pending | — |
 | — | — | moncrieff-past-recaptured: Time Regained / The Past Recaptured is Stephen Hudson's and Frederick Blossom's, not Scott Moncrieff's (he died in 1930). | — | — | excluded | — |
 
+## Arthur W. Ryder (Kalidasa, Little Clay Cart, Panchatantra, Gita)
+
+Shelf: `pipeline/ryder_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ryder` · titles `python3 pipeline/split_shelf_titles.py ryder`.
+Round 10 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ryder-kalidasa-shakuntala-and-other-works` | Kalidasa | Translations of Shakuntala and Other Works | Arthur W. Ryder | 1912 | have | PG 16659 |
+| `ryder-sudraka-little-clay-cart` | Sudraka | The Little Clay Cart | Arthur W. Ryder | 1905 | have | PG 21020 |
+| `ryder-twenty-two-goblins` | Sivadasa (Vetalapanchavimsati) | Twenty-Two Goblins | Arthur W. Ryder | 1917 | have | PG 2290 |
+| `ryder-panchatantra` | Panchatantra (anonymous) | The Panchatantra | Arthur W. Ryder | 1925 | have-raw | IA `panchatantra035159mbp` |
+| `ryder-bhagavad-gita` | Bhagavad-gita | The Bhagavad-gita | Arthur W. Ryder | 1929 | have-raw | IA `bhagavadgita0000unse_g1d6` |
+| `ryder-dandin-ten-princes` | — | 1927: US PD, but the only open scan (bwb_W7-BOY-629) is the third impression, 1960. | — | — | pending | — |
+| — | — | ryder-golds-gloom: Gold's Gloom (1925) is a selection from his Panchatantra, already shelved whole. | — | — | excluded | — |
+| — | — | pg-52309: A second Gutenberg Twenty-Two Goblins; 2290 is used. | — | — | excluded | — |
+
+## Gertrude Bell (Hafiz)
+
+Shelf: `pipeline/gertrude-bell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py gertrude-bell` · titles `python3 pipeline/split_shelf_titles.py gertrude-bell`.
+Round 10 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `bell-hafiz-divan` | Hafiz | Poems from the Divan of Hafiz | Gertrude Lowthian Bell | 1897 | have | PG 74883 |
+| — | — | bell-own-works: The Desert and the Sown, her letters: her own books. | — | — | excluded | — |
+
+## The Oscar Levy Nietzsche (Common, Zimmern, Ludovici and others)
+
+Shelf: `pipeline/levy-nietzsche_shelf.json` · fetch `python3 pipeline/fetch_shelf.py levy-nietzsche` · titles `python3 pipeline/split_shelf_titles.py levy-nietzsche`.
+Round 10 (2026-10-10), vetoable. Each title gates on its own translator. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `levy-nietzsche-zarathustra` | Nietzsche | Thus Spake Zarathustra | Thomas Common | 1909 | have | PG 1998 |
+| `levy-nietzsche-beyond-good-and-evil` | Nietzsche | Beyond Good and Evil | Helen Zimmern | 1907 | have | PG 4363 |
+| `levy-nietzsche-human-all-too-human-1` | Nietzsche | Human, All-Too-Human, Part I | Helen Zimmern | 1909 | have | PG 51935 |
+| `levy-nietzsche-human-all-too-human-2` | Nietzsche | Human, All-Too-Human, Part II | Paul V. Cohn | 1911 | have | PG 37841 |
+| `levy-nietzsche-dawn-of-day` | Nietzsche | The Dawn of Day | J. M. Kennedy | 1911 | have | PG 39955 |
+| `levy-nietzsche-joyful-wisdom` | Nietzsche | The Joyful Wisdom | Thomas Common (poetry by Paul V. Cohn and Maude Dominica Petre) | 1910 | have | PG 52881 |
+| `levy-nietzsche-genealogy-of-morals` | Nietzsche | The Genealogy of Morals | Horace B. Samuel (with J. M. Kennedy) | 1910 | have | PG 52319 |
+| `levy-nietzsche-birth-of-tragedy` | Nietzsche | The Birth of Tragedy | Wm. A. Haussmann | 1909 | have | PG 51356 |
+| `levy-nietzsche-thoughts-out-of-season-2` | Nietzsche | Thoughts Out of Season, Part II | Adrian Collins | 1909 | have | PG 38226 |
+| `levy-nietzsche-early-greek-philosophy` | Nietzsche | Early Greek Philosophy and Other Essays | Maximilian A. Mügge | 1911 | have | PG 51548 |
+| `levy-nietzsche-twilight-and-antichrist` | Nietzsche | The Twilight of the Idols; The Antichrist | Anthony M. Ludovici | 1911 | have | PG 52263 |
+| `levy-nietzsche-ecce-homo` | Nietzsche | Ecce Homo | Anthony M. Ludovici (poetry by Paul V. Cohn) | 1911 | have | PG 52190 |
+| `levy-nietzsche-case-of-wagner` | Nietzsche | The Case of Wagner, Nietzsche contra Wagner, Selected Aphorisms | Anthony M. Ludovici | 1911 | have | PG 25012 |
+| `levy-nietzsche-will-to-power-1` | Nietzsche | The Will to Power, Books I and II | Anthony M. Ludovici | 1909 | have | PG 52914 |
+| `levy-nietzsche-will-to-power-2` | Nietzsche | The Will to Power, Books III and IV | Anthony M. Ludovici | 1910 | have | PG 52915 |
+| `levy-nietzsche-missing-volumes` | — | Levy vols not on Gutenberg in this pass: Thoughts Out of Season I (Ludovici), Miscellaneous Aphorisms (Human All-Too-Human II), the Future of our Educational Institutions (Kennedy), Poems, Letters, the Index. Look on archive.org next round. | — | — | pending | — |
+| — | — | pg-52124: A second Gutenberg Joyful Wisdom from the same Levy volume; 52881 (Distributed Proofreaders) is used. | — | — | excluded | — |
+| — | — | pg-19322: Mencken's own Antichrist translation (1918), not Levy's; its front matter carries 1923-1924 dates; a separate translator. | — | — | excluded | — |
+| — | — | pg-38145: Alexander Harvey's 1908 Human, All Too Human selection, not Levy's. | — | — | excluded | — |
+| — | — | pg-19634: Another Beyond Good and Evil with no translator in the header; not checked. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

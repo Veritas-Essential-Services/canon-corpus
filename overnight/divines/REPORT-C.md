@@ -93,3 +93,5 @@
 - 2026-10-10T09:03-05:00: Ransome request reached lanes B and C together; B pushed first, C's duplicate dropped. ransome-translations shelf (Gourmont, Old Peter): 0 mismatched.
 
 - 2026-10-10T09:12-05:00: round 9, scott-moncrieff shelf: 9 titles (PG 5, IA 4), 6 pending. --verify --record 0 mismatched.
+
+- 2026-10-10T09:17-05:00: round 10: ryder (5), gertrude-bell (1), levy-nietzsche (15). --verify --record 0 mismatched on all.
