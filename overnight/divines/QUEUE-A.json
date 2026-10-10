@@ -2281,10 +2281,12 @@
     },
     {
       "id": "c-f-w-walther",
-      "status": "queued",
+      "status": "done",
       "scope": "C. F. W. Walther (d. 1887): English translations printed before 1930 only (Law and Gospel, tr. Dau, 1929)",
       "added": "2026-10-10T12:26:55-05:00",
-      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held."
+      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:15:05-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "e-v-gerhart",

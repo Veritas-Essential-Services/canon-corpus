@@ -3390,3 +3390,20 @@ Slugs `schmucker-*`. Gettysburg Seminary. Fifteen items; his Storr and Flatt tra
 | Samuel Mosheim, Beale M., Samuel Christian Schmucker and others | excluded | |
 | Kurzgefasste Geschichte (German, 1834) | excluded | |
 | 1965 and 1969 reprints | excluded | |
+
+## C. F. W. Walther (round 19, my pick, 2026-10-10)
+
+Slugs `walther-*`. English translations printed before 1930 only: three items. Translators Dau and Crull are recorded and machine-checked; the 1872 sermon names none.
+
+| Work | Status | Where |
+|---|---|---|
+| The Proper Distinction between Law and Gospel: Thirty-Nine Evening Lectures, reproduced from the German edition of 1897 by W. H. T. Dau (St. Louis: Concordia, 1929) | have-ocr | IA `properdistinctio00walt` |
+| The Controversy concerning Predestination, translated by Aug. Crull (St. Louis: Concordia, 1881) | have-ocr | IA `WaltherControversyConcerningPredestination` |
+| The Doctrine of the Lord's Supper: A Sermon, translated from the German, translator not named (Philadelphia: The Lutheran Bookstore, 1872) | have-ocr | IA `doctrineofthelordssupper` |
+| The Doctrine concerning Election, from the Formula of Concord in questions and answers, with his preface and conclusion (1881; IA doctrineconcerni00walt): mostly the Formula's text | alternate | not shelved |
+| Two undated copies of Dau's Law and Gospel (IA Walther_ProperDisctinctionLawGospel1929, properdistinctio0000drcf) | alternate | not shelved |
+| German works (Licht des Lebens, district essays, letters) | excluded | |
+| Church Membership (1931), 1938 items, DeepL machine translations and other modern translations | excluded | |
+| Janzow (1899) and Steffens (1917) lives of him | excluded | |
+| 1872 conference proceedings that do not name him on the title page | excluded | |
+| other Walthers | excluded | |
