@@ -1,5 +1,5 @@
 {
- "_about": "John Bagnell Bury (1861-1927), Regius Professor of Modern History at Cambridge. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): A History of the Later Roman Empire from Arcadius to Irene (2 vols., 1889), A History of the Eastern Roman Empire (1912) and The Constitution of the Later Roman Empire (Creighton lecture, 1910), raw IA OCR. No uids minted.",
+ "_about": "John Bagnell Bury (1861-1927), Regius Professor of Modern History at Cambridge. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): A History of the Later Roman Empire from Arcadius to Irene (2 vols., 1889), A History of the Eastern Roman Empire (1912) and The Constitution of the Later Roman Empire (Creighton lecture, 1910), raw IA OCR. No uids minted. Also A History of Greece to the Death of Alexander the Great, first edition (Macmillan, 1900), raw IA OCR.",
  "_name_words": [
   "bury"
  ],
@@ -26,6 +26,10 @@
   "bury-constitution-later-roman-empire-1910": [
    "constitutionofla00buryuoft",
    "The Constitution of the Later Roman Empire (Creighton memorial lecture; Cambridge: University Press, 1910)"
+  ],
+  "bury-history-greece-1900": [
+   "ahistorygreecet01burygoog",
+   "A History of Greece to the Death of Alexander the Great (London: Macmillan, 1900)"
   ]
  },
  "_excluded": {
@@ -74,6 +78,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1910",
    "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bury-history-greece-1900": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. b. bury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

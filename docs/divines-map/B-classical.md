@@ -2974,6 +2974,7 @@ Shelf: `pipeline/bury_shelf.json`. Bury's Later Roman Empire (1889, 2 vols.), Ea
 | A History of the Later Roman Empire from Arcadius to Irene (395 A.D. to 800 A.D.), vol. II (London and New York: Macmillan, 1889) |  | `bury-later-roman-empire-v2-1889` | have-raw (IA `ahistorylaterro01burygoog`) |
 | A History of the Eastern Roman Empire from the Fall of Irene to the Accession of Basil I (London: Macmillan, 1912) |  | `bury-eastern-roman-empire-1912` | have-raw (IA `historyofeastern00buryiala`) |
 | The Constitution of the Later Roman Empire (Creighton memorial lecture; Cambridge: University Press, 1910) |  | `bury-constitution-later-roman-empire-1910` | have-raw (IA `constitutionofla00buryuoft`) |
+| A History of Greece to the Death of Alexander the Great (London: Macmillan, 1900) |  | `bury-history-greece-1900` | have-raw (IA `ahistorygreecet01burygoog`) |
 
 Excluded: The Student's Roman Empire (IA studentsromanemp00buryuoft) (no year on the scan's title page; held back under the undated rule); A History of the Later Roman Empire vol. II (IA historyoflaterro02buryuoft) (no year on the scan's title page; the dated 1889 copy is taken)
 
