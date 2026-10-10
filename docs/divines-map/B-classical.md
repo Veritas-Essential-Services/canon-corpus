@@ -2423,10 +2423,11 @@ Shelf: `pipeline/presocratics_shelf.json`. The fragments of the early Greek phil
 |---|---|---|---|
 | The Fragments of the Work of Heraclitus of Ephesus on Nature, translated from the Greek text of Bywater (Baltimore: N. Murray, 1889) | G. T. W. Patrick | `heraclitus-patrick-1889` | have-raw (IA `fragmentsofworko00hera`) |
 | The Fragments of Empedocles, translated into English verse (Open Court, 1908) | William Ellery Leonard | `empedocles-leonard-1908` | have-raw (IA `thefragmentsofem00empeuoft`) |
+| The First Philosophers of Greece: an edition and translation of the remaining fragments of the pre-Sokratic philosophers (New York: Scribner's, 1898; Greek facing) | Arthur Fairbanks | `presocratics-fairbanks-first-philosophers-1898` | have-raw (IA `firstphilosopher00fairiala`) |
 
-Pending (wishlist): Fairbanks's First Philosophers of Greece (1898) from a cleaner scan.
+Pending (wishlist): none known. Fairbanks's First Philosophers of Greece (1898) is now held above from a cleaner scan.
 
-Excluded: Fairbanks 1898 (Greek facing, OCR 0.73-0.77); Burnet's Early Greek Philosophy (a study, not a translation).
+Excluded: two other Fairbanks 1898 scans (Greek facing, OCR 0.73-0.77; a third copy at 0.790 is held above); Burnet's Early Greek Philosophy (a study, not a translation).
 
 ## Paulus Aegineta
 
