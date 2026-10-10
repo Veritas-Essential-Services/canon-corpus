@@ -3649,3 +3649,34 @@ Slugs `colquhoun-*`. Leith minister, Marrow theology; all Edinburgh printings 18
 | John Colquhoun of Baldernock (1766 sermon) and other namesakes | excluded | |
 | Gaelic translation (Edinburgh, 1826) | excluded | |
 | modern reprints (1965, 1993) | excluded | |
+
+## F. J. A. Hort (round 20, my pick, 2026-10-10)
+
+Slugs `hort-*`. CCEL's Christian Ecclesia was keyed from a 1914 reprint, so the 1897 first edition is shelved instead. Most books are posthumous, edited by others.
+
+| Work | Status | Where |
+|---|---|---|
+| The Epistle of St James: Greek Text with Introduction, Commentary as far as Chapter IV, Verse 7 (London: Macmillan, 1909) | have-clean | CCEL hort/james1909 |
+| Two Dissertations: On MONOGENES THEOS in Scripture and Tradition; On the Constantinopolitan Creed (Cambridge and London: Macmillan, 1876) | have-ocr | IA `twodissertations00hortuoft` |
+| The Way the Truth the Life, the Hulsean Lectures for 1871 (London: Macmillan; verso: first edition 1893, reprinted 1897) | have-ocr | IA `thewaythetruthth00hortuoft` |
+| Judaistic Christianity: A Course of Lectures (Cambridge and London: Macmillan, 1894) | have-ocr | IA `cu31924029232141` |
+| Prolegomena to St Paul's Epistles to the Romans and the Ephesians (London: Macmillan, 1895) | have-ocr | IA `prolegomenatostp00hortuoft` |
+| Six Lectures on the Ante-Nicene Fathers (London: Macmillan, 1895) | have-ocr | IA `sixlecturesonant00hortuoft` |
+| Village Sermons (London: Macmillan, 1897) | have-ocr | IA `villagesermons00hortuoft` |
+| Village Sermons, Second Series (London: Macmillan; no year on title page, catalogued 1904) | have-ocr | IA `villagesermons02hortuoft` |
+| The Christian Ecclesia: A Course of Lectures, first edition (London and New York: Macmillan, 1897) | have-ocr | IA `christianecclesi1897hort` |
+| Cambridge and Other Sermons (London and New York: Macmillan, 1898) | have-ocr | IA `cambridgeotherse00hortuoft` |
+| The First Epistle of St Peter I.1-II.17: Greek Text with Introductory Lecture and Commentary (London: Macmillan, 1898) | have-ocr | IA `firstepistlestp00hortgoog` |
+| Notes Introductory to the Study of the Clementine Recognitions (London and New York: Macmillan; no year on title page, catalogued 1901) | have-ocr | IA `clementinerecogn00hortuoft` |
+| The Apocalypse of St John I-III: Greek Text with Introduction and Commentary (London: Macmillan, 1908) | have-ocr | IA `cu31924029294992` |
+| CCEL hort/ecclesia: keyed from the 1914 Shilling Theological Library reprint; the 1897 first edition is shelved instead | alternate | not shelved |
+| St James 1909 (IA epistleofstjames01hort): OCR garbles the name; CCEL's text is shelved | alternate | not shelved |
+| Clement of Alexandria, Miscellanies Book VII (1902; miscellaniesbook00clemuoft): an edition and translation, finished by J. B. Mayor | alternate | not shelved |
+| Sermons on the Books of the Bible (1900; in.ernet.dli.2015.37930): a selection from Village Sermons | alternate | not shelved |
+| The New Testament in the Original Greek, with B. F. Westcott (1881-82; newtestamentinor01westuoft, newtestamentinor82west): joint critical text; the Introduction volume is Hort's | alternate | not shelved |
+| Second copies: judaisticchristi00hortiala, cu31924029292871, waytruthlife00hortuoft, in.ernet.dli.2015.42683, villagesermons01hortuoft, cu31924029306509 | alternate | not shelved |
+| Life and Letters, by his son Arthur Fenton Hort (1896): by another hand | excluded | |
+| judaisticchristi00hortuoft is a Wordsworth Church History volume | excluded | |
+| firstepistleofst00hortuoft and epistleofstjames00hortuoft: English text OCR'd as Greek, useless | excluded | |
+| later reprints (1913, 1922 and modern) | excluded | |
+| Journal of Classical and Sacred Philology: a periodical | excluded | |
