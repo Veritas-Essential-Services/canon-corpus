@@ -3407,3 +3407,22 @@ Slugs `walther-*`. English translations printed before 1930 only: three items. T
 | Janzow (1899) and Steffens (1917) lives of him | excluded | |
 | 1872 conference proceedings that do not name him on the title page | excluded | |
 | other Walthers | excluded | |
+
+## E. V. Gerhart (round 19, my pick, 2026-10-10)
+
+Slugs `gerhart-*`. Mercersburg theologian. The two-volume Institutes, the Heidelberg lectures and three early addresses.
+
+| Work | Status | Where |
+|---|---|---|
+| Institutes of the Christian Religion, vol. 1, with an introduction by Philip Schaff (New York: A. C. Armstrong, 1891) | have-ocr | IA `institutesofchri01gerh` |
+| Institutes of the Christian Religion, vol. 2 (New York: Funk & Wagnalls, 1894) | have-ocr | IA `institutesofchri02gerh_0` |
+| Lectures on the Heidelberg Catechism (Lancaster, Pa.: Lecture Printing Society of the Theological Seminary, 1891) | have-ocr | IA `lecturesonheidel00gerh` |
+| Relation of Religion to Science: An Address at Marshall College (Chambersburg: German Reformed Church, 1842) | have-ocr | IA `relationofreligi00gerh` |
+| The Proper Vocation of a Scholar: An Address (Mercersburg: Journal Office, MDCCCXLVII) | have-ocr | IA `propervocationof00gerh` |
+| Blessedness of Those Who Pass through Great Tribulation: A Discourse Occasioned by the Death of Aaron B. Dundore (Lancaster: Theo. Fenn, 1858; preached November 29, 1857) | have-ocr | IA `blessednessoftho00gerh` |
+| An Introduction to the Study of Philosophy, with an Outline Treatise on Logic (1858; IA introductiontost00gerh): philosophy | alternate | not shelved |
+| The Education of Woman (1864; IA educationofwoman00gerh): an address on education | alternate | not shelved |
+| Institutes, other copies including the uniform 1894 Funk & Wagnalls set | alternate | not shelved |
+| Rauch's The Inner Life of the Christian, which he edited (1856), and collective addresses and dedications where he wrote only a part | excluded | |
+| periodical articles | excluded | |
+| Gerhart Hauptmann and others | excluded | |

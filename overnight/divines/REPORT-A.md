@@ -880,3 +880,6 @@
 
 ## 2026-10-10 13:15 CDT — c-f-w-walther done
 - `pipeline/c-f-w-walther_shelf.json`: 0 CCEL, 0 PG, 3 IA. Small shelf. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — e-v-gerhart done
+- `pipeline/e-v-gerhart_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for gerhart-great-tribulation (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
