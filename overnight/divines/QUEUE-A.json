@@ -2125,6 +2125,90 @@
       "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch).",
       "finished": "2026-10-10T11:18:02-05:00",
       "notes": "built and verified"
+    },
+    {
+      "id": "arthur-w-pink",
+      "status": "queued",
+      "scope": "Arthur W. Pink: pre-1930 printings only (The Sovereignty of God 1918 etc.; d. 1952)",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "a-t-pierson",
+      "status": "queued",
+      "scope": "A. T. Pierson (Arthur Tappan Pierson, d. 1911): missions, Bible study, George Muller biography",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "a-b-simpson",
+      "status": "queued",
+      "scope": "A. B. Simpson (d. 1919): Christ in the Bible, The Fourfold Gospel",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "john-l-girardeau",
+      "status": "queued",
+      "scope": "John L. Girardeau (d. 1898): Calvinism and Evangelical Arminianism, Discussions",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "augustus-h-strong",
+      "status": "queued",
+      "scope": "Augustus H. Strong (d. 1921): Systematic Theology (1907-09), Philosophy and Religion",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "e-y-mullins",
+      "status": "queued",
+      "scope": "E. Y. Mullins (d. 1928): The Axioms of Religion, The Christian Religion in its Doctrinal Expression",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "b-h-carroll",
+      "status": "queued",
+      "scope": "B. H. Carroll (d. 1914): An Interpretation of the English Bible (pre-1930 volumes)",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "j-r-graves",
+      "status": "queued",
+      "scope": "J. R. Graves (d. 1893): Old Landmarkism, The Work of Christ in Seven Dispensations",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "a-j-gordon",
+      "status": "queued",
+      "scope": "A. J. Gordon (d. 1895): The Ministry of the Spirit, In Christ, The Two-Fold Life",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "c-i-scofield",
+      "status": "queued",
+      "scope": "C. I. Scofield (d. 1921): Rightly Dividing the Word, notes (pre-1930 printings; not the Scofield Bible text itself unless clearly PD)",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "h-a-ironside",
+      "status": "queued",
+      "scope": "H. A. Ironside (d. 1951): pre-1930 printings only",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "a-c-gaebelein",
+      "status": "queued",
+      "scope": "A. C. Gaebelein (d. 1945): pre-1930 printings only",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held."
     }
   ]
 }
