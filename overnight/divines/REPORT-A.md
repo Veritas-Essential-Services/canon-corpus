@@ -775,3 +775,6 @@
 
 ## 2026-10-10 10:28 CDT — rudolf-stier done
 - `pipeline/rudolf-stier_shelf.json`: 0 CCEL, 0 PG, 10 IA. Title pages read for stier-words-1, stier-words-2, stier-words-4, stier-words-5, stier-words-7, stier-words-8, stier-risen-saviour-1864 (OCR garbles the name), recorded in `_identity_checked`. The OCR reads his name "EUDOLF STIEE" on most title pages; each read. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:28 CDT — c-e-luthardt done
+- `pipeline/c-e-luthardt_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for luthardt-st-john-author-1875, luthardt-st-johns-gospel-1 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

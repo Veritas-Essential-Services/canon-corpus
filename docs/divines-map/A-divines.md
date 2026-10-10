@@ -2656,3 +2656,18 @@ Slugs `stier-*`. The eight volumes of The Words of the Lord Jesus are a mixed se
 | The Words of the Lord Jesus, vol. 8, tr. William B. Pope (Edinburgh: T. & T. Clark, third edition, 1863) | have-ocr | IA `wordsoflordjesus08stie` |
 | The Words of the Risen Saviour, and Commentary on the Epistle of St. James, tr. William B. Pope, new edition (Edinburgh: T. & T. Clark, MDCCCLXIV) | have-ocr | IA `wordsofrisensa00stie` |
 | The Words of the Apostles Expounded, tr. G. H. Venables (Edinburgh: T. & T. Clark, MDCCCLXIX); the translator's name is not machine-checked | have-ocr | IA `wordsofapostles00stie` |
+
+## C. E. Luthardt (in English) (round 16, my pick, 2026-10-10)
+
+Slugs `luthardt-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| Apologetic Lectures on the Fundamental Truths of Christianity, tr. Sophia Taylor (Edinburgh: T. & T. Clark, 1865) | have-ocr | IA `apologeticlectur00luth_1` |
+| Apologetic Lectures on the Saving Truths of Christianity, tr. Sophia Taylor (Edinburgh: T. & T. Clark, 1868) | have-ocr | IA `apologeticlectur00luth_2` |
+| Apologetic Lectures on the Moral Truths of Christianity, tr. Sophia Taylor (Edinburgh: T. & T. Clark, 1873) | have-ocr | IA `apologeticlectu02luthgoog` |
+| St. John the Author of the Fourth Gospel, revised, translated and enlarged by C. R. Gregory (Edinburgh: T. & T. Clark, 1875) | have-ocr | IA `stjohnauthoroffo00luthuoft` |
+| St. John's Gospel Described and Explained, vol. 1, tr. C. R. Gregory (Edinburgh: T. & T. Clark, 1876) | have-ocr | IA `stjohnsgospeldes01luth` |
+| St. John's Gospel Described and Explained, vol. 2, tr. C. R. Gregory (Edinburgh: T. & T. Clark; catalogued 1876, issued 1877) | have-ocr | IA `stjohnsgospeldes02luth` |
+| St. John's Gospel Described and Explained, vol. 3, tr. C. R. Gregory (Edinburgh: T. & T. Clark, 1878) | have-ocr | IA `stjohnsgospeldes1878luth` |
+| History of Christian Ethics, vol. 1, tr. W. Hastie (Edinburgh: T. & T. Clark, 1889) | have-ocr | IA `historyofchristi01luthuoft` |
