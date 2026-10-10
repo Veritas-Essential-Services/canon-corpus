@@ -2384,3 +2384,34 @@ Slugs `wbpope-*`. Compendium vol. 2's title page OCR reads 1877, against 1879 fo
 | A Higher Catechism of Theology (London: T. Woolmer, 1883) | have-ocr | IA `highercatechismo00pope_0` |
 | The Inward Witness and Other Discourses (London: T. Woolmer, 1885) | have-ocr | IA `inwardwitnessan00popegoog` |
 | the one-volume first edition (London, 1875; IA compendiumofchri0000wbpo, a "0000"-style id): superseded by the enlarged second edition | alternate | not shelved |
+
+## Martin Luther (in English) (round 15, my pick, 2026-10-10)
+
+Slugs `luther-*`. Translations printed before 1930 only; each translator read on the title page, and four are machine-checked against the text (Hazlitt, Gillett, Cole, Buchheim). Works of Martin Luther vols. 3-6 (1930-32) are left out under the current fetcher gate.
+
+| Work | Status | Where |
+|---|---|---|
+| First Principles of the Reformation, ed. Henry Wace and C. A. Buchheim (London, 1883) | have-clean | CCEL l/luther/first_prin |
+| The Table-Talk of Martin Luther, tr. William Hazlitt (CCEL: Philadelphia, Lutheran Publication Society, no year) | have-clean | CCEL l/luther/tabletalk |
+| The Epistles of St. Peter and St. Jude Preached and Explained, tr. E. H. Gillett (New York: Randolph, 1859) | have-clean | CCEL l/luther/stpeter_stjude |
+| Works of Martin Luther, with Introductions and Notes, vol. 1 (Philadelphia: A. J. Holman, 1915) | have-clean | Gutenberg 31604 |
+| Works of Martin Luther, with Introductions and Notes, vol. 2 (Philadelphia: A. J. Holman, 1916) | have-clean | Gutenberg 34904 |
+| Epistle Sermons, vol. 2, tr. J. N. Lenker (Minneapolis: The Luther Press, 1909) | have-clean | Gutenberg 28464 |
+| Epistle Sermons, vol. 3, tr. J. N. Lenker (Minneapolis: The Luther Press, 1909) | have-clean | Gutenberg 30619 |
+| Commentary on Genesis, vol. 1, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, 1904) | have-clean | Gutenberg 48193 |
+| Commentary on Genesis, vol. 2, tr. J. N. Lenker (Minneapolis: The Luther Press, 1910) | have-clean | Gutenberg 27978 |
+| A Commentary on St. Paul's Epistle to the Galatians, the 16th-century English version, with Middleton's Life of Luther, new edition corrected and revised (London: B. Blake, 1839) | have-ocr | IA `commentaryonst00luth` |
+| Martin Luther on the Bondage of the Will, tr. Henry Cole (London: Simpkin & Marshall, 1823) | have-ocr | IA `bondagewill00colegoog` |
+| Precious and Sacred Writings vol. 10: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, 1905) | have-ocr | IA `precioussacredwr10luth` |
+| Precious and Sacred Writings vol. 11: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, 1906) | have-ocr | IA `precioussacredwr11luth` |
+| Precious and Sacred Writings vol. 12: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, 1907) | have-ocr | IA `precioussacredwr12luth` |
+| Precious and Sacred Writings vol. 13: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, copyright 1904) | have-ocr | IA `precioussacredwr13luth` |
+| Precious and Sacred Writings vol. 14: Church Postil Gospels, tr. J. N. Lenker (Minneapolis: Lutherans in All Lands, copyright 1905) | have-ocr | IA `precioussacredwr14luth` |
+| Table-Talk, tr. Hazlitt, Bohn new edition 1857 (IA tabletalkofmarti00luth): the dated printed witness for the CCEL text | alternate | not shelved |
+| The Bondage of the Will, tr. E. T. Vaughan (London: Hamilton, 1823; IA martinlutheronth00luthuoft): the other 1823 translation | alternate | not shelved |
+| Galatians (London: Mathews & Leigh, 1810; IA commentaryonstpa00luthuoft) | alternate | not shelved |
+| CCEL good_works and PG 418: the Treatise on Good Works from Works vol. 1 (1915), already on this shelf | alternate | not shelved |
+| CCEL galatians and PG 1549: Graebner's 1939 abridgment | excluded | |
+| CCEL bondage: Atherton's 1931 revision of Cole | excluded | |
+| CCEL sermons: keyed from a Baker reprint of Lenker | excluded | |
+| Works of Martin Luther vols. 3-6 (1930-32), and PG 272 and PG 1670 (modern translations) | excluded | |

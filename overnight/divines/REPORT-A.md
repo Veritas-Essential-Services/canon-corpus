@@ -724,3 +724,6 @@
 
 ## 2026-10-10 09:25 CDT — william-burt-pope done
 - `pipeline/william-burt-pope_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for wbpope-compendium-1, wbpope-prayers-st-paul-1876 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — martin-luther done
+- `pipeline/martin-luther_shelf.json`: 3 CCEL, 6 PG, 7 IA. Cole's Bondage of the Will (1823 Google scan) OCRs at 82%. `--verify --record`: 0 mismatched. 0 uids minted.
