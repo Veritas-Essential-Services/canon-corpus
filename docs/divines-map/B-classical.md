@@ -3081,6 +3081,8 @@ Shelf: `pipeline/nettleship_shelf.json`. Lectures and Essays on Subjects Connect
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Lectures and Essays on Subjects connected with Latin Literature and Scholarship (Oxford: Clarendon Press, 1885) |  | `nettleship-lectures-essays-1885` | have-raw (IA `cu31924026479919`) |
+| Lectures and Essays, second series, ed. F. Haverfield (Oxford: Clarendon Press, 1895) |  | `nettleship-lectures-essays-second-series-1895` | have-raw (IA `cu31924021595669`) |
 
 ## R. Y. Tyrrell (scholarship)
 
