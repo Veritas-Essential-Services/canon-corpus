@@ -2914,6 +2914,7 @@ Shelf: `pipeline/boissier_shelf.json`. Gaston Boissier (1823-1908) in English, t
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Cicero and His Friends | Adnah David Jones | `boissier-cicero-and-his-friends` | have (PG 72216) |
 
 ## P. N. Ure (scholarship)
 
