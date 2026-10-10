@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Eiríkr Magnússon (1833-1913) and William Morris (1834-1896): their Icelandic sagas. The Volsunga Saga (1870), Grettir the Strong (1869) and Frithiof the Bold (1875). PD everywhere. Morris's Odyssey, Aeneid and Beowulf stay on the homer, virgil and beowulf shelves. Added 2026-10-10 by lane C (round 12); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Eiríkr Magnússon (1833-1913) and William Morris (1834-1896): their Icelandic sagas. The Volsunga Saga (1870), Grettir the Strong (1869), Frithiof the Bold (1875), Three Northern Love Stories (1875) and the six-volume Saga Library (1891-1905, including their Heimskringla). PD everywhere. Morris's Odyssey, Aeneid and Beowulf stay on the homer, virgil and beowulf shelves. Added 2026-10-10 by lane C (round 12); Adam may veto. No uids minted.",
  "_name_words": [
   "magnússon",
   "magnusson",
@@ -28,7 +28,36 @@
    "The Story of Frithiof the Bold"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "mm-saga-library-1": [
+   "sagalibrarydonei01snoriala",
+   "The Saga Library"
+  ],
+  "mm-saga-library-2": [
+   "sagalibrarydonei02snor",
+   "The Saga Library"
+  ],
+  "mm-saga-library-3": [
+   "sagalibrarydonei03snor",
+   "The Saga Library"
+  ],
+  "mm-saga-library-4": [
+   "sagalibrarydonei04snor",
+   "The Saga Library"
+  ],
+  "mm-saga-library-5": [
+   "sagalibrary05snoruoft",
+   "The Saga Library"
+  ],
+  "mm-saga-library-6": [
+   "sagalibrarydonei06snor",
+   "The Saga Library"
+  ],
+  "mm-three-northern": [
+   "threenorthernlo00morrgoog",
+   "Three Northern Love Stories"
+  ]
+ },
  "titles": {
   "mm-volsunga-saga": {
    "source": "mm-volsunga",
@@ -53,14 +82,70 @@
    "translated": 1875,
    "translator": "Eiríkr Magnússon and William Morris",
    "scan_edition": "Project Gutenberg 24420 (clean text)"
+  },
+  "mm-saga-library-vol-1": {
+   "source": "mm-saga-library-1",
+   "of": "anonymous (Old Norse)",
+   "work": "The Saga Library, vol. 1: The Story of Howard the Halt; The Banded Men; Hen Thorir",
+   "translated": 1891,
+   "translator": "William Morris and Eiríkr Magnússon",
+   "scan_edition": "Bernard Quaritch, London, 1891 (raw OCR); title page read"
+  },
+  "mm-saga-library-vol-2": {
+   "source": "mm-saga-library-2",
+   "of": "anonymous (Old Norse)",
+   "work": "The Saga Library, vol. 2: The Story of the Ere-Dwellers (Eyrbyggja Saga), with The Heath-Slayings",
+   "translated": 1892,
+   "translator": "William Morris and Eiríkr Magnússon",
+   "scan_edition": "Bernard Quaritch, London, 1892 (raw OCR); title page read"
+  },
+  "mm-saga-library-vol-3": {
+   "source": "mm-saga-library-3",
+   "of": "Snorri Sturluson",
+   "work": "The Saga Library, vol. 3: Heimskringla, vol. I",
+   "translated": 1893,
+   "translator": "William Morris and Eiríkr Magnússon",
+   "scan_edition": "Bernard Quaritch, London, 1893 (raw OCR); title page read"
+  },
+  "mm-saga-library-vol-4": {
+   "source": "mm-saga-library-4",
+   "of": "Snorri Sturluson",
+   "work": "The Saga Library, vol. 4: Heimskringla, vol. II",
+   "translated": 1894,
+   "translator": "William Morris and Eiríkr Magnússon",
+   "scan_edition": "Bernard Quaritch, London, 1894 (raw OCR); title page read"
+  },
+  "mm-saga-library-vol-5": {
+   "source": "mm-saga-library-5",
+   "of": "Snorri Sturluson",
+   "work": "The Saga Library, vol. 5: Heimskringla, vol. III",
+   "translated": 1895,
+   "translator": "William Morris and Eiríkr Magnússon",
+   "scan_edition": "Bernard Quaritch, London, 1895 (raw OCR); title page read; the archive.org id says 05 and the title page says VOL. V"
+  },
+  "mm-saga-library-vol-6": {
+   "source": "mm-saga-library-6",
+   "of": "Snorri Sturluson",
+   "work": "The Saga Library, vol. 6: Heimskringla, vol. IV (Magnússon's life of Snorri, notes and indexes)",
+   "translated": 1905,
+   "translator": "Eiríkr Magnússon",
+   "scan_edition": "Bernard Quaritch, London, 1905 (raw OCR); title page read"
+  },
+  "mm-three-northern-love-stories": {
+   "source": "mm-three-northern",
+   "of": "anonymous (Old Norse)",
+   "work": "Three Northern Love Stories and Other Tales",
+   "translated": 1875,
+   "translator": "Eiríkr Magnússon and William Morris",
+   "scan_edition": "Ellis and White, London, 1875 (raw OCR; Google scan with its boilerplate page at the head)"
   }
  },
- "_pending": {
-  "mm-saga-library": "The Saga Library (6 vols, 1891-1905: Howard the Halt, the Banded Men, Hen Thorir, the Ere-Dwellers, the Heimskringla) and Three Northern Love Stories (1875): on archive.org; next round."
- },
+ "_pending": {},
  "_excluded": {
   "pg-347": "Another Grettir's Saga with no translator named (apparently G. A. Hight's 1914 Everyman version); not Magnússon and Morris.",
-  "pg-48622": "Baring-Gould's Grettir the Outlaw, his own retelling; on baring-gould_shelf.json."
+  "pg-48622": "Baring-Gould's Grettir the Outlaw, his own retelling; on baring-gould_shelf.json.",
+  "sagalibrary01snoruoft": "Labelled vol. 1 on archive.org, but its title page reads Saga Library VOL. III (Heimskringla I); the cdl copy is used for vol. 3.",
+  "heimskringla-laing": "Laing's Heimskringla (a different translation) is on sturluson_shelf.json; the Saga Library Heimskringla here is Morris and Magnússon's, a second witness."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
@@ -90,6 +175,83 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Eiríkr Magnússon; William Morris"
+  },
+  "mm-saga-library-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1891-1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mm-saga-library-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1891-1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mm-saga-library-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mm-saga-library-4": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1891-1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mm-saga-library-5": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1891-1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mm-saga-library-6": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1891-1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mm-three-northern": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnusson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -107,6 +269,62 @@
    "pg": 24420,
    "pg_copyrighted_marker": false,
    "pg_translator": "Eiríkr Magnússon"
+  },
+  "mm-saga-library-1": {
+   "ia": "sagalibrarydonei01snoriala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1870,
+    1891
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mm-saga-library-2": {
+   "ia": "sagalibrarydonei02snor",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1892
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mm-saga-library-3": {
+   "ia": "sagalibrarydonei03snor",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1893
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mm-saga-library-4": {
+   "ia": "sagalibrarydonei04snor",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1894
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mm-saga-library-5": {
+   "ia": "sagalibrary05snoruoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "mm-saga-library-6": {
+   "ia": "sagalibrarydonei06snor",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1905
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mm-three-northern": {
+   "ia": "threenorthernlo00morrgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1839,
+    1875
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

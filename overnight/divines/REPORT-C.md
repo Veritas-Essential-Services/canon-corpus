@@ -99,3 +99,5 @@
 - 2026-10-10T09:26-05:00: round 11: archer-ibsen (11 vols). --verify --record 0 mismatched.
 
 - 2026-10-10T09:38-05:00: round 12: morris-magnusson (3), strindberg-english (14). --verify --record 0 mismatched.
+
+- 2026-10-10T09:45-05:00: round 13: Saga Library + TNLS (morris-magnusson, now 10), Björkman series 1 (strindberg-english, now 15), pickthall (1, 1930 override). --verify --record 0 mismatched.

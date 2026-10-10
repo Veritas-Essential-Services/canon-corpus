@@ -79,6 +79,11 @@
   "sb-schleussner-in-midsummer-days": [
    "ellie schleussner",
    "schleussner"
+  ],
+  "sb-bjorkman-plays-1": [
+   "edwin björkman",
+   "björkman",
+   "bjorkman"
   ]
  },
  "_surname_note": "'oland', 'björkman' and 'schleussner' are surnames, not English words; Field always as 'claud field'.",
@@ -141,7 +146,12 @@
    "In Midsummer Days and Other Tales"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "sb-bjorkman-plays-1": [
+   "playsbyauguststr00stri",
+   "Plays by August Strindberg"
+  ]
+ },
  "titles": {
   "strindberg-bjorkman-plays-2": {
    "source": "sb-bjorkman-plays-2",
@@ -254,11 +264,17 @@
    "translated": 1913,
    "translator": "Ellie Schleussner",
    "scan_edition": "Project Gutenberg 6694 (clean text)"
+  },
+  "strindberg-bjorkman-plays-1": {
+   "source": "sb-bjorkman-plays-1",
+   "of": "Strindberg",
+   "work": "Plays, first series: The Dream Play; The Link; The Dance of Death I and II",
+   "translated": 1912,
+   "translator": "Edwin Björkman",
+   "scan_edition": "Charles Scribner's Sons, New York: published February 1912, reprinted May, July and November 1912 (raw OCR)"
   }
  },
- "_pending": {
-  "strindberg-bjorkman-plays-1": "Björkman's first series (The Dream Play; The Link; The Dance of Death, 1912) is not on Gutenberg; look on archive.org."
- },
+ "_pending": {},
  "_excluded": {
   "pg-4970": "There Are Crimes and Crimes alone: the same Björkman text is in the second series (14347).",
   "pg-5053": "Creditors and Pariah alone: the same Björkman text is in the second series.",
@@ -393,6 +409,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Ellie Schleussner"
+  },
+  "sb-bjorkman-plays-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bjorkman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -465,6 +492,15 @@
    "pg": 6694,
    "pg_copyrighted_marker": false,
    "pg_translator": "Ellie Schleussner"
+  },
+  "sb-bjorkman-plays-1": {
+   "ia": "playsbyauguststr00stri",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1849,
+    1912
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

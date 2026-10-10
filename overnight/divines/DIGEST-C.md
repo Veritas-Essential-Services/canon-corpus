@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T09:38-05:00: 55 shelves, 239 titles (round 12: Magnússon-Morris 3, Strindberg 14; round 11: Archer's Ibsen 11; round 10: Ryder 5, Gertrude Bell 1, Levy Nietzsche 15; round 9, Scott Moncrieff: 9; Ransome translations, 2026-10-10: 2; rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11; round 7: 12; round 8: 8 — Symonds 3, Blackie 2, Theodore Martin 1, Hearn 2). **11 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
+Totals 2026-10-10T09:45-05:00: 56 shelves, 248 titles (round 13: Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1; round 12: Magnússon-Morris 3, Strindberg 14; round 11: Archer's Ibsen 11; round 10: Ryder 5, Gertrude Bell 1, Levy Nietzsche 15; round 9, Scott Moncrieff: 9; Ransome translations, 2026-10-10: 2; rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11; round 7: 12; round 8: 8 — Symonds 3, Blackie 2, Theodore Martin 1, Hearn 2). **11 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -144,3 +144,13 @@ New shelf `archer-ibsen`: the Heinemann/Scribner Collected Works of Henrik Ibsen
 - **`strindberg-english`** (14 titles, all from Gutenberg): four Björkman volumes (Scribner, 1913-16), two volumes by Edith and Warner Oland (1912), five by Claud Field (1912-15) and three by Ellie Schleussner (1912-13). Each title checks for its own translator's name. Excluded: Graham Rawson's *Road to Damascus* (a 1939 translation; Gutenberg has it, but it is too late for this lane), two Gutenberg single plays already inside Björkman's second series, and two books with no translator named.
 
 Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. **Your call:** none beyond the veto.
+
+## Round 13: pending items cleared, and Pickthall's Quran (2026-10-10)
+
+- **`morris-magnusson`** gains 7 titles: the six-volume Saga Library (Quaritch, 1891-1905), which includes their Heimskringla, and *Three Northern Love Stories* (1875). These are raw OCR with every title page read. Archive.org labels one copy "vol. 1" when it is actually vol. III, so the right copy is used and the note is recorded. Laing's Heimskringla stays on the Sturluson shelf as a separate translation.
+- **`strindberg-english`** gains Björkman's first series (Scribner, 1912).
+- **`pickthall`** (new, 1 title): Marmaduke Pickthall, *The Meaning of the Glorious Koran* (Knopf, London, 1930), the first English Quran by an English Muslim. It is US public domain since January 2026 and UK public domain since 2007. It sits beside the Sale, Rodwell and Palmer Quran shelves.
+
+Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** Pickthall passes only through a `_rights_checked` override, the same one Swallows and Amazons needed, because fetch_shelf still treats 1930 as in copyright (Lane A's file; I flagged this to the coordinator). Unlike Swallows and Amazons, this scan is a 1930 printing, so there is no later-printing question. Still pending: Archer's Ibsen vol. 12, because archive.org keeps returning errors for that file.

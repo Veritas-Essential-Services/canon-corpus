@@ -774,16 +774,24 @@ Round 11 (2026-10-10), vetoable. One title per volume; vol. 12 pending. Not conv
 ## Magnússon and Morris (Icelandic sagas)
 
 Shelf: `pipeline/morris-magnusson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py morris-magnusson` · titles `python3 pipeline/split_shelf_titles.py morris-magnusson`.
-Round 12 (2026-10-10), vetoable. Saga Library pending. Not converted to unit-id JSON; **no uids minted**.
+Rounds 12-13 (2026-10-10), vetoable. Includes the six-volume Saga Library. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `mm-volsunga-saga` | anonymous (Old Norse) | The Story of the Volsungs (Volsunga Saga), with excerpts from the Poetic Edda | Eiríkr Magnússon and William Morris | 1870 | have | PG 1152 |
 | `mm-grettir-the-strong` | anonymous (Old Norse) | The Story of Grettir the Strong | Eiríkr Magnússon and William Morris | 1869 | have | PG 12747 |
 | `mm-frithiof-the-bold` | anonymous (Old Norse) | The Story of Frithiof the Bold | Eiríkr Magnússon and William Morris | 1875 | have | PG 24420 |
-| `mm-saga-library` | — | The Saga Library (6 vols, 1891-1905: Howard the Halt, the Banded Men, Hen Thorir, the Ere-Dwellers, the Heimskringla) and Three Northern Love Stories (1875): on archive.org; next round. | — | — | pending | — |
+| `mm-saga-library-vol-1` | anonymous (Old Norse) | The Saga Library, vol. 1: The Story of Howard the Halt; The Banded Men; Hen Thorir | William Morris and Eiríkr Magnússon | 1891 | have-raw | IA `sagalibrarydonei01snoriala` |
+| `mm-saga-library-vol-2` | anonymous (Old Norse) | The Saga Library, vol. 2: The Story of the Ere-Dwellers (Eyrbyggja Saga), with The Heath-Slayings | William Morris and Eiríkr Magnússon | 1892 | have-raw | IA `sagalibrarydonei02snor` |
+| `mm-saga-library-vol-3` | Snorri Sturluson | The Saga Library, vol. 3: Heimskringla, vol. I | William Morris and Eiríkr Magnússon | 1893 | have-raw | IA `sagalibrarydonei03snor` |
+| `mm-saga-library-vol-4` | Snorri Sturluson | The Saga Library, vol. 4: Heimskringla, vol. II | William Morris and Eiríkr Magnússon | 1894 | have-raw | IA `sagalibrarydonei04snor` |
+| `mm-saga-library-vol-5` | Snorri Sturluson | The Saga Library, vol. 5: Heimskringla, vol. III | William Morris and Eiríkr Magnússon | 1895 | have-raw | IA `sagalibrary05snoruoft` |
+| `mm-saga-library-vol-6` | Snorri Sturluson | The Saga Library, vol. 6: Heimskringla, vol. IV (Magnússon's life of Snorri, notes and indexes) | Eiríkr Magnússon | 1905 | have-raw | IA `sagalibrarydonei06snor` |
+| `mm-three-northern-love-stories` | anonymous (Old Norse) | Three Northern Love Stories and Other Tales | Eiríkr Magnússon and William Morris | 1875 | have-raw | IA `threenorthernlo00morrgoog` |
 | — | — | pg-347: Another Grettir's Saga with no translator named (apparently G. A. Hight's 1914 Everyman version); not Magnússon and Morris. | — | — | excluded | — |
 | — | — | pg-48622: Baring-Gould's Grettir the Outlaw, his own retelling; on baring-gould_shelf.json. | — | — | excluded | — |
+| — | — | sagalibrary01snoruoft: Labelled vol. 1 on archive.org, but its title page reads Saga Library VOL. III (Heimskringla I); the cdl copy is used for vol. 3. | — | — | excluded | — |
+| — | — | heimskringla-laing: Laing's Heimskringla (a different translation) is on sturluson_shelf.json; the Saga Library Heimskringla here is Morris and Magnússon's, a second witness. | — | — | excluded | — |
 
 ## Strindberg in English (Björkman, the Olands, Field, Schleussner)
 
@@ -806,12 +814,22 @@ Round 12 (2026-10-10), vetoable. Each title gates on its own translator. Not con
 | `strindberg-schleussner-red-room` | Strindberg | The Red Room | Ellie Schleussner | 1913 | have | PG 37039 |
 | `strindberg-schleussner-confession-of-a-fool` | Strindberg | The Confession of a Fool | Ellie Schleussner | 1912 | have | PG 44106 |
 | `strindberg-schleussner-in-midsummer-days` | Strindberg | In Midsummer Days and Other Tales | Ellie Schleussner | 1913 | have | PG 6694 |
-| `strindberg-bjorkman-plays-1` | — | Björkman's first series (The Dream Play; The Link; The Dance of Death, 1912) is not on Gutenberg; look on archive.org. | — | — | pending | — |
+| `strindberg-bjorkman-plays-1` | Strindberg | Plays, first series: The Dream Play; The Link; The Dance of Death I and II | Edwin Björkman | 1912 | have-raw | IA `playsbyauguststr00stri` |
 | — | — | pg-4970: There Are Crimes and Crimes alone: the same Björkman text is in the second series (14347). | — | — | excluded | — |
 | — | — | pg-5053: Creditors and Pariah alone: the same Björkman text is in the second series. | — | — | excluded | — |
 | — | — | pg-8875: The Road to Damascus, tr. Graham Rawson: the text cites a 1937 production; Rawson's translation is of 1939. Not before 1931. | — | — | excluded | — |
 | — | — | pg-7956: Married (1913): no translator named. | — | — | excluded | — |
 | — | — | pg-46397: Legends (1912): no translator named. | — | — | excluded | — |
+
+## Marmaduke Pickthall (The Meaning of the Glorious Koran, 1930)
+
+Shelf: `pipeline/pickthall_shelf.json` · fetch `python3 pipeline/fetch_shelf.py pickthall` · titles `python3 pipeline/split_shelf_titles.py pickthall`.
+Round 13 (2026-10-10), vetoable. US public domain since 2026; gate override recorded. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `pickthall-meaning-of-the-glorious-koran` | The Quran | The Meaning of the Glorious Koran: An Explanatory Translation | Marmaduke Pickthall | 1930 | have-raw | IA `in.ernet.dli.2015.283503` |
+| — | — | dli.ministry.16944: The same sheets reissued under a George Allen & Unwin title page (Allen & Unwin took over Knopf's London list in 1931): a later issue; the Knopf issue is used. | — | — | excluded | — |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
