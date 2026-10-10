@@ -1,12 +1,13 @@
 {
- "_about": "John Pentland Mahaffy (1839-1919), Trinity College Dublin. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Rambles and Studies in Greece, Problems in Greek History, What Have the Greeks Done for Modern Civilisation?, Old Greek Education, clean Gutenberg; also Social Life in Greece (1894 reprint of the seventh edition) and Greek Life and Thought (1896) as raw IA OCR. No uids minted. Also A History of Classical Greek Literature, 2 vols. (New York: Harper, 1880, the first edition's year), raw IA OCR; vol. I carries an appendix on Homer by A. H. Sayce (died 1933).",
+ "_about": "John Pentland Mahaffy (1839-1919), Trinity College Dublin. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Rambles and Studies in Greece, Problems in Greek History, What Have the Greeks Done for Modern Civilisation?, Old Greek Education, clean Gutenberg; also Social Life in Greece (1894 reprint of the seventh edition) and Greek Life and Thought (1896) as raw IA OCR. No uids minted. Also A History of Classical Greek Literature, 2 vols. (New York: Harper, 1880, the first edition's year), raw IA OCR; vol. I carries an appendix on Homer by A. H. Sayce (died 1933). Also Prolegomena to Ancient History (Longmans, 1871) and The Greek World under Roman Sway (Macmillan, 1890), raw IA OCR.",
  "_name_words": [
   "mahaffy"
  ],
  "_surname": [
   "j. p. mahaffy",
   "john pentland mahaffy",
-  "mahaffy, j. p"
+  "mahaffy, j. p",
+  "john p. mahaffy"
  ],
  "ccel": {},
  "gutenberg": {
@@ -43,6 +44,14 @@
   "mahaffy-classical-greek-literature-v2-1880": [
    "historyofclassi02maha",
    "A History of Classical Greek Literature, vol. II, The Prose Writers (New York: Harper, 1880)"
+  ],
+  "mahaffy-prolegomena-ancient-history-1871": [
+   "prolegomenatoanc00maharich",
+   "Prolegomena to Ancient History (London: Longmans, Green, 1871)"
+  ],
+  "mahaffy-greek-world-roman-sway-1890": [
+   "greekworldunder01mahagoog",
+   "The Greek World under Roman Sway, from Polybius to Plutarch (London: Macmillan, 1890)"
   ]
  },
  "_excluded": {
@@ -127,6 +136,28 @@
    "ia_rights": "ok: published 1880",
    "ia_date": "1880",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mahaffy-prolegomena-ancient-history-1871": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mahaffy-greek-world-roman-sway-1890": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
