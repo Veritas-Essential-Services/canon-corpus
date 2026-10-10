@@ -914,3 +914,6 @@
 
 ## 2026-10-10 09:56 CDT — de-amicis: done
 - 1/1 fetched (Gutenberg 28961), 1,593 units, 0 ~2 ids.
+
+## 2026-10-10 09:58 CDT — wilhelm-busch: done
+- 1/1 fetched (Gutenberg 28847), 162 units, 0 ~2 ids.
