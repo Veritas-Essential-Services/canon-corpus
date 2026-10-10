@@ -75,6 +75,11 @@
    "reedofpanenglish00bensuoft",
    "The Reed of Pan: English renderings of Greek epigrams and lyrics (1922)",
    "tr. A. C. Benson"
+  ],
+  "greek-anthology-rodd-love-worship-death-1916": [
+   "loveworshipdeath00roddrich",
+   "Love, Worship and Death: some renderings from the Greek Anthology (London: Edward Arnold, 1916)",
+   "tr. Rennell Rodd"
   ]
  },
  "_excluded": {
@@ -111,7 +116,8 @@
   "anacreon-stanley-1815": "thomas stanley",
   "greek-anthology-bland-1813": "robert bland",
   "greek-anthology-perry-garden-of-hellas-1891": "lilla cabot perry",
-  "greek-anthology-benson-reed-of-pan-1922": "a. c. benson"
+  "greek-anthology-benson-reed-of-pan-1922": "a. c. benson",
+  "greek-anthology-rodd-love-worship-death-1916": "rennell rodd"
  },
  "_checks": {
   "greek-anthology-mackail": {
@@ -281,6 +287,20 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null,
    "rights_override": "London, 1922, 'All Rights Reserved': US PD (published before 1931). Benson died in 1925, so UK PD since 1996 (death year from general reference)"
+  },
+  "greek-anthology-rodd-love-worship-death-1916": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "rennell rodd",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "London: Edward Arnold, 1916, 'All rights reserved': US PD by date. Rodd died in 1941, so UK PD since 2012 (death year from general reference)"
   }
  },
  "_surname_by_slug": {
@@ -309,6 +329,7 @@
  "_rights_checked": {
   "greek-anthology-macgregor": "Title page read 2026-10-10: 'Translated by Major Robert Guthrie MacGregor. London: Nissen & Parker, 43, Mark Lane', no year. The preface refers to his 1857 Epitaphs from the Greek Anthology and to 1854-55; the dedication addresses W. E. Gladstone, M.P. and P.C., as living (he died 1898). A nineteenth-century printing, so public domain.",
   "greek-anthology-perry-garden-of-hellas-1891": "title verso: 'Copyright, 1891, by United States Book Company'; US PD by date. The translator died in 1933, so UK PD since 2004 (death year from general reference, not from this book)",
-  "greek-anthology-benson-reed-of-pan-1922": "London, 1922, 'All Rights Reserved': US PD (published before 1931). Benson died in 1925, so UK PD since 1996 (death year from general reference)"
+  "greek-anthology-benson-reed-of-pan-1922": "London, 1922, 'All Rights Reserved': US PD (published before 1931). Benson died in 1925, so UK PD since 1996 (death year from general reference)",
+  "greek-anthology-rodd-love-worship-death-1916": "London: Edward Arnold, 1916, 'All rights reserved': US PD by date. Rodd died in 1941, so UK PD since 2012 (death year from general reference)"
  }
 }
