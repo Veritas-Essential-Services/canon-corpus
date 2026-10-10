@@ -730,3 +730,6 @@
 
 ## 2026-10-10 09:48 CDT — william-symington done
 - `pipeline/william-symington_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — john-dick done
+- `pipeline/john-dick_shelf.json`: 1 CCEL, 0 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.

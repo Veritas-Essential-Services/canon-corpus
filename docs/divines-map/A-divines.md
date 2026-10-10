@@ -2426,3 +2426,17 @@ Slugs `symington-*`.
 | On the Atonement and Intercession of Jesus Christ, second edition (Edinburgh: William Whyte, MDCCCXXXIV) | have-ocr | IA `onatonementinter00symi_1` |
 | Messiah the Prince, 2nd ed. (Edinburgh: Johnstone, catalogued 1840; IA messiahprinceorm00symi_1): noisy front matter | alternate | not shelved |
 | On the Atonement, 3rd American ed. (New York: Carter, 1847; IA onatonementinter00symi) | alternate | not shelved |
+
+## John Dick (round 15, my pick, 2026-10-10)
+
+Slugs `jdick-*`. Lectures on Theology vols. 3-4 sit under misleading IA ids (sermonspreached03crai, 04crai); their title pages read Dick's Lectures.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on the Acts of the Apostles, second edition (New York: Robert Carter, 1857) | have-clean | CCEL d/dick_j/acts |
+| Lectures on Theology, vol. 1 (Edinburgh: William Oliphant, MDCCCXXXIV) | have-ocr | IA `lecturesontheol01dick` |
+| Lectures on Theology, vol. 2 (Edinburgh: William Oliphant, MDCCCXXXIV) | have-ocr | IA `lecturesontheol02dick` |
+| Lectures on Theology, vol. 3 (Edinburgh: William Oliphant, MDCCCXXXIV; the IA identifier is misleading) | have-ocr | IA `sermonspreached03crai` |
+| Lectures on Theology, vol. 4 (Edinburgh: William Oliphant, MDCCCXXXIV; the IA identifier is misleading) | have-ocr | IA `sermonspreached04crai` |
+| An Essay on the Inspiration of the Holy Scriptures, first American from the second English edition, with W. Parry's essay (Boston: Lincoln & Edmands, 1811) | have-ocr | IA `anessayoninspir00parrgoog` |
+| the Edinburgh first edition (Ritchie, 1800; IA anessayoninspir00dickgoog): long-s OCR | alternate | not shelved |
