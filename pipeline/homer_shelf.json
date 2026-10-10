@@ -278,6 +278,11 @@
    "hymnshomertrans00conwgoog",
    "The Hymns of Homer, translated into verse from the original Greek, with notes (Philadelphia: Mifflin and Parry, 1830)",
    "tr. Columbus C. Conwell"
+  ],
+  "homer-gilchrist-iliad-1869": [
+   "englishtranslati00home",
+   "An English Translation of the First Eight Books of the Iliad of Homer (Belfast: H. Adair, 1869)",
+   "tr. James Gilchrist"
   ]
  },
  "_cross_ref": {
@@ -364,7 +369,8 @@
   "homer-du-cane-odyssey-1880": "charles du cane",
   "homer-dart-iliad-1865": "j. henry dart",
   "homer-purves-iliad-1891": "john purves",
-  "homer-conwell-hymns-1830": "columbus c. conwell"
+  "homer-conwell-hymns-1830": "columbus c. conwell",
+  "homer-gilchrist-iliad-1869": "james gilchrist"
  },
  "_translator_unchecked": {
   "homer-bryant-odyssey-v2": "translator on the row (William Cullen Bryant) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -1044,6 +1050,19 @@
    "ia_rights": "ok: published 1830",
    "ia_date": "1830",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "homer-gilchrist-iliad-1869": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "james gilchrist",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
   }
  },
