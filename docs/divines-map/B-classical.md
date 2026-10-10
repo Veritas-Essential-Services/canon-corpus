@@ -2620,6 +2620,8 @@ Shelf: `pipeline/mahaffy_shelf.json`. John Pentland Mahaffy (1839-1919), Trinity
 | Old Greek Education |  | `mahaffy-old-greek-education` | have (PG 65058) |
 | Social Life in Greece from Homer to Menander (seventh edition 1890, reprinted; London and New York: Macmillan, 1894) |  | `mahaffy-social-life-greece-1894` | have-raw (IA `sociallifeingree00maha`) |
 | Greek Life and Thought from the Death of Alexander to the Roman Conquest (London and New York: Macmillan, 1896) |  | `mahaffy-greek-life-thought-1896` | have-raw (IA `greeklifethought00maha`) |
+| A History of Classical Greek Literature, vol. I, The Poets, with an appendix on Homer by Prof. Sayce (New York: Harper, 1880) |  | `mahaffy-classical-greek-literature-v1-1880` | have-raw (IA `historyofclassic01mahaiala`) |
+| A History of Classical Greek Literature, vol. II, The Prose Writers (New York: Harper, 1880) |  | `mahaffy-classical-greek-literature-v2-1880` | have-raw (IA `historyofclassi02maha`) |
 
 Excluded: PG 65638 (The Principles of the Art of Conversation) (outside the classical brief)
 

@@ -1,5 +1,5 @@
 {
- "_about": "John Pentland Mahaffy (1839-1919), Trinity College Dublin. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Rambles and Studies in Greece, Problems in Greek History, What Have the Greeks Done for Modern Civilisation?, Old Greek Education, clean Gutenberg; also Social Life in Greece (1894 reprint of the seventh edition) and Greek Life and Thought (1896) as raw IA OCR. No uids minted.",
+ "_about": "John Pentland Mahaffy (1839-1919), Trinity College Dublin. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Rambles and Studies in Greece, Problems in Greek History, What Have the Greeks Done for Modern Civilisation?, Old Greek Education, clean Gutenberg; also Social Life in Greece (1894 reprint of the seventh edition) and Greek Life and Thought (1896) as raw IA OCR. No uids minted. Also A History of Classical Greek Literature, 2 vols. (New York: Harper, 1880, the first edition's year), raw IA OCR; vol. I carries an appendix on Homer by A. H. Sayce (died 1933).",
  "_name_words": [
   "mahaffy"
  ],
@@ -35,6 +35,14 @@
   "mahaffy-greek-life-thought-1896": [
    "greeklifethought00maha",
    "Greek Life and Thought from the Death of Alexander to the Roman Conquest (London and New York: Macmillan, 1896)"
+  ],
+  "mahaffy-classical-greek-literature-v1-1880": [
+   "historyofclassic01mahaiala",
+   "A History of Classical Greek Literature, vol. I, The Poets, with an appendix on Homer by Prof. Sayce (New York: Harper, 1880)"
+  ],
+  "mahaffy-classical-greek-literature-v2-1880": [
+   "historyofclassi02maha",
+   "A History of Classical Greek Literature, vol. II, The Prose Writers (New York: Harper, 1880)"
   ]
  },
  "_excluded": {
@@ -98,6 +106,33 @@
    "ia_date": "1896",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "mahaffy-classical-greek-literature-v1-1880": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mahaffy-classical-greek-literature-v2-1880": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "mahaffy-classical-greek-literature-v2-1880": {
+   "author": "title page read 2026-10-10: OCR gives 'REV. J?°P*MAHAFFY, M.A. FELLOW AND PROFESSOR OF ANCIENT HISTORY, TRINITY COLLEGE, DUBLIN', in two volumes, vol. II, Harper 1880 (J. P. Mahaffy); stray marks defeat the surname test"
   }
  }
 }
