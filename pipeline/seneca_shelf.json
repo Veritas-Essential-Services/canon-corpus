@@ -108,12 +108,17 @@
    "The Satire of Seneca on the Apotheosis of Claudius, commonly called the Apocolocyntosis: a study (New York: Columbia University Press, 1902), Latin text with English translation",
    "SatireSenecaApotheosisClaudius_266pgs_djvu.txt",
    "tr. Allan Perley Ball"
+  ],
+  "seneca-newton-tenne-tragedies-1581": [
+   "senecahistennetr00sene",
+   "Seneca his Tenne Tragedies, translated into Englysh (London: Thomas Marsh, 1581; black-letter, Boston Public Library copy)",
+   "tr. Thomas Newton (ed.), with Jasper Heywood, John Studley, Alexander Nevile, Thomas Nuce"
   ]
  },
  "_excluded": {
   "pg59025": "an index page",
   "pg55705": "a different Seneca (a 20th-century outdoor writer): wrong author",
-  "Seneca his Tenne Tragedies, ed. Thomas Newton 1581 (Tudor Translations, 1927)": "held back for Adam: the 1581 translations are public domain, but this 1927 printing (IA senecahistennetr0000thom, senecahistennetr0002thom) carries T. S. Eliot's introduction, US public domain by date (1927) but not life+70 (Eliot died 1965). Take the text without the introduction, or the 1581 or 1887 printings (IA senecahistennetr00sene, thetennetragedie00seneuoft), if Adam rules so"
+  "Seneca his Tenne Tragedies, ed. Thomas Newton 1581 (Tudor Translations, 1927)": "the 1927 Tudor Translations printing (IA senecahistennetr0000thom, senecahistennetr0002thom) is not taken: it carries T. S. Eliot's introduction, US public domain by date but not life+70 (Eliot died 1965). The same translations are held from the 1581 first printing (seneca-newton-tenne-tragedies-1581). The 1887 Spenser Society reprint (thetennetragedie00seneuoft, Part I only) reads 0.74, under the bar."
  },
  "_surname": [
   "seneca"
@@ -135,7 +140,8 @@
   "seneca-miller-loeb-tragedies-v1": "Frank Justus Miller",
   "seneca-miller-loeb-tragedies-v2": "Frank Justus Miller",
   "seneca-bradshaw-tragedies-1902": "Watson Bradshaw",
-  "seneca-ball-apocolocyntosis-1902": "allan perley ball"
+  "seneca-ball-apocolocyntosis-1902": "allan perley ball",
+  "seneca-newton-tenne-tragedies-1581": "thomas newton"
  },
  "_checks": {
   "seneca-stewart-benefits": {
@@ -381,11 +387,27 @@
    "ia_date": "1902",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "seneca-newton-tenne-tragedies-1581": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "seneca",
+   "translator_claimed": "thomas newton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1581",
+   "ia_date": "1581",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_translator_unchecked": {
   "seneca-lodge-workes-1614": "the OCR never prints Thomas Lodge's name; 'lodge' alone is a common word and proves nothing",
   "seneca-morell-epistles-1786-v1": "title page OCRs the name as 'THOMAS M O R £ L L, D. D.' (Woodfall, MDCCLXXXVI); the claim is not matched as written",
   "seneca-morell-epistles-1786-v2": "title page OCRs the name as 'THOMAS MOREL L, D. D.' (Woodfall, MDCCLXXXVI); the claim is not matched as written"
+ },
+ "_identity_checked": {
+  "seneca-newton-tenne-tragedies-1581": "Title page read 2026-10-10 (black letter, partly garbled): '...ted into Englysh ... Mercurij nutrices, horae ... Saincte Dunstans church by Thomas Marsh'; Newton's dedication is signed 'Thomas Newton'. archive.org dates the record 1581. The other translators named on the row (Heywood, Studley, Nevile, Nuce) are from the book's own list of who translated which play, as the 1887 reprint quotes it; the OCR prints only Heywood legibly."
  }
 }
