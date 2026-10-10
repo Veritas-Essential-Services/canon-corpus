@@ -937,3 +937,6 @@
 
 ## 2026-10-10 14:05 CDT — john-kitto done
 - `pipeline/john-kitto_shelf.json`: 0 CCEL, 0 PG, 18 IA. Title pages read for kitto-daily-bible-08 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:10 CDT — round 20 closed
+- Twelve shelves, 138 items (1 CCEL, 2 Gutenberg, 135 IA). Closing paragraph and veto points in DIGEST-A. 0 uids minted.
