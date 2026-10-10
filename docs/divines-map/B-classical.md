@@ -2608,7 +2608,7 @@ Shelf: `pipeline/samuel-dill_shelf.json`. Sir Samuel Dill (1844-1924): 1 clean G
 
 ## J. P. Mahaffy (scholarship)
 
-Shelf: `pipeline/mahaffy_shelf.json`. John Pentland Mahaffy (1839-1919), Trinity College Dublin: 4 clean Gutenberg texts. Not minted.
+Shelf: `pipeline/mahaffy_shelf.json`. John Pentland Mahaffy (1839-1919), Trinity College Dublin: 4 clean Gutenberg texts, plus Social Life in Greece (1894) and Greek Life and Thought (1896) as raw IA OCR. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -3011,6 +3011,83 @@ Shelf: `pipeline/thomas-arnold_shelf.json`. Arnold's History of Rome, third edit
 | History of Rome, third edition, vol. I (1844) |  | `thomas-arnold-history-of-rome-v1-1844` | have-raw (IA `historyofrome001arno`) |
 | History of Rome, third edition, vol. II (1845) |  | `thomas-arnold-history-of-rome-v2-1845` | have-raw (IA `historyofrome02arnoiala`) |
 | History of Rome, third edition, vol. III (1846) |  | `thomas-arnold-history-of-rome-v3-1846` | have-raw (IA `historyofrome03arnoiala`) |
+
+## K. O. Müller (scholarship)
+
+Shelf: `pipeline/k-o-muller_shelf.json`. Karl Otfried Müller's History of the Literature of Ancient Greece, 3 vols., Longmans 1858; Müller's part Englished by George Cornewall Lewis and Donaldson, volumes II-III continued by John William Donaldson. Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. I (London: Longmans, 1858) | Donaldson | `k-o-muller-literature-ancient-greece-v1-1858` | have-raw (IA `historyofliterat01mluoft`) |
+| A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. II (London: Longmans, 1858) | Donaldson | `k-o-muller-literature-ancient-greece-v2-1858` | have-raw (IA `historyofliterat02mluoft`) |
+| A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. III (London: Longmans, 1858) | Donaldson | `k-o-muller-literature-ancient-greece-v3-1858` | have-raw (IA `historyofliterat03mluoft`) |
+
+## George Long (scholarship)
+
+Shelf: `pipeline/george-long_shelf.json`. The Decline of the Roman Republic, 5 vols., Bell and Daldy 1864-1874, assembled from five separate scans; each title page read. Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## William Mure (scholarship)
+
+Shelf: `pipeline/mure_shelf.json`. A Critical History of the Language and Literature of Antient Greece, 5 vols. (1850-1857, vol. I in the 2nd ed. of 1854), assembled from separate scans; each title page read. Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## George Cornewall Lewis (scholarship)
+
+Shelf: `pipeline/cornewall-lewis_shelf.json`. An Inquiry into the Credibility of the Early Roman History, 2 vols., Parker 1855. Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## S. H. Butcher (scholarship)
+
+Shelf: `pipeline/butcher_shelf.json`. Harvard Lectures on Greek Subjects (1904). Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Excluded: Aristotle's Theory of Poetry and Fine Art (1898; IA aristotlestheory00butc) (refused: OCR 0.69, Greek text facing)
+
+## A. E. Haigh (scholarship)
+
+Shelf: `pipeline/haigh_shelf.json`. The Attic Theatre, Oxford: Clarendon Press 1889. Raw IA OCR; the OCR garbles the author line, so identity was checked by eye. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): The Tragic Drama of the Greeks (1896)
+
+## Henry Nettleship (scholarship)
+
+Shelf: `pipeline/nettleship_shelf.json`. Lectures and Essays on Subjects Connected with Latin Literature and Scholarship (1885) and its second series (1895). Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## R. Y. Tyrrell (scholarship)
+
+Shelf: `pipeline/tyrrell_shelf.json`. Latin Poetry: Lectures Delivered in 1893 (1895). Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## F. B. Jevons (scholarship)
+
+Shelf: `pipeline/f-b-jevons_shelf.json`. A History of Greek Literature, Scribner. The OCR of the imprint year reads 1880; the book was first published in 1886, so the true year is likely 1886 or later (an inference). Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## James Gow (scholarship)
+
+Shelf: `pipeline/gow_shelf.json`. A Companion to School Classics, 2nd ed., 1889. Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
 
 ## Perseus census (overflow)
 

@@ -1,0 +1,86 @@
+{
+ "_about": "Karl Otfried Müller (1797-1840), A History of the Literature of Ancient Greece, translated by George Cornewall Lewis and continued after the author's death by John William Donaldson (1811-1861): A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. I (London: Longmans, 1858); A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. II (London: Longmans, 1858); A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. III (London: Longmans, 1858), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "muller",
+  "müller"
+ ],
+ "_surname": [
+  "k. o. muller",
+  "k. o. müller",
+  "karl otfried muller",
+  "karl otfried müller"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "k-o-muller-literature-ancient-greece-v1-1858": [
+   "historyofliterat01mluoft",
+   "A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. I (London: Longmans, 1858)",
+   "tr. George Cornewall Lewis and John William Donaldson"
+  ],
+  "k-o-muller-literature-ancient-greece-v2-1858": [
+   "historyofliterat02mluoft",
+   "A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. II (London: Longmans, 1858)",
+   "tr. George Cornewall Lewis and John William Donaldson"
+  ],
+  "k-o-muller-literature-ancient-greece-v3-1858": [
+   "historyofliterat03mluoft",
+   "A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. III (London: Longmans, 1858)",
+   "tr. George Cornewall Lewis and John William Donaldson"
+  ]
+ },
+ "_translators": {
+  "k-o-muller-literature-ancient-greece-v1-1858": "Donaldson",
+  "k-o-muller-literature-ancient-greece-v2-1858": "Donaldson",
+  "k-o-muller-literature-ancient-greece-v3-1858": "Donaldson"
+ },
+ "_checks": {
+  "k-o-muller-literature-ancient-greece-v1-1858": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "k. o. muller",
+   "translator_claimed": "Donaldson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "[pref. 1858]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "k-o-muller-literature-ancient-greece-v2-1858": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Donaldson",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "[pref. 1858]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "k-o-muller-literature-ancient-greece-v3-1858": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Donaldson",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "[pref. 1858]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "k-o-muller-literature-ancient-greece-v2-1858": {
+   "author": "title page read 2026-10-10: OCR gives 'By K. re MULLER' (K. O. Müller), the title page also names JOHN WILLIAM DONALDSON, Longmans 1858; the OCR misreads the initial O, so the surname test cannot see it"
+  },
+  "k-o-muller-literature-ancient-greece-v3-1858": {
+   "author": "title page read 2026-10-10: OCR gives 'By K. 0. MULLER' (a zero for the initial O), continued by Donaldson, Longmans 1858; the surname test cannot see it"
+  }
+ }
+}
