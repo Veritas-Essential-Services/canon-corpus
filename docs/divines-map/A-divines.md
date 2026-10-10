@@ -2440,3 +2440,17 @@ Slugs `jdick-*`. Lectures on Theology vols. 3-4 sit under misleading IA ids (ser
 | Lectures on Theology, vol. 4 (Edinburgh: William Oliphant, MDCCCXXXIV; the IA identifier is misleading) | have-ocr | IA `sermonspreached04crai` |
 | An Essay on the Inspiration of the Holy Scriptures, first American from the second English edition, with W. Parry's essay (Boston: Lincoln & Edmands, 1811) | have-ocr | IA `anessayoninspir00parrgoog` |
 | the Edinburgh first edition (Ritchie, 1800; IA anessayoninspir00dickgoog): long-s OCR | alternate | not shelved |
+
+## F. W. Krummacher (in English) (round 15, my pick, 2026-10-10)
+
+Slugs `fwkrummacher-*`. Not F. A. Krummacher (the Parables) or G. D. Krummacher; three of the six name no translator.
+
+| Work | Status | Where |
+|---|---|---|
+| Elijah the Tishbite (London, Edinburgh and New York: T. Nelson, 1869; translator not named) | have-ocr | IA `elijahtishbite00krum` |
+| The Suffering Saviour, tr. Samuel Jackson, second edition revised (Edinburgh: T. & T. Clark, MDCCCLVI) | have-ocr | IA `sufferingsaviour00krum` |
+| The Risen Redeemer, tr. John T. Betts (New York: Robert Carter, 1863) | have-ocr | IA `risenredeemergos00krum` |
+| The Martyr Lamb, fifth edition (New York: Robert Carter, 1845; translator not named) | have-ocr | IA `martyrlamborchri00krum` |
+| The Dew of Israel and the Lily of God (New York: Robert Carter, 1840, from the second London edition; translator not named) | have-ocr | IA `dewofisraellily00krum` |
+| Friedrich Wilhelm Krummacher: An Autobiography, ed. his daughter, tr. M. G. Easton (Edinburgh: T. & T. Clark, MDCCCLXIX) | have-ocr | IA `friedrichwilhelm00krum` |
+| Elisha (no imprint or year; catalogued 1840; IA elisha0000fwkr_p7n0): a weak witness | alternate | not shelved |
