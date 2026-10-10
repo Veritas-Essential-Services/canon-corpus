@@ -892,3 +892,6 @@
 
 ## 2026-10-10 13:15 CDT — robert-flint done
 - `pipeline/robert-flint_shelf.json`: 0 CCEL, 1 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — h-r-mackintosh done
+- `pipeline/h-r-mackintosh_shelf.json`: 0 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -3525,6 +3525,30 @@ Slugs `flint-*`. Edinburgh apologist. Theism from Gutenberg (first edition) and 
 | Socialism, Vico, Philosophy as Scientia Scientiarum, a French translation | excluded | |
 | Arno Press 1975-79 reprints | excluded | |
 | manuscript lecture notes | excluded | |
+
+## H. R. Mackintosh (round 19, my pick, 2026-10-10)
+
+Slugs `hrm-*`. New College, Edinburgh. Held to printings before 1930: eleven items. IA files a namesake's book (Hugh M'Intosh) under him; it is excluded.
+
+| Work | Status | Where |
+|---|---|---|
+| Life on God's Plan, sermons (London: Hodder and Stoughton, MCMIX) | have-ocr | IA `lifeongodsplan0000mack` |
+| The Person of Jesus Christ (London: Student Christian Movement, 1912) | have-ocr | IA `MackintoshPersonofJesusChrist` |
+| The Doctrine of the Person of Jesus Christ, International Theological Library (New York: Charles Scribner's Sons, 1912) | have-ocr | IA `doctrineofperson00mack` |
+| Studies in Christian Truth, second edition (London: Student Christian Movement; no year on title page, catalogued 1914) | have-ocr | IA `studiesinchristi0000mack` |
+| Immortality and the Future: The Christian Doctrine of Eternal Life (London: Hodder and Stoughton, printed in 1915) | have-ocr | IA `immortalityfutur00mack` |
+| Who is Jesus Christ? The Church and the War, Tracts for To-Day no. 15 (Edinburgh: United Free Church of Scotland, MCMXVII) | have-ocr | IA `HRMWhoIsJesus` |
+| The Originality of the Christian Message (New York: Scribner, first published 1920) | have-ocr | IA `originalityofchr00mack` |
+| The Divine Initiative (London: Student Christian Movement, first published October 1921) | have-ocr | IA `divineinitiative00mack` |
+| Some Aspects of Christian Belief (New York: George H. Doran; no year on title page, catalogued 1923) | have-ocr | IA `someaspectsofchr0000mack` |
+| The Christian Experience of Forgiveness (New York and London: Harper & Brothers, copyright 1927, first edition) | have-ocr | IA `christianexperie0000mack` |
+| The Christian Apprehension of God, the James Sprunt Lectures (London: Student Christian Movement, first published September 1929) | have-ocr | IA `MN40272ucmf_8` |
+| Ritschl's Christian Doctrine of Justification and Reconciliation, translation edited with A. B. Macaulay (1900, 1902); Wendland's Miracles and Christianity, translated (c. 1911); Selections from the Literature of Theism, with Caldecott (1904) | alternate | not shelved |
+| Second copies of The Doctrine of the Person (1912-1920 impressions), Immortality (1917), Originality (1920), Divine Initiative (1921), Apprehension of God (Harper) | alternate | not shelved |
+| Is Christ Infallible and the Bible True? (IA ischristinfallib00mcin, ischristinfallib00maci_0): by Hugh M'Intosh, a namesake, though IA files it under H. R. Mackintosh | excluded | |
+| post-1930 impressions and books (Types of Modern Theology, The Great Prayer, Sermons 1938) | excluded | |
+| C. H. Mackintosh: a different man | excluded | |
+| single-article scans and retypes | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
