@@ -1059,6 +1059,7 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | — | — | `dryden-horace` | cross-ref → Dryden shelf, lane C |
 | Satires, Epistles and Ars Poetica (Loeb, 1926; this printing revised 1929) | H. Rushton Fairclough | `horace-fairclough-satires-epistles` | have-raw (IA `satiresepistlesa00horauoft`) |
 | Odes | John Conington | `horace-perseus-conington-odes` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
+| The Works of Horace, translated literally into English prose (new edition revised by T. A. Buckley; Harper, 1869) | Christopher Smart, revised by Theodore Alois Buckley | `horace-smart-buckley-1869` | have-raw (IA `workshorace00smargoog`) |
 | The Works of Horace rendered into English Prose (Globe Edition; Macmillan, 1874) | James Lonsdale and Samuel Lee | `horace-lonsdale-lee-1874` | have-raw (IA `worksofhoraceren00hora`) |
 | The Odes of Horace translated into English Verse, with a life and notes (Boston: Ticknor and Fields, 1866) | Theodore Martin | `horace-martin-odes-1866` | have-raw (IA `odesofhoracetran00horarich`) |
 | The Odes and Epodes of Horace, a metrical translation into English, with Latin text (Blackwood, 1869) | Edward Bulwer-Lytton, Lord Lytton | `horace-lytton-1869` | have-raw (IA `odes00epodesofhorahorarich`) |
@@ -1087,6 +1088,9 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The I. and II. Books of the Odes of Horace, translated into English verse, with the Carmen Saeculare and appendix (London, 1865) | Hugo Nicholas Jones | `horace-jones-odes-i-ii-1865` | have-raw (IA `iiibooksofodesof00hora`) |
 | Odes of Horace, Book II, translated into English verse (London: Arthur L. Humphreys, 1918) | Gerard Fenwick | `horace-fenwick-odes-ii-1918` | have-raw (IA `odesofhorace00horarich`) |
 | Nineteen Odes of Horace Englished (San Bernardino, California: Barnum and Flagg, 1920) | William Hathorn Mills | `horace-mills-nineteen-odes-1920` | have-raw (IA `nineteenodesofho00horarich`) |
+| The Works of Horace, translated literally into English prose, fifth edition, vol. I (London: T. Carnan, 1780; Latin facing) | Christopher Smart | `horace-smart-prose-1780-v1` | have-raw (IA `workshorace04smargoog`) |
+| The Works of Horace, translated literally into English prose, fifth edition, vol. II (London: T. Carnan, 1780; Latin facing) | Christopher Smart | `horace-smart-prose-1780-v2` | have-raw (IA `workshorace01smargoog`) |
+| The Works of Horace, translated into verse, vol. I of four (London: W. Flexney, J. Johnson and T. Caslon, 1767) | Christopher Smart | `horace-smart-verse-1767-v1` | have-raw (IA `workshorace03smargoog`) |
 
 Pending (wishlist): Smart's prose in its first, unrevised form (1756) from a cleaner scan than the ECCO OCR (0.74-0.76), which was refused.
 
