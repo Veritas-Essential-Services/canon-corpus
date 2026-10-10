@@ -5801,6 +5801,67 @@ Round 46 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `pg-75107` | — | Luigi Federico Menabrea, Sketch of the Analytical Engine invented by Charles Babbage, Esq. (Ada Lovelace (Augusta Ada King, Countess of Lovelace)): Gutenberg has this only as HTML (it is full of mathematics), with no plain-text file. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
 | `pg-76404` | — | Isaac Newton, Newton's Principia (Andrew Motte): Gutenberg has this only as HTML (it is full of mathematics), with no plain-text file. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
 
+## One-off translations: art, music, memoir and miscellany (Leonardo's Treatise on Painting, Hegel's Fine Art, Forkel's Bach, Rimsky-Korsakov, Dürer, King Alfred's Soliloquies, the Dhammapada, Platter)
+
+Shelf: `pipeline/singles-arts-miscellany_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-arts-miscellany` · titles `python3 pipeline/split_shelf_titles.py singles-arts-miscellany`.
+Round 47 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-arts-miscellany-adam-practical-bookbinding` | Paul Adam | Practical Bookbinding | Thomas E. Maw | (see the Gutenberg header) | have | PG 39318 |
+| `singles-arts-miscellany-anon-the-book-of-vagabonds-and-beggars-with-a` | anonymous (the Liber Vagatorum, with Martin Luther's preface) | The Book of Vagabonds and Beggars, with a Vocabulary of Their Language | John Camden Hotten | (see the Gutenberg header) | have | PG 46287 |
+| `singles-arts-miscellany-anon-the-buddha-s-path-of-virtue` | anonymous (the Dhammapada) | The Buddha's Path of Virtue: A Translation of the Dhammapada | F. L. Woodward | (see the Gutenberg header) | have | PG 35185 |
+| `singles-arts-miscellany-anon-the-pan-german-programme-the-petition-of` | six German industrial and agrarian associations (the 1915 petition) | The Pan-German Programme The Petition of the Six Associations and the Manifesto of the Intellectuals | Edwyn Robert Bevan | (see the Gutenberg header) | have | PG 46192 |
+| `singles-arts-miscellany-augustine-king-alfred-s-old-english-version-of-st` | of Hippo Augustine | King Alfred's Old English Version of St. Augustine's Soliloquies Turned into Modern English | King Alfred (into Old English) and Henry Lee Hargrove (into modern English) | (see the Gutenberg header) | have | PG 40341 |
+| `singles-arts-miscellany-barue-domestic-french-cookery-4th-ed` | Sulpice Barué | Domestic French Cookery, 4th ed. | Eliza Leslie | (see the Gutenberg header) | have | PG 34837 |
+| `singles-arts-miscellany-bouton-and-the-kaiser-abdicates` | S. Miles Bouton | And the Kaiser abdicates: The German Revolution November 1918-August 1919 | Arthur N. Holcombe and William Bennett Munro | (see the Gutenberg header) | have | PG 39563 |
+| `singles-arts-miscellany-cain-nooks-corners-of-old-paris` | Georges Cain | Nooks & Corners of Old Paris | Frederick Lawton | (see the Gutenberg header) | have | PG 40306 |
+| `singles-arts-miscellany-carlo-the-flying-spy` | Camillo De Carlo | The flying spy | Maria Sermolino | (see the Gutenberg header) | have | PG 46567 |
+| `singles-arts-miscellany-caron-french-dishes-for-american-tables` | Pierre Caron | French Dishes for American Tables | Frederic Sherman | (see the Gutenberg header) | have | PG 45348 |
+| `singles-arts-miscellany-chaikovskii-the-life-letters-of-peter-ilich-tchaikov` | Modest Chaikovskii | The Life & Letters of Peter Ilich Tchaikovsky | Rosa Newmarch | (see the Gutenberg header) | have | PG 45259 |
+| `singles-arts-miscellany-church-dante-an-essay-to-which-is-added-a-trans` | Dante Alighieri (De Monarchia), with an essay by R. W. Church | Dante. An essay. To which is added a translation of De Monarchia. | F. J. Church | (see the Gutenberg header) | have | PG 33896 |
+| `singles-arts-miscellany-cladel-rodin` | Judith Cladel | Rodin: The Man and His Art, with Leaves from His Note-book | S. K. Star | (see the Gutenberg header) | have | PG 43327 |
+| `singles-arts-miscellany-clemenceau-the-surprises-of-life` | Georges Clemenceau | The surprises of life | Grace Hall | (see the Gutenberg header) | have | PG 40618 |
+| `singles-arts-miscellany-drouet-juliette-drouet-s-love-letters-to-victor` | Juliette Drouet and Louis Guimbaud | Juliette Drouet's Love-Letters to Victor Hugo Edited with a Biography of Juliette Drouet | Theodora Davidson | (see the Gutenberg header) | have | PG 44034 |
+| `singles-arts-miscellany-dupre-thoughts-on-art-and-autobiographical-mem` | Giovanni Duprè | Thoughts on Art and Autobiographical Memoirs of Giovanni Duprè | E. M. Peruzzi | (see the Gutenberg header) | have | PG 40870 |
+| `singles-arts-miscellany-durer-of-the-just-shaping-of-letters` | Albrecht Dürer | Of the Just Shaping of Letters | R. T. Nichol | (see the Gutenberg header) | have | PG 37103 |
+| `singles-arts-miscellany-forkel-johann-sebastian-bach` | Johann Nikolaus Forkel | Johann Sebastian Bach: His Life, Art, and Work | Charles Sanford Terry | (see the Gutenberg header) | have | PG 35041 |
+| `singles-arts-miscellany-gandhi-a-guide-to-health` | Mahatma Gandhi | A Guide to Health | A. Rama Iyer | (see the Gutenberg header) | have | PG 40373 |
+| `singles-arts-miscellany-gounod-charles-gounod-autobiographical-reminisc` | Charles Gounod | Charles Gounod Autobiographical Reminiscences with Family Letters and Notes on Music | W. Hely Hutchinson | (see the Gutenberg header) | have | PG 35812 |
+| `singles-arts-miscellany-heeren-a-manual-of-ancient-history-particularly` | A. H. L. Heeren | A Manual of Ancient History Particularly with Regard to the Constitutions, the Commerce, and the Colonies, of the States of Antiquity | D. A. Talboys | (see the Gutenberg header) | have | PG 39747 |
+| `singles-arts-miscellany-hegel-the-introduction-to-hegel-s-philosophy-o` | Georg Wilhelm Friedrich Hegel | The Introduction to Hegel's Philosophy of Fine Arts Translated from the German with Notes and Prefatory Essay | Bernard Bosanquet | (see the Gutenberg header) | have | PG 46330 |
+| `singles-arts-miscellany-huldermann-albert-ballin` | Bernhard Huldermann | Albert Ballin | Wilhelm Johann Eggers | (see the Gutenberg header) | have | PG 44135 |
+| `singles-arts-miscellany-lalanne-a-treatise-on-etching` | Maxime Lalanne | A Treatise on Etching | S. R. Koehler | (see the Gutenberg header) | have | PG 33751 |
+| `singles-arts-miscellany-lamszus-the-human-slaughter-house` | Wilhelm Lamszus | The Human Slaughter-House: Scenes from the War that is Sure to Come | Oakley Williams | (see the Gutenberg header) | have | PG 39588 |
+| `singles-arts-miscellany-leduc-the-mechanism-of-life` | Stéphane Leduc | The Mechanism of Life | William Deane Butcher | (see the Gutenberg header) | have | PG 33862 |
+| `singles-arts-miscellany-leonardo-a-treatise-on-painting` | da Vinci Leonardo | A Treatise on Painting | J. F. Rigaud | (see the Gutenberg header) | have | PG 46915 |
+| `singles-arts-miscellany-louise-my-own-affairs` | Princess of Belgium Louise | My Own Affairs | Maude M. C. Ffoulkes | (see the Gutenberg header) | have | PG 43086 |
+| `singles-arts-miscellany-mangin-the-desert-world` | Arthur Mangin | The Desert World | W. H. Davenport Adams | (see the Gutenberg header) | have | PG 43396 |
+| `singles-arts-miscellany-massenet-my-recollections` | Jules Massenet | My Recollections | H. Villiers Barnett | (see the Gutenberg header) | have | PG 36728 |
+| `singles-arts-miscellany-merezhkovsky-the-life-work-of-flaubert-from-the-russi` | Dmitry Sergeyevich Merezhkovsky | The Life-Work of Flaubert, from the Russian of Merejowski | G. A. Mounsey | (see the Gutenberg header) | have | PG 33933 |
+| `singles-arts-miscellany-naquet-legal-chemistry-a-guide-to-the-detection` | Alfred Naquet | Legal Chemistry A Guide to the Detection of Poisons, Examination of Tea, Stains, Etc., as Applied to Chemical Jurisprudence | Jesse P. Battershall | (see the Gutenberg header) | have | PG 44048 |
+| `singles-arts-miscellany-palmieri-the-eruption-of-vesuvius-in-1872` | Luigi Palmieri | The Eruption of Vesuvius in 1872 | Robert Mallet | (see the Gutenberg header) | have | PG 33483 |
+| `singles-arts-miscellany-pena-the-oriental-republic-of-uruguay-at-the` | Carlos María de Pena and Honore Roustan | The Oriental Republic of Uruguay at the World's Columbian Exhibition, Chicago, 1893 | Jean-Jacques Réthoré | (see the Gutenberg header) | have | PG 42879 |
+| `singles-arts-miscellany-pfungst-clever-hans-the-horse-of-mr-von-osten-a` | Oskar Pfungst | Clever Hans (The Horse of Mr. Von Osten) A contribution to experimental animal and human psychology | Carl Leo Rahn | (see the Gutenberg header) | have | PG 33936 |
+| `singles-arts-miscellany-platter-the-autobiography-of-thomas-platter-a-sc` | Thomas Platter | The Autobiography of Thomas Platter, a schoolmaster of the sixteenth century. | Elizabeth Anne McCaul Finn | (see the Gutenberg header) | have | PG 33860 |
+| `singles-arts-miscellany-quesada-the-social-evolution-of-the-argentine-re` | Ernesto Quesada | The Social Evolution of the Argentine Republic | Enrique Gil and Layton B. Register | (see the Gutenberg header) | have | PG 38086 |
+| `singles-arts-miscellany-reber-history-of-ancient-art` | Franz von Reber | History of Ancient Art | Joseph Thacher Clarke | (see the Gutenberg header) | have | PG 42082 |
+| `singles-arts-miscellany-recy-the-decoration-of-leather-from-the-frenc` | Georges de Récy | The Decoration of Leather From the French of Georges de Récy | Maude Nathan | (see the Gutenberg header) | have | PG 40286 |
+| `singles-arts-miscellany-renan-english-conferences-of-ernest-renan` | Ernest Renan | English Conferences of Ernest Renan: Rome and Christianity. Marcus Aurelius | Clara Erskine Clement Waters | (see the Gutenberg header) | have | PG 42865 |
+| `singles-arts-miscellany-renard-guilds-in-the-middle-ages` | Georges François Renard | Guilds in the Middle Ages | Dorothy Terry | (see the Gutenberg header) | have | PG 45425 |
+| `singles-arts-miscellany-rimsky-korsakov-principles-of-orchestration-with-musical` | Nikolay Rimsky-Korsakov | Principles of Orchestration, with Musical Examples Drawn from His Own Works | Edward Agate | (see the Gutenberg header) | have | PG 33900 |
+| `singles-arts-miscellany-rolland-handel` | Romain Rolland | Handel | A. Eaglefield Hull | (see the Gutenberg header) | have | PG 39671 |
+| `singles-arts-miscellany-roux-acrobats-and-mountebanks` | Hugues Le Roux and Jules Garnier | Acrobats and Mountebanks | A. P. Morton | (see the Gutenberg header) | have | PG 45587 |
+| `singles-arts-miscellany-rydberg-the-magic-of-the-middle-ages` | Viktor Rydberg | The Magic of the Middle Ages | August Hjalmar Edgren | (see the Gutenberg header) | have | PG 39608 |
+| `singles-arts-miscellany-schirmacher-the-modern-woman-s-rights-movement` | Käthe Schirmacher | The Modern Woman's Rights Movement: A Historical Survey | Carl Conrad Eckhardt | (see the Gutenberg header) | have | PG 33700 |
+| `singles-arts-miscellany-schweigger-clinical-investigations-on-squint` | C. Schweigger | Clinical Investigations on Squint | Emily J. Robinson | (see the Gutenberg header) | have | PG 35639 |
+| `singles-arts-miscellany-seiler-the-voice-in-singing` | Emma Seiler | The Voice in Singing | William Henry Furness | (see the Gutenberg header) | have | PG 42080 |
+| `singles-arts-miscellany-taine-a-tour-through-the-pyrenees` | Hippolyte Taine | A Tour Through the Pyrenees | John Safford Fiske | (see the Gutenberg header) | have | PG 44429 |
+| `singles-arts-miscellany-tanska-hoffmanowa-the-journal-of-countess-francoise-krasin` | Klementyna Tańska-Hoffmanowa | The Journal of Countess Françoise Krasinska, Great Grandmother of Victor Emmanuel | Kasimir Dziekonska | (see the Gutenberg header) | have | PG 36660 |
+| `singles-arts-miscellany-wasielewski-the-violoncello-and-its-history` | Wilhelm Joseph von Wasielewski | The Violoncello and Its History | Isobella S. E. Stigand | (see the Gutenberg header) | have | PG 42629 |
+| `pg-40393` | — | Vincent van Gogh, The Letters of a Post-Impressionist Being the Familiar Correspondence of Vincent Van Gogh (Anthony M. Ludovici): Gutenberg has this only as HTML, with no plain-text file. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+| — | — | busch-38902: Buzz a Buzz: no plain-text file at Gutenberg (as the wilhelm-busch shelf also notes). | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
