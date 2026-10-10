@@ -6,12 +6,17 @@
 The companion of convert_shelf_gutenberg.py for the single-page XHTML that
 fetch_shelf.py saves for a "standard_ebooks" row. SE marks its structure, so
 nothing is detected: each bodymatter <section id="chapter-N"> is a chapter,
-its <hgroup> gives the ordinal and title, and every <p> or <li> after it (or a
+its <hgroup> (or <h2>) gives the ordinal and title, and every <p> or <li> after it (or a
 quotation's <cite> standing outside one) is a
 paragraph unit. Front and back matter (SE's title page, imprint, colophon,
 uncopyright) are not the book and are skipped; so are figures.
 
-Unit ids: <slug>:<N>.<par>, N = SE's chapter number (exact), par = running
+Also taken: the author's own front and back matter (preface, appendix,
+endnotes...; AUTHOR_MATTER), keyed by SE's section id. Endnote markers are
+dropped from the paragraph text.
+
+Unit ids: <slug>:<N>.<par>, N = SE's chapter number (exact) or the section id
+(`preface`, `endnotes`), par = running
 paragraph within the chapter as SE sets it. Same {id, ref, text, links[]}
 contract as every other converter.
 
@@ -27,7 +32,11 @@ import hashlib, html, json, os, re, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 CORPUS = os.path.join(HERE, "..", "data", "corpus")
 
-RE_CHAPTER = re.compile(r'<section[^>]*\bid="chapter-(\d+)"[^>]*>(.*?)</section>', re.S)
+RE_SECTION = re.compile(r'<section[^>]*\bid="([^"]+)"[^>]*\bepub:type="([^"]*)"[^>]*>(.*?)</section>', re.S)
+# the author's own matter outside the chapters (Racundra's preface, appendix
+# and endnotes); SE's own pages (titlepage, imprint, colophon...) never match
+AUTHOR_MATTER = {"preface", "foreword", "introduction", "prologue", "epilogue", "afterword",
+                 "appendix", "endnotes", "glossary", "conclusion"}
 RE_HGROUP = re.compile(r"<hgroup>(.*?)</hgroup>", re.S)
 RE_BLOCK = re.compile(r"<(p|li|cite)(?:\s[^>]*)?>(.*?)</\1>", re.S)
 
@@ -37,14 +46,25 @@ def flat(fragment):
 
 def convert_se(path, slug, title, author, rights=None):
     raw = open(path, encoding="utf-8").read()
+    # endnote markers would glue a number onto the word they follow
+    raw = re.sub(r'<a[^>]*epub:type="noteref"[^>]*>.*?</a>', "", raw, flags=re.S)
+    raw = re.sub(r'<a[^>]*epub:type="backlink"[^>]*>.*?</a>', "", raw, flags=re.S)
     units = []
-    for m in RE_CHAPTER.finditer(raw):
-        n, body = int(m.group(1)), m.group(2)
-        hg = RE_HGROUP.search(body)
+    for m in RE_SECTION.finditer(raw):
+        sid, types, body = m.group(1), set(m.group(2).split()), m.group(3)
+        ch = re.fullmatch(r"chapter-(\d+)", sid)
+        if ch and "chapter" in types:
+            n = int(ch.group(1))
+        elif types & AUTHOR_MATTER:
+            n = sid
+        else:
+            continue
+        hg = RE_HGROUP.search(body) or re.search(r"<h2[^>]*>.*?</h2>", body, re.S)
         head = ""
         if hg:
-            ordinal = re.search(r"<h2[^>]*>(.*?)</h2>", hg.group(1), re.S)
-            name = re.search(r"<p[^>]*>(.*?)</p>", hg.group(1), re.S)
+            inner = hg.group(1) if hg.re is RE_HGROUP else hg.group(0)
+            ordinal = re.search(r"<h2[^>]*>(.*?)</h2>", inner, re.S)
+            name = re.search(r"<p[^>]*>(.*?)</p>", inner, re.S)
             head = ". ".join(x for x in (flat(ordinal.group(1)) if ordinal else "",
                                           flat(name.group(1)) if name else "") if x)
             body = body[:hg.start()] + body[hg.end():]
@@ -55,7 +75,7 @@ def convert_se(path, slug, title, author, rights=None):
             if not text:
                 continue
             pnum += 1
-            ref = f"Chapter {head or n}, par. {pnum}"
+            ref = (f"Chapter {head or n}" if isinstance(n, int) else (head or sid.title())) + f", par. {pnum}"
             units.append({"id": f"{slug}:{n}.{pnum}", "ref": ref, "text": text, "links": []})
     book = {"slug": slug, "title": title, "author": author,
             "source": {"path": os.path.relpath(path, CORPUS), "format": "standard-ebooks-xhtml",

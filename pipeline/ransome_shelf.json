@@ -1,5 +1,5 @@
 {
- "_about": "Arthur Ransome's (1884-1967) Swallows and Amazons series: the twelve novels (Jonathan Cape, London, 1930-1947). Only Swallows and Amazons (1930) is held: it is the one book of the series in the US public domain today (published 1930; a 95-year term ran out on 2026-01-01). The rest are listed under _pending with the date each one becomes free in the US. US STATUS ONLY: Ransome died in 1967, so in the UK, the EU and other life+70 countries the whole series is in copyright until 2038-01-01 (see _jurisdiction). Source: the Standard Ebooks production (CC0), the only clean text there is; Gutenberg does not hold it. SE keyed it from the 2018 Faded Page (Canada) transcription and checked it against the 1958 Cape 'new edition' scan on archive.org, so the text is the received text of later Cape printings, NOT a transcription of the 1930 first edition, and its spelling is modernized ('today' where the 1930s printings print 'to-day'). See _rights_checked for why it is kept and _collation for what was measured.",
+ "_about": "Arthur Ransome (1884-1967): his own books, US public domain only. Anything first published in 1930 or earlier is US public domain today; each later book becomes free in the US on 1 January of its publication year + 96 (95-year term; foreign works restored by the URAA whether or not renewed), and the books first published after his death have their own dates. The full list with dates is _pending here and docs/RANSOME-SCHEDULE.md. US STATUS ONLY: Ransome died in 1967, so in the UK, the EU and other life+70 countries everything he wrote is in copyright until 2038-01-01 (see _jurisdiction). His translations and retellings of others (Old Peter's Russian Tales, Gourmont's A Night in the Luxembourg) are on lane C's ransome-translations shelf, not here. This shelf merges lane B's Swallows and Amazons entry (relay b69f8a0e, the 1946 Cape impression as raw OCR) with PR #21's Standard Ebooks text, which is the reading text; owner since 2026-10-10: the Ransome thread (PR #21), by the coordinator's assignment. Standard Ebooks texts are keyed from later printings with modernized spelling; see _rights_checked and _collation. Internet Archive items are raw, unproofread OCR (the Edwards precedent).",
  "_author": "Arthur Ransome",
  "_name_words": [
   "ransome"
@@ -8,23 +8,104 @@
   "arthur ransome"
  ],
  "ccel": {},
- "gutenberg": {},
- "internet_archive": {},
+ "gutenberg": {
+  "ransome-pond-and-stream": [
+   40447,
+   "Pond and Stream (1906)"
+  ],
+  "ransome-childs-book-of-the-seasons": [
+   40448,
+   "The Child's Book of the Seasons (1906)"
+  ],
+  "ransome-history-of-story-telling": [
+   62129,
+   "A History of Story-Telling: Studies in the Development of Narrative (1909)"
+  ],
+  "ransome-oscar-wilde": [
+   36017,
+   "Oscar Wilde: A Critical Study (1912)"
+  ],
+  "ransome-portraits-and-speculations": [
+   65992,
+   "Portraits and Speculations (1913)"
+  ],
+  "ransome-russia-in-1919": [
+   1324,
+   "Russia in 1919 (New York, 1919; published in London as Six Weeks in Russia in 1919)"
+  ],
+  "ransome-crisis-in-russia": [
+   1326,
+   "The Crisis in Russia (1921)"
+  ],
+  "ransome-soldier-and-death": [
+   49278,
+   "The Soldier and Death: A Russian Folk Tale Told in English (1920)"
+  ]
+ },
+ "internet_archive": {
+  "ransome-swallows-and-amazons-1930": [
+   "swallows-and-amazons",
+   "Swallows and Amazons (London: Jonathan Cape; first published August 1930; this scan is the twenty-third impression, February 1946, of the new illustrated edition)",
+   "Swallows_and_Amazons_djvu.txt",
+   "by Arthur Ransome"
+  ],
+  "ransome-souls-of-the-streets": [
+   "soulsofstreetsot00ransuoft",
+   "The Souls of the Streets and Other Little Papers (London: Brown, Langham, 1904)"
+  ],
+  "ransome-bohemia-in-london": [
+   "bohemiainlondon0000arth",
+   "Bohemia in London (London: Chapman & Hall, 1907)"
+  ],
+  "ransome-edgar-allan-poe": [
+   "edgarallencrit00ransrich",
+   "Edgar Allan Poe: A Critical Study (London: Martin Secker, 1910)"
+  ],
+  "ransome-hoofmarks-of-the-faun": [
+   "hoofmarksoffaun00rans",
+   "The Hoofmarks of the Faun (London: Martin Secker, 1911)"
+  ],
+  "ransome-letter-to-america": [
+   "onbehalfofrussia00rans",
+   "On Behalf of Russia: An Open Letter to America (New York: New Republic, 1918), reprinted from The New Republic of 27 July 1918"
+  ],
+  "ransome-aladdin": [
+   "aladdinhiswonder0000arth",
+   "Aladdin and His Wonderful Lamp in Rhyme (London: Nisbet, 1919)"
+  ],
+  "ransome-chinese-puzzle": [
+   "chinesepuzzle00rans",
+   "The Chinese Puzzle (Boston: Houghton Mifflin, 1927)"
+  ]
+ },
  "standard_ebooks": {
   "ransome-swallows-and-amazons": [
    "arthur-ransome/swallows-and-amazons",
    "Swallows and Amazons (Jonathan Cape, July 1930), Swallows and Amazons #1"
+  ],
+  "ransome-racundras-first-cruise": [
+   "arthur-ransome/racundras-first-cruise",
+   "Racundra's First Cruise (London: Allen & Unwin, 1923)"
   ]
  },
  "_jurisdiction": {
   "rule": "the hosted chest is in the US and the US rule binds (as on the Chesterton and Barrie shelves). A work first published abroad in 1930-1977 has a US term of 95 years from publication (its copyright was restored by the URAA on 1996-01-01 whether or not it was ever renewed), so it is free on 1 January of the 96th year.",
-  "us": "Swallows and Amazons: public domain since 2026-01-01. Every later title: see _pending.",
+  "us": "every book first published 1930 or earlier: public domain now. Every later one: see _pending.",
   "uk_eu_life_plus_70": "in copyright until 2038-01-01 (Ransome d. 1967-06-03). Armarium must not serve this text to readers in those countries if it ever serves by region.",
   "canada": "public domain since 2018-01-01 (life+50 for authors who died before 1972; Canada's 2022 extension to life+70 is not retroactive). This is why Faded Page holds all twelve; a Canadian transcription is not US public domain for that reason.",
   "illustrations": "not taken: the pipeline is text only. The 1930 first edition carried only Steven Spurrier's endpaper maps and frontispiece (SE keeps those). Clifford Webb's drawings (1931) and Ransome's own (1938) are later publications with their own US dates (2027 and 2034)."
  },
+ "_translators": {},
+ "_identity_checked": {
+  "ransome-aladdin": {
+   "author": "Title page read 2026-10-10: the OCR prints the author line as 'BY ARTHUR RANSONE' (an OCR slip for Ransome); the catalogue gives Nisbet, 1919, and the title words match."
+  }
+ },
  "_rights_checked": {
-  "ransome-swallows-and-amazons": "Kept as a later-printing, spelling-modernized witness of the 1930 text (the same class as the reprint questions in DIGEST-B; Adam's ruling on that class covers this one too). Standard Ebooks' imprint says the source text is believed US public domain and dedicates SE's work to CC0. No textual collation of the 1930 first edition against later printings has been published and no scan of the first edition is open online, so 'no revision' is inferred, not proved: see _collation."
+  "ransome-swallows-and-amazons": "Kept as a later-printing, spelling-modernized witness of the 1930 text (the same class as the reprint questions in DIGEST-B; Adam's ruling on that class covers this one too). Standard Ebooks' imprint says the source text is believed US public domain and dedicates SE's work to CC0. No textual collation of the 1930 first edition against later printings has been published and no scan of the first edition is open online, so 'no revision' is inferred, not proved: see _collation.",
+  "ransome-swallows-and-amazons-1930": "Title page read 2026-10-10: 'London - JONATHAN CAPE - Toronto. FIRST PUBLISHED AUGUST 1930. NEW ILLUSTRATED EDITION 1931 ... TWENTY-THIRD IMPRESSION FEBRUARY 1946', 'Illustrated by the Author'. The text is Ransome's 1930 book, US public domain since 2026-01-01 (published 1930, 95-year term). US ONLY: Ransome died 1967, so it is under copyright in the UK and other life+70 countries until 2038. Two caveats awaiting Adam (DIGEST-B): this is a later printing and the text has not been collated against a 1930 copy; and Ransome's own drawings, whose captions may appear in the OCR, date from the 1938 edition, so those captions are not yet US public domain. Stated by hand because the gate is fail-closed at 1930. Kept 2026-10-10 as a raw collation witness beside the Standard Ebooks reading text (ransome-swallows-and-amazons); the slug is lane B's and is kept so its references resolve, though the scan is the 1946 impression, not 1930.",
+  "ransome-letter-to-america": "Read 2026-10-10: the pamphlet prints 'Reprinted from The New Republic of July 27, 1918' and is dated Moscow, May 14th, 1918; the catalogue record has no date, so the gate asks. Published 1918: US public domain.",
+  "ransome-racundras-first-cruise": "Standard Ebooks production (CC0) of the 1923 book; US public domain by date. Spelling may be modernized, as with all SE texts."
  },
  "_collation": {
   "checked": "2026-10-10",
@@ -33,27 +114,207 @@
   "dli.ernet.425473_1953": "archive.org 'dli.ernet.425473' (Cape, 'this edition 1953'; the catalogue's 1930 is the first-publication year, not this printing): 98,872 of SE's words match (96.8%). This printing already reads 'today' (25) and 'tomorrow' (39): Cape's own resetting dropped the hyphens, so the modern spelling may be Cape's, not SE's."
  },
  "_pending": {
-  "ransome-swallowdale": "Swallowdale (Cape, 1931): US public domain on 2027-01-01; take then from Standard Ebooks (arthur-ransome/swallowdale), whose page for it already names that date",
-  "ransome-peter-duck": "Peter Duck (Cape, 1932): US public domain on 2028-01-01; take then from Standard Ebooks (arthur-ransome/peter-duck), whose page for it already names that date",
-  "ransome-winter-holiday": "Winter Holiday (Cape, 1933): US public domain on 2029-01-01; take then from Standard Ebooks (arthur-ransome/winter-holiday), whose page for it already names that date",
-  "ransome-coot-club": "Coot Club (Cape, 1934): US public domain on 2030-01-01; take then from Standard Ebooks (arthur-ransome/coot-club), whose page for it already names that date",
-  "ransome-pigeon-post": "Pigeon Post (Cape, 1936): US public domain on 2032-01-01; take then from Standard Ebooks (arthur-ransome/pigeon-post), whose page for it already names that date",
-  "ransome-we-didnt-mean-to-go-to-sea": "We Didn't Mean to Go to Sea (Cape, 1937): US public domain on 2033-01-01; take then from Standard Ebooks (arthur-ransome/we-didnt-mean-to-go-to-sea), whose page for it already names that date",
-  "ransome-secret-water": "Secret Water (Cape, 1939): US public domain on 2035-01-01; take then from Standard Ebooks (arthur-ransome/secret-water), whose page for it already names that date",
-  "ransome-the-big-six": "The Big Six (Cape, 1940): US public domain on 2036-01-01; take then from Standard Ebooks (arthur-ransome/the-big-six), whose page for it already names that date",
-  "ransome-missee-lee": "Missee Lee (Cape, 1941): US public domain on 2037-01-01; take then from Standard Ebooks (arthur-ransome/missee-lee), whose page for it already names that date",
-  "ransome-the-picts-and-the-martyrs": "The Picts and the Martyrs; or, Not Welcome at All (Cape, 1943): US public domain on 2039-01-01; take then from Standard Ebooks (arthur-ransome/the-picts-and-the-martyrs), whose page for it already names that date",
-  "ransome-great-northern": "Great Northern? (Cape, 1947): US public domain on 2043-01-01; take then from Standard Ebooks (arthur-ransome/great-northern), whose page for it already names that date"
+  "ransome-swallowdale": "Swallowdale (Cape, 1931): US public domain on 2027-01-01. Take then from Standard Ebooks (arthur-ransome/swallowdale), whose page already names that date; a proofread Faded Page (Canada) text exists but is not US public domain before then.",
+  "ransome-peter-duck": "Peter Duck (Cape, 1932): US public domain on 2028-01-01. Take then from Standard Ebooks (arthur-ransome/peter-duck), whose page already names that date; a proofread Faded Page (Canada) text exists but is not US public domain before then.",
+  "ransome-winter-holiday": "Winter Holiday (Cape, 1933): US public domain on 2029-01-01. Take then from Standard Ebooks (arthur-ransome/winter-holiday), whose page already names that date; a proofread Faded Page (Canada) text exists but is not US public domain before then.",
+  "ransome-coot-club": "Coot Club (Cape, 1934): US public domain on 2030-01-01. Take then from Standard Ebooks (arthur-ransome/coot-club), whose page already names that date; a proofread Faded Page (Canada) text exists but is not US public domain before then.",
+  "ransome-pigeon-post": "Pigeon Post (Cape, 1936): US public domain on 2032-01-01. Take then from Standard Ebooks (arthur-ransome/pigeon-post), whose page already names that date; a proofread Faded Page (Canada) text exists but is not US public domain before then.",
+  "ransome-we-didnt-mean-to-go-to-sea": "We Didn't Mean to Go to Sea (Cape, 1937): US public domain on 2033-01-01. Take then from Standard Ebooks (arthur-ransome/we-didnt-mean-to-go-to-sea), whose page already names that date; a proofread Faded Page (Canada) text exists but is not US public domain before then.",
+  "ransome-secret-water": "Secret Water (Cape, 1939): US public domain on 2035-01-01. Take then from Standard Ebooks (arthur-ransome/secret-water), whose page already names that date; a proofread Faded Page (Canada) text exists but is not US public domain before then.",
+  "ransome-the-big-six": "The Big Six (Cape, 1940): US public domain on 2036-01-01. Take then from Standard Ebooks (arthur-ransome/the-big-six), whose page already names that date; a proofread Faded Page (Canada) text exists but is not US public domain before then.",
+  "ransome-missee-lee": "Missee Lee (Cape, 1941): US public domain on 2037-01-01. Take then from Standard Ebooks (arthur-ransome/missee-lee), whose page already names that date; a proofread Faded Page (Canada) text exists but is not US public domain before then.",
+  "ransome-the-picts-and-the-martyrs": "The Picts and the Martyrs; or, Not Welcome at All (Cape, 1943): US public domain on 2039-01-01. Take then from Standard Ebooks (arthur-ransome/the-picts-and-the-martyrs), whose page already names that date; a proofread Faded Page (Canada) text exists but is not US public domain before then.",
+  "ransome-great-northern": "Great Northern? (Cape, 1947): US public domain on 2043-01-01. Take then from Standard Ebooks (arthur-ransome/great-northern), whose page already names that date; a proofread Faded Page (Canada) text exists but is not US public domain before then.",
+  "ransome-fishing": "Fishing (Cambridge University Press for the National Book League, 1955): US public domain on 2051-01-01.",
+  "ransome-mainly-about-fishing": "Mainly About Fishing (A. & C. Black, 1959): US public domain on 2055-01-01.",
+  "ransome-racundras-third-cruise": "Racundra's Third Cruise, ed. Brian Hammett (Fernhurst, 2002): US public domain on 2048-01-01. Unpublished at his death and first published 1978-2002, so protected through 2047. Wikipedia's list dates it 1972; if that were right the date would be 2068-01-01. Check the edition before taking it.",
+  "ransome-autobiography": "The Autobiography of Arthur Ransome, ed. Rupert Hart-Davis (Cape, 1976): US public domain on 2072-01-01. First published 1976, 95 years.",
+  "ransome-war-of-the-birds-and-beasts": "The War of the Birds and Beasts and Other Russian Tales, ed. Hugh Brogan (Cape, 1984): US public domain on 2048-01-01. First published 1978-2002: protected through 2047.",
+  "ransome-coots-in-the-north": "Coots in the North and Other Stories, ed. Hugh Brogan (Cape, 1988): US public domain on 2048-01-01. Unfinished novel, first published 1988: protected through 2047.",
+  "ransome-on-fishing": "Arthur Ransome on Fishing, ed. Jeremy Swift (Cape, 1994): US public domain on 2048-01-01. Mostly pieces first printed in his lifetime (each free on its own date); what was first published in 1994 is protected through 2047.",
+  "ransome-stevenson": "Arthur Ransome's Long-Lost Study of Robert Louis Stevenson, ed. Kirsty Nichol Findlay (Boydell, 2011): US public domain on 2038-01-01. First published after 2002, so life+70.",
+  "ransome-stone-lady": "The Stone Lady (1905): US public domain NOW, but no open scan or transcription was found on Gutenberg, Standard Ebooks or archive.org on 2026-10-10 (HathiTrust refused this session's searches, so it was not checked). Wanted.",
+  "ransome-highways-and-byways-in-fairyland": "Highways and Byways in Fairyland (1906): US public domain NOW, but no open scan or transcription was found on Gutenberg, Standard Ebooks or archive.org on 2026-10-10 (HathiTrust refused this session's searches, so it was not checked). Wanted.",
+  "ransome-things-in-our-garden": "The Things in Our Garden (1906): US public domain NOW, but no open scan or transcription was found on Gutenberg, Standard Ebooks or archive.org on 2026-10-10 (HathiTrust refused this session's searches, so it was not checked). Wanted.",
+  "ransome-imp-and-the-elf-and-the-ogre": "The Imp and the Elf and the Ogre (1910): US public domain NOW, but no open scan or transcription was found on Gutenberg, Standard Ebooks or archive.org on 2026-10-10 (HathiTrust refused this session's searches, so it was not checked). Wanted.",
+  "ransome-elixir-of-life": "The Elixir of Life (1915): US public domain NOW, but no open scan or transcription was found on Gutenberg, Standard Ebooks or archive.org on 2026-10-10 (HathiTrust refused this session's searches, so it was not checked). Wanted. His one adult novel.",
+  "ransome-rod-and-line": "Rod and Line (1929): US public domain NOW, but no open scan or transcription was found on Gutenberg, Standard Ebooks or archive.org on 2026-10-10 (HathiTrust refused this session's searches, so it was not checked). Wanted. Archive.org holds only a lending copy of the 1980 Oxford reprint."
  },
  "_excluded": {
-  "ransome-swallows-and-amazons-1946-ocr": "archive.org 'swallows-and-amazons' (1946 impression, marked Public Domain Mark by its uploader on 2026-01-01): the closest open scan to the 1930 text, but it is the 1931 new illustrated edition with Ransome's 1938 pictures and their captions, which are not US public domain until 2027 and 2034. Held as a collation witness only; reconsider on 2027-01-01 for its 1931 setting.",
   "ransome-swallows-and-amazons-1953-dli": "archive.org 'dli.ernet.425473' (Cape 1953 edition, Digital Library of India scan): a later reset with Ransome's illustrations; the SE text is cleaner. Collation witness only.",
   "ransome-swallows-and-amazons-fadedpage": "Faded Page 20180107: a Canadian (life+50) transcription from an edition with Ransome's illustrations; SE's production is built on it and corrected against a scan, so SE is taken instead.",
   "ransome-swallows-and-amazons-1931-lippincott": "archive.org 'swallowsamazons0000rans' (Lippincott, Philadelphia, 1931): a lending-library scan, not open; the US edition is a later publication anyway.",
-  "ransome-coots-in-the-north": "Coots in the North and Other Stories (unfinished, ed. Hugh Brogan, 1988): first published 1988, so in US copyright until at least 2048-01-01.",
-  "ransome-other-books": "Ransome's books outside the series (Old Peter's Russian Tales 1916, Racundra's First Cruise 1923, the Russia books, Oscar Wilde 1912 and others, several on Gutenberg) are US public domain but were not asked for here; not shelved."
+  "ransome-translations": "Old Peter's Russian Tales (1916, PG 16981) and Remy de Gourmont's A Night in the Luxembourg (tr. Ransome, 1912, PG 46766) are on lane C's pipeline/ransome-translations_shelf.json; not duplicated here. The Soldier and Death (1920) is a retelling in the same vein and is held here because lane C did not take it; it can move there if Adam prefers.",
+  "ransome-six-weeks-in-russia": "Six Weeks in Russia in 1919 (London: Allen & Unwin, 1919; archive.org sixweeksinrussia00ransuoft): the London edition of Russia in 1919, held from Gutenberg.",
+  "ransome-radek-and-ransome": "Radek and Ransome on Russia (Brooklyn: Socialist Publication Society, 1918; radekransomeonru00ransuoft): the open letter to America again, bound with Karl Radek's reply; the letter is held as ransome-letter-to-america.",
+  "ransome-lenin-williams": "Lenin: The Man and His Work (New York, 1919): Albert Rhys Williams's book, with Ransome's impressions as a chapter; not his book.",
+  "ransome-edited-anthologies": "Books he edited, whose text is other writers' (The World's Story Tellers series for T. C. & E. C. Jack, 1908-1909, e.g. archive.org stories02ransgoog; The Book of Friendship 1909; The Book of Love 1911): US public domain, not shelved as his works this round; only his introductions are his.",
+  "ransome-racundras-first-cruise-ia": "archive.org racundrasfirstcr0000arth_q9r3 (Cape, 1927 printing): raw OCR of the book held from Standard Ebooks.",
+  "ransome-swallows-and-amazons-o7l3": "archive.org swallowsamazons0000arth_o7l3 (catalogued 1930): another impression of the 1931 new illustrated edition, not the first edition."
  },
  "_checks": {
+  "ransome-pond-and-stream": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ransome-childs-book-of-the-seasons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ransome-history-of-story-telling": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ransome-oscar-wilde": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ransome-portraits-and-speculations": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ransome-russia-in-1919": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ransome-crisis-in-russia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ransome-soldier-and-death": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ransome-swallows-and-amazons-1930": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-10: 'London - JONATHAN CAPE - Toronto. FIRST PUBLISHED AUGUST 1930. NEW ILLUSTRATED EDITION 1931 ... TWENTY-THIRD IMPRESSION FEBRUARY 1946', 'Illustrated by the Author'. The text is Ransome's 1930 book, US public domain since 2026-01-01 (published 1930, 95-year term). US ONLY: Ransome died 1967, so it is under copyright in the UK and other life+70 countries until 2038. Two caveats awaiting Adam (DIGEST-B): this is a later printing and the text has not been collated against a 1930 copy; and Ransome's own drawings, whose captions may appear in the OCR, date from the 1938 edition, so those captions are not yet US public domain. Stated by hand because the gate is fail-closed at 1930. Kept 2026-10-10 as a raw collation witness beside the Standard Ebooks reading text (ransome-swallows-and-amazons); the slug is lane B's and is kept so its references resolve, though the scan is the 1946 impression, not 1930."
+  },
+  "ransome-souls-of-the-streets": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ransome-bohemia-in-london": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ransome-edgar-allan-poe": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ransome-hoofmarks-of-the-faun": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ransome-letter-to-america": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Read 2026-10-10: the pamphlet prints 'Reprinted from The New Republic of July 27, 1918' and is dated Moscow, May 14th, 1918; the catalogue record has no date, so the gate asks. Published 1918: US public domain."
+  },
+  "ransome-aladdin": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ransome-chinese-puzzle": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
   "ransome-swallows-and-amazons": {
    "kind": "se",
    "checked": "2026-10-10",
@@ -66,6 +327,16 @@
     "https://www.fadedpage.com/showbook.php?pid=20180107"
    ],
    "rights_override": "Kept as a later-printing, spelling-modernized witness of the 1930 text (the same class as the reprint questions in DIGEST-B; Adam's ruling on that class covers this one too). Standard Ebooks' imprint says the source text is believed US public domain and dedicates SE's work to CC0. No textual collation of the 1930 first edition against later printings has been published and no scan of the first edition is open online, so 'no revision' is inferred, not proved: see _collation."
+  },
+  "ransome-racundras-first-cruise": {
+   "kind": "se",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "se_rights": "ok: CC0 production, source believed US public domain",
+   "se_sources": null,
+   "rights_override": "Standard Ebooks production (CC0) of the 1923 book; US public domain by date. Spelling may be modernized, as with all SE texts."
   }
  }
 }

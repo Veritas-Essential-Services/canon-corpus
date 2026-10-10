@@ -668,3 +668,14 @@ Round 8, vetoable. Not converted to unit-id JSON; **no uids minted**.
 | `hearn-flaubert-temptation` | Flaubert | The Temptation of St. Anthony | Lafcadio Hearn | 1910 | have | PG 52225 |
 | — | — | pg-25053: Gutenberg 25053 is another Temptation of St. Antony with no translator named; not Hearn's. | — | — | excluded | — |
 | — | — | hearn-own-works: Kwaidan, Glimpses of Unfamiliar Japan etc.: Hearn's own books. | — | — | excluded | — |
+
+## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
+
+Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
+2026-10-10, vetoable. His Swallows and Amazons is on Lane B's `ransome_shelf.json`, not here. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ransome-old-peters-russian-tales` | Russian folk tales, retold | Old Peter's Russian Tales | Arthur Ransome | 1916 | have | PG 16981 |
+| `ransome-gourmont-night-in-the-luxembourg` | Remy de Gourmont | A Night in the Luxembourg | Arthur Ransome | 1912 | have | PG 46766 |
+| — | — | ransome-own-books: Swallows and Amazons and the rest of the series: Ransome's own books, on Lane B's ransome_shelf.json. | — | — | excluded | — |

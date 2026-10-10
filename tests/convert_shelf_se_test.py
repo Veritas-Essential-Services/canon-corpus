@@ -12,6 +12,8 @@ FIXTURE = """<?xml version="1.0" encoding="utf-8"?>
 <section id="imprint" epub:type="frontmatter imprint"><p>Based on a
 <a href="https://www.fadedpage.com/showbook.php?pid=1">transcription</a> and
 <a href="https://archive.org/details/somescan">page scans</a>.</p></section>
+<section id="preface" epub:type="frontmatter preface"><h2>Preface</h2><p>Pre<a href="#note-1" id="noteref-1" epub:type="noteref">1</a>.</p></section>
+<section id="titlepage" epub:type="frontmatter titlepage"><p>Not the book.</p></section>
 <section id="chapter-1" epub:type="bodymatter chapter"><header><hgroup>
 <h2 epub:type="z3998:ordinal">I</h2><p epub:type="title">The First</p></hgroup></header>
 <p>One <i>two</i>.</p><p>Three &amp; four.</p>
@@ -45,12 +47,13 @@ with tempfile.NamedTemporaryFile("w", suffix=".xhtml", delete=False, encoding="u
 book = convert_se(f.name, "s", "T", "A", {"jurisdiction": {"us": "pd"}})
 os.unlink(f.name)
 ids = [u["id"] for u in book["units"]]
-check("ids", ids == ["s:1.1", "s:1.2", "s:1.3", "s:1.4", "s:1.5", "s:2.1"])
-check("inline markup and entities", book["units"][0]["text"] == "One two." and book["units"][1]["text"] == "Three & four.")
+check("ids", ids == ["s:preface.1", "s:1.1", "s:1.2", "s:1.3", "s:1.4", "s:1.5", "s:2.1"])
+check("inline markup and entities", book["units"][1]["text"] == "One two." and book["units"][2]["text"] == "Three & four.")
 check("figure skipped", all("map" not in u["text"] for u in book["units"]))
-check("cite outside p kept", book["units"][3]["text"] == "Six")
+check("cite outside p kept", book["units"][4]["text"] == "Six")
 check("front/back matter skipped", all("book" not in u["text"] for u in book["units"]))
-check("ref carries heading", book["units"][0]["ref"] == "Chapter I. The First, par. 1")
+check("preface kept, noteref dropped", book["units"][0]["text"] == "Pre." and book["units"][0]["ref"] == "Preface, par. 1")
+check("ref carries heading", book["units"][1]["ref"] == "Chapter I. The First, par. 1")
 check("ref without title", book["units"][-1]["ref"] == "Chapter II, par. 1")
 check("rights block", book["rights"] == {"jurisdiction": {"us": "pd"}})
 print(f"{passed} passed, {failed} failed")
