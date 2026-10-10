@@ -2583,6 +2583,8 @@ Shelf: `pipeline/greenidge_shelf.json`. Abel Hendy Jones Greenidge (1865-1906), 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A History of Rome During the Later Republic and Early Principate |  | `greenidge-history-of-rome-later-republic` | have (PG 9781) |
+| Roman Public Life |  | `greenidge-roman-public-life` | have (PG 65392) |
 
 ## W. Warde Fowler (scholarship)
 
