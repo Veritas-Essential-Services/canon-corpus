@@ -2735,6 +2735,7 @@ Shelf: `pipeline/percy-gardner_shelf.json`. Percy Gardner (1846-1937), Oxford cl
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Sculptured Tombs of Hellas |  | `percy-gardner-sculptured-tombs-hellas` | have (PG 69508) |
 
 ## Perseus census (overflow)
 

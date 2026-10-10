@@ -1,0 +1,29 @@
+{
+ "_about": "Percy Gardner (1846-1937), Oxford classical archaeologist. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Sculptured Tombs of Hellas, clean Gutenberg. No uids minted.",
+ "_name_words": [
+  "gardner"
+ ],
+ "_surname": [
+  "percy gardner",
+  "gardner, percy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "percy-gardner-sculptured-tombs-hellas": [
+   69508,
+   "Sculptured Tombs of Hellas"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "percy-gardner-sculptured-tombs-hellas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "percy gardner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
