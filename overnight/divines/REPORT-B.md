@@ -760,3 +760,8 @@
 - Niebuhr's History of Rome, 3 vols., new edition (vols. I-II tr. Hare and Thirlwall, 1851 and 1855; vol. III tr. Smith and Schmitz, imprint year illegible but plainly 19th-century)
 - Under the bar: Hermann's Manual of the Political Antiquities of Greece (1836; two scans at 0.76 and 0.68)
 - Left out: Heeren's Historical Researches (the nations of Asia and Africa: Near Eastern, like Duncker)
+
+## 2026-10-10 12:13 CDT — Round 2026-10-10ae: 10 volumes
+- New shelves: Glover (Conflict of Religions, Gutenberg; Life and Letters in the Fourth Century, 1901; Virgil, 2nd ed., 1912), Ridgeway (Metallic Currency, Gutenberg; Early Age of Greece vol. I, 1901; Origin of Tragedy, 1910), Rice Holmes (Ancient Britain and the Invasions of Julius Caesar, Gutenberg; Caesar's Conquest of Gaul, 2nd ed., 1911)
+- Added: Bury's Ancient Greek Historians (1909); Frazer's Pausanias and Other Greek Sketches (1900)
+- Left out: Ridgeway's Early Age of Greece vol. II (published 1931, not yet US public domain); Douris and the Painters of Greek Vases (PG 61034; Pottier's book, the translator's dates unknown)

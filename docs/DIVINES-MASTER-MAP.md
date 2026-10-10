@@ -6034,11 +6034,12 @@ Shelf: `pipeline/h-b-walters_shelf.json`. Henry Beauchamp Walters (1867-1944), B
 
 ## J. G. Frazer (scholarship)
 
-Shelf: `pipeline/frazer-greece_shelf.json`. Sir James George Frazer (1854-1941): his Greek writing only: 1 clean Gutenberg text. His Pausanias translation is on the pausanias shelf; The Golden Bough is comparative religion and is left out. Not minted.
+Shelf: `pipeline/frazer-greece_shelf.json`. Sir James George Frazer (1854-1941): his Greek writing only: Studies in Greek Scenery (clean Gutenberg) and Pausanias and Other Greek Sketches (1900, raw IA OCR). His Pausanias translation is on the pausanias shelf; The Golden Bough is comparative religion and is left out. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Studies in Greek Scenery, Legend and History, selected from his commentary on Pausanias |  | `frazer-studies-greek-scenery` | have (PG 56002) |
+| Pausanias and Other Greek Sketches (London: Macmillan, 1900) |  | `frazer-pausanias-greek-sketches-1900` | have-raw (IA `pausaniasothergr00frazuoft`) |
 
 ## Matthew Arnold (scholarship)
 
@@ -6109,7 +6110,7 @@ Pending (wishlist): Charicles in a scan that clears the bar.
 
 ## J. B. Bury (scholarship)
 
-Shelf: `pipeline/bury_shelf.json`. Bury's Later Roman Empire (1889, 2 vols.), Eastern Roman Empire (1912), Constitution of the Later Roman Empire (1910) and History of Greece (first edition, 1900), raw IA OCR. Not minted.
+Shelf: `pipeline/bury_shelf.json`. Bury's Later Roman Empire (1889, 2 vols.), Eastern Roman Empire (1912), Constitution of the Later Roman Empire (1910), History of Greece (first edition, 1900) and The Ancient Greek Historians (1909), raw IA OCR. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -6118,6 +6119,7 @@ Shelf: `pipeline/bury_shelf.json`. Bury's Later Roman Empire (1889, 2 vols.), Ea
 | A History of the Eastern Roman Empire from the Fall of Irene to the Accession of Basil I (London: Macmillan, 1912) |  | `bury-eastern-roman-empire-1912` | have-raw (IA `historyofeastern00buryiala`) |
 | The Constitution of the Later Roman Empire (Creighton memorial lecture; Cambridge: University Press, 1910) |  | `bury-constitution-later-roman-empire-1910` | have-raw (IA `constitutionofla00buryuoft`) |
 | A History of Greece to the Death of Alexander the Great (London: Macmillan, 1900) |  | `bury-history-greece-1900` | have-raw (IA `ahistorygreecet01burygoog`) |
+| The Ancient Greek Historians (Harvard Lectures) (New York and London: Macmillan, 1909) |  | `bury-ancient-greek-historians-1909` | have-raw (IA `cu31924028260317`) |
 
 Excluded: The Student's Roman Empire (IA studentsromanemp00buryuoft) (no year on the scan's title page; held back under the undated rule); A History of the Later Roman Empire vol. II (IA historyoflaterro02buryuoft) (no year on the scan's title page; the dated 1889 copy is taken)
 
@@ -6531,6 +6533,35 @@ Shelf: `pipeline/leake_shelf.json`. The Topography of Athens and the Demi, 2nd e
 | Travels in the Morea, in three volumes, vol. III (London: John Murray, 1830) |  | `leake-morea-v3-1830` | have-raw (IA `moreatravels03leak`) |
 
 Pending (wishlist): Travels in the Morea vol. II (IA unavailable this round).
+
+## T. R. Glover (scholarship)
+
+Shelf: `pipeline/glover_shelf.json`. The Conflict of Religions in the Early Roman Empire (clean Gutenberg); Life and Letters in the Fourth Century (1901) and Virgil, 2nd ed. (1912), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Conflict of Religions in the Early Roman Empire |  | `glover-conflict-religions-early-roman-empire` | have (PG 39092) |
+| Life and Letters in the Fourth Century (Cambridge: University Press, 1901) |  | `glover-life-letters-fourth-century-1901` | have-raw (IA `lifelettersinfou00glovuoft`) |
+| Virgil, second edition (London: Methuen, 1912) |  | `glover-virgil-1912` | have-raw (IA `virgil00glovrich`) |
+
+## William Ridgeway (scholarship)
+
+Shelf: `pipeline/ridgeway_shelf.json`. The Origin of Metallic Currency (clean Gutenberg); The Early Age of Greece vol. I (1901) and The Origin of Tragedy (1910), raw IA OCR. Vol. II of The Early Age (1931) is not yet US public domain. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Origin of Metallic Currency and Weight Standards |  | `ridgeway-metallic-currency` | have (PG 66160) |
+| The Early Age of Greece, vol. I (Cambridge: University Press, 1901) |  | `ridgeway-early-age-greece-v1-1901` | have-raw (IA `earlyageofgreece0001will`) |
+| The Origin of Tragedy, with special reference to the Greek tragedians (Cambridge: University Press, 1910) |  | `ridgeway-origin-tragedy-1910` | have-raw (IA `cu31924022692853`) |
+
+## T. Rice Holmes (scholarship)
+
+Shelf: `pipeline/rice-holmes_shelf.json`. Ancient Britain and the Invasions of Julius Caesar (clean Gutenberg); Caesar's Conquest of Gaul, 2nd ed. (Clarendon Press, 1911), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Ancient Britain and the Invasions of Julius Caesar |  | `rice-holmes-ancient-britain-caesar` | have (PG 57336) |
+| Caesar's Conquest of Gaul, second edition (Oxford: Clarendon Press, 1911) |  | `rice-holmes-caesars-conquest-gaul-1911` | have-raw (IA `caesarsconquesto00holm`) |
 
 ## Perseus census (overflow)
 
