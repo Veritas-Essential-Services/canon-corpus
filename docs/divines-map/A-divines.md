@@ -2299,3 +2299,20 @@ Slugs `dagg-*`.
 | The Elements of Moral Science (New York: Sheldon; Charleston: Southern Baptist Publication Society, 1860) | have-ocr | IA `elementsofmorals00dagg` |
 | The Evidences of Christianity (Macon: J. W. Burke; Philadelphia: Claxton, Remsen & Haffelfinger, 1869) | have-ocr | IA `evidencesofchris00dagg` |
 | Manual of Theology part 1 (Philadelphia, entered 1871; IA manualoftheology00dagg) and part 2 (Charleston, 1858; IA manualoftheology02dagg): the same text as the 1859 two-part scan | alternate | not shelved |
+
+## John A. Broadus (round 15, my pick, 2026-10-10)
+
+Slugs `broadus-*`. His own 1872 text of Preparation and Delivery, not Dargan's 1898 revision.
+
+| Work | Status | Where |
+|---|---|---|
+| A Treatise on the Preparation and Delivery of Sermons, fourth edition (Philadelphia: Smith, English, 1872) | have-ocr | IA `treatiseonprepar00broa_0` |
+| Commentary on the Gospel of Matthew, An American Commentary on the New Testament, ed. Alvah Hovey (Philadelphia: American Baptist Publication Society; entered 1886) | have-ocr | IA `commentaryongosp01broa` |
+| Lectures on the History of Preaching, new edition (New York: A. C. Armstrong, 1893) | have-ocr | IA `lecturesonthehis00broauoft` |
+| Sermons and Addresses, second edition (Richmond: B. F. Johnson, 1887) | have-ocr | IA `sermonsaddresses00broa` |
+| Jesus of Nazareth (New York: A. C. Armstrong, 1890) | have-ocr | IA `jesusofnazareth00broa` |
+| Memoir of James Petigru Boyce (New York: A. C. Armstrong, 1893) | have-ocr | IA `memoirofjamespeti00broa` |
+| A Harmony of the Gospels in the Revised Version, notes by A. T. Robertson (New York: A. C. Armstrong, 1893) | have-ocr | IA `harmonyofgosp00broa` |
+| Commentary on the Gospel of Mark (Philadelphia: American Baptist Publication Society, 1905) | have-ocr | IA `gospelofmark0000john` |
+| the 1898 23rd edition revised by E. C. Dargan (IA treatiseonprepar1898broa): Dargan's revision, a different text | alternate | not shelved |
+| Gutenberg 36264, A. T. Robertson's 1922 Harmony based on Broadus: Robertson's book | alternate | not shelved |

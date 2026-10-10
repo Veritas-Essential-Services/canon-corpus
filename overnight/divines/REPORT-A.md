@@ -709,3 +709,6 @@
 
 ## 2026-10-10 09:25 CDT — john-l-dagg done
 - `pipeline/john-l-dagg_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for dagg-evidences-1869 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:25 CDT — john-a-broadus done
+- `pipeline/john-a-broadus_shelf.json`: 0 CCEL, 0 PG, 8 IA. Mark 1905 is a "0000"-style id; its title page shows the April 1905 first printing, recorded in `_rights_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
