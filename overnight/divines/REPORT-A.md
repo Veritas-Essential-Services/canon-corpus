@@ -742,3 +742,6 @@
 
 ## 2026-10-10 09:48 CDT — august-neander done
 - `pipeline/august-neander_shelf.json`: 5 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:48 CDT — august-tholuck done
+- `pipeline/august-tholuck_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for tholuck-sermon-mount-2 (OCR garbles the name), recorded in `_identity_checked`. Commentary on John is a "0000"-style id; its title page reads 1842, recorded in `_rights_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

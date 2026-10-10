@@ -2501,6 +2501,22 @@ Slugs `neander-*`.
 | History of the Planting and Training of the Christian Church by the Apostles, tr. J. E. Ryland, rev. E. G. Robinson (New York: Sheldon; Boston: Gould & Lincoln; entered 1864) | have-ocr | IA `historyofplantin1864nean` |
 | Planting, Bohn 1851, 2 vols (IA historyofplanting01nean, 02nean): title pages not read | alternate | not shelved |
 | Index to Neander's General History by Thomas Clayton (Houghton, Mifflin, 1881; IA generalhistoryof00nean): Clayton's index, not Neander's text | alternate | not shelved |
+
+## August Tholuck (in English) (round 15, my pick, 2026-10-10)
+
+Slugs `tholuck-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| Guido and Julius; or, Sin and the Propitiator, tr. Jonathan Edwards Ryland (Boston: Gould & Lincoln, 1854) | have-ocr | IA `guidojuliusorsin00thol` |
+| Commentary on the Gospel of St. John, tr. A. Kaufman, second edition (New York: Saxton & Miles, 1842) | have-ocr | IA `commentaryongosp0000thol` |
+| Exposition of St Paul's Epistle to the Romans, vol. 1, tr. Robert Menzies, Biblical Cabinet V (Edinburgh: Thomas Clark, 1833) | have-ocr | IA `expositionofstpa05thol` |
+| Exposition of St Paul's Epistle to the Romans, vol. 2, tr. Robert Menzies, Biblical Cabinet XII (Edinburgh: Thomas Clark, 1836) | have-ocr | IA `expositionofstpa12thol` |
+| Exposition of Christ's Sermon on the Mount, vol. 1, tr. Robert Menzies, Biblical Cabinet VI (Edinburgh: Thomas Clark, 1834); the translator's name OCRs as MENZIE8, so it is not machine-checked | have-ocr | IA `expositiondoctri06thol` |
+| Exposition of Christ's Sermon on the Mount, vol. 2, tr. Robert Menzies, Biblical Cabinet XX (Edinburgh: Thomas Clark, MDCCCXXXVII) | have-ocr | IA `expositiondoctri20thol` |
+| A Commentary on the Epistle to the Hebrews, vol. 1, tr. James Hamilton, Biblical Cabinet XXXVIII (Edinburgh: Thomas Clark, 1842) | have-ocr | IA `acommentaryonep02rylagoog` |
+| A Commentary on the Epistle to the Hebrews, vol. 2, tr. James Hamilton, Biblical Cabinet XXXIX (Edinburgh: Thomas Clark, 1842) | have-ocr | IA `acommentaryonep00rylagoog` |
+| Light from the Cross: Sermons on the Passion (Philadelphia: W. S. & A. Martien, 1858; translator not named) | have-ocr | IA `lightfromcross00thol` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
