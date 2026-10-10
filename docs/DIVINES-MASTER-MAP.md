@@ -2594,6 +2594,28 @@ Slugs `blaikie-*`.
 | For the Work of the Ministry: A Manual of Homiletical and Pastoral Theology (London: Strahan, 1873) | have-ocr | IA `fortheworkofthei00blaiuoft` |
 | Heroes of Israel (London: T. Nelson, 1894) | have-ocr | IA `heroesofisrael00blairich` |
 | The Personal Life of David Livingstone (London: John Murray, 1880; IA personallifeof00blai): the dated edition | alternate | not shelved |
+
+## Frédéric Godet (in English) (round 16, my pick, 2026-10-10)
+
+Slugs `godet-*`. Romans is the dated 1883 American edition; Clark's undated two-volume printing came after his death and is an alternate.
+
+| Work | Status | Where |
+|---|---|---|
+| A Commentary on the Gospel of St. Luke, vol. 1, tr. E. W. Shalders, fourth edition (Edinburgh: T. & T. Clark, 1889) | have-ocr | IA `commentaryongosp01godeuoft` |
+| A Commentary on the Gospel of St. Luke, vol. 2, tr. M. D. Cusin, fourth edition (Edinburgh: T. & T. Clark, 1889) | have-ocr | IA `commentaryongosp02godeuoft` |
+| Commentary on the Gospel of St. John, vol. 1, tr. Frances Crombie and M. D. Cusin (Edinburgh: T. & T. Clark, 1879) | have-ocr | IA `commentaryongos01godeuoft` |
+| Commentary on the Gospel of St. John, vol. 2, tr. M. D. Cusin and S. Taylor (Edinburgh: T. & T. Clark; year OCR'd "18 70", prefatory note May 1877) | have-ocr | IA `commentaryongos02godeuoft` |
+| Commentary on the Gospel of St. John, vol. 3, tr. S. Taylor and M. D. Cusin (Edinburgh: T. & T. Clark, 1880) | have-ocr | IA `commentaryongos03godeuoft` |
+| Commentary on St. Paul's Epistle to the Romans, tr. A. Cusin, revised and edited by Talbot W. Chambers (New York: Funk & Wagnalls, 1883) | have-ocr | IA `commentaryonstpa00godeuoft` |
+| Commentary on St. Paul's First Epistle to the Corinthians, vol. 1, tr. A. Cusin (Edinburgh: T. & T. Clark, 1889) | have-ocr | IA `commentaryonstpa01godeuoft` |
+| Commentary on St. Paul's First Epistle to the Corinthians, vol. 2, tr. A. Cusin (Edinburgh: T. & T. Clark, 1890) | have-ocr | IA `commentaryonstpa02godeuoft` |
+| Studies on the Old Testament, ed. W. H. Lyttelton, second edition (London: Hodder & Stoughton, MDCCCLXXXII) | have-ocr | IA `studiesonoldtes00godegoog` |
+| Studies on the New Testament, ed. W. H. Lyttelton (London: Hodder & Stoughton, 1876, OCR'd "MDCCCLXYVYI") | have-ocr | IA `studiesonnewtes00godegoog` |
+| Studies on the Epistles of St. Paul, tr. Annie Harwood Holmden (Hodder & Stoughton; New York: G. H. Doran; no year on the title page, catalogued 1889) | have-ocr | IA `studiesonepistle00gode` |
+| Lectures in Defence of the Christian Faith, tr. W. H. Lyttelton, second edition (Edinburgh: T. & T. Clark, 1883) | have-ocr | IA `lecturesindefenc00gode_0` |
+| Introduction to the New Testament: The Collection of the Four Gospels and the Gospel of St. Matthew, tr. William Affleck (Edinburgh: T. & T. Clark, 1899) | have-ocr | IA `introductionton00afflgoog` |
+| Romans, Clark's 2-vol. edition (IA commentaryonsrom01godeuoft, 02godeuoft): undated, printed after his death in 1900 | alternate | not shelved |
+| John, tr. Timothy Dwight (Funk & Wagnalls, 1886, 1893; IA commentaryonjohn01godeuoft) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

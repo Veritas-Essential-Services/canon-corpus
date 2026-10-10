@@ -763,3 +763,6 @@
 
 ## 2026-10-10 10:08 CDT — w-g-blaikie done
 - `pipeline/w-g-blaikie_shelf.json`: 3 CCEL, 2 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:28 CDT — frederic-godet done
+- `pipeline/frederic-godet_shelf.json`: 0 CCEL, 0 PG, 13 IA. `--verify --record`: 0 mismatched. 0 uids minted.
