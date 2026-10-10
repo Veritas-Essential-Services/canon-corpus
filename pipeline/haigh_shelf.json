@@ -1,5 +1,5 @@
 {
- "_about": "Arthur Elam Haigh (1855-1905), The Attic Theatre (Oxford: Clarendon Press, 1889): The Attic Theatre: a description of the stage and theatre of the Athenians (Oxford: Clarendon Press, 1889), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Arthur Elam Haigh (1855-1905): The Attic Theatre (Oxford: Clarendon Press, 1889) and The Tragic Drama of the Greeks (Oxford: Clarendon Press, 1896), raw IA OCR. Gutenberg's Attic Theatre (PG 76555) is the third edition revised by A. W. Pickard-Cambridge (1907), a revision by another hand, so it is not added beside the 1889 first edition. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
  "_name_words": [
   "haigh"
  ],
@@ -14,6 +14,10 @@
   "haigh-attic-theatre-1889": [
    "attictheatredesc00haiguoft",
    "The Attic Theatre: a description of the stage and theatre of the Athenians (Oxford: Clarendon Press, 1889)"
+  ],
+  "haigh-tragic-drama-greeks-1896": [
+   "tragicdramaofgre00haiguoft",
+   "The Tragic Drama of the Greeks (Oxford: Clarendon Press, 1896)"
   ]
  },
  "_checks": {
@@ -26,6 +30,17 @@
    "ia_rights": "ok: published 1889",
    "ia_date": "1889",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "haigh-tragic-drama-greeks-1896": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. e. haigh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
