@@ -29,6 +29,11 @@
    "idyllsoftheocrit00theo",
    "The Idylls of Theocritus translated into English Verse (London: Rivingtons, 1901; revised from 1894)",
    "tr. James Henry Hallard"
+  ],
+  "theocritus-sedgwick-sicilian-idyls-1898": [
+   "sicilianidylsan00sedggoog",
+   "Sicilian Idyls and Other Verses, translated from the Greek (Copeland and Day, 1898)",
+   "tr. Jane Minot Sedgwick"
   ]
  },
  "_cross_ref": {
@@ -51,12 +56,13 @@
   "theocritus-calverley": "Charles Stuart Calverley",
   "theocritus-bion-moschus-banks": "J. Chapman",
   "theocritus-fawkes-1767": "Francis Fawkes",
-  "theocritus-hallard-1901": "James Henry Hallard"
+  "theocritus-hallard-1901": "James Henry Hallard",
+  "theocritus-sedgwick-sicilian-idyls-1898": "jane minot sedgwick"
  },
  "_checks": {
   "theocritus-calverley": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "theocritus",
    "translator_claimed": "Charles Stuart Calverley",
@@ -68,7 +74,7 @@
   },
   "theocritus-bion-moschus-banks": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "theocritus",
    "translator_claimed": "J. Chapman",
@@ -81,7 +87,7 @@
   },
   "theocritus-fawkes-1767": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "theocritus",
    "translator_claimed": "Francis Fawkes",
@@ -94,7 +100,7 @@
   },
   "theocritus-hallard-1901": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "theocritus",
    "translator_claimed": "James Henry Hallard",
@@ -104,6 +110,20 @@
    "ia_date": "1901",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "theocritus-sedgwick-sicilian-idyls-1898": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "theocritus",
+   "translator_claimed": "jane minot sedgwick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title verso reads 'COPYRIGHT 1898 BY COPELAND AND DAY' (Boston): public domain in the US by publication date. Translator's death year not checked, so UK status rests on the translator's dates (already publishing in 1898)"
   }
  },
  "_surname_by_slug": {
@@ -116,5 +136,8 @@
   "theocritus-fawkes-1767": [
    "theocritus"
   ]
+ },
+ "_rights_checked": {
+  "theocritus-sedgwick-sicilian-idyls-1898": "title verso reads 'COPYRIGHT 1898 BY COPELAND AND DAY' (Boston): public domain in the US by publication date. Translator's death year not checked, so UK status rests on the translator's dates (already publishing in 1898)"
  }
 }
