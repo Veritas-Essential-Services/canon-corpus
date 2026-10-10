@@ -2632,6 +2632,7 @@ Shelf: `pipeline/burnet_shelf.json`. John Burnet (1863-1928), Professor of Greek
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Early Greek Philosophy |  | `burnet-early-greek-philosophy` | have (PG 67097) |
 
 ## Eduard Zeller (scholarship)
 
