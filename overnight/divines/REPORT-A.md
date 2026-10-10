@@ -700,3 +700,6 @@
 
 ## 2026-10-09 22:19 CDT — john-davenport done
 - `pipeline/john-davenport_shelf.json`: 5 IA, four of them Early English Books scans with poor OCR (labelled). Power of Congregational Churches failed the name gate on OCR ("Joun DaVENPORT"); title page read, in `_identity_checked`. Catechisme excluded (OCR noise); Civil Government excluded (Cotton). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-09 22:20 CDT: round 14 complete, lock released
+- 16 shelves this round (4 on 2026-10-03, 12 on 2026-10-09 after Adam's restart). Every shelf: all remote branches checked for shelf-name and source-id clashes, `--verify --record` 0 mismatched, 0 uids minted. Stopped at the end of the round as asked.
