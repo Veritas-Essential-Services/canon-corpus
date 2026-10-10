@@ -3543,3 +3543,53 @@ Slugs `hrm-*`. New College, Edinburgh. Held to printings before 1930: eleven ite
 | post-1930 impressions and books (Types of Modern Theology, The Great Prayer, Sermons 1938) | excluded | |
 | C. H. Mackintosh: a different man | excluded | |
 | single-article scans and retypes | excluded | |
+
+## G. Campbell Morgan (round 19, my pick, 2026-10-10)
+
+Slugs `morgan-*`. Westminster Chapel. Held to printings before 1930: thirty-six Revell scans, including ten Analyzed Bible volumes. Copies whose advertisements list 1931-1939 titles are excluded.
+
+| Work | Status | Where |
+|---|---|---|
+| Discipleship (New York: Fleming H. Revell, copyright 1897) | have-ocr | IA `disciplesh00morg` |
+| The Hidden Years at Nazareth (Revell, copyright 1898) | have-ocr | IA `hiddenyearsatnaz00morg` |
+| God's Methods with Man, second edition (Revell, copyright 1898) | have-ocr | IA `godsmethodswithm00morg` |
+| Wherein Have We Robbed God? second edition (Revell, copyright 1898) | have-ocr | IA `wherinhavewerobb00morg` |
+| Life Problems (Revell, copyright 1899) | have-ocr | IA `lifeproblems00morg` |
+| The Spirit of God (Revell, copyright 1900) | have-ocr | IA `spiritofgod00morg` |
+| The Ten Commandments (Revell, copyright 1901) | have-ocr | IA `tencommandments00morg` |
+| God's Perfect Will (Revell, copyright 1901) | have-ocr | IA `godsperfectwill00morg` |
+| A First Century Message to Twentieth Century Christians (Revell, copyright 1902) | have-ocr | IA `firstcenturymess00morg` |
+| The Crises of the Christ, second edition (Revell, copyright 1903) | have-ocr | IA `crisesofchrist00morg` |
+| The True Estimate of Life and How to Live (Revell, copyright 1903) | have-ocr | IA `trueestimateofli00morg` |
+| Evangelism (Revell, copyright 1904) | have-ocr | IA `evangelism00morg` |
+| The Life of the Christian (Revell, copyright 1904) | have-ocr | IA `lifeofchristianmo00morg` |
+| The Christ of To-day: What? Whence? Whither? (Revell, copyright 1905) | have-ocr | IA `christoftodaywha0000morg` |
+| The Practice of Prayer (Revell, copyright 1906) | have-ocr | IA `practiceofprayer00morg` |
+| The Parables of the Kingdom (Revell, copyright 1907) | have-ocr | IA `parablesofkingdo00morg` |
+| The Analyzed Bible, vol. 1, Introduction: Genesis to Esther (Revell, copyright 1907) | have-ocr | IA `analyzedbible01morg` |
+| The Analyzed Bible, vol. 2, Introduction: Job to Malachi (Revell, copyright 1908) | have-ocr | IA `analyzedbible02morg` |
+| The Analyzed Bible, vol. 3, Introduction: Matthew to Revelation (Revell, copyright 1908) | have-ocr | IA `analyzedbible03morg` |
+| The Analyzed Bible, vol. 4, The Gospel according to John (Revell, copyright 1909) | have-ocr | IA `analyzedbible04morg` |
+| The Analyzed Bible, vol. 5, The Book of Job (Revell, copyright 1909) | have-ocr | IA `analyzedbible05morg` |
+| The Analyzed Bible, vol. 6, Romans (Revell, copyright 1909) | have-ocr | IA `analyzedbible06morg` |
+| The Analyzed Bible, vol. 7, The Prophecy of Isaiah, vol. 1 (Revell, copyright 1910) | have-ocr | IA `analyzedbible07morg` |
+| The Analyzed Bible, vol. 8, The Prophecy of Isaiah, vol. 2 (Revell, copyright 1910) | have-ocr | IA `analyzedbible08morg` |
+| The Analyzed Bible, vol. 9, The Book of Genesis (Revell, copyright 1911) | have-ocr | IA `analyzedbible09morg` |
+| The Analyzed Bible, vol. 10, The Gospel according to Matthew (Revell, copyright 1911) | have-ocr | IA `analyzedbible10morg` |
+| The Bible and the Cross (Revell, copyright 1909) | have-ocr | IA `biblecross00morg` |
+| The Missionary Manifesto (Revell, copyright 1909) | have-ocr | IA `missionarymanife00morg` |
+| The Study and Teaching of the English Bible, revised for press by E. Dunscombe de Rusett (Revell, copyright 1910) | have-ocr | IA `studyteachingofe0000morg` |
+| Living Messages of the Books of the Bible: Genesis to Malachi (Revell, copyright 1912) | have-ocr | IA `livingmessagesof01morgiala` |
+| Sunrise: Behold, He Cometh! (Revell, copyright 1912) | have-ocr | IA `sunrisebeholdhec00morg` |
+| The Teaching of Christ (Revell, copyright 1913) | have-ocr | IA `teachingofchrist01morg` |
+| The Ministry of the Word (Revell, copyright 1919) | have-ocr | IA `ministryofworld00morg` |
+| The Acts of the Apostles (Revell; copyright year garbled, catalogued 1924) | have-ocr | IA `MN41494ucmf_0` |
+| The Gospel according to Mark (Revell, copyright MCMXXVII) | have-ocr | IA `MN41464ucmf_0` |
+| The Gospel according to Matthew (Revell, copyright MCMXXIX) | have-ocr | IA `gospelaccordingt00morg_1` |
+| Living Messages, Matthew to Revelation (IA livingmessagesof0000gcam, livingmessagesof0000gcam_e1y3): copyright 1912 but undated popular-edition printings | alternate | not shelved |
+| The Simple Things of the Christian Life (IA simplethingsofch0000morg): copyright 1907, undated later printing | alternate | not shelved |
+| Second copies and London (Nisbet, Hodder, Morgan and Scott) issues of many titles | alternate | not shelved |
+| Foundations (IA foundations00morg): no year, no catalogue year | alternate | not shelved |
+| The Song Companion to the Scriptures (hymnal, 1911); The Morning Message (selections by another hand, 1906); The Fulfilment of Life (c. 1920 reissue) | alternate | not shelved |
+| Living Messages and Crises copies whose advertisements list 1931-1939 titles; WWII economy printings; the Westminster Pulpit (1954 on); Luke 1931, John 1933 and later | excluded | |
+| Gipsy Smith: His Life and Work: introduction only | excluded | |
