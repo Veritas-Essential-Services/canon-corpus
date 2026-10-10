@@ -76,7 +76,9 @@
   "dryden-persius": "Dryden shelf, lane C"
  },
  "_excluded": {
-  "Madan's Juvenal and Persius, 1789 (ECCO scans, 2 vols)": "OCR 0.63; the same translation is held from the 1814 edition (juvenal-persius-madan-1814)"
+  "Madan's Juvenal and Persius, 1789 (ECCO scans, 2 vols)": "OCR 0.63; the same translation is held from the 1814 edition (juvenal-persius-madan-1814)",
+  "satirespersiust00conggoog": "second copy of Drummond's Persius (1799), held as persius-drummond-1799",
+  "satyrspersiustr00persgoog": "The Satyrs of Persius, translated by Thomas Sheridan (1728): OCR 0.77, just under the 0.78 bar"
  },
  "_surname": [
   "juvenal",
@@ -100,7 +102,7 @@
  "_checks": {
   "juvenal-persius-evans-gifford": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "Lewis Evans",
@@ -112,7 +114,7 @@
   },
   "juvenal-persius-ramsay": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "G. G. Ramsay",
@@ -125,7 +127,7 @@
   },
   "persius-conington-1874": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "persius",
    "translator_claimed": "John Conington",
@@ -138,7 +140,7 @@
   },
   "persius-drummond-1799": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "persius",
    "translator_claimed": "William Drummond",
@@ -151,7 +153,7 @@
   },
   "juvenal-persius-madan-1814": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "M. Madan",
@@ -164,7 +166,7 @@
   },
   "juvenal-badham-1814": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "Charles Badham",
@@ -177,7 +179,7 @@
   },
   "juvenal-hodgson-1807": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "Francis Hodgson",
@@ -190,7 +192,7 @@
   },
   "persius-wollaston-1841": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "Wollaston",
@@ -203,7 +205,7 @@
   },
   "juvenal-leeper-1902": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "Leeper",
@@ -216,7 +218,7 @@
   },
   "juvenal-persius-owen-1786": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "edward owen",
@@ -229,7 +231,7 @@
   },
   "juvenal-persius-smart-1829": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "William Smart",
@@ -242,7 +244,7 @@
   },
   "juvenal-persius-wallace-1848": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "juvenal",
    "translator_claimed": "w. wallace",
