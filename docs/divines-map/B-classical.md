@@ -3209,6 +3209,7 @@ Shelf: `pipeline/pelham_shelf.json`. Outlines of Roman History (Percival, 1893) 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Essays, collected and edited by F. Haverfield (Oxford: Clarendon Press, 1911) |  | `pelham-essays-1911` | have-raw (IA `essaysonromanhis00pelhuoft`) |
+| Outlines of Roman History (London: Percival, 1893) |  | `pelham-outlines-roman-history-1893` | have-raw (IA `outlinesofroman00pelh`) |
 
 ## Walter Leaf (scholarship)
 

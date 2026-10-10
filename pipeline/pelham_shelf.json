@@ -1,5 +1,5 @@
 {
- "_about": "Henry Francis Pelham (1846-1907), Camden Professor of Ancient History at Oxford: Essays, collected and edited by F. Haverfield (Oxford: Clarendon Press, 1911), raw IA OCR. Outlines of Roman History wanted (IA server errors this round). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Henry Francis Pelham (1846-1907), Camden Professor of Ancient History at Oxford: Essays, collected and edited by F. Haverfield (Oxford: Clarendon Press, 1911), raw IA OCR. Also Outlines of Roman History, first edition (London: Percival, 1893), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
  "_name_words": [
   "pelham"
  ],
@@ -14,6 +14,10 @@
   "pelham-essays-1911": [
    "essaysonromanhis00pelhuoft",
    "Essays, collected and edited by F. Haverfield (Oxford: Clarendon Press, 1911)"
+  ],
+  "pelham-outlines-roman-history-1893": [
+   "outlinesofroman00pelh",
+   "Outlines of Roman History (London: Percival, 1893)"
   ]
  },
  "_checks": {
@@ -26,6 +30,17 @@
    "ia_rights": "ok: published 1911",
    "ia_date": "1911",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pelham-outlines-roman-history-1893": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. f. pelham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
