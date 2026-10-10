@@ -917,3 +917,6 @@
 
 ## 2026-10-10 09:58 CDT — wilhelm-busch: done
 - 1/1 fetched (Gutenberg 28847), 162 units, 0 ~2 ids.
+
+## 2026-10-10 10:01 CDT — edward-lear: done
+- 4/4 fetched (Gutenberg 13646, 13647, 13648, 13649), 908 units, 5 ~2 ids.

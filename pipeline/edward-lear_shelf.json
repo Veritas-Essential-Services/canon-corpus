@@ -1,0 +1,121 @@
+{
+ "_about": "Edward Lear's four nonsense books: A Book of Nonsense, Nonsense Songs, More Nonsense and Laughable Lyrics. A Book of Nonsense carries the dedication dated London, 1862; More Nonsense its introduction dated August 1871; the other two are undated in the text. Gutenberg's collected Nonsense Books (PG 13650) and its other Book of Nonsense (PG 982) repeat these and are not taken. The pictures that go with the limericks are not in the text. Gutenberg catalogue: Lear 1812-1888. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Edward Lear",
+ "_name_words": [
+  "nonsense"
+ ],
+ "_surname": [
+  "edward lear"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lear-book-of-nonsense": [
+   13646,
+   "A Book of Nonsense",
+   {
+    "levels": [
+     {
+      "re": "(?!x)x"
+     }
+    ],
+    "start": "There was an Old Man with a nose,.*",
+    "front": true
+   }
+  ],
+  "lear-nonsense-songs": [
+   13647,
+   "Nonsense Songs",
+   {
+    "levels": [
+     {
+      "re": "(NONSENSE (SONGS|STORIES|COOKERY|BOTANY|ALPHABETS?)|LAUGHABLE LYRICS)\\.?$",
+      "max": 60
+     },
+     {
+      "re": "(?![IVXL]+\\.$)[A-Z][-A-Z ,.;:!?'’À-Ý]{4,}\\.?$",
+      "max": 90
+     },
+     {
+      "re": "[IVXL]+\\.$"
+     }
+    ],
+    "start": "(NONSENSE SONGS|LAUGHABLE LYRICS)\\.$",
+    "front": true
+   }
+  ],
+  "lear-more-nonsense": [
+   13648,
+   "More Nonsense",
+   {
+    "levels": [
+     {
+      "re": "(INTRODUCTION|NONSENSE BOTANY|ONE HUNDRED NONSENSE PICTURES AND RHYMES|TWENTY-SIX NONSENSE RHYMES AND PICTURES)\\.?$"
+     }
+    ],
+    "start": "INTRODUCTION\\.?$",
+    "front": true
+   }
+  ],
+  "lear-laughable-lyrics": [
+   13649,
+   "Laughable Lyrics",
+   {
+    "levels": [
+     {
+      "re": "(NONSENSE (SONGS|STORIES|COOKERY|BOTANY|ALPHABETS?)|LAUGHABLE LYRICS)\\.?$",
+      "max": 60
+     },
+     {
+      "re": "(?![IVXL]+\\.$)[A-Z][-A-Z ,.;:!?'’À-Ý]{4,}\\.?$",
+      "max": 90
+     },
+     {
+      "re": "[IVXL]+\\.$"
+     }
+    ],
+    "start": "(NONSENSE SONGS|LAUGHABLE LYRICS)\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "lear-book-of-nonsense": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward lear",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lear-nonsense-songs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward lear",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lear-more-nonsense": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward lear",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lear-laughable-lyrics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward lear",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
