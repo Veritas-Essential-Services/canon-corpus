@@ -2233,8 +2233,10 @@
     {
       "id": "hanford-gordon",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: hanford-gordon; no minting",
-      "status": "running",
-      "started": "2026-10-10T10:40:57-05:00"
+      "status": "done",
+      "started": "2026-10-10T10:40:57-05:00",
+      "finished": "2026-10-10T10:52:13-05:00",
+      "notes": "1/1 fetched (Gutenberg 8122), 525 units, 0 ~2 ids."
     }
   ]
 }
