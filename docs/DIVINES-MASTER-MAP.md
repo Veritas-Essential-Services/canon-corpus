@@ -2893,6 +2893,32 @@ Slugs `binney-*`. Congregationalist of the King's Weigh-House Chapel. Two items 
 | Money: A Popular Exposition in Rough Notes (4th thousand, London: Jackson, Walford, and Hodder; catalogued 1864) | have-ocr | IA `moneypopularexpo00binn` |
 | IA aydywynbosiblbw00binngoog: Welsh translation (Dinbych, 1855); isitpossibletom01binngoog: duplicate copy | excluded | |
 | Horace Binney, Amos Binney (binneystheologic*), Hibbert Binney (cihm_07183): different people | excluded | |
+
+## Henry Drummond (round 17, my pick, 2026-10-10)
+
+Slugs `drummond-*`. Free Church evangelist and natural scientist. Nine CCEL editions and two PG texts; CCEL's Greatest Thing is keyed from a c. 1920 printing.
+
+| Work | Status | Where |
+|---|---|---|
+| Natural Law in the Spiritual World (CCEL; print source London: Hodder & Stoughton, 29th ed., 1890) | have-clean | CCEL d/drummond/natural_law |
+| The Greatest Thing in the World and Other Addresses (CCEL; print source London: Hodder & Stoughton, updated ed., c. 1920) | have-clean | CCEL d/drummond/greatest |
+| The Lowell Lectures on the Ascent of Man (CCEL; print source London: Hodder and Stoughton, 1904) | have-clean | CCEL d/drummond/ascent |
+| The Ideal Life (CCEL; print source 1897) | have-clean | CCEL d/drummond/ideal |
+| The New Evangelism and Other Papers (CCEL; print source London: Hodder & Stoughton, 2nd ed., 1899) | have-clean | CCEL d/drummond/new_ev |
+| Stones Rolled Away and Other Addresses to Young Men (CCEL; print source London: Samuel Bagster and Sons, no year) | have-clean | CCEL d/drummond/stone_roll |
+| A Life for a Life (CCEL; print source 1897) | have-clean | CCEL d/drummond/life |
+| Baxter's Second Innings (CCEL; print source 1892) | have-clean | CCEL d/drummond/bsi |
+| The Monkey who Wouldn't Kill (CCEL; print source not stated) | have-clean | CCEL d/drummond/monkey |
+| Pax Vobiscum (title page 1890) | have-clean | Gutenberg 9373 |
+| Eternal Life (Philadelphia: Henry Altemus, 1896) | have-clean | Gutenberg 30876 |
+| Natural Law in the Spiritual World, PG 23334 (New York: Hurst & Co., no year): CCEL preferred | alternate | not shelved |
+| The Greatest Thing in the World, PG 16739 (copyrighted 1891 and 1898 per its title page): CCEL preferred | alternate | not shelved |
+| The Monkey that Would Not Kill, PG 29254 (New York, 1915): CCEL preferred | alternate | not shelved |
+| Tropical Africa, PG 74587: travel and natural science, not theology | excluded | |
+| Addresses, PG 2498: no source edition stated; duplicates the Greatest Thing collection | excluded | |
+| Beautiful Thoughts, PG 13677: extracts compiled by Elizabeth Cureton, not Drummond's own book | excluded | |
+| PG 61665 and 74868: Portuguese and Finnish translations | excluded | |
+| PG 40152, 20609, 9801: William Henry Drummond, the Canadian poet, a different person | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

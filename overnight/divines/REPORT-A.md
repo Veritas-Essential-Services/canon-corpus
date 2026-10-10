@@ -817,3 +817,6 @@
 
 ## 2026-10-10 11:18 CDT — thomas-binney done
 - `pipeline/thomas-binney_shelf.json`: 0 CCEL, 1 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:18 CDT — henry-drummond done
+- `pipeline/henry-drummond_shelf.json`: 9 CCEL, 2 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.
