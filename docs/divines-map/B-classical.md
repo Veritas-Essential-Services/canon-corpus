@@ -1411,6 +1411,7 @@ Shelf: `pipeline/demosthenes_shelf.json`. Kennedy (Bohn) and Pickard-Cambridge (
 | The Oration of Demosthenes upon the Crown, translated into English (London: Charles Knight, 1840) | Henry, Lord Brougham | `demosthenes-brougham-crown-1840` | have-raw (IA `orationdemosthe02vauxgoog`) |
 | The Oration of Demosthenes on the Crown (London: Longmans, Green, 1876) | Sir Robert Collier | `demosthenes-collier-crown-1876` | have-raw (IA `orationdemosthe00collgoog`) |
 | On the Crown, with Aeschines Against Ctesiphon (Philadelphia, 1881) | George W. Biddle | `aeschines-demosthenes-biddle-crown-1881` | cross-ref: held on the Aeschines shelf |
+| De Corona, with Aeschines Against Ctesiphon (Oxford, 1814 edition) | Andrew Portal | `aeschines-demosthenes-portal-crown-1814` | cross-ref: held on the Aeschines shelf |
 
 Pending (wishlist): the rest of the early Loeb vols. (Vince, 1926-; Greek facing: OCR not taken). The 1930 Vince volume is held above as Perseus TEI.
 
@@ -2343,6 +2344,7 @@ Shelf: `pipeline/aeschines_shelf.json`. New shelf 2026-10-03: the three speeches
 | On the Embassy | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-on-the-embassy` | have (Perseus TEI `tlg0026.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
 | Against Ctesiphon | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-against-ctesiphon` | have (Perseus TEI `tlg0026.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
 | The Two Orations on the Crown: Aeschines and Demosthenes, a new translation (Philadelphia: Lippincott, 1881) | George W. Biddle | `aeschines-demosthenes-biddle-crown-1881` | have-raw (IA `twoorationsoncr00biddgoog`) |
+| Orations of Aeschines against Ctesiphon and Demosthenes De Corona, translated, with notes; a new edition, revised and corrected (Oxford: Munday and Slatter, 1814) | Andrew Portal | `aeschines-demosthenes-portal-crown-1814` | have-raw (IA `orationsaeschin00demogoog`) |
 
 Pending (wishlist): none known. Two older English versions of Against Ctesiphon are now held above (Portal, 1814 edition; Biddle, 1881).
 

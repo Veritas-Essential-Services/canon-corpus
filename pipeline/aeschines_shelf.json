@@ -10,6 +10,11 @@
    "twoorationsoncr00biddgoog",
    "The Two Orations on the Crown: Aeschines and Demosthenes, a new translation (Philadelphia: Lippincott, 1881)",
    "tr. George W. Biddle"
+  ],
+  "aeschines-demosthenes-portal-crown-1814": [
+   "orationsaeschin00demogoog",
+   "Orations of Aeschines against Ctesiphon and Demosthenes De Corona, translated, with notes; a new edition, revised and corrected (Oxford: Munday and Slatter, 1814)",
+   "tr. Andrew Portal"
   ]
  },
  "perseus": {
@@ -38,7 +43,8 @@
  "_translators": {
   "aeschines-perseus-adams-against-timarchus": "Charles Darwin Adams",
   "aeschines-perseus-adams-on-the-embassy": "Charles Darwin Adams",
-  "aeschines-perseus-adams-against-ctesiphon": "Charles Darwin Adams"
+  "aeschines-perseus-adams-against-ctesiphon": "Charles Darwin Adams",
+  "aeschines-demosthenes-portal-crown-1814": "andrew portal"
  },
  "_rights_checked": {
   "aeschines-perseus-adams-against-timarchus": "the file's sourceDesc gives the Loeb's first publication, 1919, and 1958, the later printing Perseus keyed its text from; no revision is stated in the record. The translation is Adams's 1919 text (Adams died 1938; US term runs from publication), US public domain. Stated by hand because the gate is fail-closed at 1930 Kept pending Adam's one ruling on the later-printings class (DIGEST-B), which also covers Freese's refused Rhetoric.",
@@ -129,6 +135,19 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null,
    "rights_override": "title page and verso read: Philadelphia, J. B. Lippincott & Co., 1881, 'Copyright, 1881, by J. B. Lippincott & Co.' An 1881 US publication, public domain in the US and everywhere by date of publication."
+  },
+  "aeschines-demosthenes-portal-crown-1814": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aeschines",
+   "translator_claimed": "andrew portal",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_perseus_licence": {
