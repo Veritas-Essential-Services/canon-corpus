@@ -3007,6 +3007,9 @@ Shelf: `pipeline/thomas-arnold_shelf.json`. Arnold's History of Rome, third edit
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| History of Rome, third edition, vol. I (1844) |  | `thomas-arnold-history-of-rome-v1-1844` | have-raw (IA `historyofrome001arno`) |
+| History of Rome, third edition, vol. II (1845) |  | `thomas-arnold-history-of-rome-v2-1845` | have-raw (IA `historyofrome02arnoiala`) |
+| History of Rome, third edition, vol. III (1846) |  | `thomas-arnold-history-of-rome-v3-1846` | have-raw (IA `historyofrome03arnoiala`) |
 
 ## Perseus census (overflow)
 
