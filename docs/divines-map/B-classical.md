@@ -2671,6 +2671,9 @@ Shelf: `pipeline/haverfield_shelf.json`. Francis Haverfield (1860-1919), Camden 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Romanization of Roman Britain |  | `haverfield-romanization-roman-britain` | have (PG 14173) |
+| Ancient Town-Planning |  | `haverfield-ancient-town-planning` | have (PG 14189) |
+| Roman Britain in 1914 |  | `haverfield-roman-britain-1914` | have (PG 19115) |
 
 ## Rodolfo Lanciani (scholarship)
 
