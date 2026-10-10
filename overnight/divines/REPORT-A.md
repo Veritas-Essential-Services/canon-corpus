@@ -922,3 +922,6 @@
 
 ## 2026-10-10 13:56 CDT — b-w-newton done
 - `pipeline/b-w-newton_shelf.json`: 0 CCEL, 0 PG, 16 IA. Title pages read for newton-aids-prophetic, newton-court-of-arches (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:56 CDT — james-fraser-brea done
+- `pipeline/james-fraser-brea_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for fraser-brea-meditations, fraser-brea-saving-faith-1722, fraser-brea-memoirs, fraser-brea-prelacy-idol, fraser-brea-justifying-faith-1749 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

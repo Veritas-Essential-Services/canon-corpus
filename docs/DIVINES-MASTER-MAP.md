@@ -3792,6 +3792,27 @@ Slugs `newton-*`. Early Plymouth Brethren leader, later independent; post-tribul
 | Third edition of Aids (catalogued 1881); Tucker reissues of Isaiah, Mosaic Cosmogony, Gospel Truths (1901) and the Apocalypse (catalogued 1904) | alternate | not shelved |
 | 1955 Ten Kingdoms | excluded | |
 | CCEL newton: John Newton | excluded | |
+
+## James Fraser of Brea (round 20, my pick, 2026-10-10)
+
+Slugs `fraser-brea-*`. Covenanter; all six are posthumous 18th-century first printings with long-s OCR. Title pages read for five.
+
+| Work | Status | Where |
+|---|---|---|
+| Meditations on Several Subjects in Divinity, particularly Trusting upon God, Hungring and Thirsting after Christ (Edinburgh: for John Macky, M.DCC.XXI) | have-ocr | IA `meditationsonsev00fras` |
+| A Treatise concerning Justifying or Saving Faith, written while prisoner in the Bass, 1679 (Edinburgh: John Mosman, 1722) | have-ocr | IA `bim_eighteenth-century_a-treatise-concerning-ju_fraser-james_1722` |
+| Memoirs of the Life of the very Reverend Mr. James Fraser of Brea, written by himself, first edition (Edinburgh: Thomas Lumisden and John Robertson, M.DCCXXXVIII) | have-ocr | IA `memoirslifevery01frasgoog` |
+| Prelacy an Idol, and Prelates Idolaters, a sermon, second edition (Linlithgow: for George Paton, 1742) | have-ocr | IA `prelacyidolprela00fras` |
+| The Lawfulness and Duty of Separation from Corrupt Ministers and Churches Explained and Vindicated (Edinburgh: for George Paton, MDCCXLIV) | have-ocr | IA `lawfulnessdutyof00fras_0` |
+| A Treatise on Justifying Faith, with an Appendix concerning the Extent of Christ's Death, never before printed (Edinburgh: William Gray, MDCCXLIX) | have-ocr | IA `treatiseonjustif00fras` |
+| Some Choice, Select Meditations (catalogued 1726; IA bim_eighteenth-century_some-choice-select-medi_fraser-james_1726): name garbled on the title page, OCR very rough | alternate | not shelved |
+| Memoirs, later editions: Glasgow 1798 (memoirslifevery00frasgoog; ECCO copy); fourth edition, Aberdeen 1843 (dli.bengal.10689.20064); Inverness 1891 with matter by Alexander Whyte and Gustavus Aird (memoirsofjame00fras, memoirsofrevjame00fras); ECCO copy of 1738 | alternate | not shelved |
+| Tweedie's Select Biographies vol. II (Wodrow Society, 1847; selectbiographi02twee): edited text of the Memoirs within a collection | alternate | not shelved |
+| Prelacy 1742 (prelacyidolprelat00fras); 1749 ECCO copy (title page unreadable) | alternate | not shelved |
+| Gaelic translation (Inverness, 1889) | excluded | |
+| James Fraser of Pitcalzian (1700-1769) | excluded | |
+| in.ernet.dli.2015.514043: text layer unusable | excluded | |
+| 2008 reprint | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

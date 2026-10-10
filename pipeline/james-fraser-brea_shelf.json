@@ -1,0 +1,143 @@
+{
+ "_about": "Public-domain James Fraser of Brea (1639-1698, Covenanter, minister at Culross) for the Word Hoard: 6 posthumous first printings from Internet Archive scans, 1721-1749: Meditations on Several Subjects in Divinity (1721), A Treatise concerning Justifying or Saving Faith (1722), his Memoirs written by himself (first edition 1738), Prelacy an Idol (1742), The Lawfulness and Duty of Separation (1744) and A Treatise on Justifying Faith (1749). Raw OCR, long-s throughout; two are rough ECCO scans. Added 2026-10-10 by lane A, round 20 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "fraser",
+  "brea",
+  "brae"
+ ],
+ "_surname": [
+  "james fraser of brea",
+  "fraser of brea",
+  "fraser of brae",
+  "james fraser",
+  "fraser, james"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fraser-brea-meditations": [
+   "meditationsonsev00fras",
+   "Meditations on Several Subjects in Divinity, particularly Trusting upon God, Hungring and Thirsting after Christ (Edinburgh: for John Macky, M.DCC.XXI)"
+  ],
+  "fraser-brea-saving-faith-1722": [
+   "bim_eighteenth-century_a-treatise-concerning-ju_fraser-james_1722",
+   "A Treatise concerning Justifying or Saving Faith, written while prisoner in the Bass, 1679 (Edinburgh: John Mosman, 1722)"
+  ],
+  "fraser-brea-memoirs": [
+   "memoirslifevery01frasgoog",
+   "Memoirs of the Life of the very Reverend Mr. James Fraser of Brea, written by himself, first edition (Edinburgh: Thomas Lumisden and John Robertson, M.DCCXXXVIII)"
+  ],
+  "fraser-brea-prelacy-idol": [
+   "prelacyidolprela00fras",
+   "Prelacy an Idol, and Prelates Idolaters, a sermon, second edition (Linlithgow: for George Paton, 1742)"
+  ],
+  "fraser-brea-separation": [
+   "lawfulnessdutyof00fras_0",
+   "The Lawfulness and Duty of Separation from Corrupt Ministers and Churches Explained and Vindicated (Edinburgh: for George Paton, MDCCXLIV)"
+  ],
+  "fraser-brea-justifying-faith-1749": [
+   "treatiseonjustif00fras",
+   "A Treatise on Justifying Faith, with an Appendix concerning the Extent of Christ's Death, never before printed (Edinburgh: William Gray, MDCCXLIX)"
+  ]
+ },
+ "_alternates": {
+  "fraser-brea-choice-meditations": "Some Choice, Select Meditations (catalogued 1726; IA bim_eighteenth-century_some-choice-select-medi_fraser-james_1726): name garbled on the title page, OCR very rough",
+  "fraser-brea-memoirs-later": "Memoirs, later editions: Glasgow 1798 (memoirslifevery00frasgoog; ECCO copy); fourth edition, Aberdeen 1843 (dli.bengal.10689.20064); Inverness 1891 with matter by Alexander Whyte and Gustavus Aird (memoirsofjame00fras, memoirsofrevjame00fras); ECCO copy of 1738",
+  "fraser-brea-select-biographies": "Tweedie's Select Biographies vol. II (Wodrow Society, 1847; selectbiographi02twee): edited text of the Memoirs within a collection",
+  "fraser-brea-copies": "Prelacy 1742 (prelacyidolprelat00fras); 1749 ECCO copy (title page unreadable)"
+ },
+ "_excluded": {
+  "fraser-brea-gaelic": "Gaelic translation (Inverness, 1889)",
+  "fraser-brea-namesake": "James Fraser of Pitcalzian (1700-1769)",
+  "fraser-brea-dli-garbage": "in.ernet.dli.2015.514043: text layer unusable",
+  "fraser-brea-reprints": "2008 reprint"
+ },
+ "_identity_checked": {
+  "fraser-brea-meditations": {
+   "author": "title page read: 'the late Reverend and Learned Mr. James Fraser of Brea, Minister of the Gospel at Culross' (OCR letter-spaced)"
+  },
+  "fraser-brea-saving-faith-1722": {
+   "author": "title page read: 'the late reverend and learned Mr. ...ser of Brea, Minister of the Gospel at Culross', written while prisoner in the Bass; surname cut in the scan, IA catalogue names Fraser"
+  },
+  "fraser-brea-memoirs": {
+   "author": "title page read: 'Mr. James Fraser of Brea, Minister of the Gospel at Culross'; long-s OCR renders the name 'Frafer'"
+  },
+  "fraser-brea-prelacy-idol": {
+   "author": "title page read: 'Mr. James Fraser of Brae, Minister of the Gospel at Culross'; long-s OCR renders the name 'Frafer'"
+  },
+  "fraser-brea-justifying-faith-1749": {
+   "author": "title page read: 'Mr. James Fraser of Brae, sometime Minister of the Gospel' (OCR runs 'FraseroF Brae' together)"
+  }
+ },
+ "_pending": {},
+ "_checks": {
+  "fraser-brea-meditations": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1721",
+   "ia_date": "1721",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fraser-brea-saving-faith-1722": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1722",
+   "ia_date": "1722",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fraser-brea-memoirs": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1738",
+   "ia_date": "1738",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fraser-brea-prelacy-idol": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1742",
+   "ia_date": "1742",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fraser-brea-separation": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james fraser",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1744",
+   "ia_date": "1744",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fraser-brea-justifying-faith-1749": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
