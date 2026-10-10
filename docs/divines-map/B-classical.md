@@ -3361,6 +3361,7 @@ Shelf: `pipeline/moulton_shelf.json`. The Ancient Classical Drama (Clarendon Pre
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Ancient Classical Drama: a Study in Literary Evolution (Oxford: Clarendon Press, 1890) |  | `moulton-ancient-classical-drama-1890` | have-raw (IA `ancientclassic00moul`) |
 
 ## C. C. Felton (scholarship)
 

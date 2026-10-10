@@ -1,0 +1,33 @@
+{
+ "_about": "Richard Green Moulton (1849-1924): The Ancient Classical Drama, a Study in Literary Evolution (Oxford: Clarendon Press, 1890), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "moulton"
+ ],
+ "_surname": [
+  "richard g. moulton",
+  "richard green moulton",
+  "r. g. moulton",
+  "moulton, richard g"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "moulton-ancient-classical-drama-1890": [
+   "ancientclassic00moul",
+   "The Ancient Classical Drama: a Study in Literary Evolution (Oxford: Clarendon Press, 1890)"
+  ]
+ },
+ "_checks": {
+  "moulton-ancient-classical-drama-1890": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "richard g. moulton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
