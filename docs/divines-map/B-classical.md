@@ -3127,6 +3127,10 @@ Shelf: `pipeline/verrall_shelf.json`. Odes of Horace (1884), Bacchants of Euripi
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Studies Literary and Historical in the Odes of Horace (London: Macmillan, 1884) |  | `verrall-odes-horace-1884` | have-raw (IA `cu31924026492458`) |
+| The Bacchants of Euripides and Other Essays (Cambridge: University Press, 1910) |  | `verrall-bacchants-euripides-1910` | have-raw (IA `bacchantsofeurip00verrrich`) |
+| Collected Literary Essays, Classical and Modern, ed. M. A. Bayfield and J. D. Duff, with a memoir (Cambridge: University Press, 1913) |  | `verrall-collected-literary-essays-1913` | have-raw (IA `collectedliterar00verruoft`) |
+| Collected Studies in Greek and Latin Scholarship, ed. M. A. Bayfield and J. D. Duff (Cambridge: University Press, 1913) |  | `verrall-collected-studies-1913` | have-raw (IA `cu31924021596261`) |
 
 ## Perseus census (overflow)
 
