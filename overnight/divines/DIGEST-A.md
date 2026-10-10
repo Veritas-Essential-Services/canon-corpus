@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-09 22:10 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-09 22:17 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -281,6 +281,7 @@ Round 13 was done by 06:48 CDT on 3 October. Round 14 turns to Victorian Anglica
 | Norman Macleod | norman-macleod_shelf.json | none | 7 (PG: Parish Papers, Gold Thread, Starling; IA: Temptation of Our Lord 1873, Simple Truths 1867, Highland Parish 1871, Earnest Student 1863) | none | none |
 | John Cairns | john-cairns_shelf.json | none | 5 (Unbelief in the 18th Century 1881; Romanism and Rationalism 1863; Christ the Morning Star 1892; Christianity and Miracles, catalogued 1883; Memoir of John Brown, catalogued 1860) | none | two catalogue years not shown on the title page |
 | Marcus Dods | marcus-dods_shelf.json | none | 8 (CCEL: Expositor's Genesis, 1 Corinthians, John 2 vols, How to Become Like Christ; IA: Mohammed, Buddha and Christ 2nd ed. 1878, Israel's Iron Age 1874, The Bible Its Origin 1905) | none | CCEL Genesis print source has no year; Like Christ has none recorded |
+| A. B. Davidson | a-b-davidson_shelf.json | none | 8 (OT Theology 1904; OT Prophecy 1905; Job 1884; Ezekiel 1892; Hebrews, catalogued 1900; Hebrew Grammar 14th ed. 1897; Hebrew Syntax 2nd ed. 1896; Called of God 1905) | none | Grammar and Syntax OCR 86-90%: the Hebrew is garbled, the English usable |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

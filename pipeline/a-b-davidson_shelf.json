@@ -1,0 +1,143 @@
+{
+ "_about": "Public-domain A. B. Davidson (1831-1902, Free Church of Scotland, professor of Hebrew and Old Testament at New College, Edinburgh) for the Word Hoard: The Theology of the Old Testament (1904), Old Testament Prophecy (1905), Job (Cambridge Bible, 1884), Ezekiel (Cambridge Bible, 1892), Hebrews (catalogued 1900), his Introductory Hebrew Grammar (14th ed., 1897) and Hebrew Syntax (2nd ed., 1896), and The Called of God (1905), raw Internet Archive OCR. Added 2026-10-09 by lane A, round 14 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "davidson",
+  "bruce"
+ ],
+ "_surname": [
+  "a. b. davidson",
+  "a.b. davidson",
+  "andrew bruce davidson",
+  "davidson, a. b",
+  "a. b. davidson, d.d"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "abdavidson-ot-theology-1904": [
+   "theologyoldtest00daviuoft",
+   "The Theology of the Old Testament (1904)"
+  ],
+  "abdavidson-ot-prophecy-1905": [
+   "cu31924029283086",
+   "Old Testament Prophecy (1905)"
+  ],
+  "abdavidson-job-1884": [
+   "bookofjobwithnot00daviuoft",
+   "The Book of Job, Cambridge Bible for Schools (1884)"
+  ],
+  "abdavidson-ezekiel-1892": [
+   "bookofpropheteze00davi",
+   "The Book of the Prophet Ezekiel, Cambridge Bible for Schools (1892)"
+  ],
+  "abdavidson-hebrews": [
+   "epistletohebrew00davuoft",
+   "The Epistle to the Hebrews, Handbooks for Bible Classes (Edinburgh: T. & T. Clark; no year on the title page, catalogued 1900)"
+  ],
+  "abdavidson-hebrew-grammar-1897": [
+   "introductoryhebr00davi_0",
+   "An Introductory Hebrew Grammar, 14th edition (1897)"
+  ],
+  "abdavidson-hebrew-syntax-1896": [
+   "introductoryhebr00daviuoft",
+   "Hebrew Syntax, 2nd edition (1896)"
+  ],
+  "abdavidson-called-of-god-1905": [
+   "calledofgod00daviuoft",
+   "The Called of God (1905)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "abdavidson-ot-theology-1904": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. davidson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "abdavidson-ot-prophecy-1905": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. davidson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "abdavidson-job-1884": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. davidson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "abdavidson-ezekiel-1892": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. davidson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "abdavidson-hebrews": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. davidson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "abdavidson-hebrew-grammar-1897": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. davidson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "abdavidson-hebrew-syntax-1896": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. davidson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "abdavidson-called-of-god-1905": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. davidson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

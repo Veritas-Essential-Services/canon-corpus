@@ -2210,7 +2210,7 @@ Slugs `rwchurch-*`. Full name forms only; not Lane D's `church` shelf (Alfred Jo
 
 ## Norman Macleod (round 14, my pick, 2026-10-09)
 
-Slugs `nmacleod-*`. The Barony minister (1812-1872), not his father or grandson of the same name.
+Slugs `nmacleod-*`. The Barony minister (1812-1872), not his father of the same name.
 
 | Work | Status | Where |
 |---|---|---|
@@ -2233,3 +2233,12 @@ Slugs `dods-*`. Expositor's Bible volumes overlap nothing on other shelves (chec
 |---|---|---|
 | Expositor's Bible: Genesis, 1 Corinthians (1900), John (2 vols, 1891-92); How to Become Like Christ | have-clean | CCEL d/dods |
 | Mohammed, Buddha, and Christ (2nd ed., 1878); Israel's Iron Age (1874); The Bible, Its Origin and Nature (1905) | have-ocr | IA, OCR 98-99% |
+
+## A. B. Davidson (round 14, my pick, 2026-10-09)
+
+Slugs `abdavidson-*`.
+
+| Work | Status | Where |
+|---|---|---|
+| Theology of the OT (1904); OT Prophecy (1905); Job (1884); Ezekiel (1892); Hebrews (catalogued 1900); The Called of God (1905) | have-ocr | IA, OCR 98-99% |
+| Introductory Hebrew Grammar (14th ed., 1897); Hebrew Syntax (2nd ed., 1896) | have-ocr | IA, OCR 86-90%: Hebrew not usable |

@@ -685,3 +685,6 @@
 
 ## 2026-10-09 22:10 CDT — marcus-dods done
 - `pipeline/marcus-dods_shelf.json`: 5 CCEL + 3 IA. Mohammed, Buddha and Christ failed the name gate on OCR ("MARC US DODS"); title page read, in `_identity_checked`. CCEL Genesis print source has no year and Like Christ none: the fetcher does not flag these (that is the PR #14 patch still awaiting Adam). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-09 22:17 CDT — a-b-davidson done
+- `pipeline/a-b-davidson_shelf.json`: 8 IA. Hebrews has no year on its title page (catalogued 1900; "1907-1932" in the OCR is a bookplate). Grammar and Syntax: Hebrew OCR unusable, recorded as such. `--verify --record`: 0 mismatched. 0 uids minted.
