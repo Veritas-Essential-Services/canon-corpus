@@ -1,0 +1,31 @@
+{
+ "_about": "O. Henry, Whirligigs (1910), which holds The Ransom of Red Chief. Added from the classical reading lists (Classical Conversations' 117 must-read list): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "O. Henry",
+ "_name_words": [
+  "henry",
+  "porter"
+ ],
+ "_surname": [
+  "o. henry"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "o-henry-whirligigs": [
+   1595,
+   "Whirligigs (1910)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "o-henry-whirligigs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

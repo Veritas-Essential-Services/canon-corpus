@@ -1,0 +1,39 @@
+{
+ "_about": "Anton Chekhov, The Bet, and Other Stories, tr. S. S. Koteliansky and J. M. Murry (Maunsel, 1915). US public domain; Murry died 1957, so UK copyright runs to 2027. Lane C's garnett-chekhov volumes are Garnett's translations. Added from the classical reading lists (Classical Conversations' 117 must-read list): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Anton Chekhov",
+ "_name_words": [
+  "anton",
+  "chekhov",
+  "tchekhov"
+ ],
+ "_surname": [
+  "chekhov",
+  "tchekhov"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "chekhov-the-bet-koteliansky": [
+   55283,
+   "The Bet, and Other Stories, tr. Koteliansky and Murry (1915)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "chekhov-the-bet-koteliansky": "Koteliansky"
+ },
+ "_checks": {
+  "chekhov-the-bet-koteliansky": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "chekhov",
+   "translator_claimed": "Koteliansky",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; John Middleton Murry",
+   "translator_match": true
+  }
+ }
+}

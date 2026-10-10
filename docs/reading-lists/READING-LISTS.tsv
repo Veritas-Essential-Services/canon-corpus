@@ -122,7 +122,7 @@ Common Sense	Thomas Paine	1776	BCS; Logos Online	ingested	thomas-paine (PG 147; 
 Autobiography	Benjamin Franklin	1771–1790	Logos Online	ingested	franklin (PG 20203, Pine 1916)	PD		4
 Origin and Principles of the American Revolution	Friedrich von Gentz	1800	Logos Online	ingested	gentz (IA, J. Q. Adams tr. 1800, raw OCR)	PD		4
 Poems	Phillis Wheatley	1773	BCS	ingested	wheatley (PG 409)	PD		4
-American founding documents and speeches	various	1620–1892	CC; Logos Online	partial	american-founding + macdonald-documents (Articles, Ordinance of 1787) + lincoln + held Federalist; Washington's Farewell, Clay, Calhoun, Garrison still to find	PD (government works and pre-1930 texts)	propose one 'american-documents' shelf; PG has most (e.g. Bradford PG 24950, Declaration PG 1, Constitution PG 5)	4, 7
+American founding documents and speeches	various	1620–1892	CC; Logos Online	partial	american-founding + macdonald-documents + us-inaugurals (Washington's first) + lincoln + held Federalist; Washington's Farewell, Clay, Calhoun, Garrison still to find	PD (government works and pre-1930 texts)	propose one 'american-documents' shelf; PG has most (e.g. Bradford PG 24950, Declaration PG 1, Constitution PG 5)	4, 7, 8
 Pride and Prejudice (and Austen's novels)	Jane Austen	1813	BCS; CC; Canon; CiRCE; Logos Online; Memoria	ingested	austen shelf: pride-and-prejudice, sense-and-sensibility, mansfield-park, northanger-abbey, persuasion (Emma already held)	PD	Pride and Prejudice PG 1342; Sense and Sensibility 161; Persuasion 105; Mansfield 141; Northanger 121	Batch 1
 Jane Eyre	Charlotte Brontë	1847	BCS; CC; Canon; Memoria	ingested	bronte-jane-eyre (PG 1260)	PD		Batch 1
 Wuthering Heights	Emily Brontë	1847	Canon; Memoria	ingested	bronte-wuthering-heights (PG 768)	PD		Batch 1
@@ -156,7 +156,7 @@ Beyond Good and Evil	Friedrich Nietzsche	1886	BCS; Canon; Logos Online	held	levy
 Notes from Underground	Fyodor Dostoevsky	1864	Logos Online	held	garnett-white-nights (PG 36034, includes Notes from Underground)	PD (Garnett 1918)		
 Crime and Punishment; The Brothers Karamazov	Fyodor Dostoevsky	1866–1880	BCS; Canon	held	garnett-crime-and-punishment, garnett-karamazov	PD (Garnett)		
 Anna Karenina; War and Peace	Leo Tolstoy	1869–1878	Canon; Memoria	held	garnett-anna-karenina, tolstoy-warpeace	PD		
-Russian short stories (Tolstoy, Dostoevsky, Chekhov)	various	1880s	CC	partial	garnett-chekhov-* held; the specific Tolstoy and Dostoevsky stories unverified	PD	short pieces	
+Russian short stories (Tolstoy, Dostoevsky, Chekhov)	various	1880s	CC	ingested	chekhov-bet (PG 55283, Koteliansky) + tolstoy-tales (IA Twenty-Three Tales, Maude) + garnett-chekhov-*; Dostoevsky's piece unidentified	PD	short pieces	8
 Bulfinch's Mythology	Thomas Bulfinch	1855–1863	Canon	held	bulfinch-age-of-fable, -chivalry, -charlemagne	PD		
 Grimm's Fairy Tales	Brothers Grimm	1812–1857	Canon; CiRCE; Memoria	held	grimm-hunt-household-tales	PD (Hunt 1884)		
 Andersen: tales	Hans Christian Andersen	1837–1850s	CC; CiRCE; Logos; Memoria	held	andersen shelf (Craigie, Paull, Lucas…)	PD		
@@ -216,8 +216,8 @@ The Seven Laws of Teaching	John Milton Gregory	1886	Canon	ingested	gregory-seven
 Christianity and Liberalism	J. Gresham Machen	1923	Canon; Logos Online	held	machen-christianity-liberalism-1923	US PD; UK PD (d. 1937)		
 Humility	Andrew Murray	1895	CC	held	amurray-humility	PD		
 Westminster Confession of Faith	Westminster Assembly	1646	Logos Online; NSA	held	westminster-assembly shelf (relay)	PD		
-Short stories and poems in CC's anthologies (Butterworth, Finch, Scollard, O. Henry, Bierce, Daudet, Maupassant)	various	1873–1907	CC; CiRCE	short	short pieces; sources to locate per story	PD		
-Short biographies in CC's Challenge B anthology	various	c. 1840–1920	CC	short	early 20th-c. school readers; sources to locate per piece	PD where pre-1930 (Keller, Hagedorn, Ford pieces need dates)		
+Short stories and poems in CC's anthologies (Butterworth, Finch, Scollard, O. Henry, Bierce, Daudet, Maupassant)	various	1873–1907	CC; CiRCE	partial	o-henry, bierce, french-short-stories (Daudet), maupassant, chekhov-bet; the poems by Butterworth, Finch and Scollard still to find	PD		8
+Short biographies in CC's Challenge B anthology	various	c. 1840–1920	CC	partial	helen-keller, henry-ford, hagedorn (Roosevelt), bachman (Eli Whitney), eggleston (Washington); Bouvé, Brooks, Gordy, Harper, Hawks, Gittings, Ayers still to find	PD where pre-1930 (Keller, Hagedorn, Ford pieces need dates)		8
 Classical Conversations' own anthologies	Classical Conversations	2010s–2020s	CC	modern	compilations; their contents are listed above where known	not PD		
 The Romantic poets	various	19th c.	BCS	ingested	romantic-poets (Lyrical Ballads, Keats x3, Shelley, Byron x2) + coleridge, southey	PD	Wordsworth PG 10219; Keats PG 23684; Shelley PG 4800; Byron PG 21700	5
 Pre-Socratics, Epicureans, Stoics, Neoplatonists	various	6th c. BC – 3rd c. AD	BCS	held	presocratics, epictetus, plotinus, diogenes-laertius shelves	PD		

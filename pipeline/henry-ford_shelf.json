@@ -1,0 +1,32 @@
+{
+ "_about": "Henry Ford with Samuel Crowther, My Life and Work (1922). US public domain; Ford died 1947 and Crowther 1947, so UK copyright ended 2017. Added from the classical reading lists (Classical Conversations' 117 must-read list): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Henry Ford",
+ "_name_words": [
+  "henry",
+  "ford",
+  "crowther"
+ ],
+ "_surname": [
+  "henry ford"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ford-my-life-and-work": [
+   7213,
+   "My Life and Work (1922)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "ford-my-life-and-work": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry ford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

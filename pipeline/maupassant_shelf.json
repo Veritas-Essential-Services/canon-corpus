@@ -1,0 +1,37 @@
+{
+ "_about": "Guy de Maupassant, Complete Original Short Stories, tr. A. E. Henderson, Mme. Quesada and others (1903), which holds The Necklace. Added from the classical reading lists (Classical Conversations' 117 must-read list): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Guy de Maupassant",
+ "_name_words": [
+  "guy",
+  "maupassant"
+ ],
+ "_surname": [
+  "maupassant"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "maupassant-original-short-stories": [
+   3090,
+   "Complete Original Short Stories of Guy de Maupassant, tr. Henderson and others (1903)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "maupassant-original-short-stories": "Henderson"
+ },
+ "_checks": {
+  "maupassant-original-short-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "maupassant",
+   "translator_claimed": "Henderson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. E. Henderson; Albert Cohn McMaster; Louise Charlotte Garstin Quesada",
+   "translator_match": true
+  }
+ }
+}

@@ -191,3 +191,23 @@ Left to Lane A, whose author shelves they belong on: Finney's Memoirs, Dabney's 
 Found already held while checking: the Three Forms of Unity (Schaff's Creeds, vol. 3) and the English Lactantius (ANF 7, on PR #11). Whitefield's sermons are left to Lane A with his journals.
 
 What the lists still lack: Bonaventure's Mind's Road to God has no PD English translation found; Augustine's De Ordine and De Quantitate Animae have no PD English found; Washington's Farewell Address and the Clay, Calhoun and Garrison speeches; Bandello's novella and the CC anthology pieces, which need a source per story.
+
+### Batch 8 (2026-10-10): Classical Conversations' short pieces
+
+CC's "117 must-read" list names about fifty short stories, poems, speeches and biographies. These shelves hold the PD collections they appear in; each target piece was confirmed present in its collection's text. 11 shelves, 14 texts, all checks passed.
+
+| Shelf | Collection | Holds |
+|---|---|---|
+| `bierce` | Collected Works vol. 2 (In the Midst of Life); Can Such Things Be? | The Man and the Snake |
+| `maupassant` | Complete Original Short Stories (Henderson and others, 1903) | The Necklace |
+| `french-short-stories` | International Short Stories: French (Patten, 1910) | Daudet, The Last Class |
+| `chekhov-bet` | The Bet, and Other Stories (Koteliansky and Murry, 1915) | The Bet |
+| `tolstoy-tales` | Twenty-Three Tales (Maude, 1906; IA); What Men Live By (Maude) | Little Girls Wiser Than Men |
+| `o-henry` | Whirligigs (1910) | The Ransom of Red Chief |
+| `helen-keller` | The Story of My Life (1903) | |
+| `henry-ford` | My Life and Work (1922) | |
+| `us-inaugurals` | Presidents' inaugural speeches (US government works) | Washington's first inaugural |
+| `hagedorn` | The Boys' Life of Theodore Roosevelt (1918; IA) | |
+| `bachman` | Great Inventors and Their Inventions (1918; IA) | Eli Whitney |
+
+Already held elsewhere: Hiawatha (Longfellow's Poetical Works), Wilde's The Selfish Giant (`wilde-happy-prince`), Kipling's If (`kipling-rewards-and-fairies`), Mather's Essays to Do Good, the Red-Headed League, The Pit and the Pendulum. Van Dyke's The Mansion belongs on Lane D's `van-dyke` shelf. Still to find: the poems by Butterworth, Finch and Scollard; the Bouvé, Brooks, Gordy, Harper, Hawks, Gittings and Ayers biographies; Wilson's war message; and the Clay, Calhoun, Garrison, Stanton, Taney and Winthrop documents.
