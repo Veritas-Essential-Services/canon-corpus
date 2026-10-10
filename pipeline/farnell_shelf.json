@@ -1,0 +1,46 @@
+{
+ "_about": "Lewis Richard Farnell (1856-1934), Rector of Exeter College, Oxford. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Outline-History of Greek Religion, Greece and Babylon, clean Gutenberg. No uids minted.",
+ "_name_words": [
+  "farnell"
+ ],
+ "_surname": [
+  "l. r. farnell",
+  "lewis richard farnell",
+  "farnell, lewis richard"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "farnell-outline-history-greek-religion": [
+   71402,
+   "Outline-History of Greek Religion"
+  ],
+  "farnell-greece-and-babylon": [
+   71562,
+   "Greece and Babylon"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "PG 71722 (The Evolution of Religion)": "comparative religion, outside the classical brief"
+ },
+ "_checks": {
+  "farnell-outline-history-greek-religion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "l. r. farnell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "farnell-greece-and-babylon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lewis richard farnell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

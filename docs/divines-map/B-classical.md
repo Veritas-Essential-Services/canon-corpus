@@ -2660,6 +2660,8 @@ Shelf: `pipeline/farnell_shelf.json`. Lewis Richard Farnell (1856-1934), Rector 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Outline-History of Greek Religion |  | `farnell-outline-history-greek-religion` | have (PG 71402) |
+| Greece and Babylon |  | `farnell-greece-and-babylon` | have (PG 71562) |
 
 Excluded: PG 71722 (The Evolution of Religion) (comparative religion, outside the classical brief)
 
