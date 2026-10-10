@@ -166,3 +166,4 @@
 - Round 2026-10-10h (10:00): four volumes added. The Pitt and Warton set now mixes two editions (1763 and 1778); say if you want it re-taken as one edition. No decision needed otherwise.
 - Round 2026-10-10i (10:07): seven volumes added, two new shelves (Paulus Aegineta, Phalaris). No decision needed.
 - Round 2026-10-10j (10:18): four volumes added, six refusals recorded. No decision needed.
+- Round 2026-10-10k (10:24): six volumes added, including Brumoy's Greek Theatre in Lennox's translation (new shelf). No decision needed; the Greek-facing question now also covers Kennedy's Agamemnon and Cromer's Paraphrases.

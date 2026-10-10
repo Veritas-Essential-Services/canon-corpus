@@ -996,6 +996,14 @@
    "started": "2026-10-10T10:07:08-05:00",
    "finished": "2026-10-10T10:18:25-05:00",
    "notes": "4 volumes added; 6 refusals recorded"
+  },
+  {
+   "id": "round-2026-10-10k",
+   "status": "done",
+   "scope": "Missing-volume re-hunt; IA subject sweep 'Translations into English' (Greek, Latin)",
+   "started": "2026-10-10T10:18:25-05:00",
+   "finished": "2026-10-10T10:24:15-05:00",
+   "notes": "6 volumes added; 5 refusals recorded"
   }
  ]
 }

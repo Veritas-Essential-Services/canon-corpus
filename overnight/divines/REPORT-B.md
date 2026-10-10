@@ -631,3 +631,10 @@
 - Ovid's Fasti in prose, William Thynne, Part I (1833); Part II not found
 - Refused for OCR or no usable text: Massey's Fasti (0.738), Hughes's Claudian (0.665), Six Olympic Odes 1775 (0.760), Fry's Century of Greek Epigrams (0.759, co-translator's dates also open), Verrall's Ion (OCR'd as Greek), Alciphron 1896 rescans (0.521)
 - Most other hits in these sweeps are already held under other scan ids, or are partial reprints of held Bohn translations
+
+## 2026-10-10 10:24 CDT — Round 2026-10-10k: six volumes
+- Brumoy's Greek Theatre, Charlotte Lennox, 3 vols. (1759): new shelf brumoy; the plays come through Brumoy's French
+- Greek Anthology renderings: Lilla Cabot Perry (1891), A. C. Benson (1922), Rennell Rodd (1916); rights notes per row
+- Missing volumes re-hunted (Munford Iliad I, Thornton Plautus III-V, Preston Argonautics II, Greek Tragic Theatre II): only duplicate scans of held volumes or sub-bar ECCO copies. Preston's vol. II would add nothing, since the held vol. I prints the whole poem
+- Refused: Kennedy's Agamemnon (0.642, Greek facing), Cromer's Paraphrases (0.734, Greek facing), Innes (0.625), Golding's Mela (0.738), Bingham's Tactiks of Aelian 1616 (0.50/0.71), Babington's Hyperides (0.65/0.73)
+- No new Gutenberg classical releases since 1 Sept besides Plutarch Moralia vol. 4 (held)

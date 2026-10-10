@@ -4139,6 +4139,9 @@ Shelf: `pipeline/greek-lyric_shelf.json`. Mackail, Wharton's Sappho, Moore's Ana
 | Greek Anthology, with notes critical and explanatory (London: Nissen and Parker; undated, after 1857 by its preface) | Robert Guthrie MacGregor | `greek-anthology-macgregor` | have-raw (IA `greekanthologywi00macguoft`) |
 | Anacreon, Bion and Moschus, with other translations, first printed 1651, a new edition (London: Longman, 1815) | Thomas Stanley | `anacreon-stanley-1815` | have-raw (IA `anacreonbionmosc00bionuoft`) |
 | Collections from the Greek Anthology, and from the pastoral, elegiac and dramatic poets of Greece (London: John Murray, 1813) | Robert Bland and others | `greek-anthology-bland-1813` | have-raw (IA `collectionsfromg00blanuoft`) |
+| From the Garden of Hellas: translations into verse from the Greek Anthology (New York: United States Book Company, 1891) | Lilla Cabot Perry | `greek-anthology-perry-garden-of-hellas-1891` | have-raw (IA `fromgardenofhell00unse`) |
+| The Reed of Pan: English renderings of Greek epigrams and lyrics (1922) | A. C. Benson | `greek-anthology-benson-reed-of-pan-1922` | have-raw (IA `reedofpanenglish00bensuoft`) |
+| Love, Worship and Death: some renderings from the Greek Anthology (London: Edward Arnold, 1916) | Rennell Rodd | `greek-anthology-rodd-love-worship-death-1916` | have-raw (IA `loveworshipdeath00roddrich`) |
 
 Pending (wishlist): Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus/Aratus/Oppian (all Loebs, Greek facing). Callimachus, Aratus, Tryphiodorus and Musaeus in older translations are on the late-greek-poets shelf.
 
@@ -5029,6 +5032,16 @@ Shelf: `pipeline/phalaris_shelf.json`. Thomas Francklin's Epistles of Phalaris (
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Epistles of Phalaris, with select epistles of other Greek writers (1749) | Thomas Francklin | `phalaris-francklin-1749` | have-raw (IA `bib_fict_971306`) |
+
+## Brumoy's Greek Theatre
+
+Shelf: `pipeline/brumoy_shelf.json`. Charlotte Lennox's translation of Brumoy (1759, 3 vols.), the Greek plays by way of Brumoy's French.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Greek Theatre of Father Brumoy, vol. I (London: Millar and others, 1759) | Charlotte Lennox | `brumoy-lennox-1759-v1` | have-raw (IA `greektheatrefat00lenngoog`) |
+| The Greek Theatre of Father Brumoy, vol. II (London, 1759) | Charlotte Lennox | `brumoy-lennox-1759-v2` | have-raw (IA `greektheatrefat01lenngoog`) |
+| The Greek Theatre of Father Brumoy, vol. III (London, 1759) | Charlotte Lennox | `brumoy-lennox-1759-v3` | have-raw (IA `greektheatrefat02lenngoog`) |
 
 ## Perseus census (overflow)
 
