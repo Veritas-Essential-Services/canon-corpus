@@ -1,0 +1,81 @@
+{
+ "_about": "John Bagnell Bury (1861-1927), Regius Professor of Modern History at Cambridge. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): A History of the Later Roman Empire from Arcadius to Irene (2 vols., 1889), A History of the Eastern Roman Empire (1912) and The Constitution of the Later Roman Empire (Creighton lecture, 1910), raw IA OCR. No uids minted.",
+ "_name_words": [
+  "bury"
+ ],
+ "_surname": [
+  "j. b. bury",
+  "john bagnell bury",
+  "bury, j. b"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bury-later-roman-empire-v1-1889": [
+   "historyoflaterro00bury",
+   "A History of the Later Roman Empire from Arcadius to Irene (395 A.D. to 800 A.D.), vol. I (London and New York: Macmillan, 1889)"
+  ],
+  "bury-later-roman-empire-v2-1889": [
+   "ahistorylaterro01burygoog",
+   "A History of the Later Roman Empire from Arcadius to Irene (395 A.D. to 800 A.D.), vol. II (London and New York: Macmillan, 1889)"
+  ],
+  "bury-eastern-roman-empire-1912": [
+   "historyofeastern00buryiala",
+   "A History of the Eastern Roman Empire from the Fall of Irene to the Accession of Basil I (London: Macmillan, 1912)"
+  ],
+  "bury-constitution-later-roman-empire-1910": [
+   "constitutionofla00buryuoft",
+   "The Constitution of the Later Roman Empire (Creighton memorial lecture; Cambridge: University Press, 1910)"
+  ]
+ },
+ "_excluded": {
+  "The Student's Roman Empire (IA studentsromanemp00buryuoft)": "no year on the scan's title page; held back under the undated rule",
+  "A History of the Later Roman Empire vol. II (IA historyoflaterro02buryuoft)": "no year on the scan's title page; the dated 1889 copy is taken"
+ },
+ "_checks": {
+  "bury-later-roman-empire-v1-1889": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. b. bury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bury-later-roman-empire-v2-1889": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. b. bury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bury-eastern-roman-empire-1912": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. b. bury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bury-constitution-later-roman-empire-1910": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. b. bury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
