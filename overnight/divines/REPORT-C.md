@@ -111,3 +111,5 @@
 - 2026-10-10T10:23-05:00: round 16: leland-heine (8), whishaw (3). --verify --record 0 mismatched.
 
 - 2026-10-10T10:28-05:00: round 17: koteliansky (10), marian-fell (3), seltzer (5), dole (6). --verify --record 0 mismatched.
+
+- 2026-10-10T10:41-05:00: round 18: ellen-marriage (18), clara-bell (43), waring (4, one held_in). --verify --record 0 mismatched.

@@ -6228,6 +6228,102 @@ Round 17 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | pg-38520: Poems of James Russell Lowell: Dole wrote the introduction; not a translation. | — | — | excluded | — |
 | — | — | pg-41119: A Russian Proprietor (Tolstoy, PG 41119): not checked this round. | — | — | excluded | — |
 
+## Ellen Marriage (Balzac, Dent's Comédie Humaine, 1895-99)
+
+Shelf: `pipeline/ellen-marriage_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ellen-marriage` · titles `python3 pipeline/split_shelf_titles.py ellen-marriage`.
+Round 18 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ellen-marriage-balzac-the-message` | Honoré de Balzac | The Message | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1189 |
+| `ellen-marriage-balzac-father-goriot` | Honoré de Balzac | Father Goriot | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1237 |
+| `ellen-marriage-balzac-melmoth-reconciled` | Honoré de Balzac | Melmoth Reconciled | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1277 |
+| `ellen-marriage-balzac-the-magic-skin` | Honoré de Balzac | The Magic Skin | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1307 |
+| `ellen-marriage-balzac-gobseck` | Honoré de Balzac | Gobseck | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1389 |
+| `ellen-marriage-balzac-the-collection-of-antiquities` | Honoré de Balzac | The Collection of Antiquities | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1405 |
+| `ellen-marriage-balzac-la-grenadiere` | Honoré de Balzac | La Grenadiere | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1428 |
+| `ellen-marriage-balzac-two-poets` | Honoré de Balzac | Two Poets | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1443 |
+| `ellen-marriage-balzac-a-distinguished-provincial-at-paris` | Honoré de Balzac | A Distinguished Provincial at Paris | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1559 |
+| `ellen-marriage-balzac-eve-and-david` | Honoré de Balzac | Eve and David | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1639 |
+| `ellen-marriage-balzac-the-girl-with-the-golden-eyes` | Honoré de Balzac | The Girl with the Golden Eyes | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1659 |
+| `ellen-marriage-balzac-the-deserted-woman` | Honoré de Balzac | The Deserted Woman | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1729 |
+| `ellen-marriage-balzac-cousin-pons` | Honoré de Balzac | Cousin Pons | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1856 |
+| `ellen-marriage-balzac-albert-savarus` | Honoré de Balzac | Albert Savarus | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1898 |
+| `ellen-marriage-balzac-a-woman-of-thirty` | Honoré de Balzac | A Woman of Thirty | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1950 |
+| `ellen-marriage-balzac-the-duchesse-of-langeais` | Honoré de Balzac | The Duchesse of Langeais | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 469 |
+| `ellen-marriage-balzac-farewell` | Honoré de Balzac | Farewell | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 5873 |
+| `ellen-marriage-balzac-the-jealousies-of-a-country-town` | Honoré de Balzac | The Jealousies of a Country Town | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 7950 |
+| — | — | pg-7416: The Thirteen collects Ferragus, The Duchesse de Langeais and The Girl with the Golden Eyes; the last two are shelved singly. | — | — | excluded | — |
+| — | — | pg-13159: Lost Illusions collects Two Poets, A Distinguished Provincial at Paris and Eve and David, all shelved singly. | — | — | excluded | — |
+| — | — | pg-12900: Poor Relations is the series title over Cousin Pons and Cousin Betty; Cousin Pons is shelved singly and Cousin Betty is Waring's (adler_shelf.json). | — | — | excluded | — |
+
+## Clara Bell (Ebers, Eckstein, Hillern, Jókai and other German/Hungarian novels; Balzac)
+
+Shelf: `pipeline/clara-bell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py clara-bell` · titles `python3 pipeline/split_shelf_titles.py clara-bell`.
+Round 18 (2026-10-10), vetoable. Ebers complete texts only, not the PG part-files. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `clara-bell-balzac-a-prince-of-bohemia` | Honoré de Balzac | A Prince of Bohemia | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1812 |
+| `clara-bell-balzac-a-second-home` | Honoré de Balzac | A Second Home | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1810 |
+| `clara-bell-balzac-an-episode-under-the-terror` | Honoré de Balzac | An Episode under the Terror | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1456 |
+| `clara-bell-balzac-another-study-of-woman` | Honoré de Balzac | Another Study of Woman | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1714 |
+| `clara-bell-balzac-at-the-sign-of-the-cat-and-racket` | Honoré de Balzac | At the Sign of the Cat and Racket | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1680 |
+| `clara-bell-balzac-colonel-chabert` | Honoré de Balzac | Colonel Chabert | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1954 |
+| `clara-bell-balzac-domestic-peace` | Honoré de Balzac | Domestic Peace | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1411 |
+| `clara-bell-balzac-facino-cane` | Honoré de Balzac | Facino Cane | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1737 |
+| `clara-bell-balzac-gaudissart-ii` | Honoré de Balzac | Gaudissart II | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1475 |
+| `clara-bell-balzac-honorine` | Honoré de Balzac | Honorine | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1683 |
+| `clara-bell-balzac-la-grande-breteche` | Honoré de Balzac | La Grande Breteche | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1710 |
+| `clara-bell-balzac-louis-lambert` | Honoré de Balzac | Louis Lambert | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1943 |
+| `clara-bell-balzac-massimilla-doni` | Honoré de Balzac | Massimilla Doni | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1811 |
+| `clara-bell-balzac-sarrasine` | Honoré de Balzac | Sarrasine | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1826 |
+| `clara-bell-balzac-the-atheists-mass` | Honoré de Balzac | The Atheist's Mass | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1220 |
+| `clara-bell-balzac-the-ball-at-sceaux` | Honoré de Balzac | The Ball at Sceaux | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1305 |
+| `clara-bell-balzac-the-commission-in-lunacy` | Honoré de Balzac | The Commission in Lunacy | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1410 |
+| `clara-bell-balzac-the-country-doctor` | Honoré de Balzac | The Country Doctor | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1350 |
+| `clara-bell-balzac-the-elixir-of-life` | Honoré de Balzac | The Elixir of Life | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1215 |
+| `clara-bell-balzac-the-exiles` | Honoré de Balzac | The Exiles | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1884 |
+| `clara-bell-balzac-the-purse` | Honoré de Balzac | The Purse | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1196 |
+| `clara-bell-balzac-the-works-of-honor-de-balzac-about-catherine-de-m` | Honoré de Balzac | The Works of Honoré de Balzac: About Catherine de' M | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 37285 |
+| `clara-bell-balzac-z-marcas` | Honoré de Balzac | Z. Marcas | Clara Bell | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1841 |
+| `clara-bell-couperus-footsteps-of-fate` | Louis Couperus | Footsteps of Fate | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 34678 |
+| `clara-bell-ebers-a-thorny-path` | Georg Ebers | A Thorny Path | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 5542 |
+| `clara-bell-ebers-homo-sum` | Georg Ebers | Homo Sum | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 5499 |
+| `clara-bell-ebers-margery-gred-a-tale-of-old-nuremberg` | Georg Ebers | Margery (Gred): A Tale Of Old Nuremberg | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 5560 |
+| `clara-bell-ebers-serapis` | Georg Ebers | Serapis | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 5507 |
+| `clara-bell-ebers-the-bride-of-the-nile` | Georg Ebers | The Bride of the Nile | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 5529 |
+| `clara-bell-ebers-the-emperor` | Georg Ebers | The Emperor | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 5493 |
+| `clara-bell-ebers-the-sisters` | Georg Ebers | The Sisters | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 5466 |
+| `clara-bell-ebers-uarda-a-romance-of-ancient-egypt` | Georg Ebers | Uarda: a Romance of Ancient Egypt | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 5449 |
+| `clara-bell-eckstein-quintus-claudius-vol-1` | Ernst Eckstein | Quintus Claudius: A Romance of Imperial Rome. Volume 1 | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 47221 |
+| `clara-bell-eckstein-quintus-claudius-vol-2` | Ernst Eckstein | Quintus Claudius: A Romance of Imperial Rome. Volume 2 | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 47222 |
+| `clara-bell-gald-s-leon-roch-a-romance-vol-1-of-2` | Benito Pérez Galdós | Leon Roch: A Romance, vol. 1 (of 2) | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 48752 |
+| `clara-bell-gald-s-leon-roch-a-romance-vol-2-of-2` | Benito Pérez Galdós | Leon Roch: A Romance, vol. 2 (of 2) | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 49272 |
+| `clara-bell-gald-s-marianela` | Benito Pérez Galdós | Marianela | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 48818 |
+| `clara-bell-hillern-the-hour-will-come` | Wilhelmine von Hillern | The Hour Will Come: A Tale of an Alpine Cloister (Volumes I and II) | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 36811 |
+| `clara-bell-hillern-the-vulture-maiden-die-geier-wally` | Wilhelmine von Hillern | The Vulture Maiden [Die Geier-Wally.] | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 36827 |
+| `clara-bell-huysmans-the-cathedral` | J.-K. Huysmans | The Cathedral | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 15067 |
+| `clara-bell-karadordevic-enchanted-india` | Bozidar Karadordevic | Enchanted India | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 57153 |
+| `clara-bell-maupassant-pierre-and-jean` | Guy de Maupassant | Pierre and Jean | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 3804 |
+| `clara-bell-vald-froth-a-novel` | Armando Palacio Valdé | Froth: A Novel | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 38411 |
+| — | — | ebers-volume-splits: Gutenberg's per-volume splits of Uarda, The Sisters, The Emperor, Homo Sum, Serapis, The Bride of the Nile, A Thorny Path and Margery are left out; the complete texts (5449, 5466, 5493, 5499, 5507, 5529, 5542, 5560) are used. | — | — | excluded | — |
+| — | — | pg-7958: The Napoleon of the People is an extract from The Country Doctor (1350), shelved whole. | — | — | excluded | — |
+| — | — | two-volume-novels: Leon Roch (48752, 49272) and Quintus Claudius (47221, 47222) have no complete Gutenberg text; each Gutenberg volume is shelved as its own title. | — | — | excluded | — |
+
+## James Waring (Balzac, Dent)
+
+Shelf: `pipeline/waring_shelf.json` · fetch `python3 pipeline/fetch_shelf.py waring` · titles `python3 pipeline/split_shelf_titles.py waring`.
+Round 18 (2026-10-10), vetoable. His Cousin Betty is held on adler_shelf.json. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `waring-balzac-the-firm-of-nucingen` | Honoré de Balzac | The Firm of Nucingen | James Waring | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1294 |
+| `waring-balzac-scenes-from-a-courtesans-life` | Honoré de Balzac | Scenes from a Courtesan's Life | James Waring | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1660 |
+| `waring-balzac-the-muse-of-the-department` | Honoré de Balzac | The Muse of the Department | James Waring | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1912 |
+| `waring-balzac-cousin-betty` | Honoré de Balzac | Cousin Betty | James Waring | 1895-1900 (Dent, ed. George Saintsbury) | held elsewhere (cross-ref) | `pipeline/adler_shelf.json` → `balzac-cousinbette` (PG 1749) |
+| — | — | pg-7929: Parisians in the Country is the series title over The Illustrious Gaudissart and The Muse of the Department; Waring's Muse is shelved singly and Gaudissart is Wormeley's (wormeley_shelf.json). | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

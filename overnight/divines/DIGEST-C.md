@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T10:28-05:00: 65 shelves, 364 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24. **12 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T10:41-05:00: 68 shelves, 429 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65. **13 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -193,3 +193,15 @@ Four new shelves, 24 titles, all from Gutenberg, each translator line read in th
 All of these are US public domain. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Your call:** nothing for the US. If the library is ever published in the UK, the Koteliansky volumes have been UK public domain only since 2026, and the three he did with Murry not until 2028.
+
+## Round 18: the Dent Balzac translators, and Clara Bell (2026-10-10)
+
+Three new shelves, 65 titles, all from Gutenberg, with the translator line read in every header:
+
+- **`ellen-marriage`** (18): Ellen Marriage's Balzac for Dent's Comédie Humaine (ed. Saintsbury, 1895-99). Left out: the Gutenberg extracts and series titles that would duplicate whole novels.
+- **`clara-bell`** (43): Clara Bell (d. 1927), the most prolific Victorian translator. 23 Balzac titles for the same Dent set, plus Georg Ebers (8 complete novels, not Gutenberg's per-volume splits), Eckstein's *Quintus Claudius* (2 volumes), Galdós (3), Hillern (2), Couperus, Huysmans, Maupassant, Palacio Valdés and Karadjordjević. *Leon Roch* and *Quintus Claudius* have no complete Gutenberg text, so each volume is its own title.
+- **`waring`** (4): James Waring's Balzac (Dent). His *Cousin Betty* is already on adler_shelf.json, so it is a cross-reference here, not a second copy.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** none beyond the veto.
