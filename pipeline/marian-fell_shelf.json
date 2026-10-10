@@ -22,15 +22,21 @@
    "Makar's Dream, and Other Stories"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "mf-chekhov-plays": [
+   "cu31924063791770",
+   "Plays by Anton Tchekoff (Scribner, 1912)"
+  ]
+ },
  "titles": {
-  "marian-fell-chekhov-swan-song": {
-   "source": "mar-1753",
-   "of": "Chekhov",
-   "work": "Swan Song",
+  "marian-fell-chekhov-plays": {
+   "source": "mf-chekhov-plays",
+   "of": "Anton Chekhov",
+   "work": "Plays: Uncle Vanya, Ivanoff, The Sea-Gull, The Swan Song",
    "translated": 1912,
    "translator": "Marian Fell",
-   "scan_edition": "Project Gutenberg 1753 (clean text)"
+   "scan_edition": "Scribner, New York, 1912 (Cornell copy; raw OCR)",
+   "note": "Uncle Vanya from this translation is also on adler_shelf.json (PG 1756, whose text does not name a translator); this is the 1912 book with its title page."
   },
   "marian-fell-chekhov-russian-silhouettes": {
    "source": "mar-66790",
@@ -39,6 +45,14 @@
    "translated": 1915,
    "translator": "Marian Fell",
    "scan_edition": "Project Gutenberg 66790 (clean text); Duckworth, London, 1915"
+  },
+  "marian-fell-chekhov-swan-song": {
+   "source": "mar-1753",
+   "of": "Chekhov",
+   "work": "Swan Song",
+   "translated": 1912,
+   "translator": "Marian Fell",
+   "scan_edition": "Project Gutenberg 1753 (clean text)"
   },
   "marian-fell-korolenko-makars-dream": {
    "source": "mar-62555",
@@ -49,9 +63,7 @@
    "scan_edition": "Project Gutenberg 62555 (clean text)"
   }
  },
- "_pending": {
-  "marian-fell-chekhov-plays": "Her Plays by Anton Tchekoff (Scribner, 1912/1916; Uncle Vanya, Ivanoff, The Sea-Gull, The Swan Song) is on archive.org; next round."
- },
+ "_pending": {},
  "_excluded": {},
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
@@ -81,6 +93,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Marian Fell"
+  },
+  "mf-chekhov-plays": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "marian fell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -98,6 +121,19 @@
    "pg": 62555,
    "pg_copyrighted_marker": false,
    "pg_translator": "Marian Fell"
+  },
+  "mf-chekhov-plays": {
+   "ia": "cu31924063791770",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1890,
+    1896,
+    1901,
+    1904,
+    1912,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

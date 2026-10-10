@@ -6835,7 +6835,7 @@ Round 11 (2026-10-10), vetoable. One title per volume; vol. 12 pending. Not conv
 | `archer-ibsen-vol-09` | Ibsen | Collected Works, vol. 9: Rosmersholm; The Lady from the Sea | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1907 | have-raw | IA `collectedworksof09ibseiala` |
 | `archer-ibsen-vol-10` | Ibsen | Collected Works, vol. 10: Hedda Gabler; The Master Builder | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1907 | have-raw | IA `collectedworkso10ibseuoft` |
 | `archer-ibsen-vol-11` | Ibsen | Collected Works, vol. 11: Little Eyolf; John Gabriel Borkman; When We Dead Awaken | William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse) | 1907 | have | PG 74642 |
-| `archer-ibsen-vol-12` | — | From Ibsen's Workshop (A. G. Chater, 1912): collectedworkso12ibseuoft returned HTTP 500 on every try today; retry next round. | — | — | pending | — |
+| `archer-ibsen-vol-12` | Ibsen | Collected Works, vol. 12: From Ibsen's Workshop (notes, scenarios and drafts of the modern plays) | A. G. Chater; introduction by William Archer | 1911 | have-raw | IA `fromibsensworksh00ibseuoft` |
 | — | — | single-play-gutenberg-texts: PG 4093, 4070, 4782, 7942, 8121, 18428, 18792, 19018 are single plays from the same Archer edition; the volumes are used instead so nothing is held twice. | — | — | excluded | — |
 | — | — | sharp-everyman: R. Farquharson Sharp's Everyman Ibsen (PG 2446, 2467): another translator; A Doll's House in his version is on adler_shelf.json. | — | — | excluded | — |
 | — | — | marx-aveling-wild-duck: PG 73631: Eleanor Marx Aveling's translation; another translator. | — | — | excluded | — |
@@ -7071,10 +7071,10 @@ Round 17 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
-| `marian-fell-chekhov-swan-song` | Chekhov | Swan Song | Marian Fell | 1912 | have | PG 1753 |
+| `marian-fell-chekhov-plays` | Anton Chekhov | Plays: Uncle Vanya, Ivanoff, The Sea-Gull, The Swan Song | Marian Fell | 1912 | have-raw | IA `cu31924063791770` |
 | `marian-fell-chekhov-russian-silhouettes` | Chekhov | Russian Silhouettes: More Stories of Russian Life | Marian Fell | 1915 | have | PG 66790 |
+| `marian-fell-chekhov-swan-song` | Chekhov | Swan Song | Marian Fell | 1912 | have | PG 1753 |
 | `marian-fell-korolenko-makars-dream` | Korolenko | Makar's Dream, and Other Stories | Marian Fell | 1916 | have | PG 62555 |
-| `marian-fell-chekhov-plays` | — | Her Plays by Anton Tchekoff (Scribner, 1912/1916; Uncle Vanya, Ivanoff, The Sea-Gull, The Swan Song) is on archive.org; next round. | — | — | pending | — |
 
 ## Thomas Seltzer (Gorky, Andreyev, Gogol, Sudermann)
 
@@ -8109,6 +8109,25 @@ Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `lamond-grisar-luther-vol-4-of-6` | Hartmann Grisar | Luther, vol. 4 of 6 | E. M. Lamond | 1913-1917 (see the Gutenberg header) | have | PG 49135 |
 | `lamond-grisar-luther-vol-5-of-6` | Hartmann Grisar | Luther, vol. 5 of 6 | E. M. Lamond | 1913-1917 (see the Gutenberg header) | have | PG 49171 |
 | `lamond-grisar-luther-vol-6-of-6` | Hartmann Grisar | Luther, vol. 6 of 6 | E. M. Lamond | 1913-1917 (see the Gutenberg header) | have | PG 54811 |
+
+## Julius West (Chekhov's Plays, Second Series)
+
+Shelf: `pipeline/julius-west_shelf.json` · fetch `python3 pipeline/fetch_shelf.py julius-west` · titles `python3 pipeline/split_shelf_titles.py julius-west`.
+Round 26 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `julius-west-chekhov-plays-second-series` | Anton Chekhov | Plays, Second Series: On the High Road, The Proposal, The Wedding, The Bear, A Tragedian in Spite of Himself, The Anniversary, The Three Sisters, The Cherry Orchard | Julius West | 1916 | have | PG 7986 |
+
+## George Calderon (Chekhov's Seagull and Cherry Orchard; Ilya Tolstoy)
+
+Shelf: `pipeline/george-calderon_shelf.json` · fetch `python3 pipeline/fetch_shelf.py george-calderon` · titles `python3 pipeline/split_shelf_titles.py george-calderon`.
+Round 26 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `george-calderon-ilya-tolstoy-reminiscences` | Ilya Tolstoy | Reminiscences of Tolstoy, by His Son | George Calderon | 1914 | have | PG 813 |
+| `george-calderon-chekhov-two-plays` | Anton Chekhov | Two Plays by Tchekhof: The Seagull; The Cherry Orchard | George Calderon | 1912 | have-raw | IA `twoplaysbytchekh00chekiala` |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 

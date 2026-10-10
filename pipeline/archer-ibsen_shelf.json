@@ -54,6 +54,10 @@
   "archer-ibsen-v10": [
    "collectedworkso10ibseuoft",
    "The Collected Works of Henrik Ibsen"
+  ],
+  "archer-ibsen-v12": [
+   "fromibsensworksh00ibseuoft",
+   "The Collected Works of Henrik Ibsen"
   ]
  },
  "titles": {
@@ -144,11 +148,17 @@
    "translated": 1907,
    "translator": "William Archer, editor; each play's translator as its title page prints (William, Charles and Frances E. Archer, Mary Morison, C. H. Herford, Edmund Gosse)",
    "scan_edition": "Project Gutenberg 74642 (clean text, from the Heinemann/Scribner Copyright Edition)"
+  },
+  "archer-ibsen-vol-12": {
+   "source": "archer-ibsen-v12",
+   "of": "Ibsen",
+   "work": "Collected Works, vol. 12: From Ibsen's Workshop (notes, scenarios and drafts of the modern plays)",
+   "translated": 1911,
+   "translator": "A. G. Chater; introduction by William Archer",
+   "scan_edition": "Scribner Copyright Edition, copyright 1911, this copy printed 1923 (Toronto; raw OCR)"
   }
  },
- "_pending": {
-  "archer-ibsen-vol-12": "From Ibsen's Workshop (A. G. Chater, 1912): collectedworkso12ibseuoft returned HTTP 500 on every try today; retry next round."
- },
+ "_pending": {},
  "_excluded": {
   "single-play-gutenberg-texts": "PG 4093, 4070, 4782, 7942, 8121, 18428, 18792, 19018 are single plays from the same Archer edition; the volumes are used instead so nothing is held twice.",
   "sharp-everyman": "R. Farquharson Sharp's Everyman Ibsen (PG 2446, 2467): another translator; A Doll's House in his version is on adler_shelf.json.",
@@ -260,6 +270,17 @@
    "ia_date": "1906-1912",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "archer-ibsen-v12": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william archer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "c1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -347,6 +368,19 @@
     1909,
     1912,
     1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "archer-ibsen-v12": {
+   "ia": "fromibsensworksh00ibseuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1853,
+    1864,
+    1884,
+    1909,
+    1911,
+    1923
    ],
    "post_1930_years_in_front_15k": []
   }

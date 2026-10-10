@@ -976,6 +976,38 @@
       "finished": "2026-10-10T11:36-05:00",
       "scope": "TRANSLATOR SHELF (round 25, lane C's choice; Adam may veto) -- lamond; PD printings before 1931 only; no minting",
       "notes": "6 titles; ids checked across all branches. See DIGEST-C round 25. No uids minted."
+    },
+    {
+      "id": "archer-ibsen-vol-12",
+      "status": "done",
+      "started": "2026-10-10T11:44-05:00",
+      "finished": "2026-10-10T11:44-05:00",
+      "scope": "TRANSLATOR SHELF (round 26, lane C's choice; Adam may veto); PD printings before 1931 only; no minting",
+      "notes": "1 title(s). Archer Ibsen vol 12 (From Ibsen's Workshop, Chater) added from a working Toronto copy. See DIGEST-C round 26. No uids minted."
+    },
+    {
+      "id": "marian-fell-plays",
+      "status": "done",
+      "started": "2026-10-10T11:44-05:00",
+      "finished": "2026-10-10T11:44-05:00",
+      "scope": "TRANSLATOR SHELF (round 26, lane C's choice; Adam may veto); PD printings before 1931 only; no minting",
+      "notes": "1 title(s). Marian Fell's Plays (1912) added. See DIGEST-C round 26. No uids minted."
+    },
+    {
+      "id": "shelf-julius-west",
+      "status": "done",
+      "started": "2026-10-10T11:44-05:00",
+      "finished": "2026-10-10T11:44-05:00",
+      "scope": "TRANSLATOR SHELF (round 26, lane C's choice; Adam may veto); PD printings before 1931 only; no minting",
+      "notes": "1 title(s). New shelf. See DIGEST-C round 26. No uids minted."
+    },
+    {
+      "id": "shelf-george-calderon",
+      "status": "done",
+      "started": "2026-10-10T11:44-05:00",
+      "finished": "2026-10-10T11:44-05:00",
+      "scope": "TRANSLATOR SHELF (round 26, lane C's choice; Adam may veto); PD printings before 1931 only; no minting",
+      "notes": "2 title(s). New shelf. See DIGEST-C round 26. No uids minted."
     }
   ]
 }
