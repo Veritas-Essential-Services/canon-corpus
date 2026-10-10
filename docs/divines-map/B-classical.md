@@ -3119,6 +3119,7 @@ Shelf: `pipeline/cruttwell_shelf.json`. A History of Roman Literature, clean Gut
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A History of Roman Literature from the Earliest Period to the Death of Marcus Aurelius |  | `cruttwell-history-roman-literature` | have (PG 7525) |
 
 ## A. W. Verrall (scholarship)
 

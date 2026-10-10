@@ -1,0 +1,30 @@
+{
+ "_about": "Charles Thomas Cruttwell (1847-1911): A History of Roman Literature from the Earliest Period to the Death of Marcus Aurelius, clean Gutenberg. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "cruttwell"
+ ],
+ "_surname": [
+  "c. t. cruttwell",
+  "charles thomas cruttwell",
+  "cruttwell, c. t"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cruttwell-history-roman-literature": [
+   7525,
+   "A History of Roman Literature from the Earliest Period to the Death of Marcus Aurelius"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "cruttwell-history-roman-literature": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles thomas cruttwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
