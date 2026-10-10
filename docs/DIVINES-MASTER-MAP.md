@@ -5253,6 +5253,281 @@ Shelf: `pipeline/brumoy_shelf.json`. Charlotte Lennox's translation of Brumoy (1
 | The Greek Theatre of Father Brumoy, vol. II (London, 1759) | Charlotte Lennox | `brumoy-lennox-1759-v2` | have-raw (IA `greektheatrefat01lenngoog`) |
 | The Greek Theatre of Father Brumoy, vol. III (London, 1759) | Charlotte Lennox | `brumoy-lennox-1759-v3` | have-raw (IA `greektheatrefat02lenngoog`) |
 
+## George Grote (scholarship)
+
+Shelf: `pipeline/grote_shelf.json`. Grote's History of Greece (12 vols.), Plato and the Other Companions of Sokrates (4 vols.), Aristotle and the rotation paper, clean Gutenberg. His own English; classical scholarship, lane B pivot of 2026-10-10. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of Greece, Volume 01 (of 12) |  | `grote-history-of-greece-v01` | have (PG 56342) |
+| History of Greece, Volume 02 (of 12) |  | `grote-history-of-greece-v02` | have (PG 57143) |
+| History of Greece, Volume 03 (of 12) |  | `grote-history-of-greece-v03` | have (PG 58565) |
+| History of Greece, Volume 04 (of 12) |  | `grote-history-of-greece-v04` | have (PG 60426) |
+| History of Greece, Volume 05 (of 12) |  | `grote-history-of-greece-v05` | have (PG 62098) |
+| History of Greece, Volume 06 (of 12) |  | `grote-history-of-greece-v06` | have (PG 54936) |
+| History of Greece, Volume 07 (of 12) |  | `grote-history-of-greece-v07` | have (PG 51181) |
+| History of Greece, Volume 08 (of 12) |  | `grote-history-of-greece-v08` | have (PG 52119) |
+| History of Greece, Volume 09 (of 12) |  | `grote-history-of-greece-v09` | have (PG 51182) |
+| History of Greece, Volume 10 (of 12) |  | `grote-history-of-greece-v10` | have (PG 51183) |
+| History of Greece, Volume 11 (of 12) |  | `grote-history-of-greece-v11` | have (PG 61469) |
+| History of Greece, Volume 12 (of 12) |  | `grote-history-of-greece-v12` | have (PG 60786) |
+| Plato and the Other Companions of Sokrates, 3rd ed. Volume 1 |  | `grote-plato-companions-v1` | have (PG 40435) |
+| Plato and the Other Companions of Sokrates, 3rd ed. Volume 2 |  | `grote-plato-companions-v2` | have (PG 40436) |
+| Plato and the Other Companions of Sokrates, 3rd ed. Volume 3 |  | `grote-plato-companions-v3` | have (PG 40437) |
+| Plato and the Other Companions of Sokrates, 3rd ed. Volume 4 |  | `grote-plato-companions-v4` | have (PG 40438) |
+| Aristotle (ed. Alexander Bain and George Croom Robertson) |  | `grote-aristotle` | have (PG 45851) |
+| Plato's Doctrine Respecting the Rotation of the Earth and Aristotle's Comment Upon That Doctrine |  | `grote-plato-rotation-of-earth` | have (PG 40439) |
+
+Excluded: PG 12002 (Review of Mill's Examination of Hamilton) (philosophy of mind, outside the classical brief); PG 26390 (The Two Great Retreats of History) (school excerpt (Grote's Retreat of the Ten Thousand chapter, ed. Montgomery, with Ségur); the whole History is held)
+
+Pending (wishlist): Grote's Minor Works (1873), if a scan clears the bar.
+
+## Theodor Mommsen (scholarship)
+
+Shelf: `pipeline/mommsen_shelf.json`. Dickson's translation of the History of Rome (Books I-V) and the Provinces of the Roman Empire (2 vols.), clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Rome, Book I | William P. Dickson | `mommsen-history-of-rome-i` | have (PG 10701) |
+| The History of Rome, Book II | William P. Dickson | `mommsen-history-of-rome-ii` | have (PG 10702) |
+| The History of Rome, Book III | William P. Dickson | `mommsen-history-of-rome-iii` | have (PG 10703) |
+| The History of Rome, Book IV | William P. Dickson | `mommsen-history-of-rome-iv` | have (PG 10704) |
+| The History of Rome, Book V | William P. Dickson | `mommsen-history-of-rome-v` | have (PG 10705) |
+| The Provinces of the Roman Empire, from Caesar to Diocletian, vol. 1 | William P. Dickson | `mommsen-provinces-v1` | have (PG 48966) |
+| The Provinces of the Roman Empire, from Caesar to Diocletian, vol. 2 | William P. Dickson | `mommsen-provinces-v2` | have (PG 49483) |
+
+Excluded: PG 10706 (History of Rome, Volumes 1-5) (the same text as PG 10701-10705 in one file); PG 3060-3065 (Römische Geschichte) (German original; the English translation is held)
+
+Pending (wishlist): other English Mommsen not yet searched.
+
+## Sir William Smith (scholarship)
+
+Shelf: `pipeline/william-smith_shelf.json`. Smith's smaller histories of Greece and Rome and his Smaller Dictionary of Antiquities (clean Gutenberg), and the full Dictionaries of Antiquities (1842), Biography and Mythology (Boston, 1870) and Geography (Boston, 1854 and 1870) as raw IA OCR. Many-author reference works under Smith's editorship, all published 1842-1870. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Smaller History of Greece: from the Earliest Times to the Roman Conquest |  | `william-smith-smaller-history-of-greece` | have (PG 2096) |
+| A Smaller History of Rome, from the Earliest Times to the Establishment of the Empire (with Eugene Lawrence) |  | `william-smith-smaller-history-of-rome` | have (PG 19694) |
+| A Smaller Dictionary of Greek and Roman Antiquities |  | `william-smith-smaller-dictionary-antiquities` | have (PG 65909) |
+| A Dictionary of Greek and Roman Antiquities, ed. William Smith (London: Taylor and Walton, 1842) |  | `william-smith-dictionary-antiquities-1842` | have-raw (IA `dictionaryofgree00smit_5`) |
+| Dictionary of Greek and Roman Biography and Mythology, ed. William Smith, vol. I (Boston: Little, Brown, 1870) |  | `william-smith-dictionary-biography-v1-1870` | have-raw (IA `dictionaryofgre01smituoft`) |
+| Dictionary of Greek and Roman Biography and Mythology, ed. William Smith, vol. II (Boston: Little, Brown, 1870) |  | `william-smith-dictionary-biography-v2-1870` | have-raw (IA `dictionaryofgree02smituoft`) |
+| Dictionary of Greek and Roman Geography, ed. William Smith, vol. I, Abacaenum-Hytanis (Boston: Little, Brown, 1854) |  | `william-smith-dictionary-geography-v1-1854` | have-raw (IA `dictionarygreek16smitgoog`) |
+| Dictionary of Greek and Roman Geography, ed. William Smith, vol. II, Iabadius-Zymethus (Boston: Little, Brown, 1870) |  | `william-smith-dictionary-geography-v2-1870` | have-raw (IA `dictionaryofgre02smit`) |
+
+Excluded: Dictionary of Greek and Roman Geography vol. II (IA dictionaryofgrromgeo02smituoft) (no title page in the scan; the 1870 Boston vol. II is taken instead)
+
+Pending (wishlist): Biography and Mythology vol. III (the matching Boston 1870 copy, IA dictionaryofgree03smituoft, would not download); the third edition of the Antiquities (Wayte and Marindin, 1890-91).
+
+## Sir Richard Jebb (scholarship)
+
+Shelf: `pipeline/jebb_shelf.json`. Jebb's Attic Orators (1893, 2 vols.), Growth and Influence of Classical Greek Poetry, Homer: an Introduction, Bentley, Modern Greece, and Essays and Addresses, raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Attic Orators from Antiphon to Isaeus, vol. I, second edition (London: Macmillan, 1893; first edition 1876) |  | `jebb-attic-orators-v1-1893` | have-raw (IA `atticoratorsfrom01jebbuoft`) |
+| The Attic Orators from Antiphon to Isaeus, vol. II, second edition (London: Macmillan, 1893) |  | `jebb-attic-orators-v2-1893` | have-raw (IA `atticoratorsfrom02jebbuoft`) |
+| The Growth and Influence of Classical Greek Poetry: lectures delivered in 1892 on the Percy Turnbull Memorial Foundation in the Johns Hopkins University (London and New York: Macmillan, 1893) |  | `jebb-growth-influence-greek-poetry-1893` | have-raw (IA `growthandinflue01jebbgoog`) |
+| Homer: an Introduction to the Iliad and the Odyssey, sixth edition (Glasgow: Maclehose, 1898) |  | `jebb-homer-introduction-1898` | have-raw (IA `cu31924059064653`) |
+| Bentley (English Men of Letters, ed. John Morley; New York: Harper, 1901 printing) |  | `jebb-bentley-1901` | have-raw (IA `bentleyclaver00jebbuoft`) |
+| Modern Greece: two lectures delivered before the Philosophical Institution of Edinburgh, with papers on 'The Progress of Greece' and 'Byron in Greece' (London: Macmillan, 1880) |  | `jebb-modern-greece-1880` | have-raw (IA `moderngreecetwol00jebbuoft`) |
+| Essays and Addresses (Cambridge: University Press, 1907) |  | `jebb-essays-addresses-1907` | have-raw (IA `essaysaddresses00jebbiala`) |
+
+Excluded: Primer of Greek Literature (IA greekliterature00jebbuoft) (no title page in the scan); Erasmus (Rede lecture, 1890) (Erasmus belongs to the Classical reading lists thread; not taken here to avoid overlap)
+
+Pending (wishlist): Humanism in Education (1899) and the Rede lecture on Erasmus are left out (Erasmus belongs to the Classical reading lists thread); the Sophocles commentaries (Greek facing) wait on the Greek-facing ruling.
+
+## John Conington (scholarship)
+
+Shelf: `pipeline/conington_shelf.json`. Conington's Miscellaneous Writings (1872), vol. I, raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Miscellaneous Writings of John Conington, ed. J. A. Symonds, with a memoir by H. J. S. Smith, vol. I (London: Longmans, Green, 1872) |  | `conington-miscellaneous-writings-v1-1872` | have-raw (IA `miscellaneouswri01coniuoft`) |
+
+Excluded: P. Vergili Maronis Opera, with a commentary (with Henry Nettleship), vol. III (IA pvergilimaroniso03virg) (refused: OCR 0.73 (dense line references; sampled OCR is otherwise good))
+
+Pending (wishlist): Miscellaneous Writings vol. II (every IA copy tried was vol. I or would not download); the Virgil and Persius commentaries if a scan clears the bar.
+
+## W. Y. Sellar (scholarship)
+
+Shelf: `pipeline/w-y-sellar_shelf.json`. William Young Sellar (1825-1890), Professor of Humanity at Edinburgh: 2 clean Gutenberg texts. The shelf name carries his initials because A. M. Sellar, Bede's translator, is a different person. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Roman Poets of the Augustan Age: Virgil |  | `sellar-roman-poets-augustan-virgil` | have (PG 34163) |
+| The Roman Poets of the Republic, 3rd edition |  | `sellar-roman-poets-republic-3rd` | have (PG 38566) |
+
+Excluded: PG 48323 (The Roman Poets of the Republic, 2nd edition) (the 3rd edition is held)
+
+## J. W. Mackail (scholarship)
+
+Shelf: `pipeline/mackail_shelf.json`. John William Mackail (1859-1945): 1 clean Gutenberg text. His translations (Virgil, Catullus, the Greek Anthology, the Odyssey) are on those shelves. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Latin Literature |  | `mackail-latin-literature` | have (PG 8894) |
+
+## A. H. J. Greenidge (scholarship)
+
+Shelf: `pipeline/greenidge_shelf.json`. Abel Hendy Jones Greenidge (1865-1906), Oxford ancient historian: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Rome During the Later Republic and Early Principate |  | `greenidge-history-of-rome-later-republic` | have (PG 9781) |
+| Roman Public Life |  | `greenidge-roman-public-life` | have (PG 65392) |
+
+## W. Warde Fowler (scholarship)
+
+Shelf: `pipeline/warde-fowler_shelf.json`. William Warde Fowler (1847-1921), Oxford historian of Roman religion: 4 clean Gutenberg texts. His bird books are outside the brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Social Life at Rome in the Age of Cicero |  | `warde-fowler-social-life-rome-cicero` | have (PG 11256) |
+| The Religious Experience of the Roman People, from the Earliest Times to the Age of Augustus |  | `warde-fowler-religious-experience-roman-people` | have (PG 23349) |
+| Rome (Home University Library) |  | `warde-fowler-rome` | have (PG 56630) |
+| The Roman Festivals of the Period of the Republic |  | `warde-fowler-roman-festivals` | have (PG 59007) |
+
+## Samuel Dill (scholarship)
+
+Shelf: `pipeline/samuel-dill_shelf.json`. Sir Samuel Dill (1844-1924): 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Roman Society from Nero to Marcus Aurelius |  | `dill-roman-society-nero-marcus-aurelius` | have (PG 34122) |
+
+## J. P. Mahaffy (scholarship)
+
+Shelf: `pipeline/mahaffy_shelf.json`. John Pentland Mahaffy (1839-1919), Trinity College Dublin: 4 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Rambles and Studies in Greece |  | `mahaffy-rambles-studies-greece` | have (PG 35298) |
+| Problems in Greek History |  | `mahaffy-problems-greek-history` | have (PG 36354) |
+| What Have the Greeks Done for Modern Civilisation? |  | `mahaffy-what-have-greeks-done` | have (PG 59132) |
+| Old Greek Education |  | `mahaffy-old-greek-education` | have (PG 65058) |
+
+Excluded: PG 65638 (The Principles of the Art of Conversation) (outside the classical brief)
+
+## G. Lowes Dickinson (scholarship)
+
+Shelf: `pipeline/lowes-dickinson_shelf.json`. Goldsworthy Lowes Dickinson (1862-1932): 1 clean Gutenberg text. His political and travel books are outside the brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Greek View of Life |  | `lowes-dickinson-greek-view-of-life` | have (PG 6200) |
+
+## John Burnet (scholarship)
+
+Shelf: `pipeline/burnet_shelf.json`. John Burnet (1863-1928), Professor of Greek at St Andrews: 1 clean Gutenberg text. The presocratics shelf passed this book over as a study, not a translation; it is taken here as scholarship. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Early Greek Philosophy |  | `burnet-early-greek-philosophy` | have (PG 67097) |
+
+## Eduard Zeller (scholarship)
+
+Shelf: `pipeline/zeller_shelf.json`. Eduard Zeller (1814-1908) in English, tr. Oswald J. Reichel (1840-1923): 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Stoics, Epicureans and Sceptics | Oswald J. Reichel | `zeller-stoics-epicureans-sceptics` | have (PG 77777) |
+
+## Jane Ellen Harrison (scholarship)
+
+Shelf: `pipeline/jane-harrison_shelf.json`. Jane Ellen Harrison (1850-1928), Newnham College: 3 clean Gutenberg texts. Her commentary with Verrall's Attica is on the pausanias shelf. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Prolegomena to the Study of Greek Religion |  | `jane-harrison-prolegomena-greek-religion` | have (PG 78248) |
+| Primitive Athens as Described by Thucydides |  | `jane-harrison-primitive-athens` | have (PG 73789) |
+| Ancient Art and Ritual |  | `jane-harrison-ancient-art-ritual` | have (PG 17087) |
+
+Excluded: PG 75986 (Reminiscences of a Student's Life) (memoir, outside the brief)
+
+## L. R. Farnell (scholarship)
+
+Shelf: `pipeline/farnell_shelf.json`. Lewis Richard Farnell (1856-1934), Rector of Exeter College, Oxford: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Outline-History of Greek Religion |  | `farnell-outline-history-greek-religion` | have (PG 71402) |
+| Greece and Babylon |  | `farnell-greece-and-babylon` | have (PG 71562) |
+
+Excluded: PG 71722 (The Evolution of Religion) (comparative religion, outside the classical brief)
+
+## F. Haverfield (scholarship)
+
+Shelf: `pipeline/haverfield_shelf.json`. Francis Haverfield (1860-1919), Camden Professor at Oxford: 3 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Romanization of Roman Britain |  | `haverfield-romanization-roman-britain` | have (PG 14173) |
+| Ancient Town-Planning |  | `haverfield-ancient-town-planning` | have (PG 14189) |
+| Roman Britain in 1914 |  | `haverfield-roman-britain-1914` | have (PG 19115) |
+
+## Rodolfo Lanciani (scholarship)
+
+Shelf: `pipeline/lanciani_shelf.json`. Rodolfo Lanciani (1847-1929), Roman archaeologist, writing in English: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Pagan and Christian Rome |  | `lanciani-pagan-christian-rome` | have (PG 22153) |
+
+## G. W. Botsford (scholarship)
+
+Shelf: `pipeline/botsford_shelf.json`. George Willis Botsford (1862-1917), Columbia: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Roman Assemblies from Their Origin to the End of the Republic |  | `botsford-roman-assemblies` | have (PG 68419) |
+
+Excluded: PG 49923, 51110 (The Mentor issues) (magazine pieces)
+
+## G. B. Grundy (scholarship)
+
+Shelf: `pipeline/grundy_shelf.json`. George Beardoe Grundy (1861-1948), Oxford: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Great Persian War and Its Preliminaries |  | `grundy-great-persian-war` | have (PG 72704) |
+
+## W. E. Heitland (scholarship)
+
+Shelf: `pipeline/heitland_shelf.json`. William Emerton Heitland (1847-1935), St John's College, Cambridge: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Agricola: a study of agriculture and rustic life in the Greco-Roman world |  | `heitland-agricola` | have (PG 74220) |
+
+## B. G. Niebuhr (scholarship)
+
+Shelf: `pipeline/niebuhr_shelf.json`. Barthold Georg Niebuhr (1776-1831) in English: Lectures on Roman History, ed. Isler, tr. H. M. Chepmell and F. Demmler (1875, 3 vols.), and Lectures on Ancient Ethnography and Geography, tr. Leonhard Schmitz (2 vols.): 5 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Niebuhr's Lectures on Roman History, vol. 1 | H. M. Chepmell and F. Demmler | `niebuhr-lectures-roman-history-v1` | have (PG 71375) |
+| Niebuhr's Lectures on Roman History, vol. 2 | H. M. Chepmell and F. Demmler | `niebuhr-lectures-roman-history-v2` | have (PG 71385) |
+| Niebuhr's Lectures on Roman History, vol. 3 | H. M. Chepmell and F. Demmler | `niebuhr-lectures-roman-history-v3` | have (PG 75732) |
+| Lectures on Ancient Ethnography and Geography, vol. 1 | Leonhard Schmitz | `niebuhr-lectures-ethnography-geography-v1` | have (PG 78451) |
+| Lectures on Ancient Ethnography and Geography, vol. 2 | Leonhard Schmitz | `niebuhr-lectures-ethnography-geography-v2` | have (PG 78452) |
+
+## Kenneth J. Freeman (scholarship)
+
+Shelf: `pipeline/k-j-freeman_shelf.json`. Kenneth John Freeman (1882-1906); ed. M. J. Rendall, introduction by A. W. Verrall: 1 clean Gutenberg text. Initials in the shelf name keep him apart from Edward A. Freeman. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Schools of Hellas: an essay on the practice and theory of ancient Greek education from 600 to 300 B.C. |  | `freeman-schools-of-hellas` | have (PG 63644) |
+
+## Percy Gardner (scholarship)
+
+Shelf: `pipeline/percy-gardner_shelf.json`. Percy Gardner (1846-1937), Oxford classical archaeologist: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Sculptured Tombs of Hellas |  | `percy-gardner-sculptured-tombs-hellas` | have (PG 69508) |
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.
