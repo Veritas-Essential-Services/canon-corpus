@@ -721,3 +721,6 @@
 
 ## 2026-10-10 09:25 CDT — adam-clarke done
 - `pipeline/adam-clarke_shelf.json`: 1 CCEL, 0 PG, 14 IA. Commentary is 42 MB of OCR, the largest set this lane holds. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 09:25 CDT — william-burt-pope done
+- `pipeline/william-burt-pope_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for wbpope-compendium-1, wbpope-prayers-st-paul-1876 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

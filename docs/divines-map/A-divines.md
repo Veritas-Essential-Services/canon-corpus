@@ -2369,3 +2369,18 @@ Slugs `aclarke-*`. The Commentary set is mixed: OT vol. 4 is 1843, the rest 1846
 | Clavis Biblica, in The Preacher's Manual (New York: N. Bangs & T. Mason; no year on the title page, catalogued 1821) | have-ocr | IA `preachersmanuali00clar` |
 | Memoirs of the Wesley Family (New York: N. Bangs & T. Mason, 1824) | have-ocr | IA `memoirsofwesleyf00clar_0` |
 | An Account of the Religious and Literary Life of Adam Clarke, ed. J. B. B. Clarke (New York: T. Mason & G. Lane, 1837) | have-ocr | IA `accountofreligio00clar` |
+
+## William Burt Pope (round 15, my pick, 2026-10-10)
+
+Slugs `wbpope-*`. Compendium vol. 2's title page OCR reads 1877, against 1879 for vols. 1 and 3.
+
+| Work | Status | Where |
+|---|---|---|
+| A Compendium of Christian Theology, second edition, vol. 1 (London: Wesleyan Conference Office, 1879) | have-ocr | IA `compendiumofchri01pope` |
+| A Compendium of Christian Theology, second edition, vol. 2 (London: Wesleyan Conference Office; title page OCR reads 1877, against 1879 for vols. 1 and 3) | have-ocr | IA `compendiumofchri02pope` |
+| A Compendium of Christian Theology, second edition, vol. 3 (London: Wesleyan Conference Office, 1879) | have-ocr | IA `compendiumofchri03pope` |
+| The Person of Christ: Dogmatic, Scriptural, Historical, the Fernley Lecture of 1871, second edition (London: Wesleyan Conference Office, 1875) | have-ocr | IA `personofchristdo00pope` |
+| The Prayers of St. Paul (London: Wesleyan Conference Office, 1876) | have-ocr | IA `prayersofstpaulb00pope` |
+| A Higher Catechism of Theology (London: T. Woolmer, 1883) | have-ocr | IA `highercatechismo00pope_0` |
+| The Inward Witness and Other Discourses (London: T. Woolmer, 1885) | have-ocr | IA `inwardwitnessan00popegoog` |
+| the one-volume first edition (London, 1875; IA compendiumofchri0000wbpo, a "0000"-style id): superseded by the enlarged second edition | alternate | not shelved |
