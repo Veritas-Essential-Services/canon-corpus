@@ -107,7 +107,7 @@ The Song of Roland is already held on Lane C's `scott-moncrieff` shelf.
 
 ### Batch 4 (2026-10-10): American documents and essays
 
-15 shelves, 29 texts, all checks passed. 27 Gutenberg texts are converted (about 25,600 units); Gentz and Bradstreet are Internet Archive scans and stay raw OCR.
+15 shelves, 28 texts, all checks passed. 26 Gutenberg texts are converted (about 25,600 units); Gentz and Bradstreet are Internet Archive scans and stay raw OCR.
 
 | Shelf | Works |
 |---|---|
@@ -131,7 +131,7 @@ Beyond Good and Evil is already held on Lane C's `levy-nietzsche`. Still to find
 
 ### Batch 5 (2026-10-10): poets, philosophy and the 1920s
 
-15 shelves, 34 texts, all checks passed. 32 Gutenberg texts are converted (about 45,000 units); Galileo and Mencken are Internet Archive scans and stay raw OCR. The 1920s books are US public domain only; each shelf's `_about` gives the year its UK copyright ends.
+15 shelves, 29 texts, all checks passed. 27 Gutenberg texts are converted (about 45,000 units); Galileo and Mencken are Internet Archive scans and stay raw OCR. The 1920s books are US public domain only; each shelf's `_about` gives the year its UK copyright ends.
 
 | Shelf | Works |
 |---|---|
