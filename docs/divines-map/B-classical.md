@@ -3464,6 +3464,7 @@ Shelf: `pipeline/oman_shelf.json`. Seven Roman Statesmen of the Later Republic (
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Seven Roman Statesmen of the Later Republic (London: Edward Arnold, 1902; impression of 1929) |  | `oman-seven-roman-statesmen-1929` | have-raw (IA `cu31924028296345`) |
 
 ## Perseus census (overflow)
 
