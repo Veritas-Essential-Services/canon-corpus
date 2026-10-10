@@ -3106,6 +3106,7 @@ Shelf: `pipeline/gow_shelf.json`. A Companion to School Classics, 2nd ed., 1889.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Companion to School Classics, second edition, revised (London and New York: Macmillan, 1889) |  | `gow-companion-school-classics-1889` | have-raw (IA `companiontoschoo00gowjuoft`) |
 
 ## Perseus census (overflow)
 
