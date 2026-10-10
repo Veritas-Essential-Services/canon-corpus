@@ -868,3 +868,6 @@
 
 ## 2026-10-10 12:46 CDT — thomas-c-upham done
 - `pipeline/thomas-c-upham_shelf.json`: 0 CCEL, 0 PG, 11 IA. Title pages read for upham-religious-maxims, upham-divine-union, upham-ratio-disciplinae (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:46 CDT — moses-d-hoge done
+- `pipeline/moses-d-hoge_shelf.json`: 0 CCEL, 0 PG, 5 IA. Small shelf: most surviving material is about him. `--verify --record`: 0 mismatched. 0 uids minted.

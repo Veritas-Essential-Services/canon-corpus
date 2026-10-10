@@ -2254,10 +2254,12 @@
     },
     {
       "id": "moses-d-hoge",
-      "status": "queued",
+      "status": "done",
       "scope": "Moses D. Hoge (d. 1899): sermons; Southern Presbyterian, Richmond",
       "added": "2026-10-10T12:26:55-05:00",
-      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held."
+      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T12:46:41-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "charles-p-krauth",

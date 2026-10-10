@@ -1,0 +1,108 @@
+{
+ "_about": "Public-domain Moses D. Hoge (Moses Drury Hoge, 1818-1899, Second Presbyterian Church, Richmond) for the Word Hoard: The Perfection of Beauty and Other Sermons (posthumous, 1904) and four sermons and addresses (1855-1875), raw Internet Archive OCR. A small shelf: most of what survives is by others about him. Not his grandfather Moses Hoge (1752-1820). Added 2026-10-10 by lane A, round 19 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "hoge"
+ ],
+ "_surname": [
+  "moses d. hoge",
+  "m. d. hoge",
+  "moses drury hoge",
+  "hoge, moses d.",
+  "rev. moses d. hoge",
+  "moses d. hoge, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hoge-honorable-old-age": [
+   "honorable-old-age-a-sermon",
+   "Honorable Old Age: A Sermon at the Funeral of Capt. Benjamin Sheppard (Richmond: H. K. Ellyson, 1855)",
+   "Honorable Old Age, A Sermon_djvu.txt"
+  ],
+  "hoge-christian-statesman": [
+   "thechristianstat01hoge",
+   "The Christian Statesman: A Discourse at the Funeral of John Hemphill (Richmond: Enquirer Book and Job Office, 1862)"
+  ],
+  "hoge-mission-field-south": [
+   "mission-field-of-the-south-hoge-1873",
+   "Mission Field of the South, an address to the Evangelical Alliance (Richmond: Whig Job Office, 1873)",
+   "Mission Field of the South_Hoge_1873_djvu.txt"
+  ],
+  "hoge-jackson-statue": [
+   "inaugurationofja00virg",
+   "Inauguration of the Jackson Statue: Introductory Address of Governor Kemper, and Oration of Moses D. Hoge (Richmond: R. F. Walker, 1875; a civic oration, shared with Kemper)"
+  ],
+  "hoge-perfection-of-beauty": [
+   "perfectionofbeau00hoge",
+   "The Perfection of Beauty and Other Sermons (Richmond: Presbyterian Committee of Publication, 1904; posthumous)"
+  ]
+ },
+ "_alternates": {
+  "hoge-biographies": "Moses Drury Hoge: Life and Letters, by Peyton Harrison Hoge (copyright 1899; IA mosesdruryhogeli00hoge); Life and Labors of Moses D. Hoge (anonymous, 1899); the 1899 memorial service; the 1890 forty-fifth anniversary commemoration",
+  "hoge-perfection-copy": "The Perfection of Beauty, second copy (IA perfectionofbea00hoge)",
+  "moses-hoge-grandfather": "His grandfather Moses Hoge (1752-1820): Sermons Selected from the Manuscripts (1821; IA sermonsselectedf00hoge) and Strictures upon a Pamphlet by Jeremiah Walker (1793): a different author, not shelved here"
+ },
+ "_excluded": {
+  "hoge-broadside": "Appeal to the People of Virginia (1865): committee broadside, author from catalogue only",
+  "hoge-contributions": "Proceedings in Memoriam of Moncure and Ould (1883) and the Cooke Stonewall Jackson biography: contributions only",
+  "hoge-brother": "The Victory Won, a memorial of his brother W. J. Hoge, by T. V. Moore"
+ },
+ "_checks": {
+  "hoge-honorable-old-age": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "moses d. hoge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hoge-christian-statesman": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "moses d. hoge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hoge-mission-field-south": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "moses d. hoge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hoge-jackson-statue": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "moses d. hoge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hoge-perfection-of-beauty": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "moses d. hoge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

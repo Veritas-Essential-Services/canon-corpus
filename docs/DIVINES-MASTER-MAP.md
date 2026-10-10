@@ -3324,6 +3324,24 @@ Slugs `upham-*`. Bowdoin professor and holiness writer. Eleven books, among them
 | PG 30083 Letters of Madam Guyon, ed. Mrs. T. C. Upham | excluded | |
 | 1954-1984 reprints | excluded | |
 | Charles Wentworth Upham and others | excluded | |
+
+## Moses D. Hoge (round 19, my pick, 2026-10-10)
+
+Slugs `hoge-*`. Southern Presbyterian of Richmond. Five items; the biographies of him and his grandfather's works are alternates.
+
+| Work | Status | Where |
+|---|---|---|
+| Honorable Old Age: A Sermon at the Funeral of Capt. Benjamin Sheppard (Richmond: H. K. Ellyson, 1855) | have-ocr | IA `honorable-old-age-a-sermon` |
+| The Christian Statesman: A Discourse at the Funeral of John Hemphill (Richmond: Enquirer Book and Job Office, 1862) | have-ocr | IA `thechristianstat01hoge` |
+| Mission Field of the South, an address to the Evangelical Alliance (Richmond: Whig Job Office, 1873) | have-ocr | IA `mission-field-of-the-south-hoge-1873` |
+| Inauguration of the Jackson Statue: Introductory Address of Governor Kemper, and Oration of Moses D. Hoge (Richmond: R. F. Walker, 1875; a civic oration, shared with Kemper) | have-ocr | IA `inaugurationofja00virg` |
+| The Perfection of Beauty and Other Sermons (Richmond: Presbyterian Committee of Publication, 1904; posthumous) | have-ocr | IA `perfectionofbeau00hoge` |
+| Moses Drury Hoge: Life and Letters, by Peyton Harrison Hoge (copyright 1899; IA mosesdruryhogeli00hoge); Life and Labors of Moses D. Hoge (anonymous, 1899); the 1899 memorial service; the 1890 forty-fifth anniversary commemoration | alternate | not shelved |
+| The Perfection of Beauty, second copy (IA perfectionofbea00hoge) | alternate | not shelved |
+| His grandfather Moses Hoge (1752-1820): Sermons Selected from the Manuscripts (1821; IA sermonsselectedf00hoge) and Strictures upon a Pamphlet by Jeremiah Walker (1793): a different author, not shelved here | alternate | not shelved |
+| Appeal to the People of Virginia (1865): committee broadside, author from catalogue only | excluded | |
+| Proceedings in Memoriam of Moncure and Ould (1883) and the Cooke Stonewall Jackson biography: contributions only | excluded | |
+| The Victory Won, a memorial of his brother W. J. Hoge, by T. V. Moore | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
