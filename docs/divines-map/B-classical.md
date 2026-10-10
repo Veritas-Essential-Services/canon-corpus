@@ -3285,6 +3285,8 @@ Shelf: `pipeline/middleton_shelf.json`. The Remains of Ancient Rome, 2 vols. (A.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Remains of Ancient Rome, vol. I (London: A. and C. Black, 1892) |  | `middleton-remains-ancient-rome-v1-1892` | have-raw (IA `remainsofancient01midd`) |
+| The Remains of Ancient Rome, vol. II (London: A. and C. Black, 1892) |  | `middleton-remains-ancient-rome-v2-1892` | have-raw (IA `remainsofancient02midd`) |
 
 ## William Ramsay (scholarship)
 
