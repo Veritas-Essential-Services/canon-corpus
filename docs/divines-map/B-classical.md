@@ -1140,6 +1140,7 @@ Shelf: `pipeline/juvenal_shelf.json`. Evans's literal prose with Gifford's verse
 | A Translation of Juvenal and Persius into English verse, second edition, with a new translation of Persius instead of Dr. Brewster's (London: Rivington and others, MDCCLXXXVI) | Edward Owen | `juvenal-persius-owen-1786` | have-raw (IA `atranslationjuv00persgoog`) |
 | Juvenal and Persius literally translated for the use of students (London: Whittaker, Treacher, 1829) | William Smart | `juvenal-persius-smart-1829` | have-raw (IA `juvenalandpersi01persgoog`) |
 | The Satires of Juvenal and Persius literally translated (London: Sampson Low, 1848) | W. Wallace | `juvenal-persius-wallace-1848` | have-raw (IA `satiresjuvenala00persgoog`) |
+| A New Translation, with Notes, of the Third Satire of Juvenal, to which are added miscellaneous poems original and translated (New York: E. Sargeant, 1806) | anonymous (catalogue attribution: John Duer) | `juvenal-duer-third-satire-1806` | have-raw (IA `thirdsatirejuvenal00nonerich`) |
 
 
 ## Plautus and Terence
@@ -1975,7 +1976,6 @@ Shelf: `pipeline/phaedrus_shelf.json`. Riley's prose with Smart's verse (Gutenbe
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Fables of Phaedrus | Henry T. Riley (prose) and Christopher Smart (verse) | `phaedrus-riley-smart` | have (PG 25512) |
-| A Poetical Version of the Fables of Phaedrus, with an appendix of four fables by Gudius (preface dated January 1, 1854) | Frederick Toller | `phaedrus-toller-1854` | have-raw (IA `poeticalversiono00phae`) |
 
 ## Justin, Nepos, Eutropius, Florus, Velleius
 
