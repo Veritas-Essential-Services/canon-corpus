@@ -3302,6 +3302,7 @@ Shelf: `pipeline/christopher-wordsworth_shelf.json`. Athens and Attica, 2nd ed. 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Athens and Attica: Journal of a Residence There, second edition (London: John Murray, 1837) |  | `christopher-wordsworth-athens-attica-1837` | have-raw (IA `athensatticajour00word`) |
 
 ## Perseus census (overflow)
 
