@@ -287,7 +287,7 @@ Round 13 was done by 06:48 CDT on 3 October. Round 14 turns to Victorian Anglica
 | Jonathan Dickinson | jonathan-dickinson_shelf.json | none | 3 (Familiar Letters 1841 ed.; True Scripture Doctrine 1841 ed.; Sermons and Tracts, Edinburgh 1793) | none | the 1793 volume's OCR is 83% (long s) |
 | John Davenport | john-davenport_shelf.json | none | 5 (Election Sermon of 1669, 1906 ed.; Knowledge of Christ 1653; Another Essay 1663; Power of Congregational Churches 1672; Apologeticall Reply 1636) | Catechisme 1659 (OCR is noise); Discourse about Civil Government (title page says Cotton) | four are Early English Books scans, OCR 81-87% |
 
-Round 14 finished 2026-10-09 22:20 CDT, on your restart: 16 shelves, 118 volumes, every one past `--verify --record` with 0 mismatched; 0 uids minted. Nine title pages whose OCR garbles the name ("CAIKNS", "GEOEGE MATHESON", "M 0 Z L E Y") were read and recorded in `_identity_checked` rather than adding garbled name forms. Two items left out: Davenport's Catechisme (OCR is noise) and A Discourse about Civil Government (its title page names John Cotton).
+Round 14 finished 2026-10-09 22:20 CDT, on your restart: 16 shelves, 112 volumes, every one past `--verify --record` with 0 mismatched; 0 uids minted. Eight title pages whose OCR garbles the name ("CAIKNS", "GEOEGE MATHESON", "M 0 Z L E Y") were read and recorded in `_identity_checked` rather than adding garbled name forms. Two items left out: Davenport's Catechisme (OCR is noise) and A Discourse about Civil Government (its title page names John Cotton).
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
