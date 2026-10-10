@@ -513,6 +513,8 @@ Shelf: `pipeline/herodotus_shelf.json`. Macaulay complete across two shelves (vo
 | Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. III | William Beloe | `herodotus-beloe-1821-v3` | have-raw (IA `india.history.resource.86418`) |
 | Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. IV | William Beloe | `herodotus-beloe-1821-v4` | have-raw (IA `india.history.resource.86419`) |
 | Histories | A. D. Godley (1920-25; modernized by Perseus) | `herodotus-perseus-godley-histories` | have (Perseus TEI `tlg0016.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Nine Books of the History of Herodotus, translated from the text of Thomas Gaisford, with notes, vol. I (Oxford: Henry Slatter, 1827) | Peter Edmund Laurent | `herodotus-laurent-1827-v1` | have-raw (IA `ninebooksofhisto01herdiala`) |
+| The Nine Books of the History of Herodotus, vol. II (Oxford: Henry Slatter, 1827) | Peter Edmund Laurent | `herodotus-laurent-1827-v2` | have-raw (IA `ninebooksofhisto02herdiala`) |
 
 Pending (wishlist): none here: Godley's Loeb (1920-25) is on PR #7 as Perseus TEI.
 
