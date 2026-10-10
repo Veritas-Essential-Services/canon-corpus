@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Lucie, Lady Duff Gordon (1821-1869): Meinhold's The Amber Witch (1844) and The French in Algiers (1845). Her own Letters from Egypt and from the Cape are not translations and are not shelved here. US public domain. Added 2026-10-10 by lane C (round 19); Adam may veto. No uids minted.",
+ "_name_words": [
+  "duff gordon"
+ ],
+ "_surname": [
+  "duff gordon"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "dgo-58081": [
+   58081,
+   "The French in Algiers The Soldier of the Foreign Legion; and The Prisoners of Abd-el-Kader"
+  ],
+  "dgo-8743": [
+   8743,
+   "Mary Schweidler, the amber witch The most interesting trial for witchcraft ever known, printed from an imperfect manuscript by her father, Abraham Schweidler, the pastor of Coserow in the island of Usedom / edited by W. Meinhold ; translated from the German by Lady Duff Gordon."
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "duff-gordon-lamping-alby-the-french-in-algiers": {
+   "source": "dgo-58081",
+   "of": "Clemens Lamping; Ernest Alby",
+   "work": "The French in Algiers: The Soldier of the Foreign Legion; and The Prisoners of Abd-el-Kader",
+   "translated": "1844-1845 (see the Gutenberg header)",
+   "translator": "Lucie Duff Gordon",
+   "scan_edition": "Project Gutenberg 58081 (clean text)"
+  },
+  "duff-gordon-meinhold-mary-schweidler-the-amber-witch-the-most": {
+   "source": "dgo-8743",
+   "of": "Wilhelm Meinhold",
+   "work": "Mary Schweidler, the amber witch The most interesting trial for witchcraft ever known, printed from an imperfect manuscript by her father, Abraham Schweidler, the pastor of Coserow in the island of Usedom / edited by W. Meinhold ; translated from the German by Lady Duff Gordon.",
+   "translated": "1844-1845 (see the Gutenberg header)",
+   "translator": "Lucie Duff Gordon",
+   "scan_edition": "Project Gutenberg 8743 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "dgo-58081": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "duff gordon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lady Lucie Duff Gordon"
+  },
+  "dgo-8743": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "duff gordon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lady Lucie Duff Gordon"
+  }
+ },
+ "_verified": {
+  "dgo-58081": {
+   "pg": 58081,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lady Lucie Duff Gordon"
+  },
+  "dgo-8743": {
+   "pg": 8743,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lady Lucie Duff Gordon"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T10:41-05:00: 68 shelves, 429 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65. **13 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T10:53-05:00: 72 shelves, 498 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69. **13 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -205,3 +205,17 @@ Three new shelves, 65 titles, all from Gutenberg, with the translator line read 
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Your call:** none beyond the veto.
+
+
+## Round 19: Teixeira de Mattos, and three Victorian women translators (2026-10-10)
+
+Four new shelves, 69 titles, all from Gutenberg, with the translator read in every header or title page:
+
+- **`teixeira-de-mattos`** (59): Alexander Teixeira de Mattos (d. 1921). Fabre's insect books (16), Maeterlinck's essays and plays (15), Couperus's novels (11, including the four-part *Small Souls* sequence), Leblanc's Arsène Lupin and others (8), Chateaubriand's *Memoirs* (6 volumes), plus Tocqueville's *Recollections*, Streuvels and Paoli. Two Fabre volumes share chapters with Bernard Miall, and two Maeterlinck essays are Sutro's; each is noted. Left out: three retellings for children and Carl Ewald, who has his own shelf on another lane.
+- **`serrano`** (6): Mary J. Serrano's Galdós (*Doña Perfecta*), Pardo Bazán (3), Zola's *Doctor Pascal* and Eça de Queirós.
+- **`mary-howitt`** (2): Mary Howitt's Fredrika Bremer. Her Andersen is already on andersen_shelf.json.
+- **`duff-gordon`** (2): Lady Duff Gordon's *The Amber Witch* and *The French in Algiers*.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** none beyond the veto. Note for the Ewald shelf's owner: Teixeira de Mattos's *My Little Boy* (PG 35543) and *The Old Room* (PG 62883) are not on it yet.

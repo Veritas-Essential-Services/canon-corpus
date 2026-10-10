@@ -6329,6 +6329,113 @@ Round 18 (2026-10-10), vetoable. His Cousin Betty is held on adler_shelf.json. N
 | `waring-balzac-cousin-betty` | Honoré de Balzac | Cousin Betty | James Waring | 1895-1900 (Dent, ed. George Saintsbury) | held elsewhere (cross-ref) | `pipeline/adler_shelf.json` → `balzac-cousinbette` (PG 1749) |
 | — | — | pg-7929: Parisians in the Country is the series title over The Illustrious Gaudissart and The Muse of the Department; Waring's Muse is shelved singly and Gaudissart is Wormeley's (wormeley_shelf.json). | — | — | excluded | — |
 
+## Alexander Teixeira de Mattos (Fabre, Maeterlinck, Couperus, Leblanc, Chateaubriand)
+
+Shelf: `pipeline/teixeira-de-mattos_shelf.json` · fetch `python3 pipeline/fetch_shelf.py teixeira-de-mattos` · titles `python3 pipeline/split_shelf_titles.py teixeira-de-mattos`.
+Round 19 (2026-10-10), vetoable. Carl Ewald is left to the other lane's ewald_shelf.json. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `teixeira-de-mattos-chateaubriand-memoirs-vol-1` | François-René Chateaubriand | The Memoirs of François René, Vicomte de Chateaubriand, vol. 1 of 6 | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 54743 |
+| `teixeira-de-mattos-chateaubriand-memoirs-vol-2` | François-René Chateaubriand | The Memoirs of François René, Vicomte de Chateaubriand, vol. 2 of 6 | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 54788 |
+| `teixeira-de-mattos-chateaubriand-memoirs-vol-3` | François-René Chateaubriand | The Memoirs of François René, Vicomte de Chateaubriand, vol. 3 of 6 | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 54807 |
+| `teixeira-de-mattos-chateaubriand-memoirs-vol-4` | François-René Chateaubriand | The Memoirs of François René, Vicomte de Chateaubriand, vol. 4 of 6 | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 54879 |
+| `teixeira-de-mattos-chateaubriand-memoirs-vol-5` | François-René Chateaubriand | The Memoirs of François René, Vicomte de Chateaubriand, vol. 5 of 6 | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 55070 |
+| `teixeira-de-mattos-chateaubriand-memoirs-vol-6` | François-René Chateaubriand | The Memoirs of François René, Vicomte de Chateaubriand, vol. 6 of 6 | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 55124 |
+| `teixeira-de-mattos-couperus-dr-adriaan` | Louis Couperus | Dr. Adriaan | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 34761 |
+| `teixeira-de-mattos-couperus-ecstasy-a-study-of-happiness-a-novel` | Louis Couperus | Ecstasy, A Study of Happiness: A Novel | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 37770 |
+| `teixeira-de-mattos-couperus-majesty-a-novel` | Louis Couperus | Majesty: A Novel | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 33779 |
+| `teixeira-de-mattos-couperus-old-people-and-the-things-that-pass` | Louis Couperus | Old People and the Things That Pass | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 48271 |
+| `teixeira-de-mattos-couperus-small-souls` | Louis Couperus | Small Souls | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 34021 |
+| `teixeira-de-mattos-couperus-the-hidden-force-a-story-of-modern-java` | Louis Couperus | The Hidden Force: A Story of Modern Java | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 34725 |
+| `teixeira-de-mattos-couperus-the-inevitable` | Louis Couperus | The Inevitable | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 43005 |
+| `teixeira-de-mattos-couperus-the-later-life` | Louis Couperus | The Later Life | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 37578 |
+| `teixeira-de-mattos-couperus-the-law-inevitable` | Louis Couperus | The Law Inevitable | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 43827 |
+| `teixeira-de-mattos-couperus-the-tour-a-story-of-ancient-egypt` | Louis Couperus | The Tour: A Story of Ancient Egypt | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 37497 |
+| `teixeira-de-mattos-couperus-the-twilight-of-the-souls` | Louis Couperus | The Twilight of the Souls | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 34458 |
+| `teixeira-de-mattos-fabre-bramble-bees-and-others` | Jean-Henri Fabre | Bramble-Bees and Others | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 3421 |
+| `teixeira-de-mattos-fabre-more-beetles` | Jean-Henri Fabre | More Beetles | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 67201 |
+| `teixeira-de-mattos-fabre-more-hunting-wasps` | Jean-Henri Fabre | More Hunting Wasps | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 3462 |
+| `teixeira-de-mattos-fabre-the-glow-worm-and-other-beetles` | Jean-Henri Fabre | The Glow-Worm and Other Beetles | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 27868 |
+| `teixeira-de-mattos-fabre-the-hunting-wasps` | Jean-Henri Fabre | The Hunting Wasps | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 67110 |
+| `teixeira-de-mattos-fabre-the-life-and-love-of-the-insect` | Jean-Henri Fabre | The Life and Love of the Insect | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 68974 |
+| `teixeira-de-mattos-fabre-the-life-of-the-caterpillar` | Jean-Henri Fabre | The Life of the Caterpillar | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 66762 |
+| `teixeira-de-mattos-fabre-the-life-of-the-fly-with-which-are-inter` | Jean-Henri Fabre | The Life of the Fly; With Which are Interspersed Some Chapters of Autobiography | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 3422 |
+| `teixeira-de-mattos-fabre-the-life-of-the-grasshopper` | Jean-Henri Fabre | The Life of the Grasshopper | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 66650 |
+| `teixeira-de-mattos-fabre-the-life-of-the-scorpion` | Jean-Henri Fabre | The Life of the Scorpion | Alexander Teixeira de Mattos (with Bernard Miall) | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 66744 |
+| `teixeira-de-mattos-fabre-the-life-of-the-spider` | Jean-Henri Fabre | The Life of the Spider | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 1887 |
+| `teixeira-de-mattos-fabre-the-life-of-the-weevil` | Jean-Henri Fabre | The Life of the Weevil | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 66844 |
+| `teixeira-de-mattos-fabre-the-mason-bees` | Jean-Henri Fabre | The Mason-Bees | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 2884 |
+| `teixeira-de-mattos-fabre-the-mason-wasps` | Jean-Henri Fabre | The Mason-Wasps | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 66854 |
+| `teixeira-de-mattos-fabre-the-sacred-beetle-and-others` | Jean-Henri Fabre | The Sacred Beetle, and Others | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 66743 |
+| `teixeira-de-mattos-fabre-the-wonders-of-instinct-chapters-in-the` | Jean-Henri Fabre | The Wonders of Instinct: Chapters in the Psychology of Insects | Alexander Teixeira de Mattos (with Bernard Miall) | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 3754 |
+| `teixeira-de-mattos-leblanc-813` | Maurice Leblanc | 813 | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 34758 |
+| `teixeira-de-mattos-leblanc-the-choice-of-life` | Georgette Leblanc | The Choice of Life | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 22411 |
+| `teixeira-de-mattos-leblanc-the-eyes-of-innocence` | Maurice Leblanc | The eyes of innocence | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 73662 |
+| `teixeira-de-mattos-leblanc-the-frontier` | Maurice Leblanc | The Frontier | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 28480 |
+| `teixeira-de-mattos-leblanc-the-hollow-needle-further-adventures-of` | Maurice Leblanc | The Hollow Needle; Further adventures of Arsène Lupin | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 4017 |
+| `teixeira-de-mattos-leblanc-the-secret-of-sarek` | Maurice Leblanc | The Secret of Sarek | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 34939 |
+| `teixeira-de-mattos-leblanc-the-three-eyes` | Maurice Leblanc | The Three Eyes | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 34653 |
+| `teixeira-de-mattos-leblanc-the-tremendous-event` | Maurice Leblanc | The Tremendous Event | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 33386 |
+| `teixeira-de-mattos-maeterlinck-death` | Maurice Maeterlinck | Death | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 31354 |
+| `teixeira-de-mattos-maeterlinck-gleanings-from-maeterlinck` | Maurice Maeterlinck | Gleanings from Maeterlinck | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 67625 |
+| `teixeira-de-mattos-maeterlinck-joyzelle` | Maurice Maeterlinck | Joyzelle | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 47486 |
+| `teixeira-de-mattos-maeterlinck-mary-magdalene-a-play-in-three-acts` | Maurice Maeterlinck | Mary Magdalene: A Play in Three Acts | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 67806 |
+| `teixeira-de-mattos-maeterlinck-mountain-paths` | Maurice Maeterlinck | Mountain Paths | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 66893 |
+| `teixeira-de-mattos-maeterlinck-old-fashioned-flowers-and-other-out-of-d` | Maurice Maeterlinck | Old Fashioned Flowers, and other out-of-door studies | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 55591 |
+| `teixeira-de-mattos-maeterlinck-our-eternity` | Maurice Maeterlinck | Our Eternity | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 50399 |
+| `teixeira-de-mattos-maeterlinck-our-friend-the-dog` | Maurice Maeterlinck | Our Friend the Dog | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 18214 |
+| `teixeira-de-mattos-maeterlinck-the-betrothal-a-sequel-to-the-blue-bird` | Maurice Maeterlinck | The Betrothal A Sequel to the Blue Bird; A Fairy Play in Five Acts and Eleven Scenes | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 34343 |
+| `teixeira-de-mattos-maeterlinck-the-blue-bird-a-fairy-play-in-six-acts` | Maurice Maeterlinck | The Blue Bird: A Fairy Play in Six Acts | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 8606 |
+| `teixeira-de-mattos-maeterlinck-the-burgomaster-of-stilemonde-a-play-in` | Maurice Maeterlinck | The Burgomaster of Stilemonde: A Play in Three Acts | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 47830 |
+| `teixeira-de-mattos-maeterlinck-the-double-garden` | Maurice Maeterlinck | The Double Garden | Alexander Teixeira de Mattos (with Alfred Sutro) | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 48504 |
+| `teixeira-de-mattos-maeterlinck-the-miracle-of-saint-anthony` | Maurice Maeterlinck | The miracle of Saint Anthony | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 70550 |
+| `teixeira-de-mattos-maeterlinck-the-unknown-guest` | Maurice Maeterlinck | The Unknown Guest | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 2033 |
+| `teixeira-de-mattos-maeterlinck-the-wrack-of-the-storm` | Maurice Maeterlinck | The Wrack of the Storm | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 17861 |
+| `teixeira-de-mattos-paoli-their-majesties-as-i-knew-them-personal` | Xavier Paoli | Their Majesties as I Knew Them Personal Reminiscences of the Kings and Queens of Europe | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 45786 |
+| `teixeira-de-mattos-streuvels-the-path-of-life` | Stijn Streuvels | The Path of Life | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 8437 |
+| `teixeira-de-mattos-tocqueville-the-recollections-of-alexis-de-tocquevil` | Alexis de Tocqueville | The Recollections of Alexis de Tocqueville | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 37892 |
+| — | — | pg-27991: The Blue Bird for Children: Perkins's retelling for schools, not the play. | — | — | excluded | — |
+| — | — | pg-45812: Insect Adventures: Louise Zimm's selection for children from the translation. | — | — | excluded | — |
+| — | — | pg-67000: Fabre's Book of Insects: Mrs Rodolph Stawell's retelling, not the translation itself. | — | — | excluded | — |
+| — | — | pg-28755: A 6 KB Gutenberg stub for The Hollow Needle; the full text is 4017. | — | — | excluded | — |
+| — | — | ewald: Carl Ewald (31167, 31708, 35543, 62883, 62910, 62912, 65029): Ewald has his own shelf on another lane (ewald_shelf.json), which already holds five of these; the two it lacks (My Little Boy 35543, The Old Room 62883) are left for that shelf's owner. | — | — | excluded | — |
+
+## Mary J. Serrano (Galdós, Pardo Bazán, Zola, Eça de Queirós)
+
+Shelf: `pipeline/serrano_shelf.json` · fetch `python3 pipeline/fetch_shelf.py serrano` · titles `python3 pipeline/split_shelf_titles.py serrano`.
+Round 19 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `serrano-bazan-a-wedding-trip` | Emilia Pardo Bazán | A Wedding Trip | Mary J. Serrano | 1889-1895 (see the Gutenberg header) | have | PG 54577 |
+| `serrano-bazan-morrina-homesickness` | Emilia Pardo Bazán | Morriña (Homesickness) | Mary J. Serrano | 1889-1895 (see the Gutenberg header) | have | PG 54742 |
+| `serrano-bazan-the-swan-of-vilamorta` | Emilia Pardo Bazán | The Swan of Vilamorta | Mary J. Serrano | 1889-1895 (see the Gutenberg header) | have | PG 54105 |
+| `serrano-galdos-dona-perfecta` | Benito Pérez Galdós | Doña Perfecta | Mary J. Serrano | 1889-1895 (see the Gutenberg header) | have | PG 2462 |
+| `serrano-queiros-dragon-s-teeth` | Eça de Queirós | Dragon's teeth | Mary J. Serrano | 1889-1895 (see the Gutenberg header) | have | PG 74442 |
+| `serrano-zola-doctor-pascal` | Émile Zola | Doctor Pascal | Mary J. Serrano | 1889-1895 (see the Gutenberg header) | have | PG 10720 |
+
+## Mary Howitt (Fredrika Bremer)
+
+Shelf: `pipeline/mary-howitt_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mary-howitt` · titles `python3 pipeline/split_shelf_titles.py mary-howitt`.
+Round 19 (2026-10-10), vetoable. Her Andersen is on andersen_shelf.json. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `mary-howitt-bremer-strife-and-peace` | Fredrika Bremer | Strife and Peace | Mary Howitt | 1843-1844 (see the Gutenberg header) | have | PG 20156 |
+| `mary-howitt-bremer-the-home-or-life-in-sweden` | Fredrika Bremer | The Home; Or, Life in Sweden | Mary Howitt | 1843-1844 (see the Gutenberg header) | have | PG 20746 |
+| — | — | andersen: Andersen's True Story of My Life (7007) and Wonderful Stories for Children (43600) in her translation are already on andersen_shelf.json. | — | — | excluded | — |
+
+## Lucie, Lady Duff Gordon (Meinhold's Amber Witch; The French in Algiers)
+
+Shelf: `pipeline/duff-gordon_shelf.json` · fetch `python3 pipeline/fetch_shelf.py duff-gordon` · titles `python3 pipeline/split_shelf_titles.py duff-gordon`.
+Round 19 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `duff-gordon-lamping-alby-the-french-in-algiers` | Clemens Lamping; Ernest Alby | The French in Algiers: The Soldier of the Foreign Legion; and The Prisoners of Abd-el-Kader | Lucie Duff Gordon | 1844-1845 (see the Gutenberg header) | have | PG 58081 |
+| `duff-gordon-meinhold-mary-schweidler-the-amber-witch-the-most` | Wilhelm Meinhold | Mary Schweidler, the amber witch The most interesting trial for witchcraft ever known, printed from an imperfect manuscript by her father, Abraham Schweidler, the pastor of Coserow in the island of Usedom / edited by W. Meinhold ; translated from the German by Lady Duff Gordon. | Lucie Duff Gordon | 1844-1845 (see the Gutenberg header) | have | PG 8743 |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
