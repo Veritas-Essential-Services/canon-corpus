@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: Ellen Frothingham (1835-1902): Goethe's Hermann and Dorothea (1870), Lessing's Laocoon (1874) and Auerbach's Edelweiss (1869). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_name_words": [
+  "ellen frothingham"
+ ],
+ "_surname": [
+  "ellen frothingham"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "efr-1958": [
+   1958,
+   "Hermann and Dorothea"
+  ],
+  "efr-33007": [
+   33007,
+   "Edelweiss: A Story"
+  ],
+  "efr-73078": [
+   73078,
+   "Laocoon"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ellen-frothingham-auerbach-edelweiss-a-story": {
+   "source": "efr-33007",
+   "of": "Berthold Auerbach",
+   "work": "Edelweiss: A Story",
+   "translated": "1869-1874 (see the Gutenberg header)",
+   "translator": "Ellen Frothingham",
+   "scan_edition": "Project Gutenberg 33007 (clean text)"
+  },
+  "ellen-frothingham-goethe-hermann-and-dorothea": {
+   "source": "efr-1958",
+   "of": "Johann Wolfgang von Goethe",
+   "work": "Hermann and Dorothea",
+   "translated": "1869-1874 (see the Gutenberg header)",
+   "translator": "Ellen Frothingham",
+   "scan_edition": "Project Gutenberg 1958 (clean text)"
+  },
+  "ellen-frothingham-lessing-laocoon": {
+   "source": "efr-73078",
+   "of": "Gotthold Ephraim Lessing",
+   "work": "Laocoon",
+   "translated": "1869-1874 (see the Gutenberg header)",
+   "translator": "Ellen Frothingham",
+   "scan_edition": "Project Gutenberg 73078 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "efr-1958": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen frothingham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Frothingham"
+  },
+  "efr-33007": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen frothingham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Frothingham"
+  },
+  "efr-73078": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen frothingham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Frothingham"
+  }
+ },
+ "_verified": {
+  "efr-1958": {
+   "pg": 1958,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Frothingham"
+  },
+  "efr-33007": {
+   "pg": 33007,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Frothingham"
+  },
+  "efr-73078": {
+   "pg": 73078,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Frothingham"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

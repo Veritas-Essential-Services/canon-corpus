@@ -1,0 +1,106 @@
+{
+ "_about": "TRANSLATOR SHELF: Emilie Jackson, Mrs. Wilfrid Jackson (1873-1963): Anatole France for John Lane: The Gods are Athirst (1913), The Revolt of the Angels (1914) and The Opinions of Jérôme Coignard (1913). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_name_words": [
+  "mrs. wilfrid jackson",
+  "wilfrid jackson",
+  "emilie jackson"
+ ],
+ "_surname": [
+  "mrs. wilfrid jackson",
+  "wilfrid jackson",
+  "emilie jackson"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "eja-24010": [
+   24010,
+   "The Gods are Athirst"
+  ],
+  "eja-32596": [
+   32596,
+   "The Revolt of the Angels"
+  ],
+  "eja-74713": [
+   74713,
+   "The opinions of Jérôme Coignard"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "emilie-jackson-france-the-gods-are-athirst": {
+   "source": "eja-24010",
+   "of": "Anatole France",
+   "work": "The Gods are Athirst",
+   "translated": "1913-1914 (see the Gutenberg header)",
+   "translator": "Mrs. Wilfrid Jackson",
+   "scan_edition": "Project Gutenberg 24010 (clean text)"
+  },
+  "emilie-jackson-france-the-opinions-of-jerome-coignard": {
+   "source": "eja-74713",
+   "of": "Anatole France",
+   "work": "The opinions of Jérôme Coignard",
+   "translated": "1913-1914 (see the Gutenberg header)",
+   "translator": "Mrs. Wilfrid Jackson",
+   "scan_edition": "Project Gutenberg 74713 (clean text)"
+  },
+  "emilie-jackson-france-the-revolt-of-the-angels": {
+   "source": "eja-32596",
+   "of": "Anatole France",
+   "work": "The Revolt of the Angels",
+   "translated": "1913-1914 (see the Gutenberg header)",
+   "translator": "Mrs. Wilfrid Jackson",
+   "scan_edition": "Project Gutenberg 32596 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "eja-24010": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mrs. wilfrid jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Emilie Jackson"
+  },
+  "eja-32596": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mrs. wilfrid jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Emilie Jackson"
+  },
+  "eja-74713": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mrs. wilfrid jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Emilie Jackson"
+  }
+ },
+ "_verified": {
+  "eja-24010": {
+   "pg": 24010,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Emilie Jackson"
+  },
+  "eja-32596": {
+   "pg": 32596,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Emilie Jackson"
+  },
+  "eja-74713": {
+   "pg": 74713,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Emilie Jackson"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

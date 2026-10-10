@@ -1,0 +1,103 @@
+{
+ "_about": "TRANSLATOR SHELF: Margaret Armour (1860-1943): Wagner's Ring of the Nibelung with Arthur Rackham's illustrations (Heinemann, 1910-11, 2 vols) and The Fall of the Nibelungs (the Nibelungenlied, Dent, 1897). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_name_words": [
+  "margaret armour"
+ ],
+ "_surname": [
+  "margaret armour"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mar-3636": [
+   3636,
+   "The Fall of the Nibelungs"
+  ],
+  "mar-48214": [
+   48214,
+   "The Rhinegold & The Valkyrie"
+  ],
+  "mar-49507": [
+   49507,
+   "Siegfried & The Twilight of the Gods"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "margaret-armour-nibelungenlied-the-fall-of-the-nibelungs": {
+   "source": "mar-3636",
+   "of": "Anonymous (the Nibelungenlied)",
+   "work": "The Fall of the Nibelungs",
+   "translated": "1897-1911 (see the Gutenberg header)",
+   "translator": "Margaret Armour",
+   "scan_edition": "Project Gutenberg 3636 (clean text)",
+   "note": "The Nibelungenlied in prose."
+  },
+  "margaret-armour-wagner-siegfried-the-twilight-of-the-gods": {
+   "source": "mar-49507",
+   "of": "Richard Wagner",
+   "work": "Siegfried & The Twilight of the Gods",
+   "translated": "1897-1911 (see the Gutenberg header)",
+   "translator": "Margaret Armour",
+   "scan_edition": "Project Gutenberg 49507 (clean text)"
+  },
+  "margaret-armour-wagner-the-rhinegold-the-valkyrie": {
+   "source": "mar-48214",
+   "of": "Richard Wagner",
+   "work": "The Rhinegold & The Valkyrie",
+   "translated": "1897-1911 (see the Gutenberg header)",
+   "translator": "Margaret Armour",
+   "scan_edition": "Project Gutenberg 48214 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mar-3636": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "margaret armour",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Margaret Armour"
+  },
+  "mar-48214": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "margaret armour",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Margaret Armour"
+  },
+  "mar-49507": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "margaret armour",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Margaret Armour"
+  }
+ },
+ "_verified": {
+  "mar-3636": {
+   "pg": 3636,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Margaret Armour"
+  },
+  "mar-48214": {
+   "pg": 48214,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Margaret Armour"
+  },
+  "mar-49507": {
+   "pg": 49507,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Margaret Armour"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

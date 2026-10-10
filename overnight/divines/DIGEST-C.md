@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T11:55-05:00: 145 shelves, 994 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5; 27 (eleven shelves): 57; 28 (twelve shelves): 41. **15 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T12:01-05:00: 162 shelves, 1045 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5; 27 (eleven shelves): 57; 28 (twelve shelves): 41; 29 (seventeen shelves): 51. **15 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -376,3 +376,27 @@ Twelve new shelves, 41 titles, all from Gutenberg, with the translator line read
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Merge note (not a decision):** the reading-lists thread's `chekhov-bet_shelf.json` (on its own branch, added today) holds PG 55283, Koteliansky and Murry's *The Bet*, which is also on this lane's `koteliansky` shelf. Whichever merges second should turn its copy into a cross-reference.
+
+## Round 29: seventeen more translators (2026-10-10)
+
+Seventeen new shelves, 51 titles, all from Gutenberg, with the translator line read in every header:
+
+- **`ww-waters`** (3): W. G. Waters's *Journal of Montaigne's Travels in Italy* (3 volumes). His Straparola is left out (it stays with the Straparola shelf).
+- **`edna-underwood`** (4): Hafiz, Mickiewicz's *Sonnets from the Crimea*, and two story collections (foreign countries; the Balkans).
+- **`ellen-frothingham`** (3): Lessing's *Laocoon*, Goethe's *Hermann and Dorothea*, Auerbach's *Edelweiss*.
+- **`boylan`** (2): Goethe's *Werther* and Schiller's *Don Carlos* (Bohn). A Little Blue Book extract of his Goethe (PG 78269) is left out.
+- **`holcroft`** (3): Beaumarchais's *The Follies of a Day* (*The Marriage of Figaro*, 1785) and Trenck's *Life* (2 volumes).
+- **`margaret-armour`** (3): *The Fall of the Nibelungs* and Wagner's *Ring* in two volumes (Rackham's illustrations).
+- **`florence-simmonds`** (3): Corroyer's *Gothic Architecture*, Duhamel's *The New Book of Martyrs*, Le Goffic's *Dixmude*.
+- **`guerney`** (3): Bunin's *The Dreams of Chang* and Kuprin's *Sulamith* and *Yama* (all 1920s printings).
+- **`benecke`** (3): three volumes of Polish tales (Sienkiewicz, Prus, Żeromski and others). **Flag:** Gutenberg keyed *Selected Polish Tales* from the 1944 World's Classics reprint of the 1921 selection. The text is the 1921 public-domain text reprinted, but the copy itself is not a pre-1931 printing. Veto it if you want only pre-1931 copies.
+- **`lowe-porter`** (3): Mann's *Buddenbrooks* (2 volumes, 1924) and *Three Essays* (1929).
+- **`aldington`** (3): Benda's *The Great Betrayal* (1928), Cyrano de Bergerac's *Voyages to the Moon and the Sun*, Sologub's *The Little Demon*.
+- **`dora-schmitz`** (2): Haeckel's *History of Creation* (2 volumes). Her Schliemann stays on the schliemann shelf.
+- **`welby`** (3): Flammarion's *Astronomy for Amateurs*, Ostwald's *Maxim Gorki*, Ribot's *The Evolution of General Ideas*.
+- **`emilie-jackson`** (3): Mrs. Wilfrid Jackson's Anatole France: *The Gods are Athirst*, *The Opinions of Jérôme Coignard*, *The Revolt of the Angels*.
+- **`metcalfe`** (3): *Fantômas* and two Verne novels.
+- **`wollstonecraft`** (3): Mary Wollstonecraft as translator: Madame de Cambon's *Young Grandison* (2 volumes) and Necker's *Of the Importance of Religious Opinions*.
+- **`bicknell`** (4): four of Fabre's books for young readers.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.

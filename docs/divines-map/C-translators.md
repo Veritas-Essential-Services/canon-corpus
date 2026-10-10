@@ -2348,6 +2348,196 @@ Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `walter-armstrong-perrot-chipiez-art-in-chaldaea-assyria-vol-1` | Georges Perrot and Charles Chipiez | A history of art in Chaldæa & Assyria, Vol. 1 (of 2) | Walter Armstrong | 1883-1884 (see the Gutenberg header) | have | PG 28072 |
 | `walter-armstrong-perrot-chipiez-art-in-chaldaea-assyria-vol-2` | Georges Perrot and Charles Chipiez | A history of art in Chaldæa & Assyria, Vol. 2 (of 2) | Walter Armstrong | 1883-1884 (see the Gutenberg header) | have | PG 71842 |
 
+## W. G. Waters (Montaigne's Journal of Travels in Italy, 3 vols)
+
+Shelf: `pipeline/ww-waters_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ww-waters` · titles `python3 pipeline/split_shelf_titles.py ww-waters`.
+Round 29 (2026-10-10), vetoable. Straparola stays on its own shelf. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ww-waters-montaigne-journal-of-travels-vol-1` | Michel de Montaigne | The journal of Montaigne's travels in Italy by way of Switzerland and Germany in 1580 and 1581, Volume 1 (of 3) | W. G. Waters | 1903 (see the Gutenberg header) | have | PG 70838 |
+| `ww-waters-montaigne-journal-of-travels-vol-2` | Michel de Montaigne | The journal of Montaigne's travels in Italy by way of Switzerland and Germany in 1580 and 1581, Volume 2 (of 3) | W. G. Waters | 1903 (see the Gutenberg header) | have | PG 70839 |
+| `ww-waters-montaigne-journal-of-travels-vol-3` | Michel de Montaigne | The journal of Montaigne's travels in Italy by way of Switzerland and Germany in 1580 and 1581, Volume 3 (of 3) | W. G. Waters | 1903 (see the Gutenberg header) | have | PG 70840 |
+| — | — | pg-75257: The Nights of Straparola is on straparola_shelf.json. | — | — | excluded | — |
+
+## Edna Worthley Underwood (Hafiz; Mickiewicz's Crimean Sonnets; Balkan and foreign stories)
+
+Shelf: `pipeline/edna-underwood_shelf.json` · fetch `python3 pipeline/fetch_shelf.py edna-underwood` · titles `python3 pipeline/split_shelf_titles.py edna-underwood`.
+Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `edna-underwood-famous-stories-from-foreign-countries` | Various | Famous stories from foreign countries | Edna Worthley Underwood | 1912-1922 (see the Gutenberg header) | have | PG 75466 |
+| `edna-underwood-hafiz-songs-of-hafiz` | Hafiz | Songs of Hafiz | Edna Worthley Underwood | 1912-1922 (see the Gutenberg header) | have | PG 77453 |
+| `edna-underwood-mickiewicz-sonnets-from-the-crimea` | Adam Mickiewicz | Sonnets from the Crimea | Edna Worthley Underwood | 1912-1922 (see the Gutenberg header) | have | PG 27069 |
+| `edna-underwood-short-stories-from-the-balkans` | Various | Short stories from the Balkans | Edna Worthley Underwood | 1912-1922 (see the Gutenberg header) | have | PG 73663 |
+
+## Ellen Frothingham (Lessing's Laocoon; Hermann and Dorothea; Auerbach's Edelweiss)
+
+Shelf: `pipeline/ellen-frothingham_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ellen-frothingham` · titles `python3 pipeline/split_shelf_titles.py ellen-frothingham`.
+Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ellen-frothingham-auerbach-edelweiss-a-story` | Berthold Auerbach | Edelweiss: A Story | Ellen Frothingham | 1869-1874 (see the Gutenberg header) | have | PG 33007 |
+| `ellen-frothingham-goethe-hermann-and-dorothea` | Johann Wolfgang von Goethe | Hermann and Dorothea | Ellen Frothingham | 1869-1874 (see the Gutenberg header) | have | PG 1958 |
+| `ellen-frothingham-lessing-laocoon` | Gotthold Ephraim Lessing | Laocoon | Ellen Frothingham | 1869-1874 (see the Gutenberg header) | have | PG 73078 |
+
+## R. Dillon Boylan (Werther; Schiller's Don Carlos)
+
+Shelf: `pipeline/boylan_shelf.json` · fetch `python3 pipeline/fetch_shelf.py boylan` · titles `python3 pipeline/split_shelf_titles.py boylan`.
+Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `boylan-goethe-the-sorrows-of-young-werther` | Johann Wolfgang von Goethe | The Sorrows of Young Werther | R. Dillon Boylan | 1847-1854 (see the Gutenberg header) | have | PG 2527 |
+| `boylan-schiller-don-carlos-a-play` | Friedrich Schiller | Don Carlos: A Play | R. Dillon Boylan | 1847-1854 (see the Gutenberg header) | have | PG 6789 |
+| — | — | pg-78269: The Princess and the Tiger is a Haldeman-Julius Little Blue Book extract of his Goethe. | — | — | excluded | — |
+
+## Thomas Holcroft (Beaumarchais's Marriage of Figaro; Trenck's Life, 2 vols)
+
+Shelf: `pipeline/holcroft_shelf.json` · fetch `python3 pipeline/fetch_shelf.py holcroft` · titles `python3 pipeline/split_shelf_titles.py holcroft`.
+Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `holcroft-beaumarchais-the-follies-of-a-day-or-the-marriage-of` | Beaumarchais | The Follies of a Day; or, The Marriage of Figaro | Thomas Holcroft | 1785-1788 (see the Gutenberg header) | have | PG 64953 |
+| `holcroft-trenck-life-vol-1` | Friedrich von der Trenck | The Life and Adventures of Baron Trenck, Volume 1 | Thomas Holcroft | 1785-1788 (see the Gutenberg header) | have | PG 2668 |
+| `holcroft-trenck-life-vol-2` | Friedrich von der Trenck | The Life and Adventures of Baron Trenck, Volume 2 | Thomas Holcroft | 1785-1788 (see the Gutenberg header) | have | PG 2669 |
+
+## Margaret Armour (The Fall of the Nibelungs; Wagner's Ring in two volumes)
+
+Shelf: `pipeline/margaret-armour_shelf.json` · fetch `python3 pipeline/fetch_shelf.py margaret-armour` · titles `python3 pipeline/split_shelf_titles.py margaret-armour`.
+Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `margaret-armour-nibelungenlied-the-fall-of-the-nibelungs` | Anonymous (the Nibelungenlied) | The Fall of the Nibelungs | Margaret Armour | 1897-1911 (see the Gutenberg header) | have | PG 3636 |
+| `margaret-armour-wagner-siegfried-the-twilight-of-the-gods` | Richard Wagner | Siegfried & The Twilight of the Gods | Margaret Armour | 1897-1911 (see the Gutenberg header) | have | PG 49507 |
+| `margaret-armour-wagner-the-rhinegold-the-valkyrie` | Richard Wagner | The Rhinegold & The Valkyrie | Margaret Armour | 1897-1911 (see the Gutenberg header) | have | PG 48214 |
+
+## Florence Simmonds (Corroyer's Gothic Architecture; Duhamel; Le Goffic)
+
+Shelf: `pipeline/florence-simmonds_shelf.json` · fetch `python3 pipeline/fetch_shelf.py florence-simmonds` · titles `python3 pipeline/split_shelf_titles.py florence-simmonds`.
+Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `florence-simmonds-corroyer-gothic-architecture` | Édouard Corroyer | Gothic Architecture | Florence Simmonds | 1893-1918 (see the Gutenberg header) | have | PG 54701 |
+| `florence-simmonds-duhamel-the-new-book-of-martyrs` | Georges Duhamel | The New Book of Martyrs | Florence Simmonds | 1893-1918 (see the Gutenberg header) | have | PG 4325 |
+| `florence-simmonds-goffic-dixmude-the-epic-of-the-french-marines-o` | Charles Le Goffic | Dixmude: The epic of the French marines (October 17-November 10, 1914) | Florence Simmonds | 1893-1918 (see the Gutenberg header) | have | PG 33929 |
+
+## Bernard Guilbert Guerney (Bunin; Kuprin's Sulamith and Yama)
+
+Shelf: `pipeline/guerney_shelf.json` · fetch `python3 pipeline/fetch_shelf.py guerney` · titles `python3 pipeline/split_shelf_titles.py guerney`.
+Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `guerney-bunin-the-dreams-of-chang-and-other-stories` | Ivan Alekseevich Bunin | The dreams of Chang and other stories | Bernard Guilbert Guerney | 1922-1923 (see the Gutenberg header) | have | PG 78224 |
+| `guerney-kuprin-sulamith-a-romance-of-antiquity` | A. I. (Aleksandr Ivanovich) Kuprin | Sulamith: A Romance of Antiquity | Bernard Guilbert Guerney | 1922-1923 (see the Gutenberg header) | have | PG 33444 |
+| `guerney-kuprin-yama-the-pit-a-novel-in-three-parts` | A. I. (Aleksandr Ivanovich) Kuprin | Yama [The Pit], a Novel in Three Parts | Bernard Guilbert Guerney | 1922-1923 (see the Gutenberg header) | have | PG 4706 |
+
+## Else C. M. Benecke (three volumes of Polish tales)
+
+Shelf: `pipeline/benecke_shelf.json` · fetch `python3 pipeline/fetch_shelf.py benecke` · titles `python3 pipeline/split_shelf_titles.py benecke`.
+Round 29 (2026-10-10), vetoable. Selected Polish Tales is keyed from a 1944 reprint of the 1921 text: flagged. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `benecke-more-tales-by-polish-authors` | Various Polish authors (Sienkiewicz, Prus, Żeromski and others) | More Tales by Polish Authors | Else C. M. Benecke (with Marie Busch) | 1915-1921 (see the Gutenberg header) | have | PG 35457 |
+| `benecke-selected-polish-tales` | Various Polish authors (Sienkiewicz, Prus, Żeromski and others) | Selected Polish Tales | Else C. M. Benecke (with Marie Busch) | 1915-1921 (see the Gutenberg header) | have | PG 8378 |
+| `benecke-tales-by-polish-authors` | Various Polish authors (Sienkiewicz, Prus, Żeromski and others) | Tales by Polish Authors | Else C. M. Benecke | 1915-1921 (see the Gutenberg header) | have | PG 35456 |
+
+## H. T. Lowe-Porter (Mann's Buddenbrooks, 2 vols; Three Essays)
+
+Shelf: `pipeline/lowe-porter_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lowe-porter` · titles `python3 pipeline/split_shelf_titles.py lowe-porter`.
+Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `lowe-porter-mann-buddenbrooks-vol-1` | Thomas Mann | Buddenbrooks, volume 1 of 2 | H. T. Lowe-Porter | 1924-1929 (see the Gutenberg header) | have | PG 72961 |
+| `lowe-porter-mann-buddenbrooks-vol-2` | Thomas Mann | Buddenbrooks, volume 2 of 2 | H. T. Lowe-Porter | 1924-1929 (see the Gutenberg header) | have | PG 72962 |
+| `lowe-porter-mann-three-essays` | Thomas Mann | Three essays | H. T. Lowe-Porter | 1924-1929 (see the Gutenberg header) | have | PG 76837 |
+
+## Richard Aldington (Benda's Great Betrayal; Cyrano's Voyages; Sologub)
+
+Shelf: `pipeline/aldington_shelf.json` · fetch `python3 pipeline/fetch_shelf.py aldington` · titles `python3 pipeline/split_shelf_titles.py aldington`.
+Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `aldington-benda-the-great-betrayal-la-trahison-des-clerc` | Julien Benda | The great betrayal (La trahison des clercs) | Richard Aldington | 1916-1928 (see the Gutenberg header) | have | PG 78218 |
+| `aldington-bergerac-voyages-to-the-moon-and-the-sun` | Cyrano de Bergerac | Voyages to the Moon and the Sun | Richard Aldington | 1916-1928 (see the Gutenberg header) | have | PG 74000 |
+| `aldington-sologub-the-little-demon` | Fyodor Sologub | The Little Demon | Richard Aldington (with John Cournos) | 1916-1928 (see the Gutenberg header) | have | PG 48912 |
+
+## L. Dora Schmitz (Haeckel's History of Creation, 2 vols)
+
+Shelf: `pipeline/dora-schmitz_shelf.json` · fetch `python3 pipeline/fetch_shelf.py dora-schmitz` · titles `python3 pipeline/split_shelf_titles.py dora-schmitz`.
+Round 29 (2026-10-10), vetoable. Schliemann stays on its own shelf. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `dora-schmitz-haeckel-the-history-of-creation-vol-1` | Ernst Haeckel | The History of Creation, Vol. 1 (of 2) | L. Dora Schmitz | 1876 (see the Gutenberg header) | have | PG 40472 |
+| `dora-schmitz-haeckel-the-history-of-creation-vol-2` | Ernst Haeckel | The History of Creation, Vol. 2 (of 2) | L. Dora Schmitz | 1876 (see the Gutenberg header) | have | PG 40473 |
+| — | — | pg-45190: Schliemann's Troy and Its Remains is on schliemann_shelf.json. | — | — | excluded | — |
+
+## Frances A. Welby (Flammarion; Ostwald's Gorki; Ribot)
+
+Shelf: `pipeline/welby_shelf.json` · fetch `python3 pipeline/fetch_shelf.py welby` · titles `python3 pipeline/split_shelf_titles.py welby`.
+Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `welby-flammarion-astronomy-for-amateurs` | Camille Flammarion | Astronomy for Amateurs | Frances A. Welby | 1899-1905 (see the Gutenberg header) | have | PG 25267 |
+| `welby-ostwald-maxim-gorki` | Hans Ostwald | Maxim Gorki | Frances A. Welby | 1899-1905 (see the Gutenberg header) | have | PG 22046 |
+| `welby-ribot-the-evolution-of-general-ideas` | Th. (Théodule) Ribot | The evolution of general ideas | Frances A. Welby | 1899-1905 (see the Gutenberg header) | have | PG 70911 |
+
+## Mrs. Wilfrid Jackson (Anatole France: The Gods are Athirst, Jerome Coignard, Revolt of the Angels)
+
+Shelf: `pipeline/emilie-jackson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py emilie-jackson` · titles `python3 pipeline/split_shelf_titles.py emilie-jackson`.
+Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `emilie-jackson-france-the-gods-are-athirst` | Anatole France | The Gods are Athirst | Mrs. Wilfrid Jackson | 1913-1914 (see the Gutenberg header) | have | PG 24010 |
+| `emilie-jackson-france-the-opinions-of-jerome-coignard` | Anatole France | The opinions of Jérôme Coignard | Mrs. Wilfrid Jackson | 1913-1914 (see the Gutenberg header) | have | PG 74713 |
+| `emilie-jackson-france-the-revolt-of-the-angels` | Anatole France | The Revolt of the Angels | Mrs. Wilfrid Jackson | 1913-1914 (see the Gutenberg header) | have | PG 32596 |
+
+## Cranstoun Metcalfe (Fantomas; two Verne novels)
+
+Shelf: `pipeline/metcalfe_shelf.json` · fetch `python3 pipeline/fetch_shelf.py metcalfe` · titles `python3 pipeline/split_shelf_titles.py metcalfe`.
+Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `metcalfe-souvestre-fantomas` | Pierre Souvestre | Fantômas | Cranstoun Metcalfe | 1915-1924 (see the Gutenberg header) | have | PG 27794 |
+| `metcalfe-verne-the-castaways-of-the-flag` | Jules Verne | The castaways of the flag | Cranstoun Metcalfe | 1915-1924 (see the Gutenberg header) | have | PG 61600 |
+| `metcalfe-verne-their-island-home` | Jules Verne | Their island home | Cranstoun Metcalfe | 1915-1924 (see the Gutenberg header) | have | PG 74418 |
+
+## Mary Wollstonecraft as translator (Young Grandison, 2 vols; Necker)
+
+Shelf: `pipeline/wollstonecraft_shelf.json` · fetch `python3 pipeline/fetch_shelf.py wollstonecraft` · titles `python3 pipeline/split_shelf_titles.py wollstonecraft`.
+Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `wollstonecraft-cambon-young-grandison-vol-1` | Madame de Cambon | Young Grandison, volume 1 (of 2) | Mary Wollstonecraft | 1788-1790 (see the Gutenberg header) | have | PG 68481 |
+| `wollstonecraft-cambon-young-grandison-vol-2` | Madame de Cambon | Young Grandison, volume 2 (of 2) | Mary Wollstonecraft | 1788-1790 (see the Gutenberg header) | have | PG 69736 |
+| `wollstonecraft-necker-of-the-importance-of-religious-opinions` | Jacques Necker | Of the importance of religious opinions | Mary Wollstonecraft | 1788-1790 (see the Gutenberg header) | have | PG 76773 |
+
+## Florence Constable Bicknell (four Fabre books)
+
+Shelf: `pipeline/bicknell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py bicknell` · titles `python3 pipeline/split_shelf_titles.py bicknell`.
+Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `bicknell-fabre-animal-life-in-field-and-garden` | Jean-Henri Fabre | Animal Life in Field and Garden | Florence Constable Bicknell | 1917-1921 (see the Gutenberg header) | have | PG 66755 |
+| `bicknell-fabre-field-forest-and-farm` | Jean-Henri Fabre | Field, Forest and Farm | Florence Constable Bicknell | 1917-1921 (see the Gutenberg header) | have | PG 67813 |
+| `bicknell-fabre-our-humble-helpers-familiar-talks-on-the` | Jean-Henri Fabre | Our Humble Helpers: Familiar Talks on the Domestic Animals | Florence Constable Bicknell | 1917-1921 (see the Gutenberg header) | have | PG 67073 |
+| `bicknell-fabre-the-story-book-of-science` | Jean-Henri Fabre | The Story-book of Science | Florence Constable Bicknell | 1917-1921 (see the Gutenberg header) | have | PG 56795 |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

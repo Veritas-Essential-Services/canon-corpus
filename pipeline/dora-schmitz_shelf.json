@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: L. Dora Schmitz: Haeckel's The History of Creation (1876, 2 vols, rev. E. Ray Lankester). Her Schliemann is on schliemann_shelf.json (another lane). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_name_words": [
+  "l. dora schmitz",
+  "dora schmitz"
+ ],
+ "_surname": [
+  "l. dora schmitz",
+  "dora schmitz"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "lds-40472": [
+   40472,
+   "The History of Creation, Vol. 1 (of 2)"
+  ],
+  "lds-40473": [
+   40473,
+   "The History of Creation, Vol. 2 (of 2)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "dora-schmitz-haeckel-the-history-of-creation-vol-1": {
+   "source": "lds-40472",
+   "of": "Ernst Haeckel",
+   "work": "The History of Creation, Vol. 1 (of 2)",
+   "translated": "1876 (see the Gutenberg header)",
+   "translator": "L. Dora Schmitz",
+   "scan_edition": "Project Gutenberg 40472 (clean text)"
+  },
+  "dora-schmitz-haeckel-the-history-of-creation-vol-2": {
+   "source": "lds-40473",
+   "of": "Ernst Haeckel",
+   "work": "The History of Creation, Vol. 2 (of 2)",
+   "translated": "1876 (see the Gutenberg header)",
+   "translator": "L. Dora Schmitz",
+   "scan_edition": "Project Gutenberg 40473 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-45190": "Schliemann's Troy and Its Remains is on schliemann_shelf.json."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "lds-40472": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "l. dora schmitz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "L. Dora Schmitz"
+  },
+  "lds-40473": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "l. dora schmitz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "L. Dora Schmitz"
+  }
+ },
+ "_verified": {
+  "lds-40472": {
+   "pg": 40472,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "L. Dora Schmitz"
+  },
+  "lds-40473": {
+   "pg": 40473,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "L. Dora Schmitz"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: Richard Aldington (1892-1962) as translator: Cyrano de Bergerac's Voyages to the Moon and the Sun (1923), Benda's The Great Betrayal (1928) and Sologub's The Little Demon (1916, with John Cournos). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_name_words": [
+  "richard aldington"
+ ],
+ "_surname": [
+  "richard aldington"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ald-48912": [
+   48912,
+   "The Little Demon"
+  ],
+  "ald-74000": [
+   74000,
+   "Voyages to the Moon and the Sun"
+  ],
+  "ald-78218": [
+   78218,
+   "The great betrayal (La trahison des clercs)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "aldington-benda-the-great-betrayal-la-trahison-des-clerc": {
+   "source": "ald-78218",
+   "of": "Julien Benda",
+   "work": "The great betrayal (La trahison des clercs)",
+   "translated": "1916-1928 (see the Gutenberg header)",
+   "translator": "Richard Aldington",
+   "scan_edition": "Project Gutenberg 78218 (clean text)"
+  },
+  "aldington-bergerac-voyages-to-the-moon-and-the-sun": {
+   "source": "ald-74000",
+   "of": "Cyrano de Bergerac",
+   "work": "Voyages to the Moon and the Sun",
+   "translated": "1916-1928 (see the Gutenberg header)",
+   "translator": "Richard Aldington",
+   "scan_edition": "Project Gutenberg 74000 (clean text)"
+  },
+  "aldington-sologub-the-little-demon": {
+   "source": "ald-48912",
+   "of": "Fyodor Sologub",
+   "work": "The Little Demon",
+   "translated": "1916-1928 (see the Gutenberg header)",
+   "translator": "Richard Aldington (with John Cournos)",
+   "scan_edition": "Project Gutenberg 48912 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ald-48912": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "richard aldington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Richard Aldington; John Cournos"
+  },
+  "ald-74000": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "richard aldington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Richard Aldington"
+  },
+  "ald-78218": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "richard aldington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Richard Aldington"
+  }
+ },
+ "_verified": {
+  "ald-48912": {
+   "pg": 48912,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Richard Aldington"
+  },
+  "ald-74000": {
+   "pg": 74000,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Richard Aldington"
+  },
+  "ald-78218": {
+   "pg": 78218,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Richard Aldington"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

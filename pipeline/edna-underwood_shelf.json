@@ -1,0 +1,128 @@
+{
+ "_about": "TRANSLATOR SHELF: Edna Worthley Underwood (1873-1961): Mickiewicz's Sonnets from the Crimea (1917), Songs of Hafiz (1917), Short Stories from the Balkans (1919) and Famous Stories from Foreign Countries. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_name_words": [
+  "edna worthley underwood"
+ ],
+ "_surname": [
+  "edna worthley underwood"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "eun-27069": [
+   27069,
+   "Sonnets from the Crimea"
+  ],
+  "eun-73663": [
+   73663,
+   "Short stories from the Balkans"
+  ],
+  "eun-75466": [
+   75466,
+   "Famous stories from foreign countries"
+  ],
+  "eun-77453": [
+   77453,
+   "Songs of Hafiz"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "edna-underwood-famous-stories-from-foreign-countries": {
+   "source": "eun-75466",
+   "of": "Various",
+   "work": "Famous stories from foreign countries",
+   "translated": "1912-1922 (see the Gutenberg header)",
+   "translator": "Edna Worthley Underwood",
+   "scan_edition": "Project Gutenberg 75466 (clean text)"
+  },
+  "edna-underwood-hafiz-songs-of-hafiz": {
+   "source": "eun-77453",
+   "of": "Hafiz",
+   "work": "Songs of Hafiz",
+   "translated": "1912-1922 (see the Gutenberg header)",
+   "translator": "Edna Worthley Underwood",
+   "scan_edition": "Project Gutenberg 77453 (clean text)"
+  },
+  "edna-underwood-mickiewicz-sonnets-from-the-crimea": {
+   "source": "eun-27069",
+   "of": "Adam Mickiewicz",
+   "work": "Sonnets from the Crimea",
+   "translated": "1912-1922 (see the Gutenberg header)",
+   "translator": "Edna Worthley Underwood",
+   "scan_edition": "Project Gutenberg 27069 (clean text)"
+  },
+  "edna-underwood-short-stories-from-the-balkans": {
+   "source": "eun-73663",
+   "of": "Various",
+   "work": "Short stories from the Balkans",
+   "translated": "1912-1922 (see the Gutenberg header)",
+   "translator": "Edna Worthley Underwood",
+   "scan_edition": "Project Gutenberg 73663 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "eun-27069": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edna worthley underwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edna Worthley Underwood"
+  },
+  "eun-73663": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edna worthley underwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edna Worthley Underwood"
+  },
+  "eun-75466": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edna worthley underwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edna Worthley Underwood"
+  },
+  "eun-77453": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edna worthley underwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edna Worthley Underwood"
+  }
+ },
+ "_verified": {
+  "eun-27069": {
+   "pg": 27069,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edna Worthley Underwood"
+  },
+  "eun-73663": {
+   "pg": 73663,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edna Worthley Underwood"
+  },
+  "eun-75466": {
+   "pg": 75466,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edna Worthley Underwood"
+  },
+  "eun-77453": {
+   "pg": 77453,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edna Worthley Underwood"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

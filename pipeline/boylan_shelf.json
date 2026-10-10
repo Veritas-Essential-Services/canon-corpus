@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: R. Dillon Boylan (1805?-1888): Goethe's The Sorrows of Young Werther and Schiller's Don Carlos (Bohn, 1847-54). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_name_words": [
+  "r. dillon boylan",
+  "dillon boylan"
+ ],
+ "_surname": [
+  "r. dillon boylan",
+  "dillon boylan"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "boy-2527": [
+   2527,
+   "The Sorrows of Young Werther"
+  ],
+  "boy-6789": [
+   6789,
+   "Don Carlos: A Play"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "boylan-goethe-the-sorrows-of-young-werther": {
+   "source": "boy-2527",
+   "of": "Johann Wolfgang von Goethe",
+   "work": "The Sorrows of Young Werther",
+   "translated": "1847-1854 (see the Gutenberg header)",
+   "translator": "R. Dillon Boylan",
+   "scan_edition": "Project Gutenberg 2527 (clean text)"
+  },
+  "boylan-schiller-don-carlos-a-play": {
+   "source": "boy-6789",
+   "of": "Friedrich Schiller",
+   "work": "Don Carlos: A Play",
+   "translated": "1847-1854 (see the Gutenberg header)",
+   "translator": "R. Dillon Boylan",
+   "scan_edition": "Project Gutenberg 6789 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-78269": "The Princess and the Tiger is a Haldeman-Julius Little Blue Book extract of his Goethe."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "boy-2527": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. dillon boylan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Dillon Boylan"
+  },
+  "boy-6789": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. dillon boylan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Dillon Boylan"
+  }
+ },
+ "_verified": {
+  "boy-2527": {
+   "pg": 2527,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Dillon Boylan"
+  },
+  "boy-6789": {
+   "pg": 6789,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Dillon Boylan"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

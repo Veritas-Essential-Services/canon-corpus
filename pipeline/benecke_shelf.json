@@ -1,0 +1,105 @@
+{
+  "_about": "TRANSLATOR SHELF: Else C. M. Benecke (1873-1917): Tales by Polish Authors (Blackwell, 1915), More Tales by Polish Authors (1916) and Selected Polish Tales: Sienkiewicz, Prus, Żeromski, Reymont and others. US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+  "_name_words": [
+    "else c. m. benecke",
+    "benecke"
+  ],
+  "_surname": [
+    "else c. m. benecke",
+    "benecke"
+  ],
+  "_surname_note": "Full name only.",
+  "ccel": {},
+  "gutenberg": {
+    "ben-35456": [
+      35456,
+      "Tales by Polish Authors"
+    ],
+    "ben-35457": [
+      35457,
+      "More Tales by Polish Authors"
+    ],
+    "ben-8378": [
+      8378,
+      "Selected Polish Tales"
+    ]
+  },
+  "internet_archive": {},
+  "titles": {
+    "benecke-more-tales-by-polish-authors": {
+      "source": "ben-35457",
+      "of": "Various Polish authors (Sienkiewicz, Prus, Żeromski and others)",
+      "work": "More Tales by Polish Authors",
+      "translated": "1915-1921 (see the Gutenberg header)",
+      "translator": "Else C. M. Benecke (with Marie Busch)",
+      "scan_edition": "Project Gutenberg 35457 (clean text)"
+    },
+    "benecke-selected-polish-tales": {
+      "source": "ben-8378",
+      "of": "Various Polish authors (Sienkiewicz, Prus, Żeromski and others)",
+      "work": "Selected Polish Tales",
+      "translated": "1915-1921 (see the Gutenberg header)",
+      "translator": "Else C. M. Benecke (with Marie Busch)",
+      "scan_edition": "Project Gutenberg 8378 (clean text)",
+      "note": "The Gutenberg text was keyed from the 1944 World's Classics reprint (its front matter: 'first published in 1921 and reprinted in 1928, 1942, and 1944'). It is the 1921 selection reprinted unaltered, so the text is the 1921 public-domain text, but the copy is not a pre-1931 printing: flagged in DIGEST-C for Adam's veto."
+    },
+    "benecke-tales-by-polish-authors": {
+      "source": "ben-35456",
+      "of": "Various Polish authors (Sienkiewicz, Prus, Żeromski and others)",
+      "work": "Tales by Polish Authors",
+      "translated": "1915-1921 (see the Gutenberg header)",
+      "translator": "Else C. M. Benecke",
+      "scan_edition": "Project Gutenberg 35456 (clean text)"
+    }
+  },
+  "_pending": {},
+  "_excluded": {},
+  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+  "_checks": {
+    "ben-35456": {
+      "kind": "gutenberg",
+      "checked": "2026-10-10",
+      "name_check": "surname",
+      "author_seen": "else c. m. benecke",
+      "identity": "ok",
+      "pg_copyrighted": false,
+      "pg_translator": "Else C. M. Benecke"
+    },
+    "ben-35457": {
+      "kind": "gutenberg",
+      "checked": "2026-10-10",
+      "name_check": "surname",
+      "author_seen": "else c. m. benecke",
+      "identity": "ok",
+      "pg_copyrighted": false,
+      "pg_translator": "Else C. M. Benecke"
+    },
+    "ben-8378": {
+      "kind": "gutenberg",
+      "checked": "2026-10-10",
+      "name_check": "surname",
+      "author_seen": "else c. m. benecke",
+      "identity": "ok",
+      "pg_copyrighted": false,
+      "pg_translator": "Else C. M. Benecke"
+    }
+  },
+  "_verified": {
+    "ben-35456": {
+      "pg": 35456,
+      "pg_copyrighted_marker": false,
+      "pg_translator": "Else C. M. Benecke"
+    },
+    "ben-35457": {
+      "pg": 35457,
+      "pg_copyrighted_marker": false,
+      "pg_translator": "Else C. M. Benecke"
+    },
+    "ben-8378": {
+      "pg": 8378,
+      "pg_copyrighted_marker": false,
+      "pg_translator": "Else C. M. Benecke"
+    }
+  },
+  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

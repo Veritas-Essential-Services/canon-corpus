@@ -133,3 +133,5 @@
 - 2026-10-10T11:50-05:00: round 27: johnes (12), elwes (6, one held_in), fleming (11), mcclure (1), ainslie (6), derbyshire (4), gilbert-cannan (4), lewisohn (4), van-laun (4), eugene-mason (4), eleanor-grove (1). --verify --record 0 mismatched.
 
 - 2026-10-10T11:55-05:00: round 28: mary-loyd (4), krehbiel (4), frances-hoey (4), dulcken (2), prestage (4), dorothy-bussy (4), dziewicki (4), swanwick (3), oxenford (2), monier-williams (2), lalor (4), walter-armstrong (4). --verify --record 0 mismatched.
+
+- 2026-10-10T12:01-05:00: round 29: ww-waters (3), edna-underwood (4), ellen-frothingham (3), boylan (2), holcroft (3), margaret-armour (3), florence-simmonds (3), guerney (3), benecke (3), lowe-porter (3), aldington (3), dora-schmitz (2), welby (3), emilie-jackson (3), metcalfe (3), wollstonecraft (3), bicknell (4). --verify --record 0 mismatched; benecke 8378 flagged (1944 reprint of a 1921 text).
