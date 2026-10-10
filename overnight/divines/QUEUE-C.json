@@ -2280,6 +2280,54 @@
       "finished": "2026-10-10T12:59-05:00",
       "scope": "GAP AUDIT (round 35): titles by already-shelved lane C translators missing from their shelves; add or record as excluded",
       "notes": "+24 titles: curtin 8, hapgood 6, wormeley 4, clara-bell 3, levy-nietzsche 2, payne 1; burton Kama Sutra excluded by judgment; Adele Szold Seltzer's titles moved to adele-seltzer. No uids minted."
+    },
+    {
+      "id": "shelf-claud-field",
+      "status": "done",
+      "started": "2026-10-10T13:05-05:00",
+      "finished": "2026-10-10T13:05-05:00",
+      "scope": "TRANSLATOR SHELF (round 36, lane C's choice; Adam may veto) -- claud-field; PD printings before 1931 only; no minting",
+      "notes": "4 titles; ids checked across all branches. See DIGEST-C round 36. No uids minted."
+    },
+    {
+      "id": "shelf-edwin-bjorkman",
+      "status": "done",
+      "started": "2026-10-10T13:05-05:00",
+      "finished": "2026-10-10T13:05-05:00",
+      "scope": "TRANSLATOR SHELF (round 36, lane C's choice; Adam may veto) -- edwin-bjorkman; PD printings before 1931 only; no minting",
+      "notes": "1 titles; ids checked across all branches. See DIGEST-C round 36. No uids minted."
+    },
+    {
+      "id": "shelf-ellie-schleussner",
+      "status": "done",
+      "started": "2026-10-10T13:05-05:00",
+      "finished": "2026-10-10T13:05-05:00",
+      "scope": "TRANSLATOR SHELF (round 36, lane C's choice; Adam may veto) -- ellie-schleussner; PD printings before 1931 only; no minting",
+      "notes": "1 titles; ids checked across all branches. See DIGEST-C round 36. No uids minted."
+    },
+    {
+      "id": "shelf-helen-zimmern",
+      "status": "done",
+      "started": "2026-10-10T13:05-05:00",
+      "finished": "2026-10-10T13:05-05:00",
+      "scope": "TRANSLATOR SHELF (round 36, lane C's choice; Adam may veto) -- helen-zimmern; PD printings before 1931 only; no minting",
+      "notes": "1 titles; ids checked across all branches. See DIGEST-C round 36. No uids minted."
+    },
+    {
+      "id": "shelf-paul-cohn",
+      "status": "done",
+      "started": "2026-10-10T13:05-05:00",
+      "finished": "2026-10-10T13:05-05:00",
+      "scope": "TRANSLATOR SHELF (round 36, lane C's choice; Adam may veto) -- paul-cohn; PD printings before 1931 only; no minting",
+      "notes": "2 titles; ids checked across all branches. See DIGEST-C round 36. No uids minted."
+    },
+    {
+      "id": "shelf-horace-samuel",
+      "status": "done",
+      "started": "2026-10-10T13:05-05:00",
+      "finished": "2026-10-10T13:05-05:00",
+      "scope": "TRANSLATOR SHELF (round 36, lane C's choice; Adam may veto) -- horace-samuel; PD printings before 1931 only; no minting",
+      "notes": "2 titles; ids checked across all branches. See DIGEST-C round 36. No uids minted."
     }
   ]
 }

@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Paul V. Cohn beyond the Levy Nietzsche: Henry Bordeaux's The Last Days of Fort Vaux (1917) and Baron Beyens's Germany before the War (1916). US public domain. Added 2026-10-10 by lane C (round 36); Adam may veto. No uids minted.",
+ "_name_words": [
+  "paul v. cohn",
+  "cohn"
+ ],
+ "_surname": [
+  "paul v. cohn",
+  "cohn"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "pco-48532": [
+   48532,
+   "The Last Days of Fort Vaux, March 9-June 7, 1916"
+  ],
+  "pco-48572": [
+   48572,
+   "Germany before the war"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "paul-cohn-beyens-germany-before-the-war": {
+   "source": "pco-48572",
+   "of": "Baron Eugène Beyens",
+   "work": "Germany before the war",
+   "translated": "1916-1917 (see the Gutenberg header)",
+   "translator": "Paul V. Cohn",
+   "scan_edition": "Project Gutenberg 48572 (clean text)"
+  },
+  "paul-cohn-bordeaux-the-last-days-of-fort-vaux": {
+   "source": "pco-48532",
+   "of": "Henry Bordeaux",
+   "work": "The Last Days of Fort Vaux, March 9-June 7, 1916",
+   "translated": "1916-1917 (see the Gutenberg header)",
+   "translator": "Paul V. Cohn",
+   "scan_edition": "Project Gutenberg 48532 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "pco-48532": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "paul v. cohn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Paul V. Cohn"
+  },
+  "pco-48572": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "paul v. cohn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Paul V. Cohn"
+  }
+ },
+ "_verified": {
+  "pco-48532": {
+   "pg": 48532,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Paul V. Cohn"
+  },
+  "pco-48572": {
+   "pg": 48572,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Paul V. Cohn"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

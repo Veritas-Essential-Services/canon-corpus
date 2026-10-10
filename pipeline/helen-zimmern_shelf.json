@@ -1,0 +1,54 @@
+{
+ "_about": "TRANSLATOR SHELF: Helen Zimmern (1846-1934) beyond the Levy Nietzsche: Carmen Sylva's Pilgrim Sorrow (1884). Her De Amicis is left to the de-amicis shelf. US public domain. Added 2026-10-10 by lane C (round 36); Adam may veto. No uids minted.",
+ "_name_words": [
+  "helen zimmern",
+  "zimmern"
+ ],
+ "_surname": [
+  "helen zimmern",
+  "zimmern"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "hzi-46262": [
+   46262,
+   "Pilgrim Sorrow: A Cycle of Tales"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "helen-zimmern-sylva-pilgrim-sorrow-a-cycle-of-tales": {
+   "source": "hzi-46262",
+   "of": "Carmen Sylva",
+   "work": "Pilgrim Sorrow: A Cycle of Tales",
+   "translated": "1884 (see the Gutenberg header)",
+   "translator": "Helen Zimmern",
+   "scan_edition": "Project Gutenberg 46262 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-27799": "De Amicis's Holland vol. 1: De Amicis has his own shelf (de-amicis_shelf.json, another lane); left for its owner."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "hzi-46262": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "helen zimmern",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Helen Zimmern"
+  }
+ },
+ "_verified": {
+  "hzi-46262": {
+   "pg": 46262,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Helen Zimmern"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

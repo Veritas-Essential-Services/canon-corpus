@@ -78,25 +78,21 @@
   "vi-9169": [
    9169,
    "Paris"
+  ],
+  "vi-56987": [
+   56987,
+   "Money (L'Argent)"
   ]
  },
  "internet_archive": {},
  "titles": {
-  "vizetelly-zola-his-masterpiece": {
-   "source": "vi-15900",
+  "vizetelly-zola-abbe-mourets-transgression": {
+   "source": "vi-14200",
    "of": "Émile Zola",
-   "work": "His Masterpiece",
+   "work": "Abbe Mouret's Transgression",
    "translated": "1886-1906 (Chatto and Windus)",
-   "translator": "Ernest Alfred Vizetelly (named in the Gutenberg header as editor)",
-   "scan_edition": "Project Gutenberg 15900 (clean text)"
-  },
-  "vizetelly-zola-the-fortune-of-the-rougons": {
-   "source": "vi-5135",
-   "of": "Émile Zola",
-   "work": "The Fortune of the Rougons",
-   "translated": "1886-1906 (Chatto and Windus)",
-   "translator": "Ernest Alfred Vizetelly (named in the Gutenberg header as editor)",
-   "scan_edition": "Project Gutenberg 5135 (clean text)"
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 14200 (clean text)"
   },
   "vizetelly-zola-fruitfulness": {
    "source": "vi-10330",
@@ -106,46 +102,6 @@
    "translator": "Ernest Alfred Vizetelly",
    "scan_edition": "Project Gutenberg 10330 (clean text)"
   },
-  "vizetelly-zola-abbe-mourets-transgression": {
-   "source": "vi-14200",
-   "of": "Émile Zola",
-   "work": "Abbe Mouret's Transgression",
-   "translated": "1886-1906 (Chatto and Windus)",
-   "translator": "Ernest Alfred Vizetelly",
-   "scan_edition": "Project Gutenberg 14200 (clean text)"
-  },
-  "vizetelly-zola-the-ladies-paradise": {
-   "source": "vi-54726",
-   "of": "Émile Zola",
-   "work": "The Ladies' Paradise",
-   "translated": "1886-1906 (Chatto and Windus)",
-   "translator": "Ernest Alfred Vizetelly",
-   "scan_edition": "Project Gutenberg 54726 (clean text)"
-  },
-  "vizetelly-zola-work-travail": {
-   "source": "vi-55282",
-   "of": "Émile Zola",
-   "work": "Work [Travail]",
-   "translated": "1886-1906 (Chatto and Windus)",
-   "translator": "Ernest Alfred Vizetelly",
-   "scan_edition": "Project Gutenberg 55282 (clean text)"
-  },
-  "vizetelly-zola-truth-v-rit": {
-   "source": "vi-55849",
-   "of": "Émile Zola",
-   "work": "Truth [Vérité]",
-   "translated": "1886-1906 (Chatto and Windus)",
-   "translator": "Ernest Alfred Vizetelly",
-   "scan_edition": "Project Gutenberg 55849 (clean text)"
-  },
-  "vizetelly-zola-the-rush-for-the-spoil-la-cur-e-a-realistic-nove": {
-   "source": "vi-56590",
-   "of": "Émile Zola",
-   "work": "The Rush for the Spoil (La Curée): A Realistic Novel",
-   "translated": "1886-1906 (Chatto and Windus)",
-   "translator": "Ernest Alfred Vizetelly",
-   "scan_edition": "Project Gutenberg 56590 (clean text)"
-  },
   "vizetelly-zola-his-excellency-son-exc-eug-ne-rougon": {
    "source": "vi-56654",
    "of": "Émile Zola",
@@ -154,37 +110,13 @@
    "translator": "Ernest Alfred Vizetelly",
    "scan_edition": "Project Gutenberg 56654 (clean text)"
   },
-  "vizetelly-zola-the-downfall-la-d-b-cle-a-story-of-the-horrors-o": {
-   "source": "vi-56799",
+  "vizetelly-zola-his-masterpiece": {
+   "source": "vi-15900",
    "of": "Émile Zola",
-   "work": "The Downfall (La Débâcle): A Story of the Horrors o",
+   "work": "His Masterpiece",
    "translated": "1886-1906 (Chatto and Windus)",
-   "translator": "Ernest Alfred Vizetelly",
-   "scan_edition": "Project Gutenberg 56799 (clean text)"
-  },
-  "vizetelly-zola-the-conquest-of-plassans-la-conqu-te-de-plassans": {
-   "source": "vi-56860",
-   "of": "Émile Zola",
-   "work": "The Conquest of Plassans (La Conquête de Plassans)",
-   "translated": "1886-1906 (Chatto and Windus)",
-   "translator": "Ernest Alfred Vizetelly",
-   "scan_edition": "Project Gutenberg 56860 (clean text)"
-  },
-  "vizetelly-zola-the-fat-and-the-thin": {
-   "source": "vi-5744",
-   "of": "Émile Zola",
-   "work": "The Fat and the Thin",
-   "translated": "1886-1906 (Chatto and Windus)",
-   "translator": "Ernest Alfred Vizetelly",
-   "scan_edition": "Project Gutenberg 5744 (clean text)"
-  },
-  "vizetelly-zola-theresa-raquin": {
-   "source": "vi-6626",
-   "of": "Émile Zola",
-   "work": "Theresa Raquin",
-   "translated": "1886-1906 (Chatto and Windus)",
-   "translator": "Ernest Alfred Vizetelly",
-   "scan_edition": "Project Gutenberg 6626 (clean text)"
+   "translator": "Ernest Alfred Vizetelly (named in the Gutenberg header as editor)",
+   "scan_edition": "Project Gutenberg 15900 (clean text)"
   },
   "vizetelly-zola-lourdes": {
    "source": "vi-8516",
@@ -194,13 +126,14 @@
    "translator": "Ernest Alfred Vizetelly",
    "scan_edition": "Project Gutenberg 8516 (clean text)"
   },
-  "vizetelly-zola-rome": {
-   "source": "vi-8726",
+  "vizetelly-zola-money": {
+   "source": "vi-56987",
    "of": "Émile Zola",
-   "work": "Rome",
-   "translated": "1886-1906 (Chatto and Windus)",
+   "work": "Money (L'Argent)",
+   "translated": "1894 (Chatto and Windus)",
    "translator": "Ernest Alfred Vizetelly",
-   "scan_edition": "Project Gutenberg 8726 (clean text)"
+   "scan_edition": "Project Gutenberg 56987 (clean text)",
+   "added": "2026-10-10, lane C round 36 (gap-fill); Adam may veto"
   },
   "vizetelly-zola-paris": {
    "source": "vi-9169",
@@ -209,6 +142,86 @@
    "translated": "1886-1906 (Chatto and Windus)",
    "translator": "Ernest Alfred Vizetelly",
    "scan_edition": "Project Gutenberg 9169 (clean text)"
+  },
+  "vizetelly-zola-rome": {
+   "source": "vi-8726",
+   "of": "Émile Zola",
+   "work": "Rome",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 8726 (clean text)"
+  },
+  "vizetelly-zola-the-conquest-of-plassans-la-conqu-te-de-plassans": {
+   "source": "vi-56860",
+   "of": "Émile Zola",
+   "work": "The Conquest of Plassans (La Conquête de Plassans)",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 56860 (clean text)"
+  },
+  "vizetelly-zola-the-downfall-la-d-b-cle-a-story-of-the-horrors-o": {
+   "source": "vi-56799",
+   "of": "Émile Zola",
+   "work": "The Downfall (La Débâcle): A Story of the Horrors o",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 56799 (clean text)"
+  },
+  "vizetelly-zola-the-fat-and-the-thin": {
+   "source": "vi-5744",
+   "of": "Émile Zola",
+   "work": "The Fat and the Thin",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 5744 (clean text)"
+  },
+  "vizetelly-zola-the-fortune-of-the-rougons": {
+   "source": "vi-5135",
+   "of": "Émile Zola",
+   "work": "The Fortune of the Rougons",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly (named in the Gutenberg header as editor)",
+   "scan_edition": "Project Gutenberg 5135 (clean text)"
+  },
+  "vizetelly-zola-the-ladies-paradise": {
+   "source": "vi-54726",
+   "of": "Émile Zola",
+   "work": "The Ladies' Paradise",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 54726 (clean text)"
+  },
+  "vizetelly-zola-the-rush-for-the-spoil-la-cur-e-a-realistic-nove": {
+   "source": "vi-56590",
+   "of": "Émile Zola",
+   "work": "The Rush for the Spoil (La Curée): A Realistic Novel",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 56590 (clean text)"
+  },
+  "vizetelly-zola-theresa-raquin": {
+   "source": "vi-6626",
+   "of": "Émile Zola",
+   "work": "Theresa Raquin",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 6626 (clean text)"
+  },
+  "vizetelly-zola-truth-v-rit": {
+   "source": "vi-55849",
+   "of": "Émile Zola",
+   "work": "Truth [Vérité]",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 55849 (clean text)"
+  },
+  "vizetelly-zola-work-travail": {
+   "source": "vi-55282",
+   "of": "Émile Zola",
+   "work": "Work [Travail]",
+   "translated": "1886-1906 (Chatto and Windus)",
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Project Gutenberg 55282 (clean text)"
   }
  },
  "_pending": {},
@@ -360,6 +373,15 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-56987": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
   }
  },
  "_verified": {
@@ -442,6 +464,11 @@
   },
   "vi-9169": {
    "pg": 9169,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-56987": {
+   "pg": 56987,
    "pg_copyrighted_marker": false,
    "pg_translator": "Ernest Alfred Vizetelly"
   }

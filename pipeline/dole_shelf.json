@@ -36,33 +36,21 @@
   "dol-71884": [
    71884,
    "The Great Masters of Russian Literature in the Nineteenth Century"
+  ],
+  "dol-63599": [
+   63599,
+   "When Thoughts Will Soar"
   ]
  },
  "internet_archive": {},
  "titles": {
-  "dole-tolstoy-where-love-is": {
-   "source": "dol-38616",
-   "of": "Tolstoy",
-   "work": "Where Love is There God is Also",
-   "translated": 1887,
+  "dole-dupuy-great-masters-of-russian-literature": {
+   "source": "dol-71884",
+   "of": "Ernest Dupuy",
+   "work": "The Great Masters of Russian Literature in the Nineteenth Century",
+   "translated": 1886,
    "translator": "Nathan Haskell Dole",
-   "scan_edition": "Project Gutenberg 38616 (clean text)"
-  },
-  "dole-tolstoy-the-invaders": {
-   "source": "dol-56797",
-   "of": "Tolstoy",
-   "work": "The Invaders, and Other Stories",
-   "translated": 1887,
-   "translator": "Nathan Haskell Dole",
-   "scan_edition": "Project Gutenberg 56797 (clean text)"
-  },
-  "dole-palacio-valdes-maximina": {
-   "source": "dol-33244",
-   "of": "Palacio Valdés",
-   "work": "Maximina",
-   "translated": 1888,
-   "translator": "Nathan Haskell Dole",
-   "scan_edition": "Project Gutenberg 33244 (clean text)"
+   "scan_edition": "Project Gutenberg 71884 (clean text); Crowell, New York, 1886"
   },
   "dole-palacio-valdes-marquis-of-penalta": {
    "source": "dol-37969",
@@ -72,6 +60,39 @@
    "translator": "Nathan Haskell Dole",
    "scan_edition": "Project Gutenberg 37969 (clean text)"
   },
+  "dole-palacio-valdes-maximina": {
+   "source": "dol-33244",
+   "of": "Palacio Valdés",
+   "work": "Maximina",
+   "translated": 1888,
+   "translator": "Nathan Haskell Dole",
+   "scan_edition": "Project Gutenberg 33244 (clean text)"
+  },
+  "dole-suttner-when-thoughts-will-soar": {
+   "source": "dol-63599",
+   "of": "Bertha von Suttner",
+   "work": "When Thoughts Will Soar",
+   "translated": "1914",
+   "translator": "Nathan Haskell Dole",
+   "scan_edition": "Project Gutenberg 63599 (clean text)",
+   "added": "2026-10-10, lane C round 36 (gap-fill); Adam may veto"
+  },
+  "dole-tolstoy-the-invaders": {
+   "source": "dol-56797",
+   "of": "Tolstoy",
+   "work": "The Invaders, and Other Stories",
+   "translated": 1887,
+   "translator": "Nathan Haskell Dole",
+   "scan_edition": "Project Gutenberg 56797 (clean text)"
+  },
+  "dole-tolstoy-where-love-is": {
+   "source": "dol-38616",
+   "of": "Tolstoy",
+   "work": "Where Love is There God is Also",
+   "translated": 1887,
+   "translator": "Nathan Haskell Dole",
+   "scan_edition": "Project Gutenberg 38616 (clean text)"
+  },
   "dole-verga-under-the-shadow-of-etna": {
    "source": "dol-37979",
    "of": "Verga",
@@ -79,14 +100,6 @@
    "translated": 1896,
    "translator": "Nathan Haskell Dole",
    "scan_edition": "Project Gutenberg 37979 (clean text)"
-  },
-  "dole-dupuy-great-masters-of-russian-literature": {
-   "source": "dol-71884",
-   "of": "Ernest Dupuy",
-   "work": "The Great Masters of Russian Literature in the Nineteenth Century",
-   "translated": 1886,
-   "translator": "Nathan Haskell Dole",
-   "scan_edition": "Project Gutenberg 71884 (clean text); Crowell, New York, 1886"
   }
  },
  "_pending": {},
@@ -149,6 +162,15 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Nathan Haskell Dole"
+  },
+  "dol-63599": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nathan haskell dole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Nathan Haskell Dole"
   }
  },
  "_verified": {
@@ -179,6 +201,11 @@
   },
   "dol-71884": {
    "pg": 71884,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Nathan Haskell Dole"
+  },
+  "dol-63599": {
+   "pg": 63599,
    "pg_copyrighted_marker": false,
    "pg_translator": "Nathan Haskell Dole"
   }

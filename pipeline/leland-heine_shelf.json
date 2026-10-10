@@ -8,7 +8,12 @@
  ],
  "_surname_note": "Full name: every title page prints 'TRANSLATED FROM THE GERMAN BY CHARLES GODFREY LELAND (HANS BREITMANN)'. 'leland' alone would pass Thomas Leland's Demosthenes.",
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "leland-heine-pg35848": [
+   35848,
+   "Gaudeamus! Humorous Poems"
+  ]
+ },
  "internet_archive": {
   "lh-v1": [
    "worksofheinrichh01heinuoft",
@@ -45,6 +50,16 @@
   ]
  },
  "titles": {
+  "leland-heine-scheffel-gaudeamus": {
+   "source": "leland-heine-pg35848",
+   "of": "Joseph Victor von Scheffel",
+   "work": "Gaudeamus! Humorous Poems",
+   "translated": "1872",
+   "translator": "Charles Godfrey Leland",
+   "scan_edition": "Project Gutenberg 35848 (clean text)",
+   "added": "2026-10-10, lane C round 36 (gap-fill); Adam may veto",
+   "note": "Leland beyond Heine: Scheffel's student songs."
+  },
   "leland-heine-vol-1": {
    "source": "lh-v1",
    "of": "Heine",
@@ -117,6 +132,15 @@
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check.",
  "_checks": {
+  "leland-heine-pg35848": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles godfrey leland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Godfrey Leland"
+  },
   "lh-v1": {
    "kind": "ia",
    "checked": "2026-10-10",
@@ -207,6 +231,11 @@
   }
  },
  "_verified": {
+  "leland-heine-pg35848": {
+   "pg": 35848,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Godfrey Leland"
+  },
   "lh-v1": {
    "ia": "worksofheinrichh01heinuoft",
    "translator_named_in_first_30k": true,

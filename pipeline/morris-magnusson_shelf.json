@@ -22,6 +22,10 @@
   "mm-frithiof": [
    24420,
    "The Story of Frithiof the Bold"
+  ],
+  "morris-magnusson-pg24421": [
+   24421,
+   "The Story of Gunnlaug the Worm-Tongue and Raven the Skald"
   ]
  },
  "internet_archive": {
@@ -55,17 +59,13 @@
   ]
  },
  "titles": {
-  "mm-volsunga-saga": {
+  "mm-frithiof-the-bold": {
+   "source": "mm-frithiof",
    "of": "anonymous (Old Norse)",
-   "work": "The Story of the Volsungs (Volsunga Saga), with excerpts from the Poetic Edda",
-   "translated": 1870,
+   "work": "The Story of Frithiof the Bold",
+   "translated": 1875,
    "translator": "Eiríkr Magnússon and William Morris",
-   "held_in": {
-    "file": "pipeline/poetic-edda_shelf.json",
-    "slug": "edda-volsunga-morris",
-    "gutenberg_id": 1152
-   },
-   "note": "Cross-reference only: Lane D has held this text since 2026-10-03; lane C fetched it again in round 12 by mistake, and the duplicate was removed 2026-10-10."
+   "scan_edition": "Project Gutenberg 24420 (clean text)"
   },
   "mm-grettir-the-strong": {
    "source": "mm-grettir",
@@ -75,13 +75,15 @@
    "translator": "Eiríkr Magnússon and William Morris",
    "scan_edition": "Project Gutenberg 12747 (clean text); a 1900 printing"
   },
-  "mm-frithiof-the-bold": {
-   "source": "mm-frithiof",
+  "mm-gunnlaug-worm-tongue": {
+   "source": "morris-magnusson-pg24421",
    "of": "anonymous (Old Norse)",
-   "work": "The Story of Frithiof the Bold",
-   "translated": 1875,
+   "work": "The Story of Gunnlaug the Worm-Tongue and Raven the Skald",
+   "translated": "1869 (as printed 1875)",
    "translator": "Eiríkr Magnússon and William Morris",
-   "scan_edition": "Project Gutenberg 24420 (clean text)"
+   "scan_edition": "Project Gutenberg 24421 (clean text)",
+   "added": "2026-10-10, lane C round 36 (gap-fill); Adam may veto",
+   "note": "Like Frithiof (24420), Gutenberg's separate file of a story also printed in Three Northern Love Stories (1875)."
   },
   "mm-saga-library-vol-1": {
    "source": "mm-saga-library-1",
@@ -138,6 +140,18 @@
    "translated": 1875,
    "translator": "Eiríkr Magnússon and William Morris",
    "scan_edition": "Ellis and White, London, 1875 (raw OCR; Google scan with its boilerplate page at the head)"
+  },
+  "mm-volsunga-saga": {
+   "of": "anonymous (Old Norse)",
+   "work": "The Story of the Volsungs (Volsunga Saga), with excerpts from the Poetic Edda",
+   "translated": 1870,
+   "translator": "Eiríkr Magnússon and William Morris",
+   "held_in": {
+    "file": "pipeline/poetic-edda_shelf.json",
+    "slug": "edda-volsunga-morris",
+    "gutenberg_id": 1152
+   },
+   "note": "Cross-reference only: Lane D has held this text since 2026-10-03; lane C fetched it again in round 12 by mistake, and the duplicate was removed 2026-10-10."
   }
  },
  "_pending": {},
@@ -160,6 +174,15 @@
    "pg_translator": "Eiríkr Magnússon; William Morris"
   },
   "mm-frithiof": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnússon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eiríkr Magnússon; William Morris"
+  },
+  "morris-magnusson-pg24421": {
    "kind": "gutenberg",
    "checked": "2026-10-10",
    "name_check": "surname",
@@ -254,6 +277,11 @@
   },
   "mm-frithiof": {
    "pg": 24420,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eiríkr Magnússon"
+  },
+  "morris-magnusson-pg24421": {
+   "pg": 24421,
    "pg_copyrighted_marker": false,
    "pg_translator": "Eiríkr Magnússon"
   },

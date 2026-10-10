@@ -1,0 +1,54 @@
+{
+ "_about": "TRANSLATOR SHELF: Edwin Björkman (1866-1951) beyond Strindberg: Schnitzler's The Lonely Way, Intermezzo and Countess Mizzie (1915). His Strindberg is on strindberg-english_shelf.json. US public domain. Added 2026-10-10 by lane C (round 36); Adam may veto. No uids minted.",
+ "_name_words": [
+  "edwin björkman",
+  "edwin bjorkman"
+ ],
+ "_surname": [
+  "edwin björkman",
+  "edwin bjorkman"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ebj-29745": [
+   29745,
+   "The Lonely Way—Intermezzo—Countess Mizzie Three Plays"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "edwin-bjorkman-schnitzler-the-lonely-way-intermezzo-countess-mizzie": {
+   "source": "ebj-29745",
+   "of": "Arthur Schnitzler",
+   "work": "The Lonely Way—Intermezzo—Countess Mizzie Three Plays",
+   "translated": "1915 (see the Gutenberg header)",
+   "translator": "Edwin Björkman",
+   "scan_edition": "Project Gutenberg 29745 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-45375": "Strindberg: on strindberg-english_shelf.json."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ebj-29745": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edwin björkman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edwin Björkman"
+  }
+ },
+ "_verified": {
+  "ebj-29745": {
+   "pg": 29745,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edwin Björkman"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

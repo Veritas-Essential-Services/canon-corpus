@@ -82,6 +82,10 @@
   "dle-37399": [
    37399,
    "The Executioner's Knife; Or, Joan of Arc"
+  ],
+  "dle-1346": [
+   1346,
+   "The Eighteenth Brumaire of Louis Bonaparte"
   ]
  },
  "internet_archive": {},
@@ -93,6 +97,15 @@
    "translated": "1904-1911 (see the Gutenberg header)",
    "translator": "Daniel De Leon",
    "scan_edition": "Project Gutenberg 30646 (clean text)"
+  },
+  "de-leon-marx-the-eighteenth-brumaire-of-louis-bonaparte": {
+   "source": "dle-1346",
+   "of": "Karl Marx",
+   "work": "The Eighteenth Brumaire of Louis Bonaparte",
+   "translated": "1898",
+   "translator": "Daniel De Leon",
+   "scan_edition": "Project Gutenberg 1346 (clean text)",
+   "added": "2026-10-10, lane C round 36 (gap-fill); Adam may veto"
   },
   "de-leon-sue-the-abbatial-crosier-or-bonaik-and-septi": {
    "source": "dle-33274",
@@ -396,6 +409,15 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Daniel De Leon"
+  },
+  "dle-1346": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "daniel de leon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Daniel de Leon"
   }
  },
  "_verified": {
@@ -488,6 +510,11 @@
    "pg": 37399,
    "pg_copyrighted_marker": false,
    "pg_translator": "Daniel De Leon"
+  },
+  "dle-1346": {
+   "pg": 1346,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Daniel de Leon"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

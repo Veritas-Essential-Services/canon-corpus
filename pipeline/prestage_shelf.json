@@ -24,10 +24,23 @@
   "pre-74802": [
    74802,
    "The sweet miracle"
+  ],
+  "pre-57403": [
+   57403,
+   "The Letters of a Portuguese Nun"
   ]
  },
  "internet_archive": {},
  "titles": {
+  "prestage-alcoforado-the-letters-of-a-portuguese-nun": {
+   "source": "pre-57403",
+   "of": "Mariana Alcoforado (attributed; perhaps Guilleragues)",
+   "work": "The Letters of a Portuguese Nun",
+   "translated": "1893",
+   "translator": "Edgar Prestage",
+   "scan_edition": "Project Gutenberg 57403 (clean text)",
+   "added": "2026-10-10, lane C round 36 (gap-fill); Adam may veto"
+  },
   "prestage-queiros-our-lady-of-the-pillar": {
    "source": "pre-56670",
    "of": "Eça de Queirós",
@@ -100,6 +113,15 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Edgar Prestage"
+  },
+  "pre-57403": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edgar prestage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edgar Prestage"
   }
  },
  "_verified": {
@@ -120,6 +142,11 @@
   },
   "pre-74802": {
    "pg": 74802,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edgar Prestage"
+  },
+  "pre-57403": {
+   "pg": 57403,
    "pg_copyrighted_marker": false,
    "pg_translator": "Edgar Prestage"
   }

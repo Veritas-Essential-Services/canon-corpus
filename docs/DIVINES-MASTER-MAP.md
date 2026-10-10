@@ -7550,6 +7550,7 @@ Round 8, vetoable. Not converted to unit-id JSON; **no uids minted**.
 | `theodore-martin-wilhelm-tell` | Schiller | Wilhelm Tell | Sir Theodore Martin | 1847 | have | PG 6788 |
 | `theodore-martin-others` | — | Martin's Faust (1865-86), Vita Nuova (1862), Catullus (1861) and Heine (1878): on IA, not fetched this run. His Horace overlaps lane B's horace shelf; check there first. | — | — | pending | — |
 | — | — | book-of-ballads: The Book of Ballads (PG 44798, with Aytoun): parodies, not translations. | — | — | excluded | — |
+| — | — | pg-2782: Wilhelm Tell again: another Gutenberg file of Martin's translation, already held as 6788. | — | — | excluded | — |
 
 ## Lafcadio Hearn as translator (Gautier, Flaubert)
 
@@ -7562,6 +7563,7 @@ Round 8, vetoable. Not converted to unit-id JSON; **no uids minted**.
 | `hearn-flaubert-temptation` | Flaubert | The Temptation of St. Anthony | Lafcadio Hearn | 1910 | have | PG 52225 |
 | — | — | pg-25053: Gutenberg 25053 is another Temptation of St. Antony with no translator named; not Hearn's. | — | — | excluded | — |
 | — | — | hearn-own-works: Kwaidan, Glimpses of Unfamiliar Japan etc.: Hearn's own books. | — | — | excluded | — |
+| — | — | pg-22660-22662: King Candaules, Clarimonde and The Mummy's Foot: single stories from One of Cleopatra's Nights (39397), already held whole. | — | — | excluded | — |
 
 ## C. K. Scott Moncrieff (Proust, Stendhal, Roland, Beowulf, Abelard)
 
@@ -7679,9 +7681,9 @@ Rounds 12-13 (2026-10-10), vetoable. Includes the six-volume Saga Library. Not c
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
-| `mm-volsunga-saga` | anonymous (Old Norse) | The Story of the Volsungs (Volsunga Saga), with excerpts from the Poetic Edda | Eiríkr Magnússon and William Morris | 1870 | held elsewhere (cross-ref) | `pipeline/poetic-edda_shelf.json` → `edda-volsunga-morris` (PG 1152) |
-| `mm-grettir-the-strong` | anonymous (Old Norse) | The Story of Grettir the Strong | Eiríkr Magnússon and William Morris | 1869 | have | PG 12747 |
 | `mm-frithiof-the-bold` | anonymous (Old Norse) | The Story of Frithiof the Bold | Eiríkr Magnússon and William Morris | 1875 | have | PG 24420 |
+| `mm-grettir-the-strong` | anonymous (Old Norse) | The Story of Grettir the Strong | Eiríkr Magnússon and William Morris | 1869 | have | PG 12747 |
+| `mm-gunnlaug-worm-tongue` | anonymous (Old Norse) | The Story of Gunnlaug the Worm-Tongue and Raven the Skald | Eiríkr Magnússon and William Morris | 1869 (as printed 1875) | have | PG 24421 |
 | `mm-saga-library-vol-1` | anonymous (Old Norse) | The Saga Library, vol. 1: The Story of Howard the Halt; The Banded Men; Hen Thorir | William Morris and Eiríkr Magnússon | 1891 | have-raw | IA `sagalibrarydonei01snoriala` |
 | `mm-saga-library-vol-2` | anonymous (Old Norse) | The Saga Library, vol. 2: The Story of the Ere-Dwellers (Eyrbyggja Saga), with The Heath-Slayings | William Morris and Eiríkr Magnússon | 1892 | have-raw | IA `sagalibrarydonei02snor` |
 | `mm-saga-library-vol-3` | Snorri Sturluson | The Saga Library, vol. 3: Heimskringla, vol. I | William Morris and Eiríkr Magnússon | 1893 | have-raw | IA `sagalibrarydonei03snor` |
@@ -7689,6 +7691,7 @@ Rounds 12-13 (2026-10-10), vetoable. Includes the six-volume Saga Library. Not c
 | `mm-saga-library-vol-5` | Snorri Sturluson | The Saga Library, vol. 5: Heimskringla, vol. III | William Morris and Eiríkr Magnússon | 1895 | have-raw | IA `sagalibrary05snoruoft` |
 | `mm-saga-library-vol-6` | Snorri Sturluson | The Saga Library, vol. 6: Heimskringla, vol. IV (Magnússon's life of Snorri, notes and indexes) | Eiríkr Magnússon | 1905 | have-raw | IA `sagalibrarydonei06snor` |
 | `mm-three-northern-love-stories` | anonymous (Old Norse) | Three Northern Love Stories and Other Tales | Eiríkr Magnússon and William Morris | 1875 | have-raw | IA `threenorthernlo00morrgoog` |
+| `mm-volsunga-saga` | anonymous (Old Norse) | The Story of the Volsungs (Volsunga Saga), with excerpts from the Poetic Edda | Eiríkr Magnússon and William Morris | 1870 | held elsewhere (cross-ref) | `pipeline/poetic-edda_shelf.json` → `edda-volsunga-morris` (PG 1152) |
 | — | — | pg-347: Another Grettir's Saga with no translator named (apparently G. A. Hight's 1914 Everyman version); not Magnússon and Morris. | — | — | excluded | — |
 | — | — | pg-48622: Baring-Gould's Grettir the Outlaw, his own retelling; on baring-gould_shelf.json. | — | — | excluded | — |
 | — | — | sagalibrary01snoruoft: Labelled vol. 1 on archive.org, but its title page reads Saga Library VOL. III (Heimskringla I); the cdl copy is used for vol. 3. | — | — | excluded | — |
@@ -7702,26 +7705,28 @@ Round 12 (2026-10-10), vetoable. Each title gates on its own translator. Not con
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
+| `strindberg-bjorkman-master-olof` | Strindberg | Master Olof | Edwin Björkman | 1915 | have | PG 7363 |
+| `strindberg-bjorkman-plays-1` | Strindberg | Plays, first series: The Dream Play; The Link; The Dance of Death I and II | Edwin Björkman | 1912 | have-raw | IA `playsbyauguststr00stri` |
 | `strindberg-bjorkman-plays-2` | Strindberg | Plays, second series: There Are Crimes and Crimes; Miss Julia; The Stronger; Creditors; Pariah | Edwin Björkman | 1913 | have | PG 14347 |
 | `strindberg-bjorkman-plays-3` | Strindberg | Plays, third series: Swanwhite; Simoom; Debit and Credit; Advent; The Thunderstorm; After the Fire | Edwin Björkman | 1913 | have | PG 44233 |
 | `strindberg-bjorkman-plays-4` | Strindberg | Plays, fourth series: The Bridal Crown; The Spook Sonata; The First Warning; Gustavus Vasa | Edwin Björkman | 1916 | have | PG 44302 |
-| `strindberg-bjorkman-master-olof` | Strindberg | Master Olof | Edwin Björkman | 1915 | have | PG 7363 |
-| `strindberg-oland-plays-1` | Strindberg | Plays: The Father; Countess Julie; The Outlaw; The Stronger | Edith and Warner Oland | 1912 | have | PG 8499 |
-| `strindberg-oland-plays-2` | Strindberg | Plays: Comrades; Facing Death; Pariah; Easter | Edith and Warner Oland | 1912 | have | PG 8500 |
-| `strindberg-field-inferno` | Strindberg | The Inferno | Claud Field | 1912 | have | PG 44108 |
-| `strindberg-field-son-of-a-servant` | Strindberg | The Son of a Servant | Claud Field | 1913 | have | PG 44109 |
-| `strindberg-field-zones-of-the-spirit` | Strindberg | Zones of the Spirit | Claud Field | 1913 | have | PG 44118 |
 | `strindberg-field-german-lieutenant` | Strindberg | The German Lieutenant and Other Stories | Claud Field | 1915 | have | PG 46107 |
 | `strindberg-field-historical-miniatures` | Strindberg | Historical Miniatures | Claud Field | 1913 | have | PG 7955 |
-| `strindberg-schleussner-red-room` | Strindberg | The Red Room | Ellie Schleussner | 1913 | have | PG 37039 |
+| `strindberg-field-inferno` | Strindberg | The Inferno | Claud Field | 1912 | have | PG 44108 |
+| `strindberg-field-son-of-a-servant` | Strindberg | The Son of a Servant | Claud Field | 1913 | have | PG 44109 |
+| `strindberg-field-the-growth-of-a-soul` | Strindberg | The Growth of a Soul | Claud Field | 1913 | have | PG 44107 |
+| `strindberg-field-zones-of-the-spirit` | Strindberg | Zones of the Spirit | Claud Field | 1913 | have | PG 44118 |
+| `strindberg-oland-plays-1` | Strindberg | Plays: The Father; Countess Julie; The Outlaw; The Stronger | Edith and Warner Oland | 1912 | have | PG 8499 |
+| `strindberg-oland-plays-2` | Strindberg | Plays: Comrades; Facing Death; Pariah; Easter | Edith and Warner Oland | 1912 | have | PG 8500 |
 | `strindberg-schleussner-confession-of-a-fool` | Strindberg | The Confession of a Fool | Ellie Schleussner | 1912 | have | PG 44106 |
 | `strindberg-schleussner-in-midsummer-days` | Strindberg | In Midsummer Days and Other Tales | Ellie Schleussner | 1913 | have | PG 6694 |
-| `strindberg-bjorkman-plays-1` | Strindberg | Plays, first series: The Dream Play; The Link; The Dance of Death I and II | Edwin Björkman | 1912 | have-raw | IA `playsbyauguststr00stri` |
+| `strindberg-schleussner-red-room` | Strindberg | The Red Room | Ellie Schleussner | 1913 | have | PG 37039 |
 | — | — | pg-4970: There Are Crimes and Crimes alone: the same Björkman text is in the second series (14347). | — | — | excluded | — |
 | — | — | pg-5053: Creditors and Pariah alone: the same Björkman text is in the second series. | — | — | excluded | — |
 | — | — | pg-8875: The Road to Damascus, tr. Graham Rawson: the text cites a 1937 production; Rawson's translation is of 1939. Not before 1931. | — | — | excluded | — |
 | — | — | pg-7956: Married (1913): no translator named. | — | — | excluded | — |
 | — | — | pg-46397: Legends (1912): no translator named. | — | — | excluded | — |
+| — | — | pg-45375: Plays, First Series (Björkman) on Gutenberg: the same series is held from archive.org (sb-bjorkman-plays-1). | — | — | excluded | — |
 
 ## Marmaduke Pickthall (The Meaning of the Glorious Koran, 1930)
 
@@ -7795,22 +7800,23 @@ Round 14 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
-| `vizetelly-zola-his-masterpiece` | Émile Zola | His Masterpiece | Ernest Alfred Vizetelly (named in the Gutenberg header as editor) | 1886-1906 (Chatto and Windus) | have | PG 15900 |
-| `vizetelly-zola-the-fortune-of-the-rougons` | Émile Zola | The Fortune of the Rougons | Ernest Alfred Vizetelly (named in the Gutenberg header as editor) | 1886-1906 (Chatto and Windus) | have | PG 5135 |
-| `vizetelly-zola-fruitfulness` | Émile Zola | Fruitfulness | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 10330 |
 | `vizetelly-zola-abbe-mourets-transgression` | Émile Zola | Abbe Mouret's Transgression | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 14200 |
-| `vizetelly-zola-the-ladies-paradise` | Émile Zola | The Ladies' Paradise | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 54726 |
-| `vizetelly-zola-work-travail` | Émile Zola | Work [Travail] | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 55282 |
-| `vizetelly-zola-truth-v-rit` | Émile Zola | Truth [Vérité] | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 55849 |
-| `vizetelly-zola-the-rush-for-the-spoil-la-cur-e-a-realistic-nove` | Émile Zola | The Rush for the Spoil (La Curée): A Realistic Novel | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 56590 |
+| `vizetelly-zola-fruitfulness` | Émile Zola | Fruitfulness | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 10330 |
 | `vizetelly-zola-his-excellency-son-exc-eug-ne-rougon` | Émile Zola | His Excellency [Son Exc. Eugène Rougon] | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 56654 |
-| `vizetelly-zola-the-downfall-la-d-b-cle-a-story-of-the-horrors-o` | Émile Zola | The Downfall (La Débâcle): A Story of the Horrors o | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 56799 |
-| `vizetelly-zola-the-conquest-of-plassans-la-conqu-te-de-plassans` | Émile Zola | The Conquest of Plassans (La Conquête de Plassans) | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 56860 |
-| `vizetelly-zola-the-fat-and-the-thin` | Émile Zola | The Fat and the Thin | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 5744 |
-| `vizetelly-zola-theresa-raquin` | Émile Zola | Theresa Raquin | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 6626 |
+| `vizetelly-zola-his-masterpiece` | Émile Zola | His Masterpiece | Ernest Alfred Vizetelly (named in the Gutenberg header as editor) | 1886-1906 (Chatto and Windus) | have | PG 15900 |
 | `vizetelly-zola-lourdes` | Émile Zola | Lourdes | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 8516 |
-| `vizetelly-zola-rome` | Émile Zola | Rome | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 8726 |
+| `vizetelly-zola-money` | Émile Zola | Money (L'Argent) | Ernest Alfred Vizetelly | 1894 (Chatto and Windus) | have | PG 56987 |
 | `vizetelly-zola-paris` | Émile Zola | Paris | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 9169 |
+| `vizetelly-zola-rome` | Émile Zola | Rome | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 8726 |
+| `vizetelly-zola-the-conquest-of-plassans-la-conqu-te-de-plassans` | Émile Zola | The Conquest of Plassans (La Conquête de Plassans) | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 56860 |
+| `vizetelly-zola-the-downfall-la-d-b-cle-a-story-of-the-horrors-o` | Émile Zola | The Downfall (La Débâcle): A Story of the Horrors o | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 56799 |
+| `vizetelly-zola-the-fat-and-the-thin` | Émile Zola | The Fat and the Thin | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 5744 |
+| `vizetelly-zola-the-fortune-of-the-rougons` | Émile Zola | The Fortune of the Rougons | Ernest Alfred Vizetelly (named in the Gutenberg header as editor) | 1886-1906 (Chatto and Windus) | have | PG 5135 |
+| `vizetelly-zola-the-ladies-paradise` | Émile Zola | The Ladies' Paradise | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 54726 |
+| `vizetelly-zola-the-rush-for-the-spoil-la-cur-e-a-realistic-nove` | Émile Zola | The Rush for the Spoil (La Curée): A Realistic Novel | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 56590 |
+| `vizetelly-zola-theresa-raquin` | Émile Zola | Theresa Raquin | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 6626 |
+| `vizetelly-zola-truth-v-rit` | Émile Zola | Truth [Vérité] | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 55849 |
+| `vizetelly-zola-work-travail` | Émile Zola | Work [Travail] | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 55282 |
 | — | — | three-cities-parts: Gutenberg also splits Lourdes, Rome and Paris into volumes (8511-8515, 8721-8725, 9165-9167) and has a trilogy omnibus (9170); the complete single-novel texts (8516, 8726, 9169) are used, so nothing is held twice. | — | — | excluded | — |
 
 ## Leo Wiener's Complete Works of Count Tolstoy (1904-05)
@@ -7856,6 +7862,7 @@ Round 16 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
+| `leland-heine-scheffel-gaudeamus` | Joseph Victor von Scheffel | Gaudeamus! Humorous Poems | Charles Godfrey Leland | 1872 | have | PG 35848 |
 | `leland-heine-vol-1` | Heine | The Works of Heinrich Heine, vol. 1: Florentine Nights; The Memoirs of Herr von Schnabelewopski; The Rabbi of Bacharach; Shakespeare's Maidens and Women | Charles Godfrey Leland | 1891 | have-raw | IA `worksofheinrichh01heinuoft` |
 | `leland-heine-vol-2` | Heine | The Works of Heinrich Heine, vol. 2: Pictures of Travel, vol. I (1823-1826) | Charles Godfrey Leland | 1891 | have-raw | IA `worksofheinrichh02hein` |
 | `leland-heine-vol-3` | Heine | The Works of Heinrich Heine, vol. 3: Pictures of Travel, vol. II (1828) | Charles Godfrey Leland | 1891 | have-raw | IA `worksofheinrichh03heinuoft` |
@@ -7889,16 +7896,17 @@ Round 17 (2026-10-10), vetoable. UK status varies by co-translator. Not converte
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
+| `koteliansky-bunin-gentleman-from-san-francisco` | Bunin | The Gentleman from San Francisco and Other Stories | S. S. Koteliansky and Leonard Woolf; the title story by D. H. Lawrence and S. S. Koteliansky (the book's own erratum note) | 1922 | have | PG 44998 |
 | `koteliansky-chekhov-note-book` | Chekhov | Note-Book of Anton Chekhov | S. S. Koteliansky and Leonard Woolf | 1921 | have | PG 12494 |
+| `koteliansky-chekhov-the-bet` | Chekhov | The Bet, and Other Stories | S. S. Koteliansky and J. M. Murry | 1915 | have | PG 55283 |
+| `koteliansky-countess-tolstoy-autobiography` | S. A. Tolstaya | Autobiography of Countess Tolstoy | S. S. Koteliansky and Leonard Woolf | 1922 | have | PG 38027 |
+| `koteliansky-dostoevsky-stavrogins-confession` | Fyodor Dostoevsky | Stavrogin's Confession and The Plan of The Life of a Great Sinner | S. S. Koteliansky and Virginia Woolf | 1922 | have | PG 57050 |
+| `koteliansky-goldenweizer-talks-with-tolstoi` | A. B. Goldenweizer | Talks with Tolstoi | S. S. Koteliansky and Virginia Woolf | 1923 | have | PG 65159 |
 | `koteliansky-gorky-reminiscences-of-chekhov` | Gorky | Reminiscences of Anton Chekhov | S. S. Koteliansky and Leonard Woolf | 1921 | have | PG 37129 |
 | `koteliansky-gorky-reminiscences-of-tolstoy` | Gorky | Reminiscences of Leo Nicolayevitch Tolstoi | S. S. Koteliansky and Leonard Woolf | 1920 | have | PG 55284 |
-| `koteliansky-countess-tolstoy-autobiography` | S. A. Tolstaya | Autobiography of Countess Tolstoy | S. S. Koteliansky and Leonard Woolf | 1922 | have | PG 38027 |
-| `koteliansky-bunin-gentleman-from-san-francisco` | Bunin | The Gentleman from San Francisco and Other Stories | S. S. Koteliansky and Leonard Woolf; the title story by D. H. Lawrence and S. S. Koteliansky (the book's own erratum note) | 1922 | have | PG 44998 |
-| `koteliansky-chekhov-the-bet` | Chekhov | The Bet, and Other Stories | S. S. Koteliansky and J. M. Murry | 1915 | have | PG 55283 |
 | `koteliansky-kuprin-river-of-life` | Kuprin | The River of Life, and Other Stories | S. S. Koteliansky and J. M. Murry | 1916 | have | PG 58406 |
-| `koteliansky-shestov-anton-tchekhov` | Shestov | Anton Tchekhov, and Other Essays | S. S. Koteliansky and J. M. Murry | 1916 | have | PG 56758 |
 | `koteliansky-shestov-all-things-are-possible` | Shestov | All Things are Possible | S. S. Koteliansky (foreword by D. H. Lawrence) | 1920 | have | PG 57369 |
-| `koteliansky-goldenweizer-talks-with-tolstoi` | A. B. Goldenweizer | Talks with Tolstoi | S. S. Koteliansky and Virginia Woolf | 1923 | have | PG 65159 |
+| `koteliansky-shestov-anton-tchekhov` | Shestov | Anton Tchekhov, and Other Essays | S. S. Koteliansky and J. M. Murry | 1916 | have | PG 56758 |
 
 ## Marian Fell (Chekhov, Korolenko)
 
@@ -7939,12 +7947,13 @@ Round 17 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
-| `dole-tolstoy-where-love-is` | Tolstoy | Where Love is There God is Also | Nathan Haskell Dole | 1887 | have | PG 38616 |
-| `dole-tolstoy-the-invaders` | Tolstoy | The Invaders, and Other Stories | Nathan Haskell Dole | 1887 | have | PG 56797 |
-| `dole-palacio-valdes-maximina` | Palacio Valdés | Maximina | Nathan Haskell Dole | 1888 | have | PG 33244 |
-| `dole-palacio-valdes-marquis-of-penalta` | Palacio Valdés | The Marquis of Peñalta (Marta y María) | Nathan Haskell Dole | 1886 | have | PG 37969 |
-| `dole-verga-under-the-shadow-of-etna` | Verga | Under the Shadow of Etna: Sicilian Stories | Nathan Haskell Dole | 1896 | have | PG 37979 |
 | `dole-dupuy-great-masters-of-russian-literature` | Ernest Dupuy | The Great Masters of Russian Literature in the Nineteenth Century | Nathan Haskell Dole | 1886 | have | PG 71884 |
+| `dole-palacio-valdes-marquis-of-penalta` | Palacio Valdés | The Marquis of Peñalta (Marta y María) | Nathan Haskell Dole | 1886 | have | PG 37969 |
+| `dole-palacio-valdes-maximina` | Palacio Valdés | Maximina | Nathan Haskell Dole | 1888 | have | PG 33244 |
+| `dole-suttner-when-thoughts-will-soar` | Bertha von Suttner | When Thoughts Will Soar | Nathan Haskell Dole | 1914 | have | PG 63599 |
+| `dole-tolstoy-the-invaders` | Tolstoy | The Invaders, and Other Stories | Nathan Haskell Dole | 1887 | have | PG 56797 |
+| `dole-tolstoy-where-love-is` | Tolstoy | Where Love is There God is Also | Nathan Haskell Dole | 1887 | have | PG 38616 |
+| `dole-verga-under-the-shadow-of-etna` | Verga | Under the Shadow of Etna: Sicilian Stories | Nathan Haskell Dole | 1896 | have | PG 37979 |
 | — | — | pg-38520: Poems of James Russell Lowell: Dole wrote the introduction; not a translation. | — | — | excluded | — |
 | — | — | pg-41119: A Russian Proprietor (Tolstoy, PG 41119): not checked this round. | — | — | excluded | — |
 
@@ -8450,6 +8459,7 @@ Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `de-leon-bebel-woman-under-socialism` | August Bebel | Woman under socialism | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 30646 |
+| `de-leon-marx-the-eighteenth-brumaire-of-louis-bonaparte` | Karl Marx | The Eighteenth Brumaire of Louis Bonaparte | Daniel De Leon | 1898 | have | PG 1346 |
 | `de-leon-sue-the-abbatial-crosier-or-bonaik-and-septi` | Eugène Sue | The Abbatial Crosier; or, Bonaik and Septimine. A Tale of a Medieval Abbess | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 33274 |
 | `de-leon-sue-the-blacksmith-s-hammer-or-the-peasant-c` | Eugène Sue | The Blacksmith's Hammer; or, The Peasant Code: A Tale of the Grand Monarch | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 34987 |
 | `de-leon-sue-the-branding-needle-or-the-monastery-of` | Eugène Sue | The Branding Needle; or, The Monastery of Charolles | Daniel De Leon | 1904-1911 (see the Gutenberg header) | have | PG 33618 |
@@ -9174,6 +9184,7 @@ Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
+| `prestage-alcoforado-the-letters-of-a-portuguese-nun` | Mariana Alcoforado (attributed; perhaps Guilleragues) | The Letters of a Portuguese Nun | Edgar Prestage | 1893 | have | PG 57403 |
 | `prestage-queiros-our-lady-of-the-pillar` | Eça de Queirós | Our Lady of the Pillar | Edgar Prestage | 1896-1906 (see the Gutenberg header) | have | PG 56670 |
 | `prestage-queiros-the-sweet-miracle` | Eça de Queirós | The sweet miracle | Edgar Prestage | 1896-1906 (see the Gutenberg header) | have | PG 74802 |
 | `prestage-zurara-chronicle-of-guinea-vol-1` | Gomes Eannes de Zurara | The Chronicle of the Discovery and Conquest of Guinea. Vol. I | Edgar Prestage (with C. Raymond Beazley) | 1896-1906 (see the Gutenberg header) | have | PG 35738 |
@@ -10737,6 +10748,68 @@ Round 35 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `adele-seltzer-liber-rashi` | Maurice Liber | Rashi | Adele Szold Seltzer | 1906 | have | PG 3165 |
 | `adele-seltzer-magdeleine-marx-woman` | Magdeleine Marx | Woman | Adele Szold Seltzer | 1920 | have | PG 33943 |
 | `adele-seltzer-sudermann-iolanthes-wedding` | Hermann Sudermann | Iolanthe's Wedding | Adele Szold Seltzer | 1918 | have | PG 34358 |
+
+## Claud Field beyond Strindberg (Gogol; Al Ghazzali; Gunnarsson; Russian peasant tales)
+
+Shelf: `pipeline/claud-field_shelf.json` · fetch `python3 pipeline/fetch_shelf.py claud-field` · titles `python3 pipeline/split_shelf_titles.py claud-field`.
+Round 36 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `claud-field-ghazzali-the-confessions-of-al-ghazzali` | Al-Ghazali | The Confessions of Al Ghazzali | Claud Field | 1909-1920 (see the Gutenberg header) | have | PG 58977 |
+| `claud-field-gogol-the-mantle-and-other-stories` | Nikolai Gogol | The Mantle, and Other Stories | Claud Field | 1909-1920 (see the Gutenberg header) | have | PG 36238 |
+| `claud-field-gunnarsson-the-sworn-brothers` | Gunnar Gunnarsson | The Sworn Brothers: A Tale of the Early Days of Iceland | Claud Field (with William Emmé) | 1909-1920 (see the Gutenberg header) | have | PG 62123 |
+| `claud-field-nemirovich-danchenko-peasant-tales-of-russia` | Vasilii Ivanovich Nemirovich-Danchenko | Peasant Tales of Russia | Claud Field | 1909-1920 (see the Gutenberg header) | have | PG 32755 |
+| — | — | pg-44107: The Growth of a Soul is Strindberg: on strindberg-english_shelf.json. | — | — | excluded | — |
+
+## Edwin Björkman beyond Strindberg (Schnitzler's Three Plays)
+
+Shelf: `pipeline/edwin-bjorkman_shelf.json` · fetch `python3 pipeline/fetch_shelf.py edwin-bjorkman` · titles `python3 pipeline/split_shelf_titles.py edwin-bjorkman`.
+Round 36 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `edwin-bjorkman-schnitzler-the-lonely-way-intermezzo-countess-mizzie` | Arthur Schnitzler | The Lonely Way—Intermezzo—Countess Mizzie Three Plays | Edwin Björkman | 1915 (see the Gutenberg header) | have | PG 29745 |
+| — | — | pg-45375: Strindberg: on strindberg-english_shelf.json. | — | — | excluded | — |
+
+## Ellie Schleussner beyond Strindberg (Lucka's Evolution of Love)
+
+Shelf: `pipeline/ellie-schleussner_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ellie-schleussner` · titles `python3 pipeline/split_shelf_titles.py ellie-schleussner`.
+Round 36 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ellie-schleussner-lucka-the-evolution-of-love` | Emil Lucka | The Evolution of Love | Ellie Schleussner | 1922 (see the Gutenberg header) | have | PG 17699 |
+
+## Helen Zimmern beyond Nietzsche (Carmen Sylva's Pilgrim Sorrow)
+
+Shelf: `pipeline/helen-zimmern_shelf.json` · fetch `python3 pipeline/fetch_shelf.py helen-zimmern` · titles `python3 pipeline/split_shelf_titles.py helen-zimmern`.
+Round 36 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `helen-zimmern-sylva-pilgrim-sorrow-a-cycle-of-tales` | Carmen Sylva | Pilgrim Sorrow: A Cycle of Tales | Helen Zimmern | 1884 (see the Gutenberg header) | have | PG 46262 |
+| — | — | pg-27799: De Amicis's Holland vol. 1: De Amicis has his own shelf (de-amicis_shelf.json, another lane); left for its owner. | — | — | excluded | — |
+
+## Paul V. Cohn beyond Nietzsche (Bordeaux's Fort Vaux; Beyens)
+
+Shelf: `pipeline/paul-cohn_shelf.json` · fetch `python3 pipeline/fetch_shelf.py paul-cohn` · titles `python3 pipeline/split_shelf_titles.py paul-cohn`.
+Round 36 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `paul-cohn-beyens-germany-before-the-war` | Baron Eugène Beyens | Germany before the war | Paul V. Cohn | 1916-1917 (see the Gutenberg header) | have | PG 48572 |
+| `paul-cohn-bordeaux-the-last-days-of-fort-vaux` | Henry Bordeaux | The Last Days of Fort Vaux, March 9-June 7, 1916 | Paul V. Cohn | 1916-1917 (see the Gutenberg header) | have | PG 48532 |
+
+## Horace B. Samuel beyond Nietzsche (Stendhal's The Red and the Black; Schnitzler)
+
+Shelf: `pipeline/horace-samuel_shelf.json` · fetch `python3 pipeline/fetch_shelf.py horace-samuel` · titles `python3 pipeline/split_shelf_titles.py horace-samuel`.
+Round 36 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `horace-samuel-schnitzler-the-road-to-the-open` | Arthur Schnitzler | The Road to the Open | Horace B. Samuel | 1913-1923 (see the Gutenberg header) | have | PG 45895 |
+| `horace-samuel-stendhal-the-red-and-the-black` | Stendhal | The Red and the Black: A Chronicle of 1830 | Horace B. Samuel | 1913-1923 (see the Gutenberg header) | have | PG 44747 |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 

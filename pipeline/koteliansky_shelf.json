@@ -52,10 +52,22 @@
   "kot-65159": [
    65159,
    "Talks with Tolstoi"
+  ],
+  "kot-57050": [
+   57050,
+   "Stavrogin's Confession and The Plan of The Life of a Great Sinner"
   ]
  },
  "internet_archive": {},
  "titles": {
+  "koteliansky-bunin-gentleman-from-san-francisco": {
+   "source": "kot-44998",
+   "of": "Bunin",
+   "work": "The Gentleman from San Francisco and Other Stories",
+   "translated": 1922,
+   "translator": "S. S. Koteliansky and Leonard Woolf; the title story by D. H. Lawrence and S. S. Koteliansky (the book's own erratum note)",
+   "scan_edition": "Project Gutenberg 44998 (clean text)"
+  },
   "koteliansky-chekhov-note-book": {
    "source": "kot-12494",
    "of": "Chekhov",
@@ -63,6 +75,39 @@
    "translated": 1921,
    "translator": "S. S. Koteliansky and Leonard Woolf",
    "scan_edition": "Project Gutenberg 12494 (clean text)"
+  },
+  "koteliansky-chekhov-the-bet": {
+   "source": "kot-55283",
+   "of": "Chekhov",
+   "work": "The Bet, and Other Stories",
+   "translated": 1915,
+   "translator": "S. S. Koteliansky and J. M. Murry",
+   "scan_edition": "Project Gutenberg 55283 (clean text)"
+  },
+  "koteliansky-countess-tolstoy-autobiography": {
+   "source": "kot-38027",
+   "of": "S. A. Tolstaya",
+   "work": "Autobiography of Countess Tolstoy",
+   "translated": 1922,
+   "translator": "S. S. Koteliansky and Leonard Woolf",
+   "scan_edition": "Project Gutenberg 38027 (clean text)"
+  },
+  "koteliansky-dostoevsky-stavrogins-confession": {
+   "source": "kot-57050",
+   "of": "Fyodor Dostoevsky",
+   "work": "Stavrogin's Confession and The Plan of The Life of a Great Sinner",
+   "translated": "1922",
+   "translator": "S. S. Koteliansky and Virginia Woolf",
+   "scan_edition": "Project Gutenberg 57050 (clean text)",
+   "added": "2026-10-10, lane C round 36 (gap-fill); Adam may veto"
+  },
+  "koteliansky-goldenweizer-talks-with-tolstoi": {
+   "source": "kot-65159",
+   "of": "A. B. Goldenweizer",
+   "work": "Talks with Tolstoi",
+   "translated": 1923,
+   "translator": "S. S. Koteliansky and Virginia Woolf",
+   "scan_edition": "Project Gutenberg 65159 (clean text)"
   },
   "koteliansky-gorky-reminiscences-of-chekhov": {
    "source": "kot-37129",
@@ -80,30 +125,6 @@
    "translator": "S. S. Koteliansky and Leonard Woolf",
    "scan_edition": "Project Gutenberg 55284 (clean text)"
   },
-  "koteliansky-countess-tolstoy-autobiography": {
-   "source": "kot-38027",
-   "of": "S. A. Tolstaya",
-   "work": "Autobiography of Countess Tolstoy",
-   "translated": 1922,
-   "translator": "S. S. Koteliansky and Leonard Woolf",
-   "scan_edition": "Project Gutenberg 38027 (clean text)"
-  },
-  "koteliansky-bunin-gentleman-from-san-francisco": {
-   "source": "kot-44998",
-   "of": "Bunin",
-   "work": "The Gentleman from San Francisco and Other Stories",
-   "translated": 1922,
-   "translator": "S. S. Koteliansky and Leonard Woolf; the title story by D. H. Lawrence and S. S. Koteliansky (the book's own erratum note)",
-   "scan_edition": "Project Gutenberg 44998 (clean text)"
-  },
-  "koteliansky-chekhov-the-bet": {
-   "source": "kot-55283",
-   "of": "Chekhov",
-   "work": "The Bet, and Other Stories",
-   "translated": 1915,
-   "translator": "S. S. Koteliansky and J. M. Murry",
-   "scan_edition": "Project Gutenberg 55283 (clean text)"
-  },
   "koteliansky-kuprin-river-of-life": {
    "source": "kot-58406",
    "of": "Kuprin",
@@ -111,14 +132,6 @@
    "translated": 1916,
    "translator": "S. S. Koteliansky and J. M. Murry",
    "scan_edition": "Project Gutenberg 58406 (clean text)"
-  },
-  "koteliansky-shestov-anton-tchekhov": {
-   "source": "kot-56758",
-   "of": "Shestov",
-   "work": "Anton Tchekhov, and Other Essays",
-   "translated": 1916,
-   "translator": "S. S. Koteliansky and J. M. Murry",
-   "scan_edition": "Project Gutenberg 56758 (clean text)"
   },
   "koteliansky-shestov-all-things-are-possible": {
    "source": "kot-57369",
@@ -128,13 +141,13 @@
    "translator": "S. S. Koteliansky (foreword by D. H. Lawrence)",
    "scan_edition": "Project Gutenberg 57369 (clean text)"
   },
-  "koteliansky-goldenweizer-talks-with-tolstoi": {
-   "source": "kot-65159",
-   "of": "A. B. Goldenweizer",
-   "work": "Talks with Tolstoi",
-   "translated": 1923,
-   "translator": "S. S. Koteliansky and Virginia Woolf",
-   "scan_edition": "Project Gutenberg 65159 (clean text)"
+  "koteliansky-shestov-anton-tchekhov": {
+   "source": "kot-56758",
+   "of": "Shestov",
+   "work": "Anton Tchekhov, and Other Essays",
+   "translated": 1916,
+   "translator": "S. S. Koteliansky and J. M. Murry",
+   "scan_edition": "Project Gutenberg 56758 (clean text)"
   }
  },
  "_pending": {},
@@ -230,6 +243,15 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "S. S. Koteliansky; Virginia Woolf"
+  },
+  "kot-57050": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. koteliansky",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. S. Koteliansky; Virginia Woolf"
   }
  },
  "_verified": {
@@ -280,6 +302,11 @@
   },
   "kot-65159": {
    "pg": 65159,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. S. Koteliansky"
+  },
+  "kot-57050": {
+   "pg": 57050,
    "pg_copyrighted_marker": false,
    "pg_translator": "S. S. Koteliansky"
   }

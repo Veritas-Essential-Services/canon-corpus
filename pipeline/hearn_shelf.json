@@ -39,7 +39,8 @@
  "_pending": {},
  "_excluded": {
   "pg-25053": "Gutenberg 25053 is another Temptation of St. Antony with no translator named; not Hearn's.",
-  "hearn-own-works": "Kwaidan, Glimpses of Unfamiliar Japan etc.: Hearn's own books."
+  "hearn-own-works": "Kwaidan, Glimpses of Unfamiliar Japan etc.: Hearn's own books.",
+  "pg-22660-22662": "King Candaules, Clarimonde and The Mummy's Foot: single stories from One of Cleopatra's Nights (39397), already held whole."
  },
  "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
  "_checks": {
