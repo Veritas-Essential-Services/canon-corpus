@@ -1,0 +1,47 @@
+{
+ "_about": "R. Rice Davies's The Cambrian Sketch-Book: Tales, Scenes, and Legends of Wild Wales (undated in the text). Gutenberg catalogue: Davies died 1882. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "R. Rice Davies",
+ "_name_words": [
+  "cambrian"
+ ],
+ "_surname": [
+  "r. rice davies",
+  "rice davies"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rdavies-cambrian-sketch-book": [
+   39539,
+   "The Cambrian Sketch-Book: Tales, Scenes, and Legends of Wild Wales",
+   {
+    "levels": [
+     {
+      "re": "(?:ASCENT OF SNOWDON\\.|A STORY OF DUNRAVEN CASTLE IN THE OLDEN TIMES;.*|PARSON JONES, AND .*|CADWGAN WYNN;.*|TRADITIONS OF LLYN SAVATHAN;.*|TREFFYNNON;.*|THE VISIT OF ELIDORUS TO THE FAIRY KINGDOM BENEATH THE BAY\\.|CEFN-Y-BEDD;.*|LIST OF SUBSCRIBERS\\.|NOTES\\.)$",
+      "max": 160,
+      "strip": "\\.$"
+     },
+     {
+      "re": "CHAPTER [IVX]+\\. .*|THE PROEM\\.$|PARSON JONES’S TALE OF NAT THE SMITH AND THE THREE WISHES\\.$",
+      "max": 160,
+      "strip": "\\.$|_"
+     }
+    ],
+    "start": "ASCENT OF SNOWDON\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "rdavies-cambrian-sketch-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. rice davies",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
