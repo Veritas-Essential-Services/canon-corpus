@@ -2854,6 +2854,7 @@ Shelf: `pipeline/h-n-fowler_shelf.json`. Harold North Fowler (1859-1955), Wester
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A History of Roman Literature |  | `h-n-fowler-history-roman-literature` | have (PG 44975) |
 
 ## Heinrich Schliemann (scholarship)
 

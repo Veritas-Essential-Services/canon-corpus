@@ -1,0 +1,30 @@
+{
+ "_about": "Harold North Fowler (1859-1955), Western Reserve University. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): A History of Roman Literature, clean Gutenberg. He died in 1955, so the book is public domain under life plus 70 from 2026 as well as in the US. No uids minted.",
+ "_name_words": [
+  "fowler"
+ ],
+ "_surname": [
+  "harold north fowler",
+  "harold n. fowler",
+  "fowler, harold north"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "h-n-fowler-history-roman-literature": [
+   44975,
+   "A History of Roman Literature"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "h-n-fowler-history-roman-literature": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "harold north fowler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
