@@ -934,3 +934,6 @@
 
 ## 2026-10-10 14:05 CDT — h-w-soltau done
 - `pipeline/h-w-soltau_shelf.json`: 0 CCEL, 0 PG, 4 IA. Title pages read for soltau-soul-difficulties (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:05 CDT — john-kitto done
+- `pipeline/john-kitto_shelf.json`: 0 CCEL, 0 PG, 18 IA. Title pages read for kitto-daily-bible-08 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

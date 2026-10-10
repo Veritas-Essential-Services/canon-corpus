@@ -3870,6 +3870,41 @@ Slugs `soltau-*`. Brethren writer on the tabernacle; every title page is undated
 | Italian translation (Florence, 1866) | excluded | |
 | Kregel reprints (1965-1998) | excluded | |
 | G. W. Soltau and others | excluded | |
+
+## John Kitto (round 20, my pick, 2026-10-10)
+
+Slugs `kitto-*`. Daily Bible Illustrations from the New York Carter set, which mixes printings 1851-1860; the Edinburgh first edition is not on IA.
+
+| Work | Status | Where |
+|---|---|---|
+| Daily Bible Illustrations, vol. 1, Antediluvians and Patriarchs (New York: Robert Carter and Brothers, 1854) | have-ocr | IA `dailybibleillust01kitt` |
+| Daily Bible Illustrations, vol. 2, Moses and the Judges (New York: Robert Carter and Brothers, 1860) | have-ocr | IA `dailybibleillust02kitt` |
+| Daily Bible Illustrations, vol. 3, Samuel, Saul, and David (New York: Robert Carter and Brothers, 1851) | have-ocr | IA `dailybibleillust03kitt` |
+| Daily Bible Illustrations, vol. 4, Solomon and the Kings (New York: Robert Carter and Brothers, OCR'd 1869) | have-ocr | IA `dailybibleillust04kitt` |
+| Daily Bible Illustrations, vol. 5, Job and the Poetical Books (New York: Robert Carter and Brothers, 1854) | have-ocr | IA `dailybibleillust05kitt` |
+| Daily Bible Illustrations, vol. 6, Isaiah and the Prophets (New York: Robert Carter and Brothers, 1855) | have-ocr | IA `dailybibleillust06kitt` |
+| Daily Bible Illustrations, vol. 7, The Life and Death of Our Lord (New York: Robert Carter and Brothers, 1853) | have-ocr | IA `dailybibleillust07kitt` |
+| Daily Bible Illustrations, vol. 8, The Apostles and Early Church (New York: Robert Carter and Brothers, 1855) | have-ocr | IA `dailybibleillust08kitt` |
+| Palestine: The Physical Geography and Natural History of the Holy Land (London: Charles Knight, 1841) | have-ocr | IA `palestinephysica02kitt` |
+| Palestine: The Bible History of the Holy Land (London: Charles Knight, 1841) | have-ocr | IA `palestinebiblehi01kitt` |
+| The Pictorial History of Palestine and the Holy Land, vol. 1, Biblical History (London: Charles Knight, MDCCCXLIV) | have-ocr | IA `pictorialhistory01kitt` |
+| The Pictorial History of Palestine and the Holy Land, vol. 2 (London: Charles Knight, MDCCCXLIV) | have-ocr | IA `pictorialhistory02kitt` |
+| A Pictorial Life of Our Saviour (London: Charles Cox, MDCCCXLVII) | have-ocr | IA `apictoriallifeo00chrigoog` |
+| Scripture Lands, with a Complete Biblical Atlas (London: Henry G. Bohn, 1850) | have-ocr | IA `scripturelandsd00kittgoog` |
+| The History of Palestine from the Patriarchal Age to the Present Time (Edinburgh: Adam and Charles Black, MDCCCLI) | have-ocr | IA `historyofpalesti00kitt_0` |
+| The Land of Promise: a Topographical Description of the Principal Places in Palestine (London: Religious Tract Society; no year on title page, catalogued 1851) | have-ocr | IA `landofpromiseort00kitt` |
+| The Court of Persia, viewed in connexion with Scriptural Usages (London: Religious Tract Society; no year on title page, IA's 1800 date is wrong) | have-ocr | IA `courtofpersiavie00kittuoft` |
+| The People of Persia (London: Religious Tract Society; no year on title page, IA's 1799 date is wrong) | have-ocr | IA `peoplepersia00kittgoog` |
+| The Pictorial Bible (Knight 1836 vol. 1, anonymous; Chambers 1855-56 vols. 1-3): the Bible text with his notes | alternate | not shelved |
+| A Cyclopaedia of Biblical Literature, vols. 1-2 (Black, 1845): multi-author, Kitto as editor; later editions revised by W. L. Alexander | alternate | not shelved |
+| Daily Bible Illustrations: Edinburgh Oliphant printings (1856, 1864), Carter 1856 Evening Series copies, and J. L. Porter's revised edition (1866-67) | alternate | not shelved |
+| The Lost Senses: Deafness and Blindness (Knight, 1845): autobiographical, not divinity | alternate | not shelved |
+| The Gallery of Scripture Engravings, vols. 1-3: plates with his descriptions | alternate | not shelved |
+| Works he edited: Sunday Reading for Christian Families (1853), Pictorial Sunday Book, The Journal of Sacred Literature (1848-); Uncle Oliver's Travels (anonymous) | alternate | not shelved |
+| Second copies of Palestine (1841), The Lost Senses, The People of Persia, and the Routledge Bible History of the Holy Land | alternate | not shelved |
+| John Eadie's Life of John Kitto (1861): by another hand | excluded | |
+| Judah and Israel; Randall's Handwriting of God; Kimpton's Illustrated History | excluded | |
+| F. H. Kitto and others | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
