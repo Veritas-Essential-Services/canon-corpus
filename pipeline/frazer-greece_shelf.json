@@ -1,5 +1,5 @@
 {
- "_about": "Sir James George Frazer (1854-1941): his Greek writing only. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Studies in Greek Scenery, Legend and History, selected from his commentary on Pausanias, clean Gutenberg. His Pausanias translation is on the pausanias shelf; The Golden Bough is comparative religion and is left out. No uids minted.",
+ "_about": "Sir James George Frazer (1854-1941): his Greek writing only. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Studies in Greek Scenery, Legend and History, selected from his commentary on Pausanias, clean Gutenberg. His Pausanias translation is on the pausanias shelf; The Golden Bough is comparative religion and is left out. No uids minted. Also Pausanias and Other Greek Sketches (Macmillan, 1900), raw IA OCR. His translation of Pausanias is on the pausanias shelf.",
  "_name_words": [
   "frazer"
  ],
@@ -15,7 +15,12 @@
    "Studies in Greek Scenery, Legend and History, selected from his commentary on Pausanias"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "frazer-pausanias-greek-sketches-1900": [
+   "pausaniasothergr00frazuoft",
+   "Pausanias and Other Greek Sketches (London: Macmillan, 1900)"
+  ]
+ },
  "_checks": {
   "frazer-studies-greek-scenery": {
    "kind": "gutenberg",
@@ -25,6 +30,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "frazer-pausanias-greek-sketches-1900": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. g. frazer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
