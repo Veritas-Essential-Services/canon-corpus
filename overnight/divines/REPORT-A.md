@@ -766,3 +766,6 @@
 
 ## 2026-10-10 10:28 CDT — frederic-godet done
 - `pipeline/frederic-godet_shelf.json`: 0 CCEL, 0 PG, 13 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:28 CDT — i-a-dorner done
+- `pipeline/i-a-dorner_shelf.json`: 0 CCEL, 0 PG, 12 IA. Title pages read for dorner-system-4, dorner-person-1-1, dorner-person-2-2, dorner-person-2-3, dorner-protestant-theology-1, dorner-protestant-theology-2 (OCR garbles the name), recorded in `_identity_checked`. Six title pages garble his name ("CORNER", "DOENEE"); each read. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -2616,6 +2616,25 @@ Slugs `godet-*`. Romans is the dated 1883 American edition; Clark's undated two-
 | Introduction to the New Testament: The Collection of the Four Gospels and the Gospel of St. Matthew, tr. William Affleck (Edinburgh: T. & T. Clark, 1899) | have-ocr | IA `introductionton00afflgoog` |
 | Romans, Clark's 2-vol. edition (IA commentaryonsrom01godeuoft, 02godeuoft): undated, printed after his death in 1900 | alternate | not shelved |
 | John, tr. Timothy Dwight (Funk & Wagnalls, 1886, 1893; IA commentaryonjohn01godeuoft) | alternate | not shelved |
+
+## I. A. Dorner (in English) (round 16, my pick, 2026-10-10)
+
+Slugs `dorner-*`. The System of Christian Doctrine is a mixed set (1883-88). The Fairbairn shelf leaves Dorner's Person of Christ out as another man's book; this is its home.
+
+| Work | Status | Where |
+|---|---|---|
+| A System of Christian Doctrine, vol. 1, tr. Alfred Cave, new and revised edition (Edinburgh: T. & T. Clark, 1888) | have-ocr | IA `systemofchristia01dorn` |
+| A System of Christian Doctrine, vol. 2, tr. J. S. Banks (Edinburgh: T. & T. Clark, 1883) | have-ocr | IA `systemofchristia02dorn` |
+| A System of Christian Doctrine, vol. 3, tr. Alfred Cave and J. S. Banks (Edinburgh: T. & T. Clark, 1885) | have-ocr | IA `systemofchristia03dorn` |
+| A System of Christian Doctrine, vol. 4, tr. J. S. Banks (Edinburgh: T. & T. Clark, 1885) | have-ocr | IA `systemofchristia04dorn` |
+| History of the Development of the Doctrine of the Person of Christ, division I, vol. 1, tr. W. L. Alexander (Edinburgh: T. & T. Clark, 1891) | have-ocr | IA `historyofdevelop01dorn` |
+| History of the Development of the Doctrine of the Person of Christ, division I, vol. 2 (Edinburgh: T. & T. Clark, 1889; some English OCR'd as Greek letters) | have-ocr | IA `historyofdevelop02dorn` |
+| History of the Development of the Doctrine of the Person of Christ, division II, vol. 1, tr. D. W. Simon (Edinburgh: T. & T. Clark; no year on the title page, catalogued 1890) | have-ocr | IA `d2v1historyofdev10dorn` |
+| History of the Development of the Doctrine of the Person of Christ, division II, vol. 2, tr. D. W. Simon (Edinburgh: T. & T. Clark, 1890) | have-ocr | IA `d2v2historyofdev15dorn` |
+| History of the Development of the Doctrine of the Person of Christ, division II, vol. 3, tr. D. W. Simon (Edinburgh: T. & T. Clark, 1892) | have-ocr | IA `d2historyofdevel03dorn` |
+| History of Protestant Theology, Particularly in Germany, vol. 1, tr. George Robson (Edinburgh: T. & T. Clark, 1871) | have-ocr | IA `historyofprotest01dorn` |
+| History of Protestant Theology, Particularly in Germany, vol. 2, tr. Sophia Taylor (Edinburgh: T. & T. Clark, 1871) | have-ocr | IA `historyofprotest02dorn` |
+| System of Christian Ethics, ed. A. Dorner, tr. C. M. Mead and R. T. Cunningham (Edinburgh: T. & T. Clark, 1887) | have-ocr | IA `christianethics00dornuoft` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
