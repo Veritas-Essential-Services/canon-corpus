@@ -1,0 +1,70 @@
+{
+ "_about": "William Warde Fowler (1847-1921), Oxford historian of Roman religion. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Social Life at Rome in the Age of Cicero, The Religious Experience of the Roman People, from the Earliest Times to the Age of Augustus, Rome (Home University Library), The Roman Festivals of the Period of the Republic, clean Gutenberg. His bird books are outside the brief. No uids minted.",
+ "_name_words": [
+  "fowler",
+  "warde"
+ ],
+ "_surname": [
+  "w. warde fowler",
+  "william warde fowler",
+  "fowler, w. warde"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "warde-fowler-social-life-rome-cicero": [
+   11256,
+   "Social Life at Rome in the Age of Cicero"
+  ],
+  "warde-fowler-religious-experience-roman-people": [
+   23349,
+   "The Religious Experience of the Roman People, from the Earliest Times to the Age of Augustus"
+  ],
+  "warde-fowler-rome": [
+   56630,
+   "Rome (Home University Library)"
+  ],
+  "warde-fowler-roman-festivals": [
+   59007,
+   "The Roman Festivals of the Period of the Republic"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "warde-fowler-social-life-rome-cicero": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. warde fowler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warde-fowler-religious-experience-roman-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. warde fowler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warde-fowler-rome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. warde fowler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warde-fowler-roman-festivals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. warde fowler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
