@@ -976,3 +976,6 @@
 
 ## 2026-10-10 14:52 CDT — j-h-jowett done
 - `pipeline/j-h-jowett_shelf.json`: 5 CCEL, 2 PG, 14 IA. Title pages read for jowett-apostolic-optimism, jowett-the-preacher (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:56 CDT — round 21 closed
+- Twelve shelves, 126 items (9 CCEL, 7 Gutenberg, 110 IA). Closing paragraph and veto points in DIGEST-A. 0 uids minted.
