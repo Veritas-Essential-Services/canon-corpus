@@ -748,3 +748,6 @@
 
 ## 2026-10-10 09:50 CDT: round 15 complete
 - 14 shelves (Boyce, Dagg, Broadus, Milner, Wayland, Adam Clarke, W. B. Pope, Luther, Symington, John Dick, Krummacher, Hengstenberg, Neander, Tholuck). Shelf names and source ids checked on every remote branch (only generic CCEL work names like `life` and `acts` matched, under other authors). The fetcher cutoff fix from lane C was refused by this session's permissions and is logged for Adam. Round 16 follows.
+
+## 2026-10-10 10:08 CDT — william-arnot done
+- `pipeline/william-arnot_shelf.json`: 0 CCEL, 1 PG, 6 IA. Title pages read for arnot-anchor-of-soul, arnot-life-james-hamilton-1870 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-10 09:48 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-10 10:08 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -311,6 +311,14 @@ Started 2026-10-10 on Adam's request to keep going until he stops it. Baptist an
 | August Tholuck (in English) | august-tholuck_shelf.json | none | 9 (Guido and Julius; or, Sin and the Propitiator, tr. Jonathan Edwards Ryland (Boston: Gould & Lincoln, 1854); Commentary on the Gospel of St. John, tr. A. Kaufman, second edition (New York: Saxton & Miles, 1842); Exposition of St Paul's Epistle to the Romans, vol. 1, tr. Robert Menzies, Biblical Cabinet V (Edinburgh: Thomas Clark, 1833); Exposition of St Paul's Epistle to the Romans, vol. 2, tr. Robert Menzies, Biblical Cabinet XII (Edinburgh: Thomas Clark, 1836); Exposition of Christ's Sermon on the Mount, vol. 1, tr. Robert Menzies, Biblical Cabinet VI (Edinburgh: Thomas Clark, 1834); the translator's name OCRs as MENZIE8, so it is not machine-checked; Exposition of Christ's Sermon on the Mount, vol. 2, tr. Robert Menzies, Biblical Cabinet XX (Edinburgh: Thomas Clark, MDCCCXXXVII); A Commentary on the Epistle to the Hebrews, vol. 1, tr. James Hamilton, Biblical Cabinet XXXVIII (Edinburgh: Thomas Clark, 1842); A Commentary on the Epistle to the Hebrews, vol. 2, tr. James Hamilton, Biblical Cabinet XXXIX (Edinburgh: Thomas Clark, 1842); Light from the Cross: Sermons on the Passion (Philadelphia: W. S. & A. Martien, 1858; translator not named)) | none | John 1842 is a 0000-style id (title page read) |
 
 Round 15 finished 2026-10-10 09:50 CDT: 14 shelves, 112 volumes, every one past `--verify --record` with 0 mismatched; 0 uids minted. Eleven title pages whose OCR garbles the author's name were read and recorded in `_identity_checked`. Two translator names OCR too badly to machine-check (Menzies on Tholuck's Sermon on the Mount vol. 1, Robbins on Hengstenberg's Egypt) and are recorded in the titles instead.
+
+## Round 16: my picks, also for your veto
+
+Started 2026-10-10, continuing on Adam's keep-going request. German divines in pre-1930 English translations (Godet, Dorner, Julius Müller, Stier, Luthardt, Christlieb, Kurtz; translators recorded) and Victorian Scots (Arnot, James Hamilton of Regent Square, John Ker, Stalker, Blaikie). Nobody chose these but the worker: drop any you do not want.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| William Arnot | william-arnot_shelf.json | 1 (The Parables of Our Lord (London: T. Nelson, 1874)) | 6 (Laws from Heaven for Life on Earth: Illustrations of the Book of Proverbs (London: T. Nelson, 1873); The Church in the House: Lessons on the Acts of the Apostles (London: James Nisbet, 1875); Roots and Fruits of the Christian Life (London: T. Nelson, MDCCCLXII); The Lesser Parables of Our Lord, and Lessons of Grace in the Language of Nature (London: T. Nelson, 1884); The Anchor of the Soul and Other Sermons (London: T. Nelson; no year on the title page, catalogued 1875); Life of James Hamilton, D.D., F.L.S. (London: James Nisbet, 1870)) | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.

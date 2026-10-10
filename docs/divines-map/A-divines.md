@@ -2511,3 +2511,17 @@ Slugs `tholuck-*`.
 | A Commentary on the Epistle to the Hebrews, vol. 1, tr. James Hamilton, Biblical Cabinet XXXVIII (Edinburgh: Thomas Clark, 1842) | have-ocr | IA `acommentaryonep02rylagoog` |
 | A Commentary on the Epistle to the Hebrews, vol. 2, tr. James Hamilton, Biblical Cabinet XXXIX (Edinburgh: Thomas Clark, 1842) | have-ocr | IA `acommentaryonep00rylagoog` |
 | Light from the Cross: Sermons on the Passion (Philadelphia: W. S. & A. Martien, 1858; translator not named) | have-ocr | IA `lightfromcross00thol` |
+
+## William Arnot (round 16, my pick, 2026-10-10)
+
+Slugs `arnot-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| The Parables of Our Lord (London: T. Nelson, 1874) | have-clean | Gutenberg 21328 |
+| Laws from Heaven for Life on Earth: Illustrations of the Book of Proverbs (London: T. Nelson, 1873) | have-ocr | IA `lawsfromheavenfo00arnorich` |
+| The Church in the House: Lessons on the Acts of the Apostles (London: James Nisbet, 1875) | have-ocr | IA `churchinhouse00arno` |
+| Roots and Fruits of the Christian Life (London: T. Nelson, MDCCCLXII) | have-ocr | IA `rootsfruitsofchr00arno` |
+| The Lesser Parables of Our Lord, and Lessons of Grace in the Language of Nature (London: T. Nelson, 1884) | have-ocr | IA `lesserparablesof00arno` |
+| The Anchor of the Soul and Other Sermons (London: T. Nelson; no year on the title page, catalogued 1875) | have-ocr | IA `anchorofsoulothe00arno` |
+| Life of James Hamilton, D.D., F.L.S. (London: James Nisbet, 1870) | have-ocr | IA `cu31924011509498` |
