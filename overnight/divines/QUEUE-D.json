@@ -1961,8 +1961,10 @@
     {
       "id": "kate-mccosh-clark",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: kate-mccosh-clark; no minting",
-      "status": "running",
-      "started": "2026-10-10T09:03:14-05:00"
+      "status": "done",
+      "started": "2026-10-10T09:03:14-05:00",
+      "finished": "2026-10-10T09:11:40-05:00",
+      "notes": "1/1 fetched (Gutenberg 69782), 441 units, 0 ~2 ids."
     },
     {
       "id": "ranger-gull",

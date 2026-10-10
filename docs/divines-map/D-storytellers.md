@@ -3018,6 +3018,14 @@ Shelf: `pipeline/james-cowan_shelf.json` (2026-10-02; added at the coordinator's
 |---|---|---|
 | Maori folk-tales of the Port Hills, Canterbury, New Zealand | have | PG 73766, `jcowan-maori-folk-tales-of-the-port-hills` (156 units) |
 
+## Kate McCosh Clark
+
+Shelf: `pipeline/kate-mccosh-clark_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). A New Zealand fairy tale drawing on Maori legend, with notes; cut by section. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Southern Cross fairy tale | have | PG 69782, `kmclark-southern-cross-fairy-tale` (441 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
