@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-03T05:42-05:00: 47 shelves, 179 titles (rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11; round 7: 12; round 8: 8 — Symonds 3, Blackie 2, Theodore Martin 1, Hearn 2). **11 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
+Totals 2026-10-10T09:03-05:00: 48 shelves, 181 titles (Ransome translations, 2026-10-10: 2; rounds 1-3: 108; round 4: 13; round 5: 27; round 6: 11; round 7: 12; round 8: 8 — Symonds 3, Blackie 2, Theodore Martin 1, Hearn 2). **11 of them are cross-references to works the repo already holds, not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -104,3 +104,9 @@ The coordinator re-sent the Chapman/Pope/Cowper/Butcher-Lang/Jowett/Rawlinson/No
 ## Name audit fix (2026-10-03, from Lane D's audit)
 
 Lane D found that `maude` and a bare `hearn` would also pass other authors' texts (Maude Ashurst Biggs, for one). Eleven shelves now gate on the full printed name only: maude (Aylmer/Louise Maude), hearn (Lafcadio Hearn), southey, symonds, blackie, rossetti, coleridge, garnett, griffith, nicholson, muller. Each was tested against every source on its shelf; the only three misses (southey-amadis-1, garnett-gogol-dikanka, nicholson-divani-1898) already carry `_identity_checked` overrides. All eleven re-verified and re-recorded: 0 mismatched, 0 rights flags. **Your call:** none.
+
+## Ransome as translator (2026-10-10)
+
+Your Swallows and Amazons request reached two lanes at once; Lane B shelved it first (`pipeline/ransome_shelf.json`, its questions are in DIGEST-B), so lane C dropped its own copy before pushing. Lane C's shelf `ransome-translations` holds only what is a translation or retelling: Gourmont's *A Night in the Luxembourg* (1912, PG 46766, translator line reads Arthur Ransome) and *Old Peter's Russian Tales* (1916, PG 16981). Verified and recorded: 0 mismatched, 0 rights flags. No uids minted. **Your call:** none beyond the usual veto.
+
+Two notes on Lane B's shelf, passed to it through the coordinator: its `_surname` is a bare `ransome` (Lane D's audit asks for the full printed name), and Standard Ebooks' proofed CC0 edition (2026-01-01) is a cleaner text than the 1946 OCR if you want a reading copy.
