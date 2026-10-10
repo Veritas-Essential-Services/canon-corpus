@@ -70,6 +70,11 @@
    "fromgardenofhell00unse",
    "From the Garden of Hellas: translations into verse from the Greek Anthology (New York: United States Book Company, 1891)",
    "tr. Lilla Cabot Perry"
+  ],
+  "greek-anthology-benson-reed-of-pan-1922": [
+   "reedofpanenglish00bensuoft",
+   "The Reed of Pan: English renderings of Greek epigrams and lyrics (1922)",
+   "tr. A. C. Benson"
   ]
  },
  "_excluded": {
@@ -105,7 +110,8 @@
   "greek-anthology-macgregor": "robert guthrie macgregor",
   "anacreon-stanley-1815": "thomas stanley",
   "greek-anthology-bland-1813": "robert bland",
-  "greek-anthology-perry-garden-of-hellas-1891": "lilla cabot perry"
+  "greek-anthology-perry-garden-of-hellas-1891": "lilla cabot perry",
+  "greek-anthology-benson-reed-of-pan-1922": "a. c. benson"
  },
  "_checks": {
   "greek-anthology-mackail": {
@@ -261,6 +267,20 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null,
    "rights_override": "title verso: 'Copyright, 1891, by United States Book Company'; US PD by date. The translator died in 1933, so UK PD since 2004 (death year from general reference, not from this book)"
+  },
+  "greek-anthology-benson-reed-of-pan-1922": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "a. c. benson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "London, 1922, 'All Rights Reserved': US PD (published before 1931). Benson died in 1925, so UK PD since 1996 (death year from general reference)"
   }
  },
  "_surname_by_slug": {
@@ -288,6 +308,7 @@
  },
  "_rights_checked": {
   "greek-anthology-macgregor": "Title page read 2026-10-10: 'Translated by Major Robert Guthrie MacGregor. London: Nissen & Parker, 43, Mark Lane', no year. The preface refers to his 1857 Epitaphs from the Greek Anthology and to 1854-55; the dedication addresses W. E. Gladstone, M.P. and P.C., as living (he died 1898). A nineteenth-century printing, so public domain.",
-  "greek-anthology-perry-garden-of-hellas-1891": "title verso: 'Copyright, 1891, by United States Book Company'; US PD by date. The translator died in 1933, so UK PD since 2004 (death year from general reference, not from this book)"
+  "greek-anthology-perry-garden-of-hellas-1891": "title verso: 'Copyright, 1891, by United States Book Company'; US PD by date. The translator died in 1933, so UK PD since 2004 (death year from general reference, not from this book)",
+  "greek-anthology-benson-reed-of-pan-1922": "London, 1922, 'All Rights Reserved': US PD (published before 1931). Benson died in 1925, so UK PD since 1996 (death year from general reference)"
  }
 }
