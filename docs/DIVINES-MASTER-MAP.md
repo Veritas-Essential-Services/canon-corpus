@@ -3579,6 +3579,7 @@ Shelf: `pipeline/apuleius_shelf.json`. Adlington's Golden Asse (1566) and Butler
 | The Metamorphoses or Golden Ass of Apuleius of Madaura, vol. 1 (Oxford, 1910) | H. E. Butler | `apuleius-butler-v1` | have-raw (IA `metamorphosesorg01apuluoft`) |
 | The Metamorphoses or Golden Ass of Apuleius of Madaura, vol. 2 (Oxford, 1910) | H. E. Butler | `apuleius-butler-v2` | have-raw (IA `metamorphosesorg02apuluoft`) |
 | The Metamorphosis, or Golden Ass, and Philosophical Works, of Apuleius, translated from the original Latin (London: Triphook and Rodd, 1822) | Thomas Taylor | `apuleius-taylor-1822` | have-raw (IA `metamorphosisor00apulgoog`) |
+| The Works of Apuleius, a new translation: the Metamorphoses or Golden Ass, the God of Socrates, the Florida and the Defence, with a metrical Cupid and Psyche and Mrs. Tighe's Psyche (London: G. Bell, 1914, reprinted from stereotype plates) | anonymous (Bohn's Classical Library; the title page names no translator) | `apuleius-bohn-works-1914` | have-raw (IA `worksofapuleiusn00apul`) |
 
 Pending (wishlist): none known.
 
@@ -3723,6 +3724,8 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | The Academics of Cicero (London: Macmillan, 1880) | James S. Reid | `cicero-reid-academics-1880` | have-raw (IA `academicscicero00cicegoog`) |
 | De Amicitia (On Friendship) (New York: The Century Co.; copyright 1897, this printing 1906) | Benjamin E. Smith | `cicero-smith-amicitia-1897` | have-raw (IA `deamicitiaonfrie00cice`) |
 | Death No Bane: a new translation, with copious illustrative notes, of Cicero's First Tusculan Disputation (London: Sampson Low, Marston, Searle and Rivington, 1889) | Robert Black | `cicero-black-tusculan-i-1889` | have-raw (IA `deathnobaneanew00blacgoog`) |
+| Select Orations of Cicero, translated into English, with notes historical, critical and explanatory (Oxford: J. Vincent for Thomas Tegg, 1841) | William Duncan | `cicero-duncan-select-orations-1841` | have-raw (IA `selectorationsc00cicegoog`) |
+| Select Letters of Cicero, literally translated (New York: Arthur Hinds, copyright 1891) | anonymous (the title page names no translator) | `cicero-select-letters-literal-1891` | have-raw (IA `selectlettersci01cicegoog`) |
 
 Pending (wishlist): King's Tusculans (Loeb 1927; only the 1945 revised printing has text, refused).
 
@@ -3888,6 +3891,7 @@ Shelf: `pipeline/quintus-smyrnaeus_shelf.json`. Way's Fall of Troy (Gutenberg).
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Fall of Troy | Arthur S. Way | `quintus-smyrnaeus-way` | have (PG 658) |
+| Select Translations from the Greek of Quintus Smyrnaeus (Oxford: W. Baxter, 1821) | Alexander Dyce | `quintus-smyrnaeus-dyce-1821` | have-raw (IA `selecttranslatio00quin`) |
 
 ## Greek lyric and the Anthology
 
@@ -4447,6 +4451,7 @@ Shelf: `pipeline/philostratus_shelf.json`. Berwick's Life of Apollonius (1809) a
 |---|---|---|---|
 | The Life of Apollonius of Tyana, translated from the Greek of Philostratus (London, 1809) | Edward Berwick | `philostratus-berwick-apollonius` | have-raw (IA `lifeofapollonius00phil`) |
 | Philostratus, In Honour of Apollonius of Tyana, vol. 1 (Oxford, 1912) | J. S. Phillimore | `philostratus-phillimore-apollonius-v1` | have-raw (IA `philostratusinho00philuoft`) |
+| A Life and Times of Apollonius of Tyana, rendered into English from the Greek of Philostratus the Elder (Stanford University Publications, 1923) | Charles P. Eells | `philostratus-eells-apollonius-1923` | have-raw (IA `lifetimesofapoll00phil`) |
 
 Pending (wishlist): Phillimore vol. 2 (1912; no scan found); the Lives of the Sophists and Imagines in a PD English version; Conybeare's Loeb (Greek facing).
 

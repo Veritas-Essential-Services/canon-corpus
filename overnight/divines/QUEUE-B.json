@@ -932,6 +932,14 @@
    "started": "2026-10-10T09:11:14-05:00",
    "finished": "2026-10-10T09:19:49-05:00",
    "notes": "Perseus duplicates and fetch_perseus gaps were already fixed. Corrected the Hobbes cross-reference, the Vince vol. II rights notes, and the Nixon exclusion note. Dropped 19 stale 'now held' rows from _excluded. Added Seneca's Tenne Tragedies from the 1581 first printing (resolves the Eliot-introduction hold), Taylor's Fasti I-IV 1839, Byles's Greek Lives 1907."
+  },
+  {
+   "id": "round-2026-10-10c",
+   "status": "done",
+   "scope": "Roman prose (Apuleius, Pliny, Caesar, Sallust, Cicero) and late Greek poets, romances and Neoplatonists title sweeps; missing-volume retries",
+   "started": "2026-10-10T09:19:49-05:00",
+   "finished": "2026-10-10T09:27:41-05:00",
+   "notes": "Added Duncan's Select Orations of Cicero 1841, an anonymous literal Select Letters of Cicero 1891, the anonymous Bohn Works of Apuleius (1914 printing), Dyce's Quintus Smyrnaeus 1821, Eells's Philostratus 1923. Munford's Iliad vol. I, the Greek Tragic Theatre vol. II (Sophocles) and Ravensworth's Aeneid VII-XII are still not online under those titles; Preston's 1811 Argonautics scans lack a title page or are notes-only."
   }
  ]
 }

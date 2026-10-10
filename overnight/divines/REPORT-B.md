@@ -586,3 +586,8 @@
 - Fixed notes: Thucydides Hobbes cross-reference; Demosthenes Vince vol. II no longer claims a 1939 date the file does not state; Plautus Nixon vol. 3 is held back, not held
 - Dropped 19 stale 'now held' rows from _excluded
 - Added: Seneca his Tenne Tragedies (1581 first printing), Taylor's Fasti I-IV (1839), Byles's Greek Lives (1907)
+
+## 2026-10-10 09:27 CDT — Round 2026-10-10c: Roman prose and late Greek sweeps
+- Added: Duncan's Cicero orations (1841), literal Select Letters of Cicero (1891), the Bohn Works of Apuleius (1914 printing), Dyce's Quintus Smyrnaeus (1821), Eells's Philostratus (1923)
+- Still missing: Munford Iliad vol. I, Greek Tragic Theatre vol. II, Ravensworth Aeneid VII-XII, Preston Argonautics 1803 vol. II
+- Greek-facing Loebs seen again (Gaselee's Achilles Tatius, Mair's Oppian): left for the pending measure ruling
