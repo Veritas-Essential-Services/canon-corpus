@@ -1242,6 +1242,81 @@ Round 19 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `duff-gordon-lamping-alby-the-french-in-algiers` | Clemens Lamping; Ernest Alby | The French in Algiers: The Soldier of the Foreign Legion; and The Prisoners of Abd-el-Kader | Lucie Duff Gordon | 1844-1845 (see the Gutenberg header) | have | PG 58081 |
 | `duff-gordon-meinhold-mary-schweidler-the-amber-witch-the-most` | Wilhelm Meinhold | Mary Schweidler, the amber witch The most interesting trial for witchcraft ever known, printed from an imperfect manuscript by her father, Abraham Schweidler, the pastor of Coserow in the island of Usedom / edited by W. Meinhold ; translated from the German by Lady Duff Gordon. | Lucie Duff Gordon | 1844-1845 (see the Gutenberg header) | have | PG 8743 |
 
+## Bernard Miall (Nexø's Pelle, Rolland's Tolstoy, Maeterlinck's Poems, Fabre)
+
+Shelf: `pipeline/bernard-miall_shelf.json` · fetch `python3 pipeline/fetch_shelf.py bernard-miall` · titles `python3 pipeline/split_shelf_titles.py bernard-miall`.
+Round 20 (2026-10-10), vetoable. Only translations printed before 1931. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `bernard-miall-brieux-woman-on-her-own-false-gods-and-the-red` | Eugène Brieux | Woman on Her Own, False Gods and The Red Robe | Bernard Miall (with J. B. Fagan and Charlotte Shaw) | 1911-1921 (see the Gutenberg header) | have | PG 27201 |
+| `bernard-miall-calderon-latin-america-its-rise-and-progress` | Francisco García Calderón | Latin America: Its Rise and Progress | Bernard Miall | 1911-1921 (see the Gutenberg header) | have | PG 62541 |
+| `bernard-miall-fabre-social-life-in-the-insect-world` | Jean-Henri Fabre | Social Life in the Insect World | Bernard Miall | 1911-1921 (see the Gutenberg header) | have | PG 18350 |
+| `bernard-miall-fabre-the-life-of-jean-henri-fabre-the-entomol` | Augustin Fabre | The life of Jean Henri Fabre, the entomologist, 1823-1910 | Bernard Miall | 1911-1921 (see the Gutenberg header) | have | PG 72936 |
+| `bernard-miall-legros-fabre-poet-of-science` | Georges Victor Legros | Fabre, Poet of Science | Bernard Miall | 1911-1921 (see the Gutenberg header) | have | PG 3489 |
+| `bernard-miall-maeterlinck-poems` | Maurice Maeterlinck | Poems | Bernard Miall | 1911-1921 (see the Gutenberg header) | have | PG 50043 |
+| `bernard-miall-martinez-the-argentine-in-the-twentieth-century` | Alberto B. Martínez | The Argentine in the Twentieth Century | Bernard Miall | 1911-1921 (see the Gutenberg header) | have | PG 45261 |
+| `bernard-miall-massart-belgians-under-the-german-eagle` | Jean Massart | Belgians Under the German Eagle | Bernard Miall | 1911-1921 (see the Gutenberg header) | have | PG 51716 |
+| `bernard-miall-nexo-pelle-the-conqueror` | Martin Andersen Nexø | Pelle the Conqueror (complete) | Bernard Miall (with Jessie Muir) | 1911-1921 (see the Gutenberg header) | have | PG 7795 |
+| `bernard-miall-rolland-tolstoy` | Romain Rolland | Tolstoy | Bernard Miall | 1911-1921 (see the Gutenberg header) | have | PG 49435 |
+| — | — | teixeira: The Wonders of Instinct (3754) and The Life of the Scorpion (66744), shared with Teixeira de Mattos, are on teixeira-de-mattos_shelf.json. | — | — | excluded | — |
+| — | — | pelle-volumes: Pelle the Conqueror's four Gutenberg part-files (7791-7794) are left out; the complete text (7795) is used. | — | — | excluded | — |
+
+## Jessie Muir (Jonas Lie, Bojer, Fleuron)
+
+Shelf: `pipeline/jessie-muir_shelf.json` · fetch `python3 pipeline/fetch_shelf.py jessie-muir` · titles `python3 pipeline/split_shelf_titles.py jessie-muir`.
+Round 20 (2026-10-10), vetoable. Her half of Pelle is on bernard-miall. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `jessie-muir-bojer-the-power-of-a-lie` | Johan Bojer | The Power of a Lie | Jessie Muir | 1894-1921 (see the Gutenberg header) | have | PG 58620 |
+| `jessie-muir-fleuron-grim-the-story-of-a-pike` | Svend Fleuron | Grim: The Story of a Pike | Jessie Muir (with J. Alexander) | 1894-1921 (see the Gutenberg header) | have | PG 40921 |
+| `jessie-muir-lie-one-of-life-s-slaves` | Jonas Lie | One of Life's Slaves | Jessie Muir | 1894-1921 (see the Gutenberg header) | have | PG 15853 |
+| `jessie-muir-lie-the-visionary-pictures-from-nordland` | Jonas Lie | The Visionary: Pictures From Nordland | Jessie Muir | 1894-1921 (see the Gutenberg header) | have | PG 13922 |
+| — | — | pelle: Pelle the Conqueror (7795 complete; part-files 7791, 7794) is on bernard-miall_shelf.json. | — | — | excluded | — |
+
+## Sir Lascelles Wraxall (Aimard's frontier tales; the 1862 Les Misérables)
+
+Shelf: `pipeline/wraxall_shelf.json` · fetch `python3 pipeline/fetch_shelf.py wraxall` · titles `python3 pipeline/split_shelf_titles.py wraxall`.
+Round 20 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `wraxall-aimard-last-of-the-incas-a-romance-of-the-pampa` | Gustave Aimard | Last of the Incas: A Romance of the Pampas | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 44514 |
+| `wraxall-aimard-stronghand-or-the-noble-revenge` | Gustave Aimard | Stronghand; or, The Noble Revenge | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 44672 |
+| `wraxall-aimard-the-adventurers` | Gustave Aimard | The adventurers | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 43716 |
+| `wraxall-aimard-the-bee-hunters-a-tale-of-adventure` | Gustave Aimard | The Bee Hunters: A Tale of Adventure | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 44375 |
+| `wraxall-aimard-the-freebooters-a-story-of-the-texan-war` | Gustave Aimard | The Freebooters: A Story of the Texan War | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 40602 |
+| `wraxall-aimard-the-gold-seekers-a-tale-of-california` | Gustave Aimard | The Gold-Seekers: A Tale of California | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 42532 |
+| `wraxall-aimard-the-indian-chief-the-story-of-a-revoluti` | Gustave Aimard | The Indian Chief: The Story of a Revolution | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 42742 |
+| `wraxall-aimard-the-indian-scout-a-story-of-the-aztec-ci` | Gustave Aimard | The Indian Scout: A Story of the Aztec City | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 44196 |
+| `wraxall-aimard-the-pirates-of-the-prairies-adventures-i` | Gustave Aimard | The Pirates of the Prairies: Adventures in the American Desert | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 42117 |
+| `wraxall-aimard-the-prairie-flower-a-tale-of-the-indian` | Gustave Aimard | The Prairie Flower: A Tale of the Indian Border | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 43925 |
+| `wraxall-aimard-the-rebel-chief-a-tale-of-guerilla-life` | Gustave Aimard | The Rebel Chief: A Tale of Guerilla Life | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 44421 |
+| `wraxall-aimard-the-red-track-a-story-of-social-life-in` | Gustave Aimard | The Red Track: A Story of Social Life in Mexico | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 42834 |
+| `wraxall-aimard-the-smuggler-chief-a-novel` | Gustave Aimard | The Smuggler Chief: A Novel | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 44454 |
+| `wraxall-aimard-the-tiger-slayer-a-tale-of-the-indian-de` | Gustave Aimard | The Tiger-Slayer: A Tale of the Indian Desert | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 42535 |
+| `wraxall-aimard-the-trail-hunter-a-tale-of-the-far-west` | Gustave Aimard | The Trail-Hunter: A Tale of the Far West | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 42115 |
+| `wraxall-aimard-the-trapper-s-daughter-a-story-of-the-ro` | Gustave Aimard | The Trapper's Daughter: A Story of the Rocky Mountains | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 42119 |
+| `wraxall-aimard-the-trappers-of-arkansas-or-the-loyal-he` | Gustave Aimard | The Trappers of Arkansas; or, The Loyal Heart | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 43473 |
+| `wraxall-aimard-the-treasure-of-pearls-a-romance-of-adve` | Gustave Aimard | The Treasure of Pearls: A Romance of Adventures in California | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 46276 |
+| `wraxall-hugo-les-miserables-v-1-5-fantine` | Victor Hugo | Les Misérables, v. 1/5: Fantine | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 48731 |
+| `wraxall-hugo-les-miserables-v-2-5-cosette` | Victor Hugo | Les Misérables, v. 2/5: Cosette | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 48732 |
+| `wraxall-hugo-les-miserables-v-3-5-marius` | Victor Hugo | Les Misérables, v. 3/5: Marius | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 48733 |
+| `wraxall-hugo-les-miserables-v-4-5-the-idyll-and-the-e` | Victor Hugo | Les Misérables, v. 4/5: The Idyll and the Epic | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 48734 |
+| `wraxall-hugo-les-miserables-v-5-5-jean-valjean` | Victor Hugo | Les Misérables, v. 5/5: Jean Valjean | Lascelles Wraxall | 1861-1865 (see the Gutenberg header) | have | PG 48735 |
+
+## Ernest Dowson (Les liaisons dangereuses; Balzac)
+
+Shelf: `pipeline/dowson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py dowson` · titles `python3 pipeline/split_shelf_titles.py dowson`.
+Round 20 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `dowson-balzac-a-passion-in-the-desert` | Honoré de Balzac | A Passion in the Desert | Ernest Dowson | 1896-1898 (see the Gutenberg header) | have | PG 1555 |
+| `dowson-laclos-les-liaisons-dangereuses-volume-1-of-2` | Choderlos de Laclos | Les liaisons dangereuses, volume 1 (of 2) | Ernest Dowson | 1896-1898 (see the Gutenberg header) | have | PG 69891 |
+| `dowson-laclos-les-liaisons-dangereuses-volume-2-of-2` | Choderlos de Laclos | Les liaisons dangereuses, volume 2 (of 2) | Ernest Dowson | 1896-1898 (see the Gutenberg header) | have | PG 69913 |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

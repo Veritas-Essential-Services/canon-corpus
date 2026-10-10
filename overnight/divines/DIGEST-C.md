@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T10:53-05:00: 72 shelves, 498 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69. **13 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T11:00-05:00: 76 shelves, 538 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40. **13 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -219,3 +219,17 @@ Four new shelves, 69 titles, all from Gutenberg, with the translator read in eve
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Your call:** none beyond the veto. Note for the Ewald shelf's owner: Teixeira de Mattos's *My Little Boy* (PG 35543) and *The Old Room* (PG 62883) are not on it yet.
+
+
+## Round 20: Scandinavian, French frontier tales, the first Les Misérables (2026-10-10)
+
+Four new shelves, 40 titles, all from Gutenberg, with the translator line read in every header:
+
+- **`bernard-miall`** (10): Bernard Miall's translations printed before 1931: Nexø's *Pelle the Conqueror* (the complete text; vols 1 and 4 are Jessie Muir's), Rolland's *Tolstoy*, Maeterlinck's *Poems*, Fabre's *Social Life in the Insect World* and two Fabre biographies, Brieux's three plays (one each by Miall, J. B. Fagan and Charlotte Shaw), and three history books.
+- **`jessie-muir`** (4): Jessie Muir's Jonas Lie (2), Bojer's *The Power of a Lie* and Fleuron's *Grim* (with J. Alexander, 1921).
+- **`wraxall`** (23): Sir Lascelles Wraxall's 18 Gustave Aimard frontier novels and the first English *Les Misérables* (1862, 5 volumes). That is a second witness beside Hapgood's translation, not a duplicate.
+- **`dowson`** (3): Ernest Dowson's *Les liaisons dangereuses* (2 volumes) and Balzac's *A Passion in the Desert*.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** none beyond the veto. Aimard's frontier novels are period adventure fiction with the racial attitudes of the 1860s; they are shelved as period documents, the way the rest of the lane is. Veto them if that is not what the Armarium wants.

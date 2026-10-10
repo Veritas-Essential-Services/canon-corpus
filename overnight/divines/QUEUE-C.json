@@ -592,6 +592,38 @@
       "finished": "2026-10-10T10:53-05:00",
       "scope": "TRANSLATOR SHELF (round 19, lane C's choice; Adam may veto) -- duff-gordon; PD printings before 1931 only; no minting",
       "notes": "2 titles; ids checked across all branches. See DIGEST-C round 19. No uids minted."
+    },
+    {
+      "id": "shelf-bernard-miall",
+      "status": "done",
+      "started": "2026-10-10T11:00-05:00",
+      "finished": "2026-10-10T11:00-05:00",
+      "scope": "TRANSLATOR SHELF (round 20, lane C's choice; Adam may veto) -- bernard-miall; PD printings before 1931 only; no minting",
+      "notes": "10 titles; ids checked across all branches. See DIGEST-C round 20. No uids minted."
+    },
+    {
+      "id": "shelf-jessie-muir",
+      "status": "done",
+      "started": "2026-10-10T11:00-05:00",
+      "finished": "2026-10-10T11:00-05:00",
+      "scope": "TRANSLATOR SHELF (round 20, lane C's choice; Adam may veto) -- jessie-muir; PD printings before 1931 only; no minting",
+      "notes": "4 titles; ids checked across all branches. See DIGEST-C round 20. No uids minted."
+    },
+    {
+      "id": "shelf-wraxall",
+      "status": "done",
+      "started": "2026-10-10T11:00-05:00",
+      "finished": "2026-10-10T11:00-05:00",
+      "scope": "TRANSLATOR SHELF (round 20, lane C's choice; Adam may veto) -- wraxall; PD printings before 1931 only; no minting",
+      "notes": "23 titles; ids checked across all branches. See DIGEST-C round 20. No uids minted."
+    },
+    {
+      "id": "shelf-dowson",
+      "status": "done",
+      "started": "2026-10-10T11:00-05:00",
+      "finished": "2026-10-10T11:00-05:00",
+      "scope": "TRANSLATOR SHELF (round 20, lane C's choice; Adam may veto) -- dowson; PD printings before 1931 only; no minting",
+      "notes": "3 titles; ids checked across all branches. See DIGEST-C round 20. No uids minted."
     }
   ]
 }
