@@ -1,0 +1,136 @@
+{
+ "_about": "Public-domain W. G. Blaikie (1820-1899, Free Church of Scotland, professor of apologetics and pastoral theology at New College, Edinburgh) for the Word Hoard: his three Expositor's Bible volumes (Joshua, 1 Samuel, 2 Samuel), clean from CCEL; The Personal Life of David Livingstone and Thomas Chalmers, clean from Gutenberg; and from the Internet Archive For the Work of the Ministry (1873) and Heroes of Israel (1894). Added 2026-10-10 by lane A, round 16 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "b/blaikie",
+ "_name_words": [
+  "blaikie",
+  "william"
+ ],
+ "_surname": [
+  "w. g. blaikie",
+  "william garden blaikie",
+  "william g. blaikie",
+  "blaikie, w. g",
+  "w. garden blaikie",
+  "w. g. blaikie, d.d"
+ ],
+ "_held": {},
+ "ccel": {
+  "blaikie-joshua": [
+   "expositorjosh",
+   "The Expositor's Bible: The Book of Joshua (CCEL print source: Hodder and Stoughton, 1893)",
+   ""
+  ],
+  "blaikie-1-samuel": [
+   "expositor8",
+   "The Expositor's Bible: The First Book of Samuel (CCEL print source: 1888)",
+   ""
+  ],
+  "blaikie-2-samuel": [
+   "expositor2sam",
+   "The Expositor's Bible: The Second Book of Samuel (CCEL print source: A. C. Armstrong, 1898)",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "blaikie-livingstone": [
+   "13262",
+   "The Personal Life of David Livingstone (Gutenberg; edition not stated)"
+  ],
+  "blaikie-chalmers": [
+   "40081",
+   "Thomas Chalmers, Famous Scots Series (Oliphant Anderson & Ferrier; undated in the text, IA catalogues this edition 1896)"
+  ]
+ },
+ "internet_archive": {
+  "blaikie-work-of-ministry-1873": [
+   "fortheworkofthei00blaiuoft",
+   "For the Work of the Ministry: A Manual of Homiletical and Pastoral Theology (London: Strahan, 1873)"
+  ],
+  "blaikie-heroes-of-israel-1894": [
+   "heroesofisrael00blairich",
+   "Heroes of Israel (London: T. Nelson, 1894)"
+  ]
+ },
+ "_alternates": {
+  "blaikie-livingstone-1880": "The Personal Life of David Livingstone (London: John Murray, 1880; IA personallifeof00blai): the dated edition"
+ },
+ "_excluded": {},
+ "_checks": {
+  "blaikie-joshua": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william garden blaikie",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Hodder and Stoughton, 1893.",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "blaikie-1-samuel": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. g. blaikie",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Williard Tract Depository and Bible Depot,1888",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "blaikie-2-samuel": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. g. blaikie",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "NEW YORK: A. C. ARMSTRONG AND SON, 1898",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "blaikie-livingstone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william garden blaikie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blaikie-chalmers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william garden blaikie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blaikie-work-of-ministry-1873": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william garden blaikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "blaikie-heroes-of-israel-1894": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. garden blaikie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

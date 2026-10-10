@@ -2573,3 +2573,18 @@ Slugs `stalker-*`. He died in 1927; only printings before 1930 are taken, and th
 | The Ethic of Jesus according to the Synoptic Gospels (London: Hodder & Stoughton, MCMIX) | have-ocr | IA `ethicofjesusacco00stal_2` |
 | Gutenberg 21828 Life of St. Paul (the 1912 Revell revision) and 21814 Trial and Death (an undated Doran printing): the IA copies carry the original dated text | alternate | not shelved |
 | The Preacher and His Models, first edition (IA thepreacherandhi00staluoft, catalogued 1891) | alternate | not shelved |
+
+## W. G. Blaikie (round 16, my pick, 2026-10-10)
+
+Slugs `blaikie-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| The Expositor's Bible: The Book of Joshua (CCEL print source: Hodder and Stoughton, 1893) | have-clean | CCEL b/blaikie/expositorjosh |
+| The Expositor's Bible: The First Book of Samuel (CCEL print source: 1888) | have-clean | CCEL b/blaikie/expositor8 |
+| The Expositor's Bible: The Second Book of Samuel (CCEL print source: A. C. Armstrong, 1898) | have-clean | CCEL b/blaikie/expositor2sam |
+| The Personal Life of David Livingstone (Gutenberg; edition not stated) | have-clean | Gutenberg 13262 |
+| Thomas Chalmers, Famous Scots Series (Oliphant Anderson & Ferrier; undated in the text, IA catalogues this edition 1896) | have-clean | Gutenberg 40081 |
+| For the Work of the Ministry: A Manual of Homiletical and Pastoral Theology (London: Strahan, 1873) | have-ocr | IA `fortheworkofthei00blaiuoft` |
+| Heroes of Israel (London: T. Nelson, 1894) | have-ocr | IA `heroesofisrael00blairich` |
+| The Personal Life of David Livingstone (London: John Murray, 1880; IA personallifeof00blai): the dated edition | alternate | not shelved |

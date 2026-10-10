@@ -2006,10 +2006,12 @@
     },
     {
       "id": "w-g-blaikie",
-      "status": "queued",
+      "status": "done",
       "scope": "W. G. Blaikie: Expositor's Bible volumes, For the Work of the Ministry (d. 1899)",
       "added": "2026-10-10T09:49:31-05:00",
-      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
+      "finished": "2026-10-10T10:08:48-05:00",
+      "notes": "built and verified"
     }
   ]
 }
