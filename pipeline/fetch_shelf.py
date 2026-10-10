@@ -34,6 +34,16 @@ without them behaves as before):
   "_rights_checked": {slug: reason}  keeps an archive.org item the rights
       gate would refuse (published 1930 or later, or a lending-library
       scan) after a person has read its title page.
+  "standard_ebooks": {slug: ["<author>/<book>", title]}  a Standard Ebooks
+      production, fetched as its single-page XHTML (2026-10-10, for books that
+      entered the US public domain too recently for Gutenberg, e.g. Ransome's
+      Swallows and Amazons). SE releases only what it believes is US public
+      domain: a book still in US copyright has no text page (404), so the
+      fetch fails rather than writing anything. Its imprint must carry SE's
+      CC0 dedication and its "believed to be in the United States public
+      domain" line, or the rights gate refuses it (se_rights). The sources SE
+      names (transcription, page scans) are recorded with the check. SE
+      modernizes spelling: a shelf should say so in its `_about`.
   --verify --record writes "_checks" into the shelf (committed): per item,
       what the identity, rights-line and translator checks found, so the
       evidence outlives the gitignored fetch report.
@@ -257,6 +267,27 @@ def ccel_rights(data):
             "ccel_print_source_check": bool(years) and max(years) >= 1930,
             "ccel_terms": CCEL_TERMS}
 
+def se_rights(data):
+    """The rights gate for a Standard Ebooks production (2026-10-10): its
+    imprint and uncopyright pages must state the CC0 dedication and that the
+    source text is believed to be US public domain. "ok" or "CHECK: <why>".
+    The scan and transcription SE worked from are recorded, so a person can
+    see which printing the text was keyed from."""
+    t = data.decode("utf-8", "replace") if isinstance(data, bytes) else data
+    imp = re.search(r'<section[^>]*id="imprint".*?</section>', t, re.S)
+    unc = re.search(r'<section[^>]*id="uncopyright".*?</section>', t, re.S)
+    back = (imp.group(0) if imp else "") + (unc.group(0) if unc else "")
+    flat = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", back)).lower()
+    why = []
+    if "cc0" not in flat:
+        why.append("no CC0 dedication")
+    if "united states public domain" not in flat:
+        why.append("no US public-domain statement")
+    srcs = sorted(set(re.findall(r'href="(https?://(?:www\.)?(?:archive\.org|fadedpage\.com|gutenberg\.org|hathitrust\.org|books\.google\.[a-z.]+)[^"]*)"',
+                                 imp.group(0) if imp else "")))
+    return {"se_rights": ("CHECK: " + "; ".join(why)) if why else "ok: CC0 production, source believed US public domain",
+            "se_sources": srcs or None}
+
 def pg_rights(data, r, claimed=None):
     head = data[:20000].decode("utf-8", "replace") if isinstance(data, bytes) else data[:20000]
     r["pg_copyrighted"] = "copyrighted project gutenberg" in head.lower()
@@ -290,6 +321,10 @@ def checks_for(slug, kind, data, url, shelf, key, names, ident):
         pg_rights(data, r, shelf.get("_translators", {}).get(slug))
     elif kind == "ccel":
         r.update(ccel_rights(data))
+    elif kind == "se":
+        r.update(se_rights(data))
+        if slug in shelf.get("_rights_checked", {}):
+            r["rights_override"] = shelf["_rights_checked"][slug]
     elif kind == "ia":
         r.update(ia_rights(ident))
         if slug in shelf.get("_rights_checked", {}):
@@ -312,8 +347,8 @@ def verify(name, shelf, out, skip, names, record=False):
             flag = c["identity"]
             if flag not in ("ok", "title_weak", "identity_override"):
                 bad.append(slug)
-            rights = c.get("ia_rights", "")
-            if (c["kind"] == "ia" and not rights.startswith("ok") and not c.get("rights_override")) \
+            rights = c.get("ia_rights", "") or c.get("se_rights", "")
+            if (c["kind"] in ("ia", "se") and not rights.startswith("ok") and not c.get("rights_override")) \
                     or c.get("pg_copyrighted") \
                     or c.get("translator_match") is False:
                 flagged.append(slug)
@@ -365,6 +400,9 @@ def jobs_for(shelf, name):
         fname = row[2] if len(row) > 2 and str(row[2]).endswith(".txt") else f"{ident}_djvu.txt"
         url = f"https://archive.org/download/{ident}/" + urllib.parse.quote(fname)
         jobs.append((slug, row[1], url, ".txt", "ia"))
+    for slug, row in shelf.get("standard_ebooks", {}).items():
+        jobs.append((slug, row[1], f"https://standardebooks.org/ebooks/{row[0]}/text/single-page",
+                     ".xhtml", "se"))
     return jobs
 
 def main():
@@ -416,6 +454,10 @@ def main():
                     raise RuntimeError("COPYRIGHTED Project Gutenberg eBook: rights gate refuses it")
                 if r.get("translator_match") is False:
                     raise RuntimeError(f"MISMATCH: Gutenberg names translator {r['pg_translator']!r}, the shelf claims {claimed!r}")
+            if kind == "se":
+                r.update(se_rights(data))
+                if not r["se_rights"].startswith("ok") and slug not in shelf.get("_rights_checked", {}):
+                    raise RuntimeError(f"RIGHTS: {r['se_rights']}; read SE's imprint, then list the slug in _rights_checked")
             if kind == "ia":
                 r.update(ia_rights(ident_of(shelf, slug, kind)))
                 if not r["ia_rights"].startswith("ok") and slug not in shelf.get("_rights_checked", {}):
