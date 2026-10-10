@@ -3162,6 +3162,7 @@ Shelf: `pipeline/schomann_shelf.json`. The Antiquities of Greece, vol. I, The St
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Antiquities of Greece: The State (London: Rivingtons, 1880) | Hardy | `schomann-antiquities-greece-state-1880` | have-raw (IA `antiquitiesofgre00schuoft`) |
 
 ## Guhl and Koner (scholarship)
 
