@@ -2591,7 +2591,7 @@ Shelf: `pipeline/greenidge_shelf.json`. Abel Hendy Jones Greenidge (1865-1906), 
 
 ## W. Warde Fowler (scholarship)
 
-Shelf: `pipeline/warde-fowler_shelf.json`. William Warde Fowler (1847-1921), Oxford historian of Roman religion: 4 clean Gutenberg texts. His bird books are outside the brief. Not minted.
+Shelf: `pipeline/warde-fowler_shelf.json`. William Warde Fowler (1847-1921), Oxford historian of Roman religion: 4 clean Gutenberg texts, plus Julius Caesar and the Foundation of the Roman Imperial System (Putnam, 1892, raw IA OCR). His bird books are outside the brief. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -2599,6 +2599,8 @@ Shelf: `pipeline/warde-fowler_shelf.json`. William Warde Fowler (1847-1921), Oxf
 | The Religious Experience of the Roman People, from the Earliest Times to the Age of Augustus |  | `warde-fowler-religious-experience-roman-people` | have (PG 23349) |
 | Rome (Home University Library) |  | `warde-fowler-rome` | have (PG 56630) |
 | The Roman Festivals of the Period of the Republic |  | `warde-fowler-roman-festivals` | have (PG 59007) |
+
+Pending (wishlist): The City-State of the Greeks and Romans (1893) in a scan whose imprint year is legible.
 
 ## Samuel Dill (scholarship)
 
@@ -2610,7 +2612,7 @@ Shelf: `pipeline/samuel-dill_shelf.json`. Sir Samuel Dill (1844-1924): 1 clean G
 
 ## J. P. Mahaffy (scholarship)
 
-Shelf: `pipeline/mahaffy_shelf.json`. John Pentland Mahaffy (1839-1919), Trinity College Dublin: 4 clean Gutenberg texts, plus Social Life in Greece (1894), Greek Life and Thought (1896) and A History of Classical Greek Literature (2 vols., Harper, 1880; appendix by Sayce) as raw IA OCR. Not minted.
+Shelf: `pipeline/mahaffy_shelf.json`. John Pentland Mahaffy (1839-1919), Trinity College Dublin: 4 clean Gutenberg texts, plus Social Life in Greece (1894), Greek Life and Thought (1896), A History of Classical Greek Literature (2 vols., Harper, 1880), Prolegomena to Ancient History (1871) and The Greek World under Roman Sway (1890) as raw IA OCR. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -2624,6 +2626,8 @@ Shelf: `pipeline/mahaffy_shelf.json`. John Pentland Mahaffy (1839-1919), Trinity
 | A History of Classical Greek Literature, vol. II, The Prose Writers (New York: Harper, 1880) |  | `mahaffy-classical-greek-literature-v2-1880` | have-raw (IA `historyofclassi02maha`) |
 
 Excluded: PG 65638 (The Principles of the Art of Conversation) (outside the classical brief)
+
+Pending (wishlist): The Empire of the Ptolemies (1895) in a scan whose imprint year is legible.
 
 ## G. Lowes Dickinson (scholarship)
 
@@ -3425,6 +3429,38 @@ Shelf: `pipeline/rice-holmes_shelf.json`. Ancient Britain and the Invasions of J
 |---|---|---|---|
 | Ancient Britain and the Invasions of Julius Caesar |  | `rice-holmes-ancient-britain-caesar` | have (PG 57336) |
 | Caesar's Conquest of Gaul, second edition (Oxford: Clarendon Press, 1911) |  | `rice-holmes-caesars-conquest-gaul-1911` | have-raw (IA `caesarsconquesto00holm`) |
+
+## W. W. Capes (scholarship)
+
+Shelf: `pipeline/capes_shelf.json`. Roman History: The Early Empire (1876) and University Life in Ancient Athens (1877), Longmans, raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Roman History: The Early Empire, from the assassination of Julius Caesar to that of Domitian (London: Longmans, Green, 1876) |  | `capes-early-empire-1876` | have-raw (IA `romanhistoryearl00cape`) |
+| University Life in Ancient Athens (London: Longmans, Green, 1877) |  | `capes-university-life-athens-1877` | have-raw (IA `1877universityli00capeuoft`) |
+
+## J. L. Strachan-Davidson (scholarship)
+
+Shelf: `pipeline/strachan-davidson_shelf.json`. Cicero and the Fall of the Roman Republic (Putnam, 1894), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Edwyn Bevan (scholarship)
+
+Shelf: `pipeline/edwyn-bevan_shelf.json`. The House of Seleucus vol. I (1902) and Stoics and Sceptics (1913), raw IA OCR. Bevan died 1943. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): The House of Seleucus vol. II (1902).
+
+## Charles Oman (scholarship)
+
+Shelf: `pipeline/oman_shelf.json`. Seven Roman Statesmen of the Later Republic (Edward Arnold, 1902; a 1929 impression), raw IA OCR. Oman died 1946. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
 
 ## Perseus census (overflow)
 
