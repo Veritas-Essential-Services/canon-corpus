@@ -754,3 +754,6 @@
 
 ## 2026-10-10 10:08 CDT — james-hamilton-london done
 - `pipeline/james-hamilton-london_shelf.json`: 0 CCEL, 1 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:08 CDT — john-ker done
+- `pipeline/john-ker_shelf.json`: 0 CCEL, 0 PG, 6 IA. Two "0000"-style ids (Sermons 1885, Thoughts 1888); title pages read, in `_rights_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

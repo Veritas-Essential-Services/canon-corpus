@@ -2548,6 +2548,21 @@ Slugs `jhamilton-*`. Name forms carry D.D. or Rev. so they do not match other Ja
 | The Lamp and the Lantern: or, Light for the Tent and the Traveller (New York: Robert Carter, 1853) | have-ocr | IA `lampandlanterno01hamigoog` |
 | The Royal Preacher (1851; IA theroyalpreacher00hamiuoft), The Mount of Olives (2nd ed., 1846; IA mountofolives00hami), Life in Earnest (1863; IA lifeinearnes00hami): their text is in the Works | alternate | not shelved |
 | the 1881 reissue of the Works (IA worksoflaterevja01hami to 06hami) | alternate | not shelved |
+
+## John Ker (round 16, my pick, 2026-10-10)
+
+Slugs `jker-*`. Not the other John Kers.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons [first series], thirteenth edition (Edinburgh: David Douglas, MDCCCLXXXV) | have-ocr | IA `sermons0000revj_k5s6` |
+| Sermons, Second Series, third edition (Edinburgh: David Douglas, MDCCCLXXXVIII) | have-ocr | IA `sermonsbyrevjohn00kerruoft` |
+| Lectures on the History of Preaching, ed. A. R. MacEwen, second edition (London: Hodder and Stoughton, MDCCCLXXXVIII) | have-ocr | IA `historyofpreach00keruoft` |
+| Thoughts for Heart and Life, ed. A. L. Simpson (Edinburgh: David Douglas, 1888) | have-ocr | IA `thoughtsforheart0000revj` |
+| The Psalms in History and Biography (Edinburgh: Andrew Elliot, 1886) | have-ocr | IA `psalmsinhistoryb00kerjrich` |
+| Scottish Nationality and Other Papers (Edinburgh: Andrew Elliot, 1887) | have-ocr | IA `scottishnationa00kergoog` |
+| Letters 1866-1885, 2nd ed. 1890 (IA lettersrevjohnk00kergoog): the title page names no author in its OCR | alternate | not shelved |
+| The Day Dawn and the Rain (Carter, 1869; IA daydawnrainother00kerj) and The Victory of Faith (IA victoryoffaithot00kerj): the American printings of the two sermon series | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
