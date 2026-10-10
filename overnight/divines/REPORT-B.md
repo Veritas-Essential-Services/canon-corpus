@@ -596,3 +596,8 @@
 - Added: Oxford literal Aeschylus (1829), H. B. L.'s Ion (1889), Goldwin Smith's Euripides (1893), Laurent's Herodotus (1827, 2 vols.)
 - Under the OCR bar: Davies's Agamemnon (0.60), the 1840 literal Medea (0.73), Laurent's 1846 edition (0.745)
 - Held already: Plato, Aristotle, Xenophon, Demosthenes, Strabo, Pausanias candidates
+
+## 2026-10-10 09:42 CDT — Round 2026-10-10e: Latin poets and Greek hymns
+- Added: Cooke's Terence vol. I (1755), Toller's Phaedrus (1854), anonymous Juvenal III (1806), Skrine's Eclogues (1868), Conwell's Homeric Hymns (1830), Stanley's Anacreon, Bion and Moschus (1815)
+- Not taken: Cooke's Terence vol. II (title-page rule, same class as Carr's Lucian); the 1828 interlinear Phaedrus
+- Held already: Bailey and Leonard's Lucretius, Colman's Terence, Badham's Juvenal, Williams's and Cranch's Virgil, Lang's hymns and Theocritus, Dodd's Callimachus

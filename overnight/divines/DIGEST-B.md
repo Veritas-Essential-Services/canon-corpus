@@ -160,3 +160,4 @@
 - Round 2026-10-10b (09:19): the Tenne Tragedies hold is settled by taking the 1581 first printing (no Eliot introduction); two more volumes added; notes corrected. No decision needed.
 - Round 2026-10-10c (09:27): five volumes added; no decision needed.
 - Round 2026-10-10d (09:31): five volumes added; no decision needed.
+- Round 2026-10-10e (09:42): six volumes added. Cooke's Terence vol. II joins Carr's Lucian in the title-page question already asked; no new decision.

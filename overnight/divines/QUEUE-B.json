@@ -948,6 +948,14 @@
    "started": "2026-10-10T09:27:41-05:00",
    "finished": "2026-10-10T09:31:46-05:00",
    "notes": "Added the anonymous Oxford literal Aeschylus 1829, H. B. L.'s Ion 1889, Goldwin Smith's Euripides specimens 1893, Laurent's Herodotus 1827 (2 vols.). Plato, Aristotle, Xenophon, the orators, Strabo and Pausanias candidates were all held already."
+  },
+  {
+   "id": "round-2026-10-10e",
+   "status": "done",
+   "scope": "Latin poets (Lucretius, Catullus, Tibullus, Terence, Phaedrus, Juvenal, Virgil) and Homeric hymns, Bion and Moschus, Callimachus, Menander title sweeps",
+   "started": "2026-10-10T09:31:46-05:00",
+   "finished": "2026-10-10T09:42:13-05:00",
+   "notes": "Added Cooke's Terence vol. I 1755, Toller's Phaedrus 1854, an anonymous Third Satire of Juvenal 1806, Skrine's Eclogues 1868, Conwell's Homeric Hymns 1830, Stanley's Anacreon, Bion and Moschus (1815 edition). Cooke vol. II not taken (no title page in OCR); the 1828 Phaedrus is an interlinear crib."
   }
  ]
 }
