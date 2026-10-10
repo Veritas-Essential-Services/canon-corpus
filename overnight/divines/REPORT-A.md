@@ -814,3 +814,6 @@
 
 ## 2026-10-10 11:17 CDT — christmas-evans done
 - `pipeline/christmas-evans_shelf.json`: 0 CCEL, 2 PG, 2 IA. Three of the four items are biographies by other hands. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:18 CDT — thomas-binney done
+- `pipeline/thomas-binney_shelf.json`: 0 CCEL, 1 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.

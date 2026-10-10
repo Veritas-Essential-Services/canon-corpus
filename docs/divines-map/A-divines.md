@@ -2872,3 +2872,18 @@ Slugs `evans-*`. Welsh Baptist. One book of his own (Sermons, in English transla
 | IA sermonsmemoirsof0000evan (Kregel 1986) and christmasevans0000unse (1938): after 1930 | excluded | |
 | IA wg35-5-41/42: 1838 Welsh elegies, 4 pages | excluded | |
 | IA sermonsofchristm00evan_1 (1848): returned 500, unverified | excluded | |
+
+## Thomas Binney (round 17, my pick, 2026-10-10)
+
+Slugs `binney-*`. Congregationalist of the King's Weigh-House Chapel. Two items wait in _pending (Illustrations of the Practical Power of Faith returned 500; Stoughton's Memorial has no text layer).
+
+| Work | Status | Where |
+|---|---|---|
+| The Royal Exchange and the Palace of Industry; or, The Possible Future of Europe and the World (London, 1851) | have-clean | Gutenberg 58058 |
+| Is It Possible to Make the Best of Both Worlds? A Book for Young Men (London: James Nisbet; Hamilton, Adams, 1853) | have-ocr | IA `isitpossibletom00binngoog` |
+| Sermons Preached in the King's Weigh-House Chapel, London, 1829-1869, first series (London: Macmillan, 1869) | have-ocr | IA `sermonspreached00binngoog` |
+| Sermons Preached in the King's Weigh-House Chapel, second series, ed. with a sketch by Henry Allon (London: Macmillan; title-page year garbled, catalogued 1875) | have-ocr | IA `sermonspreachedi0000binn` |
+| Lights and Shadows of Church-Life in Australia; with Two Hundred Years Ago: Then and Now (2nd ed., London: Jackson & Walford, MDCCCLX) | have-ocr | IA `lightsshadowsofc00binnuoft` |
+| Money: A Popular Exposition in Rough Notes (4th thousand, London: Jackson, Walford, and Hodder; catalogued 1864) | have-ocr | IA `moneypopularexpo00binn` |
+| IA aydywynbosiblbw00binngoog: Welsh translation (Dinbych, 1855); isitpossibletom01binngoog: duplicate copy | excluded | |
+| Horace Binney, Amos Binney (binneystheologic*), Hibbert Binney (cihm_07183): different people | excluded | |
