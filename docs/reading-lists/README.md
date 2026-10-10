@@ -128,3 +128,27 @@ The Song of Roland is already held on Lane C's `scott-moncrieff` shelf.
 | `upton-sinclair` | The Jungle (US PD; UK until 2038) |
 
 Beyond Good and Evil is already held on Lane C's `levy-nietzsche`. Still to find for the founding-documents row: the Articles of Confederation, the Northwest Ordinance, Washington's Farewell Address, and the Clay, Calhoun and Garrison speeches.
+
+### Batch 5 (2026-10-10): poets, philosophy and the 1920s
+
+15 shelves, 34 texts, all checks passed. 32 Gutenberg texts are converted (about 45,000 units); Galileo and Mencken are Internet Archive scans and stay raw OCR. The 1920s books are US public domain only; each shelf's `_about` gives the year its UK copyright ends.
+
+| Shelf | Works |
+|---|---|
+| `donne-poems` | The Poems of John Donne, vols 1–2 (Grierson, 1912). Lane A's `john-donne` holds the prose and left the poems out |
+| `gibbon-rl` | Decline and Fall, vols 2–6 (vol. 1 already held) |
+| `rousseau-emile` | Emile (Foxley, 1911). The Discourses are already held with Cole's Social Contract |
+| `romantic-poets` | Lyrical Ballads (1798); Keats's Poems 1817, Endymion, Poems 1820; Shelley's Complete Poetical Works; Byron's Childe Harold and Don Juan |
+| `freud` | The Interpretation of Dreams (Brill, 1913) |
+| `ts-eliot` | Prufrock and Other Observations; The Waste Land |
+| `scott-fitzgerald` | The Great Gatsby; Tales of the Jazz Age (with Benjamin Button) |
+| `hemingway` | The Sun Also Rises |
+| `robert-frost` | New Hampshire (with Stopping by Woods) |
+| `thornton-wilder` | The Bridge of San Luis Rey |
+| `em-forster` | A Passage to India |
+| `war-poets` | Rupert Brooke, Collected Poems; Wilfred Owen, Poems (1920) |
+| `macaulay-lays` | Lays of Ancient Rome |
+| `galileo` | Dialogues concerning Two New Sciences (Crew and de Salvio, 1914; IA) |
+| `mencken` | The American Language (1919; IA) |
+
+Gibbon vols 2–6 needed a chapter rule: their headings are indented and repeat once per chapter part.

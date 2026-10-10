@@ -83,10 +83,10 @@ Jerusalem Delivered	Torquato Tasso	1581	NSA	held	fairfax-jerusalem (PG 392), hoo
 Don Quixote	Miguel de Cervantes	1605–1615	Logos Online	held	cervantes-quixote, motteux-quixote	PD		
 A King in Disguise (novella)	Matteo Bandello	16th c.	CC	short	short piece in CC anthology; source to locate	PD		
 The Prince	Niccolò Machiavelli	1532	BCS; CiRCE; Logos Online; NSA	held	machiavelli-prince	PD		
-Decline and Fall of the Roman Empire	Edward Gibbon	1776–1789	CiRCE; NSA	partial	gibbon-decline1 (vol. 1 only)	PD	vols 2–6 are a gap (PG 732–737…)	
+Decline and Fall of the Roman Empire	Edward Gibbon	1776–1789	CiRCE; NSA	ingested	gibbon-decline1 + gibbon-rl (PG 732-736)	PD	vols 2–6 are a gap (PG 732–737…)	5
 Paradise Lost	John Milton	1667	BCS; CC; Canon; CiRCE; Logos Online; NSA	held	paradise_lost (PG 20)	PD		
 The Temple and English poems	George Herbert	1633	BCS; Canon; Logos Online	held	herbert-english-works-1..3, herbert-country-parson	PD		
-Poems	John Donne	1633	BCS; Canon	partial	donne-works-1..6 (sermons & prose); the poems are a gap	PD	Grierson's Poems of John Donne (1912) on IA	
+Poems	John Donne	1633	BCS; Canon	ingested	donne-poems (PG 48688, 48772, Grierson 1912)	PD	Grierson's Poems of John Donne (1912) on IA	5
 The Poems of Anne Bradstreet	Anne Bradstreet	1650–1678	Canon	ingested	bradstreet (IA, Ellis 1867, raw OCR)	PD		4
 Thomas Traherne: prose and poetry	Thomas Traherne	17th c.	NSA	held	thomas-traherne shelf (relay)	PD		
 Discourse on Method	René Descartes	1637	BCS	held	descartes-method, descartes-meditations	PD		
@@ -94,7 +94,7 @@ Leviathan	Thomas Hobbes	1651	BCS; Logos Online	held	hobbes-leviathan	PD
 Pensées	Blaise Pascal	1670	BCS; Logos Online	held	pascal-pensees	PD		
 Francis Bacon (works)	Francis Bacon	1605–1620	BCS; CiRCE	held	bacon-advancement, bacon-novum	PD	Essays (PG 575) may be a gap	
 Principia	Isaac Newton	1687	BCS; NSA	held	newton-principia (Motte)	PD		
-Astronomical works: Ptolemy, Copernicus, Galileo	Ptolemy; Copernicus; Galileo	2nd–17th c.	BCS; CiRCE; NSA	partial	greek-mechanics-astronomy shelf; Galileo's Two New Sciences (Crew 1914, PG) missing	PD (Crew & de Salvio 1914)		
+Astronomical works: Ptolemy, Copernicus, Galileo	Ptolemy; Copernicus; Galileo	2nd–17th c.	BCS; CiRCE; NSA	ingested	greek-mechanics-astronomy + galileo (IA, Crew 1914, raw OCR)	PD (Crew & de Salvio 1914)		5
 John Locke (works)	John Locke	1689–1690	BCS	held	locke-government, locke-understanding	PD		
 Lex Rex	Samuel Rutherford	1644	Canon	held	rutherford-lex-rex-1843	PD		
 The Rare Jewel of Christian Contentment	Jeremiah Burroughs	1648	Canon	held	burroughs-rare-jewel	PD		
@@ -113,7 +113,7 @@ The Method of Grace (sermon)	George Whitefield	c. 1740	CC	partial	whitefield jou
 Edwards: End for Which God Created the World; Religious Affections	Jonathan Edwards	1746–1765	BCS; Canon	held	edwards shelf (affections, works1/2)	PD		
 Voltaire (works)	Voltaire	18th c.	BCS	held	voltaire-candide	PD		
 Goethe (works)	Goethe	18th–19th c.	BCS	held	faust (Taylor), anster-faust, bowring-goethe-poems	PD		
-Rousseau: Discourses, Emile, Social Contract	Jean-Jacques Rousseau	1750–1762	BCS; CiRCE; Logos Online; NSA	partial	rousseau-contract held; Discourses (Cole 1913) and Emile (Foxley 1911, PG 5427) missing	PD		
+Rousseau: Discourses, Emile, Social Contract	Jean-Jacques Rousseau	1750–1762	BCS; CiRCE; Logos Online; NSA	ingested	rousseau-contract (Cole, with the Discourses) + rousseau-emile (PG 5427, Foxley)	PD		5
 Hume (works)	David Hume	18th c.	BCS	held	hume-enquiry	PD		
 Kant (works)	Immanuel Kant	18th c.	BCS; CiRCE	held	kant-pure-reason, kant-practical	PD		
 The Wealth of Nations	Adam Smith	1776	BCS; Logos Online	held	smith-wealth	PD		
@@ -191,17 +191,17 @@ Understood Betsy	Dorothy Canfield Fisher	1917	Logos	ingested	dcfisher-understood
 Father Brown stories	G. K. Chesterton	1910–1935	CC; CiRCE; Logos	partial	Innocence, Wisdom, Incredulity, Secret held; Scandal (1935) is not PD	1911–1927 books PD		
 Orthodoxy; The Everlasting Man	G. K. Chesterton	1908–1925	Canon; Memoria	held	chesterton-orthodoxy, chesterton-everlasting	PD		
 On the Origin of Species	Charles Darwin	1859	Canon; CiRCE	held	darwin-origin	PD		
-The Interpretation of Dreams	Sigmund Freud	1899	Logos Online	missing	source: Brill tr. 1913 (PG 66048)	PD (Brill 1913)		
+The Interpretation of Dreams	Sigmund Freud	1899	Logos Online	ingested	freud (PG 66048, Brill 1913)	PD (Brill 1913)		5
 The Jungle	Upton Sinclair	1906	Logos Online	ingested	upton-sinclair (PG 140)	US PD; UK in copyright until 2039		4
-The Waste Land and early poems	T. S. Eliot	1915–1922	Logos Online	missing	source: PG 1321 (The Waste Land); Prufrock PG 1459	US PD (pre-1930 poems only); UK until 2036		
-World War One poets (Brooke, Owen, Sassoon…)	various	1914–1918	Logos Online	missing	source: Brooke PG 262; Owen Poems 1920 (IA)	PD for pre-1930 publications		
+The Waste Land and early poems	T. S. Eliot	1915–1922	Logos Online	ingested	ts-eliot (PG 1459, 1321)	US PD (pre-1930 poems only); UK until 2036		5
+World War One poets (Brooke, Owen, Sassoon…)	various	1914–1918	Logos Online	ingested	war-poets (Brooke PG 262, Owen PG 1034); Sassoon not yet	PD for pre-1930 publications		5
 The Souls of Black Folk	W. E. B. Du Bois	1903	BCS	ingested	du-bois (PG 408)	US PD; UK until 2034		4
-The Great Gatsby	F. Scott Fitzgerald	1925	BCS; Logos Online; Memoria	missing	source: PG 64317	PD (US since 2021)		
-The Curious Case of Benjamin Button	F. Scott Fitzgerald	1922	CC	missing	in Tales of the Jazz Age, PG 6695	PD		
-A Passage to India	E. M. Forster	1924	CC	missing	source: Internet Archive (1924 ed.)	US PD since 2020; UK until 2041		
-The Sun Also Rises	Ernest Hemingway	1926	Logos Online	missing	source: PG 67138	US PD since 2022; UK until 2032		
+The Great Gatsby	F. Scott Fitzgerald	1925	BCS; Logos Online; Memoria	ingested	scott-fitzgerald (PG 64317)	PD (US since 2021)		5
+The Curious Case of Benjamin Button	F. Scott Fitzgerald	1922	CC	ingested	scott-fitzgerald (Tales of the Jazz Age, PG 6695)	PD		5
+A Passage to India	E. M. Forster	1924	CC	ingested	em-forster (PG 61221)	US PD since 2020; UK until 2041		5
+The Sun Also Rises	Ernest Hemingway	1926	Logos Online	ingested	hemingway (PG 67138)	US PD since 2022; UK until 2032		5
 All Quiet on the Western Front	Erich Maria Remarque	1929	Logos Online; Memoria	notpd	Wheen tr. 1929 is US PD since 2025, but no PD digital copy confirmed	check Wheen 1929 on PG		
-The American Language (excerpt)	H. L. Mencken	1919	CC	missing	source: Internet Archive (1919 1st ed.)	PD (1919 ed.)		
+The American Language (excerpt)	H. L. Mencken	1919	CC	ingested	mencken (IA, 1919, raw OCR)	PD (1919 ed.)		5
 The War Message (1917)	Woodrow Wilson	1917	CC	short	government document	PD		
 Memoirs	Charles G. Finney	1876	Logos Online	missing	finney shelf (relay) lacks the Memoirs: IA memoirsofrevchar00finn	PD	relay lane A's finney shelf — coordinate	
 Life and Campaigns of Stonewall Jackson	R. L. Dabney	1866	Logos Online	missing	dabney shelf exists (relay); this title IA lifecampaignsoft00dabn	PD		
@@ -219,7 +219,7 @@ Westminster Confession of Faith	Westminster Assembly	1646	Logos Online; NSA	held
 Short stories and poems in CC's anthologies (Butterworth, Finch, Scollard, O. Henry, Bierce, Daudet, Maupassant)	various	1873–1907	CC; CiRCE	short	short pieces; sources to locate per story	PD		
 Short biographies in CC's Challenge B anthology	various	c. 1840–1920	CC	short	early 20th-c. school readers; sources to locate per piece	PD where pre-1930 (Keller, Hagedorn, Ford pieces need dates)		
 Classical Conversations' own anthologies	Classical Conversations	2010s–2020s	CC	modern	compilations; their contents are listed above where known	not PD		
-The Romantic poets	various	19th c.	BCS	partial	coleridge, southey shelves held; Wordsworth, Keats, Shelley, Byron are gaps	PD	Wordsworth PG 10219; Keats PG 23684; Shelley PG 4800; Byron PG 21700	
+The Romantic poets	various	19th c.	BCS	ingested	romantic-poets (Lyrical Ballads, Keats x3, Shelley, Byron x2) + coleridge, southey	PD	Wordsworth PG 10219; Keats PG 23684; Shelley PG 4800; Byron PG 21700	5
 Pre-Socratics, Epicureans, Stoics, Neoplatonists	various	6th c. BC – 3rd c. AD	BCS	held	presocratics, epictetus, plotinus, diogenes-laertius shelves	PD		
 Tertullian; Clement of Alexandria	Tertullian; Clement	2nd–3rd c.	BCS	held	Schaff ANF 2–4 (PR #11)	PD		
 Augustine (works)	Augustine	4th–5th c.	BCS	held	Schaff NPNF1 1–8 (PR #11)	PD		
@@ -233,15 +233,15 @@ The Koran	Muhammad (trad.)	7th c.	Logos Online	held	rodwell-koran, sale-koran, p
 Stories of Great Americans for Little Americans	Edward Eggleston	1895	Memoria	missing	source: Project Gutenberg (id to confirm)	PD		
 George Washington (from Stories of Great Americans)	Edward Eggleston	c. 1895	CC	missing	in Stories of Great Americans for Little Americans	PD		
 Famous Men of Greece, Rome, and the Middle Ages	John H. Haaren & A. B. Poland	1904	Memoria	missing	source: Project Gutenberg (Famous Men of Rome, of Greece, of the Middle Ages)	PD	Memoria's revised editions are not PD; the 1904 originals are	
-Lays of Ancient Rome (Horatius)	Thomas Babington Macaulay	1842	Memoria	missing	source: Project Gutenberg	PD		
+Lays of Ancient Rome (Horatius)	Thomas Babington Macaulay	1842	Memoria	ingested	macaulay-lays (PG 847)	PD		5
 The Story of the Thirteen Colonies; The Story of the Great Republic	H. A. Guerber	1898–1899	Memoria	missing	guerber shelf (lane D) holds the myth books, not these histories	PD		
 The Book of the Ancient World / Greeks / Romans	Dorothy Mills	1923–1927	Memoria	missing	source: Internet Archive (1923, 1925, 1927 eds.)	US PD; UK in copyright until 2030		
 The Aeneid for Boys and Girls	Alfred J. Church	1908	Memoria	missing	source: Project Gutenberg	PD	church shelf (lane D) holds the Iliad and Odyssey retellings	
 The Talisman (and Scott's novels)	Walter Scott	1825	Memoria	ingested	walter-scott shelf: Ivanhoe, The Talisman	PD	no Walter Scott novel is held anywhere	Batch 2
 Silas Marner	George Eliot	1861	Memoria	ingested	george-eliot-silas-marner (PG 550)	PD	Middlemarch is held (adler)	Batch 2
-The Bridge of San Luis Rey	Thornton Wilder	1927	Memoria	missing	source: check Gutenberg (US PD since 2023)	US PD; UK in copyright until 2046		
+The Bridge of San Luis Rey	Thornton Wilder	1927	Memoria	ingested	thornton-wilder (PG 69768)	US PD; UK in copyright until 2046		5
 Millions of Cats	Wanda Gág	1928	Memoria	missing	picture book; Internet Archive	US PD since 2024	illustrations are the work	
-Stopping by Woods on a Snowy Evening (New Hampshire)	Robert Frost	1923	Memoria	missing	source: New Hampshire (1923), Project Gutenberg	US PD; UK in copyright until 2034		
+Stopping by Woods on a Snowy Evening (New Hampshire)	Robert Frost	1923	Memoria	ingested	robert-frost (PG 58611)	US PD; UK in copyright until 2034		5
 Poems Every Child Should Know	Mary E. Burt (ed.)	1904	Memoria	missing	source: Project Gutenberg	PD		
 Children's poems (Alexander, Field, Lear, Coleridge)	various	1802–1889	CiRCE; Memoria	partial	Coleridge held; Lear's Nonsense Songs, Field's Poems of Childhood are gaps	PD		
 Perrault and English fairy tales	Perrault; Leprince de Beaumont; Jacobs	1697–1890	CiRCE; Memoria	held	lang fairy books, perrault shelf, jacobs-fairy shelf	PD		

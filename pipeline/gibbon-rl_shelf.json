@@ -1,0 +1,98 @@
+{
+  "_about": "Gibbon's Decline and Fall, vols 2-6 as Project Gutenberg divides it. Vol. 1 is already held (gibbon-decline1, PG 731). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+  "_author": "Edward Gibbon",
+  "_name_words": [
+    "edward",
+    "gibbon"
+  ],
+  "_surname": [
+    "gibbon"
+  ],
+  "ccel": {},
+  "gutenberg": {
+    "gibbon-decline-2": [
+      732,
+      "History of the Decline and Fall of the Roman Empire, vol. 2",
+      {
+        "chapre_only": "^\\s*Chapter [IVXL]+:"
+      }
+    ],
+    "gibbon-decline-3": [
+      733,
+      "History of the Decline and Fall of the Roman Empire, vol. 3",
+      {
+        "chapre_only": "^\\s*Chapter [IVXL]+:"
+      }
+    ],
+    "gibbon-decline-4": [
+      734,
+      "History of the Decline and Fall of the Roman Empire, vol. 4",
+      {
+        "chapre_only": "^\\s*Chapter [IVXL]+:"
+      }
+    ],
+    "gibbon-decline-5": [
+      735,
+      "History of the Decline and Fall of the Roman Empire, vol. 5",
+      {
+        "chapre_only": "^\\s*Chapter [IVXL]+:"
+      }
+    ],
+    "gibbon-decline-6": [
+      736,
+      "History of the Decline and Fall of the Roman Empire, vol. 6",
+      {
+        "chapre_only": "^\\s*Chapter [IVXL]+:"
+      }
+    ]
+  },
+  "internet_archive": {},
+  "_excluded": {},
+  "_checks": {
+    "gibbon-decline-2": {
+      "kind": "gutenberg",
+      "checked": "2026-10-10",
+      "name_check": "surname",
+      "author_seen": "gibbon",
+      "identity": "ok",
+      "pg_copyrighted": false,
+      "pg_translator": null
+    },
+    "gibbon-decline-3": {
+      "kind": "gutenberg",
+      "checked": "2026-10-10",
+      "name_check": "surname",
+      "author_seen": "gibbon",
+      "identity": "ok",
+      "pg_copyrighted": false,
+      "pg_translator": null
+    },
+    "gibbon-decline-4": {
+      "kind": "gutenberg",
+      "checked": "2026-10-10",
+      "name_check": "surname",
+      "author_seen": "gibbon",
+      "identity": "ok",
+      "pg_copyrighted": false,
+      "pg_translator": null
+    },
+    "gibbon-decline-5": {
+      "kind": "gutenberg",
+      "checked": "2026-10-10",
+      "name_check": "surname",
+      "author_seen": "gibbon",
+      "identity": "ok",
+      "pg_copyrighted": false,
+      "pg_translator": null
+    },
+    "gibbon-decline-6": {
+      "kind": "gutenberg",
+      "checked": "2026-10-10",
+      "name_check": "surname",
+      "author_seen": "gibbon",
+      "identity": "ok",
+      "pg_copyrighted": false,
+      "pg_translator": null
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+ "_about": "Rousseau, Emile, or Education (1762), tr. Barbara Foxley (Everyman, 1911). The Social Contract and Discourses (Cole) are already held as rousseau-contract. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Jean-Jacques Rousseau",
+ "_name_words": [
+  "jean",
+  "jacques",
+  "rousseau"
+ ],
+ "_surname": [
+  "rousseau"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rousseau-emile-foxley": [
+   5427,
+   "Emile, or Education, tr. Barbara Foxley (1911)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "rousseau-emile-foxley": "Foxley"
+ },
+ "_checks": {
+  "rousseau-emile-foxley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rousseau",
+   "translator_claimed": "Foxley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
