@@ -3215,6 +3215,7 @@ Shelf: `pipeline/walter-leaf_shelf.json`. Troy, a Study in Homeric Geography (Ma
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Troy: A Study in Homeric Geography (London: Macmillan, 1912) |  | `walter-leaf-troy-1912` | have-raw (IA `troystudyinhomer00leaf`) |
 
 Pending (wishlist): Homer and History (1915).
 
