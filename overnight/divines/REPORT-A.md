@@ -790,3 +790,6 @@
 
 ## 2026-10-10 10:33 CDT: round 17 pickups
 - `spurgeon_shelf.json`: +4 Gutenberg, +3 IA (Lectures to My Students series 1-3, Soul-Winner, Wicket Gate, Talks to Farmers, Gleanings). `charles-finney_shelf.json`: +1 IA (Memoirs, 1876). Perkins's Reformed Catholike is already in Workes vol. 1; Ryle's Thoughts for Young Men has no pre-1930 scan found; Dabney's Jackson stays excluded (military biography); Beza's shelf is PR #14's. `--verify --record` on both shelves: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:00 CDT — john-berridge done
+- `pipeline/john-berridge_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for berridge-fragment-1760 (OCR garbles the name), recorded in `_identity_checked`. Fragment of the True Religion attributed by catalogue (anonymous title page). `--verify --record`: 0 mismatched. 0 uids minted.

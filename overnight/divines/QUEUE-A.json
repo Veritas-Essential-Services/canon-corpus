@@ -2050,10 +2050,12 @@
     },
     {
       "id": "john-berridge",
-      "status": "queued",
+      "status": "done",
       "scope": "John Berridge: The Christian World Unmasked, Works (d. 1793)",
       "added": "2026-10-10T10:34:26-05:00",
-      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch)."
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch).",
+      "finished": "2026-10-10T11:00:30-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "rowland-hill",

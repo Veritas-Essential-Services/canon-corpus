@@ -2714,6 +2714,18 @@ Slugs `kurtz-*`.
 | spurgeon | Lectures to My Students (1st and 2nd series, 1875-77); The Soul-Winner (1895) | IA |
 | spurgeon | The Art of Illustration (3rd series); Around the Wicket Gate; Talks to Farmers; Gleanings among the Sheaves | Gutenberg 42558, 60669, 42518, 42657 |
 | charles-finney | Memoirs (A. S. Barnes, 1876) | IA |
+
+## John Berridge (round 17, my pick, 2026-10-10)
+
+Slugs `berridge-*`. Vicar of Everton, evangelical Anglican. The 1760 Fragment was published anonymously; its attribution is the catalogue's, noted in the shelf.
+
+| Work | Status | Where |
+|---|---|---|
+| The Works of the Rev. John Berridge, with an enlarged memoir, ed. Richard Whittingham (London: Simpkin, Marshall; Potton: Frazer, 1838) | have-ocr | IA `worksofrevjohnbe00berrrich` |
+| A Fragment of the True Religion, being the substance of two letters (London: J. Williams, MDCCLX) | have-ocr | IA `fragmentoftruere00berr` |
+| Cheerful Piety, or Religion without Gloom: select letters (Brooklyn: Thomas Kirk; catalogued 1812) | have-ocr | IA `cheerfulpietyorr00berr` |
+| The Christian World Unmasked (London, 1773; IA bim_eighteenth-century_the-christian-world-unma_berridge-john_1773) and Sion's Songs (1785; IA bim_eighteenth-century_sions-songs-or-hymns-_berridge-john_1785): first editions, long-s OCR; their text is in the 1838 Works | alternate | not shelved |
+| The Whole Works, 2nd ed. (London: Palmer, 1864; IA wholeworksofrevj00berruoft) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

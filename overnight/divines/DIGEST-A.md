@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-10 10:29 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-10 11:00 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -345,6 +345,7 @@ The Classical reading-lists thread left six pickups for lane A's shelves (relaye
 
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
 |---|---|---|---|---|---|
+| John Berridge | john-berridge_shelf.json | none | 3 (The Works of the Rev. John Berridge, with an enlarged memoir, ed. Richard Whittingham (London: Simpkin, Marshall; Potton: Frazer, 1838); A Fragment of the True Religion, being the substance of two letters (London: J. Williams, MDCCLX); Cheerful Piety, or Religion without Gloom: select letters (Brooklyn: Thomas Kirk; catalogued 1812)) | none | none |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
