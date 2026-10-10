@@ -2511,7 +2511,7 @@ Pending (wishlist): other English Mommsen not yet searched.
 
 ## Sir William Smith (scholarship)
 
-Shelf: `pipeline/william-smith_shelf.json`. Smith's smaller histories of Greece and Rome and his Smaller Dictionary of Antiquities (clean Gutenberg), and the full Dictionaries of Antiquities (1842), Biography and Mythology (Boston, 1870) and Geography (Boston, 1854 and 1870) as raw IA OCR. Many-author reference works under Smith's editorship, all published 1842-1870. Not minted.
+Shelf: `pipeline/william-smith_shelf.json`. Smith's smaller histories of Greece and Rome and his Smaller Dictionary of Antiquities (clean Gutenberg), and the full Dictionaries of Antiquities (1842), Biography and Mythology (Boston, 1870, 3 vols.) and Geography (Boston, 1854 and 1870) as raw IA OCR. Many-author reference works under Smith's editorship, all published 1842-1870. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -2526,7 +2526,7 @@ Shelf: `pipeline/william-smith_shelf.json`. Smith's smaller histories of Greece 
 
 Excluded: Dictionary of Greek and Roman Geography vol. II (IA dictionaryofgrromgeo02smituoft) (no title page in the scan; the 1870 Boston vol. II is taken instead)
 
-Pending (wishlist): Biography and Mythology vol. III (the matching Boston 1870 copy, IA dictionaryofgree03smituoft, would not download); the third edition of the Antiquities (Wayte and Marindin, 1890-91).
+Pending (wishlist): The third edition of the Antiquities (Wayte and Marindin, 1890-91).
 
 ## Sir Richard Jebb (scholarship)
 
@@ -2548,15 +2548,15 @@ Pending (wishlist): Humanism in Education (1899) and the Rede lecture on Erasmus
 
 ## John Conington (scholarship)
 
-Shelf: `pipeline/conington_shelf.json`. Conington's Miscellaneous Writings (1872), vol. I, raw IA OCR. Not minted.
+Shelf: `pipeline/conington_shelf.json`. Conington's Miscellaneous Writings (1872), vol. I, raw IA OCR; vol. II is his prose Virgil, already on the virgil shelf. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Miscellaneous Writings of John Conington, ed. J. A. Symonds, with a memoir by H. J. S. Smith, vol. I (London: Longmans, Green, 1872) |  | `conington-miscellaneous-writings-v1-1872` | have-raw (IA `miscellaneouswri01coniuoft`) |
 
-Excluded: P. Vergili Maronis Opera, with a commentary (with Henry Nettleship), vol. III (IA pvergilimaroniso03virg) (refused: OCR 0.73 (dense line references; sampled OCR is otherwise good))
+Excluded: P. Vergili Maronis Opera, with a commentary (with Henry Nettleship), vol. III (IA pvergilimaroniso03virg) (refused: OCR 0.73 (dense line references; sampled OCR is otherwise good)); Miscellaneous Writings vol. II (1872; IA miscellaneouswr01smitgoog) (the prose Virgil it carries is already on the virgil shelf (the 1880 Works of Virgil); not duplicated)
 
-Pending (wishlist): Miscellaneous Writings vol. II (every IA copy tried was vol. I or would not download); the Virgil and Persius commentaries if a scan clears the bar.
+Pending (wishlist): The Virgil and Persius commentaries if a scan clears the bar.
 
 ## W. Y. Sellar (scholarship)
 
@@ -2985,6 +2985,28 @@ Shelf: `pipeline/ernst-curtius_shelf.json`. Curtius's History of Greece in A. W.
 | The History of Greece, vol. III, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v3-1892` | have-raw (IA `historyofgreece31curt`) |
 | The History of Greece, vol. IV, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v4-1892` | have-raw (IA `historyofgreece51curt`) |
 | The History of Greece, vol. V, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v5-1892` | have-raw (IA `historyofgreece41curt`) |
+
+## Connop Thirlwall (scholarship)
+
+Shelf: `pipeline/thirlwall_shelf.json`. Thirlwall's History of Greece, new edition in eight volumes (Longman, 1845-1852), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Greece, new edition, vol. I (London: Longman, Brown, Green, and Longmans, 1845) |  | `thirlwall-history-of-greece-v1-1845` | have-raw (IA `historyofgreece01thir`) |
+| The History of Greece, new edition, vol. II (London: Longman, Brown, Green, and Longmans, 1846) |  | `thirlwall-history-of-greece-v2-1846` | have-raw (IA `historyofgreece02thir`) |
+| The History of Greece, new edition, vol. III (London: Longman, Brown, Green, and Longmans, 1846) |  | `thirlwall-history-of-greece-v3-1846` | have-raw (IA `historyofgreece03thir`) |
+| The History of Greece, new edition, vol. IV (London: Longman, Brown, Green, and Longmans, 1847) |  | `thirlwall-history-of-greece-v4-1847` | have-raw (IA `ahistorygreece03thirgoog`) |
+| The History of Greece, new edition, vol. V (London: Longman, Brown, Green, and Longmans, 1849) |  | `thirlwall-history-of-greece-v5-1849` | have-raw (IA `historyofgreece05thir`) |
+| The History of Greece, new edition, vol. VI (London: Longman, Brown, Green, and Longmans, 1851) |  | `thirlwall-history-of-greece-v6-1851` | have-raw (IA `historyofgreece06thir`) |
+| The History of Greece, new edition, vol. VII (London: Longman, Brown, Green, and Longmans, 1852) |  | `thirlwall-history-of-greece-v7-1852` | have-raw (IA `historyofgreece07thiriala`) |
+| The History of Greece, new edition, vol. VIII (London: Longman, Brown, Green, and Longmans, 1852) |  | `thirlwall-history-of-greece-v8-1852` | have-raw (IA `ahistorygreece04thirgoog`) |
+
+## Thomas Arnold (scholarship)
+
+Shelf: `pipeline/thomas-arnold_shelf.json`. Arnold's History of Rome, third edition, 3 vols. (1844-1846), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
 
 ## Perseus census (overflow)
 
