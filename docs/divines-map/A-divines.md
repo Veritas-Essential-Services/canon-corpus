@@ -3629,3 +3629,23 @@ Slugs `darby-*`. Brethren founder; Synopsis and Notes and Comments are Morrish/B
 | Synopsis and other copies catalogued 1942 or later; Bible Truth Publishers printings; 1961 and 1970 Bibles | excluded | |
 | German and French translations | excluded | |
 | J. George N. Darby | excluded | |
+
+## John Colquhoun (round 20, my pick, 2026-10-10)
+
+Slugs `colquhoun-*`. Leith minister, Marrow theology; all Edinburgh printings 1814-1836.
+
+| Work | Status | Where |
+|---|---|---|
+| A Treatise on Spiritual Comfort, second edition, corrected (Edinburgh: J. Ogle and others, 1814) | have-ocr | IA `atreatiseonspir00colqgoog` |
+| A Treatise on the Law and the Gospel (Edinburgh: J. Ogle and others, 1816) | have-ocr | IA `treatiseonlawgos00colq_1` |
+| Treatise on the Covenant of Grace (Edinburgh: Ogle, Allardice and Thomson, and others, 1818) | have-ocr | IA `treatiseoncovena00colq_0` |
+| Treatise on the Covenant of Works (Edinburgh: Thomsons, Brothers, 1821) | have-ocr | IA `treatiseoncovena00colq` |
+| Treatise on Spiritual Comfort, third edition improved (Edinburgh: Thomsons, Brothers, 1822) | have-ocr | IA `treatiseonspirit00colq` |
+| View of Evangelical Repentance, from the Sacred Records (Edinburgh: Thomsons, Brothers; title-page year unreadable in the OCR, catalogued 1825) | have-ocr | IA `viewofevangelica00colq` |
+| A Collection of the Promises of the Gospel, arranged under their proper heads, with Reflections and Exhortations (Edinburgh: Thomsons, Brothers, MDCCCXXV) | have-ocr | IA `collectionofprom00colq` |
+| Sermons, chiefly on Doctrinal Subjects, posthumous (Edinburgh: J. and D. Collie for W. Whyte and others, 1836) | have-ocr | IA `sermonschieflyo00colqgoog` |
+| Second copies: Law and Gospel 1819 (IA treatiseonlawgos00colq_0); Covenant of Grace 1818 (treatiseoncovena00colq_2); Covenant of Works 1821 (treatiseoncovena00colq_1); Spiritual Comfort 1814 (ATreatiseOnSpiritualComfort); Evangelical Repentance (viewofevangelica00colq_0) | alternate | not shelved |
+| Law and Gospel, first American edition (New York: Wiley and Long, 1835; IA treatiseonlawgos00colq, treatiseonlawgos00colq_2), OCR garbles the name | alternate | not shelved |
+| John Colquhoun of Baldernock (1766 sermon) and other namesakes | excluded | |
+| Gaelic translation (Edinburgh, 1826) | excluded | |
+| modern reprints (1965, 1993) | excluded | |

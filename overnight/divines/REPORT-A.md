@@ -904,3 +904,6 @@
 
 ## 2026-10-10 13:51 CDT — j-n-darby done
 - `pipeline/j-n-darby_shelf.json`: 0 CCEL, 0 PG, 17 IA. Title pages read for darby-synopsis-05, darby-newman-apologia (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:52 CDT — john-colquhoun done
+- `pipeline/john-colquhoun_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
