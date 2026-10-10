@@ -1,5 +1,5 @@
 {
- "_about": "John Conington (1825-1869), Corpus Professor of Latin at Oxford. Classical scholarship (lane B pivot, 2026-10-10): Miscellaneous Writings, ed. J. A. Symonds with a memoir by H. J. S. Smith (1872), vol. I, raw IA OCR. His translations of Horace, Virgil and Persius are on those shelves. His Virgil commentary (with Nettleship) reads 0.73 on the OCR measure, under the bar. No uids minted.",
+ "_about": "John Conington (1825-1869), Corpus Professor of Latin at Oxford. Classical scholarship (lane B pivot, 2026-10-10): Miscellaneous Writings, ed. J. A. Symonds with a memoir by H. J. S. Smith (1872), vol. I, raw IA OCR. Vol. II is almost wholly his prose Virgil, which the virgil shelf already holds (virgil-conington-works-1880), so it is not added. His translations of Horace, Virgil and Persius are on those shelves. His Virgil commentary (with Nettleship) reads 0.73 on the OCR measure, under the bar. No uids minted.",
  "_name_words": [
   "conington"
  ],
@@ -16,7 +16,8 @@
   ]
  },
  "_excluded": {
-  "P. Vergili Maronis Opera, with a commentary (with Henry Nettleship), vol. III (IA pvergilimaroniso03virg)": "refused: OCR 0.73 (dense line references; sampled OCR is otherwise good)"
+  "P. Vergili Maronis Opera, with a commentary (with Henry Nettleship), vol. III (IA pvergilimaroniso03virg)": "refused: OCR 0.73 (dense line references; sampled OCR is otherwise good)",
+  "Miscellaneous Writings vol. II (1872; IA miscellaneouswr01smitgoog)": "the prose Virgil it carries is already on the virgil shelf (the 1880 Works of Virgil); not duplicated"
  },
  "_checks": {
   "conington-miscellaneous-writings-v1-1872": {
