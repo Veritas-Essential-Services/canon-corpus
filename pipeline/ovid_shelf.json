@@ -87,6 +87,11 @@
    "metamorphosesofp00ovid",
    "The Metamorphoses of Publius Ovidius Naso translated in English blank verse (Blackwood, MDCCCLXXI)",
    "tr. Henry King"
+  ],
+  "ovid-taylor-fasti-1839": [
+   "poemstranslation00tayluoft",
+   "Poems and Translations, including the first four books of Ovid's Fasti, with the ancient Roman calendar (Liverpool: William Forshaw, 1839); the volume also holds Taylor's own poems",
+   "tr. John Taylor"
   ]
  },
  "_cross_ref": {
@@ -130,12 +135,13 @@
   "ovid-wheeler-tristia-ponto": "Arthur Leslie Wheeler",
   "ovid-sandys-1632": "George Sandys",
   "ovid-perseus-more-metamorphoses": "brookes more",
-  "ovid-mozley-art-of-love-1929": "J. H. Mozley"
+  "ovid-mozley-art-of-love-1929": "J. H. Mozley",
+  "ovid-taylor-fasti-1839": "john taylor"
  },
  "_checks": {
   "ovid-riley-metamorphoses-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "ovid",
    "translator_claimed": "Henry T. Riley",
@@ -147,7 +153,7 @@
   },
   "ovid-riley-metamorphoses-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "ovid",
    "translator_claimed": "Henry T. Riley",
@@ -159,7 +165,7 @@
   },
   "ovid-howard-metamorphoses": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "ovid",
    "translator_claimed": "J. J. Howard",
@@ -171,7 +177,7 @@
   },
   "ovid-riley-amores": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "ovid",
    "translator_claimed": "Henry T. Riley",
@@ -183,7 +189,7 @@
   },
   "ovid-riley-ars-amatoria": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "ovid",
    "translator_claimed": "Henry T. Riley",
@@ -195,7 +201,7 @@
   },
   "ovid-riley-remedia-amoris": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "ovid",
    "translator_claimed": "Henry T. Riley",
@@ -207,7 +213,7 @@
   },
   "ovid-riley-heroides-1852": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "ovid",
    "translator_claimed": "Henry T. Riley",
@@ -220,7 +226,7 @@
   },
   "ovid-riley-fasti-tristia-1851": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "ovid",
    "translator_claimed": "Henry T. Riley",
@@ -233,7 +239,7 @@
   },
   "ovid-golding-metamorphoses": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "ovid",
    "translator_claimed": "Arthur Golding",
@@ -246,7 +252,7 @@
   },
   "ovid-miller-metamorphoses-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "ovid",
    "translator_claimed": "Frank Justus Miller",
@@ -259,7 +265,7 @@
   },
   "ovid-showerman-heroides-amores": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "ovid",
    "translator_claimed": "Grant Showerman",
@@ -272,7 +278,7 @@
   },
   "ovid-wheeler-tristia-ponto": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "ovid",
    "translator_claimed": "Arthur Leslie Wheeler",
@@ -285,7 +291,7 @@
   },
   "ovid-sandys-1632": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "ovid",
    "translator_claimed": "George Sandys",
@@ -298,7 +304,7 @@
   },
   "ovid-mozley-art-of-love-1929": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "ovid",
    "translator_claimed": "J. H. Mozley",
@@ -311,13 +317,26 @@
   },
   "ovid-king-metamorphoses-1871": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "ovid",
    "identity": "ok",
    "ia_rights": "ok: published 1871",
    "ia_date": "1871",
    "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "ovid-taylor-fasti-1839": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ovid",
+   "translator_claimed": "john taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
