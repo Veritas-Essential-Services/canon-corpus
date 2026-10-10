@@ -1,0 +1,38 @@
+{
+ "_about": "Hugo Blümner (1844-1919): The Home Life of the Ancient Greeks, translated by Alice Zimmern (died 1939), clean Gutenberg. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "blumner",
+  "blümner"
+ ],
+ "_surname": [
+  "hugo blümner",
+  "hugo blumner",
+  "blümner, hugo"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "blumner-home-life-ancient-greeks": [
+   61689,
+   "The Home Life of the Ancient Greeks",
+   "tr. Alice Zimmern"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "blumner-home-life-ancient-greeks": "Zimmern"
+ },
+ "_checks": {
+  "blumner-home-life-ancient-greeks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hugo blümner",
+   "translator_claimed": "Zimmern",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alice Zimmern",
+   "translator_match": true
+  }
+ }
+}

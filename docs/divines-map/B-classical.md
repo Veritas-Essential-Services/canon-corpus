@@ -3178,6 +3178,7 @@ Shelf: `pipeline/blumner_shelf.json`. The Home Life of the Ancient Greeks, tr. A
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Home Life of the Ancient Greeks | Alice Zimmern | `blumner-home-life-ancient-greeks` | have (PG 61689) |
 
 ## E. A. Freeman (scholarship)
 
