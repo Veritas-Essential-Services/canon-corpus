@@ -488,6 +488,22 @@
    "finished": "2026-10-10T10:18-05:00",
    "scope": "TRANSLATOR SHELF (round 15, lane C's choice; Adam may veto) -- wiener-tolstoy; PD printings before 1931 only; no minting",
    "notes": "24 volumes; ids checked across all branches. See DIGEST-C round 15. No uids minted."
+  },
+  {
+   "id": "shelf-leland-heine",
+   "status": "done",
+   "started": "2026-10-10T10:23-05:00",
+   "finished": "2026-10-10T10:23-05:00",
+   "scope": "TRANSLATOR SHELF (round 16, lane C's choice; Adam may veto) -- leland-heine; PD printings before 1931 only; no minting",
+   "notes": "8 titles; ids checked across all branches. See DIGEST-C round 16. No uids minted."
+  },
+  {
+   "id": "shelf-whishaw",
+   "status": "done",
+   "started": "2026-10-10T10:23-05:00",
+   "finished": "2026-10-10T10:23-05:00",
+   "scope": "TRANSLATOR SHELF (round 16, lane C's choice; Adam may veto) -- whishaw; PD printings before 1931 only; no minting",
+   "notes": "3 titles; ids checked across all branches. See DIGEST-C round 16. No uids minted."
   }
  ]
 }

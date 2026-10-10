@@ -1,0 +1,124 @@
+{
+ "_about": "TRANSLATOR SHELF: Frederick Whishaw (1854-1934): Dostoevsky for Vizetelly's One-Volume Novels (London, 1886-88), the first English run of Dostoevsky's novels. US public domain (pre-1931); UK: Whishaw d. 1934, PD there since 2005. Garnett's later versions of the same novels are on garnett_shelf.json (another translator, another witness). Added 2026-10-10 by lane C (round 16); Adam may veto. No uids minted.",
+ "_name_words": [
+  "frederick whishaw",
+  "f. whishaw"
+ ],
+ "_surname": [
+  "frederick whishaw",
+  "f. whishaw"
+ ],
+ "_surname_note": "Never the bare 'whishaw' alone; J. Whishaw edited Mungo Park.",
+ "ccel": {},
+ "gutenberg": {
+  "wh-uncles-dream": [
+   38241,
+   "Uncle's Dream; and The Permanent Husband"
+  ]
+ },
+ "internet_archive": {
+  "wh-idiot": [
+   "idiot00whisgoog",
+   "The Idiot"
+  ],
+  "wh-friend-gambler": [
+   "friendfamilyand00whisgoog",
+   "The Friend of the Family; and The Gambler"
+  ]
+ },
+ "titles": {
+  "whishaw-dostoevsky-the-idiot": {
+   "source": "wh-idiot",
+   "of": "Dostoevsky",
+   "work": "The Idiot",
+   "translated": 1887,
+   "translator": "Frederick Whishaw",
+   "scan_edition": "Vizetelly and Co., London, 1887 (raw OCR; Google scan)"
+  },
+  "whishaw-dostoevsky-friend-of-the-family-and-the-gambler": {
+   "source": "wh-friend-gambler",
+   "of": "Dostoevsky",
+   "work": "The Friend of the Family; and The Gambler",
+   "translated": 1887,
+   "translator": "Frederick Whishaw",
+   "scan_edition": "Vizetelly's One-Volume Novels XXII, London, 1887 (raw OCR; Google scan)"
+  },
+  "whishaw-dostoevsky-uncles-dream-and-the-permanent-husband": {
+   "source": "wh-uncles-dream",
+   "of": "Dostoevsky",
+   "work": "Uncle's Dream; and The Permanent Husband",
+   "translated": 1888,
+   "translator": "Frederick Whishaw",
+   "scan_edition": "Project Gutenberg 38241 (clean text)"
+  }
+ },
+ "_identity_checked": {
+  "wh-friend-gambler": "Title page read 2026-10-10: 'TRANSLATED FROM THE RUSSIAN BY FREDERICK WH1SHAW. LONDON: VIZETELLY & CO., 42, CATHERINE ST, STRAND, 1887'. The OCR reads the I as a 1, so the name check cannot see it."
+ },
+ "_pending": {
+  "whishaw-crime-and-punishment": "Crime and Punishment (1886): no open scan found.",
+  "whishaw-injury-and-insult": "Injury and Insult (1887): the only full open copy (injuryinsult00dostrich) is a Micro Photo Inc. Duopage facsimile of the 1887 third edition, a photographic reprint of mid-century date; injuryandinsult00dostgoog's title page could not be read. Adam's call whether a photo-facsimile counts as the 1887 printing."
+ },
+ "_excluded": {
+  "ost-english-the_idiot": "A second scan of the same 1887 Idiot.",
+  "unclesdreamandp00whisgoog": "The Gutenberg text (38241) of the same book is used."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check.",
+ "_checks": {
+  "wh-uncles-dream": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederick whishaw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederick Whishaw"
+  },
+  "wh-idiot": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederick whishaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wh-friend-gambler": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "wh-uncles-dream": {
+   "pg": 38241,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederick Whishaw"
+  },
+  "wh-idiot": {
+   "ia": "idiot00whisgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1887
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wh-friend-gambler": {
+   "ia": "friendfamilyand00whisgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1887
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

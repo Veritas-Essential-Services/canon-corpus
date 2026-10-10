@@ -107,3 +107,5 @@
 - 2026-10-10T10:05-05:00: round 14: wormeley (41), vizetelly (16); id-clash check over all lane C shelves: none. --verify --record 0 mismatched.
 
 - 2026-10-10T10:18-05:00: round 15: wiener-tolstoy (24 vols). --verify --record 0 mismatched.
+
+- 2026-10-10T10:23-05:00: round 16: leland-heine (8), whishaw (3). --verify --record 0 mismatched.

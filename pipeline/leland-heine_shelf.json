@@ -1,0 +1,307 @@
+{
+ "_about": "TRANSLATOR SHELF: Charles Godfrey Leland (1824-1903) as translator of Heine: vols 1-8 of Heinemann's Works of Heinrich Heine (1891-1893), the prose. PD everywhere. Vols 9-12 (the poems, by Thomas Brooksbank and Margaret Armour, 1904-05) are other translators and are not shelved here. Leland's own folklore books are on leland_shelf.json, another lane's; this shelf holds only his Heine. Added 2026-10-10 by lane C (round 16); Adam may veto. No uids minted.",
+ "_name_words": [
+  "charles godfrey leland"
+ ],
+ "_surname": [
+  "charles godfrey leland"
+ ],
+ "_surname_note": "Full name: every title page prints 'TRANSLATED FROM THE GERMAN BY CHARLES GODFREY LELAND (HANS BREITMANN)'. 'leland' alone would pass Thomas Leland's Demosthenes.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lh-v1": [
+   "worksofheinrichh01heinuoft",
+   "The Works of Heinrich Heine"
+  ],
+  "lh-v2": [
+   "worksofheinrichh02hein",
+   "The Works of Heinrich Heine"
+  ],
+  "lh-v3": [
+   "worksofheinrichh03heinuoft",
+   "The Works of Heinrich Heine"
+  ],
+  "lh-v4": [
+   "worksofheinrichh04heinuoft",
+   "The Works of Heinrich Heine"
+  ],
+  "lh-v5": [
+   "worksofheinrichh0005char",
+   "The Works of Heinrich Heine"
+  ],
+  "lh-v6": [
+   "in.ernet.dli.2015.39308",
+   "The Works of Heinrich Heine",
+   "2015.39308.The-Works-Of-Heinrich-Heine--Vol-6_djvu.txt"
+  ],
+  "lh-v7": [
+   "worksofheinrichh07hein",
+   "The Works of Heinrich Heine"
+  ],
+  "lh-v8": [
+   "worksofheinrichh08heinuoft",
+   "The Works of Heinrich Heine"
+  ]
+ },
+ "titles": {
+  "leland-heine-vol-1": {
+   "source": "lh-v1",
+   "of": "Heine",
+   "work": "The Works of Heinrich Heine, vol. 1: Florentine Nights; The Memoirs of Herr von Schnabelewopski; The Rabbi of Bacharach; Shakespeare's Maidens and Women",
+   "translated": 1891,
+   "translator": "Charles Godfrey Leland",
+   "scan_edition": "Heinemann, London, 1906 reprint of the 1891 volume (raw OCR); title page read"
+  },
+  "leland-heine-vol-2": {
+   "source": "lh-v2",
+   "of": "Heine",
+   "work": "The Works of Heinrich Heine, vol. 2: Pictures of Travel, vol. I (1823-1826)",
+   "translated": 1891,
+   "translator": "Charles Godfrey Leland",
+   "scan_edition": "Heinemann, London, 1891 (raw OCR); title page read"
+  },
+  "leland-heine-vol-3": {
+   "source": "lh-v3",
+   "of": "Heine",
+   "work": "The Works of Heinrich Heine, vol. 3: Pictures of Travel, vol. II (1828)",
+   "translated": 1891,
+   "translator": "Charles Godfrey Leland",
+   "scan_edition": "Heinemann, London, 1906 reprint (raw OCR); title page read"
+  },
+  "leland-heine-vol-4": {
+   "source": "lh-v4",
+   "of": "Heine",
+   "work": "The Works of Heinrich Heine, vol. 4: The Salon, or Letters on Art, Music, Popular Life and Politics",
+   "translated": 1893,
+   "translator": "Charles Godfrey Leland",
+   "scan_edition": "Heinemann, London, 1893 (raw OCR); title page read"
+  },
+  "leland-heine-vol-5": {
+   "source": "lh-v5",
+   "of": "Heine",
+   "work": "The Works of Heinrich Heine, vol. 5: Germany, vol. I",
+   "translated": 1892,
+   "translator": "Charles Godfrey Leland",
+   "scan_edition": "Heinemann, London, 1892 (raw OCR); title page read"
+  },
+  "leland-heine-vol-6": {
+   "source": "lh-v6",
+   "of": "Heine",
+   "work": "The Works of Heinrich Heine, vol. 6: Germany, vol. II",
+   "translated": 1892,
+   "translator": "Charles Godfrey Leland",
+   "scan_edition": "Heinemann, London, 1892 (copyright 1891) (raw OCR); title page read"
+  },
+  "leland-heine-vol-7": {
+   "source": "lh-v7",
+   "of": "Heine",
+   "work": "The Works of Heinrich Heine, vol. 7: French Affairs: Letters from Paris, vol. I",
+   "translated": 1893,
+   "translator": "Charles Godfrey Leland",
+   "scan_edition": "Heinemann, London, 1893 (raw OCR); title page read"
+  },
+  "leland-heine-vol-8": {
+   "source": "lh-v8",
+   "of": "Heine",
+   "work": "The Works of Heinrich Heine, vol. 8: French Affairs: Letters from Paris, vol. II; Lutetia",
+   "translated": 1893,
+   "translator": "Charles Godfrey Leland",
+   "scan_edition": "Heinemann, London, 1893 (raw OCR); title page read"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "worksofheinrichh12hein": "Vol. XII (1905): Margaret Armour's translation of the Romancero and Last Poems, not Leland's.",
+  "vols-9-11": "Book of Songs and New Poems (Brooksbank/Armour, 1904-05): other translators."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check.",
+ "_checks": {
+  "lh-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles godfrey leland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lh-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles godfrey leland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1891-1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lh-v3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles godfrey leland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lh-v4": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles godfrey leland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lh-v5": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles godfrey leland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lh-v6": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles godfrey leland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lh-v7": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles godfrey leland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1891-1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lh-v8": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles godfrey leland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "lh-v1": {
+   "ia": "worksofheinrichh01heinuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1891,
+    1893,
+    1905,
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lh-v2": {
+   "ia": "worksofheinrichh02hein",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1823,
+    1826,
+    1855,
+    1891
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lh-v3": {
+   "ia": "worksofheinrichh03heinuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1828,
+    1891,
+    1898,
+    1905,
+    1906
+   ],
+   "post_1930_years_in_front_15k": [
+    1980
+   ]
+  },
+  "lh-v4": {
+   "ia": "worksofheinrichh04heinuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1843,
+    1844,
+    1847,
+    1854,
+    1892,
+    1893
+   ],
+   "post_1930_years_in_front_15k": [
+    1980
+   ]
+  },
+  "lh-v5": {
+   "ia": "worksofheinrichh0005char",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1892
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lh-v6": {
+   "ia": "in.ernet.dli.2015.39308",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1527,
+    1848,
+    1892
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lh-v7": {
+   "ia": "worksofheinrichh07hein",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1832,
+    1848,
+    1892,
+    1893
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lh-v8": {
+   "ia": "worksofheinrichh08heinuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1840,
+    1841,
+    1842,
+    1843,
+    1892,
+    1893
+   ],
+   "post_1930_years_in_front_15k": [
+    1980
+   ]
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

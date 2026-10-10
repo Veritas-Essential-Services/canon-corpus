@@ -5990,6 +5990,39 @@ Round 15 (2026-10-10), vetoable. One title per volume, 24 volumes. Not converted
 | — | — | completeworksofc25tols-28tols: Vols 25-28 in the same cdl run are outside Wiener's 24-volume set; not checked. | — | — | excluded | — |
 | — | — | pg-38025, pg-43372: Gutenberg texts of Wiener vols 12 and 20 exist; the scans are used for the whole set from one edition. | — | — | excluded | — |
 
+## Charles Godfrey Leland's Heine (Works, vols 1-8, 1891-93)
+
+Shelf: `pipeline/leland-heine_shelf.json` · fetch `python3 pipeline/fetch_shelf.py leland-heine` · titles `python3 pipeline/split_shelf_titles.py leland-heine`.
+Round 16 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `leland-heine-vol-1` | Heine | The Works of Heinrich Heine, vol. 1: Florentine Nights; The Memoirs of Herr von Schnabelewopski; The Rabbi of Bacharach; Shakespeare's Maidens and Women | Charles Godfrey Leland | 1891 | have-raw | IA `worksofheinrichh01heinuoft` |
+| `leland-heine-vol-2` | Heine | The Works of Heinrich Heine, vol. 2: Pictures of Travel, vol. I (1823-1826) | Charles Godfrey Leland | 1891 | have-raw | IA `worksofheinrichh02hein` |
+| `leland-heine-vol-3` | Heine | The Works of Heinrich Heine, vol. 3: Pictures of Travel, vol. II (1828) | Charles Godfrey Leland | 1891 | have-raw | IA `worksofheinrichh03heinuoft` |
+| `leland-heine-vol-4` | Heine | The Works of Heinrich Heine, vol. 4: The Salon, or Letters on Art, Music, Popular Life and Politics | Charles Godfrey Leland | 1893 | have-raw | IA `worksofheinrichh04heinuoft` |
+| `leland-heine-vol-5` | Heine | The Works of Heinrich Heine, vol. 5: Germany, vol. I | Charles Godfrey Leland | 1892 | have-raw | IA `worksofheinrichh0005char` |
+| `leland-heine-vol-6` | Heine | The Works of Heinrich Heine, vol. 6: Germany, vol. II | Charles Godfrey Leland | 1892 | have-raw | IA `in.ernet.dli.2015.39308` |
+| `leland-heine-vol-7` | Heine | The Works of Heinrich Heine, vol. 7: French Affairs: Letters from Paris, vol. I | Charles Godfrey Leland | 1893 | have-raw | IA `worksofheinrichh07hein` |
+| `leland-heine-vol-8` | Heine | The Works of Heinrich Heine, vol. 8: French Affairs: Letters from Paris, vol. II; Lutetia | Charles Godfrey Leland | 1893 | have-raw | IA `worksofheinrichh08heinuoft` |
+| — | — | worksofheinrichh12hein: Vol. XII (1905): Margaret Armour's translation of the Romancero and Last Poems, not Leland's. | — | — | excluded | — |
+| — | — | vols-9-11: Book of Songs and New Poems (Brooksbank/Armour, 1904-05): other translators. | — | — | excluded | — |
+
+## Frederick Whishaw's Dostoevsky (Vizetelly, 1887-88)
+
+Shelf: `pipeline/whishaw_shelf.json` · fetch `python3 pipeline/fetch_shelf.py whishaw` · titles `python3 pipeline/split_shelf_titles.py whishaw`.
+Round 16 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `whishaw-dostoevsky-the-idiot` | Dostoevsky | The Idiot | Frederick Whishaw | 1887 | have-raw | IA `idiot00whisgoog` |
+| `whishaw-dostoevsky-friend-of-the-family-and-the-gambler` | Dostoevsky | The Friend of the Family; and The Gambler | Frederick Whishaw | 1887 | have-raw | IA `friendfamilyand00whisgoog` |
+| `whishaw-dostoevsky-uncles-dream-and-the-permanent-husband` | Dostoevsky | Uncle's Dream; and The Permanent Husband | Frederick Whishaw | 1888 | have | PG 38241 |
+| `whishaw-crime-and-punishment` | — | Crime and Punishment (1886): no open scan found. | — | — | pending | — |
+| `whishaw-injury-and-insult` | — | Injury and Insult (1887): the only full open copy (injuryinsult00dostrich) is a Micro Photo Inc. Duopage facsimile of the 1887 third edition, a photographic reprint of mid-century date; injuryandinsult00dostgoog's title page could not be read. Adam's call whether a photo-facsimile counts as the 1887 printing. | — | — | pending | — |
+| — | — | ost-english-the_idiot: A second scan of the same 1887 Idiot. | — | — | excluded | — |
+| — | — | unclesdreamandp00whisgoog: The Gutenberg text (38241) of the same book is used. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
