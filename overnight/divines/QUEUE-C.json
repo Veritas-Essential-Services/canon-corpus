@@ -3176,6 +3176,30 @@
       "finished": "2026-10-10T13:53-05:00",
       "scope": "TRANSLATOR SHELF (round 40, lane C's choice; Adam may veto) -- singles-literature; PD printings before 1931 only; no minting",
       "notes": "40 titles; ids checked across all branches. See DIGEST-C round 40. No uids minted."
+    },
+    {
+      "id": "shelf-singles-history-travel",
+      "status": "done",
+      "started": "2026-10-10T14:21-05:00",
+      "finished": "2026-10-10T14:21-05:00",
+      "scope": "TRANSLATOR SHELF (round 41, lane C's choice; Adam may veto) -- singles-history-travel; PD printings before 1931 only; no minting",
+      "notes": "44 titles; ids checked across all branches. See DIGEST-C round 41. No uids minted."
+    },
+    {
+      "id": "shelf-singles-science-craft",
+      "status": "done",
+      "started": "2026-10-10T14:21-05:00",
+      "finished": "2026-10-10T14:21-05:00",
+      "scope": "TRANSLATOR SHELF (round 41, lane C's choice; Adam may veto) -- singles-science-craft; PD printings before 1931 only; no minting",
+      "notes": "39 titles; ids checked across all branches. See DIGEST-C round 41. No uids minted."
+    },
+    {
+      "id": "shelf-singles-ideas-2",
+      "status": "done",
+      "started": "2026-10-10T14:21-05:00",
+      "finished": "2026-10-10T14:21-05:00",
+      "scope": "TRANSLATOR SHELF (round 41, lane C's choice; Adam may veto) -- singles-ideas-2; PD printings before 1931 only; no minting",
+      "notes": "41 titles; ids checked across all branches. See DIGEST-C round 41. No uids minted."
     }
   ]
 }

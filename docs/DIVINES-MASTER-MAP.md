@@ -12531,6 +12531,160 @@ Round 40 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | pg-30442: Daudet's Letters from My Windmill in the Keith Adams and Mireille Harmelin translation: a modern translation, not a printing before 1931. | — | — | excluded | — |
 | — | — | pg-17445: Pumpurs's Bearslayer in Arthur Cropley's translation: a modern translation, not a printing before 1931. | — | — | excluded | — |
 
+## One-off translations: history, exploration and memoir (Bābur-nāma, de Soto, Vasco da Gama, Schiltberger, Garibaldi, Moltke, Slatin, Wace, First World War memoirs)
+
+Shelf: `pipeline/singles-history-travel_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-history-travel` · titles `python3 pipeline/split_shelf_titles.py singles-history-travel`.
+Round 41 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-history-travel-a-german-deserter-s-war-experience` | anonymous (a German deserter) | A German deserter's war experience | Julius Koettgen | (see the Gutenberg header) | have | PG 42721 |
+| `singles-history-travel-allingham-captain-cuellar-s-adventures-in-connaugh` | Francisco de Cuéllar (ed. Hugh Allingham) | Captain Cuellar's Adventures in Connaught & Ulster A.D. 1588. To Which Is Added an Introduction and Complete Translation of Captain Cuellar's Narrative of the Spanish Armada and His Adventures in Irel | Robert Crawford | (see the Gutenberg header) | have | PG 52472 |
+| `singles-history-travel-babur-the-babur-nama-in-english-memoirs-of-bab` | Babur | The Bābur-nāma in English (Memoirs of Bābur) | Annette Susannah Beveridge | (see the Gutenberg header) | have | PG 44608 |
+| `singles-history-travel-barine-la-grande-mademoiselle-1627-1652` | Arvède Barine | La Grande Mademoiselle, 1627-1652 | Helene Meyer-Franck | (see the Gutenberg header) | have | PG 50717 |
+| `singles-history-travel-baudesson-indo-china-and-its-primitive-people` | Henry Baudesson | Indo-China and its primitive people | E. Appleby Holt | (see the Gutenberg header) | have | PG 45958 |
+| `singles-history-travel-celesia-the-conspiracy-of-gianluigi-fieschi-or-g` | Emanuele Celesia | The Conspiracy of Gianluigi Fieschi, or, Genoa in the sixteenth century. | David H. Wheeler | (see the Gutenberg header) | have | PG 50656 |
+| `singles-history-travel-charnay-the-ancient-cities-of-the-new-world-bein` | Désiré Charnay | The Ancient Cities of the New World Being Travels and Explorations in Mexico and Central America From 1857-1882 | Helen S. Conant and J. Gonino | (see the Gutenberg header) | have | PG 45656 |
+| `singles-history-travel-chevalier-society-manners-and-politics-in-the-unit` | Michel Chevalier | Society, Manners and Politics in the United States Being a Series of Letters on North America | T. G. Bradford | (see the Gutenberg header) | have | PG 45761 |
+| `singles-history-travel-danilevskii-the-princess-tarakanova` | G. P. Danilevskii | The Princess Tarakanova: A Dark Chapter of Russian History | Ida de Mouchanoff | (see the Gutenberg header) | have | PG 53580 |
+| `singles-history-travel-des-niau-the-history-of-the-devils-of-loudun-volu` | Des Niau | The History of the Devils of Loudun, Volumes I-III The Alleged Possession of the Ursuline Nuns, and the Trial and Execution of Urbain Grandier, Told by an Eye-witness | Edmund Goldsmid | (see the Gutenberg header) | have | PG 45282 |
+| `singles-history-travel-duras-prison-journals-during-the-french-revolu` | the Duchesse de Duras | Prison Journals During the French Revolution | Martha Ward Carey | (see the Gutenberg header) | have | PG 46750 |
+| `singles-history-travel-elvas-a-narrative-of-the-expedition-of-hernand` | a Gentleman of Elvas | A Narrative of the expedition of Hernando de Soto into Florida published at Evora in 1557 | Richard Hakluyt | (see the Gutenberg header) | have | PG 34997 |
+| `singles-history-travel-garibaldi-the-life-of-general-garibaldi-translated` | Giuseppe Garibaldi | The Life of General Garibaldi Translated from his private papers; with the history of his splendid exploits in Rome, Lombardy, Sicily and Naples, to the present time. | Theodore Dwight | (see the Gutenberg header) | have | PG 50544 |
+| `singles-history-travel-general-staff-the-war-book-of-the-german-general-staff` | the Prussian Great General Staff | The War Book of the German General Staff Being "The Usages of War on Land" Issued by the Great General Staff of the German Army | J. H. Morgan | (see the Gutenberg header) | have | PG 51646 |
+| `singles-history-travel-genevoix-neath-verdun-august-october-1914` | Maurice Genevoix | 'Neath Verdun, August-October, 1914 | H. Grahame Richards | (see the Gutenberg header) | have | PG 46770 |
+| `singles-history-travel-gomara-the-pleasant-historie-of-the-conquest-of` | Francisco López de Gómara | The pleasant historie of the conquest of the VVeast India, now called new Spayne atchieued by the vvorthy Prince Hernando Cortes, marques of the Valley of Huaxacac, most delectable to reade | Thomas Nicholas | (see the Gutenberg header) | have | PG 46524 |
+| `singles-history-travel-katip-celebi-the-history-of-the-maritime-wars-of-the` | Kâtip Çelebi | The History of the Maritime Wars of the Turks. Chapters I. to IV. | James Mitchell | (see the Gutenberg header) | have | PG 53813 |
+| `singles-history-travel-klaczko-two-chancellors` | Julian Klaczko | Two Chancellors: Prince Gortchakof and Prince Bismarck | Frank P. Ward | (see the Gutenberg header) | have | PG 39559 |
+| `singles-history-travel-konig-the-voyage-of-the-deutschland` | Paul König | The voyage of the "Deutschland" | Vivien Ellis | (see the Gutenberg header) | have | PG 45922 |
+| `singles-history-travel-lauridsen-vitus-bering` | Peter Lauridsen | Vitus Bering: the Discoverer of Bering Strait | Julius E. Olsen | (see the Gutenberg header) | have | PG 46032 |
+| `singles-history-travel-leti-il-nipotismo-di-roma-or-the-history-of-t` | Gregorio Leti | Il nipotismo di Roma, or, The History of the Popes Nephews from the time of Sixtus IV. to the death of the last Pope, Alexander VII | William Aglionby | (see the Gutenberg header) | have | PG 54001 |
+| `singles-history-travel-loher-cyprus` | Franz von Löher | Cyprus: Historical and Descriptive | A. Batson Joyner | (see the Gutenberg header) | have | PG 47056 |
+| `singles-history-travel-mardiganian-ravished-armenia-the-story-of-aurora-mar` | Aurora Mardiganian | Ravished Armenia The Story of Aurora Mardiganian, the Christian Girl Who Lived Through the Great Massacres | H. L. Gates | (see the Gutenberg header) | have | PG 53046 |
+| `singles-history-travel-mertens-an-account-of-the-plague-which-raged-at` | Charles de Mertens | An account of the plague which raged at Moscow, in 1771 | Richard Pearson | (see the Gutenberg header) | have | PG 49567 |
+| `singles-history-travel-mitre-the-emancipation-of-south-america` | Bartolomé Mitre | The Emancipation of South America | William Pilling | (see the Gutenberg header) | have | PG 48856 |
+| `singles-history-travel-moltke-the-franco-german-war-of-1870-71` | Helmuth von Moltke | The Franco-German War of 1870-71 | Archibald Forbes | (see the Gutenberg header) | have | PG 36209 |
+| `singles-history-travel-mucke-the-ayesha-being-the-adventures-of-the-l` | Hellmuth von Mücke | The "Ayesha," being the adventures of the landing squad of the "Emden" | Helene S. White | (see the Gutenberg header) | have | PG 45878 |
+| `singles-history-travel-noldeke-sketches-from-eastern-history` | Theodor Nöldeke | Sketches from Eastern History | J. Sutherland Black | (see the Gutenberg header) | have | PG 54782 |
+| `singles-history-travel-pluschow-my-escape-from-donington-hall-preceded-b` | Gunther Plüschow | My Escape from Donington Hall, Preceded by an Account of the Siege of Kiao-Chow in 1915 | Pauline De Chary | (see the Gutenberg header) | have | PG 49264 |
+| `singles-history-travel-politovskii-from-libau-to-tsushima-a-narrative-of-th` | Evgenii Politovsky | From Libau to Tsushima A narrative of the voyage of Admiral Rojdestvensky's fleet to eastern seas, including a detailed account of the Dogger Bank incident | Frederick Rowlandson Godfrey | (see the Gutenberg header) | have | PG 49735 |
+| `singles-history-travel-reitlinger-a-diplomat-s-memoir-of-1870-being-the-ac` | Frederic Reitlinger | A Diplomat's Memoir of 1870 being the account of a balloon escape from the siege of Paris and a political mission to London and Vienna | Henry Scipio Reitlinger | (see the Gutenberg header) | have | PG 49546 |
+| `singles-history-travel-richthofen-the-red-battle-flyer` | Manfred von Richthofen | The Red Battle Flyer | J. Ellis Barker | (see the Gutenberg header) | have | PG 41159 |
+| `singles-history-travel-sakurai-human-bullets` | Tadayoshi Sakurai | Human Bullets: A Soldier's Story of Port Arthur | Masujiro Honda | (see the Gutenberg header) | have | PG 47548 |
+| `singles-history-travel-schiltberger-the-bondage-and-travels-of-johann-schilt` | Johannes Schiltberger | The Bondage and Travels of Johann Schiltberger, a Native of Bavaria, in Europe, Asia, and Africa, 1396-1427 | J. Buchan Telfer | (see the Gutenberg header) | have | PG 52569 |
+| `singles-history-travel-schimmer-the-sieges-of-vienna-by-the-turks` | Karl August Schimmer | The Sieges of Vienna by the Turks | Francis Egerton Ellesmere | (see the Gutenberg header) | have | PG 54731 |
+| `singles-history-travel-schwink-ypres-1914` | Otto Schwink | Ypres 1914: An Official Account Published by Order of the German General Staff | G. C. Wynne | (see the Gutenberg header) | have | PG 44234 |
+| `singles-history-travel-slatin-fire-and-sword-in-the-sudan-a-personal-n` | Rudolf Slatin | Fire and Sword in the Sudan A Personal Narrative of Fighting and Serving the Dervishes 1879-1895 | F. R. Wingate | (see the Gutenberg header) | have | PG 41035 |
+| `singles-history-travel-turpin-history-of-the-kingdom-of-siam-and-of-th` | F. H. Turpin | History of the Kingdom of Siam and of the revolutions that have caused the overthrow of the empire, up to A.D. 1770 | B. O. Cartwright | (see the Gutenberg header) | have | PG 44564 |
+| `singles-history-travel-velho-a-journal-of-the-first-voyage-of-vasco-d` | Álvaro Velho (attributed) | A Journal of the First Voyage of Vasco da Gama 1497-1499 | Ernest Georg Ravenstein | (see the Gutenberg header) | have | PG 46440 |
+| `singles-history-travel-vertot-the-revolutions-of-portugal` | abbé de Vertot | The Revolutions of Portugal | Gabriel Roussillon | (see the Gutenberg header) | have | PG 43852 |
+| `singles-history-travel-villari-the-two-first-centuries-of-florentine-hi` | Pasquale Villari | The Two First Centuries of Florentine History The Republic and Parties at the Time of Dante. Fourth Impression. | Linda Villari | (see the Gutenberg header) | have | PG 45469 |
+| `singles-history-travel-wace-master-wace-his-chronicle-of-the-norman` | Wace | Master Wace, His Chronicle of the Norman Conquest From the Roman De Rou | Edgar Taylor | (see the Gutenberg header) | have | PG 41163 |
+| `singles-history-travel-wilhelm-ii-the-kaiser-s-memoirs` | Kaiser Wilhelm II | The Kaiser's Memoirs | T. R. Ybarra | (see the Gutenberg header) | have | PG 43522 |
+| `singles-history-travel-zwaardecroon-memoir-of-hendrick-zwaardecroon-commande` | Hendrick Zwaardecroon | Memoir of Hendrick Zwaardecroon, commandeur of Jaffnapatam (afterwards Governor-General of Nederlands India) 1697. For the guidance of the council of Jaffnapatam, during his absence at the coast of Ma | Sophia Pieters | (see the Gutenberg header) | have | PG 40579 |
+
+## One-off translations: science, medicine and crafts (De Re Metallica, Galileo, Goethe's Theory of Colours, Petrus Peregrinus, Montessori, Poincaré, lithography, Lavater's ghosts)
+
+Shelf: `pipeline/singles-science-craft_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-science-craft` · titles `python3 pipeline/split_shelf_titles.py singles-science-craft`.
+Round 41 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-science-craft-agricola-de-re-metallica-translated-from-the-firs` | Georg Agricola | De Re Metallica, Translated from the First Latin Edition of 1556 | Herbert Hoover and Lou Henry Hoover | (see the Gutenberg header) | have | PG 38015 |
+| `singles-science-craft-bazancourt-secrets-of-the-sword` | César de Bazancourt | Secrets of the Sword | Charles Felix Clay | (see the Gutenberg header) | have | PG 46093 |
+| `singles-science-craft-bilguer-a-dissertation-on-the-inutility-of-the-a` | Johann Ulrich Bilguer | A dissertation on the inutility of the amputation of limbs | S. A. D. Tissot | (see the Gutenberg header) | have | PG 44089 |
+| `singles-science-craft-binet-mentally-defective-children` | Alfred Binet and Théodore Simon | Mentally Defective Children | William Blackley Drummond | (see the Gutenberg header) | have | PG 36458 |
+| `singles-science-craft-bouchot-the-printed-book` | Henri Bouchot | The Printed Book: Its History, Illustration and Adornment From the Days of Gutenberg to the Present Time | E. C. Bigmore | (see the Gutenberg header) | have | PG 44890 |
+| `singles-science-craft-bourgelat-a-new-system-of-horsemanship` | Claude Bourgelat | A New System of Horsemanship | Richard Berenger | (see the Gutenberg header) | have | PG 46696 |
+| `singles-science-craft-braune-a-gothic-grammar-with-selections-for-rea` | Wilhelm Braune | A Gothic Grammar, with selections for reading and a glossary | G. H. Balg | (see the Gutenberg header) | have | PG 50336 |
+| `singles-science-craft-calmette-venoms` | A. Calmette | Venoms: Venomous Animals and Antivenomous Serum-therapeutics | E. E. Austen | (see the Gutenberg header) | have | PG 51078 |
+| `singles-science-craft-comte-the-philosophy-of-mathematics` | Auguste Comte | The philosophy of mathematics | W. M. Gillespie | (see the Gutenberg header) | have | PG 39702 |
+| `singles-science-craft-delaborde-engraving` | Henri Delaborde | Engraving: Its Origin, Processes, and History | Robert Alan Mowbray Stevenson | (see the Gutenberg header) | have | PG 42936 |
+| `singles-science-craft-dunant-the-origin-of-the-red-cross` | Henry Dunant | The Origin of the Red Cross: "Un souvenir de Solferino" | Anna B. Heylin Wright | (see the Gutenberg header) | have | PG 50968 |
+| `singles-science-craft-ebbinghaus-psychology` | Hermann Ebbinghaus | Psychology: an elementary text-book | Max F. Meyer | (see the Gutenberg header) | have | PG 52823 |
+| `singles-science-craft-flammarion-urania` | Camille Flammarion | Urania | Augusta Rice Stetson | (see the Gutenberg header) | have | PG 41941 |
+| `singles-science-craft-forel-ants-and-some-other-insects` | Auguste Forel | Ants and Some Other Insects: An Inquiry Into the Psychic Powers of These Animals | William Morton Wheeler | (see the Gutenberg header) | have | PG 52134 |
+| `singles-science-craft-galilei-a-discourse-presented-to-the-most-serene` | Galileo Galilei | A Discourse Presented to the Most Serene Don Cosimo II., Great Duke of Tuscany, Concerning the Natation of Bodies Vpon, and Submersion In, the Water. | Thomas Salusbury | (see the Gutenberg header) | have | PG 37729 |
+| `singles-science-craft-galilei-the-sidereal-messenger-of-galileo-galile` | Galileo Galilei and Johannes Kepler | The sidereal messenger of Galileo Galilei | Edward Stafford Carlos | (see the Gutenberg header) | have | PG 46036 |
+| `singles-science-craft-gannal-history-of-embalming-and-of-preparations` | J.-N. Gannal | History of Embalming and of Preparations in Anatomy, Pathology, and Natural History; Including an Account of a New Process for Embalming | Richard Harlan | (see the Gutenberg header) | have | PG 48078 |
+| `singles-science-craft-goethe-goethe-s-theory-of-colours` | Johann Wolfgang von Goethe | Goethe's Theory of Colours | Charles Lock Eastlake | (see the Gutenberg header) | have | PG 50572 |
+| `singles-science-craft-halfer-the-progress-of-the-marbling-art-from-te` | Josef Halfer | The progress of the marbling art, from technical scientific principles | Herman Dieck | (see the Gutenberg header) | have | PG 41241 |
+| `singles-science-craft-herbart-outlines-of-educational-doctrine` | Johann Friedrich Herbart | Outlines of Educational Doctrine | Alexis Frederick Lange | (see the Gutenberg header) | have | PG 44905 |
+| `singles-science-craft-jespersen-how-to-teach-a-foreign-language` | Otto Jespersen | How to teach a foreign language | Sophia Yhlen-Olsen Bertelsen | (see the Gutenberg header) | have | PG 54943 |
+| `singles-science-craft-la-mettrie-man-a-machine` | Julien Offray de La Mettrie | Man a Machine | Gertrude Carman Bussey | (see the Gutenberg header) | have | PG 52090 |
+| `singles-science-craft-lavater-of-ghostes-and-spirites-walking-by-night` | Ludwig Lavater | Of Ghostes and Spirites, Walking by Night And of Straunge Noyses, Crackes, and Sundrie Forewarnings, Which Commonly Happen Before the Death of Men: Great Slaughters, and Alterations of Kingdoms | Robert Harrison | (see the Gutenberg header) | have | PG 51038 |
+| `singles-science-craft-magnus-superstition-in-medicine` | Hugo Magnus | Superstition in Medicine | Julius L. Salinger | (see the Gutenberg header) | have | PG 44744 |
+| `singles-science-craft-mathot-gas-engines-and-producer-gas-plants-a-pr` | Rodolphe Edgard Mathot | Gas-Engines and Producer-Gas Plants A Practice Treatise Setting Forth the Principles of Gas-Engines and Producer Design, the Selection and Installation of an Engine, Conditions of Perfect Operation, P | Waldemar Kaempffert | (see the Gutenberg header) | have | PG 38415 |
+| `singles-science-craft-meige-tics-and-their-treatment` | Henry Meige and E. Feindel | Tics and Their Treatment | S. A. Kinnier Wilson | (see the Gutenberg header) | have | PG 39822 |
+| `singles-science-craft-montessori-the-montessori-method-scientific-pedagog` | Maria Montessori | The Montessori Method Scientific Pedagogy as Applied to Child Education in 'The Children's Houses' with Additions and Revisions by the Author | Anne E. George | (see the Gutenberg header) | have | PG 39863 |
+| `singles-science-craft-oken-elements-of-physiophilosophy` | Lorenz Oken | Elements of Physiophilosophy | Alfred Tulk | (see the Gutenberg header) | have | PG 49196 |
+| `singles-science-craft-paulli-a-treatise-on-tobacco-tea-coffee-and-cho` | Simon Paulli | A Treatise on Tobacco, Tea, Coffee, and Chocolate | R. James | (see the Gutenberg header) | have | PG 53027 |
+| `singles-science-craft-peregrinus-the-letter-of-petrus-peregrinus-on-the-m` | Petrus Peregrinus (Pierre de Maricourt) | The Letter of Petrus Peregrinus on the Magnet, A.D. 1269 | Brother Arnold | (see the Gutenberg header) | have | PG 50524 |
+| `singles-science-craft-pfaundler-international-language-and-science-consi` | Leopold Pfaundler and others | International Language and Science Considerations on the Introduction of an International Language into Science | F. G. Donnan | (see the Gutenberg header) | have | PG 54694 |
+| `singles-science-craft-poincare-the-foundations-of-science` | Henri Poincaré | The Foundations of Science: Science and Hypothesis, The Value of Science, Science and Method | George Bruce Halsted | (see the Gutenberg header) | have | PG 39713 |
+| `singles-science-craft-rathgen-the-preservation-of-antiquities` | Friedrich Rathgen | The preservation of antiquities | George A. Auden and Harold Allden Auden | (see the Gutenberg header) | have | PG 46851 |
+| `singles-science-craft-senefelder-the-invention-of-lithography` | Alois Senefelder | The Invention of Lithography | J. W. Muller | (see the Gutenberg header) | have | PG 40924 |
+| `singles-science-craft-tissot-advice-to-the-people-in-general-with-reg` | S. A. D. Tissot | Advice to the people in general, with regard to their health | J. Kirkpatrick | (see the Gutenberg header) | have | PG 39044 |
+| `singles-science-craft-vallery-radot-louis-pasteur` | René Vallery-Radot | Louis Pasteur: His Life and Labours | Elizabeth Emma Proby Hamilton | (see the Gutenberg header) | have | PG 47505 |
+| `singles-science-craft-vigenere-a-discovrse-of-fire-and-salt-discovering` | Blaise de Vigenère | A Discovrse of Fire and Salt Discovering Many Secret Mysteries as well Philosophicall, as Theologicall | Edward Stephens | (see the Gutenberg header) | have | PG 47365 |
+| `singles-science-craft-wundt-an-introduction-to-psychology-translated` | Wilhelm Wundt | An Introduction to Psychology Translated from the Second German Edition | Rudolf Pintner | (see the Gutenberg header) | have | PG 46677 |
+| `singles-science-craft-wundt-elements-of-folk-psychology-outline-of-a` | Wilhelm Wundt | Elements of Folk Psychology Outline of a Psychological History of the Development of Mankind | Edward L. Schaub | (see the Gutenberg header) | have | PG 44138 |
+| `pg-36276` | — | Albert Einstein, The Meaning of Relativity Four lectures delivered at Princeton University, May, 1921 (Edwin P. Adams): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+| `pg-36856` | — | Carl Friedrich Gauss, General Investigations of Curved Surfaces of 1827 and 1825 (Adam Miller Hiltebeitel and James Caddall Morehead): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+| `pg-36959` | — | Felix Klein, On Riemann's Theory of Algebraic Functions and their Integrals A Supplement to the Usual T (Frances Hardcastle): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+| `pg-39017` | — | Max Planck, Eight Lectures on Theoretical Physics, Delivered at Columbia University in 1909 (A. P. Wills): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+| `pg-40030` | — | Max Planck, The Theory of Heat Radiation (Morton Masius): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+| `pg-50880` | — | Max Planck, Treatise on Thermodynamics (Alexander Ogg): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+
+## One-off translations: more philosophy, religion and politics (Durkheim, Engels, Kant, Grotius, Pascal, Schopenhauer, Croce, Trotsky, Petrarch, Galateo)
+
+Shelf: `pipeline/singles-ideas-2_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-ideas-2` · titles `python3 pipeline/split_shelf_titles.py singles-ideas-2`.
+Round 41 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-ideas-2-annet-critical-examination-of-the-life-of-st-p` | Peter Annet | Critical Examination of the Life of St. Paul | Paul Henri Thiry Holbach | (see the Gutenberg header) | have | PG 38102 |
+| `singles-ideas-2-bebel-woman-and-socialism` | August Bebel | Woman and Socialism | Meta Stern Lilienthal | (see the Gutenberg header) | have | PG 47244 |
+| `singles-ideas-2-beer-the-life-and-teaching-of-karl-marx` | Max Beer | The life and teaching of Karl Marx | T. C. Partington and H. J. Stenning | (see the Gutenberg header) | have | PG 37290 |
+| `singles-ideas-2-brentano-the-origin-of-the-knowledge-of-right-and` | Franz Brentano | The Origin of the Knowledge of Right and Wrong | Cecil Hague | (see the Gutenberg header) | have | PG 49228 |
+| `singles-ideas-2-comte-a-general-view-of-positivism-or-summary` | Auguste Comte | A General View of Positivism Or, Summary exposition of the System of Thought and Life | John Henry Bridges | (see the Gutenberg header) | have | PG 53799 |
+| `singles-ideas-2-cousin-lectures-on-the-true-the-beautiful-and-t` | Victor Cousin | Lectures on the true, the beautiful and the good | O. W. Wight | (see the Gutenberg header) | have | PG 36208 |
+| `singles-ideas-2-croce-historical-materialism-and-the-economics` | Benedetto Croce | Historical materialism and the economics of Karl Marx | Christabel M. Meredith | (see the Gutenberg header) | have | PG 39653 |
+| `singles-ideas-2-croce-the-philosophy-of-giambattista-vico` | Benedetto Croce | The Philosophy of Giambattista Vico | R. G. Collingwood | (see the Gutenberg header) | have | PG 52814 |
+| `singles-ideas-2-della-casa-a-renaissance-courtesy-book` | Giovanni Della Casa | A Renaissance Courtesy-book: Galateo of Manners & Behaviours | Robert Peterson | (see the Gutenberg header) | have | PG 47993 |
+| `singles-ideas-2-drews-the-christ-myth` | Arthur Drews | The Christ Myth | C. Delisle Burns | (see the Gutenberg header) | have | PG 45540 |
+| `singles-ideas-2-durkheim-the-elementary-forms-of-the-religious-li` | Émile Durkheim | The Elementary Forms of the Religious Life | Joseph Ward Swain | (see the Gutenberg header) | have | PG 41360 |
+| `singles-ideas-2-engels-socialism-utopian-and-scientific` | Friedrich Engels | Socialism, Utopian and Scientific | Edward B. Aveling | (see the Gutenberg header) | have | PG 39257 |
+| `singles-ideas-2-eucken-ethics-and-modern-thought` | Rudolf Eucken | Ethics and Modern Thought: A Theory of Their Relations | Margaret von Seydewitz | (see the Gutenberg header) | have | PG 43405 |
+| `singles-ideas-2-eucken-life-s-basis-and-life-s-ideal` | Rudolf Eucken | Life's Basis and Life's Ideal: The Fundamentals of a New Philosophy of Life | Alban G. Widgery | (see the Gutenberg header) | have | PG 43719 |
+| `singles-ideas-2-fenelon-fenelon-s-treatise-on-the-education-of-d` | Fénelon | Fenelon's Treatise on the Education of Daughters Translated from the French, and Adapted to English Readers | Thomas Frognall Dibdin | (see the Gutenberg header) | have | PG 47621 |
+| `singles-ideas-2-gentile-the-reform-of-education` | Giovanni Gentile | The Reform of Education | Dino Bigongiari | (see the Gutenberg header) | have | PG 36762 |
+| `singles-ideas-2-goldziher-mythology-among-the-hebrews-and-its-hist` | Ignác Goldziher | Mythology among the Hebrews and Its Historical Development | R. Martineau | (see the Gutenberg header) | have | PG 48967 |
+| `singles-ideas-2-grotius-the-rights-of-war-and-peace` | Hugo Grotius | The Rights of War and Peace | A. C. Campbell | (see the Gutenberg header) | have | PG 46564 |
+| `singles-ideas-2-halevy-the-life-of-friedrich-nietzsche` | Daniel Halévy | The life of Friedrich Nietzsche | Joseph M. Hone | (see the Gutenberg header) | have | PG 53620 |
+| `singles-ideas-2-holbach-christianity-unveiled-being-an-examinati` | Paul Henri Thiry Holbach | Christianity Unveiled Being an Examination of the Principles and Effects of the Christian Religion | W. M. Johnson | (see the Gutenberg header) | have | PG 40770 |
+| `singles-ideas-2-janet-elements-of-morals-with-special-applicat` | Paul Janet | Elements of Morals With Special Application of the Moral Law to the Duties of the Individual and of Society and the State | Caroline Rollin Corson | (see the Gutenberg header) | have | PG 37016 |
+| `singles-ideas-2-kant-kant-s-critique-of-judgement` | Immanuel Kant | Kant's Critique of Judgement | J. H. Bernard | (see the Gutenberg header) | have | PG 48433 |
+| `singles-ideas-2-kant-perpetual-peace` | Immanuel Kant | Perpetual Peace: A Philosophical Essay | Mary Campbell Smith | (see the Gutenberg header) | have | PG 50922 |
+| `singles-ideas-2-leopardi-essays-and-dialogues` | Giacomo Leopardi | Essays and Dialogues | Charles Edwardes | (see the Gutenberg header) | have | PG 52356 |
+| `singles-ideas-2-liebknecht-the-future-belongs-to-the-people` | Karl Liebknecht | The Future Belongs to the People | Savel Zimand | (see the Gutenberg header) | have | PG 39023 |
+| `singles-ideas-2-maimon-solomon-maimon` | Solomon Maimon | Solomon Maimon: An Autobiography. | John Clark Murray | (see the Gutenberg header) | have | PG 41042 |
+| `singles-ideas-2-maniri-letters-from-a-sufi-teacher` | Sharafuddin Maneri | Letters from a Sûfî Teacher | Baijnath Singh | (see the Gutenberg header) | have | PG 47749 |
+| `singles-ideas-2-maxwell-metapsychical-phenomena` | J. Maxwell | Metapsychical phenomena | L. I. Finch | (see the Gutenberg header) | have | PG 46942 |
+| `singles-ideas-2-nordau-morals-and-the-evolution-of-man` | Max Nordau | Morals and the Evolution of Man | Marie Adèle Lewenz | (see the Gutenberg header) | have | PG 37998 |
+| `singles-ideas-2-oppenheimer-the-state` | Franz Oppenheimer | The State: Its History and Development Viewed Sociologically | John M. Gitterman | (see the Gutenberg header) | have | PG 51544 |
+| `singles-ideas-2-pascal-the-thoughts-of-blaise-pascal` | Blaise Pascal | The Thoughts of Blaise Pascal | C. Kegan Paul | (see the Gutenberg header) | have | PG 46921 |
+| `singles-ideas-2-petrarca-petrarch-s-letters-to-classical-authors` | Francesco Petrarca | Petrarch's Letters to Classical Authors | Mario Emilio Cosenza | (see the Gutenberg header) | have | PG 47859 |
+| `singles-ideas-2-petrarca-petrarch-s-secret` | Francesco Petrarca | Petrarch's Secret; or, the Soul's Conflict with Passion Three Dialogues Between Himself and S. Augustine | William H. Draper | (see the Gutenberg header) | have | PG 49450 |
+| `singles-ideas-2-reville-lectures-on-the-origin-and-growth-of-rel` | Albert Réville | Lectures on the Origin and Growth of Religion as Illustrated by the Native Religions of Mexico and Peru | Philip H. Wicksteed | (see the Gutenberg header) | have | PG 34804 |
+| `singles-ideas-2-schopenhauer-on-the-fourfold-root-of-the-principle-of` | Arthur Schopenhauer | On the Fourfold Root of the Principle of Sufficient Reason, and On the Will in Nature: Two Essays (revised edition) | Karl Hillebrand | (see the Gutenberg header) | have | PG 50966 |
+| `singles-ideas-2-schopenhauer-the-basis-of-morality` | Arthur Schopenhauer | The Basis of Morality | Arthur Brodrick Bullock | (see the Gutenberg header) | have | PG 44929 |
+| `singles-ideas-2-schwegler-a-history-of-philosophy-in-epitome` | Albert Schwegler | A History of Philosophy in Epitome | Julius H. Seelye | (see the Gutenberg header) | have | PG 41412 |
+| `singles-ideas-2-sombart-socialism-and-the-social-movement-in-the` | Werner Sombart | Socialism and the Social Movement in the 19th Century | Anson Phelps Atterbury | (see the Gutenberg header) | have | PG 35210 |
+| `singles-ideas-2-steiner-the-way-of-initiation` | Rudolf Steiner | The Way of Initiation; or, How to Attain Knowledge of the Higher Worlds | Max Gysi | (see the Gutenberg header) | have | PG 39986 |
+| `singles-ideas-2-stendhal-on-love` | Stendhal | On Love | Cecil N. Sidney Woolf and Philip Sidney Woolf | (see the Gutenberg header) | have | PG 53720 |
+| `singles-ideas-2-trotsky-our-revolution` | Leon Trotsky | Our Revolution: Essays on Working-Class and International Revolution, 1904-1917 | Moissaye J. Olgin | (see the Gutenberg header) | have | PG 36303 |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

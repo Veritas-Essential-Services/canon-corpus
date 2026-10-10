@@ -1,0 +1,1328 @@
+{
+ "_about": "SINGLE-TRANSLATION SHELF: one-off translations of science, medicine and the crafts: Agricola's De Re Metallica (Herbert and Lou Hoover, 1912), Galileo's Sidereal Messenger and Discourse on floating bodies (Salusbury), Goethe's Theory of Colours (Eastlake), Petrus Peregrinus on the magnet, Einstein's The Meaning of Relativity, Planck (3), Poincaré, Gauss, Klein, La Mettrie's Man a Machine, Montessori's The Montessori Method, Senefelder's lithography, Lavater's Of Ghostes and Spirites (1572), Vigenère's Fire and Salt (1649), Dunant's Origin of the Red Cross, Vallery-Radot's Pasteur, Wundt, Ebbinghaus, Binet, Jespersen and others. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 41); Adam may veto. No uids minted.",
+ "_name_words": [
+  "alexis frederick lange",
+  "alfred tulk",
+  "anna b. heylin wright",
+  "anne e. george",
+  "augusta rice stetson",
+  "brother arnold",
+  "charles felix clay",
+  "charles lock eastlake",
+  "e. c. bigmore",
+  "e. e. austen",
+  "edward clements bigmore",
+  "edward l. schaub",
+  "edward leroy schaub",
+  "edward stafford carlos",
+  "edward stephens",
+  "elizabeth emma proby hamilton",
+  "ernest edward austen",
+  "f. g. donnan",
+  "frederick george donnan",
+  "g. h. balg",
+  "george a. auden",
+  "george augustus auden",
+  "george bruce halsted",
+  "gerhard hubert balg",
+  "gertrude carman bussey",
+  "harold allden auden",
+  "herbert hoover",
+  "herman dieck",
+  "j. kirkpatrick",
+  "j. w. muller",
+  "james kirkpatrick",
+  "julius l. salinger",
+  "julius lincoln salinger",
+  "julius washington muller",
+  "lou henry hoover",
+  "max f. meyer",
+  "max friedrich meyer",
+  "r. james",
+  "richard berenger",
+  "richard harlan",
+  "robert alan mowbray stevenson",
+  "robert harrison",
+  "robert james",
+  "rudolf pintner",
+  "s. a. d. tissot",
+  "s. a. kinnier wilson",
+  "samuel alexander kinnier wilson",
+  "samuel auguste david tissot",
+  "sophia yhlen-olsen bertelsen",
+  "thomas salusbury",
+  "w. m. gillespie",
+  "waldemar kaempffert",
+  "william blackley drummond",
+  "william mitchell gillespie",
+  "william morton wheeler"
+ ],
+ "_surname": [
+  "alexis frederick lange",
+  "alfred tulk",
+  "anna b. heylin wright",
+  "anne e. george",
+  "augusta rice stetson",
+  "brother arnold",
+  "charles felix clay",
+  "charles lock eastlake",
+  "e. c. bigmore",
+  "e. e. austen",
+  "edward clements bigmore",
+  "edward l. schaub",
+  "edward leroy schaub",
+  "edward stafford carlos",
+  "edward stephens",
+  "elizabeth emma proby hamilton",
+  "ernest edward austen",
+  "f. g. donnan",
+  "frederick george donnan",
+  "g. h. balg",
+  "george a. auden",
+  "george augustus auden",
+  "george bruce halsted",
+  "gerhard hubert balg",
+  "gertrude carman bussey",
+  "harold allden auden",
+  "herbert hoover",
+  "herman dieck",
+  "j. kirkpatrick",
+  "j. w. muller",
+  "james kirkpatrick",
+  "julius l. salinger",
+  "julius lincoln salinger",
+  "julius washington muller",
+  "lou henry hoover",
+  "max f. meyer",
+  "max friedrich meyer",
+  "r. james",
+  "richard berenger",
+  "richard harlan",
+  "robert alan mowbray stevenson",
+  "robert harrison",
+  "robert james",
+  "rudolf pintner",
+  "s. a. d. tissot",
+  "s. a. kinnier wilson",
+  "samuel alexander kinnier wilson",
+  "samuel auguste david tissot",
+  "sophia yhlen-olsen bertelsen",
+  "thomas salusbury",
+  "w. m. gillespie",
+  "waldemar kaempffert",
+  "william blackley drummond",
+  "william mitchell gillespie",
+  "william morton wheeler"
+ ],
+ "_surname_by_slug": {
+  "ssc-38015": [
+   "herbert hoover",
+   "hoover",
+   "lou henry hoover"
+  ],
+  "ssc-37729": [
+   "salusbury",
+   "thomas salusbury"
+  ],
+  "ssc-39713": [
+   "george bruce halsted",
+   "halsted"
+  ],
+  "ssc-46036": [
+   "carlos",
+   "edward stafford carlos"
+  ],
+  "ssc-50524": [
+   "arnold",
+   "brother arnold"
+  ],
+  "ssc-50572": [
+   "charles lock eastlake",
+   "eastlake"
+  ],
+  "ssc-52090": [
+   "bussey",
+   "gertrude carman bussey"
+  ],
+  "ssc-52134": [
+   "wheeler",
+   "william morton wheeler"
+  ],
+  "ssc-41941": [
+   "augusta rice stetson",
+   "stetson"
+  ],
+  "ssc-39702": [
+   "gillespie",
+   "w. m. gillespie",
+   "william mitchell gillespie"
+  ],
+  "ssc-47505": [
+   "elizabeth emma proby hamilton",
+   "hamilton"
+  ],
+  "ssc-50968": [
+   "anna b. heylin wright",
+   "wright"
+  ],
+  "ssc-40924": [
+   "j. w. muller",
+   "julius washington muller",
+   "muller"
+  ],
+  "ssc-41241": [
+   "dieck",
+   "herman dieck"
+  ],
+  "ssc-44890": [
+   "bigmore",
+   "e. c. bigmore",
+   "edward clements bigmore"
+  ],
+  "ssc-42936": [
+   "robert alan mowbray stevenson",
+   "stevenson"
+  ],
+  "ssc-49196": [
+   "alfred tulk",
+   "tulk"
+  ],
+  "ssc-46851": [
+   "auden",
+   "george a. auden",
+   "george augustus auden",
+   "harold allden auden"
+  ],
+  "ssc-39044": [
+   "j. kirkpatrick",
+   "james kirkpatrick",
+   "kirkpatrick"
+  ],
+  "ssc-44089": [
+   "s. a. d. tissot",
+   "samuel auguste david tissot",
+   "tissot"
+  ],
+  "ssc-51078": [
+   "austen",
+   "e. e. austen",
+   "ernest edward austen"
+  ],
+  "ssc-53027": [
+   "james",
+   "r. james",
+   "robert james"
+  ],
+  "ssc-38415": [
+   "kaempffert",
+   "waldemar kaempffert"
+  ],
+  "ssc-47365": [
+   "edward stephens",
+   "stephens"
+  ],
+  "ssc-51038": [
+   "harrison",
+   "robert harrison"
+  ],
+  "ssc-46696": [
+   "berenger",
+   "richard berenger"
+  ],
+  "ssc-44744": [
+   "julius l. salinger",
+   "julius lincoln salinger",
+   "salinger"
+  ],
+  "ssc-48078": [
+   "harlan",
+   "richard harlan"
+  ],
+  "ssc-46093": [
+   "charles felix clay",
+   "clay"
+  ],
+  "ssc-39822": [
+   "s. a. kinnier wilson",
+   "samuel alexander kinnier wilson",
+   "wilson"
+  ],
+  "ssc-36458": [
+   "drummond",
+   "william blackley drummond"
+  ],
+  "ssc-46677": [
+   "pintner",
+   "rudolf pintner"
+  ],
+  "ssc-44138": [
+   "edward l. schaub",
+   "edward leroy schaub",
+   "schaub"
+  ],
+  "ssc-52823": [
+   "max f. meyer",
+   "max friedrich meyer",
+   "meyer"
+  ],
+  "ssc-44905": [
+   "alexis frederick lange",
+   "lange"
+  ],
+  "ssc-39863": [
+   "anne e. george",
+   "george"
+  ],
+  "ssc-54943": [
+   "bertelsen",
+   "sophia yhlen-olsen bertelsen"
+  ],
+  "ssc-50336": [
+   "balg",
+   "g. h. balg",
+   "gerhard hubert balg"
+  ],
+  "ssc-54694": [
+   "donnan",
+   "f. g. donnan",
+   "frederick george donnan"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "ssc-38015": [
+   38015,
+   "De Re Metallica, Translated from the First Latin Edition of 1556"
+  ],
+  "ssc-37729": [
+   37729,
+   "A Discourse Presented to the Most Serene Don Cosimo II., Great Duke of Tuscany, Concerning the Natation of Bodies Vpon, and Submersion In, the Water."
+  ],
+  "ssc-39713": [
+   39713,
+   "The Foundations of Science: Science and Hypothesis, The Value of Science, Science and Method"
+  ],
+  "ssc-46036": [
+   46036,
+   "The sidereal messenger of Galileo Galilei"
+  ],
+  "ssc-50524": [
+   50524,
+   "The Letter of Petrus Peregrinus on the Magnet, A.D. 1269"
+  ],
+  "ssc-50572": [
+   50572,
+   "Goethe's Theory of Colours"
+  ],
+  "ssc-52090": [
+   52090,
+   "Man a Machine"
+  ],
+  "ssc-52134": [
+   52134,
+   "Ants and Some Other Insects: An Inquiry Into the Psychic Powers of These Animals"
+  ],
+  "ssc-41941": [
+   41941,
+   "Urania"
+  ],
+  "ssc-39702": [
+   39702,
+   "The philosophy of mathematics"
+  ],
+  "ssc-47505": [
+   47505,
+   "Louis Pasteur: His Life and Labours"
+  ],
+  "ssc-50968": [
+   50968,
+   "The Origin of the Red Cross: \"Un souvenir de Solferino\""
+  ],
+  "ssc-40924": [
+   40924,
+   "The Invention of Lithography"
+  ],
+  "ssc-41241": [
+   41241,
+   "The progress of the marbling art, from technical scientific principles"
+  ],
+  "ssc-44890": [
+   44890,
+   "The Printed Book: Its History, Illustration and Adornment From the Days of Gutenberg to the Present Time"
+  ],
+  "ssc-42936": [
+   42936,
+   "Engraving: Its Origin, Processes, and History"
+  ],
+  "ssc-49196": [
+   49196,
+   "Elements of Physiophilosophy"
+  ],
+  "ssc-46851": [
+   46851,
+   "The preservation of antiquities"
+  ],
+  "ssc-39044": [
+   39044,
+   "Advice to the people in general, with regard to their health"
+  ],
+  "ssc-44089": [
+   44089,
+   "A dissertation on the inutility of the amputation of limbs"
+  ],
+  "ssc-51078": [
+   51078,
+   "Venoms: Venomous Animals and Antivenomous Serum-therapeutics"
+  ],
+  "ssc-53027": [
+   53027,
+   "A Treatise on Tobacco, Tea, Coffee, and Chocolate"
+  ],
+  "ssc-38415": [
+   38415,
+   "Gas-Engines and Producer-Gas Plants A Practice Treatise Setting Forth the Principles of Gas-Engines and Producer Design, the Selection and Installation of an Engine, Conditions of Perfect Operation, P"
+  ],
+  "ssc-47365": [
+   47365,
+   "A Discovrse of Fire and Salt Discovering Many Secret Mysteries as well Philosophicall, as Theologicall"
+  ],
+  "ssc-51038": [
+   51038,
+   "Of Ghostes and Spirites, Walking by Night And of Straunge Noyses, Crackes, and Sundrie Forewarnings, Which Commonly Happen Before the Death of Men: Great Slaughters, and Alterations of Kingdoms"
+  ],
+  "ssc-46696": [
+   46696,
+   "A New System of Horsemanship"
+  ],
+  "ssc-44744": [
+   44744,
+   "Superstition in Medicine"
+  ],
+  "ssc-48078": [
+   48078,
+   "History of Embalming and of Preparations in Anatomy, Pathology, and Natural History; Including an Account of a New Process for Embalming"
+  ],
+  "ssc-46093": [
+   46093,
+   "Secrets of the Sword"
+  ],
+  "ssc-39822": [
+   39822,
+   "Tics and Their Treatment"
+  ],
+  "ssc-36458": [
+   36458,
+   "Mentally Defective Children"
+  ],
+  "ssc-46677": [
+   46677,
+   "An Introduction to Psychology Translated from the Second German Edition"
+  ],
+  "ssc-44138": [
+   44138,
+   "Elements of Folk Psychology Outline of a Psychological History of the Development of Mankind"
+  ],
+  "ssc-52823": [
+   52823,
+   "Psychology: an elementary text-book"
+  ],
+  "ssc-44905": [
+   44905,
+   "Outlines of Educational Doctrine"
+  ],
+  "ssc-39863": [
+   39863,
+   "The Montessori Method Scientific Pedagogy as Applied to Child Education in 'The Children's Houses' with Additions and Revisions by the Author"
+  ],
+  "ssc-54943": [
+   54943,
+   "How to teach a foreign language"
+  ],
+  "ssc-50336": [
+   50336,
+   "A Gothic Grammar, with selections for reading and a glossary"
+  ],
+  "ssc-54694": [
+   54694,
+   "International Language and Science Considerations on the Introduction of an International Language into Science"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "singles-science-craft-agricola-de-re-metallica-translated-from-the-firs": {
+   "source": "ssc-38015",
+   "of": "Georg Agricola",
+   "work": "De Re Metallica, Translated from the First Latin Edition of 1556",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Herbert Hoover and Lou Henry Hoover",
+   "scan_edition": "Project Gutenberg 38015 (clean text)",
+   "note": "The Hoovers' translation was first published in London in 1912 (The Mining Magazine). Gutenberg keyed this from the Dover 1950 edition, which calls itself a complete and unchanged reprint of 1912 (flagged in DIGEST-C)."
+  },
+  "singles-science-craft-bazancourt-secrets-of-the-sword": {
+   "source": "ssc-46093",
+   "of": "César de Bazancourt",
+   "work": "Secrets of the Sword",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles Felix Clay",
+   "scan_edition": "Project Gutenberg 46093 (clean text)"
+  },
+  "singles-science-craft-bilguer-a-dissertation-on-the-inutility-of-the-a": {
+   "source": "ssc-44089",
+   "of": "Johann Ulrich Bilguer",
+   "work": "A dissertation on the inutility of the amputation of limbs",
+   "translated": "(see the Gutenberg header)",
+   "translator": "S. A. D. Tissot",
+   "scan_edition": "Project Gutenberg 44089 (clean text)"
+  },
+  "singles-science-craft-binet-mentally-defective-children": {
+   "source": "ssc-36458",
+   "of": "Alfred Binet and Théodore Simon",
+   "work": "Mentally Defective Children",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Blackley Drummond",
+   "scan_edition": "Project Gutenberg 36458 (clean text)"
+  },
+  "singles-science-craft-bouchot-the-printed-book": {
+   "source": "ssc-44890",
+   "of": "Henri Bouchot",
+   "work": "The Printed Book: Its History, Illustration and Adornment From the Days of Gutenberg to the Present Time",
+   "translated": "(see the Gutenberg header)",
+   "translator": "E. C. Bigmore",
+   "scan_edition": "Project Gutenberg 44890 (clean text)"
+  },
+  "singles-science-craft-bourgelat-a-new-system-of-horsemanship": {
+   "source": "ssc-46696",
+   "of": "Claude Bourgelat",
+   "work": "A New System of Horsemanship",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Richard Berenger",
+   "scan_edition": "Project Gutenberg 46696 (clean text)"
+  },
+  "singles-science-craft-braune-a-gothic-grammar-with-selections-for-rea": {
+   "source": "ssc-50336",
+   "of": "Wilhelm Braune",
+   "work": "A Gothic Grammar, with selections for reading and a glossary",
+   "translated": "(see the Gutenberg header)",
+   "translator": "G. H. Balg",
+   "scan_edition": "Project Gutenberg 50336 (clean text)"
+  },
+  "singles-science-craft-calmette-venoms": {
+   "source": "ssc-51078",
+   "of": "A. Calmette",
+   "work": "Venoms: Venomous Animals and Antivenomous Serum-therapeutics",
+   "translated": "(see the Gutenberg header)",
+   "translator": "E. E. Austen",
+   "scan_edition": "Project Gutenberg 51078 (clean text)"
+  },
+  "singles-science-craft-comte-the-philosophy-of-mathematics": {
+   "source": "ssc-39702",
+   "of": "Auguste Comte",
+   "work": "The philosophy of mathematics",
+   "translated": "(see the Gutenberg header)",
+   "translator": "W. M. Gillespie",
+   "scan_edition": "Project Gutenberg 39702 (clean text)"
+  },
+  "singles-science-craft-delaborde-engraving": {
+   "source": "ssc-42936",
+   "of": "Henri Delaborde",
+   "work": "Engraving: Its Origin, Processes, and History",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Robert Alan Mowbray Stevenson",
+   "scan_edition": "Project Gutenberg 42936 (clean text)"
+  },
+  "singles-science-craft-dunant-the-origin-of-the-red-cross": {
+   "source": "ssc-50968",
+   "of": "Henry Dunant",
+   "work": "The Origin of the Red Cross: \"Un souvenir de Solferino\"",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Anna B. Heylin Wright",
+   "scan_edition": "Project Gutenberg 50968 (clean text)"
+  },
+  "singles-science-craft-ebbinghaus-psychology": {
+   "source": "ssc-52823",
+   "of": "Hermann Ebbinghaus",
+   "work": "Psychology: an elementary text-book",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Max F. Meyer",
+   "scan_edition": "Project Gutenberg 52823 (clean text)"
+  },
+  "singles-science-craft-flammarion-urania": {
+   "source": "ssc-41941",
+   "of": "Camille Flammarion",
+   "work": "Urania",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Augusta Rice Stetson",
+   "scan_edition": "Project Gutenberg 41941 (clean text)"
+  },
+  "singles-science-craft-forel-ants-and-some-other-insects": {
+   "source": "ssc-52134",
+   "of": "Auguste Forel",
+   "work": "Ants and Some Other Insects: An Inquiry Into the Psychic Powers of These Animals",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Morton Wheeler",
+   "scan_edition": "Project Gutenberg 52134 (clean text)"
+  },
+  "singles-science-craft-galilei-a-discourse-presented-to-the-most-serene": {
+   "source": "ssc-37729",
+   "of": "Galileo Galilei",
+   "work": "A Discourse Presented to the Most Serene Don Cosimo II., Great Duke of Tuscany, Concerning the Natation of Bodies Vpon, and Submersion In, the Water.",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Thomas Salusbury",
+   "scan_edition": "Project Gutenberg 37729 (clean text)"
+  },
+  "singles-science-craft-galilei-the-sidereal-messenger-of-galileo-galile": {
+   "source": "ssc-46036",
+   "of": "Galileo Galilei and Johannes Kepler",
+   "work": "The sidereal messenger of Galileo Galilei",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edward Stafford Carlos",
+   "scan_edition": "Project Gutenberg 46036 (clean text)"
+  },
+  "singles-science-craft-gannal-history-of-embalming-and-of-preparations": {
+   "source": "ssc-48078",
+   "of": "J.-N. Gannal",
+   "work": "History of Embalming and of Preparations in Anatomy, Pathology, and Natural History; Including an Account of a New Process for Embalming",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Richard Harlan",
+   "scan_edition": "Project Gutenberg 48078 (clean text)"
+  },
+  "singles-science-craft-goethe-goethe-s-theory-of-colours": {
+   "source": "ssc-50572",
+   "of": "Johann Wolfgang von Goethe",
+   "work": "Goethe's Theory of Colours",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles Lock Eastlake",
+   "scan_edition": "Project Gutenberg 50572 (clean text)"
+  },
+  "singles-science-craft-halfer-the-progress-of-the-marbling-art-from-te": {
+   "source": "ssc-41241",
+   "of": "Josef Halfer",
+   "work": "The progress of the marbling art, from technical scientific principles",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Herman Dieck",
+   "scan_edition": "Project Gutenberg 41241 (clean text)"
+  },
+  "singles-science-craft-herbart-outlines-of-educational-doctrine": {
+   "source": "ssc-44905",
+   "of": "Johann Friedrich Herbart",
+   "work": "Outlines of Educational Doctrine",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Alexis Frederick Lange",
+   "scan_edition": "Project Gutenberg 44905 (clean text)"
+  },
+  "singles-science-craft-jespersen-how-to-teach-a-foreign-language": {
+   "source": "ssc-54943",
+   "of": "Otto Jespersen",
+   "work": "How to teach a foreign language",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Sophia Yhlen-Olsen Bertelsen",
+   "scan_edition": "Project Gutenberg 54943 (clean text)"
+  },
+  "singles-science-craft-la-mettrie-man-a-machine": {
+   "source": "ssc-52090",
+   "of": "Julien Offray de La Mettrie",
+   "work": "Man a Machine",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Gertrude Carman Bussey",
+   "scan_edition": "Project Gutenberg 52090 (clean text)"
+  },
+  "singles-science-craft-lavater-of-ghostes-and-spirites-walking-by-night": {
+   "source": "ssc-51038",
+   "of": "Ludwig Lavater",
+   "work": "Of Ghostes and Spirites, Walking by Night And of Straunge Noyses, Crackes, and Sundrie Forewarnings, Which Commonly Happen Before the Death of Men: Great Slaughters, and Alterations of Kingdoms",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Robert Harrison",
+   "scan_edition": "Project Gutenberg 51038 (clean text)"
+  },
+  "singles-science-craft-magnus-superstition-in-medicine": {
+   "source": "ssc-44744",
+   "of": "Hugo Magnus",
+   "work": "Superstition in Medicine",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Julius L. Salinger",
+   "scan_edition": "Project Gutenberg 44744 (clean text)"
+  },
+  "singles-science-craft-mathot-gas-engines-and-producer-gas-plants-a-pr": {
+   "source": "ssc-38415",
+   "of": "Rodolphe Edgard Mathot",
+   "work": "Gas-Engines and Producer-Gas Plants A Practice Treatise Setting Forth the Principles of Gas-Engines and Producer Design, the Selection and Installation of an Engine, Conditions of Perfect Operation, P",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Waldemar Kaempffert",
+   "scan_edition": "Project Gutenberg 38415 (clean text)"
+  },
+  "singles-science-craft-meige-tics-and-their-treatment": {
+   "source": "ssc-39822",
+   "of": "Henry Meige and E. Feindel",
+   "work": "Tics and Their Treatment",
+   "translated": "(see the Gutenberg header)",
+   "translator": "S. A. Kinnier Wilson",
+   "scan_edition": "Project Gutenberg 39822 (clean text)"
+  },
+  "singles-science-craft-montessori-the-montessori-method-scientific-pedagog": {
+   "source": "ssc-39863",
+   "of": "Maria Montessori",
+   "work": "The Montessori Method Scientific Pedagogy as Applied to Child Education in 'The Children's Houses' with Additions and Revisions by the Author",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Anne E. George",
+   "scan_edition": "Project Gutenberg 39863 (clean text)"
+  },
+  "singles-science-craft-oken-elements-of-physiophilosophy": {
+   "source": "ssc-49196",
+   "of": "Lorenz Oken",
+   "work": "Elements of Physiophilosophy",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Alfred Tulk",
+   "scan_edition": "Project Gutenberg 49196 (clean text)"
+  },
+  "singles-science-craft-paulli-a-treatise-on-tobacco-tea-coffee-and-cho": {
+   "source": "ssc-53027",
+   "of": "Simon Paulli",
+   "work": "A Treatise on Tobacco, Tea, Coffee, and Chocolate",
+   "translated": "(see the Gutenberg header)",
+   "translator": "R. James",
+   "scan_edition": "Project Gutenberg 53027 (clean text)"
+  },
+  "singles-science-craft-peregrinus-the-letter-of-petrus-peregrinus-on-the-m": {
+   "source": "ssc-50524",
+   "of": "Petrus Peregrinus (Pierre de Maricourt)",
+   "work": "The Letter of Petrus Peregrinus on the Magnet, A.D. 1269",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Brother Arnold",
+   "scan_edition": "Project Gutenberg 50524 (clean text)"
+  },
+  "singles-science-craft-pfaundler-international-language-and-science-consi": {
+   "source": "ssc-54694",
+   "of": "Leopold Pfaundler and others",
+   "work": "International Language and Science Considerations on the Introduction of an International Language into Science",
+   "translated": "(see the Gutenberg header)",
+   "translator": "F. G. Donnan",
+   "scan_edition": "Project Gutenberg 54694 (clean text)"
+  },
+  "singles-science-craft-poincare-the-foundations-of-science": {
+   "source": "ssc-39713",
+   "of": "Henri Poincaré",
+   "work": "The Foundations of Science: Science and Hypothesis, The Value of Science, Science and Method",
+   "translated": "(see the Gutenberg header)",
+   "translator": "George Bruce Halsted",
+   "scan_edition": "Project Gutenberg 39713 (clean text)"
+  },
+  "singles-science-craft-rathgen-the-preservation-of-antiquities": {
+   "source": "ssc-46851",
+   "of": "Friedrich Rathgen",
+   "work": "The preservation of antiquities",
+   "translated": "(see the Gutenberg header)",
+   "translator": "George A. Auden and Harold Allden Auden",
+   "scan_edition": "Project Gutenberg 46851 (clean text)"
+  },
+  "singles-science-craft-senefelder-the-invention-of-lithography": {
+   "source": "ssc-40924",
+   "of": "Alois Senefelder",
+   "work": "The Invention of Lithography",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. W. Muller",
+   "scan_edition": "Project Gutenberg 40924 (clean text)"
+  },
+  "singles-science-craft-tissot-advice-to-the-people-in-general-with-reg": {
+   "source": "ssc-39044",
+   "of": "S. A. D. Tissot",
+   "work": "Advice to the people in general, with regard to their health",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. Kirkpatrick",
+   "scan_edition": "Project Gutenberg 39044 (clean text)"
+  },
+  "singles-science-craft-vallery-radot-louis-pasteur": {
+   "source": "ssc-47505",
+   "of": "René Vallery-Radot",
+   "work": "Louis Pasteur: His Life and Labours",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Elizabeth Emma Proby Hamilton",
+   "scan_edition": "Project Gutenberg 47505 (clean text)"
+  },
+  "singles-science-craft-vigenere-a-discovrse-of-fire-and-salt-discovering": {
+   "source": "ssc-47365",
+   "of": "Blaise de Vigenère",
+   "work": "A Discovrse of Fire and Salt Discovering Many Secret Mysteries as well Philosophicall, as Theologicall",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edward Stephens",
+   "scan_edition": "Project Gutenberg 47365 (clean text)"
+  },
+  "singles-science-craft-wundt-an-introduction-to-psychology-translated": {
+   "source": "ssc-46677",
+   "of": "Wilhelm Wundt",
+   "work": "An Introduction to Psychology Translated from the Second German Edition",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Rudolf Pintner",
+   "scan_edition": "Project Gutenberg 46677 (clean text)"
+  },
+  "singles-science-craft-wundt-elements-of-folk-psychology-outline-of-a": {
+   "source": "ssc-44138",
+   "of": "Wilhelm Wundt",
+   "work": "Elements of Folk Psychology Outline of a Psychological History of the Development of Mankind",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edward L. Schaub",
+   "scan_edition": "Project Gutenberg 44138 (clean text)"
+  }
+ },
+ "_pending": {
+  "pg-36276": "Albert Einstein, The Meaning of Relativity Four lectures delivered at Princeton University, May, 1921 (Edwin P. Adams): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive.",
+  "pg-36856": "Carl Friedrich Gauss, General Investigations of Curved Surfaces of 1827 and 1825 (Adam Miller Hiltebeitel and James Caddall Morehead): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive.",
+  "pg-36959": "Felix Klein, On Riemann's Theory of Algebraic Functions and their Integrals A Supplement to the Usual T (Frances Hardcastle): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive.",
+  "pg-39017": "Max Planck, Eight Lectures on Theoretical Physics, Delivered at Columbia University in 1909 (A. P. Wills): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive.",
+  "pg-40030": "Max Planck, The Theory of Heat Radiation (Morton Masius): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive.",
+  "pg-50880": "Max Planck, Treatise on Thermodynamics (Alexander Ogg): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
+ "_checks": {
+  "ssc-38015": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "herbert hoover",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herbert Hoover; Lou Henry Hoover"
+  },
+  "ssc-37729": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "salusbury",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Salusbury"
+  },
+  "ssc-39713": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george bruce halsted",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Bruce Halsted"
+  },
+  "ssc-46036": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "carlos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward Stafford Carlos"
+  },
+  "ssc-50524": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arnold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Brother Arnold"
+  },
+  "ssc-50572": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles lock eastlake",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Charles Lock Eastlake"
+  },
+  "ssc-52090": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bussey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gertrude Carman Bussey"
+  },
+  "ssc-52134": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wheeler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Morton Wheeler"
+  },
+  "ssc-41941": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augusta rice stetson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Augusta Rice Stetson"
+  },
+  "ssc-39702": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gillespie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. M. Gillespie"
+  },
+  "ssc-47505": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "elizabeth emma proby hamilton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lady Elizabeth Emma Proby Hamilton"
+  },
+  "ssc-50968": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "anna b. heylin wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Anna B. Heylin Wright"
+  },
+  "ssc-40924": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. w. muller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. W. Muller"
+  },
+  "ssc-41241": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dieck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herman Dieck"
+  },
+  "ssc-44890": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bigmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. C. Bigmore"
+  },
+  "ssc-42936": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert alan mowbray stevenson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Alan Mowbray Stevenson"
+  },
+  "ssc-49196": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred tulk",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alfred Tulk"
+  },
+  "ssc-46851": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "auden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George A. Auden; Harold Allden Auden"
+  },
+  "ssc-39044": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. kirkpatrick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. Kirkpatrick"
+  },
+  "ssc-44089": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. a. d. tissot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. A. D. Tissot"
+  },
+  "ssc-51078": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "austen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. E. Austen"
+  },
+  "ssc-53027": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. James"
+  },
+  "ssc-38415": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kaempffert",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Waldemar Kaempffert"
+  },
+  "ssc-47365": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "active 1649 Edward Stephens"
+  },
+  "ssc-51038": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "harrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Harrison"
+  },
+  "ssc-46696": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "berenger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Richard Berenger"
+  },
+  "ssc-44744": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "julius l. salinger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Julius L. Salinger"
+  },
+  "ssc-48078": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "harlan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Richard Harlan"
+  },
+  "ssc-46093": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles felix clay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Felix Clay"
+  },
+  "ssc-39822": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. a. kinnier wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. A. Kinnier Wilson"
+  },
+  "ssc-36458": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "drummond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Blackley Drummond"
+  },
+  "ssc-46677": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "pintner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Rudolf Pintner"
+  },
+  "ssc-44138": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward l. schaub",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward L. Schaub"
+  },
+  "ssc-52823": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "max f. meyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Max F. Meyer"
+  },
+  "ssc-44905": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alexis frederick lange",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexis Frederick Lange"
+  },
+  "ssc-39863": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "anne e. george",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Anne E. George"
+  },
+  "ssc-54943": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bertelsen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sophia Yhlen-Olsen Bertelsen"
+  },
+  "ssc-50336": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "balg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "G. H. Balg"
+  },
+  "ssc-54694": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "donnan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "F. G. Donnan"
+  }
+ },
+ "_verified": {
+  "ssc-38015": {
+   "pg": 38015,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Herbert Hoover"
+  },
+  "ssc-37729": {
+   "pg": 37729,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Salusbury"
+  },
+  "ssc-39713": {
+   "pg": 39713,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Bruce Halsted"
+  },
+  "ssc-46036": {
+   "pg": 46036,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edward Stafford Carlos"
+  },
+  "ssc-50524": {
+   "pg": 50524,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Brother Arnold"
+  },
+  "ssc-50572": {
+   "pg": 50572,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Charles Lock Eastlake"
+  },
+  "ssc-52090": {
+   "pg": 52090,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gertrude Carman Bussey"
+  },
+  "ssc-52134": {
+   "pg": 52134,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Morton Wheeler"
+  },
+  "ssc-41941": {
+   "pg": 41941,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Augusta Rice Stetson"
+  },
+  "ssc-39702": {
+   "pg": 39702,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. M. Gillespie"
+  },
+  "ssc-47505": {
+   "pg": 47505,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lady Elizabeth Emma Proby Hamilton"
+  },
+  "ssc-50968": {
+   "pg": 50968,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Anna B. Heylin Wright"
+  },
+  "ssc-40924": {
+   "pg": 40924,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. W. Muller"
+  },
+  "ssc-41241": {
+   "pg": 41241,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Herman Dieck"
+  },
+  "ssc-44890": {
+   "pg": 44890,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. C. Bigmore"
+  },
+  "ssc-42936": {
+   "pg": 42936,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Alan Mowbray Stevenson"
+  },
+  "ssc-49196": {
+   "pg": 49196,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alfred Tulk"
+  },
+  "ssc-46851": {
+   "pg": 46851,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George A. Auden"
+  },
+  "ssc-39044": {
+   "pg": 39044,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. Kirkpatrick"
+  },
+  "ssc-44089": {
+   "pg": 44089,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. A. D. Tissot"
+  },
+  "ssc-51078": {
+   "pg": 51078,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. E. Austen"
+  },
+  "ssc-53027": {
+   "pg": 53027,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. James"
+  },
+  "ssc-38415": {
+   "pg": 38415,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Waldemar Kaempffert"
+  },
+  "ssc-47365": {
+   "pg": 47365,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "active 1649 Edward Stephens"
+  },
+  "ssc-51038": {
+   "pg": 51038,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Harrison"
+  },
+  "ssc-46696": {
+   "pg": 46696,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Richard Berenger"
+  },
+  "ssc-44744": {
+   "pg": 44744,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Julius L. Salinger"
+  },
+  "ssc-48078": {
+   "pg": 48078,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Richard Harlan"
+  },
+  "ssc-46093": {
+   "pg": 46093,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Felix Clay"
+  },
+  "ssc-39822": {
+   "pg": 39822,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. A. Kinnier Wilson"
+  },
+  "ssc-36458": {
+   "pg": 36458,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Blackley Drummond"
+  },
+  "ssc-46677": {
+   "pg": 46677,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Rudolf Pintner"
+  },
+  "ssc-44138": {
+   "pg": 44138,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edward L. Schaub"
+  },
+  "ssc-52823": {
+   "pg": 52823,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Max F. Meyer"
+  },
+  "ssc-44905": {
+   "pg": 44905,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexis Frederick Lange"
+  },
+  "ssc-39863": {
+   "pg": 39863,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Anne E. George"
+  },
+  "ssc-54943": {
+   "pg": 54943,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sophia Yhlen-Olsen Bertelsen"
+  },
+  "ssc-50336": {
+   "pg": 50336,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "G. H. Balg"
+  },
+  "ssc-54694": {
+   "pg": 54694,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "F. G. Donnan"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}
