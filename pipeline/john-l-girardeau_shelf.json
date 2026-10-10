@@ -1,0 +1,175 @@
+{
+ "_about": "Public-domain John L. Girardeau (1825-1898, Southern Presbyterian, Columbia Theological Seminary) for the Word Hoard: Calvinism and Evangelical Arminianism (1890), The Will in its Theological Relations (1891), Instrumental Music in the Public Worship of the Church (1888), the posthumous Discussions of Philosophical Questions (1900), Discussions of Theological Questions (1905) and Sermons (1907), all edited by George A. Blackburn, and three early addresses and sermons (1858-1874), raw Internet Archive OCR. Added 2026-10-10 by lane A, round 18 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "girardeau"
+ ],
+ "_surname": [
+  "john l. girardeau",
+  "j. l. girardeau",
+  "girardeau, john l.",
+  "john lafayette girardeau",
+  "rev. j. l. girardeau",
+  "john l. girardeau, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "girardeau-superannuated-ministers": [
+   "addressonbehalfo00gira",
+   "An Address on Behalf of the Society for the Relief of Superannuated Ministers (Columbia, S.C.: R. W. Gibbes, 1858)"
+  ],
+  "girardeau-conscience-civil-government": [
+   "consciencecivilg00gira",
+   "Conscience and Civil Government: An Oration (Charleston: Evans & Cogswell, 1860)"
+  ],
+  "girardeau-remembrance-righteous": [
+   "the-remembrance-of-the-righteous-porter",
+   "The Remembrance of the Righteous: A Memorial Sermon on the Rev. David H. Porter (Columbia, S.C.: Presbyterian Publishing House, 1874)",
+   "The Remembrance of the Righteous_Porter_djvu.txt"
+  ],
+  "girardeau-instrumental-music": [
+   "instru00gira",
+   "Instrumental Music in the Public Worship of the Church (Richmond: Whittet & Shepperson, 1888)"
+  ],
+  "girardeau-calvinism-arminianism": [
+   "calvinismevangel00gira",
+   "Calvinism and Evangelical Arminianism (Columbia, S.C.: W. J. Duffie; New York: Baker and Taylor, copyright 1890)"
+  ],
+  "girardeau-will": [
+   "willinitstheolog00gira",
+   "The Will in its Theological Relations (Columbia, S.C.: W. J. Duffie; New York: Baker and Taylor, copyright 1891)"
+  ],
+  "girardeau-discussions-philosophical": [
+   "discussionsofphi00gira",
+   "Discussions of Philosophical Questions, ed. George A. Blackburn (Richmond: Presbyterian Committee of Publication, copyright 1900)"
+  ],
+  "girardeau-discussions-theological": [
+   "discussionsofthe01gira",
+   "Discussions of Theological Questions, ed. George A. Blackburn (Richmond: Presbyterian Committee of Publication, copyright 1905)"
+  ],
+  "girardeau-sermons": [
+   "sermons00gira",
+   "Sermons, ed. George A. Blackburn (Columbia, S.C.: The State Company, 1907)"
+  ]
+ },
+ "_alternates": {
+  "girardeau-copies": "Second copies: instrumentalmus00giragoog, calvinismevangel00gira_0, discussionsofphi0000gira",
+  "girardeau-blackburn-life": "Blackburn's Life Work of John L. Girardeau (1916; IA lifeworkofjohnlgir00blac): about him, not by him"
+ },
+ "_excluded": {
+  "girardeau-reprints": "Sprinkle 1983-84 reprints",
+  "girardeau-martin": "James L. Martin's replies to Girardeau",
+  "girardeau-obituary": "Obituary of Mrs. Eliza Leland (IA obituaryofmrseli00gira): no author named; attribution is the catalogue's only",
+  "girardeau-namesakes": "Cape Girardeau and other namesakes"
+ },
+ "_identity_checked": {
+  "girardeau-conscience-civil-government": {
+   "author": "Title page read: \"REV. JOHN L. CilEAEDEAU\" and \"REV. JOHX L. (4IRARDEAU\" (OCR of letter-spaced type), Charleston: Evans & Cogswell, 1860."
+  },
+  "girardeau-remembrance-righteous": {
+   "author": "Title page read: \"REV. JOUN L. GIRARDEAU, D. D., OF CHARLESTON, S. C.\" (OCR for John), Columbia, S.C., 1874."
+  }
+ },
+ "_checks": {
+  "girardeau-superannuated-ministers": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. l. girardeau",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "girardeau-conscience-civil-government": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "girardeau-remembrance-righteous": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "girardeau-instrumental-music": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john l. girardeau",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "girardeau-calvinism-arminianism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "girardeau, john l.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "girardeau-will": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "girardeau, john l.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "girardeau-discussions-philosophical": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john l. girardeau",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "girardeau-discussions-theological": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john l. girardeau",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "girardeau-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john l. girardeau",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

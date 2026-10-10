@@ -3041,3 +3041,25 @@ Slugs `pink-*`. Held to printings before 1930: four CCEL texts with dated print 
 | CCEL pink/sovereignty: carries the third and fourth edition forewords and mentions 1949; a post-1930 text | excluded | |
 | CCEL pink/comfort: preface signed 1952 | excluded | |
 | Zondervan, Moody, Banner of Truth, Baker and later printings, and The Attributes of God (1930) | excluded | |
+
+## John L. Girardeau (round 18, my pick, 2026-10-10)
+
+Slugs `girardeau-*`. Southern Presbyterian of Columbia Seminary. Three of the nine items are posthumous volumes edited by George A. Blackburn.
+
+| Work | Status | Where |
+|---|---|---|
+| An Address on Behalf of the Society for the Relief of Superannuated Ministers (Columbia, S.C.: R. W. Gibbes, 1858) | have-ocr | IA `addressonbehalfo00gira` |
+| Conscience and Civil Government: An Oration (Charleston: Evans & Cogswell, 1860) | have-ocr | IA `consciencecivilg00gira` |
+| The Remembrance of the Righteous: A Memorial Sermon on the Rev. David H. Porter (Columbia, S.C.: Presbyterian Publishing House, 1874) | have-ocr | IA `the-remembrance-of-the-righteous-porter` |
+| Instrumental Music in the Public Worship of the Church (Richmond: Whittet & Shepperson, 1888) | have-ocr | IA `instru00gira` |
+| Calvinism and Evangelical Arminianism (Columbia, S.C.: W. J. Duffie; New York: Baker and Taylor, copyright 1890) | have-ocr | IA `calvinismevangel00gira` |
+| The Will in its Theological Relations (Columbia, S.C.: W. J. Duffie; New York: Baker and Taylor, copyright 1891) | have-ocr | IA `willinitstheolog00gira` |
+| Discussions of Philosophical Questions, ed. George A. Blackburn (Richmond: Presbyterian Committee of Publication, copyright 1900) | have-ocr | IA `discussionsofphi00gira` |
+| Discussions of Theological Questions, ed. George A. Blackburn (Richmond: Presbyterian Committee of Publication, copyright 1905) | have-ocr | IA `discussionsofthe01gira` |
+| Sermons, ed. George A. Blackburn (Columbia, S.C.: The State Company, 1907) | have-ocr | IA `sermons00gira` |
+| Second copies: instrumentalmus00giragoog, calvinismevangel00gira_0, discussionsofphi0000gira | alternate | not shelved |
+| Blackburn's Life Work of John L. Girardeau (1916; IA lifeworkofjohnlgir00blac): about him, not by him | alternate | not shelved |
+| Sprinkle 1983-84 reprints | excluded | |
+| James L. Martin's replies to Girardeau | excluded | |
+| Obituary of Mrs. Eliza Leland (IA obituaryofmrseli00gira): no author named; attribution is the catalogue's only | excluded | |
+| Cape Girardeau and other namesakes | excluded | |

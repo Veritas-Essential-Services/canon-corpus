@@ -838,3 +838,6 @@
 
 ## 2026-10-10 12:10 CDT — arthur-w-pink done
 - `pipeline/arthur-w-pink_shelf.json`: 4 CCEL, 0 PG, 1 IA. CCEL's Pink texts are Logos e-texts; The Antichrist names no print source. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — john-l-girardeau done
+- `pipeline/john-l-girardeau_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for girardeau-conscience-civil-government, girardeau-remembrance-righteous (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
