@@ -3980,6 +3980,36 @@ Slugs `mccosh-*`. Princeton president; divinity, apologetics and his baccalaurea
 | Mark Hopkins's The Law of Love (with McCosh's strictures); Questions of Modern Thought (multi-author); books he only introduced or edited | excluded | |
 | John McCosh, Andrew J. McCosh, Kate McCosh Clark | excluded | |
 | modern reprints | excluded | |
+
+## Alfred Edersheim (round 21, my pick, 2026-10-10)
+
+Slugs `edersheim-*`. Hebrew Christian scholar. CCEL's Life and Times was keyed from the 1953 Eerdmans reprint, so the 1884 Longmans second edition is shelved; the seven-volume RTS Bible History is complete.
+
+| Work | Status | Where |
+|---|---|---|
+| The Temple, its Ministry and Services as they were at the Time of Jesus Christ (London: Hodder and Stoughton, 1904) | have-clean | CCEL edersheim/temple |
+| Sketches of Jewish Social Life in the Days of Christ (London: Hodder and Stoughton, 1904) | have-clean | CCEL edersheim/sketches |
+| The Life and Times of Jesus the Messiah, vol. 1, second edition (London: Longmans, Green, 1884) | have-ocr | IA `india.history.resource.89536` |
+| The Life and Times of Jesus the Messiah, vol. 2, second edition (London: Longmans, Green, 1884) | have-ocr | IA `india.history.resource.89535` |
+| Bible History, vol. 1: The World before the Flood, and the History of the Patriarchs (London: Religious Tract Society; no year on title page, catalogued 1875) | have-ocr | IA `the-world-before-the-flood-and-the-history-of-the-patriarchs` |
+| Bible History, vol. 2: The Exodus and the Wanderings in the Wilderness (London: Religious Tract Society; no year on title page; preface February 1876) | have-ocr | IA `biblehistory02eder` |
+| Bible History, vol. 3: Israel in Canaan under Joshua and the Judges (London: Religious Tract Society; 4 Bouverie Street printing, no year on title page, catalogued 1877) | have-ocr | IA `israelincanaanun00eder` |
+| Bible History, vol. 4: Israel under Samuel, Saul, and David, to the Birth of Solomon (London: Religious Tract Society; no year on title page, catalogued 1875) | have-ocr | IA `biblehistory04eder` |
+| Bible History, vol. 5: History of Judah and Israel from the Birth of Solomon to the Reign of Ahab (London: Religious Tract Society; no year on title page; preface Easter 1880) | have-ocr | IA `biblehistory05eder` |
+| Bible History, vol. 6: The History of Israel and Judah from the Reign of Ahab to the Decline of the Two Kingdoms (London: Religious Tract Society; no year on title page, catalogued 1875) | have-ocr | IA `biblehistory06eder` |
+| Bible History, vol. 7: History of Israel and Judah from the Decline of the Two Kingdoms to the Assyrian and Babylonian Captivity (London: Religious Tract Society; 1887) | have-ocr | IA `biblehistory07eder` |
+| History of the Jewish Nation after the Destruction of Jerusalem under Titus, original edition (Edinburgh: Thomas Constable; year illegible, preface 3 May 1856) | have-ocr | IA `historyofjewishn0000eder_s1v8` |
+| The Golden Diary of Heart Converse with Jesus in the Book of Psalms (London: James Nisbet, 1866) | have-ocr | IA `TheGoldenDiaryOfHeart` |
+| Elisha the Prophet: the Lessons of his History and Times, new edition revised (London: Religious Tract Society; no year on title page, preface August 1882) | have-ocr | IA `A.Edersheim1882ElishaTheProphet` |
+| Prophecy and History in relation to the Messiah, the Warburton Lectures 1880-1884 (London: Longmans, Green, 1885) | have-ocr | IA `prophecyhistoryi00eder` |
+| Jesus the Messiah, his own abridgment of The Life and Times, author's edition, with a preface by W. Sanday (New York: Randolph; copyright 1890) | have-ocr | IA `jesusthemessiaha00ederuoft` |
+| CCEL edersheim/lifetimes: keyed from the 1953 Eerdmans reprint; the 1884 Longmans scans are shelved instead | alternate | not shelved |
+| The Temple and Sketches, RTS first printings (IA templeitsminist00eder, sketchesofjewish00ederrich) and American issues (James Pott, Ira Bradley, 1881): CCEL's text is shelved | alternate | not shelved |
+| Other editions of Life and Times (1886, 1887, 1900, Herrick), Bible History (Revell), Prophecy and History (prophecyandhisto00ederuoft, title-page year OCR'd 1865) and Jesus the Messiah (1898) | alternate | not shelved |
+| History of the Jewish Nation, third edition revised by Henry A. White (1896) | alternate | not shelved |
+| his translations of Kurtz, Chalybaus and Lange, and The Jubilee Rhythm of St. Bernard | excluded | |
+| books by his daughter Elise W. Giles | excluded | |
+| reprints from 1942 onward and Spanish translations | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
