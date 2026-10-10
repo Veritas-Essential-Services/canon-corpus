@@ -2783,3 +2783,25 @@ Slugs `brine-*`. Particular Baptist (1703-1765). Mostly ECCO first-edition scans
 | A Defence of the Doctrine of Eternal Justification (London: A. Ward; catalogued 1732) | have-ocr | IA `bim_eighteenth-century_a-defence-of-the-doctrin_brine-john_1732` |
 | Motives to Love and Unity among Calvinists (London: John Ward; catalogued 1753) | have-ocr | IA `bim_eighteenth-century_motives-to-love-and-unit_brine-john_1753` |
 | A Discourse on the Prayer of Jabez (London: Aaron Ward, M.DCC.XXXVI) | have-ocr | IA `bim_eighteenth-century_a-discourse-on-the-praye_brine-john_1736` |
+
+## R. W. Dale (round 17, my pick, 2026-10-10)
+
+Slugs `dale-*`. Congregationalist of Carr's Lane, Birmingham. Ten books from IA scans; two are "0000" ids whose title-page years (1895, 1899) were read and recorded in _rights_checked.
+
+| Work | Status | Where |
+|---|---|---|
+| The Atonement: The Congregational Union Lecture for 1875 (22nd ed., London: Congregational Union, 1902) | have-ocr | IA `theatonement00daleuoft` |
+| The Epistle to the Ephesians: Its Doctrine and Ethics (6th ed., London: Hodder and Stoughton, MDCCCXCII) | have-ocr | IA `cu31924029294232` |
+| Christian Doctrine: A Series of Discourses (5th thousand, London: Hodder and Stoughton, 1895) | have-ocr | IA `christiandoctrin0000dale` |
+| The Living Christ and the Four Gospels (2nd ed., London: Hodder and Stoughton; no year on title page, catalogued 1890) | have-ocr | IA `livingchristfourlond00dale` |
+| Nine Lectures on Preaching, Delivered at Yale (London: Hodder and Stoughton, MDCCCLXXVII) | have-ocr | IA `ninelecturesonpr00daleiala` |
+| Laws of Christ for Common Life (London: Hodder and Stoughton, MDCCCLXXXIV) | have-ocr | IA `lawsofchristforc00dale` |
+| Fellowship with Christ and Other Discourses (London: Hodder and Stoughton; no year on title page, catalogued 1892) | have-ocr | IA `fellowshipwithch00daleuoft` |
+| Essays and Addresses (London: Hodder and Stoughton, MDCCCXCIX; posthumous, with an editor's preface) | have-ocr | IA `essaysaddresses0000dale` |
+| Christ and the Future Life (London: Hodder and Stoughton, 1895) | have-ocr | IA `christandthefutu00daleuoft` |
+| A Manual of Congregational Principles (9th thousand, London: Hodder and Stoughton, MDCCCLXXXIV) | have-ocr | IA `amanualofcongreg00daleuoft` |
+| The Atonement, 5th ed. 1876 (IA atonement0000rwda; author line garbled) | alternate | not shelved |
+| The Living Christ and the Four Gospels (New York: A. C. Armstrong, 1890; IA livingchristfour00dale) | alternate | not shelved |
+| Essays and Addresses, 3rd ed. 1901 (IA essaysandaddress00daleuoft) | alternate | not shelved |
+| IA protestantism0000rwda: catalogued 1928, 70 pages, not checked further | excluded | |
+| IA livingchristfour0002rwda: catalogued 1903 as v2 of a one-volume work; unexplained | excluded | |
