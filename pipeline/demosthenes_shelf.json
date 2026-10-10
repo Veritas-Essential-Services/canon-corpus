@@ -234,7 +234,7 @@
  "_checks": {
   "demosthenes-kennedy-olynthiacs-philippics": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "demosthenes",
    "translator_claimed": "Charles Rann Kennedy",
@@ -246,7 +246,7 @@
   },
   "demosthenes-pickard-cambridge-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "demosthenes",
    "translator_claimed": "arthur wallace pickard-cambridge",
@@ -258,7 +258,7 @@
   },
   "demosthenes-pickard-cambridge-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "demosthenes",
    "translator_claimed": "arthur wallace pickard-cambridge",
@@ -270,7 +270,7 @@
   },
   "demosthenes-kennedy-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "demosthenes",
    "translator_claimed": "kennedy",
@@ -283,7 +283,7 @@
   },
   "demosthenes-kennedy-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "demosthenes",
    "translator_claimed": "Charles Rann Kennedy",
@@ -296,7 +296,7 @@
   },
   "demosthenes-kennedy-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "demosthenes",
    "translator_claimed": "rann kennedy",
@@ -309,7 +309,7 @@
   },
   "demosthenes-kennedy-v4": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "demosthenes",
    "translator_claimed": "Charles Rann Kennedy",
@@ -322,7 +322,7 @@
   },
   "demosthenes-kennedy-v5": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "demosthenes",
    "translator_claimed": "Charles Rann Kennedy",
@@ -335,7 +335,7 @@
   },
   "demosthenes-leland-1806-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "demosthenes",
    "translator_claimed": "Thomas Leland",
@@ -348,7 +348,7 @@
   },
   "demosthenes-leland-1806-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "demosthenes",
    "translator_claimed": "Thomas Leland",
@@ -361,7 +361,7 @@
   },
   "demosthenes-brougham-crown-1840": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "demosthenes",
    "identity": "ok",
@@ -372,7 +372,7 @@
   },
   "demosthenes-collier-crown-1876": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "demosthenes",
    "identity": "ok",
@@ -832,5 +832,9 @@
  "_translator_unchecked": {
   "demosthenes-brougham-crown-1840": "title page reads 'translated into English' by 'Henry Lord B[rough]am, F.R.S., and Member of the National Institute of France' (Charles Knight, 1840); the OCR garbles the surname, which the IA catalogue gives as Brougham",
   "demosthenes-collier-crown-1876": "title page reads 'translated by the Right Hon. Sir Robert Collier' (Longmans, 1876); the OCR prints 'SIR KOBEET COLLIEE'"
+ },
+ "_cross_ref": {
+  "aeschines-demosthenes-biddle-crown-1881": "Biddle's On the Crown (with Aeschines Against Ctesiphon, 1881) is held on the Aeschines shelf",
+  "aeschines-demosthenes-portal-crown-1814": "Portal's De Corona (with Aeschines Against Ctesiphon, 1814 edition) is held on the Aeschines shelf"
  }
 }
