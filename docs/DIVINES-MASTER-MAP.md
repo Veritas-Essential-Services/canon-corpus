@@ -2984,6 +2984,7 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | Oedipus at Colonus, closely translated from the Greek of Sophocles: an experiment in metre (London: Simpkin, Marshall, Hamilton, Kent, 1894) | Arthur Compton Auchmuty Hull | `sophocles-hull-oedipus-coloneus-1894` | have-raw (IA `cu31924026593511`) |
 | The Antigone of Sophocles, translated with introduction and notes (Boston and New York: Houghton Mifflin; copyright 1899, this printing undated) | George Herbert Palmer | `sophocles-palmer-antigone-1899` | have-raw (IA `antigoneofsophoc0000geor_m2w3`) |
 | The Tragedies of Sophocles, translated, a new edition (London: N. Bliss, 1820) | Robert Potter | `sophocles-potter-1820` | have-raw (IA `tragediesofsopho00soph_0`) |
+| The Tragedies of Sophocles, translated from the Greek (a new edition, 1818) | George Adams | `sophocles-george-adams-1818` | have-raw (IA `tragediesofso00soph`) |
 
 Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 
@@ -4012,6 +4013,7 @@ Shelf: `pipeline/theocritus_shelf.json`. Calverley's verse (Gutenberg) and the B
 | — | — | `lang theocritus-bion-moschus (PG 4775)` | cross-ref → lane D, pipeline/lang_shelf.json |
 | The Idylliums of Theocritus, translated from the Greek, with notes (London, 1767) | Francis Fawkes | `theocritus-fawkes-1767` | have-raw (IA `idylliumsoftheoc00theo`) |
 | The Idylls of Theocritus translated into English Verse (London: Rivingtons, 1901; revised from 1894) | James Henry Hallard | `theocritus-hallard-1901` | have-raw (IA `idyllsoftheocrit00theo`) |
+| Sicilian Idyls and Other Verses, translated from the Greek (Copeland and Day, 1898) | Jane Minot Sedgwick | `theocritus-sedgwick-sicilian-idyls-1898` | have-raw (IA `sicilianidylsan00sedggoog`) |
 
 Pending (wishlist): Edmonds Loeb (1912; Greek facing)
 
@@ -4155,6 +4157,7 @@ Shelf: `pipeline/julian_shelf.json`. Wright's Loeb vols. 1-2 (Gutenberg; facing 
 | The Works of the Emperor Julian, vol. 1 | Wilmer Cave Wright | `julian-wright-v1` | held: Gutenberg's transcription (PG 48664) includes a 'Bibliographical Addendum (1980)' from the reprint it was made from, which is not public domain by date; not fetched (see `_held`) |
 | The Works of the Emperor Julian, vol. 2 | Wilmer Cave Wright | `julian-wright-v2` | have (PG 48768) |
 | Julian the Emperor: Gregory Nazianzen's two Invectives, Libanius' Monody, and Julian's Upon the Sovereign Sun and Upon the Mother of the Gods (Bohn, 1888) | C. W. King | `julian-king-1888` | have-raw (IA `julianemperor00king`) |
+| The Works of the Emperor Julian, and some pieces of the sophist Libanius, vol. II (3rd ed. corrected, 1798) | John Duncombe | `julian-duncombe-1798-v2` | have-raw (IA `worksofemperorju02juliiala`) |
 
 Pending (wishlist): Wright vol. 3 (1923; the one scan reads 0.760 with Greek facing, held for the Greek-facing ruling)
 
@@ -4927,6 +4930,24 @@ Shelf: `pipeline/presocratics_shelf.json`. The fragments of the early Greek phil
 Pending (wishlist): Fairbanks's First Philosophers of Greece (1898) from a cleaner scan.
 
 Excluded: Fairbanks 1898 (Greek facing, OCR 0.73-0.77); Burnet's Early Greek Philosophy (a study, not a translation).
+
+## Paulus Aegineta
+
+Shelf: `pipeline/paulus-aegineta_shelf.json`. Francis Adams's Sydenham Society translation and commentary, 3 vols. (IA, BIU Sante scans).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Seven Books of Paulus Aegineta, vol. I (Sydenham Society, 1844) | Francis Adams | `paulus-aegineta-adams-1844-v1` | have-raw (IA `BIUSante_37321x01`) |
+| The Seven Books of Paulus Aegineta, vol. II (Sydenham Society, 1846) | Francis Adams | `paulus-aegineta-adams-1846-v2` | have-raw (IA `BIUSante_37321x02`) |
+| The Seven Books of Paulus Aegineta, vol. III (Sydenham Society, 1847) | Francis Adams | `paulus-aegineta-adams-1847-v3` | have-raw (IA `BIUSante_37321x03`) |
+
+## Phalaris
+
+Shelf: `pipeline/phalaris_shelf.json`. Thomas Francklin's Epistles of Phalaris (1749).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Epistles of Phalaris, with select epistles of other Greek writers (1749) | Thomas Francklin | `phalaris-francklin-1749` | have-raw (IA `bib_fict_971306`) |
 
 ## Perseus census (overflow)
 

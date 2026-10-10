@@ -980,6 +980,14 @@
    "started": "2026-10-10T09:54:27-05:00",
    "finished": "2026-10-10T10:00:56-05:00",
    "notes": "Found Smart's verse Horace vols. II and IV (1767) and Pitt and Warton's Works of Virgil vols. II and IV in the 1778 third edition, which fills the 1763 set's Aeneid gap (mixed editions, noted). Still missing: Smart verse vol. III; Thornton's Plautus vols. III-V."
+  },
+  {
+   "id": "round-2026-10-10i",
+   "status": "done",
+   "scope": "Sweep of 'translated from the Greek/Latin' titles: Paulus Aegineta, Phalaris, Sophocles, Julian, Theocritus",
+   "started": "2026-10-10T10:00:56-05:00",
+   "finished": "2026-10-10T10:07:08-05:00",
+   "notes": "7 volumes added; Duncombe's Julian vol. I excluded (no title page)"
   }
  ]
 }

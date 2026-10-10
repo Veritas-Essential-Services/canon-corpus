@@ -164,3 +164,4 @@
 - Round 2026-10-10f (09:48): three volumes added; Goldwin Smith's Euripides excerpts taken back out. No decision needed.
 - Round 2026-10-10g (09:54): six volumes added from retries of refused items; no decision needed.
 - Round 2026-10-10h (10:00): four volumes added. The Pitt and Warton set now mixes two editions (1763 and 1778); say if you want it re-taken as one edition. No decision needed otherwise.
+- Round 2026-10-10i (10:07): seven volumes added, two new shelves (Paulus Aegineta, Phalaris). No decision needed.

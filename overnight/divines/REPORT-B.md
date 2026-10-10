@@ -616,3 +616,10 @@
 - Added: Smart's verse Horace vols. II and IV (1767); Pitt and Warton's Virgil vols. II and IV (3rd ed., 1778)
 - The Virgil set now mixes the 1763 and 1778 editions; the 1778 vols. I and III are on IA if a single-edition set is preferred
 - Still missing: Smart's verse Horace vol. III; Thornton's Plautus vols. III-V
+
+## 2026-10-10 10:07 CDT — Round 2026-10-10i: seven volumes
+- Paulus Aegineta, Francis Adams, 3 vols. (Sydenham Society, 1844-1847): new shelf paulus-aegineta
+- Epistles of Phalaris, Thomas Francklin (1749): new shelf phalaris
+- Sophocles, George Adams, new edition (1818)
+- Julian, John Duncombe vol. II (3rd ed., 1798); vol. I has no title page in its scan, excluded
+- Sicilian Idyls, Jane Minot Sedgwick (Boston, 1898): US PD by date; translator's death year not checked
