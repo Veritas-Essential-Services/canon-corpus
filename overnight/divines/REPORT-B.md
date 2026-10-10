@@ -611,3 +611,8 @@
 - Added: Smart's prose Horace (1780, 2 vols.), Smart's verse Horace (1767, vol. I), Thornton's Plautus (1769, vols. I-II), Angel Day's Daphnis and Chloe (1890 reprint of 1587)
 - Held back: Thornley's Daphnis (modern reprint with no printed year)
 - Still wanted from cleaner scans: Aristaenetus 1771, Taylor's Julian 1793, Mawer's Oppian 1736, Gillies's Lysias 1778, Dart's Tibullus 1720, Pitt's Aeneid 1740, Polwhele's Theocritus
+
+## 2026-10-10 10:00 CDT — Round 2026-10-10h: missing volumes
+- Added: Smart's verse Horace vols. II and IV (1767); Pitt and Warton's Virgil vols. II and IV (3rd ed., 1778)
+- The Virgil set now mixes the 1763 and 1778 editions; the 1778 vols. I and III are on IA if a single-edition set is preferred
+- Still missing: Smart's verse Horace vol. III; Thornton's Plautus vols. III-V

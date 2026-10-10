@@ -2784,6 +2784,8 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | A Translation of Virgil's Eclogues into Rhythmic Prose, based on those in Professor Conington's edition (London: Longmans, Green, Reader, and Dyer, 1870) | E. M. Millington | `virgil-millington-eclogues-1870` | have-raw (IA `atranslationvir00marogoog`) |
 | A Translation of the First Book of the Georgics of Virgil, in Blank Verse, with notes critical and explanatory (London: W. Phillips, 1825) | Robert Hoblyn | `virgil-hoblyn-georgics-i-1825` | have-raw (IA `atranslationfir00marogoog`) |
 | The Eclogues of Virgil translated into English verse (printed for private distribution, 1868) | Henry Duncan Skrine | `virgil-skrine-eclogues-1868` | have-raw (IA `ecloguesofvirgil00vir`) |
+| The Works of Virgil in Latin and English, third edition with considerable improvements, vol. II (London: J. Dodsley, 1778) | Christopher Pitt (Aeneid) and Joseph Warton | `virgil-pitt-warton-1778-v2` | have-raw (IA `worksvirgilinla00virggoog`) |
+| The Works of Virgil in Latin and English, third edition with considerable improvements, vol. IV: Aeneid IX-XII (London: J. Dodsley, 1778) | Christopher Pitt (Aeneid) and Joseph Warton | `virgil-pitt-warton-1778-v4` | have-raw (IA `worksvirgilinla01virggoog`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
@@ -3610,6 +3612,8 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The Works of Horace, translated literally into English prose, fifth edition, vol. I (London: T. Carnan, 1780; Latin facing) | Christopher Smart | `horace-smart-prose-1780-v1` | have-raw (IA `workshorace04smargoog`) |
 | The Works of Horace, translated literally into English prose, fifth edition, vol. II (London: T. Carnan, 1780; Latin facing) | Christopher Smart | `horace-smart-prose-1780-v2` | have-raw (IA `workshorace01smargoog`) |
 | The Works of Horace, translated into verse, vol. I of four (London: W. Flexney, J. Johnson and T. Caslon, 1767) | Christopher Smart | `horace-smart-verse-1767-v1` | have-raw (IA `workshorace03smargoog`) |
+| The Works of Horace, translated into verse, with a prose interpretation, vol. II (London: W. Flexney and others, 1767) | Christopher Smart | `horace-smart-verse-1767-v2` | have-raw (IA `workshorace11horagoog`) |
+| The Works of Horace, translated into verse, with a prose interpretation, vol. IV (London: W. Flexney and others, 1767) | Christopher Smart | `horace-smart-verse-1767-v4` | have-raw (IA `workshorace08horagoog`) |
 
 Pending (wishlist): Smart's prose in its first, unrevised form (1756) from a cleaner scan than the ECCO OCR (0.74-0.76), which was refused.
 

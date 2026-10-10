@@ -972,6 +972,14 @@
    "started": "2026-10-10T09:48:14-05:00",
    "finished": "2026-10-10T09:54:27-05:00",
    "notes": "Found cleaner or other editions for four refused or wanted items: Smart's prose Horace (5th ed. 1780, 2 vols.) and his verse Horace (1767, vol. I), Thornton's Plautus (2nd ed. 1769, vols. I-II), and Angel Day's Daphnis and Chloe (1587, Jacobs's 1890 reprint). Thornley's Daphnis held back (undated modern reprint). Still not found cleaner: Aristaenetus, Taylor's Julian, Mawer's Oppian, Gillies's Lysias, Dart's Tibullus, Pitt's Aeneid, Polwhele's Theocritus."
+  },
+  {
+   "id": "round-2026-10-10h",
+   "status": "done",
+   "scope": "Missing-volume hunt: Smart's verse Horace, Thornton's Plautus III-V, Pitt and Warton II and IV",
+   "started": "2026-10-10T09:54:27-05:00",
+   "finished": "2026-10-10T10:00:56-05:00",
+   "notes": "Found Smart's verse Horace vols. II and IV (1767) and Pitt and Warton's Works of Virgil vols. II and IV in the 1778 third edition, which fills the 1763 set's Aeneid gap (mixed editions, noted). Still missing: Smart verse vol. III; Thornton's Plautus vols. III-V."
   }
  ]
 }
