@@ -60,6 +60,11 @@
    "meditationsempe02gatagoog",
    "Meditations of the Emperor Marcus Aurelius Antoninus, vol. II (Glasgow: Robert and Andrew Foulis, 1749)",
    "tr. anonymous (the title page names no translator)"
+  ],
+  "marcus-aurelius-mccormac-1844": [
+   "meditationsmarc00arrigoog",
+   "The Meditations of Marcus Aurelius Antoninus, with the Manual of Epictetus and a Summary of Christian Morality, freely translated from the original Greek (London: Longman, Brown, Green and Longmans, 1844)",
+   "tr. Henry M'Cormac"
   ]
  },
  "_cross_ref": {
@@ -83,7 +88,8 @@
   "marcus-aurelius-collier": "Jeremy Collier",
   "marcus-aurelius-rendall": "Gerald H. Rendall",
   "marcus-aurelius-casaubon-everyman": "Meric Casaubon",
-  "marcus-aurelius-collier-zimmern-1887": "Jeremy Collier"
+  "marcus-aurelius-collier-zimmern-1887": "Jeremy Collier",
+  "marcus-aurelius-mccormac-1844": "henry m'cormac"
  },
  "_translator_unchecked": {
   "marcus-aurelius-jackson-1906": "translator on the row (John Jackson (from the catalogue; the scan's title page names no translator)) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -211,6 +217,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1749",
    "ia_date": "1749",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "marcus-aurelius-mccormac-1844": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "antoninus",
+   "translator_claimed": "henry m'cormac",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

@@ -827,6 +827,7 @@ Shelf: `pipeline/marcus-aurelius_shelf.json`. Long (1862) and Chrystal (1902), c
 | The Meditations of Marcus Aurelius (Camelot Series; London: Walter Scott, 1887) | Jeremy Collier, revised by Alice Zimmern | `marcus-aurelius-collier-zimmern-1887` | have-raw (IA `meditationsmarc02collgoog`) |
 | Meditations of the Emperor Marcus Aurelius Antoninus, newly translated from the Greek, with notes and an account of his life, second edition, vol. I (Glasgow: Robert and Andrew Foulis, 1749) | anonymous (the title page names no translator) | `marcus-aurelius-foulis-1749-v1` | have-raw (IA `meditationsempe01gatagoog`) |
 | Meditations of the Emperor Marcus Aurelius Antoninus, vol. II (Glasgow: Robert and Andrew Foulis, 1749) | anonymous (the title page names no translator) | `marcus-aurelius-foulis-1749-v2` | have-raw (IA `meditationsempe02gatagoog`) |
+| The Meditations of Marcus Aurelius Antoninus, with the Manual of Epictetus and a Summary of Christian Morality, freely translated from the original Greek (London: Longman, Brown, Green and Longmans, 1844) | Henry M'Cormac | `marcus-aurelius-mccormac-1844` | have-raw (IA `meditationsmarc00arrigoog`) |
 
 Pending (wishlist): Haines's Loeb (1916; Greek facing).
 
