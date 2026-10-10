@@ -1,0 +1,103 @@
+{
+ "_about": "Charles Merivale (1808-1893), later Dean of Ely: History of the Romans under the Empire, the Longmans new edition in eight volumes, vols. I-V, each title page dated 1865 (vol. V's year reads 'ia65' in the OCR), raw IA OCR. Vol. I's imprint reads 'Longmans, Green, and Co.' and vols. II-V 'Longman, Green, Longman, Roberts, & Green'; the firm took the shorter name in 1865, so both imprints can carry that year. Vols. VI-VIII were found only in later impressions of the same edition (VI 1868 and 1872, VII 1904 'new impression', VIII 1872), and are held for Adam's ruling on later printings. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "merivale"
+ ],
+ "_surname": [
+  "charles merivale",
+  "c. merivale",
+  "merivale, charles"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "merivale-romans-empire-v1-1865": [
+   "historyofromans01meri",
+   "History of the Romans under the Empire, new edition in eight volumes, vol. I (London: Longmans, Green, and Co., 1865)"
+  ],
+  "merivale-romans-empire-v2-1865": [
+   "ahistoryromansu05merigoog",
+   "History of the Romans under the Empire, new edition in eight volumes, vol. II (London: Longman, Green, Longman, Roberts, & Green, 1865)"
+  ],
+  "merivale-romans-empire-v3-1865": [
+   "historyofromansu03meriiala",
+   "History of the Romans under the Empire, new edition in eight volumes, vol. III (London: Longman, Green, Longman, Roberts, & Green, 1865)"
+  ],
+  "merivale-romans-empire-v4-1865": [
+   "ahistoryromansu00merigoog",
+   "History of the Romans under the Empire, new edition in eight volumes, vol. IV (London: Longman, Green, Longman, Roberts, & Green, 1865)"
+  ],
+  "merivale-romans-empire-v5-1865": [
+   "ahistoryromansu01merigoog",
+   "History of the Romans under the Empire, new edition in eight volumes, vol. V (London: Longman, Green, Longman, Roberts, & Green, 1865)"
+  ]
+ },
+ "_checks": {
+  "merivale-romans-empire-v1-1865": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles merivale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "merivale-romans-empire-v2-1865": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles merivale",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "merivale-romans-empire-v3-1865": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "merivale-romans-empire-v4-1865": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "merivale-romans-empire-v5-1865": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "merivale-romans-empire-v3-1865": {
+   "author": "title page read 2026-10-10: OCR gives 'CHARLES MEKIVALE, B.D. RECTOR OF LAWFORD', new edition in eight volumes, vol. III, 1865 (Charles Merivale); the OCR misreads R as K"
+  },
+  "merivale-romans-empire-v4-1865": {
+   "author": "title page read 2026-10-10: OCR gives 'CHARLES MEBIVALE, B.D. RECTOB OF LAWFOBD', new edition in eight volumes, vol. IV, 1865 (Charles Merivale); the OCR misreads R as B"
+  },
+  "merivale-romans-empire-v5-1865": {
+   "author": "title page read 2026-10-10: OCR gives 'CHAELES MERIVALE, B.D.', new edition, vol. V, 1865 (Charles Merivale); the OCR misreads the forename"
+  }
+ }
+}
