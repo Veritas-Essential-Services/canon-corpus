@@ -57,7 +57,8 @@
  "_excluded": {
   "Sandys, Loeb Pindar (1915)": "US PD by date but Greek facing; pending, like the other Loebs",
   "odespindar00conggoog": "1852 first printing of the Turner/Moore Bohn; lower OCR quality than the 1872 reprint (clean-word 0.835 vs 0.872)",
-  "olympicpythianod00pindiala": "Moore's verse alone, c1903 reprint; duplicates the Bohn appendix"
+  "olympicpythianod00pindiala": "Moore's verse alone, c1903 reprint; duplicates the Bohn appendix",
+  "Six Olympic Odes of Pindar, being those omitted by Mr. West (London: Benjamin White, 1775)": "PD; the only scan found (IA bim_eighteenth-century_six-olympic-odes-of-pind_pindar_1775, ECCO) reads 0.760, under the bar; refused for OCR quality 2026-10-10. The translator is not named legibly in the OCR"
  },
  "_surname": [
   "pindar",

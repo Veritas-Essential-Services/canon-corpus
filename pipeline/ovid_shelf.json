@@ -106,7 +106,8 @@
   "Brookes More, Metamorphoses": "now held from Perseus: ovid-perseus-more-metamorphoses, whose TEI source record gives Boston: Cornhill, 1922 (US public domain). The earlier note here, that only Book I appeared in 1922, is superseded by that record",
   "Marlowe, All Ovid's Elegies (Amores)": "PD; inside The Works of Christopher Marlowe, vol. 3 (PG 21262), a whole Marlowe volume. Pending: belongs to a Marlowe shelf if one is built, cross-referenced from here",
   "A. S. Kline and other modern translations": "copyrighted",
-  "heroidesorepist00ovidiala (1885), fastitristiapont00oviduoft (1876)": "later reprints of the same Riley volumes; the first printings kept"
+  "heroidesorepist00ovidiala (1885), fastitristiapont00oviduoft (1876)": "later reprints of the same Riley volumes; the first printings kept",
+  "William Massey, Ovid's Fasti, or the Romans' Sacred Calendar (1757)": "PD; the only scan found (IA bim_eighteenth-century_fasti-english-1757-_ovidius-naso-publius_1757, ECCO) reads 0.738 clean words, under the bar; refused for OCR quality 2026-10-10. Translator per the catalogue; the title-page OCR breaks the name"
  },
  "_convert_hints": {
   "_note": "Verse texts: tried with structure_texts.convert_gutenberg_verse(path, slug, title, author, abbr, divre) using this divre; unit counts from that trial (12-line blocks). Everything else converts as prose with contents_chapre. For the manifest entry when Adam adds these to the build; nothing here is wired in.",

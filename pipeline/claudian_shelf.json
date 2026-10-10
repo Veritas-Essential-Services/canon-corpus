@@ -34,7 +34,8 @@
   ]
  },
  "_excluded": {
-  "Hawkins vol. 2": "worksclaudian01hawkgoog has no text layer; pending"
+  "Hawkins vol. 2": "worksclaudian01hawkgoog has no text layer; pending",
+  "Jabez Hughes, Claudian the Poet his Elegant History of Rufinus, with Etna and passages of Statius, Orpheus and others (1741)": "PD; the only scan found (IA bim_eighteenth-century_claudian-the-poet-his-el_hughes-jabez_1741, ECCO) reads 0.665, under the bar; refused for OCR quality 2026-10-10"
  },
  "_surname": [
   "claudian",
