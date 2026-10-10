@@ -225,6 +225,11 @@
    "worksvirgilinla01virggoog",
    "The Works of Virgil in Latin and English, third edition with considerable improvements, vol. IV: Aeneid IX-XII (London: J. Dodsley, 1778)",
    "tr. Christopher Pitt (Aeneid) and Joseph Warton"
+  ],
+  "virgil-honey-georgic-iv-1859": [
+   "translationintoe00virg",
+   "A Translation into English Verse of Virgil's Fourth Georgic (Leamington: Nathaniel Merridew, 1859)",
+   "tr. Charles Robertson Honey"
   ]
  },
  "_cross_ref": {
@@ -309,7 +314,8 @@
   "virgil-millington-eclogues-1870": "e. m. millington",
   "virgil-hoblyn-georgics-i-1825": "robert hoblyn",
   "virgil-pitt-warton-1778-v2": "joseph warton",
-  "virgil-pitt-warton-1778-v4": "joseph warton"
+  "virgil-pitt-warton-1778-v4": "joseph warton",
+  "virgil-honey-georgic-iv-1859": "charles robertson honey"
  },
  "_translator_unchecked": {
   "virgil-rhoades-eclogues": "translator on the row (James Rhoades (verse); PG names no translator: identified by collating its openi) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -867,6 +873,19 @@
    "ia_rights": "ok: published 1778",
    "ia_date": "1778",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "virgil-honey-georgic-iv-1859": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "virgil",
+   "translator_claimed": "charles robertson honey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
   }
  },
