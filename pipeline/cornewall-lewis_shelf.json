@@ -1,0 +1,48 @@
+{
+ "_about": "Sir George Cornewall Lewis (1806-1863), An Inquiry into the Credibility of the Early Roman History, 2 vols. (London: Parker, 1855): An Inquiry into the Credibility of the Early Roman History, vol. I (London: John W. Parker and Son, 1855); An Inquiry into the Credibility of the Early Roman History, vol. II (London: John W. Parker and Son, 1855), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "lewis",
+  "cornewall"
+ ],
+ "_surname": [
+  "george cornewall lewis",
+  "g. c. lewis",
+  "lewis, george cornewall"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cornewall-lewis-credibility-early-roman-history-v1-1855": [
+   "inquiryintocred01lewi",
+   "An Inquiry into the Credibility of the Early Roman History, vol. I (London: John W. Parker and Son, 1855)"
+  ],
+  "cornewall-lewis-credibility-early-roman-history-v2-1855": [
+   "inquiryintocred02lewi",
+   "An Inquiry into the Credibility of the Early Roman History, vol. II (London: John W. Parker and Son, 1855)"
+  ]
+ },
+ "_checks": {
+  "cornewall-lewis-credibility-early-roman-history-v1-1855": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george cornewall lewis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cornewall-lewis-credibility-early-roman-history-v2-1855": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george cornewall lewis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

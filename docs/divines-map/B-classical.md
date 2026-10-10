@@ -3052,6 +3052,8 @@ Shelf: `pipeline/cornewall-lewis_shelf.json`. An Inquiry into the Credibility of
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| An Inquiry into the Credibility of the Early Roman History, vol. I (London: John W. Parker and Son, 1855) |  | `cornewall-lewis-credibility-early-roman-history-v1-1855` | have-raw (IA `inquiryintocred01lewi`) |
+| An Inquiry into the Credibility of the Early Roman History, vol. II (London: John W. Parker and Son, 1855) |  | `cornewall-lewis-credibility-early-roman-history-v2-1855` | have-raw (IA `inquiryintocred02lewi`) |
 
 ## S. H. Butcher (scholarship)
 
