@@ -738,3 +738,9 @@
 - Geography: Bunbury's History of Ancient Geography (2 vols., 1879); Tozer's History of Ancient Geography (1897)
 - Topography: Dyer's Ancient Athens (1873) and City of Rome (2nd ed., 1883); Middleton's Remains of Ancient Rome (2 vols., 1892); Christopher Wordsworth's Athens and Attica (2nd ed., 1837)
 - Manuals: Ramsay's Manual of Roman Antiquities (2nd ed., 1851); Gardner and Jevons's Manual of Greek Antiquities (2nd ed., 1898) on the percy-gardner shelf
+
+## 2026-10-10 12:04 CDT — Round 2026-10-10aa: 5 volumes on 4 new shelves
+- Reference works: Anthon's Classical Dictionary (Harper, 1848 printing), Rich's Dictionary of Roman and Greek Antiquities (4th ed., 1874), Peck's Harper's Dictionary of Classical Literature and Antiquities (1898 printing)
+- Liddell's History of Rome, 2 vols. (Murray, 1855)
+- Under the bar: Fynes Clinton's Fasti Hellenici and Fasti Romani (0.58-0.76; the chronological tables defeat the OCR)
+- Not taken: Lempriere's Classical Dictionary on Gutenberg (PG 68769) is a 1904 Routledge text whose transcribers expanded the abbreviations, an editorial change in the same family as the Perseus modernized texts; held rather than decided in the lane. An unexpanded scan is wanted
