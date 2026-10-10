@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Margaret P. Waterman (d. 1926): W. Heimburg's A Sister's Love (1890) and Schnapps's Archag, the Little Armenian (1898). US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted.",
+ "_name_words": [
+  "margaret p. waterman",
+  "margaret payson waterman"
+ ],
+ "_surname": [
+  "margaret p. waterman",
+  "margaret payson waterman"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mpt-33958": [
+   33958,
+   "A Sister's Love: A Novel"
+  ],
+  "mpt-52638": [
+   52638,
+   "Archag, the Little Armenian"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "mp-waterman-heimburg-a-sister-s-love-a-novel": {
+   "source": "mpt-33958",
+   "of": "W. Heimburg",
+   "work": "A Sister's Love: A Novel",
+   "translated": "1890-1898 (see the Gutenberg header)",
+   "translator": "Margaret P. Waterman",
+   "scan_edition": "Project Gutenberg 33958 (clean text)"
+  },
+  "mp-waterman-schnapps-archag-the-little-armenian": {
+   "source": "mpt-52638",
+   "of": "Charles H. Schnapps",
+   "work": "Archag, the Little Armenian",
+   "translated": "1890-1898 (see the Gutenberg header)",
+   "translator": "Margaret P. Waterman",
+   "scan_edition": "Project Gutenberg 52638 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mpt-33958": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "margaret p. waterman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Margaret Payson Waterman"
+  },
+  "mpt-52638": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "margaret p. waterman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Margaret Payson Waterman"
+  }
+ },
+ "_verified": {
+  "mpt-33958": {
+   "pg": 33958,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Margaret Payson Waterman"
+  },
+  "mpt-52638": {
+   "pg": 52638,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Margaret Payson Waterman"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

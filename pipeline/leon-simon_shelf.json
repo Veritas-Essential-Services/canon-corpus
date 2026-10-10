@@ -1,0 +1,77 @@
+{
+ "_about": "TRANSLATOR SHELF: Leon Simon (1881-1965): Ahad Ha'am's Ten Essays on Zionism and Judaism (1922) and Einstein's About Zionism (1930). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted.",
+ "_name_words": [
+  "leon simon"
+ ],
+ "_surname": [
+  "leon simon"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "lsi-67667": [
+   67667,
+   "Ten Essays on Zionism and Judaism"
+  ],
+  "lsi-79647": [
+   79647,
+   "About Zionism"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "leon-simon-ahad-ha-am-ten-essays-on-zionism-and-judaism": {
+   "source": "lsi-67667",
+   "of": "Ahad Ha'am",
+   "work": "Ten Essays on Zionism and Judaism",
+   "translated": "1922-1930 (see the Gutenberg header)",
+   "translator": "Leon Simon",
+   "scan_edition": "Project Gutenberg 67667 (clean text)"
+  },
+  "leon-simon-einstein-about-zionism": {
+   "source": "lsi-79647",
+   "of": "Albert Einstein",
+   "work": "About Zionism",
+   "translated": "1922-1930 (see the Gutenberg header)",
+   "translator": "Leon Simon",
+   "scan_edition": "Project Gutenberg 79647 (clean text)",
+   "note": "Soncino Press, London, 1930; no copyright line printed. A 1930 publication entered the US public domain on 1 January 2026."
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "lsi-67667": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leon simon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Leon Simon"
+  },
+  "lsi-79647": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "leon simon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Leon Simon"
+  }
+ },
+ "_verified": {
+  "lsi-67667": {
+   "pg": 67667,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Leon Simon"
+  },
+  "lsi-79647": {
+   "pg": 79647,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Leon Simon"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,104 @@
+{
+ "_about": "TRANSLATOR SHELF: Charles R. Murphy (b. 1884): Verhaeren's love poems in three books, The Sunlit Hours, Afternoon and The Evening Hours (1916-1917). US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted.",
+ "_name_words": [
+  "charles r. murphy",
+  "charles royier murphy"
+ ],
+ "_surname": [
+  "charles r. murphy",
+  "charles royier murphy"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "crm-45465": [
+   45465,
+   "The Sunlit Hours"
+  ],
+  "crm-45466": [
+   45466,
+   "Afternoon"
+  ],
+  "crm-45467": [
+   45467,
+   "The Evening Hours"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "cr-murphy-verhaeren-afternoon": {
+   "source": "crm-45466",
+   "of": "Emile Verhaeren",
+   "work": "Afternoon",
+   "translated": "1916-1917 (see the Gutenberg header)",
+   "translator": "Charles R. Murphy",
+   "scan_edition": "Project Gutenberg 45466 (clean text)"
+  },
+  "cr-murphy-verhaeren-the-evening-hours": {
+   "source": "crm-45467",
+   "of": "Emile Verhaeren",
+   "work": "The Evening Hours",
+   "translated": "1916-1917 (see the Gutenberg header)",
+   "translator": "Charles R. Murphy",
+   "scan_edition": "Project Gutenberg 45467 (clean text)"
+  },
+  "cr-murphy-verhaeren-the-sunlit-hours": {
+   "source": "crm-45465",
+   "of": "Emile Verhaeren",
+   "work": "The Sunlit Hours",
+   "translated": "1916-1917 (see the Gutenberg header)",
+   "translator": "Charles R. Murphy",
+   "scan_edition": "Project Gutenberg 45465 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "crm-45465": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles r. murphy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Royier Murphy"
+  },
+  "crm-45466": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles r. murphy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Royier Murphy"
+  },
+  "crm-45467": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles r. murphy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Royier Murphy"
+  }
+ },
+ "_verified": {
+  "crm-45465": {
+   "pg": 45465,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Royier Murphy"
+  },
+  "crm-45466": {
+   "pg": 45466,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Royier Murphy"
+  },
+  "crm-45467": {
+   "pg": 45467,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Royier Murphy"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

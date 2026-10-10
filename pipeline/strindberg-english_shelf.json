@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Strindberg in English before 1931, by translator: Edwin Björkman (Scribner's Plays series, 1912-16), Edith and Warner Oland (1912), Claud Field (1912-15), Ellie Schleussner (1912-13). Each title gates on its own translator (_surname_by_slug). US public domain (pre-1931). Added 2026-10-10 by lane C (round 12); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Strindberg in English before 1931, by translator: Edwin Björkman (Scribner's Plays series, 1912-16), Edith and Warner Oland (1912), Claud Field (1912-15), Ellie Schleussner (1912-13), Velma Swanston Howard (Lucky Pehr, 1912; added round 38). Each title gates on its own translator (_surname_by_slug). US public domain (pre-1931). Added 2026-10-10 by lane C (round 12); Adam may veto. No uids minted.",
  "_name_words": [
   "bjorkman",
   "björkman",
@@ -9,6 +9,7 @@
   "ellie schleussner",
   "oland",
   "schleussner",
+  "velma swanston howard",
   "warner oland"
  ],
  "_surname": [
@@ -84,6 +85,9 @@
    "edwin björkman",
    "björkman",
    "bjorkman"
+  ],
+  "sb-howard-lucky-pehr": [
+   "velma swanston howard"
   ]
  },
  "_surname_note": "'oland', 'björkman' and 'schleussner' are surnames, not English words; Field always as 'claud field'.",
@@ -148,6 +152,10 @@
   "strindberg-english-pg44107": [
    44107,
    "The Growth of a Soul"
+  ],
+  "sb-howard-lucky-pehr": [
+   8510,
+   "Lucky Pehr"
   ]
  },
  "internet_archive": {
@@ -245,6 +253,15 @@
    "translated": 1913,
    "translator": "Claud Field",
    "scan_edition": "Project Gutenberg 44118 (clean text)"
+  },
+  "strindberg-howard-lucky-pehr": {
+   "source": "sb-howard-lucky-pehr",
+   "of": "Strindberg",
+   "work": "Lucky Pehr",
+   "translated": 1912,
+   "translator": "Velma Swanston Howard",
+   "scan_edition": "Project Gutenberg 8510 (clean text)",
+   "added": "2026-10-10, lane C round 38 (gap-fill); Adam may veto"
   },
   "strindberg-oland-plays-1": {
    "source": "sb-oland-plays-1",
@@ -433,6 +450,15 @@
    "pg_copyrighted": false,
    "pg_translator": "Claud Field"
   },
+  "sb-howard-lucky-pehr": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "velma swanston howard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Velma Swanston Howard"
+  },
   "sb-bjorkman-plays-1": {
    "kind": "ia",
    "checked": "2026-10-10",
@@ -520,6 +546,11 @@
    "pg": 44107,
    "pg_copyrighted_marker": false,
    "pg_translator": "Claud Field"
+  },
+  "sb-howard-lucky-pehr": {
+   "pg": 8510,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Velma Swanston Howard"
   },
   "sb-bjorkman-plays-1": {
    "ia": "playsbyauguststr00stri",
