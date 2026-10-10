@@ -1,0 +1,38 @@
+{
+ "_about": "Oskar Seyffert (1841-1906), A Dictionary of Classical Antiquities, Mythology, Religion, Literature and Art, from the German, revised and edited with additions by Henry Nettleship (1839-1893) and J. E. Sandys (1844-1922) (London, 1891), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "seyffert"
+ ],
+ "_surname": [
+  "oskar seyffert",
+  "dr. oskar seyffert",
+  "seyffert, oskar"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "seyffert-dictionary-classical-antiquities-1891": [
+   "cu31924028214637",
+   "A Dictionary of Classical Antiquities, Mythology, Religion, Literature and Art, from the German of Dr. Oskar Seyffert, revised and edited by Henry Nettleship and J. E. Sandys (London: Swan Sonnenschein, 1891)",
+   "tr. Henry Nettleship and J. E. Sandys"
+  ]
+ },
+ "_translators": {
+  "seyffert-dictionary-classical-antiquities-1891": "Nettleship"
+ },
+ "_checks": {
+  "seyffert-dictionary-classical-antiquities-1891": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "oskar seyffert",
+   "translator_claimed": "Nettleship",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

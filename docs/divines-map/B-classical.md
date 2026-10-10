@@ -2945,6 +2945,7 @@ Shelf: `pipeline/seyffert_shelf.json`. Seyffert's Dictionary of Classical Antiqu
 
 | Work | Translator / editors | Slug | Status |
 |---|---|---|---|
+| A Dictionary of Classical Antiquities, Mythology, Religion, Literature and Art, from the German of Dr. Oskar Seyffert, revised and edited by Henry Nettleship and J. E. Sandys (London: Swan Sonnenschein, 1891) | Nettleship | `seyffert-dictionary-classical-antiquities-1891` | have-raw (IA `cu31924028214637`) |
 
 ## W. A. Becker (scholarship)
 
