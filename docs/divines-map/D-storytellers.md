@@ -3189,6 +3189,16 @@ Shelf: `pipeline/edward-lear_shelf.json` (2026-10-02; added at the coordinator's
 | More Nonsense | have | PG 13648, `lear-more-nonsense` (155 units) |
 | Laughable Lyrics | have | PG 13649, `lear-laughable-lyrics` (177 units) |
 
+## Palmer Cox
+
+Shelf: `pipeline/palmer-cox_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Three Brownie books in verse; cut by poem or chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Brownies: Their Book | have | PG 32210, `pcox-brownies-their-book` (340 units) |
+| Another Brownie Book | have | PG 58598, `pcox-another-brownie-book` (168 units) |
+| The Brownies and Prince Florimel; Or, Brownieland, Fairyland, and Demonland | have | PG 40502, `pcox-brownies-and-prince-florimel` (1312 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
