@@ -784,3 +784,6 @@
 
 ## 2026-10-10 10:29 CDT — j-h-kurtz done
 - `pipeline/j-h-kurtz_shelf.json`: 0 CCEL, 3 PG, 5 IA. Title pages read for kurtz-old-covenant-2, kurtz-old-covenant-3, kurtz-sacrificial-worship-1863 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:30 CDT: round 16 complete
+- 12 shelves (Arnot, James Hamilton of Regent Square, John Ker, Stalker, Blaikie, Godet, Dorner, Julius Müller, Stier, Luthardt, Christlieb, Kurtz). Shelf names and source ids checked on every remote branch: no clashes. Round 17 next: the six pickups the Classical reading-lists thread left for existing shelves, then new authors.
