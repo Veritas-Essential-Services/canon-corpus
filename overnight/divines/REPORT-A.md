@@ -898,3 +898,6 @@
 
 ## 2026-10-10 13:15 CDT — g-campbell-morgan done
 - `pipeline/g-campbell-morgan_shelf.json`: 0 CCEL, 0 PG, 36 IA. Title pages read for morgan-analyzed-bible-01 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — round 19 closed
+- Twelve new shelves (Mahan, Upham, Moses D. Hoge, Krauth, Schmucker, Walther, Gerhart, Griffith Thomas, Forsyth, Flint, H. R. Mackintosh, Campbell Morgan). 0 uids minted.
