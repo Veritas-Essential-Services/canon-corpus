@@ -1020,6 +1020,14 @@
    "started": "2026-10-10T10:34:06-05:00",
    "finished": "2026-10-10T10:37:47-05:00",
    "notes": "1 volume added; 1 held back undated; 16 refusals recorded"
+  },
+  {
+   "id": "round-2026-10-10n",
+   "status": "done",
+   "scope": "Open wishlist lines in the lane-B map",
+   "started": "2026-10-10T10:37:47-05:00",
+   "finished": "2026-10-10T10:40:19-05:00",
+   "notes": "1 volume added; 1 stale wishlist line corrected"
   }
  ]
 }

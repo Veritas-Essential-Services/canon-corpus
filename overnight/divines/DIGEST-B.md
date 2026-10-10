@@ -169,3 +169,4 @@
 - Round 2026-10-10k (10:24): six volumes added, including Brumoy's Greek Theatre in Lennox's translation (new shelf). No decision needed; the Greek-facing question now also covers Kennedy's Agamemnon and Cromer's Paraphrases.
 - Round 2026-10-10l (10:34): eight volumes added. No decision needed.
 - Round 2026-10-10m (10:37): one volume added. Robert Duncan's Boethius (Edinburgh, catalogue 1789) joins the undated rows: it reads cleanly but prints no legible year. Same answer as the other undated rows applies.
+- Round 2026-10-10n (10:40): Fairbanks's First Philosophers added from a cleaner scan; one stale wishlist line fixed. No decision needed.

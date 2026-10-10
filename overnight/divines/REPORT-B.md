@@ -652,3 +652,8 @@
 - Held back undated: Robert Duncan's Boethius (Edinburgh; catalogue 1789): reads 0.783 but no year is legible in the OCR
 - Refused under the bar (ECCO): Guthrie's Quintilian, Newton's Vitruvius, Budgell's Theophrastus, Suetonius 1717, Petronius 1713/1736, Velleius 1721/1722, Hippocrates 1752/1780/1788, Medea and Jason 1771, Moschus and Bion 1724, Heliodorus 1753, Alciphron 1791, Daphnis 1763, Hero and Leander 1747
 - Finding: the remaining unrecorded 18th-century English classics on IA are almost all ECCO scans at 0.55-0.76; the lane's bar keeps them out unless cleaner copies appear
+
+## 2026-10-10 10:40 CDT — Round 2026-10-10n: one volume, one map correction
+- Arthur Fairbanks, The First Philosophers of Greece (1898): a third scan reads 0.790 with the Greek counted, clearing the bar the first two missed
+- Propertius: Phillimore's 1906 translation was already held; the wishlist line asking for it is corrected
+- Still not found on IA: Chinnock's Bohn Indica (1893), Tytler's Punics vol. II, Phillimore's Apollonius vol. II, separate pre-1931 issues of the Oxford Meteorologica and Parva Naturalia (the scan found is the 1931 collected vol. III)

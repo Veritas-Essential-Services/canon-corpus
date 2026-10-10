@@ -4893,7 +4893,7 @@ Shelf: `pipeline/propertius_shelf.json`. Butler's Loeb (1912, Latin facing; the 
 | The Elegies of Propertius, translated into English verse (London: Rivingtons, 1870) | Charles Robert Moore | `propertius-moore-1870` | have-raw (IA `elegiesproperti00magoog`) |
 | Erotica: the Elegies of Propertius, the Satyricon of Petronius Arbiter, and the Kisses of Johannes Secundus, literally translated, with poetical versions from various sources; with the Love Epistles of Aristaenetus, tr. R. B. Sheridan and N. B. Halhed (Bohn, 1854) | Walter K. Kelly | `propertius-petronius-kelly-erotica-1854` | have-raw (IA `eroticaelegiesp01arbigoog`) |
 
-Pending (wishlist): Phillimore's 1906 prose translation (Oxford), if a scan turns up.
+Pending (wishlist): none known. Phillimore's 1906 prose translation is now held above.
 
 ## Zosimus
 
@@ -5139,10 +5139,11 @@ Shelf: `pipeline/presocratics_shelf.json`. The fragments of the early Greek phil
 |---|---|---|---|
 | The Fragments of the Work of Heraclitus of Ephesus on Nature, translated from the Greek text of Bywater (Baltimore: N. Murray, 1889) | G. T. W. Patrick | `heraclitus-patrick-1889` | have-raw (IA `fragmentsofworko00hera`) |
 | The Fragments of Empedocles, translated into English verse (Open Court, 1908) | William Ellery Leonard | `empedocles-leonard-1908` | have-raw (IA `thefragmentsofem00empeuoft`) |
+| The First Philosophers of Greece: an edition and translation of the remaining fragments of the pre-Sokratic philosophers (New York: Scribner's, 1898; Greek facing) | Arthur Fairbanks | `presocratics-fairbanks-first-philosophers-1898` | have-raw (IA `firstphilosopher00fairiala`) |
 
-Pending (wishlist): Fairbanks's First Philosophers of Greece (1898) from a cleaner scan.
+Pending (wishlist): none known. Fairbanks's First Philosophers of Greece (1898) is now held above from a cleaner scan.
 
-Excluded: Fairbanks 1898 (Greek facing, OCR 0.73-0.77); Burnet's Early Greek Philosophy (a study, not a translation).
+Excluded: two other Fairbanks 1898 scans (Greek facing, OCR 0.73-0.77; a third copy at 0.790 is held above); Burnet's Early Greek Philosophy (a study, not a translation).
 
 ## Paulus Aegineta
 
