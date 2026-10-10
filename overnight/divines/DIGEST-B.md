@@ -159,3 +159,4 @@
 - Round 2026-10-10a (09:11): nine volumes added. Two held back for you: (1) The Index Expurgatorius of Martial (1868), public domain with clean OCR, but it collects only the obscene epigrams; say if it belongs on the shelf. (2) Carr's five-volume Dialogues of Lucian (1773-98): no scan shows a readable title page, though the prefaces are signed John Carr; say if the signed preface is enough.
 - Round 2026-10-10b (09:19): the Tenne Tragedies hold is settled by taking the 1581 first printing (no Eliot introduction); two more volumes added; notes corrected. No decision needed.
 - Round 2026-10-10c (09:27): five volumes added; no decision needed.
+- Round 2026-10-10d (09:31): five volumes added; no decision needed.

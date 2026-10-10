@@ -940,6 +940,14 @@
    "started": "2026-10-10T09:19:49-05:00",
    "finished": "2026-10-10T09:27:41-05:00",
    "notes": "Added Duncan's Select Orations of Cicero 1841, an anonymous literal Select Letters of Cicero 1891, the anonymous Bohn Works of Apuleius (1914 printing), Dyce's Quintus Smyrnaeus 1821, Eells's Philostratus 1923. Munford's Iliad vol. I, the Greek Tragic Theatre vol. II (Sophocles) and Ravensworth's Aeneid VII-XII are still not online under those titles; Preston's 1811 Argonautics scans lack a title page or are notes-only."
+  },
+  {
+   "id": "round-2026-10-10d",
+   "status": "done",
+   "scope": "Plato, Aristotle, Aeschylus, Euripides, Greek historians and orators title sweeps",
+   "started": "2026-10-10T09:27:41-05:00",
+   "finished": "2026-10-10T09:31:46-05:00",
+   "notes": "Added the anonymous Oxford literal Aeschylus 1829, H. B. L.'s Ion 1889, Goldwin Smith's Euripides specimens 1893, Laurent's Herodotus 1827 (2 vols.). Plato, Aristotle, Xenophon, the orators, Strabo and Pausanias candidates were all held already."
   }
  ]
 }

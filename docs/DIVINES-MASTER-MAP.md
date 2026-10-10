@@ -2769,6 +2769,7 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | The Agamemnon of Aeschylus and the Bacchanals of Euripides, with passages from the lyric and later poets of Greece (Murray, 1865) | Henry Hart Milman | `aeschylus-milman-agamemnon-1865` | have-raw (IA `agamemnonofaesch00aescuoft`) |
 | The Agamemnon of Aeschylus, rendered into English verse (Nutt, 1907) | W. R. Paton | `aeschylus-paton-agamemnon-1907` | have-raw (IA `agamemnonofaesch01aesc`) |
 | Agamemnon, after the Greek of Aeschylus (Selwyn and Blount, 1920) | Locke Ellis | `aeschylus-ellis-agamemnon-1920` | have-raw (IA `agamemnonaftergr00aesciala`) |
+| The Seven Tragedies of Aeschylus, literally translated, with notes (Oxford: D. A. Talboys and J. Vincent, 1829) | anonymous (the title page names no translator) | `aeschylus-oxford-literal-1829` | have-raw (IA `seventragediess00aescgoog`) |
 
 Pending (wishlist): none here: Smyth's Loeb (1922-26) is on PR #7 as Perseus TEI.
 
@@ -2809,6 +2810,8 @@ Shelf: `pipeline/euripides_shelf.json`. Translator per title; complete in Way (v
 | The Alcestis of Euripides translated into English verse for the thirteenth annual rendition of the Classical Department (Beloit, Wis.: Ingersoll, 1898) | the Class of 1900 of Beloit College | `euripides-beloit-alcestis-1898` | have-raw (IA `alcestisofeuripi00euri_1`) |
 | Euripides' Alcestis translated, with introduction and notes by J. Churton Collins (Oxford: Clarendon Press, 1906) | H. Kynaston | `euripides-kynaston-alcestis-1906` | have-raw (IA `euripidesalcest00eurigoog`) |
 | The Bacchae and Heraclidae of Euripides, literally translated into English from the text of Dindorf, by a Member of the University of Oxford (London: Henry Washbourne, 1846) | anonymous ('a Member of the University of Oxford') | `euripides-oxford-member-bacchae-heraclidae-1846` | have-raw (IA `TheBacchaeAndHeraclidae`) |
+| The Ion of Euripides, now first translated into English in its original metres (London: Williams and Norgate, 1889) | H. B. L. | `euripides-hbl-ion-1889` | have-raw (IA `ionofeuripidesno00euriiala`) |
+| Specimens of Greek Tragedy: Euripides (Macmillan, copyright 1893) | Goldwin Smith | `euripides-goldwin-smith-specimens-1893` | have-raw (IA `specimensofgreek00euriuoft`) |
 
 Pending (wishlist): Way's 1912 Loeb (Greek facing). Potter's Euripides is held complete in the 1832 Valpy reprint (3 vols.). Wodhull's Euripides is held complete from the 1809 Greek Tragic Theatre (vols. 3-5).
 
@@ -2902,6 +2905,8 @@ Shelf: `pipeline/herodotus_shelf.json`. Macaulay complete across two shelves (vo
 | Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. III | William Beloe | `herodotus-beloe-1821-v3` | have-raw (IA `india.history.resource.86418`) |
 | Herodotus, translated from the Greek, with notes, 4th ed., in four volumes (London: Rivington and others, 1821), vol. IV | William Beloe | `herodotus-beloe-1821-v4` | have-raw (IA `india.history.resource.86419`) |
 | Histories | A. D. Godley (1920-25; modernized by Perseus) | `herodotus-perseus-godley-histories` | have (Perseus TEI `tlg0016.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Nine Books of the History of Herodotus, translated from the text of Thomas Gaisford, with notes, vol. I (Oxford: Henry Slatter, 1827) | Peter Edmund Laurent | `herodotus-laurent-1827-v1` | have-raw (IA `ninebooksofhisto01herdiala`) |
+| The Nine Books of the History of Herodotus, vol. II (Oxford: Henry Slatter, 1827) | Peter Edmund Laurent | `herodotus-laurent-1827-v2` | have-raw (IA `ninebooksofhisto02herdiala`) |
 
 Pending (wishlist): none here: Godley's Loeb (1920-25) is on PR #7 as Perseus TEI.
 

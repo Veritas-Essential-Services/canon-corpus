@@ -591,3 +591,8 @@
 - Added: Duncan's Cicero orations (1841), literal Select Letters of Cicero (1891), the Bohn Works of Apuleius (1914 printing), Dyce's Quintus Smyrnaeus (1821), Eells's Philostratus (1923)
 - Still missing: Munford Iliad vol. I, Greek Tragic Theatre vol. II, Ravensworth Aeneid VII-XII, Preston Argonautics 1803 vol. II
 - Greek-facing Loebs seen again (Gaselee's Achilles Tatius, Mair's Oppian): left for the pending measure ruling
+
+## 2026-10-10 09:31 CDT — Round 2026-10-10d: Greek drama, philosophy and history sweeps
+- Added: Oxford literal Aeschylus (1829), H. B. L.'s Ion (1889), Goldwin Smith's Euripides (1893), Laurent's Herodotus (1827, 2 vols.)
+- Under the OCR bar: Davies's Agamemnon (0.60), the 1840 literal Medea (0.73), Laurent's 1846 edition (0.745)
+- Held already: Plato, Aristotle, Xenophon, Demosthenes, Strabo, Pausanias candidates
