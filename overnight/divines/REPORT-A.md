@@ -751,3 +751,6 @@
 
 ## 2026-10-10 10:08 CDT — william-arnot done
 - `pipeline/william-arnot_shelf.json`: 0 CCEL, 1 PG, 6 IA. Title pages read for arnot-anchor-of-soul, arnot-life-james-hamilton-1870 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:08 CDT — james-hamilton-london done
+- `pipeline/james-hamilton-london_shelf.json`: 0 CCEL, 1 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -2525,3 +2525,20 @@ Slugs `arnot-*`.
 | The Lesser Parables of Our Lord, and Lessons of Grace in the Language of Nature (London: T. Nelson, 1884) | have-ocr | IA `lesserparablesof00arno` |
 | The Anchor of the Soul and Other Sermons (London: T. Nelson; no year on the title page, catalogued 1875) | have-ocr | IA `anchorofsoulothe00arno` |
 | Life of James Hamilton, D.D., F.L.S. (London: James Nisbet, 1870) | have-ocr | IA `cu31924011509498` |
+
+## James Hamilton (Regent Square) (round 16, my pick, 2026-10-10)
+
+Slugs `jhamilton-*`. Name forms carry D.D. or Rev. so they do not match other James Hamiltons; the uniform Works (1869-73) holds his separate books, which stay alternates.
+
+| Work | Status | Where |
+|---|---|---|
+| Life of Bunyan (from the Works of the Puritan Divines: Bunyan, Thomas Nelson, 1845) | have-clean | Gutenberg 3627 |
+| Works of the Late Rev. James Hamilton, vol. 1 (London: James Nisbet, 1870) | have-ocr | IA `worksoflaterevja01hamiuoft` |
+| Works of the Late Rev. James Hamilton, vol. 2 (London: James Nisbet, 1869) | have-ocr | IA `worksoflaterevja02hamiuoft` |
+| Works of the Late Rev. James Hamilton, vol. 3 (London: James Nisbet, 1869) | have-ocr | IA `worksoflaterevja03hamiuoft` |
+| Works of the Late Rev. James Hamilton, vol. 4 (London: James Nisbet, 1870) | have-ocr | IA `worksoflaterevja04hamiuoft` |
+| Works of the Late Rev. James Hamilton, vol. 5 (London: James Nisbet, 1871) | have-ocr | IA `worksoflaterevja05hamiuoft` |
+| Sermons and Lectures Selected from the Manuscripts of the Late James Hamilton, completing the uniform edition of his Works (London: James Nisbet, 1873) | have-ocr | IA `worksoflaterevja06hamiuoft` |
+| The Lamp and the Lantern: or, Light for the Tent and the Traveller (New York: Robert Carter, 1853) | have-ocr | IA `lampandlanterno01hamigoog` |
+| The Royal Preacher (1851; IA theroyalpreacher00hamiuoft), The Mount of Olives (2nd ed., 1846; IA mountofolives00hami), Life in Earnest (1863; IA lifeinearnes00hami): their text is in the Works | alternate | not shelved |
+| the 1881 reissue of the Works (IA worksoflaterevja01hami to 06hami) | alternate | not shelved |
