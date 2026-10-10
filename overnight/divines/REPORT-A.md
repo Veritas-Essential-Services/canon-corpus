@@ -781,3 +781,6 @@
 
 ## 2026-10-10 10:28 CDT — theodor-christlieb done
 - `pipeline/theodor-christlieb_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:29 CDT — j-h-kurtz done
+- `pipeline/j-h-kurtz_shelf.json`: 0 CCEL, 3 PG, 5 IA. Title pages read for kurtz-old-covenant-2, kurtz-old-covenant-3, kurtz-sacrificial-worship-1863 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

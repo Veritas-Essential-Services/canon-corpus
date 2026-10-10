@@ -2689,6 +2689,23 @@ Slugs `christlieb-*`.
 | Protestant Foreign Missions: Their Present State (no year on the title page, catalogued 1880; translator not named) | have-ocr | IA `protestantforei01chrigoog` |
 | The Best Methods of Counteracting Modern Infidelity, an Evangelical Alliance paper (New York; catalogued 1874) | have-ocr | IA `bestmethodsofcou00chri` |
 | Modern Doubt, fifth edition (Clark, 1895; IA moderndoubtandch00chriuoft) | alternate | not shelved |
+
+## J. H. Kurtz (in English) (round 16, my pick, 2026-10-10)
+
+Slugs `kurtz-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| Church History, vol. 1, tr. John Macpherson, second edition (London: Hodder & Stoughton, MDCCCXCI) | have-clean | Gutenberg 51489 |
+| Church History, vol. 2, tr. John Macpherson, second edition (London: Hodder & Stoughton, MDCCCXCII) | have-clean | Gutenberg 51490 |
+| Church History, vol. 3, tr. John Macpherson, second edition (London: Hodder & Stoughton, MDCCCXCIII) | have-clean | Gutenberg 37404 |
+| History of the Old Covenant, vol. 1, tr. Alfred Edersheim (Philadelphia: Lindsay & Blakiston, 1859) | have-ocr | IA `historyofoldcove01kurt` |
+| History of the Old Covenant, vol. 2, tr. James Martin (Philadelphia: Lindsay & Blakiston, 1859) | have-ocr | IA `historyofoldcove02kurt` |
+| History of the Old Covenant, vol. 3, tr. James Martin (Philadelphia: Lindsay & Blakiston, 1859) | have-ocr | IA `historyofoldcove03kurt` |
+| Sacrificial Worship of the Old Testament, tr. James Martin (Edinburgh: T. & T. Clark, MDCCCLXIII); the translator's name OCRs as "JAMES MAETIN", so it is not machine-checked | have-ocr | IA `sacrificialworsh00kurt` |
+| Manual of Sacred History, tr. Charles F. Schaeffer from the sixth German edition (Philadelphia: Lindsay & Blakiston; year not legible, Schaff's letter dated 1855) | have-ocr | IA `manualofsacredhi00kurt` |
+| the earlier Church History translation 'with emendations' by Edersheim (Clark, 1860-64; IA historyofchristi01kurt, 02kurt) | alternate | not shelved |
+| Gutenberg 51491: the three Church History volumes in one file | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
