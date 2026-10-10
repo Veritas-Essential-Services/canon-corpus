@@ -952,3 +952,6 @@
 
 ## 2026-10-10 14:42 CDT — alfred-edersheim done
 - `pipeline/alfred-edersheim_shelf.json`: 2 CCEL, 0 PG, 14 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:42 CDT — david-baron done
+- `pipeline/david-baron_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -4010,6 +4010,25 @@ Slugs `edersheim-*`. Hebrew Christian scholar. CCEL's Life and Times was keyed f
 | his translations of Kurtz, Chalybaus and Lange, and The Jubilee Rhythm of St. Bernard | excluded | |
 | books by his daughter Elise W. Giles | excluded | |
 | reprints from 1942 onward and Spanish translations | excluded | |
+
+## David Baron (round 21, my pick, 2026-10-10)
+
+Slugs `baron-*`. Hebrew Christian Testimony to Israel; held to printings before 1930, undated ones dated from the publisher's address.
+
+| Work | Status | Where |
+|---|---|---|
+| The Jewish Problem: its Solution; or, Israel's Present and Future, new edition, introduction by Arthur T. Pierson (London: Morgan and Scott, 12 Paternoster Buildings; no year on title page, catalogued 1900) | have-ocr | IA `jewishproblemits00baroiala` |
+| Israel's Inalienable Possessions (London: Morgan and Scott, 12 Paternoster Buildings; no year on title page, catalogued 1900) | have-ocr | IA `israelsinalienab00baroiala` |
+| The Present Attitude of the Jews in relation to Christianity, reprinted from The Missionary Review of the World (London: Morgan and Scott; no year on title page, IA's 1800 date is wrong) | have-ocr | IA `presentattitudeo00baro` |
+| The Ancient Scriptures and the Modern Jew, second edition (London: Hodder and Stoughton, MCMI) | have-ocr | IA `ancientscripture00baroiala` |
+| Types, Psalms, and Prophecies, first edition (London: Hodder and Stoughton, MCMVI) | have-ocr | IA `typespsalmsproph0000davi_o1q2` |
+| The History of the Ten 'Lost' Tribes: Anglo-Israelism Examined, second edition (London: Morgan and Scott, MCMXV) | have-ocr | IA `historyoftenlost00barouoft` |
+| The Visions and Prophecies of Zechariah, first edition (London: Morgan and Scott, MCMXVIII) | have-ocr | IA `thevisions00barouoft` |
+| The History of the Ten 'Lost' Tribes, fourth edition revised (Project Gutenberg 38630): undated Morgan and Scott printing (E.C.4, so 1917 or later); the dated 1915 scan is shelved instead | alternate | not shelved |
+| Second copies: jewishproblem00baroiala, ancientscripture0000davi, Types, Psalms 1907 (typespsalmsandp00barogoog), Zechariah 1919 (bwb_S0-DHV-904) | alternate | not shelved |
+| The Servant of Jehovah (first edition 1922) survives only in 1954 and 1978 printings; reprints from 1943 onward | excluded | |
+| The Scattered Nation (periodical, many authors) | excluded | |
+| Yiddish and German translations | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
