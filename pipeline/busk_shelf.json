@@ -1,5 +1,5 @@
 {
- "_about": "Rachel Harriette Busk's (1831-1907) Patrañas; or, Spanish Stories, Legendary and Traditional (London, 1870; published as by 'the author of Traditions of Tirol'), tales gathered in Spain and set in her English, and Roman Legends: A Collection of the Fables and Folk-lore of Rome (1877). Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Rachel Harriette Busk's (1831-1907) Patrañas; or, Spanish Stories, Legendary and Traditional (London, 1870; published as by 'the author of Traditions of Tirol'), tales gathered in Spain and set in her English, Roman Legends: A Collection of the Fables and Folk-lore of Rome (1877), and Household Stories from the Land of Hofer; or, Popular Myths of Tirol (London, 1871, the date printed in roman numerals; published as by the author of Patrañas). Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
  "_author": "Rachel Harriette Busk",
  "_name_words": [
   "patranas",
@@ -36,6 +36,21 @@
     "start": "PREFACE\\.$",
     "front": true
    }
+  ],
+  "busk-household-stories-from-the-land-of-hofer": [
+   44746,
+   "Household stories from the Land of Hofer; or, Popular Myths of Tirol",
+   {
+    "levels": [
+     {
+      "re": "(?!THE END)[A-Z“\"][^a-z]*(?:\\[\\d+\\])?[^a-z]*$|NOTES$",
+      "strip": "\\s*\\[\\d+\\]|\\.$",
+      "max": 120
+     }
+    ],
+    "start": "INTRODUCTION\\.$",
+    "front": true
+   }
   ]
  },
  "internet_archive": {},
@@ -43,7 +58,7 @@
  "_checks": {
   "busk-patranas": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "rachel harriette busk",
    "identity": "ok",
@@ -52,7 +67,16 @@
   },
   "busk-roman-legends": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rachel harriette busk",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "busk-household-stories-from-the-land-of-hofer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "rachel harriette busk",
    "identity": "ok",
