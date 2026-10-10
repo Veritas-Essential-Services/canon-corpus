@@ -1,0 +1,107 @@
+{
+ "_about": "TRANSLATOR SHELF: Israel Friedlaender (1876-1920): Simon Dubnow's History of the Jews in Russia and Poland (Jewish Publication Society, 1916-20, 3 vols). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_name_words": [
+  "i. friedlaender",
+  "israel friedlaender",
+  "friedlaender"
+ ],
+ "_surname": [
+  "i. friedlaender",
+  "israel friedlaender",
+  "friedlaender"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "fri-15729": [
+   15729,
+   "History of the Jews in Russia and Poland, Volume 2 [of 3] From the Death of Alexander I until the Death of Alexander III (1825-1894)"
+  ],
+  "fri-41547": [
+   41547,
+   "History of the Jews in Russia and Poland, Volume 1 [of 3] From the Beginning until the Death of Alexander I (1825)"
+  ],
+  "fri-47212": [
+   47212,
+   "History of the Jews in Russia and Poland, Volume 3 [of 3] From the Accession of Nicholas II until the Present Day"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "friedlaender-dubnow-history-of-the-jews-in-russia-and-poland-vol-1": {
+   "source": "fri-41547",
+   "of": "Simon Dubnow",
+   "work": "History of the Jews in Russia and Poland, Volume 1 [of 3] From the Beginning until the Death of Alexander I (1825)",
+   "translated": "1916-1920 (see the Gutenberg header)",
+   "translator": "Israel Friedlaender",
+   "scan_edition": "Project Gutenberg 41547 (clean text)"
+  },
+  "friedlaender-dubnow-history-of-the-jews-in-russia-and-poland-vol-2": {
+   "source": "fri-15729",
+   "of": "Simon Dubnow",
+   "work": "History of the Jews in Russia and Poland, Volume 2 [of 3] From the Death of Alexander I until the Death of Alexander III (1825-1894)",
+   "translated": "1916-1920 (see the Gutenberg header)",
+   "translator": "Israel Friedlaender",
+   "scan_edition": "Project Gutenberg 15729 (clean text)",
+   "note": "The Gutenberg text was keyed from the Jewish Publication Society's 1946 reprint (imprint '5706--1946'; 'Copyright 1918'). The text is the 1918 public-domain translation reprinted, but the copy is not a pre-1931 printing: flagged in DIGEST-C for Adam's veto."
+  },
+  "friedlaender-dubnow-history-of-the-jews-in-russia-and-poland-vol-3": {
+   "source": "fri-47212",
+   "of": "Simon Dubnow",
+   "work": "History of the Jews in Russia and Poland, Volume 3 [of 3] From the Accession of Nicholas II until the Present Day",
+   "translated": "1916-1920 (see the Gutenberg header)",
+   "translator": "Israel Friedlaender",
+   "scan_edition": "Project Gutenberg 47212 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "fri-15729": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "i. friedlaender",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Israel Friedlaender"
+  },
+  "fri-41547": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "i. friedlaender",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Israel Friedlaender"
+  },
+  "fri-47212": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "i. friedlaender",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Israel Friedlaender"
+  }
+ },
+ "_verified": {
+  "fri-15729": {
+   "pg": 15729,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Israel Friedlaender"
+  },
+  "fri-41547": {
+   "pg": 41547,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Israel Friedlaender"
+  },
+  "fri-47212": {
+   "pg": 47212,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Israel Friedlaender"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

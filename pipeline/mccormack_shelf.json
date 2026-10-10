@@ -1,0 +1,81 @@
+{
+ "_about": "TRANSLATOR SHELF: Thomas J. McCormack (1865-1932) for the Open Court: Mach's Popular Scientific Lectures (1895) and Weismann's On Germinal Selection (1896). His Lagrange and Schubert are pending: Gutenberg has them only as PDF/LaTeX. US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_name_words": [
+  "thomas j. mccormack",
+  "mccormack"
+ ],
+ "_surname": [
+  "thomas j. mccormack",
+  "mccormack"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mcc-34077": [
+   34077,
+   "On Germinal Selection as a Source of Definite Variation"
+  ],
+  "mcc-39508": [
+   39508,
+   "Popular scientific lectures"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "mccormack-mach-popular-scientific-lectures": {
+   "source": "mcc-39508",
+   "of": "Ernst Mach",
+   "work": "Popular scientific lectures",
+   "translated": "1895-1898 (see the Gutenberg header)",
+   "translator": "Thomas J. McCormack",
+   "scan_edition": "Project Gutenberg 39508 (clean text)"
+  },
+  "mccormack-weismann-on-germinal-selection-as-a-source-of-def": {
+   "source": "mcc-34077",
+   "of": "August Weismann",
+   "work": "On Germinal Selection as a Source of Definite Variation",
+   "translated": "1895-1898 (see the Gutenberg header)",
+   "translator": "Thomas J. McCormack",
+   "scan_edition": "Project Gutenberg 34077 (clean text)"
+  }
+ },
+ "_pending": {
+  "pg-25387": "Mathematical Essays and Recreations: Gutenberg publishes this mathematics book only as PDF/LaTeX, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive.",
+  "pg-36640": "Lectures on Elementary Mathematics: Gutenberg publishes this mathematics book only as PDF/LaTeX, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mcc-34077": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas j. mccormack",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas J. McCormack"
+  },
+  "mcc-39508": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas j. mccormack",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas J. McCormack"
+  }
+ },
+ "_verified": {
+  "mcc-34077": {
+   "pg": 34077,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas J. McCormack"
+  },
+  "mcc-39508": {
+   "pg": 39508,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas J. McCormack"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

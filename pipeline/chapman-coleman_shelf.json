@@ -1,0 +1,154 @@
+{
+ "_about": "TRANSLATOR SHELF: Mrs. Chapman Coleman (1813-1891), with her daughters: Luise Mühlbach's historical novels (Appleton, 1867-69). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_name_words": [
+  "chapman coleman"
+ ],
+ "_surname": [
+  "chapman coleman"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "cco-12019": [
+   12019,
+   "Queen Hortense: A Life Picture of the Napoleonic Era"
+  ],
+  "cco-3320": [
+   3320,
+   "Mohammed Ali and His House"
+  ],
+  "cco-3537": [
+   3537,
+   "Frederick the Great and His Family: A Historical Novel"
+  ],
+  "cco-4205": [
+   4205,
+   "Berlin and Sans-Souci; Or, Frederick the Great and His Friends"
+  ],
+  "cco-46883": [
+   46883,
+   "Goethe and Schiller: An Historical Romance"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "chapman-coleman-muhlbach-berlin-and-sans-souci-or-frederick-the-g": {
+   "source": "cco-4205",
+   "of": "Luise Mühlbach",
+   "work": "Berlin and Sans-Souci; Or, Frederick the Great and His Friends",
+   "translated": "1867-1869 (see the Gutenberg header)",
+   "translator": "Mrs. Chapman Coleman",
+   "scan_edition": "Project Gutenberg 4205 (clean text)"
+  },
+  "chapman-coleman-muhlbach-frederick-the-great-and-his-family-a-his": {
+   "source": "cco-3537",
+   "of": "Luise Mühlbach",
+   "work": "Frederick the Great and His Family: A Historical Novel",
+   "translated": "1867-1869 (see the Gutenberg header)",
+   "translator": "Mrs. Chapman Coleman",
+   "scan_edition": "Project Gutenberg 3537 (clean text)"
+  },
+  "chapman-coleman-muhlbach-goethe-and-schiller-an-historical-romanc": {
+   "source": "cco-46883",
+   "of": "Luise Mühlbach",
+   "work": "Goethe and Schiller: An Historical Romance",
+   "translated": "1867-1869 (see the Gutenberg header)",
+   "translator": "Mrs. Chapman Coleman",
+   "scan_edition": "Project Gutenberg 46883 (clean text)"
+  },
+  "chapman-coleman-muhlbach-mohammed-ali-and-his-house": {
+   "source": "cco-3320",
+   "of": "Luise Mühlbach",
+   "work": "Mohammed Ali and His House",
+   "translated": "1867-1869 (see the Gutenberg header)",
+   "translator": "Mrs. Chapman Coleman",
+   "scan_edition": "Project Gutenberg 3320 (clean text)"
+  },
+  "chapman-coleman-muhlbach-queen-hortense-a-life-picture-of-the-nap": {
+   "source": "cco-12019",
+   "of": "Luise Mühlbach",
+   "work": "Queen Hortense: A Life Picture of the Napoleonic Era",
+   "translated": "1867-1869 (see the Gutenberg header)",
+   "translator": "Mrs. Chapman Coleman",
+   "scan_edition": "Project Gutenberg 12019 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "cco-12019": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "chapman coleman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Chapman Coleman"
+  },
+  "cco-3320": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "chapman coleman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Chapman Coleman"
+  },
+  "cco-3537": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "chapman coleman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Chapman Coleman"
+  },
+  "cco-4205": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "chapman coleman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Chapman Coleman"
+  },
+  "cco-46883": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "chapman coleman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Chapman Coleman"
+  }
+ },
+ "_verified": {
+  "cco-12019": {
+   "pg": 12019,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Chapman Coleman"
+  },
+  "cco-3320": {
+   "pg": 3320,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Chapman Coleman"
+  },
+  "cco-3537": {
+   "pg": 3537,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Chapman Coleman"
+  },
+  "cco-4205": {
+   "pg": 4205,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Chapman Coleman"
+  },
+  "cco-46883": {
+   "pg": 46883,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Chapman Coleman"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

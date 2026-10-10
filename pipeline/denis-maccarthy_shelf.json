@@ -1,0 +1,134 @@
+{
+ "_about": "TRANSLATOR SHELF: Denis Florence MacCarthy (1817-1882): Calderón's dramas: Life Is a Dream, The Wonder-Working Magician, The Purgatory of St. Patrick and The Two Lovers of Heaven (1853-73). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_name_words": [
+  "denis florence mac-carthy",
+  "denis florence maccarthy",
+  "mac-carthy",
+  "maccarthy"
+ ],
+ "_surname": [
+  "denis florence mac-carthy",
+  "denis florence maccarthy",
+  "mac-carthy",
+  "maccarthy"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "dmc-12173": [
+   12173,
+   "The Two Lovers of Heaven: Chrysanthus and Daria A Drama of Early Christian Rome"
+  ],
+  "dmc-6363": [
+   6363,
+   "Life Is a Dream"
+  ],
+  "dmc-6371": [
+   6371,
+   "The Purgatory of St. Patrick"
+  ],
+  "dmc-6372": [
+   6372,
+   "The Wonder-Working Magician"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "denis-maccarthy-calderon-life-is-a-dream": {
+   "source": "dmc-6363",
+   "of": "Pedro Calderón de la Barca",
+   "work": "Life Is a Dream",
+   "translated": "1853-1873 (see the Gutenberg header)",
+   "translator": "Denis Florence MacCarthy",
+   "scan_edition": "Project Gutenberg 6363 (clean text)"
+  },
+  "denis-maccarthy-calderon-the-purgatory-of-st-patrick": {
+   "source": "dmc-6371",
+   "of": "Pedro Calderón de la Barca",
+   "work": "The Purgatory of St. Patrick",
+   "translated": "1853-1873 (see the Gutenberg header)",
+   "translator": "Denis Florence MacCarthy",
+   "scan_edition": "Project Gutenberg 6371 (clean text)"
+  },
+  "denis-maccarthy-calderon-the-two-lovers-of-heaven-chrysanthus-and": {
+   "source": "dmc-12173",
+   "of": "Pedro Calderón de la Barca",
+   "work": "The Two Lovers of Heaven: Chrysanthus and Daria A Drama of Early Christian Rome",
+   "translated": "1853-1873 (see the Gutenberg header)",
+   "translator": "Denis Florence MacCarthy",
+   "scan_edition": "Project Gutenberg 12173 (clean text)"
+  },
+  "denis-maccarthy-calderon-the-wonder-working-magician": {
+   "source": "dmc-6372",
+   "of": "Pedro Calderón de la Barca",
+   "work": "The Wonder-Working Magician",
+   "translated": "1853-1873 (see the Gutenberg header)",
+   "translator": "Denis Florence MacCarthy",
+   "scan_edition": "Project Gutenberg 6372 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "dmc-12173": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "denis florence mac-carthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Denis Florence MacCarthy"
+  },
+  "dmc-6363": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "denis florence mac-carthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Denis Florence MacCarthy"
+  },
+  "dmc-6371": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "denis florence mac-carthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Denis Florence MacCarthy"
+  },
+  "dmc-6372": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "denis florence mac-carthy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Denis Florence MacCarthy"
+  }
+ },
+ "_verified": {
+  "dmc-12173": {
+   "pg": 12173,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Denis Florence MacCarthy"
+  },
+  "dmc-6363": {
+   "pg": 6363,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Denis Florence MacCarthy"
+  },
+  "dmc-6371": {
+   "pg": 6371,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Denis Florence MacCarthy"
+  },
+  "dmc-6372": {
+   "pg": 6372,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Denis Florence MacCarthy"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

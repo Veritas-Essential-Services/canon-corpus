@@ -9117,6 +9117,203 @@ Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `bicknell-fabre-our-humble-helpers-familiar-talks-on-the` | Jean-Henri Fabre | Our Humble Helpers: Familiar Talks on the Domestic Animals | Florence Constable Bicknell | 1917-1921 (see the Gutenberg header) | have | PG 67073 |
 | `bicknell-fabre-the-story-book-of-science` | Jean-Henri Fabre | The Story-book of Science | Florence Constable Bicknell | 1917-1921 (see the Gutenberg header) | have | PG 56795 |
 
+## Mrs. Chapman Coleman (Luise Mühlbach's historical novels)
+
+Shelf: `pipeline/chapman-coleman_shelf.json` · fetch `python3 pipeline/fetch_shelf.py chapman-coleman` · titles `python3 pipeline/split_shelf_titles.py chapman-coleman`.
+Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `chapman-coleman-muhlbach-berlin-and-sans-souci-or-frederick-the-g` | Luise Mühlbach | Berlin and Sans-Souci; Or, Frederick the Great and His Friends | Mrs. Chapman Coleman | 1867-1869 (see the Gutenberg header) | have | PG 4205 |
+| `chapman-coleman-muhlbach-frederick-the-great-and-his-family-a-his` | Luise Mühlbach | Frederick the Great and His Family: A Historical Novel | Mrs. Chapman Coleman | 1867-1869 (see the Gutenberg header) | have | PG 3537 |
+| `chapman-coleman-muhlbach-goethe-and-schiller-an-historical-romanc` | Luise Mühlbach | Goethe and Schiller: An Historical Romance | Mrs. Chapman Coleman | 1867-1869 (see the Gutenberg header) | have | PG 46883 |
+| `chapman-coleman-muhlbach-mohammed-ali-and-his-house` | Luise Mühlbach | Mohammed Ali and His House | Mrs. Chapman Coleman | 1867-1869 (see the Gutenberg header) | have | PG 3320 |
+| `chapman-coleman-muhlbach-queen-hortense-a-life-picture-of-the-nap` | Luise Mühlbach | Queen Hortense: A Life Picture of the Napoleonic Era | Mrs. Chapman Coleman | 1867-1869 (see the Gutenberg header) | have | PG 12019 |
+
+## Count de Soissons (Sienkiewicz, Orzeszkowa, Kraszewski)
+
+Shelf: `pipeline/soissons_shelf.json` · fetch `python3 pipeline/fetch_shelf.py soissons` · titles `python3 pipeline/split_shelf_titles.py soissons`.
+Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `soissons-kraszewski-count-bruhl` | Józef Ignacy Kraszewski | Count Brühl | Count S. C. de Soissons | 1898-1901 (see the Gutenberg header) | have | PG 37624 |
+| `soissons-kraszewski-the-countess-cosel-a-romance-of-history` | Józef Ignacy Kraszewski | The Countess Cosel: A Romance of History of the Times of Augustus the Strong | Count S. C. de Soissons | 1898-1901 (see the Gutenberg header) | have | PG 37623 |
+| `soissons-orzeszkowa-an-obscure-apostle-a-dramatic-story` | Eliza Orzeszkowa | An Obscure Apostle: A Dramatic Story | Count S. C. de Soissons | 1898-1901 (see the Gutenberg header) | have | PG 28400 |
+| `soissons-sienkiewicz-so-runs-the-world` | Henryk Sienkiewicz | So Runs the World | Count S. C. de Soissons | 1898-1901 (see the Gutenberg header) | have | PG 10546 |
+
+## Thomas J. McCormack (Mach's Popular Scientific Lectures; Weismann)
+
+Shelf: `pipeline/mccormack_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mccormack` · titles `python3 pipeline/split_shelf_titles.py mccormack`.
+Round 30 (2026-10-10), vetoable. His Lagrange and Schubert are pending (PDF only on Gutenberg). Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `mccormack-mach-popular-scientific-lectures` | Ernst Mach | Popular scientific lectures | Thomas J. McCormack | 1895-1898 (see the Gutenberg header) | have | PG 39508 |
+| `mccormack-weismann-on-germinal-selection-as-a-source-of-def` | August Weismann | On Germinal Selection as a Source of Definite Variation | Thomas J. McCormack | 1895-1898 (see the Gutenberg header) | have | PG 34077 |
+| `pg-25387` | — | Mathematical Essays and Recreations: Gutenberg publishes this mathematics book only as PDF/LaTeX, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+| `pg-36640` | — | Lectures on Elementary Mathematics: Gutenberg publishes this mathematics book only as PDF/LaTeX, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+
+## Mrs. Georgina Malcolm (Freytag's Pictures of German Life, 4 vols)
+
+Shelf: `pipeline/georgina-malcolm_shelf.json` · fetch `python3 pipeline/fetch_shelf.py georgina-malcolm` · titles `python3 pipeline/split_shelf_titles.py georgina-malcolm`.
+Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `georgina-malcolm-freytag-pictures-of-german-life-15th-17th-vol-1` | Gustav Freytag | Pictures of German Life in the XVth, XVIth, and XVIIth Centuries, Vol. I. | Mrs. Georgina Malcolm | 1862-1863 (see the Gutenberg header) | have | PG 33794 |
+| `georgina-malcolm-freytag-pictures-of-german-life-15th-17th-vol-2` | Gustav Freytag | Pictures of German Life in the XVth, XVIth, and XVIIth Centuries, Vol. II. | Mrs. Georgina Malcolm | 1862-1863 (see the Gutenberg header) | have | PG 33795 |
+| `georgina-malcolm-freytag-pictures-of-german-life-18th-19th-vol-1` | Gustav Freytag | Pictures of German Life in the XVIIIth and XIXth Centuries, Vol. I. | Mrs. Georgina Malcolm | 1862-1863 (see the Gutenberg header) | have | PG 33818 |
+| `georgina-malcolm-freytag-pictures-of-german-life-18th-19th-vol-2` | Gustav Freytag | Pictures of German Life in the XVIIIth and XIXth Centuries, Vol. II. | Mrs. Georgina Malcolm | 1862-1863 (see the Gutenberg header) | have | PG 33819 |
+
+## Denis Florence MacCarthy (four Calderón dramas)
+
+Shelf: `pipeline/denis-maccarthy_shelf.json` · fetch `python3 pipeline/fetch_shelf.py denis-maccarthy` · titles `python3 pipeline/split_shelf_titles.py denis-maccarthy`.
+Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `denis-maccarthy-calderon-life-is-a-dream` | Pedro Calderón de la Barca | Life Is a Dream | Denis Florence MacCarthy | 1853-1873 (see the Gutenberg header) | have | PG 6363 |
+| `denis-maccarthy-calderon-the-purgatory-of-st-patrick` | Pedro Calderón de la Barca | The Purgatory of St. Patrick | Denis Florence MacCarthy | 1853-1873 (see the Gutenberg header) | have | PG 6371 |
+| `denis-maccarthy-calderon-the-two-lovers-of-heaven-chrysanthus-and` | Pedro Calderón de la Barca | The Two Lovers of Heaven: Chrysanthus and Daria A Drama of Early Christian Rome | Denis Florence MacCarthy | 1853-1873 (see the Gutenberg header) | have | PG 12173 |
+| `denis-maccarthy-calderon-the-wonder-working-magician` | Pedro Calderón de la Barca | The Wonder-Working Magician | Denis Florence MacCarthy | 1853-1873 (see the Gutenberg header) | have | PG 6372 |
+
+## Hannibal Evans Lloyd (Prince Maximilian of Wied's Travels, 3 parts; Iffland)
+
+Shelf: `pipeline/hannibal-lloyd_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hannibal-lloyd` · titles `python3 pipeline/split_shelf_titles.py hannibal-lloyd`.
+Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `hannibal-lloyd-iffland-the-nephews-a-play-in-five-acts` | August Wilhelm Iffland | The Nephews: A Play, in Five Acts. | Hannibal Evans Lloyd | 1799-1843 (see the Gutenberg header) | have | PG 31667 |
+| `hannibal-lloyd-wied-travels-in-the-interior-of-north-america-part-1` | Maximilian Wied | Maximilian, Prince of Wied's, Travels in the Interior of North America, 1832-1834, part 1 | Hannibal Evans Lloyd | 1799-1843 (see the Gutenberg header) | have | PG 38784 |
+| `hannibal-lloyd-wied-travels-in-the-interior-of-north-america-part-2` | Maximilian Wied | Maximilian, Prince of Wied's, Travels in the Interior of North America, 1832-1834, part 2 | Hannibal Evans Lloyd | 1799-1843 (see the Gutenberg header) | have | PG 47392 |
+| `hannibal-lloyd-wied-travels-in-the-interior-of-north-america-part-3` | Maximilian Wied | Maximilian, Prince of Wied's, Travels in the Interior of North America, 1832-1834, part 3 and appendix | Hannibal Evans Lloyd | 1799-1843 (see the Gutenberg header) | have | PG 48235 |
+
+## John Cournos (Sologub's The Created Legend; The Old House)
+
+Shelf: `pipeline/cournos_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cournos` · titles `python3 pipeline/split_shelf_titles.py cournos`.
+Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `cournos-sologub-the-created-legend` | Fyodor Sologub | The Created Legend | John Cournos | 1915-1916 (see the Gutenberg header) | have | PG 7480 |
+| `cournos-sologub-the-old-house-and-other-tales` | Fyodor Sologub | The Old House, and Other Tales | John Cournos | 1915-1916 (see the Gutenberg header) | have | PG 48452 |
+| — | — | pg-48912: The Little Demon is on aldington_shelf.json (lane C). | — | — | excluded | — |
+| — | — | pg-68357: Short-Story Masterpieces vol. 4 is an anthology edited by Esenwein; Cournos is one of several translators. | — | — | excluded | — |
+| — | — | pg-74071: Short-Story Masterpieces vol. 3: same reason. | — | — | excluded | — |
+
+## Lily Wolffsohn (Dahn's A Struggle for Rome, 3 vols)
+
+Shelf: `pipeline/lily-wolffsohn_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lily-wolffsohn` · titles `python3 pipeline/split_shelf_titles.py lily-wolffsohn`.
+Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `lily-wolffsohn-dahn-a-struggle-for-rome-v-1` | Felix Dahn | A Struggle for Rome, v. 1 | Lily Wolffsohn | 1878 (see the Gutenberg header) | have | PG 32271 |
+| `lily-wolffsohn-dahn-a-struggle-for-rome-v-2` | Felix Dahn | A Struggle for Rome, v. 2 | Lily Wolffsohn | 1878 (see the Gutenberg header) | have | PG 32330 |
+| `lily-wolffsohn-dahn-a-struggle-for-rome-v-3` | Felix Dahn | A Struggle for Rome, v. 3 | Lily Wolffsohn | 1878 (see the Gutenberg header) | have | PG 32377 |
+
+## David Shea and Anthony Troyer (The Dabistán, 3 vols)
+
+Shelf: `pipeline/shea-troyer_shelf.json` · fetch `python3 pipeline/fetch_shelf.py shea-troyer` · titles `python3 pipeline/split_shelf_titles.py shea-troyer`.
+Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `shea-troyer-the-dabistan-vol-1` | Attributed to Muhsin Fani (authorship disputed) | The Dabistán, or School of manners, Volume 1 (of 3) translated from the original Persian, with notes and illustrations | David Shea and Anthony Troyer | 1843 (see the Gutenberg header) | have | PG 63275 |
+| `shea-troyer-the-dabistan-vol-2` | Attributed to Muhsin Fani (authorship disputed) | The Dabistán, or School of manners, Volume 2 (of 3) translated from the original Persian, with notes and illustrations | David Shea and Anthony Troyer | 1843 (see the Gutenberg header) | have | PG 63276 |
+| `shea-troyer-the-dabistan-vol-3` | Attributed to Muhsin Fani (authorship disputed) | The Dabistán, or School of manners, Volume 3 (of 3) translated from the original Persian, with notes and illustrations | David Shea and Anthony Troyer | 1843 (see the Gutenberg header) | have | PG 63277 |
+
+## Pauline D. Townsend (Jahn's Life of Mozart, 3 vols)
+
+Shelf: `pipeline/pauline-townsend_shelf.json` · fetch `python3 pipeline/fetch_shelf.py pauline-townsend` · titles `python3 pipeline/split_shelf_titles.py pauline-townsend`.
+Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `pauline-townsend-jahn-life-of-mozart-vol-1-of-3` | Otto Jahn | Life of Mozart, Vol. 1 (of 3) | Pauline D. Townsend | 1882 (see the Gutenberg header) | have | PG 43411 |
+| `pauline-townsend-jahn-life-of-mozart-vol-2-of-3` | Otto Jahn | Life of Mozart, Vol. 2 (of 3) | Pauline D. Townsend | 1882 (see the Gutenberg header) | have | PG 43412 |
+| `pauline-townsend-jahn-life-of-mozart-vol-3-of-3` | Otto Jahn | Life of Mozart, Vol. 3 (of 3) | Pauline D. Townsend | 1882 (see the Gutenberg header) | have | PG 43413 |
+
+## J. Arthur and Margaret R. Thomson (Weismann's Evolution Theory; Otto; Brehm)
+
+Shelf: `pipeline/thomson-weismann_shelf.json` · fetch `python3 pipeline/fetch_shelf.py thomson-weismann` · titles `python3 pipeline/split_shelf_titles.py thomson-weismann`.
+Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `thomson-weismann-brehm-from-north-pole-to-equator-studies-of-wi` | Alfred Edmund Brehm | From North Pole to Equator: Studies of Wild Life and Scenes in Many Lands | Margaret R. Thomson | 1896-1907 (see the Gutenberg header) | have | PG 68142 |
+| `thomson-weismann-otto-naturalism-and-religion` | Rudolf Otto | Naturalism and Religion | J. Arthur Thomson and Margaret R. Thomson | 1896-1907 (see the Gutenberg header) | have | PG 31794 |
+| `thomson-weismann-weismann-the-evolution-theory-vol-1-of-2` | August Weismann | The Evolution Theory, Vol. 1 of 2 | J. Arthur Thomson and Margaret R. Thomson | 1896-1907 (see the Gutenberg header) | have | PG 64227 |
+| `thomson-weismann-weismann-the-evolution-theory-vol-2-of-2` | August Weismann | The Evolution Theory, Vol. 2 of 2 | J. Arthur Thomson and Margaret R. Thomson | 1896-1907 (see the Gutenberg header) | have | PG 65049 |
+
+## S. E. A. H. Stephenson (Spielhagen's The Breaking of the Storm, 3 vols)
+
+Shelf: `pipeline/ssa-stephenson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ssa-stephenson` · titles `python3 pipeline/split_shelf_titles.py ssa-stephenson`.
+Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ssa-stephenson-spielhagen-the-breaking-of-the-storm-vol-i` | Friedrich Spielhagen | The Breaking of the Storm, Vol. I. | S. E. A. H. Stephenson | 1877 (see the Gutenberg header) | have | PG 34657 |
+| `ssa-stephenson-spielhagen-the-breaking-of-the-storm-vol-ii` | Friedrich Spielhagen | The Breaking of the Storm, Vol. II. | S. E. A. H. Stephenson | 1877 (see the Gutenberg header) | have | PG 34658 |
+| `ssa-stephenson-spielhagen-the-breaking-of-the-storm-vol-iii` | Friedrich Spielhagen | The Breaking of the Storm, Vol. III. | S. E. A. H. Stephenson | 1877 (see the Gutenberg header) | have | PG 34659 |
+
+## William Robson (Michaud's History of the Crusades, 3 vols)
+
+Shelf: `pipeline/robson-michaud_shelf.json` · fetch `python3 pipeline/fetch_shelf.py robson-michaud` · titles `python3 pipeline/split_shelf_titles.py robson-michaud`.
+Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `robson-michaud-michaud-the-history-of-the-crusades-vol-1-of-3` | J. Fr. (Joseph Fr.) Michaud | The History of the Crusades (vol. 1 of 3) | William Robson | 1852 (see the Gutenberg header) | have | PG 49104 |
+| `robson-michaud-michaud-the-history-of-the-crusades-vol-2-of-3` | J. Fr. (Joseph Fr.) Michaud | The History of the Crusades (vol. 2 of 3) | William Robson | 1852 (see the Gutenberg header) | have | PG 49118 |
+| `robson-michaud-michaud-the-history-of-the-crusades-vol-3-of-3` | J. Fr. (Joseph Fr.) Michaud | The History of the Crusades (vol. 3 of 3) | William Robson | 1852 (see the Gutenberg header) | have | PG 49167 |
+
+## William Painter (The Palace of Pleasure, 3 vols)
+
+Shelf: `pipeline/painter_shelf.json` · fetch `python3 pipeline/fetch_shelf.py painter` · titles `python3 pipeline/split_shelf_titles.py painter`.
+Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `painter-the-palace-of-pleasure-vol-1` | Various (Italian, French and classical novelle: Boccaccio, Bandello, Livy and others) | The Palace of Pleasure, Volume 1 | William Painter | 1566-1567 (Jacobs's edition, 1890) | have | PG 20241 |
+| `painter-the-palace-of-pleasure-vol-2` | Various (Italian, French and classical novelle: Boccaccio, Bandello, Livy and others) | The Palace of Pleasure, Volume 2 | William Painter | 1566-1567 (Jacobs's edition, 1890) | have | PG 34053 |
+| `painter-the-palace-of-pleasure-vol-3` | Various (Italian, French and classical novelle: Boccaccio, Bandello, Livy and others) | The Palace of Pleasure, Volume 3 | William Painter | 1566-1567 (Jacobs's edition, 1890) | have | PG 34840 |
+
+## C. T. Campion (Schweitzer: Primeval Forest; Philosophy of Civilization)
+
+Shelf: `pipeline/campion_shelf.json` · fetch `python3 pipeline/fetch_shelf.py campion` · titles `python3 pipeline/split_shelf_titles.py campion`.
+Round 30 (2026-10-10), vetoable. On the Edge of the Primeval Forest is keyed from a 1937 reprint: flagged. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `campion-schweitzer-civilization-and-ethics` | Albert Schweitzer | Civilization and ethics | C. T. Campion | 1922-1923 (see the Gutenberg header) | have | PG 76061 |
+| `campion-schweitzer-on-the-edge-of-the-primeval-forest` | Albert Schweitzer | On the edge of the primeval forest | C. T. Campion | 1922-1923 (see the Gutenberg header) | have | PG 50015 |
+| `campion-schweitzer-the-decay-and-the-restoration-of-civiliz` | Albert Schweitzer | The decay and the restoration of civilization | C. T. Campion | 1922-1923 (see the Gutenberg header) | have | PG 75958 |
+
+## Israel Friedlaender (Dubnow's History of the Jews in Russia and Poland, 3 vols)
+
+Shelf: `pipeline/friedlaender_shelf.json` · fetch `python3 pipeline/fetch_shelf.py friedlaender` · titles `python3 pipeline/split_shelf_titles.py friedlaender`.
+Round 30 (2026-10-10), vetoable. Volume 2 is keyed from a 1946 reprint: flagged. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `friedlaender-dubnow-history-of-the-jews-in-russia-and-poland-vol-1` | Simon Dubnow | History of the Jews in Russia and Poland, Volume 1 [of 3] From the Beginning until the Death of Alexander I (1825) | Israel Friedlaender | 1916-1920 (see the Gutenberg header) | have | PG 41547 |
+| `friedlaender-dubnow-history-of-the-jews-in-russia-and-poland-vol-2` | Simon Dubnow | History of the Jews in Russia and Poland, Volume 2 [of 3] From the Death of Alexander I until the Death of Alexander III (1825-1894) | Israel Friedlaender | 1916-1920 (see the Gutenberg header) | have | PG 15729 |
+| `friedlaender-dubnow-history-of-the-jews-in-russia-and-poland-vol-3` | Simon Dubnow | History of the Jews in Russia and Poland, Volume 3 [of 3] From the Accession of Nicholas II until the Present Day | Israel Friedlaender | 1916-1920 (see the Gutenberg header) | have | PG 47212 |
+
+## Aline Delano (Tolstoy's Kingdom of God; Hugo's Ninety-Three; Korolenko)
+
+Shelf: `pipeline/aline-delano_shelf.json` · fetch `python3 pipeline/fetch_shelf.py aline-delano` · titles `python3 pipeline/split_shelf_titles.py aline-delano`.
+Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `aline-delano-hugo-ninety-three` | Victor Hugo | Ninety-Three | Aline Delano | 1888-1899 (see the Gutenberg header) | have | PG 49372 |
+| `aline-delano-korolenko-the-blind-musician` | Vladimir Galaktionovich Korolenko | The Blind Musician | Aline Delano | 1888-1899 (see the Gutenberg header) | have | PG 59497 |
+| `aline-delano-tolstoy-the-kingdom-of-god-is-within-you-what-is` | Leo Tolstoy | The Kingdom of God is Within You; What is Art? | Aline Delano | 1888-1899 (see the Gutenberg header) | have | PG 43409 |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

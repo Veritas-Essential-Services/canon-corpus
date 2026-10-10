@@ -1,0 +1,104 @@
+{
+ "_about": "TRANSLATOR SHELF: William Painter (1540?-1594): The Palace of Pleasure (1566-67), the Elizabethan collection of Italian and classical novelle Shakespeare drew on, in Joseph Jacobs's edition (David Nutt, 1890, 3 vols). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_name_words": [
+  "william painter",
+  "painter"
+ ],
+ "_surname": [
+  "william painter",
+  "painter"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "pai-20241": [
+   20241,
+   "The Palace of Pleasure, Volume 1"
+  ],
+  "pai-34053": [
+   34053,
+   "The Palace of Pleasure, Volume 2"
+  ],
+  "pai-34840": [
+   34840,
+   "The Palace of Pleasure, Volume 3"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "painter-the-palace-of-pleasure-vol-1": {
+   "source": "pai-20241",
+   "of": "Various (Italian, French and classical novelle: Boccaccio, Bandello, Livy and others)",
+   "work": "The Palace of Pleasure, Volume 1",
+   "translated": "1566-1567 (Jacobs's edition, 1890)",
+   "translator": "William Painter",
+   "scan_edition": "Project Gutenberg 20241 (clean text)"
+  },
+  "painter-the-palace-of-pleasure-vol-2": {
+   "source": "pai-34053",
+   "of": "Various (Italian, French and classical novelle: Boccaccio, Bandello, Livy and others)",
+   "work": "The Palace of Pleasure, Volume 2",
+   "translated": "1566-1567 (Jacobs's edition, 1890)",
+   "translator": "William Painter",
+   "scan_edition": "Project Gutenberg 34053 (clean text)"
+  },
+  "painter-the-palace-of-pleasure-vol-3": {
+   "source": "pai-34840",
+   "of": "Various (Italian, French and classical novelle: Boccaccio, Bandello, Livy and others)",
+   "work": "The Palace of Pleasure, Volume 3",
+   "translated": "1566-1567 (Jacobs's edition, 1890)",
+   "translator": "William Painter",
+   "scan_edition": "Project Gutenberg 34840 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "pai-20241": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william painter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Painter"
+  },
+  "pai-34053": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william painter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Painter"
+  },
+  "pai-34840": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william painter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Painter"
+  }
+ },
+ "_verified": {
+  "pai-20241": {
+   "pg": 20241,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Painter"
+  },
+  "pai-34053": {
+   "pg": 34053,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Painter"
+  },
+  "pai-34840": {
+   "pg": 34840,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Painter"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

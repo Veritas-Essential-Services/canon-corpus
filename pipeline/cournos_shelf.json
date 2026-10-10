@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: John Cournos (1881-1966) as translator: Sologub's The Created Legend (1916) and The Old House and Other Tales (1915). His Little Demon is on aldington_shelf.json. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_name_words": [
+  "john cournos"
+ ],
+ "_surname": [
+  "john cournos"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "cou-48452": [
+   48452,
+   "The Old House, and Other Tales"
+  ],
+  "cou-7480": [
+   7480,
+   "The Created Legend"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "cournos-sologub-the-created-legend": {
+   "source": "cou-7480",
+   "of": "Fyodor Sologub",
+   "work": "The Created Legend",
+   "translated": "1915-1916 (see the Gutenberg header)",
+   "translator": "John Cournos",
+   "scan_edition": "Project Gutenberg 7480 (clean text)"
+  },
+  "cournos-sologub-the-old-house-and-other-tales": {
+   "source": "cou-48452",
+   "of": "Fyodor Sologub",
+   "work": "The Old House, and Other Tales",
+   "translated": "1915-1916 (see the Gutenberg header)",
+   "translator": "John Cournos",
+   "scan_edition": "Project Gutenberg 48452 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-48912": "The Little Demon is on aldington_shelf.json (lane C).",
+  "pg-68357": "Short-Story Masterpieces vol. 4 is an anthology edited by Esenwein; Cournos is one of several translators.",
+  "pg-74071": "Short-Story Masterpieces vol. 3: same reason."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "cou-48452": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john cournos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Cournos"
+  },
+  "cou-7480": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john cournos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Cournos"
+  }
+ },
+ "_verified": {
+  "cou-48452": {
+   "pg": 48452,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Cournos"
+  },
+  "cou-7480": {
+   "pg": 7480,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Cournos"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

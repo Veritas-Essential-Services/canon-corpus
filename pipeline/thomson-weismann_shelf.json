@@ -1,0 +1,132 @@
+{
+ "_about": "TRANSLATOR SHELF: J. Arthur Thomson (1861-1933) and Margaret R. Thomson: Weismann's The Evolution Theory (Arnold, 1904, 2 vols), Rudolf Otto's Naturalism and Religion (1907) and Brehm's From North Pole to Equator (1896). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_name_words": [
+  "j. arthur thomson",
+  "margaret r. thomson",
+  "arthur thomson"
+ ],
+ "_surname": [
+  "j. arthur thomson",
+  "margaret r. thomson",
+  "arthur thomson"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "tho-31794": [
+   31794,
+   "Naturalism and Religion"
+  ],
+  "tho-64227": [
+   64227,
+   "The Evolution Theory, Vol. 1 of 2"
+  ],
+  "tho-65049": [
+   65049,
+   "The Evolution Theory, Vol. 2 of 2"
+  ],
+  "tho-68142": [
+   68142,
+   "From North Pole to Equator: Studies of Wild Life and Scenes in Many Lands"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "thomson-weismann-brehm-from-north-pole-to-equator-studies-of-wi": {
+   "source": "tho-68142",
+   "of": "Alfred Edmund Brehm",
+   "work": "From North Pole to Equator: Studies of Wild Life and Scenes in Many Lands",
+   "translated": "1896-1907 (see the Gutenberg header)",
+   "translator": "Margaret R. Thomson",
+   "scan_edition": "Project Gutenberg 68142 (clean text)"
+  },
+  "thomson-weismann-otto-naturalism-and-religion": {
+   "source": "tho-31794",
+   "of": "Rudolf Otto",
+   "work": "Naturalism and Religion",
+   "translated": "1896-1907 (see the Gutenberg header)",
+   "translator": "J. Arthur Thomson and Margaret R. Thomson",
+   "scan_edition": "Project Gutenberg 31794 (clean text)"
+  },
+  "thomson-weismann-weismann-the-evolution-theory-vol-1-of-2": {
+   "source": "tho-64227",
+   "of": "August Weismann",
+   "work": "The Evolution Theory, Vol. 1 of 2",
+   "translated": "1896-1907 (see the Gutenberg header)",
+   "translator": "J. Arthur Thomson and Margaret R. Thomson",
+   "scan_edition": "Project Gutenberg 64227 (clean text)"
+  },
+  "thomson-weismann-weismann-the-evolution-theory-vol-2-of-2": {
+   "source": "tho-65049",
+   "of": "August Weismann",
+   "work": "The Evolution Theory, Vol. 2 of 2",
+   "translated": "1896-1907 (see the Gutenberg header)",
+   "translator": "J. Arthur Thomson and Margaret R. Thomson",
+   "scan_edition": "Project Gutenberg 65049 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "tho-31794": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. arthur thomson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. Arthur Thomson; Margaret R. Thomson"
+  },
+  "tho-64227": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. arthur thomson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. Arthur Thomson; Margaret R. Thomson"
+  },
+  "tho-65049": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. arthur thomson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. Arthur Thomson; Margaret R. Thomson"
+  },
+  "tho-68142": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. arthur thomson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Margaret R. Thomson"
+  }
+ },
+ "_verified": {
+  "tho-31794": {
+   "pg": 31794,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. Arthur Thomson"
+  },
+  "tho-64227": {
+   "pg": 64227,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. Arthur Thomson"
+  },
+  "tho-65049": {
+   "pg": 65049,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. Arthur Thomson"
+  },
+  "tho-68142": {
+   "pg": 68142,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Margaret R. Thomson"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

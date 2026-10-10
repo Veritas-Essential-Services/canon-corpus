@@ -135,3 +135,5 @@
 - 2026-10-10T11:55-05:00: round 28: mary-loyd (4), krehbiel (4), frances-hoey (4), dulcken (2), prestage (4), dorothy-bussy (4), dziewicki (4), swanwick (3), oxenford (2), monier-williams (2), lalor (4), walter-armstrong (4). --verify --record 0 mismatched.
 
 - 2026-10-10T12:01-05:00: round 29: ww-waters (3), edna-underwood (4), ellen-frothingham (3), boylan (2), holcroft (3), margaret-armour (3), florence-simmonds (3), guerney (3), benecke (3), lowe-porter (3), aldington (3), dora-schmitz (2), welby (3), emilie-jackson (3), metcalfe (3), wollstonecraft (3), bicknell (4). --verify --record 0 mismatched; benecke 8378 flagged (1944 reprint of a 1921 text).
+
+- 2026-10-10T12:14-05:00: round 30: chapman-coleman (5), soissons (4), mccormack (2), georgina-malcolm (4), denis-maccarthy (4), hannibal-lloyd (4), cournos (2), lily-wolffsohn (3), shea-troyer (3), pauline-townsend (3), thomson-weismann (4), ssa-stephenson (3), robson-michaud (3), painter (3), campion (3), friedlaender (3), aline-delano (3). --verify --record 0 mismatched. Flagged late reprints: campion 50015 (1937), friedlaender 15729 (1946). mccormack 25387/36640 pending (PDF only).

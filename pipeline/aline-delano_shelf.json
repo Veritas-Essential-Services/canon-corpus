@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: Aline Delano (1845-1928): Tolstoy's The Kingdom of God is Within You and What is Art? (1899), Hugo's Ninety-Three (1888) and Korolenko's The Blind Musician (1890). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_name_words": [
+  "aline delano"
+ ],
+ "_surname": [
+  "aline delano"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ade-43409": [
+   43409,
+   "The Kingdom of God is Within You; What is Art?"
+  ],
+  "ade-49372": [
+   49372,
+   "Ninety-Three"
+  ],
+  "ade-59497": [
+   59497,
+   "The Blind Musician"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "aline-delano-hugo-ninety-three": {
+   "source": "ade-49372",
+   "of": "Victor Hugo",
+   "work": "Ninety-Three",
+   "translated": "1888-1899 (see the Gutenberg header)",
+   "translator": "Aline Delano",
+   "scan_edition": "Project Gutenberg 49372 (clean text)"
+  },
+  "aline-delano-korolenko-the-blind-musician": {
+   "source": "ade-59497",
+   "of": "Vladimir Galaktionovich Korolenko",
+   "work": "The Blind Musician",
+   "translated": "1888-1899 (see the Gutenberg header)",
+   "translator": "Aline Delano",
+   "scan_edition": "Project Gutenberg 59497 (clean text)"
+  },
+  "aline-delano-tolstoy-the-kingdom-of-god-is-within-you-what-is": {
+   "source": "ade-43409",
+   "of": "Leo Tolstoy",
+   "work": "The Kingdom of God is Within You; What is Art?",
+   "translated": "1888-1899 (see the Gutenberg header)",
+   "translator": "Aline Delano",
+   "scan_edition": "Project Gutenberg 43409 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ade-43409": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aline delano",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aline Delano"
+  },
+  "ade-49372": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aline delano",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aline Delano"
+  },
+  "ade-59497": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aline delano",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aline Delano"
+  }
+ },
+ "_verified": {
+  "ade-43409": {
+   "pg": 43409,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aline Delano"
+  },
+  "ade-49372": {
+   "pg": 49372,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aline Delano"
+  },
+  "ade-59497": {
+   "pg": 59497,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aline Delano"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

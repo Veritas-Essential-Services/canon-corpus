@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T12:01-05:00: 162 shelves, 1045 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5; 27 (eleven shelves): 57; 28 (twelve shelves): 41; 29 (seventeen shelves): 51. **15 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T12:14-05:00: 179 shelves, 1101 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5; 27 (eleven shelves): 57; 28 (twelve shelves): 41; 29 (seventeen shelves): 51; 30 (seventeen shelves): 56. **15 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -400,3 +400,29 @@ Seventeen new shelves, 51 titles, all from Gutenberg, with the translator line r
 - **`bicknell`** (4): four of Fabre's books for young readers.
 
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 30: seventeen more translators (2026-10-10)
+
+Seventeen new shelves, 56 titles, all from Gutenberg, with the translator line read in every header:
+
+- **`chapman-coleman`** (5): Mrs. Chapman Coleman's Luise Mühlbach (Appleton, 1867-69): *Frederick the Great and His Family*, *Berlin and Sans-Souci*, *Goethe and Schiller*, *Queen Hortense*, *Mohammed Ali and His House*.
+- **`soissons`** (4): Sienkiewicz's *So Runs the World*, Orzeszkowa's *An Obscure Apostle*, and Kraszewski's *The Countess Cosel* and *Count Brühl*.
+- **`mccormack`** (2): Mach's *Popular Scientific Lectures* and Weismann's *On Germinal Selection* (Open Court). His Lagrange and Schubert are in `_pending`: Gutenberg has them only as PDF/LaTeX, with no text file.
+- **`georgina-malcolm`** (4): Freytag's *Pictures of German Life* (1862-63, 4 volumes).
+- **`denis-maccarthy`** (4): Calderón's *Life Is a Dream*, *The Wonder-Working Magician*, *The Purgatory of St. Patrick*, *The Two Lovers of Heaven*.
+- **`hannibal-lloyd`** (4): Prince Maximilian of Wied's *Travels in the Interior of North America* (Thwaites's Early Western Travels, 3 parts) and Iffland's *The Nephews*.
+- **`cournos`** (2): Sologub's *The Created Legend* and *The Old House*. *The Little Demon* is already on `aldington`; two Esenwein anthologies he only contributed to are left out.
+- **`lily-wolffsohn`** (3): Dahn's *A Struggle for Rome* (1878, 3 volumes).
+- **`shea-troyer`** (3): *The Dabistán, or School of Manners* (Oriental Translation Fund, 1843, 3 volumes).
+- **`pauline-townsend`** (3): Otto Jahn's *Life of Mozart* (1882, 3 volumes).
+- **`thomson-weismann`** (4): Weismann's *The Evolution Theory* (2 volumes), Rudolf Otto's *Naturalism and Religion*, and Brehm's *From North Pole to Equator*.
+- **`ssa-stephenson`** (3): Spielhagen's *The Breaking of the Storm* (1877, 3 volumes).
+- **`robson-michaud`** (3): Michaud's *History of the Crusades* (3 volumes).
+- **`painter`** (3): William Painter's *The Palace of Pleasure* (1566-67), the Elizabethan collection of novelle that Shakespeare drew on, in Jacobs's 1890 edition.
+- **`campion`** (3): Schweitzer's *On the Edge of the Primeval Forest* (1922) and the two volumes of *The Philosophy of Civilization* (1923).
+- **`friedlaender`** (3): Dubnow's *History of the Jews in Russia and Poland* (JPS, 1916-20, 3 volumes).
+- **`aline-delano`** (3): Tolstoy's *The Kingdom of God is Within You* and *What is Art?*, Hugo's *Ninety-Three*, Korolenko's *The Blind Musician*.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Flags (same question as Benecke in round 29):** two Gutenberg copies were keyed from reprints made after 1930 of translations first printed before it. Campion's *On the Edge of the Primeval Forest* comes from a 1937 reprint of the 1922 text, and Friedlaender's Dubnow volume 2 from the JPS's 1946 reprint of the 1918 text. The words are the public-domain text, but the copies are not pre-1931 printings. Veto them if you want only pre-1931 copies.
