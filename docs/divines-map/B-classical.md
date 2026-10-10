@@ -2577,6 +2577,7 @@ Shelf: `pipeline/mackail_shelf.json`. John William Mackail (1859-1945): Latin Li
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Latin Literature |  | `mackail-latin-literature` | have (PG 8894) |
+| Lectures on Greek Poetry (London: Longmans, Green, 1910) |  | `mackail-lectures-greek-poetry-1910` | have-raw (IA `lecturesongreekp00mackuoft`) |
 
 ## A. H. J. Greenidge (scholarship)
 

@@ -1,5 +1,5 @@
 {
- "_about": "John William Mackail (1859-1945). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Latin Literature, clean Gutenberg. His translations (Virgil, Catullus, the Greek Anthology, the Odyssey) are on those shelves. No uids minted.",
+ "_about": "John William Mackail (1859-1945). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Latin Literature, clean Gutenberg; Lectures on Greek Poetry (Longmans, 1910), raw IA OCR. His translations (Virgil, Catullus, the Greek Anthology, the Odyssey) are on those shelves. No uids minted.",
  "_name_words": [
   "mackail"
  ],
@@ -15,7 +15,12 @@
    "Latin Literature"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "mackail-lectures-greek-poetry-1910": [
+   "lecturesongreekp00mackuoft",
+   "Lectures on Greek Poetry (London: Longmans, Green, 1910)"
+  ]
+ },
  "_checks": {
   "mackail-latin-literature": {
    "kind": "gutenberg",
@@ -25,6 +30,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "mackail-lectures-greek-poetry-1910": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. w. mackail",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
