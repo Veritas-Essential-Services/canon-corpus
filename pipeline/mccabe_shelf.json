@@ -1,0 +1,258 @@
+{
+ "_about": "TRANSLATOR SHELF: Joseph McCabe (1867-1955): Haeckel (The Riddle of the Universe, The Evolution of Man, The Wonders of Life, Last Words on Evolution), Bölsche's Haeckel, Voltaire's Toleration, Ferrer's Modern School and Nordmann's Einstein and the Universe (1922). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 24); Adam may veto. No uids minted.",
+ "_name_words": [
+  "joseph mccabe"
+ ],
+ "_surname": [
+  "joseph mccabe"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mcc-42968": [
+   42968,
+   "The Riddle of the Universe at the close of the nineteenth century"
+  ],
+  "mcc-46652": [
+   46652,
+   "The Wonders of Life: A Popular Study of Biological Philosophy"
+  ],
+  "mcc-53639": [
+   53639,
+   "Last Words on Evolution: A Popular Retrospect and Summary"
+  ],
+  "mcc-6430": [
+   6430,
+   "The Evolution of Man — Volume 1"
+  ],
+  "mcc-64858": [
+   64858,
+   "Toleration and other essays"
+  ],
+  "mcc-66644": [
+   66644,
+   "The Origin and Ideals of the Modern School"
+  ],
+  "mcc-6710": [
+   6710,
+   "The Evolution of Man — Volume 2"
+  ],
+  "mcc-68462": [
+   68462,
+   "Einstein and the universe: A popular exposition of the famous theory"
+  ],
+  "mcc-70451": [
+   70451,
+   "Haeckel"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "mccabe-bolsche-haeckel": {
+   "source": "mcc-70451",
+   "of": "Wilhelm Bölsche",
+   "work": "Haeckel",
+   "translated": "1900-1922 (see the Gutenberg header)",
+   "translator": "Joseph McCabe",
+   "scan_edition": "Project Gutenberg 70451 (clean text)"
+  },
+  "mccabe-guardia-the-origin-and-ideals-of-the-modern-scho": {
+   "source": "mcc-66644",
+   "of": "Francisco Ferrer Guardia",
+   "work": "The Origin and Ideals of the Modern School",
+   "translated": "1900-1922 (see the Gutenberg header)",
+   "translator": "Joseph McCabe",
+   "scan_edition": "Project Gutenberg 66644 (clean text)"
+  },
+  "mccabe-haeckel-last-words-on-evolution-a-popular-retros": {
+   "source": "mcc-53639",
+   "of": "Ernst Haeckel",
+   "work": "Last Words on Evolution: A Popular Retrospect and Summary",
+   "translated": "1900-1922 (see the Gutenberg header)",
+   "translator": "Joseph McCabe",
+   "scan_edition": "Project Gutenberg 53639 (clean text)"
+  },
+  "mccabe-haeckel-the-evolution-of-man-volume-1": {
+   "source": "mcc-6430",
+   "of": "Ernst Haeckel",
+   "work": "The Evolution of Man — Volume 1",
+   "translated": "1900-1922 (see the Gutenberg header)",
+   "translator": "Joseph McCabe",
+   "scan_edition": "Project Gutenberg 6430 (clean text)"
+  },
+  "mccabe-haeckel-the-evolution-of-man-volume-2": {
+   "source": "mcc-6710",
+   "of": "Ernst Haeckel",
+   "work": "The Evolution of Man — Volume 2",
+   "translated": "1900-1922 (see the Gutenberg header)",
+   "translator": "Joseph McCabe",
+   "scan_edition": "Project Gutenberg 6710 (clean text)"
+  },
+  "mccabe-haeckel-the-riddle-of-the-universe-at-the-close": {
+   "source": "mcc-42968",
+   "of": "Ernst Haeckel",
+   "work": "The Riddle of the Universe at the close of the nineteenth century",
+   "translated": "1900-1922 (see the Gutenberg header)",
+   "translator": "Joseph McCabe",
+   "scan_edition": "Project Gutenberg 42968 (clean text)"
+  },
+  "mccabe-haeckel-the-wonders-of-life-a-popular-study-of-b": {
+   "source": "mcc-46652",
+   "of": "Ernst Haeckel",
+   "work": "The Wonders of Life: A Popular Study of Biological Philosophy",
+   "translated": "1900-1922 (see the Gutenberg header)",
+   "translator": "Joseph McCabe",
+   "scan_edition": "Project Gutenberg 46652 (clean text)"
+  },
+  "mccabe-nordmann-einstein-and-the-universe-a-popular-expo": {
+   "source": "mcc-68462",
+   "of": "Charles Nordmann",
+   "work": "Einstein and the universe: A popular exposition of the famous theory",
+   "translated": "1900-1922 (see the Gutenberg header)",
+   "translator": "Joseph McCabe",
+   "scan_edition": "Project Gutenberg 68462 (clean text)"
+  },
+  "mccabe-voltaire-toleration-and-other-essays": {
+   "source": "mcc-64858",
+   "of": "Voltaire",
+   "work": "Toleration and other essays",
+   "translated": "1900-1922 (see the Gutenberg header)",
+   "translator": "Joseph McCabe",
+   "scan_edition": "Project Gutenberg 64858 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mcc-42968": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph mccabe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph McCabe"
+  },
+  "mcc-46652": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph mccabe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph McCabe"
+  },
+  "mcc-53639": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph mccabe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph McCabe"
+  },
+  "mcc-6430": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph mccabe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph McCabe"
+  },
+  "mcc-64858": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph mccabe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph McCabe"
+  },
+  "mcc-66644": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph mccabe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph McCabe"
+  },
+  "mcc-6710": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph mccabe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph McCabe"
+  },
+  "mcc-68462": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph mccabe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph McCabe"
+  },
+  "mcc-70451": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph mccabe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph McCabe"
+  }
+ },
+ "_verified": {
+  "mcc-42968": {
+   "pg": 42968,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph McCabe"
+  },
+  "mcc-46652": {
+   "pg": 46652,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph McCabe"
+  },
+  "mcc-53639": {
+   "pg": 53639,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph McCabe"
+  },
+  "mcc-6430": {
+   "pg": 6430,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph McCabe"
+  },
+  "mcc-64858": {
+   "pg": 64858,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph McCabe"
+  },
+  "mcc-66644": {
+   "pg": 66644,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph McCabe"
+  },
+  "mcc-6710": {
+   "pg": 6710,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph McCabe"
+  },
+  "mcc-68462": {
+   "pg": 68462,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph McCabe"
+  },
+  "mcc-70451": {
+   "pg": 70451,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph McCabe"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -7654,6 +7654,140 @@ Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `ranous-massa-zibeline-complete` | Philippe Massa | Zibeline — Complete | Dora Knowlton Ranous | 1900-1906 (see the Gutenberg header) | have | PG 3934 |
 | — | — | zibeline-volumes: Zibeline's three Gutenberg volume files are left out; the complete text (3934) is used. | — | — | excluded | — |
 
+## Eden and Cedar Paul (Zweig, Rolland, Schnitzler, Emil Ludwig)
+
+Shelf: `pipeline/eden-cedar-paul_shelf.json` · fetch `python3 pipeline/fetch_shelf.py eden-cedar-paul` · titles `python3 pipeline/split_shelf_titles.py eden-cedar-paul`.
+Round 24 (2026-10-10), vetoable. Sexology titles left out by judgment. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `eden-cedar-paul-engel-the-elements-of-child-protection` | Sigmund Engel | The Elements of Child-protection | Eden Paul | 1915-1929 (see the Gutenberg header) | have | PG 58787 |
+| `eden-cedar-paul-kurella-cesare-lombroso-a-modern-man-of-science` | Hans Kurella | Cesare Lombroso, a modern man of science | Eden Paul | 1915-1929 (see the Gutenberg header) | have | PG 61423 |
+| `eden-cedar-paul-loria-karl-marx` | Achille Loria | Karl Marx | Eden and Cedar Paul | 1915-1929 (see the Gutenberg header) | have | PG 48446 |
+| `eden-cedar-paul-ludwig-diana` | Emil Ludwig | Diana | Eden and Cedar Paul | 1915-1929 (see the Gutenberg header) | have | PG 77479 |
+| `eden-cedar-paul-ludwig-napoleon` | Emil Ludwig | Napoleon | Eden and Cedar Paul | 1915-1929 (see the Gutenberg header) | have | PG 79253 |
+| `eden-cedar-paul-riou-the-diary-of-a-french-private-war-impris` | Gaston Riou | The Diary of a French Private: War-Imprisonment, 1914-1915 | Eden and Cedar Paul | 1915-1929 (see the Gutenberg header) | have | PG 57287 |
+| `eden-cedar-paul-rolland-the-forerunners` | Romain Rolland | The Forerunners | Eden and Cedar Paul | 1915-1929 (see the Gutenberg header) | have | PG 31313 |
+| `eden-cedar-paul-schnitzler-casanova-s-homecoming` | Arthur Schnitzler | Casanova's Homecoming | Eden and Cedar Paul | 1915-1929 (see the Gutenberg header) | have | PG 9310 |
+| `eden-cedar-paul-zweig-jeremiah-a-drama-in-nine-scenes` | Stefan Zweig | Jeremiah: A Drama in Nine Scenes | Eden and Cedar Paul | 1915-1929 (see the Gutenberg header) | have | PG 39402 |
+| `eden-cedar-paul-zweig-romain-rolland-the-man-and-his-work` | Stefan Zweig | Romain Rolland: The Man and His Work | Eden and Cedar Paul | 1915-1929 (see the Gutenberg header) | have | PG 34888 |
+| — | — | sexology: Left out by lane C's judgment, not for rights: A Young Girl's Diary (752), Moll's The Sexual Life of the Child (28402), Bloch's The Sexual Life of Our Time (60968) and Kisch's The Sexual Life of Woman (63274), medical and psychoanalytic works of the 1910s-20s. Adam can ask for them. | — | — | excluded | — |
+
+## T. Bailey Saunders (Schopenhauer's essays; Goethe's Maxims)
+
+Shelf: `pipeline/bailey-saunders_shelf.json` · fetch `python3 pipeline/fetch_shelf.py bailey-saunders` · titles `python3 pipeline/split_shelf_titles.py bailey-saunders`.
+Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `bailey-saunders-goethe-maxims-and-reflections` | Johann Wolfgang von Goethe | Maxims and Reflections | T. Bailey Saunders | 1889-1896 (see the Gutenberg header) | have | PG 33670 |
+| `bailey-saunders-schopenhauer-the-essays-of-arthur-schopenhauer-counse` | Arthur Schopenhauer | The Essays of Arthur Schopenhauer; Counsels and Maxims | T. Bailey Saunders | 1889-1896 (see the Gutenberg header) | have | PG 10715 |
+| `bailey-saunders-schopenhauer-the-essays-of-arthur-schopenhauer-on-hum` | Arthur Schopenhauer | The Essays of Arthur Schopenhauer; On Human Nature | T. Bailey Saunders | 1889-1896 (see the Gutenberg header) | have | PG 10739 |
+| `bailey-saunders-schopenhauer-the-essays-of-arthur-schopenhauer-religi` | Arthur Schopenhauer | The Essays of Arthur Schopenhauer; Religion, a Dialogue, Etc. | T. Bailey Saunders | 1889-1896 (see the Gutenberg header) | have | PG 10833 |
+| `bailey-saunders-schopenhauer-the-essays-of-arthur-schopenhauer-studie` | Arthur Schopenhauer | The Essays of Arthur Schopenhauer; Studies in Pessimism | T. Bailey Saunders | 1889-1896 (see the Gutenberg header) | have | PG 10732 |
+| `bailey-saunders-schopenhauer-the-essays-of-arthur-schopenhauer-the-ar` | Arthur Schopenhauer | The Essays of Arthur Schopenhauer; The Art of Literature | T. Bailey Saunders | 1889-1896 (see the Gutenberg header) | have | PG 10714 |
+| `bailey-saunders-schopenhauer-the-essays-of-arthur-schopenhauer-the-ar-pg10731` | Arthur Schopenhauer | The Essays of Arthur Schopenhauer; the Art of Controversy | T. Bailey Saunders | 1889-1896 (see the Gutenberg header) | have | PG 10731 |
+| `bailey-saunders-schopenhauer-the-essays-of-arthur-schopenhauer-the-wi` | Arthur Schopenhauer | The Essays of Arthur Schopenhauer: the Wisdom of Life | T. Bailey Saunders | 1889-1896 (see the Gutenberg header) | have | PG 10741 |
+| — | — | pg-26586: A second Gutenberg copy of Studies in Pessimism; 10732 is used. | — | — | excluded | — |
+
+## Joseph McCabe (Haeckel, Voltaire, Ferrer)
+
+Shelf: `pipeline/mccabe_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mccabe` · titles `python3 pipeline/split_shelf_titles.py mccabe`.
+Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `mccabe-bolsche-haeckel` | Wilhelm Bölsche | Haeckel | Joseph McCabe | 1900-1922 (see the Gutenberg header) | have | PG 70451 |
+| `mccabe-guardia-the-origin-and-ideals-of-the-modern-scho` | Francisco Ferrer Guardia | The Origin and Ideals of the Modern School | Joseph McCabe | 1900-1922 (see the Gutenberg header) | have | PG 66644 |
+| `mccabe-haeckel-last-words-on-evolution-a-popular-retros` | Ernst Haeckel | Last Words on Evolution: A Popular Retrospect and Summary | Joseph McCabe | 1900-1922 (see the Gutenberg header) | have | PG 53639 |
+| `mccabe-haeckel-the-evolution-of-man-volume-1` | Ernst Haeckel | The Evolution of Man — Volume 1 | Joseph McCabe | 1900-1922 (see the Gutenberg header) | have | PG 6430 |
+| `mccabe-haeckel-the-evolution-of-man-volume-2` | Ernst Haeckel | The Evolution of Man — Volume 2 | Joseph McCabe | 1900-1922 (see the Gutenberg header) | have | PG 6710 |
+| `mccabe-haeckel-the-riddle-of-the-universe-at-the-close` | Ernst Haeckel | The Riddle of the Universe at the close of the nineteenth century | Joseph McCabe | 1900-1922 (see the Gutenberg header) | have | PG 42968 |
+| `mccabe-haeckel-the-wonders-of-life-a-popular-study-of-b` | Ernst Haeckel | The Wonders of Life: A Popular Study of Biological Philosophy | Joseph McCabe | 1900-1922 (see the Gutenberg header) | have | PG 46652 |
+| `mccabe-nordmann-einstein-and-the-universe-a-popular-expo` | Charles Nordmann | Einstein and the universe: A popular exposition of the famous theory | Joseph McCabe | 1900-1922 (see the Gutenberg header) | have | PG 68462 |
+| `mccabe-voltaire-toleration-and-other-essays` | Voltaire | Toleration and other essays | Joseph McCabe | 1900-1922 (see the Gutenberg header) | have | PG 64858 |
+
+## R. Farquharson Sharp (Ibsen and Bjørnson for Everyman)
+
+Shelf: `pipeline/farquharson-sharp_shelf.json` · fetch `python3 pipeline/fetch_shelf.py farquharson-sharp` · titles `python3 pipeline/split_shelf_titles.py farquharson-sharp`.
+Round 24 (2026-10-10), vetoable. A Doll's House held on adler_shelf.json. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `farquharson-sharp-bjornson-three-comedies` | Bjørnstjerne Bjørnson | Three Comedies | R. Farquharson Sharp | 1910-1915 (Everyman's Library; see the Gutenberg header) | have | PG 7366 |
+| `farquharson-sharp-bjornson-three-dramas` | Bjørnstjerne Bjørnson | Three Dramas | R. Farquharson Sharp | 1910-1915 (Everyman's Library; see the Gutenberg header) | have | PG 7844 |
+| `farquharson-sharp-ibsen-a-doll-s-house` | Henrik Ibsen | A Doll's House | R. Farquharson Sharp | 1910 (Everyman's Library) | held elsewhere (cross-ref) | `pipeline/adler_shelf.json` → `ibsen-dollshouse` (PG 2542) |
+| `farquharson-sharp-ibsen-an-enemy-of-the-people` | Henrik Ibsen | An Enemy of the People | R. Farquharson Sharp | 1910-1915 (Everyman's Library; see the Gutenberg header) | have | PG 2446 |
+| `farquharson-sharp-ibsen-ghosts-a-domestic-tragedy-in-three-acts` | Henrik Ibsen | Ghosts: A Domestic Tragedy in Three Acts | R. Farquharson Sharp | 1910-1915 (Everyman's Library; see the Gutenberg header) | have | PG 2467 |
+| `farquharson-sharp-ibsen-pillars-of-society` | Henrik Ibsen | Pillars of Society | R. Farquharson Sharp | 1910-1915 (Everyman's Library; see the Gutenberg header) | have | PG 2296 |
+| `farquharson-sharp-ibsen-rosmersholm` | Henrik Ibsen | Rosmersholm | R. Farquharson Sharp | 1910-1915 (Everyman's Library; see the Gutenberg header) | have | PG 2289 |
+| — | — | pg-15492: A 1920s Haldeman-Julius reprint of A Doll's House; the Everyman text is used. | — | — | excluded | — |
+| — | — | pg-2542: A Doll's House (2542) is on adler_shelf.json; a cross-reference title points to it. | — | — | excluded | — |
+
+## Mary Morison (Brandes's Main Currents and Shakespeare; Bjørnson)
+
+Shelf: `pipeline/mary-morison_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mary-morison` · titles `python3 pipeline/split_shelf_titles.py mary-morison`.
+Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `mary-morison-bjornson-mary` | Bjørnstjerne Bjørnson | Mary | Mary Morison | 1898-1909 (see the Gutenberg header) | have | PG 33300 |
+| `mary-morison-brandes-main-currents-vol-1` | Georg Brandes | Main Currents in Nineteenth Century Literature - 1. The Emigrant Literature | Mary Morison (with Diana White) | 1898-1909 (see the Gutenberg header) | have | PG 47675 |
+| `mary-morison-brandes-main-currents-vol-2` | Georg Brandes | Main Currents in Nineteenth Century Literature - 2. The Romantic School in Germany | Mary Morison (with Diana White) | 1898-1909 (see the Gutenberg header) | have | PG 47781 |
+| `mary-morison-brandes-main-currents-vol-3` | Georg Brandes | Main Currents in Nineteenth Century Literature - 3. The Reaction in France | Mary Morison (with Diana White) | 1898-1909 (see the Gutenberg header) | have | PG 47794 |
+| `mary-morison-brandes-main-currents-vol-4` | Georg Brandes | Main Currents in Nineteenth Century Literature - 4. Naturalism in England | Mary Morison (with Diana White) | 1898-1909 (see the Gutenberg header) | have | PG 47892 |
+| `mary-morison-brandes-main-currents-vol-5` | Georg Brandes | Main Currents in Nineteenth Century Literature - 5. The Romantic School in France | Mary Morison (with Diana White) | 1898-1909 (see the Gutenberg header) | have | PG 47950 |
+| `mary-morison-brandes-main-currents-vol-6` | Georg Brandes | Main Currents in Nineteenth Century Literature - 6. Young Germany | Mary Morison (with Diana White) | 1898-1909 (see the Gutenberg header) | have | PG 48042 |
+| `mary-morison-brandes-william-shakespeare-a-critical-study` | Georg Brandes | William Shakespeare: A Critical Study | Mary Morison (with William Archer, Diana White) | 1898-1909 (see the Gutenberg header) | have | PG 50724 |
+
+## Diana White (Dubois's Timbuctoo)
+
+Shelf: `pipeline/diana-white_shelf.json` · fetch `python3 pipeline/fetch_shelf.py diana-white` · titles `python3 pipeline/split_shelf_titles.py diana-white`.
+Round 24 (2026-10-10), vetoable. Her Brandes is on mary-morison. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `diana-white-dubois-timbuctoo-the-mysterious` | Félix Dubois | Timbuctoo the mysterious | Diana White | 1896 (see the Gutenberg header) | have | PG 78611 |
+| — | — | brandes: Her Brandes volumes with Mary Morison are on mary-morison_shelf.json. | — | — | excluded | — |
+
+## Robert Black (Guizot's Popular History of France)
+
+Shelf: `pipeline/robert-black_shelf.json` · fetch `python3 pipeline/fetch_shelf.py robert-black` · titles `python3 pipeline/split_shelf_titles.py robert-black`.
+Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `robert-black-guizot-a-popular-history-of-france-from-the-ear` | François Guizot | A Popular History of France from the Earliest Times | Robert Black | 1869-1881 (see the Gutenberg header) | have | PG 28879 |
+| — | — | guizot-volumes: The six Gutenberg volume files (11951-11956) are left out; the complete text (28879) is used. | — | — | excluded | — |
+
+## E. M. Waller (Dumas's My Memoirs; Mérimée)
+
+Shelf: `pipeline/waller_shelf.json` · fetch `python3 pipeline/fetch_shelf.py waller` · titles `python3 pipeline/split_shelf_titles.py waller`.
+Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `waller-dumas-my-memoirs-vol-i-1802-to-1821` | Alexandre Dumas | My Memoirs, Vol. I, 1802 to 1821 | E. M. Waller | 1903-1909 (see the Gutenberg header) | have | PG 49678 |
+| `waller-dumas-my-memoirs-vol-ii-1822-to-1825` | Alexandre Dumas | My Memoirs, Vol. II, 1822 to 1825 | E. M. Waller | 1903-1909 (see the Gutenberg header) | have | PG 50113 |
+| `waller-dumas-my-memoirs-vol-iii-1826-to-1830` | Alexandre Dumas | My Memoirs, Vol. III, 1826 to 1830 | E. M. Waller | 1903-1909 (see the Gutenberg header) | have | PG 50426 |
+| `waller-dumas-my-memoirs-vol-iv-1830-to-1831` | Alexandre Dumas | My Memoirs, Vol. IV, 1830 to 1831 | E. M. Waller | 1903-1909 (see the Gutenberg header) | have | PG 50630 |
+| `waller-dumas-my-memoirs-vol-v-1831-to-1832` | Alexandre Dumas | My Memoirs, Vol. V, 1831 to 1832 | E. M. Waller | 1903-1909 (see the Gutenberg header) | have | PG 50768 |
+| `waller-dumas-my-memoirs-vol-vi-1832-to-1833` | Alexandre Dumas | My Memoirs, Vol. VI, 1832 to 1833 | E. M. Waller | 1903-1909 (see the Gutenberg header) | have | PG 51105 |
+| `waller-merimee-abbe-aubain-and-mosaics` | Prosper Mérimée | Abbé Aubain and Mosaics | E. M. Waller | 1903-1909 (see the Gutenberg header) | have | PG 35004 |
+
+## Fred Rothwell (Bergson's Laughter; Schuré)
+
+Shelf: `pipeline/rothwell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py rothwell` · titles `python3 pipeline/split_shelf_titles.py rothwell`.
+Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `rothwell-bergson-laughter-an-essay-on-the-meaning-of-the` | Henri Bergson | Laughter: An Essay on the Meaning of the Comic | Fred Rothwell (with Cloudesley Brereton) | 1910-1923 (see the Gutenberg header) | have | PG 4352 |
+| `rothwell-ohnet-the-woman-of-mystery` | Georges Ohnet | The woman of mystery | Fred Rothwell | 1910-1923 (see the Gutenberg header) | have | PG 69149 |
+| `rothwell-pascal-reincarnation-a-study-in-human-evolution` | Théophile Pascal | Reincarnation: A Study in Human Evolution | Fred Rothwell | 1910-1923 (see the Gutenberg header) | have | PG 21533 |
+| `rothwell-roujon-battles-bivouacs-a-french-soldier-s-note` | Jacques Roujon | Battles & Bivouacs: A French soldier's note-book | Fred Rothwell | 1910-1923 (see the Gutenberg header) | have | PG 58231 |
+| `rothwell-schure-pythagoras-and-the-delphic-mysteries` | Edouard Schuré | Pythagoras and the Delphic mysteries | Fred Rothwell | 1910-1923 (see the Gutenberg header) | have | PG 76522 |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

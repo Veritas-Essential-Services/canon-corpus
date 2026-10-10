@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T11:27-05:00: 98 shelves, 764 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92. **13 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T11:31-05:00: 107 shelves, 820 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56. **14 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -285,3 +285,21 @@ Ten new shelves, 92 titles, all from Gutenberg, with the translator line read in
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Your call:** none beyond the veto. For the wilhelm-busch shelf's owner: Brooks's *Plish and Plum* (PG 37188) is not on it yet.
+
+
+## Round 24: philosophers, critics, historians (2026-10-10)
+
+Nine new shelves, 56 titles, all from Gutenberg, with the translator line read in every header. No post-1930 year appears in any front matter:
+
+- **`eden-cedar-paul`** (10): Eden and Cedar Paul's Zweig (2), Rolland, Schnitzler's *Casanova's Homecoming*, Emil Ludwig's *Napoleon* and *Diana*, Loria's *Karl Marx*, a French private's war diary, and two books by Eden alone.
+- **`bailey-saunders`** (8): T. Bailey Saunders's seven volumes of Schopenhauer's essays and Goethe's *Maxims and Reflections*.
+- **`mccabe`** (9): Joseph McCabe's Haeckel (5 titles, including *The Riddle of the Universe*), Bölsche's life of Haeckel, Voltaire's *Toleration*, Ferrer and Nordmann's *Einstein and the Universe*.
+- **`farquharson-sharp`** (7): R. Farquharson Sharp's Everyman Ibsen (5) and Bjørnson (2). His *A Doll's House* is already on adler_shelf.json, so it is a cross-reference here.
+- **`mary-morison`** (8): Brandes's *Main Currents in Nineteenth Century Literature* (6 volumes, with Diana White) and *William Shakespeare* (with Archer and White), and Bjørnson's *Mary*. **`diana-white`** (1): Dubois's *Timbuctoo the Mysterious*.
+- **`robert-black`** (1): Guizot's *Popular History of France*, as Gutenberg's one complete text.
+- **`waller`** (7): E. M. Waller's Dumas, *My Memoirs* (6 volumes), and Mérimée.
+- **`rothwell`** (5): Fred Rothwell's Bergson (*Laughter*, with Brereton), Schuré, Pascal, Ohnet and Roujon.
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** I left four of the Pauls' translations off, by judgment rather than rights: *A Young Girl's Diary* and three sexology books from the 1910s-20s (Moll, Bloch, Kisch). They are listed in the shelf's `_excluded`. Say if you want them in.

@@ -1,0 +1,210 @@
+{
+ "_about": "TRANSLATOR SHELF: E. M. Waller: Dumas's My Memoirs (Methuen, 1907-09, 6 vols, intro. Andrew Lang) and Mérimée's Abbé Aubain and Mosaics (1903). US public domain. Added 2026-10-10 by lane C (round 24); Adam may veto. No uids minted.",
+ "_name_words": [
+  "e. m. waller",
+  "emily mary waller",
+  "waller"
+ ],
+ "_surname": [
+  "e. m. waller",
+  "emily mary waller",
+  "waller"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "wal-35004": [
+   35004,
+   "Abbé Aubain and Mosaics"
+  ],
+  "wal-49678": [
+   49678,
+   "My Memoirs, Vol. I, 1802 to 1821"
+  ],
+  "wal-50113": [
+   50113,
+   "My Memoirs, Vol. II, 1822 to 1825"
+  ],
+  "wal-50426": [
+   50426,
+   "My Memoirs, Vol. III, 1826 to 1830"
+  ],
+  "wal-50630": [
+   50630,
+   "My Memoirs, Vol. IV, 1830 to 1831"
+  ],
+  "wal-50768": [
+   50768,
+   "My Memoirs, Vol. V, 1831 to 1832"
+  ],
+  "wal-51105": [
+   51105,
+   "My Memoirs, Vol. VI, 1832 to 1833"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "waller-dumas-my-memoirs-vol-i-1802-to-1821": {
+   "source": "wal-49678",
+   "of": "Alexandre Dumas",
+   "work": "My Memoirs, Vol. I, 1802 to 1821",
+   "translated": "1903-1909 (see the Gutenberg header)",
+   "translator": "E. M. Waller",
+   "scan_edition": "Project Gutenberg 49678 (clean text)"
+  },
+  "waller-dumas-my-memoirs-vol-ii-1822-to-1825": {
+   "source": "wal-50113",
+   "of": "Alexandre Dumas",
+   "work": "My Memoirs, Vol. II, 1822 to 1825",
+   "translated": "1903-1909 (see the Gutenberg header)",
+   "translator": "E. M. Waller",
+   "scan_edition": "Project Gutenberg 50113 (clean text)"
+  },
+  "waller-dumas-my-memoirs-vol-iii-1826-to-1830": {
+   "source": "wal-50426",
+   "of": "Alexandre Dumas",
+   "work": "My Memoirs, Vol. III, 1826 to 1830",
+   "translated": "1903-1909 (see the Gutenberg header)",
+   "translator": "E. M. Waller",
+   "scan_edition": "Project Gutenberg 50426 (clean text)"
+  },
+  "waller-dumas-my-memoirs-vol-iv-1830-to-1831": {
+   "source": "wal-50630",
+   "of": "Alexandre Dumas",
+   "work": "My Memoirs, Vol. IV, 1830 to 1831",
+   "translated": "1903-1909 (see the Gutenberg header)",
+   "translator": "E. M. Waller",
+   "scan_edition": "Project Gutenberg 50630 (clean text)"
+  },
+  "waller-dumas-my-memoirs-vol-v-1831-to-1832": {
+   "source": "wal-50768",
+   "of": "Alexandre Dumas",
+   "work": "My Memoirs, Vol. V, 1831 to 1832",
+   "translated": "1903-1909 (see the Gutenberg header)",
+   "translator": "E. M. Waller",
+   "scan_edition": "Project Gutenberg 50768 (clean text)"
+  },
+  "waller-dumas-my-memoirs-vol-vi-1832-to-1833": {
+   "source": "wal-51105",
+   "of": "Alexandre Dumas",
+   "work": "My Memoirs, Vol. VI, 1832 to 1833",
+   "translated": "1903-1909 (see the Gutenberg header)",
+   "translator": "E. M. Waller",
+   "scan_edition": "Project Gutenberg 51105 (clean text)"
+  },
+  "waller-merimee-abbe-aubain-and-mosaics": {
+   "source": "wal-35004",
+   "of": "Prosper Mérimée",
+   "work": "Abbé Aubain and Mosaics",
+   "translated": "1903-1909 (see the Gutenberg header)",
+   "translator": "E. M. Waller",
+   "scan_edition": "Project Gutenberg 35004 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "wal-35004": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. m. waller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. M. Waller"
+  },
+  "wal-49678": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. m. waller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. M. Waller"
+  },
+  "wal-50113": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. m. waller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. M. Waller"
+  },
+  "wal-50426": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. m. waller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. M. Waller"
+  },
+  "wal-50630": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. m. waller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. M. Waller"
+  },
+  "wal-50768": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. m. waller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. M. Waller"
+  },
+  "wal-51105": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. m. waller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. M. Waller"
+  }
+ },
+ "_verified": {
+  "wal-35004": {
+   "pg": 35004,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. M. Waller"
+  },
+  "wal-49678": {
+   "pg": 49678,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. M. Waller"
+  },
+  "wal-50113": {
+   "pg": 50113,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. M. Waller"
+  },
+  "wal-50426": {
+   "pg": 50426,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. M. Waller"
+  },
+  "wal-50630": {
+   "pg": 50630,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. M. Waller"
+  },
+  "wal-50768": {
+   "pg": 50768,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. M. Waller"
+  },
+  "wal-51105": {
+   "pg": 51105,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. M. Waller"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

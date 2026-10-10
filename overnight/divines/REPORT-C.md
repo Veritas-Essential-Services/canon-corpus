@@ -123,3 +123,5 @@
 - 2026-10-10T11:18-05:00: round 22: safford (23), wister (14), allinson (9), worster (8), chater (7), de-leon (18). --verify --record 0 mismatched.
 
 - 2026-10-10T11:27-05:00: round 23: upton (35), colbron (5), isaac-goldberg (9), thomas-roscoe (8), durand (7), ct-brooks (6), lady-wallace (8), frewer (6), laura-ensor (6), ranous (2). --verify --record 0 mismatched.
+
+- 2026-10-10T11:31-05:00: round 24: eden-cedar-paul (10), bailey-saunders (8), mccabe (9), farquharson-sharp (7, one held_in), mary-morison (8), diana-white (1), robert-black (1), waller (7), rothwell (5). --verify --record 0 mismatched.
