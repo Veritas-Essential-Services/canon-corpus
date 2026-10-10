@@ -2881,6 +2881,8 @@ Shelf: `pipeline/h-b-walters_shelf.json`. Henry Beauchamp Walters (1867-1944), B
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| History of Ancient Pottery: Greek, Etruscan, and Roman, vol. 1 |  | `walters-history-ancient-pottery-v1` | have (PG 48154) |
+| History of Ancient Pottery: Greek, Etruscan, and Roman, vol. 2 |  | `walters-history-ancient-pottery-v2` | have (PG 48155) |
 
 ## J. G. Frazer (scholarship)
 
