@@ -2838,6 +2838,7 @@ Shelf: `pipeline/h-w-johnston_shelf.json`. Harold Whetstone Johnston (1859-1912)
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Private Life of the Romans |  | `johnston-private-life-romans` | have (PG 40549) |
 
 ## August Mau (scholarship)
 
