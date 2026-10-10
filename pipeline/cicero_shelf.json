@@ -261,6 +261,11 @@
    "deathnobaneanew00blacgoog",
    "Death No Bane: a new translation, with copious illustrative notes, of Cicero's First Tusculan Disputation (London: Sampson Low, Marston, Searle and Rivington, 1889)",
    "tr. Robert Black"
+  ],
+  "cicero-duncan-select-orations-1841": [
+   "selectorationsc00cicegoog",
+   "Select Orations of Cicero, translated into English, with notes historical, critical and explanatory (Oxford: J. Vincent for Thomas Tegg, 1841)",
+   "tr. William Duncan"
   ]
  },
  "_surname": [
@@ -312,7 +317,8 @@
   "cicero-melmoth-letters-1808-v5": "William Melmoth",
   "cicero-melmoth-letters-1808-v1": "Melmoth",
   "cicero-smith-amicitia-1897": "benjamin e. smith",
-  "cicero-black-tusculan-i-1889": "robert black"
+  "cicero-black-tusculan-i-1889": "robert black",
+  "cicero-duncan-select-orations-1841": "william duncan"
  },
  "_translator_unchecked": {
   "cicero-ker-philippics": "translator on the row (Walter C. A. Ker) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -325,7 +331,7 @@
  "_checks": {
   "cicero-yonge-orations-v4": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "charles duke yonge",
@@ -337,7 +343,7 @@
   },
   "cicero-yonge-academics-finibus-tusculans": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Charles Duke Yonge",
@@ -349,7 +355,7 @@
   },
   "cicero-yonge-tusculans-nature-gods": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Charles Duke Yonge",
@@ -361,7 +367,7 @@
   },
   "cicero-shuckburgh-friendship-old-age": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Evelyn S. Shuckburgh",
@@ -373,7 +379,7 @@
   },
   "cicero-peabody-amicitia": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Andrew P. Peabody",
@@ -385,7 +391,7 @@
   },
   "cicero-featherstonhaugh-republic": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "George William Featherstonhaugh",
@@ -397,7 +403,7 @@
   },
   "cicero-jones-brutus-orator": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "E. Jones",
@@ -409,7 +415,7 @@
   },
   "cicero-shuckburgh-letters-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Evelyn S. Shuckburgh",
@@ -421,7 +427,7 @@
   },
   "cicero-shuckburgh-letters-selection": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Evelyn S. Shuckburgh",
@@ -433,7 +439,7 @@
   },
   "cicero-miller-de-officiis": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Walter Miller",
@@ -445,7 +451,7 @@
   },
   "cicero-winstedt-atticus-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Eric Otto Winstedt",
@@ -457,7 +463,7 @@
   },
   "cicero-winstedt-atticus-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Eric Otto Winstedt",
@@ -469,7 +475,7 @@
   },
   "cicero-winstedt-atticus-v3": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Eric Otto Winstedt",
@@ -481,7 +487,7 @@
   },
   "cicero-yonge-orations-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "C. D. Yonge",
@@ -494,7 +500,7 @@
   },
   "cicero-yonge-orations-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "C. D. Yonge",
@@ -507,7 +513,7 @@
   },
   "cicero-yonge-orations-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "yonge",
@@ -520,7 +526,7 @@
   },
   "cicero-shuckburgh-letters-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Evelyn S. Shuckburgh",
@@ -533,7 +539,7 @@
   },
   "cicero-shuckburgh-letters-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Evelyn S. Shuckburgh",
@@ -546,7 +552,7 @@
   },
   "cicero-shuckburgh-letters-v4": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Evelyn S. Shuckburgh",
@@ -559,7 +565,7 @@
   },
   "cicero-williams-friends-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "W. Glynn Williams",
@@ -572,7 +578,7 @@
   },
   "cicero-williams-friends-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "W. Glynn Williams",
@@ -585,7 +591,7 @@
   },
   "cicero-rackham-de-finibus": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "H. Rackham",
@@ -598,7 +604,7 @@
   },
   "cicero-falconer-senectute-amicitia-divinatione": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "W. A. Falconer",
@@ -611,7 +617,7 @@
   },
   "cicero-ker-philippics": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "identity": "ok",
@@ -622,7 +628,7 @@
   },
   "cicero-greenwood-verrines-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "L. H. G. Greenwood",
@@ -635,7 +641,7 @@
   },
   "cicero-keyes-de-re-publica-de-legibus": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Clinton Walker Keyes",
@@ -648,7 +654,7 @@
   },
   "cicero-cockman-offices-melmoth-cato-laelius": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "dr. cockman",
@@ -661,7 +667,7 @@
   },
   "cicero-watson-on-oratory": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "identity": "ok",
@@ -672,7 +678,7 @@
   },
   "cicero-edmonds-offices": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "edmonds, c. r.",
@@ -685,7 +691,7 @@
   },
   "cicero-watts-pro-archia-etc": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "N. H. Watts",
@@ -699,7 +705,7 @@
   },
   "cicero-grose-hodge-pro-lege-manilia-etc": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "H. Grose Hodge",
@@ -713,7 +719,7 @@
   },
   "cicero-freese-pro-quinctio-etc": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "John Henry Freese",
@@ -727,7 +733,7 @@
   },
   "cicero-guthrie-atticus-1752-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "William Guthrie",
@@ -740,7 +746,7 @@
   },
   "cicero-guthrie-atticus-1806-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "identity": "ok",
@@ -751,7 +757,7 @@
   },
   "cicero-guthrie-atticus-1806-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "identity": "ok",
@@ -762,7 +768,7 @@
   },
   "cicero-guthrie-offices-etc-1755": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "William Guthrie",
@@ -775,7 +781,7 @@
   },
   "cicero-guthrie-de-oratore-1808-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Guthrie",
@@ -788,7 +794,7 @@
   },
   "cicero-guthrie-de-oratore-1808-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "identity": "ok",
@@ -799,7 +805,7 @@
   },
   "cicero-heberden-atticus-1825-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Heberden",
@@ -812,7 +818,7 @@
   },
   "cicero-heberden-atticus-1825-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Heberden",
@@ -825,7 +831,7 @@
   },
   "cicero-francklin-nature-gods-1829": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Francklin",
@@ -838,7 +844,7 @@
   },
   "cicero-jeans-letters-1887": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Jeans",
@@ -851,7 +857,7 @@
   },
   "cicero-melmoth-letters-1808-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "William Melmoth",
@@ -864,7 +870,7 @@
   },
   "cicero-melmoth-letters-1808-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "William Melmoth",
@@ -877,7 +883,7 @@
   },
   "cicero-melmoth-letters-1808-v4": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "William Melmoth",
@@ -890,7 +896,7 @@
   },
   "cicero-melmoth-letters-1808-v5": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "William Melmoth",
@@ -903,7 +909,7 @@
   },
   "cicero-melmoth-letters-1808-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "Melmoth",
@@ -916,7 +922,7 @@
   },
   "cicero-reid-academics-1880": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "identity": "ok",
@@ -927,7 +933,7 @@
   },
   "cicero-smith-amicitia-1897": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "benjamin e. smith",
@@ -940,7 +946,7 @@
   },
   "cicero-black-tusculan-i-1889": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "cicero",
    "translator_claimed": "robert black",
@@ -948,6 +954,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1889",
    "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-duncan-select-orations-1841": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "william duncan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

@@ -1331,6 +1331,7 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | The Academics of Cicero (London: Macmillan, 1880) | James S. Reid | `cicero-reid-academics-1880` | have-raw (IA `academicscicero00cicegoog`) |
 | De Amicitia (On Friendship) (New York: The Century Co.; copyright 1897, this printing 1906) | Benjamin E. Smith | `cicero-smith-amicitia-1897` | have-raw (IA `deamicitiaonfrie00cice`) |
 | Death No Bane: a new translation, with copious illustrative notes, of Cicero's First Tusculan Disputation (London: Sampson Low, Marston, Searle and Rivington, 1889) | Robert Black | `cicero-black-tusculan-i-1889` | have-raw (IA `deathnobaneanew00blacgoog`) |
+| Select Orations of Cicero, translated into English, with notes historical, critical and explanatory (Oxford: J. Vincent for Thomas Tegg, 1841) | William Duncan | `cicero-duncan-select-orations-1841` | have-raw (IA `selectorationsc00cicegoog`) |
 
 Pending (wishlist): King's Tusculans (Loeb 1927; only the 1945 revised printing has text, refused).
 
