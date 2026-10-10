@@ -910,3 +910,6 @@
 
 ## 2026-10-10 13:52 CDT — f-j-a-hort done
 - `pipeline/f-j-a-hort_shelf.json`: 1 CCEL, 0 PG, 12 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:52 CDT — legh-richmond done
+- `pipeline/legh-richmond_shelf.json`: 0 CCEL, 2 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.

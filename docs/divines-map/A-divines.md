@@ -3680,3 +3680,22 @@ Slugs `hort-*`. CCEL's Christian Ecclesia was keyed from a 1914 reprint, so the 
 | firstepistleofst00hortuoft and epistleofstjames00hortuoft: English text OCR'd as Greek, useless | excluded | |
 | later reprints (1913, 1922 and modern) | excluded | |
 | Journal of Classical and Sacred Philology: a periodical | excluded | |
+
+## Legh Richmond (round 20, my pick, 2026-10-10)
+
+Slugs `richmond-*`. Evangelical Anglican tract writer; no pre-1826 printing of a single tract survives on IA.
+
+| Work | Status | Where |
+|---|---|---|
+| The Annals of the Poor (transcribed from the 1900 T. Nelson and Sons edition) | have-clean | Gutenberg 19671 |
+| The Dairyman's Daughter (transcribed from the Alexander Hislop edition, no year stated) | have-clean | Gutenberg 19615 |
+| Annals of the Poor, containing the Dairyman's Daughter, Negro Servant, and Young Cottager, new edition enlarged, with an introductory sketch of the author by John Ayre (London: Hatchard and Son, 1829) | have-ocr | IA `annalsofpoorcon00rich` |
+| The Negro Servant and The Young Cottager (Nelson, catalogued 1876; negroservant00richgoog, youngcottager00richgoog) and The Dairyman's Daughter (Richmond, Va., 1851, introduction by T. O. Summers; dairymansdaughte00rich): already inside the Annals | alternate | not shelved |
+| Annals, American editions 1841-1850 and undated (annalsofpoor00rich_0, annalsofpoor00rich, annalsofpoo00rich, annalsofpoor00richuoft) | alternate | not shelved |
+| The Fathers of the English Church (Hatchard, catalogued 1807; fathersofenglish02rich to 08rich): his anthology of the Reformers' writings, not his own text | alternate | not shelved |
+| Sermon preached at Brading, 1799 (ECCO): title page unreadable, OCR mirror-reversed | alternate | not shelved |
+| Statement of Facts relative to Ann Moore (1813): compiled report, not divinity | alternate | not shelved |
+| The African Widow: authorship only supposed | excluded | |
+| Gaelic, German, Portuguese, Marathi and other translations | excluded | |
+| Grimshawe's Memoir (1829) and Domestic Portraiture (1833): by other hands | excluded | |
+| Burgess's Moral Annals of the Poor and other works not by him | excluded | |

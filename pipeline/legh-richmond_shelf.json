@@ -1,0 +1,76 @@
+{
+ "_about": "Public-domain Legh Richmond (1772-1827, Church of England, rector of Turvey) for the Word Hoard: The Annals of the Poor (Nelson edition, 1900) and The Dairyman's Daughter from Project Gutenberg, and the 1829 Hatchard Annals of the Poor (with John Ayre's introductory sketch of the author) from an Internet Archive scan. Added 2026-10-10 by lane A, round 20 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "richmond",
+  "legh"
+ ],
+ "_surname": [
+  "legh richmond",
+  "richmond, legh",
+  "rev. legh richmond",
+  "the rev. legh richmond"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "richmond-annals-of-poor": [
+   "19671",
+   "The Annals of the Poor (transcribed from the 1900 T. Nelson and Sons edition)"
+  ],
+  "richmond-dairymans-daughter": [
+   "19615",
+   "The Dairyman's Daughter (transcribed from the Alexander Hislop edition, no year stated)"
+  ]
+ },
+ "internet_archive": {
+  "richmond-annals-1829": [
+   "annalsofpoorcon00rich",
+   "Annals of the Poor, containing the Dairyman's Daughter, Negro Servant, and Young Cottager, new edition enlarged, with an introductory sketch of the author by John Ayre (London: Hatchard and Son, 1829)"
+  ]
+ },
+ "_alternates": {
+  "richmond-tracts": "The Negro Servant and The Young Cottager (Nelson, catalogued 1876; negroservant00richgoog, youngcottager00richgoog) and The Dairyman's Daughter (Richmond, Va., 1851, introduction by T. O. Summers; dairymansdaughte00rich): already inside the Annals",
+  "richmond-annals-american": "Annals, American editions 1841-1850 and undated (annalsofpoor00rich_0, annalsofpoor00rich, annalsofpoo00rich, annalsofpoor00richuoft)",
+  "richmond-fathers-english-church": "The Fathers of the English Church (Hatchard, catalogued 1807; fathersofenglish02rich to 08rich): his anthology of the Reformers' writings, not his own text",
+  "richmond-sermon-1799": "Sermon preached at Brading, 1799 (ECCO): title page unreadable, OCR mirror-reversed",
+  "richmond-statement-of-facts": "Statement of Facts relative to Ann Moore (1813): compiled report, not divinity"
+ },
+ "_excluded": {
+  "richmond-african-widow": "The African Widow: authorship only supposed",
+  "richmond-translations": "Gaelic, German, Portuguese, Marathi and other translations",
+  "richmond-other-hands": "Grimshawe's Memoir (1829) and Domestic Portraiture (1833): by other hands",
+  "richmond-not-his": "Burgess's Moral Annals of the Poor and other works not by him"
+ },
+ "_pending": {},
+ "_checks": {
+  "richmond-annals-of-poor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "legh richmond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "richmond-dairymans-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "legh richmond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "richmond-annals-1829": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "legh richmond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
