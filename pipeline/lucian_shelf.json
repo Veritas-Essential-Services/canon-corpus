@@ -62,6 +62,11 @@
    "homericballadsan00homeuoft",
    "Homeric Ballads and Comedies of Lucian (Miscellaneous Writings of the late Dr. Maginn, vol. IV; New York: Redfield, 1856)",
    "tr. William Maginn"
+  ],
+  "lucian-irwin-six-dialogues-1894": [
+   "sixdialoguesluc00irwigoog",
+   "Six Dialogues of Lucian: Icaromenippus, The Dream or The Cock, The Ship, The Parasite, The Lover of Falsehood, Nigrinus (London, 1894; imprint year partly legible)",
+   "tr. Sidney T. Irwin"
   ]
  },
  "_cross_ref": {
@@ -578,6 +583,18 @@
    "ia_date": "1856",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "lucian-irwin-six-dialogues-1894": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lucian",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "imprint (London, Essex Street, Strand) OCRs the year as '189*', so the book prints an 1890s date; the catalogue gives 1894. Pre-1931 and the translator was writing by then"
   }
  },
  "_perseus_checks": {
@@ -1636,7 +1653,8 @@
  "_rights_checked": {
   "lucian-perseus-harmon-slander-on-not-being-quick-to-put-faith": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm",
   "lucian-perseus-harmon-the-consonants-at-law-sigma-vs-tau-in-th": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm",
-  "lucian-perseus-harmon-the-carousal-or-the-lapiths": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm"
+  "lucian-perseus-harmon-the-carousal-or-the-lapiths": "the file's sourceDesc prints no year but names Harmon's Lucian vol. 1 (Heinemann/Harvard); that volume was published in 1913 and holds this piece, as the other vol. 1 files' sourceDesc (1913) confirm",
+  "lucian-irwin-six-dialogues-1894": "imprint (London, Essex Street, Strand) OCRs the year as '189*', so the book prints an 1890s date; the catalogue gives 1894. Pre-1931 and the translator was writing by then"
  },
  "_perseus_licence": {
   "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
@@ -1644,5 +1662,8 @@
   "attribution": "Perseus Digital Library, Tufts University",
   "share_alike": true,
   "redistribute_whole": false
+ },
+ "_translator_unchecked": {
+  "lucian-irwin-six-dialogues-1894": "the title page OCRs the name as 'SIDNEY T. lEWm'; not printed correctly as a word elsewhere"
  }
 }
