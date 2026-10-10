@@ -1,0 +1,159 @@
+{
+ "_about": "Public-domain Marcus Dods (1834-1909, Free Church of Scotland, professor of New Testament exegesis at New College, Edinburgh) for the Word Hoard: his Expositor's Bible volumes (Genesis; First Corinthians; John, 2 vols) and How to Become Like Christ, clean from CCEL, with three Internet Archive volumes (Mohammed, Buddha and Christ 1878; Israel's Iron Age 1874; The Bible, Its Origin and Nature 1905). Added 2026-10-09 by lane A, round 14 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "d/dods",
+ "_name_words": [
+  "dods",
+  "marcus"
+ ],
+ "_surname": [
+  "marcus dods",
+  "m. dods",
+  "dods, marcus",
+  "marcus dods, d.d"
+ ],
+ "_held": {},
+ "ccel": {
+  "dods-genesis": [
+   "expositor1",
+   "The Expositor's Bible: The Book of Genesis (CCEL print source: New York, A. C. Armstrong, no year; CCEL catalogues 1888)",
+   ""
+  ],
+  "dods-1-corinthians": [
+   "expositor1cor",
+   "The Expositor's Bible: The First Epistle to the Corinthians (CCEL print source: Hodder and Stoughton, 1900)",
+   ""
+  ],
+  "dods-john-1": [
+   "expositorjohn1",
+   "The Expositor's Bible: The Gospel of St. John, vol. 1 (CCEL print source: Armstrong, 1891)",
+   ""
+  ],
+  "dods-john-2": [
+   "expositorjohn2",
+   "The Expositor's Bible: The Gospel of St. John, vol. 2 (CCEL print source: Hodder and Stoughton, 1892)",
+   ""
+  ],
+  "dods-like-christ": [
+   "likechrist",
+   "How to Become Like Christ (CCEL records no print source; catalogued 1897)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "dods-mohammed-buddha-christ-1878": [
+   "cu31924022994119",
+   "Mohammed, Buddha, and Christ: Four Lectures on Natural and Revealed Religion, second edition (London: Hodder and Stoughton, MDCCCLXXVIII)"
+  ],
+  "dods-bible-origin-1905": [
+   "thebibleitsorig00dodsuoft",
+   "The Bible, Its Origin and Nature (1905)"
+  ],
+  "dods-israels-iron-age-1874": [
+   "israelsironageor00dods",
+   "Israel's Iron Age (1874)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_identity_checked": {
+  "dods-mohammed-buddha-christ-1878": {
+   "author": "title page read 2026-10-09: OCR gives \"MARC US DODS, D.c//\" (a split word and OCR artifacts), second edition, Hodder and Stoughton, MDCCCLXXVIII: Marcus Dods"
+  }
+ },
+ "_checks": {
+  "dods-genesis": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "marcus dods",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "NEW YORK: A. C. ARMSTRONG AND SON",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "dods-1-corinthians": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "marcus dods",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Hodder and Stoughton, 1900.",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "dods-john-1": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "marcus dods",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: A. C. Armstrong and Son, 1891.",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "dods-john-2": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "marcus dods",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Hodder and Stoughton, 1892.",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "dods-like-christ": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "marcus dods",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "dods-mohammed-buddha-christ-1878": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dods-bible-origin-1905": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "marcus dods",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dods-israels-iron-age-1874": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "marcus dods",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

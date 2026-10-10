@@ -2224,3 +2224,12 @@ Slugs `jcairns-*`.
 | Work | Status | Where |
 |---|---|---|
 | Unbelief in the Eighteenth Century (Cunningham Lectures, 1881); Romanism and Rationalism (1863); Christ the Morning Star (1892); Christianity and Miracles (catalogued 1883); Memoir of John Brown (catalogued 1860) | have-ocr | IA, OCR 97-99% |
+
+## Marcus Dods (round 14, my pick, 2026-10-09)
+
+Slugs `dods-*`. Expositor's Bible volumes overlap nothing on other shelves (checked all branches).
+
+| Work | Status | Where |
+|---|---|---|
+| Expositor's Bible: Genesis, 1 Corinthians (1900), John (2 vols, 1891-92); How to Become Like Christ | have-clean | CCEL d/dods |
+| Mohammed, Buddha, and Christ (2nd ed., 1878); Israel's Iron Age (1874); The Bible, Its Origin and Nature (1905) | have-ocr | IA, OCR 98-99% |

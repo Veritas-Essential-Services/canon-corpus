@@ -682,3 +682,6 @@
 
 ## 2026-10-09 22:10 CDT — john-cairns done
 - `pipeline/john-cairns_shelf.json`: 5 IA. Unbelief failed the name gate on OCR ("JOHN CAIKNS"); title page read, in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-09 22:10 CDT — marcus-dods done
+- `pipeline/marcus-dods_shelf.json`: 5 CCEL + 3 IA. Mohammed, Buddha and Christ failed the name gate on OCR ("MARC US DODS"); title page read, in `_identity_checked`. CCEL Genesis print source has no year and Like Christ none: the fetcher does not flag these (that is the PR #14 patch still awaiting Adam). `--verify --record`: 0 mismatched. 0 uids minted.

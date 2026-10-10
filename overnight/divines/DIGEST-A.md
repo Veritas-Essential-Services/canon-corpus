@@ -280,6 +280,7 @@ Round 13 was done by 06:48 CDT on 3 October. Round 14 turns to Victorian Anglica
 | R. W. Church | r-w-church_shelf.json | none | 10 (Oxford Movement, PG 12092; Saint Anselm 1870; Gifts of Civilisation 1880; Discipline 1885; Pascal 1896; Village Sermons 3 series, 1899-1901 reprints; Occasional Papers 2 vols 1897) | none | his Bacon, Spenser and Dante on PG left out as literary |
 | Norman Macleod | norman-macleod_shelf.json | none | 7 (PG: Parish Papers, Gold Thread, Starling; IA: Temptation of Our Lord 1873, Simple Truths 1867, Highland Parish 1871, Earnest Student 1863) | none | none |
 | John Cairns | john-cairns_shelf.json | none | 5 (Unbelief in the 18th Century 1881; Romanism and Rationalism 1863; Christ the Morning Star 1892; Christianity and Miracles, catalogued 1883; Memoir of John Brown, catalogued 1860) | none | two catalogue years not shown on the title page |
+| Marcus Dods | marcus-dods_shelf.json | none | 8 (CCEL: Expositor's Genesis, 1 Corinthians, John 2 vols, How to Become Like Christ; IA: Mohammed, Buddha and Christ 2nd ed. 1878, Israel's Iron Age 1874, The Bible Its Origin 1905) | none | CCEL Genesis print source has no year; Like Christ has none recorded |
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
