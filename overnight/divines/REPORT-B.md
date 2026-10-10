@@ -623,3 +623,11 @@
 - Sophocles, George Adams, new edition (1818)
 - Julian, John Duncombe vol. II (3rd ed., 1798); vol. I has no title page in its scan, excluded
 - Sicilian Idyls, Jane Minot Sedgwick (Boston, 1898): US PD by date; translator's death year not checked
+
+## 2026-10-10 10:18 CDT — Round 2026-10-10j: four volumes
+- Seneca's tragedies, Sir Edward Sherburne (1702)
+- Virgil's fourth Georgic, Charles Robertson Honey (1859)
+- The Lyrics of Horace, Thomas Charles Baring (1870)
+- Ovid's Fasti in prose, William Thynne, Part I (1833); Part II not found
+- Refused for OCR or no usable text: Massey's Fasti (0.738), Hughes's Claudian (0.665), Six Olympic Odes 1775 (0.760), Fry's Century of Greek Epigrams (0.759, co-translator's dates also open), Verrall's Ion (OCR'd as Greek), Alciphron 1896 rescans (0.521)
+- Most other hits in these sweeps are already held under other scan ids, or are partial reprints of held Bohn translations

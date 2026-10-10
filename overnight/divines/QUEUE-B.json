@@ -988,6 +988,14 @@
    "started": "2026-10-10T10:00:56-05:00",
    "finished": "2026-10-10T10:07:08-05:00",
    "notes": "7 volumes added; Duncombe's Julian vol. I excluded (no title page)"
+  },
+  {
+   "id": "round-2026-10-10j",
+   "status": "done",
+   "scope": "Sweeps of 'into English verse', 'literally translated' and 'done into English / into English prose' titles",
+   "started": "2026-10-10T10:07:08-05:00",
+   "finished": "2026-10-10T10:18:25-05:00",
+   "notes": "4 volumes added; 6 refusals recorded"
   }
  ]
 }

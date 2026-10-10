@@ -2807,6 +2807,7 @@ Shelf: `pipeline/ovid_shelf.json`. No single PD translator covers all of Ovid, s
 | The Art of Love, and Other Poems: On Painting the Face, Ars Amatoria, Remedia Amoris, Nux, Ibis, Halieuticon, Consolatio ad Liviam (Loeb; London: Heinemann, New York: Putnam, MCMXXIX; Latin facing) | J. H. Mozley | `ovid-mozley-art-of-love-1929` | have-raw (IA `ovidartofloveoth0000unse`) |
 | The Metamorphoses of Publius Ovidius Naso translated in English blank verse (Blackwood, MDCCCLXXI) | Henry King | `ovid-king-metamorphoses-1871` | have-raw (IA `metamorphosesofp00ovid`) |
 | Poems and Translations, including the first four books of Ovid's Fasti, with the ancient Roman calendar (Liverpool: William Forshaw, 1839); the volume also holds Taylor's own poems | John Taylor | `ovid-taylor-fasti-1839` | have-raw (IA `poemstranslation00tayluoft`) |
+| A Translation of Ovid's Fasti into English Prose, with notes, Part I: books I-III (Dublin: John Cumming, 1833) | William Thynne | `ovid-thynne-fasti-1833-pt1` | have-raw (IA `translationofovi00ovid`) |
 
 Excluded: PG 21920, *The Last Poems of Ovid* (Akrigg, 2006), a COPYRIGHTED Gutenberg eBook. Later reprints of the two Riley Bohn volumes. Modern translations (Kline and others).
 
@@ -2863,6 +2864,7 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | The Eclogues of Virgil translated into English verse (printed for private distribution, 1868) | Henry Duncan Skrine | `virgil-skrine-eclogues-1868` | have-raw (IA `ecloguesofvirgil00vir`) |
 | The Works of Virgil in Latin and English, third edition with considerable improvements, vol. II (London: J. Dodsley, 1778) | Christopher Pitt (Aeneid) and Joseph Warton | `virgil-pitt-warton-1778-v2` | have-raw (IA `worksvirgilinla00virggoog`) |
 | The Works of Virgil in Latin and English, third edition with considerable improvements, vol. IV: Aeneid IX-XII (London: J. Dodsley, 1778) | Christopher Pitt (Aeneid) and Joseph Warton | `virgil-pitt-warton-1778-v4` | have-raw (IA `worksvirgilinla01virggoog`) |
+| A Translation into English Verse of Virgil's Fourth Georgic (Leamington: Nathaniel Merridew, 1859) | Charles Robertson Honey | `virgil-honey-georgic-iv-1859` | have-raw (IA `translationintoe00virg`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
@@ -3493,6 +3495,7 @@ Shelf: `pipeline/seneca_shelf.json`. Translator per title, all clean Gutenberg: 
 | The Ten Tragedies of Seneca, with notes, rendered into English prose as equivalently as the idioms of both languages permit (London: Swan Sonnenschein, 1902) | Watson Bradshaw | `seneca-bradshaw-tragedies-1902` | have-raw (IA `cu31924104730209`) |
 | The Satire of Seneca on the Apotheosis of Claudius, commonly called the Apocolocyntosis: a study (New York: Columbia University Press, 1902), Latin text with English translation | Allan Perley Ball | `seneca-ball-apocolocyntosis-1902` | have-raw (IA `SatireOfSenecaOnTheApotheosisOfClaudiusCommonlyCalledThe`) |
 | Seneca his Tenne Tragedies, translated into Englysh (London: Thomas Marsh, 1581; black-letter, Boston Public Library copy) | Thomas Newton (ed.), with Jasper Heywood, John Studley, Alexander Nevile, Thomas Nuce | `seneca-newton-tenne-tragedies-1581` | have-raw (IA `senecahistennetr00sene`) |
+| The Tragedies of L. Annaeus Seneca the Philosopher: Medea, Phaedra and Hippolytus, Troades; with Colluthus's Rape of Helen (London: S. Smith and B. Walford, 1702) | Edward Sherburne | `seneca-sherburne-tragedies-1702` | have-raw (IA `tragedieslannae00shergoog`) |
 
 Pending (wishlist): Basore's Moral Essays vols. 2-3 (1932-35, not PD).
 
@@ -3692,6 +3695,7 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The Works of Horace, translated into verse, vol. I of four (London: W. Flexney, J. Johnson and T. Caslon, 1767) | Christopher Smart | `horace-smart-verse-1767-v1` | have-raw (IA `workshorace03smargoog`) |
 | The Works of Horace, translated into verse, with a prose interpretation, vol. II (London: W. Flexney and others, 1767) | Christopher Smart | `horace-smart-verse-1767-v2` | have-raw (IA `workshorace11horagoog`) |
 | The Works of Horace, translated into verse, with a prose interpretation, vol. IV (London: W. Flexney and others, 1767) | Christopher Smart | `horace-smart-verse-1767-v4` | have-raw (IA `workshorace08horagoog`) |
+| The Lyrics of Horace, done into English rhyme (London: Rivingtons, 1870) | Thomas Charles Baring | `horace-baring-lyrics-1870` | have-raw (IA `cu31924026490668`) |
 
 Pending (wishlist): Smart's verse Horace vol. III (1767). His unrevised prose is now held from the fifth edition (1780), so the 1756 ECCO scans are no longer needed.
 
