@@ -2813,6 +2813,8 @@ Shelf: `pipeline/cumont_shelf.json`. Franz Cumont (1868-1947) in English: 2 clea
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Oriental Religions in Roman Paganism |  | `cumont-oriental-religions-roman-paganism` | have (PG 22213) |
+| After Life in Roman Paganism |  | `cumont-after-life-roman-paganism` | have (PG 64297) |
 
 ## How and Wells (scholarship)
 
