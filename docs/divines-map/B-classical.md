@@ -2897,7 +2897,7 @@ Shelf: `pipeline/h-b-walters_shelf.json`. Henry Beauchamp Walters (1867-1944), B
 
 ## J. G. Frazer (scholarship)
 
-Shelf: `pipeline/frazer-greece_shelf.json`. Sir James George Frazer (1854-1941): his Greek writing only: 1 clean Gutenberg text. His Pausanias translation is on the pausanias shelf; The Golden Bough is comparative religion and is left out. Not minted.
+Shelf: `pipeline/frazer-greece_shelf.json`. Sir James George Frazer (1854-1941): his Greek writing only: Studies in Greek Scenery (clean Gutenberg) and Pausanias and Other Greek Sketches (1900, raw IA OCR). His Pausanias translation is on the pausanias shelf; The Golden Bough is comparative religion and is left out. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -2972,7 +2972,7 @@ Pending (wishlist): Charicles in a scan that clears the bar.
 
 ## J. B. Bury (scholarship)
 
-Shelf: `pipeline/bury_shelf.json`. Bury's Later Roman Empire (1889, 2 vols.), Eastern Roman Empire (1912), Constitution of the Later Roman Empire (1910) and History of Greece (first edition, 1900), raw IA OCR. Not minted.
+Shelf: `pipeline/bury_shelf.json`. Bury's Later Roman Empire (1889, 2 vols.), Eastern Roman Empire (1912), Constitution of the Later Roman Empire (1910), History of Greece (first edition, 1900) and The Ancient Greek Historians (1909), raw IA OCR. Not minted.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -3394,6 +3394,30 @@ Shelf: `pipeline/leake_shelf.json`. The Topography of Athens and the Demi, 2nd e
 | Travels in the Morea, in three volumes, vol. III (London: John Murray, 1830) |  | `leake-morea-v3-1830` | have-raw (IA `moreatravels03leak`) |
 
 Pending (wishlist): Travels in the Morea vol. II (IA unavailable this round).
+
+## T. R. Glover (scholarship)
+
+Shelf: `pipeline/glover_shelf.json`. The Conflict of Religions in the Early Roman Empire (clean Gutenberg); Life and Letters in the Fourth Century (1901) and Virgil, 2nd ed. (1912), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Conflict of Religions in the Early Roman Empire |  | `glover-conflict-religions-early-roman-empire` | have (PG 39092) |
+| Life and Letters in the Fourth Century (Cambridge: University Press, 1901) |  | `glover-life-letters-fourth-century-1901` | have-raw (IA `lifelettersinfou00glovuoft`) |
+| Virgil, second edition (London: Methuen, 1912) |  | `glover-virgil-1912` | have-raw (IA `virgil00glovrich`) |
+
+## William Ridgeway (scholarship)
+
+Shelf: `pipeline/ridgeway_shelf.json`. The Origin of Metallic Currency (clean Gutenberg); The Early Age of Greece vol. I (1901) and The Origin of Tragedy (1910), raw IA OCR. Vol. II of The Early Age (1931) is not yet US public domain. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## T. Rice Holmes (scholarship)
+
+Shelf: `pipeline/rice-holmes_shelf.json`. Ancient Britain and the Invasions of Julius Caesar (clean Gutenberg); Caesar's Conquest of Gaul, 2nd ed. (Clarendon Press, 1911), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
 
 ## Perseus census (overflow)
 
