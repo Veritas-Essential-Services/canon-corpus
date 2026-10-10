@@ -20,7 +20,8 @@
   ]
  },
  "_excluded": {
-  "Perrault's abridgment (PG 27877)": "an abridgment; not taken"
+  "Perrault's abridgment (PG 27877)": "an abridgment; not taken",
+  "W. Newton, The Architecture of M. Vitruvius Pollio (1791, 2 vols.)": "PD; the only scans found (IA bim_eighteenth-century_de-architectura-englis_vitruvius_1791_1 and _2, ECCO) read 0.659 and 0.720; refused for OCR quality 2026-10-10"
  },
  "_surname": [
   "vitruvius"

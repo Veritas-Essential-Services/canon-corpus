@@ -26,7 +26,8 @@
   ]
  },
  "_excluded": {
-  "pg5218-5224": "Firebaugh split into 7 files; the complete PG 5225 kept"
+  "pg5218-5224": "Firebaugh split into 7 files; the complete PG 5225 kept",
+  "The Works of Petronius Arbiter (1713/1714; 1736)": "PD; the ECCO scans found (bim_eighteenth-century_the-works-of-petronius-a_petronius-arbiter-titus_1713, _1736) read 0.691 and 0.723; refused for OCR quality 2026-10-10. Burnaby's version is held from Gutenberg"
  },
  "_surname": [
   "petronius"
