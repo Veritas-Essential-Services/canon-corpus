@@ -1,0 +1,128 @@
+{
+ "_about": "TRANSLATOR SHELF: Ludwig Lewisohn (1882-1955): Jakob Wassermann's The World's Illusion (1920, 2 vols) and The Goose Man (1922), and Sudermann's The Indian Lily (1911). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
+ "_name_words": [
+  "ludwig lewisohn"
+ ],
+ "_surname": [
+  "ludwig lewisohn"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "lew-25345": [
+   25345,
+   "The Goose Man"
+  ],
+  "lew-54794": [
+   54794,
+   "The World's Illusion, Volume 1 (of 2): Eva"
+  ],
+  "lew-57847": [
+   57847,
+   "The World's Illusion, Volume 2 (of 2): Ruth"
+  ],
+  "lew-9994": [
+   9994,
+   "The Indian Lily and Other Stories"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "lewisohn-sudermann-the-indian-lily-and-other-stories": {
+   "source": "lew-9994",
+   "of": "Hermann Sudermann",
+   "work": "The Indian Lily and Other Stories",
+   "translated": "1911-1922 (see the Gutenberg header)",
+   "translator": "Ludwig Lewisohn",
+   "scan_edition": "Project Gutenberg 9994 (clean text)"
+  },
+  "lewisohn-wassermann-the-goose-man": {
+   "source": "lew-25345",
+   "of": "Jakob Wassermann",
+   "work": "The Goose Man",
+   "translated": "1911-1922 (see the Gutenberg header)",
+   "translator": "Ludwig Lewisohn (with Allen Wilson Porterfield)",
+   "scan_edition": "Project Gutenberg 25345 (clean text)"
+  },
+  "lewisohn-wassermann-the-world-s-illusion-volume-1-of-2-eva": {
+   "source": "lew-54794",
+   "of": "Jakob Wassermann",
+   "work": "The World's Illusion, Volume 1 (of 2): Eva",
+   "translated": "1911-1922 (see the Gutenberg header)",
+   "translator": "Ludwig Lewisohn",
+   "scan_edition": "Project Gutenberg 54794 (clean text)"
+  },
+  "lewisohn-wassermann-the-world-s-illusion-volume-2-of-2-ruth": {
+   "source": "lew-57847",
+   "of": "Jakob Wassermann",
+   "work": "The World's Illusion, Volume 2 (of 2): Ruth",
+   "translated": "1911-1922 (see the Gutenberg header)",
+   "translator": "Ludwig Lewisohn",
+   "scan_edition": "Project Gutenberg 57847 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "lew-25345": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ludwig lewisohn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ludwig Lewisohn; Allen Wilson Porterfield"
+  },
+  "lew-54794": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ludwig lewisohn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ludwig Lewisohn"
+  },
+  "lew-57847": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ludwig lewisohn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ludwig Lewisohn"
+  },
+  "lew-9994": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ludwig lewisohn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ludwig Lewisohn"
+  }
+ },
+ "_verified": {
+  "lew-25345": {
+   "pg": 25345,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ludwig Lewisohn"
+  },
+  "lew-54794": {
+   "pg": 54794,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ludwig Lewisohn"
+  },
+  "lew-57847": {
+   "pg": 57847,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ludwig Lewisohn"
+  },
+  "lew-9994": {
+   "pg": 9994,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ludwig Lewisohn"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

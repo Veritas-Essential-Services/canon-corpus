@@ -2060,6 +2060,154 @@ Round 26 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `george-calderon-ilya-tolstoy-reminiscences` | Ilya Tolstoy | Reminiscences of Tolstoy, by His Son | George Calderon | 1914 | have | PG 813 |
 | `george-calderon-chekhov-two-plays` | Anton Chekhov | Two Plays by Tchekhof: The Seagull; The Cherry Orchard | George Calderon | 1912 | have-raw | IA `twoplaysbytchekh00chekiala` |
 
+## Thomas Johnes (Monstrelet's Chronicles)
+
+Shelf: `pipeline/johnes_shelf.json` · fetch `python3 pipeline/fetch_shelf.py johnes` · titles `python3 pipeline/split_shelf_titles.py johnes`.
+Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `johnes-monstrelet-chronicles-vol-01` | Enguerrand de Monstrelet | The chronicles of Enguerrand de Monstrelet, Vol. 01 [of 13] | Thomas Johnes | 1809-1810 (see the Gutenberg header) | have | PG 50839 |
+| `johnes-monstrelet-chronicles-vol-02` | Enguerrand de Monstrelet | The chronicles of Enguerrand de Monstrelet, Vol. 02 [of 13] | Thomas Johnes | 1809-1810 (see the Gutenberg header) | have | PG 52607 |
+| `johnes-monstrelet-chronicles-vol-03` | Enguerrand de Monstrelet | The Chronicles of Enguerrand de Monstrelet, Vol. 03 [of 13] | Thomas Johnes | 1809-1810 (see the Gutenberg header) | have | PG 52911 |
+| `johnes-monstrelet-chronicles-vol-04` | Enguerrand de Monstrelet | The chronicles of Enguerrand de Monstrelet, Vol. 04 [of 13] | Thomas Johnes | 1809-1810 (see the Gutenberg header) | have | PG 52889 |
+| `johnes-monstrelet-chronicles-vol-05` | Enguerrand de Monstrelet | The chronicles of Enguerrand de Monstrelet, Vol. 05 [of 13] | Thomas Johnes | 1809-1810 (see the Gutenberg header) | have | PG 73983 |
+| `johnes-monstrelet-chronicles-vol-06` | Enguerrand de Monstrelet | The chronicles of Enguerrand de Monstrelet, Vol. 06 [of 13] | Thomas Johnes | 1809-1810 (see the Gutenberg header) | have | PG 64948 |
+| `johnes-monstrelet-chronicles-vol-07` | Enguerrand de Monstrelet | The chronicles of Enguerrand de Monstrelet, Vol. 07 [of 13] | Thomas Johnes | 1809-1810 (see the Gutenberg header) | have | PG 58083 |
+| `johnes-monstrelet-chronicles-vol-08` | Enguerrand de Monstrelet | The chronicles of Enguerrand de Monstrelet, Vol. 08 [of 13] | Thomas Johnes | 1809-1810 (see the Gutenberg header) | have | PG 63913 |
+| `johnes-monstrelet-chronicles-vol-09` | Enguerrand de Monstrelet | The chronicles of Enguerrand de Monstrelet, Vol. 09 [of 13] | Thomas Johnes | 1809-1810 (see the Gutenberg header) | have | PG 73160 |
+| `johnes-monstrelet-chronicles-vol-10` | Enguerrand de Monstrelet | The chronicles of Enguerrand de Monstrelet, Vol. 10 [of 13] | Thomas Johnes | 1809-1810 (see the Gutenberg header) | have | PG 65396 |
+| `johnes-monstrelet-chronicles-vol-11` | Enguerrand de Monstrelet | The chronicles of Enguerrand de Monstrelet, Vol. 11 [of 13] | Thomas Johnes | 1809-1810 (see the Gutenberg header) | have | PG 74647 |
+| `johnes-monstrelet-chronicles-vol-12` | Enguerrand de Monstrelet | The chronicles of Enguerrand de Monstrelet, Vol. 12 [of 13] | Thomas Johnes | 1809-1810 (see the Gutenberg header) | have | PG 65721 |
+
+## R. H. M. Elwes (Spinoza)
+
+Shelf: `pipeline/elwes_shelf.json` · fetch `python3 pipeline/fetch_shelf.py elwes` · titles `python3 pipeline/split_shelf_titles.py elwes`.
+Round 27 (2026-10-10), vetoable. Ethics held on adler_shelf.json. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `elwes-spinoza-ethics` | Benedictus de Spinoza | Ethics | R. H. M. Elwes | 1883 | held elsewhere (cross-ref) | `pipeline/adler_shelf.json` → `spinoza-ethics` (PG 3800) |
+| `elwes-spinoza-on-the-improvement-of-the-understanding` | Benedictus de Spinoza | On the Improvement of the Understanding | R. H. M. Elwes | 1883 (Bohn's Philosophical Library; see the Gutenberg header) | have | PG 1016 |
+| `elwes-spinoza-theologico-political-treatise-part-1` | Benedictus de Spinoza | Theologico-Political Treatise — Part 1 | R. H. M. Elwes | 1883 (Bohn's Philosophical Library; see the Gutenberg header) | have | PG 989 |
+| `elwes-spinoza-theologico-political-treatise-part-2` | Benedictus de Spinoza | Theologico-Political Treatise — Part 2 | R. H. M. Elwes | 1883 (Bohn's Philosophical Library; see the Gutenberg header) | have | PG 990 |
+| `elwes-spinoza-theologico-political-treatise-part-3` | Benedictus de Spinoza | A Theological-Political Treatise [Part III] | R. H. M. Elwes | 1883 (Bohn's Philosophical Library; see the Gutenberg header) | have | PG 991 |
+| `elwes-spinoza-theologico-political-treatise-part-4` | Benedictus de Spinoza | A Theological-Political Treatise [Part IV] | R. H. M. Elwes | 1883 (Bohn's Philosophical Library; see the Gutenberg header) | have | PG 992 |
+| — | — | ethics: The Ethics: the complete text (3800) is on adler_shelf.json; Gutenberg's five part-files (919-975) are left out. | — | — | excluded | — |
+
+## William F. Fleming (Voltaire's Philosophical Dictionary)
+
+Shelf: `pipeline/fleming_shelf.json` · fetch `python3 pipeline/fetch_shelf.py fleming` · titles `python3 pipeline/split_shelf_titles.py fleming`.
+Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `fleming-voltaire-a-philosophical-dictionary-volume-01` | Voltaire | A Philosophical Dictionary, Volume 01 | William F. Fleming | 1901 (see the Gutenberg header) | have | PG 35621 |
+| `fleming-voltaire-a-philosophical-dictionary-volume-02` | Voltaire | A Philosophical Dictionary, Volume 02 | William F. Fleming | 1901 (see the Gutenberg header) | have | PG 35622 |
+| `fleming-voltaire-a-philosophical-dictionary-volume-03` | Voltaire | A Philosophical Dictionary, Volume 03 | William F. Fleming | 1901 (see the Gutenberg header) | have | PG 35623 |
+| `fleming-voltaire-a-philosophical-dictionary-volume-04` | Voltaire | A Philosophical Dictionary, Volume 04 | William F. Fleming | 1901 (see the Gutenberg header) | have | PG 35624 |
+| `fleming-voltaire-a-philosophical-dictionary-volume-05` | Voltaire | A Philosophical Dictionary, Volume 05 | William F. Fleming | 1901 (see the Gutenberg header) | have | PG 35625 |
+| `fleming-voltaire-a-philosophical-dictionary-volume-06` | Voltaire | A Philosophical Dictionary, Volume 06 | William F. Fleming | 1901 (see the Gutenberg header) | have | PG 35626 |
+| `fleming-voltaire-a-philosophical-dictionary-volume-07` | Voltaire | A Philosophical Dictionary, Volume 07 | William F. Fleming | 1901 (see the Gutenberg header) | have | PG 35627 |
+| `fleming-voltaire-a-philosophical-dictionary-volume-08` | Voltaire | A Philosophical Dictionary, Volume 08 | William F. Fleming | 1901 (see the Gutenberg header) | have | PG 35628 |
+| `fleming-voltaire-a-philosophical-dictionary-volume-09` | Voltaire | A Philosophical Dictionary, Volume 09 | William F. Fleming | 1901 (see the Gutenberg header) | have | PG 35629 |
+| `fleming-voltaire-a-philosophical-dictionary-volume-10` | Voltaire | A Philosophical Dictionary, Volume 10 | William F. Fleming | 1901 (see the Gutenberg header) | have | PG 35630 |
+| `fleming-voltaire-the-works-of-voltaire-vol-iv-of-xliii` | Voltaire | The Works of Voltaire, Vol. IV of XLIII. | William F. Fleming | 1901 (see the Gutenberg header) | have | PG 49726 |
+
+## M. L. McClure (Maspero's History of Egypt and the Ancient East)
+
+Shelf: `pipeline/mcclure_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mcclure` · titles `python3 pipeline/split_shelf_titles.py mcclure`.
+Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `mcclure-maspero-history-of-egypt-chaldaea-syria-babyloni` | G. (Gaston) Maspero | History of Egypt, Chaldæa, Syria, Babylonia, and Assyria | M. L. McClure | 1903-1906 (see the Gutenberg header) | have | PG 28876 |
+| — | — | maspero-volumes: Gutenberg's volume files are left out; the complete text (28876) is used. | — | — | excluded | — |
+
+## Douglas Ainslie (Croce)
+
+Shelf: `pipeline/ainslie_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ainslie` · titles `python3 pipeline/split_shelf_titles.py ainslie`.
+Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `ainslie-croce-aesthetic-1909` | Benedetto Croce | Aesthetic as Science of Expression and General Linguistic | Douglas Ainslie | 1909-1922 (see the Gutenberg header) | have | PG 9306 |
+| `ainslie-croce-aesthetic-1922` | Benedetto Croce | Æsthetic as science of expression and general linguistic | Douglas Ainslie | 1909-1922 (see the Gutenberg header) | have | PG 54618 |
+| `ainslie-croce-ariosto-shakespeare-and-corneille` | Benedetto Croce | Ariosto, Shakespeare and Corneille | Douglas Ainslie | 1909-1922 (see the Gutenberg header) | have | PG 54165 |
+| `ainslie-croce-logic-as-the-science-of-the-pure-concept` | Benedetto Croce | Logic as the Science of the Pure Concept | Douglas Ainslie | 1909-1922 (see the Gutenberg header) | have | PG 54137 |
+| `ainslie-croce-the-philosophy-of-the-practical-economic` | Benedetto Croce | The Philosophy of the Practical: Economic and Ethic | Douglas Ainslie | 1909-1922 (see the Gutenberg header) | have | PG 54938 |
+| `ainslie-croce-theory-history-of-historiography` | Benedetto Croce | Theory & History of Historiography | Douglas Ainslie | 1909-1922 (see the Gutenberg header) | have | PG 54642 |
+
+## Charles E. Derbyshire (Rizal)
+
+Shelf: `pipeline/derbyshire_shelf.json` · fetch `python3 pipeline/fetch_shelf.py derbyshire` · titles `python3 pipeline/split_shelf_titles.py derbyshire`.
+Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `derbyshire-rizal-the-indolence-of-the-filipino` | José Rizal | The Indolence of the Filipino | Charles E. Derbyshire | 1912-1913 (see the Gutenberg header) | have | PG 6885 |
+| `derbyshire-rizal-the-philippines-a-century-hence` | José Rizal | The Philippines a Century Hence | Charles E. Derbyshire | 1912-1913 (see the Gutenberg header) | have | PG 35899 |
+| `derbyshire-rizal-the-reign-of-greed` | José Rizal | The Reign of Greed | Charles E. Derbyshire | 1912-1913 (see the Gutenberg header) | have | PG 10676 |
+| `derbyshire-rizal-the-social-cancer-a-complete-english-ver` | José Rizal | The Social Cancer: A Complete English Version of Noli Me Tangere | Charles E. Derbyshire | 1912-1913 (see the Gutenberg header) | have | PG 6737 |
+
+## Gilbert Cannan (Rolland's Jean-Christophe)
+
+Shelf: `pipeline/gilbert-cannan_shelf.json` · fetch `python3 pipeline/fetch_shelf.py gilbert-cannan` · titles `python3 pipeline/split_shelf_titles.py gilbert-cannan`.
+Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `gilbert-cannan-chekhov-the-house-with-the-mezzanine-and-other-s` | Anton Pavlovich Chekhov | The House with the Mezzanine and Other Stories | Gilbert Cannan (with S. S. Koteliansky) | 1910-1917 (see the Gutenberg header) | have | PG 27411 |
+| `gilbert-cannan-rolland-jean-christophe-in-paris-the-market-plac` | Romain Rolland | Jean-Christophe in Paris: The Market-Place, Antoinette, the House | Gilbert Cannan | 1910-1917 (see the Gutenberg header) | have | PG 8149 |
+| `gilbert-cannan-rolland-jean-christophe-journey-s-end` | Romain Rolland | Jean-Christophe Journey's End | Gilbert Cannan | 1910-1917 (see the Gutenberg header) | have | PG 7967 |
+| `gilbert-cannan-rolland-jean-christophe-volume-i` | Romain Rolland | Jean-Christophe, Volume I | Gilbert Cannan | 1910-1917 (see the Gutenberg header) | have | PG 7979 |
+
+## Ludwig Lewisohn (Wassermann, Sudermann)
+
+Shelf: `pipeline/lewisohn_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lewisohn` · titles `python3 pipeline/split_shelf_titles.py lewisohn`.
+Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `lewisohn-sudermann-the-indian-lily-and-other-stories` | Hermann Sudermann | The Indian Lily and Other Stories | Ludwig Lewisohn | 1911-1922 (see the Gutenberg header) | have | PG 9994 |
+| `lewisohn-wassermann-the-goose-man` | Jakob Wassermann | The Goose Man | Ludwig Lewisohn (with Allen Wilson Porterfield) | 1911-1922 (see the Gutenberg header) | have | PG 25345 |
+| `lewisohn-wassermann-the-world-s-illusion-volume-1-of-2-eva` | Jakob Wassermann | The World's Illusion, Volume 1 (of 2): Eva | Ludwig Lewisohn | 1911-1922 (see the Gutenberg header) | have | PG 54794 |
+| `lewisohn-wassermann-the-world-s-illusion-volume-2-of-2-ruth` | Jakob Wassermann | The World's Illusion, Volume 2 (of 2): Ruth | Ludwig Lewisohn | 1911-1922 (see the Gutenberg header) | have | PG 57847 |
+
+## Henri Van Laun (Taine's History of English Literature; La Bruyère)
+
+Shelf: `pipeline/van-laun_shelf.json` · fetch `python3 pipeline/fetch_shelf.py van-laun` · titles `python3 pipeline/split_shelf_titles.py van-laun`.
+Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `van-laun-bruyere-the-characters-of-jean-de-la-bruyere` | Jean de La Bruyère | The "Characters" of Jean de La Bruyère | Henri Van Laun | 1871-1885 (see the Gutenberg header) | have | PG 46633 |
+| `van-laun-taine-history-of-english-literature-volume-1-o` | Hippolyte Taine | History of English Literature Volume 1 (of 3) | Henri Van Laun | 1871-1885 (see the Gutenberg header) | have | PG 61308 |
+| `van-laun-taine-history-of-english-literature-volume-2-o` | Hippolyte Taine | History of English Literature Volume 2 (of 3) | Henri Van Laun | 1871-1885 (see the Gutenberg header) | have | PG 61382 |
+| `van-laun-taine-history-of-english-literature-volume-3-o` | Hippolyte Taine | History of English Literature Volume 3 (of 3) | Henri Van Laun | 1871-1885 (see the Gutenberg header) | have | PG 61510 |
+
+## Eugene Mason (Wace, Layamon, Marie de France, Aucassin)
+
+Shelf: `pipeline/eugene-mason_shelf.json` · fetch `python3 pipeline/fetch_shelf.py eugene-mason` · titles `python3 pipeline/split_shelf_titles.py eugene-mason`.
+Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `eugene-mason-aucassin-and-nicolette` | Various (medieval French) | Aucassin & Nicolette, and Other Mediæval Romances and Legends | Eugene Mason | 1910-1912 (Everyman's Library; see the Gutenberg header) | have | PG 38110 |
+| `eugene-mason-layamon-brut` | Layamon | Layamon's Brut | Eugene Mason | 1910-1912 (Everyman's Library; see the Gutenberg header) | have | PG 14305 |
+| `eugene-mason-marie-de-france-lays` | Marie de France | French Mediaeval Romances from the Lays of Marie de France | Eugene Mason | 1910-1912 (Everyman's Library; see the Gutenberg header) | have | PG 11417 |
+| `eugene-mason-wace-arthurian-chronicles-roman-de-brut` | Wace | Arthurian Chronicles: Roman de Brut | Eugene Mason | 1910-1912 (Everyman's Library; see the Gutenberg header) | have | PG 10472 |
+
+## Eleanor Grove (Ebers's An Egyptian Princess)
+
+Shelf: `pipeline/eleanor-grove_shelf.json` · fetch `python3 pipeline/fetch_shelf.py eleanor-grove` · titles `python3 pipeline/split_shelf_titles.py eleanor-grove`.
+Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `eleanor-grove-ebers-an-egyptian-princess-complete` | Georg Ebers | An Egyptian Princess — Complete | Eleanor Grove | 1880 (see the Gutenberg header) | have | PG 5460 |
+| — | — | volumes: The ten Gutenberg part-files are left out; the complete text (5460) is used. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

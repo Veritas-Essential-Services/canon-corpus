@@ -1,0 +1,182 @@
+{
+ "_about": "TRANSLATOR SHELF: Douglas Ainslie (1865-1948): Benedetto Croce's Philosophy of the Spirit (Macmillan, 1909-21): Aesthetic (both the 1909 and the revised 1922 translation), Logic, the Philosophy of the Practical, Theory and History of Historiography, and Ariosto, Shakespeare and Corneille. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
+ "_name_words": [
+  "douglas ainslie"
+ ],
+ "_surname": [
+  "douglas ainslie"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ain-54137": [
+   54137,
+   "Logic as the Science of the Pure Concept"
+  ],
+  "ain-54165": [
+   54165,
+   "Ariosto, Shakespeare and Corneille"
+  ],
+  "ain-54618": [
+   54618,
+   "Æsthetic as science of expression and general linguistic"
+  ],
+  "ain-54642": [
+   54642,
+   "Theory & History of Historiography"
+  ],
+  "ain-54938": [
+   54938,
+   "The Philosophy of the Practical: Economic and Ethic"
+  ],
+  "ain-9306": [
+   9306,
+   "Aesthetic as Science of Expression and General Linguistic"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ainslie-croce-aesthetic-1909": {
+   "source": "ain-9306",
+   "of": "Benedetto Croce",
+   "work": "Aesthetic as Science of Expression and General Linguistic",
+   "translated": "1909-1922 (see the Gutenberg header)",
+   "translator": "Douglas Ainslie",
+   "scan_edition": "Project Gutenberg 9306 (clean text)",
+   "note": "The first (1909) translation of the Aesthetic."
+  },
+  "ainslie-croce-aesthetic-1922": {
+   "source": "ain-54618",
+   "of": "Benedetto Croce",
+   "work": "Æsthetic as science of expression and general linguistic",
+   "translated": "1909-1922 (see the Gutenberg header)",
+   "translator": "Douglas Ainslie",
+   "scan_edition": "Project Gutenberg 54618 (clean text)",
+   "note": "The revised translation of the Aesthetic (2nd ed., 1922)."
+  },
+  "ainslie-croce-ariosto-shakespeare-and-corneille": {
+   "source": "ain-54165",
+   "of": "Benedetto Croce",
+   "work": "Ariosto, Shakespeare and Corneille",
+   "translated": "1909-1922 (see the Gutenberg header)",
+   "translator": "Douglas Ainslie",
+   "scan_edition": "Project Gutenberg 54165 (clean text)"
+  },
+  "ainslie-croce-logic-as-the-science-of-the-pure-concept": {
+   "source": "ain-54137",
+   "of": "Benedetto Croce",
+   "work": "Logic as the Science of the Pure Concept",
+   "translated": "1909-1922 (see the Gutenberg header)",
+   "translator": "Douglas Ainslie",
+   "scan_edition": "Project Gutenberg 54137 (clean text)"
+  },
+  "ainslie-croce-the-philosophy-of-the-practical-economic": {
+   "source": "ain-54938",
+   "of": "Benedetto Croce",
+   "work": "The Philosophy of the Practical: Economic and Ethic",
+   "translated": "1909-1922 (see the Gutenberg header)",
+   "translator": "Douglas Ainslie",
+   "scan_edition": "Project Gutenberg 54938 (clean text)"
+  },
+  "ainslie-croce-theory-history-of-historiography": {
+   "source": "ain-54642",
+   "of": "Benedetto Croce",
+   "work": "Theory & History of Historiography",
+   "translated": "1909-1922 (see the Gutenberg header)",
+   "translator": "Douglas Ainslie",
+   "scan_edition": "Project Gutenberg 54642 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ain-54137": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "douglas ainslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Douglas Ainslie"
+  },
+  "ain-54165": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "douglas ainslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Douglas Ainslie"
+  },
+  "ain-54618": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "douglas ainslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Douglas Ainslie"
+  },
+  "ain-54642": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "douglas ainslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Douglas Ainslie"
+  },
+  "ain-54938": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "douglas ainslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Douglas Ainslie"
+  },
+  "ain-9306": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "douglas ainslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Douglas Ainslie"
+  }
+ },
+ "_verified": {
+  "ain-54137": {
+   "pg": 54137,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Douglas Ainslie"
+  },
+  "ain-54165": {
+   "pg": 54165,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Douglas Ainslie"
+  },
+  "ain-54618": {
+   "pg": 54618,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Douglas Ainslie"
+  },
+  "ain-54642": {
+   "pg": 54642,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Douglas Ainslie"
+  },
+  "ain-54938": {
+   "pg": 54938,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Douglas Ainslie"
+  },
+  "ain-9306": {
+   "pg": 9306,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Douglas Ainslie"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

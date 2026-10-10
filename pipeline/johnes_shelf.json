@@ -1,0 +1,336 @@
+{
+ "_about": "TRANSLATOR SHELF: Thomas Johnes of Hafod (1748-1816): the Chronicles of Enguerrand de Monstrelet (1809; 12 of the 13 volumes in the Gutenberg edition; vol. 13 is not on Gutenberg). US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
+ "_name_words": [
+  "thomas johnes"
+ ],
+ "_surname": [
+  "thomas johnes"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "joh-50839": [
+   50839,
+   "The chronicles of Enguerrand de Monstrelet, Vol. 01 [of 13]"
+  ],
+  "joh-52607": [
+   52607,
+   "The chronicles of Enguerrand de Monstrelet, Vol. 02 [of 13]"
+  ],
+  "joh-52889": [
+   52889,
+   "The chronicles of Enguerrand de Monstrelet, Vol. 04 [of 13]"
+  ],
+  "joh-52911": [
+   52911,
+   "The Chronicles of Enguerrand de Monstrelet, Vol. 03 [of 13]"
+  ],
+  "joh-58083": [
+   58083,
+   "The chronicles of Enguerrand de Monstrelet, Vol. 07 [of 13]"
+  ],
+  "joh-63913": [
+   63913,
+   "The chronicles of Enguerrand de Monstrelet, Vol. 08 [of 13]"
+  ],
+  "joh-64948": [
+   64948,
+   "The chronicles of Enguerrand de Monstrelet, Vol. 06 [of 13]"
+  ],
+  "joh-65396": [
+   65396,
+   "The chronicles of Enguerrand de Monstrelet, Vol. 10 [of 13]"
+  ],
+  "joh-65721": [
+   65721,
+   "The chronicles of Enguerrand de Monstrelet, Vol. 12 [of 13]"
+  ],
+  "joh-73160": [
+   73160,
+   "The chronicles of Enguerrand de Monstrelet, Vol. 09 [of 13]"
+  ],
+  "joh-73983": [
+   73983,
+   "The chronicles of Enguerrand de Monstrelet, Vol. 05 [of 13]"
+  ],
+  "joh-74647": [
+   74647,
+   "The chronicles of Enguerrand de Monstrelet, Vol. 11 [of 13]"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "johnes-monstrelet-chronicles-vol-01": {
+   "source": "joh-50839",
+   "of": "Enguerrand de Monstrelet",
+   "work": "The chronicles of Enguerrand de Monstrelet, Vol. 01 [of 13]",
+   "translated": "1809-1810 (see the Gutenberg header)",
+   "translator": "Thomas Johnes",
+   "scan_edition": "Project Gutenberg 50839 (clean text)"
+  },
+  "johnes-monstrelet-chronicles-vol-02": {
+   "source": "joh-52607",
+   "of": "Enguerrand de Monstrelet",
+   "work": "The chronicles of Enguerrand de Monstrelet, Vol. 02 [of 13]",
+   "translated": "1809-1810 (see the Gutenberg header)",
+   "translator": "Thomas Johnes",
+   "scan_edition": "Project Gutenberg 52607 (clean text)"
+  },
+  "johnes-monstrelet-chronicles-vol-03": {
+   "source": "joh-52911",
+   "of": "Enguerrand de Monstrelet",
+   "work": "The Chronicles of Enguerrand de Monstrelet, Vol. 03 [of 13]",
+   "translated": "1809-1810 (see the Gutenberg header)",
+   "translator": "Thomas Johnes",
+   "scan_edition": "Project Gutenberg 52911 (clean text)"
+  },
+  "johnes-monstrelet-chronicles-vol-04": {
+   "source": "joh-52889",
+   "of": "Enguerrand de Monstrelet",
+   "work": "The chronicles of Enguerrand de Monstrelet, Vol. 04 [of 13]",
+   "translated": "1809-1810 (see the Gutenberg header)",
+   "translator": "Thomas Johnes",
+   "scan_edition": "Project Gutenberg 52889 (clean text)"
+  },
+  "johnes-monstrelet-chronicles-vol-05": {
+   "source": "joh-73983",
+   "of": "Enguerrand de Monstrelet",
+   "work": "The chronicles of Enguerrand de Monstrelet, Vol. 05 [of 13]",
+   "translated": "1809-1810 (see the Gutenberg header)",
+   "translator": "Thomas Johnes",
+   "scan_edition": "Project Gutenberg 73983 (clean text)"
+  },
+  "johnes-monstrelet-chronicles-vol-06": {
+   "source": "joh-64948",
+   "of": "Enguerrand de Monstrelet",
+   "work": "The chronicles of Enguerrand de Monstrelet, Vol. 06 [of 13]",
+   "translated": "1809-1810 (see the Gutenberg header)",
+   "translator": "Thomas Johnes",
+   "scan_edition": "Project Gutenberg 64948 (clean text)"
+  },
+  "johnes-monstrelet-chronicles-vol-07": {
+   "source": "joh-58083",
+   "of": "Enguerrand de Monstrelet",
+   "work": "The chronicles of Enguerrand de Monstrelet, Vol. 07 [of 13]",
+   "translated": "1809-1810 (see the Gutenberg header)",
+   "translator": "Thomas Johnes",
+   "scan_edition": "Project Gutenberg 58083 (clean text)"
+  },
+  "johnes-monstrelet-chronicles-vol-08": {
+   "source": "joh-63913",
+   "of": "Enguerrand de Monstrelet",
+   "work": "The chronicles of Enguerrand de Monstrelet, Vol. 08 [of 13]",
+   "translated": "1809-1810 (see the Gutenberg header)",
+   "translator": "Thomas Johnes",
+   "scan_edition": "Project Gutenberg 63913 (clean text)"
+  },
+  "johnes-monstrelet-chronicles-vol-09": {
+   "source": "joh-73160",
+   "of": "Enguerrand de Monstrelet",
+   "work": "The chronicles of Enguerrand de Monstrelet, Vol. 09 [of 13]",
+   "translated": "1809-1810 (see the Gutenberg header)",
+   "translator": "Thomas Johnes",
+   "scan_edition": "Project Gutenberg 73160 (clean text)"
+  },
+  "johnes-monstrelet-chronicles-vol-10": {
+   "source": "joh-65396",
+   "of": "Enguerrand de Monstrelet",
+   "work": "The chronicles of Enguerrand de Monstrelet, Vol. 10 [of 13]",
+   "translated": "1809-1810 (see the Gutenberg header)",
+   "translator": "Thomas Johnes",
+   "scan_edition": "Project Gutenberg 65396 (clean text)"
+  },
+  "johnes-monstrelet-chronicles-vol-11": {
+   "source": "joh-74647",
+   "of": "Enguerrand de Monstrelet",
+   "work": "The chronicles of Enguerrand de Monstrelet, Vol. 11 [of 13]",
+   "translated": "1809-1810 (see the Gutenberg header)",
+   "translator": "Thomas Johnes",
+   "scan_edition": "Project Gutenberg 74647 (clean text)"
+  },
+  "johnes-monstrelet-chronicles-vol-12": {
+   "source": "joh-65721",
+   "of": "Enguerrand de Monstrelet",
+   "work": "The chronicles of Enguerrand de Monstrelet, Vol. 12 [of 13]",
+   "translated": "1809-1810 (see the Gutenberg header)",
+   "translator": "Thomas Johnes",
+   "scan_edition": "Project Gutenberg 65721 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "joh-50839": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas johnes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-52607": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas johnes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-52889": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas johnes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-52911": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas johnes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-58083": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas johnes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-63913": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas johnes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-64948": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas johnes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-65396": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas johnes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-65721": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas johnes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-73160": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas johnes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-73983": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas johnes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-74647": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas johnes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Johnes"
+  }
+ },
+ "_verified": {
+  "joh-50839": {
+   "pg": 50839,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-52607": {
+   "pg": 52607,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-52889": {
+   "pg": 52889,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-52911": {
+   "pg": 52911,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-58083": {
+   "pg": 58083,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-63913": {
+   "pg": 63913,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-64948": {
+   "pg": 64948,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-65396": {
+   "pg": 65396,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-65721": {
+   "pg": 65721,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-73160": {
+   "pg": 73160,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-73983": {
+   "pg": 73983,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Johnes"
+  },
+  "joh-74647": {
+   "pg": 74647,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Johnes"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

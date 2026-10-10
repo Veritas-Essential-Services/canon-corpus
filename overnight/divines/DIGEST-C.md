@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T11:44-05:00: 122 shelves, 896 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5. **14 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T11:50-05:00: 133 shelves, 953 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5; 27 (eleven shelves): 57. **15 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -335,3 +335,24 @@ Ids were checked across all branches: no clashes. Verified and recorded: 0 misma
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
 
 **Still pending:** Ryder's *Dandin* (only a 1960 scan), Scott Moncrieff's later Proust volumes (only post-1931 printings are open), and Whishaw's *Crime and Punishment* (no open scan). Whishaw's *Injury and Insult* still waits on your facsimile ruling.
+
+
+## Round 27: chronicles, philosophy, history, novels (2026-10-10)
+
+Eleven new shelves, 57 titles, all from Gutenberg, with the translator line read in every header. No post-1930 year appears in any front matter:
+
+- **`johnes`** (12): Thomas Johnes's *Chronicles of Enguerrand de Monstrelet* (1809), volumes 1-12 (Gutenberg lacks volume 13).
+- **`elwes`** (6): R. H. M. Elwes's Spinoza: the *Theologico-Political Treatise* (4 parts) and *On the Improvement of the Understanding*. His *Ethics* is on adler_shelf.json, so it is a cross-reference here.
+- **`fleming`** (11): William F. Fleming's Voltaire, the *Philosophical Dictionary* (10 volumes) and one more volume of the 1901 Works.
+- **`mcclure`** (1): Maspero's *History of Egypt, Chaldæa, Syria, Babylonia and Assyria*, as Gutenberg's one complete text.
+- **`ainslie`** (6): Douglas Ainslie's Croce, including both his 1909 and his revised 1922 *Aesthetic*.
+- **`derbyshire`** (4): Charles Derbyshire's Rizal: *Noli Me Tangere* (as *The Social Cancer*), *El Filibusterismo* (as *The Reign of Greed*) and two essays.
+- **`gilbert-cannan`** (4): Rolland's *Jean-Christophe* (3 volumes) and Chekhov (with Koteliansky). **`lewisohn`** (4): Wassermann (3) and Sudermann.
+- **`van-laun`** (4): Taine's *History of English Literature* (3 volumes) and La Bruyère. **`eugene-mason`** (4): Wace, Layamon, Marie de France and *Aucassin and Nicolette* for Everyman.
+- **`eleanor-grove`** (1): Ebers's *An Egyptian Princess*, the complete text.
+
+Skipped because they are already shelved on other branches: Brill's Freud (freud_shelf.json) and Henderson, McMaster and Quesada's Maupassant (maupassant_shelf.json).
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Your call:** none beyond the veto.

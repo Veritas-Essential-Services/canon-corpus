@@ -1,0 +1,54 @@
+{
+ "_about": "TRANSLATOR SHELF: M. L. McClure (d. 1918): Maspero's History of Egypt, Chaldæa, Syria, Babylonia and Assyria (Grolier, 1903-06, ed. A. H. Sayce), shelved as Gutenberg's one complete text. US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
+ "_name_words": [
+  "m. l. mcclure",
+  "mcclure"
+ ],
+ "_surname": [
+  "m. l. mcclure",
+  "mcclure"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mcl-28876": [
+   28876,
+   "History of Egypt, Chaldæa, Syria, Babylonia, and Assyria"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "mcclure-maspero-history-of-egypt-chaldaea-syria-babyloni": {
+   "source": "mcl-28876",
+   "of": "G. (Gaston) Maspero",
+   "work": "History of Egypt, Chaldæa, Syria, Babylonia, and Assyria",
+   "translated": "1903-1906 (see the Gutenberg header)",
+   "translator": "M. L. McClure",
+   "scan_edition": "Project Gutenberg 28876 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "maspero-volumes": "Gutenberg's volume files are left out; the complete text (28876) is used."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mcl-28876": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "m. l. mcclure",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. L. McClure"
+  }
+ },
+ "_verified": {
+  "mcl-28876": {
+   "pg": 28876,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "M. L. McClure"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

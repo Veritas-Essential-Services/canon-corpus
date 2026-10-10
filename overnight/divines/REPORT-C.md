@@ -129,3 +129,5 @@
 - 2026-10-10T11:36-05:00: round 25: markham (7), thomasina-ross (7), hl-williams (6), beatrice-marshall (5), alys-hallard (4), bertha-ness (5), macdowall (5), gillies (5), christina-tyrrell (6), d-anvers (6), livingston (4), barrett-clark (5), lamond (6). --verify --record 0 mismatched.
 
 - 2026-10-10T11:44-05:00: round 26: archer-ibsen vol 12, marian-fell Plays, julius-west (1), george-calderon (2). --verify --record 0 mismatched.
+
+- 2026-10-10T11:50-05:00: round 27: johnes (12), elwes (6, one held_in), fleming (11), mcclure (1), ainslie (6), derbyshire (4), gilbert-cannan (4), lewisohn (4), van-laun (4), eugene-mason (4), eleanor-grove (1). --verify --record 0 mismatched.

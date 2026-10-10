@@ -1,0 +1,170 @@
+{
+ "_about": "TRANSLATOR SHELF: R. H. M. Elwes (1853-1892): Spinoza's Theologico-Political Treatise (4 parts) and On the Improvement of the Understanding (Bohn, 1883). His Ethics is on adler_shelf.json and is a cross-reference here. US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
+ "_name_words": [
+  "r. h. m. elwes",
+  "elwes"
+ ],
+ "_surname": [
+  "r. h. m. elwes",
+  "elwes"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "elw-1016": [
+   1016,
+   "On the Improvement of the Understanding"
+  ],
+  "elw-989": [
+   989,
+   "Theologico-Political Treatise — Part 1"
+  ],
+  "elw-990": [
+   990,
+   "Theologico-Political Treatise — Part 2"
+  ],
+  "elw-991": [
+   991,
+   "A Theological-Political Treatise [Part III]"
+  ],
+  "elw-992": [
+   992,
+   "A Theological-Political Treatise [Part IV]"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "elwes-spinoza-ethics": {
+   "of": "Benedictus de Spinoza",
+   "work": "Ethics",
+   "translated": 1883,
+   "translator": "R. H. M. Elwes",
+   "held_in": {
+    "file": "pipeline/adler_shelf.json",
+    "slug": "spinoza-ethics",
+    "gutenberg_id": 3800
+   },
+   "note": "Cross-reference only: Adler's shelf holds this text."
+  },
+  "elwes-spinoza-on-the-improvement-of-the-understanding": {
+   "source": "elw-1016",
+   "of": "Benedictus de Spinoza",
+   "work": "On the Improvement of the Understanding",
+   "translated": "1883 (Bohn's Philosophical Library; see the Gutenberg header)",
+   "translator": "R. H. M. Elwes",
+   "scan_edition": "Project Gutenberg 1016 (clean text)"
+  },
+  "elwes-spinoza-theologico-political-treatise-part-1": {
+   "source": "elw-989",
+   "of": "Benedictus de Spinoza",
+   "work": "Theologico-Political Treatise — Part 1",
+   "translated": "1883 (Bohn's Philosophical Library; see the Gutenberg header)",
+   "translator": "R. H. M. Elwes",
+   "scan_edition": "Project Gutenberg 989 (clean text)"
+  },
+  "elwes-spinoza-theologico-political-treatise-part-2": {
+   "source": "elw-990",
+   "of": "Benedictus de Spinoza",
+   "work": "Theologico-Political Treatise — Part 2",
+   "translated": "1883 (Bohn's Philosophical Library; see the Gutenberg header)",
+   "translator": "R. H. M. Elwes",
+   "scan_edition": "Project Gutenberg 990 (clean text)"
+  },
+  "elwes-spinoza-theologico-political-treatise-part-3": {
+   "source": "elw-991",
+   "of": "Benedictus de Spinoza",
+   "work": "A Theological-Political Treatise [Part III]",
+   "translated": "1883 (Bohn's Philosophical Library; see the Gutenberg header)",
+   "translator": "R. H. M. Elwes",
+   "scan_edition": "Project Gutenberg 991 (clean text)"
+  },
+  "elwes-spinoza-theologico-political-treatise-part-4": {
+   "source": "elw-992",
+   "of": "Benedictus de Spinoza",
+   "work": "A Theological-Political Treatise [Part IV]",
+   "translated": "1883 (Bohn's Philosophical Library; see the Gutenberg header)",
+   "translator": "R. H. M. Elwes",
+   "scan_edition": "Project Gutenberg 992 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "ethics": "The Ethics: the complete text (3800) is on adler_shelf.json; Gutenberg's five part-files (919-975) are left out."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "elw-1016": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. h. m. elwes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. H. M. Elwes"
+  },
+  "elw-989": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. h. m. elwes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. H. M. Elwes"
+  },
+  "elw-990": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. h. m. elwes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. H. M. Elwes"
+  },
+  "elw-991": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. h. m. elwes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. H. M. Elwes"
+  },
+  "elw-992": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "r. h. m. elwes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. H. M. Elwes"
+  }
+ },
+ "_verified": {
+  "elw-1016": {
+   "pg": 1016,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. H. M. Elwes"
+  },
+  "elw-989": {
+   "pg": 989,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. H. M. Elwes"
+  },
+  "elw-990": {
+   "pg": 990,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. H. M. Elwes"
+  },
+  "elw-991": {
+   "pg": 991,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. H. M. Elwes"
+  },
+  "elw-992": {
+   "pg": 992,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. H. M. Elwes"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,129 @@
+{
+ "_about": "TRANSLATOR SHELF: Gilbert Cannan (1884-1955): Romain Rolland's Jean-Christophe (Heinemann/Holt, 1910-13, 3 vols) and Chekhov's The House with the Mezzanine (with S. S. Koteliansky, 1917). US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
+ "_name_words": [
+  "gilbert cannan"
+ ],
+ "_surname": [
+  "gilbert cannan"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "gca-27411": [
+   27411,
+   "The House with the Mezzanine and Other Stories"
+  ],
+  "gca-7967": [
+   7967,
+   "Jean-Christophe Journey's End"
+  ],
+  "gca-7979": [
+   7979,
+   "Jean-Christophe, Volume I"
+  ],
+  "gca-8149": [
+   8149,
+   "Jean-Christophe in Paris: The Market-Place, Antoinette, the House"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "gilbert-cannan-chekhov-the-house-with-the-mezzanine-and-other-s": {
+   "source": "gca-27411",
+   "of": "Anton Pavlovich Chekhov",
+   "work": "The House with the Mezzanine and Other Stories",
+   "translated": "1910-1917 (see the Gutenberg header)",
+   "translator": "Gilbert Cannan (with S. S. Koteliansky)",
+   "scan_edition": "Project Gutenberg 27411 (clean text)",
+   "note": "With S. S. Koteliansky."
+  },
+  "gilbert-cannan-rolland-jean-christophe-in-paris-the-market-plac": {
+   "source": "gca-8149",
+   "of": "Romain Rolland",
+   "work": "Jean-Christophe in Paris: The Market-Place, Antoinette, the House",
+   "translated": "1910-1917 (see the Gutenberg header)",
+   "translator": "Gilbert Cannan",
+   "scan_edition": "Project Gutenberg 8149 (clean text)"
+  },
+  "gilbert-cannan-rolland-jean-christophe-journey-s-end": {
+   "source": "gca-7967",
+   "of": "Romain Rolland",
+   "work": "Jean-Christophe Journey's End",
+   "translated": "1910-1917 (see the Gutenberg header)",
+   "translator": "Gilbert Cannan",
+   "scan_edition": "Project Gutenberg 7967 (clean text)"
+  },
+  "gilbert-cannan-rolland-jean-christophe-volume-i": {
+   "source": "gca-7979",
+   "of": "Romain Rolland",
+   "work": "Jean-Christophe, Volume I",
+   "translated": "1910-1917 (see the Gutenberg header)",
+   "translator": "Gilbert Cannan",
+   "scan_edition": "Project Gutenberg 7979 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "gca-27411": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gilbert cannan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gilbert Cannan; S. S. Koteliansky"
+  },
+  "gca-7967": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gilbert cannan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gilbert Cannan"
+  },
+  "gca-7979": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gilbert cannan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gilbert Cannan"
+  },
+  "gca-8149": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gilbert cannan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gilbert Cannan"
+  }
+ },
+ "_verified": {
+  "gca-27411": {
+   "pg": 27411,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gilbert Cannan"
+  },
+  "gca-7967": {
+   "pg": 7967,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gilbert Cannan"
+  },
+  "gca-7979": {
+   "pg": 7979,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gilbert Cannan"
+  },
+  "gca-8149": {
+   "pg": 8149,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gilbert Cannan"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}
