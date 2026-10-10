@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain Charles G. Finney (1792-1875, revivalist, president of Oberlin College) for the Word Hoard: Lectures on Revivals of Religion, Systematic Theology (1878 edition), Lectures to Professing Christians, Sermons on Gospel Themes, Power from on High, Letters on Revival and The Backslider in Heart, clean from CCEL. His theology departs from the Reformed divines on this shelf list; he is here for his influence, and the shelf is Adam's to veto. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_about": "Public-domain Charles G. Finney (1792-1875, revivalist, president of Oberlin College) for the Word Hoard: Lectures on Revivals of Religion, Systematic Theology (1878 edition), Lectures to Professing Christians, Sermons on Gospel Themes, Power from on High, Letters on Revival and The Backslider in Heart, clean from CCEL. His theology departs from the Reformed divines on this shelf list; he is here for his influence, and the shelf is Adam's to veto. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted. Added 2026-10-10 (round 17, a pickup from the Classical reading-lists thread): his Memoirs (A. S. Barnes, 1876) from the Internet Archive.",
  "_ccel_author": "f/finney",
  "_name_words": [
   "finney",
@@ -50,13 +50,18 @@
   ]
  },
  "gutenberg": {},
- "internet_archive": {},
+ "internet_archive": {
+  "finney-memoirs-1876": [
+   "memoirsofrevchar00finn",
+   "Memoirs of Rev. Charles G. Finney, Written by Himself (New York: A. S. Barnes, 1876)"
+  ]
+ },
  "_alternates": {},
  "_excluded": {},
  "_checks": {
   "finney-revivals": {
    "kind": "ccel",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "charles g. finney",
    "identity": "ok",
@@ -68,7 +73,7 @@
   },
   "finney-theology": {
    "kind": "ccel",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "charles g. finney",
    "identity": "ok",
@@ -80,7 +85,7 @@
   },
   "finney-lectures": {
    "kind": "ccel",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "charles g. finney",
    "identity": "ok",
@@ -92,7 +97,7 @@
   },
   "finney-sermons": {
    "kind": "ccel",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "charles g. finney",
    "identity": "ok",
@@ -104,7 +109,7 @@
   },
   "finney-power": {
    "kind": "ccel",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "finney",
    "identity": "ok",
@@ -116,7 +121,7 @@
   },
   "finney-fire": {
    "kind": "ccel",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "charles g. finney",
    "identity": "ok",
@@ -128,7 +133,7 @@
   },
   "finney-backslide": {
    "kind": "ccel",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "charles g. finney",
    "identity": "ok",
@@ -137,6 +142,17 @@
    "ccel_print_source": null,
    "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "finney-memoirs-1876": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles g. finney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  }
 }

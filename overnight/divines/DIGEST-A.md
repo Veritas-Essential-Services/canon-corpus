@@ -333,6 +333,19 @@ Started 2026-10-10, continuing on Adam's keep-going request. German divines in p
 
 Round 16 finished 2026-10-10 10:30 CDT: 12 shelves, 92 volumes, every one past `--verify --record` with 0 mismatched; 0 uids minted. 21 title pages whose OCR garbles the author's name ("EUDOLF STIEE", "DR. I. A. CORNER", "J. H. KUETZ") were read and recorded in `_identity_checked`. Three translator names OCR too badly to machine-check and are recorded in the titles instead.
 
+## Round 17: pickups for existing shelves, then my picks
+
+The Classical reading-lists thread left six pickups for lane A's shelves (relayed by the coordinator, 2026-10-10). What happened to each:
+- **Spurgeon:** added Lectures to My Students (first and second series, 1875-77, IA; the third series, The Art of Illustration, from Gutenberg 42558), The Soul-Winner (Revell, 1895), and from Gutenberg Around the Wicket Gate, Talks to Farmers and Gleanings among the Sheaves. John Ploughman's Talk was not found in a pre-1930 scan or on Gutenberg in this search.
+- **Finney:** added his Memoirs (A. S. Barnes, 1876).
+- **Perkins, A Reformed Catholike (1597):** already on the shelf inside the 1616 Workes vol. 1; not added twice.
+- **Ryle, Thoughts for Young Men:** no pre-1930 separate printing found on IA (only an undated upload and a 1992 Calvary Press reprint); not added.
+- **Dabney, Life of Stonewall Jackson:** still left out. The shelf excludes it as a military biography outside divinity, the same rule as his war memorials; say the word and it comes in.
+- **Beza, A Learned Treatise of the Plague (1580):** the `theodore-beza` shelf belongs to PR #14's branch, not this lane; left for that thread.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
 - Bunyan: CCEL "Miscellaneous Pieces" and Gutenberg 3613 are probably the same pieces twice.

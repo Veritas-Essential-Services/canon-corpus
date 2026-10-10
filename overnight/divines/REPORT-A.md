@@ -787,3 +787,6 @@
 
 ## 2026-10-10 10:30 CDT: round 16 complete
 - 12 shelves (Arnot, James Hamilton of Regent Square, John Ker, Stalker, Blaikie, Godet, Dorner, Julius Müller, Stier, Luthardt, Christlieb, Kurtz). Shelf names and source ids checked on every remote branch: no clashes. Round 17 next: the six pickups the Classical reading-lists thread left for existing shelves, then new authors.
+
+## 2026-10-10 10:33 CDT: round 17 pickups
+- `spurgeon_shelf.json`: +4 Gutenberg, +3 IA (Lectures to My Students series 1-3, Soul-Winner, Wicket Gate, Talks to Farmers, Gleanings). `charles-finney_shelf.json`: +1 IA (Memoirs, 1876). Perkins's Reformed Catholike is already in Workes vol. 1; Ryle's Thoughts for Young Men has no pre-1930 scan found; Dabney's Jackson stays excluded (military biography); Beza's shelf is PR #14's. `--verify --record` on both shelves: 0 mismatched. 0 uids minted.
