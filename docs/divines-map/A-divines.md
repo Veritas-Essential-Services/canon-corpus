@@ -4065,3 +4065,20 @@ Slugs `salmon-*`. Provost of Trinity College, Dublin; first editions of the Intr
 | George Salmon (1801-1865, Canadian sermons) and David Salmon | excluded | |
 | 1948-1959 reprints | excluded | |
 | German and French translations of the mathematics | excluded | |
+
+## J. G. Bellett (round 21, my pick, 2026-10-10)
+
+Slugs `bellett-*`. Early Dublin Brethren; the Moral Glory is signed only J. G. B.
+
+| Work | Status | Where |
+|---|---|---|
+| The Patriarchs: Meditations upon Enoch, Noah, Abraham, Isaac, Jacob, Joseph, Job; the Canticles, Heaven and Earth, new edition (London: A. S. Rouse, 1895) | have-clean | Gutenberg 40216 |
+| A Short Meditation on the Moral Glory of the Lord Jesus Christ, signed J. G. B. (London: W. H. Broom, 1865) | have-ocr | IA `ashortmeditatio00bellgoog` |
+| The Minor Prophets (London: Robert L. Allan; Dublin Tract Depot, 1870) | have-ocr | IA `minorprophets00bell` |
+| The Gospel by St. John, fifth edition, revised and enlarged (London: W. H. Broom, 1870) | have-ocr | IA `gospelbystjohn0000jgbe_p6g4` |
+| The Evangelists: Papers on the Four Gospels, collective title page signed J. G. B. (London: W. H. Broom and Rouse; section title page 1886) | have-ocr | IA `11604936bsb` |
+| Anonymous pieces attributed to him: The Son of God ('by the author of The Moral Glory', Broom, catalogued 1870; sonofgod00bell), Woollen and Linen and Family Character (signed J. G. B. only, catalogued 1864; woollenlinenfami0000unse), Short Meditations (Dublin, 1866), Short Meditations on Elisha (Nisbet, 1848) | alternate | not shelved |
+| The Patriarchs, undated Morrish printing (patriarchsbeingm0000jgbe), probably later than its catalogued 1909 | alternate | not shelved |
+| Short Meditations on Elisha 1945 and a 1981 reprint | excluded | |
+| J. C. Bellett and George Bellett | excluded | |
+| Spanish translation of the Moral Glory | excluded | |

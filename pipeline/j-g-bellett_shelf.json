@@ -1,0 +1,113 @@
+{
+ "_about": "Public-domain J. G. Bellett (John Gifford Bellett, 1795-1864, early Dublin Brethren) for the Word Hoard: The Patriarchs (new edition, 1895) from Project Gutenberg, and from Internet Archive scans A Short Meditation on the Moral Glory of the Lord Jesus Christ (1865, signed J. G. B.), The Minor Prophets (1870), The Gospel by St. John (fifth edition, 1870) and The Evangelists: Papers on the Four Gospels (Broom and Rouse, 1886). Raw OCR for the scans. Much of his work appeared anonymously; those pieces are alternates. Added 2026-10-10 by lane A, round 21 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "bellett"
+ ],
+ "_surname": [
+  "j. g. bellett",
+  "john gifford bellett",
+  "bellett, j. g.",
+  "bellett, john gifford",
+  "j. g. b.",
+  "by j. g. bellett"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "bellett-patriarchs": [
+   "40216",
+   "The Patriarchs: Meditations upon Enoch, Noah, Abraham, Isaac, Jacob, Joseph, Job; the Canticles, Heaven and Earth, new edition (London: A. S. Rouse, 1895)"
+  ]
+ },
+ "internet_archive": {
+  "bellett-moral-glory": [
+   "ashortmeditatio00bellgoog",
+   "A Short Meditation on the Moral Glory of the Lord Jesus Christ, signed J. G. B. (London: W. H. Broom, 1865)"
+  ],
+  "bellett-minor-prophets": [
+   "minorprophets00bell",
+   "The Minor Prophets (London: Robert L. Allan; Dublin Tract Depot, 1870)"
+  ],
+  "bellett-gospel-john": [
+   "gospelbystjohn0000jgbe_p6g4",
+   "The Gospel by St. John, fifth edition, revised and enlarged (London: W. H. Broom, 1870)"
+  ],
+  "bellett-evangelists": [
+   "11604936bsb",
+   "The Evangelists: Papers on the Four Gospels, collective title page signed J. G. B. (London: W. H. Broom and Rouse; section title page 1886)"
+  ]
+ },
+ "_alternates": {
+  "bellett-anonymous": "Anonymous pieces attributed to him: The Son of God ('by the author of The Moral Glory', Broom, catalogued 1870; sonofgod00bell), Woollen and Linen and Family Character (signed J. G. B. only, catalogued 1864; woollenlinenfami0000unse), Short Meditations (Dublin, 1866), Short Meditations on Elisha (Nisbet, 1848)",
+  "bellett-patriarchs-ia": "The Patriarchs, undated Morrish printing (patriarchsbeingm0000jgbe), probably later than its catalogued 1909"
+ },
+ "_excluded": {
+  "bellett-late": "Short Meditations on Elisha 1945 and a 1981 reprint",
+  "bellett-namesakes": "J. C. Bellett and George Bellett",
+  "bellett-translations": "Spanish translation of the Moral Glory"
+ },
+ "_identity_checked": {
+  "bellett-moral-glory": {
+   "author": "title page read: 'By J. G. B.' (OCR 'J. Gr. B.'), London: W. H. Broom, 1865; initials only, IA catalogue attributes it to John Gifford Bellett"
+  },
+  "bellett-gospel-john": {
+   "author": "title page read: 'J. G. Bellett' (OCR 'JI. G BELLETT'), London: W. H. Broom, 1870"
+  }
+ },
+ "_pending": {},
+ "_checks": {
+  "bellett-patriarchs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. g. bellett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bellett-moral-glory": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bellett-minor-prophets": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. g. bellett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bellett-gospel-john": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bellett-evangelists": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. g. bellett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

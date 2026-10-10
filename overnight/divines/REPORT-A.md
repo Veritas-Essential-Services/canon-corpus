@@ -961,3 +961,6 @@
 
 ## 2026-10-10 14:42 CDT — george-salmon done
 - `pipeline/george-salmon_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for salmon-nt-introduction, salmon-cathedral-sermons (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:42 CDT — j-g-bellett done
+- `pipeline/j-g-bellett_shelf.json`: 0 CCEL, 1 PG, 4 IA. Title pages read for bellett-moral-glory, bellett-gospel-john (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
