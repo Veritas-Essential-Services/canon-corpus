@@ -2328,6 +2328,14 @@
       "finished": "2026-10-10T13:05-05:00",
       "scope": "TRANSLATOR SHELF (round 36, lane C's choice; Adam may veto) -- horace-samuel; PD printings before 1931 only; no minting",
       "notes": "2 titles; ids checked across all branches. See DIGEST-C round 36. No uids minted."
+    },
+    {
+      "id": "gap-fill-round-36",
+      "status": "done",
+      "started": "2026-10-10T13:05-05:00",
+      "finished": "2026-10-10T13:05-05:00",
+      "scope": "GAP AUDIT part 2 (round 36): remaining lane C shelves",
+      "notes": "+8 titles on vizetelly, de-leon, dole, koteliansky, leland-heine, prestage, morris-magnusson, strindberg-english; duplicates excluded on theodore-martin, hearn, strindberg-english. No uids minted."
     }
   ]
 }

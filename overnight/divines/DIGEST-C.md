@@ -1,5 +1,5 @@
 # Lane C — Translator shelves: digest (read first)
-Totals 2026-10-10T12:59-05:00: 280 shelves, 1389 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5; 27 (eleven shelves): 57; 28 (twelve shelves): 41; 29 (seventeen shelves): 51; 30 (seventeen shelves): 56; 31 (twenty-five shelves): 48; 32 (thirty shelves): 66; 33 (thirty-six shelves): 72; 34 (six shelves): 32; 35 (gap audit: four new shelves 46, plus 24 on seven older shelves): 70. **15 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
+Totals 2026-10-10T13:05-05:00: 286 shelves, 1408 titles. By round: 1-3: 108; 4: 13; 5: 27; 6: 11; 7: 12; 8: 8; Ransome translations: 2; 9 (Scott Moncrieff): 9; 10 (Ryder 5, Gertrude Bell 1, Levy Nietzsche 15): 21; 11 (Archer's Ibsen): 11; 12 (Magnússon-Morris 3, Strindberg 14): 17; 13 (Saga Library 6, Three Northern Love Stories 1, Björkman 1, Pickthall 1): 9; 14 (Wormeley 41, Vizetelly 16): 57; 15 (Wiener's Tolstoy): 24; 16 (Leland's Heine 8, Whishaw 3): 11; 17 (Koteliansky 10, Marian Fell 3, Seltzer 5, Dole 6): 24; 18 (Ellen Marriage 18, Clara Bell 43, Waring 4): 65; 19 (Teixeira de Mattos 59, Serrano 6, Howitt 2, Duff Gordon 2): 69; 20 (Miall 10, Muir 4, Wraxall 23, Dowson 3): 40; 21 (Machen 1, Ives 18, Hogarth 10, Bernstein 9, Marx Aveling 5, Bain 12): 55; 22 (Safford 23, Wister 14, Allinson 9, Worster 8, Chater 7, De Leon 18): 79; 23 (Upton 35, Colbron 5, Goldberg 9, Roscoe 8, Durand 7, Brooks 6, Lady Wallace 8, Frewer 6, Ensor 6, Ranous 2): 92; 24 (Paul 10, Saunders 8, McCabe 9, Farquharson Sharp 7, Morison 8, White 1, Black 1, Waller 7, Rothwell 5): 56; 25 (thirteen shelves): 71; 26 (pending items and Chekhov): 5; 27 (eleven shelves): 57; 28 (twelve shelves): 41; 29 (seventeen shelves): 51; 30 (seventeen shelves): 56; 31 (twenty-five shelves): 48; 32 (thirty shelves): 66; 33 (thirty-six shelves): 72; 34 (six shelves): 32; 35 (gap audit: four new shelves 46, plus 24 on seven older shelves): 70; 36 (audit +8, six new shelves 11): 19. **15 of the titles are cross-references to works the repo already holds (the Volsunga Saga became one on 2026-10-10), not new copies.** No uids minted.
 Updated 2026-10-02T15:32-05:00. No uids minted anywhere in this lane: every title below awaits your single-writer minting pass. Nothing is converted to unit-id JSON yet (that needs entries in fetch_sources.py, which the relay may not touch).
 
 ## Dryden — `pipeline/dryden_shelf.json`
@@ -558,5 +558,23 @@ Ids were checked across all branches: no clashes. Verified and recorded: 0 misma
 - **`adele-seltzer`** (5): Hauptmann's *Atlantis*, Liber's *Rashi* (credited to "Adele Szold", 1906), Sudermann's *Iolanthe's Wedding*, Magdeleine Marx's *Woman*, and *The Adventures of Maya the Bee*. Her husband Thomas Seltzer's shelf now records these five as hers.
 
 Not added: Ludovici's van Gogh letters (Gutenberg has no text file for it).
+
+Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+## Round 36: the rest of the audit, and six team translators (2026-10-10)
+
+19 titles, all from Gutenberg, with the translator line read in every header:
+
+**Part 1: the rest of the audit of older shelves (+8 titles).** Zola's *Money* (`vizetelly`), Marx's *The Eighteenth Brumaire* (`de-leon`), Suttner's *When Thoughts Will Soar* (`dole`), Dostoevsky's *Stavrogin's Confession* (Koteliansky and Virginia Woolf, 1922; `koteliansky`), Scheffel's *Gaudeamus!* (`leland-heine`), *The Letters of a Portuguese Nun* (`prestage`), *The Story of Gunnlaug the Worm-Tongue* (`morris-magnusson`), and Strindberg's *The Growth of a Soul* (`strindberg-english`). Three duplicates are recorded as excluded: another *Wilhelm Tell* on `theodore-martin`, three single Gautier stories on `hearn` that are already held whole, and a Gutenberg copy of Björkman's first series that `strindberg-english` already holds from archive.org.
+
+**Part 2: six new shelves (11 titles)**, for team translators whose other work was outside the Strindberg and Nietzsche shelves:
+
+- **`claud-field`** (4): Gogol's *The Mantle and Other Stories*, *Peasant Tales of Russia*, *The Confessions of Al Ghazzali*, and Gunnarsson's *The Sworn Brothers*.
+- **`edwin-bjorkman`** (1): Schnitzler's *The Lonely Way*, *Intermezzo* and *Countess Mizzie*. **`ellie-schleussner`** (1): Lucka's *The Evolution of Love*.
+- **`helen-zimmern`** (1): Carmen Sylva's *Pilgrim Sorrow*. Her De Amicis is left for the `de-amicis` shelf.
+- **`paul-cohn`** (2): Bordeaux's *The Last Days of Fort Vaux* and Beyens's *Germany before the War*.
+- **`horace-samuel`** (2): Stendhal's *The Red and the Black* (1913) and Schnitzler's *The Road to the Open*.
+
+**Left off by judgment:** Adrian Collins's translation of Gobineau's *The Inequality of Human Races* (1915), the founding text of "scientific" racism. Ask if you want it shelved as a historical document.
 
 Ids were checked across all branches: no clashes. Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.

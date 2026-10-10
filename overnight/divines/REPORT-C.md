@@ -147,3 +147,5 @@
 - 2026-10-10T12:41-05:00: round 34: whiston (5), ganguli (4), mn-dutt (6), saintsbury-heptameron (5), viharilala-mitra (7), smollett-translations (5). --verify --record 0 mismatched. Large translations: Whiston's Josephus, Ganguli's Mahabharata, M. N. Dutt's Ramayana, Saintsbury's Heptameron, Mitra's Yoga-Vasishtha (facsimile flag), Smollett.
 
 - 2026-10-10T12:59-05:00: round 35: rasmus-anderson (8), archer-other (2), borrow-translations (31), adele-seltzer (5). --verify --record 0 mismatched. Gap audit: +24 titles on curtin (8), hapgood (6), wormeley (4), clara-bell (3), levy-nietzsche (2), payne (1); burton Kama Sutra excluded by judgment; adele-seltzer split from seltzer.
+
+- 2026-10-10T13:05-05:00: round 36: claud-field (4), edwin-bjorkman (1), ellie-schleussner (1), helen-zimmern (1), paul-cohn (2), horace-samuel (2). --verify --record 0 mismatched. Audit part 2: +8 titles on vizetelly, de-leon, dole, koteliansky, leland-heine, prestage, morris-magnusson, strindberg-english; 3 duplicates excluded; Gobineau left off by judgment.
