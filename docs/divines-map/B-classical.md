@@ -3205,6 +3205,7 @@ Shelf: `pipeline/pelham_shelf.json`. Essays, ed. Haverfield (Clarendon Press, 19
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Essays, collected and edited by F. Haverfield (Oxford: Clarendon Press, 1911) |  | `pelham-essays-1911` | have-raw (IA `essaysonromanhis00pelhuoft`) |
 
 Pending (wishlist): Outlines of Roman History (1895).
 
