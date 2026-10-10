@@ -2558,6 +2558,151 @@ Excluded: P. Vergili Maronis Opera, with a commentary (with Henry Nettleship), v
 
 Pending (wishlist): Miscellaneous Writings vol. II (every IA copy tried was vol. I or would not download); the Virgil and Persius commentaries if a scan clears the bar.
 
+## W. Y. Sellar (scholarship)
+
+Shelf: `pipeline/w-y-sellar_shelf.json`. William Young Sellar (1825-1890), Professor of Humanity at Edinburgh: 2 clean Gutenberg texts. The shelf name carries his initials because A. M. Sellar, Bede's translator, is a different person. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Roman Poets of the Augustan Age: Virgil |  | `sellar-roman-poets-augustan-virgil` | have (PG 34163) |
+| The Roman Poets of the Republic, 3rd edition |  | `sellar-roman-poets-republic-3rd` | have (PG 38566) |
+
+Excluded: PG 48323 (The Roman Poets of the Republic, 2nd edition) (the 3rd edition is held)
+
+## J. W. Mackail (scholarship)
+
+Shelf: `pipeline/mackail_shelf.json`. John William Mackail (1859-1945): 1 clean Gutenberg text. His translations (Virgil, Catullus, the Greek Anthology, the Odyssey) are on those shelves. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## A. H. J. Greenidge (scholarship)
+
+Shelf: `pipeline/greenidge_shelf.json`. Abel Hendy Jones Greenidge (1865-1906), Oxford ancient historian: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## W. Warde Fowler (scholarship)
+
+Shelf: `pipeline/warde-fowler_shelf.json`. William Warde Fowler (1847-1921), Oxford historian of Roman religion: 4 clean Gutenberg texts. His bird books are outside the brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Samuel Dill (scholarship)
+
+Shelf: `pipeline/samuel-dill_shelf.json`. Sir Samuel Dill (1844-1924): 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## J. P. Mahaffy (scholarship)
+
+Shelf: `pipeline/mahaffy_shelf.json`. John Pentland Mahaffy (1839-1919), Trinity College Dublin: 4 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Excluded: PG 65638 (The Principles of the Art of Conversation) (outside the classical brief)
+
+## G. Lowes Dickinson (scholarship)
+
+Shelf: `pipeline/lowes-dickinson_shelf.json`. Goldsworthy Lowes Dickinson (1862-1932): 1 clean Gutenberg text. His political and travel books are outside the brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## John Burnet (scholarship)
+
+Shelf: `pipeline/burnet_shelf.json`. John Burnet (1863-1928), Professor of Greek at St Andrews: 1 clean Gutenberg text. The presocratics shelf passed this book over as a study, not a translation; it is taken here as scholarship. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Eduard Zeller (scholarship)
+
+Shelf: `pipeline/zeller_shelf.json`. Eduard Zeller (1814-1908) in English, tr. Oswald J. Reichel (1840-1923): 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Jane Ellen Harrison (scholarship)
+
+Shelf: `pipeline/jane-harrison_shelf.json`. Jane Ellen Harrison (1850-1928), Newnham College: 3 clean Gutenberg texts. Her commentary with Verrall's Attica is on the pausanias shelf. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Excluded: PG 75986 (Reminiscences of a Student's Life) (memoir, outside the brief)
+
+## L. R. Farnell (scholarship)
+
+Shelf: `pipeline/farnell_shelf.json`. Lewis Richard Farnell (1856-1934), Rector of Exeter College, Oxford: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Excluded: PG 71722 (The Evolution of Religion) (comparative religion, outside the classical brief)
+
+## F. Haverfield (scholarship)
+
+Shelf: `pipeline/haverfield_shelf.json`. Francis Haverfield (1860-1919), Camden Professor at Oxford: 3 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Rodolfo Lanciani (scholarship)
+
+Shelf: `pipeline/lanciani_shelf.json`. Rodolfo Lanciani (1847-1929), Roman archaeologist, writing in English: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## G. W. Botsford (scholarship)
+
+Shelf: `pipeline/botsford_shelf.json`. George Willis Botsford (1862-1917), Columbia: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Excluded: PG 49923, 51110 (The Mentor issues) (magazine pieces)
+
+## G. B. Grundy (scholarship)
+
+Shelf: `pipeline/grundy_shelf.json`. George Beardoe Grundy (1861-1948), Oxford: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## W. E. Heitland (scholarship)
+
+Shelf: `pipeline/heitland_shelf.json`. William Emerton Heitland (1847-1935), St John's College, Cambridge: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## B. G. Niebuhr (scholarship)
+
+Shelf: `pipeline/niebuhr_shelf.json`. Barthold Georg Niebuhr (1776-1831) in English: Lectures on Roman History, ed. Isler, tr. H. Le M. Chepmell and F. Demmler (3 vols.), and Lectures on Ancient Ethnography and Geography, tr. Leonhard Schmitz (2 vols.): 5 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Kenneth J. Freeman (scholarship)
+
+Shelf: `pipeline/k-j-freeman_shelf.json`. Kenneth John Freeman (1882-1906); ed. M. J. Rendall, introduction by A. W. Verrall: 1 clean Gutenberg text. Initials in the shelf name keep him apart from Edward A. Freeman. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Percy Gardner (scholarship)
+
+Shelf: `pipeline/percy-gardner_shelf.json`. Percy Gardner (1846-1937), Oxford classical archaeologist: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.
