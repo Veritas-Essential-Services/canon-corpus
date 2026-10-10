@@ -1,0 +1,42 @@
+{
+ "_about": "W. A. Becker (1796-1846), Gallus, or Roman Scenes of the Time of Augustus, tr. Frederick Metcalfe (new edition, London: Longmans, 1882), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). Its companion Charicles (Metcalfe's translation, 1895 printing) reads 0.71 and is refused under the bar. No uids minted.",
+ "_name_words": [
+  "becker"
+ ],
+ "_surname": [
+  "w. a. becker",
+  "wilhelm adolph becker",
+  "professor becker",
+  "becker, w. a"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "becker-gallus-metcalfe-1882": [
+   "gallusromanscene00beckiala",
+   "Gallus; or, Roman Scenes of the Time of Augustus, with notes and excursuses, tr. Frederick Metcalfe (London: Longmans, 1882)",
+   "tr. Frederick Metcalfe"
+  ]
+ },
+ "_translators": {
+  "becker-gallus-metcalfe-1882": "Metcalfe"
+ },
+ "_excluded": {
+  "Charicles, tr. Metcalfe (1895; IA chariclesorillu00metcgoog)": "refused: OCR 0.71"
+ },
+ "_checks": {
+  "becker-gallus-metcalfe-1882": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. a. becker",
+   "translator_claimed": "Metcalfe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

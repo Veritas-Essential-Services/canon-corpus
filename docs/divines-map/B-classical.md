@@ -2953,6 +2953,7 @@ Shelf: `pipeline/becker-gallus_shelf.json`. Becker's Gallus in Metcalfe's transl
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Gallus; or, Roman Scenes of the Time of Augustus, with notes and excursuses, tr. Frederick Metcalfe (London: Longmans, 1882) | Metcalfe | `becker-gallus-metcalfe-1882` | have-raw (IA `gallusromanscene00beckiala`) |
 
 Excluded: Charicles, tr. Metcalfe (1895; IA chariclesorillu00metcgoog) (refused: OCR 0.71)
 
