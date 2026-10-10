@@ -1,5 +1,5 @@
 {
- "_about": "Sir William Smith (1813-1893), lexicographer and editor of the classical dictionaries. Classical scholarship (lane B pivot, 2026-10-10): A Smaller History of Greece, A Smaller History of Rome (revised by Eugene Lawrence) and A Smaller Dictionary of Greek and Roman Antiquities, clean Gutenberg. The full Dictionaries of Greek and Roman Antiquities, Biography and Mythology, and Geography are wanted from IA scans. No uids minted.",
+ "_about": "Sir William Smith (1813-1893), lexicographer and editor of the classical dictionaries. Classical scholarship (lane B pivot, 2026-10-10): A Smaller History of Greece, A Smaller History of Rome (revised by Eugene Lawrence) and A Smaller Dictionary of Greek and Roman Antiquities, clean Gutenberg. Also the full Dictionaries as raw IA OCR: Antiquities (first edition, 1842), Biography and Mythology (Boston, 1870; vols. I-II, vol. III wanted) and Geography (Boston: vol. I 1854, vol. II 1870). These are many-author reference works under Smith's editorship; the contributors are listed in each volume. No uids minted.",
  "_name_words": [
   "smith"
  ],
@@ -23,7 +23,28 @@
    "A Smaller Dictionary of Greek and Roman Antiquities"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "william-smith-dictionary-antiquities-1842": [
+   "dictionaryofgree00smit_5",
+   "A Dictionary of Greek and Roman Antiquities, ed. William Smith (London: Taylor and Walton, 1842)"
+  ],
+  "william-smith-dictionary-biography-v1-1870": [
+   "dictionaryofgre01smituoft",
+   "Dictionary of Greek and Roman Biography and Mythology, ed. William Smith, vol. I (Boston: Little, Brown, 1870)"
+  ],
+  "william-smith-dictionary-biography-v2-1870": [
+   "dictionaryofgree02smituoft",
+   "Dictionary of Greek and Roman Biography and Mythology, ed. William Smith, vol. II (Boston: Little, Brown, 1870)"
+  ],
+  "william-smith-dictionary-geography-v1-1854": [
+   "dictionarygreek16smitgoog",
+   "Dictionary of Greek and Roman Geography, ed. William Smith, vol. I, Abacaenum-Hytanis (Boston: Little, Brown, 1854)"
+  ],
+  "william-smith-dictionary-geography-v2-1870": [
+   "dictionaryofgre02smit",
+   "Dictionary of Greek and Roman Geography, ed. William Smith, vol. II, Iabadius-Zymethus (Boston: Little, Brown, 1870)"
+  ]
+ },
  "_checks": {
   "william-smith-smaller-history-of-greece": {
    "kind": "gutenberg",
@@ -51,6 +72,64 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "william-smith-dictionary-antiquities-1842": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "william-smith-dictionary-biography-v1-1870": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "william-smith-dictionary-biography-v2-1870": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "william-smith-dictionary-geography-v1-1854": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "william-smith-dictionary-geography-v2-1870": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
+ },
+ "_excluded": {
+  "Dictionary of Greek and Roman Geography vol. II (IA dictionaryofgrromgeo02smituoft)": "no title page in the scan; the 1870 Boston vol. II is taken instead"
  }
 }

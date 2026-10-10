@@ -2518,6 +2518,11 @@ Shelf: `pipeline/william-smith_shelf.json`. Smith's smaller histories of Greece 
 | A Smaller History of Greece: from the Earliest Times to the Roman Conquest |  | `william-smith-smaller-history-of-greece` | have (PG 2096) |
 | A Smaller History of Rome, from the Earliest Times to the Establishment of the Empire (with Eugene Lawrence) |  | `william-smith-smaller-history-of-rome` | have (PG 19694) |
 | A Smaller Dictionary of Greek and Roman Antiquities |  | `william-smith-smaller-dictionary-antiquities` | have (PG 65909) |
+| A Dictionary of Greek and Roman Antiquities, ed. William Smith (London: Taylor and Walton, 1842) |  | `william-smith-dictionary-antiquities-1842` | have-raw (IA `dictionaryofgree00smit_5`) |
+| Dictionary of Greek and Roman Biography and Mythology, ed. William Smith, vol. I (Boston: Little, Brown, 1870) |  | `william-smith-dictionary-biography-v1-1870` | have-raw (IA `dictionaryofgre01smituoft`) |
+| Dictionary of Greek and Roman Biography and Mythology, ed. William Smith, vol. II (Boston: Little, Brown, 1870) |  | `william-smith-dictionary-biography-v2-1870` | have-raw (IA `dictionaryofgree02smituoft`) |
+| Dictionary of Greek and Roman Geography, ed. William Smith, vol. I, Abacaenum-Hytanis (Boston: Little, Brown, 1854) |  | `william-smith-dictionary-geography-v1-1854` | have-raw (IA `dictionarygreek16smitgoog`) |
+| Dictionary of Greek and Roman Geography, ed. William Smith, vol. II, Iabadius-Zymethus (Boston: Little, Brown, 1870) |  | `william-smith-dictionary-geography-v2-1870` | have-raw (IA `dictionaryofgre02smit`) |
 
 Excluded: Dictionary of Greek and Roman Geography vol. II (IA dictionaryofgrromgeo02smituoft) (no title page in the scan; the 1870 Boston vol. II is taken instead)
 
