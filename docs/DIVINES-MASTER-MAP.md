@@ -4088,6 +4088,27 @@ Slugs `bellett-*`. Early Dublin Brethren; the Moral Glory is signed only J. G. B
 | Short Meditations on Elisha 1945 and a 1981 reprint | excluded | |
 | J. C. Bellett and George Bellett | excluded | |
 | Spanish translation of the Moral Glory | excluded | |
+
+## John Caird (round 21, my pick, 2026-10-10)
+
+Slugs `caird-*`. Glasgow principal and preacher; the Crathie sermon only survives here in an 1856 American printing.
+
+| Work | Status | Where |
+|---|---|---|
+| Religion in Common Life, a sermon preached at Crathie Church, 14 October 1855 (Philadelphia: Henry Longstreth, 1856) | have-ocr | IA `religionincommon00cair` |
+| Sermons (Edinburgh and London: William Blackwood, MDCCCLVIII) | have-ocr | IA `sermons0000cair` |
+| An Introduction to the Philosophy of Religion, the Croall Lecture 1878-79 (Glasgow: James Maclehose; London: Macmillan, MDCCCLXXX) | have-ocr | IA `introductiontoph00cair` |
+| Mind and Matter, a sermon before the British Medical Association, 7 August 1888 (Glasgow: James Maclehose, 1888) | have-ocr | IA `b21938933` |
+| University Sermons, preached before the University of Glasgow 1873-1898 (Glasgow: James MacLehose, 1898) | have-ocr | IA `universitysermon00cair` |
+| The Fundamental Ideas of Christianity, vol. 1, Gifford Lectures, with a memoir by Edward Caird (Glasgow: MacLehose; London and New York: Macmillan, MDCCCXCIX) | have-ocr | IA `fundamentalideas0001cair` |
+| The Fundamental Ideas of Christianity, vol. 2, Gifford Lectures (Glasgow: MacLehose; London and New York: Macmillan, MDCCCXCIX) | have-ocr | IA `fundamentalideas0002cair` |
+| University Addresses (1898; universityaddres00cairiala) and The Unity of the Sciences (1874; unitysciencesal00cairgoog): academic addresses | alternate | not shelved |
+| Sermons: other 1858 copies, Carter New York issues and Blackwood reprints 1865-1885; Aspects of Life (Allenson, undated retitling) | alternate | not shelved |
+| Essays for Sunday Reading (1906), introduced by Donald Macleod: posthumous compilation | alternate | not shelved |
+| The World's Great Sermons vol. 6 (Gutenberg 44439): one sermon in a multi-author anthology | alternate | not shelved |
+| Spinoza (1888): philosophy | excluded | |
+| Oriental Religions and Cobden Club essays: multi-author | excluded | |
+| Edward Caird, Mona Caird and other John Cairds | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

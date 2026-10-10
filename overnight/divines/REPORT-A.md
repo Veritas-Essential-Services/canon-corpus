@@ -964,3 +964,6 @@
 
 ## 2026-10-10 14:42 CDT — j-g-bellett done
 - `pipeline/j-g-bellett_shelf.json`: 0 CCEL, 1 PG, 4 IA. Title pages read for bellett-moral-glory, bellett-gospel-john (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:52 CDT — john-caird done
+- `pipeline/john-caird_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for caird-religion-common-life (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
