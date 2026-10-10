@@ -2316,3 +2316,15 @@ Slugs `broadus-*`. His own 1872 text of Preparation and Delivery, not Dargan's 1
 | Commentary on the Gospel of Mark (Philadelphia: American Baptist Publication Society, 1905) | have-ocr | IA `gospelofmark0000john` |
 | the 1898 23rd edition revised by E. C. Dargan (IA treatiseonprepar1898broa): Dargan's revision, a different text | alternate | not shelved |
 | Gutenberg 36264, A. T. Robertson's 1922 Harmony based on Broadus: Robertson's book | alternate | not shelved |
+
+## Joseph Milner (round 15, my pick, 2026-10-10)
+
+Slugs `jmilner-*`. History of the Church of Christ as continued by his brother Isaac.
+
+| Work | Status | Where |
+|---|---|---|
+| The History of the Church of Christ, with additions by Isaac Milner, vol. 1 (Philadelphia: Hogan & Thompson, 1835) | have-ocr | IA `historyofchurcho01miln` |
+| The History of the Church of Christ, with additions by Isaac Milner, vol. 2 (Philadelphia: Hogan & Thompson, 1835) | have-ocr | IA `historyofchurcho02miln` |
+| Practical Sermons, with an account of the life of the author, revised by Isaac Milner, third edition (London: J. & E. Hodson, 1804) | have-ocr | IA `practicalsermons00milniala` |
+| vol. 1 of the York first edition, MDCCXCIV (IA bim_eighteenth-century_the-history-of-the-churc_milner-joseph_1794_1): long-s OCR, one volume only | alternate | not shelved |
+| London: Cadell, 1834, 4 vols (IA 10026214bsb, 10026216bsb, 10026217bsb): vol. 2 not found | alternate | not shelved |
