@@ -765,3 +765,8 @@
 - New shelves: Glover (Conflict of Religions, Gutenberg; Life and Letters in the Fourth Century, 1901; Virgil, 2nd ed., 1912), Ridgeway (Metallic Currency, Gutenberg; Early Age of Greece vol. I, 1901; Origin of Tragedy, 1910), Rice Holmes (Ancient Britain and the Invasions of Julius Caesar, Gutenberg; Caesar's Conquest of Gaul, 2nd ed., 1911)
 - Added: Bury's Ancient Greek Historians (1909); Frazer's Pausanias and Other Greek Sketches (1900)
 - Left out: Ridgeway's Early Age of Greece vol. II (published 1931, not yet US public domain); Douris and the Painters of Greek Vases (PG 61034; Pottier's book, the translator's dates unknown)
+
+## 2026-10-10 12:18 CDT — Round 2026-10-10af: 9 volumes
+- New shelves: Capes (Early Empire, 1876; University Life in Ancient Athens, 1877), Strachan-Davidson (Cicero, 1894), Edwyn Bevan (House of Seleucus vol. I, 1902; Stoics and Sceptics, 1913), Oman (Seven Roman Statesmen, from a 1929 impression)
+- Added: Mahaffy's Prolegomena to Ancient History (1871) and Greek World under Roman Sway (1890); Warde Fowler's Julius Caesar (1892)
+- Held back for illegible imprint years: Capes's Stoicism, Warde Fowler's City-State, Mahaffy's Empire of the Ptolemies. Wanted: Bevan's Seleucus vol. II
