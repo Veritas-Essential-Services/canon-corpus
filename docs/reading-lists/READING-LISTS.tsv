@@ -38,20 +38,20 @@ Confessions	Augustine	c. AD 400	BCS; CiRCE; Logos Online; NSA	held	augustine-con
 The City of God	Augustine	AD 413–426	BCS; CiRCE; Logos Online; Memoria; NSA	held	augustine-cityofgod (Dods)	PD		
 On Christian Doctrine (De doctrina christiana)	Augustine	AD 397–426	BCS; CiRCE; Logos Online; NSA	held	schaff-npnf102 (NPNF1 2, PR #11)	PD (Shaw 1887)		
 On the Deaths of the Persecutors	Lactantius	c. AD 315	NSA	partial	lactantius-…-lat (Latin only); English in ANF 7	PD (Fletcher, ANF 7)	check schaff-anf07 on PR #11	
-Address to Young Men on Greek Literature	Basil of Caesarea	4th c.	BCS	missing	source: F. M. Padelford, Essays on the Study and Use of Poetry by Plutarch and Basil (1902), IA	PD (Padelford 1902)	not in NPNF2 8	
+Address to Young Men on Greek Literature	Basil of Caesarea	4th c.	BCS	ingested	basil-padelford (IA, Padelford 1902, raw OCR)	PD (Padelford 1902)	not in NPNF2 8	6
 The Consolation of Philosophy	Boethius	c. 524	BCS; Canon; Logos Online; Memoria; NSA	held	boethius-james (PG 14328), boethius-rand-stewart	PD		
 The Rule of St. Benedict	Benedict of Nursia	c. 530	CiRCE; Logos Online	ingested	benedict-rule (IA, Fort Augustus 1906, raw OCR)	PD (Gasquet 1909)		3
 Ecclesiastical History of the English People	Bede	731	Logos; Logos Online	ingested	bede (PG 38326, Sellar 1907)	PD		3
 Two Lives of Charlemagne	Einhard; Notker	c. 830; 885	Logos Online	ingested	einhard (PG 48870, Grant 1905)	PD (Turner 1880; Grant 1922)		3
-Chronicle of the Kings of England	William of Malmesbury	c. 1125	Logos Online	missing	source: Giles/Bohn 1847, Internet Archive	PD		
+Chronicle of the Kings of England	William of Malmesbury	c. 1125	Logos Online	ingested	malmesbury (IA, Giles/Bohn 1847, raw OCR)	PD		6
 History of the Kings of Britain	Geoffrey of Monmouth	c. 1136	Logos Online	ingested	old-english-chronicles (PG 37848, Giles; includes Geoffrey)	PD (Evans 1904)		3
 The Song of Roland	anonymous	c. 1100	BCS; Logos Online	held	moncrieff-roland (scott-moncrieff shelf, Lane C)	PD		
 Beowulf	anonymous	c. 700–1000	BCS; CC; CiRCE; Logos; Logos Online; NSA	held	beowulf (Gummere) + beowulf shelf	PD (Gummere 1910); CC's modern tr. is not		
 Sir Gawain and the Green Knight	anonymous	c. 1390	CC; CiRCE; Logos Online; Memoria; NSA	held	weston-gawain-and-the-green-knight (PG 66084)	PD (Weston 1898); Tolkien is not		
 The Saga of the Volsungs	anonymous	13th c.	Logos Online	held	edda-volsunga-morris (PG 1152)	PD		
-Exeter Book elegies and riddles	anonymous	10th c.	NSA	missing	source: Gollancz, The Exeter Book (EETS 1895); Tupper's Riddles 1910	PD	Old English with facing translation	
-Old English prose: Alfred and Aelfric	Alfred; Aelfric	9th–10th c.	NSA	missing	source: Sedgefield's Boethius (1900), Thorpe's Homilies of Aelfric (1844–6), IA	PD		
-Junius 11 (Caedmonian Old Testament poems)	anonymous	c. 1000	NSA	missing	source: Kennedy, The Caedmon Poems tr. (1916), IA	PD (Kennedy 1916)		
+Exeter Book elegies and riddles	anonymous	10th c.	NSA	ingested	old-english-poetry (IA: Gollancz 1895, Tupper 1910, raw OCR)	PD	Old English with facing translation	6
+Old English prose: Alfred and Aelfric	Alfred; Aelfric	9th–10th c.	NSA	ingested	old-english-prose (IA: Sedgefield 1900, Thorpe 1844, raw OCR)	PD		6
+Junius 11 (Caedmonian Old Testament poems)	anonymous	c. 1000	NSA	ingested	old-english-poetry (IA, Kennedy 1916, raw OCR)	PD (Kennedy 1916)		6
 Summa Theologica	Thomas Aquinas	1265–1274	BCS; CiRCE; Logos Online; NSA	held	aquinas-summa, -1-2, -2-2, -3	PD (English Dominicans 1911–25)		
 The Mind's Road to God	Bonaventure	1259	NSA	missing	source: no confirmed PD English yet (Boas 1953 is not PD)	needs a PD translation	search IA for a pre-1931 English edition	
 Anselm: Proslogion, Cur Deus Homo	Anselm of Canterbury	11th c.	BCS; NSA	ingested	anselm (IA, Deane 1903, raw OCR)	PD (Deane 1903)		3
@@ -68,13 +68,13 @@ The Praise of Folly	Desiderius Erasmus	1511	BCS; Logos Online	ingested	erasmus (
 The Bondage of the Will	Martin Luther	1525	Canon; Logos Online	lane	Lane A queue: martin-luther (round 15)	PD (Cole 1823)	claimed by Relay Lane A	
 Luther: Three Treatises and other writings	Martin Luther	1520	BCS; Canon; Logos Online	lane	Lane A queue: martin-luther	PD (Wace & Buchheim 1883)	claimed by Relay Lane A	
 Institutes of the Christian Religion	John Calvin	1559	BCS; Canon; Logos Online; NSA	held	calvin-allen-institutes-1..3, calvin-institutes-beveridge	PD		
-A Learned Treatise of the Plague	Theodore Beza	1580	Canon	missing	source: EEBO-TCP (1580 English)	PD	beza shelf exists (relay); add this title there via Lane A?	
+A Learned Treatise of the Plague	Theodore Beza	1580	Canon	lane	Lane A (beza shelf); left to the lane	PD	beza shelf exists (relay); add this title there via Lane A?	
 Vindiciae contra Tyrannos	"""Junius Brutus"""	1579	Canon	missing	source: 1689 English tr. (EEBO-TCP) / Laski ed. 1924	PD		
 Letter of Consolation	Pierre Viret	16th c.	Canon	notpd	modern English translation (Canon 2010s)	PD original; no PD English known	viret shelf holds other titles	
 De Vera Theologia	Franciscus Junius	1594	NSA	notpd	no PD English (Thomas 2014 is modern)	Latin original only		
 Heidelberg Catechism	Ursinus; Olevianus	1563	Logos Online	held	ursinus-commentary (Williard)	PD		
 The Three Forms of Unity	de Brès; Ursinus; Synod of Dort	1561–1619	Canon	partial	synod-of-dort shelf; Heidelberg via ursinus; Belgic in Schaff's Creeds?	PD (Schaff 1877)	Schaff's Creeds of Christendom vol. 3 is the clean source	
-A Reformed Catholic	William Perkins	1597	Canon	missing	source: EEBO-TCP or Works vol. 1 (1612)	PD	perkins shelf exists (relay lane A) — add as item?	
+A Reformed Catholic	William Perkins	1597	Canon	lane	Lane A (perkins shelf); left to the lane	PD	perkins shelf exists (relay lane A) — add as item?	
 The Faerie Queene	Edmund Spenser	1590–1596	BCS; Canon; Logos Online	ingested	spenser (PG 70717, 72698, J. C. Smith)	PD		3
 Doctor Faustus	Christopher Marlowe	c. 1592	BCS	ingested	marlowe-doctor-faustus (PG 779)	PD		Batch 1
 Shakespeare: plays and sonnets	William Shakespeare	1590–1613	BCS; CC; Canon; CiRCE; Logos; Logos Online; Memoria; NSA	held	shakespeare (PG 100, Complete Works)	PD	every play the lists name is in PG 100	
@@ -135,7 +135,7 @@ The Picture of Dorian Gray; The Selfish Giant	Oscar Wilde	1888–1890	CC; Canon;
 Stevenson: Jekyll and Hyde, Treasure Island, The Black Arrow	Robert Louis Stevenson	1883–1888	Canon; CiRCE; Logos; Logos Online; Memoria	held	stevenson shelf; treasure_island	PD		
 Heart of Darkness	Joseph Conrad	1899	Canon; Logos Online	held	conrad-heart	PD		
 Moby-Dick	Herman Melville	1851	Canon; Logos Online; Memoria	held	melville-mobydick	PD		
-Billy Budd, Sailor	Herman Melville	1924	CC; CiRCE	missing	source: not on Gutenberg; Internet Archive (Weaver ed. 1924)	PD (US: 1924 publication)		
+Billy Budd, Sailor	Herman Melville	1924	CC; CiRCE	ingested	melville-billy-budd (IA, Constable 1924, raw OCR)	PD (US: 1924 publication)		6
 The Scarlet Letter	Nathaniel Hawthorne	1850	CC; Canon; CiRCE; Memoria	ingested	hawthorne-scarlet-letter (PG 33), shelf hawthorne-rl	PD		Batch 1
 Tanglewood Tales	Nathaniel Hawthorne	1853	CC	held	hawthorne-tanglewood-tales	PD		
 Poe: tales and poems	Edgar Allan Poe	1830s–1849	CC; Canon; CiRCE	ingested	poe-works-1..5 (Raven Edition, PG 2147-2151)	PD		Batch 1
@@ -170,7 +170,7 @@ The Scarlet Pimpernel	Baroness Orczy	1905	Logos	ingested	orczy-scarlet-pimpernel
 The Thirty-Nine Steps	John Buchan	1915	CiRCE; Logos	ingested	john-buchan-thirty-nine-steps (PG 558)	PD		Batch 2
 Idylls of the King	Alfred Tennyson	1859–1885	Logos Online	ingested	tennyson-idylls-of-the-king (PG 610)	PD		Batch 2
 G. A. Henty: historical novels	G. A. Henty	1882–1894	Canon; Logos; Logos Online	ingested	henty shelf: 8 novels	PD		Batch 2
-Makers of History: Alexander the Great	Jacob Abbott	1848	Canon	missing	source: Project Gutenberg (id to confirm)	PD		
+Makers of History: Alexander the Great	Jacob Abbott	1848	Canon	ingested	abbott-makers-of-history (PG 30624)	PD		6
 MacDonald: Princess books, Phantastes	George MacDonald	1858–1883	Canon; CiRCE; Logos; Logos Online; Memoria	held	macdonald shelf (CCEL)	PD		
 E. Nesbit: Psammead books, Railway Children, Dragons, Treasure Seekers	E. Nesbit	1899–1906	Canon; CiRCE; Logos; Memoria	held	nesbit shelf	PD		
 The Secret Garden; Little Lord Fauntleroy	Frances Hodgson Burnett	1886–1911	CC; Canon; CiRCE; Logos; Memoria	held	burnett shelf	PD		
@@ -203,16 +203,16 @@ The Sun Also Rises	Ernest Hemingway	1926	Logos Online	ingested	hemingway (PG 671
 All Quiet on the Western Front	Erich Maria Remarque	1929	Logos Online; Memoria	notpd	Wheen tr. 1929 is US PD since 2025, but no PD digital copy confirmed	check Wheen 1929 on PG		
 The American Language (excerpt)	H. L. Mencken	1919	CC	ingested	mencken (IA, 1919, raw OCR)	PD (1919 ed.)		5
 The War Message (1917)	Woodrow Wilson	1917	CC	short	government document	PD		
-Memoirs	Charles G. Finney	1876	Logos Online	missing	finney shelf (relay) lacks the Memoirs: IA memoirsofrevchar00finn	PD	relay lane A's finney shelf — coordinate	
-Life and Campaigns of Stonewall Jackson	R. L. Dabney	1866	Logos Online	missing	dabney shelf exists (relay); this title IA lifecampaignsoft00dabn	PD		
+Memoirs	Charles G. Finney	1876	Logos Online	lane	Lane A (finney shelf); left to the lane	PD	relay lane A's finney shelf — coordinate	
+Life and Campaigns of Stonewall Jackson	R. L. Dabney	1866	Logos Online	lane	Lane A (dabney shelf deferred it); left to the lane	PD		
 On Secular Education	R. L. Dabney	1876	Canon	held	dabney-discussions-4 (Secular)	PD	essay is in Discussions vol. 4	
-Thoughts for Young Men	J. C. Ryle	1865	Canon	missing	ryle shelf (relay) — IA tract	PD		
+Thoughts for Young Men	J. C. Ryle	1865	Canon	lane	Lane A (ryle shelf); left to the lane	PD		
 Holiness	J. C. Ryle	1877	Canon	held	ryle-holiness (CCEL)	PD		
-Lectures to My Students	C. H. Spurgeon	1875–1894	Canon	missing	spurgeon shelf (relay); CCEL lectures	PD	check spurgeon shelf first	
+Lectures to My Students	C. H. Spurgeon	1875–1894	Canon	lane	Lane A (spurgeon shelf deferred it); left to the lane	PD	check spurgeon shelf first	
 Calvinism: The Stone Lectures	Abraham Kuyper	1898	Canon	held	kuyper-calvinism-1899	PD		
 Unbelief and Revolution	Guillaume Groen van Prinsterer	1847	Canon	notpd	only modern English (Van Dyke 1970s–2018)	Dutch original PD		
 Messiah the Prince	William Symington	1839	Canon	lane	Lane A queue: william-symington	PD	claimed by Relay Lane A	
-The Seven Laws of Teaching	John Milton Gregory	1886	Canon	missing	source: Internet Archive (1886/1917 eds.)	PD		
+The Seven Laws of Teaching	John Milton Gregory	1886	Canon	ingested	gregory-seven-laws (IA, 1886, raw OCR)	PD		6
 Christianity and Liberalism	J. Gresham Machen	1923	Canon; Logos Online	held	machen-christianity-liberalism-1923	US PD; UK PD (d. 1937)		
 Humility	Andrew Murray	1895	CC	held	amurray-humility	PD		
 Westminster Confession of Faith	Westminster Assembly	1646	Logos Online; NSA	held	westminster-assembly shelf (relay)	PD		
@@ -230,20 +230,20 @@ William James (works)	William James	1890–1907	BCS	ingested	william-james (PG 6
 The Twelve Caesars	Suetonius	c. AD 121	BCS	held	suetonius shelf	PD		
 Mein Kampf	Adolf Hitler	1925	Logos Online	notpd	excluded: English translations (1933, 1939) are not confirmed PD	not PD in English	listed only because Logos Online assigns it	
 The Koran	Muhammad (trad.)	7th c.	Logos Online	held	rodwell-koran, sale-koran, palmer-quran	PD		
-Stories of Great Americans for Little Americans	Edward Eggleston	1895	Memoria	missing	source: Project Gutenberg (id to confirm)	PD		
-George Washington (from Stories of Great Americans)	Edward Eggleston	c. 1895	CC	missing	in Stories of Great Americans for Little Americans	PD		
-Famous Men of Greece, Rome, and the Middle Ages	John H. Haaren & A. B. Poland	1904	Memoria	missing	source: Project Gutenberg (Famous Men of Rome, of Greece, of the Middle Ages)	PD	Memoria's revised editions are not PD; the 1904 originals are	
+Stories of Great Americans for Little Americans	Edward Eggleston	1895	Memoria	ingested	eggleston (PG 10070)	PD		6
+George Washington (from Stories of Great Americans)	Edward Eggleston	c. 1895	CC	ingested	eggleston (PG 10070)	PD		6
+Famous Men of Greece, Rome, and the Middle Ages	John H. Haaren & A. B. Poland	1904	Memoria	ingested	haaren (PG 3725; IA Greece and Rome, raw OCR)	PD	Memoria's revised editions are not PD; the 1904 originals are	6
 Lays of Ancient Rome (Horatius)	Thomas Babington Macaulay	1842	Memoria	ingested	macaulay-lays (PG 847)	PD		5
-The Story of the Thirteen Colonies; The Story of the Great Republic	H. A. Guerber	1898–1899	Memoria	missing	guerber shelf (lane D) holds the myth books, not these histories	PD		
-The Book of the Ancient World / Greeks / Romans	Dorothy Mills	1923–1927	Memoria	missing	source: Internet Archive (1923, 1925, 1927 eds.)	US PD; UK in copyright until 2030		
-The Aeneid for Boys and Girls	Alfred J. Church	1908	Memoria	missing	source: Project Gutenberg	PD	church shelf (lane D) holds the Iliad and Odyssey retellings	
+The Story of the Thirteen Colonies; The Story of the Great Republic	H. A. Guerber	1898–1899	Memoria	ingested	guerber-histories (PG 48051; IA Great Republic, raw OCR)	PD		6
+The Book of the Ancient World / Greeks / Romans	Dorothy Mills	1923–1927	Memoria	ingested	dorothy-mills (IA 1923, 1925, 1927, raw OCR; UK until 2029)	US PD; UK in copyright until 2030		6
+The Aeneid for Boys and Girls	Alfred J. Church	1908	Memoria	ingested	church-aeneid (IA, Macmillan 1908, raw OCR)	PD	church shelf (lane D) holds the Iliad and Odyssey retellings	6
 The Talisman (and Scott's novels)	Walter Scott	1825	Memoria	ingested	walter-scott shelf: Ivanhoe, The Talisman	PD	no Walter Scott novel is held anywhere	Batch 2
 Silas Marner	George Eliot	1861	Memoria	ingested	george-eliot-silas-marner (PG 550)	PD	Middlemarch is held (adler)	Batch 2
 The Bridge of San Luis Rey	Thornton Wilder	1927	Memoria	ingested	thornton-wilder (PG 69768)	US PD; UK in copyright until 2046		5
 Millions of Cats	Wanda Gág	1928	Memoria	missing	picture book; Internet Archive	US PD since 2024	illustrations are the work	
 Stopping by Woods on a Snowy Evening (New Hampshire)	Robert Frost	1923	Memoria	ingested	robert-frost (PG 58611)	US PD; UK in copyright until 2034		5
-Poems Every Child Should Know	Mary E. Burt (ed.)	1904	Memoria	missing	source: Project Gutenberg	PD		
-Children's poems (Alexander, Field, Lear, Coleridge)	various	1802–1889	CiRCE; Memoria	partial	Coleridge held; Lear's Nonsense Songs, Field's Poems of Childhood are gaps	PD		
+Poems Every Child Should Know	Mary E. Burt (ed.)	1904	Memoria	ingested	burt (PG 16436)	PD		6
+Children's poems (Alexander, Field, Lear, Coleridge)	various	1802–1889	CiRCE; Memoria	ingested	lear (PG 13650) + eugene-field (PG 75578) + coleridge; Alexander's hymns not yet	PD		6
 Perrault and English fairy tales	Perrault; Leprince de Beaumont; Jacobs	1697–1890	CiRCE; Memoria	held	lang fairy books, perrault shelf, jacobs-fairy shelf	PD		
 The Reluctant Dragon	Kenneth Grahame	1898	Memoria	held	grahame-dream-days (PG 270)	PD		
 Peter Pan (Peter and Wendy)	J. M. Barrie	1911	Memoria	held	barrie-peter-and-wendy (PG 16)	US PD; UK special Peter Pan royalty (GOSH)		

@@ -1,0 +1,32 @@
+{
+ "_about": "Jacob Abbott, Makers of History: Alexander the Great (1848). Lane D holds Abbott's Rollo books; this is his history series. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Jacob Abbott",
+ "_name_words": [
+  "jacob",
+  "abbott"
+ ],
+ "_surname": [
+  "jacob abbott",
+  "abbott"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "abbott-alexander-the-great": [
+   30624,
+   "Makers of History: Alexander the Great (1848)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "abbott-alexander-the-great": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

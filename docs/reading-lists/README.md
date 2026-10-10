@@ -152,3 +152,27 @@ Beyond Good and Evil is already held on Lane C's `levy-nietzsche`. Still to find
 | `mencken` | The American Language (1919; IA) |
 
 Gibbon vols 2–6 needed a chapter rule: their headings are indented and repeat once per chapter part.
+
+### Batch 6 (2026-10-10): children's history and Old English
+
+15 shelves, 23 texts, all checks passed. Seven Gutenberg texts are converted (about 8,000 units); the other 16 are Internet Archive scans and stay raw OCR.
+
+| Shelf | Works |
+|---|---|
+| `haaren` | Famous Men of the Middle Ages (PG); Famous Men of Greece and of Rome (IA). The 1904 originals, not Memoria's revisions |
+| `eggleston` | Stories of Great Americans for Little Americans |
+| `guerber-histories` | The Story of the Thirteen Colonies (PG); The Story of the Great Republic (IA). Lane D's `guerber` holds the myth books |
+| `church-aeneid` | The Æneid for Boys and Girls (1908; IA). Lane D's `church` holds his other retellings |
+| `burt` | Poems Every Child Should Know |
+| `lear` | Nonsense Books |
+| `eugene-field` | Poems of Childhood |
+| `abbott-makers-of-history` | Alexander the Great. Lane D's `jacob-abbott` holds the Rollo books |
+| `gregory-seven-laws` | The Seven Laws of Teaching (1886; IA) |
+| `dorothy-mills` | The Book of the Ancient World (1923), Greeks (1925), Romans (1927); IA; US PD, UK until 2029 |
+| `melville-billy-budd` | Billy Budd, Sailor (Constable, 1924; IA) |
+| `malmesbury` | Chronicle of the Kings of England (Giles, 1847; IA) |
+| `old-english-poetry` | The Exeter Book, part 1 (Gollancz, 1895); The Riddles of the Exeter Book (Tupper, 1910); The Caedmon Poems (Kennedy, 1916); all IA |
+| `old-english-prose` | King Alfred's Boethius (Sedgefield, 1900); Aelfric's Catholic Homilies, part 1 (Thorpe, 1844); IA |
+| `basil-padelford` | Plutarch and Basil on poetry, with Basil's Address to Young Men (Padelford, 1902; IA) |
+
+Left to Lane A, whose author shelves they belong on: Finney's Memoirs, Dabney's Stonewall Jackson, Ryle's Thoughts for Young Men, Spurgeon's Lectures to My Students, Perkins's A Reformed Catholic, Beza on the plague.
