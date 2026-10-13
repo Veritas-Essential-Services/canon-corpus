@@ -386,6 +386,8 @@ def _body(lines, i, rule, h):
         body = out
     if rule.get("trim"):                       # a per-book stray: an attribution run onto a line, a gloss mark
         body = [re.sub(rule["trim"], "", l) for l in body]
+    for bad, good in rule.get("fix", []):      # a printer's or transcriber's typo, mended here, never in the book
+        body = [l.replace(bad, good) for l in body]
     body = _tidy(body, rule)
     if not body:
         return None, "empty body"
@@ -611,7 +613,8 @@ def pieces_for(cat_rows, texts, layer_title):
         where = (f"AmblesideOnline Year {row['year']}" + (f", Term {row['term']}" if row.get("term") else "")
                  if row["layer"] == "ao" else
                  f"Heroic addendum (proposed), beside AO Year {row['year']}, Term {row['term']}")
-        base_notes = (f"{where}.\nText: {src['work']} ({src['edition_year']}), Project Gutenberg #{src['gutenberg']}.\n"
+        ed = f" ({src['edition_year']})" if src.get("edition_year") else ""
+        base_notes = (f"{where}.\nText: {src['work']}{ed}, Project Gutenberg #{src['gutenberg']}.\n"
                       f"{row['rights']['basis']}\nWord Hoard {row['citation']} · {row['uid']}")
         category = "Song" if row.get("kind") == "song" else "Poetry"
         parts = split_parts(t["text"]) if t["lines"] > LONG else [t["text"]]

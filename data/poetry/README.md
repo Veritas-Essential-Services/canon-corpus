@@ -79,9 +79,36 @@ uuid5 of `<uid>#part<k>`, so they are as stable as a whole poem's.
 
 ## Where the texts come from
 
-gutenberg.org is not reachable from the build sandbox, so books are fetched
-from the GITenberg mirror on GitHub (`raw.githubusercontent.com/GITenberg/…`),
-which mirrors Gutenberg's files up to about 2015, and pinned by sha256. Books
-released later (Milne's two, Frost's *Collected Poems* 1930, the 1893
-*Sing-Song*, Meynell's Blake) are not on the mirror; their poems stay linked
-until they are fetched from gutenberg.org on a machine that can reach it.
+Every hosted text is cut from a Project Gutenberg book pinned by sha256 in
+`sources.json`. The first 120 books came from the GITenberg mirror on GitHub
+(`raw.githubusercontent.com/GITenberg/…`), because gutenberg.org was not
+reachable from the build sandbox when this section was built. From
+2026-10-13 books come straight from `gutenberg.org/cache/epub/<n>/pg<n>.txt`
+(Sing-Song, Frost's *Collected Poems* 1930, Meynell's Blake, and the books
+that supplied a printing for poems no source had been pinned for).
+
+### Finding a printing for a linked poem (2026-10-13)
+
+A poem with no `pd_source` was matched by title, first against the poet's own
+books on Project Gutenberg and then against the anthologies already in the
+pool, and cut with this script's own `extract()`. A cut was kept only if:
+
+- it carries no editorial prose, transcriber's note or bracketed headnote,
+  and a trailing signature or source line is cut off by an `end` rule the
+  build replays;
+- for an anthology, the poet's name stands beside the poem;
+- for an AmblesideOnline Year 1 poem, its first line matches AO's own
+  transcription;
+- no other printing gives a longer text of the same poem, unless AO's
+  transcription confirms the shorter one.
+
+Each such row says in `notes` how it was checked ("N printings agree on
+it", "its length matches AO's transcription", or "found in one printing
+only; not cross-checked"). Poems whose AO title is a generic one (*Song*,
+*Epitaph*), excerpts ("from …"), and anonymous verse were left linked.
+
+Two extract rules matter here: the existing `parts` (a poem whose stanzas are
+numbered I., II., … across double blank lines, as in Lear) and `fix`, a
+list of `[typo, mending]` pairs (new) for a printer's or transcriber's slip
+(*Sing-Song*'s "Jives" for "lives"), applied to the cut text, never to the
+book.
