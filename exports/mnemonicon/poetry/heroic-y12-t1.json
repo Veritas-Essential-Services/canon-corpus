@@ -1,0 +1,27 @@
+[
+  {
+    "id": "2160acff-57e3-5de1-ad3b-26399224f0fa",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "The Soldier",
+    "source": "Rupert Brooke, New Numbers (periodical) (1914)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "If I should die, think only this of me:\n That there's some corner of a foreign field\nThat is for ever England.  There shall be\n In that rich earth a richer dust concealed;\nA dust whom England bore, shaped, made aware,\n Gave, once, her flowers to love, her ways to roam,\nA body of England's, breathing English air,\n Washed by the rivers, blest by suns of home.\n\nAnd think, this heart, all evil shed away,\n A pulse in the eternal mind, no less\n  Gives somewhere back the thoughts by England given;\nHer sights and sounds; dreams happy as her day;\n And laughter, learnt of friends; and gentleness,\n  In hearts at peace, under an English heaven.",
+    "notes": "Heroic addendum (proposed), beside AO Year 12, Term 1.\nText: The Collected Poems of Rupert Brooke (1915), Project Gutenberg #262.\nUS public domain: the text hosted here is from The Collected Poems of Rupert Brooke (1915), published before 1931, so its 95-year US term has run out. Project Gutenberg #262. First published 1914 in New Numbers (periodical).\nWord Hoard poetry:rupert-brooke.the-soldier · wh-3EEZQ4ZB52",
+    "tags": [
+      "poetry",
+      "addendum-heroic",
+      "heroic",
+      "year-12",
+      "rupert-brooke"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  }
+]

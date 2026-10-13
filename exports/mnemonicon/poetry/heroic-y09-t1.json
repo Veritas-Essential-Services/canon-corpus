@@ -1,0 +1,27 @@
+[
+  {
+    "id": "83fb5259-bf6f-58dc-8521-eb43c8e59397",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "Scots Wha Hae",
+    "source": "Robert Burns, The Morning Chronicle (periodical) (1794)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "Scots, wha hae wi' Wallace bled,\nScots, wham Bruce has aften led;\nWelcome to your gory bed,\n    Or to victorie!\n\nNow's the day, and now's the hour;\nSee the front o' battle lour:\nSee approach proud Edward's pow'r--\n    Chains and slaverie!\n\nWha will be a traitor-knave?\nWha can fill a coward's grave?\nWha sae base as be a slave!\n    Let him turn and flee!\n\nWha for Scotland's king and law\nFreedom's sword will strongly draw,\nFreeman stand, or freeman fa',\n    Let him follow me!\n\nBy oppression's woes and pains!\nBy our sons in servile chains!\nWe will drain our dearest veins,\n    But they shall be free!\n\nLay the proud usurpers low!\nTyrants fall in every foe!\nLiberty's in every blow!--\n    Let us do or die!",
+    "notes": "Heroic addendum (proposed), beside AO Year 9, Term 1.\nText: The Complete Works of Robert Burns (ed. Allan Cunningham) (1855), Project Gutenberg #18500.\nUS public domain: the text hosted here is from The Complete Works of Robert Burns (ed. Allan Cunningham) (1855), published before 1931, so its 95-year US term has run out. Project Gutenberg #18500. First published 1794 in The Morning Chronicle (periodical).\nWord Hoard poetry:robert-burns.scots-wha-hae · wh-V0RFZ2P67Y",
+    "tags": [
+      "poetry",
+      "addendum-heroic",
+      "heroic",
+      "year-9",
+      "robert-burns"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  }
+]
