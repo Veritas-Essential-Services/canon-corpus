@@ -3,13 +3,15 @@
 # prov: 2026-09-26 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
 # fable_review: pending
 """
-nt_corpus_test.py -- the validator for data/nt/*.jsonl (launch plan D2-D5,
-the Greek half). Pilot: John 1:1-18 from the Robinson-Pierpont text.
+nt_corpus_test.py -- the validator for data/nt/ (launch plan D2-D5, the
+Greek half): the whole NT from the Robinson-Pierpont text, one folder per
+book since 2026-10-02, and within it the John 1:1-18 pilot, whose counts and
+house drafts are checked as they were.
 
 Run:  python3 tests/nt_corpus_test.py
 
 TWO HALVES, as in hymn_corpus_test.py
-    OFFLINE (always runs): the four committed JSONL files and their manifest
+    OFFLINE (always runs): the committed JSONL shards and their manifest
     against pipeline/README-nt-jsonl.md -- every record keyed by an EXISTING
     verse uid, every token carrying its eight fields, the licence gate held
     (PD or own only, with the evidence recorded), nothing from MorphGNT,
@@ -75,52 +77,113 @@ def check(label, cond, detail=""):
     print(("ok   " if cond else "FAIL ") + label + (("  " + str(detail)) if detail else ""))
 
 
-def jsonl(name):
-    with open(os.path.join(DATA, name + ".jsonl"), encoding="utf-8") as f:
-        return [json.loads(line) for line in f]
+# Measured 2026-10-02 from RP2018 (byztxt v3.3.2), the whole NT. Not estimated.
+EXPECTED_NT = {"verses": 7953, "tokens": 140149, "witnesses": 7971, "alignments": 7953,
+               "books": 27, "distinct_lemmas": 5380, "finite_verbs": 19571, "flagged": 28,
+               # the paradigm rule and the def-head repairs (2026-10-02) took this
+               # from 124,516 (88.8%) to 131,631 (93.9%)
+               "glossed": 131631,
+               "gloss_by_rule": {"kjv-form": 27855, "paradigm": 7103, "kjv-sole": 20489,
+                                 "kjv-in-def": 52792, "def-head": 23255},
+               "pronoun_nulls": 5,       # crasis only (kamoi "and me" is not "me")
+               # the Byzantine text lacks these Textus Receptus verses; they keep their uids
+               "kjv_without_grc": ["kjv:Acts.15.34", "kjv:Acts.24.7", "kjv:Acts.8.37", "kjv:Luke.17.36"],
+               "largest_file_mb": 50}     # GitHub warns above 50 MB a file
 
-
-# Measured 2026-09-26 from RP2018 (byztxt v3.3.2). Not estimated.
+# The pilot, John 1:1-18, measured 2026-09-26. Unchanged by the full run.
 EXPECTED = {"verses": 18, "tokens": 253, "witnesses": 36, "alignments": 18,
             "distinct_lemmas": 83, "finite_verbs": 41, "flagged": 1,
             # Strong's dictionary glosses (strongs_gloss.py), measured 2026-09-26,
             # before any override: what the rule gives, kept under `was` where overridden
-            "dict_glossed": 231,
-            "dict_by_rule": {"kjv-form": 49, "kjv-sole": 24, "kjv-in-def": 116, "def-head": 42},
+            # 231 until 2026-10-02; the paradigm rule glosses the 15 pronouns
+            # Strong's left null (13 autos, 2 plural ego)
+            "dict_glossed": 246,
+            "dict_by_rule": {"kjv-form": 49, "paradigm": 15, "kjv-sole": 24, "kjv-in-def": 116,
+                             "def-head": 42},
             # the house draft over it (gloss-overrides.jsonl, 2026-09-26)
             "overrides": 137, "glossed": 253,
-            "gloss_by_rule": {"kjv-form": 41, "kjv-sole": 19, "kjv-in-def": 56, "def-head": 0},
+            "gloss_by_rule": {"kjv-form": 41, "paradigm": 0, "kjv-sole": 19, "kjv-in-def": 56,
+                              "def-head": 0},
             "plain": 18}
 TOKEN_FIELDS = ("surface", "normalized", "search_key", "translit",
                 "lemma", "parsing", "gloss", "plain_form")
 
 # ================================================================ OFFLINE
 print("--- files")
-for fn in [f + ".jsonl" for f in B.FILES] + ["manifest.json"]:
-    check(f"{fn} exists", os.path.exists(os.path.join(DATA, fn)))
+check("manifest.json exists", os.path.exists(os.path.join(DATA, "manifest.json")))
 manifest = json.load(open(os.path.join(DATA, "manifest.json"), encoding="utf-8"))
-passages, witnesses, tokens, alignments = (jsonl(f) for f in B.FILES)
-for fn, want in manifest["files_sha256"].items():
-    got = hashlib.sha256(open(os.path.join(DATA, fn), "rb").read()).hexdigest()
-    check(f"{fn} matches its manifest checksum", got == want)
+missing = [fn for fn in manifest["files_sha256"] if not os.path.exists(os.path.join(DATA, fn))]
+if missing:
+    raise SystemExit(f"data/nt/ is not built here: {len(missing)} shard files are absent "
+                     f"(they are rebuilt, not committed). Run: python3 pipeline/rebuild_bible.py")
+sh = manifest["shards"]
+check(f"the shards are the {EXPECTED_NT['books']} books in canonical order, one folder each",
+      sh["layout"] == "book" and sh["order"] == [o for _, _, o in B.BOOKS] == manifest["selection"]["books"]
+      and all(sh["books"][b]["dir"] == b for b in sh["order"]))
+check("the manifest lists exactly the four files of every shard",
+      sorted(manifest["files_sha256"]) == sorted(f"{b}/{k}.jsonl" for b in sh["order"] for k in B.FILES))
+bad_sum = [fn for fn, want in manifest["files_sha256"].items()
+           if not os.path.exists(os.path.join(DATA, fn))
+           or hashlib.sha256(open(os.path.join(DATA, fn), "rb").read()).hexdigest() != want]
+check("every file matches its manifest checksum", not bad_sum, bad_sum[:3])
+check("no output file the manifest does not list (the pilot's flat files are gone)",
+      not B.stale_outputs(DATA, set(manifest["files_sha256"]) | {"manifest.json"}),
+      B.stale_outputs(DATA, set(manifest["files_sha256"]) | {"manifest.json"})[:3])
+big = max(os.path.getsize(os.path.join(DATA, fn)) for fn in manifest["files_sha256"]) / 1e6
+check(f"no file is over GitHub's {EXPECTED_NT['largest_file_mb']} MB warning (largest {big:.1f} MB)",
+      big < EXPECTED_NT["largest_file_mb"])
 check("manifest names the schema and the doc",
       manifest.get("schema") == B.SCHEMA and os.path.exists(os.path.join(REPO, manifest["doc"])))
 check("row unit is the verse", manifest.get("row_unit") == "verse")
+check("both pending rulings are written into the manifest as house defaults, with the way to change them",
+      all(r["status"].startswith("house default") and r.get("doc")
+          for r in (sh["ruling"], manifest["versification"]["ruling"]))
+      and sh["ruling"]["alternatives"] and manifest["versification"]["ruling"]["alternative"])
 
-print("\n--- shape")
-check("verse count", len(passages) == EXPECTED["verses"], len(passages))
-check("token count", len(tokens) == EXPECTED["tokens"], len(tokens))
-check("witness count", len(witnesses) == EXPECTED["witnesses"], len(witnesses))
-check("alignment count", len(alignments) == EXPECTED["alignments"], len(alignments))
-check("manifest counts agree with the files",
+nt = B.load_nt(REPO)
+passages, witnesses, tokens, alignments = (nt[k] for k in B.FILES)
+pilot = B.load_nt(REPO, pericope=B.PILOT["pericope"])
+p_passages, p_witnesses, p_tokens, p_alignments = (pilot[k] for k in B.FILES)
+p_uids = {p["uid"] for p in p_passages}
+
+print("\n--- shape: the whole NT")
+check("verse count", len(passages) == EXPECTED_NT["verses"], len(passages))
+check("token count", len(tokens) == EXPECTED_NT["tokens"], len(tokens))
+check("witness count", len(witnesses) == EXPECTED_NT["witnesses"], len(witnesses))
+check("alignment count", len(alignments) == EXPECTED_NT["alignments"], len(alignments))
+check("manifest counts agree with the files and the measured values",
       manifest["counts"]["tokens"] == len(tokens) and manifest["counts"]["passages"] == len(passages)
-      and manifest["counts"]["distinct_lemmas"] == EXPECTED["distinct_lemmas"]
-      and manifest["counts"]["finite_verbs"] == EXPECTED["finite_verbs"], manifest["counts"])
+      and manifest["counts"]["distinct_lemmas"] == EXPECTED_NT["distinct_lemmas"]
+      and manifest["counts"]["finite_verbs"] == EXPECTED_NT["finite_verbs"], manifest["counts"])
+check("each shard's counts are its files', and they sum to the whole",
+      all(sh["books"][b]["verses"] == sum(1 for p in passages if p["book"] == b) for b in sh["order"])
+      and sum(v["tokens"] for v in sh["books"].values()) == len(tokens))
 check("every passage is a verse", all(p["unit"] == "verse" and p["kind"] == "passage" for p in passages))
-sel = manifest["selection"]
-check("the verses are the selection, in order, with no gap",
-      [p["verse"] for p in passages] == list(range(sel["first"], sel["last"] + 1))
-      and all(p["chapter"] == sel["chapter"] for p in passages))
+book_of = {p["uid"]: p["book"] for p in passages}
+misplaced = []
+for b in sh["order"]:
+    for k in B.FILES:
+        with open(os.path.join(DATA, b, k + ".jsonl"), encoding="utf-8") as f:
+            misplaced += [f"{b}/{k}" for line in f
+                          if book_of.get(B._record_uid(k, json.loads(line))) != b][:1]
+check("every record sits in its own book's shard, and the loader returns the books in canon order",
+      not misplaced and [p["book"] for p in passages]
+      == sorted((p["book"] for p in passages), key=sh["order"].index), misplaced[:3])
+
+print("\n--- shape: the pilot (John 1:1-18), as it was")
+check("verse count", len(p_passages) == EXPECTED["verses"], len(p_passages))
+check("token count", len(p_tokens) == EXPECTED["tokens"], len(p_tokens))
+check("witness count", len(p_witnesses) == EXPECTED["witnesses"], len(p_witnesses))
+check("alignment count", len(p_alignments) == EXPECTED["alignments"], len(p_alignments))
+check("the pilot view's counts are the measured ones",
+      pilot["manifest"]["counts"]["distinct_lemmas"] == EXPECTED["distinct_lemmas"]
+      and pilot["manifest"]["counts"]["finite_verbs"] == EXPECTED["finite_verbs"]
+      and pilot["manifest"]["selection"]["title"] == B.PILOT["title"], pilot["manifest"]["counts"])
+sel = B.PILOT
+check("the pilot verses are John 1:1-18, in order, with no gap, and only they carry the pericope label",
+      [p["verse"] for p in p_passages] == list(range(sel["first"], sel["last"] + 1))
+      and all(p["chapter"] == sel["chapter"] and p["book"] == "John" for p in p_passages)
+      and {p["uid"] for p in passages if p["pericope"] is not None} == p_uids)
 
 print("\n--- identity: the verse's existing uid, nothing minted")
 committed = json.load(open(REGISTRY, encoding="utf-8"))["uids"]
@@ -154,6 +217,38 @@ try:
     check("a Greek verse with no KJV uid is refused, not minted (Rom 14:24)", refused)
 finally:
     shutil.rmtree(tmp, ignore_errors=True)
+
+import subprocess  # noqa: E402
+_saved = open(os.path.join(PIPE, "build_nt_corpus.py"), encoding="utf-8").read()
+_narrow = os.path.join(tempfile.mkdtemp(), "pipeline")
+shutil.copytree(PIPE, _narrow, ignore=shutil.ignore_patterns("__pycache__"))
+with open(os.path.join(_narrow, "build_nt_corpus.py"), "w", encoding="utf-8") as f:
+    f.write(_saved.replace("SCOPE = [stem for stem, _, _ in BOOKS]", 'SCOPE = ["JOH"]', 1))
+_r = subprocess.run([sys.executable, os.path.join(_narrow, "build_nt_corpus.py"), "--check",
+                     "--out", os.path.join(os.path.dirname(_narrow), "out")],
+                    capture_output=True, text=True)
+check("a narrowed SCOPE refuses to write or --check (it would drop the other books)",
+      _r.returncode != 0 and "SCOPE is narrowed" in (_r.stdout + _r.stderr), _r.stderr[-200:])
+shutil.rmtree(os.path.dirname(_narrow), ignore_errors=True)
+
+print("\n--- versification: the Romans doxology (house default), the TR-only verses")
+vm = manifest["versification"]
+dox = [w for w in witnesses if w.get("rp_ref")]
+cit_of = {p["uid"]: p["citation"] for p in passages}
+check("the map is the build's, and the doxology is the only verse placed elsewhere",
+      vm["map"] == B.VERSIFICATION_MAP and len(dox) == 3 == len(vm["placed_elsewhere"]))
+check("RP Rom 14:24-26 are witnesses of KJV Rom 16:25-27's existing uids, each recording RP's reference",
+      [(w["rp_ref"], cit_of[w["passage_uid"]]) for w in dox]
+      == [("Rom.14.24", "kjv:Rom.16.25"), ("Rom.14.25", "kjv:Rom.16.26"), ("Rom.14.26", "kjv:Rom.16.27")]
+      and all(committed[cit_of[w["passage_uid"]]] == w["passage_uid"] for w in dox))
+check("... in RP's reading order: straight after Rom 14:23",
+      [p["citation"] for p in passages if p["book"] == "Rom"][
+          [p["citation"] for p in passages if p["book"] == "Rom"].index("kjv:Rom.14.23") + 1] == "kjv:Rom.16.25")
+check("no citation names RP's own placement (kjv:Rom.14.24 is not a KJV verse)",
+      not any(p["citation"].startswith("kjv:Rom.14.2") and p["verse"] > 23 for p in passages))
+check("the KJV verses with no Greek witness are the four Textus Receptus verses, listed, not guessed",
+      vm["kjv_verses_without_grc"] == EXPECTED_NT["kjv_without_grc"] and not vm["left_out"]
+      and not set(vm["kjv_verses_without_grc"]) & set(cit_of.values()))
 
 print("\n--- witnesses")
 wmap = {}
@@ -248,8 +343,10 @@ check("every token records where its lemma, parsing and gloss came from",
           and t["provenance"]["lemma"]["source"] == "strongs-1890"
           and t["provenance"]["parsing"]["source"] == "rp2018-byztxt" for t in tokens))
 flagged = [t for t in tokens if t["review"]]
-check("exactly the tokens Robinson parses two ways are flagged (John 1:9)",
-      len(flagged) == EXPECTED["flagged"]
+check(f"exactly the tokens Robinson parses two ways are flagged ({EXPECTED_NT['flagged']} in the NT, "
+      f"{EXPECTED['flagged']} in the pilot, at John 1:9)",
+      len(flagged) == EXPECTED_NT["flagged"] == manifest["counts"]["tokens_flagged_for_review"]
+      and sum(1 for t in flagged if t["passage_uid"] in p_uids) == EXPECTED["flagged"]
       and all(t["provenance"]["parsing"]["status"] == "alternatives" for t in flagged), len(flagged))
 bad_t = []
 for t in tokens:
@@ -291,12 +388,21 @@ def dict_layer(t):
 
 print(f"      coverage {len(with_g)}/{len(tokens)} ({100 * len(with_g) / len(tokens):.1f}%): "
       f"dictionary by rule {gm['by_rule']}, override {gm['by_override']}, none {len(without)}")
-check(f"gloss coverage is the measured {EXPECTED['glossed']} of {EXPECTED['tokens']}",
-      len(with_g) == EXPECTED["glossed"] and manifest["counts"]["tokens_with_gloss"] == len(with_g)
+check(f"NT gloss coverage is the measured {EXPECTED_NT['glossed']:,} of {EXPECTED_NT['tokens']:,}",
+      len(with_g) == EXPECTED_NT["glossed"] and manifest["counts"]["tokens_with_gloss"] == len(with_g)
       and manifest["counts"]["tokens_without_gloss"] == len(without), (len(with_g), len(without)))
-check("... the dictionary glosses still showing split by rule as measured",
-      gm["by_rule"] == EXPECTED["gloss_by_rule"], gm["by_rule"])
-under = [dict_layer(t) for t in tokens]
+check("... split by rule as measured", gm["by_rule"] == EXPECTED_NT["gloss_by_rule"], gm["by_rule"])
+pron_null = [t for t in without if t["parsing"].startswith("P-")]
+check(f"every personal pronoun is glossed but the {EXPECTED_NT['pronoun_nulls']} in crasis",
+      len(pron_null) == EXPECTED_NT["pronoun_nulls"] and all("-K" in t["parsing"] for t in pron_null),
+      [(t["surface"], t["parsing"]) for t in pron_null][:5])
+pgm = pilot["manifest"]["gloss"]
+p_with = [t for t in p_tokens if t["gloss"] is not None]
+check(f"pilot gloss coverage is the measured {EXPECTED['glossed']} of {EXPECTED['tokens']}",
+      len(p_with) == EXPECTED["glossed"] == pilot["manifest"]["counts"]["tokens_with_gloss"], len(p_with))
+check("... the pilot's dictionary glosses still showing split by rule as measured",
+      pgm["by_rule"] == EXPECTED["gloss_by_rule"], pgm["by_rule"])
+under = [dict_layer(t) for t in p_tokens]
 check(f"the dictionary layer beneath the overrides is intact: {EXPECTED['dict_glossed']} glossed, "
       f"split {EXPECTED['dict_by_rule']}",
       sum(1 for v, _ in under if v) == EXPECTED["dict_glossed"]
@@ -379,13 +485,17 @@ check("the manifest counts the draft rows and points at the review doc",
                                            else "none open: every row reviewed"))
 check("word glosses, not paraphrase: no gloss or plain_form over four words",
       all(len(re.split(r"[ -]", s)) <= 4 for r in ov_rows for s in (r.get("gloss"), r.get("plain_form")) if s))
-check("every null the dictionary left is now glossed (the 22)",
-      not without and sum(1 for t in overridden if t["provenance"]["gloss"]["was"]["value"] is None) == 22)
+check("every null the dictionary left in the pilot is now glossed (22, of which the paradigm rule "
+      "now takes 15; the house drafts keep the other 7)",
+      all(t["gloss"] for t in p_tokens)
+      and sum(1 for t in overridden if t["provenance"]["gloss"]["was"]["value"] is None) == 22 - 15)
+check("... and every override row is in the pilot (the drafts cover John 1:1-18 only)",
+      all(t["passage_uid"] in p_uids for t in overridden))
 
 print("\n--- the house drafts: prose_order (en.plain, house-draft)")
 po_rows = B.load_prose_orders()
-check("one prose_order row per verse, and each became that verse's en.plain",
-      set(po_rows) == set(by_uid) == {w["passage_uid"] for w in plains}
+check("one prose_order row per pilot verse, and each became that verse's en.plain",
+      set(po_rows) == p_uids == {w["passage_uid"] for w in plains}
       and all(po_rows[w["passage_uid"]]["prose_order"] == w["prose_order"]
               and po_rows[w["passage_uid"]]["absorbed"] == w["absorbed"] for w in plains))
 perm_bad = [by_uid[w["passage_uid"]]["citation"] for w in plains
@@ -446,10 +556,30 @@ check("a two-letter rendering counts only at the head of a clause ('in front of'
       G.gloss_for("PREP", E(7, "in front of", ":--before, of."))[0] is None
       and G.gloss_for("PREP", E(8, '"in," at', ":--at, in."))[0] == "in")
 pr = E(9, "the reflexive pronoun self", ":--her, it(-self), them, they.")
-check("pronouns agree in person, number, gender and case, or stay null",
+check("pronouns agree in person, number, gender and case: Strong's form first",
       G.gloss_for("P-ASF", pr)[0] == "her" and G.gloss_for("P-ASN", pr)[0] == "it"
       and G.gloss_for("P-DPM", pr)[0] == "them" and G.gloss_for("P-NPM", pr)[0] == "they"
-      and G.gloss_for("P-GSM", pr)[0] is None)
+      and G.gloss_for("P-DPM", pr)[1]["rule"] == "kjv-form")
+check("... then the paradigm, for a personal pronoun Strong's lists no form for (P-GSM -> his)",
+      G.gloss_for("P-GSM", pr) == ("his", {"source": G.SOURCE, "by": "lemma_key", "rule": "paradigm",
+                                           "kind": "dictionary"})
+      and G.gloss_for("P-2GP", E(12, "the personal pronoun of the second person singular", ":--thou."))[0]
+      == "your")
+check("... but never in crasis, nor for an entry Strong's does not call a pronoun",
+      G.gloss_for("P-1DS-K", E(13, "so also the dative case", ":--I."))[0] is None
+      and G.gloss_for("P-1DS", E(14, "a primary word", ":--I."))[0] is None)
+check("a demonstrative with no agreeing form goes on to the sense rules (an article never does)",
+      G.gloss_for("D-ASM", E(15, "truly this", ":--whiles."))[0] == "whiles"
+      and G.gloss_for("T-NSM", E(16, "the", ":--whiles."))[0] is None)
+check("def-head: a multi-word '(or ...)' alternative ends the head; a dangling 'in a good' is dropped",
+      G.gloss_for("V-PAI-3S", E(17, "to lower (or with violence) demolish", ":--+ cast down."))[0] == "lower"
+      and G.gloss_for("V-PAI-3S", E(18, "to render (or esteem) glorious", ":--+ honour."))[0]
+      == "render glorious"
+      and G.gloss_for("N-NSN", E(19, "a boast (properly, the object) in a good or a bad sense", ":--+ glory."))[0]
+      == "boast")
+check("the two entries whose ':--' Petersen's XML lost are repaired (G3372 length, G259)",
+      G.gloss_for("N-NSN", G.load_entries(open(B._path("strongs", B.STRONGS_XML), encoding="utf-8").read())[3372])
+      [0] == "length" if os.path.exists(B._path("strongs", B.STRONGS_XML)) else True)
 check("first-person forms read the person digit (P-1GS -> me, P-1DP -> none)",
       G.gloss_for("P-1GS", E(10, "", ":--I, me."))[0] == "me"
       and G.gloss_for("P-1NS", E(10, "", ":--I, me."))[0] == "I"
@@ -597,6 +727,39 @@ else:
         check("rebuild minted 0", reg.minted == 0, reg.stats())
         diff = [fn for fn, blob in blobs.items() if open(os.path.join(DATA, fn), "rb").read() != blob]
         check("rebuild is byte-identical to the committed files", not diff, diff)
+
+        # The two rulings are one edit each. Prove it: rule the doxology the other
+        # way, and write the pilot flat, on Romans and John alone.
+        saved_scope, saved_map, saved_shard = B.SCOPE, B.VERSIFICATION_MAP, B.SHARD
+        try:
+            B.SCOPE = ["ROM"]
+            B.VERSIFICATION_MAP = {k: None for k in saved_map}
+            reg2 = U.WhUidRegistry(copy, frozen=True)
+            d3, m3 = B.build(reg2)
+            v3 = m3["versification"]
+            check("ruling the doxology out instead: the three RP verses are left out and counted, "
+                  "KJV Rom 16:25-27 have no Greek witness, and nothing is minted",
+                  v3["left_out"] == ["Rom.14.24", "Rom.14.25", "Rom.14.26"] and not v3["placed_elsewhere"]
+                  and v3["kjv_verses_without_grc"] == ["kjv:Rom.16.25", "kjv:Rom.16.26", "kjv:Rom.16.27"]
+                  and len(d3["passages"]) == sh["books"]["Rom"]["verses"] - 3 and reg2.minted == 0, v3)
+            B.SCOPE, B.VERSIFICATION_MAP, B.SHARD = ["JOH"], saved_map, None
+            d4, m4 = B.build(U.WhUidRegistry(copy, frozen=True))
+            b4 = B.render_all(d4, m4)
+            check("sharding off instead: the four flat files, John's records byte for byte",
+                  sorted(b4) == sorted([f"{k}.jsonl" for k in B.FILES] + ["manifest.json"])
+                  and all(b4[f"{k}.jsonl"] == open(os.path.join(DATA, "John", f"{k}.jsonl"), "rb").read()
+                          for k in B.FILES))
+            flat_root = os.path.join(tmp, "flat")
+            os.makedirs(os.path.join(flat_root, "data", "nt"))
+            for fn, blob in b4.items():
+                with open(os.path.join(flat_root, "data", "nt", fn), "wb") as f:
+                    f.write(blob)
+            fl = B.load_nt(flat_root)
+            check("... and load_nt() reads a flat layout once, not once per book",
+                  len(fl["passages"]) == sh["books"]["John"]["verses"]
+                  and len(fl["tokens"]) == sh["books"]["John"]["tokens"])
+        finally:
+            B.SCOPE, B.VERSIFICATION_MAP, B.SHARD = saved_scope, saved_map, saved_shard
     finally:
         shutil.rmtree(tmp, ignore_errors=True)
 
@@ -607,8 +770,14 @@ else:
     x = open(B._path("strongs", B.STRONGS_XML), encoding="utf-8").read()
     entries = G.load_entries(x)
     check("Strong's XML reads as 5,624 entries", len(entries) == 5624, len(entries))
-    regloss = [t["address"] for t in tokens
-               if G.gloss_for(t["parsing"], entries.get(int(t["lemma_key"][1:]))) != dict_layer(t)]
+    memo = {}
+
+    def gloss_of(t):
+        k = (t["parsing"], t["lemma_key"])
+        if k not in memo:
+            memo[k] = G.gloss_for(t["parsing"], entries.get(int(t["lemma_key"][1:])))
+        return memo[k]
+    regloss = [t["address"] for t in tokens if gloss_of(t) != dict_layer(t)]
     check("every token's dictionary gloss and provenance re-derive from Strong's by the rule "
           "(under `was` where an override replaced it)", not regloss, regloss[:3])
     invented = []
@@ -618,8 +787,11 @@ else:
         if g is None:
             continue
         rule = p["rule"]
-        if rule == "def-head":
-            ok = g.lower() in en.definition.lower().replace('"', "")
+        if rule == "paradigm":     # the house paradigm's form, and it agrees
+            ok = (g == G.paradigm_form(t["parsing"], en)
+                  and G.form_fits(g, G.features(t["parsing"])))
+        elif rule == "def-head":     # Strong's words, his parentheses taken out (README s.12)
+            ok = set(g.lower().split()) <= set(re.findall(r"[\w'-]+", en.definition.lower().replace('"', "")))
         else:
             ok = any(g == b or g in v for b, v in G.usable(en))
         if not ok:
@@ -629,12 +801,15 @@ else:
 
     # A real override row, through the real build, into a temp registry copy,
     # with no prose orders (they walk tokens only the full override file glosses).
+    # John alone (B.SCOPE): these builds test the override and order rules, not the NT.
     tmp = tempfile.mkdtemp()
-    saved, saved_po = G.OVERRIDES, B.PROSE_ORDERS
+    saved, saved_po, saved_scope = G.OVERRIDES, B.PROSE_ORDERS, B.SCOPE
+    john = [t for t in tokens if book_of[t["passage_uid"]] == "John"]
     try:
+        B.SCOPE = ["JOH"]
         copy = os.path.join(tmp, "r.json")
         shutil.copy2(REGISTRY, copy)
-        t5 = next(t for t in tokens if t["lemma_key"] == "G3056")
+        t5 = next(t for t in john if t["lemma_key"] == "G3056")
         B.PROSE_ORDERS = os.path.join(tmp, "absent.jsonl")
         G.OVERRIDES = os.path.join(tmp, "o.jsonl")
         with open(G.OVERRIDES, "w", encoding="utf-8") as f:
@@ -651,7 +826,7 @@ else:
         check("an override row reaches its token through the build, the dictionary gloss kept",
               t5b["gloss"] == "Word" and t5b["provenance"]["gloss"]["source"] == "house"
               and t5b["provenance"]["gloss"]["was"]["value"] == dict_layer(t5)[0]
-              and others == [bare(t) for t in tokens if t["address"] != t5["address"]])
+              and others == [bare(t) for t in john if t["address"] != t5["address"]])
         check("... and the manifest declares the layer (licence own) and the file's checksum",
               m2["sources"].get("house", {}).get("license") == "own"
               and "gloss-overrides.jsonl" in m2["inputs_sha256"]
@@ -691,7 +866,7 @@ else:
             stopped = True
         check("... and a row for a token that does not exist stops the build", stopped)
     finally:
-        G.OVERRIDES, B.PROSE_ORDERS = saved, saved_po
+        G.OVERRIDES, B.PROSE_ORDERS, B.SCOPE = saved, saved_po, saved_scope
         shutil.rmtree(tmp, ignore_errors=True)
     pairs = re.findall(r'<entry strongs="\d+">\s*<strongs>\d+</strongs>\s*<greek BETA="[^"]*" '
                        r'unicode="([^"]*)" translit="([^"]*)"', x)
