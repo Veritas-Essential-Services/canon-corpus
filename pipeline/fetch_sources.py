@@ -51,7 +51,7 @@ GUTENBERG_EXTRA = {
     "paradise_lost": 20,          # Milton
     "divine_comedy": 8800,        # Dante, tr. Cary
     "paradise_regained": 58,      # Milton
-    "beowulf": 16328,             # tr. Gummere
+    "beowulf": 16328,             # tr. J. Lesslie Hall (1892). Not Gummere: his is PG 981
     "gilgamesh": 11000,           # Old Babylonian, tr. Jastrow & Clay
     "faust": 14591,               # Goethe, tr. Bayard Taylor (original metres)
     "treasure_island": 120,       # Stevenson
