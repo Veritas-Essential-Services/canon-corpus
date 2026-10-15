@@ -121,7 +121,13 @@ def by(path, key):
 
 
 def snapshot(d):
-    return {f: raw(os.path.join(d, f)) for f in sorted(os.listdir(d))}
+    """{path relative to d: bytes}, every file under d (data/nt/ is sharded by book)."""
+    out = {}
+    for base, _, fs in os.walk(d):
+        for f in fs:
+            p = os.path.join(base, f)
+            out[os.path.relpath(p, d).replace(os.sep, "/")] = raw(p)
+    return dict(sorted(out.items()))
 
 
 def changed_rows(before, after, key):
@@ -495,12 +501,13 @@ try:
               and po[V1]["source"] == "adam-reviewed"
               and changed_rows(nt_before["prose-order.jsonl"], nt_after["prose-order.jsonl"], "passage_uid") == {V1, V2})
         check("tokens.jsonl changes for exactly the four tokens",
-              changed_rows(nt_before["tokens.jsonl"], nt_after["tokens.jsonl"], "address") == want)
+              changed_rows(nt_before["John/tokens.jsonl"], nt_after["John/tokens.jsonl"], "address") == want)
         check("witnesses.jsonl changes for exactly the two en.plain witnesses",
-              changed_rows(nt_before["witnesses.jsonl"], nt_after["witnesses.jsonl"], "address")
+              changed_rows(nt_before["John/witnesses.jsonl"], nt_after["John/witnesses.jsonl"], "address")
               == {f"{V1}/en.plain", f"{V2}/en.plain"})
         check("passages and alignments are untouched",
-              all(nt_before[f] == nt_after[f] for f in ("passages.jsonl", "alignments.jsonl")))
+              all(nt_before[f] == nt_after[f] for f in nt_before
+                  if f.endswith(("passages.jsonl", "alignments.jsonl"))))
         man = json.load(open(os.path.join(NTD, "manifest.json"), encoding="utf-8"))
         check("the NT manifest declares adam-reviewed (licence own) and counts the drafts left",
               man["sources"]["adam-reviewed"]["license"] == "own" and man["drafts"]["gloss_override_rows"] == 134
