@@ -1,0 +1,295 @@
+{
+ "citation": "strongs:<key> names the WORD; strongs-hebrew:/strongs-greek:<key> names its 1890 entry",
+ "concordance": {
+  "kjv": {
+   "dir": "build/strongs/kjv-tags.jsonl (local)",
+   "note": "tagged KJV words, not original-language tokens",
+   "numbers_occurring": 14057,
+   "tokens": 349308
+  },
+  "nt": {
+   "dir": "data/nt",
+   "keys_not_in_1890": {},
+   "numbers_occurring": 5380,
+   "tokens": 140149,
+   "tokens_key_not_in_1890": 0,
+   "tokens_with_suffix": 0,
+   "tokens_without_key": 0
+  },
+  "ot": {
+   "dir": "data/ot",
+   "keys_not_in_1890": {},
+   "numbers_occurring": 0,
+   "tokens": 305124,
+   "tokens_key_not_in_1890": 0,
+   "tokens_with_suffix": 0,
+   "tokens_without_key": 305124
+  }
+ },
+ "doc": "pipeline/README-strongs.md",
+ "key": "Strong's number: 'H' or 'G' + the number, no leading zeros (H2617, G26)",
+ "kjv": {
+  "citations_without_uid": [],
+  "keys_not_in_1890": {},
+  "psalm_title_tags": 424,
+  "source": {
+   "dir": "data/corpus/strongs-kjv/eng-kjv2006_usfm",
+   "edition": "King James (Authorized) Version, 1769 standard text, protocanon, \"with Strong's numbers added\" -- eBible.org eng-kjv2006, USFM",
+   "lineage": "The tagging is CrossWire's KJV module: OT Strong's from The Bible Foundation (bf.org), NT from CrossWire's KJV2003 project. CrossWire's kjv.conf: \"CrossWire Bible Society hereby grants a general public license to use this text for any purpose\"; DistributionLicense=GPL.",
+   "rights_line": "eBible.org, the edition's own page and copr.htm: \"Public Domain\" ... \"You may copy the King James Version of the Holy Bible freely.\" (Crown letters patent: UK printing only.)",
+   "status": "rights ruling for Adam: labelled public domain on the exact edition, see README s.6",
+   "url": "https://ebible.org/Scriptures/eng-kjv2006_usfm.zip",
+   "usfm_sha256": "6c4d66ade2f4d44c43f8652374b5a3952fb9b2e42fb821711d4bc5724141a9f4"
+  },
+  "tags": 349308,
+  "verses": 31102,
+  "verses_without_tags": 3
+ },
+ "local": {
+  "dir": "build/strongs/",
+  "files": {
+   "concordance-kjv.jsonl": {
+    "rows": 14057,
+    "sha256": "d998545fc8f22b42648c1c794aff90cf99cd958f1129dfa9e8739e35b6ab4d6d"
+   },
+   "concordance-view.jsonl": {
+    "rows": 14197,
+    "sha256": "3339c4127345d0f4a13ef61f68583ebd9a953a55e5d491e052b5b7146a37c794"
+   },
+   "kjv-renderings.jsonl": {
+    "rows": 14057,
+    "sha256": "15173f4f1babfbf0c2a47f1ac7cc0050ddbad72ab3bae861105c6ffc8cb4d5f5"
+   },
+   "kjv-tags.jsonl": {
+    "rows": 31102,
+    "sha256": "03488642df7039f3381b6b82dec802e1a429fb6859ff716a5591e340d083eb17"
+   }
+  },
+  "how": "python3 pipeline/build_strongs.py --fetch, then python3 pipeline/build_strongs.py",
+  "rights": {
+   "committed": false,
+   "license": "unresolved: eBible.org labels the text Public Domain; the tags are CrossWire's, whose kjv.conf grants use 'for any purpose' and says DistributionLicense=GPL",
+   "redistribute_whole": false,
+   "why": "Not committed until Adam rules (README-strongs s.6). Built to build/strongs/; the manifest carries each file's sha256."
+  }
+ },
+ "not_claimed": [
+  "The KJV tags are CrossWire's, as eBible.org publishes them; they are not checked here against the Hebrew or Greek, and the rights call on them is Adam's (README s.6).",
+  "A KJV tag links an English word to the number of the word it translates; untagged words (italics the translators supplied, most articles) are not listed.",
+  "The ot corpus carries no keys of its own: data/ot/ withholds OSHB's CC BY tags. Old Testament occurrences come from the KJV's tagging (corpus kjv), by verse.",
+  "Strong's numbering is the key, not a claim that each number is one word: Strong's lumps some homographs and splits some forms (README s.3)."
+ ],
+ "oshb_layer": {
+  "attribution": "Open Scriptures Hebrew Bible (OSHB), lemma and morphology tagging, openscriptures/morphhb; Westminster Leningrad Codex text public domain",
+  "built_to": "build/strongs/oshb-ot/<Book>.jsonl",
+  "how": "python3 pipeline/build_strongs.py (when the pinned WLC is in data/corpus/)",
+  "license": "CC BY 4.0",
+  "note": "Not committed: data/ot/ withholds OSHB's CC BY layer under ADR 0001, and this layer follows the same gate (as the STEPBible lexicons do). Built locally into build/, gitignored. Drop it by deleting build/strongs/oshb-ot/.",
+  "redistribute_whole": false,
+  "source_url": "https://github.com/openscriptures/morphhb"
+ },
+ "parallels": {
+  "brenton": {
+   "kjv_verses_renumbered_or_split": 4766,
+   "kjv_verses_with_none": 242,
+   "units": 28617,
+   "units_without_kjv_verse": 5713,
+   "what": "Brenton's English Septuagint (1851, PD), in its own numbering, through data/versification/brenton-kjv.json (Old Testament only)"
+  },
+  "douay": {
+   "kjv_verses_renumbered_or_split": 3047,
+   "kjv_verses_with_none": 4,
+   "units": 35805,
+   "units_without_kjv_verse": 4722,
+   "what": "Douay-Rheims, Challoner (PD), in the Vulgate's numbering, through the same map"
+  },
+  "not_yet": {},
+  "rule": "parallels.jsonl lists a KJV verse only where a parallel Bible does not hold it under the same number; [] = none of its verses does",
+  "vulgate": {
+   "kjv_verses_renumbered_or_split": 3024,
+   "kjv_verses_with_none": 2,
+   "units": 35809,
+   "units_without_kjv_verse": 4724,
+   "what": "Clementine Vulgate (1592, PD), through data/versification/vulgate-kjv.json"
+  }
+ },
+ "schema": "wordhoard/strongs/v1",
+ "sources": {
+  "strongs-greek": {
+   "rights": "Public domain; the file's own prologue: \"Public Domain -- Copy Freely\".",
+   "sha256": "df928f01b37632f8af9f16289ce58d10b958014cb5dbd1e1ea715a8d311a0625",
+   "transcription": "OpenScriptures strongs, StrongsGreekDictionaryXML_1.4 (Ulrik Petersen)",
+   "url": "https://github.com/openscriptures/strongs",
+   "what": "Strong's Greek Dictionary of the New Testament (James Strong, 1890)"
+  },
+  "strongs-hebrew": {
+   "rights": "Dictionary text public domain (1890). The XML markup is CC BY 4.0 (OpenScriptures); only the PD text fields are carried here, with attribution.",
+   "sha256": "a628f4f89f8bdaf2483fd3faf1abc8653cc6717758dfc9f24beb7571d9bdd0c4",
+   "transcription": "OpenScriptures HebrewLexicon, HebrewStrong.xml",
+   "url": "https://github.com/openscriptures/HebrewLexicon",
+   "what": "Strong's Hebrew and Chaldee Dictionary (James Strong, 1890)"
+  }
+ },
+ "table": {
+  "aramaic": 653,
+  "greek": 5624,
+  "hebrew": 8674,
+  "hebrew_proper_names": 2628,
+  "not_used": [
+   "G2717",
+   "G3203",
+   "G3204",
+   "G3205",
+   "G3206",
+   "G3207",
+   "G3208",
+   "G3209",
+   "G3210",
+   "G3211",
+   "G3212",
+   "G3213",
+   "G3214",
+   "G3215",
+   "G3216",
+   "G3217",
+   "G3218",
+   "G3219",
+   "G3220",
+   "G3221",
+   "G3222",
+   "G3223",
+   "G3224",
+   "G3225",
+   "G3226",
+   "G3227",
+   "G3228",
+   "G3229",
+   "G3230",
+   "G3231",
+   "G3232",
+   "G3233",
+   "G3234",
+   "G3235",
+   "G3236",
+   "G3237",
+   "G3238",
+   "G3239",
+   "G3240",
+   "G3241",
+   "G3242",
+   "G3243",
+   "G3244",
+   "G3245",
+   "G3246",
+   "G3247",
+   "G3248",
+   "G3249",
+   "G3250",
+   "G3251",
+   "G3252",
+   "G3253",
+   "G3254",
+   "G3255",
+   "G3256",
+   "G3257",
+   "G3258",
+   "G3259",
+   "G3260",
+   "G3261",
+   "G3262",
+   "G3263",
+   "G3264",
+   "G3265",
+   "G3266",
+   "G3267",
+   "G3268",
+   "G3269",
+   "G3270",
+   "G3271",
+   "G3272",
+   "G3273",
+   "G3274",
+   "G3275",
+   "G3276",
+   "G3277",
+   "G3278",
+   "G3279",
+   "G3280",
+   "G3281",
+   "G3282",
+   "G3283",
+   "G3284",
+   "G3285",
+   "G3286",
+   "G3287",
+   "G3288",
+   "G3289",
+   "G3290",
+   "G3291",
+   "G3292",
+   "G3293",
+   "G3294",
+   "G3295",
+   "G3296",
+   "G3297",
+   "G3298",
+   "G3299",
+   "G3300",
+   "G3301",
+   "G3302"
+  ],
+  "rows": 14298
+ },
+ "uids": {
+  "kind": "lexeme",
+  "proposed": 14197,
+  "registered": 0,
+  "status": "PROPOSED -- not in data/uids/; minting awaits Adam (CLAUDE.md 3b)"
+ },
+ "view": {
+  "file": "build/strongs/concordance-view.jsonl (local: built from the KJV tags)",
+  "row": "one per used Strong's number: lemma, definition, every lexicon entry (citations), every KJV verse and English rendering, and for each verse whose number differs, its Vulgate, Douay and Brenton verse ids"
+ },
+ "witnesses": {
+  "bdb": {
+   "beyond_1890": 11,
+   "book": "bdb-hebrew",
+   "entries": 10022,
+   "inputs": {
+    "data/corpus/lexicons/bdb-hebrew.tsv": "5e865974edbc704b58e6b33c2ccf96690fe1e2cda2fbc3442d2a30e8b2292ccc"
+   },
+   "linked": 9164,
+   "no_strongs": 847,
+   "numbers_covered": 8612
+  },
+  "lsj": {
+   "beyond_1890": 3840,
+   "book": "lsj-greek",
+   "entries": 9549,
+   "inputs": {
+    "data/corpus/lexicons/tflsj-greek-0-5624.txt": "fcc2845412132a7bb91fc3dbb5a544c807daf57e4791c4d9af61efe209e97691",
+    "data/corpus/lexicons/tflsj-greek-extra.txt": "fdb2840067faa11301b208a343a9453fbe40b367e94eac981071261626201bc2"
+   },
+   "linked": 5709,
+   "no_strongs": 0,
+   "numbers_covered": 5523
+  },
+  "tbesg": {
+   "beyond_1890": 3841,
+   "book": "tbesg-greek",
+   "entries": 9550,
+   "inputs": {
+    "data/corpus/lexicons/tbesg-greek.txt": "312f723d7b8ef263bbdfb0451c9b8057125804dfff390b6f8544cff2a84b57f4"
+   },
+   "linked": 5709,
+   "no_strongs": 0,
+   "numbers_covered": 5523
+  },
+  "thayer": {
+   "book": "thayer-entries",
+   "carried_forward": true,
+   "note": "source not present in this build; committed links kept as they were",
+   "numbers_covered": 0
+  }
+ }
+}

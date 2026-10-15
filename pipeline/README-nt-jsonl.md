@@ -4,7 +4,7 @@ model_log:
   - 2026-09-26 claude-opus-5-5 edited (from git trailer; backfilled 2026-09-30)
 fable_review: pending
 ---
-# The Greek New Testament in the corpus JSONL (pilot: John 1:1–18)
+# The Greek New Testament in the corpus JSONL (the whole NT; pilot John 1:1–18)
 
 *Schema `wordhoard/corpus-jsonl/v1`, the same four files as the hymns
 (`README-hymn-jsonl.md`), with the differences written down here. Built by
@@ -13,12 +13,19 @@ Launch plan D2 (format), D3 (lemma spine), D4 (licence gate) and D5 (reader
 datasets), the Greek half. 2026-09-26.*
 
 ```
-data/nt/passages.jsonl     one line per verse (the passage that already exists)
-data/nt/witnesses.jsonl    one line per Greek rendering of a verse (grc.byz)
-data/nt/tokens.jsonl       one line per word of that rendering
-data/nt/alignments.jsonl   one line per verse: grc.byz faces kjv.plain
-data/nt/manifest.json      counts, checksums, sources + licence evidence, future layers
+data/nt/<Book>/passages.jsonl     one line per verse (the passage that already exists)
+data/nt/<Book>/witnesses.jsonl    one line per Greek rendering of a verse (grc.byz)
+data/nt/<Book>/tokens.jsonl       one line per word of that rendering
+data/nt/<Book>/alignments.jsonl   one line per verse: grc.byz faces kjv.plain
+data/nt/manifest.json             one over all 27 books: counts, shards, checksums,
+                                  sources + licence evidence, rulings, future layers
 ```
+
+`<Book>` is the OSIS book (`Matt` … `Rev`). Since 2026-10-02 the build covers
+the whole NT; the John 1:1–18 pilot is now a labelled pericope inside
+`data/nt/John/`, its records byte-identical to what the pilot wrote. Read the
+files through `build_nt_corpus.load_nt()`, which follows the manifest's
+`shards` block, so no consumer needs to know the layout (s.16).
 
 Nothing here is new doctrine except where marked **Choice**. The clause rule
 for Greek (s.8) is a **proposal**, and nothing in the files depends on it.
@@ -201,13 +208,29 @@ csv is unaccented, with Strong's numbers and parsing. The tokens need both.
 What is *not* re-checked: accents and breathings. They come from the maintainers'
 Beta→Unicode converter, and the manifest's `open` field says so.
 
-## 7. Counts (pilot)
+## 7. Counts
+
+The whole NT, measured 2026-10-02 (`tests/nt_corpus_test.py`, `EXPECTED_NT`):
+
+| | |
+|---|---|
+| verses | 7,953 in 27 shards (uids reused 7,953, minted 0) |
+| tokens | 140,149; 5,380 distinct lemmas |
+| tokens with lemma / parsing / gloss | 140,149 / 140,149 / 131,627 (93.9%; 124,516 before s.17) |
+| dictionary glosses by rule | kjv-form 27,855; paradigm 7,103; kjv-sole 20,489; kjv-in-def 52,792; def-head 23,251 |
+| no gloss | 8,518: 7,642 function words, 871 with no usable head, 5 pronouns in crasis |
+| finite verbs | 19,571 |
+| tokens flagged for review | 28 (Robinson's double parsings) |
+| largest file | `Luke/tokens.jsonl`, 13 MB |
+| KJV verses with no Greek witness | 4: Luke 17:36, Acts 8:37, 15:34, 24:7 (Textus Receptus only) |
+
+The pilot, John 1:1–18 (`load_nt(pericope="John.1.1-18")`), unchanged:
 
 | | |
 |---|---|
 | verses | 18 (uids reused 18, minted 0) |
 | tokens | 253; 83 distinct lemmas |
-| tokens with lemma / parsing / gloss | 253 / 253 / 231 (s.12) |
+| tokens with lemma / parsing / gloss | 253 / 253 / 253; the dictionary alone 246, 231 before s.17 (s.12) |
 | finite verbs | 41 (38 indicative, 3 subjunctive); also 6 participles, 1 infinitive |
 | tokens flagged for review | 1 (Robinson's double parsing, 1:9) |
 | RP paragraph marks | 0 in this range |
@@ -264,6 +287,9 @@ here: Strong's by Robinson's number now, and later Thayer's (1889, already
 OCR'd in this repo by page) or Abbott-Smith (1922) re-keyed.
 
 ## 10. What a full-NT run takes
+
+*Done 2026-10-02: s.16 says how, and which two answers are still house
+defaults. Kept as the record of what was measured first.*
 
 Measured with `--survey`, which reads all 27 books at the pinned commit and
 writes nothing:
@@ -340,10 +366,11 @@ the token as `provenance.gloss.rule`.
 | id | tokens | what it does |
 |---|---|---|
 | `kjv-form` | 49 | Articles and personal, demonstrative and relative pronouns (Robinson T, P, D, R): the first KJV rendering, in Strong's order, that is an English form agreeing in person, number, gender and case (the table `FORMS`). None agrees: null. Strong's defines these by their grammar, not a sense, so there is no fallback. |
+| `paradigm` | 15 | *Added 2026-10-02 (s.17).* Personal pronouns (Robinson P, not crasis) whose entry Strong's calls a pronoun, when `kjv-form` finds no agreeing rendering: the AV form for the token's person, number, gender and case, from the house table `PARADIGM` (I/me/my, we/us/our, thou/thee/thy, ye/you/your, he/him/his, she/her/her, it/it/its, they/them/their). In the pilot all 15 sit under house drafts, so the pilot's visible glosses do not move. |
 | `kjv-sole` | 24 | The entry has exactly one usable KJV rendering. |
 | `kjv-in-def` | 116 | The usable KJV rendering that occurs earliest, as a whole word, in the definition. Clauses about derivation ("from G…", "a primary verb") or grammar ("the first person singular…") are set aside, and text outside parentheses is searched before text inside. A pronoun form never glosses a non-pronoun. A rendering of one or two letters ("of", "to") counts only as the first word of a clause, or for a verb after "to". |
 | `def-head` | 42 | Nouns, adjectives and verbs only: the head of the first sense clause. Parentheses come off; it is cut at the first comma, "i.e." or " or "; a leading "properly," etc., "a"/"an", and for a verb "to"/"I" are dropped. More than four words is not taken. |
-| (none) | 22 | null, with the reason in `provenance.gloss.why`: 15 pronouns with no agreeing KJV form (13 masculine αὐτός, whose entry has no standalone *him*/*his*; 2 plural forms Robinson files under ἐγώ, whose entry lists only *I*, *me*), and 7 function words with no KJV rendering in the definition (πρός ×2, ἀλλά ×2, χωρίς, ἔμπροσθεν, ἀντί). |
+| (none) | 7 (22 before s.17) | null, with the reason in `provenance.gloss.why`. Before s.17 that was 15 pronouns with no agreeing KJV form (13 masculine αὐτός, whose entry has no standalone *him*/*his*; 2 plural forms Robinson files under ἐγώ, whose entry lists only *I*, *me*), and 7 function words with no KJV rendering in the definition (πρός ×2, ἀλλά ×2, χωρίς, ἔμπροσθεν, ἀντί). |
 
 "Usable" rendering: Strong's marks with **X** a rendering that comes from a
 Greek idiom and with **+** one that needs other words; both are skipped.
@@ -354,7 +381,7 @@ variant Strong's prints, so σκοτία's `dark(-ness)` gives *darkness*.
 **Never invented.** The test re-derives every gloss from the pinned XML. It
 checks that each KJV-rule gloss is one of the entry's usable renderings (or
 its printed variant), and that each `def-head` gloss is words of Strong's
-definition. Coverage in the pilot: **231 of 253 tokens (91.3%)**.
+definition. Coverage in the pilot: **246 of 253 tokens (97.2%)**, 231 (91.3%) before the paradigm rule (s.17).
 
 **What the dictionary gets wrong, as expected.** Some glosses are etymological
 or odd in context: ἀρχή *commencement*, φῶς *luminousness*, λέγω
@@ -518,3 +545,110 @@ manifest once a row uses it. A reviewed row is never a draft. The manifest's
 `docs/review/2026-09-26-john1-drafts.notes.json` (its prose, with the row
 counts filled in). It is byte-identical while nothing has changed. An accepted
 row shows `✓`, and a revised draft shows its new value with the cell open again.
+
+## 16. The full run (2026-10-02): two house defaults, each one edit
+
+The build now reads every book (`SCOPE` in `build_nt_corpus.py`). A narrowed
+`SCOPE` is for tests and `--report` only: the build refuses to write or
+`--check` one, because the manifest would lose the other books (the
+partial-build trap in CLAUDE.md). It needed the two answers s.10 named. Both
+are still **Adam's rulings**. Until he makes them, the build uses the
+defaults below, the manifest records each under `rulings`-style blocks with
+`status: "house default, awaiting Adam's ruling"`, and changing either is one
+edit and a rebuild. Nothing downstream hard-codes either answer.
+
+**Ruling 1: the Romans doxology.** Default: the doxology is one passage whose
+position differs (s.10's recommendation). RP Rom 14:24–26 are `grc.byz`
+witnesses of the KJV uids of Rom 16:25–27, and each such witness carries
+`rp_ref` (`"Rom.14.24"` …), RP's own reference. Rows keep RP's reading order,
+so in `data/nt/Rom/` they follow 14:23. The manifest's `versification` block
+lists `placed_elsewhere`, `left_out` and `kjv_verses_without_grc`.
+
+- *To rule the other way:* set the values of `VERSIFICATION_MAP` to `None`.
+  The three RP verses are then left out and counted (`left_out`), KJV Rom
+  16:25–27 join the TR-only verses with no Greek witness, and nothing is
+  minted. The validator builds Romans that way to prove it.
+
+**Ruling 2: sharding.** Default: one folder per book, the four files in
+each, one `manifest.json` over all of them (its `shards` block: `layout`,
+`order` in canon order, per-book `dir`, `verses`, `tokens`). Token records are
+unchanged: provenance stays on every token. The whole is 97 MB on disk and
+about 7 MB gzipped; the largest file is 13 MB, under GitHub's 50 MB warning
+(the validator checks this).
+
+- *To change it:* `SHARD = None` writes the four flat files (tokens ~76 MB,
+  over the warning); the other options in s.10 (provenance moved to the
+  manifest, or tokens gitignored and rebuilt from the pins) are larger
+  changes and would want their own PR.
+- *Not committing them* (the commit "Rebuild, don't commit" on PR #8, which
+  can be dropped): every shard but John's is gitignored and rebuilt by
+  `python3 pipeline/rebuild_bible.py` (one shallow git fetch per source repo,
+  sha256-checked; 35 s cold for both testaments, measured 2026-10-02). What
+  stays committed is the manifest, which carries every shard's sha256, so
+  `--check` proves a rebuild byte-identical without the files in git; the
+  house inputs; and John, so the review sheets and the reader need no fetch.
+  A loader or validator run before the rebuild stops and says to run it.
+
+**What else changed.**
+
+- **Pins.** The 108 book files (27 × 4) are pinned in
+  `pipeline/nt_pins.json`, measured at `BYZ_COMMIT`. A mismatch stops the
+  build as before. (raw.githubusercontent.com rate-limits a bulk `--fetch`;
+  a clone of byztxt at that commit, copied into `data/corpus/byztxt/27a45ff1b7be/`,
+  gives byte-identical files.)
+- **`pericope`** is `"John.1.1-18"` on the pilot verses and `null` on every
+  other. The reader and the John 1 review sheet read just the pilot through
+  `load_nt(pericope=…)`, whose manifest is a view with the pilot's own counts.
+- **Overrides and prose orders** still cover John 1:1–18 only. Every other
+  verse has dictionary glosses and no `en.plain`. A row for a book outside a
+  narrowed `SCOPE` is skipped, not stale.
+- **`--check`** also fails on an output file the build would not write (the
+  pilot's old flat files), and a write removes such files. Shards are written
+  before the manifest, each by temp file and rename.
+- **The validator's def-head check** now asks that every word of the gloss be
+  a word of Strong's definition (his parentheses come out, so a head like
+  *lead under*, from "to lead (oneself) under", is not one substring).
+
+**Seen in the full run:** a handful of `def-head` glosses read oddly once the
+parentheses come out, and 7,214 pronouns, mostly masculine αὐτός, got no
+gloss because Strong's entry has no standalone *him*/*his*. Both are fixed
+by the gloss-rule changes in s.17.
+
+## 17. Gloss-rule changes after the full run (2026-10-02)
+
+Coverage went from 124,516 to **131,631 of 140,149 (93.9%)** (131,627 since 2026-10-03: a cut at a comma no longer drops a trailing "of the mind"). The rule is
+still a fixed function of (parsing, Strong's entry), and the validator still
+re-derives every gloss and checks it is never invented.
+
+- **`paradigm` (new, 7,103 tokens).** See s.12. Strong's lists only some
+  forms of the personal pronouns (σύ: *thou*; ἐγώ: *I, me*; αὐτός: no
+  standalone *him*/*his*), and the rest are English grammar, not sense. The
+  form comes from a house table, and the rule id says so. It is a dictionary
+  gloss like the rest: αὐτοῦ is *his* in every verse, even where context
+  wants *him* (after a preposition), and an intensive αὐτός (*himself*, *the
+  same*) is still *he*. Fixing that by use is the override layer's job, as
+  before. Crasis (κἀμοί, `-K`) stays null, because *and me* is not *me*:
+  5 tokens.
+- **A demonstrative or relative with no agreeing form** now goes on to the
+  sense rules instead of stopping null; articles and personal pronouns
+  still stop. In the NT this gives one more gloss (ἕως ὅτου's *whiles*).
+  τοιοῦτος and τοσοῦτος still find no rendering in their definitions and stay
+  null as function words.
+- **def-head.** A parenthesis that opens "or" and holds two or more words is
+  a whole alternative reading, so the head stops before it: G2507
+  `lower demolish` becomes *lower*. A one-word "(or esteem)" still alternates
+  with the word before it (*render glorious*). A head cut at " or " that
+  leaves a dangling "in a X" drops it: G2745 `boast in a good` becomes *boast*.
+- **Two broken entries in the XML.** Petersen's conversion lost the `:--`
+  before the KJV rendering in G259 and G3372, so the rendering read as the
+  end of the definition (`length length`). `strongs_gloss.XML_REPAIRS`
+  restores them at load time; the source file is not edited. They are the
+  only two of the 104 entries with no `<kjv_def>` that carry definition text.
+- **The pilot.** The 15 pronouns the dictionary left null in John 1:1–18 now
+  have a paradigm gloss under their house drafts (`provenance.gloss.was`), so
+  the review sheet's *dictionary* column shows it. The drafts themselves are
+  unchanged, and what the reader shows does not move.
+
+Left alone deliberately: `under contrary to` (G5227, 2 tokens) and similar
+heads where Strong's parenthesis glosses a prefix. A rule for them would be
+fitted to one entry.

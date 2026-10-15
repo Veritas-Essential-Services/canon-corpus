@@ -1,0 +1,239 @@
+{
+ "slug": "catena-titus-cramer-grc",
+ "source_sha256": "982032436cd3d3aea6a968edd97067215f5b13aaad681699cf908a67a9b5b94a",
+ "rp2018": {
+  "commit": "27a45ff1b7be6c17ccbfeac414f3f55732ae8e28",
+  "file": "TIT.csv"
+ },
+ "rule": {
+  "skip": 0.3,
+  "back": 0.35,
+  "gap": 0.05,
+  "jump": 0.02,
+  "fix": 0.35,
+  "fix_min": 0.6,
+  "fix_at": 0.3,
+  "lb": 0.5,
+  "short": 3,
+  "min_place": 0.1
+ },
+ "honesty": "The chapter of every verse is MEASURED, not printed: of 42 numbered marks, 24 were placed at a verse by pipeline/place_catena.py (18 printed verse numbers, 6 bare multiples of 5 -- which may be page-line numbers -- whose lemma matched the verse at half its words or more); the rest read as page-line numbers or unplaceable. Of the placed, 24 have a lemma sharing at least half its words with the Robinson-Pierpont verse, 24 at least 30% (the others are linked as weak); 0 printed number(s) were read as another verse on the lemma's evidence, the printed number kept. Placed marks fall in chapters 1-3; a kephalaion with no placed mark is one unlinked unit.",
+ "placed": [
+  {
+   "ord": 2,
+   "k": "praef",
+   "n": "4",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 4,
+   "score": 1.0
+  },
+  {
+   "ord": 4,
+   "k": "1",
+   "n": "5",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 5,
+   "score": 1.0
+  },
+  {
+   "ord": 6,
+   "k": "1",
+   "n": "6",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 6,
+   "score": 1.0
+  },
+  {
+   "ord": 7,
+   "k": "1",
+   "n": "7",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 7,
+   "score": 1.0
+  },
+  {
+   "ord": 9,
+   "k": "1",
+   "n": "8",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 8,
+   "score": 1.0
+  },
+  {
+   "ord": 12,
+   "k": "2",
+   "n": "10",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 10,
+   "score": 0.8889
+  },
+  {
+   "ord": 13,
+   "k": "2",
+   "n": "12",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 12,
+   "score": 1.0
+  },
+  {
+   "ord": 14,
+   "k": "2",
+   "n": "15",
+   "src": "lb",
+   "chapter": 1,
+   "verse": 15,
+   "score": 1.0
+  },
+  {
+   "ord": 17,
+   "k": "3",
+   "n": "3",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 3,
+   "score": 0.75
+  },
+  {
+   "ord": 19,
+   "k": "3",
+   "n": "4",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 4,
+   "score": 0.7143
+  },
+  {
+   "ord": 20,
+   "k": "3",
+   "n": "5",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 5,
+   "score": 1.0
+  },
+  {
+   "ord": 21,
+   "k": "3",
+   "n": "6",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 6,
+   "score": 1.0
+  },
+  {
+   "ord": 23,
+   "k": "3",
+   "n": "7",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 7,
+   "score": 0.7143
+  },
+  {
+   "ord": 25,
+   "k": "4",
+   "n": "9",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 9,
+   "score": 1.0
+  },
+  {
+   "ord": 27,
+   "k": "4",
+   "n": "11",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 11,
+   "score": 1.0
+  },
+  {
+   "ord": 29,
+   "k": "5",
+   "n": "15",
+   "src": "lb",
+   "chapter": 2,
+   "verse": 15,
+   "score": 1.0
+  },
+  {
+   "ord": 30,
+   "k": "5",
+   "n": "1",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 1,
+   "score": 0.5385
+  },
+  {
+   "ord": 32,
+   "k": "5",
+   "n": "2",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 2,
+   "score": 0.7273
+  },
+  {
+   "ord": 34,
+   "k": "5",
+   "n": "4",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 4,
+   "score": 1.0
+  },
+  {
+   "ord": 35,
+   "k": "5",
+   "n": "8",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 8,
+   "score": 0.8571
+  },
+  {
+   "ord": 37,
+   "k": "6",
+   "n": "10",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 10,
+   "score": 1.0
+  },
+  {
+   "ord": 38,
+   "k": "6",
+   "n": "12",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 12,
+   "score": 0.8889
+  },
+  {
+   "ord": 39,
+   "k": "6",
+   "n": "13",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 13,
+   "score": 1.0
+  },
+  {
+   "ord": 40,
+   "k": "6",
+   "n": "14",
+   "src": "lb",
+   "chapter": 3,
+   "verse": 14,
+   "score": 1.0
+  }
+ ]
+}
