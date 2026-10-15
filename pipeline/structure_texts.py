@@ -179,6 +179,15 @@ def convert_thml(path, slug):
                                   "of print editions need an anchor table (Concordance)"},
             "units": units}
 
+def _kjv_field_rights(map_rel):
+    """The rights of each unit's `kjv` field, which comes from a TVTMS-derived
+    map (CC BY 4.0), not from the public-domain text it sits beside."""
+    return {"from": map_rel, "license": "CC BY 4.0",
+            "attribution": "Data created by www.STEPBible.org based on work at Tyndale "
+                           "House Cambridge (CC BY 4.0)",
+            "source_url": "https://github.com/STEPBible/STEPBible-Data",
+            "redistribute_whole": False}
+
 # ---------------------------------------------------------------- KJV (Gutenberg)
 
 KJV_BOOKS = [
@@ -307,6 +316,756 @@ def convert_kjv(path, slug="kjv"):
                        "resolution": "verse", "honesty": "exact"},
             "units": units}
 
+# ---------------------------------------------------------------- Vulgate
+#
+# The Clementine Vulgate (1592), from the Clementine Vulgate Project's own
+# files (fetch_sources.VULGATE, pinned). One file per book, one line per
+# verse, "chapter:verse text". The project's markup, read from its files
+# (counts measured 2026-10-02 over all 35,809 verses):
+#     /        a line break inside poetry            28,860
+#     \        a paragraph break (2,058 of 2,085 at a verse's end)
+#     [ ... ]  a stretch set as poetry; it opens and closes mid-verse too
+#     <Name>   a speaker heading (the Song of Songs: Sponsa, Sponsus, Chorus)
+# `text` is the verse with the markup turned into layout ("/" a newline,
+# "\" a blank line, brackets dropped, speakers lifted into `speakers`);
+# `marked` is the line exactly as the file has it, so nothing is lost and
+# the change is plain to see (the project asks that modifications be clear).
+#
+# WHAT IS NOT CLAIMED (rule 4): ids are in the VULGATE's own numbering, which
+# is not the KJV's. Its Psalms follow the Greek count (Vulgate Ps 50 is KJV
+# Ps 51) and count a title in verse 1, as the Hebrew does; Daniel 3
+# carries the Song of the Three Children (3:24-90) and Esther its Greek
+# additions (10:4-16:24). So `vulgate:Ps.50.3` stays a citation in the
+# Vulgate, and no Word Hoard uid is minted here. Each unit's `kjv` says which
+# KJV verse holds the same text, by the map data/versification/vulgate-kjv.json
+# (pipeline/build_vulgate_versification.py, STEPBible TVTMS run against this
+# very text): {"resolved": true, "target": "kjv:Ps.51.1"}, with `spans` when
+# the verse holds several KJV verses; or {"resolved": false, "why": ...} for a
+# psalm title (the KJV numbers none) or text the KJV's canon does not hold.
+
+VULGATE_BOOKS = {   # file -> (OSIS, the book's Latin name)
+    "Gn": ("Gen", "Genesis"), "Ex": ("Exod", "Exodus"), "Lv": ("Lev", "Leviticus"),
+    "Nm": ("Num", "Numeri"), "Dt": ("Deut", "Deuteronomium"), "Jos": ("Josh", "Josue"),
+    "Jdc": ("Judg", "Judicum"), "Rt": ("Ruth", "Ruth"), "1Rg": ("1Sam", "1 Regum"),
+    "2Rg": ("2Sam", "2 Regum"), "3Rg": ("1Kgs", "3 Regum"), "4Rg": ("2Kgs", "4 Regum"),
+    "1Par": ("1Chr", "1 Paralipomenon"), "2Par": ("2Chr", "2 Paralipomenon"),
+    "Esr": ("Ezra", "1 Esdrae"), "Neh": ("Neh", "Nehemiae"), "Tob": ("Tob", "Tobiae"),
+    "Jdt": ("Jdt", "Judith"), "Est": ("Esth", "Esther"), "Job": ("Job", "Job"),
+    "Ps": ("Ps", "Psalmi"), "Pr": ("Prov", "Proverbia"), "Ecl": ("Eccl", "Ecclesiastes"),
+    "Ct": ("Song", "Canticum Canticorum"), "Sap": ("Wis", "Sapientia"),
+    "Sir": ("Sir", "Ecclesiasticus"), "Is": ("Isa", "Isaias"), "Jr": ("Jer", "Jeremias"),
+    "Lam": ("Lam", "Lamentationes"), "Bar": ("Bar", "Baruch"), "Ez": ("Ezek", "Ezechiel"),
+    "Dn": ("Dan", "Daniel"), "Os": ("Hos", "Osee"), "Joel": ("Joel", "Joel"),
+    "Am": ("Amos", "Amos"), "Abd": ("Obad", "Abdias"), "Jon": ("Jonah", "Jonas"),
+    "Mch": ("Mic", "Michaea"), "Nah": ("Nah", "Nahum"), "Hab": ("Hab", "Habacuc"),
+    "Soph": ("Zeph", "Sophonias"), "Agg": ("Hag", "Aggaeus"), "Zach": ("Zech", "Zacharias"),
+    "Mal": ("Mal", "Malachias"), "1Mcc": ("1Macc", "1 Machabaeorum"),
+    "2Mcc": ("2Macc", "2 Machabaeorum"), "Mt": ("Matt", "Matthaeus"), "Mc": ("Mark", "Marcus"),
+    "Lc": ("Luke", "Lucas"), "Jo": ("John", "Joannes"), "Act": ("Acts", "Actus Apostolorum"),
+    "Rom": ("Rom", "ad Romanos"), "1Cor": ("1Cor", "1 ad Corinthios"),
+    "2Cor": ("2Cor", "2 ad Corinthios"), "Gal": ("Gal", "ad Galatas"),
+    "Eph": ("Eph", "ad Ephesios"), "Phlp": ("Phil", "ad Philippenses"),
+    "Col": ("Col", "ad Colossenses"), "1Thes": ("1Thess", "1 ad Thessalonicenses"),
+    "2Thes": ("2Thess", "2 ad Thessalonicenses"), "1Tim": ("1Tim", "1 ad Timotheum"),
+    "2Tim": ("2Tim", "2 ad Timotheum"), "Tit": ("Titus", "ad Titum"),
+    "Phlm": ("Phlm", "ad Philemonem"), "Hbr": ("Heb", "ad Hebraeos"),
+    "Jac": ("Jas", "Jacobi"), "1Ptr": ("1Pet", "1 Petri"), "2Ptr": ("2Pet", "2 Petri"),
+    "1Jo": ("1John", "1 Joannis"), "2Jo": ("2John", "2 Joannis"), "3Jo": ("3John", "3 Joannis"),
+    "Jud": ("Jude", "Judae"), "Apc": ("Rev", "Apocalypsis"),
+}
+RE_VULG_LINE = re.compile(r"^(\d+):(\d+)\s(.*)$")
+RE_VULG_SPEAKER = re.compile(r"<([^>]*)>")
+
+
+def vulgate_layout(marked):
+    """(text, speakers) for one verse's marked-up line."""
+    speakers = [m.strip() for m in RE_VULG_SPEAKER.findall(marked)]
+    t = RE_VULG_SPEAKER.sub(" ", marked).replace("[", "").replace("]", "")
+    t = t.replace("\\", "\n\n").replace("/", "\n")
+    t = "\n".join(re.sub(r"[ \t]+", " ", ln).strip() for ln in t.split("\n"))
+    t = re.sub(r"\n{3,}", "\n\n", t).strip()
+    return t, speakers
+
+
+def _dc_map():
+    """The deuterocanon map (data/versification/deuterocanon.json), or None."""
+    import versification as _V
+    return _V.load(_V.DC_PATH) if os.path.exists(_V.DC_PATH) else None
+
+
+def _dc_key(u, ref, slug, dmap, tally):
+    """Give a deuterocanonical unit its shared key, `kjva` (resolve_dc)."""
+    import versification as _V
+    if dmap and slug in dmap["witnesses"]:
+        k = _V.resolve_dc(ref, slug, dmap)
+        if k is not None:
+            u["kjva"] = k
+            tally[k["resolved"]] += 1
+
+
+def _dc_scheme(tally):
+    return ({"kjva_keyed": tally[True], "kjva_unkeyed": tally[False],
+             "kjva_note": "deuterocanonical verses carry `kjva`: the shared key, the KJV "
+                          "Apocrypha verse holding the same text, by "
+                          "data/versification/deuterocanon.json (the house's reading, PD), "
+                          "or why there is none; `weak` marks a pairing to read first"}
+            if tally[True] or tally[False] else {})
+
+
+def convert_vulgate(vdir, books, digest, slug="vulgate"):
+    """`books`: file names in canonical order; `digest`: the pinned digest."""
+    import sys as _sys
+    if HERE not in _sys.path:       # loaded by path (the tests do), not as a script
+        _sys.path.insert(0, HERE)
+    import versification as _V
+    vmap, kjv_ids = None, set()
+    if os.path.exists(_V.VULGATE_PATH):
+        vmap = _V.load(_V.VULGATE_PATH)
+        with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+            kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+    resolved = {True: 0, False: 0}
+    dmap, dc = _dc_map(), {True: 0, False: 0}
+    units = []
+    for b in books:
+        osis, name = VULGATE_BOOKS[b]
+        with open(os.path.join(vdir, b + ".lat"), encoding="cp1252") as f:
+            for n, line in enumerate(f, 1):
+                line = line.rstrip("\r\n")
+                if not line.strip():
+                    continue
+                m = RE_VULG_LINE.match(line)
+                if not m:
+                    raise ValueError(f"{b}.lat line {n}: not 'chapter:verse text'")
+                c, v, marked = m.groups()
+                text, speakers = vulgate_layout(marked)
+                u = {"id": f"{slug}:{osis}.{c}.{v}", "ref": f"{name} {c}:{v}",
+                     "text": text, "links": [], "marked": marked}
+                if speakers:
+                    u["speakers"] = speakers
+                if vmap:
+                    u["kjv"] = _V.resolve_vulgate(f"{osis}.{c}.{v}", vmap, kjv_ids)
+                    resolved[u["kjv"]["resolved"]] += 1
+                _dc_key(u, f"{osis}.{c}.{v}", slug, dmap, dc)
+                units.append(u)
+    return {"slug": slug, "title": "Biblia Sacra Vulgatae Editionis (Clementine Vulgate, 1592)",
+            "author": "Jerome and the Old Latin (translators); the Clementine revision (1592)",
+            "source": {"path": os.path.relpath(vdir, CORPUS), "format": "clementine-lat",
+                       "sha256": digest,
+                       "sha256_of": "name<TAB>sha256 lines of the book files, sorted"},
+            "scheme": {"citation": "Book chapter:verse in the Vulgate's own numbering (OSIS book ids)",
+                       "resolution": "verse", "honesty": "exact",
+                       "versification": "vulgate",
+                       "kjv_resolved": resolved[True], "kjv_unresolved": resolved[False],
+                       **_dc_scheme(dc),
+                       "note": "Ids follow the Clementine numbering, NOT the KJV's: the "
+                               "Psalms are numbered as in the Greek (Vulgate Ps 50 = KJV "
+                               "Ps 51) with a title counted in verse 1, Daniel 3 holds 3:24-90 "
+                               "and Esther 10:4-16:24 the Greek additions. Each unit's `kjv` "
+                               "names the KJV verse(s) holding the same text, by the map "
+                               "data/versification/vulgate-kjv.json (STEPBible TVTMS, CC BY "
+                               "4.0, tested against this text), or says why there is none; "
+                               "no uids minted. `text` is the verse with the "
+                               "project's markup turned into line and paragraph breaks; "
+                               "`marked` is the file's line as is. The Clementine appendix "
+                               "(Prayer of Manasses, 3-4 Esdras) is not in the source."},
+            "rights": {"license": "public-domain",
+                       "attribution": "The Clementine Vulgate Project (vulsearch.sourceforge.net)",
+                       "source_url": "https://github.com/BibleGet-I-O/Clementine-Vulgate",
+                       "requests": "acknowledge the source; report typographical errors to the "
+                                   "project; make modifications clear (requests, not a licence)",
+                       "kjv_field": _kjv_field_rights("data/versification/vulgate-kjv.json")},
+            "units": units}
+
+# ---------------------------------------------------------------- Douay-Rheims
+#
+# The Douay-Rheims, Challoner revision (fetch_sources.DOUAY, pinned): the
+# Vulgate's English companion. One JSON file, books -> chapters -> verses, its
+# first 73 books in the Clementine's order and, nearly everywhere, the
+# Clementine's numbering. So a unit's id is in that numbering (douay:Ps.50.3)
+# and `vulgate` names the Clementine verse(s) holding the same text: the same
+# number, except at DOUAY_ROWS, where this edition breaks verses elsewhere.
+# `kjv` follows through the Vulgate map (data/versification/vulgate-kjv.json).
+#
+# WHAT IS NOT CLAIMED (rule 4): the file pads its versification with EMPTY
+# verses where the KJV numbers a verse it has not got (John 11:57, 2 Cor
+# 1:24, 1 Thess 4:18 ...). An empty verse is no verse of the Douay: it is
+# dropped, and counted in the scheme, never given an id. DOUAY_ROWS was found
+# by aligning this English against the KJV's (build_vulgate_versification.py
+# --audit-douay) and read verse by verse against the Latin.
+
+DOUAY_NAMES = [   # the file's own book names, in order: a reordered file fails loudly
+    "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges",
+    "Ruth", "I Samuel", "II Samuel", "I Kings", "II Kings", "I Chronicles",
+    "II Chronicles", "Ezra", "Nehemiah", "Tobit", "Judith", "Esther", "Job", "Psalms",
+    "Proverbs", "Ecclesiastes", "Song of Solomon", "Wisdom", "Sirach", "Isaiah",
+    "Jeremiah", "Lamentations", "Baruch", "Ezekiel", "Daniel", "Hosea", "Joel", "Amos",
+    "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah",
+    "Malachi", "I Maccabees", "II Maccabees", "Matthew", "Mark", "Luke", "John", "Acts",
+    "Romans", "I Corinthians", "II Corinthians", "Galatians", "Ephesians", "Philippians",
+    "Colossians", "I Thessalonians", "II Thessalonians", "I Timothy", "II Timothy",
+    "Titus", "Philemon", "Hebrews", "James", "I Peter", "II Peter", "I John", "II John",
+    "III John", "Jude", "Revelation of John"]
+
+# Douay verse -> (the Clementine verse(s) holding its text, words that stand in
+# the Douay verse), where that is not the verse of the same number. Each was
+# read against the Latin; the words are checked, so a changed file fails loudly.
+DOUAY_ROWS = {
+    # A third element names the KJV verse(s) outright, where the Douay splits a
+    # Clementine verse that holds several KJV verses (Clementine Ps 15:10 is the
+    # KJV's 16:10-11; the Douay's 15:10 and 15:11 are one each).
+    "Ps.15.10": (["Ps.15.10"], "not leave my soul in hell", ["Ps.16.10"]),
+    "Ps.15.11": (["Ps.15.10"], "made known to me the ways of life", ["Ps.16.11"]),
+    "Ps.42.5": (["Ps.42.4", "Ps.42.5"], "give praise upon the harp"),
+    "Ps.42.6": (["Ps.42.5"], "Hope in God"),
+    "Ps.125.7": (["Ps.125.6"], "carrying their sheaves"),
+    "Ps.135.27": (["Ps.135.26"], "Lord of lords"),
+    "Isa.45.24": (["Isa.45.23"], "every knee shall be bowed"),
+    "Isa.45.25": (["Isa.45.24"], "In the Lord are my justices"),
+    "Isa.45.26": (["Isa.45.25"], "seed of Israel be justified"),
+    "Acts.8.8": (["Acts.8.7"], "taken with the palsy"),
+    "Acts.8.9": (["Acts.8.8", "Acts.8.9"], "great joy in that city"),
+    "1Thess.4.11": (["1Thess.4.11", "1Thess.4.12"], "walk honestly"),
+    "1Thess.4.12": (["1Thess.4.13"], "concerning them that are asleep"),
+    "1Thess.4.13": (["1Thess.4.14"], "Jesus died and rose again"),
+    "1Thess.4.14": (["1Thess.4.15"], "in the word of the Lord"),
+    "1Thess.4.15": (["1Thess.4.16"], "voice of an archangel"),
+    "1Thess.4.16": (["1Thess.4.17"], "taken up together with them"),
+    "1Thess.4.17": (["1Thess.4.18"], "comfort ye one another"),
+    "2Thess.2.10": (["2Thess.2.10", "2Thess.2.11"], "operation of error"),
+    "2Thess.2.11": (["2Thess.2.12"], "That all may be judged"),
+    "2Thess.2.12": (["2Thess.2.13"], "give thanks to God always"),
+    "2Thess.2.13": (["2Thess.2.14"], "called you by our gospel"),
+    "2Thess.2.14": (["2Thess.2.15"], "hold the traditions"),
+    "2Thess.2.15": (["2Thess.2.16"], "who hath loved us"),
+    "2Thess.2.16": (["2Thess.2.17"], "Exhort your hearts"),
+    # This file prints the Epistle of Jeremy's 6:37 ("Viduae non miserebuntur")
+    # in the slot of 6:7 and leaves 6:37 empty; the Clementine's 6:7 ("lingua
+    # ipsorum polita") has no English here.
+    "Bar.6.7": (["Bar.6.37"], "They shall not pity the widow"),
+    # This file runs a verse's last words into the verse before and leaves the
+    # last verse of the chapter empty (Isa 46:13, 2 Sam 13:39, Ps 150:6 have no
+    # English here; their words close 46:11, 13:38 and 150:5).
+    "Isa.46.11": (["Isa.46.11", "Isa.46.12"], "Hear me, O ye hardhearted"),
+    "Isa.46.12": (["Isa.46.13"], "I have brought my justice near"),
+    "2Sam.13.38": (["2Sam.13.38", "2Sam.13.39"], "king David ceased to pursue"),
+    "Ps.150.5": (["Ps.150.5", "Ps.150.6"], "let every spirit praise the Lord"),
+    # The Clementine's Sir 29:16-17 ("Super scutum potentis / et super
+    # lanceam") is one verse here, so every later verse reads the Clementine's
+    # next, through 29:34 = 29:35 ("Gravia haec"); 29:35 is empty.
+    "Sir.29.16": (["Sir.29.16", "Sir.29.17"], "better than the spear"),
+    "Sir.29.17": (["Sir.29.18"], "It shall fight for thee"),
+    "Sir.29.18": (["Sir.29.19"], "A good man is surety"),
+    "Sir.29.19": (["Sir.29.20"], "Forget not the kindness of"),
+    "Sir.29.20": (["Sir.29.21"], "The sinner and the unclean"),
+    "Sir.29.21": (["Sir.29.22"], "A sinner attributeth to himself"),
+    "Sir.29.22": (["Sir.29.23"], "A man is surety for"),
+    "Sir.29.23": (["Sir.29.24"], "Evil suretyship hath undone many"),
+    "Sir.29.24": (["Sir.29.25"], "It hath made powerful men"),
+    "Sir.29.25": (["Sir.29.26"], "A sinner that transgresseth the"),
+    "Sir.29.26": (["Sir.29.27"], "Recover thy neighbour according to"),
+    "Sir.29.27": (["Sir.29.28"], "The chief thing for man's"),
+    "Sir.29.28": (["Sir.29.29"], "Better is the poor man's"),
+    "Sir.29.29": (["Sir.29.30"], "Be contented with little instead"),
+    "Sir.29.30": (["Sir.29.31"], "It is a miserable life"),
+    "Sir.29.31": (["Sir.29.32"], "He shall entertain and feed"),
+    "Sir.29.32": (["Sir.29.33"], "Go, stranger, and furnish the"),
+    "Sir.29.33": (["Sir.29.34"], "Give place to the honourable"),
+    "Sir.29.34": (["Sir.29.35"], "These things are grievous to"),
+}
+
+
+def douay_vulgate(ref, vchapters):
+    """The Clementine verse(s) Douay verse `ref` ('Ps.42.6') reads."""
+    if ref in DOUAY_ROWS:
+        return list(DOUAY_ROWS[ref][0])
+    b, c, v = ref.split(".")
+    return [ref] if 1 <= int(v) <= vchapters.get(f"{b}.{c}", 0) else []
+
+
+def convert_douay(path, books, sha, slug="douay"):
+    """`books`: the Clementine's file names in canonical order (for the OSIS
+    ids); `sha`: the pinned sha256."""
+    import sys as _sys
+    if HERE not in _sys.path:
+        _sys.path.insert(0, HERE)
+    import versification as _V
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    names = [b["name"] for b in data["books"][:len(DOUAY_NAMES)]]
+    if names != DOUAY_NAMES:
+        raise ValueError(f"Douay book order differs from the pinned file's: {names[:5]}...")
+    vmap, kjv_ids = None, set()
+    if os.path.exists(_V.VULGATE_PATH):
+        vmap = _V.load(_V.VULGATE_PATH)
+        with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+            kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+    vch = vmap["vulgate_chapters"] if vmap else {}
+    units, empty = [], 0
+    resolved = {True: 0, False: 0}
+    dmap, dc = _dc_map(), {True: 0, False: 0}
+    for b, book in zip(books, data["books"]):
+        osis = VULGATE_BOOKS[b][0]
+        for ch in book["chapters"]:
+            for vs in ch["verses"]:
+                text = re.sub(r"\s+", " ", vs["text"]).strip()
+                if not text:
+                    empty += 1
+                    continue
+                ref = f"{osis}.{ch['chapter']}.{vs['verse']}"
+                if ref in DOUAY_ROWS and DOUAY_ROWS[ref][1] not in text:
+                    raise ValueError(f"DOUAY_ROWS {ref}: {DOUAY_ROWS[ref][1]!r} is not in the verse")
+                u = {"id": f"{slug}:{ref}", "ref": f"{book['name']} {ch['chapter']}:{vs['verse']}",
+                     "text": text, "links": []}
+                if vmap:
+                    vl = douay_vulgate(ref, vch)
+                    u["vulgate"] = [f"vulgate:{x}" for x in vl]
+                    rs = [_V.resolve_vulgate(x, vmap, kjv_ids) for x in vl]
+                    named = DOUAY_ROWS[ref][2] if len(DOUAY_ROWS.get(ref, ())) > 2 else None
+                    if named:
+                        ks = [f"kjv:{k}" for k in named]
+                        if any(k not in kjv_ids for k in ks):
+                            raise ValueError(f"DOUAY_ROWS {ref}: {ks} is not a KJV unit")
+                        u["kjv"] = {"resolved": True, "target": ks[0]}
+                        if len(ks) > 1:
+                            u["kjv"]["spans"] = ks
+                    elif rs and all(r["resolved"] for r in rs):
+                        ts = []
+                        for r in rs:
+                            for t in r.get("spans", [r["target"]]):
+                                if t not in ts:
+                                    ts.append(t)
+                        u["kjv"] = {"resolved": True, "target": next(t for t in ts if t.startswith("kjv:"))}
+                        if len(ts) > 1:
+                            u["kjv"]["spans"] = ts
+                    else:
+                        why = next((r for r in rs if not r["resolved"]), None)
+                        u["kjv"] = dict(why) if why else {"resolved": False,
+                                                          "why": "no Clementine verse holds this text"}
+                    resolved[u["kjv"]["resolved"]] += 1
+                _dc_key(u, ref, slug, dmap, dc)
+                units.append(u)
+    return {"slug": slug, "title": "The Holy Bible, Douay-Rheims Version (Challoner revision)",
+            "author": "Richard Challoner (reviser); Gregory Martin et al. (translators)",
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "scrollmapper-json",
+                       "sha256": sha},
+            "scheme": {"citation": "Book chapter:verse in the Vulgate's numbering (OSIS book ids)",
+                       "resolution": "verse", "honesty": "exact",
+                       "versification": "vulgate",
+                       "empty_verses_dropped": empty,
+                       "kjv_resolved": resolved[True], "kjv_unresolved": resolved[False],
+                       **_dc_scheme(dc),
+                       "note": "The Clementine Vulgate's English companion, numbered as the "
+                               "Vulgate is. `vulgate` names the Clementine verse(s) holding the "
+                               "same text (the same number except at structure_texts.DOUAY_ROWS); "
+                               "`kjv` follows through data/versification/vulgate-kjv.json. "
+                               "Empty verses in the file (versification padding) are dropped, "
+                               "never given ids. The file's five appendix books (3-4 Esdras, "
+                               "Prayer of Manasses, an additional psalm, Laodiceans) are not "
+                               "read: the Clementine source has no text for them."},
+            "rights": {"license": "public-domain",
+                       "attribution": "Douay-Rheims Bible, Challoner revision, via "
+                                      "scrollmapper/bible_databases",
+                       "source_url": "https://github.com/scrollmapper/bible_databases",
+                       "rights_line": "DRC: Douay-Rheims Bible, Challoner Revision. "
+                                      "License: Public Domain",
+                       "kjv_field": _kjv_field_rights("data/versification/vulgate-kjv.json")},
+            "units": units}
+
+# ---------------------------------------------------------------- Brenton
+#
+# Brenton's English Septuagint (1851), from eBible.org's own USFM archive
+# (fetch_sources.BRENTON, pinned: the archive kept unaltered in a GitHub
+# repository, because ebible.org is out of this sandbox's reach). One file per
+# book. Read: the scripture books; not read: the front matter, Brenton's
+# introductions, and his appendix of Alexandrinus readings (FRT, INT, BAK,
+# OTH, XX*), and NEH, eBible's own copy of Nehemiah RENUMBERED to the KJV
+# (Brenton prints Nehemiah as chapters 11-23 of "Ezra and Nehemiah", the
+# Greek's 2 Esdras, and that is the file read).
+#
+# Markup, read from the files: \v and \c number; \add ... \add* are the
+# words Brenton supplies (in italics in print), \sc small capitals, \it
+# italics: kept as plain words, with `marked` holding the verse's USFM as is.
+# \f ... \f* are Brenton's footnotes and \x ... \x* his cross references:
+# out of `text`, into `notes`. \d (a psalm title) and \p, \nb are layout.
+#
+# WHAT IS NOT CLAIMED (rule 4): ids are in BRENTON's numbering, the Greek's,
+# not the KJV's: the Psalms counted as in the Greek with the title as verse 1,
+# Jeremiah's oracles in the Greek's order, the Greek's additions LETTERED
+# after the verse they follow (1Kgs.12.24a, Esth.1.1b), verses the Greek lacks
+# simply absent. `kjv` names the KJV verse(s) holding the same text by the map
+# data/versification/brenton-kjv.json (build_brenton_versification.py), or says
+# why there is none. No uids are minted.
+
+BRENTON_BOOKS = {   # USFM id -> OSIS (the id's book code)
+    "GEN": "Gen", "EXO": "Exod", "LEV": "Lev", "NUM": "Num", "DEU": "Deut", "JOS": "Josh",
+    "JDG": "Judg", "RUT": "Ruth", "1SA": "1Sam", "2SA": "2Sam", "1KI": "1Kgs", "2KI": "2Kgs",
+    "1CH": "1Chr", "2CH": "2Chr", "EZR": "Ezra", "JOB": "Job", "PSA": "Ps",
+    "PRO": "Prov", "ECC": "Eccl", "SNG": "Song", "ISA": "Isa", "JER": "Jer", "LAM": "Lam",
+    "EZK": "Ezek", "HOS": "Hos", "JOL": "Joel", "AMO": "Amos", "OBA": "Obad", "JON": "Jonah",
+    "MIC": "Mic", "NAM": "Nah", "HAB": "Hab", "ZEP": "Zeph", "HAG": "Hag", "ZEC": "Zech",
+    "MAL": "Mal", "TOB": "Tob", "JDT": "Jdt", "ESG": "Esth", "WIS": "Wis", "SIR": "Sir",
+    "BAR": "Bar", "LJE": "EpJer", "SUS": "Sus", "BEL": "Bel", "1MA": "1Macc", "2MA": "2Macc",
+    "1ES": "1Esd", "MAN": "PrMan", "3MA": "3Macc", "4MA": "4Macc", "DAG": "Dan",
+}
+BRENTON_SKIP = {"FRT", "INT", "BAK", "OTH", "XXA", "XXB", "XXC", "NEH"}
+RE_USFM_NOTE = re.compile(r"\\(f|x) .*?\\\1\*", re.S)
+RE_USFM_MARK = re.compile(r"\\[a-z]+[0-9]*\*?")
+RE_USFM_PARA = re.compile(r"\\(?:p|d|nb|b|q[0-9]?|m)(?=\s|$)")   # layout: a space
+RE_USFM_CHAR = re.compile(r"\\[a-z]+[0-9]*(?:\*| )")          # \add ... \add*: the words stay
+
+
+def brenton_note(raw):
+    """A footnote's or cross reference's text, its markers dropped."""
+    body = re.sub(r"^\\[fx] \S+\s*", "", raw)[:-3]
+    body = re.sub(r"\\(fr|xo) \S+\s*", "", body)
+    return re.sub(r"\s+", " ", RE_USFM_MARK.sub(" ", body)).strip()
+
+
+def brenton_verses(zpath):
+    """[(osis, book name, chapter, verse label, marked USFM)] in file order,
+    scripture books only. A label is "12"; "24a" for a lettered addition; "0"
+    for text before a chapter's verse 1. Refuses a repeated label."""
+    import zipfile
+    out = []
+    with zipfile.ZipFile(zpath) as z:
+        for name in sorted(z.namelist(), key=lambda n: int(n.split("-")[0]) if n[0].isdigit() else 999):
+            if not name.endswith(".usfm"):
+                continue
+            code = name.split("-", 1)[1][:3]
+            if code in BRENTON_SKIP:
+                continue
+            if code not in BRENTON_BOOKS:
+                raise ValueError(f"Brenton {name}: an unknown book")
+            t = z.read(name).decode("utf-8")
+            title = re.search(r"^\\h (.+?)\s*$", t, re.M).group(1)
+            ch, seen, in_verse = None, set(), False
+            for part in re.split(r"(\\c \d+|\\v \S+)", t):
+                m = re.match(r"\\(c|v) (\S+)$", part)
+                if m and m.group(1) == "c":
+                    ch, in_verse = m.group(2), False
+                    continue
+                if m:
+                    if (ch, m.group(2)) in seen:
+                        raise ValueError(f"Brenton {code} {ch}:{m.group(2)} twice")
+                    seen.add((ch, m.group(2)))
+                    out.append([BRENTON_BOOKS[code], title, ch, m.group(2), ""])
+                    in_verse = True
+                    continue
+                if in_verse:
+                    out[-1][4] += part
+                elif ch is not None and RE_USFM_MARK.sub("", RE_USFM_NOTE.sub("", part)).strip():
+                    # Text Brenton prints before a chapter's verse 1 (the
+                    # Greek's prologue to Lamentations): verse "0".
+                    seen.add((ch, "0"))
+                    out.append([BRENTON_BOOKS[code], title, ch, "0", part])
+    return [tuple(x[:4]) + (x[4].strip(),) for x in out]
+
+
+def brenton_text(marked):
+    """(text, notes) for one verse's USFM."""
+    notes = [brenton_note(m.group(0)) for m in RE_USFM_NOTE.finditer(marked)]
+    t = RE_USFM_PARA.sub(" ", RE_USFM_NOTE.sub("", marked))
+    t = re.sub(r"\s+", " ", RE_USFM_CHAR.sub("", t)).strip()
+    if "\\" in t:
+        raise ValueError(f"Brenton: a marker left in {t[:80]!r}")
+    return t, notes
+
+
+def convert_brenton(zpath, sha, slug="brenton"):
+    import sys as _sys
+    if HERE not in _sys.path:
+        _sys.path.insert(0, HERE)
+    import versification as _V
+    bmap, kjv_ids = None, set()
+    if os.path.exists(_V.BRENTON_PATH):
+        bmap = _V.load(_V.BRENTON_PATH)
+        with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+            kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+    resolved = {True: 0, False: 0}
+    dmap, dc = _dc_map(), {True: 0, False: 0}
+    units, empty = [], []
+    for osis, title, c, v, marked in brenton_verses(zpath):
+        text, notes = brenton_text(marked)
+        if not text:
+            empty.append(f"{osis}.{c}.{v}")     # Prov 30:1: only a note ("see chapter 24")
+            continue
+        u = {"id": f"{slug}:{osis}.{c}.{v}", "ref": f"{title} {c}:{v}", "text": text,
+             "links": [], "marked": marked}
+        if notes:
+            u["notes"] = notes
+        if bmap:
+            u["kjv"] = _V.resolve_brenton(f"{osis}.{c}.{v}", bmap, kjv_ids)
+            resolved[u["kjv"]["resolved"]] += 1
+        _dc_key(u, f"{osis}.{c}.{v}", slug, dmap, dc)
+        units.append(u)
+    return {"slug": slug, "title": "The Septuagint in English (Brenton, 1851)",
+            "author": "Sir Lancelot Charles Lee Brenton (translator)",
+            "source": {"path": os.path.relpath(zpath, CORPUS), "format": "ebible-usfm-zip",
+                       "sha256": sha},
+            "scheme": {"citation": "Book chapter:verse in Brenton's (the Greek's) numbering; "
+                                   "the Greek's additions lettered (OSIS book ids)",
+                       "resolution": "verse", "honesty": "exact",
+                       "versification": "lxx-brenton",
+                       "kjv_resolved": resolved[True], "kjv_unresolved": resolved[False],
+                       **_dc_scheme(dc),
+                       "empty_verses_not_units": empty,
+                       "note": "Ids follow Brenton's numbering, NOT the KJV's: the Psalms "
+                               "as in the Greek with a title as verse 1, Jeremiah's oracles "
+                               "in the Greek's order, Nehemiah as chapters 11-23 of Ezra "
+                               "(the Greek's 2 Esdras), the Greek's additions lettered after "
+                               "the verse they follow. Each unit's `kjv` names the KJV "
+                               "verse(s) holding the same text by "
+                               "data/versification/brenton-kjv.json, or says why there is "
+                               "none; no uids minted. `text` drops Brenton's notes, which "
+                               "are in `notes`; `marked` is the verse's USFM as is. eBible's "
+                               "corrections to the printing are in the text; its "
+                               "KJV-renumbered Nehemiah and Brenton's appendix are not read."},
+            "rights": {"license": "public-domain",
+                       "attribution": "Brenton's English Septuagint, transcribed and corrected "
+                                      "by eBible.org (eng-Brenton)",
+                       "source_url": "https://ebible.org/eng-Brenton/",
+                       "requests": "eBible asks that errors in the text be reported to it",
+                       "kjv_field": _kjv_field_rights("data/versification/brenton-kjv.json")},
+            "units": units}
+
+# ---------------------------------------------------------------- historic English Bibles
+#
+# Geneva 1599, Tyndale, Young's, Darby, the ASV 1901 (fetch_sources.ENGLISH:
+# scrollmapper's JSON of CrossWire's modules, pinned). A module sits on the
+# KJV's verse grid, so the ids are its slots: the Bible's own numbers, except
+# where a chapter numbers otherwise and its overflow is merged into the last
+# slot. Each unit's `kjv` comes from data/versification/<slug>-kjv.json
+# (build_english_versification.py), read off the English against the KJV's.
+# Empty slots are not units. The text is the source's, never edited.
+
+# Per-book rules (golden rule 2: fixes live here, so they rerun on refetch).
+# Darby: CrossWire's module marks every "God", and scrollmapper's stripping of
+# the mark ate the space before it. The glued forms, counted in the source:
+# after a letter ("In the beginningGod", "OGod", "Am IGod"), after
+# punctuation (",God" 97 times, "]God", ":God", ".God", "?God", ";God") and
+# after a plural possessive ("fathers'God", Acts 24:14), with "Godhead"
+# twice. No English word ends in a letter or this punctuation and runs on
+# into "God". Left alone: an opening quote ("'God", Matt 1:23) and Ps 59:10's
+# dash ("me, —God"), where the source has its space before the dash.
+ENGLISH_RULES = {
+    "darby": [(re.compile(r"(?<=[A-Za-z0-9,.;:?!\]])(?=God(?:head)?\b)|(?<=s')(?=God\b)"), " ",
+               "a space restored before 'God', lost when the source's markup was stripped")],
+    "tyndale": [(re.compile(r"\b(sayde|them|him|saynge)(?=(?:Wylt|And|Beholde|Whe)\b)"), r"\1 ",
+                 "a space restored between two words the source runs together (Gen 18:23, "
+                 "19:9, 27:39, 32:17); 'BenIamin' and 'xM' (Rev 9:16) are left as printed")],
+    "geneva": [(re.compile(r"\btoAsaph\b"), "to Asaph",
+                "a space restored in Ps 75:1's title ('committed toAsaph')")],
+}
+
+
+def convert_english(path, slug, sha):
+    import sys as _sys
+    if HERE not in _sys.path:
+        _sys.path.insert(0, HERE)
+    import versification as _V
+    import fetch_sources as _fs
+    e = _fs.ENGLISH[slug]
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+        kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
+    with open(os.path.join(HERE, "..", "data", "greppable", "kjv.tsv"), encoding="utf-8") as f:
+        books = list(dict.fromkeys(l.split("\t", 1)[0][4:].split(".")[0]
+                                   for l in f if l.startswith("kjv:")))
+    if len(data["books"]) != len(books):
+        raise ValueError(f"{slug}: {len(data['books'])} books, expected {len(books)}")
+    emap = None
+    if os.path.exists(_V.english_path(slug)):
+        emap = _V.load(_V.english_path(slug))
+    units, empty, fixed = [], 0, 0
+    resolved = {True: 0, False: 0}
+    for osis, book in zip(books, data["books"]):
+        for ch in book["chapters"]:
+            for vs in ch["verses"]:
+                text = re.sub(r"\s+", " ", vs["text"]).strip()
+                if not text:
+                    empty += 1
+                    continue
+                for rx, rep, _why in ENGLISH_RULES.get(slug, []):
+                    text, n = rx.subn(rep, text)
+                    fixed += n
+                ref = f"{osis}.{ch['chapter']}.{vs['verse']}"
+                u = {"id": f"{slug}:{ref}", "ref": f"{book['name']} {ch['chapter']}:{vs['verse']}",
+                     "text": text, "links": []}
+                if emap:
+                    u["kjv"] = _V.resolve_english(ref, emap, kjv_ids)
+                    resolved[u["kjv"]["resolved"]] += 1
+                units.append(u)
+    merged = sum(isinstance(x, list) for x in emap["map"].values()) if emap else 0
+    return {"slug": slug, "title": e["title"], "author": e["author"],
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "scrollmapper-json",
+                       "sha256": sha},
+            "scheme": {"citation": "Book chapter:verse as the source's CrossWire module "
+                                   "numbers it (the KJV's grid; OSIS book ids)",
+                       "resolution": "verse",
+                       "honesty": "exact" if not merged else
+                                  f"exact, except {merged} verses holding several KJV verses "
+                                  f"(a merged last slot or the Bible's own division)",
+                       "versification": f"{slug} (CrossWire, KJV grid)",
+                       "kjv_resolved": resolved[True], "kjv_unresolved": resolved[False],
+                       "empty_slots_not_units": empty,
+                       **({"coverage": e["coverage"]} if "coverage" in e else {}),
+                       **({"rules": [{"why": w, "applied": fixed}
+                                     for _r, _p, w in ENGLISH_RULES[slug]]}
+                          if slug in ENGLISH_RULES else {}),
+                       "note": "Ids are the module's slots: the Bible's own numbers wherever it "
+                               "numbers as the KJV does; where a chapter numbers otherwise "
+                               + ("(the Geneva follows the Hebrew in Num 13, Dan 4 and others) "
+                                  if slug == "geneva" else
+                                  "(the map's `aligned_chapters` lists any; often none) ")
+                               + "its verses fill the KJV's slots in order and the overflow sits "
+                               "in the last slot. Each unit's `kjv` names the KJV verse(s) "
+                               "holding the same words, by "
+                               f"data/versification/{slug}-kjv.json; no uids minted."},
+            "rights": {"license": "public-domain",
+                       "attribution": f"{e['title']}, via scrollmapper/bible_databases "
+                                      "(from CrossWire's SWORD module)",
+                       "source_url": "https://github.com/scrollmapper/bible_databases",
+                       "rights_line": e["readme"]},
+            "units": units}
+
+# ---------------------------------------------------------------- the KJV's Apocrypha
+#
+# The fourteen books the KJV prints as Apocrypha, from eBible.org's KJV
+# Cambridge Paragraph Bible (fetch_sources.KJVA, PD, pinned). Read for one
+# purpose: their verse numbers are the SHARED KEY the deuterocanon map aligns
+# the Vulgate, the Douay and Brenton under (build_deuterocanon.py), and their
+# English is what those maps are audited against. Ids are `kjva:Tob.1.1`, in
+# the KJV's own numbering.
+#
+# Two things in the file are not plain verses, and each has a rule:
+#   * Sirach opens with two prologues (an uncertain author's, then the
+#     translator's), printed before 1:1 with no verse number: units
+#     kjva:Sir.0.1 and kjva:Sir.0.2.
+#   * The Rest of Esther is printed in the Greek's order (each addition where
+#     the Greek places it), with the KJV's chapter number as \cp and verse
+#     numbers that do not run as the KJV's (its 12:1-6 are 12a, 13-17). The
+#     KJV numbers it 10:4-16:24, in Jerome's order. KJVA_ESTHER gives, segment
+#     by segment in the file's order, the KJV verse the segment starts at;
+#     verses are counted on from there, and each segment must end where the
+#     KJV's chapter or passage does. Units are in the KJV's order.
+KJVA_BOOKS = {   # USFM id -> the shared key's book id (OSIS)
+    "TOB": "Tob", "JDT": "Jdt", "ESG": "AddEsth", "WIS": "Wis", "SIR": "Sir", "BAR": "Bar",
+    "S3Y": "PrAzar", "SUS": "Sus", "BEL": "Bel", "1MA": "1Macc", "2MA": "2Macc",
+    "1ES": "1Esd", "MAN": "PrMan", "2ES": "2Esd",
+}
+KJVA_ESTHER = [   # (KJV chapter, first verse, last verse), in the file's order
+    (11, 2, 12), (12, 1, 6), (13, 1, 7), (13, 8, 18), (14, 1, 19), (15, 1, 16),
+    (16, 1, 24), (10, 4, 13), (11, 1, 1),
+]
+
+
+def kjva_verses(zpath):
+    """[(osis, book name, chapter, verse, marked USFM)] for the Apocrypha, in
+    the KJV's numbering and order."""
+    import zipfile
+    out = []
+    with zipfile.ZipFile(zpath) as z:
+        for name in sorted(z.namelist()):
+            code = name.split("-", 1)[1][:3] if "-" in name else ""
+            if not name.endswith(".usfm") or code not in KJVA_BOOKS:
+                continue
+            osis = KJVA_BOOKS[code]
+            t = z.read(name).decode("utf-8")
+            title = re.search(r"^\\h (.+?)\s*$", t, re.M).group(1)
+            rows, ch, seg, fresh = [], None, -1, True
+            if code == "SIR":   # the two prologues, before 1:1
+                head = t.split("\\c 1", 1)[0]
+                pro = re.findall(r"\\im (.*?)(?=\\is1|\\im|\Z)", head, re.S)
+                if len(pro) != 2:
+                    raise ValueError(f"KJVA Sirach: {len(pro)} prologues, expected 2")
+                rows += [[osis, title, 0, i, p] for i, p in enumerate(pro, 1)]
+            for part in re.split(r"(\\c \d+|\\cp \d+|\\v \S+)", t):
+                m = re.match(r"\\(c|cp|v) (\S+)$", part)
+                if m and m.group(1) in ("c", "cp"):
+                    if m.group(1) == "cp" and code != "ESG":
+                        raise ValueError(f"KJVA {code}: an unexpected \\cp")
+                    if m.group(1) == "c":
+                        ch = int(m.group(2))
+                    fresh = True    # Esther: the next verse opens a new segment
+                    continue
+                if m and code == "ESG":
+                    if fresh:
+                        seg, fresh = seg + 1, False
+                        kc, lo, hi = KJVA_ESTHER[seg]
+                        v = lo
+                    else:
+                        v += 1
+                        if v > hi:
+                            raise ValueError(f"KJVA Esther: segment {seg + 1} runs past {kc}:{hi}")
+                    rows.append([osis, title, kc, v, ""])
+                    continue
+                if m:
+                    if not m.group(2).isdigit():
+                        raise ValueError(f"KJVA {code} {ch}:{m.group(2)}: not a number")
+                    rows.append([osis, title, ch, int(m.group(2)), ""])
+                    continue
+                if rows and (code != "SIR" or rows[-1][2] != 0):
+                    rows[-1][4] += part
+            if code == "ESG":
+                for r in rows:   # where the file prints the KJV's own number, it must agree
+                    vp = re.match(r"\s*\\vp (\d+)\\vp\*", r[4])
+                    if vp and int(vp.group(1)) != r[3]:
+                        raise ValueError(f"KJVA Esther {r[2]}:{r[3]} prints itself as {vp.group(1)}")
+                want = [(c, v) for c, lo, hi in KJVA_ESTHER for v in range(lo, hi + 1)]
+                if [(r[2], r[3]) for r in rows] != want:
+                    raise ValueError(f"KJVA Esther: {len(rows)} verses do not fill 10:4-16:24 "
+                                     f"segment by segment")
+                rows.sort(key=lambda r: (r[2], r[3]))
+            seen = set()
+            for r in rows:
+                if (r[2], r[3]) in seen:
+                    raise ValueError(f"KJVA {code} {r[2]}:{r[3]} twice")
+                seen.add((r[2], r[3]))
+            out += [tuple(r[:4]) + (r[4].strip(),) for r in rows]
+    return out
+
+
+RE_KJVA_DROP = re.compile(r"\\vp \S+\\vp\*|\\(?:iex|ms1|imi) [^\n]*")
+
+
+def convert_kjva(zpath, sha, slug="kjva"):
+    units = []
+    for osis, title, ch, v, marked in kjva_verses(zpath):
+        # \vp is the printed number (checked above), \iex and \ms1 the
+        # editor's placement notes and headings, \mi a paragraph: not text.
+        text, notes = brenton_text(re.sub(r"\\mi(?=\s|$)", " ", RE_KJVA_DROP.sub(" ", marked)))
+        if not text:
+            raise ValueError(f"KJVA {osis} {ch}:{v} is empty")
+        ref = f"{title} {ch}:{v}" if ch else f"{title}, prologue {v}"
+        units.append({"id": f"{slug}:{osis}.{ch}.{v}", "ref": ref, "text": text,
+                      "links": [], "marked": marked, **({"notes": notes} if notes else {})})
+    books = list(dict.fromkeys(u["id"].split(":")[1].split(".")[0] for u in units))
+    return {"slug": slug, "title": "The Apocrypha of the King James Version (Cambridge "
+                                   "Paragraph Bible)",
+            "author": "the King James translators (1611); F. H. A. Scrivener (ed., 1873)",
+            "source": {"path": os.path.relpath(zpath, CORPUS), "format": "usfm-zip",
+                       "sha256": sha},
+            "scheme": {"citation": "Book chapter:verse in the KJV's own numbering (OSIS book "
+                                   "ids); Sirach's two prologues are chapter 0",
+                       "resolution": "verse", "honesty": "exact",
+                       "versification": "kjv-apocrypha",
+                       "books": books,
+                       "note": "The KJV's Apocrypha only (the Old and New Testaments of this "
+                               "file are not read: the shelf's KJV is the Gutenberg text). "
+                               "These verse numbers are the shared key of "
+                               "data/versification/deuterocanon.json. The Rest of Esther is "
+                               "renumbered 10:4-16:24 from the file's Greek-order segments "
+                               "(structure_texts.KJVA_ESTHER); every other number is the "
+                               "file's."},
+            "rights": {"license": "public-domain",
+                       "attribution": "KJV Cambridge Paragraph Bible, eBible.org (engkjvcpb)",
+                       "source_url": "https://ebible.org/engkjvcpb/",
+                       "rights_line": "Public Domain",
+                       "note": "eBible: letters patent restrict printing the KJV in the "
+                               "United Kingdom; elsewhere it is in the public domain"},
+            "units": units}
+
 # ---------------------------------------------------------------- Lexicons
 #
 # A lexicon is not a linear text; it is a reference work keyed by lemma. It
@@ -329,9 +1088,18 @@ def convert_kjv(path, slug="kjv"):
 # KJV's -- most visibly in the Psalms, where a Hebrew superscription is
 # counted as verse 1 and every later verse in that psalm is off by one. So a
 # scripture citation is recorded as what the source actually said (its own
-# reference string, plus the OSIS book/chapter/verse it states) and is NOT
-# resolved to a kjv: unit id. A labelled hole beats a confident wrong label;
-# resolving these needs a versification map, which is its own piece of work.
+# reference string, plus the OSIS book/chapter/verse it states). A labelled
+# hole beats a confident wrong label.
+#
+# Since 2026-10-02 that hole is filled where it can be: the Hebrew -> KJV map
+# (data/versification/bhs-kjv.json, pipeline/build_versification.py) turns
+# the stated reference into a kjv: unit id, added as `target` with
+# `resolved: true`; the stated `osis` is kept as it was. A citation of a psalm
+# title (the KJV's unnumbered superscription) or of a verse the KJV lacks
+# stays `resolved: false` and says why. `build_versification.py --measure`
+# is the evidence BDB numbers in Hebrew: where the two schemes differ, the
+# entry's own word is in the cited Hebrew verse 72% of the time and in the
+# same-numbered KJV verse 5.5%.
 
 HEB_NS = "{http://openscriptures.github.com/morphhb/namespace}"
 
@@ -494,7 +1262,17 @@ def convert_bdb(path, slug="bdb-hebrew"):
     BDBid \\t StrongNumber \\t content(HTML)."""
     import csv as _csv
     _csv.field_size_limit(1 << 27)          # single entries run past 200k chars
+    import sys as _sys
+    if HERE not in _sys.path:       # loaded by path (the tests do), not as a script
+        _sys.path.insert(0, HERE)
+    import versification as _V
     units, furniture, extended = [], 0, 0
+    resolved = {True: 0, False: 0}
+    vmap, kjv_ids = None, set()
+    if os.path.exists(_V.PATH):
+        vmap = _V.load()
+        with open(os.path.join(HERE, "..", "data", "uids", "wordhoard.uids.json"), encoding="utf-8") as f:
+            kjv_ids = {k for k in json.load(f)["uids"] if k.startswith("kjv:")}
     with open(path, encoding="utf-8", errors="replace", newline="") as f:
         rows = _csv.reader(f, delimiter="\t")
         header = next(rows, None)
@@ -535,9 +1313,13 @@ def convert_bdb(path, slug="bdb-hebrew"):
                 if key in seen_refs:
                     continue
                 seen_refs.add(key)
-                links.append({"kind": "scripture", "osis": key,
-                              "ref": clean(label) or key, "versification": "bhs",
-                              "resolved": False})
+                link = {"kind": "scripture", "osis": key,
+                        "ref": clean(label) or key, "versification": "bhs",
+                        "resolved": False}
+                if vmap:
+                    link.update(_V.resolve(key, vmap, kjv_ids))
+                resolved[link["resolved"]] += 1
+                links.append(link)
             lemma = ""
             m = re.search(r"<bdbheb>(.*?)</bdbheb>", body, re.S)
             if m:
@@ -559,8 +1341,13 @@ def convert_bdb(path, slug="bdb-hebrew"):
                        "note": "Unabridged. 9,176 of 10,022 entries carry a Strong's number; "
                                "the rest are cross-reference and sub-root entries with no "
                                "Strong's equivalent. Scripture citations are recorded in the "
-                               "source's own (Hebrew/BHS) versification and are NOT resolved "
-                               "to kjv: unit ids -- Psalms superscriptions shift the numbering. "
+                               "source's own (Hebrew/BHS) versification (`osis`, as stated) and "
+                               "resolved to a kjv: unit id (`target`) through the Hebrew->KJV "
+                               "map data/versification/bhs-kjv.json (STEPBible TVTMS, CC BY "
+                               f"4.0): {resolved[True]:,} resolved, {resolved[False]:,} left "
+                               "unresolved with the reason (psalm titles, which the KJV does "
+                               "not number; references that name no Hebrew verse; NT "
+                               "references). "
                                f"{furniture} navigation/header furniture blocks stripped; "
                                f"{extended} refs above H{HEBREW_MAX} dropped as extended "
                                "Strong's prefix/particle codes."},
@@ -1529,14 +2316,55 @@ def main():
         if os.path.exists(path):
             jobs.append((slug, lambda p=path, s=slug, t=title, a=author:
                          convert_gutenberg_prose(p, s, t, a, contents_chapre(p))))
+    vdir = os.path.join(CORPUS, "vulgate")
+    if os.path.isdir(vdir) and all(os.path.exists(os.path.join(vdir, b + ".lat"))
+                                   for b in _fs.VULGATE["books"]):
+        jobs.append(("vulgate", lambda: convert_vulgate(vdir, _fs.VULGATE["books"],
+                                                         _fs.vulgate_digest(vdir))))
+    drc = os.path.join(CORPUS, "douay", "DRC.json")
+    if os.path.exists(drc):
+        jobs.append(("douay", lambda: convert_douay(drc, _fs.VULGATE["books"], sha256(drc))))
+    bz = os.path.join(CORPUS, "brenton", "eng-Brenton_usfm.zip")
+    if os.path.exists(bz):
+        jobs.append(("brenton", lambda: convert_brenton(bz, sha256(bz))))
+    kz = os.path.join(CORPUS, "kjva", "engkjvcpb_usfm.zip")
+    if os.path.exists(kz):
+        jobs.append(("kjva", lambda: convert_kjva(kz, sha256(kz))))
+    for eslug, e in _fs.ENGLISH.items():
+        ep = os.path.join(CORPUS, "english", e["file"])
+        if os.path.exists(ep):
+            jobs.append((eslug, lambda p=ep, s=eslug: convert_english(p, s, sha256(p))))
     shk = os.path.join(CORPUS, "shakespeare.txt")
     if os.path.exists(shk):
         jobs.append(("shakespeare", lambda: convert_shakespeare(shk)))
     force = "--force" in os.sys.argv
+    # A Bible's `kjv` fields come from a committed map, read at build time. A
+    # kept book records the map it was built with; a changed (or newly built)
+    # map rebuilds it, so the fields never go stale behind the resume.
+    vdir_ = os.path.join(HERE, "..", "data", "versification")
+    map_of = {"vulgate": ["vulgate-kjv.json", "deuterocanon.json"],
+              "douay": ["vulgate-kjv.json", "deuterocanon.json"],
+              "brenton": ["brenton-kjv.json", "deuterocanon.json"],
+              **{s_: [f"{s_}-kjv.json"] for s_ in _fs.ENGLISH}}
+
+    def map_sha(slug):
+        """sha256 of the book's map(s): one, or several joined, as present."""
+        mps = [os.path.join(vdir_, m) for m in map_of.get(slug, [])]
+        shas = [sha256(mp) for mp in mps if os.path.exists(mp)]
+        if not shas:
+            return None
+        if len(shas) == 1 and len(mps) == 1:
+            return shas[0]
+        return hashlib.sha256(" ".join(shas).encode("ascii")).hexdigest()
     for slug, job in jobs:
         out = os.path.join(BOOKS, slug + ".json")
+        book = None
         if os.path.exists(out) and not force:   # resumable: reuse, still record in manifest
             book = json.load(open(out, encoding="utf-8"))
+            if book["scheme"].get("kjv_map_sha256") != map_sha(slug):
+                print(f"{slug}: its KJV map changed since it was built: rebuilding")
+                book = None
+        if book is not None:
             manifest[slug] = {"title": book["title"], "author": book["author"],
                               "format": book["source"]["format"],
                               "sha256": book["source"]["sha256"],
@@ -1545,6 +2373,8 @@ def main():
             print(f"{slug}: {len(book['units'])} units (kept)")
             continue
         book = job()
+        if map_sha(slug):
+            book["scheme"]["kjv_map_sha256"] = map_sha(slug)
         seen = {}                       # guarantee unique unit ids (stable refs)
         for u in book["units"]:
             if u["id"] in seen:
