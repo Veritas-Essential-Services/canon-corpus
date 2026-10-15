@@ -1,0 +1,25 @@
+{
+ "supplied": [
+  {
+   "find": " Chu[⟨•⟩]{.gap}ch?",
+   "replace": " Chu[r]{.supplied}ch?",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " Pa[⟨•⟩⟨•⟩]{.gap}dise ",
+   "replace": " Pa[ra]{.supplied}dise ",
+   "count": 1,
+   "evidence": "book",
+   "by": "press_proof"
+  },
+  {
+   "find": " [⟨•⟩]{.gap}aith ",
+   "replace": " [s]{.supplied}aith ",
+   "count": 1,
+   "evidence": "book+edition",
+   "by": "press_proof"
+  }
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "corrections": [
+  {
+   "find": "delivered at",
+   "replace": "delivered in",
+   "count": 1,
+   "why": "the scan reads “in” (archive.org worksofjohnowen06owen, leaf 101, printed p. 88): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     101
+    ],
+    "page": [
+     "88"
+    ],
+    "ocr": "in",
+    "tesseract": "in"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "impression than",
+   "replace": "impression that",
+   "count": 1,
+   "why": "the scan reads “that” (archive.org worksofjohnowen06owen, leaf 101, printed p. 88): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     101
+    ],
+    "page": [
+     "88"
+    ],
+    "ocr": "that",
+    "tesseract": "that"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "own judgement",
+   "replace": "own judgment",
+   "count": 1,
+   "why": "the scan reads “judgment” (archive.org worksofjohnowen06owen, leaf 102, printed p. 89): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     102
+    ],
+    "page": [
+     "89"
+    ],
+    "ocr": "judgment",
+    "tesseract": "judgment"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "His end",
+   "replace": "His ends",
+   "count": 1,
+   "why": "the scan reads “ends” (archive.org worksofjohnowen06owen, leaf 104, printed p. 91): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     104
+    ],
+    "page": [
+     "91"
+    ],
+    "ocr": "ends",
+    "tesseract": "ends"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "single",
+   "replace": "singly",
+   "count": 1,
+   "why": "the scan reads “singly” (archive.org worksofjohnowen06owen, leaf 108, printed p. 95): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     108
+    ],
+    "page": [
+     "95"
+    ],
+    "ocr": "singly",
+    "tesseract": "singly"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "occurences",
+   "replace": "occurrences",
+   "count": 1,
+   "why": "the scan reads “occurrences” (archive.org worksofjohnowen06owen, leaf 111, printed p. 98): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     111
+    ],
+    "page": [
+     "98"
+    ],
+    "ocr": "occurrences",
+    "tesseract": "occurrences"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "is presseth",
+   "replace": "is pressed",
+   "count": 1,
+   "why": "the scan reads “pressed” (archive.org worksofjohnowen06owen, leaf 114, printed p. 101): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     114
+    ],
+    "page": [
+     "101"
+    ],
+    "ocr": "pressed",
+    "tesseract": "pressed"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "doeth that",
+   "replace": "doeth them",
+   "count": 1,
+   "why": "the scan reads “them” (archive.org worksofjohnowen06owen, leaf 116, printed p. 103): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     116
+    ],
+    "page": [
+     "103"
+    ],
+    "ocr": "them",
+    "tesseract": "them"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "on compliance",
+   "replace": "on compliances",
+   "count": 1,
+   "why": "the scan reads “compliances” (archive.org worksofjohnowen06owen, leaf 119, printed p. 106): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     119
+    ],
+    "page": [
+     "106"
+    ],
+    "ocr": "compliances",
+    "tesseract": "compliances"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "land if",
+   "replace": "land is",
+   "count": 1,
+   "why": "the scan reads “is” (archive.org worksofjohnowen06owen, leaf 120, printed p. 107): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     120
+    ],
+    "page": [
+     "107"
+    ],
+    "ocr": "is",
+    "tesseract": "is"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "choose there",
+   "replace": "choose where",
+   "count": 1,
+   "why": "the scan reads “where” (archive.org worksofjohnowen06owen, leaf 121, printed p. 108): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     121
+    ],
+    "page": [
+     "108"
+    ],
+    "ocr": "where",
+    "tesseract": "where"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "make then",
+   "replace": "make them",
+   "count": 1,
+   "why": "the scan reads “them” (archive.org worksofjohnowen06owen, leaf 123, printed p. 110): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     123
+    ],
+    "page": [
+     "110"
+    ],
+    "ocr": "them",
+    "tesseract": "them"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "upon then",
+   "replace": "upon them",
+   "count": 1,
+   "why": "the scan reads “them” (archive.org worksofjohnowen06owen, leaf 123, printed p. 110): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     123
+    ],
+    "page": [
+     "110"
+    ],
+    "ocr": "them",
+    "tesseract": "them"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "continuing with",
+   "replace": "continuing in",
+   "count": 1,
+   "why": "the scan reads “in” (archive.org worksofjohnowen06owen, leaf 130, printed p. 117): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     130
+    ],
+    "page": [
+     "117"
+    ],
+    "ocr": "in",
+    "tesseract": "in"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "entrusted",
+   "replace": "intrusted",
+   "count": 1,
+   "why": "the scan reads “intrusted” (archive.org worksofjohnowen06owen, leaf 130, printed p. 117): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     130
+    ],
+    "page": [
+     "117"
+    ],
+    "ocr": "intrusted",
+    "tesseract": "intrusted"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "who resolved",
+   "replace": "who resolves",
+   "count": 1,
+   "why": "the scan reads “resolves” (archive.org worksofjohnowen06owen, leaf 137, printed p. 124): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     137
+    ],
+    "page": [
+     "124"
+    ],
+    "ocr": "resolves",
+    "tesseract": "resolves"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "is subtle",
+   "replace": "is subtile",
+   "count": 1,
+   "why": "the scan reads “subtile” (archive.org worksofjohnowen06owen, leaf 138, printed p. 125): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     138
+    ],
+    "page": [
+     "125"
+    ],
+    "ocr": "subtile",
+    "tesseract": "subtile"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "attention",
+   "replace": "consideration",
+   "count": 1,
+   "why": "the scan reads “consideration” (archive.org worksofjohnowen06owen, leaf 151, printed p. 138): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     151
+    ],
+    "page": [
+     "138"
+    ],
+    "ocr": "consideration",
+    "tesseract": "consideration"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "Towards the",
+   "replace": "Towards his",
+   "count": 1,
+   "why": "the scan reads “his” (archive.org worksofjohnowen06owen, leaf 151, printed p. 138): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     151
+    ],
+    "page": [
+     "138"
+    ],
+    "ocr": "his",
+    "tesseract": "his"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "forth into",
+   "replace": "forth unto",
+   "count": 1,
+   "why": "the scan reads “unto” (archive.org worksofjohnowen06owen, leaf 156, printed p. 143): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     156
+    ],
+    "page": [
+     "143"
+    ],
+    "ocr": "unto",
+    "tesseract": "unto"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "by own",
+   "replace": "by our",
+   "count": 1,
+   "why": "the scan reads “our” (archive.org worksofjohnowen06owen, leaf 159, printed p. 146): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     159
+    ],
+    "page": [
+     "146"
+    ],
+    "ocr": "our",
+    "tesseract": "our"
+   },
+   "by": "press_proof"
+  },
+  {
+   "find": "is likely",
+   "replace": "is like",
+   "count": 1,
+   "why": "the scan reads “like” (archive.org worksofjohnowen06owen, leaf 161, printed p. 148): its OCR and a fresh Tesseract read agree against the transcription",
+   "evidence": {
+    "ia": "worksofjohnowen06owen",
+    "leaf": [
+     161
+    ],
+    "page": [
+     "148"
+    ],
+    "ocr": "like",
+    "tesseract": "like"
+   },
+   "by": "press_proof"
+  }
+ ]
+}
