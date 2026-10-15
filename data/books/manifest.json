@@ -827,7 +827,7 @@
    "citation": "BDB entry id (BDB1-BDB9000s); Strong's number where mapped",
    "resolution": "entry",
    "honesty": "exact text, partial keying",
-   "note": "Unabridged. 9,176 of 10,022 entries carry a Strong's number; the rest are cross-reference and sub-root entries with no Strong's equivalent. Scripture citations are recorded in the source's own (Hebrew/BHS) versification and are NOT resolved to kjv: unit ids -- Psalms superscriptions shift the numbering. 20044 navigation/header furniture blocks stripped; 11 refs above H8674 dropped as extended Strong's prefix/particle codes."
+   "note": "Unabridged. 9,176 of 10,022 entries carry a Strong's number; the rest are cross-reference and sub-root entries with no Strong's equivalent. Scripture citations are recorded in the source's own (Hebrew/BHS) versification (`osis`, as stated) and resolved to a kjv: unit id (`target`) through the Hebrew->KJV map data/versification/bhs-kjv.json (STEPBible TVTMS, CC BY 4.0): 137,780 resolved, 1,345 left unresolved with the reason (psalm titles, which the KJV does not number; references that name no Hebrew verse; NT references). 20044 navigation/header furniture blocks stripped; 11 refs above H8674 dropped as extended Strong's prefix/particle codes."
   }
  },
  "thayer": {
