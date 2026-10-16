@@ -323,5 +323,80 @@
       "due": "2026-10-06T00:00:00.000Z"
     },
     "history": []
+  },
+  {
+    "id": "2188eaf9-9b72-5cbe-a1c9-c7adc3f7ca91",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "The Elixir",
+    "source": "George Herbert, The Temple (1633)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "Teach me, my God and King,\n  In all things Thee to see,\nAnd what I do in anything,\n  To do it as for Thee.\n\n   *   *   *   *\n\nAll may of Thee partake:\n  Nothing can be so mean\nWhich with this tincture (for Thy sake)\n  Will not grow bright and clean.\n\nA servant with this clause\n  Makes drudgery divine:\nWho sweeps a room as for Thy laws,\n  Makes that and th' action fine.\n\nThis is the famous stone\n  That turneth all to gold;\nFor that which God doth touch and own\n  Cannot for less be told.",
+    "notes": "AmblesideOnline Year 8, Term 2.\nText: Golden Numbers: A Book of Verse for Youth, Project Gutenberg #34237.\nUS public domain: first published 1633 in The Temple, before 1931. The text is from Golden Numbers: A Book of Verse for Youth, Project Gutenberg #34237, which Gutenberg issues as US public domain (no copyright notice in its header); the file does not date its edition.\nWord Hoard poetry:george-herbert.the-elixir · wh-NSZQZE6GFW",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y8",
+      "ao-y8-t2",
+      "george-herbert"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "572b8f9e-6b9a-547c-b992-2ba087d2d27d",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "Discipline",
+    "source": "George Herbert, The Temple (1633)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "THROW away Thy rod,\nThrow away Thy wrath;\n      O my God,\nTake the gentle path!\n\nFor my heart's desire\nUnto Thine is bent:\n      I aspire\nTo a full consent.\n\nNot a word or look\nI affect to own,\n      But by book,\nAnd Thy Book alone.\n\nThough I fail, I weep;\nThough I halt in pace,\n      Yet I creep\nTo the throne of grace.\n\nThen let wrath remove;\nLove will do the deed;\n      For with love\nStony hearts will bleed.\n\nLove is swift of foot;\nLove 's a man of war,\n      And can shoot,\nAnd can hit from far.\n\nWho can 'scape his bow?\nThat which wrought on Thee,\n      Brought Thee low,\nNeeds must work on me.\n\nThrow away Thy rod;\nThough man frailties hath,\n      Thou art God:\nThrow away Thy wrath!",
+    "notes": "AmblesideOnline Year 8, Term 2.\nText: Bulchevy's Book of English Verse, Project Gutenberg #1304.\nUS public domain: first published 1633 in The Temple, before 1931. The text is from Bulchevy's Book of English Verse, Project Gutenberg #1304, which Gutenberg issues as US public domain (no copyright notice in its header); the file does not date its edition.\nWord Hoard poetry:george-herbert.discipline · wh-3PA9NZF0ZW",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y8",
+      "ao-y8-t2",
+      "george-herbert"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "89d14a09-ec27-5d65-8228-2ac85334a2be",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "The Pulley",
+    "source": "George Herbert, The Temple (1633)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "      WHEN God at first made Man,\n      Having a glass of blessings standing by--\nLet us (said He) pour on him all we can;\nLet the world's riches, which dispersed lie,\n      Contract into a span.\n\n      So strength first made a way,\nThen beauty flow'd, then wisdom, honour, pleasure:\nWhen almost all was out, God made a stay,\nPerceiving that, alone of all His treasure,\n      Rest in the bottom lay.\n\n      For if I should (said He)\nBestow this jewel also on My creature,\nHe would adore My gifts instead of Me,\nAnd rest in Nature, not the God of Nature:\n      So both should losers be.\n\n      Yet let him keep the rest,\nBut keep them with repining restlessness;\nLet him be rich and weary, that at least,\nIf goodness lead him not, yet weariness\n      May toss him to My breast.",
+    "notes": "AmblesideOnline Year 8, Term 2.\nText: Bulchevy's Book of English Verse, Project Gutenberg #1304.\nUS public domain: first published 1633 in The Temple, before 1931. The text is from Bulchevy's Book of English Verse, Project Gutenberg #1304, which Gutenberg issues as US public domain (no copyright notice in its header); the file does not date its edition.\nWord Hoard poetry:george-herbert.the-pulley · wh-837S14MJ18",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y8",
+      "ao-y8-t2",
+      "george-herbert"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
   }
 ]

@@ -407,8 +407,8 @@
     "source": "William Blake, Songs of Innocence (1789)",
     "category": "Poetry",
     "translation": "",
-    "text": "Can I see another's woe,\nAnd not be in sorrow too?\nCan I see another's grief,\nAnd not seek for kind relief?\n\nCan I see a falling tear,\nAnd not feel my sorrow's share?\nCan a father see his child\nWeep, nor be with sorrow filled?\n\nCan a mother sit and hear\nAn infant groan, an infant fear?\nNo, no! never can it be!\nNever, never can it be!\n\nAnd can He who smiles on all\nHear the wren with sorrows small,\nHear the small bird's grief and care,\nHear the woes that infants bear--\n\nAnd not sit beside the nest,\nPouring pity in their breast,\nAnd not sit the cradle near,\nWeeping tear on infant's tear?\n\nAnd not sit both night and day,\nWiping all our tears away?\nO no! never can it be!\nNever, never can it be!\n\nHe doth give His joy to all:\nHe becomes an infant small,\nHe becomes a man of woe,\nHe doth feel the sorrow too.\n\nThink not thou canst sigh a sigh,\nAnd thy Maker is not by:\nThink not thou canst weep a tear,\nAnd thy Maker is not near.\n\nO He gives to us His joy,\nThat our grief He may destroy:\nTill our grief is fled and gone\nHe doth sit by us and moan.",
-    "notes": "AmblesideOnline Year 3, Term 1.\nText: Songs of Innocence and Songs of Experience (R. Brimley Johnson, London) (1901), Project Gutenberg #1934.\nUS public domain: the text hosted here is from Songs of Innocence and Songs of Experience (R. Brimley Johnson, London) (1901), published before 1931, so its 95-year US term has run out. Project Gutenberg #1934. First published 1789 in Songs of Innocence.\nWord Hoard poetry:william-blake.on-anothers-sorrow · wh-8F4SSCGFJN",
+    "text": "Can I see another's woe,\nAnd not be in sorrow too?\nCan I see another's grief,\nAnd not seek for kind relief?\n\nCan I see a falling tear,\nAnd not feel my sorrow's share?\nCan a father see his child\nWeep, nor be with sorrow filled?\n\nCan a mother sit and hear\nAn infant groan, an infant fear?\nNo, no!  never can it be!\nNever, never can it be!\n\nAnd can He who smiles on all\nHear the wren with sorrows small,\nHear the small bird's grief and care,\nHear the woes that infants bear--\n\nAnd not sit beside the next,\nPouring pity in their breast,\nAnd not sit the cradle near,\nWeeping tear on infant's tear?\n\nAnd not sit both night and day,\nWiping all our tears away?\nOh no! never can it be!\nNever, never can it be!\n\nHe doth give his joy to all:\nHe becomes an infant small,\nHe becomes a man of woe,\nHe doth feel the sorrow too.\n\nThink not thou canst sigh a sigh,\nAnd thy Maker is not by:\nThink not thou canst weep a tear,\nAnd thy Maker is not near.\n\nOh He gives to us his joy,\nThat our grief He may destroy:\nTill our grief is fled an gone\nHe doth sit by us and moan.",
+    "notes": "AmblesideOnline Year 3, Term 1.\nText: Poems of William Blake, Project Gutenberg #574.\nUS public domain: first published 1789 in Songs of Innocence, before 1931. The text is from Poems of William Blake, Project Gutenberg #574, which Gutenberg issues as US public domain (no copyright notice in its header); the file does not date its edition.\nWord Hoard poetry:william-blake.on-anothers-sorrow · wh-8F4SSCGFJN",
     "tags": [
       "poetry",
       "ao",
@@ -609,6 +609,181 @@
     "translation": "",
     "text": "I love to rise in a summer morn,\n   When the birds sing on every tree;\nThe distant huntsman winds his horn,\n   And the skylark sings with me:\n   O what sweet company!\n\nBut to go to school in a summer morn,--\n   O it drives all joy away!\nUnder a cruel eye outworn,\n   The little ones spend the day\n   In sighing and dismay.\n\nAh then at times I drooping sit,\n   And spend many an anxious hour;\nNor in my book can I take delight,\n   Nor sit in learning's bower,\n   Worn through with the dreary shower.\n\nHow can the bird that is born for joy\n   Sit in a cage and sing?\nHow can a child, when fears annoy,\n   But droop his tender wing,\n   And forget his youthful spring!\n\nO father and mother if buds are nipped,\n   And blossoms blown away;\nAnd if the tender plants are stripped\n   Of their joy in the springing day,\n   By sorrow and care's dismay,--\n\nHow shall the summer arise in joy,\n   Or the summer fruits appear?\nOr how shall we gather what griefs destroy,\n   Or bless the mellowing year,\n   When the blasts of winter appear?",
     "notes": "AmblesideOnline Year 3, Term 1.\nText: Songs of Innocence and Songs of Experience (R. Brimley Johnson, London) (1901), Project Gutenberg #1934.\nUS public domain: the text hosted here is from Songs of Innocence and Songs of Experience (R. Brimley Johnson, London) (1901), published before 1931, so its 95-year US term has run out. Project Gutenberg #1934. First published 1789 in Songs of Innocence.\nWord Hoard poetry:william-blake.the-schoolboy · wh-672T8CBNXF",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y3",
+      "ao-y3-t1",
+      "william-blake"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "ab6308ce-1b1c-5bc1-9b78-347cd3c77bfa",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "The Wild Flower's Song",
+    "source": "William Blake",
+    "category": "Poetry",
+    "translation": "",
+    "text": "As I wandered in the forest\n  The green leaves among,\nI heard a wild flower\n  Singing a song.\n\n“I slept in the earth\n  In the silent night;\nI murmured my thoughts,\n  And I felt delight.\n\n“In the morning I went,\n  As rosy as morn,\nTo seek for new joy,\n  But I met with scorn.”",
+    "notes": "AmblesideOnline Year 3, Term 1.\nText: Poems by William Blake, ed. Alice Meynell (Blackie, Red Letter Library) (1911), Project Gutenberg #79363.\nUS public domain: the text hosted here is from Poems by William Blake, ed. Alice Meynell (Blackie, Red Letter Library) (1911), published before 1931, so its 95-year US term has run out. Project Gutenberg #79363.\nWord Hoard poetry:william-blake.the-wild-flowers-song · wh-HM89MRXQ0A",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y3",
+      "ao-y3-t1",
+      "william-blake"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "dda9ce26-08db-552f-8398-0c87635993fd",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "To Spring",
+    "source": "William Blake, Poetical Sketches (1783)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "O thou with dewy locks, who lookest down\nThrough the clear windows of the morning, turn\nThine angel eyes upon our western isle,\nWhich in full choir hails thy approach, O Spring!\n\nThe hills tell each other, and the listening\nValleys hear; all our longing eyes are turned\nUp to thy bright pavilions: issue forth,\nAnd let thy holy feet visit our clime!\n\nCome o’er the eastern hills, and let our winds\nKiss thy perfumed garments; let us taste\nThy morn and evening breath; scatter thy pearls\nUpon our lovesick land that mourns for thee.\n\nO deck her forth with thy fair fingers; pour\nThy soft kisses on her bosom; and put\nThy golden crown upon her languished head,\nWhose modest tresses were bound up for thee!",
+    "notes": "AmblesideOnline Year 3, Term 1.\nText: Poems by William Blake, ed. Alice Meynell (Blackie, Red Letter Library) (1911), Project Gutenberg #79363.\nUS public domain: the text hosted here is from Poems by William Blake, ed. Alice Meynell (Blackie, Red Letter Library) (1911), published before 1931, so its 95-year US term has run out. Project Gutenberg #79363. First published 1783 in Poetical Sketches.\nWord Hoard poetry:william-blake.to-spring · wh-ZK6HHZC2ZT",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y3",
+      "ao-y3-t1",
+      "william-blake"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "aa474905-10bc-53e5-8d4f-b1fe8248b916",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "To Summer",
+    "source": "William Blake, Poetical Sketches (1783)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "O thou who passest through our valleys in\nThy strength, curb thy fierce steeds, allay the heat\nThat flames from their large nostrils! Thou, O Summer,\nOft pitchedst here thy golden tent, and oft\nBeneath our oaks hast slept, while we beheld\nWith joy thy ruddy limbs and flourishing hair.\n\nBeneath our thickest shades we oft have heard\nThy voice, when Noon upon his fervid car\nRode o’er the deep of heaven. Beside our springs\nSit down, and in our mossy valleys, on\nSome bank beside a river clear, throw thy\nSilk draperies off, and rush into the stream!\nOur valleys love the Summer in his pride.\n\nOur bards are famed who strike the silver wire:\nOur youth are bolder than the southern swains,\nOur maidens fairer in the sprightly dance.\nWe lack not songs, nor instruments of joy,\nNor echoes sweet, nor waters clear as heaven,\nNor laurel wreaths against the sultry heat.",
+    "notes": "AmblesideOnline Year 3, Term 1.\nText: Poems by William Blake, ed. Alice Meynell (Blackie, Red Letter Library) (1911), Project Gutenberg #79363.\nUS public domain: the text hosted here is from Poems by William Blake, ed. Alice Meynell (Blackie, Red Letter Library) (1911), published before 1931, so its 95-year US term has run out. Project Gutenberg #79363. First published 1783 in Poetical Sketches.\nWord Hoard poetry:william-blake.to-summer · wh-EJ7YDY76FA",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y3",
+      "ao-y3-t1",
+      "william-blake"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "62b86445-9635-522f-86a7-5898d66e4389",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "To Autumn",
+    "source": "William Blake, Poetical Sketches (1783)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "O Autumn, laden with fruit, and stained\nWith the blood of the grape, pass not, but sit\nBeneath my shady roof; there thou mayst rest,\nAnd tune thy jolly voice to my fresh pipe,\nAnd all the daughters of the year shall dance!\nSing now the lusty song of fruits and flowers.\n\n“The narrow bud opens her beauties to\nThe sun, and love runs in her thrilling veins;\nBlossoms hang round the brows of Morning, and\nFlourish down the bright cheek of modest Eve,\nTill clustering Summer breaks forth into singing,\nAnd feathered clouds strew flowers round her head.\n\n“The Spirits of the Air live on the smells\nOf fruit; and Joy, with pinions light, roves round\nThe gardens, or sits singing in the trees.”\nThus sang the jolly Autumn as he sat;\nThen rose, girded himself, and o’er the bleak\nHills fled from our sight; but left his golden load.",
+    "notes": "AmblesideOnline Year 3, Term 1.\nText: Poems by William Blake, ed. Alice Meynell (Blackie, Red Letter Library) (1911), Project Gutenberg #79363.\nUS public domain: the text hosted here is from Poems by William Blake, ed. Alice Meynell (Blackie, Red Letter Library) (1911), published before 1931, so its 95-year US term has run out. Project Gutenberg #79363. First published 1783 in Poetical Sketches.\nWord Hoard poetry:william-blake.to-autumn · wh-ZKBW8GJ4C5",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y3",
+      "ao-y3-t1",
+      "william-blake"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "c1c0f0e5-3237-55c9-ac31-3e72b7e0c20a",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "To Winter",
+    "source": "William Blake, Poetical Sketches (1783)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "O Winter! bar thine adamantine doors:\nThe North is thine; there hast thou built thy dark\nDeep-founded habitation. Shake not thy roofs,\nNor bend thy pillars with thine iron car.\n\nHe hears me not, but o’er the yawning deep\nRides heavy; his storms are unchained, sheathed\nIn ribbed steel; I dare not lift mine eyes;\nFor he hath reared his sceptre o’er the world.\n\nLo! now the direful monster, whose skin clings\nTo his strong bones, strides o’er the groaning rocks:\nHe withers all in silence, and in his hand\nUnclothes the earth, and freezes up frail life.\n\nHe takes his seat upon the cliffs,—the mariner\nCries in vain. Poor little wretch, that deal’st\nWith storms!—till heaven smiles, and the monster\nIs driv’n yelling to his caves beneath Mount Hecla.",
+    "notes": "AmblesideOnline Year 3, Term 1.\nText: Poems by William Blake, ed. Alice Meynell (Blackie, Red Letter Library) (1911), Project Gutenberg #79363.\nUS public domain: the text hosted here is from Poems by William Blake, ed. Alice Meynell (Blackie, Red Letter Library) (1911), published before 1931, so its 95-year US term has run out. Project Gutenberg #79363. First published 1783 in Poetical Sketches.\nWord Hoard poetry:william-blake.to-winter · wh-05G4F6CWEJ",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y3",
+      "ao-y3-t1",
+      "william-blake"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "15848372-0f54-5288-9cd7-50bb11a5436c",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "To the Evening Star",
+    "source": "William Blake, Poetical Sketches (1783)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "Thou fair-haired Angel of the Evening,\nNow, whilst the sun rests on the mountains, light\nThy bright torch of love: thy radiant crown\nPut on, and smile upon our evening bed!\nSmile on our loves; and, while thou drawest the\nBlue curtains of the sky, scatter thy silver dew\nOn every flower that shuts its sweet eyes\nIn timely sleep. Let thy west wind sleep on\nThe lake; speak silence with thy glimmering eyes,\nAnd wash the dusk with silver.—Soon, full soon,\nDost thou withdraw; then the wolf rages wide,\nAnd the lion glares through the dun forest.\nThe fleeces of our flocks are covered with\nThy sacred dew: protect them with thine\ninfluence!",
+    "notes": "AmblesideOnline Year 3, Term 1.\nText: Poems by William Blake, ed. Alice Meynell (Blackie, Red Letter Library) (1911), Project Gutenberg #79363.\nUS public domain: the text hosted here is from Poems by William Blake, ed. Alice Meynell (Blackie, Red Letter Library) (1911), published before 1931, so its 95-year US term has run out. Project Gutenberg #79363. First published 1783 in Poetical Sketches.\nWord Hoard poetry:william-blake.to-the-evening-star · wh-94A4C3YTWX",
+    "tags": [
+      "poetry",
+      "ao",
+      "ao-y3",
+      "ao-y3-t1",
+      "william-blake"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "26b38e61-9d7f-5739-ac21-6b537283c029",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "To Morning",
+    "source": "William Blake, Poetical Sketches (1783)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "O holy virgin, clad in purest white,\nUnlock heaven’s golden gates, and issue forth;\nAwake the dawn that sleeps in heaven; let light\nRise from the chambers of the east, and bring\nThe honeyed dew that cometh on waking day.\nO radiant Morning, salute the Sun,\nRoused like a huntsman to the chase, and with\nThy buskined feet appear upon our hills.",
+    "notes": "AmblesideOnline Year 3, Term 1.\nText: Poems by William Blake, ed. Alice Meynell (Blackie, Red Letter Library) (1911), Project Gutenberg #79363.\nUS public domain: the text hosted here is from Poems by William Blake, ed. Alice Meynell (Blackie, Red Letter Library) (1911), published before 1931, so its 95-year US term has run out. Project Gutenberg #79363. First published 1783 in Poetical Sketches.\nWord Hoard poetry:william-blake.to-morning · wh-GAPVMX1HAP",
     "tags": [
       "poetry",
       "ao",

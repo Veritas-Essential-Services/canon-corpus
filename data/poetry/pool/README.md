@@ -9,4 +9,4 @@ Every poem found in 55 pre-1931 anthologies, school readers and recitation books
 
 **Known gaps:** authors are left as each book prints them, or null; first lines and verse or prose were found by heuristics; several well-known anthologies (Stedman, Heart Throbs, Stevenson's Home Book of Verse for Young Folks) are not on Gutenberg and are not counted.
 
-Rebuild: `pipeline/merge_poetry_pool.py <dir>`, where `<dir>` holds `rows/*.jsonl` and `src/*.json`; the per-book rows, texts and parsers are in the project's shared folder under `poetry-pool/`.
+Rebuild: `pipeline/merge_poetry_pool.py <dir>`, where `<dir>` holds `rows/*.jsonl` and `src/*.json`. The per-book rows are in `rows/` here, `pool.csv` is the culling sheet, the parsers are in `pipeline/poetry_pool/`, and the books re-fetch with `pipeline/poetry_pool/fetch_texts.py` (2026-10-13; before that they lived only in the project's shared folder).
