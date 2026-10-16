@@ -835,6 +835,21 @@ BODY_RULES = {
         "stop_at": r"^End of (the )?Project Gutenberg",   # the 2004 file's closing line
         "scrub": [r"(?m)^CONTENTS[ \t]*\n(?:[ \t]*\n)*(?:Stave[^\n]*\n)+"],
     },
+    # G. A. Henty (2026-10-16). Each keeps its Preface (Henty's own letter to "my dear lads") and stops at
+    # THE END. A chapter heading is two paragraphs in the source ("CHAPTER I." then "THE KING OF THE
+    # REBU."); `rewrite` joins them into one heading line, AFTER the scrubs, so the Contents scrub can
+    # still find the bare "CHAPTER I." line it stops at.
+    "henty-bubastes": {
+        "start_at": r"^PREFACE\.?$", "stop_at": r"^THE END\.?$",
+        "scrub": [r"(?m)^CONTENTS\.[ \t]*\n.*?(?=^CHAPTER I\.[ \t]*$)",   # the Contents (after the Preface here)
+                  r"\[Illustration[^\]]*\]"],
+        "rewrite": [(r"(?m)^[ \t]*(CHAPTER [IVXLC]+\.)[ \t]*\n(?:[ \t]*\n)+[ \t]*([^\n]{2,70}?)[ \t]*$", r"\1 \2")],
+    },
+    "henty-freedom": {
+        "start_at": r"^PREFACE\.?$", "stop_at": r"^THE END\.?$",   # the Contents comes before the Preface: cut
+        "scrub": [r"\[Illustration[^\]]*\]"],
+        "rewrite": [(r"(?m)^[ \t]*(Chapter [IVXLC]+)[ \t]*\n(?:[ \t]*\n)+[ \t]*([^\n]{2,70}?)[ \t]*$", r"\1. \2")],
+    },
     "beowulf": {
         "start_at": r"^I\.\s*$", "start_min_line": 900,
         "stop_at":  r"^ADDENDA\.",
@@ -897,6 +912,8 @@ def apply_body_rules(raw, slug):
     text = "\n".join(lines)
     for pat in r.get("scrub", []):
         text = re.compile(pat, re.S).sub(" ", text)
+    for pat, rep in r.get("rewrite", []):     # (2026-10-16) reshape, never remove: e.g. join a two-line heading
+        text = re.compile(pat).sub(rep, text)
     lines = text.splitlines()
     note = (f"apparatus removed by BODY_RULES: kept {len(lines)} of {n0} source "
             f"lines; the remainder is front matter, glossary, appendix or "
@@ -954,7 +971,22 @@ def _carol_division(h):
     title = " ".join(w if i and w in small else w[:1].upper() + w[1:] for i, w in enumerate(words))
     return f"Stave {m.group(1).upper()}: {title}", f"stave{sh_roman(m.group(1))}"
 
-PROSE_DIVISIONS = {"dickens-carol": _carol_division}
+# Title case for a heading printed in capitals ("HOME AT LAST." -> "Home at Last"); small words stay small.
+def _title_case(s):
+    small = {"a", "an", "and", "of", "the", "to", "in", "at", "on", "for", "by", "with", "from", "or"}
+    words = re.sub(r"\s+", " ", s).strip().rstrip(".").lower().split()
+    return " ".join(w if i and w in small else w[:1].upper() + w[1:] for i, w in enumerate(words))
+
+# Henty (2026-10-16): "CHAPTER I. THE KING OF THE REBU." -> ("Chapter I: The King of the Rebu", "ch1").
+def _henty_division(h):
+    m = re.match(r"^CHAPTER\s+([IVXLC]+)\.?\s*(.*)$", h, re.I)
+    if not m:
+        return "Preface", "preface"
+    t = _title_case(m.group(2))
+    return (f"Chapter {m.group(1).upper()}: {t}" if t else f"Chapter {m.group(1).upper()}"), f"ch{sh_roman(m.group(1))}"
+
+PROSE_DIVISIONS = {"dickens-carol": _carol_division,
+                   "henty-bubastes": _henty_division, "henty-freedom": _henty_division}
 
 def convert_gutenberg_prose(path, slug, title, author, chapre):
     """Prose: paragraphs grouped under detected chapter headings."""
@@ -981,6 +1013,136 @@ def convert_gutenberg_prose(path, slug, title, author, chapre):
             "scheme": {"apparatus": apparatus_note, "citation": "chapter + paragraph", "resolution": "paragraph",
                        "honesty": "chapter headings detected; paragraph running within chapter"},
             "units": units}
+
+# ---------------------------------------------------------------- scans (archive.org OCR)
+# Alfred J. Church's "for Boys and Girls" Homer (2026-10-16) exists only as library scans. Their OCR
+# text carries every printed page's furniture: a page number, a running head in capitals (the book's
+# title on one page, the chapter's on the facing one), plate captions in capitals, and scanner specks.
+# The rules, in order:
+#   - the work starts at the first "CHAPTER" line (everything before is title page, Contents, plates);
+#   - a "CHAPTER <n>" line opens a chapter the FIRST time that number is seen; its title is the lines
+#     in capitals that follow it, up to the first line with a lower-case letter, another CHAPTER line,
+#     or the book's own running head (any line naming "BOYS" or "GIRLS"). A repeat of the same number
+#     (the half-title and the plate pages print the heading twice more) is skipped;
+#   - `extra_heads` names unnumbered sections ("THE END OF TROY"), opened the same way;
+#   - every other line with no lower-case letter is furniture and is dropped: page numbers, running
+#     heads, captions, specks. So is a line of four characters or fewer without two letters together;
+#   - paragraphs end at a blank line, and also at a line that ends a sentence while falling well short
+#     of the measure (under 3/4 of the median line): the scan's text often runs a page's paragraphs
+#     together with no blank line between them, and a paragraph's last line is the short one;
+#   - a heading's OCR specks (a trailing "*" or "»") are trimmed, and `heading_fixes` mends a misread
+#     word in a heading only (the text itself is left as read);
+#   - paragraphs are the blocks that remain. A page break cuts paragraphs mid-sentence, so a
+#     block that does not end a sentence (. ! ? or a closing quote or bracket) is joined to the next;
+#   - a line ending in "-" before a lower-case letter is a word broken at the margin and is rejoined.
+# What this cannot do (stated in the book's honesty field): correct the OCR's own misreadings, keep a
+# real one-word line in capitals ("O!"), or tell a paragraph that ends exactly at a page's foot from one
+# the page break cut. It is unproofread OCR and says so.
+RE_OCR_CHAPTER = re.compile(r"^CHAPTER\s+([IVXLC1l]+)\s*\.?$")
+
+def _ocr_join(lines):
+    out = ""
+    for ln in lines:
+        ln = re.sub(r"\s+", " ", ln).strip()
+        if not ln:
+            continue
+        if out.endswith("-") and ln[:1].islower():
+            out = out[:-1] + ln
+        else:
+            out = (out + " " + ln) if out else ln
+    return out
+
+def convert_archive_ocr_prose(path, slug, title, author, ident, extra_heads=(), heading_fixes=None):
+    raw = open(path, encoding="utf-8", errors="replace").read()
+    lines = raw.splitlines()
+    start = next((i for i, l in enumerate(lines) if RE_OCR_CHAPTER.match(re.sub(r"\s+", " ", l.strip()))), 0)
+    body = sorted(len(re.sub(r"\s+", " ", l.strip())) for l in lines[start:] if re.search(r"[a-z].*[a-z].*[a-z]", l))
+    short = 0.75 * body[len(body) // 2] if body else 0
+    TERMINAL = re.compile(r"[.!?\"\u201d\u2019')\]]$")
+    def fix_heading(t):
+        t = re.sub(r"[^A-Za-z]+$", "", t).strip()
+        for bad, good in (heading_fixes or {}).items():
+            t = re.sub(rf"\b{re.escape(bad)}\b", good, t)
+        return t
+    extras = {re.sub(r"\s+", " ", h).upper(): h for h in extra_heads}
+    divisions, seen = [], set()      # [ (label, key, [paragraph blocks]) ]
+    block, blocks = [], None
+    i, dropped = start, 0
+    def flush():
+        nonlocal block
+        if block and blocks is not None:
+            blocks.append(block)
+        block = []
+    while i < len(lines):
+        s = re.sub(r"\s+", " ", lines[i].strip())
+        m = RE_OCR_CHAPTER.match(s)
+        if m or s.upper() in extras:
+            flush()
+            if m:
+                num = sh_roman(m.group(1).replace("1", "I").replace("l", "I"))
+                tag = f"ch{num}"
+            else:
+                tag = re.sub(r"[^a-z]+", "-", s.lower()).strip("-")
+            j, tparts = i + 1, []
+            if m:
+                while j < len(lines):
+                    t = re.sub(r"\s+", " ", lines[j].strip())
+                    if not t:
+                        j += 1; continue
+                    if re.search(r"[a-z]", t) or RE_OCR_CHAPTER.match(t) or re.search(r"BOYS|GIRLS", t):
+                        break
+                    tparts.append(t); j += 1
+            if tag not in seen:
+                seen.add(tag)
+                if m:
+                    tt = fix_heading(_title_case(" ".join(tparts)))
+                    label = f"Chapter {sh_roman_to_str(num)}: {tt}" if tt else f"Chapter {sh_roman_to_str(num)}"
+                else:
+                    label = _title_case(extras[s.upper()])
+                blocks = []
+                divisions.append((label, tag, blocks))
+            i = j if m else i + 1
+            continue
+        if not s:
+            flush()
+        elif not re.search(r"[a-z]", s) or (len(s) <= 4 and not re.search(r"[A-Za-z]{2}", s)):
+            dropped += 1                  # page number, running head, caption, speck
+        else:
+            block.append(s)
+            if TERMINAL.search(s) and len(s) < short:
+                flush()                   # a short last line: the paragraph ends here
+        i += 1
+    flush()
+    units = []
+    for label, key, bl in divisions:
+        paras = []
+        for b in bl:
+            text = _ocr_join(b)
+            if paras and (not TERMINAL.search(paras[-1]) or text[:1].islower()):
+                paras[-1] = _ocr_join([paras[-1], text])   # a page break cut this paragraph
+            else:
+                paras.append(text)
+        for n, p in enumerate(paras, 1):
+            units.append({"id": f"{slug}:{key}.{n}", "ref": f"{label}, par. {n}", "text": p, "links": []})
+    return {"slug": slug, "title": title, "author": author,
+            "source": {"path": os.path.relpath(path, CORPUS), "format": "archive-ocr",
+                       "archive_id": ident, "sha256": sha256(path)},
+            "scheme": {"apparatus": f"page furniture removed by rule ({dropped} lines: page numbers, running heads, "
+                                    f"plate captions, scanner specks); paragraphs cut by page breaks rejoined",
+                       "citation": "chapter + paragraph", "resolution": "paragraph",
+                       "honesty": f"UNPROOFREAD OCR of a library scan (archive.org {ident}): the scanner's misreadings "
+                                  f"stand; a paragraph that ended exactly at a page's foot may be joined to the next "
+                                  f"or vice versa; chapter headings read from the scan, paragraph running within chapter"},
+            "units": units}
+
+def sh_roman_to_str(n):
+    vals = [(1000, "M"), (900, "CM"), (500, "D"), (400, "CD"), (100, "C"), (90, "XC"), (50, "L"),
+            (40, "XL"), (10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I")]
+    out = ""
+    for v, r in vals:
+        while n >= v:
+            out += r; n -= v
+    return out
 
 RE_CONTENTS_HEAD = re.compile(r"^\s*(TABLE OF )?CONTENTS\.?\s*$", re.I | re.M)
 RE_CONTENTS_NUM = re.compile(r"^(?:CHAPTER|CHAP\.)?\s*(?:[IVXLC]+|\d+)?\s*[.:)]?\s*", re.I)
@@ -1474,6 +1636,16 @@ GUTEN_PROSE = {
                         r"^(PART\s+\w+|Chapter\s+\d+|[0-9]+\.)"),
     # Upper case only: the Contents spells the staves in title case and is scrubbed.
     "dickens-carol": ("A Christmas Carol", "Charles Dickens", r"^(PREFACE|STAVE\s+[IVX]+:.*)$"),
+    "henty-bubastes": ("The Cat of Bubastes: A Tale of Ancient Egypt", "G. A. Henty",
+                       r"^(PREFACE\.?|CHAPTER\s+[IVXLC]+\.\s+\S.*)$"),
+    "henty-freedom": ("In Freedom's Cause: A Story of Wallace and Bruce", "G. A. Henty",
+                      r"^(PREFACE\.?|Chapter\s+[IVXLC]+\.\s+\S.*)$"),
+}
+# Scans (fetch_sources.ARCHIVE_OCR): slug -> (title, author, unnumbered section headings)
+ARCHIVE_PROSE = {
+    "church-iliad-boys": ("The Iliad for Boys and Girls", "Alfred J. Church", ("THE END OF TROY",),
+                          {"Phcenix": "Phoenix"}),     # heading OCR fixes (rule 2: by rule, never by hand)
+    "church-odyssey-boys": ("The Odyssey for Boys and Girls", "Alfred J. Church", (), {}),
 }
 
 # ---------------------------------------------------------------- driver
@@ -1548,6 +1720,13 @@ def main():
         if os.path.exists(path):
             jobs.append((slug, lambda p=path, s=slug, t=title, a=author, c=chapre:
                          convert_gutenberg_prose(p, s, t, a, c)))
+    import fetch_sources as _fsa
+    for slug, (title, author, extra, hfix) in ARCHIVE_PROSE.items():
+        path = os.path.join(CORPUS, "archive", slug + ".txt")
+        if os.path.exists(path):
+            ident = _fsa.ARCHIVE_OCR[slug][0]
+            jobs.append((slug, lambda p=path, s=slug, t=title, a=author, i=ident, x=extra, h=hfix:
+                         convert_archive_ocr_prose(p, s, t, a, i, x, h)))
     # Author shelves declared in fetch_sources.py (Chesterton, 2026-09-29):
     # headings come from each book's own Contents, not a hand-written regex.
     import fetch_sources as _fs

@@ -460,5 +460,63 @@ check("carol: staves are clean ids, titled refs, no Contents or title page",
 check("carol: the default division ids are unchanged for every other book",
       [u["id"] for u in _eb["units"]] == ["t:On_Lamps.1", "t:On_Lamps.2", "t:The_Mock_Goose.1"])
 
+# G. A. Henty (2026-10-16): a two-paragraph heading ("CHAPTER I." / "A TITLE.") becomes one titled
+# division; the Contents (after the Preface in one book, before it in the other) is not text; the
+# Preface is kept. Fixtures are invented text in the two PG files' shapes.
+def _prose(slug, body):
+    global _fh
+    with _tf.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as _fh:
+        _fh.write(body)
+    saved = st.CORPUS; st.CORPUS = os.path.dirname(_fh.name)
+    try:
+        return st.convert_gutenberg_prose(_fh.name, slug, *st.GUTEN_PROSE[slug])
+    finally:
+        st.CORPUS = saved; os.unlink(_fh.name)
+_hb = _prose("henty-bubastes", "TITLE PAGE\n\nPREFACE.\n\nMy dear lads, a letter.\n\nYours, G. A. H.\n\n\nCONTENTS.\n\n\n"
+             " CHAPTER I.                   PAGE\n The First Thing                7\n\n CHAPTER II.\n The Second    26\n\n\n"
+             "CHAPTER I.\n\nTHE FIRST THING.\n\nA paragraph.\n\nAnother.\n\nCHAPTER II.\n\nHOME AT LAST.\n\nThe end came.\n\nTHE END.\n\nAfter.\n")
+check("henty: preface kept, Contents gone, two-line headings become titled chapters",
+      [(u["id"], u["ref"]) for u in _hb["units"]] == [
+          ("henty-bubastes:preface.1", "Preface, par. 1"), ("henty-bubastes:preface.2", "Preface, par. 2"),
+          ("henty-bubastes:ch1.1", "Chapter I: The First Thing, par. 1"), ("henty-bubastes:ch1.2", "Chapter I: The First Thing, par. 2"),
+          ("henty-bubastes:ch2.1", "Chapter II: Home at Last, par. 1")])
+_hf = _prose("henty-freedom", "CONTENTS\n\n   I  Glen One\n  II  Glen Two\n\n\nPREFACE.\n\nMy dear lads.\n\n\n"
+             "Chapter I\n\nGlen One\n\n\nFirst words.\n\nChapter II\n\nThe King's Blood Hound\n\nMore words.\n\nTHE END\n")
+check("henty: title-case headings too; a Contents before the Preface is cut",
+      [(u["id"], u["ref"]) for u in _hf["units"]] == [
+          ("henty-freedom:preface.1", "Preface, par. 1"), ("henty-freedom:ch1.1", "Chapter I: Glen One, par. 1"),
+          ("henty-freedom:ch2.1", "Chapter II: The King's Blood Hound, par. 1")])
+
+# Alfred J. Church from archive.org OCR (2026-10-16): page furniture goes, headings repeated on the
+# half-title and plate pages open a chapter only once, a page break's cut paragraph is rejoined, a
+# word broken at the margin is mended, a short last line ends a paragraph, unnumbered sections open
+# by name, and a heading's speck is trimmed. Invented text in the scans' shape.
+_OCR = ("TITLE  PAGE\n\nCONTENTS\n\nI.  THE  FIRST  .  .  15\n\n"
+        "CHAPTER    I\nTHE    FIRST    TALE\n\n\nCHAPTER    I\nTHE    FIRST    TALE\n\n\n"
+        "THE    BOOK    FOR    BOYS\nAND    GIRLS\n\n\nCHAPTER    I\n\nTHE    FIRST    TALE   *\n\n"
+        "There  was  a  long  line  of  ships  upon  the\nshore  and  they  wept.\n"
+        "Then  the  king  spoke  to  them  all  and  he\nsaid  that  the  ships  must  go  over  the\n\n15\n\n\n"
+        "THE  BOOK  FOR  BOYS  AND  GIRLS\n\nj  j\n\nsea  to  the  far  and  distant  coun-\n"
+        "try  of  the  Trojans  and  so  they  all  did.\n\n"
+        "16\n\n\nTHE   FIRST   TALE\n\nThey  came  home  at  the  last  and  were  safe\nand  sound.\n\n"
+        "CHAPTER    II\n\nOF    PHCENIX\n\nA  second  tale  begins  here  and  goes  on.\n\n"
+        "THE  END  OF  TROY\n\nTHE  END  OF  TROY\n\nThe  last  words  are  these.\n")
+with _tf.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as _fh:
+    _fh.write(_OCR)
+_saved_corpus = st.CORPUS; st.CORPUS = os.path.dirname(_fh.name)
+_ob = st.convert_archive_ocr_prose(_fh.name, "t", "T", "A", "x", ("THE END OF TROY",), {"Phcenix": "Phoenix"})
+st.CORPUS = _saved_corpus; os.unlink(_fh.name)
+check("ocr: chapters once each, titled, specks trimmed, heading fixed, unnumbered section by name",
+      [(u["id"], u["ref"]) for u in _ob["units"]] == [
+          ("t:ch1.1", "Chapter I: The First Tale, par. 1"), ("t:ch1.2", "Chapter I: The First Tale, par. 2"),
+          ("t:ch1.3", "Chapter I: The First Tale, par. 3"),
+          ("t:ch2.1", "Chapter II: Of Phoenix, par. 1"), ("t:the-end-of-troy.1", "The End of Troy, par. 1")])
+check("ocr: a short last line ends a paragraph; running heads, page numbers and specks are gone",
+      _ob["units"][0]["text"] == "There was a long line of ships upon the shore and they wept."
+      and _ob["units"][1]["text"].startswith("Then the king"))
+check("ocr: a paragraph cut by a page break is one paragraph, and a word broken at the margin is mended",
+      _ob["units"][1]["text"].endswith("go over the sea to the far and distant country of the Trojans and so they all did."))
+check("ocr: the book says it is unproofread OCR", "UNPROOFREAD OCR" in _ob["scheme"]["honesty"])
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)

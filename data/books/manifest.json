@@ -1650,5 +1650,57 @@
    "resolution": "paragraph",
    "honesty": "chapter headings detected; paragraph running within chapter"
   }
+ },
+ "henty-bubastes": {
+  "title": "The Cat of Bubastes: A Tale of Ancient Egypt",
+  "author": "G. A. Henty",
+  "format": "gutenberg-txt",
+  "sha256": "fc9c9d021266a7a836ed52330d96415585d900649c1f96a99d7f6b87ca3f0558",
+  "units": 1661,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 12162 of 12320 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "henty-freedom": {
+  "title": "In Freedom's Cause: A Story of Wallace and Bruce",
+  "author": "G. A. Henty",
+  "format": "gutenberg-txt",
+  "sha256": "b290ab634f9e715d05ded654be311ad98d0cef914496ded82f4758b0a6d76542",
+  "units": 1355,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 11970 of 12091 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
+ },
+ "church-iliad-boys": {
+  "title": "The Iliad for Boys and Girls",
+  "author": "Alfred J. Church",
+  "format": "archive-ocr",
+  "sha256": "7d455cdb76a2e5e5f00a7a37b5de18de2aa77cb93345b566f127dbcc06b664ca",
+  "units": 375,
+  "scheme": {
+   "apparatus": "page furniture removed by rule (443 lines: page numbers, running heads, plate captions, scanner specks); paragraphs cut by page breaks rejoined",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "UNPROOFREAD OCR of a library scan (archive.org iliadforboysgirl00chur_0): the scanner's misreadings stand; a paragraph that ended exactly at a page's foot may be joined to the next or vice versa; chapter headings read from the scan, paragraph running within chapter"
+  }
+ },
+ "church-odyssey-boys": {
+  "title": "The Odyssey for Boys and Girls",
+  "author": "Alfred J. Church",
+  "format": "archive-ocr",
+  "sha256": "4a5809bccbca5ad7788caa4b5e5e9ecd74d2e73e16ddd69a40cb8209b1d0c060",
+  "units": 331,
+  "scheme": {
+   "apparatus": "page furniture removed by rule (455 lines: page numbers, running heads, plate captions, scanner specks); paragraphs cut by page breaks rejoined",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "UNPROOFREAD OCR of a library scan (archive.org odysseyforboysgi00chur): the scanner's misreadings stand; a paragraph that ended exactly at a page's foot may be joined to the next or vice versa; chapter headings read from the scan, paragraph running within chapter"
+  }
  }
 }

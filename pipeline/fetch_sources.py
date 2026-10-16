@@ -56,7 +56,25 @@ GUTENBERG_EXTRA = {
     "faust": 14591,               # Goethe, tr. Bayard Taylor (original metres)
     "treasure_island": 120,       # Stevenson
     "dickens-carol": 46,          # A Christmas Carol (2026-10-16, for the LibriVox read-along; KCCS November)
+    # G. A. Henty (d. 1902), the two Adam asked for as "the most popular" (2026-10-16): Gutenberg's own
+    # popularity list puts The Cat of Bubastes first, and In Freedom's Cause is the perennial classroom
+    # favourite (AmblesideOnline). Both PG headers read as public domain; no translator.
+    "henty-bubastes": 29756,      # The Cat of Bubastes: A Tale of Ancient Egypt (1889)
+    "henty-freedom": 4792,        # In Freedom's Cause: A Story of Wallace and Bruce (1885)
 }
+
+# Scans with no Gutenberg text (2026-10-16). Alfred J. Church (d. 1912) retold Homer "for Boys and
+# Girls"; Gutenberg #21584 is the LibriVox AUDIO of the Iliad only, and the Odyssey is not on
+# Gutenberg at all. These are the Internet Archive's OCR text of library scans (both marked not in
+# copyright), cleaned by rule in structure_texts.convert_archive_ocr_prose and labelled unproofread
+# OCR in their honesty field. slug: (archive.org identifier, file, note)
+ARCHIVE_OCR = {
+    "church-iliad-boys": ("iliadforboysgirl00chur_0", "iliadforboysgirl00chur_0_djvu.txt",
+        "Alfred J. Church, The Iliad for Boys and Girls (Macmillan, 1907; this scan the 1923 printing, Library of Congress)"),
+    "church-odyssey-boys": ("odysseyforboysgi00chur", "odysseyforboysgi00chur_djvu.txt",
+        "Alfred J. Church, The Odyssey for Boys and Girls (Macmillan, 1906; New York Public Library scan)"),
+}
+ARCHIVE_TXT = "https://archive.org/download/{id}/{fn}"
 GUTENBERG_TXT = "https://www.gutenberg.org/cache/epub/{id}/pg{id}.txt"
 
 CCEL_XML = "https://ccel.org/ccel/{initial}/{author}/{work}.xml"
@@ -368,6 +386,8 @@ def main():
             print(f"lexicon/{slug}: {note}")
         for slug, gid in GUTENBERG_EXTRA.items():
             print(f"gutenberg/{slug}: pg{gid}")
+        for slug, (ident, fn, note) in ARCHIVE_OCR.items():
+            print(f"archive/{slug}: {ident} -- {note}")
         return
     failures = []
     for slug, (repo, path, note) in PERSEUS.items():
@@ -391,6 +411,13 @@ def main():
             print(f"gutenberg/{slug}: {fetch(GUTENBERG_TXT.format(id=gid), dest)}")
         except Exception as e:
             failures.append(slug); print(f"gutenberg/{slug}: FAIL {e}")
+        time.sleep(0.5)
+    for slug, (ident, fn, note) in ARCHIVE_OCR.items():
+        dest = os.path.join(CORPUS, "archive", slug + ".txt")
+        try:
+            print(f"archive/{slug}: {fetch(ARCHIVE_TXT.format(id=ident, fn=fn), dest)}")
+        except Exception as e:
+            failures.append(slug); print(f"archive/{slug}: FAIL {e}")
         time.sleep(0.5)
     for slug, (url, fn, note) in LEXICONS.items():
         dest = os.path.join(CORPUS, "lexicons", fn)
