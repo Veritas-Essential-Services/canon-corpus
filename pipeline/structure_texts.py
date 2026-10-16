@@ -827,6 +827,14 @@ def _flush_verse(units, slug, abbr, div, lines):
 #                 names was sitting inside unit Beo XIV.217.
 
 BODY_RULES = {
+    # A Christmas Carol (PG 46): the title page and Leech credit come before the
+    # Preface, and the Contents (five "Stave" lines) sits between the Preface's
+    # signature and Stave I. Neither is Dickens's text.
+    "dickens-carol": {
+        "start_at": r"^PREFACE$",
+        "stop_at": r"^End of (the )?Project Gutenberg",   # the 2004 file's closing line
+        "scrub": [r"(?m)^CONTENTS[ \t]*\n(?:[ \t]*\n)*(?:Stave[^\n]*\n)+"],
+    },
     "beowulf": {
         "start_at": r"^I\.\s*$", "start_min_line": 900,
         "stop_at":  r"^ADDENDA\.",
@@ -932,23 +940,40 @@ def convert_gutenberg_verse(path, slug, title, author, abbr, divre, cantica=None
                                   "(translation lineation), 12-line blocks"},
             "units": units}
 
+# A book whose headings make poor ids ("STAVE I:  MARLEY'S GHOST" would give
+# `dickens-carol:STAVE_I:_MARLEY'S_GHOST.3`, a colon and an apostrophe inside
+# an id) names its divisions here: heading -> (label for the ref, id key).
+# A book not listed keeps the default (heading, heading with "_" for " "),
+# so every existing id is unchanged.
+def _carol_division(h):
+    m = re.match(r"^STAVE\s+([IVX]+):\s*(.+)$", h, re.I)
+    if not m:
+        return "Preface", "preface"
+    small = {"a", "an", "and", "of", "the", "to", "in"}
+    words = m.group(2).lower().split()
+    title = " ".join(w if i and w in small else w[:1].upper() + w[1:] for i, w in enumerate(words))
+    return f"Stave {m.group(1).upper()}: {title}", f"stave{sh_roman(m.group(1))}"
+
+PROSE_DIVISIONS = {"dickens-carol": _carol_division}
+
 def convert_gutenberg_prose(path, slug, title, author, chapre):
     """Prose: paragraphs grouped under detected chapter headings."""
     raw = strip_boilerplate(open(path, encoding="utf-8", errors="replace").read())
     raw, apparatus_note = apply_body_rules(raw, slug)
     CH = re.compile(chapre) if chapre else None
-    units, chap, pnum = [], None, 0
+    units, chap, key, pnum = [], None, None, 0
     for para in re.split(r"\n\s*\n", raw):
         p = re.sub(r"\s+", " ", para).strip()
         if not p:
             continue
         if CH and CH.match(p) and len(p) < 90:
             chap = re.sub(r"(\s*~)+$", "", p).rstrip(".")   # "Lamp-Posts ~ ~ ~" leaders
+            chap, key = PROSE_DIVISIONS[slug](chap) if slug in PROSE_DIVISIONS else (chap, chap.replace(' ', '_'))
             pnum = 0
             continue
         pnum += 1
         ref = f"{chap}, par. {pnum}" if chap else f"par. {pnum}"
-        cid = f"{slug}:{(chap or 'x').replace(' ', '_')}.{pnum}"
+        cid = f"{slug}:{key if chap else 'x'}.{pnum}"
         units.append({"id": cid, "ref": ref, "text": p, "links": []})
     return {"slug": slug, "title": title, "author": author,
             "source": {"path": os.path.relpath(path, CORPUS), "format": "gutenberg-txt",
@@ -1447,6 +1472,8 @@ GUTEN_PROSE = {
                   r"^(TABLET|COLUMN|CHAPTER|PART)\b"),
     "treasure_island": ("Treasure Island", "Robert Louis Stevenson",
                         r"^(PART\s+\w+|Chapter\s+\d+|[0-9]+\.)"),
+    # Upper case only: the Contents spells the staves in title case and is scrubbed.
+    "dickens-carol": ("A Christmas Carol", "Charles Dickens", r"^(PREFACE|STAVE\s+[IVX]+:.*)$"),
 }
 
 # ---------------------------------------------------------------- driver

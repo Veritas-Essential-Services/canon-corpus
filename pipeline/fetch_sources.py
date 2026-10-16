@@ -55,6 +55,7 @@ GUTENBERG_EXTRA = {
     "gilgamesh": 11000,           # Old Babylonian, tr. Jastrow & Clay
     "faust": 14591,               # Goethe, tr. Bayard Taylor (original metres)
     "treasure_island": 120,       # Stevenson
+    "dickens-carol": 46,          # A Christmas Carol (2026-10-16, for the LibriVox read-along; KCCS November)
 }
 GUTENBERG_TXT = "https://www.gutenberg.org/cache/epub/{id}/pg{id}.txt"
 

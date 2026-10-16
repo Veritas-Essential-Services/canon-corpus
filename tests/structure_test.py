@@ -436,5 +436,29 @@ check("shelf: a book with no Contents falls back to the CAPS rule",
 check("thml: <pre> verse is read only where a book opts in",
       "chesterton-whitehorse" in st.THML_PRE_VERSE and len(st.THML_PRE_VERSE) == 1)
 
+# A Christmas Carol (2026-10-16): the stave headings become clean ids and refs,
+# the Contents and the title page are not text, and the default id rule (the
+# Chesterton shelf above) is untouched. Fixture is invented text in PG 46's shape.
+_CAR = ("A CHRISTMAS CAROL\n\nby Charles Dickens\n\n\nPREFACE\n\nI HAVE endeavoured.\n\nC. D.\n\n\n"
+        "CONTENTS\n\nStave   I: Marley's Ghost\nStave  II: The First of the Three Spirits\n\n\n"
+        "STAVE I:  MARLEY'S GHOST\n\nMARLEY was dead.\n\nMind!\n\n"
+        "STAVE II:  THE FIRST OF THE THREE SPIRITS\n\nWhen Scrooge awoke.\n\n"
+        "End of the Project Gutenberg EBook of A Christmas Carol\n")
+with _tf.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as _fh:
+    _fh.write(_CAR)
+_saved_corpus = st.CORPUS
+st.CORPUS = os.path.dirname(_fh.name)
+_cb = st.convert_gutenberg_prose(_fh.name, "dickens-carol", *st.GUTEN_PROSE["dickens-carol"])
+st.CORPUS = _saved_corpus
+os.unlink(_fh.name)
+check("carol: staves are clean ids, titled refs, no Contents or title page",
+      [(u["id"], u["ref"]) for u in _cb["units"]] == [
+          ("dickens-carol:preface.1", "Preface, par. 1"), ("dickens-carol:preface.2", "Preface, par. 2"),
+          ("dickens-carol:stave1.1", "Stave I: Marley's Ghost, par. 1"),
+          ("dickens-carol:stave1.2", "Stave I: Marley's Ghost, par. 2"),
+          ("dickens-carol:stave2.1", "Stave II: The First of the Three Spirits, par. 1")])
+check("carol: the default division ids are unchanged for every other book",
+      [u["id"] for u in _eb["units"]] == ["t:On_Lamps.1", "t:On_Lamps.2", "t:The_Mock_Goose.1"])
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)
