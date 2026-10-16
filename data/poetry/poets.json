@@ -1,0 +1,509 @@
+{
+ "_note": "Poets in the poetry section: canonical name, birth and death years, and the spellings the sources use. Death years drive only the life+70 note (rights.elsewhere); US status rests on publication, not death. null = not recorded; never guessed.",
+ "poets": {
+  "A. A. Milne": {
+   "born": 1882,
+   "died": 1956
+  },
+  "A. E. Housman": {
+   "born": 1859,
+   "died": 1936
+  },
+  "Alan Seeger": {
+   "born": 1888,
+   "died": 1916
+  },
+  "Alexander Pope": {
+   "born": 1688,
+   "died": 1744
+  },
+  "Alfred Noyes": {
+   "born": 1880,
+   "died": 1958
+  },
+  "Alfred Tennyson": {
+   "born": 1809,
+   "died": 1892,
+   "aliases": [
+    "Alfred, Lord Tennyson",
+    "Alfred Lord Tennyson"
+   ]
+  },
+  "Amy Lowell": {
+   "born": 1874,
+   "died": 1925
+  },
+  "Archibald Lampman": {
+   "born": 1861,
+   "died": 1899
+  },
+  "Arthur S. Bourinot": {
+   "born": 1893,
+   "died": 1969
+  },
+  "Bliss Carman": {
+   "born": 1861,
+   "died": 1929
+  },
+  "Carl Sandburg": {
+   "born": 1878,
+   "died": 1967
+  },
+  "Cecil Frances Alexander": {
+   "born": 1818,
+   "died": 1895
+  },
+  "Charles Kingsley": {
+   "born": 1819,
+   "died": 1875
+  },
+  "Charles Lamb": {
+   "born": 1775,
+   "died": 1834
+  },
+  "Charles Mackay": {
+   "born": 1814,
+   "died": 1889
+  },
+  "Christina Rossetti": {
+   "born": 1830,
+   "died": 1894
+  },
+  "Christopher Morley": {
+   "born": 1890,
+   "died": 1957
+  },
+  "Claude McKay": {
+   "born": 1889,
+   "died": 1948
+  },
+  "Czeslaw Milosz": {
+   "born": 1911,
+   "died": 2004
+  },
+  "Dorothy Wordsworth": {
+   "born": 1771,
+   "died": 1855
+  },
+  "Edgar Allan Poe": {
+   "born": 1809,
+   "died": 1849
+  },
+  "Edith Nesbit": {
+   "born": 1858,
+   "died": 1924
+  },
+  "Edna St. Vincent Millay": {
+   "born": 1892,
+   "died": 1950
+  },
+  "Edward Lear": {
+   "born": 1812,
+   "died": 1888
+  },
+  "Elizabeth Barrett Browning": {
+   "born": 1806,
+   "died": 1861
+  },
+  "Ella Wheeler Wilcox": {
+   "born": 1850,
+   "died": 1919
+  },
+  "Emily Dickinson": {
+   "born": 1830,
+   "died": 1886
+  },
+  "Eugene Field": {
+   "born": 1850,
+   "died": 1895
+  },
+  "Felicia Hemans": {
+   "born": 1793,
+   "died": 1835,
+   "aliases": [
+    "Felicia Dorothea Hemans"
+   ]
+  },
+  "G. K. Chesterton": {
+   "born": 1874,
+   "died": 1936
+  },
+  "Geoffrey Chaucer": {
+   "born": null,
+   "died": 1400
+  },
+  "George Gordon, Lord Byron": {
+   "born": 1788,
+   "died": 1824,
+   "aliases": [
+    "George Gordon (Lord Byron)",
+    "Lord Byron"
+   ]
+  },
+  "George Herbert": {
+   "born": 1593,
+   "died": 1633
+  },
+  "George MacDonald": {
+   "born": 1824,
+   "died": 1905
+  },
+  "Gerard Manley Hopkins": {
+   "born": 1844,
+   "died": 1889
+  },
+  "Helen Hunt Jackson": {
+   "born": 1830,
+   "died": 1885
+  },
+  "Henry Wadsworth Longfellow": {
+   "born": 1807,
+   "died": 1882
+  },
+  "Hilaire Belloc": {
+   "born": 1870,
+   "died": 1953
+  },
+  "Hilda Conkling": {
+   "born": 1910,
+   "died": 1986
+  },
+  "Isaac Watts": {
+   "born": 1674,
+   "died": 1748
+  },
+  "James Russell Lowell": {
+   "born": 1819,
+   "died": 1891
+  },
+  "James Stephens": {
+   "born": 1880,
+   "died": 1950
+  },
+  "James Weldon Johnson": {
+   "born": 1871,
+   "died": 1938
+  },
+  "James Whitcomb Riley": {
+   "born": 1849,
+   "died": 1916
+  },
+  "Jane Taylor": {
+   "born": 1783,
+   "died": 1824
+  },
+  "Ann Taylor": {
+   "born": 1782,
+   "died": 1866
+  },
+  "Jean Ingelow": {
+   "born": 1820,
+   "died": 1897
+  },
+  "John Donne": {
+   "born": 1572,
+   "died": 1631
+  },
+  "John Greenleaf Whittier": {
+   "born": 1807,
+   "died": 1892
+  },
+  "John Keats": {
+   "born": 1795,
+   "died": 1821
+  },
+  "John Masefield": {
+   "born": 1878,
+   "died": 1967
+  },
+  "John McCrae": {
+   "born": 1872,
+   "died": 1918
+  },
+  "John Milton": {
+   "born": 1608,
+   "died": 1674
+  },
+  "Joyce Kilmer": {
+   "born": 1886,
+   "died": 1918
+  },
+  "Langston Hughes": {
+   "born": 1901,
+   "died": 1967
+  },
+  "Laura E. Richards": {
+   "born": 1850,
+   "died": 1943,
+   "aliases": [
+    "Laura Elizabeth Richards"
+   ]
+  },
+  "Leigh Hunt": {
+   "born": 1784,
+   "died": 1859
+  },
+  "Lewis Carroll": {
+   "born": 1832,
+   "died": 1898
+  },
+  "Luci Shaw": {
+   "born": 1928,
+   "died": null
+  },
+  "Paul Laurence Dunbar": {
+   "born": 1872,
+   "died": 1906
+  },
+  "Percy Bysshe Shelley": {
+   "born": 1792,
+   "died": 1822
+  },
+  "Phillis Wheatley": {
+   "born": null,
+   "died": 1784
+  },
+  "Ralph Waldo Emerson": {
+   "born": 1803,
+   "died": 1882
+  },
+  "Richard Lovelace": {
+   "born": 1617,
+   "died": 1657
+  },
+  "Richard Monckton Milnes": {
+   "born": 1809,
+   "died": 1885,
+   "aliases": [
+    "Richard Monckton Milnes, Lord Houghton"
+   ]
+  },
+  "Robert Browning": {
+   "born": 1812,
+   "died": 1889
+  },
+  "Robert Frost": {
+   "born": 1874,
+   "died": 1963
+  },
+  "Robert Louis Stevenson": {
+   "born": 1850,
+   "died": 1894
+  },
+  "Rudyard Kipling": {
+   "born": 1865,
+   "died": 1936
+  },
+  "Samuel Taylor Coleridge": {
+   "born": 1772,
+   "died": 1834
+  },
+  "Sara Coleridge": {
+   "born": 1802,
+   "died": 1852
+  },
+  "Sara Teasdale": {
+   "born": 1884,
+   "died": 1933
+  },
+  "Sir Philip Sidney": {
+   "born": 1554,
+   "died": 1586
+  },
+  "Walter Scott": {
+   "born": 1771,
+   "died": 1832,
+   "aliases": [
+    "Sir Walter Scott"
+   ]
+  },
+  "Thomas Gray": {
+   "born": 1716,
+   "died": 1771
+  },
+  "Thomas Hardy": {
+   "born": 1840,
+   "died": 1928
+  },
+  "Thomas Hood": {
+   "born": 1799,
+   "died": 1845
+  },
+  "Thomas Moore": {
+   "born": 1779,
+   "died": 1852
+  },
+  "Vachel Lindsay": {
+   "born": 1879,
+   "died": 1931
+  },
+  "Walt Whitman": {
+   "born": 1819,
+   "died": 1892
+  },
+  "Walter de la Mare": {
+   "born": 1873,
+   "died": 1956
+  },
+  "Wendell Berry": {
+   "born": 1934,
+   "died": null
+  },
+  "William Allingham": {
+   "born": 1824,
+   "died": 1889
+  },
+  "William Blake": {
+   "born": 1757,
+   "died": 1827
+  },
+  "William Butler Yeats": {
+   "born": 1865,
+   "died": 1939
+  },
+  "William Cowper": {
+   "born": 1731,
+   "died": 1800
+  },
+  "William Dunbar": {
+   "born": null,
+   "died": null
+  },
+  "William Makepeace Thackeray": {
+   "born": 1811,
+   "died": 1863
+  },
+  "William Shakespeare": {
+   "born": 1564,
+   "died": 1616
+  },
+  "William Wordsworth": {
+   "born": 1770,
+   "died": 1850
+  },
+  "Wislawa Szymborska": {
+   "born": 1923,
+   "died": 2012
+  },
+  "Victor Hugo": {
+   "born": 1802,
+   "died": 1885
+  },
+  "Kenneth Grahame": {
+   "born": 1859,
+   "died": 1932
+  },
+  "Thomas Ken": {
+   "born": 1637,
+   "died": 1711
+  },
+  "Thomas Dekker": {
+   "born": null,
+   "died": 1632
+  },
+  "Mary Howitt": {
+   "born": 1799,
+   "died": 1888
+  },
+  "William Howitt": {
+   "born": 1792,
+   "died": 1879
+  },
+  "Kate Greenaway": {
+   "born": 1846,
+   "died": 1901
+  },
+  "Thomas Bailey Aldrich": {
+   "born": 1836,
+   "died": 1907
+  },
+  "Joseph S. Cotter, Jr.": {
+   "born": 1895,
+   "died": 1919
+  },
+  "Ernest Lawrence Thayer": {
+   "born": 1863,
+   "died": 1940
+  },
+  "W. H. Davies": {
+   "born": 1871,
+   "died": 1940,
+   "aliases": [
+    "W.H. Davies"
+   ]
+  },
+  "Henry Newbolt": {
+   "born": 1862,
+   "died": 1938
+  },
+  "Robert Southey": {
+   "born": 1774,
+   "died": 1843
+  },
+  "John Bunyan": {
+   "born": 1628,
+   "died": 1688
+  },
+  "Thomas Babington Macaulay": {
+   "born": 1800,
+   "died": 1859
+  },
+  "William Whiting": {
+   "born": 1825,
+   "died": 1878
+  },
+  "Julia Ward Howe": {
+   "born": 1819,
+   "died": 1910
+  },
+  "Robert W. Service": {
+   "born": 1874,
+   "died": 1958
+  },
+  "Sabine Baring-Gould": {
+   "born": 1834,
+   "died": 1924
+  },
+  "Robert Burns": {
+   "born": 1759,
+   "died": 1796
+  },
+  "Thomas Campbell": {
+   "born": 1777,
+   "died": 1844
+  },
+  "Charles Wolfe": {
+   "born": 1791,
+   "died": 1823
+  },
+  "William Ernest Henley": {
+   "born": 1849,
+   "died": 1903
+  },
+  "Arthur Hugh Clough": {
+   "born": 1819,
+   "died": 1861
+  },
+  "Edwin Markham": {
+   "born": 1852,
+   "died": 1940
+  },
+  "Rupert Brooke": {
+   "born": 1887,
+   "died": 1915
+  },
+  "Martin Luther, tr. Frederic Henry Hedge": {
+   "born": null,
+   "died": 1890,
+   "aliases": []
+  },
+  "Michael Drayton": {
+   "born": 1563,
+   "died": 1631
+  },
+  "Anonymous": {
+   "born": null,
+   "died": null
+  }
+ }
+}

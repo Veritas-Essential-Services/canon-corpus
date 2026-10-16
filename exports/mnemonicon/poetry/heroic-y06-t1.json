@@ -1,0 +1,52 @@
+[
+  {
+    "id": "6f102a9d-baa2-5f71-9e43-cc614739a2c5",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "Sea-Fever",
+    "source": "John Masefield, Salt-Water Ballads (1902)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "I must down to the seas again, to the lonely sea and the sky,\nAnd all I ask is a tall ship and a star to steer her by,\nAnd the wheel’s kick and the wind’s song and the white sail’s shaking,\nAnd a grey mist on the sea’s face and a grey dawn breaking.\n\nI must down to the seas again, for the call of the running tide\nIs a wild call and a clear call that may not be denied;\nAnd all I ask is a windy day with the white clouds flying,\nAnd the flung spray and the blown spume, and the sea-gulls crying.\n\nI must down to the seas again to the vagrant gypsy life,\nTo the gull’s way and the whale’s way where the wind’s like\n   a whetted knife;\nAnd all I ask is a merry yarn from a laughing fellow-rover,\nAnd quiet sleep and a sweet dream when the long trick’s over.",
+    "notes": "Heroic addendum (proposed), beside AO Year 6, Term 1.\nText: Salt-Water Ballads (1915), Project Gutenberg #52761.\nUS public domain: the text hosted here is from Salt-Water Ballads (1915), published before 1931, so its 95-year US term has run out. Project Gutenberg #52761. First published 1902 in Salt-Water Ballads.\nWord Hoard poetry:john-masefield.sea-fever · wh-K19QJYGXJ8",
+    "tags": [
+      "poetry",
+      "addendum-heroic",
+      "adventurous",
+      "year-6",
+      "john-masefield"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  },
+  {
+    "id": "9b5ef7e4-9476-58ce-a824-f8e169951f69",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "Cargoes",
+    "source": "John Masefield, Ballads (1903)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "Quinquireme of Nineveh from distant Ophir\nRowing home to haven in sunny Palestine,\nWith a cargo of ivory,\nAnd apes and peacocks,\nSandalwood, cedarwood, and sweet white wine.\n\nStately Spanish galleon coming from the Isthmus,\nDipping through the Tropics by the palm-green shores,\nWith a cargo of diamonds,\nEmeralds, amethysts,\nTopazes, and cinnamon, and gold moidores.\n\nDirty British coaster with a salt-caked smoke stack,\nButting through the Channel in the mad March days,\nWith a cargo of Tyne coal,\nRoad-rails, pig-lead,\nFirewood, iron-ware, and cheap tin trays.",
+    "notes": "Heroic addendum (proposed), beside AO Year 6, Term 1.\nText: Selected Poems (John Masefield) (1922), Project Gutenberg #61286.\nUS public domain: the text hosted here is from Selected Poems (John Masefield) (1922), published before 1931, so its 95-year US term has run out. Project Gutenberg #61286. First published 1903 in Ballads.\nWord Hoard poetry:john-masefield.cargoes · wh-2TVE8M7N36",
+    "tags": [
+      "poetry",
+      "addendum-heroic",
+      "adventurous",
+      "year-6",
+      "john-masefield"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  }
+]
