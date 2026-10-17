@@ -1189,3 +1189,6 @@
 
 ## 2026-10-17 18:44 CDT — jean-baptiste-massillon done
 - `pipeline/jean-baptiste-massillon_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:44 CDT — henri-lacordaire done
+- `pipeline/henri-lacordaire_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.

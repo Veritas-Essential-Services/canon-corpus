@@ -1,0 +1,144 @@
+{
+ "_about": "Public-domain Henri-Dominique Lacordaire (1802-1861, Dominican preacher of Notre Dame) in English for the Word Hoard: the Conferences at Notre Dame tr. Henry Langdon (London, 1853), the Notre Dame conferences Jesus Christ (1869), God (1870) and God and Man (catalogued 1872) translated by a Tertiary of the Order, Life: Conferences at Toulouse tr. Henry D. Langdon (1873), the Letters to Young Men tr. James Trenor (Baltimore, 1871), and his Life of Saint Dominic tr. Mrs. Edward Hazeland (1883), from Internet Archive scans. Added 2026-10-17 by lane A, round 26 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "lacordaire"
+ ],
+ "_surname": [
+  "lacordaire",
+  "pere lacordaire",
+  "père lacordaire",
+  "h. d. lacordaire"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lacordaire-conferences-langdon-1853": [
+   "conferencesdeli00lacogoog",
+   "Conferences of the Rev. Père Lacordaire delivered in the Cathedral of Notre Dame, tr. Henry Langdon (London: Thomas Richardson, MDCCCLIII)"
+  ],
+  "lacordaire-jesus-christ-1869": [
+   "jesuschristconf01lacogoog",
+   "Jesus Christ: Conferences delivered at Notre Dame, translated by a Tertiary of the same Order, second edition (London: Chapman & Hall, 1869)"
+  ],
+  "lacordaire-god-1870": [
+   "godconferencesde00lacoiala",
+   "God: Conferences delivered at Notre Dame, translated by a Tertiary of the same Order (London: Chapman & Hall, 1870)"
+  ],
+  "lacordaire-god-and-man": [
+   "godmanconference00laco",
+   "God and Man: Conferences delivered at Notre Dame, translated by a Tertiary of the same Order (New York: Scribner, Welford and Armstrong; catalogued 1872)"
+  ],
+  "lacordaire-life-toulouse-langdon": [
+   "lifeconferences00lacogoog",
+   "Life: Conferences delivered at Toulouse, tr. Henry D. Langdon (London: Henry S. King, 1873)"
+  ],
+  "lacordaire-letters-young-men-trenor": [
+   "letterstoyoungme00laco",
+   "Lacordaire's Letters to Young Men, ed. Montalembert, tr. James Trenor (Baltimore: Kelly, Piet, 1871)"
+  ],
+  "lacordaire-life-of-saint-dominic": [
+   "lifesaintdomini00domigoog",
+   "Life of Saint Dominic, tr. Mrs. Edward Hazeland (London: Burns and Oates, 1883)"
+  ]
+ },
+ "_alternates": {
+  "lacordaire-copies": "New York O'Shea editions (1870-1874), the combined Jesus Christ, God, God and Man (1884), the revised Letters to Young Men (1902)",
+  "lacordaire-unverified": "An Historical Sketch of the Order of St. Dominic, St. Mary Magdalen (catalogued 1880), Thoughts and Teachings (1902): title pages not fully read"
+ },
+ "_excluded": {
+  "lacordaire-about": "Montalembert's Memoir, Chocarne's Inner Life, Greenwell, Lear, d'Haussonville",
+  "lacordaire-french": "French Œuvres catalogued as English"
+ },
+ "_rights_checked": {
+  "lacordaire-god-and-man": "title page read: Scribner, Welford and Armstrong; year garbled; preface dated Easter Week, 1872"
+ },
+ "_pending": {
+  "lacordaire-1851": "Langdon's 1851 first edition of the Conferences: not found"
+ },
+ "_translators": {
+  "lacordaire-life-toulouse-langdon": "langdon"
+ },
+ "_checks": {
+  "lacordaire-conferences-langdon-1853": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lacordaire",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lacordaire-jesus-christ-1869": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lacordaire",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lacordaire-god-1870": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lacordaire",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lacordaire-god-and-man": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lacordaire",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Scribner, Welford and Armstrong; year garbled; preface dated Easter Week, 1872"
+  },
+  "lacordaire-life-toulouse-langdon": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lacordaire",
+   "translator_claimed": "langdon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lacordaire-letters-young-men-trenor": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lacordaire",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "lacordaire-life-of-saint-dominic": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lacordaire",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

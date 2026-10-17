@@ -5598,3 +5598,21 @@ Slugs `massillon-*`. Translators: Dodd, Dickson (vol. II; garbled in vol. I), Fl
 | Petit Carême and other French editions catalogued as English | excluded | |
 | The Pulpit Orator (1804) and Great French Sermons (1917) | excluded | |
 | Crabb's 1796 Sermons, only partly Massillon | excluded | |
+
+## Henri-Dominique Lacordaire (round 26, my pick, 2026-10-17)
+
+Slugs `lacordaire-*`. Translator claimed: Langdon (Life). The Notre Dame conferences of 1869-1872 are 'by a Tertiary of the same Order' (signed H. D. L., probably Langdon, not stated); Trenor's and Hazeland's names are garbled in the OCR.
+
+| Work | Status | Where |
+|---|---|---|
+| Conferences of the Rev. Père Lacordaire delivered in the Cathedral of Notre Dame, tr. Henry Langdon (London: Thomas Richardson, MDCCCLIII) | have-ocr | IA `conferencesdeli00lacogoog` |
+| Jesus Christ: Conferences delivered at Notre Dame, translated by a Tertiary of the same Order, second edition (London: Chapman & Hall, 1869) | have-ocr | IA `jesuschristconf01lacogoog` |
+| God: Conferences delivered at Notre Dame, translated by a Tertiary of the same Order (London: Chapman & Hall, 1870) | have-ocr | IA `godconferencesde00lacoiala` |
+| God and Man: Conferences delivered at Notre Dame, translated by a Tertiary of the same Order (New York: Scribner, Welford and Armstrong; catalogued 1872) | have-ocr | IA `godmanconference00laco` |
+| Life: Conferences delivered at Toulouse, tr. Henry D. Langdon (London: Henry S. King, 1873) | have-ocr | IA `lifeconferences00lacogoog` |
+| Lacordaire's Letters to Young Men, ed. Montalembert, tr. James Trenor (Baltimore: Kelly, Piet, 1871) | have-ocr | IA `letterstoyoungme00laco` |
+| Life of Saint Dominic, tr. Mrs. Edward Hazeland (London: Burns and Oates, 1883) | have-ocr | IA `lifesaintdomini00domigoog` |
+| New York O'Shea editions (1870-1874), the combined Jesus Christ, God, God and Man (1884), the revised Letters to Young Men (1902) | alternate | not shelved |
+| An Historical Sketch of the Order of St. Dominic, St. Mary Magdalen (catalogued 1880), Thoughts and Teachings (1902): title pages not fully read | alternate | not shelved |
+| Montalembert's Memoir, Chocarne's Inner Life, Greenwell, Lear, d'Haussonville | excluded | |
+| French Œuvres catalogued as English | excluded | |
