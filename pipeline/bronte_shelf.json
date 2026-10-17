@@ -20,6 +20,10 @@
   "bronte-wuthering-heights": [
    768,
    "Wuthering Heights (Emily Brontë, 1847)"
+  ],
+  "bronte-agnes-grey": [
+   767,
+   "Agnes Grey, by Anne Brontë (1847)"
   ]
  },
  "internet_archive": {},
@@ -37,7 +41,7 @@
  "_checks": {
   "bronte-jane-eyre": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "charlotte brontë",
    "identity": "ok",
@@ -46,9 +50,18 @@
   },
   "bronte-wuthering-heights": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "emily brontë",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bronte-agnes-grey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "brontë",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

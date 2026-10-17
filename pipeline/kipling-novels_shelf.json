@@ -21,6 +21,10 @@
   "kipling-stalky": [
    3006,
    "Stalky & Co. (1899)"
+  ],
+  "kipling-captains-courageous": [
+   2186,
+   "Captains Courageous (1897)"
   ]
  },
  "internet_archive": {},
@@ -30,7 +34,7 @@
  "_checks": {
   "kipling-kim": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "rudyard kipling",
    "identity": "ok",
@@ -39,7 +43,7 @@
   },
   "kipling-man-who-would-be-king": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "rudyard kipling",
    "identity": "ok",
@@ -48,7 +52,16 @@
   },
   "kipling-stalky": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "rudyard kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kipling-captains-courageous": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "rudyard kipling",
    "identity": "ok",

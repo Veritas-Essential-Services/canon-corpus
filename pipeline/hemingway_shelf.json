@@ -13,6 +13,10 @@
   "hemingway-sun-also-rises": [
    67138,
    "The Sun Also Rises (1926)"
+  ],
+  "hemingway-farewell-to-arms": [
+   75201,
+   "A Farewell to Arms (1929)"
   ]
  },
  "internet_archive": {},
@@ -20,7 +24,16 @@
  "_checks": {
   "hemingway-sun-also-rises": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hemingway",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hemingway-farewell-to-arms": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "hemingway",
    "identity": "ok",

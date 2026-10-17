@@ -1,0 +1,30 @@
+{
+ "_about": "Manzoni's I promessi sposi in English. Added in reading-lists batch 9 (2026-10-17): books named by the Omnibus, Callihan, Kern, Pudewa, White and Stanford lists that no shelf held.",
+ "_author": "Alessandro Manzoni",
+ "_name_words": [
+  "alessandro",
+  "manzoni"
+ ],
+ "_surname": [
+  "manzoni"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "manzoni-the-betrothed": [
+   35155,
+   "The Betrothed (1827; 19th-century English translation)"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "manzoni-the-betrothed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "manzoni",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

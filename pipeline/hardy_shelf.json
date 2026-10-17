@@ -13,6 +13,10 @@
   "hardy-far-from-the-madding-crowd": [
    107,
    "Far from the Madding Crowd (1874)"
+  ],
+  "hardy-tess": [
+   110,
+   "Tess of the d'Urbervilles (1891)"
   ]
  },
  "internet_archive": {},
@@ -20,7 +24,16 @@
  "_checks": {
   "hardy-far-from-the-madding-crowd": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hardy-tess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thomas hardy",
    "identity": "ok",

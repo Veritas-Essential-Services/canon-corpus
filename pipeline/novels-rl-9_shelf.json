@@ -1,0 +1,137 @@
+{
+ "_about": "Single novels from the Pudewa, White and Stanford lists whose authors have no shelf of their own here (Jack London's and Burroughs's shelf names belong to other lanes, so these sit apart). Added in reading-lists batch 9 (2026-10-17): books named by the Omnibus, Callihan, Kern, Pudewa, White and Stanford lists that no shelf held.",
+ "_author": "various",
+ "_name_words": [
+  "edith",
+  "wharton",
+  "trollope",
+  "arnim",
+  "cooper",
+  "london",
+  "burroughs",
+  "wodehouse"
+ ],
+ "_surname": [
+  "wharton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wharton-age-of-innocence": [
+   541,
+   "Edith Wharton, The Age of Innocence (1920)"
+  ],
+  "trollope-the-warden": [
+   619,
+   "Anthony Trollope, The Warden (1855)"
+  ],
+  "von-arnim-enchanted-april": [
+   16389,
+   "Elizabeth von Arnim, The Enchanted April (1922)"
+  ],
+  "cooper-last-of-the-mohicans": [
+   940,
+   "James Fenimore Cooper, The Last of the Mohicans (1826)"
+  ],
+  "jlondon-sea-wolf": [
+   1074,
+   "Jack London, The Sea-Wolf (1904)"
+  ],
+  "burroughs-tarzan-of-the-apes": [
+   78,
+   "Edgar Rice Burroughs, Tarzan of the Apes (1912)"
+  ],
+  "wodehouse-fish-preferred": [
+   75435,
+   "P. G. Wodehouse, Fish Preferred (1929; the US title of Summer Lightning)"
+  ]
+ },
+ "internet_archive": {},
+ "_surname_by_slug": {
+  "wharton-age-of-innocence": [
+   "wharton"
+  ],
+  "trollope-the-warden": [
+   "trollope"
+  ],
+  "von-arnim-enchanted-april": [
+   "arnim"
+  ],
+  "cooper-last-of-the-mohicans": [
+   "cooper"
+  ],
+  "jlondon-sea-wolf": [
+   "jack london"
+  ],
+  "burroughs-tarzan-of-the-apes": [
+   "burroughs"
+  ],
+  "wodehouse-fish-preferred": [
+   "wodehouse"
+  ]
+ },
+ "_checks": {
+  "wharton-age-of-innocence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "wharton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "trollope-the-warden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "von-arnim-enchanted-april": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "arnim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cooper-last-of-the-mohicans": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-sea-wolf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burroughs-tarzan-of-the-apes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burroughs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wodehouse-fish-preferred": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "wodehouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

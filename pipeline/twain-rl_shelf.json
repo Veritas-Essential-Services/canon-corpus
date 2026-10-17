@@ -17,6 +17,10 @@
   "twain-sketches-new-and-old": [
    3189,
    "Sketches New and Old (1875)"
+  ],
+  "twain-puddnhead-wilson": [
+   102,
+   "The Tragedy of Pudd'nhead Wilson (1894)"
   ]
  },
  "internet_archive": {},
@@ -26,7 +30,7 @@
  "_checks": {
   "twain-connecticut-yankee": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",
@@ -35,7 +39,16 @@
   },
   "twain-sketches-new-and-old": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mark twain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twain-puddnhead-wilson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "mark twain",
    "identity": "ok",

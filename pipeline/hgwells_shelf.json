@@ -25,6 +25,10 @@
   "hgwells-war-of-the-worlds": [
    36,
    "The War of the Worlds (1898)"
+  ],
+  "hgwells-first-men-in-the-moon": [
+   1013,
+   "The First Men in the Moon (1901)"
   ]
  },
  "internet_archive": {},
@@ -32,7 +36,7 @@
  "_checks": {
   "hgwells-time-machine": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "h. g. wells",
    "identity": "ok",
@@ -41,7 +45,7 @@
   },
   "hgwells-invisible-man": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "h. g. wells",
    "identity": "ok",
@@ -50,7 +54,16 @@
   },
   "hgwells-war-of-the-worlds": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. g. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgwells-first-men-in-the-moon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "h. g. wells",
    "identity": "ok",

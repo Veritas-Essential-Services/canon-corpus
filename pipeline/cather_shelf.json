@@ -13,6 +13,14 @@
   "cather-my-antonia": [
    242,
    "My Ántonia (1918)"
+  ],
+  "cather-death-comes-for-the-archbishop": [
+   69730,
+   "Death Comes for the Archbishop (1927)"
+  ],
+  "cather-o-pioneers": [
+   24,
+   "O Pioneers! (1913)"
   ]
  },
  "internet_archive": {},
@@ -20,7 +28,25 @@
  "_checks": {
   "cather-my-antonia": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "willa cather",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cather-death-comes-for-the-archbishop": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "willa cather",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cather-o-pioneers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "willa cather",
    "identity": "ok",

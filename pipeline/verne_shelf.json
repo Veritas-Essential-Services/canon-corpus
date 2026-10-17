@@ -14,6 +14,18 @@
   "verne-twenty-thousand-leagues": [
    164,
    "Twenty Thousand Leagues under the Sea (1870; English tr. 1872)"
+  ],
+  "verne-around-the-world-eighty-days": [
+   103,
+   "Around the World in Eighty Days, tr. George M. Towle (1873)"
+  ],
+  "verne-journey-interior-of-the-earth": [
+   3748,
+   "A Journey into the Interior of the Earth, tr. Frederick Amadeus Malleson (1877)"
+  ],
+  "verne-mysterious-island": [
+   1268,
+   "The Mysterious Island, tr. W. H. G. Kingston (1875)"
   ]
  },
  "internet_archive": {},
@@ -23,12 +35,53 @@
  "_checks": {
   "verne-twenty-thousand-leagues": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "jules verne",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "verne-around-the-world-eighty-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jules verne",
+   "translator_claimed": "Towle",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George M. Towle",
+   "translator_match": true
+  },
+  "verne-journey-interior-of-the-earth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jules verne",
+   "translator_claimed": "Malleson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "F. A. Malleson",
+   "translator_match": true
+  },
+  "verne-mysterious-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jules verne",
+   "translator_claimed": "Kingston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Agnes Kinloch Kingston",
+   "translator_match": true
   }
+ },
+ "_translators": {
+  "verne-around-the-world-eighty-days": "Towle",
+  "verne-journey-interior-of-the-earth": "Malleson",
+  "verne-mysterious-island": "Kingston"
  }
 }
