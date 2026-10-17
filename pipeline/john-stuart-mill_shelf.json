@@ -1,5 +1,5 @@
 {
- "_about": "John Stuart Mill (1806-1873), raw IA OCR. On Liberty and Utilitarianism are on the Adler shelf and are not taken again. Here: An Examination of Sir William Hamilton's Philosophy, and of the principal philosophical questions discussed in his writings (Boston: William V. Spencer, 1865, 2 vols.), the first American edition; and from Project Gutenberg the System of Logic (8th ed., Harper, 1882), Considerations on Representative Government, the Autobiography, Essays on Some Unsettled Questions of Political Economy (1844), The Subjection of Women (1869) and the posthumous Socialism (Chicago, 1879). Two PG etexts (Representative Government, Autobiography) do not name the printing they follow; both works were first printed in Mill's lifetime or the year of his death and the etexts are Added in round ac: Three Essays on Religion: Nature, the Utility of Religion, and Theism (New York: Henry Holt, 1874). US public domain. US public domain. Not taken: the Three Essays on Religion scan threeessaysonrel00mill (no year printed). No uids minted.",
+ "_about": "John Stuart Mill (1806-1873), raw IA OCR. On Liberty and Utilitarianism are on the Adler shelf and are not taken again. Here: An Examination of Sir William Hamilton's Philosophy, and of the principal philosophical questions discussed in his writings (Boston: William V. Spencer, 1865, 2 vols.), the first American edition; and from Project Gutenberg the System of Logic (8th ed., Harper, 1882), Considerations on Representative Government, the Autobiography, Essays on Some Unsettled Questions of Political Economy (1844), The Subjection of Women (1869) and the posthumous Socialism (Chicago, 1879). Two PG etexts (Representative Government, Autobiography) do not name the printing they follow; both works were first printed in Mill's lifetime or the year of his death and the etexts are Added in round ac: Three Essays on Religion: Nature, the Utility of Religion, and Theism (New York: Henry Holt, 1874). Added in round ae: Principles of Political Economy, with some of their applications to social philosophy (London: George Routledge, 1900). US public domain. US public domain. Not taken: the Three Essays on Religion scan threeessaysonrel00mill (no year printed). No uids minted.",
  "_author": "John Stuart Mill",
  "_name_words": [
   "john",
@@ -48,6 +48,10 @@
   "mill-three-essays-on-religion-1874": [
    "cu31924020335620",
    "Three Essays on Religion: Nature, the Utility of Religion, and Theism (New York: Henry Holt, 1874)"
+  ],
+  "mill-principles-of-political-economy-1900": [
+   "principlesofpoli00milliala",
+   "Principles of Political Economy, with some of their applications to social philosophy (London: George Routledge, 1900)"
   ]
  },
  "_excluded": {},
@@ -137,6 +141,17 @@
    "ia_rights": "ok: published 1874",
    "ia_date": "1874",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mill-principles-of-political-economy-1900": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
