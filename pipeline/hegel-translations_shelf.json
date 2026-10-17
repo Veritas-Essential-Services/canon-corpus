@@ -1,0 +1,61 @@
+{
+ "_about": "G. W. F. Hegel (1770-1831) in English, translator per row. Named hegel-translations because the reading-lists thread (PR #22) already has a hegel shelf holding Dyde's Philosophy of Right (1896), which is not duplicated here. Clean Gutenberg: Wallace's Logic (from the Encyclopaedia, 2nd ed., Oxford, 1892) and Philosophy of Mind (Oxford, 1894), Osmaston's Philosophy of Fine Art (Bell, 1920, 4 vols.). Raw IA OCR: Haldane and Simson's Lectures on the History of Philosophy (Kegan Paul, 1892-1896, 3 vols., the first printings; Gutenberg's text of the same translation is set from a 1955 reprint and is not used), Sibree's Lectures on the Philosophy of History (Bohn, 1881), Baillie's Phenomenology of Mind (Swan Sonnenschein, 1910, 2 vols.), and Speirs and Sanderson's Lectures on the Philosophy of Religion (Kegan Paul, 1895, 3 vols.). All published before 1930, so US public domain under the US rule (decision 22); Baillie died 1940 and Osmaston's dates are unchecked, so some are not public domain in life+70 countries. Bosanquet's Introduction to the Philosophy of Fine Art is held on singles-arts-miscellany (PG 46330) and is not taken again. No uids minted.",
+ "_author": "G. W. F. Hegel",
+ "_name_words": [
+  "g",
+  "w",
+  "f",
+  "georg",
+  "wilhelm",
+  "friedrich",
+  "hegel"
+ ],
+ "_surname": [
+  "hegel"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hegel-wallace-logic-1892": [
+   55108,
+   "The Logic of Hegel, translated from the Encyclopaedia of the Philosophical Sciences, 2nd ed., revised and augmented (Oxford, 1892)",
+   "tr. William Wallace"
+  ],
+  "hegel-wallace-philosophy-of-mind-1894": [
+   39064,
+   "Hegel's Philosophy of Mind, translated from the Encyclopaedia of the Philosophical Sciences, with five introductory essays (Oxford: Clarendon, 1894)",
+   "tr. William Wallace"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "hegel-wallace-logic-1892": "Wallace",
+  "hegel-wallace-philosophy-of-mind-1894": "Wallace"
+ },
+ "_checks": {
+  "hegel-wallace-logic-1892": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Wallace",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Wallace",
+   "translator_match": true
+  },
+  "hegel-wallace-philosophy-of-mind-1894": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Wallace",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Wallace",
+   "translator_match": true
+  }
+ }
+}

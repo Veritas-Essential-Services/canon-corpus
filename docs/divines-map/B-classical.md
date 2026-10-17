@@ -3502,6 +3502,95 @@ Shelf: `pipeline/allen-greenough_shelf.json`. Latin Grammar Founded on Comparati
 |---|---|---|---|
 | Latin Grammar Founded on Comparative Grammar, revised edition (Boston: Ginn, 1887) |  | `allen-greenough-latin-grammar-1887` | have-raw (IA `latingrammar00greegoog`) |
 
+## Hegel in English
+
+Shelf: `pipeline/hegel-translations_shelf.json`. G. W. F. Hegel (1770-1831) in English, translator per row. Named hegel-translations because the reading-lists thread (PR #22) already has a hegel shelf holding Dyde's Philosophy of Right (1896), which is not duplicated here. Clean Gutenberg: Wallace's Logic (from the Encyclopaedia, 2nd ed., Oxford, 1892) and Philosophy of Mind (Oxford, 1894), Osmaston's Philosophy of Fine Art (Bell, 1920, 4 vols.). Raw IA OCR: Haldane and Simson's Lectures on the History of Philosophy (Kegan Paul, 1892-1896, 3 vols., the first printings; Gutenberg's text of the same translation is set from a 1955 reprint and is not used), Sibree's Lectures on the Philosophy of History (Bohn, 1881), Baillie's Phenomenology of Mind (Swan Sonnenschein, 1910, 2 vols.), and Speirs and Sanderson's Lectures on the Philosophy of Religion (Kegan Paul, 1895, 3 vols.). All published before 1930, so US public domain under the US rule (decision 22); Baillie died 1940 and Osmaston's dates are unchecked, so some are not public domain in life+70 countries. Bosanquet's Introduction to the Philosophy of Fine Art is held on singles-arts-miscellany (PG 46330) and is not taken again. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Logic of Hegel, translated from the Encyclopaedia of the Philosophical Sciences, 2nd ed., revised and augmented (Oxford, 1892) | William Wallace | `hegel-wallace-logic-1892` | have (PG 55108) |
+| Hegel's Philosophy of Mind, translated from the Encyclopaedia of the Philosophical Sciences, with five introductory essays (Oxford: Clarendon, 1894) | William Wallace | `hegel-wallace-philosophy-of-mind-1894` | have (PG 39064) |
+
+## Schopenhauer in English
+
+Shelf: `pipeline/schopenhauer_shelf.json`. Arthur Schopenhauer (1788-1860) in English: The World as Will and Idea, tr. R. B. Haldane and J. Kemp (Kegan Paul, Trench, Trübner; vol. I 7th ed. 1909, vols. II-III 6th ed. 1909; first published 1883-1886), clean Gutenberg. US public domain (published before 1930). Bailey Saunders's essays (lane C's bailey-saunders shelf), Dircks's Essays (singles-ideas) and the Basis of Morality and Fourfold Root (singles-ideas-2) are held elsewhere and not taken again. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Kant in English
+
+Shelf: `pipeline/kant_shelf.json`. Immanuel Kant (1724-1804) in English, translator per row. Already held elsewhere and not taken again: Meiklejohn's Critique of Pure Reason (PG 4280) and Abbott's Critique of Practical Reason (PG 5683) on the Adler shelf; Abbott's Fundamental Principles and Metaphysical Elements of Ethics (lane C's tk-abbott); Bernard's Critique of Judgement (PG 48433) and Perpetual Peace (PG 50922) on singles-ideas-2. Clean Gutenberg: Carus's Prolegomena (Open Court, 3rd ed. 1912; the translation's printed copyright is 1902, so US public domain). Raw IA OCR: Max Müller's Critique of Pure Reason (Macmillan, 1881, 2 vols.), Semple's Religion within the Boundary of Pure Reason (Edinburgh, 1838) and Metaphysic of Ethics (3rd ed., ed. Calderwood, 1871), Bax's Prolegomena and Metaphysical Foundations of Natural Science (Bohn, 1883), Hastie's Philosophy of Law (1887) and Kant's Cosmogony (1900), and the Prolegomena in Mahaffy and Bernard's Kant's Critical Philosophy for English Readers, vol. II (1889). No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): Goerwitz's Dreams of a Spirit-Seer (1900; IA dreamsofspiritse00kant returned HTTP 500); Annette Churton's Kant on Education (1899; the scan found has no readable title page); the 1798-1799 Essays and Treatises and Metaphysic of Morals attributed to John Richardson (title pages unreadable in the OCR).
+
+## Hume
+
+Shelf: `pipeline/hume_shelf.json`. David Hume (1711-1776): The Philosophical Works of David Hume, including all the essays, and exhibiting the more important alterations and corrections in the successive editions published by the author (Edinburgh: Adam Black and William Tait, 1826, 4 vols.): vols. 1-2 (the Treatise) clean Gutenberg, vols. 3-4 (the Essays, the Enquiries and the Dialogues) raw IA OCR. The Adler shelf's Enquiry Concerning Human Understanding (PG 9662) is a separate edition held there. Undated or edition-less Gutenberg texts of the same works (PG 4705, 4320, 4583) are not taken as second witnesses. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Berkeley
+
+Shelf: `pipeline/berkeley_shelf.json`. George Berkeley (1685-1753): The Works of George Berkeley, including his posthumous works, ed. Alexander Campbell Fraser (Oxford: Clarendon, 1901, 4 vols.). Vol. 1 clean Gutenberg; vols. 2-4 raw IA OCR. The Adler shelf's Principles (PG 4723) is held there; the separate Gutenberg texts of the New Theory of Vision, Three Dialogues, Querist and Bermuda Proposal (PG 4722, 4724, 4543, 31848) are all inside Fraser's edition and are not taken as second witnesses. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Hobbes
+
+Shelf: `pipeline/hobbes_shelf.json`. Thomas Hobbes (1588-1679): The English Works of Thomas Hobbes of Malmesbury, ed. Sir William Molesworth (London: John Bohn, 1839-1845, 11 vols.), vols. 1-7, clean Gutenberg. Vol. 1 is the English Elements of Philosophy (De Corpore). Leviathan is also on the Adler shelf (PG 3207) in a different edition. Vols. 8-11 (the Thucydides and Homer translations, and the index) are not on Gutenberg; Hobbes's Thucydides and Homer are held on the thucydides and homer shelves. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): Molesworth vols. 8-11 if a scan is wanted for completeness.
+
+## Francis Bacon
+
+Shelf: `pipeline/francis-bacon_shelf.json`. Francis Bacon (1561-1626), clean Gutenberg: the Essays or Counsels, Civil and Moral, New Atlantis, and Valerius Terminus (with R. L. Ellis's preface from the Spedding edition). Named francis-bacon to keep him apart from Roger Bacon. The Advancement of Learning (PG 5500) and Novum Organum (PG 45988) are on the Adler shelf and are not taken again. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): the Wisdom of the Ancients in a standalone text; Spedding, Ellis and Heath's Works (1857-1874).
+
+## Machiavelli in English
+
+Shelf: `pipeline/machiavelli_shelf.json`. Niccolò Machiavelli (1469-1527) in English: Christian E. Detmold's The Historical, Political, and Diplomatic Writings (Boston: James R. Osgood, 1882, 4 vols.), raw IA OCR (Toronto); and the History of Florence from Gutenberg (a 1901 Universal Classics Library printing, New York; translator not named in the book, introduction by Hugo Albert Rennert). The Prince is held on the Adler shelf (Marriott, PG 1232) and singles-ideas-3 (Ricci), and Thomson's Discourses on singles-ideas; none is taken again. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Descartes in English
+
+Shelf: `pipeline/descartes_shelf.json`. René Descartes (1596-1650) in English, translator per row. Raw IA OCR: Haldane and Ross's Philosophical Works, vol. I (Cambridge, 1911). Clean Gutenberg: the first English Discourse of a Method (London: Thomas Newcombe, 1649; translator unnamed). Vol. II of Haldane and Ross (first published 1912) is wanted: the only scans found are 1931 and 1934 reprints (post-1930 printings, Adam's open class). Veitch's Method and Meditations are on the Adler shelf, his Principles on singles-ideas, and Molyneux's Six Metaphysical Meditations (1680) on singles-ideas-3; none is taken again. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): Haldane and Ross vol. II (Cambridge, 1912) in a pre-1931 printing.
+
+## Rousseau in English
+
+Shelf: `pipeline/rousseau_shelf.json`. Jean-Jacques Rousseau (1712-1778): the Confessions, complete in twelve books, from Gutenberg (privately printed for the members of the Aldus Society, London, 1903; translator not named in the book). The Social Contract and Discourses (Cole, PG 46333) are on the Adler shelf, Emile on rousseau-emile, and Eloisa on singles-fiction-3; none is taken again. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+## Locke
+
+Shelf: `pipeline/locke_shelf.json`. John Locke (1632-1704). Clean Gutenberg: An Essay Concerning Humane Understanding, vol. 2 (based on the 2nd edition); vol. 1 (PG 10615) and the Second Treatise (PG 7370) are on the Adler shelf. Raw IA OCR: Some Thoughts Concerning Education, ed. R. H. Quick (Cambridge, 2nd ed., 1889). Wanted: Locke's Works (11th or 12th ed., 1812/1823, 10 vols.); a dated Letters on Toleration (the Ward, Lock scan found prints no year). No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+
+Pending (wishlist): Locke's Works (1812 or 1823, 10 vols.); a dated Letters on Toleration.
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.
