@@ -1,0 +1,44 @@
+{
+ "_about": "Bernard le Bovier de Fontenelle (1657-1757) in English, raw IA OCR: two translations of the Entretiens sur la pluralité des mondes, distinct from Miss Gunning's on singles-ideas-3: Joseph Glanvill's A Plurality of Worlds (London: R. W. for Tho. Osbourne; the OCR reads 1703, IA catalogues 1702) and William Gardiner's A Week's Conversation on the Plurality of Worlds, with Addison's Defence of the Newtonian Philosophy (London: A. Bettesworth and others, 1737). US public domain. No uids minted.",
+ "_author": "Bernard le Bovier de Fontenelle",
+ "_name_words": [
+  "bernard",
+  "le",
+  "bovier",
+  "de",
+  "fontenelle",
+  "m",
+  "monsieur"
+ ],
+ "_surname": [
+  "fontenelle"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fontenelle-glanvill-plurality-1703": [
+   "pluralityofworld00font",
+   "A Plurality of Worlds, written in French by the author of the Dialogues of the Dead (London: Tho. Osbourne, 1703)",
+   "tr. Joseph Glanvill"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "fontenelle-glanvill-plurality-1703": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1702",
+   "ia_date": "1702",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "fontenelle-glanvill-plurality-1703": {
+   "author": "title page read 2026-10-17: 'A Plurality of Worlds. Written in French by the Author of the Dialogues of the Dead. Translated into English by Mr. Glanvill. London, printed for R. W. and sold by Tho. Osbourne ...'; the title page names Fontenelle only as the author of the Dialogues of the Dead (Fontenelle's Nouveaux dialogues des morts, 1683), so the surname test cannot see him"
+  }
+ }
+}

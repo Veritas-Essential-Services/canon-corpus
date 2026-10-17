@@ -4236,6 +4236,7 @@ Shelf: `pipeline/fontenelle_shelf.json`. Glanvill (1703) and Gardiner (1737); Gu
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| A Plurality of Worlds, written in French by the author of the Dialogues of the Dead (London: Tho. Osbourne, 1703) | Joseph Glanvill | `fontenelle-glanvill-plurality-1703` | have-raw (IA `pluralityofworld00font`) |
 
 ## Perseus census (overflow)
 
