@@ -816,3 +816,9 @@
 - 8 new shelves, 19 IA volumes: jeremy-bentham (Principles of Morals 1907), thomas-hill-green (Works 3 vols, Prolegomena 1890), f-h-bradley (Ethical Studies, Logic 1883, Appearance and Reality 1908), bernard-bosanquet (Theory of the State 1899, History of Aesthetic 1892), ralph-cudworth (True Intellectual System 1845, 3 vols), richard-price (Review of Morals 1769), francis-hutcheson (4 vols, 1726-1755), helvetius (De l'Esprit 1759)
 - Hutcheson's Inquiry title-page year reads 1716 in the OCR; IA catalogues 1726 (inference recorded in the shelf)
 - Schelling: no pre-1930 English translation found on IA beyond journal pieces; left for later
+
+## 2026-10-17 17:28 CDT — Round 2026-10-17g: Dewey, Santayana, Royce, Peirce, James Mill, Schiller
+- 6 new shelves, 28 PG texts: john-dewey (15 works 1888-1922), george-santayana (9 works 1896-1923), josiah-royce (1), charles-s-peirce (1), james-mill (Analysis vol. I 1878), schiller-essays (1899)
+- Held for Adam's post-1930 printings class: Dewey's Child and the Curriculum (PG 29259, 1966 impression) and Public and its Problems (PG 71000, Swallow reprint); d'Holbach's System of Nature (PG 8909-8910, facsimile with a modern introduction) and Ecce Homo (PG 39052, 1977 reprint)
+- Held as undated: d'Holbach's Good Sense (PG 7319, c. 1900 by the transcriber's guess)
+- Not taken: Santayana's Some Turns of Thought (1933)
