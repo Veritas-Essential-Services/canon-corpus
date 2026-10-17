@@ -1,5 +1,5 @@
 {
- "_about": "Bernard Bosanquet (1848-1923), in his own works, raw IA OCR: The Philosophical Theory of the State (Macmillan, 1899) and A History of Aesthetic (Swan Sonnenschein, 1892). His editions of Lotze and his Hegel translation are on the lotze and hegel-translations shelves. Added in round ac: Knowledge and Reality, a criticism of Mr. F. H. Bradley's Principles of Logic (London: Kegan Paul, Trench, 1885); The Principle of Individuality and Value, Gifford Lectures for 1911 (London: Macmillan, 1912). US public domain. Wanted: Logic, or the Morphology of Knowledge (1888), Knowledge and Reality (1885), The Principle of Individuality and Value (1912). No uids minted.",
+ "_about": "Bernard Bosanquet (1848-1923), in his own works, raw IA OCR: The Philosophical Theory of the State (Macmillan, 1899) and A History of Aesthetic (Swan Sonnenschein, 1892). His editions of Lotze and his Hegel translation are on the lotze and hegel-translations shelves. Added in round ac: Knowledge and Reality, a criticism of Mr. F. H. Bradley's Principles of Logic (London: Kegan Paul, Trench, 1885); The Principle of Individuality and Value, Gifford Lectures for 1911 (London: Macmillan, 1912). Added in round ae: Logic, or the Morphology of Knowledge, 2nd ed., vol. I (Oxford: Clarendon Press, 1911); Logic, or the Morphology of Knowledge, 2nd ed., vol. II (Oxford: Clarendon Press, 1911). US public domain. No uids minted.",
  "_author": "Bernard Bosanquet",
  "_name_words": [
   "bernard",
@@ -26,6 +26,14 @@
   "bosanquet-individuality-and-value-1912": [
    "principleofind00bosauoft",
    "The Principle of Individuality and Value, Gifford Lectures for 1911 (London: Macmillan, 1912)"
+  ],
+  "bosanquet-logic-2nd-ed-1911-v1": [
+   "logicormorpholog01bosaiala",
+   "Logic, or the Morphology of Knowledge, 2nd ed., vol. I (Oxford: Clarendon Press, 1911)"
+  ],
+  "bosanquet-logic-2nd-ed-1911-v2": [
+   "logicormorpholog02bosaiala",
+   "Logic, or the Morphology of Knowledge, 2nd ed., vol. II (Oxford: Clarendon Press, 1911)"
   ]
  },
  "_excluded": {},
@@ -71,6 +79,28 @@
    "identity": "ok",
    "ia_rights": "ok: published 1912",
    "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bosanquet-logic-2nd-ed-1911-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bosanquet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bosanquet-logic-2nd-ed-1911-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bosanquet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
