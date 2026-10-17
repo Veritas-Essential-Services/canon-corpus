@@ -66,6 +66,16 @@
    "lecturesonphilos00hege",
    "Lectures on the Philosophy of History, translated from the third German edition (Bohn; London: George Bell, 1881)",
    "tr. J. Sibree"
+  ],
+  "hegel-baillie-phenomenology-1910-v1": [
+   "cu31924097557171",
+   "The Phenomenology of Mind, translated with an introduction and notes, vol. I (Library of Philosophy; London: Swan Sonnenschein, 1910)",
+   "tr. J. B. Baillie"
+  ],
+  "hegel-baillie-phenomenology-1910-v2": [
+   "cu31924091023832",
+   "The Phenomenology of Mind, vol. II (Library of Philosophy; London: Swan Sonnenschein, 1910)",
+   "tr. J. B. Baillie"
   ]
  },
  "_excluded": {},
@@ -78,7 +88,9 @@
   "hegel-osmaston-fine-art-1920-v4": "Osmaston",
   "hegel-haldane-history-of-philosophy-1892-v1": "Haldane",
   "hegel-haldane-history-of-philosophy-1894-v2": "Simson",
-  "hegel-haldane-history-of-philosophy-1896-v3": "Simson"
+  "hegel-haldane-history-of-philosophy-1896-v3": "Simson",
+  "hegel-baillie-phenomenology-1910-v1": "Baillie",
+  "hegel-baillie-phenomenology-1910-v2": "Baillie"
  },
  "_checks": {
   "hegel-wallace-logic-1892": {
@@ -201,6 +213,32 @@
    "ia_rights": "ok: published 1881",
    "ia_date": "1881",
    "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hegel-baillie-phenomenology-1910-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Baillie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hegel-baillie-phenomenology-1910-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Baillie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
