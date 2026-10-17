@@ -1,0 +1,39 @@
+{
+ "_about": "Gabriel Tarde (1843-1904): The Laws of Imitation, tr. from the second French edition by Elsie Clews Parsons, introduction by Franklin H. Giddings (New York: Henry Holt, 1903), raw IA OCR. US public domain. No uids minted.",
+ "_author": "Gabriel Tarde",
+ "_name_words": [
+  "gabriel",
+  "tarde"
+ ],
+ "_surname": [
+  "tarde"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tarde-parsons-laws-of-imitation-1903": [
+   "lawsofimitation00tard",
+   "The Laws of Imitation (New York: Henry Holt, 1903)",
+   "tr. Elsie Clews Parsons"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "tarde-parsons-laws-of-imitation-1903": "Parsons"
+ },
+ "_checks": {
+  "tarde-parsons-laws-of-imitation-1903": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "tarde",
+   "translator_claimed": "Parsons",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
