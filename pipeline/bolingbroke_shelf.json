@@ -1,0 +1,35 @@
+{
+ "_about": "Henry St. John, Viscount Bolingbroke (1678-1751): Letters to Sir William Windham and Mr. Pope, edited by Henry Morley, from Project Gutenberg (the etext names no printing). US public domain. Wanted: the Letters on the Study and Use of History and the Idea of a Patriot King. No uids minted.",
+ "_author": "Henry St. John, Viscount Bolingbroke",
+ "_name_words": [
+  "henry",
+  "st",
+  "john",
+  "viscount",
+  "lord",
+  "bolingbroke"
+ ],
+ "_surname": [
+  "bolingbroke"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bolingbroke-letters-windham-pope": [
+   5132,
+   "Letters to Sir William Windham and Mr. Pope, ed. Henry Morley (the etext names no printing)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "bolingbroke-letters-windham-pope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bolingbroke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
