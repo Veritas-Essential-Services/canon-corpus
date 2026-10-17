@@ -1,0 +1,58 @@
+{
+ "_about": "Baron d'Holbach (1723-1789), materialist of the French Enlightenment: The System of Nature, with notes by Diderot, tr. H. D. Robinson, two volumes in one (Boston: J. P. Mendum, 1868; raw IA OCR), and Good Sense, from Le Bon Sens, translator unnamed (London: W. Stewart, undated, c. 1900 by the Gutenberg transcriber's note; clean Gutenberg text). Held: Gutenberg's System of Nature (8909-8910), which is a modern facsimile of the 1820-21 translation carrying a modern introduction, and Ecce Homo (39052), a 1977 facsimile. Letters to Eugenia is on Lane C's ac-middleton. US public domain. No uids minted.",
+ "_author": "Paul Henri Thiry, baron d'Holbach",
+ "_name_words": [
+  "holbach",
+  "baron",
+  "paul",
+  "henri",
+  "thiry",
+  "mirabaud"
+ ],
+ "_surname": [
+  "holbach",
+  "d'holbach"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "holbach-good-sense-c1900": [
+   7319,
+   "Good Sense, a translation of Le Bon Sens (London: W. Stewart, undated, c. 1900)"
+  ]
+ },
+ "internet_archive": {
+  "holbach-robinson-system-of-nature-1868": [
+   "systemofnatureor68holb",
+   "The System of Nature, with notes by Diderot, two volumes in one (Boston: J. P. Mendum, 1868)",
+   "tr. H. D. Robinson"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "holbach-robinson-system-of-nature-1868": "Robinson"
+ },
+ "_checks": {
+  "holbach-good-sense-c1900": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "holbach",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "holbach-robinson-system-of-nature-1868": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "holbach",
+   "translator_claimed": "Robinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
