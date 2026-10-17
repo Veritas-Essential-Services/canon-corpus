@@ -698,7 +698,7 @@
   "garnett-dostoevsky-poor-folk": "Poor Folk / Uncle's Dream: no Garnett version verified. The 1915 'Poor Folk and The Gambler' scans on IA are the Everyman (C. J. Hogarth) translation. Whether Garnett ever published these is unverified - do not list as hers without a title page.",
   "garnett-war-and-peace-1904": "Heinemann 1904 first printing, wanted to replace the later scan.",
   "garnett-turgenev-novels-1894": "The rest of the 15-vol Heinemann set as scans (e.g. IA novelsofivanturg02turg ...): only to replace PG texts if they prove defective.",
-  "garnett-war-and-peace": "Garnett's War and Peace (Heinemann 1904), volumes I and II: no pre-1931 scan found (searched 2026-10-17: the IA copies are Dole, Maude, Wiener, Bell or post-1930 Random House). Volume III is held as garnett-war-and-peace-vol3 from the DLI Heinemann 1904 scan.",
+  "garnett-war-and-peace": "Garnett's War and Peace (Heinemann 1904), volumes I and II: no pre-1931 scan found (searched 2026-10-17: the IA copies are Dole, Maude, Wiener, Bell or post-1930 Random House). Volume III is held as garnett-war-and-peace-vol3 from the DLI Heinemann 1904 scan. Found 2026-10-17: archive.org warpeace01tols_0 is the COMPLETE novel in Garnett's translation (title page: 'Translated by Constance Garnett', Carlton House, New York, printed by J. J. Little & Ives; Duke University copy). IA dates it 1900, but the printing carries no date and Carlton House editions are reprints from the 1930s or later, so it is held back under the pre-1931 printing rule. The words are the 1904 translation and are public domain; if Adam accepts late reprints of public-domain texts (the same ruling as the thirteen flagged in DIGEST-C), this scan supplies volumes I and II.",
   "garnett-chekhov-letters-to-knipper": "The Letters of Anton Pavlovitch Tchehov to Olga Leonardovna Knipper (Chatto 1925 / Doran 1926): only a 1966 Blom reprint is on the Internet Archive (lettersofantonpa0000chek); held back as a facsimile until Adam rules on facsimiles."
  },
  "_excluded": {
@@ -720,7 +720,8 @@
   "novelsoffyodordo12dost": "IA-dated 1920; imprint page reads 'new impression 1949, reprinted 1951, 1961, 1969, 1974'.",
   "friendoffamily0000unse_r7t4": "Heinemann 1920 per IA; imprint page reads reprinted to 1969.",
   "bwb_P9-DUB-268": "Modern Library Giant War and Peace (Random House). IA dates it 1910, but the Giants series began in 1931: a post-1930 printing.",
-  "ia-warpeace0000coun_g3a9": "Random House War and Peace in Garnett's translation, IA-dated 1910 but a Modern Library printing (the Garnett Modern Library edition began in 1931): post-1930."
+  "ia-warpeace0000coun_g3a9": "Random House War and Peace in Garnett's translation, IA-dated 1910 but a Modern Library printing (the Garnett Modern Library edition began in 1931): post-1930.",
+  "ia-warpeace0000lyof": "Scribner's 1904 'Novels and Other Works of Lyof N. Tolstoi', War and Peace vols III, IV and VI (also warpeace0000lyof_p5p4, warpeace0000lyof_p3p0): Crowell copyright 1899, Nathan Haskell Dole's translation, not Garnett's. Checked 2026-10-17."
  },
  "_notes": {
   "pg-30723": "PG 30723 Fathers and Children credits Garnett in its header (catalogue lists W. A. Neilson as introducer)."
