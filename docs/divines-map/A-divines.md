@@ -5030,3 +5030,22 @@ Slugs `teresa-*`. Translators: David Lewis, John Dalton, the Benedictines of Sta
 | CCEL teresa/way (Peers, 1964); teresa/castle2 is a 1921 transcription superseded by the 1912 scan | excluded | |
 | Lives and appreciations by others; The Spirit of S. Teresa (a compilation) | excluded | |
 | printings of 1930 and later; French editions | excluded | |
+
+## John of the Cross (round 24, my pick, 2026-10-17)
+
+Slugs `john-cross-*`. Translators: David Lewis (1864; revised by Zimmerman 1906-1912), Gabriela Cunninghame Graham (1905).
+
+| Work | Status | Where |
+|---|---|---|
+| The Complete Works of Saint John of the Cross, vol. I: the Ascent of Mount Carmel and the Dark Night, tr. David Lewis (London: Longman, Green, 1864) | have-ocr | IA `CompleteWorksOfSaintJohnOfTheCrossV1` |
+| The Complete Works of Saint John of the Cross, vol. II: the Spiritual Canticle, the Living Flame and other works, tr. David Lewis (London: Longman, Green, 1864) | have-ocr | IA `TheCompleteWorksOfSaintJohnOfTheV2` |
+| The Dark Night of the Soul, done into English by Gabriela Cunninghame Graham (London: John M. Watkins, 1905) | have-ocr | IA `darknightofsoul00johnuoft` |
+| The Ascent of Mount Carmel, tr. David Lewis, revised by Benedict Zimmerman (London: Thomas Baker, MDCCCCVI) | have-ocr | IA `TheAscentOfMountCarmel` |
+| The Dark Night of the Soul, tr. David Lewis, revised by Benedict Zimmerman (London: Thomas Baker, MCMVIII) | have-ocr | IA `darknightofsoul00sain` |
+| A Spiritual Canticle of the Soul and the Bridegroom Christ, tr. David Lewis, revised by Benedict Zimmerman (London: Thomas Baker, MCMIX) | have-ocr | IA `spiritualcanticl09john` |
+| The Living Flame of Love, with his Letters, Poems and Minor Writings, tr. David Lewis (London: Thomas Baker, MCMXII) | have-ocr | IA `livingflameoflov0000stjo` |
+| Other 1864 copies; Lewis's second edition of the Dark Night, Canticle and Living Flame (Baker, 1891; darknightofsouls00sain); further 1906-1922 printings | alternate | not shelved |
+| CCEL john_cross/canticle: the 1909 Lewis text modernised by its digitiser in 1995, no print source | alternate | not shelved |
+| CCEL john_cross/ascent and dark_night: Peers's translation (1950s) | excluded | |
+| Lives by Lewis (1897) and Heriz (1919) | excluded | |
+| printings of 1934 and later; French editions | excluded | |

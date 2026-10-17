@@ -1,0 +1,155 @@
+{
+ "_about": "Public-domain John of the Cross (1542-1591, Carmelite) in English for the Word Hoard: David Lewis's Complete Works (1864, two volumes), his translation as revised by Benedict Zimmerman (the Ascent, Dark Night, Spiritual Canticle and Living Flame, 1906-1912), and Gabriela Cunninghame Graham's independent Dark Night of the Soul (1905), all from Internet Archive scans. Added 2026-10-17 by lane A, round 24 (my pick); Adam may veto the whole shelf. Translators recorded per item; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "cross"
+ ],
+ "_surname": [
+  "john of the cross",
+  "juan de la cruz",
+  "s. john of the cross",
+  "saint john of the cross",
+  "st. john of the cross"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "john-cross-complete-works-1": [
+   "CompleteWorksOfSaintJohnOfTheCrossV1",
+   "The Complete Works of Saint John of the Cross, vol. I: the Ascent of Mount Carmel and the Dark Night, tr. David Lewis (London: Longman, Green, 1864)"
+  ],
+  "john-cross-complete-works-2": [
+   "TheCompleteWorksOfSaintJohnOfTheV2",
+   "The Complete Works of Saint John of the Cross, vol. II: the Spiritual Canticle, the Living Flame and other works, tr. David Lewis (London: Longman, Green, 1864)"
+  ],
+  "john-cross-dark-night-graham": [
+   "darknightofsoul00johnuoft",
+   "The Dark Night of the Soul, done into English by Gabriela Cunninghame Graham (London: John M. Watkins, 1905)"
+  ],
+  "john-cross-ascent-1906": [
+   "TheAscentOfMountCarmel",
+   "The Ascent of Mount Carmel, tr. David Lewis, revised by Benedict Zimmerman (London: Thomas Baker, MDCCCCVI)"
+  ],
+  "john-cross-dark-night-1908": [
+   "darknightofsoul00sain",
+   "The Dark Night of the Soul, tr. David Lewis, revised by Benedict Zimmerman (London: Thomas Baker, MCMVIII)"
+  ],
+  "john-cross-canticle-1909": [
+   "spiritualcanticl09john",
+   "A Spiritual Canticle of the Soul and the Bridegroom Christ, tr. David Lewis, revised by Benedict Zimmerman (London: Thomas Baker, MCMIX)"
+  ],
+  "john-cross-living-flame-1912": [
+   "livingflameoflov0000stjo",
+   "The Living Flame of Love, with his Letters, Poems and Minor Writings, tr. David Lewis (London: Thomas Baker, MCMXII)"
+  ]
+ },
+ "_alternates": {
+  "john-cross-copies": "Other 1864 copies; Lewis's second edition of the Dark Night, Canticle and Living Flame (Baker, 1891; darknightofsouls00sain); further 1906-1922 printings",
+  "john-cross-ccel-canticle": "CCEL john_cross/canticle: the 1909 Lewis text modernised by its digitiser in 1995, no print source"
+ },
+ "_excluded": {
+  "john-cross-ccel-peers": "CCEL john_cross/ascent and dark_night: Peers's translation (1950s)",
+  "john-cross-about": "Lives by Lewis (1897) and Heriz (1919)",
+  "john-cross-late": "printings of 1934 and later; French editions"
+ },
+ "_pending": {},
+ "_translators": {
+  "john-cross-complete-works-1": "lewis",
+  "john-cross-complete-works-2": "lewis",
+  "john-cross-dark-night-graham": "graham",
+  "john-cross-ascent-1906": "lewis",
+  "john-cross-dark-night-1908": "lewis",
+  "john-cross-canticle-1909": "lewis"
+ },
+ "_checks": {
+  "john-cross-complete-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john of the cross",
+   "translator_claimed": "lewis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "john-cross-complete-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john of the cross",
+   "translator_claimed": "lewis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "john-cross-dark-night-graham": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "juan de la cruz",
+   "translator_claimed": "graham",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "john-cross-ascent-1906": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john of the cross",
+   "translator_claimed": "lewis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "john-cross-dark-night-1908": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john of the cross",
+   "translator_claimed": "lewis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "john-cross-canticle-1909": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john of the cross",
+   "translator_claimed": "lewis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "john-cross-living-flame-1912": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john of the cross",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

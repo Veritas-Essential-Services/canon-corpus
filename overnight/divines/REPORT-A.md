@@ -1090,3 +1090,6 @@
 
 ## 2026-10-17 17:40 CDT — teresa-of-avila done
 - `pipeline/teresa-of-avila_shelf.json`: 1 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:40 CDT — john-of-the-cross done
+- `pipeline/john-of-the-cross_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
