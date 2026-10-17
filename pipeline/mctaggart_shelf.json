@@ -1,0 +1,82 @@
+{
+ "_about": "J. M. E. McTaggart (1866-1925), raw IA OCR: Some Dogmas of Religion (London: Edward Arnold, 1906; Digital Library of India scan), Studies in the Hegelian Dialectic (second edition, Cambridge, 1922) and The Nature of Existence (Cambridge: vol. I 1921; vol. II, edited by C. D. Broad, 1927). All published before 1930, so US public domain. Not taken: a 1968 reprint of The Nature of Existence vol. I (IA natureofexistenc00mcta). No uids minted.",
+ "_author": "John McTaggart Ellis McTaggart",
+ "_name_words": [
+  "john",
+  "mctaggart",
+  "ellis",
+  "j",
+  "e"
+ ],
+ "_surname": [
+  "mctaggart"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mctaggart-some-dogmas-of-religion-1906": [
+   "in.ernet.dli.2015.278056",
+   "Some Dogmas of Religion (London: Edward Arnold, 1906)",
+   "2015.278056.Some-Dogmas_djvu.txt"
+  ],
+  "mctaggart-studies-hegelian-dialectic-1922": [
+   "studiesinhegelia00mctauoft",
+   "Studies in the Hegelian Dialectic, second edition (Cambridge, 1922)"
+  ],
+  "mctaggart-nature-of-existence-1921-v1": [
+   "natureofexistenc01mctauoft",
+   "The Nature of Existence, vol. I (Cambridge, 1921)"
+  ],
+  "mctaggart-nature-of-existence-1927-v2": [
+   "natureofexistenc02mctauoft",
+   "The Nature of Existence, vol. II, ed. C. D. Broad (Cambridge, 1927)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "mctaggart-some-dogmas-of-religion-1906": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mctaggart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mctaggart-studies-hegelian-dialectic-1922": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mctaggart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mctaggart-nature-of-existence-1921-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mctaggart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1921-1927",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mctaggart-nature-of-existence-1927-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mctaggart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1921-1927",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
