@@ -1138,3 +1138,6 @@
 
 ## 2026-10-17 18:11 CDT — mechthild-of-hackeborn done
 - `pipeline/mechthild-of-hackeborn_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — mechthild-of-magdeburg done
+- `pipeline/mechthild-of-magdeburg_shelf.json`: 0 CCEL, 1 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.

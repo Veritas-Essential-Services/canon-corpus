@@ -5292,3 +5292,12 @@ Slugs `mechtild-*`. Translated by 'a Secular Priest', not named.
 | Select Revelations of S. Mechtild, Virgin, translated from the Latin by a Secular Priest (London: Thomas Richardson and Sons, 1875) | have-ocr | IA `selectrevelation00mech` |
 | Another copy of the 1875 Richardson printing (selectrevelatio00mechgoog) | alternate | not shelved |
 | The Life of St. Mechtildis (Rome, 1899) and The Love of the Sacred Heart illustrated by St. Mechtilde (1922): by other hands | excluded | |
+
+## Mechthild of Magdeburg (round 25, my pick, 2026-10-17)
+
+Slugs `mechthild-*`. Translator: Frances Bevan. Her extracts are woven into Bevan's own account, so the book is partly about Mechthild.
+
+| Work | Status | Where |
+|---|---|---|
+| Matelda and the Cloister of Hellfde: extracts from the Book of Matilda of Magdeburg, selected and translated by Frances Bevan (London: James Nisbet, 1896) | have-clean | Gutenberg 35811 |
+| Morel's German edition (Regensburg, 1869) | excluded | |
