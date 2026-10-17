@@ -5729,3 +5729,24 @@ Slugs `montfort-*`. Translators: Faber, Cruikshank.
 | The Secret of Mary unveiled to the Devout Soul, tr. A. P. J. Cruikshank (London: Art and Book Company, 1909) | have-ocr | IA `secretofmaryunve00grig` |
 | Faber's first edition (1863; OCR garbled), twelfth edition (about 1904) and Sherbrooke 1901; The Secret of Sanctity (Boston, 1887), an abridgement; the Dublin Secret of Mary (1926) | alternate | not shelved |
 | Modern Montfort Publications translations and everything from 1941 on | excluded | |
+
+## Jean-Nicolas Grou (round 26, my pick, 2026-10-17)
+
+Slugs `grou-*`. Translators: Clinton, Jones, Fitzgerald; the Hidden Life (Sidney Lear) is drawn from his writings 'not literally but substantially'.
+
+| Work | Status | Where |
+|---|---|---|
+| The School of Christ, tr. A. Clinton (Dublin: B. Fitzpatrick; catalogued 1801) | have-ocr | IA `TheSchoolOfChrist1801` |
+| The Hidden Life of the Soul, from his writings, by the author of 'A Dominican Artist' (London: Rivingtons, 1870) | have-ocr | IA `hiddenlifesoulb00grougoog` |
+| The Practical Science of the Cross (London: Joseph Masters, MDCCCLXXI) | have-ocr | IA `practicalscienc00grougoog` |
+| The Spiritual Maxims of Père Grou (London: J. T. Hayes; preface dated 1874) | have-ocr | IA `spiritualmaximso00grou` |
+| Meditations upon the Love of God, tr. A. C. Jones (London: J. T. Hayes; catalogued 1875) | have-ocr | IA `MeditationsUponTheLoveOfGod` |
+| Manual for Interior Souls, second edition (London: S. Anselm's Society, 1890) | have-ocr | IA `manualforinterio00grouiala` |
+| The Interior of Jesus and Mary, vol. I, third edition, ed. Samuel H. Frisbee (New York: Benziger, 1893) | have-ocr | IA `interiorofjesusm1grouuoft` |
+| How to Pray, tr. Teresa Fitzgerald, second edition (London: Thomas Baker, 1901) | have-ocr | IA `howtopray00grougoog` |
+| Rivingtons 1871-1889 and Longmans 1927 | alternate | not shelved |
+| Characteristics of True Devotion (Whittaker 1882; Suttaby 1884; Benziger 1895, Clinton revised by Frisbee) | alternate | not shelved |
+| The Christian Sanctified by the Lord's Prayer (1885), Self-Consecration (1887), the 1795 Dublin Characters | alternate | not shelved |
+| The Characters of Real Devotion, tr. Alexander Clinton (London: J. P. Coghlan, 1791): his name is not legible in the OCR | alternate | not shelved |
+| Stawell's School of Jesus Christ (1932) and other printings from 1930 on | excluded | |
+| Méditations (London, 1796): French | excluded | |

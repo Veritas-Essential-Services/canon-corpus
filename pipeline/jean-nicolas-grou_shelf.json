@@ -1,0 +1,171 @@
+{
+ "_about": "Public-domain Jean-Nicolas Grou (1731-1803, Jesuit spiritual writer) in English for the Word Hoard: The School of Christ tr. Alexander Clinton (Dublin, about 1801), The Hidden Life of the Soul (Rivingtons, 1870; from his writings, 'not literally but substantially'), The Practical Science of the Cross (1871), The Spiritual Maxims (about 1874), Meditations upon the Love of God tr. A. C. Jones, the Manual for Interior Souls (1890), The Interior of Jesus and Mary, vol. I (1893) and How to Pray tr. Teresa Fitzgerald (1901), from Internet Archive scans. Added 2026-10-17 by lane A, round 26 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "grou"
+ ],
+ "_surname": [
+  "grou",
+  "pere grou",
+  "père grou",
+  "abbé grou",
+  "abbe grou",
+  "father grou"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "grou-school-of-christ-clinton": [
+   "TheSchoolOfChrist1801",
+   "The School of Christ, tr. A. Clinton (Dublin: B. Fitzpatrick; catalogued 1801)"
+  ],
+  "grou-hidden-life-of-the-soul": [
+   "hiddenlifesoulb00grougoog",
+   "The Hidden Life of the Soul, from his writings, by the author of 'A Dominican Artist' (London: Rivingtons, 1870)"
+  ],
+  "grou-practical-science-cross": [
+   "practicalscienc00grougoog",
+   "The Practical Science of the Cross (London: Joseph Masters, MDCCCLXXI)"
+  ],
+  "grou-spiritual-maxims": [
+   "spiritualmaximso00grou",
+   "The Spiritual Maxims of Père Grou (London: J. T. Hayes; preface dated 1874)"
+  ],
+  "grou-meditations-love-of-god": [
+   "MeditationsUponTheLoveOfGod",
+   "Meditations upon the Love of God, tr. A. C. Jones (London: J. T. Hayes; catalogued 1875)"
+  ],
+  "grou-manual-interior-souls": [
+   "manualforinterio00grouiala",
+   "Manual for Interior Souls, second edition (London: S. Anselm's Society, 1890)"
+  ],
+  "grou-interior-jesus-mary-1": [
+   "interiorofjesusm1grouuoft",
+   "The Interior of Jesus and Mary, vol. I, third edition, ed. Samuel H. Frisbee (New York: Benziger, 1893)"
+  ],
+  "grou-how-to-pray": [
+   "howtopray00grougoog",
+   "How to Pray, tr. Teresa Fitzgerald, second edition (London: Thomas Baker, 1901)"
+  ]
+ },
+ "_alternates": {
+  "grou-hidden-life-copies": "Rivingtons 1871-1889 and Longmans 1927",
+  "grou-characteristics": "Characteristics of True Devotion (Whittaker 1882; Suttaby 1884; Benziger 1895, Clinton revised by Frisbee)",
+  "grou-other": "The Christian Sanctified by the Lord's Prayer (1885), Self-Consecration (1887), the 1795 Dublin Characters",
+  "grou-characters-1791": "The Characters of Real Devotion, tr. Alexander Clinton (London: J. P. Coghlan, 1791): his name is not legible in the OCR"
+ },
+ "_excluded": {
+  "grou-late": "Stawell's School of Jesus Christ (1932) and other printings from 1930 on",
+  "grou-french": "Méditations (London, 1796): French"
+ },
+ "_rights_checked": {
+  "grou-school-of-christ-clinton": "title page read: Dublin, B. Fitzpatrick, 4 Capel Street; year garbled; catalogued 1801",
+  "grou-spiritual-maxims": "title page read: J. T. Hayes; year garbled; preface dated East Grinsted, Quinquagesima 1874",
+  "grou-meditations-love-of-god": "title page read: J. T. Hayes, no year; catalogued 1875"
+ },
+ "_pending": {},
+ "_translators": {
+  "grou-school-of-christ-clinton": "clinton",
+  "grou-meditations-love-of-god": "jones",
+  "grou-how-to-pray": "fitzgerald"
+ },
+ "_checks": {
+  "grou-school-of-christ-clinton": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "grou",
+   "translator_claimed": "clinton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1801",
+   "ia_date": "1801",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Dublin, B. Fitzpatrick, 4 Capel Street; year garbled; catalogued 1801"
+  },
+  "grou-hidden-life-of-the-soul": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "grou",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grou-practical-science-cross": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "grou",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grou-spiritual-maxims": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "grou",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: J. T. Hayes; year garbled; preface dated East Grinsted, Quinquagesima 1874"
+  },
+  "grou-meditations-love-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "grou",
+   "translator_claimed": "jones",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: J. T. Hayes, no year; catalogued 1875"
+  },
+  "grou-manual-interior-souls": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "grou",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grou-interior-jesus-mary-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "grou",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grou-how-to-pray": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "grou",
+   "translator_claimed": "fitzgerald",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
