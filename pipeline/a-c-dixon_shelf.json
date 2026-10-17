@@ -1,0 +1,126 @@
+{
+ "_about": "Public-domain A. C. Dixon (Amzi Clarence Dixon, 1854-1925, Baptist, Moody Church and the Metropolitan Tabernacle, editor of The Fundamentals) for the Word Hoard: 6 books of his own from Internet Archive scans, 1890-1906, among them Milk and Meat (1893) and Evangelism Old and New (1905). The Fundamentals and the conference volumes he edited are multi-author and left off. Raw OCR. Added 2026-10-17 by lane A, round 22 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "dixon"
+ ],
+ "_surname": [
+  "a. c. dixon",
+  "amzi clarence dixon",
+  "amzi c. dixon",
+  "dixon, a. c.",
+  "rev. a. c. dixon",
+  "a. c. dixon, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dixon-true-and-false": [
+   "truefalse00dixo",
+   "The True and the False (Baltimore: Wharton, Barron, copyright 1890)"
+  ],
+  "dixon-milk-and-meat": [
+   "milkmeattwentyfo00dixo",
+   "Milk and Meat: Twenty-four Sermons (New York: Baker & Taylor, copyright 1893)"
+  ],
+  "dixon-lights-and-shadows": [
+   "lightsshadowsofa00dixo",
+   "Lights and Shadows of American Life (New York, Chicago, Toronto: Fleming H. Revell, copyright 1898)"
+  ],
+  "dixon-present-day-life": [
+   "presentdaylifere00dixo",
+   "Present Day Life and Religion: Sermons on Cardinal Doctrines and Popular Sins (Cleveland: F. M. Barton, copyright 1905)"
+  ],
+  "dixon-evangelism-old-new": [
+   "evangelismoldnew0000acdi",
+   "Evangelism Old and New: God's Search for Man in All Ages (New York: American Tract Society, copyright 1905)"
+  ],
+  "dixon-young-converts-problems": [
+   "youngconvertspro00dixo",
+   "The Young Convert's Problems and Their Solution (Boston, New York, Chicago: American Tract Society, copyright 1906)"
+  ]
+ },
+ "_alternates": {
+  "dixon-copies": "Second copies: Milk and Meat, Revell reissue (bwb_S0-CPQ-469); Lights and Shadows (lightsshadowsofa0000reva, lightsshadowsofa00dixo_0); The Young Convert's Problems (youngconvertspro01dixo)"
+ },
+ "_excluded": {
+  "dixon-edited": "The Person and Ministry of the Holy Spirit (1890, edited), The Holy Spirit in Life and Service (1895, his introduction), The Fundamentals and Advent Testimony Addresses: multi-author",
+  "dixon-bounds": "Bounds's Power Through Prayer (PG 65115): his introduction only",
+  "dixon-late": "lending-only scans of 1960-1988",
+  "dixon-namesakes": "A. C. Dixon the mathematician and others"
+ },
+ "_identity_checked": {
+  "dixon-true-and-false": {
+   "author": "Title page read: '... Dixon, Pastor of the Immanuel Baptist Church, Baltimore', initials OCR garbled to 'AiG'; Wharton, Barron, copyright 1890"
+  }
+ },
+ "_pending": {},
+ "_checks": {
+  "dixon-true-and-false": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dixon-milk-and-meat": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. c. dixon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "dixon-lights-and-shadows": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. c. dixon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "dixon-present-day-life": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. c. dixon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "dixon-evangelism-old-new": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. c. dixon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dixon-young-converts-problems": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. c. dixon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

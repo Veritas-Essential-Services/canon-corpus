@@ -4343,6 +4343,24 @@ Slugs `pentecost-*`. World Rulers of Darkness moved to alternates: no name reada
 | Song Victories of the Bliss and Sankey Hymns and Dewey's True Science of Living: his introductions only | excluded | |
 | Studies in the Gospel of St. John (1946) | excluded | |
 | Hugh Pentecost and others | excluded | |
+
+## A. C. Dixon (round 22, my pick, 2026-10-17)
+
+Slugs `dixon-*`. Six books of his own; The Fundamentals and conference volumes he edited are left off.
+
+| Work | Status | Where |
+|---|---|---|
+| The True and the False (Baltimore: Wharton, Barron, copyright 1890) | have-ocr | IA `truefalse00dixo` |
+| Milk and Meat: Twenty-four Sermons (New York: Baker & Taylor, copyright 1893) | have-ocr | IA `milkmeattwentyfo00dixo` |
+| Lights and Shadows of American Life (New York, Chicago, Toronto: Fleming H. Revell, copyright 1898) | have-ocr | IA `lightsshadowsofa00dixo` |
+| Present Day Life and Religion: Sermons on Cardinal Doctrines and Popular Sins (Cleveland: F. M. Barton, copyright 1905) | have-ocr | IA `presentdaylifere00dixo` |
+| Evangelism Old and New: God's Search for Man in All Ages (New York: American Tract Society, copyright 1905) | have-ocr | IA `evangelismoldnew0000acdi` |
+| The Young Convert's Problems and Their Solution (Boston, New York, Chicago: American Tract Society, copyright 1906) | have-ocr | IA `youngconvertspro00dixo` |
+| Second copies: Milk and Meat, Revell reissue (bwb_S0-CPQ-469); Lights and Shadows (lightsshadowsofa0000reva, lightsshadowsofa00dixo_0); The Young Convert's Problems (youngconvertspro01dixo) | alternate | not shelved |
+| The Person and Ministry of the Holy Spirit (1890, edited), The Holy Spirit in Life and Service (1895, his introduction), The Fundamentals and Advent Testimony Addresses: multi-author | excluded | |
+| Bounds's Power Through Prayer (PG 65115): his introduction only | excluded | |
+| lending-only scans of 1960-1988 | excluded | |
+| A. C. Dixon the mathematician and others | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

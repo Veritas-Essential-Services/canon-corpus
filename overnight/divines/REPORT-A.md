@@ -1009,3 +1009,6 @@
 
 ## 2026-10-17 17:22 CDT — george-f-pentecost done
 - `pipeline/george-f-pentecost_shelf.json`: 0 CCEL, 0 PG, 13 IA. Title pages read for pentecost-bible-studies-1892, pentecost-bible-studies-1893 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — a-c-dixon done
+- `pipeline/a-c-dixon_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for dixon-true-and-false (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
