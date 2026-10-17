@@ -1038,3 +1038,6 @@
 
 ## 2026-10-17 17:39 CDT — richards: done
 - richards: completed, 34 more Gutenberg books (43 on the shelf), 34,506 units, 66 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:39 CDT — jacob-abbott: done
+- jacob-abbott: completed, 25 more Gutenberg books (29 on the shelf), 27,177 units, 51 ~2 ids; verify 0 mismatches, 0 rights flags.

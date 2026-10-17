@@ -3658,7 +3658,7 @@ Shelf: `pipeline/sophie-may_shelf.json` (2026-10-02; added at the coordinator's 
 
 ## Jacob Abbott
 
-Shelf: `pipeline/jacob-abbott_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The first Rollo books; cut by story and section, or by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/jacob-abbott_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Rollo, Lucy, Jonas, Marco Paul and Franconia books for children. All 29 of Jacob Abbott's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -3666,7 +3666,34 @@ Shelf: `pipeline/jacob-abbott_shelf.json` (2026-10-02; added at the coordinator'
 | Rollo at Play; Or, Safe Amusements | have | PG 11140, `jabbott-rollo-at-play` (939 units) |
 | Rollo's Experiments | have | PG 24993, `jabbott-rollos-experiments` (952 units) |
 | Rollo's Museum | have | PG 25548, `jabbott-rollos-museum` (1003 units) |
+| Marco Paul's Voyages and Travels; Vermont | have | PG 11681, `jabbott-marco-pauls-voyages-and-travels` (771 units) |
+| Jonas on a Farm in Winter | have | PG 12260, `jabbott-jonas-on-a-farm-in-winter` (1011 units) |
+| Mary Erskine | have | PG 14475, `jabbott-mary-erskine` (707 units) |
+| Georgie | have | PG 19256, `jabbott-georgie` (149 units) |
+| Rollo on the Atlantic | have | PG 22252, `jabbott-rollo-on-the-atlantic` (976 units) |
+| Rollo in Switzerland | have | PG 22377, `jabbott-rollo-in-switzerland` (925 units) |
+| Rollo on the Rhine | have | PG 22511, `jabbott-rollo-on-the-rhine` (823 units) |
+| Rollo in Paris | have | PG 22956, `jabbott-rollo-in-paris` (900 units) |
+| Rollo in Holland | have | PG 22972, `jabbott-rollo-in-holland` (1027 units) |
+| Rollo in Rome | have | PG 23430, `jabbott-rollo-in-rome` (1065 units) |
+| Caleb in the Country | have | PG 23989, `jabbott-caleb-in-the-country` (882 units) |
+| Rollo in London | have | PG 24182, `jabbott-rollo-in-london` (945 units) |
+| Rollo in Naples | have | PG 24488, `jabbott-rollo-in-naples` (972 units) |
+| Forests of Maine Marco Paul's Adventures in Pursuit of Knowledge | have | PG 24831, `jabbott-forests-of-maine-marco-pauls-adventures-in-pursuit-o` (837 units) |
+| Rollo in Scotland | have | PG 25174, `jabbott-rollo-in-scotland` (968 units) |
+| Rollo's Philosophy. [Air] | have | PG 25206, `jabbott-rollos-philosophy-air` (1122 units) |
+| Rollo in Geneva | have | PG 25355, `jabbott-rollo-in-geneva` (936 units) |
+| Stuyvesant: A Franconia Story | have | PG 28776, `jabbott-stuyvesant` (1246 units) |
+| Cousin Lucy's Conversations By the Author of the Rollo Books | have | PG 50793, `jabbott-cousin-lucys-conversations-by-the-author-of-the-roll` (1226 units) |
+| Bruno; or, lessons of fidelity, patience, and self-denial taught by a dog | have | PG 51859, `jabbott-bruno` (1145 units) |
+| Rollo Learning to Read | have | PG 61817, `jabbott-rollo-learning-to-read` (607 units) |
+| Rollo's Philosophy [Fire] | have | PG 62726, `jabbott-rollos-philosophy-fire` (950 units) |
+| Cousin Lucy at Study By the Author of the Rollo Books | have | PG 67601, `jabbott-cousin-lucy-at-study-by-the-author-of-the-rollo-book` (1122 units) |
+| Cousin Lucy at Play By the Author of the Rollo Books | have | PG 67689, `jabbott-cousin-lucy-at-play-by-the-author-of-the-rollo-books` (1047 units) |
+| Excursion to the Orkney Islands | have | PG 77259, `jabbott-excursion-to-the-orkney-islands` (956 units) |
 | jabbott-rollo-in-the-woods | excluded | PG 19195, 'Rollo in the Woods': a short Rollo Story Books number whose text is 94% the same paragraphs as Rollo at Play (PG 11140), which is kept; held once (2026-10-10). |
+| jabbott-makers-of-history | excluded | His Makers of History biographies and other histories (PG 6659, 10992, 11688, 16545, 21889, 25275, 25351, 25848, 26734, 26939, 27240, 27312, 27551, 27692, 27802, 28283, 28433, 28561, 28667, 29107, 30707, 40205, 64344) are left to the reading-lists thread's abbott-makers-of-history shelf, which holds Alexander the Great |
+| jabbott-treatises | excluded | Gentle Measures (PG 11667) and The Teacher (PG 12291, 22251) are books for parents and teachers, not stories |
 
 ## Oliver Optic
 

@@ -1,5 +1,5 @@
 {
- "_about": "Jacob Abbott's first Rollo books, stories of a boy's work, play and learning: Rollo at Work, Rollo at Play, Rollo's Experiments, Rollo's Museum. Rollo's Experiments and Rollo's Museum (both entered for copyright in 1839) print only \"by the author of Rollo learning to talk\" and the rest; the attribution to Abbott is the Gutenberg catalogue's. His Makers of History biographies, the Rollo travel books and the Franconia stories are left for now. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_about": "Jacob Abbott's first Rollo books, stories of a boy's work, play and learning: Rollo at Work, Rollo at Play, Rollo's Experiments, Rollo's Museum. Rollo's Experiments and Rollo's Museum (both entered for copyright in 1839) print only \"by the author of Rollo learning to talk\" and the rest; the attribution to Abbott is the Gutenberg catalogue's. His Makers of History biographies, the Rollo travel books and the Franconia stories are left for now. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto). On 2026-10-17 every other English text by Jacob Abbott at Gutenberg was added (25 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (0) and shared or misattributed files are listed in _excluded.",
  "_author": "Jacob Abbott",
  "_name_words": [
   "rollo"
@@ -69,16 +69,160 @@
     "start": "THE\\ CANAL\\.?$",
     "front": true
    }
+  ],
+  "jabbott-marco-pauls-voyages-and-travels": [
+   11681,
+   "Marco Paul's Voyages and Travels; Vermont"
+  ],
+  "jabbott-jonas-on-a-farm-in-winter": [
+   12260,
+   "Jonas on a Farm in Winter",
+   {
+    "contents_only": true
+   }
+  ],
+  "jabbott-mary-erskine": [
+   14475,
+   "Mary Erskine"
+  ],
+  "jabbott-georgie": [
+   19256,
+   "Georgie"
+  ],
+  "jabbott-rollo-on-the-atlantic": [
+   22252,
+   "Rollo on the Atlantic",
+   {
+    "contents_only": true
+   }
+  ],
+  "jabbott-rollo-in-switzerland": [
+   22377,
+   "Rollo in Switzerland"
+  ],
+  "jabbott-rollo-on-the-rhine": [
+   22511,
+   "Rollo on the Rhine"
+  ],
+  "jabbott-rollo-in-paris": [
+   22956,
+   "Rollo in Paris",
+   {
+    "contents_only": true
+   }
+  ],
+  "jabbott-rollo-in-holland": [
+   22972,
+   "Rollo in Holland"
+  ],
+  "jabbott-rollo-in-rome": [
+   23430,
+   "Rollo in Rome"
+  ],
+  "jabbott-caleb-in-the-country": [
+   23989,
+   "Caleb in the Country",
+   {
+    "contents_only": true
+   }
+  ],
+  "jabbott-rollo-in-london": [
+   24182,
+   "Rollo in London",
+   {
+    "contents_only": true
+   }
+  ],
+  "jabbott-rollo-in-naples": [
+   24488,
+   "Rollo in Naples",
+   {
+    "contents_only": true
+   }
+  ],
+  "jabbott-forests-of-maine-marco-pauls-adventures-in-pursuit-o": [
+   24831,
+   "Forests of Maine Marco Paul's Adventures in Pursuit of Knowledge"
+  ],
+  "jabbott-rollo-in-scotland": [
+   25174,
+   "Rollo in Scotland",
+   {
+    "contents_only": true
+   }
+  ],
+  "jabbott-rollos-philosophy-air": [
+   25206,
+   "Rollo's Philosophy. [Air]",
+   {
+    "contents_only": true
+   }
+  ],
+  "jabbott-rollo-in-geneva": [
+   25355,
+   "Rollo in Geneva"
+  ],
+  "jabbott-stuyvesant": [
+   28776,
+   "Stuyvesant: A Franconia Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "jabbott-cousin-lucys-conversations-by-the-author-of-the-roll": [
+   50793,
+   "Cousin Lucy's Conversations By the Author of the Rollo Books"
+  ],
+  "jabbott-bruno": [
+   51859,
+   "Bruno; or, lessons of fidelity, patience, and self-denial taught by a dog",
+   {
+    "contents_only": true
+   }
+  ],
+  "jabbott-rollo-learning-to-read": [
+   61817,
+   "Rollo Learning to Read",
+   {
+    "contents_only": true
+   }
+  ],
+  "jabbott-rollos-philosophy-fire": [
+   62726,
+   "Rollo's Philosophy [Fire]",
+   {
+    "contents_only": true
+   }
+  ],
+  "jabbott-cousin-lucy-at-study-by-the-author-of-the-rollo-book": [
+   67601,
+   "Cousin Lucy at Study By the Author of the Rollo Books",
+   {
+    "contents_only": true
+   }
+  ],
+  "jabbott-cousin-lucy-at-play-by-the-author-of-the-rollo-books": [
+   67689,
+   "Cousin Lucy at Play By the Author of the Rollo Books",
+   {
+    "contents_only": true
+   }
+  ],
+  "jabbott-excursion-to-the-orkney-islands": [
+   77259,
+   "Excursion to the Orkney Islands"
   ]
  },
  "internet_archive": {},
  "_excluded": {
-  "jabbott-rollo-in-the-woods": "PG 19195, 'Rollo in the Woods': a short Rollo Story Books number whose text is 94% the same paragraphs as Rollo at Play (PG 11140), which is kept; held once (2026-10-10)."
+  "jabbott-rollo-in-the-woods": "PG 19195, 'Rollo in the Woods': a short Rollo Story Books number whose text is 94% the same paragraphs as Rollo at Play (PG 11140), which is kept; held once (2026-10-10).",
+  "jabbott-makers-of-history": "His Makers of History biographies and other histories (PG 6659, 10992, 11688, 16545, 21889, 25275, 25351, 25848, 26734, 26939, 27240, 27312, 27551, 27692, 27802, 28283, 28433, 28561, 28667, 29107, 30707, 40205, 64344) are left to the reading-lists thread's abbott-makers-of-history shelf, which holds Alexander the Great",
+  "jabbott-treatises": "Gentle Measures (PG 11667) and The Teacher (PG 12291, 22251) are books for parents and teachers, not stories"
  },
  "_checks": {
   "jabbott-rollo-at-work": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "jacob abbott",
    "identity": "ok",
@@ -87,7 +231,7 @@
   },
   "jabbott-rollo-at-play": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "jacob abbott",
    "identity": "ok",
@@ -96,7 +240,7 @@
   },
   "jabbott-rollos-experiments": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "jacob abbott",
    "identity": "ok",
@@ -105,7 +249,232 @@
   },
   "jabbott-rollos-museum": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-marco-pauls-voyages-and-travels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-jonas-on-a-farm-in-winter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-mary-erskine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-georgie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-rollo-on-the-atlantic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-rollo-in-switzerland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-rollo-on-the-rhine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-rollo-in-paris": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-rollo-in-holland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-rollo-in-rome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-caleb-in-the-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-rollo-in-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-rollo-in-naples": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-forests-of-maine-marco-pauls-adventures-in-pursuit-o": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-rollo-in-scotland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-rollos-philosophy-air": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-rollo-in-geneva": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-stuyvesant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-cousin-lucys-conversations-by-the-author-of-the-roll": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-bruno": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-rollo-learning-to-read": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-rollos-philosophy-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-cousin-lucy-at-study-by-the-author-of-the-rollo-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-cousin-lucy-at-play-by-the-author-of-the-rollo-books": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jabbott-excursion-to-the-orkney-islands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "jacob abbott",
    "identity": "ok",
