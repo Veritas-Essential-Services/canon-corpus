@@ -3749,6 +3749,8 @@ Shelf: `pipeline/william-godwin_shelf.json`. Political Justice, first edition (1
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
+| An Enquiry Concerning Political Justice, and its Influence on General Virtue and Happiness, vol. I (London: G. G. J. and J. Robinson, 1793) |  | `godwin-political-justice-1793-v1` | have-raw (IA `enquiryconcernin01godw`) |
+| An Enquiry Concerning Political Justice, vol. II (London: G. G. J. and J. Robinson, 1793) |  | `godwin-political-justice-1793-v2` | have-raw (IA `enquiryconcernin02godw`) |
 
 ## Malebranche in English
 

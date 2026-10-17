@@ -1,0 +1,48 @@
+{
+ "_about": "William Godwin (1756-1836), raw IA OCR: An Enquiry Concerning Political Justice, and its influence on general virtue and happiness, first edition (London: G. G. J. and J. Robinson, 1793, 2 vols.). US public domain. No uids minted. Not to be confused with Parke Godwin, a translator on the singles shelves.",
+ "_author": "William Godwin",
+ "_name_words": [
+  "william",
+  "godwin"
+ ],
+ "_surname": [
+  "godwin"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "godwin-political-justice-1793-v1": [
+   "enquiryconcernin01godw",
+   "An Enquiry Concerning Political Justice, and its Influence on General Virtue and Happiness, vol. I (London: G. G. J. and J. Robinson, 1793)"
+  ],
+  "godwin-political-justice-1793-v2": [
+   "enquiryconcernin02godw",
+   "An Enquiry Concerning Political Justice, vol. II (London: G. G. J. and J. Robinson, 1793)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "godwin-political-justice-1793-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "godwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1793",
+   "ia_date": "1793",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "godwin-political-justice-1793-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "godwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1793",
+   "ia_date": "1793",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
