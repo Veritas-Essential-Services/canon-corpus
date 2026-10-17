@@ -3775,6 +3775,8 @@ Shelf: `pipeline/shaftesbury_shelf.json`. Characteristics, ed. Robertson (1900).
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
+| Characteristics of Men, Manners, Opinions, Times, etc., vol. I (London: Grant Richards, 1900) | Robertson | `shaftesbury-robertson-characteristics-1900-v1` | have-raw (IA `characteristicso01shafiala`) |
+| Characteristics of Men, Manners, Opinions, Times, etc., vol. II (London: Grant Richards, 1900) | Robertson | `shaftesbury-robertson-characteristics-1900-v2` | have-raw (IA `characteristicso02shaf`) |
 
 ## Thomas Reid
 
