@@ -1203,3 +1203,6 @@
 
 ## 2026-10-17 18:32 CDT — joanna-mathews: done
 - joanna-mathews: new shelf, 14 Gutenberg books, 16,509 units, 25 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:32 CDT — amanda-douglas: done
+- amanda-douglas: new shelf, 21 Gutenberg books, 47,292 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags.

@@ -23191,6 +23191,34 @@ Shelf: `pipeline/joanna-mathews_shelf.json` (2026-10-17; added at the coordinato
 | Bessie on Her Travels | have | PG 52214, `jmathews-bessie-on-her-travels` (1569 units) |
 | Bessie at school | have | PG 74645, `jmathews-bessie-at-school` (1386 units) |
 
+## Amanda M. Douglas
+
+Shelf: `pipeline/amanda-douglas_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and girls' series. Every English text under the name at Gutenberg that no other shelf holds (21 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Little Girl in Old Detroit | have | PG 20721, `adouglas-a-little-girl-in-old-detroit` (2434 units) |
+| A Little Girl in Old Salem | have | PG 20722, `adouglas-a-little-girl-in-old-salem` (1954 units) |
+| A Little Girl in Old Quebec | have | PG 23779, `adouglas-a-little-girl-in-old-quebec` (2044 units) |
+| A Little Girl in Old New York | have | PG 23780, `adouglas-a-little-girl-in-old-new-york` (1978 units) |
+| A Little Girl of Long Ago; Or, Hannah Ann A Sequel to a Little Girl in Old New York | have | PG 23781, `adouglas-a-little-girl-of-long-ago` (2178 units) |
+| A Little Girl in Old Boston | have | PG 23786, `adouglas-a-little-girl-in-old-boston` (2948 units) |
+| The Girls at Mount Morris | have | PG 24070, `adouglas-girls-at-mount-morris` (1742 units) |
+| Floyd Grandon's Honor | have | PG 24376, `adouglas-floyd-grandons-honor` (3060 units) |
+| A Modern Cinderella | have | PG 28441, `adouglas-a-modern-cinderella` (1660 units) |
+| A Little Girl in Old Philadelphia | have | PG 28648, `adouglas-a-little-girl-in-old-philadelphia` (2672 units) |
+| Hope Mills; Or, Between Friend and Sweetheart | have | PG 30436, `adouglas-hope-mills` (2226 units) |
+| Helen Grant's Schooldays | have | PG 32496, `adouglas-helen-grants-schooldays` (1939 units) |
+| In Wild Rose Time | have | PG 36907, `adouglas-in-wild-rose-time` (1690 units) |
+| Kathie's Soldiers | have | PG 40525, `adouglas-kathies-soldiers` (1760 units) |
+| A Little Girl in Old St. Louis | have | PG 41526, `adouglas-a-little-girl-in-old-st-louis` (2457 units) |
+| A Little Girl in Old San Francisco | have | PG 42582, `adouglas-a-little-girl-in-old-san-francisco` (2097 units) |
+| The Old Woman Who Lived in a Shoe; Or, There's No Place Like Home | have | PG 43659, `adouglas-old-woman-who-lived-in-a-shoe` (3305 units) |
+| A Little Girl in Old Pittsburg | have | PG 43769, `adouglas-a-little-girl-in-old-pittsburg` (2238 units) |
+| A Little Girl in Old Washington | have | PG 45045, `adouglas-a-little-girl-in-old-washington` (2518 units) |
+| A Little Girl in Old Chicago | have | PG 58410, `adouglas-a-little-girl-in-old-chicago` (2018 units) |
+| Seven daughters | have | PG 71729, `adouglas-seven-daughters` (2374 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

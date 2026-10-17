@@ -1,0 +1,338 @@
+{
+ "_about": "Amanda M. Douglas's novels and girls' series (the Little Girl and Sherburne books): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Amanda M. Douglas",
+ "_name_words": [
+  "douglas"
+ ],
+ "_surname": [
+  "amanda m. douglas"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "adouglas-a-little-girl-in-old-detroit": [
+   20721,
+   "A Little Girl in Old Detroit",
+   {
+    "contents_only": true
+   }
+  ],
+  "adouglas-a-little-girl-in-old-salem": [
+   20722,
+   "A Little Girl in Old Salem",
+   {
+    "contents_only": true
+   }
+  ],
+  "adouglas-a-little-girl-in-old-quebec": [
+   23779,
+   "A Little Girl in Old Quebec",
+   {
+    "contents_only": true
+   }
+  ],
+  "adouglas-a-little-girl-in-old-new-york": [
+   23780,
+   "A Little Girl in Old New York",
+   {
+    "contents_only": true
+   }
+  ],
+  "adouglas-a-little-girl-of-long-ago": [
+   23781,
+   "A Little Girl of Long Ago; Or, Hannah Ann A Sequel to a Little Girl in Old New York",
+   {
+    "contents_only": true
+   }
+  ],
+  "adouglas-a-little-girl-in-old-boston": [
+   23786,
+   "A Little Girl in Old Boston",
+   {
+    "contents_only": true
+   }
+  ],
+  "adouglas-girls-at-mount-morris": [
+   24070,
+   "The Girls at Mount Morris",
+   {
+    "contents_only": true
+   }
+  ],
+  "adouglas-floyd-grandons-honor": [
+   24376,
+   "Floyd Grandon's Honor"
+  ],
+  "adouglas-a-modern-cinderella": [
+   28441,
+   "A Modern Cinderella"
+  ],
+  "adouglas-a-little-girl-in-old-philadelphia": [
+   28648,
+   "A Little Girl in Old Philadelphia",
+   {
+    "contents_only": true
+   }
+  ],
+  "adouglas-hope-mills": [
+   30436,
+   "Hope Mills; Or, Between Friend and Sweetheart"
+  ],
+  "adouglas-helen-grants-schooldays": [
+   32496,
+   "Helen Grant's Schooldays",
+   {
+    "contents_only": true
+   }
+  ],
+  "adouglas-in-wild-rose-time": [
+   36907,
+   "In Wild Rose Time",
+   {
+    "contents_only": true
+   }
+  ],
+  "adouglas-kathies-soldiers": [
+   40525,
+   "Kathie's Soldiers",
+   {
+    "contents_only": true
+   }
+  ],
+  "adouglas-a-little-girl-in-old-st-louis": [
+   41526,
+   "A Little Girl in Old St. Louis"
+  ],
+  "adouglas-a-little-girl-in-old-san-francisco": [
+   42582,
+   "A Little Girl in Old San Francisco",
+   {
+    "contents_only": true
+   }
+  ],
+  "adouglas-old-woman-who-lived-in-a-shoe": [
+   43659,
+   "The Old Woman Who Lived in a Shoe; Or, There's No Place Like Home",
+   {
+    "contents_only": true
+   }
+  ],
+  "adouglas-a-little-girl-in-old-pittsburg": [
+   43769,
+   "A Little Girl in Old Pittsburg",
+   {
+    "contents_only": true
+   }
+  ],
+  "adouglas-a-little-girl-in-old-washington": [
+   45045,
+   "A Little Girl in Old Washington",
+   {
+    "contents_only": true
+   }
+  ],
+  "adouglas-a-little-girl-in-old-chicago": [
+   58410,
+   "A Little Girl in Old Chicago",
+   {
+    "contents_only": true
+   }
+  ],
+  "adouglas-seven-daughters": [
+   71729,
+   "Seven daughters"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "adouglas-a-little-girl-in-old-detroit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-a-little-girl-in-old-salem": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-a-little-girl-in-old-quebec": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-a-little-girl-in-old-new-york": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-a-little-girl-of-long-ago": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-a-little-girl-in-old-boston": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-girls-at-mount-morris": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-floyd-grandons-honor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-a-modern-cinderella": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-a-little-girl-in-old-philadelphia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-hope-mills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-helen-grants-schooldays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-in-wild-rose-time": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-kathies-soldiers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-a-little-girl-in-old-st-louis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-a-little-girl-in-old-san-francisco": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-old-woman-who-lived-in-a-shoe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-a-little-girl-in-old-pittsburg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-a-little-girl-in-old-washington": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-a-little-girl-in-old-chicago": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adouglas-seven-daughters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "amanda m. douglas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
