@@ -1,0 +1,53 @@
+{
+ "_about": "Public-domain Vincent de Paul (1581-1660, founder of the Congregation of the Mission and the Daughters of Charity) in English for the Word Hoard: Some Counsels of S. Vincent de Paul, with the Thoughts of Mademoiselle le Gras, translated and selected by E. K. Sanders (London: Heath, Cranton & Ouseley; translator's note 1914), from an Internet Archive scan. Added 2026-10-17 by lane A, round 26 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "vincent"
+ ],
+ "_surname": [
+  "vincent de paul",
+  "s. vincent de paul",
+  "st. vincent de paul",
+  "saint vincent de paul"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "vincent-some-counsels": [
+   "somecounselsofsv00depauoft",
+   "Some Counsels of S. Vincent de Paul, with the Thoughts of Mademoiselle le Gras, translated and selected by E. K. Sanders (London: Heath, Cranton & Ouseley; note dated 1914)"
+  ]
+ },
+ "_alternates": {
+  "vincent-wilson-life": "R. F. Wilson's Life of S. Vincent de Paul with some of his letters (Rivingtons, 1873): a life by another hand"
+ },
+ "_excluded": {
+  "vincent-late": "Leonard's Conferences (1952) and modern editions",
+  "vincent-about": "Maynard and Ansart: works about him"
+ },
+ "_rights_checked": {
+  "vincent-some-counsels": "title page read: Heath, Cranton & Ouseley, Fleet Lane, no year; translator's note dated London, January 1914; catalogued 1915"
+ },
+ "_pending": {
+  "vincent-conferences": "A pre-1930 English Conferences or Letters: not found"
+ },
+ "_translators": {
+  "vincent-some-counsels": "sanders"
+ },
+ "_checks": {
+  "vincent-some-counsels": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "vincent de paul",
+   "translator_claimed": "sanders",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Heath, Cranton & Ouseley, Fleet Lane, no year; translator's note dated London, January 1914; catalogued 1915"
+  }
+ }
+}

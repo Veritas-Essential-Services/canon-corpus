@@ -1213,3 +1213,6 @@
 
 ## 2026-10-17 18:45 CDT — jean-nicolas-grou done
 - `pipeline/jean-nicolas-grou_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:45 CDT — vincent-de-paul done
+- `pipeline/vincent-de-paul_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.

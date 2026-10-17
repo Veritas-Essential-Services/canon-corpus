@@ -5756,6 +5756,17 @@ Slugs `grou-*`. Translators: Clinton, Jones, Fitzgerald; the Hidden Life (Sidney
 | The Characters of Real Devotion, tr. Alexander Clinton (London: J. P. Coghlan, 1791): his name is not legible in the OCR | alternate | not shelved |
 | Stawell's School of Jesus Christ (1932) and other printings from 1930 on | excluded | |
 | Méditations (London, 1796): French | excluded | |
+
+## Vincent de Paul (round 26, my pick, 2026-10-17)
+
+Slugs `vincent-*`. Translator: E. K. Sanders.
+
+| Work | Status | Where |
+|---|---|---|
+| Some Counsels of S. Vincent de Paul, with the Thoughts of Mademoiselle le Gras, translated and selected by E. K. Sanders (London: Heath, Cranton & Ouseley; note dated 1914) | have-ocr | IA `somecounselsofsv00depauoft` |
+| R. F. Wilson's Life of S. Vincent de Paul with some of his letters (Rivingtons, 1873): a life by another hand | alternate | not shelved |
+| Leonard's Conferences (1952) and modern editions | excluded | |
+| Maynard and Ansart: works about him | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
