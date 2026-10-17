@@ -3620,6 +3620,7 @@ Shelf: `pipeline/descartes_shelf.json`. René Descartes (1596-1650) in English, 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Philosophical Works of Descartes, rendered into English, vol. I (Cambridge University Press, 1911) | Elizabeth S. Haldane and G. R. T. Ross | `descartes-haldane-ross-works-1911-v1` | have-raw (IA `philosophicalwor01desc`) |
 
 Pending (wishlist): Haldane and Ross vol. II (Cambridge, 1912) in a pre-1931 printing.
 
