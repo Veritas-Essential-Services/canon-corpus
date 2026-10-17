@@ -308,7 +308,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `montalba` | 1 Gutenberg | 0 | 1,111 | Fairy Tales from All Nations (London, 1849). The catalogue gives Montalba no dates; an 1849 book cannot be in copyright. |
 | `thomas-day` | 2 Gutenberg | 0 | 1,247 | The History of Sandford and Merton (1868 printing) and The History of Little Jack (1826 printing). |
 | `farrar` | 3 Gutenberg | 0 | 6,485 | Eric, or Little by Little (1889 printing), Julian Home and St. Winifred's. |
-| `talbot-baines-reed` | 5 Gutenberg | 0 | 14,545 | The Fifth Form at Saint Dominic's, The Willoughby Captains, The Cock-House at Fellsgarth, The Adventures of a Three-Guinea Watch and Parkhurst Boys. |
+| `talbot-baines-reed` | 16 Gutenberg | 0 | 48,216 | School stories for boys. Completed 2026-10-17: 11 more books added, every English text by Talbot Baines Reed at Gutenberg that no other shelf holds. |
 | `de-amicis` | 1 Gutenberg | 0 | 1,593 | Cuore (Heart): An Italian Schoolboy's Journal (Hapgood's translation). |
 | `wilhelm-busch` | 1 Gutenberg | 0 | 162 | Max and Maurice (Brooks's translation, 1902 printing). |
 | `edward-lear` | 4 Gutenberg | 0 | 908 | A Book of Nonsense, Nonsense Songs, More Nonsense and Laughable Lyrics. |

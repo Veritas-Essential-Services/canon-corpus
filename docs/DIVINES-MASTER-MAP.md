@@ -19818,7 +19818,7 @@ Shelf: `pipeline/farrar_shelf.json` (2026-10-02; added at the coordinator's rela
 
 ## Talbot Baines Reed
 
-Shelf: `pipeline/talbot-baines-reed_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Five school stories; cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/talbot-baines-reed_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). School stories for boys. All 16 of Talbot Baines Reed's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -19827,6 +19827,17 @@ Shelf: `pipeline/talbot-baines-reed_shelf.json` (2026-10-02; added at the coordi
 | The Cock-House at Fellsgarth | have | PG 21037, `tbreed-cock-house-at-fellsgarth` (2911 units) |
 | The Adventures of a Three-Guinea Watch | have | PG 21035, `tbreed-three-guinea-watch` (2267 units) |
 | Parkhurst Boys, and Other Stories of School Life | have | PG 21137, `tbreed-parkhurst-boys` (2136 units) |
+| Follow My Leader: The Boys of Templeton | have | PG 20991, `tbreed-follow-my-leader` (3321 units) |
+| Tom, Dick and Harry | have | PG 20992, `tbreed-tom-dick-and-harry` (3081 units) |
+| Sir Ludar A Story of the Days of the Great Queen Bess | have | PG 20993, `tbreed-sir-ludar-a-story-of-the-days-of-the-great-queen-bess` (2725 units) |
+| Kilgorman: A Story of Ireland in 1798 | have | PG 20994, `tbreed-kilgorman` (2732 units) |
+| My Friend Smith: A Story of School and City Life | have | PG 21036, `tbreed-my-friend-smith` (4536 units) |
+| A Dog with a Bad Name | have | PG 21038, `tbreed-a-dog-with-a-bad-name` (2940 units) |
+| Boycotted, and Other Stories | have | PG 21039, `tbreed-boycotted-and-other-stories` (2269 units) |
+| Roger Ingleton, Minor | have | PG 21042, `tbreed-roger-ingleton-minor` (2852 units) |
+| Reginald Cruden A Tale of City Life | have | PG 21043, `tbreed-reginald-cruden-a-tale-of-city-life` (2791 units) |
+| The Master of the Shell | have | PG 21050, `tbreed-master-of-the-shell` (2676 units) |
+| A History of the Old English Letter Foundries with Notes, Historical and Bibliographical, on the Rise and Progress of English Typography. | have | PG 54365, `tbreed-a-history-of-the-old-english-letter-foundries-with-no` (3748 units) |
 
 ## Edmondo De Amicis
 

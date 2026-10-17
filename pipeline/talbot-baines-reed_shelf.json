@@ -1,5 +1,5 @@
 {
- "_about": "Talbot Baines Reed's school stories: The Fifth Form at Saint Dominic's, The Willoughby Captains, The Cock-House at Fellsgarth, The Adventures of a Three-Guinea Watch and Parkhurst Boys (all five undated in the text). One chapter heading in Parkhurst Boys is garbled in the transcription (\"CHAPTER THIRTY FOURCHAPTER TWO\") and is cited as printed. His other boys' books are left for now. Gutenberg catalogue: Reed 1852-1893. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_about": "Talbot Baines Reed's school stories: The Fifth Form at Saint Dominic's, The Willoughby Captains, The Cock-House at Fellsgarth, The Adventures of a Three-Guinea Watch and Parkhurst Boys (all five undated in the text). One chapter heading in Parkhurst Boys is garbled in the transcription (\"CHAPTER THIRTY FOURCHAPTER TWO\") and is cited as printed. His other boys' books are left for now. Gutenberg catalogue: Reed 1852-1893. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto). On 2026-10-17 every other English text by Talbot Baines Reed at Gutenberg was added (11 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto).",
  "_author": "Talbot Baines Reed",
  "_name_words": [
   "school"
@@ -81,6 +81,50 @@
     "start": "CHAPTER ONE\\.$",
     "front": true
    }
+  ],
+  "tbreed-follow-my-leader": [
+   20991,
+   "Follow My Leader: The Boys of Templeton"
+  ],
+  "tbreed-tom-dick-and-harry": [
+   20992,
+   "Tom, Dick and Harry"
+  ],
+  "tbreed-sir-ludar-a-story-of-the-days-of-the-great-queen-bess": [
+   20993,
+   "Sir Ludar A Story of the Days of the Great Queen Bess"
+  ],
+  "tbreed-kilgorman": [
+   20994,
+   "Kilgorman: A Story of Ireland in 1798"
+  ],
+  "tbreed-my-friend-smith": [
+   21036,
+   "My Friend Smith: A Story of School and City Life"
+  ],
+  "tbreed-a-dog-with-a-bad-name": [
+   21038,
+   "A Dog with a Bad Name"
+  ],
+  "tbreed-boycotted-and-other-stories": [
+   21039,
+   "Boycotted, and Other Stories"
+  ],
+  "tbreed-roger-ingleton-minor": [
+   21042,
+   "Roger Ingleton, Minor"
+  ],
+  "tbreed-reginald-cruden-a-tale-of-city-life": [
+   21043,
+   "Reginald Cruden A Tale of City Life"
+  ],
+  "tbreed-master-of-the-shell": [
+   21050,
+   "The Master of the Shell"
+  ],
+  "tbreed-a-history-of-the-old-english-letter-foundries-with-no": [
+   54365,
+   "A History of the Old English Letter Foundries with Notes, Historical and Bibliographical, on the Rise and Progress of English Typography."
   ]
  },
  "internet_archive": {},
@@ -88,7 +132,7 @@
  "_checks": {
   "tbreed-fifth-form-at-saint-dominics": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "talbot baines reed",
    "identity": "ok",
@@ -97,7 +141,7 @@
   },
   "tbreed-willoughby-captains": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "talbot baines reed",
    "identity": "ok",
@@ -106,7 +150,7 @@
   },
   "tbreed-cock-house-at-fellsgarth": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "talbot baines reed",
    "identity": "ok",
@@ -115,7 +159,7 @@
   },
   "tbreed-three-guinea-watch": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "talbot baines reed",
    "identity": "ok",
@@ -124,7 +168,106 @@
   },
   "tbreed-parkhurst-boys": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "talbot baines reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbreed-follow-my-leader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "talbot baines reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbreed-tom-dick-and-harry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "talbot baines reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbreed-sir-ludar-a-story-of-the-days-of-the-great-queen-bess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "talbot baines reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbreed-kilgorman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "talbot baines reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbreed-my-friend-smith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "talbot baines reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbreed-a-dog-with-a-bad-name": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "talbot baines reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbreed-boycotted-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "talbot baines reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbreed-roger-ingleton-minor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "talbot baines reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbreed-reginald-cruden-a-tale-of-city-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "talbot baines reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbreed-master-of-the-shell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "talbot baines reed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbreed-a-history-of-the-old-english-letter-foundries-with-no": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "talbot baines reed",
    "identity": "ok",
