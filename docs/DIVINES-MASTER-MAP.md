@@ -22506,6 +22506,89 @@ Shelf: `pipeline/brereton_shelf.json` (2026-10-17; added at the coordinator's re
 | Under Foch's Command: A Tale of the Americans in France | have | PG 64236, `brereton-under-fochs-command` (1125 units) |
 | Roughriders of the Pampas: A Tale of Ranch Life in South America | have | PG 65656, `brereton-roughriders-of-the-pampas` (1362 units) |
 
+## Ralph Henry Barbour
+
+Shelf: `pipeline/barbour_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). School and sports stories for boys. Every English text under the name at Gutenberg that no other shelf holds (76 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The New Boy at Hilltop, and Other Stories | have | PG 6487, `rhbarbour-new-boy-at-hilltop-and-other-stories` (1357 units) |
+| The Half-Back: A Story of School, Football, and Golf | have | PG 11041, `rhbarbour-half-back` (1236 units) |
+| The Lilac Girl | have | PG 12858, `rhbarbour-lilac-girl` (1099 units) |
+| Left Tackle Thayer | have | PG 13542, `rhbarbour-left-tackle-thayer` (1585 units) |
+| Behind the Line: A Story of College Life and Football | have | PG 13556, `rhbarbour-behind-the-line` (1408 units) |
+| The Adventure Club Afloat | have | PG 13897, `rhbarbour-adventure-club-afloat` (1307 units) |
+| Left End Edwards | have | PG 20650, `rhbarbour-left-end-edwards` (1890 units) |
+| Left Guard Gilbert | have | PG 26149, `rhbarbour-left-guard-gilbert` (1364 units) |
+| The Crimson Sweater | have | PG 33425, `rhbarbour-crimson-sweater` (1904 units) |
+| Four Afloat: Being the Adventures of the Big Four on the Water | have | PG 37021, `rhbarbour-four-afloat` (2135 units) |
+| The Turner Twins | have | PG 37209, `rhbarbour-turner-twins` (1549 units) |
+| The Lucky Seventh | have | PG 39923, `rhbarbour-lucky-seventh` (1755 units) |
+| Full-Back Foster | have | PG 42653, `rhbarbour-full-back-foster` (1433 units) |
+| On Your Mark! A Story of College Life and Athletics | have | PG 45140, `rhbarbour-on-your-mark-a-story-of-college-life-and-athletics` (1635 units) |
+| Weatherby's Inning: A Story of College Life and Baseball | have | PG 45142, `rhbarbour-weatherbys-inning` (1158 units) |
+| The Arrival of Jimpson, and Other Stories for Boys about Boys | have | PG 45689, `rhbarbour-arrival-of-jimpson-and-other-stories-for-boys-abou` (1299 units) |
+| Center Rush Rowland | have | PG 46592, `rhbarbour-center-rush-rowland` (1437 units) |
+| Quarter-Back Bates | have | PG 47120, `rhbarbour-quarter-back-bates` (1153 units) |
+| Left Half Harmon | have | PG 47226, `rhbarbour-left-half-harmon` (1359 units) |
+| For the Honor of the School: A Story of School Life and Interscholastic Sport | have | PG 47974, `rhbarbour-for-the-honor-of-the-school` (1353 units) |
+| Captain of the Crew | have | PG 48745, `rhbarbour-captain-of-the-crew` (1578 units) |
+| Right End Emerson | have | PG 50414, `rhbarbour-right-end-emerson` (1292 units) |
+| Four in Camp: A Story of Summer Adventures in the New Hampshire Woods | have | PG 50590, `rhbarbour-four-in-camp` (1411 units) |
+| Four Afoot: Being the Adventures of the Big Four on the Highway | have | PG 50983, `rhbarbour-four-afoot` (2377 units) |
+| Right Guard Grant | have | PG 53116, `rhbarbour-right-guard-grant` (1206 units) |
+| Right Tackle Todd | have | PG 53518, `rhbarbour-right-tackle-todd` (1292 units) |
+| Right Half Hollins | have | PG 53986, `rhbarbour-right-half-hollins` (1294 units) |
+| The Spirit of the School | have | PG 54190, `rhbarbour-spirit-of-the-school` (1344 units) |
+| Tom, Dick and Harriet | have | PG 54747, `rhbarbour-tom-dick-and-harriet` (1859 units) |
+| Harry's Island | have | PG 54909, `rhbarbour-harrys-island` (2108 units) |
+| Captain Chub | have | PG 55435, `rhbarbour-captain-chub` (2183 units) |
+| Forward Pass: A Story of the "New Football" | have | PG 55982, `rhbarbour-forward-pass` (1565 units) |
+| Kitty of the Roses | have | PG 56652, `rhbarbour-kitty-of-the-roses` (691 units) |
+| Double Play: A Story of School and Baseball | have | PG 56752, `rhbarbour-double-play` (1625 units) |
+| The Land of Joy | have | PG 57497, `rhbarbour-land-of-joy` (2059 units) |
+| Kingsford, Quarter | have | PG 57740, `rhbarbour-kingsford-quarter` (1688 units) |
+| Winning His "Y": A Story of School Athletics | have | PG 58192, `rhbarbour-winning-his-y` (1738 units) |
+| For Yardley: A Story of Track and Field | have | PG 59043, `rhbarbour-for-yardley` (1558 units) |
+| Finkler's Field: A Story of School and Baseball | have | PG 59136, `rhbarbour-finklers-field` (1051 units) |
+| Change Signals: A Story of the New Football | have | PG 59623, `rhbarbour-change-signals` (1849 units) |
+| Around the End | have | PG 59874, `rhbarbour-around-the-end` (1520 units) |
+| Team-Mates | have | PG 60299, `rhbarbour-team-mates` (2084 units) |
+| Follow the Ball | have | PG 60540, `rhbarbour-follow-the-ball` (1019 units) |
+| A Maid in Arcady | have | PG 60612, `rhbarbour-a-maid-in-arcady` (996 units) |
+| Crofton Chums | have | PG 60894, `rhbarbour-crofton-chums` (1773 units) |
+| Partners Three | have | PG 61673, `rhbarbour-partners-three` (1628 units) |
+| Keeping His Course | have | PG 62027, `rhbarbour-keeping-his-course` (1531 units) |
+| Guarding His Goal | have | PG 62590, `rhbarbour-guarding-his-goal` (1193 units) |
+| The Brother of a Hero | have | PG 63297, `rhbarbour-brother-of-a-hero` (1442 units) |
+| Fourth Down! | have | PG 63892, `rhbarbour-fourth-down` (1280 units) |
+| Danforth Plays the Game: Stories for Boys Little and Big | have | PG 64150, `rhbarbour-danforth-plays-the-game` (1427 units) |
+| The Story My Doggie Told to Me | have | PG 65001, `rhbarbour-story-my-doggie-told-to-me` (430 units) |
+| The Secret Play | have | PG 65237, `rhbarbour-secret-play` (1315 units) |
+| The Purple Pennant | have | PG 65819, `rhbarbour-purple-pennant` (1527 units) |
+| The Junior Trophy | have | PG 66055, `rhbarbour-junior-trophy` (1678 units) |
+| Benton's Venture | have | PG 66533, `rhbarbour-bentons-venture` (1735 units) |
+| Rivals for the Team: A Story of School Life and Football | have | PG 67805, `rhbarbour-rivals-for-the-team` (1561 units) |
+| The play that won | have | PG 68062, `rhbarbour-play-that-won` (883 units) |
+| Winning his game | have | PG 69206, `rhbarbour-winning-his-game` (1323 units) |
+| Holly: The Romance of a Southern Girl | have | PG 69920, `rhbarbour-holly` (1214 units) |
+| For the freedom of the seas | have | PG 70522, `rhbarbour-for-the-freedom-of-the-seas` (1031 units) |
+| For the good of the team | have | PG 70829, `rhbarbour-for-the-good-of-the-team` (1014 units) |
+| Hitting the line | have | PG 71181, `rhbarbour-hitting-the-line` (1530 units) |
+| Nid and Nod | have | PG 71633, `rhbarbour-nid-and-nod` (1685 units) |
+| The mystery of the Sea-Lark (with H. P. Holt) | have | PG 72751, `rhbarbour-mystery-of-the-sea-lark` (1614 units) |
+| The Fighting Scrub | have | PG 73435, `rhbarbour-fighting-scrub` (1185 units) |
+| Metipom's hostage | have | PG 74148, `rhbarbour-metipoms-hostage` (884 units) |
+| Pud Pringle, pirate | have | PG 75936, `rhbarbour-pud-pringle-pirate` (1547 units) |
+| Lost Island (with H. P. Holt) | have | PG 76451, `rhbarbour-lost-island` (1459 units) |
+| Bases full! | have | PG 76800, `rhbarbour-bases-full` (1162 units) |
+| Hold 'em, Wyndham! | have | PG 77370, `rhbarbour-hold-em-wyndham` (1502 units) |
+| Barry Locke, half-back | have | PG 78118, `rhbarbour-barry-locke-half-back` (1686 units) |
+| The Adventure Club with the fleet | have | PG 78754, `rhbarbour-adventure-club-with-the-fleet` (1064 units) |
+| Three-Base Benson | have | PG 79086, `rhbarbour-three-base-benson` (1072 units) |
+| Under the Yankee ensign | have | PG 79261, `rhbarbour-under-the-yankee-ensign` (1098 units) |
+| Kick formation | have | PG 79550, `rhbarbour-kick-formation` (1250 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

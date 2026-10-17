@@ -1173,3 +1173,6 @@
 
 ## 2026-10-17 18:20 CDT — brereton: done
 - brereton: new shelf, 20 Gutenberg books, 31,295 units, 10 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:20 CDT — barbour: done
+- barbour: new shelf, 76 Gutenberg books, 109,526 units, 178 ~2 ids; verify 0 mismatches, 0 rights flags.
