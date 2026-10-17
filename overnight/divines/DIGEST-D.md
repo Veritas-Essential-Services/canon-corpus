@@ -282,7 +282,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `aloe` | 46 Gutenberg | 0 | 30,201 | Evangelical tales for children. Completed 2026-10-17: 44 more books added, every English text by A. L. O. E. at Gutenberg that no other shelf holds. |
 | `horatio-alger` | 105 Gutenberg | 0 | 260,068 | Rags-to-riches stories for boys. Completed 2026-10-17: 103 more books added, every English text by Horatio Alger, Jr. at Gutenberg that no other shelf holds. |
 | `siddha-mohana-mitra` | 1 Gutenberg | 0 | 593 | Hindu Tales from the Sanskrit, adapted by Mrs. Arthur Bell (1919). Mrs. Arthur Bell (Nancy Bell; N. D'Anvers in the Gutenberg catalogue, 1844-1933) adapted Mitra's translation; both are recorded on the shelf. |
-| `james-otis` | 2 Gutenberg | 0 | 1,919 | Toby Tyler (undated in the text), Mr. Stubbs's Brother (copyright 1882, 1910). |
+| `james-otis` | 55 Gutenberg | 0 | 77,037 | Stories for boys, many of American history. Completed 2026-10-17: 53 more books added, every English text by James Otis at Gutenberg that no other shelf holds. |
 | `ceredig-davies` | 1 Gutenberg | 0 | 1,701 | Folk-Lore of West and Mid-Wales (1911). |
 | `aw-moore` | 1 Gutenberg | 0 | 1,143 | The Folk-Lore of the Isle of Man (1891). |
 | `dennys` | 1 Gutenberg | 0 | 682 | The Folk-Lore of China (preface dated 1876). |

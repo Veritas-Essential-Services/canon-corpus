@@ -18337,12 +18337,66 @@ Shelf: `pipeline/siddha-mohana-mitra_shelf.json` (2026-10-02; added at the coord
 
 ## James Otis
 
-Shelf: `pipeline/james-otis_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). A boy's circus story and its sequel; cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/james-otis_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for boys, many of American history. All 55 of James Otis's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | Toby Tyler; Or, Ten Weeks with a Circus | have | PG 7478, `otis-toby-tyler` (1023 units) |
 | Mr. Stubbs's Brother | have | PG 27702, `otis-mr-stubbss-brother` (896 units) |
+| Neal, the Miller: A Son of Liberty | have | PG 4293, `otis-neal-the-miller` (459 units) |
+| A District Messenger Boy, and A Necktie Party | have | PG 5882, `otis-a-district-messenger-boy-and-a-necktie-party` (422 units) |
+| Richard of Jamestown : a Story of the Virginia Colony | have | PG 7465, `otis-richard-of-jamestown` (513 units) |
+| The Minute Boys of the Mohawk Valley | have | PG 10086, `otis-minute-boys-of-the-mohawk-valley` (1935 units) |
+| The Search for the Silver City: A Tale of Adventure in Yucatan | have | PG 21268, `otis-search-for-the-silver-city` (2019 units) |
+| Messenger No. 48 | have | PG 23627, `otis-messenger-no-48` (2570 units) |
+| Left Behind; Or, Ten Days a Newsboy | have | PG 24251, `otis-left-behind` (831 units) |
+| Ralph Gurney's Oil Speculation | have | PG 27984, `otis-ralph-gurneys-oil-speculation` (1670 units) |
+| Down the Slope | have | PG 28697, `otis-down-the-slope` (2941 units) |
+| The Boys of '98 | have | PG 30684, `otis-boys-of-98` (2054 units) |
+| Aunt Hannah and Seth | have | PG 31265, `otis-aunt-hannah-and-seth` (609 units) |
+| Under the Liberty Tree: A Story of The 'Boston Massacre' | have | PG 31555, `otis-under-the-liberty-tree` (684 units) |
+| Dick in the Desert | have | PG 31556, `otis-dick-in-the-desert` (573 units) |
+| The Princess and Joe Potter | have | PG 32249, `otis-princess-and-joe-potter` (1759 units) |
+| The Club at Crow's Corner | have | PG 32555, `otis-club-at-crows-corner` (575 units) |
+| The Minute Boys of York Town | have | PG 32648, `otis-minute-boys-of-york-town` (1793 units) |
+| Commodore Barney's Young Spies A Boy's Story of the Burning of the City of Washington | have | PG 32678, `otis-commodore-barneys-young-spies-a-boys-story-of-the-burni` (2272 units) |
+| The Minute Boys of Boston | have | PG 32723, `otis-minute-boys-of-boston` (1934 units) |
+| Corporal 'Lige's Recruit: A Story of Crown Point and Ticonderoga | have | PG 33110, `otis-corporal-liges-recruit` (1212 units) |
+| An Amateur Fireman | have | PG 33242, `otis-an-amateur-fireman` (2240 units) |
+| On the Kentucky Frontier: A Story of the Fighting Pioneers of the West | have | PG 33890, `otis-on-the-kentucky-frontier` (1125 units) |
+| Defending the Island: A story of Bar Harbor in 1758 | have | PG 34558, `otis-defending-the-island` (697 units) |
+| A Runaway Brig; Or, An Accidental Cruise | have | PG 34799, `otis-a-runaway-brig` (1638 units) |
+| Teddy and Carrots: Two Merchants of Newpaper Row | have | PG 35046, `otis-teddy-and-carrots` (1497 units) |
+| The Adventures of a Country Boy at a Country Fair | have | PG 37647, `otis-adventures-of-a-country-boy-at-a-country-fair` (1990 units) |
+| Jack the Hunchback: A Story of Adventure on the Coast of Maine | have | PG 41708, `otis-jack-the-hunchback` (2203 units) |
+| The Light Keepers: A Story of the United States Light-house Service | have | PG 41997, `otis-light-keepers` (1903 units) |
+| Peter of New Amsterdam: A Story of Old New York | have | PG 42327, `otis-peter-of-new-amsterdam` (611 units) |
+| Off Santiago with Sampson | have | PG 43420, `otis-off-santiago-with-sampson` (609 units) |
+| The Boy Spies with the Regulators The Story of How the Boys Assisted the Carolina Patriots to Drive the British from That State | have | PG 43714, `otis-boy-spies-with-the-regulators-the-story-of-how-the-boys` (1559 units) |
+| With Porter in the Essex A Story of His Famous Cruise in the Southern Waters During the War of 1812 | have | PG 43766, `otis-with-porter-in-the-essex-a-story-of-his-famous-cruise-i` (1648 units) |
+| Sarah Dillard's Ride: A Story of the Carolinas in 1780 | have | PG 43806, `otis-sarah-dillards-ride` (1281 units) |
+| Antoine of Oregon: A Story of the Oregon Trail | have | PG 43897, `otis-antoine-of-oregon` (670 units) |
+| The Life Savers: A story of the United States life-saving service | have | PG 43961, `otis-life-savers` (1827 units) |
+| Ruth of Boston: A Story of the Massachusetts Bay Colony | have | PG 44100, `otis-ruth-of-boston` (602 units) |
+| Martha of California: A Story of the California Trail | have | PG 44600, `otis-martha-of-california` (548 units) |
+| Mary of Plymouth: A Story of the Pilgrim Settlement | have | PG 44616, `otis-mary-of-plymouth` (564 units) |
+| With the Swamp Fox: A Story of General Marion's Young Spies | have | PG 44651, `otis-with-the-swamp-fox` (1835 units) |
+| The Boy Spies of Philadelphia The Story of How the Young Spies Helped the Continental Army at Valley Forge | have | PG 44724, `otis-boy-spies-of-philadelphia-the-story-of-how-the-young-sp` (2442 units) |
+| Benjamin of Ohio: A Story of the Settlement of Marietta | have | PG 48344, `otis-benjamin-of-ohio` (567 units) |
+| Philip of Texas: A Story of Sheep Raising in Texas | have | PG 48571, `otis-philip-of-texas` (526 units) |
+| The Cruise of the Sally D | have | PG 55074, `otis-cruise-of-the-sally-d` (1201 units) |
+| The Armed Ship America; Or, When We Sailed from Salem | have | PG 55151, `otis-armed-ship-america` (931 units) |
+| Wrecked on Spider Island; Or, How Ned Rogers Found the Treasure | have | PG 63561, `otis-wrecked-on-spider-island` (1901 units) |
+| The Secret Chart; or, Treasure Hunting in Hayti | have | PG 64070, `otis-secret-chart` (1908 units) |
+| With Perry on Lake Erie | have | PG 67880, `otis-with-perry-on-lake-erie` (1719 units) |
+| Josiah in New York; or, A coupon from the Fresh Air Fund | have | PG 68813, `otis-josiah-in-new-york` (1473 units) |
+| Tim and Tip | have | PG 74436, `otis-tim-and-tip` (992 units) |
+| The Minute Boys of Philadelphia | have | PG 75968, `otis-minute-boys-of-philadelphia` (1779 units) |
+| The Minute Boys of South Carolina | have | PG 76504, `otis-minute-boys-of-south-carolina` (1731 units) |
+| The Minute Boys of the Wyoming Valley | have | PG 76656, `otis-minute-boys-of-the-wyoming-valley` (1932 units) |
+| The Minute Boys of Long Island | have | PG 77287, `otis-minute-boys-of-long-island` (1956 units) |
+| The castaways | have | PG 79552, `otis-castaways` (2188 units) |
+| james-otis-repeat-32393 | excluded | PG 32393, Toby Tyler; Or, Ten Weeks with a Circus: a second transcription of a title already on this shelf |
 
 ## Jonathan Ceredig Davies
 
