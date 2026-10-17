@@ -4474,6 +4474,69 @@ Shelf: `pipeline/edward-caird_shelf.json`. Comte (1885), The Evolution of Religi
 | The Critical Philosophy of Immanuel Kant, second edition, vol. I (Glasgow: MacLehose, 1909) |  | `caird-critical-philosophy-of-kant-1909-v1` | have-raw (IA `criticalphilosop01cairuoft`) |
 | The Critical Philosophy of Immanuel Kant, second edition, vol. II (Glasgow: MacLehose, 1909) |  | `caird-critical-philosophy-of-kant-1909-v2` | have-raw (IA `cu31924092290950`) |
 
+## Theodor Gomperz in English
+
+Shelf: `pipeline/theodor-gomperz_shelf.json`. Greek Thinkers, tr. Magnus and Berry (Murray, 1901-1912, 4 vols).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Greek Thinkers, vol. I (London: John Murray, 1901) | Laurie Magnus | `gomperz-greek-thinkers-1901-v1` | have-raw (IA `greekthinkershis01gompuoft`) |
+| Greek Thinkers, vol. II (London: John Murray, 1905) | G. G. Berry | `gomperz-greek-thinkers-1905-v2` | have-raw (IA `indianphilosophy02radhuoft`) |
+| Greek Thinkers, vol. III (London: John Murray, 1905; reprinted 1914) | G. G. Berry | `gomperz-greek-thinkers-1914-v3` | have-raw (IA `greek-thinkers-a-history-of-ancient-philosophy_1914_3`) |
+| Greek Thinkers, vol. IV (London: John Murray, 1912) | G. G. Berry | `gomperz-greek-thinkers-1912-v4` | have-raw (IA `greekthinkers04gompuoft`) |
+
+## Harald Høffding in English
+
+Shelf: `pipeline/harald-hoffding_shelf.json`. Outlines of Psychology (1893), A History of Modern Philosophy (2 vols), The Philosophy of Religion (1906).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Outlines of Psychology (London: Macmillan, 1893) | Mary E. Lowndes | `hoffding-lowndes-outlines-of-psychology-1893` | have-raw (IA `outlinespsychol00hfgoog`) |
+| A History of Modern Philosophy, vol. I (London: Macmillan, 1900; reprinted 1908) | B. E. Meyer | `hoffding-meyer-history-of-modern-philosophy-1908-v1` | have-raw (IA `historyofmodernp01hoff`) |
+| A History of Modern Philosophy, vol. II (London: Macmillan, 1900) | B. E. Meyer | `hoffding-meyer-history-of-modern-philosophy-1900-v2` | have-raw (IA `historyofmodernp02hfuoft`) |
+| The Philosophy of Religion (London: Macmillan, 1906) | B. E. Meyer | `hoffding-meyer-philosophy-of-religion-1906` | have-raw (IA `philosophyrelig03meyegoog`) |
+
+## Friedrich Paulsen in English
+
+Shelf: `pipeline/friedrich-paulsen_shelf.json`. Introduction to Philosophy (1924 printing) and Immanuel Kant (1902), both tr. at Cornell or by Thilly. A System of Ethics is held (unreadable year).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Introduction to Philosophy, second American edition (New York: Holt; copyright 1895, printed 1924) | Frank Thilly | `paulsen-thilly-introduction-to-philosophy-1924` | have-raw (IA `introductiontop03paulgoog`) |
+| Immanuel Kant, his life and doctrine (New York: Scribner, 1902) | J. E. Creighton and Albert Lefevre | `paulsen-creighton-lefevre-immanuel-kant-1902` | have-raw (IA `immanuelkant00pauluoft`) |
+
+Pending (wishlist): A System of Ethics, tr. Thilly (1899), in a scan with a legible year
+
+## Christoph Sigwart in English
+
+Shelf: `pipeline/christoph-sigwart_shelf.json`. Logic, tr. Helen Dendy (1895, 2 vols).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Logic, vol. I: the judgment, concept and inference (London: Swan Sonnenschein, 1895) | Helen Dendy | `sigwart-dendy-logic-1895-v1` | have-raw (IA `sigwartslogic01sigwuoft`) |
+| Logic, vol. II: logical methods (London: Swan Sonnenschein, 1895) | Helen Dendy | `sigwart-dendy-logic-1895-v2` | have-raw (IA `sigwartslogic02sigwuoft`) |
+
+## Wilhelm Wundt's Ethics
+
+Shelf: `pipeline/wilhelm-wundt_shelf.json`. Ethics, tr. Gulliver, Titchener and Washburn (1897-1901, 3 vols).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Ethics, vol. I: the facts of the moral life (London: Swan Sonnenschein, 1897) | Julia Gulliver and Edward Bradford Titchener | `wundt-ethics-1897-v1` | have-raw (IA `ethicsaninvestig00wunduoft`) |
+| Ethics, vol. II: ethical systems (London: Swan Sonnenschein, 1897) | Margaret Floy Washburn | `wundt-ethics-1897-v2` | have-raw (IA `cu31924032316576`) |
+| Ethics, vol. III: the principles of morality and the departments of the moral life (London: Swan Sonnenschein, 1901) | Margaret Floy Washburn | `wundt-ethics-1901-v3` | have-raw (IA `ethicsaninvestig03wunduoft`) |
+
+## Henri Bergson in English
+
+Shelf: `pipeline/henri-bergson_shelf.json`. Matter and Memory (1911), An Introduction to Metaphysics (1913), Mind-Energy (1920), The Meaning of the War (1915). His other English books sit on singles shelves and rothwell.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Meaning of the War: life and matter in conflict (1915; the etext names no printing) |  | `bergson-meaning-of-the-war` | have (PG 17111) |
+| Matter and Memory (London: Swan Sonnenschein, 1911) | Nancy Margaret Paul and W. Scott Palmer | `bergson-paul-palmer-matter-and-memory-1911` | have-raw (IA `mattermemor00berg`) |
+| An Introduction to Metaphysics (London: Macmillan, 1913) | T. E. Hulme | `bergson-hulme-introduction-to-metaphysics-1913` | have-raw (IA `introductiontome0000henr_j7m6`) |
+| Mind-Energy, lectures and essays (New York: Holt, 1920) | H. Wildon Carr | `bergson-carr-mind-energy-1920` | have-raw (IA `cu31924014110708`) |
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.
