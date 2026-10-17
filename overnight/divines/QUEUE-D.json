@@ -730,8 +730,8 @@
       "id": "edgeworth",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics II: edgeworth; no minting",
       "status": "done",
-      "finished": "2026-10-02T20:08:05-05:00",
-      "notes": "1/1 fetched (Gutenberg 3655), 3,828 units, 0 ~2 ids."
+      "finished": "2026-10-17T17:52:59-05:00",
+      "notes": "edgeworth: completed, 19 more Gutenberg books (20 on the shelf), 38,155 units, 5012 ~2 ids; verify 0 mismatches, 0 rights flags."
     },
     {
       "id": "baldwin",

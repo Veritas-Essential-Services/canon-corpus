@@ -17620,13 +17620,34 @@ Shelf: `pipeline/gatty_shelf.json` (2026-10-02; added at the coordinator's relay
 
 ## Maria Edgeworth
 
-Shelf: `pipeline/edgeworth_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her stories for children. Not in the manifest; no uids minted.
+Shelf: `pipeline/edgeworth_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Moral tales for children and novels. All 20 of Maria Edgeworth's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Parent's Assistant; or, Stories for Children | have | PG 3655, `edgeworth-parents-assistant` (3828 units) |
+| Castle Rackrent | have | PG 1424, `edgeworth-castle-rackrent` (460 units) |
+| The Absentee | have | PG 1473, `edgeworth-absentee` (1870 units) |
+| Murad the Unlucky, and Other Tales | have | PG 2129, `edgeworth-murad-the-unlucky-and-other-tales` (575 units) |
+| Tales and Novels — Volume 10 Helen | have | PG 8531, `edgeworth-tales-and-novels-volume-10-helen` (2986 units) |
+| Tales and Novels — Volume 02 Popular Tales | have | PG 8720, `edgeworth-tales-and-novels-volume-02-popular-tales` (2448 units) |
+| Tales and Novels — Volume 01 Moral Tales | have | PG 8826, `edgeworth-tales-and-novels-volume-01-moral-tales` (2848 units) |
+| Tales and Novels — Volume 07 Patronage [part 1] | have | PG 8937, `edgeworth-tales-and-novels-volume-07-patronage-part-1` (2681 units) |
+| Tales and Novels — Volume 09 | have | PG 9107, `edgeworth-tales-and-novels-volume-09` (2952 units) |
+| Tales and Novels — Volume 08 | have | PG 9321, `edgeworth-tales-and-novels-volume-08` (3273 units) |
+| Tales and Novels — Volume 05 Tales of a Fashionable Life | have | PG 9414, `edgeworth-tales-and-novels-volume-05-tales-of-a-fashionable` (2109 units) |
+| Tales and Novels — Volume 04 | have | PG 9439, `edgeworth-tales-and-novels-volume-04` (1929 units) |
+| Tales and Novels — Volume 03 Belinda | have | PG 9455, `edgeworth-tales-and-novels-volume-03-belinda` (2878 units) |
+| Tales and Novels — Volume 06 | have | PG 9620, `edgeworth-tales-and-novels-volume-06` (3055 units) |
+| The bracelets | have | PG 11121, `edgeworth-bracelets` (286 units) |
+| Practical Education, Volume I | have | PG 28708, `edgeworth-practical-education-volume-i` (800 units) |
+| Practical Education, Volume II | have | PG 28709, `edgeworth-practical-education-volume-ii` (1130 units) |
+| Leonora | have | PG 35638, `edgeworth-leonora` (959 units) |
+| The Little Dog Trusty; The Orange Man; and the Cherry Orchard; Being the Tenth Part of Early Lessons (1801) | have | PG 36178, `edgeworth-little-dog-trusty` (218 units) |
+| The fireside story book | have | PG 75331, `edgeworth-fireside-story-book` (870 units) |
 | edgeworth-duplicate | excluded | The Parent's Assistant (PG 36132, Macmillan, with Anne Thackeray Ritchie's introduction): another printing; candidate as a second witness |
 | edgeworth-other | excluded | Castle Rackrent, The Absentee, Belinda and the Tales and Novels volumes: not children's books |
+| edgeworth-life-and-letters-of-maria-edgeworth-volume-1 | excluded | PG 8825 and 9095, The Life and Letters of Maria Edgeworth, are Augustus Hare's edition of her letters |
+| edgeworth-richard-lovell-edgeworth | excluded | PG 16951 is a selection from Richard Lovell Edgeworth |
 
 ## James Baldwin (1841-1925)
 

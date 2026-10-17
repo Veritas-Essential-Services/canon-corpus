@@ -143,7 +143,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `laboulaye` | 1 Gutenberg | 0 | 1,111 | Laboulaye's Fairy Book (tr. Booth). |
 | `hauff` | 2 Gutenberg | 0 | 3,126 | Tales of the Caravan, Inn, and Palace (tr. Stowell), Fairy Tales (tr. Weedon). |
 | `gatty` | 2 Gutenberg | 0 | 1,626 | Aunt Judy's Tales, The Fairy Godmothers. |
-| `edgeworth` | 1 Gutenberg | 0 | 3,828 | The Parent's Assistant. |
+| `edgeworth` | 20 Gutenberg | 0 | 38,155 | Moral tales for children and novels. Completed 2026-10-17: 19 more books added, every English text by Maria Edgeworth at Gutenberg that no other shelf holds. |
 | `baldwin` | 6 Gutenberg | 0 | 6,263 | The Story of Siegfried, Old Greek Stories, Hero Tales, Fifty Famous Stories Retold, A Story of the Golden Age, The Sampo. |
 | `macgregor` | 3 Gutenberg | 0 | 1,791 | Stories of King Arthur's Knights, Stories of Siegfried, Stories from the Ballads. |
 | `gilbert` | 1 Gutenberg | 0 | 2,573 | King Arthur's Knights (1911). |
