@@ -1125,3 +1125,6 @@
 
 ## 2026-10-17 18:10 CDT — fenn: done
 - fenn: new shelf, 128 Gutenberg books, 395,207 units, 680 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:10 CDT — edward-ellis: done
+- edward-ellis: new shelf, 73 Gutenberg books, 89,976 units, 409 ~2 ids; verify 0 mismatches, 0 rights flags.

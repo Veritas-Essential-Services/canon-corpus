@@ -21457,6 +21457,88 @@ Shelf: `pipeline/fenn_shelf.json` (2026-10-17; added at the coordinator's relay 
 | Jungle and Stream; Or, The Adventures of Two Boys in Siam | have | PG 44680, `fenn-jungle-and-stream` (4310 units) |
 | fenn-golden-story-book | excluded | PG 72362, The Golden Story Book, is a many-author anthology |
 
+## Edward S. Ellis
+
+Shelf: `pipeline/edward-ellis_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Frontier and adventure stories for boys; many describe Native Americans in the terms of their time. Every English text under the name at Gutenberg that no other shelf holds (73 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Thomas Jefferson, a Character Sketch | have | PG 712, `eellis-thomas-jefferson-a-character-sketch` (639 units) |
+| In the Pecos Country | have | PG 5828, `eellis-in-the-pecos-country` (1060 units) |
+| The Lost Trail | have | PG 6906, `eellis-lost-trail` (1584 units) |
+| The Daughter of the Chieftain : the Story of an Indian Girl | have | PG 7493, `eellis-daughter-of-the-chieftain` (841 units) |
+| The Huge Hunter; Or, The Steam Man of the Prairies | have | PG 7506, `eellis-huge-hunter` (931 units) |
+| The Life of Kit Carson: Hunter, Trapper, Guide, Indian Agent and Colonel U.S.A. | have | PG 7882, `eellis-life-of-kit-carson` (792 units) |
+| Cowmen and Rustlers: A Story of the Wyoming Cattle Ranges | have | PG 11337, `eellis-cowmen-and-rustlers` (1673 units) |
+| Brave Tom; Or, The Battle That Won | have | PG 11978, `eellis-brave-tom` (1498 units) |
+| The Cave in the Mountain A Sequel to In the Pecos Country | have | PG 14647, `eellis-cave-in-the-mountain-a-sequel-to-in-the-pecos-country` (1109 units) |
+| Through Forest and Fire Wild-Woods Series No. 1 | have | PG 16472, `eellis-through-forest-and-fire-wild-woods-series-no-1` (1785 units) |
+| The Jungle Fugitives: A Tale of Life and Adventure in India Including also Many Stories of American Adventure, Enterprise and Daring | have | PG 16805, `eellis-jungle-fugitives` (1647 units) |
+| The Land of Mystery | have | PG 16855, `eellis-land-of-mystery` (1526 units) |
+| Oonomoo the Huron | have | PG 16869, `eellis-oonomoo-the-huron` (994 units) |
+| Dewey and Other Naval Commanders | have | PG 17253, `eellis-dewey-and-other-naval-commanders` (999 units) |
+| Two Boys in Wyoming: A Tale of Adventure (Northwest Series, No. 3) | have | PG 20223, `eellis-two-boys-in-wyoming` (1775 units) |
+| The Boy Patriot | have | PG 21125, `eellis-boy-patriot` (442 units) |
+| Adrift in the Wilds; Or, The Adventures of Two Shipwrecked Boys | have | PG 21626, `eellis-adrift-in-the-wilds` (1918 units) |
+| Klondike Nuggets, and How Two Boys Secured Them | have | PG 21652, `eellis-klondike-nuggets-and-how-two-boys-secured-them` (949 units) |
+| The Hunters of the Ozark | have | PG 22646, `eellis-hunters-of-the-ozark` (1539 units) |
+| The Phantom of the River | have | PG 23026, `eellis-phantom-of-the-river` (1531 units) |
+| The Story of Red Feather: A Tale of the American Frontier | have | PG 24097, `eellis-story-of-red-feather` (757 units) |
+| Deerfoot in The Mountains | have | PG 25334, `eellis-deerfoot-in-the-mountains` (1387 units) |
+| The Launch Boys' Adventures in Northern Waters | have | PG 25849, `eellis-launch-boys-adventures-in-northern-waters` (1658 units) |
+| The Telegraph Messenger Boy; Or, The Straight Road to Success | have | PG 25859, `eellis-telegraph-messenger-boy` (712 units) |
+| Camp-fire and Wigwam | have | PG 25966, `eellis-camp-fire-and-wigwam` (1331 units) |
+| Footprints in the Forest | have | PG 25980, `eellis-footprints-in-the-forest` (1350 units) |
+| The Riflemen of the Miami | have | PG 27231, `eellis-riflemen-of-the-miami` (1064 units) |
+| The Young Ranchers; Or, Fighting the Sioux | have | PG 28331, `eellis-young-ranchers` (1310 units) |
+| The Ranger; Or, The Fugitives of the Border | have | PG 28663, `eellis-ranger` (962 units) |
+| Adrift on the Pacific: A Boys [sic] Story of the Sea and its Perils | have | PG 29667, `eellis-adrift-on-the-pacific` (1455 units) |
+| A Waif of the Mountains | have | PG 29693, `eellis-a-waif-of-the-mountains` (1924 units) |
+| Up the Forked River; Or, Adventures in South America | have | PG 29892, `eellis-up-the-forked-river` (1465 units) |
+| The Great Cattle Trail | have | PG 30212, `eellis-great-cattle-trail` (1340 units) |
+| The Wilderness Fugitives | have | PG 30335, `eellis-wilderness-fugitives` (980 units) |
+| Through Apache Land | have | PG 31421, `eellis-through-apache-land` (1171 units) |
+| The Frontier Angel: A Romance of Kentucky Rangers' Life | have | PG 34681, `eellis-frontier-angel` (1222 units) |
+| The Launch Boys' Cruise in the Deerfoot | have | PG 41434, `eellis-launch-boys-cruise-in-the-deerfoot` (1535 units) |
+| Blazing Arrow: A Tale of the Frontier | have | PG 41777, `eellis-blazing-arrow` (1335 units) |
+| Wyoming | have | PG 41784, `eellis-wyoming` (1963 units) |
+| Bill Biddon, Trapper; or, Life in the Northwest | have | PG 42057, `eellis-bill-biddon-trapper` (1196 units) |
+| 1000 Mythological Characters Briefly Described Adapted to Private Schools, High Schools and Academies | have | PG 42474, `eellis-1000-mythological-characters-briefly-described-adapte` (1381 units) |
+| The Campers Out; Or, The Right Path and the Wrong | have | PG 42504, `eellis-campers-out` (1777 units) |
+| The Boy Patrol on Guard | have | PG 43079, `eellis-boy-patrol-on-guard` (1381 units) |
+| The Boy Patrol Around the Council Fire | have | PG 43218, `eellis-boy-patrol-around-the-council-fire` (1458 units) |
+| Ned in the Block-House: A Tale of Early Days in the West | have | PG 43675, `eellis-ned-in-the-block-house` (1622 units) |
+| Among the Esquimaux; or, Adventures under the Arctic Circle | have | PG 45192, `eellis-among-the-esquimaux` (1455 units) |
+| The Life and Times of Col. Daniel Boone, Hunter, Soldier, and Pioneer With Sketches of Simon Kenton, Lewis Wetzel, and Other Leaders in the Settlement of the West | have | PG 46227, `eellis-life-and-times-of-col-daniel-boone-hunter-soldier-and` (1377 units) |
+| Across Texas | have | PG 48970, `eellis-across-texas` (1490 units) |
+| The Boy Hunters of Kentucky | have | PG 49143, `eellis-boy-hunters-of-kentucky` (725 units) |
+| The Flying Boys in the Sky | have | PG 50823, `eellis-flying-boys-in-the-sky` (1678 units) |
+| Tales, Traditions and Romance of Border and Revolutionary Times | have | PG 51864, `eellis-tales-traditions-and-romance-of-border-and-revolution` (1146 units) |
+| Ellis's Primary Physiology; Or, Good Health for Boys and Girls | have | PG 52775, `eellis-elliss-primary-physiology` (500 units) |
+| Deerfoot on the Prairies | have | PG 56238, `eellis-deerfoot-on-the-prairies` (1354 units) |
+| The Young Scout: The Story of a West Point Lieutenant | have | PG 57699, `eellis-young-scout` (1536 units) |
+| Seth Jones; or, The Captives of the Frontier | have | PG 58422, `eellis-seth-jones` (1101 units) |
+| Outdoor Life and Indian Stories Making open air life attractive to young Americans by telling them all about woodcraft, signs and signaling, the stars, fishing, camping, camp cooking, how to tie knots and how to make fire without matches, and many other fascinating open air pursuits. Also, stories of noted hunters and scouts, great indians and warriors, including Daniel Boone, Kit Carson, General Custer, Pontiac, Tecumseh, King Philip, Black Hawk, Brandt, Sitting Bull, and a host of others whose names are famous; all of them true and interesting | have | PG 59002, `eellis-outdoor-life-and-indian-stories-making-open-air-life` (861 units) |
+| The Forest Monster; or, Lamora, the Maid of the Canon | have | PG 59147, `eellis-forest-monster` (1133 units) |
+| A Young Hero; Or, Fighting to Win | have | PG 59853, `eellis-a-young-hero` (1975 units) |
+| Wolf Ear the Indian: A story of the great uprising of 1890-91 | have | PG 60633, `eellis-wolf-ear-the-indian` (769 units) |
+| The Flying Boys to the Rescue | have | PG 63365, `eellis-flying-boys-to-the-rescue` (1535 units) |
+| The Boy Miners; Or, The Enchanted Island, A Tale of the Yellowstone Country | have | PG 63868, `eellis-boy-miners` (888 units) |
+| Lightning Jo, the Terror of the Santa Fe Trail: A Tale of the Present Day | have | PG 65487, `eellis-lightning-jo-the-terror-of-the-santa-fe-trail` (709 units) |
+| Little Rifle; or, The Young Fur Hunters | have | PG 65923, `eellis-little-rifle` (773 units) |
+| Old Ruff, the Trapper; or, The Young Fur-Hunters | have | PG 66085, `eellis-old-ruff-the-trapper` (829 units) |
+| Joe Napyank; or, The River Rifles | have | PG 66157, `eellis-joe-napyank` (801 units) |
+| The Three Trappers; or, The Apache Chief's Ruse | have | PG 66309, `eellis-three-trappers` (784 units) |
+| Wetzel, the Scout; or, The Captives of the Wilderness | have | PG 66335, `eellis-wetzel-the-scout` (799 units) |
+| Mad Anthony's scouts; or, The rangers of Kentucky | have | PG 68482, `eellis-mad-anthonys-scouts` (776 units) |
+| The red wizard, or, the cave captive | have | PG 68625, `eellis-red-wizard` (1051 units) |
+| Colonel Crockett, the Texan trailer | have | PG 68931, `eellis-colonel-crockett-the-texan-trailer` (921 units) |
+| The phantom hunter; or, love after death | have | PG 69168, `eellis-phantom-hunter` (730 units) |
+| The Star of India | have | PG 69696, `eellis-star-of-india` (1693 units) |
+| Alden the Pony Express rider | have | PG 72501, `eellis-alden-the-pony-express-rider` (1619 units) |
+| eellis-index | excluded | PG 59707 is David Widger's index, not a text |
+| edward-ellis-repeat-11151 | excluded | PG 11151, The Lost Trail: a second transcription of a title already on this shelf |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
