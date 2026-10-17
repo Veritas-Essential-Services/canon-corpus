@@ -2333,6 +2333,14 @@
       "started": "2026-10-17T18:10:11-05:00",
       "finished": "2026-10-17T18:10:11-05:00",
       "notes": "giberne: new shelf, 39 Gutenberg books, 60,530 units, 2075 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "collingwood",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Harry Collingwood; no minting",
+      "status": "done",
+      "started": "2026-10-17T18:10:12-05:00",
+      "finished": "2026-10-17T18:10:12-05:00",
+      "notes": "collingwood: new shelf, 34 Gutenberg books, 33,877 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

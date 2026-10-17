@@ -1152,3 +1152,6 @@
 
 ## 2026-10-17 18:10 CDT — giberne: done
 - giberne: new shelf, 39 Gutenberg books, 60,530 units, 2075 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:10 CDT — collingwood: done
+- collingwood: new shelf, 34 Gutenberg books, 33,877 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.

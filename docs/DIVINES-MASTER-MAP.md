@@ -21909,6 +21909,47 @@ Shelf: `pipeline/giberne_shelf.json` (2026-10-17; added at the coordinator's rel
 | Her brother's keeper | have | PG 78931, `giberne-her-brothers-keeper` (697 units) |
 | Madge Hardwicke; or, The mists of the valley | have | PG 79005, `giberne-madge-hardwicke` (1562 units) |
 
+## Harry Collingwood
+
+Shelf: `pipeline/collingwood_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Sea stories for boys. Every English text under the name at Gutenberg that no other shelf holds (34 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Log of the Flying Fish: A Story of Aerial and Submarine Peril and Adventure | have | PG 21057, `hcollingwood-log-of-the-flying-fish` (1056 units) |
+| The Strange Adventures of Eric Blackburn | have | PG 21058, `hcollingwood-strange-adventures-of-eric-blackburn` (673 units) |
+| The Adventures of Dick Maitland: A Tale of Unknown Africa | have | PG 21059, `hcollingwood-adventures-of-dick-maitland` (769 units) |
+| The Congo Rovers: A Story of the Slave Squadron | have | PG 21060, `hcollingwood-congo-rovers` (1169 units) |
+| Under the Chilian Flag: A Tale of War between Chili and Peru | have | PG 21061, `hcollingwood-under-the-chilian-flag` (814 units) |
+| The Cruise of the Nonsuch Buccaneer | have | PG 21062, `hcollingwood-cruise-of-the-nonsuch-buccaneer` (845 units) |
+| The Missing Merchantman | have | PG 21063, `hcollingwood-missing-merchantman` (1023 units) |
+| A Middy in Command: A Tale of the Slave Squadron | have | PG 21064, `hcollingwood-a-middy-in-command` (1037 units) |
+| The Log of a Privateersman | have | PG 21065, `hcollingwood-log-of-a-privateersman` (736 units) |
+| Harry Escombe: A Tale of Adventure in Peru | have | PG 21066, `hcollingwood-harry-escombe` (698 units) |
+| Overdue: The Story of a Missing Ship | have | PG 21067, `hcollingwood-overdue` (637 units) |
+| Under the Meteor Flag: Log of a Midshipman during the French Revolutionary War | have | PG 21068, `hcollingwood-under-the-meteor-flag` (1885 units) |
+| For Treasure Bound | have | PG 21069, `hcollingwood-for-treasure-bound` (1505 units) |
+| A Middy of the Slave Squadron: A West African Story | have | PG 21070, `hcollingwood-a-middy-of-the-slave-squadron` (802 units) |
+| The Rover's Secret: A Tale of the Pirate Cays and Lagoons of Cuba | have | PG 21071, `hcollingwood-rovers-secret` (1084 units) |
+| The Pirate Island: A Story of the South Pacific | have | PG 21072, `hcollingwood-pirate-island` (1563 units) |
+| A Pirate of the Caribbees | have | PG 21073, `hcollingwood-a-pirate-of-the-caribbees` (728 units) |
+| The Cruise of the Thetis: A Tale of the Cuban Insurrection | have | PG 21075, `hcollingwood-cruise-of-the-thetis` (851 units) |
+| A Chinese Command: A Story of Adventure in Eastern Seas | have | PG 23118, `hcollingwood-a-chinese-command` (1136 units) |
+| In Search of El Dorado | have | PG 23142, `hcollingwood-in-search-of-el-dorado` (897 units) |
+| The Castaways | have | PG 23491, `hcollingwood-castaways` (782 units) |
+| The Pirate Slaver: A Story of the West African Coast | have | PG 23498, `hcollingwood-pirate-slaver` (845 units) |
+| Across the Spanish Main: A Tale of the Sea in the Days of Queen Bess | have | PG 24454, `hcollingwood-across-the-spanish-main` (1346 units) |
+| Two Gallant Sons of Devon: A Tale of the Days of Queen Bess | have | PG 24565, `hcollingwood-two-gallant-sons-of-devon` (782 units) |
+| Through Veld and Forest: An African Story | have | PG 24602, `hcollingwood-through-veld-and-forest` (763 units) |
+| A Middy of the King: A Romance of the Old British Navy | have | PG 24615, `hcollingwood-a-middy-of-the-king` (904 units) |
+| Turned Adrift | have | PG 24859, `hcollingwood-turned-adrift` (765 units) |
+| With Airship and Submarine: A Tale of Adventure | have | PG 25816, `hcollingwood-with-airship-and-submarine` (1240 units) |
+| The Cruise of the "Esmeralda" | have | PG 25817, `hcollingwood-cruise-of-the-esmeralda` (925 units) |
+| The First Mate: The Story of a Strange Cruise | have | PG 25818, `hcollingwood-first-mate` (827 units) |
+| The Voyage of the Aurora | have | PG 27906, `hcollingwood-voyage-of-the-aurora` (1128 units) |
+| Dick Leslie's Luck: A Story of Shipwreck and Adventure | have | PG 27909, `hcollingwood-dick-leslies-luck` (1164 units) |
+| Under the Ensign of the Rising Sun: A Story of the Russo-Japanese War | have | PG 27910, `hcollingwood-under-the-ensign-of-the-rising-sun` (909 units) |
+| The Secret of the Sands; Or, The "Water Lily" and her Crew | have | PG 35528, `hcollingwood-secret-of-the-sands` (1589 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
