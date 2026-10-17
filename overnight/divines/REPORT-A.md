@@ -1207,3 +1207,6 @@
 
 ## 2026-10-17 18:45 CDT — richard-challoner done
 - `pipeline/richard-challoner_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:45 CDT — louis-de-montfort done
+- `pipeline/louis-de-montfort_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.

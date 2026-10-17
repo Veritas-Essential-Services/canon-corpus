@@ -5718,3 +5718,14 @@ Slugs `challoner-*`. Written in English. His first editions were anonymous, so t
 | Later printings of each (1812-1872), and the Considerations of 1784 (4 vols) | alternate | not shelved |
 | His Douay-Rheims revision and his Imitation of Christ: translations, not his own works | excluded | |
 | The 1924 revised Memoirs; an anthology (1894) | excluded | |
+
+## Louis-Marie Grignion de Montfort (round 26, my pick, 2026-10-17)
+
+Slugs `montfort-*`. Translators: Faber, Cruikshank.
+
+| Work | Status | Where |
+|---|---|---|
+| A Treatise on the True Devotion to the Blessed Virgin, tr. Frederick William Faber, second edition (London: Burns and Lambert, 1863) | have-ocr | IA `TreatiseTrueDevotionBlessedVirgin` |
+| The Secret of Mary unveiled to the Devout Soul, tr. A. P. J. Cruikshank (London: Art and Book Company, 1909) | have-ocr | IA `secretofmaryunve00grig` |
+| Faber's first edition (1863; OCR garbled), twelfth edition (about 1904) and Sherbrooke 1901; The Secret of Sanctity (Boston, 1887), an abridgement; the Dublin Secret of Mary (1926) | alternate | not shelved |
+| Modern Montfort Publications translations and everything from 1941 on | excluded | |
