@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: James Legge (1815-1897). The Chinese classics: the Tao Teh King (Sacred Books of the East 39, 1891), the Analects (Chinese Classics I, 1861/1893), and Faxian's Record of Buddhistic Kingdoms (1886). PD. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_about": "TRANSLATOR SHELF: James Legge (1815-1897). The Chinese classics: the Tao Teh King (Sacred Books of the East 39, 1891), the Analects (Chinese Classics I, 1861/1893), and Faxian's Record of Buddhistic Kingdoms (1886); since round 64 also his other Sacred Books of the East volumes: the Shu King, Shih King and Hsiao King (SBE 3, 2nd ed. 1899), the Yi King (SBE 16, 1882), the Li Ki (SBE 27-28, 1885) and the Kwang-ze with the Thai-Shang Tractate (SBE 39-40, 1891), raw OCR of the Clarendon printings. PD. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
   "legge"
  ],
@@ -21,7 +21,38 @@
    "A Record of Buddhistic Kingdoms"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "legge-shu-king": [
+   "in.ernet.dli.2015.4712",
+   "Sacred Books of the East vol. 3: The Shu King, the Religious Portions of the Shih King, the Hsiao King (Clarendon Press, 2nd ed., 1899)",
+   "2015.4712.The-Sacred-Books-Of-The-East-Vol-iii_djvu.txt"
+  ],
+  "legge-yi-king": [
+   "in.ernet.dli.2015.188091",
+   "Sacred Books of the East vol. 16: The Yi King (Clarendon Press, 1882)",
+   "2015.188091.The-Sacred-Books-Of-The-East-vol-Xvi_djvu.txt"
+  ],
+  "legge-li-ki-1": [
+   "in.ernet.dli.2015.152465",
+   "Sacred Books of the East vol. 27: The Li Ki, books I-X (Clarendon Press, 1885)",
+   "2015.152465.The-Sacred-Books-Of-The-East-Translated-By-Various-Oriental-Scholars-vol-Xxvii_djvu.txt"
+  ],
+  "legge-li-ki-2": [
+   "in.ernet.dli.2015.188096",
+   "Sacred Books of the East vol. 28: The Li Ki, books XI-XLVI (Clarendon Press, 1885)",
+   "2015.188096.The-Sacred-Books-Of-The-East-volume-xxviii_djvu.txt"
+  ],
+  "legge-kwang-ze-1": [
+   "in.ernet.dli.2015.45262",
+   "Sacred Books of the East vol. 39: The Writings of Kwang-ze, books I-XVII (from The Texts of Taoism, part I) (Clarendon Press, 1891)",
+   "2015.45262.The-Sacred-Books-Of-The-East--Vol39_djvu.txt"
+  ],
+  "legge-kwang-ze-2": [
+   "in.ernet.dli.2015.45263",
+   "Sacred Books of the East vol. 40: The Texts of Taoism, part II (Clarendon Press, 1891)",
+   "2015.45263.The-Sacred-Books-Of-The-East--Vol40_djvu.txt"
+  ]
+ },
  "titles": {
   "legge-tao-teh-king": {
    "source": "legge-tao-teh-king",
@@ -46,11 +77,63 @@
    "translated": 1886,
    "translator": "James Legge",
    "scan_edition": "Project Gutenberg 2124 (clean text)"
+  },
+  "legge-shu-king": {
+   "source": "legge-shu-king",
+   "of": "The Shujing, the Shijing (religious portions) and the Xiaojing",
+   "work": "The Shu King, the Religious Portions of the Shih King, the Hsiao King",
+   "translated": 1879,
+   "translator": "James Legge",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 3, second edition, 1899 (first edition 1879); Digital Library of India scan. A Million Books Project copy (sacredbooksofthe003275mbp) was tried first and dropped: its library slip says 'pages missing in the book'."
+  },
+  "legge-yi-king": {
+   "source": "legge-yi-king",
+   "of": "The Yijing (Book of Changes)",
+   "work": "The Yi King",
+   "translated": 1882,
+   "translator": "James Legge",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 16, 1882; Digital Library of India scan of the original printing"
+  },
+  "legge-li-ki-1": {
+   "source": "legge-li-ki-1",
+   "of": "The Liji (Book of Rites)",
+   "work": "The Li Ki, books I-X",
+   "translated": 1885,
+   "translator": "James Legge",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 27, 1885; Digital Library of India scan of the original printing"
+  },
+  "legge-li-ki-2": {
+   "source": "legge-li-ki-2",
+   "of": "The Liji (Book of Rites)",
+   "work": "The Li Ki, books XI-XLVI",
+   "translated": 1885,
+   "translator": "James Legge",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 28, 1885; Digital Library of India scan of the original printing"
+  },
+  "legge-kwang-ze-1": {
+   "source": "legge-kwang-ze-1",
+   "of": "Zhuangzi",
+   "work": "The Writings of Kwang-ze, books I-XVII, with Legge's brief notices of the books (from The Texts of Taoism, part I)",
+   "translated": 1891,
+   "translator": "James Legge",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 39, 1891; Digital Library of India scan of the original printing",
+   "note": "Cut from vol. 39 where the Kwang-ze section begins (its introduction of brief notices, then books I-XVII): the volume's Tao Teh King, with the general introduction to Taoism that precedes it, is left behind because the Tao Teh King is already on this shelf from Gutenberg 216. H. A. Giles's Chuang Tzu (giles shelf) is a different translation.",
+   "start": [
+    "WRITINGS OF i^WANOSZE.",
+    1
+   ],
+   "end": null
+  },
+  "legge-kwang-ze-2": {
+   "source": "legge-kwang-ze-2",
+   "of": "Zhuangzi and the Taishang Ganying Pian, with appendixes",
+   "work": "The Texts of Taoism, part II: Kwang-ze books XVIII-XXXIII, the Thai-Shang Tractate of Actions and their Retributions, and eight appendixes",
+   "translated": 1891,
+   "translator": "James Legge",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 40, 1891; Digital Library of India scan of the original printing"
   }
  },
- "_pending": {
-  "legge-sacred-books": "The rest of Legge's Sacred Books of the East (Shu King, Shih King, Yi King, Li Ki, Zhuangzi: SBE 3, 16, 27-28, 39-40): on IA, not fetched this run."
- },
+ "_pending": {},
  "_excluded": {
   "pg-3100-4094": "Gutenberg 3100 and 4094 are the Chinese-language text of the Chinese Classics, not the translation."
  },
@@ -58,7 +141,7 @@
  "_checks": {
   "legge-tao-teh-king": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "legge",
    "identity": "ok",
@@ -67,7 +150,7 @@
   },
   "legge-analects": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "legge",
    "identity": "ok",
@@ -76,12 +159,78 @@
   },
   "legge-faxian": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "legge",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "James Legge"
+  },
+  "legge-shu-king": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "legge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "legge-yi-king": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "legge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "legge-li-ki-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "legge-li-ki-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "legge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "legge-kwang-ze-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "legge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "legge-kwang-ze-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "legge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -99,7 +248,81 @@
    "pg": 2124,
    "pg_copyrighted_marker": false,
    "pg_translator": "James Legge"
+  },
+  "legge-shu-king": {
+   "ia": "in.ernet.dli.2015.4712",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1500,
+    1725,
+    1766,
+    1767,
+    1878,
+    1899
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "legge-yi-king": {
+   "ia": "in.ernet.dli.2015.188091",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1854,
+    1855,
+    1870,
+    1874,
+    1875,
+    1882
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "legge-li-ki-1": {
+   "ia": "in.ernet.dli.2015.152465",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1748,
+    1861,
+    1873,
+    1880,
+    1883,
+    1885
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "legge-li-ki-2": {
+   "ia": "in.ernet.dli.2015.188096",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1885
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "legge-kwang-ze-1": {
+   "ia": "in.ernet.dli.2015.45262",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1880,
+    1883,
+    1884,
+    1886,
+    1888,
+    1891
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "legge-kwang-ze-2": {
+   "ia": "in.ernet.dli.2015.45263",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1857,
+    1891
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "legge-li-ki-1": {
+   "author": "The title page OCR reads 'TRANSLATED BY JAMES LEGGt ... PART III THE Li Ki, I-X' for James Legge, under the Clarendon Press 1885 imprint. Checked by eye 2026-10-17."
+  }
+ }
 }

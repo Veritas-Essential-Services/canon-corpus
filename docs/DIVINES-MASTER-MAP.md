@@ -10095,17 +10095,22 @@ Round 5, vetoable. Not converted to unit-id JSON; **no uids minted**.
 | `hapgood-tolstoy-childhood` | — | Hapgood's Childhood, Boyhood, Youth (1886): not on Gutenberg in her version; IA not checked. (Her Sevastopol was found on Gutenberg in round 35.) | — | — | pending | — |
 | — | — | pg-3630: What to Do? again: a second Gutenberg file of the same Hapgood translation; this shelf keeps 3541. | — | — | excluded | — |
 
-## James Legge (Chinese classics)
+## James Legge (Chinese classics; the Shu King, Yi King, Li Ki and Kwang-ze from the Sacred Books of the East since round 64)
 
 Shelf: `pipeline/legge_shelf.json` · fetch `python3 pipeline/fetch_shelf.py legge` · titles `python3 pipeline/split_shelf_titles.py legge`.
-Round 5, vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 5, vetoable. Round 64 (2026-10-17), vetoable: six SBE volumes added. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `legge-tao-teh-king` | Laozi | Tao Te Ching | James Legge | 1891 | have | PG 216 |
 | `legge-analects` | Confucius | Analects | James Legge | 1861 | have | PG 3330 |
 | `legge-faxian` | Faxian | A Record of Buddhistic Kingdoms | James Legge | 1886 | have | PG 2124 |
-| `legge-sacred-books` | — | The rest of Legge's Sacred Books of the East (Shu King, Shih King, Yi King, Li Ki, Zhuangzi: SBE 3, 16, 27-28, 39-40): on IA, not fetched this run. | — | — | pending | — |
+| `legge-shu-king` | The Shujing, the Shijing (religious portions) and the Xiaojing | The Shu King, the Religious Portions of the Shih King, the Hsiao King | James Legge | 1879 | have-raw | IA `in.ernet.dli.2015.4712` |
+| `legge-yi-king` | The Yijing (Book of Changes) | The Yi King | James Legge | 1882 | have-raw | IA `in.ernet.dli.2015.188091` |
+| `legge-li-ki-1` | The Liji (Book of Rites) | The Li Ki, books I-X | James Legge | 1885 | have-raw | IA `in.ernet.dli.2015.152465` |
+| `legge-li-ki-2` | The Liji (Book of Rites) | The Li Ki, books XI-XLVI | James Legge | 1885 | have-raw | IA `in.ernet.dli.2015.188096` |
+| `legge-kwang-ze-1` | Zhuangzi | The Writings of Kwang-ze, books I-XVII, with Legge's brief notices of the books (from The Texts of Taoism, part I) | James Legge | 1891 | have-raw | IA `in.ernet.dli.2015.45262` (cut from the volume) |
+| `legge-kwang-ze-2` | Zhuangzi and the Taishang Ganying Pian, with appendixes | The Texts of Taoism, part II: Kwang-ze books XVIII-XXXIII, the Thai-Shang Tractate of Actions and their Retributions, and eight appendixes | James Legge | 1891 | have-raw | IA `in.ernet.dli.2015.45263` |
 | — | — | pg-3100-4094: Gutenberg 3100 and 4094 are the Chinese-language text of the Chinese Classics, not the translation. | — | — | excluded | — |
 
 ## H. A. and Lionel Giles (Chinese)
@@ -15908,10 +15913,10 @@ Round 60 (2026-10-17), vetoable: East Asian volumes. Round 61 (2026-10-17), veto
 | — | — | persian-mystics-davis: F. Hadland Davis's Persian Mystics: Rumi (1907) and Jami (1908) (PG 45159, 45158): anthologies of other men's translations by permission (Whinfield and Nicholson in the Rumi volume, FitzGerald and others in the Jami), not new translations. | — | — | excluded | — |
 | — | — | studies: Authored studies rather than translations: Herbert Baynes's Way of the Buddha (1906, 'the treatise'), L. D. Barnett's Brahma-Knowledge (1907, 'an outline of the philosophy of the Vedanta') and Heart of India (1908, 'sketches'), and S. A. Kapadia's Teachings of Zoroaster (1905, 'by S. A. Kapadia'). Eric Hammond's Splendour of God (1911) is a compilation of Baha'i extracts whose front matter names no translator. | — | — | excluded | — |
 
-## Series shelf: the Sacred Books of the East (Clarendon Press, 1879-1910), the volumes not already on muller, palmer or legge: Rhys Davids's Buddhist Suttas and Milinda, the Vinaya Texts, Beal, Kern's Lotus Sutra, Jacobi's Jaina Sutras, Buddhist Mahayana Texts, Darmesteter's and Mills's Zend-Avesta, West's Pahlavi Texts, Bühler's Sacred Laws and Manu, Jolly, Telang's Bhagavadgita, Oldenberg's Grihya-sutras
+## Series shelf: the Sacred Books of the East (Clarendon Press, 1879-1910), the volumes not on muller, palmer or legge: Rhys Davids's Buddhist Suttas and Milinda, the Vinaya Texts, Beal, Kern's Lotus Sutra, Jacobi's Jaina Sutras, Buddhist Mahayana Texts, Darmesteter's and Mills's Zend-Avesta, West's Pahlavi Texts, Bühler's Sacred Laws and Manu, Jolly, Telang's Bhagavadgita, Oldenberg's Grihya-sutras and Vedic Hymns, Eggeling's Satapatha-Brahmana, Müller's Vedic Hymns, Bloomfield's Atharva-Veda, Thibaut's Vedanta-Sutras
 
 Shelf: `pipeline/sacred-books-of-the-east_shelf.json` · fetch `python3 pipeline/fetch_shelf.py sacred-books-of-the-east` · titles `python3 pipeline/split_shelf_titles.py sacred-books-of-the-east`.
-Round 62 (2026-10-17), vetoable: Buddhist and Jain volumes. Round 63 (2026-10-17), vetoable: Zoroastrian and Hindu law volumes. Not converted to unit-id JSON; **no uids minted**.
+Round 62 (2026-10-17), vetoable: Buddhist and Jain volumes. Round 63: Zoroastrian and Hindu law volumes. Round 64: Vedic and Vedanta volumes. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -15942,8 +15947,19 @@ Round 62 (2026-10-17), vetoable: Buddhist and Jain volumes. Round 63 (2026-10-17
 | `sacred-books-of-the-east-grihya-sutras-1` | The Grihyasutras | The Grihya-sutras, part I | Hermann Oldenberg | 1886 | have-raw | IA `in.ernet.dli.2015.215928` |
 | `sacred-books-of-the-east-grihya-sutras-2` | The Grihyasutras and the Yajna-paribhasha-sutras | The Grihya-sutras, part II | Hermann Oldenberg and F. Max Müller | 1892 | have-raw | IA `in.ernet.dli.2015.189030` |
 | `sacred-books-of-the-east-minor-law-books` | Narada and Brihaspati | The Minor Law-Books, part I | Julius Jolly | 1889 | have-raw | IA `in.ernet.dli.2015.283710` |
-| — | — | motilal-reprints: Motilal Banarsidass reprints (Delhi, 1960s on) of the same volumes, e.g. in.ernet.dli.2015.224726 (vol. 11), 224728 (vol. 13) and 226564 (vol. 49), 273506 (vol. 37), 224722 (vol. 7), 224729 (vol. 14), whose front matter says 'First published by the Oxford University Press ... Reprinted by Motilal Banarsidass': post-1930 printings, refused in favour of the Clarendon originals. | — | — | excluded | — |
-| — | — | held-elsewhere: Vols 1 and 15 (Müller's Upanishads) and vol. 10's Dhammapada are on muller; vols 6 and 9 (Palmer's Qur'an) on palmer; vols 3, 16, 27, 28, 39 and 40 (Legge) belong to the legge shelf. | — | — | excluded | — |
+| `sacred-books-of-the-east-satapatha-1` | The Satapatha Brahmana | The Satapatha-Brahmana, part I | Julius Eggeling | 1882 | have-raw | IA `dli.ernet.5376` |
+| `sacred-books-of-the-east-satapatha-2` | The Satapatha Brahmana | The Satapatha-Brahmana, part II | Julius Eggeling | 1885 | have-raw | IA `in.ernet.dli.2015.175348` |
+| `sacred-books-of-the-east-satapatha-3` | The Satapatha Brahmana | The Satapatha-Brahmana, part III | Julius Eggeling | 1894 | have-raw | IA `in.ernet.dli.2015.264301` |
+| `sacred-books-of-the-east-satapatha-4` | The Satapatha Brahmana | The Satapatha-Brahmana, part IV | Julius Eggeling | 1897 | have-raw | IA `sacredbooksofthe014167mbp` |
+| `sacred-books-of-the-east-satapatha-5` | The Satapatha Brahmana | The Satapatha-Brahmana, part V | Julius Eggeling | 1900 | have-raw | IA `in.ernet.dli.2015.265` |
+| `sacred-books-of-the-east-vedic-hymns-1` | The Rigveda (hymns to the Maruts and others) | Vedic Hymns, part I | F. Max Müller | 1891 | have-raw | IA `in.ernet.dli.2015.188666` |
+| `sacred-books-of-the-east-vedic-hymns-2` | The Rigveda (hymns to Agni) | Vedic Hymns, part II | Hermann Oldenberg | 1897 | have-raw | IA `in.ernet.dli.2015.169473` |
+| `sacred-books-of-the-east-atharva-veda` | The Atharvaveda (selections, with extracts from the ritual books and commentaries) | Hymns of the Atharva-Veda | Maurice Bloomfield | 1897 | have-raw | IA `in.ernet.dli.2015.152526` |
+| `sacred-books-of-the-east-vedanta-sutras-1` | Badarayana, with Sankara's commentary | The Vedanta-Sutras, part I | George Thibaut | 1890 | have-raw | IA `in.ernet.dli.2015.169472` |
+| `sacred-books-of-the-east-vedanta-sutras-2` | Badarayana, with Sankara's commentary | The Vedanta-Sutras, part II | George Thibaut | 1896 | have-raw | IA `in.ernet.dli.2015.88889` |
+| `sacred-books-of-the-east-vedanta-sutras-3` | Badarayana, with Ramanuja's commentary | The Vedanta-Sutras, part III | George Thibaut | 1904 | have-raw | IA `vedntasutrastr03bdar` |
+| — | — | motilal-reprints: Motilal Banarsidass reprints (Delhi, 1960s on) of the same volumes, e.g. in.ernet.dli.2015.224726 (vol. 11), 224728 (vol. 13) and 226564 (vol. 49), 273506 (vol. 37), 224722 (vol. 7), 224729 (vol. 14), 92889 (vol. 12), 45311 (vol. 48), whose front matter says 'First published by the Oxford University Press ... Reprinted by Motilal Banarsidass': post-1930 printings, refused in favour of the Clarendon originals. | — | — | excluded | — |
+| — | — | held-elsewhere: Vols 1 and 15 (Müller's Upanishads) and vol. 10's Dhammapada are on muller; vols 6 and 9 (Palmer's Qur'an) on palmer; Legge's vols 3, 16, 27, 28, 39 and 40 are on legge (round 64). | — | — | excluded | — |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
