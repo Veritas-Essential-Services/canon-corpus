@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain Robert Southwell (about 1561-1595, Jesuit poet and martyr) for the Word Hoard: his Complete Poems ed. Alexander B. Grosart (1872) and Poetical Works ed. William B. Turnbull (1856), the prose works (Mary Magdalen's Funeral Tears, The Triumphs over Death, An Epistle of Comfort) ed. W. Jos. Walter (1822), and The Triumphs over Death with his letters ed. J. W. Trotman (1914), from Internet Archive scans. Written in English, so no translator applies. Added 2026-10-17 by lane A, round 26 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "southwell"
+ ],
+ "_surname": [
+  "robert southwell",
+  "southwell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "southwell-complete-poems-grosart": [
+   "completepoemsofr00sout",
+   "The Complete Poems of Robert Southwell, S.J., ed. Alexander B. Grosart (printed for private circulation, 1872)"
+  ],
+  "southwell-poetical-works-turnbull": [
+   "poeticalworksof00sout",
+   "The Poetical Works of the Rev. Robert Southwell, ed. William B. Turnbull (London: John Russell Smith, 1856)"
+  ],
+  "southwell-prose-works-walter": [
+   "marymagdalensfu00soutgoog",
+   "Southwell's Works: Mary Magdalen's Funeral Tears, The Triumphs over Death and An Epistle of Comfort, ed. W. Jos. Walter (London: Keating, 1822)"
+  ],
+  "southwell-triumphs-over-death-trotman": [
+   "triumphsoverdeat00soutuoft",
+   "The Triumphs over Death, with the Epistle to his Father and other letters, ed. John William Trotman (London: Manresa Press, 1914)"
+  ]
+ },
+ "_alternates": {
+  "southwell-other-printings": "The Prose Works ed. Walter (1828), St. Peter's Complaint (1817), Triumphs over Death (1814), Marie Magdalen's Funerall Teares (1823), the Complete Works (1876), A Fovre-fovld Meditation (Isham Reprints)",
+  "southwell-hundred-meditations": "A Hundred Meditations on the Love of God, ed. John Morris (1873): his English version of Diego de Estella",
+  "southwell-early": "The first editions of 1592-1616: OCR mostly illegible"
+ },
+ "_excluded": {
+  "southwell-other": "A 1906 multi-author selection; works by Sir Robert Southwell, a different man"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "southwell-complete-poems-grosart": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "robert southwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "southwell-poetical-works-turnbull": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "robert southwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "southwell-prose-works-walter": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "robert southwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "southwell-triumphs-over-death-trotman": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "robert southwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

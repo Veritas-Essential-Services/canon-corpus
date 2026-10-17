@@ -5509,3 +5509,18 @@ Slugs `hugh-*`. Translator: Aloysius Smith. Richard of Saint Victor has no shelf
 | The Rule of the Great S. Augustin expounded by Hugh of S. Victor, from the French of Charles de la Grange (Bruges: John de Cock; catalogued 1735): English translator not named | alternate | not shelved |
 | Post-1929 translations (Soliloquy 1956, Didascalicon 1961, De sacramentis 1951) | excluded | |
 | German and French editions | excluded | |
+
+## Robert Southwell (round 26, my pick, 2026-10-17)
+
+Slugs `southwell-*`. Written in English; editors Grosart, Turnbull, Walter and Trotman.
+
+| Work | Status | Where |
+|---|---|---|
+| The Complete Poems of Robert Southwell, S.J., ed. Alexander B. Grosart (printed for private circulation, 1872) | have-ocr | IA `completepoemsofr00sout` |
+| The Poetical Works of the Rev. Robert Southwell, ed. William B. Turnbull (London: John Russell Smith, 1856) | have-ocr | IA `poeticalworksof00sout` |
+| Southwell's Works: Mary Magdalen's Funeral Tears, The Triumphs over Death and An Epistle of Comfort, ed. W. Jos. Walter (London: Keating, 1822) | have-ocr | IA `marymagdalensfu00soutgoog` |
+| The Triumphs over Death, with the Epistle to his Father and other letters, ed. John William Trotman (London: Manresa Press, 1914) | have-ocr | IA `triumphsoverdeat00soutuoft` |
+| The Prose Works ed. Walter (1828), St. Peter's Complaint (1817), Triumphs over Death (1814), Marie Magdalen's Funerall Teares (1823), the Complete Works (1876), A Fovre-fovld Meditation (Isham Reprints) | alternate | not shelved |
+| A Hundred Meditations on the Love of God, ed. John Morris (1873): his English version of Diego de Estella | alternate | not shelved |
+| The first editions of 1592-1616: OCR mostly illegible | alternate | not shelved |
+| A 1906 multi-author selection; works by Sir Robert Southwell, a different man | excluded | |

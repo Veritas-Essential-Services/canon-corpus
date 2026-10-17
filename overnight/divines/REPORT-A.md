@@ -1174,3 +1174,6 @@
 
 ## 2026-10-17 18:44 CDT — hugh-of-saint-victor done
 - `pipeline/hugh-of-saint-victor_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:44 CDT — robert-southwell done
+- `pipeline/robert-southwell_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
