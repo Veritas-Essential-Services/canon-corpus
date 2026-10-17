@@ -1,5 +1,5 @@
 {
- "_about": "Herbert Spencer (1820-1903), raw IA OCR: First Principles, in the final revised (6th) edition (New York: D. Appleton, 1900; copyright 1864, 1899), the opening volume of his Synthetic Philosophy; and from Project Gutenberg The Data of Ethics (Burt reprint, undated, preface 1879) and the three-volume library edition of the Essays (Williams and Norgate, 1891). US public domain. Not taken: firstprinciple00spen (no title page in the scan). No uids minted.",
+ "_about": "Herbert Spencer (1820-1903), raw IA OCR: First Principles, in the final revised (6th) edition (New York: D. Appleton, 1900; copyright 1864, 1899), the opening volume of his Synthetic Philosophy; and from Project Gutenberg The Data of Ethics (Burt reprint, undated, preface 1879) and the three-volume library edition of the Essays (Williams and Norgate, 1891). Added in round ad: The Principles of Psychology, vol. I (New York: D. Appleton, 1905); The Principles of Psychology, vol. II (New York: D. Appleton, 1905); The Principles of Biology, revised and enlarged edition, vol. I (New York: D. Appleton, 1898 edition, 1904 printing); The Principles of Biology, revised and enlarged edition, vol. II (New York: D. Appleton, 1899 edition, 1901 printing); The Principles of Ethics, vol. I (New York: D. Appleton, copyright 1892-1902; 1904 printing); The Principles of Ethics, vol. II (New York: D. Appleton; 1906 printing). US public domain. Not taken: firstprinciple00spen (no title page in the scan). No uids minted.",
  "_author": "Herbert Spencer",
  "_name_words": [
   "herbert",
@@ -31,6 +31,30 @@
   "spencer-first-principles-1900": [
    "cu31924029047608",
    "First Principles, 6th ed. (New York: D. Appleton, 1900)"
+  ],
+  "spencer-principles-of-psychology-1905-v1": [
+   "principlespsycho01speniala",
+   "The Principles of Psychology, vol. I (New York: D. Appleton, 1905)"
+  ],
+  "spencer-principles-of-psychology-1905-v2": [
+   "principlespsycho02speniala",
+   "The Principles of Psychology, vol. II (New York: D. Appleton, 1905)"
+  ],
+  "spencer-principles-of-biology-rev-v1": [
+   "principlesofbiol01spenuoft",
+   "The Principles of Biology, revised and enlarged edition, vol. I (New York: D. Appleton, 1898 edition, 1904 printing)"
+  ],
+  "spencer-principles-of-biology-rev-v2": [
+   "principlesofbiol02spenuoft",
+   "The Principles of Biology, revised and enlarged edition, vol. II (New York: D. Appleton, 1899 edition, 1901 printing)"
+  ],
+  "spencer-principles-of-ethics-v1": [
+   "principlesofethi01speniala",
+   "The Principles of Ethics, vol. I (New York: D. Appleton, copyright 1892-1902; 1904 printing)"
+  ],
+  "spencer-principles-of-ethics-v2": [
+   "principlesofethi02speniala",
+   "The Principles of Ethics, vol. II (New York: D. Appleton; 1906 printing)"
   ]
  },
  "_excluded": {},
@@ -80,6 +104,72 @@
    "ia_rights": "ok: published 1898",
    "ia_date": "1898",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spencer-principles-of-psychology-1905-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spencer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spencer-principles-of-psychology-1905-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spencer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spencer-principles-of-biology-rev-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spencer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spencer-principles-of-biology-rev-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spencer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spencer-principles-of-ethics-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spencer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904-06 [1902]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spencer-principles-of-ethics-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spencer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904-06 [1902]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
