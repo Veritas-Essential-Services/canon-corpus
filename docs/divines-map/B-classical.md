@@ -3569,6 +3569,10 @@ Shelf: `pipeline/berkeley_shelf.json`. George Berkeley (1685-1753): The Works of
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Works of George Berkeley, vol. 1: Philosophical Works, 1705-21 (Oxford, 1901) |  | `berkeley-fraser-works-1901-v1` | have (PG 39746) |
+| The Works of George Berkeley, vol. II: Philosophical Works, 1732-33 (Oxford, 1901) |  | `berkeley-fraser-works-1901-v2` | have-raw (IA `worksofgeorgebe02berk`) |
+| The Works of George Berkeley, vol. III: Philosophical Works, 1734-52 (Oxford, 1901) |  | `berkeley-fraser-works-1901-v3` | have-raw (IA `worksofberkeley03berkuoft`) |
+| The Works of George Berkeley, vol. IV: Miscellaneous Works (Oxford, 1901) |  | `berkeley-fraser-works-1901-v4` | have-raw (IA `worksofberkeley04berkuoft`) |
 
 ## Hobbes
 
