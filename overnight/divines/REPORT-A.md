@@ -1177,3 +1177,6 @@
 
 ## 2026-10-17 18:44 CDT — robert-southwell done
 - `pipeline/robert-southwell_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:44 CDT — robert-bellarmine done
+- `pipeline/robert-bellarmine_shelf.json`: 0 CCEL, 0 PG, 10 IA. Title pages read for bellarmine-art-dying-well-1621, bellarmine-art-dying-well-ball (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

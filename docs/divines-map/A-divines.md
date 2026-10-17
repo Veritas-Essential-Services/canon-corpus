@@ -5524,3 +5524,26 @@ Slugs `southwell-*`. Written in English; editors Grosart, Turnbull, Walter and T
 | A Hundred Meditations on the Love of God, ed. John Morris (1873): his English version of Diego de Estella | alternate | not shelved |
 | The first editions of 1592-1616: OCR mostly illegible | alternate | not shelved |
 | A 1906 multi-author selection; works by Sir Robert Southwell, a different man | excluded | |
+
+## Robert Bellarmine (round 26, my pick, 2026-10-17)
+
+Slugs `bellarmine-*`. Translators claimed: Ball, Dalton, Murphy; T. B. (1616), C. F. (1621) and Monialis are named only by initials or pseudonym.
+
+| Work | Status | Where |
+|---|---|---|
+| A Most Learned and Pious Treatise, framing a Ladder whereby our Mindes may Ascend to God, translated by T. B. Gent. (catalogued 1616) | have-ocr | IA `bim_early-english-books-1475-1640_a-most-learned-and-pious_bellarmino-roberto-car_1616` |
+| The Ascent of the Mind to God by a Ladder of Things Created, in the first English translation by T. B. (1616), introduction by James Brodrick (London: Burns Oates and Washbourne, first published 1928) | have-ocr | IA `ascentofmindtogo0000unse` |
+| Mind's Ascent to God by a Ladder of Created Things, done into English by Monialis (London: A. R. Mowbray, first impression 1925) | have-ocr | IA `mindsascenttogod00bell` |
+| The Art of Dying Well, translated by C. F. of the same Society (catalogued 1621) | have-ocr | IA `bim_early-english-books-1475-1640_the-art-of-dying-well-_bellarmino-roberto-car_1621` |
+| The Art of Dying Well, in two books, tr. John Ball (London; catalogued 1720) | have-ocr | IA `artofdyingwell00bell` |
+| The Art of Dying Well, tr. John Dalton (London: Richardson and Son; catalogued 1847) | have-ocr | IA `theartofdyingwel00belluoft` |
+| The Eternal Happiness of the Saints, tr. John Dalton (London: Thomas Richardson and Son, undated) | have-ocr | IA `theeternalhappin00belluoft` |
+| The Seven Words spoken by Christ on the Cross, translated from the Latin (London: Burns and Oates, 1877) | have-ocr | IA `sevenwordsspoken00bell` |
+| Steps of Ascension to God, done into English by a Divine of the Church of England, second edition (London: W. Freeman, MDCCV) | have-ocr | IA `stepsofascension00bell` |
+| De Laicis, or the Treatise on Civil Government, tr. Kathleen E. Murphy (New York: Fordham University Press, copyright 1928) | have-ocr | IA `in.ernet.dli.2015.260111` |
+| Ouranography, or Heaven Opened, the substance of his Eternal Felicity of the Saints, by B. Jenks (1710): an abridgement | alternate | not shelved |
+| A Commentary on the Book of Psalms, tr. O'Sullivan (Dublin; catalogued 1866): title page too garbled to read | alternate | not shelved |
+| The 1638 Eternal Felicity and Seven Words by A. B., eighteenth-century printings, and the catechisms | alternate | not shelved |
+| Protestant refutations of him (1687, 1839) | excluded | |
+| Brodrick's Life (1928) and other works about him | excluded | |
+| Modern translations with wrong IA dates | excluded | |
