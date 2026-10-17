@@ -23170,6 +23170,27 @@ Shelf: `pipeline/margaret-penrose_shelf.json` (2026-10-17; added at the coordina
 | Dorothy Dale's engagement | have | PG 72040, `mpenrose-dorothy-dales-engagement` (1901 units) |
 | Dorothy Dale to the rescue | have | PG 72644, `mpenrose-dorothy-dale-to-the-rescue` (1850 units) |
 
+## Joanna H. Mathews
+
+Shelf: `pipeline/joanna-mathews_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Books for young children. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Bessie Bradford's Prize | have | PG 6569, `jmathews-bessie-bradfords-prize` (1032 units) |
+| Uncle Rutherford's Nieces: A Story for Girls | have | PG 21666, `jmathews-uncle-rutherfords-nieces` (1007 units) |
+| Jessie's Parrot | have | PG 44123, `jmathews-jessies-parrot` (1033 units) |
+| Bessie among the Mountains | have | PG 44445, `jmathews-bessie-among-the-mountains` (1335 units) |
+| Daisy's Work: The Third Commandment | have | PG 44770, `jmathews-daisys-work` (575 units) |
+| Mamie's Watchword | have | PG 44774, `jmathews-mamies-watchword` (932 units) |
+| Bessie at the Sea-Side | have | PG 44780, `jmathews-bessie-at-the-sea-side` (1792 units) |
+| Bessie in the City | have | PG 44954, `jmathews-bessie-in-the-city` (1424 units) |
+| Lily Norris' Enemy | have | PG 44991, `jmathews-lily-norris-enemy` (1006 units) |
+| Nellie's Housekeeping Little Sunbeams Series | have | PG 45751, `jmathews-nellies-housekeeping-little-sunbeams-series` (1189 units) |
+| Belle Powers' Locket | have | PG 46123, `jmathews-belle-powers-locket` (959 units) |
+| Bessie and Her Friends | have | PG 46762, `jmathews-bessie-and-her-friends` (1270 units) |
+| Bessie on Her Travels | have | PG 52214, `jmathews-bessie-on-her-travels` (1569 units) |
+| Bessie at school | have | PG 74645, `jmathews-bessie-at-school` (1386 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
