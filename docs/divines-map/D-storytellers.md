@@ -6699,6 +6699,30 @@ Shelf: `pipeline/edward-everett-hale_shelf.json` (2026-10-17; added at the coord
 | pg-19993 | excluded | PG 19993 Young Folks Treasury vol.: an anthology Hale co-edited. |
 | pg-40153 | excluded | PG 40153 The First True Gentleman: anonymous, Hale wrote only the introduction. |
 
+## Sara Ware Bassett
+
+Shelf: `pipeline/sara-ware-bassett_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Cape Cod novels and books for young readers. Every English text under the name at Gutenberg that no other shelf holds (17 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Story of Sugar | have | PG 7803, `swbassett-story-of-sugar` (962 units) |
+| Flood Tide | have | PG 18902, `swbassett-flood-tide` (1928 units) |
+| The Story of Porcelain | have | PG 19423, `swbassett-story-of-porcelain` (1183 units) |
+| The Story of Glass | have | PG 20698, `swbassett-story-of-glass` (933 units) |
+| Steve and the Steam Engine | have | PG 22245, `swbassett-steve-and-the-steam-engine` (1392 units) |
+| Ted and the Telephone | have | PG 23292, `swbassett-ted-and-the-telephone` (1088 units) |
+| Carl and the Cotton Gin | have | PG 23560, `swbassett-carl-and-the-cotton-gin` (1723 units) |
+| Walter and the Wireless | have | PG 23728, `swbassett-walter-and-the-wireless` (1911 units) |
+| Mrs. Christy's Bridge Party | have | PG 23973, `swbassett-mrs-christys-bridge-party` (102 units) |
+| The Story of Wool | have | PG 24858, `swbassett-story-of-wool` (1126 units) |
+| The Story of Silk | have | PG 25025, `swbassett-story-of-silk` (723 units) |
+| The Story of Leather | have | PG 25823, `swbassett-story-of-leather` (1086 units) |
+| Christopher and the Clockmakers | have | PG 26857, `swbassett-christopher-and-the-clockmakers` (1562 units) |
+| The Wall Between | have | PG 27471, `swbassett-wall-between` (1982 units) |
+| Paul and the Printing Press | have | PG 27834, `swbassett-paul-and-the-printing-press` (1420 units) |
+| Shifting Sands | have | PG 43773, `swbassett-shifting-sands` (2706 units) |
+| The Green Dolphin | have | PG 78005, `swbassett-green-dolphin` (2167 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
