@@ -5186,6 +5186,48 @@ Shelf: `pipeline/gordon-stables_shelf.json` (2026-10-17; added at the coordinato
 | Shoulder to shoulder | have | PG 76046, `gstables-shoulder-to-shoulder` (3010 units) |
 | gstables-boys-own-book | excluded | PG 49415, The Boy's Own Book of Indoor Games, is a many-author compilation |
 
+## Joseph A. Altsheler
+
+Shelf: `pipeline/altsheler_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Frontier and Civil War series for boys; many describe Native Americans in the terms of their time. Every English text under the name at Gutenberg that no other shelf holds (35 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Scouts of the Valley | have | PG 1078, `altsheler-scouts-of-the-valley` (1861 units) |
+| The Guns of Bull Run: A Story of the Civil War's Eve | have | PG 3653, `altsheler-guns-of-bull-run` (1822 units) |
+| The Star of Gettysburg: A Story of Southern High Tide | have | PG 3811, `altsheler-star-of-gettysburg` (2128 units) |
+| The Guns of Shiloh: A Story of the Great Western Campaign | have | PG 5207, `altsheler-guns-of-shiloh` (1705 units) |
+| The Scouts of Stonewall: The Story of the Great Valley Campaign | have | PG 6094, `altsheler-scouts-of-stonewall` (2056 units) |
+| The Sword of Antietam: A Story of the Nation's Crisis | have | PG 7862, `altsheler-sword-of-antietam` (1861 units) |
+| The Rock of Chickamauga: A Story of the Western Crisis | have | PG 9745, `altsheler-rock-of-chickamauga` (1950 units) |
+| The Masters of the Peaks: A Story of the Great North Woods | have | PG 11311, `altsheler-masters-of-the-peaks` (1829 units) |
+| The Shadow of the North: A Story of Old New York and a Lost Campaign | have | PG 11881, `altsheler-shadow-of-the-north` (2029 units) |
+| The Lords of the Wild: A Story of the Old New York Border | have | PG 11961, `altsheler-lords-of-the-wild` (1663 units) |
+| The Shades of the Wilderness: A Story of Lee's Great Stand | have | PG 12532, `altsheler-shades-of-the-wilderness` (2125 units) |
+| The Forest Runners: A Story of the Great War Trail in Early Kentucky | have | PG 14876, `altsheler-forest-runners` (1822 units) |
+| The Hunters of the Hills | have | PG 14890, `altsheler-hunters-of-the-hills` (1921 units) |
+| The Rulers of the Lakes: A Story of George and Champlain | have | PG 14891, `altsheler-rulers-of-the-lakes` (1929 units) |
+| The Free Rangers: A Story of the Early Days Along the Mississippi | have | PG 15055, `altsheler-free-rangers` (2146 units) |
+| The Hosts of the Air | have | PG 15285, `altsheler-hosts-of-the-air` (2043 units) |
+| The Forest of Swords: A Story of Paris and the Marne | have | PG 15760, `altsheler-forest-of-swords` (2038 units) |
+| The Texan Scouts: A Story of the Alamo and Goliad | have | PG 15767, `altsheler-texan-scouts` (2340 units) |
+| The Texan Star: The Story of a Great Fight for Liberty | have | PG 15852, `altsheler-texan-star` (2217 units) |
+| The Tree of Appomattox | have | PG 17677, `altsheler-tree-of-appomattox` (2186 units) |
+| The Sun of Quebec: A Story of a Great Crisis | have | PG 18774, `altsheler-sun-of-quebec` (2069 units) |
+| The Young Trailers: A Story of Early Kentucky | have | PG 19477, `altsheler-young-trailers` (1234 units) |
+| Before the Dawn: A Story of the Fall of Richmond | have | PG 21321, `altsheler-before-the-dawn` (2998 units) |
+| The Last of the Chiefs: A Story of the Great Sioux War | have | PG 22464, `altsheler-last-of-the-chiefs` (1643 units) |
+| The Eyes of the Woods: A Story of the Ancient Wilderness | have | PG 24758, `altsheler-eyes-of-the-woods` (1347 units) |
+| The Candidate: A Political Romance | have | PG 25132, `altsheler-candidate` (2512 units) |
+| The Border Watch: A Story of the Great Chief's Last Stand | have | PG 25186, `altsheler-border-watch` (2183 units) |
+| The Keepers of the Trail: A Story of the Great Woods | have | PG 25596, `altsheler-keepers-of-the-trail` (1926 units) |
+| The Riflemen of the Ohio: A Story of the Early Days along "The Beautiful River" | have | PG 25998, `altsheler-riflemen-of-the-ohio` (2317 units) |
+| The Great Sioux Trail: A Story of Mountain and Plain | have | PG 28115, `altsheler-great-sioux-trail` (1963 units) |
+| The Guns of Europe | have | PG 33481, `altsheler-guns-of-europe` (2205 units) |
+| The Quest of the Four: A Story of the Comanches and Buena Vista | have | PG 40480, `altsheler-quest-of-the-four` (2242 units) |
+| In Hostile Red | have | PG 41050, `altsheler-in-hostile-red` (1987 units) |
+| The Last Rebel | have | PG 58617, `altsheler-last-rebel` (780 units) |
+| The Sun of Saratoga: A Romance of Burgoyne's Surrender | have | PG 66327, `altsheler-sun-of-saratoga` (1591 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
