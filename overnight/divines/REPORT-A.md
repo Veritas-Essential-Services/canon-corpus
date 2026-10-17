@@ -1027,3 +1027,6 @@
 
 ## 2026-10-17 17:22 CDT — f-w-faber done
 - `pipeline/f-w-faber_shelf.json`: 0 CCEL, 0 PG, 19 IA. Title pages read for faber-lives-of-saints-essay, faber-spiritual-conferences (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — isaac-williams done
+- `pipeline/isaac-williams_shelf.json`: 0 CCEL, 0 PG, 14 IA. Title pages read for williams-nativity-harmonized (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

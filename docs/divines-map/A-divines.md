@@ -4536,3 +4536,32 @@ Slugs `faber-*`. Anglican tracts through his Oratory books; his hymns and poems 
 | allforjesusoreas00fabeuoft (fortieth American edition, catalogued 1853), TheBlessedSacrament1861 and bethlehem0000unse_k1l0 (twentieth-century reprints), hymnsfred00fabe (late imprint) | excluded | |
 | George Stanley Faber and William Frederic Faber | excluded | |
 | reprints of 1901-1923 and translations | excluded | |
+
+## Isaac Williams (round 23, my pick, 2026-10-17)
+
+Slugs `williams-*`. The Devotional Commentary, the Apocalypse and his sermons; his anonymous verse waits in alternates.
+
+| Work | Status | Where |
+|---|---|---|
+| A Harmony of the Four Evangelists (London: Francis & John Rivington, 1850) | have-ocr | IA `aharmonyfoureva00willgoog` |
+| Plain Sermons, on the Latter Part of the Catechism (London: Francis & John Rivington, 1851) | have-ocr | IA `plainsermonscat11willuoft` |
+| The Apocalypse, with Notes and Reflections (London: Francis & John Rivington, 1852) | have-ocr | IA `a614429000willuoft` |
+| The Gospel Narrative of Our Lord's Nativity Harmonized, with Reflections, second edition (London: Francis & John Rivington, 1852) | have-ocr | IA `gospelnarrativeo00will` |
+| The Gospel Narrative of Our Lord's Resurrection Harmonized, second edition (London: Rivingtons, 1855) | have-ocr | IA `gospelnarrative01willgoog` |
+| Sermons on the Characters of the Old Testament (London: Rivingtons; catalogued 1856) | have-ocr | IA `sermonsoncharac00willgoog` |
+| The Gospel Narrative of Our Lord's Passion Harmonized, fifth edition (London: Rivingtons; catalogued 1861) | have-ocr | IA `gospelnarrative00willgoog` |
+| Thoughts on the Study of the Holy Gospels, new edition (London, Oxford and Cambridge: Rivingtons, 1870) | have-ocr | IA `a614483301willuoft` |
+| The Holy Week, new edition (London, Oxford and Cambridge: Rivingtons, 1875) | have-ocr | IA `holyweek00will` |
+| Our Lord's Ministry, the Second Year, new edition (Rivingtons, MDCCCLXXVII) | have-ocr | IA `ourlordsministry0000will` |
+| Our Lord's Ministry, the Third Year, new edition (Rivingtons, MDCCCLXXVIII) | have-ocr | IA `devotionalcommen0005isaa` |
+| Sermons on the Epistles and Gospels for the Sundays and Holy Days, vol. I (London, Oxford and Cambridge: Rivingtons, MDCCCLXXX) | have-ocr | IA `sermonsonepistle01will` |
+| Sermons on the Epistles and Gospels for the Sundays and Holy Days, vol. II, new edition (London: Rivingtons, 1882) | have-ocr | IA `sermonsonepistle02will` |
+| The Autobiography of Isaac Williams, edited by Sir George Prevost (London: Longmans, 1892) | have-ocr | IA `isaacwilliamsaut00willuoft` |
+| The Rivingtons new-edition set of the Devotional Commentary, 1877-1884 (devotionalcommen01willuoft and siblings) and later Longmans impressions to 1907 | alternate | not shelved |
+| The Characters of the Old Testament (Rivingtons, 1870; charactersofoldt00willuoft), a later form of the 1856 sermons | alternate | not shelved |
+| Female Characters of Holy Scripture, Longmans new impression, no year (femalecharacters0000will, catalogued 1909) | alternate | not shelved |
+| Anonymous verse 'by the author of The Cathedral': The Cathedral (1839), Thoughts in Past Years (1838), The Baptistery (1842), The Altar (1847), The Christian Scholar, The Seven Days (1850); Hymns from the Parisian Breviary (translation) | alternate | not shelved |
+| Tracts for the Times no. 80, On Reserve in Communicating Religious Knowledge (1838): anonymous Tract for the Times | alternate | not shelved |
+| Tracts for the Times volumes, the multi-author Plain Sermons, Lyra Apostolica, Sacred Verses with Pictures (edited) | excluded | |
+| Selections (1890, compiled); his memoir of R. A. Suckling | excluded | |
+| Isaac Williams, Essay on Indigestion (1820); J. Williams, The Christian Scholar | excluded | |

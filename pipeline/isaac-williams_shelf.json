@@ -1,0 +1,253 @@
+{
+ "_about": "Public-domain Isaac Williams (1802-1865, Tractarian poet and divine, Fellow of Trinity College, Oxford) for the Word Hoard: 14 books from Internet Archive scans, 1850-1892, chiefly his Devotional Commentary on the Gospel Narrative (the Harmony, the Nativity, Holy Week, the Passion, the Resurrection and the Ministry), his Apocalypse (1852) and his sermons. His verse, published as 'by the author of The Cathedral', waits in alternates. Raw OCR. Added 2026-10-17 by lane A, round 23 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "williams"
+ ],
+ "_surname": [
+  "isaac williams",
+  "rev. isaac williams",
+  "williams, isaac",
+  "isaac williams, b.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "williams-harmony-four-evangelists": [
+   "aharmonyfoureva00willgoog",
+   "A Harmony of the Four Evangelists (London: Francis & John Rivington, 1850)"
+  ],
+  "williams-plain-sermons-catechism": [
+   "plainsermonscat11willuoft",
+   "Plain Sermons, on the Latter Part of the Catechism (London: Francis & John Rivington, 1851)"
+  ],
+  "williams-apocalypse": [
+   "a614429000willuoft",
+   "The Apocalypse, with Notes and Reflections (London: Francis & John Rivington, 1852)"
+  ],
+  "williams-nativity-harmonized": [
+   "gospelnarrativeo00will",
+   "The Gospel Narrative of Our Lord's Nativity Harmonized, with Reflections, second edition (London: Francis & John Rivington, 1852)"
+  ],
+  "williams-resurrection-harmonized": [
+   "gospelnarrative01willgoog",
+   "The Gospel Narrative of Our Lord's Resurrection Harmonized, second edition (London: Rivingtons, 1855)"
+  ],
+  "williams-ot-characters-sermons": [
+   "sermonsoncharac00willgoog",
+   "Sermons on the Characters of the Old Testament (London: Rivingtons; catalogued 1856)"
+  ],
+  "williams-passion-harmonized": [
+   "gospelnarrative00willgoog",
+   "The Gospel Narrative of Our Lord's Passion Harmonized, fifth edition (London: Rivingtons; catalogued 1861)"
+  ],
+  "williams-study-holy-gospels": [
+   "a614483301willuoft",
+   "Thoughts on the Study of the Holy Gospels, new edition (London, Oxford and Cambridge: Rivingtons, 1870)"
+  ],
+  "williams-holy-week": [
+   "holyweek00will",
+   "The Holy Week, new edition (London, Oxford and Cambridge: Rivingtons, 1875)"
+  ],
+  "williams-ministry-second-year": [
+   "ourlordsministry0000will",
+   "Our Lord's Ministry, the Second Year, new edition (Rivingtons, MDCCCLXXVII)"
+  ],
+  "williams-ministry-third-year": [
+   "devotionalcommen0005isaa",
+   "Our Lord's Ministry, the Third Year, new edition (Rivingtons, MDCCCLXXVIII)"
+  ],
+  "williams-epistles-gospels-1": [
+   "sermonsonepistle01will",
+   "Sermons on the Epistles and Gospels for the Sundays and Holy Days, vol. I (London, Oxford and Cambridge: Rivingtons, MDCCCLXXX)"
+  ],
+  "williams-epistles-gospels-2": [
+   "sermonsonepistle02will",
+   "Sermons on the Epistles and Gospels for the Sundays and Holy Days, vol. II, new edition (London: Rivingtons, 1882)"
+  ],
+  "williams-autobiography": [
+   "isaacwilliamsaut00willuoft",
+   "The Autobiography of Isaac Williams, edited by Sir George Prevost (London: Longmans, 1892)"
+  ]
+ },
+ "_alternates": {
+  "williams-commentary-set": "The Rivingtons new-edition set of the Devotional Commentary, 1877-1884 (devotionalcommen01willuoft and siblings) and later Longmans impressions to 1907",
+  "williams-ot-characters-1870": "The Characters of the Old Testament (Rivingtons, 1870; charactersofoldt00willuoft), a later form of the 1856 sermons",
+  "williams-female-characters": "Female Characters of Holy Scripture, Longmans new impression, no year (femalecharacters0000will, catalogued 1909)",
+  "williams-verse": "Anonymous verse 'by the author of The Cathedral': The Cathedral (1839), Thoughts in Past Years (1838), The Baptistery (1842), The Altar (1847), The Christian Scholar, The Seven Days (1850); Hymns from the Parisian Breviary (translation)",
+  "williams-reserve": "Tracts for the Times no. 80, On Reserve in Communicating Religious Knowledge (1838): anonymous Tract for the Times"
+ },
+ "_excluded": {
+  "williams-multi": "Tracts for the Times volumes, the multi-author Plain Sermons, Lyra Apostolica, Sacred Verses with Pictures (edited)",
+  "williams-others": "Selections (1890, compiled); his memoir of R. A. Suckling",
+  "williams-namesakes": "Isaac Williams, Essay on Indigestion (1820); J. Williams, The Christian Scholar"
+ },
+ "_identity_checked": {
+  "williams-nativity-harmonized": {
+   "author": "Title page read: 'Rev. Isaac Williams, B.D., late Fellow of Trinity College, Oxford', OCR 'ISAACrWILLIAMS'"
+  }
+ },
+ "_rights_checked": {
+  "williams-ot-characters-sermons": "title page read: London, Rivingtons, Waterloo Place; year garbled or not in the OCR window; catalogue year in his lifetime (he died 1865)",
+  "williams-passion-harmonized": "title page read: London, Rivingtons, Waterloo Place; year garbled or not in the OCR window; catalogue year in his lifetime (he died 1865)"
+ },
+ "_pending": {},
+ "_checks": {
+  "williams-harmony-four-evangelists": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "isaac williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "williams-plain-sermons-catechism": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "isaac williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "williams-apocalypse": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "isaac williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "williams-nativity-harmonized": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "williams-resurrection-harmonized": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "isaac williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "williams-ot-characters-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "isaac williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: London, Rivingtons, Waterloo Place; year garbled or not in the OCR window; catalogue year in his lifetime (he died 1865)"
+  },
+  "williams-passion-harmonized": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "isaac williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: London, Rivingtons, Waterloo Place; year garbled or not in the OCR window; catalogue year in his lifetime (he died 1865)"
+  },
+  "williams-study-holy-gospels": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "isaac williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "williams-holy-week": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "isaac williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "williams-ministry-second-year": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "isaac williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "williams-ministry-third-year": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "isaac williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "williams-epistles-gospels-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "isaac williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "williams-epistles-gospels-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "isaac williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "williams-autobiography": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "isaac williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
