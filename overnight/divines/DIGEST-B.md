@@ -199,3 +199,4 @@
 - 17:28 round g: 6 new shelves, 28 PG texts (Dewey, Santayana, Royce, Peirce, James Mill, Schiller); 4 d'Holbach/Dewey etexts added to the post-1930-printing class for Adam (DIGEST).
 - 17:30 round h: 9 IA volumes (Royce x7, James Mill, Dewey-Tufts); nothing needs Adam.
 - 17:34 round i: 15 PG texts (Rousseau, Pascal, Marx/Engels, William James); nothing needs Adam.
+- 17:36 round j: 4 new shelves (Hamilton, Stewart, Thomas Brown, Hartley); nothing needs Adam.

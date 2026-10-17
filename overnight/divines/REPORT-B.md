@@ -829,3 +829,7 @@
 ## 2026-10-17 17:34 CDT — Round 2026-10-17i: Rousseau, Pascal, Marx and Engels, William James
 - 15 PG texts: rousseau +1 (Discourse on Inequality), blaise-pascal (Provincial Letters, M'Crie 1856), marx-engels (Engels tr. Austin Lewis x2; Marx ed. Eleanor Marx Aveling x2), william-james-works (8 works 1892-1912, beside the reading-lists william-james shelf)
 - Left out as duplicates: Hume's separate PG works (inside the 1826 Philosophical Works on hume), Berkeley's PG 4722/4724 (inside Fraser vol. 1), Montaigne and Spinoza part-files, Hegel's 1955-reprint History of Philosophy
+
+## 2026-10-17 17:36 CDT — Round 2026-10-17j: Scottish school and Hartley
+- 4 new shelves, 9 IA volumes: sir-william-hamilton (Lectures, Boston 1859-60), dugald-stewart (Elements, Collected Works vols. II-IV 1854), thomas-brown-edinburgh (Lectures 1851), david-hartley (Observations on Man 1801 + Pistorius)
+- Left out: Schopenhauer's Fourfold Root (held on singles-ideas-2), Beattie's Essay on Truth (the 1805 scan prints no year)
