@@ -1,5 +1,5 @@
 {
- "_about": "J. M. E. McTaggart (1866-1925), raw IA OCR: Some Dogmas of Religion (London: Edward Arnold, 1906; Digital Library of India scan), Studies in the Hegelian Dialectic (second edition, Cambridge, 1922) and The Nature of Existence (Cambridge: vol. I 1921; vol. II, edited by C. D. Broad, 1927). All published before 1930, so US public domain. Not taken: a 1968 reprint of The Nature of Existence vol. I (IA natureofexistenc00mcta). No uids minted.",
+ "_about": "J. M. E. McTaggart (1866-1925), raw IA OCR: Some Dogmas of Religion (London: Edward Arnold, 1906; Digital Library of India scan), Studies in the Hegelian Dialectic (second edition, Cambridge, 1922) and The Nature of Existence (Cambridge: vol. I 1921; vol. II, edited by C. D. Broad, 1927). All published before 1930, so Added in round ac: Studies in Hegelian Cosmology (Cambridge: University Press, 1901). US public domain. Not taken: a 1968 reprint of The Nature of Existence vol. I (IA natureofexistenc00mcta). No uids minted.",
  "_author": "John McTaggart Ellis McTaggart",
  "_name_words": [
   "john",
@@ -30,6 +30,10 @@
   "mctaggart-nature-of-existence-1927-v2": [
    "natureofexistenc02mctauoft",
    "The Nature of Existence, vol. II, ed. C. D. Broad (Cambridge, 1927)"
+  ],
+  "mctaggart-studies-hegelian-cosmology-1901": [
+   "cu31924029069354",
+   "Studies in Hegelian Cosmology (Cambridge: University Press, 1901)"
   ]
  },
  "_excluded": {},
@@ -76,6 +80,17 @@
    "ia_rights": "ok: published 1927",
    "ia_date": "1921-1927",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mctaggart-studies-hegelian-cosmology-1901": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mctaggart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
