@@ -6637,6 +6637,26 @@ Shelf: `pipeline/emerson-hough_shelf.json` (2026-10-17; added at the coordinator
 | The Web | have | PG 74188, `ehough-web` (2052 units) |
 | pg-39957 | excluded | PG 39957 Prairie Gold: a many-author anthology of the Iowa Press and Authors' Club. |
 
+## Sarah Orne Jewett
+
+Shelf: `pipeline/sarah-orne-jewett_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Maine stories, sketches and novels. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Country of the Pointed Firs | have | PG 367, `sojewett-country-of-the-pointed-firs` (489 units) |
+| A Country Doctor and Selected Stories and Sketches | have | PG 15294, `sojewett-a-country-doctor-and-selected-stories-and-sketches` (1277 units) |
+| Deephaven and Selected Stories & Sketches | have | PG 15985, `sojewett-deephaven-and-selected-stories-sketches` (560 units) |
+| The Queen's Twin and Other Stories | have | PG 24822, `sojewett-queens-twin-and-other-stories` (633 units) |
+| Betty Leicester: A Story For Girls | have | PG 27923, `sojewett-betty-leicester` (739 units) |
+| The Life of Nancy | have | PG 31473, `sojewett-life-of-nancy` (934 units) |
+| Strangers and Wayfarers | have | PG 31857, `sojewett-strangers-and-wayfarers` (660 units) |
+| Old Friends and New | have | PG 32382, `sojewett-old-friends-and-new` (489 units) |
+| Betty Leicester's Christmas | have | PG 41831, `sojewett-betty-leicesters-christmas` (137 units) |
+| The Normans; told chiefly in relation to their conquest of England | have | PG 44920, `sojewett-normans` (1177 units) |
+| The Tory Lover | have | PG 51537, `sojewett-tory-lover` (1543 units) |
+| pg-26407 | excluded | PG 26407 An Arrow in a Sunbeam: a many-author collection (Jewett, Frances Lee, C. S. Sleight). |
+| pg-74909 | excluded | PG 74909, 74980 Best Stories (ed. Willa Cather, 1925): a selection of stories already on the shelf in their own books. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
