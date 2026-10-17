@@ -1,0 +1,34 @@
+{
+ "_about": "Augustus De Morgan (1806-1871), First Notions of Logic, preparatory to the study of geometry (London: Taylor and Walton, 1839), from Project Gutenberg. US public domain. Not to be confused with the de-morgan shelf (Mary De Morgan's fairy tales). No uids minted.",
+ "_author": "Augustus De Morgan",
+ "_name_words": [
+  "augustus",
+  "a",
+  "de",
+  "morgan"
+ ],
+ "_surname": [
+  "de morgan",
+  "augustus de morgan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "de-morgan-first-notions-of-logic-1839": [
+   67017,
+   "First Notions of Logic, preparatory to the study of geometry (London: Taylor and Walton, 1839)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "de-morgan-first-notions-of-logic-1839": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "de morgan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
