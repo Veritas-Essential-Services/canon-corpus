@@ -21,3 +21,6 @@ data/lemmas/whitaker-la/lemmas.jsonl
 
 # The reader (pipeline/render_reader.py) is generated; rebuild, never commit.
 build/
+
+# The Unscanner's working files (scans, page rasters, hOCR, outputs): rebuildable from the source.
+data/unscanner/

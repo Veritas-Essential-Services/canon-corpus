@@ -116,6 +116,9 @@ The living truth for project state is the Obsidian vault:
     python3 pipeline/review.py apply docs/review/<sheet>.md   # answers -> override rows, rebuild, --check
     python3 pipeline/review.py render --check          # the sheets are what the data renders
     python3 tests/review_test.py                       # review.py end to end, on a temp copy
+    python3 -m unscanner run <slug> [--archive ID | --pdf P --rights WHY]  # a scan re-set (unscanner/README.md)
+    python3 -m unscanner run church-odyssey-boys --to-corpus  # ...and structure_texts.py builds from it
+    python3 tests/unscanner_test.py                    # 36 offline checks (tesseract optional)
 
 ## Layout
 - pipeline/fetch_sources.py — PERSEUS (TEI) + CCEL (ThML) + GUTENBERG (.txt)
@@ -167,6 +170,13 @@ The living truth for project state is the Obsidian vault:
   domain, with the reason per poem; everything else links out. Packs in
   exports/mnemonicon/poetry/, ids uuid5 of the poem's wh-uid. Rules and
   schema: data/poetry/README.md.
+
+- unscanner/ — the Unscanner, Phase A (2026-10-16): a scanned PD book -> tesseract hOCR -> layout
+  (indent = paragraph, folios and running heads by position, plates from the ink) -> reflowed HTML,
+  faithful page HTML in the closest open typeface, EPUB, corpus units, and a review sheet. Rights
+  gate first. Working files in data/unscanner/ (gitignored). `--to-corpus` writes
+  data/corpus/archive/<slug>.unscanned.json, which structure_texts.py PREFERS over the Archive's djvu
+  text for ARCHIVE_PROSE books. Both Church Homers are built from it. Rules: unscanner/README.md.
 
 ## Sandbox mechanics (inherited from patrimonium — they apply here)
 - Do NOT run live git in a mounted/synced folder — copy to /tmp, run git

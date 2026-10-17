@@ -1135,6 +1135,21 @@ def convert_archive_ocr_prose(path, slug, title, author, ident, extra_heads=(), 
                                   f"or vice versa; chapter headings read from the scan, paragraph running within chapter"},
             "units": units}
 
+def convert_unscanned(path, slug, title, author, ident):
+    """A scan the Unscanner (unscanner/, 2026-10-16) re-read: its units.json, copied into the corpus
+    with `python3 -m unscanner run <slug> --to-corpus`. Preferred over the Archive's djvu text when
+    present, because its paragraphs come from the printed indentation rather than a guess, and each
+    unit names the scan pages and printed page labels it came from. The scheme and honesty fields are
+    the Unscanner's own, carried through unchanged."""
+    book = json.load(open(path, encoding="utf-8"))
+    units = [{"id": u["id"], "ref": u["ref"], "text": u["text"], "links": u.get("links", []),
+              "pages": u.get("pages", []), "printed": u.get("printed", [])} for u in book["units"]]
+    src = dict(book.get("source", {}))
+    src.update({"path": os.path.relpath(path, CORPUS), "format": "unscanner", "archive_id": ident,
+                "sha256": sha256(path)})
+    return {"slug": slug, "title": title, "author": author, "source": src, "scheme": book["scheme"],
+            "units": units}
+
 def sh_roman_to_str(n):
     vals = [(1000, "M"), (900, "CM"), (500, "D"), (400, "CD"), (100, "C"), (90, "XC"), (50, "L"),
             (40, "XL"), (10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I")]
@@ -1644,7 +1659,7 @@ GUTEN_PROSE = {
 # Scans (fetch_sources.ARCHIVE_OCR): slug -> (title, author, unnumbered section headings)
 ARCHIVE_PROSE = {
     "church-iliad-boys": ("The Iliad for Boys and Girls", "Alfred J. Church", ("THE END OF TROY",),
-                          {"Phcenix": "Phoenix"}),     # heading OCR fixes (rule 2: by rule, never by hand)
+                          {"Phcenix": "Phoenix", "Phc:nix": "Phoenix"}),     # heading OCR fixes (rule 2: by rule, never by hand)
     "church-odyssey-boys": ("The Odyssey for Boys and Girls", "Alfred J. Church", (), {}),
 }
 
@@ -1723,7 +1738,12 @@ def main():
     import fetch_sources as _fsa
     for slug, (title, author, extra, hfix) in ARCHIVE_PROSE.items():
         path = os.path.join(CORPUS, "archive", slug + ".txt")
-        if os.path.exists(path):
+        unscanned = os.path.join(CORPUS, "archive", slug + ".unscanned.json")
+        if os.path.exists(unscanned):           # the Unscanner's reading wins over the Archive's text
+            ident = _fsa.ARCHIVE_OCR[slug][0]
+            jobs.append((slug, lambda p=unscanned, s=slug, t=title, a=author, i=ident:
+                         convert_unscanned(p, s, t, a, i)))
+        elif os.path.exists(path):
             ident = _fsa.ARCHIVE_OCR[slug][0]
             jobs.append((slug, lambda p=path, s=slug, t=title, a=author, i=ident, x=extra, h=hfix:
                          convert_archive_ocr_prose(p, s, t, a, i, x, h)))

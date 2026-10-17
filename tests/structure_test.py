@@ -518,5 +518,20 @@ check("ocr: a paragraph cut by a page break is one paragraph, and a word broken 
       _ob["units"][1]["text"].endswith("go over the sea to the far and distant country of the Trojans and so they all did."))
 check("ocr: the book says it is unproofread OCR", "UNPROOFREAD OCR" in _ob["scheme"]["honesty"])
 
+# ---------------------------------------------------------------- the Unscanner's reading of a scan
+_UN = {"slug": "t", "title": "T", "author": "A", "source": {"format": "unscanner", "font_match": "X"},
+       "scheme": {"apparatus": "a", "citation": "chapter + paragraph", "resolution": "paragraph",
+                  "honesty": "UNPROOFREAD OCR (tesseract) of a library scan"},
+       "units": [{"id": "t:ch1.1", "ref": "Chapter I: Of Things, par. 1", "text": "Once.", "links": [],
+                  "pages": [21, 22], "printed": ["15", "16"]}]}
+with _tf.NamedTemporaryFile("w", suffix=".json", delete=False, encoding="utf-8") as _fh:
+    _json.dump(_UN, _fh)
+_saved_corpus = st.CORPUS; st.CORPUS = os.path.dirname(_fh.name)
+_ub = st.convert_unscanned(_fh.name, "t", "T", "A", "x")
+st.CORPUS = _saved_corpus; os.unlink(_fh.name)
+check("unscanned: units, their scan pages and printed labels, and the Unscanner's honesty carried through",
+      _ub["units"][0]["printed"] == ["15", "16"] and _ub["units"][0]["id"] == "t:ch1.1"
+      and _ub["source"]["format"] == "unscanner" and "UNPROOFREAD" in _ub["scheme"]["honesty"])
+
 print(f"\n{PASS} passed, {len(FAIL)} failed" + (f": {FAIL}" if FAIL else ""))
 sys.exit(1 if FAIL else 0)
