@@ -1187,7 +1187,7 @@ Shelf: `pipeline/montgomery_shelf.json` (2026-10-02; added at the coordinator's 
 
 ## Kate Douglas Wiggin
 
-Shelf: `pipeline/wiggin_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her children's books; New Chronicles of Rebecca nested chronicle > part. The anthologies she edited are not taken (other people's texts). Not in the manifest; no uids minted.
+Shelf: `pipeline/wiggin_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories and novels for children and adults. All 32 of Kate Douglas Wiggin's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -1197,9 +1197,37 @@ Shelf: `pipeline/wiggin_shelf.json` (2026-10-02; added at the coordinator's rela
 | Mother Carey's Chickens (1911) | have | PG 10540, `wiggin-mother-careys-chickens` (1342 units) |
 | Timothy's Quest (1890) | have | PG 18531, `wiggin-timothys-quest` (560 units) |
 | Polly Oliver's Problem (1893) | have | PG 15630, `wiggin-polly-olivers-problem` (783 units) |
+| The Village Watch-Tower | have | PG 936, `wiggin-village-watch-tower` (539 units) |
+| Rose o' the River | have | PG 1033, `wiggin-rose-o-the-river` (378 units) |
+| Penelope's Experiences in Scotland Being Extracts from the Commonplace Book of Penelope Hamilton | have | PG 1217, `wiggin-penelopes-experiences-in-scotland-being-extracts-from` (1057 units) |
+| Penelope's English Experiences Being Extracts from the Commonplace Book of Penelope Hamilton | have | PG 1278, `wiggin-penelopes-english-experiences-being-extracts-from-the` (433 units) |
+| Penelope's Irish Experiences | have | PG 1391, `wiggin-penelopes-irish-experiences` (884 units) |
+| A Cathedral Courtship | have | PG 1551, `wiggin-a-cathedral-courtship` (165 units) |
+| The Story of Waitstill Baxter | have | PG 1701, `wiggin-story-of-waitstill-baxter` (1186 units) |
+| The Flag-Raising | have | PG 2315, `wiggin-flag-raising` (321 units) |
+| A Summer in a Canyon: A California Story | have | PG 3147, `wiggin-a-summer-in-a-canyon` (1263 units) |
+| A Village Stradivarius | have | PG 3148, `wiggin-a-village-stradivarius` (191 units) |
+| Marm Lisa | have | PG 3149, `wiggin-marm-lisa` (481 units) |
+| Homespun Tales | have | PG 3492, `wiggin-homespun-tales` (1121 units) |
+| Bluebeard; a musical fantasy | have | PG 3494, `wiggin-bluebeard` (127 units) |
+| The Story Hour: A Book for the Home and the Kindergarten (with Nora Archibald Smith) | have | PG 5835, `wiggin-story-hour` (559 units) |
+| Children's Rights: A Book of Nursery Logic | have | PG 10335, `wiggin-childrens-rights` (530 units) |
+| The Story of Patsy | have | PG 13506, `wiggin-story-of-patsy` (318 units) |
+| The Romance of a Christmas Card | have | PG 17456, `wiggin-romance-of-a-christmas-card` (310 units) |
+| The Girl and the Kingdom Learning to Teach | have | PG 22578, `wiggin-girl-and-the-kingdom-learning-to-teach` (145 units) |
+| Ladies-In-Waiting | have | PG 26928, `wiggin-ladies-in-waiting` (1171 units) |
+| Penelope's Progress Being Such Extracts from the Commonplace Book of Penelope Hamilton As Relate to Her Experiences in Scotland | have | PG 28877, `wiggin-penelopes-progress-being-such-extracts-from-the-commo` (1125 units) |
+| The Girl Scouts: A Training School for Womanhood | have | PG 29253, `wiggin-girl-scouts` (13 units) |
+| Robinetta (with Jane and Mary Findlater and Allan McAulay) | have | PG 30090, `wiggin-robinetta` (1203 units) |
+| Susanna and Sue | have | PG 32169, `wiggin-susanna-and-sue` (689 units) |
+| The Affair at the Inn (with Jane and Mary Findlater and Allan McAulay) | have | PG 40879, `wiggin-affair-at-the-inn` (592 units) |
+| Half-A-Dozen Housekeepers: A Story for Girls in Half-A-Dozen Chapters | have | PG 54685, `wiggin-half-a-dozen-housekeepers` (442 units) |
+| The quilt of happiness; Creeping Jenny; and other New England stories | have | PG 69395, `wiggin-quilt-of-happiness` (455 units) |
 | wiggin-duplicate | excluded | The Birds' Christmas Carol (PG 24286): a second transcription |
 | wiggin-anthologies | excluded | the anthologies she edited with Nora Archibald Smith (The Fairy Ring, Tales of Laughter, Tales of Wonder, The Arabian Nights, Pinafore Palace, The Posy Ring, Golden Numbers): other people's texts, which other shelves hold at source |
 | wiggin-adult | excluded | Penelope books, A Cathedral Courtship and her other adult fiction, and her kindergarten writings: not children's classics |
+| wiggin-froebels-gifts | excluded | PG 31097, Froebel's Gifts (with Nora A. Smith), is a kindergarten manual, not stories |
+| wiggin-repeat-25493 | excluded | PG 25493, A Cathedral Courtship: a second transcription of a title already on this shelf |
 
 ## Juliana Horatia Ewing
 

@@ -102,7 +102,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `sewell` | 1 Gutenberg | 0 | 925 | Black Beauty. |
 | `dodge` | 1 Gutenberg | 0 | 2,093 | Hans Brinker. |
 | `montgomery` | 13 Gutenberg | 0 | 21,864 | the Anne books through Rilla of Ingleside, both Chronicles of Avonlea, The Story Girl, The Golden Road, Kilmeny, Emily of New Moon, The Blue Castle. Canadian author d. 1942; all 13 published before 1931, so US public domain. |
-| `wiggin` | 6 Gutenberg | 0 | 5,387 | Rebecca of Sunnybrook Farm, New Chronicles of Rebecca, The Birds' Christmas Carol, Mother Carey's Chickens, Timothy's Quest, Polly Oliver's Problem. 6 `~2` ids in Timothy's Quest (scene lines repeat). |
+| `wiggin` | 32 Gutenberg | 0 | 21,085 | Stories and novels for children and adults. Completed 2026-10-17: 26 more books added, every English text by Kate Douglas Wiggin at Gutenberg that no other shelf holds. |
 | `ewing` | 18 Gutenberg | 0 | 19,842 | Victorian children's stories and fairy tales. Completed 2026-10-17: 11 more books added, every English text by Juliana Horatia Ewing at Gutenberg that no other shelf holds. |
 | `molesworth` | 58 Gutenberg | 0 | 71,899 | Victorian children's stories and fairy tales. Completed 2026-10-17: 50 more books added, every English text by Mrs. Molesworth at Gutenberg that no other shelf holds. |
 | `wyss` | 1 Gutenberg | 0 | 2,544 | The Swiss Family Robinson, tr. W. H. G. Kingston. **Your call:** The Family Robinson Crusoe (PG 72813, the 1814/1816 Godwin English version) names no translator; PG 3836 is marked COPYRIGHTED and is out. |

@@ -1,5 +1,5 @@
 {
- "_about": "Kate Douglas Wiggin's (1856-1923) children's books: Rebecca of Sunnybrook Farm (1903) and New Chronicles of Rebecca (1907), The Birds' Christmas Carol (1887), Mother Carey's Chickens (1911), Timothy's Quest (1890) and Polly Oliver's Problem (1893). Clean Gutenberg text; US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Kate Douglas Wiggin's (1856-1923) children's books: Rebecca of Sunnybrook Farm (1903) and New Chronicles of Rebecca (1907), The Birds' Christmas Carol (1887), Mother Carey's Chickens (1911), Timothy's Quest (1890) and Polly Oliver's Problem (1893). Clean Gutenberg text; US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by Kate Douglas Wiggin at Gutenberg was added (26 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (1) and shared or misattributed files are listed in _excluded.",
  "_author": "Kate Douglas Wiggin",
  "_name_words": [
   "rebecca",
@@ -59,18 +59,148 @@
    {
     "contents_only": true
    }
+  ],
+  "wiggin-village-watch-tower": [
+   936,
+   "The Village Watch-Tower"
+  ],
+  "wiggin-rose-o-the-river": [
+   1033,
+   "Rose o' the River"
+  ],
+  "wiggin-penelopes-experiences-in-scotland-being-extracts-from": [
+   1217,
+   "Penelope's Experiences in Scotland Being Extracts from the Commonplace Book of Penelope Hamilton"
+  ],
+  "wiggin-penelopes-english-experiences-being-extracts-from-the": [
+   1278,
+   "Penelope's English Experiences Being Extracts from the Commonplace Book of Penelope Hamilton"
+  ],
+  "wiggin-penelopes-irish-experiences": [
+   1391,
+   "Penelope's Irish Experiences"
+  ],
+  "wiggin-a-cathedral-courtship": [
+   1551,
+   "A Cathedral Courtship"
+  ],
+  "wiggin-story-of-waitstill-baxter": [
+   1701,
+   "The Story of Waitstill Baxter",
+   {
+    "contents_only": true
+   }
+  ],
+  "wiggin-flag-raising": [
+   2315,
+   "The Flag-Raising",
+   {
+    "contents_only": true
+   }
+  ],
+  "wiggin-a-summer-in-a-canyon": [
+   3147,
+   "A Summer in a Canyon: A California Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "wiggin-a-village-stradivarius": [
+   3148,
+   "A Village Stradivarius"
+  ],
+  "wiggin-marm-lisa": [
+   3149,
+   "Marm Lisa",
+   {
+    "contents_only": true
+   }
+  ],
+  "wiggin-homespun-tales": [
+   3492,
+   "Homespun Tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "wiggin-bluebeard": [
+   3494,
+   "Bluebeard; a musical fantasy"
+  ],
+  "wiggin-story-hour": [
+   5835,
+   "The Story Hour: A Book for the Home and the Kindergarten (with Nora Archibald Smith)"
+  ],
+  "wiggin-childrens-rights": [
+   10335,
+   "Children's Rights: A Book of Nursery Logic"
+  ],
+  "wiggin-story-of-patsy": [
+   13506,
+   "The Story of Patsy"
+  ],
+  "wiggin-romance-of-a-christmas-card": [
+   17456,
+   "The Romance of a Christmas Card"
+  ],
+  "wiggin-girl-and-the-kingdom-learning-to-teach": [
+   22578,
+   "The Girl and the Kingdom Learning to Teach"
+  ],
+  "wiggin-ladies-in-waiting": [
+   26928,
+   "Ladies-In-Waiting",
+   {
+    "contents_only": true
+   }
+  ],
+  "wiggin-penelopes-progress-being-such-extracts-from-the-commo": [
+   28877,
+   "Penelope's Progress Being Such Extracts from the Commonplace Book of Penelope Hamilton As Relate to Her Experiences in Scotland"
+  ],
+  "wiggin-girl-scouts": [
+   29253,
+   "The Girl Scouts: A Training School for Womanhood"
+  ],
+  "wiggin-robinetta": [
+   30090,
+   "Robinetta (with Jane and Mary Findlater and Allan McAulay)",
+   {
+    "contents_only": true
+   }
+  ],
+  "wiggin-susanna-and-sue": [
+   32169,
+   "Susanna and Sue",
+   {
+    "contents_only": true
+   }
+  ],
+  "wiggin-affair-at-the-inn": [
+   40879,
+   "The Affair at the Inn (with Jane and Mary Findlater and Allan McAulay)"
+  ],
+  "wiggin-half-a-dozen-housekeepers": [
+   54685,
+   "Half-A-Dozen Housekeepers: A Story for Girls in Half-A-Dozen Chapters"
+  ],
+  "wiggin-quilt-of-happiness": [
+   69395,
+   "The quilt of happiness; Creeping Jenny; and other New England stories"
   ]
  },
  "internet_archive": {},
  "_excluded": {
   "wiggin-duplicate": "The Birds' Christmas Carol (PG 24286): a second transcription",
   "wiggin-anthologies": "the anthologies she edited with Nora Archibald Smith (The Fairy Ring, Tales of Laughter, Tales of Wonder, The Arabian Nights, Pinafore Palace, The Posy Ring, Golden Numbers): other people's texts, which other shelves hold at source",
-  "wiggin-adult": "Penelope books, A Cathedral Courtship and her other adult fiction, and her kindergarten writings: not children's classics"
+  "wiggin-adult": "Penelope books, A Cathedral Courtship and her other adult fiction, and her kindergarten writings: not children's classics",
+  "wiggin-froebels-gifts": "PG 31097, Froebel's Gifts (with Nora A. Smith), is a kindergarten manual, not stories",
+  "wiggin-repeat-25493": "PG 25493, A Cathedral Courtship: a second transcription of a title already on this shelf"
  },
  "_checks": {
   "wiggin-rebecca-of-sunnybrook-farm": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -79,7 +209,7 @@
   },
   "wiggin-new-chronicles-of-rebecca": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -88,7 +218,7 @@
   },
   "wiggin-birds-christmas-carol": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -97,7 +227,7 @@
   },
   "wiggin-mother-careys-chickens": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -106,7 +236,7 @@
   },
   "wiggin-timothys-quest": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
@@ -115,7 +245,241 @@
   },
   "wiggin-polly-olivers-problem": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-village-watch-tower": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-rose-o-the-river": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-penelopes-experiences-in-scotland-being-extracts-from": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-penelopes-english-experiences-being-extracts-from-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-penelopes-irish-experiences": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-a-cathedral-courtship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-story-of-waitstill-baxter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-flag-raising": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-a-summer-in-a-canyon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-a-village-stradivarius": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-marm-lisa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-homespun-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-bluebeard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-story-hour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-childrens-rights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-story-of-patsy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-romance-of-a-christmas-card": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-girl-and-the-kingdom-learning-to-teach": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-ladies-in-waiting": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-penelopes-progress-being-such-extracts-from-the-commo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-girl-scouts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-robinetta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-susanna-and-sue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-affair-at-the-inn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-half-a-dozen-housekeepers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kate douglas wiggin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wiggin-quilt-of-happiness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "kate douglas wiggin",
    "identity": "ok",
