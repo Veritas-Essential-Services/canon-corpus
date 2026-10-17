@@ -1,0 +1,35 @@
+{
+ "_about": "Laurens P. Hickok (1798-1888), raw IA OCR (Google scan): Rational Psychology, or the subjective idea and the objective law of all intelligence (Schenectady: G. Y. Van Debogert, 1854; first published 1849). US public domain. No uids minted.",
+ "_author": "Laurens Perseus Hickok",
+ "_name_words": [
+  "laurens",
+  "perseus",
+  "p",
+  "hickok"
+ ],
+ "_surname": [
+  "hickok"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hickok-rational-psychology-1854": [
+   "rationalpsychol00hickgoog",
+   "Rational Psychology (Schenectady: G. Y. Van Debogert, 1854)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hickok-rational-psychology-1854": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hickok",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
