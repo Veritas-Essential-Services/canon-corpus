@@ -1,0 +1,48 @@
+{
+ "_about": "G. E. Moore (1873-1958), from Project Gutenberg: Principia Ethica (Cambridge, first edition 1903; the etext is the 1922 reprint) and Philosophical Studies (Kegan Paul, 1922). Both published before 1930, so US public domain. No uids minted.",
+ "_author": "G. E. Moore",
+ "_name_words": [
+  "g",
+  "e",
+  "george",
+  "edward",
+  "moore"
+ ],
+ "_surname": [
+  "moore",
+  "g e moore"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "moore-principia-ethica-1922": [
+   53430,
+   "Principia Ethica (Cambridge, 1903; reprinted 1922)"
+  ],
+  "moore-philosophical-studies-1922": [
+   50141,
+   "Philosophical Studies (London: Kegan Paul, 1922)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "moore-principia-ethica-1922": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "moore-philosophical-studies-1922": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
