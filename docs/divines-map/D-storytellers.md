@@ -3321,6 +3321,14 @@ Shelf: `pipeline/eleanore-jewett_shelf.json` (2026-10-02; added at the coordinat
 |---|---|---|
 | Wonder Tales from Tibet | have | PG 66443, `ejewett-wonder-tales-from-tibet` (510 units) |
 
+## Clara Kern Bayliss and others
+
+Shelf: `pipeline/philippine-jafl_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Philippine folk tales from the Journal of American Folk-Lore; cut by article and tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Philippine Folk-Tales | have | PG 11028, `phjafl-philippine-folk-tales-jafl` (1278 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
