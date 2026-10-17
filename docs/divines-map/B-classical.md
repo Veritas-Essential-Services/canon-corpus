@@ -3679,6 +3679,10 @@ Shelf: `pipeline/fichte_shelf.json`. J. G. Fichte (1762-1814) in English, raw IA
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Science of Knowledge, translated from the German (Philadelphia: J. B. Lippincott, 1868) | A. E. Kroeger | `fichte-kroeger-science-of-knowledge-1868` | have-raw (IA `cu31924014110682`) |
+| New Exposition of the Science of Knowledge, translated from the German (St. Louis, 1869) | A. E. Kroeger | `fichte-kroeger-new-exposition-1869` | have-raw (IA `newexposition00fichuoft`) |
+| The Science of Rights, with a preface by William T. Harris (London: Trübner, 1889) | A. E. Kroeger | `fichte-kroeger-science-of-rights-1889` | have-raw (IA `scienceofrights00fich`) |
+| The Science of Ethics as Based on the Science of Knowledge, edited by W. T. Harris (London: Kegan Paul, 1897) | A. E. Kroeger | `fichte-kroeger-science-of-ethics-1897` | have-raw (IA `cu31924020344077`) |
 
 Pending (wishlist): Fichte's Addresses to the German Nation (Jones and Turnbull, 1922).
 
