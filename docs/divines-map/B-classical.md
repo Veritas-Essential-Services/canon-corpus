@@ -3767,6 +3767,7 @@ Shelf: `pipeline/port-royal-logic_shelf.json`. Arnauld and Nicole, tr. Baynes (1
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Port-Royal Logic (Logic, or the Art of Thinking), translated from the French, with an introduction (Edinburgh, 1850) | Thomas Spencer Baynes | `port-royal-baynes-art-of-thinking-1850` | have-raw (IA `artofthinking00arnauoft`) |
 
 ## Shaftesbury
 
