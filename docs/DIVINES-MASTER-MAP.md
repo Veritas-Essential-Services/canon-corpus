@@ -5142,6 +5142,20 @@ Slugs `guyon-*`. Translators: Metcalf, Marston, Brooke, Cowper, Ford, Allen, Dun
 | CCEL guyon/prayer: undated Allenson booklet, no translator | excluded | |
 | Upham's Life of Madame Guyon (on the thomas-c-upham shelf) and other works about her; abridgements by Reiff, Morrow and Lowery | excluded | |
 | modern reprints; French and German editions | excluded | |
+
+## Miguel de Molinos (round 24, my pick, 2026-10-17)
+
+Slugs `molinos-*`. The 1688 English version and the 1775 Leeds revision; translators not named. CCEL's copy states a 1907 source it does not carry.
+
+| Work | Status | Where |
+|---|---|---|
+| The Spiritual Guide which Disentangles the Soul, with a Short Treatise concerning Daily Communion, translated from the Italian copy printed at Venice 1685 (London, catalogued 1688) | have-ocr | IA `bim_early-english-books-1641-1700_the-spiritual-guide-_molinos-miguel-de_1688` |
+| The Spiritual Guide, carefully revised with the original (Leeds: J. Bowling, M.DCC.LXXV) | have-ocr | IA `bim_eighteenth-century_the-spiritual-guide-whi_molinos-miguel-de_1775` |
+| CCEL molinos/guide: the 1688 text, but CCEL states a Methuen 1907 source it does not carry | alternate | not shelved |
+| The other 1688 copy (bim_..._the-spiritual-guide-whic_molinos-miguel-de_1688), the 1699 printing, and the 1885 Philadelphia and Glasgow reprints of 1699 | alternate | not shelved |
+| Golden Thoughts from The Spiritual Guide, preface by J. H. Shorthouse (1883), and two eighteenth-century abstracts | alternate | not shelved |
+| Thoughts and Aphorisms (1857): its title page does not name Molinos | excluded | |
+| Bigelow (1882) and other works about him; Italian and Spanish editions | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
