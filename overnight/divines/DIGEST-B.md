@@ -215,3 +215,4 @@
 - 18:29 round w: 6 logic/philosophy-of-science shelves. For Adam: Lewes's History of Philosophy is two volumes from different editions (1867 3rd, 1871 4th); keep, or wait for a matched pair? Held Bain's Senses and the Intellect (year unreadable).
 - 18:35 round x: Holbach, Wollstonecraft, Mackintosh, Priestley. Note for the reading-lists thread: Burke's 12-volume Works and Paine's Writings vols 1, 3, 4 (incl. The Age of Reason) are on Gutenberg and not held; their shelves, so untouched.
 - 18:37 round y: Charron (1707), Burlamaqui (1763), Cumberland (1727, year inferred from the dedication).
+- 18:40 round z: Perry, Felix Adler, Carus, J. M. Baldwin (10 Gutenberg texts).

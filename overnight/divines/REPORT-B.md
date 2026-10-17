@@ -945,3 +945,7 @@
 - New shelves: pierre-charron (2), burlamaqui (2), richard-cumberland-laws-of-nature (1)
 - Charron 1729 vol. III held: OCR 0.777, under the gate; the 1707 edition used instead
 - Cumberland: imprint year not legible in the OCR; 1727 inferred from Maxwell's dedication of 8 March 1726/7
+
+## 2026-10-17 18:40 CDT — Round z: American philosophy
+- New shelves: ralph-barton-perry (2), felix-adler (6), paul-carus (1), james-mark-baldwin (1)
+- Felix Adler's Essentials of Spirituality names no printing (accepted, noted)

@@ -1380,6 +1380,14 @@
    "started": "2026-10-17T18:35:17-05:00",
    "finished": "2026-10-17T18:37:42-05:00",
    "notes": "3 new shelves, 5 IA raw items. Charron's 1707 set is one edition across two scans (vol. I Google, vol. II eighteenth-century collection, OCR 0.794); 1729 vol. III scan held at 0.777. Cumberland year inferred from the dedication. Montaigne and La Rochefoucauld already held (florio, cotton, van-laun)."
+  },
+  {
+   "id": "round-2026-10-17z",
+   "status": "done",
+   "scope": "American philosophy: Perry, Felix Adler, Carus, J. M. Baldwin",
+   "started": "2026-10-17T18:37:42-05:00",
+   "finished": "2026-10-17T18:40:43-05:00",
+   "notes": "4 new shelves, 10 PG items, all published before 1931. Carus's Foundations of Mathematics has no plain text."
   }
  ]
 }
