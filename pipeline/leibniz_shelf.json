@@ -1,0 +1,41 @@
+{
+ "_about": "G. W. Leibniz (1646-1716) in English, translator per row, raw IA OCR: George Martin Duncan's Philosophical Works (New Haven, 1890), Alfred Gideon Langley's New Essays Concerning Human Understanding (Macmillan, 1896), Robert Latta's Monadology and Other Philosophical Writings (Oxford, 1898), George R. Montgomery's Discourse on Metaphysics, Correspondence with Arnauld and Monadology (Open Court, 1902), and Charles William Russell's System of Theology (Burns and Lambert, 1850). All US public domain. Not taken: Huggard's Theodicy (PG 17147), first published 1951 and not US public domain. No uids minted.",
+ "_author": "G. W. Leibniz",
+ "_name_words": [
+  "gottfried",
+  "wilhelm",
+  "godfrey",
+  "william",
+  "von",
+  "leibniz",
+  "leibnitz"
+ ],
+ "_surname": [
+  "leibniz",
+  "leibnitz"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "leibniz-duncan-philosophical-works-1890": [
+   "philosophicalwor00leibuoft",
+   "The Philosophical Works of Leibnitz, comprising the Monadology, New System of Nature, Principles of Nature and of Grace, Letters to Clarke, Refutation of Spinoza, and other opuscules, translated from the original Latin and French, with notes (New Haven: Tuttle, Morehouse and Taylor, 1890)",
+   "tr. George Martin Duncan (his name is lost in the OCR of the title page)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {},
+ "_checks": {
+  "leibniz-duncan-philosophical-works-1890": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "leibniz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
