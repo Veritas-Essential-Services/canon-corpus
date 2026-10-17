@@ -21539,6 +21539,65 @@ Shelf: `pipeline/edward-ellis_shelf.json` (2026-10-17; added at the coordinator'
 | eellis-index | excluded | PG 59707 is David Widger's index, not a text |
 | edward-ellis-repeat-11151 | excluded | PG 11151, The Lost Trail: a second transcription of a title already on this shelf |
 
+## Harry Castlemon
+
+Shelf: `pipeline/castlemon_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series stories for boys. Every English text under the name at Gutenberg that no other shelf holds (52 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Frank on the Lower Mississippi | have | PG 6958, `castlemon-frank-on-the-lower-mississippi` (688 units) |
+| Frank, the Young Naturalist | have | PG 12405, `castlemon-frank-the-young-naturalist` (1325 units) |
+| Frank on a Gun-Boat | have | PG 12808, `castlemon-frank-on-a-gun-boat` (1155 units) |
+| Frank among the Rancheros | have | PG 17349, `castlemon-frank-among-the-rancheros` (873 units) |
+| The Boy Trapper | have | PG 18076, `castlemon-boy-trapper` (1142 units) |
+| George at the Fort; Or, Life Among the Soldiers | have | PG 21664, `castlemon-george-at-the-fort` (1203 units) |
+| True To His Colors | have | PG 28391, `castlemon-true-to-his-colors` (1559 units) |
+| Rodney, the Partisan | have | PG 29300, `castlemon-rodney-the-partisan` (1553 units) |
+| Marcy the Blockade Runner | have | PG 29387, `castlemon-marcy-the-blockade-runner` (1527 units) |
+| Elam Storm, the Wolfer; Or, The Lost Nugget | have | PG 30428, `castlemon-elam-storm-the-wolfer` (1404 units) |
+| Marcy, the Refugee | have | PG 31831, `castlemon-marcy-the-refugee` (1611 units) |
+| No Moss; Or, The Career of a Rolling Stone | have | PG 33226, `castlemon-no-moss` (1302 units) |
+| The Haunted Mine | have | PG 37857, `castlemon-haunted-mine` (2069 units) |
+| Frank in the Mountains | have | PG 41802, `castlemon-frank-in-the-mountains` (681 units) |
+| Frank Before Vicksburg The Gun-Boat Series | have | PG 42099, `castlemon-frank-before-vicksburg-the-gun-boat-series` (967 units) |
+| Frank on the Prairie | have | PG 42101, `castlemon-frank-on-the-prairie` (576 units) |
+| The First Capture; or, Hauling Down the Flag of England | have | PG 42113, `castlemon-first-capture` (1144 units) |
+| Frank in the Woods | have | PG 42307, `castlemon-frank-in-the-woods` (763 units) |
+| Frank at Don Carlos' Rancho | have | PG 42358, `castlemon-frank-at-don-carlos-rancho` (802 units) |
+| Julian Mortimer: A Brave Boy's Struggle for Home and Fortune | have | PG 51738, `castlemon-julian-mortimer` (1625 units) |
+| A Struggle for a Fortune | have | PG 52287, `castlemon-a-struggle-for-a-fortune` (1247 units) |
+| A Rebellion in Dixie | have | PG 53362, `castlemon-a-rebellion-in-dixie` (1825 units) |
+| Frank Nelson in the Forecastle; Or, The Sportman's Club Among the Whalers | have | PG 53420, `castlemon-frank-nelson-in-the-forecastle` (1017 units) |
+| Don Gordon's Shooting-Box | have | PG 53479, `castlemon-don-gordons-shooting-box` (1305 units) |
+| George at the Wheel; Or, Life in the Pilot-House | have | PG 53544, `castlemon-george-at-the-wheel` (1349 units) |
+| George in Camp; or, Life on the Plains | have | PG 53666, `castlemon-george-in-camp` (1314 units) |
+| Sailor Jack, the Trader | have | PG 54049, `castlemon-sailor-jack-the-trader` (1633 units) |
+| A Sailor in Spite of Himself | have | PG 54741, `castlemon-a-sailor-in-spite-of-himself` (2126 units) |
+| Oscar in Africa | have | PG 54954, `castlemon-oscar-in-africa` (1526 units) |
+| Our Fellows; Or, Skirmishes with the Swamp Dragoons | have | PG 55402, `castlemon-our-fellows` (1501 units) |
+| Go-Ahead; Or, The Fisher-Boy's Motto | have | PG 55683, `castlemon-go-ahead` (1391 units) |
+| Joe Wayring at Home; or, The Adventures of a Fly-Rod | have | PG 55730, `castlemon-joe-wayring-at-home` (1313 units) |
+| Snagged and Sunk; Or, The Adventures of a Canvas Canoe | have | PG 55843, `castlemon-snagged-and-sunk` (1479 units) |
+| Carl the Trailer | have | PG 55923, `castlemon-carl-the-trailer` (1552 units) |
+| Rodney, the Overseer | have | PG 56216, `castlemon-rodney-the-overseer` (1440 units) |
+| Guy Harris, the Runaway | have | PG 56381, `castlemon-guy-harris-the-runaway` (2052 units) |
+| The Mail Carrier | have | PG 56408, `castlemon-mail-carrier` (1228 units) |
+| Snowed Up; or, The Sportman's Club in the Mountains | have | PG 56449, `castlemon-snowed-up` (1034 units) |
+| The Buried Treasure; Or, Old Jordan's "Haunt" | have | PG 56676, `castlemon-buried-treasure` (1096 units) |
+| The Boy Traders; Or, The Sportsman's Club Among the Boers | have | PG 56868, `castlemon-boy-traders` (1104 units) |
+| The Camp in the Foot-Hills; or, Oscar on Horseback | have | PG 60220, `castlemon-camp-in-the-foot-hills` (1877 units) |
+| The Missing Pocket-Book; Or, Tom Mason's Luck | have | PG 60322, `castlemon-missing-pocket-book` (1606 units) |
+| The Mystery of Lost River Canyon | have | PG 60407, `castlemon-mystery-of-lost-river-canyon` (1884 units) |
+| The Rod and Gun Club | have | PG 60838, `castlemon-rod-and-gun-club` (1417 units) |
+| The Sportsman's Club in the Saddle | have | PG 60890, `castlemon-sportsmans-club-in-the-saddle` (999 units) |
+| The Sportsman's Club Afloat | have | PG 60984, `castlemon-sportsmans-club-afloat` (1083 units) |
+| The Steel Horse: The Rambles of a Bicycle | have | PG 61486, `castlemon-steel-horse` (1439 units) |
+| Winged Arrow's Medicine; Or, The Massacre at Fort Phil Kearney | have | PG 61767, `castlemon-winged-arrows-medicine` (937 units) |
+| The Young Game-Warden | have | PG 62866, `castlemon-young-game-warden` (1658 units) |
+| Tom Newcombe; Or, the Boy of Bad Habits | have | PG 64169, `castlemon-tom-newcombe` (1732 units) |
+| Two Ways of Becoming a Hunter | have | PG 64280, `castlemon-two-ways-of-becoming-a-hunter` (2026 units) |
+| The Young Wild-Fowlers | have | PG 64366, `castlemon-young-wild-fowlers` (1322 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

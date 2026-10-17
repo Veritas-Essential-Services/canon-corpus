@@ -2269,6 +2269,14 @@
       "started": "2026-10-17T18:10:03-05:00",
       "finished": "2026-10-17T18:10:03-05:00",
       "notes": "edward-ellis: new shelf, 73 Gutenberg books, 89,976 units, 409 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "castlemon",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Harry Castlemon; no minting",
+      "status": "done",
+      "started": "2026-10-17T18:10:04-05:00",
+      "finished": "2026-10-17T18:10:04-05:00",
+      "notes": "castlemon: new shelf, 52 Gutenberg books, 70,481 units, 10 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

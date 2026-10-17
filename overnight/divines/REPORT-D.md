@@ -1128,3 +1128,6 @@
 
 ## 2026-10-17 18:10 CDT — edward-ellis: done
 - edward-ellis: new shelf, 73 Gutenberg books, 89,976 units, 409 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:10 CDT — castlemon: done
+- castlemon: new shelf, 52 Gutenberg books, 70,481 units, 10 ~2 ids; verify 0 mismatches, 0 rights flags.
