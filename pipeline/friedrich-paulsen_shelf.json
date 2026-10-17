@@ -1,5 +1,5 @@
 {
- "_about": "Friedrich Paulsen (1846-1908), raw IA OCR: Introduction to Philosophy, tr. Frank Thilly, second American from the third German edition (New York: Holt; copyright 1895, this scan a February 1924 printing, the year read from garbled OCR 'ig24'), and Immanuel Kant, his life and doctrine, tr. J. E. Creighton and Albert Lefevre (New York: Scribner, 1902). US public domain. Held: A System of Ethics, tr. Thilly (Scribner), because the only year on the scan's title leaves is an unreadable copyright line. No uids minted.",
+ "_about": "Friedrich Paulsen (1846-1908), raw IA OCR: Introduction to Philosophy, tr. Frank Thilly, second American from the third German edition (New York: Holt; copyright 1895, this scan a February 1924 printing, the year read from garbled OCR 'ig24'), and Immanuel Kant, his life and doctrine, tr. J. E. Creighton and Albert Lefevre (New York: Scribner, 1902). Added in round ae: A System of Ethics, from the fourth revised and enlarged edition (London: Kegan Paul, Trench, Trübner, 1899). US public domain. A Scribner scan of A System of Ethics was held earlier (no readable year); the dated 1899 London printing above replaces it. No uids minted.",
  "_author": "Friedrich Paulsen",
  "_name_words": [
   "friedrich",
@@ -21,6 +21,11 @@
    "immanuelkant00pauluoft",
    "Immanuel Kant, his life and doctrine (New York: Scribner, 1902)",
    "tr. J. E. Creighton and Albert Lefevre"
+  ],
+  "paulsen-thilly-system-of-ethics-1899": [
+   "asystemofethics00pauluoft",
+   "A System of Ethics, from the fourth revised and enlarged edition (London: Kegan Paul, Trench, Trübner, 1899)",
+   "tr. Frank Thilly"
   ]
  },
  "_excluded": {},
@@ -52,6 +57,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1902",
    "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "paulsen-thilly-system-of-ethics-1899": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "paulsen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
