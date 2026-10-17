@@ -1,0 +1,32 @@
+{
+ "_about": "Michael Bakunin (1814-1876): God and the State, with a preface by Carlo Cafiero and Élisée Reclus, first American edition (New York: Mother Earth Publishing Association; the edition advertises Mother Earth to 1916), from Project Gutenberg. US public domain. No uids minted.",
+ "_author": "Michael Bakunin",
+ "_name_words": [
+  "michael",
+  "mikhail",
+  "bakunin"
+ ],
+ "_surname": [
+  "bakunin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bakunin-god-and-the-state": [
+   36568,
+   "God and the State, first American edition (New York: Mother Earth Publishing Association, c. 1916)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "bakunin-god-and-the-state": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bakunin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
