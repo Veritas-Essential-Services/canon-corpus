@@ -1,0 +1,31 @@
+{
+ "_about": "Paul Carus (1852-1919), editor of The Monist and The Open Court: Nietzsche and Other Exponents of Individualism (Chicago: Open Court, 1914), clean Gutenberg text. His Foundations of Mathematics (PG 57355) has no plain-text file. US public domain. No uids minted.",
+ "_author": "Paul Carus",
+ "_name_words": [
+  "paul",
+  "carus"
+ ],
+ "_surname": [
+  "carus"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "carus-nietzsche-and-individualism-1914": [
+   48495,
+   "Nietzsche and Other Exponents of Individualism (Chicago: Open Court, 1914)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "carus-nietzsche-and-individualism-1914": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "carus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
