@@ -16837,6 +16837,25 @@ Round 68 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | later-reprints: Asian Educational Services and South India Saiva Siddhanta reprints of Pope's Kural and Naladiyar (sacredkurralofti00revg, naladiyarorfourh00gupo, the 1958 Naladiyar): later reprints, not used. | — | — | excluded | — |
 | — | — | wilson-hall-edition: Fitzedward Hall's enlarged edition of Wilson's Vishnu Purana (Trübner, 1864-77) is not added alongside the 1840 original, to avoid two copies of one translation. | — | — | excluded | — |
 
+## Shelf: the Mughal histories in English before 1931: Beveridge's Akbarnama (vols I-II), Blochmann and Jarrett's Ain-i-Akbari, Rogers and Beveridge's Tuzuk-i-Jahangiri, Annette Beveridge's Humayun-nama
+
+Shelf: `pipeline/mughal-histories_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mughal-histories` · titles `python3 pipeline/split_shelf_titles.py mughal-histories`.
+Round 69 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `mughal-histories-akbarnama-1` | Abu'l-Fazl, the Akbarnama | The Akbarnama of Abu-l-Fazl, vol. I | H. Beveridge | 1907 | have-raw | IA `in.ernet.dli.2015.469729` |
+| `mughal-histories-akbarnama-2` | Abu'l-Fazl, the Akbarnama | The Akbarnama of Abu-l-Fazl, vol. II | H. Beveridge | 1912 | have-raw | IA `india.history.resource.107685` |
+| `mughal-histories-ain-i-akbari-1` | Abu'l-Fazl, the Ain-i-Akbari | The Ain i Akbari, vol. I | H. Blochmann | 1873 | have-raw | IA `in.ernet.dli.2015.279471` |
+| `mughal-histories-ain-i-akbari-2` | Abu'l-Fazl, the Ain-i-Akbari | The Ain i Akbari, vol. II | H. S. Jarrett | 1891 | have-raw | IA `in.ernet.dli.2015.32527` |
+| `mughal-histories-ain-i-akbari-3` | Abu'l-Fazl, the Ain-i-Akbari | The Ain i Akbari, vol. III | H. S. Jarrett | 1894 | have-raw | IA `in.ernet.dli.2015.32529` |
+| `mughal-histories-tuzuk-i-jahangiri-1` | Jahangir, the Tuzuk-i-Jahangiri (memoirs) | The Tuzuk-i-Jahangiri, or Memoirs of Jahangir, vol. I | Alexander Rogers, edited by Henry Beveridge | 1909 | have-raw | IA `tuzukijahangirio00jahauoft` |
+| `mughal-histories-tuzuk-i-jahangiri-2` | Jahangir, the Tuzuk-i-Jahangiri (memoirs) | The Tuzuk-i-Jahangiri, or Memoirs of Jahangir, vol. II | Alexander Rogers, edited by Henry Beveridge | 1914 | have-raw | IA `in.ernet.dli.2015.116012` |
+| `mughal-histories-humayun-nama` | Gulbadan Begam, the Humayun-nama | The History of Humayun (Humayun-nama) | Annette S. Beveridge | 1902 | have-raw | IA `historyofhumayun00gulbrich` |
+| `akbarnama-3` | — | Beveridge's Akbarnama vol. III: issued in fascicles from 1907, but the volume was completed only in 1939, so it is after the cutoff as a whole. The scans found are the 1939 volume or its 2000 reprint. | — | — | pending | — |
+| — | — | akbarnama-2000-reprints: Asiatic Society reprints of March and February 2000 (in.ernet.dli.2015.189288, 189290, 189291, 55648, 55649, 55650): not used. | — | — | excluded | — |
+| — | — | ain-i-akbari-1927: Phillott's 1927 second edition of Blochmann's vol. I is not added alongside the 1873 first edition. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
