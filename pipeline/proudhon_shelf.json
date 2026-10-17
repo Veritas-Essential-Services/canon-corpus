@@ -1,0 +1,47 @@
+{
+ "_about": "Pierre-Joseph Proudhon (1809-1865) in English, from Project Gutenberg: What is Property? (with a memoir, 'P. J. Proudhon: his life and his works') and the System of Economical Contradictions, or the Philosophy of Misery, vol. I. Neither etext names its translator or printing; both are Benjamin R. Tucker's translations by standard attribution (inferred, not read). US public domain. No uids minted.",
+ "_author": "P.-J. Proudhon",
+ "_name_words": [
+  "pierre",
+  "joseph",
+  "p",
+  "j",
+  "proudhon"
+ ],
+ "_surname": [
+  "proudhon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "proudhon-what-is-property": [
+   360,
+   "What is Property? An inquiry into the principle of right and of government (the etext names no printing; Tucker translation, inferred)"
+  ],
+  "proudhon-economical-contradictions-v1": [
+   444,
+   "System of Economical Contradictions, or the Philosophy of Misery, vol. I (the etext names no printing; Tucker translation, inferred)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "proudhon-what-is-property": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "proudhon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "proudhon-economical-contradictions-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "proudhon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
