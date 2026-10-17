@@ -1107,3 +1107,6 @@
 
 ## 2026-10-17 17:53 CDT — ouida: done
 - ouida: completed, 23 more Gutenberg books (26 on the shelf), 43,737 units, 2498 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:00 CDT — mark-twain: done
+- mark-twain: completed, 65 more Gutenberg books (70 on the shelf), 53,221 units, 3275 ~2 ids; verify 0 mismatches, 0 rights flags.

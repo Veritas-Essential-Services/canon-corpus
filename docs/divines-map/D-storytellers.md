@@ -3532,7 +3532,7 @@ Shelf: `pipeline/martha-finley_shelf.json` (2026-10-02; added at the coordinator
 
 ## Mark Twain
 
-Shelf: `pipeline/mark-twain_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Five books for young readers; cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/mark-twain_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels, stories, sketches, travel books, essays and letters. All 70 of Mark Twain's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -3541,6 +3541,74 @@ Shelf: `pipeline/mark-twain_shelf.json` (2026-10-02; added at the coordinator's 
 | The Prince and the Pauper | have | PG 1837, `twain-prince-and-the-pauper` (1603 units) |
 | Tom Sawyer Abroad | have | PG 91, `twain-tom-sawyer-abroad` (705 units) |
 | Tom Sawyer, Detective | have | PG 93, `twain-tom-sawyer-detective` (491 units) |
+| What Is Man? and Other Essays | have | PG 70, `twain-what-is-man-and-other-essays` (1875 units) |
+| The Tragedy of Pudd'nhead Wilson | have | PG 102, `twain-tragedy-of-puddnhead-wilson` (1076 units) |
+| The $30,000 Bequest, and Other Stories | have | PG 142, `twain-30-000-bequest-and-other-stories` (1541 units) |
+| Life on the Mississippi | have | PG 245, `twain-life-on-the-mississippi` (2007 units) |
+| Extract from Captain Stormfield's Visit to Heaven | have | PG 1044, `twain-extract-from-captain-stormfields-visit-to-heaven` (335 units) |
+| A Horse's Tale | have | PG 1086, `twain-a-horses-tale` (373 units) |
+| The Man That Corrupted Hadleyburg | have | PG 1213, `twain-man-that-corrupted-hadleyburg` (430 units) |
+| Is Shakespeare Dead? From My Autobiography | have | PG 2431, `twain-is-shakespeare-dead-from-my-autobiography` (244 units) |
+| On the Decay of the Art of Lying | have | PG 2572, `twain-on-the-decay-of-the-art-of-lying` (17 units) |
+| Personal Recollections of Joan of Arc — Volume 1 | have | PG 2874, `twain-personal-recollections-of-joan-of-arc-volume-1` (1463 units) |
+| Personal Recollections of Joan of Arc — Volume 2 | have | PG 2875, `twain-personal-recollections-of-joan-of-arc-volume-2` (1470 units) |
+| Following the Equator: A Journey Around the World | have | PG 2895, `twain-following-the-equator` (2216 units) |
+| In Defence of Harriet Shelley | have | PG 3171, `twain-in-defence-of-harriet-shelley` (224 units) |
+| Fenimore Cooper's Literary Offences | have | PG 3172, `twain-fenimore-coopers-literary-offences` (76 units) |
+| Essays on Paul Bourget | have | PG 3173, `twain-essays-on-paul-bourget` (149 units) |
+| A Dog's Tale | have | PG 3174, `twain-a-dogs-tale` (37 units) |
+| Mark Twain's Burlesque Autobiography | have | PG 3175, `twain-mark-twains-burlesque-autobiography` (80 units) |
+| The Innocents Abroad | have | PG 3176, `twain-innocents-abroad` (1896 units) |
+| Roughing It | have | PG 3177, `twain-roughing-it` (2158 units) |
+| The Gilded Age: A Tale of Today | have | PG 3178, `twain-gilded-age` (3002 units) |
+| The American Claimant | have | PG 3179, `twain-american-claimant` (1691 units) |
+| A Double Barrelled Detective Story | have | PG 3180, `twain-a-double-barrelled-detective-story` (457 units) |
+| The Stolen White Elephant | have | PG 3181, `twain-stolen-white-elephant` (202 units) |
+| Some Rambling Notes of an Idle Excursion | have | PG 3182, `twain-some-rambling-notes-of-an-idle-excursion` (192 units) |
+| The Facts Concerning the Recent Carnival of Crime in Connecticut | have | PG 3183, `twain-facts-concerning-the-recent-carnival-of-crime-in-conne` (136 units) |
+| Alonzo Fitz, and Other Stories | have | PG 3184, `twain-alonzo-fitz-and-other-stories` (565 units) |
+| Those Extraordinary Twins | have | PG 3185, `twain-those-extraordinary-twins` (561 units) |
+| The Mysterious Stranger, and Other Stories | have | PG 3186, `twain-mysterious-stranger-and-other-stories` (681 units) |
+| Christian Science | have | PG 3187, `twain-christian-science` (935 units) |
+| Mark Twain's Speeches | have | PG 3188, `twain-mark-twains-speeches` (1215 units) |
+| 1601: Conversation as it was by the Social Fireside in the Time of the Tudors | have | PG 3190, `twain-1601` (187 units) |
+| Goldsmith's Friend Abroad Again | have | PG 3191, `twain-goldsmiths-friend-abroad-again` (80 units) |
+| The Curious Republic of Gondour, and Other Whimsical Sketches | have | PG 3192, `twain-curious-republic-of-gondour-and-other-whimsical-sketch` (256 units) |
+| Mark Twain's Letters — Volume 1 (1853-1866) | have | PG 3193, `twain-mark-twains-letters-volume-1-1853-1866` (612 units) |
+| Mark Twain's Letters — Volume 2 (1867-1875) | have | PG 3194, `twain-mark-twains-letters-volume-2-1867-1875` (1064 units) |
+| Mark Twain's Letters — Volume 3 (1876-1885) | have | PG 3195, `twain-mark-twains-letters-volume-3-1876-1885` (1269 units) |
+| Mark Twain's Letters — Volume 4 (1886-1900) | have | PG 3196, `twain-mark-twains-letters-volume-4-1886-1900` (1674 units) |
+| Mark Twain's Letters — Volume 5 (1901-1906) | have | PG 3197, `twain-mark-twains-letters-volume-5-1901-1906` (722 units) |
+| Mark Twain's Letters — Volume 6 (1907-1910) | have | PG 3198, `twain-mark-twains-letters-volume-6-1907-1910` (331 units) |
+| How to Tell a Story, and Other Essays | have | PG 3250, `twain-how-to-tell-a-story-and-other-essays` (121 units) |
+| The Man That Corrupted Hadleyburg, and Other Stories | have | PG 3251, `twain-man-that-corrupted-hadleyburg-and-other-stories` (2335 units) |
+| A Tramp Abroad — Volume 01 | have | PG 5782, `twain-a-tramp-abroad-volume-01` (123 units) |
+| A Tramp Abroad — Volume 02 | have | PG 5783, `twain-a-tramp-abroad-volume-02` (237 units) |
+| A Tramp Abroad — Volume 03 | have | PG 5784, `twain-a-tramp-abroad-volume-03` (339 units) |
+| A Tramp Abroad — Volume 04 | have | PG 5785, `twain-a-tramp-abroad-volume-04` (477 units) |
+| A Tramp Abroad — Volume 05 | have | PG 5786, `twain-a-tramp-abroad-volume-05` (277 units) |
+| A Tramp Abroad — Volume 06 | have | PG 5787, `twain-a-tramp-abroad-volume-06` (292 units) |
+| A Tramp Abroad — Volume 07 | have | PG 5788, `twain-a-tramp-abroad-volume-07` (523 units) |
+| Following the Equator: A Journey Around the World. Part 1 | have | PG 5808, `twain-following-the-equator-5808` (352 units) |
+| Following the Equator: A Journey Around the World. Part 2 | have | PG 5809, `twain-following-the-equator-5809` (269 units) |
+| Following the Equator: A Journey Around the World. Part 3 | have | PG 5810, `twain-following-the-equator-5810` (330 units) |
+| Following the Equator: A Journey Around the World. Part 4 | have | PG 5811, `twain-following-the-equator-5811` (221 units) |
+| Following the Equator: A Journey Around the World. Part 5 | have | PG 5812, `twain-following-the-equator-5812` (412 units) |
+| Following the Equator: A Journey Around the World. Part 6 | have | PG 5813, `twain-following-the-equator-5813` (289 units) |
+| Following the Equator: A Journey Around the World. Part 7 | have | PG 5814, `twain-following-the-equator-5814` (355 units) |
+| Eve's Diary, Complete | have | PG 8525, `twain-eves-diary-complete` (87 units) |
+| Editorial Wild Oats | have | PG 19484, `twain-editorial-wild-oats` (161 units) |
+| Chapters from My Autobiography | have | PG 19987, `twain-chapters-from-my-autobiography` (1242 units) |
+| The Treaty With China, its Provisions Explained New York Tribune, Tuesday, August 28, 1868 | have | PG 33077, `twain-treaty-with-china-its-provisions-explained-new-york-tr` (21 units) |
+| The Mysterious Stranger: A Romance | have | PG 50109, `twain-mysterious-stranger` (636 units) |
+| Merry Tales | have | PG 60900, `twain-merry-tales` (951 units) |
+| The £1,000,000 bank-note, and other new stories | have | PG 61522, `twain-1-000-000-bank-note-and-other-new-stories` (900 units) |
+| To the Person Sitting in Darkness | have | PG 62636, `twain-to-the-person-sitting-in-darkness` (46 units) |
+| King Leopold's Soliloquy: A Defense of His Congo Rule | have | PG 62739, `twain-king-leopolds-soliloquy` (203 units) |
+| Europe and elsewhere | have | PG 68604, `twain-europe-and-elsewhere` (1429 units) |
+| twain-split-parts | excluded | Gutenberg's part-by-part splits of books held whole (Huckleberry Finn, Tom Sawyer, The Prince and the Pauper, A Connecticut Yankee, The Gilded Age, Sketches New and Old, Life on the Mississippi, Roughing It, The Innocents Abroad, Following the Equator, Eve's Diary): PG 5688, 5689, 5690, 5691, 5692, 5693, 5818, 5819, 5820, 5821, 5822, 5823, 5824, 5836, 5837, 5838, 5839, 5840, 5841, 5842, 7100, 7101, 7102, 7103, 7104, 7105, 7106, 7107, 7154, 7155, 7156, 7157, 7158, 7159, 7160, 7161, 7162, 7193, 7194, 7195, 7196, 7197, 7198, 7199, 7200, 7242, 7243, 7244, 7245, 7246, 7247, 7248, 7249, 7250, 8471, 8472, 8473, 8474, 8475, 8476, 8477, 8478, 8479, 8480, 8481, 8482, 8526, 8527, 8528, 8582, 8583, 8584, 8585, 8586, 8587, 8588, 8589 |
+| twain-indexes | excluded | Index, quotation and collected-works files, not texts: PG 3200, 3432, 7556, 28803; Mark Twain's Letters — Complete (PG 3199) repeats the six volumes taken; Moments with Mark Twain (PG 61338) is Paine's selection; PG 32325 is a second Huckleberry Finn |
+| twain-reading-lists | excluded | A Connecticut Yankee (PG 86) and Sketches New and Old (PG 3189) are on the reading-lists thread's twain-rl shelf |
 
 ## Thomas Bailey Aldrich
 
