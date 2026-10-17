@@ -172,7 +172,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `coolidge` | 15 Gutenberg | 0 | 13,052 | The Katy books and other stories for girls. Completed 2026-10-17: 6 more books added, every English text by Susan Coolidge at Gutenberg that no other shelf holds. |
 | `lucretia-hale` | 2 Gutenberg | 0 | 2,135 | The Peterkin Papers, The Last of the Peterkins. PG 25648, a second transcription of The Peterkin Papers, is held once (82% containment). |
 | `margaret-sidney` | 12 Gutenberg | 0 | 31,901 | Five Little Peppers and How They Grew and ten more Pepper books, The Stories Polly Pepper Told. |
-| `eleanor-porter` | 3 Gutenberg | 0 | 5,849 | Pollyanna, Pollyanna Grows Up, Just David. |
+| `eleanor-porter` | 14 Gutenberg | 0 | 28,645 | Novels and stories, the Pollyanna and Miss Billy books. Completed 2026-10-17: 11 more books added, every English text by Eleanor H. Porter at Gutenberg that no other shelf holds. |
 | `jean-webster` | 4 Gutenberg | 0 | 5,620 | Daddy-Long-Legs, Dear Enemy, Just Patty, When Patty Went to College. The two letter novels have no chapters and are cited by running paragraph. Her 1914 stage version of Daddy Long-Legs (PG 75857, a different work) is left out for now and flagged for Adam. |
 | `gruelle` | 5 Gutenberg | 0 | 3,792 | Raggedy Ann Stories, Raggedy Andy Stories, Friendly Fairies, The Magical Land of Noom, The Paper Dragon. |
 | `albert-paine` | 3 Gutenberg | 0 | 1,656 | Hollow Tree Nights and Days, How Mr. Rabbit Lost His Tail, The Arkansaw Bear. Mr. Turtle's Flying Adventure and Mr. Rabbit's Wedding were dropped at the sixth audit pass: 91% and 96% of them are reprinted in Hollow Tree Nights and Days. |

@@ -2210,13 +2210,24 @@ Shelf: `pipeline/margaret-sidney_shelf.json` (2026-10-02; added at the coordinat
 
 ## Eleanor H. Porter
 
-Shelf: `pipeline/eleanor-porter_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Pollyanna and its sequel, and Just David. Not in the manifest; no uids minted.
+Shelf: `pipeline/eleanor-porter_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories, the Pollyanna and Miss Billy books. All 14 of Eleanor H. Porter's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | Pollyanna | have | PG 1450, `eleanor-porter-pollyanna` (1927 units) |
 | Pollyanna Grows Up | have | PG 6100, `eleanor-porter-pollyanna-grows-up` (2113 units) |
 | Just David | have | PG 440, `eleanor-porter-just-david` (1809 units) |
+| Miss Billy — Married | have | PG 361, `eleanor-miss-billy-married` (2193 units) |
+| Miss Billy's Decision | have | PG 362, `eleanor-miss-billys-decision` (2445 units) |
+| Miss Billy | have | PG 3266, `eleanor-miss-billy` (1839 units) |
+| Dawn | have | PG 5874, `eleanor-dawn` (2460 units) |
+| Oh, Money! Money! A Novel | have | PG 5962, `eleanor-oh-money-money-a-novel` (2433 units) |
+| Across the Years | have | PG 6991, `eleanor-across-the-years` (1595 units) |
+| Mary Marie | have | PG 11143, `eleanor-mary-marie` (1420 units) |
+| The Tangled Threads | have | PG 19336, `eleanor-tangled-threads` (1653 units) |
+| The Sunbridge Girls at Six Star Ranch | have | PG 25578, `eleanor-sunbridge-girls-at-six-star-ranch` (2809 units) |
+| The Road to Understanding | have | PG 35093, `eleanor-road-to-understanding` (2505 units) |
+| The Turn of the Tide: The Story of How Margaret Solved Her Problem | have | PG 36401, `eleanor-turn-of-the-tide` (1444 units) |
 
 ## Jean Webster
 
