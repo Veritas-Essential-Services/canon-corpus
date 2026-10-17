@@ -288,7 +288,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `dennys` | 1 Gutenberg | 0 | 682 | The Folk-Lore of China (preface dated 1876). |
 | `mackinlay` | 1 Gutenberg | 0 | 438 | Folklore of Scottish Lochs and Springs (1893). |
 | `kalakaua` | 1 Gutenberg | 0 | 2,677 | The Legends and Myths of Hawaii (1888). |
-| `sophie-may` | 5 Gutenberg | 0 | 4,105 | Little Prudy and four sequels (first entered 1864; 1891-92 printings). PG 53306, a later printing of Captain Horace, is held in _excluded. |
+| `sophie-may` | 24 Gutenberg | 0 | 21,330 | Little Prudy, Dotty Dimple and Flaxie Frizzle books for young children. Completed 2026-10-17: 19 more books added, every English text by Sophie May at Gutenberg that no other shelf holds. |
 | `jacob-abbott` | 4 Gutenberg | 0 | 3,862 | Rollo at Work, Rollo at Play (1855 revised edition), Rollo's Experiments, Rollo's Museum (both 1839). PG 19195, a Rollo booklet that is 94% Rollo at Play, is held in _excluded. |
 | `oliver-optic` | 83 Gutenberg | 0 | 141,694 | Series stories for boys. Completed 2026-10-17: 80 more books added, every English text by Oliver Optic at Gutenberg that no other shelf holds. |
 | `james-cowan` | 1 Gutenberg | 0 | 156 | Maori Folk-Tales of the Port Hills (1923). |

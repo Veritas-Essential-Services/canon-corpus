@@ -1,5 +1,5 @@
 {
- "_about": "Sophie May's Little Prudy books, the first of her series for small children: Little Prudy, Little Prudy's Sister Susy, Little Prudy's Captain Horace, Little Prudy's Cousin Grace and Little Prudy's Dotty Dimple (first entered for copyright in 1864; these Gutenberg texts are 1891-92 printings whose copyright lines name Rebecca S. Clarke, the woman behind the pen name). Gutenberg catalogue: Sophie May 1833-1906. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_about": "Sophie May's Little Prudy books, the first of her series for small children: Little Prudy, Little Prudy's Sister Susy, Little Prudy's Captain Horace, Little Prudy's Cousin Grace and Little Prudy's Dotty Dimple (first entered for copyright in 1864; these Gutenberg texts are 1891-92 printings whose copyright lines name Rebecca S. Clarke, the woman behind the pen name). Gutenberg catalogue: Sophie May 1833-1906. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto). On 2026-10-17 every other English text by Sophie May at Gutenberg was added (19 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (0) and shared or misattributed files are listed in _excluded.",
  "_author": "Sophie May",
  "_name_words": [
   "prudy"
@@ -78,6 +78,130 @@
     "start": "CHAPTER I\\.?$",
     "front": true
    }
+  ],
+  "smay-dotty-dimple-at-play": [
+   10320,
+   "Dotty Dimple at Play",
+   {
+    "contents_only": true
+   }
+  ],
+  "smay-little-folks-astray": [
+   11257,
+   "Little Folks Astray"
+  ],
+  "smay-jimmy-lucy-and-all": [
+   14608,
+   "Jimmy, Lucy, and All",
+   {
+    "contents_only": true
+   }
+  ],
+  "smay-dotty-dimple-out-west": [
+   16383,
+   "Dotty Dimple Out West",
+   {
+    "contents_only": true
+   }
+  ],
+  "smay-dotty-dimples-flyaway": [
+   19247,
+   "Dotty Dimple's Flyaway",
+   {
+    "contents_only": true
+   }
+  ],
+  "smay-dotty-dimple-at-her-grandmothers": [
+   20699,
+   "Dotty Dimple at Her Grandmother's",
+   {
+    "contents_only": true
+   }
+  ],
+  "smay-prudy-keeping-house": [
+   20984,
+   "Prudy Keeping House",
+   {
+    "contents_only": true
+   }
+  ],
+  "smay-twin-cousins": [
+   23540,
+   "The Twin Cousins",
+   {
+    "contents_only": true
+   }
+  ],
+  "smay-aunt-madges-story": [
+   25356,
+   "Aunt Madge's Story"
+  ],
+  "smay-dotty-dimple-at-home": [
+   25396,
+   "Dotty Dimple At Home",
+   {
+    "contents_only": true
+   }
+  ],
+  "smay-little-grandfather": [
+   25481,
+   "Little Grandfather",
+   {
+    "contents_only": true
+   }
+  ],
+  "smay-little-grandmother": [
+   25507,
+   "Little Grandmother",
+   {
+    "contents_only": true
+   }
+  ],
+  "smay-fairy-book": [
+   27321,
+   "Fairy Book",
+   {
+    "contents_only": true
+   }
+  ],
+  "smay-doctor-papa": [
+   48648,
+   "Doctor Papa",
+   {
+    "contents_only": true
+   }
+  ],
+  "smay-little-pitchers-flaxie-frizzle-stories": [
+   48862,
+   "Little Pitchers Flaxie Frizzle Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "smay-dotty-dimple-at-school": [
+   48951,
+   "Dotty Dimple at School",
+   {
+    "contents_only": true
+   }
+  ],
+  "smay-flaxie-growing-up-flaxie-frizzle-stories": [
+   49186,
+   "Flaxie Growing Up Flaxie Frizzle Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "smay-kittyleen-flaxie-frizzle-stories": [
+   49227,
+   "Kittyleen Flaxie Frizzle Stories"
+  ],
+  "smay-jimmy-boy": [
+   49519,
+   "Jimmy Boy",
+   {
+    "contents_only": true
+   }
   ]
  },
  "internet_archive": {},
@@ -87,7 +211,7 @@
  "_checks": {
   "smay-little-prudy": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "sophie may",
    "identity": "ok",
@@ -96,7 +220,7 @@
   },
   "smay-little-prudys-sister-susy": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "sophie may",
    "identity": "ok",
@@ -105,7 +229,7 @@
   },
   "smay-little-prudys-captain-horace": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "sophie may",
    "identity": "ok",
@@ -114,7 +238,7 @@
   },
   "smay-little-prudys-cousin-grace": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "sophie may",
    "identity": "ok",
@@ -123,7 +247,178 @@
   },
   "smay-little-prudys-dotty-dimple": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-dotty-dimple-at-play": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-little-folks-astray": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-jimmy-lucy-and-all": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-dotty-dimple-out-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-dotty-dimples-flyaway": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-dotty-dimple-at-her-grandmothers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-prudy-keeping-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-twin-cousins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-aunt-madges-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-dotty-dimple-at-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-little-grandfather": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-little-grandmother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-fairy-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-doctor-papa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-little-pitchers-flaxie-frizzle-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-dotty-dimple-at-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-flaxie-growing-up-flaxie-frizzle-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-kittyleen-flaxie-frizzle-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sophie may",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smay-jimmy-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "sophie may",
    "identity": "ok",

@@ -3368,7 +3368,7 @@ Shelf: `pipeline/kalakaua_shelf.json` (2026-10-02; added at the coordinator's re
 
 ## Sophie May
 
-Shelf: `pipeline/sophie-may_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Little Prudy books for small children; cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/sophie-may_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Little Prudy, Dotty Dimple and Flaxie Frizzle books for young children. All 24 of Sophie May's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -3377,6 +3377,25 @@ Shelf: `pipeline/sophie-may_shelf.json` (2026-10-02; added at the coordinator's 
 | Captain Horace | have | PG 25484, `smay-little-prudys-captain-horace` (877 units) |
 | Little Prudy's Cousin Grace | have | PG 49686, `smay-little-prudys-cousin-grace` (780 units) |
 | Little Prudy's Dotty Dimple | have | PG 16390, `smay-little-prudys-dotty-dimple` (769 units) |
+| Dotty Dimple at Play | have | PG 10320, `smay-dotty-dimple-at-play` (848 units) |
+| Little Folks Astray | have | PG 11257, `smay-little-folks-astray` (952 units) |
+| Jimmy, Lucy, and All | have | PG 14608, `smay-jimmy-lucy-and-all` (940 units) |
+| Dotty Dimple Out West | have | PG 16383, `smay-dotty-dimple-out-west` (948 units) |
+| Dotty Dimple's Flyaway | have | PG 19247, `smay-dotty-dimples-flyaway` (943 units) |
+| Dotty Dimple at Her Grandmother's | have | PG 20699, `smay-dotty-dimple-at-her-grandmothers` (983 units) |
+| Prudy Keeping House | have | PG 20984, `smay-prudy-keeping-house` (1001 units) |
+| The Twin Cousins | have | PG 23540, `smay-twin-cousins` (957 units) |
+| Aunt Madge's Story | have | PG 25356, `smay-aunt-madges-story` (793 units) |
+| Dotty Dimple At Home | have | PG 25396, `smay-dotty-dimple-at-home` (869 units) |
+| Little Grandfather | have | PG 25481, `smay-little-grandfather` (947 units) |
+| Little Grandmother | have | PG 25507, `smay-little-grandmother` (841 units) |
+| Fairy Book | have | PG 27321, `smay-fairy-book` (709 units) |
+| Doctor Papa | have | PG 48648, `smay-doctor-papa` (1080 units) |
+| Little Pitchers Flaxie Frizzle Stories | have | PG 48862, `smay-little-pitchers-flaxie-frizzle-stories` (1021 units) |
+| Dotty Dimple at School | have | PG 48951, `smay-dotty-dimple-at-school` (931 units) |
+| Flaxie Growing Up Flaxie Frizzle Stories | have | PG 49186, `smay-flaxie-growing-up-flaxie-frizzle-stories` (853 units) |
+| Kittyleen Flaxie Frizzle Stories | have | PG 49227, `smay-kittyleen-flaxie-frizzle-stories` (693 units) |
+| Jimmy Boy | have | PG 49519, `smay-jimmy-boy` (916 units) |
 | smay-little-prudys-captain-horace-2 | excluded | PG 53306, Little Prudy's Captain Horace in a later printing: the same book as PG 25484, which is kept; held once (2026-10-10). |
 
 ## Jacob Abbott
