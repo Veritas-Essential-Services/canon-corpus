@@ -4237,6 +4237,7 @@ Shelf: `pipeline/fontenelle_shelf.json`. Glanvill (1703) and Gardiner (1737); Gu
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | A Plurality of Worlds, written in French by the author of the Dialogues of the Dead (London: Tho. Osbourne, 1703) | Joseph Glanvill | `fontenelle-glanvill-plurality-1703` | have-raw (IA `pluralityofworld00font`) |
+| A Week's Conversation on the Plurality of Worlds, to which is added Mr. Addison's Defence of the Newtonian Philosophy (London: A. Bettesworth and others, 1737) | William Gardiner | `fontenelle-gardiner-week-conversation-1737` | have-raw (IA `weeksconversatio00font`) |
 
 ## Perseus census (overflow)
 

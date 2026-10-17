@@ -20,6 +20,11 @@
    "pluralityofworld00font",
    "A Plurality of Worlds, written in French by the author of the Dialogues of the Dead (London: Tho. Osbourne, 1703)",
    "tr. Joseph Glanvill"
+  ],
+  "fontenelle-gardiner-week-conversation-1737": [
+   "weeksconversatio00font",
+   "A Week's Conversation on the Plurality of Worlds, to which is added Mr. Addison's Defence of the Newtonian Philosophy (London: A. Bettesworth and others, 1737)",
+   "tr. William Gardiner"
   ]
  },
  "_excluded": {},
@@ -32,6 +37,17 @@
    "identity": "identity_override",
    "ia_rights": "ok: published 1702",
    "ia_date": "1702",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fontenelle-gardiner-week-conversation-1737": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fontenelle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1737",
+   "ia_date": "1737",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
