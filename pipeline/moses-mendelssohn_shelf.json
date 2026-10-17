@@ -1,0 +1,58 @@
+{
+ "_about": "Moses Mendelssohn (1729-1786): Jerusalem, a treatise on ecclesiastical authority and Judaism, tr. M. Samuels (London: Longman, Orme, Brown and Longmans, 1838, 2 vols.), raw IA OCR; vol. II's imprint year is cut short in the OCR ('MDCCCXXXVI'), read as 1838 to match vol. I. US public domain. No uids minted.",
+ "_author": "Moses Mendelssohn",
+ "_name_words": [
+  "moses",
+  "mendelssohn"
+ ],
+ "_surname": [
+  "mendelssohn"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mendelssohn-samuels-jerusalem-1838-v1": [
+   "jerusalemtreatis01mend",
+   "Jerusalem, vol. I (London: Longman, 1838)",
+   "tr. M. Samuels"
+  ],
+  "mendelssohn-samuels-jerusalem-1838-v2": [
+   "jerusalemtreatis02mend",
+   "Jerusalem, vol. II (London: Longman, 1838)",
+   "tr. M. Samuels"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "mendelssohn-samuels-jerusalem-1838-v1": "SAMUELS",
+  "mendelssohn-samuels-jerusalem-1838-v2": "SAMUELS"
+ },
+ "_checks": {
+  "mendelssohn-samuels-jerusalem-1838-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mendelssohn",
+   "translator_claimed": "SAMUELS",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mendelssohn-samuels-jerusalem-1838-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mendelssohn",
+   "translator_claimed": "SAMUELS",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
