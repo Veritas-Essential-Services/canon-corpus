@@ -216,3 +216,4 @@
 - 18:35 round x: Holbach, Wollstonecraft, Mackintosh, Priestley. Note for the reading-lists thread: Burke's 12-volume Works and Paine's Writings vols 1, 3, 4 (incl. The Age of Reason) are on Gutenberg and not held; their shelves, so untouched.
 - 18:37 round y: Charron (1707), Burlamaqui (1763), Cumberland (1727, year inferred from the dedication).
 - 18:40 round z: Perry, Felix Adler, Carus, J. M. Baldwin (10 Gutenberg texts).
+- 18:42 round aa: C. I. Lewis, Hocking, Calkins, Münsterberg, Holt (with The New Realism), G. S. Morris.
