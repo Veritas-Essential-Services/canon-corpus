@@ -1,0 +1,32 @@
+{
+ "_about": "Bernard Mandeville (1670-1733), from Project Gutenberg: The Fable of the Bees, or Private Vices, Public Benefits (London: Ostell / Edinburgh: Mundell, 1806). US public domain. No uids minted.",
+ "_author": "Bernard Mandeville",
+ "_name_words": [
+  "bernard",
+  "de",
+  "mandeville"
+ ],
+ "_surname": [
+  "mandeville"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mandeville-fable-of-the-bees-1806": [
+   57260,
+   "The Fable of the Bees; or, Private Vices, Public Benefits (London: T. Ostell; Edinburgh: Mundell and Son, 1806)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mandeville-fable-of-the-bees-1806": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mandeville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
