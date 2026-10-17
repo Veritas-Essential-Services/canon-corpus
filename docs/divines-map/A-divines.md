@@ -5150,3 +5150,16 @@ Slugs `molinos-*`. The 1688 English version and the 1775 Leeds revision; transla
 | Golden Thoughts from The Spiritual Guide, preface by J. H. Shorthouse (1883), and two eighteenth-century abstracts | alternate | not shelved |
 | Thoughts and Aphorisms (1857): its title page does not name Molinos | excluded | |
 | Bigelow (1882) and other works about him; Italian and Spanish editions | excluded | |
+
+## Lorenzo Scupoli (round 24, my pick, 2026-10-17)
+
+Slugs `scupoli-*`. Translator named only for Barns (Methuen). The Castaniza-credited Spiritual Conflict versions wait on an authorship ruling.
+
+| Work | Status | Where |
+|---|---|---|
+| The Spiritual Combat, with the Path of Paradise, translated for members of the English Church (London: James Burns, MDCCCXLVI) | have-ocr | IA `TheSpiritualCombat1846` |
+| The Spiritual Combat, with the Supplement and the Path of Paradise, a new translation (London: Rivingtons, MDCCCLXXV) | have-ocr | IA `spiritualcombat00scupgoog` |
+| The Spiritual Combat, tr. Thomas Barns (London: Methuen; catalogued 1909) | have-ocr | IA `spiritualcombato00scup` |
+| The Burns translation, second edition (1849) and Oxford 1868; Suttaby (1884); Rivingtons 1890; New York 1817 | alternate | not shelved |
+| The Spiritual Conflict (1598-1652) and The Spiritual Combat 'by John de Castaniza' (1698, 1710, 1742-1788): anonymous or credited to Castaniza, so they wait on an authorship ruling | alternate | not shelved |
+| Gaelic, Italian, Latin and other editions | excluded | |

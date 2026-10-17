@@ -1108,3 +1108,6 @@
 
 ## 2026-10-17 17:41 CDT — miguel-de-molinos done
 - `pipeline/miguel-de-molinos_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:41 CDT — lorenzo-scupoli done
+- `pipeline/lorenzo-scupoli_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
