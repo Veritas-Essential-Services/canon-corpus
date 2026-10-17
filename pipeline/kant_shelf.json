@@ -51,6 +51,11 @@
    "kantscosmogonyas00kantuoft",
    "Kant's Cosmogony, as in his Essay on the Retardation of the Rotation of the Earth and his Natural History and Theory of the Heavens (Glasgow: Maclehose, 1900)",
    "tr. W. Hastie"
+  ],
+  "kant-mahaffy-bernard-prolegomena-1889": [
+   "KantsCriticalPhilosophyForEnglishReadersVol2",
+   "Kant's Critical Philosophy for English Readers, new and completed edition, vol. II: the Prolegomena translated, with notes and appendices (London: Macmillan, 1889)",
+   "tr. John P. Mahaffy and John H. Bernard"
   ]
  },
  "_excluded": {},
@@ -60,7 +65,8 @@
   "kant-semple-metaphysic-of-ethics-1871": "Semple",
   "kant-bax-prolegomena-1883": "Bax",
   "kant-hastie-philosophy-of-law-1887": "Hastie",
-  "kant-hastie-cosmogony-1900": "Hastie"
+  "kant-hastie-cosmogony-1900": "Hastie",
+  "kant-mahaffy-bernard-prolegomena-1889": "Bernard"
  },
  "_checks": {
   "kant-carus-prolegomena-1912": {
@@ -159,6 +165,19 @@
    "ia_rights": "ok: published 1900",
    "ia_date": "1900",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kant-mahaffy-bernard-prolegomena-1889": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kant",
+   "translator_claimed": "Bernard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
