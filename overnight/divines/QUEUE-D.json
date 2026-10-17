@@ -2437,6 +2437,14 @@
       "started": "2026-10-17T18:32:06-05:00",
       "finished": "2026-10-17T18:32:06-05:00",
       "notes": "laura-lee-hope: new shelf, 73 Gutenberg books, 108,402 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "allen-chapman",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Allen Chapman; no minting",
+      "status": "done",
+      "started": "2026-10-17T18:32:07-05:00",
+      "finished": "2026-10-17T18:32:07-05:00",
+      "notes": "allen-chapman: new shelf, 28 Gutenberg books, 44,282 units, 66 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

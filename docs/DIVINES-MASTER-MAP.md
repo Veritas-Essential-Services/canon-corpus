@@ -23063,6 +23063,41 @@ Shelf: `pipeline/laura-lee-hope_shelf.json` (2026-10-17; added at the coordinato
 | The Bobbsey twins keeping house | have | PG 74217, `llhope-bobbsey-twins-keeping-house` (1839 units) |
 | repeat-editions | excluded | PG 6063 (Bobbsey Twins at School) and 8211 (Outdoor Girls at Wild Rose Lodge): second Gutenberg editions of titles already on the shelf. |
 
+## Allen Chapman
+
+Shelf: `pipeline/allen-chapman_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series for boys (Radio Boys, Ralph of the Railroad, Darewell Chums); Stratemeyer Syndicate house name. Every English text under the name at Gutenberg that no other shelf holds (28 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Radio Boys' First Wireless; Or, Winning the Ferberton Prize | have | PG 7899, `achapman-radio-boys-first-wireless` (1252 units) |
+| Frank Roscoe's Secret; Or, the Darewell Chums in the Woods | have | PG 9854, `achapman-frank-roscoes-secret` (1525 units) |
+| Tom Fairfield's Pluck and Luck; Or, Working to Clear His Name | have | PG 14083, `achapman-tom-fairfields-pluck-and-luck` (1660 units) |
+| Bart Stirling's Road to Success; Or, The Young Express Agent | have | PG 15903, `achapman-bart-stirlings-road-to-success` (1836 units) |
+| Fred Fenton on the Crew; Or, The Young Oarsmen of Riverport School | have | PG 21594, `achapman-fred-fenton-on-the-crew` (1167 units) |
+| Fred Fenton on the Track; Or, The Athletes of Riverport School | have | PG 23763, `achapman-fred-fenton-on-the-track` (1223 units) |
+| The Radio Boys Trailing a Voice; Or, Solving a Wireless Mystery | have | PG 25858, `achapman-radio-boys-trailing-a-voice` (1344 units) |
+| The Radio Boys at the Sending Station; Or, Making Good in the Wireless Room | have | PG 27455, `achapman-radio-boys-at-the-sending-station` (1337 units) |
+| Ralph on the Engine; Or, The Young Fireman of the Limited Mail | have | PG 28292, `achapman-ralph-on-the-engine` (1937 units) |
+| Ralph on the Overland Express; Or, The Trials and Triumphs of a Young Engineer | have | PG 28655, `achapman-ralph-on-the-overland-express` (1788 units) |
+| Fred Fenton Marathon Runner: The Great Race at Riverport School | have | PG 30094, `achapman-fred-fenton-marathon-runner` (1175 units) |
+| The Radio Boys at Ocean Point; Or, The Message that Saved the Ship | have | PG 35594, `achapman-radio-boys-at-ocean-point` (1288 units) |
+| The Heroes of the School; or, The Darewell Chums Through Thick and Thin | have | PG 37291, `achapman-heroes-of-the-school` (1726 units) |
+| Ned Wilding's Disappearance; or, The Darewell Chums in the City | have | PG 37673, `achapman-ned-wildings-disappearance` (1630 units) |
+| Fenn Masterson's Discovery; or, The Darewell Chums on a Cruise | have | PG 37929, `achapman-fenn-mastersons-discovery` (1630 units) |
+| Bart Keene's Hunting Days; or, The Darewell Chums in a Winter Camp | have | PG 38254, `achapman-bart-keenes-hunting-days` (1523 units) |
+| The Radio Boys at Mountain Pass; Or, The Midnight Call for Assistance | have | PG 38453, `achapman-radio-boys-at-mountain-pass` (1352 units) |
+| Ralph, the Train Dispatcher; Or, The Mystery of the Pay Car | have | PG 38969, `achapman-ralph-the-train-dispatcher` (2013 units) |
+| Ralph of the Roundhouse; Or, Bound to Become a Railroad Man | have | PG 39050, `achapman-ralph-of-the-roundhouse` (2158 units) |
+| Ralph in the Switch Tower; Or, Clearing the Track | have | PG 39051, `achapman-ralph-in-the-switch-tower` (1915 units) |
+| Bound to Succeed; or, Mail Order Frank's Chances | have | PG 41741, `achapman-bound-to-succeed` (1772 units) |
+| Tom Fairfield's Schooldays; or, The Chums of Elmwood Hall | have | PG 43796, `achapman-tom-fairfields-schooldays` (1850 units) |
+| Tom Fairfield at Sea; or, The Wreck of the Silver Star | have | PG 44013, `achapman-tom-fairfield-at-sea` (1626 units) |
+| Tom Fairfield in Camp; or, The Secret of the Old Mill | have | PG 44293, `achapman-tom-fairfield-in-camp` (1795 units) |
+| Tom Fairfield's Hunting Trip; or, Lost in the Wilderness | have | PG 44457, `achapman-tom-fairfields-hunting-trip` (1730 units) |
+| The Radio Boys with the Forest Rangers; Or, The great fire on Spruce Mountain | have | PG 62769, `achapman-radio-boys-with-the-forest-rangers` (1170 units) |
+| The Radio Boys with the Iceberg Patrol; Or, Making safe the ocean lanes | have | PG 62904, `achapman-radio-boys-with-the-iceberg-patrol` (1296 units) |
+| Ralph on the Midnight Flyer; or, The Wreck at Shadow Valley | have | PG 67030, `achapman-ralph-on-the-midnight-flyer` (1564 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

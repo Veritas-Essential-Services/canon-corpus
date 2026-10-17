@@ -1191,3 +1191,6 @@
 
 ## 2026-10-17 18:32 CDT — laura-lee-hope: done
 - laura-lee-hope: new shelf, 73 Gutenberg books, 108,402 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:32 CDT — allen-chapman: done
+- allen-chapman: new shelf, 28 Gutenberg books, 44,282 units, 66 ~2 ids; verify 0 mismatches, 0 rights flags.
