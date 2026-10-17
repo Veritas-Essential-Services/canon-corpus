@@ -1029,3 +1029,6 @@
 
 ## 2026-10-17 17:38 CDT — burnett: done
 - burnett: completed, 35 more Gutenberg books (42 on the shelf), 47,126 units, 1971 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:38 CDT — garis: done
+- garis: completed, 29 more Gutenberg books (64 on the shelf), 80,385 units, 19 ~2 ids; verify 0 mismatches, 0 rights flags.

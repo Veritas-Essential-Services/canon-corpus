@@ -185,7 +185,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `horace-allen` | 1 Gutenberg | 0 | 416 | Korean Tales (1889). |
 | `berens` | 1 Gutenberg | 0 | 1,428 | Myths and Legends of Ancient Greece and Rome. Undated in the text; Gutenberg cleared it as US public domain. |
 | `sara-bryant` | 2 Gutenberg | 0 | 2,398 | How to Tell Stories to Children, Stories to Tell to Children (Harrap printings, 1918). PG 473, another transcription of Stories to Tell to Children (68%/65% containment), is held once. Content note: it includes Epaminondas, a story in caricatured Black dialect. |
-| `garis` | 35 Gutenberg | 0 | 26,226 | Uncle Wiggily's Adventures and Travels, Uncle Wiggily and Mother Goose, Uncle Wiggily in the Woods and in Wonderland, the Bed Time Stories series and fourteen Uncle Wiggily pamphlets, 35 books in all (1910-1926). Uncle Wiggily and Old Mother Hubbard is held once (97% of it is in Uncle Wiggily and Mother Goose). Uncle Wiggily's Story Book is held back for Adam: its copyright line includes 1939. His series fiction is left out. |
+| `garis` | 64 Gutenberg | 0 | 80,385 | Uncle Wiggily, the Curlytops, Bedtime Stories and other series for children. Completed 2026-10-17: 29 more books added, every English text by Howard R. Garis at Gutenberg that no other shelf holds. |
 | `keary` | 1 Gutenberg | 0 | 1,075 | The Heroes of Asgard (Macmillan, 1906 edition, reprinted 1909). |
 | `jean-lang` | 4 Gutenberg | 0 | 4,017 | A Book of Myths (1914), Stories from the Iliad (1907), Stories from the Faerie Queen, Stories of the Border Marches (1916). |
 | `francillon` | 1 Gutenberg | 0 | 1,159 | Gods and Heroes, or The Kingdom of Jupiter (1894). |

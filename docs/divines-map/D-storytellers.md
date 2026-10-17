@@ -2172,7 +2172,7 @@ Shelf: `pipeline/sara-bryant_shelf.json` (2026-10-02; added at the coordinator's
 
 ## Howard R. Garis
 
-Shelf: `pipeline/garis_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Uncle Wiggily books and the Bed Time Stories animal series, from his newspaper bedtime stories, and the small Uncle Wiggily picture pamphlets. Not in the manifest; no uids minted.
+Shelf: `pipeline/garis_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Uncle Wiggily, the Curlytops, Bedtime Stories and other series for children. All 64 of Howard R. Garis's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -2211,9 +2211,40 @@ Shelf: `pipeline/garis_shelf.json` (2026-10-02; added at the coordinator's relay
 | Uncle Wiggily's silk hat | have | PG 72607, `garis-uncle-wiggilys-silk-hat` (105 units) |
 | Uncle Wiggily's fishing trip | have | PG 72612, `garis-uncle-wiggilys-fishing-trip` (114 units) |
 | Uncle Wiggily's rolling hoop | have | PG 72746, `garis-uncle-wiggilys-rolling-hoop` (120 units) |
+| Dick Hamilton's Airship; Or, A Young Millionaire in the Clouds | have | PG 2065, `garis-dick-hamiltons-airship` (2207 units) |
+| The Curlytops on Star Island; Or, Camping out with Grandpa | have | PG 5989, `garis-curlytops-on-star-island` (1835 units) |
+| The Curlytops at Uncle Frank's Ranch; Or, Little Folks on Ponyback | have | PG 6814, `garis-curlytops-at-uncle-franks-ranch` (1820 units) |
+| Daddy Takes Us Skating | have | PG 10220, `garis-daddy-takes-us-skating` (483 units) |
+| Daddy Takes Us to the Garden The Daddy Series for Little Folks | have | PG 14859, `garis-daddy-takes-us-to-the-garden-the-daddy-series-for-litt` (1217 units) |
+| Larry Dexter's Great Search; Or, The Hunt for the Missing Millionaire | have | PG 16397, `garis-larry-dexters-great-search` (1780 units) |
+| The Curlytops and Their Pets; Or, Uncle Toby's Strange Collection | have | PG 21049, `garis-curlytops-and-their-pets` (1689 units) |
+| The Curlytops and Their Playmates; Or, Jolly Times Through the Holidays | have | PG 25143, `garis-curlytops-and-their-playmates` (1762 units) |
+| The Curlytops Snowed In; Or, Grand Fun with Skates and Sleds | have | PG 32090, `garis-curlytops-snowed-in` (1860 units) |
+| Dick Hamilton's Fortune; Or, The Stirring Doings of a Millionaire's Son | have | PG 32374, `garis-dick-hamiltons-fortune` (1978 units) |
+| Dick Hamilton's Cadet Days; Or, The Handicap of a Millionaire's Son | have | PG 33926, `garis-dick-hamiltons-cadet-days` (2425 units) |
+| Rick and Ruddy: The Story of a Boy and His Dog | have | PG 34448, `garis-rick-and-ruddy` (1497 units) |
+| The White Crystals: Being an Account of the Adventures of Two Boys | have | PG 38558, `garis-white-crystals` (1509 units) |
+| Dick Hamilton's Football Team; Or, A Young Millionaire On The Gridiron | have | PG 41410, `garis-dick-hamiltons-football-team` (2107 units) |
+| The Curlytops at Sunset Beach; Or, What Was Found in the Sand | have | PG 45253, `garis-curlytops-at-sunset-beach` (1798 units) |
+| The Curlytops at Silver Lake; Or, On the Water with Uncle Ben | have | PG 47583, `garis-curlytops-at-silver-lake` (1826 units) |
+| Dick Hamilton's Touring Car; Or, A Young Millionaire's Race For A Fortune | have | PG 53406, `garis-dick-hamiltons-touring-car` (2106 units) |
+| Dick Hamilton's Steam Yacht; Or, A Young Millionaire and the Kidnappers | have | PG 53460, `garis-dick-hamiltons-steam-yacht` (2068 units) |
+| With Force and Arms: A Tale of Love and Salem Witchcraft | have | PG 54371, `garis-with-force-and-arms` (2213 units) |
+| Those Smith Boys on the Diamond; or, Nip and Tuck for Victory | have | PG 55715, `garis-those-smith-boys-on-the-diamond` (2418 units) |
+| Larry Dexter and the Stolen Boy; or, A Young Reporter on the Lakes | have | PG 56743, `garis-larry-dexter-and-the-stolen-boy` (1771 units) |
+| The Camp Fire Girls; Or, The Secret of an Old Mill | have | PG 57171, `garis-camp-fire-girls` (2562 units) |
+| Larry Dexter, Reporter; Or, Strange Adventures in a Great City | have | PG 60244, `garis-larry-dexter-reporter` (2266 units) |
+| From Office Boy to Reporter; Or, The First Step in Journalism | have | PG 60456, `garis-from-office-boy-to-reporter` (2366 units) |
+| Teddy and the Mystery Deer | have | PG 60461, `garis-teddy-and-the-mystery-deer` (1410 units) |
+| Rick and Ruddy Out West | have | PG 62093, `garis-rick-and-ruddy-out-west` (1625 units) |
+| The Curlytops in the Woods; Or, Fun at the Lumber Camp | have | PG 67986, `garis-curlytops-in-the-woods` (1963 units) |
+| The Curlytops touring around; or, The missing photograph albums | have | PG 68825, `garis-curlytops-touring-around` (1645 units) |
+| The Curlytops at Cherry Farm | have | PG 73008, `garis-curlytops-at-cherry-farm` (1953 units) |
 | garis-uncle-wiggilys-story-book | excluded | PG 60625, Uncle Wiggily's Story Book: its copyright line reads MCMXXI and MCMXXXIX (1921 and 1939). The 1939 printing may carry material first published that year, so it is held back for Adam rather than added on Gutenberg's clearance alone. |
 | garis-series-fiction | excluded | Dick Hamilton, the Curlytops, Larry Dexter, Rick and Ruddy, Teddy, the Smith Boys, the Camp Fire Girls and the Daddy books are series fiction, not story-telling; left out of this shelf. |
 | garis-uncle-wiggily-and-old-mother-hubbard | excluded | PG 23213, Uncle Wiggily and Old Mother Hubbard Adventures of the Rabbit Gentleman with the Mother Goose Characters (1922): 97% of its long paragraphs are in Uncle Wiggily and Mother Goose (PG 69458, Fenno 1916), held here. Held once. |
+| garis-repeat-25477 | excluded | PG 25477, The Curlytops on Star Island; Or, Camping out with Grandpa: a second transcription of a title already on this shelf |
+| garis-repeat-32525 | excluded | PG 32525, The Curlytops at Uncle Frank's Ranch; Or, Little Folks on Ponyback: a second transcription of a title already on this shelf |
 
 ## Annie and Eliza Keary
 
