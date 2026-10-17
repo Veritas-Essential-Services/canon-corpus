@@ -5282,3 +5282,13 @@ Slugs `gertrude-*`. No translator named on either title page; both are undated, 
 | Preces Gertrudianae: prayers compiled from Gertrude and Mechtilde (Burns and Lambert, undated) | alternate | not shelved |
 | The Spirit of St. Gertrude (a compilation) and works about her (1888, 1911, 1913) | excluded | |
 | MN5141ucmf_0: Burns Oates & Washbourne, undated | excluded | |
+
+## Mechthild of Hackeborn (round 25, my pick, 2026-10-17)
+
+Slugs `mechtild-*`. Translated by 'a Secular Priest', not named.
+
+| Work | Status | Where |
+|---|---|---|
+| Select Revelations of S. Mechtild, Virgin, translated from the Latin by a Secular Priest (London: Thomas Richardson and Sons, 1875) | have-ocr | IA `selectrevelation00mech` |
+| Another copy of the 1875 Richardson printing (selectrevelatio00mechgoog) | alternate | not shelved |
+| The Life of St. Mechtildis (Rome, 1899) and The Love of the Sacred Heart illustrated by St. Mechtilde (1922): by other hands | excluded | |

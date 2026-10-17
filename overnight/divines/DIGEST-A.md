@@ -523,6 +523,7 @@ Seventeen authors queued in QUEUE-A.json, each built from title pages read for t
 | Catherine of Genoa | catherine-of-genoa_shelf.json | 1 (Life and Doctrine of Saint Catherine of Genoa, translated from the Italian (New York: Christian Press Association, 1907); the Life is about her, the Dialogue and the Treatise are hers) | 1 (The Treatise on Purgatory by St. Catherine of Genoa, preface by H. E. Manning (London: Burns and Lambert, 1858)) | none | von Hügel's study of her; modern retypesets |
 | Angela of Foligno | angela-of-foligno_shelf.json | none | 1 (The Book of Divine Consolation of the Blessed Angela of Foligno, tr. Mary G. Steegmann (London: Chatto and Windus, 1909)) | 1 (The Book of the Visions and Instructions of B. Angela of Foligno, by a Secular Priest (about 1871): not found) | Modern retypesets; French and Italian editions |
 | Gertrude the Great | gertrude-the-great_shelf.json | none | 2 (The Life and Revelations of Saint Gertrude, Virgin and Abbess, new edition (London: Burns & Oates, Limited; letter dated 1870); The Exercises of Saint Gertrude, translated from Dom Guéranger's edition (London: Burns and Lambert; translator's note dated 1863)) | none | Compilations and works about her; an undated Burns Oates & Washbourne copy |
+| Mechthild of Hackeborn | mechthild-of-hackeborn_shelf.json | none | 1 (Select Revelations of S. Mechtild, Virgin, translated from the Latin by a Secular Priest (London: Thomas Richardson and Sons, 1875)) | none | Works about her by other hands |
 
 ## Paused 2026-10-10 15:12 CDT
 
