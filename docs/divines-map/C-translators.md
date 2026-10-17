@@ -211,7 +211,14 @@ Added at the coordinator's relay, vetoable. Only printings before 1931; where th
 | `maude-what-is-art` | Tolstoy | What Is Art? | Aylmer Maude | 1904 (Funk & Wagnalls, stated) | have | PG 64908 |
 | `maude-the-devil` | Tolstoy | The Devil | Aylmer Maude | 1926 ('First published in 1926', stated) | have | PG 67224 |
 | `maude-three-days` | Tolstoy | Three Days in the Village, and Other Sketches | Aylmer and Louise Maude | 1910 (Free Age Press, stated) | have | PG 51018 |
-| `maude-anna-karenina` | — | Anna Karenina, tr. L. & A. Maude (World's Classics 1918): not on PG under their names; look for a pre-1931 scan. | — | — | pending | — |
+| `maude-anna-karenina-1` | Tolstoy | Anna Karenina, vol. I of 2 | Louise and Aylmer Maude | 1918 | have-raw | IA `annakarenina0001leot_t2s6` |
+| `maude-anna-karenina-2` | Tolstoy | Anna Karenina, vol. II of 2 | Louise and Aylmer Maude | 1918 | have-raw | IA `annakarenina0002leot_k3j8` |
+| `maude-essays-and-letters` | Tolstoy | Essays and Letters | Aylmer Maude | 1903 | have-raw | IA `essaysletters00tols` |
+| `maude-sevastopol` | Tolstoy | Sevastopol and Other Military Tales | Louise and Aylmer Maude | 1901 | have-raw | IA `sevastopolandot00maudgoog` |
+| `maude-confession` | Tolstoy | A Confession and What I Believe | Aylmer Maude | 1921 | have-raw | IA `confessionwhatib00tols` |
+| `maude-hadji-murad` | Tolstoy | Hadji Murad, with The Light that Shines in Darkness, The Man who was Dead, The Cause of it All and other posthumous works | Aylmer Maude | 1912 | have-raw | IA `hadjimuradlightt00tols` |
+| `maude-first-step` | Tolstoy | The First Step: An Essay on the Morals of Diet, to which are added two stories | Aylmer Maude | 1900 | have-raw | IA `firststepanessa00maudgoog` |
+| `maude-pamphlets` | Tolstoy | Pamphlets, translated from the Russian | Aylmer Maude (several pieces signed by him; the rest unsigned Free Age Press translations) | 1900 | have-raw | IA `pamphletstransl00tolsgoog` |
 | `maude-centenary` | — | The Centenary Edition (OUP 1928-37, 21 vols): only the volumes printed before 1931 qualify; per-volume dating needed. | — | — | pending | — |
 | — | — | pg-28920: War and Peace Book 1 only: part of PG 2600. | — | — | excluded | — |
 | — | — | pg-52242, pg-78278: Aylmer Maude's own books (Life of Tolstoy, Life of Marie Stopes): not translations. | — | — | excluded | — |
@@ -219,6 +226,8 @@ Added at the coordinator's relay, vetoable. Only printings before 1931; where th
 | — | — | other-maudes: PG items by Alice Maude Kellogg, Maude Alma, F. N. Maude, Maude Wholohan: different people. | — | — | excluded | — |
 | — | — | pg-26472: Newer transcription of What Men Live By: its .txt returns 404 on Gutenberg's cache (2026-10-02); PG 6157 used. | — | — | excluded | — |
 | — | — | pg-26660: Plays: Complete Edition, front matter only (the transcriber's note says the plays are posted separately as 26661-26666, which are used). | — | — | excluded | — |
+| — | — | ia-twentythreetales0000tols: Twenty-Three Tales (Maudes, OUP 1906): the only scan found is a 1954+ World's Classics reprint. Checked 2026-10-17. | — | — | excluded | — |
+| — | — | ia-whatisreligionot00tols: What Is Religion? (Crowell 1902) is translated by V. Tchertkoff and A. C. Fifield, not the Maudes. | — | — | excluded | — |
 
 ## Cotton (Montaigne)
 

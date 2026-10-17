@@ -62,7 +62,40 @@
    "Tolstoy, The Light Shines in Darkness, tr. L. & A. Maude (Plays, Complete Edition)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "maude-anna-karenina-1": [
+   "annakarenina0001leot_t2s6",
+   "Anna Karenina, vol. I (World's Classics, OUP; 1928 impression)"
+  ],
+  "maude-anna-karenina-2": [
+   "annakarenina0002leot_k3j8",
+   "Anna Karenina, vol. II (World's Classics, OUP; 1928 impression)"
+  ],
+  "maude-essays-and-letters": [
+   "essaysletters00tols",
+   "Essays and Letters (World's Classics, Frowde/OUP, 1911)"
+  ],
+  "maude-sevastopol": [
+   "sevastopolandot00maudgoog",
+   "Sevastopol and Other Military Tales (Funk & Wagnalls, 1903)"
+  ],
+  "maude-confession": [
+   "confessionwhatib00tols",
+   "A Confession and What I Believe (World's Classics, Milford/OUP, 1921)"
+  ],
+  "maude-hadji-murad": [
+   "hadjimuradlightt00tols",
+   "Hadji Murad; The Light that Shines in Darkness; The Man who was Dead; The Cause of it All... (Colonial Press, Boston, 1912)"
+  ],
+  "maude-first-step": [
+   "firststepanessa00maudgoog",
+   "The First Step: An Essay on the Morals of Diet, with Two Stories (Broadbent, 1900)"
+  ],
+  "maude-pamphlets": [
+   "pamphletstransl00tolsgoog",
+   "Pamphlets, translated from the Russian (Free Age Press, 1900)"
+  ]
+ },
  "titles": {
   "maude-war-and-peace": {
    "of": "Tolstoy",
@@ -145,10 +178,81 @@
    "work": "Three Days in the Village, and Other Sketches",
    "translated": "1910 (Free Age Press, stated)",
    "translator": "Aylmer and Louise Maude"
+  },
+  "maude-anna-karenina-1": {
+   "source": "maude-anna-karenina-1",
+   "of": "Tolstoy",
+   "work": "Anna Karenina, vol. I of 2",
+   "translated": 1918,
+   "translator": "Louise and Aylmer Maude",
+   "scan_edition": "The World's Classics, Oxford University Press; first published 1918, this the 1928 impression (stated: 'reprinted in 1923, 1926, and 1928')",
+   "note": "Raw OCR."
+  },
+  "maude-anna-karenina-2": {
+   "source": "maude-anna-karenina-2",
+   "of": "Tolstoy",
+   "work": "Anna Karenina, vol. II of 2",
+   "translated": 1918,
+   "translator": "Louise and Aylmer Maude",
+   "scan_edition": "The World's Classics, Oxford University Press; first published 1918, this the 1928 impression (the OCR reads 'reprinted in 1928, 1926, and 1928' for 1923, 1926 and 1928)",
+   "note": "Raw OCR."
+  },
+  "maude-essays-and-letters": {
+   "source": "maude-essays-and-letters",
+   "of": "Tolstoy",
+   "work": "Essays and Letters",
+   "translated": 1903,
+   "translator": "Aylmer Maude",
+   "scan_edition": "The World's Classics, Henry Frowde / Oxford University Press, London and New York, 1911 (first published 1903)",
+   "note": "Raw OCR."
+  },
+  "maude-sevastopol": {
+   "source": "maude-sevastopol",
+   "of": "Tolstoy",
+   "work": "Sevastopol and Other Military Tales",
+   "translated": 1901,
+   "translator": "Louise and Aylmer Maude",
+   "scan_edition": "Funk & Wagnalls, New York and London, 1903 (first published 1901); Google scan",
+   "note": "Raw OCR."
+  },
+  "maude-confession": {
+   "source": "maude-confession",
+   "of": "Tolstoy",
+   "work": "A Confession and What I Believe",
+   "translated": 1921,
+   "translator": "Aylmer Maude",
+   "scan_edition": "The World's Classics, Humphrey Milford / Oxford University Press, London, 1921, first edition of this translation (stated: 'first published in 1921')",
+   "note": "Raw OCR. Tolstoy's spiritual autobiography; Lane A may want a cross-reference."
+  },
+  "maude-hadji-murad": {
+   "source": "maude-hadji-murad",
+   "of": "Tolstoy",
+   "work": "Hadji Murad, with The Light that Shines in Darkness, The Man who was Dead, The Cause of it All and other posthumous works",
+   "translated": 1912,
+   "translator": "Aylmer Maude",
+   "scan_edition": "Colonial Press, Boston, 1912",
+   "note": "Raw OCR. The three plays in it are also in maude-plays (1914): at minting, one uid per passage, never two."
+  },
+  "maude-first-step": {
+   "source": "maude-first-step",
+   "of": "Tolstoy",
+   "work": "The First Step: An Essay on the Morals of Diet, to which are added two stories",
+   "translated": 1900,
+   "translator": "Aylmer Maude",
+   "scan_edition": "Albert Broadbent, Manchester and London, 1900; Google scan",
+   "note": "Raw OCR."
+  },
+  "maude-pamphlets": {
+   "source": "maude-pamphlets",
+   "of": "Tolstoy",
+   "work": "Pamphlets, translated from the Russian",
+   "translated": 1900,
+   "translator": "Aylmer Maude (several pieces signed by him; the rest unsigned Free Age Press translations)",
+   "scan_edition": "Free Age Press, Christchurch, Hants., 1900; Google scan",
+   "note": "Raw OCR. Only some pieces carry Maude's name ('Translated by Aylmer Maude'); the others are unsigned, probably by the press's editors (Tchertkoff's circle). Shelved here because Maude's pieces are the core; Adam may prefer to move it."
   }
  },
  "_pending": {
-  "maude-anna-karenina": "Anna Karenina, tr. L. & A. Maude (World's Classics 1918): not on PG under their names; look for a pre-1931 scan.",
   "maude-centenary": "The Centenary Edition (OUP 1928-37, 21 vols): only the volumes printed before 1931 qualify; per-volume dating needed."
  },
  "_excluded": {
@@ -157,7 +261,9 @@
   "pg-79027": "Tolstoy on Art: Maude as editor/compiler; overlaps What Is Art?.",
   "other-maudes": "PG items by Alice Maude Kellogg, Maude Alma, F. N. Maude, Maude Wholohan: different people.",
   "pg-26472": "Newer transcription of What Men Live By: its .txt returns 404 on Gutenberg's cache (2026-10-02); PG 6157 used.",
-  "pg-26660": "Plays: Complete Edition, front matter only (the transcriber's note says the plays are posted separately as 26661-26666, which are used)."
+  "pg-26660": "Plays: Complete Edition, front matter only (the transcriber's note says the plays are posted separately as 26661-26666, which are used).",
+  "ia-twentythreetales0000tols": "Twenty-Three Tales (Maudes, OUP 1906): the only scan found is a 1954+ World's Classics reprint. Checked 2026-10-17.",
+  "ia-whatisreligionot00tols": "What Is Religion? (Crowell 1902) is translated by V. Tchertkoff and A. C. Fifield, not the Maudes."
  },
  "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
  "_verified": {
@@ -230,6 +336,98 @@
    "pg": 26666,
    "pg_copyrighted_marker": false,
    "pg_translator": "Aylmer Maude"
+  },
+  "maude-anna-karenina-1": {
+   "ia": "annakarenina0001leot_t2s6",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1877,
+    1910,
+    1918,
+    1923,
+    1926,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "maude-anna-karenina-2": {
+   "ia": "annakarenina0002leot_k3j8",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1874,
+    1877,
+    1910,
+    1918,
+    1926,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "maude-essays-and-letters": {
+   "ia": "essaysletters00tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1884,
+    1885,
+    1903,
+    1904,
+    1910,
+    1911
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "maude-sevastopol": {
+   "ia": "sevastopolandot00maudgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1903
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "maude-confession": {
+   "ia": "confessionwhatib00tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1884,
+    1885,
+    1888,
+    1910,
+    1920,
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "maude-hadji-murad": {
+   "ia": "hadjimuradlightt00tols",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1852,
+    1859,
+    1871,
+    1895,
+    1901,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "maude-first-step": {
+   "ia": "firststepanessa00maudgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1828,
+    1855,
+    1862,
+    1900
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "maude-pamphlets": {
+   "ia": "pamphletstransl00tolsgoog",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1900
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
@@ -242,7 +440,7 @@
  "_checks": {
   "maude-resurrection": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "louise maude",
    "identity": "ok",
@@ -251,7 +449,7 @@
   },
   "maude-father-sergius": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aylmer maude",
    "identity": "ok",
@@ -260,7 +458,7 @@
   },
   "maude-master-and-man": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aylmer maude",
    "identity": "ok",
@@ -269,7 +467,7 @@
   },
   "maude-cossacks": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aylmer maude",
    "identity": "ok",
@@ -278,7 +476,7 @@
   },
   "maude-what-men-live-by": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aylmer maude",
    "identity": "ok",
@@ -287,7 +485,7 @@
   },
   "maude-what-is-art": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aylmer maude",
    "identity": "ok",
@@ -296,7 +494,7 @@
   },
   "maude-the-devil": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aylmer maude",
    "identity": "ok",
@@ -305,7 +503,7 @@
   },
   "maude-three-days": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aylmer maude",
    "identity": "ok",
@@ -314,7 +512,7 @@
   },
   "maude-play-power-of-darkness": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aylmer maude",
    "identity": "ok",
@@ -323,7 +521,7 @@
   },
   "maude-play-first-distiller": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aylmer maude",
    "identity": "ok",
@@ -332,7 +530,7 @@
   },
   "maude-play-fruits-of-culture": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aylmer maude",
    "identity": "ok",
@@ -341,7 +539,7 @@
   },
   "maude-play-live-corpse": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aylmer maude",
    "identity": "ok",
@@ -350,7 +548,7 @@
   },
   "maude-play-cause-of-it-all": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aylmer maude",
    "identity": "ok",
@@ -359,12 +557,101 @@
   },
   "maude-play-light-shines": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aylmer maude",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Aylmer Maude; Louise Maude"
+  },
+  "maude-anna-karenina-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aylmer maude",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maude-anna-karenina-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aylmer maude",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maude-essays-and-letters": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aylmer maude",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maude-sevastopol": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aylmer maude",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maude-confession": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aylmer maude",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maude-hadji-murad": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aylmer maude",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maude-first-step": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aylmer maude",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maude-pamphlets": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aylmer maude",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_surname_note": "2026-10-03: full printed names only, after Lane D's name audit (a bare one-word form would pass other authors of the same surname, e.g. Maude Ashurst Biggs). Tested against every source on the shelf; the only misses already carry _identity_checked overrides."
