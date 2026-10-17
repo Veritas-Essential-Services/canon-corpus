@@ -1,0 +1,97 @@
+{
+ "_about": "TRANSLATOR SHELF: Eileen Power (1889-1940), medieval historian, as translator: The Goodman of Paris (Le Ménagier de Paris, Routledge's Broadway Medieval Library, 1928) and Boissonnade's Life and Work in Medieval Europe (Kegan Paul, History of Civilization, 1927). Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 58); Adam may veto. No uids minted.",
+ "_name_words": [
+  "eileen power"
+ ],
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check.",
+ "_surname": [
+  "eileen power"
+ ],
+ "_surname_note": "Full printed name only (a bare 'power' is a common word).",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "power-goodman": [
+   "in.ernet.dli.2015.166239",
+   "The Goodman of Paris (Routledge, 1928)",
+   "2015.166239.The-Goodman-Of-Paris_djvu.txt"
+  ],
+  "power-boissonnade": [
+   "dli.ministry.16291",
+   "Boissonnade, Life and Work in Medieval Europe (Kegan Paul, 1927)",
+   "E09551_Life_And_Work_In_Medieval_Europe_5th_To_15th_Century_djvu.txt"
+  ]
+ },
+ "titles": {
+  "eileen-power-goodman-of-paris": {
+   "source": "power-goodman",
+   "of": "anonymous (Le Ménagier de Paris, c. 1393)",
+   "work": "The Goodman of Paris: a treatise on moral and domestic economy by a citizen of Paris",
+   "translated": 1928,
+   "translator": "Eileen Power",
+   "scan_edition": "George Routledge & Sons, London, 1928, in the Broadway Medieval Library edited by G. G. Coulton and Eileen Power; Digital Library of India scan",
+   "note": "Raw OCR. A different open copy (goodmanofparis0000epow) lists a 1964 date and was not used."
+  },
+  "eileen-power-boissonnade-life-and-work": {
+   "source": "power-boissonnade",
+   "of": "Prosper Boissonnade",
+   "work": "Life and Work in Medieval Europe (Fifth to Fifteenth Centuries)",
+   "translated": 1927,
+   "translator": "Eileen Power",
+   "scan_edition": "Kegan Paul, Trench, Trubner, London, 1927, in the History of Civilization series; Digital Library of India scan",
+   "note": "Raw OCR."
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "later-reprints": "Life and Work in Medieval Europe also survives as Harper Torchbooks (1964), Dover (2002) and Dorset (1987) reprints; only the 1927 printing is used."
+ },
+ "_checks": {
+  "power-goodman": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "eileen power",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "power-boissonnade": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "eileen power",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "power-goodman": {
+   "ia": "in.ernet.dli.2015.166239",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1846,
+    1869,
+    1904,
+    1907,
+    1924,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "power-boissonnade": {
+   "ia": "dli.ministry.16291",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1927
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -3257,6 +3257,7 @@ Round 32 (2026-10-10), vetoable. Three Plays is keyed from a post-1934 printing:
 |---|---|---|---|---|---|---|
 | `storer-il-novellino-the-hundred-old-tales` | Anonymous (Il Novellino, 13th century) | Il Novellino: The hundred old tales | Edward Storer | 1922-1925 (see the Gutenberg header) | have | PG 68831 |
 | `storer-pirandello-three-plays` | Luigi Pirandello | Three Plays | Edward Storer (with Arthur [Translator] Livingstone) | 1922-1925 (see the Gutenberg header) | have | PG 42148 |
+| `storer-facetiae-of-poggio` | Poggio Bracciolini and other medieval story-tellers | The Facetiae of Poggio and Other Medieval Story-Tellers | Edward Storer | 1928 | have-raw | IA `facetiaeofpoggio0000brac` |
 
 ## Herman Scheffauer (Heine's Atta Troll; Mann's Bashan and I)
 
@@ -6165,9 +6166,22 @@ Round 57 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `broadway-translations-sir-lancelot-of-the-lake` | anonymous (the Old French prose Lancelot) | Sir Lancelot of the Lake: a French prose romance of the thirteenth century | Lucy Allen Paton | 1929 | have-raw | IA `sirlancelotofthelakelapatton` |
 | `broadway-translations-celestina-mabbe` | Fernando de Rojas | Celestina, or The Tragi-Comedy of Calisto and Melibea | James Mabbe | 1631 | have-raw | IA `celestinaortragi00roja` |
 | `broadway-translations-english-faust-book` | anonymous (the German Faustbuch, 1587) | The History of the Damnable Life and Deserved Death of Doctor John Faustus (1592), with The Second Report of Faustus (1594) | P. F., Gent. (the English Faust Book; the Second Report is anonymous) | 1592 | have-raw | IA `historyofdamnabl0000unse_o0d7` |
+| `broadway-translations-guibert-autobiography` | Guibert of Nogent | The Autobiography of Guibert, Abbot of Nogent-sous-Coucy (De vita sua) | C. C. Swinton Bland | 1925 | have-raw | IA `autobiographyofg00guib` |
 | `broadway-translations-1930` | — | Letters of George Sand, selected and translated by Veronica Lucas (Routledge, 1930; lettersofgeorges0000geor): a 1930 printing, waiting on the 1930 ruling. | — | — | pending | — |
+| `broadway-medieval-lane-a` | — | Left for Lane A as devotional collections: Caesarius of Heisterbach's Dialogue on Miracles (H. von E. Scott and C. C. Swinton Bland, 1929, 2 vols; caesariusthedialogueonmiraclesvol.1/.2) and Johannes Herolt's Miracles of the Blessed Virgin Mary (Bland, 1928; miraclesoftheblessedvirginherolt), both Broadway Medieval Library. | — | — | pending | — |
 | — | — | esquemeling: Esquemeling's Buccaneers of America (1684 translation, Broadway 1926): the same text is already held inside pyle's Buccaneers and Marooners of America (PG 73564). | — | — | excluded | — |
 | — | — | classical: Petronius (Mitchell, 1923), Alciphron (Wright, 1922), Lucretius (1920) and The Mirror of Venus (Wright, 1925) are classical, so left for Lane B. | — | — | excluded | — |
+
+## Eileen Power as translator: The Goodman of Paris (1928) and Boissonnade's Life and Work in Medieval Europe (1927)
+
+Shelf: `pipeline/eileen-power_shelf.json` · fetch `python3 pipeline/fetch_shelf.py eileen-power` · titles `python3 pipeline/split_shelf_titles.py eileen-power`.
+Round 58 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `eileen-power-goodman-of-paris` | anonymous (Le Ménagier de Paris, c. 1393) | The Goodman of Paris: a treatise on moral and domestic economy by a citizen of Paris | Eileen Power | 1928 | have-raw | IA `in.ernet.dli.2015.166239` |
+| `eileen-power-boissonnade-life-and-work` | Prosper Boissonnade | Life and Work in Medieval Europe (Fifth to Fifteenth Centuries) | Eileen Power | 1927 | have-raw | IA `dli.ministry.16291` |
+| — | — | later-reprints: Life and Work in Medieval Europe also survives as Harper Torchbooks (1964), Dover (2002) and Dorset (1987) reprints; only the 1927 printing is used. | — | — | excluded | — |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 

@@ -189,3 +189,5 @@
 - 2026-10-17T17:12-05:00: round 56: broadway-travellers (9). --verify --record 0 mismatched.
 
 - 2026-10-17T17:16-05:00: round 57: broadway-translations (4). --verify --record 0 mismatched. Also +1 broadway-library (Lespinasse).
+
+- 2026-10-17T17:19-05:00: round 58: eileen-power (2). --verify --record 0 mismatched. Also +1 broadway-translations (Guibert), +1 storer (Poggio).

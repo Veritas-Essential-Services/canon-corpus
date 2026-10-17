@@ -3344,6 +3344,14 @@
       "finished": "2026-10-17T17:16-05:00",
       "scope": "TRANSLATOR SHELF (round 57, lane C's choice; Adam may veto) -- broadway-translations; PD printings before 1931 only; no minting",
       "notes": "4 titles; ids checked across all branches. See DIGEST-C round 57. No uids minted."
+    },
+    {
+      "id": "shelf-eileen-power",
+      "status": "done",
+      "started": "2026-10-17T17:19-05:00",
+      "finished": "2026-10-17T17:19-05:00",
+      "scope": "TRANSLATOR SHELF (round 58, lane C's choice; Adam may veto) -- eileen-power; PD printings before 1931 only; no minting",
+      "notes": "2 titles; ids checked across all branches. See DIGEST-C round 58. No uids minted."
     }
   ]
 }

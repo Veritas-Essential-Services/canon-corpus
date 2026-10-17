@@ -1,6 +1,7 @@
 {
- "_about": "SERIES SHELF of one-off translators: Routledge's Broadway Translations and Broadway Medieval Library (1920s). Lunacharsky's Three Plays (Magnus and Walter, 1923), Lucy Allen Paton's Sir Lancelot of the Lake (1929), Mabbe's Celestina (1631, reprinted 1923) and the English Faust Book (1592, modernized by William Rose, 1925). The series' classical volumes (Petronius, Alciphron, Lucretius) are left for Lane B. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 57); Adam may veto. No uids minted.",
+ "_about": "SERIES SHELF of one-off translators: Routledge's Broadway Translations and Broadway Medieval Library (1920s). Lunacharsky's Three Plays (Magnus and Walter, 1923), Lucy Allen Paton's Sir Lancelot of the Lake (1929), Mabbe's Celestina (1631, reprinted 1923) the English Faust Book (1592, modernized by William Rose, 1925) and Swinton Bland's Autobiography of Guibert of Nogent (1925; round 58). The series' classical volumes (Petronius, Alciphron, Lucretius) are left for Lane B. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 57); Adam may veto. No uids minted.",
  "_name_words": [
+  "c. c. swinton bland",
   "james mabbe",
   "k. walter",
   "l. a. magnus",
@@ -9,10 +10,12 @@
   "magnus",
   "p. f.",
   "paton",
+  "swinton bland",
   "walter"
  ],
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
  "_surname": [
+  "c. c. swinton bland",
   "james mabbe",
   "k. walter",
   "l. a. magnus",
@@ -21,6 +24,7 @@
   "magnus",
   "p. f.",
   "paton",
+  "swinton bland",
   "walter"
  ],
  "_surname_by_slug": {
@@ -40,6 +44,10 @@
   ],
   "btn-faustbook": [
    "p. f."
+  ],
+  "btn-guibert": [
+   "c. c. swinton bland",
+   "swinton bland"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -61,6 +69,10 @@
   "btn-faustbook": [
    "historyofdamnabl0000unse_o0d7",
    "The History of the Damnable Life and Deserved Death of Doctor John Faustus, 1592, with The Second Report of Faustus, 1594 (Routledge, Broadway Translations, 1925)"
+  ],
+  "btn-guibert": [
+   "autobiographyofg00guib",
+   "The Autobiography of Guibert, Abbot of Nogent-sous-Coucy (Routledge, 1925)"
   ]
  },
  "titles": {
@@ -99,10 +111,20 @@
    "translator": "P. F., Gent. (the English Faust Book; the Second Report is anonymous)",
    "scan_edition": "George Routledge & Sons, London (with E. P. Dutton, New York), in the Broadway Translations, 1925, both texts modernized and edited by William Rose",
    "note": "Raw OCR. The spelling is Rose's 1925 modernization, not the 1592 original; Marlowe's source."
+  },
+  "broadway-translations-guibert-autobiography": {
+   "source": "btn-guibert",
+   "of": "Guibert of Nogent",
+   "work": "The Autobiography of Guibert, Abbot of Nogent-sous-Coucy (De vita sua)",
+   "translated": 1925,
+   "translator": "C. C. Swinton Bland",
+   "scan_edition": "George Routledge & Sons, London, and E. P. Dutton, New York, 1925 (introduction dated June 1925), in the Broadway Translations",
+   "note": "Raw OCR. A medieval memoir by an abbot; Lane A may want a cross-reference."
   }
  },
  "_pending": {
-  "broadway-translations-1930": "Letters of George Sand, selected and translated by Veronica Lucas (Routledge, 1930; lettersofgeorges0000geor): a 1930 printing, waiting on the 1930 ruling."
+  "broadway-translations-1930": "Letters of George Sand, selected and translated by Veronica Lucas (Routledge, 1930; lettersofgeorges0000geor): a 1930 printing, waiting on the 1930 ruling.",
+  "broadway-medieval-lane-a": "Left for Lane A as devotional collections: Caesarius of Heisterbach's Dialogue on Miracles (H. von E. Scott and C. C. Swinton Bland, 1929, 2 vols; caesariusthedialogueonmiraclesvol.1/.2) and Johannes Herolt's Miracles of the Blessed Virgin Mary (Bland, 1928; miraclesoftheblessedvirginherolt), both Broadway Medieval Library."
  },
  "_excluded": {
   "esquemeling": "Esquemeling's Buccaneers of America (1684 translation, Broadway 1926): the same text is already held inside pyle's Buccaneers and Marooners of America (PG 73564).",
@@ -148,6 +170,17 @@
    "name_check": "surname",
    "author_seen": "p. f.",
    "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "btn-guibert": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
    "ia_rights": "ok: published 1925",
    "ia_date": "1925",
    "ia_possible_copyright_status": null,
@@ -201,7 +234,21 @@
     1907
    ],
    "post_1930_years_in_front_15k": []
+  },
+  "btn-guibert": {
+   "ia": "autobiographyofg00guib",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1905,
+    1925
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "btn-guibert": {
+   "author": "The title page OCR reads 'Ca OrsowIN TON BLAND' for 'C. C. Swinton Bland', and the introduction speaks of 'Mr. Bland's scholarship' in this version. Checked by eye 2026-10-17."
+  }
+ }
 }
