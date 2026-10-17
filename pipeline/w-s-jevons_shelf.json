@@ -1,0 +1,35 @@
+{
+ "_about": "W. Stanley Jevons (1835-1882), The Principles of Science, a treatise on logic and scientific method (London: Macmillan, 1883), from Project Gutenberg. US public domain. Not to be confused with the f-b-jevons shelf. No uids minted.",
+ "_author": "William Stanley Jevons",
+ "_name_words": [
+  "william",
+  "stanley",
+  "w",
+  "s",
+  "jevons"
+ ],
+ "_surname": [
+  "jevons",
+  "stanley jevons"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jevons-principles-of-science-1883": [
+   74864,
+   "The Principles of Science: a treatise on logic and scientific method (London: Macmillan, 1883)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "jevons-principles-of-science-1883": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jevons",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
