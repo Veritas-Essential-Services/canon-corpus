@@ -1,5 +1,5 @@
 {
- "_about": "J. G. Fichte (1762-1814) in English, raw IA OCR: A. E. Kroeger's Science of Knowledge (Lippincott, 1868), New Exposition of the Science of Knowledge (St. Louis, 1869), Science of Rights (Trübner, 1889) and Science of Ethics (ed. W. T. Harris; Kegan Paul, 1897); and William Smith's Popular Works (4th ed., Trübner, 1889, 2 vols.: the Nature of the Scholar, the Vocation of the Scholar, the Vocation of Man, the Characteristics of the Present Age, the Way towards the Blessed Life, and the Outlines of the Doctrine of Knowledge, with Smith's memoir). US public domain. No uids minted.",
+ "_about": "J. G. Fichte (1762-1814) in English, raw IA OCR: A. E. Kroeger's Science of Knowledge (Lippincott, 1868), New Exposition of the Science of Knowledge (St. Louis, 1869), Science of Rights (Trübner, 1889) and Science of Ethics (ed. W. T. Harris; Kegan Paul, 1897); and William Smith's Popular Works (4th ed., Trübner, 1889, 2 vols.: the Nature of the Scholar, the Vocation of the Scholar, the Vocation of Man, the Characteristics of the Present Age, the Way towards the Blessed Life, and the Outlines of the Doctrine of Knowledge, with Smith's memoir). Added in round ad: Addresses to the German Nation (Chicago and London: Open Court, 1922). US public domain. No uids minted.",
  "_author": "J. G. Fichte",
  "_name_words": [
   "johann",
@@ -43,6 +43,11 @@
    "popularworks02fichuoft",
    "The Popular Works of Johann Gottlieb Fichte, 4th ed., vol. II: the Characteristics of the Present Age, the Way towards the Blessed Life, Outlines of the Doctrine of Knowledge (London: Trübner, 1889)",
    "tr. William Smith"
+  ],
+  "fichte-jones-turnbull-addresses-1922": [
+   "addressestothege00fichuoft",
+   "Addresses to the German Nation (Chicago and London: Open Court, 1922)",
+   "tr. R. F. Jones and G. H. Turnbull"
   ]
  },
  "_excluded": {},
@@ -127,6 +132,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1889",
    "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fichte-jones-turnbull-addresses-1922": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fichte",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
