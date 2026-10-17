@@ -6745,6 +6745,36 @@ Shelf: `pipeline/frank-gee-patchin_shelf.json` (2026-10-17; added at the coordin
 | The Pony Rider Boys in Louisiana; or, Following the Game Trails in the Canebrake | have | PG 45507, `fgpatchin-pony-rider-boys-in-louisiana` (1897 units) |
 | The Pony Rider Boys on the Blue Ridge; or, A Lucky Find in the Carolina Mountains | have | PG 46920, `fgpatchin-pony-rider-boys-on-the-blue-ridge` (1979 units) |
 
+## William MacLeod Raine
+
+Shelf: `pipeline/william-macleod-raine_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Western novels. Every English text under the name at Gutenberg that no other shelf holds (23 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Ridgway of Montana: A story of to-day, in which the hero is also the villain | have | PG 2285, `wmraine-ridgway-of-montana` (1758 units) |
+| A Texas Ranger | have | PG 4993, `wmraine-a-texas-ranger` (2479 units) |
+| Man-Size | have | PG 10404, `wmraine-man-size` (2271 units) |
+| A Man Four-Square | have | PG 14171, `wmraine-a-man-four-square` (2100 units) |
+| Mavericks | have | PG 14520, `wmraine-mavericks` (2845 units) |
+| Gunsight Pass: How Oil Came to the Cattle Country and Brought a New West | have | PG 14574, `wmraine-gunsight-pass` (2667 units) |
+| A Daughter of the Dons: A Story of New Mexico Today | have | PG 15542, `wmraine-a-daughter-of-the-dons` (2305 units) |
+| The Sheriff's Son | have | PG 17043, `wmraine-sheriffs-son` (1952 units) |
+| Tangled Trails: A Western Detective Story | have | PG 17066, `wmraine-tangled-trails` (2394 units) |
+| The Big-Town Round-Up | have | PG 17205, `wmraine-big-town-round-up` (2493 units) |
+| Steve Yeager | have | PG 19055, `wmraine-steve-yeager` (1881 units) |
+| The Yukon Trail: A Tale of the North | have | PG 19527, `wmraine-yukon-trail` (2012 units) |
+| Oh, You Tex! | have | PG 22328, `wmraine-oh-you-tex` (2317 units) |
+| The Highgrader | have | PG 22583, `wmraine-highgrader` (2484 units) |
+| The Pirate of Panama: A Tale of the Fight for Buried Treasure | have | PG 22752, `wmraine-pirate-of-panama` (2614 units) |
+| The Fighting Edge | have | PG 26520, `wmraine-fighting-edge` (2430 units) |
+| A Daughter of Raasay: A Tale of the '45 | have | PG 26692, `wmraine-a-daughter-of-raasay` (1753 units) |
+| Crooked Trails and Straight | have | PG 26911, `wmraine-crooked-trails-and-straight` (2451 units) |
+| Brand Blotters | have | PG 27436, `wmraine-brand-blotters` (2665 units) |
+| In the Garden of the Gods | have | PG 67165, `wmraine-in-the-garden-of-the-gods` (129 units) |
+| Bonanza: A story of the Gold Trail | have | PG 69341, `wmraine-bonanza` (2398 units) |
+| Troubled Waters | have | PG 69342, `wmraine-troubled-waters` (1899 units) |
+| Ironheart | have | PG 72057, `wmraine-ironheart` (2637 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

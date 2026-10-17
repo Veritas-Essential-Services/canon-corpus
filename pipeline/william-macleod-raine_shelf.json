@@ -1,0 +1,349 @@
+{
+ "_about": "William MacLeod Raine's Western novels: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "William MacLeod Raine",
+ "_name_words": [
+  "raine"
+ ],
+ "_surname": [
+  "william macleod raine"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wmraine-ridgway-of-montana": [
+   2285,
+   "Ridgway of Montana: A story of to-day, in which the hero is also the villain"
+  ],
+  "wmraine-a-texas-ranger": [
+   4993,
+   "A Texas Ranger"
+  ],
+  "wmraine-man-size": [
+   10404,
+   "Man-Size"
+  ],
+  "wmraine-a-man-four-square": [
+   14171,
+   "A Man Four-Square"
+  ],
+  "wmraine-mavericks": [
+   14520,
+   "Mavericks"
+  ],
+  "wmraine-gunsight-pass": [
+   14574,
+   "Gunsight Pass: How Oil Came to the Cattle Country and Brought a New West",
+   {
+    "contents_only": true
+   }
+  ],
+  "wmraine-a-daughter-of-the-dons": [
+   15542,
+   "A Daughter of the Dons: A Story of New Mexico Today",
+   {
+    "contents_only": true
+   }
+  ],
+  "wmraine-sheriffs-son": [
+   17043,
+   "The Sheriff's Son",
+   {
+    "contents_only": true
+   }
+  ],
+  "wmraine-tangled-trails": [
+   17066,
+   "Tangled Trails: A Western Detective Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "wmraine-big-town-round-up": [
+   17205,
+   "The Big-Town Round-Up",
+   {
+    "contents_only": true
+   }
+  ],
+  "wmraine-steve-yeager": [
+   19055,
+   "Steve Yeager",
+   {
+    "contents_only": true
+   }
+  ],
+  "wmraine-yukon-trail": [
+   19527,
+   "The Yukon Trail: A Tale of the North",
+   {
+    "contents_only": true
+   }
+  ],
+  "wmraine-oh-you-tex": [
+   22328,
+   "Oh, You Tex!",
+   {
+    "contents_only": true
+   }
+  ],
+  "wmraine-highgrader": [
+   22583,
+   "The Highgrader"
+  ],
+  "wmraine-pirate-of-panama": [
+   22752,
+   "The Pirate of Panama: A Tale of the Fight for Buried Treasure",
+   {
+    "contents_only": true
+   }
+  ],
+  "wmraine-fighting-edge": [
+   26520,
+   "The Fighting Edge"
+  ],
+  "wmraine-a-daughter-of-raasay": [
+   26692,
+   "A Daughter of Raasay: A Tale of the '45"
+  ],
+  "wmraine-crooked-trails-and-straight": [
+   26911,
+   "Crooked Trails and Straight"
+  ],
+  "wmraine-brand-blotters": [
+   27436,
+   "Brand Blotters"
+  ],
+  "wmraine-in-the-garden-of-the-gods": [
+   67165,
+   "In the Garden of the Gods"
+  ],
+  "wmraine-bonanza": [
+   69341,
+   "Bonanza: A story of the Gold Trail",
+   {
+    "contents_only": true
+   }
+  ],
+  "wmraine-troubled-waters": [
+   69342,
+   "Troubled Waters"
+  ],
+  "wmraine-ironheart": [
+   72057,
+   "Ironheart",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "wmraine-ridgway-of-montana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-a-texas-ranger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-man-size": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-a-man-four-square": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-mavericks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-gunsight-pass": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-a-daughter-of-the-dons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-sheriffs-son": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-tangled-trails": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-big-town-round-up": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-steve-yeager": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-yukon-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-oh-you-tex": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-highgrader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-pirate-of-panama": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-fighting-edge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-a-daughter-of-raasay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-crooked-trails-and-straight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-brand-blotters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-in-the-garden-of-the-gods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-bonanza": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-troubled-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmraine-ironheart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william macleod raine",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
