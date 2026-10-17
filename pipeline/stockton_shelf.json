@@ -1,5 +1,5 @@
 {
- "_about": "Frank R. Stockton's (1834-1902) fairy tales: The Bee-Man of Orn and Other Fanciful Tales, Ting-a-ling, and the school selection Fanciful Tales (ed. Mary E. Burt, 1922), whose four tales from The Bee-Man of Orn make it 42% the same text (two witnesses; mint once). Clean Gutenberg text; public domain. His adult novels and stories are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Frank R. Stockton's (1834-1902) fairy tales: The Bee-Man of Orn and Other Fanciful Tales, Ting-a-ling, and the school selection Fanciful Tales (ed. Mary E. Burt, 1922), whose four tales from The Bee-Man of Orn make it 42% the same text (two witnesses; mint once). Clean Gutenberg text; public domain. His adult novels and stories are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by Frank R. Stockton at Gutenberg was added (35 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (0) and shared or misattributed files are listed in _excluded.",
  "_author": "Frank R. Stockton",
  "_name_words": [
   "bee",
@@ -34,16 +34,193 @@
      }
     ]
    }
+  ],
+  "stockton-lady-or-the-tiger": [
+   396,
+   "The Lady, or the Tiger?"
+  ],
+  "stockton-great-war-syndicate": [
+   427,
+   "The Great War Syndicate"
+  ],
+  "stockton-magic-egg-and-other-stories": [
+   429,
+   "The Magic Egg, and Other Stories"
+  ],
+  "stockton-great-stone-of-sardis": [
+   6127,
+   "The Great Stone of Sardis",
+   {
+    "contents_only": true
+   }
+  ],
+  "stockton-vizier-of-the-two-horned-alexander": [
+   10368,
+   "The Vizier of the Two-Horned Alexander"
+  ],
+  "stockton-stories-of-the-three-burglars": [
+   10948,
+   "The Stories of the Three Burglars"
+  ],
+  "stockton-late-mrs-null": [
+   10973,
+   "The Late Mrs. Null"
+  ],
+  "stockton-girl-at-cobhurst": [
+   11106,
+   "The Girl at Cobhurst"
+  ],
+  "stockton-rudder-grangers-abroad-and-other-stories": [
+   11671,
+   "The Rudder Grangers Abroad and Other Stories"
+  ],
+  "stockton-adventures-of-captain-horn": [
+   12190,
+   "The Adventures of Captain Horn",
+   {
+    "contents_only": true
+   }
+  ],
+  "stockton-a-bicycle-of-cathay": [
+   12334,
+   "A Bicycle of Cathay"
+  ],
+  "stockton-pomonas-travels-a-series-of-letters-to-the-mistress": [
+   12460,
+   "Pomona's Travels A Series of Letters to the Mistress of Rudder Grange from her Former Handmaiden"
+  ],
+  "stockton-captains-toll-gate": [
+   13356,
+   "The Captain's Toll-Gate",
+   {
+    "contents_only": true
+   }
+  ],
+  "stockton-amos-kilbright": [
+   13531,
+   "Amos Kilbright; His Adscititious Experiences With Other Stories"
+  ],
+  "stockton-kate-bonnet": [
+   17053,
+   "Kate Bonnet: The Romance of a Pirate's Daughter"
+  ],
+  "stockton-buccaneers-and-pirates-of-our-coasts": [
+   17188,
+   "Buccaneers and pirates of our coasts",
+   {
+    "contents_only": true
+   }
+  ],
+  "stockton-round-about-rambles-in-lands-of-fact-and-fancy": [
+   17582,
+   "Round-about Rambles in Lands of Fact and Fancy"
+  ],
+  "stockton-what-might-have-been-expected": [
+   18654,
+   "What Might Have Been Expected",
+   {
+    "contents_only": true
+   }
+  ],
+  "stockton-house-of-martha": [
+   18822,
+   "The House of Martha",
+   {
+    "contents_only": true
+   }
+  ],
+  "stockton-a-jolly-fellowship": [
+   20651,
+   "A Jolly Fellowship",
+   {
+    "contents_only": true
+   }
+  ],
+  "stockton-john-gaythers-garden-and-the-stories-told-therein": [
+   22737,
+   "John Gayther's Garden and the Stories Told Therein"
+  ],
+  "stockton-my-terminal-moraine-1892": [
+   23175,
+   "My Terminal Moraine 1892"
+  ],
+  "stockton-stories-of-new-jersey": [
+   24713,
+   "Stories of New Jersey"
+  ],
+  "stockton-a-chosen-few": [
+   25549,
+   "A Chosen Few: Short Stories"
+  ],
+  "stockton-associate-hermits": [
+   26895,
+   "The Associate Hermits",
+   {
+    "contents_only": true
+   }
+  ],
+  "stockton-squirrel-inn": [
+   28662,
+   "The Squirrel Inn",
+   {
+    "contents_only": true
+   }
+  ],
+  "stockton-mrs-cliffs-yacht": [
+   30848,
+   "Mrs. Cliff's Yacht"
+  ],
+  "stockton-dusantes": [
+   35480,
+   "The Dusantes"
+  ],
+  "stockton-casting-away-of-mrs-lecks-and-mrs-aleshine": [
+   35570,
+   "The casting away of Mrs. Lecks and Mrs. Aleshine"
+  ],
+  "stockton-story-of-viteau": [
+   55532,
+   "The Story of Viteau"
+  ],
+  "stockton-lost-dryad": [
+   65841,
+   "The Lost Dryad"
+  ],
+  "stockton-captain-chap": [
+   69838,
+   "Captain Chap; or, The Rolling Stones",
+   {
+    "contents_only": true
+   }
+  ],
+  "stockton-tales-out-of-school": [
+   71711,
+   "Tales out of school",
+   {
+    "contents_only": true
+   }
+  ],
+  "stockton-young-master-of-hyson-hall": [
+   71952,
+   "The young master of Hyson Hall",
+   {
+    "contents_only": true
+   }
+  ],
+  "stockton-poor-counts-christmas": [
+   74633,
+   "The poor Count's Christmas"
   ]
  },
  "internet_archive": {},
  "_excluded": {
-  "stockton-adult": "The Lady, or the Tiger?, Rudder Grange and his other fiction: not fairy tales; candidates for a later batch"
+  "stockton-adult": "The Lady, or the Tiger?, Rudder Grange and his other fiction: not fairy tales; candidates for a later batch",
+  "stockton-eleven-possible-cases": "PG 32117, Eleven Possible Cases, is a many-author volume"
  },
  "_checks": {
   "stockton-bee-man-of-orn": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -52,7 +229,7 @@
   },
   "stockton-ting-a-ling": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",
@@ -61,7 +238,322 @@
   },
   "stockton-fanciful-tales": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-lady-or-the-tiger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-great-war-syndicate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-magic-egg-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-great-stone-of-sardis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-vizier-of-the-two-horned-alexander": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-stories-of-the-three-burglars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-late-mrs-null": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-girl-at-cobhurst": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-rudder-grangers-abroad-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-adventures-of-captain-horn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-a-bicycle-of-cathay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-pomonas-travels-a-series-of-letters-to-the-mistress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-captains-toll-gate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-amos-kilbright": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-kate-bonnet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-buccaneers-and-pirates-of-our-coasts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-round-about-rambles-in-lands-of-fact-and-fancy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-what-might-have-been-expected": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-house-of-martha": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-a-jolly-fellowship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-john-gaythers-garden-and-the-stories-told-therein": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-my-terminal-moraine-1892": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-stories-of-new-jersey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-a-chosen-few": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-associate-hermits": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-squirrel-inn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-mrs-cliffs-yacht": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-dusantes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-casting-away-of-mrs-lecks-and-mrs-aleshine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-story-of-viteau": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-lost-dryad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-captain-chap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-tales-out-of-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-young-master-of-hyson-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frank r. stockton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stockton-poor-counts-christmas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "frank r. stockton",
    "identity": "ok",

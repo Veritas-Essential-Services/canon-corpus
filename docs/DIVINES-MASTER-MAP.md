@@ -17145,14 +17145,50 @@ Shelf: `pipeline/ingelow_shelf.json` (2026-10-02; added at the coordinator's rel
 
 ## Frank R. Stockton
 
-Shelf: `pipeline/stockton_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). His fairy tales; the 1922 school selection is nested section > tale. Not in the manifest; no uids minted.
+Shelf: `pipeline/stockton_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Fairy tales, humorous stories and novels. All 38 of Frank R. Stockton's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Bee-Man of Orn and Other Fanciful Tales | have | PG 12067, `stockton-bee-man-of-orn` (1070 units) |
 | Ting-a-ling | have | PG 20836, `stockton-ting-a-ling` (484 units) |
 | Fanciful Tales, ed. Mary E. Burt (school edition, 1922 copyright) | have | PG 71032, `stockton-fanciful-tales` (650 units) |
+| The Lady, or the Tiger? | have | PG 396, `stockton-lady-or-the-tiger` (30 units) |
+| The Great War Syndicate | have | PG 427, `stockton-great-war-syndicate` (437 units) |
+| The Magic Egg, and Other Stories | have | PG 429, `stockton-magic-egg-and-other-stories` (1410 units) |
+| The Great Stone of Sardis | have | PG 6127, `stockton-great-stone-of-sardis` (877 units) |
+| The Vizier of the Two-Horned Alexander | have | PG 10368, `stockton-vizier-of-the-two-horned-alexander` (557 units) |
+| The Stories of the Three Burglars | have | PG 10948, `stockton-stories-of-the-three-burglars` (491 units) |
+| The Late Mrs. Null | have | PG 10973, `stockton-late-mrs-null` (1743 units) |
+| The Girl at Cobhurst | have | PG 11106, `stockton-girl-at-cobhurst` (2277 units) |
+| The Rudder Grangers Abroad and Other Stories | have | PG 11671, `stockton-rudder-grangers-abroad-and-other-stories` (898 units) |
+| The Adventures of Captain Horn | have | PG 12190, `stockton-adventures-of-captain-horn` (1877 units) |
+| A Bicycle of Cathay | have | PG 12334, `stockton-a-bicycle-of-cathay` (1022 units) |
+| Pomona's Travels A Series of Letters to the Mistress of Rudder Grange from her Former Handmaiden | have | PG 12460, `stockton-pomonas-travels-a-series-of-letters-to-the-mistress` (896 units) |
+| The Captain's Toll-Gate | have | PG 13356, `stockton-captains-toll-gate` (1985 units) |
+| Amos Kilbright; His Adscititious Experiences With Other Stories | have | PG 13531, `stockton-amos-kilbright` (442 units) |
+| Kate Bonnet: The Romance of a Pirate's Daughter | have | PG 17053, `stockton-kate-bonnet` (1897 units) |
+| Buccaneers and pirates of our coasts | have | PG 17188, `stockton-buccaneers-and-pirates-of-our-coasts` (719 units) |
+| Round-about Rambles in Lands of Fact and Fancy | have | PG 17582, `stockton-round-about-rambles-in-lands-of-fact-and-fancy` (1687 units) |
+| What Might Have Been Expected | have | PG 18654, `stockton-what-might-have-been-expected` (1479 units) |
+| The House of Martha | have | PG 18822, `stockton-house-of-martha` (1806 units) |
+| A Jolly Fellowship | have | PG 20651, `stockton-a-jolly-fellowship` (1818 units) |
+| John Gayther's Garden and the Stories Told Therein | have | PG 22737, `stockton-john-gaythers-garden-and-the-stories-told-therein` (1775 units) |
+| My Terminal Moraine 1892 | have | PG 23175, `stockton-my-terminal-moraine-1892` (186 units) |
+| Stories of New Jersey | have | PG 24713, `stockton-stories-of-new-jersey` (673 units) |
+| A Chosen Few: Short Stories | have | PG 25549, `stockton-a-chosen-few` (919 units) |
+| The Associate Hermits | have | PG 26895, `stockton-associate-hermits` (1482 units) |
+| The Squirrel Inn | have | PG 28662, `stockton-squirrel-inn` (1144 units) |
+| Mrs. Cliff's Yacht | have | PG 30848, `stockton-mrs-cliffs-yacht` (1376 units) |
+| The Dusantes | have | PG 35480, `stockton-dusantes` (451 units) |
+| The casting away of Mrs. Lecks and Mrs. Aleshine | have | PG 35570, `stockton-casting-away-of-mrs-lecks-and-mrs-aleshine` (987 units) |
+| The Story of Viteau | have | PG 55532, `stockton-story-of-viteau` (820 units) |
+| The Lost Dryad | have | PG 65841, `stockton-lost-dryad` (106 units) |
+| Captain Chap; or, The Rolling Stones | have | PG 69838, `stockton-captain-chap` (1829 units) |
+| Tales out of school | have | PG 71711, `stockton-tales-out-of-school` (1432 units) |
+| The young master of Hyson Hall | have | PG 71952, `stockton-young-master-of-hyson-hall` (1714 units) |
+| The poor Count's Christmas | have | PG 74633, `stockton-poor-counts-christmas` (188 units) |
 | stockton-adult | excluded | The Lady, or the Tiger?, Rudder Grange and his other fiction: not fairy tales; candidates for a later batch |
+| stockton-eleven-possible-cases | excluded | PG 32117, Eleven Possible Cases, is a many-author volume |
 
 ## Thornton W. Burgess
 

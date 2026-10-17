@@ -137,7 +137,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `milne` | 5 Gutenberg | 0 | 4,958 | Winnie-the-Pooh, The House at Pooh Corner, When We Were Very Young, Now We Are Six, Once on a Time. **Your call:** US public domain, but in copyright in the UK and EU until 2027; keep, or hold until 2027? |
 | `craik` | 3 Gutenberg | 0 | 3,272 | The Little Lame Prince, The Adventures of a Brownie, The Fairy Book. |
 | `ingelow` | 2 Gutenberg | 0 | 1,639 | Mopsa the Fairy, Wonder-Box Tales. |
-| `stockton` | 3 Gutenberg | 0 | 2,204 | The Bee-Man of Orn, Ting-a-ling, Fanciful Tales (1922). Fanciful Tales is 42% the same text as Bee-Man: mint once. |
+| `stockton` | 38 Gutenberg | 0 | 41,634 | Fairy tales, humorous stories and novels. Completed 2026-10-17: 35 more books added, every English text by Frank R. Stockton at Gutenberg that no other shelf holds. |
 | `burgess` | 40 Gutenberg | 0 | 16,563 | Animal stories for young children. Completed 2026-10-17: 14 more books added, every English text by Thornton W. Burgess at Gutenberg that no other shelf holds. |
 | `lagerlof` | 2 Gutenberg | 0 | 4,385 | The Wonderful Adventures of Nils, Christ Legends (tr. Howard). |
 | `laboulaye` | 1 Gutenberg | 0 | 1,111 | Laboulaye's Fairy Book (tr. Booth). |
