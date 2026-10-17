@@ -2804,12 +2804,109 @@ Shelf: `pipeline/thomas-hughes_shelf.json` (2026-10-02; added at the coordinator
 
 ## R. M. Ballantyne
 
-Shelf: `pipeline/ballantyne_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Two boys' adventure stories; cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/ballantyne_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Adventure stories for boys; many describe peoples in the terms of their time. All 88 of R. M. Ballantyne's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Coral Island: A Tale of the Pacific Ocean | have | PG 646, `ballantyne-coral-island` (1344 units) |
 | The Gorilla Hunters | have | PG 21736, `ballantyne-gorilla-hunters` (1815 units) |
+| Snowflakes and Sunbeams; Or, The Young Fur-traders: A Tale of the Far North | have | PG 6357, `ballantyne-snowflakes-and-sunbeams` (1846 units) |
+| The Dog Crusoe and His Master: A Story of Adventure in the Western Prairies | have | PG 10929, `ballantyne-dog-crusoe-and-his-master` (1595 units) |
+| The World of Ice | have | PG 11602, `ballantyne-world-of-ice` (1401 units) |
+| Martin Rattler | have | PG 13290, `ballantyne-martin-rattler` (876 units) |
+| The Lighthouse | have | PG 15124, `ballantyne-lighthouse` (2082 units) |
+| Blown to Bits; or, The Lonely Man of Rakata | have | PG 15348, `ballantyne-blown-to-bits` (3117 units) |
+| Gascoyne, The Sandal-Wood Trader: A Tale of the Pacific | have | PG 15689, `ballantyne-gascoyne-the-sandal-wood-trader` (2264 units) |
+| Fighting the Whales | have | PG 21202, `ballantyne-fighting-the-whales` (472 units) |
+| The Pioneers | have | PG 21691, `ballantyne-pioneers` (369 units) |
+| The Pirate City: An Algerine Tale | have | PG 21692, `ballantyne-pirate-city` (1861 units) |
+| Post Haste | have | PG 21693, `ballantyne-post-haste` (1943 units) |
+| The Prairie Chief | have | PG 21694, `ballantyne-prairie-chief` (1084 units) |
+| Life in the Red Brigade: London Fire Brigade | have | PG 21695, `ballantyne-life-in-the-red-brigade` (658 units) |
+| Red Rooney: The Last of the Crew | have | PG 21696, `ballantyne-red-rooney` (2293 units) |
+| The Red Man's Revenge: A Tale of The Red River Flood | have | PG 21697, `ballantyne-red-mans-revenge` (1449 units) |
+| Rivers of Ice | have | PG 21698, `ballantyne-rivers-of-ice` (1805 units) |
+| The Rover of the Andes: A Tale of Adventure on South America | have | PG 21699, `ballantyne-rover-of-the-andes` (2099 units) |
+| The Settler and the Savage | have | PG 21701, `ballantyne-settler-and-the-savage` (1710 units) |
+| Shifting Winds: A Tough Yarn | have | PG 21702, `ballantyne-shifting-winds` (2171 units) |
+| Silver Lake | have | PG 21703, `ballantyne-silver-lake` (785 units) |
+| Six Months at the Cape | have | PG 21704, `ballantyne-six-months-at-the-cape` (575 units) |
+| In the Track of the Troops | have | PG 21705, `ballantyne-in-the-track-of-the-troops` (1667 units) |
+| Twice Bought | have | PG 21706, `ballantyne-twice-bought` (1738 units) |
+| Ungava | have | PG 21707, `ballantyne-ungava` (1538 units) |
+| Up in the Clouds: Balloon Voyages | have | PG 21708, `ballantyne-up-in-the-clouds` (245 units) |
+| The Walrus Hunters: A Romance of the Realms of Ice | have | PG 21709, `ballantyne-walrus-hunters` (1883 units) |
+| The Crew of the Water Wagtail | have | PG 21710, `ballantyne-crew-of-the-water-wagtail` (1238 units) |
+| The Young Fur Traders | have | PG 21712, `ballantyne-young-fur-traders` (1813 units) |
+| The Young Trawler | have | PG 21713, `ballantyne-young-trawler` (2150 units) |
+| The Red Eric | have | PG 21714, `ballantyne-red-eric` (2007 units) |
+| Away in the Wilderness | have | PG 21715, `ballantyne-away-in-the-wilderness` (463 units) |
+| The Battery and the Boiler: Adventures in Laying of Submarine Electric Cables | have | PG 21716, `ballantyne-battery-and-the-boiler` (2097 units) |
+| Battles with the Sea | have | PG 21717, `ballantyne-battles-with-the-sea` (281 units) |
+| The Big Otter | have | PG 21718, `ballantyne-big-otter` (1988 units) |
+| Blue Lights: Hot Work in the Soudan | have | PG 21719, `ballantyne-blue-lights` (2072 units) |
+| Charlie to the Rescue | have | PG 21720, `ballantyne-charlie-to-the-rescue` (2248 units) |
+| The Coxswain's Bride; also, Jack Frost and Sons; and, A Double Rescue | have | PG 21725, `ballantyne-coxswains-bride` (1057 units) |
+| Deep Down, a Tale of the Cornish Mines | have | PG 21726, `ballantyne-deep-down-a-tale-of-the-cornish-mines` (1682 units) |
+| Digging for Gold: Adventures in California | have | PG 21727, `ballantyne-digging-for-gold` (508 units) |
+| Dusty Diamonds Cut and Polished: A Tale of City Arab Life and Adventure | have | PG 21729, `ballantyne-dusty-diamonds-cut-and-polished` (2277 units) |
+| Erling the Bold | have | PG 21730, `ballantyne-erling-the-bold` (1855 units) |
+| Fort Desolation: Red Indians and Fur Traders of Rupert's Land | have | PG 21732, `ballantyne-fort-desolation` (397 units) |
+| The Giant of the North: Pokings Round the Pole | have | PG 21733, `ballantyne-giant-of-the-north` (2204 units) |
+| The Golden Dream: Adventures in the Far West | have | PG 21734, `ballantyne-golden-dream` (2020 units) |
+| The Floating Light of the Goodwin Sands | have | PG 21735, `ballantyne-floating-light-of-the-goodwin-sands` (1684 units) |
+| The Garret and the Garden; Or, Low Life High Up | have | PG 21737, `ballantyne-garret-and-the-garden` (745 units) |
+| Hunted and Harried | have | PG 21738, `ballantyne-hunted-and-harried` (844 units) |
+| Hunting the Lions | have | PG 21739, `ballantyne-hunting-the-lions` (374 units) |
+| The Iron Horse | have | PG 21740, `ballantyne-iron-horse` (1423 units) |
+| The Island Queen | have | PG 21741, `ballantyne-island-queen` (1336 units) |
+| Jarwin and Cuffy | have | PG 21742, `ballantyne-jarwin-and-cuffy` (475 units) |
+| Jeff Benson, or the Young Coastguardsman | have | PG 21743, `ballantyne-jeff-benson-or-the-young-coastguardsman` (450 units) |
+| The Lifeboat | have | PG 21744, `ballantyne-lifeboat` (1816 units) |
+| The Life of a Ship | have | PG 21745, `ballantyne-life-of-a-ship` (78 units) |
+| The Lonely Island: The Refuge of the Mutineers | have | PG 21747, `ballantyne-lonely-island` (2004 units) |
+| Black Ivory | have | PG 21748, `ballantyne-black-ivory` (1779 units) |
+| Man on the Ocean: A Book about Boats and Ships | have | PG 21749, `ballantyne-man-on-the-ocean` (513 units) |
+| The Middy and the Moors: An Algerine Story | have | PG 21751, `ballantyne-middy-and-the-moors` (1463 units) |
+| My Doggie and I | have | PG 21752, `ballantyne-my-doggie-and-i` (1016 units) |
+| The Norsemen in the West | have | PG 21753, `ballantyne-norsemen-in-the-west` (1938 units) |
+| The Ocean and Its Wonders | have | PG 21754, `ballantyne-ocean-and-its-wonders` (451 units) |
+| Personal Reminiscences in Book Making, and Some Short Stories | have | PG 21755, `ballantyne-personal-reminiscences-in-book-making-and-some-sh` (814 units) |
+| Philosopher Jack | have | PG 21756, `ballantyne-philosopher-jack` (1009 units) |
+| The Hot Swamp | have | PG 21757, `ballantyne-hot-swamp` (2119 units) |
+| Hudson Bay | have | PG 21758, `ballantyne-hudson-bay` (686 units) |
+| The Madman and the Pirate | have | PG 21813, `ballantyne-madman-and-the-pirate` (1184 units) |
+| Chasing the Sun | have | PG 23262, `ballantyne-chasing-the-sun` (535 units) |
+| The Fugitives: The Tyrant Queen of Madagascar | have | PG 23263, `ballantyne-fugitives` (2125 units) |
+| The Cannibal Islands: Captain Cook's Adventure in the South Seas | have | PG 23267, `ballantyne-cannibal-islands` (240 units) |
+| Sunk at Sea | have | PG 23271, `ballantyne-sunk-at-sea` (462 units) |
+| The Story of the Rock | have | PG 23272, `ballantyne-story-of-the-rock` (453 units) |
+| Lost in the Forest: Wandering Will's Adventures in South America | have | PG 23274, `ballantyne-lost-in-the-forest` (413 units) |
+| The Battle and the Breeze | have | PG 23370, `ballantyne-battle-and-the-breeze` (509 units) |
+| The Buffalo Runners: A Tale of the Red River Plains | have | PG 23372, `ballantyne-buffalo-runners` (2226 units) |
+| The Eagle Cliff | have | PG 23373, `ballantyne-eagle-cliff` (1655 units) |
+| The Lively Poll: A Tale of the North Sea | have | PG 23377, `ballantyne-lively-poll` (770 units) |
+| Fighting the Flames | have | PG 23380, `ballantyne-fighting-the-flames` (2071 units) |
+| The Thorogood Family | have | PG 23381, `ballantyne-thorogood-family` (487 units) |
+| Saved by the Lifeboat | have | PG 23385, `ballantyne-saved-by-the-lifeboat` (341 units) |
+| Wrecked but not Ruined | have | PG 23388, `ballantyne-wrecked-but-not-ruined` (548 units) |
+| Handbook to the new Gold-fields | have | PG 23389, `ballantyne-handbook-to-the-new-gold-fields` (309 units) |
+| Fast in the Ice: Adventures in the Polar Regions | have | PG 23492, `ballantyne-fast-in-the-ice` (382 units) |
+| Under the Waves: Diving in Deep Waters | have | PG 23493, `ballantyne-under-the-waves` (1934 units) |
+| Freaks on the Fells: Three Months' Rustication | have | PG 23505, `ballantyne-freaks-on-the-fells` (1496 units) |
+| Over the Rocky Mountains: Wandering Will in the Land of the Redskin | have | PG 24086, `ballantyne-over-the-rocky-mountains` (490 units) |
+| The Wild Man of the West: A Tale of the Rocky Mountains | have | PG 24617, `ballantyne-wild-man-of-the-west` (1837 units) |
+| ballantyne-butterflys-ball-and-the-grasshoppers-feast | excluded | PG 21823, The Butterfly's Ball, is William Roscoe's poem with Ballantyne's pictures |
+| ballantyne-stories-jolly | excluded | PG 76139, Stories Jolly, is a many-author anthology |
+| ballantyne-repeat-7124 | excluded | PG 7124, The Coral Island: A Tale of the Pacific Ocean: a second transcription of a title already on this shelf |
+| ballantyne-repeat-21721 | excluded | PG 21721, The Coral Island: a second transcription of a title already on this shelf |
+| ballantyne-repeat-21711 | excluded | PG 21711, The World of Ice: a second transcription of a title already on this shelf |
+| ballantyne-repeat-21728 | excluded | PG 21728, The Dog Crusoe and his Master: a second transcription of a title already on this shelf |
+| ballantyne-repeat-21731 | excluded | PG 21731, Fighting the Whales: a second transcription of a title already on this shelf |
+| ballantyne-repeat-21746 | excluded | PG 21746, The Lighthouse: a second transcription of a title already on this shelf |
+| ballantyne-repeat-21750 | excluded | PG 21750, Martin Rattler: a second transcription of a title already on this shelf |
+| ballantyne-repeat-23371 | excluded | PG 23371, Blown to Bits: The Lonely Man of Rakata, the Malay Archipelago: a second transcription of a title already on this shelf |
+| ballantyne-repeat-23384 | excluded | PG 23384, Gascoyne, the Sandal-Wood Trader: a second transcription of a title already on this shelf |
 
 ## Martha Finley
 

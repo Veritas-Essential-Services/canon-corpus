@@ -990,3 +990,6 @@
 
 ## 2026-10-17 17:23 CDT — horatio-alger: done
 - horatio-alger: completed, 103 more Gutenberg books (105 on the shelf), 260,068 units, 685 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:23 CDT — ballantyne: done
+- ballantyne: completed, 86 more Gutenberg books (88 on the shelf), 114,526 units, 58 ~2 ids; verify 0 mismatches, 0 rights flags.

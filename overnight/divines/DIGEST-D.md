@@ -269,7 +269,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `aikin-barbauld` | 1 Gutenberg | 0 | 3,110 | Evenings at Home (New York, Harper; revised from the fifteenth London edition, undated in the text). The printing's 'Evening' divisions survive only inside illustration captions, so pieces are cited by their own titles. |
 | `marryat` | 3 Gutenberg | 0 | 5,964 | The Children of the New Forest (1864 printing), Masterman Ready, The Little Savage (both undated in the text). The Little Savage is Nick Hodson's transcription; PG 6897 carries an introduction signed only 'R. B. J.' and is not taken. |
 | `thomas-hughes` | 1 Gutenberg | 0 | 1,403 | Tom Brown's School Days (1905 Thomas Nelson and Sons edition). |
-| `ballantyne` | 2 Gutenberg | 0 | 3,159 | The Coral Island (1884 printing), The Gorilla Hunters (undated in the text). Both books describe Pacific and African peoples in the terms of their time. |
+| `ballantyne` | 88 Gutenberg | 0 | 114,526 | Adventure stories for boys; many describe peoples in the terms of their time. Completed 2026-10-17: 86 more books added, every English text by R. M. Ballantyne at Gutenberg that no other shelf holds. |
 | `martha-finley` | 3 Gutenberg | 0 | 7,344 | Elsie Dinsmore (undated in the text), Holidays at Roselands (copyright 1868, 1898 printing), Elsie's Girlhood (1872). |
 | `mark-twain` | 5 Gutenberg | 0 | 7,094 | The Adventures of Tom Sawyer (Hartford, 1876), Adventures of Huckleberry Finn, The Prince and the Pauper, Tom Sawyer Abroad, Tom Sawyer, Detective. Huckleberry Finn prints racial slurs in its characters' speech and is kept as printed. |
 | `aldrich` | 1 Gutenberg | 0 | 998 | The Story of a Bad Boy (undated in the text). |

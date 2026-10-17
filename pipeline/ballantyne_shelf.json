@@ -1,5 +1,5 @@
 {
- "_about": "R. M. Ballantyne's The Coral Island (Edinburgh and New York, 1884 printing) and its sequel The Gorilla Hunters (undated in the text). Gutenberg's other Coral Island texts (PG 7124, 21721) are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "R. M. Ballantyne's The Coral Island (Edinburgh and New York, 1884 printing) and its sequel The Gorilla Hunters (undated in the text). Gutenberg's other Coral Island texts (PG 7124, 21721) are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by R. M. Ballantyne at Gutenberg was added (86 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (9) and shared or misattributed files are listed in _excluded.",
  "_author": "R. M. Ballantyne",
  "_name_words": [
   "ballantyne"
@@ -18,14 +18,373 @@
   "ballantyne-gorilla-hunters": [
    21736,
    "The Gorilla Hunters"
+  ],
+  "ballantyne-snowflakes-and-sunbeams": [
+   6357,
+   "Snowflakes and Sunbeams; Or, The Young Fur-traders: A Tale of the Far North"
+  ],
+  "ballantyne-dog-crusoe-and-his-master": [
+   10929,
+   "The Dog Crusoe and His Master: A Story of Adventure in the Western Prairies"
+  ],
+  "ballantyne-world-of-ice": [
+   11602,
+   "The World of Ice"
+  ],
+  "ballantyne-martin-rattler": [
+   13290,
+   "Martin Rattler"
+  ],
+  "ballantyne-lighthouse": [
+   15124,
+   "The Lighthouse"
+  ],
+  "ballantyne-blown-to-bits": [
+   15348,
+   "Blown to Bits; or, The Lonely Man of Rakata"
+  ],
+  "ballantyne-gascoyne-the-sandal-wood-trader": [
+   15689,
+   "Gascoyne, The Sandal-Wood Trader: A Tale of the Pacific"
+  ],
+  "ballantyne-fighting-the-whales": [
+   21202,
+   "Fighting the Whales",
+   {
+    "contents_only": true
+   }
+  ],
+  "ballantyne-pioneers": [
+   21691,
+   "The Pioneers"
+  ],
+  "ballantyne-pirate-city": [
+   21692,
+   "The Pirate City: An Algerine Tale"
+  ],
+  "ballantyne-post-haste": [
+   21693,
+   "Post Haste"
+  ],
+  "ballantyne-prairie-chief": [
+   21694,
+   "The Prairie Chief"
+  ],
+  "ballantyne-life-in-the-red-brigade": [
+   21695,
+   "Life in the Red Brigade: London Fire Brigade"
+  ],
+  "ballantyne-red-rooney": [
+   21696,
+   "Red Rooney: The Last of the Crew"
+  ],
+  "ballantyne-red-mans-revenge": [
+   21697,
+   "The Red Man's Revenge: A Tale of The Red River Flood"
+  ],
+  "ballantyne-rivers-of-ice": [
+   21698,
+   "Rivers of Ice"
+  ],
+  "ballantyne-rover-of-the-andes": [
+   21699,
+   "The Rover of the Andes: A Tale of Adventure on South America"
+  ],
+  "ballantyne-settler-and-the-savage": [
+   21701,
+   "The Settler and the Savage"
+  ],
+  "ballantyne-shifting-winds": [
+   21702,
+   "Shifting Winds: A Tough Yarn"
+  ],
+  "ballantyne-silver-lake": [
+   21703,
+   "Silver Lake"
+  ],
+  "ballantyne-six-months-at-the-cape": [
+   21704,
+   "Six Months at the Cape"
+  ],
+  "ballantyne-in-the-track-of-the-troops": [
+   21705,
+   "In the Track of the Troops"
+  ],
+  "ballantyne-twice-bought": [
+   21706,
+   "Twice Bought"
+  ],
+  "ballantyne-ungava": [
+   21707,
+   "Ungava"
+  ],
+  "ballantyne-up-in-the-clouds": [
+   21708,
+   "Up in the Clouds: Balloon Voyages"
+  ],
+  "ballantyne-walrus-hunters": [
+   21709,
+   "The Walrus Hunters: A Romance of the Realms of Ice"
+  ],
+  "ballantyne-crew-of-the-water-wagtail": [
+   21710,
+   "The Crew of the Water Wagtail"
+  ],
+  "ballantyne-young-fur-traders": [
+   21712,
+   "The Young Fur Traders"
+  ],
+  "ballantyne-young-trawler": [
+   21713,
+   "The Young Trawler"
+  ],
+  "ballantyne-red-eric": [
+   21714,
+   "The Red Eric"
+  ],
+  "ballantyne-away-in-the-wilderness": [
+   21715,
+   "Away in the Wilderness"
+  ],
+  "ballantyne-battery-and-the-boiler": [
+   21716,
+   "The Battery and the Boiler: Adventures in Laying of Submarine Electric Cables"
+  ],
+  "ballantyne-battles-with-the-sea": [
+   21717,
+   "Battles with the Sea"
+  ],
+  "ballantyne-big-otter": [
+   21718,
+   "The Big Otter"
+  ],
+  "ballantyne-blue-lights": [
+   21719,
+   "Blue Lights: Hot Work in the Soudan"
+  ],
+  "ballantyne-charlie-to-the-rescue": [
+   21720,
+   "Charlie to the Rescue"
+  ],
+  "ballantyne-coxswains-bride": [
+   21725,
+   "The Coxswain's Bride; also, Jack Frost and Sons; and, A Double Rescue"
+  ],
+  "ballantyne-deep-down-a-tale-of-the-cornish-mines": [
+   21726,
+   "Deep Down, a Tale of the Cornish Mines"
+  ],
+  "ballantyne-digging-for-gold": [
+   21727,
+   "Digging for Gold: Adventures in California"
+  ],
+  "ballantyne-dusty-diamonds-cut-and-polished": [
+   21729,
+   "Dusty Diamonds Cut and Polished: A Tale of City Arab Life and Adventure"
+  ],
+  "ballantyne-erling-the-bold": [
+   21730,
+   "Erling the Bold"
+  ],
+  "ballantyne-fort-desolation": [
+   21732,
+   "Fort Desolation: Red Indians and Fur Traders of Rupert's Land"
+  ],
+  "ballantyne-giant-of-the-north": [
+   21733,
+   "The Giant of the North: Pokings Round the Pole"
+  ],
+  "ballantyne-golden-dream": [
+   21734,
+   "The Golden Dream: Adventures in the Far West"
+  ],
+  "ballantyne-floating-light-of-the-goodwin-sands": [
+   21735,
+   "The Floating Light of the Goodwin Sands"
+  ],
+  "ballantyne-garret-and-the-garden": [
+   21737,
+   "The Garret and the Garden; Or, Low Life High Up"
+  ],
+  "ballantyne-hunted-and-harried": [
+   21738,
+   "Hunted and Harried"
+  ],
+  "ballantyne-hunting-the-lions": [
+   21739,
+   "Hunting the Lions"
+  ],
+  "ballantyne-iron-horse": [
+   21740,
+   "The Iron Horse"
+  ],
+  "ballantyne-island-queen": [
+   21741,
+   "The Island Queen"
+  ],
+  "ballantyne-jarwin-and-cuffy": [
+   21742,
+   "Jarwin and Cuffy"
+  ],
+  "ballantyne-jeff-benson-or-the-young-coastguardsman": [
+   21743,
+   "Jeff Benson, or the Young Coastguardsman"
+  ],
+  "ballantyne-lifeboat": [
+   21744,
+   "The Lifeboat"
+  ],
+  "ballantyne-life-of-a-ship": [
+   21745,
+   "The Life of a Ship"
+  ],
+  "ballantyne-lonely-island": [
+   21747,
+   "The Lonely Island: The Refuge of the Mutineers"
+  ],
+  "ballantyne-black-ivory": [
+   21748,
+   "Black Ivory"
+  ],
+  "ballantyne-man-on-the-ocean": [
+   21749,
+   "Man on the Ocean: A Book about Boats and Ships"
+  ],
+  "ballantyne-middy-and-the-moors": [
+   21751,
+   "The Middy and the Moors: An Algerine Story"
+  ],
+  "ballantyne-my-doggie-and-i": [
+   21752,
+   "My Doggie and I"
+  ],
+  "ballantyne-norsemen-in-the-west": [
+   21753,
+   "The Norsemen in the West"
+  ],
+  "ballantyne-ocean-and-its-wonders": [
+   21754,
+   "The Ocean and Its Wonders"
+  ],
+  "ballantyne-personal-reminiscences-in-book-making-and-some-sh": [
+   21755,
+   "Personal Reminiscences in Book Making, and Some Short Stories"
+  ],
+  "ballantyne-philosopher-jack": [
+   21756,
+   "Philosopher Jack"
+  ],
+  "ballantyne-hot-swamp": [
+   21757,
+   "The Hot Swamp"
+  ],
+  "ballantyne-hudson-bay": [
+   21758,
+   "Hudson Bay"
+  ],
+  "ballantyne-madman-and-the-pirate": [
+   21813,
+   "The Madman and the Pirate"
+  ],
+  "ballantyne-chasing-the-sun": [
+   23262,
+   "Chasing the Sun"
+  ],
+  "ballantyne-fugitives": [
+   23263,
+   "The Fugitives: The Tyrant Queen of Madagascar"
+  ],
+  "ballantyne-cannibal-islands": [
+   23267,
+   "The Cannibal Islands: Captain Cook's Adventure in the South Seas"
+  ],
+  "ballantyne-sunk-at-sea": [
+   23271,
+   "Sunk at Sea"
+  ],
+  "ballantyne-story-of-the-rock": [
+   23272,
+   "The Story of the Rock"
+  ],
+  "ballantyne-lost-in-the-forest": [
+   23274,
+   "Lost in the Forest: Wandering Will's Adventures in South America"
+  ],
+  "ballantyne-battle-and-the-breeze": [
+   23370,
+   "The Battle and the Breeze"
+  ],
+  "ballantyne-buffalo-runners": [
+   23372,
+   "The Buffalo Runners: A Tale of the Red River Plains"
+  ],
+  "ballantyne-eagle-cliff": [
+   23373,
+   "The Eagle Cliff"
+  ],
+  "ballantyne-lively-poll": [
+   23377,
+   "The Lively Poll: A Tale of the North Sea"
+  ],
+  "ballantyne-fighting-the-flames": [
+   23380,
+   "Fighting the Flames"
+  ],
+  "ballantyne-thorogood-family": [
+   23381,
+   "The Thorogood Family"
+  ],
+  "ballantyne-saved-by-the-lifeboat": [
+   23385,
+   "Saved by the Lifeboat"
+  ],
+  "ballantyne-wrecked-but-not-ruined": [
+   23388,
+   "Wrecked but not Ruined"
+  ],
+  "ballantyne-handbook-to-the-new-gold-fields": [
+   23389,
+   "Handbook to the new Gold-fields"
+  ],
+  "ballantyne-fast-in-the-ice": [
+   23492,
+   "Fast in the Ice: Adventures in the Polar Regions"
+  ],
+  "ballantyne-under-the-waves": [
+   23493,
+   "Under the Waves: Diving in Deep Waters"
+  ],
+  "ballantyne-freaks-on-the-fells": [
+   23505,
+   "Freaks on the Fells: Three Months' Rustication"
+  ],
+  "ballantyne-over-the-rocky-mountains": [
+   24086,
+   "Over the Rocky Mountains: Wandering Will in the Land of the Redskin"
+  ],
+  "ballantyne-wild-man-of-the-west": [
+   24617,
+   "The Wild Man of the West: A Tale of the Rocky Mountains"
   ]
  },
  "internet_archive": {},
- "_excluded": {},
+ "_excluded": {
+  "ballantyne-butterflys-ball-and-the-grasshoppers-feast": "PG 21823, The Butterfly's Ball, is William Roscoe's poem with Ballantyne's pictures",
+  "ballantyne-stories-jolly": "PG 76139, Stories Jolly, is a many-author anthology",
+  "ballantyne-repeat-7124": "PG 7124, The Coral Island: A Tale of the Pacific Ocean: a second transcription of a title already on this shelf",
+  "ballantyne-repeat-21721": "PG 21721, The Coral Island: a second transcription of a title already on this shelf",
+  "ballantyne-repeat-21711": "PG 21711, The World of Ice: a second transcription of a title already on this shelf",
+  "ballantyne-repeat-21728": "PG 21728, The Dog Crusoe and his Master: a second transcription of a title already on this shelf",
+  "ballantyne-repeat-21731": "PG 21731, Fighting the Whales: a second transcription of a title already on this shelf",
+  "ballantyne-repeat-21746": "PG 21746, The Lighthouse: a second transcription of a title already on this shelf",
+  "ballantyne-repeat-21750": "PG 21750, Martin Rattler: a second transcription of a title already on this shelf",
+  "ballantyne-repeat-23371": "PG 23371, Blown to Bits: The Lonely Man of Rakata, the Malay Archipelago: a second transcription of a title already on this shelf",
+  "ballantyne-repeat-23384": "PG 23384, Gascoyne, the Sandal-Wood Trader: a second transcription of a title already on this shelf"
+ },
  "_checks": {
   "ballantyne-coral-island": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "r. m. ballantyne",
    "identity": "ok",
@@ -34,7 +393,781 @@
   },
   "ballantyne-gorilla-hunters": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-snowflakes-and-sunbeams": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-dog-crusoe-and-his-master": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-world-of-ice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-martin-rattler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-lighthouse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-blown-to-bits": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-gascoyne-the-sandal-wood-trader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-fighting-the-whales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-pioneers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-pirate-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-post-haste": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-prairie-chief": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-life-in-the-red-brigade": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-red-rooney": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-red-mans-revenge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-rivers-of-ice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-rover-of-the-andes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-settler-and-the-savage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-shifting-winds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-silver-lake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-six-months-at-the-cape": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-in-the-track-of-the-troops": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-twice-bought": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-ungava": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-up-in-the-clouds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-walrus-hunters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-crew-of-the-water-wagtail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-young-fur-traders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-young-trawler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-red-eric": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-away-in-the-wilderness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-battery-and-the-boiler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-battles-with-the-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-big-otter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-blue-lights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-charlie-to-the-rescue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-coxswains-bride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-deep-down-a-tale-of-the-cornish-mines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-digging-for-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-dusty-diamonds-cut-and-polished": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-erling-the-bold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-fort-desolation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-giant-of-the-north": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-golden-dream": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-floating-light-of-the-goodwin-sands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-garret-and-the-garden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-hunted-and-harried": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-hunting-the-lions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-iron-horse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-island-queen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-jarwin-and-cuffy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-jeff-benson-or-the-young-coastguardsman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-lifeboat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-life-of-a-ship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-lonely-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-black-ivory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-man-on-the-ocean": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-middy-and-the-moors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-my-doggie-and-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-norsemen-in-the-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-ocean-and-its-wonders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-personal-reminiscences-in-book-making-and-some-sh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-philosopher-jack": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-hot-swamp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-hudson-bay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-madman-and-the-pirate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-chasing-the-sun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-fugitives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-cannibal-islands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-sunk-at-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-story-of-the-rock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-lost-in-the-forest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-battle-and-the-breeze": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-buffalo-runners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-eagle-cliff": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-lively-poll": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-fighting-the-flames": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-thorogood-family": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-saved-by-the-lifeboat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-wrecked-but-not-ruined": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-handbook-to-the-new-gold-fields": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-fast-in-the-ice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-under-the-waves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-freaks-on-the-fells": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-over-the-rocky-mountains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "r. m. ballantyne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ballantyne-wild-man-of-the-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "r. m. ballantyne",
    "identity": "ok",
