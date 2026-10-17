@@ -1,0 +1,41 @@
+{
+ "_about": "Richard Cumberland (1631-1718), Bishop of Peterborough, A Treatise of the Laws of Nature, made English from the Latin by John Maxwell, with his introduction and appendix (London: R. Phillips, sold by J. Knapton and others), raw IA OCR. The imprint year is not legible in the OCR; 1727 is inferred from Maxwell's dedication dated 8 March 1726/7. Not Richard Cumberland the dramatist. US public domain. No uids minted.",
+ "_author": "Richard Cumberland",
+ "_name_words": [
+  "richard",
+  "cumberland",
+  "bishop",
+  "peterborough"
+ ],
+ "_surname": [
+  "cumberland"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cumberland-maxwell-laws-of-nature-1727": [
+   "treatiseoflawsof00cumbuoft",
+   "A Treatise of the Laws of Nature (London: R. Phillips, 1727, inferred)",
+   "tr. John Maxwell"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "cumberland-maxwell-laws-of-nature-1727": "MAXWELL"
+ },
+ "_checks": {
+  "cumberland-maxwell-laws-of-nature-1727": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cumberland",
+   "translator_claimed": "MAXWELL",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1727",
+   "ia_date": "1727",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
