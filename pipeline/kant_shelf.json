@@ -26,11 +26,23 @@
    "cu31924092291073",
    "Immanuel Kant's Critique of Pure Reason, vol. II: the Critique (London: Macmillan, 1881)",
    "tr. F. Max Müller"
+  ],
+  "kant-semple-religion-1838": [
+   "religionwithin00kantuoft",
+   "Religion within the Boundary of Pure Reason (Edinburgh: Thomas Clark, 1838)",
+   "tr. J. W. Semple"
+  ],
+  "kant-semple-metaphysic-of-ethics-1871": [
+   "metaphysicofethi00kant",
+   "The Metaphysic of Ethics, 3rd ed., with introduction by Henry Calderwood (Edinburgh: T. & T. Clark, 1871)",
+   "tr. J. W. Semple"
   ]
  },
  "_excluded": {},
  "_translators": {
-  "kant-carus-prolegomena-1912": "Carus"
+  "kant-carus-prolegomena-1912": "Carus",
+  "kant-semple-religion-1838": "Semple",
+  "kant-semple-metaphysic-of-ethics-1871": "Semple"
  },
  "_checks": {
   "kant-carus-prolegomena-1912": {
@@ -64,6 +76,32 @@
    "ia_rights": "ok: published 1881",
    "ia_date": "1881",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kant-semple-religion-1838": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kant",
+   "translator_claimed": "Semple",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kant-semple-metaphysic-of-ethics-1871": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kant",
+   "translator_claimed": "Semple",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
