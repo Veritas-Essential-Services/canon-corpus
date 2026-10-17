@@ -3656,6 +3656,7 @@ Shelf: `pipeline/spinoza_shelf.json`. Benedict de Spinoza (1632-1677) in English
 | Benedict de Spinoza: his life, correspondence, and Ethics (London: Trübner, 1870) | R. Willis | `spinoza-willis-life-ethics-1870` | have-raw (IA `benedictdespinoz00willuoft`) |
 | A Treatise on Politics, translated from the Latin (London: Holyoake, 1854) | William Maccall | `spinoza-maccall-politics-1854` | have-raw (IA `atreatiseonpoli00spingoog`) |
 | The Philosophy of Spinoza, as contained in the first, second, and fifth parts of the Ethics and in extracts from the third and fourth, 2nd ed., enlarged (New York: Henry Holt, 1894) | George Stuart Fullerton | `spinoza-fullerton-philosophy-1894` | have-raw (IA `philosophyofspin01spin`) |
+| The Principles of Descartes' Philosophy, translated from the Latin, with an introduction (Chicago: Open Court, 1905) | Halbert Hains Britan | `spinoza-britan-descartes-principles-1905` | have-raw (IA `cu31924029050636`) |
 
 Pending (wishlist): Hale White's Tractatus de Intellectus Emendatione in a dated printing.
 

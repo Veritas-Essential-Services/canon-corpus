@@ -38,13 +38,19 @@
    "philosophyofspin01spin",
    "The Philosophy of Spinoza, as contained in the first, second, and fifth parts of the Ethics and in extracts from the third and fourth, 2nd ed., enlarged (New York: Henry Holt, 1894)",
    "tr. George Stuart Fullerton"
+  ],
+  "spinoza-britan-descartes-principles-1905": [
+   "cu31924029050636",
+   "The Principles of Descartes' Philosophy, translated from the Latin, with an introduction (Chicago: Open Court, 1905)",
+   "tr. Halbert Hains Britan"
   ]
  },
  "_excluded": {},
  "_translators": {
   "spinoza-willis-life-ethics-1870": "Willis",
   "spinoza-maccall-politics-1854": "Maccall",
-  "spinoza-fullerton-philosophy-1894": "Fullerton"
+  "spinoza-fullerton-philosophy-1894": "Fullerton",
+  "spinoza-britan-descartes-principles-1905": "Britan"
  },
  "_checks": {
   "spinoza-hale-white-ethic-1883": {
@@ -106,6 +112,19 @@
    "ia_rights": "ok: published 1894",
    "ia_date": "1894",
    "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "spinoza-britan-descartes-principles-1905": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spinoza",
+   "translator_claimed": "Britan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
