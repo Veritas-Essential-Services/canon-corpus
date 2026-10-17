@@ -1,0 +1,89 @@
+{
+ "_about": "Théodule Ribot (1839-1916), founder of French scientific psychology, in English: The Psychology of the Emotions (London: Walter Scott, 1897; clean Gutenberg text, translator unnamed), and raw IA OCR of Diseases of Memory, tr. William Huntington Smith (New York: Appleton, 1887), The Psychology of Attention, authorised translation, 5th revised ed. (Chicago: Open Court, 1903), and The Diseases of the Will, tr. Merwin-Marie Snell, 4th enlarged English ed. (Open Court, 1915). US public domain. No uids minted.",
+ "_author": "Théodule Ribot",
+ "_name_words": [
+  "theodule",
+  "théodule",
+  "ribot",
+  "th"
+ ],
+ "_surname": [
+  "ribot"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ribot-psychology-of-the-emotions-1897": [
+   67585,
+   "The Psychology of the Emotions (London: Walter Scott, 1897)"
+  ]
+ },
+ "internet_archive": {
+  "ribot-smith-diseases-of-memory-1887": [
+   "diseasesofmemory00ribouoft",
+   "Diseases of Memory, an essay in the positive psychology (New York: Appleton, 1887)",
+   "tr. William Huntington Smith"
+  ],
+  "ribot-psychology-of-attention-1903": [
+   "psychologyofatte00ribo",
+   "The Psychology of Attention, 5th revised ed. (Chicago: Open Court, 1903)"
+  ],
+  "ribot-snell-diseases-of-the-will-1915": [
+   "diseasesofwillau00ribo",
+   "The Diseases of the Will, 4th enlarged English ed. (Chicago: Open Court, 1915)",
+   "tr. Merwin-Marie Snell"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "ribot-smith-diseases-of-memory-1887": "Smith",
+  "ribot-snell-diseases-of-the-will-1915": "Snell"
+ },
+ "_checks": {
+  "ribot-psychology-of-the-emotions-1897": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ribot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ribot-smith-diseases-of-memory-1887": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ribot",
+   "translator_claimed": "Smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ribot-psychology-of-attention-1903": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ribot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ribot-snell-diseases-of-the-will-1915": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ribot",
+   "translator_claimed": "Snell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915 [c1894]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
