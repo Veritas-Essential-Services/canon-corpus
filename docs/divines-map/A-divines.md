@@ -5073,3 +5073,25 @@ Slugs `desales-*`. Translators: Mackey, Lear, Miles Car (1630); several title pa
 | CCEL desales/love: a 1997 TAN photographic reprint | excluded | |
 | Camus's Spirit of St Francis de Sales (PG 9184) and all Lives | excluded | |
 | printings of 1923 and later | excluded | |
+
+## François Fénelon (round 24, my pick, 2026-10-17)
+
+Slugs `fenelon-*`. Translators: Haughton (1822); the 1698, 1713 and 1796 versions are anonymous. Telemachus (fiction) and the Education of Daughters (another shelf) are left off.
+
+| Work | Status | Where |
+|---|---|---|
+| The Existence of God, anonymous translation of 1713, ed. Henry Morley (London: Cassell, 1888) | have-clean | Gutenberg 11044 |
+| Spiritual Letters of Archbishop Fénelon: Letters to Men (London: Rivingtons, MDCCCLXXVII) | have-ocr | IA `spiritualletter03fngoog` |
+| Spiritual Letters of Archbishop Fénelon: Letters to Women (London: Rivingtons, MDCCCLXXVII) | have-ocr | IA `spiritualletters00fn` |
+| Part of the Spiritual Works of the Celebrated Francis Fenelon, vol. I, tr. Richard Haughton, second edition (Dublin: C. Bentham, 1822) | have-ocr | IA `partofspiritualw01fnuoft` |
+| Part of the Spiritual Works of the Celebrated Francis Fenelon, vol. II, tr. Richard Haughton, second edition (Dublin: C. Bentham, 1822) | have-ocr | IA `partofspiritualw02fnuoft` |
+| Pious Reflections for Every Day of the Month (Leeds: J. Binns, 1796) | have-ocr | IA `bim_eighteenth-century_manuel-de-piete-englis_fenelon-francois-de-sal_1796` |
+| The Maxims of the Saints Explained, concerning the Interiour Life (London: H. Rhodes, 1698) | have-ocr | IA `bim_early-english-books-1641-1700_the-maxims-of-the-saints_fenelon-francois-de-sal_1698` |
+| Spiritual Progress, ed. James W. Metcalf (New York, 1853; CCEL fenelon/progress): Fénelon's Christian Counsel and Letters bound with Guyon and Lacombe | alternate | not shelved |
+| The Maxims of the Saints, Allenson booklet (no year; matches CCEL fenelon/maxims) | alternate | not shelved |
+| Pious Reflections (Boston, 1818); 1880 reissues of the Spiritual Letters; A Demonstration of the Existence of God (London, 1713, Boyer) | alternate | not shelved |
+| Extracts (Miss Marshall, 1809) and Reflections and Meditations (Hassard, 1864) | alternate | not shelved |
+| The Adventures of Telemachus (1699, 1872, 1896): fiction | excluded | |
+| Treatise on the Education of Daughters: already on the singles-ideas-2 shelf | excluded | |
+| Lives and studies by others | excluded | |
+| Longmans reissues of 1902-1921 | excluded | |
