@@ -194,15 +194,14 @@ What the lists still lack: Bonaventure's Mind's Road to God has no PD English tr
 
 ### Batch 8 (2026-10-10): Classical Conversations' short pieces
 
-CC's "117 must-read" list names about fifty short stories, poems, speeches and biographies. These shelves hold the PD collections they appear in; each target piece was confirmed present in its collection's text. 11 shelves, 14 texts, all checks passed.
+CC's "117 must-read" list names about fifty short stories, poems, speeches and biographies. These shelves hold the PD collections they appear in; each target piece was confirmed present in its collection's text. 10 shelves, 12 texts, all checks passed. Chekhov's The Bet (Koteliansky, 1915) is on Lane C's `koteliansky` shelf, which Lane C added the same week.
 
 | Shelf | Collection | Holds |
 |---|---|---|
 | `bierce` | Collected Works vol. 2 (In the Midst of Life); Can Such Things Be? | The Man and the Snake |
 | `maupassant` | Complete Original Short Stories (Henderson and others, 1903) | The Necklace |
 | `french-short-stories` | International Short Stories: French (Patten, 1910) | Daudet, The Last Class |
-| `chekhov-bet` | The Bet, and Other Stories (Koteliansky and Murry, 1915) | The Bet |
-| `tolstoy-tales` | Twenty-Three Tales (Maude, 1906; IA); What Men Live By (Maude) | Little Girls Wiser Than Men |
+| `tolstoy-tales` | Twenty-Three Tales (Maude, 1906; IA) | Little Girls Wiser Than Men |
 | `o-henry` | Whirligigs (1910) | The Ransom of Red Chief |
 | `helen-keller` | The Story of My Life (1903) | |
 | `henry-ford` | My Life and Work (1922) | |
