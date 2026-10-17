@@ -28,11 +28,17 @@
    "benedictdespinoz00willuoft",
    "Benedict de Spinoza: his life, correspondence, and Ethics (London: Trübner, 1870)",
    "tr. R. Willis"
+  ],
+  "spinoza-maccall-politics-1854": [
+   "atreatiseonpoli00spingoog",
+   "A Treatise on Politics, translated from the Latin (London: Holyoake, 1854)",
+   "tr. William Maccall"
   ]
  },
  "_excluded": {},
  "_translators": {
-  "spinoza-willis-life-ethics-1870": "Willis"
+  "spinoza-willis-life-ethics-1870": "Willis",
+  "spinoza-maccall-politics-1854": "Maccall"
  },
  "_checks": {
   "spinoza-hale-white-ethic-1883": {
@@ -67,6 +73,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1870",
    "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spinoza-maccall-politics-1854": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spinoza",
+   "translator_claimed": "Maccall",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
