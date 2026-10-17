@@ -1081,3 +1081,6 @@
 
 ## 2026-10-17 17:35 CDT — richard-rolle done
 - `pipeline/richard-rolle_shelf.json`: 0 CCEL, 1 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:35 CDT — julian-of-norwich done
+- `pipeline/julian-of-norwich_shelf.json`: 0 CCEL, 1 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.

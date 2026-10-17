@@ -4977,3 +4977,17 @@ Slugs `rolle-*`. Middle English editions (Harvey, Perry, Bramley) and modern ver
 | Deanesly's Incendium Amoris (1915) and the Latin Office | excluded | |
 | Benson's anthology; Comper's Life of Rolle (1928, about him) | excluded | |
 | Heseltine's Selected Works (1930) | excluded | |
+
+## Julian of Norwich (round 24, my pick, 2026-10-17)
+
+Slugs `julian-*`. Cressy's text (1843 reprint), Warrack (1901), Tyrrell's preface (1902), Harford's short text, Hudleston (1927). Fills the omnibus plan's Julian gap.
+
+| Work | Status | Where |
+|---|---|---|
+| Revelations of Divine Love, ed. Grace Warrack (London: Methuen, 1901) | have-clean | Gutenberg 52958 |
+| Sixteen Revelations of Divine Love, Cressy's text of 1670 reprinted (London: S. Clarke, 1843) | have-ocr | IA `SixteenRevelationsOfDivineLove` |
+| XVI Revelations of Divine Love shewed to Mother Juliana of Norwich, with a preface by George Tyrrell (London: Kegan Paul, 1902) | have-ocr | IA `xvirevelationsof00juliuoft` |
+| Comfortable Words for Christ's Lovers, the short text ed. Dundas Harford (London: H. R. Allenson; catalogued 1911) | have-ocr | IA `comfortablewords00juliuoft` |
+| Revelations of Divine Love, newly edited by Dom Roger Hudleston, Orchard Books (London: Burns Oates, 1927) | have-ocr | IA `revelationsofdiv0000domr_y8t1` |
+| Other 1843 copies, the Boston 1864 edition (no editor named), later Warrack editions (1907-1917) and Tyrrell's second impression (1920); CCEL julian/revelations (Warrack, 1901) and julian/comfort | alternate | not shelved |
+| Hudleston's second edition (1952) and a modern facsimile | excluded | |
