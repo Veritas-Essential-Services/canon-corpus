@@ -1,0 +1,38 @@
+{
+ "_about": "Blaise Pascal (1623-1662) in English, from Project Gutenberg: The Provincial Letters, translated by Thomas M'Crie (New York: Robert Carter and Brothers, 1856). The Pensées (Trotter) are on the Adler shelf and are not taken again. US public domain. No uids minted.",
+ "_author": "Blaise Pascal",
+ "_name_words": [
+  "blaise",
+  "pascal"
+ ],
+ "_surname": [
+  "pascal"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pascal-mcrie-provincial-letters-1856": [
+   73959,
+   "The Provincial Letters (New York: Robert Carter and Brothers, 1856)",
+   "tr. Thomas M'Crie"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "pascal-mcrie-provincial-letters-1856": "M'Crie"
+ },
+ "_checks": {
+  "pascal-mcrie-provincial-letters-1856": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pascal",
+   "translator_claimed": "M'Crie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas M'Crie",
+   "translator_match": true
+  }
+ }
+}
