@@ -1048,3 +1048,6 @@
 
 ## 2026-10-17 17:22 CDT — e-m-goulburn done
 - `pipeline/e-m-goulburn_shelf.json`: 0 CCEL, 1 PG, 21 IA. Title pages read for goulburn-personal-religion, goulburn-holy-communion-2, goulburn-acts-of-deacons, goulburn-farewell-counsels, goulburn-holy-catholic-church, goulburn-everlasting-punishment (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:23 CDT — c-j-vaughan done
+- `pipeline/c-j-vaughan_shelf.json`: 0 CCEL, 2 PG, 33 IA. Title pages read for vaughan-harrow-sundays, vaughan-revelation-2, vaughan-words-from-cross, vaughan-temple-sermons (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

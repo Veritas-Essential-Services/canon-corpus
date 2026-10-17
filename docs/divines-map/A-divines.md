@@ -4772,3 +4772,51 @@ Slugs `goulburn-*`. Thoughts on Personal Religion and his devotional books; six 
 | Other editions: Office of the Holy Communion (1864, 1867), Thoughts on Personal Religion (American 1864), Introduction to the Devotional Study of the Holy Scriptures (American 1866, 1869), Collects (Longmans, 1894), Primitive Church Teaching (1912), Short Devotional Forms (1851, partly compiled) | alternate | not shelved |
 | Edward Goulburn the elder (novels, 1810-11) and Henry Goulburn the politician | excluded | |
 | Compton's memoir (1899), a 1996 selection, and the Magee-Bradlaugh debate (Gutenberg 64503) | excluded | |
+
+## C. J. Vaughan (round 23, my pick, 2026-10-17)
+
+Slugs `vaughan-*`. Harrow and Temple sermons and his expository lectures; four OCR-garbled title pages read.
+
+| Work | Status | Where |
+|---|---|---|
+| Prospects of the Church of England (London: Bell and Daldy, 1868) | have-clean | Gutenberg 63763 |
+| The Book of Light in the Hand of Love (London: Longmans, 1872) | have-clean | Gutenberg 64471 |
+| St Paul's Epistle to the Romans, the Greek text with notes, first edition (Cambridge and London: Macmillan, M.DCCC.LIX) | have-ocr | IA `gyprsrwmaouspis00paulgoog` |
+| Sermons Preached in the Chapel of Harrow School, second series (London: John W. Parker; title-page year OCR'd MDCCCLTII, probably 1853) | have-ocr | IA `sermonspreached02vauggoog` |
+| Memorials of Harrow Sundays (London: Macmillan, MDCCCLIX) | have-ocr | IA `memorialsharrow00vauggoog` |
+| Epiphany, Lent, and Easter: Sermons, second edition enlarged (London: Macmillan, MDCCCLXI) | have-ocr | IA `epiphanylentand00vauggoog` |
+| Lessons of Life and Godliness (London: Macmillan, MDCCCLXII) | have-ocr | IA `lessonslifeandg00vauggoog` |
+| Lectures on St Paul's Epistle to the Philippians (London and Cambridge: Macmillan, 1862) | have-ocr | IA `lecturesonstpau00vauggoog` |
+| Lectures on the Revelation of St John, vol. 1 (London: Macmillan, 1863) | have-ocr | IA `lecturesonrevel02vauggoog` |
+| Lectures on the Revelation of St John, vol. 2 (London: Macmillan, 1863) | have-ocr | IA `lecturesonrevel03vauggoog` |
+| The Book and the Life, and Other University Sermons, new edition (London: Macmillan, 1864) | have-ocr | IA `MN41574ucmf_2` |
+| The Church of the First Days, I. The Church of Jerusalem (Cambridge and London: Macmillan, 1864) | have-ocr | IA `churchfirstdays01vauggoog` |
+| The Church of the First Days, II. The Church of the Gentiles (London: Macmillan, 1865) | have-ocr | IA `churchfirstdays02vauggoog` |
+| The Church of the First Days, III. The Church of the World (Cambridge and London: Macmillan, 1865) | have-ocr | IA `churchoffirstday0003cjva` |
+| Life's Work and God's Discipline: Three Sermons (London: Macmillan, 1865) | have-ocr | IA `lifesworkandgod01vauggoog` |
+| Plain Words on Christian Living (London: Alexander Strahan, 1865) | have-ocr | IA `plainwordsonchr00vauggoog` |
+| Characteristics of Christ's Teaching drawn from the Sermon on the Mount (London and New York: Alexander Strahan, 1866) | have-ocr | IA `characteristics00vauggoog` |
+| Christ the Light of the World (London and New York: Alexander Strahan, 1866) | have-ocr | IA `christlightworl00vauggoog` |
+| Voices of the Prophets: or Faith, Prayer, and Human Life (London: Alexander Strahan, 1867) | have-ocr | IA `voicesofprophets00vaug` |
+| Twelve Discourses on Subjects connected with the Liturgy and Worship of the Church of England (London: Macmillan, M.DCCC.LXVII) | have-ocr | IA `twelvediscourse01vauggoog` |
+| Foes of Faith: Four Sermons (London and Cambridge: Macmillan, 1868) | have-ocr | IA `foesoffaithfours00vaug` |
+| Lessons of the Cross and Passion: Six Lectures (London: Macmillan, 1869) | have-ocr | IA `lessonsofcrosspa00vaug` |
+| Christ Satisfying the Instincts of Humanity (London and Cambridge: Macmillan, 1870) | have-ocr | IA `christsatisfyin00vauggoog` |
+| The Presence of God in His Temple (London: Strahan, 1872) | have-ocr | IA `presencegodinhi00vauggoog` |
+| The Lord's Prayer (London: Strahan, 1875) | have-ocr | IA `lordsprayer00vauggoog` |
+| Words from the Cross; Thoughts for these Times (London: Macmillan, 1875) | have-ocr | IA `WordsFromTheCross` |
+| Addresses to Young Clergymen (London: Macmillan, 1875) | have-ocr | IA `addressestoyoung00vaug` |
+| My Son, Give Me Thine Heart: Sermons (London: Macmillan, 1878) | have-ocr | IA `mysongivemethine00vaug` |
+| Rest Awhile: Addresses to Toilers in the Ministry (London: Macmillan, 1880) | have-ocr | IA `restawhileaddres00vaug` |
+| Temple Sermons (London: Macmillan, 1881) | have-ocr | IA `templesermons00vauggoog` |
+| Authorized or Revised? Sermons on Texts in which the Revised Version differs (London: Macmillan, 1882) | have-ocr | IA `authorizedorrevi00vaugiala` |
+| St Paul's Epistle to the Philippians, with Translation, Paraphrase, and Notes for English Readers (London: Macmillan, 1885) | have-ocr | IA `stpaulsepistletophil00vaug` |
+| University Sermons New and Old, 1861-1887 (London and New York: Macmillan, 1888) | have-ocr | IA `universitysermon00vaugiala` |
+| The Prayers of Jesus Christ: a Closing Series of Lent Lectures (London and New York: Macmillan, 1891) | have-ocr | IA `prayersofjesusch00vaug` |
+| Restful Thoughts in Restless Times (London and New York: Macmillan, 1893) | have-ocr | IA `restfulthoughts00vauggoog` |
+| Gutenberg 63740, 63753, 63755, 63761: letters on the Post Office agitation, the Crystal Palace and the Harrow monitorial system (1849-1854), school and public policy | alternate | not shelved |
+| Later editions of Romans (1874, 1885), Philippians lectures (1872), Church of the First Days (1873-74), Solidity of True Religion (1876), Half-Hours in the Temple Church, Last Words at Doncaster | alternate | not shelved |
+| The Epistle to the Hebrews with Notes (1891; prosebraiousepis00vaug): English text OCR'd as Greek, unusable | alternate | not shelved |
+| Epistles of St Paul for English Readers, part 1 (1864): no title page in the scan; The Personality of the Tempter (1851): unreadable OCR | alternate | not shelved |
+| modern reprints and selections (1960-2009) | excluded | |
+| Charles Edwyn Vaughan, Henry Vaughan, Robert Vaughan, J. C. Vaughan and others | excluded | |
