@@ -1,0 +1,70 @@
+{
+ "_about": "Mary Wollstonecraft (1759-1797) as author, clean Gutenberg texts: Thoughts on the Education of Daughters (London: J. Johnson, 1787), A Vindication of the Rights of Men, 2nd ed. (London: J. Johnson; the year is not printed in the etext, 1790 inferred), A Vindication of the Rights of Woman (the etext names no printing) and An Historical and Moral View of the French Revolution (London: J. Johnson, 1794). Her translations are on the separate wollstonecraft translator shelf. US public domain. No uids minted.",
+ "_author": "Mary Wollstonecraft",
+ "_name_words": [
+  "mary",
+  "wollstonecraft"
+ ],
+ "_surname": [
+  "wollstonecraft"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wollstonecraft-education-of-daughters-1787": [
+   67466,
+   "Thoughts on the Education of Daughters (London: J. Johnson, 1787)"
+  ],
+  "wollstonecraft-rights-of-men-2nd-ed": [
+   62757,
+   "A Vindication of the Rights of Men, in a letter to Edmund Burke, 2nd ed. (London: J. Johnson, 1790, inferred)"
+  ],
+  "wollstonecraft-rights-of-woman": [
+   3420,
+   "A Vindication of the Rights of Woman (printing not named)"
+  ],
+  "wollstonecraft-french-revolution-1794": [
+   68724,
+   "An Historical and Moral View of the Origin and Progress of the French Revolution (London: J. Johnson, 1794)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "wollstonecraft-education-of-daughters-1787": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "wollstonecraft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wollstonecraft-rights-of-men-2nd-ed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "wollstonecraft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wollstonecraft-rights-of-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "wollstonecraft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wollstonecraft-french-revolution-1794": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "wollstonecraft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
