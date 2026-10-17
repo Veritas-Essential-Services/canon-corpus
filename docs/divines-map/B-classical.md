@@ -3639,6 +3639,8 @@ Shelf: `pipeline/locke_shelf.json`. John Locke (1632-1704). Clean Gutenberg: An 
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| An Essay Concerning Humane Understanding, vol. 2 (MDCXC, based on the 2nd edition) |  | `locke-essay-understanding-v2` | have (PG 10616) |
+| Some Thoughts Concerning Education, with introduction and notes by R. H. Quick, 2nd ed. (Cambridge University Press, 1889) |  | `locke-quick-thoughts-education-1889` | have-raw (IA `somethoughtsconc00lockuoft`) |
 
 Pending (wishlist): Locke's Works (1812 or 1823, 10 vols.); a dated Letters on Toleration.
 

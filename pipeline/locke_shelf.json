@@ -1,0 +1,48 @@
+{
+ "_about": "John Locke (1632-1704). Clean Gutenberg: An Essay Concerning Humane Understanding, vol. 2 (based on the 2nd edition); vol. 1 (PG 10615) and the Second Treatise (PG 7370) are on the Adler shelf. Raw IA OCR: Some Thoughts Concerning Education, ed. R. H. Quick (Cambridge, 2nd ed., 1889). Wanted: Locke's Works (11th or 12th ed., 1812/1823, 10 vols.); a dated Letters on Toleration (the Ward, Lock scan found prints no year). No uids minted.",
+ "_author": "John Locke",
+ "_name_words": [
+  "john",
+  "locke"
+ ],
+ "_surname": [
+  "locke"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "locke-essay-understanding-v2": [
+   10616,
+   "An Essay Concerning Humane Understanding, vol. 2 (MDCXC, based on the 2nd edition)"
+  ]
+ },
+ "internet_archive": {
+  "locke-quick-thoughts-education-1889": [
+   "somethoughtsconc00lockuoft",
+   "Some Thoughts Concerning Education, with introduction and notes by R. H. Quick, 2nd ed. (Cambridge University Press, 1889)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {},
+ "_checks": {
+  "locke-essay-understanding-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "locke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "locke-quick-thoughts-education-1889": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "locke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
