@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # prov: 2026-10-06 claude-opus-5-5 drafted
+# prov: 2026-10-17 claude-opus-5-5 added the treasury layer
 # fable_review: pending
 """
 build_poetry.py -- the Word Hoard poetry section: AmblesideOnline's poetry
@@ -13,22 +14,29 @@ as Mnemonicon memory packs a child can bank straight into memory work.
 
     Input:  data/poetry/selections/ao.jsonl               (AO's schedule, curated)
             data/poetry/selections/addendum-heroic.jsonl  (the house's proposals, curated)
+            data/poetry/selections/treasury.jsonl         (the candidate pool; select_treasury.py)
             data/poetry/sources.json                      (the Gutenberg books, pinned by sha256)
             data/corpus/gitenberg/<n>.txt                 (fetched; gitignored)
     Output: data/poetry/catalog-ao.jsonl                  (COMMITTED)
             data/poetry/catalog-addendum-heroic.jsonl     (COMMITTED)
-            data/poetry/texts.jsonl                       (COMMITTED; public domain only)
+            data/poetry/catalog-treasury[-N].jsonl        (COMMITTED)
+            data/poetry/texts[-N].jsonl                   (COMMITTED; public domain only)
+            A file over SHARD bytes is cut into numbered parts (texts-1.jsonl, ...) to stay
+            under the 5 MB cap; read them with read_parts().
             exports/mnemonicon/poetry/<pack>.json         (COMMITTED; one per year and term)
     Tests:  tests/poetry_test.py
 
-TWO LAYERS, ONE SHAPE
+THREE LAYERS, ONE SHAPE
     A selection row says WHERE a poem sits (layer, year, term, order) and WHAT
     it is (poet, title, first publication, the public-domain book that holds
     it). The AO layer is AmblesideOnline's schedule as AO prints it; the
     addendum is the house's own proposal set (heroic, adventurous, vocational
     verse), tagged `addendum-heroic`, with the same year/term slots so it sits
-    beside the AO list without mixing into it. A poem in both layers is ONE
-    poem: one citation, one uid, one Mnemonicon piece id.
+    beside the AO list without mixing into it. The third layer, `treasury`, is
+    the Schoolroom Treasury's candidate pool (selections written by
+    select_treasury.py): every verse candidate from the old anthologies, with
+    no year or term until Adam culls and grades it. A poem in two layers is
+    ONE poem: one citation, one uid, one Mnemonicon piece id.
 
 THE RIGHTS RULE (US, as of 1 January 2026)
     Copyright follows the edition, not the poet's death (ADR 0001). So the
@@ -87,13 +95,14 @@ _X = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(_X)
 NAMESPACE = _X.NAMESPACE          # one namespace for every Word Hoard piece: never change it
 
-LAYERS = ("ao", "addendum-heroic")
+LAYERS = ("ao", "addendum-heroic", "treasury")
 AS_OF = 2026                      # the year the rights rule is computed for
 PD_BEFORE = AS_OF - 95            # published before this year: US public domain
 LIFE70_BEFORE = AS_OF - 70        # died before this year: out of copyright in life+70 countries
 CUT_ON = "2026-10-06"             # the packs' createdAt/due; keeps them byte-identical
 LONG = 120                        # a hosted poem longer than this is split into parts
 PART = 40                         # a part holds at most about this many lines
+SHARD = 4_000_000                 # a committed JSONL larger than this is cut into numbered parts (5 MB cap)
 
 
 # ---------------------------------------------------------------------------
@@ -109,6 +118,36 @@ def read_jsonl(path):
 
 def jsonl(rows):
     return "".join(json.dumps(r, ensure_ascii=False, sort_keys=True) + "\n" for r in rows).encode("utf-8")
+
+
+def part_paths(base):
+    """The files a JSONL called `base` is committed as: base.jsonl, or base-1.jsonl, base-2.jsonl..."""
+    d, name = os.path.split(base)
+    if not os.path.isdir(d):
+        return []
+    pat = re.compile(re.escape(name) + r"(?:-(\d+))?\.jsonl$")
+    hits = [(m.group(1), f) for f in os.listdir(d) if (m := pat.fullmatch(f))]
+    return [os.path.join(d, f) for n, f in sorted(hits, key=lambda h: int(h[0] or 0))]
+
+
+def read_parts(base):
+    return [r for p in part_paths(base) for r in read_jsonl(p)]
+
+
+def sharded(base, rows):
+    """{path: blob} for `rows`: one base.jsonl when it fits under SHARD, else numbered parts of whole rows."""
+    lines = [jsonl([r]) for r in rows]
+    if sum(map(len, lines)) <= SHARD:
+        return {base + ".jsonl": b"".join(lines)}
+    parts, cur, size = [], [], 0
+    for l in lines:
+        if cur and size + len(l) > SHARD:
+            parts.append(cur)
+            cur, size = [], 0
+        cur.append(l)
+        size += len(l)
+    parts.append(cur)
+    return {f"{base}-{k}.jsonl": b"".join(c) for k, c in enumerate(parts, 1)}
 
 
 def write_atomic(path, blob):
@@ -490,6 +529,9 @@ def pack_name(row):
         y = f"y{int(y):02d}" if str(y).isdigit() else str(y)
         t = f"-t{row['term']}" if row.get("term") else ""
         return f"ao-{y}{t}"
+    if row["layer"] == "treasury":                  # one pack per source book
+        n = (row.get("pd_source") or {}).get("gutenberg")
+        return f"treasury-pg{n}"
     return f"heroic-y{int(row['year']):02d}-t{row['term']}"
 
 
@@ -501,6 +543,8 @@ def tags_for(row):
         t.append(yt)
         if row.get("term"):
             t.append(f"{yt}-t{row['term']}")
+    elif row["layer"] == "treasury":
+        t.append(f"pg{(row.get('pd_source') or {}).get('gutenberg')}")
     else:
         t.append(row.get("kind") or "heroic")
         t.append(f"year-{y}")
@@ -584,6 +628,9 @@ def build(reg, report=False):
             }
             if layer == "addendum-heroic":
                 out["status"] = "proposed"
+            if layer == "treasury":
+                out["status"] = "candidate"
+                out["pool_id"], out["n_books"] = row.get("pool_id"), row.get("n_books")
             catalogs[layer].append(out)
             if host == "full":
                 lines_n = text.count("\n") + 1
@@ -610,9 +657,12 @@ def pieces_for(cat_rows, texts, layer_title):
         src = row["pd_source"]
         fp = row.get("first_pub") or {}
         source = row["poet"] + (f", {fp['work']} ({fp['year']})" if fp.get("work") and fp.get("year") else "")
-        where = (f"AmblesideOnline Year {row['year']}" + (f", Term {row['term']}" if row.get("term") else "")
-                 if row["layer"] == "ao" else
-                 f"Heroic addendum (proposed), beside AO Year {row['year']}, Term {row['term']}")
+        if row["layer"] == "ao":
+            where = f"AmblesideOnline Year {row['year']}" + (f", Term {row['term']}" if row.get("term") else "")
+        elif row["layer"] == "treasury":
+            where = f"Schoolroom Treasury candidate, printed in {row.get('n_books')} of the pool's old anthologies"
+        else:
+            where = f"Heroic addendum (proposed), beside AO Year {row['year']}, Term {row['term']}"
         ed = f" ({src['edition_year']})" if src.get("edition_year") else ""
         base_notes = (f"{where}.\nText: {src['work']}{ed}, Project Gutenberg #{src['gutenberg']}.\n"
                       f"{row['rights']['basis']}\nWord Hoard {row['citation']} · {row['uid']}")
@@ -637,11 +687,19 @@ def pieces_for(cat_rows, texts, layer_title):
 def render_all(catalogs, texts):
     blobs = {}
     for layer, rows in catalogs.items():
-        blobs[os.path.join(DATA, f"catalog-{layer}.jsonl")] = jsonl(rows)
+        blobs.update(sharded(os.path.join(DATA, f"catalog-{layer}"), rows))
         for name, pieces in pieces_for(rows, texts, layer).items():
             blobs[os.path.join(PACKS, f"{name}.json")] = _X.render(pieces)
-    blobs[os.path.join(DATA, "texts.jsonl")] = jsonl(sorted(texts.values(), key=lambda t: t["citation"]))
+    blobs.update(sharded(os.path.join(DATA, "texts"), sorted(texts.values(), key=lambda t: t["citation"])))
     return blobs
+
+
+def built_paths():
+    """Every file a build owns, as it is now on disk: the packs and every catalog and texts part."""
+    have = {os.path.join(PACKS, f) for f in os.listdir(PACKS)} if os.path.isdir(PACKS) else set()
+    for base in [f"catalog-{l}" for l in LAYERS] + ["texts"]:
+        have.update(part_paths(os.path.join(DATA, base)))
+    return have
 
 
 def main():
@@ -670,18 +728,15 @@ def main():
     if a.check:
         reg.assert_no_mint()
         stale = [os.path.relpath(p, ROOT) for p, b in blobs.items() if not os.path.exists(p) or open(p, "rb").read() != b]
-        have = {os.path.join(PACKS, f) for f in os.listdir(PACKS)} if os.path.isdir(PACKS) else set()
-        extra = sorted(os.path.relpath(p, ROOT) for p in have - set(blobs))
+        extra = sorted(os.path.relpath(p, ROOT) for p in built_paths() - set(blobs))
         if stale or extra:
             raise SystemExit(f"CHECK FAILED: differs from committed: {stale} extra: {extra}")
         print("  CHECK PASSED: minted 0, output byte-identical.")
         return
     if a.report:
         return
-    if os.path.isdir(PACKS):
-        for f in os.listdir(PACKS):
-            if os.path.join(PACKS, f) not in blobs:
-                os.remove(os.path.join(PACKS, f))
+    for p in built_paths() - set(blobs):
+        os.remove(p)
     for p, b in blobs.items():
         write_atomic(p, b)
     reg.save()
