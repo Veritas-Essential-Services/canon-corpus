@@ -1080,3 +1080,6 @@
 
 ## 2026-10-17 17:45 CDT — eleanor-porter: done
 - eleanor-porter: completed, 11 more Gutenberg books (14 on the shelf), 28,645 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:45 CDT — aldrich: done
+- aldrich: completed, 15 more Gutenberg books (16 on the shelf), 6,125 units, 59 ~2 ids; verify 0 mismatches, 0 rights flags.

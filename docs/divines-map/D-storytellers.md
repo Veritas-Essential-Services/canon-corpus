@@ -3403,11 +3403,26 @@ Shelf: `pipeline/mark-twain_shelf.json` (2026-10-02; added at the coordinator's 
 
 ## Thomas Bailey Aldrich
 
-Shelf: `pipeline/aldrich_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). His New England boyhood told as a story; cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/aldrich_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories, sketches and poems. All 16 of Thomas Bailey Aldrich's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Story of a Bad Boy | have | PG 1948, `aldrich-story-of-a-bad-boy` (998 units) |
+| The Sisters' Tragedy, with Other Poems, Lyrical and Dramatic | have | PG 595, `aldrich-sisters-tragedy-with-other-poems-lyrical-and-dramati` (269 units) |
+| Marjorie Daw | have | PG 1758, `aldrich-marjorie-daw` (88 units) |
+| Wyndham Towers | have | PG 1830, `aldrich-wyndham-towers` (43 units) |
+| The Stillwater Tragedy | have | PG 5435, `aldrich-stillwater-tragedy` (1684 units) |
+| The Queen of Sheba, and My Cousin the Colonel | have | PG 5705, `aldrich-queen-of-sheba-and-my-cousin-the-colonel` (1172 units) |
+| The Little Violinist | have | PG 23355, `aldrich-little-violinist` (47 units) |
+| A Struggle For Life | have | PG 23356, `aldrich-a-struggle-for-life` (71 units) |
+| Miss Mehetabel's Son | have | PG 23357, `aldrich-miss-mehetabels-son` (133 units) |
+| A Rivermouth Romance | have | PG 23358, `aldrich-a-rivermouth-romance` (191 units) |
+| Quite So | have | PG 23359, `aldrich-quite-so` (96 units) |
+| Our New Neighbors At Ponkapog | have | PG 23360, `aldrich-our-new-neighbors-at-ponkapog` (30 units) |
+| Père Antoine's Date-Palm | have | PG 23361, `aldrich-p-re-antoines-date-palm` (57 units) |
+| Mademoiselle Olympe Zabriski | have | PG 23362, `aldrich-mademoiselle-olympe-zabriski` (70 units) |
+| A Midnight Fantasy | have | PG 23363, `aldrich-a-midnight-fantasy` (127 units) |
+| Daisy's Necklace, and What Came of It | have | PG 30668, `aldrich-daisys-necklace-and-what-came-of-it` (1049 units) |
 
 ## Ernest Thompson Seton
 

@@ -272,7 +272,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `ballantyne` | 88 Gutenberg | 0 | 114,526 | Adventure stories for boys; many describe peoples in the terms of their time. Completed 2026-10-17: 86 more books added, every English text by R. M. Ballantyne at Gutenberg that no other shelf holds. |
 | `martha-finley` | 38 Gutenberg | 0 | 71,016 | The Elsie and Mildred books and other stories for girls. Completed 2026-10-17: 35 more books added, every English text by Martha Finley at Gutenberg that no other shelf holds. |
 | `mark-twain` | 5 Gutenberg | 0 | 7,094 | The Adventures of Tom Sawyer (Hartford, 1876), Adventures of Huckleberry Finn, The Prince and the Pauper, Tom Sawyer Abroad, Tom Sawyer, Detective. Huckleberry Finn prints racial slurs in its characters' speech and is kept as printed. |
-| `aldrich` | 1 Gutenberg | 0 | 998 | The Story of a Bad Boy (undated in the text). |
+| `aldrich` | 16 Gutenberg | 0 | 6,125 | Stories, sketches and poems. Completed 2026-10-17: 15 more books added, every English text by Thomas Bailey Aldrich at Gutenberg that no other shelf holds. |
 | `seton` | 14 Gutenberg | 0 | 13,104 | Animal stories and woodcraft tales. Completed 2026-10-17: 11 more books added, every English text by Ernest Thompson Seton at Gutenberg that no other shelf holds. |
 | `charles-g-d-roberts` | 29 Gutenberg | 0 | 19,213 | Animal stories, romances and poems. Completed 2026-10-17: 27 more books added, every English text by Charles G. D. Roberts at Gutenberg that no other shelf holds. |
 | `jack-london` | 2 Gutenberg | 0 | 1,405 | The Call of the Wild, White Fang (both undated in the text). |
