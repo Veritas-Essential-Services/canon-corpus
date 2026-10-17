@@ -4392,3 +4392,39 @@ Slugs `vincent-*`. All four volumes of Word Studies in the New Testament, the IC
 | His Dante's Inferno with commentary (Scribner's, 1904) and his share of Bengel's Gnomon, vol. I, with Charlton T. Lewis (1862): translations | alternate | not shelved |
 | In the Shadow of the Pyrenees (travel), The Classics in Education, a New-York Historical Society address and a memorial of Col. Kendrick | excluded | |
 | Eerdmans and later reprints of Word Studies (some catalogued 1887 in error), a 1950 T. & T. Clark ICC impression catalogued 1897, 2008 reprint | excluded | |
+
+## J. R. Macduff (round 22, my pick, 2026-10-17)
+
+Slugs `macduff-*`. Only books that name him on the title page are shelved; 16 anonymous ones, among them Morning and Night Watches, wait in alternates.
+
+| Work | Status | Where |
+|---|---|---|
+| The Mind of Jesus (New York: Robert Carter, 1860) | have-clean | Gutenberg 28507 |
+| Memories of Bethany (New York: Robert Carter, 1861) | have-clean | Gutenberg 26760 |
+| The Hart and the Water-Brooks: a practical exposition of the forty-second Psalm (London: James Nisbet, M.DCCC.LX) | have-clean | Gutenberg 42360 |
+| The Cities of Refuge; or, the Name of Jesus (New York: Robert Carter, 1865) | have-clean | Gutenberg 25459 |
+| Memories of Gennesaret (London: James Nisbet, M.DCCC.LVIII) | have-ocr | IA `memoriesgennesa00macdgoog` |
+| Sunsets on the Hebrew Mountains (New York: Robert Carter & Brothers; catalogued 1862) | have-ocr | IA `sunsetsonhebrewm00macd` |
+| The Prophet of Fire; or, the Life and Times of Elijah (London: James Nisbet, M.DCCC.LXIV) | have-ocr | IA `prophetoffireorl0000macd` |
+| The Shepherd and His Flock (New York: Robert Carter & Brothers, 1866) | have-ocr | IA `shepherdhisflock00macd` |
+| Memories of Olivet (London: James Nisbet, 1868) | have-ocr | IA `memoriesolivet00macdgoog` |
+| Memories of Patmos; or, Some of the Great Words and Visions of the Apocalypse (London: James Nisbet, MDCCCLXXI) | have-ocr | IA `memoriespatmoso00macdgoog` |
+| Saint Paul in Rome: sermons preached in Rome in the spring of 1871, fourth thousand (London: James Nisbet, MDCCCLXXII) | have-ocr | IA `saintpaulinromeo00macd` |
+| "Comfort ye, comfort ye": or, The Harp Taken from the Willows (London: James Nisbet, MDCCCLXXII) | have-ocr | IA `comfortyecomfor00macdgoog` |
+| The Healing Waters of Israel; or, the Story of Naaman the Syrian (London: James Nisbet, MDCCCLXXIII) | have-ocr | IA `healingwatersis00naamgoog` |
+| Clefts of the Rock; or, the Believer's Grounds of Confidence in Christ (London: James Nisbet; catalogued 1874) | have-ocr | IA `cleftsrockorbel00macdgoog` |
+| The Footsteps of St Peter: being the Life and Times of the Apostle (London: James Nisbet, 1877) | have-ocr | IA `footstepsstpete00macdgoog` |
+| Eventide at Bethel; or, the Night-Dream of the Desert (London: James Nisbet; catalogued 1878) | have-ocr | IA `eventideatbethe00macdgoog` |
+| Family Prayers (New York: Robert Carter & Brothers, 1878) | have-ocr | IA `familyprayers00macd` |
+| In Christo; or, the Monogram of St. Paul (London: James Nisbet, MDCCCLXXX) | have-ocr | IA `inchristoormonog00macd` |
+| Early Graves: a book for the bereaved (London: James Nisbet; catalogued 1883) | have-ocr | IA `earlygravesaboo00macdgoog` |
+| Communion Memories (London: James Nisbet, MDCCCLXXXV) | have-ocr | IA `communionmemorie00macd` |
+| St. Paul in Athens: the City and the Discourse (London: James Nisbet, MDCCCLXXXVII) | have-ocr | IA `stpaulinathensci00macd` |
+| Gloria Patri: a book of private prayer for morning and evening (London, Edinburgh, New York: T. Nelson, 1890) | have-ocr | IA `gloriapatriaboo00macdgoog` |
+| Title pages with no name, attributed to him only by catalogues or by 'by the author of' chains: The Exiles of Lucerna (1841), The Great Journey (1850), The Morning Watches and Night Watches (1853), The Words of Jesus (PG 28547), Wells of Baca (1854), The Footsteps of St. Paul (1855), The Little Child's Book of Divinity (PG 52001), Evening Incense (PG 50916), The Faithful Promiser (PG 27344), The Story of Bethlehem, Grapes of Eshcol, The Thoughts of God, The Gates of Prayer, A Golden Sunset, Palms of Elim, Gleams from the Sick Chamber | alternate | not shelved |
+| Scans of the Gutenberg texts (memoriesbethany01macdgoog, mindofjesusmac00macd, citiesrefugeorn00macdgoog, hartwaterbrooksp00macd) and TheFootstepsOfStPeter | alternate | not shelved |
+| Gates of Praise, Curfew Chimes, Knocking, The Story of Jesus in Verse: verse, title pages unread | alternate | not shelved |
+| The Bow in the Cloud; and the First Bereavement (New York: Carter, 1864; bowincloudandfi00macdgoog): no name found in the OCR's first 20 KB, so not shelved | alternate | not shelved |
+| Fergus Morton (fiction), The Parish of Taxwood (sketches), The Story of a Dewdrop (PG 19809) and The Story of a Shell (children's allegories) | excluded | |
+| The Footsteps of Jesus and The Christian's Pathway ('by the author of The Faithful Witness', not his), The Soldiers' Text-Book (a compilation), his daughter's Reminiscences (1896), The Golden Gospel (his introduction) | excluded | |
+| reprints of 1956-2001 | excluded | |

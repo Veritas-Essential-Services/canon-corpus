@@ -1015,3 +1015,6 @@
 
 ## 2026-10-17 17:22 CDT — marvin-r-vincent done
 - `pipeline/marvin-r-vincent_shelf.json`: 0 CCEL, 1 PG, 24 IA. Title pages read for vincent-faith-and-character, vincent-two-prodigals, vincent-monster-higher-critic, vincent-ministers-handbook, vincent-debt-of-power (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — j-r-macduff done
+- `pipeline/j-r-macduff_shelf.json`: 0 CCEL, 4 PG, 18 IA. Title pages read for macduff-memories-gennesaret, macduff-sunsets-hebrew-mountains, macduff-shepherd-and-flock, macduff-footsteps-st-peter, macduff-eventide-at-bethel, macduff-early-graves (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
