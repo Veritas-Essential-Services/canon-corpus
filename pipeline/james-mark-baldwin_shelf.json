@@ -1,0 +1,33 @@
+{
+ "_about": "James Mark Baldwin (1861-1934), philosopher and psychologist: The Story of the Mind (New York: Appleton, 1905 printing, copyright 1898), clean Gutenberg text. Not the baldwin shelf. US public domain. No uids minted.",
+ "_author": "James Mark Baldwin",
+ "_name_words": [
+  "james",
+  "mark",
+  "baldwin"
+ ],
+ "_surname": [
+  "baldwin",
+  "james mark baldwin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "baldwin-story-of-the-mind-1905": [
+   20522,
+   "The Story of the Mind (New York: Appleton, 1905)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "baldwin-story-of-the-mind-1905": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "baldwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
