@@ -4361,6 +4361,43 @@ Slugs `dixon-*`. Six books of his own; The Fundamentals and conference volumes h
 | Bounds's Power Through Prayer (PG 65115): his introduction only | excluded | |
 | lending-only scans of 1960-1988 | excluded | |
 | A. C. Dixon the mathematician and others | excluded | |
+
+## Marvin R. Vincent (round 22, my pick, 2026-10-17)
+
+Slugs `vincent-*`. All four volumes of Word Studies in the New Testament, the ICC Philippians and Philemon, and his sermons.
+
+| Work | Status | Where |
+|---|---|---|
+| Amusement: A Force in Christian Training (Troy, N.Y.: Wm. H. Young, 1867) | have-clean | Gutenberg 25018 |
+| Word Studies in the New Testament, vol. I: the Synoptic Gospels, Acts, Peter, James and Jude (New York: Scribner's, 1887) | have-ocr | IA `wordstudiesinnew0001vinc` |
+| Word Studies in the New Testament, vol. II: the Writings of John (New York: Scribner's, 1889) | have-ocr | IA `wordstudiesinne04vincgoog` |
+| Word Studies in the New Testament, vol. III: the Epistles of Paul (New York: Scribner's, 1900 printing, copyright 1890) | have-ocr | IA `cu31924092322548` |
+| Word Studies in the New Testament, vol. IV: Thessalonians, Galatians, the Pastoral Epistles, Hebrews (New York: Scribner's, 1900) | have-ocr | IA `cu31924092322555` |
+| Gates into the Psalm-Country (New York: Scribner's, 1878) | have-ocr | IA `gatesintopsalmco00vincrich` |
+| Faith and Character (New York: Scribner's, 1880) | have-ocr | IA `faithcharacter00vinc` |
+| God and Bread, with Other Sermons (New York: Dodd, Mead, 1884) | have-ocr | IA `godbreadwithothe00vinc` |
+| The Two Prodigals (New York: Anson D. F. Randolph, copyright 1876) | have-ocr | IA `twoprodigals00vinc` |
+| Why Should I Join the Church? (New York: Anson D. F. Randolph, copyright 1879) | have-ocr | IA `whyshouldijoinch00vinc` |
+| Stranger and Guest, his collected tracts (New York: Anson D. F. Randolph; no year on the title page, catalogued 1879) | have-ocr | IA `strangerguest0000unse` |
+| The Ministers' Handbook (New York: Anson D. F. Randolph, copyright 1882) | have-ocr | IA `ministershandboo00vinc` |
+| Christ as a Teacher: Two Lectures (New York: Anson D. F. Randolph, copyright 1886) | have-ocr | IA `christasteacher00vinc` |
+| The Covenant of Peace (New York: Anson D. F. Randolph, copyright 1887) | have-ocr | IA `covenantofpeace00vinc` |
+| Exegesis, an address at the opening of the autumn term of Union Theological Seminary, 24 September 1891 (New York: Scribner's, 1891) | have-ocr | IA `exegisisaddressd00vinc` |
+| Student's New Testament Handbook (New York: Scribner's, 1893) | have-ocr | IA `studentsnewtesta00vinc` |
+| Biblical Inspiration and Christ (New York: Anson D. F. Randolph, copyright 1894) | have-ocr | IA `biblicalinspirat00vinc` |
+| That Monster, the Higher Critic (New York: Anson D. F. Randolph, copyright 1894) | have-ocr | IA `thatmonsterhighe00vinc` |
+| The Age of Hildebrand, Ten Epochs of Church History vol. V (New York: The Christian Literature Co., MDCCCXCVI) | have-ocr | IA `ageofhildebrand00vinc` |
+| A Critical and Exegetical Commentary on the Epistles to the Philippians and to Philemon, International Critical Commentary (New York: Scribner's, 1897) | have-ocr | IA `criticalexegetic0000vinc_t9b5` |
+| A History of the Textual Criticism of the New Testament (New York and London: Macmillan, 1899) | have-ocr | IA `cu31924029305063` |
+| Our National Discipline, a Thanksgiving sermon (Troy: A. W. Scribner, printer, 1863) | have-ocr | IA `ournationaldisci00vinc` |
+| The Lord of War and of Righteousness (Troy, 1864) | have-ocr | IA `lordofwarofright00vinc` |
+| A Sermon on the Assassination of Abraham Lincoln, second edition (Troy, 1865) | have-ocr | IA `sermononassassin00vinc` |
+| The Debt of Power, baccalaureate sermon at Columbia (1892) | have-ocr | IA `debtofpowerbacca00vincrich` |
+| Other Scribner's printings of Word Studies: cu31924092322522 (vol. I, 1900), cu31924092322530 (vol. II, 1897), wordstudiesinnew03vinc, wordstudiesinne03vincgoog, wordstudiesinnew0003vinc (vol. III, 1901-1905), wordstudiesinnew04vinc (vol. IV, 1900) | alternate | not shelved |
+| Second copies: gatesintopsalmc01vincgoog (1878), textualcriticism00vincuoft (1899), amusementaforce00vincgoog (scan of the Gutenberg text) | alternate | not shelved |
+| His Dante's Inferno with commentary (Scribner's, 1904) and his share of Bengel's Gnomon, vol. I, with Charlton T. Lewis (1862): translations | alternate | not shelved |
+| In the Shadow of the Pyrenees (travel), The Classics in Education, a New-York Historical Society address and a memorial of Col. Kendrick | excluded | |
+| Eerdmans and later reprints of Word Studies (some catalogued 1887 in error), a 1950 T. & T. Clark ICC impression catalogued 1897, 2008 reprint | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
