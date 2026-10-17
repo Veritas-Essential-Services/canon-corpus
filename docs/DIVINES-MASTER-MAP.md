@@ -13921,6 +13921,40 @@ Round 49 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | ferrer-30174: Fernández Bolívar's Mathematical-Historical Principles: author born 1923, so a modern work. | — | — | excluded | — |
 | — | — | cunningham-28921: Nicole's Essay on True and Apparent Beauty: J. V. Cunningham translated it for the Augustan Reprint Society in 1950, so it is not a pre-1931 printing. | — | — | excluded | — |
 
+## One-off translations: the last of the single-translator list (Calthrop's Sun Tzu, Bose and Saha's Principle of Relativity, Renouf's Book of the Dead, Tocqueville's Old Regime, Life of Pasteur, Gautier, Rolland, Duhamel, Claudel)
+
+Shelf: `pipeline/singles-remainder_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-remainder` · titles `python3 pipeline/split_shelf_titles.py singles-remainder`.
+Round 52 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `singles-remainder-anon-the-egyptian-book-of-the-dead` | Ancient Egyptian funerary texts (anonymous) | The Egyptian Book of the dead | P. Le Page Renouf and Edouard Naville | (see the Gutenberg header) | have | PG 69566 |
+| `singles-remainder-anon-the-taleef-shereef` | anonymous (an Indian materia medica in Persian) | The Taleef Shereef; Or, Indian Materia Medica | George Playfair | (see the Gutenberg header) | have | PG 53755 |
+| `singles-remainder-boschere-the-city-curious` | Jean de Boschère | The City Curious | F. Tennyson Jesse | (see the Gutenberg header) | have | PG 32406 |
+| `singles-remainder-bull-fridtjof-nansen` | Jacob B. Bull | Fridtjof Nansen: A Book for the Young | M. R. Barnard | (see the Gutenberg header) | have | PG 38026 |
+| `singles-remainder-claudel-the-east-i-know` | Paul Claudel | The East I know | Teresa Frances Benét and William Rose Benét | (see the Gutenberg header) | have | PG 70971 |
+| `singles-remainder-duhamel-civilisation-1914-1918` | Georges Duhamel | Civilisation 1914-1918 | T. P. Conwell-Evans | (see the Gutenberg header) | have | PG 68774 |
+| `singles-remainder-einstein-the-principle-of-relativity` | Albert Einstein and H. Minkowski | The Principle of Relativity | Satyendranath Bose and Meghnad Saha | (see the Gutenberg header) | have | PG 66944 |
+| `singles-remainder-gautier-my-household-of-pets` | Théophile Gautier | My household of pets | Susan Coolidge | (see the Gutenberg header) | have | PG 65665 |
+| `singles-remainder-gautier-wanderings-in-spain` | Théophile Gautier | Wanderings in Spain | Thomas Robert McQuoid | (see the Gutenberg header) | have | PG 52763 |
+| `singles-remainder-guiccioli-my-recollections-of-lord-byron` | Teresa Guiccioli | My Recollections of Lord Byron | Hubert E. H. Jerningham | (see the Gutenberg header) | have | PG 25977 |
+| `singles-remainder-guizot-meditations-and-moral-sketches` | François Guizot | Meditations and Moral Sketches | John Butler Ormonde | (see the Gutenberg header) | have | PG 60705 |
+| `singles-remainder-hammer-purgstall-the-history-of-the-assassins-derived-fro` | Joseph Hammer-Purgstall | The History of the Assassins, Derived from Oriental Sources | Oswald Charles Wood | (see the Gutenberg header) | have | PG 53023 |
+| `singles-remainder-hurgronje-the-holy-war-made-in-germany` | C. Snouck Hurgronje | The holy war "made in Germany" | Joseph E. Gillet | (see the Gutenberg header) | have | PG 69537 |
+| `singles-remainder-khayyam-the-sufism-of-the-rubaiyat-or-the-secret` | Omar Khayyam | The Sufism of the Rubáiyát, or, the Secret of the Great Paradox | Norton F. W. Hazeldine | (see the Gutenberg header) | have | PG 50619 |
+| `singles-remainder-mauclair-auguste-rodin` | Camille Mauclair | Auguste Rodin: The Man - His Ideas - His Works | Clementina Black | (see the Gutenberg header) | have | PG 50665 |
+| `singles-remainder-muhlen-fairy-tales-for-workers-children` | Hermynia Zur Mühlen | Fairy Tales for Workers' Children | Ida Dailes | (see the Gutenberg header) | have | PG 66687 |
+| `singles-remainder-o-rell-jonathan-and-his-continent` | Max O'Rell and Jack Allyn | Jonathan and His Continent: Rambles Through American Society | Mary Bartlett Blouët | (see the Gutenberg header) | have | PG 34679 |
+| `singles-remainder-perelaer-ran-away-from-the-dutch` | M. T. H. Perelaer | Ran away from the Dutch | Maurice Blok | (see the Gutenberg header) | have | PG 71401 |
+| `singles-remainder-reventlow-the-vampire-of-the-continent` | E. Reventlow | The Vampire of the Continent | Georges Chatterton-Hill | (see the Gutenberg header) | have | PG 66468 |
+| `singles-remainder-rolland-above-the-battle` | Romain Rolland | Above the Battle | C. K. Ogden | (see the Gutenberg header) | have | PG 32779 |
+| `singles-remainder-saintine-the-solitary-of-juan-fernandez-or-the-re` | X.-B. Saintine | The Solitary of Juan Fernandez, or the Real Robinson Crusoe | Anne Topan Wilbur Wood | (see the Gutenberg header) | have | PG 11441 |
+| `singles-remainder-sunzi-the-book-of-war` | Sunzi and Qi Wu | The Book of War: The Military Classic of the Far East The Articles of Suntzu; The Sayings of Wutzu | Everard Ferguson Calthrop | (see the Gutenberg header) | have | PG 44024 |
+| `singles-remainder-tcheng-chin-chin` | Ki-tong Tcheng | Chin-Chin; Or, The Chinaman at Home | Robert Harborough Sherard | (see the Gutenberg header) | have | PG 58371 |
+| `singles-remainder-tocqueville-the-state-of-society-in-france-before-th` | Alexis de Tocqueville | The State of Society in France Before the Revolution of 1789 And the Causes Which Led to That Event | Henry Reeve | (see the Gutenberg header) | have | PG 54187 |
+| `singles-remainder-unknown-the-descent-of-the-sun` | F. W. Bain (presented as from a Sanskrit manuscript) | The descent of the sun: A cycle of birth | F. W. Bain | (see the Gutenberg header) | have | PG 68641 |
+| `singles-remainder-vallery-radot-the-life-of-pasteur` | René Vallery-Radot | The life of Pasteur | R. L. Devonshire | (see the Gutenberg header) | have | PG 60956 |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

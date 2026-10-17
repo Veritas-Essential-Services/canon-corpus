@@ -3296,6 +3296,14 @@
       "finished": "2026-10-17T16:47-05:00",
       "scope": "Period IA scans for the HTML-only _pending titles on singles-science-2, singles-science-craft, singles-arts-miscellany; PD printings before 1931 only; no minting",
       "notes": "+9 titles (Principia, Menabrea/Lovelace, Einstein, Gauss, Klein, Planck x3, Van Gogh). Ramus still pending. See DIGEST-C round 51. No uids minted."
+    },
+    {
+      "id": "shelf-singles-remainder",
+      "status": "done",
+      "started": "2026-10-17T16:54-05:00",
+      "finished": "2026-10-17T16:54-05:00",
+      "scope": "TRANSLATOR SHELF (round 52, lane C's choice; Adam may veto) -- singles-remainder; PD printings before 1931 only; no minting",
+      "notes": "26 titles; ids checked across all branches. See DIGEST-C round 52. No uids minted."
     }
   ]
 }
