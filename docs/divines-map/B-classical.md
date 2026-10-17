@@ -3716,6 +3716,10 @@ Shelf: `pipeline/comte_shelf.json`. Auguste Comte (1798-1857) in English, raw IA
 | The Positive Philosophy of Auguste Comte, freely translated and condensed, vol. I (Bohn; London: George Bell, 1896) | Harriet Martineau | `comte-martineau-positive-philosophy-1896-v1` | have-raw (IA `positivephilosop01comt`) |
 | The Positive Philosophy of Auguste Comte, vol. II (Bohn; London: George Bell, 1896) | Harriet Martineau | `comte-martineau-positive-philosophy-1896-v2` | have-raw (IA `positivephilosop02comt`) |
 | The Positive Philosophy of Auguste Comte, vol. III (Bohn; London: George Bell, 1896) | Harriet Martineau | `comte-martineau-positive-philosophy-1896-v3` | have-raw (IA `positivephilosop03comt`) |
+| System of Positive Polity, vol. I: the General View of Positivism and introductory principles (London: Longmans, Green, 1875) | John Henry Bridges | `comte-polity-1875-v1` | have-raw (IA `cu31924092570591`) |
+| System of Positive Polity, vol. II: social statics, or the abstract theory of human order (London: Longmans, Green, 1875) | Frederic Harrison | `comte-polity-1875-v2` | have-raw (IA `cu31924092570609`) |
+| System of Positive Polity, vol. III: social dynamics (London: Longmans, Green, 1876) | Edward Spencer Beesly and others | `comte-polity-1876-v3` | have-raw (IA `cu31924092570617`) |
+| System of Positive Polity, vol. IV: the theory of the future of man, with an appendix of early essays (London: Longmans, Green, 1877) | Richard Congreve | `comte-polity-1877-v4` | have-raw (IA `cu31924092570625`) |
 
 ## Perseus census (overflow)
 
