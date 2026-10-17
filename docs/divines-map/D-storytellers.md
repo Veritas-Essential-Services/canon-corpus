@@ -6002,6 +6002,87 @@ Shelf: `pipeline/anthony-hope_shelf.json` (2026-10-17; added at the coordinator'
 | Dialogue | have | PG 67645, `ahope-dialogue` (56 units) |
 | ahope-index | excluded | PG 58478 is David Widger's index, not a text |
 
+## Laura Lee Hope
+
+Shelf: `pipeline/laura-lee-hope_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series for young children (Bobbsey Twins, Bunny Brown, Outdoor Girls); Stratemeyer Syndicate house name. Every English text under the name at Gutenberg that no other shelf holds (73 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Bobbsey Twins in the Country | have | PG 714, `llhope-bobbsey-twins-in-the-country` (1706 units) |
+| The Bobbsey Twins at School | have | PG 737, `llhope-bobbsey-twins-at-school` (1445 units) |
+| The Outdoor Girls at Rainbow Lake; Or, The Stirring Cruise of the Motor Boat Gem | have | PG 4987, `llhope-outdoor-girls-at-rainbow-lake` (1571 units) |
+| The Outdoor Girls at Wild Rose Lodge; Or, The Hermit of Moonlight Falls | have | PG 4988, `llhope-outdoor-girls-at-wild-rose-lodge` (1183 units) |
+| The Bobbsey Twins in Washington | have | PG 5617, `llhope-bobbsey-twins-in-washington` (1557 units) |
+| Bunny Brown and His Sister Sue | have | PG 5732, `llhope-bunny-brown-and-his-sister-sue` (1763 units) |
+| The Story of a Lamb on Wheels | have | PG 5804, `llhope-story-of-a-lamb-on-wheels` (564 units) |
+| The Story of a Calico Clown | have | PG 5845, `llhope-story-of-a-calico-clown` (573 units) |
+| The Bobbsey Twins on a Houseboat | have | PG 5948, `llhope-bobbsey-twins-on-a-houseboat` (1649 units) |
+| The Bobbsey Twins in the Great West | have | PG 5952, `llhope-bobbsey-twins-in-the-great-west` (1483 units) |
+| The Bobbsey Twins at Snow Lodge | have | PG 6055, `llhope-bobbsey-twins-at-snow-lodge` (1333 units) |
+| The Story of a Bold Tin Soldier | have | PG 6307, `llhope-story-of-a-bold-tin-soldier` (598 units) |
+| The Story of a White Rocking Horse | have | PG 6324, `llhope-story-of-a-white-rocking-horse` (564 units) |
+| The Bobbsey Twins at Meadow Brook | have | PG 6576, `llhope-bobbsey-twins-at-meadow-brook` (1631 units) |
+| The Bobbsey Twins at the Seashore | have | PG 6950, `llhope-bobbsey-twins-at-the-seashore` (1207 units) |
+| The Outdoor Girls in Army Service; Or, Doing Their Bit for the Soldier Boys | have | PG 7494, `llhope-outdoor-girls-in-army-service` (1386 units) |
+| The Outdoor Girls of Deepdale; Or, camping and tramping for fun and health | have | PG 10465, `llhope-outdoor-girls-of-deepdale` (1624 units) |
+| The Outdoor Girls at the Hostess House; Or, Doing Their Best for the Soldiers | have | PG 14136, `llhope-outdoor-girls-at-the-hostess-house` (1497 units) |
+| Six little Bunkers at Grandma Bell's | have | PG 14623, `llhope-six-little-bunkers-at-grandma-bells` (1802 units) |
+| The Bobbsey Twins in a Great City | have | PG 15169, `llhope-bobbsey-twins-in-a-great-city` (1721 units) |
+| The Bobbsey Twins at the County Fair | have | PG 16756, `llhope-bobbsey-twins-at-the-county-fair` (1453 units) |
+| Bunny Brown and His Sister Sue Playing Circus | have | PG 16956, `llhope-bunny-brown-and-his-sister-sue-playing-circus` (1925 units) |
+| The Story of a Plush Bear | have | PG 17064, `llhope-story-of-a-plush-bear` (618 units) |
+| Bunny Brown and His Sister Sue on an Auto Tour | have | PG 17095, `llhope-bunny-brown-and-his-sister-sue-on-an-auto-tour` (1721 units) |
+| Bunny Brown and His Sister Sue at Camp Rest-A-While | have | PG 17096, `llhope-bunny-brown-and-his-sister-sue-at-camp-rest-a-while` (1800 units) |
+| Bunny Brown and His Sister Sue in the Big Woods | have | PG 17097, `llhope-bunny-brown-and-his-sister-sue-in-the-big-woods` (1797 units) |
+| The Moving Picture Girls Under the Palms Or Lost in the Wilds of Florida | have | PG 17118, `llhope-moving-picture-girls-under-the-palms-or-lost-in-the-w` (1722 units) |
+| The Story of a Candy Rabbit | have | PG 17276, `llhope-story-of-a-candy-rabbit` (610 units) |
+| The Story of a Monkey on a Stick | have | PG 17277, `llhope-story-of-a-monkey-on-a-stick` (638 units) |
+| The Bobbsey Twins Or, Merry Days Indoors and Out | have | PG 17412, `llhope-bobbsey-twins` (1510 units) |
+| Six little Bunkers at Cousin Tom's | have | PG 17492, `llhope-six-little-bunkers-at-cousin-toms` (1728 units) |
+| The Story of a Nodding Donkey | have | PG 17679, `llhope-story-of-a-nodding-donkey` (653 units) |
+| Six little Bunkers at Grandpa Ford's | have | PG 17761, `llhope-six-little-bunkers-at-grandpa-fords` (1770 units) |
+| Bunny Brown and his Sister Sue Giving a Show | have | PG 17878, `llhope-bunny-brown-and-his-sister-sue-giving-a-show` (1588 units) |
+| The Bobbsey Twins at Home | have | PG 18420, `llhope-bobbsey-twins-at-home` (1700 units) |
+| Bunny Brown and His Sister Sue Keeping Store | have | PG 18421, `llhope-bunny-brown-and-his-sister-sue-keeping-store` (1709 units) |
+| Six little Bunkers at Mammy June's | have | PG 18461, `llhope-six-little-bunkers-at-mammy-junes` (1630 units) |
+| The Moving Picture Girls at Sea or, A Pictured Shipwreck That Became Real | have | PG 18699, `llhope-moving-picture-girls-at-sea` (1442 units) |
+| The Moving Picture Girls; Or, First Appearances in Photo Dramas | have | PG 19171, `llhope-moving-picture-girls` (1702 units) |
+| The Outdoor Girls on Pine Island; Or, A Cave and What It Contained | have | PG 19294, `llhope-outdoor-girls-on-pine-island` (1857 units) |
+| The Outdoor Girls at Ocean View; Or, The Box That Was Found in the Sand | have | PG 19295, `llhope-outdoor-girls-at-ocean-view` (1830 units) |
+| The Outdoor Girls in Florida; Or, Wintering in the Sunny South | have | PG 19311, `llhope-outdoor-girls-in-florida` (1748 units) |
+| The Outdoor Girls in the Saddle; Or, The Girl Miner of Gold Run | have | PG 19318, `llhope-outdoor-girls-in-the-saddle` (1377 units) |
+| The Story of a China Cat | have | PG 19333, `llhope-story-of-a-china-cat` (690 units) |
+| The Story of a Stuffed Elephant | have | PG 19425, `llhope-story-of-a-stuffed-elephant` (692 units) |
+| Bunny Brown and His Sister Sue on Grandpa's Farm | have | PG 19555, `llhope-bunny-brown-and-his-sister-sue-on-grandpas-farm` (1872 units) |
+| The Outdoor Girls in a Motor Car; Or, The Haunted Mansion of Shadow Valley | have | PG 19561, `llhope-outdoor-girls-in-a-motor-car` (1686 units) |
+| Bunny Brown and His Sister Sue and Their Shetland Pony | have | PG 19565, `llhope-bunny-brown-and-his-sister-sue-and-their-shetland-pon` (1977 units) |
+| The Outdoor Girls in a Winter Camp Or, Glorious Days on Skates and Ice Boats | have | PG 19607, `llhope-outdoor-girls-in-a-winter-camp` (1795 units) |
+| Six little Bunkers at Aunt Jo's | have | PG 19736, `llhope-six-little-bunkers-at-aunt-jos` (1879 units) |
+| Six little Bunkers at Cowboy Jack's | have | PG 19816, `llhope-six-little-bunkers-at-cowboy-jacks` (1574 units) |
+| The Moving Picture Girls at Oak Farm or, Queer Happenings While Taking Rural Plays | have | PG 19969, `llhope-moving-picture-girls-at-oak-farm` (1529 units) |
+| Bunny Brown and His Sister Sue at Aunt Lu's City Home | have | PG 20133, `llhope-bunny-brown-and-his-sister-sue-at-aunt-lus-city-home` (1823 units) |
+| Bunny Brown and His Sister Sue at Christmas Tree Cove | have | PG 20134, `llhope-bunny-brown-and-his-sister-sue-at-christmas-tree-cove` (1599 units) |
+| Bunny Brown and His Sister Sue in the Sunny South | have | PG 20309, `llhope-bunny-brown-and-his-sister-sue-in-the-sunny-south` (1597 units) |
+| The Bobbsey Twins on Blueberry Island | have | PG 20311, `llhope-bobbsey-twins-on-blueberry-island` (1768 units) |
+| The Outdoor Girls at Bluff Point; Or a Wreck and a Rescue | have | PG 20324, `llhope-outdoor-girls-at-bluff-point` (1742 units) |
+| Six little Bunkers at Uncle Fred's | have | PG 20326, `llhope-six-little-bunkers-at-uncle-freds` (1833 units) |
+| The Moving Picture Girls Snowbound Or, The Proof on the Film | have | PG 20347, `llhope-moving-picture-girls-snowbound` (1695 units) |
+| The Moving Picture Girls in War Plays Or, The Sham Battles at Oak Farm | have | PG 20348, `llhope-moving-picture-girls-in-war-plays` (1559 units) |
+| The Moving Picture Girls at Rocky Ranch Or, Great Days Among the Cowboys | have | PG 20349, `llhope-moving-picture-girls-at-rocky-ranch` (1590 units) |
+| The Bobbsey Twins at Cedar Camp | have | PG 37554, `llhope-bobbsey-twins-at-cedar-camp` (1576 units) |
+| The Bobbsey Twins on the Deep Blue Sea | have | PG 37909, `llhope-bobbsey-twins-on-the-deep-blue-sea` (1663 units) |
+| The Outdoor Girls Around the Campfire; or, The Old Maid of the Mountains | have | PG 60211, `llhope-outdoor-girls-around-the-campfire` (1543 units) |
+| The Bobbsey Twins and Baby May | have | PG 65202, `llhope-bobbsey-twins-and-baby-may` (1656 units) |
+| The story of a sawdust doll | have | PG 69129, `llhope-story-of-a-sawdust-doll` (576 units) |
+| Bunny Brown and his sister Sue and their trick dog | have | PG 70358, `llhope-bunny-brown-and-his-sister-sue-and-their-trick-dog` (1743 units) |
+| Bunny Brown and his sister Sue on the rolling ocean | have | PG 71175, `llhope-bunny-brown-and-his-sister-sue-on-the-rolling-ocean` (1719 units) |
+| The Bobbsey twins at Cloverbank | have | PG 71239, `llhope-bobbsey-twins-at-cloverbank` (1671 units) |
+| Six little Bunkers at Captain Ben's | have | PG 71309, `llhope-six-little-bunkers-at-captain-bens` (1594 units) |
+| Six little Bunkers at farmer Joel's | have | PG 71791, `llhope-six-little-bunkers-at-farmer-joels` (1824 units) |
+| The story of a woolly dog | have | PG 72039, `llhope-story-of-a-woolly-dog` (713 units) |
+| The Bobbsey twins keeping house | have | PG 74217, `llhope-bobbsey-twins-keeping-house` (1839 units) |
+| repeat-editions | excluded | PG 6063 (Bobbsey Twins at School) and 8211 (Outdoor Girls at Wild Rose Lodge): second Gutenberg editions of titles already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
