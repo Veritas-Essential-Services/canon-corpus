@@ -1,0 +1,336 @@
+{
+ "_about": "Public-domain H. B. Swete (Henry Barclay Swete, 1835-1917, Regius Professor of Divinity at Cambridge) for the Word Hoard: 20 books from Internet Archive scans, 1868-1921, among them his commentaries on St Mark (1898) and the Apocalypse (1906), An Introduction to the Old Testament in Greek (1900), and his studies of the Holy Spirit (1873-1912). His editions of the Septuagint, Theodore of Mopsuestia and other ancient texts are left off as editions. Raw OCR. Added 2026-10-17 by lane A, round 23 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "swete"
+ ],
+ "_surname": [
+  "henry barclay swete",
+  "h. b. swete",
+  "swete, henry barclay",
+  "swete, h. b.",
+  "h. b. swete, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "swete-england-versus-rome": [
+   "englandversusro00swetgoog",
+   "England versus Rome (London: Rivingtons; preface 1868)"
+  ],
+  "swete-early-history-holy-spirit": [
+   "EarlyHistoryDoctrineHolySpirit",
+   "On the Early History of the Doctrine of the Holy Spirit (Cambridge: C. J. Clay, 1873)"
+  ],
+  "swete-procession-holy-spirit": [
+   "ProcessionOfTheHolySpirit",
+   "On the History of the Doctrine of the Procession of the Holy Spirit (Cambridge: C. J. Clay, 1876)"
+  ],
+  "swete-apostles-creed": [
+   "apostlescreedits00swet",
+   "The Apostles' Creed: its Relation to Primitive Christianity (London: C. J. Clay, 1894)"
+  ],
+  "swete-church-services": [
+   "churchservicesan00swetuoft",
+   "Church Services and Service-Books before the Reformation (London: SPCK, 1896)"
+  ],
+  "swete-gospel-st-mark": [
+   "cu31924024250155",
+   "The Gospel according to St Mark: the Greek Text with Introduction, Notes and Indices (London: Macmillan, 1898)"
+  ],
+  "swete-intro-ot-greek": [
+   "introductiontool00swet",
+   "An Introduction to the Old Testament in Greek (Cambridge: University Press, 1900)"
+  ],
+  "swete-patristic-study": [
+   "PatristicStudy",
+   "Patristic Study (London: Longmans, Green, 1902)"
+  ],
+  "swete-teaching-of-our-lord": [
+   "StudiesInTheTeachingOfOurLord",
+   "Studies in the Teaching of Our Lord (London: Hodder and Stoughton, 1903)"
+  ],
+  "swete-apocalypse-st-john": [
+   "apocalypseofstj00swet",
+   "The Apocalypse of St John: the Greek Text with Introduction, Notes and Indices (London: Macmillan, 1906)"
+  ],
+  "swete-appearances-after-passion": [
+   "appearancesofour00swetuoft",
+   "The Appearances of Our Lord after the Passion (London: Macmillan, 1908 reprint of 1907)"
+  ],
+  "swete-holy-spirit-nt": [
+   "cu31924008810511",
+   "The Holy Spirit in the New Testament (London: Macmillan, 1910 reprint of 1909)"
+  ],
+  "swete-ascended-christ": [
+   "ascendedchrista00swetgoog",
+   "The Ascended Christ (London: Macmillan, 1910)"
+  ],
+  "swete-holy-spirit-ancient-church": [
+   "holyspiritancien00swetuoft",
+   "The Holy Spirit in the Ancient Church (London: Macmillan, 1912)"
+  ],
+  "swete-last-discourse": [
+   "thelastdiscourse00swetuoft",
+   "The Last Discourse and Prayer of Our Lord: a Study of St John xiv-xvii (London: Macmillan, 1913)"
+  ],
+  "swete-ancient-creeds": [
+   "ancientcreedsinm0000hbsw",
+   "The Ancient Creeds in Modern Life (London: SPCK, 1914)"
+  ],
+  "swete-holy-catholic-church": [
+   "holycatholicchur0000swet",
+   "The Holy Catholic Church: the Communion of Saints (London: Macmillan, 1915)"
+  ],
+  "swete-forgiveness-of-sins": [
+   "forgivenesssins00swetuoft",
+   "The Forgiveness of Sins (London: Macmillan, 1916)"
+  ],
+  "swete-life-world-to-come": [
+   "cu31924029320102",
+   "The Life of the World to Come: six addresses (London: SPCK, 1917)"
+  ],
+  "swete-parables-of-kingdom": [
+   "parablesofthekin00swetuoft",
+   "The Parables of the Kingdom (London: Macmillan, 1921 reprint of 1920)"
+  ]
+ },
+ "_alternates": {
+  "swete-copies": "Second copies and later editions: onearlyhistoryd00swetgoog (1873), TheApostlesCreed (second edition, 1894), IntroductionToTheOTInGreek (1902), patristicstudy00swetgoog, patristicstudy01swet_0, patristicstudy0000swet (1902-1904), thelifeofthework00swetuoft and lifeofworldtocom00swetiala (1917)",
+  "swete-editions": "Editions of ancient texts: The Old Testament in Greek (1887-1905), The Psalms in Greek (1889), Theodore of Mopsuestia on the Pauline epistles (1880-1882), The Akhmim Fragment (1893), The Psalms of Solomon (1899), Theodorus Lascaris (1875)",
+  "swete-edited": "Essays he edited, by many writers (1905, 1909, 1918); Critical Questions (1903)"
+ },
+ "_excluded": {
+  "swete-ccel-greekot": "CCEL swete/greekot: the Hendrickson reprint of 1989 of the 1914 revision, no stated older print source; the 1900 scan is shelved",
+  "swete-wrong": "psalmsofsolomonw00swet holds another book; PG 59634 is Woolley's Coronation Rites in a series he edited",
+  "swete-late": "reprints of 1950-2020 and unreadable Greek-OCR copies"
+ },
+ "_identity_checked": {
+  "swete-ancient-creeds": {
+   "author": "Title page read: name garbled in the OCR ('ILOBD WEILE, DD, FBA'), styled Regius Professor of Divinity, Cambridge Local Lectures 1914, the chair Swete held until 1915; IA catalogues it under H. B. Swete"
+  }
+ },
+ "_pending": {},
+ "_checks": {
+  "swete-england-versus-rome": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry barclay swete",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swete-early-history-holy-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. b. swete",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "swete-procession-holy-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. b. swete",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "swete-apostles-creed": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "swete, henry barclay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "swete-church-services": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry barclay swete",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swete-gospel-st-mark": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry barclay swete",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "swete-intro-ot-greek": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. b. swete",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swete-patristic-study": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry barclay swete",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "swete-teaching-of-our-lord": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry barclay swete",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "swete-apocalypse-st-john": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "swete, henry barclay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "swete-appearances-after-passion": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry barclay swete",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swete-holy-spirit-nt": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry barclay swete",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "swete-ascended-christ": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry barclay swete",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swete-holy-spirit-ancient-church": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry barclay swete",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swete-last-discourse": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry barclay swete",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920 [c1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swete-ancient-creeds": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "swete-holy-catholic-church": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. b. swete",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "swete-forgiveness-of-sins": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry barclay swete",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swete-life-world-to-come": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry barclay swete",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "swete-parables-of-kingdom": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry barclay swete",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921, c1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

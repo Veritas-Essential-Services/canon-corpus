@@ -4613,6 +4613,39 @@ Slugs `maurice-*`. His histories of philosophy are left to the philosophy lane a
 | Eustace Conway (a novel, 1834) | excluded | |
 | The Workman and the Franchise (1866) and Working Men's College pamphlets | excluded | |
 | Frederick Maurice the soldier and others | excluded | |
+
+## H. B. Swete (round 23, my pick, 2026-10-17)
+
+Slugs `swete-*`. Commentaries, Introduction to the Old Testament in Greek and the Holy Spirit studies; his Septuagint and other editions are alternates.
+
+| Work | Status | Where |
+|---|---|---|
+| England versus Rome (London: Rivingtons; preface 1868) | have-ocr | IA `englandversusro00swetgoog` |
+| On the Early History of the Doctrine of the Holy Spirit (Cambridge: C. J. Clay, 1873) | have-ocr | IA `EarlyHistoryDoctrineHolySpirit` |
+| On the History of the Doctrine of the Procession of the Holy Spirit (Cambridge: C. J. Clay, 1876) | have-ocr | IA `ProcessionOfTheHolySpirit` |
+| The Apostles' Creed: its Relation to Primitive Christianity (London: C. J. Clay, 1894) | have-ocr | IA `apostlescreedits00swet` |
+| Church Services and Service-Books before the Reformation (London: SPCK, 1896) | have-ocr | IA `churchservicesan00swetuoft` |
+| The Gospel according to St Mark: the Greek Text with Introduction, Notes and Indices (London: Macmillan, 1898) | have-ocr | IA `cu31924024250155` |
+| An Introduction to the Old Testament in Greek (Cambridge: University Press, 1900) | have-ocr | IA `introductiontool00swet` |
+| Patristic Study (London: Longmans, Green, 1902) | have-ocr | IA `PatristicStudy` |
+| Studies in the Teaching of Our Lord (London: Hodder and Stoughton, 1903) | have-ocr | IA `StudiesInTheTeachingOfOurLord` |
+| The Apocalypse of St John: the Greek Text with Introduction, Notes and Indices (London: Macmillan, 1906) | have-ocr | IA `apocalypseofstj00swet` |
+| The Appearances of Our Lord after the Passion (London: Macmillan, 1908 reprint of 1907) | have-ocr | IA `appearancesofour00swetuoft` |
+| The Holy Spirit in the New Testament (London: Macmillan, 1910 reprint of 1909) | have-ocr | IA `cu31924008810511` |
+| The Ascended Christ (London: Macmillan, 1910) | have-ocr | IA `ascendedchrista00swetgoog` |
+| The Holy Spirit in the Ancient Church (London: Macmillan, 1912) | have-ocr | IA `holyspiritancien00swetuoft` |
+| The Last Discourse and Prayer of Our Lord: a Study of St John xiv-xvii (London: Macmillan, 1913) | have-ocr | IA `thelastdiscourse00swetuoft` |
+| The Ancient Creeds in Modern Life (London: SPCK, 1914) | have-ocr | IA `ancientcreedsinm0000hbsw` |
+| The Holy Catholic Church: the Communion of Saints (London: Macmillan, 1915) | have-ocr | IA `holycatholicchur0000swet` |
+| The Forgiveness of Sins (London: Macmillan, 1916) | have-ocr | IA `forgivenesssins00swetuoft` |
+| The Life of the World to Come: six addresses (London: SPCK, 1917) | have-ocr | IA `cu31924029320102` |
+| The Parables of the Kingdom (London: Macmillan, 1921 reprint of 1920) | have-ocr | IA `parablesofthekin00swetuoft` |
+| Second copies and later editions: onearlyhistoryd00swetgoog (1873), TheApostlesCreed (second edition, 1894), IntroductionToTheOTInGreek (1902), patristicstudy00swetgoog, patristicstudy01swet_0, patristicstudy0000swet (1902-1904), thelifeofthework00swetuoft and lifeofworldtocom00swetiala (1917) | alternate | not shelved |
+| Editions of ancient texts: The Old Testament in Greek (1887-1905), The Psalms in Greek (1889), Theodore of Mopsuestia on the Pauline epistles (1880-1882), The Akhmim Fragment (1893), The Psalms of Solomon (1899), Theodorus Lascaris (1875) | alternate | not shelved |
+| Essays he edited, by many writers (1905, 1909, 1918); Critical Questions (1903) | alternate | not shelved |
+| CCEL swete/greekot: the Hendrickson reprint of 1989 of the 1914 revision, no stated older print source; the 1900 scan is shelved | excluded | |
+| psalmsofsolomonw00swet holds another book; PG 59634 is Woolley's Coronation Rites in a series he edited | excluded | |
+| reprints of 1950-2020 and unreadable Greek-OCR copies | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
