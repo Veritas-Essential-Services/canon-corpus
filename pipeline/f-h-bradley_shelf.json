@@ -1,0 +1,66 @@
+{
+ "_about": "F. H. Bradley (1846-1924), raw IA OCR: Ethical Studies (the 1876 first edition in Stechert's 1904 anastatic reprint), The Principles of Logic (London: Kegan Paul, Trench, 1883), and Appearance and Reality, 2nd ed., revised, with an appendix (London: Swan Sonnenschein, 1908). All published before 1930, so US public domain. Not to be confused with A. C. Bradley, his brother, editor of Green's Prolegomena. No uids minted.",
+ "_author": "F. H. Bradley",
+ "_name_words": [
+  "f",
+  "h",
+  "francis",
+  "herbert",
+  "bradley"
+ ],
+ "_surname": [
+  "bradley"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bradley-ethical-studies-1876": [
+   "ethicalstudies00bradgoog",
+   "Ethical Studies (1876; anastatic reprint, New York: G. E. Stechert, 1904)"
+  ],
+  "bradley-principles-of-logic-1883": [
+   "principleslogic00bradgoog",
+   "The Principles of Logic (London: Kegan Paul, Trench, 1883)"
+  ],
+  "bradley-appearance-and-reality-1908": [
+   "appearanceandre01bradgoog",
+   "Appearance and Reality: a metaphysical essay, 2nd ed., revised, with an appendix (London: Swan Sonnenschein, 1908)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "bradley-ethical-studies-1876": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bradley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bradley-principles-of-logic-1883": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bradley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bradley-appearance-and-reality-1908": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bradley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
