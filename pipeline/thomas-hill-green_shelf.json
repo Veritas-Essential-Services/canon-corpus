@@ -1,0 +1,80 @@
+{
+ "_about": "T. H. Green (1836-1882), the Oxford idealist, raw IA OCR: the Works, edited by R. L. Nettleship (Longmans, Green; vol. I 1885, vol. II in its 1906 fifth impression, vol. III Miscellanies and Memoir 1888), which carry the critical introductions to Hume and the Lectures on the Principles of Political Obligation; and the Prolegomena to Ethics, edited by A. C. Bradley, 3rd ed. (Oxford: Clarendon, 1890). US public domain. No uids minted.",
+ "_author": "Thomas Hill Green",
+ "_name_words": [
+  "thomas",
+  "hill",
+  "green"
+ ],
+ "_surname": [
+  "thomas hill green",
+  "hill green"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "green-nettleship-works-1885-v1": [
+   "worksofthomashil01greeiala",
+   "Works of Thomas Hill Green, vol. I: philosophical works (London: Longmans, Green, 1885)",
+   "ed. R. L. Nettleship"
+  ],
+  "green-nettleship-works-1906-v2": [
+   "worksofthomashil02greeiala",
+   "Works of Thomas Hill Green, vol. II: philosophical works, fifth impression (London: Longmans, Green, 1906)",
+   "ed. R. L. Nettleship"
+  ],
+  "green-nettleship-works-1888-v3": [
+   "worksofthomashil03greeiala",
+   "Works of Thomas Hill Green, vol. III: miscellanies and memoir (London: Longmans, Green, 1888)",
+   "ed. R. L. Nettleship"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "green-nettleship-works-1885-v1": "Nettleship",
+  "green-nettleship-works-1906-v2": "Nettleship",
+  "green-nettleship-works-1888-v3": "Nettleship"
+ },
+ "_identity_checked": {},
+ "_checks": {
+  "green-nettleship-works-1885-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thomas hill green",
+   "translator_claimed": "Nettleship",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885-88",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "green-nettleship-works-1906-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thomas hill green",
+   "translator_claimed": "Nettleship",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885-88",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "green-nettleship-works-1888-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thomas hill green",
+   "translator_claimed": "Nettleship",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885-88",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
