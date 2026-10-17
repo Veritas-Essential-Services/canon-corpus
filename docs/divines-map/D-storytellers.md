@@ -3415,12 +3415,40 @@ Shelf: `pipeline/seton_shelf.json` (2026-10-02; added at the coordinator's relay
 
 ## Charles G. D. Roberts
 
-Shelf: `pipeline/charles-g-d-roberts_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Animal stories; cut by story and numbered section. Not in the manifest; no uids minted.
+Shelf: `pipeline/charles-g-d-roberts_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Animal stories, romances and poems. All 29 of Charles G. D. Roberts's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Kindred of the Wild: A Book of Animal Life | have | PG 46040, `cgdroberts-kindred-of-the-wild` (463 units) |
 | The Watchers of the Trails: A Book of Animal Life | have | PG 25718, `cgdroberts-watchers-of-the-trails` (617 units) |
+| In Divers Tones | have | PG 6956, `cgdroberts-in-divers-tones` (328 units) |
+| The Raid from Beausejour; and How the Carter Boys Lifted the Mortgage Two Stories of Acadie | have | PG 9907, `cgdroberts-raid-from-beausejour` (630 units) |
+| Children of the Wild | have | PG 16077, `cgdroberts-children-of-the-wild` (861 units) |
+| Earth's Enigmas: A Volume of Stories | have | PG 20231, `cgdroberts-earths-enigmas` (581 units) |
+| Kings in Exile | have | PG 28530, `cgdroberts-kings-in-exile` (643 units) |
+| In the Morning of Time | have | PG 28936, `cgdroberts-in-the-morning-of-time` (972 units) |
+| The Backwoodsmen | have | PG 28960, `cgdroberts-backwoodsmen` (889 units) |
+| The House in the Water: A Book of Animal Stories | have | PG 29839, `cgdroberts-house-in-the-water` (638 units) |
+| The Haunters of the Silences: A Book of Animal Life | have | PG 32545, `cgdroberts-haunters-of-the-silences` (750 units) |
+| The Forge in the Forest Being the Narrative of the Acadian Ranger, Jean de Mer, Seigneur de Briart; and How He Crossed the Black Abbé; and of His Adventures in a Strange Fellowship | have | PG 33470, `cgdroberts-forge-in-the-forest-being-the-narrative-of-the-ac` (1042 units) |
+| Barbara Ladd | have | PG 34270, `cgdroberts-barbara-ladd` (1480 units) |
+| The Secret Trails | have | PG 34454, `cgdroberts-secret-trails` (547 units) |
+| The Ledge on Bald Face | have | PG 35513, `cgdroberts-ledge-on-bald-face` (863 units) |
+| Hoof and Claw | have | PG 38675, `cgdroberts-hoof-and-claw` (669 units) |
+| Neighbors Unknown | have | PG 46004, `cgdroberts-neighbors-unknown` (460 units) |
+| Red Fox The Story of His Adventurous Career in the Ringwaak Wilds and of His Final Triumph over the Enemies of His Kind | have | PG 46005, `cgdroberts-red-fox-the-story-of-his-adventurous-career-in-th` (483 units) |
+| Jim: The Story of a Backwoods Police Dog | have | PG 47563, `cgdroberts-jim` (790 units) |
+| The Heart of the Ancient Wood | have | PG 47671, `cgdroberts-heart-of-the-ancient-wood` (613 units) |
+| Around the Camp-fire | have | PG 48986, `cgdroberts-around-the-camp-fire` (1456 units) |
+| Reube Dare's Shad Boat: A Tale of the Tide Country | have | PG 49081, `cgdroberts-reube-dares-shad-boat` (458 units) |
+| Some Animal Stories | have | PG 52010, `cgdroberts-some-animal-stories` (292 units) |
+| A Sister to Evangeline Being the Story of Yvonne de Lamourie, and how she went into exile with the villagers of Grand Pré | have | PG 53610, `cgdroberts-a-sister-to-evangeline-being-the-story-of-yvonne` (1462 units) |
+| New York Nocturnes, and Other Poems | have | PG 56418, `cgdroberts-new-york-nocturnes-and-other-poems` (221 units) |
+| Songs of the Common Day, and, Ave!: An Ode for the Shelley Centenary | have | PG 57102, `cgdroberts-songs-of-the-common-day-and-ave` (403 units) |
+| The Book of the Native | have | PG 57250, `cgdroberts-book-of-the-native` (374 units) |
+| New Poems | have | PG 59897, `cgdroberts-new-poems` (118 units) |
+| The King of the Mamozekel | have | PG 66676, `cgdroberts-king-of-the-mamozekel` (110 units) |
+| cgdroberts-canada-in-flanders-volume-iii | excluded | PG 46116, Canada in Flanders vol. III, is war history, not storytelling |
 
 ## Jack London
 

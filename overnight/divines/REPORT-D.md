@@ -1065,3 +1065,6 @@
 
 ## 2026-10-17 17:45 CDT — abbie-brown: done
 - abbie-brown: completed, 11 more Gutenberg books (14 on the shelf), 8,560 units, 23 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:45 CDT — charles-g-d-roberts: done
+- charles-g-d-roberts: completed, 27 more Gutenberg books (29 on the shelf), 19,213 units, 323 ~2 ids; verify 0 mismatches, 0 rights flags.
