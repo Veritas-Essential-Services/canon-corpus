@@ -1,0 +1,67 @@
+{
+ "_about": "George Trumbull Ladd (1842-1921), raw IA OCR: Elements of Physiological Psychology (New York: Scribner, 1889 printing; copyright 1887), Philosophy of Mind, an essay in the metaphysics of psychology (Scribner, 1895) and Philosophy of Knowledge (Scribner, 1897). US public domain. No uids minted.",
+ "_author": "George Trumbull Ladd",
+ "_name_words": [
+  "george",
+  "trumbull",
+  "g",
+  "t",
+  "ladd"
+ ],
+ "_surname": [
+  "ladd",
+  "trumbull ladd"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ladd-elements-of-physiological-psychology-1889": [
+   "elementsofphysi00ladduoft",
+   "Elements of Physiological Psychology (New York: Scribner, 1889)"
+  ],
+  "ladd-philosophy-of-mind-1895": [
+   "philosophyminda00laddgoog",
+   "Philosophy of Mind: an essay in the metaphysics of psychology (New York: Scribner, 1895)"
+  ],
+  "ladd-philosophy-of-knowledge-1897": [
+   "philosophyofknow00ladd",
+   "Philosophy of Knowledge (New York: Scribner, 1897)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "ladd-elements-of-physiological-psychology-1889": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ladd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889, c1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ladd-philosophy-of-mind-1895": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ladd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ladd-philosophy-of-knowledge-1897": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ladd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
