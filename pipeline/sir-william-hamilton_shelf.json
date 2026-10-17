@@ -1,0 +1,60 @@
+{
+ "_about": "Sir William Hamilton, Bart. (1788-1856), the Edinburgh logician, raw IA OCR: Lectures on Metaphysics and Logic, edited by Henry L. Mansel and John Veitch, the authorized American edition (Boston: Gould and Lincoln; vol. I Metaphysics 1859, vol. II Logic 1860). His edition of Reid's Works is on thomas-reid and his Stewart on dugald-stewart. US public domain. No uids minted.",
+ "_author": "Sir William Hamilton",
+ "_name_words": [
+  "sir",
+  "william",
+  "hamilton",
+  "bart"
+ ],
+ "_surname": [
+  "william hamilton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hamilton-lectures-metaphysics-1859": [
+   "hamiltonslectur01hamiuoft",
+   "Lectures on Metaphysics and Logic, ed. H. L. Mansel and John Veitch, vol. I: Metaphysics (Boston: Gould and Lincoln, 1859)",
+   "ed. Henry L. Mansel and John Veitch"
+  ],
+  "hamilton-lectures-logic-1860": [
+   "hamiltonslecture02hamiuoft",
+   "Lectures on Metaphysics and Logic, vol. II: Logic (Boston: Gould and Lincoln, 1860)",
+   "ed. Henry L. Mansel and John Veitch"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "hamilton-lectures-metaphysics-1859": "Veitch",
+  "hamilton-lectures-logic-1860": "Veitch"
+ },
+ "_checks": {
+  "hamilton-lectures-metaphysics-1859": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william hamilton",
+   "translator_claimed": "Veitch",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1859-1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hamilton-lectures-logic-1860": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william hamilton",
+   "translator_claimed": "Veitch",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
