@@ -822,3 +822,6 @@
 - Held for Adam's post-1930 printings class: Dewey's Child and the Curriculum (PG 29259, 1966 impression) and Public and its Problems (PG 71000, Swallow reprint); d'Holbach's System of Nature (PG 8909-8910, facsimile with a modern introduction) and Ecce Homo (PG 39052, 1977 reprint)
 - Held as undated: d'Holbach's Good Sense (PG 7319, c. 1900 by the transcriber's guess)
 - Not taken: Santayana's Some Turns of Thought (1933)
+
+## 2026-10-17 17:30 CDT — Round 2026-10-17h: Royce, James Mill, Dewey-Tufts
+- 9 IA volumes: josiah-royce +7 (Religious Aspect 1885, Spirit of Modern Philosophy 1892, World and the Individual 1900-01, Philosophy of Loyalty 1908, Problem of Christianity 1913), james-mill +1 (Analysis vol. II, 1878), john-dewey +1 (Ethics with Tufts, 1909)

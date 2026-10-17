@@ -197,3 +197,4 @@
 - 17:12 round e: 17 PG texts of British moral/political philosophy, 4 new shelves; nothing needs Adam.
 - 17:16 round f: 8 new shelves (Bentham, Green, Bradley, Bosanquet, Cudworth, Price, Hutcheson, Helvétius); nothing needs Adam.
 - 17:28 round g: 6 new shelves, 28 PG texts (Dewey, Santayana, Royce, Peirce, James Mill, Schiller); 4 d'Holbach/Dewey etexts added to the post-1930-printing class for Adam (DIGEST).
+- 17:30 round h: 9 IA volumes (Royce x7, James Mill, Dewey-Tufts); nothing needs Adam.
