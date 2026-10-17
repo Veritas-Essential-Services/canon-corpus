@@ -24209,6 +24209,27 @@ Shelf: `pipeline/william-o-stoddard_shelf.json` (2026-10-17; added at the coordi
 | The Village Champion | have | PG 56933, `wostoddard-village-champion` (2476 units) |
 | Walled In: A True Story of Randall's Island | have | PG 59930, `wostoddard-walled-in` (557 units) |
 
+## Edward Everett Hale
+
+Shelf: `pipeline/edward-everett-hale_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories and essays. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Life of Columbus From His Own Letters and Journals and Other Documents of His Time | have | PG 1492, `eehale-life-of-columbus-from-his-own-letters-and-journals-an` (672 units) |
+| The Brick Moon, and Other Stories | have | PG 1633, `eehale-brick-moon-and-other-stories` (1271 units) |
+| How to Do It | have | PG 8904, `eehale-how-to-do-it` (548 units) |
+| The Man Without a Country, and Other Tales | have | PG 15868, `eehale-man-without-a-country-and-other-tales` (944 units) |
+| The Man Without a Country | have | PG 16493, `eehale-man-without-a-country` (160 units) |
+| If, Yes and Perhaps Four Possibilities and Six Exaggerations with Some Bits of Fact | have | PG 28379, `eehale-if-yes-and-perhaps-four-possibilities-and-six-exagger` (939 units) |
+| Christmas Eve and Christmas Day: Ten Christmas stories | have | PG 32455, `eehale-christmas-eve-and-christmas-day` (917 units) |
+| Stories of Invention, Told by Inventors and their Friends | have | PG 40276, `eehale-stories-of-invention-told-by-inventors-and-their-frie` (1100 units) |
+| James Russell Lowell and His Friends | have | PG 48311, `eehale-james-russell-lowell-and-his-friends` (1747 units) |
+| Crusoe in New York, and other tales | have | PG 49442, `eehale-crusoe-in-new-york-and-other-tales` (1276 units) |
+| Stories of adventure, as told by adventurers | have | PG 79345, `eehale-stories-of-adventure-as-told-by-adventurers` (1019 units) |
+| pg-10947 | excluded | PG 10947 Best American Humorous Short Stories: a many-author anthology (ed. Jessup). |
+| pg-19993 | excluded | PG 19993 Young Folks Treasury vol.: an anthology Hale co-edited. |
+| pg-40153 | excluded | PG 40153 The First True Gentleman: anonymous, Hale wrote only the introduction. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

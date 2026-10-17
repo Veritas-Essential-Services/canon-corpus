@@ -1,0 +1,185 @@
+{
+ "_about": "Edward Everett Hale's stories (The Man Without a Country and others) and essays: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Edward Everett Hale",
+ "_name_words": [
+  "hale"
+ ],
+ "_surname": [
+  "edward everett hale"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "eehale-life-of-columbus-from-his-own-letters-and-journals-an": [
+   1492,
+   "The Life of Columbus From His Own Letters and Journals and Other Documents of His Time"
+  ],
+  "eehale-brick-moon-and-other-stories": [
+   1633,
+   "The Brick Moon, and Other Stories"
+  ],
+  "eehale-how-to-do-it": [
+   8904,
+   "How to Do It",
+   {
+    "contents_only": true
+   }
+  ],
+  "eehale-man-without-a-country-and-other-tales": [
+   15868,
+   "The Man Without a Country, and Other Tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "eehale-man-without-a-country": [
+   16493,
+   "The Man Without a Country"
+  ],
+  "eehale-if-yes-and-perhaps-four-possibilities-and-six-exagger": [
+   28379,
+   "If, Yes and Perhaps Four Possibilities and Six Exaggerations with Some Bits of Fact",
+   {
+    "contents_only": true
+   }
+  ],
+  "eehale-christmas-eve-and-christmas-day": [
+   32455,
+   "Christmas Eve and Christmas Day: Ten Christmas stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "eehale-stories-of-invention-told-by-inventors-and-their-frie": [
+   40276,
+   "Stories of Invention, Told by Inventors and their Friends"
+  ],
+  "eehale-james-russell-lowell-and-his-friends": [
+   48311,
+   "James Russell Lowell and His Friends",
+   {
+    "contents_only": true
+   }
+  ],
+  "eehale-crusoe-in-new-york-and-other-tales": [
+   49442,
+   "Crusoe in New York, and other tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "eehale-stories-of-adventure-as-told-by-adventurers": [
+   79345,
+   "Stories of adventure, as told by adventurers",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-10947": "PG 10947 Best American Humorous Short Stories: a many-author anthology (ed. Jessup).",
+  "pg-19993": "PG 19993 Young Folks Treasury vol.: an anthology Hale co-edited.",
+  "pg-40153": "PG 40153 The First True Gentleman: anonymous, Hale wrote only the introduction."
+ },
+ "_checks": {
+  "eehale-life-of-columbus-from-his-own-letters-and-journals-an": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward everett hale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eehale-brick-moon-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward everett hale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eehale-how-to-do-it": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward everett hale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eehale-man-without-a-country-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward everett hale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eehale-man-without-a-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward everett hale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eehale-if-yes-and-perhaps-four-possibilities-and-six-exagger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward everett hale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eehale-christmas-eve-and-christmas-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward everett hale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eehale-stories-of-invention-told-by-inventors-and-their-frie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward everett hale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eehale-james-russell-lowell-and-his-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward everett hale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eehale-crusoe-in-new-york-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward everett hale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eehale-stories-of-adventure-as-told-by-adventurers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward everett hale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
