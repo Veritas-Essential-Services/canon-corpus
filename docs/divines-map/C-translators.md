@@ -47,6 +47,7 @@ All first published 1894–1927: US public domain (pre-1931), UK PD since 2017. 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `garnett-karamazov` | Dostoevsky | The Brothers Karamazov | Constance Garnett | 1912 | held elsewhere (cross-ref) | `pipeline/adler_shelf.json` → `dostoevsky-karamazov` (PG 28054) |
+| `garnett-war-and-peace-vol3` | Tolstoy | War and Peace, vol. III of 3 | Constance Garnett | 1904 | have-raw | IA `in.ernet.dli.2015.170286` (Heinemann 1904; vols I-II pending) |
 | `garnett-idiot` | Dostoevsky | The Idiot | Constance Garnett | 1913 | have-raw | IA `idiotnovelinfour0000fyod` |
 | `garnett-possessed` | Dostoevsky | The Possessed | Constance Garnett | 1913 | have | PG 8117 |
 | `garnett-crime-and-punishment` | Dostoevsky | Crime and Punishment | Constance Garnett | 1914 | have | PG 2554 |

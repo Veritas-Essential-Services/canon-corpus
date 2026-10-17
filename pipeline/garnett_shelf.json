@@ -246,6 +246,11 @@
   "garnett-gogol-dikanka": [
    "Dikanka",
    "Evenings on a Farm near Dikanka"
+  ],
+  "garnett-war-and-peace-3": [
+   "in.ernet.dli.2015.170286",
+   "War and Peace, vol. III (Heinemann, 1904)",
+   "2015.170286.War-And-Peace-a-Novel-vol-Iii_djvu.txt"
   ]
  },
  "titles": {
@@ -677,14 +682,24 @@
    "translated": 1918,
    "note": "A title cut from inside the White Nights volume (1918). The volume and this title overlap: at minting, the passages get ONE uid each, never two.",
    "translator": "Constance Garnett"
+  },
+  "garnett-war-and-peace-vol3": {
+   "source": "garnett-war-and-peace-3",
+   "of": "Tolstoy",
+   "work": "War and Peace, vol. III of 3 (Parts XI to the Epilogue)",
+   "translated": 1904,
+   "scan_edition": "William Heinemann, London, 1904, the Library Edition of the Novels of Leo Tolstoy (title page: 'A New and Complete Translation from the Russian, by Constance Garnett, in three volumes, volume III'); Digital Library of India scan, State Central Library, Hyderabad",
+   "translator": "Constance Garnett",
+   "note": "Only the third volume of the 1904 first edition has a pre-1931 scan. Volumes I and II stay in _pending until a Heinemann or McClure scan turns up; the Random House copies on the Internet Archive (warpeace0000coun_g3a9, bwb_P9-DUB-268) are 1931-or-later Modern Library printings."
   }
  },
  "_pending": {
-  "garnett-gogol-other": "Works of Gogol: The Government Inspector and Other Plays (1926) and Mirgorod (1928) - pre-1931, PD; no verified Garnett scan found (IA mirgorodgogol is a 1924 Potsdam Russian edition, not hers).",
+  "garnett-gogol-other": "Works of Gogol: The Government Inspector and Other Plays (1926) and Mirgorod (1928) - pre-1931, PD; no verified Garnett scan found (IA mirgorodgogol is a 1924 Potsdam Russian edition, not hers). Re-searched 2026-10-17: still no pre-1931 scan of either volume on the Internet Archive.",
   "garnett-dostoevsky-poor-folk": "Poor Folk / Uncle's Dream: no Garnett version verified. The 1915 'Poor Folk and The Gambler' scans on IA are the Everyman (C. J. Hogarth) translation. Whether Garnett ever published these is unverified - do not list as hers without a title page.",
   "garnett-war-and-peace-1904": "Heinemann 1904 first printing, wanted to replace the later scan.",
   "garnett-turgenev-novels-1894": "The rest of the 15-vol Heinemann set as scans (e.g. IA novelsofivanturg02turg ...): only to replace PG texts if they prove defective.",
-  "garnett-war-and-peace": "Garnett's War and Peace (Heinemann 1904): the only scan found (bwb_P9-DUB-268) is a 1931+ Modern Library Giant. Pre-1931 IA War and Peace scans are other translators (Maude, Dole, Wiener). Removed 2026-10-02; a 1904 Heinemann or McClure scan would restore it."
+  "garnett-war-and-peace": "Garnett's War and Peace (Heinemann 1904), volumes I and II: no pre-1931 scan found (searched 2026-10-17: the IA copies are Dole, Maude, Wiener, Bell or post-1930 Random House). Volume III is held as garnett-war-and-peace-vol3 from the DLI Heinemann 1904 scan.",
+  "garnett-chekhov-letters-to-knipper": "The Letters of Anton Pavlovitch Tchehov to Olga Leonardovna Knipper (Chatto 1925 / Doran 1926): only a 1966 Blom reprint is on the Internet Archive (lettersofantonpa0000chek); held back as a facsimile until Adam rules on facsimiles."
  },
  "_excluded": {
   "pg-600, pg-6536": "Notes from Underground standalone: duplicates the text inside garnett-white-nights.",
@@ -704,7 +719,8 @@
   "cu31924014422020": "Cornell copy IA-dated 1914, but its imprint page lists new impressions to 1957: a 1957 printing (review 2026-10-02).",
   "novelsoffyodordo12dost": "IA-dated 1920; imprint page reads 'new impression 1949, reprinted 1951, 1961, 1969, 1974'.",
   "friendoffamily0000unse_r7t4": "Heinemann 1920 per IA; imprint page reads reprinted to 1969.",
-  "bwb_P9-DUB-268": "Modern Library Giant War and Peace (Random House). IA dates it 1910, but the Giants series began in 1931: a post-1930 printing."
+  "bwb_P9-DUB-268": "Modern Library Giant War and Peace (Random House). IA dates it 1910, but the Giants series began in 1931: a post-1930 printing.",
+  "ia-warpeace0000coun_g3a9": "Random House War and Peace in Garnett's translation, IA-dated 1910 but a Modern Library printing (the Garnett Modern Library edition began in 1931): post-1930."
  },
  "_notes": {
   "pg-30723": "PG 30723 Fathers and Children credits Garnett in its header (catalogue lists W. A. Neilson as introducer)."
@@ -1107,7 +1123,7 @@
  "_checks": {
   "garnett-possessed": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1116,7 +1132,7 @@
   },
   "garnett-crime-and-punishment": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1125,7 +1141,7 @@
   },
   "garnett-white-nights": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1134,7 +1150,7 @@
   },
   "garnett-anna-karenina": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1143,7 +1159,7 @@
   },
   "garnett-kingdom-of-god": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1152,7 +1168,7 @@
   },
   "garnett-chekhov-darling": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1161,7 +1177,7 @@
   },
   "garnett-chekhov-duel": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "title_weak": true,
@@ -1171,7 +1187,7 @@
   },
   "garnett-chekhov-lady-with-the-dog": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1180,7 +1196,7 @@
   },
   "garnett-chekhov-party": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1189,7 +1205,7 @@
   },
   "garnett-chekhov-wife": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1198,7 +1214,7 @@
   },
   "garnett-chekhov-bishop": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1207,7 +1223,7 @@
   },
   "garnett-chekhov-chorus-girl": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1216,7 +1232,7 @@
   },
   "garnett-chekhov-schoolmistress": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1225,7 +1241,7 @@
   },
   "garnett-chekhov-horse-stealers": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1234,7 +1250,7 @@
   },
   "garnett-chekhov-schoolmaster": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1243,7 +1259,7 @@
   },
   "garnett-chekhov-cooks-wedding": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1252,7 +1268,7 @@
   },
   "garnett-chekhov-love": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1261,7 +1277,7 @@
   },
   "garnett-chekhov-letters": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1270,7 +1286,7 @@
   },
   "garnett-turgenev-rudin": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1279,7 +1295,7 @@
   },
   "garnett-turgenev-house-of-gentlefolk": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1288,7 +1304,7 @@
   },
   "garnett-turgenev-on-the-eve": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1297,7 +1313,7 @@
   },
   "garnett-turgenev-fathers-and-children": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1306,7 +1322,7 @@
   },
   "garnett-turgenev-smoke": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1315,7 +1331,7 @@
   },
   "garnett-turgenev-torrents-of-spring": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1324,7 +1340,7 @@
   },
   "garnett-turgenev-lear-of-the-steppes": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1333,7 +1349,7 @@
   },
   "garnett-turgenev-dream-tales": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1342,7 +1358,7 @@
   },
   "garnett-turgenev-diary-of-a-superfluous-man": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1351,7 +1367,7 @@
   },
   "garnett-turgenev-desperate-character": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1360,7 +1376,7 @@
   },
   "garnett-turgenev-jew": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1369,7 +1385,7 @@
   },
   "garnett-turgenev-knock-knock-knock": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1378,7 +1394,7 @@
   },
   "garnett-turgenev-sportsman-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1387,7 +1403,7 @@
   },
   "garnett-turgenev-sportsman-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1396,7 +1412,7 @@
   },
   "garnett-ostrovsky-storm": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1405,7 +1421,7 @@
   },
   "garnett-herzen-past-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1414,7 +1430,7 @@
   },
   "garnett-herzen-past-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1423,7 +1439,7 @@
   },
   "garnett-herzen-past-3": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1432,7 +1448,7 @@
   },
   "garnett-herzen-past-4": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1441,7 +1457,7 @@
   },
   "garnett-herzen-past-5": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1450,7 +1466,7 @@
   },
   "garnett-herzen-past-6": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1459,7 +1475,7 @@
   },
   "garnett-idiot": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1470,7 +1486,7 @@
   },
   "garnett-gambler": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1481,7 +1497,7 @@
   },
   "garnett-house-of-the-dead": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1492,7 +1508,7 @@
   },
   "garnett-insulted-and-injured": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1503,7 +1519,7 @@
   },
   "garnett-raw-youth": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1514,7 +1530,7 @@
   },
   "garnett-eternal-husband": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1525,7 +1541,7 @@
   },
   "garnett-honest-thief": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1536,7 +1552,7 @@
   },
   "garnett-friend-of-the-family": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1547,7 +1563,7 @@
   },
   "garnett-death-of-ivan-ilyitch": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1558,7 +1574,7 @@
   },
   "garnett-christianity-and-patriotism": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1569,7 +1585,7 @@
   },
   "garnett-chekhov-witch": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1580,7 +1596,7 @@
   },
   "garnett-chekhov-plays-1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1591,7 +1607,7 @@
   },
   "garnett-chekhov-plays-2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1602,7 +1618,7 @@
   },
   "garnett-turgenev-virgin-soil-1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1613,7 +1629,7 @@
   },
   "garnett-turgenev-virgin-soil-2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1624,7 +1640,7 @@
   },
   "garnett-turgenev-two-friends": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1635,7 +1651,7 @@
   },
   "garnett-gogol-dead-souls-1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1646,7 +1662,7 @@
   },
   "garnett-gogol-dead-souls-2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1657,7 +1673,7 @@
   },
   "garnett-goncharov-common-story": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1668,7 +1684,7 @@
   },
   "garnett-gogol-overcoat": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "constance garnett",
    "identity": "ok",
@@ -1679,13 +1695,24 @@
   },
   "garnett-gogol-dikanka": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": null,
    "title_weak": true,
    "identity": "identity_override",
    "ia_rights": "ok: published 1926",
    "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "garnett-war-and-peace-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "constance garnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
