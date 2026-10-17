@@ -52,6 +52,14 @@
   "moncrieff-armance": [
    "armance0000sten",
    "Armance"
+  ],
+  "moncrieff-captive": [
+   "captive0000marc_d6q4",
+   "The Captive (Albert & Charles Boni, New York, 1929)"
+  ],
+  "moncrieff-lauzun": [
+   "memoirsofducdela0000cksc",
+   "Memoirs of the Duc de Lauzun (Routledge, Broadway Library of XVIII Century French Literature, 1928)"
   ]
  },
  "titles": {
@@ -129,16 +137,32 @@
    "translated": 1928,
    "translator": "C. K. Scott Moncrieff",
    "scan_edition": "Boni and Liveright, New York, MCMXXVIII (1928), raw OCR"
+  },
+  "moncrieff-proust-the-captive": {
+   "source": "moncrieff-captive",
+   "of": "Proust",
+   "work": "The Captive (La Prisonnière)",
+   "translated": 1929,
+   "translator": "C. K. Scott Moncrieff",
+   "scan_edition": "Albert & Charles Boni, New York, 1929: 'Copyright, 1929 ... First Edition, June, 1929; Second Edition, July, 1929'",
+   "note": "Raw OCR. The stray '1978' in the front matter is the OCR's reading of a date in the list of Proust's volumes, checked by eye. The '2025' is the Internet Archive digitisation year."
+  },
+  "moncrieff-lauzun": {
+   "source": "moncrieff-lauzun",
+   "of": "Armand Louis de Gontaut, duc de Lauzun",
+   "work": "Memoirs of the Duc de Lauzun",
+   "translated": 1928,
+   "translator": "C. K. Scott Moncrieff",
+   "scan_edition": "George Routledge & Sons, London, 1928, first edition ('First published in 1928'), in the Broadway Library of XVIII Century French Literature edited by Richard Aldington",
+   "note": "Raw OCR. The series list names Scott Moncrieff as the sole translator; the old pending note's 'jointly with Aldington and Rutherford' was wrong (Aldington edited the series). The only post-1930 year in the front matter, 2026, is the Internet Archive digitisation year."
   }
  },
  "_pending": {
-  "moncrieff-proust-cities-of-the-plain": "1927/1929: US PD, but the only open scans (citiesofplain0000prou_b6a6, dli.ernet.16336) are Chatto reprints of 1960 and 1971.",
-  "moncrieff-proust-the-captive": "1929: US PD, but captive00prourich is a Random House printing listing 1932 and 1947; dli.ernet.16281 is a 1957 Chatto reprint.",
+  "moncrieff-proust-cities-of-the-plain": "1927/1929: US PD, but the only open scans (citiesofplain0000prou_b6a6, dli.ernet.16336) are Chatto reprints of 1960 and 1971. Checked 2026-10-17: bwb_S0-BHU-960 is the Boni edition in one volume, 'Published January, 1930': a 1930 printing, so it waits on the same 1930 ruling as the five titles in DIGEST-C. citiesofplainvol0000marc_f0l7 is Boni 1927 volume two only; volume one not found open. The Modern Library copies list 1932.",
   "moncrieff-proust-sweet-cheat-gone": "1930: US PD since 2026, but every open scan is a 1957+ Random House or 1970 Vintage printing (copyright-renewal lines).",
   "moncrieff-pirandello-shoot": "1926: shoot0000luig is the 1934 'Nobel Prize Edition'; shoot-luigi-pirandello is a Gutenberg-Australia text of unstated edition.",
   "moncrieff-pirandello-old-and-young": "1928: only volume 2 is open (oldyoung02pira); volume 1 not found.",
-  "moncrieff-lauzun": "Memoirs of the Duc de Lauzun (1928): translated jointly with Aldington and Rutherford; not checked.",
-  "moncrieff-stendhal-red-and-black": "1926: US PD. redblack0000mari_e9r8, _h6c2 and _z4c1 are all Modern Library printings by Random House (1931 or later; e9r8's back list carries Modern Library Giant numbers). redblack0000unse_p8m8 is the 1926 first printing but volume one only; volume two not found open."
+  "moncrieff-stendhal-red-and-black": "1926: US PD. redblack0000mari_e9r8, _h6c2 and _z4c1 are all Modern Library printings by Random House (1931 or later; e9r8's back list carries Modern Library Giant numbers). redblack0000unse_p8m8 is the 1926 first printing but volume one only; volume two not found open. Checked 2026-10-17: bwb_Y0-CAN-926 is both volumes in one, but the Liveright 'Black & Gold Edition, February, 1937'."
  },
  "_excluded": {
   "moncrieff-past-recaptured": "Time Regained / The Past Recaptured is Stephen Hudson's and Frederick Blossom's, not Scott Moncrieff's (he died in 1930)."
@@ -147,7 +171,7 @@
  "_checks": {
   "moncrieff-swann": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "scott moncrieff",
    "identity": "ok",
@@ -156,7 +180,7 @@
   },
   "moncrieff-budding-grove": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "scott moncrieff",
    "identity": "ok",
@@ -165,7 +189,7 @@
   },
   "moncrieff-guermantes": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "scott moncrieff",
    "identity": "ok",
@@ -174,7 +198,7 @@
   },
   "moncrieff-roland": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "scott moncrieff",
    "identity": "ok",
@@ -183,7 +207,7 @@
   },
   "moncrieff-charterhouse-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "scott moncrieff",
    "identity": "ok",
@@ -192,7 +216,7 @@
   },
   "moncrieff-charterhouse-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "scott moncrieff",
    "identity": "ok",
@@ -201,7 +225,7 @@
   },
   "moncrieff-beowulf": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "scott moncrieff",
    "identity": "ok",
@@ -212,7 +236,7 @@
   },
   "moncrieff-abbess-of-castro": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "scott moncrieff",
    "identity": "ok",
@@ -223,7 +247,7 @@
   },
   "moncrieff-abelard": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "scott moncrieff",
    "identity": "ok",
@@ -234,12 +258,34 @@
   },
   "moncrieff-armance": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "scott moncrieff",
    "identity": "ok",
    "ia_rights": "ok: published 1928",
    "ia_date": "1928-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moncrieff-captive": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "scott moncrieff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moncrieff-lauzun": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "scott moncrieff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
@@ -317,6 +363,37 @@
     1928
    ],
    "post_1930_years_in_front_15k": []
+  },
+  "moncrieff-captive": {
+   "ia": "captive0000marc_d6q4",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1913,
+    1919,
+    1920,
+    1922,
+    1927,
+    1929
+   ],
+   "post_1930_years_in_front_15k": [
+    1978,
+    2025
+   ]
+  },
+  "moncrieff-lauzun": {
+   "ia": "memoirsofducdela0000cksc",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1811,
+    1818,
+    1821,
+    1851,
+    1893,
+    1928
+   ],
+   "post_1930_years_in_front_15k": [
+    2026
+   ]
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

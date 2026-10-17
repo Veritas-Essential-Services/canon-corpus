@@ -8655,13 +8655,13 @@ Round 9 (2026-10-10), vetoable. Later Proust volumes and the Red and the Black w
 | `moncrieff-stendhal-abbess-of-castro` | Stendhal | The Abbess of Castro and Other Tales | C. K. Scott Moncrieff | 1926 | have-raw | IA `abbessofcastro0000cksc` |
 | `moncrieff-abelard-and-heloise` | Abelard and Heloise | The Letters of Abelard and Heloise | C. K. Scott Moncrieff | 1925 | have-raw | IA `lettersofabelard0000abel` |
 | `moncrieff-stendhal-armance` | Stendhal | Armance | C. K. Scott Moncrieff | 1928 | have-raw | IA `armance0000sten` |
-| `moncrieff-proust-cities-of-the-plain` | — | 1927/1929: US PD, but the only open scans (citiesofplain0000prou_b6a6, dli.ernet.16336) are Chatto reprints of 1960 and 1971. | — | — | pending | — |
-| `moncrieff-proust-the-captive` | — | 1929: US PD, but captive00prourich is a Random House printing listing 1932 and 1947; dli.ernet.16281 is a 1957 Chatto reprint. | — | — | pending | — |
+| `moncrieff-proust-the-captive` | Proust | The Captive (La Prisonnière) | C. K. Scott Moncrieff | 1929 | have-raw | IA `captive0000marc_d6q4` |
+| `moncrieff-lauzun` | Armand Louis de Gontaut, duc de Lauzun | Memoirs of the Duc de Lauzun | C. K. Scott Moncrieff | 1928 | have-raw | IA `memoirsofducdela0000cksc` |
+| `moncrieff-proust-cities-of-the-plain` | — | 1927/1929: US PD, but the only open scans (citiesofplain0000prou_b6a6, dli.ernet.16336) are Chatto reprints of 1960 and 1971. Checked 2026-10-17: bwb_S0-BHU-960 is the Boni edition in one volume, 'Published January, 1930': a 1930 printing, so it waits on the same 1930 ruling as the five titles in DIGEST-C. citiesofplainvol0000marc_f0l7 is Boni 1927 volume two only; volume one not found open. The Modern Library copies list 1932. | — | — | pending | — |
 | `moncrieff-proust-sweet-cheat-gone` | — | 1930: US PD since 2026, but every open scan is a 1957+ Random House or 1970 Vintage printing (copyright-renewal lines). | — | — | pending | — |
 | `moncrieff-pirandello-shoot` | — | 1926: shoot0000luig is the 1934 'Nobel Prize Edition'; shoot-luigi-pirandello is a Gutenberg-Australia text of unstated edition. | — | — | pending | — |
 | `moncrieff-pirandello-old-and-young` | — | 1928: only volume 2 is open (oldyoung02pira); volume 1 not found. | — | — | pending | — |
-| `moncrieff-lauzun` | — | Memoirs of the Duc de Lauzun (1928): translated jointly with Aldington and Rutherford; not checked. | — | — | pending | — |
-| `moncrieff-stendhal-red-and-black` | — | 1926: US PD. redblack0000mari_e9r8, _h6c2 and _z4c1 are all Modern Library printings by Random House (1931 or later; e9r8's back list carries Modern Library Giant numbers). redblack0000unse_p8m8 is the 1926 first printing but volume one only; volume two not found open. | — | — | pending | — |
+| `moncrieff-stendhal-red-and-black` | — | 1926: US PD. redblack0000mari_e9r8, _h6c2 and _z4c1 are all Modern Library printings by Random House (1931 or later; e9r8's back list carries Modern Library Giant numbers). redblack0000unse_p8m8 is the 1926 first printing but volume one only; volume two not found open. Checked 2026-10-17: bwb_Y0-CAN-926 is both volumes in one, but the Liveright 'Black & Gold Edition, February, 1937'. | — | — | pending | — |
 | — | — | moncrieff-past-recaptured: Time Regained / The Past Recaptured is Stephen Hudson's and Frederick Blossom's, not Scott Moncrieff's (he died in 1930). | — | — | excluded | — |
 
 ## Arthur W. Ryder (Kalidasa, Little Clay Cart, Panchatantra, Gita)

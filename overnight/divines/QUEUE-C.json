@@ -3312,6 +3312,14 @@
       "finished": "2026-10-17T16:58-05:00",
       "scope": "Maude translator shelf gap-fill from period IA scans; PD printings before 1931 only; no minting",
       "notes": "+8 titles (Anna Karenina 2 vols, Essays and Letters, Sevastopol, Confession, Hadji Murad, First Step, Pamphlets). See DIGEST-C round 53. No uids minted."
+    },
+    {
+      "id": "round-54-moncrieff-gap-fill",
+      "status": "done",
+      "started": "2026-10-17T17:02-05:00",
+      "finished": "2026-10-17T17:02-05:00",
+      "scope": "Scott Moncrieff shelf gap-fill from period IA scans; no minting",
+      "notes": "+2 (The Captive 1929, Lauzun 1928). See DIGEST-C round 54."
     }
   ]
 }
