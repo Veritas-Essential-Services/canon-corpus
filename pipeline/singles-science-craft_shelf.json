@@ -1,6 +1,10 @@
 {
  "_about": "SINGLE-TRANSLATION SHELF: one-off translations of science, medicine and the crafts: Agricola's De Re Metallica (Herbert and Lou Hoover, 1912), Galileo's Sidereal Messenger and Discourse on floating bodies (Salusbury), Goethe's Theory of Colours (Eastlake), Petrus Peregrinus on the magnet, Einstein's The Meaning of Relativity, Planck (3), Poincaré, Gauss, Klein, La Mettrie's Man a Machine, Montessori's The Montessori Method, Senefelder's lithography, Lavater's Of Ghostes and Spirites (1572), Vigenère's Fire and Salt (1649), Dunant's Origin of the Red Cross, Vallery-Radot's Pasteur, Wundt, Ebbinghaus, Binet, Jespersen and others. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 41); Adam may veto. No uids minted.",
  "_name_words": [
+  "a. p. wills",
+  "adam miller hiltebeitel",
+  "adams",
+  "alexander ogg",
   "alexis frederick lange",
   "alfred tulk",
   "anna b. heylin wright",
@@ -16,9 +20,11 @@
   "edward leroy schaub",
   "edward stafford carlos",
   "edward stephens",
+  "edwin p. adams",
   "elizabeth emma proby hamilton",
   "ernest edward austen",
   "f. g. donnan",
+  "frances hardcastle",
   "frederick george donnan",
   "g. h. balg",
   "george a. auden",
@@ -26,18 +32,25 @@
   "george bruce halsted",
   "gerhard hubert balg",
   "gertrude carman bussey",
+  "hardcastle",
   "harold allden auden",
   "herbert hoover",
   "herman dieck",
+  "hiltebeitel",
   "j. kirkpatrick",
   "j. w. muller",
+  "james caddall morehead",
   "james kirkpatrick",
   "julius l. salinger",
   "julius lincoln salinger",
   "julius washington muller",
   "lou henry hoover",
+  "masius",
   "max f. meyer",
   "max friedrich meyer",
+  "morehead",
+  "morton masius",
+  "ogg",
   "r. james",
   "richard berenger",
   "richard harlan",
@@ -55,9 +68,14 @@
   "waldemar kaempffert",
   "william blackley drummond",
   "william mitchell gillespie",
-  "william morton wheeler"
+  "william morton wheeler",
+  "wills"
  ],
  "_surname": [
+  "a. p. wills",
+  "adam miller hiltebeitel",
+  "adams",
+  "alexander ogg",
   "alexis frederick lange",
   "alfred tulk",
   "anna b. heylin wright",
@@ -73,9 +91,11 @@
   "edward leroy schaub",
   "edward stafford carlos",
   "edward stephens",
+  "edwin p. adams",
   "elizabeth emma proby hamilton",
   "ernest edward austen",
   "f. g. donnan",
+  "frances hardcastle",
   "frederick george donnan",
   "g. h. balg",
   "george a. auden",
@@ -83,18 +103,25 @@
   "george bruce halsted",
   "gerhard hubert balg",
   "gertrude carman bussey",
+  "hardcastle",
   "harold allden auden",
   "herbert hoover",
   "herman dieck",
+  "hiltebeitel",
   "j. kirkpatrick",
   "j. w. muller",
+  "james caddall morehead",
   "james kirkpatrick",
   "julius l. salinger",
   "julius lincoln salinger",
   "julius washington muller",
   "lou henry hoover",
+  "masius",
   "max f. meyer",
   "max friedrich meyer",
+  "morehead",
+  "morton masius",
+  "ogg",
   "r. james",
   "richard berenger",
   "richard harlan",
@@ -112,7 +139,8 @@
   "waldemar kaempffert",
   "william blackley drummond",
   "william mitchell gillespie",
-  "william morton wheeler"
+  "william morton wheeler",
+  "wills"
  ],
  "_surname_by_slug": {
   "ssc-38015": [
@@ -286,6 +314,32 @@
    "donnan",
    "f. g. donnan",
    "frederick george donnan"
+  ],
+  "ssc-ia-einstein": [
+   "adams",
+   "edwin p. adams"
+  ],
+  "ssc-ia-gauss": [
+   "adam miller hiltebeitel",
+   "hiltebeitel",
+   "james caddall morehead",
+   "morehead"
+  ],
+  "ssc-ia-klein": [
+   "frances hardcastle",
+   "hardcastle"
+  ],
+  "ssc-ia-planck-lectures": [
+   "a. p. wills",
+   "wills"
+  ],
+  "ssc-ia-planck-radiation": [
+   "masius",
+   "morton masius"
+  ],
+  "ssc-ia-planck-thermo": [
+   "alexander ogg",
+   "ogg"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -448,7 +502,32 @@
    "International Language and Science Considerations on the Introduction of an International Language into Science"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ssc-ia-einstein": [
+   "meaningofrelativ00eins",
+   "The Meaning of Relativity (Princeton, 1923)"
+  ],
+  "ssc-ia-gauss": [
+   "generalinvestiga00gausuoft",
+   "General Investigations of Curved Surfaces of 1827 and 1825 (Princeton, 1902)"
+  ],
+  "ssc-ia-klein": [
+   "onriemannstheory00kleiuoft",
+   "On Riemann's Theory of Algebraic Functions and their Integrals (Macmillan and Bowes, 1893)"
+  ],
+  "ssc-ia-planck-lectures": [
+   "eightlecturesont00planuoft",
+   "Eight Lectures on Theoretical Physics (Columbia, 1915)"
+  ],
+  "ssc-ia-planck-radiation": [
+   "theoryofheatradi00planrich",
+   "The Theory of Heat Radiation (Blakiston, 1914)"
+  ],
+  "ssc-ia-planck-thermo": [
+   "treatiseonthermo00planuoft",
+   "Treatise on Thermodynamics (Longmans, Green, 1903)"
+  ]
+ },
  "titles": {
   "singles-science-craft-agricola-de-re-metallica-translated-from-the-firs": {
    "source": "ssc-38015",
@@ -762,22 +841,69 @@
    "translated": "(see the Gutenberg header)",
    "translator": "Edward L. Schaub",
    "scan_edition": "Project Gutenberg 44138 (clean text)"
+  },
+  "singles-science-craft-einstein": {
+   "source": "ssc-ia-einstein",
+   "of": "Albert Einstein",
+   "work": "The Meaning of Relativity: Four Lectures Delivered at Princeton University, May 1921",
+   "translated": 1922,
+   "translator": "Edwin Plimpton Adams",
+   "scan_edition": "Princeton University Press, 1923; Internet Archive scan meaningofrelativ00eins",
+   "note": "Raw OCR; the equations are garbled."
+  },
+  "singles-science-craft-gauss": {
+   "source": "ssc-ia-gauss",
+   "of": "Carl Friedrich Gauss",
+   "work": "General Investigations of Curved Surfaces of 1827 and 1825",
+   "translated": 1902,
+   "translator": "James Caddall Morehead and Adam Miller Hiltebeitel",
+   "scan_edition": "Princeton University Library, 1902; Internet Archive scan generalinvestiga00gausuoft (University of Toronto)",
+   "note": "Raw OCR; the formulas are garbled."
+  },
+  "singles-science-craft-klein": {
+   "source": "ssc-ia-klein",
+   "of": "Felix Klein",
+   "work": "On Riemann's Theory of Algebraic Functions and their Integrals",
+   "translated": 1893,
+   "translator": "Frances Hardcastle",
+   "scan_edition": "Macmillan and Bowes, Cambridge, 1893; Internet Archive scan onriemannstheory00kleiuoft (University of Toronto)",
+   "note": "Raw OCR; the formulas are garbled."
+  },
+  "singles-science-craft-planck-lectures": {
+   "source": "ssc-ia-planck-lectures",
+   "of": "Max Planck",
+   "work": "Eight Lectures on Theoretical Physics, Delivered at Columbia University in 1909",
+   "translated": 1915,
+   "translator": "A. P. Wills",
+   "scan_edition": "Columbia University Press, New York, 1915; Internet Archive scan eightlecturesont00planuoft (University of Toronto)",
+   "note": "Raw OCR; the formulas are garbled."
+  },
+  "singles-science-craft-planck-radiation": {
+   "source": "ssc-ia-planck-radiation",
+   "of": "Max Planck",
+   "work": "The Theory of Heat Radiation",
+   "translated": 1914,
+   "translator": "Morton Masius",
+   "scan_edition": "P. Blakiston's Son, Philadelphia, 1914; Internet Archive scan theoryofheatradi00planrich",
+   "note": "Raw OCR; the formulas are garbled."
+  },
+  "singles-science-craft-planck-thermo": {
+   "source": "ssc-ia-planck-thermo",
+   "of": "Max Planck",
+   "work": "Treatise on Thermodynamics",
+   "translated": 1903,
+   "translator": "Alexander Ogg",
+   "scan_edition": "Longmans, Green, London, 1903, first English edition; Internet Archive scan treatiseonthermo00planuoft (University of Toronto)",
+   "note": "Raw OCR; the formulas are garbled. Gutenberg 50880 may be a later edition of Ogg's translation; this scan is the 1903 first."
   }
  },
- "_pending": {
-  "pg-36276": "Albert Einstein, The Meaning of Relativity Four lectures delivered at Princeton University, May, 1921 (Edwin P. Adams): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive.",
-  "pg-36856": "Carl Friedrich Gauss, General Investigations of Curved Surfaces of 1827 and 1825 (Adam Miller Hiltebeitel and James Caddall Morehead): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive.",
-  "pg-36959": "Felix Klein, On Riemann's Theory of Algebraic Functions and their Integrals A Supplement to the Usual T (Frances Hardcastle): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive.",
-  "pg-39017": "Max Planck, Eight Lectures on Theoretical Physics, Delivered at Columbia University in 1909 (A. P. Wills): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive.",
-  "pg-40030": "Max Planck, The Theory of Heat Radiation (Morton Masius): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive.",
-  "pg-50880": "Max Planck, Treatise on Thermodynamics (Alexander Ogg): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive."
- },
+ "_pending": {},
  "_excluded": {},
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
  "_checks": {
   "ssc-38015": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "herbert hoover",
    "identity": "ok",
@@ -786,7 +912,7 @@
   },
   "ssc-37729": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "salusbury",
    "identity": "ok",
@@ -795,7 +921,7 @@
   },
   "ssc-39713": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "george bruce halsted",
    "identity": "ok",
@@ -804,7 +930,7 @@
   },
   "ssc-46036": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "carlos",
    "identity": "ok",
@@ -813,7 +939,7 @@
   },
   "ssc-50524": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "arnold",
    "identity": "ok",
@@ -822,7 +948,7 @@
   },
   "ssc-50572": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "charles lock eastlake",
    "identity": "ok",
@@ -831,7 +957,7 @@
   },
   "ssc-52090": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "bussey",
    "identity": "ok",
@@ -840,7 +966,7 @@
   },
   "ssc-52134": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "wheeler",
    "identity": "ok",
@@ -849,7 +975,7 @@
   },
   "ssc-41941": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "augusta rice stetson",
    "identity": "ok",
@@ -858,7 +984,7 @@
   },
   "ssc-39702": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "gillespie",
    "identity": "ok",
@@ -867,7 +993,7 @@
   },
   "ssc-47505": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "elizabeth emma proby hamilton",
    "identity": "ok",
@@ -876,7 +1002,7 @@
   },
   "ssc-50968": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "anna b. heylin wright",
    "identity": "ok",
@@ -885,7 +1011,7 @@
   },
   "ssc-40924": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "j. w. muller",
    "identity": "ok",
@@ -894,7 +1020,7 @@
   },
   "ssc-41241": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "dieck",
    "identity": "ok",
@@ -903,7 +1029,7 @@
   },
   "ssc-44890": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "bigmore",
    "identity": "ok",
@@ -912,7 +1038,7 @@
   },
   "ssc-42936": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "robert alan mowbray stevenson",
    "identity": "ok",
@@ -921,7 +1047,7 @@
   },
   "ssc-49196": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "alfred tulk",
    "identity": "ok",
@@ -930,7 +1056,7 @@
   },
   "ssc-46851": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "auden",
    "identity": "ok",
@@ -939,7 +1065,7 @@
   },
   "ssc-39044": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "j. kirkpatrick",
    "identity": "ok",
@@ -948,7 +1074,7 @@
   },
   "ssc-44089": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "s. a. d. tissot",
    "identity": "ok",
@@ -957,7 +1083,7 @@
   },
   "ssc-51078": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "austen",
    "identity": "ok",
@@ -966,7 +1092,7 @@
   },
   "ssc-53027": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "r. james",
    "identity": "ok",
@@ -975,7 +1101,7 @@
   },
   "ssc-38415": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "kaempffert",
    "identity": "ok",
@@ -984,7 +1110,7 @@
   },
   "ssc-47365": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "edward stephens",
    "identity": "ok",
@@ -993,7 +1119,7 @@
   },
   "ssc-51038": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "harrison",
    "identity": "ok",
@@ -1002,7 +1128,7 @@
   },
   "ssc-46696": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "berenger",
    "identity": "ok",
@@ -1011,7 +1137,7 @@
   },
   "ssc-44744": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "julius l. salinger",
    "identity": "ok",
@@ -1020,7 +1146,7 @@
   },
   "ssc-48078": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "harlan",
    "identity": "ok",
@@ -1029,7 +1155,7 @@
   },
   "ssc-46093": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "charles felix clay",
    "identity": "ok",
@@ -1038,7 +1164,7 @@
   },
   "ssc-39822": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "s. a. kinnier wilson",
    "identity": "ok",
@@ -1047,7 +1173,7 @@
   },
   "ssc-36458": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "drummond",
    "identity": "ok",
@@ -1056,7 +1182,7 @@
   },
   "ssc-46677": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "pintner",
    "identity": "ok",
@@ -1065,7 +1191,7 @@
   },
   "ssc-44138": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "edward l. schaub",
    "identity": "ok",
@@ -1074,7 +1200,7 @@
   },
   "ssc-52823": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "max f. meyer",
    "identity": "ok",
@@ -1083,7 +1209,7 @@
   },
   "ssc-44905": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "alexis frederick lange",
    "identity": "ok",
@@ -1092,7 +1218,7 @@
   },
   "ssc-39863": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "anne e. george",
    "identity": "ok",
@@ -1101,7 +1227,7 @@
   },
   "ssc-54943": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "bertelsen",
    "identity": "ok",
@@ -1110,7 +1236,7 @@
   },
   "ssc-50336": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "balg",
    "identity": "ok",
@@ -1119,12 +1245,78 @@
   },
   "ssc-54694": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "donnan",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "F. G. Donnan"
+  },
+  "ssc-ia-einstein": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "adams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ssc-ia-gauss": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "adam miller hiltebeitel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ssc-ia-klein": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frances hardcastle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ssc-ia-planck-lectures": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. p. wills",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ssc-ia-planck-radiation": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "masius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "[c1914]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ssc-ia-planck-thermo": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alexander ogg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -1322,6 +1514,75 @@
    "pg": 54694,
    "pg_copyrighted_marker": false,
    "pg_translator": "F. G. Donnan"
+  },
+  "ssc-ia-einstein": {
+   "ia": "meaningofrelativ00eins",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1921,
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ssc-ia-gauss": {
+   "ia": "generalinvestiga00gausuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1873,
+    1880,
+    1884,
+    1889,
+    1900,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ssc-ia-klein": {
+   "ia": "onriemannstheory00kleiuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1873,
+    1874,
+    1875,
+    1880,
+    1881,
+    1893
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ssc-ia-planck-lectures": {
+   "ia": "eightlecturesont00planuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1905,
+    1906,
+    1909,
+    1911,
+    1913,
+    1915
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ssc-ia-planck-radiation": {
+   "ia": "theoryofheatradi00planrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1906,
+    1912,
+    1913,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ssc-ia-planck-thermo": {
+   "ia": "treatiseonthermo00planuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1807,
+    1851,
+    1903
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

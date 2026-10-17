@@ -47,7 +47,6 @@ All first published 1894–1927: US public domain (pre-1931), UK PD since 2017. 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `garnett-karamazov` | Dostoevsky | The Brothers Karamazov | Constance Garnett | 1912 | held elsewhere (cross-ref) | `pipeline/adler_shelf.json` → `dostoevsky-karamazov` (PG 28054) |
-| `garnett-war-and-peace-vol3` | Tolstoy | War and Peace, vol. III of 3 | Constance Garnett | 1904 | have-raw | IA `in.ernet.dli.2015.170286` (Heinemann 1904; vols I-II pending) |
 | `garnett-idiot` | Dostoevsky | The Idiot | Constance Garnett | 1913 | have-raw | IA `idiotnovelinfour0000fyod` |
 | `garnett-possessed` | Dostoevsky | The Possessed | Constance Garnett | 1913 | have | PG 8117 |
 | `garnett-crime-and-punishment` | Dostoevsky | Crime and Punishment | Constance Garnett | 1914 | have | PG 2554 |
@@ -101,11 +100,13 @@ All first published 1894–1927: US public domain (pre-1931), UK PD since 2017. 
 | `garnett-gogol-overcoat` | Gogol | The Overcoat, and Other Stories | Constance Garnett | 1923 | have-raw | IA `overcoatothersto0000niko` |
 | `garnett-gogol-dikanka` | Gogol | Evenings on a Farm near Dikanka | Constance Garnett | 1926 | have-raw | IA `Dikanka` |
 | `garnett-notes-from-underground` | Dostoevsky | Notes from Underground | Constance Garnett | 1918 | have | PG 36034 (cut from the volume) |
-| `garnett-gogol-other` | — | Works of Gogol: The Government Inspector and Other Plays (1926) and Mirgorod (1928) - pre-1931, PD; no verified Garnett scan found (IA mirgorodgogol is a 1924 Potsdam Russian edition, not hers). | — | — | pending | — |
+| `garnett-war-and-peace-vol3` | Tolstoy | War and Peace, vol. III of 3 (Parts XI to the Epilogue) | Constance Garnett | 1904 | have-raw | IA `in.ernet.dli.2015.170286` |
+| `garnett-gogol-other` | — | Works of Gogol: The Government Inspector and Other Plays (1926) and Mirgorod (1928) - pre-1931, PD; no verified Garnett scan found (IA mirgorodgogol is a 1924 Potsdam Russian edition, not hers). Re-searched 2026-10-17: still no pre-1931 scan of either volume on the Internet Archive. | — | — | pending | — |
 | `garnett-dostoevsky-poor-folk` | — | Poor Folk / Uncle's Dream: no Garnett version verified. The 1915 'Poor Folk and The Gambler' scans on IA are the Everyman (C. J. Hogarth) translation. Whether Garnett ever published these is unverified - do not list as hers without a title page. | — | — | pending | — |
 | `garnett-war-and-peace-1904` | — | Heinemann 1904 first printing, wanted to replace the later scan. | — | — | pending | — |
 | `garnett-turgenev-novels-1894` | — | The rest of the 15-vol Heinemann set as scans (e.g. IA novelsofivanturg02turg ...): only to replace PG texts if they prove defective. | — | — | pending | — |
-| `garnett-war-and-peace` | — | Garnett's War and Peace (Heinemann 1904): the only scan found (bwb_P9-DUB-268) is a 1931+ Modern Library Giant. Pre-1931 IA War and Peace scans are other translators (Maude, Dole, Wiener). Removed 2026-10-02; a 1904 Heinemann or McClure scan would restore it. | — | — | pending | — |
+| `garnett-war-and-peace` | — | Garnett's War and Peace (Heinemann 1904), volumes I and II: no pre-1931 scan found (searched 2026-10-17: the IA copies are Dole, Maude, Wiener, Bell or post-1930 Random House). Volume III is held as garnett-war-and-peace-vol3 from the DLI Heinemann 1904 scan. | — | — | pending | — |
+| `garnett-chekhov-letters-to-knipper` | — | The Letters of Anton Pavlovitch Tchehov to Olga Leonardovna Knipper (Chatto 1925 / Doran 1926): only a 1966 Blom reprint is on the Internet Archive (lettersofantonpa0000chek); held back as a facsimile until Adam rules on facsimiles. | — | — | pending | — |
 | — | — | pg-600, pg-6536: Notes from Underground standalone: duplicates the text inside garnett-white-nights. | — | — | excluded | — |
 | — | — | pg-4602: Older transcription of the same Kingdom of God translation; PG 43302 kept. | — | — | excluded | — |
 | — | — | pg-1944: The Witch and Other Stories: almost certainly Garnett's Tales vol. 6, but the PG file names no translator; the dated IA scan is used instead. | — | — | excluded | — |
@@ -124,6 +125,7 @@ All first published 1894–1927: US public domain (pre-1931), UK PD since 2017. 
 | — | — | novelsoffyodordo12dost: IA-dated 1920; imprint page reads 'new impression 1949, reprinted 1951, 1961, 1969, 1974'. | — | — | excluded | — |
 | — | — | friendoffamily0000unse_r7t4: Heinemann 1920 per IA; imprint page reads reprinted to 1969. | — | — | excluded | — |
 | — | — | bwb_P9-DUB-268: Modern Library Giant War and Peace (Random House). IA dates it 1910, but the Giants series began in 1931: a post-1930 printing. | — | — | excluded | — |
+| — | — | ia-warpeace0000coun_g3a9: Random House War and Peace in Garnett's translation, IA-dated 1910 but a Modern Library printing (the Garnett Modern Library edition began in 1931): post-1930. | — | — | excluded | — |
 
 ## Cary (Dante, Pindar)
 
@@ -5214,12 +5216,12 @@ Round 41 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `singles-science-craft-vigenere-a-discovrse-of-fire-and-salt-discovering` | Blaise de Vigenère | A Discovrse of Fire and Salt Discovering Many Secret Mysteries as well Philosophicall, as Theologicall | Edward Stephens | (see the Gutenberg header) | have | PG 47365 |
 | `singles-science-craft-wundt-an-introduction-to-psychology-translated` | Wilhelm Wundt | An Introduction to Psychology Translated from the Second German Edition | Rudolf Pintner | (see the Gutenberg header) | have | PG 46677 |
 | `singles-science-craft-wundt-elements-of-folk-psychology-outline-of-a` | Wilhelm Wundt | Elements of Folk Psychology Outline of a Psychological History of the Development of Mankind | Edward L. Schaub | (see the Gutenberg header) | have | PG 44138 |
-| `pg-36276` | — | Albert Einstein, The Meaning of Relativity Four lectures delivered at Princeton University, May, 1921 (Edwin P. Adams): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
-| `pg-36856` | — | Carl Friedrich Gauss, General Investigations of Curved Surfaces of 1827 and 1825 (Adam Miller Hiltebeitel and James Caddall Morehead): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
-| `pg-36959` | — | Felix Klein, On Riemann's Theory of Algebraic Functions and their Integrals A Supplement to the Usual T (Frances Hardcastle): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
-| `pg-39017` | — | Max Planck, Eight Lectures on Theoretical Physics, Delivered at Columbia University in 1909 (A. P. Wills): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
-| `pg-40030` | — | Max Planck, The Theory of Heat Radiation (Morton Masius): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
-| `pg-50880` | — | Max Planck, Treatise on Thermodynamics (Alexander Ogg): Gutenberg publishes this mathematics or physics book only as PDF/LaTeX or HTML, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+| `singles-science-craft-einstein` | Albert Einstein | The Meaning of Relativity: Four Lectures Delivered at Princeton University, May 1921 | Edwin Plimpton Adams | 1922 | have-raw | IA `meaningofrelativ00eins` |
+| `singles-science-craft-gauss` | Carl Friedrich Gauss | General Investigations of Curved Surfaces of 1827 and 1825 | James Caddall Morehead and Adam Miller Hiltebeitel | 1902 | have-raw | IA `generalinvestiga00gausuoft` |
+| `singles-science-craft-klein` | Felix Klein | On Riemann's Theory of Algebraic Functions and their Integrals | Frances Hardcastle | 1893 | have-raw | IA `onriemannstheory00kleiuoft` |
+| `singles-science-craft-planck-lectures` | Max Planck | Eight Lectures on Theoretical Physics, Delivered at Columbia University in 1909 | A. P. Wills | 1915 | have-raw | IA `eightlecturesont00planuoft` |
+| `singles-science-craft-planck-radiation` | Max Planck | The Theory of Heat Radiation | Morton Masius | 1914 | have-raw | IA `theoryofheatradi00planrich` |
+| `singles-science-craft-planck-thermo` | Max Planck | Treatise on Thermodynamics | Alexander Ogg | 1903 | have-raw | IA `treatiseonthermo00planuoft` |
 
 ## One-off translations: more philosophy, religion and politics (Durkheim, Engels, Kant, Grotius, Pascal, Schopenhauer, Croce, Trotsky, Petrarch, Galateo)
 
@@ -5799,8 +5801,8 @@ Round 46 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `singles-science-2-valentini-mexican-copper-tools` | Philipp J. J. Valentini | Mexican Copper Tools: The Use of Copper by the Mexicans Before the Conquest; and the Katunes of Maya History, a Chapter in the Early History of Central America, With Special Reference to the Pio Perez | Stephen Salisbury | (see the Gutenberg header) | have | PG 57961 |
 | `singles-science-2-vasari-vasari-on-technique` | Giorgio Vasari | Vasari on technique | Louisa S. Maclehose | (see the Gutenberg header) | have | PG 73397 |
 | `singles-science-2-warming-a-handbook-of-systematic-botany` | Eugenius Warming | A handbook of systematic botany | Michael Cresse Potter | (see the Gutenberg header) | have | PG 68580 |
-| `pg-75107` | — | Luigi Federico Menabrea, Sketch of the Analytical Engine invented by Charles Babbage, Esq. (Ada Lovelace (Augusta Ada King, Countess of Lovelace)): Gutenberg has this only as HTML (it is full of mathematics), with no plain-text file. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
-| `pg-76404` | — | Isaac Newton, Newton's Principia (Andrew Motte): Gutenberg has this only as HTML (it is full of mathematics), with no plain-text file. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+| `singles-science-2-principia` | Isaac Newton | The Mathematical Principles of Natural Philosophy (Principia), with the System of the World | Andrew Motte (revised, with a life of Newton, by N. W. Chittenden) | 1729 | have-raw | IA `newtonspmathema00newtrich` |
+| `singles-science-2-menabrea` | Luigi Federico Menabrea | Sketch of the Analytical Engine invented by Charles Babbage, with Notes by the Translator (Notes A to G) | Ada Lovelace (signs her notes A. A. L.) | 1843 | have-raw | IA `india.history.resource.53369` (cut from the volume) |
 
 ## One-off translations: art, music, memoir and miscellany (Leonardo's Treatise on Painting, Hegel's Fine Art, Forkel's Bach, Rimsky-Korsakov, Dürer, King Alfred's Soliloquies, the Dhammapada, Platter)
 
@@ -5860,7 +5862,7 @@ Round 47 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `singles-arts-miscellany-taine-a-tour-through-the-pyrenees` | Hippolyte Taine | A Tour Through the Pyrenees | John Safford Fiske | (see the Gutenberg header) | have | PG 44429 |
 | `singles-arts-miscellany-tanska-hoffmanowa-the-journal-of-countess-francoise-krasin` | Klementyna Tańska-Hoffmanowa | The Journal of Countess Françoise Krasinska, Great Grandmother of Victor Emmanuel | Kasimir Dziekonska | (see the Gutenberg header) | have | PG 36660 |
 | `singles-arts-miscellany-wasielewski-the-violoncello-and-its-history` | Wilhelm Joseph von Wasielewski | The Violoncello and Its History | Isobella S. E. Stigand | (see the Gutenberg header) | have | PG 42629 |
-| `pg-40393` | — | Vincent van Gogh, The Letters of a Post-Impressionist Being the Familiar Correspondence of Vincent Van Gogh (Anthony M. Ludovici): Gutenberg has this only as HTML, with no plain-text file. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
+| `singles-arts-miscellany-van-gogh` | Vincent van Gogh | The Letters of a Post-Impressionist, being the Familiar Correspondence of Vincent van Gogh | Anthony M. Ludovici | 1912 | have-raw | IA `lettersofpostimp00goghuoft` |
 | — | — | busch-38902: Buzz a Buzz: no plain-text file at Gutenberg (as the wilhelm-busch shelf also notes). | — | — | excluded | — |
 
 ## One-off translations: fiction, plays and verse from the first stretch of the list (Mühlbach, Pushkin, Blavatsky's Grand Inquisitor, Sienkiewicz, Hamsun, Ibsen's early plays, Dante's Banquet, the Pembroke Antonius)

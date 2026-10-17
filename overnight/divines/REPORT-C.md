@@ -175,3 +175,5 @@
 - 2026-10-10T15:12-05:00: round 48: singles-fiction-4 (99). --verify --record 0 mismatched. Flag: Maurois's General Bramble keyed from a 1931 reprint. Excluded: Karl May's Travel Tales (COPYRIGHTED PG header), My First Battle (2009 translation). Left for owner: Lisbeth Longfrock (poulsson, Lane D).
 
 - 2026-10-10T15:15-05:00: round 49: singles-nonfiction-2 (84). --verify --record 0 mismatched. Facsimiles flagged: Rapin/Creech (ARS 1947), Gregorovius's Lucretia Borgia (Blom 1968), Tosi/Galliard (Reeves 1967). Excluded: Nicole/Cunningham (a 1950 translation) and Fernández Bolívar (modern).
+
+- 2026-10-17T16:47-05:00: round 51: period scans for 9 HTML-only pending titles (singles-science-2 +2, singles-science-craft +6, singles-arts-miscellany +1). --verify --record 0 mismatched. adler newton-principia is the Latin 1687, not Motte (flagged in DIGEST-C).

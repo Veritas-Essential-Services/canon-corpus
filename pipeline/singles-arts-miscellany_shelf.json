@@ -4,6 +4,7 @@
   "a. eaglefield hull",
   "a. p. morton",
   "a. rama iyer",
+  "anthony m. ludovici",
   "arthur eaglefield hull",
   "arthur n. holcombe",
   "arthur norman holcombe",
@@ -47,6 +48,7 @@
   "king of england alfred",
   "layton b. register",
   "layton bartol register",
+  "ludovici",
   "maria sermolino",
   "maude m. c. ffoulkes",
   "maude nathan",
@@ -74,6 +76,7 @@
   "a. eaglefield hull",
   "a. p. morton",
   "a. rama iyer",
+  "anthony m. ludovici",
   "arthur eaglefield hull",
   "arthur n. holcombe",
   "arthur norman holcombe",
@@ -117,6 +120,7 @@
   "king of england alfred",
   "layton b. register",
   "layton bartol register",
+  "ludovici",
   "maria sermolino",
   "maude m. c. ffoulkes",
   "maude nathan",
@@ -363,6 +367,10 @@
    "j. f. rigaud",
    "john francis rigaud",
    "rigaud"
+  ],
+  "sam-ia-van-gogh": [
+   "anthony m. ludovici",
+   "ludovici"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -573,7 +581,12 @@
    "A Treatise on Painting"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "sam-ia-van-gogh": [
+   "lettersofpostimp00goghuoft",
+   "The Letters of a Post-Impressionist (Constable, 1912)"
+  ]
+ },
  "titles": {
   "singles-arts-miscellany-adam-practical-bookbinding": {
    "source": "sam-39318",
@@ -985,11 +998,18 @@
    "translated": "(see the Gutenberg header)",
    "translator": "Isobella S. E. Stigand",
    "scan_edition": "Project Gutenberg 42629 (clean text)"
+  },
+  "singles-arts-miscellany-van-gogh": {
+   "source": "sam-ia-van-gogh",
+   "of": "Vincent van Gogh",
+   "work": "The Letters of a Post-Impressionist, being the Familiar Correspondence of Vincent van Gogh",
+   "translated": 1912,
+   "translator": "Anthony M. Ludovici",
+   "scan_edition": "Constable, London, 1912; Internet Archive scan lettersofpostimp00goghuoft (University of Toronto)",
+   "note": "Raw OCR."
   }
  },
- "_pending": {
-  "pg-40393": "Vincent van Gogh, The Letters of a Post-Impressionist Being the Familiar Correspondence of Vincent Van Gogh (Anthony M. Ludovici): Gutenberg has this only as HTML, with no plain-text file. Left for a later pass that finds a period scan on the Internet Archive."
- },
+ "_pending": {},
  "_excluded": {
   "busch-38902": "Buzz a Buzz: no plain-text file at Gutenberg (as the wilhelm-busch shelf also notes)."
  },
@@ -997,7 +1017,7 @@
  "_checks": {
   "sam-33483": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "mallet",
    "identity": "ok",
@@ -1006,7 +1026,7 @@
   },
   "sam-33700": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "carl conrad eckhardt",
    "identity": "ok",
@@ -1015,7 +1035,7 @@
   },
   "sam-33751": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "koehler",
    "identity": "ok",
@@ -1024,7 +1044,7 @@
   },
   "sam-33860": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "elizabeth anne mccaul finn",
    "identity": "ok",
@@ -1033,7 +1053,7 @@
   },
   "sam-33862": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "butcher",
    "identity": "ok",
@@ -1042,7 +1062,7 @@
   },
   "sam-33896": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "f. j. church",
    "identity": "ok",
@@ -1051,7 +1071,7 @@
   },
   "sam-33900": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "agate",
    "identity": "ok",
@@ -1060,7 +1080,7 @@
   },
   "sam-33933": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "g. a. mounsey",
    "identity": "ok",
@@ -1069,7 +1089,7 @@
   },
   "sam-33936": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "carl leo rahn",
    "identity": "ok",
@@ -1078,7 +1098,7 @@
   },
   "sam-34837": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "eliza leslie",
    "identity": "ok",
@@ -1087,7 +1107,7 @@
   },
   "sam-35041": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "charles sanford terry",
    "identity": "ok",
@@ -1096,7 +1116,7 @@
   },
   "sam-35185": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "f. l. woodward",
    "identity": "ok",
@@ -1105,7 +1125,7 @@
   },
   "sam-35639": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "emily j. robinson",
    "identity": "ok",
@@ -1114,7 +1134,7 @@
   },
   "sam-35812": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "hutchinson",
    "identity": "ok",
@@ -1123,7 +1143,7 @@
   },
   "sam-36660": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "dziekonska",
    "identity": "ok",
@@ -1132,7 +1152,7 @@
   },
   "sam-36728": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "barnett",
    "identity": "ok",
@@ -1141,7 +1161,7 @@
   },
   "sam-37103": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "nichol",
    "identity": "ok",
@@ -1150,7 +1170,7 @@
   },
   "sam-38086": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "enrique gil",
    "identity": "ok",
@@ -1159,7 +1179,7 @@
   },
   "sam-39318": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "maw",
    "identity": "ok",
@@ -1168,7 +1188,7 @@
   },
   "sam-39563": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "arthur n. holcombe",
    "identity": "ok",
@@ -1177,7 +1197,7 @@
   },
   "sam-39588": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "oakley williams",
    "identity": "ok",
@@ -1186,7 +1206,7 @@
   },
   "sam-39608": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "august hjalmar edgren",
    "identity": "ok",
@@ -1195,7 +1215,7 @@
   },
   "sam-39671": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "a. eaglefield hull",
    "identity": "ok",
@@ -1204,7 +1224,7 @@
   },
   "sam-39747": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "d. a. talboys",
    "identity": "ok",
@@ -1213,7 +1233,7 @@
   },
   "sam-40286": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "maude nathan",
    "identity": "ok",
@@ -1222,7 +1242,7 @@
   },
   "sam-40306": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "frederick lawton",
    "identity": "ok",
@@ -1231,7 +1251,7 @@
   },
   "sam-40341": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "alfred",
    "identity": "ok",
@@ -1240,7 +1260,7 @@
   },
   "sam-40373": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "a. rama iyer",
    "identity": "ok",
@@ -1249,7 +1269,7 @@
   },
   "sam-40618": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "grace hall",
    "identity": "ok",
@@ -1258,7 +1278,7 @@
   },
   "sam-40870": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "e. m. peruzzi",
    "identity": "ok",
@@ -1267,7 +1287,7 @@
   },
   "sam-42080": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "furness",
    "identity": "ok",
@@ -1276,7 +1296,7 @@
   },
   "sam-42082": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "clarke",
    "identity": "ok",
@@ -1285,7 +1305,7 @@
   },
   "sam-42629": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "isobella s. e. stigand",
    "identity": "ok",
@@ -1294,7 +1314,7 @@
   },
   "sam-42865": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "clara erskine clement waters",
    "identity": "ok",
@@ -1303,7 +1323,7 @@
   },
   "sam-42879": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "jean-jacques réthoré",
    "identity": "ok",
@@ -1312,7 +1332,7 @@
   },
   "sam-43086": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "ffoulkes",
    "identity": "ok",
@@ -1321,7 +1341,7 @@
   },
   "sam-43327": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "s. k. star",
    "identity": "ok",
@@ -1330,7 +1350,7 @@
   },
   "sam-43396": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "adams",
    "identity": "ok",
@@ -1339,7 +1359,7 @@
   },
   "sam-44034": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "davidson",
    "identity": "ok",
@@ -1348,7 +1368,7 @@
   },
   "sam-44048": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "battershall",
    "identity": "ok",
@@ -1357,7 +1377,7 @@
   },
   "sam-44135": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "eggers",
    "identity": "ok",
@@ -1366,7 +1386,7 @@
   },
   "sam-44429": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "fiske",
    "identity": "ok",
@@ -1375,7 +1395,7 @@
   },
   "sam-45259": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "newmarch",
    "identity": "ok",
@@ -1384,7 +1404,7 @@
   },
   "sam-45348": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "frederic sherman",
    "identity": "ok",
@@ -1393,7 +1413,7 @@
   },
   "sam-45425": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "dorothy terry",
    "identity": "ok",
@@ -1402,7 +1422,7 @@
   },
   "sam-45587": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "a. p. morton",
    "identity": "ok",
@@ -1411,7 +1431,7 @@
   },
   "sam-46192": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "bevan",
    "identity": "ok",
@@ -1420,7 +1440,7 @@
   },
   "sam-46287": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "hotten",
    "identity": "ok",
@@ -1429,7 +1449,7 @@
   },
   "sam-46330": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "bernard bosanquet",
    "identity": "ok",
@@ -1438,7 +1458,7 @@
   },
   "sam-46567": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "maria sermolino",
    "identity": "ok",
@@ -1447,12 +1467,23 @@
   },
   "sam-46915": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "j. f. rigaud",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "J. F. Rigaud"
+  },
+  "sam-ia-van-gogh": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony m. ludovici",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -1710,6 +1741,19 @@
    "pg": 46915,
    "pg_copyrighted_marker": false,
    "pg_translator": "J. F. Rigaud"
+  },
+  "sam-ia-van-gogh": {
+   "ia": "lettersofpostimp00goghuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1888,
+    1889,
+    1890,
+    1903,
+    1911,
+    1912
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

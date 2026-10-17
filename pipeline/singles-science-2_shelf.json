@@ -1,6 +1,7 @@
 {
- "_about": "SINGLE-TRANSLATION SHELF: a second shelf of one-off translations of science, medicine, art history and the crafts: Carnot's Reflections on the Motive Power of Heat (Thurston), Huygens's Celestial Worlds Discover'd (1698), Pasteur's Studies on Fermentation, Sachs's History of Botany, Helmholtz's Popular Lectures, Metchnikoff's Immunity, Behring, Hansen on leprosy, Bichat on mucous membranes (Houlton), Desault on fractures, Marie Curie's Pierre Curie, Arrhenius's Worlds in the Making, Holst and Kramers on the Bohr atom, Warming's botany, Huber's ants, Fabre's Insect Life (Margaret Roberts), Bergman's mineralogy (Withering), Glauber and Sendivogius on alchemy, Chevreul on colour, Cellini's treatises on goldsmithing and sculpture (Ashbee), Vasari on technique, Koldewey's Excavations at Babylon, Rodin on art, Robert-Houdin's Secrets of Stage Conjuring, Groos's Play of Man, Mosso's Fear, Ritter's Comparative Geography, Flammarion, and handbooks on lithography, pigments, perfumes, horseshoeing, bees, music, warfare and engines. Newton's Principia (Motte) and Menabrea's Sketch of the Analytical Engine with Ada Lovelace's Notes wait in _pending: Gutenberg has them only as HTML. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 46); Adam may veto. No uids minted.",
+ "_about": "SINGLE-TRANSLATION SHELF: a second shelf of one-off translations of science, medicine, art history and the crafts: Carnot's Reflections on the Motive Power of Heat (Thurston), Huygens's Celestial Worlds Discover'd (1698), Pasteur's Studies on Fermentation, Sachs's History of Botany, Helmholtz's Popular Lectures, Metchnikoff's Immunity, Behring, Hansen on leprosy, Bichat on mucous membranes (Houlton), Desault on fractures, Marie Curie's Pierre Curie, Arrhenius's Worlds in the Making, Holst and Kramers on the Bohr atom, Warming's botany, Huber's ants, Fabre's Insect Life (Margaret Roberts), Bergman's mineralogy (Withering), Glauber and Sendivogius on alchemy, Chevreul on colour, Cellini's treatises on goldsmithing and sculpture (Ashbee), Vasari on technique, Koldewey's Excavations at Babylon, Rodin on art, Robert-Houdin's Secrets of Stage Conjuring, Groos's Play of Man, Mosso's Fear, Ritter's Comparative Geography, Flammarion, and handbooks on lithography, pigments, perfumes, horseshoeing, bees, music, warfare and engines. Newton's Principia (Motte, 1846 Adee edition) and Menabrea's Sketch of the Analytical Engine with Ada Lovelace's Notes (Scientific Memoirs, 1843) come from period Internet Archive scans, since Gutenberg has them only as HTML (round 51). Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 46); Adam may veto. No uids minted.",
  "_name_words": [
+  "a. a. l.",
   "a. c. wright",
   "a. s. johns",
   "agnes sophia johns",
@@ -8,6 +9,7 @@
   "alfred i. cohn",
   "alfred isaac cohn",
   "allen wilson porterfield",
+  "andrew motte",
   "arthur columbine wright",
   "athol garnet elliott",
   "bettina kahnweiler",
@@ -25,6 +27,7 @@
   "charles william quin",
   "charlotte kellogg",
   "chas. salter",
+  "chittenden",
   "christopher packe",
   "clementina stirling graham",
   "d. constable robb",
@@ -77,9 +80,12 @@
   "l. a. e. b.",
   "lewis spence",
   "louisa s. maclehose",
+  "lovelace",
   "m. barrett",
   "margaret roberts",
   "michael cresse potter",
+  "motte",
+  "n. w. chittenden",
   "norman walker",
   "professor hoffmann",
   "rachel t. lindsay",
@@ -103,6 +109,7 @@
   "william withering"
  ],
  "_surname": [
+  "a. a. l.",
   "a. c. wright",
   "a. s. johns",
   "agnes sophia johns",
@@ -110,6 +117,7 @@
   "alfred i. cohn",
   "alfred isaac cohn",
   "allen wilson porterfield",
+  "andrew motte",
   "arthur columbine wright",
   "athol garnet elliott",
   "bettina kahnweiler",
@@ -127,6 +135,7 @@
   "charles william quin",
   "charlotte kellogg",
   "chas. salter",
+  "chittenden",
   "christopher packe",
   "clementina stirling graham",
   "d. constable robb",
@@ -179,9 +188,12 @@
   "l. a. e. b.",
   "lewis spence",
   "louisa s. maclehose",
+  "lovelace",
   "m. barrett",
   "margaret roberts",
   "michael cresse potter",
+  "motte",
+  "n. w. chittenden",
   "norman walker",
   "professor hoffmann",
   "rachel t. lindsay",
@@ -515,6 +527,16 @@
   "ss2-79213": [
    "james rawlins johnson",
    "johnson"
+  ],
+  "ss2-ia-principia": [
+   "andrew motte",
+   "chittenden",
+   "motte",
+   "n. w. chittenden"
+  ],
+  "ss2-ia-menabrea": [
+   "a. a. l.",
+   "lovelace"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -805,7 +827,17 @@
    "The natural history of ants"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ss2-ia-principia": [
+   "newtonspmathema00newtrich",
+   "Newton's Principia: The Mathematical Principles of Natural Philosophy (Adee, New York, 1846)"
+  ],
+  "ss2-ia-menabrea": [
+   "india.history.resource.53369",
+   "Scientific Memoirs vol. III (Taylor, London, 1843)",
+   "53369_djvu.txt"
+  ]
+ },
  "titles": {
   "singles-science-2-arrhenius-worlds-in-the-making": {
    "source": "ss2-69022",
@@ -1375,18 +1407,41 @@
    "translated": "(see the Gutenberg header)",
    "translator": "Michael Cresse Potter",
    "scan_edition": "Project Gutenberg 68580 (clean text)"
+  },
+  "singles-science-2-principia": {
+   "source": "ss2-ia-principia",
+   "of": "Isaac Newton",
+   "work": "The Mathematical Principles of Natural Philosophy (Principia), with the System of the World",
+   "translated": 1729,
+   "translator": "Andrew Motte (revised, with a life of Newton, by N. W. Chittenden)",
+   "scan_edition": "Daniel Adee, New York, 1846, first American edition; Internet Archive scan newtonspmathema00newtrich (University of California)",
+   "note": "Raw OCR of a mathematics book: the prose reads, the diagrams and formulas are lost. This is the same edition Gutenberg 76404 transcribed (HTML only there). The adler shelf's newton-principia (Gutenberg 28233) is the 1687 LATIN first edition, not Motte, despite its label, so the two are the Latin and the English of one work."
+  },
+  "singles-science-2-menabrea": {
+   "source": "ss2-ia-menabrea",
+   "of": "Luigi Federico Menabrea",
+   "work": "Sketch of the Analytical Engine invented by Charles Babbage, with Notes by the Translator (Notes A to G)",
+   "translated": 1843,
+   "translator": "Ada Lovelace (signs her notes A. A. L.)",
+   "scan_edition": "Scientific Memoirs, ed. Richard Taylor, vol. III, London, 1843, Article XXIX, pp. 666-731; Internet Archive scan from the Asiatic Society of Mumbai (india.history.resource.53369). The one post-1930 year in its front matter is the digitisation date (2016, Government of Maharashtra), checked by eye.",
+   "start": [
+    "ARTICLE XXIX.",
+    1
+   ],
+   "end": [
+    "INDEX TO VOL. ITIL",
+    1
+   ],
+   "note": "Cut from the whole 1843 volume, which is the first printing. Raw OCR; the tables of Note G are garbled. The 1843 printing gives the translator only as A. A. L., so the name check is excused by eye (see _identity_checked). The end marker is the OCR's reading of 'INDEX TO VOL. III.'"
   }
  },
- "_pending": {
-  "pg-75107": "Luigi Federico Menabrea, Sketch of the Analytical Engine invented by Charles Babbage, Esq. (Ada Lovelace (Augusta Ada King, Countess of Lovelace)): Gutenberg has this only as HTML (it is full of mathematics), with no plain-text file. Left for a later pass that finds a period scan on the Internet Archive.",
-  "pg-76404": "Isaac Newton, Newton's Principia (Andrew Motte): Gutenberg has this only as HTML (it is full of mathematics), with no plain-text file. Left for a later pass that finds a period scan on the Internet Archive."
- },
+ "_pending": {},
  "_excluded": {},
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
  "_checks": {
   "ss2-49866": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "edwin c. middleton",
    "identity": "ok",
@@ -1395,7 +1450,7 @@
   },
   "ss2-50139": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "brannt",
    "identity": "ok",
@@ -1404,7 +1459,7 @@
   },
   "ss2-50458": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "alfred i. cohn",
    "identity": "ok",
@@ -1413,7 +1468,7 @@
   },
   "ss2-50581": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "hankey",
    "identity": "ok",
@@ -1422,7 +1477,7 @@
   },
   "ss2-51041": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "hutton",
    "identity": "ok",
@@ -1431,7 +1486,7 @@
   },
   "ss2-52987": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "houlton",
    "identity": "ok",
@@ -1440,7 +1495,7 @@
   },
   "ss2-55735": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "furst",
    "identity": "ok",
@@ -1449,7 +1504,7 @@
   },
   "ss2-55739": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "elmslie",
    "identity": "ok",
@@ -1458,7 +1513,7 @@
   },
   "ss2-55971": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "e. j. wall",
    "identity": "ok",
@@ -1467,7 +1522,7 @@
   },
   "ss2-57057": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "combe",
    "identity": "ok",
@@ -1476,7 +1531,7 @@
   },
   "ss2-57069": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "barrett",
    "identity": "ok",
@@ -1485,7 +1540,7 @@
   },
   "ss2-57961": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "salisbury",
    "identity": "ok",
@@ -1494,7 +1549,7 @@
   },
   "ss2-58411": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "baldwin",
    "identity": "ok",
@@ -1503,7 +1558,7 @@
   },
   "ss2-58602": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "caldwell",
    "identity": "ok",
@@ -1512,7 +1567,7 @@
   },
   "ss2-58635": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "tom bridges",
    "identity": "ok",
@@ -1521,7 +1576,7 @@
   },
   "ss2-59085": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "goodrich",
    "identity": "ok",
@@ -1530,7 +1585,7 @@
   },
   "ss2-59311": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "athol garnet elliott",
    "identity": "ok",
@@ -1539,7 +1594,7 @@
   },
   "ss2-59680": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "dorothy dudley",
    "identity": "ok",
@@ -1548,7 +1603,7 @@
   },
   "ss2-59799": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "fedden",
    "identity": "ok",
@@ -1557,7 +1612,7 @@
   },
   "ss2-59804": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "du bellet",
    "identity": "ok",
@@ -1566,7 +1621,7 @@
   },
   "ss2-59901": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "e. lough",
    "identity": "ok",
@@ -1575,7 +1630,7 @@
   },
   "ss2-59924": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "dafforne",
    "identity": "ok",
@@ -1584,7 +1639,7 @@
   },
   "ss2-60605": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "legge",
    "identity": "ok",
@@ -1593,7 +1648,7 @@
   },
   "ss2-61034": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "bettina kahnweiler",
    "identity": "ok",
@@ -1602,7 +1657,7 @@
   },
   "ss2-61112": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "french",
    "identity": "ok",
@@ -1611,7 +1666,7 @@
   },
   "ss2-61240": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "garnsey",
    "identity": "ok",
@@ -1620,7 +1675,7 @@
   },
   "ss2-61365": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "edward gleichen",
    "identity": "ok",
@@ -1629,7 +1684,7 @@
   },
   "ss2-61894": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "charles leonard leese",
    "identity": "ok",
@@ -1638,7 +1693,7 @@
   },
   "ss2-61986": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "g. c. richards",
    "identity": "ok",
@@ -1647,7 +1702,7 @@
   },
   "ss2-63057": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "j. h.",
    "identity": "ok",
@@ -1656,7 +1711,7 @@
   },
   "ss2-63355": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "d. constable robb",
    "identity": "ok",
@@ -1665,7 +1720,7 @@
   },
   "ss2-63938": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "minor",
    "identity": "ok",
@@ -1674,7 +1729,7 @@
   },
   "ss2-64768": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "f. j. fielden",
    "identity": "ok",
@@ -1683,7 +1738,7 @@
   },
   "ss2-64796": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "lewis spence",
    "identity": "ok",
@@ -1692,7 +1747,7 @@
   },
   "ss2-64834": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "g. s. whitmarsh",
    "identity": "ok",
@@ -1701,7 +1756,7 @@
   },
   "ss2-64927": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "krueger",
    "identity": "ok",
@@ -1710,7 +1765,7 @@
   },
   "ss2-65041": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "charles d. meigs",
    "identity": "ok",
@@ -1719,7 +1774,7 @@
   },
   "ss2-65114": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "charles w. quin",
    "identity": "ok",
@@ -1728,7 +1783,7 @@
   },
   "ss2-66046": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "f. sodemann",
    "identity": "ok",
@@ -1737,7 +1792,7 @@
   },
   "ss2-66786": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "adams",
    "identity": "ok",
@@ -1746,7 +1801,7 @@
   },
   "ss2-67816": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "clementina stirling graham",
    "identity": "ok",
@@ -1755,7 +1810,7 @@
   },
   "ss2-68186": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "margaret roberts",
    "identity": "ok",
@@ -1764,7 +1819,7 @@
   },
   "ss2-68580": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "michael cresse potter",
    "identity": "ok",
@@ -1773,7 +1828,7 @@
   },
   "ss2-69022": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "borns",
    "identity": "ok",
@@ -1782,7 +1837,7 @@
   },
   "ss2-69617": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "charlotte kellogg",
    "identity": "ok",
@@ -1791,7 +1846,7 @@
   },
   "ss2-70133": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "bolduan",
    "identity": "ok",
@@ -1800,7 +1855,7 @@
   },
   "ss2-70350": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "charles j. hempel",
    "identity": "ok",
@@ -1809,7 +1864,7 @@
   },
   "ss2-70708": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "lindsay",
    "identity": "ok",
@@ -1818,7 +1873,7 @@
   },
   "ss2-71191": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "clarke",
    "identity": "ok",
@@ -1827,7 +1882,7 @@
   },
   "ss2-71219": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "charles salter",
    "identity": "ok",
@@ -1836,7 +1891,7 @@
   },
   "ss2-71312": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "norman walker",
    "identity": "ok",
@@ -1845,7 +1900,7 @@
   },
   "ss2-71333": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "e. e. kellett",
    "identity": "ok",
@@ -1854,7 +1909,7 @@
   },
   "ss2-71398": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "a. s. johns",
    "identity": "ok",
@@ -1863,7 +1918,7 @@
   },
   "ss2-71585": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "l. a. e. b.",
    "identity": "ok",
@@ -1872,7 +1927,7 @@
   },
   "ss2-72143": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "a. c. wright",
    "identity": "ok",
@@ -1881,7 +1936,7 @@
   },
   "ss2-72995": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "ashbee",
    "identity": "ok",
@@ -1890,7 +1945,7 @@
   },
   "ss2-73023": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "john matthews",
    "identity": "ok",
@@ -1899,7 +1954,7 @@
   },
   "ss2-73028": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "allen wilson porterfield",
    "identity": "ok",
@@ -1908,7 +1963,7 @@
   },
   "ss2-73397": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "louisa s. maclehose",
    "identity": "ok",
@@ -1917,7 +1972,7 @@
   },
   "ss2-73615": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "gage",
    "identity": "ok",
@@ -1926,7 +1981,7 @@
   },
   "ss2-74239": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "e. e. fournier d'albe",
    "identity": "ok",
@@ -1935,7 +1990,7 @@
   },
   "ss2-74240": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "christopher packe",
    "identity": "ok",
@@ -1944,7 +1999,7 @@
   },
   "ss2-74532": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "william withering",
    "identity": "ok",
@@ -1953,7 +2008,7 @@
   },
   "ss2-76939": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "john spanton",
    "identity": "ok",
@@ -1962,7 +2017,7 @@
   },
   "ss2-77045": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "ainsworth davis",
    "identity": "ok",
@@ -1971,7 +2026,7 @@
   },
   "ss2-77523": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "binnie",
    "identity": "ok",
@@ -1980,7 +2035,7 @@
   },
   "ss2-77560": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "george haslam",
    "identity": "ok",
@@ -1989,7 +2044,7 @@
   },
   "ss2-77725": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "atkinson",
    "identity": "ok",
@@ -1998,7 +2053,7 @@
   },
   "ss2-77917": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "hoffmann",
    "identity": "ok",
@@ -2007,7 +2062,7 @@
   },
   "ss2-78610": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "robert henry thurston",
    "identity": "ok",
@@ -2016,12 +2071,34 @@
   },
   "ss2-79213": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "james rawlins johnson",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "James Rawlins Johnson"
+  },
+  "ss2-ia-principia": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "andrew motte",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "c1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ss2-ia-menabrea": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. a. l.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -2379,7 +2456,36 @@
    "pg": 79213,
    "pg_copyrighted_marker": false,
    "pg_translator": "James Rawlins Johnson"
+  },
+  "ss2-ia-principia": {
+   "ia": "newtonspmathema00newtrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1642,
+    1846
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ss2-ia-menabrea": {
+   "ia": "india.history.resource.53369",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1838,
+    1839,
+    1840,
+    1841,
+    1842,
+    1843
+   ],
+   "post_1930_years_in_front_15k": [
+    2016
+   ]
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "ss2-ia-menabrea": {
+   "author": "The 1843 first printing names the translator only by her initials: her notes are signed 'A. A. L.' (three times in the OCR, the first at Note A). Checked by eye 2026-10-17 against the article heading 'Sketch of the Analytical Engine invented by Charles Babbage Esq. By L. F. Menabrea' and 'NOTES BY THE TRANSLATOR'."
+  }
+ }
 }
