@@ -1000,3 +1000,6 @@
 
 ## 2026-10-17 17:21 CDT — w-j-erdman done
 - `pipeline/w-j-erdman_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — james-m-gray done
+- `pipeline/james-m-gray_shelf.json`: 1 CCEL, 1 PG, 16 IA. `--verify --record`: 0 mismatched. 0 uids minted.

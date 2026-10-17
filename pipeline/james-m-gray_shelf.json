@@ -1,0 +1,307 @@
+{
+ "_about": "Public-domain James M. Gray (James Martin Gray, 1851-1935, Reformed Episcopal, President of Moody Bible Institute) for the Word Hoard, held to printings dated before 1930: the Christian Workers' Commentary (1915) from CCEL, How to Master the English Bible (1907) from Project Gutenberg, and 16 more from Internet Archive scans, 1899-1924, among them The Bulwarks of the Faith, Synthetic Bible Studies (1900 and the 1906 revision), Prophecy and the Lord's Return and A Text-Book on Prophecy. Added 2026-10-17 by lane A, round 22 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "gray_jm",
+ "_name_words": [
+  "gray"
+ ],
+ "_surname": [
+  "james m. gray",
+  "james martin gray",
+  "gray, james m.",
+  "gray, james martin",
+  "rev. james m. gray",
+  "james m. gray, d.d."
+ ],
+ "_held": {},
+ "ccel": {
+  "gray-christian-workers-commentary": [
+   "cwc",
+   "Christian Workers' Commentary on the Old and New Testaments (New York: Fleming H. Revell, 1915)",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "gray-master-english-bible": [
+   "41900",
+   "How to Master the English Bible (Edinburgh and London: Oliphant Anderson and Ferrier, 1907)"
+  ]
+ },
+ "internet_archive": {
+  "gray-bulwarks-of-faith": [
+   "thebulwarksofthe00grayuoft",
+   "The Bulwarks of the Faith (Nyack and New York: Christian Alliance Publishing, copyright 1899)"
+  ],
+  "gray-synthetic-1900": [
+   "syntheticbiblest00gray_0",
+   "Synthetic Bible Studies, or Thro' the Bible in the Year, first form (Cleveland: F. M. Barton, copyright 1900)"
+  ],
+  "gray-synthetic-1906": [
+   "syntheticbiblest0000jame_g6c1",
+   "Synthetic Bible Studies, new edition revised and enlarged (New York: Fleming H. Revell, copyright 1906)"
+  ],
+  "gray-primers-of-faith": [
+   "MN41596ucmf_1",
+   "Primers of the Faith (New York: Fleming H. Revell; copyright 1906 per another copy of the same title page)"
+  ],
+  "gray-antidote-christian-science": [
+   "cu31924029453838",
+   "The Antidote to Christian Science (New York: Fleming H. Revell, copyright 1907)"
+  ],
+  "gray-satan-and-saint": [
+   "unset0000unse_y2u1",
+   "Satan and the Saint (New York: Fleming H. Revell, copyright 1909)"
+  ],
+  "gray-great-epochs": [
+   "MN41880ucmf_5",
+   "Great Epochs of Sacred History and the Shadows They Cast (New York: Fleming H. Revell, copyright 1910)"
+  ],
+  "gray-progress-life-to-come": [
+   "progressinlifeto0000jame",
+   "Progress in the Life to Come (New York: Fleming H. Revell, copyright 1910)"
+  ],
+  "gray-salvation-start-finish": [
+   "MN41635ucmf_6",
+   "Salvation from Start to Finish (New York: Fleming H. Revell, copyright 1911)"
+  ],
+  "gray-bible-problems": [
+   "bibleproblemsexp0000jame",
+   "Bible Problems Explained (Chicago: Bible Institute Colportage Association, copyright 1913)"
+  ],
+  "gray-prophecy-lords-return": [
+   "prophecylordsret00gray",
+   "Prophecy and the Lord's Return: Popular Articles and Addresses (New York: Fleming H. Revell, copyright 1917)"
+  ],
+  "gray-picture-resurrection": [
+   "pictureofresurre0000jame",
+   "A Picture of the Resurrection (New York: Fleming H. Revell, copyright 1917)"
+  ],
+  "gray-bible-and-war": [
+   "whatbibleteaches00gray",
+   "What the Bible Teaches about War and the Christian's Attitude in the Present Crisis, republished from The Christian Workers Magazine, July 1917 (no imprint)"
+  ],
+  "gray-text-book-prophecy": [
+   "bwb_P9-BUC-396",
+   "A Text-Book on Prophecy (New York: Fleming H. Revell, copyright 1918)"
+  ],
+  "gray-spiritism-fallen-angels": [
+   "spiritismfallena00gray",
+   "Spiritism and the Fallen Angels in the Light of the Old and New Testaments (New York: Fleming H. Revell, copyright 1920)"
+  ],
+  "gray-sacrificial-offerings": [
+   "christinsacrific00gray",
+   "Christ in the Sacrificial Offerings: Bible Studies in Leviticus (Chicago: Bible Institute Colportage Association, copyright 1924)"
+  ]
+ },
+ "_alternates": {
+  "gray-ccel-synthetic": "CCEL gray_jm/synthetic: no print source stated; the dated 1900 and 1906 scans are shelved instead",
+  "gray-synthetic-1923": "Synthetic Bible Studies, revision copyright 1906-1923 (syntheticbiblest028560mbp and DLI copies)",
+  "gray-copies": "IA copies of the CCEL and Gutenberg texts (christianworkers00gray 1915; How to Master, Winona 1904 and 1906) and second copies of most titles"
+ },
+ "_excluded": {
+  "gray-late": "printings with post-1930 postal zones or Moody Press imprints, and reprints 1936-2017",
+  "gray-not-his": "Horsch's Modern Religious Liberalism (his introduction); a 1961 book miscatalogued as his; a gospel song",
+  "gray-namesake": "James Martin Gray the modern art historian"
+ },
+ "_pending": {
+  "gray-millennial-dawnism": "The Errors of Millennial Dawnism (Colportage Association; errorsofmillenni00gray): no year; IA's 1871 date is wrong (the text quotes 1910)"
+ },
+ "_checks": {
+  "gray-christian-workers-commentary": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Fleming H. Revell Company, 1915",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "gray-master-english-bible": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gray-bulwarks-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "c1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gray-synthetic-1900": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gray-synthetic-1906": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gray-primers-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gray-antidote-christian-science": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gray-satan-and-saint": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gray-great-epochs": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gray-progress-life-to-come": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gray-salvation-start-finish": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gray-bible-problems": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gray-prophecy-lords-return": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gray-picture-resurrection": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gray-bible-and-war": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gray-text-book-prophecy": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gray-spiritism-fallen-angels": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gray-sacrificial-offerings": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james m. gray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

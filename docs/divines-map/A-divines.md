@@ -4265,3 +4265,34 @@ Slugs `erdman-*`. One book: his only single-author early printing found.
 | Notes on the Revelation, edited by Charles R. Erdman (Revell, copyright 1930): 1930 and edited by another hand | excluded | |
 | Toronto conference Bible Readings and 1894 Brooklyn conference addresses: multi-author | excluded | |
 | Charles R. Erdman, his son, is a different author | excluded | |
+
+## James M. Gray (round 22, my pick, 2026-10-17)
+
+Slugs `gray-*`. Held to printings before 1930 (he died 1935).
+
+| Work | Status | Where |
+|---|---|---|
+| Christian Workers' Commentary on the Old and New Testaments (New York: Fleming H. Revell, 1915) | have-clean | CCEL gray_jm/cwc |
+| How to Master the English Bible (Edinburgh and London: Oliphant Anderson and Ferrier, 1907) | have-clean | Gutenberg 41900 |
+| The Bulwarks of the Faith (Nyack and New York: Christian Alliance Publishing, copyright 1899) | have-ocr | IA `thebulwarksofthe00grayuoft` |
+| Synthetic Bible Studies, or Thro' the Bible in the Year, first form (Cleveland: F. M. Barton, copyright 1900) | have-ocr | IA `syntheticbiblest00gray_0` |
+| Synthetic Bible Studies, new edition revised and enlarged (New York: Fleming H. Revell, copyright 1906) | have-ocr | IA `syntheticbiblest0000jame_g6c1` |
+| Primers of the Faith (New York: Fleming H. Revell; copyright 1906 per another copy of the same title page) | have-ocr | IA `MN41596ucmf_1` |
+| The Antidote to Christian Science (New York: Fleming H. Revell, copyright 1907) | have-ocr | IA `cu31924029453838` |
+| Satan and the Saint (New York: Fleming H. Revell, copyright 1909) | have-ocr | IA `unset0000unse_y2u1` |
+| Great Epochs of Sacred History and the Shadows They Cast (New York: Fleming H. Revell, copyright 1910) | have-ocr | IA `MN41880ucmf_5` |
+| Progress in the Life to Come (New York: Fleming H. Revell, copyright 1910) | have-ocr | IA `progressinlifeto0000jame` |
+| Salvation from Start to Finish (New York: Fleming H. Revell, copyright 1911) | have-ocr | IA `MN41635ucmf_6` |
+| Bible Problems Explained (Chicago: Bible Institute Colportage Association, copyright 1913) | have-ocr | IA `bibleproblemsexp0000jame` |
+| Prophecy and the Lord's Return: Popular Articles and Addresses (New York: Fleming H. Revell, copyright 1917) | have-ocr | IA `prophecylordsret00gray` |
+| A Picture of the Resurrection (New York: Fleming H. Revell, copyright 1917) | have-ocr | IA `pictureofresurre0000jame` |
+| What the Bible Teaches about War and the Christian's Attitude in the Present Crisis, republished from The Christian Workers Magazine, July 1917 (no imprint) | have-ocr | IA `whatbibleteaches00gray` |
+| A Text-Book on Prophecy (New York: Fleming H. Revell, copyright 1918) | have-ocr | IA `bwb_P9-BUC-396` |
+| Spiritism and the Fallen Angels in the Light of the Old and New Testaments (New York: Fleming H. Revell, copyright 1920) | have-ocr | IA `spiritismfallena00gray` |
+| Christ in the Sacrificial Offerings: Bible Studies in Leviticus (Chicago: Bible Institute Colportage Association, copyright 1924) | have-ocr | IA `christinsacrific00gray` |
+| CCEL gray_jm/synthetic: no print source stated; the dated 1900 and 1906 scans are shelved instead | alternate | not shelved |
+| Synthetic Bible Studies, revision copyright 1906-1923 (syntheticbiblest028560mbp and DLI copies) | alternate | not shelved |
+| IA copies of the CCEL and Gutenberg texts (christianworkers00gray 1915; How to Master, Winona 1904 and 1906) and second copies of most titles | alternate | not shelved |
+| printings with post-1930 postal zones or Moody Press imprints, and reprints 1936-2017 | excluded | |
+| Horsch's Modern Religious Liberalism (his introduction); a 1961 book miscatalogued as his; a gospel song | excluded | |
+| James Martin Gray the modern art historian | excluded | |
