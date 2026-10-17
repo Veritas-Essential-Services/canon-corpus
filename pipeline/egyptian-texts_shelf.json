@@ -1,0 +1,434 @@
+{
+ "_about": "SHELF of ancient Egyptian texts in English before 1931: Breasted's Ancient Records of Egypt (5 vols, Chicago, 1906-07), Petrie's Egyptian Tales (2 series, 1895), Griffith's Stories of the High Priests of Memphis (1900), Maspero's Popular Stories of Ancient Egypt in Mrs. Johns's translation (1915) and Erman's Literature of the Ancient Egyptians in Blackman's translation (1927). Renouf's Book of the Dead is on a singles shelf and Budge's Egyptian translations on the budge shelf. Each title gates on its own translator. Printings before 1931 only; the Blom 1971 and Zeller 1985 reprints are not used. US public domain. Added 2026-10-17 by lane C (round 74); Adam may veto. No uids minted.",
+ "_name_words": [
+  "aylward blackman",
+  "aylward m. blackman",
+  "blackman",
+  "breasted",
+  "c. h. w. johns",
+  "f. ll. griffith",
+  "flinders petrie",
+  "francis llewellyn griffith",
+  "griffith",
+  "j. h. breasted",
+  "james henry breasted",
+  "johns",
+  "mrs. c. h. w. johns",
+  "petrie",
+  "w. m. flinders petrie"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "aylward blackman",
+  "aylward m. blackman",
+  "blackman",
+  "breasted",
+  "c. h. w. johns",
+  "f. ll. griffith",
+  "flinders petrie",
+  "francis llewellyn griffith",
+  "griffith",
+  "j. h. breasted",
+  "james henry breasted",
+  "johns",
+  "mrs. c. h. w. johns",
+  "petrie",
+  "w. m. flinders petrie"
+ ],
+ "_surname_by_slug": {
+  "egt-ancient-records-1": [
+   "breasted",
+   "james henry breasted",
+   "j. h. breasted"
+  ],
+  "egt-ancient-records-2": [
+   "breasted",
+   "james henry breasted",
+   "j. h. breasted"
+  ],
+  "egt-ancient-records-3": [
+   "breasted",
+   "james henry breasted",
+   "j. h. breasted"
+  ],
+  "egt-ancient-records-4": [
+   "breasted",
+   "james henry breasted",
+   "j. h. breasted"
+  ],
+  "egt-ancient-records-5": [
+   "breasted",
+   "james henry breasted",
+   "j. h. breasted"
+  ],
+  "egt-egyptian-tales-1": [
+   "petrie",
+   "flinders petrie",
+   "w. m. flinders petrie"
+  ],
+  "egt-egyptian-tales-2": [
+   "petrie",
+   "flinders petrie",
+   "w. m. flinders petrie"
+  ],
+  "egt-high-priests-of-memphis": [
+   "griffith",
+   "f. ll. griffith",
+   "francis llewellyn griffith"
+  ],
+  "egt-popular-stories": [
+   "johns",
+   "c. h. w. johns",
+   "mrs. c. h. w. johns"
+  ],
+  "egt-literature-of-the-ancient-egyptians": [
+   "blackman",
+   "aylward m. blackman",
+   "aylward blackman"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "egt-egyptian-tales-1": [
+   7386,
+   "Egyptian Tales, Translated from the Papyri: First Series"
+  ],
+  "egt-egyptian-tales-2": [
+   7413,
+   "Egyptian Tales, Translated from the Papyri: Second Series"
+  ]
+ },
+ "internet_archive": {
+  "egt-ancient-records-1": [
+   "ancientrecordsof01brea",
+   "Ancient Records of Egypt, vol. I: The First to the Seventeenth Dynasties (1906)"
+  ],
+  "egt-ancient-records-2": [
+   "ancientrecordsof02brea",
+   "Ancient Records of Egypt, vol. II: The Eighteenth Dynasty (1906)"
+  ],
+  "egt-ancient-records-3": [
+   "ancientrecordsof03brea",
+   "Ancient Records of Egypt, vol. III: The Nineteenth Dynasty (1906)"
+  ],
+  "egt-ancient-records-4": [
+   "in.ernet.dli.2015.231361",
+   "Ancient Records of Egypt, vol. IV: The Twentieth to the Twenty-Sixth Dynasties (1906)",
+   "2015.231361.Ancient-Records_djvu.txt"
+  ],
+  "egt-ancient-records-5": [
+   "ancientrecordsof05brea",
+   "Ancient Records of Egypt, vol. V: Indices (1907)"
+  ],
+  "egt-high-priests-of-memphis": [
+   "storiesofhighpri00grifuoft",
+   "Stories of the High Priests of Memphis: the Sethon of Herodotus and the Demotic Tales of Khamuas (1900)"
+  ],
+  "egt-popular-stories": [
+   "cu31924091207393",
+   "Popular Stories of Ancient Egypt (1915)"
+  ],
+  "egt-literature-of-the-ancient-egyptians": [
+   "literatureofanci0000unse_q0r2",
+   "The Literature of the Ancient Egyptians (1927)"
+  ]
+ },
+ "titles": {
+  "egyptian-texts-ancient-records-1": {
+   "source": "egt-ancient-records-1",
+   "of": "Egyptian historical inscriptions and documents",
+   "work": "Ancient Records of Egypt, vol. I: The First to the Seventeenth Dynasties",
+   "translated": 1906,
+   "translator": "James Henry Breasted",
+   "scan_edition": "University of Chicago Press, Chicago, published February 1906; archive.org scan"
+  },
+  "egyptian-texts-ancient-records-2": {
+   "source": "egt-ancient-records-2",
+   "of": "Egyptian historical inscriptions and documents",
+   "work": "Ancient Records of Egypt, vol. II: The Eighteenth Dynasty",
+   "translated": 1906,
+   "translator": "James Henry Breasted",
+   "scan_edition": "University of Chicago Press, Chicago, published March 1906; archive.org scan"
+  },
+  "egyptian-texts-ancient-records-3": {
+   "source": "egt-ancient-records-3",
+   "of": "Egyptian historical inscriptions and documents",
+   "work": "Ancient Records of Egypt, vol. III: The Nineteenth Dynasty",
+   "translated": 1906,
+   "translator": "James Henry Breasted",
+   "scan_edition": "University of Chicago Press, Chicago, published May 1906; archive.org scan"
+  },
+  "egyptian-texts-ancient-records-4": {
+   "source": "egt-ancient-records-4",
+   "of": "Egyptian historical inscriptions and documents",
+   "work": "Ancient Records of Egypt, vol. IV: The Twentieth to the Twenty-Sixth Dynasties",
+   "translated": 1906,
+   "translator": "James Henry Breasted",
+   "scan_edition": "University of Chicago Press, Chicago, published 1906; Digital Library of India scan"
+  },
+  "egyptian-texts-ancient-records-5": {
+   "source": "egt-ancient-records-5",
+   "of": "Egyptian historical inscriptions and documents",
+   "work": "Ancient Records of Egypt, vol. V: Indices",
+   "translated": 1907,
+   "translator": "James Henry Breasted",
+   "scan_edition": "University of Chicago Press, Chicago, published February 1907; archive.org scan",
+   "note": "Vol. V is the index to the four volumes of translations."
+  },
+  "egyptian-texts-egyptian-tales-1": {
+   "source": "egt-egyptian-tales-1",
+   "of": "Egyptian tales from the papyri, 4th to 12th dynasty",
+   "work": "Egyptian Tales, Translated from the Papyri: First Series",
+   "translated": 1895,
+   "translator": "W. M. Flinders Petrie",
+   "scan_edition": "Gutenberg text (PG 7386) of Methuen's 1895 edition"
+  },
+  "egyptian-texts-egyptian-tales-2": {
+   "source": "egt-egyptian-tales-2",
+   "of": "Egyptian tales from the papyri, 18th to 19th dynasty",
+   "work": "Egyptian Tales, Translated from the Papyri: Second Series",
+   "translated": 1895,
+   "translator": "W. M. Flinders Petrie",
+   "scan_edition": "Gutenberg text (PG 7413) of Methuen's 1895 edition"
+  },
+  "egyptian-texts-high-priests-of-memphis": {
+   "source": "egt-high-priests-of-memphis",
+   "of": "The demotic Setne Khamwas tales",
+   "work": "Stories of the High Priests of Memphis: the Sethon of Herodotus and the Demotic Tales of Khamuas",
+   "translated": 1900,
+   "translator": "F. Ll. Griffith",
+   "scan_edition": "Clarendon Press, Oxford 1900; University of Toronto scan"
+  },
+  "egyptian-texts-popular-stories": {
+   "source": "egt-popular-stories",
+   "of": "Ancient Egyptian popular tales (from Maspero's Contes populaires, 4th ed.)",
+   "work": "Popular Stories of Ancient Egypt",
+   "translated": 1915,
+   "translator": "Mrs. C. H. W. Johns, from the French of Gaston Maspero",
+   "scan_edition": "G. P. Putnam's Sons, New York and London 1915; Cornell scan"
+  },
+  "egyptian-texts-literature-of-the-ancient-egyptians": {
+   "source": "egt-literature-of-the-ancient-egyptians",
+   "of": "Egyptian poems, narratives and instructions (from Erman's Die Literatur der Aegypter, 1923)",
+   "work": "The Literature of the Ancient Egyptians",
+   "translated": 1927,
+   "translator": "Aylward M. Blackman, from the German of Adolf Erman",
+   "scan_edition": "Methuen & Co., London, first published 1927"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "breasted-vol-4-wrong-scan": "ancientrecordsof04brea is mislabelled: its text is Caroline Pichler's Sämmtliche Werke, so vol. IV comes from the Digital Library of India.",
+  "egyptian-literature-1901": "The Colonial Press anthology Egyptian Literature (1901) reprints other translators' work and is not added.",
+  "late-reprints": "Blom (1971) reprints of Petrie and the Zeller (1985) reprint of Griffith: not used."
+ },
+ "_checks": {
+  "egt-egyptian-tales-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "petrie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egt-egyptian-tales-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "petrie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egt-ancient-records-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "breasted",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "egt-ancient-records-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "breasted",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "egt-ancient-records-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "breasted",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "egt-ancient-records-4": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "breasted",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "egt-ancient-records-5": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "breasted",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "egt-high-priests-of-memphis": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "griffith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "egt-popular-stories": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "johns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "egt-literature-of-the-ancient-egyptians": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "blackman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "egt-egyptian-tales-1": {
+   "pg": 7386,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "egt-egyptian-tales-2": {
+   "pg": 7413,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "egt-ancient-records-1": {
+   "ia": "ancientrecordsof01brea",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "egt-ancient-records-2": {
+   "ia": "ancientrecordsof02brea",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "egt-ancient-records-3": {
+   "ia": "ancientrecordsof03brea",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "egt-ancient-records-4": {
+   "ia": "in.ernet.dli.2015.231361",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1906,
+    1908
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "egt-ancient-records-5": {
+   "ia": "ancientrecordsof05brea",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1904,
+    1905,
+    1906,
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "egt-high-priests-of-memphis": {
+   "ia": "storiesofhighpri00grifuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1847,
+    1868,
+    1877,
+    1886,
+    1899,
+    1900
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "egt-popular-stories": {
+   "ia": "cu31924091207393",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1877,
+    1881,
+    1890,
+    1891,
+    1894,
+    1915
+   ],
+   "post_1930_years_in_front_15k": [
+    1992,
+    2001
+   ]
+  },
+  "egt-literature-of-the-ancient-egyptians": {
+   "ia": "literatureofanci0000unse_q0r2",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1912,
+    1915,
+    1920,
+    1923,
+    1927
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

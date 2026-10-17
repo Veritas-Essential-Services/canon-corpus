@@ -17498,6 +17498,27 @@ Round 73 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | held-on-reading-lists: King's Seven Tablets of Creation (1902) and Johns's Code of Hammurabi (1903) are on the reading-lists branch. | — | — | excluded | — |
 | — | — | late-reprints: The AMS Press 1976 reprint of the Devils and Evil Spirits and the 2002-07 reprints of Harper's Hammurabi: not used. | — | — | excluded | — |
 
+## Shelf: ancient Egyptian texts in English before 1931: Breasted's Ancient Records of Egypt (5 vols), Petrie's Egyptian Tales (2 series), Griffith's High Priests of Memphis, Maspero's Popular Stories (Mrs. Johns), Erman's Literature of the Ancient Egyptians (Blackman)
+
+Shelf: `pipeline/egyptian-texts_shelf.json` · fetch `python3 pipeline/fetch_shelf.py egyptian-texts` · titles `python3 pipeline/split_shelf_titles.py egyptian-texts`.
+Round 74 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `egyptian-texts-ancient-records-1` | Egyptian historical inscriptions and documents | Ancient Records of Egypt, vol. I: The First to the Seventeenth Dynasties | James Henry Breasted | 1906 | have-raw | IA `ancientrecordsof01brea` |
+| `egyptian-texts-ancient-records-2` | Egyptian historical inscriptions and documents | Ancient Records of Egypt, vol. II: The Eighteenth Dynasty | James Henry Breasted | 1906 | have-raw | IA `ancientrecordsof02brea` |
+| `egyptian-texts-ancient-records-3` | Egyptian historical inscriptions and documents | Ancient Records of Egypt, vol. III: The Nineteenth Dynasty | James Henry Breasted | 1906 | have-raw | IA `ancientrecordsof03brea` |
+| `egyptian-texts-ancient-records-4` | Egyptian historical inscriptions and documents | Ancient Records of Egypt, vol. IV: The Twentieth to the Twenty-Sixth Dynasties | James Henry Breasted | 1906 | have-raw | IA `in.ernet.dli.2015.231361` |
+| `egyptian-texts-ancient-records-5` | Egyptian historical inscriptions and documents | Ancient Records of Egypt, vol. V: Indices | James Henry Breasted | 1907 | have-raw | IA `ancientrecordsof05brea` |
+| `egyptian-texts-egyptian-tales-1` | Egyptian tales from the papyri, 4th to 12th dynasty | Egyptian Tales, Translated from the Papyri: First Series | W. M. Flinders Petrie | 1895 | have | PG 7386 |
+| `egyptian-texts-egyptian-tales-2` | Egyptian tales from the papyri, 18th to 19th dynasty | Egyptian Tales, Translated from the Papyri: Second Series | W. M. Flinders Petrie | 1895 | have | PG 7413 |
+| `egyptian-texts-high-priests-of-memphis` | The demotic Setne Khamwas tales | Stories of the High Priests of Memphis: the Sethon of Herodotus and the Demotic Tales of Khamuas | F. Ll. Griffith | 1900 | have-raw | IA `storiesofhighpri00grifuoft` |
+| `egyptian-texts-popular-stories` | Ancient Egyptian popular tales (from Maspero's Contes populaires, 4th ed.) | Popular Stories of Ancient Egypt | Mrs. C. H. W. Johns, from the French of Gaston Maspero | 1915 | have-raw | IA `cu31924091207393` |
+| `egyptian-texts-literature-of-the-ancient-egyptians` | Egyptian poems, narratives and instructions (from Erman's Die Literatur der Aegypter, 1923) | The Literature of the Ancient Egyptians | Aylward M. Blackman, from the German of Adolf Erman | 1927 | have-raw | IA `literatureofanci0000unse_q0r2` |
+| — | — | breasted-vol-4-wrong-scan: ancientrecordsof04brea is mislabelled: its text is Caroline Pichler's Sämmtliche Werke, so vol. IV comes from the Digital Library of India. | — | — | excluded | — |
+| — | — | egyptian-literature-1901: The Colonial Press anthology Egyptian Literature (1901) reprints other translators' work and is not added. | — | — | excluded | — |
+| — | — | late-reprints: Blom (1971) reprints of Petrie and the Zeller (1985) reprint of Griffith: not used. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
