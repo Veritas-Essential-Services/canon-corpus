@@ -461,7 +461,7 @@ Shelf: `pipeline/kipling_shelf.json` (2026-10-02; added at the coordinator's rel
 
 ## Robert Louis Stevenson
 
-Shelf: `pipeline/stevenson_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 45 books, one Gutenberg text each: novels, tales, verse, travel, essays, histories, prayers, letters, and the collaborations (partner named in the title). Treasure Island is already held through fetch_sources.py and is cross-referenced, not refetched. Per-book rules: essay collections cite essay / numbered section (`sub` option); the Colvin Letters cite by recipient plus the place-and-date line (Colvin did not number them; 38 letters sharing recipient and date line still take `~n`); the Henley plays cite play / act / tableau or scene. The 23-volume Swanston Edition is pending as a possible second witness. Not in the manifest; no uids minted.
+Shelf: `pipeline/stevenson_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories, novels and verse. All 47 of Robert Louis Stevenson's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -510,12 +510,15 @@ Shelf: `pipeline/stevenson_shelf.json` (2026-10-02; added at the coordinator's r
 | Vailima Letters (1895), to Sidney Colvin | have | PG 387, `stevenson-vailima-letters` (955 units) |
 | The Letters of Robert Louis Stevenson, Volume 1 (1899), ed. Sidney Colvin | have | PG 622, `stevenson-letters-1` (1601 units) |
 | The Letters of Robert Louis Stevenson, Volume 2 (1899), ed. Sidney Colvin | have | PG 637, `stevenson-letters-2` (1302 units) |
+| The strange case of Dr. Jekyll and Mr. Hyde | have | PG 42, `stevenson-strange-case-of-dr-jekyll-and-mr-hyde` (343 units) |
+| A Child's Garden of Verses | have | PG 25609, `stevenson-a-childs-garden-of-verses` (402 units) |
 | stevenson-treasure-island | excluded | HELD elsewhere: Treasure Island is fetch_sources.py's `treasure_island` (PG 120); Winter's illustrated text (27780) is a duplicate |
 | stevenson-duplicates | excluded | other transcriptions of books held: Jekyll and Hyde (PG 42), David Balfour (14133, the US title of Catriona), Kidnapped ill. Wyeth (56562), Black Arrow ill. Wyeth (32954), A Child's Garden of Verses in seven illustrated editions (19722, 25608-25611, 25617, 28722), A Lowden Sabbath Morn (35546, also in Prayers at Vailima), A Christmas Sermon (14535, in Across the Plains), The Sea Fogs (5272, a chapter of Silverado) |
-| stevenson-swanston | pending | the Swanston Edition (23 volumes on Gutenberg, 21686 and 30393-31916), with Andrew Lang's introduction. Its texts duplicate the single books held here; it would be a second witness, for Adam to decide |
+| stevenson-swanston | excluded | The Swanston Edition volumes (PG 30527, 30598, 30643, 30650, 30659, 30700, 30714, 30729, 30744, 30807, 30849, 30870, 30894, 30939, 30954, 30990, 31012, 31037, 31291, 31484, 31557, 31809) are a later collected edition that repeats books held singly here and on other shelves; not taken |
 | stevenson-selections | excluded | selections from his works: The Pocket R.L.S. (2537), Essays ed. Phelps (10761), An Apology for Idlers and other essays (69825) |
 | stevenson-not-his | excluded | anthologies with other authors (PG 2038, 2071, 2359, 2588, 10135, 12732, 21964, 59813), books about him (15547, 53165, 79196), Porto Bello Gold by A. D. H. Smith (70777), Widger's index (58181) |
 | stevenson-translations | excluded | non-English editions: this shelf is Stevenson's English |
+| stevenson-repeat-25610 | excluded | PG 25610, A Child's Garden of Verses: a second transcription of a title already on this shelf |
 
 ## G. K. Chesterton (the 1926-1928 gaps)
 
