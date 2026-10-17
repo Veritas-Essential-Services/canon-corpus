@@ -5577,3 +5577,24 @@ Slugs `bourdaloue-*`. Translators: Carroll, Crowther, du Pont de Nemours; Shiple
 | Pensées (Riom, 1802), catalogued as English but French | excluded | |
 | Great French Sermons (O'Mahony, 1917): three authors | excluded | |
 | Bungener's novel and Reville's study | excluded | |
+
+## Jean-Baptiste Massillon (round 26, my pick, 2026-10-17)
+
+Slugs `massillon-*`. Translators: Dodd, Dickson (vol. II; garbled in vol. I), Flint, Boylan, Morris. The 1805 Flint volume also holds Bourdaloue's sermons.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on the Duties of the Great (the Petit Carême), translated by William Dodd (Dublin; M,DCC,LXX) | have-ocr | IA `bim_eighteenth-century_sermons-on-the-duties-o_massillon-jean-baptiste_1770` |
+| Sermons by J. B. Massillon, selected and translated by William Dickson, vol. I (Brooklyn: Thomas S. Arden, 1803) | have-ocr | IA `sermonsmjb01mass` |
+| Sermons by J. B. Massillon, selected and translated by William Dickson, vol. II (Brooklyn: Thomas S. Arden, 1803) | have-ocr | IA `sermons01dickgoog` |
+| Sermons of John Baptist Massillon and Lewis Bourdaloue, with a Spiritual Paraphrase of some of the Psalms by Massillon, tr. Abel Flint (Hartford: Lincoln and Gleason, 1805) | have-ocr | IA `sermonsofjohnbap00mass_0` |
+| The Charges of Jean Baptiste Massillon addressed to his clergy, by Theophilus St. John (New-York: D. & G. Bruce, 1806) | have-ocr | IA `chargesofjeanbap00mass` |
+| The Ecclesiastical Conferences, Synodal Discourses and Episcopal Mandates of Massillon, tr. C. H. Boylan, vol. I (Dublin: Milliken and Coyne, 1825) | have-ocr | IA `ecclesiasticalco01massuoft` |
+| The Ecclesiastical Conferences, Synodal Discourses and Episcopal Mandates of Massillon, tr. C. H. Boylan, vol. II (Dublin: Milliken and Coyne, 1825) | have-ocr | IA `ecclesiasticalco02massuoft` |
+| Select Sermons from Jean-Baptiste Massillon, tr. Rutton Morris (London: printed for the translator, MDCCCXXX) | have-ocr | IA `SelectSermonsTrByRMorris` |
+| Dickson's Edinburgh selection (catalogued 1797; vol. III 1798) and Philadelphia 1818 | alternate | not shelved |
+| Sermons for Every Sunday and Festival, chiefly taken from Massillon, by Edward Peach (catalogued 1807; Dublin 1851): adapted | alternate | not shelved |
+| Other copies of the Charges; Glasgow 1827, London 1837-1839 and Boston 1845 Sermons; Selections (Hatchard, 1826); Moore's Sermons (catalogued 1889) | alternate | not shelved |
+| Petit Carême and other French editions catalogued as English | excluded | |
+| The Pulpit Orator (1804) and Great French Sermons (1917) | excluded | |
+| Crabb's 1796 Sermons, only partly Massillon | excluded | |
