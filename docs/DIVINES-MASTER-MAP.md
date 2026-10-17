@@ -18627,13 +18627,54 @@ Shelf: `pipeline/aikin-barbauld_shelf.json` (2026-10-02; added at the coordinato
 
 ## Captain Marryat
 
-Shelf: `pipeline/marryat_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Three books for young readers; cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/marryat_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Sea novels and stories for boys; some describe peoples in the terms of their time. All 29 of Captain Marryat's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Children of the New Forest | have | PG 6471, `marryat-children-of-the-new-forest` (2476 units) |
 | Masterman Ready | have | PG 1412, `marryat-masterman-ready` (2012 units) |
 | The Little Savage | have | PG 21551, `marryat-little-savage` (1476 units) |
+| Mr. Midshipman Easy | have | PG 6629, `marryat-mr-midshipman-easy` (2942 units) |
+| Snarleyyow, or, the Dog Fiend | have | PG 12558, `marryat-snarleyyow` (3179 units) |
+| The Phantom Ship | have | PG 12954, `marryat-phantom-ship` (2573 units) |
+| Newton Forster | have | PG 12959, `marryat-newton-forster` (2676 units) |
+| Frank Mildmay; Or, The Naval Officer | have | PG 13010, `marryat-frank-mildmay` (1842 units) |
+| Peter Simple; and, The Three Cutters, Vol. 1-2 | have | PG 13148, `marryat-peter-simple` (3083 units) |
+| The Mission | have | PG 13276, `marryat-mission` (1784 units) |
+| The Travels and Adventures of Monsieur Violet in California, Sonora, and Western Texas | have | PG 13405, `marryat-travels-and-adventures-of-monsieur-violet-in-califor` (1564 units) |
+| The Pacha of Many Tales | have | PG 13673, `marryat-pacha-of-many-tales` (2226 units) |
+| Poor Jack | have | PG 14222, `marryat-poor-jack` (2654 units) |
+| Japhet, in Search of a Father | have | PG 15991, `marryat-japhet-in-search-of-a-father` (2899 units) |
+| Jacob Faithful | have | PG 21549, `marryat-jacob-faithful` (2950 units) |
+| The King's Own | have | PG 21550, `marryat-kings-own` (2776 units) |
+| Travels and Adventures of Monsieur Violet | have | PG 21556, `marryat-travels-and-adventures-of-monsieur-violet` (1569 units) |
+| The Three Cutters | have | PG 21559, `marryat-three-cutters` (560 units) |
+| Percival Keene | have | PG 21572, `marryat-percival-keene` (2768 units) |
+| The Poacher; Or, Joseph Rushbrook | have | PG 21574, `marryat-poacher` (2483 units) |
+| The Privateersman | have | PG 21576, `marryat-privateersman` (1686 units) |
+| The Pirate | have | PG 21580, `marryat-pirate` (1086 units) |
+| The Settlers in Canada | have | PG 22496, `marryat-settlers-in-canada` (2149 units) |
+| Diary in America, Series One | have | PG 23137, `marryat-diary-in-america-series-one` (1688 units) |
+| Diary in America, Series Two | have | PG 23138, `marryat-diary-in-america-series-two` (1591 units) |
+| Olla Podrida | have | PG 23139, `marryat-olla-podrida` (1880 units) |
+| Valerie | have | PG 23952, `marryat-valerie` (1644 units) |
+| The Privateer's-Man, One hundred Years Ago | have | PG 25719, `marryat-privateers-man-one-hundred-years-ago` (1712 units) |
+| The Pirate, and The Three Cutters | have | PG 29291, `marryat-pirate-and-the-three-cutters` (1814 units) |
+| marryat-repeat-6897 | excluded | PG 6897, The Little Savage: a second transcription of a title already on this shelf |
+| marryat-repeat-21552 | excluded | PG 21552, Masterman Ready; Or, The Wreck of the "Pacific": a second transcription of a title already on this shelf |
+| marryat-repeat-21553 | excluded | PG 21553, Mr. Midshipman Easy: a second transcription of a title already on this shelf |
+| marryat-repeat-21554 | excluded | PG 21554, Frank Mildmay; Or, the Naval Officer: a second transcription of a title already on this shelf |
+| marryat-repeat-21555 | excluded | PG 21555, The Mission; or Scenes in Africa: a second transcription of a title already on this shelf |
+| marryat-repeat-21557 | excluded | PG 21557, Newton Forster; Or, The Merchant Service: a second transcription of a title already on this shelf |
+| marryat-repeat-21558 | excluded | PG 21558, The Children of the New Forest: a second transcription of a title already on this shelf |
+| marryat-repeat-21571 | excluded | PG 21571, The Pacha of Many Tales: a second transcription of a title already on this shelf |
+| marryat-repeat-21573 | excluded | PG 21573, The Phantom Ship: a second transcription of a title already on this shelf |
+| marryat-repeat-21575 | excluded | PG 21575, Poor Jack: a second transcription of a title already on this shelf |
+| marryat-repeat-21577 | excluded | PG 21577, Peter Simple: a second transcription of a title already on this shelf |
+| marryat-repeat-21579 | excluded | PG 21579, Snarleyyow; or, The Dog Fiend: a second transcription of a title already on this shelf |
+| marryat-repeat-24211 | excluded | PG 24211, The Settlers in Canada: a second transcription of a title already on this shelf |
+| marryat-repeat-24470 | excluded | PG 24470, Japhet in Search of a Father: a second transcription of a title already on this shelf |
+| marryat-repeat-31579 | excluded | PG 31579, Olla Podrida: a second transcription of a title already on this shelf |
 
 ## Thomas Hughes
 

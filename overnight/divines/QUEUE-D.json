@@ -1747,8 +1747,8 @@
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: marryat; no minting",
       "status": "done",
       "started": "2026-10-03T06:23:29-05:00",
-      "finished": "2026-10-03T06:30:39-05:00",
-      "notes": "3/3 fetched (Gutenberg 6471, 1412, 21551), 5,964 units, 0 ~2 ids."
+      "finished": "2026-10-17T17:39:04-05:00",
+      "notes": "marryat: completed, 26 more Gutenberg books (29 on the shelf), 61,742 units, 782 ~2 ids; verify 0 mismatches, 0 rights flags."
     },
     {
       "id": "thomas-hughes",

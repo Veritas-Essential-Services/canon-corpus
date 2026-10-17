@@ -1041,3 +1041,6 @@
 
 ## 2026-10-17 17:39 CDT — jacob-abbott: done
 - jacob-abbott: completed, 25 more Gutenberg books (29 on the shelf), 27,177 units, 51 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:39 CDT — marryat: done
+- marryat: completed, 26 more Gutenberg books (29 on the shelf), 61,742 units, 782 ~2 ids; verify 0 mismatches, 0 rights flags.
