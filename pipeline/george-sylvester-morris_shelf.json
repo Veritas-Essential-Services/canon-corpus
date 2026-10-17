@@ -1,0 +1,36 @@
+{
+ "_about": "George Sylvester Morris (1840-1889), Dewey's teacher: British Thought and Thinkers, introductory studies, critical, biographical and philosophical (Chicago: S. C. Griggs, 1880), raw IA OCR. US public domain. No uids minted.",
+ "_author": "George Sylvester Morris",
+ "_name_words": [
+  "george",
+  "sylvester",
+  "morris"
+ ],
+ "_surname": [
+  "george s. morris",
+  "g. s. morris",
+  "morris"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "morris-british-thought-and-thinkers-1880": [
+   "britishthought00morruoft",
+   "British Thought and Thinkers (Chicago: S. C. Griggs, 1880)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "morris-british-thought-and-thinkers-1880": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george s. morris",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
