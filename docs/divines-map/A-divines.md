@@ -4311,3 +4311,29 @@ Slugs `blackstone-*`. All three title pages sign him 'W. E. B.' only; IA attribu
 | Hebrew translation (1925) | excluded | |
 | Satan, His Kingdom and Its Overthrow (1964 printing) | excluded | |
 | uploader items with no text file | excluded | |
+
+## George F. Pentecost (round 22, my pick, 2026-10-17)
+
+Slugs `pentecost-*`. World Rulers of Darkness moved to alternates: no name readable.
+
+| Work | Status | Where |
+|---|---|---|
+| The Angel in the Marble (Boston: Robert J. Long; entered 1875, title-page year OCR'd 1873) | have-ocr | IA `angelinmarble00pent` |
+| In the Volume of the Book, with introductions by Joseph Cook and J. H. Vincent (New York and London: Funk and Wagnalls; entered 1885) | have-ocr | IA `involumeofbook00pent` |
+| Bible Studies from the Old and New Testaments, International Sunday-School Lessons for 1889 (New York: A. S. Barnes, copyright 1888) | have-ocr | IA `biblestudiesfro00pentgoog` |
+| Bible Studies, Lessons for 1892 (New York: A. S. Barnes, copyright 1891) | have-ocr | IA `biblestudiesfr00pent` |
+| Bible Studies, Lessons for 1893 (New York: A. S. Barnes, copyright 1893) | have-ocr | IA `biblestudiesfrom00pent` |
+| Bible Studies, International Sunday-School Lessons for 1894 (New York: Fleming H. Revell, copyright 1893) | have-ocr | IA `biblestudiesistu00pent` |
+| Parliament of Religion: The Invincible Gospel (New York: Fleming H. Revell; entered 1893) | have-ocr | IA `parliamentofreli00pent` |
+| A South Window; or, Keep Yourselves in the Love of God, tenth thousand (London: Hodder and Stoughton, MDCCCXCIII) | have-ocr | IA `asouthwindowork00pentgoog` |
+| The Birth and Boyhood of Jesus (London: Hodder and Stoughton, MDCCCXCVI) | have-ocr | IA `birthboyhoodofje00pent` |
+| Systematic Beneficence: When and How to Give (New York: A. D. F. Randolph, copyright 1897) | have-ocr | IA `systematicbenefi00pent` |
+| The Justification of the Present War, a sermon of 1 May 1898, stenographic report (New York, 1898) | have-ocr | IA `justificationofp00pent` |
+| Protestantism in the Philippines, a sermon preached in Manila, 21 December 1902 (New York, 1903) | have-ocr | IA `protestantisminp00pent` |
+| Fighting for Faith: The Justice of Our Fight, the Reasons for Our Faith, with a biographical foreword by another hand (New York: George H. Doran, copyright 1918) | have-ocr | IA `fightingforfaith0000geor` |
+| The Angel in the Marble, and Other Papers, enlarged English edition (Hodder and Stoughton, 1883; angelinmarblean00pentgoog) | alternate | not shelved |
+| Second copy of Fighting for Faith | alternate | not shelved |
+| World Rulers of Darkness, and Spiritual Wickedness in High Places (IA spiritualwickedn00pent, catalogued Philadelphia, 1917): no author name readable in the OCR's first 20 KB, so not shelved | alternate | not shelved |
+| Song Victories of the Bliss and Sankey Hymns and Dewey's True Science of Living: his introductions only | excluded | |
+| Studies in the Gospel of St. John (1946) | excluded | |
+| Hugh Pentecost and others | excluded | |

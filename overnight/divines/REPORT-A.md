@@ -1006,3 +1006,6 @@
 
 ## 2026-10-17 17:22 CDT — w-e-blackstone done
 - `pipeline/w-e-blackstone_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for blackstone-our-god-universe (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — george-f-pentecost done
+- `pipeline/george-f-pentecost_shelf.json`: 0 CCEL, 0 PG, 13 IA. Title pages read for pentecost-bible-studies-1892, pentecost-bible-studies-1893 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
