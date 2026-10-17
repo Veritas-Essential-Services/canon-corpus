@@ -1,0 +1,36 @@
+{
+ "_about": "W. R. Sorley (1855-1935), raw IA OCR: Moral Values and the Idea of God, Gifford Lectures (Cambridge: University Press, 1918). US public domain. No uids minted.",
+ "_author": "W. R. Sorley",
+ "_name_words": [
+  "w",
+  "r",
+  "william",
+  "ritchie",
+  "sorley"
+ ],
+ "_surname": [
+  "sorley"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sorley-moral-values-and-the-idea-of-god-1918": [
+   "moralvaluesandth00sorluoft",
+   "Moral Values and the Idea of God (Cambridge, 1918)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "sorley-moral-values-and-the-idea-of-god-1918": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sorley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
