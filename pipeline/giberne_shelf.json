@@ -1,0 +1,533 @@
+{
+ "_about": "Agnes Giberne's stories for the young and popular astronomy: every English text under her name at Gutenberg (catalogue: Giberne 1845-1939). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Agnes Giberne",
+ "_name_words": [
+  "giberne"
+ ],
+ "_surname": [
+  "agnes giberne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "giberne-a-lady-of-england": [
+   54218,
+   "A Lady of England: The Life and Letters of Charlotte Maria Tucker"
+  ],
+  "giberne-least-said-soonest-mended": [
+   70292,
+   "Least said, soonest mended"
+  ],
+  "giberne-dalrymples": [
+   70740,
+   "The Dalrymples"
+  ],
+  "giberne-doings-of-doris": [
+   70861,
+   "The doings of Doris"
+  ],
+  "giberne-anthony-craggs-tenant": [
+   70873,
+   "Anthony Cragg's tenant"
+  ],
+  "giberne-miles-murchison": [
+   70919,
+   "Miles Murchison"
+  ],
+  "giberne-a-quiet-valley": [
+   71132,
+   "A quiet valley"
+  ],
+  "giberne-won-at-last": [
+   71133,
+   "Won at last"
+  ],
+  "giberne-five-thousand-pounds": [
+   71192,
+   "Five thousand pounds"
+  ],
+  "giberne-roy": [
+   71323,
+   "Roy"
+  ],
+  "giberne-daisy-of-old-meadow": [
+   71381,
+   "Daisy of \"Old Meadow.\""
+  ],
+  "giberne-old-comrades": [
+   71978,
+   "Old comrades"
+  ],
+  "giberne-mighty-deep": [
+   72330,
+   "The mighty deep",
+   {
+    "contents_only": true
+   }
+  ],
+  "giberne-lifes-little-stage": [
+   72559,
+   "Life's little stage"
+  ],
+  "giberne-miss-devereux-spinster": [
+   72933,
+   "Miss Devereux, spinster"
+  ],
+  "giberne-too-dearly-bought": [
+   73196,
+   "Too dearly bought"
+  ],
+  "giberne-miss-con": [
+   73389,
+   "Miss Con"
+  ],
+  "giberne-ready-aye-ready": [
+   73528,
+   "Ready, aye ready!"
+  ],
+  "giberne-old-house-in-the-city": [
+   73596,
+   "The old house in the city"
+  ],
+  "giberne-andersons": [
+   73910,
+   "The Andersons"
+  ],
+  "giberne-marigolds-decision": [
+   73955,
+   "Marigold's decision"
+  ],
+  "giberne-little-why-because": [
+   74200,
+   "Little \"Why-because\""
+  ],
+  "giberne-everybodys-business": [
+   74626,
+   "Everybody's business"
+  ],
+  "giberne-nigel-browning": [
+   75102,
+   "Nigel Browning"
+  ],
+  "giberne-pride-o-the-morning": [
+   75867,
+   "The pride o' the morning"
+  ],
+  "giberne-charitys-birthday-text": [
+   76384,
+   "Charity's birthday text"
+  ],
+  "giberne-miss-primrose": [
+   76528,
+   "Miss Primrose"
+  ],
+  "giberne-little-eyebright-and-her-pund-o-care": [
+   76696,
+   "Little Eyebright and her pund o' care"
+  ],
+  "giberne-jock-with-mousie": [
+   76826,
+   "Jock with Mousie"
+  ],
+  "giberne-story-of-the-sun-moon-and-stars": [
+   77004,
+   "The story of the sun, moon, and stars",
+   {
+    "contents_only": true
+   }
+  ],
+  "giberne-gwendoline": [
+   77349,
+   "Gwendoline"
+  ],
+  "giberne-willie-and-lucy-at-the-sea-side": [
+   77801,
+   "Willie and Lucy at the sea-side"
+  ],
+  "giberne-starry-skies": [
+   77859,
+   "The starry skies",
+   {
+    "contents_only": true
+   }
+  ],
+  "giberne-beryl-and-pearl": [
+   78471,
+   "Beryl and Pearl"
+  ],
+  "giberne-life-tangles": [
+   78624,
+   "Life-tangles"
+  ],
+  "giberne-number-three-winifred-place": [
+   78795,
+   "Number Three, Winifred Place"
+  ],
+  "giberne-willie-and-lucy-abroad": [
+   78805,
+   "Willie and Lucy abroad"
+  ],
+  "giberne-her-brothers-keeper": [
+   78931,
+   "Her brother's keeper"
+  ],
+  "giberne-madge-hardwicke": [
+   79005,
+   "Madge Hardwicke; or, The mists of the valley"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "giberne-a-lady-of-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-least-said-soonest-mended": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-dalrymples": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-doings-of-doris": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-anthony-craggs-tenant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-miles-murchison": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-a-quiet-valley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-won-at-last": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-five-thousand-pounds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-roy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-daisy-of-old-meadow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-old-comrades": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-mighty-deep": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-lifes-little-stage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-miss-devereux-spinster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-too-dearly-bought": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-miss-con": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-ready-aye-ready": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-old-house-in-the-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-andersons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-marigolds-decision": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-little-why-because": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-everybodys-business": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-nigel-browning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-pride-o-the-morning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-charitys-birthday-text": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-miss-primrose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-little-eyebright-and-her-pund-o-care": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-jock-with-mousie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-story-of-the-sun-moon-and-stars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-gwendoline": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-willie-and-lucy-at-the-sea-side": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-starry-skies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-beryl-and-pearl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-life-tangles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-number-three-winifred-place": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-willie-and-lucy-abroad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-her-brothers-keeper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "giberne-madge-hardwicke": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "agnes giberne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

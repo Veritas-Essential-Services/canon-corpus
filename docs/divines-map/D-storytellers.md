@@ -5404,6 +5404,52 @@ Shelf: `pipeline/lt-meade_shelf.json` (2026-10-17; added at the coordinator's re
 | lt-meade-repeat-43147 | excluded | PG 43147, A World of Girls: The Story of a School: a second transcription of a title already on this shelf |
 | ltmeade-a-big-temptation | excluded | PG 25467, A Big Temptation, and Other Stories, is shared with M. B. Manwell and Maggie Browne |
 
+## Agnes Giberne
+
+Shelf: `pipeline/giberne_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for the young and popular astronomy. Every English text under the name at Gutenberg that no other shelf holds (39 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Lady of England: The Life and Letters of Charlotte Maria Tucker | have | PG 54218, `giberne-a-lady-of-england` (3171 units) |
+| Least said, soonest mended | have | PG 70292, `giberne-least-said-soonest-mended` (2030 units) |
+| The Dalrymples | have | PG 70740, `giberne-dalrymples` (2083 units) |
+| The doings of Doris | have | PG 70861, `giberne-doings-of-doris` (2470 units) |
+| Anthony Cragg's tenant | have | PG 70873, `giberne-anthony-craggs-tenant` (1346 units) |
+| Miles Murchison | have | PG 70919, `giberne-miles-murchison` (662 units) |
+| A quiet valley | have | PG 71132, `giberne-a-quiet-valley` (2154 units) |
+| Won at last | have | PG 71133, `giberne-won-at-last` (1584 units) |
+| Five thousand pounds | have | PG 71192, `giberne-five-thousand-pounds` (509 units) |
+| Roy | have | PG 71323, `giberne-roy` (2143 units) |
+| Daisy of "Old Meadow." | have | PG 71381, `giberne-daisy-of-old-meadow` (675 units) |
+| Old comrades | have | PG 71978, `giberne-old-comrades` (1539 units) |
+| The mighty deep | have | PG 72330, `giberne-mighty-deep` (1252 units) |
+| Life's little stage | have | PG 72559, `giberne-lifes-little-stage` (2135 units) |
+| Miss Devereux, spinster | have | PG 72933, `giberne-miss-devereux-spinster` (3309 units) |
+| Too dearly bought | have | PG 73196, `giberne-too-dearly-bought` (684 units) |
+| Miss Con | have | PG 73389, `giberne-miss-con` (2203 units) |
+| Ready, aye ready! | have | PG 73528, `giberne-ready-aye-ready` (1229 units) |
+| The old house in the city | have | PG 73596, `giberne-old-house-in-the-city` (1488 units) |
+| The Andersons | have | PG 73910, `giberne-andersons` (2212 units) |
+| Marigold's decision | have | PG 73955, `giberne-marigolds-decision` (708 units) |
+| Little "Why-because" | have | PG 74200, `giberne-little-why-because` (926 units) |
+| Everybody's business | have | PG 74626, `giberne-everybodys-business` (1494 units) |
+| Nigel Browning | have | PG 75102, `giberne-nigel-browning` (3043 units) |
+| The pride o' the morning | have | PG 75867, `giberne-pride-o-the-morning` (2169 units) |
+| Charity's birthday text | have | PG 76384, `giberne-charitys-birthday-text` (302 units) |
+| Miss Primrose | have | PG 76528, `giberne-miss-primrose` (965 units) |
+| Little Eyebright and her pund o' care | have | PG 76696, `giberne-little-eyebright-and-her-pund-o-care` (764 units) |
+| Jock with Mousie | have | PG 76826, `giberne-jock-with-mousie` (888 units) |
+| The story of the sun, moon, and stars | have | PG 77004, `giberne-story-of-the-sun-moon-and-stars` (1455 units) |
+| Gwendoline | have | PG 77349, `giberne-gwendoline` (1612 units) |
+| Willie and Lucy at the sea-side | have | PG 77801, `giberne-willie-and-lucy-at-the-sea-side` (360 units) |
+| The starry skies | have | PG 77859, `giberne-starry-skies` (1887 units) |
+| Beryl and Pearl | have | PG 78471, `giberne-beryl-and-pearl` (2536 units) |
+| Life-tangles | have | PG 78624, `giberne-life-tangles` (2098 units) |
+| Number Three, Winifred Place | have | PG 78795, `giberne-number-three-winifred-place` (1818 units) |
+| Willie and Lucy abroad | have | PG 78805, `giberne-willie-and-lucy-abroad` (368 units) |
+| Her brother's keeper | have | PG 78931, `giberne-her-brothers-keeper` (697 units) |
+| Madge Hardwicke; or, The mists of the valley | have | PG 79005, `giberne-madge-hardwicke` (1562 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
