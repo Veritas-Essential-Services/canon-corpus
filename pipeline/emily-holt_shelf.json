@@ -1,0 +1,320 @@
+{
+ "_about": "Emily Sarah Holt's historical tales of English and Reformation history: every English text under her name at Gutenberg (catalogue: Holt 1836-1893). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Emily Sarah Holt",
+ "_name_words": [
+  "holt"
+ ],
+ "_surname": [
+  "emily sarah holt",
+  "emily s. holt"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "eholt-alls-well": [
+   21233,
+   "\"All's Well\"; or, Alice's Victory"
+  ],
+  "eholt-gold-that-glitters-the-mistakes-of-jenny-lavender": [
+   21234,
+   "The Gold that Glitters The Mistakes of Jenny Lavender"
+  ],
+  "eholt-maidens-lodge": [
+   21235,
+   "The Maidens' Lodge; or, None of Self and All of Thee (In the Reign of Queen Anne)"
+  ],
+  "eholt-clare-avery": [
+   22942,
+   "Clare Avery: A Story of the Spanish Armada",
+   {
+    "contents_only": true
+   }
+  ],
+  "eholt-a-forgotten-hero": [
+   23119,
+   "A Forgotten Hero; Or, Not for Him"
+  ],
+  "eholt-kings-daughters": [
+   23120,
+   "The King's Daughters"
+  ],
+  "eholt-our-little-lady-six-hundred-years-ago": [
+   23121,
+   "Our Little Lady Six Hundred Years Ago"
+  ],
+  "eholt-well-in-the-desert-an-old-legend-of-the-house-of-arund": [
+   23122,
+   "The Well in the Desert An Old Legend of the House of Arundel"
+  ],
+  "eholt-mistress-margery": [
+   23187,
+   "Mistress Margery"
+  ],
+  "eholt-white-rose-of-langley-a-story-of-the-olden-time": [
+   23276,
+   "The White Rose of Langley A Story of the Olden Time"
+  ],
+  "eholt-white-lady-of-hazelwood": [
+   23623,
+   "The White Lady of Hazelwood: A Tale of the Fourteenth Century"
+  ],
+  "eholt-out-in-the-forty-five-duncan-keiths-vow": [
+   23766,
+   "Out in the Forty-Five Duncan Keith's Vow"
+  ],
+  "eholt-earl-huberts-daughter-the-polishing-of-the-pearl-a-tal": [
+   24085,
+   "Earl Hubert's Daughter The Polishing of the Pearl - A Tale of the 13th Century"
+  ],
+  "eholt-for-the-masters-sake": [
+   24105,
+   "For the Master's Sake: A Story of the Days of Queen Mary"
+  ],
+  "eholt-joyce-morrells-harvest-the-annals-of-selwick-hall": [
+   25691,
+   "Joyce Morrell's Harvest The Annals of Selwick Hall"
+  ],
+  "eholt-it-might-have-been": [
+   25834,
+   "It Might Have Been: The Story of the Gunpowder Plot"
+  ],
+  "eholt-in-convent-walls-the-story-of-the-despensers": [
+   27958,
+   "In Convent Walls The Story of the Despensers"
+  ],
+  "eholt-one-snowy-night-long-ago-at-oxford": [
+   27962,
+   "One Snowy Night Long ago at Oxford"
+  ],
+  "eholt-robin-tremayne-a-story-of-the-marian-persecution": [
+   28040,
+   "Robin Tremayne A Story of the Marian Persecution"
+  ],
+  "eholt-lady-sybils-choice": [
+   44115,
+   "Lady Sybil's Choice: A Tale of the Crusades"
+  ],
+  "eholt-red-and-white": [
+   44463,
+   "Red and White: A Tale of the Wars of the Roses"
+  ],
+  "eholt-under-one-sceptre-or-mortimers-mission": [
+   44464,
+   "Under One Sceptre, or Mortimer's Mission: The Story of the Lord of the Marches"
+  ],
+  "eholt-ashcliffe-hall": [
+   69096,
+   "Ashcliffe Hall: A tale of the last century"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "eholt-alls-well": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-gold-that-glitters-the-mistakes-of-jenny-lavender": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-maidens-lodge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-clare-avery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-a-forgotten-hero": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-kings-daughters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-our-little-lady-six-hundred-years-ago": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-well-in-the-desert-an-old-legend-of-the-house-of-arund": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-mistress-margery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-white-rose-of-langley-a-story-of-the-olden-time": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-white-lady-of-hazelwood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-out-in-the-forty-five-duncan-keiths-vow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-earl-huberts-daughter-the-polishing-of-the-pearl-a-tal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-for-the-masters-sake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-joyce-morrells-harvest-the-annals-of-selwick-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-it-might-have-been": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-in-convent-walls-the-story-of-the-despensers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-one-snowy-night-long-ago-at-oxford": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-robin-tremayne-a-story-of-the-marian-persecution": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-lady-sybils-choice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-red-and-white": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-under-one-sceptre-or-mortimers-mission": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eholt-ashcliffe-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "emily sarah holt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -5929,6 +5929,36 @@ Shelf: `pipeline/pansy_shelf.json` (2026-10-17; added at the coordinator's relay
 | Lost Nellie | have | PG 77247, `pansy-lost-nellie` (89 units) |
 | Christie's Christmas | have | PG 79517, `pansy-christies-christmas` (1730 units) |
 
+## Emily Sarah Holt
+
+Shelf: `pipeline/emily-holt_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Historical tales of English and Reformation history. Every English text under the name at Gutenberg that no other shelf holds (23 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| "All's Well"; or, Alice's Victory | have | PG 21233, `eholt-alls-well` (1707 units) |
+| The Gold that Glitters The Mistakes of Jenny Lavender | have | PG 21234, `eholt-gold-that-glitters-the-mistakes-of-jenny-lavender` (620 units) |
+| The Maidens' Lodge; or, None of Self and All of Thee (In the Reign of Queen Anne) | have | PG 21235, `eholt-maidens-lodge` (2130 units) |
+| Clare Avery: A Story of the Spanish Armada | have | PG 22942, `eholt-clare-avery` (2665 units) |
+| A Forgotten Hero; Or, Not for Him | have | PG 23119, `eholt-a-forgotten-hero` (1232 units) |
+| The King's Daughters | have | PG 23120, `eholt-kings-daughters` (1869 units) |
+| Our Little Lady Six Hundred Years Ago | have | PG 23121, `eholt-our-little-lady-six-hundred-years-ago` (624 units) |
+| The Well in the Desert An Old Legend of the House of Arundel | have | PG 23122, `eholt-well-in-the-desert-an-old-legend-of-the-house-of-arund` (781 units) |
+| Mistress Margery | have | PG 23187, `eholt-mistress-margery` (758 units) |
+| The White Rose of Langley A Story of the Olden Time | have | PG 23276, `eholt-white-rose-of-langley-a-story-of-the-olden-time` (2362 units) |
+| The White Lady of Hazelwood: A Tale of the Fourteenth Century | have | PG 23623, `eholt-white-lady-of-hazelwood` (1572 units) |
+| Out in the Forty-Five Duncan Keith's Vow | have | PG 23766, `eholt-out-in-the-forty-five-duncan-keiths-vow` (2904 units) |
+| Earl Hubert's Daughter The Polishing of the Pearl - A Tale of the 13th Century | have | PG 24085, `eholt-earl-huberts-daughter-the-polishing-of-the-pearl-a-tal` (2242 units) |
+| For the Master's Sake: A Story of the Days of Queen Mary | have | PG 24105, `eholt-for-the-masters-sake` (514 units) |
+| Joyce Morrell's Harvest The Annals of Selwick Hall | have | PG 25691, `eholt-joyce-morrells-harvest-the-annals-of-selwick-hall` (1913 units) |
+| It Might Have Been: The Story of the Gunpowder Plot | have | PG 25834, `eholt-it-might-have-been` (2640 units) |
+| In Convent Walls The Story of the Despensers | have | PG 27958, `eholt-in-convent-walls-the-story-of-the-despensers` (2034 units) |
+| One Snowy Night Long ago at Oxford | have | PG 27962, `eholt-one-snowy-night-long-ago-at-oxford` (2659 units) |
+| Robin Tremayne A Story of the Marian Persecution | have | PG 28040, `eholt-robin-tremayne-a-story-of-the-marian-persecution` (2500 units) |
+| Lady Sybil's Choice: A Tale of the Crusades | have | PG 44115, `eholt-lady-sybils-choice` (2157 units) |
+| Red and White: A Tale of the Wars of the Roses | have | PG 44463, `eholt-red-and-white` (1498 units) |
+| Under One Sceptre, or Mortimer's Mission: The Story of the Lord of the Marches | have | PG 44464, `eholt-under-one-sceptre-or-mortimers-mission` (1269 units) |
+| Ashcliffe Hall: A tale of the last century | have | PG 69096, `eholt-ashcliffe-hall` (2709 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
