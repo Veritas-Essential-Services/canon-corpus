@@ -1,0 +1,65 @@
+{
+ "_about": "Hermann Lotze (1817-1881) in English, raw IA OCR: Microcosmus, tr. Elizabeth Hamilton and E. E. Constance Jones (T. & T. Clark, vol. I 1885, vol. II 1887); Lotze's System of Philosophy, English translation edited by Bernard Bosanquet (Oxford, 2nd ed.: Logic, 2 vols., 1888; Metaphysic, 2 vols., 1887); and four of George T. Ladd's Outlines of Philosophy, dictated portions of the lectures (Ginn: Practical Philosophy 1885, Psychology 1886, Logic and Encyclopedia 1887, Philosophy of Religion in a 1903 printing). US public domain. Wanted: Ladd's Outlines of Metaphysic (1884) and Outlines of Aesthetics. No uids minted.",
+ "_author": "Hermann Lotze",
+ "_name_words": [
+  "hermann",
+  "rudolf",
+  "lotze"
+ ],
+ "_surname": [
+  "lotze"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lotze-hamilton-jones-microcosmus-1885-v1": [
+   "microcosmusessa01lotz",
+   "Microcosmus: an essay concerning man and his relation to the world, vol. I (Edinburgh: T. & T. Clark, 1885)",
+   "tr. Elizabeth Hamilton and E. E. Constance Jones"
+  ],
+  "lotze-hamilton-jones-microcosmus-1887-v2": [
+   "microcosmusessay02lotziala",
+   "Microcosmus, vol. II (Edinburgh: T. & T. Clark, 1887)",
+   "tr. Elizabeth Hamilton and E. E. Constance Jones"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "lotze-hamilton-jones-microcosmus-1885-v1": "Hamilton",
+  "lotze-hamilton-jones-microcosmus-1887-v2": "Hamilton"
+ },
+ "_identity_checked": {
+  "lotze-hamilton-jones-microcosmus-1887-v2": {
+   "author": "title page read 2026-10-17: OCR gives 'MICROCOSMUS: AN ESSAY CONCERNING MAN AND HIS RELATION TO THE WORLD. BY translated from the German BY ELIZABETH HAMILTON AND E. E. CONSTANCE JONES ... VOL. II. EDINBURGH: T. & T. CLARK ... 1887'; the author's name line is lost in the OCR, so the surname test cannot see it (vol. I of the same set names HERMANN LOTZE)"
+  }
+ },
+ "_checks": {
+  "lotze-hamilton-jones-microcosmus-1885-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "translator_claimed": "Hamilton",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lotze-hamilton-jones-microcosmus-1887-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Hamilton",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -3694,6 +3694,8 @@ Shelf: `pipeline/lotze_shelf.json`. Hermann Lotze (1817-1881) in English, raw IA
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Microcosmus: an essay concerning man and his relation to the world, vol. I (Edinburgh: T. & T. Clark, 1885) | Elizabeth Hamilton and E. E. Constance Jones | `lotze-hamilton-jones-microcosmus-1885-v1` | have-raw (IA `microcosmusessa01lotz`) |
+| Microcosmus, vol. II (Edinburgh: T. & T. Clark, 1887) | Elizabeth Hamilton and E. E. Constance Jones | `lotze-hamilton-jones-microcosmus-1887-v2` | have-raw (IA `microcosmusessay02lotziala`) |
 
 Pending (wishlist): Ladd's Outlines of Metaphysic (1884) and Outlines of Aesthetics (1886).
 
