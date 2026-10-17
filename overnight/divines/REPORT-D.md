@@ -1158,3 +1158,6 @@
 
 ## 2026-10-17 18:20 CDT — haggard: done
 - haggard: new shelf, 59 Gutenberg books, 98,007 units, 986 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:20 CDT — weyman: done
+- weyman: new shelf, 26 Gutenberg books, 52,133 units, 185 ~2 ids; verify 0 mismatches, 0 rights flags.

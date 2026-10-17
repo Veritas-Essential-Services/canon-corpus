@@ -22319,6 +22319,40 @@ Shelf: `pipeline/haggard_shelf.json` (2026-10-17; added at the coordinator's rel
 | Heu-Heu, or The monster | have | PG 76643, `haggard-heu-heu-or-the-monster` (1328 units) |
 | haggard-index | excluded | PG 58163 is David Widger's index, not a text |
 
+## Stanley J. Weyman
+
+Shelf: `pipeline/weyman_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Historical romances. Every English text under the name at Gutenberg that no other shelf holds (26 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The House of the Wolf: A Romance | have | PG 2041, `weyman-house-of-the-wolf` (905 units) |
+| From the Memoirs of a Minister of France | have | PG 2079, `weyman-from-the-memoirs-of-a-minister-of-france` (1753 units) |
+| The Castle Inn | have | PG 11918, `weyman-castle-inn` (2381 units) |
+| Count Hannibal: A Romance of the Court of France | have | PG 15763, `weyman-count-hannibal` (2413 units) |
+| The Long Night | have | PG 19485, `weyman-long-night` (2277 units) |
+| In Kings' Byways | have | PG 22334, `weyman-in-kings-byways` (1553 units) |
+| The Wild Geese | have | PG 29100, `weyman-wild-geese` (2096 units) |
+| Chippinge Borough | have | PG 38871, `weyman-chippinge-borough` (2802 units) |
+| A Little Wizard | have | PG 38872, `weyman-a-little-wizard` (515 units) |
+| The Abbess Of Vlaye | have | PG 38910, `weyman-abbess-of-vlaye` (2431 units) |
+| For the Cause | have | PG 38911, `weyman-for-the-cause` (690 units) |
+| My Lady Rotha: A Romance | have | PG 38985, `weyman-my-lady-rotha` (2823 units) |
+| Laid up in Lavender | have | PG 38989, `weyman-laid-up-in-lavender` (1753 units) |
+| Ovington's Bank | have | PG 38990, `weyman-ovingtons-bank` (3008 units) |
+| Historical Romances: Under the Red Robe, Count Hannibal, A Gentleman of France | have | PG 39136, `weyman-historical-romances` (6078 units) |
+| Shrewsbury: A Romance | have | PG 39137, `weyman-shrewsbury` (2216 units) |
+| Starvecrow Farm | have | PG 39138, `weyman-starvecrow-farm` (2968 units) |
+| Sophia: A Romance | have | PG 39168, `weyman-sophia` (2488 units) |
+| When Love Calls | have | PG 39214, `weyman-when-love-calls` (464 units) |
+| The New Rector | have | PG 39215, `weyman-new-rector` (1678 units) |
+| The Snowball | have | PG 39216, `weyman-snowball` (148 units) |
+| The King's Stratagem, and Other Stories | have | PG 39217, `weyman-kings-stratagem-and-other-stories` (787 units) |
+| The Great House | have | PG 39294, `weyman-great-house` (2748 units) |
+| The man in black | have | PG 39295, `weyman-man-in-black` (718 units) |
+| The Story of Francis Cludde | have | PG 39296, `weyman-story-of-francis-cludde` (2052 units) |
+| The red cockade | have | PG 39297, `weyman-red-cockade` (2388 units) |
+| weyman-index | excluded | PG 59008 is David Widger's index, not a text |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

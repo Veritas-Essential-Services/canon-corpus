@@ -1,0 +1,392 @@
+{
+ "_about": "Stanley J. Weyman's historical romances: every English text under his name at Gutenberg (catalogue: Weyman 1855-1928). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Stanley J. Weyman",
+ "_name_words": [
+  "weyman"
+ ],
+ "_surname": [
+  "stanley j. weyman",
+  "stanley john weyman",
+  "stanley weyman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "weyman-house-of-the-wolf": [
+   2041,
+   "The House of the Wolf: A Romance"
+  ],
+  "weyman-from-the-memoirs-of-a-minister-of-france": [
+   2079,
+   "From the Memoirs of a Minister of France"
+  ],
+  "weyman-castle-inn": [
+   11918,
+   "The Castle Inn"
+  ],
+  "weyman-count-hannibal": [
+   15763,
+   "Count Hannibal: A Romance of the Court of France"
+  ],
+  "weyman-long-night": [
+   19485,
+   "The Long Night"
+  ],
+  "weyman-in-kings-byways": [
+   22334,
+   "In Kings' Byways"
+  ],
+  "weyman-wild-geese": [
+   29100,
+   "The Wild Geese",
+   {
+    "contents_only": true
+   }
+  ],
+  "weyman-chippinge-borough": [
+   38871,
+   "Chippinge Borough"
+  ],
+  "weyman-a-little-wizard": [
+   38872,
+   "A Little Wizard",
+   {
+    "contents_only": true
+   }
+  ],
+  "weyman-abbess-of-vlaye": [
+   38910,
+   "The Abbess Of Vlaye",
+   {
+    "contents_only": true
+   }
+  ],
+  "weyman-for-the-cause": [
+   38911,
+   "For the Cause"
+  ],
+  "weyman-my-lady-rotha": [
+   38985,
+   "My Lady Rotha: A Romance",
+   {
+    "contents_only": true
+   }
+  ],
+  "weyman-laid-up-in-lavender": [
+   38989,
+   "Laid up in Lavender"
+  ],
+  "weyman-ovingtons-bank": [
+   38990,
+   "Ovington's Bank"
+  ],
+  "weyman-historical-romances": [
+   39136,
+   "Historical Romances: Under the Red Robe, Count Hannibal, A Gentleman of France",
+   {
+    "contents_only": true
+   }
+  ],
+  "weyman-shrewsbury": [
+   39137,
+   "Shrewsbury: A Romance"
+  ],
+  "weyman-starvecrow-farm": [
+   39138,
+   "Starvecrow Farm"
+  ],
+  "weyman-sophia": [
+   39168,
+   "Sophia: A Romance",
+   {
+    "contents_only": true
+   }
+  ],
+  "weyman-when-love-calls": [
+   39214,
+   "When Love Calls",
+   {
+    "contents_only": true
+   }
+  ],
+  "weyman-new-rector": [
+   39215,
+   "The New Rector"
+  ],
+  "weyman-snowball": [
+   39216,
+   "The Snowball"
+  ],
+  "weyman-kings-stratagem-and-other-stories": [
+   39217,
+   "The King's Stratagem, and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "weyman-great-house": [
+   39294,
+   "The Great House"
+  ],
+  "weyman-man-in-black": [
+   39295,
+   "The man in black",
+   {
+    "contents_only": true
+   }
+  ],
+  "weyman-story-of-francis-cludde": [
+   39296,
+   "The Story of Francis Cludde",
+   {
+    "contents_only": true
+   }
+  ],
+  "weyman-red-cockade": [
+   39297,
+   "The red cockade",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "weyman-index": "PG 59008 is David Widger's index, not a text"
+ },
+ "_checks": {
+  "weyman-house-of-the-wolf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley john weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-from-the-memoirs-of-a-minister-of-france": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley john weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-castle-inn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-count-hannibal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-long-night": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley john weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-in-kings-byways": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-wild-geese": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-chippinge-borough": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-a-little-wizard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-abbess-of-vlaye": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-for-the-cause": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-my-lady-rotha": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-laid-up-in-lavender": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-ovingtons-bank": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-historical-romances": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-shrewsbury": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-starvecrow-farm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-sophia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-when-love-calls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-new-rector": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-snowball": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-kings-stratagem-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-great-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-man-in-black": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-story-of-francis-cludde": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley j. weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "weyman-red-cockade": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stanley john weyman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

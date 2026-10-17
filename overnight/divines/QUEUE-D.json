@@ -2349,6 +2349,14 @@
       "started": "2026-10-17T18:20:50-05:00",
       "finished": "2026-10-17T18:20:50-05:00",
       "notes": "haggard: new shelf, 59 Gutenberg books, 98,007 units, 986 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "weyman",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Stanley J. Weyman; no minting",
+      "status": "done",
+      "started": "2026-10-17T18:20:51-05:00",
+      "finished": "2026-10-17T18:20:51-05:00",
+      "notes": "weyman: new shelf, 26 Gutenberg books, 52,133 units, 185 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
