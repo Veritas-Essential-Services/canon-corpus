@@ -880,3 +880,14 @@
 - wilhelm-wundt: Ethics (1897-1901, 3 vols)
 - henri-bergson: Matter and Memory, Introduction to Metaphysics, Mind-Energy, Meaning of the War
 - Held: Paulsen's System of Ethics (copyright line unreadable)
+
+## 2026-10-17 18:15 CDT — Round r: French philosophy, American personalism, Pico
+- victor-cousin: History of Modern Philosophy, tr. Wight (1852, 2 vols)
+- emile-boutroux: 4 works 1911-1920
+- georges-sorel: Reflections on Violence, tr. Hulme (1916)
+- theodore-jouffroy: Introduction to Ethics, tr. Channing (1840, 2 vols)
+- destutt-de-tracy: Treatise on Political Economy (1817)
+- borden-parker-bowne: 4 works 1882-1902
+- pico-della-mirandola: Platonick Discourse upon Love (Stanley, ed. Gardner 1914)
+- gustave-le-bon: The Crowd (PG 445); Psychology of Revolution (PG 448) left for lane C's bernard-miall
+- Held: Bayle's Dictionary (1734 English, OCR 0.751 under the 0.78 gate)
