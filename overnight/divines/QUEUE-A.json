@@ -3232,6 +3232,97 @@
       "added_by": "lane A",
       "finished": "2026-10-17T18:45:15-05:00",
       "notes": "built and verified"
+    },
+    {
+      "id": "charles-gore",
+      "status": "queued",
+      "scope": "round 27: Anglican Catholic and Lux Mundi theologians, twentieth-century writers on mysticism (works printed before 1930), Cusa, Nicholas Love, Cosin, Hurrell Froude, R. H. Benson and Russian Orthodox writers in English",
+      "added": "2026-10-17T23:47Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "j-r-illingworth",
+      "status": "queued",
+      "scope": "round 27: Anglican Catholic and Lux Mundi theologians, twentieth-century writers on mysticism (works printed before 1930), Cusa, Nicholas Love, Cosin, Hurrell Froude, R. H. Benson and Russian Orthodox writers in English",
+      "added": "2026-10-17T23:47Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "w-r-inge",
+      "status": "queued",
+      "scope": "round 27: Anglican Catholic and Lux Mundi theologians, twentieth-century writers on mysticism (works printed before 1930), Cusa, Nicholas Love, Cosin, Hurrell Froude, R. H. Benson and Russian Orthodox writers in English",
+      "added": "2026-10-17T23:47Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "evelyn-underhill",
+      "status": "queued",
+      "scope": "round 27: Anglican Catholic and Lux Mundi theologians, twentieth-century writers on mysticism (works printed before 1930), Cusa, Nicholas Love, Cosin, Hurrell Froude, R. H. Benson and Russian Orthodox writers in English",
+      "added": "2026-10-17T23:47Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "friedrich-von-hugel",
+      "status": "queued",
+      "scope": "round 27: Anglican Catholic and Lux Mundi theologians, twentieth-century writers on mysticism (works printed before 1930), Cusa, Nicholas Love, Cosin, Hurrell Froude, R. H. Benson and Russian Orthodox writers in English",
+      "added": "2026-10-17T23:47Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "nicholas-of-cusa",
+      "status": "queued",
+      "scope": "round 27: Anglican Catholic and Lux Mundi theologians, twentieth-century writers on mysticism (works printed before 1930), Cusa, Nicholas Love, Cosin, Hurrell Froude, R. H. Benson and Russian Orthodox writers in English",
+      "added": "2026-10-17T23:47Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "nicholas-love",
+      "status": "queued",
+      "scope": "round 27: Anglican Catholic and Lux Mundi theologians, twentieth-century writers on mysticism (works printed before 1930), Cusa, Nicholas Love, Cosin, Hurrell Froude, R. H. Benson and Russian Orthodox writers in English",
+      "added": "2026-10-17T23:47Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "john-cosin",
+      "status": "queued",
+      "scope": "round 27: Anglican Catholic and Lux Mundi theologians, twentieth-century writers on mysticism (works printed before 1930), Cusa, Nicholas Love, Cosin, Hurrell Froude, R. H. Benson and Russian Orthodox writers in English",
+      "added": "2026-10-17T23:47Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "hurrell-froude",
+      "status": "queued",
+      "scope": "round 27: Anglican Catholic and Lux Mundi theologians, twentieth-century writers on mysticism (works printed before 1930), Cusa, Nicholas Love, Cosin, Hurrell Froude, R. H. Benson and Russian Orthodox writers in English",
+      "added": "2026-10-17T23:47Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "robert-hugh-benson",
+      "status": "queued",
+      "scope": "round 27: Anglican Catholic and Lux Mundi theologians, twentieth-century writers on mysticism (works printed before 1930), Cusa, Nicholas Love, Cosin, Hurrell Froude, R. H. Benson and Russian Orthodox writers in English",
+      "added": "2026-10-17T23:47Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "aleksei-khomiakov",
+      "status": "queued",
+      "scope": "round 27: Anglican Catholic and Lux Mundi theologians, twentieth-century writers on mysticism (works printed before 1930), Cusa, Nicholas Love, Cosin, Hurrell Froude, R. H. Benson and Russian Orthodox writers in English",
+      "added": "2026-10-17T23:47Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "philaret-of-moscow",
+      "status": "queued",
+      "scope": "round 27: Anglican Catholic and Lux Mundi theologians, twentieth-century writers on mysticism (works printed before 1930), Cusa, Nicholas Love, Cosin, Hurrell Froude, R. H. Benson and Russian Orthodox writers in English",
+      "added": "2026-10-17T23:47Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "john-of-kronstadt",
+      "status": "queued",
+      "scope": "round 27: Anglican Catholic and Lux Mundi theologians, twentieth-century writers on mysticism (works printed before 1930), Cusa, Nicholas Love, Cosin, Hurrell Froude, R. H. Benson and Russian Orthodox writers in English",
+      "added": "2026-10-17T23:47Z",
+      "added_by": "lane A"
     }
   ]
 }
