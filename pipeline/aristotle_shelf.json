@@ -183,6 +183,16 @@
    "treatiseonpoetry02arisuoft",
    "Aristotle's Treatise on Poetry, second edition, vol. II: the notes (London: Luke Hansard, 1812)",
    "tr. Thomas Twining"
+  ],
+  "aristotle-ogle-parts-of-animals-1882": [
+   "aristotleonparts00arisrich",
+   "Aristotle on the Parts of Animals, translated, with introduction and notes (London: Kegan Paul, Trench, 1882; not the Oxford translation of 1912 in vol. V)",
+   "tr. W. Ogle"
+  ],
+  "aristotle-ogle-youth-old-age-1897": [
+   "aristotleonyouth00aris",
+   "Aristotle on Youth and Old Age, Life and Death, and Respiration, translated, with introduction and notes (London: Longmans, Green, 1897)",
+   "tr. W. Ogle"
   ]
  },
  "_excluded": {
@@ -223,7 +233,9 @@
   "aristotle-poste-posterior-analytics-1850": "Poste",
   "aristotle-poste-athenian-constitution-1891": "Poste",
   "aristotle-twining-poetry-1812-v1": "Twining",
-  "aristotle-twining-poetry-1812-v2": "Twining"
+  "aristotle-twining-poetry-1812-v2": "Twining",
+  "aristotle-ogle-parts-of-animals-1882": "Ogle",
+  "aristotle-ogle-youth-old-age-1897": "Ogle"
  },
  "_translator_unchecked": {
   "aristotle-ross-v01": "no single translator to check: None",
@@ -698,6 +710,32 @@
    "identity": "ok",
    "ia_rights": "ok: published 1812",
    "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristotle-ogle-parts-of-animals-1882": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "Ogle",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristotle-ogle-youth-old-age-1897": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "Ogle",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
