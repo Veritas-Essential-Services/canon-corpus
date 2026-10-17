@@ -1,0 +1,350 @@
+{
+ "_about": "Public-domain Henry Scott Holland (1847-1918, canon of St Paul's and Regius Professor of Divinity at Oxford) for the Word Hoard: 20 books from Internet Archive scans, 1882-1923, among them Logic and Life (1882), Creed and Character (1887), On Behalf of Belief (1889), The Real Problem of Eschatology (1916) and the posthumous The Philosophy of Faith and the Fourth Gospel (1920). Raw OCR. Added 2026-10-17 by lane A, round 23 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "holland"
+ ],
+ "_surname": [
+  "henry scott holland",
+  "h. scott holland",
+  "h. s. holland",
+  "holland, henry scott",
+  "henry scott holland, d.d.",
+  "canon scott holland"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "holland-logic-and-life": [
+   "logiclifewithoth00holl",
+   "Logic and Life, with Other Sermons (New York: Scribner's, 1882)"
+  ],
+  "holland-good-friday": [
+   "goodfridayaddre00hollgoog",
+   "Good Friday: Addresses on the Seven Last Words (London: Rivingtons, MDCCCLXXXIV)"
+  ],
+  "holland-creed-and-character": [
+   "creedandcharact00holluoft",
+   "Creed and Character: Sermons (London: Rivingtons, MDCCCLXXXVII)"
+  ],
+  "holland-christ-or-ecclesiastes": [
+   "christorecclesia0000unse",
+   "Christ or Ecclesiastes: sermons preached in St Paul's Cathedral (London: Rivingtons; catalogued 1888)"
+  ],
+  "holland-on-behalf-of-belief": [
+   "onbehalfofbelief00holl",
+   "On Behalf of Belief: sermons preached in St Paul's (London: Rivingtons, MDCCCLXXXIX)"
+  ],
+  "holland-pleas-and-claims": [
+   "pleasandclaims00holluoft",
+   "Pleas and Claims for Christ (London and New York: Longmans, 1892)"
+  ],
+  "holland-sermons-1892": [
+   "hollandssermons00holluoft",
+   "Sermons, Contemporary Pulpit Library (London: Swan Sonnenschein, 1892)"
+  ],
+  "holland-gods-city": [
+   "godscityandtheco00holluoft",
+   "God's City and the Coming of the Kingdom, new and cheaper edition (London: Longmans, 1897)"
+  ],
+  "holland-old-and-new": [
+   "oldnewsermons0000holl",
+   "Old and New: Sermons, second edition (London: S. C. Brown, Langham, 1903)"
+  ],
+  "holland-personal-studies": [
+   "personalstudies00holluoft",
+   "Personal Studies (London: Wells Gardner, Darton; catalogued 1905)"
+  ],
+  "holland-vital-values": [
+   "vitalvalues0000holl",
+   "Vital Values (London: Wells Gardner, Darton, 1906)"
+  ],
+  "holland-optimism-of-butler": [
+   "optimismofbutler00holluoft",
+   "The Optimism of Butler's Analogy, the Romanes Lecture 1908 (Oxford: Clarendon Press, 1908)"
+  ],
+  "holland-fibres-of-faith": [
+   "fibresoffaith0000henr",
+   "Fibres of Faith (London: Wells Gardner, Darton, 1910)"
+  ],
+  "holland-bundle-of-memories": [
+   "bundleofmemories00holl",
+   "A Bundle of Memories (London: Wells Gardner, Darton; catalogued 1915)"
+  ],
+  "holland-so-as-by-fire-2": [
+   "soasbyfirenoteso0000holl_m6b0",
+   "So as by Fire: Notes on the War, second series (London: Wells Gardner, Darton, 1916)"
+  ],
+  "holland-real-problem-eschatology": [
+   "realproblemofesc00holl",
+   "The Real Problem of Eschatology (London: Longmans, 1916)"
+  ],
+  "holland-creeds-and-critics": [
+   "creedsandcritics00holluoft",
+   "Creeds and Critics, edited by Christopher Cheshire (London: Mowbray; catalogued 1918)"
+  ],
+  "holland-facts-of-the-faith": [
+   "factsoffaith0000henr",
+   "Facts of the Faith, edited by Christopher Cheshire (London: Longmans, 1919)"
+  ],
+  "holland-philosophy-of-faith": [
+   "philosophyoffait00holluoft",
+   "The Philosophy of Faith and the Fourth Gospel, edited by Wilfrid Richmond (London: John Murray, 1920)"
+  ],
+  "holland-fourth-gospel": [
+   "fourthgospel00holl",
+   "The Fourth Gospel, edited by Wilfrid Richmond (London: John Murray, 1923)"
+  ]
+ },
+ "_alternates": {
+  "holland-so-as-by-fire-1": "So as by Fire, first series, third impression (Milwaukee; soasbyfirenoteso0000holl): a weak copy",
+  "holland-apostolic-fathers": "The Apostolic Fathers, Fathers for English Readers (SPCK; apostolicfathers0000holl): no year; IA's 1913 is doubtful",
+  "holland-letters": "A Forty Years' Friendship: letters to Mrs Drew, edited by S. L. Ollard (1919)"
+ },
+ "_excluded": {
+  "holland-lind": "Memoir of Madame Jenny Lind-Goldschmidt with W. S. Rockstro (1891) and PG 78803 (abridged): not divinity, joint",
+  "holland-aldrich": "Dean Aldrich, a commemoration speech (1872)",
+  "holland-others": "Paget's Memoir and Letters (1921), anthologies with his preface, Lux Mundi and Miracles (multi-author)",
+  "holland-namesakes": "other Hollands; Ruskin's letters"
+ },
+ "_identity_checked": {
+  "holland-real-problem-eschatology": {
+   "author": "Title page read: 'by the Rev. Professor H. Scott Holland, D.D.', OCR puts a quote mark before Holland"
+  }
+ },
+ "_rights_checked": {
+  "holland-christ-or-ecclesiastes": "title page read, no year; catalogue year in or near his lifetime (he died 1918), London publisher of his other books",
+  "holland-personal-studies": "title page read, no year; catalogue year in or near his lifetime (he died 1918), London publisher of his other books",
+  "holland-bundle-of-memories": "title page read, no year; catalogue year in or near his lifetime (he died 1918), London publisher of his other books",
+  "holland-creeds-and-critics": "title page read: Mowbray, London, Oxford and Milwaukee, no year; posthumous, catalogued 1918",
+  "holland-fourth-gospel": "catalogued 1923 (John Murray, per the advertisement page); posthumous"
+ },
+ "_pending": {},
+ "_checks": {
+  "holland-logic-and-life": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "holland, henry scott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "holland-good-friday": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. s. holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "holland-creed-and-character": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. s. holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "holland-christ-or-ecclesiastes": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. s. holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read, no year; catalogue year in or near his lifetime (he died 1918), London publisher of his other books"
+  },
+  "holland-on-behalf-of-belief": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry scott holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "holland-pleas-and-claims": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry scott holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "holland-sermons-1892": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. scott holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "holland-gods-city": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry scott holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "holland-old-and-new": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry scott holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "holland-personal-studies": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry scott holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read, no year; catalogue year in or near his lifetime (he died 1918), London publisher of his other books"
+  },
+  "holland-vital-values": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry scott holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "holland-optimism-of-butler": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry scott holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "holland-fibres-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry scott holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "holland-bundle-of-memories": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry scott holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read, no year; catalogue year in or near his lifetime (he died 1918), London publisher of his other books"
+  },
+  "holland-so-as-by-fire-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry scott holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "holland-real-problem-eschatology": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "holland-creeds-and-critics": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry scott holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Mowbray, London, Oxford and Milwaukee, no year; posthumous, catalogued 1918"
+  },
+  "holland-facts-of-the-faith": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry scott holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "holland-philosophy-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry scott holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "holland-fourth-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry scott holland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "catalogued 1923 (John Murray, per the advertisement page); posthumous"
+  }
+ }
+}

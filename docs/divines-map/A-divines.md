@@ -4704,3 +4704,37 @@ Slugs `driver-*`. Introduction to the Literature of the Old Testament, the ICC D
 | Authority and Archaeology (1899), Somervell's Parallel History (his introduction) | excluded | |
 | John Merritte Driver, I. D. Driver, G. R. Driver | excluded | |
 | post-1930 printings | excluded | |
+
+## Henry Scott Holland (round 23, my pick, 2026-10-17)
+
+Slugs `holland-*`. Sermons 1882-1916 and four posthumous books edited by others.
+
+| Work | Status | Where |
+|---|---|---|
+| Logic and Life, with Other Sermons (New York: Scribner's, 1882) | have-ocr | IA `logiclifewithoth00holl` |
+| Good Friday: Addresses on the Seven Last Words (London: Rivingtons, MDCCCLXXXIV) | have-ocr | IA `goodfridayaddre00hollgoog` |
+| Creed and Character: Sermons (London: Rivingtons, MDCCCLXXXVII) | have-ocr | IA `creedandcharact00holluoft` |
+| Christ or Ecclesiastes: sermons preached in St Paul's Cathedral (London: Rivingtons; catalogued 1888) | have-ocr | IA `christorecclesia0000unse` |
+| On Behalf of Belief: sermons preached in St Paul's (London: Rivingtons, MDCCCLXXXIX) | have-ocr | IA `onbehalfofbelief00holl` |
+| Pleas and Claims for Christ (London and New York: Longmans, 1892) | have-ocr | IA `pleasandclaims00holluoft` |
+| Sermons, Contemporary Pulpit Library (London: Swan Sonnenschein, 1892) | have-ocr | IA `hollandssermons00holluoft` |
+| God's City and the Coming of the Kingdom, new and cheaper edition (London: Longmans, 1897) | have-ocr | IA `godscityandtheco00holluoft` |
+| Old and New: Sermons, second edition (London: S. C. Brown, Langham, 1903) | have-ocr | IA `oldnewsermons0000holl` |
+| Personal Studies (London: Wells Gardner, Darton; catalogued 1905) | have-ocr | IA `personalstudies00holluoft` |
+| Vital Values (London: Wells Gardner, Darton, 1906) | have-ocr | IA `vitalvalues0000holl` |
+| The Optimism of Butler's Analogy, the Romanes Lecture 1908 (Oxford: Clarendon Press, 1908) | have-ocr | IA `optimismofbutler00holluoft` |
+| Fibres of Faith (London: Wells Gardner, Darton, 1910) | have-ocr | IA `fibresoffaith0000henr` |
+| A Bundle of Memories (London: Wells Gardner, Darton; catalogued 1915) | have-ocr | IA `bundleofmemories00holl` |
+| So as by Fire: Notes on the War, second series (London: Wells Gardner, Darton, 1916) | have-ocr | IA `soasbyfirenoteso0000holl_m6b0` |
+| The Real Problem of Eschatology (London: Longmans, 1916) | have-ocr | IA `realproblemofesc00holl` |
+| Creeds and Critics, edited by Christopher Cheshire (London: Mowbray; catalogued 1918) | have-ocr | IA `creedsandcritics00holluoft` |
+| Facts of the Faith, edited by Christopher Cheshire (London: Longmans, 1919) | have-ocr | IA `factsoffaith0000henr` |
+| The Philosophy of Faith and the Fourth Gospel, edited by Wilfrid Richmond (London: John Murray, 1920) | have-ocr | IA `philosophyoffait00holluoft` |
+| The Fourth Gospel, edited by Wilfrid Richmond (London: John Murray, 1923) | have-ocr | IA `fourthgospel00holl` |
+| So as by Fire, first series, third impression (Milwaukee; soasbyfirenoteso0000holl): a weak copy | alternate | not shelved |
+| The Apostolic Fathers, Fathers for English Readers (SPCK; apostolicfathers0000holl): no year; IA's 1913 is doubtful | alternate | not shelved |
+| A Forty Years' Friendship: letters to Mrs Drew, edited by S. L. Ollard (1919) | alternate | not shelved |
+| Memoir of Madame Jenny Lind-Goldschmidt with W. S. Rockstro (1891) and PG 78803 (abridged): not divinity, joint | excluded | |
+| Dean Aldrich, a commemoration speech (1872) | excluded | |
+| Paget's Memoir and Letters (1921), anthologies with his preface, Lux Mundi and Miracles (multi-author) | excluded | |
+| other Hollands; Ruskin's letters | excluded | |

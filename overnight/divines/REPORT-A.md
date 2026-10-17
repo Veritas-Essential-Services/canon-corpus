@@ -1042,3 +1042,6 @@
 
 ## 2026-10-17 17:22 CDT — s-r-driver done
 - `pipeline/s-r-driver_shelf.json`: 0 CCEL, 0 PG, 14 IA. Title pages read for driver-intro-literature-ot (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — henry-scott-holland done
+- `pipeline/henry-scott-holland_shelf.json`: 0 CCEL, 0 PG, 20 IA. Title pages read for holland-real-problem-eschatology (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
