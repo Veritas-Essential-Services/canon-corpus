@@ -3737,8 +3737,9 @@ Shelf: `pipeline/john-stuart-mill_shelf.json`. On Liberty and Utilitarianism are
 | Socialism, with a preliminary notice by Helen Taylor (Chicago: Belford, Clarke, 1879) |  | `mill-socialism-1879` | have (PG 38138) |
 | An Examination of Sir William Hamilton's Philosophy, vol. I (Boston: William V. Spencer, 1865) |  | `mill-examination-of-hamilton-1865-v1` | have-raw (IA `anexaminationofs01millrich`) |
 | An Examination of Sir William Hamilton's Philosophy, vol. II (Boston: William V. Spencer, 1865) |  | `mill-examination-of-hamilton-1865-v2` | have-raw (IA `anexaminationsi06millgoog`) |
+| Three Essays on Religion: Nature, the Utility of Religion, and Theism (New York: Henry Holt, 1874) |  | `mill-three-essays-on-religion-1874` | have-raw (IA `cu31924020335620`) |
 
-Pending (wishlist): Three Essays on Religion and Principles of Political Economy in dated printings.
+Pending (wishlist): Principles of Political Economy in a dated printing
 
 ## Herbert Spencer
 
@@ -3850,8 +3851,9 @@ Shelf: `pipeline/jeremy-bentham_shelf.json`. Principles of Morals and Legislatio
 | Work | Editor | Slug | Status |
 |---|---|---|---|
 | An Introduction to the Principles of Morals and Legislation, new edition, corrected by the author (Oxford: Clarendon Press, 1907) |  | `bentham-principles-of-morals-1907` | have-raw (IA `anintroductiont08bentgoog`) |
+| A Fragment on Government, ed. F. C. Montague (Oxford: Clarendon Press, 1891) |  | `bentham-fragment-on-government-1891` | have-raw (IA `afragmentongover00bentuoft`) |
 
-Pending (wishlist): A Fragment on Government; the Rationale of Judicial Evidence.
+Pending (wishlist): the Rationale of Judicial Evidence
 
 ## T. H. Green
 
@@ -3882,8 +3884,10 @@ Shelf: `pipeline/bernard-bosanquet_shelf.json`. His own works; his Lotze and Heg
 |---|---|---|---|
 | The Philosophical Theory of the State (London: Macmillan, 1899) |  | `bosanquet-theory-of-the-state-1899` | have-raw (IA `philosophicalthe00bosaiala`) |
 | A History of Aesthetic (London: Swan Sonnenschein, 1892) |  | `bosanquet-history-of-aesthetic-1892` | have-raw (IA `historyofsthetic00bosa`) |
+| Knowledge and Reality, a criticism of Mr. F. H. Bradley's Principles of Logic (London: Kegan Paul, Trench, 1885) |  | `bosanquet-knowledge-and-reality-1885` | have-raw (IA `knowledgereality00bosa`) |
+| The Principle of Individuality and Value, Gifford Lectures for 1911 (London: Macmillan, 1912) |  | `bosanquet-individuality-and-value-1912` | have-raw (IA `principleofind00bosauoft`) |
 
-Pending (wishlist): Logic (1888), Knowledge and Reality (1885), The Principle of Individuality and Value (1912).
+Pending (wishlist): Logic, or the Morphology of Knowledge (1888)
 
 ## Ralph Cudworth
 
@@ -4431,8 +4435,9 @@ Shelf: `pipeline/mctaggart_shelf.json`. Some Dogmas of Religion (1906), Studies 
 | Studies in the Hegelian Dialectic, second edition (Cambridge, 1922) |  | `mctaggart-studies-hegelian-dialectic-1922` | have-raw (IA `studiesinhegelia00mctauoft`) |
 | The Nature of Existence, vol. I (Cambridge, 1921) |  | `mctaggart-nature-of-existence-1921-v1` | have-raw (IA `natureofexistenc01mctauoft`) |
 | The Nature of Existence, vol. II, ed. C. D. Broad (Cambridge, 1927) |  | `mctaggart-nature-of-existence-1927-v2` | have-raw (IA `natureofexistenc02mctauoft`) |
+| Studies in Hegelian Cosmology (Cambridge: University Press, 1901) |  | `mctaggart-studies-hegelian-cosmology-1901` | have-raw (IA `cu31924029069354`) |
 
-Pending (wishlist): Studies in Hegelian Cosmology (1901), A Commentary on Hegel's Logic (1910)
+Pending (wishlist): A Commentary on Hegel's Logic (1910)
 
 ## James Frederick Ferrier
 
@@ -4441,8 +4446,9 @@ Shelf: `pipeline/james-frederick-ferrier_shelf.json`. Institutes of Metaphysic (
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Institutes of Metaphysic: the theory of knowing and being (Edinburgh: Blackwood, 1854) |  | `ferrier-institutes-of-metaphysic-1854` | have-raw (IA `institutesofmeta00ferruoft`) |
+| Lectures on Greek Philosophy and other Philosophical Remains, ed. Alexander Grant and E. L. Lushington, vol. I (Edinburgh: Blackwood, 1866) |  | `ferrier-lectures-on-greek-philosophy-1866-v1` | have-raw (IA `lecturesongreekp01ferruoft`) |
 
-Pending (wishlist): Lectures on Greek Philosophy (1866)
+Pending (wishlist): Lectures on Greek Philosophy vol. II (1866; IA unavailable this round)
 
 ## Hans Vaihinger in English
 
@@ -4695,8 +4701,8 @@ Shelf: `pipeline/andrew-seth-pringle-pattison_shelf.json`. Hegelianism and Perso
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Hegelianism and Personality, second edition (Edinburgh: Blackwood, 1893) |  | `seth-hegelianism-and-personality-1893` | have-raw (IA `hegelianismandp02patgoog`) |
-
-Pending (wishlist): Scottish Philosophy (1885), The Idea of God (1917)
+| Scottish Philosophy, a comparison of the Scottish and German answers to Hume (Edinburgh: Blackwood, 1885) |  | `seth-scottish-philosophy-1885` | have-raw (IA `scottishphilosopy00seth`) |
+| The Idea of God in the Light of Recent Philosophy, Gifford Lectures 1912-13, 2nd ed. revised (New York: Oxford University Press, 1920) |  | `pringle-pattison-idea-of-god-1920` | have-raw (IA `ideagodinlightr00patgoog`) |
 
 ## D. G. Ritchie
 
@@ -4707,8 +4713,7 @@ Shelf: `pipeline/david-george-ritchie_shelf.json`. Darwinism and Politics (1891)
 | Darwinism and Politics, second edition (London: Swan Sonnenschein, 1891) |  | `ritchie-darwinism-and-politics-1891` | have-raw (IA `darwinismpolitic00ritcuoft`) |
 | Darwin and Hegel, with other philosophical studies (London: Swan Sonnenschein, 1893) |  | `ritchie-darwin-and-hegel-1893` | have-raw (IA `darwinhegelwitho00ritcrich`) |
 | Studies in Political and Social Ethics (London: Swan Sonnenschein, 1902) |  | `ritchie-studies-political-social-ethics-1902` | have-raw (IA `studiesinpoliti00ritcuoft`) |
-
-Pending (wishlist): Natural Rights (1895)
+| Natural Rights, a criticism of some political and ethical conceptions, 3rd ed. (London: George Allen and Unwin, 1916; first edition 1894) |  | `ritchie-natural-rights-1916` | have-raw (IA `cu31924095900902`) |
 
 ## Hastings Rashdall
 

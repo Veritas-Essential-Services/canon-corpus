@@ -1,5 +1,5 @@
 {
- "_about": "Bernard Bosanquet (1848-1923), in his own works, raw IA OCR: The Philosophical Theory of the State (Macmillan, 1899) and A History of Aesthetic (Swan Sonnenschein, 1892). His editions of Lotze and his Hegel translation are on the lotze and hegel-translations shelves. US public domain. Wanted: Logic, or the Morphology of Knowledge (1888), Knowledge and Reality (1885), The Principle of Individuality and Value (1912). No uids minted.",
+ "_about": "Bernard Bosanquet (1848-1923), in his own works, raw IA OCR: The Philosophical Theory of the State (Macmillan, 1899) and A History of Aesthetic (Swan Sonnenschein, 1892). His editions of Lotze and his Hegel translation are on the lotze and hegel-translations shelves. Added in round ac: Knowledge and Reality, a criticism of Mr. F. H. Bradley's Principles of Logic (London: Kegan Paul, Trench, 1885); The Principle of Individuality and Value, Gifford Lectures for 1911 (London: Macmillan, 1912). US public domain. Wanted: Logic, or the Morphology of Knowledge (1888), Knowledge and Reality (1885), The Principle of Individuality and Value (1912). No uids minted.",
  "_author": "Bernard Bosanquet",
  "_name_words": [
   "bernard",
@@ -18,6 +18,14 @@
   "bosanquet-history-of-aesthetic-1892": [
    "historyofsthetic00bosa",
    "A History of Aesthetic (London: Swan Sonnenschein, 1892)"
+  ],
+  "bosanquet-knowledge-and-reality-1885": [
+   "knowledgereality00bosa",
+   "Knowledge and Reality, a criticism of Mr. F. H. Bradley's Principles of Logic (London: Kegan Paul, Trench, 1885)"
+  ],
+  "bosanquet-individuality-and-value-1912": [
+   "principleofind00bosauoft",
+   "The Principle of Individuality and Value, Gifford Lectures for 1911 (London: Macmillan, 1912)"
   ]
  },
  "_excluded": {},
@@ -42,6 +50,28 @@
    "ia_rights": "ok: published 1892",
    "ia_date": "1892",
    "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "bosanquet-knowledge-and-reality-1885": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bosanquet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bosanquet-individuality-and-value-1912": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bosanquet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
