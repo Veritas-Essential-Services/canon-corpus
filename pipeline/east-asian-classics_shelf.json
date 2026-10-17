@@ -1,0 +1,404 @@
+{
+ "_about": "SHELF of Chinese, Tibetan and Japanese classics in English before 1931 that no other shelf holds: the Chinese Buddhist pilgrims to India (Beal's Si-yu-ki of Xuanzang and Life of Hiuen-Tsiang, Takakusu's I-tsing, H. A. Giles's Fa-hsien), Rockhill's Life of the Buddha from Tibetan works, and Japan's two founding chronicles (Chamberlain's Kojiki, Aston's Nihongi). Legge's Fa-hien is on the legge shelf. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 67); Adam may veto. No uids minted.",
+ "_name_words": [
+  "aston",
+  "b. h. chamberlain",
+  "basil hall chamberlain",
+  "beal",
+  "chamberlain",
+  "giles",
+  "h. a. giles",
+  "herbert a. giles",
+  "herbert allen giles",
+  "j. takakusu",
+  "junjiro takakusu",
+  "rockhill",
+  "samuel beal",
+  "takakusu",
+  "w. g. aston",
+  "w. woodville rockhill",
+  "william george aston",
+  "william woodville rockhill"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "aston",
+  "b. h. chamberlain",
+  "basil hall chamberlain",
+  "beal",
+  "chamberlain",
+  "giles",
+  "h. a. giles",
+  "herbert a. giles",
+  "herbert allen giles",
+  "j. takakusu",
+  "junjiro takakusu",
+  "rockhill",
+  "samuel beal",
+  "takakusu",
+  "w. g. aston",
+  "w. woodville rockhill",
+  "william george aston",
+  "william woodville rockhill"
+ ],
+ "_surname_by_slug": {
+  "eac-si-yu-ki-1": [
+   "beal",
+   "samuel beal"
+  ],
+  "eac-si-yu-ki-2": [
+   "beal",
+   "samuel beal"
+  ],
+  "eac-life-of-hiuen-tsiang": [
+   "beal",
+   "samuel beal"
+  ],
+  "eac-i-tsing": [
+   "takakusu",
+   "j. takakusu",
+   "junjiro takakusu"
+  ],
+  "eac-fa-hsien-giles": [
+   "giles",
+   "h. a. giles",
+   "herbert a. giles",
+   "herbert allen giles"
+  ],
+  "eac-life-of-the-buddha-tibetan": [
+   "rockhill",
+   "w. woodville rockhill",
+   "william woodville rockhill"
+  ],
+  "eac-kojiki": [
+   "chamberlain",
+   "basil hall chamberlain",
+   "b. h. chamberlain"
+  ],
+  "eac-nihongi-1": [
+   "aston",
+   "w. g. aston",
+   "william george aston"
+  ],
+  "eac-nihongi-2": [
+   "aston",
+   "w. g. aston",
+   "william george aston"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "eac-si-yu-ki-1": [
+   "siyukibuddhistre01hsuoft",
+   "Si-yu-ki: Buddhist Records of the Western World, vol. I (1884)"
+  ],
+  "eac-si-yu-ki-2": [
+   "siyukibuddhistre02hsuoft",
+   "Si-yu-ki: Buddhist Records of the Western World, vol. II (1884)"
+  ],
+  "eac-life-of-hiuen-tsiang": [
+   "lifeofhiuentsian030569mbp",
+   "The Life of Hiuen-Tsiang (1888)"
+  ],
+  "eac-i-tsing": [
+   "recordofbuddhist00ichi",
+   "A Record of the Buddhist Religion as Practised in India and the Malay Archipelago (1896)"
+  ],
+  "eac-fa-hsien-giles": [
+   "in.ernet.dli.2015.172773",
+   "The Travels of Fa-hsien (399-414 A.D.), or Record of the Buddhistic Kingdoms (1923)",
+   "2015.172773.The-Travels-Of-Fa-hsien_djvu.txt"
+  ],
+  "eac-life-of-the-buddha-tibetan": [
+   "dli.pahar.1054",
+   "The Life of the Buddha and the Early History of his Order, derived from Tibetan Works (1884)",
+   "1884 Life Of The Buddha From Tibetan Works By Rockhill_djvu.txt"
+  ],
+  "eac-kojiki": [
+   "transactionsasi27japagoog",
+   "Ko-ji-ki, or Records of Ancient Matters (1882)"
+  ],
+  "eac-nihongi-1": [
+   "nihongi1asto",
+   "Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, vol. I (1896)"
+  ],
+  "eac-nihongi-2": [
+   "nihongi2asto",
+   "Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, vol. II (1896)"
+  ]
+ },
+ "titles": {
+  "east-asian-classics-si-yu-ki-1": {
+   "source": "eac-si-yu-ki-1",
+   "of": "Xuanzang (Hiuen-Tsiang), Da Tang Xiyu ji",
+   "work": "Si-yu-ki: Buddhist Records of the Western World, vol. I",
+   "translated": 1884,
+   "translator": "Samuel Beal",
+   "scan_edition": "Trübner & Co., Trübner's Oriental Series, London 1884; University of Toronto scan"
+  },
+  "east-asian-classics-si-yu-ki-2": {
+   "source": "eac-si-yu-ki-2",
+   "of": "Xuanzang (Hiuen-Tsiang), Da Tang Xiyu ji",
+   "work": "Si-yu-ki: Buddhist Records of the Western World, vol. II",
+   "translated": 1884,
+   "translator": "Samuel Beal",
+   "scan_edition": "Trübner & Co., Trübner's Oriental Series, London 1884; University of Toronto scan"
+  },
+  "east-asian-classics-life-of-hiuen-tsiang": {
+   "source": "eac-life-of-hiuen-tsiang",
+   "of": "Huili, the life of Xuanzang",
+   "work": "The Life of Hiuen-Tsiang",
+   "translated": 1888,
+   "translator": "Samuel Beal",
+   "scan_edition": "Kegan Paul, Trench, Trübner, popular edition (new edition 1911), this printing 1914"
+  },
+  "east-asian-classics-i-tsing": {
+   "source": "eac-i-tsing",
+   "of": "Yijing (I-tsing), Nanhai jigui neifa zhuan",
+   "work": "A Record of the Buddhist Religion as Practised in India and the Malay Archipelago",
+   "translated": 1896,
+   "translator": "J. Takakusu",
+   "scan_edition": "Clarendon Press, Oxford 1896"
+  },
+  "east-asian-classics-fa-hsien-giles": {
+   "source": "eac-fa-hsien-giles",
+   "of": "Faxian (Fa-hsien), Foguo ji",
+   "work": "The Travels of Fa-hsien (399-414 A.D.), or Record of the Buddhistic Kingdoms",
+   "translated": 1923,
+   "translator": "H. A. Giles",
+   "scan_edition": "Cambridge University Press 1923 (reprinted November 1923); Digital Library of India scan",
+   "note": "Legge's 1886 translation of the same book is on the legge shelf (legge-faxian)."
+  },
+  "east-asian-classics-life-of-the-buddha-tibetan": {
+   "source": "eac-life-of-the-buddha-tibetan",
+   "of": "The Tibetan Kanjur and Tanjur (lives of the Buddha and early history of his order)",
+   "work": "The Life of the Buddha and the Early History of his Order, derived from Tibetan Works",
+   "translated": 1884,
+   "translator": "W. Woodville Rockhill",
+   "scan_edition": "Trübner & Co., Trübner's Oriental Series, London 1884; Digital Library of India scan"
+  },
+  "east-asian-classics-kojiki": {
+   "source": "eac-kojiki",
+   "of": "The Kojiki (Records of Ancient Matters, 712)",
+   "work": "Ko-ji-ki, or Records of Ancient Matters",
+   "translated": 1882,
+   "translator": "Basil Hall Chamberlain",
+   "scan_edition": "Transactions of the Asiatic Society of Japan, supplement to vol. X (Yokohama 1882), reprinted 1906; Google scan",
+   "note": "Chamberlain's Japanese fairy tales are on the basil-chamberlain shelf."
+  },
+  "east-asian-classics-nihongi-1": {
+   "source": "eac-nihongi-1",
+   "of": "The Nihon shoki (Chronicles of Japan, 720)",
+   "work": "Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, vol. I",
+   "translated": 1896,
+   "translator": "W. G. Aston",
+   "scan_edition": "Kegan Paul, Trench, Trübner for the Japan Society, London 1896 (Transactions and Proceedings of the Japan Society, supplement I)"
+  },
+  "east-asian-classics-nihongi-2": {
+   "source": "eac-nihongi-2",
+   "of": "The Nihon shoki (Chronicles of Japan, 720)",
+   "work": "Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, vol. II",
+   "translated": 1896,
+   "translator": "W. G. Aston",
+   "scan_edition": "Kegan Paul, Trench, Trübner for the Japan Society, London 1896"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "legge-fa-hien": "Legge's Record of Buddhistic Kingdoms (1886, PG 2124) is already on the legge shelf.",
+  "later-reprints": "Asian Educational Services, Paragon, Munshiram Manoharlal and Orientalia Indica reprints of these titles on archive.org (e.g. lifeofhuuentsian00sham, recordofbuddhist0000faxi, dli.ernet.233945): later reprints, not used."
+ },
+ "_checks": {
+  "eac-si-yu-ki-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "beal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eac-si-yu-ki-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "beal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eac-life-of-hiuen-tsiang": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "beal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eac-i-tsing": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "takakusu",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eac-fa-hsien-giles": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "giles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eac-life-of-the-buddha-tibetan": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "rockhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "eac-kojiki": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "chamberlain",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eac-nihongi-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "Public domain. The Library considers that this work is no longer under copyright protection",
+   "ia_lending": null
+  },
+  "eac-nihongi-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "Public domain. The Library considers that this work is no longer under copyright protection",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "eac-si-yu-ki-1": {
+   "ia": "siyukibuddhistre01hsuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1881
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "eac-si-yu-ki-2": {
+   "ia": "siyukibuddhistre02hsuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1881
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "eac-life-of-hiuen-tsiang": {
+   "ia": "lifeofhiuentsian030569mbp",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1911
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "eac-i-tsing": {
+   "ia": "recordofbuddhist00ichi",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1875,
+    1880,
+    1883,
+    1885,
+    1894,
+    1896
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "eac-fa-hsien-giles": {
+   "ia": "in.ernet.dli.2015.172773",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1869,
+    1872,
+    1877,
+    1886,
+    1922,
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "eac-life-of-the-buddha-tibetan": {
+   "ia": "dli.pahar.1054",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1849,
+    1884
+   ],
+   "post_1930_years_in_front_15k": [
+    1941
+   ]
+  },
+  "eac-kojiki": {
+   "ia": "transactionsasi27japagoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1882,
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "eac-nihongi-1": {
+   "ia": "nihongi1asto",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1806,
+    1895
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "eac-nihongi-2": {
+   "ia": "nihongi2asto",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1896
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

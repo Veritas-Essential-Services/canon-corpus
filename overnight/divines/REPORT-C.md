@@ -207,3 +207,5 @@
 - 2026-10-17T18:14-05:00: round 65: pali-buddhist-translations (17). --verify --record 0 mismatched. Pali canon in English (Jataka, Dialogues, Psalms, Mahavamsa, Buddhist Legends, Warren).
 
 - 2026-10-17T18:21-05:00: round 66: harvard-oriental-series (9). --verify --record 0 mismatched. Vikrama's Adventures pending (Hindi OCR); Kiratarjuniya excluded (German).
+
+- 2026-10-17T18:27-05:00: round 67: east-asian-classics (9). --verify --record 0 mismatched.

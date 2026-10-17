@@ -16730,6 +16730,25 @@ Round 66 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | pali-volumes: Warren (HOS 3) and Burlingame (HOS 28-30) are on pali-buddhist-translations. | — | — | excluded | — |
 | — | — | motilal-reprints: Motilal Banarsidass reprints of HOS volumes (in.ernet.dli.2015.263106, in.ernet.dli.2015.263108, dli.ernet.233919): 1960s-70s reprints, not used. | — | — | excluded | — |
 
+## Shelf: Chinese, Tibetan and Japanese classics in English before 1931: Beal's Si-yu-ki and Life of Hiuen-Tsiang, Takakusu's I-tsing, Giles's Fa-hsien, Rockhill's Life of the Buddha from Tibetan works, Chamberlain's Kojiki, Aston's Nihongi
+
+Shelf: `pipeline/east-asian-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py east-asian-classics` · titles `python3 pipeline/split_shelf_titles.py east-asian-classics`.
+Round 67 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `east-asian-classics-si-yu-ki-1` | Xuanzang (Hiuen-Tsiang), Da Tang Xiyu ji | Si-yu-ki: Buddhist Records of the Western World, vol. I | Samuel Beal | 1884 | have-raw | IA `siyukibuddhistre01hsuoft` |
+| `east-asian-classics-si-yu-ki-2` | Xuanzang (Hiuen-Tsiang), Da Tang Xiyu ji | Si-yu-ki: Buddhist Records of the Western World, vol. II | Samuel Beal | 1884 | have-raw | IA `siyukibuddhistre02hsuoft` |
+| `east-asian-classics-life-of-hiuen-tsiang` | Huili, the life of Xuanzang | The Life of Hiuen-Tsiang | Samuel Beal | 1888 | have-raw | IA `lifeofhiuentsian030569mbp` |
+| `east-asian-classics-i-tsing` | Yijing (I-tsing), Nanhai jigui neifa zhuan | A Record of the Buddhist Religion as Practised in India and the Malay Archipelago | J. Takakusu | 1896 | have-raw | IA `recordofbuddhist00ichi` |
+| `east-asian-classics-fa-hsien-giles` | Faxian (Fa-hsien), Foguo ji | The Travels of Fa-hsien (399-414 A.D.), or Record of the Buddhistic Kingdoms | H. A. Giles | 1923 | have-raw | IA `in.ernet.dli.2015.172773` |
+| `east-asian-classics-life-of-the-buddha-tibetan` | The Tibetan Kanjur and Tanjur (lives of the Buddha and early history of his order) | The Life of the Buddha and the Early History of his Order, derived from Tibetan Works | W. Woodville Rockhill | 1884 | have-raw | IA `dli.pahar.1054` |
+| `east-asian-classics-kojiki` | The Kojiki (Records of Ancient Matters, 712) | Ko-ji-ki, or Records of Ancient Matters | Basil Hall Chamberlain | 1882 | have-raw | IA `transactionsasi27japagoog` |
+| `east-asian-classics-nihongi-1` | The Nihon shoki (Chronicles of Japan, 720) | Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, vol. I | W. G. Aston | 1896 | have-raw | IA `nihongi1asto` |
+| `east-asian-classics-nihongi-2` | The Nihon shoki (Chronicles of Japan, 720) | Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, vol. II | W. G. Aston | 1896 | have-raw | IA `nihongi2asto` |
+| — | — | legge-fa-hien: Legge's Record of Buddhistic Kingdoms (1886, PG 2124) is already on the legge shelf. | — | — | excluded | — |
+| — | — | later-reprints: Asian Educational Services, Paragon, Munshiram Manoharlal and Orientalia Indica reprints of these titles on archive.org (e.g. lifeofhuuentsian00sham, recordofbuddhist0000faxi, dli.ernet.233945): later reprints, not used. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
