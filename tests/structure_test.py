@@ -52,6 +52,11 @@ The Gospel According to Saint John
 1:1 Paul, a servant of Jesus Christ, called to be an apostle,
 separated unto the gospel of God, 1:2 (Which he had promised afore by
 his prophets in the holy scriptures,)
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE KING JAMES VERSION OF THE BIBLE ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed. 1:3 Creating the works from print editions not protected
 """
 with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as f:
     f.write(KJV_FIX); kjv_path = f.name
@@ -62,6 +67,8 @@ check("kjv: John 1:1 text", d.get("kjv:John.1.1", {}).get("text", "").startswith
 check("kjv: inline marker split (John 1:2)", "kjv:John.1.2" in d)
 check("kjv: alias header ignored (no dupe John)", d.get("kjv:Rom.1.1", {}).get("text", "").startswith("Paul, a servant"))
 check("kjv: no duplicate ids", len(d) == len(book["units"]))
+check("kjv: stops at the Gutenberg end marker (licence not in the last verse)",
+      "GUTENBERG" not in d.get("kjv:Rom.1.2", {}).get("text", "") and "kjv:Rom.1.3" not in d)
 os.unlink(kjv_path)
 
 # ---------------------------------------------------------------- ThML fixture

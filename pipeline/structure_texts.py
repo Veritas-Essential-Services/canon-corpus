@@ -250,6 +250,7 @@ KJV_BOOKS = [
     ("The Revelation of Saint John the Divine", "Rev", "Revelation"),
 ]
 TITLE2OSIS = {t: (o, n) for t, o, n in KJV_BOOKS}
+RE_PG_END = re.compile(r"^(\*{3}\s*)?END OF (THE|THIS) PROJECT GUTENBERG", re.I)
 RE_VMARK = re.compile(r"(?:(?<=^)|(?<=\s))(\d+):(\d+)(?:\s+|$)")  # markers appear inline too,
 # and -- the 420-verse bug, fixed 2026-09-11 -- at END OF LINE. Gutenberg hard-wraps
 # at ~70 chars; when the wrap falls immediately after a marker there is no trailing
@@ -267,6 +268,8 @@ def convert_kjv(path, slug="kjv"):
             t = line.strip()
             if not t:
                 continue
+            if RE_PG_END.match(t):
+                break   # the licence follows; without this it all became Rev.22.21
             if t in ("Otherwise Called:", "Commonly Called:"):
                 skip_alias = True
                 continue
