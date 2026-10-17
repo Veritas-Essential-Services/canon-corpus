@@ -21715,6 +21715,49 @@ Shelf: `pipeline/kirk-munroe_shelf.json` (2026-10-17; added at the coordinator's
 | Canoemates: A Story of the Florida Reef and Everglades | have | PG 62301, `kmunroe-canoemates` (1144 units) |
 | The Belt of Seven Totems: A Story of Massasoit | have | PG 62684, `kmunroe-belt-of-seven-totems` (926 units) |
 
+## Amy Le Feuvre
+
+Shelf: `pipeline/le-feuvre_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Evangelical stories for children. Every English text under the name at Gutenberg that no other shelf holds (36 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Probable Sons | have | PG 10777, `lefeuvre-probable-sons` (537 units) |
+| Teddy's Button | have | PG 10880, `lefeuvre-teddys-button` (901 units) |
+| His big opportunity | have | PG 11470, `lefeuvre-his-big-opportunity` (1302 units) |
+| The Carved Cupboard | have | PG 22232, `lefeuvre-carved-cupboard` (1255 units) |
+| Dwell Deep; or, Hilda Thorn's Life Story | have | PG 22243, `lefeuvre-dwell-deep` (1197 units) |
+| 'Me and Nobbles' | have | PG 22290, `lefeuvre-me-and-nobbles` (1612 units) |
+| Odd | have | PG 22291, `lefeuvre-odd` (1202 units) |
+| Bulbs and Blossoms | have | PG 23944, `lefeuvre-bulbs-and-blossoms` (279 units) |
+| Jill's Red Bag | have | PG 37043, `lefeuvre-jills-red-bag` (1754 units) |
+| My heart's in the Highlands | have | PG 71450, `lefeuvre-my-hearts-in-the-highlands` (2271 units) |
+| Noel's Christmas tree | have | PG 71664, `lefeuvre-noels-christmas-tree` (1778 units) |
+| The making of a woman | have | PG 72228, `lefeuvre-making-of-a-woman` (2195 units) |
+| What the wind did | have | PG 72454, `lefeuvre-what-the-wind-did` (292 units) |
+| Harebell's friend | have | PG 72970, `lefeuvre-harebells-friend` (1399 units) |
+| Little Miss Moth | have | PG 73317, `lefeuvre-little-miss-moth` (1614 units) |
+| Some builders | have | PG 73696, `lefeuvre-some-builders` (2279 units) |
+| Chats with children | have | PG 74293, `lefeuvre-chats-with-children` (440 units) |
+| A little maid | have | PG 74939, `lefeuvre-a-little-maid` (1369 units) |
+| Her kingdom | have | PG 75056, `lefeuvre-her-kingdom` (2222 units) |
+| Dreamikins | have | PG 75057, `lefeuvre-dreamikins` (1785 units) |
+| A girl and her ways | have | PG 75231, `lefeuvre-a-girl-and-her-ways` (1677 units) |
+| Christina and the boys | have | PG 75332, `lefeuvre-christina-and-the-boys` (1784 units) |
+| Adrienne | have | PG 75428, `lefeuvre-adrienne` (2186 units) |
+| A thoughtless seven | have | PG 75734, `lefeuvre-a-thoughtless-seven` (350 units) |
+| Odd made even | have | PG 76138, `lefeuvre-odd-made-even` (2055 units) |
+| Legend-led | have | PG 76174, `lefeuvre-legend-led` (1080 units) |
+| "Us, and our donkey" | have | PG 76530, `lefeuvre-us-and-our-donkey` (1479 units) |
+| "Us, and our charge" | have | PG 76827, `lefeuvre-us-and-our-charge` (1843 units) |
+| Jock's inheritance | have | PG 76969, `lefeuvre-jocks-inheritance` (1643 units) |
+| Joan's handful | have | PG 77651, `lefeuvre-joans-handful` (2403 units) |
+| A bit of rough road | have | PG 77761, `lefeuvre-a-bit-of-rough-road` (2823 units) |
+| The discovery of Damaris | have | PG 78482, `lefeuvre-discovery-of-damaris` (2035 units) |
+| Heather's mistress | have | PG 78661, `lefeuvre-heathers-mistress` (1668 units) |
+| Four gates | have | PG 78742, `lefeuvre-four-gates` (2750 units) |
+| Tomina in retreat | have | PG 79156, `lefeuvre-tomina-in-retreat` (2823 units) |
+| A happy woman | have | PG 79399, `lefeuvre-a-happy-woman` (2516 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
