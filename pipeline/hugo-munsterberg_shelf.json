@@ -1,5 +1,5 @@
 {
- "_about": "Hugo Münsterberg (1863-1916) as philosopher: The Eternal Values (Boston: Houghton Mifflin, 1909), raw IA OCR. His psychology books on Gutenberg are not taken here. US public domain. No uids minted.",
+ "_about": "Hugo Münsterberg (1863-1916) as philosopher: The Eternal Values (Boston: Houghton Mifflin, 1909), raw IA OCR. His psychology books on Gutenberg are not taken here. Added in round ab: Science and Idealism, the William Vaughn Moody lecture (Boston: Houghton Mifflin, 1906). US public domain. No uids minted.",
  "_author": "Hugo Münsterberg",
  "_name_words": [
   "hugo",
@@ -16,6 +16,10 @@
   "munsterberg-eternal-values-1909": [
    "eternalvalues00muns",
    "The Eternal Values (Boston: Houghton Mifflin, 1909)"
+  ],
+  "munsterberg-science-and-idealism-1906": [
+   "scienceandideali00meunuoft",
+   "Science and Idealism, the William Vaughn Moody lecture (Boston: Houghton Mifflin, 1906)"
   ]
  },
  "_excluded": {},
@@ -28,6 +32,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1909",
    "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "munsterberg-science-and-idealism-1906": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "munsterberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
