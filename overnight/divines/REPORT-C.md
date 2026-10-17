@@ -219,3 +219,5 @@
 - 2026-10-17T18:45-05:00: round 71: arabic-classics (10). --verify --record 0 mismatched. arc-hariri-1 identity override (OCR 'CHEKEEY' for Chenery), checked by eye.
 
 - 2026-10-17T18:52-05:00: round 72: budge (11). --verify --record 0 mismatched. bdg-alexander-syriac rights override (undated record; title page 1889).
+
+- 2026-10-17T18:55-05:00: round 73: babylonian-assyrian (11). --verify --record 0 mismatched. bab-gilgamish-thompson rights override (undated record; title page 1928).

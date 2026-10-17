@@ -6476,6 +6476,28 @@ Round 72 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | book-of-the-dead-other-volumes: The Egyptian text and vocabulary volumes of the 1898 Book of the Dead (e.g. bookdeadanengli00budggoog, the vocabulary) are not shelved. | — | — | excluded | — |
 | — | — | book-of-medicines-1: Vol. I of the Book of Medicines (1913) is the Syriac text. | — | — | excluded | — |
 
+## Shelf: Babylonian, Assyrian and Sumerian texts in English before 1931: the Epic of Gilgamesh (Thompson, Jastrow and Clay, Langdon, the British Museum), Langdon's Sumerian epics, liturgies and Epic of Creation, Thompson's Devils and Evil Spirits, Harper's Code of Hammurabi and Assyrian and Babylonian Literature
+
+Shelf: `pipeline/babylonian-assyrian_shelf.json` · fetch `python3 pipeline/fetch_shelf.py babylonian-assyrian` · titles `python3 pipeline/split_shelf_titles.py babylonian-assyrian`.
+Round 73 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `babylonian-assyrian-gilgamish-thompson` | The Epic of Gilgamesh (Standard Babylonian version) | The Epic of Gilgamish: a New Translation ... rendered literally into English Hexameters | R. Campbell Thompson | 1928 | have-raw | IA `thompson-1928-gilgamesh` |
+| `babylonian-assyrian-gilgamesh-old-babylonian` | The Old Babylonian Gilgamesh (the Yale tablet) | An Old Babylonian Version of the Gilgamesh Epic | Morris Jastrow and Albert T. Clay | 1920 | have-raw | IA `anoldbabylonianv00jastuoft` |
+| `babylonian-assyrian-gilgamish-langdon` | The Old Babylonian Gilgamesh (the Pennsylvania tablet) | The Epic of Gilgamish | Stephen Langdon | 1917 | have-raw | IA `epicofgilgamish00unse` |
+| `babylonian-assyrian-deluge-and-gilgamish` | The Babylonian flood story and the Epic of Gilgamesh (summary and extracts) | The Babylonian Story of the Deluge and the Epic of Gilgamish | E. A. Wallis Budge (British Museum) | 1920 | have-raw | IA `babylonianstoryo00brituoft` |
+| `babylonian-assyrian-sumerian-epic-of-paradise` | The Sumerian Eridu and flood texts | Sumerian Epic of Paradise, the Flood and the Fall of Man | Stephen Langdon | 1915 | have-raw | IA `sumerianepicofpa00lang_0` |
+| `babylonian-assyrian-sumerian-liturgies` | Sumerian liturgies and psalms | Sumerian Liturgies and Psalms | Stephen Langdon | 1919 | have-raw | IA `in.ernet.dli.2015.166777` |
+| `babylonian-assyrian-epic-of-creation` | The Enuma Elish | The Babylonian Epic of Creation | Stephen Langdon | 1923 | have-raw | IA `in.gov.ignca.33817` |
+| `babylonian-assyrian-devils-and-evil-spirits-1` | Babylonian and Assyrian incantations against demons | The Devils and Evil Spirits of Babylonia, vol. I | R. Campbell Thompson | 1903 | have-raw | IA `devilsevilspirit01thomuoft` |
+| `babylonian-assyrian-devils-and-evil-spirits-2` | Babylonian and Assyrian incantations against demons | The Devils and Evil Spirits of Babylonia, vol. II | R. Campbell Thompson | 1904 | have-raw | IA `devilsevilspirit02thomuoft` |
+| `babylonian-assyrian-code-of-hammurabi-harper` | The Code of Hammurabi | The Code of Hammurabi, King of Babylon, about 2250 B.C. | Robert Francis Harper | 1904 | have-raw | IA `codeofhammurabik00harpuoft` |
+| `babylonian-assyrian-assyrian-and-babylonian-literature` | Assyrian and Babylonian inscriptions, epics, laws and letters (anthology) | Assyrian and Babylonian Literature: Selected Translations | various translators, with a critical introduction by Robert Francis Harper | 1901 | have-raw | IA `assyrianbabylon00harp` |
+| `thompson-gilgamish-1930` | — | Thompson's Oxford edition of the Gilgamesh text (1930): waits on the 1930 ruling, and is mostly cuneiform. | — | — | pending | — |
+| — | — | held-on-reading-lists: King's Seven Tablets of Creation (1902) and Johns's Code of Hammurabi (1903) are on the reading-lists branch. | — | — | excluded | — |
+| — | — | late-reprints: The AMS Press 1976 reprint of the Devils and Evil Spirits and the 2002-07 reprints of Harper's Hammurabi: not used. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
