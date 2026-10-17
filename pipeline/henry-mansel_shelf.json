@@ -1,0 +1,41 @@
+{
+ "_about": "Henry Longueville Mansel (1820-1871), raw IA OCR: The Limits of Religious Thought examined, Bampton Lectures for 1858 (Oxford: John Murray, 1858). US public domain. No uids minted.",
+ "_author": "Henry Longueville Mansel",
+ "_name_words": [
+  "henry",
+  "longueville",
+  "h",
+  "l",
+  "mansel"
+ ],
+ "_surname": [
+  "mansel"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mansel-limits-of-religious-thought-1858": [
+   "limitsofreligiou00mans",
+   "The Limits of Religious Thought examined in eight lectures (Oxford: John Murray, 1858)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "mansel-limits-of-religious-thought-1858": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "mansel-limits-of-religious-thought-1858": {
+   "author": "title page OCR reads 'BY HENRY LONGUEVILLE MAN SEL, B.D. Reader in Moral and Metaphysical Philosophy at Magdalen College' (Henry Longueville Mansel); Bampton Lectures 1858, Murray"
+  }
+ }
+}
