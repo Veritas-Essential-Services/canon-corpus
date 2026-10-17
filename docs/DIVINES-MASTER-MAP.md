@@ -4302,6 +4302,21 @@ Slugs `gray-*`. Held to printings before 1930 (he died 1935).
 | printings with post-1930 postal zones or Moody Press imprints, and reprints 1936-2017 | excluded | |
 | Horsch's Modern Religious Liberalism (his introduction); a 1961 book miscatalogued as his; a gospel song | excluded | |
 | James Martin Gray the modern art historian | excluded | |
+
+## W. E. Blackstone (round 22, my pick, 2026-10-17)
+
+Slugs `blackstone-*`. All three title pages sign him 'W. E. B.' only; IA attributes them. Held to printings before 1930 (he died 1935).
+
+| Work | Status | Where |
+|---|---|---|
+| Jesus Is Coming, revised edition, signed W. E. B. (Chicago and New York: Fleming H. Revell; copyright 1898) | have-ocr | IA `jesus-is-coming-blackstone` |
+| Jesus Is Coming, presentation edition, enlarged, signed W. E. B. (Chicago and New York: Fleming H. Revell; copyright 1908) | have-ocr | IA `jesusiscoming00blac` |
+| Our God and His Universe, signed W. E. B. (Shanghai: American Presbyterian Mission Press, 1911) | have-ocr | IA `ourgodhisunivers00blac` |
+| Jesus Is Coming, 1908 text with the 1916-17 Moody letters and his full name on the title page (jesusiscoming00blac_3) and other copies | alternate | not shelved |
+| Jesus Is Coming, undated Revell second edition (jesusiscoming00blac_0) and London Partridge issue (jesusiscomingrs00blacuoft) | alternate | not shelved |
+| Hebrew translation (1925) | excluded | |
+| Satan, His Kingdom and Its Overthrow (1964 printing) | excluded | |
+| uploader items with no text file | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

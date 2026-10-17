@@ -1003,3 +1003,6 @@
 
 ## 2026-10-17 17:22 CDT — james-m-gray done
 - `pipeline/james-m-gray_shelf.json`: 1 CCEL, 1 PG, 16 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — w-e-blackstone done
+- `pipeline/w-e-blackstone_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for blackstone-our-god-universe (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
