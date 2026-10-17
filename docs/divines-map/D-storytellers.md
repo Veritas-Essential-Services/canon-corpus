@@ -6657,6 +6657,27 @@ Shelf: `pipeline/sarah-orne-jewett_shelf.json` (2026-10-17; added at the coordin
 | pg-26407 | excluded | PG 26407 An Arrow in a Sunbeam: a many-author collection (Jewett, Frances Lee, C. S. Sleight). |
 | pg-74909 | excluded | PG 74909, 74980 Best Stories (ed. Willa Cather, 1925): a selection of stories already on the shelf in their own books. |
 
+## William O. Stoddard
+
+Shelf: `pipeline/william-o-stoddard_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Adventure stories for boys and presidential lives. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Dab Kinzer: A Story of a Growing Boy | have | PG 10340, `wostoddard-dab-kinzer` (2392 units) |
+| Crowded Out o' Crofield; or, The Boy who made his Way | have | PG 21846, `wostoddard-crowded-out-o-crofield` (1928 units) |
+| The Talking Leaves: An Indian Story | have | PG 21913, `wostoddard-talking-leaves` (2464 units) |
+| Ahead of the Army | have | PG 23744, `wostoddard-ahead-of-the-army` (1016 units) |
+| Two Arrows: A Story of Red and White | have | PG 29616, `wostoddard-two-arrows` (1012 units) |
+| The Red Mustang | have | PG 33897, `wostoddard-red-mustang` (1346 units) |
+| Winter Fun | have | PG 35042, `wostoddard-winter-fun` (1959 units) |
+| The Noank's Log: A Privateer of the Revolution | have | PG 38523, `wostoddard-noanks-log` (1776 units) |
+| The Lost Gold of the Montezumas: A Story of the Alamo | have | PG 38603, `wostoddard-lost-gold-of-the-montezumas` (1526 units) |
+| With the Black Prince | have | PG 46233, `wostoddard-with-the-black-prince` (1445 units) |
+| Ned, the son of Webb: What he did. | have | PG 46956, `wostoddard-ned-the-son-of-webb` (1194 units) |
+| Ulric the Jarl: A Story of the Penitent Thief | have | PG 47515, `wostoddard-ulric-the-jarl` (3266 units) |
+| The Village Champion | have | PG 56933, `wostoddard-village-champion` (2476 units) |
+| Walled In: A True Story of Randall's Island | have | PG 59930, `wostoddard-walled-in` (557 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

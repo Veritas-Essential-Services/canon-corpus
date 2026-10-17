@@ -2549,6 +2549,14 @@
       "started": "2026-10-17T18:41:46-05:00",
       "finished": "2026-10-17T18:41:46-05:00",
       "notes": "sarah-orne-jewett: new shelf, 11 Gutenberg books, 8,638 units, 288 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "william-o-stoddard",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — William O. Stoddard; no minting",
+      "status": "done",
+      "started": "2026-10-17T18:50:56-05:00",
+      "finished": "2026-10-17T18:50:56-05:00",
+      "notes": "william-o-stoddard: new shelf, 14 Gutenberg books, 24,357 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

@@ -1,0 +1,229 @@
+{
+ "_about": "William O. Stoddard's adventure stories for boys and his presidential lives: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "William O. Stoddard",
+ "_name_words": [
+  "stoddard"
+ ],
+ "_surname": [
+  "william o. stoddard"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wostoddard-dab-kinzer": [
+   10340,
+   "Dab Kinzer: A Story of a Growing Boy"
+  ],
+  "wostoddard-crowded-out-o-crofield": [
+   21846,
+   "Crowded Out o' Crofield; or, The Boy who made his Way",
+   {
+    "contents_only": true
+   }
+  ],
+  "wostoddard-talking-leaves": [
+   21913,
+   "The Talking Leaves: An Indian Story"
+  ],
+  "wostoddard-ahead-of-the-army": [
+   23744,
+   "Ahead of the Army"
+  ],
+  "wostoddard-two-arrows": [
+   29616,
+   "Two Arrows: A Story of Red and White",
+   {
+    "contents_only": true
+   }
+  ],
+  "wostoddard-red-mustang": [
+   33897,
+   "The Red Mustang",
+   {
+    "contents_only": true
+   }
+  ],
+  "wostoddard-winter-fun": [
+   35042,
+   "Winter Fun",
+   {
+    "contents_only": true
+   }
+  ],
+  "wostoddard-noanks-log": [
+   38523,
+   "The Noank's Log: A Privateer of the Revolution",
+   {
+    "contents_only": true
+   }
+  ],
+  "wostoddard-lost-gold-of-the-montezumas": [
+   38603,
+   "The Lost Gold of the Montezumas: A Story of the Alamo"
+  ],
+  "wostoddard-with-the-black-prince": [
+   46233,
+   "With the Black Prince",
+   {
+    "contents_only": true
+   }
+  ],
+  "wostoddard-ned-the-son-of-webb": [
+   46956,
+   "Ned, the son of Webb: What he did.",
+   {
+    "contents_only": true
+   }
+  ],
+  "wostoddard-ulric-the-jarl": [
+   47515,
+   "Ulric the Jarl: A Story of the Penitent Thief",
+   {
+    "contents_only": true
+   }
+  ],
+  "wostoddard-village-champion": [
+   56933,
+   "The Village Champion",
+   {
+    "contents_only": true
+   }
+  ],
+  "wostoddard-walled-in": [
+   59930,
+   "Walled In: A True Story of Randall's Island",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "wostoddard-dab-kinzer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william o. stoddard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wostoddard-crowded-out-o-crofield": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william o. stoddard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wostoddard-talking-leaves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william o. stoddard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wostoddard-ahead-of-the-army": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william o. stoddard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wostoddard-two-arrows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william o. stoddard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wostoddard-red-mustang": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william o. stoddard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wostoddard-winter-fun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william o. stoddard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wostoddard-noanks-log": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william o. stoddard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wostoddard-lost-gold-of-the-montezumas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william o. stoddard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wostoddard-with-the-black-prince": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william o. stoddard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wostoddard-ned-the-son-of-webb": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william o. stoddard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wostoddard-ulric-the-jarl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william o. stoddard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wostoddard-village-champion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william o. stoddard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wostoddard-walled-in": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william o. stoddard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
