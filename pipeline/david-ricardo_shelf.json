@@ -1,0 +1,44 @@
+{
+ "_about": "David Ricardo (1772-1823), from Project Gutenberg: On the Principles of Political Economy and Taxation, first edition (London: John Murray, 1817), and his Letters to Thomas Robert Malthus, 1810-1823, edited by James Bonar (Oxford: Clarendon, 1887). US public domain. No uids minted.",
+ "_author": "David Ricardo",
+ "_name_words": [
+  "david",
+  "ricardo"
+ ],
+ "_surname": [
+  "ricardo"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ricardo-principles-1817": [
+   33310,
+   "On the Principles of Political Economy, and Taxation, first edition (London: John Murray, 1817)"
+  ],
+  "ricardo-letters-to-malthus-1887": [
+   36345,
+   "Letters of David Ricardo to Thomas Robert Malthus, 1810-1823, ed. James Bonar (Oxford: Clarendon, 1887)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "ricardo-principles-1817": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ricardo",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ricardo-letters-to-malthus-1887": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ricardo",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
