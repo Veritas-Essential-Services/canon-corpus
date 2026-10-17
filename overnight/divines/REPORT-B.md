@@ -833,3 +833,7 @@
 ## 2026-10-17 17:36 CDT — Round 2026-10-17j: Scottish school and Hartley
 - 4 new shelves, 9 IA volumes: sir-william-hamilton (Lectures, Boston 1859-60), dugald-stewart (Elements, Collected Works vols. II-IV 1854), thomas-brown-edinburgh (Lectures 1851), david-hartley (Observations on Man 1801 + Pistorius)
 - Left out: Schopenhauer's Fourfold Root (held on singles-ideas-2), Beattie's Essay on Truth (the 1805 scan prints no year)
+
+## 2026-10-17 17:43 CDT — Round 2026-10-17k: political philosophy and economy
+- 9 new shelves, 18 PG texts: thomas-more (Utopia, Burnet), campanella, james-harrington (Oceana), bolingbroke, proudhon (2; Tucker attribution inferred), bakunin, kropotkin (3), malthus (6, 1798-1827), david-ricardo (2)
+- Left out: Bastiat (lane C's stirling-bastiat shelf began him), Burke/Paine/Tocqueville (reading-lists shelves), Ideal Commonwealths (duplicates its parts)

@@ -200,3 +200,4 @@
 - 17:30 round h: 9 IA volumes (Royce x7, James Mill, Dewey-Tufts); nothing needs Adam.
 - 17:34 round i: 15 PG texts (Rousseau, Pascal, Marx/Engels, William James); nothing needs Adam.
 - 17:36 round j: 4 new shelves (Hamilton, Stewart, Thomas Brown, Hartley); nothing needs Adam.
+- 17:43 round k: 9 new shelves, 18 PG texts of political philosophy and economy; nothing needs Adam.

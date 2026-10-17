@@ -1260,6 +1260,14 @@
    "started": "2026-10-17T17:34:26-05:00",
    "finished": "2026-10-17T17:36:44-05:00",
    "notes": "4 new shelves, 9 IA volumes."
+  },
+  {
+   "id": "round-2026-10-17k",
+   "status": "done",
+   "scope": "Political philosophy and political economy (PG): More, Campanella, Harrington, Bolingbroke, Proudhon, Bakunin, Kropotkin, Malthus, Ricardo",
+   "started": "2026-10-17T17:36:44-05:00",
+   "finished": "2026-10-17T17:43:06-05:00",
+   "notes": "9 new shelves, 18 PG texts. Bastiat left to lane C (stirling-bastiat)."
   }
  ]
 }
