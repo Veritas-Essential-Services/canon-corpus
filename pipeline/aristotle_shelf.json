@@ -163,6 +163,16 @@
    "rhetoricofaristo0000sirr",
    "The Rhetoric of Aristotle, a translation, edited with an introduction and supplementary notes by John Edwin Sandys (Cambridge University Press, 1909)",
    "tr. Sir Richard Claverhouse Jebb"
+  ],
+  "aristotle-poste-posterior-analytics-1850": [
+   "cu31924028996572",
+   "The Logic of Science: a translation of the Posterior Analytics of Aristotle, with notes and an introduction (Oxford: Francis Macpherson, MDCCCL)",
+   "tr. Edward Poste"
+  ],
+  "aristotle-poste-athenian-constitution-1891": [
+   "aristotleonconst00arisiala",
+   "Aristotle on the Constitution of Athens (London: Macmillan, 1891)",
+   "tr. E. Poste"
   ]
  },
  "_excluded": {
@@ -199,7 +209,9 @@
   "aristotle-taylor-rhetoric-poetic-ethics-1818": "thomas taylor",
   "aristotle-jowett-politics-1885-v1": "Jowett",
   "aristotle-jowett-politics-1885-v2": "Jowett",
-  "aristotle-jebb-rhetoric-1909": "Jebb"
+  "aristotle-jebb-rhetoric-1909": "Jebb",
+  "aristotle-poste-posterior-analytics-1850": "Poste",
+  "aristotle-poste-athenian-constitution-1891": "Poste"
  },
  "_translator_unchecked": {
   "aristotle-ross-v01": "no single translator to check: None",
@@ -623,6 +635,32 @@
    "ia_rights": "ok: published 1909",
    "ia_date": "1909-01-01",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aristotle-poste-posterior-analytics-1850": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "Poste",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aristotle-poste-athenian-constitution-1891": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "Poste",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },

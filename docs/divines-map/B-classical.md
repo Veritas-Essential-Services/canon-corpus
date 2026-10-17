@@ -159,6 +159,8 @@ Shelf: `pipeline/aristotle_shelf.json`. The Oxford translation, ed. J. A. Smith 
 | The Politics of Aristotle, translated into English, with introduction, marginal analysis, essays, notes and indices, vol. I: the introduction and translation (Oxford: Clarendon, 1885) | B. Jowett | `aristotle-jowett-politics-1885-v1` | have-raw (IA `politicsofaristo01arisuoft`) |
 | The Politics of Aristotle, vol. II, part I: the notes (Oxford: Clarendon, 1885) | B. Jowett | `aristotle-jowett-politics-1885-v2` | have-raw (IA `politicsofaristo02arisuoft`) |
 | The Rhetoric of Aristotle, a translation, edited with an introduction and supplementary notes by John Edwin Sandys (Cambridge University Press, 1909) | Sir Richard Claverhouse Jebb | `aristotle-jebb-rhetoric-1909` | have-raw (IA `rhetoricofaristo0000sirr`) |
+| The Logic of Science: a translation of the Posterior Analytics of Aristotle, with notes and an introduction (Oxford: Francis Macpherson, MDCCCL) | Edward Poste | `aristotle-poste-posterior-analytics-1850` | have-raw (IA `cu31924028996572`) |
+| Aristotle on the Constitution of Athens (London: Macmillan, 1891) | E. Poste | `aristotle-poste-athenian-constitution-1891` | have-raw (IA `aristotleonconst00arisiala`) |
 
 Pending (wishlist): genuine pre-1931 separate issues of Meteorologica (1923) and Parva Naturalia (1908), which are PD now (no scan found yet; De Mundo, 1914, is held above); R. D. Hicks's De Anima (1907, Greek facing); a clean proofread Nicomachean Ethics (Ross) from Gutenberg if one appears; Thomas Taylor's Treatises on the Soul (1808; the only scan found, IA `b22006874`, has an unreadable text layer past the title page); Poste's Sophistici Elenchi (1866; Greek facing, 0.59 clean, under the bar).
 
