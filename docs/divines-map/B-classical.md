@@ -3669,6 +3669,7 @@ Shelf: `pipeline/leibniz_shelf.json`. G. W. Leibniz (1646-1716) in English, tran
 |---|---|---|---|
 | The Philosophical Works of Leibnitz, comprising the Monadology, New System of Nature, Principles of Nature and of Grace, Letters to Clarke, Refutation of Spinoza, and other opuscules, translated from the original Latin and French, with notes (New Haven: Tuttle, Morehouse and Taylor, 1890) | George Martin Duncan (his name is lost in the OCR of the title page) | `leibniz-duncan-philosophical-works-1890` | have-raw (IA `philosophicalwor00leibuoft`) |
 | New Essays Concerning Human Understanding, together with an appendix consisting of some of his shorter pieces (New York: Macmillan, 1896) | Alfred Gideon Langley | `leibniz-langley-new-essays-1896` | have-raw (IA `newessaysconcern00leibuoft`) |
+| The Monadology and Other Philosophical Writings, translated with introduction and notes (Oxford: Clarendon, 1898) | Robert Latta | `leibniz-latta-monadology-1898` | have-raw (IA `themonadology00leibuoft`) |
 
 ## Fichte in English
 

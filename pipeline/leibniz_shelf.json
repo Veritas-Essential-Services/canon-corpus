@@ -26,11 +26,17 @@
    "newessaysconcern00leibuoft",
    "New Essays Concerning Human Understanding, together with an appendix consisting of some of his shorter pieces (New York: Macmillan, 1896)",
    "tr. Alfred Gideon Langley"
+  ],
+  "leibniz-latta-monadology-1898": [
+   "themonadology00leibuoft",
+   "The Monadology and Other Philosophical Writings, translated with introduction and notes (Oxford: Clarendon, 1898)",
+   "tr. Robert Latta"
   ]
  },
  "_excluded": {},
  "_translators": {
-  "leibniz-langley-new-essays-1896": "Langley"
+  "leibniz-langley-new-essays-1896": "Langley",
+  "leibniz-latta-monadology-1898": "Latta"
  },
  "_checks": {
   "leibniz-duncan-philosophical-works-1890": {
@@ -54,6 +60,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1896",
    "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leibniz-latta-monadology-1898": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "leibniz",
+   "translator_claimed": "Latta",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
