@@ -1,5 +1,5 @@
 {
- "_about": "James Mill (1773-1836), from Project Gutenberg: Analysis of the Phenomena of the Human Mind, a new edition with notes illustrative and critical by Alexander Bain, Andrew Findlater and George Grote, edited with additional notes by John Stuart Mill, 2nd ed., vol. I (London: Longmans, Green, Reader, and Dyer, 1878). US public domain. Wanted: vol. II of the same edition. No uids minted.",
+ "_about": "James Mill (1773-1836), from Project Gutenberg: Analysis of the Phenomena of the Human Mind, a new edition with notes illustrative and critical by Alexander Bain, Andrew Findlater and George Grote, edited with additional notes by John Stuart Mill, 2nd ed., 2 vols. (London: Longmans, Green, Reader, and Dyer, 1878): vol. I from Project Gutenberg, vol. II in raw IA OCR. US public domain. No uids minted.",
  "_author": "James Mill",
  "_name_words": [
   "james",
@@ -15,7 +15,12 @@
    "Analysis of the Phenomena of the Human Mind, ed. J. S. Mill, 2nd ed., vol. I (London: Longmans, 1878)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "james-mill-analysis-of-the-mind-1878-v2": [
+   "cu31924092298383",
+   "Analysis of the Phenomena of the Human Mind, ed. J. S. Mill, 2nd ed., vol. II (London: Longmans, 1878)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "james-mill-analysis-of-the-mind-1878-v1": {
@@ -26,6 +31,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "james-mill-analysis-of-the-mind-1878-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james mill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  }
 }
