@@ -15736,6 +15736,27 @@ Round 60 (2026-10-17), vetoable: East Asian volumes. Round 61 (2026-10-17), veto
 | — | — | persian-mystics-davis: F. Hadland Davis's Persian Mystics: Rumi (1907) and Jami (1908) (PG 45159, 45158): anthologies of other men's translations by permission (Whinfield and Nicholson in the Rumi volume, FitzGerald and others in the Jami), not new translations. | — | — | excluded | — |
 | — | — | studies: Authored studies rather than translations: Herbert Baynes's Way of the Buddha (1906, 'the treatise'), L. D. Barnett's Brahma-Knowledge (1907, 'an outline of the philosophy of the Vedanta') and Heart of India (1908, 'sketches'), and S. A. Kapadia's Teachings of Zoroaster (1905, 'by S. A. Kapadia'). Eric Hammond's Splendour of God (1911) is a compilation of Baha'i extracts whose front matter names no translator. | — | — | excluded | — |
 
+## Series shelf: the Sacred Books of the East (Clarendon Press, 1879-1910), the volumes not already on muller, palmer or legge: Rhys Davids's Buddhist Suttas and Milinda, the Vinaya Texts, Beal, Kern's Lotus Sutra, Jacobi's Jaina Sutras, Buddhist Mahayana Texts
+
+Shelf: `pipeline/sacred-books-of-the-east_shelf.json` · fetch `python3 pipeline/fetch_shelf.py sacred-books-of-the-east` · titles `python3 pipeline/split_shelf_titles.py sacred-books-of-the-east`.
+Round 62 (2026-10-17), vetoable. Buddhist and Jain volumes first; the Zoroastrian, Hindu law and Vedic volumes follow. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `sacred-books-of-the-east-buddhist-suttas` | The Pali Canon (seven suttas, the Maha-parinibbana Suttanta first) | Buddhist Suttas | T. W. Rhys Davids | 1881 | have-raw | IA `in.ernet.dli.2015.217508` |
+| `sacred-books-of-the-east-vinaya-1` | The Vinaya Pitaka | Vinaya Texts, part I (the Patimokkha; Mahavagga I-IV) | T. W. Rhys Davids and Hermann Oldenberg | 1881 | have-raw | IA `in.ernet.dli.2015.217507` |
+| `sacred-books-of-the-east-vinaya-2` | The Vinaya Pitaka | Vinaya Texts, part II (Mahavagga V-X and more) | T. W. Rhys Davids and Hermann Oldenberg | 1882 | have-raw | IA `in.ernet.dli.2015.217606` |
+| `sacred-books-of-the-east-vinaya-3` | The Vinaya Pitaka | Vinaya Texts, part III | T. W. Rhys Davids and Hermann Oldenberg | 1885 | have-raw | IA `in.ernet.dli.2015.283711` |
+| `sacred-books-of-the-east-fo-sho-hing-tsan-king` | Asvaghosa, in Dharmaraksha's Chinese version | The Fo-sho-hing-tsan-king, a Life of Buddha | Samuel Beal | 1883 | have-raw | IA `in.ernet.dli.2015.217599` |
+| `sacred-books-of-the-east-saddharma-pundarika` | The Saddharmapundarika Sutra | The Saddharma-pundarika, or the Lotus of the True Law | H. Kern | 1884 | have-raw | IA `sacredbooksofthe014253mbp` |
+| `sacred-books-of-the-east-jaina-sutras-1` | The Jain Agamas | Jaina Sutras, part I (with the Kalpa Sutra) | Hermann Jacobi | 1884 | have-raw | IA `in.ernet.dli.2015.168707` |
+| `sacred-books-of-the-east-jaina-sutras-2` | The Jain Agamas | Jaina Sutras, part II (with the Uttaradhyayana Sutra) | Hermann Jacobi | 1895 | have-raw | IA `in.ernet.dli.2015.188663` |
+| `sacred-books-of-the-east-milinda-1` | The Milindapanha | The Questions of King Milinda, part I | T. W. Rhys Davids | 1890 | have-raw | IA `in.ernet.dli.2015.217506` |
+| `sacred-books-of-the-east-milinda-2` | The Milindapanha | The Questions of King Milinda, part II | T. W. Rhys Davids | 1894 | have-raw | IA `in.ernet.dli.2015.175350` |
+| `sacred-books-of-the-east-mahayana-texts` | Asvaghosa's Buddhacarita and the Sukhavati, Vajracchedika and Prajnaparamita sutras | Buddhist Mahayana Texts | E. B. Cowell, F. Max Müller and J. Takakusu | 1894 | have-raw | IA `in.ernet.dli.2015.175347` |
+| — | — | motilal-reprints: Motilal Banarsidass reprints (Delhi, 1960s on) of the same volumes, e.g. in.ernet.dli.2015.224726 (vol. 11), 224728 (vol. 13) and 226564 (vol. 49), whose front matter says 'First published by the Oxford University Press ... Reprinted by Motilal Banarsidass': post-1930 printings, refused in favour of the Clarendon originals. | — | — | excluded | — |
+| — | — | held-elsewhere: Vols 1 and 15 (Müller's Upanishads) and vol. 10's Dhammapada are on muller; vols 6 and 9 (Palmer's Qur'an) on palmer; vols 3, 16, 27, 28, 39 and 40 (Legge) belong to the legge shelf. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

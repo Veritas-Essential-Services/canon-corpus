@@ -197,3 +197,5 @@
 - 2026-10-17T17:36-05:00: round 60: wisdom-of-the-east (10). --verify --record 0 mismatched. Wisdom of the East, East Asian volumes.
 
 - 2026-10-17T17:46-05:00: round 61: wisdom-of-the-east +16 (26). --verify --record 0 mismatched. Wisdom of the East, Indian/Persian/Arabic/Hebrew/Egyptian volumes.
+
+- 2026-10-17T17:53-05:00: round 62: sacred-books-of-the-east (11). --verify --record 0 mismatched. Sacred Books of the East, Buddhist and Jain volumes.

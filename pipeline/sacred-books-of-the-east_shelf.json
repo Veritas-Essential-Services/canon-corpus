@@ -1,0 +1,471 @@
+{
+ "_about": "SERIES SHELF of the Sacred Books of the East (Clarendon Press, Oxford, 1879-1910, ed. F. Max Müller), the Victorian scholars' fifty-volume library of Asian scripture in English. Lane C already holds Müller's Upanishads and Dhammapada (muller), Palmer's Qur'an (palmer) and Legge's Chinese volumes (legge); this shelf takes the rest. Round 62 holds the Buddhist and Jain volumes: Rhys Davids's Buddhist Suttas (1881) and Questions of King Milinda (1890-94), Rhys Davids and Oldenberg's Vinaya Texts (3 vols, 1881-85), Beal's Fo-sho-hing-tsan-king (1883), Kern's Lotus Sutra (1884), Jacobi's Jaina Sutras (1884, 1895) and Buddhist Mahayana Texts (Cowell, Müller, Takakusu, 1894). Original Clarendon printings only: Motilal Banarsidass reprints of the same volumes (1960s on) were spotted by their front matter and refused. Each title gates on its own translator. US public domain. Added 2026-10-17 by lane C (round 62); Adam may veto. No uids minted.",
+ "_name_words": [
+  "beal",
+  "cowell",
+  "e. b. cowell",
+  "h. kern",
+  "hermann jacobi",
+  "hermann oldenberg",
+  "jacobi",
+  "kern",
+  "max muller",
+  "max müller",
+  "oldenberg",
+  "rhys davids",
+  "samuel beal",
+  "t. w. rhys davids",
+  "takakusu"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "beal",
+  "cowell",
+  "e. b. cowell",
+  "h. kern",
+  "hermann jacobi",
+  "hermann oldenberg",
+  "jacobi",
+  "kern",
+  "max muller",
+  "max müller",
+  "oldenberg",
+  "rhys davids",
+  "samuel beal",
+  "t. w. rhys davids",
+  "takakusu"
+ ],
+ "_surname_by_slug": {
+  "sbe-buddhist-suttas": [
+   "t. w. rhys davids",
+   "rhys davids"
+  ],
+  "sbe-vinaya-1": [
+   "t. w. rhys davids",
+   "rhys davids",
+   "hermann oldenberg",
+   "oldenberg"
+  ],
+  "sbe-vinaya-2": [
+   "t. w. rhys davids",
+   "rhys davids",
+   "hermann oldenberg",
+   "oldenberg"
+  ],
+  "sbe-vinaya-3": [
+   "t. w. rhys davids",
+   "rhys davids",
+   "hermann oldenberg",
+   "oldenberg"
+  ],
+  "sbe-fo-sho-hing-tsan-king": [
+   "samuel beal",
+   "beal"
+  ],
+  "sbe-saddharma-pundarika": [
+   "h. kern",
+   "kern"
+  ],
+  "sbe-jaina-sutras-1": [
+   "hermann jacobi",
+   "jacobi"
+  ],
+  "sbe-jaina-sutras-2": [
+   "hermann jacobi",
+   "jacobi"
+  ],
+  "sbe-milinda-1": [
+   "t. w. rhys davids",
+   "rhys davids"
+  ],
+  "sbe-milinda-2": [
+   "t. w. rhys davids",
+   "rhys davids"
+  ],
+  "sbe-mahayana-texts": [
+   "e. b. cowell",
+   "cowell",
+   "max müller",
+   "max muller",
+   "takakusu"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sbe-buddhist-suttas": [
+   "in.ernet.dli.2015.217508",
+   "Sacred Books of the East vol. 11: Buddhist Suttas (Clarendon Press, 1881)",
+   "2015.217508.Sacred-Books_djvu.txt"
+  ],
+  "sbe-vinaya-1": [
+   "in.ernet.dli.2015.217507",
+   "Sacred Books of the East vol. 13: Vinaya Texts, part I (the Patimokkha; Mahavagga I-IV) (Clarendon Press, 1881)",
+   "2015.217507.The-Sacred_djvu.txt"
+  ],
+  "sbe-vinaya-2": [
+   "in.ernet.dli.2015.217606",
+   "Sacred Books of the East vol. 17: Vinaya Texts, part II (Mahavagga V-X; Kullavagga I-III) (Clarendon Press, 1882)",
+   "2015.217606.Sacred-Books_djvu.txt"
+  ],
+  "sbe-vinaya-3": [
+   "in.ernet.dli.2015.283711",
+   "Sacred Books of the East vol. 20: Vinaya Texts, part III (Kullavagga IV-XII) (Clarendon Press, 1885)",
+   "2015.283711.The-Sacred_djvu.txt"
+  ],
+  "sbe-fo-sho-hing-tsan-king": [
+   "in.ernet.dli.2015.217599",
+   "Sacred Books of the East vol. 19: The Fo-sho-hing-tsan-king, a Life of Buddha (Clarendon Press, 1883)",
+   "2015.217599.The-Sacred_djvu.txt"
+  ],
+  "sbe-saddharma-pundarika": [
+   "sacredbooksofthe014253mbp",
+   "Sacred Books of the East vol. 21: The Saddharma-pundarika, or the Lotus of the True Law (Clarendon Press, 1884)"
+  ],
+  "sbe-jaina-sutras-1": [
+   "in.ernet.dli.2015.168707",
+   "Sacred Books of the East vol. 22: Jaina Sutras, part I (the Akaranga Sutra and the Kalpa Sutra) (Clarendon Press, 1884)",
+   "2015.168707.The-Sacred-Books-Of-The-East-Volume-Xxii_djvu.txt"
+  ],
+  "sbe-jaina-sutras-2": [
+   "in.ernet.dli.2015.188663",
+   "Sacred Books of the East vol. 45: Jaina Sutras, part II (the Uttaradhyayana Sutra and the Sutrakritanga Sutra) (Clarendon Press, 1895)",
+   "2015.188663.The-Sacred-Books-Of-The-East-vol-Xlv_djvu.txt"
+  ],
+  "sbe-milinda-1": [
+   "in.ernet.dli.2015.217506",
+   "Sacred Books of the East vol. 35: The Questions of King Milinda, part I (Clarendon Press, 1890)",
+   "2015.217506.The-Sacred_djvu.txt"
+  ],
+  "sbe-milinda-2": [
+   "in.ernet.dli.2015.175350",
+   "Sacred Books of the East vol. 36: The Questions of King Milinda, part II (Clarendon Press, 1894)",
+   "2015.175350.The-Sacred-Books-Of-The-East-vol-Xxxvi_djvu.txt"
+  ],
+  "sbe-mahayana-texts": [
+   "in.ernet.dli.2015.175347",
+   "Sacred Books of the East vol. 49: Buddhist Mahayana Texts (Clarendon Press, 1894)",
+   "2015.175347.The-Sacred-Books-Of-The-East--Vol-xlix_djvu.txt"
+  ]
+ },
+ "titles": {
+  "sacred-books-of-the-east-buddhist-suttas": {
+   "source": "sbe-buddhist-suttas",
+   "of": "The Pali Canon (seven suttas, the Maha-parinibbana Suttanta first)",
+   "work": "Buddhist Suttas",
+   "translated": 1881,
+   "translator": "T. W. Rhys Davids",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 11, 1881; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-vinaya-1": {
+   "source": "sbe-vinaya-1",
+   "of": "The Vinaya Pitaka",
+   "work": "Vinaya Texts, part I (the Patimokkha; Mahavagga I-IV)",
+   "translated": 1881,
+   "translator": "T. W. Rhys Davids and Hermann Oldenberg",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 13, 1881; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-vinaya-2": {
+   "source": "sbe-vinaya-2",
+   "of": "The Vinaya Pitaka",
+   "work": "Vinaya Texts, part II (Mahavagga V-X and more)",
+   "translated": 1882,
+   "translator": "T. W. Rhys Davids and Hermann Oldenberg",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 17, 1882; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-vinaya-3": {
+   "source": "sbe-vinaya-3",
+   "of": "The Vinaya Pitaka",
+   "work": "Vinaya Texts, part III",
+   "translated": 1885,
+   "translator": "T. W. Rhys Davids and Hermann Oldenberg",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 20, 1885; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-fo-sho-hing-tsan-king": {
+   "source": "sbe-fo-sho-hing-tsan-king",
+   "of": "Asvaghosa, in Dharmaraksha's Chinese version",
+   "work": "The Fo-sho-hing-tsan-king, a Life of Buddha",
+   "translated": 1883,
+   "translator": "Samuel Beal",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 19, 1883; Digital Library of India scan of the original printing",
+   "note": "The title page says: translated from Sanskrit into Chinese by Dharmaraksha, A.D. 420, and from Chinese into English by Samuel Beal."
+  },
+  "sacred-books-of-the-east-saddharma-pundarika": {
+   "source": "sbe-saddharma-pundarika",
+   "of": "The Saddharmapundarika Sutra",
+   "work": "The Saddharma-pundarika, or the Lotus of the True Law",
+   "translated": 1884,
+   "translator": "H. Kern",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 21, 1884; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-jaina-sutras-1": {
+   "source": "sbe-jaina-sutras-1",
+   "of": "The Jain Agamas",
+   "work": "Jaina Sutras, part I (with the Kalpa Sutra)",
+   "translated": 1884,
+   "translator": "Hermann Jacobi",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 22, 1884; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-jaina-sutras-2": {
+   "source": "sbe-jaina-sutras-2",
+   "of": "The Jain Agamas",
+   "work": "Jaina Sutras, part II (with the Uttaradhyayana Sutra)",
+   "translated": 1895,
+   "translator": "Hermann Jacobi",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 45, 1895; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-milinda-1": {
+   "source": "sbe-milinda-1",
+   "of": "The Milindapanha",
+   "work": "The Questions of King Milinda, part I",
+   "translated": 1890,
+   "translator": "T. W. Rhys Davids",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 35, 1890; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-milinda-2": {
+   "source": "sbe-milinda-2",
+   "of": "The Milindapanha",
+   "work": "The Questions of King Milinda, part II",
+   "translated": 1894,
+   "translator": "T. W. Rhys Davids",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 36, 1894; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-mahayana-texts": {
+   "source": "sbe-mahayana-texts",
+   "of": "Asvaghosa's Buddhacarita and the Sukhavati, Vajracchedika and Prajnaparamita sutras",
+   "work": "Buddhist Mahayana Texts",
+   "translated": 1894,
+   "translator": "E. B. Cowell, F. Max Müller and J. Takakusu",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 49, 1894; Digital Library of India scan of the original printing",
+   "note": "Three translators in one volume: Cowell's Buddha-karita of Asvaghosha (part I), Müller's Sukhavati, Vajracchedika and Prajnaparamita sutras, and Takakusu's Amitayur-dhyana sutra (part II)."
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "motilal-reprints": "Motilal Banarsidass reprints (Delhi, 1960s on) of the same volumes, e.g. in.ernet.dli.2015.224726 (vol. 11), 224728 (vol. 13) and 226564 (vol. 49), whose front matter says 'First published by the Oxford University Press ... Reprinted by Motilal Banarsidass': post-1930 printings, refused in favour of the Clarendon originals.",
+  "held-elsewhere": "Vols 1 and 15 (Müller's Upanishads) and vol. 10's Dhammapada are on muller; vols 6 and 9 (Palmer's Qur'an) on palmer; vols 3, 16, 27, 28, 39 and 40 (Legge) belong to the legge shelf."
+ },
+ "_checks": {
+  "sbe-buddhist-suttas": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "t. w. rhys davids",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-vinaya-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "t. w. rhys davids",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-vinaya-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "t. w. rhys davids",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-vinaya-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "t. w. rhys davids",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-fo-sho-hing-tsan-king": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "samuel beal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-saddharma-pundarika": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. kern",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-jaina-sutras-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hermann jacobi",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-jaina-sutras-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hermann jacobi",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-milinda-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "t. w. rhys davids",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-milinda-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "t. w. rhys davids",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-mahayana-texts": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. b. cowell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "sbe-buddhist-suttas": {
+   "ia": "in.ernet.dli.2015.217508",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-vinaya-1": {
+   "ia": "in.ernet.dli.2015.217507",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1881
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-vinaya-2": {
+   "ia": "in.ernet.dli.2015.217606",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1882
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-vinaya-3": {
+   "ia": "in.ernet.dli.2015.283711",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1885
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-fo-sho-hing-tsan-king": {
+   "ia": "in.ernet.dli.2015.217599",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1883
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-saddharma-pundarika": {
+   "ia": "sacredbooksofthe014253mbp",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1884
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-jaina-sutras-1": {
+   "ia": "in.ernet.dli.2015.168707",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1884
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-jaina-sutras-2": {
+   "ia": "in.ernet.dli.2015.188663",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1887,
+    1888,
+    1889,
+    1892,
+    1893,
+    1895
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-milinda-1": {
+   "ia": "in.ernet.dli.2015.217506",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1747,
+    1781,
+    1877,
+    1881,
+    1890
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-milinda-2": {
+   "ia": "in.ernet.dli.2015.175350",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1894
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-mahayana-texts": {
+   "ia": "in.ernet.dli.2015.175347",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1830,
+    1894
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

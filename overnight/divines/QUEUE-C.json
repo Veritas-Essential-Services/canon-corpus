@@ -3376,6 +3376,14 @@
       "finished": "2026-10-17T17:46-05:00",
       "scope": "TRANSLATOR SHELF (round 61, lane C's choice; Adam may veto) -- wisdom-of-the-east +16; PD printings before 1931 only; no minting",
       "notes": "16 titles added (26 on the shelf); ids checked across all branches. See DIGEST-C round 61. No uids minted."
+    },
+    {
+      "id": "shelf-sacred-books-of-the-east",
+      "status": "done",
+      "started": "2026-10-17T17:53-05:00",
+      "finished": "2026-10-17T17:53-05:00",
+      "scope": "TRANSLATOR SHELF (round 62, lane C's choice; Adam may veto) -- sacred-books-of-the-east; PD printings before 1931 only; no minting",
+      "notes": "11 titles; ids checked across all branches. See DIGEST-C round 62. No uids minted."
     }
   ]
 }
