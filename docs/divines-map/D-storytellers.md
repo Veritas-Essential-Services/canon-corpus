@@ -6239,6 +6239,25 @@ Shelf: `pipeline/amanda-douglas_shelf.json` (2026-10-17; added at the coordinato
 | A Little Girl in Old Chicago | have | PG 58410, `adouglas-a-little-girl-in-old-chicago` (2018 units) |
 | Seven daughters | have | PG 71729, `adouglas-seven-daughters` (2374 units) |
 
+## Joseph Hocking
+
+Shelf: `pipeline/joseph-hocking_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Cornish and historical romances. Every English text under the name at Gutenberg that no other shelf holds (12 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Weapons of Mystery | have | PG 13158, `jhocking-weapons-of-mystery` (1726 units) |
+| Roger Trewinion | have | PG 24976, `jhocking-roger-trewinion` (2810 units) |
+| Tommy | have | PG 24986, `jhocking-tommy` (1030 units) |
+| The Pomp of Yesterday | have | PG 25136, `jhocking-pomp-of-yesterday` (2600 units) |
+| All for a Scrap of Paper: A Romance of the Present War | have | PG 25152, `jhocking-all-for-a-scrap-of-paper` (2135 units) |
+| The Day of Judgment | have | PG 25463, `jhocking-day-of-judgment` (3610 units) |
+| The Birthright | have | PG 27591, `jhocking-birthright` (2823 units) |
+| The Man Who Rose Again | have | PG 33964, `jhocking-man-who-rose-again` (3459 units) |
+| The Coming of the King | have | PG 37042, `jhocking-coming-of-the-king` (3146 units) |
+| The Everlasting Arms | have | PG 39218, `jhocking-everlasting-arms` (3699 units) |
+| The Passion for Life | have | PG 40102, `jhocking-passion-for-life` (2991 units) |
+| Mistress Nancy Molesworth: A Tale of Adventure | have | PG 54239, `jhocking-mistress-nancy-molesworth` (3493 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

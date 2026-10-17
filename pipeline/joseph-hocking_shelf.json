@@ -1,0 +1,188 @@
+{
+ "_about": "Joseph Hocking's Cornish and historical romances: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Joseph Hocking",
+ "_name_words": [
+  "hocking"
+ ],
+ "_surname": [
+  "joseph hocking"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jhocking-weapons-of-mystery": [
+   13158,
+   "The Weapons of Mystery",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhocking-roger-trewinion": [
+   24976,
+   "Roger Trewinion",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhocking-tommy": [
+   24986,
+   "Tommy"
+  ],
+  "jhocking-pomp-of-yesterday": [
+   25136,
+   "The Pomp of Yesterday",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhocking-all-for-a-scrap-of-paper": [
+   25152,
+   "All for a Scrap of Paper: A Romance of the Present War"
+  ],
+  "jhocking-day-of-judgment": [
+   25463,
+   "The Day of Judgment"
+  ],
+  "jhocking-birthright": [
+   27591,
+   "The Birthright"
+  ],
+  "jhocking-man-who-rose-again": [
+   33964,
+   "The Man Who Rose Again"
+  ],
+  "jhocking-coming-of-the-king": [
+   37042,
+   "The Coming of the King"
+  ],
+  "jhocking-everlasting-arms": [
+   39218,
+   "The Everlasting Arms",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhocking-passion-for-life": [
+   40102,
+   "The Passion for Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "jhocking-mistress-nancy-molesworth": [
+   54239,
+   "Mistress Nancy Molesworth: A Tale of Adventure"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "jhocking-weapons-of-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph hocking",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhocking-roger-trewinion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph hocking",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhocking-tommy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph hocking",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhocking-pomp-of-yesterday": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph hocking",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhocking-all-for-a-scrap-of-paper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph hocking",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhocking-day-of-judgment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph hocking",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhocking-birthright": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph hocking",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhocking-man-who-rose-again": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph hocking",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhocking-coming-of-the-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph hocking",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhocking-everlasting-arms": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph hocking",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhocking-passion-for-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph hocking",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhocking-mistress-nancy-molesworth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joseph hocking",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
