@@ -4247,6 +4247,19 @@ Slugs `west-*`. The 1879 Prophetic Conference volume he edited is an alternate.
 | The Medical Science and Profession (1877): commencement address | excluded | |
 | an earlier Nathaniel West (1794-1864) and an electrical engineer N. West | excluded | |
 | reprints of 1936 and 1993; periodical articles without text | excluded | |
+
+## George N. H. Peters (round 22, my pick, 2026-10-17)
+
+Slugs `peters-*`. All three volumes of the 1884 first edition.
+
+| Work | Status | Where |
+|---|---|---|
+| The Theocratic Kingdom of Our Lord Jesus, the Christ, vol. I (New York and London: Funk & Wagnalls, 1884) | have-ocr | IA `theocratickingdo01pete` |
+| The Theocratic Kingdom of Our Lord Jesus, the Christ, vol. II (New York and London: Funk & Wagnalls, 1884) | have-ocr | IA `theocratickingdo02pete_0` |
+| The Theocratic Kingdom of Our Lord Jesus, the Christ, vol. III (New York and London: Funk & Wagnalls, 1884) | have-ocr | IA `theocratickingdo03pete` |
+| Other 1884 copies: vol. I theocratickingdo01pete_0, theocratickingd01petegoog, theocratickingd02petegoog; vol. II theocratickingd03petegoog; vol. III theocratickingdo03pete_0, theocratickingd00petegoog, theocratickingd04petegoog (several Google scans are catalogued 1988 in error) | alternate | not shelved |
+| Kregel 1952 reprints with Wilbur M. Smith's introduction, some catalogued 1884 in error | excluded | |
+| 1957 and 1972 reprints | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

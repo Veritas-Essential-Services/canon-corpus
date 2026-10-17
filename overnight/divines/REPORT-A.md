@@ -994,3 +994,6 @@
 
 ## 2026-10-17 17:21 CDT — nathaniel-west done
 - `pipeline/nathaniel-west_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:21 CDT — george-n-h-peters done
+- `pipeline/george-n-h-peters_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for peters-theocratic-kingdom-3 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
