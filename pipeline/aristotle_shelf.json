@@ -1,5 +1,5 @@
 {
- "_about": "Aristotle in English: the Oxford translation, The Works of Aristotle Translated into English, ed. J. A. Smith and W. D. Ross (Oxford: Clarendon, 1908-1952, 12 vols.). Raw Internet Archive OCR, one item per volume (mostly the St. Michael's College, Toronto set, which follows the official numbering), translator recorded per work. Bekker pages are printed in the margins and survive in the OCR; nothing is converted yet (the Edwards precedent). Rights: US public domain for volumes published 1930 or earlier (vols. I, II, IV-XI). Vol. III (1931) enters the US public domain on 2027-01-01 and Vol. XII (1952) is not cleared, so neither is fetched; its pre-1931 parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues, not yet found, and a PD 1902 English De Anima + Parva Naturalia (Hammond) stands in as a gap-fill. Several translators died after 1956, so these are not public domain in the UK or other life+70 countries. English only; no Greek (Perseus Greek not pulled). Clean Gutenberg witnesses (rows ending -pg): Butcher's and Bywater's Poetics, Kenyon's Athenian Constitution, Cresswell's History of Animals. Ellis's Politics and Chase's Ethics are on the Adler shelf and Edghill's Categories is in vol. I (see _held). Added 2026-10-03, older single-work translations (raw IA unless noted): Taylor's Metaphysics (1801); the Bohn volumes of Browne (Ethics, 1850), Owen (Organon, 1853, 2 vols.) and the literal Rhetoric with Buckley's Poetic (1857); Peters's Ethics (1881); Welldon's Politics (1883, in a 1901 printing), Rhetoric (1886) and Ethics (1892); and from Gutenberg, Ellis's Politics and the Everyman Ethics (translator unnamed in the file). Added 2026-10-03 (later): John H. M'Mahon's literal Metaphysics (Bohn, 1857), raw IA OCR (Google scan; the title page prints the name M'Mahon). Also Edward Walford's Politics and Economics (Bohn, 1853); his preface says the Politics is based on Ellis's version, revised against Taylor and Gillies. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): the translations are public domain; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution and share-alike), and each file's own licence statement and a rights block (license, attribution, source_url, share_alike, redistribute_whole false) are recorded per row in _perseus_checks and in the shelf's perseus report.",
+ "_about": "Aristotle in English: the Oxford translation, The Works of Aristotle Translated into English, ed. J. A. Smith and W. D. Ross (Oxford: Clarendon, 1908-1952, 12 vols.). Raw Internet Archive OCR, one item per volume (mostly the St. Michael's College, Toronto set, which follows the official numbering), translator recorded per work. Bekker pages are printed in the margins and survive in the OCR; nothing is converted yet (the Edwards precedent). Rights: US public domain for volumes published 1930 or earlier (vols. I, II, IV-XI). Vol. III (1931) enters the US public domain on 2027-01-01 and Vol. XII (1952) is not cleared, so neither is fetched; its pre-1931 parts (Meteorologica 1923, De Mundo 1914, Parva Naturalia 1908) want genuine separate issues, not yet found, and a PD 1902 English De Anima + Parva Naturalia (Hammond) stands in as a gap-fill. Several translators died after 1956, so these are not public domain in the UK or other life+70 countries. English only; no Greek (Perseus Greek not pulled). Clean Gutenberg witnesses (rows ending -pg): Butcher's and Bywater's Poetics, Kenyon's Athenian Constitution, Cresswell's History of Animals. Ellis's Politics and Chase's Ethics are on the Adler shelf and Edghill's Categories is in vol. I (see _held). Added 2026-10-03, older single-work translations (raw IA unless noted): Taylor's Metaphysics (1801); the Bohn volumes of Browne (Ethics, 1850), Owen (Organon, 1853, 2 vols.) and the literal Rhetoric with Buckley's Poetic (1857); Peters's Ethics (1881); Welldon's Politics (1883, in a 1901 printing), Rhetoric (1886) and Ethics (1892); and from Gutenberg, Ellis's Politics and the Everyman Ethics (translator unnamed in the file). Added 2026-10-03 (later): John H. M'Mahon's literal Metaphysics (Bohn, 1857), raw IA OCR (Google scan; the title page prints the name M'Mahon). Also Edward Walford's Politics and Economics (Bohn, 1853); his preface says the Politics is based on Ellis's version, revised against Taylor and Gillies. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): the translations are public domain; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution and share-alike), and each file's own licence statement and a rights block (license, attribution, source_url, share_alike, redistribute_whole false) are recorded per row in _perseus_checks and in the shelf's perseus report. Added 2026-10-17 (raw IA): Jowett's own edition of the Politics (Oxford, 1885; vol. I introduction and translation, vol. II part I notes), the fullest form of the translation reprinted in Oxford vol. X; Jebb's Rhetoric (ed. Sandys, Cambridge, 1909); Poste's Posterior Analytics (The Logic of Science, 1850) and Constitution of Athens (1891); Twining's Treatise on Poetry (2nd ed. by Daniel Twining, 2 vols., 1812); and Ogle's own pre-Oxford Parts of Animals (1882) and Youth and Old Age, Life and Death, and Respiration (1897).",
  "_name_words": [
   "aristotle",
   "works",
@@ -148,6 +148,16 @@
    "rhetoricpoetica00taylgoog",
    "The Rhetoric, Poetic, and Nicomachean Ethics of Aristotle, vol. II (London, 1818)",
    "tr. Thomas Taylor"
+  ],
+  "aristotle-jowett-politics-1885-v1": [
+   "politicsofaristo01arisuoft",
+   "The Politics of Aristotle, translated into English, with introduction, marginal analysis, essays, notes and indices, vol. I: the introduction and translation (Oxford: Clarendon, 1885)",
+   "tr. B. Jowett"
+  ],
+  "aristotle-jowett-politics-1885-v2": [
+   "politicsofaristo02arisuoft",
+   "The Politics of Aristotle, vol. II, part I: the notes (Oxford: Clarendon, 1885)",
+   "tr. B. Jowett"
   ]
  },
  "_excluded": {
@@ -181,7 +191,9 @@
   "aristotle-mcmahon-metaphysics-1857": "M'Mahon",
   "aristotle-walford-politics-economics-1853": "Edward Walford",
   "aristotle-williams-ethics-1869": "robert williams",
-  "aristotle-taylor-rhetoric-poetic-ethics-1818": "thomas taylor"
+  "aristotle-taylor-rhetoric-poetic-ethics-1818": "thomas taylor",
+  "aristotle-jowett-politics-1885-v1": "Jowett",
+  "aristotle-jowett-politics-1885-v2": "Jowett"
  },
  "_translator_unchecked": {
   "aristotle-ross-v01": "no single translator to check: None",
@@ -202,7 +214,7 @@
  "_checks": {
   "aristotle-butcher-poetics-pg": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "S. H. Butcher",
@@ -214,7 +226,7 @@
   },
   "aristotle-bywater-poetics-pg": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Ingram Bywater",
@@ -226,7 +238,7 @@
   },
   "aristotle-kenyon-athenian-constitution-pg": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Frederic G. Kenyon",
@@ -238,7 +250,7 @@
   },
   "aristotle-cresswell-history-of-animals-pg": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Richard Cresswell",
@@ -250,7 +262,7 @@
   },
   "aristotle-ellis-politics-pg": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "William Ellis",
@@ -262,7 +274,7 @@
   },
   "aristotle-ross-v01": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -274,7 +286,7 @@
   },
   "aristotle-ross-v02": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -286,7 +298,7 @@
   },
   "aristotle-ross-v04": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -298,7 +310,7 @@
   },
   "aristotle-ross-v05": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -310,7 +322,7 @@
   },
   "aristotle-ross-v06": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "title_weak": true,
@@ -323,7 +335,7 @@
   },
   "aristotle-ross-v07": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -335,7 +347,7 @@
   },
   "aristotle-ross-v08": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -347,7 +359,7 @@
   },
   "aristotle-ross-v09": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -359,7 +371,7 @@
   },
   "aristotle-ross-v10": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -371,7 +383,7 @@
   },
   "aristotle-ross-v11": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -383,7 +395,7 @@
   },
   "aristotle-hammond-psychology": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "william alexander hammond",
@@ -396,7 +408,7 @@
   },
   "aristotle-forster-de-mundo-1914": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -407,7 +419,7 @@
   },
   "aristotle-browne-ethics-1850": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -418,7 +430,7 @@
   },
   "aristotle-bohn-rhetoric-poetic-1857": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Theodore Buckley",
@@ -431,7 +443,7 @@
   },
   "aristotle-owen-organon-1853-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Octavius Freire Owen",
@@ -444,7 +456,7 @@
   },
   "aristotle-owen-organon-1853-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Octavius Freire Owen",
@@ -457,7 +469,7 @@
   },
   "aristotle-taylor-metaphysics-1801": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Thomas Taylor",
@@ -470,7 +482,7 @@
   },
   "aristotle-welldon-ethics-1892": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "J. E. C. Welldon",
@@ -483,7 +495,7 @@
   },
   "aristotle-welldon-rhetoric-1886": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "J. E. C. Welldon",
@@ -496,7 +508,7 @@
   },
   "aristotle-welldon-politics-1901": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -507,7 +519,7 @@
   },
   "aristotle-peters-ethics-1881": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "identity": "ok",
@@ -518,7 +530,7 @@
   },
   "aristotle-mcmahon-metaphysics-1857": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "M'Mahon",
@@ -531,7 +543,7 @@
   },
   "aristotle-walford-politics-economics-1853": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "Edward Walford",
@@ -544,7 +556,7 @@
   },
   "aristotle-williams-ethics-1869": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "robert williams",
@@ -557,7 +569,7 @@
   },
   "aristotle-taylor-rhetoric-poetic-ethics-1818": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "aristotle",
    "translator_claimed": "thomas taylor",
@@ -565,6 +577,32 @@
    "identity": "ok",
    "ia_rights": "ok: published 1818",
    "ia_date": "1818",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristotle-jowett-politics-1885-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "Jowett",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristotle-jowett-politics-1885-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "Jowett",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
