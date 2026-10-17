@@ -1176,3 +1176,6 @@
 
 ## 2026-10-17 18:20 CDT — barbour: done
 - barbour: new shelf, 76 Gutenberg books, 109,526 units, 178 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:20 CDT — carolyn-wells: done
+- carolyn-wells: new shelf, 65 Gutenberg books, 111,419 units, 31 ~2 ids; verify 0 mismatches, 0 rights flags.

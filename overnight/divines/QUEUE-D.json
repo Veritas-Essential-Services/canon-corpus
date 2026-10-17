@@ -2397,6 +2397,14 @@
       "started": "2026-10-17T18:20:55-05:00",
       "finished": "2026-10-17T18:20:56-05:00",
       "notes": "barbour: new shelf, 76 Gutenberg books, 109,526 units, 178 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "carolyn-wells",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Carolyn Wells; no minting",
+      "status": "done",
+      "started": "2026-10-17T18:20:57-05:00",
+      "finished": "2026-10-17T18:20:57-05:00",
+      "notes": "carolyn-wells: new shelf, 65 Gutenberg books, 111,419 units, 31 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

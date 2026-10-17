@@ -22589,6 +22589,78 @@ Shelf: `pipeline/barbour_shelf.json` (2026-10-17; added at the coordinator's rel
 | Under the Yankee ensign | have | PG 79261, `rhbarbour-under-the-yankee-ensign` (1098 units) |
 | Kick formation | have | PG 79550, `rhbarbour-kick-formation` (1250 units) |
 
+## Carolyn Wells
+
+Shelf: `pipeline/carolyn-wells_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for girls, nonsense verse and detective novels. Every English text under the name at Gutenberg that no other shelf holds (65 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Gold Bag | have | PG 2883, `cwells-gold-bag` (2073 units) |
+| Patty's Butterfly Days | have | PG 5264, `cwells-pattys-butterfly-days` (2049 units) |
+| Marjorie's Vacation | have | PG 5271, `cwells-marjories-vacation` (1528 units) |
+| Raspberry Jam | have | PG 5335, `cwells-raspberry-jam` (2311 units) |
+| Patty's Suitors | have | PG 5631, `cwells-pattys-suitors` (2490 units) |
+| Patty in Paris | have | PG 5731, `cwells-patty-in-paris` (1359 units) |
+| Two Little Women on a Holiday | have | PG 5893, `cwells-two-little-women-on-a-holiday` (2036 units) |
+| Vicky Van | have | PG 6159, `cwells-vicky-van` (1874 units) |
+| Ptomaine Street: The Tale of Warble Petticoat | have | PG 8386, `cwells-ptomaine-street` (1057 units) |
+| Patty Fairfield | have | PG 8456, `cwells-patty-fairfield` (1437 units) |
+| Marjorie's New Friend | have | PG 8887, `cwells-marjories-new-friend` (2198 units) |
+| Patty at Home | have | PG 10268, `cwells-patty-at-home` (1657 units) |
+| Patty and Azalea | have | PG 14352, `cwells-patty-and-azalea` (2220 units) |
+| Marjorie's Maytime | have | PG 15072, `cwells-marjories-maytime` (1562 units) |
+| Marjorie at Seacote | have | PG 18035, `cwells-marjorie-at-seacote` (2414 units) |
+| Patty Blossom | have | PG 20945, `cwells-patty-blossom` (2019 units) |
+| Marjorie's Busy Days | have | PG 23531, `cwells-marjories-busy-days` (2103 units) |
+| The Rubáiyát of Bridge | have | PG 23792, `cwells-rub-iy-t-of-bridge` (48 units) |
+| The Jingle Book | have | PG 24560, `cwells-jingle-book` (418 units) |
+| A Phenomenal Fauna | have | PG 24673, `cwells-a-phenomenal-fauna` (95 units) |
+| The Re-echo Club | have | PG 24840, `cwells-re-echo-club` (272 units) |
+| Patty's Friends | have | PG 25847, `cwells-pattys-friends` (1780 units) |
+| Patty's Social Season | have | PG 25857, `cwells-pattys-social-season` (2351 units) |
+| Patty's Summer Days | have | PG 25865, `cwells-pattys-summer-days` (1672 units) |
+| Patty's Success | have | PG 25869, `cwells-pattys-success` (2167 units) |
+| Children of Our Town | have | PG 26431, `cwells-children-of-our-town` (76 units) |
+| The Come Back | have | PG 30868, `cwells-come-back` (2428 units) |
+| Two Little Women | have | PG 30881, `cwells-two-little-women` (2213 units) |
+| The Diamond Pin | have | PG 35022, `cwells-diamond-pin` (2222 units) |
+| In the Onyx Lobby | have | PG 35254, `cwells-in-the-onyx-lobby` (2387 units) |
+| The Dorrance Domain | have | PG 39081, `cwells-dorrance-domain` (1510 units) |
+| The Luminous Face | have | PG 42714, `cwells-luminous-face` (2698 units) |
+| A Chain of Evidence | have | PG 43351, `cwells-a-chain-of-evidence` (1952 units) |
+| The Mark of Cain | have | PG 44841, `cwells-mark-of-cain` (2746 units) |
+| The Man Who Fell Through the Earth | have | PG 44872, `cwells-man-who-fell-through-the-earth` (2251 units) |
+| The Mystery Girl | have | PG 44984, `cwells-mystery-girl` (2595 units) |
+| The Seven Ages of Childhood | have | PG 45270, `cwells-seven-ages-of-childhood` (163 units) |
+| The Staying Guest | have | PG 45545, `cwells-staying-guest` (1394 units) |
+| Betty's Happy Year | have | PG 45577, `cwells-bettys-happy-year` (1955 units) |
+| The Curved Blades | have | PG 45622, `cwells-curved-blades` (2182 units) |
+| The Vanishing of Betty Varian | have | PG 45912, `cwells-vanishing-of-betty-varian` (2342 units) |
+| The Room with the Tassels | have | PG 46008, `cwells-room-with-the-tassels` (1983 units) |
+| The Deep Lake Mystery | have | PG 46064, `cwells-deep-lake-mystery` (2622 units) |
+| The Eternal Feminine | have | PG 47598, `cwells-eternal-feminine` (273 units) |
+| At the Sign of the Sphinx. Second series | have | PG 49124, `cwells-at-the-sign-of-the-sphinx-second-series` (355 units) |
+| Patty—Bride | have | PG 49173, `cwells-patty-bride` (2325 units) |
+| The Mystery of the Sycamore | have | PG 50209, `cwells-mystery-of-the-sycamore` (2532 units) |
+| Rubáiyát of a Motor Car | have | PG 51064, `cwells-rub-iy-t-of-a-motor-car` (80 units) |
+| The Lover's Baedeker and Guide to Arcady | have | PG 51189, `cwells-lovers-baedeker-and-guide-to-arcady` (449 units) |
+| Patty's Fortune | have | PG 51354, `cwells-pattys-fortune` (2021 units) |
+| The Emily Emmins Papers | have | PG 52662, `cwells-emily-emmins-papers` (798 units) |
+| Patty's Motor Car | have | PG 52964, `cwells-pattys-motor-car` (1963 units) |
+| Dick and Dolly | have | PG 53166, `cwells-dick-and-dolly` (2120 units) |
+| The Clue | have | PG 54869, `cwells-clue` (2057 units) |
+| Marjorie in Command | have | PG 56009, `cwells-marjorie-in-command` (2153 units) |
+| Patty's Pleasure Trip | have | PG 56552, `cwells-pattys-pleasure-trip` (2178 units) |
+| Patty in the City | have | PG 56583, `cwells-patty-in-the-city` (1649 units) |
+| Two Little Women and Treasure House | have | PG 56632, `cwells-two-little-women-and-treasure-house` (2079 units) |
+| Eight Girls and a Dog | have | PG 58423, `cwells-eight-girls-and-a-dog` (1367 units) |
+| Faulkner's Folly | have | PG 59126, `cwells-faulkners-folly` (2164 units) |
+| A Point of Testimony | have | PG 66601, `cwells-a-point-of-testimony` (166 units) |
+| Feathers left around | have | PG 75642, `cwells-feathers-left-around` (2447 units) |
+| Spooky Hollow | have | PG 77966, `cwells-spooky-hollow` (2275 units) |
+| The matrimonial bureau (with Harry Persons Taber) | have | PG 79028, `cwells-matrimonial-bureau` (1642 units) |
+| The story of Betty | have | PG 79176, `cwells-story-of-betty` (1417 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
