@@ -1,39 +1,69 @@
 {
- "_about": "SERIES SHELF of the Sacred Books of the East (Clarendon Press, Oxford, 1879-1910, ed. F. Max Müller), the Victorian scholars' fifty-volume library of Asian scripture in English. Lane C already holds Müller's Upanishads and Dhammapada (muller), Palmer's Qur'an (palmer) and Legge's Chinese volumes (legge); this shelf takes the rest. Round 62 holds the Buddhist and Jain volumes: Rhys Davids's Buddhist Suttas (1881) and Questions of King Milinda (1890-94), Rhys Davids and Oldenberg's Vinaya Texts (3 vols, 1881-85), Beal's Fo-sho-hing-tsan-king (1883), Kern's Lotus Sutra (1884), Jacobi's Jaina Sutras (1884, 1895) and Buddhist Mahayana Texts (Cowell, Müller, Takakusu, 1894). Original Clarendon printings only: Motilal Banarsidass reprints of the same volumes (1960s on) were spotted by their front matter and refused. Each title gates on its own translator. US public domain. Added 2026-10-17 by lane C (round 62); Adam may veto. No uids minted.",
+ "_about": "SERIES SHELF of the Sacred Books of the East (Clarendon Press, Oxford, 1879-1910, ed. F. Max Müller), the Victorian scholars' fifty-volume library of Asian scripture in English. Lane C already holds Müller's Upanishads and Dhammapada (muller), Palmer's Qur'an (palmer) and Legge's Chinese volumes (legge); this shelf takes the rest. Round 62 holds the Buddhist and Jain volumes: Rhys Davids's Buddhist Suttas (1881) and Questions of King Milinda (1890-94), Rhys Davids and Oldenberg's Vinaya Texts (3 vols, 1881-85), Beal's Fo-sho-hing-tsan-king (1883), Kern's Lotus Sutra (1884), Jacobi's Jaina Sutras (1884, 1895) and Buddhist Mahayana Texts (Cowell, Müller, Takakusu, 1894). Round 63 adds the Zoroastrian and Hindu law volumes: Darmesteter's and Mills's Zend-Avesta (3 vols, 1880-87), West's Pahlavi Texts (5 vols, 1880-97), Bühler's Sacred Laws of the Aryas (2 vols, 1879-82) and Laws of Manu (1886), Jolly's Institutes of Vishnu (1880) and Minor Law-Books (1889), Telang's Bhagavadgita (1882) and Oldenberg's Grihya-sutras (2 vols, 1886-92). Original Clarendon printings only: Motilal Banarsidass reprints of the same volumes (1960s on) were spotted by their front matter and refused. Each title gates on its own translator. US public domain. Added 2026-10-17 by lane C (rounds 62-63); Adam may veto. No uids minted.",
  "_name_words": [
   "beal",
+  "buhler",
+  "bühler",
   "cowell",
+  "darmesteter",
   "e. b. cowell",
+  "e. w. west",
+  "georg buhler",
+  "georg bühler",
   "h. kern",
   "hermann jacobi",
   "hermann oldenberg",
   "jacobi",
+  "james darmesteter",
+  "jolly",
+  "julius jolly",
+  "k. t. telang",
+  "kashinath trimbak telang",
   "kern",
+  "l. h. mills",
   "max muller",
   "max müller",
+  "mills",
   "oldenberg",
   "rhys davids",
   "samuel beal",
   "t. w. rhys davids",
-  "takakusu"
+  "takakusu",
+  "telang",
+  "west"
  ],
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
  "_surname": [
   "beal",
+  "buhler",
+  "bühler",
   "cowell",
+  "darmesteter",
   "e. b. cowell",
+  "e. w. west",
+  "georg buhler",
+  "georg bühler",
   "h. kern",
   "hermann jacobi",
   "hermann oldenberg",
   "jacobi",
+  "james darmesteter",
+  "jolly",
+  "julius jolly",
+  "k. t. telang",
+  "kashinath trimbak telang",
   "kern",
+  "l. h. mills",
   "max muller",
   "max müller",
+  "mills",
   "oldenberg",
   "rhys davids",
   "samuel beal",
   "t. w. rhys davids",
-  "takakusu"
+  "takakusu",
+  "telang",
+  "west"
  ],
  "_surname_by_slug": {
   "sbe-buddhist-suttas": [
@@ -88,6 +118,79 @@
    "max müller",
    "max muller",
    "takakusu"
+  ],
+  "sbe-zend-avesta-1": [
+   "james darmesteter",
+   "darmesteter"
+  ],
+  "sbe-pahlavi-1": [
+   "e. w. west",
+   "west"
+  ],
+  "sbe-pahlavi-2": [
+   "e. w. west",
+   "west"
+  ],
+  "sbe-zend-avesta-2": [
+   "james darmesteter",
+   "darmesteter"
+  ],
+  "sbe-pahlavi-3": [
+   "e. w. west",
+   "west"
+  ],
+  "sbe-zend-avesta-3": [
+   "l. h. mills",
+   "mills"
+  ],
+  "sbe-pahlavi-4": [
+   "e. w. west",
+   "west"
+  ],
+  "sbe-pahlavi-5": [
+   "e. w. west",
+   "west"
+  ],
+  "sbe-sacred-laws-1": [
+   "georg bühler",
+   "georg buhler",
+   "bühler",
+   "buhler"
+  ],
+  "sbe-institutes-of-vishnu": [
+   "julius jolly",
+   "jolly"
+  ],
+  "sbe-bhagavadgita": [
+   "telang",
+   "kashinath trimbak telang",
+   "k. t. telang"
+  ],
+  "sbe-sacred-laws-2": [
+   "georg bühler",
+   "georg buhler",
+   "bühler",
+   "buhler"
+  ],
+  "sbe-laws-of-manu": [
+   "georg bühler",
+   "georg buhler",
+   "bühler",
+   "buhler"
+  ],
+  "sbe-grihya-sutras-1": [
+   "hermann oldenberg",
+   "oldenberg"
+  ],
+  "sbe-grihya-sutras-2": [
+   "hermann oldenberg",
+   "oldenberg",
+   "max müller",
+   "max muller"
+  ],
+  "sbe-minor-law-books": [
+   "julius jolly",
+   "jolly"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -147,6 +250,85 @@
    "in.ernet.dli.2015.175347",
    "Sacred Books of the East vol. 49: Buddhist Mahayana Texts (Clarendon Press, 1894)",
    "2015.175347.The-Sacred-Books-Of-The-East--Vol-xlix_djvu.txt"
+  ],
+  "sbe-zend-avesta-1": [
+   "in.ernet.dli.2015.205057",
+   "Sacred Books of the East vol. 4: The Zend-Avesta, part I (the Vendidad) (Clarendon Press, 1880)",
+   "2015.205057.The-Sacred_djvu.txt"
+  ],
+  "sbe-pahlavi-1": [
+   "in.ernet.dli.2015.175343",
+   "Sacred Books of the East vol. 5: Pahlavi Texts, part I (Clarendon Press, 1880)",
+   "2015.175343.The-Sacred-Books-Of-The-East--Vol-v_djvu.txt"
+  ],
+  "sbe-pahlavi-2": [
+   "in.ernet.dli.2015.215926",
+   "Sacred Books of the East vol. 18: Pahlavi Texts, part II (Clarendon Press, 1882)",
+   "2015.215926.Sacred-Books_djvu.txt"
+  ],
+  "sbe-zend-avesta-2": [
+   "in.ernet.dli.2015.215924",
+   "Sacred Books of the East vol. 23: The Zend-Avesta, part II (Clarendon Press, 1883)",
+   "2015.215924.Sacred-Books_djvu.txt"
+  ],
+  "sbe-pahlavi-3": [
+   "in.ernet.dli.2015.215927",
+   "Sacred Books of the East vol. 24: Pahlavi Texts, part III (Clarendon Press, 1885)",
+   "2015.215927.Sacred-Books_djvu.txt"
+  ],
+  "sbe-zend-avesta-3": [
+   "in.ernet.dli.2015.152855",
+   "Sacred Books of the East vol. 31: The Zend-Avesta, part III (Clarendon Press, 1887)",
+   "2015.152855.The-Sacred-Books-Of-The-East-the-Zind-Avesta-Vol-xxxi_djvu.txt"
+  ],
+  "sbe-pahlavi-4": [
+   "in.ernet.dli.2015.88823",
+   "Sacred Books of the East vol. 37: Pahlavi Texts, part IV (Clarendon Press, 1892)",
+   "2015.88823.The-Sacred-Books-Of-The-East-Vol-Xxxvii-Part-Iv_djvu.txt"
+  ],
+  "sbe-pahlavi-5": [
+   "in.ernet.dli.2015.220646",
+   "Sacred Books of the East vol. 47: Pahlavi Texts, part V (Clarendon Press, 1897)",
+   "2015.220646.Sacred-Books_djvu.txt"
+  ],
+  "sbe-sacred-laws-1": [
+   "in.ernet.dli.2015.283698",
+   "Sacred Books of the East vol. 2: The Sacred Laws of the Aryas, part I (Clarendon Press, 1879)",
+   "2015.283698.The-Sacred_djvu.txt"
+  ],
+  "sbe-institutes-of-vishnu": [
+   "india.history.resource.85789",
+   "Sacred Books of the East vol. 7: The Institutes of Vishnu (Clarendon Press, 1880)",
+   "85789_djvu.txt"
+  ],
+  "sbe-bhagavadgita": [
+   "sacredbooksofthe015782mbp",
+   "Sacred Books of the East vol. 8: The Bhagavadgita with the Sanatsugatiya and the Anugita (Clarendon Press, 1882)"
+  ],
+  "sbe-sacred-laws-2": [
+   "in.ernet.dli.2015.189031",
+   "Sacred Books of the East vol. 14: The Sacred Laws of the Aryas, part II (Clarendon Press, 1882)",
+   "2015.189031.The-Sacred-Books-Of-The-East-Vol-Xiv_djvu.txt"
+  ],
+  "sbe-laws-of-manu": [
+   "dli.ernet.237984",
+   "Sacred Books of the East vol. 25: The Laws of Manu (Clarendon Press, 1886)",
+   "237984-The Sacred Books Of The East Vol-xxv (1886)_djvu.txt"
+  ],
+  "sbe-grihya-sutras-1": [
+   "in.ernet.dli.2015.215928",
+   "Sacred Books of the East vol. 29: The Grihya-sutras, part I (Clarendon Press, 1886)",
+   "2015.215928.Sacred-Books_djvu.txt"
+  ],
+  "sbe-grihya-sutras-2": [
+   "in.ernet.dli.2015.189030",
+   "Sacred Books of the East vol. 30: The Grihya-sutras, part II (Clarendon Press, 1892)",
+   "2015.189030.The-Sacred-Books-Of-The-East--vol-xxx_djvu.txt"
+  ],
+  "sbe-minor-law-books": [
+   "in.ernet.dli.2015.283710",
+   "Sacred Books of the East vol. 33: The Minor Law-Books, part I (Clarendon Press, 1889)",
+   "2015.283710.The-Sacred_djvu.txt"
   ]
  },
  "titles": {
@@ -239,11 +421,140 @@
    "translator": "E. B. Cowell, F. Max Müller and J. Takakusu",
    "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 49, 1894; Digital Library of India scan of the original printing",
    "note": "Three translators in one volume: Cowell's Buddha-karita of Asvaghosha (part I), Müller's Sukhavati, Vajracchedika and Prajnaparamita sutras, and Takakusu's Amitayur-dhyana sutra (part II)."
+  },
+  "sacred-books-of-the-east-zend-avesta-1": {
+   "source": "sbe-zend-avesta-1",
+   "of": "The Avesta",
+   "work": "The Zend-Avesta, part I (the Vendidad)",
+   "translated": 1880,
+   "translator": "James Darmesteter",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 4, 1880; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-pahlavi-1": {
+   "source": "sbe-pahlavi-1",
+   "of": "Zoroastrian Pahlavi literature",
+   "work": "Pahlavi Texts, part I",
+   "translated": 1880,
+   "translator": "E. W. West",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 5, 1880; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-pahlavi-2": {
+   "source": "sbe-pahlavi-2",
+   "of": "Zoroastrian Pahlavi literature",
+   "work": "Pahlavi Texts, part II",
+   "translated": 1882,
+   "translator": "E. W. West",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 18, 1882; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-zend-avesta-2": {
+   "source": "sbe-zend-avesta-2",
+   "of": "The Avesta",
+   "work": "The Zend-Avesta, part II",
+   "translated": 1883,
+   "translator": "James Darmesteter",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 23, 1883; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-pahlavi-3": {
+   "source": "sbe-pahlavi-3",
+   "of": "Zoroastrian Pahlavi literature",
+   "work": "Pahlavi Texts, part III",
+   "translated": 1885,
+   "translator": "E. W. West",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 24, 1885; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-zend-avesta-3": {
+   "source": "sbe-zend-avesta-3",
+   "of": "The Avesta",
+   "work": "The Zend-Avesta, part III",
+   "translated": 1887,
+   "translator": "L. H. Mills",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 31, 1887; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-pahlavi-4": {
+   "source": "sbe-pahlavi-4",
+   "of": "Zoroastrian Pahlavi literature",
+   "work": "Pahlavi Texts, part IV",
+   "translated": 1892,
+   "translator": "E. W. West",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 37, 1892; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-pahlavi-5": {
+   "source": "sbe-pahlavi-5",
+   "of": "Zoroastrian Pahlavi literature",
+   "work": "Pahlavi Texts, part V",
+   "translated": 1897,
+   "translator": "E. W. West",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 47, 1897; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-sacred-laws-1": {
+   "source": "sbe-sacred-laws-1",
+   "of": "The Dharmasutras of Apastamba and Gautama",
+   "work": "The Sacred Laws of the Aryas, part I",
+   "translated": 1879,
+   "translator": "Georg Bühler",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 2, 1879; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-institutes-of-vishnu": {
+   "source": "sbe-institutes-of-vishnu",
+   "of": "The Vishnu Smriti",
+   "work": "The Institutes of Vishnu",
+   "translated": 1880,
+   "translator": "Julius Jolly",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 7, 1880; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-bhagavadgita": {
+   "source": "sbe-bhagavadgita",
+   "of": "The Bhagavadgita, Sanatsugatiya and Anugita",
+   "work": "The Bhagavadgita with the Sanatsugatiya and the Anugita",
+   "translated": 1882,
+   "translator": "Kashinath Trimbak Telang",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 8, 1882; Million Books Project scan of the original printing",
+   "note": "Edwin Arnold's verse Gita and Ryder's are on their own shelves: different translations."
+  },
+  "sacred-books-of-the-east-sacred-laws-2": {
+   "source": "sbe-sacred-laws-2",
+   "of": "The Dharmasutras of Vasishtha and Baudhayana",
+   "work": "The Sacred Laws of the Aryas, part II",
+   "translated": 1882,
+   "translator": "Georg Bühler",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 14, 1882; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-laws-of-manu": {
+   "source": "sbe-laws-of-manu",
+   "of": "The Manusmriti",
+   "work": "The Laws of Manu",
+   "translated": 1886,
+   "translator": "Georg Bühler",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 25, 1886; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-grihya-sutras-1": {
+   "source": "sbe-grihya-sutras-1",
+   "of": "The Grihyasutras",
+   "work": "The Grihya-sutras, part I",
+   "translated": 1886,
+   "translator": "Hermann Oldenberg",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 29, 1886; Digital Library of India scan of the original printing"
+  },
+  "sacred-books-of-the-east-grihya-sutras-2": {
+   "source": "sbe-grihya-sutras-2",
+   "of": "The Grihyasutras and the Yajna-paribhasha-sutras",
+   "work": "The Grihya-sutras, part II",
+   "translated": 1892,
+   "translator": "Hermann Oldenberg and F. Max Müller",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 30, 1892; Digital Library of India scan of the original printing (its title page is dated 1893)"
+  },
+  "sacred-books-of-the-east-minor-law-books": {
+   "source": "sbe-minor-law-books",
+   "of": "Narada and Brihaspati",
+   "work": "The Minor Law-Books, part I",
+   "translated": 1889,
+   "translator": "Julius Jolly",
+   "scan_edition": "Clarendon Press, Oxford, in the Sacred Books of the East (ed. F. Max Müller), vol. 33, 1889; Digital Library of India scan of the original printing"
   }
  },
  "_pending": {},
  "_excluded": {
-  "motilal-reprints": "Motilal Banarsidass reprints (Delhi, 1960s on) of the same volumes, e.g. in.ernet.dli.2015.224726 (vol. 11), 224728 (vol. 13) and 226564 (vol. 49), whose front matter says 'First published by the Oxford University Press ... Reprinted by Motilal Banarsidass': post-1930 printings, refused in favour of the Clarendon originals.",
+  "motilal-reprints": "Motilal Banarsidass reprints (Delhi, 1960s on) of the same volumes, e.g. in.ernet.dli.2015.224726 (vol. 11), 224728 (vol. 13) and 226564 (vol. 49), 273506 (vol. 37), 224722 (vol. 7), 224729 (vol. 14), whose front matter says 'First published by the Oxford University Press ... Reprinted by Motilal Banarsidass': post-1930 printings, refused in favour of the Clarendon originals.",
   "held-elsewhere": "Vols 1 and 15 (Müller's Upanishads) and vol. 10's Dhammapada are on muller; vols 6 and 9 (Palmer's Qur'an) on palmer; vols 3, 16, 27, 28, 39 and 40 (Legge) belong to the legge shelf."
  },
  "_checks": {
@@ -367,6 +678,182 @@
    "ia_date": "1894",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "sbe-zend-avesta-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james darmesteter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-pahlavi-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. w. west",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-pahlavi-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. w. west",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-zend-avesta-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james darmesteter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-pahlavi-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. w. west",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-zend-avesta-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. h. mills",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-pahlavi-4": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. w. west",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-pahlavi-5": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. w. west",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-sacred-laws-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "georg buhler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-institutes-of-vishnu": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "julius jolly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-bhagavadgita": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "telang",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-sacred-laws-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-laws-of-manu": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "georg buhler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-grihya-sutras-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hermann oldenberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-grihya-sutras-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hermann oldenberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sbe-minor-law-books": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "julius jolly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -465,7 +952,160 @@
     1894
    ],
    "post_1930_years_in_front_15k": []
+  },
+  "sbe-zend-avesta-1": {
+   "ia": "in.ernet.dli.2015.205057",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1590,
+    1700,
+    1723,
+    1880
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-pahlavi-1": {
+   "ia": "in.ernet.dli.2015.175343",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1669,
+    1867,
+    1870,
+    1878,
+    1880
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-pahlavi-2": {
+   "ia": "in.ernet.dli.2015.215926",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1882
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-zend-avesta-2": {
+   "ia": "in.ernet.dli.2015.215924",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1881,
+    1882,
+    1883
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-pahlavi-3": {
+   "ia": "in.ernet.dli.2015.215927",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1885
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-zend-avesta-3": {
+   "ia": "in.ernet.dli.2015.152855",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1884,
+    1887
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-pahlavi-4": {
+   "ia": "in.ernet.dli.2015.88823",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1892,
+    1893
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-pahlavi-5": {
+   "ia": "in.ernet.dli.2015.220646",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1897
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-sacred-laws-1": {
+   "ia": "in.ernet.dli.2015.283698",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1849,
+    1850,
+    1875,
+    1879
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-institutes-of-vishnu": {
+   "ia": "india.history.resource.85789",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1879,
+    1880
+   ],
+   "post_1930_years_in_front_15k": [
+    2018
+   ]
+  },
+  "sbe-bhagavadgita": {
+   "ia": "sacredbooksofthe015782mbp",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1868,
+    1879,
+    1882,
+    1927
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-sacred-laws-2": {
+   "ia": "in.ernet.dli.2015.189031",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1882
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-laws-of-manu": {
+   "ia": "dli.ernet.237984",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1886
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-grihya-sutras-1": {
+   "ia": "in.ernet.dli.2015.215928",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1886
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-grihya-sutras-2": {
+   "ia": "in.ernet.dli.2015.189030",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1893
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sbe-minor-law-books": {
+   "ia": "in.ernet.dli.2015.283710",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1889
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "sbe-sacred-laws-2": {
+   "author": "The title page OCR reads 'TRANSLATED BY GEORG BtiHLER' for Georg Bühler, over 'PART II VASISHTHA AND BAUDHAYANA' and the Clarendon Press 1882 imprint. Checked by eye 2026-10-17."
+  }
+ }
 }

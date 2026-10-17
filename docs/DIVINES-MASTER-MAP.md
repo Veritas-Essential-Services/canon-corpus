@@ -15736,10 +15736,10 @@ Round 60 (2026-10-17), vetoable: East Asian volumes. Round 61 (2026-10-17), veto
 | — | — | persian-mystics-davis: F. Hadland Davis's Persian Mystics: Rumi (1907) and Jami (1908) (PG 45159, 45158): anthologies of other men's translations by permission (Whinfield and Nicholson in the Rumi volume, FitzGerald and others in the Jami), not new translations. | — | — | excluded | — |
 | — | — | studies: Authored studies rather than translations: Herbert Baynes's Way of the Buddha (1906, 'the treatise'), L. D. Barnett's Brahma-Knowledge (1907, 'an outline of the philosophy of the Vedanta') and Heart of India (1908, 'sketches'), and S. A. Kapadia's Teachings of Zoroaster (1905, 'by S. A. Kapadia'). Eric Hammond's Splendour of God (1911) is a compilation of Baha'i extracts whose front matter names no translator. | — | — | excluded | — |
 
-## Series shelf: the Sacred Books of the East (Clarendon Press, 1879-1910), the volumes not already on muller, palmer or legge: Rhys Davids's Buddhist Suttas and Milinda, the Vinaya Texts, Beal, Kern's Lotus Sutra, Jacobi's Jaina Sutras, Buddhist Mahayana Texts
+## Series shelf: the Sacred Books of the East (Clarendon Press, 1879-1910), the volumes not already on muller, palmer or legge: Rhys Davids's Buddhist Suttas and Milinda, the Vinaya Texts, Beal, Kern's Lotus Sutra, Jacobi's Jaina Sutras, Buddhist Mahayana Texts, Darmesteter's and Mills's Zend-Avesta, West's Pahlavi Texts, Bühler's Sacred Laws and Manu, Jolly, Telang's Bhagavadgita, Oldenberg's Grihya-sutras
 
 Shelf: `pipeline/sacred-books-of-the-east_shelf.json` · fetch `python3 pipeline/fetch_shelf.py sacred-books-of-the-east` · titles `python3 pipeline/split_shelf_titles.py sacred-books-of-the-east`.
-Round 62 (2026-10-17), vetoable. Buddhist and Jain volumes first; the Zoroastrian, Hindu law and Vedic volumes follow. Not converted to unit-id JSON; **no uids minted**.
+Round 62 (2026-10-17), vetoable: Buddhist and Jain volumes. Round 63 (2026-10-17), vetoable: Zoroastrian and Hindu law volumes. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -15754,7 +15754,23 @@ Round 62 (2026-10-17), vetoable. Buddhist and Jain volumes first; the Zoroastria
 | `sacred-books-of-the-east-milinda-1` | The Milindapanha | The Questions of King Milinda, part I | T. W. Rhys Davids | 1890 | have-raw | IA `in.ernet.dli.2015.217506` |
 | `sacred-books-of-the-east-milinda-2` | The Milindapanha | The Questions of King Milinda, part II | T. W. Rhys Davids | 1894 | have-raw | IA `in.ernet.dli.2015.175350` |
 | `sacred-books-of-the-east-mahayana-texts` | Asvaghosa's Buddhacarita and the Sukhavati, Vajracchedika and Prajnaparamita sutras | Buddhist Mahayana Texts | E. B. Cowell, F. Max Müller and J. Takakusu | 1894 | have-raw | IA `in.ernet.dli.2015.175347` |
-| — | — | motilal-reprints: Motilal Banarsidass reprints (Delhi, 1960s on) of the same volumes, e.g. in.ernet.dli.2015.224726 (vol. 11), 224728 (vol. 13) and 226564 (vol. 49), whose front matter says 'First published by the Oxford University Press ... Reprinted by Motilal Banarsidass': post-1930 printings, refused in favour of the Clarendon originals. | — | — | excluded | — |
+| `sacred-books-of-the-east-zend-avesta-1` | The Avesta | The Zend-Avesta, part I (the Vendidad) | James Darmesteter | 1880 | have-raw | IA `in.ernet.dli.2015.205057` |
+| `sacred-books-of-the-east-pahlavi-1` | Zoroastrian Pahlavi literature | Pahlavi Texts, part I | E. W. West | 1880 | have-raw | IA `in.ernet.dli.2015.175343` |
+| `sacred-books-of-the-east-pahlavi-2` | Zoroastrian Pahlavi literature | Pahlavi Texts, part II | E. W. West | 1882 | have-raw | IA `in.ernet.dli.2015.215926` |
+| `sacred-books-of-the-east-zend-avesta-2` | The Avesta | The Zend-Avesta, part II | James Darmesteter | 1883 | have-raw | IA `in.ernet.dli.2015.215924` |
+| `sacred-books-of-the-east-pahlavi-3` | Zoroastrian Pahlavi literature | Pahlavi Texts, part III | E. W. West | 1885 | have-raw | IA `in.ernet.dli.2015.215927` |
+| `sacred-books-of-the-east-zend-avesta-3` | The Avesta | The Zend-Avesta, part III | L. H. Mills | 1887 | have-raw | IA `in.ernet.dli.2015.152855` |
+| `sacred-books-of-the-east-pahlavi-4` | Zoroastrian Pahlavi literature | Pahlavi Texts, part IV | E. W. West | 1892 | have-raw | IA `in.ernet.dli.2015.88823` |
+| `sacred-books-of-the-east-pahlavi-5` | Zoroastrian Pahlavi literature | Pahlavi Texts, part V | E. W. West | 1897 | have-raw | IA `in.ernet.dli.2015.220646` |
+| `sacred-books-of-the-east-sacred-laws-1` | The Dharmasutras of Apastamba and Gautama | The Sacred Laws of the Aryas, part I | Georg Bühler | 1879 | have-raw | IA `in.ernet.dli.2015.283698` |
+| `sacred-books-of-the-east-institutes-of-vishnu` | The Vishnu Smriti | The Institutes of Vishnu | Julius Jolly | 1880 | have-raw | IA `india.history.resource.85789` |
+| `sacred-books-of-the-east-bhagavadgita` | The Bhagavadgita, Sanatsugatiya and Anugita | The Bhagavadgita with the Sanatsugatiya and the Anugita | Kashinath Trimbak Telang | 1882 | have-raw | IA `sacredbooksofthe015782mbp` |
+| `sacred-books-of-the-east-sacred-laws-2` | The Dharmasutras of Vasishtha and Baudhayana | The Sacred Laws of the Aryas, part II | Georg Bühler | 1882 | have-raw | IA `in.ernet.dli.2015.189031` |
+| `sacred-books-of-the-east-laws-of-manu` | The Manusmriti | The Laws of Manu | Georg Bühler | 1886 | have-raw | IA `dli.ernet.237984` |
+| `sacred-books-of-the-east-grihya-sutras-1` | The Grihyasutras | The Grihya-sutras, part I | Hermann Oldenberg | 1886 | have-raw | IA `in.ernet.dli.2015.215928` |
+| `sacred-books-of-the-east-grihya-sutras-2` | The Grihyasutras and the Yajna-paribhasha-sutras | The Grihya-sutras, part II | Hermann Oldenberg and F. Max Müller | 1892 | have-raw | IA `in.ernet.dli.2015.189030` |
+| `sacred-books-of-the-east-minor-law-books` | Narada and Brihaspati | The Minor Law-Books, part I | Julius Jolly | 1889 | have-raw | IA `in.ernet.dli.2015.283710` |
+| — | — | motilal-reprints: Motilal Banarsidass reprints (Delhi, 1960s on) of the same volumes, e.g. in.ernet.dli.2015.224726 (vol. 11), 224728 (vol. 13) and 226564 (vol. 49), 273506 (vol. 37), 224722 (vol. 7), 224729 (vol. 14), whose front matter says 'First published by the Oxford University Press ... Reprinted by Motilal Banarsidass': post-1930 printings, refused in favour of the Clarendon originals. | — | — | excluded | — |
 | — | — | held-elsewhere: Vols 1 and 15 (Müller's Upanishads) and vol. 10's Dhammapada are on muller; vols 6 and 9 (Palmer's Qur'an) on palmer; vols 3, 16, 27, 28, 39 and 40 (Legge) belong to the legge shelf. | — | — | excluded | — |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
