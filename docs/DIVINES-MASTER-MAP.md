@@ -23135,6 +23135,41 @@ Shelf: `pipeline/vandercook_shelf.json` (2026-10-17; added at the coordinator's 
 | The Ranch Girls and the silver arrow | have | PG 69649, `mvandercook-ranch-girls-and-the-silver-arrow` (1325 units) |
 | The Camp Fire Girls on the edge of the desert | have | PG 72632, `mvandercook-camp-fire-girls-on-the-edge-of-the-desert` (1181 units) |
 
+## Margaret Penrose
+
+Shelf: `pipeline/margaret-penrose_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series for girls (Dorothy Dale, Motor Girls, Radio Girls); Stratemeyer Syndicate house name. Every English text under the name at Gutenberg that no other shelf holds (28 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Motor Girls on a Tour | have | PG 2789, `mpenrose-motor-girls-on-a-tour` (1633 units) |
+| The Motor Girls | have | PG 4914, `mpenrose-motor-girls` (1974 units) |
+| Dorothy Dale: A Girl of To-Day | have | PG 5629, `mpenrose-dorothy-dale` (1499 units) |
+| The Motor Girls on Cedar Lake; Or, the Hermit of Fern Island | have | PG 7081, `mpenrose-motor-girls-on-cedar-lake` (1806 units) |
+| The Motor Girls on Waters Blue; Or, the Strange Cruise of the Tartar | have | PG 7210, `mpenrose-motor-girls-on-waters-blue` (1894 units) |
+| Dorothy Dale's Queer Holidays | have | PG 15653, `mpenrose-dorothy-dales-queer-holidays` (1772 units) |
+| Dorothy Dale's Camping Days | have | PG 16091, `mpenrose-dorothy-dales-camping-days` (1655 units) |
+| The Motor Girls Through New England; or, Held by the Gypsies | have | PG 20870, `mpenrose-motor-girls-through-new-england` (1976 units) |
+| The Motor Girls on Crystal Bay; or, The Secret of the Red Oar | have | PG 25873, `mpenrose-motor-girls-on-crystal-bay` (1894 units) |
+| The campfire girls of Roselawn | have | PG 28448, `mpenrose-campfire-girls-of-roselawn` (1474 units) |
+| The Motor Girls on the Coast; or, The Waif From the Sea | have | PG 32024, `mpenrose-motor-girls-on-the-coast` (2006 units) |
+| Dorothy Dale at Glenwood School | have | PG 33530, `mpenrose-dorothy-dale-at-glenwood-school` (1497 units) |
+| The Campfire Girls on Station Island; Or, The Wireless from the Steam Yacht | have | PG 36130, `mpenrose-campfire-girls-on-station-island` (1420 units) |
+| The Motor Girls at Camp Surprise; Or, The Cave in the Mountains | have | PG 36426, `mpenrose-motor-girls-at-camp-surprise` (2151 units) |
+| The Motor Girls at Lookout Beach; Or, In Quest of the Runaways | have | PG 37911, `mpenrose-motor-girls-at-lookout-beach` (1648 units) |
+| Dorothy Dale in the City | have | PG 38555, `mpenrose-dorothy-dale-in-the-city` (1729 units) |
+| The Motor Girls in the Mountains; or, The Gypsy Girl's Secret | have | PG 39063, `mpenrose-motor-girls-in-the-mountains` (1849 units) |
+| Dorothy Dale's Great Secret | have | PG 41558, `mpenrose-dorothy-dales-great-secret` (1355 units) |
+| Dorothy Dale's Promise | have | PG 54021, `mpenrose-dorothy-dales-promise` (1989 units) |
+| Dorothy Dale in the West | have | PG 54022, `mpenrose-dorothy-dale-in-the-west` (2128 units) |
+| Dorothy Dale and Her Chums | have | PG 54147, `mpenrose-dorothy-dale-and-her-chums` (1705 units) |
+| Dorothy Dale's School Rivals | have | PG 54649, `mpenrose-dorothy-dales-school-rivals` (2081 units) |
+| The Radio Girls at Forest Lodge; or, The Strange Hut in the Swamp | have | PG 61592, `mpenrose-radio-girls-at-forest-lodge` (1418 units) |
+| The Radio Girls on Station Island: The wireless from the steam yacht | have | PG 69317, `mpenrose-radio-girls-on-station-island` (1603 units) |
+| The Radio Girls on the program | have | PG 70429, `mpenrose-radio-girls-on-the-program` (1619 units) |
+| The radio girls of Roselawn | have | PG 71771, `mpenrose-radio-girls-of-roselawn` (1650 units) |
+| Dorothy Dale's engagement | have | PG 72040, `mpenrose-dorothy-dales-engagement` (1901 units) |
+| Dorothy Dale to the rescue | have | PG 72644, `mpenrose-dorothy-dale-to-the-rescue` (1850 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

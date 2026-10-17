@@ -1197,3 +1197,6 @@
 
 ## 2026-10-17 18:32 CDT — vandercook: done
 - vandercook: new shelf, 30 Gutenberg books, 28,133 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:32 CDT — margaret-penrose: done
+- margaret-penrose: new shelf, 28 Gutenberg books, 49,176 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags.
