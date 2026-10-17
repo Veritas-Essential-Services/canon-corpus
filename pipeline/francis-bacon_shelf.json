@@ -1,0 +1,59 @@
+{
+ "_about": "Francis Bacon (1561-1626), clean Gutenberg: the Essays or Counsels, Civil and Moral, New Atlantis, and Valerius Terminus (with R. L. Ellis's preface from the Spedding edition). Named francis-bacon to keep him apart from Roger Bacon. The Advancement of Learning (PG 5500) and Novum Organum (PG 45988) are on the Adler shelf and are not taken again. No uids minted.",
+ "_author": "Francis Bacon",
+ "_name_words": [
+  "francis",
+  "bacon",
+  "verulam"
+ ],
+ "_surname": [
+  "francis bacon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bacon-essays": [
+   575,
+   "The Essays or Counsels, Civil and Moral"
+  ],
+  "bacon-new-atlantis": [
+   2434,
+   "New Atlantis"
+  ],
+  "bacon-valerius-terminus": [
+   3290,
+   "Valerius Terminus: of the Interpretation of Nature, with a preface by Robert Leslie Ellis"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {},
+ "_checks": {
+  "bacon-essays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bacon-new-atlantis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bacon-valerius-terminus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

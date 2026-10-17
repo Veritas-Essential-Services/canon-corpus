@@ -3596,6 +3596,9 @@ Shelf: `pipeline/francis-bacon_shelf.json`. Francis Bacon (1561-1626), clean Gut
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Essays or Counsels, Civil and Moral |  | `bacon-essays` | have (PG 575) |
+| New Atlantis |  | `bacon-new-atlantis` | have (PG 2434) |
+| Valerius Terminus: of the Interpretation of Nature, with a preface by Robert Leslie Ellis |  | `bacon-valerius-terminus` | have (PG 3290) |
 
 Pending (wishlist): the Wisdom of the Ancients in a standalone text; Spedding, Ellis and Heath's Works (1857-1874).
 
