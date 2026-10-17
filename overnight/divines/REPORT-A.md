@@ -1084,3 +1084,6 @@
 
 ## 2026-10-17 17:35 CDT — julian-of-norwich done
 - `pipeline/julian-of-norwich_shelf.json`: 0 CCEL, 1 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:35 CDT — cloud-of-unknowing done
+- `pipeline/cloud-of-unknowing_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.

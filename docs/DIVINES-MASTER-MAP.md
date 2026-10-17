@@ -4997,6 +4997,18 @@ Slugs `julian-*`. Cressy's text (1843 reprint), Warrack (1901), Tyrrell's prefac
 | Revelations of Divine Love, newly edited by Dom Roger Hudleston, Orchard Books (London: Burns Oates, 1927) | have-ocr | IA `revelationsofdiv0000domr_y8t1` |
 | Other 1843 copies, the Boston 1864 edition (no editor named), later Warrack editions (1907-1917) and Tyrrell's second impression (1920); CCEL julian/revelations (Warrack, 1901) and julian/comfort | alternate | not shelved |
 | Hudleston's second edition (1952) and a modern facsimile | excluded | |
+
+## The Cloud of Unknowing (round 24, my pick, 2026-10-17)
+
+Slugs `cloud-*`. Anonymous work: the identity check is the title. Editors: Henry Collins (1871), Evelyn Underhill (1912), Justin McCann (1924).
+
+| Work | Status | Where |
+|---|---|---|
+| The Divine Cloud, with notes by Augustin Baker, ed. Henry Collins (London: Thomas Richardson, 1871) | have-ocr | IA `TheDivineCloud` |
+| A Book of Contemplation the which is called The Cloud of Unknowing, ed. Evelyn Underhill (London: John M. Watkins, 1912) | have-ocr | IA `abookofcontemplationunderhill` |
+| The Cloud of Unknowing and Other Treatises, with Baker's commentary, ed. Justin McCann, Orchard Books (London: Burns Oates, 1924) | have-ocr | IA `thecloudofunknowingbamccann` |
+| Other 1871 copies; Underhill's second edition (1922; also CCEL anonymous2/cloud); McCann, Benziger issue (1924) | alternate | not shelved |
+| uploads with impossible or modern dates (the-cloud-of-unknowing-3, TheCloudOfUnknowing_201808, cloudofunknowing0000unse_j3a7) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
