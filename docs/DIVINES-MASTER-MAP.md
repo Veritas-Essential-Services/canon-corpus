@@ -8508,11 +8508,12 @@ Pending (wishlist): Haldane and Ross vol. II (Cambridge, 1912) in a pre-1931 pri
 
 ## Rousseau in English
 
-Shelf: `pipeline/rousseau_shelf.json`. Jean-Jacques Rousseau (1712-1778): the Confessions, complete in twelve books, from Gutenberg (privately printed for the members of the Aldus Society, London, 1903; translator not named in the book). The Social Contract and Discourses (Cole, PG 46333) are on the Adler shelf, Emile on rousseau-emile, and Eloisa on singles-fiction-3; none is taken again. No uids minted.
+Shelf: `pipeline/rousseau_shelf.json`. The Confessions (1903) and the Discourse on Inequality (PG 11136).
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Confessions of Jean Jacques Rousseau, complete (London: Aldus Society, 1903) | unnamed in the book | `rousseau-confessions-1903` | have (PG 3913) |
+| A Discourse upon the Origin and the Foundation of the Inequality among Mankind (the etext names no printing; its introductory note matches the Harvard Classics, inferred) |  | `rousseau-discourse-on-inequality` | have (PG 11136) |
 
 ## Locke
 
@@ -8881,6 +8882,40 @@ Shelf: `pipeline/schiller-essays_shelf.json`. Aesthetical and Philosophical Essa
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Aesthetical and Philosophical Essays, library edition (New York: Publishers Plate Renting Co., 1899) |  | `schiller-aesthetical-philosophical-essays-1899` | have (PG 70669) |
+
+## Pascal in English
+
+Shelf: `pipeline/blaise-pascal_shelf.json`. M'Crie's Provincial Letters (1856); the Pensées are on the Adler shelf.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Provincial Letters (New York: Robert Carter and Brothers, 1856) | Thomas M'Crie | `pascal-mcrie-provincial-letters-1856` | have (PG 73959) |
+
+## Marx and Engels in English
+
+Shelf: `pipeline/marx-engels_shelf.json`. Kerr's Chicago translations and Eleanor Marx Aveling's editions; the Manifesto and Capital are on the Adler shelf.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Feuerbach: the roots of the socialist philosophy (Chicago: Charles H. Kerr, 1903) | Austin Lewis | `engels-lewis-feuerbach-1903` | have (PG 27814) |
+| Landmarks of Scientific Socialism: "Anti-Duehring" (Chicago: Charles H. Kerr, 1907) | Austin Lewis | `engels-lewis-anti-duehring-1907` | have (PG 31933) |
+| Revolution and Counter-Revolution, or Germany in 1848, ed. Eleanor Marx Aveling (Chicago: Charles H. Kerr, 1912) |  | `marx-revolution-and-counter-revolution-1912` | have (PG 32966) |
+| Secret Diplomatic History of the Eighteenth Century, ed. Eleanor Marx Aveling (London: Swan Sonnenschein, 1899) |  | `marx-secret-diplomatic-history-1899` | have (PG 32370) |
+
+## William James
+
+Shelf: `pipeline/william-james-works_shelf.json`. Eight works beside the reading-lists william-james shelf (Varieties, Pragmatism).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Psychology: Briefer Course (London: Macmillan, 1892) |  | `james-psychology-briefer-course-1892` | have (PG 55262) |
+| The Principles of Psychology, vol. II (New York: Henry Holt, 1918) |  | `james-principles-of-psychology-v2-1918` | have (PG 57634) |
+| The Will to Believe, and Other Essays in Popular Philosophy, new impression (New York: Longmans, Green, 1912; first ed. 1897) |  | `james-will-to-believe-1912` | have (PG 26659) |
+| Talks to Teachers on Psychology, and to Students on Some of Life's Ideals (New York: Henry Holt, 1925; copyright 1899) |  | `james-talks-to-teachers-1925` | have (PG 16287) |
+| The Meaning of Truth: a sequel to 'Pragmatism' (1909; preface dated August 1909) |  | `james-meaning-of-truth-1909` | have (PG 5117) |
+| A Pluralistic Universe: Hibbert Lectures on the present situation in philosophy (1909) |  | `james-pluralistic-universe-1909` | have (PG 11984) |
+| Memories and Studies (New York: Longmans, Green, 1911) |  | `james-memories-and-studies-1911` | have (PG 20768) |
+| Essays in Radical Empiricism, ed. Ralph Barton Perry (New York: Longmans, Green, 1912) |  | `james-radical-empiricism-1912` | have (PG 32547) |
 
 ## Perseus census (overflow)
 
