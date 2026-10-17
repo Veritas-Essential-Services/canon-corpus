@@ -1,0 +1,33 @@
+{
+ "_about": "Friedrich von Gentz, The Origin and Principles of the American Revolution, Compared with the Origin and Principles of the French Revolution (Philadelphia, 1800), translated by John Quincy Adams (published anonymously). Internet Archive scan; raw OCR. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Friedrich von Gentz",
+ "_name_words": [
+  "gentz",
+  "friedrich"
+ ],
+ "_surname": [
+  "gentz"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gentz-origin-principles-1800": [
+   "originandprinci00conggoog",
+   "The Origin and Principles of the American Revolution, compared with the French Revolution (1800)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "gentz-origin-principles-1800": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gentz",
+   "identity": "ok",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

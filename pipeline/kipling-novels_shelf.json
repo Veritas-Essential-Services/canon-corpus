@@ -1,0 +1,59 @@
+{
+ "_about": "Kipling's (1865-1936) Kim, The Man Who Would Be King and Stalky & Co. The children's books are Lane D's kipling shelf. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Rudyard Kipling",
+ "_name_words": [
+  "rudyard",
+  "kipling"
+ ],
+ "_surname": [
+  "rudyard kipling"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "kipling-kim": [
+   2226,
+   "Kim (1901)"
+  ],
+  "kipling-man-who-would-be-king": [
+   8147,
+   "The Man Who Would Be King (1888)"
+  ],
+  "kipling-stalky": [
+   3006,
+   "Stalky & Co. (1899)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "kipling-children": "HELD elsewhere: Lane D's kipling shelf (Jungle Books, Just So, Puck, Rewards and Fairies)"
+ },
+ "_checks": {
+  "kipling-kim": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rudyard kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kipling-man-who-would-be-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rudyard kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kipling-stalky": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rudyard kipling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

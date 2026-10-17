@@ -1,0 +1,31 @@
+{
+ "_about": "Helen Keller, The Story of My Life (1903). Added from the classical reading lists (Classical Conversations' 117 must-read list): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Helen Keller",
+ "_name_words": [
+  "helen",
+  "keller"
+ ],
+ "_surname": [
+  "helen keller"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "keller-story-of-my-life": [
+   2397,
+   "The Story of My Life (1903)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "keller-story-of-my-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "helen keller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

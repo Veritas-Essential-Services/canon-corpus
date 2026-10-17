@@ -1,0 +1,32 @@
+{
+ "_about": "Poems Every Child Should Know, ed. Mary E. Burt (1904). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Mary E. Burt (ed.)",
+ "_name_words": [
+  "mary",
+  "burt"
+ ],
+ "_surname": [
+  "mary e. burt",
+  "burt"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "burt-poems-every-child": [
+   16436,
+   "Poems Every Child Should Know, ed. Mary E. Burt (1904)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "burt-poems-every-child": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary e. burt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

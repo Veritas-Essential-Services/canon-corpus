@@ -1,0 +1,39 @@
+{
+ "_about": "Chrétien de Troyes's (12th c.) Arthurian romances, tr. W. W. Comfort (1914): Erec et Enide, Cligés, Yvain, Lancelot. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Chrétien de Troyes",
+ "_name_words": [
+  "chretien",
+  "chrétien",
+  "troyes"
+ ],
+ "_surname": [
+  "chretien",
+  "chrétien"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "chretien-arthurian-romances-comfort": [
+   831,
+   "Four Arthurian Romances, tr. W. W. Comfort (1914)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "chretien-arthurian-romances-comfort": "Comfort"
+ },
+ "_checks": {
+  "chretien-arthurian-romances-comfort": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "chrétien",
+   "translator_claimed": "Comfort",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Wistar Comfort",
+   "translator_match": true
+  }
+ }
+}

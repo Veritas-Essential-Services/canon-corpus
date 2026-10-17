@@ -1,0 +1,31 @@
+{
+ "_about": "Baroness Orczy's (1865-1947) The Scarlet Pimpernel. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Baroness Orczy",
+ "_name_words": [
+  "baroness",
+  "orczy"
+ ],
+ "_surname": [
+  "orczy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "orczy-scarlet-pimpernel": [
+   60,
+   "The Scarlet Pimpernel (1905)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "orczy-scarlet-pimpernel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "orczy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

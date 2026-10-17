@@ -1,0 +1,36 @@
+{
+ "_about": "Wanda Gág, Millions of Cats (New York: Coward-McCann, 1928), the Library of Congress copy. US public domain since 2024; Gág died 1946, so UK copyright ended 2016. A picture book: the hand-lettered text is short and the drawings are the work, so the text here is only a pointer to the scan. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Wanda Gág",
+ "_name_words": [
+  "wanda",
+  "gag",
+  "gág"
+ ],
+ "_surname": [
+  "wanda gág",
+  "wanda gag"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gag-millions-of-cats-1928": [
+   "millions-of-cats_202401",
+   "Millions of Cats (1928)",
+   "MillionsofCatsLC_djvu.txt"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "gag-millions-of-cats-1928": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wanda gag",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "_about": "Dorothy Mills's histories for young readers (Putnam): The Book of the Ancient World (1923), The Book of the Ancient Greeks (1925), The Book of the Ancient Romans (1927). US public domain as published before 1931; Mills died 1959, so UK copyright runs to 2029. IA scans, raw OCR. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Dorothy Mills",
+ "_name_words": [
+  "dorothy",
+  "mills"
+ ],
+ "_surname": [
+  "dorothy mills"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mills-ancient-world-1923": [
+   "bookofancientwor0000doro",
+   "The Book of the Ancient World (1923)"
+  ],
+  "mills-ancient-greeks-1925": [
+   "bookofancientgre0000doro_h8s6",
+   "The Book of the Ancient Greeks (1925)"
+  ],
+  "mills-ancient-romans-1927": [
+   "bookofancientrom0000unse_m2g7",
+   "The Book of the Ancient Romans (1927)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "mills-ancient-world-1923": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dorothy mills",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mills-ancient-greeks-1925": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dorothy mills",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mills-ancient-romans-1927": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dorothy mills",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

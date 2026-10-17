@@ -1,0 +1,126 @@
+{
+ "_about": "Arthur Conan Doyle's (1859-1930) Sherlock Holmes books before 1927, The Lost World, and The White Company. The Case-Book (1927) is left for a later check of its US status. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Arthur Conan Doyle",
+ "_name_words": [
+  "arthur",
+  "conan",
+  "doyle"
+ ],
+ "_surname": [
+  "arthur conan doyle",
+  "conan doyle"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "conan-doyle-study-in-scarlet": [
+   244,
+   "A Study in Scarlet (1887)"
+  ],
+  "conan-doyle-sign-of-the-four": [
+   2097,
+   "The Sign of the Four (1890)"
+  ],
+  "conan-doyle-adventures": [
+   1661,
+   "The Adventures of Sherlock Holmes (1892)"
+  ],
+  "conan-doyle-memoirs": [
+   834,
+   "The Memoirs of Sherlock Holmes (1894)"
+  ],
+  "conan-doyle-hound": [
+   2852,
+   "The Hound of the Baskervilles (1902)"
+  ],
+  "conan-doyle-return": [
+   108,
+   "The Return of Sherlock Holmes (1905)"
+  ],
+  "conan-doyle-lost-world": [
+   139,
+   "The Lost World (1912)"
+  ],
+  "conan-doyle-white-company": [
+   903,
+   "The White Company (1891)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "conan-doyle-case-book": "The Case-Book of Sherlock Holmes (1927; PG 69700): stories first collected 1927, US PD from 2023 for the earliest; held back pending a per-story date check"
+ },
+ "_checks": {
+  "conan-doyle-study-in-scarlet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur conan doyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "conan-doyle-sign-of-the-four": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur conan doyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "conan-doyle-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur conan doyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "conan-doyle-memoirs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur conan doyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "conan-doyle-hound": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur conan doyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "conan-doyle-return": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur conan doyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "conan-doyle-lost-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur conan doyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "conan-doyle-white-company": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur conan doyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

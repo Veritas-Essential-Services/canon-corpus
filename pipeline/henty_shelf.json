@@ -1,0 +1,128 @@
+{
+ "_about": "G. A. Henty's (1832-1902) historical novels named on the Canon Press, Logos School and Logos Online lists. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "G. A. Henty",
+ "_name_words": [
+  "g",
+  "a",
+  "henty",
+  "george",
+  "alfred"
+ ],
+ "_surname": [
+  "henty"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "henty-cat-of-bubastes": [
+   29756,
+   "The Cat of Bubastes (1889)"
+  ],
+  "henty-dragon-and-the-raven": [
+   3674,
+   "The Dragon and the Raven (1886)"
+  ],
+  "henty-winning-his-spurs": [
+   12308,
+   "Winning His Spurs (1882)"
+  ],
+  "henty-by-right-of-conquest": [
+   19398,
+   "By Right of Conquest (1891)"
+  ],
+  "henty-in-the-reign-of-terror": [
+   3785,
+   "In the Reign of Terror (1888)"
+  ],
+  "henty-with-lee-in-virginia": [
+   2805,
+   "With Lee in Virginia (1890)"
+  ],
+  "henty-in-the-heart-of-the-rockies": [
+   8670,
+   "In the Heart of the Rockies (1894)"
+  ],
+  "henty-redskin-and-cow-boy": [
+   45617,
+   "Redskin and Cow-Boy (1892)",
+   {
+    "chapre_only": "^CHAPTER [IVXLC]+\\.?\\s*$"
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "henty-cat-of-bubastes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-dragon-and-the-raven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-winning-his-spurs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-by-right-of-conquest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-in-the-reign-of-terror": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-with-lee-in-virginia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-in-the-heart-of-the-rockies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "henty-redskin-and-cow-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

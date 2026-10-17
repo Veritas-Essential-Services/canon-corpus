@@ -1,0 +1,33 @@
+{
+ "_about": "Galileo, Dialogues concerning Two New Sciences (1638), tr. Henry Crew and Alfonso de Salvio (Macmillan, 1914). Internet Archive (Cornell) scan; raw OCR. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Galileo Galilei",
+ "_name_words": [
+  "galileo",
+  "galilei"
+ ],
+ "_surname": [
+  "galileo"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "galileo-two-new-sciences-1914": [
+   "cu31924012322701",
+   "Dialogues concerning Two New Sciences, tr. Crew and de Salvio (1914)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "galileo-two-new-sciences-1914": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "galileo",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "_about": "William James: The Varieties of Religious Experience (1902) and Pragmatism (1907). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "William James",
+ "_name_words": [
+  "william",
+  "james"
+ ],
+ "_surname": [
+  "william james"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "william-james-varieties": [
+   621,
+   "The Varieties of Religious Experience (1902)"
+  ],
+  "william-james-pragmatism": [
+   5116,
+   "Pragmatism: A New Name for Some Old Ways of Thinking (1907)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "william-james-varieties": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "william-james-pragmatism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

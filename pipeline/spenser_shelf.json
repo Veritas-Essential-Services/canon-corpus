@@ -1,0 +1,54 @@
+{
+ "_about": "Spenser's (c.1552-1599) The Faerie Queene, J. C. Smith's Oxford text (1909), two volumes on Gutenberg. PG 6930 (another FQ edition) carries the COPYRIGHTED marker and is excluded; PG 15272 is Book I only. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Edmund Spenser",
+ "_name_words": [
+  "edmund",
+  "spenser"
+ ],
+ "_surname": [
+  "edmund spenser",
+  "spenser"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "spenser-faerie-queene-smith-1": [
+   70717,
+   "Spenser's Faerie Queene, ed. J. C. Smith (1909), vol. 1: Books I-III",
+   {
+    "chapre_only": "^(_Cant\\. [IVXL]+\\._|\\s*THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH|SEVENTH)\\s*$|\\s*TWO CANTOS)"
+   }
+  ],
+  "spenser-faerie-queene-smith-2": [
+   72698,
+   "Spenser's Faerie Queene, ed. J. C. Smith (1909), vol. 2: Books IV-VII",
+   {
+    "chapre_only": "^(_Cant\\. [IVXL]+\\._|\\s*THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH|SEVENTH)\\s*$|\\s*TWO CANTOS)"
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "spenser-faerie-queene-6930": "COPYRIGHTED Project Gutenberg eBook (rights gate)",
+  "spenser-faerie-queene-book1-15272": "Book I only (Wauchope school ed.); covered by the Smith text"
+ },
+ "_checks": {
+  "spenser-faerie-queene-smith-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edmund spenser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spenser-faerie-queene-smith-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edmund spenser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

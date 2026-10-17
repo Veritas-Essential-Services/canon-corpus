@@ -1,0 +1,143 @@
+{
+ "_about": "The Romantic poets the lists assign, beside the coleridge and southey shelves already held: Wordsworth and Coleridge's Lyrical Ballads (1798), Keats's Poems (1817) and the 1820 volume, Endymion, Shelley's Complete Poetical Works (Hutchinson), Byron's Childe Harold and Don Juan. Several authors: each item names its own. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Wordsworth, Keats, Shelley, Byron",
+ "_name_words": [
+  "william",
+  "wordsworth",
+  "john",
+  "keats",
+  "percy",
+  "bysshe",
+  "shelley",
+  "byron",
+  "lord",
+  "george",
+  "gordon"
+ ],
+ "_surname": [
+  "wordsworth"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wordsworth-lyrical-ballads-1798": [
+   9622,
+   "Lyrical Ballads, with a Few Other Poems (1798)"
+  ],
+  "keats-poems-1817": [
+   8209,
+   "Poems (1817)"
+  ],
+  "keats-endymion": [
+   24280,
+   "Endymion: A Poetic Romance (1818)"
+  ],
+  "keats-poems-1820": [
+   23684,
+   "Poems Published in 1820, ed. M. Robertson"
+  ],
+  "shelley-complete-poetical-works": [
+   4800,
+   "The Complete Poetical Works of Percy Bysshe Shelley, ed. Hutchinson"
+  ],
+  "byron-childe-harold": [
+   5131,
+   "Childe Harold's Pilgrimage"
+  ],
+  "byron-don-juan": [
+   21700,
+   "Don Juan"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_surname_by_slug": {
+  "keats-poems-1817": [
+   "john keats",
+   "keats"
+  ],
+  "keats-endymion": [
+   "john keats",
+   "keats"
+  ],
+  "keats-poems-1820": [
+   "john keats",
+   "keats"
+  ],
+  "shelley-complete-poetical-works": [
+   "percy bysshe shelley"
+  ],
+  "byron-childe-harold": [
+   "lord byron",
+   "byron"
+  ],
+  "byron-don-juan": [
+   "lord byron",
+   "byron"
+  ]
+ },
+ "_checks": {
+  "wordsworth-lyrical-ballads-1798": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wordsworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "keats-poems-1817": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john keats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "keats-endymion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john keats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "keats-poems-1820": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john keats",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shelley-complete-poetical-works": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "percy bysshe shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "byron-childe-harold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lord byron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "byron-don-juan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lord byron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

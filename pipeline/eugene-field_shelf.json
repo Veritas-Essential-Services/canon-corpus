@@ -1,0 +1,31 @@
+{
+ "_about": "Eugene Field, Poems of Childhood (1904). Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Eugene Field",
+ "_name_words": [
+  "eugene",
+  "field"
+ ],
+ "_surname": [
+  "eugene field"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "field-poems-of-childhood": [
+   75578,
+   "Poems of Childhood (1904)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "field-poems-of-childhood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eugene field",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

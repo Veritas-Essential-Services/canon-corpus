@@ -1,0 +1,31 @@
+{
+ "_about": "Ernest Hemingway, The Sun Also Rises (1926). US public domain since 2022; Hemingway died 1961, so UK copyright runs to 2031. Added from the classical reading lists (Classical Conversations, Canon Press, New Saint Andrews, Logos School/Online, Bethlehem College & Seminary, Memoria Press, CiRCE): docs/reading-lists/READING-LISTS.tsv.",
+ "_author": "Ernest Hemingway",
+ "_name_words": [
+  "ernest",
+  "hemingway"
+ ],
+ "_surname": [
+  "hemingway"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hemingway-sun-also-rises": [
+   67138,
+   "The Sun Also Rises (1926)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "hemingway-sun-also-rises": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hemingway",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
