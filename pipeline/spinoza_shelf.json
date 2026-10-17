@@ -1,0 +1,38 @@
+{
+ "_about": "Benedict de Spinoza (1632-1677) in English, translator per row, raw IA OCR. Elwes's translations are lane C's (elwes shelf: the Theologico-Political Treatise and the Improvement of the Understanding) and his Ethics is on the Adler shelf (PG 3800); none is taken again here, nor the Bohn Chief Works. Here: William Hale White's Ethic (Trübner, 1883), Robert Willis's Tractatus Theologico-Politicus (Trübner, 1862) and Benedict de Spinoza: his life, correspondence, and Ethics (Trübner, 1870), William Maccall's Treatise on Politics (Holyoake, 1854), George Stuart Fullerton's Philosophy of Spinoza (Ethics I, II, V and extracts from III-IV; Holt, 2nd ed., 1894), Halbert Hains Britan's Principles of Descartes' Philosophy (Open Court, 1905), and A. Wolf's Short Treatise on God, Man and his Well-Being (A. and C. Black, 1910). All US public domain (published before 1930). Not taken: Hale White's Tractatus de Intellectus Emendatione (Fisher Unwin; the scan prints no year), and the 1888 Van Nostrand Ethics (no translator named in the book). No uids minted.",
+ "_author": "Benedict de Spinoza",
+ "_name_words": [
+  "benedict",
+  "benedictus",
+  "baruch",
+  "de",
+  "spinoza"
+ ],
+ "_surname": [
+  "spinoza"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "spinoza-hale-white-ethic-1883": [
+   "ethicdemonstrate00spinuoft",
+   "Ethic, demonstrated in geometrical order and divided into five parts (London: Trübner, 1883)",
+   "tr. William Hale White"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {},
+ "_checks": {
+  "spinoza-hale-white-ethic-1883": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spinoza",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
