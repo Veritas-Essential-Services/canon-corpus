@@ -1,5 +1,5 @@
 {
- "_about": "Andrew Seth, later Pringle-Pattison (1856-1931), raw IA OCR (Google scan): Hegelianism and Personality, second series of Balfour Lectures, second edition (Edinburgh: Blackwood, 1893). US public domain. No uids minted.",
+ "_about": "Andrew Seth, later Pringle-Pattison (1856-1931), raw IA OCR (Google scan): Hegelianism and Personality, second series of Balfour Lectures, second edition (Edinburgh: Blackwood, 1893). Added in round ac: Scottish Philosophy, a comparison of the Scottish and German answers to Hume (Edinburgh: Blackwood, 1885); The Idea of God in the Light of Recent Philosophy, Gifford Lectures 1912-13, 2nd ed. revised (New York: Oxford University Press, 1920). US public domain. No uids minted.",
  "_author": "Andrew Seth (Pringle-Pattison)",
  "_name_words": [
   "andrew",
@@ -19,6 +19,14 @@
   "seth-hegelianism-and-personality-1893": [
    "hegelianismandp02patgoog",
    "Hegelianism and Personality, second edition (Edinburgh: Blackwood, 1893)"
+  ],
+  "seth-scottish-philosophy-1885": [
+   "scottishphilosopy00seth",
+   "Scottish Philosophy, a comparison of the Scottish and German answers to Hume (Edinburgh: Blackwood, 1885)"
+  ],
+  "pringle-pattison-idea-of-god-1920": [
+   "ideagodinlightr00patgoog",
+   "The Idea of God in the Light of Recent Philosophy, Gifford Lectures 1912-13, 2nd ed. revised (New York: Oxford University Press, 1920)"
   ]
  },
  "_excluded": {},
@@ -31,6 +39,28 @@
    "identity": "ok",
    "ia_rights": "ok: published 1887",
    "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "seth-scottish-philosophy-1885": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "seth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pringle-pattison-idea-of-god-1920": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "seth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
