@@ -9473,8 +9473,7 @@ Shelf: `pipeline/fichte_shelf.json`. J. G. Fichte (1762-1814) in English, raw IA
 | The Science of Ethics as Based on the Science of Knowledge, edited by W. T. Harris (London: Kegan Paul, 1897) | A. E. Kroeger | `fichte-kroeger-science-of-ethics-1897` | have-raw (IA `cu31924020344077`) |
 | The Popular Works of Johann Gottlieb Fichte, with a memoir of the author, 4th ed., vol. I (London: Trübner, 1889) | William Smith | `fichte-smith-popular-works-1889-v1` | have-raw (IA `popularworks01fichuoft`) |
 | The Popular Works of Johann Gottlieb Fichte, 4th ed., vol. II: the Characteristics of the Present Age, the Way towards the Blessed Life, Outlines of the Doctrine of Knowledge (London: Trübner, 1889) | William Smith | `fichte-smith-popular-works-1889-v2` | have-raw (IA `popularworks02fichuoft`) |
-
-Pending (wishlist): Fichte's Addresses to the German Nation (Jones and Turnbull, 1922).
+| Addresses to the German Nation (Chicago and London: Open Court, 1922) | R. F. Jones and G. H. Turnbull | `fichte-jones-turnbull-addresses-1922` | have-raw (IA `addressestothege00fichuoft`) |
 
 ## Lotze in English
 
@@ -9492,8 +9491,9 @@ Shelf: `pipeline/lotze_shelf.json`. Hermann Lotze (1817-1881) in English, raw IA
 | Outlines of Psychology: dictated portions of the lectures (Boston: Ginn, 1886) | George T. Ladd | `lotze-ladd-psychology-1886` | have-raw (IA `outlinesofpsycho01lotz`) |
 | Outlines of Logic and of Encyclopedia of Philosophy: dictated portions of the lectures (Boston: Ginn, 1887) | George T. Ladd | `lotze-ladd-logic-1887` | have-raw (IA `outlinesoflogic00lotzuoft`) |
 | Outlines of the Philosophy of Religion: dictated portions of the lectures (Boston: Ginn, 1903 printing; first published 1885) | George T. Ladd | `lotze-ladd-philosophy-of-religion-1903` | have-raw (IA `outlinesofphilos00lotz`) |
+| Outlines of Metaphysic, dictated portions of the lectures (Boston: Ginn, Heath, 1884) | George T. Ladd | `lotze-ladd-outlines-of-metaphysic-1884` | have-raw (IA `outlinesofmetaph00lotzrich`) |
 
-Pending (wishlist): Ladd's Outlines of Metaphysic (1884) and Outlines of Aesthetics (1886).
+Pending (wishlist): Ladd's Outlines of Aesthetics (1886)
 
 ## Comte in English
 
@@ -9539,8 +9539,14 @@ Shelf: `pipeline/herbert-spencer_shelf.json`. First Principles (Appleton, 1900),
 | Essays: Scientific, Political, and Speculative, vol. II (London: Williams and Norgate, 1891) |  | `spencer-essays-1891-v2` | have (PG 53395) |
 | Essays: Scientific, Political, and Speculative, vol. III (London: Williams and Norgate, 1891) |  | `spencer-essays-1891-v3` | have (PG 54076) |
 | First Principles, 6th ed. (New York: D. Appleton, 1900) |  | `spencer-first-principles-1900` | have-raw (IA `cu31924029047608`) |
+| The Principles of Psychology, vol. I (New York: D. Appleton, 1905) |  | `spencer-principles-of-psychology-1905-v1` | have-raw (IA `principlespsycho01speniala`) |
+| The Principles of Psychology, vol. II (New York: D. Appleton, 1905) |  | `spencer-principles-of-psychology-1905-v2` | have-raw (IA `principlespsycho02speniala`) |
+| The Principles of Biology, revised and enlarged edition, vol. I (New York: D. Appleton, 1898 edition, 1904 printing) |  | `spencer-principles-of-biology-rev-v1` | have-raw (IA `principlesofbiol01spenuoft`) |
+| The Principles of Biology, revised and enlarged edition, vol. II (New York: D. Appleton, 1899 edition, 1901 printing) |  | `spencer-principles-of-biology-rev-v2` | have-raw (IA `principlesofbiol02spenuoft`) |
+| The Principles of Ethics, vol. I (New York: D. Appleton, copyright 1892-1902; 1904 printing) |  | `spencer-principles-of-ethics-v1` | have-raw (IA `principlesofethi01speniala`) |
+| The Principles of Ethics, vol. II (New York: D. Appleton; 1906 printing) |  | `spencer-principles-of-ethics-v2` | have-raw (IA `principlesofethi02speniala`) |
 
-Pending (wishlist): The Principles of Biology, Psychology, Sociology and Ethics.
+Pending (wishlist): The Principles of Sociology (3 vols) in a matched printing
 
 ## William Godwin
 
@@ -9900,8 +9906,8 @@ Shelf: `pipeline/bolingbroke_shelf.json`. Letters to Windham and Pope, ed. Morle
 | Work | Editor | Slug | Status |
 |---|---|---|---|
 | Letters to Sir William Windham and Mr. Pope, ed. Henry Morley (the etext names no printing) |  | `bolingbroke-letters-windham-pope` | have (PG 5132) |
-
-Pending (wishlist): Letters on the Study and Use of History; The Idea of a Patriot King.
+| Letters on the Spirit of Patriotism, on the Idea of a Patriot King, and on the State of Parties (London: A. Millar, 1752) |  | `bolingbroke-spirit-of-patriotism-patriot-king-1752` | have-raw (IA `lettersonspirito00boli`) |
+| Letters on the Study and Use of History, a new edition, corrected (Paris: Theophilus Barrois, 1808) |  | `bolingbroke-study-and-use-of-history-1808` | have-raw (IA `lettersonstudyus00boli`) |
 
 ## Proudhon in English
 
@@ -10349,8 +10355,7 @@ Shelf: `pipeline/emile-boutroux_shelf.json`. Four works, 1911-1920, tr. Nield an
 | Historical Studies in Philosophy (London: Macmillan, 1912) | Fred Rothwell | `boutroux-rothwell-historical-studies-1912` | have-raw (IA `historicalstudie00bout`) |
 | Philosophy and War (London: Constable, 1916) | Fred Rothwell | `boutroux-rothwell-philosophy-and-war-1916` | have-raw (IA `philosophywar00boutuoft`) |
 | The Contingency of the Laws of Nature (Chicago: Open Court, 1920) | Fred Rothwell | `boutroux-rothwell-contingency-of-the-laws-of-nature-1920` | have-raw (IA `contingencylaws02boutgoog`) |
-
-Pending (wishlist): Natural Law in Science and Philosophy (1914), Pascal (1902)
+| Pascal (Manchester: Sherratt and Hughes, 1902) | Ellen Margaret Creak | `boutroux-creak-pascal-1902` | have-raw (IA `pascalpascal00boutrich`) |
 
 ## Georges Sorel in English
 
@@ -10387,8 +10392,7 @@ Shelf: `pipeline/borden-parker-bowne_shelf.json`. Four works, 1882-1902.
 | The Principles of Ethics (New York: Harper, 1893) |  | `bowne-principles-of-ethics-1893` | have-raw (IA `principlesofethi00bown`) |
 | Theory of Thought and Knowledge (New York: Harper, 1897) |  | `bowne-theory-of-thought-and-knowledge-1897` | have-raw (IA `theorythoughtan01bowngoog`) |
 | Theism, the Deems Lectures for 1902 (New York: American Book Company, 1902) |  | `bowne-theism-1902` | have-raw (IA `theism01bown`) |
-
-Pending (wishlist): Personalism (1908), in a scan with a legible year
+| Personalism (Boston: Houghton Mifflin, 1908) |  | `bowne-personalism-1908` | have-raw (IA `personalism00bown`) |
 
 ## Pico della Mirandola in English
 

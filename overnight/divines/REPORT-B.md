@@ -961,3 +961,10 @@
 - Added: Bosanquet x2, McTaggart, Ferrier vol. I, Seth/Pringle-Pattison x2, Ritchie, Bentham, Mill
 - Held: Collins, A Philosophical Inquiry concerning Human Liberty (OCR 0.774)
 - Left for Lane C: Boutroux, Natural Law in Science and Philosophy, tr. Fred Rothwell (1914), not held anywhere yet
+
+## 2026-10-17 18:49 CDT — Round ad: wishlist fill, second batch
+- Spencer: Principles of Psychology (1905, 2 vols), Biology (revised ed., 2 vols), Ethics (2 vols)
+- Fichte: Addresses to the German Nation, tr. Jones and Turnbull (1922)
+- Bowne: Personalism (1908); Boutroux: Pascal, tr. Creak (1902)
+- Bolingbroke: Patriot King letters (1752) and Study and Use of History (Paris, 1808); Lotze: Outlines of Metaphysic, tr. Ladd (1884)
+- Still wanted: Spencer's Principles of Sociology in a matched printing

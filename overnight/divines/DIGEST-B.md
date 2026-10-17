@@ -219,3 +219,4 @@
 - 18:42 round aa: C. I. Lewis, Hocking, Calkins, Münsterberg, Holt (with The New Realism), G. S. Morris.
 - 18:43 round ab: 10 volumes added to this evening's shelves (Morris, Perry, Hocking, Calkins, Münsterberg, Holt, Baldwin, Venn, Pearson).
 - 18:46 round ac: 9 more volumes on older shelves. Note for Lane C: Boutroux's Natural Law in Science and Philosophy, tr. Rothwell (1914), is unheld and fits their rothwell shelf.
+- 18:49 round ad: 13 more volumes, chiefly Spencer's Principles of Psychology, Biology and Ethics.
