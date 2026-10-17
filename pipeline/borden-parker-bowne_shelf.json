@@ -1,0 +1,80 @@
+{
+ "_about": "Borden Parker Bowne (1847-1910), American personalist, raw IA OCR: Metaphysics, a study in first principles (New York: Harper, 1882), The Principles of Ethics (Harper, 1893), Theory of Thought and Knowledge (Harper, 1897) and Theism (Deems Lectures; American Book Company, 1902). US public domain. No uids minted.",
+ "_author": "Borden Parker Bowne",
+ "_name_words": [
+  "borden",
+  "parker",
+  "p",
+  "bowne"
+ ],
+ "_surname": [
+  "bowne"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bowne-metaphysics-1882": [
+   "metaphysicsastu02bowngoog",
+   "Metaphysics: a study in first principles (New York: Harper, 1882)"
+  ],
+  "bowne-principles-of-ethics-1893": [
+   "principlesofethi00bown",
+   "The Principles of Ethics (New York: Harper, 1893)"
+  ],
+  "bowne-theory-of-thought-and-knowledge-1897": [
+   "theorythoughtan01bowngoog",
+   "Theory of Thought and Knowledge (New York: Harper, 1897)"
+  ],
+  "bowne-theism-1902": [
+   "theism01bown",
+   "Theism, the Deems Lectures for 1902 (New York: American Book Company, 1902)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "bowne-metaphysics-1882": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bowne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bowne-principles-of-ethics-1893": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bowne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893, c1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bowne-theory-of-thought-and-knowledge-1897": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bowne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bowne-theism-1902": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bowne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
