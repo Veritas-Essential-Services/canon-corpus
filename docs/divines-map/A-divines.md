@@ -5699,3 +5699,22 @@ Slugs `butler-*`. Written in English. The Lives are the Derby edition (1842-1846
 | The Life of Sir Tobie Matthews (London: J. P. Coghlan, 1795): his name is not legible in the OCR | alternate | not shelved |
 | Abridgements and revisions by others (1877-1926) | excluded | |
 | French, German and Spanish translations | excluded | |
+
+## Richard Challoner (round 26, my pick, 2026-10-17)
+
+Slugs `challoner-*`. Written in English. His first editions were anonymous, so the earliest printings that name him are shelved; Britannia Sancta, never printed with his name, is an alternate.
+
+| Work | Status | Where |
+|---|---|---|
+| The Garden of the Soul (London: J. P. Coghlan, M.DCC.XCIII) | have-ocr | IA `bim_eighteenth-century_the-garden-of-the-soul-_challoner-richard_1793` |
+| Think Well On't, or Reflections on the Great Truths of the Christian Religion, thirteenth edition (London: Keating, Brown and Keating, 1801) | have-ocr | IA `thinkwellontorre00chaluoft` |
+| Memoirs of Missionary Priests, vol. I (Manchester: for T. Haydock, 1803) | have-ocr | IA `10789537bsb` |
+| Memoirs of Missionary Priests, vol. II (Manchester: for T. Haydock, 1803) | have-ocr | IA `10789538bsb` |
+| Considerations upon Christian Truths and Christian Duties, digested into Meditations for every day in the year, vol. I (London: Keating, Brown, and Keating, 1815) | have-ocr | IA `ConsiderationsUponChristianV1` |
+| Considerations upon Christian Truths and Christian Duties, vol. II (London: Keating, Brown, and Keating, 1815) | have-ocr | IA `ConsiderationsUponChristianV2` |
+| The Catholick Christian Instructed in the Sacraments, Sacrifice, Ceremonies and Observances of the Church, thirteenth edition (London: J. P. Coghlan, M,DCC,XCIII) | have-ocr | IA `bim_eighteenth-century_the-catholick-christian-_challoner-richard_1793` |
+| Britannia Sancta (London: Thomas Meighan, 1745, 2 parts): anonymous on the title page, and no named edition found; waits on an attribution ruling | alternate | not shelved |
+| The anonymous first editions of the Garden (1755), Memoirs (1741), Considerations (1753-1754), Catholick Christian (1737) and Think Well On't (1734) | alternate | not shelved |
+| Later printings of each (1812-1872), and the Considerations of 1784 (4 vols) | alternate | not shelved |
+| His Douay-Rheims revision and his Imitation of Christ: translations, not his own works | excluded | |
+| The 1924 revised Memoirs; an anthology (1894) | excluded | |
