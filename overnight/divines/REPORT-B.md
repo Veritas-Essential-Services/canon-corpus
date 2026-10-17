@@ -793,3 +793,11 @@
 - Hume's Philosophical Works (1826, 4 vols.); Fraser's Berkeley (1901, 4 vols.); Molesworth's Hobbes vols. 1-7; Bacon's Essays, New Atlantis and Valerius Terminus.
 - Machiavelli: Detmold's Writings (1882, 4) and the History of Florence; Descartes: Haldane and Ross vol. I (1911) and the 1649 Discourse; Rousseau's Confessions (1903); Locke's Essay vol. 2 and Quick's Some Thoughts Concerning Education.
 - Not taken: anything already on the Adler, singles, tk-abbott, elwes or bailey-saunders shelves; Huggard's Theodicy (PG 17147: first published 1951, not US public domain); Gutenberg's Haldane History of Philosophy (set from a 1955 reprint; the 1892-1896 printings are used instead); Haldane and Ross vol. II (only 1931 and 1934 reprints found).
+
+## 2026-10-17 17:00 CDT — Spinoza, Leibniz, Fichte, Lotze, Comte: 5 shelves, 36 volumes
+- Spinoza: Hale White's Ethic (1883), Willis's Tractatus (1862) and Life, Correspondence and Ethics (1870), Maccall's Politics (1854), Fullerton (1894), Britan's Descartes' Principles (1905), Wolf's Short Treatise (1910). Elwes is lane C's and not taken.
+- Leibniz: Duncan (1890), Langley's New Essays (1896), Latta's Monadology (1898), Montgomery's Discourse (1902), Russell's System of Theology (1850).
+- Fichte: Kroeger's Science of Knowledge, New Exposition, Science of Rights and Science of Ethics; Smith's Popular Works (1889, 2 vols.).
+- Lotze: Hamilton and Jones's Microcosmus (2), Bosanquet's Logic and Metaphysic (4), Ladd's Outlines (4).
+- Comte: Martineau's Positive Philosophy (1896, 3), System of Positive Polity (1875-1877, 4), Congreve's Catechism (1858).
+- Aristotle, at the coordinator's check: everything on its list was already held except Ross's 1908 first-edition Metaphysica, now added. Taylor's 1812 Organon scan has no legible year and is held.

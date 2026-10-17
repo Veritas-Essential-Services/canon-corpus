@@ -7837,6 +7837,83 @@ Shelf: `pipeline/locke_shelf.json`. John Locke (1632-1704). Clean Gutenberg: An 
 
 Pending (wishlist): Locke's Works (1812 or 1823, 10 vols.); a dated Letters on Toleration.
 
+## Spinoza in English
+
+Shelf: `pipeline/spinoza_shelf.json`. Benedict de Spinoza (1632-1677) in English, translator per row, raw IA OCR. Elwes's translations are lane C's (elwes shelf: the Theologico-Political Treatise and the Improvement of the Understanding) and his Ethics is on the Adler shelf (PG 3800); none is taken again here, nor the Bohn Chief Works. Here: William Hale White's Ethic (Trübner, 1883), Robert Willis's Tractatus Theologico-Politicus (Trübner, 1862) and Benedict de Spinoza: his life, correspondence, and Ethics (Trübner, 1870), William Maccall's Treatise on Politics (Holyoake, 1854), George Stuart Fullerton's Philosophy of Spinoza (Ethics I, II, V and extracts from III-IV; Holt, 2nd ed., 1894), Halbert Hains Britan's Principles of Descartes' Philosophy (Open Court, 1905), and A. Wolf's Short Treatise on God, Man and his Well-Being (A. and C. Black, 1910). All US public domain (published before 1930). Not taken: Hale White's Tractatus de Intellectus Emendatione (Fisher Unwin; the scan prints no year), and the 1888 Van Nostrand Ethics (no translator named in the book). No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Ethic, demonstrated in geometrical order and divided into five parts (London: Trübner, 1883) | William Hale White | `spinoza-hale-white-ethic-1883` | have-raw (IA `ethicdemonstrate00spinuoft`) |
+| Tractatus Theologico-Politicus: a critical inquiry into the history, purpose, and authenticity of the Hebrew Scriptures, with an introduction and notes by the editor (London: Trübner, 1862) | Robert Willis (named on the title page of his 1870 volume, which lists this one) | `spinoza-willis-tractatus-1862` | have-raw (IA `tractatustheolog00spinuoft`) |
+| Benedict de Spinoza: his life, correspondence, and Ethics (London: Trübner, 1870) | R. Willis | `spinoza-willis-life-ethics-1870` | have-raw (IA `benedictdespinoz00willuoft`) |
+| A Treatise on Politics, translated from the Latin (London: Holyoake, 1854) | William Maccall | `spinoza-maccall-politics-1854` | have-raw (IA `atreatiseonpoli00spingoog`) |
+| The Philosophy of Spinoza, as contained in the first, second, and fifth parts of the Ethics and in extracts from the third and fourth, 2nd ed., enlarged (New York: Henry Holt, 1894) | George Stuart Fullerton | `spinoza-fullerton-philosophy-1894` | have-raw (IA `philosophyofspin01spin`) |
+| The Principles of Descartes' Philosophy, translated from the Latin, with an introduction (Chicago: Open Court, 1905) | Halbert Hains Britan | `spinoza-britan-descartes-principles-1905` | have-raw (IA `cu31924029050636`) |
+| Spinoza's Short Treatise on God, Man, and his Well-Being, translated and edited, with an introduction and commentary and a life of Spinoza (London: A. and C. Black, 1910) | A. Wolf | `spinoza-wolf-short-treatise-1910` | have-raw (IA `spinozasshorttre00spin`) |
+
+Pending (wishlist): Hale White's Tractatus de Intellectus Emendatione in a dated printing.
+
+## Leibniz in English
+
+Shelf: `pipeline/leibniz_shelf.json`. G. W. Leibniz (1646-1716) in English, translator per row, raw IA OCR: George Martin Duncan's Philosophical Works (New Haven, 1890), Alfred Gideon Langley's New Essays Concerning Human Understanding (Macmillan, 1896), Robert Latta's Monadology and Other Philosophical Writings (Oxford, 1898), George R. Montgomery's Discourse on Metaphysics, Correspondence with Arnauld and Monadology (Open Court, 1902), and Charles William Russell's System of Theology (Burns and Lambert, 1850). All US public domain. Not taken: Huggard's Theodicy (PG 17147), first published 1951 and not US public domain. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Philosophical Works of Leibnitz, comprising the Monadology, New System of Nature, Principles of Nature and of Grace, Letters to Clarke, Refutation of Spinoza, and other opuscules, translated from the original Latin and French, with notes (New Haven: Tuttle, Morehouse and Taylor, 1890) | George Martin Duncan (his name is lost in the OCR of the title page) | `leibniz-duncan-philosophical-works-1890` | have-raw (IA `philosophicalwor00leibuoft`) |
+| New Essays Concerning Human Understanding, together with an appendix consisting of some of his shorter pieces (New York: Macmillan, 1896) | Alfred Gideon Langley | `leibniz-langley-new-essays-1896` | have-raw (IA `newessaysconcern00leibuoft`) |
+| The Monadology and Other Philosophical Writings, translated with introduction and notes (Oxford: Clarendon, 1898) | Robert Latta | `leibniz-latta-monadology-1898` | have-raw (IA `themonadology00leibuoft`) |
+| Discourse on Metaphysics, Correspondence with Arnauld, and Monadology, with an introduction by Paul Janet (Chicago: Open Court, 1902) | George R. Montgomery | `leibniz-montgomery-discourse-1902` | have-raw (IA `discourseonmetap00leibuoft`) |
+| A System of Theology, translated with an introduction and notes (London: Burns and Lambert, 1850) | Charles William Russell | `leibniz-russell-system-of-theology-1850` | have-raw (IA `a590378700leibuoft`) |
+
+## Fichte in English
+
+Shelf: `pipeline/fichte_shelf.json`. J. G. Fichte (1762-1814) in English, raw IA OCR: A. E. Kroeger's Science of Knowledge (Lippincott, 1868), New Exposition of the Science of Knowledge (St. Louis, 1869), Science of Rights (Trübner, 1889) and Science of Ethics (ed. W. T. Harris; Kegan Paul, 1897); and William Smith's Popular Works (4th ed., Trübner, 1889, 2 vols.: the Nature of the Scholar, the Vocation of the Scholar, the Vocation of Man, the Characteristics of the Present Age, the Way towards the Blessed Life, and the Outlines of the Doctrine of Knowledge, with Smith's memoir). US public domain. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Science of Knowledge, translated from the German (Philadelphia: J. B. Lippincott, 1868) | A. E. Kroeger | `fichte-kroeger-science-of-knowledge-1868` | have-raw (IA `cu31924014110682`) |
+| New Exposition of the Science of Knowledge, translated from the German (St. Louis, 1869) | A. E. Kroeger | `fichte-kroeger-new-exposition-1869` | have-raw (IA `newexposition00fichuoft`) |
+| The Science of Rights, with a preface by William T. Harris (London: Trübner, 1889) | A. E. Kroeger | `fichte-kroeger-science-of-rights-1889` | have-raw (IA `scienceofrights00fich`) |
+| The Science of Ethics as Based on the Science of Knowledge, edited by W. T. Harris (London: Kegan Paul, 1897) | A. E. Kroeger | `fichte-kroeger-science-of-ethics-1897` | have-raw (IA `cu31924020344077`) |
+| The Popular Works of Johann Gottlieb Fichte, with a memoir of the author, 4th ed., vol. I (London: Trübner, 1889) | William Smith | `fichte-smith-popular-works-1889-v1` | have-raw (IA `popularworks01fichuoft`) |
+| The Popular Works of Johann Gottlieb Fichte, 4th ed., vol. II: the Characteristics of the Present Age, the Way towards the Blessed Life, Outlines of the Doctrine of Knowledge (London: Trübner, 1889) | William Smith | `fichte-smith-popular-works-1889-v2` | have-raw (IA `popularworks02fichuoft`) |
+
+Pending (wishlist): Fichte's Addresses to the German Nation (Jones and Turnbull, 1922).
+
+## Lotze in English
+
+Shelf: `pipeline/lotze_shelf.json`. Hermann Lotze (1817-1881) in English, raw IA OCR: Microcosmus, tr. Elizabeth Hamilton and E. E. Constance Jones (T. & T. Clark, vol. I 1885, vol. II 1887); Lotze's System of Philosophy, English translation edited by Bernard Bosanquet (Oxford, 2nd ed.: Logic, 2 vols., 1888; Metaphysic, 2 vols., 1887); and four of George T. Ladd's Outlines of Philosophy, dictated portions of the lectures (Ginn: Practical Philosophy 1885, Psychology 1886, Logic and Encyclopedia 1887, Philosophy of Religion in a 1903 printing). US public domain. Wanted: Ladd's Outlines of Metaphysic (1884) and Outlines of Aesthetics. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Microcosmus: an essay concerning man and his relation to the world, vol. I (Edinburgh: T. & T. Clark, 1885) | Elizabeth Hamilton and E. E. Constance Jones | `lotze-hamilton-jones-microcosmus-1885-v1` | have-raw (IA `microcosmusessa01lotz`) |
+| Microcosmus, vol. II (Edinburgh: T. & T. Clark, 1887) | Elizabeth Hamilton and E. E. Constance Jones | `lotze-hamilton-jones-microcosmus-1887-v2` | have-raw (IA `microcosmusessay02lotziala`) |
+| Logic, in three books: of thought, of investigation, and of knowledge, English translation, 2nd ed., vol. I (Oxford: Clarendon, 1888) | Bosanquet | `lotze-bosanquet-logic-1888-v1` | have-raw (IA `logicinthreebook01lotzuoft`) |
+| Logic, in three books, 2nd ed., vol. II (Oxford: Clarendon, 1888) | Bosanquet | `lotze-bosanquet-logic-1888-v2` | have-raw (IA `logicinthreeboo02lotz`) |
+| Metaphysic, in three books: ontology, cosmology, and psychology, English translation, 2nd ed., vol. I (Oxford: Clarendon, 1887) | Bosanquet | `lotze-bosanquet-metaphysic-1887-v1` | have-raw (IA `metaphysicinthre01lotzuoft`) |
+| Metaphysic, in three books, 2nd ed., vol. II (Oxford: Clarendon, 1887) |  | `lotze-bosanquet-metaphysic-1887-v2` | have-raw (IA `metaphysicvolii032380mbp`) |
+| Outlines of Practical Philosophy: dictated portions of the lectures (Boston: Ginn, 1885) | George T. Ladd | `lotze-ladd-practical-philosophy-1885` | have-raw (IA `outlinesofpracti00lot`) |
+| Outlines of Psychology: dictated portions of the lectures (Boston: Ginn, 1886) | George T. Ladd | `lotze-ladd-psychology-1886` | have-raw (IA `outlinesofpsycho01lotz`) |
+| Outlines of Logic and of Encyclopedia of Philosophy: dictated portions of the lectures (Boston: Ginn, 1887) | George T. Ladd | `lotze-ladd-logic-1887` | have-raw (IA `outlinesoflogic00lotzuoft`) |
+| Outlines of the Philosophy of Religion: dictated portions of the lectures (Boston: Ginn, 1903 printing; first published 1885) | George T. Ladd | `lotze-ladd-philosophy-of-religion-1903` | have-raw (IA `outlinesofphilos00lotz`) |
+
+Pending (wishlist): Ladd's Outlines of Metaphysic (1884) and Outlines of Aesthetics (1886).
+
+## Comte in English
+
+Shelf: `pipeline/comte_shelf.json`. Auguste Comte (1798-1857) in English, raw IA OCR: The Positive Philosophy, freely translated and condensed by Harriet Martineau, introduction by Frederic Harrison (Bohn's Philosophical Library, 1896, 3 vols.); System of Positive Polity (Longmans, 1875-1877, 4 vols.; vol. I tr. J. H. Bridges, vol. II Frederic Harrison, vol. III E. S. Beesly with Samuel Lobb, Fanny Hertz, Bridges and Vernon and Godfrey Lushington, vol. IV Richard Congreve); and Congreve's Catechism of Positive Religion (London: John Chapman, 1858). US public domain. Bridges's General View of Positivism (PG 53799) is on singles-ideas-2, and Gillespie's Philosophy of Mathematics (PG 39702) on singles-science-craft; neither is taken again. No uids minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Positive Philosophy of Auguste Comte, freely translated and condensed, vol. I (Bohn; London: George Bell, 1896) | Harriet Martineau | `comte-martineau-positive-philosophy-1896-v1` | have-raw (IA `positivephilosop01comt`) |
+| The Positive Philosophy of Auguste Comte, vol. II (Bohn; London: George Bell, 1896) | Harriet Martineau | `comte-martineau-positive-philosophy-1896-v2` | have-raw (IA `positivephilosop02comt`) |
+| The Positive Philosophy of Auguste Comte, vol. III (Bohn; London: George Bell, 1896) | Harriet Martineau | `comte-martineau-positive-philosophy-1896-v3` | have-raw (IA `positivephilosop03comt`) |
+| System of Positive Polity, vol. I: the General View of Positivism and introductory principles (London: Longmans, Green, 1875) | John Henry Bridges | `comte-polity-1875-v1` | have-raw (IA `cu31924092570591`) |
+| System of Positive Polity, vol. II: social statics, or the abstract theory of human order (London: Longmans, Green, 1875) | Frederic Harrison | `comte-polity-1875-v2` | have-raw (IA `cu31924092570609`) |
+| System of Positive Polity, vol. III: social dynamics (London: Longmans, Green, 1876) | Edward Spencer Beesly and others | `comte-polity-1876-v3` | have-raw (IA `cu31924092570617`) |
+| System of Positive Polity, vol. IV: the theory of the future of man, with an appendix of early essays (London: Longmans, Green, 1877) | Richard Congreve | `comte-polity-1877-v4` | have-raw (IA `cu31924092570625`) |
+| The Catechism of Positive Religion, translated from the French (London: John Chapman, MDCCCLVIII) | Richard Congreve | `comte-congreve-catechism-1858` | have-raw (IA `catechismofposit00comt`) |
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.
