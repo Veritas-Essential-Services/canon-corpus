@@ -23,6 +23,14 @@
    31933,
    "Landmarks of Scientific Socialism: \"Anti-Duehring\" (Chicago: Charles H. Kerr, 1907)",
    "tr. Austin Lewis"
+  ],
+  "marx-revolution-and-counter-revolution-1912": [
+   32966,
+   "Revolution and Counter-Revolution, or Germany in 1848, ed. Eleanor Marx Aveling (Chicago: Charles H. Kerr, 1912)"
+  ],
+  "marx-secret-diplomatic-history-1899": [
+   32370,
+   "Secret Diplomatic History of the Eighteenth Century, ed. Eleanor Marx Aveling (London: Swan Sonnenschein, 1899)"
   ]
  },
  "internet_archive": {},
@@ -51,6 +59,24 @@
    "author_seen": "marx",
    "translator_claimed": "Lewis",
    "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "marx-revolution-and-counter-revolution-1912": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marx",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "marx-secret-diplomatic-history-1899": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marx",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

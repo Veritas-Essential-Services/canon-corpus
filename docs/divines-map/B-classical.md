@@ -4019,6 +4019,8 @@ Shelf: `pipeline/marx-engels_shelf.json`. Kerr's Chicago translations and Eleano
 |---|---|---|---|
 | Feuerbach: the roots of the socialist philosophy (Chicago: Charles H. Kerr, 1903) | Austin Lewis | `engels-lewis-feuerbach-1903` | have (PG 27814) |
 | Landmarks of Scientific Socialism: "Anti-Duehring" (Chicago: Charles H. Kerr, 1907) | Austin Lewis | `engels-lewis-anti-duehring-1907` | have (PG 31933) |
+| Revolution and Counter-Revolution, or Germany in 1848, ed. Eleanor Marx Aveling (Chicago: Charles H. Kerr, 1912) |  | `marx-revolution-and-counter-revolution-1912` | have (PG 32966) |
+| Secret Diplomatic History of the Eighteenth Century, ed. Eleanor Marx Aveling (London: Swan Sonnenschein, 1899) |  | `marx-secret-diplomatic-history-1899` | have (PG 32370) |
 
 ## William James
 
