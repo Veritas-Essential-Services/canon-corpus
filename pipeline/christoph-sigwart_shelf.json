@@ -1,0 +1,57 @@
+{
+ "_about": "Christoph Sigwart (1830-1904), raw IA OCR: Logic, second edition revised and enlarged, translated by Helen Dendy, Library of Philosophy (London: Swan Sonnenschein; New York: Macmillan, 1895, 2 vols.: The Judgment, Concept and Inference; Logical Methods). The OCR reads the translator 'Helen Bendy' on the title pages and 'Helen Dendy' in the series list. US public domain. No uids minted.",
+ "_author": "Christoph Sigwart",
+ "_name_words": [
+  "christoph",
+  "dr",
+  "sigwart",
+  "von"
+ ],
+ "_surname": [
+  "sigwart"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sigwart-dendy-logic-1895-v1": [
+   "sigwartslogic01sigwuoft",
+   "Logic, vol. I: the judgment, concept and inference (London: Swan Sonnenschein, 1895)",
+   "tr. Helen Dendy"
+  ],
+  "sigwart-dendy-logic-1895-v2": [
+   "sigwartslogic02sigwuoft",
+   "Logic, vol. II: logical methods (London: Swan Sonnenschein, 1895)",
+   "tr. Helen Dendy"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "sigwart-dendy-logic-1895-v1": "Dendy"
+ },
+ "_checks": {
+  "sigwart-dendy-logic-1895-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sigwart",
+   "translator_claimed": "Dendy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sigwart-dendy-logic-1895-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sigwart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
