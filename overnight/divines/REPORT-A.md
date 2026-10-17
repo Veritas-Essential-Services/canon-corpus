@@ -1036,3 +1036,6 @@
 
 ## 2026-10-17 17:22 CDT — h-b-swete done
 - `pipeline/h-b-swete_shelf.json`: 0 CCEL, 0 PG, 20 IA. Title pages read for swete-ancient-creeds (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — william-sanday done
+- `pipeline/william-sanday_shelf.json`: 0 CCEL, 2 PG, 18 IA. Title pages read for sanday-bishop-gore-challenge (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

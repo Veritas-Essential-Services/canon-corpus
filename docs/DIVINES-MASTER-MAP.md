@@ -4646,6 +4646,40 @@ Slugs `swete-*`. Commentaries, Introduction to the Old Testament in Greek and th
 | CCEL swete/greekot: the Hendrickson reprint of 1989 of the 1914 revision, no stated older print source; the 1900 scan is shelved | excluded | |
 | psalmsofsolomonw00swet holds another book; PG 59634 is Woolley's Coronation Rites in a series he edited | excluded | |
 | reprints of 1950-2020 and unreadable Greek-OCR copies | excluded | |
+
+## William Sanday (round 23, my pick, 2026-10-17)
+
+Slugs `sanday-*`. Two Gutenberg texts and 18 scans; joint works (ICC Romans with Headlam) are alternates.
+
+| Work | Status | Where |
+|---|---|---|
+| The Gospels in the Second Century (London, 1876) | have-clean | Gutenberg 10955 |
+| The Criticism of the Fourth Gospel (New York: Scribner's, 1905) | have-clean | Gutenberg 60553 |
+| The Authorship and Historical Character of the Fourth Gospel (London: Macmillan, 1872) | have-ocr | IA `theauthorshipand00sanduoft` |
+| The Study of the New Testament, inaugural lecture, February 1883 (Oxford and London, 1883) | have-ocr | IA `studynewtestame00sandgoog` |
+| The Oracles of God, fourth edition (London: Longmans, 1892) | have-ocr | IA `a607390700sanduoft` |
+| Two Present-Day Questions: Biblical Criticism; the Social Movement (London: Longmans, 1892) | have-ocr | IA `twopresentdayque00sand` |
+| Inspiration, the Bampton Lectures for 1893 (London and New York: Longmans, 1893) | have-ocr | IA `inspirationeight00sanduoft` |
+| The Conception of Priesthood in the Early Church and in the Church of England (London: Longmans, 1898) | have-ocr | IA `conceptionofprie00sand` |
+| The Catholic Movement and the Archbishops' Decision (London: Longmans, 1899) | have-ocr | IA `catholicmovement00sand` |
+| An Examination of Harnack's What is Christianity? (London: Longmans, 1901) | have-ocr | IA `anexaminationofh00sanduoft` |
+| Divisions in the Church: two sermons preached at Tewkesbury (London: Longmans, 1902) | have-ocr | IA `divisionsinchurc00sand` |
+| Sacred Sites of the Gospels, with the assistance of Paul Waterhouse (Oxford: Clarendon Press, 1903) | have-ocr | IA `sacredsitesofgos00sanduoft` |
+| Outlines of the Life of Christ (New York: Scribner's, 1905) | have-ocr | IA `outlineschristli00sanduoft` |
+| The Life of Christ in Recent Research (Oxford: Clarendon Press, 1907) | have-ocr | IA `thelifeofchrist00sanduoft` |
+| Christologies Ancient and Modern (Oxford: Clarendon Press, 1910) | have-ocr | IA `christologiesanc00sanduoft` |
+| Personality in Christ and in Ourselves (Oxford: Clarendon Press, 1911) | have-ocr | IA `personalityinchr0000sand` |
+| The Primitive Church and Reunion (Oxford: University Press, 1913) | have-ocr | IA `primitivechurchr00sand` |
+| Samuel Rolles Driver, a sermon preached in Christ Church, 8 March 1914 (Oxford: Clarendon Press, 1914) | have-ocr | IA `sandaysermonondriver` |
+| Bishop Gore's Challenge to Criticism, third impression (London: Longmans, 1914) | have-ocr | IA `im3bishopgoresch00sand` |
+| Divine Overruling (Edinburgh: T. & T. Clark, 1920) | have-ocr | IA `divineoverruling00sand` |
+| Second copies: authorshipandhi00sandgoog (1872), gospelsinsecondc00sand (1876), theoraclesofgodn00sanduoft (third edition), criticismoffou00sand (1905), personalityinchr00sand, christologyandpe00sanduoft (the two Christology books together, 1911), bishopgoreschall00sanduoft (second impression) | alternate | not shelved |
+| ICC Romans with A. C. Headlam (1895); with Walter Lock, Two Lectures on the Sayings of Jesus (1897); with S. R. Driver, Christianity and Other Religions (1908); with N. P. Williams, Form and Content (1916) | alternate | not shelved |
+| Different Conceptions of Priesthood and Sacrifice (1900), Criticism of the New Testament (1902), Miracles (1911), Studies in the Synoptic Problem (1911): edited or many writers | alternate | not shelved |
+| Das Apostelkonzil (Leipzig, 1908; apostolicdecreea0000sand): German, no translator found | alternate | not shelved |
+| The Deeper Causes of the War (1914) and The Meaning of the War (1915): war pamphlets | excluded | |
+| Appendices ad Novum Testamentum Stephanicum (1889) and the Old-Latin Biblical Texts: editions | excluded | |
+| post-1930 Romans reprints, reviews, microform copies | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
