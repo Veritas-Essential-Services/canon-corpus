@@ -203,3 +203,4 @@
 - 17:43 round k: 9 new shelves, 18 PG texts of political philosophy and economy; nothing needs Adam.
 - 17:46 round l: 6 new shelves (Grotius, Pufendorf, Bodin, Sidney, Rosmini, Vattel); nothing needs Adam.
 - 17:49 round m: 5 IA volumes (Kant x2, Condorcet, Fontenelle x2); nothing needs Adam.
+- 17:52 round n: 7 new shelves, 14 IA volumes (Lange, Hartmann, Windelband, Ueberweg, Erdmann, Beccaria, Lessing); nothing needs Adam.

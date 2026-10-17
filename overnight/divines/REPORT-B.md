@@ -846,3 +846,7 @@
 - 5 IA volumes: kant +2 (Meredith's Critique of Aesthetic Judgement 1911; Watson's extracts 1897), condorcet (Outlines 1795), fontenelle (Glanvill 1703; Gardiner 1737)
 - Held: Charron's Of Wisdom (Stanhope 1729; vol. III OCR 0.777, under the 0.78 gate)
 - Fixed: the Rousseau map section's full blurb, shortened by mistake in round i
+
+## 2026-10-17 17:52 CDT — Round 2026-10-17n: Lange, Hartmann, the histories, Beccaria, Lessing
+- 7 new shelves, 14 IA volumes: friedrich-albert-lange (History of Materialism, 3 vols), eduard-von-hartmann (Philosophy of the Unconscious, 3 vols), wilhelm-windelband (History 1907), friedrich-ueberweg (History, 2 vols), johann-eduard-erdmann (History 1890, 3 vols), beccaria (1775), lessing-philosophy (Education of the Human Race 1896)
+- Left out as held elsewhere: Stirner (byington), La Mettrie, Wundt, Herbart (singles-science-craft), Eucken and Maimon (singles-ideas-2), Haeckel (mccabe, dora-schmitz), Plotinus/Proclus/Porphyry (their shelves)

@@ -1284,6 +1284,14 @@
    "started": "2026-10-17T17:46:24-05:00",
    "finished": "2026-10-17T17:49:00-05:00",
    "notes": "5 IA volumes. Charron's Of Wisdom held: the 1729 vol. III scan fails the OCR gate (0.777)."
+  },
+  {
+   "id": "round-2026-10-17n",
+   "status": "done",
+   "scope": "German nineteenth-century philosophy and the histories of philosophy, plus Beccaria and Lessing (IA)",
+   "started": "2026-10-17T17:49:00-05:00",
+   "finished": "2026-10-17T17:52:53-05:00",
+   "notes": "7 new shelves, 14 IA volumes."
   }
  ]
 }
