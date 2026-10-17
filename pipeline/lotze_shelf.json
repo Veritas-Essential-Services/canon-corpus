@@ -41,6 +41,26 @@
    "metaphysicvolii032380mbp",
    "Metaphysic, in three books, 2nd ed., vol. II (Oxford: Clarendon, 1887)",
    "ed. Bernard Bosanquet"
+  ],
+  "lotze-ladd-practical-philosophy-1885": [
+   "outlinesofpracti00lot",
+   "Outlines of Practical Philosophy: dictated portions of the lectures (Boston: Ginn, 1885)",
+   "tr. George T. Ladd"
+  ],
+  "lotze-ladd-psychology-1886": [
+   "outlinesofpsycho01lotz",
+   "Outlines of Psychology: dictated portions of the lectures (Boston: Ginn, 1886)",
+   "tr. George T. Ladd"
+  ],
+  "lotze-ladd-logic-1887": [
+   "outlinesoflogic00lotzuoft",
+   "Outlines of Logic and of Encyclopedia of Philosophy: dictated portions of the lectures (Boston: Ginn, 1887)",
+   "tr. George T. Ladd"
+  ],
+  "lotze-ladd-philosophy-of-religion-1903": [
+   "outlinesofphilos00lotz",
+   "Outlines of the Philosophy of Religion: dictated portions of the lectures (Boston: Ginn, 1903 printing; first published 1885)",
+   "tr. George T. Ladd"
   ]
  },
  "_excluded": {},
@@ -49,7 +69,11 @@
   "lotze-hamilton-jones-microcosmus-1887-v2": "Hamilton",
   "lotze-bosanquet-logic-1888-v1": "Bosanquet",
   "lotze-bosanquet-logic-1888-v2": "Bosanquet",
-  "lotze-bosanquet-metaphysic-1887-v1": "Bosanquet"
+  "lotze-bosanquet-metaphysic-1887-v1": "Bosanquet",
+  "lotze-ladd-practical-philosophy-1885": "Ladd",
+  "lotze-ladd-psychology-1886": "Ladd",
+  "lotze-ladd-logic-1887": "Ladd",
+  "lotze-ladd-philosophy-of-religion-1903": "Ladd"
  },
  "_identity_checked": {
   "lotze-hamilton-jones-microcosmus-1887-v2": {
@@ -132,6 +156,58 @@
    "ia_rights": "ok: published 1887",
    "ia_date": "1887",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lotze-ladd-practical-philosophy-1885": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "translator_claimed": "Ladd",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "lotze-ladd-psychology-1886": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "translator_claimed": "Ladd",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "lotze-ladd-logic-1887": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "translator_claimed": "Ladd",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lotze-ladd-philosophy-of-religion-1903": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "translator_claimed": "Ladd",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903 [c1885]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }

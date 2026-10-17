@@ -3700,6 +3700,10 @@ Shelf: `pipeline/lotze_shelf.json`. Hermann Lotze (1817-1881) in English, raw IA
 | Logic, in three books, 2nd ed., vol. II (Oxford: Clarendon, 1888) | Bosanquet | `lotze-bosanquet-logic-1888-v2` | have-raw (IA `logicinthreeboo02lotz`) |
 | Metaphysic, in three books: ontology, cosmology, and psychology, English translation, 2nd ed., vol. I (Oxford: Clarendon, 1887) | Bosanquet | `lotze-bosanquet-metaphysic-1887-v1` | have-raw (IA `metaphysicinthre01lotzuoft`) |
 | Metaphysic, in three books, 2nd ed., vol. II (Oxford: Clarendon, 1887) |  | `lotze-bosanquet-metaphysic-1887-v2` | have-raw (IA `metaphysicvolii032380mbp`) |
+| Outlines of Practical Philosophy: dictated portions of the lectures (Boston: Ginn, 1885) | George T. Ladd | `lotze-ladd-practical-philosophy-1885` | have-raw (IA `outlinesofpracti00lot`) |
+| Outlines of Psychology: dictated portions of the lectures (Boston: Ginn, 1886) | George T. Ladd | `lotze-ladd-psychology-1886` | have-raw (IA `outlinesofpsycho01lotz`) |
+| Outlines of Logic and of Encyclopedia of Philosophy: dictated portions of the lectures (Boston: Ginn, 1887) | George T. Ladd | `lotze-ladd-logic-1887` | have-raw (IA `outlinesoflogic00lotzuoft`) |
+| Outlines of the Philosophy of Religion: dictated portions of the lectures (Boston: Ginn, 1903 printing; first published 1885) | George T. Ladd | `lotze-ladd-philosophy-of-religion-1903` | have-raw (IA `outlinesofphilos00lotz`) |
 
 Pending (wishlist): Ladd's Outlines of Metaphysic (1884) and Outlines of Aesthetics (1886).
 
