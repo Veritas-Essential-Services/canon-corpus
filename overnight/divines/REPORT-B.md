@@ -900,3 +900,15 @@
 - francis-bowen: Modern Philosophy (3rd ed.)
 - laurens-hickok: Rational Psychology (1854)
 - george-trumbull-ladd: 3 works 1889-1897
+
+## 2026-10-17 18:21 CDT — Round t: British idealism, pragmatism and ethics
+- g-f-stout: Analytic Psychology (2 vols)
+- andrew-seth-pringle-pattison: Hegelianism and Personality (1893)
+- david-george-ritchie: 3 works 1891-1902
+- hastings-rashdall: Theory of Good and Evil (1907, 2 vols)
+- w-r-sorley: Moral Values and the Idea of God (1918)
+- fcs-schiller: Humanism, Studies in Humanism, Formal Logic
+- henry-mansel: Limits of Religious Thought (1858)
+- james-ward-philosophy: Naturalism and Agnosticism (2 vols), Realm of Ends
+- l-t-hobhouse: Morals in Evolution (2 parts)
+- Held: Riddles of the Sphinx, Hobhouse's Theory of Knowledge (undated scans)

@@ -10168,6 +10168,93 @@ Shelf: `pipeline/george-trumbull-ladd_shelf.json`. Three works, 1889-1897.
 | Philosophy of Mind: an essay in the metaphysics of psychology (New York: Scribner, 1895) |  | `ladd-philosophy-of-mind-1895` | have-raw (IA `philosophyminda00laddgoog`) |
 | Philosophy of Knowledge (New York: Scribner, 1897) |  | `ladd-philosophy-of-knowledge-1897` | have-raw (IA `philosophyofknow00ladd`) |
 
+## G. F. Stout
+
+Shelf: `pipeline/g-f-stout_shelf.json`. Analytic Psychology (2 vols).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Analytic Psychology, vol. I (London: Swan Sonnenschein, 1909) |  | `stout-analytic-psychology-1909-v1` | have-raw (IA `analyticalpsycho01stou`) |
+| Analytic Psychology, vol. II (London: Swan Sonnenschein, 1902) |  | `stout-analytic-psychology-1902-v2` | have-raw (IA `analyticpsychol03stougoog`) |
+
+## Andrew Seth (Pringle-Pattison)
+
+Shelf: `pipeline/andrew-seth-pringle-pattison_shelf.json`. Hegelianism and Personality (2nd ed., 1893).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Hegelianism and Personality, second edition (Edinburgh: Blackwood, 1893) |  | `seth-hegelianism-and-personality-1893` | have-raw (IA `hegelianismandp02patgoog`) |
+
+Pending (wishlist): Scottish Philosophy (1885), The Idea of God (1917)
+
+## D. G. Ritchie
+
+Shelf: `pipeline/david-george-ritchie_shelf.json`. Darwinism and Politics (1891), Darwin and Hegel (1893), Studies in Political and Social Ethics (1902).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Darwinism and Politics, second edition (London: Swan Sonnenschein, 1891) |  | `ritchie-darwinism-and-politics-1891` | have-raw (IA `darwinismpolitic00ritcuoft`) |
+| Darwin and Hegel, with other philosophical studies (London: Swan Sonnenschein, 1893) |  | `ritchie-darwin-and-hegel-1893` | have-raw (IA `darwinhegelwitho00ritcrich`) |
+| Studies in Political and Social Ethics (London: Swan Sonnenschein, 1902) |  | `ritchie-studies-political-social-ethics-1902` | have-raw (IA `studiesinpoliti00ritcuoft`) |
+
+Pending (wishlist): Natural Rights (1895)
+
+## Hastings Rashdall
+
+Shelf: `pipeline/hastings-rashdall_shelf.json`. The Theory of Good and Evil (1907, 2 vols).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Theory of Good and Evil, vol. I (Oxford: Clarendon Press, 1907) |  | `rashdall-theory-of-good-and-evil-1907-v1` | have-raw (IA `theoryofgoodande029639mbp`) |
+| The Theory of Good and Evil, vol. II (Oxford: Clarendon Press, 1907) |  | `rashdall-theory-of-good-and-evil-1907-v2` | have-raw (IA `theoryofgoodande032458mbp`) |
+
+## W. R. Sorley
+
+Shelf: `pipeline/w-r-sorley_shelf.json`. Moral Values and the Idea of God (1918).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Moral Values and the Idea of God (Cambridge, 1918) |  | `sorley-moral-values-and-the-idea-of-god-1918` | have-raw (IA `moralvaluesandth00sorluoft`) |
+
+## F. C. S. Schiller
+
+Shelf: `pipeline/fcs-schiller_shelf.json`. Humanism (1903), Studies in Humanism (1912), Formal Logic (1912). Riddles of the Sphinx held (undated scan).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Humanism: philosophical essays (London: Macmillan, 1903) |  | `fcs-schiller-humanism-1903` | have-raw (IA `humanismphilosop00schiuoft`) |
+| Studies in Humanism, second edition (London: Macmillan, 1912) |  | `fcs-schiller-studies-in-humanism-1912` | have-raw (IA `studiesinhumanis00schi`) |
+| Formal Logic: a scientific and social problem (London: Macmillan, 1912) |  | `fcs-schiller-formal-logic-1912` | have-raw (IA `formallogicscie00schi`) |
+
+Pending (wishlist): Riddles of the Sphinx (1891), in a dated scan
+
+## H. L. Mansel
+
+Shelf: `pipeline/henry-mansel_shelf.json`. The Limits of Religious Thought (Bampton Lectures, 1858).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Limits of Religious Thought examined in eight lectures (Oxford: John Murray, 1858) |  | `mansel-limits-of-religious-thought-1858` | have-raw (IA `limitsofreligiou00mans`) |
+
+## James Ward
+
+Shelf: `pipeline/james-ward-philosophy_shelf.json`. Naturalism and Agnosticism (1899, 2 vols), The Realm of Ends (1911).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Naturalism and Agnosticism, vol. I (New York: Macmillan, 1899) |  | `ward-naturalism-and-agnosticism-1899-v1` | have-raw (IA `naturalismagnost0001ward`) |
+| Naturalism and Agnosticism, vol. II (New York: Macmillan, 1899) |  | `ward-naturalism-and-agnosticism-1899-v2` | have-raw (IA `naturalismandag02wardgoog`) |
+| The Realm of Ends, or Pluralism and Theism (Cambridge, 1911) |  | `ward-realm-of-ends-1911` | have-raw (IA `therealmofends00warduoft`) |
+
+## L. T. Hobhouse
+
+Shelf: `pipeline/l-t-hobhouse_shelf.json`. Morals in Evolution (1906, 2 parts). Theory of Knowledge held (undated scan).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Morals in Evolution, part I (New York: Henry Holt, 1906) |  | `hobhouse-morals-in-evolution-1906-v1` | have-raw (IA `moralsinevolutio01hobh`) |
+| Morals in Evolution, part II (New York: Henry Holt, 1906) |  | `hobhouse-morals-in-evolution-1906-v2` | have-raw (IA `moralsinevolutio02hobhuoft`) |
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.
