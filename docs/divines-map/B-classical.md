@@ -3784,6 +3784,8 @@ Shelf: `pipeline/thomas-reid_shelf.json`. Works, ed. Hamilton, 8th ed. (1880).
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
+| The Works of Thomas Reid, now fully collected, 8th ed., vol. I (Edinburgh, 1880) | Hamilton | `reid-hamilton-works-1880-v1` | have-raw (IA `worksnowfullycol01reiduoft`) |
+| The Works of Thomas Reid, 8th ed., vol. II (Edinburgh, 1880) | Hamilton | `reid-hamilton-works-1880-v2` | have-raw (IA `worksnowfullyco02reiduoft`) |
 
 ## Herder in English
 
