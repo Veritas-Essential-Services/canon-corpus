@@ -1,0 +1,49 @@
+{
+ "_about": "Hastings Rashdall (1858-1924), raw IA OCR (Osmania University scans): The Theory of Good and Evil, a treatise on moral philosophy (Oxford: Clarendon Press, 1907, 2 vols.). US public domain. No uids minted.",
+ "_author": "Hastings Rashdall",
+ "_name_words": [
+  "hastings",
+  "rashdall",
+  "h"
+ ],
+ "_surname": [
+  "rashdall"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rashdall-theory-of-good-and-evil-1907-v1": [
+   "theoryofgoodande029639mbp",
+   "The Theory of Good and Evil, vol. I (Oxford: Clarendon Press, 1907)"
+  ],
+  "rashdall-theory-of-good-and-evil-1907-v2": [
+   "theoryofgoodande032458mbp",
+   "The Theory of Good and Evil, vol. II (Oxford: Clarendon Press, 1907)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "rashdall-theory-of-good-and-evil-1907-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "rashdall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rashdall-theory-of-good-and-evil-1907-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "rashdall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
