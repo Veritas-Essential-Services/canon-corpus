@@ -3631,6 +3631,7 @@ Shelf: `pipeline/rousseau_shelf.json`. Jean-Jacques Rousseau (1712-1778): the Co
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Confessions of Jean Jacques Rousseau, complete (London: Aldus Society, 1903) | unnamed in the book | `rousseau-confessions-1903` | have (PG 3913) |
 
 ## Locke
 
