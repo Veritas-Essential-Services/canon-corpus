@@ -95,7 +95,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `steel` | 2 Gutenberg | 0 | 3,888 | Tales of the Punjab (1894), English Fairy Tales (1918) |
 | `crane` | 1 Gutenberg | 0 | 1,963 | Italian Popular Tales (1885), tr. Crane, by chapter and tale |
 | `grinnell` | 11 Gutenberg | 0 | 12,120 | Plains Indian tales and the Jack books for boys. Completed 2026-10-17: 7 more books added, every English text by George Bird Grinnell at Gutenberg that no other shelf holds. |
-| `harris-remus` | 4 Gutenberg | 0 | 5,087 | the Uncle Remus books 1880-1907. **Your call:** real folk tales inside a racist frame and dialect; keep, keep with a reader's note, or drop |
+| `harris-remus` | 18 Gutenberg | 0 | 19,040 | The Uncle Remus books and other stories; their dialect and portrayals are of their time. Completed 2026-10-17: 14 more books added, every English text by Joel Chandler Harris at Gutenberg that no other shelf holds. |
 | `burnett` | 42 Gutenberg | 0 | 47,126 | Children's books, novels and stories. Completed 2026-10-17: 35 more books added, every English text by Frances Hodgson Burnett at Gutenberg that no other shelf holds. |
 | `alcott` | 41 Gutenberg | 0 | 47,940 | Novels and stories for girls and adults. Completed 2026-10-17: 32 more books added, every English text by Louisa May Alcott at Gutenberg that no other shelf holds. |
 | `spyri` | 4 Gutenberg | 0 | 4,227 | Heidi (tr. Marion Edwards, as Gutenberg spells it; and tr. Stork 1915), Moni the Goat-Boy (tr. Dole), Rico and Wiseli (tr. Brooks). Two witnesses of Heidi; Abbott's 1927 translation held back. |

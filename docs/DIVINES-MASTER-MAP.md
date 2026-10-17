@@ -16862,7 +16862,7 @@ Shelf: `pipeline/grinnell_shelf.json` (2026-10-02; added at the coordinator's re
 
 ## Joel Chandler Harris (Uncle Remus)
 
-Shelf: `pipeline/harris-remus_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). African American folk tales of Brer Rabbit in Harris's rendering of plantation dialect, inside a frame that carries the racism of its time and place; the shelf note says so plainly. Four books, two cut by their own Contents. Not in the manifest; no uids minted.
+Shelf: `pipeline/harris-remus_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Uncle Remus books and other stories; their dialect and portrayals are of their time. All 18 of Joel Chandler Harris's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -16870,8 +16870,23 @@ Shelf: `pipeline/harris-remus_shelf.json` (2026-10-02; added at the coordinator'
 | Nights with Uncle Remus: Myths and Legends of the Old Plantation (1883) | have | PG 26429, `remus-nights-with-uncle-remus` (3087 units) |
 | Told by Uncle Remus: New Stories of the Old Plantation (1905) | have | PG 55676, `remus-told-by-uncle-remus` (702 units) |
 | Uncle Remus and Brer Rabbit (1907) | have | PG 22282, `remus-uncle-remus-and-brer-rabbit` (170 units) |
+| Mingo, and Other Sketches in Black and White | have | PG 19648, `remus-mingo-and-other-sketches-in-black-and-white` (817 units) |
+| Little Mr. Thimblefinger and His Queer Country | have | PG 23869, `remus-little-mr-thimblefinger-and-his-queer-country` (1297 units) |
+| A Little Union Scout | have | PG 23871, `remus-a-little-union-scout` (670 units) |
+| Stories Of Georgia | have | PG 24728, `remus-stories-of-georgia` (588 units) |
+| Free Joe and Other Georgian Sketches | have | PG 31160, `remus-free-joe-and-other-georgian-sketches` (1050 units) |
+| Gabriel Tolliver: A Story of Reconstruction | have | PG 33058, `remus-gabriel-tolliver` (2041 units) |
+| The Bishop and the Boogerman | have | PG 36370, `remus-bishop-and-the-boogerman` (457 units) |
+| On the Plantation: A Story of a Georgia Boy's Adventures during the War | have | PG 50701, `remus-on-the-plantation` (915 units) |
+| Aaron in the Wildwoods | have | PG 52782, `remus-aaron-in-the-wildwoods` (1106 units) |
+| Balaam and His Master, and Other Sketches and Stories | have | PG 56883, `remus-balaam-and-his-master-and-other-sketches-and-stories` (1071 units) |
+| Mr. Rabbit at Home A sequel to Little Mr. Thimblefinger and his Queer Country | have | PG 60098, `remus-mr-rabbit-at-home-a-sequel-to-little-mr-thimblefinger` (1444 units) |
+| Daddy Jake the Runaway, and Short Stories Told after Dark | have | PG 60804, `remus-daddy-jake-the-runaway-and-short-stories-told-after-da` (822 units) |
+| The Chronicles of Aunt Minervy Ann | have | PG 64770, `remus-chronicles-of-aunt-minervy-ann` (709 units) |
+| The story of Aaron (so named) the son of Ben Ali | have | PG 74880, `remus-story-of-aaron-so-named-the-son-of-ben-ali` (966 units) |
 | remus-duplicates | excluded | Uncle Remus, His Songs and His Sayings (PG 21605): a second transcription; Nights with Uncle Remus (PG 24430): the later Milo Winter edition of the same book |
 | remus-other | excluded | his other fiction and sketches (Free Joe, Mingo, Thimblefinger books and others): not Uncle Remus; candidates for a later batch |
+| remus-index-of-the-project-gutenberg-works-of-joel-chandler | excluded | PG 58687 is David Widger's index, not a text |
 
 ## Frances Hodgson Burnett
 

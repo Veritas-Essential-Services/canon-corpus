@@ -394,8 +394,8 @@
       "id": "harris-remus",
       "status": "done",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Joel Chandler Harris's Uncle Remus books; no minting",
-      "finished": "2026-10-02T19:40:18-05:00",
-      "notes": "4/4 fetched (Gutenberg 2306, 26429, 55676, 22282), 5,087 units, 21 ~2 ids. Content flagged for Adam in DIGEST."
+      "finished": "2026-10-17T17:53:02-05:00",
+      "notes": "harris-remus: completed, 14 more Gutenberg books (18 on the shelf), 19,040 units, 40 ~2 ids; verify 0 mismatches, 0 rights flags."
     },
     {
       "id": "burnett",
