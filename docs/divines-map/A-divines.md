@@ -5301,3 +5301,17 @@ Slugs `mechthild-*`. Translator: Frances Bevan. Her extracts are woven into Beva
 |---|---|---|
 | Matelda and the Cloister of Hellfde: extracts from the Book of Matilda of Magdeburg, selected and translated by Frances Bevan (London: James Nisbet, 1896) | have-clean | Gutenberg 35811 |
 | Morel's German edition (Regensburg, 1869) | excluded | |
+
+## Bridget of Sweden (round 25, my pick, 2026-10-17)
+
+Slugs `bridget-*`. Translator: Graf (1928); the Sadlier Revelations name none; the EETS volume is the anonymous Middle English, ed. Cumming.
+
+| Work | Status | Where |
+|---|---|---|
+| Revelations of St. Bridget on the Life and Passion of Our Lord, with an essay by William H. Neligan (New York: D. & J. Sadlier, 1862) | have-ocr | IA `RevelationsOfStBridget` |
+| The Revelations of Saint Birgitta, from the fifteenth-century MS. in the Garrett Collection, ed. William Patterson Cumming (London: EETS, 1929) | have-ocr | IA `revelationsofstb0000wpcu` |
+| The Revelations and Prayers of St Bridget of Sweden, being the Sermo Angelicus, tr. Ernest Graf (Benziger Brothers, first published 1928) | have-ocr | IA `revelationspraye0000vari` |
+| Other copies of the EETS volume and an undated Sadlier reprint | alternate | not shelved |
+| The Fifteen Oes prayers (1663, 1686) and Four Revelations in Godfray's print of about 1532 (facsimile, Stockholm 1916) | alternate | not shelved |
+| The Kraus reprint of the EETS volume and modern uploads | excluded | |
+| Latin, German and Swedish editions | excluded | |
