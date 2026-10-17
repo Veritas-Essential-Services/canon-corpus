@@ -5003,3 +5003,30 @@ Slugs `cloud-*`. Anonymous work: the identity check is the title. Editors: Henry
 | The Cloud of Unknowing and Other Treatises, with Baker's commentary, ed. Justin McCann, Orchard Books (London: Burns Oates, 1924) | have-ocr | IA `thecloudofunknowingbamccann` |
 | Other 1871 copies; Underhill's second edition (1922; also CCEL anonymous2/cloud); McCann, Benziger issue (1924) | alternate | not shelved |
 | uploads with impossible or modern dates (the-cloud-of-unknowing-3, TheCloudOfUnknowing_201808, cloudofunknowing0000unse_j3a7) | excluded | |
+
+## Teresa of Avila (round 24, my pick, 2026-10-17)
+
+Slugs `teresa-*`. Translators: David Lewis, John Dalton, the Benedictines of Stanbrook.
+
+| Work | Status | Where |
+|---|---|---|
+| The Life of St. Teresa of Jesus, Written by Herself, tr. David Lewis, third edition enlarged (London: Thomas Baker, MCMIV) | have-clean | CCEL teresa/life |
+| The Life of Saint Teresa, Written by Herself, tr. John Dalton (London: C. Dolman, MDCCCLI) | have-ocr | IA `lifesaintteresa00teregoog` |
+| The Book of the Foundations of S. Teresa of Jesus, tr. David Lewis (London: Burns, Oates, 1871) | have-ocr | IA `bookfoundations00teregoog` |
+| The Way of Perfection, and Conceptions of Divine Love, tr. John Dalton (London: C. Dolman; catalogued 1852) | have-ocr | IA `wayperfectionan00teregoog` |
+| The Way of Perfection, tr. the Benedictines of Stanbrook (London: Thomas Baker, MCMXI) | have-ocr | IA `wayofperfection00tere_0` |
+| The Interior Castle; or, The Mansions, with some of her Letters, tr. John Dalton (London: T. Jones, 1852) | have-ocr | IA `interiorcastleor00tere_0` |
+| The Interior Castle or The Mansions, tr. the Benedictines of Stanbrook, second edition (New York: Benziger; imprimatur 1912) | have-ocr | IA `TheInteriorCastle2ndEd1912` |
+| The Letters of Saint Teresa, tr. John Dalton (London: Catholic Publishing and Bookselling Co., 1860) | have-ocr | IA `lettersofsaintte0000tere` |
+| The Letters of Saint Teresa, complete edition, vol. I, tr. the Benedictines of Stanbrook (London: Thomas Baker, MCMXIX) | have-ocr | IA `letterst01tere` |
+| The Letters of Saint Teresa, vol. II, tr. the Benedictines of Stanbrook (London: Thomas Baker, MCMXXI) | have-ocr | IA `letterst02tere` |
+| The Letters of Saint Teresa, vol. III, tr. the Benedictines of Stanbrook (London: Thomas Baker, MCMXXII) | have-ocr | IA `lettersofsaintte03tere` |
+| Minor Works of St. Teresa: Conceptions of the Love of God, Exclamations, Maxims and Poems, tr. the Benedictines of Stanbrook (London: Thomas Baker, MCMXIII) | have-ocr | IA `minorworksconcep00tereuoft` |
+| Lewis's first edition of the Life (Burns, Oates, 1870; lifeofsteresaofj00tere), the same translation as the CCEL text | alternate | not shelved |
+| Later printings: the Life (1888, 1904, 1916; Dalton's American editions), the Foundations (1913), the Interior Castle (1921), the Way of Perfection (1901, 1919), Dalton's Letters (1893), Stanbrook Letters vol. III (Benziger 1922) | alternate | not shelved |
+| Saint Theresa: the History of her Foundations, tr. Sister Agnes Mason (Cambridge, 1909) | alternate | not shelved |
+| The Columbus Press compilation (New York, 1911) | alternate | not shelved |
+| The Flaming Hart (Antwerp, 1642) and other seventeenth- and eighteenth-century versions, translators unnamed | alternate | not shelved |
+| CCEL teresa/way (Peers, 1964); teresa/castle2 is a 1921 transcription superseded by the 1912 scan | excluded | |
+| Lives and appreciations by others; The Spirit of S. Teresa (a compilation) | excluded | |
+| printings of 1930 and later; French editions | excluded | |

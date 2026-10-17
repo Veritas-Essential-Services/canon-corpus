@@ -1087,3 +1087,6 @@
 
 ## 2026-10-17 17:35 CDT — cloud-of-unknowing done
 - `pipeline/cloud-of-unknowing_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:40 CDT — teresa-of-avila done
+- `pipeline/teresa-of-avila_shelf.json`: 1 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.
