@@ -4882,8 +4882,7 @@ Shelf: `pipeline/john-venn_shelf.json`. Logic and probability, in English.
 |---|---|---|---|
 | The Logic of Chance, 3rd ed. (London: Macmillan, 1888) |  | `venn-logic-of-chance-1888` | have (PG 57359) |
 | Symbolic Logic (London: Macmillan, 1881) |  | `venn-symbolic-logic-1881` | have-raw (IA `symboliclogic00vennuoft`) |
-
-Pending (wishlist): Venn's Principles of Empirical or Inductive Logic (1889)
+| The Principles of Empirical or Inductive Logic (London: Macmillan, 1889) |  | `venn-empirical-or-inductive-logic-1889` | have-raw (IA `principlesoflogi00vennuoft`) |
 
 ## Alexander Bain
 
@@ -4924,8 +4923,7 @@ Shelf: `pipeline/karl-pearson_shelf.json`. Positivist philosophy of science.
 | Work | Note | Slug | Status |
 |---|---|---|---|
 | The Grammar of Science, 2nd ed. (London: A. and C. Black, 1900) |  | `pearson-grammar-of-science-1900` | have-raw (IA `grammarofscience00pearuoft`) |
-
-Pending (wishlist): The Ethic of Freethought (1888)
+| The Ethic of Freethought, a selection of essays and lectures (London: T. Fisher Unwin, 1888) |  | `pearson-ethic-of-freethought-1888` | have-raw (IA `ethicoffreethoug00pear`) |
 
 ## John Maynard Keynes
 
@@ -5015,8 +5013,7 @@ Shelf: `pipeline/ralph-barton-perry_shelf.json`. American new realism; only work
 |---|---|---|---|
 | The Approach to Philosophy (New York: Scribner, 1905) |  | `perry-approach-to-philosophy-1905` | have (PG 25110) |
 | The Moral Economy (New York: Scribner, 1909) |  | `perry-moral-economy-1909` | have (PG 22135) |
-
-Pending (wishlist): Present Philosophical Tendencies (1912); The New Realism (1912, with Holt and others)
+| Present Philosophical Tendencies, with a synopsis of the philosophy of William James (New York: Longmans, Green; first published 1912, this a new impression of 1921) |  | `perry-present-philosophical-tendencies-1921` | have-raw (IA `presentphilosoph00perr_0`) |
 
 ## Felix Adler
 
@@ -5048,8 +5045,9 @@ Shelf: `pipeline/james-mark-baldwin_shelf.json`. Genetic psychology and philosop
 | Work | Note | Slug | Status |
 |---|---|---|---|
 | The Story of the Mind (New York: Appleton, 1905) |  | `baldwin-story-of-the-mind-1905` | have (PG 20522) |
+| Mental Development in the Child and the Race (New York and London: Macmillan, 1895) |  | `baldwin-mental-development-1895` | have-raw (IA `mentaldevelopme00bald`) |
 
-Pending (wishlist): Thought and Things (1906-11); Mental Development in the Child and the Race (1895)
+Pending (wishlist): Thought and Things (1906-11)
 
 ## C. I. Lewis
 
@@ -5066,18 +5064,18 @@ Shelf: `pipeline/william-ernest-hocking_shelf.json`. Idealist philosophy of reli
 | Work | Note | Slug | Status |
 |---|---|---|---|
 | The Meaning of God in Human Experience (New Haven: Yale University Press, 1912; printing of 1928) |  | `hocking-meaning-of-god-1912-printed-1928` | have-raw (IA `meaningofgodinhu12hock`) |
+| Human Nature and its Remaking (New Haven: Yale University Press, 1918) |  | `hocking-human-nature-and-its-remaking-1918` | have-raw (IA `humannaturerema00hockuoft`) |
 
-Pending (wishlist): Human Nature and its Remaking (1918); Man and the State (1926)
+Pending (wishlist): Man and the State (1926)
 
 ## Mary Whiton Calkins
 
-Shelf: `pipeline/mary-whiton-calkins_shelf.json`. Personalist metaphysics.
+Shelf: `pipeline/mary-whiton-calkins_shelf.json`. Personalist metaphysics and ethics.
 
 | Work | Note | Slug | Status |
 |---|---|---|---|
 | The Persistent Problems of Philosophy, 4th revised ed. (New York: Macmillan, 1921) |  | `calkins-persistent-problems-of-philosophy-1921` | have-raw (IA `cu31924029119563`) |
-
-Pending (wishlist): The Good Man and the Good (1918)
+| The Good Man and the Good, an introduction to ethics (New York: Macmillan, 1918) |  | `calkins-good-man-and-the-good-1918` | have-raw (IA `thegoodmanandthe00calkuoft`) |
 
 ## Hugo Münsterberg (philosophy)
 
@@ -5086,8 +5084,7 @@ Shelf: `pipeline/hugo-munsterberg_shelf.json`. Philosophy of values.
 | Work | Note | Slug | Status |
 |---|---|---|---|
 | The Eternal Values (Boston: Houghton Mifflin, 1909) |  | `munsterberg-eternal-values-1909` | have-raw (IA `eternalvalues00muns`) |
-
-Pending (wishlist): Science and Idealism (1906)
+| Science and Idealism, the William Vaughn Moody lecture (Boston: Houghton Mifflin, 1906) |  | `munsterberg-science-and-idealism-1906` | have-raw (IA `scienceandideali00meunuoft`) |
 
 ## Edwin B. Holt
 
@@ -5097,8 +5094,7 @@ Shelf: `pipeline/edwin-b-holt_shelf.json`. American new realism, including the 1
 |---|---|---|---|
 | The Concept of Consciousness (London: George Allen, 1914) |  | `holt-concept-of-consciousness-1914` | have-raw (IA `theconceptofcons00holtuoft`) |
 | The New Realism: cooperative studies in philosophy, with Marvin, Montague, Perry, Pitkin and Spaulding (New York: Macmillan, 1912) |  | `holt-and-others-new-realism-1912` | have-raw (IA `cu31924014628360`) |
-
-Pending (wishlist): The Freudian Wish and its Place in Ethics (1915)
+| The Freudian Wish and its Place in Ethics (New York: Henry Holt, 1915) |  | `holt-freudian-wish-1915` | have-raw (IA `freudianwishitsp007914mbp`) |
 
 ## George Sylvester Morris
 
@@ -5107,8 +5103,10 @@ Shelf: `pipeline/george-sylvester-morris_shelf.json`. Hegelian idealism in Ameri
 | Work | Note | Slug | Status |
 |---|---|---|---|
 | British Thought and Thinkers (Chicago: S. C. Griggs, 1880) |  | `morris-british-thought-and-thinkers-1880` | have-raw (IA `britishthought00morruoft`) |
+| Kant's Critique of Pure Reason: a critical exposition, Griggs's Philosophical Classics (Chicago: S. C. Griggs, 1882) |  | `morris-kants-critique-exposition-1882` | have-raw (IA `kantscritiqueofp00morr`) |
+| Philosophy and Christianity, Ely lectures (New York: Robert Carter, 1883) |  | `morris-philosophy-and-christianity-1883` | have-raw (IA `philosophychrist00morr`) |
 
-Pending (wishlist): Philosophy and Christianity (1883); Kant's Critique of Pure Reason, a critical exposition (1882); Hegel's Philosophy of the State and of History (1887)
+Pending (wishlist): Hegel's Philosophy of the State and of History (1887)
 
 ## Perseus census (overflow)
 

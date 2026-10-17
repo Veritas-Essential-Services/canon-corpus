@@ -1,5 +1,5 @@
 {
- "_about": "George Sylvester Morris (1840-1889), Dewey's teacher: British Thought and Thinkers, introductory studies, critical, biographical and philosophical (Chicago: S. C. Griggs, 1880), raw IA OCR. US public domain. No uids minted.",
+ "_about": "George Sylvester Morris (1840-1889), Dewey's teacher: British Thought and Thinkers, introductory studies, critical, biographical and philosophical (Chicago: S. C. Griggs, 1880), raw IA OCR. Added in round ab: Kant's Critique of Pure Reason: a critical exposition, Griggs's Philosophical Classics (Chicago: S. C. Griggs, 1882); Philosophy and Christianity, Ely lectures (New York: Robert Carter, 1883). US public domain. No uids minted.",
  "_author": "George Sylvester Morris",
  "_name_words": [
   "george",
@@ -17,6 +17,14 @@
   "morris-british-thought-and-thinkers-1880": [
    "britishthought00morruoft",
    "British Thought and Thinkers (Chicago: S. C. Griggs, 1880)"
+  ],
+  "morris-kants-critique-exposition-1882": [
+   "kantscritiqueofp00morr",
+   "Kant's Critique of Pure Reason: a critical exposition, Griggs's Philosophical Classics (Chicago: S. C. Griggs, 1882)"
+  ],
+  "morris-philosophy-and-christianity-1883": [
+   "philosophychrist00morr",
+   "Philosophy and Christianity, Ely lectures (New York: Robert Carter, 1883)"
   ]
  },
  "_excluded": {},
@@ -29,6 +37,28 @@
    "identity": "ok",
    "ia_rights": "ok: published 1880",
    "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morris-kants-critique-exposition-1882": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george s. morris",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "morris-philosophy-and-christianity-1883": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george s. morris",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
