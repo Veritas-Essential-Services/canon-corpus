@@ -4945,6 +4945,23 @@ Slugs `theologia-germanica-*`. Anonymous work: the identity check is the title. 
 | Theologia Germanica, ed. Pfeiffer, tr. Susanna Winkworth, with a preface by Charles Kingsley (London: Longman, 1854) | have-ocr | IA `theologiagermani00franiala` |
 | Old German Theology, a Hundred Years before the Reformation, tr. Georgiana Malcolm (London: Arthur Hall, Virtue, 1854) | have-ocr | IA `oldgermantheolo00deutgoog` |
 | Second 1854 Winkworth copy (theologiagerman00johagoog); Andover 1855 and 1860 and Macmillan 1874, 1893 and 1907 printings; CCEL anonymous/theologia (the 1893 Golden Treasury text) | alternate | not shelved |
+
+## Walter Hilton (round 24, my pick, 2026-10-17)
+
+Slugs `hilton-*`. Cressy's text (1908), Underhill's edition (1923), Dorothy Jones's Minor Works (1929).
+
+| Work | Status | Where |
+|---|---|---|
+| A Treatise Written to a Devout Man (London: Art and Book Company; New York: Benziger, 1901) | have-clean | CCEL hilton/treatise |
+| The Scale (or Ladder) of Perfection, new edition of Cressy's text, with an essay by J. B. Dalgairns (Westminster: Art and Book Company, 1908) | have-ocr | IA `scaleorladderofp00hilt` |
+| The Scale of Perfection, newly edited from manuscript sources by Evelyn Underhill (London: John M. Watkins, 1923) | have-ocr | IA `hiltonscaleofperfection` |
+| Minor Works of Walter Hilton, ed. Dorothy Jones, Orchard Books (London: Burns Oates, first published 1929) | have-ocr | IA `minorworksofwalt0000doro` |
+| CCEL hilton/ladder: no print source stated (the same Cressy text as the 1908 scan) | alternate | not shelved |
+| The Scale modernised from Wynkyn de Worde by an anonymous Oblate of Solesmes (Orchard Books, 1927) | alternate | not shelved |
+| Other copies of the 1908 and 1923 editions | alternate | not shelved |
+| CCEL hilton/angels, from Gardner's Cell of Self-Knowledge, no imprint | alternate | not shelved |
+| Suso's Little Book with Hilton's Parable of the Pilgrim (mainly Suso); The Cell of Self-Knowledge (anthology, PG 4544); the Stimulus Divini Amoris (credited to Bonaventure) | excluded | |
+| editions of 1948 and later | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
