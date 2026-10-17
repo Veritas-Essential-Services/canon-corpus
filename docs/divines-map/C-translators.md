@@ -6132,6 +6132,27 @@ Round 55 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `broadway-rousseau-reveries` | — | The Reveries of a Solitary, tr. John Gould Fletcher (Routledge, 1927; archive.org dli.ministry.22007, undated scan): Rousseau has another lane's shelf (rousseau), so it is left for that lane. | — | — | pending | — |
 | `broadway-not-found` | — | No open scan found (searched 2026-10-17): Diderot's Memoirs of a Nun (Birrell, 1928), Madame du Hausset's Memoirs of Madame de Pompadour (Flint, 1928), Crébillon/Voisenon/Montesquieu short stories (Jackson), Joubert (H. P. Collins), Madame de Staal-Delaunay (Raymond Mortimer), the September Massacres (Partridge), Paradis de Moncrif's Zeloide (Scott Moncrieff), Lespinasse (Mills), Madame d'Epinay (Allingham), Voltaire and du Deffand. | — | — | pending | — |
 
+## Series shelf: The Broadway Travellers (Routledge, ed. Denison Ross and Eileen Power, 1926-29): Tafur, Clavijo, Ibn Battuta, Bontekoe, Cortés, Mornay, Don Juan of Persia, Akbar and the Jesuits, Bernal Díaz
+
+Shelf: `pipeline/broadway-travellers_shelf.json` · fetch `python3 pipeline/fetch_shelf.py broadway-travellers` · titles `python3 pipeline/split_shelf_titles.py broadway-travellers`.
+Round 56 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `broadway-travellers-tafur` | Pero Tafur | Travels and Adventures, 1435-1439 | Malcolm Letts | 1926 | have-raw | IA `ldpd_6352599_000` |
+| `broadway-travellers-clavijo` | Ruy González de Clavijo | Embassy to Tamerlane, 1403-1406 | Guy Le Strange | 1928 | have-raw | IA `b31354932` |
+| `broadway-travellers-ibn-battuta` | Ibn Battuta | Travels in Asia and Africa, 1325-1354 (selections) | H. A. R. Gibb | 1929 | have-raw | IA `pli.kerala.rare.27987` |
+| `broadway-travellers-bontekoe` | Willem Ysbrandsz. Bontekoe | Memorable Description of the East Indian Voyage, 1618-25 | C. B. Bodde-Hodgkinson and Pieter Geyl | 1929 | have-raw | IA `memorabledescrip0000bont` |
+| `broadway-travellers-cortes-five-letters` | Hernán Cortés | Five Letters, 1519-1526 | J. Bayard Morris | 1928 | have-raw | IA `dli.ministry.13876` |
+| `broadway-travellers-huguenot-family` | Charlotte Arbaleste, Madame de Mornay | A Huguenot Family in the XVI Century: the Memoirs of Philippe de Mornay, Sieur du Plessis Marly, written by his wife | Lucy Crump | 1926 | have-raw | IA `huguenotfamilyin0000morn` |
+| `broadway-travellers-don-juan-of-persia` | Don Juan of Persia (Uruch Beg) | Don Juan of Persia, a Shi'ah Catholic, 1560-1604 | Guy Le Strange | 1926 | have-raw | IA `donjuanofpersias00juan` |
+| `broadway-travellers-akbar-and-the-jesuits` | Pierre du Jarric | Akbar and the Jesuits: an account of the Jesuit missions to the court of Akbar | C. H. Payne | 1926 | have-raw | IA `akbarjesuitsacco00duja` |
+| `broadway-travellers-bernal-diaz` | Bernal Díaz del Castillo | The Discovery and Conquest of Mexico, 1517-1521 | A. P. Maudslay | 1928 | have-raw | IA `bernaldiazdelcas002605mbp` |
+| `broadway-travellers-1930` | — | Printed in 1930, so waiting on the 1930 ruling: Jahangir and the Jesuits (C. H. Payne; dli.ministry.03303), Jewish Travellers (Elkan Nathan Adler; McGillLibrary-108936-464), Madame d'Aulnoy's Travels into Spain (dli.ministry.04080) and Boxer's Commentaries of Ruy Freyre de Andrada. | — | — | pending | — |
+| `broadway-travellers-1931` | — | The Travels of an Alchemist (Arthur Waley, 1931) is too late. | — | — | pending | — |
+| — | — | huc-gabet: Huc and Gabet's Travels in Tartary (1928 reissue) is Hazlitt's 1852 translation, already on the hazlitt-huc shelf. | — | — | excluded | — |
+| — | — | ia-travelsinasiaafr0000muha: A later reprint of Gibb's Ibn Battuta (front matter lists years to 1969). | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
