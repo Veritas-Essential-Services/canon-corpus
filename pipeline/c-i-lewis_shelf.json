@@ -1,0 +1,35 @@
+{
+ "_about": "C. I. Lewis (1883-1964): A Survey of Symbolic Logic, University of California semicentennial publications (Berkeley: University of California Press, 1918), raw IA OCR at a clean ratio of 0.789 (symbol-heavy pages). His later books were published after 1930 and are not taken. US public domain (published 1918). No uids minted.",
+ "_author": "C. I. Lewis",
+ "_name_words": [
+  "clarence",
+  "irving",
+  "lewis"
+ ],
+ "_surname": [
+  "lewis",
+  "c. i. lewis"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lewis-survey-of-symbolic-logic-1918": [
+   "asurveyofsymboli00lewiuoft",
+   "A Survey of Symbolic Logic (Berkeley: University of California Press, 1918)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "lewis-survey-of-symbolic-logic-1918": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lewis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
