@@ -169,7 +169,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `mooney` | 1 Gutenberg | 0 | 3,565 | Myths of the Cherokee. |
 | `judson` | 5 Gutenberg | 0 | 4,593 | Myths and Legends of California and the Old Southwest, of the Great Plains, of the Mississippi Valley and the Great Lakes, of Alaska, of British North America. |
 | `nassau` | 1 Gutenberg | 0 | 1,528 | Where Animals Talk. |
-| `coolidge` | 9 Gutenberg | 0 | 8,508 | What Katy Did, What Katy Did at School, What Katy Did Next, Clover, In the High Valley, Nine Little Goslings, Eyebright, A Round Dozen, The New-Year's Bargain. |
+| `coolidge` | 15 Gutenberg | 0 | 13,052 | The Katy books and other stories for girls. Completed 2026-10-17: 6 more books added, every English text by Susan Coolidge at Gutenberg that no other shelf holds. |
 | `lucretia-hale` | 2 Gutenberg | 0 | 2,135 | The Peterkin Papers, The Last of the Peterkins. PG 25648, a second transcription of The Peterkin Papers, is held once (82% containment). |
 | `margaret-sidney` | 12 Gutenberg | 0 | 31,901 | Five Little Peppers and How They Grew and ten more Pepper books, The Stories Polly Pepper Told. |
 | `eleanor-porter` | 3 Gutenberg | 0 | 5,849 | Pollyanna, Pollyanna Grows Up, Just David. |

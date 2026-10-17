@@ -17816,7 +17816,7 @@ Shelf: `pipeline/nassau_shelf.json` (2026-10-02; added at the coordinator's rela
 
 ## Susan Coolidge (Sarah Chauncey Woolsey)
 
-Shelf: `pipeline/coolidge_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Katy books and her other girls' stories, written for the young. Not in the manifest; no uids minted.
+Shelf: `pipeline/coolidge_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Katy books and other stories for girls. All 15 of Susan Coolidge's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -17829,6 +17829,13 @@ Shelf: `pipeline/coolidge_shelf.json` (2026-10-02; added at the coordinator's re
 | Eyebright | have | PG 27223, `coolidge-eyebright` (857 units) |
 | A Round Dozen | have | PG 35186, `coolidge-round-dozen` (1030 units) |
 | The New-Year's Bargain | have | PG 58762, `coolidge-new-years-bargain` (730 units) |
+| Verses | have | PG 4560, `coolidge-verses` (493 units) |
+| A Little Country Girl | have | PG 27162, `coolidge-a-little-country-girl` (956 units) |
+| Not Quite Eighteen | have | PG 33927, `coolidge-not-quite-eighteen` (884 units) |
+| Just Sixteen. | have | PG 41641, `coolidge-just-sixteen` (1099 units) |
+| Last Verses | have | PG 49000, `coolidge-last-verses` (484 units) |
+| A Few More Verses | have | PG 49518, `coolidge-a-few-more-verses` (628 units) |
+| coolidge-who-ate-the-pink-sweetmeat-and-other-christmas-stor | excluded | PG 48747, Who Ate the Pink Sweetmeat?, is a many-author volume |
 
 ## Lucretia P. Hale
 
