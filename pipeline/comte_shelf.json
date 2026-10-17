@@ -45,6 +45,11 @@
    "cu31924092570625",
    "System of Positive Polity, vol. IV: the theory of the future of man, with an appendix of early essays (London: Longmans, Green, 1877)",
    "tr. Richard Congreve"
+  ],
+  "comte-congreve-catechism-1858": [
+   "catechismofposit00comt",
+   "The Catechism of Positive Religion, translated from the French (London: John Chapman, MDCCCLVIII)",
+   "tr. Richard Congreve"
   ]
  },
  "_excluded": {},
@@ -53,7 +58,8 @@
   "comte-martineau-positive-philosophy-1896-v2": "Martineau",
   "comte-martineau-positive-philosophy-1896-v3": "Martineau",
   "comte-polity-1875-v1": "Bridges",
-  "comte-polity-1876-v3": "Lushington"
+  "comte-polity-1876-v3": "Lushington",
+  "comte-congreve-catechism-1858": "Congreve"
  },
  "_checks": {
   "comte-martineau-positive-philosophy-1896-v1": {
@@ -140,6 +146,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1875",
    "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "comte-congreve-catechism-1858": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "comte",
+   "translator_claimed": "Congreve",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
