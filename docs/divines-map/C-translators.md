@@ -6370,6 +6370,29 @@ Round 67 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | legge-fa-hien: Legge's Record of Buddhistic Kingdoms (1886, PG 2124) is already on the legge shelf. | — | — | excluded | — |
 | — | — | later-reprints: Asian Educational Services, Paragon, Munshiram Manoharlal and Orientalia Indica reprints of these titles on archive.org (e.g. lifeofhuuentsian00sham, recordofbuddhist0000faxi, dli.ernet.233945): later reprints, not used. | — | — | excluded | — |
 
+## Shelf: Persian, Tamil and Sanskrit classics in English before 1931: the Warners' complete verse Shahnama of Firdausi (9 vols), G. U. Pope's Kural, Naladiyar and Tiruvacagam, H. H. Wilson's Vishnu Purana
+
+Shelf: `pipeline/oriental-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py oriental-classics` · titles `python3 pipeline/split_shelf_titles.py oriental-classics`.
+Round 68 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `oriental-classics-shahnama-1` | Firdausi, the Shahnama | The Shahnama of Firdausi, vol. I | Arthur George Warner and Edmond Warner | 1905 | have-raw | IA `shahnama01firduoft` |
+| `oriental-classics-shahnama-2` | Firdausi, the Shahnama | The Shahnama of Firdausi, vol. II | Arthur George Warner and Edmond Warner | 1906 | have-raw | IA `shahnama02firduoft` |
+| `oriental-classics-shahnama-3` | Firdausi, the Shahnama | The Shahnama of Firdausi, vol. III | Arthur George Warner and Edmond Warner | 1908 | have-raw | IA `shahnama03firduoft` |
+| `oriental-classics-shahnama-4` | Firdausi, the Shahnama | The Shahnama of Firdausi, vol. IV | Arthur George Warner and Edmond Warner | 1909 | have-raw | IA `shahnama04firduoft` |
+| `oriental-classics-shahnama-5` | Firdausi, the Shahnama | The Shahnama of Firdausi, vol. V | Arthur George Warner and Edmond Warner | 1910 | have-raw | IA `shahnama05firduoft` |
+| `oriental-classics-shahnama-6` | Firdausi, the Shahnama | The Shahnama of Firdausi, vol. VI | Arthur George Warner and Edmond Warner | 1912 | have-raw | IA `shahnama06firduoft` |
+| `oriental-classics-shahnama-7` | Firdausi, the Shahnama | The Shahnama of Firdausi, vol. VII | Arthur George Warner and Edmond Warner | 1915 | have-raw | IA `shahnama07firduoft` |
+| `oriental-classics-shahnama-8` | Firdausi, the Shahnama | The Shahnama of Firdausi, vol. VIII | Arthur George Warner and Edmond Warner | 1923 | have-raw | IA `shahnama08firduoft` |
+| `oriental-classics-shahnama-9` | Firdausi, the Shahnama | The Shahnama of Firdausi, vol. IX | Arthur George Warner and Edmond Warner | 1925 | have-raw | IA `shahnama09firduoft` |
+| `oriental-classics-sacred-kurral` | Tiruvalluvar, the Tirukkural | The 'Sacred' Kurral of Tiruvalluva-Nayanar | G. U. Pope | 1886 | have-raw | IA `tiruvalluvanayan00tiruuoft` |
+| `oriental-classics-naladiyar` | The Naladiyar (Jain Tamil quatrains) | The Naladiyar, or Four Hundred Quatrains in Tamil | G. U. Pope | 1893 | have-raw | IA `munivararuliccey00poperich` |
+| `oriental-classics-tiruvacagam` | Manikkavacakar, the Tiruvacagam | The Tiruvacagam, or 'Sacred Utterances' of the Tamil Poet, Saint and Sage Manikka-vacagar | G. U. Pope | 1900 | have-raw | IA `tiruvaagamorsa00manirich` |
+| `oriental-classics-vishnu-purana` | The Vishnu Purana | The Vishnu Purana: a System of Hindu Mythology and Tradition | H. H. Wilson | 1840 | have-raw | IA `in.ernet.dli.2015.283854` |
+| — | — | later-reprints: Asian Educational Services and South India Saiva Siddhanta reprints of Pope's Kural and Naladiyar (sacredkurralofti00revg, naladiyarorfourh00gupo, the 1958 Naladiyar): later reprints, not used. | — | — | excluded | — |
+| — | — | wilson-hall-edition: Fitzedward Hall's enlarged edition of Wilson's Vishnu Purana (Trübner, 1864-77) is not added alongside the 1840 original, to avoid two copies of one translation. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

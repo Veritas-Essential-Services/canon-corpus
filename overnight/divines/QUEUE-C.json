@@ -3424,6 +3424,14 @@
       "finished": "2026-10-17T18:27-05:00",
       "scope": "TRANSLATOR SHELF (round 67, lane C's choice; Adam may veto) -- east-asian-classics; PD printings before 1931 only; no minting",
       "notes": "9 titles; ids checked across all branches. See DIGEST-C round 67. No uids minted."
+    },
+    {
+      "id": "shelf-oriental-classics",
+      "status": "done",
+      "started": "2026-10-17T18:30-05:00",
+      "finished": "2026-10-17T18:30-05:00",
+      "scope": "TRANSLATOR SHELF (round 68, lane C's choice; Adam may veto) -- oriental-classics; PD printings before 1931 only; no minting",
+      "notes": "13 titles; ids checked across all branches. See DIGEST-C round 68. No uids minted."
     }
   ]
 }

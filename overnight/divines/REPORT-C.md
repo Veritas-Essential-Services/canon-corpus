@@ -209,3 +209,5 @@
 - 2026-10-17T18:21-05:00: round 66: harvard-oriental-series (9). --verify --record 0 mismatched. Vikrama's Adventures pending (Hindi OCR); Kiratarjuniya excluded (German).
 
 - 2026-10-17T18:27-05:00: round 67: east-asian-classics (9). --verify --record 0 mismatched.
+
+- 2026-10-17T18:30-05:00: round 68: oriental-classics (13). --verify --record 0 mismatched. occ-tiruvacagam title_weak (OCR ç as 9), checked by eye.
