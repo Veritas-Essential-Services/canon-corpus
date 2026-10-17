@@ -1,5 +1,5 @@
 {
- "_about": "John Dewey (1859-1952), American works published before 1930 and so US public domain, from Project Gutenberg, each etext's imprint read: Outlines of a Critical Theory of Ethics (1891), Leibniz's New Essays: a Critical Exposition (1888; Scott, Foresman printing of 1902), The School and Society (1900, second impression), Psychology and Social Practice (1901), Studies in Logical Theory (1903), Moral Principles in Education (1909), How We Think (1910), The Influence of Darwin on Philosophy (1910), German Philosophy and Politics (1915), Schools of To-morrow (with Evelyn Dewey, 1915), Essays in Experimental Logic (1916), Democracy and Education (1916; the etext names no printing), Creative Intelligence (with other pragmatists, 1917), Reconstruction in Philosophy (1920) and Human Nature and Conduct (1922). Held as post-1930 printings (Adam's open class): The Child and the Curriculum (PG 29259 follows a 1966 impression) and The Public and its Problems (PG 71000 follows a Swallow reprint, copyright renewed 1954). Not taken: PG 74376, a second copy of The School and Society; the Dewey-Tufts Ethics (PG 39551) would not download. No uids minted.",
+ "_about": "John Dewey (1859-1952), American works published before 1930 and so US public domain, from Project Gutenberg, each etext's imprint read: Outlines of a Critical Theory of Ethics (1891), Leibniz's New Essays: a Critical Exposition (1888; Scott, Foresman printing of 1902), The School and Society (1900, second impression), Psychology and Social Practice (1901), Studies in Logical Theory (1903), Moral Principles in Education (1909), How We Think (1910), The Influence of Darwin on Philosophy (1910), German Philosophy and Politics (1915), Schools of To-morrow (with Evelyn Dewey, 1915), Essays in Experimental Logic (1916), Democracy and Education (1916; the etext names no printing), Creative Intelligence (with other pragmatists, 1917), Reconstruction in Philosophy (1920) and Human Nature and Conduct (1922). In raw IA OCR: Dewey and James H. Tufts, Ethics (American Science Series; Holt, 1909, copyright 1908). Held as post-1930 printings (Adam's open class): The Child and the Curriculum (PG 29259 follows a 1966 impression) and The Public and its Problems (PG 71000 follows a Swallow reprint, copyright renewed 1954). Not taken: PG 74376, a second copy of The School and Society; PG 39551, the Dewey-Tufts Ethics, would not download, so the IA scan stands in for it. No uids minted.",
  "_author": "John Dewey",
  "_name_words": [
   "john",
@@ -71,7 +71,12 @@
    "Human Nature and Conduct: an introduction to social psychology (New York: Henry Holt, 1922)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "dewey-tufts-ethics-1909": [
+   "ethicsdew00deweuoft",
+   "Ethics, by John Dewey and James H. Tufts, American Science Series (New York: Henry Holt, 1909; copyright 1908)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "dewey-critical-theory-of-ethics-1891": {
@@ -208,6 +213,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "dewey-tufts-ethics-1909": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
