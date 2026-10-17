@@ -3211,12 +3211,13 @@ Shelf: `pipeline/kate-greenaway_shelf.json` (2026-10-02; added at the coordinato
 
 ## Mary Martha Sherwood
 
-Shelf: `pipeline/mary-martha-sherwood_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Two moral tales for children; one section each. Not in the manifest; no uids minted.
+Shelf: `pipeline/mary-martha-sherwood_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Moral tales for children; cut by story and chapter. Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Wishing Cap | have | PG 63295, `msherwood-wishing-cap` (58 units) |
 | Soffrona and Her Cat Muff | have | PG 58754, `msherwood-soffrona` (56 units) |
+| The Fairchild Family | have | PG 29725, `msherwood-fairchild-family` (2940 units) |
 
 ## Mrs. O. F. Walton
 

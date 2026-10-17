@@ -1,5 +1,5 @@
 {
- "_about": "Mrs. Sherwood's moral tales for children: The Wishing Cap (undated in the text) and Soffrona and Her Cat Muff (1828). The Fairchild Family (PG 29725) is held: it is Mary E. Palgrave's abridgement and the catalogue gives Palgrave no dates. Shanty the Blacksmith (PG 12315) has no plain-text file at Gutenberg. Gutenberg catalogue: Sherwood 1775-1851. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_about": "Mrs. Sherwood's moral tales for children: The Wishing Cap (undated in the text) and Soffrona and Her Cat Muff (1828). The Fairchild Family is Mary E. Palgrave's edition with her introduction (New York: Frederick A. Stokes, undated in the text; the Internet Archive catalogue record of the Stokes printing, fairchildfamily00sher, gives 1902). It was held for Palgrave's missing dates until Adam's ruling of 2026-10-10 (decision 22: US public domain is the rule). Shanty the Blacksmith (PG 12315) has no plain-text file at Gutenberg. Gutenberg catalogue: Sherwood 1775-1851. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
  "_author": "Mary Martha Sherwood",
  "_name_words": [
   "sherwood"
@@ -36,6 +36,23 @@
     "start": "SOFFRONA AND HER CAT MUFF\\.?$",
     "front": true
    }
+  ],
+  "msherwood-fairchild-family": [
+   29725,
+   "The Fairchild Family",
+   {
+    "levels": [
+     {
+      "re": "Part I+$"
+     },
+     {
+      "re": "(?i)(THE\\ BIRTHDAY\\ WALK|MRS\\.\\ FAIRCHILD'S\\ STORY|ON\\ ENVY|STORY\\ OF\\ THE\\ APPLES|STORY\\ OF\\ AN\\ UNHAPPY\\ DAY|STORY\\ OF\\ AMBITION;\\ OR,\\ THE\\ WISH\\ TO\\ BE\\ GREAT|THE\\ ALL\\-SEEING\\ GOD|EMILY'S\\ RECOVERY,\\ AND\\ THE\\ OLD\\ STORY\\ OF\\ MRS\\.\\ HOWARD|SAD\\ STORY\\ OF\\ A\\ DISOBEDIENT\\ CHILD|THE\\ TWO\\ BOOKS|THE\\ HISTORY\\ OF\\ THE\\ ORPHAN\\ BOY|A\\ STORY\\ OF\\ BESETTING\\ SINS|A\\ VISIT\\ TO\\ MARY\\ BUSH|STORY\\ OF\\ MISS\\ CROSBIE'S\\ PRESENTS|A\\ VISIT\\ TO\\ MRS\\.\\ GOODRICHE|STORY\\ OF\\ THE\\ LAST\\ DAYS\\ OF\\ MRS\\.\\ HOWARD|THE\\ FAIR\\ LITTLE\\ LADY|STORY\\ OF\\ A\\ HOLIDAY|LITTLE\\ EDWY\\ AND\\ THE\\ ECHO|FURTHER\\ STORY\\ OF\\ A\\ HOLIDAY|THE\\ HAPPY\\ EVENING|BREAKFAST\\ AT\\ MR\\.\\ BURKE'S|THE\\ UNRULY\\ FAMILY|STORY\\ OF\\ HENRY'S\\ ADVENTURE|GUESTS\\ AT\\ MR\\.\\ FAIRCHILD'S|MORE\\ ABOUT\\ BESSY|BESSY'S\\ MISFORTUNES|THE\\ BIRTHDAY\\ FEAST|GRANDMAMMA\\ FAIRCHILD|GREAT\\ CHANGES|GRANDMAMMA\\ AND\\ THE\\ CHILDREN|FAREWELL\\ TO\\ THE\\ OLD\\ HOME|THE HISTORY OF LITTLE HENRI; OR, THE GOOD SON|THE STORY IN EMILY'S BOOK\\. PART I+\\.|THE HISTORY OF LITTLE BERNARD LOW|(SECOND|THIRD) PART OF THE HISTORY OF LITTLE BERNARD LOW|GRANDMAMMA'S HISTORY OF EVELYN VAUGHAN\\. PART I+\\.)$",
+      "repeat_continues": true
+     }
+    ],
+    "start": "Part I$",
+    "front": true
+   }
   ]
  },
  "internet_archive": {},
@@ -43,7 +60,7 @@
  "_checks": {
   "msherwood-wishing-cap": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "mary martha sherwood",
    "identity": "ok",
@@ -52,7 +69,16 @@
   },
   "msherwood-soffrona": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mary martha sherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msherwood-fairchild-family": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "mary martha sherwood",
    "identity": "ok",
@@ -60,7 +86,6 @@
    "pg_translator": null
   }
  },
- "_held": {
-  "msherwood-fairchild-family": "PG 29725, The Fairchild Family: Mary E. Palgrave's abridgement; the catalogue gives Palgrave no dates, so it waits for Adam."
- }
+ "_held": {},
+ "_translators": {}
 }
