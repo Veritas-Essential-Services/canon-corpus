@@ -1,0 +1,249 @@
+{
+ "_about": "Public-domain Frances Ridley Havergal (1836-1879, Church of England hymn writer and devotional author) for the Word Hoard: Kept for the Master's Use from CCEL (Philadelphia: Henry Altemus, 1895), and 12 more from Internet Archive scans, among them My King, Royal Commandments, Royal Bounty and The Royal Invitation (1877-1878), Starlight through the Shadows (1882) and three books of her verse. Raw OCR. Added 2026-10-17 by lane A, round 22 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "havergal",
+ "_name_words": [
+  "havergal"
+ ],
+ "_surname": [
+  "frances ridley havergal",
+  "f. r. havergal",
+  "havergal, frances ridley",
+  "miss f. r. havergal",
+  "frances r. havergal",
+  "f. r. h."
+ ],
+ "_held": {},
+ "ccel": {
+  "havergal-kept-for-masters-use": [
+   "keptuse",
+   "Kept for the Master's Use (Philadelphia: Henry Altemus, 1895)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "havergal-bruey": [
+   "brueyalittlewor00havegoog",
+   "Bruey: a Little Worker for Christ (London: James Nisbet, MDCCCLXXIII)"
+  ],
+  "havergal-morning-bells": [
+   "morningbellsorw00havegoog",
+   "Morning Bells: Waking Thoughts for the Little Ones (London: J. Nisbet; catalogued 1875)"
+  ],
+  "havergal-little-pillows": [
+   "littlepillowsor00havegoog",
+   "Little Pillows; or, Good-Night Thoughts for the Little Ones (London: J. Nisbet; catalogued 1875)"
+  ],
+  "havergal-my-king": [
+   "mykingordailyth00havegoog",
+   "My King; or, Daily Thoughts for the King's Children (London: James Nisbet, 1877)"
+  ],
+  "havergal-royal-commandments": [
+   "royalcommandmen00havegoog",
+   "Royal Commandments; or, Morning Thoughts for the King's Servants (London: James Nisbet, 1877)"
+  ],
+  "havergal-royal-bounty": [
+   "royalbountyorev00havegoog",
+   "Royal Bounty; or, Evening Thoughts for the King's Guests (London: James Nisbet, 1877)"
+  ],
+  "havergal-royal-invitation": [
+   "royalinvitation00havegoog",
+   "The Royal Invitation; or, Daily Thoughts on Coming to Christ (London: James Nisbet, 1878)"
+  ],
+  "havergal-morning-stars": [
+   "morningstarsorna00have",
+   "Morning Stars; or, Names of Christ for His Little Ones (catalogued 1879)"
+  ],
+  "havergal-starlight": [
+   "starlightthrough00have",
+   "Starlight through the Shadows, and Other Gleams from the King's Word (New York: E. P. Dutton, 1882)"
+  ],
+  "havergal-ministry-of-song": [
+   "ministryofsong1872have",
+   "The Ministry of Song, second edition (London: Christian Book Society; catalogued 1872)"
+  ],
+  "havergal-under-the-surface": [
+   "undersurfacever00havegoog",
+   "Under the Surface (London: James Nisbet, MDCCCLXXIV)"
+  ],
+  "havergal-life-mosaic": [
+   "lifemosaic00havegoog",
+   "Life Mosaic (London: James Nisbet, MDCCCLXXIX)"
+  ]
+ },
+ "_alternates": {
+  "havergal-copies": "Kept for the Master's Use, Nisbet 1879 (keptformastersus00have_0) and Randolph (keptformastersus00have); My King, Randolph (mykingordailytho00have); Morning Bells (PG 11563, no print source stated)",
+  "havergal-verse": "Further verse: Loyal Responses, Under His Shadow, Life Chords (edited by her sister), Life Echoes, Poems (1881), Poetical Works (1885), Coming to the King (PG 10630)"
+ },
+ "_excluded": {
+  "havergal-others": "Memorials and The Last Week by her sister M. V. G. H.; Swiss Letters and Letters, edited by her sisters",
+  "havergal-compilations": "extract and birthday books compiled after her death (1886-1927)",
+  "havergal-namesakes": "Francis Tebbs, William Henry and Maria V. G. Havergal; Snepp's Songs of Grace and Glory",
+  "havergal-late": "reprints of 1950-2011"
+ },
+ "_identity_checked": {
+  "havergal-little-pillows": {
+   "author": "Title page read: 'Frances Ridley Havergal', OCR 'FRANCES | VERGAL'; London, J. Nisbet"
+  },
+  "havergal-morning-bells": {
+   "author": "No name on this title page in the OCR; her Royal Commandments (Nisbet, 1877) lists Morning Bells among the books 'by Miss F. R. Havergal'"
+  }
+ },
+ "_rights_checked": {
+  "havergal-morning-bells": "year illegible on the title page; she died 1879 and the imprint is her London publisher, James Nisbet",
+  "havergal-little-pillows": "year illegible on the title page; she died 1879 and the imprint is her London publisher, James Nisbet",
+  "havergal-morning-stars": "imprint not caught in the OCR; catalogued 1879, the year of her death; posthumous printings of her books ran through Nisbet and Randolph",
+  "havergal-royal-commandments": "title page read: London, James Nisbet, 1877; IA's 2003 date is the scan, not the printing"
+ },
+ "_pending": {},
+ "_checks": {
+  "havergal-kept-for-masters-use": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frances ridley havergal",
+   "identity": "ok",
+   "ccel_dc_rights": "Public domain.",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Philadelphia: Henry Altemus, 1895",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "havergal-bruey": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frances ridley havergal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "havergal-morning-bells": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "year illegible on the title page; she died 1879 and the imprint is her London publisher, James Nisbet"
+  },
+  "havergal-little-pillows": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "year illegible on the title page; she died 1879 and the imprint is her London publisher, James Nisbet"
+  },
+  "havergal-my-king": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frances ridley havergal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "havergal-royal-commandments": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frances ridley havergal",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 2003",
+   "ia_date": "2003",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: London, James Nisbet, 1877; IA's 2003 date is the scan, not the printing"
+  },
+  "havergal-royal-bounty": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frances ridley havergal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "havergal-royal-invitation": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frances ridley havergal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "havergal-morning-stars": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frances ridley havergal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "imprint not caught in the OCR; catalogued 1879, the year of her death; posthumous printings of her books ran through Nisbet and Randolph"
+  },
+  "havergal-starlight": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frances ridley havergal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "havergal-ministry-of-song": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frances ridley havergal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "havergal-under-the-surface": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. r. havergal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "havergal-life-mosaic": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frances ridley havergal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

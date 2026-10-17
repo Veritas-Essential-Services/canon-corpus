@@ -1018,3 +1018,6 @@
 
 ## 2026-10-17 17:22 CDT — j-r-macduff done
 - `pipeline/j-r-macduff_shelf.json`: 0 CCEL, 4 PG, 18 IA. Title pages read for macduff-memories-gennesaret, macduff-sunsets-hebrew-mountains, macduff-shepherd-and-flock, macduff-footsteps-st-peter, macduff-eventide-at-bethel, macduff-early-graves (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — frances-ridley-havergal done
+- `pipeline/frances-ridley-havergal_shelf.json`: 1 CCEL, 0 PG, 12 IA. Title pages read for havergal-little-pillows, havergal-morning-bells (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

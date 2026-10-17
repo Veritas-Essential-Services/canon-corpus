@@ -4428,3 +4428,29 @@ Slugs `macduff-*`. Only books that name him on the title page are shelved; 16 an
 | Fergus Morton (fiction), The Parish of Taxwood (sketches), The Story of a Dewdrop (PG 19809) and The Story of a Shell (children's allegories) | excluded | |
 | The Footsteps of Jesus and The Christian's Pathway ('by the author of The Faithful Witness', not his), The Soldiers' Text-Book (a compilation), his daughter's Reminiscences (1896), The Golden Gospel (his introduction) | excluded | |
 | reprints of 1956-2001 | excluded | |
+
+## Frances Ridley Havergal (round 22, my pick, 2026-10-17)
+
+Slugs `havergal-*`. Devotional prose and three books of verse; Morning Bells is attributed from her own publisher's list.
+
+| Work | Status | Where |
+|---|---|---|
+| Kept for the Master's Use (Philadelphia: Henry Altemus, 1895) | have-clean | CCEL havergal/keptuse |
+| Bruey: a Little Worker for Christ (London: James Nisbet, MDCCCLXXIII) | have-ocr | IA `brueyalittlewor00havegoog` |
+| Morning Bells: Waking Thoughts for the Little Ones (London: J. Nisbet; catalogued 1875) | have-ocr | IA `morningbellsorw00havegoog` |
+| Little Pillows; or, Good-Night Thoughts for the Little Ones (London: J. Nisbet; catalogued 1875) | have-ocr | IA `littlepillowsor00havegoog` |
+| My King; or, Daily Thoughts for the King's Children (London: James Nisbet, 1877) | have-ocr | IA `mykingordailyth00havegoog` |
+| Royal Commandments; or, Morning Thoughts for the King's Servants (London: James Nisbet, 1877) | have-ocr | IA `royalcommandmen00havegoog` |
+| Royal Bounty; or, Evening Thoughts for the King's Guests (London: James Nisbet, 1877) | have-ocr | IA `royalbountyorev00havegoog` |
+| The Royal Invitation; or, Daily Thoughts on Coming to Christ (London: James Nisbet, 1878) | have-ocr | IA `royalinvitation00havegoog` |
+| Morning Stars; or, Names of Christ for His Little Ones (catalogued 1879) | have-ocr | IA `morningstarsorna00have` |
+| Starlight through the Shadows, and Other Gleams from the King's Word (New York: E. P. Dutton, 1882) | have-ocr | IA `starlightthrough00have` |
+| The Ministry of Song, second edition (London: Christian Book Society; catalogued 1872) | have-ocr | IA `ministryofsong1872have` |
+| Under the Surface (London: James Nisbet, MDCCCLXXIV) | have-ocr | IA `undersurfacever00havegoog` |
+| Life Mosaic (London: James Nisbet, MDCCCLXXIX) | have-ocr | IA `lifemosaic00havegoog` |
+| Kept for the Master's Use, Nisbet 1879 (keptformastersus00have_0) and Randolph (keptformastersus00have); My King, Randolph (mykingordailytho00have); Morning Bells (PG 11563, no print source stated) | alternate | not shelved |
+| Further verse: Loyal Responses, Under His Shadow, Life Chords (edited by her sister), Life Echoes, Poems (1881), Poetical Works (1885), Coming to the King (PG 10630) | alternate | not shelved |
+| Memorials and The Last Week by her sister M. V. G. H.; Swiss Letters and Letters, edited by her sisters | excluded | |
+| extract and birthday books compiled after her death (1886-1927) | excluded | |
+| Francis Tebbs, William Henry and Maria V. G. Havergal; Snepp's Songs of Grace and Glory | excluded | |
+| reprints of 1950-2011 | excluded | |
