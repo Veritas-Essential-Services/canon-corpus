@@ -1,0 +1,7 @@
+piece	title	author	date	kind	lists	shelf	source	locator	status	note
+ransom-of-red-chief	The Ransom of Red Chief	O. Henry	1907	short_story	cc	o-henry	o-henry-whirligigs	heading:Ransom of Red Chief	ok	
+man-and-the-snake	The Man and the Snake	Ambrose Bierce	1890	short_story	cc	bierce	bierce-collected-works-2	lines:^THE MAN AND THE SNAKE\s*$|^A HOLY TERROR\s*$	ok	
+the-necklace	The Necklace	Guy de Maupassant	1884	short_story	cc	maupassant	maupassant-original-short-stories	heading:Diamond Necklace	ok	titled The Diamond Necklace in this translation
+the-last-lesson	The Last Lesson	Alphonse Daudet	1873	short_story	cc	french-short-stories	international-short-stories-french	lines:^THE LAST LESSON\s*$|^CROISILLES\s*$	ok	
+washington-first-inaugural	First Inaugural Address	George Washington	1789	speech	cc	us-inaugurals	us-presidents-inaugural-speeches	lines:^GEORGE WASHINGTON, FIRST INAUGURAL ADDRESS|^GEORGE WASHINGTON, SECOND INAUGURAL	ok	
+little-girls-wiser-than-men	Little Girls Wiser Than Men	Leo Tolstoy	1885	short_story	cc	tolstoy-tales	tolstoy-twenty-three-tales-1906	lines:^LITTLE GIRLS WISER THAN MEN\s*$|^ILYAS\s*$	ok	tr. L. and A. Maude (1906); IA OCR
