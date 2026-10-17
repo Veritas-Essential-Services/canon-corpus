@@ -1499,8 +1499,8 @@
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, sacred legends and children's stories: ginzberg; no minting",
       "status": "done",
       "started": "2026-10-03T02:27:06-05:00",
-      "finished": "2026-10-03T02:29:37-05:00",
-      "notes": "2/2 fetched (Gutenberg 1493, 1494), 1,836 units, 0 ~2 ids."
+      "finished": "2026-10-17T16:45:30-05:00",
+      "notes": "2/2 fetched (Gutenberg 2881, 2882), 1,704 units, 0 ~2 ids."
     },
     {
       "id": "ewald",
@@ -2145,7 +2145,7 @@
     {
       "id": "mary-martha-sherwood",
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — children's classics: mary-martha-sherwood; no minting",
-      "status": "done",
+      "status": "running",
       "started": "2026-10-10T09:56:24-05:00",
       "finished": "2026-10-10T10:11:41-05:00",
       "notes": "2/2 fetched (Gutenberg 63295, 58754), 114 units, 3 ~2 ids."
@@ -2237,6 +2237,18 @@
       "started": "2026-10-10T10:40:57-05:00",
       "finished": "2026-10-10T10:52:13-05:00",
       "notes": "1/1 fetched (Gutenberg 8122), 525 units, 0 ~2 ids."
+    },
+    {
+      "id": "eleanore-jewett",
+      "scope": "STORYTELLERS (decision 22 applied on resume: held only on UK grounds until Adam's US-rule ruling) — eleanore-jewett; no minting",
+      "status": "running",
+      "started": "2026-10-17T16:45:30-05:00"
+    },
+    {
+      "id": "philippine-jafl",
+      "scope": "STORYTELLERS (decision 22 applied on resume: held only on UK grounds until Adam's US-rule ruling) — philippine-jafl; no minting",
+      "status": "running",
+      "started": "2026-10-17T16:45:30-05:00"
     }
   ]
 }

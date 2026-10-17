@@ -966,3 +966,6 @@
 ## 2026-10-10 15:09 CDT — session end: paused at Adam's request
 - Batches 30-35 (37 shelves, headline 239 to 270) and audit passes 11-12 committed and pushed. No batch in progress; no partial shelves on disk.
 - Lock set to paused. Resume with batch 36 when reactivated.
+
+## 2026-10-17 16:45 CDT — ginzberg: done
+- 2/2 fetched (Gutenberg 2881, 2882), 1,704 units, 0 ~2 ids.
