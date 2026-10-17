@@ -1,0 +1,80 @@
+{
+ "_about": "Public-domain Brother Lawrence (Nicolas Herman, c.1614-1691, Discalced Carmelite lay brother in Paris) in English for the Word Hoard: The Practice of the Presence of God in the Revell version (New York, 1895) and in Allenson's new and revised edition (London, 1906), and The Spiritual Maxims, newly translated (Allenson), from Internet Archive scans. No translator is named on any of these title pages. Added 2026-10-17 by lane A, round 24 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "lawrence"
+ ],
+ "_surname": [
+  "brother lawrence",
+  "nicholas herman",
+  "nicolas herman"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lawrence-practice-revell-1895": [
+   "brotherlawrence02lawrgoog",
+   "Brother Lawrence: The Practice of the Presence of God the Best Rule of a Holy Life (New York: Fleming H. Revell, MDCCCXCV)"
+  ],
+  "lawrence-practice-allenson-1906": [
+   "practicepresenc00lawrgoog",
+   "The Practice of the Presence of God, new and revised edition with an additional letter (London: H. R. Allenson, first published November 1906)"
+  ],
+  "lawrence-spiritual-maxims": [
+   "spiritualmaximso01lawr",
+   "The Spiritual Maxims of Brother Lawrence, newly translated (London: H. R. Allenson; catalogued 1907)"
+  ]
+ },
+ "_alternates": {
+  "lawrence-1727": "The Life of N[icolas Herman] with his Practice of the Presence (Edinburgh: Ruddiman for Monro, MDCCXXVII) and its 1741 reissue: the name is garbled in the OCR",
+  "lawrence-copies": "Undated Revell reprints (copyright 1895) and PG 13871 (the Revell text, no date)"
+ },
+ "_excluded": {
+  "lawrence-pg-5657": "PG 5657: a COPYRIGHTED Project Gutenberg eBook (2002 edition)",
+  "lawrence-ccel": "CCEL lawrence/practice: Epworth Press, undated, post-1917 postal address, no translator",
+  "lawrence-late": "Blakiston and other post-1929 printings",
+  "lawrence-about": "Hebert's Life of Brother Lawrence (1919)"
+ },
+ "_rights_checked": {
+  "lawrence-practice-allenson-1906": "title page read: H. R. Allenson, no year; verso: this edition first published November 1906",
+  "lawrence-spiritual-maxims": "title page read: H. R. Allenson, Racquet Court, no year; catalogued 1907; its preface names 1741 as the last English version"
+ },
+ "_pending": {},
+ "_checks": {
+  "lawrence-practice-revell-1895": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "brother lawrence",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lawrence-practice-allenson-1906": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "brother lawrence",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: H. R. Allenson, no year; verso: this edition first published November 1906"
+  },
+  "lawrence-spiritual-maxims": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "brother lawrence",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: H. R. Allenson, Racquet Court, no year; catalogued 1907; its preface names 1741 as the last English version"
+  }
+ }
+}

@@ -1099,3 +1099,6 @@
 
 ## 2026-10-17 17:40 CDT — francois-fenelon done
 - `pipeline/francois-fenelon_shelf.json`: 0 CCEL, 1 PG, 6 IA. Title pages read for fenelon-pious-reflections, fenelon-maxims-of-saints-1698 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:40 CDT — brother-lawrence done
+- `pipeline/brother-lawrence_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.

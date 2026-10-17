@@ -5095,3 +5095,19 @@ Slugs `fenelon-*`. Translators: Haughton (1822); the 1698, 1713 and 1796 version
 | Treatise on the Education of Daughters: already on the singles-ideas-2 shelf | excluded | |
 | Lives and studies by others | excluded | |
 | Longmans reissues of 1902-1921 | excluded | |
+
+## Brother Lawrence (round 24, my pick, 2026-10-17)
+
+Slugs `lawrence-*`. No translator named on any title page. The 1727 Edinburgh version is an alternate (name garbled).
+
+| Work | Status | Where |
+|---|---|---|
+| Brother Lawrence: The Practice of the Presence of God the Best Rule of a Holy Life (New York: Fleming H. Revell, MDCCCXCV) | have-ocr | IA `brotherlawrence02lawrgoog` |
+| The Practice of the Presence of God, new and revised edition with an additional letter (London: H. R. Allenson, first published November 1906) | have-ocr | IA `practicepresenc00lawrgoog` |
+| The Spiritual Maxims of Brother Lawrence, newly translated (London: H. R. Allenson; catalogued 1907) | have-ocr | IA `spiritualmaximso01lawr` |
+| The Life of N[icolas Herman] with his Practice of the Presence (Edinburgh: Ruddiman for Monro, MDCCXXVII) and its 1741 reissue: the name is garbled in the OCR | alternate | not shelved |
+| Undated Revell reprints (copyright 1895) and PG 13871 (the Revell text, no date) | alternate | not shelved |
+| PG 5657: a COPYRIGHTED Project Gutenberg eBook (2002 edition) | excluded | |
+| CCEL lawrence/practice: Epworth Press, undated, post-1917 postal address, no translator | excluded | |
+| Blakiston and other post-1929 printings | excluded | |
+| Hebert's Life of Brother Lawrence (1919) | excluded | |
