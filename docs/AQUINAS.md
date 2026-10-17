@@ -109,6 +109,54 @@ is renamed to App. II q.1, App. I q.2, App. I q.1 by title.
 - It is unproofread OCR and a pre-Leonine text; the manifest says both.
 - Key rows: `la1894` (its parts), `status_1894` (against the English).
 
+## Summa contra Gentiles (built 2026-10-17)
+
+`pipeline/build_aquinas_scg.py`. The key is book and chapter, as Thomists cite
+it: `SCG.3.95` = *Contra Gentiles* III, 95; paragraphs are numbered within the
+chapter. `data/aquinas/scg-key.jsonl` (committed, one row per Leonine chapter,
+455 rows) says which witnesses print each chapter and how many paragraphs each
+has. It holds no text but the English chapter titles.
+
+| witness | text | chapters | rights |
+|---|---|---|---|
+| `la` | Corpus Thomisticum (the Leonine, 1918-30) | 455 | local only, as for the Summa |
+| `la1894` | the *editio Romana* (Rome: Forzani, 1894), IA `summaecontragent00thom`, raw OCR | 443 | US PD: **the Latin that can be shared** |
+| `dominican` | English Dominican Fathers, literal, "from the latest Leonine edition" (1923-28), IA OCR | 354 (Books I-III) | US PD |
+| `rickaby` | Joseph Rickaby, *Of God and His Creatures* (1905), abridged and annotated, CCEL | 383 (all four books) | US PD |
+
+297 chapters have all four witnesses. Only 12 Leonine chapters lack the PD
+Latin, and each one is a heading the 1894 OCR lost: its text is there, run
+into the chapter before (the manifest lists them).
+
+**Two numberings.** The Leonine renumbered the work. The editions before it,
+the 1894 included, number differently: Book III runs to 164, and a chapter of
+objections often stands apart from the chapter that answers them. Rickaby
+translates that older numbering. So:
+
+- The 1894 Latin is placed on the Leonine **by its text**. The opening of each
+  1894 chapter is matched against every three-paragraph window of each
+  Leonine chapter, so the second half of a joint chapter is found too. Nearly
+  every chapter matches at 0.6 or better (Dice of the words), and the five
+  below 0.4 were checked by title and are right. Its own number is kept as
+  `la1894_numbered` wherever it differs (42 chapters).
+- Rickaby goes with the 1894 chapter of his number (370 chapters). Where the
+  1894 OCR lost that heading, his title is matched against the Dominican's
+  instead (9 chapters); 1 keeps his own number. His own numbers are
+  `rickaby_numbered`. Where he joins a chapter of objections to its answer
+  ("Chapters XXXII, XXXV"), the answering chapter's row says `rickaby_in`.
+- The Leonine prints eight pairs as one chapter (I, 51-52; III, 95-96 ...).
+  The row has `la_covers`, and the covered number's row, if any, has `la_in`.
+
+**The Dominican English is raw OCR.** Its chapters are found by their
+headings, in sequence. A running head (CHAPTER XLII 87) and a table of
+contents are told apart from a heading, and a joint heading (CHAPTERS VIII AND
+IX) covers two chapters. Four headings are lost in the scan (I, 13; II, 78;
+III, 63, 81), and each chapter's text runs into the next; the manifest lists
+them. Paragraph counts agree with the Leonine in 104 of 354 chapters, because
+the OCR's paragraphs are not the Leonine's numbered ones. **Book IV (1929) is
+on no Archive scan we could find**, so Book IV has Rickaby's abridgement only
+in English.
+
 ## Commands
 
     python3 pipeline/fetch_corpus_thomisticum.py      # Latin pages (resumable, 1 req/s)
@@ -117,4 +165,8 @@ is renamed to App. II q.1, App. I q.2, App. I q.1 by title.
     python3 pipeline/aquinas_st_1894.py --fetch       # the 1894 OCR volumes
     python3 pipeline/build_aquinas_st.py              # books + parallel file + key
     python3 pipeline/build_aquinas_st.py --check      # key byte-identical
+    python3 pipeline/fetch_shelf.py aquinas           # the English shelf (Dominican SCG OCR, Rickaby, Catena ...)
+    python3 pipeline/build_aquinas_scg.py --fetch     # Contra Gentiles: the 1894 Latin OCR
+    python3 pipeline/build_aquinas_scg.py             # Contra Gentiles books + parallel file + key
+    python3 pipeline/build_aquinas_scg.py --check     # its key byte-identical
     python3 tests/aquinas_test.py                     # offline checks

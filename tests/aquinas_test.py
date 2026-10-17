@@ -141,5 +141,127 @@ check("1894: 'responsio ad objecta' is ad-sc", "I.q1.a2.ad-sc" in ou)
 check("1894: article 1 after article 2 means a lost QUAESTIO heading", "I.q2.a1.co" in ou)
 check("overlap of near-identical Latin is high", o.overlap("Respondeo dicendum quod Deum esse", "Respondeo dicendum, quod Deum esse") > 0.9)
 
+# --- Contra Gentiles (pipeline/build_aquinas_scg.py)
+import build_aquinas_scg as g
+check("scg: OCR numerals (n for II, l for I)", g.ocr_roman("XLn") == 42 and g.ocr_roman("XXl") == 21)
+check("scg: a heading followed by its title", g.chapter_heading("CHAPTER XLII", "THAT GOD IS ONE")[:2] == (42, 42)
+      and g.chapter_heading("CHAPTER XLII", "THAT GOD IS ONE")[2])
+check("scg: a running head with its page number is not a heading", g.chapter_heading("CHAPTER XLII 87", "the text") is None)
+check("scg: a running head followed by a bare page number is not taken", not g.chapter_heading("CHAPTER CXXX", "129")[2])
+check("scg: a joint heading covers two chapters", g.chapter_heading("CHAPTERS VIII AND IX", "ARGUMENTS")[:2] == (8, 9))
+check("scg: a joint running head is not a heading", g.chapter_heading("CHAPTERS VIII AND IX 19", "x") is None)
+check("scg: a title with a lower-cased word is still capitals", g.capitals("THAT god's power IS HIS SUBSTANCE"))
+check("scg: a table of contents line is recognised", bool(g.RE_TOC.search("THAT GOD IS NOT IN ANY GENUS - - - - 60 XXVI.")))
+check("scg: Latin cited as Thomists cite", g.ref_of("SCG.3.95") == "SCG III, 95")
+
+DOM = """CONTENTS
+
+CHAPTER I
+
+THAT GOD IS - - - 1 II. THAT GOD IS ONE - - 3
+
+CHAPTER I
+
+THAT GOD IS
+
+The first chapter's text runs on
+over a line.
+
+CHAPTER I 2
+
+the page broke this paragraph.
+
+CHAPTERS II AND III
+
+OF TWO THINGS
+
+Joint text.
+"""
+with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as f:
+    f.write(DOM)
+dd = g.parse_dominican(f.name, 1, 1)
+os.unlink(f.name)
+check("scg dominican: the table of contents is skipped", dd.get("SCG.1.1", {}).get("title") == "THAT GOD IS")
+check("scg dominican: a paragraph broken by a page is rejoined", dd["SCG.1.1"]["paras"] ==
+      ["The first chapter's text runs on over a line. the page broke this paragraph."])
+check("scg dominican: CHAPTERS II AND III is one chapter covering two", dd.get("SCG.1.2", {}).get("covers") == [2, 3])
+check("scg dominican: no repair reported for a clean run", "_repairs" not in dd)
+
+RIC = """<ThML><div1 title="Book III. Providence">
+<div2 title="Chapter XCV, XCVI. That the Immutability of Divine Providence does not bar the Utility of Prayer"><p>a</p></div2>
+<div2 title="Chapter XCVI. That God does not hear all Prayers"><p>b</p></div2>
+<div2 title="Chapter Chapter XCVIII. How Providence follows a Plan"><p>c</p></div2>
+<div2 title="Chapters CXXXII, CXXXV. Arguments against Voluntary Poverty, with Replies"><p>d</p></div2>
+<div2 title="Chapters XLI–XLV."><p>e</p></div2>
+</div1></ThML>"""
+with tempfile.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as f:
+    f.write(RIC)
+rr = g.parse_rickaby(f.name)
+os.unlink(f.name)
+check("rickaby: 'XCV, XCVI' is two chapters", rr["SCG.3.95"]["own_covers"] == [95, 96])
+check("rickaby: his own XCVI after it is kept", rr["SCG.3.96"]["title"] == "That God does not hear all Prayers")
+check("rickaby: 'Chapter Chapter' read", "SCG.3.98" in rr)
+check("rickaby: a comma joins a chapter to its answer, not a range", rr["SCG.3.132"]["own_covers"] == [132, 135])
+
+# alignment: his numbers are offset by one, and his second chapter is the second half of a joint chapter
+dom = {"SCG.3.94": {"title": "OF THE CERTAINTY OF DIVINE PROVIDENCE", "paras": []},
+       "SCG.3.95": {"title": "THAT THE UNCHANGEABLENESS OF DIVINE PROVIDENCE DOES NOT EXCLUDE THE USEFULNESS OF PRAYER",
+                    "paras": [], "covers": [95, 96]},
+       "SCG.3.97": {"title": "HOW THERE IS A REASON FOR DIVINE PROVIDENCE", "paras": []}}
+ric = {"SCG.3.95": {"title": "Of the Certainty of Divine Providence", "paras": ["x"], "own": 95, "own_covers": [95]},
+       "SCG.3.96": {"title": "That the Immutability of Divine Providence does not bar the Utility of Prayer", "paras": ["y"], "own": 96, "own_covers": [96]},
+       "SCG.3.97": {"title": "That God does not hear all Prayers", "paras": ["z"], "own": 97, "own_covers": [97]},
+       "SCG.3.98": {"title": "How the Arrangements of Divine Providence follow a Reason", "paras": ["w"], "own": 98, "own_covers": [98]}}
+al, routes = g.align_rickaby(ric, dom, {})
+check("rickaby aligned: offset numbering placed by title", al["SCG.3.94"]["own"] == 95)
+check("rickaby aligned: two of his chapters joined in one joint Leonine chapter",
+      al["SCG.3.95"]["own_covers"] == [96, 97] and al["SCG.3.95"]["paras"] == ["y", "z"])
+check("rickaby aligned: and the next falls in place", al["SCG.3.97"]["own"] == 98)
+al, routes = g.align_rickaby(ric, dom, {(3, 95): "SCG.3.94", (3, 97): "SCG.3.95"})
+check("rickaby: the 1894 Latin's placement wins where it has his number, titles elsewhere",
+      al["SCG.3.94"]["own"] == 95 and routes == {"latin": 2, "title": 2})
+
+# the 1894 Latin: own numbering, a misread numeral, a running head, then placed by its text
+OLD = """LIBER PRIMUS
+
+CAPUT PRIMUM.
+
+QUOD SIT OFFICIUM SAPIENTIS.
+
+Veritatem meditabitur guttur meum, et labia mea detestabuntur impium.
+
+CAPUT vni.
+
+DE DEO TRINO ET UNO.
+
+Multitudinis usus quem in rebus nominandis sequendum Philosophus cen-
+set, communiter obtinuit.
+
+LIBER I. CAP. II. 3
+
+ut sapientes dicantur qui res ordinant.
+
+CAPUT III.
+
+QUOD DEUS SIT ACTUS PURUS.
+
+Deus est actus purus absque potentia.
+
+INDEX CAPITULORUM
+"""
+with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as f:
+    f.write(OLD)
+oc, orep = g.parse_la1894(f.name)
+os.unlink(f.name)
+check("1894: a misread numeral is read from the sequence", sorted(oc) == ["SCG.1.1", "SCG.1.2", "SCG.1.3"])
+check("1894: hyphenation rejoined, running head dropped, a page-broken paragraph rejoined",
+      oc["SCG.1.2"]["paras"] == ["Multitudinis usus quem in rebus nominandis sequendum Philosophus censet, communiter obtinuit. "
+                                 "ut sapientes dicantur qui res ordinant."])
+check("1894: the index ends the text", "INDEX" not in " ".join(oc["SCG.1.3"]["paras"]))
+leo = {"SCG.1.1": {"paras": ["Veritatem meditabitur guttur meum labia detestabuntur impium"], "title": "", "covers": [1]},
+       "SCG.1.2": {"paras": ["Deus actus purus absque potentia"], "title": "", "covers": [2]}}
+o94, where = g.align_1894(oc, leo)
+check("1894: placed on the Leonine by its Latin, not its number", where[(1, 3)] == "SCG.1.2" and where[(1, 1)] == "SCG.1.1")
+
 print(f"\n{len(FAILS)} failed" if FAILS else "\nall passed")
 sys.exit(1 if FAILS else 0)
