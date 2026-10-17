@@ -1,0 +1,61 @@
+{
+ "_about": "Alexander Bain (1818-1903), Scottish philosopher and psychologist: Moral Science, a compendium of ethics (1869) and Practical Essays (1884), clean Gutenberg texts, and The Emotions and the Will, 3rd ed. (London: Longmans, Green, 1875; raw OCR of a Google scan). Not R. Nisbet Bain the translator (bain shelf). The Senses and the Intellect is held: the year on the Appleton title page is unreadable. US public domain. No uids minted.",
+ "_author": "Alexander Bain",
+ "_name_words": [
+  "alexander",
+  "bain"
+ ],
+ "_surname": [
+  "bain",
+  "alexander bain"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bain-moral-science-1869": [
+   12913,
+   "Moral Science: a compendium of ethics (1869)"
+  ],
+  "bain-practical-essays-1884": [
+   17522,
+   "Practical Essays (1884)"
+  ]
+ },
+ "internet_archive": {
+  "bain-emotions-and-the-will-1875": [
+   "bub_gb_BjYCAAAAQAAJ",
+   "The Emotions and the Will, 3rd ed. (London: Longmans, Green, 1875)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "bain-moral-science-1869": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bain-practical-essays-1884": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bain-emotions-and-the-will-1875": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bain",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
