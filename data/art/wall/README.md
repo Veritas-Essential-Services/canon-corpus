@@ -39,3 +39,12 @@ Copy the folder to a USB stick and open it in the TV's photo or gallery app as a
 
 - Works not `ready_4k` will look softer when the TV enlarges them. `chosen: commons-search` marks those where a larger Commons photograph replaced the Wikidata image; each was matched by painter, title words and aspect ratio, and copies, prints and details were excluded by filename.
 - Nelson-Atkins coverage depends on Wikidata and Commons; the museum's own site offers only about 1,280 px.
+
+## Memory-work videos
+
+`pipeline/memory_video.py` makes a video for YouTube: one poem learned by heart over one painting from this collection. The painting drifts slowly behind the words, which sit in the calmest patch of the picture so a face, a sun or a ship is left clear. The poem runs through four rounds: all the words, every other word cut to its first letter, first letters only, and blank lines to recite alone. Then the whole poem is shown once more, followed by a credit card. Only poems with hosted text in `data/poetry/texts.jsonl` and paintings marked `pd_us` are accepted.
+
+    python pipeline/memory_video.py --poem "Crossing the Bar" --painting Q257580 --out crossing-the-bar.mp4
+    python pipeline/memory_video.py --poem "Crossing the Bar" --painting Q257580 --still 40 --out check.png   # one frame, to check the layout
+
+It needs Pillow and ffmpeg. The fonts are EB Garamond and Cinzel (SIL Open Font Licence, from github.com/google/fonts), placed in `fonts/` or given with `--fonts`; without them it falls back to DejaVu. A 6-minute 1080p video takes about 15 minutes to render. `--size 3840x2160` makes a 4K version, and `--place right-top` and similar override where the words go. Videos are not committed.
