@@ -1,0 +1,547 @@
+{
+ "_about": "Anthony Hope's romances (The Prisoner of Zenda and the rest) and stories: every English text under the name at Gutenberg (catalogue: Hope 1863-1933). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Anthony Hope",
+ "_name_words": [
+  "hope"
+ ],
+ "_surname": [
+  "anthony hope",
+  "anthony hope hawkins"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ahope-prisoner-of-zenda": [
+   95,
+   "The prisoner of Zenda"
+  ],
+  "ahope-frivolous-cupid": [
+   428,
+   "Frivolous Cupid",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-rupert-of-hentzau": [
+   1145,
+   "Rupert of Hentzau: From The Memoirs of Fritz Von Tarlenheim Sequel to The Prisoner of Zenda",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-dolly-dialogues": [
+   1203,
+   "Dolly Dialogues"
+  ],
+  "ahope-secret-of-the-tower": [
+   10057,
+   "The Secret of the Tower"
+  ],
+  "ahope-a-man-of-mark": [
+   11063,
+   "A man of mark",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-indiscretion-of-the-duchess-being-a-story-concerning-t": [
+   13909,
+   "The Indiscretion of the Duchess Being a Story Concerning Two Ladies, a Nobleman, and a Necklace",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-father-stafford": [
+   14755,
+   "Father Stafford",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-quisant": [
+   19752,
+   "Quisanté",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-simon-dale": [
+   20328,
+   "Simon Dale",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-tristram-of-blent": [
+   20981,
+   "Tristram of Blent: An Episode in the Story of an Ancient House"
+  ],
+  "ahope-half-a-hero": [
+   22191,
+   "Half a Hero: A Novel"
+  ],
+  "ahope-kings-mirror": [
+   24034,
+   "The King's Mirror",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-comedies-of-courtship": [
+   24985,
+   "Comedies of Courtship"
+  ],
+  "ahope-captain-dieppe": [
+   28935,
+   "Captain Dieppe"
+  ],
+  "ahope-great-miss-driver": [
+   33293,
+   "The Great Miss Driver",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-helenas-path": [
+   36876,
+   "Helena's Path",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-second-string": [
+   38796,
+   "Second String",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-beaumaroy-home-from-the-wars": [
+   39547,
+   "Beaumaroy Home from the Wars",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-sophy-of-kravonia": [
+   40414,
+   "Sophy of Kravonia: A Novel",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-chronicles-of-count-antonio": [
+   40570,
+   "The Chronicles of Count Antonio",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-god-in-the-car": [
+   40583,
+   "The God in the Car: A Novel"
+  ],
+  "ahope-sport-royal-and-other-stories": [
+   40697,
+   "Sport Royal, and Other Stories"
+  ],
+  "ahope-mrs-maxon-protests": [
+   41182,
+   "Mrs. Maxon Protests",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-heart-of-princess-osra": [
+   41438,
+   "The Heart of Princess Osra",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-mr-witts-widow": [
+   41599,
+   "Mr. Witt's Widow: A Frivolous Tale",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-phroso": [
+   41822,
+   "Phroso: A Romance",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-double-harness": [
+   42222,
+   "Double Harness",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-a-young-mans-year": [
+   43083,
+   "A Young Man's Year",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-a-change-of-air": [
+   45749,
+   "A Change of Air",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-intrusions-of-peggy": [
+   47319,
+   "The Intrusions of Peggy",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-a-servant-of-the-public": [
+   48642,
+   "A Servant of the Public",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-tales-of-two-people": [
+   49630,
+   "Tales of two people",
+   {
+    "contents_only": true
+   }
+  ],
+  "ahope-lucinda": [
+   51642,
+   "Lucinda"
+  ],
+  "ahope-dialogue": [
+   67645,
+   "Dialogue"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "ahope-index": "PG 58478 is David Widger's index, not a text"
+ },
+ "_checks": {
+  "ahope-prisoner-of-zenda": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-frivolous-cupid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-rupert-of-hentzau": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-dolly-dialogues": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-secret-of-the-tower": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-a-man-of-mark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-indiscretion-of-the-duchess-being-a-story-concerning-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-father-stafford": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-quisant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-simon-dale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-tristram-of-blent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-half-a-hero": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-kings-mirror": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-comedies-of-courtship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-captain-dieppe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-great-miss-driver": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-helenas-path": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-second-string": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-beaumaroy-home-from-the-wars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-sophy-of-kravonia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-chronicles-of-count-antonio": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-god-in-the-car": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-sport-royal-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-mrs-maxon-protests": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-heart-of-princess-osra": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-mr-witts-widow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-phroso": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-double-harness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-a-young-mans-year": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-a-change-of-air": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-intrusions-of-peggy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-a-servant-of-the-public": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-tales-of-two-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-lucinda": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahope-dialogue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anthony hope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

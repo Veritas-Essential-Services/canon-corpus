@@ -22939,6 +22939,49 @@ Shelf: `pipeline/emily-holt_shelf.json` (2026-10-17; added at the coordinator's 
 | Under One Sceptre, or Mortimer's Mission: The Story of the Lord of the Marches | have | PG 44464, `eholt-under-one-sceptre-or-mortimers-mission` (1269 units) |
 | Ashcliffe Hall: A tale of the last century | have | PG 69096, `eholt-ashcliffe-hall` (2709 units) |
 
+## Anthony Hope
+
+Shelf: `pipeline/anthony-hope_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Romances and stories. Every English text under the name at Gutenberg that no other shelf holds (35 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The prisoner of Zenda | have | PG 95, `ahope-prisoner-of-zenda` (1697 units) |
+| Frivolous Cupid | have | PG 428, `ahope-frivolous-cupid` (1001 units) |
+| Rupert of Hentzau: From The Memoirs of Fritz Von Tarlenheim Sequel to The Prisoner of Zenda | have | PG 1145, `ahope-rupert-of-hentzau` (2128 units) |
+| Dolly Dialogues | have | PG 1203, `ahope-dolly-dialogues` (1893 units) |
+| The Secret of the Tower | have | PG 10057, `ahope-secret-of-the-tower` (1113 units) |
+| A man of mark | have | PG 11063, `ahope-a-man-of-mark` (1212 units) |
+| The Indiscretion of the Duchess Being a Story Concerning Two Ladies, a Nobleman, and a Necklace | have | PG 13909, `ahope-indiscretion-of-the-duchess-being-a-story-concerning-t` (1813 units) |
+| Father Stafford | have | PG 14755, `ahope-father-stafford` (1982 units) |
+| Quisanté | have | PG 19752, `ahope-quisant` (1835 units) |
+| Simon Dale | have | PG 20328, `ahope-simon-dale` (3190 units) |
+| Tristram of Blent: An Episode in the Story of an Ancient House | have | PG 20981, `ahope-tristram-of-blent` (3447 units) |
+| Half a Hero: A Novel | have | PG 22191, `ahope-half-a-hero` (2210 units) |
+| The King's Mirror | have | PG 24034, `ahope-kings-mirror` (2761 units) |
+| Comedies of Courtship | have | PG 24985, `ahope-comedies-of-courtship` (2533 units) |
+| Captain Dieppe | have | PG 28935, `ahope-captain-dieppe` (965 units) |
+| The Great Miss Driver | have | PG 33293, `ahope-great-miss-driver` (2471 units) |
+| Helena's Path | have | PG 36876, `ahope-helenas-path` (896 units) |
+| Second String | have | PG 38796, `ahope-second-string` (3042 units) |
+| Beaumaroy Home from the Wars | have | PG 39547, `ahope-beaumaroy-home-from-the-wars` (1156 units) |
+| Sophy of Kravonia: A Novel | have | PG 40414, `ahope-sophy-of-kravonia` (2075 units) |
+| The Chronicles of Count Antonio | have | PG 40570, `ahope-chronicles-of-count-antonio` (914 units) |
+| The God in the Car: A Novel | have | PG 40583, `ahope-god-in-the-car` (2803 units) |
+| Sport Royal, and Other Stories | have | PG 40697, `ahope-sport-royal-and-other-stories` (1292 units) |
+| Mrs. Maxon Protests | have | PG 41182, `ahope-mrs-maxon-protests` (2275 units) |
+| The Heart of Princess Osra | have | PG 41438, `ahope-heart-of-princess-osra` (1496 units) |
+| Mr. Witt's Widow: A Frivolous Tale | have | PG 41599, `ahope-mr-witts-widow` (1833 units) |
+| Phroso: A Romance | have | PG 41822, `ahope-phroso` (2718 units) |
+| Double Harness | have | PG 42222, `ahope-double-harness` (3277 units) |
+| A Young Man's Year | have | PG 43083, `ahope-a-young-mans-year` (2619 units) |
+| A Change of Air | have | PG 45749, `ahope-a-change-of-air` (2264 units) |
+| The Intrusions of Peggy | have | PG 47319, `ahope-intrusions-of-peggy` (3332 units) |
+| A Servant of the Public | have | PG 48642, `ahope-a-servant-of-the-public` (2327 units) |
+| Tales of two people | have | PG 49630, `ahope-tales-of-two-people` (2987 units) |
+| Lucinda | have | PG 51642, `ahope-lucinda` (1511 units) |
+| Dialogue | have | PG 67645, `ahope-dialogue` (56 units) |
+| ahope-index | excluded | PG 58478 is David Widger's index, not a text |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

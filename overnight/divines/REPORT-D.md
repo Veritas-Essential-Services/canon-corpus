@@ -1185,3 +1185,6 @@
 
 ## 2026-10-17 18:20 CDT — emily-holt: done
 - emily-holt: new shelf, 23 Gutenberg books, 41,359 units, 761 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:29 CDT — anthony-hope: done
+- anthony-hope: new shelf, 35 Gutenberg books, 71,124 units, 55 ~2 ids; verify 0 mismatches, 0 rights flags.
