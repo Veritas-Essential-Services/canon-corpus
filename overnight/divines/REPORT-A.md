@@ -1171,3 +1171,6 @@
 
 ## 2026-10-17 18:44 CDT — girolamo-savonarola done
 - `pipeline/girolamo-savonarola_shelf.json`: 0 CCEL, 1 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:44 CDT — hugh-of-saint-victor done
+- `pipeline/hugh-of-saint-victor_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.

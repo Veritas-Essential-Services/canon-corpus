@@ -544,6 +544,7 @@ Seventeen authors queued in QUEUE-A.json, each built from title pages read for t
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
 |---|---|---|---|---|---|
 | Girolamo Savonarola | girolamo-savonarola_shelf.json | 1 (The Triumph of the Cross, translated from the Italian, ed. John Procter (London: Sands, 1901)) | 5 (The Triumph of the Cross, translated from the Latin with notes and a biographical sketch (London: Hodder and Stoughton, MDCCCLXVIII); The Truth of the Christian Faith, or the Triumph of the Cross of Christ, done into English out of the author's own Italian copy (Cambridge: John Field; catalogued 1661); An Exposition of the Psalm Miserere mei Deus, tr. F. C. Cowper (Milwaukee: Young Churchman, 1889); Meditations on Psalm LI and part of Psalm XXXI, in Latin with an English translation by E. H. Perowne (London: C. J. Clay, 1900); Spiritual and Ascetic Letters of Savonarola, ed. B. W. Randolph (London: A. R. Mowbray; catalogued 1907)) | 1 (His sermons in English before 1930: not found) | Lives of him; modern editions |
+| Hugh of Saint Victor | hugh-of-saint-victor_shelf.json | none | 1 (Explanation of the Rule of St Augustine, tr. Aloysius Smith (London: Sands, 1911)) | 1 (A pre-1930 English Soliloquy on the Earnest of the Soul: not found) | Post-1929 translations; German and French editions |
 
 ## Paused 2026-10-10 15:12 CDT
 

@@ -5498,3 +5498,14 @@ Slugs `savonarola-*`. Translators claimed: Cowper, Perowne; the 1868 translator'
 | Sixteenth-century Miserere expositions (1537-1578) and the 1651 Felicity of a Christian: title pages not legible | alternate | not shelved |
 | Lives by Villari, Clark, Madden, Oliphant and others | excluded | |
 | Modern editions | excluded | |
+
+## Hugh of Saint Victor (round 26, my pick, 2026-10-17)
+
+Slugs `hugh-*`. Translator: Aloysius Smith. Richard of Saint Victor has no shelf: his only pre-1930 English is the anonymous Middle English Benjamin inside Gardner's anthology The Cell of Self-Knowledge (1910).
+
+| Work | Status | Where |
+|---|---|---|
+| Explanation of the Rule of St Augustine, tr. Aloysius Smith (London: Sands, 1911) | have-ocr | IA `explanationofthe00vicuoft` |
+| The Rule of the Great S. Augustin expounded by Hugh of S. Victor, from the French of Charles de la Grange (Bruges: John de Cock; catalogued 1735): English translator not named | alternate | not shelved |
+| Post-1929 translations (Soliloquy 1956, Didascalicon 1961, De sacramentis 1951) | excluded | |
+| German and French editions | excluded | |
