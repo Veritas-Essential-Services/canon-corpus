@@ -215,3 +215,5 @@
 - 2026-10-17T18:34-05:00: round 69: mughal-histories (8). --verify --record 0 mismatched.
 
 - 2026-10-17T18:41-05:00: round 70: india-historians (12). --verify --record 0 mismatched. ih-ferishta-4 identity override (OCR 'HRKiCiS' for Briggs), checked by eye.
+
+- 2026-10-17T18:45-05:00: round 71: arabic-classics (10). --verify --record 0 mismatched. arc-hariri-1 identity override (OCR 'CHEKEEY' for Chenery), checked by eye.

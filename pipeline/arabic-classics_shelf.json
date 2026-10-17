@@ -1,0 +1,445 @@
+{
+ "_about": "SHELF of classical Arabic prose in English before 1931 that no other shelf held: de Slane's Ibn Khallikan (4 vols, 1843-71), Sprenger's Mas'udi, Meadows of Gold (1841), Hitti's Usamah (1929) and Baladhuri part I (1916) with Murgotten's part II (1924), and Chenery and Steingass's Assemblies of al-Hariri (1867, 1898). Lane's and Burton's Arabian Nights are on their own shelves. Each title gates on its own translator. Printings before 1931 only; the Beirut reprints of 1964-70 are not used. US public domain. Added 2026-10-17 by lane C (round 71); Adam may veto. No uids minted.",
+ "_name_words": [
+  "aloys sprenger",
+  "chenery",
+  "de slane",
+  "f. c. murgotten",
+  "f. steingass",
+  "francis clark murgotten",
+  "francis steingass",
+  "hitti",
+  "mac guckin de slane",
+  "macguckin de slane",
+  "murgotten",
+  "philip k. hitti",
+  "philip khuri hitti",
+  "slane",
+  "sprenger",
+  "steingass",
+  "thomas chenery"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "aloys sprenger",
+  "chenery",
+  "de slane",
+  "f. c. murgotten",
+  "f. steingass",
+  "francis clark murgotten",
+  "francis steingass",
+  "hitti",
+  "mac guckin de slane",
+  "macguckin de slane",
+  "murgotten",
+  "philip k. hitti",
+  "philip khuri hitti",
+  "slane",
+  "sprenger",
+  "steingass",
+  "thomas chenery"
+ ],
+ "_surname_by_slug": {
+  "arc-ibn-khallikan-1": [
+   "slane",
+   "de slane",
+   "mac guckin de slane",
+   "macguckin de slane"
+  ],
+  "arc-ibn-khallikan-2": [
+   "slane",
+   "de slane",
+   "mac guckin de slane",
+   "macguckin de slane"
+  ],
+  "arc-ibn-khallikan-3": [
+   "slane",
+   "de slane",
+   "mac guckin de slane",
+   "macguckin de slane"
+  ],
+  "arc-ibn-khallikan-4": [
+   "slane",
+   "de slane",
+   "mac guckin de slane",
+   "macguckin de slane"
+  ],
+  "arc-masudi-meadows-of-gold": [
+   "sprenger",
+   "aloys sprenger"
+  ],
+  "arc-usamah": [
+   "hitti",
+   "philip k. hitti",
+   "philip khuri hitti"
+  ],
+  "arc-baladhuri-1": [
+   "hitti",
+   "philip k. hitti",
+   "philip khuri hitti"
+  ],
+  "arc-baladhuri-2": [
+   "murgotten",
+   "francis clark murgotten",
+   "f. c. murgotten"
+  ],
+  "arc-hariri-1": [
+   "chenery",
+   "thomas chenery"
+  ],
+  "arc-hariri-2": [
+   "steingass",
+   "f. steingass",
+   "francis steingass"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "arc-ibn-khallikan-1": [
+   "india.history.resource.41158",
+   "Ibn Khallikan's Biographical Dictionary, vol. I (1843)",
+   "41158_djvu.txt"
+  ],
+  "arc-ibn-khallikan-2": [
+   "india.history.resource.40984",
+   "Ibn Khallikan's Biographical Dictionary, vol. II (1843)",
+   "40984_djvu.txt"
+  ],
+  "arc-ibn-khallikan-3": [
+   "india.history.resource.53346",
+   "Ibn Khallikan's Biographical Dictionary, vol. III (1868)",
+   "53346_djvu.txt"
+  ],
+  "arc-ibn-khallikan-4": [
+   "india.history.resource.53344",
+   "Ibn Khallikan's Biographical Dictionary, vol. IV (1871)",
+   "53344_djvu.txt"
+  ],
+  "arc-masudi-meadows-of-gold": [
+   "historicalencycl00masrich",
+   "El-Mas'udi's Historical Encyclopaedia, entitled 'Meadows of Gold and Mines of Gems', vol. I (1841)"
+  ],
+  "arc-usamah": [
+   "arabsyriangentle00usma",
+   "An Arab-Syrian Gentleman and Warrior in the Period of the Crusades (1929)"
+  ],
+  "arc-baladhuri-1": [
+   "originsofislamic01bald",
+   "The Origins of the Islamic State, part I (1916)"
+  ],
+  "arc-baladhuri-2": [
+   "originsofislamic02bald",
+   "The Origins of the Islamic State, part II (1924)"
+  ],
+  "arc-hariri-1": [
+   "in.ernet.dli.2015.282995",
+   "The Assemblies of al-Hariri, vol. I (assemblies 1-26) (1867)",
+   "2015.282995.The-Assemblies_djvu.txt"
+  ],
+  "arc-hariri-2": [
+   "in.ernet.dli.2015.282996",
+   "The Assemblies of al-Hariri, vol. II (assemblies 27-50) (1898)",
+   "2015.282996.The-Assemblies_djvu.txt"
+  ]
+ },
+ "titles": {
+  "arabic-classics-ibn-khallikan-1": {
+   "source": "arc-ibn-khallikan-1",
+   "of": "Ibn Khallikan, Wafayat al-a'yan",
+   "work": "Ibn Khallikan's Biographical Dictionary, vol. I",
+   "translated": 1843,
+   "translator": "Baron Mac Guckin de Slane",
+   "scan_edition": "Oriental Translation Fund of Great Britain and Ireland, Paris 1843; Digital Library of India scan",
+   "note": "De Slane, a French orientalist, made the translation in English for the Oriental Translation Fund."
+  },
+  "arabic-classics-ibn-khallikan-2": {
+   "source": "arc-ibn-khallikan-2",
+   "of": "Ibn Khallikan, Wafayat al-a'yan",
+   "work": "Ibn Khallikan's Biographical Dictionary, vol. II",
+   "translated": 1843,
+   "translator": "Baron Mac Guckin de Slane",
+   "scan_edition": "Oriental Translation Fund of Great Britain and Ireland, Paris 1843; Digital Library of India scan"
+  },
+  "arabic-classics-ibn-khallikan-3": {
+   "source": "arc-ibn-khallikan-3",
+   "of": "Ibn Khallikan, Wafayat al-a'yan",
+   "work": "Ibn Khallikan's Biographical Dictionary, vol. III",
+   "translated": 1868,
+   "translator": "Baron Mac Guckin de Slane",
+   "scan_edition": "Oriental Translation Fund of Great Britain and Ireland, Paris 1868; Digital Library of India scan"
+  },
+  "arabic-classics-ibn-khallikan-4": {
+   "source": "arc-ibn-khallikan-4",
+   "of": "Ibn Khallikan, Wafayat al-a'yan",
+   "work": "Ibn Khallikan's Biographical Dictionary, vol. IV",
+   "translated": 1871,
+   "translator": "Baron Mac Guckin de Slane",
+   "scan_edition": "Oriental Translation Fund of Great Britain and Ireland, Paris 1871; Digital Library of India scan"
+  },
+  "arabic-classics-masudi-meadows-of-gold": {
+   "source": "arc-masudi-meadows-of-gold",
+   "of": "Al-Mas'udi, Muruj al-dhahab",
+   "work": "El-Mas'udi's Historical Encyclopaedia, entitled 'Meadows of Gold and Mines of Gems', vol. I",
+   "translated": 1841,
+   "translator": "Aloys Sprenger",
+   "scan_edition": "Oriental Translation Fund, London 1841",
+   "note": "Only vol. I was ever published."
+  },
+  "arabic-classics-usamah": {
+   "source": "arc-usamah",
+   "of": "Usamah ibn Munqidh, Kitab al-I'tibar (memoirs)",
+   "work": "An Arab-Syrian Gentleman and Warrior in the Period of the Crusades",
+   "translated": 1929,
+   "translator": "Philip K. Hitti",
+   "scan_edition": "Columbia University Press, Records of Civilization 10, New York, published May 1929"
+  },
+  "arabic-classics-baladhuri-1": {
+   "source": "arc-baladhuri-1",
+   "of": "Al-Baladhuri, Kitab futuh al-buldan",
+   "work": "The Origins of the Islamic State, part I",
+   "translated": 1916,
+   "translator": "Philip Khuri Hitti",
+   "scan_edition": "Columbia University, Studies in History, Economics and Public Law 68, New York 1916"
+  },
+  "arabic-classics-baladhuri-2": {
+   "source": "arc-baladhuri-2",
+   "of": "Al-Baladhuri, Kitab futuh al-buldan",
+   "work": "The Origins of the Islamic State, part II",
+   "translated": 1924,
+   "translator": "Francis Clark Murgotten",
+   "scan_edition": "Columbia University, Studies in History, Economics and Public Law 68, New York 1924"
+  },
+  "arabic-classics-hariri-1": {
+   "source": "arc-hariri-1",
+   "of": "Al-Hariri, the Maqamat",
+   "work": "The Assemblies of al-Hariri, vol. I (assemblies 1-26)",
+   "translated": 1867,
+   "translator": "Thomas Chenery",
+   "scan_edition": "Williams and Norgate, London 1867; Digital Library of India scan"
+  },
+  "arabic-classics-hariri-2": {
+   "source": "arc-hariri-2",
+   "of": "Al-Hariri, the Maqamat",
+   "work": "The Assemblies of al-Hariri, vol. II (assemblies 27-50)",
+   "translated": 1898,
+   "translator": "F. Steingass",
+   "scan_edition": "Royal Asiatic Society, Oriental Translation Fund, new series, London 1898; Digital Library of India scan",
+   "note": "Steingass completed the translation Chenery left unfinished at his death in 1884."
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "beirut-reprints": "Librairie du Liban (1970) and Khayats (1964-66) reprints of Ibn Khallikan, Usamah and Baladhuri (ibnkhallikansbio0001ibnk-0004ibnk, memoirsofarabsyr0000tran, originsofislamic0000bald): not used."
+ },
+ "_identity_checked": {
+  "arc-hariri-1": {
+   "author": "The title page OCR reads 'THOAIAS CHEKEEY M.A., OF LIJiCOLJi'S IS>', BAEKISIEU-AT-UiW.' for Thomas Chenery, of Lincoln's Inn, with 'VOL. I. CONTAINING THE FIRST TWENTY-SIX ASSEMBLIES' and Williams and Norgate's 1867 imprint. Checked by eye 2026-10-17."
+  }
+ },
+ "_checks": {
+  "arc-ibn-khallikan-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "slane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arc-ibn-khallikan-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "slane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arc-ibn-khallikan-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "slane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arc-ibn-khallikan-4": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "slane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arc-masudi-meadows-of-gold": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sprenger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arc-usamah": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hitti",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arc-baladhuri-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hitti",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arc-baladhuri-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "murgotten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arc-hariri-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arc-hariri-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "steingass",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "arc-ibn-khallikan-1": {
+   "ia": "india.history.resource.41158",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": [
+    2016
+   ]
+  },
+  "arc-ibn-khallikan-2": {
+   "ia": "india.history.resource.40984",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "arc-ibn-khallikan-3": {
+   "ia": "india.history.resource.53346",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": [
+    2016
+   ]
+  },
+  "arc-ibn-khallikan-4": {
+   "ia": "india.history.resource.53344",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1874
+   ],
+   "post_1930_years_in_front_15k": [
+    2016
+   ]
+  },
+  "arc-masudi-meadows-of-gold": {
+   "ia": "historicalencycl00masrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "arc-usamah": {
+   "ia": "arabsyriangentle00usma",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1886,
+    1929
+   ],
+   "post_1930_years_in_front_15k": [
+    1982
+   ]
+  },
+  "arc-baladhuri-1": {
+   "ia": "originsofislamic01bald",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1866,
+    1869,
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "arc-baladhuri-2": {
+   "ia": "originsofislamic02bald",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1923,
+    1924
+   ],
+   "post_1930_years_in_front_15k": [
+    1934
+   ]
+  },
+  "arc-hariri-1": {
+   "ia": "in.ernet.dli.2015.282995",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "arc-hariri-2": {
+   "ia": "in.ernet.dli.2015.282996",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1885,
+    1891,
+    1893,
+    1896,
+    1897,
+    1898
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

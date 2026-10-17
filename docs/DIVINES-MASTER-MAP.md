@@ -17344,6 +17344,25 @@ Round 70 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `india-historians-ferishta-4` | Muhammad Qasim Ferishta, Tarikh-i Firishta | History of the Rise of the Mahomedan Power in India till the Year A.D. 1612, vol. IV | John Briggs | 1829 | have-raw | IA `in.ernet.dli.2015.45583` |
 | — | — | briggs-late-reprints: Reprints of Briggs's Ferishta from 1971 and 1981 (in.ernet.dli.2015.499221, in.ernet.dli.2015.189198): not used. | — | — | excluded | — |
 
+## Shelf: classical Arabic prose in English before 1931: de Slane's Ibn Khallikan (4 vols), Sprenger's Mas'udi, Hitti's Usamah and Baladhuri (with Murgotten), Chenery and Steingass's Assemblies of al-Hariri
+
+Shelf: `pipeline/arabic-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py arabic-classics` · titles `python3 pipeline/split_shelf_titles.py arabic-classics`.
+Round 71 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `arabic-classics-ibn-khallikan-1` | Ibn Khallikan, Wafayat al-a'yan | Ibn Khallikan's Biographical Dictionary, vol. I | Baron Mac Guckin de Slane | 1843 | have-raw | IA `india.history.resource.41158` |
+| `arabic-classics-ibn-khallikan-2` | Ibn Khallikan, Wafayat al-a'yan | Ibn Khallikan's Biographical Dictionary, vol. II | Baron Mac Guckin de Slane | 1843 | have-raw | IA `india.history.resource.40984` |
+| `arabic-classics-ibn-khallikan-3` | Ibn Khallikan, Wafayat al-a'yan | Ibn Khallikan's Biographical Dictionary, vol. III | Baron Mac Guckin de Slane | 1868 | have-raw | IA `india.history.resource.53346` |
+| `arabic-classics-ibn-khallikan-4` | Ibn Khallikan, Wafayat al-a'yan | Ibn Khallikan's Biographical Dictionary, vol. IV | Baron Mac Guckin de Slane | 1871 | have-raw | IA `india.history.resource.53344` |
+| `arabic-classics-masudi-meadows-of-gold` | Al-Mas'udi, Muruj al-dhahab | El-Mas'udi's Historical Encyclopaedia, entitled 'Meadows of Gold and Mines of Gems', vol. I | Aloys Sprenger | 1841 | have-raw | IA `historicalencycl00masrich` |
+| `arabic-classics-usamah` | Usamah ibn Munqidh, Kitab al-I'tibar (memoirs) | An Arab-Syrian Gentleman and Warrior in the Period of the Crusades | Philip K. Hitti | 1929 | have-raw | IA `arabsyriangentle00usma` |
+| `arabic-classics-baladhuri-1` | Al-Baladhuri, Kitab futuh al-buldan | The Origins of the Islamic State, part I | Philip Khuri Hitti | 1916 | have-raw | IA `originsofislamic01bald` |
+| `arabic-classics-baladhuri-2` | Al-Baladhuri, Kitab futuh al-buldan | The Origins of the Islamic State, part II | Francis Clark Murgotten | 1924 | have-raw | IA `originsofislamic02bald` |
+| `arabic-classics-hariri-1` | Al-Hariri, the Maqamat | The Assemblies of al-Hariri, vol. I (assemblies 1-26) | Thomas Chenery | 1867 | have-raw | IA `in.ernet.dli.2015.282995` |
+| `arabic-classics-hariri-2` | Al-Hariri, the Maqamat | The Assemblies of al-Hariri, vol. II (assemblies 27-50) | F. Steingass | 1898 | have-raw | IA `in.ernet.dli.2015.282996` |
+| — | — | beirut-reprints: Librairie du Liban (1970) and Khayats (1964-66) reprints of Ibn Khallikan, Usamah and Baladhuri (ibnkhallikansbio0001ibnk-0004ibnk, memoirsofarabsyr0000tran, originsofislamic0000bald): not used. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
