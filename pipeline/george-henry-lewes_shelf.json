@@ -1,0 +1,64 @@
+{
+ "_about": "George Henry Lewes (1817-1878): The Physical Basis of Mind (Boston: Houghton Mifflin, 1891; clean Gutenberg text) and The History of Philosophy from Thales to Comte (London: Longmans, Green; raw IA OCR). The two History volumes are from different editions: vol. I is the 3rd edition (the OCR reads the year as 1807; it is 1867) and vol. II the 4th edition of 1871. A matched pair would replace them. US public domain. No uids minted.",
+ "_author": "George Henry Lewes",
+ "_name_words": [
+  "george",
+  "henry",
+  "lewes"
+ ],
+ "_surname": [
+  "lewes",
+  "g. h. lewes"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lewes-physical-basis-of-mind-1891": [
+   60212,
+   "The Physical Basis of Mind (Boston: Houghton Mifflin, 1891)"
+  ]
+ },
+ "internet_archive": {
+  "lewes-history-of-philosophy-3rd-ed-v1": [
+   "thehistoryofphil01leweuoft",
+   "The History of Philosophy from Thales to Comte, 3rd ed., vol. I (London: Longmans, Green, 1867)"
+  ],
+  "lewes-history-of-philosophy-4th-ed-v2": [
+   "historyofphiloso02lewe",
+   "The History of Philosophy from Thales to Comte, 4th ed., vol. II (London: Longmans, Green, 1871)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "lewes-physical-basis-of-mind-1891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lewes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lewes-history-of-philosophy-3rd-ed-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lewes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lewes-history-of-philosophy-4th-ed-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lewes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
