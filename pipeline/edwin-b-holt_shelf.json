@@ -1,5 +1,5 @@
 {
- "_about": "Edwin B. Holt (1873-1946), new realist, raw IA OCR: The Concept of Consciousness (London: George Allen, 1914), and The New Realism, cooperative studies in philosophy by Holt, Walter T. Marvin, W. P. Montague, Ralph Barton Perry, Walter B. Pitkin and E. G. Spaulding (New York: Macmillan, 1912), kept here because Holt is its first-named author. Not Emily Holt or F. A. Holt. US public domain. No uids minted.",
+ "_about": "Edwin B. Holt (1873-1946), new realist, raw IA OCR: The Concept of Consciousness (London: George Allen, 1914), and The New Realism, cooperative studies in philosophy by Holt, Walter T. Marvin, W. P. Montague, Ralph Barton Perry, Walter B. Pitkin and E. G. Spaulding (New York: Macmillan, 1912), kept here because Holt is its first-named author. Not Emily Holt or F. A. Holt. Added in round ab: The Freudian Wish and its Place in Ethics (New York: Henry Holt, 1915). US public domain. No uids minted.",
  "_author": "Edwin B. Holt",
  "_name_words": [
   "edwin",
@@ -19,6 +19,10 @@
   "holt-and-others-new-realism-1912": [
    "cu31924014628360",
    "The New Realism: cooperative studies in philosophy, with Marvin, Montague, Perry, Pitkin and Spaulding (New York: Macmillan, 1912)"
+  ],
+  "holt-freudian-wish-1915": [
+   "freudianwishitsp007914mbp",
+   "The Freudian Wish and its Place in Ethics (New York: Henry Holt, 1915)"
   ]
  },
  "_excluded": {},
@@ -42,6 +46,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1912",
    "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "holt-freudian-wish-1915": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "holt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
