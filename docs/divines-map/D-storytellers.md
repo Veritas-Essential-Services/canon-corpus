@@ -6775,6 +6775,59 @@ Shelf: `pipeline/william-macleod-raine_shelf.json` (2026-10-17; added at the coo
 | Troubled Waters | have | PG 69342, `wmraine-troubled-waters` (1899 units) |
 | Ironheart | have | PG 72057, `wmraine-ironheart` (2637 units) |
 
+## Harold Bindloss
+
+Shelf: `pipeline/harold-bindloss_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels of the Canadian West. Every English text under the name at Gutenberg that no other shelf holds (46 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Girl from Keller's | have | PG 3663, `hbindloss-girl-from-kellers` (2382 units) |
+| Vane of the Timberlands | have | PG 9778, `hbindloss-vane-of-the-timberlands` (2659 units) |
+| Lister's Great Adventure | have | PG 10076, `hbindloss-listers-great-adventure` (1806 units) |
+| The Buccaneer Farmer Published in England under the Title "Askew's Victory" | have | PG 10930, `hbindloss-buccaneer-farmer-published-in-england-under-the-ti` (2366 units) |
+| The Lure of the North | have | PG 14234, `hbindloss-lure-of-the-north` (1934 units) |
+| Alton of Somasco: A Romance of the Great Northwest | have | PG 14261, `hbindloss-alton-of-somasco` (2756 units) |
+| Carmen's Messenger | have | PG 14361, `hbindloss-carmens-messenger` (2031 units) |
+| The Intriguers | have | PG 14406, `hbindloss-intriguers` (1710 units) |
+| Ranching for Sylvia | have | PG 14698, `hbindloss-ranching-for-sylvia` (2952 units) |
+| Winston of the Prairie | have | PG 14763, `hbindloss-winston-of-the-prairie` (2165 units) |
+| The Gold Trail | have | PG 21205, `hbindloss-gold-trail` (2683 units) |
+| The Long Portage | have | PG 25910, `hbindloss-long-portage` (2438 units) |
+| Prescott of Saskatchewan | have | PG 25916, `hbindloss-prescott-of-saskatchewan` (2554 units) |
+| Masters of the Wheat-Lands | have | PG 25922, `hbindloss-masters-of-the-wheat-lands` (2372 units) |
+| Brandon of the Engineers | have | PG 25923, `hbindloss-brandon-of-the-engineers` (2398 units) |
+| The Cattle-Baron's Daughter | have | PG 27115, `hbindloss-cattle-barons-daughter` (2671 units) |
+| Lorimer of the Northwest | have | PG 27504, `hbindloss-lorimer-of-the-northwest` (1779 units) |
+| Hawtrey's Deputy | have | PG 27601, `hbindloss-hawtreys-deputy` (2358 units) |
+| Blake's Burden | have | PG 29155, `hbindloss-blakes-burden` (2153 units) |
+| Partners of the Out-Trail | have | PG 29183, `hbindloss-partners-of-the-out-trail` (2362 units) |
+| Thurston of Orchard Valley | have | PG 29266, `hbindloss-thurston-of-orchard-valley` (1792 units) |
+| The Greater Power | have | PG 29650, `hbindloss-greater-power` (2141 units) |
+| For the Allinson Honor | have | PG 34415, `hbindloss-for-the-allinson-honor` (2859 units) |
+| Johnstone of the Border | have | PG 34425, `hbindloss-johnstone-of-the-border` (2655 units) |
+| The Secret of the Reef | have | PG 35823, `hbindloss-secret-of-the-reef` (2344 units) |
+| The Dust of Conflict | have | PG 35834, `hbindloss-dust-of-conflict` (2588 units) |
+| By Right of Purchase | have | PG 36705, `hbindloss-by-right-of-purchase` (2012 units) |
+| The League of the Leopard | have | PG 36804, `hbindloss-league-of-the-leopard` (1897 units) |
+| The Coast of Adventure | have | PG 37582, `hbindloss-coast-of-adventure` (2488 units) |
+| A Damaged Reputation | have | PG 37761, `hbindloss-a-damaged-reputation` (2281 units) |
+| Northwest! | have | PG 38069, `hbindloss-northwest` (2041 units) |
+| The Boy Ranchers of Puget Sound | have | PG 38087, `hbindloss-boy-ranchers-of-puget-sound` (2252 units) |
+| The Mistress of Bonaventure | have | PG 38144, `hbindloss-mistress-of-bonaventure` (1975 units) |
+| The Protector | have | PG 38286, `hbindloss-protector` (2031 units) |
+| Harding of Allenwood | have | PG 38343, `hbindloss-harding-of-allenwood` (2572 units) |
+| Delilah of the Snows | have | PG 38635, `hbindloss-delilah-of-the-snows` (2576 units) |
+| For Jacinta | have | PG 38670, `hbindloss-for-jacinta` (2008 units) |
+| A Prairie Courtship | have | PG 38723, `hbindloss-a-prairie-courtship` (2526 units) |
+| Thrice Armed | have | PG 38747, `hbindloss-thrice-armed` (2074 units) |
+| Long Odds | have | PG 39019, `hbindloss-long-odds` (1868 units) |
+| Wyndham's Pal | have | PG 39349, `hbindloss-wyndhams-pal` (1967 units) |
+| Kit Musgrave's Luck | have | PG 39453, `hbindloss-kit-musgraves-luck` (1928 units) |
+| The Impostor | have | PG 39698, `hbindloss-impostor` (2094 units) |
+| In the Misty Seas: A Story of the Sealers of Behring Strait | have | PG 47992, `hbindloss-in-the-misty-seas` (1712 units) |
+| Carson of Red River | have | PG 67051, `hbindloss-carson-of-red-river` (2428 units) |
+| Sunshine and snow | have | PG 69277, `hbindloss-sunshine-and-snow` (266 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
