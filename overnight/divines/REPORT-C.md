@@ -195,3 +195,5 @@
 - 2026-10-17T17:24-05:00: round 59: history-of-civilization (8). --verify --record 0 mismatched.
 
 - 2026-10-17T17:36-05:00: round 60: wisdom-of-the-east (10). --verify --record 0 mismatched. Wisdom of the East, East Asian volumes.
+
+- 2026-10-17T17:46-05:00: round 61: wisdom-of-the-east +16 (26). --verify --record 0 mismatched. Wisdom of the East, Indian/Persian/Arabic/Hebrew/Egyptian volumes.

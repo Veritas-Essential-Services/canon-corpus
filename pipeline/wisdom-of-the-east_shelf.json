@@ -1,39 +1,105 @@
 {
- "_about": "SERIES SHELF of one-off translators: the Wisdom of the East series (Orient Press 1904, then John Murray, ed. L. Cranmer-Byng and S. A. Kapadia), the Edwardian pocket library of Asian texts in English. Round 60 holds the Chinese, Japanese and Tibetan volumes plus Claud Field's Alchemy of Happiness: Lionel Giles's Lieh Tzu (1912) and Lao Tzu (1904), Anton Forke's Yang Chu (1912), Cranmer-Byng's Lute of Jade (1909), Feast of Lanterns (1916) and Odes of Confucius (1905), Clara Walsh's Master-Singers of Japan (1910), Ken Hoshino's Way of Contentment (Kaibara Ekiken, 1913) and Millicent Morrison's Ti-Me-Kun-Dan (1925). Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 60); Adam may veto. No uids minted.",
+ "_about": "SERIES SHELF of one-off translators: the Wisdom of the East series (Orient Press 1904, then John Murray, ed. L. Cranmer-Byng and S. A. Kapadia), the Edwardian pocket library of Asian texts in English. Round 60 holds the Chinese, Japanese and Tibetan volumes plus Claud Field's Alchemy of Happiness: Lionel Giles's Lieh Tzu (1912) and Lao Tzu (1904), Anton Forke's Yang Chu (1912), Cranmer-Byng's Lute of Jade (1909), Feast of Lanterns (1916) and Odes of Confucius (1905), Clara Walsh's Master-Singers of Japan (1910), Ken Hoshino's Way of Contentment (Kaibara Ekiken, 1913) and Millicent Morrison's Ti-Me-Kun-Dan (1925). Round 61 adds the Indian, Persian, Arabic, Hebrew and Egyptian volumes and two more Chinese classics: E. J. Thomas's Buddhist Scriptures (1913) and Vedic Hymns (1923), Barnett's Path of Light (Santideva, 1909), Wagiswara and Saunders's Dhammapada (1912), Majid and Cranmer-Byng's Ruba'iyat of Hafiz (1910), Lederer's Secret Rose Garden (Shabistari, 1920), Cranmer-Byng's Rose-Garden of Sa'di (1910), Wollaston's Scroll of Wisdom (1906), Magan Lal and Westbrook's Zeb-un-Nissa (1913), Baerlein's Abu'l-Ala (1909), Wortabet's Arabian Wisdom, Collins's Duties of the Heart (Bahya, 1904), Cohen's Ancient Jewish Proverbs (1911), Dennis's Burden of Isis (1910), Gorn Old's Book of History (1906) and Ku Hung-Ming's Conduct of Life (Zhongyong, 1906). Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (rounds 60-61); Adam may veto. No uids minted.",
  "_name_words": [
+  "a. cohen",
+  "abdul majid",
   "anton forke",
+  "arthur n. wollaston",
+  "baerlein",
+  "barnett",
   "clara a. walsh",
   "claud field",
+  "cohen",
+  "collins",
   "cranmer byng",
   "cranmer-byng",
+  "dennis",
+  "e. j. thomas",
+  "edward j. thomas",
+  "edwin collins",
   "field",
+  "florence lederer",
   "forke",
   "giles",
+  "gorn old",
+  "henry baerlein",
   "hoshino",
+  "hung ming",
+  "james teackle dennis",
+  "jessie duncan westbrook",
+  "john wortabet",
+  "k. j. saunders",
   "ken hoshino",
+  "ku hung ming",
+  "ku hung-ming",
   "l. cranmer-byng",
+  "l. d. barnett",
+  "lederer",
   "lionel giles",
+  "magan lal",
+  "majid",
   "millicent h. morrison",
   "morrison",
-  "walsh"
+  "saunders",
+  "thomas",
+  "w. d. c. wagiswara",
+  "w. gorn old",
+  "wagiswara",
+  "walsh",
+  "westbrook",
+  "wollaston",
+  "wortabet"
  ],
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
  "_surname": [
+  "a. cohen",
+  "abdul majid",
   "anton forke",
+  "arthur n. wollaston",
+  "baerlein",
+  "barnett",
   "clara a. walsh",
   "claud field",
+  "cohen",
+  "collins",
   "cranmer byng",
   "cranmer-byng",
+  "dennis",
+  "e. j. thomas",
+  "edward j. thomas",
+  "edwin collins",
   "field",
+  "florence lederer",
   "forke",
   "giles",
+  "gorn old",
+  "henry baerlein",
   "hoshino",
+  "hung ming",
+  "james teackle dennis",
+  "jessie duncan westbrook",
+  "john wortabet",
+  "k. j. saunders",
   "ken hoshino",
+  "ku hung ming",
+  "ku hung-ming",
   "l. cranmer-byng",
+  "l. d. barnett",
+  "lederer",
   "lionel giles",
+  "magan lal",
+  "majid",
   "millicent h. morrison",
   "morrison",
-  "walsh"
+  "saunders",
+  "thomas",
+  "w. d. c. wagiswara",
+  "w. gorn old",
+  "wagiswara",
+  "walsh",
+  "westbrook",
+  "wollaston",
+  "wortabet"
  ],
  "_surname_by_slug": {
   "woe-lieh-tzu": [
@@ -76,6 +142,76 @@
   "woe-alchemy-of-happiness": [
    "claud field",
    "field"
+  ],
+  "woe-buddhist-scriptures": [
+   "e. j. thomas",
+   "thomas"
+  ],
+  "woe-vedic-hymns": [
+   "edward j. thomas",
+   "thomas"
+  ],
+  "woe-path-of-light": [
+   "l. d. barnett",
+   "barnett"
+  ],
+  "woe-way-of-virtue": [
+   "wagiswara",
+   "saunders",
+   "w. d. c. wagiswara",
+   "k. j. saunders"
+  ],
+  "woe-rubaiyat-of-hafiz": [
+   "abdul majid",
+   "majid",
+   "cranmer-byng"
+  ],
+  "woe-secret-rose-garden": [
+   "florence lederer",
+   "lederer"
+  ],
+  "woe-rose-garden-of-sadi": [
+   "cranmer-byng",
+   "l. cranmer-byng",
+   "cranmer byng"
+  ],
+  "woe-scroll-of-wisdom": [
+   "arthur n. wollaston",
+   "wollaston"
+  ],
+  "woe-diwan-of-zeb-un-nissa": [
+   "magan lal",
+   "westbrook",
+   "jessie duncan westbrook"
+  ],
+  "woe-diwan-of-abul-ala": [
+   "henry baerlein",
+   "baerlein"
+  ],
+  "woe-arabian-wisdom": [
+   "john wortabet",
+   "wortabet"
+  ],
+  "woe-duties-of-the-heart": [
+   "edwin collins",
+   "collins"
+  ],
+  "woe-jewish-proverbs": [
+   "a. cohen",
+   "cohen"
+  ],
+  "woe-burden-of-isis": [
+   "james teackle dennis",
+   "dennis"
+  ],
+  "woe-book-of-history": [
+   "gorn old",
+   "w. gorn old"
+  ],
+  "woe-conduct-of-life": [
+   "ku hung ming",
+   "ku hung-ming",
+   "hung ming"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -84,6 +220,14 @@
   "woe-lute-of-jade": [
    390,
    "A Lute of Jade: Selections from the Classical Poets of China"
+  ],
+  "woe-diwan-of-abul-ala": [
+   13086,
+   "The Diwan of Abu'l-Ala"
+  ],
+  "woe-arabian-wisdom": [
+   33109,
+   "Arabian Wisdom: Selections and Translations from the Arabic"
   ]
  },
  "internet_archive": {
@@ -125,6 +269,65 @@
    "in.ernet.dli.2015.106793",
    "The Alchemy of Happiness (Murray, Wisdom of the East, 1910)",
    "2015.106793.Wisdom-Of-The-East-The-Alchemy-Of-Happiness_djvu.txt"
+  ],
+  "woe-buddhist-scriptures": [
+   "india.history.resource.112174",
+   "Buddhist Scriptures: a selection translated from the Pali (Murray, Wisdom of the East, 1913)",
+   "112174_djvu.txt"
+  ],
+  "woe-vedic-hymns": [
+   "bwb_W9-DJJ-947",
+   "Vedic Hymns, translated from the Rigveda (Murray, Wisdom of the East, 1923)"
+  ],
+  "woe-path-of-light": [
+   "pathoflight00sant",
+   "The Path of Light (Murray, Wisdom of the East, 1909)"
+  ],
+  "woe-way-of-virtue": [
+   "thebuddhaswayof00unknuoft",
+   "The Buddha's Way of Virtue: a translation of the Dhammapada (Murray, Wisdom of the East, 1912)"
+  ],
+  "woe-rubaiyat-of-hafiz": [
+   "rubaiyatofhafiz00hafi",
+   "The Ruba'iyat of Hafiz (Murray, Wisdom of the East, 1919 printing)"
+  ],
+  "woe-secret-rose-garden": [
+   "secretrosegarden00shabiala-2",
+   "The Secret Rose Garden (Murray, Wisdom of the East, 1920)"
+  ],
+  "woe-rose-garden-of-sadi": [
+   "in.ernet.dli.2015.460102",
+   "The Rose-Garden of Sa'di (Murray, Wisdom of the East, third impression, 1910)",
+   "2015.460102.The-Rose-garden-Of-Sadi_djvu.txt"
+  ],
+  "woe-scroll-of-wisdom": [
+   "scrollofwisdomwi00sadiuoft",
+   "Sadi's Scroll of Wisdom (Murray, Wisdom of the East, 1906)"
+  ],
+  "woe-diwan-of-zeb-un-nissa": [
+   "diwanofzebunniss00zebuuoft",
+   "The Diwan of Zeb-un-Nissa, the first fifty ghazals (Murray, Wisdom of the East, 1913)"
+  ],
+  "woe-duties-of-the-heart": [
+   "india.history.resource.111766",
+   "The Duties of the Heart (Orient Press, Wisdom of the East, 1904)",
+   "111766_djvu.txt"
+  ],
+  "woe-jewish-proverbs": [
+   "ancientjewishpro0000cohe",
+   "Ancient Jewish Proverbs (Dutton, Wisdom of the East, 1911)"
+  ],
+  "woe-burden-of-isis": [
+   "burdenofisis00isisiala",
+   "The Burden of Isis: the laments of Isis and Nephthys (Murray, Wisdom of the East, 1910)"
+  ],
+  "woe-book-of-history": [
+   "classicsconfuci00sephgoog",
+   "The Classics of Confucius: Book of History (Shu King) (Murray, Wisdom of the East, 1906)"
+  ],
+  "woe-conduct-of-life": [
+   "conductoflifeoru0000unse",
+   "The Conduct of Life, or the Universal Order of Confucius (Murray, Wisdom of the East, 1928 printing)"
   ]
  },
  "titles": {
@@ -213,18 +416,157 @@
    "translator": "Claud Field",
    "scan_edition": "John Murray, London, in the Wisdom of the East series (ed. L. Cranmer-Byng and S. A. Kapadia), 1910; Digital Library of India scan",
    "note": "Translated from the Hindustani, not the Persian, as the title page says. Field's Confessions of Al Ghazzali (same series) is on the claud-field shelf."
+  },
+  "wisdom-of-the-east-buddhist-scriptures": {
+   "source": "woe-buddhist-scriptures",
+   "of": "The Pali Canon (selections)",
+   "work": "Buddhist Scriptures",
+   "translated": 1913,
+   "translator": "E. J. Thomas",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series, 1913"
+  },
+  "wisdom-of-the-east-vedic-hymns": {
+   "source": "woe-vedic-hymns",
+   "of": "The Rigveda (selections)",
+   "work": "Vedic Hymns",
+   "translated": 1923,
+   "translator": "Edward J. Thomas",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series, 1923"
+  },
+  "wisdom-of-the-east-path-of-light": {
+   "source": "woe-path-of-light",
+   "of": "Śāntideva",
+   "work": "The Path of Light (the Bodhicaryāvatāra)",
+   "translated": 1909,
+   "translator": "L. D. Barnett",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series, 1909; Princeton Theological Seminary copy. The title page says 'rendered for the first time'"
+  },
+  "wisdom-of-the-east-way-of-virtue": {
+   "source": "woe-way-of-virtue",
+   "of": "The Dhammapada",
+   "work": "The Buddha's 'Way of Virtue'",
+   "translated": 1912,
+   "translator": "W. D. C. Wagiswara and K. J. Saunders",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series, 1912; Trinity College Toronto copy",
+   "note": "Max Müller's and F. L. Woodward's Dhammapadas are on the muller and singles-arts-miscellany shelves: different translations."
+  },
+  "wisdom-of-the-east-rubaiyat-of-hafiz": {
+   "source": "woe-rubaiyat-of-hafiz",
+   "of": "Hafiz",
+   "work": "The Ruba'iyat of Hafiz",
+   "translated": 1910,
+   "translator": "Syed Abdul Majid and L. Cranmer-Byng",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series; first edition October 1910, this the March 1919 reprint. Translated with introduction by Syed Abdul Majid, rendered into English verse by L. Cranmer-Byng"
+  },
+  "wisdom-of-the-east-secret-rose-garden": {
+   "source": "woe-secret-rose-garden",
+   "of": "Mahmud Shabistari",
+   "work": "The Secret Rose Garden (Gulshan-i Raz)",
+   "translated": 1920,
+   "translator": "Florence Lederer",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series, 1920. The title page says 'rendered from the Persian'"
+  },
+  "wisdom-of-the-east-rose-garden-of-sadi": {
+   "source": "woe-rose-garden-of-sadi",
+   "of": "Sa'di",
+   "work": "The Rose-Garden of Sa'di (from the Gulistan)",
+   "translated": 1910,
+   "translator": "L. Cranmer-Byng",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series, third impression, 1910; Digital Library of India scan",
+   "note": "Selections, 'selected and rendered' by Cranmer-Byng; his note says the translation was prepared with the help of S. A. Kapadia."
+  },
+  "wisdom-of-the-east-scroll-of-wisdom": {
+   "source": "woe-scroll-of-wisdom",
+   "of": "Sa'di (attributed)",
+   "work": "Sadi's Scroll of Wisdom (Pand-nama)",
+   "translated": 1906,
+   "translator": "Arthur N. Wollaston",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series, 1906; University of Toronto copy",
+   "note": "The title page names Wollaston only for the introduction, but his signed introduction (May 1906) presents the book as a new translation: no other English version is in print, 'therefore, no apology is needed for the present work'."
+  },
+  "wisdom-of-the-east-diwan-of-zeb-un-nissa": {
+   "source": "woe-diwan-of-zeb-un-nissa",
+   "of": "Zeb-un-Nissa",
+   "work": "The Diwan of Zeb-un-Nissa",
+   "translated": 1913,
+   "translator": "Magan Lal and Jessie Duncan Westbrook",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series, 1913; University of Toronto copy"
+  },
+  "wisdom-of-the-east-diwan-of-abul-ala": {
+   "source": "woe-diwan-of-abul-ala",
+   "of": "Abu'l-Ala al-Ma'arri",
+   "work": "The Diwan of Abu'l-Ala",
+   "translated": 1909,
+   "translator": "Henry Baerlein",
+   "scan_edition": "Project Gutenberg #13086, from the Wisdom of the East volume, second edition (Murray, 1909)",
+   "note": "English verse. Baerlein's dedication says E. J. Dillon had been putting the poet into English prose and that this book puts him into English verse. Not the same book as Ameen Rihani's Luzumiyat on singles-plays-poetry-2."
+  },
+  "wisdom-of-the-east-arabian-wisdom": {
+   "source": "woe-arabian-wisdom",
+   "of": "Arabic proverbs and sayings",
+   "work": "Arabian Wisdom",
+   "translated": 1916,
+   "translator": "John Wortabet",
+   "scan_edition": "Project Gutenberg #33109, from the Wisdom of the East volume, third impression (Murray, 1916)"
+  },
+  "wisdom-of-the-east-duties-of-the-heart": {
+   "source": "woe-duties-of-the-heart",
+   "of": "Bahya ibn Paquda",
+   "work": "The Duties of the Heart (selections)",
+   "translated": 1904,
+   "translator": "Edwin Collins",
+   "scan_edition": "The Orient Press, London, in the Wisdom of the East series, 1904",
+   "note": "Collins calls his version 'sometimes literal, now and again a summarised paraphrase'."
+  },
+  "wisdom-of-the-east-jewish-proverbs": {
+   "source": "woe-jewish-proverbs",
+   "of": "Talmud and Midrash (proverbs)",
+   "work": "Ancient Jewish Proverbs",
+   "translated": 1911,
+   "translator": "A. Cohen",
+   "scan_edition": "E. P. Dutton, New York, in the Wisdom of the East series, 1911",
+   "note": "'Compiled and classified' by Cohen, whose preface says he differs from Dukes's German collection 'in translation and interpretation'."
+  },
+  "wisdom-of-the-east-burden-of-isis": {
+   "source": "woe-burden-of-isis",
+   "of": "Ancient Egyptian (the Lamentations of Isis and Nephthys)",
+   "work": "The Burden of Isis",
+   "translated": 1910,
+   "translator": "James Teackle Dennis",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series, 1910"
+  },
+  "wisdom-of-the-east-book-of-history": {
+   "source": "woe-book-of-history",
+   "of": "The Shujing (Book of History)",
+   "work": "The Classics of Confucius: Book of History",
+   "translated": 1906,
+   "translator": "W. Gorn Old",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series, 1906; Google scan",
+   "note": "'Rendered and compiled' by Gorn Old: an abridgement, not a complete Shujing. James Legge's complete version is on the legge shelf."
+  },
+  "wisdom-of-the-east-conduct-of-life": {
+   "source": "woe-conduct-of-life",
+   "of": "The Zhongyong (Doctrine of the Mean)",
+   "work": "The Conduct of Life, or the Universal Order of Confucius",
+   "translated": 1906,
+   "translator": "Ku Hung-Ming",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series; first edition February 1906, this the October 1928 reprint"
   }
  },
  "_pending": {
-  "women-and-wisdom-of-japan": "Women and Wisdom of Japan (Murray, 1905; india.history.resource.91283): the Onna Daigaku and its sequel in English, but the title page names only Shingoro Takaishi as writer of the introduction, and the text read so far never says who translated. Held back until the translator is established."
+  "women-and-wisdom-of-japan": "Women and Wisdom of Japan (Murray, 1905; india.history.resource.91283): the Onna Daigaku and its sequel in English, but the title page names only Shingoro Takaishi as writer of the introduction, and the text read so far never says who translated. Held back until the translator is established.",
+  "legends-of-indian-buddhism": "Legends of Indian Buddhism (Murray, 1911; india.history.resource.112118): six legends translated from Burnouf's French, but the title page names Winifred Stephens only for the introduction and the text read never says who translated. Held back with Women and Wisdom of Japan until the translator is established."
  },
  "_excluded": {
   "musings-of-a-chinese-mystic": "Musings of a Chinese Mystic (Lionel Giles, 1906; musingschinesem00zhua): selections from H. A. Giles's 1889 Chuang Tzu translation, which its own note credits and which the giles shelf already holds whole.",
   "sayings-of-confucius": "Lionel Giles's Sayings of Confucius (1907) is already on the giles shelf (PG 46389).",
-  "held-in-singles": "Already held on lane C's singles shelves: Gunn's Instruction of Ptah-hotep (PG 30508, singles-ideas), Bronnle's Awakening of the Soul (PG 34572, singles-ideas) and Ivan Chen's Book of Filial Duty (PG 75878, singles-ideas-3).",
+  "held-in-singles": "Already held on lane C's singles shelves: Gunn's Instruction of Ptah-hotep (PG 30508, singles-ideas), Bronnle's Awakening of the Soul (PG 34572, singles-ideas) and Ivan Chen's Book of Filial Duty (PG 75878, singles-ideas-3), and A. Hart Edwards's Bustan of Sadi (1911; PG 60471, singles-plays-poetry-2).",
   "confessions-of-al-ghazzali": "Claud Field's Confessions of Al Ghazzali (1909) is already on the claud-field shelf.",
   "not-translations": "Studies rather than translations, so off a translators' shelf: Yone Noguchi's Spirit of Japanese Poetry (1914, his lectures), E. V. Gatenby's Cloud-Men of Yamato (1929, 'an outline of mysticism in Japanese literature'), and M. A. Murray's Ancient Egyptian Legends (1913), which she says she 'retold ... in my own way'.",
-  "wisdom-of-the-apocrypha": "The Wisdom of the Apocrypha (1910) uses the Revised Version text (its prefatory note says so), so it is not a new translation."
+  "wisdom-of-the-apocrypha": "The Wisdom of the Apocrypha (1910) uses the Revised Version text (its prefatory note says so), so it is not a new translation.",
+  "religion-of-the-koran": "Wollaston's Religion of the Koran (1904): its Koran passages are 'taken from the Translation by the late Professor E. H. Palmer' (Sacred Books of the East, 1880), which the palmer shelf holds.",
+  "persian-mystics-davis": "F. Hadland Davis's Persian Mystics: Rumi (1907) and Jami (1908) (PG 45159, 45158): anthologies of other men's translations by permission (Whinfield and Nicholson in the Rumi volume, FitzGerald and others in the Jami), not new translations.",
+  "studies": "Authored studies rather than translations: Herbert Baynes's Way of the Buddha (1906, 'the treatise'), L. D. Barnett's Brahma-Knowledge (1907, 'an outline of the philosophy of the Vedanta') and Heart of India (1908, 'sketches'), and S. A. Kapadia's Teachings of Zoroaster (1905, 'by S. A. Kapadia'). Eric Hammond's Splendour of God (1911) is a compilation of Baha'i extracts whose front matter names no translator."
  },
  "_checks": {
   "woe-lute-of-jade": {
@@ -232,6 +574,24 @@
    "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "cranmer-byng",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "woe-diwan-of-abul-ala": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry baerlein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "woe-arabian-wisdom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john wortabet",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -334,11 +694,177 @@
    "ia_date": "1910",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "woe-buddhist-scriptures": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. j. thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woe-vedic-hymns": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edward j. thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woe-path-of-light": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "l. d. barnett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woe-way-of-virtue": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "wagiswara",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "woe-rubaiyat-of-hafiz": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "abdul majid",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woe-secret-rose-garden": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "florence lederer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woe-rose-garden-of-sadi": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cranmer-byng",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woe-scroll-of-wisdom": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "arthur n. wollaston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "woe-diwan-of-zeb-un-nissa": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "magan lal",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "woe-duties-of-the-heart": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "edwin collins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woe-jewish-proverbs": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "a. cohen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woe-burden-of-isis": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james teackle dennis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "woe-book-of-history": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "woe-conduct-of-life": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hung ming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
   "woe-lute-of-jade": {
    "pg": 390,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "woe-diwan-of-abul-ala": {
+   "pg": 13086,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "woe-arabian-wisdom": {
+   "pg": 33109,
    "pg_copyrighted_marker": false,
    "pg_translator": null,
    "translator_named_in_first_15k_of_body": true
@@ -425,7 +951,147 @@
     1910
    ],
    "post_1930_years_in_front_15k": []
+  },
+  "woe-buddhist-scriptures": {
+   "ia": "india.history.resource.112174",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1913
+   ],
+   "post_1930_years_in_front_15k": [
+    2020
+   ]
+  },
+  "woe-vedic-hymns": {
+   "ia": "bwb_W9-DJJ-947",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1901,
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-path-of-light": {
+   "ia": "pathoflight00sant",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1909
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-way-of-virtue": {
+   "ia": "thebuddhaswayof00unknuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1912,
+    1920
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-rubaiyat-of-hafiz": {
+   "ia": "rubaiyatofhafiz00hafi",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1910,
+    1912,
+    1919
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-secret-rose-garden": {
+   "ia": "secretrosegarden00shabiala-2",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1700,
+    1821,
+    1825,
+    1880,
+    1920
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-rose-garden-of-sadi": {
+   "ia": "in.ernet.dli.2015.460102",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1910
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-scroll-of-wisdom": {
+   "ia": "scrollofwisdomwi00sadiuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-diwan-of-zeb-un-nissa": {
+   "ia": "diwanofzebunniss00zebuuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1639,
+    1662,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-duties-of-the-heart": {
+   "ia": "india.history.resource.111766",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1904
+   ],
+   "post_1930_years_in_front_15k": [
+    2020
+   ]
+  },
+  "woe-jewish-proverbs": {
+   "ia": "ancientjewishpro0000cohe",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1844,
+    1851,
+    1885,
+    1895,
+    1911
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-burden-of-isis": {
+   "ia": "burdenofisis00isisiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1910
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-book-of-history": {
+   "ia": "classicsconfuci00sephgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-conduct-of-life": {
+   "ia": "conductoflifeoru0000unse",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1906,
+    1912,
+    1920,
+    1928
+   ],
+   "post_1930_years_in_front_15k": [
+    1996
+   ]
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "woe-book-of-history": {
+   "author": "The title page OCR reads 'RENDERED AND COMPILED BY W. CORN OLD, M.R.A.S.' for W. Gorn Old, with the Wisdom of the East series heading and Murray's 1906 imprint. Checked by eye 2026-10-17."
+  }
+ }
 }
