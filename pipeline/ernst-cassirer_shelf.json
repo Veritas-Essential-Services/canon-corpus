@@ -1,0 +1,40 @@
+{
+ "_about": "Ernst Cassirer (1874-1945), raw IA OCR: Substance and Function, and Einstein's Theory of Relativity, authorized translation by William Curtis Swabey and Marie Collins Swabey (Chicago: Open Court, 1923). Published 1923, so US public domain. No uids minted.",
+ "_author": "Ernst Cassirer",
+ "_name_words": [
+  "ernst",
+  "e",
+  "cassirer"
+ ],
+ "_surname": [
+  "cassirer"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cassirer-swabey-substance-and-function-1923": [
+   "substanceandfunc00cassuoft",
+   "Substance and Function, and Einstein's Theory of Relativity (Chicago: Open Court, 1923)",
+   "tr. William Curtis Swabey and Marie Collins Swabey"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "cassirer-swabey-substance-and-function-1923": "Swabey"
+ },
+ "_checks": {
+  "cassirer-swabey-substance-and-function-1923": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cassirer",
+   "translator_claimed": "Swabey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
