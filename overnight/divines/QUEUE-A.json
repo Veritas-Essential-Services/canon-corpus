@@ -4,7 +4,7 @@
     {
       "id": "flavel",
       "status": "done",
-      "scope": "John Flavel \u2014 complete public-domain works; shelf + fetch + map section",
+      "scope": "John Flavel — complete public-domain works; shelf + fetch + map section",
       "started": "2026-10-02T15:11:12-05:00",
       "finished": "2026-10-02T15:16:54-05:00",
       "notes": "11/11 fetched, 0 failed. CCEL: grace, pneum, saintindeed, lovely, life (fountain already held). IA: 1820 Whole Works 6 vols, raw OCR, 12.1 MB, 1.83M words. CCEL converted with convert_thml via new pipeline/convert_shelf.py: 4,622 units, 3,942 scripture links. No Gutenberg Flavel exists. Awaiting uid minting: all 11 slugs."
@@ -12,7 +12,7 @@
     {
       "id": "bunyan",
       "status": "done",
-      "scope": "John Bunyan \u2014 complete public-domain works (collected Works); shelf + fetch + map section",
+      "scope": "John Bunyan — complete public-domain works (collected Works); shelf + fetch + map section",
       "started": "2026-10-02T15:17:03-05:00",
       "finished": "2026-10-02T15:18:51-05:00",
       "notes": "11/11 fetched, 0 failed. Offor's Works (1854) 3 vols as Gutenberg clean text (PG 6046-6048, 12.3 MB, 2.2M words) + 5 single PG titles + 3 CCEL (badman, grace, miscellaneous). pilgrim/holy_war already held. CCEL converted: 1,400 units, 501 scripture links. Offor not structured (needs a treatise splitter). Defects: CCEL miscellaneous vs PG 3613 likely duplicate; Exhortation to Peace and Unity is of doubted authorship. Awaiting uid minting: all 11 slugs."
@@ -20,7 +20,7 @@
     {
       "id": "ryle",
       "status": "done",
-      "scope": "J.C. Ryle \u2014 all public-domain works; shelf + fetch + map section",
+      "scope": "J.C. Ryle — all public-domain works; shelf + fetch + map section",
       "started": "2026-10-02T15:19:04-05:00",
       "finished": "2026-10-02T15:37:39-05:00",
       "notes": "42 fetched, 0 failed: 3 CCEL (holiness, matthew, upper_room), 3 Gutenberg, 36 IA (Expository Thoughts Mark/Luke/John 6 vols + 30 books and tracts). 22.3 MB. CCEL converted: 4,157 units, 1,604 scripture links. 2 tracts held back as _pending (text never names Ryle). Home Truths series numbers unconfirmed. Awaiting uid minting: all 42."
@@ -28,7 +28,7 @@
     {
       "id": "horatius-bonar",
       "status": "done",
-      "scope": "Horatius Bonar \u2014 prose works; hymns listed only as 'see hymn manifest'",
+      "scope": "Horatius Bonar — prose works; hymns listed only as 'see hymn manifest'",
       "started": "2026-10-02T15:38:36-05:00",
       "finished": "2026-10-02T15:43:32-05:00",
       "notes": "24 fetched (2 CCEL, 22 IA), 12.4 MB. 4 scans refused by the new identity check (OCR never names Bonar): God's Way of Holiness, Kelso Tracts, Redeem the Time, Light and Truth OT, held as _pending. CCEL followlamb/goto/soulwinners XML not served. CCEL converted: 574 units, 135 links. Hymns: see hymn manifest. Awaiting uid minting: all 24."
@@ -36,7 +36,7 @@
     {
       "id": "andrew-bonar",
       "status": "done",
-      "scope": "Andrew A. Bonar \u2014 all public-domain works incl. Memoir of M'Cheyne",
+      "scope": "Andrew A. Bonar — all public-domain works incl. Memoir of M'Cheyne",
       "started": "2026-10-02T15:43:58-05:00",
       "finished": "2026-10-02T15:45:36-05:00",
       "notes": "17/17 fetched, 13.3 MB: Gutenberg M'Cheyne Memoir and Rutherford Letters (ed. Bonar); 15 IA (Leviticus, Psalms, Mission to the Jews, M'Cheyne 1844 and 1878, Sandeman, diary, etc.). No CCEL Andrew Bonar exists. Andrew Redman Bonar excluded (different man). Awaiting uid minting: all 17."
@@ -44,14 +44,14 @@
     {
       "id": "saphir",
       "status": "done",
-      "scope": "Adolph Saphir \u2014 all public-domain works",
+      "scope": "Adolph Saphir — all public-domain works",
       "finished": "2026-10-02T15:46:35-05:00",
       "notes": "11/11 fetched, 7.1 MB, all IA raw (no CCEL or Gutenberg Saphir). Hebrews lectures 2 series, Christ Crucified, Christ and the Church, Lord's Prayer, Hidden Life, Our Life-Day, Divine Unity, Christ and Israel, Auberlen tr. Saphir, Carlyle's memoir. Pending: Christ and the Scriptures, Jesus and the Sinner (authorship). Awaiting uid minting: all 11."
     },
     {
       "id": "edwards-gaps",
       "status": "done",
-      "scope": "Jonathan Edwards \u2014 gap audit against edwards_shelf.json; add verified gaps only; map section",
+      "scope": "Jonathan Edwards — gap audit against edwards_shelf.json; add verified gaps only; map section",
       "started": "2026-10-02T15:46:35-05:00",
       "finished": "2026-10-02T15:48:24-05:00",
       "notes": "6 verified gaps added to edwards_shelf.json and fetched (4.8 MB): Affections 1746, Brainerd 1749, Freedom of Will 1762, Erskine's 1793 and 1796 selections, Hopkins's Life. 2 more (Distinguishing Marks 1741, Humble Attempt 1747) pending: ECCO OCR never yields the name. Shelf now sets _name_words. Gutenberg has nothing more. Awaiting uid minting: the 6 new slugs."
@@ -59,7 +59,7 @@
     {
       "id": "overflow-summa",
       "status": "done",
-      "scope": "Aquinas, Summa Theologiae \u2014 census what the repo holds vs. the whole Summa (see pipeline/ingest_summa_supplement.py); add verified public-domain English sources for the missing parts to a shelf; do not alter existing Summa ids",
+      "scope": "Aquinas, Summa Theologiae — census what the repo holds vs. the whole Summa (see pipeline/ingest_summa_supplement.py); add verified public-domain English sources for the missing parts to a shelf; do not alter existing Summa ids",
       "started": "2026-10-02T15:48:39-05:00",
       "finished": "2026-10-02T15:49:58-05:00",
       "notes": "Census only, nothing to add: Gutenberg I (119 Q), I-II (114), II-II (189), III (90) plus CCEL Supplement (99) and Appendix via ingest_summa_supplement.py = the whole Summa in the PD Dominican translation. Defects: 3 questions in the PG files lack the QUESTION heading line; the Supplement is not a row in adler_shelf.json."
@@ -1400,7 +1400,7 @@
     {
       "id": "george-muller",
       "status": "done",
-      "scope": "George M\u00fcller: A Narrative of Some of the Lord's Dealings (d. 1898)",
+      "scope": "George Müller: A Narrative of Some of the Lord's Dealings (d. 1898)",
       "added": "2026-10-03T02:54:08-05:00",
       "added_by": "lane A worker, round 12 (round 11 done at 02:42 CDT; the relay said to choose further Divines until the stop time; Adam may veto in the digest). Victorian and later 19th-century preachers, evangelists and devotional writers, Scots and English expositors, Methodist and Baptist theologians; all died before 1930. None from the English Reformers/Knox list, and no commentators PR #11 plans.",
       "finished": "2026-10-03T05:58:07-05:00",
@@ -1922,7 +1922,7 @@
     {
       "id": "frederic-godet",
       "status": "done",
-      "scope": "Fr\u00e9d\u00e9ric Godet in English: commentaries on Luke, John, Romans, 1 Corinthians (d. 1900)",
+      "scope": "Frédéric Godet in English: commentaries on Luke, John, Romans, 1 Corinthians (d. 1900)",
       "added": "2026-10-10T09:49:31-05:00",
       "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
       "finished": "2026-10-10T10:28:41-05:00",
@@ -1940,7 +1940,7 @@
     {
       "id": "julius-muller",
       "status": "done",
-      "scope": "Julius M\u00fcller in English: The Christian Doctrine of Sin (d. 1878)",
+      "scope": "Julius Müller in English: The Christian Doctrine of Sin (d. 1878)",
       "added": "2026-10-10T09:49:31-05:00",
       "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
       "finished": "2026-10-10T10:28:51-05:00",
@@ -2926,6 +2926,125 @@
       "added_by": "lane A",
       "finished": "2026-10-17T17:41:06-05:00",
       "notes": "built and verified"
+    },
+    {
+      "id": "bernard-of-clairvaux",
+      "status": "queued",
+      "scope": "round 25: Catholic spiritual classics, medieval women mystics, Bossuet, Lull and Boehme in English translations printed before 1930; translator recorded",
+      "added": "2026-10-17T22:50Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "francis-of-assisi",
+      "status": "queued",
+      "scope": "round 25: Catholic spiritual classics, medieval women mystics, Bossuet, Lull and Boehme in English translations printed before 1930; translator recorded",
+      "added": "2026-10-17T22:50Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "ignatius-of-loyola",
+      "status": "queued",
+      "scope": "round 25: Catholic spiritual classics, medieval women mystics, Bossuet, Lull and Boehme in English translations printed before 1930; translator recorded",
+      "added": "2026-10-17T22:50Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "catherine-of-siena",
+      "status": "queued",
+      "scope": "round 25: Catholic spiritual classics, medieval women mystics, Bossuet, Lull and Boehme in English translations printed before 1930; translator recorded",
+      "added": "2026-10-17T22:50Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "catherine-of-genoa",
+      "status": "queued",
+      "scope": "round 25: Catholic spiritual classics, medieval women mystics, Bossuet, Lull and Boehme in English translations printed before 1930; translator recorded",
+      "added": "2026-10-17T22:50Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "angela-of-foligno",
+      "status": "queued",
+      "scope": "round 25: Catholic spiritual classics, medieval women mystics, Bossuet, Lull and Boehme in English translations printed before 1930; translator recorded",
+      "added": "2026-10-17T22:50Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "gertrude-the-great",
+      "status": "queued",
+      "scope": "round 25: Catholic spiritual classics, medieval women mystics, Bossuet, Lull and Boehme in English translations printed before 1930; translator recorded",
+      "added": "2026-10-17T22:50Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "mechthild-of-hackeborn",
+      "status": "queued",
+      "scope": "round 25: Catholic spiritual classics, medieval women mystics, Bossuet, Lull and Boehme in English translations printed before 1930; translator recorded",
+      "added": "2026-10-17T22:50Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "mechthild-of-magdeburg",
+      "status": "queued",
+      "scope": "round 25: Catholic spiritual classics, medieval women mystics, Bossuet, Lull and Boehme in English translations printed before 1930; translator recorded",
+      "added": "2026-10-17T22:50Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "bridget-of-sweden",
+      "status": "queued",
+      "scope": "round 25: Catholic spiritual classics, medieval women mystics, Bossuet, Lull and Boehme in English translations printed before 1930; translator recorded",
+      "added": "2026-10-17T22:50Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "louis-of-granada",
+      "status": "queued",
+      "scope": "round 25: Catholic spiritual classics, medieval women mystics, Bossuet, Lull and Boehme in English translations printed before 1930; translator recorded",
+      "added": "2026-10-17T22:50Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "louis-de-blois",
+      "status": "queued",
+      "scope": "round 25: Catholic spiritual classics, medieval women mystics, Bossuet, Lull and Boehme in English translations printed before 1930; translator recorded",
+      "added": "2026-10-17T22:50Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "alphonsus-liguori",
+      "status": "queued",
+      "scope": "round 25: Catholic spiritual classics, medieval women mystics, Bossuet, Lull and Boehme in English translations printed before 1930; translator recorded",
+      "added": "2026-10-17T22:50Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "augustine-baker",
+      "status": "queued",
+      "scope": "round 25: Catholic spiritual classics, medieval women mystics, Bossuet, Lull and Boehme in English translations printed before 1930; translator recorded",
+      "added": "2026-10-17T22:50Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "jacques-benigne-bossuet",
+      "status": "queued",
+      "scope": "round 25: Catholic spiritual classics, medieval women mystics, Bossuet, Lull and Boehme in English translations printed before 1930; translator recorded",
+      "added": "2026-10-17T22:50Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "ramon-lull",
+      "status": "queued",
+      "scope": "round 25: Catholic spiritual classics, medieval women mystics, Bossuet, Lull and Boehme in English translations printed before 1930; translator recorded",
+      "added": "2026-10-17T22:50Z",
+      "added_by": "lane A"
+    },
+    {
+      "id": "jacob-boehme",
+      "status": "queued",
+      "scope": "round 25: Catholic spiritual classics, medieval women mystics, Bossuet, Lull and Boehme in English translations printed before 1930; translator recorded",
+      "added": "2026-10-17T22:50Z",
+      "added_by": "lane A"
     }
   ]
 }
