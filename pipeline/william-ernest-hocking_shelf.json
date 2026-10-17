@@ -1,5 +1,5 @@
 {
- "_about": "William Ernest Hocking (1873-1966): The Meaning of God in Human Experience, a philosophic study of religion (New Haven: Yale University Press; first published 1912, this scan a 1928 printing, MDCCCCXXVIII on the title page), raw IA OCR. Not Joseph or Silas Hocking the novelists. US public domain (published 1912). No uids minted.",
+ "_about": "William Ernest Hocking (1873-1966): The Meaning of God in Human Experience, a philosophic study of religion (New Haven: Yale University Press; first published 1912, this scan a 1928 printing, MDCCCCXXVIII on the title page), raw IA OCR. Not Joseph or Silas Hocking the novelists. Added in round ab: Human Nature and its Remaking (New Haven: Yale University Press, 1918). US public domain (published 1912). No uids minted.",
  "_author": "William Ernest Hocking",
  "_name_words": [
   "william",
@@ -15,6 +15,10 @@
   "hocking-meaning-of-god-1912-printed-1928": [
    "meaningofgodinhu12hock",
    "The Meaning of God in Human Experience (New Haven: Yale University Press, 1912; printing of 1928)"
+  ],
+  "hocking-human-nature-and-its-remaking-1918": [
+   "humannaturerema00hockuoft",
+   "Human Nature and its Remaking (New Haven: Yale University Press, 1918)"
   ]
  },
  "_excluded": {},
@@ -28,6 +32,17 @@
    "ia_rights": "ok: published 1912",
    "ia_date": "1912",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hocking-human-nature-and-its-remaking-1918": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hocking",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
