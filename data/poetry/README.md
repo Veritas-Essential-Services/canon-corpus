@@ -5,15 +5,16 @@ fable_review: pending
 ---
 # data/poetry — the Word Hoard poetry section
 
-Two layers of poems, one shape, and Mnemonicon memory packs built from them.
+Three layers of poems, one shape, and Mnemonicon memory packs built from them.
 Build: `pipeline/build_poetry.py`. Validator: `tests/poetry_test.py`.
 
 | Layer | Tag | What it is |
 |---|---|---|
 | **AO** | `ao` | AmblesideOnline's poetry selections, Years 1–12 and the Canadian supplement, as AO schedules them (year, term, order). |
 | **Heroic addendum** | `addendum-heroic` | The house's own proposals: heroic, adventurous and vocational verse, plus a few songs. Same year/term slots so it sits **beside** the AO list, never inside it. Every row is `status: proposed` until Adam rules on it. |
+| **Treasury** | `treasury` | The Schoolroom Treasury's candidate pool: every verse candidate from the 55 old anthologies, readers and speakers in `pool/`, for Adam to cull. No year or term yet; every row is `status: candidate` and carries its `pool_id`. Selections are written by `pipeline/select_treasury.py`. |
 
-A poem in both layers is one poem: one citation (`poetry:<poet>.<title>`),
+A poem in two layers is one poem: one citation (`poetry:<poet>.<title>`),
 one `wh-` uid, one Mnemonicon piece id.
 
 ## Files
@@ -112,3 +113,14 @@ numbered I., II., … across double blank lines, as in Lear) and `fix`, a
 list of `[typo, mending]` pairs (new) for a printer's or transcriber's slip
 (*Sing-Song*'s "Jives" for "lives"), applied to the cut text, never to the
 book.
+
+## The treasury layer (2026-10-17)
+
+Adam asked for every poem in the candidate pool to be in the hoard. `pipeline/select_treasury.py` turns `pool/pool.jsonl` into `selections/treasury.jsonl`:
+
+- **Which poems:** every verse candidate. The 667 prose pieces (speeches from the readers and speakers) wait for a declamation layer. A candidate already in the AO list or the addendum is not repeated.
+- **Where the cut begins:** at the poem's first line as its book prints it, at the occurrence with the poem's title just above it, so a contents page or an index of first lines never wins. Books whose year was read from the book itself are tried first. The rule is stored in the row (`extract.first_line`, `occurrence`, and an `end` for a signature line at the foot) and the build replays it.
+- **What is refused:** a cut that runs into the next poem of the book, a single line, more than 900 lines, prose, or an editor's bracketed note. Such a candidate stays in the layer, linked out, with the reasons.
+- **Packs:** one per source book, `treasury-pg<n>.json`.
+
+Order of a rebuild: `build_poetry.py --fetch`, `select_treasury.py --fetch` (fetches and pins the pool's books), `build_poetry.py`, then `build_poetry.py --check`.

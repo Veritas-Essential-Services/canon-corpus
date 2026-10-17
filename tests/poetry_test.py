@@ -15,6 +15,7 @@ fetched (data/corpus/gitenberg/), it also rebuilds and asserts byte-identical.
 import importlib.util
 import json
 import os
+import re
 import sys
 import uuid
 
@@ -71,6 +72,12 @@ for layer in B.LAYERS:
     check(f"{layer}: every row is hosted or linked, and a linked row has somewhere to go",
           all(r["host"] in ("full", "link") and (r["host"] == "full" or r["link"]) for r in cats[layer]))
 check("the addendum is marked as proposals", all(r.get("status") == "proposed" for r in cats["addendum-heroic"]))
+check("the treasury is marked as candidates, each tied to its pool entry",
+      all(r.get("status") == "candidate" and r.get("pool_id") for r in cats["treasury"]))
+_tsel = {B.citation(s): s for s in sels["treasury"]}
+_bad = [r["citation"] for r in cats["treasury"] if r["host"] == "full"
+        and B.norm(texts[r["uid"]]["text"].split("\n")[0]) != B.norm(_tsel[r["citation"]]["first_line"])]
+check("a hosted treasury poem begins at the first line its book prints", not _bad, _bad[:5])
 check("the AO layer carries no addendum tag, and the addendum no AO tag",
       all("addendum-heroic" not in r["tags"] for r in cats["ao"])
       and all("ao" not in r["tags"] for r in cats["addendum-heroic"]))
@@ -105,7 +112,7 @@ for layer in B.LAYERS:
 by_cit = {}
 for row in allrows:
     by_cit.setdefault(row["citation"], set()).add(row["uid"])
-check("one citation, one uid, across both layers", all(len(v) == 1 for v in by_cit.values()))
+check("one citation, one uid, across the layers", all(len(v) == 1 for v in by_cit.values()))
 
 print("\n## texts")
 hosted = {r["uid"] for r in allrows if r["host"] == "full"}

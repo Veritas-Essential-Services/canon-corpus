@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # prov: 2026-10-06 claude-opus-5-5 drafted
+# prov: 2026-10-17 claude-opus-5-5 added the treasury layer
 # fable_review: pending
 """
 build_poetry.py -- the Word Hoard poetry section: AmblesideOnline's poetry
@@ -13,22 +14,27 @@ as Mnemonicon memory packs a child can bank straight into memory work.
 
     Input:  data/poetry/selections/ao.jsonl               (AO's schedule, curated)
             data/poetry/selections/addendum-heroic.jsonl  (the house's proposals, curated)
+            data/poetry/selections/treasury.jsonl         (the candidate pool; select_treasury.py)
             data/poetry/sources.json                      (the Gutenberg books, pinned by sha256)
             data/corpus/gitenberg/<n>.txt                 (fetched; gitignored)
     Output: data/poetry/catalog-ao.jsonl                  (COMMITTED)
             data/poetry/catalog-addendum-heroic.jsonl     (COMMITTED)
+            data/poetry/catalog-treasury.jsonl            (COMMITTED)
             data/poetry/texts.jsonl                       (COMMITTED; public domain only)
             exports/mnemonicon/poetry/<pack>.json         (COMMITTED; one per year and term)
     Tests:  tests/poetry_test.py
 
-TWO LAYERS, ONE SHAPE
+THREE LAYERS, ONE SHAPE
     A selection row says WHERE a poem sits (layer, year, term, order) and WHAT
     it is (poet, title, first publication, the public-domain book that holds
     it). The AO layer is AmblesideOnline's schedule as AO prints it; the
     addendum is the house's own proposal set (heroic, adventurous, vocational
     verse), tagged `addendum-heroic`, with the same year/term slots so it sits
-    beside the AO list without mixing into it. A poem in both layers is ONE
-    poem: one citation, one uid, one Mnemonicon piece id.
+    beside the AO list without mixing into it. The third layer, `treasury`, is
+    the Schoolroom Treasury's candidate pool (selections written by
+    select_treasury.py): every verse candidate from the old anthologies, with
+    no year or term until Adam culls and grades it. A poem in two layers is
+    ONE poem: one citation, one uid, one Mnemonicon piece id.
 
 THE RIGHTS RULE (US, as of 1 January 2026)
     Copyright follows the edition, not the poet's death (ADR 0001). So the
@@ -87,7 +93,7 @@ _X = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(_X)
 NAMESPACE = _X.NAMESPACE          # one namespace for every Word Hoard piece: never change it
 
-LAYERS = ("ao", "addendum-heroic")
+LAYERS = ("ao", "addendum-heroic", "treasury")
 AS_OF = 2026                      # the year the rights rule is computed for
 PD_BEFORE = AS_OF - 95            # published before this year: US public domain
 LIFE70_BEFORE = AS_OF - 70        # died before this year: out of copyright in life+70 countries
@@ -490,6 +496,9 @@ def pack_name(row):
         y = f"y{int(y):02d}" if str(y).isdigit() else str(y)
         t = f"-t{row['term']}" if row.get("term") else ""
         return f"ao-{y}{t}"
+    if row["layer"] == "treasury":                  # one pack per source book
+        n = (row.get("pd_source") or {}).get("gutenberg")
+        return f"treasury-pg{n}"
     return f"heroic-y{int(row['year']):02d}-t{row['term']}"
 
 
@@ -501,6 +510,8 @@ def tags_for(row):
         t.append(yt)
         if row.get("term"):
             t.append(f"{yt}-t{row['term']}")
+    elif row["layer"] == "treasury":
+        t.append(f"pg{(row.get('pd_source') or {}).get('gutenberg')}")
     else:
         t.append(row.get("kind") or "heroic")
         t.append(f"year-{y}")
@@ -584,6 +595,9 @@ def build(reg, report=False):
             }
             if layer == "addendum-heroic":
                 out["status"] = "proposed"
+            if layer == "treasury":
+                out["status"] = "candidate"
+                out["pool_id"], out["n_books"] = row.get("pool_id"), row.get("n_books")
             catalogs[layer].append(out)
             if host == "full":
                 lines_n = text.count("\n") + 1
@@ -610,9 +624,12 @@ def pieces_for(cat_rows, texts, layer_title):
         src = row["pd_source"]
         fp = row.get("first_pub") or {}
         source = row["poet"] + (f", {fp['work']} ({fp['year']})" if fp.get("work") and fp.get("year") else "")
-        where = (f"AmblesideOnline Year {row['year']}" + (f", Term {row['term']}" if row.get("term") else "")
-                 if row["layer"] == "ao" else
-                 f"Heroic addendum (proposed), beside AO Year {row['year']}, Term {row['term']}")
+        if row["layer"] == "ao":
+            where = f"AmblesideOnline Year {row['year']}" + (f", Term {row['term']}" if row.get("term") else "")
+        elif row["layer"] == "treasury":
+            where = f"Schoolroom Treasury candidate, printed in {row.get('n_books')} of the pool's old anthologies"
+        else:
+            where = f"Heroic addendum (proposed), beside AO Year {row['year']}, Term {row['term']}"
         ed = f" ({src['edition_year']})" if src.get("edition_year") else ""
         base_notes = (f"{where}.\nText: {src['work']}{ed}, Project Gutenberg #{src['gutenberg']}.\n"
                       f"{row['rights']['basis']}\nWord Hoard {row['citation']} · {row['uid']}")
