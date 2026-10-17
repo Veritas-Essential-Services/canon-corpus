@@ -935,3 +935,8 @@
 - Lewes's History volumes are mismatched editions (3rd ed. vol. I 1867, OCR misreads 1807; 4th ed. vol. II 1871)
 - Held: Bain, The Senses and the Intellect (Appleton, year unreadable); Lewes, Biographical History (no year seen)
 - Mach skipped: lane C owns mccormack
+
+## 2026-10-17 18:35 CDT — Round x: Enlightenment and radical philosophy
+- New shelves: holbach (2), mary-wollstonecraft (4), james-mackintosh (2), joseph-priestley (2)
+- Held: Gutenberg System of Nature (modern facsimile with a modern introduction), Ecce Homo (1977 facsimile), Priestley's Necessity (OCR 0.695)
+- Open for the reading-lists thread, which owns edmund-burke and thomas-paine: Burke's Works in 12 vols and Conway's Paine vols 1, 3, 4 are on Gutenberg and not held

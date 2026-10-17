@@ -213,3 +213,4 @@
 - 18:23 round u: 6 early modern shelves (Henry More, Norris, Wollaston, Collins, Tindal, Tucker), 10 volumes.
 - 18:25 round v: 6 shelves (Kuno Fischer, Herbart, Paul Janet, Eucken, Fourier, Vives), 12 volumes.
 - 18:29 round w: 6 logic/philosophy-of-science shelves. For Adam: Lewes's History of Philosophy is two volumes from different editions (1867 3rd, 1871 4th); keep, or wait for a matched pair? Held Bain's Senses and the Intellect (year unreadable).
+- 18:35 round x: Holbach, Wollstonecraft, Mackintosh, Priestley. Note for the reading-lists thread: Burke's 12-volume Works and Paine's Writings vols 1, 3, 4 (incl. The Age of Reason) are on Gutenberg and not held; their shelves, so untouched.
