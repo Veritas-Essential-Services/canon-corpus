@@ -1,5 +1,5 @@
 {
- "_about": "Augustus De Morgan (1806-1871), First Notions of Logic, preparatory to the study of geometry (London: Taylor and Walton, 1839), from Project Gutenberg. US public domain. Not to be confused with the de-morgan shelf (Mary De Morgan's fairy tales). No uids minted.",
+ "_about": "Augustus De Morgan (1806-1871), First Notions of Logic, preparatory to the study of geometry (London: Taylor and Walton, 1839), from Project Gutenberg, and Formal Logic, or the calculus of inference, necessary and probable (London: Taylor and Walton, 1847), raw IA OCR. US public domain. Not to be confused with the de-morgan shelf (Mary De Morgan's fairy tales). No uids minted.",
  "_author": "Augustus De Morgan",
  "_name_words": [
   "augustus",
@@ -18,7 +18,12 @@
    "First Notions of Logic, preparatory to the study of geometry (London: Taylor and Walton, 1839)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "de-morgan-formal-logic-1847": [
+   "formallogicorthe00demouoft",
+   "Formal Logic, or the calculus of inference, necessary and probable (London: Taylor and Walton, 1847)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "de-morgan-first-notions-of-logic-1839": {
@@ -29,6 +34,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "de-morgan-formal-logic-1847": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "de morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }

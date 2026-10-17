@@ -4393,6 +4393,7 @@ Shelf: `pipeline/augustus-de-morgan_shelf.json`. First Notions of Logic (1839, G
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | First Notions of Logic, preparatory to the study of geometry (London: Taylor and Walton, 1839) |  | `de-morgan-first-notions-of-logic-1839` | have (PG 67017) |
+| Formal Logic, or the calculus of inference, necessary and probable (London: Taylor and Walton, 1847) |  | `de-morgan-formal-logic-1847` | have-raw (IA `formallogicorthe00demouoft`) |
 
 ## W. Stanley Jevons
 
