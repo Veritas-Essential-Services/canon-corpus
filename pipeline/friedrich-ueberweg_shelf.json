@@ -1,0 +1,51 @@
+{
+ "_about": "Friedrich Ueberweg (1826-1871), raw IA OCR: A History of Philosophy from Thales to the Present Time, translated by George S. Morris, with additions by Noah Porter and an appendix on Italian philosophy by Vincenzo Botta (New York: Scribner; vol. I in an 1889 printing, vol. II 1874). US public domain. No uids minted.",
+ "_author": "Friedrich Ueberweg",
+ "_name_words": [
+  "friedrich",
+  "ueberweg",
+  "dr"
+ ],
+ "_surname": [
+  "ueberweg"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ueberweg-morris-history-1889-v1": [
+   "historyofphiloso01uebeuoft",
+   "A History of Philosophy, vol. I: ancient and mediaeval philosophy (New York: Scribner, 1889)",
+   "tr. George S. Morris"
+  ],
+  "ueberweg-morris-history-1874-v2": [
+   "historyofphilos02uebeuoft",
+   "A History of Philosophy, vol. II: modern philosophy, with appendices by Noah Porter and Vincenzo Botta (New York: Scribner, Armstrong, 1874)",
+   "tr. George S. Morris"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "ueberweg-morris-history-1889-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ueberweg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872-74",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ueberweg-morris-history-1874-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ueberweg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
