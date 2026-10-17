@@ -6118,6 +6118,43 @@ Shelf: `pipeline/allen-chapman_shelf.json` (2026-10-17; added at the coordinator
 | The Radio Boys with the Iceberg Patrol; Or, Making safe the ocean lanes | have | PG 62904, `achapman-radio-boys-with-the-iceberg-patrol` (1296 units) |
 | Ralph on the Midnight Flyer; or, The Wreck at Shadow Valley | have | PG 67030, `achapman-ralph-on-the-midnight-flyer` (1564 units) |
 
+## Margaret Vandercook
+
+Shelf: `pipeline/vandercook_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series for girls (Ranch Girls, Camp Fire Girls). Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Camp Fire Girls at Sunrise Hill | have | PG 8662, `mvandercook-camp-fire-girls-at-sunrise-hill` (702 units) |
+| The Red Cross Girls with the Russian Army | have | PG 22095, `mvandercook-red-cross-girls-with-the-russian-army` (951 units) |
+| The Camp Fire Girls in the Outside World | have | PG 22938, `mvandercook-camp-fire-girls-in-the-outside-world` (740 units) |
+| The Girl Scouts in Beechwood Forest | have | PG 25801, `mvandercook-girl-scouts-in-beechwood-forest` (1275 units) |
+| The Camp Fire Girls on the Field of Honor | have | PG 31393, `mvandercook-camp-fire-girls-on-the-field-of-honor` (936 units) |
+| The Loves of Ambrose | have | PG 33289, `mvandercook-loves-of-ambrose` (681 units) |
+| The Ranch Girls at Rainbow Lodge | have | PG 33409, `mvandercook-ranch-girls-at-rainbow-lodge` (1157 units) |
+| The Camp Fire Girls Behind the Lines | have | PG 33532, `mvandercook-camp-fire-girls-behind-the-lines` (985 units) |
+| The Ranch Girls' Pot of Gold | have | PG 33656, `mvandercook-ranch-girls-pot-of-gold` (961 units) |
+| The Camp Fire Girls Across the Seas | have | PG 33806, `mvandercook-camp-fire-girls-across-the-seas` (641 units) |
+| The Red Cross Girls with Pershing to Victory | have | PG 33990, `mvandercook-red-cross-girls-with-pershing-to-victory` (1001 units) |
+| The Camp Fire Girls in After Years | have | PG 34926, `mvandercook-camp-fire-girls-in-after-years` (804 units) |
+| The Ranch Girls and Their Great Adventure | have | PG 34927, `mvandercook-ranch-girls-and-their-great-adventure` (1141 units) |
+| The Ranch Girls at Home Again | have | PG 34928, `mvandercook-ranch-girls-at-home-again` (799 units) |
+| The Ranch Girls in Europe | have | PG 34929, `mvandercook-ranch-girls-in-europe` (887 units) |
+| The Camp Fire Girls' Careers | have | PG 36229, `mvandercook-camp-fire-girls-careers` (692 units) |
+| The Ranch Girls and Their Heart's Desire | have | PG 37271, `mvandercook-ranch-girls-and-their-hearts-desire` (830 units) |
+| The Camp Fire Girls at the End of the Trail | have | PG 42206, `mvandercook-camp-fire-girls-at-the-end-of-the-trail` (1040 units) |
+| The Camp Fire Girls in Glorious France | have | PG 45236, `mvandercook-camp-fire-girls-in-glorious-france` (1036 units) |
+| The Camp Fire Girls Amid the Snows | have | PG 45657, `mvandercook-camp-fire-girls-amid-the-snows` (609 units) |
+| The Camp Fire Girls by the Blue Lagoon | have | PG 53200, `mvandercook-camp-fire-girls-by-the-blue-lagoon` (939 units) |
+| The Girl Scouts of the Round Table | have | PG 53573, `mvandercook-girl-scouts-of-the-round-table` (1244 units) |
+| The Red Cross Girls in Belgium | have | PG 53730, `mvandercook-red-cross-girls-in-belgium` (1054 units) |
+| The Ranch Girls at Boarding School | have | PG 56097, `mvandercook-ranch-girls-at-boarding-school` (761 units) |
+| The Camp Fire Girls at Half Moon Lake | have | PG 57508, `mvandercook-camp-fire-girls-at-half-moon-lake` (856 units) |
+| The Red Cross Girls in the British Trenches | have | PG 60154, `mvandercook-red-cross-girls-in-the-british-trenches` (937 units) |
+| The Red Cross Girls on the French Firing Line | have | PG 60265, `mvandercook-red-cross-girls-on-the-french-firing-line` (947 units) |
+| The Red Cross girls with the Stars and Stripes | have | PG 68624, `mvandercook-red-cross-girls-with-the-stars-and-stripes` (1021 units) |
+| The Ranch Girls and the silver arrow | have | PG 69649, `mvandercook-ranch-girls-and-the-silver-arrow` (1325 units) |
+| The Camp Fire Girls on the edge of the desert | have | PG 72632, `mvandercook-camp-fire-girls-on-the-edge-of-the-desert` (1181 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
