@@ -46,7 +46,23 @@
    "tr. F. P. B. Osmaston"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "hegel-haldane-history-of-philosophy-1892-v1": [
+   "lecturesonthehis01hegeuoft",
+   "Lectures on the History of Philosophy, vol. I (London: Kegan Paul, Trench, Trübner, 1892)",
+   "tr. E. S. Haldane"
+  ],
+  "hegel-haldane-history-of-philosophy-1894-v2": [
+   "lecturesonthehis02hegeuoft",
+   "Lectures on the History of Philosophy, vol. II (London: Kegan Paul, Trench, Trübner, 1894)",
+   "tr. E. S. Haldane and Frances H. Simson"
+  ],
+  "hegel-haldane-history-of-philosophy-1896-v3": [
+   "lectureshistoryp03hegeuoft",
+   "Lectures on the History of Philosophy, vol. III (London: Kegan Paul, Trench, Trübner, 1896)",
+   "tr. Elizabeth S. Haldane and Frances H. Simson"
+  ]
+ },
  "_excluded": {},
  "_translators": {
   "hegel-wallace-logic-1892": "Wallace",
@@ -54,7 +70,10 @@
   "hegel-osmaston-fine-art-1920-v1": "Osmaston",
   "hegel-osmaston-fine-art-1920-v2": "Osmaston",
   "hegel-osmaston-fine-art-1920-v3": "Osmaston",
-  "hegel-osmaston-fine-art-1920-v4": "Osmaston"
+  "hegel-osmaston-fine-art-1920-v4": "Osmaston",
+  "hegel-haldane-history-of-philosophy-1892-v1": "Haldane",
+  "hegel-haldane-history-of-philosophy-1894-v2": "Simson",
+  "hegel-haldane-history-of-philosophy-1896-v3": "Simson"
  },
  "_checks": {
   "hegel-wallace-logic-1892": {
@@ -128,6 +147,45 @@
    "pg_copyrighted": false,
    "pg_translator": "Francis Plumptre Beresford Osmaston",
    "translator_match": true
+  },
+  "hegel-haldane-history-of-philosophy-1892-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Haldane",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892-96",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hegel-haldane-history-of-philosophy-1894-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Simson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892-96",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hegel-haldane-history-of-philosophy-1896-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Simson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892-96",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }

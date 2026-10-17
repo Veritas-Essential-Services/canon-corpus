@@ -3514,6 +3514,9 @@ Shelf: `pipeline/hegel-translations_shelf.json`. G. W. F. Hegel (1770-1831) in E
 | The Philosophy of Fine Art, vol. 2 of 4 (London: G. Bell, 1920) | F. P. B. Osmaston | `hegel-osmaston-fine-art-1920-v2` | have (PG 55445) |
 | The Philosophy of Fine Art, vol. 3 of 4 (London: G. Bell, 1920) | F. P. B. Osmaston | `hegel-osmaston-fine-art-1920-v3` | have (PG 55623) |
 | The Philosophy of Fine Art, vol. 4 of 4 (London: G. Bell, 1920) | F. P. B. Osmaston | `hegel-osmaston-fine-art-1920-v4` | have (PG 55731) |
+| Lectures on the History of Philosophy, vol. I (London: Kegan Paul, Trench, Trübner, 1892) | E. S. Haldane | `hegel-haldane-history-of-philosophy-1892-v1` | have-raw (IA `lecturesonthehis01hegeuoft`) |
+| Lectures on the History of Philosophy, vol. II (London: Kegan Paul, Trench, Trübner, 1894) | E. S. Haldane and Frances H. Simson | `hegel-haldane-history-of-philosophy-1894-v2` | have-raw (IA `lecturesonthehis02hegeuoft`) |
+| Lectures on the History of Philosophy, vol. III (London: Kegan Paul, Trench, Trübner, 1896) | Elizabeth S. Haldane and Frances H. Simson | `hegel-haldane-history-of-philosophy-1896-v3` | have-raw (IA `lectureshistoryp03hegeuoft`) |
 
 ## Schopenhauer in English
 
