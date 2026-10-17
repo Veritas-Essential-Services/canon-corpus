@@ -31,12 +31,18 @@
    "themonadology00leibuoft",
    "The Monadology and Other Philosophical Writings, translated with introduction and notes (Oxford: Clarendon, 1898)",
    "tr. Robert Latta"
+  ],
+  "leibniz-montgomery-discourse-1902": [
+   "discourseonmetap00leibuoft",
+   "Discourse on Metaphysics, Correspondence with Arnauld, and Monadology, with an introduction by Paul Janet (Chicago: Open Court, 1902)",
+   "tr. George R. Montgomery"
   ]
  },
  "_excluded": {},
  "_translators": {
   "leibniz-langley-new-essays-1896": "Langley",
-  "leibniz-latta-monadology-1898": "Latta"
+  "leibniz-latta-monadology-1898": "Latta",
+  "leibniz-montgomery-discourse-1902": "Montgomery"
  },
  "_checks": {
   "leibniz-duncan-philosophical-works-1890": {
@@ -73,6 +79,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1898",
    "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leibniz-montgomery-discourse-1902": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "leibniz",
+   "translator_claimed": "Montgomery",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
