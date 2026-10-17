@@ -1,5 +1,5 @@
 {
- "_about": "Mary Whiton Calkins (1863-1930), personalist philosopher and psychologist: The Persistent Problems of Philosophy, an introduction to metaphysics through the study of modern systems, 4th revised ed. (New York: Macmillan, 1921), raw IA OCR. US public domain. No uids minted.",
+ "_about": "Mary Whiton Calkins (1863-1930), personalist philosopher and psychologist: The Persistent Problems of Philosophy, an introduction to metaphysics through the study of modern systems, 4th revised ed. (New York: Macmillan, 1921), raw IA OCR. Added in round ab: The Good Man and the Good, an introduction to ethics (New York: Macmillan, 1918). US public domain. No uids minted.",
  "_author": "Mary Whiton Calkins",
  "_name_words": [
   "mary",
@@ -15,6 +15,10 @@
   "calkins-persistent-problems-of-philosophy-1921": [
    "cu31924029119563",
    "The Persistent Problems of Philosophy, 4th revised ed. (New York: Macmillan, 1921)"
+  ],
+  "calkins-good-man-and-the-good-1918": [
+   "thegoodmanandthe00calkuoft",
+   "The Good Man and the Good, an introduction to ethics (New York: Macmillan, 1918)"
   ]
  },
  "_excluded": {},
@@ -28,6 +32,17 @@
    "ia_rights": "ok: published 1917",
    "ia_date": "1917",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calkins-good-man-and-the-good-1918": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "calkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
