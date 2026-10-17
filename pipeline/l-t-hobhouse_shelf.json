@@ -1,0 +1,51 @@
+{
+ "_about": "L. T. Hobhouse (1864-1929), raw IA OCR: Morals in Evolution, a study in comparative ethics (New York: Henry Holt, 1906, 2 parts). US public domain. Held: The Theory of Knowledge, second edition (Methuen), whose scan names no printing year. No uids minted.",
+ "_author": "L. T. Hobhouse",
+ "_name_words": [
+  "l",
+  "t",
+  "leonard",
+  "trelawny",
+  "hobhouse"
+ ],
+ "_surname": [
+  "hobhouse"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hobhouse-morals-in-evolution-1906-v1": [
+   "moralsinevolutio01hobh",
+   "Morals in Evolution, part I (New York: Henry Holt, 1906)"
+  ],
+  "hobhouse-morals-in-evolution-1906-v2": [
+   "moralsinevolutio02hobhuoft",
+   "Morals in Evolution, part II (New York: Henry Holt, 1906)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hobhouse-morals-in-evolution-1906-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hobhouse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hobhouse-morals-in-evolution-1906-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hobhouse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
