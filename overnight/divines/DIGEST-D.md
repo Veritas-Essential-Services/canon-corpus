@@ -189,7 +189,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `keary` | 1 Gutenberg | 0 | 1,075 | The Heroes of Asgard (Macmillan, 1906 edition, reprinted 1909). |
 | `jean-lang` | 4 Gutenberg | 0 | 4,017 | A Book of Myths (1914), Stories from the Iliad (1907), Stories from the Faerie Queen, Stories of the Border Marches (1916). |
 | `francillon` | 1 Gutenberg | 0 | 1,159 | Gods and Heroes, or The Kingdom of Jupiter (1894). |
-| `ouida` | 3 Gutenberg | 0 | 2,223 | Bimbi, A Dog of Flanders, The Nürnberg Stove, and Other Stories, Moufflou and Other Stories. The single-story books (A Dog of Flanders, The Nürnberg Stove, Findelkind) are held once inside these collections (91%, 87%, 78%). |
+| `ouida` | 26 Gutenberg | 0 | 43,737 | Children's stories and novels. Completed 2026-10-17: 23 more books added, every English text by Ouida at Gutenberg that no other shelf holds. |
 | `stratton-porter` | 11 Gutenberg | 0 | 23,021 | Freckles, A Girl of the Limberlost, Laddie, The Harvester, At the Foot of the Rainbow, The Song of the Cardinal, Michael O'Halloran, A Daughter of the Land, Her Father's Daughter, The White Flag, The Fire Bird. The Wild Heart (PG 77766) was dropped: it is by Emma-Lindsay Squier, with only an introduction by Stratton-Porter. |
 | `basile` | 1 Gutenberg | 0 | 683 | Stories from the Pentamerone (Macmillan, 1911). Gutenberg's text drops the sentence naming Taylor; the translator was confirmed against the 1911 printing at the Internet Archive and recorded in _identity_checked. |
 | `straparola` | 1 Gutenberg | 0 | 795 | The Nights of Straparola, vol. 1 (1894); vol. 2 is not on Gutenberg. |

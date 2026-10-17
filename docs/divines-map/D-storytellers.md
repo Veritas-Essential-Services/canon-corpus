@@ -2557,16 +2557,40 @@ Shelf: `pipeline/francillon_shelf.json` (2026-10-02; added at the coordinator's 
 
 ## Ouida (Maria Louise Ramé)
 
-Shelf: `pipeline/ouida_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her stories for children. Not in the manifest; no uids minted.
+Shelf: `pipeline/ouida_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Children's stories and novels. All 26 of Ouida's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | Bimbi: Stories for Children | have | PG 5834, `ouida-bimbi` (740 units) |
 | Moufflou, and Other Stories | have | PG 75655, `ouida-moufflou` (333 units) |
 | A Dog of Flanders, The Nürnberg Stove, and Other Stories | have | PG 50032, `ouida-dog-of-flanders-and-other-stories` (1150 units) |
+| Under Two Flags | have | PG 3465, `ouida-under-two-flags` (3996 units) |
+| The Waters of Edera | have | PG 13459, `ouida-waters-of-edera` (1607 units) |
+| Bébée; Or, Two Little Wooden Shoes | have | PG 13912, `ouida-b-b-e` (1397 units) |
+| A House-Party, Don Gesualdo, and A Rainy June | have | PG 32199, `ouida-a-house-party-don-gesualdo-and-a-rainy-june` (1566 units) |
+| Beatrice Boville and Other Stories | have | PG 33942, `ouida-beatrice-boville-and-other-stories` (2099 units) |
+| Critical Studies | have | PG 36788, `ouida-critical-studies` (883 units) |
+| Cecil Castlemaine's Gage, Lady Marabout's Troubles, and Other Stories | have | PG 37178, `ouida-cecil-castlemaines-gage-lady-marabouts-troubles-and-ot` (1711 units) |
+| Folle-Farine | have | PG 39745, `ouida-folle-farine` (4526 units) |
+| A Rainy June, and Other Stories | have | PG 42944, `ouida-a-rainy-june-and-other-stories` (1085 units) |
+| Princess Napraxine, Volume 1 (of 3) | have | PG 49305, `ouida-princess-napraxine-volume-1-of-3` (1272 units) |
+| Princess Napraxine, Volume 2 (of 3) | have | PG 50836, `ouida-princess-napraxine-volume-2-of-3` (2410 units) |
+| Princess Napraxine, Volume 3 (of 3) | have | PG 50849, `ouida-princess-napraxine-volume-3-of-3` (1103 units) |
+| Othmar | have | PG 51487, `ouida-othmar` (3533 units) |
+| Wanda, Vol. 1 (of 3) | have | PG 52135, `ouida-wanda-vol-1-of-3` (1496 units) |
+| Wanda, Vol. 2 (of 3) | have | PG 52136, `ouida-wanda-vol-2-of-3` (1401 units) |
+| Wanda, Vol. 3 (of 3) | have | PG 52137, `ouida-wanda-vol-3-of-3` (1515 units) |
+| Views and Opinions | have | PG 67825, `ouida-views-and-opinions` (883 units) |
+| The Massarenes | have | PG 69446, `ouida-massarenes` (4867 units) |
+| A Provence rose | have | PG 71730, `ouida-a-provence-rose` (327 units) |
+| An altruist | have | PG 73201, `ouida-an-altruist` (1062 units) |
+| Le Selve | have | PG 77040, `ouida-le-selve` (675 units) |
+| Toxin | have | PG 78502, `ouida-toxin` (649 units) |
+| In a winter city | have | PG 79472, `ouida-in-a-winter-city` (1451 units) |
 | ouida-dog-of-flanders | excluded | PG 7766, A Dog of Flanders on its own: 91% of its long paragraphs are in PG 50032 (A Dog of Flanders, The Nürnberg Stove, and Other Stories), held here. Held once. |
 | ouida-nurnberg-stove | excluded | PG 20997, The Nürnberg Stove on its own (Lippincott, eighth edition): 87% of it is in PG 50032, held here. Held once. |
 | ouida-findelkind | excluded | PG 1367, Findelkind on its own: Bimbi (PG 5834), held here, prints the same story, and 78% of the long paragraphs match exactly. Held once. |
+| ouida-wisdom-wit-and-pathos-of-ouida-selected-from-the-works | excluded | PG 22019, Wisdom, Wit, and Pathos, is F. Sydney Morris's compilation |
 
 ## Gene Stratton-Porter
 

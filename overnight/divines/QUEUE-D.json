@@ -1091,8 +1091,8 @@
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — myths and children's classics: ouida; no minting",
       "status": "done",
       "started": "2026-10-02T21:23:39-05:00",
-      "finished": "2026-10-02T21:23:54-05:00",
-      "notes": "3/3 fetched (Gutenberg 5834, 75655, 50032), 2,223 units, 0 ~2 ids."
+      "finished": "2026-10-17T17:53:03-05:00",
+      "notes": "ouida: completed, 23 more Gutenberg books (26 on the shelf), 43,737 units, 2498 ~2 ids; verify 0 mismatches, 0 rights flags."
     },
     {
       "id": "stratton-porter",
