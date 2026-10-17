@@ -4956,3 +4956,24 @@ Slugs `hilton-*`. Cressy's text (1908), Underhill's edition (1923), Dorothy Jone
 | CCEL hilton/angels, from Gardner's Cell of Self-Knowledge, no imprint | alternate | not shelved |
 | Suso's Little Book with Hilton's Parable of the Pilgrim (mainly Suso); The Cell of Self-Knowledge (anthology, PG 4544); the Stimulus Divini Amoris (credited to Bonaventure) | excluded | |
 | editions of 1948 and later | excluded | |
+
+## Richard Rolle (round 24, my pick, 2026-10-17)
+
+Slugs `rolle-*`. Middle English editions (Harvey, Perry, Bramley) and modern versions (Hodgson, Comper, Harford, Hubbard).
+
+| Work | Status | Where |
+|---|---|---|
+| The Form of Perfect Living and Other Prose Treatises, rendered into modern English by Geraldine E. Hodgson (London: Thomas Baker, 1910) | have-clean | Gutenberg 25856 |
+| The Fire of Love, and The Mending of Life, Englished by Richard Misyn, ed. Ralph Harvey, EETS 106 (London: Kegan Paul, 1896) | have-ocr | IA `fireoflovemendin00roll` |
+| The Fire of Love or Melody of Love and the Mending of Life, Misyn's version done into modern English by Frances M. M. Comper (London: Methuen, first published 1914) | have-ocr | IA `fireofloveormelo0000roll` |
+| English Prose Treatises of Richard Rolle de Hampole, ed. George G. Perry, EETS (London: Trubner, MDCCCLXVI) | have-ocr | IA `englishprosetre00churgoog` |
+| The Psalter or Psalms of David, with a Translation and Exposition in English by Richard Rolle, ed. H. R. Bramley (Oxford: Clarendon Press, 1884) | have-ocr | IA `psalterofpsalmso00rolluoft` |
+| The Mending of Life, an anonymous fifteenth-century version, modernised by Dundas Harford (London: H. R. Allenson; catalogued 1913) | have-ocr | IA `in.ernet.dli.2015.24847` |
+| The Amending of Life, tr. H. L. Hubbard (London: John M. Watkins; catalogued 1922) | have-ocr | IA `bwb_S0-BSM-415` |
+| Horstman's Yorkshire Writers, 2 vols (1895-1896): Rolle and his followers, partly by other hands | alternate | not shelved |
+| Comper's second edition (1920; thefireofloveand00rolluoft and CCEL rolle/fire), Perry's revised reissue (1921), other EETS and Psalter copies | alternate | not shelved |
+| The Pricke of Conscience (ed. Morris, 1863) and Contemplations of the Dread and Love of God (Comper, about 1916): authorship doubted | alternate | not shelved |
+| Hulme's Worcester Mending of Life (Cleveland, 1916 or 1918) | alternate | not shelved |
+| Deanesly's Incendium Amoris (1915) and the Latin Office | excluded | |
+| Benson's anthology; Comper's Life of Rolle (1928, about him) | excluded | |
+| Heseltine's Selected Works (1930) | excluded | |
