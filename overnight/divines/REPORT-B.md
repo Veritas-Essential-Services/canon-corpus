@@ -974,3 +974,8 @@
 - Lotze: Outlines of Aesthetics; Paulsen: A System of Ethics (1899, replaces an undated hold); Fiske: Destiny of Man
 - Dewey: The Child and the Curriculum (1930 impression); Mill: Principles of Political Economy (1900)
 - Held: Hale White's Tractatus de Intellectus Emendatione (no year)
+
+## 2026-10-17 18:54 CDT — Round af: French thought in English
+- New shelves: lucien-levy-bruhl (1), gabriel-tarde (1), joseph-de-maistre (3), theodule-ribot (4)
+- Held: Poincaré, Science and Method, tr. Maitland (Nelson; no year printed)
+- Left for Lane C translator shelves: Science and Hypothesis (greenstreet), Ethics and Moral Science (elizabeth-lee)

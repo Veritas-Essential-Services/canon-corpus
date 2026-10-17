@@ -221,3 +221,4 @@
 - 18:46 round ac: 9 more volumes on older shelves. Note for Lane C: Boutroux's Natural Law in Science and Philosophy, tr. Rothwell (1914), is unheld and fits their rothwell shelf.
 - 18:49 round ad: 13 more volumes, chiefly Spencer's Principles of Psychology, Biology and Ethics.
 - 18:51 round ae: 11 more volumes; Spencer's synthetic philosophy is now complete on the shelf (First Principles plus the Principles of Biology, Psychology, Sociology and Ethics).
+- 18:54 round af: Lévy-Bruhl, Tarde, de Maistre, Ribot. Poincaré's Science and Method held (no year on the Nelson title page).
