@@ -1060,3 +1060,6 @@
 
 ## 2026-10-17 17:24 CDT — rounds 22 and 23 closed
 - Round 22: 12 shelves, 121 items (2 CCEL, 7 PG, 112 IA). Round 23: 12 shelves, 252 items (4 CCEL, 6 PG, 242 IA). All `--verify --record`: 0 mismatched; 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-17 17:35 CDT — john-tauler done
+- `pipeline/john-tauler_shelf.json`: 3 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.

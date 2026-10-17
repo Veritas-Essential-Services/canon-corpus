@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 17:23 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 17:35 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -483,6 +483,14 @@ Twelve authors queued in QUEUE-A.json, each built from title pages read for this
 | A. P. Stanley | a-p-stanley_shelf.json | none | 18 (Sermons and Essays on the Apostolical Age, first edition (Oxford: J. H. Parker, MDCCCXLVII); The Epistles of St Paul to the Corinthians, with Critical Notes and Dissertations, vol. 1 (London: John Murray, 1855); The Epistles of St Paul to the Corinthians, vol. 2 (London: John Murray, 1855); Unity of Evangelical and Apostolical Teaching: Sermons (London: John Murray, 1859); Lectures on the History of the Eastern Church, first edition (London: John Murray, 1861); Lectures on the History of the Jewish Church, part 1: Abraham to Samuel, second edition (London: John Murray, 1863); Lectures on the History of the Jewish Church, part 2: Samuel to the Captivity (London: John Murray, 1865); Lectures on the History of the Jewish Church, third series: the Captivity to the Christian Era (London: John Murray, 1876); The Bible: its Form and its Substance, three sermons (Oxford and London: J. H. and J. Parker, 1863); Sermons Preached before the Prince of Wales during his Tour in the East, 1862 (New York: Charles Scribner, 1863); Essays chiefly on Questions of Church and State from 1850 to 1870 (London: John Murray, 1870); The Athanasian Creed (London: Macmillan, 1871); Lectures on the History of the Church of Scotland (New York: Scribner, Armstrong, 1872); The National Thanksgiving: Sermons Preached in Westminster Abbey (London: Macmillan, 1872); Addresses and Sermons delivered at St Andrews in 1872, 1875 and 1877 (London: Macmillan, 1877); Addresses and Sermons delivered during a Visit to the United States and Canada in 1878 (New York: Macmillan, 1879); Christian Institutions: Essays on Ecclesiastical Subjects (London: John Murray, 1881); Sermons on Special Occasions Preached in Westminster Abbey, posthumous (London: John Murray, 1882)) | none |  |
 
 Round 23 closed 2026-10-17 17:23 CDT: twelve new shelves, 252 items (10 clean: 4 CCEL and 6 Gutenberg; 242 raw IA OCR). Two CCEL texts were passed over: Manning's Grounds of Faith (CCEL states an 1843 source, but its title page is a ninth edition of 1875 or later) and Swete's Introduction to the Old Testament in Greek (the 1989 Hendrickson reprint); dated scans are shelved instead. Manning's Catholic title pages sign 'Henry Edward, Archbishop of Westminster' with no surname, so that form is in his identity gate.
+
+## Round 24: medieval and Catholic mystics and spiritual classics in English before 1930 (my picks)
+
+Seventeen authors and anonymous works queued in QUEUE-A.json, each built from title pages read for this round, with the translator or editor recorded per item. Adam may veto any shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| John Tauler | john-tauler_shelf.json | 3 (The Inner Way, being Thirty-six Sermons for Festivals, tr. Arthur Wollaston Hutton, second edition (London: Methuen, 1909); The Following of Christ, tr. J. R. Morell, authorship doubtful (London: T. Fisher Unwin, 1886, second impression 1910); Meditations on the Life and Passion of Our Lord Jesus Christ, translated by a secular priest, authorship doubtful (London: Thomas Richardson, 1875)) | 2 (The History and Life of the Reverend Doctor John Tauler, with Twenty-five of his Sermons, tr. Susanna Winkworth (London: Smith, Elder, M.DCCC.LVII); The Sermons and Conferences of John Tauler, tr. Walter Elliott (Washington: Apostolic Mission House, 1910)) | none | An unsigned abridgement; post-1929 translations |
 
 ## Paused 2026-10-10 15:12 CDT
 

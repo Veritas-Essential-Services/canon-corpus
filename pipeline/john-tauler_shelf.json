@@ -1,0 +1,124 @@
+{
+ "_about": "Public-domain John Tauler (c.1300-1361, Dominican preacher of Strasbourg) in English for the Word Hoard: The Inner Way, thirty-six sermons tr. Arthur Wollaston Hutton (Methuen, second edition 1909), The Following of Christ tr. J. R. Morell (1886, impression of 1910) and the Meditations on the Life and Passion (1875) from CCEL, Susanna Winkworth's History and Life with twenty-five sermons (1857) and Walter Elliott's Sermons and Conferences (Washington, 1910) from Internet Archive scans. The Following and the Meditations are of doubtful authorship by their own front matter. Added 2026-10-17 by lane A, round 24 (my pick); Adam may veto the whole shelf. Translators recorded per item; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_ccel_author": "tauler",
+ "_name_words": [
+  "tauler"
+ ],
+ "_surname": [
+  "john tauler",
+  "doctor john tauler",
+  "dr. john tauler",
+  "tauler"
+ ],
+ "_held": {},
+ "ccel": {
+  "tauler-inner-way": [
+   "inner_way",
+   "The Inner Way, being Thirty-six Sermons for Festivals, tr. Arthur Wollaston Hutton, second edition (London: Methuen, 1909)",
+   ""
+  ],
+  "tauler-following-of-christ": [
+   "following",
+   "The Following of Christ, tr. J. R. Morell, authorship doubtful (London: T. Fisher Unwin, 1886, second impression 1910)",
+   ""
+  ],
+  "tauler-meditations-passion": [
+   "meditations",
+   "Meditations on the Life and Passion of Our Lord Jesus Christ, translated by a secular priest, authorship doubtful (London: Thomas Richardson, 1875)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "tauler-winkworth-history-sermons": [
+   "historylifeofrev00gottiala",
+   "The History and Life of the Reverend Doctor John Tauler, with Twenty-five of his Sermons, tr. Susanna Winkworth (London: Smith, Elder, M.DCCC.LVII)"
+  ],
+  "tauler-elliott-sermons": [
+   "sermonsconferenc00tauluoft",
+   "The Sermons and Conferences of John Tauler, tr. Walter Elliott (Washington: Apostolic Mission House, 1910)"
+  ]
+ },
+ "_alternates": {
+  "tauler-copies": "Other copies: Winkworth's History and Life in New York 1858 (historyandlifer01kinggoog) and later printings; her Life alone (Philadelphia, 1887); Hutton's first edition, undated (innerwaybeingthi00tauluoft); Morell 1910 (followingofchris00tauliala); the 1875 Meditations (meditationsonli01taulgoog) and Cruikshank's fourth edition (1906)"
+ },
+ "_excluded": {
+  "tauler-others": "an unsigned abridgement of Winkworth (Boston, 1878)",
+  "tauler-late": "translations of 1954-1985 and modern reprints; editions in German, Latin and other languages"
+ },
+ "_pending": {},
+ "_translators": {
+  "tauler-inner-way": "hutton",
+  "tauler-following-of-christ": "morell",
+  "tauler-winkworth-history-sermons": "winkworth",
+  "tauler-elliott-sermons": "elliott"
+ },
+ "_checks": {
+  "tauler-inner-way": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john tauler",
+   "translator_claimed": "hutton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "tauler-following-of-christ": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john tauler",
+   "translator_claimed": "morell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: T. Fisher Unwin (1910)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "tauler-meditations-passion": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john tauler",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Thomas Richardson and Son (1875)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "tauler-winkworth-history-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john tauler",
+   "translator_claimed": "winkworth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tauler-elliott-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john tauler",
+   "translator_claimed": "elliott",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

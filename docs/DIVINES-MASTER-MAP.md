@@ -4878,6 +4878,21 @@ Slugs `stanley-*`. Lectures on the Jewish Church, Corinthians, sermons; four OCR
 | Scripture Portraits (1867) and a 1894 selection compiled by others; Prothero's Letters and Verses and Life; Elgin's Letters (his preface only) | excluded | |
 | Edward Stanley (his father), Arthur Stanley the anthologist, H. M. Stanley | excluded | |
 | Everyman and modern reprints | excluded | |
+
+## John Tauler (round 24, my pick, 2026-10-17)
+
+Slugs `tauler-*`. Translators: Hutton, Morell, Winkworth, Elliott. The Following of Christ and the Meditations are of doubtful authorship by their own front matter.
+
+| Work | Status | Where |
+|---|---|---|
+| The Inner Way, being Thirty-six Sermons for Festivals, tr. Arthur Wollaston Hutton, second edition (London: Methuen, 1909) | have-clean | CCEL tauler/inner_way |
+| The Following of Christ, tr. J. R. Morell, authorship doubtful (London: T. Fisher Unwin, 1886, second impression 1910) | have-clean | CCEL tauler/following |
+| Meditations on the Life and Passion of Our Lord Jesus Christ, translated by a secular priest, authorship doubtful (London: Thomas Richardson, 1875) | have-clean | CCEL tauler/meditations |
+| The History and Life of the Reverend Doctor John Tauler, with Twenty-five of his Sermons, tr. Susanna Winkworth (London: Smith, Elder, M.DCCC.LVII) | have-ocr | IA `historylifeofrev00gottiala` |
+| The Sermons and Conferences of John Tauler, tr. Walter Elliott (Washington: Apostolic Mission House, 1910) | have-ocr | IA `sermonsconferenc00tauluoft` |
+| Other copies: Winkworth's History and Life in New York 1858 (historyandlifer01kinggoog) and later printings; her Life alone (Philadelphia, 1887); Hutton's first edition, undated (innerwaybeingthi00tauluoft); Morell 1910 (followingofchris00tauliala); the 1875 Meditations (meditationsonli01taulgoog) and Cruikshank's fourth edition (1906) | alternate | not shelved |
+| an unsigned abridgement of Winkworth (Boston, 1878) | excluded | |
+| translations of 1954-1985 and modern reprints; editions in German, Latin and other languages | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
