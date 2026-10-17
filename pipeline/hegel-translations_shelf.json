@@ -24,13 +24,37 @@
    39064,
    "Hegel's Philosophy of Mind, translated from the Encyclopaedia of the Philosophical Sciences, with five introductory essays (Oxford: Clarendon, 1894)",
    "tr. William Wallace"
+  ],
+  "hegel-osmaston-fine-art-1920-v1": [
+   55334,
+   "The Philosophy of Fine Art, vol. 1 of 4 (London: G. Bell, 1920)",
+   "tr. F. P. B. Osmaston"
+  ],
+  "hegel-osmaston-fine-art-1920-v2": [
+   55445,
+   "The Philosophy of Fine Art, vol. 2 of 4 (London: G. Bell, 1920)",
+   "tr. F. P. B. Osmaston"
+  ],
+  "hegel-osmaston-fine-art-1920-v3": [
+   55623,
+   "The Philosophy of Fine Art, vol. 3 of 4 (London: G. Bell, 1920)",
+   "tr. F. P. B. Osmaston"
+  ],
+  "hegel-osmaston-fine-art-1920-v4": [
+   55731,
+   "The Philosophy of Fine Art, vol. 4 of 4 (London: G. Bell, 1920)",
+   "tr. F. P. B. Osmaston"
   ]
  },
  "internet_archive": {},
  "_excluded": {},
  "_translators": {
   "hegel-wallace-logic-1892": "Wallace",
-  "hegel-wallace-philosophy-of-mind-1894": "Wallace"
+  "hegel-wallace-philosophy-of-mind-1894": "Wallace",
+  "hegel-osmaston-fine-art-1920-v1": "Osmaston",
+  "hegel-osmaston-fine-art-1920-v2": "Osmaston",
+  "hegel-osmaston-fine-art-1920-v3": "Osmaston",
+  "hegel-osmaston-fine-art-1920-v4": "Osmaston"
  },
  "_checks": {
   "hegel-wallace-logic-1892": {
@@ -55,6 +79,54 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "William Wallace",
+   "translator_match": true
+  },
+  "hegel-osmaston-fine-art-1920-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Osmaston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Plumptre Beresford Osmaston",
+   "translator_match": true
+  },
+  "hegel-osmaston-fine-art-1920-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Osmaston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Plumptre Beresford Osmaston",
+   "translator_match": true
+  },
+  "hegel-osmaston-fine-art-1920-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Osmaston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Plumptre Beresford Osmaston",
+   "translator_match": true
+  },
+  "hegel-osmaston-fine-art-1920-v4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "translator_claimed": "Osmaston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Plumptre Beresford Osmaston",
    "translator_match": true
   }
  }

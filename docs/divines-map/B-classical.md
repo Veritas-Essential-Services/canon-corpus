@@ -3510,6 +3510,10 @@ Shelf: `pipeline/hegel-translations_shelf.json`. G. W. F. Hegel (1770-1831) in E
 |---|---|---|---|
 | The Logic of Hegel, translated from the Encyclopaedia of the Philosophical Sciences, 2nd ed., revised and augmented (Oxford, 1892) | William Wallace | `hegel-wallace-logic-1892` | have (PG 55108) |
 | Hegel's Philosophy of Mind, translated from the Encyclopaedia of the Philosophical Sciences, with five introductory essays (Oxford: Clarendon, 1894) | William Wallace | `hegel-wallace-philosophy-of-mind-1894` | have (PG 39064) |
+| The Philosophy of Fine Art, vol. 1 of 4 (London: G. Bell, 1920) | F. P. B. Osmaston | `hegel-osmaston-fine-art-1920-v1` | have (PG 55334) |
+| The Philosophy of Fine Art, vol. 2 of 4 (London: G. Bell, 1920) | F. P. B. Osmaston | `hegel-osmaston-fine-art-1920-v2` | have (PG 55445) |
+| The Philosophy of Fine Art, vol. 3 of 4 (London: G. Bell, 1920) | F. P. B. Osmaston | `hegel-osmaston-fine-art-1920-v3` | have (PG 55623) |
+| The Philosophy of Fine Art, vol. 4 of 4 (London: G. Bell, 1920) | F. P. B. Osmaston | `hegel-osmaston-fine-art-1920-v4` | have (PG 55731) |
 
 ## Schopenhauer in English
 
