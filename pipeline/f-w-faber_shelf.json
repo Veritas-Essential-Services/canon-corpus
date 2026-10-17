@@ -1,0 +1,331 @@
+{
+ "_about": "Public-domain F. W. Faber (Frederick William Faber, 1814-1863, Tractarian, then priest of the London Oratory) for the Word Hoard: 19 books from Internet Archive scans, 1838-1866, from his Anglican tracts to All for Jesus (1854), Growth in Holiness (1855), The Creator and the Creature (1857), The Foot of the Cross (1858), Spiritual Conferences (1859), The Precious Blood and Bethlehem (1860). His hymns and poems wait in alternates. Raw OCR. Added 2026-10-17 by lane A, round 23 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "faber"
+ ],
+ "_surname": [
+  "frederick william faber",
+  "frederic w. faber",
+  "f. w. faber",
+  "faber, frederick william",
+  "frederick w. faber",
+  "rev. f. w. faber",
+  "frederic william faber"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "faber-prayer-book-safeguard": [
+   "ThePrayerBookA",
+   "The Prayer-Book, a Safeguard against Religious Excitement, second edition (London: J. G. & F. Rivington, 1838)"
+  ],
+  "faber-reformation-principles": [
+   "reformationdutyo00fabe",
+   "The Reformation, and the Duty of Keeping to its Principles (London: J. G. & F. Rivington, 1838)"
+  ],
+  "faber-ambleside-sermon": [
+   "per_oxford-movement-tractarian-pamphlets-pusey-hou_frederick-william-f_1838",
+   "A sermon preached on Rush-Bearing Sunday, 29 July 1838, in the Chapel of Ambleside (Kendal: Hudson & Nicholson, 1838)"
+  ],
+  "faber-tracts-church-offices": [
+   "tractsonchurchhe00fabe",
+   "Tracts on the Church and her Offices (London: J. G. F. & J. Rivington, 1840)"
+  ],
+  "faber-sights-thoughts": [
+   "SightsThoughtsInForeignChurches",
+   "Sights and Thoughts in Foreign Churches and among Foreign Peoples (London: J. G. F. & J. Rivington, 1842)"
+  ],
+  "faber-beatification-canonization": [
+   "EssayOnBeatificationCanonization",
+   "An Essay on Beatification, Canonization, and the Processes of the Congregation of Rites (London: Richardson and Son, MDCCCXLVIII)"
+  ],
+  "faber-st-philip-neri": [
+   "TheSpiritAndGeniusOfStPhilipNeri",
+   "The Spirit and Genius of St. Philip Neri: Lectures (London: Burns and Lambert, 1850)"
+  ],
+  "faber-lives-of-saints-essay": [
+   "a579642500fabeuoft",
+   "An Essay on the Interest and Characteristics of the Lives of the Saints (London: Richardson and Son, MDCCCLIII)"
+  ],
+  "faber-all-for-jesus": [
+   "AllForJesus",
+   "All for Jesus: or, The Easy Ways of Divine Love, fourth edition (London: Richardson and Son, MDCCCLIV)"
+  ],
+  "faber-growth-in-holiness": [
+   "GrowthInHoliness1855",
+   "Growth in Holiness: or, The Progress of the Spiritual Life (Baltimore: John Murphy, 1855)"
+  ],
+  "faber-blessed-sacrament": [
+   "TheBlessedSacrament1856",
+   "The Blessed Sacrament: or, The Works and Ways of God (London: Thomas Richardson and Son; catalogued 1856)"
+  ],
+  "faber-creator-creature": [
+   "TheCreatorAndTheCreature",
+   "The Creator and the Creature; or, The Wonders of Divine Love (London: Thomas Richardson and Son, MDCCCLVII)"
+  ],
+  "faber-foot-of-the-cross": [
+   "FootOfTheCrossOrTheSorrowsOfMary",
+   "The Foot of the Cross: or, The Sorrows of Mary (London: Thomas Richardson and Son, MDCCCLVIII)"
+  ],
+  "faber-ethels-book": [
+   "a579644000fabeuoft",
+   "Ethel's Book; or, Tales of the Angels (London: Thomas Richardson and Son, MDCCCLVIII)"
+  ],
+  "faber-spiritual-conferences": [
+   "a580835700fabeuoft",
+   "Spiritual Conferences (London: Thomas Richardson and Son, MDCCCLIX)"
+  ],
+  "faber-precious-blood": [
+   "ThePreciousBlood1860",
+   "The Precious Blood: or, The Price of our Salvation (London: Thomas Richardson and Son, MDCCCLX)"
+  ],
+  "faber-bethlehem": [
+   "Bethlehem1860",
+   "Bethlehem (London: Thomas Richardson and Son, MDCCCLX)"
+  ],
+  "faber-notes-doctrinal-1": [
+   "a580662901fabeuoft",
+   "Notes on Doctrinal and Spiritual Subjects, vol. I: Mysteries and Festivals (London: Thomas Richardson and Son, MDCCCLXVI)"
+  ],
+  "faber-notes-doctrinal-2": [
+   "a580662902fabeuoft",
+   "Notes on Doctrinal and Spiritual Subjects, vol. II: The Faith and the Spiritual Life (London: Thomas Richardson and Son, MDCCCLXVI)"
+  ]
+ },
+ "_alternates": {
+  "faber-verse": "Poems and hymns: The Cherwell Water-Lily (1840), The Styrian Lake (1842), The Rosary (about 1845), Jesus and Mary (1849), Oratory Hymns (1854), Sir Lancelot (1857), Poems (1857)",
+  "faber-copies": "Second copies: reformationdutyo00fabe_0, AllForJesusOr, growthinholiness00faberich, a580640100Fabeuoft, blessedsacramen00fabegoog, creatorcreatureo01fabe, a580635100fabeuoft, TheFootOfTheCross1858, preciousblood00fabe, spiritualconfer00fabe (sixth edition, no year)"
+ },
+ "_excluded": {
+  "faber-edited": "Lives of the English Saints (multi-author) and the Saints and Servants of God series (translations he edited); Laud's Devotions (edited); Notes on Community Life (privately printed)",
+  "faber-compilations": "Kindness, Selections, The Spirit of Father Faber and later extract books",
+  "faber-wrong-dates": "allforjesusoreas00fabeuoft (fortieth American edition, catalogued 1853), TheBlessedSacrament1861 and bethlehem0000unse_k1l0 (twentieth-century reprints), hymnsfred00fabe (late imprint)",
+  "faber-namesakes": "George Stanley Faber and William Frederic Faber",
+  "faber-late": "reprints of 1901-1923 and translations"
+ },
+ "_identity_checked": {
+  "faber-lives-of-saints-essay": {
+   "author": "Title page read: 'F. W. Faber', OCR 'F. W. FIBER'; Richardson and Son, 1853"
+  },
+  "faber-spiritual-conferences": {
+   "author": "Title page read: 'Frederick William Faber', OCR 'FIBER'; Richardson, 1859"
+  }
+ },
+ "_rights_checked": {
+  "faber-blessed-sacrament": "title page read: Thomas Richardson and Son, 147 Strand; year garbled; catalogued 1856; author died 1863"
+ },
+ "_pending": {},
+ "_checks": {
+  "faber-prayer-book-safeguard": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederic w. faber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faber-reformation-principles": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederic w. faber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "faber-ambleside-sermon": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederic william faber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faber-tracts-church-offices": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederic w. faber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "faber-sights-thoughts": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick william faber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faber-beatification-canonization": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. w. faber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faber-st-philip-neri": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick w. faber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faber-lives-of-saints-essay": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faber-all-for-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick william faber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faber-growth-in-holiness": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick william faber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faber-blessed-sacrament": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick william faber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Thomas Richardson and Son, 147 Strand; year garbled; catalogued 1856; author died 1863"
+  },
+  "faber-creator-creature": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick william faber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faber-foot-of-the-cross": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick william faber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faber-ethels-book": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick william faber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faber-spiritual-conferences": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faber-precious-blood": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick william faber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faber-bethlehem": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick william faber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faber-notes-doctrinal-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick william faber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "faber-notes-doctrinal-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "frederick william faber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

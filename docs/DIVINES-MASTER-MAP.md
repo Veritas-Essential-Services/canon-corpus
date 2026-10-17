@@ -4509,6 +4509,39 @@ Slugs `manning-*`. Anglican Sermons from CCEL; from 1865 his title pages sign 'H
 | CCEL /ccel/manning is Bernard L. Manning | excluded | |
 | Purcell's Life and other biographies | excluded | |
 | reprints of 1900-1924 and foreign-language translations | excluded | |
+
+## F. W. Faber (round 23, my pick, 2026-10-17)
+
+Slugs `faber-*`. Anglican tracts through his Oratory books; his hymns and poems wait in alternates.
+
+| Work | Status | Where |
+|---|---|---|
+| The Prayer-Book, a Safeguard against Religious Excitement, second edition (London: J. G. & F. Rivington, 1838) | have-ocr | IA `ThePrayerBookA` |
+| The Reformation, and the Duty of Keeping to its Principles (London: J. G. & F. Rivington, 1838) | have-ocr | IA `reformationdutyo00fabe` |
+| A sermon preached on Rush-Bearing Sunday, 29 July 1838, in the Chapel of Ambleside (Kendal: Hudson & Nicholson, 1838) | have-ocr | IA `per_oxford-movement-tractarian-pamphlets-pusey-hou_frederick-william-f_1838` |
+| Tracts on the Church and her Offices (London: J. G. F. & J. Rivington, 1840) | have-ocr | IA `tractsonchurchhe00fabe` |
+| Sights and Thoughts in Foreign Churches and among Foreign Peoples (London: J. G. F. & J. Rivington, 1842) | have-ocr | IA `SightsThoughtsInForeignChurches` |
+| An Essay on Beatification, Canonization, and the Processes of the Congregation of Rites (London: Richardson and Son, MDCCCXLVIII) | have-ocr | IA `EssayOnBeatificationCanonization` |
+| The Spirit and Genius of St. Philip Neri: Lectures (London: Burns and Lambert, 1850) | have-ocr | IA `TheSpiritAndGeniusOfStPhilipNeri` |
+| An Essay on the Interest and Characteristics of the Lives of the Saints (London: Richardson and Son, MDCCCLIII) | have-ocr | IA `a579642500fabeuoft` |
+| All for Jesus: or, The Easy Ways of Divine Love, fourth edition (London: Richardson and Son, MDCCCLIV) | have-ocr | IA `AllForJesus` |
+| Growth in Holiness: or, The Progress of the Spiritual Life (Baltimore: John Murphy, 1855) | have-ocr | IA `GrowthInHoliness1855` |
+| The Blessed Sacrament: or, The Works and Ways of God (London: Thomas Richardson and Son; catalogued 1856) | have-ocr | IA `TheBlessedSacrament1856` |
+| The Creator and the Creature; or, The Wonders of Divine Love (London: Thomas Richardson and Son, MDCCCLVII) | have-ocr | IA `TheCreatorAndTheCreature` |
+| The Foot of the Cross: or, The Sorrows of Mary (London: Thomas Richardson and Son, MDCCCLVIII) | have-ocr | IA `FootOfTheCrossOrTheSorrowsOfMary` |
+| Ethel's Book; or, Tales of the Angels (London: Thomas Richardson and Son, MDCCCLVIII) | have-ocr | IA `a579644000fabeuoft` |
+| Spiritual Conferences (London: Thomas Richardson and Son, MDCCCLIX) | have-ocr | IA `a580835700fabeuoft` |
+| The Precious Blood: or, The Price of our Salvation (London: Thomas Richardson and Son, MDCCCLX) | have-ocr | IA `ThePreciousBlood1860` |
+| Bethlehem (London: Thomas Richardson and Son, MDCCCLX) | have-ocr | IA `Bethlehem1860` |
+| Notes on Doctrinal and Spiritual Subjects, vol. I: Mysteries and Festivals (London: Thomas Richardson and Son, MDCCCLXVI) | have-ocr | IA `a580662901fabeuoft` |
+| Notes on Doctrinal and Spiritual Subjects, vol. II: The Faith and the Spiritual Life (London: Thomas Richardson and Son, MDCCCLXVI) | have-ocr | IA `a580662902fabeuoft` |
+| Poems and hymns: The Cherwell Water-Lily (1840), The Styrian Lake (1842), The Rosary (about 1845), Jesus and Mary (1849), Oratory Hymns (1854), Sir Lancelot (1857), Poems (1857) | alternate | not shelved |
+| Second copies: reformationdutyo00fabe_0, AllForJesusOr, growthinholiness00faberich, a580640100Fabeuoft, blessedsacramen00fabegoog, creatorcreatureo01fabe, a580635100fabeuoft, TheFootOfTheCross1858, preciousblood00fabe, spiritualconfer00fabe (sixth edition, no year) | alternate | not shelved |
+| Lives of the English Saints (multi-author) and the Saints and Servants of God series (translations he edited); Laud's Devotions (edited); Notes on Community Life (privately printed) | excluded | |
+| Kindness, Selections, The Spirit of Father Faber and later extract books | excluded | |
+| allforjesusoreas00fabeuoft (fortieth American edition, catalogued 1853), TheBlessedSacrament1861 and bethlehem0000unse_k1l0 (twentieth-century reprints), hymnsfred00fabe (late imprint) | excluded | |
+| George Stanley Faber and William Frederic Faber | excluded | |
+| reprints of 1901-1923 and translations | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
