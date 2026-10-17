@@ -1,0 +1,100 @@
+{
+ "_about": "T. R. Malthus (1766-1834), from Project Gutenberg, each etext's imprint read: An Essay on the Principle of Population, first edition (London: J. Johnson, 1798); Observations on the Effects of the Corn Laws (1814); The Grounds of an Opinion on the Policy of Restricting the Importation of Foreign Corn (1815); An Inquiry into the Nature and Progress of Rent (1815); The Measure of Value Stated and Illustrated (1823); and Definitions in Political Economy (1827). US public domain. Wanted: the enlarged Essay on Population (2nd-6th eds.) and the Principles of Political Economy (1820). No uids minted.",
+ "_author": "T. R. Malthus",
+ "_name_words": [
+  "thomas",
+  "robert",
+  "t",
+  "r",
+  "malthus",
+  "rev"
+ ],
+ "_surname": [
+  "malthus"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "malthus-population-1798": [
+   4239,
+   "An Essay on the Principle of Population, first edition (London: J. Johnson, 1798)"
+  ],
+  "malthus-corn-laws-1814": [
+   4334,
+   "Observations on the Effects of the Corn Laws (London: J. Johnson, 1814)"
+  ],
+  "malthus-grounds-of-an-opinion-1815": [
+   4335,
+   "The Grounds of an Opinion on the Policy of Restricting the Importation of Foreign Corn (London: John Murray, 1815)"
+  ],
+  "malthus-nature-of-rent-1815": [
+   4336,
+   "An Inquiry into the Nature and Progress of Rent (London: John Murray, 1815)"
+  ],
+  "malthus-measure-of-value-1823": [
+   62407,
+   "The Measure of Value Stated and Illustrated (London, 1823)"
+  ],
+  "malthus-definitions-1827": [
+   61483,
+   "Definitions in Political Economy (London: John Murray, 1827)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "malthus-population-1798": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "malthus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "malthus-corn-laws-1814": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "malthus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "malthus-grounds-of-an-opinion-1815": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "malthus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "malthus-nature-of-rent-1815": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "malthus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "malthus-measure-of-value-1823": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "malthus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "malthus-definitions-1827": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "malthus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
