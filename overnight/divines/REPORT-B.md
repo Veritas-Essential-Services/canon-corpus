@@ -979,3 +979,7 @@
 - New shelves: lucien-levy-bruhl (1), gabriel-tarde (1), joseph-de-maistre (3), theodule-ribot (4)
 - Held: Poincaré, Science and Method, tr. Maitland (Nelson; no year printed)
 - Left for Lane C translator shelves: Science and Hypothesis (greenstreet), Ethics and Moral Science (elizabeth-lee)
+
+## 2026-10-17 18:56 CDT — Round ag: German thought in English
+- New shelves: schleiermacher (1), ludwig-buchner (1), wilhelm-von-humboldt (1), moses-mendelssohn (2)
+- Skipped, already held by Lane C: Schlegel's Philosophy of History, Fechner's Little Book of Life after Death

@@ -222,3 +222,4 @@
 - 18:49 round ad: 13 more volumes, chiefly Spencer's Principles of Psychology, Biology and Ethics.
 - 18:51 round ae: 11 more volumes; Spencer's synthetic philosophy is now complete on the shelf (First Principles plus the Principles of Biology, Psychology, Sociology and Ethics).
 - 18:54 round af: Lévy-Bruhl, Tarde, de Maistre, Ribot. Poincaré's Science and Method held (no year on the Nelson title page).
+- 18:56 round ag: Schleiermacher (Oman), Büchner, Wilhelm von Humboldt, Mendelssohn's Jerusalem.
