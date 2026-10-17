@@ -1,5 +1,5 @@
 {
- "_about": "Herbert Spencer (1820-1903), raw IA OCR: First Principles, in the final revised (6th) edition (New York: D. Appleton, 1900; copyright 1864, 1899), the opening volume of his Synthetic Philosophy. US public domain. Not taken: firstprinciple00spen (no title page in the scan). No uids minted.",
+ "_about": "Herbert Spencer (1820-1903), raw IA OCR: First Principles, in the final revised (6th) edition (New York: D. Appleton, 1900; copyright 1864, 1899), the opening volume of his Synthetic Philosophy; and from Project Gutenberg The Data of Ethics (Burt reprint, undated, preface 1879) and the three-volume library edition of the Essays (Williams and Norgate, 1891). US public domain. Not taken: firstprinciple00spen (no title page in the scan). No uids minted.",
  "_author": "Herbert Spencer",
  "_name_words": [
   "herbert",
@@ -9,7 +9,24 @@
   "spencer"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "spencer-data-of-ethics": [
+   46129,
+   "The Data of Ethics (New York: A. L. Burt, n.d.; preface dated 1879)"
+  ],
+  "spencer-essays-1891-v1": [
+   29869,
+   "Essays: Scientific, Political, and Speculative, library edition, vol. I (London: Williams and Norgate, 1891)"
+  ],
+  "spencer-essays-1891-v2": [
+   53395,
+   "Essays: Scientific, Political, and Speculative, vol. II (London: Williams and Norgate, 1891)"
+  ],
+  "spencer-essays-1891-v3": [
+   54076,
+   "Essays: Scientific, Political, and Speculative, vol. III (London: Williams and Norgate, 1891)"
+  ]
+ },
  "internet_archive": {
   "spencer-first-principles-1900": [
    "cu31924029047608",
@@ -18,6 +35,42 @@
  },
  "_excluded": {},
  "_checks": {
+  "spencer-data-of-ethics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spencer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spencer-essays-1891-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spencer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spencer-essays-1891-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spencer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spencer-essays-1891-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spencer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "spencer-first-principles-1900": {
    "kind": "ia",
    "checked": "2026-10-17",

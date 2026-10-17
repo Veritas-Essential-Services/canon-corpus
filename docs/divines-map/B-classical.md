@@ -3745,6 +3745,10 @@ Shelf: `pipeline/herbert-spencer_shelf.json`. First Principles (Appleton, 1900),
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
+| The Data of Ethics (New York: A. L. Burt, n.d.; preface dated 1879) |  | `spencer-data-of-ethics` | have (PG 46129) |
+| Essays: Scientific, Political, and Speculative, library edition, vol. I (London: Williams and Norgate, 1891) |  | `spencer-essays-1891-v1` | have (PG 29869) |
+| Essays: Scientific, Political, and Speculative, vol. II (London: Williams and Norgate, 1891) |  | `spencer-essays-1891-v2` | have (PG 53395) |
+| Essays: Scientific, Political, and Speculative, vol. III (London: Williams and Norgate, 1891) |  | `spencer-essays-1891-v3` | have (PG 54076) |
 | First Principles, 6th ed. (New York: D. Appleton, 1900) |  | `spencer-first-principles-1900` | have-raw (IA `cu31924029047608`) |
 
 Pending (wishlist): The Principles of Biology, Psychology, Sociology and Ethics.
