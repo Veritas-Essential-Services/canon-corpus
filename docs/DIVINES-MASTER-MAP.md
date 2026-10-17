@@ -5651,6 +5651,32 @@ Slugs `moehler-*`. Translator: Robertson (Symbolism); Rymer's name is garbled on
 | New York 1844, the second edition (1846-1847), Scribner 1894, Gibbings 1906 | alternate | not shelved |
 | Crossroad 1997 | excluded | |
 | German and French editions | excluded | |
+
+## Ignaz von Döllinger (round 26, my pick, 2026-10-17)
+
+Slugs `doellinger-*`. Translators: Cox, Darnell, Oxenham, MacCabe, Plummer, Warre. Janus and Quirinus are held as alternates: pseudonymous and collaborative.
+
+| Work | Status | Where |
+|---|---|---|
+| A History of the Church, tr. Edward Cox, vol. 1 (London: C. Dolman and T. Jones, 1840) | have-ocr | IA `historyofchurcht01dl` |
+| A History of the Church, tr. Edward Cox, vol. 2 (London: C. Dolman and T. Jones, 1840) | have-ocr | IA `historyofchurcht02dl` |
+| A History of the Church, tr. Edward Cox, vol. 3 (London: C. Dolman and T. Jones, 1841) | have-ocr | IA `historyofchurcht03dl` |
+| A History of the Church, tr. Edward Cox, vol. 4 (London: C. Dolman and T. Jones, 1842) | have-ocr | IA `historyofchurcht04dl` |
+| The Gentile and the Jew in the Courts of the Temple of Christ, tr. N. Darnell, vol. I (London: Longman, 1862) | have-ocr | IA `gentilejewincour01dluoft` |
+| The Gentile and the Jew in the Courts of the Temple of Christ, tr. N. Darnell, vol. II (London: Longman, 1862) | have-ocr | IA `gentilejewincour02dl` |
+| The First Age of Christianity and the Church, tr. Henry Nutcombe Oxenham, second edition (London: Wm. H. Allen, 1867) | have-ocr | IA `ra575056900dolluoft` |
+| The Church and the Churches, or the Papacy and the Temporal Power, tr. William Bernard MacCabe (London: Hurst and Blackett, 1862) | have-ocr | IA `a575025700dolluoft` |
+| Hippolytus and Callistus, tr. Alfred Plummer (Edinburgh: T. and T. Clark, 1876) | have-ocr | IA `hippolytusandcal00deoluoft` |
+| Fables respecting the Popes of the Middle Ages, tr. Alfred Plummer (London: Rivingtons, 1871) | have-ocr | IA `a575055900dolluoft` |
+| Prophecies and the Prophetic Spirit in the Christian Era, tr. Alfred Plummer (London: Rivingtons, 1873) | have-ocr | IA `a577139900dolluoft` |
+| Lectures on the Reunion of the Churches, tr. Henry Nutcombe Oxenham (London: Rivingtons, 1872) | have-ocr | IA `a576171900dolluoft` |
+| Studies in European History, being Academical Addresses, tr. Margaret Warre (London: John Murray, 1890) | have-ocr | IA `studiesineuropea00dl` |
+| Addresses on Historical and Literary Subjects, tr. Margaret Warre (London: John Murray, 1894) | have-ocr | IA `a574995800dolluoft` |
+| Declarations and Letters on the Vatican Decrees 1869-1887, authorised translation (Edinburgh: T. & T. Clark; catalogued 1891) | have-ocr | IA `declarationslett00dolluoft` |
+| The Pope and the Council by 'Janus' (1869) and Letters from Rome on the Council by 'Quirinus' (1870; PG 38116): pseudonymous and collaborative, his name is not on the title pages; they wait on an attribution ruling | alternate | not shelved |
+| Other copies of the History, Gentile and Jew (1906), First Age (1866 vol. I, 1877, 1906), the Dodd & Mead Fables and Prophetic Spirit (1872), the New York Reunion (1872) | alternate | not shelved |
+| Kobell's Conversations (1892); Hergenröther's Anti-Janus | excluded | |
+| German editions; 1973 reprints | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
