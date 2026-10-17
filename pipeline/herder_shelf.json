@@ -1,0 +1,62 @@
+{
+ "_about": "J. G. Herder (1744-1803) in English, raw IA OCR: The Spirit of Hebrew Poetry, translated from the German by James Marsh (Burlington: Edward Smith, 1833, 2 vols.). US public domain. Held: T. Churchill's Outlines of a Philosophy of the History of Man (1800), whose scanned title page shows neither the translator nor the year legibly. No uids minted.",
+ "_author": "Johann Gottfried Herder",
+ "_name_words": [
+  "johann",
+  "gottfried",
+  "von",
+  "herder",
+  "j",
+  "g"
+ ],
+ "_surname": [
+  "herder"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "herder-marsh-hebrew-poetry-1833-v1": [
+   "spiritofhebrewpo01herd",
+   "The Spirit of Hebrew Poetry, vol. I (Burlington: Edward Smith, 1833)",
+   "tr. James Marsh"
+  ],
+  "herder-marsh-hebrew-poetry-1833-v2": [
+   "spirithebrewpoe02marsgoog",
+   "The Spirit of Hebrew Poetry, vol. II (Burlington: Edward Smith, 1833)",
+   "tr. James Marsh"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "herder-marsh-hebrew-poetry-1833-v1": "Marsh",
+  "herder-marsh-hebrew-poetry-1833-v2": "Marsh"
+ },
+ "_checks": {
+  "herder-marsh-hebrew-poetry-1833-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "herder",
+   "translator_claimed": "Marsh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "herder-marsh-hebrew-poetry-1833-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "herder",
+   "translator_claimed": "Marsh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
