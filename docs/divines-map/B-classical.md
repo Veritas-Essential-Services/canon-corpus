@@ -3655,6 +3655,7 @@ Shelf: `pipeline/spinoza_shelf.json`. Benedict de Spinoza (1632-1677) in English
 | Tractatus Theologico-Politicus: a critical inquiry into the history, purpose, and authenticity of the Hebrew Scriptures, with an introduction and notes by the editor (London: Trübner, 1862) | Robert Willis (named on the title page of his 1870 volume, which lists this one) | `spinoza-willis-tractatus-1862` | have-raw (IA `tractatustheolog00spinuoft`) |
 | Benedict de Spinoza: his life, correspondence, and Ethics (London: Trübner, 1870) | R. Willis | `spinoza-willis-life-ethics-1870` | have-raw (IA `benedictdespinoz00willuoft`) |
 | A Treatise on Politics, translated from the Latin (London: Holyoake, 1854) | William Maccall | `spinoza-maccall-politics-1854` | have-raw (IA `atreatiseonpoli00spingoog`) |
+| The Philosophy of Spinoza, as contained in the first, second, and fifth parts of the Ethics and in extracts from the third and fourth, 2nd ed., enlarged (New York: Henry Holt, 1894) | George Stuart Fullerton | `spinoza-fullerton-philosophy-1894` | have-raw (IA `philosophyofspin01spin`) |
 
 Pending (wishlist): Hale White's Tractatus de Intellectus Emendatione in a dated printing.
 

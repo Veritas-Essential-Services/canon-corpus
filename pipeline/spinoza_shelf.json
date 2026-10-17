@@ -33,12 +33,18 @@
    "atreatiseonpoli00spingoog",
    "A Treatise on Politics, translated from the Latin (London: Holyoake, 1854)",
    "tr. William Maccall"
+  ],
+  "spinoza-fullerton-philosophy-1894": [
+   "philosophyofspin01spin",
+   "The Philosophy of Spinoza, as contained in the first, second, and fifth parts of the Ethics and in extracts from the third and fourth, 2nd ed., enlarged (New York: Henry Holt, 1894)",
+   "tr. George Stuart Fullerton"
   ]
  },
  "_excluded": {},
  "_translators": {
   "spinoza-willis-life-ethics-1870": "Willis",
-  "spinoza-maccall-politics-1854": "Maccall"
+  "spinoza-maccall-politics-1854": "Maccall",
+  "spinoza-fullerton-philosophy-1894": "Fullerton"
  },
  "_checks": {
   "spinoza-hale-white-ethic-1883": {
@@ -87,6 +93,19 @@
    "ia_rights": "ok: published 1854",
    "ia_date": "1854",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spinoza-fullerton-philosophy-1894": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spinoza",
+   "translator_claimed": "Fullerton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
   }
  }
