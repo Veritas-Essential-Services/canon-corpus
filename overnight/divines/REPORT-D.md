@@ -1083,3 +1083,6 @@
 
 ## 2026-10-17 17:45 CDT — aldrich: done
 - aldrich: completed, 15 more Gutenberg books (16 on the shelf), 6,125 units, 59 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:45 CDT — marshall-saunders: done
+- marshall-saunders: completed, 15 more Gutenberg books (16 on the shelf), 32,241 units, 499 ~2 ids; verify 0 mismatches, 0 rights flags.

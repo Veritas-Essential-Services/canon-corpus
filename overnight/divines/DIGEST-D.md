@@ -276,7 +276,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `seton` | 14 Gutenberg | 0 | 13,104 | Animal stories and woodcraft tales. Completed 2026-10-17: 11 more books added, every English text by Ernest Thompson Seton at Gutenberg that no other shelf holds. |
 | `charles-g-d-roberts` | 29 Gutenberg | 0 | 19,213 | Animal stories, romances and poems. Completed 2026-10-17: 27 more books added, every English text by Charles G. D. Roberts at Gutenberg that no other shelf holds. |
 | `jack-london` | 2 Gutenberg | 0 | 1,405 | The Call of the Wild, White Fang (both undated in the text). |
-| `marshall-saunders` | 1 Gutenberg | 0 | 1,458 | Beautiful Joe (1903 printing). |
+| `marshall-saunders` | 16 Gutenberg | 0 | 32,241 | Animal stories and novels. Completed 2026-10-17: 15 more books added, every English text by Marshall Saunders at Gutenberg that no other shelf holds. |
 | `annie-fellows-johnston` | 37 Gutenberg | 0 | 25,796 | The Little Colonel books and other stories for girls. Completed 2026-10-17: 27 more books added, every English text by Annie Fellows Johnston at Gutenberg that no other shelf holds. |
 | `susan-warner` | 29 Gutenberg | 0 | 116,395 | Evangelical novels and stories for the young. Completed 2026-10-17: 27 more books added, every English text by Susan Warner at Gutenberg that no other shelf holds. |
 | `aloe` | 46 Gutenberg | 0 | 30,201 | Evangelical tales for children. Completed 2026-10-17: 44 more books added, every English text by A. L. O. E. at Gutenberg that no other shelf holds. |

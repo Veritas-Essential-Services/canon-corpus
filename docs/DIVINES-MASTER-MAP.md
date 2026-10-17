@@ -19180,11 +19180,27 @@ Shelf: `pipeline/jack-london_shelf.json` (2026-10-02; added at the coordinator's
 
 ## Marshall Saunders
 
-Shelf: `pipeline/marshall-saunders_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). A dog's life story, with Hezekiah Butterworth's introduction; cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/marshall-saunders_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Animal stories and novels. All 16 of Marshall Saunders's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | Beautiful Joe: An Autobiography | have | PG 10226, `saunders-beautiful-joe` (1458 units) |
+| Rose à Charlitte | have | PG 41296, `saunders-rose-charlitte` (3212 units) |
+| Daisy | have | PG 47683, `saunders-daisy` (123 units) |
+| Bonnie Prince Fetlar: The Story of a Pony and His Friends | have | PG 49459, `saunders-bonnie-prince-fetlar` (3011 units) |
+| "Boy" the Wandering Dog: Adventures of a Fox-Terrier | have | PG 50394, `saunders-boy-the-wandering-dog` (2866 units) |
+| 'Tilda Jane: An Orphan in Search of a Home. A Story for Boys and Girls | have | PG 52018, `saunders-tilda-jane` (1724 units) |
+| For His Country, and Grandmother and the Crow | have | PG 52608, `saunders-for-his-country-and-grandmother-and-the-crow` (309 units) |
+| Deficient Saints: A Tale of Maine | have | PG 52783, `saunders-deficient-saints` (2826 units) |
+| Pussy Black-Face; Or, The Story of a Kitten and Her Friends | have | PG 52787, `saunders-pussy-black-face` (1917 units) |
+| The Story of the Gravelys: A Tale for Girls | have | PG 53675, `saunders-story-of-the-gravelys` (2479 units) |
+| The House of Armour | have | PG 53697, `saunders-house-of-armour` (3510 units) |
+| Golden Dicky, The Story of a Canary and His Friends | have | PG 55173, `saunders-golden-dicky-the-story-of-a-canary-and-his-friends` (1535 units) |
+| Her Sailor: A Love Story | have | PG 56563, `saunders-her-sailor` (1949 units) |
+| The King of the Park | have | PG 56831, `saunders-king-of-the-park` (1216 units) |
+| Princess Sukey: The story of a pigeon and her human friends | have | PG 69707, `saunders-princess-sukey` (2981 units) |
+| My pets | have | PG 73801, `saunders-my-pets` (1125 units) |
+| marshall-saunders-repeat-2818 | excluded | PG 2818, Beautiful Joe: An Autobiography: a second transcription of a title already on this shelf |
 
 ## Annie Fellows Johnston
 
