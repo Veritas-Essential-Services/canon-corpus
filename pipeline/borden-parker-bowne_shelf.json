@@ -1,5 +1,5 @@
 {
- "_about": "Borden Parker Bowne (1847-1910), American personalist, raw IA OCR: Metaphysics, a study in first principles (New York: Harper, 1882), The Principles of Ethics (Harper, 1893), Theory of Thought and Knowledge (Harper, 1897) and Theism (Deems Lectures; American Book Company, 1902). US public domain. No uids minted.",
+ "_about": "Borden Parker Bowne (1847-1910), American personalist, raw IA OCR: Metaphysics, a study in first principles (New York: Harper, 1882), The Principles of Ethics (Harper, 1893), Theory of Thought and Knowledge (Harper, 1897) and Theism (Deems Lectures; American Book Company, 1902). Added in round ad: Personalism (Boston: Houghton Mifflin, 1908). US public domain. No uids minted.",
  "_author": "Borden Parker Bowne",
  "_name_words": [
   "borden",
@@ -28,6 +28,10 @@
   "bowne-theism-1902": [
    "theism01bown",
    "Theism, the Deems Lectures for 1902 (New York: American Book Company, 1902)"
+  ],
+  "bowne-personalism-1908": [
+   "personalism00bown",
+   "Personalism (Boston: Houghton Mifflin, 1908)"
   ]
  },
  "_excluded": {},
@@ -74,6 +78,17 @@
    "ia_rights": "ok: published 1902",
    "ia_date": "1902",
    "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "bowne-personalism-1908": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bowne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
