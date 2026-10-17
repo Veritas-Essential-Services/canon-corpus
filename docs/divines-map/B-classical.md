@@ -3923,7 +3923,7 @@ Shelf: `pipeline/helvetius_shelf.json`. De l'Esprit, the first English translati
 
 ## John Dewey
 
-Shelf: `pipeline/john-dewey_shelf.json`. Fifteen works, 1888-1922, US public domain.
+Shelf: `pipeline/john-dewey_shelf.json`. Sixteen works, 1888-1922, US public domain.
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
@@ -3942,8 +3942,9 @@ Shelf: `pipeline/john-dewey_shelf.json`. Fifteen works, 1888-1922, US public dom
 | Creative Intelligence: essays in the pragmatic attitude, by John Dewey and others (New York: Henry Holt, 1917) |  | `dewey-creative-intelligence-1917` | have (PG 33727) |
 | Reconstruction in Philosophy (New York: Henry Holt, 1920) |  | `dewey-reconstruction-in-philosophy-1920` | have (PG 40089) |
 | Human Nature and Conduct: an introduction to social psychology (New York: Henry Holt, 1922) |  | `dewey-human-nature-and-conduct-1922` | have (PG 41386) |
+| Ethics, by John Dewey and James H. Tufts, American Science Series (New York: Henry Holt, 1909; copyright 1908) |  | `dewey-tufts-ethics-1909` | have-raw (IA `ethicsdew00deweuoft`) |
 
-Pending (wishlist): The Child and the Curriculum and The Public and its Problems in pre-1930 printings; Dewey and Tufts, Ethics (1908).
+Pending (wishlist): The Child and the Curriculum and The Public and its Problems in pre-1930 printings.
 
 ## George Santayana
 
@@ -3963,13 +3964,18 @@ Shelf: `pipeline/george-santayana_shelf.json`. Nine works, 1896-1923.
 
 ## Josiah Royce
 
-Shelf: `pipeline/josiah-royce_shelf.json`. The Sources of Religious Insight (1912).
+Shelf: `pipeline/josiah-royce_shelf.json`. Eight volumes, 1885-1913.
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
 | The Sources of Religious Insight (New York: Scribner, 1912) |  | `royce-sources-of-religious-insight-1912` | have (PG 33677) |
-
-Pending (wishlist): The Religious Aspect of Philosophy, The Spirit of Modern Philosophy, The World and the Individual, The Philosophy of Loyalty.
+| The Religious Aspect of Philosophy: a critique of the bases of conduct and of faith (Boston: Houghton, Mifflin; copyright 1885) |  | `royce-religious-aspect-of-philosophy-1885` | have-raw (IA `thereligiousaspe00roycuoft`) |
+| The Spirit of Modern Philosophy: an essay in the form of lectures (Boston: Houghton, Mifflin; copyright 1892) |  | `royce-spirit-of-modern-philosophy-1892` | have-raw (IA `cu31924032323101`) |
+| The World and the Individual, Gifford Lectures, first series: the four historical conceptions of being (New York: Macmillan, 1900) |  | `royce-world-and-individual-1900-v1` | have-raw (IA `worldandindivid01roycgoog`) |
+| The World and the Individual, second series: nature, man, and the moral order (New York: Macmillan, 1901) |  | `royce-world-and-individual-1901-v2` | have-raw (IA `theworldandthein02roycuoft`) |
+| The Philosophy of Loyalty (New York: Macmillan, 1908) |  | `royce-philosophy-of-loyalty-1908` | have-raw (IA `philosophyloyal00roycuoft`) |
+| The Problem of Christianity, vol. I: the Christian doctrine of life (New York: Macmillan, 1913) |  | `royce-problem-of-christianity-1913-v1` | have-raw (IA `problemofchris01roycuoft`) |
+| The Problem of Christianity, vol. II: the real world and the Christian ideas (New York: Macmillan, 1913) |  | `royce-problem-of-christianity-1913-v2` | have-raw (IA `theproblemofchri02roycuoft`) |
 
 ## Charles S. Peirce
 
@@ -3981,13 +3987,12 @@ Shelf: `pipeline/charles-s-peirce_shelf.json`. Chance, Love, and Logic, ed. Cohe
 
 ## James Mill
 
-Shelf: `pipeline/james-mill_shelf.json`. Analysis of the Phenomena of the Human Mind, ed. J. S. Mill (1878), vol. I.
+Shelf: `pipeline/james-mill_shelf.json`. Analysis of the Phenomena of the Human Mind, ed. J. S. Mill (1878), 2 vols.
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
 | Analysis of the Phenomena of the Human Mind, ed. J. S. Mill, 2nd ed., vol. I (London: Longmans, 1878) |  | `james-mill-analysis-of-the-mind-1878-v1` | have (PG 56441) |
-
-Pending (wishlist): Vol. II of the 1878 edition.
+| Analysis of the Phenomena of the Human Mind, ed. J. S. Mill, 2nd ed., vol. II (London: Longmans, 1878) |  | `james-mill-analysis-of-the-mind-1878-v2` | have-raw (IA `cu31924092298383`) |
 
 ## Schiller's philosophical essays
 

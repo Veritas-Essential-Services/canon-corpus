@@ -1,5 +1,5 @@
 {
- "_about": "Josiah Royce (1855-1916), from Project Gutenberg: The Sources of Religious Insight (Bross Lectures; New York: Scribner, 1912). US public domain. Wanted: The Religious Aspect of Philosophy (1885), The Spirit of Modern Philosophy (1892), The World and the Individual (1899-1901), The Philosophy of Loyalty (1908). No uids minted.",
+ "_about": "Josiah Royce (1855-1916), the American idealist: from Project Gutenberg, The Sources of Religious Insight (Bross Lectures; Scribner, 1912); and in raw IA OCR, The Religious Aspect of Philosophy (Houghton, Mifflin; copyright 1885), The Spirit of Modern Philosophy (copyright 1892), The World and the Individual (Gifford Lectures; Macmillan, 1900-1901, 2 vols.), The Philosophy of Loyalty (1908) and The Problem of Christianity (1913, 2 vols.). US public domain. No uids minted.",
  "_author": "Josiah Royce",
  "_name_words": [
   "josiah",
@@ -15,7 +15,36 @@
    "The Sources of Religious Insight (New York: Scribner, 1912)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "royce-religious-aspect-of-philosophy-1885": [
+   "thereligiousaspe00roycuoft",
+   "The Religious Aspect of Philosophy: a critique of the bases of conduct and of faith (Boston: Houghton, Mifflin; copyright 1885)"
+  ],
+  "royce-spirit-of-modern-philosophy-1892": [
+   "cu31924032323101",
+   "The Spirit of Modern Philosophy: an essay in the form of lectures (Boston: Houghton, Mifflin; copyright 1892)"
+  ],
+  "royce-world-and-individual-1900-v1": [
+   "worldandindivid01roycgoog",
+   "The World and the Individual, Gifford Lectures, first series: the four historical conceptions of being (New York: Macmillan, 1900)"
+  ],
+  "royce-world-and-individual-1901-v2": [
+   "theworldandthein02roycuoft",
+   "The World and the Individual, second series: nature, man, and the moral order (New York: Macmillan, 1901)"
+  ],
+  "royce-philosophy-of-loyalty-1908": [
+   "philosophyloyal00roycuoft",
+   "The Philosophy of Loyalty (New York: Macmillan, 1908)"
+  ],
+  "royce-problem-of-christianity-1913-v1": [
+   "problemofchris01roycuoft",
+   "The Problem of Christianity, vol. I: the Christian doctrine of life (New York: Macmillan, 1913)"
+  ],
+  "royce-problem-of-christianity-1913-v2": [
+   "theproblemofchri02roycuoft",
+   "The Problem of Christianity, vol. II: the real world and the Christian ideas (New York: Macmillan, 1913)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "royce-sources-of-religious-insight-1912": {
@@ -26,6 +55,83 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "royce-religious-aspect-of-philosophy-1885": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "royce-spirit-of-modern-philosophy-1892": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "royce-world-and-individual-1900-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "royce-world-and-individual-1901-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900-01",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "royce-philosophy-of-loyalty-1908": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "royce-problem-of-christianity-1913-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "royce-problem-of-christianity-1913-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
