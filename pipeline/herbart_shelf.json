@@ -1,0 +1,56 @@
+{
+ "_about": "Johann Friedrich Herbart (1776-1841) in English, raw IA OCR: A Text-Book in Psychology, tr. Margaret K. Smith, International Education Series (New York: Appleton, 1891), and The Science of Education, tr. Henry M. and Emmie Felkin, preface by Oscar Browning (Boston: D. C. Heath, 1908). His Outlines of Educational Doctrine is on singles-science-craft. US public domain. No uids minted.",
+ "_author": "Johann Friedrich Herbart",
+ "_name_words": [
+  "johann",
+  "friedrich",
+  "herbart"
+ ],
+ "_surname": [
+  "herbart"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "herbart-smith-text-book-in-psychology-1891": [
+   "cu31924031387131",
+   "A Text-Book in Psychology (New York: Appleton, 1891)",
+   "tr. Margaret K. Smith"
+  ],
+  "herbart-felkin-science-of-education-1908": [
+   "scienceofeducati00herbuoft",
+   "The Science of Education (Boston: D. C. Heath, 1908)",
+   "tr. Henry M. and Emmie Felkin"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "herbart-felkin-science-of-education-1908": "Felkin"
+ },
+ "_checks": {
+  "herbart-smith-text-book-in-psychology-1891": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "herbart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herbart-felkin-science-of-education-1908": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "herbart",
+   "translator_claimed": "Felkin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
