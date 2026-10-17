@@ -1292,6 +1292,14 @@
    "started": "2026-10-17T17:49:00-05:00",
    "finished": "2026-10-17T17:52:53-05:00",
    "notes": "7 new shelves, 14 IA volumes."
+  },
+  {
+   "id": "round-2026-10-17o",
+   "status": "done",
+   "scope": "Modern British philosophy from Gutenberg: Russell, Moore, Whitehead, Whewell, Kames, Clifford, Guyau, De Morgan, Jevons",
+   "started": "2026-10-17T17:52:53-05:00",
+   "finished": "2026-10-17T18:00:38-05:00",
+   "notes": "9 new shelves, 32 PG texts. Held 25447 and 13940 (post-1930 impressions). PG has no plain text for Principia Mathematica, Intro to Mathematical Philosophy, Analysis of Matter, ABC of Atoms, Whitehead's Intro to Mathematics and Natural Knowledge, Boole's three logic books, or Wittgenstein's Tractatus."
   }
  ]
 }

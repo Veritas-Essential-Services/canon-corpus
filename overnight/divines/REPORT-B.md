@@ -850,3 +850,13 @@
 ## 2026-10-17 17:52 CDT — Round 2026-10-17n: Lange, Hartmann, the histories, Beccaria, Lessing
 - 7 new shelves, 14 IA volumes: friedrich-albert-lange (History of Materialism, 3 vols), eduard-von-hartmann (Philosophy of the Unconscious, 3 vols), wilhelm-windelband (History 1907), friedrich-ueberweg (History, 2 vols), johann-eduard-erdmann (History 1890, 3 vols), beccaria (1775), lessing-philosophy (Education of the Human Race 1896)
 - Left out as held elsewhere: Stirner (byington), La Mettrie, Wundt, Herbart (singles-science-craft), Eucken and Maimon (singles-ideas-2), Haeckel (mccabe, dora-schmitz), Plotinus/Proclus/Porphyry (their shelves)
+
+## 2026-10-17 18:00 CDT — Round o: modern British philosophy (Gutenberg)
+- bertrand-russell: 15 works 1897-1930, incl. The Conquest of Happiness (1930, US PD since Jan 2026)
+- g-e-moore: Principia Ethica (1922 reprint), Philosophical Studies (1922)
+- alfred-north-whitehead: 4 works 1917-1927
+- william-whewell: 4 works 1858-1875
+- lord-kames: Elements of Criticism (1762, 3 vols; vols I-II year inferred from the shared imprint)
+- w-k-clifford, jean-marie-guyau, augustus-de-morgan, w-s-jevons: one work each
+- Held: Russell's Mysticism and Logic (PG 25447) and The Problem of China (PG 13940), post-1930 printings
+- Not taken: PG has no plain-text file for Principia Mathematica, Boole's logic books, the Tractatus and several other mathematical works

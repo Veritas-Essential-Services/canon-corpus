@@ -9473,6 +9473,107 @@ Shelf: `pipeline/lessing-philosophy_shelf.json`. The Education of the Human Race
 |---|---|---|---|
 | The Education of the Human Race, 4th ed., revised (London: Kegan Paul, Trench, Trübner, 1896) | Frederick W. Robertson | `lessing-robertson-education-1896` | have-raw (IA `educationofhuman00lessuoft`) |
 
+## Bertrand Russell
+
+Shelf: `pipeline/bertrand-russell_shelf.json`. Fifteen works, 1897-1930, from Gutenberg. Held: Mysticism and Logic (PG 25447) and The Problem of China (PG 13940), both post-1930 printings. Not taken: the mathematical books, for which PG has no plain-text file.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Essay on the Foundations of Geometry (Cambridge, 1897) |  | `russell-foundations-of-geometry-1897` | have (PG 52091) |
+| The Problems of Philosophy (1912) |  | `russell-problems-of-philosophy-1912` | have (PG 5827) |
+| Our Knowledge of the External World as a Field for Scientific Method in Philosophy (1914; 1922 reissue) |  | `russell-our-knowledge-of-the-external-world` | have (PG 37090) |
+| Why Men Fight: a method of abolishing the international duel (New York: Century, 1920) |  | `russell-why-men-fight-1920` | have (PG 55610) |
+| Political Ideals (1917; the etext names no printing) |  | `russell-political-ideals` | have (PG 4776) |
+| Proposed Roads to Freedom (1918; the etext names no printing) |  | `russell-proposed-roads-to-freedom` | have (PG 690) |
+| The Practice and Theory of Bolshevism (1920; reprinted February 1921) |  | `russell-practice-theory-of-bolshevism-1920` | have (PG 17350) |
+| The Analysis of Mind (1921) |  | `russell-analysis-of-mind-1921` | have (PG 2529) |
+| Free Thought and Official Propaganda (Conway Memorial Lecture, 1922) |  | `russell-free-thought-official-propaganda-1922` | have (PG 44932) |
+| Icarus, or the Future of Science (1924) |  | `russell-icarus-1924` | have (PG 66225) |
+| What I Believe (New York: Dutton, 1925) |  | `russell-what-i-believe-1925` | have (PG 73782) |
+| The A B C of Relativity (New York: Harper, 1925) |  | `russell-abc-of-relativity-1925` | have (PG 67104) |
+| Education and the Good Life (New York: Boni and Liveright, 1926) |  | `russell-education-and-the-good-life-1926` | have (PG 70302) |
+| Philosophy (New York: Norton, 1927) |  | `russell-philosophy-1927` | have (PG 72981) |
+| The Conquest of Happiness (London: Allen and Unwin, 1930) |  | `russell-conquest-of-happiness-1930` | have (PG 77894) |
+
+Pending (wishlist): Introduction to Mathematical Philosophy (1919), The Analysis of Matter (1927), Principia Mathematica (1910-13): need a non-plain-text source
+
+## G. E. Moore
+
+Shelf: `pipeline/g-e-moore_shelf.json`. Principia Ethica (1903, 1922 reprint) and Philosophical Studies (1922).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Principia Ethica (Cambridge, 1903; reprinted 1922) |  | `moore-principia-ethica-1922` | have (PG 53430) |
+| Philosophical Studies (London: Kegan Paul, 1922) |  | `moore-philosophical-studies-1922` | have (PG 50141) |
+
+## Alfred North Whitehead
+
+Shelf: `pipeline/alfred-north-whitehead_shelf.json`. Four works, 1917-1927, from Gutenberg.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Organisation of Thought, educational and scientific (London: Williams and Norgate, 1917) |  | `whitehead-organisation-of-thought-1917` | have (PG 77011) |
+| The Concept of Nature (Tarner Lectures, 1920) |  | `whitehead-concept-of-nature-1920` | have (PG 18835) |
+| Science and the Modern World (New York: Macmillan, 1925) |  | `whitehead-science-and-the-modern-world-1925` | have (PG 68611) |
+| Symbolism, its Meaning and Effect (New York: Macmillan, 1927) |  | `whitehead-symbolism-1927` | have (PG 78977) |
+
+Pending (wishlist): An Introduction to Mathematics, Principles of Natural Knowledge, Process and Reality (1929): no plain-text PG file, or not on PG
+
+## William Whewell
+
+Shelf: `pipeline/william-whewell_shelf.json`. The philosophy of science: four works, 1858-1875.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of Scientific Ideas (London: Parker, 1858) |  | `whewell-history-of-scientific-ideas-1858` | have (PG 69093) |
+| Novum Organon Renovatum (London: Parker, 1858) |  | `whewell-novum-organon-renovatum-1858` | have (PG 69764) |
+| On the Philosophy of Discovery, chapters historical and critical (London: Parker, 1860) |  | `whewell-philosophy-of-discovery-1860` | have (PG 51555) |
+| History of the Inductive Sciences, from the earliest to the present time (New York: Appleton, 1875) |  | `whewell-history-of-the-inductive-sciences-1875` | have (PG 68693) |
+
+## Lord Kames
+
+Shelf: `pipeline/lord-kames_shelf.json`. Elements of Criticism (Edinburgh, 1762), three volumes.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Elements of Criticism, volume I (Edinburgh, 1762) |  | `kames-elements-of-criticism-1` | have (PG 57678) |
+| Elements of Criticism, volume II (Edinburgh, 1762) |  | `kames-elements-of-criticism-2` | have (PG 57679) |
+| Elements of Criticism, volume III (Edinburgh, 1762) |  | `kames-elements-of-criticism-3` | have (PG 57680) |
+
+## W. K. Clifford
+
+Shelf: `pipeline/w-k-clifford_shelf.json`. The Scientific Basis of Morals and other essays, including The Ethics of Belief.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Scientific Basis of Morals, and other essays (Humboldt Library; the etext names no printing) |  | `clifford-scientific-basis-of-morals` | have (PG 50189) |
+
+## Jean-Marie Guyau in English
+
+Shelf: `pipeline/jean-marie-guyau_shelf.json`. The Non-Religion of the Future (Holt, 1897).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Non-Religion of the Future: a sociological study (New York: Holt, 1897) | anonymous | `guyau-non-religion-of-the-future-1897` | have (PG 47421) |
+
+## Augustus De Morgan
+
+Shelf: `pipeline/augustus-de-morgan_shelf.json`. First Notions of Logic (1839).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| First Notions of Logic, preparatory to the study of geometry (London: Taylor and Walton, 1839) |  | `de-morgan-first-notions-of-logic-1839` | have (PG 67017) |
+
+Pending (wishlist): Formal Logic (1847)
+
+## W. Stanley Jevons
+
+Shelf: `pipeline/w-s-jevons_shelf.json`. The Principles of Science (1883).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Principles of Science: a treatise on logic and scientific method (London: Macmillan, 1883) |  | `jevons-principles-of-science-1883` | have (PG 74864) |
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.
