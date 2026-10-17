@@ -3551,6 +3551,7 @@ Shelf: `pipeline/kant_shelf.json`. Immanuel Kant (1724-1804) in English, transla
 | Kant's Cosmogony, as in his Essay on the Retardation of the Rotation of the Earth and his Natural History and Theory of the Heavens (Glasgow: Maclehose, 1900) | W. Hastie | `kant-hastie-cosmogony-1900` | have-raw (IA `kantscosmogonyas00kantuoft`) |
 | Kant's Critical Philosophy for English Readers, new and completed edition, vol. II: the Prolegomena translated, with notes and appendices (London: Macmillan, 1889) | John P. Mahaffy and John H. Bernard | `kant-mahaffy-bernard-prolegomena-1889` | have-raw (IA `KantsCriticalPhilosophyForEnglishReadersVol2`) |
 | Kant's Critique of Aesthetic Judgement, translated with seven introductory essays, notes, and analytical index (Oxford: Clarendon, 1911) | James Creed Meredith | `kant-meredith-aesthetic-judgement-1911` | have-raw (IA `critiquekantaest00kantuoft`) |
+| The Philosophy of Kant, as contained in extracts from his own writings (Glasgow: James MacLehose, 1897) | John Watson | `kant-watson-philosophy-of-kant-1897` | have-raw (IA `thephilosophyofk00kantuoft`) |
 
 ## Hume
 

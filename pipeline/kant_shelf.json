@@ -61,6 +61,11 @@
    "critiquekantaest00kantuoft",
    "Kant's Critique of Aesthetic Judgement, translated with seven introductory essays, notes, and analytical index (Oxford: Clarendon, 1911)",
    "tr. James Creed Meredith"
+  ],
+  "kant-watson-philosophy-of-kant-1897": [
+   "thephilosophyofk00kantuoft",
+   "The Philosophy of Kant, as contained in extracts from his own writings (Glasgow: James MacLehose, 1897)",
+   "tr. John Watson"
   ]
  },
  "_excluded": {},
@@ -72,7 +77,8 @@
   "kant-hastie-philosophy-of-law-1887": "Hastie",
   "kant-hastie-cosmogony-1900": "Hastie",
   "kant-mahaffy-bernard-prolegomena-1889": "Bernard",
-  "kant-meredith-aesthetic-judgement-1911": "Meredith"
+  "kant-meredith-aesthetic-judgement-1911": "Meredith",
+  "kant-watson-philosophy-of-kant-1897": "Watson"
  },
  "_checks": {
   "kant-carus-prolegomena-1912": {
@@ -196,6 +202,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1911",
    "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kant-watson-philosophy-of-kant-1897": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kant",
+   "translator_claimed": "Watson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
