@@ -33,13 +33,25 @@
    "cu31924020344077",
    "The Science of Ethics as Based on the Science of Knowledge, edited by W. T. Harris (London: Kegan Paul, 1897)",
    "tr. A. E. Kroeger"
+  ],
+  "fichte-smith-popular-works-1889-v1": [
+   "popularworks01fichuoft",
+   "The Popular Works of Johann Gottlieb Fichte, with a memoir of the author, 4th ed., vol. I (London: Trübner, 1889)",
+   "tr. William Smith"
+  ],
+  "fichte-smith-popular-works-1889-v2": [
+   "popularworks02fichuoft",
+   "The Popular Works of Johann Gottlieb Fichte, 4th ed., vol. II: the Characteristics of the Present Age, the Way towards the Blessed Life, Outlines of the Doctrine of Knowledge (London: Trübner, 1889)",
+   "tr. William Smith"
   ]
  },
  "_excluded": {},
  "_translators": {
   "fichte-kroeger-science-of-knowledge-1868": "Kroeger",
   "fichte-kroeger-new-exposition-1869": "Kroeger",
-  "fichte-kroeger-science-of-rights-1889": "Kroeger"
+  "fichte-kroeger-science-of-rights-1889": "Kroeger",
+  "fichte-smith-popular-works-1889-v1": "Smith",
+  "fichte-smith-popular-works-1889-v2": "Smith"
  },
  "_checks": {
   "fichte-kroeger-science-of-knowledge-1868": {
@@ -90,6 +102,32 @@
    "ia_rights": "ok: published 1897",
    "ia_date": "1897",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fichte-smith-popular-works-1889-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fichte",
+   "translator_claimed": "Smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fichte-smith-popular-works-1889-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fichte",
+   "translator_claimed": "Smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }

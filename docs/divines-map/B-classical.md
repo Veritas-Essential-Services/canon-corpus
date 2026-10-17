@@ -3683,6 +3683,8 @@ Shelf: `pipeline/fichte_shelf.json`. J. G. Fichte (1762-1814) in English, raw IA
 | New Exposition of the Science of Knowledge, translated from the German (St. Louis, 1869) | A. E. Kroeger | `fichte-kroeger-new-exposition-1869` | have-raw (IA `newexposition00fichuoft`) |
 | The Science of Rights, with a preface by William T. Harris (London: Trübner, 1889) | A. E. Kroeger | `fichte-kroeger-science-of-rights-1889` | have-raw (IA `scienceofrights00fich`) |
 | The Science of Ethics as Based on the Science of Knowledge, edited by W. T. Harris (London: Kegan Paul, 1897) | A. E. Kroeger | `fichte-kroeger-science-of-ethics-1897` | have-raw (IA `cu31924020344077`) |
+| The Popular Works of Johann Gottlieb Fichte, with a memoir of the author, 4th ed., vol. I (London: Trübner, 1889) | William Smith | `fichte-smith-popular-works-1889-v1` | have-raw (IA `popularworks01fichuoft`) |
+| The Popular Works of Johann Gottlieb Fichte, 4th ed., vol. II: the Characteristics of the Present Age, the Way towards the Blessed Life, Outlines of the Doctrine of Knowledge (London: Trübner, 1889) | William Smith | `fichte-smith-popular-works-1889-v2` | have-raw (IA `popularworks02fichuoft`) |
 
 Pending (wishlist): Fichte's Addresses to the German Nation (Jones and Turnbull, 1922).
 
