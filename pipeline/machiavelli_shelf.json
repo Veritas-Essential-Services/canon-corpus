@@ -11,7 +11,13 @@
   "machiavelli"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "machiavelli-history-of-florence-1901": [
+   2464,
+   "History of Florence and of the Affairs of Italy, from the earliest times to the death of Lorenzo the Magnificent (New York: W. Walter Dunne, 1901)",
+   "tr. unnamed in the book"
+  ]
+ },
  "internet_archive": {
   "machiavelli-detmold-writings-1882-v1": [
    "diplomaticwritin01machuoft",
@@ -42,6 +48,15 @@
   "machiavelli-detmold-writings-1882-v4": "Detmold"
  },
  "_checks": {
+  "machiavelli-history-of-florence-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "machiavelli",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "machiavelli-detmold-writings-1882-v1": {
    "kind": "ia",
    "checked": "2026-10-17",

@@ -3608,6 +3608,7 @@ Shelf: `pipeline/machiavelli_shelf.json`. Niccolò Machiavelli (1469-1527) in En
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| History of Florence and of the Affairs of Italy, from the earliest times to the death of Lorenzo the Magnificent (New York: W. Walter Dunne, 1901) | unnamed in the book | `machiavelli-history-of-florence-1901` | have (PG 2464) |
 | The Historical, Political, and Diplomatic Writings of Niccolò Machiavelli, vol. I (Boston: James R. Osgood, 1882) | Christian E. Detmold | `machiavelli-detmold-writings-1882-v1` | have-raw (IA `diplomaticwritin01machuoft`) |
 | The Historical, Political, and Diplomatic Writings of Niccolò Machiavelli, vol. II (Boston: James R. Osgood, 1882) | Christian E. Detmold | `machiavelli-detmold-writings-1882-v2` | have-raw (IA `diplomaticwritin02machuoft`) |
 | The Historical, Political, and Diplomatic Writings of Niccolò Machiavelli, vol. III (Boston: James R. Osgood, 1882) | Christian E. Detmold | `machiavelli-detmold-writings-1882-v3` | have-raw (IA `diplomaticwritin03machuoft`) |
