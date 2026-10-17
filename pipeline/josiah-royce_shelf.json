@@ -1,0 +1,31 @@
+{
+ "_about": "Josiah Royce (1855-1916), from Project Gutenberg: The Sources of Religious Insight (Bross Lectures; New York: Scribner, 1912). US public domain. Wanted: The Religious Aspect of Philosophy (1885), The Spirit of Modern Philosophy (1892), The World and the Individual (1899-1901), The Philosophy of Loyalty (1908). No uids minted.",
+ "_author": "Josiah Royce",
+ "_name_words": [
+  "josiah",
+  "royce"
+ ],
+ "_surname": [
+  "royce"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "royce-sources-of-religious-insight-1912": [
+   33677,
+   "The Sources of Religious Insight (New York: Scribner, 1912)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "royce-sources-of-religious-insight-1912": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "royce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
