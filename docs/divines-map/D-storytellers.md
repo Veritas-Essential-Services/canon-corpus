@@ -5299,6 +5299,40 @@ Shelf: `pipeline/le-feuvre_shelf.json` (2026-10-17; added at the coordinator's r
 | Tomina in retreat | have | PG 79156, `lefeuvre-tomina-in-retreat` (2823 units) |
 | A happy woman | have | PG 79399, `lefeuvre-a-happy-woman` (2516 units) |
 
+## Evelyn Everett-Green
+
+Shelf: `pipeline/everett-green_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Historical tales and stories for the young. Every English text under the name at Gutenberg that no other shelf holds (27 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| In the Days of Chivalry: A Tale of the Times of the Black Prince | have | PG 13183, `egreen-in-the-days-of-chivalry` (1801 units) |
+| The Lord of Dynevor: A Tale of the Times of Edward the First | have | PG 13227, `egreen-lord-of-dynevor` (837 units) |
+| Tom Tufton's Travels | have | PG 13404, `egreen-tom-tuftons-travels` (1306 units) |
+| A Heroine of France: The Story of Joan of Arc | have | PG 13500, `egreen-a-heroine-of-france` (1071 units) |
+| The Sign of the Red Cross: A Tale of Old London | have | PG 13840, `egreen-sign-of-the-red-cross` (1226 units) |
+| For the Faith: A Story of the Young Pioneers of Reformation in Oxford | have | PG 14748, `egreen-for-the-faith` (1238 units) |
+| The Secret Chamber at Chad | have | PG 15670, `egreen-secret-chamber-at-chad` (806 units) |
+| In the Wars of the Roses: A Story for the Young | have | PG 15769, `egreen-in-the-wars-of-the-roses` (807 units) |
+| French and English: A Story of the Struggle in America | have | PG 15958, `egreen-french-and-english` (2275 units) |
+| The Lost Treasure of Trevlyn: A Story of the Days of the Gunpowder Plot | have | PG 16654, `egreen-lost-treasure-of-trevlyn` (2262 units) |
+| True Stories of Girl Heroines | have | PG 40508, `egreen-true-stories-of-girl-heroines` (1592 units) |
+| Esther's Charge: A Story for Girls | have | PG 42230, `egreen-esthers-charge` (1464 units) |
+| A Clerk of Oxford, and His Adventures in the Barons' War | have | PG 43077, `egreen-a-clerk-of-oxford-and-his-adventures-in-the-barons-wa` (1989 units) |
+| Fallen Fortunes | have | PG 45201, `egreen-fallen-fortunes` (977 units) |
+| Monica: A Novel, Volume 1 (of 3) | have | PG 54940, `egreen-monica` (657 units) |
+| Monica: A Novel, Volume 2 (of 3) | have | PG 54941, `egreen-monica-54941` (725 units) |
+| Monica: A Novel, Volume 3 (of 3) | have | PG 54942, `egreen-monica-54942` (677 units) |
+| Squib and His Friends | have | PG 54994, `egreen-squib-and-his-friends` (1242 units) |
+| In Taunton town : a story of the rebellion of James Duke of Monmouth in 1685 | have | PG 55966, `egreen-in-taunton-town` (1751 units) |
+| Pat the Lighthouse Boy | have | PG 63182, `egreen-pat-the-lighthouse-boy` (581 units) |
+| Our Winnie, and The Little Match Girl | have | PG 67410, `egreen-our-winnie-and-the-little-match-girl` (1138 units) |
+| Eustace Marchmont: A friend of the people | have | PG 68596, `egreen-eustace-marchmont` (1512 units) |
+| Drifted ashore; | have | PG 70089, `egreen-drifted-ashore` (1819 units) |
+| Torwood's Trust, Volume 1 (of 3) | have | PG 70305, `egreen-torwoods-trust` (1404 units) |
+| Odeyne's marriage | have | PG 76100, `egreen-odeynes-marriage` (1657 units) |
+| Torwood's Trust, Volume 2 (of 3) | have | PG 70306, `egreen-torwoods-trust-2` (1446 units) |
+| Torwood's Trust, Volume 3 (of 3) | have | PG 70307, `egreen-torwoods-trust-3` (1886 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

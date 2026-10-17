@@ -1143,3 +1143,6 @@
 
 ## 2026-10-17 18:10 CDT — le-feuvre: done
 - le-feuvre: new shelf, 36 Gutenberg books, 58,798 units, 911 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:10 CDT — everett-green: done
+- everett-green: new shelf, 27 Gutenberg books, 36,146 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags.

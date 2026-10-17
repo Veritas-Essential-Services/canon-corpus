@@ -2309,6 +2309,14 @@
       "started": "2026-10-17T18:10:08-05:00",
       "finished": "2026-10-17T18:10:08-05:00",
       "notes": "le-feuvre: new shelf, 36 Gutenberg books, 58,798 units, 911 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "everett-green",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Evelyn Everett-Green; no minting",
+      "status": "done",
+      "started": "2026-10-17T18:10:09-05:00",
+      "finished": "2026-10-17T18:10:09-05:00",
+      "notes": "everett-green: new shelf, 27 Gutenberg books, 36,146 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
