@@ -457,8 +457,8 @@
       "id": "molesworth",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — Mrs. Molesworth's best-known children's books; children's classics batch; no minting",
       "status": "done",
-      "finished": "2026-10-02T17:29:47-05:00",
-      "notes": "8/8 fetched (Gutenberg 15569, 17175, 33544, 39375, 29380, 39748, 43127, 6676), 8,042 units, 0 ~2 ids."
+      "finished": "2026-10-17T17:23:31-05:00",
+      "notes": "molesworth: completed, 50 more Gutenberg books (58 on the shelf), 71,899 units, 138 ~2 ids; verify 0 mismatches, 0 rights flags."
     },
     {
       "id": "wyss",

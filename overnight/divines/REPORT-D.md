@@ -996,3 +996,6 @@
 
 ## 2026-10-17 17:23 CDT — oliver-optic: done
 - oliver-optic: completed, 80 more Gutenberg books (83 on the shelf), 141,694 units, 1325 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:23 CDT — molesworth: done
+- molesworth: completed, 50 more Gutenberg books (58 on the shelf), 71,899 units, 138 ~2 ids; verify 0 mismatches, 0 rights flags.

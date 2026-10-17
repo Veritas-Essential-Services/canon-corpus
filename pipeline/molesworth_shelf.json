@@ -1,5 +1,5 @@
 {
- "_about": "Mrs. Molesworth's (Mary Louisa Molesworth, 1839-1921) best-known children's books: The Cuckoo Clock (1877), The Tapestry Room (1879), \"Carrots\" (1876), Christmas-Tree Land (1884), The Adventures of Herr Baby (1881), Four Winds Farm (1887), An Enchanted Garden (1892) and Rosy (1882). Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Mrs. Molesworth's (Mary Louisa Molesworth, 1839-1921) best-known children's books: The Cuckoo Clock (1877), The Tapestry Room (1879), \"Carrots\" (1876), Christmas-Tree Land (1884), The Adventures of Herr Baby (1881), Four Winds Farm (1887), An Enchanted Garden (1892) and Rosy (1882). Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by Mrs. Molesworth at Gutenberg was added (50 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (0) and shared or misattributed files are listed in _excluded.",
  "_author": "Mrs. Molesworth (Mary Louisa Molesworth)",
  "_name_words": [
   "cuckoo",
@@ -71,17 +71,284 @@
    {
     "contents_only": true
    }
+  ],
+  "molesworth-us-an-old-fashioned-story": [
+   16954,
+   "\"Us,\" An Old Fashioned Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-rectory-children": [
+   18275,
+   "The Rectory Children"
+  ],
+  "molesworth-grandmother-dear": [
+   20963,
+   "Grandmother Dear: A Book for Boys and Girls",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-a-christmas-posy": [
+   26015,
+   "A Christmas Posy"
+  ],
+  "molesworth-robin-redbreast": [
+   26085,
+   "Robin Redbreast: A Story for Girls",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-hoodie": [
+   26125,
+   "Hoodie",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-my-new-home": [
+   26310,
+   "My New Home",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-peterkin": [
+   26322,
+   "Peterkin",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-great-uncle-hoot-toot": [
+   29295,
+   "Great Uncle Hoot-Toot"
+  ],
+  "molesworth-thirteen-little-black-pigs-and-other-stories": [
+   30547,
+   "The Thirteen Little Black Pigs, and Other Stories"
+  ],
+  "molesworth-boys-and-i": [
+   30845,
+   "The Boys and I: A Child's Story for Children"
+  ],
+  "molesworth-miss-mouse-and-her-boys": [
+   30966,
+   "Miss Mouse and Her Boys"
+  ],
+  "molesworth-girls-and-i": [
+   31007,
+   "The Girls and I: A Veracious History",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-four-ghost-stories": [
+   31019,
+   "Four Ghost Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-five-minutes-stories": [
+   33196,
+   "Five Minutes' Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-a-christmas-child": [
+   34045,
+   "A Christmas Child: A Sketch of a Boy-Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-uncanny-tales": [
+   35641,
+   "Uncanny Tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-little-miss-peggy": [
+   36015,
+   "Little Miss Peggy: Only a Nursery Story"
+  ],
+  "molesworth-palace-in-the-garden": [
+   36431,
+   "The Palace in the Garden"
+  ],
+  "molesworth-green-casket-and-other-stories": [
+   36861,
+   "The Green Casket, and other stories"
+  ],
+  "molesworth-man-with-the-pan-pipes-and-other-stories": [
+   38761,
+   "The Man with the Pan-Pipes, and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-nurse-heatherdales-story": [
+   39047,
+   "Nurse Heatherdale's Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-fairies-afield": [
+   39167,
+   "Fairies Afield"
+  ],
+  "molesworth-carved-lions": [
+   39549,
+   "The Carved Lions",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-house-that-grew": [
+   39554,
+   "The House That Grew",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-two-little-waifs": [
+   39567,
+   "Two Little Waifs",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-magic-nuts": [
+   39662,
+   "The Magic Nuts",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-oriel-window": [
+   39812,
+   "The Oriel Window",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-old-pincushion": [
+   39833,
+   "The Old Pincushion; or, Aunt Clotilda's Guests",
+   {
+    "contents_only": true
+   }
+  ],
+  "molesworth-not-without-thorns": [
+   43106,
+   "Not Without Thorns"
+  ],
+  "molesworth-wood-pigeons-and-mary": [
+   43107,
+   "The Wood-Pigeons and Mary"
+  ],
+  "molesworth-white-turrets": [
+   43108,
+   "White Turrets"
+  ],
+  "molesworth-third-miss-st-quentin": [
+   43109,
+   "The Third Miss St Quentin"
+  ],
+  "molesworth-tell-me-a-story": [
+   43110,
+   "Tell Me a Story"
+  ],
+  "molesworth-sweet-content": [
+   43112,
+   "Sweet Content"
+  ],
+  "molesworth-silverthorns": [
+   43122,
+   "Silverthorns"
+  ],
+  "molesworth-blanche": [
+   43125,
+   "Blanche: A Story for Girls"
+  ],
+  "molesworth-children-of-the-castle": [
+   43126,
+   "The Children of the Castle"
+  ],
+  "molesworth-jasper": [
+   43128,
+   "Jasper"
+  ],
+  "molesworth-laurel-walk": [
+   43129,
+   "The Laurel Walk"
+  ],
+  "molesworth-lettice": [
+   43130,
+   "Lettice"
+  ],
+  "molesworth-mary": [
+   43131,
+   "Mary: A Nursery Story for Very Little Children"
+  ],
+  "molesworth-little-old-portrait": [
+   43132,
+   "The Little Old Portrait"
+  ],
+  "molesworth-imogen": [
+   43133,
+   "Imogen; Or, Only Eighteen"
+  ],
+  "molesworth-that-girl-in-black": [
+   43134,
+   "That Girl in Black; and, Bronzie"
+  ],
+  "molesworth-hathercourt": [
+   43168,
+   "Hathercourt"
+  ],
+  "molesworth-philippa": [
+   43169,
+   "Philippa",
+   {
+    "levels": [
+     {
+      "re": "Chapter [A-Z][a-z]+(?:[- ][A-Za-z]+)*\\.( .{1,90})?$"
+     }
+    ],
+    "start": "Chapter One\\.",
+    "front": true
+   }
+  ],
+  "molesworth-grim-house": [
+   43878,
+   "The Grim House"
+  ],
+  "molesworth-lover-and-husband": [
+   60613,
+   "Lover and Husband: A Novel"
+  ],
+  "molesworth-cicely": [
+   72219,
+   "Cicely"
   ]
  },
  "internet_archive": {},
  "_excluded": {
   "molesworth-duplicate": "The Cuckoo Clock (PG 28619): a later illustrated printing",
-  "molesworth-other": "her many other children's books and novels on Gutenberg (some fifty titles): candidates for a later batch"
+  "molesworth-other": "her many other children's books and novels on Gutenberg (some fifty titles): candidates for a later batch",
+  "molesworth-christmas-fairy-and-other-stories": "PG 28306, The Christmas Fairy, and Other Stories, is shared with John Strange Winter and Frances E. Crompton"
  },
  "_checks": {
   "molesworth-cuckoo-clock": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "mrs. molesworth",
    "identity": "ok",
@@ -90,7 +357,7 @@
   },
   "molesworth-tapestry-room": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "mrs. molesworth",
    "identity": "ok",
@@ -99,7 +366,7 @@
   },
   "molesworth-carrots": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "mrs. molesworth",
    "identity": "ok",
@@ -108,7 +375,7 @@
   },
   "molesworth-christmas-tree-land": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "mrs. molesworth",
    "identity": "ok",
@@ -117,7 +384,7 @@
   },
   "molesworth-herr-baby": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "mrs. molesworth",
    "identity": "ok",
@@ -126,7 +393,7 @@
   },
   "molesworth-four-winds-farm": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "mrs. molesworth",
    "identity": "ok",
@@ -135,7 +402,7 @@
   },
   "molesworth-enchanted-garden": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "mrs. molesworth",
    "identity": "ok",
@@ -144,7 +411,457 @@
   },
   "molesworth-rosy": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-us-an-old-fashioned-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-rectory-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-grandmother-dear": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-a-christmas-posy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-robin-redbreast": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-hoodie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-my-new-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-peterkin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-great-uncle-hoot-toot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-thirteen-little-black-pigs-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-boys-and-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-miss-mouse-and-her-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-girls-and-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-four-ghost-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-five-minutes-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-a-christmas-child": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-uncanny-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-little-miss-peggy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-palace-in-the-garden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-green-casket-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-man-with-the-pan-pipes-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-nurse-heatherdales-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-fairies-afield": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-carved-lions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-house-that-grew": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-two-little-waifs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-magic-nuts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-oriel-window": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-old-pincushion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-not-without-thorns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-wood-pigeons-and-mary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-white-turrets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-third-miss-st-quentin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-tell-me-a-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-sweet-content": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-silverthorns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-blanche": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-children-of-the-castle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-jasper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-laurel-walk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-lettice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-mary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-little-old-portrait": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-imogen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-that-girl-in-black": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-hathercourt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-philippa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-grim-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-lover-and-husband": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mrs. molesworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "molesworth-cicely": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "mrs. molesworth",
    "identity": "ok",

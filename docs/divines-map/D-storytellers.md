@@ -1150,7 +1150,7 @@ Shelf: `pipeline/ewing_shelf.json` (2026-10-02; added at the coordinator's relay
 
 ## Mrs. Molesworth
 
-Shelf: `pipeline/molesworth_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Eight of her best-known children's books, cut by their own Contents or chapter lines; some fifty others on Gutenberg are left for later. Not in the manifest; no uids minted.
+Shelf: `pipeline/molesworth_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Victorian children's stories and fairy tales. All 58 of Mrs. Molesworth's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -1162,8 +1162,59 @@ Shelf: `pipeline/molesworth_shelf.json` (2026-10-02; added at the coordinator's 
 | Four Winds Farm (1887) | have | PG 39748, `molesworth-four-winds-farm` (1005 units) |
 | An Enchanted Garden: Fairy Stories (1892) | have | PG 43127, `molesworth-enchanted-garden` (795 units) |
 | Rosy (1882) | have | PG 6676, `molesworth-rosy` (1034 units) |
+| "Us," An Old Fashioned Story | have | PG 16954, `molesworth-us-an-old-fashioned-story` (1012 units) |
+| The Rectory Children | have | PG 18275, `molesworth-rectory-children` (1085 units) |
+| Grandmother Dear: A Book for Boys and Girls | have | PG 20963, `molesworth-grandmother-dear` (1250 units) |
+| A Christmas Posy | have | PG 26015, `molesworth-a-christmas-posy` (1042 units) |
+| Robin Redbreast: A Story for Girls | have | PG 26085, `molesworth-robin-redbreast` (1763 units) |
+| Hoodie | have | PG 26125, `molesworth-hoodie` (1504 units) |
+| My New Home | have | PG 26310, `molesworth-my-new-home` (997 units) |
+| Peterkin | have | PG 26322, `molesworth-peterkin` (1127 units) |
+| Great Uncle Hoot-Toot | have | PG 29295, `molesworth-great-uncle-hoot-toot` (808 units) |
+| The Thirteen Little Black Pigs, and Other Stories | have | PG 30547, `molesworth-thirteen-little-black-pigs-and-other-stories` (407 units) |
+| The Boys and I: A Child's Story for Children | have | PG 30845, `molesworth-boys-and-i` (1165 units) |
+| Miss Mouse and Her Boys | have | PG 30966, `molesworth-miss-mouse-and-her-boys` (1063 units) |
+| The Girls and I: A Veracious History | have | PG 31007, `molesworth-girls-and-i` (3333 units) |
+| Four Ghost Stories | have | PG 31019, `molesworth-four-ghost-stories` (576 units) |
+| Five Minutes' Stories | have | PG 33196, `molesworth-five-minutes-stories` (478 units) |
+| A Christmas Child: A Sketch of a Boy-Life | have | PG 34045, `molesworth-a-christmas-child` (893 units) |
+| Uncanny Tales | have | PG 35641, `molesworth-uncanny-tales` (1003 units) |
+| Little Miss Peggy: Only a Nursery Story | have | PG 36015, `molesworth-little-miss-peggy` (1104 units) |
+| The Palace in the Garden | have | PG 36431, `molesworth-palace-in-the-garden` (878 units) |
+| The Green Casket, and other stories | have | PG 36861, `molesworth-green-casket-and-other-stories` (537 units) |
+| The Man with the Pan-Pipes, and Other Stories | have | PG 38761, `molesworth-man-with-the-pan-pipes-and-other-stories` (363 units) |
+| Nurse Heatherdale's Story | have | PG 39047, `molesworth-nurse-heatherdales-story` (870 units) |
+| Fairies Afield | have | PG 39167, `molesworth-fairies-afield` (1140 units) |
+| The Carved Lions | have | PG 39549, `molesworth-carved-lions` (1267 units) |
+| The House That Grew | have | PG 39554, `molesworth-house-that-grew` (959 units) |
+| Two Little Waifs | have | PG 39567, `molesworth-two-little-waifs` (1848 units) |
+| The Magic Nuts | have | PG 39662, `molesworth-magic-nuts` (1072 units) |
+| The Oriel Window | have | PG 39812, `molesworth-oriel-window` (1292 units) |
+| The Old Pincushion; or, Aunt Clotilda's Guests | have | PG 39833, `molesworth-old-pincushion` (978 units) |
+| Not Without Thorns | have | PG 43106, `molesworth-not-without-thorns` (2306 units) |
+| The Wood-Pigeons and Mary | have | PG 43107, `molesworth-wood-pigeons-and-mary` (1015 units) |
+| White Turrets | have | PG 43108, `molesworth-white-turrets` (1049 units) |
+| The Third Miss St Quentin | have | PG 43109, `molesworth-third-miss-st-quentin` (2173 units) |
+| Tell Me a Story | have | PG 43110, `molesworth-tell-me-a-story` (576 units) |
+| Sweet Content | have | PG 43112, `molesworth-sweet-content` (802 units) |
+| Silverthorns | have | PG 43122, `molesworth-silverthorns` (1394 units) |
+| Blanche: A Story for Girls | have | PG 43125, `molesworth-blanche` (2002 units) |
+| The Children of the Castle | have | PG 43126, `molesworth-children-of-the-castle` (1139 units) |
+| Jasper | have | PG 43128, `molesworth-jasper` (1235 units) |
+| The Laurel Walk | have | PG 43129, `molesworth-laurel-walk` (1973 units) |
+| Lettice | have | PG 43130, `molesworth-lettice` (923 units) |
+| Mary: A Nursery Story for Very Little Children | have | PG 43131, `molesworth-mary` (971 units) |
+| The Little Old Portrait | have | PG 43132, `molesworth-little-old-portrait` (763 units) |
+| Imogen; Or, Only Eighteen | have | PG 43133, `molesworth-imogen` (1185 units) |
+| That Girl in Black; and, Bronzie | have | PG 43134, `molesworth-that-girl-in-black` (593 units) |
+| Hathercourt | have | PG 43168, `molesworth-hathercourt` (2943 units) |
+| Philippa | have | PG 43169, `molesworth-philippa` (1725 units) |
+| The Grim House | have | PG 43878, `molesworth-grim-house` (1290 units) |
+| Lover and Husband: A Novel | have | PG 60613, `molesworth-lover-and-husband` (2875 units) |
+| Cicely | have | PG 72219, `molesworth-cicely` (3111 units) |
 | molesworth-duplicate | excluded | The Cuckoo Clock (PG 28619): a later illustrated printing |
 | molesworth-other | excluded | her many other children's books and novels on Gutenberg (some fifty titles): candidates for a later batch |
+| molesworth-christmas-fairy-and-other-stories | excluded | PG 28306, The Christmas Fairy, and Other Stories, is shared with John Strange Winter and Frances E. Crompton |
 
 ## Johann David Wyss (The Swiss Family Robinson)
 
