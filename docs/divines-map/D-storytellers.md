@@ -6515,6 +6515,60 @@ Shelf: `pipeline/stratemeyer_shelf.json` (2026-10-17; added at the coordinator's
 | Neka, the boy conjuror | have | PG 79533, `stratemeyer-neka-the-boy-conjuror` (2220 units) |
 | repeat-editions | excluded | PG 22547 (Rover Boys on Treasure Isle) and 50201 (Young Oarsmen of Lakeview): second Gutenberg editions of titles already on the shelf. |
 
+## Victor Appleton
+
+Shelf: `pipeline/victor-appleton_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Tom Swift and other series for boys; Stratemeyer Syndicate house name. Every English text under the name at Gutenberg that no other shelf holds (46 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold | have | PG 499, `vappleton-tom-swift-in-the-land-of-wonders` (1445 units) |
+| Tom Swift and His Submarine Boat; Or, Under the Ocean for Sunken Treasure | have | PG 949, `vappleton-tom-swift-and-his-submarine-boat` (1193 units) |
+| Tom Swift and His Electric Runabout; Or, The Speediest Car on the Road | have | PG 950, `vappleton-tom-swift-and-his-electric-runabout` (1312 units) |
+| Tom Swift and His Sky Racer; Or, The Quickest Flight on Record | have | PG 951, `vappleton-tom-swift-and-his-sky-racer` (1367 units) |
+| Tom Swift and His Air Glider; Or, Seeking the Platinum Treasure | have | PG 952, `vappleton-tom-swift-and-his-air-glider` (1334 units) |
+| Tom Swift and His Big Tunnel; Or, The Hidden City of the Andes | have | PG 953, `vappleton-tom-swift-and-his-big-tunnel` (1486 units) |
+| Tom Swift and His War Tank; Or, Doing His Bit for Uncle Sam | have | PG 954, `vappleton-tom-swift-and-his-war-tank` (1491 units) |
+| Tom Swift and His Aerial Warship; Or, The Naval Terror of the Seas | have | PG 1281, `vappleton-tom-swift-and-his-aerial-warship` (1562 units) |
+| Tom Swift Among the Diamond Makers; Or, The Secret of Phantom Mountain | have | PG 1282, `vappleton-tom-swift-among-the-diamond-makers` (1336 units) |
+| Tom Swift and His Wizard Camera; Or, Thrilling Adventures While Taking Moving Pictures | have | PG 1283, `vappleton-tom-swift-and-his-wizard-camera` (1415 units) |
+| Tom Swift and His Air Scout; Or, Uncle Sam's Mastery of the Sky | have | PG 1284, `vappleton-tom-swift-and-his-air-scout` (1345 units) |
+| Tom Swift and His Giant Cannon; Or, The Longest Shots on Record | have | PG 1361, `vappleton-tom-swift-and-his-giant-cannon` (1397 units) |
+| Tom Swift and His Undersea Search; Or, the Treasure on the Floor of the Atlantic | have | PG 1362, `vappleton-tom-swift-and-his-undersea-search` (1362 units) |
+| Tom Swift Among the Fire Fighters; Or, Battling with Flames from the Air | have | PG 1363, `vappleton-tom-swift-among-the-fire-fighters` (1434 units) |
+| Tom Swift and His Electric Locomotive; Or, Two Miles a Minute on the Rails | have | PG 1364, `vappleton-tom-swift-and-his-electric-locomotive` (1422 units) |
+| Tom Swift and His Motor-Boat; Or, The Rivals of Lake Carlopa | have | PG 2273, `vappleton-tom-swift-and-his-motor-boat` (1240 units) |
+| Tom Swift and His Airship | have | PG 3005, `vappleton-tom-swift-and-his-airship` (1283 units) |
+| Tom Swift in the Caves of Ice, or, the Wreck of the Airship | have | PG 3734, `vappleton-tom-swift-in-the-caves-of-ice` (1386 units) |
+| Tom Swift and His Electric Rifle; Or, Daring Adventures in Elephant Land | have | PG 3777, `vappleton-tom-swift-and-his-electric-rifle` (1187 units) |
+| Tom Swift and His Wireless Message; Or, The Castaways of Earthquake Island | have | PG 4227, `vappleton-tom-swift-and-his-wireless-message` (1333 units) |
+| Tom Swift and His Motor-Cycle; Or, Fun and Adventures on the Road | have | PG 4230, `vappleton-tom-swift-and-his-motor-cycle` (1158 units) |
+| Tom Swift and His Photo Telephone or the Picture That Saved a Fortune | have | PG 4532, `vappleton-tom-swift-and-his-photo-telephone-or-the-picture-t` (1492 units) |
+| Tom Swift in Captivity, Or, A Daring Escape By Airship | have | PG 4608, `vappleton-tom-swift-in-captivity` (1311 units) |
+| Tom Swift and His Great Searchlight; or, on the border for Uncle Sam | have | PG 4635, `vappleton-tom-swift-and-his-great-searchlight` (1490 units) |
+| Tom Swift in the City of Gold; Or, Marvelous Adventures Underground | have | PG 4711, `vappleton-tom-swift-in-the-city-of-gold` (1375 units) |
+| The moving picture boys at Panama | have | PG 10776, `vappleton-moving-picture-boys-at-panama` (1409 units) |
+| The moving picture boys on the war front | have | PG 17744, `vappleton-moving-picture-boys-on-the-war-front` (1494 units) |
+| Tom Swift and His Giant Telescope | have | PG 21188, `vappleton-tom-swift-and-his-giant-telescope` (781 units) |
+| The moving picture boys on the coast | have | PG 23677, `vappleton-moving-picture-boys-on-the-coast` (1632 units) |
+| The motion picture chums at Seaside Park | have | PG 36964, `vappleton-motion-picture-chums-at-seaside-park` (1475 units) |
+| The moving picture boys and the flood | have | PG 46011, `vappleton-moving-picture-boys-and-the-flood` (1674 units) |
+| Don Sturdy in the tombs of gold; or, The old Egyptian's great secret | have | PG 69398, `vappleton-don-sturdy-in-the-tombs-of-gold` (1420 units) |
+| Tom Swift circling the globe; or, The daring cruise of the Air Monarch | have | PG 69682, `vappleton-tom-swift-circling-the-globe` (1470 units) |
+| Tom Swift and his flying boat; | have | PG 70182, `vappleton-tom-swift-and-his-flying-boat` (1379 units) |
+| Tom Swift and his talking pictures | have | PG 72578, `vappleton-tom-swift-and-his-talking-pictures` (1431 units) |
+| Tom Swift and his chest of secrets | have | PG 72659, `vappleton-tom-swift-and-his-chest-of-secrets` (1491 units) |
+| Tom Swift and his airline express | have | PG 72701, `vappleton-tom-swift-and-his-airline-express` (1269 units) |
+| Tom Swift and his great oil gusher | have | PG 72705, `vappleton-tom-swift-and-his-great-oil-gusher` (1215 units) |
+| The motion picture chums' new idea | have | PG 75238, `vappleton-motion-picture-chums-new-idea` (1269 units) |
+| Tom Swift and his house on wheels | have | PG 75322, `vappleton-tom-swift-and-his-house-on-wheels` (1597 units) |
+| The motion picture chums at the fair | have | PG 76331, `vappleton-motion-picture-chums-at-the-fair` (1508 units) |
+| The movie boys at Seaside Park | have | PG 76377, `vappleton-movie-boys-at-seaside-park` (1497 units) |
+| The movie boys in peril | have | PG 76378, `vappleton-movie-boys-in-peril` (1484 units) |
+| The movie boys in the jungle | have | PG 76727, `vappleton-movie-boys-in-the-jungle` (1450 units) |
+| The movie boys under Uncle Sam | have | PG 77191, `vappleton-movie-boys-under-uncle-sam` (1282 units) |
+| Tom Swift and his big dirigible | have | PG 77599, `vappleton-tom-swift-and-his-big-dirigible` (1682 units) |
+| victor-appleton-ii | excluded | PG 17985, 19258 and any other 'Victor Appleton II' books (Tom Swift Jr., 1950s): a separate house name with different writers, not this shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

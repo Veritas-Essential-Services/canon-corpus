@@ -2517,6 +2517,14 @@
       "started": "2026-10-17T18:41:42-05:00",
       "finished": "2026-10-17T18:41:42-05:00",
       "notes": "stratemeyer: new shelf, 104 Gutenberg books, 226,455 units, 234 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "victor-appleton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Victor Appleton; no minting",
+      "status": "done",
+      "started": "2026-10-17T18:41:43-05:00",
+      "finished": "2026-10-17T18:41:43-05:00",
+      "notes": "victor-appleton: new shelf, 46 Gutenberg books, 64,065 units, 68 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
