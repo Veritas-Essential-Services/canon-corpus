@@ -806,3 +806,8 @@
 - 8 new shelves, 14 IA volumes: john-stuart-mill (Examination of Hamilton, 1865), herbert-spencer (First Principles, 1900), william-godwin (Political Justice, 1793), malebranche (Taylor 1700; Ginsberg 1923), port-royal-logic (Baynes 1850), shaftesbury (Robertson 1900), thomas-reid (Hamilton 8th ed. 1880), herder (Marsh 1833)
 - Skipped as duplicates: Montesquieu's Spirit of Laws, Nugent, held by the Adler shelf (PG 27573)
 - Held: Churchill's Herder Outlines (1800; title page illegible), Mill's Three Essays on Religion and one Spencer First Principles scan (no year or title page)
+
+## 2026-10-17 17:12 CDT — Round 2026-10-17e: British moral and political philosophy (PG)
+- 17 PG texts: Mill +6 (Logic 8th ed., Representative Government, Autobiography, Unsettled Questions, Subjection of Women, Socialism), Spencer +4 (Data of Ethics, Essays 1891 x3), Godwin +1 (Thoughts on Man 1831)
+- New shelves: adam-smith (Moral Sentiments 1777, Essays 1872; Wealth of Nations already held elsewhere), adam-ferguson (Civil Society 8th ed.), mandeville (Fable of the Bees 1806), henry-sidgwick (Methods of Ethics 7th ed. 1907)
+- Two Mill etexts and Ferguson's name no printing year; the works are long US public domain, noted in each shelf

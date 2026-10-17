@@ -7920,27 +7920,38 @@ Shelf: `pipeline/john-stuart-mill_shelf.json`. On Liberty and Utilitarianism are
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
+| A System of Logic, Ratiocinative and Inductive, 8th ed. (New York: Harper, 1882) |  | `mill-system-of-logic-1882` | have (PG 27942) |
+| Considerations on Representative Government (the etext does not name its printing) |  | `mill-representative-government` | have (PG 5669) |
+| Autobiography (the etext does not name its printing; bracketed passages not in all editions) |  | `mill-autobiography` | have (PG 10378) |
+| Essays on Some Unsettled Questions of Political Economy (1844) |  | `mill-unsettled-questions-1844` | have (PG 12004) |
+| The Subjection of Women (London: Longmans, Green, Reader, and Dyer, 1869) |  | `mill-subjection-of-women-1869` | have (PG 27083) |
+| Socialism, with a preliminary notice by Helen Taylor (Chicago: Belford, Clarke, 1879) |  | `mill-socialism-1879` | have (PG 38138) |
 | An Examination of Sir William Hamilton's Philosophy, vol. I (Boston: William V. Spencer, 1865) |  | `mill-examination-of-hamilton-1865-v1` | have-raw (IA `anexaminationofs01millrich`) |
 | An Examination of Sir William Hamilton's Philosophy, vol. II (Boston: William V. Spencer, 1865) |  | `mill-examination-of-hamilton-1865-v2` | have-raw (IA `anexaminationsi06millgoog`) |
 
-Pending (wishlist): Mill's System of Logic (8th ed., PG 27942) and Three Essays on Religion in a dated printing.
+Pending (wishlist): Three Essays on Religion and Principles of Political Economy in dated printings.
 
 ## Herbert Spencer
 
-Shelf: `pipeline/herbert-spencer_shelf.json`. First Principles, final revised edition (Appleton, 1900).
+Shelf: `pipeline/herbert-spencer_shelf.json`. First Principles (Appleton, 1900), the Data of Ethics and the 1891 Essays.
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
+| The Data of Ethics (New York: A. L. Burt, n.d.; preface dated 1879) |  | `spencer-data-of-ethics` | have (PG 46129) |
+| Essays: Scientific, Political, and Speculative, library edition, vol. I (London: Williams and Norgate, 1891) |  | `spencer-essays-1891-v1` | have (PG 29869) |
+| Essays: Scientific, Political, and Speculative, vol. II (London: Williams and Norgate, 1891) |  | `spencer-essays-1891-v2` | have (PG 53395) |
+| Essays: Scientific, Political, and Speculative, vol. III (London: Williams and Norgate, 1891) |  | `spencer-essays-1891-v3` | have (PG 54076) |
 | First Principles, 6th ed. (New York: D. Appleton, 1900) |  | `spencer-first-principles-1900` | have-raw (IA `cu31924029047608`) |
 
-Pending (wishlist): The Principles of Biology, Psychology, Sociology and Ethics; the Essays.
+Pending (wishlist): The Principles of Biology, Psychology, Sociology and Ethics.
 
 ## William Godwin
 
-Shelf: `pipeline/william-godwin_shelf.json`. Political Justice, first edition (1793).
+Shelf: `pipeline/william-godwin_shelf.json`. Political Justice (1793) and Thoughts on Man (1831).
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
+| Thoughts on Man, his Nature, Productions and Discoveries (London: Effingham Wilson, 1831) |  | `godwin-thoughts-on-man-1831` | have (PG 743) |
 | An Enquiry Concerning Political Justice, and its Influence on General Virtue and Happiness, vol. I (London: G. G. J. and J. Robinson, 1793) |  | `godwin-political-justice-1793-v1` | have-raw (IA `enquiryconcernin01godw`) |
 | An Enquiry Concerning Political Justice, vol. II (London: G. G. J. and J. Robinson, 1793) |  | `godwin-political-justice-1793-v2` | have-raw (IA `enquiryconcernin02godw`) |
 
@@ -7989,6 +8000,39 @@ Shelf: `pipeline/herder_shelf.json`. Marsh's Spirit of Hebrew Poetry (1833).
 | The Spirit of Hebrew Poetry, vol. II (Burlington: Edward Smith, 1833) | James Marsh | `herder-marsh-hebrew-poetry-1833-v2` | have-raw (IA `spirithebrewpoe02marsgoog`) |
 
 Pending (wishlist): Churchill's Outlines of a Philosophy of the History of Man (1800) in a scan with a legible title page.
+
+## Adam Smith
+
+Shelf: `pipeline/adam-smith_shelf.json`. The Wealth of Nations is on the Adler and smith-wealth shelves.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Theory of Moral Sentiments, 6th ed., to which is added a Dissertation on the Origin of Languages (Dublin: J. Beatty and C. Jackson, 1777) |  | `smith-moral-sentiments-1777` | have (PG 67363) |
+| The Essays of Adam Smith (London: Alex. Murray, 1872) |  | `smith-essays-1872` | have (PG 58559) |
+
+## Adam Ferguson
+
+Shelf: `pipeline/adam-ferguson_shelf.json`. History of Civil Society, 8th ed.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| An Essay on the History of Civil Society, 8th ed. (year not printed in the etext) |  | `ferguson-civil-society-8th-ed` | have (PG 8646) |
+
+## Mandeville
+
+Shelf: `pipeline/mandeville_shelf.json`. The Fable of the Bees (1806).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Fable of the Bees; or, Private Vices, Public Benefits (London: T. Ostell; Edinburgh: Mundell and Son, 1806) |  | `mandeville-fable-of-the-bees-1806` | have (PG 57260) |
+
+## Henry Sidgwick
+
+Shelf: `pipeline/henry-sidgwick_shelf.json`. The Methods of Ethics, 7th ed. (1907).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Methods of Ethics, 7th ed. (London: Macmillan, 1907) |  | `sidgwick-methods-of-ethics-1907` | have (PG 46743) |
 
 ## Perseus census (overflow)
 

@@ -194,3 +194,4 @@
 - 16:53 Round b: 11 philosophy shelves, 55 volumes (Hegel, Schopenhauer, Kant, Hume, Berkeley, Hobbes, Bacon, Machiavelli, Descartes, Rousseau, Locke). Next: Spinoza, Leibniz, Fichte, Lotze, Comte.
 - 17:00 Round c: Spinoza, Leibniz, Fichte, Lotze, Comte (5 shelves, 36 vols); Aristotle +1 (Ross Metaphysica 1908).
 - 17:07 round d: 8 new shelves (Mill, Spencer, Godwin, Malebranche, Port-Royal Logic, Shaftesbury, Reid, Herder); nothing needs Adam.
+- 17:12 round e: 17 PG texts of British moral/political philosophy, 4 new shelves; nothing needs Adam.
