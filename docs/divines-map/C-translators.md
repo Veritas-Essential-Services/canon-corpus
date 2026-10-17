@@ -6329,6 +6329,28 @@ Round 65 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | buddhist-birth-stories: Rhys Davids's Buddhist Birth Stories (1880, the first Jataka in English) is already on singles-plays-poetry-2 (PG 51880). | — | — | excluded | — |
 | — | — | jataka-luzac: Luzac & Co. reissues of the Jataka (e.g. in.ernet.dli.2015.283272): later reprints for the Pali Text Society, not used. | — | — | excluded | — |
 
+## Series shelf: the Harvard Oriental Series translations before 1931: Whitney's Atharva-Veda, Keith's Black Yajus and Rigveda Brahmanas, Macdonell's Brhad-Devata, Woods's Yoga-System of Patanjali, Lanman's Karpura-manjari, Belvalkar's Uttara-Rama-Charita
+
+Shelf: `pipeline/harvard-oriental-series_shelf.json` · fetch `python3 pipeline/fetch_shelf.py harvard-oriental-series` · titles `python3 pipeline/split_shelf_titles.py harvard-oriental-series`.
+Round 66 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `harvard-oriental-series-atharva-veda-1` | The Atharva-Veda Samhita, books I-VII | Atharva-Veda Samhita, first half | William Dwight Whitney, revised and edited by Charles Rockwell Lanman | 1905 | have-raw | IA `atharvavedasainh01whit` |
+| `harvard-oriental-series-atharva-veda-2` | The Atharva-Veda Samhita, books VIII-XIX | Atharva-Veda Samhita, second half | William Dwight Whitney, revised and edited by Charles Rockwell Lanman | 1905 | have-raw | IA `atharvavedasainh02whit` |
+| `harvard-oriental-series-black-yajus-1` | The Taittiriya Samhita, kandas I-III | The Veda of the Black Yajus School, part 1 | Arthur Berriedale Keith | 1914 | have-raw | IA `in.ernet.dli.2015.501797` |
+| `harvard-oriental-series-black-yajus-2` | The Taittiriya Samhita, kandas IV-VII | The Veda of the Black Yajus School, part 2 | Arthur Berriedale Keith | 1914 | have-raw | IA `in.ernet.dli.2015.500424` |
+| `harvard-oriental-series-rig-veda-brahmanas` | The Aitareya and Kausitaki Brahmanas | Rigveda Brahmanas | Arthur Berriedale Keith | 1920 | have-raw | IA `in.ernet.dli.2015.188962` |
+| `harvard-oriental-series-brhad-devata` | The Brhad-Devata attributed to Saunaka | The Brhad-Devata, part II: translation and notes | Arthur Anthony Macdonell | 1904 | have-raw | IA `dli.ministry.10567` |
+| `harvard-oriental-series-yoga-system` | The Yoga-sutras of Patanjali, with Veda-Vyasa's commentary and Vachaspati-Misra's gloss | The Yoga-System of Patanjali | James Haughton Woods | 1914 | have-raw | IA `in.ernet.dli.2015.109808` |
+| `harvard-oriental-series-karpura-manjari` | Rajasekhara's Karpura-manjari (Prakrit drama) | Rajasekhara's Karpura-manjari | Charles Rockwell Lanman (translation), Sten Konow (edition) | 1901 | have-raw | IA `in.ernet.dli.2015.280338` |
+| `harvard-oriental-series-uttara-rama-charita` | Bhavabhuti's Uttara-Rama-Charita | Rama's Later History, part 1: introduction and translation | Shripad Krishna Belvalkar | 1915 | have-raw | IA `in.ernet.dli.2015.281456` |
+| `vikramas-adventures` | — | Edgerton's Vikrama's Adventures (HOS 26-27, 1926): the only archive.org scans (vikramasadventur01unse, 02unse) were OCR'd as Hindi, so their text layer is garbage. Waiting for a usable text. | — | — | pending | — |
+| — | — | kiratarjuniya: Cappeller's Bharavi's Kiratarjuniya (HOS 15, 1912) is a translation into German, not English. | — | — | excluded | — |
+| — | — | little-clay-cart: Ryder's Little Clay Cart (HOS 9) is already on the ryder shelf. | — | — | excluded | — |
+| — | — | pali-volumes: Warren (HOS 3) and Burlingame (HOS 28-30) are on pali-buddhist-translations. | — | — | excluded | — |
+| — | — | motilal-reprints: Motilal Banarsidass reprints of HOS volumes (in.ernet.dli.2015.263106, in.ernet.dli.2015.263108, dli.ernet.233919): 1960s-70s reprints, not used. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
