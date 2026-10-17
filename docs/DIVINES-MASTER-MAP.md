@@ -5169,6 +5169,36 @@ Slugs `scupoli-*`. Translator named only for Barns (Methuen). The Castaniza-cred
 | The Burns translation, second edition (1849) and Oxford 1868; Suttaby (1884); Rivingtons 1890; New York 1817 | alternate | not shelved |
 | The Spiritual Conflict (1598-1652) and The Spiritual Combat 'by John de Castaniza' (1698, 1710, 1742-1788): anonymous or credited to Castaniza, so they wait on an authorship ruling | alternate | not shelved |
 | Gaelic, Italian, Latin and other editions | excluded | |
+
+## Bernard of Clairvaux (round 25, my pick, 2026-10-17)
+
+Slugs `bernard-*`. Translators: Eales, Patmore, van Allen, Lewis, Williams, Mills, Lawlor; the Mount Melleray Canticle and the Advent sermons name no individual translator. IA dates Eales vols III-IV 1889; their title pages read 1896.
+
+| Work | Status | Where |
+|---|---|---|
+| Some Letters of Saint Bernard, Abbot of Clairvaux, from the translation of Samuel J. Eales, selected with a preface by F. A. Gasquet (London: John Hodges, 1904) | have-clean | CCEL bernard/letters |
+| St. Bernard of Clairvaux's Life of St. Malachy of Armagh, by H. J. Lawlor (London: SPCK, 1920) | have-clean | Gutenberg 25761 |
+| Life and Works of Saint Bernard, ed. Mabillon, tr. Samuel J. Eales, vol. I (London: John Hodges, 1889) | have-ocr | IA `lifeworksofsaint01bern_0` |
+| Life and Works of Saint Bernard, tr. Samuel J. Eales, vol. II (London: John Hodges, 1889) | have-ocr | IA `lifeworksofsaint02bern_0` |
+| Life and Works of Saint Bernard, tr. Samuel J. Eales, vol. III (London: John Hodges, 1896) | have-ocr | IA `lifeworksofsaint03bern` |
+| Life and Works of Saint Bernard, vol. IV: Cantica Canticorum, Eighty-six Sermons on the Song of Solomon, tr. Samuel J. Eales (London: John Hodges, 1896) | have-ocr | IA `LifeAndWorksOfSaintBernardV4` |
+| Saint Bernard on the Love of God, tr. Marianne Caroline and Coventry Patmore (London: C. Kegan Paul, 1881) | have-ocr | IA `saintbernardonl01berngoog` |
+| Saint Bernard On Loving God, tr. William Harman van Allen (Caldey Abbey, 1909) | have-ocr | IA `bwb_S0-BRH-980` |
+| Saint Bernard On Consideration, tr. George Lewis (Oxford: Clarendon Press, 1908) | have-ocr | IA `bernarddeclirvau00bernuoft` |
+| The Treatise of St. Bernard concerning Grace and Free Will, tr. Watkin W. Williams (London: SPCK, 1920) | have-ocr | IA `cu31924029216681` |
+| Saint Bernard: The Twelve Degrees of Humility and Pride, tr. Barton R. V. Mills (London: SPCK, 1929) | have-ocr | IA `MN41533ucmf_0` |
+| Sermons of St. Bernard on Advent and Christmas, compiled and translated at St. Mary's Convent (London: R. & T. Washbourne, 1909) | have-ocr | IA `sermonsofstberna00bernuoft` |
+| St. Bernard's Sermons on the Canticle of Canticles, tr. a Priest of Mount Melleray, vol. I (Dublin: Browne and Nolan; approvals 1920) | have-ocr | IA `stbernardssermon01bern` |
+| St. Bernard's Sermons on the Canticle of Canticles, tr. a Priest of Mount Melleray, vol. II (Dublin: Browne and Nolan; approvals 1920) | have-ocr | IA `stbernardssermon02bern` |
+| Cantica Canticorum, Eales's stand-alone edition (London: Elliot Stock, 1895; canticacanticoru0000sain): his name is garbled in the OCR | alternate | not shelved |
+| The undated Burns and Oates second edition of Eales, and other 1889-1896 copies | alternate | not shelved |
+| Patmore second edition (1884), Some Letters (1906 Benziger), other copies of Lewis, Williams and Mills | alternate | not shelved |
+| St. Bernard's Treatise on Consideration, a Priest of Mount Melleray (Dublin; approvals 1921) | alternate | not shelved |
+| CCEL bernard/loving_god: the van Allen text, but CCEL states no print source | alternate | not shelved |
+| The Golden Epistle facsimile, the Proverbys of Saynt Bernard and the Jubilee Rhythm (mostly Edersheim): pseudo-Bernard or another author's work | excluded | |
+| PG 21152: an audio book only | excluded | |
+| Post-1929 translations (1937 onward, Cistercian Publications 1980) | excluded | |
+| Lives of Bernard | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

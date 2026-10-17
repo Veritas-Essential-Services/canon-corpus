@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 17:41 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 18:10 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -509,6 +509,14 @@ Seventeen authors and anonymous works queued in QUEUE-A.json, each built from ti
 | Lorenzo Scupoli | lorenzo-scupoli_shelf.json | none | 3 (The Spiritual Combat, with the Path of Paradise, translated for members of the English Church (London: James Burns, MDCCCXLVI); The Spiritual Combat, with the Supplement and the Path of Paradise, a new translation (London: Rivingtons, MDCCCLXXV); The Spiritual Combat, tr. Thomas Barns (London: Methuen; catalogued 1909)) | none | Gaelic, Italian and other editions |
 
 Round 24 closed 2026-10-17 17:41 CDT: seventeen new shelves, 91 items (14 clean: 9 CCEL and 5 Gutenberg; 77 raw IA OCR). Every item records its translator or editor where the title page names one. Several CCEL texts were passed over because they are post-1929 translations (Peers's Teresa and John of the Cross), a 1997 photographic reprint (de Sales's Treatise), or state a print source they do not carry (Molinos, Hilton's Ladder); dated scans are shelved instead. Theologia Germanica and The Cloud of Unknowing are anonymous, so their identity check is the work's title. Julian of Norwich fills the gap the omnibus plan lists (Warrack, 1901).
+
+## Round 25: Catholic spiritual classics, women mystics, Bossuet, Lull and Boehme in English before 1930 (my picks)
+
+Seventeen authors queued in QUEUE-A.json, each built from title pages read for this round, with the translator or editor recorded per item where the title page names one. Adam may veto any shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| Bernard of Clairvaux | bernard-of-clairvaux_shelf.json | 2 (Some Letters of Saint Bernard, Abbot of Clairvaux, from the translation of Samuel J. Eales, selected with a preface by F. A. Gasquet (London: John Hodges, 1904); St. Bernard of Clairvaux's Life of St. Malachy of Armagh, by H. J. Lawlor (London: SPCK, 1920)) | 12 (Life and Works of Saint Bernard, ed. Mabillon, tr. Samuel J. Eales, vol. I (London: John Hodges, 1889); Life and Works of Saint Bernard, tr. Samuel J. Eales, vol. II (London: John Hodges, 1889); Life and Works of Saint Bernard, tr. Samuel J. Eales, vol. III (London: John Hodges, 1896); Life and Works of Saint Bernard, vol. IV: Cantica Canticorum, Eighty-six Sermons on the Song of Solomon, tr. Samuel J. Eales (London: John Hodges, 1896); Saint Bernard on the Love of God, tr. Marianne Caroline and Coventry Patmore (London: C. Kegan Paul, 1881); Saint Bernard On Loving God, tr. William Harman van Allen (Caldey Abbey, 1909); Saint Bernard On Consideration, tr. George Lewis (Oxford: Clarendon Press, 1908); The Treatise of St. Bernard concerning Grace and Free Will, tr. Watkin W. Williams (London: SPCK, 1920); Saint Bernard: The Twelve Degrees of Humility and Pride, tr. Barton R. V. Mills (London: SPCK, 1929); Sermons of St. Bernard on Advent and Christmas, compiled and translated at St. Mary's Convent (London: R. & T. Washbourne, 1909); St. Bernard's Sermons on the Canticle of Canticles, tr. a Priest of Mount Melleray, vol. I (Dublin: Browne and Nolan; approvals 1920); St. Bernard's Sermons on the Canticle of Canticles, tr. a Priest of Mount Melleray, vol. II (Dublin: Browne and Nolan; approvals 1920)) | none | Pseudo-Bernard texts; an audio-only PG item; post-1929 translations; lives of him |
 
 ## Paused 2026-10-10 15:12 CDT
 

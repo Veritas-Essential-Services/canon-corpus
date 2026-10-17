@@ -1114,3 +1114,6 @@
 
 ## 2026-10-17 17:41 CDT — round 24 closed
 - 17 shelves, 91 items (9 CCEL, 5 PG, 77 IA), translators recorded in `_translators`. All `--verify --record`: 0 mismatched; 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-17 18:10 CDT — bernard-of-clairvaux done
+- `pipeline/bernard-of-clairvaux_shelf.json`: 1 CCEL, 1 PG, 12 IA. `--verify --record`: 0 mismatched. 0 uids minted.
