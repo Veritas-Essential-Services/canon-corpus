@@ -1165,3 +1165,6 @@
 
 ## 2026-10-17 18:11 CDT — jacob-boehme done
 - `pipeline/jacob-boehme_shelf.json`: 1 CCEL, 0 PG, 15 IA. Title pages read for boehme-signatura-rerum (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:12 CDT — round 25 closed
+- 17 shelves, 116 items (8 CCEL, 6 PG, 102 IA), all `--verify --record` 0 mismatched; 0 uids minted. Clash check across all remote branches: no shelf-name or id clashes. Veto points and the CCEL count updated in DIGEST-A.
