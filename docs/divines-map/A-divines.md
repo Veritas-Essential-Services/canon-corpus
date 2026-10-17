@@ -5434,3 +5434,20 @@ Slugs `bossuet-*`. Translators claimed: Fletcher, Elphinston (1778), Capes; Elph
 | Heath's Selections (1907, French with English notes) and French editions on PG | excluded | |
 | Printings from 1930 on | excluded | |
 | Works about Condé and anthologies | excluded | |
+
+## Ramon Lull (round 25, my pick, 2026-10-17)
+
+Slugs `lull-*`. Translators: Peers (four books, 1923-1927) and Caxton. Blanquerna's title page has no year (catalogued 1926).
+
+| Work | Status | Where |
+|---|---|---|
+| The Book of the Lover and the Beloved, translated from the Catalan by E. Allison Peers (London: SPCK, 1923) | have-clean | Gutenberg 60704 |
+| Blanquerna: a Thirteenth-Century Romance, translated from the Catalan by E. Allison Peers (London: Jarrolds; catalogued 1926) | have-ocr | IA `blanquernaathirteenthpeers` |
+| The Art of Contemplation, translated from the Catalan by E. Allison Peers (London: SPCK, 1925) | have-ocr | IA `artofcontemplati0000eall` |
+| The Book of the Beasts, translated from the Catalan by E. Allison Peers (London: Burns Oates & Washbourne, 1927) | have-ocr | IA `bookofbeast0000eall` |
+| The Book of the Ordre of Chyualry, translated and printed by William Caxton from a French version, ed. Alfred T. P. Byles (London: EETS, 1926) | have-ocr | IA `30081000926018` |
+| The Buke of the Order of Knighthood, Gilbert Hay's Middle Scots version (Abbotsford Club, 1847; PG 43365): Lull is not named on the title page | alternate | not shelved |
+| Other scans of the 1923 Lover and Beloved and of Blanquerna; the Caxton print itself (no title page) | alternate | not shelved |
+| Peers's biography (1929) | excluded | |
+| Printings from 1945 on | excluded | |
+| Latin, Catalan and Spanish editions | excluded | |
