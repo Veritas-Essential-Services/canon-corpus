@@ -1110,3 +1110,6 @@
 
 ## 2026-10-17 18:00 CDT — mark-twain: done
 - mark-twain: completed, 65 more Gutenberg books (70 on the shelf), 53,221 units, 3275 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:00 CDT — jack-london: done
+- jack-london: completed, 47 more Gutenberg books (49 on the shelf), 57,643 units, 6128 ~2 ids; verify 0 mismatches, 0 rights flags.

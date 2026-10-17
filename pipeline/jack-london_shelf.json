@@ -1,5 +1,5 @@
 {
- "_about": "Jack London's two dog novels: The Call of the Wild and White Fang (both undated in the text). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Jack London's two dog novels: The Call of the Wild and White Fang (both undated in the text). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by Jack London at Gutenberg was added (47 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (2) and shared or misattributed files are listed in _excluded.",
  "_author": "Jack London",
  "_name_words": [
   "london"
@@ -32,14 +32,230 @@
     "start": "PART I$",
     "front": true
    }
+  ],
+  "jlondon-before-adam": [
+   310,
+   "Before Adam"
+  ],
+  "jlondon-love-of-life-and-other-stories": [
+   710,
+   "Love of Life, and Other Stories"
+  ],
+  "jlondon-burning-daylight": [
+   746,
+   "Burning Daylight"
+  ],
+  "jlondon-red-one": [
+   788,
+   "The Red One"
+  ],
+  "jlondon-tales-of-the-fish-patrol": [
+   911,
+   "Tales of the Fish Patrol"
+  ],
+  "jlondon-night-born": [
+   1029,
+   "The Night-Born"
+  ],
+  "jlondon-martin-eden": [
+   1056,
+   "Martin Eden"
+  ],
+  "jlondon-sea-wolf": [
+   1074,
+   "The Sea-Wolf"
+  ],
+  "jlondon-strength-of-the-strong": [
+   1075,
+   "The Strength of the Strong"
+  ],
+  "jlondon-moon-face-and-other-stories": [
+   1089,
+   "Moon-Face, and Other Stories"
+  ],
+  "jlondon-faith-of-men": [
+   1096,
+   "The Faith of Men"
+  ],
+  "jlondon-game": [
+   1160,
+   "The Game"
+  ],
+  "jlondon-jerry-of-the-islands": [
+   1161,
+   "Jerry of the Islands"
+  ],
+  "jlondon-jacket-the-star-rover": [
+   1162,
+   "The Jacket (The Star-Rover)"
+  ],
+  "jlondon-adventure": [
+   1163,
+   "Adventure"
+  ],
+  "jlondon-iron-heel": [
+   1164,
+   "The iron heel"
+  ],
+  "jlondon-war-of-the-classes": [
+   1187,
+   "War of the Classes"
+  ],
+  "jlondon-south-sea-tales": [
+   1208,
+   "South Sea Tales"
+  ],
+  "jlondon-valley-of-the-moon": [
+   1449,
+   "The Valley of the Moon"
+  ],
+  "jlondon-smoke-bellew": [
+   1596,
+   "Smoke Bellew",
+   {
+    "contents_only": true
+   }
+  ],
+  "jlondon-god-of-his-fathers": [
+   1655,
+   "The God of His Fathers: Tales of the Klondyke"
+  ],
+  "jlondon-human-drift": [
+   1669,
+   "The Human Drift"
+  ],
+  "jlondon-people-of-the-abyss": [
+   1688,
+   "The People of the Abyss"
+  ],
+  "jlondon-michael-brother-of-jerry": [
+   1730,
+   "Michael, Brother of Jerry"
+  ],
+  "jlondon-island-tales-on-the-makaloa-mat": [
+   2152,
+   "Island Tales / On the Makaloa Mat"
+  ],
+  "jlondon-son-of-the-wolf": [
+   2377,
+   "The Son of the Wolf",
+   {
+    "levels": [
+     {
+      "re": "(The White Silence|The Son of the Wolf|The Men of Forty Mile|In a Far Country|To the Man on the Trail|The Priestly Prerogative|The Wisdom of the Trail|The Wife of a King|An Odyssey of the North)$",
+      "strip": ""
+     }
+    ],
+    "start": "The White Silence$",
+    "front": true
+   }
+  ],
+  "jlondon-mutiny-of-the-elsinore": [
+   2415,
+   "The Mutiny of the Elsinore"
+  ],
+  "jlondon-house-of-pride-and-other-tales-of-hawaii": [
+   2416,
+   "The house of pride, and other tales of Hawaii"
+  ],
+  "jlondon-lost-face": [
+   2429,
+   "Lost Face"
+  ],
+  "jlondon-cruise-of-the-snark": [
+   2512,
+   "The cruise of the Snark"
+  ],
+  "jlondon-when-god-laughs-and-other-stories": [
+   2545,
+   "When God Laughs, and Other Stories"
+  ],
+  "jlondon-revolution-and-other-essays": [
+   4953,
+   "Revolution, and Other Essays"
+  ],
+  "jlondon-little-lady-of-the-big-house": [
+   6455,
+   "The Little Lady of the Big House"
+  ],
+  "jlondon-children-of-the-frost": [
+   10736,
+   "Children of the Frost"
+  ],
+  "jlondon-cruise-of-the-dazzler": [
+   11051,
+   "The Cruise of the Dazzler",
+   {
+    "contents_only": true
+   }
+  ],
+  "jlondon-dutch-courage-and-other-stories": [
+   14449,
+   "Dutch Courage and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "jlondon-a-daughter-of-the-snows": [
+   14654,
+   "A Daughter of the Snows"
+  ],
+  "jlondon-road": [
+   14658,
+   "The Road"
+  ],
+  "jlondon-turtles-of-tasman": [
+   16257,
+   "The Turtles of Tasman",
+   {
+    "contents_only": true
+   }
+  ],
+  "jlondon-theft": [
+   21936,
+   "Theft: A Play In Four Acts"
+  ],
+  "jlondon-scarlet-plague": [
+   21970,
+   "The Scarlet Plague"
+  ],
+  "jlondon-a-son-of-the-sun": [
+   21971,
+   "A Son of the Sun"
+  ],
+  "jlondon-acorn-planter-a-california-forest-play-1916": [
+   22104,
+   "The Acorn-Planter A California Forest Play (1916)"
+  ],
+  "jlondon-kempton-wace-letters": [
+   31422,
+   "The Kempton-Wace Letters (with Anna Strunsky)"
+  ],
+  "jlondon-scorn-of-women": [
+   48474,
+   "Scorn of Women: A Play In Three Acts"
+  ],
+  "jlondon-hearts-of-three": [
+   54068,
+   "Hearts of three"
+  ],
+  "jlondon-abysmal-brute": [
+   55948,
+   "The Abysmal Brute"
   ]
  },
  "internet_archive": {},
- "_excluded": {},
+ "_excluded": {
+  "london-selections": "Brown Wolf and Other Jack London Stories (PG 12336, ed. Franklin K. Mathiews) and Stories of Ships and the Sea (PG 18062, a Haldeman-Julius selection) are later selections of stories in collections held here",
+  "london-index": "PG 59461 is David Widger's index, not a text",
+  "london-assassination-bureau": "PG 75562, The Assassination Bureau, Ltd., was finished by Robert L. Fish and published long after London's death; held until the date of that completion is checked",
+  "jack-london-repeat-5737": "PG 5737, Smoke Bellew: a second transcription of a title already on this shelf",
+  "jack-london-repeat-28693": "PG 28693, Tales of the Fish Patrol: a second transcription of a title already on this shelf"
+ },
  "_checks": {
   "jlondon-call-of-the-wild": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",
@@ -48,7 +264,430 @@
   },
   "jlondon-white-fang": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-before-adam": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-love-of-life-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-burning-daylight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-red-one": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-tales-of-the-fish-patrol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-night-born": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-martin-eden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-sea-wolf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-strength-of-the-strong": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-moon-face-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-faith-of-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-game": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-jerry-of-the-islands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-jacket-the-star-rover": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-adventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-iron-heel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-war-of-the-classes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-south-sea-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-valley-of-the-moon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-smoke-bellew": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-god-of-his-fathers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-human-drift": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-people-of-the-abyss": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-michael-brother-of-jerry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-island-tales-on-the-makaloa-mat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-son-of-the-wolf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-mutiny-of-the-elsinore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-house-of-pride-and-other-tales-of-hawaii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-lost-face": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-cruise-of-the-snark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-when-god-laughs-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-revolution-and-other-essays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-little-lady-of-the-big-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-children-of-the-frost": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-cruise-of-the-dazzler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-dutch-courage-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-a-daughter-of-the-snows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-road": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-turtles-of-tasman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-theft": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-scarlet-plague": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-a-son-of-the-sun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-acorn-planter-a-california-forest-play-1916": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-kempton-wace-letters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-scorn-of-women": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-hearts-of-three": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jack london",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlondon-abysmal-brute": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "jack london",
    "identity": "ok",

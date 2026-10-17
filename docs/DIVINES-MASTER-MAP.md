@@ -19668,12 +19668,64 @@ Shelf: `pipeline/charles-g-d-roberts_shelf.json` (2026-10-02; added at the coord
 
 ## Jack London
 
-Shelf: `pipeline/jack-london_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Two dog novels; cut by part and chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/jack-london_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels, stories, plays and essays. All 49 of Jack London's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Call of the Wild | have | PG 215, `jlondon-call-of-the-wild` (336 units) |
 | White Fang | have | PG 910, `jlondon-white-fang` (1069 units) |
+| Before Adam | have | PG 310, `jlondon-before-adam` (430 units) |
+| Love of Life, and Other Stories | have | PG 710, `jlondon-love-of-life-and-other-stories` (944 units) |
+| Burning Daylight | have | PG 746, `jlondon-burning-daylight` (1757 units) |
+| The Red One | have | PG 788, `jlondon-red-one` (636 units) |
+| Tales of the Fish Patrol | have | PG 911, `jlondon-tales-of-the-fish-patrol` (581 units) |
+| The Night-Born | have | PG 1029, `jlondon-night-born` (1192 units) |
+| Martin Eden | have | PG 1056, `jlondon-martin-eden` (2232 units) |
+| The Sea-Wolf | have | PG 1074, `jlondon-sea-wolf` (2162 units) |
+| The Strength of the Strong | have | PG 1075, `jlondon-strength-of-the-strong` (554 units) |
+| Moon-Face, and Other Stories | have | PG 1089, `jlondon-moon-face-and-other-stories` (1077 units) |
+| The Faith of Men | have | PG 1096, `jlondon-faith-of-men` (785 units) |
+| The Game | have | PG 1160, `jlondon-game` (226 units) |
+| Jerry of the Islands | have | PG 1161, `jlondon-jerry-of-the-islands` (1010 units) |
+| The Jacket (The Star-Rover) | have | PG 1162, `jlondon-jacket-the-star-rover` (1782 units) |
+| Adventure | have | PG 1163, `jlondon-adventure` (1534 units) |
+| The iron heel | have | PG 1164, `jlondon-iron-heel` (1410 units) |
+| War of the Classes | have | PG 1187, `jlondon-war-of-the-classes` (302 units) |
+| South Sea Tales | have | PG 1208, `jlondon-south-sea-tales` (961 units) |
+| The Valley of the Moon | have | PG 1449, `jlondon-valley-of-the-moon` (3909 units) |
+| Smoke Bellew | have | PG 1596, `jlondon-smoke-bellew` (1261 units) |
+| The God of His Fathers: Tales of the Klondyke | have | PG 1655, `jlondon-god-of-his-fathers` (873 units) |
+| The Human Drift | have | PG 1669, `jlondon-human-drift` (731 units) |
+| The People of the Abyss | have | PG 1688, `jlondon-people-of-the-abyss` (957 units) |
+| Michael, Brother of Jerry | have | PG 1730, `jlondon-michael-brother-of-jerry` (1713 units) |
+| Island Tales / On the Makaloa Mat | have | PG 2152, `jlondon-island-tales-on-the-makaloa-mat` (823 units) |
+| The Son of the Wolf | have | PG 2377, `jlondon-son-of-the-wolf` (752 units) |
+| The Mutiny of the Elsinore | have | PG 2415, `jlondon-mutiny-of-the-elsinore` (2242 units) |
+| The house of pride, and other tales of Hawaii | have | PG 2416, `jlondon-house-of-pride-and-other-tales-of-hawaii` (492 units) |
+| Lost Face | have | PG 2429, `jlondon-lost-face` (601 units) |
+| The cruise of the Snark | have | PG 2512, `jlondon-cruise-of-the-snark` (677 units) |
+| When God Laughs, and Other Stories | have | PG 2545, `jlondon-when-god-laughs-and-other-stories` (1127 units) |
+| Revolution, and Other Essays | have | PG 4953, `jlondon-revolution-and-other-essays` (475 units) |
+| The Little Lady of the Big House | have | PG 6455, `jlondon-little-lady-of-the-big-house` (2287 units) |
+| Children of the Frost | have | PG 10736, `jlondon-children-of-the-frost` (1034 units) |
+| The Cruise of the Dazzler | have | PG 11051, `jlondon-cruise-of-the-dazzler` (859 units) |
+| Dutch Courage and Other Stories | have | PG 14449, `jlondon-dutch-courage-and-other-stories` (698 units) |
+| A Daughter of the Snows | have | PG 14654, `jlondon-a-daughter-of-the-snows` (2165 units) |
+| The Road | have | PG 14658, `jlondon-road` (537 units) |
+| The Turtles of Tasman | have | PG 16257, `jlondon-turtles-of-tasman` (1403 units) |
+| Theft: A Play In Four Acts | have | PG 21936, `jlondon-theft` (2686 units) |
+| The Scarlet Plague | have | PG 21970, `jlondon-scarlet-plague` (295 units) |
+| A Son of the Sun | have | PG 21971, `jlondon-a-son-of-the-sun` (1490 units) |
+| The Acorn-Planter A California Forest Play (1916) | have | PG 22104, `jlondon-acorn-planter-a-california-forest-play-1916` (334 units) |
+| The Kempton-Wace Letters (with Anna Strunsky) | have | PG 31422, `jlondon-kempton-wace-letters` (510 units) |
+| Scorn of Women: A Play In Three Acts | have | PG 48474, `jlondon-scorn-of-women` (2414 units) |
+| Hearts of three | have | PG 54068, `jlondon-hearts-of-three` (2806 units) |
+| The Abysmal Brute | have | PG 55948, `jlondon-abysmal-brute` (512 units) |
+| london-selections | excluded | Brown Wolf and Other Jack London Stories (PG 12336, ed. Franklin K. Mathiews) and Stories of Ships and the Sea (PG 18062, a Haldeman-Julius selection) are later selections of stories in collections held here |
+| london-index | excluded | PG 59461 is David Widger's index, not a text |
+| london-assassination-bureau | excluded | PG 75562, The Assassination Bureau, Ltd., was finished by Robert L. Fish and published long after London's death; held until the date of that completion is checked |
+| jack-london-repeat-5737 | excluded | PG 5737, Smoke Bellew: a second transcription of a title already on this shelf |
+| jack-london-repeat-28693 | excluded | PG 28693, Tales of the Fish Patrol: a second transcription of a title already on this shelf |
 
 ## Marshall Saunders
 
