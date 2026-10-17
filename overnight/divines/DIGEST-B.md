@@ -212,3 +212,4 @@
 - 18:21 round t: 9 shelves of British idealism and its critics (Stout, Seth, Ritchie, Rashdall, Sorley, F. C. S. Schiller, Mansel, James Ward, Hobhouse), 18 volumes.
 - 18:23 round u: 6 early modern shelves (Henry More, Norris, Wollaston, Collins, Tindal, Tucker), 10 volumes.
 - 18:25 round v: 6 shelves (Kuno Fischer, Herbart, Paul Janet, Eucken, Fourier, Vives), 12 volumes.
+- 18:29 round w: 6 logic/philosophy-of-science shelves. For Adam: Lewes's History of Philosophy is two volumes from different editions (1867 3rd, 1871 4th); keep, or wait for a matched pair? Held Bain's Senses and the Intellect (year unreadable).

@@ -929,3 +929,9 @@
 - rudolf-eucken: Problem of Human Life (1909), Truth of Religion (1911)
 - charles-fourier: Passions of the Human Soul (1851, 2 vols)
 - juan-luis-vives: On Education (1913)
+
+## 2026-10-17 18:29 CDT — Round w: logic and the philosophy of science
+- New shelves: john-venn (2), alexander-bain (3), george-henry-lewes (3), john-herschel (1), karl-pearson (1), john-maynard-keynes (5)
+- Lewes's History volumes are mismatched editions (3rd ed. vol. I 1867, OCR misreads 1807; 4th ed. vol. II 1871)
+- Held: Bain, The Senses and the Intellect (Appleton, year unreadable); Lewes, Biographical History (no year seen)
+- Mach skipped: lane C owns mccormack
