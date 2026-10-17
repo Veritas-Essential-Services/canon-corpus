@@ -1,0 +1,36 @@
+{
+ "_about": "James Frederick Ferrier (1808-1864), raw IA OCR: Institutes of Metaphysic, the theory of knowing and being (Edinburgh: Blackwood, 1854). US public domain. No uids minted.",
+ "_author": "James Frederick Ferrier",
+ "_name_words": [
+  "james",
+  "frederick",
+  "j",
+  "f",
+  "ferrier"
+ ],
+ "_surname": [
+  "ferrier"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ferrier-institutes-of-metaphysic-1854": [
+   "institutesofmeta00ferruoft",
+   "Institutes of Metaphysic: the theory of knowing and being (Edinburgh: Blackwood, 1854)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "ferrier-institutes-of-metaphysic-1854": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ferrier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
