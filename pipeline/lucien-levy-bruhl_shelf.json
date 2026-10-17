@@ -1,0 +1,43 @@
+{
+ "_about": "Lucien Lévy-Bruhl (1857-1939): History of Modern Philosophy in France, with portraits, tr. G. Coblence, revised by W. H. Carruth (Chicago: Open Court; London: Kegan Paul, 1899), raw IA OCR. His Ethics and Moral Science, tr. Elizabeth Lee (1905), is left for Lane C's elizabeth-lee shelf. US public domain. No uids minted.",
+ "_author": "Lucien Lévy-Bruhl",
+ "_name_words": [
+  "lucien",
+  "levy",
+  "bruhl",
+  "lévy"
+ ],
+ "_surname": [
+  "levy-bruhl",
+  "lévy-bruhl",
+  "bruhl"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "levy-bruhl-coblence-modern-philosophy-in-france-1899": [
+   "historyofmodernp00laevuoft",
+   "History of Modern Philosophy in France (Chicago: Open Court, 1899)",
+   "tr. G. Coblence"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "levy-bruhl-coblence-modern-philosophy-in-france-1899": "Coblence"
+ },
+ "_checks": {
+  "levy-bruhl-coblence-modern-philosophy-in-france-1899": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "levy-bruhl",
+   "translator_claimed": "Coblence",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
