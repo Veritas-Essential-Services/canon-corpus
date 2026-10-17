@@ -6403,6 +6403,118 @@ Shelf: `pipeline/alice-emerson_shelf.json` (2026-10-17; added at the coordinator
 | Ruth Fielding in Alaska | have | PG 71176, `aemerson-ruth-fielding-in-alaska` (1470 units) |
 | Ruth Fielding at Golden Pass | have | PG 76206, `aemerson-ruth-fielding-at-golden-pass` (1512 units) |
 
+## Edward Stratemeyer
+
+Shelf: `pipeline/stratemeyer_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Own-name series for boys (Old Glory, Soldiers of Fortune, Dave Porter, Putnam Hall). Every English text under the name at Gutenberg that no other shelf holds (104 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| True to Himself; Or, Roger Strong's Struggle for Place | have | PG 4995, `stratemeyer-true-to-himself` (2846 units) |
+| The Rover Boys in Business; Or, The Search for the Missing Bonds | have | PG 5002, `stratemeyer-rover-boys-in-business` (2059 units) |
+| The Rover Boys in New York; Or, Saving Their Father's Honor | have | PG 5003, `stratemeyer-rover-boys-in-new-york` (2353 units) |
+| The Rover Boys in the Jungle; Or, Stirring Adventures in Africa | have | PG 5770, `stratemeyer-rover-boys-in-the-jungle` (1741 units) |
+| The Rover Boys at School; Or, The Cadets of Putnam Hall | have | PG 5780, `stratemeyer-rover-boys-at-school` (2108 units) |
+| The Rover Boys on the Ocean; Or, A chase for a fortune | have | PG 5875, `stratemeyer-rover-boys-on-the-ocean` (2204 units) |
+| The Rover Boys out West; Or, The Search for a Lost Mine | have | PG 6071, `stratemeyer-rover-boys-out-west` (1960 units) |
+| Richard Dare's Venture; Or, Striking Out for Himself | have | PG 6365, `stratemeyer-richard-dares-venture` (2068 units) |
+| On the Trail of Pontiac; Or, The Pioneer Boys of the Ohio | have | PG 6433, `stratemeyer-on-the-trail-of-pontiac` (1939 units) |
+| The Rover Boys on the Great Lakes; Or, The Secret of the Island Cave | have | PG 6451, `stratemeyer-rover-boys-on-the-great-lakes` (2323 units) |
+| Guns and Snowshoes; Or, the Winter Outing of the Young Hunters | have | PG 8697, `stratemeyer-guns-and-snowshoes` (1868 units) |
+| The Rover Boys at College; Or, The Right Road and the Wrong | have | PG 10323, `stratemeyer-rover-boys-at-college` (2322 units) |
+| Young Hunters of the Lake; or, Out with Rod and Gun | have | PG 12936, `stratemeyer-young-hunters-of-the-lake` (1869 units) |
+| Out with Gun and Camera; or, The Boy Hunters in the Mountains | have | PG 12937, `stratemeyer-out-with-gun-and-camera` (2015 units) |
+| Four Boy Hunters; Or, The Outing of the Gun Club | have | PG 12952, `stratemeyer-four-boy-hunters` (2097 units) |
+| The Rover Boys In The Mountains; Or, A Hunt for Fun and Fortune | have | PG 13455, `stratemeyer-rover-boys-in-the-mountains` (2083 units) |
+| The Rover Boys on Treasure Isle; Or, The Strange Cruise of the Steam Yacht | have | PG 15723, `stratemeyer-rover-boys-on-treasure-isle` (2262 units) |
+| The Rover Boys in Camp; or, The Rivals of Pine Island | have | PG 15795, `stratemeyer-rover-boys-in-camp` (2288 units) |
+| The Rover Boys on the River; Or, The Search for the Missing Houseboat | have | PG 15904, `stratemeyer-rover-boys-on-the-river` (2402 units) |
+| The Rover Boys on Land and Sea: The Crusoes of Seven Islands | have | PG 16476, `stratemeyer-rover-boys-on-land-and-sea` (2120 units) |
+| The Mystery at Putnam Hall: The School Chums' Strange Discovery | have | PG 17636, `stratemeyer-mystery-at-putnam-hall` (2583 units) |
+| Dave Porter at Star Ranch; Or, The Cowboy's Secret | have | PG 19016, `stratemeyer-dave-porter-at-star-ranch` (2408 units) |
+| The Rover Boys in the Air; Or, From College Campus to the Clouds | have | PG 20053, `stratemeyer-rover-boys-in-the-air` (2502 units) |
+| The Boy Land Boomer; Or, Dick Arbuckle's Adventures in Oklahoma | have | PG 20618, `stratemeyer-boy-land-boomer` (1668 units) |
+| The Young Bridge-Tender; or, Ralph Nelson's Upward Struggle | have | PG 21344, `stratemeyer-young-bridge-tender` (2783 units) |
+| The Rover Boys at Colby Hall; or, The Struggles of the Young Cadets | have | PG 21894, `stratemeyer-rover-boys-at-colby-hall` (2319 units) |
+| The Rover Boys on a Hunt; or, The Mysterious House in the Woods | have | PG 22012, `stratemeyer-rover-boys-on-a-hunt` (2208 units) |
+| The Rover Boys on the Farm; or, Last Days at Putnam Hall | have | PG 22163, `stratemeyer-rover-boys-on-the-farm` (2174 units) |
+| For the Liberty of Texas | have | PG 22186, `stratemeyer-for-the-liberty-of-texas` (1934 units) |
+| American Boy's Life of Theodore Roosevelt | have | PG 22352, `stratemeyer-american-boys-life-of-theodore-roosevelt` (1136 units) |
+| The Rover Boys on Snowshoe Island; or, The Old Lumberman's Treasure Box | have | PG 22996, `stratemeyer-rover-boys-on-snowshoe-island` (2232 units) |
+| The Rover Boys Under Canvas; Or, The Mystery of the Wrecked Submarine | have | PG 23286, `stratemeyer-rover-boys-under-canvas` (2203 units) |
+| Dave Porter in the Gold Fields; Or, The Search for the Landslide Mine | have | PG 24033, `stratemeyer-dave-porter-in-the-gold-fields` (2370 units) |
+| Dave Porter and His Rivals; or, The Chums and Foes of Oak Hall | have | PG 26160, `stratemeyer-dave-porter-and-his-rivals` (2483 units) |
+| The Rover Boys on the Plains; Or, The Mystery of Red Rock Ranch | have | PG 26182, `stratemeyer-rover-boys-on-the-plains` (2433 units) |
+| The Rover Boys in Southern Waters; or, The Deserted Steam Yacht | have | PG 26193, `stratemeyer-rover-boys-in-southern-waters` (2065 units) |
+| The Young Oarsmen of Lakeview | have | PG 26218, `stratemeyer-young-oarsmen-of-lakeview` (2768 units) |
+| The Rover Boys at Big Horn Ranch; Or, The Cowboys' Double Round-Up | have | PG 26539, `stratemeyer-rover-boys-at-big-horn-ranch` (2296 units) |
+| The Rover Boys in Alaska; or, Lost in the Fields of Ice | have | PG 26902, `stratemeyer-rover-boys-in-alaska` (2249 units) |
+| Dave Porter and the Runaways; Or, Last Days at Oak Hall | have | PG 28654, `stratemeyer-dave-porter-and-the-runaways` (2599 units) |
+| Dave Porter in the Far North; Or, The Pluck of an American Schoolboy | have | PG 28861, `stratemeyer-dave-porter-in-the-far-north` (2212 units) |
+| Dave Porter At Bear Camp; Or, The Wild Man of Mirror Lake | have | PG 29859, `stratemeyer-dave-porter-at-bear-camp` (2359 units) |
+| Dave Porter and His Double; Or, The Disapperarance of the Basswood Fortune | have | PG 30394, `stratemeyer-dave-porter-and-his-double` (1930 units) |
+| The Rover Boys in the Land of Luck; Or, Stirring Adventures in the Oil Fields | have | PG 30841, `stratemeyer-rover-boys-in-the-land-of-luck` (2342 units) |
+| The Missing Tin Box; Or, The Stolen Railroad Bonds | have | PG 30864, `stratemeyer-missing-tin-box` (3068 units) |
+| Young Auctioneers; Or, The Polishing of a Rolling Stone | have | PG 31140, `stratemeyer-young-auctioneers` (2271 units) |
+| The Campaign of the Jungle; Or, Under Lawton through Luzon | have | PG 31317, `stratemeyer-campaign-of-the-jungle` (1606 units) |
+| To Alaska for Gold; Or, The Fortune Hunters of the Yukon | have | PG 31989, `stratemeyer-to-alaska-for-gold` (1296 units) |
+| Boys of The Fort; Or, A Young Captain's Pluck | have | PG 32057, `stratemeyer-boys-of-the-fort` (1961 units) |
+| At the Fall of Port Arthur; Or, A Young American in the Japanese Navy | have | PG 33559, `stratemeyer-at-the-fall-of-port-arthur` (1923 units) |
+| Three Young Ranchmen; or, Daring Adventures in the Great West | have | PG 33615, `stratemeyer-three-young-ranchmen` (1807 units) |
+| Fighting in Cuban waters | have | PG 34306, `stratemeyer-fighting-in-cuban-waters` (1700 units) |
+| Dave Porter in the South Seas; or, The Strange Cruise of the Stormy Petrel | have | PG 34347, `stratemeyer-dave-porter-in-the-south-seas` (2399 units) |
+| Marching on Niagara; Or, The Soldier Boys of the Old Frontier | have | PG 34355, `stratemeyer-marching-on-niagara` (1601 units) |
+| The Last Cruise of the Spitfire; or, Luke Foster's Strange Voyage | have | PG 34367, `stratemeyer-last-cruise-of-the-spitfire` (2326 units) |
+| Leo the Circus Boy; or, Life under the great white canvas | have | PG 35821, `stratemeyer-leo-the-circus-boy` (2558 units) |
+| The Rover Boys on a Tour; or, Last Days at Brill College | have | PG 36179, `stratemeyer-rover-boys-on-a-tour` (2203 units) |
+| Dave Porter on Cave Island; Or, A Schoolboy's Mysterious Mission | have | PG 36377, `stratemeyer-dave-porter-on-cave-island` (2373 units) |
+| First at the North Pole; Or, Two Boys in the Arctic Circle | have | PG 38968, `stratemeyer-first-at-the-north-pole` (2264 units) |
+| The Rover Boys Down East; or, The Struggle for the Stanhope Fortune | have | PG 40303, `stratemeyer-rover-boys-down-east` (2632 units) |
+| A Young Inventor's Pluck; or, The Mystery of the Willington Legacy | have | PG 42142, `stratemeyer-a-young-inventors-pluck` (1992 units) |
+| The Putnam Hall Cadets; or, Good Times in School and Out | have | PG 45517, `stratemeyer-putnam-hall-cadets` (2363 units) |
+| The Putnam Hall Rivals; or, Fun and Sport Afloat and Ashore | have | PG 46872, `stratemeyer-putnam-hall-rivals` (2399 units) |
+| The Putnam Hall Champions; or, Bound to Win Out | have | PG 47023, `stratemeyer-putnam-hall-champions` (2247 units) |
+| The Putnam Hall Rebellion; or, The Rival Runaways | have | PG 47451, `stratemeyer-putnam-hall-rebellion` (2327 units) |
+| The Putnam Hall Encampment; or, The Secret of the Old Mill | have | PG 47562, `stratemeyer-putnam-hall-encampment` (2364 units) |
+| When Santiago Fell; or, The War Adventures of Two Chums | have | PG 51798, `stratemeyer-when-santiago-fell` (1698 units) |
+| Young Hunters in Porto Rico; or, The Search for a Lost Treasure | have | PG 52217, `stratemeyer-young-hunters-in-porto-rico` (1987 units) |
+| The Gun Club boys of Lakeport | have | PG 52386, `stratemeyer-gun-club-boys-of-lakeport` (2104 units) |
+| Dave Porter's Return to School; Or, Winning the Medal of Honor | have | PG 53407, `stratemeyer-dave-porters-return-to-school` (2573 units) |
+| Dave Porter and His Classmates; Or, For the Honor of Oak Hall | have | PG 53414, `stratemeyer-dave-porter-and-his-classmates` (2468 units) |
+| Dave Porter's Great Search; Or, The Perils of a Young Civil Engineer | have | PG 55764, `stratemeyer-dave-porters-great-search` (2119 units) |
+| Trail and Trading Post; or, The Young Hunters of the Ohio | have | PG 63431, `stratemeyer-trail-and-trading-post` (2170 units) |
+| Oliver Bright's Search; or, The Mystery of a Mine | have | PG 66171, `stratemeyer-oliver-brights-search` (2376 units) |
+| The Rover Boys at Big Bear Lake; or, The Camps of the Rival Cadets | have | PG 67285, `stratemeyer-rover-boys-at-big-bear-lake` (2259 units) |
+| The Rover Boys Shipwrecked; or, A Thrilling Hunt for Pirates' Gold | have | PG 67893, `stratemeyer-rover-boys-shipwrecked` (2174 units) |
+| The Rover Boys on Sunset Trail; or, The old miner's mysterious message | have | PG 68332, `stratemeyer-rover-boys-on-sunset-trail` (2165 units) |
+| Lost on the Orinoco; or, American boys in Venezuela | have | PG 68944, `stratemeyer-lost-on-the-orinoco` (1895 units) |
+| The Rover Boys winning a fortune; or, Strenuous days ashore and afloat | have | PG 69463, `stratemeyer-rover-boys-winning-a-fortune` (1984 units) |
+| At the fall of Montreal; or, A soldier boy's final victory | have | PG 69501, `stratemeyer-at-the-fall-of-montreal` (2155 units) |
+| On to Pekin; or, Old Glory in China | have | PG 69749, `stratemeyer-on-to-pekin` (1747 units) |
+| With Washington in the west; | have | PG 70193, `stratemeyer-with-washington-in-the-west` (1699 units) |
+| The fort in the wilderness | have | PG 71411, `stratemeyer-fort-in-the-wilderness` (1949 units) |
+| Pioneer boys of the gold fields | have | PG 71417, `stratemeyer-pioneer-boys-of-the-gold-fields` (2468 units) |
+| Two young lumbermen | have | PG 71427, `stratemeyer-two-young-lumbermen` (2265 units) |
+| The young volcano explorers | have | PG 71552, `stratemeyer-young-volcano-explorers` (1869 units) |
+| With Boone on the frontier | have | PG 71642, `stratemeyer-with-boone-on-the-frontier` (2388 units) |
+| Under the Mikado's flag | have | PG 71728, `stratemeyer-under-the-mikados-flag` (2066 units) |
+| Reuben Stone's discovery | have | PG 74197, `stratemeyer-reuben-stones-discovery` (2823 units) |
+| Dave Porter's war honors | have | PG 74496, `stratemeyer-dave-porters-war-honors` (1978 units) |
+| The baseball boys of Lakeport | have | PG 74593, `stratemeyer-baseball-boys-of-lakeport` (2308 units) |
+| Bob, the photographer | have | PG 75034, `stratemeyer-bob-the-photographer` (3598 units) |
+| Tour of the Zero Club | have | PG 75342, `stratemeyer-tour-of-the-zero-club` (2374 units) |
+| The young naval captain | have | PG 75394, `stratemeyer-young-naval-captain` (2114 units) |
+| Garry Grayson at Lenox High | have | PG 75746, `stratemeyer-garry-grayson-at-lenox-high` (1454 units) |
+| The rival bicyclists | have | PG 75952, `stratemeyer-rival-bicyclists` (2838 units) |
+| Garry Grayson's football rivals | have | PG 76086, `stratemeyer-garry-graysons-football-rivals` (1474 units) |
+| A sailor boy with Dewey | have | PG 77081, `stratemeyer-a-sailor-boy-with-dewey` (1780 units) |
+| Larry Barlow's ambition | have | PG 77209, `stratemeyer-larry-barlows-ambition` (2112 units) |
+| The aircraft boys of Lakeport | have | PG 77538, `stratemeyer-aircraft-boys-of-lakeport` (2372 units) |
+| Lost in the land of ice | have | PG 77580, `stratemeyer-lost-in-the-land-of-ice` (2309 units) |
+| Defending his flag | have | PG 77848, `stratemeyer-defending-his-flag` (1976 units) |
+| Under Dewey at Manila | have | PG 78934, `stratemeyer-under-dewey-at-manila` (1284 units) |
+| Neka, the boy conjuror | have | PG 79533, `stratemeyer-neka-the-boy-conjuror` (2220 units) |
+| repeat-editions | excluded | PG 22547 (Rover Boys on Treasure Isle) and 50201 (Young Oarsmen of Lakeview): second Gutenberg editions of titles already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
