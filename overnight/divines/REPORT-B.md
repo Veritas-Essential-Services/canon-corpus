@@ -801,3 +801,8 @@
 - Lotze: Hamilton and Jones's Microcosmus (2), Bosanquet's Logic and Metaphysic (4), Ladd's Outlines (4).
 - Comte: Martineau's Positive Philosophy (1896, 3), System of Positive Polity (1875-1877, 4), Congreve's Catechism (1858).
 - Aristotle, at the coordinator's check: everything on its list was already held except Ross's 1908 first-edition Metaphysica, now added. Taylor's 1812 Organon scan has no legible year and is held.
+
+## 2026-10-17 17:07 CDT — Round 2026-10-17d: British and early-modern philosophy
+- 8 new shelves, 14 IA volumes: john-stuart-mill (Examination of Hamilton, 1865), herbert-spencer (First Principles, 1900), william-godwin (Political Justice, 1793), malebranche (Taylor 1700; Ginsberg 1923), port-royal-logic (Baynes 1850), shaftesbury (Robertson 1900), thomas-reid (Hamilton 8th ed. 1880), herder (Marsh 1833)
+- Skipped as duplicates: Montesquieu's Spirit of Laws, Nugent, held by the Adler shelf (PG 27573)
+- Held: Churchill's Herder Outlines (1800; title page illegible), Mill's Three Essays on Religion and one Spencer First Principles scan (no year or title page)

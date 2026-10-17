@@ -193,3 +193,4 @@
 - 16:41 Resumed in burn mode. Jowett's Plato was already complete. Aristotle +9 volumes (Jowett Politics 1885, Jebb, Poste x2, Twining x2, Ogle x2). Next: the wider philosophical canon.
 - 16:53 Round b: 11 philosophy shelves, 55 volumes (Hegel, Schopenhauer, Kant, Hume, Berkeley, Hobbes, Bacon, Machiavelli, Descartes, Rousseau, Locke). Next: Spinoza, Leibniz, Fichte, Lotze, Comte.
 - 17:00 Round c: Spinoza, Leibniz, Fichte, Lotze, Comte (5 shelves, 36 vols); Aristotle +1 (Ross Metaphysica 1908).
+- 17:07 round d: 8 new shelves (Mill, Spencer, Godwin, Malebranche, Port-Royal Logic, Shaftesbury, Reid, Herder); nothing needs Adam.
