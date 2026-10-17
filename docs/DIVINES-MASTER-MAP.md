@@ -24424,6 +24424,108 @@ Shelf: `pipeline/e-phillips-oppenheim_shelf.json` (2026-10-17; added at the coor
 | The Seven Conundrums | have | PG 59198, `epoppenheim-seven-conundrums` (1396 units) |
 | The mystery road | have | PG 77836, `epoppenheim-mystery-road` (2352 units) |
 
+## William Le Queux
+
+Shelf: `pipeline/william-le-queux_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Spy, invasion and mystery novels. Every English text under the name at Gutenberg that no other shelf holds (93 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Mademoiselle of Monte Carlo | have | PG 4694, `wlequeux-mademoiselle-of-monte-carlo` (2773 units) |
+| The Four Faces: A Mystery | have | PG 9795, `wlequeux-four-faces` (2005 units) |
+| The Czar's Spy: The Mystery of a Silent Love | have | PG 10102, `wlequeux-czars-spy` (2421 units) |
+| The House of Whispers | have | PG 10718, `wlequeux-house-of-whispers` (2059 units) |
+| The Doctor of Pimlico: Being the Disclosure of a Great Crime | have | PG 22654, `wlequeux-doctor-of-pimlico` (1759 units) |
+| The Minister of Evil: The Secret History of Rasputin's Betrayal of Russia | have | PG 22720, `wlequeux-minister-of-evil` (2043 units) |
+| The Great White Queen: A Tale of Treasure and Treason | have | PG 25499, `wlequeux-great-white-queen` (1562 units) |
+| The Mystery of the Green Ray | have | PG 26637, `wlequeux-mystery-of-the-green-ray` (1382 units) |
+| The Stretton Street Affair | have | PG 27147, `wlequeux-stretton-street-affair` (2403 units) |
+| The Seven Secrets | have | PG 27549, `wlequeux-seven-secrets` (1928 units) |
+| The Golden Face: A Great 'Crook' Romance | have | PG 27705, `wlequeux-golden-face` (1603 units) |
+| Hushed Up! A Mystery of London | have | PG 28337, `wlequeux-hushed-up-a-mystery-of-london` (2352 units) |
+| The White Lie | have | PG 29173, `wlequeux-white-lie` (2484 units) |
+| The Sign of Silence | have | PG 30477, `wlequeux-sign-of-silence` (2565 units) |
+| The Count's Chauffeur | have | PG 30827, `wlequeux-counts-chauffeur` (2151 units) |
+| The Intriguers | have | PG 32770, `wlequeux-intriguers` (1940 units) |
+| Spies of the Kaiser: Plotting the Downfall of England | have | PG 33298, `wlequeux-spies-of-the-kaiser` (2290 units) |
+| The Secrets of Potsdam A Startling Exposure of the Inner Life of the Courts of the Kaiser and Crown-Prince | have | PG 34278, `wlequeux-secrets-of-potsdam-a-startling-exposure-of-the-inne` (1509 units) |
+| The Invasion | have | PG 36155, `wlequeux-invasion` (1398 units) |
+| The Great War in England in 1897 | have | PG 37470, `wlequeux-great-war-in-england-in-1897` (1519 units) |
+| The Place of Dragons: A Mystery | have | PG 40434, `wlequeux-place-of-dragons` (2351 units) |
+| The Closed Book: Concerning the Secret of the Borgias | have | PG 40828, `wlequeux-closed-book` (1813 units) |
+| Devil's Dice | have | PG 40829, `wlequeux-devils-dice` (1925 units) |
+| The Wiles of the Wicked | have | PG 40831, `wlequeux-wiles-of-the-wicked` (2192 units) |
+| The Veiled Man Being an Account of the Risks and Adventures of Sidi Ahamadou, Sheikh of the Azjar Maraude | have | PG 40832, `wlequeux-veiled-man-being-an-account-of-the-risks-and-advent` (792 units) |
+| The Temptress | have | PG 40833, `wlequeux-temptress` (2769 units) |
+| The Under-Secretary | have | PG 40834, `wlequeux-under-secretary` (1810 units) |
+| The Pauper of Park Lane | have | PG 40835, `wlequeux-pauper-of-park-lane` (3424 units) |
+| The Mysterious Three | have | PG 40836, `wlequeux-mysterious-three` (1902 units) |
+| Whoso Findeth a Wife | have | PG 40837, `wlequeux-whoso-findeth-a-wife` (2459 units) |
+| Zoraida: A Romance of the Harem and the Great Sahara | have | PG 40994, `wlequeux-zoraida` (2553 units) |
+| The Zeppelin Destroyer: Being Some Chapters of Secret History | have | PG 40995, `wlequeux-zeppelin-destroyer` (1611 units) |
+| In White Raiment | have | PG 40996, `wlequeux-in-white-raiment` (2610 units) |
+| As We Forgive Them | have | PG 40997, `wlequeux-as-we-forgive-them` (1476 units) |
+| The Day of Temptation | have | PG 40998, `wlequeux-day-of-temptation` (2099 units) |
+| Stolen Souls | have | PG 40999, `wlequeux-stolen-souls` (1708 units) |
+| Her Majesty's Minister | have | PG 41000, `wlequeux-her-majestys-minister` (2481 units) |
+| The Red Room | have | PG 41001, `wlequeux-red-room` (2148 units) |
+| If Sinners Entice Thee | have | PG 41002, `wlequeux-if-sinners-entice-thee` (1831 units) |
+| The Eye of Istar: A Romance of the Land of No Return | have | PG 41003, `wlequeux-eye-of-istar` (1680 units) |
+| An Eye for an Eye | have | PG 41004, `wlequeux-an-eye-for-an-eye` (1782 units) |
+| The Great Court Scandal | have | PG 41005, `wlequeux-great-court-scandal` (1592 units) |
+| The Hunchback of Westminster | have | PG 41078, `wlequeux-hunchback-of-westminster` (1173 units) |
+| The Sign of the Stranger | have | PG 41089, `wlequeux-sign-of-the-stranger` (1908 units) |
+| At the Sign of the Sword: A Story of Love and War in Belgium | have | PG 41090, `wlequeux-at-the-sign-of-the-sword` (1205 units) |
+| The Price of Power Being Chapters from the Secret History of the Imperial Court of Russia | have | PG 41091, `wlequeux-price-of-power-being-chapters-from-the-secret-histo` (2248 units) |
+| Whatsoever a Man Soweth | have | PG 41092, `wlequeux-whatsoever-a-man-soweth` (2005 units) |
+| Her Royal Highness: A Romance of the Chancelleries of Europe | have | PG 41093, `wlequeux-her-royal-highness` (2421 units) |
+| The Way to Win | have | PG 41129, `wlequeux-way-to-win` (444 units) |
+| The Stolen Statesman: Being the Story of a Hushed Up Mystery | have | PG 41130, `wlequeux-stolen-statesman` (1863 units) |
+| Number 70, Berlin: A Story of Britain's Peril | have | PG 41131, `wlequeux-number-70-berlin` (1407 units) |
+| The Bomb-Makers Being Some Curious Records Concerning the Craft and Cunning of Theodore Drost, an Enemy Alien in London, Together with Certain Revelations Regarding His Daughter Ella | have | PG 41132, `wlequeux-bomb-makers-being-some-curious-records-concerning-t` (838 units) |
+| Whither Thou Goest | have | PG 41184, `wlequeux-whither-thou-goest` (2271 units) |
+| The Voice from the Void: The Great Wireless Mystery | have | PG 41185, `wlequeux-voice-from-the-void` (2063 units) |
+| Sant of the Secret Service: Some Revelations of Spies and Spying | have | PG 41186, `wlequeux-sant-of-the-secret-service` (923 units) |
+| This House to Let | have | PG 41187, `wlequeux-this-house-to-let` (1806 units) |
+| The Great God Gold | have | PG 41199, `wlequeux-great-god-gold` (2337 units) |
+| Rasputin the Rascal Monk Disclosing the Secret Scandal of the Betrayal of Russia by the Mock-Monk Grichka and the Consequent Ruin of the Romanoffs. With official documents revealed and recorded for the first time. | have | PG 41452, `wlequeux-rasputin-the-rascal-monk-disclosing-the-secret-scan` (815 units) |
+| The Mysterious Mr. Miller | have | PG 41453, `wlequeux-mysterious-mr-miller` (2377 units) |
+| The Lost Million | have | PG 41454, `wlequeux-lost-million` (2106 units) |
+| The Lady in the Car | have | PG 41455, `wlequeux-lady-in-the-car` (1754 units) |
+| Guilty Bonds | have | PG 41456, `wlequeux-guilty-bonds` (1935 units) |
+| The Gay Triangle: The Romance of the First Air Adventurers | have | PG 41458, `wlequeux-gay-triangle` (1107 units) |
+| The Broken Thread | have | PG 41459, `wlequeux-broken-thread` (1220 units) |
+| The Bond of Black | have | PG 41461, `wlequeux-bond-of-black` (2073 units) |
+| Behind the Throne | have | PG 41462, `wlequeux-behind-the-throne` (2028 units) |
+| The Red Widow; or, The Death-Dealers of London | have | PG 46236, `wlequeux-red-widow` (2792 units) |
+| The Invasion of 1910, with a full account of the siege of London | have | PG 51905, `wlequeux-invasion-of-1910-with-a-full-account-of-the-siege-o` (2165 units) |
+| German Atrocities: A Record of Shameless Deeds | have | PG 52082, `wlequeux-german-atrocities` (558 units) |
+| The Tickencote Treasure | have | PG 57885, `wlequeux-tickencote-treasure` (2257 units) |
+| Beryl of the Biplane: Being the Romance of an Air-Woman of To-Day | have | PG 58770, `wlequeux-beryl-of-the-biplane` (978 units) |
+| Tracked by Wireless | have | PG 59434, `wlequeux-tracked-by-wireless` (1997 units) |
+| Britain's Deadly Peril: Are We Told the Truth? | have | PG 61040, `wlequeux-britains-deadly-peril` (674 units) |
+| German Spies in England: An Exposure | have | PG 61069, `wlequeux-german-spies-in-england` (697 units) |
+| An Observer in the Near East | have | PG 65766, `wlequeux-an-observer-in-the-near-east` (1513 units) |
+| A Secret Service: Being Strange Tales of a Nihilist | have | PG 67278, `wlequeux-a-secret-service` (1767 units) |
+| The gamblers | have | PG 71037, `wlequeux-gamblers` (1947 units) |
+| A woman's debt | have | PG 72041, `wlequeux-a-womans-debt` (1450 units) |
+| The crystal claw | have | PG 72870, `wlequeux-crystal-claw` (1884 units) |
+| Behind the bronze door | have | PG 73266, `wlequeux-behind-the-bronze-door` (2012 units) |
+| The house of evil | have | PG 75760, `wlequeux-house-of-evil` (1417 units) |
+| The Sign of the Seven Sins | have | PG 76685, `wlequeux-sign-of-the-seven-sins` (1325 units) |
+| Fatal fingers | have | PG 77320, `wlequeux-fatal-fingers` (2015 units) |
+| Poison shadows | have | PG 77378, `wlequeux-poison-shadows` (2208 units) |
+| The three glass eyes | have | PG 77426, `wlequeux-three-glass-eyes` (1404 units) |
+| The sting | have | PG 77530, `wlequeux-sting` (1812 units) |
+| The indiscretions of a lady's maid | have | PG 77575, `wlequeux-indiscretions-of-a-ladys-maid` (2115 units) |
+| The rat trap | have | PG 77737, `wlequeux-rat-trap` (1452 units) |
+| The dangerous game | have | PG 78029, `wlequeux-dangerous-game` (2014 units) |
+| The crime code | have | PG 78372, `wlequeux-crime-code` (2134 units) |
+| The looker-on | have | PG 78884, `wlequeux-looker-on` (2661 units) |
+| The money-spider | have | PG 78920, `wlequeux-money-spider` (2879 units) |
+| Things I know about kings, celebrities, and crooks | have | PG 79085, `wlequeux-things-i-know-about-kings-celebrities-and-crooks` (2948 units) |
+| pg-59638 | excluded | PG 59638: Gutenberg's index of Le Queux's works, not a book. |
+| pg-51307 | excluded | PG 51307 This House to Let: a second Gutenberg edition of a title already on the shelf. |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

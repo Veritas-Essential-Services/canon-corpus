@@ -1254,3 +1254,6 @@
 
 ## 2026-10-17 18:51 CDT — e-phillips-oppenheim: done
 - e-phillips-oppenheim: new shelf, 58 Gutenberg books, 135,883 units, 5708 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:51 CDT — william-le-queux: done
+- william-le-queux: new shelf, 93 Gutenberg books, 174,556 units, 46 ~2 ids; verify 0 mismatches, 0 rights flags.
