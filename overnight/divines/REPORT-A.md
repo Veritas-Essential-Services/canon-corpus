@@ -982,3 +982,6 @@
 
 ## 2026-10-10 15:12 CDT — paused
 - Paused at Adam's request after round 21. Round 22 queued, not started. LOCK-A status paused. RUN-CONTROL.json not touched (its note says workers never write it).
+
+## 2026-10-17T16:34:36-05:00 — resumed
+- Resumed on Adam's 2026-10-17 request. Starting round 22 (queued 2026-10-10). Aquinas belongs to a new thread; lane A holds none.
