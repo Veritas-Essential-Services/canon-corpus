@@ -1,0 +1,48 @@
+{
+ "_about": "Bernard Bosanquet (1848-1923), in his own works, raw IA OCR: The Philosophical Theory of the State (Macmillan, 1899) and A History of Aesthetic (Swan Sonnenschein, 1892). His editions of Lotze and his Hegel translation are on the lotze and hegel-translations shelves. US public domain. Wanted: Logic, or the Morphology of Knowledge (1888), Knowledge and Reality (1885), The Principle of Individuality and Value (1912). No uids minted.",
+ "_author": "Bernard Bosanquet",
+ "_name_words": [
+  "bernard",
+  "bosanquet"
+ ],
+ "_surname": [
+  "bosanquet"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bosanquet-theory-of-the-state-1899": [
+   "philosophicalthe00bosaiala",
+   "The Philosophical Theory of the State (London: Macmillan, 1899)"
+  ],
+  "bosanquet-history-of-aesthetic-1892": [
+   "historyofsthetic00bosa",
+   "A History of Aesthetic (London: Swan Sonnenschein, 1892)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "bosanquet-theory-of-the-state-1899": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bosanquet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bosanquet-history-of-aesthetic-1892": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bosanquet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
