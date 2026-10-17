@@ -5491,6 +5491,73 @@ Shelf: `pipeline/collingwood_shelf.json` (2026-10-17; added at the coordinator's
 | Under the Ensign of the Rising Sun: A Story of the Russo-Japanese War | have | PG 27910, `hcollingwood-under-the-ensign-of-the-rising-sun` (909 units) |
 | The Secret of the Sands; Or, The "Water Lily" and her Crew | have | PG 35528, `hcollingwood-secret-of-the-sands` (1589 units) |
 
+## H. Rider Haggard
+
+Shelf: `pipeline/haggard_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Adventure romances; many describe African peoples in the terms of their time. Every English text under the name at Gutenberg that no other shelf holds (59 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Allan Quatermain | have | PG 711, `haggard-allan-quatermain` (1138 units) |
+| Nada the Lily | have | PG 1207, `haggard-nada-the-lily` (1865 units) |
+| When the World Shook Being an Account of the Great Adventure of Bastin, Bickley and Arbuthnot | have | PG 1368, `haggard-when-the-world-shook-being-an-account-of-the-great-a` (2325 units) |
+| Marie: An Episode in the Life of the Late Allan Quatermain | have | PG 1690, `haggard-marie` (1932 units) |
+| Child of Storm | have | PG 1711, `haggard-child-of-storm` (1696 units) |
+| King Solomon's Mines | have | PG 2166, `haggard-king-solomons-mines` (1551 units) |
+| Queen Sheba's Ring | have | PG 2602, `haggard-queen-shebas-ring` (1749 units) |
+| Maiwa's Revenge; Or, The War of the Little Hand | have | PG 2713, `haggard-maiwas-revenge` (410 units) |
+| Eric Brighteyes | have | PG 2721, `haggard-eric-brighteyes` (2633 units) |
+| Morning Star | have | PG 2722, `haggard-morning-star` (1686 units) |
+| Allan's Wife | have | PG 2727, `haggard-allans-wife` (704 units) |
+| Hunter Quatermain's Story | have | PG 2728, `haggard-hunter-quatermains-story` (103 units) |
+| A Tale of Three Lions | have | PG 2729, `haggard-a-tale-of-three-lions` (152 units) |
+| Long Odds | have | PG 2730, `haggard-long-odds` (54 units) |
+| Benita, an African romance | have | PG 2761, `haggard-benita-an-african-romance` (1473 units) |
+| The Brethren | have | PG 2762, `haggard-brethren` (2774 units) |
+| The Mahatma and the Hare: A Dream Story | have | PG 2764, `haggard-mahatma-and-the-hare` (441 units) |
+| Cleopatra | have | PG 2769, `haggard-cleopatra` (1551 units) |
+| The Ivory Child | have | PG 2841, `haggard-ivory-child` (1800 units) |
+| Black Heart and White Heart: A Zulu Idyll | have | PG 2842, `haggard-black-heart-and-white-heart` (409 units) |
+| Elissa; Or, The Doom of Zimbabwe | have | PG 2855, `haggard-elissa` (1057 units) |
+| Moon of Israel: A Tale of the Exodus | have | PG 2856, `haggard-moon-of-israel` (1933 units) |
+| A Yellow God: An Idol of Africa | have | PG 2857, `haggard-a-yellow-god` (1607 units) |
+| The Wizard | have | PG 2893, `haggard-wizard` (1121 units) |
+| Red Eve | have | PG 3094, `haggard-red-eve` (2037 units) |
+| Beatrice | have | PG 3096, `haggard-beatrice` (2021 units) |
+| The Wanderer's Necklace | have | PG 3097, `haggard-wanderers-necklace` (1981 units) |
+| The Virgin of the Sun | have | PG 3153, `haggard-virgin-of-the-sun` (1677 units) |
+| She | have | PG 3155, `haggard-she` (1319 units) |
+| Love Eternal | have | PG 3709, `haggard-love-eternal` (1830 units) |
+| The Lady of Blossholme | have | PG 3813, `haggard-lady-of-blossholme` (1915 units) |
+| Swallow: A Tale of the Great Trek | have | PG 4074, `haggard-swallow` (1740 units) |
+| Allan and the Holy Flower | have | PG 5174, `haggard-allan-and-the-holy-flower` (2134 units) |
+| Pearl-Maiden: A Tale of the Fall of Jerusalem | have | PG 5175, `haggard-pearl-maiden` (2693 units) |
+| Ayesha, the Return of She | have | PG 5228, `haggard-ayesha-the-return-of-she` (2095 units) |
+| She and Allan | have | PG 5745, `haggard-she-and-allan` (2058 units) |
+| The Ancient Allan | have | PG 5746, `haggard-ancient-allan` (1681 units) |
+| Lysbeth, a Tale of the Dutch | have | PG 5754, `haggard-lysbeth-a-tale-of-the-dutch` (3085 units) |
+| Doctor Therne | have | PG 5764, `haggard-doctor-therne` (699 units) |
+| Jess | have | PG 5898, `haggard-jess` (1744 units) |
+| Stella Fregelius: A Tale of Three Destinies | have | PG 6051, `haggard-stella-fregelius` (1932 units) |
+| Smith and the Pharaohs, and other Tales | have | PG 6073, `haggard-smith-and-the-pharaohs-and-other-tales` (1562 units) |
+| The People of the Mist | have | PG 6769, `haggard-people-of-the-mist` (2886 units) |
+| The Ghost Kings | have | PG 8184, `haggard-ghost-kings` (2194 units) |
+| Cetywayo and his White Neighbours Remarks on Recent Events in Zululand, Natal, and the Transvaal | have | PG 8667, `haggard-cetywayo-and-his-white-neighbours-remarks-on-recent` (764 units) |
+| Fair Margaret | have | PG 9780, `haggard-fair-margaret` (1994 units) |
+| Dawn | have | PG 10892, `haggard-dawn` (3971 units) |
+| Colonel Quaritch, V.C.: A Tale of Country Life | have | PG 11882, `haggard-colonel-quaritch-v-c` (2117 units) |
+| Mr. Meeson's Will | have | PG 11913, `haggard-mr-meesons-will` (1086 units) |
+| Regeneration Being an Account of the Social Work of The Salvation Army in Great Britain | have | PG 13434, `haggard-regeneration-being-an-account-of-the-social-work-of` (842 units) |
+| The Last Boer War | have | PG 44649, `haggard-last-boer-war` (576 units) |
+| Wisdom's Daughter: The Life and Love Story of She-Who-Must-be-Obeyed | have | PG 59422, `haggard-wisdoms-daughter` (1972 units) |
+| Heart of the World | have | PG 65901, `haggard-heart-of-the-world` (2155 units) |
+| The Witch's Head | have | PG 65998, `haggard-witchs-head` (3036 units) |
+| Queen of the Dawn: A Love Tale of Old Egypt | have | PG 66095, `haggard-queen-of-the-dawn` (1917 units) |
+| Joan Haste | have | PG 66528, `haggard-joan-haste` (2765 units) |
+| The Spring of a Lion | have | PG 66915, `haggard-spring-of-a-lion` (50 units) |
+| The way of the spirit | have | PG 72906, `haggard-way-of-the-spirit` (1987 units) |
+| Heu-Heu, or The monster | have | PG 76643, `haggard-heu-heu-or-the-monster` (1328 units) |
+| haggard-index | excluded | PG 58163 is David Widger's index, not a text |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

@@ -1,0 +1,821 @@
+{
+ "_about": "H. Rider Haggard's adventure romances (She, King Solomon's Mines, the Allan Quatermain books) and the rest: every English text under his name at Gutenberg (catalogue: Haggard 1856-1925). The World's Desire, written with Andrew Lang, is on the lang shelf. Many describe African peoples in the terms of their time. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "H. Rider Haggard",
+ "_name_words": [
+  "haggard"
+ ],
+ "_surname": [
+  "h. rider haggard",
+  "henry rider haggard",
+  "rider haggard"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "haggard-allan-quatermain": [
+   711,
+   "Allan Quatermain",
+   {
+    "contents_only": true
+   }
+  ],
+  "haggard-nada-the-lily": [
+   1207,
+   "Nada the Lily"
+  ],
+  "haggard-when-the-world-shook-being-an-account-of-the-great-a": [
+   1368,
+   "When the World Shook Being an Account of the Great Adventure of Bastin, Bickley and Arbuthnot",
+   {
+    "contents_only": true
+   }
+  ],
+  "haggard-marie": [
+   1690,
+   "Marie: An Episode in the Life of the Late Allan Quatermain",
+   {
+    "contents_only": true
+   }
+  ],
+  "haggard-child-of-storm": [
+   1711,
+   "Child of Storm"
+  ],
+  "haggard-king-solomons-mines": [
+   2166,
+   "King Solomon's Mines",
+   {
+    "contents_only": true
+   }
+  ],
+  "haggard-queen-shebas-ring": [
+   2602,
+   "Queen Sheba's Ring"
+  ],
+  "haggard-maiwas-revenge": [
+   2713,
+   "Maiwa's Revenge; Or, The War of the Little Hand"
+  ],
+  "haggard-eric-brighteyes": [
+   2721,
+   "Eric Brighteyes",
+   {
+    "contents_only": true
+   }
+  ],
+  "haggard-morning-star": [
+   2722,
+   "Morning Star"
+  ],
+  "haggard-allans-wife": [
+   2727,
+   "Allan's Wife"
+  ],
+  "haggard-hunter-quatermains-story": [
+   2728,
+   "Hunter Quatermain's Story"
+  ],
+  "haggard-a-tale-of-three-lions": [
+   2729,
+   "A Tale of Three Lions"
+  ],
+  "haggard-long-odds": [
+   2730,
+   "Long Odds"
+  ],
+  "haggard-benita-an-african-romance": [
+   2761,
+   "Benita, an African romance"
+  ],
+  "haggard-brethren": [
+   2762,
+   "The Brethren",
+   {
+    "contents_only": true
+   }
+  ],
+  "haggard-mahatma-and-the-hare": [
+   2764,
+   "The Mahatma and the Hare: A Dream Story"
+  ],
+  "haggard-cleopatra": [
+   2769,
+   "Cleopatra"
+  ],
+  "haggard-ivory-child": [
+   2841,
+   "The Ivory Child"
+  ],
+  "haggard-black-heart-and-white-heart": [
+   2842,
+   "Black Heart and White Heart: A Zulu Idyll"
+  ],
+  "haggard-elissa": [
+   2855,
+   "Elissa; Or, The Doom of Zimbabwe"
+  ],
+  "haggard-moon-of-israel": [
+   2856,
+   "Moon of Israel: A Tale of the Exodus"
+  ],
+  "haggard-a-yellow-god": [
+   2857,
+   "A Yellow God: An Idol of Africa"
+  ],
+  "haggard-wizard": [
+   2893,
+   "The Wizard"
+  ],
+  "haggard-red-eve": [
+   3094,
+   "Red Eve"
+  ],
+  "haggard-beatrice": [
+   3096,
+   "Beatrice",
+   {
+    "contents_only": true
+   }
+  ],
+  "haggard-wanderers-necklace": [
+   3097,
+   "The Wanderer's Necklace"
+  ],
+  "haggard-virgin-of-the-sun": [
+   3153,
+   "The Virgin of the Sun"
+  ],
+  "haggard-she": [
+   3155,
+   "She"
+  ],
+  "haggard-love-eternal": [
+   3709,
+   "Love Eternal"
+  ],
+  "haggard-lady-of-blossholme": [
+   3813,
+   "The Lady of Blossholme"
+  ],
+  "haggard-swallow": [
+   4074,
+   "Swallow: A Tale of the Great Trek"
+  ],
+  "haggard-allan-and-the-holy-flower": [
+   5174,
+   "Allan and the Holy Flower"
+  ],
+  "haggard-pearl-maiden": [
+   5175,
+   "Pearl-Maiden: A Tale of the Fall of Jerusalem"
+  ],
+  "haggard-ayesha-the-return-of-she": [
+   5228,
+   "Ayesha, the Return of She"
+  ],
+  "haggard-she-and-allan": [
+   5745,
+   "She and Allan"
+  ],
+  "haggard-ancient-allan": [
+   5746,
+   "The Ancient Allan"
+  ],
+  "haggard-lysbeth-a-tale-of-the-dutch": [
+   5754,
+   "Lysbeth, a Tale of the Dutch"
+  ],
+  "haggard-doctor-therne": [
+   5764,
+   "Doctor Therne"
+  ],
+  "haggard-jess": [
+   5898,
+   "Jess"
+  ],
+  "haggard-stella-fregelius": [
+   6051,
+   "Stella Fregelius: A Tale of Three Destinies",
+   {
+    "contents_only": true
+   }
+  ],
+  "haggard-smith-and-the-pharaohs-and-other-tales": [
+   6073,
+   "Smith and the Pharaohs, and other Tales"
+  ],
+  "haggard-people-of-the-mist": [
+   6769,
+   "The People of the Mist"
+  ],
+  "haggard-ghost-kings": [
+   8184,
+   "The Ghost Kings"
+  ],
+  "haggard-cetywayo-and-his-white-neighbours-remarks-on-recent": [
+   8667,
+   "Cetywayo and his White Neighbours Remarks on Recent Events in Zululand, Natal, and the Transvaal"
+  ],
+  "haggard-fair-margaret": [
+   9780,
+   "Fair Margaret"
+  ],
+  "haggard-dawn": [
+   10892,
+   "Dawn"
+  ],
+  "haggard-colonel-quaritch-v-c": [
+   11882,
+   "Colonel Quaritch, V.C.: A Tale of Country Life"
+  ],
+  "haggard-mr-meesons-will": [
+   11913,
+   "Mr. Meeson's Will"
+  ],
+  "haggard-regeneration-being-an-account-of-the-social-work-of": [
+   13434,
+   "Regeneration Being an Account of the Social Work of The Salvation Army in Great Britain"
+  ],
+  "haggard-last-boer-war": [
+   44649,
+   "The Last Boer War"
+  ],
+  "haggard-wisdoms-daughter": [
+   59422,
+   "Wisdom's Daughter: The Life and Love Story of She-Who-Must-be-Obeyed"
+  ],
+  "haggard-heart-of-the-world": [
+   65901,
+   "Heart of the World",
+   {
+    "contents_only": true
+   }
+  ],
+  "haggard-witchs-head": [
+   65998,
+   "The Witch's Head"
+  ],
+  "haggard-queen-of-the-dawn": [
+   66095,
+   "Queen of the Dawn: A Love Tale of Old Egypt"
+  ],
+  "haggard-joan-haste": [
+   66528,
+   "Joan Haste",
+   {
+    "contents_only": true
+   }
+  ],
+  "haggard-spring-of-a-lion": [
+   66915,
+   "The Spring of a Lion"
+  ],
+  "haggard-way-of-the-spirit": [
+   72906,
+   "The way of the spirit",
+   {
+    "contents_only": true
+   }
+  ],
+  "haggard-heu-heu-or-the-monster": [
+   76643,
+   "Heu-Heu, or The monster"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "haggard-index": "PG 58163 is David Widger's index, not a text"
+ },
+ "_checks": {
+  "haggard-allan-quatermain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-nada-the-lily": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-when-the-world-shook-being-an-account-of-the-great-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-marie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-child-of-storm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-king-solomons-mines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-queen-shebas-ring": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-maiwas-revenge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-eric-brighteyes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-morning-star": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-allans-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-hunter-quatermains-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-a-tale-of-three-lions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-long-odds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-benita-an-african-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-brethren": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-mahatma-and-the-hare": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-cleopatra": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-ivory-child": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-black-heart-and-white-heart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-elissa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-moon-of-israel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-a-yellow-god": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-wizard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-red-eve": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-beatrice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-wanderers-necklace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-virgin-of-the-sun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-she": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-love-eternal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-lady-of-blossholme": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-swallow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-allan-and-the-holy-flower": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-pearl-maiden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-ayesha-the-return-of-she": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-she-and-allan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-ancient-allan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-lysbeth-a-tale-of-the-dutch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-doctor-therne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-jess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-stella-fregelius": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-smith-and-the-pharaohs-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-people-of-the-mist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-ghost-kings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-cetywayo-and-his-white-neighbours-remarks-on-recent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-fair-margaret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-dawn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-colonel-quaritch-v-c": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-mr-meesons-will": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-regeneration-being-an-account-of-the-social-work-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-last-boer-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-wisdoms-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-heart-of-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-witchs-head": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-queen-of-the-dawn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-joan-haste": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-spring-of-a-lion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-way-of-the-spirit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "haggard-heu-heu-or-the-monster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. rider haggard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

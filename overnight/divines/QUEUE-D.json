@@ -2341,6 +2341,14 @@
       "started": "2026-10-17T18:10:12-05:00",
       "finished": "2026-10-17T18:10:12-05:00",
       "notes": "collingwood: new shelf, 34 Gutenberg books, 33,877 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "haggard",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — H. Rider Haggard; no minting",
+      "status": "done",
+      "started": "2026-10-17T18:20:50-05:00",
+      "finished": "2026-10-17T18:20:50-05:00",
+      "notes": "haggard: new shelf, 59 Gutenberg books, 98,007 units, 986 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
