@@ -4017,6 +4017,8 @@ Shelf: `pipeline/marx-engels_shelf.json`. Kerr's Chicago translations and Eleano
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Feuerbach: the roots of the socialist philosophy (Chicago: Charles H. Kerr, 1903) | Austin Lewis | `engels-lewis-feuerbach-1903` | have (PG 27814) |
+| Landmarks of Scientific Socialism: "Anti-Duehring" (Chicago: Charles H. Kerr, 1907) | Austin Lewis | `engels-lewis-anti-duehring-1907` | have (PG 31933) |
 
 ## William James
 

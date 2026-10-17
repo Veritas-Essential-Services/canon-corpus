@@ -1,0 +1,59 @@
+{
+ "_about": "Karl Marx (1818-1883) and Friedrich Engels (1820-1895) in English, from Project Gutenberg: Engels's Feuerbach: the roots of the socialist philosophy (1903) and Landmarks of Scientific Socialism, the Anti-Dühring (1907), both translated by Austin Lewis (Chicago: Charles H. Kerr); Revolution and Counter-Revolution, or Germany in 1848, edited by Eleanor Marx Aveling (Kerr, 1912; the articles are Engels's, published under Marx's name, as the edition itself does); and Marx's Secret Diplomatic History of the Eighteenth Century, edited by Eleanor Marx Aveling (Swan Sonnenschein, 1899). The Communist Manifesto and Capital vol. I are on the Adler shelf and are not taken again. US public domain. No uids minted.",
+ "_author": "Karl Marx and Friedrich Engels",
+ "_name_words": [
+  "karl",
+  "marx",
+  "friedrich",
+  "frederick",
+  "engels"
+ ],
+ "_surname": [
+  "marx",
+  "engels"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "engels-lewis-feuerbach-1903": [
+   27814,
+   "Feuerbach: the roots of the socialist philosophy (Chicago: Charles H. Kerr, 1903)",
+   "tr. Austin Lewis"
+  ],
+  "engels-lewis-anti-duehring-1907": [
+   31933,
+   "Landmarks of Scientific Socialism: \"Anti-Duehring\" (Chicago: Charles H. Kerr, 1907)",
+   "tr. Austin Lewis"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "engels-lewis-feuerbach-1903": "Lewis",
+  "engels-lewis-anti-duehring-1907": "Lewis"
+ },
+ "_checks": {
+  "engels-lewis-feuerbach-1903": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marx",
+   "translator_claimed": "Lewis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Austin Lewis",
+   "translator_match": true
+  },
+  "engels-lewis-anti-duehring-1907": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "marx",
+   "translator_claimed": "Lewis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
