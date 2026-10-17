@@ -5632,3 +5632,16 @@ Slugs `ozanam-*`. Translators: Coates, Pychowska, Nellen and Craig; Glyn's name 
 | The 1868 London Civilization, other copies of the Letters, Dante and Franciscan Poets (Scribner 1914) | alternate | not shelved |
 | O'Meara, Dunn, Baunard and Horgan: works about him | excluded | |
 | 1969 reprints | excluded | |
+
+## Johann Adam Möhler (round 26, my pick, 2026-10-17)
+
+Slugs `moehler-*`. Translator: Robertson (Symbolism); Rymer's name is garbled on the Anselm title page.
+
+| Work | Status | Where |
+|---|---|---|
+| Symbolism, or Exposition of the Doctrinal Differences between Catholics and Protestants, tr. James Burton Robertson, vol. I (London: Charles Dolman, 1843) | have-ocr | IA `a593164201mohluoft` |
+| Symbolism, tr. James Burton Robertson, vol. II (London: Charles Dolman, 1843) | have-ocr | IA `a593164202mohluoft` |
+| The Life of St. Anselm, Archbishop of Canterbury, tr. Henry Rymer (London: T. Jones, 1842) | have-ocr | IA `lifestanselmarc00mhgoog` |
+| New York 1844, the second edition (1846-1847), Scribner 1894, Gibbings 1906 | alternate | not shelved |
+| Crossroad 1997 | excluded | |
+| German and French editions | excluded | |

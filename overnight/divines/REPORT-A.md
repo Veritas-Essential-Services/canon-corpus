@@ -1195,3 +1195,6 @@
 
 ## 2026-10-17 18:44 CDT — frederic-ozanam done
 - `pipeline/frederic-ozanam_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:44 CDT — johann-adam-moehler done
+- `pipeline/johann-adam-moehler_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
