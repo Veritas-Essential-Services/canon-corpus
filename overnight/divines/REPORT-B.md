@@ -912,3 +912,12 @@
 - james-ward-philosophy: Naturalism and Agnosticism (2 vols), Realm of Ends
 - l-t-hobhouse: Morals in Evolution (2 parts)
 - Held: Riddles of the Sphinx, Hobhouse's Theory of Knowledge (undated scans)
+
+## 2026-10-17 18:23 CDT — Round u: Cambridge Platonists, deists and natural religion
+- henry-more: 3 works 1653-1713
+- john-norris: Ideal World (2 parts, 1701-04)
+- william-wollaston: Religion of Nature Delineated (1738)
+- anthony-collins: Discourse of Free-Thinking (1713)
+- matthew-tindal: Christianity as Old as the Creation (1798)
+- abraham-tucker: Light of Nature Pursued (1840, 2 vols)
+- Held: Toland (scan with no legible year)
