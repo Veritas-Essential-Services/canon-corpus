@@ -2705,7 +2705,7 @@ Shelf: `pipeline/jameson_shelf.json` (2026-10-02; added at the coordinator's rel
 
 ## Katharine Pyle
 
-Shelf: `pipeline/katharine-pyle_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Fairy and folk tales retold for children, from many lands; cut by tale or chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/katharine-pyle_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Fairy tales and stories for children. All 13 of Katharine Pyle's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -2716,6 +2716,12 @@ Shelf: `pipeline/katharine-pyle_shelf.json` (2026-10-02; added at the coordinato
 | Tales of Folk and Fairies | have | PG 25913, `katharine-pyle-tales-of-folk-and-fairies` (1385 units) |
 | Wonder Tales from Many Lands | have | PG 48351, `katharine-pyle-wonder-tales-from-many-lands` (1370 units) |
 | Fairy Tales from Far and Near | have | PG 66919, `katharine-pyle-fairy-tales-from-far-and-near` (1254 units) |
+| Careless Jane and Other Tales | have | PG 24167, `katharine-careless-jane-and-other-tales` (214 units) |
+| Lazy Matilda, and Other Tales | have | PG 47283, `katharine-lazy-matilda-and-other-tales` (391 units) |
+| Six Little Ducklings | have | PG 48350, `katharine-six-little-ducklings` (290 units) |
+| Three Little Kittens | have | PG 48420, `katharine-three-little-kittens` (520 units) |
+| Once Upon a Time in Delaware (ed. Emily P. Bissell) | have | PG 48976, `katharine-once-upon-a-time-in-delaware` (643 units) |
+| The Black-Eyed Puppy | have | PG 62551, `katharine-black-eyed-puppy` (415 units) |
 
 ## Lewis Spence
 

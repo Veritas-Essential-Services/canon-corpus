@@ -217,7 +217,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `oconnor` | 1 Gutenberg | 0 | 827 | Folk Tales from Tibet (Hurst and Blackett, 1906). |
 | `russell` | 1 Gutenberg | 0 | 471 | Gleanings from Chinese Folklore (Revell; dedication dated January 1915). |
 | `jameson` | 2 Gutenberg | 0 | 3,486 | Sacred and Legendary Art vol. 1 (1870), Legends of the Madonna (1881 reprint). Volume 2 of Sacred and Legendary Art is not on Gutenberg. |
-| `katharine-pyle` | 7 Gutenberg | 0 | 8,810 | The Counterpane Fairy (1898), As the Goose Flies (1901), Fairy Tales from Many Lands (1911), Mother's Nursery Tales (1918), Tales of Folk and Fairies (1919), Wonder Tales from Many Lands (1920), Fairy Tales from Far and Near (1922). |
+| `katharine-pyle` | 13 Gutenberg | 0 | 11,283 | Fairy tales and stories for children. Completed 2026-10-17: 6 more books added, every English text by Katharine Pyle at Gutenberg that no other shelf holds. |
 | `spence` | 8 Gutenberg | 0 | 11,920 | The Popol Vuh (1908) and seven Myths and Legends books (1913-1920). |
 | `hearn` | 6 Gutenberg | 0 | 3,958 | Some Chinese Ghosts (1887), Shadowings (1900), Kotto (1903), Kwaidan (1904), The Romance of the Milky Way (1905), In Ghostly Japan. |
 | `mackenzie` | 4 Gutenberg | 0 | 8,194 | Elves and Heroes (1909), Myths of Babylonia and Assyria, Indian Myth and Legend, Myths of China and Japan (1923). |
