@@ -4454,3 +4454,52 @@ Slugs `havergal-*`. Devotional prose and three books of verse; Morning Bells is 
 | extract and birthday books compiled after her death (1886-1927) | excluded | |
 | Francis Tebbs, William Henry and Maria V. G. Havergal; Snepp's Songs of Grace and Glory | excluded | |
 | reprints of 1950-2011 | excluded | |
+
+## Henry Edward Manning (round 23, my pick, 2026-10-17)
+
+Slugs `manning-*`. Anglican Sermons from CCEL; from 1865 his title pages sign 'Henry Edward, Archbishop of Westminster' with no surname, so those forms are in the identity gate.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons, vol. I, second edition (London: James Burns, 1843) | have-clean | CCEL manning_henry/sermons01 |
+| Sermons, vol. II, fourth edition (London: William Pickering, 1848) | have-clean | CCEL manning_henry/sermons02 |
+| Sermons, vol. III (London: James Burns, 1847) | have-clean | CCEL manning_henry/sermons03 |
+| Sermons, vol. IV (London: William Pickering, 1850) | have-clean | CCEL manning_henry/sermons04 |
+| The Rule of Faith, a sermon preached in Chichester Cathedral, 13 June 1838 (London: Rivington; Oxford: Parker, 1838) | have-ocr | IA `a591821800mannuoft` |
+| The Unity of the Church (London: John Murray, 1842) | have-ocr | IA `a592045100mannuoft` |
+| Sermons Preached before the University of Oxford (Oxford: John Henry Parker, MDCCCXLIV) | have-ocr | IA `a591993900mannuoft` |
+| The Grounds of Faith: Four Lectures delivered in St. George's Church, Southwark (London: Burns and Lambert, 1852) | have-ocr | IA `a591675000mannuoft` |
+| The Temporal Power of the Vicar of Jesus Christ, second edition with a preface (London: Burns & Lambert, 1862) | have-ocr | IA `temporalpowerofv00mann_0` |
+| The Love of Jesus to Penitents (Dublin and London: James Duffy, 1863) | have-ocr | IA `TheLoveOfJesusToPenitents` |
+| The Workings of the Holy Spirit in the Church of England: a Letter to the Rev. E. B. Pusey (London: Longmans, Green, 1864) | have-ocr | IA `a636230400mannuoft` |
+| The Blessed Sacrament the Centre of Immutable Truth, a sermon (London: Longmans, Green; catalogued 1864) | have-ocr | IA `a591624300mannuoft` |
+| The Temporal Mission of the Holy Ghost: or, Reason and Revelation (London: Longmans, Green, 1865) | have-ocr | IA `a592004400mannuoft` |
+| England and Christendom (London: Longmans, Green, 1867) | have-ocr | IA `englandchristend00mannuoft` |
+| The Oecumenical Council and the Infallibility of the Roman Pontiff, a pastoral letter, second edition (London: Longmans, Green, 1869) | have-ocr | IA `theoecumenicalco00mannuoft` |
+| Sermons on Ecclesiastical Subjects, vol. I (London: Burns, Oates, 1870) | have-ocr | IA `a591990801mannuoft` |
+| Sermons on Ecclesiastical Subjects, vol. II (London: Burns, Oates, 1872) | have-ocr | IA `a591990802mannuoft` |
+| Sermons on Ecclesiastical Subjects, vol. III (London: Burns, Oates, 1873) | have-ocr | IA `a591990803mannuoft` |
+| The Vatican Council and its Definitions, a pastoral letter (London: Longmans, Green, 1870) | have-ocr | IA `cu31924029359332` |
+| Petri Privilegium: three pastoral letters (London: Longmans, Green, 1871) | have-ocr | IA `a591808200mannuoft` |
+| The Four Great Evils of the Day (London: Burns, Oates, 1871) | have-ocr | IA `fourgreatevils00mannuoft` |
+| The Fourfold Sovereignty of God (London: Burns, Oates, 1871) | have-ocr | IA `fourfoldsovreig00manngoog` |
+| Sin and its Consequences, second edition (London: Burns and Oates, 1874) | have-ocr | IA `sinanditsconseq00manngoog` |
+| The Vatican Decrees in their Bearing on Civil Allegiance (New York: The Catholic Publication Society, 1875) | have-ocr | IA `a592095700mannuoft` |
+| The Internal Mission of the Holy Ghost, second edition (London: Burns and Oates, 1875) | have-ocr | IA `a591682100mannuoft` |
+| The Glories of the Sacred Heart (London: Burns and Oates, 1876) | have-ocr | IA `a591669400mannuoft` |
+| Miscellanies, vol. I (London: Burns and Oates, 1877) | have-ocr | IA `a591790901mannuoft` |
+| Miscellanies, vol. II (London: Burns and Oates, 1877) | have-ocr | IA `a591790902mannuoft` |
+| Miscellanies, vol. III (London: Burns and Oates, 1888) | have-ocr | IA `a591790903mannuoft` |
+| The True Story of the Vatican Council (London: Henry S. King, 1877) | have-ocr | IA `truestoryvatica00manngoog` |
+| The Independence of the Holy See (London: Henry S. King, 1877) | have-ocr | IA `a591677800mannuoft` |
+| The Eternal Priesthood, fourth edition (London, 1884) | have-ocr | IA `cu31924029413220` |
+| Religio Viatoris, third edition (London: Burns and Oates, 1888) | have-ocr | IA `a591815600mannuoft` |
+| Pastime Papers (London: Burns & Oates; New York: Benziger; catalogued 1892) | have-ocr | IA `a591794700mannuoft` |
+| Scans of the Sermons: sermons0000henr_m1p2 (vol. I, 1842), a591826302mannuoft (vol. II, 1846), a591826303mannuoft (vol. III, 1847), a591826304mannuoft (vol. IV, 1850), and American reprints | alternate | not shelved |
+| Second copies: ruleoffaithsermo00mann, cu31924091302251, a591633200mannuoft, sermonsonecclesi00mannuoft (Dublin one-volume form, 1869), petriprivilegium00mannuoft, fourgreatevilsd01manngoog, a591666200mannuoft, a591995600mannuoft, internalmissiono00mann, truestoryofvatic00mannuoft, a591664000mannuoft and theeternalpriest00mannuoft, cu31924029405457 (Religio Viatoris 1887, name garbled), pastimepapers00mannuoft | alternate | not shelved |
+| single sermons and archidiaconal charges of the 1840s, left out as minor | alternate | not shelved |
+| CCEL manning_henry/grounds: states a 1843 print source, but its title page is the ninth edition as Cardinal Archbishop (1875 or later); the 1852 scan is shelved | excluded | |
+| Essays on Religion and Literature by various writers (1865, 1867); Characteristics compiled by W. S. Lilly; extract books compiled by others; translations he introduced | excluded | |
+| CCEL /ccel/manning is Bernard L. Manning | excluded | |
+| Purcell's Life and other biographies | excluded | |
+| reprints of 1900-1924 and foreign-language translations | excluded | |

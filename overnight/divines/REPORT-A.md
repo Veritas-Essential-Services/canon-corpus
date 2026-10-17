@@ -1021,3 +1021,6 @@
 
 ## 2026-10-17 17:22 CDT — frances-ridley-havergal done
 - `pipeline/frances-ridley-havergal_shelf.json`: 1 CCEL, 0 PG, 12 IA. Title pages read for havergal-little-pillows, havergal-morning-bells (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — henry-edward-manning done
+- `pipeline/henry-edward-manning_shelf.json`: 4 CCEL, 0 PG, 30 IA. Title pages read for manning-grounds-of-faith, manning-love-of-jesus, manning-blessed-sacrament-sermon, manning-fourfold-sovereignty, manning-sin-and-consequences, manning-glories-sacred-heart, manning-eternal-priesthood (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
