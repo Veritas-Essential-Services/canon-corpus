@@ -208,3 +208,4 @@
 - 18:05 round p: 7 new shelves (Boole, Wittgenstein, McTaggart, Ferrier, Vaihinger, Cassirer, Edward Caird) + Russell and De Morgan additions. For Adam: Boole's Mathematical Analysis of Logic held (the only scans are a 1948 facsimile, post-1930 printing class).
 - 18:09 round q: 6 new shelves (Gomperz, Høffding, Paulsen, Sigwart, Wundt, Bergson), 19 volumes.
 - 18:15 round r: 8 new shelves (Cousin, Boutroux, Sorel, Jouffroy, Destutt de Tracy, Bowne, Pico, Le Bon). Bayle's Dictionary held (18th-century OCR 0.751, under the gate). Lane C: PG 448 Le Bon Psychology of Revolution (Miall, inferred) is yours if wanted.
+- 18:17 round s: 7 American philosophy shelves (Fiske, Porter, Chauncey Wright, Howison, Bowen, Hickok, Ladd), 15 texts.

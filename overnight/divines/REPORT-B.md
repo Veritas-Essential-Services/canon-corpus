@@ -891,3 +891,12 @@
 - pico-della-mirandola: Platonick Discourse upon Love (Stanley, ed. Gardner 1914)
 - gustave-le-bon: The Crowd (PG 445); Psychology of Revolution (PG 448) left for lane C's bernard-miall
 - Held: Bayle's Dictionary (1734 English, OCR 0.751 under the 0.78 gate)
+
+## 2026-10-17 18:17 CDT — Round s: nineteenth-century American philosophy
+- john-fiske-philosophy: Cosmic Philosophy (2 vols) + 5 PG essay books
+- noah-porter: The Human Intellect (1869)
+- chauncey-wright: Philosophical Discussions (1877)
+- george-holmes-howison: Limits of Evolution (1901)
+- francis-bowen: Modern Philosophy (3rd ed.)
+- laurens-hickok: Rational Psychology (1854)
+- george-trumbull-ladd: 3 works 1889-1897
