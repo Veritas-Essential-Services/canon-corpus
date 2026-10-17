@@ -18,11 +18,17 @@
    "fathermalebranch00male",
    "Father Malebranche his Treatise concerning the Search after Truth, the whole work complete, 2nd ed., corrected (London, 1700)",
    "tr. T. Taylor"
+  ],
+  "malebranche-ginsberg-dialogues-1923": [
+   "dialoguesonmetap00male",
+   "Dialogues on Metaphysics and on Religion, translated with an introduction (London: Allen and Unwin, 1923)",
+   "tr. Morris Ginsberg"
   ]
  },
  "_excluded": {},
  "_translators": {
-  "malebranche-taylor-search-after-truth-1700": "Taylor"
+  "malebranche-taylor-search-after-truth-1700": "Taylor",
+  "malebranche-ginsberg-dialogues-1923": "Ginsberg"
  },
  "_checks": {
   "malebranche-taylor-search-after-truth-1700": {
@@ -35,6 +41,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1700",
    "ia_date": "1700",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "malebranche-ginsberg-dialogues-1923": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "malebranche",
+   "translator_claimed": "Ginsberg",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
