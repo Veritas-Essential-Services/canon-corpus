@@ -18243,13 +18243,144 @@ Shelf: `pipeline/mrs-o-f-walton_shelf.json` (2026-10-02; added at the coordinato
 
 ## W. H. G. Kingston
 
-Shelf: `pipeline/kingston_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Three sea stories for boys; cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/kingston_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Sea stories and adventure tales for boys. All 133 of W. H. G. Kingston's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | Peter the Whaler | have | PG 21474, `kingston-peter-the-whaler` (1545 units) |
 | The Three Midshipmen | have | PG 24812, `kingston-three-midshipmen` (1741 units) |
 | Mark Seaworth | have | PG 21477, `kingston-mark-seaworth` (1131 units) |
+| In the Rocky Mountains: A Tale of Adventure | have | PG 19419, `kingston-in-the-rocky-mountains` (1133 units) |
+| Adventures in Australia | have | PG 21383, `kingston-adventures-in-australia` (597 units) |
+| Afar in the Forest | have | PG 21384, `kingston-afar-in-the-forest` (1244 units) |
+| On the Banks of the Amazon | have | PG 21385, `kingston-on-the-banks-of-the-amazon` (1351 units) |
+| James Braithwaite, the Supercargo: The Story of his Adventures Ashore and Afloat | have | PG 21386, `kingston-james-braithwaite-the-supercargo` (600 units) |
+| In the Eastern Seas | have | PG 21387, `kingston-in-the-eastern-seas` (1752 units) |
+| Exiled for the Faith: A Tale of the Huguenot Persecution | have | PG 21388, `kingston-exiled-for-the-faith` (586 units) |
+| Ronald Morton; or, the Fire Ships: A Story of the Last Naval War | have | PG 21389, `kingston-ronald-morton` (2350 units) |
+| The Golden Grasshopper: A story of the days of Sir Thomas Gresham | have | PG 21390, `kingston-golden-grasshopper` (1320 units) |
+| Great African Travellers: From Mungo Park to Livingstone and Stanley | have | PG 21391, `kingston-great-african-travellers` (1948 units) |
+| Happy Jack, and Other Tales of the Sea | have | PG 21392, `kingston-happy-jack-and-other-tales-of-the-sea` (359 units) |
+| Hendricks the Hunter; Or, The Border Farm: A Tale of Zululand | have | PG 21393, `kingston-hendricks-the-hunter` (1548 units) |
+| The Last Look: A Tale of the Spanish Inquisition | have | PG 21395, `kingston-last-look` (260 units) |
+| The Three Lieutenants | have | PG 21396, `kingston-three-lieutenants` (2814 units) |
+| Manco, the Peruvian Chief Or, An Englishman's Adventures in the Country of the Incas | have | PG 21397, `kingston-manco-the-peruvian-chief` (1187 units) |
+| In New Granada; Or, Heroes and Patriots | have | PG 21401, `kingston-in-new-granada` (1156 units) |
+| Our Sailors: Gallant Deeds of the British Navy during Victoria's Reign | have | PG 21402, `kingston-our-sailors` (840 units) |
+| The Pirate of the Mediterranean: A Tale of the Sea | have | PG 21403, `kingston-pirate-of-the-mediterranean` (2551 units) |
+| From Powder Monkey to Admiral: A Story of Naval Adventure | have | PG 21404, `kingston-from-powder-monkey-to-admiral` (2833 units) |
+| The Loss of the Royal George | have | PG 21405, `kingston-loss-of-the-royal-george` (428 units) |
+| The Three Admirals | have | PG 21447, `kingston-three-admirals` (2808 units) |
+| The African Trader; Or, The Adventures of Harry Bayford | have | PG 21448, `kingston-african-trader` (339 units) |
+| With Axe and Rifle | have | PG 21449, `kingston-with-axe-and-rifle` (1344 units) |
+| Ben Burton: Born and Bred at Sea | have | PG 21450, `kingston-ben-burton` (732 units) |
+| Ben Hadden; or, Do Right Whatever Comes Of It | have | PG 21451, `kingston-ben-hadden` (475 units) |
+| Ernest Bracebridge: School Days | have | PG 21452, `kingston-ernest-bracebridge` (1128 units) |
+| Captain Mugford: Our Salt and Fresh Water Tutors | have | PG 21453, `kingston-captain-mugford` (761 units) |
+| The Seven Champions of Christendom | have | PG 21454, `kingston-seven-champions-of-christendom` (538 units) |
+| Dick Cheveley: His Adventures and Misadventures | have | PG 21455, `kingston-dick-cheveley` (1302 units) |
+| The Cruise of the "Dainty"; Or, Rovings in the Pacific | have | PG 21456, `kingston-cruise-of-the-dainty` (550 units) |
+| The Cruise of the Mary Rose; Or, Here and There in the Pacific | have | PG 21457, `kingston-cruise-of-the-mary-rose` (569 units) |
+| Charley Laurel: A Story of Adventure by Sea and Land | have | PG 21458, `kingston-charley-laurel` (1090 units) |
+| Dick Onslow Among the Redskins | have | PG 21459, `kingston-dick-onslow-among-the-redskins` (569 units) |
+| The Ferryman of Brill, and Other Stories | have | PG 21460, `kingston-ferryman-of-brill-and-other-stories` (388 units) |
+| Fred Markham in Russia; Or, The Boy Travellers in the Land of the Czar | have | PG 21461, `kingston-fred-markham-in-russia` (772 units) |
+| The Frontier Fort Or, Stirring Times in the North West Territory of British America | have | PG 21462, `kingston-frontier-fort` (601 units) |
+| Voyages and Travels of Count Funnibos and Baron Stilkin | have | PG 21463, `kingston-voyages-and-travels-of-count-funnibos-and-baron-sti` (873 units) |
+| The Gilpins and their Fortunes: A Story of Early Days in Australia | have | PG 21464, `kingston-gilpins-and-their-fortunes` (346 units) |
+| Hurricane Hurry | have | PG 21465, `kingston-hurricane-hurry` (1951 units) |
+| The Log House by the Lake: A Tale of Canada | have | PG 21467, `kingston-log-house-by-the-lake` (285 units) |
+| Marmaduke Merry: A Tale of Naval Adventures in Bygone Days | have | PG 21468, `kingston-marmaduke-merry` (1288 units) |
+| The Mate of the "Lily"; Or, Notes from Harry Musgrave's Log Book | have | PG 21469, `kingston-mate-of-the-lily` (522 units) |
+| The Missing Ship: The Log of the "Ouzel" Galley | have | PG 21470, `kingston-missing-ship` (2430 units) |
+| Mountain Moggy: The Stoning of the Witch | have | PG 21471, `kingston-mountain-moggy` (235 units) |
+| Ned Garth; Or, Made Prisoner in Africa: A Tale of the Slave Trade | have | PG 21472, `kingston-ned-garth` (917 units) |
+| Paddy Finn | have | PG 21473, `kingston-paddy-finn` (2640 units) |
+| Peter Trawl; Or, The Adventures of a Whaler | have | PG 21475, `kingston-peter-trawl` (2106 units) |
+| Salt Water: The Sea Life and Adventures of Neil D'Arcy the Midshipman | have | PG 21476, `kingston-salt-water` (1348 units) |
+| Snow Shoes and Canoes Or, The Early Days of a Fur-Trader in the Hudson Bay Territory | have | PG 21478, `kingston-snow-shoes-and-canoes` (1762 units) |
+| The South Sea Whaler | have | PG 21479, `kingston-south-sea-whaler` (1073 units) |
+| Sunshine Bill | have | PG 21480, `kingston-sunshine-bill` (803 units) |
+| True Blue | have | PG 21481, `kingston-true-blue` (1779 units) |
+| The Settlers: A Tale of Virginia | have | PG 21482, `kingston-settlers` (649 units) |
+| The Wanderers; Or, Adventures in the Wilds of Trinidad and Orinoco | have | PG 21483, `kingston-wanderers` (901 units) |
+| Roger Willoughby: A Story of the Times of Benbow | have | PG 21484, `kingston-roger-willoughby` (1252 units) |
+| The Young Rajah | have | PG 21485, `kingston-young-rajah` (822 units) |
+| The Woodcutter of Gutech | have | PG 21486, `kingston-woodcutter-of-gutech` (206 units) |
+| The Boy who sailed with Blake | have | PG 21487, `kingston-boy-who-sailed-with-blake` (890 units) |
+| Saved from the Sea; Or, The Loss of the Viper, and her Crew's Saharan Adventures | have | PG 21488, `kingston-saved-from-the-sea` (1078 units) |
+| The Two Supercargoes; Or, Adventures in Savage Africa | have | PG 21490, `kingston-two-supercargoes` (1180 units) |
+| The Trapper's Son | have | PG 21491, `kingston-trappers-son` (363 units) |
+| A True Hero: A Story of the Days of William Penn | have | PG 21492, `kingston-a-true-hero` (495 units) |
+| Twice Lost | have | PG 21493, `kingston-twice-lost` (1328 units) |
+| My First Voyage to Southern Seas | have | PG 21504, `kingston-my-first-voyage-to-southern-seas` (1106 units) |
+| Will Weatherhelm: The Yarn of an Old Sailor | have | PG 21505, `kingston-will-weatherhelm` (1949 units) |
+| The Young Llanero: A Story of War and Wild Life in Venezuela | have | PG 21506, `kingston-young-llanero` (1200 units) |
+| Paul Gerrard, the Cabin Boy | have | PG 21812, `kingston-paul-gerrard-the-cabin-boy` (1175 units) |
+| Adventures in the Far West | have | PG 21871, `kingston-adventures-in-the-far-west` (473 units) |
+| The History of Little Peter, the Ship Boy | have | PG 22944, `kingston-history-of-little-peter-the-ship-boy` (518 units) |
+| Adrift in a Boat | have | PG 23048, `kingston-adrift-in-a-boat` (519 units) |
+| Old Jack | have | PG 23049, `kingston-old-jack` (1569 units) |
+| Peter Biddulph: The Story of an Australian Settler | have | PG 23050, `kingston-peter-biddulph` (313 units) |
+| The Two Shipmates | have | PG 23051, `kingston-two-shipmates` (454 units) |
+| Our Soldiers: Gallant Deeds of the British Army during Victoria's Reign | have | PG 23052, `kingston-our-soldiers` (807 units) |
+| Stories of Animal Sagacity | have | PG 23067, `kingston-stories-of-animal-sagacity` (624 units) |
+| My First Cruise, and Other stories | have | PG 23068, `kingston-my-first-cruise-and-other-stories` (387 units) |
+| Janet McLaren, the Faithful Nurse | have | PG 23069, `kingston-janet-mclaren-the-faithful-nurse` (370 units) |
+| Clara Maynard; Or, The True and the False: A Tale of the Times | have | PG 23070, `kingston-clara-maynard` (491 units) |
+| The Rival Crusoes | have | PG 23071, `kingston-rival-crusoes` (1656 units) |
+| The Voyage of the "Steadfast": The Young Missionaries in the Pacific | have | PG 23072, `kingston-voyage-of-the-steadfast` (611 units) |
+| Villegagnon: A Tale of the Huguenot Persecution | have | PG 23073, `kingston-villegagnon` (588 units) |
+| A Voyage round the World A book for boys | have | PG 23074, `kingston-a-voyage-round-the-world-a-book-for-boys` (952 units) |
+| Michael Penguyne; Or, Fisher Life on the Cornish Coast | have | PG 23188, `kingston-michael-penguyne` (702 units) |
+| The Lily of Leyden | have | PG 23189, `kingston-lily-of-leyden` (294 units) |
+| Mary Liddiard; Or, The Missionary's Daughter | have | PG 23190, `kingston-mary-liddiard` (343 units) |
+| Count Ulrich of Lindburg: A Tale of the Reformation in Germany | have | PG 23191, `kingston-count-ulrich-of-lindburg` (245 units) |
+| The Two Whalers; Or, Adventures in the Pacific | have | PG 23260, `kingston-two-whalers` (290 units) |
+| The Heir of Kilfinnan: A Tale of the Shore and Ocean | have | PG 23269, `kingston-heir-of-kilfinnan` (992 units) |
+| John Deane of Nottingham: Historic Adventures by Land and Sea | have | PG 23273, `kingston-john-deane-of-nottingham` (1318 units) |
+| Tales of the Sea, and of Our Jack Tars | have | PG 23378, `kingston-tales-of-the-sea-and-of-our-jack-tars` (749 units) |
+| Archibald Hughson: An Arctic Story | have | PG 23383, `kingston-archibald-hughson` (363 units) |
+| Washed Ashore; Or, The Tower of Stormount Bay | have | PG 23387, `kingston-washed-ashore` (566 units) |
+| Notable Voyagers, From Columbus to Nordenskiold | have | PG 23494, `kingston-notable-voyagers-from-columbus-to-nordenskiold` (1944 units) |
+| How Britannia Came to Rule the Waves Updated to 1900 | have | PG 23496, `kingston-how-britannia-came-to-rule-the-waves-updated-to-190` (984 units) |
+| In the Wilds of Africa | have | PG 23503, `kingston-in-the-wilds-of-africa` (1526 units) |
+| The Story of Nelson also "The Grateful Indian", "The Boatswain's Son" | have | PG 23504, `kingston-story-of-nelson-also-the-grateful-indian-the-boatsw` (311 units) |
+| Adventures in Africa By an African Trader | have | PG 23575, `kingston-adventures-in-africa-by-an-african-trader` (553 units) |
+| Taking Tales: Instructive and Entertaining Reading | have | PG 23577, `kingston-taking-tales` (1362 units) |
+| Won from the Waves | have | PG 23602, `kingston-won-from-the-waves` (2667 units) |
+| Owen Hartley; or, Ups and Downs: A Tale of Land and Sea | have | PG 24502, `kingston-owen-hartley` (1312 units) |
+| In the Wilds of Florida: A Tale of Warfare and Hunting | have | PG 24547, `kingston-in-the-wilds-of-florida` (1215 units) |
+| The Grateful Indian, and Other Stories | have | PG 24662, `kingston-grateful-indian-and-other-stories` (769 units) |
+| The Voyages of the "Ranger" and "Crusader" And what befell their Passengers and Crews. | have | PG 24666, `kingston-voyages-of-the-ranger-and-crusader-and-what-befell` (1206 units) |
+| The Three Commanders | have | PG 24678, `kingston-three-commanders` (2346 units) |
+| The Western World Picturesque Sketches of Nature and Natural History in North and South America | have | PG 24715, `kingston-western-world-picturesque-sketches-of-nature-and-na` (1427 units) |
+| Captain Cook: His Life, Voyages, and Discoveries | have | PG 24755, `kingston-captain-cook` (625 units) |
+| A Yacht Voyage Round England | have | PG 25032, `kingston-a-yacht-voyage-round-england` (979 units) |
+| The Young Berringtons: The Boy Explorers | have | PG 25524, `kingston-young-berringtons` (772 units) |
+| Norman Vallery; or, How to Overcome Evil with Good | have | PG 25928, `kingston-norman-vallery` (1585 units) |
+| The Mines and its Wonders | have | PG 27918, `kingston-mines-and-its-wonders` (185 units) |
+| The Prime Minister | have | PG 34481, `kingston-prime-minister` (2779 units) |
+| Alone on an Island | have | PG 34483, `kingston-alone-on-an-island` (237 units) |
+| Waihoura, the Maori Girl | have | PG 34484, `kingston-waihoura-the-maori-girl` (488 units) |
+| The Circassian Chief: A Romance of Russia | have | PG 34485, `kingston-circassian-chief` (2516 units) |
+| Among the Red-skins; Or, Over the Rocky Mountains | have | PG 34486, `kingston-among-the-red-skins` (466 units) |
+| The Perils and Adventures of Harry Skipwith by Land and Sea | have | PG 34487, `kingston-perils-and-adventures-of-harry-skipwith-by-land-and` (781 units) |
+| The Cruise of the Frolic | have | PG 34488, `kingston-cruise-of-the-frolic` (1588 units) |
+| Antony Waymouth; Or, The Gentlemen Adventurers | have | PG 34489, `kingston-antony-waymouth` (824 units) |
+| Ralph Clavering; Or, We Must Try Before We Can Do | have | PG 34491, `kingston-ralph-clavering` (252 units) |
+| Rob Nixon, the Old White Trader: A Tale of Central British North America | have | PG 34495, `kingston-rob-nixon-the-old-white-trader` (102 units) |
+| Digby Heathcote: The Early Days of a Country Gentleman's Son and Heir | have | PG 34535, `kingston-digby-heathcote` (1700 units) |
+| Jovinian: A Story of the Early Days of Papal Rome | have | PG 35910, `kingston-jovinian` (490 units) |
+| Jack Buntline | have | PG 37256, `kingston-jack-buntline` (225 units) |
+| The School Friends; Or, Nothing New | have | PG 40688, `kingston-school-friends` (892 units) |
+| Off to Sea: The Adventures of Jovial Jack Junker on his Road to Fame | have | PG 40689, `kingston-off-to-sea` (483 units) |
+| Roger Kyffin's Ward | have | PG 40690, `kingston-roger-kyffins-ward` (1214 units) |
+| Kidnapping in the Pacific; Or, The Adventures of Boas Ringdon A long four-part Yarn | have | PG 40691, `kingston-kidnapping-in-the-pacific` (352 units) |
+| Foxholme Hall, and Other Tales | have | PG 40692, `kingston-foxholme-hall-and-other-tales` (1000 units) |
+| Arctic Adventures | have | PG 40693, `kingston-arctic-adventures` (517 units) |
+| Blue Jackets | have | PG 79475, `kingston-blue-jackets` (1202 units) |
+| kingston-repeat-21466 | excluded | PG 21466, In the Rocky Mountains: a second transcription of PG 19419, which is taken |
 
 ## Mayne Reid
 

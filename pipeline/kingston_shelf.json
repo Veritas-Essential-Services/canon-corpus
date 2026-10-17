@@ -1,5 +1,5 @@
 {
- "_about": "W. H. G. Kingston's sea stories for boys: Peter the Whaler, The Three Midshipmen and Mark Seaworth (all undated in the text; Nick Hodson's transcriptions, whose short modern note at the head stays in the front matter). His translation of The Swiss Family Robinson is on Lane D's wyss shelf. Gutenberg catalogue: Kingston 1814-1880. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_about": "W. H. G. Kingston's sea stories for boys: Peter the Whaler, The Three Midshipmen and Mark Seaworth (all undated in the text; Nick Hodson's transcriptions, whose short modern note at the head stays in the front matter). His translation of The Swiss Family Robinson is on Lane D's wyss shelf. Gutenberg catalogue: Kingston 1814-1880. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto). On 2026-10-17 every other English text by W. H. G. Kingston at Gutenberg was added (130 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (1) and shared or misattributed files are listed in _excluded.",
  "_author": "W. H. G. Kingston",
  "_name_words": [
   "whaler",
@@ -52,14 +52,554 @@
     "start": "CHAPTER ONE\\.$",
     "front": true
    }
+  ],
+  "kingston-in-the-rocky-mountains": [
+   19419,
+   "In the Rocky Mountains: A Tale of Adventure"
+  ],
+  "kingston-adventures-in-australia": [
+   21383,
+   "Adventures in Australia"
+  ],
+  "kingston-afar-in-the-forest": [
+   21384,
+   "Afar in the Forest"
+  ],
+  "kingston-on-the-banks-of-the-amazon": [
+   21385,
+   "On the Banks of the Amazon"
+  ],
+  "kingston-james-braithwaite-the-supercargo": [
+   21386,
+   "James Braithwaite, the Supercargo: The Story of his Adventures Ashore and Afloat"
+  ],
+  "kingston-in-the-eastern-seas": [
+   21387,
+   "In the Eastern Seas"
+  ],
+  "kingston-exiled-for-the-faith": [
+   21388,
+   "Exiled for the Faith: A Tale of the Huguenot Persecution"
+  ],
+  "kingston-ronald-morton": [
+   21389,
+   "Ronald Morton; or, the Fire Ships: A Story of the Last Naval War"
+  ],
+  "kingston-golden-grasshopper": [
+   21390,
+   "The Golden Grasshopper: A story of the days of Sir Thomas Gresham"
+  ],
+  "kingston-great-african-travellers": [
+   21391,
+   "Great African Travellers: From Mungo Park to Livingstone and Stanley"
+  ],
+  "kingston-happy-jack-and-other-tales-of-the-sea": [
+   21392,
+   "Happy Jack, and Other Tales of the Sea"
+  ],
+  "kingston-hendricks-the-hunter": [
+   21393,
+   "Hendricks the Hunter; Or, The Border Farm: A Tale of Zululand"
+  ],
+  "kingston-last-look": [
+   21395,
+   "The Last Look: A Tale of the Spanish Inquisition"
+  ],
+  "kingston-three-lieutenants": [
+   21396,
+   "The Three Lieutenants"
+  ],
+  "kingston-manco-the-peruvian-chief": [
+   21397,
+   "Manco, the Peruvian Chief Or, An Englishman's Adventures in the Country of the Incas"
+  ],
+  "kingston-in-new-granada": [
+   21401,
+   "In New Granada; Or, Heroes and Patriots"
+  ],
+  "kingston-our-sailors": [
+   21402,
+   "Our Sailors: Gallant Deeds of the British Navy during Victoria's Reign"
+  ],
+  "kingston-pirate-of-the-mediterranean": [
+   21403,
+   "The Pirate of the Mediterranean: A Tale of the Sea"
+  ],
+  "kingston-from-powder-monkey-to-admiral": [
+   21404,
+   "From Powder Monkey to Admiral: A Story of Naval Adventure"
+  ],
+  "kingston-loss-of-the-royal-george": [
+   21405,
+   "The Loss of the Royal George"
+  ],
+  "kingston-three-admirals": [
+   21447,
+   "The Three Admirals"
+  ],
+  "kingston-african-trader": [
+   21448,
+   "The African Trader; Or, The Adventures of Harry Bayford"
+  ],
+  "kingston-with-axe-and-rifle": [
+   21449,
+   "With Axe and Rifle"
+  ],
+  "kingston-ben-burton": [
+   21450,
+   "Ben Burton: Born and Bred at Sea"
+  ],
+  "kingston-ben-hadden": [
+   21451,
+   "Ben Hadden; or, Do Right Whatever Comes Of It"
+  ],
+  "kingston-ernest-bracebridge": [
+   21452,
+   "Ernest Bracebridge: School Days"
+  ],
+  "kingston-captain-mugford": [
+   21453,
+   "Captain Mugford: Our Salt and Fresh Water Tutors"
+  ],
+  "kingston-seven-champions-of-christendom": [
+   21454,
+   "The Seven Champions of Christendom"
+  ],
+  "kingston-dick-cheveley": [
+   21455,
+   "Dick Cheveley: His Adventures and Misadventures"
+  ],
+  "kingston-cruise-of-the-dainty": [
+   21456,
+   "The Cruise of the \"Dainty\"; Or, Rovings in the Pacific"
+  ],
+  "kingston-cruise-of-the-mary-rose": [
+   21457,
+   "The Cruise of the Mary Rose; Or, Here and There in the Pacific"
+  ],
+  "kingston-charley-laurel": [
+   21458,
+   "Charley Laurel: A Story of Adventure by Sea and Land"
+  ],
+  "kingston-dick-onslow-among-the-redskins": [
+   21459,
+   "Dick Onslow Among the Redskins"
+  ],
+  "kingston-ferryman-of-brill-and-other-stories": [
+   21460,
+   "The Ferryman of Brill, and Other Stories"
+  ],
+  "kingston-fred-markham-in-russia": [
+   21461,
+   "Fred Markham in Russia; Or, The Boy Travellers in the Land of the Czar"
+  ],
+  "kingston-frontier-fort": [
+   21462,
+   "The Frontier Fort Or, Stirring Times in the North West Territory of British America"
+  ],
+  "kingston-voyages-and-travels-of-count-funnibos-and-baron-sti": [
+   21463,
+   "Voyages and Travels of Count Funnibos and Baron Stilkin"
+  ],
+  "kingston-gilpins-and-their-fortunes": [
+   21464,
+   "The Gilpins and their Fortunes: A Story of Early Days in Australia"
+  ],
+  "kingston-hurricane-hurry": [
+   21465,
+   "Hurricane Hurry"
+  ],
+  "kingston-log-house-by-the-lake": [
+   21467,
+   "The Log House by the Lake: A Tale of Canada"
+  ],
+  "kingston-marmaduke-merry": [
+   21468,
+   "Marmaduke Merry: A Tale of Naval Adventures in Bygone Days"
+  ],
+  "kingston-mate-of-the-lily": [
+   21469,
+   "The Mate of the \"Lily\"; Or, Notes from Harry Musgrave's Log Book"
+  ],
+  "kingston-missing-ship": [
+   21470,
+   "The Missing Ship: The Log of the \"Ouzel\" Galley"
+  ],
+  "kingston-mountain-moggy": [
+   21471,
+   "Mountain Moggy: The Stoning of the Witch"
+  ],
+  "kingston-ned-garth": [
+   21472,
+   "Ned Garth; Or, Made Prisoner in Africa: A Tale of the Slave Trade"
+  ],
+  "kingston-paddy-finn": [
+   21473,
+   "Paddy Finn"
+  ],
+  "kingston-peter-trawl": [
+   21475,
+   "Peter Trawl; Or, The Adventures of a Whaler"
+  ],
+  "kingston-salt-water": [
+   21476,
+   "Salt Water: The Sea Life and Adventures of Neil D'Arcy the Midshipman"
+  ],
+  "kingston-snow-shoes-and-canoes": [
+   21478,
+   "Snow Shoes and Canoes Or, The Early Days of a Fur-Trader in the Hudson Bay Territory"
+  ],
+  "kingston-south-sea-whaler": [
+   21479,
+   "The South Sea Whaler"
+  ],
+  "kingston-sunshine-bill": [
+   21480,
+   "Sunshine Bill"
+  ],
+  "kingston-true-blue": [
+   21481,
+   "True Blue"
+  ],
+  "kingston-settlers": [
+   21482,
+   "The Settlers: A Tale of Virginia"
+  ],
+  "kingston-wanderers": [
+   21483,
+   "The Wanderers; Or, Adventures in the Wilds of Trinidad and Orinoco"
+  ],
+  "kingston-roger-willoughby": [
+   21484,
+   "Roger Willoughby: A Story of the Times of Benbow"
+  ],
+  "kingston-young-rajah": [
+   21485,
+   "The Young Rajah"
+  ],
+  "kingston-woodcutter-of-gutech": [
+   21486,
+   "The Woodcutter of Gutech"
+  ],
+  "kingston-boy-who-sailed-with-blake": [
+   21487,
+   "The Boy who sailed with Blake"
+  ],
+  "kingston-saved-from-the-sea": [
+   21488,
+   "Saved from the Sea; Or, The Loss of the Viper, and her Crew's Saharan Adventures"
+  ],
+  "kingston-two-supercargoes": [
+   21490,
+   "The Two Supercargoes; Or, Adventures in Savage Africa"
+  ],
+  "kingston-trappers-son": [
+   21491,
+   "The Trapper's Son"
+  ],
+  "kingston-a-true-hero": [
+   21492,
+   "A True Hero: A Story of the Days of William Penn"
+  ],
+  "kingston-twice-lost": [
+   21493,
+   "Twice Lost"
+  ],
+  "kingston-my-first-voyage-to-southern-seas": [
+   21504,
+   "My First Voyage to Southern Seas"
+  ],
+  "kingston-will-weatherhelm": [
+   21505,
+   "Will Weatherhelm: The Yarn of an Old Sailor"
+  ],
+  "kingston-young-llanero": [
+   21506,
+   "The Young Llanero: A Story of War and Wild Life in Venezuela"
+  ],
+  "kingston-paul-gerrard-the-cabin-boy": [
+   21812,
+   "Paul Gerrard, the Cabin Boy"
+  ],
+  "kingston-adventures-in-the-far-west": [
+   21871,
+   "Adventures in the Far West"
+  ],
+  "kingston-history-of-little-peter-the-ship-boy": [
+   22944,
+   "The History of Little Peter, the Ship Boy"
+  ],
+  "kingston-adrift-in-a-boat": [
+   23048,
+   "Adrift in a Boat"
+  ],
+  "kingston-old-jack": [
+   23049,
+   "Old Jack"
+  ],
+  "kingston-peter-biddulph": [
+   23050,
+   "Peter Biddulph: The Story of an Australian Settler"
+  ],
+  "kingston-two-shipmates": [
+   23051,
+   "The Two Shipmates"
+  ],
+  "kingston-our-soldiers": [
+   23052,
+   "Our Soldiers: Gallant Deeds of the British Army during Victoria's Reign"
+  ],
+  "kingston-stories-of-animal-sagacity": [
+   23067,
+   "Stories of Animal Sagacity"
+  ],
+  "kingston-my-first-cruise-and-other-stories": [
+   23068,
+   "My First Cruise, and Other stories"
+  ],
+  "kingston-janet-mclaren-the-faithful-nurse": [
+   23069,
+   "Janet McLaren, the Faithful Nurse"
+  ],
+  "kingston-clara-maynard": [
+   23070,
+   "Clara Maynard; Or, The True and the False: A Tale of the Times"
+  ],
+  "kingston-rival-crusoes": [
+   23071,
+   "The Rival Crusoes"
+  ],
+  "kingston-voyage-of-the-steadfast": [
+   23072,
+   "The Voyage of the \"Steadfast\": The Young Missionaries in the Pacific"
+  ],
+  "kingston-villegagnon": [
+   23073,
+   "Villegagnon: A Tale of the Huguenot Persecution"
+  ],
+  "kingston-a-voyage-round-the-world-a-book-for-boys": [
+   23074,
+   "A Voyage round the World A book for boys"
+  ],
+  "kingston-michael-penguyne": [
+   23188,
+   "Michael Penguyne; Or, Fisher Life on the Cornish Coast"
+  ],
+  "kingston-lily-of-leyden": [
+   23189,
+   "The Lily of Leyden"
+  ],
+  "kingston-mary-liddiard": [
+   23190,
+   "Mary Liddiard; Or, The Missionary's Daughter"
+  ],
+  "kingston-count-ulrich-of-lindburg": [
+   23191,
+   "Count Ulrich of Lindburg: A Tale of the Reformation in Germany"
+  ],
+  "kingston-two-whalers": [
+   23260,
+   "The Two Whalers; Or, Adventures in the Pacific"
+  ],
+  "kingston-heir-of-kilfinnan": [
+   23269,
+   "The Heir of Kilfinnan: A Tale of the Shore and Ocean"
+  ],
+  "kingston-john-deane-of-nottingham": [
+   23273,
+   "John Deane of Nottingham: Historic Adventures by Land and Sea"
+  ],
+  "kingston-tales-of-the-sea-and-of-our-jack-tars": [
+   23378,
+   "Tales of the Sea, and of Our Jack Tars"
+  ],
+  "kingston-archibald-hughson": [
+   23383,
+   "Archibald Hughson: An Arctic Story"
+  ],
+  "kingston-washed-ashore": [
+   23387,
+   "Washed Ashore; Or, The Tower of Stormount Bay"
+  ],
+  "kingston-notable-voyagers-from-columbus-to-nordenskiold": [
+   23494,
+   "Notable Voyagers, From Columbus to Nordenskiold"
+  ],
+  "kingston-how-britannia-came-to-rule-the-waves-updated-to-190": [
+   23496,
+   "How Britannia Came to Rule the Waves Updated to 1900"
+  ],
+  "kingston-in-the-wilds-of-africa": [
+   23503,
+   "In the Wilds of Africa"
+  ],
+  "kingston-story-of-nelson-also-the-grateful-indian-the-boatsw": [
+   23504,
+   "The Story of Nelson also \"The Grateful Indian\", \"The Boatswain's Son\""
+  ],
+  "kingston-adventures-in-africa-by-an-african-trader": [
+   23575,
+   "Adventures in Africa By an African Trader"
+  ],
+  "kingston-taking-tales": [
+   23577,
+   "Taking Tales: Instructive and Entertaining Reading"
+  ],
+  "kingston-won-from-the-waves": [
+   23602,
+   "Won from the Waves"
+  ],
+  "kingston-owen-hartley": [
+   24502,
+   "Owen Hartley; or, Ups and Downs: A Tale of Land and Sea"
+  ],
+  "kingston-in-the-wilds-of-florida": [
+   24547,
+   "In the Wilds of Florida: A Tale of Warfare and Hunting"
+  ],
+  "kingston-grateful-indian-and-other-stories": [
+   24662,
+   "The Grateful Indian, and Other Stories"
+  ],
+  "kingston-voyages-of-the-ranger-and-crusader-and-what-befell": [
+   24666,
+   "The Voyages of the \"Ranger\" and \"Crusader\" And what befell their Passengers and Crews."
+  ],
+  "kingston-three-commanders": [
+   24678,
+   "The Three Commanders"
+  ],
+  "kingston-western-world-picturesque-sketches-of-nature-and-na": [
+   24715,
+   "The Western World Picturesque Sketches of Nature and Natural History in North and South America"
+  ],
+  "kingston-captain-cook": [
+   24755,
+   "Captain Cook: His Life, Voyages, and Discoveries"
+  ],
+  "kingston-a-yacht-voyage-round-england": [
+   25032,
+   "A Yacht Voyage Round England"
+  ],
+  "kingston-young-berringtons": [
+   25524,
+   "The Young Berringtons: The Boy Explorers"
+  ],
+  "kingston-norman-vallery": [
+   25928,
+   "Norman Vallery; or, How to Overcome Evil with Good"
+  ],
+  "kingston-mines-and-its-wonders": [
+   27918,
+   "The Mines and its Wonders"
+  ],
+  "kingston-prime-minister": [
+   34481,
+   "The Prime Minister"
+  ],
+  "kingston-alone-on-an-island": [
+   34483,
+   "Alone on an Island"
+  ],
+  "kingston-waihoura-the-maori-girl": [
+   34484,
+   "Waihoura, the Maori Girl"
+  ],
+  "kingston-circassian-chief": [
+   34485,
+   "The Circassian Chief: A Romance of Russia",
+   {
+    "levels": [
+     {
+      "re": "Volume [0-9], Chapter [IVXL]+\\.$"
+     }
+    ],
+    "start": "Volume 1, Chapter I\\.$",
+    "front": true
+   }
+  ],
+  "kingston-among-the-red-skins": [
+   34486,
+   "Among the Red-skins; Or, Over the Rocky Mountains"
+  ],
+  "kingston-perils-and-adventures-of-harry-skipwith-by-land-and": [
+   34487,
+   "The Perils and Adventures of Harry Skipwith by Land and Sea"
+  ],
+  "kingston-cruise-of-the-frolic": [
+   34488,
+   "The Cruise of the Frolic"
+  ],
+  "kingston-antony-waymouth": [
+   34489,
+   "Antony Waymouth; Or, The Gentlemen Adventurers"
+  ],
+  "kingston-ralph-clavering": [
+   34491,
+   "Ralph Clavering; Or, We Must Try Before We Can Do"
+  ],
+  "kingston-rob-nixon-the-old-white-trader": [
+   34495,
+   "Rob Nixon, the Old White Trader: A Tale of Central British North America"
+  ],
+  "kingston-digby-heathcote": [
+   34535,
+   "Digby Heathcote: The Early Days of a Country Gentleman's Son and Heir"
+  ],
+  "kingston-jovinian": [
+   35910,
+   "Jovinian: A Story of the Early Days of Papal Rome"
+  ],
+  "kingston-jack-buntline": [
+   37256,
+   "Jack Buntline"
+  ],
+  "kingston-school-friends": [
+   40688,
+   "The School Friends; Or, Nothing New"
+  ],
+  "kingston-off-to-sea": [
+   40689,
+   "Off to Sea: The Adventures of Jovial Jack Junker on his Road to Fame",
+   {
+    "levels": [
+     {
+      "re": "Chapter [A-Z][a-z]+(?:[- ][A-Za-z]+)*\\. .{1,80}$"
+     }
+    ],
+    "start": "Chapter One\\. ",
+    "front": true
+   }
+  ],
+  "kingston-roger-kyffins-ward": [
+   40690,
+   "Roger Kyffin's Ward"
+  ],
+  "kingston-kidnapping-in-the-pacific": [
+   40691,
+   "Kidnapping in the Pacific; Or, The Adventures of Boas Ringdon A long four-part Yarn"
+  ],
+  "kingston-foxholme-hall-and-other-tales": [
+   40692,
+   "Foxholme Hall, and Other Tales"
+  ],
+  "kingston-arctic-adventures": [
+   40693,
+   "Arctic Adventures"
+  ],
+  "kingston-blue-jackets": [
+   79475,
+   "Blue Jackets"
   ]
  },
  "internet_archive": {},
- "_excluded": {},
+ "_excluded": {
+  "kingston-repeat-21466": "PG 21466, In the Rocky Mountains: a second transcription of PG 19419, which is taken"
+ },
  "_checks": {
   "kingston-peter-the-whaler": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "william henry giles kingston",
    "identity": "ok",
@@ -68,7 +608,7 @@
   },
   "kingston-three-midshipmen": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "william henry giles kingston",
    "identity": "ok",
@@ -77,7 +617,1177 @@
   },
   "kingston-mark-seaworth": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-in-the-rocky-mountains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-adventures-in-australia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-afar-in-the-forest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-on-the-banks-of-the-amazon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-james-braithwaite-the-supercargo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-in-the-eastern-seas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-exiled-for-the-faith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-ronald-morton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-golden-grasshopper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-great-african-travellers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-happy-jack-and-other-tales-of-the-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-hendricks-the-hunter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-last-look": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-three-lieutenants": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-manco-the-peruvian-chief": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-in-new-granada": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-our-sailors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-pirate-of-the-mediterranean": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-from-powder-monkey-to-admiral": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-loss-of-the-royal-george": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-three-admirals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-african-trader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-with-axe-and-rifle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-ben-burton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-ben-hadden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-ernest-bracebridge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-captain-mugford": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-seven-champions-of-christendom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-dick-cheveley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-cruise-of-the-dainty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-cruise-of-the-mary-rose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-charley-laurel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-dick-onslow-among-the-redskins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-ferryman-of-brill-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-fred-markham-in-russia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-frontier-fort": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-voyages-and-travels-of-count-funnibos-and-baron-sti": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-gilpins-and-their-fortunes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-hurricane-hurry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-log-house-by-the-lake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-marmaduke-merry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-mate-of-the-lily": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-missing-ship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-mountain-moggy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-ned-garth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-paddy-finn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-peter-trawl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-salt-water": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-snow-shoes-and-canoes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-south-sea-whaler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-sunshine-bill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-true-blue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-settlers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-wanderers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-roger-willoughby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-young-rajah": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-woodcutter-of-gutech": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-boy-who-sailed-with-blake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-saved-from-the-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-two-supercargoes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-trappers-son": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-a-true-hero": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-twice-lost": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-my-first-voyage-to-southern-seas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-will-weatherhelm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-young-llanero": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-paul-gerrard-the-cabin-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-adventures-in-the-far-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-history-of-little-peter-the-ship-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-adrift-in-a-boat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-old-jack": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-peter-biddulph": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-two-shipmates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-our-soldiers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-stories-of-animal-sagacity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-my-first-cruise-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-janet-mclaren-the-faithful-nurse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-clara-maynard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-rival-crusoes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-voyage-of-the-steadfast": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-villegagnon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-a-voyage-round-the-world-a-book-for-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-michael-penguyne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-lily-of-leyden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-mary-liddiard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-count-ulrich-of-lindburg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-two-whalers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-heir-of-kilfinnan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-john-deane-of-nottingham": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-tales-of-the-sea-and-of-our-jack-tars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-archibald-hughson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-washed-ashore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-notable-voyagers-from-columbus-to-nordenskiold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-how-britannia-came-to-rule-the-waves-updated-to-190": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-in-the-wilds-of-africa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-story-of-nelson-also-the-grateful-indian-the-boatsw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-adventures-in-africa-by-an-african-trader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-taking-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-won-from-the-waves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-owen-hartley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-in-the-wilds-of-florida": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-grateful-indian-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-voyages-of-the-ranger-and-crusader-and-what-befell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-three-commanders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-western-world-picturesque-sketches-of-nature-and-na": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-captain-cook": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-a-yacht-voyage-round-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-young-berringtons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-norman-vallery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-mines-and-its-wonders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-prime-minister": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-alone-on-an-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-waihoura-the-maori-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-circassian-chief": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-among-the-red-skins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-perils-and-adventures-of-harry-skipwith-by-land-and": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-cruise-of-the-frolic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-antony-waymouth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-ralph-clavering": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-rob-nixon-the-old-white-trader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-digby-heathcote": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-jovinian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-jack-buntline": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-school-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-off-to-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-roger-kyffins-ward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-kidnapping-in-the-pacific": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-foxholme-hall-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-arctic-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-blue-jackets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "william henry giles kingston",
    "identity": "ok",

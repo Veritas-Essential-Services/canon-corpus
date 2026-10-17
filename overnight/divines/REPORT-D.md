@@ -978,3 +978,6 @@
 
 ## 2026-10-17 17:01 CDT — mary-martha-sherwood: done
 - 1/1 fetched (Gutenberg 29725), 2,940 units, 0 ~2 ids.
+
+## 2026-10-17 17:17 CDT — kingston: done
+- kingston: completed, 130 more Gutenberg books (133 on the shelf), 136,262 units, 924 ~2 ids; verify 0 mismatches, 0 rights flags.
