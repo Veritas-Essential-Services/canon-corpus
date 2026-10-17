@@ -3320,6 +3320,14 @@
       "finished": "2026-10-17T17:02-05:00",
       "scope": "Scott Moncrieff shelf gap-fill from period IA scans; no minting",
       "notes": "+2 (The Captive 1929, Lauzun 1928). See DIGEST-C round 54."
+    },
+    {
+      "id": "shelf-broadway-library",
+      "status": "done",
+      "started": "2026-10-17T17:09-05:00",
+      "finished": "2026-10-17T17:09-05:00",
+      "scope": "TRANSLATOR SHELF (round 55, lane C's choice; Adam may veto) -- broadway-library; PD printings before 1931 only; no minting",
+      "notes": "5 titles; ids checked across all branches. See DIGEST-C round 55. No uids minted."
     }
   ]
 }

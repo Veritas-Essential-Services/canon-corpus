@@ -183,3 +183,5 @@
 - 2026-10-17T16:58-05:00: round 53: maude +8 (Anna Karenina, Essays and Letters, Sevastopol, Confession, Hadji Murad, First Step, Pamphlets). --verify --record 0 mismatched.
 
 - 2026-10-17T17:02-05:00: round 54: scott-moncrieff +2 (The Captive, Lauzun). --verify --record 0 mismatched.
+
+- 2026-10-17T17:09-05:00: round 55: broadway-library (5). --verify --record 0 mismatched. Also +1 aldington (Voltaire and Frederick), +1 emilie-jackson (Mercier).

@@ -1,0 +1,260 @@
+{
+ "_about": "SERIES SHELF of one-off translators: the Broadway Library of XVIII Century French Literature (George Routledge & Sons, 1926-1930), edited by Richard Aldington with a general introduction by Edmund Gosse. Each volume's own series list names its translator, so every title here was matched to its translator by that list and the title page, read in the OCR. Because every volume prints the WHOLE series list, the per-title name gate passes trivially and is not evidence on its own. Diderot's Dialogues (Birrell), Crébillon's The Sofa (Dobrée), the Prince de Ligne (Leigh Ashton), the Private Life of Richelieu (F. S. Flint) and the Memoirs of the Bastille (Mills Whitham), first editions of 1927. Aldington's own volume (Voltaire and Frederick) is on the aldington shelf, Emilie Jackson's (Mercier) on emilie-jackson, and Scott Moncrieff's (Lauzun) on scott-moncrieff. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 55); Adam may veto. No uids minted.",
+ "_name_words": [
+  "ashton",
+  "birrell",
+  "bonamy dobree",
+  "bonamy dobrée",
+  "dobree",
+  "dobrée",
+  "f. s. flint",
+  "flint",
+  "francis birrell",
+  "leigh ashton",
+  "mills whitham",
+  "whitham"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "ashton",
+  "birrell",
+  "bonamy dobree",
+  "bonamy dobrée",
+  "dobree",
+  "dobrée",
+  "f. s. flint",
+  "flint",
+  "francis birrell",
+  "leigh ashton",
+  "mills whitham",
+  "whitham"
+ ],
+ "_surname_by_slug": {
+  "bwl-diderot-dialogues": [
+   "birrell",
+   "francis birrell"
+  ],
+  "bwl-crebillon-sofa": [
+   "bonamy dobree",
+   "bonamy dobrée",
+   "dobree",
+   "dobrée"
+  ],
+  "bwl-ligne": [
+   "ashton",
+   "leigh ashton"
+  ],
+  "bwl-richelieu": [
+   "f. s. flint",
+   "flint"
+  ],
+  "bwl-bastille": [
+   "mills whitham",
+   "whitham"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bwl-diderot-dialogues": [
+   "in.ernet.dli.2015.84138",
+   "Diderot, Dialogues (Routledge, 1927)",
+   "2015.84138.Dialogues_djvu.txt"
+  ],
+  "bwl-crebillon-sofa": [
+   "in.ernet.dli.2015.186140",
+   "Crébillon fils, The Sofa: A Moral Tale (Routledge, 1927)",
+   "2015.186140.The-Sofa-A-Moral-Tale_djvu.txt"
+  ],
+  "bwl-ligne": [
+   "lettersmemoirsof0000leig",
+   "Letters and Memoirs of the Prince de Ligne (Routledge, 1927)"
+  ],
+  "bwl-richelieu": [
+   "privatelifeofmar0000fsfl",
+   "The Private Life of the Marshal Duke of Richelieu (Routledge, 1927)"
+  ],
+  "bwl-bastille": [
+   "memoirsofbastill0000latu",
+   "Memoirs of the Bastille, by Latude and Linguet (Routledge, 1927)"
+  ]
+ },
+ "titles": {
+  "broadway-diderot-dialogues": {
+   "source": "bwl-diderot-dialogues",
+   "of": "Denis Diderot",
+   "work": "Dialogues",
+   "translated": 1927,
+   "translator": "Francis Birrell",
+   "scan_edition": "George Routledge & Sons, London, in the Broadway Library of XVIII Century French Literature, edited by Richard Aldington; 'First published in 1927'; Digital Library of India scan"
+  },
+  "broadway-crebillon-the-sofa": {
+   "source": "bwl-crebillon-sofa",
+   "of": "Claude-Prosper Jolyot de Crébillon (Crébillon fils)",
+   "work": "The Sofa: A Moral Tale",
+   "translated": 1927,
+   "translator": "Bonamy Dobrée",
+   "scan_edition": "George Routledge & Sons, London, in the Broadway Library of XVIII Century French Literature, edited by Richard Aldington; 'First published in 1927'; Digital Library of India scan",
+   "note": "A libertine 18th-century conte; frank but not explicit."
+  },
+  "broadway-ligne-letters-and-memoirs": {
+   "source": "bwl-ligne",
+   "of": "Charles-Joseph, Prince de Ligne",
+   "work": "Letters and Memoirs of the Prince de Ligne",
+   "translated": 1927,
+   "translator": "Leigh Ashton",
+   "scan_edition": "George Routledge & Sons, London, in the Broadway Library of XVIII Century French Literature, edited by Richard Aldington; 'First published in 1927'",
+   "note": "The only post-1930 year in its front matter, 2026, is the Internet Archive digitisation year."
+  },
+  "broadway-private-life-of-richelieu": {
+   "source": "bwl-richelieu",
+   "of": "anonymous (La Vie privée du maréchal de Richelieu, 1791)",
+   "work": "The Private Life of the Marshal Duke of Richelieu",
+   "translated": 1927,
+   "translator": "F. S. Flint",
+   "scan_edition": "George Routledge & Sons, London, in the Broadway Library of XVIII Century French Literature, edited by Richard Aldington; 'First published in 1927'",
+   "note": "The only post-1930 year in its front matter, 2026, is the Internet Archive digitisation year."
+  },
+  "broadway-memoirs-of-the-bastille": {
+   "source": "bwl-bastille",
+   "of": "Jean Henri Latude and Simon-Nicolas-Henri Linguet",
+   "work": "Memoirs of the Bastille",
+   "translated": 1927,
+   "translator": "J. and S. F. Mills Whitham",
+   "scan_edition": "George Routledge & Sons, London, in the Broadway Library of XVIII Century French Literature, edited by Richard Aldington; 'First published in 1927.'"
+  }
+ },
+ "_pending": {
+  "broadway-marmontel": "Memoirs of Marmontel, tr. Brigit Patmore (Routledge, 1930; archive.org memoirsofmarmont00marm): a 1930 printing, so it waits on the 1930 ruling.",
+  "broadway-rousseau-reveries": "The Reveries of a Solitary, tr. John Gould Fletcher (Routledge, 1927; archive.org dli.ministry.22007, undated scan): Rousseau has another lane's shelf (rousseau), so it is left for that lane.",
+  "broadway-not-found": "No open scan found (searched 2026-10-17): Diderot's Memoirs of a Nun (Birrell, 1928), Madame du Hausset's Memoirs of Madame de Pompadour (Flint, 1928), Crébillon/Voisenon/Montesquieu short stories (Jackson), Joubert (H. P. Collins), Madame de Staal-Delaunay (Raymond Mortimer), the September Massacres (Partridge), Paradis de Moncrif's Zeloide (Scott Moncrieff), Lespinasse (Mills), Madame d'Epinay (Allingham), Voltaire and du Deffand."
+ },
+ "_excluded": {},
+ "_checks": {
+  "bwl-diderot-dialogues": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "birrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bwl-crebillon-sofa": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bonamy dobree",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bwl-ligne": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ashton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bwl-richelieu": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. flint",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bwl-bastille": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mills whitham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "bwl-diderot-dialogues": {
+   "ia": "in.ernet.dli.2015.84138",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1778,
+    1789,
+    1792,
+    1796,
+    1830,
+    1927
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "bwl-crebillon-sofa": {
+   "ia": "in.ernet.dli.2015.186140",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1699,
+    1778,
+    1927
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "bwl-ligne": {
+   "ia": "lettersmemoirsof0000leig",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1792,
+    1803,
+    1807,
+    1809,
+    1812,
+    1927
+   ],
+   "post_1930_years_in_front_15k": [
+    2026
+   ]
+  },
+  "bwl-richelieu": {
+   "ia": "privatelifeofmar0000fsfl",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1792,
+    1832,
+    1869,
+    1918,
+    1926,
+    1927
+   ],
+   "post_1930_years_in_front_15k": [
+    2026
+   ]
+  },
+  "bwl-bastille": {
+   "ia": "memoirsofbastill0000latu",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1866,
+    1892,
+    1893,
+    1898,
+    1904,
+    1927
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Richard Aldington (1892-1962) as translator: Cyrano de Bergerac's Voyages to the Moon and the Sun (1923), Benda's The Great Betrayal (1928) and Sologub's The Little Demon (1916, with John Cournos). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Richard Aldington (1892-1962) as translator: Cyrano de Bergerac's Voyages to the Moon and the Sun (1923), Benda's The Great Betrayal (1928) and Sologub's The Little Demon (1916, with John Cournos), and the Letters of Voltaire and Frederick the Great (1927, round 55). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
  "_name_words": [
   "richard aldington"
  ],
@@ -22,7 +22,12 @@
    "The great betrayal (La trahison des clercs)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "aldington-voltaire-frederick": [
+   "lettersofvoltair0000rich",
+   "Letters of Voltaire and Frederick the Great (Routledge, Broadway Library, 1927)"
+  ]
+ },
  "titles": {
   "aldington-benda-the-great-betrayal-la-trahison-des-clerc": {
    "source": "ald-78218",
@@ -47,15 +52,26 @@
    "translated": "1916-1928 (see the Gutenberg header)",
    "translator": "Richard Aldington (with John Cournos)",
    "scan_edition": "Project Gutenberg 48912 (clean text)"
+  },
+  "aldington-letters-of-voltaire-and-frederick": {
+   "source": "aldington-voltaire-frederick",
+   "of": "Voltaire and Frederick the Great",
+   "work": "Letters of Voltaire and Frederick the Great",
+   "translated": 1927,
+   "translator": "Richard Aldington",
+   "scan_edition": "George Routledge & Sons, London, in the Broadway Library of XVIII Century French Literature, edited by Richard Aldington, 1927 (Internet Archive's date; the scan's own front matter carries no imprint year, and the Broadway Library was not reissued before the 1930s, checked only by the series list)",
+   "note": "Raw OCR."
   }
  },
- "_pending": {},
+ "_pending": {
+  "aldington-dangerous-acquaintances": "Laclos, Dangerous Acquaintances (Les Liaisons dangereuses), tr. Richard Aldington (Routledge, 1924): the only open scan (archive.org dli.ministry.01293) carries no imprint date, so its printing cannot be shown to be before 1931."
+ },
  "_excluded": {},
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "ald-48912": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "richard aldington",
    "identity": "ok",
@@ -64,7 +80,7 @@
   },
   "ald-74000": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "richard aldington",
    "identity": "ok",
@@ -73,12 +89,23 @@
   },
   "ald-78218": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "richard aldington",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Richard Aldington"
+  },
+  "aldington-voltaire-frederick": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "richard aldington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -96,6 +123,19 @@
    "pg": 78218,
    "pg_copyrighted_marker": false,
    "pg_translator": "Richard Aldington"
+  },
+  "aldington-voltaire-frederick": {
+   "ia": "lettersofvoltair0000rich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1750,
+    1751,
+    1759,
+    1778,
+    1789,
+    1792
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

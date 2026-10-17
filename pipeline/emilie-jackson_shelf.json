@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Emilie Jackson, Mrs. Wilfrid Jackson (1873-1963): Anatole France for John Lane: The Gods are Athirst (1913), The Revolt of the Angels (1914) and The Opinions of Jérôme Coignard (1913). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Emilie Jackson, Mrs. Wilfrid Jackson (1873-1963): Anatole France for John Lane: The Gods are Athirst (1913), The Revolt of the Angels (1914) and The Opinions of Jérôme Coignard (1913); and Mercier's The Picture of Paris (Broadway Library, 1929; round 55). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
  "_name_words": [
   "mrs. wilfrid jackson",
   "wilfrid jackson",
@@ -26,7 +26,12 @@
    "The opinions of Jérôme Coignard"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "jackson-mercier": [
+   "pictureofparisbe0000loui",
+   "Mercier, The Picture of Paris before and after the Revolution (Routledge, Broadway Library, 1929)"
+  ]
+ },
  "titles": {
   "emilie-jackson-france-the-gods-are-athirst": {
    "source": "eja-24010",
@@ -51,6 +56,15 @@
    "translated": "1913-1914 (see the Gutenberg header)",
    "translator": "Mrs. Wilfrid Jackson",
    "scan_edition": "Project Gutenberg 32596 (clean text)"
+  },
+  "emilie-jackson-mercier-picture-of-paris": {
+   "source": "jackson-mercier",
+   "of": "Louis-Sébastien Mercier",
+   "work": "The Picture of Paris before and after the Revolution",
+   "translated": 1929,
+   "translator": "Wilfrid and Emilie Jackson",
+   "scan_edition": "George Routledge & Sons, London, in the Broadway Library of XVIII Century French Literature, edited by Richard Aldington; 'First published in 1929'",
+   "note": "Raw OCR."
   }
  },
  "_pending": {},
@@ -59,7 +73,7 @@
  "_checks": {
   "eja-24010": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "mrs. wilfrid jackson",
    "identity": "ok",
@@ -68,7 +82,7 @@
   },
   "eja-32596": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "mrs. wilfrid jackson",
    "identity": "ok",
@@ -77,12 +91,23 @@
   },
   "eja-74713": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "mrs. wilfrid jackson",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Emilie Jackson"
+  },
+  "jackson-mercier": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -100,7 +125,25 @@
    "pg": 74713,
    "pg_copyrighted_marker": false,
    "pg_translator": "Emilie Jackson"
+  },
+  "jackson-mercier": {
+   "ia": "pictureofparisbe0000loui",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1781,
+    1788,
+    1792,
+    1794,
+    1814,
+    1929
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "jackson-mercier": {
+   "author": "The volume's series list reads 'THE PICTURE OF PARIS. By L. S. Mercier. Translated by Witrrip and Emruie Jackson' (OCR of 'Wilfrid and Emilie Jackson'), and it also lists 'Translated by Em1t1e JAcKsON' for another title: the name is there, mangled by the OCR. Checked by eye 2026-10-17."
+  }
+ }
 }

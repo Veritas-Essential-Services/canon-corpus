@@ -10544,6 +10544,8 @@ Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `aldington-benda-the-great-betrayal-la-trahison-des-clerc` | Julien Benda | The great betrayal (La trahison des clercs) | Richard Aldington | 1916-1928 (see the Gutenberg header) | have | PG 78218 |
 | `aldington-bergerac-voyages-to-the-moon-and-the-sun` | Cyrano de Bergerac | Voyages to the Moon and the Sun | Richard Aldington | 1916-1928 (see the Gutenberg header) | have | PG 74000 |
 | `aldington-sologub-the-little-demon` | Fyodor Sologub | The Little Demon | Richard Aldington (with John Cournos) | 1916-1928 (see the Gutenberg header) | have | PG 48912 |
+| `aldington-letters-of-voltaire-and-frederick` | Voltaire and Frederick the Great | Letters of Voltaire and Frederick the Great | Richard Aldington | 1927 | have-raw | IA `lettersofvoltair0000rich` |
+| `aldington-dangerous-acquaintances` | — | Laclos, Dangerous Acquaintances (Les Liaisons dangereuses), tr. Richard Aldington (Routledge, 1924): the only open scan (archive.org dli.ministry.01293) carries no imprint date, so its printing cannot be shown to be before 1931. | — | — | pending | — |
 
 ## L. Dora Schmitz (Haeckel's History of Creation, 2 vols)
 
@@ -10577,6 +10579,7 @@ Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `emilie-jackson-france-the-gods-are-athirst` | Anatole France | The Gods are Athirst | Mrs. Wilfrid Jackson | 1913-1914 (see the Gutenberg header) | have | PG 24010 |
 | `emilie-jackson-france-the-opinions-of-jerome-coignard` | Anatole France | The opinions of Jérôme Coignard | Mrs. Wilfrid Jackson | 1913-1914 (see the Gutenberg header) | have | PG 74713 |
 | `emilie-jackson-france-the-revolt-of-the-angels` | Anatole France | The Revolt of the Angels | Mrs. Wilfrid Jackson | 1913-1914 (see the Gutenberg header) | have | PG 32596 |
+| `emilie-jackson-mercier-picture-of-paris` | Louis-Sébastien Mercier | The Picture of Paris before and after the Revolution | Wilfrid and Emilie Jackson | 1929 | have-raw | IA `pictureofparisbe0000loui` |
 
 ## Cranstoun Metcalfe (Fantomas; two Verne novels)
 
@@ -14118,6 +14121,22 @@ Round 52 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `singles-remainder-tocqueville-the-state-of-society-in-france-before-th` | Alexis de Tocqueville | The State of Society in France Before the Revolution of 1789 And the Causes Which Led to That Event | Henry Reeve | (see the Gutenberg header) | have | PG 54187 |
 | `singles-remainder-unknown-the-descent-of-the-sun` | F. W. Bain (presented as from a Sanskrit manuscript) | The descent of the sun: A cycle of birth | F. W. Bain | (see the Gutenberg header) | have | PG 68641 |
 | `singles-remainder-vallery-radot-the-life-of-pasteur` | René Vallery-Radot | The life of Pasteur | R. L. Devonshire | (see the Gutenberg header) | have | PG 60956 |
+
+## Series shelf: the Broadway Library of XVIII Century French Literature (Routledge, ed. Aldington, 1927): Diderot's Dialogues, Crébillon's The Sofa, the Prince de Ligne, Richelieu, the Memoirs of the Bastille
+
+Shelf: `pipeline/broadway-library_shelf.json` · fetch `python3 pipeline/fetch_shelf.py broadway-library` · titles `python3 pipeline/split_shelf_titles.py broadway-library`.
+Round 55 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `broadway-diderot-dialogues` | Denis Diderot | Dialogues | Francis Birrell | 1927 | have-raw | IA `in.ernet.dli.2015.84138` |
+| `broadway-crebillon-the-sofa` | Claude-Prosper Jolyot de Crébillon (Crébillon fils) | The Sofa: A Moral Tale | Bonamy Dobrée | 1927 | have-raw | IA `in.ernet.dli.2015.186140` |
+| `broadway-ligne-letters-and-memoirs` | Charles-Joseph, Prince de Ligne | Letters and Memoirs of the Prince de Ligne | Leigh Ashton | 1927 | have-raw | IA `lettersmemoirsof0000leig` |
+| `broadway-private-life-of-richelieu` | anonymous (La Vie privée du maréchal de Richelieu, 1791) | The Private Life of the Marshal Duke of Richelieu | F. S. Flint | 1927 | have-raw | IA `privatelifeofmar0000fsfl` |
+| `broadway-memoirs-of-the-bastille` | Jean Henri Latude and Simon-Nicolas-Henri Linguet | Memoirs of the Bastille | J. and S. F. Mills Whitham | 1927 | have-raw | IA `memoirsofbastill0000latu` |
+| `broadway-marmontel` | — | Memoirs of Marmontel, tr. Brigit Patmore (Routledge, 1930; archive.org memoirsofmarmont00marm): a 1930 printing, so it waits on the 1930 ruling. | — | — | pending | — |
+| `broadway-rousseau-reveries` | — | The Reveries of a Solitary, tr. John Gould Fletcher (Routledge, 1927; archive.org dli.ministry.22007, undated scan): Rousseau has another lane's shelf (rousseau), so it is left for that lane. | — | — | pending | — |
+| `broadway-not-found` | — | No open scan found (searched 2026-10-17): Diderot's Memoirs of a Nun (Birrell, 1928), Madame du Hausset's Memoirs of Madame de Pompadour (Flint, 1928), Crébillon/Voisenon/Montesquieu short stories (Jackson), Joubert (H. P. Collins), Madame de Staal-Delaunay (Raymond Mortimer), the September Massacres (Partridge), Paradis de Moncrif's Zeloide (Scott Moncrieff), Lespinasse (Mills), Madame d'Epinay (Allingham), Voltaire and du Deffand. | — | — | pending | — |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
