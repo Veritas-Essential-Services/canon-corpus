@@ -6324,6 +6324,53 @@ Shelf: `pipeline/burt-standish_shelf.json` (2026-10-17; added at the coordinator
 | Lefty o' the Blue Stockings | have | PG 76584, `bstandish-lefty-o-the-blue-stockings` (1584 units) |
 | Lefty o' the training camp | have | PG 77754, `bstandish-lefty-o-the-training-camp` (1311 units) |
 
+## H. Irving Hancock
+
+Shelf: `pipeline/irving-hancock_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series for boys (Dick Prescott, the Motor Boat Boys, the Young Engineers). Every English text under the name at Gutenberg that no other shelf holds (40 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Dick Prescott's First Year at West Point; Or, Two Chums in the Cadet Gray | have | PG 6426, `ihancock-dick-prescotts-first-year-at-west-point` (1466 units) |
+| The Young Engineers in Arizona; or, Laying Tracks on the Man-killer Quicksand | have | PG 8153, `ihancock-young-engineers-in-arizona` (1937 units) |
+| Dave Darrin's Second Year at Annapolis Or, Two Midshipmen as Naval Academy "Youngsters" | have | PG 10045, `ihancock-dave-darrins-second-year-at-annapolis` (1785 units) |
+| Dave Darrin's Third Year at Annapolis; Or, Leaders of the Second Class Midshipmen | have | PG 10319, `ihancock-dave-darrins-third-year-at-annapolis` (1977 units) |
+| The High School Freshmen; or, Dick & Co.'s First Year Pranks and Sports | have | PG 12689, `ihancock-high-school-freshmen` (1890 units) |
+| The High School Pitcher; or, Dick & Co. on the Gridley Diamond | have | PG 12690, `ihancock-high-school-pitcher` (1843 units) |
+| The High School Left End; or, Dick & Co. Grilling on the Football Gridiron | have | PG 12691, `ihancock-high-school-left-end` (1896 units) |
+| The High School Captain of the Team; or, Dick & Co. Leading the Athletic Vanguard | have | PG 12692, `ihancock-high-school-captain-of-the-team` (1788 units) |
+| The High School Boys' Canoe Club | have | PG 12728, `ihancock-high-school-boys-canoe-club` (2018 units) |
+| The High School Boys in Summer Camp | have | PG 12729, `ihancock-high-school-boys-in-summer-camp` (2019 units) |
+| The High School Boys' Fishing Trip | have | PG 12730, `ihancock-high-school-boys-fishing-trip` (1948 units) |
+| The High School Boys' Training Hike | have | PG 12731, `ihancock-high-school-boys-training-hike` (1926 units) |
+| The Young Engineers in Colorado; Or, At Railroad Building in Earnest | have | PG 12734, `ihancock-young-engineers-in-colorado` (1904 units) |
+| The Grammar School Boys in Summer Athletics | have | PG 12735, `ihancock-grammar-school-boys-in-summer-athletics` (2068 units) |
+| Dave Darrin's First Year at Annapolis Two Plebe Midshipmen at the United States Naval Academy | have | PG 12774, `ihancock-dave-darrins-first-year-at-annapolis-two-plebe-mids` (1961 units) |
+| Dave Darrin's Fourth Year at Annapolis: Headed for Graduation and the Big Cruise | have | PG 12775, `ihancock-dave-darrins-fourth-year-at-annapolis` (2044 units) |
+| Dave Darrin at Vera Cruz: Fighting with the U.S. Navy in Mexico | have | PG 12776, `ihancock-dave-darrin-at-vera-cruz` (1849 units) |
+| The Young Engineers in Nevada; Or, Seeking Fortune on the Turn of a Pick | have | PG 12777, `ihancock-young-engineers-in-nevada` (2160 units) |
+| The Young Engineers in Mexico; Or, Fighting the Mine Swindlers | have | PG 12778, `ihancock-young-engineers-in-mexico` (1780 units) |
+| Dick Prescott's Third Year at West Point; Or, Standing Firm for Flag and Honor | have | PG 12806, `ihancock-dick-prescotts-third-year-at-west-point` (1864 units) |
+| Dick Prescott's Fourth Year at West Point Or, Ready to Drop the Gray for Shoulder Straps | have | PG 12807, `ihancock-dick-prescotts-fourth-year-at-west-point` (1843 units) |
+| Uncle Sam's Boys with Pershing's Troops Or, Dick Prescott at Grips with the Boche | have | PG 12810, `ihancock-uncle-sams-boys-with-pershings-troops` (1720 units) |
+| Dick Prescott's Second Year at West Point Or, Finding the Glory of the Soldier's Life | have | PG 12819, `ihancock-dick-prescotts-second-year-at-west-point` (1894 units) |
+| The Young Engineers on the Gulf Or, The Dread Mystery of the Million Dollar Breakwater | have | PG 14369, `ihancock-young-engineers-on-the-gulf` (1879 units) |
+| The Grammar School Boys Snowbound; or, Dick & Co. at Winter Sports | have | PG 20789, `ihancock-grammar-school-boys-snowbound` (2289 units) |
+| The Grammar School Boys of Gridley; or, Dick & Co. Start Things Moving | have | PG 22307, `ihancock-grammar-school-boys-of-gridley` (2405 units) |
+| Dave Darrin on Mediterranean Service; or, With Dan Dalzell on European Duty | have | PG 22431, `ihancock-dave-darrin-on-mediterranean-service` (1997 units) |
+| Dave Darrin After the Mine Layers; Or, Hitting the Enemy a Hard Naval Blow | have | PG 23036, `ihancock-dave-darrin-after-the-mine-layers` (2025 units) |
+| Uncle Sam's Boys in the Philippines; or, Following the Flag against the Moros | have | PG 23447, `ihancock-uncle-sams-boys-in-the-philippines` (2080 units) |
+| Uncle Sam's Boys as Lieutenants; or, Serving Old Glory as Line Officers | have | PG 26381, `ihancock-uncle-sams-boys-as-lieutenants` (2011 units) |
+| Uncle Sam's Boys as Sergeants; or, Handling Their First Real Commands | have | PG 27679, `ihancock-uncle-sams-boys-as-sergeants` (2228 units) |
+| Uncle Sam's Boys in the Ranks; or, Two Recruits in the United States Army | have | PG 27680, `ihancock-uncle-sams-boys-in-the-ranks` (2344 units) |
+| The Motor Boat Club and The Wireless; Or, the Dot, Dash and Dare Cruise | have | PG 28449, `ihancock-motor-boat-club-and-the-wireless` (1879 units) |
+| The Motor Boat Club at Nantucket; or, The Mystery of the Dunstan Heir | have | PG 40605, `ihancock-motor-boat-club-at-nantucket` (1703 units) |
+| Dave Darrin and the German Submarines Or, Making a Clean-up of the Hun Sea Monsters | have | PG 41628, `ihancock-dave-darrin-and-the-german-submarines` (1845 units) |
+| Dave Darrin on the Asiatic Station Or, Winning Lieutenants' Commissions on the Admiral's Flagship | have | PG 41661, `ihancock-dave-darrin-on-the-asiatic-station` (1640 units) |
+| The Motor Boat Club in Florida; or, Laying the Ghost of Alligator Swamp | have | PG 48459, `ihancock-motor-boat-club-in-florida` (1870 units) |
+| The Motor Boat Club off Long Island; or, A Daring Marine Game at Racing Speed | have | PG 48863, `ihancock-motor-boat-club-off-long-island` (1679 units) |
+| The Motor Boat Club at the Golden Gate; or, A Thrilling Capture in the Great Fog | have | PG 49030, `ihancock-motor-boat-club-at-the-golden-gate` (1848 units) |
+| Uncle Sam's Boys on Field Duty; or, Winning Corporal's Chevrons | have | PG 52755, `ihancock-uncle-sams-boys-on-field-duty` (2264 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
