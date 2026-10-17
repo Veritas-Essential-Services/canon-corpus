@@ -1,5 +1,5 @@
 {
- "_about": "John Venn (1834-1923), logician: The Logic of Chance, 3rd ed. (London: Macmillan, 1888; clean Gutenberg text) and Symbolic Logic (London: Macmillan, 1881; raw IA OCR). Not Henry Venn the evangelical, who has his own shelf. US public domain. No uids minted.",
+ "_about": "John Venn (1834-1923), logician: The Logic of Chance, 3rd ed. (London: Macmillan, 1888; clean Gutenberg text) and Symbolic Logic (London: Macmillan, 1881; raw IA OCR). Not Henry Venn the evangelical, who has his own shelf. Added in round ab: The Principles of Empirical or Inductive Logic (London: Macmillan, 1889). US public domain. No uids minted.",
  "_author": "John Venn",
  "_name_words": [
   "john",
@@ -20,6 +20,10 @@
   "venn-symbolic-logic-1881": [
    "symboliclogic00vennuoft",
    "Symbolic Logic (London: Macmillan, 1881)"
+  ],
+  "venn-empirical-or-inductive-logic-1889": [
+   "principlesoflogi00vennuoft",
+   "The Principles of Empirical or Inductive Logic (London: Macmillan, 1889)"
   ]
  },
  "_excluded": {},
@@ -41,6 +45,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1881",
    "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "venn-empirical-or-inductive-logic-1889": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "venn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
