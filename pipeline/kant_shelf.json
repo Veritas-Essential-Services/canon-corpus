@@ -16,7 +16,18 @@
    "tr. Paul Carus"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "kant-muller-critique-1881-v1": [
+   "cu31924092291065",
+   "Immanuel Kant's Critique of Pure Reason, in commemoration of the centenary of its first publication, vol. I: historical introduction by Ludwig Noiré (London: Macmillan, 1881)",
+   "tr. F. Max Müller"
+  ],
+  "kant-muller-critique-1881-v2": [
+   "cu31924092291073",
+   "Immanuel Kant's Critique of Pure Reason, vol. II: the Critique (London: Macmillan, 1881)",
+   "tr. F. Max Müller"
+  ]
+ },
  "_excluded": {},
  "_translators": {
   "kant-carus-prolegomena-1912": "Carus"
@@ -32,6 +43,28 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "kant-muller-critique-1881-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kant-muller-critique-1881-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  }
 }

@@ -3541,6 +3541,8 @@ Shelf: `pipeline/kant_shelf.json`. Immanuel Kant (1724-1804) in English, transla
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Kant's Prolegomena to Any Future Metaphysics, edited in English, 3rd ed. (Chicago: Open Court, 1912; translation copyright 1902) | Paul Carus | `kant-carus-prolegomena-1912` | have (PG 52821) |
+| Immanuel Kant's Critique of Pure Reason, in commemoration of the centenary of its first publication, vol. I: historical introduction by Ludwig Noiré (London: Macmillan, 1881) | F. Max Müller | `kant-muller-critique-1881-v1` | have-raw (IA `cu31924092291065`) |
+| Immanuel Kant's Critique of Pure Reason, vol. II: the Critique (London: Macmillan, 1881) | F. Max Müller | `kant-muller-critique-1881-v2` | have-raw (IA `cu31924092291073`) |
 
 Pending (wishlist): Goerwitz's Dreams of a Spirit-Seer (1900; IA dreamsofspiritse00kant returned HTTP 500); Annette Churton's Kant on Education (1899; the scan found has no readable title page); the 1798-1799 Essays and Treatises and Metaphysic of Morals attributed to John Richardson (title pages unreadable in the OCR).
 
