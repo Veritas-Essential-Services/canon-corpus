@@ -1,0 +1,46 @@
+{
+ "_about": "Ralph Barton Perry (1876-1957), American new realist, the books published by 1930 that Gutenberg has: The Approach to Philosophy (New York: Scribner, 1905) and The Moral Economy (Scribner, 1909), clean Gutenberg texts. Not T. S. Perry (ts-perry shelf). US public domain (published before 1931). No uids minted.",
+ "_author": "Ralph Barton Perry",
+ "_name_words": [
+  "ralph",
+  "barton",
+  "perry"
+ ],
+ "_surname": [
+  "perry",
+  "ralph barton perry"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "perry-approach-to-philosophy-1905": [
+   25110,
+   "The Approach to Philosophy (New York: Scribner, 1905)"
+  ],
+  "perry-moral-economy-1909": [
+   22135,
+   "The Moral Economy (New York: Scribner, 1909)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "perry-approach-to-philosophy-1905": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "perry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "perry-moral-economy-1909": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "perry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
