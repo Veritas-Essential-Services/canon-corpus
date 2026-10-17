@@ -1,5 +1,5 @@
 {
- "_about": "Karl Pearson (1857-1936): The Grammar of Science, 2nd ed., revised and enlarged (London: A. and C. Black, 1900), raw IA OCR. Not John Pearson the divine (john-pearson shelf). US public domain (published 1900). No uids minted.",
+ "_about": "Karl Pearson (1857-1936): The Grammar of Science, 2nd ed., revised and enlarged (London: A. and C. Black, 1900), raw IA OCR. Not John Pearson the divine (john-pearson shelf). Added in round ab: The Ethic of Freethought, a selection of essays and lectures (London: T. Fisher Unwin, 1888). US public domain (published 1900). No uids minted.",
  "_author": "Karl Pearson",
  "_name_words": [
   "karl",
@@ -15,6 +15,10 @@
   "pearson-grammar-of-science-1900": [
    "grammarofscience00pearuoft",
    "The Grammar of Science, 2nd ed. (London: A. and C. Black, 1900)"
+  ],
+  "pearson-ethic-of-freethought-1888": [
+   "ethicoffreethoug00pear",
+   "The Ethic of Freethought, a selection of essays and lectures (London: T. Fisher Unwin, 1888)"
   ]
  },
  "_excluded": {},
@@ -27,6 +31,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1900",
    "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pearson-ethic-of-freethought-1888": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pearson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
