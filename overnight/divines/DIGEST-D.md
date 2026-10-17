@@ -279,7 +279,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `marshall-saunders` | 1 Gutenberg | 0 | 1,458 | Beautiful Joe (1903 printing). |
 | `annie-fellows-johnston` | 10 Gutenberg | 0 | 11,527 | The Little Colonel (1895) and nine sequels (copyright 1901-1908). They are set in the post-war South and draw their Black characters in the terms of their time. |
 | `susan-warner` | 2 Gutenberg | 0 | 15,370 | The Wide, Wide World, Queechy (as Elizabeth Wetherell; both undated in the text). |
-| `aloe` | 2 Gutenberg | 0 | 1,808 | The Rambles of a Rat (1864), Pride and His Prisoners (undated in the text). |
+| `aloe` | 46 Gutenberg | 0 | 30,201 | Evangelical tales for children. Completed 2026-10-17: 44 more books added, every English text by A. L. O. E. at Gutenberg that no other shelf holds. |
 | `horatio-alger` | 105 Gutenberg | 0 | 260,068 | Rags-to-riches stories for boys. Completed 2026-10-17: 103 more books added, every English text by Horatio Alger, Jr. at Gutenberg that no other shelf holds. |
 | `siddha-mohana-mitra` | 1 Gutenberg | 0 | 593 | Hindu Tales from the Sanskrit, adapted by Mrs. Arthur Bell (1919). Mrs. Arthur Bell (Nancy Bell; N. D'Anvers in the Gutenberg catalogue, 1844-1933) adapted Mitra's translation; both are recorded on the shelf. |
 | `james-otis` | 2 Gutenberg | 0 | 1,919 | Toby Tyler (undated in the text), Mr. Stubbs's Brother (copyright 1882, 1910). |

@@ -3053,12 +3053,56 @@ Shelf: `pipeline/susan-warner_shelf.json` (2026-10-02; added at the coordinator'
 
 ## A. L. O. E.
 
-Shelf: `pipeline/aloe_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Two allegorical children's tales; cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/aloe_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Evangelical tales for children. All 46 of A. L. O. E.'s English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Rambles of a Rat | have | PG 29863, `aloe-rambles-of-a-rat` (680 units) |
 | Pride and His Prisoners | have | PG 60149, `aloe-pride-and-his-prisoners` (1128 units) |
+| The Crown of Success | have | PG 25516, `aloe-crown-of-success` (1155 units) |
+| Hebrew Heroes: A Tale Founded on Jewish History | have | PG 26094, `aloe-hebrew-heroes` (978 units) |
+| The Haunted Room: A Tale | have | PG 35533, `aloe-haunted-room` (1257 units) |
+| The Spanish Cavalier: A Story of Seville | have | PG 35705, `aloe-spanish-cavalier` (947 units) |
+| The Children's Tabernacle; Or, Hand-Work and Heart-Work | have | PG 49643, `aloe-childrens-tabernacle` (821 units) |
+| Flora | have | PG 53581, `aloe-flora` (636 units) |
+| A Wreath of Indian Stories | have | PG 58693, `aloe-a-wreath-of-indian-stories` (967 units) |
+| Precepts in Practice; or, Stories Illustrating the Proverbs | have | PG 58791, `aloe-precepts-in-practice` (948 units) |
+| Harold's Bride: A Tale | have | PG 59333, `aloe-harolds-bride` (1058 units) |
+| Beyond the Black Waters | have | PG 59619, `aloe-beyond-the-black-waters` (1394 units) |
+| Wings and Stings: A Tale for the Young | have | PG 60065, `aloe-wings-and-stings` (485 units) |
+| Edith and Her Ayah, and Other Stories | have | PG 60138, `aloe-edith-and-her-ayah-and-other-stories` (436 units) |
+| Hymns and Poems | have | PG 60142, `aloe-hymns-and-poems` (362 units) |
+| Idols in the Heart: A Tale | have | PG 60486, `aloe-idols-in-the-heart` (906 units) |
+| The Young Pilgrim: A Tale Illustrative of "The Pilgrim's Progress" | have | PG 61280, `aloe-young-pilgrim` (1374 units) |
+| Sheer Off: A Tale | have | PG 61804, `aloe-sheer-off` (1118 units) |
+| Stories of the Wars of the Jews from the Babylonish captivity, to the destruction of Jerusalem by Titus | have | PG 64490, `aloe-stories-of-the-wars-of-the-jews-from-the-babylonish-cap` (479 units) |
+| The Story of a Needle | have | PG 65365, `aloe-story-of-a-needle` (667 units) |
+| The triumph over Midian | have | PG 68179, `aloe-triumph-over-midian` (915 units) |
+| The convict's child | have | PG 71321, `aloe-convicts-child` (184 units) |
+| Hold fast | have | PG 71382, `aloe-hold-fast` (52 units) |
+| The look of the thing and other stories | have | PG 71383, `aloe-look-of-the-thing-and-other-stories` (188 units) |
+| The beautiful garment, and other stories | have | PG 71492, `aloe-beautiful-garment-and-other-stories` (229 units) |
+| True heroism | have | PG 71600, `aloe-true-heroism` (549 units) |
+| The adopted son | have | PG 71906, `aloe-adopted-son` (483 units) |
+| A. L. O. E.'s picture story book. | have | PG 72109, `aloe-a-l-o-e-s-picture-story-book` (344 units) |
+| The brother's return, and other stories | have | PG 72110, `aloe-brothers-return-and-other-stories` (175 units) |
+| Friend and foe | have | PG 72968, `aloe-friend-and-foe` (266 units) |
+| Percival's picture gallery | have | PG 73027, `aloe-percivals-picture-gallery` (340 units) |
+| The sailor's home | have | PG 73200, `aloe-sailors-home` (288 units) |
+| The battle of life | have | PG 73275, `aloe-battle-of-life` (1118 units) |
+| The Hartley brothers | have | PG 73511, `aloe-hartley-brothers` (1073 units) |
+| The robbers' cave | have | PG 73660, `aloe-robbers-cave` (779 units) |
+| Life in the Eagle's Nest | have | PG 74306, `aloe-life-in-the-eagles-nest` (839 units) |
+| House beautiful | have | PG 74370, `aloe-house-beautiful` (680 units) |
+| The mirror and the bracelet | have | PG 74662, `aloe-mirror-and-the-bracelet` (616 units) |
+| The wanderer in Africa | have | PG 76281, `aloe-wanderer-in-africa` (353 units) |
+| The story of Dr. Duff | have | PG 76355, `aloe-story-of-dr-duff` (277 units) |
+| Paul Harley's dream | have | PG 77088, `aloe-paul-harleys-dream` (151 units) |
+| The olive branch, and other stories | have | PG 77151, `aloe-olive-branch-and-other-stories` (455 units) |
+| The straight road is shortest and surest | have | PG 77568, `aloe-straight-road-is-shortest-and-surest` (288 units) |
+| The wondrous sickle, and other stories | have | PG 77569, `aloe-wondrous-sickle-and-other-stories` (629 units) |
+| Dora's mistake | have | PG 77916, `aloe-doras-mistake` (653 units) |
+| The golden fleece | have | PG 78512, `aloe-golden-fleece` (481 units) |
 
 ## Horatio Alger, Jr.
 
