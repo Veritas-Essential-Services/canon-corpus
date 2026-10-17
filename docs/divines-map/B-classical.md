@@ -3530,6 +3530,9 @@ Shelf: `pipeline/schopenhauer_shelf.json`. Arthur Schopenhauer (1788-1860) in En
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The World as Will and Idea, vol. I, containing four books, 7th ed. (London: Kegan Paul, 1909) | R. B. Haldane and J. Kemp | `schopenhauer-haldane-kemp-world-as-will-v1` | have (PG 38427) |
+| The World as Will and Idea, vol. II, containing the Criticism of the Kantian Philosophy and supplements, 6th ed. (London: Kegan Paul, 1909) | R. B. Haldane and J. Kemp | `schopenhauer-haldane-kemp-world-as-will-v2` | have (PG 40097) |
+| The World as Will and Idea, vol. III, containing supplements, 6th ed. (London: Kegan Paul, 1909) | R. B. Haldane and J. Kemp | `schopenhauer-haldane-kemp-world-as-will-v3` | have (PG 40868) |
 
 ## Kant in English
 
