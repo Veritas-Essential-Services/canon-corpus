@@ -125,6 +125,11 @@
    "tragediesofsopho00soph_0",
    "The Tragedies of Sophocles, translated, a new edition (London: N. Bliss, 1820)",
    "tr. Robert Potter"
+  ],
+  "sophocles-george-adams-1818": [
+   "tragediesofso00soph",
+   "The Tragedies of Sophocles, translated from the Greek (a new edition, 1818)",
+   "tr. George Adams"
   ]
  },
  "_cross_ref": {
@@ -139,7 +144,8 @@
  "_excluded": {
   "pg806": "Philoktetes (McNamee): a COPYRIGHTED Project Gutenberg eBook. Refused",
   "pg7073": "Specimens of Greek Tragedy (Goldwin Smith): excerpts",
-  "tragediessophoc00pottgoog": "a second scan of Potter's 1820 Sophocles, reading 0.758 clean words; the cleaner scan tragediesofsopho00soph_0 (0.843) is held as sophocles-potter-1820"
+  "tragediessophoc00pottgoog": "a second scan of Potter's 1820 Sophocles, reading 0.758 clean words; the cleaner scan tragediesofsopho00soph_0 (0.843) is held as sophocles-potter-1820",
+  "Storr's Loeb Sophocles vol. II (1913): Ajax, Electra, Trachiniae, Philoctetes": "Greek facing; the scans found (sophocleswitheng02soph, 1913; sophoclesstor02sophuoft, 1916 printing) read 0.506 and 0.491 with the Greek counted. Waits on the Greek-facing ruling"
  },
  "_surname": [
   "sophocles"
@@ -166,7 +172,8 @@
   "sophocles-hull-oedipus-coloneus-1894": "arthur compton auchmuty hull",
   "sophocles-palmer-antigone-1899": "george herbert palmer",
   "sophocles-doyle-oedipus-1849": "francis hastings doyle",
-  "sophocles-potter-1820": "r. potter"
+  "sophocles-potter-1820": "r. potter",
+  "sophocles-george-adams-1818": "george adams"
  },
  "_checks": {
   "sophocles-campbell-seven": {
@@ -461,6 +468,19 @@
    "ia_rights": "ok: published 1820",
    "ia_date": "1820",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-george-adams-1818": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "george adams",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
   }
  },

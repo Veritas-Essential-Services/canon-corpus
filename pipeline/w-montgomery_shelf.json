@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: W. Montgomery (1871-1930): Albert Schweitzer's The Quest of the Historical Jesus (1910) and Paul and His Interpreters (1912). US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted.",
+ "_name_words": [
+  "w. montgomery",
+  "william montgomery"
+ ],
+ "_surname": [
+  "w. montgomery",
+  "william montgomery"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "wmo-45422": [
+   45422,
+   "The quest of the historical Jesus"
+  ],
+  "wmo-76284": [
+   76284,
+   "Paul and his interpreters"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "w-montgomery-schweitzer-paul-and-his-interpreters": {
+   "source": "wmo-76284",
+   "of": "Albert Schweitzer",
+   "work": "Paul and his interpreters",
+   "translated": "1910-1912 (see the Gutenberg header)",
+   "translator": "W. Montgomery",
+   "scan_edition": "Project Gutenberg 76284 (clean text)"
+  },
+  "w-montgomery-schweitzer-the-quest-of-the-historical-jesus": {
+   "source": "wmo-45422",
+   "of": "Albert Schweitzer",
+   "work": "The quest of the historical Jesus",
+   "translated": "1910-1912 (see the Gutenberg header)",
+   "translator": "W. Montgomery",
+   "scan_edition": "Project Gutenberg 45422 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "wmo-45422": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Montgomery"
+  },
+  "wmo-76284": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. montgomery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Montgomery"
+  }
+ },
+ "_verified": {
+  "wmo-45422": {
+   "pg": 45422,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. Montgomery"
+  },
+  "wmo-76284": {
+   "pg": 76284,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. Montgomery"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

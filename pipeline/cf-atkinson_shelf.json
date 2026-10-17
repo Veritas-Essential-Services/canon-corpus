@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Charles Francis Atkinson (1880-1960): Oswald Spengler's The Decline of the West (Knopf, vol. 1 1926, vol. 2 1928). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_name_words": [
+  "charles francis atkinson"
+ ],
+ "_surname": [
+  "charles francis atkinson"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "cfa-72344": [
+   72344,
+   "The decline of the West, Volume 1"
+  ],
+  "cfa-78914": [
+   78914,
+   "The decline of the West, Volume 2"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "cf-atkinson-spengler-the-decline-of-the-west-vol-1": {
+   "source": "cfa-72344",
+   "of": "Oswald Spengler",
+   "work": "The decline of the West, Volume 1",
+   "translated": "1926-1928 (see the Gutenberg header)",
+   "translator": "Charles Francis Atkinson",
+   "scan_edition": "Project Gutenberg 72344 (clean text)"
+  },
+  "cf-atkinson-spengler-the-decline-of-the-west-vol-2": {
+   "source": "cfa-78914",
+   "of": "Oswald Spengler",
+   "work": "The decline of the West, Volume 2",
+   "translated": "1926-1928 (see the Gutenberg header)",
+   "translator": "Charles Francis Atkinson",
+   "scan_edition": "Project Gutenberg 78914 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "cfa-72344": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles francis atkinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Francis Atkinson"
+  },
+  "cfa-78914": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles francis atkinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Francis Atkinson"
+  }
+ },
+ "_verified": {
+  "cfa-72344": {
+   "pg": 72344,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Francis Atkinson"
+  },
+  "cfa-78914": {
+   "pg": 78914,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Francis Atkinson"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

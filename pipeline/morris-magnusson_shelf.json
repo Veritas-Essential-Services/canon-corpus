@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Eiríkr Magnússon (1833-1913) and William Morris (1834-1896): their Icelandic sagas. The Volsunga Saga (1870), Grettir the Strong (1869), Frithiof the Bold (1875), Three Northern Love Stories (1875) and the six-volume Saga Library (1891-1905, including their Heimskringla). PD everywhere. Morris's Odyssey, Aeneid and Beowulf stay on the homer, virgil and beowulf shelves. Added 2026-10-10 by lane C (round 12); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Eiríkr Magnússon (1833-1913) and William Morris (1834-1896): their Icelandic sagas. Grettir the Strong (1869), Frithiof the Bold (1875), Three Northern Love Stories (1875) and the six-volume Saga Library (1891-1905, including their Heimskringla). Their Volsunga Saga is on Lane D's poetic-edda shelf (cross-referenced here). PD everywhere. Morris's Odyssey, Aeneid and Beowulf stay on the homer, virgil and beowulf shelves. Added 2026-10-10 by lane C (round 12); Adam may veto. No uids minted.",
  "_name_words": [
   "magnússon",
   "magnusson",
@@ -15,10 +15,6 @@
  "_surname_note": "Magnússon, not Morris: 'morris' alone would pass Morris dancers, Morris chairs, and other Morrises; every one of these sagas names Magnússon.",
  "ccel": {},
  "gutenberg": {
-  "mm-volsunga": [
-   1152,
-   "The Story of the Volsungs"
-  ],
   "mm-grettir": [
    12747,
    "The Story of Grettir the Strong"
@@ -26,6 +22,10 @@
   "mm-frithiof": [
    24420,
    "The Story of Frithiof the Bold"
+  ],
+  "morris-magnusson-pg24421": [
+   24421,
+   "The Story of Gunnlaug the Worm-Tongue and Raven the Skald"
   ]
  },
  "internet_archive": {
@@ -59,13 +59,13 @@
   ]
  },
  "titles": {
-  "mm-volsunga-saga": {
-   "source": "mm-volsunga",
+  "mm-frithiof-the-bold": {
+   "source": "mm-frithiof",
    "of": "anonymous (Old Norse)",
-   "work": "The Story of the Volsungs (Volsunga Saga), with excerpts from the Poetic Edda",
-   "translated": 1870,
+   "work": "The Story of Frithiof the Bold",
+   "translated": 1875,
    "translator": "Eiríkr Magnússon and William Morris",
-   "scan_edition": "Project Gutenberg 1152 (clean text); Walter Scott Press, London, 1888. The file opens with an e-text editor's preface and bibliography (Douglas B. Killings, OMACL) naming books of 1962-1997; that page is the e-text editor's, not Morris's, and must be stripped before the text is published or built into units."
+   "scan_edition": "Project Gutenberg 24420 (clean text)"
   },
   "mm-grettir-the-strong": {
    "source": "mm-grettir",
@@ -75,13 +75,15 @@
    "translator": "Eiríkr Magnússon and William Morris",
    "scan_edition": "Project Gutenberg 12747 (clean text); a 1900 printing"
   },
-  "mm-frithiof-the-bold": {
-   "source": "mm-frithiof",
+  "mm-gunnlaug-worm-tongue": {
+   "source": "morris-magnusson-pg24421",
    "of": "anonymous (Old Norse)",
-   "work": "The Story of Frithiof the Bold",
-   "translated": 1875,
+   "work": "The Story of Gunnlaug the Worm-Tongue and Raven the Skald",
+   "translated": "1869 (as printed 1875)",
    "translator": "Eiríkr Magnússon and William Morris",
-   "scan_edition": "Project Gutenberg 24420 (clean text)"
+   "scan_edition": "Project Gutenberg 24421 (clean text)",
+   "added": "2026-10-10, lane C round 36 (gap-fill); Adam may veto",
+   "note": "Like Frithiof (24420), Gutenberg's separate file of a story also printed in Three Northern Love Stories (1875)."
   },
   "mm-saga-library-vol-1": {
    "source": "mm-saga-library-1",
@@ -138,6 +140,18 @@
    "translated": 1875,
    "translator": "Eiríkr Magnússon and William Morris",
    "scan_edition": "Ellis and White, London, 1875 (raw OCR; Google scan with its boilerplate page at the head)"
+  },
+  "mm-volsunga-saga": {
+   "of": "anonymous (Old Norse)",
+   "work": "The Story of the Volsungs (Volsunga Saga), with excerpts from the Poetic Edda",
+   "translated": 1870,
+   "translator": "Eiríkr Magnússon and William Morris",
+   "held_in": {
+    "file": "pipeline/poetic-edda_shelf.json",
+    "slug": "edda-volsunga-morris",
+    "gutenberg_id": 1152
+   },
+   "note": "Cross-reference only: Lane D has held this text since 2026-10-03; lane C fetched it again in round 12 by mistake, and the duplicate was removed 2026-10-10."
   }
  },
  "_pending": {},
@@ -145,19 +159,11 @@
   "pg-347": "Another Grettir's Saga with no translator named (apparently G. A. Hight's 1914 Everyman version); not Magnússon and Morris.",
   "pg-48622": "Baring-Gould's Grettir the Outlaw, his own retelling; on baring-gould_shelf.json.",
   "sagalibrary01snoruoft": "Labelled vol. 1 on archive.org, but its title page reads Saga Library VOL. III (Heimskringla I); the cdl copy is used for vol. 3.",
-  "heimskringla-laing": "Laing's Heimskringla (a different translation) is on sturluson_shelf.json; the Saga Library Heimskringla here is Morris and Magnússon's, a second witness."
+  "heimskringla-laing": "Laing's Heimskringla (a different translation) is on sturluson_shelf.json; the Saga Library Heimskringla here is Morris and Magnússon's, a second witness.",
+  "mm-volsunga": "PG 1152 (Volsunga Saga) lives on Lane D's poetic-edda_shelf.json as edda-volsunga-morris; this shelf only cross-references it."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
-  "mm-volsunga": {
-   "kind": "gutenberg",
-   "checked": "2026-10-10",
-   "name_check": "surname",
-   "author_seen": "magnússon",
-   "identity": "ok",
-   "pg_copyrighted": false,
-   "pg_translator": "Eiríkr Magnússon; William Morris"
-  },
   "mm-grettir": {
    "kind": "gutenberg",
    "checked": "2026-10-10",
@@ -168,6 +174,15 @@
    "pg_translator": "Eiríkr Magnússon; William Morris"
   },
   "mm-frithiof": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "magnússon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eiríkr Magnússon; William Morris"
+  },
+  "morris-magnusson-pg24421": {
    "kind": "gutenberg",
    "checked": "2026-10-10",
    "name_check": "surname",
@@ -255,11 +270,6 @@
   }
  },
  "_verified": {
-  "mm-volsunga": {
-   "pg": 1152,
-   "pg_copyrighted_marker": false,
-   "pg_translator": "Eiríkr Magnússon"
-  },
   "mm-grettir": {
    "pg": 12747,
    "pg_copyrighted_marker": false,
@@ -267,6 +277,11 @@
   },
   "mm-frithiof": {
    "pg": 24420,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eiríkr Magnússon"
+  },
+  "morris-magnusson-pg24421": {
+   "pg": 24421,
    "pg_copyrighted_marker": false,
    "pg_translator": "Eiríkr Magnússon"
   },

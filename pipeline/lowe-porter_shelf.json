@@ -1,0 +1,104 @@
+{
+ "_about": "TRANSLATOR SHELF: H. T. Lowe-Porter (1876-1963): Thomas Mann's Buddenbrooks (Knopf, 1924, 2 vols) and Three Essays (1929). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_name_words": [
+  "h. t. lowe-porter",
+  "lowe-porter"
+ ],
+ "_surname": [
+  "h. t. lowe-porter",
+  "lowe-porter"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "lpo-72961": [
+   72961,
+   "Buddenbrooks, volume 1 of 2"
+  ],
+  "lpo-72962": [
+   72962,
+   "Buddenbrooks, volume 2 of 2"
+  ],
+  "lpo-76837": [
+   76837,
+   "Three essays"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "lowe-porter-mann-buddenbrooks-vol-1": {
+   "source": "lpo-72961",
+   "of": "Thomas Mann",
+   "work": "Buddenbrooks, volume 1 of 2",
+   "translated": "1924-1929 (see the Gutenberg header)",
+   "translator": "H. T. Lowe-Porter",
+   "scan_edition": "Project Gutenberg 72961 (clean text)"
+  },
+  "lowe-porter-mann-buddenbrooks-vol-2": {
+   "source": "lpo-72962",
+   "of": "Thomas Mann",
+   "work": "Buddenbrooks, volume 2 of 2",
+   "translated": "1924-1929 (see the Gutenberg header)",
+   "translator": "H. T. Lowe-Porter",
+   "scan_edition": "Project Gutenberg 72962 (clean text)"
+  },
+  "lowe-porter-mann-three-essays": {
+   "source": "lpo-76837",
+   "of": "Thomas Mann",
+   "work": "Three essays",
+   "translated": "1924-1929 (see the Gutenberg header)",
+   "translator": "H. T. Lowe-Porter",
+   "scan_edition": "Project Gutenberg 76837 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "lpo-72961": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. t. lowe-porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. T. Lowe-Porter"
+  },
+  "lpo-72962": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. t. lowe-porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. T. Lowe-Porter"
+  },
+  "lpo-76837": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. t. lowe-porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. T. Lowe-Porter"
+  }
+ },
+ "_verified": {
+  "lpo-72961": {
+   "pg": 72961,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "H. T. Lowe-Porter"
+  },
+  "lpo-72962": {
+   "pg": 72962,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "H. T. Lowe-Porter"
+  },
+  "lpo-76837": {
+   "pg": 76837,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "H. T. Lowe-Porter"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,182 @@
+{
+ "_about": "TRANSLATOR SHELF: E. M. Lamond: Hartmann Grisar's Luther (Kegan Paul, 1913-17, 6 vols, ed. Charles Louis Dessoulavy), the Jesuit historian's critical life of Luther. US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_name_words": [
+  "e. m. lamond",
+  "lamond"
+ ],
+ "_surname": [
+  "e. m. lamond",
+  "lamond"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "eml-48995": [
+   48995,
+   "Luther, vol. 1 of 6"
+  ],
+  "eml-49065": [
+   49065,
+   "Luther, vol. 2 of 6"
+  ],
+  "eml-49106": [
+   49106,
+   "Luther, vol. 3 of 6"
+  ],
+  "eml-49135": [
+   49135,
+   "Luther, vol. 4 of 6"
+  ],
+  "eml-49171": [
+   49171,
+   "Luther, vol. 5 of 6"
+  ],
+  "eml-54811": [
+   54811,
+   "Luther, vol. 6 of 6"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "lamond-grisar-luther-vol-1-of-6": {
+   "source": "eml-48995",
+   "of": "Hartmann Grisar",
+   "work": "Luther, vol. 1 of 6",
+   "translated": "1913-1917 (see the Gutenberg header)",
+   "translator": "E. M. Lamond",
+   "scan_edition": "Project Gutenberg 48995 (clean text)"
+  },
+  "lamond-grisar-luther-vol-2-of-6": {
+   "source": "eml-49065",
+   "of": "Hartmann Grisar",
+   "work": "Luther, vol. 2 of 6",
+   "translated": "1913-1917 (see the Gutenberg header)",
+   "translator": "E. M. Lamond",
+   "scan_edition": "Project Gutenberg 49065 (clean text)"
+  },
+  "lamond-grisar-luther-vol-3-of-6": {
+   "source": "eml-49106",
+   "of": "Hartmann Grisar",
+   "work": "Luther, vol. 3 of 6",
+   "translated": "1913-1917 (see the Gutenberg header)",
+   "translator": "E. M. Lamond",
+   "scan_edition": "Project Gutenberg 49106 (clean text)"
+  },
+  "lamond-grisar-luther-vol-4-of-6": {
+   "source": "eml-49135",
+   "of": "Hartmann Grisar",
+   "work": "Luther, vol. 4 of 6",
+   "translated": "1913-1917 (see the Gutenberg header)",
+   "translator": "E. M. Lamond",
+   "scan_edition": "Project Gutenberg 49135 (clean text)"
+  },
+  "lamond-grisar-luther-vol-5-of-6": {
+   "source": "eml-49171",
+   "of": "Hartmann Grisar",
+   "work": "Luther, vol. 5 of 6",
+   "translated": "1913-1917 (see the Gutenberg header)",
+   "translator": "E. M. Lamond",
+   "scan_edition": "Project Gutenberg 49171 (clean text)"
+  },
+  "lamond-grisar-luther-vol-6-of-6": {
+   "source": "eml-54811",
+   "of": "Hartmann Grisar",
+   "work": "Luther, vol. 6 of 6",
+   "translated": "1913-1917 (see the Gutenberg header)",
+   "translator": "E. M. Lamond",
+   "scan_edition": "Project Gutenberg 54811 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "eml-48995": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. m. lamond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. M. Lamond"
+  },
+  "eml-49065": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. m. lamond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. M. Lamond"
+  },
+  "eml-49106": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. m. lamond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. M. Lamond"
+  },
+  "eml-49135": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. m. lamond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. M. Lamond"
+  },
+  "eml-49171": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. m. lamond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. M. Lamond"
+  },
+  "eml-54811": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. m. lamond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. M. Lamond"
+  }
+ },
+ "_verified": {
+  "eml-48995": {
+   "pg": 48995,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. M. Lamond"
+  },
+  "eml-49065": {
+   "pg": 49065,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. M. Lamond"
+  },
+  "eml-49106": {
+   "pg": 49106,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. M. Lamond"
+  },
+  "eml-49135": {
+   "pg": 49135,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. M. Lamond"
+  },
+  "eml-49171": {
+   "pg": 49171,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. M. Lamond"
+  },
+  "eml-54811": {
+   "pg": 54811,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. M. Lamond"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

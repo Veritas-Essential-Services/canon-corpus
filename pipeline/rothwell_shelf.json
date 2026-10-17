@@ -1,0 +1,154 @@
+{
+ "_about": "TRANSLATOR SHELF: Fred Rothwell (1869-1934): Bergson's Laughter (1911, with Cloudesley Brereton), Schuré's Pythagoras, Pascal's Reincarnation, Ohnet, and Roujon's war notebook. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 24); Adam may veto. No uids minted.",
+ "_name_words": [
+  "fred rothwell"
+ ],
+ "_surname": [
+  "fred rothwell"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "rot-21533": [
+   21533,
+   "Reincarnation: A Study in Human Evolution"
+  ],
+  "rot-4352": [
+   4352,
+   "Laughter: An Essay on the Meaning of the Comic"
+  ],
+  "rot-58231": [
+   58231,
+   "Battles & Bivouacs: A French soldier's note-book"
+  ],
+  "rot-69149": [
+   69149,
+   "The woman of mystery"
+  ],
+  "rot-76522": [
+   76522,
+   "Pythagoras and the Delphic mysteries"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "rothwell-bergson-laughter-an-essay-on-the-meaning-of-the": {
+   "source": "rot-4352",
+   "of": "Henri Bergson",
+   "work": "Laughter: An Essay on the Meaning of the Comic",
+   "translated": "1910-1923 (see the Gutenberg header)",
+   "translator": "Fred Rothwell (with Cloudesley Brereton)",
+   "scan_edition": "Project Gutenberg 4352 (clean text)"
+  },
+  "rothwell-ohnet-the-woman-of-mystery": {
+   "source": "rot-69149",
+   "of": "Georges Ohnet",
+   "work": "The woman of mystery",
+   "translated": "1910-1923 (see the Gutenberg header)",
+   "translator": "Fred Rothwell",
+   "scan_edition": "Project Gutenberg 69149 (clean text)"
+  },
+  "rothwell-pascal-reincarnation-a-study-in-human-evolution": {
+   "source": "rot-21533",
+   "of": "Théophile Pascal",
+   "work": "Reincarnation: A Study in Human Evolution",
+   "translated": "1910-1923 (see the Gutenberg header)",
+   "translator": "Fred Rothwell",
+   "scan_edition": "Project Gutenberg 21533 (clean text)"
+  },
+  "rothwell-roujon-battles-bivouacs-a-french-soldier-s-note": {
+   "source": "rot-58231",
+   "of": "Jacques Roujon",
+   "work": "Battles & Bivouacs: A French soldier's note-book",
+   "translated": "1910-1923 (see the Gutenberg header)",
+   "translator": "Fred Rothwell",
+   "scan_edition": "Project Gutenberg 58231 (clean text)"
+  },
+  "rothwell-schure-pythagoras-and-the-delphic-mysteries": {
+   "source": "rot-76522",
+   "of": "Edouard Schuré",
+   "work": "Pythagoras and the Delphic mysteries",
+   "translated": "1910-1923 (see the Gutenberg header)",
+   "translator": "Fred Rothwell",
+   "scan_edition": "Project Gutenberg 76522 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "rot-21533": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "fred rothwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Fred Rothwell"
+  },
+  "rot-4352": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "fred rothwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cloudesley Brereton; Fred Rothwell"
+  },
+  "rot-58231": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "fred rothwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Fred Rothwell"
+  },
+  "rot-69149": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "fred rothwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Fred Rothwell"
+  },
+  "rot-76522": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "fred rothwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Fred Rothwell"
+  }
+ },
+ "_verified": {
+  "rot-21533": {
+   "pg": 21533,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Fred Rothwell"
+  },
+  "rot-4352": {
+   "pg": 4352,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cloudesley Brereton"
+  },
+  "rot-58231": {
+   "pg": 58231,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Fred Rothwell"
+  },
+  "rot-69149": {
+   "pg": 69149,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Fred Rothwell"
+  },
+  "rot-76522": {
+   "pg": 76522,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Fred Rothwell"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

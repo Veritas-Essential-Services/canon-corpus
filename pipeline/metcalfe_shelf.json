@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: Cranstoun Metcalfe (1866-1939): Souvestre and Allain's Fantômas (1915) and Verne's The Castaways of the Flag and Their Island Home (1923-24), the sequel to The Swiss Family Robinson. US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_name_words": [
+  "cranstoun metcalfe"
+ ],
+ "_surname": [
+  "cranstoun metcalfe"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "met-27794": [
+   27794,
+   "Fantômas"
+  ],
+  "met-61600": [
+   61600,
+   "The castaways of the flag"
+  ],
+  "met-74418": [
+   74418,
+   "Their island home"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "metcalfe-souvestre-fantomas": {
+   "source": "met-27794",
+   "of": "Pierre Souvestre",
+   "work": "Fantômas",
+   "translated": "1915-1924 (see the Gutenberg header)",
+   "translator": "Cranstoun Metcalfe",
+   "scan_edition": "Project Gutenberg 27794 (clean text)"
+  },
+  "metcalfe-verne-the-castaways-of-the-flag": {
+   "source": "met-61600",
+   "of": "Jules Verne",
+   "work": "The castaways of the flag",
+   "translated": "1915-1924 (see the Gutenberg header)",
+   "translator": "Cranstoun Metcalfe",
+   "scan_edition": "Project Gutenberg 61600 (clean text)"
+  },
+  "metcalfe-verne-their-island-home": {
+   "source": "met-74418",
+   "of": "Jules Verne",
+   "work": "Their island home",
+   "translated": "1915-1924 (see the Gutenberg header)",
+   "translator": "Cranstoun Metcalfe",
+   "scan_edition": "Project Gutenberg 74418 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "met-27794": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cranstoun metcalfe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cranstoun Metcalfe"
+  },
+  "met-61600": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cranstoun metcalfe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cranstoun Metcalfe"
+  },
+  "met-74418": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cranstoun metcalfe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cranstoun Metcalfe"
+  }
+ },
+ "_verified": {
+  "met-27794": {
+   "pg": 27794,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cranstoun Metcalfe"
+  },
+  "met-61600": {
+   "pg": 61600,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cranstoun Metcalfe"
+  },
+  "met-74418": {
+   "pg": 74418,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cranstoun Metcalfe"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

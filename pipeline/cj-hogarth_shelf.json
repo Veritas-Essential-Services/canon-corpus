@@ -1,0 +1,290 @@
+{
+ "_about": "TRANSLATOR SHELF: C. J. Hogarth (1869-1942): Tolstoy's Childhood, Boyhood and Youth, Dostoevsky's Poor Folk and The Gambler (Everyman, 1912-15), Goncharov's Oblomov (1915), Turgenev's Fathers and Sons (1921), Gorky, Andreyev, and Melgunov's Red Terror (1926). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 21); Adam may veto. No uids minted.",
+ "_name_words": [
+  "c. j. hogarth",
+  "c.j. hogarth",
+  "hogarth"
+ ],
+ "_surname": [
+  "c. j. hogarth",
+  "c.j. hogarth",
+  "hogarth"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "hog-2142": [
+   2142,
+   "Childhood"
+  ],
+  "hog-2197": [
+   2197,
+   "The Gambler"
+  ],
+  "hog-2288": [
+   2288,
+   "Through Russia"
+  ],
+  "hog-2302": [
+   2302,
+   "Poor Folk"
+  ],
+  "hog-2450": [
+   2450,
+   "Boyhood"
+  ],
+  "hog-2637": [
+   2637,
+   "Youth"
+  ],
+  "hog-47935": [
+   47935,
+   "Fathers and Sons"
+  ],
+  "hog-49852": [
+   49852,
+   "The Life of Man: A Play in Five Acts"
+  ],
+  "hog-54700": [
+   54700,
+   "Oblomov"
+  ],
+  "hog-77104": [
+   77104,
+   "The red terror in Russia"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "cj-hogarth-andreyev-the-life-of-man-a-play-in-five-acts": {
+   "source": "hog-49852",
+   "of": "Leonid Andreyev",
+   "work": "The Life of Man: A Play in Five Acts",
+   "translated": "1912-1926 (see the Gutenberg header)",
+   "translator": "C. J. Hogarth",
+   "scan_edition": "Project Gutenberg 49852 (clean text)"
+  },
+  "cj-hogarth-dostoyevsky-poor-folk": {
+   "source": "hog-2302",
+   "of": "Fyodor Dostoyevsky",
+   "work": "Poor Folk",
+   "translated": "1912-1926 (see the Gutenberg header)",
+   "translator": "C. J. Hogarth",
+   "scan_edition": "Project Gutenberg 2302 (clean text)"
+  },
+  "cj-hogarth-dostoyevsky-the-gambler": {
+   "source": "hog-2197",
+   "of": "Fyodor Dostoyevsky",
+   "work": "The Gambler",
+   "translated": "1912-1926 (see the Gutenberg header)",
+   "translator": "C. J. Hogarth",
+   "scan_edition": "Project Gutenberg 2197 (clean text)"
+  },
+  "cj-hogarth-goncharov-oblomov": {
+   "source": "hog-54700",
+   "of": "Ivan Goncharov",
+   "work": "Oblomov",
+   "translated": "1912-1926 (see the Gutenberg header)",
+   "translator": "C. J. Hogarth",
+   "scan_edition": "Project Gutenberg 54700 (clean text)"
+  },
+  "cj-hogarth-gorky-through-russia": {
+   "source": "hog-2288",
+   "of": "Maksim Gorky",
+   "work": "Through Russia",
+   "translated": "1912-1926 (see the Gutenberg header)",
+   "translator": "C. J. Hogarth",
+   "scan_edition": "Project Gutenberg 2288 (clean text)"
+  },
+  "cj-hogarth-melgunov-the-red-terror-in-russia": {
+   "source": "hog-77104",
+   "of": "Sergei Melgunov",
+   "work": "The red terror in Russia",
+   "translated": "1912-1926 (see the Gutenberg header)",
+   "translator": "C. J. Hogarth",
+   "scan_edition": "Project Gutenberg 77104 (clean text)"
+  },
+  "cj-hogarth-tolstoy-boyhood": {
+   "source": "hog-2450",
+   "of": "Leo Tolstoy",
+   "work": "Boyhood",
+   "translated": "1912-1926 (see the Gutenberg header)",
+   "translator": "C. J. Hogarth",
+   "scan_edition": "Project Gutenberg 2450 (clean text)"
+  },
+  "cj-hogarth-tolstoy-childhood": {
+   "source": "hog-2142",
+   "of": "Leo Tolstoy",
+   "work": "Childhood",
+   "translated": "1912-1926 (see the Gutenberg header)",
+   "translator": "C. J. Hogarth",
+   "scan_edition": "Project Gutenberg 2142 (clean text)"
+  },
+  "cj-hogarth-tolstoy-youth": {
+   "source": "hog-2637",
+   "of": "Leo Tolstoy",
+   "work": "Youth",
+   "translated": "1912-1926 (see the Gutenberg header)",
+   "translator": "C. J. Hogarth",
+   "scan_edition": "Project Gutenberg 2637 (clean text)"
+  },
+  "cj-hogarth-turgenev-fathers-and-sons": {
+   "source": "hog-47935",
+   "of": "Ivan Turgenev",
+   "work": "Fathers and Sons",
+   "translated": "1912-1926 (see the Gutenberg header)",
+   "translator": "C. J. Hogarth",
+   "scan_edition": "Project Gutenberg 47935 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-19680": "A second Gutenberg copy of Childhood; 2142 is used."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "hog-2142": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. j. hogarth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-2197": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. j. hogarth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-2288": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. j. hogarth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-2302": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. j. hogarth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-2450": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. j. hogarth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-2637": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. j. hogarth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-47935": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. j. hogarth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-49852": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. j. hogarth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-54700": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. j. hogarth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-77104": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. j. hogarth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. J. Hogarth"
+  }
+ },
+ "_verified": {
+  "hog-2142": {
+   "pg": 2142,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-2197": {
+   "pg": 2197,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-2288": {
+   "pg": 2288,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-2302": {
+   "pg": 2302,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-2450": {
+   "pg": 2450,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-2637": {
+   "pg": 2637,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-47935": {
+   "pg": 47935,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-49852": {
+   "pg": 49852,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-54700": {
+   "pg": 54700,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. J. Hogarth"
+  },
+  "hog-77104": {
+   "pg": 77104,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. J. Hogarth"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

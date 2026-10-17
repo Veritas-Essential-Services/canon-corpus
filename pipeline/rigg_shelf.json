@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: J. M. Rigg (1855-1926): Boccaccio's Decameron (A. H. Bullen, 1903, 2 vols), the first complete English Decameron without passages left in Italian. Payne's Decameron is on payne_shelf.json; this is a separate translation. US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_name_words": [
+  "j. m. rigg",
+  "rigg"
+ ],
+ "_surname": [
+  "j. m. rigg",
+  "rigg"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "rig-13102": [
+   13102,
+   "The Decameron, Volume II"
+  ],
+  "rig-3726": [
+   3726,
+   "The Decameron, Volume I"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "rigg-boccaccio-the-decameron-vol-1": {
+   "source": "rig-3726",
+   "of": "Giovanni Boccaccio",
+   "work": "The Decameron, Volume I",
+   "translated": "1903 (see the Gutenberg header)",
+   "translator": "J. M. Rigg",
+   "scan_edition": "Project Gutenberg 3726 (clean text)"
+  },
+  "rigg-boccaccio-the-decameron-vol-2": {
+   "source": "rig-13102",
+   "of": "Giovanni Boccaccio",
+   "work": "The Decameron, Volume II",
+   "translated": "1903 (see the Gutenberg header)",
+   "translator": "J. M. Rigg",
+   "scan_edition": "Project Gutenberg 13102 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "rig-13102": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. m. rigg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. M. Rigg"
+  },
+  "rig-3726": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. m. rigg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. M. Rigg"
+  }
+ },
+ "_verified": {
+  "rig-13102": {
+   "pg": 13102,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. M. Rigg"
+  },
+  "rig-3726": {
+   "pg": 3726,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. M. Rigg"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

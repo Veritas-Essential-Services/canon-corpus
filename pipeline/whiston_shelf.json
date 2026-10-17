@@ -1,0 +1,156 @@
+{
+ "_about": "TRANSLATOR SHELF: William Whiston (1667-1752): The Works of Flavius Josephus (1737): The Antiquities of the Jews, The Wars of the Jews, Against Apion, the Life, and the Discourse to the Greeks concerning Hades. Lane B left Josephus unassigned (DIGEST-B); no other lane shelves it. US public domain. Added 2026-10-10 by lane C (round 34); Adam may veto. No uids minted.",
+ "_name_words": [
+  "william whiston",
+  "whiston"
+ ],
+ "_surname": [
+  "william whiston",
+  "whiston"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "whi-2846": [
+   2846,
+   "The Life of Flavius Josephus"
+  ],
+  "whi-2847": [
+   2847,
+   "An Extract out of Josephus's Discourse to The Greeks Concerning Hades"
+  ],
+  "whi-2848": [
+   2848,
+   "Antiquities of the Jews"
+  ],
+  "whi-2849": [
+   2849,
+   "Against Apion"
+  ],
+  "whi-2850": [
+   2850,
+   "The Wars of the Jews; Or, The History of the Destruction of Jerusalem"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "whiston-josephus-against-apion": {
+   "source": "whi-2849",
+   "of": "Flavius Josephus",
+   "work": "Against Apion",
+   "translated": "1737 (see the Gutenberg header)",
+   "translator": "William Whiston",
+   "scan_edition": "Project Gutenberg 2849 (clean text)"
+  },
+  "whiston-josephus-antiquities-of-the-jews": {
+   "source": "whi-2848",
+   "of": "Flavius Josephus",
+   "work": "Antiquities of the Jews",
+   "translated": "1737 (see the Gutenberg header)",
+   "translator": "William Whiston",
+   "scan_edition": "Project Gutenberg 2848 (clean text)"
+  },
+  "whiston-josephus-discourse-to-the-greeks-concerning-hades": {
+   "source": "whi-2847",
+   "of": "Flavius Josephus",
+   "work": "An Extract out of Josephus's Discourse to The Greeks Concerning Hades",
+   "translated": "1737 (see the Gutenberg header)",
+   "translator": "William Whiston",
+   "scan_edition": "Project Gutenberg 2847 (clean text)"
+  },
+  "whiston-josephus-the-life-of-flavius-josephus": {
+   "source": "whi-2846",
+   "of": "Flavius Josephus",
+   "work": "The Life of Flavius Josephus",
+   "translated": "1737 (see the Gutenberg header)",
+   "translator": "William Whiston",
+   "scan_edition": "Project Gutenberg 2846 (clean text)"
+  },
+  "whiston-josephus-the-wars-of-the-jews": {
+   "source": "whi-2850",
+   "of": "Flavius Josephus",
+   "work": "The Wars of the Jews; Or, The History of the Destruction of Jerusalem",
+   "translated": "1737 (see the Gutenberg header)",
+   "translator": "William Whiston",
+   "scan_edition": "Project Gutenberg 2850 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "whi-2846": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william whiston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Whiston"
+  },
+  "whi-2847": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william whiston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Whiston"
+  },
+  "whi-2848": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william whiston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Whiston"
+  },
+  "whi-2849": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william whiston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Whiston"
+  },
+  "whi-2850": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william whiston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Whiston"
+  }
+ },
+ "_verified": {
+  "whi-2846": {
+   "pg": 2846,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Whiston"
+  },
+  "whi-2847": {
+   "pg": 2847,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Whiston"
+  },
+  "whi-2848": {
+   "pg": 2848,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Whiston"
+  },
+  "whi-2849": {
+   "pg": 2849,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Whiston"
+  },
+  "whi-2850": {
+   "pg": 2850,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Whiston"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,89 @@
+{
+ "_about": "Mayne Reid's adventure stories for boys: The Bush Boys, The Cliff Climbers and The Castaways (all undated in the text; Nick Hodson's transcriptions). The Boy Hunters (PG 21236) and The Young Voyageurs (PG 23129) have no plain-text file at Gutenberg. Gutenberg catalogue: Reid 1818-1883. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Mayne Reid",
+ "_name_words": [
+  "bush",
+  "climbers",
+  "castaways"
+ ],
+ "_surname": [
+  "mayne reid",
+  "captain mayne reid"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mreid-bush-boys": [
+   21237,
+   "The Bush Boys",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [A-Z ]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER ONE\\.$",
+    "front": true
+   }
+  ],
+  "mreid-cliff-climbers": [
+   21239,
+   "The Cliff Climbers",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [A-Z ]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER ONE\\.$",
+    "front": true
+   }
+  ],
+  "mreid-castaways": [
+   21238,
+   "The Castaways",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [A-Z ]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER ONE\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mreid-bush-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mayne reid",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mreid-cliff-climbers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mayne reid",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mreid-castaways": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mayne reid",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

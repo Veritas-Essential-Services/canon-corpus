@@ -1,0 +1,394 @@
+{
+ "_about": "TRANSLATOR SHELF: Annis Lee Wister (1830-1908): German popular novels for Lippincott (1868-1900): Marlitt, E. Werner, Streckfuss, Ossip Schubin, Hillern, von Glümer, Bethusy-Huc. US public domain. Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted.",
+ "_name_words": [
+  "annis lee wister",
+  "a. l. wister",
+  "mrs. a. l. wister",
+  "wister"
+ ],
+ "_surname": [
+  "annis lee wister",
+  "a. l. wister",
+  "mrs. a. l. wister",
+  "wister"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "wis-34892": [
+   34892,
+   "Castle Hohenwald: A Romance"
+  ],
+  "wis-34917": [
+   34917,
+   "The Lonely House"
+  ],
+  "wis-34953": [
+   34953,
+   "Quicksands"
+  ],
+  "wis-34995": [
+   34995,
+   "Too Rich: A Romance"
+  ],
+  "wis-35116": [
+   35116,
+   "Saint Michael: A Romance"
+  ],
+  "wis-35229": [
+   35229,
+   "The Alpine Fay: A Romance"
+  ],
+  "wis-35311": [
+   35311,
+   "The Eichhofs: A Romance"
+  ],
+  "wis-35454": [
+   35454,
+   "\"O Thou, My Austria!\""
+  ],
+  "wis-35531": [
+   35531,
+   "Countess Erika's Apprenticeship"
+  ],
+  "wis-35541": [
+   35541,
+   "Erlach Court"
+  ],
+  "wis-36550": [
+   36550,
+   "A Noble Name; or, Dönninghausen"
+  ],
+  "wis-36709": [
+   36709,
+   "Only a Girl: or, A Physician for the Soul."
+  ],
+  "wis-42426": [
+   42426,
+   "Gold Elsie"
+  ],
+  "wis-43393": [
+   43393,
+   "At the Councillor's; or, A Nameless History"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "wister-bethusy-huc-the-eichhofs-a-romance": {
+   "source": "wis-35311",
+   "of": "Valeska Bethusy-Huc",
+   "work": "The Eichhofs: A Romance",
+   "translated": "1868-1900 (see the Gutenberg header)",
+   "translator": "Annis Lee Wister",
+   "scan_edition": "Project Gutenberg 35311 (clean text)"
+  },
+  "wister-glumer-a-noble-name-or-donninghausen": {
+   "source": "wis-36550",
+   "of": "Claire von Glümer",
+   "work": "A Noble Name; or, Dönninghausen",
+   "translated": "1868-1900 (see the Gutenberg header)",
+   "translator": "Annis Lee Wister",
+   "scan_edition": "Project Gutenberg 36550 (clean text)"
+  },
+  "wister-hillern-only-a-girl-or-a-physician-for-the-soul": {
+   "source": "wis-36709",
+   "of": "Wilhelmine von Hillern",
+   "work": "Only a Girl: or, A Physician for the Soul.",
+   "translated": "1868-1900 (see the Gutenberg header)",
+   "translator": "Annis Lee Wister",
+   "scan_edition": "Project Gutenberg 36709 (clean text)"
+  },
+  "wister-marlitt-at-the-councillor-s-or-a-nameless-histor": {
+   "source": "wis-43393",
+   "of": "E. (Eugenie) Marlitt",
+   "work": "At the Councillor's; or, A Nameless History",
+   "translated": "1868-1900 (see the Gutenberg header)",
+   "translator": "Annis Lee Wister",
+   "scan_edition": "Project Gutenberg 43393 (clean text)"
+  },
+  "wister-marlitt-gold-elsie": {
+   "source": "wis-42426",
+   "of": "E. (Eugenie) Marlitt",
+   "work": "Gold Elsie",
+   "translated": "1868-1900 (see the Gutenberg header)",
+   "translator": "Annis Lee Wister",
+   "scan_edition": "Project Gutenberg 42426 (clean text)"
+  },
+  "wister-schubin-countess-erika-s-apprenticeship": {
+   "source": "wis-35531",
+   "of": "Ossip Schubin",
+   "work": "Countess Erika's Apprenticeship",
+   "translated": "1868-1900 (see the Gutenberg header)",
+   "translator": "Annis Lee Wister",
+   "scan_edition": "Project Gutenberg 35531 (clean text)"
+  },
+  "wister-schubin-erlach-court": {
+   "source": "wis-35541",
+   "of": "Ossip Schubin",
+   "work": "Erlach Court",
+   "translated": "1868-1900 (see the Gutenberg header)",
+   "translator": "Annis Lee Wister",
+   "scan_edition": "Project Gutenberg 35541 (clean text)"
+  },
+  "wister-schubin-o-thou-my-austria": {
+   "source": "wis-35454",
+   "of": "Ossip Schubin",
+   "work": "\"O Thou, My Austria!\"",
+   "translated": "1868-1900 (see the Gutenberg header)",
+   "translator": "Annis Lee Wister",
+   "scan_edition": "Project Gutenberg 35454 (clean text)"
+  },
+  "wister-streckfuss-castle-hohenwald-a-romance": {
+   "source": "wis-34892",
+   "of": "Adolf Streckfuss",
+   "work": "Castle Hohenwald: A Romance",
+   "translated": "1868-1900 (see the Gutenberg header)",
+   "translator": "Annis Lee Wister",
+   "scan_edition": "Project Gutenberg 34892 (clean text)"
+  },
+  "wister-streckfuss-quicksands": {
+   "source": "wis-34953",
+   "of": "Adolf Streckfuss",
+   "work": "Quicksands",
+   "translated": "1868-1900 (see the Gutenberg header)",
+   "translator": "Annis Lee Wister",
+   "scan_edition": "Project Gutenberg 34953 (clean text)"
+  },
+  "wister-streckfuss-the-lonely-house": {
+   "source": "wis-34917",
+   "of": "Adolf Streckfuss",
+   "work": "The Lonely House",
+   "translated": "1868-1900 (see the Gutenberg header)",
+   "translator": "Annis Lee Wister",
+   "scan_edition": "Project Gutenberg 34917 (clean text)"
+  },
+  "wister-streckfuss-too-rich-a-romance": {
+   "source": "wis-34995",
+   "of": "Adolf Streckfuss",
+   "work": "Too Rich: A Romance",
+   "translated": "1868-1900 (see the Gutenberg header)",
+   "translator": "Annis Lee Wister",
+   "scan_edition": "Project Gutenberg 34995 (clean text)"
+  },
+  "wister-werner-saint-michael-a-romance": {
+   "source": "wis-35116",
+   "of": "E. Werner",
+   "work": "Saint Michael: A Romance",
+   "translated": "1868-1900 (see the Gutenberg header)",
+   "translator": "Annis Lee Wister",
+   "scan_edition": "Project Gutenberg 35116 (clean text)"
+  },
+  "wister-werner-the-alpine-fay-a-romance": {
+   "source": "wis-35229",
+   "of": "E. Werner",
+   "work": "The Alpine Fay: A Romance",
+   "translated": "1868-1900 (see the Gutenberg header)",
+   "translator": "Annis Lee Wister",
+   "scan_edition": "Project Gutenberg 35229 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "wis-34892": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-34917": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "annis lee wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-34953": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-34995": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-35116": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-35229": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-35311": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-35454": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-35531": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-35541": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-36550": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-36709": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-42426": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-43393": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. L. Wister"
+  }
+ },
+ "_verified": {
+  "wis-34892": {
+   "pg": 34892,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-34917": {
+   "pg": 34917,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-34953": {
+   "pg": 34953,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-34995": {
+   "pg": 34995,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-35116": {
+   "pg": 35116,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-35229": {
+   "pg": 35229,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-35311": {
+   "pg": 35311,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-35454": {
+   "pg": 35454,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-35531": {
+   "pg": 35531,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-35541": {
+   "pg": 35541,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-36550": {
+   "pg": 36550,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-36709": {
+   "pg": 36709,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-42426": {
+   "pg": 42426,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. L. Wister"
+  },
+  "wis-43393": {
+   "pg": 43393,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. L. Wister"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,622 @@
+{
+ "_about": "TRANSLATOR SHELF: Sir Lascelles Wraxall (1828-1865): Gustave Aimard's tales of the American frontier (Ward & Lock, 1860s) and the first English Les Misérables (Hurst & Blackett, 1862, 5 vols). A second witness beside Hapgood's Les Misérables. US public domain. Added 2026-10-10 by lane C (round 20); Adam may veto. No uids minted.",
+ "_name_words": [
+  "wraxall"
+ ],
+ "_surname": [
+  "wraxall"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "wrx-40602": [
+   40602,
+   "The Freebooters: A Story of the Texan War"
+  ],
+  "wrx-42115": [
+   42115,
+   "The Trail-Hunter: A Tale of the Far West"
+  ],
+  "wrx-42117": [
+   42117,
+   "The Pirates of the Prairies: Adventures in the American Desert"
+  ],
+  "wrx-42119": [
+   42119,
+   "The Trapper's Daughter: A Story of the Rocky Mountains"
+  ],
+  "wrx-42532": [
+   42532,
+   "The Gold-Seekers: A Tale of California"
+  ],
+  "wrx-42535": [
+   42535,
+   "The Tiger-Slayer: A Tale of the Indian Desert"
+  ],
+  "wrx-42742": [
+   42742,
+   "The Indian Chief: The Story of a Revolution"
+  ],
+  "wrx-42834": [
+   42834,
+   "The Red Track: A Story of Social Life in Mexico"
+  ],
+  "wrx-43473": [
+   43473,
+   "The Trappers of Arkansas; or, The Loyal Heart"
+  ],
+  "wrx-43716": [
+   43716,
+   "The adventurers"
+  ],
+  "wrx-43925": [
+   43925,
+   "The Prairie Flower: A Tale of the Indian Border"
+  ],
+  "wrx-44196": [
+   44196,
+   "The Indian Scout: A Story of the Aztec City"
+  ],
+  "wrx-44375": [
+   44375,
+   "The Bee Hunters: A Tale of Adventure"
+  ],
+  "wrx-44421": [
+   44421,
+   "The Rebel Chief: A Tale of Guerilla Life"
+  ],
+  "wrx-44454": [
+   44454,
+   "The Smuggler Chief: A Novel"
+  ],
+  "wrx-44514": [
+   44514,
+   "Last of the Incas: A Romance of the Pampas"
+  ],
+  "wrx-44672": [
+   44672,
+   "Stronghand; or, The Noble Revenge"
+  ],
+  "wrx-46276": [
+   46276,
+   "The Treasure of Pearls: A Romance of Adventures in California"
+  ],
+  "wrx-48731": [
+   48731,
+   "Les Misérables, v. 1/5: Fantine"
+  ],
+  "wrx-48732": [
+   48732,
+   "Les Misérables, v. 2/5: Cosette"
+  ],
+  "wrx-48733": [
+   48733,
+   "Les Misérables, v. 3/5: Marius"
+  ],
+  "wrx-48734": [
+   48734,
+   "Les Misérables, v. 4/5: The Idyll and the Epic"
+  ],
+  "wrx-48735": [
+   48735,
+   "Les Misérables, v. 5/5: Jean Valjean"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "wraxall-aimard-last-of-the-incas-a-romance-of-the-pampa": {
+   "source": "wrx-44514",
+   "of": "Gustave Aimard",
+   "work": "Last of the Incas: A Romance of the Pampas",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 44514 (clean text)"
+  },
+  "wraxall-aimard-stronghand-or-the-noble-revenge": {
+   "source": "wrx-44672",
+   "of": "Gustave Aimard",
+   "work": "Stronghand; or, The Noble Revenge",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 44672 (clean text)"
+  },
+  "wraxall-aimard-the-adventurers": {
+   "source": "wrx-43716",
+   "of": "Gustave Aimard",
+   "work": "The adventurers",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 43716 (clean text)"
+  },
+  "wraxall-aimard-the-bee-hunters-a-tale-of-adventure": {
+   "source": "wrx-44375",
+   "of": "Gustave Aimard",
+   "work": "The Bee Hunters: A Tale of Adventure",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 44375 (clean text)"
+  },
+  "wraxall-aimard-the-freebooters-a-story-of-the-texan-war": {
+   "source": "wrx-40602",
+   "of": "Gustave Aimard",
+   "work": "The Freebooters: A Story of the Texan War",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 40602 (clean text)"
+  },
+  "wraxall-aimard-the-gold-seekers-a-tale-of-california": {
+   "source": "wrx-42532",
+   "of": "Gustave Aimard",
+   "work": "The Gold-Seekers: A Tale of California",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 42532 (clean text)"
+  },
+  "wraxall-aimard-the-indian-chief-the-story-of-a-revoluti": {
+   "source": "wrx-42742",
+   "of": "Gustave Aimard",
+   "work": "The Indian Chief: The Story of a Revolution",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 42742 (clean text)"
+  },
+  "wraxall-aimard-the-indian-scout-a-story-of-the-aztec-ci": {
+   "source": "wrx-44196",
+   "of": "Gustave Aimard",
+   "work": "The Indian Scout: A Story of the Aztec City",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 44196 (clean text)"
+  },
+  "wraxall-aimard-the-pirates-of-the-prairies-adventures-i": {
+   "source": "wrx-42117",
+   "of": "Gustave Aimard",
+   "work": "The Pirates of the Prairies: Adventures in the American Desert",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 42117 (clean text)"
+  },
+  "wraxall-aimard-the-prairie-flower-a-tale-of-the-indian": {
+   "source": "wrx-43925",
+   "of": "Gustave Aimard",
+   "work": "The Prairie Flower: A Tale of the Indian Border",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 43925 (clean text)"
+  },
+  "wraxall-aimard-the-rebel-chief-a-tale-of-guerilla-life": {
+   "source": "wrx-44421",
+   "of": "Gustave Aimard",
+   "work": "The Rebel Chief: A Tale of Guerilla Life",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 44421 (clean text)"
+  },
+  "wraxall-aimard-the-red-track-a-story-of-social-life-in": {
+   "source": "wrx-42834",
+   "of": "Gustave Aimard",
+   "work": "The Red Track: A Story of Social Life in Mexico",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 42834 (clean text)"
+  },
+  "wraxall-aimard-the-smuggler-chief-a-novel": {
+   "source": "wrx-44454",
+   "of": "Gustave Aimard",
+   "work": "The Smuggler Chief: A Novel",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 44454 (clean text)"
+  },
+  "wraxall-aimard-the-tiger-slayer-a-tale-of-the-indian-de": {
+   "source": "wrx-42535",
+   "of": "Gustave Aimard",
+   "work": "The Tiger-Slayer: A Tale of the Indian Desert",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 42535 (clean text)"
+  },
+  "wraxall-aimard-the-trail-hunter-a-tale-of-the-far-west": {
+   "source": "wrx-42115",
+   "of": "Gustave Aimard",
+   "work": "The Trail-Hunter: A Tale of the Far West",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 42115 (clean text)"
+  },
+  "wraxall-aimard-the-trapper-s-daughter-a-story-of-the-ro": {
+   "source": "wrx-42119",
+   "of": "Gustave Aimard",
+   "work": "The Trapper's Daughter: A Story of the Rocky Mountains",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 42119 (clean text)"
+  },
+  "wraxall-aimard-the-trappers-of-arkansas-or-the-loyal-he": {
+   "source": "wrx-43473",
+   "of": "Gustave Aimard",
+   "work": "The Trappers of Arkansas; or, The Loyal Heart",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 43473 (clean text)"
+  },
+  "wraxall-aimard-the-treasure-of-pearls-a-romance-of-adve": {
+   "source": "wrx-46276",
+   "of": "Gustave Aimard",
+   "work": "The Treasure of Pearls: A Romance of Adventures in California",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 46276 (clean text)"
+  },
+  "wraxall-hugo-les-miserables-v-1-5-fantine": {
+   "source": "wrx-48731",
+   "of": "Victor Hugo",
+   "work": "Les Misérables, v. 1/5: Fantine",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 48731 (clean text)"
+  },
+  "wraxall-hugo-les-miserables-v-2-5-cosette": {
+   "source": "wrx-48732",
+   "of": "Victor Hugo",
+   "work": "Les Misérables, v. 2/5: Cosette",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 48732 (clean text)"
+  },
+  "wraxall-hugo-les-miserables-v-3-5-marius": {
+   "source": "wrx-48733",
+   "of": "Victor Hugo",
+   "work": "Les Misérables, v. 3/5: Marius",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 48733 (clean text)"
+  },
+  "wraxall-hugo-les-miserables-v-4-5-the-idyll-and-the-e": {
+   "source": "wrx-48734",
+   "of": "Victor Hugo",
+   "work": "Les Misérables, v. 4/5: The Idyll and the Epic",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 48734 (clean text)"
+  },
+  "wraxall-hugo-les-miserables-v-5-5-jean-valjean": {
+   "source": "wrx-48735",
+   "of": "Victor Hugo",
+   "work": "Les Misérables, v. 5/5: Jean Valjean",
+   "translated": "1861-1865 (see the Gutenberg header)",
+   "translator": "Lascelles Wraxall",
+   "scan_edition": "Project Gutenberg 48735 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "wrx-40602": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-42115": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-42117": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-42119": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-42532": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-42535": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-42742": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-42834": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-43473": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-43716": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-43925": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-44196": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-44375": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-44421": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-44454": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-44514": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-44672": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-46276": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-48731": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-48732": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-48733": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-48734": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-48735": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "wraxall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  }
+ },
+ "_verified": {
+  "wrx-40602": {
+   "pg": 40602,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-42115": {
+   "pg": 42115,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-42117": {
+   "pg": 42117,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-42119": {
+   "pg": 42119,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-42532": {
+   "pg": 42532,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-42535": {
+   "pg": 42535,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-42742": {
+   "pg": 42742,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-42834": {
+   "pg": 42834,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-43473": {
+   "pg": 43473,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-43716": {
+   "pg": 43716,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-43925": {
+   "pg": 43925,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-44196": {
+   "pg": 44196,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-44375": {
+   "pg": 44375,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-44421": {
+   "pg": 44421,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-44454": {
+   "pg": 44454,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-44514": {
+   "pg": 44514,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-44672": {
+   "pg": 44672,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-46276": {
+   "pg": 46276,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-48731": {
+   "pg": 48731,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-48732": {
+   "pg": 48732,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-48733": {
+   "pg": 48733,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-48734": {
+   "pg": 48734,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  },
+  "wrx-48735": {
+   "pg": 48735,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Lascelles Wraxall"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

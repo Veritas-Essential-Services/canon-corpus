@@ -1,0 +1,2117 @@
+{
+ "_about": "SINGLE-TRANSLATION SHELF: one-off English translations of nineteenth-century continental fiction: the German novel and novella of the 1870s-90s (Auerbach, Heyse, Spielhagen, E. Werner, Ossip Schubin, Franzos, Heimburg, Dahn, Reuter, Hausrath, Kohn, Gerstäcker, Sudermann's The Wish, Keller's Seven Legends, Thomas Mann's Royal Highness, 1916), Jókai by translators other than Bain, Bjørnson's Arne and In God's Way, Ingemann, Kraszewski, Couperus, Van Eeden's The Quest, De Coster's Ulenspiegel (Whitworth) and Flemish Legends, Blasco Ibáñez, Turgenev's Annouchka, Hugo's Toilers of the Sea (W. Moy Thomas), Dumas's Prussian Terror (R. S. Garnett), Paul de Kock, Laclos's Dangerous Connections (1812), Gourmont (Aldous Huxley's A Virgin Heart, 1921), Leblanc, Aimard, Pardo Bazán, Trueba, Guerrazzi, Strindberg's On the Seaboard, Cyrano de Bergerac's Voyage to the Moon (Lovell, 1687) and Tyssot de Patot's James Massey (Whatley, 1733). Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 42); Adam may veto. No uids minted.",
+ "_name_words": [
+  "a. cecil curtis",
+  "aldous huxley",
+  "alexander v. w. bikkers",
+  "alfred elwes",
+  "annabel hord seeger",
+  "annie b. irish",
+  "archibald lovell",
+  "arthur milman",
+  "augusta plesner",
+  "beatrice danford",
+  "beatrice m. mekota",
+  "benjamin shepherd berrington",
+  "charles c. shackford",
+  "charles chauncy shackford",
+  "charles goepp",
+  "charles lee lewes",
+  "charlton thomas lewis",
+  "constance stewart copeland",
+  "da kowalewska",
+  "david black",
+  "e. h. lockwood",
+  "e. van gerpen",
+  "edith mary norris",
+  "elizabeth carmichael",
+  "elizabeth clarke westergren",
+  "emil reich",
+  "eva freeman hart",
+  "frances a. gerard",
+  "frances a. van santford",
+  "francis haffkine snow",
+  "franklin pierce abbott",
+  "g. h. kingsley",
+  "geoffrey arundel whitworth",
+  "george henry kingsley",
+  "george morehead",
+  "george raffalovich",
+  "gertrude hughes brækstad",
+  "h. e. goldschmidt",
+  "h. g. godwin",
+  "harold taylor",
+  "helen keer brown",
+  "henry joseph gill",
+  "irving brown",
+  "j. l. barrets",
+  "j. v. prichard",
+  "j. w. davis",
+  "john kesson",
+  "l. c. s.",
+  "l. p. lewis",
+  "laura ward cole",
+  "levi sternberg",
+  "lily henkel",
+  "linda da kowalewska",
+  "louis felbermann",
+  "luigi monti",
+  "m. m.",
+  "martin wyness",
+  "mary maxwell",
+  "miles corbet",
+  "mrs. j. w. davis",
+  "percy b. st. john",
+  "percy bolingbroke st. john",
+  "r. s. garnett",
+  "ray davidson",
+  "robert singleton garnett",
+  "sarah holland adams",
+  "sophie f. f. veitch",
+  "sophie frances fane veitch",
+  "st. john",
+  "stephen whatley",
+  "susan rugeley-powers",
+  "sutton fraser corkran",
+  "thomas moore",
+  "tom hood",
+  "van gerpen",
+  "van santford",
+  "w. moy thomas",
+  "william hand browne",
+  "william moy thomas"
+ ],
+ "_surname": [
+  "a. cecil curtis",
+  "aldous huxley",
+  "alexander v. w. bikkers",
+  "alfred elwes",
+  "annabel hord seeger",
+  "annie b. irish",
+  "archibald lovell",
+  "arthur milman",
+  "augusta plesner",
+  "beatrice danford",
+  "beatrice m. mekota",
+  "benjamin shepherd berrington",
+  "charles c. shackford",
+  "charles chauncy shackford",
+  "charles goepp",
+  "charles lee lewes",
+  "charlton thomas lewis",
+  "constance stewart copeland",
+  "da kowalewska",
+  "david black",
+  "e. h. lockwood",
+  "e. van gerpen",
+  "edith mary norris",
+  "elizabeth carmichael",
+  "elizabeth clarke westergren",
+  "emil reich",
+  "eva freeman hart",
+  "frances a. gerard",
+  "frances a. van santford",
+  "francis haffkine snow",
+  "franklin pierce abbott",
+  "g. h. kingsley",
+  "geoffrey arundel whitworth",
+  "george henry kingsley",
+  "george morehead",
+  "george raffalovich",
+  "gertrude hughes brækstad",
+  "h. e. goldschmidt",
+  "h. g. godwin",
+  "harold taylor",
+  "helen keer brown",
+  "henry joseph gill",
+  "irving brown",
+  "j. l. barrets",
+  "j. v. prichard",
+  "j. w. davis",
+  "john kesson",
+  "l. c. s.",
+  "l. p. lewis",
+  "laura ward cole",
+  "levi sternberg",
+  "lily henkel",
+  "linda da kowalewska",
+  "louis felbermann",
+  "luigi monti",
+  "m. m.",
+  "martin wyness",
+  "mary maxwell",
+  "miles corbet",
+  "mrs. j. w. davis",
+  "percy b. st. john",
+  "percy bolingbroke st. john",
+  "r. s. garnett",
+  "ray davidson",
+  "robert singleton garnett",
+  "sarah holland adams",
+  "sophie f. f. veitch",
+  "sophie frances fane veitch",
+  "st. john",
+  "stephen whatley",
+  "susan rugeley-powers",
+  "sutton fraser corkran",
+  "thomas moore",
+  "tom hood",
+  "van gerpen",
+  "van santford",
+  "w. moy thomas",
+  "william hand browne",
+  "william moy thomas"
+ ],
+ "_surname_by_slug": {
+  "scf-32338": [
+   "thomas",
+   "w. moy thomas",
+   "william moy thomas"
+  ],
+  "scf-32442": [
+   "davis",
+   "j. w. davis",
+   "mrs. j. w. davis"
+  ],
+  "scf-32443": [
+   "sophie f. f. veitch",
+   "sophie frances fane veitch",
+   "veitch"
+  ],
+  "scf-32517": [
+   "charles goepp",
+   "goepp"
+  ],
+  "scf-32902": [
+   "charles c. shackford",
+   "charles chauncy shackford",
+   "shackford"
+  ],
+  "scf-33008": [
+   "annie b. irish",
+   "irish"
+  ],
+  "scf-32668": [
+   "frances a. gerard",
+   "gerard"
+  ],
+  "scf-34574": [
+   "felbermann",
+   "louis felbermann"
+  ],
+  "scf-34911": [
+   "beatrice danford",
+   "danford"
+  ],
+  "scf-36739": [
+   "emil reich",
+   "reich"
+  ],
+  "scf-33133": [
+   "corkran",
+   "sutton fraser corkran"
+  ],
+  "scf-33789": [
+   "l. c. s."
+  ],
+  "scf-33878": [
+   "frances a. van santford",
+   "van santford"
+  ],
+  "scf-34102": [
+   "constance stewart copeland",
+   "copeland"
+  ],
+  "scf-34104": [
+   "g. h. kingsley",
+   "george henry kingsley",
+   "kingsley"
+  ],
+  "scf-33886": [
+   "henkel",
+   "lily henkel"
+  ],
+  "scf-34504": [
+   "martin wyness",
+   "wyness"
+  ],
+  "scf-34583": [
+   "levi sternberg",
+   "sternberg"
+  ],
+  "scf-34764": [
+   "goldschmidt",
+   "h. e. goldschmidt"
+  ],
+  "scf-34868": [
+   "browne",
+   "william hand browne"
+  ],
+  "scf-35023": [
+   "j. v. prichard",
+   "prichard"
+  ],
+  "scf-35036": [
+   "davidson",
+   "ray davidson"
+  ],
+  "scf-35069": [
+   "e. van gerpen",
+   "eva freeman hart",
+   "hart",
+   "van gerpen"
+  ],
+  "scf-35135": [
+   "godwin",
+   "h. g. godwin"
+  ],
+  "scf-35142": [
+   "brown",
+   "helen keer brown"
+  ],
+  "scf-35246": [
+   "augusta plesner",
+   "plesner",
+   "rugeley-powers",
+   "susan rugeley-powers"
+  ],
+  "scf-37726": [
+   "carmichael",
+   "elizabeth carmichael"
+  ],
+  "scf-35385": [
+   "adams",
+   "sarah holland adams"
+  ],
+  "scf-35590": [
+   "e. h. lockwood",
+   "lockwood"
+  ],
+  "scf-35672": [
+   "mary maxwell",
+   "maxwell"
+  ],
+  "scf-35852": [
+   "charles lee lewes",
+   "lewes"
+  ],
+  "scf-36016": [
+   "garnett",
+   "r. s. garnett",
+   "robert singleton garnett"
+  ],
+  "scf-36028": [
+   "a. cecil curtis",
+   "curtis"
+  ],
+  "scf-36626": [
+   "john kesson",
+   "kesson"
+  ],
+  "scf-36854": [
+   "corbet",
+   "miles corbet"
+  ],
+  "scf-36937": [
+   "charlton thomas lewis",
+   "l. p. lewis",
+   "lewis"
+  ],
+  "scf-36855": [
+   "arthur milman",
+   "milman"
+  ],
+  "scf-37453": [
+   "edith mary norris",
+   "norris"
+  ],
+  "scf-37599": [
+   "geoffrey arundel whitworth",
+   "whitworth"
+  ],
+  "scf-37668": [
+   "harold taylor",
+   "taylor"
+  ],
+  "scf-37621": [
+   "da kowalewska",
+   "linda da kowalewska"
+  ],
+  "scf-38005": [
+   "benjamin shepherd berrington",
+   "berrington"
+  ],
+  "scf-38165": [
+   "beatrice m. mekota",
+   "francis haffkine snow",
+   "mekota",
+   "snow"
+  ],
+  "scf-38458": [
+   "brown",
+   "irving brown"
+  ],
+  "scf-39427": [
+   "abbott",
+   "franklin pierce abbott"
+  ],
+  "scf-40155": [
+   "m. m."
+  ],
+  "scf-40203": [
+   "george morehead",
+   "morehead"
+  ],
+  "scf-40657": [
+   "cole",
+   "laura ward cole"
+  ],
+  "scf-41509": [
+   "annabel hord seeger",
+   "seeger"
+  ],
+  "scf-41990": [
+   "gill",
+   "henry joseph gill"
+  ],
+  "scf-42672": [
+   "black",
+   "david black"
+  ],
+  "scf-44184": [
+   "elizabeth clarke westergren",
+   "westergren"
+  ],
+  "scf-44384": [
+   "aldous huxley",
+   "huxley"
+  ],
+  "scf-45920": [
+   "barrets",
+   "j. l. barrets"
+  ],
+  "scf-44428": [
+   "hood",
+   "tom hood"
+  ],
+  "scf-44433": [
+   "alfred elwes",
+   "elwes"
+  ],
+  "scf-44574": [
+   "percy b. st. john",
+   "percy bolingbroke st. john",
+   "st. john"
+  ],
+  "scf-45350": [
+   "alexander v. w. bikkers",
+   "bikkers"
+  ],
+  "scf-45512": [
+   "moore",
+   "thomas moore"
+  ],
+  "scf-45857": [
+   "george raffalovich",
+   "raffalovich"
+  ],
+  "scf-46006": [
+   "brækstad",
+   "gertrude hughes brækstad"
+  ],
+  "scf-46967": [
+   "luigi monti",
+   "monti"
+  ],
+  "scf-46547": [
+   "archibald lovell",
+   "lovell"
+  ],
+  "scf-37400": [
+   "stephen whatley",
+   "whatley"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "scf-32338": [
+   32338,
+   "Toilers of the sea"
+  ],
+  "scf-32442": [
+   32442,
+   "Gertrude's Marriage"
+  ],
+  "scf-32443": [
+   32443,
+   "Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century"
+  ],
+  "scf-32517": [
+   32517,
+   "Black Forest Village Stories"
+  ],
+  "scf-32902": [
+   32902,
+   "Villa Eden: The Country-House on the Rhine"
+  ],
+  "scf-33008": [
+   33008,
+   "Landolin"
+  ],
+  "scf-32668": [
+   32668,
+   "Black Diamonds: A Novel"
+  ],
+  "scf-34574": [
+   34574,
+   "In Love With the Czarina, and Other Stories"
+  ],
+  "scf-34911": [
+   34911,
+   "The yellow rose"
+  ],
+  "scf-36739": [
+   36739,
+   "The Strange Story of Rab Ráby"
+  ],
+  "scf-33133": [
+   33133,
+   "Klytia: A Story of Heidelberg Castle"
+  ],
+  "scf-33789": [
+   33789,
+   "Barbarossa, and Other Tales"
+  ],
+  "scf-33878": [
+   33878,
+   "At the Ghost Hour. The House of the Unbelieving Thomas"
+  ],
+  "scf-34102": [
+   34102,
+   "A divided heart, and other stories"
+  ],
+  "scf-34104": [
+   34104,
+   "Four Phases of Love"
+  ],
+  "scf-33886": [
+   33886,
+   "The Wish: A Novel"
+  ],
+  "scf-34504": [
+   34504,
+   "Seven Legends"
+  ],
+  "scf-34583": [
+   34583,
+   "The German Pioneers: A Tale of the Mohawk"
+  ],
+  "scf-34764": [
+   34764,
+   "Quisisana; or, Rest at Last"
+  ],
+  "scf-34868": [
+   34868,
+   "Hammer and Anvil: A Novel"
+  ],
+  "scf-35023": [
+   35023,
+   "Garrick's Pupil"
+  ],
+  "scf-35036": [
+   35036,
+   "Verotchka's Tales"
+  ],
+  "scf-35069": [
+   35069,
+   "The Sign of Flame"
+  ],
+  "scf-35135": [
+   35135,
+   "Partners: A Novel."
+  ],
+  "scf-35142": [
+   35142,
+   "Hermann: A Novel"
+  ],
+  "scf-35246": [
+   35246,
+   "Arne: A Sketch of Norwegian Country Life"
+  ],
+  "scf-37726": [
+   37726,
+   "In God's Way: A Novel"
+  ],
+  "scf-35385": [
+   35385,
+   "Blanche: The Maid of Lille"
+  ],
+  "scf-35590": [
+   35590,
+   "The Story of a Genius"
+  ],
+  "scf-35672": [
+   35672,
+   "'Gloria Victis!' A Romance"
+  ],
+  "scf-35852": [
+   35852,
+   "In the Year '13: A Tale of Mecklenburg Life"
+  ],
+  "scf-36016": [
+   36016,
+   "The Prussian Terror"
+  ],
+  "scf-36028": [
+   36028,
+   "Royal Highness"
+  ],
+  "scf-36626": [
+   36626,
+   "The Childhood of King Erik Menved: An Historical Romance"
+  ],
+  "scf-36854": [
+   36854,
+   "The Chief Justice: A Novel"
+  ],
+  "scf-36937": [
+   36937,
+   "Judith Trachtenberg: A Novel"
+  ],
+  "scf-36855": [
+   36855,
+   "Gabriel: A Story of the Jews in Prague"
+  ],
+  "scf-37453": [
+   37453,
+   "The Barber of Paris"
+  ],
+  "scf-37599": [
+   37599,
+   "The Legend of the Glorious Adventures of Tyl Ulenspiegel in the land of Flanders and elsewhere"
+  ],
+  "scf-37668": [
+   37668,
+   "Flemish Legends"
+  ],
+  "scf-37621": [
+   37621,
+   "The Jew"
+  ],
+  "scf-38005": [
+   38005,
+   "Psyche"
+  ],
+  "scf-38165": [
+   38165,
+   "The Cabin [La barraca]"
+  ],
+  "scf-38458": [
+   38458,
+   "The Enemies of Women (Los enemigos de la mujer)"
+  ],
+  "scf-39427": [
+   39427,
+   "Annouchka: A Tale"
+  ],
+  "scf-40155": [
+   40155,
+   "Akbar: An Eastern Romance"
+  ],
+  "scf-40203": [
+   40203,
+   "Arsène Lupin versus Herlock Sholmes"
+  ],
+  "scf-40657": [
+   40657,
+   "The Quest The authorized translation from the Dutch of De kleine Johannes"
+  ],
+  "scf-41509": [
+   41509,
+   "The Mystery of the Lost Dauphin (Louis XVII)"
+  ],
+  "scf-41990": [
+   41990,
+   "The Cid Campeador: A Historical Romance"
+  ],
+  "scf-42672": [
+   42672,
+   "The wanderings and fortunes of some German emigrants"
+  ],
+  "scf-44184": [
+   44184,
+   "On the Seaboard: A Novel of the Baltic Islands"
+  ],
+  "scf-44384": [
+   44384,
+   "A Virgin Heart: A Novel"
+  ],
+  "scf-45920": [
+   45920,
+   "Very woman (Sixtine)"
+  ],
+  "scf-44428": [
+   44428,
+   "The Days of Chivalry; Or, The Legend of Croquemitaine"
+  ],
+  "scf-44433": [
+   44433,
+   "Jaufry the Knight and the Fair Brunissende: A Tale of the Times of King Arthur"
+  ],
+  "scf-44574": [
+   44574,
+   "The Missouri Outlaws"
+  ],
+  "scf-45350": [
+   45350,
+   "Anno Domini 2071 Translated from the Dutch Original"
+  ],
+  "scf-45512": [
+   45512,
+   "Dangerous Connections, v. 1, 2, 3, 4 A Series of Letters, selected from the Correspondence of a Private Circle; and Published for the Instruction of Society."
+  ],
+  "scf-45857": [
+   45857,
+   "Two banks of the Seine (Les Deux Rives)"
+  ],
+  "scf-46006": [
+   46006,
+   "The Black Tortoise: Being the Strange Story of Old Frick's Diamond"
+  ],
+  "scf-46967": [
+   46967,
+   "Isabella Orsini: A Historical Novel of the Fifteenth Century"
+  ],
+  "scf-46547": [
+   46547,
+   "A Voyage to the Moon"
+  ],
+  "scf-37400": [
+   37400,
+   "The Travels and Adventures of James Massey"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "singles-continental-fiction-aimard-the-missouri-outlaws": {
+   "source": "scf-44574",
+   "of": "Gustave Aimard",
+   "work": "The Missouri Outlaws",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Percy B. St. John",
+   "scan_edition": "Project Gutenberg 44574 (clean text)"
+  },
+  "singles-continental-fiction-auerbach-black-forest-village-stories": {
+   "source": "scf-32517",
+   "of": "Berthold Auerbach",
+   "work": "Black Forest Village Stories",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles Goepp",
+   "scan_edition": "Project Gutenberg 32517 (clean text)"
+  },
+  "singles-continental-fiction-auerbach-landolin": {
+   "source": "scf-33008",
+   "of": "Berthold Auerbach",
+   "work": "Landolin",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Annie B. Irish",
+   "scan_edition": "Project Gutenberg 33008 (clean text)"
+  },
+  "singles-continental-fiction-auerbach-villa-eden": {
+   "source": "scf-32902",
+   "of": "Berthold Auerbach",
+   "work": "Villa Eden: The Country-House on the Rhine",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles C. Shackford",
+   "scan_edition": "Project Gutenberg 32902 (clean text)"
+  },
+  "singles-continental-fiction-bazan-the-mystery-of-the-lost-dauphin-louis-xv": {
+   "source": "scf-41509",
+   "of": "Emilia Pardo Bazán",
+   "work": "The Mystery of the Lost Dauphin (Louis XVII)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Annabel Hord Seeger",
+   "scan_edition": "Project Gutenberg 41509 (clean text)"
+  },
+  "singles-continental-fiction-bergerac-a-voyage-to-the-moon": {
+   "source": "scf-46547",
+   "of": "Cyrano de Bergerac",
+   "work": "A Voyage to the Moon",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Archibald Lovell",
+   "scan_edition": "Project Gutenberg 46547 (clean text)",
+   "note": "Not Aldington's 1923 Voyages to the Moon and the Sun (richard-aldington shelf): Archibald Lovell's 1687 translation, a different witness."
+  },
+  "singles-continental-fiction-bjornson-arne": {
+   "source": "scf-35246",
+   "of": "Bjørnstjerne Bjørnson",
+   "work": "Arne: A Sketch of Norwegian Country Life",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Augusta Plesner and Susan Rugeley-Powers",
+   "scan_edition": "Project Gutenberg 35246 (clean text)"
+  },
+  "singles-continental-fiction-bjornson-in-god-s-way": {
+   "source": "scf-37726",
+   "of": "Bjørnstjerne Bjørnson",
+   "work": "In God's Way: A Novel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Elizabeth Carmichael",
+   "scan_edition": "Project Gutenberg 37726 (clean text)"
+  },
+  "singles-continental-fiction-brouwer-akbar": {
+   "source": "scf-40155",
+   "of": "P. A. S. van Limburg Brouwer",
+   "work": "Akbar: An Eastern Romance",
+   "translated": "(see the Gutenberg header)",
+   "translator": "M. M.",
+   "scan_edition": "Project Gutenberg 40155 (clean text)"
+  },
+  "singles-continental-fiction-coster-flemish-legends": {
+   "source": "scf-37668",
+   "of": "Charles de Coster",
+   "work": "Flemish Legends",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Harold Taylor",
+   "scan_edition": "Project Gutenberg 37668 (clean text)"
+  },
+  "singles-continental-fiction-coster-the-legend-of-the-glorious-adventures-of": {
+   "source": "scf-37599",
+   "of": "Charles de Coster",
+   "work": "The Legend of the Glorious Adventures of Tyl Ulenspiegel in the land of Flanders and elsewhere",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Geoffrey Arundel Whitworth",
+   "scan_edition": "Project Gutenberg 37599 (clean text)"
+  },
+  "singles-continental-fiction-couperus-psyche": {
+   "source": "scf-38005",
+   "of": "Louis Couperus",
+   "work": "Psyche",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Benjamin Shepherd Berrington",
+   "scan_edition": "Project Gutenberg 38005 (clean text)"
+  },
+  "singles-continental-fiction-dahn-saga-of-halfred-the-sigskald": {
+   "source": "scf-32443",
+   "of": "Felix Dahn",
+   "work": "Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Sophie F. F. Veitch",
+   "scan_edition": "Project Gutenberg 32443 (clean text)"
+  },
+  "singles-continental-fiction-dumas-the-prussian-terror": {
+   "source": "scf-36016",
+   "of": "Alexandre Dumas",
+   "work": "The Prussian Terror",
+   "translated": "(see the Gutenberg header)",
+   "translator": "R. S. Garnett",
+   "scan_edition": "Project Gutenberg 36016 (clean text)"
+  },
+  "singles-continental-fiction-eeden-the-quest-the-authorized-translation-fro": {
+   "source": "scf-40657",
+   "of": "Frederik van Eeden",
+   "work": "The Quest The authorized translation from the Dutch of De kleine Johannes",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Laura Ward Cole",
+   "scan_edition": "Project Gutenberg 40657 (clean text)"
+  },
+  "singles-continental-fiction-filon-garrick-s-pupil": {
+   "source": "scf-35023",
+   "of": "Augustin Filon",
+   "work": "Garrick's Pupil",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. V. Prichard",
+   "scan_edition": "Project Gutenberg 35023 (clean text)"
+  },
+  "singles-continental-fiction-franzos-judith-trachtenberg": {
+   "source": "scf-36937",
+   "of": "Karl Emil Franzos",
+   "work": "Judith Trachtenberg: A Novel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charlton Thomas Lewis and L. P. Lewis",
+   "scan_edition": "Project Gutenberg 36937 (clean text)"
+  },
+  "singles-continental-fiction-franzos-the-chief-justice": {
+   "source": "scf-36854",
+   "of": "Karl Emil Franzos",
+   "work": "The Chief Justice: A Novel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Miles Corbet",
+   "scan_edition": "Project Gutenberg 36854 (clean text)"
+  },
+  "singles-continental-fiction-gerstacker-the-wanderings-and-fortunes-of-some-germ": {
+   "source": "scf-42672",
+   "of": "Friedrich Gerstäcker",
+   "work": "The wanderings and fortunes of some German emigrants",
+   "translated": "(see the Gutenberg header)",
+   "translator": "David Black",
+   "scan_edition": "Project Gutenberg 42672 (clean text)"
+  },
+  "singles-continental-fiction-gourmont-a-virgin-heart": {
+   "source": "scf-44384",
+   "of": "Remy de Gourmont",
+   "work": "A Virgin Heart: A Novel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Aldous Huxley",
+   "scan_edition": "Project Gutenberg 44384 (clean text)"
+  },
+  "singles-continental-fiction-gourmont-very-woman-sixtine": {
+   "source": "scf-45920",
+   "of": "Remy de Gourmont",
+   "work": "Very woman (Sixtine)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. L. Barrets",
+   "scan_edition": "Project Gutenberg 45920 (clean text)"
+  },
+  "singles-continental-fiction-guerrazzi-isabella-orsini": {
+   "source": "scf-46967",
+   "of": "Francesco Domenico Guerrazzi",
+   "work": "Isabella Orsini: A Historical Novel of the Fifteenth Century",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Luigi Monti",
+   "scan_edition": "Project Gutenberg 46967 (clean text)"
+  },
+  "singles-continental-fiction-harting-anno-domini-2071-translated-from-the-dut": {
+   "source": "scf-45350",
+   "of": "Pieter Harting",
+   "work": "Anno Domini 2071 Translated from the Dutch Original",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Alexander V. W. Bikkers",
+   "scan_edition": "Project Gutenberg 45350 (clean text)"
+  },
+  "singles-continental-fiction-hausrath-klytia": {
+   "source": "scf-33133",
+   "of": "Adolf Hausrath",
+   "work": "Klytia: A Story of Heidelberg Castle",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Sutton Fraser Corkran",
+   "scan_edition": "Project Gutenberg 33133 (clean text)"
+  },
+  "singles-continental-fiction-heimburg-gertrude-s-marriage": {
+   "source": "scf-32442",
+   "of": "W. Heimburg",
+   "work": "Gertrude's Marriage",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. W. Davis",
+   "scan_edition": "Project Gutenberg 32442 (clean text)"
+  },
+  "singles-continental-fiction-heyse-a-divided-heart-and-other-stories": {
+   "source": "scf-34102",
+   "of": "Paul Heyse",
+   "work": "A divided heart, and other stories",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Constance Stewart Copeland",
+   "scan_edition": "Project Gutenberg 34102 (clean text)"
+  },
+  "singles-continental-fiction-heyse-at-the-ghost-hour-the-house-of-the-unbel": {
+   "source": "scf-33878",
+   "of": "Paul Heyse",
+   "work": "At the Ghost Hour. The House of the Unbelieving Thomas",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Frances A. Van Santford",
+   "scan_edition": "Project Gutenberg 33878 (clean text)"
+  },
+  "singles-continental-fiction-heyse-barbarossa-and-other-tales": {
+   "source": "scf-33789",
+   "of": "Paul Heyse",
+   "work": "Barbarossa, and Other Tales",
+   "translated": "(see the Gutenberg header)",
+   "translator": "L. C. S.",
+   "scan_edition": "Project Gutenberg 33789 (clean text)"
+  },
+  "singles-continental-fiction-heyse-four-phases-of-love": {
+   "source": "scf-34104",
+   "of": "Paul Heyse",
+   "work": "Four Phases of Love",
+   "translated": "(see the Gutenberg header)",
+   "translator": "G. H. Kingsley",
+   "scan_edition": "Project Gutenberg 34104 (clean text)"
+  },
+  "singles-continental-fiction-hugo-toilers-of-the-sea": {
+   "source": "scf-32338",
+   "of": "Victor Hugo",
+   "work": "Toilers of the sea",
+   "translated": "(see the Gutenberg header)",
+   "translator": "W. Moy Thomas",
+   "scan_edition": "Project Gutenberg 32338 (clean text)"
+  },
+  "singles-continental-fiction-ibanez-the-cabin-la-barraca": {
+   "source": "scf-38165",
+   "of": "Vicente Blasco Ibáñez",
+   "work": "The Cabin [La barraca]",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Beatrice M. Mekota and Francis Haffkine Snow",
+   "scan_edition": "Project Gutenberg 38165 (clean text)"
+  },
+  "singles-continental-fiction-ibanez-the-enemies-of-women-los-enemigos-de-la": {
+   "source": "scf-38458",
+   "of": "Vicente Blasco Ibáñez",
+   "work": "The Enemies of Women (Los enemigos de la mujer)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Irving Brown",
+   "scan_edition": "Project Gutenberg 38458 (clean text)"
+  },
+  "singles-continental-fiction-ingemann-the-childhood-of-king-erik-menved": {
+   "source": "scf-36626",
+   "of": "Bernhard Severin Ingemann",
+   "work": "The Childhood of King Erik Menved: An Historical Romance",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Kesson",
+   "scan_edition": "Project Gutenberg 36626 (clean text)"
+  },
+  "singles-continental-fiction-jokai-black-diamonds": {
+   "source": "scf-32668",
+   "of": "Mór Jókai",
+   "work": "Black Diamonds: A Novel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Frances A. Gerard",
+   "scan_edition": "Project Gutenberg 32668 (clean text)",
+   "note": "Jókai in Bain's translations is on bain-jokai; this and the other Jókai titles here are by other translators."
+  },
+  "singles-continental-fiction-jokai-in-love-with-the-czarina-and-other-stori": {
+   "source": "scf-34574",
+   "of": "Mór Jókai",
+   "work": "In Love With the Czarina, and Other Stories",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Louis Felbermann",
+   "scan_edition": "Project Gutenberg 34574 (clean text)"
+  },
+  "singles-continental-fiction-jokai-the-strange-story-of-rab-raby": {
+   "source": "scf-36739",
+   "of": "Mór Jókai",
+   "work": "The Strange Story of Rab Ráby",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Emil Reich",
+   "scan_edition": "Project Gutenberg 36739 (clean text)"
+  },
+  "singles-continental-fiction-jokai-the-yellow-rose": {
+   "source": "scf-34911",
+   "of": "Mór Jókai",
+   "work": "The yellow rose",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Beatrice Danford",
+   "scan_edition": "Project Gutenberg 34911 (clean text)"
+  },
+  "singles-continental-fiction-keller-seven-legends": {
+   "source": "scf-34504",
+   "of": "Gottfried Keller",
+   "work": "Seven Legends",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Martin Wyness",
+   "scan_edition": "Project Gutenberg 34504 (clean text)"
+  },
+  "singles-continental-fiction-kock-the-barber-of-paris": {
+   "source": "scf-37453",
+   "of": "Paul de Kock",
+   "work": "The Barber of Paris",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edith Mary Norris",
+   "scan_edition": "Project Gutenberg 37453 (clean text)"
+  },
+  "singles-continental-fiction-kohn-gabriel": {
+   "source": "scf-36855",
+   "of": "S. Kohn",
+   "work": "Gabriel: A Story of the Jews in Prague",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Arthur Milman",
+   "scan_edition": "Project Gutenberg 36855 (clean text)"
+  },
+  "singles-continental-fiction-kraszewski-the-jew": {
+   "source": "scf-37621",
+   "of": "Józef Ignacy Kraszewski",
+   "work": "The Jew",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Linda Da Kowalewska",
+   "scan_edition": "Project Gutenberg 37621 (clean text)"
+  },
+  "singles-continental-fiction-laclos-dangerous-connections-v-1-2-3-4-a-series": {
+   "source": "scf-45512",
+   "of": "Choderlos de Laclos",
+   "work": "Dangerous Connections, v. 1, 2, 3, 4 A Series of Letters, selected from the Correspondence of a Private Circle; and Published for the Instruction of Society.",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Thomas Moore",
+   "scan_edition": "Project Gutenberg 45512 (clean text)"
+  },
+  "singles-continental-fiction-leblanc-arsene-lupin-versus-herlock-sholmes": {
+   "source": "scf-40203",
+   "of": "Maurice Leblanc",
+   "work": "Arsène Lupin versus Herlock Sholmes",
+   "translated": "(see the Gutenberg header)",
+   "translator": "George Morehead",
+   "scan_edition": "Project Gutenberg 40203 (clean text)"
+  },
+  "singles-continental-fiction-mamin-siberiak-verotchka-s-tales": {
+   "source": "scf-35036",
+   "of": "D. N. Mamin-Siberiak",
+   "work": "Verotchka's Tales",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ray Davidson",
+   "scan_edition": "Project Gutenberg 35036 (clean text)"
+  },
+  "singles-continental-fiction-mann-royal-highness": {
+   "source": "scf-36028",
+   "of": "Thomas Mann",
+   "work": "Royal Highness",
+   "translated": "(see the Gutenberg header)",
+   "translator": "A. Cecil Curtis",
+   "scan_edition": "Project Gutenberg 36028 (clean text)"
+  },
+  "singles-continental-fiction-mary-lafon-jaufry-the-knight-and-the-fair-brunissen": {
+   "source": "scf-44433",
+   "of": "Jean Bernard Lafon Mary-Lafon",
+   "work": "Jaufry the Knight and the Fair Brunissende: A Tale of the Times of King Arthur",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Alfred Elwes",
+   "scan_edition": "Project Gutenberg 44433 (clean text)"
+  },
+  "singles-continental-fiction-patot-the-travels-and-adventures-of-james-mass": {
+   "source": "scf-37400",
+   "of": "Simon Tyssot de Patot",
+   "work": "The Travels and Adventures of James Massey",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Stephen Whatley",
+   "scan_edition": "Project Gutenberg 37400 (clean text)"
+  },
+  "singles-continental-fiction-quatrelles-the-days-of-chivalry": {
+   "source": "scf-44428",
+   "of": "Quatrelles",
+   "work": "The Days of Chivalry; Or, The Legend of Croquemitaine",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Tom Hood",
+   "scan_edition": "Project Gutenberg 44428 (clean text)"
+  },
+  "singles-continental-fiction-reuter-in-the-year-13": {
+   "source": "scf-35852",
+   "of": "Fritz Reuter",
+   "work": "In the Year '13: A Tale of Mecklenburg Life",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles Lee Lewes",
+   "scan_edition": "Project Gutenberg 35852 (clean text)"
+  },
+  "singles-continental-fiction-schubin-blanche": {
+   "source": "scf-35385",
+   "of": "Ossip Schubin",
+   "work": "Blanche: The Maid of Lille",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Sarah Holland Adams",
+   "scan_edition": "Project Gutenberg 35385 (clean text)"
+  },
+  "singles-continental-fiction-schubin-gloria-victis-a-romance": {
+   "source": "scf-35672",
+   "of": "Ossip Schubin",
+   "work": "'Gloria Victis!' A Romance",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Mary Maxwell",
+   "scan_edition": "Project Gutenberg 35672 (clean text)"
+  },
+  "singles-continental-fiction-schubin-the-story-of-a-genius": {
+   "source": "scf-35590",
+   "of": "Ossip Schubin",
+   "work": "The Story of a Genius",
+   "translated": "(see the Gutenberg header)",
+   "translator": "E. H. Lockwood",
+   "scan_edition": "Project Gutenberg 35590 (clean text)"
+  },
+  "singles-continental-fiction-sparre-the-black-tortoise": {
+   "source": "scf-46006",
+   "of": "Christian Sparre",
+   "work": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Gertrude Hughes Brækstad",
+   "scan_edition": "Project Gutenberg 46006 (clean text)"
+  },
+  "singles-continental-fiction-spielhagen-hammer-and-anvil": {
+   "source": "scf-34868",
+   "of": "Friedrich Spielhagen",
+   "work": "Hammer and Anvil: A Novel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Hand Browne",
+   "scan_edition": "Project Gutenberg 34868 (clean text)"
+  },
+  "singles-continental-fiction-spielhagen-quisisana": {
+   "source": "scf-34764",
+   "of": "Friedrich Spielhagen",
+   "work": "Quisisana; or, Rest at Last",
+   "translated": "(see the Gutenberg header)",
+   "translator": "H. E. Goldschmidt",
+   "scan_edition": "Project Gutenberg 34764 (clean text)"
+  },
+  "singles-continental-fiction-spielhagen-the-german-pioneers": {
+   "source": "scf-34583",
+   "of": "Friedrich Spielhagen",
+   "work": "The German Pioneers: A Tale of the Mohawk",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Levi Sternberg",
+   "scan_edition": "Project Gutenberg 34583 (clean text)"
+  },
+  "singles-continental-fiction-strindberg-on-the-seaboard": {
+   "source": "scf-44184",
+   "of": "August Strindberg",
+   "work": "On the Seaboard: A Novel of the Baltic Islands",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Elizabeth Clarke Westergren",
+   "scan_edition": "Project Gutenberg 44184 (clean text)",
+   "note": "Strindberg's other English translations are on strindberg-english (Lane C); this one stands alone by translator."
+  },
+  "singles-continental-fiction-sudermann-the-wish": {
+   "source": "scf-33886",
+   "of": "Hermann Sudermann",
+   "work": "The Wish: A Novel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Lily Henkel",
+   "scan_edition": "Project Gutenberg 33886 (clean text)"
+  },
+  "singles-continental-fiction-trueba-the-cid-campeador": {
+   "source": "scf-41990",
+   "of": "Antonio de Trueba",
+   "work": "The Cid Campeador: A Historical Romance",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Henry Joseph Gill",
+   "scan_edition": "Project Gutenberg 41990 (clean text)"
+  },
+  "singles-continental-fiction-turgenev-annouchka": {
+   "source": "scf-39427",
+   "of": "Ivan Sergeevich Turgenev",
+   "work": "Annouchka: A Tale",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Franklin Pierce Abbott",
+   "scan_edition": "Project Gutenberg 39427 (clean text)"
+  },
+  "singles-continental-fiction-vanderem-two-banks-of-the-seine-les-deux-rives": {
+   "source": "scf-45857",
+   "of": "Fernand Vandérem",
+   "work": "Two banks of the Seine (Les Deux Rives)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "George Raffalovich",
+   "scan_edition": "Project Gutenberg 45857 (clean text)"
+  },
+  "singles-continental-fiction-werner-hermann": {
+   "source": "scf-35142",
+   "of": "E. Werner",
+   "work": "Hermann: A Novel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Helen Keer Brown",
+   "scan_edition": "Project Gutenberg 35142 (clean text)"
+  },
+  "singles-continental-fiction-werner-partners": {
+   "source": "scf-35135",
+   "of": "E. Werner",
+   "work": "Partners: A Novel.",
+   "translated": "(see the Gutenberg header)",
+   "translator": "H. G. Godwin",
+   "scan_edition": "Project Gutenberg 35135 (clean text)"
+  },
+  "singles-continental-fiction-werner-the-sign-of-flame": {
+   "source": "scf-35069",
+   "of": "E. Werner",
+   "work": "The Sign of Flame",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Eva Freeman Hart and E. Van Gerpen",
+   "scan_edition": "Project Gutenberg 35069 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
+ "_checks": {
+  "scf-32338": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Moy Thomas"
+  },
+  "scf-32442": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. J. W. Davis"
+  },
+  "scf-32443": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophie f. f. veitch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sophie F. F. Veitch"
+  },
+  "scf-32517": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles goepp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Goepp"
+  },
+  "scf-32902": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles c. shackford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles C. Shackford"
+  },
+  "scf-33008": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "annie b. irish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Annie B. Irish"
+  },
+  "scf-32668": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frances a. gerard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frances A. Gerard"
+  },
+  "scf-34574": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "felbermann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Louis Felbermann"
+  },
+  "scf-34911": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "beatrice danford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Beatrice Danford"
+  },
+  "scf-36739": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "emil reich",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Emil Reich"
+  },
+  "scf-33133": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "corkran",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sutton Fraser Corkran"
+  },
+  "scf-33789": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "l. c. s.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "L. C. S."
+  },
+  "scf-33878": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frances a. van santford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frances A. Van Santford"
+  },
+  "scf-34102": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "constance stewart copeland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Constance Stewart Copeland"
+  },
+  "scf-34104": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. h. kingsley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "G. H. Kingsley"
+  },
+  "scf-33886": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henkel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lily Henkel"
+  },
+  "scf-34504": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martin wyness",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Martin Wyness"
+  },
+  "scf-34583": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "levi sternberg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Levi Sternberg"
+  },
+  "scf-34764": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "goldschmidt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. E. Goldschmidt"
+  },
+  "scf-34868": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "browne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Hand Browne"
+  },
+  "scf-35023": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. v. prichard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. V. Prichard"
+  },
+  "scf-35036": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "davidson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ray Davidson"
+  },
+  "scf-35069": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. van gerpen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eva Freeman Hart; E. Van Gerpen"
+  },
+  "scf-35135": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "godwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. G. Godwin"
+  },
+  "scf-35142": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "helen keer brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Helen Keer Brown"
+  },
+  "scf-35246": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augusta plesner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Augusta Plesner; Susan Rugeley-Powers"
+  },
+  "scf-37726": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "carmichael",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elizabeth Carmichael"
+  },
+  "scf-35385": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sarah Holland Adams"
+  },
+  "scf-35590": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. h. lockwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. H. Lockwood"
+  },
+  "scf-35672": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary maxwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Maxwell"
+  },
+  "scf-35852": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles lee lewes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Lee Lewes"
+  },
+  "scf-36016": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "garnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. S. Garnett"
+  },
+  "scf-36028": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. cecil curtis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. Cecil Curtis"
+  },
+  "scf-36626": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kesson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Kesson"
+  },
+  "scf-36854": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "corbet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Miles Corbet"
+  },
+  "scf-36937": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charlton thomas lewis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charlton Thomas Lewis; L. P. Lewis"
+  },
+  "scf-36855": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur milman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Milman"
+  },
+  "scf-37453": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edith mary norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edith Mary Norris"
+  },
+  "scf-37599": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "geoffrey arundel whitworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Geoffrey Arundel Whitworth"
+  },
+  "scf-37668": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "harold taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Harold Taylor"
+  },
+  "scf-37621": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "da kowalewska",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Linda Da Kowalewska"
+  },
+  "scf-38005": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "benjamin shepherd berrington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Benjamin Shepherd Berrington"
+  },
+  "scf-38165": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "beatrice m. mekota",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Beatrice M. Mekota; Francis Haffkine Snow"
+  },
+  "scf-38458": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "irving brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Irving Brown"
+  },
+  "scf-39427": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Franklin Pierce Abbott"
+  },
+  "scf-40155": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "m. m.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. M."
+  },
+  "scf-40203": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george morehead",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Morehead"
+  },
+  "scf-40657": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Laura Ward Cole"
+  },
+  "scf-41509": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "annabel hord seeger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Annabel Hord Seeger"
+  },
+  "scf-41990": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry joseph gill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Joseph Gill"
+  },
+  "scf-42672": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "david black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "David Black"
+  },
+  "scf-44184": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "elizabeth clarke westergren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elizabeth Clarke Westergren"
+  },
+  "scf-44384": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aldous huxley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aldous Huxley"
+  },
+  "scf-45920": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "barrets",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. L. Barrets"
+  },
+  "scf-44428": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "tom hood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Tom Hood"
+  },
+  "scf-44433": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred elwes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alfred Elwes"
+  },
+  "scf-44574": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "percy b. st. john",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Percy B. St. John"
+  },
+  "scf-45350": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alexander v. w. bikkers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander V. W. Bikkers"
+  },
+  "scf-45512": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Moore"
+  },
+  "scf-45857": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george raffalovich",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Raffalovich"
+  },
+  "scf-46006": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "brækstad",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gertrude Hughes Brækstad"
+  },
+  "scf-46967": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "luigi monti",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Luigi Monti"
+  },
+  "scf-46547": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "archibald lovell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Archibald Lovell"
+  },
+  "scf-37400": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "stephen whatley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "active 1712-1741 Stephen Whatley"
+  }
+ },
+ "_verified": {
+  "scf-32338": {
+   "pg": 32338,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. Moy Thomas"
+  },
+  "scf-32442": {
+   "pg": 32442,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. J. W. Davis"
+  },
+  "scf-32443": {
+   "pg": 32443,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sophie F. F. Veitch"
+  },
+  "scf-32517": {
+   "pg": 32517,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Goepp"
+  },
+  "scf-32902": {
+   "pg": 32902,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles C. Shackford"
+  },
+  "scf-33008": {
+   "pg": 33008,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Annie B. Irish"
+  },
+  "scf-32668": {
+   "pg": 32668,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frances A. Gerard"
+  },
+  "scf-34574": {
+   "pg": 34574,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Louis Felbermann"
+  },
+  "scf-34911": {
+   "pg": 34911,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Beatrice Danford"
+  },
+  "scf-36739": {
+   "pg": 36739,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Emil Reich"
+  },
+  "scf-33133": {
+   "pg": 33133,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sutton Fraser Corkran"
+  },
+  "scf-33789": {
+   "pg": 33789,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "L. C. S."
+  },
+  "scf-33878": {
+   "pg": 33878,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frances A. Van Santford"
+  },
+  "scf-34102": {
+   "pg": 34102,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Constance Stewart Copeland"
+  },
+  "scf-34104": {
+   "pg": 34104,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "G. H. Kingsley"
+  },
+  "scf-33886": {
+   "pg": 33886,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lily Henkel"
+  },
+  "scf-34504": {
+   "pg": 34504,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Martin Wyness"
+  },
+  "scf-34583": {
+   "pg": 34583,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Levi Sternberg"
+  },
+  "scf-34764": {
+   "pg": 34764,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "H. E. Goldschmidt"
+  },
+  "scf-34868": {
+   "pg": 34868,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Hand Browne"
+  },
+  "scf-35023": {
+   "pg": 35023,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. V. Prichard"
+  },
+  "scf-35036": {
+   "pg": 35036,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ray Davidson"
+  },
+  "scf-35069": {
+   "pg": 35069,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eva Freeman Hart"
+  },
+  "scf-35135": {
+   "pg": 35135,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "H. G. Godwin"
+  },
+  "scf-35142": {
+   "pg": 35142,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Helen Keer Brown"
+  },
+  "scf-35246": {
+   "pg": 35246,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Augusta Plesner"
+  },
+  "scf-37726": {
+   "pg": 37726,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Elizabeth Carmichael"
+  },
+  "scf-35385": {
+   "pg": 35385,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sarah Holland Adams"
+  },
+  "scf-35590": {
+   "pg": 35590,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. H. Lockwood"
+  },
+  "scf-35672": {
+   "pg": 35672,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Maxwell"
+  },
+  "scf-35852": {
+   "pg": 35852,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Lee Lewes"
+  },
+  "scf-36016": {
+   "pg": 36016,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. S. Garnett"
+  },
+  "scf-36028": {
+   "pg": 36028,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. Cecil Curtis"
+  },
+  "scf-36626": {
+   "pg": 36626,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Kesson"
+  },
+  "scf-36854": {
+   "pg": 36854,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Miles Corbet"
+  },
+  "scf-36937": {
+   "pg": 36937,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charlton Thomas Lewis"
+  },
+  "scf-36855": {
+   "pg": 36855,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Milman"
+  },
+  "scf-37453": {
+   "pg": 37453,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edith Mary Norris"
+  },
+  "scf-37599": {
+   "pg": 37599,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Geoffrey Arundel Whitworth"
+  },
+  "scf-37668": {
+   "pg": 37668,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Harold Taylor"
+  },
+  "scf-37621": {
+   "pg": 37621,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Linda Da Kowalewska"
+  },
+  "scf-38005": {
+   "pg": 38005,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Benjamin Shepherd Berrington"
+  },
+  "scf-38165": {
+   "pg": 38165,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Beatrice M. Mekota"
+  },
+  "scf-38458": {
+   "pg": 38458,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Irving Brown"
+  },
+  "scf-39427": {
+   "pg": 39427,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Franklin Pierce Abbott"
+  },
+  "scf-40155": {
+   "pg": 40155,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "M. M."
+  },
+  "scf-40203": {
+   "pg": 40203,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Morehead"
+  },
+  "scf-40657": {
+   "pg": 40657,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Laura Ward Cole"
+  },
+  "scf-41509": {
+   "pg": 41509,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Annabel Hord Seeger"
+  },
+  "scf-41990": {
+   "pg": 41990,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry Joseph Gill"
+  },
+  "scf-42672": {
+   "pg": 42672,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "David Black"
+  },
+  "scf-44184": {
+   "pg": 44184,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Elizabeth Clarke Westergren"
+  },
+  "scf-44384": {
+   "pg": 44384,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aldous Huxley"
+  },
+  "scf-45920": {
+   "pg": 45920,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. L. Barrets"
+  },
+  "scf-44428": {
+   "pg": 44428,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Tom Hood"
+  },
+  "scf-44433": {
+   "pg": 44433,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alfred Elwes"
+  },
+  "scf-44574": {
+   "pg": 44574,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Percy B. St. John"
+  },
+  "scf-45350": {
+   "pg": 45350,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander V. W. Bikkers"
+  },
+  "scf-45512": {
+   "pg": 45512,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Moore"
+  },
+  "scf-45857": {
+   "pg": 45857,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Raffalovich"
+  },
+  "scf-46006": {
+   "pg": 46006,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gertrude Hughes Brækstad"
+  },
+  "scf-46967": {
+   "pg": 46967,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Luigi Monti"
+  },
+  "scf-46547": {
+   "pg": 46547,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Archibald Lovell"
+  },
+  "scf-37400": {
+   "pg": 37400,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "active 1712-1741 Stephen Whatley"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

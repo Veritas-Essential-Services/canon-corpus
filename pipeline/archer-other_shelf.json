@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: William Archer (1856-1924) beyond Ibsen: Nansen's Eskimo Life (1893) and Kielland's Tales of Two Countries (1891). His Ibsen is on archer-ibsen_shelf.json (lane C), which already records Gutenberg's single-play files as duplicates. US public domain. Added 2026-10-10 by lane C (round 35); Adam may veto. No uids minted.",
+ "_name_words": [
+  "william archer"
+ ],
+ "_surname": [
+  "william archer"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "aro-46972": [
+   46972,
+   "Eskimo Life"
+  ],
+  "aro-8663": [
+   8663,
+   "Tales of Two Countries"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "archer-other-kielland-tales-of-two-countries": {
+   "source": "aro-8663",
+   "of": "Alexander Lange Kielland",
+   "work": "Tales of Two Countries",
+   "translated": "1891-1893 (see the Gutenberg header)",
+   "translator": "William Archer",
+   "scan_edition": "Project Gutenberg 8663 (clean text)"
+  },
+  "archer-other-nansen-eskimo-life": {
+   "source": "aro-46972",
+   "of": "Fridtjof Nansen",
+   "work": "Eskimo Life",
+   "translated": "1891-1893 (see the Gutenberg header)",
+   "translator": "William Archer",
+   "scan_edition": "Project Gutenberg 46972 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "single-play-ibsen": "Gutenberg's single Ibsen plays (4070, 4093, 4782, 7942, 8121, 18428, 18792) are excluded on archer-ibsen_shelf.json as duplicates of the collected set."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "aro-46972": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william archer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Archer"
+  },
+  "aro-8663": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william archer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Archer"
+  }
+ },
+ "_verified": {
+  "aro-46972": {
+   "pg": 46972,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Archer"
+  },
+  "aro-8663": {
+   "pg": 8663,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Archer"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

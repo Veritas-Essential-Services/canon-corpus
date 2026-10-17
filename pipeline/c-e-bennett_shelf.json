@@ -1,0 +1,30 @@
+{
+ "_about": "Charles Edwin Bennett (1858-1921), Professor of Latin at Cornell: New Latin Grammar (copyright 1895, 1908, 1918), clean Gutenberg. His Theophrastus translation is on the theophrastus shelf. Classical scholarship, reference (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "bennett"
+ ],
+ "_surname": [
+  "charles e. bennett",
+  "charles edwin bennett",
+  "bennett, charles e"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "c-e-bennett-new-latin-grammar": [
+   15665,
+   "New Latin Grammar"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "c-e-bennett-new-latin-grammar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles e. bennett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "_about": "William Henry Furness 3d's Folk-lore in Borneo: A Sketch (privately printed, 1899), with tales and beliefs chiefly of the Kayan people. Gutenberg catalogue: Furness 1866-1920. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "William Henry Furness 3d",
+ "_name_words": [
+  "borneo"
+ ],
+ "_surname": [
+  "william henry furness"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "furness-folk-lore-in-borneo": [
+   30233,
+   "Folk-lore in Borneo",
+   {
+    "levels": [
+     {
+      "re": "A SKETCH OF THE FOLK-LORE OF BORNEO\\.$|FOOTNOTE:$",
+      "strip": "\\.$|:$"
+     }
+    ],
+    "start": "A SKETCH OF THE FOLK-LORE OF BORNEO\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "furness-folk-lore-in-borneo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william henry furness",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

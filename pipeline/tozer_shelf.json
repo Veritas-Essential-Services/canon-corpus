@@ -1,0 +1,37 @@
+{
+ "_about": "Henry Fanshawe Tozer (1829-1916): A History of Ancient Geography (Cambridge: University Press, 1897), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "tozer"
+ ],
+ "_surname": [
+  "h. f. tozer",
+  "henry fanshawe tozer",
+  "tozer, h. f"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tozer-history-ancient-geography-1897": [
+   "ahistoryancient00tozegoog",
+   "A History of Ancient Geography (Cambridge: University Press, 1897)"
+  ]
+ },
+ "_checks": {
+  "tozer-history-ancient-geography-1897": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "tozer-history-ancient-geography-1897": {
+   "author": "title page read 2026-10-10: OCR gives \"H.' F. TOZER, M.A., F.R.G.S. HONORARY FELLOW OF EXETER COLLEGE, OXFORD\" (a stray mark after the H), Cambridge University Press 1897; the surname test cannot see it"
+  }
+ }
+}

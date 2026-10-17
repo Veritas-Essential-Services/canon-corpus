@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: Florence Simmonds: Duhamel's The New Book of Martyrs (1918), Le Goffic's Dixmude (1916) and Corroyer's Gothic Architecture (1893, ed. Walter Armstrong). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_name_words": [
+  "florence simmonds"
+ ],
+ "_surname": [
+  "florence simmonds"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "fsi-33929": [
+   33929,
+   "Dixmude: The epic of the French marines (October 17-November 10, 1914)"
+  ],
+  "fsi-4325": [
+   4325,
+   "The New Book of Martyrs"
+  ],
+  "fsi-54701": [
+   54701,
+   "Gothic Architecture"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "florence-simmonds-corroyer-gothic-architecture": {
+   "source": "fsi-54701",
+   "of": "Édouard Corroyer",
+   "work": "Gothic Architecture",
+   "translated": "1893-1918 (see the Gutenberg header)",
+   "translator": "Florence Simmonds",
+   "scan_edition": "Project Gutenberg 54701 (clean text)"
+  },
+  "florence-simmonds-duhamel-the-new-book-of-martyrs": {
+   "source": "fsi-4325",
+   "of": "Georges Duhamel",
+   "work": "The New Book of Martyrs",
+   "translated": "1893-1918 (see the Gutenberg header)",
+   "translator": "Florence Simmonds",
+   "scan_edition": "Project Gutenberg 4325 (clean text)"
+  },
+  "florence-simmonds-goffic-dixmude-the-epic-of-the-french-marines-o": {
+   "source": "fsi-33929",
+   "of": "Charles Le Goffic",
+   "work": "Dixmude: The epic of the French marines (October 17-November 10, 1914)",
+   "translated": "1893-1918 (see the Gutenberg header)",
+   "translator": "Florence Simmonds",
+   "scan_edition": "Project Gutenberg 33929 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "fsi-33929": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "florence simmonds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Florence Simmonds"
+  },
+  "fsi-4325": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "florence simmonds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Florence Simmonds"
+  },
+  "fsi-54701": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "florence simmonds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Florence Simmonds"
+  }
+ },
+ "_verified": {
+  "fsi-33929": {
+   "pg": 33929,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Florence Simmonds"
+  },
+  "fsi-4325": {
+   "pg": 4325,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Florence Simmonds"
+  },
+  "fsi-54701": {
+   "pg": 54701,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Florence Simmonds"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,32 @@
+{
+ "_about": "Harry Thurston Peck (1856-1914), editor: Harper's Dictionary of Classical Literature and Antiquities (New York: Harper, 1898 printing; copyright 1896), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "peck"
+ ],
+ "_surname": [
+  "harry thurston peck",
+  "h. thurston peck",
+  "peck, harry thurston"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "peck-harpers-dictionary-classical-1898": [
+   "cu31924027019482",
+   "Harper's Dictionary of Classical Literature and Antiquities, ed. Harry Thurston Peck (New York: Harper, 1898)"
+  ]
+ },
+ "_checks": {
+  "peck-harpers-dictionary-classical-1898": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "harry thurston peck",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

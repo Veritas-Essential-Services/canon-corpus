@@ -1,0 +1,289 @@
+{
+ "_about": "TRANSLATOR SHELF: Bernard Miall (1876-1953): Nexø's Pelle the Conqueror (with Jessie Muir, 1913-16), Rolland's Tolstoy (1911), Maeterlinck's Poems (1915), Fabre and his biographers, Brieux, and wartime and Latin-American history. Only his translations printed before 1931 are shelved. US public domain. Added 2026-10-10 by lane C (round 20); Adam may veto. No uids minted.",
+ "_name_words": [
+  "bernard miall"
+ ],
+ "_surname": [
+  "bernard miall"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mia-18350": [
+   18350,
+   "Social Life in the Insect World"
+  ],
+  "mia-27201": [
+   27201,
+   "Woman on Her Own, False Gods and The Red Robe"
+  ],
+  "mia-3489": [
+   3489,
+   "Fabre, Poet of Science"
+  ],
+  "mia-45261": [
+   45261,
+   "The Argentine in the Twentieth Century"
+  ],
+  "mia-49435": [
+   49435,
+   "Tolstoy"
+  ],
+  "mia-50043": [
+   50043,
+   "Poems"
+  ],
+  "mia-51716": [
+   51716,
+   "Belgians Under the German Eagle"
+  ],
+  "mia-62541": [
+   62541,
+   "Latin America: Its Rise and Progress"
+  ],
+  "mia-72936": [
+   72936,
+   "The life of Jean Henri Fabre, the entomologist, 1823-1910"
+  ],
+  "mia-7795": [
+   7795,
+   "Pelle the Conqueror — Complete"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "bernard-miall-brieux-woman-on-her-own-false-gods-and-the-red": {
+   "source": "mia-27201",
+   "of": "Eugène Brieux",
+   "work": "Woman on Her Own, False Gods and The Red Robe",
+   "translated": "1911-1921 (see the Gutenberg header)",
+   "translator": "Bernard Miall (with J. B. Fagan and Charlotte Shaw)",
+   "scan_edition": "Project Gutenberg 27201 (clean text)",
+   "note": "Three translators: Woman on Her Own by Charlotte Shaw, False Gods by J. B. Fagan, The Red Robe by Bernard Miall."
+  },
+  "bernard-miall-calderon-latin-america-its-rise-and-progress": {
+   "source": "mia-62541",
+   "of": "Francisco García Calderón",
+   "work": "Latin America: Its Rise and Progress",
+   "translated": "1911-1921 (see the Gutenberg header)",
+   "translator": "Bernard Miall",
+   "scan_edition": "Project Gutenberg 62541 (clean text)"
+  },
+  "bernard-miall-fabre-social-life-in-the-insect-world": {
+   "source": "mia-18350",
+   "of": "Jean-Henri Fabre",
+   "work": "Social Life in the Insect World",
+   "translated": "1911-1921 (see the Gutenberg header)",
+   "translator": "Bernard Miall",
+   "scan_edition": "Project Gutenberg 18350 (clean text)"
+  },
+  "bernard-miall-fabre-the-life-of-jean-henri-fabre-the-entomol": {
+   "source": "mia-72936",
+   "of": "Augustin Fabre",
+   "work": "The life of Jean Henri Fabre, the entomologist, 1823-1910",
+   "translated": "1911-1921 (see the Gutenberg header)",
+   "translator": "Bernard Miall",
+   "scan_edition": "Project Gutenberg 72936 (clean text)"
+  },
+  "bernard-miall-legros-fabre-poet-of-science": {
+   "source": "mia-3489",
+   "of": "Georges Victor Legros",
+   "work": "Fabre, Poet of Science",
+   "translated": "1911-1921 (see the Gutenberg header)",
+   "translator": "Bernard Miall",
+   "scan_edition": "Project Gutenberg 3489 (clean text)"
+  },
+  "bernard-miall-maeterlinck-poems": {
+   "source": "mia-50043",
+   "of": "Maurice Maeterlinck",
+   "work": "Poems",
+   "translated": "1911-1921 (see the Gutenberg header)",
+   "translator": "Bernard Miall",
+   "scan_edition": "Project Gutenberg 50043 (clean text)"
+  },
+  "bernard-miall-martinez-the-argentine-in-the-twentieth-century": {
+   "source": "mia-45261",
+   "of": "Alberto B. Martínez",
+   "work": "The Argentine in the Twentieth Century",
+   "translated": "1911-1921 (see the Gutenberg header)",
+   "translator": "Bernard Miall",
+   "scan_edition": "Project Gutenberg 45261 (clean text)"
+  },
+  "bernard-miall-massart-belgians-under-the-german-eagle": {
+   "source": "mia-51716",
+   "of": "Jean Massart",
+   "work": "Belgians Under the German Eagle",
+   "translated": "1911-1921 (see the Gutenberg header)",
+   "translator": "Bernard Miall",
+   "scan_edition": "Project Gutenberg 51716 (clean text)"
+  },
+  "bernard-miall-nexo-pelle-the-conqueror": {
+   "source": "mia-7795",
+   "of": "Martin Andersen Nexø",
+   "work": "Pelle the Conqueror (complete)",
+   "translated": "1911-1921 (see the Gutenberg header)",
+   "translator": "Bernard Miall (with Jessie Muir)",
+   "scan_edition": "Project Gutenberg 7795 (clean text)",
+   "note": "Vols 1 and 4 are Jessie Muir's, vols 2 and 3 Bernard Miall's (Gutenberg credits both)."
+  },
+  "bernard-miall-rolland-tolstoy": {
+   "source": "mia-49435",
+   "of": "Romain Rolland",
+   "work": "Tolstoy",
+   "translated": "1911-1921 (see the Gutenberg header)",
+   "translator": "Bernard Miall",
+   "scan_edition": "Project Gutenberg 49435 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "teixeira": "The Wonders of Instinct (3754) and The Life of the Scorpion (66744), shared with Teixeira de Mattos, are on teixeira-de-mattos_shelf.json.",
+  "pelle-volumes": "Pelle the Conqueror's four Gutenberg part-files (7791-7794) are left out; the complete text (7795) is used."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mia-18350": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "mia-27201": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Bernard Fagan; Bernard Miall; Charlotte Frances Shaw"
+  },
+  "mia-3489": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "mia-45261": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "mia-49435": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "mia-50043": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "mia-51716": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "mia-62541": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "mia-72936": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "mia-7795": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bernard Miall; Jessie Muir"
+  }
+ },
+ "_verified": {
+  "mia-18350": {
+   "pg": 18350,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "mia-27201": {
+   "pg": 27201,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Bernard Fagan"
+  },
+  "mia-3489": {
+   "pg": 3489,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "mia-45261": {
+   "pg": 45261,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "mia-49435": {
+   "pg": 49435,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "mia-50043": {
+   "pg": 50043,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "mia-51716": {
+   "pg": 51716,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "mia-62541": {
+   "pg": 62541,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "mia-72936": {
+   "pg": 72936,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "mia-7795": {
+   "pg": 7795,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bernard Miall"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

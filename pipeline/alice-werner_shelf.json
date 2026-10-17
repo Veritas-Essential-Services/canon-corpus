@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Alice Werner (1859-1935), Africanist: Weule's Native Life in East Africa (1909) and The Humour of Holland (1894). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "alice werner"
+ ],
+ "_surname": [
+  "alice werner"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "awe-64761": [
+   64761,
+   "The humour of Holland"
+  ],
+  "awe-71496": [
+   71496,
+   "Native life in East Africa"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "alice-werner-dircks-the-humour-of-holland": {
+   "source": "awe-64761",
+   "of": "various authors (anthology, ed. W. H. Dircks)",
+   "work": "The humour of Holland",
+   "translated": "1894-1909 (see the Gutenberg header)",
+   "translator": "Alice Werner",
+   "scan_edition": "Project Gutenberg 64761 (clean text)"
+  },
+  "alice-werner-weule-native-life-in-east-africa": {
+   "source": "awe-71496",
+   "of": "Karl Weule",
+   "work": "Native life in East Africa",
+   "translated": "1894-1909 (see the Gutenberg header)",
+   "translator": "Alice Werner",
+   "scan_edition": "Project Gutenberg 71496 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "awe-64761": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alice werner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alice Werner"
+  },
+  "awe-71496": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alice werner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alice Werner"
+  }
+ },
+ "_verified": {
+  "awe-64761": {
+   "pg": 64761,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alice Werner"
+  },
+  "awe-71496": {
+   "pg": 71496,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alice Werner"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

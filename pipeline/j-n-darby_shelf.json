@@ -1,0 +1,304 @@
+{
+ "_about": "Public-domain J. N. Darby (John Nelson Darby, 1800-1882, Plymouth Brethren) for the Word Hoard: the five-volume Synopsis of the Books of the Bible (Morrish, undated), six volumes of the posthumous Notes and Comments on Scripture (1884-1913), and from Internet Archive scans his Toronto lectures on the Second Coming (1863), Studies on Daniel, Analysis of Newman's Apologia (1866), Practical Reflections on the Psalms, Lectures on First John (1882) and Spiritual Songs (1883). No pre-1930 scan of the Collected Writings exists on IA (every copy is a 1962-74 reprint). Dispensationalism's founder; veto point. Added 2026-10-10 by lane A, round 20 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "darby"
+ ],
+ "_surname": [
+  "j. n. darby",
+  "john nelson darby",
+  "darby, j. n.",
+  "darby, john nelson",
+  "j. n. d.",
+  "by j. n. darby"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "darby-synopsis-01": [
+   "synopsisofbookso01darb",
+   "Synopsis of the Books of the Bible, vol. 1, Genesis to II Chronicles, new edition revised (London: G. Morrish; no year on title page)"
+  ],
+  "darby-synopsis-02": [
+   "synopsisofbookso02darb",
+   "Synopsis of the Books of the Bible, vol. 2, Ezra to Malachi, new edition revised (London: G. Morrish; no year on title page)"
+  ],
+  "darby-synopsis-03": [
+   "synopsisofbookso03darb",
+   "Synopsis of the Books of the Bible, vol. 3, Matthew to John, new edition revised (London: G. Morrish; no year on title page)"
+  ],
+  "darby-synopsis-04": [
+   "Synopsis4",
+   "Synopsis of the Books of the Bible, vol. 4, Acts to Philippians, new edition revised (London: G. Morrish; no year on title page)",
+   "Synopsis 4_djvu.txt"
+  ],
+  "darby-synopsis-05": [
+   "synopsisofbookso05darb",
+   "Synopsis of the Books of the Bible, vol. 5, Colossians to Revelation, new edition revised (London: G. Morrish; no year on title page)"
+  ],
+  "darby-second-coming-toronto": [
+   "cihm_07686",
+   "Seven Lectures on the Second Coming of the Lord, Delivered in Toronto in 1863 (Toronto: Gospel Tract Depository, 1863)"
+  ],
+  "darby-daniel": [
+   "studiesonbookda00darbgoog",
+   "Studies on the Book of Daniel, translated from the French and revised by the author (London: John B. Bateman; no year on title page, catalogued 1864)"
+  ],
+  "darby-newman-apologia": [
+   "a567237300darbuoft",
+   "Analysis of Dr. Newman's Apologia pro Vita Sua (London: W. H. Broom, 1866)"
+  ],
+  "darby-psalms": [
+   "practicalreflect00darb",
+   "Practical Reflections on the Psalms, by J. N. D. (London: Robert L. Allan; no year on title page, catalogued 1870)"
+  ],
+  "darby-first-john": [
+   "ninelecturesonf00darbgoog",
+   "Nine Lectures on the First Epistle of John, by J. N. D. (London: W. H. Broom, 1882; posthumous, unrevised)"
+  ],
+  "darby-spiritual-songs": [
+   "spiritualsongs00darb",
+   "Spiritual Songs, his own hymns and poems (Dublin; New York: Loizeaux Brothers, 1883)"
+  ],
+  "darby-notes-comments-1": [
+   "bwb_S0-ASP-787",
+   "Notes and Comments on Scripture, from the note books of J. N. Darby, vol. 1 (Bath: P. A. Humphery, 1884; posthumous)"
+  ],
+  "darby-notes-comments-2": [
+   "bwb_S0-ASP-790",
+   "Notes and Comments on Scripture, from the note books of J. N. Darby, vol. 2 (Bath: P. A. Humphery, 1885; posthumous)"
+  ],
+  "darby-notes-comments-3": [
+   "bwb_S0-ASP-784",
+   "Notes and Comments on Scripture, from the note books of J. N. Darby, vol. 3 (Bath: P. A. Humphery, 1886; posthumous)"
+  ],
+  "darby-notes-comments-4": [
+   "bwb_S0-ASP-785",
+   "Notes and Comments on Scripture, from the note books of J. N. Darby, vol. 4 (Bath: P. A. Humphery, 1889; posthumous)"
+  ],
+  "darby-notes-comments-5": [
+   "bwb_S0-ASP-786",
+   "Notes and Comments on Scripture, from the note books of J. N. Darby, vol. 5 (Bath: P. A. Humphery, 1893; posthumous)"
+  ],
+  "darby-notes-comments-7": [
+   "bwb_S0-ASP-821",
+   "Notes and Comments on Scripture, from the note books of J. N. Darby, vol. 7 (London: James Carter, 1913; posthumous)"
+  ]
+ },
+ "_alternates": {
+  "darby-new-testament": "His New Testament translation (Morrish 1867 and 1884; IA compiled-the-gospels-... and the multi-file DarbysWritings item): his translation, the translator not named on the title page",
+  "darby-anonymous": "Works whose title pages carry no author: Dr. Colenso and the Pentateuch (1863; cihm_63132), Dialogues on the Essays and Reviews (catalogued 1863; dialoguesonessa00darbgoog), Notes on the Gospel of Luke (1869; notesongospellu00darbgoog)",
+  "darby-kelly-correspondence": "The Claims of the Church of England Considered, his correspondence with James Kelly (1864; claimsofchurchof00kell)",
+  "darby-weighty-words": "Weighty Words from the Writings of J. N. D. (1898): extracts compiled by others",
+  "darby-second-coming-1909": "Lectures on the Second Coming (Morrish 1909; lecturesonsecond0000jnda_p7b1): carries a later Bible Truth Publishers stamp",
+  "darby-french": "Etudes sur la Parole (Paris, 1857): French original",
+  "darby-synopsis-v5-2nd": "Synopsis vol. 5, second edition (IA 11356645bsb)"
+ },
+ "_excluded": {
+  "darby-ccel-synopsis": "CCEL darby/synopsis: New Testament only, legacy HTML with no ThML and no print source",
+  "darby-collected-writings": "IA Collected Writings: 1962-74 reprints, text restricted",
+  "darby-late": "Synopsis and other copies catalogued 1942 or later; Bible Truth Publishers printings; 1961 and 1970 Bibles",
+  "darby-translations-other": "German and French translations",
+  "darby-namesake": "J. George N. Darby"
+ },
+ "_identity_checked": {
+  "darby-synopsis-05": {
+   "author": "title page read: 'By J. N. Darby', OCR'd as 'DAEBY'"
+  },
+  "darby-newman-apologia": {
+   "author": "title page read: 'By J. N. D.' (initials, OCR'd 'BT J. N.'); IA catalogue attributes it to John Nelson Darby"
+  }
+ },
+ "_pending": {
+  "darby-hopes-of-church": "The Hopes of the Church of God (IA hopesofchurchofg0000unse): Morrish, no year, 'Made and printed in England' suggests a 20th-century printing"
+ },
+ "_checks": {
+  "darby-synopsis-01": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. n. darby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "darby-synopsis-02": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. n. darby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "darby-synopsis-03": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. n. darby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "darby-synopsis-04": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. n. darby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "darby-synopsis-05": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "darby-second-coming-toronto": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. n. darby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "darby-daniel": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. n. darby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "darby-newman-apologia": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "darby-psalms": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. n. d.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "darby-first-john": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. n. d.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "darby-spiritual-songs": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. n. darby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "darby-notes-comments-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. n. darby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "darby-notes-comments-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "darby, john nelson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "darby-notes-comments-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "darby, john nelson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "darby-notes-comments-4": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "darby, john nelson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "darby-notes-comments-5": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. n. darby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "darby-notes-comments-7": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. n. darby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

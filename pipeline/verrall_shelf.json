@@ -1,0 +1,82 @@
+{
+ "_about": "Arthur Woollgar Verrall (1851-1912), Fellow of Trinity College, Cambridge: Studies Literary and Historical in the Odes of Horace (Macmillan, 1884), The Bacchants of Euripides and Other Essays (Cambridge, 1910), and the two posthumous collections edited by M. A. Bayfield and J. D. Duff (Cambridge, 1913), raw IA OCR. Editors' rights: J. D. Duff died 1940 and the Literary Essays memoir is by J. W. Mackail (died 1945); M. A. Bayfield's death year is not checked, so life-plus-70 status is unconfirmed for the editorial matter (US public domain by date). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). His editions of Greek plays with facing text are not taken here (Greek-facing measure, Adam's call). No uids minted.",
+ "_name_words": [
+  "verrall"
+ ],
+ "_surname": [
+  "a. w. verrall",
+  "arthur woollgar verrall",
+  "verrall, a. w"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "verrall-odes-horace-1884": [
+   "cu31924026492458",
+   "Studies Literary and Historical in the Odes of Horace (London: Macmillan, 1884)"
+  ],
+  "verrall-bacchants-euripides-1910": [
+   "bacchantsofeurip00verrrich",
+   "The Bacchants of Euripides and Other Essays (Cambridge: University Press, 1910)"
+  ],
+  "verrall-collected-literary-essays-1913": [
+   "collectedliterar00verruoft",
+   "Collected Literary Essays, Classical and Modern, ed. M. A. Bayfield and J. D. Duff, with a memoir (Cambridge: University Press, 1913)"
+  ],
+  "verrall-collected-studies-1913": [
+   "cu31924021596261",
+   "Collected Studies in Greek and Latin Scholarship, ed. M. A. Bayfield and J. D. Duff (Cambridge: University Press, 1913)"
+  ]
+ },
+ "_checks": {
+  "verrall-odes-horace-1884": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "verrall-bacchants-euripides-1910": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. w. verrall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "verrall-collected-literary-essays-1913": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur woollgar verrall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "verrall-collected-studies-1913": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. w. verrall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "verrall-odes-horace-1884": {
+   "author": "title page read 2026-10-10: OCR gives 'A. W. VEERALL, M.A. FELLOW OF TKINITY COLLEOK, OAMBKIDGE', Macmillan 1884 (A. W. Verrall); the OCR misreads R as E, so the surname test cannot see it"
+  }
+ }
+}

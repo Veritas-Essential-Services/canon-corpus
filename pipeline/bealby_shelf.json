@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: J. T. Bealby (1858-1944): E. T. A. Hoffmann's Weird Tales (Nimmo, 1885, 2 vols). US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_name_words": [
+  "j. t. bealby",
+  "bealby"
+ ],
+ "_surname": [
+  "j. t. bealby",
+  "bealby"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "bea-31377": [
+   31377,
+   "Weird Tales. Vol. 1 (of 2)"
+  ],
+  "bea-31439": [
+   31439,
+   "Weird Tales, Vol. 2 (of 2)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "bealby-hoffmann-weird-tales-vol-1-of-2": {
+   "source": "bea-31377",
+   "of": "E. T. A. (Ernst Theodor Amadeus) Hoffmann",
+   "work": "Weird Tales. Vol. 1 (of 2)",
+   "translated": "1885 (see the Gutenberg header)",
+   "translator": "J. T. Bealby",
+   "scan_edition": "Project Gutenberg 31377 (clean text)"
+  },
+  "bealby-hoffmann-weird-tales-vol-2-of-2": {
+   "source": "bea-31439",
+   "of": "E. T. A. (Ernst Theodor Amadeus) Hoffmann",
+   "work": "Weird Tales, Vol. 2 (of 2)",
+   "translated": "1885 (see the Gutenberg header)",
+   "translator": "J. T. Bealby",
+   "scan_edition": "Project Gutenberg 31439 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "bea-31377": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. t. bealby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. T. Bealby"
+  },
+  "bea-31439": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. t. bealby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. T. Bealby"
+  }
+ },
+ "_verified": {
+  "bea-31377": {
+   "pg": 31377,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. T. Bealby"
+  },
+  "bea-31439": {
+   "pg": 31439,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. T. Bealby"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

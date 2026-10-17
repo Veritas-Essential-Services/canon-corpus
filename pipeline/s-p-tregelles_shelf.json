@@ -1,0 +1,114 @@
+{
+ "_about": "Public-domain S. P. Tregelles (Samuel Prideaux Tregelles, 1813-1875, textual critic, sometime Brethren) for the Word Hoard: 5 books from Internet Archive scans, 1847-1854: Remarks on the Prophetic Visions in the Book of Daniel (first edition, 1847), The Jansenists (1851), A Lecture on the Historic Evidence of the Authorship and Transmission of the Books of the New Testament (1852), Defence of the Authenticity of the Book of Daniel and An Account of the Printed Text of the Greek New Testament (1854). Raw OCR. His editions of texts and his Hebrew aids are left as alternates. Added 2026-10-10 by lane A, round 21 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "tregelles"
+ ],
+ "_surname": [
+  "s. p. tregelles",
+  "samuel prideaux tregelles",
+  "s. prideaux tregelles",
+  "tregelles, s. p.",
+  "s. p. tregelles, ll.d.",
+  "tregelles, samuel prideaux"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tregelles-daniel-visions": [
+   "remarksonprophe01treggoog",
+   "Remarks on the Prophetic Visions in the Book of Daniel, first edition (Plymouth: Tract Depot; London: I. K. Campbell, MDCCCXLVII)"
+  ],
+  "tregelles-jansenists": [
+   "janseniststheirr00treg",
+   "The Jansenists: their Rise, Persecutions by the Jesuits, and Existing Remnant (London: Samuel Bagster, M.DCCC.LI)"
+  ],
+  "tregelles-historic-evidence": [
+   "a609742300treguoft",
+   "A Lecture on the Historic Evidence of the Authorship and Transmission of the Books of the New Testament (London: Samuel Bagster, M.DCCC.LII)"
+  ],
+  "tregelles-defence-daniel": [
+   "defenceofauthent00treg",
+   "Defence of the Authenticity of the Book of Daniel (London: Samuel Bagster; year garbled, catalogued 1852)"
+  ],
+  "tregelles-printed-text": [
+   "accountofprinted00treg",
+   "An Account of the Printed Text of the Greek New Testament (London: Samuel Bagster, M.DCCC.LIV)"
+  ]
+ },
+ "_alternates": {
+  "tregelles-revelation": "The Book of Revelation, translated from the Ancient Greek Text (Bagster, 1849; bookofrevelation00treg): his translation of Scripture",
+  "tregelles-editions": "Codex Zacynthius (1861), Canon Muratorianus (1867) and his Greek New Testament (1857-72): editions of texts",
+  "tregelles-horne": "Horne's Introduction, vol. 4 (1856 onward; introductioncritic04horn): multi-author, edited by Horne, Ayre and Tregelles",
+  "tregelles-hebrew": "Hebrew Reading Lessons and Heads of Hebrew Grammar: language aids, not divinity",
+  "tregelles-copies": "Remarks on Daniel, enlarged fourth edition (remarksonprophe00treggoog); Historic Evidence, second edition 1881; copies of the Account"
+ },
+ "_excluded": {
+  "tregelles-gesenius": "his translation of Gesenius' Hebrew and Chaldee Lexicon",
+  "tregelles-reprints": "1965 and later reprints",
+  "tregelles-namesakes": "Edwin O. and Arthur E. Tregelles"
+ },
+ "_identity_checked": {
+  "tregelles-daniel-visions": {
+   "author": "title page read: 'By S. P. Tregelles' (OCR 'TEEGELLES'), Plymouth: Tract Depot, 1847"
+  }
+ },
+ "_pending": {},
+ "_checks": {
+  "tregelles-daniel-visions": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tregelles-jansenists": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. p. tregelles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tregelles-historic-evidence": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. p. tregelles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tregelles-defence-daniel": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. p. tregelles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tregelles-printed-text": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. p. tregelles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -606,3 +606,176 @@
 - Added: Potter's Sophocles (1820, cleaner scan), Gilchrist's Iliad I-VIII (1869), Bland's Greek Anthology collections (1813)
 - Corrected: Goldwin Smith's Euripides excerpts moved to _excluded, matching the rule already applied to his Sophocles
 - Held already: Adams's Hippocrates, Morgan's Vitruvius, Bennett's Frontinus, Collier's Celsus, Holland's Suetonius
+
+## 2026-10-10 09:54 CDT — Round 2026-10-10g: refused items retried
+- Added: Smart's prose Horace (1780, 2 vols.), Smart's verse Horace (1767, vol. I), Thornton's Plautus (1769, vols. I-II), Angel Day's Daphnis and Chloe (1890 reprint of 1587)
+- Held back: Thornley's Daphnis (modern reprint with no printed year)
+- Still wanted from cleaner scans: Aristaenetus 1771, Taylor's Julian 1793, Mawer's Oppian 1736, Gillies's Lysias 1778, Dart's Tibullus 1720, Pitt's Aeneid 1740, Polwhele's Theocritus
+
+## 2026-10-10 10:00 CDT — Round 2026-10-10h: missing volumes
+- Added: Smart's verse Horace vols. II and IV (1767); Pitt and Warton's Virgil vols. II and IV (3rd ed., 1778)
+- The Virgil set now mixes the 1763 and 1778 editions; the 1778 vols. I and III are on IA if a single-edition set is preferred
+- Still missing: Smart's verse Horace vol. III; Thornton's Plautus vols. III-V
+
+## 2026-10-10 10:07 CDT — Round 2026-10-10i: seven volumes
+- Paulus Aegineta, Francis Adams, 3 vols. (Sydenham Society, 1844-1847): new shelf paulus-aegineta
+- Epistles of Phalaris, Thomas Francklin (1749): new shelf phalaris
+- Sophocles, George Adams, new edition (1818)
+- Julian, John Duncombe vol. II (3rd ed., 1798); vol. I has no title page in its scan, excluded
+- Sicilian Idyls, Jane Minot Sedgwick (Boston, 1898): US PD by date; translator's death year not checked
+
+## 2026-10-10 10:18 CDT — Round 2026-10-10j: four volumes
+- Seneca's tragedies, Sir Edward Sherburne (1702)
+- Virgil's fourth Georgic, Charles Robertson Honey (1859)
+- The Lyrics of Horace, Thomas Charles Baring (1870)
+- Ovid's Fasti in prose, William Thynne, Part I (1833); Part II not found
+- Refused for OCR or no usable text: Massey's Fasti (0.738), Hughes's Claudian (0.665), Six Olympic Odes 1775 (0.760), Fry's Century of Greek Epigrams (0.759, co-translator's dates also open), Verrall's Ion (OCR'd as Greek), Alciphron 1896 rescans (0.521)
+- Most other hits in these sweeps are already held under other scan ids, or are partial reprints of held Bohn translations
+
+## 2026-10-10 10:24 CDT — Round 2026-10-10k: six volumes
+- Brumoy's Greek Theatre, Charlotte Lennox, 3 vols. (1759): new shelf brumoy; the plays come through Brumoy's French
+- Greek Anthology renderings: Lilla Cabot Perry (1891), A. C. Benson (1922), Rennell Rodd (1916); rights notes per row
+- Missing volumes re-hunted (Munford Iliad I, Thornton Plautus III-V, Preston Argonautics II, Greek Tragic Theatre II): only duplicate scans of held volumes or sub-bar ECCO copies. Preston's vol. II would add nothing, since the held vol. I prints the whole poem
+- Refused: Kennedy's Agamemnon (0.642, Greek facing), Cromer's Paraphrases (0.734, Greek facing), Innes (0.625), Golding's Mela (0.738), Bingham's Tactiks of Aelian 1616 (0.50/0.71), Babington's Hyperides (0.65/0.73)
+- No new Gutenberg classical releases since 1 Sept besides Plutarch Moralia vol. 4 (held)
+
+## 2026-10-10 10:34 CDT — Round 2026-10-10l: eight volumes
+- Kelly's Bohn Erotica: Propertius, Petronius, Secundus (1854), on the Propertius shelf, cross-referenced from Petronius
+- Lucian, Six Dialogues, Sidney T. Irwin (1894; imprint year partly legible)
+- Terence's Phormio, M. H. Morgan (1894)
+- Cicero: De Oratore I, E. N. P. Moor (1892; translator's death year not checked); Pro Cluentio, William Peterson (1895)
+- Homer, Iliad I-III in hexameters, F. H. J. Ritso (1861). Correction to its commit message: that the three books are all he translated is inferred from the title page ('by the late'), not checked
+- Caesar's Gallic War, T. Rice Holmes (1908)
+
+## 2026-10-10 10:37 CDT — Round 2026-10-10m: one volume, one held, sixteen refused
+- Suetonius, Alexander Thomson's unrevised 1796 first edition (the text Forester later revised for Bohn)
+- Held back undated: Robert Duncan's Boethius (Edinburgh; catalogue 1789): reads 0.783 but no year is legible in the OCR
+- Refused under the bar (ECCO): Guthrie's Quintilian, Newton's Vitruvius, Budgell's Theophrastus, Suetonius 1717, Petronius 1713/1736, Velleius 1721/1722, Hippocrates 1752/1780/1788, Medea and Jason 1771, Moschus and Bion 1724, Heliodorus 1753, Alciphron 1791, Daphnis 1763, Hero and Leander 1747
+- Finding: the remaining unrecorded 18th-century English classics on IA are almost all ECCO scans at 0.55-0.76; the lane's bar keeps them out unless cleaner copies appear
+
+## 2026-10-10 10:40 CDT — Round 2026-10-10n: one volume, one map correction
+- Arthur Fairbanks, The First Philosophers of Greece (1898): a third scan reads 0.790 with the Greek counted, clearing the bar the first two missed
+- Propertius: Phillimore's 1906 translation was already held; the wishlist line asking for it is corrected
+- Still not found on IA: Chinnock's Bohn Indica (1893), Tytler's Punics vol. II, Phillimore's Apollonius vol. II, separate pre-1931 issues of the Oxford Meteorologica and Parva Naturalia (the scan found is the 1931 collected vol. III)
+
+## 2026-10-10 10:47 CDT — Round 2026-10-10o: three volumes
+- Aristophanes, Frere's Frogs, from the Everyman Plays of Aristophanes vol. II (1911; this scan a 1922 printing); rights note records the unsigned bibliography
+- Aeschines and Demosthenes, the two Crown orations: George W. Biddle (Philadelphia, Lippincott, 1881) and Abraham Portal (1814 printing); on the Aeschines shelf, cross-referenced from Demosthenes. Biddle's translator line is marked unchecked only because the OCR misreads his forename
+- Storr's Loeb Sophocles vol. II measured 0.51/0.49 with the Greek facing: joins the Greek-facing class awaiting Adam
+- Wishlist corrections: Watson's Quintilian is held (only an 1856 vol. I printing is wanted); Aeschines needs nothing further known
+- Refused: Herodian 1789 (ECCO 0.65), Cebes 1699 (EEBO 0.68)
+
+## 2026-10-10 10:55 CDT — Round 2026-10-10p: nothing added; one question
+- Re-hunted the wishlist (Munford Iliad I, Thornton Plautus III-V, Smart's verse Horace III, Tytler's Punics II, Chinnock's Indica, King's Tusculans 1927): only duplicate scans of held volumes, the 1767 first edition of Thornton vol. I (the 1769 second edition is held), and the 1945 revised Tusculans again
+- Aelian, Various History, Thomas Stanley (1665): the EEBO scan reads 0.57; the clean copy on IA (aelian-various-history, 0.94) is a modern retyping with unsigned modern endnotes, so it is not the 1665 book. Not taken
+- Refused under the bar: Coluthus, Rape of Helen 1786 (ECCO 0.60); Artemidorus, Interpretation of Dreams 1644/1656/1690 (EEBO 0.48-0.71) and 1755 (two ECCO scans, 0.714 and 0.778, the better one just under 0.78); two more scans of Rhys Roberts's Demetrius On Style (0.59, 0.72) and the 1927 Loeb Poetics/Longinus/Demetrius (0.73), all Greek facing
+- Heath's Diophantus (1910) not taken: a study with the Arithmetica paraphrased in modern notation, not a translation, and its notation drags the OCR measure to 0.71
+- Anna Comnena's Alexiad, tr. Elizabeth A. S. Dawes (London, 1928): public domain everywhere (US by date; Dawes d. 1954). IA has no scan of the 1928 printing, only two modern digital retypes: the Internet Medieval Sourcebook file (keeps Dawes's introduction, adds Buckler's 1929 summaries and an editor's non-commercial notice) and the In Parentheses edition (Cambridge, Ontario, 2000). Held for Adam (DIGEST-B)
+- Finding: the classical lane is close to exhausted on IA and Gutenberg at the 0.78 bar. What remains is the Greek-facing Loebs, the later-printings class, ECCO scans under the bar and duplicate scans, all of which wait on Adam's rulings
+
+## 2026-10-10 11:12 CDT — Round 2026-10-10q: classical scholarship, 69 volumes on 24 new shelves
+- Pivot on the coordinator's steer: translations are running dry, so lane B now takes public-domain English scholarship on the classics. Every shelf name and PG id was checked against all branches first; none collide (a symonds shelf exists on another branch, so Symonds is left alone)
+- Clean Gutenberg: Grote's History of Greece (12 vols.), Plato and the Other Companions (4), Aristotle and the rotation paper; Mommsen's History of Rome I-V and Provinces (2), tr. Dickson; Smith's smaller histories and Smaller Dictionary
+- Raw IA (title page read in each): Smith's Dictionary of Antiquities (1842), Biography and Mythology (Boston 1870, vols. I-II), Geography (Boston 1854/1870); Jebb's Attic Orators (2 vols., 1893), Growth and Influence of Classical Greek Poetry, Homer, Bentley, Modern Greece, Essays and Addresses; Conington's Miscellaneous Writings vol. I
+- Clean Gutenberg, one shelf per scholar: Sellar (Virgil; Roman Poets of the Republic), Mackail (Latin Literature), Greenidge (2), Warde Fowler (4), Dill, Mahaffy (4), Lowes Dickinson, Burnet (Early Greek Philosophy), Zeller tr. Reichel, Jane Harrison (3), Farnell (2), Haverfield (3), Lanciani, Botsford, Grundy, Heitland, Niebuhr (5: Roman History lectures tr. Chepmell and Demmler; Ethnography and Geography tr. Schmitz), K. J. Freeman, Percy Gardner
+- Under the bar: Mayor's Juvenal commentary (0.75) and Conington's Virgil commentary (0.73). Sampled OCR is good; the measure is dragged down by line references and abbreviations. Not taken under the current rule
+- Left out on purpose: Jebb's Erasmus (the Classical reading lists thread's), the Legacy of Greece and Anthropology and the Classics (Gilbert Murray d. 1957, US-only), Church's retellings and Guerber (lane D territory), Lewis and Short / Liddell and Scott (lexicons are the LEXICONS manifest's, outside lane B files)
+- Wanted: Smith's Biography vol. III and Conington's Miscellaneous Writings vol. II (IA returned server errors or only vol. I)
+
+## 2026-10-10 11:20 CDT — Round 2026-10-10r: classical scholarship, 34 volumes on 22 new shelves
+- Clean Gutenberg, one shelf per scholar, names and PG ids checked against all branches first: Pater (Greek Studies; Plato and Platonism), F. B. Tarbell (History of Greek Art), W. S. Davis (A Day in Old Athens; A Day in Old Rome), T. G. Tucker (2), Ferrero (3), F. F. Abbott (2), Showerman (Horace and His Influence), E. A. Gardner, Cumont (2), How and Wells (Commentary on Herodotus), Monro (Modes of Ancient Greek Music), H. W. Johnston (Private Life of the Romans), Mau's Pompeii tr. Kelsey, H. N. Fowler (History of Roman Literature), Schliemann (Troy and Its Remains; Mycenae), Gladstone's Studies on Homer (3 vols.), Walters and Birch's History of Ancient Pottery (2 vols.), Frazer's Studies in Greek Scenery, Arnold's On Translating Homer, Shuckburgh's Augustus, Boissier's Cicero and His Friends, P. N. Ure's Origin of Tyranny
+- Translator death years not checked, so life-plus-70 status is unconfirmed (US public domain by date in each case): Frances Lance Ferrero, L. Dora Schmitz (Schliemann's Troy, 1875), Adnah David Jones (Boissier). Recorded in each shelf's _about
+- Left out: Rohde's Psyche tr. Hillis (1925; the translator's dates are unknown, so it may be US-only), the Golden Bough (comparative religion), Oman and Hogarth (Byzantine and Near Eastern), Church and Guerber retellings (lane D territory), Latin grammars (held for a later round)
+
+## 2026-10-10 11:24 CDT — Round 2026-10-10s: 15 volumes on 5 new shelves
+- Sandys, History of Classical Scholarship (3 vols.) and Short History (1915)
+- Seyffert's Dictionary of Classical Antiquities, ed. Nettleship and Sandys (1891)
+- Becker's Gallus, tr. Metcalfe (1882); Charicles refused at 0.71
+- Bury: Later Roman Empire (2 vols., 1889), Eastern Roman Empire (1912), Constitution of the Later Roman Empire (1910); the Student's Roman Empire held back as undated
+- Ernst Curtius, History of Greece, tr. A. W. Ward, 5 vols. (1892)
+- Still to do in this seam: Merivale's Romans under the Empire, Thirlwall's and Bury's histories of Greece, Arnold's Rome, Smith's Biography vol. III, Conington vol. II
+
+## 2026-10-10 11:32 CDT — Round 2026-10-10t: 12 volumes
+- Thirlwall's History of Greece, new edition, 8 vols. (1845-1852), assembled volume by volume and checked on each title page
+- Thomas Arnold's History of Rome, third edition, 3 vols. (1844-1846)
+- Smith's Biography and Mythology vol. III (Boston, 1870) completes that set
+- Conington's Miscellaneous Writings vol. II found; its contents are his prose Virgil, already held on the virgil shelf, so not added
+- Merivale's Romans under the Empire left for a later round: IA's copies mix five editions and printings, and assembling one consistent set needs a careful pass
+
+## 2026-10-10 11:39 CDT — Round 2026-10-10u: 27 volumes on 10 new shelves
+- K. O. Müller's History of the Literature of Ancient Greece (3 vols., Longmans 1858; Lewis and Donaldson). Volumes II-III: the OCR misreads the author's initials, so identity was checked by eye on the title page
+- George Long's Decline of the Roman Republic (5 vols., 1864-1874) and Mure's Critical History of Greek literature (5 vols., 1850-1857, vol. I in the 2nd ed. of 1854), each assembled from separate scans with every title page read
+- Cornewall Lewis, Credibility of the Early Roman History (2 vols., 1855); Butcher's Harvard Lectures (1904); Haigh's Attic Theatre (1889, author line garbled in OCR, checked by eye); Nettleship's Lectures and Essays (1885, 1895); Tyrrell's Latin Poetry (1895); Gow's Companion to School Classics (1889)
+- Jevons's History of Greek Literature: the imprint year reads 1880 in the OCR but the book first appeared in 1886, so the printed year is probably misread (an inference). Kept, since it prints a 19th-century year
+- Mahaffy shelf gains Social Life in Greece (1894) and Greek Life and Thought (1896)
+- Under the bar: Teuffel's History of Roman Literature tr. Warr (0.74 in both scans), Butcher's Aristotle's Theory of Poetry and Fine Art (0.69)
+
+## 2026-10-10 11:44 CDT — Round 2026-10-10v: 10 volumes
+- New shelves: Cruttwell's History of Roman Literature (clean Gutenberg); Verrall's Odes of Horace (1884), Bacchants of Euripides (1910) and the two 1913 collections edited by Bayfield and Duff (Bayfield's death year unchecked)
+- Extended: Haigh's Tragic Drama of the Greeks (1896), Mackail's Lectures on Greek Poetry (1910), Sellar's Horace and the Elegiac Poets (1892), Butcher's Some Aspects of the Greek Genius (3rd ed., 1904), Bury's History of Greece (1900)
+- Not added: Gutenberg's Attic Theatre (PG 76555) is the 1907 revision by Pickard-Cambridge, and the 1889 first edition is already held
+- Held back: Mahaffy's History of Classical Greek Literature (the scans mix a Macmillan third edition of vol. I with a Longmans second edition of vol. II)
+
+## 2026-10-10 11:51 CDT — Round 2026-10-10w: 13 volumes on 9 new shelves
+- Merivale's History of the Romans under the Empire, Longmans new edition, vols. I-V, each dated 1865. Vols. VI-VIII turned up only in later impressions of the same edition (1868, 1872, 1904), so they wait on Adam's later-printings ruling
+- German antiquities in English: Boeckh's Public Economy of the Athenians tr. Anthony Lamb (Boston, 1857); Schömann's Antiquities of Greece: The State tr. Hardy and Mann (1880); Guhl and Koner's Life of the Greeks and Romans tr. Hueffer (1875); Blümner's Home Life of the Ancient Greeks tr. Zimmern (Gutenberg)
+- Freeman's Federal Government in Greece and Italy (2nd ed. by Bury) and Studies of Travel: Greece; W. T. Arnold's Roman Provincial Administration (1879); Pelham's Essays (1911); Leaf's Troy (1912)
+- Translator death years not checked: Anthony Lamb, J. S. Mann (US public domain by date; noted in each shelf)
+- Left out: Duncker's History of Antiquity tr. Abbott (Near Eastern, like Oman and Hogarth before it); Gibbon (already on the adler shelf)
+- Wanted next: Freeman's Sicily, Abbott's and Holm's Histories of Greece, Ihne's Rome, Pelham's Outlines
+
+## 2026-10-10 11:56 CDT — Round 2026-10-10x: 14 volumes
+- Freeman's History of Sicily, 4 vols. (Clarendon Press, 1891-1894; vol. IV edited by Arthur J. Evans)
+- Evelyn Abbott's History of Greece, 3 parts (1900-1901); Holm's History of Greece, 4 vols. (Macmillan, 1894-1899; translator Frederick Clarke named only in vol. IV, death year unchecked)
+- Merivale's Romans under the Empire completed with vols. VI-VIII from pre-1930 impressions (1868, 1904, 1872). Correction to round 10w: I had put this to Adam as a later-printings question, but that class covers only printings after 1930, so no ruling was needed. The DIGEST question is withdrawn
+
+## 2026-10-10 11:58 CDT — Round 2026-10-10y: 7 volumes
+- Ihne's History of Rome, English edition, 5 vols. (Longmans, 1871-1882); the English edition is the author's own
+- Pelham's Outlines of Roman History (1893) and Leaf's Homer and History (1915) added to their shelves
+- Not added: Mommsen's Provinces of the Roman Empire (already held from Gutenberg on the mommsen shelf)
+
+## 2026-10-10 12:01 CDT — Round 2026-10-10z: 11 volumes on 6 new shelves
+- Geography: Bunbury's History of Ancient Geography (2 vols., 1879); Tozer's History of Ancient Geography (1897)
+- Topography: Dyer's Ancient Athens (1873) and City of Rome (2nd ed., 1883); Middleton's Remains of Ancient Rome (2 vols., 1892); Christopher Wordsworth's Athens and Attica (2nd ed., 1837)
+- Manuals: Ramsay's Manual of Roman Antiquities (2nd ed., 1851); Gardner and Jevons's Manual of Greek Antiquities (2nd ed., 1898) on the percy-gardner shelf
+
+## 2026-10-10 12:04 CDT — Round 2026-10-10aa: 5 volumes on 4 new shelves
+- Reference works: Anthon's Classical Dictionary (Harper, 1848 printing), Rich's Dictionary of Roman and Greek Antiquities (4th ed., 1874), Peck's Harper's Dictionary of Classical Literature and Antiquities (1898 printing)
+- Liddell's History of Rome, 2 vols. (Murray, 1855)
+- Under the bar: Fynes Clinton's Fasti Hellenici and Fasti Romani (0.58-0.76; the chronological tables defeat the OCR)
+- Not taken: Lempriere's Classical Dictionary on Gutenberg (PG 68769) is a 1904 Routledge text whose transcribers expanded the abbreviations, an editorial change in the same family as the Perseus modernized texts; held rather than decided in the lane. An unexpanded scan is wanted
+
+## 2026-10-10 12:06 CDT — Round 2026-10-10ab: 7 volumes on 5 new shelves
+- Greek drama: Donaldson's Theatre of the Greeks (7th ed., 1860, OCR 0.781), Lewis Campbell's Guide to Greek Tragedy (1891) and Religion in Greek Literature (1898), Moulton's Ancient Classical Drama (1890)
+- Felton's Greece, Ancient and Modern (9th ed., 1893); Leake's Topography of Athens and the Demi (2nd ed., 2 vols., 1841)
+- Skipped: Blackie (a blackie shelf already exists on this branch); K. O. Müller's Dorians (no IA hit under that search)
+
+## 2026-10-10 12:08 CDT — Round 2026-10-10ac: 8 volumes
+- Leake's Travels in Northern Greece, 4 vols. (1835), and Travels in the Morea, vols. I and III (1830); Morea vol. II wanted (IA returned 503)
+- Mahaffy's History of Classical Greek Literature, 2 vols., from a consistent Harper (New York) 1880 set; this settles the round-10v hold, which was about mixed editions
+- Not found: K. O. Müller's Dorians in English (no IA hit under a title search)
+
+## 2026-10-10 12:11 CDT — Round 2026-10-10ad: 5 volumes
+- K. O. Müller's History and Antiquities of the Doric Race, tr. Tufnell and Lewis, 2nd ed., 2 vols. (Murray, 1839)
+- Niebuhr's History of Rome, 3 vols., new edition (vols. I-II tr. Hare and Thirlwall, 1851 and 1855; vol. III tr. Smith and Schmitz, imprint year illegible but plainly 19th-century)
+- Under the bar: Hermann's Manual of the Political Antiquities of Greece (1836; two scans at 0.76 and 0.68)
+- Left out: Heeren's Historical Researches (the nations of Asia and Africa: Near Eastern, like Duncker)
+
+## 2026-10-10 12:13 CDT — Round 2026-10-10ae: 10 volumes
+- New shelves: Glover (Conflict of Religions, Gutenberg; Life and Letters in the Fourth Century, 1901; Virgil, 2nd ed., 1912), Ridgeway (Metallic Currency, Gutenberg; Early Age of Greece vol. I, 1901; Origin of Tragedy, 1910), Rice Holmes (Ancient Britain and the Invasions of Julius Caesar, Gutenberg; Caesar's Conquest of Gaul, 2nd ed., 1911)
+- Added: Bury's Ancient Greek Historians (1909); Frazer's Pausanias and Other Greek Sketches (1900)
+- Left out: Ridgeway's Early Age of Greece vol. II (published 1931, not yet US public domain); Douris and the Painters of Greek Vases (PG 61034; Pottier's book, the translator's dates unknown)
+
+## 2026-10-10 12:18 CDT — Round 2026-10-10af: 9 volumes
+- New shelves: Capes (Early Empire, 1876; University Life in Ancient Athens, 1877), Strachan-Davidson (Cicero, 1894), Edwyn Bevan (House of Seleucus vol. I, 1902; Stoics and Sceptics, 1913), Oman (Seven Roman Statesmen, from a 1929 impression)
+- Added: Mahaffy's Prolegomena to Ancient History (1871) and Greek World under Roman Sway (1890); Warde Fowler's Julius Caesar (1892)
+- Held back for illegible imprint years: Capes's Stoicism, Warde Fowler's City-State, Mahaffy's Empire of the Ptolemies. Wanted: Bevan's Seleucus vol. II
+
+## 2026-10-10 12:19 CDT — Round 2026-10-10ag: 3 Latin grammars
+- Taken: Bennett's New Latin Grammar and Lane's Latin Grammar (completed by Morgan), both clean Gutenberg; Allen and Greenough's Latin Grammar, revised edition (Ginn, 1887), OCR 0.80
+- Under the bar: Goodwin's Greek Grammar (1892, 0.70), Smyth's Greek Grammar for Colleges (1920, 0.66) and Gildersleeve and Lodge's Latin Grammar (1894, 0.74). The Greek ones are mostly Greek paradigms, so they belong to the Greek-facing measure question already with Adam rather than to bad OCR
+
+## 2026-10-10 12:20 CDT — Lane B paused: the scholarship seam is thinning
+- Since the 15:55Z pivot: about 259 volumes over rounds 10q-10ag, on roughly 100 scholarship and reference shelves (Grote, Mommsen, Thirlwall, Curtius, Merivale, Niebuhr, Ihne, Freeman, Holm, Abbott, Bury; Jebb, Sandys, Mure, K. O. Müller; Smith's dictionaries, Seyffert, Anthon, Rich, Peck; Bunbury, Tozer, Leake; Latin grammars)
+- The last two rounds gave 9 and 3 volumes. What remains is second-tier, or fails a gate: OCR under 0.78 (Fynes Clinton, Hermann, Mayor's Juvenal, Conington's Virgil commentary), Greek-facing (Jebb's Sophocles, Goodwin's and Smyth's Greek grammars), illegible imprint years, or only post-1930 printings. Per the coordinator's steer, the lane stops here rather than grinding on small finds
+- Wanted, if the lane restarts: Leake's Morea vol. II, Bevan's Seleucus vol. II, Warde Fowler's City-State and Mahaffy's Ptolemies in dated scans, an unexpanded Lempriere

@@ -1,0 +1,116 @@
+{
+ "_about": "TRANSLATOR SHELF: James Waring (fl. 1890s): his Balzac for Dent's Comédie humaine (1895-1900). PD. His Cousin Betty (PG 1749) is held on adler_shelf.json and only cross-referenced here. Added 2026-10-10 by lane C (round 18); Adam may veto. No uids minted.",
+ "_name_words": [
+  "james waring"
+ ],
+ "_surname": [
+  "james waring"
+ ],
+ "_surname_note": "Full name; the surname alone is an English word or a common name.",
+ "ccel": {},
+ "gutenberg": {
+  "war-1294": [
+   1294,
+   "The Firm of Nucingen"
+  ],
+  "war-1660": [
+   1660,
+   "Scenes from a Courtesan's Life"
+  ],
+  "war-1912": [
+   1912,
+   "The Muse of the Department"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "waring-balzac-the-firm-of-nucingen": {
+   "source": "war-1294",
+   "of": "Honoré de Balzac",
+   "work": "The Firm of Nucingen",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "James Waring",
+   "scan_edition": "Project Gutenberg 1294 (clean text)"
+  },
+  "waring-balzac-scenes-from-a-courtesans-life": {
+   "source": "war-1660",
+   "of": "Honoré de Balzac",
+   "work": "Scenes from a Courtesan's Life",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "James Waring",
+   "scan_edition": "Project Gutenberg 1660 (clean text)"
+  },
+  "waring-balzac-the-muse-of-the-department": {
+   "source": "war-1912",
+   "of": "Honoré de Balzac",
+   "work": "The Muse of the Department",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "James Waring",
+   "scan_edition": "Project Gutenberg 1912 (clean text)"
+  },
+  "waring-balzac-cousin-betty": {
+   "of": "Honoré de Balzac",
+   "work": "Cousin Betty",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "James Waring",
+   "held_in": {
+    "file": "pipeline/adler_shelf.json",
+    "slug": "balzac-cousinbette",
+    "gutenberg_id": 1749
+   },
+   "note": "Cross-reference only: Adler's shelf holds this text."
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-7929": "Parisians in the Country is the series title over The Illustrious Gaudissart and The Muse of the Department; Waring's Muse is shelved singly and Gaudissart is Wormeley's (wormeley_shelf.json)."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "war-1294": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james waring",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Waring"
+  },
+  "war-1660": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james waring",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Waring"
+  },
+  "war-1912": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james waring",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Waring"
+  }
+ },
+ "_verified": {
+  "war-1294": {
+   "pg": 1294,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Waring"
+  },
+  "war-1660": {
+   "pg": 1660,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Waring"
+  },
+  "war-1912": {
+   "pg": 1912,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Waring"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

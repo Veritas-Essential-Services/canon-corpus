@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Jethro Bithell (1878-1962): Stefan Zweig's Émile Verhaeren (1914) and Vollmöller's Turandot, after Gozzi (1913). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "jethro bithell",
+  "bithell"
+ ],
+ "_surname": [
+  "jethro bithell",
+  "bithell"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "bit-26730": [
+   26730,
+   "Turandot, Princess of China: A Chinoiserie in Three Acts"
+  ],
+  "bit-35387": [
+   35387,
+   "Émile Verhaeren"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "bithell-gozzi-turandot-princess-of-china-a-chinoiserie": {
+   "source": "bit-26730",
+   "of": "Carlo Gozzi",
+   "work": "Turandot, Princess of China: A Chinoiserie in Three Acts",
+   "translated": "1913-1914 (see the Gutenberg header)",
+   "translator": "Jethro Bithell",
+   "scan_edition": "Project Gutenberg 26730 (clean text)"
+  },
+  "bithell-zweig-emile-verhaeren": {
+   "source": "bit-35387",
+   "of": "Stefan Zweig",
+   "work": "Émile Verhaeren",
+   "translated": "1913-1914 (see the Gutenberg header)",
+   "translator": "Jethro Bithell",
+   "scan_edition": "Project Gutenberg 35387 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "bit-26730": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jethro bithell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jethro Bithell"
+  },
+  "bit-35387": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jethro bithell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jethro Bithell"
+  }
+ },
+ "_verified": {
+  "bit-26730": {
+   "pg": 26730,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jethro Bithell"
+  },
+  "bit-35387": {
+   "pg": 35387,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jethro Bithell"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,42 @@
+{
+ "_about": "William Stearns Davis (1877-1930), historian. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): A Day in Old Athens: a Picture of Athenian Life, A Day in Old Rome, clean Gutenberg. His historical novels are outside the brief. No uids minted.",
+ "_name_words": [
+  "davis"
+ ],
+ "_surname": [
+  "william stearns davis",
+  "davis, william stearns"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "w-s-davis-day-in-old-athens": [
+   4716,
+   "A Day in Old Athens: a Picture of Athenian Life"
+  ],
+  "w-s-davis-day-in-old-rome": [
+   76087,
+   "A Day in Old Rome"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "w-s-davis-day-in-old-athens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william stearns davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "w-s-davis-day-in-old-rome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william stearns davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

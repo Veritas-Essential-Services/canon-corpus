@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Jessie Lemont: Rilke's Poems (1918) and, with Hans Trausil, Rilke's Auguste Rodin (1919). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "jessie lemont",
+  "lemont"
+ ],
+ "_surname": [
+  "jessie lemont",
+  "lemont"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "jle-38594": [
+   38594,
+   "Poems"
+  ],
+  "jle-45605": [
+   45605,
+   "Auguste Rodin"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "jessie-lemont-rilke-auguste-rodin": {
+   "source": "jle-45605",
+   "of": "Rainer Maria Rilke",
+   "work": "Auguste Rodin",
+   "translated": "1918-1919 (see the Gutenberg header)",
+   "translator": "Jessie Lemont (with Hans Trausil)",
+   "scan_edition": "Project Gutenberg 45605 (clean text)"
+  },
+  "jessie-lemont-rilke-poems": {
+   "source": "jle-38594",
+   "of": "Rainer Maria Rilke",
+   "work": "Poems",
+   "translated": "1918-1919 (see the Gutenberg header)",
+   "translator": "Jessie Lemont",
+   "scan_edition": "Project Gutenberg 38594 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "jle-38594": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jessie lemont",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jessie Lemont"
+  },
+  "jle-45605": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jessie lemont",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jessie Lemont; Hans Trausil"
+  }
+ },
+ "_verified": {
+  "jle-38594": {
+   "pg": 38594,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jessie Lemont"
+  },
+  "jle-45605": {
+   "pg": 45605,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jessie Lemont"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

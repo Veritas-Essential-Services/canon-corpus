@@ -1,0 +1,104 @@
+{
+ "_about": "TRANSLATOR SHELF: Nathaniel Greene (1797-1877): C. F. van der Velde's Tales from the German (1837, 2 vols) and Mühlbach's The Daughter of an Empress (1867). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "nathaniel greene",
+  "greene"
+ ],
+ "_surname": [
+  "nathaniel greene",
+  "greene"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ngr-2132": [
+   2132,
+   "The Daughter of an Empress"
+  ],
+  "ngr-32444": [
+   32444,
+   "Tales from the German.  Volume II."
+  ],
+  "ngr-32478": [
+   32478,
+   "Tales from the German.  Volume I."
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "nathaniel-greene-muhlbach-the-daughter-of-an-empress": {
+   "source": "ngr-2132",
+   "of": "Luise Mühlbach",
+   "work": "The Daughter of an Empress",
+   "translated": "1837-1867 (see the Gutenberg header)",
+   "translator": "Nathaniel Greene",
+   "scan_edition": "Project Gutenberg 2132 (clean text)"
+  },
+  "nathaniel-greene-velde-tales-from-the-german-vol-1": {
+   "source": "ngr-32478",
+   "of": "Carl Franz van der Velde",
+   "work": "Tales from the German.  Volume I.",
+   "translated": "1837-1867 (see the Gutenberg header)",
+   "translator": "Nathaniel Greene",
+   "scan_edition": "Project Gutenberg 32478 (clean text)"
+  },
+  "nathaniel-greene-velde-tales-from-the-german-vol-2": {
+   "source": "ngr-32444",
+   "of": "Carl Franz van der Velde",
+   "work": "Tales from the German.  Volume II.",
+   "translated": "1837-1867 (see the Gutenberg header)",
+   "translator": "Nathaniel Greene",
+   "scan_edition": "Project Gutenberg 32444 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ngr-2132": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nathaniel greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Nathaniel Greene"
+  },
+  "ngr-32444": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nathaniel greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Nathaniel Greene"
+  },
+  "ngr-32478": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nathaniel greene",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Nathaniel Greene"
+  }
+ },
+ "_verified": {
+  "ngr-2132": {
+   "pg": 2132,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Nathaniel Greene"
+  },
+  "ngr-32444": {
+   "pg": 32444,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Nathaniel Greene"
+  },
+  "ngr-32478": {
+   "pg": 32478,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Nathaniel Greene"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

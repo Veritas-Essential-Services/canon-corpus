@@ -1,0 +1,66 @@
+{
+ "_about": "Evelyn Abbott (1843-1901), Jowett Lecturer in Greek History at Balliol: A History of Greece, 3 parts (Putnam and Longmans; title pages dated 1901, 1901 and 1900), raw IA OCR. IA also holds copies catalogued 1888 and 1895, so the 1901 title pages of parts I-II are probably later printings (pre-1930; an inference from the catalogue dates). His translation of Duncker's History of Antiquity is Near Eastern history and is not taken. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "abbott"
+ ],
+ "_surname": [
+  "evelyn abbott",
+  "abbott, evelyn"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "evelyn-abbott-history-greece-v1-1901": [
+   "historyofgreece01abbo",
+   "A History of Greece, part I, from the earliest times to the Ionian Revolt (New York: Putnam; London: Longmans, Green, 1901)"
+  ],
+  "evelyn-abbott-history-greece-v2-1901": [
+   "historyofgreece02abbo_0",
+   "A History of Greece, part II, from the Ionian Revolt to the Thirty Years' Peace, 500-445 B.C. (New York: Putnam; London: Longmans, Green, 1901)"
+  ],
+  "evelyn-abbott-history-greece-v3-1900": [
+   "historyofgreece03abbo",
+   "A History of Greece, part III, from the Thirty Years' Peace to the Fall of the Thirty at Athens, 445-403 B.C. (New York: Putnam; London: Longmans, Green, 1900)"
+  ]
+ },
+ "_checks": {
+  "evelyn-abbott-history-greece-v1-1901": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "evelyn abbott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "evelyn-abbott-history-greece-v2-1901": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "evelyn abbott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "evelyn-abbott-history-greece-v3-1900": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "evelyn-abbott-history-greece-v3-1900": {
+   "author": "title page read 2026-10-10: OCR gives 'SME YN ABBOTT, MA' LID. JOWETT LECTURER IN GREEK HISTORY AT BALLIOL COLLEGE', Putnam and Longmans 1900 (Evelyn Abbott); the OCR garbles the forename"
+  }
+ }
+}

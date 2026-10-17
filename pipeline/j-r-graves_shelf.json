@@ -1,0 +1,246 @@
+{
+ "_about": "Public-domain J. R. Graves (James Robinson Graves, 1820-1893, Baptist editor, Nashville and Memphis, leader of Landmarkism) for the Word Hoard: The Watchman's Reply (1853), The Great Iron Wheel (1855), The Tri-lemma (1860), Old Landmarkism: What Is It? (1880), John's Baptism (1881), two published debates (with Ditzler, 1876, and Burruss, 1880), and The Work of Christ in Seven Dispensations with six shorter works, all seven known here only in the Baptist Sunday School Committee's Texarkana reprints (copyright 1928), raw Internet Archive OCR. Landmarkism and anti-Methodist polemic; veto point. Added 2026-10-10 by lane A, round 18 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "graves"
+ ],
+ "_surname": [
+  "j. r. graves",
+  "james robinson graves",
+  "graves, j. r.",
+  "graves, james robinson",
+  "j. r. graves, ll.d.",
+  "rev. j. r. graves"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "graves-watchmans-reply": [
+   "watchmansreply00grav",
+   "The Watchman's Reply (Nashville: Graves & Shankland, 1853)"
+  ],
+  "graves-great-iron-wheel": [
+   "greatironwheel00grav",
+   "The Great Iron Wheel; or, Republicanism Backwards and Christianity Reversed (Nashville: Graves and Marks; New York: Sheldon, Lamport, 1855)"
+  ],
+  "graves-trilemma-1860": [
+   "trilemmaordeathb00grav",
+   "The Tri-lemma; or, Death by Three Horns (Nashville: South-Western Publishing House, 1860)"
+  ],
+  "graves-ditzler-debate": [
+   "gravesditzlerorg00grav",
+   "The Graves-Ditzler: or, Great Carrollton Debate, with Jacob Ditzler (fifth thousand, Memphis: Southern Baptist Publication Society, 1876)"
+  ],
+  "graves-old-landmarkism": [
+   "oldlandmarkismw00gravgoog",
+   "Old Landmarkism: What Is It? (Memphis: Baptist Book House, Graves, Mahaffy, 1880; IA's 1928 date is wrong)"
+  ],
+  "graves-burruss-debate": [
+   "adiscussionondo00burrgoog",
+   "A Discussion on the Doctrine of Endless Punishment, with John C. Burruss (Atlanta: J. C. Burruss, 1880)"
+  ],
+  "graves-johns-baptism": [
+   "johnsbaptismwasi00grav",
+   "John's Baptism: Was It from Moses or Christ? (Memphis: J. R. Graves & Son; title page reads 1881, verso copyright 1891)"
+  ],
+  "graves-seven-dispensations": [
+   "workofchristinco00grav",
+   "The Work of Christ in the Covenant of Redemption; Developed in Seven Dispensations (Texarkana: Baptist Sunday School Committee, 1928 reprint; entered 1883)"
+  ],
+  "graves-new-great-iron-wheel": [
+   "newgreatironwhee0000grav",
+   "The New Great Iron Wheel (Texarkana: Baptist Sunday School Committee reprint, copyright 1928; entered 1884)"
+  ],
+  "graves-middle-life": [
+   "bibledoctrineofm0000jrgr",
+   "The Bible Doctrine of the Middle Life, as Opposed to Swedenborgianism and Spiritism (title as catalogued; Texarkana reprint; entered 1873 by Mrs. G. A. Graves)"
+  ],
+  "graves-relation-of-baptism": [
+   "relationofbaptis0000jrgr",
+   "The Relation of Baptism to Salvation, Denominational Discourses no. 3 (Texarkana: Baptist Sunday School Committee reprint)"
+  ],
+  "graves-what-is-conscience": [
+   "whatisconscience0000jrgr",
+   "What Is Conscience? Have You a Good Conscience? (Texarkana: Baptist Sunday School Committee reprint; copyright 1882)"
+  ],
+  "graves-eat-and-drink": [
+   "whatisittoeatdri0000unse",
+   "What Is It to Eat Unworthily? (title from the publisher's list; Texarkana reprint, copyright 1881 by J. R. Graves and 1928 by the Baptist Sunday School Committee)"
+  ],
+  "graves-lords-supper": [
+   "bwb_P9-DAU-363",
+   "The Lord's Supper a Church Ordinance, Denominational Tracts no. 4 (Texarkana reprint, copyright 1881 by J. R. Graves and 1928 by the Baptist Sunday School Committee)"
+  ]
+ },
+ "_alternates": {
+  "graves-copies": "greatironwheelor00grav (1855), greatironwheelo00gravgoog (30th edition, 1860), trilemma00grav (second edition, 1881), oldlandmarkism0000unse and johnsbaptism0000jrgr (Texarkana reprints), trilemmaallhuman0000jrgr",
+  "graves-hymnals": "The Little Seraph and The New Baptist Psalmist (1873), hymnals he edited",
+  "graves-edited": "Trials and Sufferings for Religious Liberty in New England (1858; IA trialsandsuffer00gravgoog): he edited it; IA also credits Samuel Adlam"
+ },
+ "_excluded": {
+  "graves-dayton": "Pedobaptist and Campbellite Immersions, by A. C. Dayton with an essay by Graves",
+  "graves-late": "bwb_Y0-BUW-976 (1939)",
+  "graves-namesakes": "other Graveses"
+ },
+ "_identity_checked": {
+  "graves-trilemma-1860": {
+   "author": "Title page read: \"BY J. R. OR AYES, AUTHOE of Great Iron Wheel\" (OCR for J. R. Graves); entered 1860 by Graves, Marks & Co."
+  }
+ },
+ "_checks": {
+  "graves-watchmans-reply": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. r. graves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "graves-great-iron-wheel": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. r. graves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "graves-trilemma-1860": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "graves-ditzler-debate": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. r. graves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "graves-old-landmarkism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. r. graves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "graves-burruss-debate": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. r. graves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "graves-johns-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. r. graves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "graves-seven-dispensations": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. r. graves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "graves-new-great-iron-wheel": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. r. graves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "graves-middle-life": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. r. graves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "graves-relation-of-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. r. graves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "graves-what-is-conscience": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. r. graves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "graves-eat-and-drink": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. r. graves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "graves-lords-supper": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. r. graves",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

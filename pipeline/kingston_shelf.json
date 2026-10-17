@@ -1,0 +1,88 @@
+{
+ "_about": "W. H. G. Kingston's sea stories for boys: Peter the Whaler, The Three Midshipmen and Mark Seaworth (all undated in the text; Nick Hodson's transcriptions, whose short modern note at the head stays in the front matter). His translation of The Swiss Family Robinson is on Lane D's wyss shelf. Gutenberg catalogue: Kingston 1814-1880. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "W. H. G. Kingston",
+ "_name_words": [
+  "whaler",
+  "midshipmen",
+  "seaworth"
+ ],
+ "_surname": [
+  "william henry giles kingston",
+  "w. h. g. kingston",
+  "w.h.g. kingston"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "kingston-peter-the-whaler": [
+   21474,
+   "Peter the Whaler",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [A-Z ]+\\.$"
+     }
+    ],
+    "start": "CHAPTER ONE\\.$",
+    "front": true
+   }
+  ],
+  "kingston-three-midshipmen": [
+   24812,
+   "The Three Midshipmen",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [A-Z ]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER ONE\\.$",
+    "front": true
+   }
+  ],
+  "kingston-mark-seaworth": [
+   21477,
+   "Mark Seaworth",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [A-Z ]+\\.$"
+     }
+    ],
+    "start": "CHAPTER ONE\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "kingston-peter-the-whaler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-three-midshipmen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kingston-mark-seaworth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william henry giles kingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

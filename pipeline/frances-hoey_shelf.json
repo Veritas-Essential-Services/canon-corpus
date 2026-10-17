@@ -1,0 +1,132 @@
+{
+ "_about": "TRANSLATOR SHELF: Frances Cashel Hoey (1830-1908): Madame de Rémusat's Memoirs (1880, 2 vols, with John Lillie), Challamel's History of Fashion in France (1882, with Lillie) and Verne's An Antarctic Mystery (1898). US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted.",
+ "_name_words": [
+  "frances cashel hoey",
+  "cashel hoey",
+  "mrs. cashel hoey"
+ ],
+ "_surname": [
+  "frances cashel hoey",
+  "cashel hoey",
+  "mrs. cashel hoey"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "fho-10339": [
+   10339,
+   "An Antarctic Mystery"
+  ],
+  "fho-49175": [
+   49175,
+   "Memoirs of the Empress Josephine, Vol. 1 of 2"
+  ],
+  "fho-49176": [
+   49176,
+   "Memoirs of the Empress Josephine, Vol. 2 of 2"
+  ],
+  "fho-76717": [
+   76717,
+   "The history of fashion in France"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "frances-hoey-challamel-the-history-of-fashion-in-france": {
+   "source": "fho-76717",
+   "of": "Augustin Challamel",
+   "work": "The history of fashion in France",
+   "translated": "1880-1898 (see the Gutenberg header)",
+   "translator": "Frances Cashel Hoey (with John Lillie)",
+   "scan_edition": "Project Gutenberg 76717 (clean text)"
+  },
+  "frances-hoey-remusat-memoirs-vol-1": {
+   "source": "fho-49175",
+   "of": "Madame de Rémusat",
+   "work": "Memoirs of the Empress Josephine, Vol. 1 of 2",
+   "translated": "1880-1898 (see the Gutenberg header)",
+   "translator": "Frances Cashel Hoey (with John Lillie)",
+   "scan_edition": "Project Gutenberg 49175 (clean text)"
+  },
+  "frances-hoey-remusat-memoirs-vol-2": {
+   "source": "fho-49176",
+   "of": "Madame de Rémusat",
+   "work": "Memoirs of the Empress Josephine, Vol. 2 of 2",
+   "translated": "1880-1898 (see the Gutenberg header)",
+   "translator": "Frances Cashel Hoey (with John Lillie)",
+   "scan_edition": "Project Gutenberg 49176 (clean text)"
+  },
+  "frances-hoey-verne-an-antarctic-mystery": {
+   "source": "fho-10339",
+   "of": "Jules Verne",
+   "work": "An Antarctic Mystery",
+   "translated": "1880-1898 (see the Gutenberg header)",
+   "translator": "Frances Cashel Hoey",
+   "scan_edition": "Project Gutenberg 10339 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "fho-10339": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frances cashel hoey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frances Cashel Hoey"
+  },
+  "fho-49175": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frances cashel hoey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frances Cashel Hoey; John Lillie"
+  },
+  "fho-49176": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frances cashel hoey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frances Cashel Hoey; John Lillie"
+  },
+  "fho-76717": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frances cashel hoey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frances Cashel Hoey; John Lillie"
+  }
+ },
+ "_verified": {
+  "fho-10339": {
+   "pg": 10339,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frances Cashel Hoey"
+  },
+  "fho-49175": {
+   "pg": 49175,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frances Cashel Hoey"
+  },
+  "fho-49176": {
+   "pg": 49176,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frances Cashel Hoey"
+  },
+  "fho-76717": {
+   "pg": 76717,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frances Cashel Hoey"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,262 @@
+{
+ "_about": "TRANSLATOR SHELF: Alfred Richard Allinson (1852-1929): Anatole France for John Lane (1909-24), Brantôme's Lives of Fair and Gallant Ladies (1901), Dumas's The Wolf-Leader, Lemonnier, and Souvestre and Allain's Fantômas. He died in 1929, so every translation predates 1931. US public domain. Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted.",
+ "_name_words": [
+  "alfred allinson",
+  "a. r. allinson",
+  "allinson"
+ ],
+ "_surname": [
+  "alfred allinson",
+  "a. r. allinson",
+  "allinson"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "all-11060": [
+   11060,
+   "The Aspirations of Jean Servien"
+  ],
+  "all-18728": [
+   18728,
+   "The Well of Saint Clare"
+  ],
+  "all-25407": [
+   25407,
+   "The Merrie Tales of Jacques Tournebroche"
+  ],
+  "all-25408": [
+   25408,
+   "Child Life in Town and Country"
+  ],
+  "all-51054": [
+   51054,
+   "The Wolf-Leader"
+  ],
+  "all-51847": [
+   51847,
+   "Birds and Beasts"
+  ],
+  "all-67025": [
+   67025,
+   "Lives of Fair and Gallant Ladies. Vol 1"
+  ],
+  "all-67026": [
+   67026,
+   "Lives of Fair and Gallant Ladies. Vol 2."
+  ],
+  "all-71587": [
+   71587,
+   "The long arm of Fantômas"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "allinson-brantome-lives-of-fair-and-gallant-ladies-vol-1": {
+   "source": "all-67025",
+   "of": "Pierre de Bourdeille, seigneur de Brantôme",
+   "work": "Lives of Fair and Gallant Ladies. Vol 1",
+   "translated": "1901-1924 (see the Gutenberg header)",
+   "translator": "A. R. Allinson",
+   "scan_edition": "Project Gutenberg 67025 (clean text)"
+  },
+  "allinson-brantome-lives-of-fair-and-gallant-ladies-vol-2": {
+   "source": "all-67026",
+   "of": "Pierre de Bourdeille, seigneur de Brantôme",
+   "work": "Lives of Fair and Gallant Ladies. Vol 2.",
+   "translated": "1901-1924 (see the Gutenberg header)",
+   "translator": "A. R. Allinson",
+   "scan_edition": "Project Gutenberg 67026 (clean text)"
+  },
+  "allinson-dumas-the-wolf-leader": {
+   "source": "all-51054",
+   "of": "Alexandre Dumas",
+   "work": "The Wolf-Leader",
+   "translated": "1901-1924 (see the Gutenberg header)",
+   "translator": "A. R. Allinson",
+   "scan_edition": "Project Gutenberg 51054 (clean text)"
+  },
+  "allinson-france-child-life-in-town-and-country": {
+   "source": "all-25408",
+   "of": "Anatole France",
+   "work": "Child Life in Town and Country",
+   "translated": "1901-1924 (see the Gutenberg header)",
+   "translator": "A. R. Allinson",
+   "scan_edition": "Project Gutenberg 25408 (clean text)"
+  },
+  "allinson-france-the-aspirations-of-jean-servien": {
+   "source": "all-11060",
+   "of": "Anatole France",
+   "work": "The Aspirations of Jean Servien",
+   "translated": "1901-1924 (see the Gutenberg header)",
+   "translator": "A. R. Allinson",
+   "scan_edition": "Project Gutenberg 11060 (clean text)"
+  },
+  "allinson-france-the-merrie-tales-of-jacques-tournebroche": {
+   "source": "all-25407",
+   "of": "Anatole France",
+   "work": "The Merrie Tales of Jacques Tournebroche",
+   "translated": "1901-1924 (see the Gutenberg header)",
+   "translator": "A. R. Allinson",
+   "scan_edition": "Project Gutenberg 25407 (clean text)"
+  },
+  "allinson-france-the-well-of-saint-clare": {
+   "source": "all-18728",
+   "of": "Anatole France",
+   "work": "The Well of Saint Clare",
+   "translated": "1901-1924 (see the Gutenberg header)",
+   "translator": "A. R. Allinson",
+   "scan_edition": "Project Gutenberg 18728 (clean text)"
+  },
+  "allinson-lemonnier-birds-and-beasts": {
+   "source": "all-51847",
+   "of": "Camille Lemonnier",
+   "work": "Birds and Beasts",
+   "translated": "1901-1924 (see the Gutenberg header)",
+   "translator": "A. R. Allinson",
+   "scan_edition": "Project Gutenberg 51847 (clean text)"
+  },
+  "allinson-souvestre-the-long-arm-of-fantomas": {
+   "source": "all-71587",
+   "of": "Pierre Souvestre",
+   "work": "The long arm of Fantômas",
+   "translated": "1901-1924 (see the Gutenberg header)",
+   "translator": "A. R. Allinson",
+   "scan_edition": "Project Gutenberg 71587 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "all-11060": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred allinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. R. Allinson"
+  },
+  "all-18728": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred allinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. R. Allinson"
+  },
+  "all-25407": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. r. allinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. R. Allinson"
+  },
+  "all-25408": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. r. allinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. R. Allinson"
+  },
+  "all-51054": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred allinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. R. Allinson"
+  },
+  "all-51847": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. r. allinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. R. Allinson"
+  },
+  "all-67025": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. r. allinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. R. Allinson"
+  },
+  "all-67026": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. r. allinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. R. Allinson"
+  },
+  "all-71587": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. r. allinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. R. Allinson"
+  }
+ },
+ "_verified": {
+  "all-11060": {
+   "pg": 11060,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. R. Allinson"
+  },
+  "all-18728": {
+   "pg": 18728,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. R. Allinson"
+  },
+  "all-25407": {
+   "pg": 25407,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. R. Allinson"
+  },
+  "all-25408": {
+   "pg": 25408,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. R. Allinson"
+  },
+  "all-51054": {
+   "pg": 51054,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. R. Allinson"
+  },
+  "all-51847": {
+   "pg": 51847,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. R. Allinson"
+  },
+  "all-67025": {
+   "pg": 67025,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. R. Allinson"
+  },
+  "all-67026": {
+   "pg": 67026,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. R. Allinson"
+  },
+  "all-71587": {
+   "pg": 71587,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. R. Allinson"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

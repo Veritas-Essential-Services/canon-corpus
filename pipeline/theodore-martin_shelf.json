@@ -28,7 +28,8 @@
   "theodore-martin-others": "Martin's Faust (1865-86), Vita Nuova (1862), Catullus (1861) and Heine (1878): on IA, not fetched this run. His Horace overlaps lane B's horace shelf; check there first."
  },
  "_excluded": {
-  "book-of-ballads": "The Book of Ballads (PG 44798, with Aytoun): parodies, not translations."
+  "book-of-ballads": "The Book of Ballads (PG 44798, with Aytoun): parodies, not translations.",
+  "pg-2782": "Wilhelm Tell again: another Gutenberg file of Martin's translation, already held as 6788."
  },
  "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
  "_checks": {

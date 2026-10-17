@@ -1,0 +1,322 @@
+{
+ "_about": "Public-domain James McCosh (1811-1894, Free Church of Scotland, Belfast, then President of Princeton) for the Word Hoard: 19 works of divinity and apologetics from Internet Archive scans, 1851-1888, among them The Method of the Divine Government, The Supernatural in Relation to the Natural, Christianity and Positivism, Gospel Sermons, The Religious Aspect of Evolution and his Princeton baccalaureate sermons. Raw OCR. His philosophy, logic and psychology are left out as not divinity. Added 2026-10-10 by lane A, round 21 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "mccosh",
+  "m'cosh"
+ ],
+ "_surname": [
+  "james m'cosh",
+  "james mccosh",
+  "m'cosh, james",
+  "mccosh, james",
+  "rev. james m'cosh",
+  "james mccosh, d.d., ll.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mccosh-method-divine-government": [
+   "methoddivinegov00mccogoog",
+   "The Method of the Divine Government, Physical and Moral, American reprint (New York: Robert Carter, 1851)"
+  ],
+  "mccosh-supernatural-natural": [
+   "supernaturalinre00mccouoft",
+   "The Supernatural in Relation to the Natural (Cambridge and London: Macmillan, MDCCCLXII)"
+  ],
+  "mccosh-waiting-for-god": [
+   "waitingforgodser00mcco",
+   "Waiting for God, a sermon for the Wesleyan-Methodist Missionary Society (London: Wesleyan Mission House, 1867)"
+  ],
+  "mccosh-duty-irish-presbyterians": [
+   "dutyofirishpresb00mcco",
+   "The Duty of Irish Presbyterians to their Church in the Sustentation of the Gospel Ministry (Belfast, 1868)"
+  ],
+  "mccosh-christ-the-way": [
+   "christwaytruthli00mcco",
+   "Christ the Way, the Truth and the Life, baccalaureate sermon, 27 June 1869 (Princeton: Stelle and Smith, 1869)"
+  ],
+  "mccosh-lessons-from-plant": [
+   "lessonsderivedfr00mcco",
+   "Lessons Derived from the Plant, baccalaureate sermon (Princeton: Stelle and Smith, 1870)"
+  ],
+  "mccosh-christianity-positivism": [
+   "christianitypos00mcco",
+   "Christianity and Positivism: Lectures on Natural Theology and Apologetics (New York: Robert Carter, 1871)"
+  ],
+  "mccosh-unity-with-diversity": [
+   "unitywithdiversi00mcco",
+   "Unity with Diversity in the Works and Word of God, baccalaureate sermon, 25 June 1871 (Princeton: Stelle and Smith, 1871)"
+  ],
+  "mccosh-faith-in-christ": [
+   "faithinchristfai00mcco",
+   "Faith in Christ and Faith in Doctrine Compared and Contrasted, baccalaureate sermon, 23 June 1872 (Princeton: Stelle and Smith, 1872)"
+  ],
+  "mccosh-singleness-of-eye": [
+   "onsinglenessofey00mcco",
+   "On Singleness of Eye, baccalaureate sermon, 22 June 1873 (Princeton: McGinness and Runyan; title-page year OCR'd 1878, catalogued 1873)"
+  ],
+  "mccosh-ideas-in-nature": [
+   "ideasinnatureove00mcco",
+   "Ideas in Nature Overlooked by Dr. Tyndall (New York: Robert Carter, copyright 1875)"
+  ],
+  "mccosh-royal-law-of-love": [
+   "royallawofloveor00mcco",
+   "The Royal Law of Love, baccalaureate sermon, 27 June 1875 (New York: Robert Carter; year illegible, catalogued 1875)"
+  ],
+  "mccosh-world-scene-of-contest": [
+   "worldsceneofcont00mcco",
+   "The World a Scene of Contest, baccalaureate sermon (New York: Robert Carter, 1876)"
+  ],
+  "mccosh-development-hypothesis": [
+   "developmenthypot00mcco",
+   "The Development Hypothesis: Is It Sufficient? (New York: Robert Carter, 1876)"
+  ],
+  "mccosh-acknowledging-the-lord": [
+   "proprietyofackno00mcco",
+   "The Propriety of Acknowledging the Lord in All Our Ways, baccalaureate sermon, 16 June 1878 (New York: Robert Carter; Princeton: McGinness and Runyon, 1878)"
+  ],
+  "mccosh-certitude-providence-prayer": [
+   "certitudeprovide00mccorich",
+   "Certitude, Providence, and Prayer, Philosophic Series no. IV (New York: Charles Scribner's Sons, 1883)"
+  ],
+  "mccosh-development-what-it-can-do": [
+   "developmentwhati00mcco",
+   "Development: What It Can Do and What It Cannot Do, Philosophic Series no. III (New York: Charles Scribner's Sons, 1883)"
+  ],
+  "mccosh-gospel-sermons": [
+   "gospelsermons00mcco",
+   "Gospel Sermons (New York: Robert Carter, 1888)"
+  ],
+  "mccosh-religious-aspect-evolution": [
+   "religiousaspecto00mcco",
+   "The Religious Aspect of Evolution, the Bedell Lectures (New York and London: G. P. Putnam's Sons, 1888)"
+  ]
+ },
+ "_alternates": {
+  "mccosh-wheat-chaff": "The Wheat and the Chaff Gathered into Bundles (Perth, catalogued 1843; wheatchaffgather00mcco): Disruption statistics, not divinity",
+  "mccosh-typical-forms": "Typical Forms and Special Ends in Creation (1856; typicalformsspec00mcco): joint work with George Dickie",
+  "mccosh-religion-in-college": "Religion in a College (1886; religionincolleg00mcco): college policy",
+  "mccosh-philosophy": "Intuitions of the Mind, Examination of Mill, Laws of Discursive Thought, Scottish Philosophy, The Emotions, Psychology and other philosophy, logic and education: not divinity",
+  "mccosh-life": "The Life of James McCosh, chiefly autobiographical, edited by W. M. Sloane (1896)",
+  "mccosh-copies": "Second copies and later editions of most titles"
+ },
+ "_excluded": {
+  "mccosh-not-his": "Mark Hopkins's The Law of Love (with McCosh's strictures); Questions of Modern Thought (multi-author); books he only introduced or edited",
+  "mccosh-namesakes": "John McCosh, Andrew J. McCosh, Kate McCosh Clark",
+  "mccosh-reprints": "modern reprints"
+ },
+ "_pending": {},
+ "_checks": {
+  "mccosh-method-divine-government": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james m'cosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mccosh-supernatural-natural": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james m'cosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mccosh-waiting-for-god": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james m'cosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mccosh-duty-irish-presbyterians": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james m'cosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mccosh-christ-the-way": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james mccosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mccosh-lessons-from-plant": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james mccosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mccosh-christianity-positivism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james mccosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mccosh-unity-with-diversity": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james mccosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mccosh-faith-in-christ": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james mccosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mccosh-singleness-of-eye": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james mccosh",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mccosh-ideas-in-nature": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james mccosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mccosh-royal-law-of-love": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james mccosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mccosh-world-scene-of-contest": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james mccosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mccosh-development-hypothesis": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james mccosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mccosh-acknowledging-the-lord": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james mccosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mccosh-certitude-providence-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james mccosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mccosh-development-what-it-can-do": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james mccosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mccosh-gospel-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james mccosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mccosh-religious-aspect-evolution": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james mccosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

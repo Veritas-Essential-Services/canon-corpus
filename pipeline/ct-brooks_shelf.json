@@ -1,0 +1,186 @@
+{
+ "_about": "TRANSLATOR SHELF: Charles Timothy Brooks (1813-1883): Goethe's Faust, Part I (1856), and Jean Paul's Titan, Hesperus and The Invisible Lodge (Holt, 1862-83). His Wilhelm Busch is on the other lane's wilhelm-busch shelf. US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted.",
+ "_name_words": [
+  "charles timothy brooks",
+  "charles t. brooks",
+  "c. t. brooks"
+ ],
+ "_surname": [
+  "charles timothy brooks",
+  "charles t. brooks",
+  "c. t. brooks"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ctb-14460": [
+   14460,
+   "Faust: a Tragedy [part 1], Translated from the German of Goethe"
+  ],
+  "ctb-35664": [
+   35664,
+   "Titan: A Romance. v. 1 (of 2)"
+  ],
+  "ctb-36071": [
+   36071,
+   "Hesperus; or, Forty-Five Dog-Post-Days: A Biography. Vol. I."
+  ],
+  "ctb-36087": [
+   36087,
+   "Hesperus; or, Forty-Five Dog-Post-Days: A Biography. Vol. II."
+  ],
+  "ctb-36353": [
+   36353,
+   "The Invisible Lodge"
+  ],
+  "ctb-36403": [
+   36403,
+   "Titan: A Romance. v. 2 (of 2)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ct-brooks-goethe-faust-a-tragedy-part-1-translated-from-t": {
+   "source": "ctb-14460",
+   "of": "Johann Wolfgang von Goethe",
+   "work": "Faust: a Tragedy [part 1], Translated from the German of Goethe",
+   "translated": "1856-1883 (see the Gutenberg header)",
+   "translator": "Charles Timothy Brooks",
+   "scan_edition": "Project Gutenberg 14460 (clean text)"
+  },
+  "ct-brooks-jean-paul-hesperus-vol-1": {
+   "source": "ctb-36071",
+   "of": "Jean Paul",
+   "work": "Hesperus; or, Forty-Five Dog-Post-Days: A Biography. Vol. I.",
+   "translated": "1856-1883 (see the Gutenberg header)",
+   "translator": "Charles Timothy Brooks",
+   "scan_edition": "Project Gutenberg 36071 (clean text)"
+  },
+  "ct-brooks-jean-paul-hesperus-vol-2": {
+   "source": "ctb-36087",
+   "of": "Jean Paul",
+   "work": "Hesperus; or, Forty-Five Dog-Post-Days: A Biography. Vol. II.",
+   "translated": "1856-1883 (see the Gutenberg header)",
+   "translator": "Charles Timothy Brooks",
+   "scan_edition": "Project Gutenberg 36087 (clean text)"
+  },
+  "ct-brooks-jean-paul-the-invisible-lodge": {
+   "source": "ctb-36353",
+   "of": "Jean Paul",
+   "work": "The Invisible Lodge",
+   "translated": "1856-1883 (see the Gutenberg header)",
+   "translator": "Charles Timothy Brooks",
+   "scan_edition": "Project Gutenberg 36353 (clean text)"
+  },
+  "ct-brooks-jean-paul-titan-a-romance-v-1-of-2": {
+   "source": "ctb-35664",
+   "of": "Jean Paul",
+   "work": "Titan: A Romance. v. 1 (of 2)",
+   "translated": "1856-1883 (see the Gutenberg header)",
+   "translator": "Charles Timothy Brooks",
+   "scan_edition": "Project Gutenberg 35664 (clean text)"
+  },
+  "ct-brooks-jean-paul-titan-a-romance-v-2-of-2": {
+   "source": "ctb-36403",
+   "of": "Jean Paul",
+   "work": "Titan: A Romance. v. 2 (of 2)",
+   "translated": "1856-1883 (see the Gutenberg header)",
+   "translator": "Charles Timothy Brooks",
+   "scan_edition": "Project Gutenberg 36403 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "busch": "Max and Maurice (28847) is on wilhelm-busch_shelf.json; Plish and Plum (37188) is left for that shelf's owner."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ctb-14460": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles timothy brooks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Timothy Brooks"
+  },
+  "ctb-35664": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles timothy brooks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Timothy Brooks"
+  },
+  "ctb-36071": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles timothy brooks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Timothy Brooks"
+  },
+  "ctb-36087": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles timothy brooks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Timothy Brooks"
+  },
+  "ctb-36353": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles timothy brooks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Timothy Brooks"
+  },
+  "ctb-36403": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles timothy brooks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Timothy Brooks"
+  }
+ },
+ "_verified": {
+  "ctb-14460": {
+   "pg": 14460,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Timothy Brooks"
+  },
+  "ctb-35664": {
+   "pg": 35664,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Timothy Brooks"
+  },
+  "ctb-36071": {
+   "pg": 36071,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Timothy Brooks"
+  },
+  "ctb-36087": {
+   "pg": 36087,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Timothy Brooks"
+  },
+  "ctb-36353": {
+   "pg": 36353,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Timothy Brooks"
+  },
+  "ctb-36403": {
+   "pg": 36403,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Timothy Brooks"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

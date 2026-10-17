@@ -211,6 +211,7 @@ Shelf: `pipeline/ovid_shelf.json`. No single PD translator covers all of Ovid, s
 | The Art of Love, and Other Poems: On Painting the Face, Ars Amatoria, Remedia Amoris, Nux, Ibis, Halieuticon, Consolatio ad Liviam (Loeb; London: Heinemann, New York: Putnam, MCMXXIX; Latin facing) | J. H. Mozley | `ovid-mozley-art-of-love-1929` | have-raw (IA `ovidartofloveoth0000unse`) |
 | The Metamorphoses of Publius Ovidius Naso translated in English blank verse (Blackwood, MDCCCLXXI) | Henry King | `ovid-king-metamorphoses-1871` | have-raw (IA `metamorphosesofp00ovid`) |
 | Poems and Translations, including the first four books of Ovid's Fasti, with the ancient Roman calendar (Liverpool: William Forshaw, 1839); the volume also holds Taylor's own poems | John Taylor | `ovid-taylor-fasti-1839` | have-raw (IA `poemstranslation00tayluoft`) |
+| A Translation of Ovid's Fasti into English Prose, with notes, Part I: books I-III (Dublin: John Cumming, 1833) | William Thynne | `ovid-thynne-fasti-1833-pt1` | have-raw (IA `translationofovi00ovid`) |
 
 Excluded: PG 21920, *The Last Poems of Ovid* (Akrigg, 2006), a COPYRIGHTED Gutenberg eBook. Later reprints of the two Riley Bohn volumes. Modern translations (Kline and others).
 
@@ -265,6 +266,9 @@ Shelf: `pipeline/virgil_shelf.json`. Translator per row. Rhoades (verse) and Con
 | A Translation of Virgil's Eclogues into Rhythmic Prose, based on those in Professor Conington's edition (London: Longmans, Green, Reader, and Dyer, 1870) | E. M. Millington | `virgil-millington-eclogues-1870` | have-raw (IA `atranslationvir00marogoog`) |
 | A Translation of the First Book of the Georgics of Virgil, in Blank Verse, with notes critical and explanatory (London: W. Phillips, 1825) | Robert Hoblyn | `virgil-hoblyn-georgics-i-1825` | have-raw (IA `atranslationfir00marogoog`) |
 | The Eclogues of Virgil translated into English verse (printed for private distribution, 1868) | Henry Duncan Skrine | `virgil-skrine-eclogues-1868` | have-raw (IA `ecloguesofvirgil00vir`) |
+| The Works of Virgil in Latin and English, third edition with considerable improvements, vol. II (London: J. Dodsley, 1778) | Christopher Pitt (Aeneid) and Joseph Warton | `virgil-pitt-warton-1778-v2` | have-raw (IA `worksvirgilinla00virggoog`) |
+| The Works of Virgil in Latin and English, third edition with considerable improvements, vol. IV: Aeneid IX-XII (London: J. Dodsley, 1778) | Christopher Pitt (Aeneid) and Joseph Warton | `virgil-pitt-warton-1778-v4` | have-raw (IA `worksvirgilinla01virggoog`) |
+| A Translation into English Verse of Virgil's Fourth Georgic (Leamington: Nathaniel Merridew, 1859) | Charles Robertson Honey | `virgil-honey-georgic-iv-1859` | have-raw (IA `translationintoe00virg`) |
 
 Pending (wishlist): none known. Gavin Douglas's Eneados (1513, Scots) is held above in the Bannatyne Club edition (1839).
 
@@ -339,6 +343,7 @@ Shelf: `pipeline/homer_shelf.json`. Translator per title; verse and prose. Butle
 | The Iliad of Homer, translated into English prose, edited with an introduction by Evelyn Abbott (London: Percival and Co., 1891) | John Purves | `homer-purves-iliad-1891` | have-raw (IA `iliadhomertrans00abbogoog`) |
 | The Hymns of Homer, translated into verse from the original Greek, with notes (Philadelphia: Mifflin and Parry, 1830) | Columbus C. Conwell | `homer-conwell-hymns-1830` | have-raw (IA `hymnshomertrans00conwgoog`) |
 | An English Translation of the First Eight Books of the Iliad of Homer (Belfast: H. Adair, 1869) | James Gilchrist | `homer-gilchrist-iliad-1869` | have-raw (IA `englishtranslati00home`) |
+| The Iliad of Homer, the first three books, faithfully translated into English hexameters (London: Rivingtons, 1861) | Frederick H. J. Ritso | `homer-ritso-iliad-i-iii-1861` | have-raw (IA `iliadofhomerfirs00home`) |
 
 Pending (wishlist): none known beyond the rows above.
 
@@ -463,6 +468,7 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | Oedipus at Colonus, closely translated from the Greek of Sophocles: an experiment in metre (London: Simpkin, Marshall, Hamilton, Kent, 1894) | Arthur Compton Auchmuty Hull | `sophocles-hull-oedipus-coloneus-1894` | have-raw (IA `cu31924026593511`) |
 | The Antigone of Sophocles, translated with introduction and notes (Boston and New York: Houghton Mifflin; copyright 1899, this printing undated) | George Herbert Palmer | `sophocles-palmer-antigone-1899` | have-raw (IA `antigoneofsophoc0000geor_m2w3`) |
 | The Tragedies of Sophocles, translated, a new edition (London: N. Bliss, 1820) | Robert Potter | `sophocles-potter-1820` | have-raw (IA `tragediesofsopho00soph_0`) |
+| The Tragedies of Sophocles, translated from the Greek (a new edition, 1818) | George Adams | `sophocles-george-adams-1818` | have-raw (IA `tragediesofso00soph`) |
 
 Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 
@@ -491,8 +497,9 @@ Shelf: `pipeline/aristophanes_shelf.json`. Translator per title; complete in the
 | The Acharnians of Aristophanes, translated into English verse (Dublin University Press Series, 1883) | Robert Yelverton Tyrrell | `aristophanes-tyrrell-acharnians-1883` | have-raw (IA `aristophanesach00arisrich`) |
 | The Comedies of Aristophanes, vol. I (London, 1820) | Thomas Mitchell | `aristophanes-mitchell-1820-v1` | have-raw (IA `comediesaristop02mitcgoog`) |
 | The Comedies of Aristophanes, a new and literal translation, vol. II: Lysistrata, Thesmophoriazusae, Frogs, Ecclesiazusae, Plutus (London: Henry G. Bohn, 1853) | William James Hickie | `aristophanes-hickie-1853-v2` | have-raw (IA `comediesaristop00hickgoog`) |
+| The Frogs and Other Plays of Aristophanes (Everyman's Library, The Plays of Aristophanes vol. II; first issued 1911, this scan the 1922 reprint): the Frogs tr. Frere, the Thesmophoriazusae tr. Hickie, the Clouds tr. Mitchell, the Wasps tr. Cumberland | J. Hookham Frere | `aristophanes-frere-frogs-everyman-1911` | have-raw (IA `frogsthreeotherp00aris`) |
 
-Pending (wishlist): B. B. Rogers's complete verse Aristophanes (1902-16; Greek facing). Frere's Frogs (the fourth play of his 1840 set) is not in the 1887 Morley volume held above. Hickie's Bohn vol. II (1853) and Mitchell's vol. I (1820) are now held above, from Google scans.
+Pending (wishlist): B. B. Rogers's complete verse Aristophanes (1902-16; Greek facing). Frere's Frogs (the fourth play of his 1840 set) is now held above from Everyman vol. II. Hickie's Bohn vol. II (1853) and Mitchell's vol. I (1820) are now held above, from Google scans.
 
 Excluded: PG 3012, 2571, 3013 (the Athenian Society translation split into single plays).
 
@@ -894,6 +901,7 @@ Shelf: `pipeline/seneca_shelf.json`. Translator per title, all clean Gutenberg: 
 | The Ten Tragedies of Seneca, with notes, rendered into English prose as equivalently as the idioms of both languages permit (London: Swan Sonnenschein, 1902) | Watson Bradshaw | `seneca-bradshaw-tragedies-1902` | have-raw (IA `cu31924104730209`) |
 | The Satire of Seneca on the Apotheosis of Claudius, commonly called the Apocolocyntosis: a study (New York: Columbia University Press, 1902), Latin text with English translation | Allan Perley Ball | `seneca-ball-apocolocyntosis-1902` | have-raw (IA `SatireOfSenecaOnTheApotheosisOfClaudiusCommonlyCalledThe`) |
 | Seneca his Tenne Tragedies, translated into Englysh (London: Thomas Marsh, 1581; black-letter, Boston Public Library copy) | Thomas Newton (ed.), with Jasper Heywood, John Studley, Alexander Nevile, Thomas Nuce | `seneca-newton-tenne-tragedies-1581` | have-raw (IA `senecahistennetr00sene`) |
+| The Tragedies of L. Annaeus Seneca the Philosopher: Medea, Phaedra and Hippolytus, Troades; with Colluthus's Rape of Helen (London: S. Smith and B. Walford, 1702) | Edward Sherburne | `seneca-sherburne-tragedies-1702` | have-raw (IA `tragedieslannae00shergoog`) |
 
 Pending (wishlist): Basore's Moral Essays vols. 2-3 (1932-35, not PD).
 
@@ -960,6 +968,7 @@ Shelf: `pipeline/caesar_shelf.json`. McDevitte and Bohn (1869), all five comment
 | The Civil Wars (Loeb, 1914) | A. G. Peskett | `caesar-peskett-civil-wars` | have-raw (IA `civilwarswitheng00caesuoft`) |
 | The Eyght Bookes of Caius Julius Caesar, conteyning his Martiall Exploytes in the Realme of Gallia (London, Willyam Seres, 1565) | Arthur Golding | `caesar-golding-1565` | have-raw (IA `bim_early-english-books-1475-1640_the-eyght-bookes-of-caiu_caesar-caino-julius_1565`) |
 | The Commentaries of Caesar, translated into English, with a discourse concerning the Roman art of war (1753; Philadelphia stereotype, 1837) | William Duncan | `caesar-duncan-1837` | have-raw (IA `commentariesofc00caes`) |
+| Caesar's Commentaries on the Gallic War, translated into English (London: Macmillan, 1908) | T. Rice Holmes | `caesar-holmes-gallic-war-1908` | have-raw (IA `commentariesonga00caesuoft`) |
 
 Pending (wishlist): none known (Golding's Caesar, 1565, is held above).
 
@@ -974,6 +983,7 @@ Shelf: `pipeline/suetonius_shelf.json`. Thomson rev. Forester (Bohn), complete. 
 | Suetonius, vol. 2 (Loeb, 1914) | J. C. Rolfe | `suetonius-rolfe-v2` | have-raw (IA `suetonius02suetuoft`) |
 | The Deified Julius | John C. Rolfe | `suetonius-perseus-rolfe-the-deified-julius` | held: same translation as another row on this shelf, not a second witness (see `_held`) |
 | The Historie of Twelve Caesars, Emperours of Rome (London, 1606) | Philemon Holland | `suetonius-holland-1606` | have-raw (IA `suetoniushollandtwelvecaesars`) |
+| The Lives of the First Twelve Caesars, translated from the Latin, with annotations and a review of the government and literature of the different periods (London: G. G. and J. Robinson, 1796), the unrevised first edition of the version Forester later revised | Alexander Thomson | `suetonius-thomson-1796` | have-raw (IA `bim_eighteenth-century_the-lives-of-the-first-t_suetonius_1796`) |
 
 Pending (wishlist): none known.
 
@@ -1088,8 +1098,14 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The I. and II. Books of the Odes of Horace, translated into English verse, with the Carmen Saeculare and appendix (London, 1865) | Hugo Nicholas Jones | `horace-jones-odes-i-ii-1865` | have-raw (IA `iiibooksofodesof00hora`) |
 | Odes of Horace, Book II, translated into English verse (London: Arthur L. Humphreys, 1918) | Gerard Fenwick | `horace-fenwick-odes-ii-1918` | have-raw (IA `odesofhorace00horarich`) |
 | Nineteen Odes of Horace Englished (San Bernardino, California: Barnum and Flagg, 1920) | William Hathorn Mills | `horace-mills-nineteen-odes-1920` | have-raw (IA `nineteenodesofho00horarich`) |
+| The Works of Horace, translated literally into English prose, fifth edition, vol. I (London: T. Carnan, 1780; Latin facing) | Christopher Smart | `horace-smart-prose-1780-v1` | have-raw (IA `workshorace04smargoog`) |
+| The Works of Horace, translated literally into English prose, fifth edition, vol. II (London: T. Carnan, 1780; Latin facing) | Christopher Smart | `horace-smart-prose-1780-v2` | have-raw (IA `workshorace01smargoog`) |
+| The Works of Horace, translated into verse, vol. I of four (London: W. Flexney, J. Johnson and T. Caslon, 1767) | Christopher Smart | `horace-smart-verse-1767-v1` | have-raw (IA `workshorace03smargoog`) |
+| The Works of Horace, translated into verse, with a prose interpretation, vol. II (London: W. Flexney and others, 1767) | Christopher Smart | `horace-smart-verse-1767-v2` | have-raw (IA `workshorace11horagoog`) |
+| The Works of Horace, translated into verse, with a prose interpretation, vol. IV (London: W. Flexney and others, 1767) | Christopher Smart | `horace-smart-verse-1767-v4` | have-raw (IA `workshorace08horagoog`) |
+| The Lyrics of Horace, done into English rhyme (London: Rivingtons, 1870) | Thomas Charles Baring | `horace-baring-lyrics-1870` | have-raw (IA `cu31924026490668`) |
 
-Pending (wishlist): Smart's prose in its first, unrevised form (1756) from a cleaner scan than the ECCO OCR (0.74-0.76), which was refused.
+Pending (wishlist): Smart's verse Horace vol. III (1767). His unrevised prose is now held from the fifth edition (1780), so the 1756 ECCO scans are no longer needed.
 
 ## Catullus
 
@@ -1166,8 +1182,11 @@ Shelf: `pipeline/roman-comedy_shelf.json`. Riley's complete Plautus (raw IA, 2 v
 | Terence's Comedies made English, with his life and some remarks at the end, eighth edition, revised by Dr. Echard and Sir R. L'Estrange (London: Knapton and others, MDCCXXXIII) | Laurence Echard | `terence-echard-1733` | have-raw (IA `terencescomedie00teregoog`) |
 | The Trinummus of T. Maccius Plautus translated into literal English, with notes (London: Simpkin, Marshall, 1883) | A. H. Evans | `plautus-evans-trinummus-1883` | have-raw (IA `trinnummustmacc00plaugoog`) |
 | Terence's Comedies, translated into English, together with the original Latin, with critical and explanatory notes, second edition, vol. I (London: R. Ware and others, 1755) | Thomas Cooke | `terence-cooke-1755-v1` | have-raw (IA `comediestranslat01tere`) |
+| Comedies of Plautus, translated into familiar blank verse, second edition revised, vol. I (London: T. Becket and P. A. De Hondt, 1769) | Bonnell Thornton | `plautus-thornton-1769-v1` | have-raw (IA `comediesplautus02colmgoog`) |
+| Comedies of Plautus, translated into familiar blank verse, second edition revised, vol. II (London: T. Becket and P. A. De Hondt, 1769) | Bonnell Thornton | `plautus-thornton-1769-v2` | have-raw (IA `comediesplautus01colmgoog`) |
+| The Phormio of Terence, translated into English prose, with a new prologue by J. B. Greenough and the Vatican miniatures (Cambridge, Mass.: C. W. Sever, 1894) | Morris Hicky Morgan | `terence-morgan-phormio-1894` | have-raw (IA `phormiotranslate00tereuoft`) |
 
-Pending (wishlist): Thornton's verse Plautus (1767-74), from a cleaner scan than the ECCO OCR (0.65-0.70), which was refused.
+Pending (wishlist): Thornton's verse Plautus vols. III-V (1772-74); vols. I-II are held from the revised second edition (1769).
 
 ## Lucan
 
@@ -1210,6 +1229,7 @@ Shelf: `pipeline/petronius_shelf.json`. Firebaugh's complete Satyricon (US PD pe
 | The Satyricon, complete | W. C. Firebaugh; US PD per Gutenberg | `petronius-firebaugh-satyricon` | have (PG 5225) |
 | The Satyricon of Petronius Arbiter | William Burnaby | `petronius-burnaby-satyricon` | have (PG 5611) |
 | Petronius (Satyricon); Seneca, Apocolocyntosis (Loeb, 1913) | Michael Heseltine (Petronius), W. H. D. Rouse (Seneca) | `petronius-heseltine-seneca-rouse` | have-raw (IA `petronius00petruoft`) |
+| The Satyricon of Petronius Arbiter, literally translated, in Erotica (Bohn, 1854) | Walter K. Kelly | `propertius-petronius-kelly-erotica-1854` | cross-ref: held on the Propertius shelf |
 
 
 Excluded: PG 5218-5224 (Firebaugh split into seven files).
@@ -1284,6 +1304,7 @@ Shelf: `pipeline/lucian_shelf.json`. The Fowlers' Works (1905), 4 vols., complet
 | Lucian of Samosata, from the Greek, with the comments and illustrations of Wieland and others, vol. I (London, 1820) | William Tooke | `lucian-tooke-1820-v1` | have-raw (IA `lucianofsamosata01luciuoft`) |
 | Lucian of Samosata, from the Greek, with the comments and illustrations of Wieland and others, vol. II (London, 1820) | William Tooke | `lucian-tooke-1820-v2` | have-raw (IA `lucianofsamosata02luciuoft`) |
 | Homeric Ballads and Comedies of Lucian (Miscellaneous Writings of the late Dr. Maginn, vol. IV; New York: Redfield, 1856) | William Maginn | `lucian-maginn-1856` | have-raw (IA `homericballadsan00homeuoft`) |
+| Six Dialogues of Lucian: Icaromenippus, The Dream or The Cock, The Ship, The Parasite, The Lover of Falsehood, Nigrinus (London, 1894; imprint year partly legible) | Sidney T. Irwin | `lucian-irwin-six-dialogues-1894` | have-raw (IA `sixdialoguesluc00irwigoog`) |
 
 Pending (wishlist): none for Francklin: his Works of Lucian (1780, 2 vols.) is held above. Harmon's Loeb vols. 5 on (1936-) are after the 1930 line.
 
@@ -1344,6 +1365,8 @@ Shelf: `pipeline/cicero_shelf.json`. Yonge's Orations complete (vols. 1-3 raw IA
 | Death No Bane: a new translation, with copious illustrative notes, of Cicero's First Tusculan Disputation (London: Sampson Low, Marston, Searle and Rivington, 1889) | Robert Black | `cicero-black-tusculan-i-1889` | have-raw (IA `deathnobaneanew00blacgoog`) |
 | Select Orations of Cicero, translated into English, with notes historical, critical and explanatory (Oxford: J. Vincent for Thomas Tegg, 1841) | William Duncan | `cicero-duncan-select-orations-1841` | have-raw (IA `selectorationsc00cicegoog`) |
 | Select Letters of Cicero, literally translated (New York: Arthur Hinds, copyright 1891) | anonymous (the title page names no translator) | `cicero-select-letters-literal-1891` | have-raw (IA `selectlettersci01cicegoog`) |
+| Cicero, De Oratore, Book I, translated into English with an introduction (London, 1892) | E. N. P. Moor | `cicero-moor-de-oratore-i-1892` | have-raw (IA `deoratorebook1tr00ciceuoft`) |
+| The Speech of Cicero in Defence of Cluentius, translated into English with an introduction and notes (London: Macmillan, 1895) | William Peterson | `cicero-peterson-pro-cluentio-1895` | have-raw (IA `speechindefenceo00ciceuoft`) |
 
 Pending (wishlist): King's Tusculans (Loeb 1927; only the 1945 revised printing has text, refused).
 
@@ -1387,6 +1410,8 @@ Shelf: `pipeline/demosthenes_shelf.json`. Kennedy (Bohn) and Pickard-Cambridge (
 | The Orations of Demosthenes, pronounced to excite the Athenians against Philip, King of Macedon, a new edition, vol. II (London: Bensley, 1806) | Thomas Leland | `demosthenes-leland-1806-v2` | have-raw (IA `orationsofdemost02demouoft`) |
 | The Oration of Demosthenes upon the Crown, translated into English (London: Charles Knight, 1840) | Henry, Lord Brougham | `demosthenes-brougham-crown-1840` | have-raw (IA `orationdemosthe02vauxgoog`) |
 | The Oration of Demosthenes on the Crown (London: Longmans, Green, 1876) | Sir Robert Collier | `demosthenes-collier-crown-1876` | have-raw (IA `orationdemosthe00collgoog`) |
+| On the Crown, with Aeschines Against Ctesiphon (Philadelphia, 1881) | George W. Biddle | `aeschines-demosthenes-biddle-crown-1881` | cross-ref: held on the Aeschines shelf |
+| De Corona, with Aeschines Against Ctesiphon (Oxford, 1814 edition) | Andrew Portal | `aeschines-demosthenes-portal-crown-1814` | cross-ref: held on the Aeschines shelf |
 
 Pending (wishlist): the rest of the early Loeb vols. (Vince, 1926-; Greek facing: OCR not taken). The 1930 Vince volume is held above as Perseus TEI.
 
@@ -1484,6 +1509,7 @@ Shelf: `pipeline/theocritus_shelf.json`. Calverley's verse (Gutenberg) and the B
 | — | — | `lang theocritus-bion-moschus (PG 4775)` | cross-ref → lane D, pipeline/lang_shelf.json |
 | The Idylliums of Theocritus, translated from the Greek, with notes (London, 1767) | Francis Fawkes | `theocritus-fawkes-1767` | have-raw (IA `idylliumsoftheoc00theo`) |
 | The Idylls of Theocritus translated into English Verse (London: Rivingtons, 1901; revised from 1894) | James Henry Hallard | `theocritus-hallard-1901` | have-raw (IA `idyllsoftheocrit00theo`) |
+| Sicilian Idyls and Other Verses, translated from the Greek (Copeland and Day, 1898) | Jane Minot Sedgwick | `theocritus-sedgwick-sicilian-idyls-1898` | have-raw (IA `sicilianidylsan00sedggoog`) |
 
 Pending (wishlist): Edmonds Loeb (1912; Greek facing)
 
@@ -1528,6 +1554,9 @@ Shelf: `pipeline/greek-lyric_shelf.json`. Mackail, Wharton's Sappho, Moore's Ana
 | Greek Anthology, with notes critical and explanatory (London: Nissen and Parker; undated, after 1857 by its preface) | Robert Guthrie MacGregor | `greek-anthology-macgregor` | have-raw (IA `greekanthologywi00macguoft`) |
 | Anacreon, Bion and Moschus, with other translations, first printed 1651, a new edition (London: Longman, 1815) | Thomas Stanley | `anacreon-stanley-1815` | have-raw (IA `anacreonbionmosc00bionuoft`) |
 | Collections from the Greek Anthology, and from the pastoral, elegiac and dramatic poets of Greece (London: John Murray, 1813) | Robert Bland and others | `greek-anthology-bland-1813` | have-raw (IA `collectionsfromg00blanuoft`) |
+| From the Garden of Hellas: translations into verse from the Greek Anthology (New York: United States Book Company, 1891) | Lilla Cabot Perry | `greek-anthology-perry-garden-of-hellas-1891` | have-raw (IA `fromgardenofhell00unse`) |
+| The Reed of Pan: English renderings of Greek epigrams and lyrics (1922) | A. C. Benson | `greek-anthology-benson-reed-of-pan-1922` | have-raw (IA `reedofpanenglish00bensuoft`) |
+| Love, Worship and Death: some renderings from the Greek Anthology (London: Edward Arnold, 1916) | Rennell Rodd | `greek-anthology-rodd-love-worship-death-1916` | have-raw (IA `loveworshipdeath00roddrich`) |
 
 Pending (wishlist): Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus/Aratus/Oppian (all Loebs, Greek facing). Callimachus, Aratus, Tryphiodorus and Musaeus in older translations are on the late-greek-poets shelf.
 
@@ -1627,8 +1656,9 @@ Shelf: `pipeline/julian_shelf.json`. Wright's Loeb vols. 1-2 (Gutenberg; facing 
 | The Works of the Emperor Julian, vol. 1 | Wilmer Cave Wright | `julian-wright-v1` | held: Gutenberg's transcription (PG 48664) includes a 'Bibliographical Addendum (1980)' from the reprint it was made from, which is not public domain by date; not fetched (see `_held`) |
 | The Works of the Emperor Julian, vol. 2 | Wilmer Cave Wright | `julian-wright-v2` | have (PG 48768) |
 | Julian the Emperor: Gregory Nazianzen's two Invectives, Libanius' Monody, and Julian's Upon the Sovereign Sun and Upon the Mother of the Gods (Bohn, 1888) | C. W. King | `julian-king-1888` | have-raw (IA `julianemperor00king`) |
+| The Works of the Emperor Julian, and some pieces of the sophist Libanius, vol. II (3rd ed. corrected, 1798) | John Duncombe | `julian-duncombe-1798-v2` | have-raw (IA `worksofemperorju02juliiala`) |
 
-Pending (wishlist): Wright vol. 3 (1923)
+Pending (wishlist): Wright vol. 3 (1923; the one scan reads 0.760 with Greek facing, held for the Greek-facing ruling)
 
 ## Boethius
 
@@ -1741,6 +1771,7 @@ Shelf: `pipeline/greek-romances_shelf.json`. Rowland Smith's Heliodorus, Longus,
 | The Loves of Chaereas and Callirrhoe, written originally in Greek by Chariton of Aphrodisios, vol. 1 (London: Becket and De Hondt, 1764) | unnamed ('made by two young persons', per the dedication) | `chariton-1764-v1` | have-raw (IA `loveschrcasandc01chargoog`) |
 | The Loves of Chaereas and Callirrhoe, vol. 2: Books V-VIII (London: Becket and De Hondt, 1764) | unnamed ('made by two young persons', per the dedication in vol. 1) | `chariton-1764-v2` | have-raw (IA `loveschrcasandc00chargoog`) |
 | Xenophon's Ephesian History: or the Love-Adventures of Abrocomas and Anthia, in five books (London, 1727) | unnamed in the OCR ('By Mr. ...', name illegible); attributed elsewhere to John Rooke, not verified here | `xenophon-ephesius-1727` | have-raw (IA `gpl_1772898`) |
+| Daphnis and Chloe: the Elizabethan version from Amyot's translation by Angel Day (1587), reprinted from the unique original and edited by Joseph Jacobs (London: David Nutt, 1890) | Angel Day | `longus-day-1890` | have-raw (IA `daphnischloeeliz00long`) |
 
 Excluded: the 1733 Daphnis and Chloe (ECCO OCR 0.69)
 
@@ -1899,7 +1930,7 @@ Shelf: `pipeline/quintilian_shelf.json`. Butler Loeb 1920-22, 4 vols. (IA, 0.87-
 | Quintilian's Institutes of Oratory, vol. I (Bohn's Classical Library; London: George Bell, 1903, reprinted from stereotype plates of the 1856 edition) | John Selby Watson | `quintilian-watson-v1-1903` | have-raw (IA `cu31924075437685`) |
 | Quintilian's Institutes of Oratory, vol. II (Bohn, 1856) | John Selby Watson | `quintilian-watson-v2-1856` | have-raw (IA `cu31924075437677`) |
 
-Pending (wishlist): Watson's Bohn (no scan located)
+Pending (wishlist): Watson's vol. I in its 1856 first printing (vol. I is held above from the 1903 stereotype reprint; the 1856 scans checked on 2026-10-10 are all vol. II)
 
 ## Vitruvius
 
@@ -2111,7 +2142,7 @@ Shelf: `pipeline/late-greek-poets_shelf.json`. Dodd's Callimachus (1755), three 
 | Oppian's Halieuticks, of the Nature of Fishes and Fishing of the Ancients, in V Books (Oxford, 1722) | William Diaper and John Jones (attributed; the title page names no translator) | `oppian-diaper-jones-halieuticks` | have-raw (IA `bim_eighteenth-century_halieutica-english-o_oppian-of-cilicia_1722`) |
 | Cassandra, translated from the original Greek of Lycophron, with notes (Cambridge, 1806) | Philip Yorke, Viscount Royston | `lycophron-royston-1806` | have-raw (IA `cassandra00lyco`) |
 
-Pending (wishlist): Tytler's Callimachus (1793; a scan exists, date and edition not confirmed); Mair's Loebs (Greek facing).
+Pending (wishlist): Tytler's Callimachus (1793) from a cleaner scan (worksofcallimach00call reads 0.767); Mair's Loebs (Greek facing).
 
 Excluded: Mawer's Cynegeticks, 1736 (ECCO OCR 0.76)
 
@@ -2147,8 +2178,9 @@ Shelf: `pipeline/propertius_shelf.json`. Butler's Loeb (1912, Latin facing; the 
 | The Elegies of Sextus Propertius, translated into English verse (Edinburgh, 1875) | James Cranstoun | `propertius-cranstoun-1875` | have-raw (IA `elegiessextuspr00unkngoog`) |
 | Propertius, translated (Oxford: Clarendon Press, 1906) | J. S. Phillimore | `propertius-phillimore-1906` | have-raw (IA `propertius00propuoft`) |
 | The Elegies of Propertius, translated into English verse (London: Rivingtons, 1870) | Charles Robert Moore | `propertius-moore-1870` | have-raw (IA `elegiesproperti00magoog`) |
+| Erotica: the Elegies of Propertius, the Satyricon of Petronius Arbiter, and the Kisses of Johannes Secundus, literally translated, with poetical versions from various sources; with the Love Epistles of Aristaenetus, tr. R. B. Sheridan and N. B. Halhed (Bohn, 1854) | Walter K. Kelly | `propertius-petronius-kelly-erotica-1854` | have-raw (IA `eroticaelegiesp01arbigoog`) |
 
-Pending (wishlist): Phillimore's 1906 prose translation (Oxford), if a scan turns up.
+Pending (wishlist): none known. Phillimore's 1906 prose translation is now held above.
 
 ## Zosimus
 
@@ -2311,8 +2343,10 @@ Shelf: `pipeline/aeschines_shelf.json`. New shelf 2026-10-03: the three speeches
 | Against Timarchus | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-against-timarchus` | have (Perseus TEI `tlg0026.tlg001.perseus-eng2`; markup CC BY-SA 4.0) |
 | On the Embassy | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-on-the-embassy` | have (Perseus TEI `tlg0026.tlg002.perseus-eng2`; markup CC BY-SA 4.0) |
 | Against Ctesiphon | Charles Darwin Adams (Loeb 1919) | `aeschines-perseus-adams-against-ctesiphon` | have (Perseus TEI `tlg0026.tlg003.perseus-eng2`; markup CC BY-SA 4.0) |
+| The Two Orations on the Crown: Aeschines and Demosthenes, a new translation (Philadelphia: Lippincott, 1881) | George W. Biddle | `aeschines-demosthenes-biddle-crown-1881` | have-raw (IA `twoorationsoncr00biddgoog`) |
+| Orations of Aeschines against Ctesiphon and Demosthenes De Corona, translated, with notes; a new edition, revised and corrected (Oxford: Munday and Slatter, 1814) | Andrew Portal | `aeschines-demosthenes-portal-crown-1814` | have-raw (IA `orationsaeschin00demogoog`) |
 
-Pending (wishlist): an older English Aeschines (pre-1900), if a clean scan turns up.
+Pending (wishlist): none known. Two older English versions of Against Ctesiphon are now held above (Portal, 1814 edition; Biddle, 1881).
 
 ## Apollodorus
 
@@ -2394,10 +2428,1070 @@ Shelf: `pipeline/presocratics_shelf.json`. The fragments of the early Greek phil
 |---|---|---|---|
 | The Fragments of the Work of Heraclitus of Ephesus on Nature, translated from the Greek text of Bywater (Baltimore: N. Murray, 1889) | G. T. W. Patrick | `heraclitus-patrick-1889` | have-raw (IA `fragmentsofworko00hera`) |
 | The Fragments of Empedocles, translated into English verse (Open Court, 1908) | William Ellery Leonard | `empedocles-leonard-1908` | have-raw (IA `thefragmentsofem00empeuoft`) |
+| The First Philosophers of Greece: an edition and translation of the remaining fragments of the pre-Sokratic philosophers (New York: Scribner's, 1898; Greek facing) | Arthur Fairbanks | `presocratics-fairbanks-first-philosophers-1898` | have-raw (IA `firstphilosopher00fairiala`) |
 
-Pending (wishlist): Fairbanks's First Philosophers of Greece (1898) from a cleaner scan.
+Pending (wishlist): none known. Fairbanks's First Philosophers of Greece (1898) is now held above from a cleaner scan.
 
-Excluded: Fairbanks 1898 (Greek facing, OCR 0.73-0.77); Burnet's Early Greek Philosophy (a study, not a translation).
+Excluded: two other Fairbanks 1898 scans (Greek facing, OCR 0.73-0.77; a third copy at 0.790 is held above); Burnet's Early Greek Philosophy (a study, not a translation).
+
+## Paulus Aegineta
+
+Shelf: `pipeline/paulus-aegineta_shelf.json`. Francis Adams's Sydenham Society translation and commentary, 3 vols. (IA, BIU Sante scans).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Seven Books of Paulus Aegineta, vol. I (Sydenham Society, 1844) | Francis Adams | `paulus-aegineta-adams-1844-v1` | have-raw (IA `BIUSante_37321x01`) |
+| The Seven Books of Paulus Aegineta, vol. II (Sydenham Society, 1846) | Francis Adams | `paulus-aegineta-adams-1846-v2` | have-raw (IA `BIUSante_37321x02`) |
+| The Seven Books of Paulus Aegineta, vol. III (Sydenham Society, 1847) | Francis Adams | `paulus-aegineta-adams-1847-v3` | have-raw (IA `BIUSante_37321x03`) |
+
+## Phalaris
+
+Shelf: `pipeline/phalaris_shelf.json`. Thomas Francklin's Epistles of Phalaris (1749).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Epistles of Phalaris, with select epistles of other Greek writers (1749) | Thomas Francklin | `phalaris-francklin-1749` | have-raw (IA `bib_fict_971306`) |
+
+## Brumoy's Greek Theatre
+
+Shelf: `pipeline/brumoy_shelf.json`. Charlotte Lennox's translation of Brumoy (1759, 3 vols.), the Greek plays by way of Brumoy's French.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Greek Theatre of Father Brumoy, vol. I (London: Millar and others, 1759) | Charlotte Lennox | `brumoy-lennox-1759-v1` | have-raw (IA `greektheatrefat00lenngoog`) |
+| The Greek Theatre of Father Brumoy, vol. II (London, 1759) | Charlotte Lennox | `brumoy-lennox-1759-v2` | have-raw (IA `greektheatrefat01lenngoog`) |
+| The Greek Theatre of Father Brumoy, vol. III (London, 1759) | Charlotte Lennox | `brumoy-lennox-1759-v3` | have-raw (IA `greektheatrefat02lenngoog`) |
+
+## George Grote (scholarship)
+
+Shelf: `pipeline/grote_shelf.json`. Grote's History of Greece (12 vols.), Plato and the Other Companions of Sokrates (4 vols.), Aristotle and the rotation paper, clean Gutenberg. His own English; classical scholarship, lane B pivot of 2026-10-10. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of Greece, Volume 01 (of 12) |  | `grote-history-of-greece-v01` | have (PG 56342) |
+| History of Greece, Volume 02 (of 12) |  | `grote-history-of-greece-v02` | have (PG 57143) |
+| History of Greece, Volume 03 (of 12) |  | `grote-history-of-greece-v03` | have (PG 58565) |
+| History of Greece, Volume 04 (of 12) |  | `grote-history-of-greece-v04` | have (PG 60426) |
+| History of Greece, Volume 05 (of 12) |  | `grote-history-of-greece-v05` | have (PG 62098) |
+| History of Greece, Volume 06 (of 12) |  | `grote-history-of-greece-v06` | have (PG 54936) |
+| History of Greece, Volume 07 (of 12) |  | `grote-history-of-greece-v07` | have (PG 51181) |
+| History of Greece, Volume 08 (of 12) |  | `grote-history-of-greece-v08` | have (PG 52119) |
+| History of Greece, Volume 09 (of 12) |  | `grote-history-of-greece-v09` | have (PG 51182) |
+| History of Greece, Volume 10 (of 12) |  | `grote-history-of-greece-v10` | have (PG 51183) |
+| History of Greece, Volume 11 (of 12) |  | `grote-history-of-greece-v11` | have (PG 61469) |
+| History of Greece, Volume 12 (of 12) |  | `grote-history-of-greece-v12` | have (PG 60786) |
+| Plato and the Other Companions of Sokrates, 3rd ed. Volume 1 |  | `grote-plato-companions-v1` | have (PG 40435) |
+| Plato and the Other Companions of Sokrates, 3rd ed. Volume 2 |  | `grote-plato-companions-v2` | have (PG 40436) |
+| Plato and the Other Companions of Sokrates, 3rd ed. Volume 3 |  | `grote-plato-companions-v3` | have (PG 40437) |
+| Plato and the Other Companions of Sokrates, 3rd ed. Volume 4 |  | `grote-plato-companions-v4` | have (PG 40438) |
+| Aristotle (ed. Alexander Bain and George Croom Robertson) |  | `grote-aristotle` | have (PG 45851) |
+| Plato's Doctrine Respecting the Rotation of the Earth and Aristotle's Comment Upon That Doctrine |  | `grote-plato-rotation-of-earth` | have (PG 40439) |
+
+Excluded: PG 12002 (Review of Mill's Examination of Hamilton) (philosophy of mind, outside the classical brief); PG 26390 (The Two Great Retreats of History) (school excerpt (Grote's Retreat of the Ten Thousand chapter, ed. Montgomery, with Ségur); the whole History is held)
+
+Pending (wishlist): Grote's Minor Works (1873), if a scan clears the bar.
+
+## Theodor Mommsen (scholarship)
+
+Shelf: `pipeline/mommsen_shelf.json`. Dickson's translation of the History of Rome (Books I-V) and the Provinces of the Roman Empire (2 vols.), clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Rome, Book I | William P. Dickson | `mommsen-history-of-rome-i` | have (PG 10701) |
+| The History of Rome, Book II | William P. Dickson | `mommsen-history-of-rome-ii` | have (PG 10702) |
+| The History of Rome, Book III | William P. Dickson | `mommsen-history-of-rome-iii` | have (PG 10703) |
+| The History of Rome, Book IV | William P. Dickson | `mommsen-history-of-rome-iv` | have (PG 10704) |
+| The History of Rome, Book V | William P. Dickson | `mommsen-history-of-rome-v` | have (PG 10705) |
+| The Provinces of the Roman Empire, from Caesar to Diocletian, vol. 1 | William P. Dickson | `mommsen-provinces-v1` | have (PG 48966) |
+| The Provinces of the Roman Empire, from Caesar to Diocletian, vol. 2 | William P. Dickson | `mommsen-provinces-v2` | have (PG 49483) |
+
+Excluded: PG 10706 (History of Rome, Volumes 1-5) (the same text as PG 10701-10705 in one file); PG 3060-3065 (Römische Geschichte) (German original; the English translation is held)
+
+Pending (wishlist): other English Mommsen not yet searched.
+
+## Sir William Smith (scholarship)
+
+Shelf: `pipeline/william-smith_shelf.json`. Smith's smaller histories of Greece and Rome and his Smaller Dictionary of Antiquities (clean Gutenberg), and the full Dictionaries of Antiquities (1842), Biography and Mythology (Boston, 1870, 3 vols.) and Geography (Boston, 1854 and 1870) as raw IA OCR. Many-author reference works under Smith's editorship, all published 1842-1870. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Smaller History of Greece: from the Earliest Times to the Roman Conquest |  | `william-smith-smaller-history-of-greece` | have (PG 2096) |
+| A Smaller History of Rome, from the Earliest Times to the Establishment of the Empire (with Eugene Lawrence) |  | `william-smith-smaller-history-of-rome` | have (PG 19694) |
+| A Smaller Dictionary of Greek and Roman Antiquities |  | `william-smith-smaller-dictionary-antiquities` | have (PG 65909) |
+| A Dictionary of Greek and Roman Antiquities, ed. William Smith (London: Taylor and Walton, 1842) |  | `william-smith-dictionary-antiquities-1842` | have-raw (IA `dictionaryofgree00smit_5`) |
+| Dictionary of Greek and Roman Biography and Mythology, ed. William Smith, vol. I (Boston: Little, Brown, 1870) |  | `william-smith-dictionary-biography-v1-1870` | have-raw (IA `dictionaryofgre01smituoft`) |
+| Dictionary of Greek and Roman Biography and Mythology, ed. William Smith, vol. II (Boston: Little, Brown, 1870) |  | `william-smith-dictionary-biography-v2-1870` | have-raw (IA `dictionaryofgree02smituoft`) |
+| Dictionary of Greek and Roman Geography, ed. William Smith, vol. I, Abacaenum-Hytanis (Boston: Little, Brown, 1854) |  | `william-smith-dictionary-geography-v1-1854` | have-raw (IA `dictionarygreek16smitgoog`) |
+| Dictionary of Greek and Roman Geography, ed. William Smith, vol. II, Iabadius-Zymethus (Boston: Little, Brown, 1870) |  | `william-smith-dictionary-geography-v2-1870` | have-raw (IA `dictionaryofgre02smit`) |
+| Dictionary of Greek and Roman Biography and Mythology, ed. William Smith, vol. III (Boston: Little, Brown, 1870) |  | `william-smith-dictionary-biography-v3-1870` | have-raw (IA `dictionaryofgree03smituoft`) |
+
+Excluded: Dictionary of Greek and Roman Geography vol. II (IA dictionaryofgrromgeo02smituoft) (no title page in the scan; the 1870 Boston vol. II is taken instead)
+
+Pending (wishlist): The third edition of the Antiquities (Wayte and Marindin, 1890-91).
+
+## Sir Richard Jebb (scholarship)
+
+Shelf: `pipeline/jebb_shelf.json`. Jebb's Attic Orators (1893, 2 vols.), Growth and Influence of Classical Greek Poetry, Homer: an Introduction, Bentley, Modern Greece, and Essays and Addresses, raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Attic Orators from Antiphon to Isaeus, vol. I, second edition (London: Macmillan, 1893; first edition 1876) |  | `jebb-attic-orators-v1-1893` | have-raw (IA `atticoratorsfrom01jebbuoft`) |
+| The Attic Orators from Antiphon to Isaeus, vol. II, second edition (London: Macmillan, 1893) |  | `jebb-attic-orators-v2-1893` | have-raw (IA `atticoratorsfrom02jebbuoft`) |
+| The Growth and Influence of Classical Greek Poetry: lectures delivered in 1892 on the Percy Turnbull Memorial Foundation in the Johns Hopkins University (London and New York: Macmillan, 1893) |  | `jebb-growth-influence-greek-poetry-1893` | have-raw (IA `growthandinflue01jebbgoog`) |
+| Homer: an Introduction to the Iliad and the Odyssey, sixth edition (Glasgow: Maclehose, 1898) |  | `jebb-homer-introduction-1898` | have-raw (IA `cu31924059064653`) |
+| Bentley (English Men of Letters, ed. John Morley; New York: Harper, 1901 printing) |  | `jebb-bentley-1901` | have-raw (IA `bentleyclaver00jebbuoft`) |
+| Modern Greece: two lectures delivered before the Philosophical Institution of Edinburgh, with papers on 'The Progress of Greece' and 'Byron in Greece' (London: Macmillan, 1880) |  | `jebb-modern-greece-1880` | have-raw (IA `moderngreecetwol00jebbuoft`) |
+| Essays and Addresses (Cambridge: University Press, 1907) |  | `jebb-essays-addresses-1907` | have-raw (IA `essaysaddresses00jebbiala`) |
+
+Excluded: Primer of Greek Literature (IA greekliterature00jebbuoft) (no title page in the scan); Erasmus (Rede lecture, 1890) (Erasmus belongs to the Classical reading lists thread; not taken here to avoid overlap)
+
+Pending (wishlist): Humanism in Education (1899) and the Rede lecture on Erasmus are left out (Erasmus belongs to the Classical reading lists thread); the Sophocles commentaries (Greek facing) wait on the Greek-facing ruling.
+
+## John Conington (scholarship)
+
+Shelf: `pipeline/conington_shelf.json`. Conington's Miscellaneous Writings (1872), vol. I, raw IA OCR; vol. II is his prose Virgil, already on the virgil shelf. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Miscellaneous Writings of John Conington, ed. J. A. Symonds, with a memoir by H. J. S. Smith, vol. I (London: Longmans, Green, 1872) |  | `conington-miscellaneous-writings-v1-1872` | have-raw (IA `miscellaneouswri01coniuoft`) |
+
+Excluded: P. Vergili Maronis Opera, with a commentary (with Henry Nettleship), vol. III (IA pvergilimaroniso03virg) (refused: OCR 0.73 (dense line references; sampled OCR is otherwise good)); Miscellaneous Writings vol. II (1872; IA miscellaneouswr01smitgoog) (the prose Virgil it carries is already on the virgil shelf (the 1880 Works of Virgil); not duplicated)
+
+Pending (wishlist): The Virgil and Persius commentaries if a scan clears the bar.
+
+## W. Y. Sellar (scholarship)
+
+Shelf: `pipeline/w-y-sellar_shelf.json`. William Young Sellar (1825-1890), Professor of Humanity at Edinburgh: 2 clean Gutenberg texts, plus Horace and the Elegiac Poets (Clarendon Press, 1892, raw IA OCR; seen through the press by W. P. Ker, memoir by Andrew Lang). The shelf name carries his initials because A. M. Sellar, Bede's translator, is a different person. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Roman Poets of the Augustan Age: Virgil |  | `sellar-roman-poets-augustan-virgil` | have (PG 34163) |
+| The Roman Poets of the Republic, 3rd edition |  | `sellar-roman-poets-republic-3rd` | have (PG 38566) |
+| The Roman Poets of the Augustan Age: Horace and the Elegiac Poets, with a memoir of the author by Andrew Lang (Oxford: Clarendon Press, 1892) |  | `sellar-roman-poets-augustan-horace-1892` | have-raw (IA `cu31924059173355`) |
+
+Excluded: PG 48323 (The Roman Poets of the Republic, 2nd edition) (the 3rd edition is held)
+
+## J. W. Mackail (scholarship)
+
+Shelf: `pipeline/mackail_shelf.json`. John William Mackail (1859-1945): Latin Literature (clean Gutenberg) and Lectures on Greek Poetry (1910, raw IA OCR). His translations (Virgil, Catullus, the Greek Anthology, the Odyssey) are on those shelves. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Latin Literature |  | `mackail-latin-literature` | have (PG 8894) |
+| Lectures on Greek Poetry (London: Longmans, Green, 1910) |  | `mackail-lectures-greek-poetry-1910` | have-raw (IA `lecturesongreekp00mackuoft`) |
+
+## A. H. J. Greenidge (scholarship)
+
+Shelf: `pipeline/greenidge_shelf.json`. Abel Hendy Jones Greenidge (1865-1906), Oxford ancient historian: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Rome During the Later Republic and Early Principate |  | `greenidge-history-of-rome-later-republic` | have (PG 9781) |
+| Roman Public Life |  | `greenidge-roman-public-life` | have (PG 65392) |
+
+## W. Warde Fowler (scholarship)
+
+Shelf: `pipeline/warde-fowler_shelf.json`. William Warde Fowler (1847-1921), Oxford historian of Roman religion: 4 clean Gutenberg texts, plus Julius Caesar and the Foundation of the Roman Imperial System (Putnam, 1892, raw IA OCR). His bird books are outside the brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Social Life at Rome in the Age of Cicero |  | `warde-fowler-social-life-rome-cicero` | have (PG 11256) |
+| The Religious Experience of the Roman People, from the Earliest Times to the Age of Augustus |  | `warde-fowler-religious-experience-roman-people` | have (PG 23349) |
+| Rome (Home University Library) |  | `warde-fowler-rome` | have (PG 56630) |
+| The Roman Festivals of the Period of the Republic |  | `warde-fowler-roman-festivals` | have (PG 59007) |
+| Julius Caesar and the Foundation of the Roman Imperial System (New York and London: Putnam, 1892) |  | `warde-fowler-julius-caesar-1892` | have-raw (IA `cu31924028312290`) |
+
+Pending (wishlist): The City-State of the Greeks and Romans (1893) in a scan whose imprint year is legible.
+
+## Samuel Dill (scholarship)
+
+Shelf: `pipeline/samuel-dill_shelf.json`. Sir Samuel Dill (1844-1924): 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Roman Society from Nero to Marcus Aurelius |  | `dill-roman-society-nero-marcus-aurelius` | have (PG 34122) |
+
+## J. P. Mahaffy (scholarship)
+
+Shelf: `pipeline/mahaffy_shelf.json`. John Pentland Mahaffy (1839-1919), Trinity College Dublin: 4 clean Gutenberg texts, plus Social Life in Greece (1894), Greek Life and Thought (1896), A History of Classical Greek Literature (2 vols., Harper, 1880), Prolegomena to Ancient History (1871) and The Greek World under Roman Sway (1890) as raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Rambles and Studies in Greece |  | `mahaffy-rambles-studies-greece` | have (PG 35298) |
+| Problems in Greek History |  | `mahaffy-problems-greek-history` | have (PG 36354) |
+| What Have the Greeks Done for Modern Civilisation? |  | `mahaffy-what-have-greeks-done` | have (PG 59132) |
+| Old Greek Education |  | `mahaffy-old-greek-education` | have (PG 65058) |
+| Social Life in Greece from Homer to Menander (seventh edition 1890, reprinted; London and New York: Macmillan, 1894) |  | `mahaffy-social-life-greece-1894` | have-raw (IA `sociallifeingree00maha`) |
+| Greek Life and Thought from the Death of Alexander to the Roman Conquest (London and New York: Macmillan, 1896) |  | `mahaffy-greek-life-thought-1896` | have-raw (IA `greeklifethought00maha`) |
+| A History of Classical Greek Literature, vol. I, The Poets, with an appendix on Homer by Prof. Sayce (New York: Harper, 1880) |  | `mahaffy-classical-greek-literature-v1-1880` | have-raw (IA `historyofclassic01mahaiala`) |
+| A History of Classical Greek Literature, vol. II, The Prose Writers (New York: Harper, 1880) |  | `mahaffy-classical-greek-literature-v2-1880` | have-raw (IA `historyofclassi02maha`) |
+| Prolegomena to Ancient History (London: Longmans, Green, 1871) |  | `mahaffy-prolegomena-ancient-history-1871` | have-raw (IA `prolegomenatoanc00maharich`) |
+| The Greek World under Roman Sway, from Polybius to Plutarch (London: Macmillan, 1890) |  | `mahaffy-greek-world-roman-sway-1890` | have-raw (IA `greekworldunder01mahagoog`) |
+
+Excluded: PG 65638 (The Principles of the Art of Conversation) (outside the classical brief)
+
+Pending (wishlist): The Empire of the Ptolemies (1895) in a scan whose imprint year is legible.
+
+## G. Lowes Dickinson (scholarship)
+
+Shelf: `pipeline/lowes-dickinson_shelf.json`. Goldsworthy Lowes Dickinson (1862-1932): 1 clean Gutenberg text. His political and travel books are outside the brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Greek View of Life |  | `lowes-dickinson-greek-view-of-life` | have (PG 6200) |
+
+## John Burnet (scholarship)
+
+Shelf: `pipeline/burnet_shelf.json`. John Burnet (1863-1928), Professor of Greek at St Andrews: 1 clean Gutenberg text. The presocratics shelf passed this book over as a study, not a translation; it is taken here as scholarship. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Early Greek Philosophy |  | `burnet-early-greek-philosophy` | have (PG 67097) |
+
+## Eduard Zeller (scholarship)
+
+Shelf: `pipeline/zeller_shelf.json`. Eduard Zeller (1814-1908) in English, tr. Oswald J. Reichel (1840-1923): 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Stoics, Epicureans and Sceptics | Oswald J. Reichel | `zeller-stoics-epicureans-sceptics` | have (PG 77777) |
+
+## Jane Ellen Harrison (scholarship)
+
+Shelf: `pipeline/jane-harrison_shelf.json`. Jane Ellen Harrison (1850-1928), Newnham College: 3 clean Gutenberg texts. Her commentary with Verrall's Attica is on the pausanias shelf. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Prolegomena to the Study of Greek Religion |  | `jane-harrison-prolegomena-greek-religion` | have (PG 78248) |
+| Primitive Athens as Described by Thucydides |  | `jane-harrison-primitive-athens` | have (PG 73789) |
+| Ancient Art and Ritual |  | `jane-harrison-ancient-art-ritual` | have (PG 17087) |
+
+Excluded: PG 75986 (Reminiscences of a Student's Life) (memoir, outside the brief)
+
+## L. R. Farnell (scholarship)
+
+Shelf: `pipeline/farnell_shelf.json`. Lewis Richard Farnell (1856-1934), Rector of Exeter College, Oxford: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Outline-History of Greek Religion |  | `farnell-outline-history-greek-religion` | have (PG 71402) |
+| Greece and Babylon |  | `farnell-greece-and-babylon` | have (PG 71562) |
+
+Excluded: PG 71722 (The Evolution of Religion) (comparative religion, outside the classical brief)
+
+## F. Haverfield (scholarship)
+
+Shelf: `pipeline/haverfield_shelf.json`. Francis Haverfield (1860-1919), Camden Professor at Oxford: 3 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Romanization of Roman Britain |  | `haverfield-romanization-roman-britain` | have (PG 14173) |
+| Ancient Town-Planning |  | `haverfield-ancient-town-planning` | have (PG 14189) |
+| Roman Britain in 1914 |  | `haverfield-roman-britain-1914` | have (PG 19115) |
+
+## Rodolfo Lanciani (scholarship)
+
+Shelf: `pipeline/lanciani_shelf.json`. Rodolfo Lanciani (1847-1929), Roman archaeologist, writing in English: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Pagan and Christian Rome |  | `lanciani-pagan-christian-rome` | have (PG 22153) |
+
+## G. W. Botsford (scholarship)
+
+Shelf: `pipeline/botsford_shelf.json`. George Willis Botsford (1862-1917), Columbia: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Roman Assemblies from Their Origin to the End of the Republic |  | `botsford-roman-assemblies` | have (PG 68419) |
+
+Excluded: PG 49923, 51110 (The Mentor issues) (magazine pieces)
+
+## G. B. Grundy (scholarship)
+
+Shelf: `pipeline/grundy_shelf.json`. George Beardoe Grundy (1861-1948), Oxford: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Great Persian War and Its Preliminaries |  | `grundy-great-persian-war` | have (PG 72704) |
+
+## W. E. Heitland (scholarship)
+
+Shelf: `pipeline/heitland_shelf.json`. William Emerton Heitland (1847-1935), St John's College, Cambridge: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Agricola: a study of agriculture and rustic life in the Greco-Roman world |  | `heitland-agricola` | have (PG 74220) |
+
+## B. G. Niebuhr (scholarship)
+
+Shelf: `pipeline/niebuhr_shelf.json`. Barthold Georg Niebuhr (1776-1831) in English: Lectures on Roman History, ed. Isler, tr. H. M. Chepmell and F. Demmler (1875, 3 vols.), and Lectures on Ancient Ethnography and Geography, tr. Leonhard Schmitz (2 vols.): 5 clean Gutenberg texts. The History of Rome, 3 vols., new edition (Taylor, Walton, and Maberly; vols. I-II tr. Hare and Thirlwall, 1851 and 1855; vol. III tr. Smith and Schmitz, year illegible in the OCR), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Niebuhr's Lectures on Roman History, vol. 1 | H. M. Chepmell and F. Demmler | `niebuhr-lectures-roman-history-v1` | have (PG 71375) |
+| Niebuhr's Lectures on Roman History, vol. 2 | H. M. Chepmell and F. Demmler | `niebuhr-lectures-roman-history-v2` | have (PG 71385) |
+| Niebuhr's Lectures on Roman History, vol. 3 | H. M. Chepmell and F. Demmler | `niebuhr-lectures-roman-history-v3` | have (PG 75732) |
+| Lectures on Ancient Ethnography and Geography, vol. 1 | Leonhard Schmitz | `niebuhr-lectures-ethnography-geography-v1` | have (PG 78451) |
+| Lectures on Ancient Ethnography and Geography, vol. 2 | Leonhard Schmitz | `niebuhr-lectures-ethnography-geography-v2` | have (PG 78452) |
+| The History of Rome, tr. Julius Charles Hare and Connop Thirlwall, vol. I, a new edition (London: Taylor, Walton, and Maberly, MDCCCLI) | Julius Charles Hare and Connop Thirlwall | `niebuhr-history-rome-v1-1851` | have-raw (IA `historyrome03unkngoog`) |
+| The History of Rome, tr. Julius Charles Hare and Connop Thirlwall, vol. II, new edition (London: Walton and Maberly, MDCCCLV) | Julius Charles Hare and Connop Thirlwall | `niebuhr-history-rome-v2-1855` | have-raw (IA `historyofrome02nieb`) |
+| The History of Rome, tr. William Smith and Leonhard Schmitz, vol. III, a new edition (London: Taylor, Walton, and Maberly) | William Smith and Leonhard Schmitz | `niebuhr-history-rome-v3-new-ed` | have-raw (IA `historyrome02schmgoog`) |
+
+## Kenneth J. Freeman (scholarship)
+
+Shelf: `pipeline/k-j-freeman_shelf.json`. Kenneth John Freeman (1882-1906); ed. M. J. Rendall, introduction by A. W. Verrall: 1 clean Gutenberg text. Initials in the shelf name keep him apart from Edward A. Freeman. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Schools of Hellas: an essay on the practice and theory of ancient Greek education from 600 to 300 B.C. |  | `freeman-schools-of-hellas` | have (PG 63644) |
+
+## Percy Gardner (scholarship)
+
+Shelf: `pipeline/percy-gardner_shelf.json`. Percy Gardner (1846-1937): Sculptured Tombs of Hellas (clean Gutenberg) and A Manual of Greek Antiquities with F. B. Jevons, 2nd ed. (Griffin, 1898, raw IA OCR). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Sculptured Tombs of Hellas |  | `percy-gardner-sculptured-tombs-hellas` | have (PG 69508) |
+| A Manual of Greek Antiquities, books I-V by Percy Gardner, books VI-IX by F. B. Jevons, second edition (London: Charles Griffin, 1898) |  | `gardner-jevons-manual-greek-antiquities-1898` | have-raw (IA `manualofgreekant00gard`) |
+
+## Walter Pater (scholarship)
+
+Shelf: `pipeline/pater_shelf.json`. Walter Pater (1839-1894), Brasenose College, Oxford: 2 clean Gutenberg texts. His Renaissance and fiction are outside the classical brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Greek Studies: a Series of Essays |  | `pater-greek-studies` | have (PG 4035) |
+| Plato and Platonism |  | `pater-plato-and-platonism` | have (PG 4095) |
+
+## F. B. Tarbell (scholarship)
+
+Shelf: `pipeline/f-b-tarbell_shelf.json`. Frank Bigelow Tarbell (1853-1920), University of Chicago: 1 clean Gutenberg text. Initials keep him apart from Ida M. Tarbell. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Greek Art, with an introductory chapter on art in Egypt and Mesopotamia |  | `tarbell-history-greek-art` | have (PG 4390) |
+
+## William Stearns Davis (scholarship)
+
+Shelf: `pipeline/w-s-davis_shelf.json`. William Stearns Davis (1877-1930), historian: 2 clean Gutenberg texts. His historical novels are outside the brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Day in Old Athens: a Picture of Athenian Life |  | `w-s-davis-day-in-old-athens` | have (PG 4716) |
+| A Day in Old Rome |  | `w-s-davis-day-in-old-rome` | have (PG 76087) |
+
+## T. G. Tucker (scholarship)
+
+Shelf: `pipeline/t-g-tucker_shelf.json`. Thomas George Tucker (1859-1946), Professor of Classical Philology at Melbourne: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Life in the Roman World of Nero and St. Paul |  | `tucker-life-roman-world-nero-paul` | have (PG 12875) |
+| Sappho |  | `tucker-sappho` | have (PG 60906) |
+
+## Guglielmo Ferrero (scholarship)
+
+Shelf: `pipeline/ferrero_shelf.json`. Guglielmo Ferrero (1871-1942) in English: 3 clean Gutenberg texts. Translators are as each Gutenberg file names them; not separately checked. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Characters and Events of Roman History | Frances Lance Ferrero | `ferrero-characters-events-roman-history` | have (PG 13208) |
+| The Women of the Caesars | Christian Gauss | `ferrero-women-of-the-caesars` | have (PG 16324) |
+| Ancient Rome and Modern America |  | `ferrero-ancient-rome-modern-america` | have (PG 66901) |
+
+## Frank Frost Abbott (scholarship)
+
+Shelf: `pipeline/frank-frost-abbott_shelf.json`. Frank Frost Abbott (1860-1924), Princeton: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Common People of Ancient Rome: Studies of Roman Life and Literature |  | `abbott-common-people-ancient-rome` | have (PG 13226) |
+| Roman Politics |  | `abbott-roman-politics` | have (PG 68064) |
+
+## Grant Showerman (scholarship)
+
+Shelf: `pipeline/showerman_shelf.json`. Grant Showerman (1870-1935), Wisconsin: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Horace and His Influence |  | `showerman-horace-and-his-influence` | have (PG 16801) |
+
+## Ernest A. Gardner (scholarship)
+
+Shelf: `pipeline/ernest-gardner_shelf.json`. Ernest Arthur Gardner (1862-1939), Director of the British School at Athens: 1 clean Gutenberg text. Brother of Percy Gardner, whose book has its own shelf. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Religion and Art in Ancient Greece |  | `ernest-gardner-religion-art-ancient-greece` | have (PG 20523) |
+
+## Franz Cumont (scholarship)
+
+Shelf: `pipeline/cumont_shelf.json`. Franz Cumont (1868-1947) in English: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Oriental Religions in Roman Paganism |  | `cumont-oriental-religions-roman-paganism` | have (PG 22213) |
+| After Life in Roman Paganism |  | `cumont-after-life-roman-paganism` | have (PG 64297) |
+
+## How and Wells (scholarship)
+
+Shelf: `pipeline/how-wells_shelf.json`. Walter Wybergh How (1861-1932) and Joseph Wells (1855-1929): 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Commentary on Herodotus |  | `how-wells-commentary-herodotus` | have (PG 24146) |
+
+## D. B. Monro (scholarship)
+
+Shelf: `pipeline/monro_shelf.json`. David Binning Monro (1836-1905), Provost of Oriel: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Modes of Ancient Greek Music |  | `monro-modes-ancient-greek-music` | have (PG 40288) |
+
+## Harold Whetstone Johnston (scholarship)
+
+Shelf: `pipeline/h-w-johnston_shelf.json`. Harold Whetstone Johnston (1859-1912), Indiana University: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Private Life of the Romans |  | `johnston-private-life-romans` | have (PG 40549) |
+
+## August Mau (scholarship)
+
+Shelf: `pipeline/mau_shelf.json`. August Mau (1840-1909) in English, tr. Francis W. Kelsey (1858-1927): 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Pompeii, Its Life and Art | Francis W. Kelsey | `mau-pompeii-life-and-art` | have (PG 42715) |
+
+## Harold North Fowler (scholarship)
+
+Shelf: `pipeline/h-n-fowler_shelf.json`. Harold North Fowler (1859-1955), Western Reserve University: 1 clean Gutenberg text. He died in 1955, so the book is public domain under life plus 70 from 2026 as well as in the US. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Roman Literature |  | `h-n-fowler-history-roman-literature` | have (PG 44975) |
+
+## Heinrich Schliemann (scholarship)
+
+Shelf: `pipeline/schliemann_shelf.json`. Heinrich Schliemann (1822-1890), in English: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Troy and Its Remains (ed. Philip Smith) | L. Dora Schmitz | `schliemann-troy-and-its-remains` | have (PG 45190) |
+| Mycenae: a narrative of researches and discoveries at Mycenae and Tiryns (preface by W. E. Gladstone) |  | `schliemann-mycenae` | have (PG 56940) |
+
+## W. E. Gladstone (scholarship)
+
+Shelf: `pipeline/gladstone-homer_shelf.json`. William Ewart Gladstone (1809-1898), Studies on Homer and the Homeric Age (Oxford, 1858): 3 clean Gutenberg texts. The shelf is for his Homeric work only; his politics are outside the brief. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Studies on Homer and the Homeric Age, vol. 1 |  | `gladstone-studies-homer-v1` | have (PG 47356) |
+| Studies on Homer and the Homeric Age, vol. 2 |  | `gladstone-studies-homer-v2` | have (PG 49858) |
+| Studies on Homer and the Homeric Age, vol. 3 |  | `gladstone-studies-homer-v3` | have (PG 53004) |
+
+## H. B. Walters (scholarship)
+
+Shelf: `pipeline/h-b-walters_shelf.json`. Henry Beauchamp Walters (1867-1944), British Museum; with Samuel Birch: 2 clean Gutenberg texts. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of Ancient Pottery: Greek, Etruscan, and Roman, vol. 1 |  | `walters-history-ancient-pottery-v1` | have (PG 48154) |
+| History of Ancient Pottery: Greek, Etruscan, and Roman, vol. 2 |  | `walters-history-ancient-pottery-v2` | have (PG 48155) |
+
+## J. G. Frazer (scholarship)
+
+Shelf: `pipeline/frazer-greece_shelf.json`. Sir James George Frazer (1854-1941): his Greek writing only: Studies in Greek Scenery (clean Gutenberg) and Pausanias and Other Greek Sketches (1900, raw IA OCR). His Pausanias translation is on the pausanias shelf; The Golden Bough is comparative religion and is left out. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Studies in Greek Scenery, Legend and History, selected from his commentary on Pausanias |  | `frazer-studies-greek-scenery` | have (PG 56002) |
+| Pausanias and Other Greek Sketches (London: Macmillan, 1900) |  | `frazer-pausanias-greek-sketches-1900` | have-raw (IA `pausaniasothergr00frazuoft`) |
+
+## Matthew Arnold (scholarship)
+
+Shelf: `pipeline/matthew-arnold-homer_shelf.json`. Matthew Arnold (1822-1888): On Translating Homer, with F. W. Newman's reply: 1 clean Gutenberg text. The shelf is for this book only. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| On Translating Homer |  | `arnold-on-translating-homer` | have (PG 65381) |
+
+## Evelyn S. Shuckburgh (scholarship)
+
+Shelf: `pipeline/shuckburgh_shelf.json`. Evelyn Shirley Shuckburgh (1843-1906): 1 clean Gutenberg text. His translations (Polybius, Cicero's letters) are on those shelves. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Augustus: the Life and Times of the Founder of the Roman Empire |  | `shuckburgh-augustus` | have (PG 66609) |
+
+## Gaston Boissier (scholarship)
+
+Shelf: `pipeline/boissier_shelf.json`. Gaston Boissier (1823-1908) in English, tr. Adnah David Jones: 1 clean Gutenberg text. The translator's death year was not checked. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Cicero and His Friends | Adnah David Jones | `boissier-cicero-and-his-friends` | have (PG 72216) |
+
+## P. N. Ure (scholarship)
+
+Shelf: `pipeline/p-n-ure_shelf.json`. Percy Neville Ure (1879-1950), Reading: 1 clean Gutenberg text. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Origin of Tyranny |  | `ure-origin-of-tyranny` | have (PG 62364) |
+
+## Sir John Edwin Sandys (scholarship)
+
+Shelf: `pipeline/sandys_shelf.json`. Sandys's History of Classical Scholarship (3 vols., 1903-1908) and his Short History (1915), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Classical Scholarship, vol. I: from the sixth century B.C. to the end of the Middle Ages (Cambridge: University Press, 1903) |  | `sandys-history-classical-scholarship-v1-1903` | have-raw (IA `historyofclassic00sanduoft`) |
+| A History of Classical Scholarship, vol. II: from the revival of learning to the end of the eighteenth century (Cambridge: University Press, 1908) |  | `sandys-history-classical-scholarship-v2-1908` | have-raw (IA `historyofclassic02sanduoft`) |
+| A History of Classical Scholarship, vol. III: the eighteenth century in Germany, and the nineteenth century in Europe and the United States (Cambridge: University Press, 1908) |  | `sandys-history-classical-scholarship-v3-1908` | have-raw (IA `historyofclassic03sanduoft`) |
+| A Short History of Classical Scholarship from the Sixth Century B.C. to the Present Day (Cambridge: University Press, 1915) |  | `sandys-short-history-classical-scholarship-1915` | have-raw (IA `shorthistoryofcl00sanduoft`) |
+
+Excluded: A Companion to Latin Studies (1910), ed. Sandys (many contributors whose death years were not checked; not taken this round)
+
+Pending (wishlist): A Companion to Latin Studies (1910), once its contributors' death years are checked.
+
+## Oskar Seyffert (scholarship)
+
+Shelf: `pipeline/seyffert_shelf.json`. Seyffert's Dictionary of Classical Antiquities as revised and edited by Nettleship and Sandys (1891), raw IA OCR. Not minted.
+
+| Work | Translator / editors | Slug | Status |
+|---|---|---|---|
+| A Dictionary of Classical Antiquities, Mythology, Religion, Literature and Art, from the German of Dr. Oskar Seyffert, revised and edited by Henry Nettleship and J. E. Sandys (London: Swan Sonnenschein, 1891) | Nettleship | `seyffert-dictionary-classical-antiquities-1891` | have-raw (IA `cu31924028214637`) |
+
+## W. A. Becker (scholarship)
+
+Shelf: `pipeline/becker-gallus_shelf.json`. Becker's Gallus in Metcalfe's translation (1882), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Gallus; or, Roman Scenes of the Time of Augustus, with notes and excursuses, tr. Frederick Metcalfe (London: Longmans, 1882) | Metcalfe | `becker-gallus-metcalfe-1882` | have-raw (IA `gallusromanscene00beckiala`) |
+
+Excluded: Charicles, tr. Metcalfe (1895; IA chariclesorillu00metcgoog) (refused: OCR 0.71)
+
+Pending (wishlist): Charicles in a scan that clears the bar.
+
+## J. B. Bury (scholarship)
+
+Shelf: `pipeline/bury_shelf.json`. Bury's Later Roman Empire (1889, 2 vols.), Eastern Roman Empire (1912), Constitution of the Later Roman Empire (1910), History of Greece (first edition, 1900) and The Ancient Greek Historians (1909), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of the Later Roman Empire from Arcadius to Irene (395 A.D. to 800 A.D.), vol. I (London and New York: Macmillan, 1889) |  | `bury-later-roman-empire-v1-1889` | have-raw (IA `historyoflaterro00bury`) |
+| A History of the Later Roman Empire from Arcadius to Irene (395 A.D. to 800 A.D.), vol. II (London and New York: Macmillan, 1889) |  | `bury-later-roman-empire-v2-1889` | have-raw (IA `ahistorylaterro01burygoog`) |
+| A History of the Eastern Roman Empire from the Fall of Irene to the Accession of Basil I (London: Macmillan, 1912) |  | `bury-eastern-roman-empire-1912` | have-raw (IA `historyofeastern00buryiala`) |
+| The Constitution of the Later Roman Empire (Creighton memorial lecture; Cambridge: University Press, 1910) |  | `bury-constitution-later-roman-empire-1910` | have-raw (IA `constitutionofla00buryuoft`) |
+| A History of Greece to the Death of Alexander the Great (London: Macmillan, 1900) |  | `bury-history-greece-1900` | have-raw (IA `ahistorygreecet01burygoog`) |
+| The Ancient Greek Historians (Harvard Lectures) (New York and London: Macmillan, 1909) |  | `bury-ancient-greek-historians-1909` | have-raw (IA `cu31924028260317`) |
+
+Excluded: The Student's Roman Empire (IA studentsromanemp00buryuoft) (no year on the scan's title page; held back under the undated rule); A History of the Later Roman Empire vol. II (IA historyoflaterro02buryuoft) (no year on the scan's title page; the dated 1889 copy is taken)
+
+Pending (wishlist): the Student's Roman Empire in a dated scan.
+
+## Ernst Curtius (scholarship)
+
+Shelf: `pipeline/ernst-curtius_shelf.json`. Curtius's History of Greece in A. W. Ward's translation, 5 vols. (Scribner, 1892 printing), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Greece, vol. I, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v1-1892` | have-raw (IA `historyofgreece11curt`) |
+| The History of Greece, vol. II, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v2-1892` | have-raw (IA `historyofgreece21curt`) |
+| The History of Greece, vol. III, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v3-1892` | have-raw (IA `historyofgreece31curt`) |
+| The History of Greece, vol. IV, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v4-1892` | have-raw (IA `historyofgreece51curt`) |
+| The History of Greece, vol. V, tr. Adolphus William Ward (New York: Scribner, 1892) | Ward | `ernst-curtius-history-of-greece-v5-1892` | have-raw (IA `historyofgreece41curt`) |
+
+## Connop Thirlwall (scholarship)
+
+Shelf: `pipeline/thirlwall_shelf.json`. Thirlwall's History of Greece, new edition in eight volumes (Longman, 1845-1852), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Greece, new edition, vol. I (London: Longman, Brown, Green, and Longmans, 1845) |  | `thirlwall-history-of-greece-v1-1845` | have-raw (IA `historyofgreece01thir`) |
+| The History of Greece, new edition, vol. II (London: Longman, Brown, Green, and Longmans, 1846) |  | `thirlwall-history-of-greece-v2-1846` | have-raw (IA `historyofgreece02thir`) |
+| The History of Greece, new edition, vol. III (London: Longman, Brown, Green, and Longmans, 1846) |  | `thirlwall-history-of-greece-v3-1846` | have-raw (IA `historyofgreece03thir`) |
+| The History of Greece, new edition, vol. IV (London: Longman, Brown, Green, and Longmans, 1847) |  | `thirlwall-history-of-greece-v4-1847` | have-raw (IA `ahistorygreece03thirgoog`) |
+| The History of Greece, new edition, vol. V (London: Longman, Brown, Green, and Longmans, 1849) |  | `thirlwall-history-of-greece-v5-1849` | have-raw (IA `historyofgreece05thir`) |
+| The History of Greece, new edition, vol. VI (London: Longman, Brown, Green, and Longmans, 1851) |  | `thirlwall-history-of-greece-v6-1851` | have-raw (IA `historyofgreece06thir`) |
+| The History of Greece, new edition, vol. VII (London: Longman, Brown, Green, and Longmans, 1852) |  | `thirlwall-history-of-greece-v7-1852` | have-raw (IA `historyofgreece07thiriala`) |
+| The History of Greece, new edition, vol. VIII (London: Longman, Brown, Green, and Longmans, 1852) |  | `thirlwall-history-of-greece-v8-1852` | have-raw (IA `ahistorygreece04thirgoog`) |
+
+## Thomas Arnold (scholarship)
+
+Shelf: `pipeline/thomas-arnold_shelf.json`. Arnold's History of Rome, third edition, 3 vols. (1844-1846), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of Rome, third edition, vol. I (1844) |  | `thomas-arnold-history-of-rome-v1-1844` | have-raw (IA `historyofrome001arno`) |
+| History of Rome, third edition, vol. II (1845) |  | `thomas-arnold-history-of-rome-v2-1845` | have-raw (IA `historyofrome02arnoiala`) |
+| History of Rome, third edition, vol. III (1846) |  | `thomas-arnold-history-of-rome-v3-1846` | have-raw (IA `historyofrome03arnoiala`) |
+
+## K. O. Müller (scholarship)
+
+Shelf: `pipeline/k-o-muller_shelf.json`. Karl Otfried Müller: History of the Literature of Ancient Greece, 3 vols. (Longmans, 1858; tr. Lewis and Donaldson, continued by Donaldson) and The History and Antiquities of the Doric Race, 2nd ed., 2 vols. (Murray, 1839; tr. Tufnell and Lewis). Raw IA OCR; the 1858 vols. II-III were identity-checked by eye. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. I (London: Longmans, 1858) | George Cornewall Lewis and John William Donaldson | `k-o-muller-literature-ancient-greece-v1-1858` | have-raw (IA `historyofliterat01mluoft`) |
+| A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. II (London: Longmans, 1858) | George Cornewall Lewis and John William Donaldson | `k-o-muller-literature-ancient-greece-v2-1858` | have-raw (IA `historyofliterat02mluoft`) |
+| A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. III (London: Longmans, 1858) | George Cornewall Lewis and John William Donaldson | `k-o-muller-literature-ancient-greece-v3-1858` | have-raw (IA `historyofliterat03mluoft`) |
+| The History and Antiquities of the Doric Race, second edition, revised, vol. I (London: John Murray, MDCCCXXXIX) | Henry Tufnell and George Cornewall Lewis | `k-o-muller-doric-race-v1-1839` | have-raw (IA `historyantiquiti01mull`) |
+| The History and Antiquities of the Doric Race, second edition, revised, vol. II (London: John Murray, MDCCCXXXIX) | Henry Tufnell and George Cornewall Lewis | `k-o-muller-doric-race-v2-1839` | have-raw (IA `historyantiquiti02mull`) |
+
+## George Long (scholarship)
+
+Shelf: `pipeline/george-long_shelf.json`. The Decline of the Roman Republic, 5 vols., Bell and Daldy 1864-1874, assembled from five separate scans; each title page read. Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Decline of the Roman Republic, vol. I (London: Bell and Daldy, 1864) |  | `george-long-decline-roman-republic-v1-1864` | have-raw (IA `declineromanrep01unkngoog`) |
+| The Decline of the Roman Republic, vol. II (London: Bell and Daldy, 1866) |  | `george-long-decline-roman-republic-v2-1866` | have-raw (IA `declineofromanre02longuoft`) |
+| The Decline of the Roman Republic, vol. III (London: Bell and Daldy, 1869) |  | `george-long-decline-roman-republic-v3-1869` | have-raw (IA `declineromanrep00longgoog`) |
+| The Decline of the Roman Republic, vol. IV (London: Bell and Daldy, 1872) |  | `george-long-decline-roman-republic-v4-1872` | have-raw (IA `declineromanrep03longgoog`) |
+| The Decline of the Roman Republic, vol. V (London: Bell and Daldy, 1874) |  | `george-long-decline-roman-republic-v5-1874` | have-raw (IA `declineofromanre05longuoft`) |
+
+## William Mure (scholarship)
+
+Shelf: `pipeline/mure_shelf.json`. A Critical History of the Language and Literature of Antient Greece, 5 vols. (1850-1857, vol. I in the 2nd ed. of 1854), assembled from separate scans; each title page read. Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Critical History of the Language and Literature of Antient Greece, second edition, vol. I (London: Longman, 1854) |  | `mure-critical-history-greek-literature-v1-1854` | have-raw (IA `criticalhistoryo01mureuoft`) |
+| A Critical History of the Language and Literature of Antient Greece, vol. II (London: Longman, 1854) |  | `mure-critical-history-greek-literature-v2-1854` | have-raw (IA `acriticalhistor06muregoog`) |
+| A Critical History of the Language and Literature of Antient Greece, vol. III (London: Longman, 1850) |  | `mure-critical-history-greek-literature-v3-1850` | have-raw (IA `criticalhistoryo03mureuoft`) |
+| A Critical History of the Language and Literature of Antient Greece, vol. IV (London: Longman, 1853) |  | `mure-critical-history-greek-literature-v4-1853` | have-raw (IA `acriticalhistor04muregoog`) |
+| A Critical History of the Language and Literature of Antient Greece, vol. V (London: Longman, 1857) |  | `mure-critical-history-greek-literature-v5-1857` | have-raw (IA `criticalhistoryo05mureuoft`) |
+
+## George Cornewall Lewis (scholarship)
+
+Shelf: `pipeline/cornewall-lewis_shelf.json`. An Inquiry into the Credibility of the Early Roman History, 2 vols., Parker 1855. Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Inquiry into the Credibility of the Early Roman History, vol. I (London: John W. Parker and Son, 1855) |  | `cornewall-lewis-credibility-early-roman-history-v1-1855` | have-raw (IA `inquiryintocred01lewi`) |
+| An Inquiry into the Credibility of the Early Roman History, vol. II (London: John W. Parker and Son, 1855) |  | `cornewall-lewis-credibility-early-roman-history-v2-1855` | have-raw (IA `inquiryintocred02lewi`) |
+
+## S. H. Butcher (scholarship)
+
+Shelf: `pipeline/butcher_shelf.json`. Harvard Lectures on Greek Subjects (1904) and Some Aspects of the Greek Genius (third edition, 1904). Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Harvard Lectures on Greek Subjects (New York: Macmillan, 1904) |  | `butcher-harvard-lectures-greek-subjects-1904` | have-raw (IA `harvardlectureso00butciala`) |
+| Some Aspects of the Greek Genius, third edition (London: Macmillan, 1904) |  | `butcher-some-aspects-greek-genius-1904` | have-raw (IA `someaspectsofgre00butcuoft`) |
+
+Excluded: Aristotle's Theory of Poetry and Fine Art (1898; IA aristotlestheory00butc) (refused: OCR 0.69, Greek text facing)
+
+## A. E. Haigh (scholarship)
+
+Shelf: `pipeline/haigh_shelf.json`. The Attic Theatre (Clarendon Press, 1889) and The Tragic Drama of the Greeks (Clarendon Press, 1896), raw IA OCR; the 1889 OCR garbles the author line, so identity was checked by eye. Gutenberg's Attic Theatre (PG 76555) is the 1907 third edition revised by Pickard-Cambridge, not added beside the first. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Attic Theatre: a description of the stage and theatre of the Athenians (Oxford: Clarendon Press, 1889) |  | `haigh-attic-theatre-1889` | have-raw (IA `attictheatredesc00haiguoft`) |
+| The Tragic Drama of the Greeks (Oxford: Clarendon Press, 1896) |  | `haigh-tragic-drama-greeks-1896` | have-raw (IA `tragicdramaofgre00haiguoft`) |
+
+## Henry Nettleship (scholarship)
+
+Shelf: `pipeline/nettleship_shelf.json`. Lectures and Essays on Subjects Connected with Latin Literature and Scholarship (1885) and its second series (1895). Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Lectures and Essays on Subjects connected with Latin Literature and Scholarship (Oxford: Clarendon Press, 1885) |  | `nettleship-lectures-essays-1885` | have-raw (IA `cu31924026479919`) |
+| Lectures and Essays, second series, ed. F. Haverfield (Oxford: Clarendon Press, 1895) |  | `nettleship-lectures-essays-second-series-1895` | have-raw (IA `cu31924021595669`) |
+
+## R. Y. Tyrrell (scholarship)
+
+Shelf: `pipeline/tyrrell_shelf.json`. Latin Poetry: Lectures Delivered in 1893 (1895). Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Latin Poetry: lectures delivered in 1893 on the Percy Turnbull Memorial Foundation in the Johns Hopkins University (Boston and New York: Houghton, Mifflin, 1895) |  | `tyrrell-latin-poetry-1895` | have-raw (IA `latinpoetrylectu00tyrr`) |
+
+## F. B. Jevons (scholarship)
+
+Shelf: `pipeline/f-b-jevons_shelf.json`. A History of Greek Literature, Scribner. The OCR of the imprint year reads 1880; the book was first published in 1886, so the true year is likely 1886 or later (an inference). Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Greek Literature from the Earliest Period to the Death of Demosthenes (New York: Charles Scribner's Sons; imprint year read by OCR as 1880) |  | `f-b-jevons-history-greek-literature` | have-raw (IA `historyofgreekli00jevouoft`) |
+
+## James Gow (scholarship)
+
+Shelf: `pipeline/gow_shelf.json`. A Companion to School Classics, 2nd ed., 1889. Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Companion to School Classics, second edition, revised (London and New York: Macmillan, 1889) |  | `gow-companion-school-classics-1889` | have-raw (IA `companiontoschoo00gowjuoft`) |
+
+## C. T. Cruttwell (scholarship)
+
+Shelf: `pipeline/cruttwell_shelf.json`. A History of Roman Literature, clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Roman Literature from the Earliest Period to the Death of Marcus Aurelius |  | `cruttwell-history-roman-literature` | have (PG 7525) |
+
+## A. W. Verrall (scholarship)
+
+Shelf: `pipeline/verrall_shelf.json`. Odes of Horace (1884), Bacchants of Euripides (1910), and the two 1913 collections edited by Bayfield and Duff, raw IA OCR. Bayfield's death year unchecked (editorial matter US-PD by date). Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Studies Literary and Historical in the Odes of Horace (London: Macmillan, 1884) |  | `verrall-odes-horace-1884` | have-raw (IA `cu31924026492458`) |
+| The Bacchants of Euripides and Other Essays (Cambridge: University Press, 1910) |  | `verrall-bacchants-euripides-1910` | have-raw (IA `bacchantsofeurip00verrrich`) |
+| Collected Literary Essays, Classical and Modern, ed. M. A. Bayfield and J. D. Duff, with a memoir (Cambridge: University Press, 1913) |  | `verrall-collected-literary-essays-1913` | have-raw (IA `collectedliterar00verruoft`) |
+| Collected Studies in Greek and Latin Scholarship, ed. M. A. Bayfield and J. D. Duff (Cambridge: University Press, 1913) |  | `verrall-collected-studies-1913` | have-raw (IA `cu31924021596261`) |
+
+## Charles Merivale (scholarship)
+
+Shelf: `pipeline/merivale_shelf.json`. History of the Romans under the Empire, Longmans new edition in eight volumes: vols. I-V dated 1865, VI 1868, VII a 1904 impression, VIII 1872 (all pre-1930 impressions of one edition), raw IA OCR; several title pages misread the name, so identity was checked by eye. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| History of the Romans under the Empire, new edition in eight volumes, vol. I (London: Longmans, Green, and Co., 1865) |  | `merivale-romans-empire-v1-1865` | have-raw (IA `historyofromans01meri`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. II (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v2-1865` | have-raw (IA `ahistoryromansu05merigoog`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. III (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v3-1865` | have-raw (IA `historyofromansu03meriiala`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. IV (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v4-1865` | have-raw (IA `ahistoryromansu00merigoog`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. V (London: Longman, Green, Longman, Roberts, & Green, 1865) |  | `merivale-romans-empire-v5-1865` | have-raw (IA `ahistoryromansu01merigoog`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. VI (London: Longmans, Green, and Co., 1868) |  | `merivale-romans-empire-v6-1868` | have-raw (IA `historyromansun07unkngoog`) |
+| History of the Romans under the Empire, in eight volumes, vol. VII, new impression (London: Longmans, Green, and Co., 1904) |  | `merivale-romans-empire-v7-1904` | have-raw (IA `historyofromansu07meri`) |
+| History of the Romans under the Empire, new edition in eight volumes, vol. VIII (London: Longmans, Green, and Co., 1872) |  | `merivale-romans-empire-v8-1872` | have-raw (IA `historyromansun15unkngoog`) |
+
+## August Boeckh (scholarship)
+
+Shelf: `pipeline/boeckh_shelf.json`. The Public Economy of the Athenians, tr. Anthony Lamb (Boston, 1857), raw IA OCR; Lamb's death year unchecked. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Public Economy of the Athenians (Boston: Little, Brown, 1857) | Lamb | `boeckh-public-economy-athenians-lamb-1857` | have-raw (IA `publiceconomyath00boecuoft`) |
+
+Pending (wishlist): Lewis's English version (London, 1842).
+
+## G. F. Schömann (scholarship)
+
+Shelf: `pipeline/schomann_shelf.json`. The Antiquities of Greece, vol. I, The State, tr. Hardy and Mann (Rivingtons, 1880), raw IA OCR; Mann's death year unchecked. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Antiquities of Greece: The State (London: Rivingtons, 1880) | Hardy | `schomann-antiquities-greece-state-1880` | have-raw (IA `antiquitiesofgre00schuoft`) |
+
+## Guhl and Koner (scholarship)
+
+Shelf: `pipeline/guhl-koner_shelf.json`. The Life of the Greeks and Romans, tr. F. Hueffer (Chapman and Hall, 1875), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Life of the Greeks and Romans Described from Antique Monuments (London: Chapman and Hall, 1875) | F. Hueffer | `guhl-koner-life-greeks-romans-1875` | have-raw (IA `lifeofgreeksroma00guhl`) |
+
+## Hugo Blümner (scholarship)
+
+Shelf: `pipeline/blumner_shelf.json`. The Home Life of the Ancient Greeks, tr. Alice Zimmern, clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Home Life of the Ancient Greeks | Alice Zimmern | `blumner-home-life-ancient-greeks` | have (PG 61689) |
+
+## E. A. Freeman (scholarship)
+
+Shelf: `pipeline/e-a-freeman_shelf.json`. History of Federal Government in Greece and Italy, 2nd ed. by J. B. Bury, and The History of Sicily, 4 vols. (Clarendon Press, 1891-1894; vol. IV ed. Arthur J. Evans), raw IA OCR; Studies of Travel: Greece, clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Studies of Travel: Greece |  | `e-a-freeman-studies-travel-greece` | have (PG 45132) |
+| History of Federal Government in Greece and Italy, second edition, ed. J. B. Bury (London: Macmillan) |  | `e-a-freeman-federal-government-1893` | have-raw (IA `historyoffederal00freeuoft`) |
+| The History of Sicily from the Earliest Times, vol. I (Oxford: Clarendon Press, 1891) |  | `e-a-freeman-sicily-v1-1891` | have-raw (IA `historyofsicilyf01free`) |
+| The History of Sicily from the Earliest Times, vol. II (Oxford: Clarendon Press, 1891) |  | `e-a-freeman-sicily-v2-1891` | have-raw (IA `historyofsicilyf02free`) |
+| The History of Sicily from the Earliest Times, vol. III (Oxford: Clarendon Press, 1892) |  | `e-a-freeman-sicily-v3-1892` | have-raw (IA `historysicilyfr02freegoog`) |
+| The History of Sicily from the Earliest Times, vol. IV, edited from posthumous MSS. by Arthur J. Evans (Oxford: Clarendon Press, 1894) |  | `e-a-freeman-sicily-v4-1894` | have-raw (IA `historyofsicilyf04free`) |
+
+## W. T. Arnold (scholarship)
+
+Shelf: `pipeline/w-t-arnold_shelf.json`. The Roman System of Provincial Administration (1879 first edition), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Roman System of Provincial Administration to the Accession of Constantine the Great (Macmillan, 1879) |  | `w-t-arnold-roman-provincial-administration-1879` | have-raw (IA `romansystemofpro00arnoiala`) |
+
+## H. F. Pelham (scholarship)
+
+Shelf: `pipeline/pelham_shelf.json`. Outlines of Roman History (Percival, 1893) and Essays, ed. Haverfield (Clarendon Press, 1911), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Essays, collected and edited by F. Haverfield (Oxford: Clarendon Press, 1911) |  | `pelham-essays-1911` | have-raw (IA `essaysonromanhis00pelhuoft`) |
+| Outlines of Roman History (London: Percival, 1893) |  | `pelham-outlines-roman-history-1893` | have-raw (IA `outlinesofroman00pelh`) |
+
+## Walter Leaf (scholarship)
+
+Shelf: `pipeline/walter-leaf_shelf.json`. Troy, a Study in Homeric Geography (1912) and Homer and History (1915), Macmillan, raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Troy: A Study in Homeric Geography (London: Macmillan, 1912) |  | `walter-leaf-troy-1912` | have-raw (IA `troystudyinhomer00leaf`) |
+| Homer and History (London: Macmillan, 1915) |  | `walter-leaf-homer-history-1915` | have-raw (IA `gpl_1735164`) |
+
+## Evelyn Abbott (scholarship)
+
+Shelf: `pipeline/evelyn-abbott_shelf.json`. A History of Greece, 3 parts (Putnam and Longmans, 1900-1901), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Greece, part I, from the earliest times to the Ionian Revolt (New York: Putnam; London: Longmans, Green, 1901) |  | `evelyn-abbott-history-greece-v1-1901` | have-raw (IA `historyofgreece01abbo`) |
+| A History of Greece, part II, from the Ionian Revolt to the Thirty Years' Peace, 500-445 B.C. (New York: Putnam; London: Longmans, Green, 1901) |  | `evelyn-abbott-history-greece-v2-1901` | have-raw (IA `historyofgreece02abbo_0`) |
+| A History of Greece, part III, from the Thirty Years' Peace to the Fall of the Thirty at Athens, 445-403 B.C. (New York: Putnam; London: Longmans, Green, 1900) |  | `evelyn-abbott-history-greece-v3-1900` | have-raw (IA `historyofgreece03abbo`) |
+
+## Adolf Holm (scholarship)
+
+Shelf: `pipeline/holm_shelf.json`. The History of Greece, translated from the German (vol. IV names Frederick Clarke), 4 vols. (Macmillan, 1894-1899), raw IA OCR; Clarke's death year unchecked. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Greece from its Commencement to the Close of the Independence of the Greek Nation, vol. I (London: Macmillan, 1894) | Frederick Clarke (named in vol. IV) | `holm-history-greece-v1-1894` | have-raw (IA `historyofgreecef01holm`) |
+| The History of Greece, vol. II, The Fifth Century B.C. (London: Macmillan, 1899) | Frederick Clarke (named in vol. IV) | `holm-history-greece-v2-1899` | have-raw (IA `historyofgreecef02holm`) |
+| The History of Greece, vol. III, The Fourth Century B.C. up to the Death of Alexander (London: Macmillan, 1896) | Frederick Clarke (named in vol. IV) | `holm-history-greece-v3-1896` | have-raw (IA `historyofgreecef03holm_0`) |
+| The History of Greece, vol. IV, The Graeco-Macedonian Age (London: Macmillan, 1898) | Clarke | `holm-history-greece-v4-1898` | have-raw (IA `historygreecefr04holmgoog`) |
+
+## Wilhelm Ihne (scholarship)
+
+Shelf: `pipeline/ihne_shelf.json`. The History of Rome, English edition (the author's own), 5 vols. (Longmans, 1871-1882), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The History of Rome, English edition, vol. I (London: Longmans, Green, 1871) |  | `ihne-history-rome-v1-1871` | have-raw (IA `historyrome02unkngoog`) |
+| The History of Rome, English edition, vol. II (London: Longmans, Green, 1871) |  | `ihne-history-rome-v2-1871` | have-raw (IA `historyofrome02ihne_0`) |
+| The History of Rome, English edition, vol. III (London: Longmans, Green, 1877) |  | `ihne-history-rome-v3-1877` | have-raw (IA `historyofrome03ihne`) |
+| The History of Rome, English edition, vol. IV (London: Longmans, Green, 1882) |  | `ihne-history-rome-v4-1882` | have-raw (IA `historyofrome04ihne`) |
+| The History of Rome, English edition, vol. V (London: Longmans, Green, 1882) |  | `ihne-history-rome-v5-1882` | have-raw (IA `historyofrome05ihne`) |
+
+## E. H. Bunbury (scholarship)
+
+Shelf: `pipeline/bunbury_shelf.json`. A History of Ancient Geography among the Greeks and Romans, 2 vols. (John Murray, 1879), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Ancient Geography among the Greeks and Romans, vol. I (London: John Murray, 1879) |  | `bunbury-ancient-geography-v1-1879` | have-raw (IA `historyofancient01bunb`) |
+| A History of Ancient Geography among the Greeks and Romans, vol. II (London: John Murray, 1879) |  | `bunbury-ancient-geography-v2-1879` | have-raw (IA `ahistoryancient01bunbgoog`) |
+
+## H. F. Tozer (scholarship)
+
+Shelf: `pipeline/tozer_shelf.json`. A History of Ancient Geography (Cambridge, 1897), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Ancient Geography (Cambridge: University Press, 1897) |  | `tozer-history-ancient-geography-1897` | have-raw (IA `ahistoryancient00tozegoog`) |
+
+## T. H. Dyer (scholarship)
+
+Shelf: `pipeline/dyer_shelf.json`. Ancient Athens (1873) and The City of Rome, 2nd ed. (1883), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Ancient Athens: its History, Topography, and Remains (London: Bell and Daldy, 1873) |  | `dyer-ancient-athens-1873` | have-raw (IA `cu31924028305294`) |
+| The City of Rome: its Vicissitudes and Monuments, second edition, revised (London: George Bell, 1883) |  | `dyer-city-of-rome-1883` | have-raw (IA `cityromeitsvici00dyergoog`) |
+
+## J. H. Middleton (scholarship)
+
+Shelf: `pipeline/middleton_shelf.json`. The Remains of Ancient Rome, 2 vols. (A. and C. Black, 1892), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Remains of Ancient Rome, vol. I (London: A. and C. Black, 1892) |  | `middleton-remains-ancient-rome-v1-1892` | have-raw (IA `remainsofancient01midd`) |
+| The Remains of Ancient Rome, vol. II (London: A. and C. Black, 1892) |  | `middleton-remains-ancient-rome-v2-1892` | have-raw (IA `remainsofancient02midd`) |
+
+## William Ramsay (scholarship)
+
+Shelf: `pipeline/ramsay_shelf.json`. A Manual of Roman Antiquities, 2nd ed. (Griffin, 1851), raw IA OCR. Professor of Humanity at Glasgow, not Sir W. M. Ramsay. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Manual of Roman Antiquities, second edition (London and Glasgow: Griffin, 1851) |  | `ramsay-manual-roman-antiquities-1851` | have-raw (IA `manualofromanan00rams`) |
+
+## Christopher Wordsworth (scholarship)
+
+Shelf: `pipeline/christopher-wordsworth_shelf.json`. Athens and Attica, 2nd ed. (John Murray, 1837), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Athens and Attica: Journal of a Residence There, second edition (London: John Murray, 1837) |  | `christopher-wordsworth-athens-attica-1837` | have-raw (IA `athensatticajour00word`) |
+
+## Charles Anthon (reference)
+
+Shelf: `pipeline/anthon_shelf.json`. A Classical Dictionary (Harper, 1848 printing of the 1841 work), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Classical Dictionary, containing an account of the principal proper names mentioned in ancient authors (New York: Harper, 1848) |  | `anthon-classical-dictionary-1848` | have-raw (IA `classicaldiction00anth`) |
+
+## Anthony Rich (reference)
+
+Shelf: `pipeline/anthony-rich_shelf.json`. A Dictionary of Roman and Greek Antiquities, 4th ed. (Longmans, 1874), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Dictionary of Roman and Greek Antiquities, fourth edition, revised (London: Longmans, Green, 1874) |  | `anthony-rich-dictionary-antiquities-1874` | have-raw (IA `cu31924031428737`) |
+
+## Harry Thurston Peck (reference)
+
+Shelf: `pipeline/peck_shelf.json`. Harper's Dictionary of Classical Literature and Antiquities (Harper, 1898 printing; copyright 1896), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Harper's Dictionary of Classical Literature and Antiquities, ed. Harry Thurston Peck (New York: Harper, 1898) |  | `peck-harpers-dictionary-classical-1898` | have-raw (IA `cu31924027019482`) |
+
+## H. G. Liddell (scholarship)
+
+Shelf: `pipeline/liddell_shelf.json`. A History of Rome, 2 vols. (John Murray, 1855), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A History of Rome from the Earliest Times to the Establishment of the Empire, vol. I (London: John Murray, 1855) |  | `liddell-history-rome-v1-1855` | have-raw (IA `ahistoryromefro04liddgoog`) |
+| A History of Rome from the Earliest Times to the Establishment of the Empire, vol. II (London: John Murray, 1855) |  | `liddell-history-rome-v2-1855` | have-raw (IA `ahistoryrometoe00liddgoog`) |
+
+## J. W. Donaldson (scholarship)
+
+Shelf: `pipeline/donaldson_shelf.json`. The Theatre of the Greeks, 7th ed. (1860), raw IA OCR at 0.781. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Theatre of the Greeks, seventh edition (London: Longman and others, 1860) |  | `donaldson-theatre-greeks-1860` | have-raw (IA `theatreofgreekst00dona`) |
+
+## Lewis Campbell (scholarship)
+
+Shelf: `pipeline/lewis-campbell_shelf.json`. A Guide to Greek Tragedy for English Readers (1891) and Religion in Greek Literature (1898), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Guide to Greek Tragedy for English Readers (London: Percival, 1891) |  | `lewis-campbell-guide-greek-tragedy-1891` | have-raw (IA `guidetogreektrag00camp`) |
+| Religion in Greek Literature: a Sketch in Outline (London: Longmans, Green, 1898) |  | `lewis-campbell-religion-greek-literature-1898` | have-raw (IA `religioningreek00camp`) |
+
+## R. G. Moulton (scholarship)
+
+Shelf: `pipeline/moulton_shelf.json`. The Ancient Classical Drama (Clarendon Press, 1890), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Ancient Classical Drama: a Study in Literary Evolution (Oxford: Clarendon Press, 1890) |  | `moulton-ancient-classical-drama-1890` | have-raw (IA `ancientclassic00moul`) |
+
+## C. C. Felton (scholarship)
+
+Shelf: `pipeline/felton_shelf.json`. Greece, Ancient and Modern, two volumes in one, 9th ed. (Houghton, Mifflin, 1893), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Greece, Ancient and Modern: Lectures Delivered before the Lowell Institute, two volumes in one (Boston: Houghton, Mifflin, 1893) |  | `felton-greece-ancient-modern-1893` | have-raw (IA `greeceancientmod00feltiala`) |
+
+## W. M. Leake (scholarship)
+
+Shelf: `pipeline/leake_shelf.json`. The Topography of Athens and the Demi, 2nd ed., 2 vols. (1841); Travels in Northern Greece, 4 vols. (1835); Travels in the Morea, vols. I and III (1830). Raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Topography of Athens, with some remarks on its antiquities, second edition, vol. I (London: J. Rodwell, 1841) |  | `leake-topography-athens-v1-1841` | have-raw (IA `topographyathen02leakgoog`) |
+| The Topography of Athens and the Demi, vol. II, The Demi of Attica, second edition (London: J. Rodwell, 1841) |  | `leake-demi-attica-v2-1841` | have-raw (IA `topographyathen05leakgoog`) |
+| Travels in Northern Greece, in four volumes, vol. I (London: J. Rodwell, 1835) |  | `leake-northern-greece-v1-1835` | have-raw (IA `travelsinnorthe01leakgoog`) |
+| Travels in Northern Greece, in four volumes, vol. II (London: J. Rodwell, 1835) |  | `leake-northern-greece-v2-1835` | have-raw (IA `gri_33125008698264`) |
+| Travels in Northern Greece, in four volumes, vol. III (London: J. Rodwell, 1835) |  | `leake-northern-greece-v3-1835` | have-raw (IA `gri_000033125008698322`) |
+| Travels in Northern Greece, in four volumes, vol. IV (London: J. Rodwell, 1835) |  | `leake-northern-greece-v4-1835` | have-raw (IA `gri_000433125008698033`) |
+| Travels in the Morea, in three volumes, vol. I (London: John Murray, 1830) |  | `leake-morea-v1-1830` | have-raw (IA `b29350219_0001`) |
+| Travels in the Morea, in three volumes, vol. III (London: John Murray, 1830) |  | `leake-morea-v3-1830` | have-raw (IA `moreatravels03leak`) |
+
+Pending (wishlist): Travels in the Morea vol. II (IA unavailable this round).
+
+## T. R. Glover (scholarship)
+
+Shelf: `pipeline/glover_shelf.json`. The Conflict of Religions in the Early Roman Empire (clean Gutenberg); Life and Letters in the Fourth Century (1901) and Virgil, 2nd ed. (1912), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Conflict of Religions in the Early Roman Empire |  | `glover-conflict-religions-early-roman-empire` | have (PG 39092) |
+| Life and Letters in the Fourth Century (Cambridge: University Press, 1901) |  | `glover-life-letters-fourth-century-1901` | have-raw (IA `lifelettersinfou00glovuoft`) |
+| Virgil, second edition (London: Methuen, 1912) |  | `glover-virgil-1912` | have-raw (IA `virgil00glovrich`) |
+
+## William Ridgeway (scholarship)
+
+Shelf: `pipeline/ridgeway_shelf.json`. The Origin of Metallic Currency (clean Gutenberg); The Early Age of Greece vol. I (1901) and The Origin of Tragedy (1910), raw IA OCR. Vol. II of The Early Age (1931) is not yet US public domain. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Origin of Metallic Currency and Weight Standards |  | `ridgeway-metallic-currency` | have (PG 66160) |
+| The Early Age of Greece, vol. I (Cambridge: University Press, 1901) |  | `ridgeway-early-age-greece-v1-1901` | have-raw (IA `earlyageofgreece0001will`) |
+| The Origin of Tragedy, with special reference to the Greek tragedians (Cambridge: University Press, 1910) |  | `ridgeway-origin-tragedy-1910` | have-raw (IA `cu31924022692853`) |
+
+## T. Rice Holmes (scholarship)
+
+Shelf: `pipeline/rice-holmes_shelf.json`. Ancient Britain and the Invasions of Julius Caesar (clean Gutenberg); Caesar's Conquest of Gaul, 2nd ed. (Clarendon Press, 1911), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Ancient Britain and the Invasions of Julius Caesar |  | `rice-holmes-ancient-britain-caesar` | have (PG 57336) |
+| Caesar's Conquest of Gaul, second edition (Oxford: Clarendon Press, 1911) |  | `rice-holmes-caesars-conquest-gaul-1911` | have-raw (IA `caesarsconquesto00holm`) |
+
+## W. W. Capes (scholarship)
+
+Shelf: `pipeline/capes_shelf.json`. Roman History: The Early Empire (1876) and University Life in Ancient Athens (1877), Longmans, raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Roman History: The Early Empire, from the assassination of Julius Caesar to that of Domitian (London: Longmans, Green, 1876) |  | `capes-early-empire-1876` | have-raw (IA `romanhistoryearl00cape`) |
+| University Life in Ancient Athens (London: Longmans, Green, 1877) |  | `capes-university-life-athens-1877` | have-raw (IA `1877universityli00capeuoft`) |
+
+## J. L. Strachan-Davidson (scholarship)
+
+Shelf: `pipeline/strachan-davidson_shelf.json`. Cicero and the Fall of the Roman Republic (Putnam, 1894), raw IA OCR. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Cicero and the Fall of the Roman Republic (New York and London: Putnam, 1894) |  | `strachan-davidson-cicero-1894` | have-raw (IA `ciceroandthefall014652mbp`) |
+
+## Edwyn Bevan (scholarship)
+
+Shelf: `pipeline/edwyn-bevan_shelf.json`. The House of Seleucus vol. I (1902) and Stoics and Sceptics (1913), raw IA OCR. Bevan died 1943. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The House of Seleucus, vol. I (London: Edward Arnold, 1902) |  | `edwyn-bevan-house-seleucus-v1-1902` | have-raw (IA `houseofseleucus01bevauoft`) |
+| Stoics and Sceptics: four lectures delivered in Oxford (Oxford University Press, 1913) |  | `edwyn-bevan-stoics-sceptics-1913` | have-raw (IA `stoicsscepticsfo00beva`) |
+
+Pending (wishlist): The House of Seleucus vol. II (1902).
+
+## Charles Oman (scholarship)
+
+Shelf: `pipeline/oman_shelf.json`. Seven Roman Statesmen of the Later Republic (Edward Arnold, 1902; a 1929 impression), raw IA OCR. Oman died 1946. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Seven Roman Statesmen of the Later Republic (London: Edward Arnold, 1902; impression of 1929) |  | `oman-seven-roman-statesmen-1929` | have-raw (IA `cu31924028296345`) |
+
+## C. E. Bennett (reference)
+
+Shelf: `pipeline/c-e-bennett_shelf.json`. New Latin Grammar (1918 text), clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| New Latin Grammar |  | `c-e-bennett-new-latin-grammar` | have (PG 15665) |
+
+## G. M. Lane (reference)
+
+Shelf: `pipeline/lane-morgan_shelf.json`. A Latin Grammar for Schools and Colleges (completed by M. H. Morgan; 1898, 1903), clean Gutenberg. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Latin Grammar for Schools and Colleges |  | `lane-latin-grammar` | have (PG 44653) |
+
+## Allen and Greenough (reference)
+
+Shelf: `pipeline/allen-greenough_shelf.json`. Latin Grammar Founded on Comparative Grammar, revised edition (Ginn, 1887), raw IA OCR at 0.80. Not minted.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Latin Grammar Founded on Comparative Grammar, revised edition (Boston: Ginn, 1887) |  | `allen-greenough-latin-grammar-1887` | have-raw (IA `latingrammar00greegoog`) |
 
 ## Perseus census (overflow)
 

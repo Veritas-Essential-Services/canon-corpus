@@ -1,0 +1,156 @@
+{
+ "_about": "Public-domain Andrew Jukes (1815-1901, Church of England, sometime Brethren) for the Word Hoard: 8 books from Internet Archive scans, 1847-1889: The Law of the Offerings (1847), The Characteristic Differences of the Four Gospels (1853), The Types of Genesis (1858), The Second Death and the Restitution of All Things (second edition, 1869), The New Man and the Eternal Life (1881), The Mystery of the Kingdom, Part I (third edition, 1884), The Names of God in Holy Scripture (first edition, 1888) and Pharisaism and Self-Sacrifice (undated). Raw OCR. Added 2026-10-10 by lane A, round 20 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "jukes"
+ ],
+ "_surname": [
+  "andrew jukes",
+  "jukes, andrew",
+  "by andrew jukes"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jukes-law-of-offerings": [
+   "lawofferingsinl01jukegoog",
+   "The Law of the Offerings in Leviticus I.-VII. (London: James Nisbet, 1847)"
+  ],
+  "jukes-four-gospels": [
+   "characteristicd00jukegoog",
+   "The Characteristic Differences of the Four Gospels (London: James Nisbet, 1853)"
+  ],
+  "jukes-types-of-genesis": [
+   "typesgenesisbri00jukegoog",
+   "The Types of Genesis briefly considered as revealing the development of human nature (London: Longman, Brown, Green, Longmans, and Roberts, 1858)"
+  ],
+  "jukes-second-death": [
+   "seconddeathresti00juke_0",
+   "The Second Death and the Restitution of All Things, second edition (London: Longmans, Green, 1869)"
+  ],
+  "jukes-new-man": [
+   "newmanandeterna00jukegoog",
+   "The New Man and the Eternal Life: Notes on the Reiterated Amens of the Son of God (London: Longmans, Green, 1881)"
+  ],
+  "jukes-mystery-of-kingdom": [
+   "the-mystery-of-the-kingdom",
+   "The Mystery of the Kingdom traced through the Four Books of Kings, Part I, third edition (London: Longmans, Green, 1884)",
+   "The Mystery of the Kingdom_djvu.txt"
+  ],
+  "jukes-names-of-god": [
+   "bwb_T3-CBT-064",
+   "The Names of God in Holy Scripture, first edition (London: Longmans, Green, 1888)"
+  ],
+  "jukes-pharisaism": [
+   "bim_early-english-books-1641-1700_andrew-jukes_1923_ia40330117-15",
+   "Pharisaism and Self-Sacrifice: Thoughts on Schism and its Remedy (London: Morgan and Chase, 38 Ludgate Hill; no year on title page, IA's 1923 date cannot be right for this imprint)"
+  ]
+ },
+ "_alternates": {
+  "jukes-second-death-1867": "The Second Death, first edition (Longmans, 1867; seconddeathandr03jukegoog): no name on the title page; later editions 1869-1881 also on IA",
+  "jukes-editions": "Later editions of Law of the Offerings, Four Gospels, Types of Genesis (to 1910), Names of God (1889) and American issues of The New Man"
+ },
+ "_excluded": {
+  "jukes-reprints": "Kregel, Portavoz and Concordant reprints (1966-2013); undated Pickering and Inglis Law of the Offerings, probably after 1930",
+  "jukes-namesakes": "J. Beete Jukes and others"
+ },
+ "_identity_checked": {
+  "jukes-law-of-offerings": {
+   "author": "title page read: 'Andrew Jukes', OCR clips the final letter"
+  },
+  "jukes-new-man": {
+   "author": "title page read: 'By Andrew Jukes' (OCR 'ANDEEW .JUKES'), London: Longmans, Green, 1881"
+  }
+ },
+ "_pending": {},
+ "_checks": {
+  "jukes-law-of-offerings": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jukes-four-gospels": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "andrew jukes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jukes-types-of-genesis": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "andrew jukes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jukes-second-death": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "andrew jukes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jukes-new-man": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jukes-mystery-of-kingdom": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "andrew jukes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jukes-names-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "andrew jukes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jukes-pharisaism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "andrew jukes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

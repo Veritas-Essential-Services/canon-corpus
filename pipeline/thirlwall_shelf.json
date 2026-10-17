@@ -1,0 +1,136 @@
+{
+ "_about": "Connop Thirlwall (1797-1875), Bishop of St David's: The History of Greece, new edition in eight volumes (London: Longman, 1845-1852), raw IA OCR, one volume per scan from several libraries. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). Only his History of Greece is taken here. No uids minted.",
+ "_name_words": [
+  "thirlwall"
+ ],
+ "_surname": [
+  "connop thirlwall",
+  "thirlwall, connop"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thirlwall-history-of-greece-v1-1845": [
+   "historyofgreece01thir",
+   "The History of Greece, new edition, vol. I (London: Longman, Brown, Green, and Longmans, 1845)"
+  ],
+  "thirlwall-history-of-greece-v2-1846": [
+   "historyofgreece02thir",
+   "The History of Greece, new edition, vol. II (London: Longman, Brown, Green, and Longmans, 1846)"
+  ],
+  "thirlwall-history-of-greece-v3-1846": [
+   "historyofgreece03thir",
+   "The History of Greece, new edition, vol. III (London: Longman, Brown, Green, and Longmans, 1846)"
+  ],
+  "thirlwall-history-of-greece-v4-1847": [
+   "ahistorygreece03thirgoog",
+   "The History of Greece, new edition, vol. IV (London: Longman, Brown, Green, and Longmans, 1847)"
+  ],
+  "thirlwall-history-of-greece-v5-1849": [
+   "historyofgreece05thir",
+   "The History of Greece, new edition, vol. V (London: Longman, Brown, Green, and Longmans, 1849)"
+  ],
+  "thirlwall-history-of-greece-v6-1851": [
+   "historyofgreece06thir",
+   "The History of Greece, new edition, vol. VI (London: Longman, Brown, Green, and Longmans, 1851)"
+  ],
+  "thirlwall-history-of-greece-v7-1852": [
+   "historyofgreece07thiriala",
+   "The History of Greece, new edition, vol. VII (London: Longman, Brown, Green, and Longmans, 1852)"
+  ],
+  "thirlwall-history-of-greece-v8-1852": [
+   "ahistorygreece04thirgoog",
+   "The History of Greece, new edition, vol. VIII (London: Longman, Brown, Green, and Longmans, 1852)"
+  ]
+ },
+ "_checks": {
+  "thirlwall-history-of-greece-v1-1845": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "connop thirlwall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thirlwall-history-of-greece-v2-1846": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "connop thirlwall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thirlwall-history-of-greece-v3-1846": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "connop thirlwall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thirlwall-history-of-greece-v4-1847": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "connop thirlwall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thirlwall-history-of-greece-v5-1849": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "connop thirlwall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thirlwall-history-of-greece-v6-1851": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "connop thirlwall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thirlwall-history-of-greece-v7-1852": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "connop thirlwall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1845-<1852>",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thirlwall-history-of-greece-v8-1852": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "connop thirlwall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

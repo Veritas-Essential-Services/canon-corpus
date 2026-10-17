@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Mary Howitt (1799-1888): Fredrika Bremer's novels (1843-44). Her Andersen is on the andersen shelf, not here. US public domain. Added 2026-10-10 by lane C (round 19); Adam may veto. No uids minted.",
+ "_name_words": [
+  "mary howitt"
+ ],
+ "_surname": [
+  "mary howitt"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "how-20156": [
+   20156,
+   "Strife and Peace"
+  ],
+  "how-20746": [
+   20746,
+   "The Home; Or, Life in Sweden"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "mary-howitt-bremer-strife-and-peace": {
+   "source": "how-20156",
+   "of": "Fredrika Bremer",
+   "work": "Strife and Peace",
+   "translated": "1843-1844 (see the Gutenberg header)",
+   "translator": "Mary Howitt",
+   "scan_edition": "Project Gutenberg 20156 (clean text)"
+  },
+  "mary-howitt-bremer-the-home-or-life-in-sweden": {
+   "source": "how-20746",
+   "of": "Fredrika Bremer",
+   "work": "The Home; Or, Life in Sweden",
+   "translated": "1843-1844 (see the Gutenberg header)",
+   "translator": "Mary Howitt",
+   "scan_edition": "Project Gutenberg 20746 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "andersen": "Andersen's True Story of My Life (7007) and Wonderful Stories for Children (43600) in her translation are already on andersen_shelf.json."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "how-20156": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary howitt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Howitt"
+  },
+  "how-20746": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary howitt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Howitt"
+  }
+ },
+ "_verified": {
+  "how-20156": {
+   "pg": 20156,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Howitt"
+  },
+  "how-20746": {
+   "pg": 20746,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Howitt"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -3107,6 +3107,212 @@ Shelf: `pipeline/napier_shelf.json` (2026-10-02; added at the coordinator's rela
 |---|---|---|
 | Folk lore | have | PG 15792, `napier-folk-lore-west-of-scotland` (403 units) |
 
+## Patrick Buchan
+
+Shelf: `pipeline/patrick-buchan_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Two Scottish fairy legends in verse, with glossary; cut by poem. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Legends of the North: The Guidman O' Inglismill and The Fairy Bride | have | PG 37375, `pbuchan-legends-of-the-north` (218 units) |
+
+## William Henry Furness 3d
+
+Shelf: `pipeline/furness_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). A sketch of Bornean folklore; one essay. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Folk-lore in Borneo | have | PG 30233, `furness-folk-lore-in-borneo` (51 units) |
+
+## Anthony R. Montalba
+
+Shelf: `pipeline/montalba_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Fairy tales from many countries in his English; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Fairy Tales From All Nations | have | PG 34956, `montalba-fairy-tales-from-all-nations` (1111 units) |
+
+## Thomas Day
+
+Shelf: `pipeline/thomas-day_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Eighteenth-century moral tales for children; cut by chapter and inset story. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The History of Sandford and Merton | have | PG 30274, `tday-history-of-sandford-and-merton` (1186 units) |
+| The History of Little Jack, a Foundling | have | PG 42805, `tday-history-of-little-jack` (61 units) |
+
+## F. W. Farrar
+
+Shelf: `pipeline/farrar_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Three school stories; cut by chapter. His sermons and commentaries are Lane A's. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Eric, or Little by Little | have | PG 23126, `farrar-eric-or-little-by-little` (2145 units) |
+| Julian Home | have | PG 23127, `farrar-julian-home` (2015 units) |
+| St. Winifred's; or, The World of School | have | PG 24329, `farrar-st-winifreds` (2325 units) |
+
+## Talbot Baines Reed
+
+Shelf: `pipeline/talbot-baines-reed_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Five school stories; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Fifth Form at Saint Dominic's: A School Story | have | PG 24632, `tbreed-fifth-form-at-saint-dominics` (3180 units) |
+| The Willoughby Captains | have | PG 21044, `tbreed-willoughby-captains` (4051 units) |
+| The Cock-House at Fellsgarth | have | PG 21037, `tbreed-cock-house-at-fellsgarth` (2911 units) |
+| The Adventures of a Three-Guinea Watch | have | PG 21035, `tbreed-three-guinea-watch` (2267 units) |
+| Parkhurst Boys, and Other Stories of School Life | have | PG 21137, `tbreed-parkhurst-boys` (2136 units) |
+
+## Edmondo De Amicis
+
+Shelf: `pipeline/de-amicis_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). An Italian schoolboy's year in diary form, with the monthly tales; cut by month and entry. Translated by Isabel F. Hapgood. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Cuore (Heart): An Italian Schoolboy's Journal | have | PG 28961, `deamicis-cuore-heart` (1593 units) |
+
+## Wilhelm Busch
+
+Shelf: `pipeline/wilhelm-busch_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Max and Maurice in verse; cut by trick. Translated by Charles T. Brooks. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Max and Maurice: A Juvenile History in Seven Tricks | have | PG 28847, `wbusch-max-and-maurice` (162 units) |
+
+## Edward Lear
+
+Shelf: `pipeline/edward-lear_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Four nonsense books; cut by section, poem and numbered stanza. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Book of Nonsense | have | PG 13646, `lear-book-of-nonsense` (124 units) |
+| Nonsense Songs | have | PG 13647, `lear-nonsense-songs` (452 units) |
+| More Nonsense | have | PG 13648, `lear-more-nonsense` (155 units) |
+| Laughable Lyrics | have | PG 13649, `lear-laughable-lyrics` (177 units) |
+
+## Palmer Cox
+
+Shelf: `pipeline/palmer-cox_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Three Brownie books in verse; cut by poem or chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Brownies: Their Book | have | PG 32210, `pcox-brownies-their-book` (340 units) |
+| Another Brownie Book | have | PG 58598, `pcox-another-brownie-book` (168 units) |
+| The Brownies and Prince Florimel; Or, Brownieland, Fairyland, and Demonland | have | PG 40502, `pcox-brownies-and-prince-florimel` (1312 units) |
+
+## Kate Greenaway
+
+Shelf: `pipeline/kate-greenaway_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Two books of her own rhymes; Under the Window by rhyme, Marigold Garden by poem. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Under the Window: Pictures & Rhymes for Children | have | PG 22888, `greenaway-under-the-window` (157 units) |
+| Marigold Garden | have | PG 19541, `greenaway-marigold-garden` (192 units) |
+| greenaway-a-apple-pie | excluded | PG 15809, A Apple Pie: not taken. The rhyme is traditional (Greenaway illustrated it), its text is about a page of letter lines, and the Gutenberg file carries an unsigned, undated publisher's note from a later reprint. |
+
+## Mary Martha Sherwood
+
+Shelf: `pipeline/mary-martha-sherwood_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Two moral tales for children; one section each. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Wishing Cap | have | PG 63295, `msherwood-wishing-cap` (58 units) |
+| Soffrona and Her Cat Muff | have | PG 58754, `msherwood-soffrona` (56 units) |
+
+## Mrs. O. F. Walton
+
+Shelf: `pipeline/mrs-o-f-walton_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Three evangelical children's stories; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Christie's Old Organ | have | PG 21997, `ofwalton-christies-old-organ` (650 units) |
+| Christie, the King's Servant | have | PG 10728, `ofwalton-christie-the-kings-servant` (667 units) |
+| A Peep Behind the Scenes | have | PG 7437, `ofwalton-peep-behind-the-scenes` (1729 units) |
+
+## W. H. G. Kingston
+
+Shelf: `pipeline/kingston_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Three sea stories for boys; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Peter the Whaler | have | PG 21474, `kingston-peter-the-whaler` (1545 units) |
+| The Three Midshipmen | have | PG 24812, `kingston-three-midshipmen` (1741 units) |
+| Mark Seaworth | have | PG 21477, `kingston-mark-seaworth` (1131 units) |
+
+## Mayne Reid
+
+Shelf: `pipeline/mayne-reid_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Three adventure stories for boys; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Bush Boys | have | PG 21237, `mreid-bush-boys` (1643 units) |
+| The Cliff Climbers | have | PG 21239, `mreid-cliff-climbers` (1233 units) |
+| The Castaways | have | PG 21238, `mreid-castaways` (795 units) |
+
+## Ann and Jane Taylor
+
+Shelf: `pipeline/jane-and-ann-taylor_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Nursery rhymes; cut by poem. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Rhymes for the Nursery | have | PG 77549, `taylors-rhymes-for-the-nursery` (419 units) |
+
+## Michael Barrett
+
+Shelf: `pipeline/michael-barrett_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Short lives of the Scottish saints by feast day; cut by month and saint. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Calendar of Scottish Saints | have | PG 31121, `mbarrett-calendar-of-scottish-saints` (401 units) |
+
+## Elizabeth Prentiss
+
+Shelf: `pipeline/elizabeth-prentiss_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). A children's book in two series; cut by series and chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Little Susy's Little Servants | have | PG 37219, `prentiss-little-susys-little-servants` (400 units) |
+
+## Hugh Miller
+
+Shelf: `pipeline/hugh-miller_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The traditions and legends of Cromarty; cut by chapter. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Scenes and Legends of the North of Scotland | have | PG 71325, `hmiller-scenes-and-legends-of-the-north-of-scotland` (960 units) |
+
+## Emilie Kip Baker
+
+Shelf: `pipeline/emilie-baker_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Greek and Roman myths retold for young readers; cut by story and part. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Stories of Old Greece and Rome | have | PG 45489, `ebaker-stories-of-old-greece-and-rome` (1659 units) |
+
+## E. H. Knatchbull-Hugessen
+
+Shelf: `pipeline/knatchbull-hugessen_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Victorian fairy stories; cut by story, and the ballad by stanza. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| River Legends; Or, Father Thames and Father Rhine | have | PG 44425, `hugessen-river-legends` (649 units) |
+| Uncle Joe's Stories | have | PG 44924, `hugessen-uncle-joes-stories` (1262 units) |
+
+## Louise Seymour Houghton
+
+Shelf: `pipeline/louise-houghton_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). South Slavonic beast tales in a frame of village life; cut by tale. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Russian Grandmother's Wonder Tales | have | PG 45214, `lhoughton-russian-grandmothers-wonder-tales` (1412 units) |
+
+## H. L. Gordon
+
+Shelf: `pipeline/hanford-gordon_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Dakota and Ojibwa legends as narrative poems, with notes; cut by poem and part. Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Legends of the Northwest | have | PG 8122, `hlgordon-legends-of-the-northwest` (525 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

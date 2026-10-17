@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: John Oxenford (1812-1877): Goethe's Autobiography, Truth and Fiction (Bohn, 1848, the later books with A. J. W. Morrison), and Tales from the German (1844, with C. A. Feiling). US public domain. Added 2026-10-10 by lane C (round 28); Adam may veto. No uids minted.",
+ "_name_words": [
+  "john oxenford"
+ ],
+ "_surname": [
+  "john oxenford"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "oxe-32046": [
+   32046,
+   "Tales from the German, comprising specimens from the most celebrated authors"
+  ],
+  "oxe-52654": [
+   52654,
+   "The Autobiography of Goethe"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "oxenford-goethe-the-autobiography-of-goethe": {
+   "source": "oxe-52654",
+   "of": "Johann Wolfgang von Goethe",
+   "work": "The Autobiography of Goethe",
+   "translated": "1844-1848 (see the Gutenberg header)",
+   "translator": "John Oxenford (with A. J. W. Morrison)",
+   "scan_edition": "Project Gutenberg 52654 (clean text)"
+  },
+  "oxenford-tales-from-the-german": {
+   "source": "oxe-32046",
+   "of": "Various (Hauff, Hoffmann and others)",
+   "work": "Tales from the German, comprising specimens from the most celebrated authors",
+   "translated": "1844-1848 (see the Gutenberg header)",
+   "translator": "John Oxenford (with C. A. Feiling)",
+   "scan_edition": "Project Gutenberg 32046 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-5733": "Truth and Fiction (5733) is Oxenford's part alone, about half the text of the full Bohn Autobiography (52654), which is used."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "oxe-32046": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john oxenford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Oxenford"
+  },
+  "oxe-52654": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john oxenford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. J. W. Morrison; John Oxenford"
+  }
+ },
+ "_verified": {
+  "oxe-32046": {
+   "pg": 32046,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Oxenford"
+  },
+  "oxe-52654": {
+   "pg": 52654,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. J. W. Morrison"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

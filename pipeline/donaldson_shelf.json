@@ -1,0 +1,32 @@
+{
+ "_about": "John William Donaldson (1811-1861): The Theatre of the Greeks, a treatise on the history and exhibition of the Greek drama, seventh edition, revised, enlarged and in part remodelled (London: Longman and others, 1860), raw IA OCR at 0.781, just over the bar. IA also holds earlier forms of the book (1830, catalogued with P. W. Buckham; 1836); the 1860 seventh edition is taken as Donaldson's own revised treatise. He continued K. O. Müller's literary history (k-o-muller shelf). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "donaldson"
+ ],
+ "_surname": [
+  "john william donaldson",
+  "j. w. donaldson",
+  "donaldson, john william"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "donaldson-theatre-greeks-1860": [
+   "theatreofgreekst00dona",
+   "The Theatre of the Greeks, seventh edition (London: Longman and others, 1860)"
+  ]
+ },
+ "_checks": {
+  "donaldson-theatre-greeks-1860": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john william donaldson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

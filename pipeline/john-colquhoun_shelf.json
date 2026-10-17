@@ -1,0 +1,150 @@
+{
+ "_about": "Public-domain John Colquhoun (1748-1827, Church of Scotland, minister at Leith) for the Word Hoard: 8 books from Internet Archive scans, 1814-1836, among them A Treatise on the Law and the Gospel, Treatise on the Covenant of Grace, Treatise on the Covenant of Works, A Treatise on Spiritual Comfort and View of Evangelical Repentance. Raw OCR. Added 2026-10-10 by lane A, round 20 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "colquhoun"
+ ],
+ "_surname": [
+  "john colquhoun",
+  "colquhoun, john",
+  "john colquhoun, d.d.",
+  "colquhoun",
+  "colquhodn"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "colquhoun-spiritual-comfort-1814": [
+   "atreatiseonspir00colqgoog",
+   "A Treatise on Spiritual Comfort, second edition, corrected (Edinburgh: J. Ogle and others, 1814)"
+  ],
+  "colquhoun-law-and-gospel": [
+   "treatiseonlawgos00colq_1",
+   "A Treatise on the Law and the Gospel (Edinburgh: J. Ogle and others, 1816)"
+  ],
+  "colquhoun-covenant-of-grace": [
+   "treatiseoncovena00colq_0",
+   "Treatise on the Covenant of Grace (Edinburgh: Ogle, Allardice and Thomson, and others, 1818)"
+  ],
+  "colquhoun-covenant-of-works": [
+   "treatiseoncovena00colq",
+   "Treatise on the Covenant of Works (Edinburgh: Thomsons, Brothers, 1821)"
+  ],
+  "colquhoun-spiritual-comfort-1822": [
+   "treatiseonspirit00colq",
+   "Treatise on Spiritual Comfort, third edition improved (Edinburgh: Thomsons, Brothers, 1822)"
+  ],
+  "colquhoun-evangelical-repentance": [
+   "viewofevangelica00colq",
+   "View of Evangelical Repentance, from the Sacred Records (Edinburgh: Thomsons, Brothers; title-page year unreadable in the OCR, catalogued 1825)"
+  ],
+  "colquhoun-promises-of-gospel": [
+   "collectionofprom00colq",
+   "A Collection of the Promises of the Gospel, arranged under their proper heads, with Reflections and Exhortations (Edinburgh: Thomsons, Brothers, MDCCCXXV)"
+  ],
+  "colquhoun-sermons": [
+   "sermonschieflyo00colqgoog",
+   "Sermons, chiefly on Doctrinal Subjects, posthumous (Edinburgh: J. and D. Collie for W. Whyte and others, 1836)"
+  ]
+ },
+ "_alternates": {
+  "colquhoun-copies": "Second copies: Law and Gospel 1819 (IA treatiseonlawgos00colq_0); Covenant of Grace 1818 (treatiseoncovena00colq_2); Covenant of Works 1821 (treatiseoncovena00colq_1); Spiritual Comfort 1814 (ATreatiseOnSpiritualComfort); Evangelical Repentance (viewofevangelica00colq_0)",
+  "colquhoun-american": "Law and Gospel, first American edition (New York: Wiley and Long, 1835; IA treatiseonlawgos00colq, treatiseonlawgos00colq_2), OCR garbles the name"
+ },
+ "_excluded": {
+  "colquhoun-namesakes": "John Colquhoun of Baldernock (1766 sermon) and other namesakes",
+  "colquhoun-gaelic": "Gaelic translation (Edinburgh, 1826)",
+  "colquhoun-reprints": "modern reprints (1965, 1993)"
+ },
+ "_pending": {},
+ "_checks": {
+  "colquhoun-spiritual-comfort-1814": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john colquhoun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "colquhoun-law-and-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john colquhoun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1816",
+   "ia_date": "1816",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "colquhoun-covenant-of-grace": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john colquhoun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "colquhoun-covenant-of-works": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john colquhoun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "colquhoun-spiritual-comfort-1822": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john colquhoun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "colquhoun-evangelical-repentance": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john colquhoun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "colquhoun-promises-of-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john colquhoun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "colquhoun-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john colquhoun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

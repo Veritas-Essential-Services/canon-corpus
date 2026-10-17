@@ -748,3 +748,237 @@
 
 ## 2026-10-10 09:50 CDT: round 15 complete
 - 14 shelves (Boyce, Dagg, Broadus, Milner, Wayland, Adam Clarke, W. B. Pope, Luther, Symington, John Dick, Krummacher, Hengstenberg, Neander, Tholuck). Shelf names and source ids checked on every remote branch (only generic CCEL work names like `life` and `acts` matched, under other authors). The fetcher cutoff fix from lane C was refused by this session's permissions and is logged for Adam. Round 16 follows.
+
+## 2026-10-10 10:08 CDT — william-arnot done
+- `pipeline/william-arnot_shelf.json`: 0 CCEL, 1 PG, 6 IA. Title pages read for arnot-anchor-of-soul, arnot-life-james-hamilton-1870 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:08 CDT — james-hamilton-london done
+- `pipeline/james-hamilton-london_shelf.json`: 0 CCEL, 1 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:08 CDT — john-ker done
+- `pipeline/john-ker_shelf.json`: 0 CCEL, 0 PG, 6 IA. Two "0000"-style ids (Sermons 1885, Thoughts 1888); title pages read, in `_rights_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:08 CDT — james-stalker done
+- `pipeline/james-stalker_shelf.json`: 0 CCEL, 1 PG, 6 IA. Title pages read for stalker-trial-death-1894 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:08 CDT — w-g-blaikie done
+- `pipeline/w-g-blaikie_shelf.json`: 3 CCEL, 2 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:28 CDT — frederic-godet done
+- `pipeline/frederic-godet_shelf.json`: 0 CCEL, 0 PG, 13 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:28 CDT — i-a-dorner done
+- `pipeline/i-a-dorner_shelf.json`: 0 CCEL, 0 PG, 12 IA. Title pages read for dorner-system-4, dorner-person-1-1, dorner-person-2-2, dorner-person-2-3, dorner-protestant-theology-1, dorner-protestant-theology-2 (OCR garbles the name), recorded in `_identity_checked`. Six title pages garble his name ("CORNER", "DOENEE"); each read. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:28 CDT — julius-muller done
+- `pipeline/julius-muller_shelf.json`: 0 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:28 CDT — rudolf-stier done
+- `pipeline/rudolf-stier_shelf.json`: 0 CCEL, 0 PG, 10 IA. Title pages read for stier-words-1, stier-words-2, stier-words-4, stier-words-5, stier-words-7, stier-words-8, stier-risen-saviour-1864 (OCR garbles the name), recorded in `_identity_checked`. The OCR reads his name "EUDOLF STIEE" on most title pages; each read. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:28 CDT — c-e-luthardt done
+- `pipeline/c-e-luthardt_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for luthardt-st-john-author-1875, luthardt-st-johns-gospel-1 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:28 CDT — theodor-christlieb done
+- `pipeline/theodor-christlieb_shelf.json`: 0 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:29 CDT — j-h-kurtz done
+- `pipeline/j-h-kurtz_shelf.json`: 0 CCEL, 3 PG, 5 IA. Title pages read for kurtz-old-covenant-2, kurtz-old-covenant-3, kurtz-sacrificial-worship-1863 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 10:30 CDT: round 16 complete
+- 12 shelves (Arnot, James Hamilton of Regent Square, John Ker, Stalker, Blaikie, Godet, Dorner, Julius Müller, Stier, Luthardt, Christlieb, Kurtz). Shelf names and source ids checked on every remote branch: no clashes. Round 17 next: the six pickups the Classical reading-lists thread left for existing shelves, then new authors.
+
+## 2026-10-10 10:33 CDT: round 17 pickups
+- `spurgeon_shelf.json`: +4 Gutenberg, +3 IA (Lectures to My Students series 1-3, Soul-Winner, Wicket Gate, Talks to Farmers, Gleanings). `charles-finney_shelf.json`: +1 IA (Memoirs, 1876). Perkins's Reformed Catholike is already in Workes vol. 1; Ryle's Thoughts for Young Men has no pre-1930 scan found; Dabney's Jackson stays excluded (military biography); Beza's shelf is PR #14's. `--verify --record` on both shelves: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:00 CDT — john-berridge done
+- `pipeline/john-berridge_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for berridge-fragment-1760 (OCR garbles the name), recorded in `_identity_checked`. Fragment of the True Religion attributed by catalogue (anonymous title page). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:00 CDT — rowland-hill done
+- `pipeline/rowland-hill-surrey-chapel_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for rhill-psalms-hymns (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:00 CDT — j-c-philpot done
+- `pipeline/j-c-philpot_shelf.json`: 0 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:00 CDT — william-huntington done
+- `pipeline/william-huntington_shelf.json`: 0 CCEL, 0 PG, 15 IA. Title pages read for huntington-works-18 (OCR garbles the name), recorded in `_identity_checked`. Works volumes are an incomplete set. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:00 CDT — john-brine done
+- `pipeline/john-brine_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for brine-certain-efficacy, brine-vindication-1746, brine-true-sense-atonement, brine-eternal-justification, brine-motives-love-unity, brine-jabez-1736 (OCR garbles the name), recorded in `_identity_checked`. ECCO OCR is rough (long s). `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:17 CDT — r-w-dale done
+- `pipeline/r-w-dale_shelf.json`: 0 CCEL, 0 PG, 10 IA. Title pages read for dale-fellowship-with-christ (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:17 CDT — joseph-parker done
+- `pipeline/joseph-parker_shelf.json`: 0 CCEL, 0 PG, 39 IA. Title pages read for parker-ecce-deus, parker-peoples-bible-08, parker-peoples-bible-15, parker-peoples-bible-26 (OCR garbles the name), recorded in `_identity_checked`. Large shelf: 39 volumes. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:17 CDT — christmas-evans done
+- `pipeline/christmas-evans_shelf.json`: 0 CCEL, 2 PG, 2 IA. Three of the four items are biographies by other hands. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:18 CDT — thomas-binney done
+- `pipeline/thomas-binney_shelf.json`: 0 CCEL, 1 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:18 CDT — henry-drummond done
+- `pipeline/henry-drummond_shelf.json`: 9 CCEL, 2 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:18 CDT — round 17 closed
+- Ten new shelves (Berridge, Rowland Hill of Surrey Chapel, J. C. Philpot, Huntington, Brine, R. W. Dale, Joseph Parker, Christmas Evans, Thomas Binney, Henry Drummond), 104 items; pickups on Spurgeon and Finney; Gadsby skipped. 0 uids minted.
+
+## 2026-10-10 11:54 CDT — a-j-gordon done
+- `pipeline/a-j-gordon_shelf.json`: 0 CCEL, 1 PG, 8 IA. Title pages read for gordon-gods-tenth (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 11:54 CDT — c-i-scofield done
+- `pipeline/c-i-scofield_shelf.json`: 0 CCEL, 0 PG, 12 IA. Course of Study vols. 1-3 carry only a 1907 copyright, no printing year. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — h-a-ironside done
+- `pipeline/h-a-ironside_shelf.json`: 0 CCEL, 0 PG, 5 IA. The Loizeaux address on the title page (1 East 13th Street) is the dating evidence for two undated items. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — a-c-gaebelein done
+- `pipeline/a-c-gaebelein_shelf.json`: 0 CCEL, 5 PG, 30 IA. Title pages read for gaebelein-matthew-1903, gaebelein-acts, gaebelein-john, gaebelein-christianity-religion (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — arthur-w-pink done
+- `pipeline/arthur-w-pink_shelf.json`: 4 CCEL, 0 PG, 1 IA. CCEL's Pink texts are Logos e-texts; The Antichrist names no print source. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — john-l-girardeau done
+- `pipeline/john-l-girardeau_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for girardeau-conscience-civil-government, girardeau-remembrance-righteous (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — e-y-mullins done
+- `pipeline/e-y-mullins_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for mullins-axioms (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — b-h-carroll done
+- `pipeline/b-h-carroll_shelf.json`: 0 CCEL, 0 PG, 10 IA. An incomplete set of the Interpretation. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:10 CDT — j-r-graves done
+- `pipeline/j-r-graves_shelf.json`: 0 CCEL, 0 PG, 14 IA. Title pages read for graves-trilemma-1860 (OCR garbles the name), recorded in `_identity_checked`. Seven items are 1928 Texarkana reprints. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:25 CDT — augustus-h-strong done
+- `pipeline/augustus-h-strong_shelf.json`: 0 CCEL, 4 PG, 17 IA. Title pages read for strong-transcendent-element (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:25 CDT — a-b-simpson done
+- `pipeline/a-b-simpson_shelf.json`: 0 CCEL, 1 PG, 35 IA. Title pages read for simpson-christ-bible-tabernacle, simpson-divine-emblems (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:25 CDT — a-t-pierson done
+- `pipeline/a-t-pierson_shelf.json`: 0 CCEL, 1 PG, 38 IA. Title pages read for pierson-greatest-work, pierson-life-power (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:26 CDT — round 18 closed
+- Twelve new shelves (A. J. Gordon, Scofield, Ironside, Gaebelein, Pink, Girardeau, Mullins, B. H. Carroll, J. R. Graves, Augustus H. Strong, A. B. Simpson, A. T. Pierson), 203 items. 0 uids minted.
+
+## 2026-10-10 12:46 CDT — asa-mahan done
+- `pipeline/asa-mahan_shelf.json`: 0 CCEL, 1 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:46 CDT — thomas-c-upham done
+- `pipeline/thomas-c-upham_shelf.json`: 0 CCEL, 0 PG, 11 IA. Title pages read for upham-religious-maxims, upham-divine-union, upham-ratio-disciplinae (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:46 CDT — moses-d-hoge done
+- `pipeline/moses-d-hoge_shelf.json`: 0 CCEL, 0 PG, 5 IA. Small shelf: most surviving material is about him. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 12:46 CDT — charles-p-krauth done
+- `pipeline/charles-p-krauth_shelf.json`: 0 CCEL, 0 PG, 9 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:14 CDT — s-s-schmucker done
+- `pipeline/s-s-schmucker_shelf.json`: 0 CCEL, 1 PG, 14 IA. Title pages read for schmucker-christian-pulpit, schmucker-peace-of-zion (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — c-f-w-walther done
+- `pipeline/c-f-w-walther_shelf.json`: 0 CCEL, 0 PG, 3 IA. Small shelf. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — e-v-gerhart done
+- `pipeline/e-v-gerhart_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for gerhart-great-tribulation (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — w-h-griffith-thomas done
+- `pipeline/w-h-griffith-thomas_shelf.json`: 0 CCEL, 1 PG, 19 IA. Title pages read for gthomas-holy-spirit (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — p-t-forsyth done
+- `pipeline/p-t-forsyth_shelf.json`: 0 CCEL, 0 PG, 24 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — robert-flint done
+- `pipeline/robert-flint_shelf.json`: 0 CCEL, 1 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — h-r-mackintosh done
+- `pipeline/h-r-mackintosh_shelf.json`: 0 CCEL, 0 PG, 11 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — g-campbell-morgan done
+- `pipeline/g-campbell-morgan_shelf.json`: 0 CCEL, 0 PG, 36 IA. Title pages read for morgan-analyzed-bible-01 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:15 CDT — round 19 closed
+- Twelve new shelves (Mahan, Upham, Moses D. Hoge, Krauth, Schmucker, Walther, Gerhart, Griffith Thomas, Forsyth, Flint, H. R. Mackintosh, Campbell Morgan). 0 uids minted.
+
+## 2026-10-10 13:51 CDT — j-n-darby done
+- `pipeline/j-n-darby_shelf.json`: 0 CCEL, 0 PG, 17 IA. Title pages read for darby-synopsis-05, darby-newman-apologia (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:52 CDT — john-colquhoun done
+- `pipeline/john-colquhoun_shelf.json`: 0 CCEL, 0 PG, 8 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:52 CDT — f-j-a-hort done
+- `pipeline/f-j-a-hort_shelf.json`: 1 CCEL, 0 PG, 12 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:52 CDT — legh-richmond done
+- `pipeline/legh-richmond_shelf.json`: 0 CCEL, 2 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:56 CDT — william-kelly-brethren done
+- `pipeline/william-kelly-brethren_shelf.json`: 0 CCEL, 0 PG, 29 IA. Title pages read for kelly-daniel-notes, kelly-galatians, kelly-abram, kelly-elements-prophecy (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:56 CDT — f-w-grant done
+- `pipeline/f-w-grant_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for grant-numerical-bible-2, grant-numerical-bible-5 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:56 CDT — b-w-newton done
+- `pipeline/b-w-newton_shelf.json`: 0 CCEL, 0 PG, 16 IA. Title pages read for newton-aids-prophetic, newton-court-of-arches (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 13:56 CDT — james-fraser-brea done
+- `pipeline/james-fraser-brea_shelf.json`: 0 CCEL, 0 PG, 6 IA. Title pages read for fraser-brea-meditations, fraser-brea-saving-faith-1722, fraser-brea-memoirs, fraser-brea-prelacy-idol, fraser-brea-justifying-faith-1749 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:05 CDT — robert-govett done
+- `pipeline/robert-govett_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for govett-not-water-baptism, govett-brides-bath (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:05 CDT — andrew-jukes done
+- `pipeline/andrew-jukes_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for jukes-law-of-offerings, jukes-new-man (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:05 CDT — h-w-soltau done
+- `pipeline/h-w-soltau_shelf.json`: 0 CCEL, 0 PG, 4 IA. Title pages read for soltau-soul-difficulties (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:05 CDT — john-kitto done
+- `pipeline/john-kitto_shelf.json`: 0 CCEL, 0 PG, 18 IA. Title pages read for kitto-daily-bible-08 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:10 CDT — round 20 closed
+- Twelve shelves, 138 items (1 CCEL, 2 Gutenberg, 135 IA). Closing paragraph and veto points in DIGEST-A. 0 uids minted.
+
+## 2026-10-10 14:38 CDT — anthony-norris-groves done
+- `pipeline/anthony-norris-groves_shelf.json`: 0 CCEL, 2 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:38 CDT — j-w-burgon done
+- `pipeline/j-w-burgon_shelf.json`: 2 CCEL, 2 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:38 CDT — james-mccosh done
+- `pipeline/james-mccosh_shelf.json`: 0 CCEL, 0 PG, 19 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:42 CDT — alfred-edersheim done
+- `pipeline/alfred-edersheim_shelf.json`: 2 CCEL, 0 PG, 14 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:42 CDT — david-baron done
+- `pipeline/david-baron_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:42 CDT — s-p-tregelles done
+- `pipeline/s-p-tregelles_shelf.json`: 0 CCEL, 0 PG, 5 IA. Title pages read for tregelles-daniel-visions (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:42 CDT — george-salmon done
+- `pipeline/george-salmon_shelf.json`: 0 CCEL, 0 PG, 9 IA. Title pages read for salmon-nt-introduction, salmon-cathedral-sermons (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:42 CDT — j-g-bellett done
+- `pipeline/j-g-bellett_shelf.json`: 0 CCEL, 1 PG, 4 IA. Title pages read for bellett-moral-glory, bellett-gospel-john (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:52 CDT — john-caird done
+- `pipeline/john-caird_shelf.json`: 0 CCEL, 0 PG, 7 IA. Title pages read for caird-religion-common-life (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:52 CDT — alvah-hovey done
+- `pipeline/alvah-hovey_shelf.json`: 0 CCEL, 0 PG, 16 IA. Title pages read for hovey-impenitent-dead (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:52 CDT — j-m-pendleton done
+- `pipeline/j-m-pendleton_shelf.json`: 0 CCEL, 0 PG, 8 IA. Title pages read for pendleton-atonement (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:52 CDT — j-h-jowett done
+- `pipeline/j-h-jowett_shelf.json`: 5 CCEL, 2 PG, 14 IA. Title pages read for jowett-apostolic-optimism, jowett-the-preacher (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-10 14:56 CDT — round 21 closed
+- Twelve shelves, 126 items (9 CCEL, 7 Gutenberg, 110 IA). Closing paragraph and veto points in DIGEST-A. 0 uids minted.
+
+## 2026-10-10 15:12 CDT — paused
+- Paused at Adam's request after round 21. Round 22 queued, not started. LOCK-A status paused. RUN-CONTROL.json not touched (its note says workers never write it).

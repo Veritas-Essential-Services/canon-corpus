@@ -1,0 +1,76 @@
+{
+ "_about": "Public-domain John Berridge (1716-1793, evangelical vicar of Everton) for the Word Hoard: his Works with Richard Whittingham's memoir (1838, containing The Christian World Unmasked and Sion's Songs), A Fragment of the True Religion (1760) and Cheerful Piety, select letters (Brooklyn, catalogued 1812), raw Internet Archive OCR. Added 2026-10-10 by lane A, round 17 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "berridge",
+  "john"
+ ],
+ "_surname": [
+  "john berridge",
+  "rev. john berridge",
+  "berridge, john",
+  "the rev. john berridge",
+  "mr. berridge"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "berridge-works-1838": [
+   "worksofrevjohnbe00berrrich",
+   "The Works of the Rev. John Berridge, with an enlarged memoir, ed. Richard Whittingham (London: Simpkin, Marshall; Potton: Frazer, 1838)"
+  ],
+  "berridge-fragment-1760": [
+   "fragmentoftruere00berr",
+   "A Fragment of the True Religion, being the substance of two letters (London: J. Williams, MDCCLX)"
+  ],
+  "berridge-cheerful-piety": [
+   "cheerfulpietyorr00berr",
+   "Cheerful Piety, or Religion without Gloom: select letters (Brooklyn: Thomas Kirk; catalogued 1812)"
+  ]
+ },
+ "_alternates": {
+  "berridge-first-editions": "The Christian World Unmasked (London, 1773; IA bim_eighteenth-century_the-christian-world-unma_berridge-john_1773) and Sion's Songs (1785; IA bim_eighteenth-century_sions-songs-or-hymns-_berridge-john_1785): first editions, long-s OCR; their text is in the 1838 Works",
+  "berridge-works-1864": "The Whole Works, 2nd ed. (London: Palmer, 1864; IA wholeworksofrevj00berruoft)"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "berridge-fragment-1760": {
+   "author": "Published anonymously (\"a Methodist-Preacher in Cambridgeshire\", London: J. Williams, 1760); attributed to Berridge by the IA catalogue, and the text names Everton, his parish. Attribution is catalogue-based, not title-page."
+  }
+ },
+ "_checks": {
+  "berridge-works-1838": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john berridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "berridge-fragment-1760": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1760",
+   "ia_date": "1760",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "berridge-cheerful-piety": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john berridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

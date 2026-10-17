@@ -150,7 +150,8 @@
  "_excluded": {
   "pg-3435..3450": "Older PG transcriptions of the same Nights and Supplemental Nights; the DP proofread editions (51252..64384) are used.",
   "pg-6036": "The Kasidah: Burton's own poem presented as a translation (a literary mask).",
-  "travel-books": "Pilgrimage to Al-Madinah, Lake Regions, etc.: his own prose, not translations (an author section would hold them)."
+  "travel-books": "Pilgrimage to Al-Madinah, Lake Regions, etc.: his own prose, not translations (an author section would hold them).",
+  "pg-27827": "The Kama Sutra (Burton and Bhide, 1883): left off by judgment, not rights, like the Pauls' sexology titles. Adam can ask for it."
  },
  "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
  "_verified": {

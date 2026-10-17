@@ -1,0 +1,496 @@
+{
+ "_about": "TRANSLATOR SHELF: Ellen Marriage (fl. 1890s-1900s): her Balzac for Dent's Comédie humaine (ed. George Saintsbury, 1895-1900), the British standard. PD (published before 1901; US pre-1931). Added 2026-10-10 by lane C (round 18); Adam may veto. No uids minted.",
+ "_name_words": [
+  "ellen marriage"
+ ],
+ "_surname": [
+  "ellen marriage"
+ ],
+ "_surname_note": "Full name; the surname alone is an English word or a common name.",
+ "ccel": {},
+ "gutenberg": {
+  "ell-1189": [
+   1189,
+   "The Message"
+  ],
+  "ell-1237": [
+   1237,
+   "Father Goriot"
+  ],
+  "ell-1277": [
+   1277,
+   "Melmoth Reconciled"
+  ],
+  "ell-1307": [
+   1307,
+   "The Magic Skin"
+  ],
+  "ell-1389": [
+   1389,
+   "Gobseck"
+  ],
+  "ell-1405": [
+   1405,
+   "The Collection of Antiquities"
+  ],
+  "ell-1428": [
+   1428,
+   "La Grenadiere"
+  ],
+  "ell-1443": [
+   1443,
+   "Two Poets"
+  ],
+  "ell-1559": [
+   1559,
+   "A Distinguished Provincial at Paris"
+  ],
+  "ell-1639": [
+   1639,
+   "Eve and David"
+  ],
+  "ell-1659": [
+   1659,
+   "The Girl with the Golden Eyes"
+  ],
+  "ell-1729": [
+   1729,
+   "The Deserted Woman"
+  ],
+  "ell-1856": [
+   1856,
+   "Cousin Pons"
+  ],
+  "ell-1898": [
+   1898,
+   "Albert Savarus"
+  ],
+  "ell-1950": [
+   1950,
+   "A Woman of Thirty"
+  ],
+  "ell-469": [
+   469,
+   "The Duchesse of Langeais"
+  ],
+  "ell-5873": [
+   5873,
+   "Farewell"
+  ],
+  "ell-7950": [
+   7950,
+   "The Jealousies of a Country Town"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ellen-marriage-balzac-the-message": {
+   "source": "ell-1189",
+   "of": "Honoré de Balzac",
+   "work": "The Message",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 1189 (clean text)"
+  },
+  "ellen-marriage-balzac-father-goriot": {
+   "source": "ell-1237",
+   "of": "Honoré de Balzac",
+   "work": "Father Goriot",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 1237 (clean text)"
+  },
+  "ellen-marriage-balzac-melmoth-reconciled": {
+   "source": "ell-1277",
+   "of": "Honoré de Balzac",
+   "work": "Melmoth Reconciled",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 1277 (clean text)"
+  },
+  "ellen-marriage-balzac-the-magic-skin": {
+   "source": "ell-1307",
+   "of": "Honoré de Balzac",
+   "work": "The Magic Skin",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 1307 (clean text)"
+  },
+  "ellen-marriage-balzac-gobseck": {
+   "source": "ell-1389",
+   "of": "Honoré de Balzac",
+   "work": "Gobseck",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 1389 (clean text)"
+  },
+  "ellen-marriage-balzac-the-collection-of-antiquities": {
+   "source": "ell-1405",
+   "of": "Honoré de Balzac",
+   "work": "The Collection of Antiquities",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 1405 (clean text)"
+  },
+  "ellen-marriage-balzac-la-grenadiere": {
+   "source": "ell-1428",
+   "of": "Honoré de Balzac",
+   "work": "La Grenadiere",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 1428 (clean text)"
+  },
+  "ellen-marriage-balzac-two-poets": {
+   "source": "ell-1443",
+   "of": "Honoré de Balzac",
+   "work": "Two Poets",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 1443 (clean text)"
+  },
+  "ellen-marriage-balzac-a-distinguished-provincial-at-paris": {
+   "source": "ell-1559",
+   "of": "Honoré de Balzac",
+   "work": "A Distinguished Provincial at Paris",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 1559 (clean text)"
+  },
+  "ellen-marriage-balzac-eve-and-david": {
+   "source": "ell-1639",
+   "of": "Honoré de Balzac",
+   "work": "Eve and David",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 1639 (clean text)"
+  },
+  "ellen-marriage-balzac-the-girl-with-the-golden-eyes": {
+   "source": "ell-1659",
+   "of": "Honoré de Balzac",
+   "work": "The Girl with the Golden Eyes",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 1659 (clean text)"
+  },
+  "ellen-marriage-balzac-the-deserted-woman": {
+   "source": "ell-1729",
+   "of": "Honoré de Balzac",
+   "work": "The Deserted Woman",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 1729 (clean text)"
+  },
+  "ellen-marriage-balzac-cousin-pons": {
+   "source": "ell-1856",
+   "of": "Honoré de Balzac",
+   "work": "Cousin Pons",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 1856 (clean text)"
+  },
+  "ellen-marriage-balzac-albert-savarus": {
+   "source": "ell-1898",
+   "of": "Honoré de Balzac",
+   "work": "Albert Savarus",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 1898 (clean text)"
+  },
+  "ellen-marriage-balzac-a-woman-of-thirty": {
+   "source": "ell-1950",
+   "of": "Honoré de Balzac",
+   "work": "A Woman of Thirty",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 1950 (clean text)"
+  },
+  "ellen-marriage-balzac-the-duchesse-of-langeais": {
+   "source": "ell-469",
+   "of": "Honoré de Balzac",
+   "work": "The Duchesse of Langeais",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 469 (clean text)"
+  },
+  "ellen-marriage-balzac-farewell": {
+   "source": "ell-5873",
+   "of": "Honoré de Balzac",
+   "work": "Farewell",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 5873 (clean text)"
+  },
+  "ellen-marriage-balzac-the-jealousies-of-a-country-town": {
+   "source": "ell-7950",
+   "of": "Honoré de Balzac",
+   "work": "The Jealousies of a Country Town",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Ellen Marriage",
+   "scan_edition": "Project Gutenberg 7950 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-7416": "The Thirteen collects Ferragus, The Duchesse de Langeais and The Girl with the Golden Eyes; the last two are shelved singly.",
+  "pg-13159": "Lost Illusions collects Two Poets, A Distinguished Provincial at Paris and Eve and David, all shelved singly.",
+  "pg-12900": "Poor Relations is the series title over Cousin Pons and Cousin Betty; Cousin Pons is shelved singly and Cousin Betty is Waring's (adler_shelf.json)."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ell-1189": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1237": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1277": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1307": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1389": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1405": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1428": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1443": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1559": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1639": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1659": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1729": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1856": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1950": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-469": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-5873": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-7950": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ellen Marriage; Katharine Prescott Wormeley"
+  }
+ },
+ "_verified": {
+  "ell-1189": {
+   "pg": 1189,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1237": {
+   "pg": 1237,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1277": {
+   "pg": 1277,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1307": {
+   "pg": 1307,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1389": {
+   "pg": 1389,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1405": {
+   "pg": 1405,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1428": {
+   "pg": 1428,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1443": {
+   "pg": 1443,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1559": {
+   "pg": 1559,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1639": {
+   "pg": 1639,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1659": {
+   "pg": 1659,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1729": {
+   "pg": 1729,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1856": {
+   "pg": 1856,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1898": {
+   "pg": 1898,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-1950": {
+   "pg": 1950,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-469": {
+   "pg": 469,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-5873": {
+   "pg": 5873,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  },
+  "ell-7950": {
+   "pg": 7950,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ellen Marriage"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

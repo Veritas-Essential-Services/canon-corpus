@@ -1,0 +1,1572 @@
+{
+ "_about": "TRANSLATOR SHELF: Alexander Teixeira de Mattos (1865-1921): Fabre's Souvenirs entomologiques (Dodd, Mead / Hodder, 1912-22), Maeterlinck's essays and plays, Couperus's novels, Leblanc's Arsène Lupin, Chateaubriand's Memoirs (1902), Tocqueville's Recollections, Streuvels, Paoli. He died in 1921, so every translation predates 1931. US public domain; UK PD since 1992. Added 2026-10-10 by lane C (round 19); Adam may veto. No uids minted.",
+ "_name_words": [
+  "teixeira de mattos",
+  "alexander teixeira"
+ ],
+ "_surname": [
+  "teixeira de mattos",
+  "alexander teixeira"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "tdm-17861": [
+   17861,
+   "The Wrack of the Storm"
+  ],
+  "tdm-18214": [
+   18214,
+   "Our Friend the Dog"
+  ],
+  "tdm-1887": [
+   1887,
+   "The Life of the Spider"
+  ],
+  "tdm-2033": [
+   2033,
+   "The Unknown Guest"
+  ],
+  "tdm-22411": [
+   22411,
+   "The Choice of Life"
+  ],
+  "tdm-27868": [
+   27868,
+   "The Glow-Worm and Other Beetles"
+  ],
+  "tdm-28480": [
+   28480,
+   "The Frontier"
+  ],
+  "tdm-2884": [
+   2884,
+   "The Mason-Bees"
+  ],
+  "tdm-31354": [
+   31354,
+   "Death"
+  ],
+  "tdm-33386": [
+   33386,
+   "The Tremendous Event"
+  ],
+  "tdm-33779": [
+   33779,
+   "Majesty: A Novel"
+  ],
+  "tdm-34021": [
+   34021,
+   "Small Souls"
+  ],
+  "tdm-3421": [
+   3421,
+   "Bramble-Bees and Others"
+  ],
+  "tdm-3422": [
+   3422,
+   "The Life of the Fly; With Which are Interspersed Some Chapters of Autobiography"
+  ],
+  "tdm-34343": [
+   34343,
+   "The Betrothal A Sequel to the Blue Bird; A Fairy Play in Five Acts and Eleven Scenes"
+  ],
+  "tdm-34458": [
+   34458,
+   "The Twilight of the Souls"
+  ],
+  "tdm-3462": [
+   3462,
+   "More Hunting Wasps"
+  ],
+  "tdm-34653": [
+   34653,
+   "The Three Eyes"
+  ],
+  "tdm-34725": [
+   34725,
+   "The Hidden Force: A Story of Modern Java"
+  ],
+  "tdm-34758": [
+   34758,
+   "813"
+  ],
+  "tdm-34761": [
+   34761,
+   "Dr. Adriaan"
+  ],
+  "tdm-34939": [
+   34939,
+   "The Secret of Sarek"
+  ],
+  "tdm-37497": [
+   37497,
+   "The Tour: A Story of Ancient Egypt"
+  ],
+  "tdm-3754": [
+   3754,
+   "The Wonders of Instinct: Chapters in the Psychology of Insects"
+  ],
+  "tdm-37578": [
+   37578,
+   "The Later Life"
+  ],
+  "tdm-37770": [
+   37770,
+   "Ecstasy, A Study of Happiness: A Novel"
+  ],
+  "tdm-37892": [
+   37892,
+   "The Recollections of Alexis de Tocqueville"
+  ],
+  "tdm-4017": [
+   4017,
+   "The Hollow Needle; Further adventures of Arsène Lupin"
+  ],
+  "tdm-43005": [
+   43005,
+   "The Inevitable"
+  ],
+  "tdm-43827": [
+   43827,
+   "The Law Inevitable"
+  ],
+  "tdm-45786": [
+   45786,
+   "Their Majesties as I Knew Them Personal Reminiscences of the Kings and Queens of Europe"
+  ],
+  "tdm-47486": [
+   47486,
+   "Joyzelle"
+  ],
+  "tdm-47830": [
+   47830,
+   "The Burgomaster of Stilemonde: A Play in Three Acts"
+  ],
+  "tdm-48271": [
+   48271,
+   "Old People and the Things That Pass"
+  ],
+  "tdm-48504": [
+   48504,
+   "The Double Garden"
+  ],
+  "tdm-50399": [
+   50399,
+   "Our Eternity"
+  ],
+  "tdm-54743": [
+   54743,
+   "The Memoirs of François René, Vicomte de Chateaubriand, vol. 1 of 6"
+  ],
+  "tdm-54788": [
+   54788,
+   "The Memoirs of François René, Vicomte de Chateaubriand, vol. 2 of 6"
+  ],
+  "tdm-54807": [
+   54807,
+   "The Memoirs of François René, Vicomte de Chateaubriand, vol. 3 of 6"
+  ],
+  "tdm-54879": [
+   54879,
+   "The Memoirs of François René, Vicomte de Chateaubriand, vol. 4 of 6"
+  ],
+  "tdm-55070": [
+   55070,
+   "The Memoirs of François René, Vicomte de Chateaubriand, vol. 5 of 6"
+  ],
+  "tdm-55124": [
+   55124,
+   "The Memoirs of François René, Vicomte de Chateaubriand, vol. 6 of 6"
+  ],
+  "tdm-55591": [
+   55591,
+   "Old Fashioned Flowers, and other out-of-door studies"
+  ],
+  "tdm-66650": [
+   66650,
+   "The Life of the Grasshopper"
+  ],
+  "tdm-66743": [
+   66743,
+   "The Sacred Beetle, and Others"
+  ],
+  "tdm-66744": [
+   66744,
+   "The Life of the Scorpion"
+  ],
+  "tdm-66762": [
+   66762,
+   "The Life of the Caterpillar"
+  ],
+  "tdm-66844": [
+   66844,
+   "The Life of the Weevil"
+  ],
+  "tdm-66854": [
+   66854,
+   "The Mason-Wasps"
+  ],
+  "tdm-66893": [
+   66893,
+   "Mountain Paths"
+  ],
+  "tdm-67110": [
+   67110,
+   "The Hunting Wasps"
+  ],
+  "tdm-67201": [
+   67201,
+   "More Beetles"
+  ],
+  "tdm-67625": [
+   67625,
+   "Gleanings from Maeterlinck"
+  ],
+  "tdm-67806": [
+   67806,
+   "Mary Magdalene: A Play in Three Acts"
+  ],
+  "tdm-68974": [
+   68974,
+   "The Life and Love of the Insect"
+  ],
+  "tdm-70550": [
+   70550,
+   "The miracle of Saint Anthony"
+  ],
+  "tdm-73662": [
+   73662,
+   "The eyes of innocence"
+  ],
+  "tdm-8437": [
+   8437,
+   "The Path of Life"
+  ],
+  "tdm-8606": [
+   8606,
+   "The Blue Bird: A Fairy Play in Six Acts"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "teixeira-de-mattos-chateaubriand-memoirs-vol-1": {
+   "source": "tdm-54743",
+   "of": "François-René Chateaubriand",
+   "work": "The Memoirs of François René, Vicomte de Chateaubriand, vol. 1 of 6",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 54743 (clean text)"
+  },
+  "teixeira-de-mattos-chateaubriand-memoirs-vol-2": {
+   "source": "tdm-54788",
+   "of": "François-René Chateaubriand",
+   "work": "The Memoirs of François René, Vicomte de Chateaubriand, vol. 2 of 6",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 54788 (clean text)"
+  },
+  "teixeira-de-mattos-chateaubriand-memoirs-vol-3": {
+   "source": "tdm-54807",
+   "of": "François-René Chateaubriand",
+   "work": "The Memoirs of François René, Vicomte de Chateaubriand, vol. 3 of 6",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 54807 (clean text)"
+  },
+  "teixeira-de-mattos-chateaubriand-memoirs-vol-4": {
+   "source": "tdm-54879",
+   "of": "François-René Chateaubriand",
+   "work": "The Memoirs of François René, Vicomte de Chateaubriand, vol. 4 of 6",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 54879 (clean text)"
+  },
+  "teixeira-de-mattos-chateaubriand-memoirs-vol-5": {
+   "source": "tdm-55070",
+   "of": "François-René Chateaubriand",
+   "work": "The Memoirs of François René, Vicomte de Chateaubriand, vol. 5 of 6",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 55070 (clean text)"
+  },
+  "teixeira-de-mattos-chateaubriand-memoirs-vol-6": {
+   "source": "tdm-55124",
+   "of": "François-René Chateaubriand",
+   "work": "The Memoirs of François René, Vicomte de Chateaubriand, vol. 6 of 6",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 55124 (clean text)"
+  },
+  "teixeira-de-mattos-couperus-dr-adriaan": {
+   "source": "tdm-34761",
+   "of": "Louis Couperus",
+   "work": "Dr. Adriaan",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 34761 (clean text)"
+  },
+  "teixeira-de-mattos-couperus-ecstasy-a-study-of-happiness-a-novel": {
+   "source": "tdm-37770",
+   "of": "Louis Couperus",
+   "work": "Ecstasy, A Study of Happiness: A Novel",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 37770 (clean text)"
+  },
+  "teixeira-de-mattos-couperus-majesty-a-novel": {
+   "source": "tdm-33779",
+   "of": "Louis Couperus",
+   "work": "Majesty: A Novel",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 33779 (clean text)",
+   "note": "Gutenberg's text is his later, new translation; his translator's note says the first (1895) was done with Ernest Dowson."
+  },
+  "teixeira-de-mattos-couperus-old-people-and-the-things-that-pass": {
+   "source": "tdm-48271",
+   "of": "Louis Couperus",
+   "work": "Old People and the Things That Pass",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 48271 (clean text)"
+  },
+  "teixeira-de-mattos-couperus-small-souls": {
+   "source": "tdm-34021",
+   "of": "Louis Couperus",
+   "work": "Small Souls",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 34021 (clean text)"
+  },
+  "teixeira-de-mattos-couperus-the-hidden-force-a-story-of-modern-java": {
+   "source": "tdm-34725",
+   "of": "Louis Couperus",
+   "work": "The Hidden Force: A Story of Modern Java",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 34725 (clean text)"
+  },
+  "teixeira-de-mattos-couperus-the-inevitable": {
+   "source": "tdm-43005",
+   "of": "Louis Couperus",
+   "work": "The Inevitable",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 43005 (clean text)"
+  },
+  "teixeira-de-mattos-couperus-the-later-life": {
+   "source": "tdm-37578",
+   "of": "Louis Couperus",
+   "work": "The Later Life",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 37578 (clean text)"
+  },
+  "teixeira-de-mattos-couperus-the-law-inevitable": {
+   "source": "tdm-43827",
+   "of": "Louis Couperus",
+   "work": "The Law Inevitable",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 43827 (clean text)"
+  },
+  "teixeira-de-mattos-couperus-the-tour-a-story-of-ancient-egypt": {
+   "source": "tdm-37497",
+   "of": "Louis Couperus",
+   "work": "The Tour: A Story of Ancient Egypt",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 37497 (clean text)"
+  },
+  "teixeira-de-mattos-couperus-the-twilight-of-the-souls": {
+   "source": "tdm-34458",
+   "of": "Louis Couperus",
+   "work": "The Twilight of the Souls",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 34458 (clean text)"
+  },
+  "teixeira-de-mattos-fabre-bramble-bees-and-others": {
+   "source": "tdm-3421",
+   "of": "Jean-Henri Fabre",
+   "work": "Bramble-Bees and Others",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 3421 (clean text)"
+  },
+  "teixeira-de-mattos-fabre-more-beetles": {
+   "source": "tdm-67201",
+   "of": "Jean-Henri Fabre",
+   "work": "More Beetles",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 67201 (clean text)"
+  },
+  "teixeira-de-mattos-fabre-more-hunting-wasps": {
+   "source": "tdm-3462",
+   "of": "Jean-Henri Fabre",
+   "work": "More Hunting Wasps",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 3462 (clean text)"
+  },
+  "teixeira-de-mattos-fabre-the-glow-worm-and-other-beetles": {
+   "source": "tdm-27868",
+   "of": "Jean-Henri Fabre",
+   "work": "The Glow-Worm and Other Beetles",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 27868 (clean text)"
+  },
+  "teixeira-de-mattos-fabre-the-hunting-wasps": {
+   "source": "tdm-67110",
+   "of": "Jean-Henri Fabre",
+   "work": "The Hunting Wasps",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 67110 (clean text)"
+  },
+  "teixeira-de-mattos-fabre-the-life-and-love-of-the-insect": {
+   "source": "tdm-68974",
+   "of": "Jean-Henri Fabre",
+   "work": "The Life and Love of the Insect",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 68974 (clean text)"
+  },
+  "teixeira-de-mattos-fabre-the-life-of-the-caterpillar": {
+   "source": "tdm-66762",
+   "of": "Jean-Henri Fabre",
+   "work": "The Life of the Caterpillar",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 66762 (clean text)"
+  },
+  "teixeira-de-mattos-fabre-the-life-of-the-fly-with-which-are-inter": {
+   "source": "tdm-3422",
+   "of": "Jean-Henri Fabre",
+   "work": "The Life of the Fly; With Which are Interspersed Some Chapters of Autobiography",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 3422 (clean text)"
+  },
+  "teixeira-de-mattos-fabre-the-life-of-the-grasshopper": {
+   "source": "tdm-66650",
+   "of": "Jean-Henri Fabre",
+   "work": "The Life of the Grasshopper",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 66650 (clean text)"
+  },
+  "teixeira-de-mattos-fabre-the-life-of-the-scorpion": {
+   "source": "tdm-66744",
+   "of": "Jean-Henri Fabre",
+   "work": "The Life of the Scorpion",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos (with Bernard Miall)",
+   "scan_edition": "Project Gutenberg 66744 (clean text)",
+   "note": "The title page credits both Teixeira de Mattos and Bernard Miall."
+  },
+  "teixeira-de-mattos-fabre-the-life-of-the-spider": {
+   "source": "tdm-1887",
+   "of": "Jean-Henri Fabre",
+   "work": "The Life of the Spider",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 1887 (clean text)"
+  },
+  "teixeira-de-mattos-fabre-the-life-of-the-weevil": {
+   "source": "tdm-66844",
+   "of": "Jean-Henri Fabre",
+   "work": "The Life of the Weevil",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 66844 (clean text)",
+   "note": "Gutenberg's header has no Translator line; his name was found in the text (see _verified)."
+  },
+  "teixeira-de-mattos-fabre-the-mason-bees": {
+   "source": "tdm-2884",
+   "of": "Jean-Henri Fabre",
+   "work": "The Mason-Bees",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 2884 (clean text)"
+  },
+  "teixeira-de-mattos-fabre-the-mason-wasps": {
+   "source": "tdm-66854",
+   "of": "Jean-Henri Fabre",
+   "work": "The Mason-Wasps",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 66854 (clean text)"
+  },
+  "teixeira-de-mattos-fabre-the-sacred-beetle-and-others": {
+   "source": "tdm-66743",
+   "of": "Jean-Henri Fabre",
+   "work": "The Sacred Beetle, and Others",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 66743 (clean text)"
+  },
+  "teixeira-de-mattos-fabre-the-wonders-of-instinct-chapters-in-the": {
+   "source": "tdm-3754",
+   "of": "Jean-Henri Fabre",
+   "work": "The Wonders of Instinct: Chapters in the Psychology of Insects",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos (with Bernard Miall)",
+   "scan_edition": "Project Gutenberg 3754 (clean text)",
+   "note": "Chapters 5 and 6 are Bernard Miall's (note in the text); the rest is Teixeira de Mattos's."
+  },
+  "teixeira-de-mattos-leblanc-813": {
+   "source": "tdm-34758",
+   "of": "Maurice Leblanc",
+   "work": "813",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 34758 (clean text)"
+  },
+  "teixeira-de-mattos-leblanc-the-choice-of-life": {
+   "source": "tdm-22411",
+   "of": "Georgette Leblanc",
+   "work": "The Choice of Life",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 22411 (clean text)"
+  },
+  "teixeira-de-mattos-leblanc-the-eyes-of-innocence": {
+   "source": "tdm-73662",
+   "of": "Maurice Leblanc",
+   "work": "The eyes of innocence",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 73662 (clean text)"
+  },
+  "teixeira-de-mattos-leblanc-the-frontier": {
+   "source": "tdm-28480",
+   "of": "Maurice Leblanc",
+   "work": "The Frontier",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 28480 (clean text)"
+  },
+  "teixeira-de-mattos-leblanc-the-hollow-needle-further-adventures-of": {
+   "source": "tdm-4017",
+   "of": "Maurice Leblanc",
+   "work": "The Hollow Needle; Further adventures of Arsène Lupin",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 4017 (clean text)"
+  },
+  "teixeira-de-mattos-leblanc-the-secret-of-sarek": {
+   "source": "tdm-34939",
+   "of": "Maurice Leblanc",
+   "work": "The Secret of Sarek",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 34939 (clean text)"
+  },
+  "teixeira-de-mattos-leblanc-the-three-eyes": {
+   "source": "tdm-34653",
+   "of": "Maurice Leblanc",
+   "work": "The Three Eyes",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 34653 (clean text)"
+  },
+  "teixeira-de-mattos-leblanc-the-tremendous-event": {
+   "source": "tdm-33386",
+   "of": "Maurice Leblanc",
+   "work": "The Tremendous Event",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 33386 (clean text)"
+  },
+  "teixeira-de-mattos-maeterlinck-death": {
+   "source": "tdm-31354",
+   "of": "Maurice Maeterlinck",
+   "work": "Death",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 31354 (clean text)"
+  },
+  "teixeira-de-mattos-maeterlinck-gleanings-from-maeterlinck": {
+   "source": "tdm-67625",
+   "of": "Maurice Maeterlinck",
+   "work": "Gleanings from Maeterlinck",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 67625 (clean text)"
+  },
+  "teixeira-de-mattos-maeterlinck-joyzelle": {
+   "source": "tdm-47486",
+   "of": "Maurice Maeterlinck",
+   "work": "Joyzelle",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 47486 (clean text)"
+  },
+  "teixeira-de-mattos-maeterlinck-mary-magdalene-a-play-in-three-acts": {
+   "source": "tdm-67806",
+   "of": "Maurice Maeterlinck",
+   "work": "Mary Magdalene: A Play in Three Acts",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 67806 (clean text)"
+  },
+  "teixeira-de-mattos-maeterlinck-mountain-paths": {
+   "source": "tdm-66893",
+   "of": "Maurice Maeterlinck",
+   "work": "Mountain Paths",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 66893 (clean text)"
+  },
+  "teixeira-de-mattos-maeterlinck-old-fashioned-flowers-and-other-out-of-d": {
+   "source": "tdm-55591",
+   "of": "Maurice Maeterlinck",
+   "work": "Old Fashioned Flowers, and other out-of-door studies",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 55591 (clean text)"
+  },
+  "teixeira-de-mattos-maeterlinck-our-eternity": {
+   "source": "tdm-50399",
+   "of": "Maurice Maeterlinck",
+   "work": "Our Eternity",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 50399 (clean text)"
+  },
+  "teixeira-de-mattos-maeterlinck-our-friend-the-dog": {
+   "source": "tdm-18214",
+   "of": "Maurice Maeterlinck",
+   "work": "Our Friend the Dog",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 18214 (clean text)"
+  },
+  "teixeira-de-mattos-maeterlinck-the-betrothal-a-sequel-to-the-blue-bird": {
+   "source": "tdm-34343",
+   "of": "Maurice Maeterlinck",
+   "work": "The Betrothal A Sequel to the Blue Bird; A Fairy Play in Five Acts and Eleven Scenes",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 34343 (clean text)"
+  },
+  "teixeira-de-mattos-maeterlinck-the-blue-bird-a-fairy-play-in-six-acts": {
+   "source": "tdm-8606",
+   "of": "Maurice Maeterlinck",
+   "work": "The Blue Bird: A Fairy Play in Six Acts",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 8606 (clean text)"
+  },
+  "teixeira-de-mattos-maeterlinck-the-burgomaster-of-stilemonde-a-play-in": {
+   "source": "tdm-47830",
+   "of": "Maurice Maeterlinck",
+   "work": "The Burgomaster of Stilemonde: A Play in Three Acts",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 47830 (clean text)"
+  },
+  "teixeira-de-mattos-maeterlinck-the-double-garden": {
+   "source": "tdm-48504",
+   "of": "Maurice Maeterlinck",
+   "work": "The Double Garden",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos (with Alfred Sutro)",
+   "scan_edition": "Project Gutenberg 48504 (clean text)",
+   "note": "Two essays are footnoted as translated by Alfred Sutro; the title page credits Teixeira de Mattos."
+  },
+  "teixeira-de-mattos-maeterlinck-the-miracle-of-saint-anthony": {
+   "source": "tdm-70550",
+   "of": "Maurice Maeterlinck",
+   "work": "The miracle of Saint Anthony",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 70550 (clean text)"
+  },
+  "teixeira-de-mattos-maeterlinck-the-unknown-guest": {
+   "source": "tdm-2033",
+   "of": "Maurice Maeterlinck",
+   "work": "The Unknown Guest",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 2033 (clean text)"
+  },
+  "teixeira-de-mattos-maeterlinck-the-wrack-of-the-storm": {
+   "source": "tdm-17861",
+   "of": "Maurice Maeterlinck",
+   "work": "The Wrack of the Storm",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 17861 (clean text)"
+  },
+  "teixeira-de-mattos-paoli-their-majesties-as-i-knew-them-personal": {
+   "source": "tdm-45786",
+   "of": "Xavier Paoli",
+   "work": "Their Majesties as I Knew Them Personal Reminiscences of the Kings and Queens of Europe",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 45786 (clean text)"
+  },
+  "teixeira-de-mattos-streuvels-the-path-of-life": {
+   "source": "tdm-8437",
+   "of": "Stijn Streuvels",
+   "work": "The Path of Life",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 8437 (clean text)"
+  },
+  "teixeira-de-mattos-tocqueville-the-recollections-of-alexis-de-tocquevil": {
+   "source": "tdm-37892",
+   "of": "Alexis de Tocqueville",
+   "work": "The Recollections of Alexis de Tocqueville",
+   "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Project Gutenberg 37892 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-27991": "The Blue Bird for Children: Perkins's retelling for schools, not the play.",
+  "pg-45812": "Insect Adventures: Louise Zimm's selection for children from the translation.",
+  "pg-67000": "Fabre's Book of Insects: Mrs Rodolph Stawell's retelling, not the translation itself.",
+  "pg-28755": "A 6 KB Gutenberg stub for The Hollow Needle; the full text is 4017.",
+  "ewald": "Carl Ewald (31167, 31708, 35543, 62883, 62910, 62912, 65029): Ewald has his own shelf on another lane (ewald_shelf.json), which already holds five of these; the two it lacks (My Little Boy 35543, The Old Room 62883) are left for that shelf's owner."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "tdm-17861": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-18214": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-1887": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-2033": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-22411": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-27868": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-28480": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-2884": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-31354": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-33386": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-33779": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-34021": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-3421": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-3422": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-34343": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-34458": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-3462": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-34653": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-34725": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-34758": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-34761": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-34939": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-37497": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-3754": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bernard Miall; Alexander Teixeira de Mattos"
+  },
+  "tdm-37578": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-37770": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-37892": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-4017": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-43005": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-43827": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-45786": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-47486": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-47830": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-48271": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-48504": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alfred Sutro; Alexander Teixeira de Mattos"
+  },
+  "tdm-50399": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-54743": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-54788": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-54807": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-54879": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-55070": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-55124": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-55591": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-66650": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-66743": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-66744": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bernard Miall; Alexander Teixeira de Mattos"
+  },
+  "tdm-66762": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-66844": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tdm-66854": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-66893": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-67110": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-67201": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-67625": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-67806": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-68974": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-70550": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-73662": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-8437": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-8606": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  }
+ },
+ "_verified": {
+  "tdm-17861": {
+   "pg": 17861,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-18214": {
+   "pg": 18214,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-1887": {
+   "pg": 1887,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-2033": {
+   "pg": 2033,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-22411": {
+   "pg": 22411,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-27868": {
+   "pg": 27868,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-28480": {
+   "pg": 28480,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-2884": {
+   "pg": 2884,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-31354": {
+   "pg": 31354,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-33386": {
+   "pg": 33386,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-33779": {
+   "pg": 33779,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-34021": {
+   "pg": 34021,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-3421": {
+   "pg": 3421,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-3422": {
+   "pg": 3422,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-34343": {
+   "pg": 34343,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-34458": {
+   "pg": 34458,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-3462": {
+   "pg": 3462,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-34653": {
+   "pg": 34653,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-34725": {
+   "pg": 34725,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-34758": {
+   "pg": 34758,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-34761": {
+   "pg": 34761,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-34939": {
+   "pg": 34939,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-37497": {
+   "pg": 37497,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-3754": {
+   "pg": 3754,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "tdm-37578": {
+   "pg": 37578,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-37770": {
+   "pg": 37770,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-37892": {
+   "pg": 37892,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-4017": {
+   "pg": 4017,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-43005": {
+   "pg": 43005,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-43827": {
+   "pg": 43827,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-45786": {
+   "pg": 45786,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-47486": {
+   "pg": 47486,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-47830": {
+   "pg": 47830,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-48271": {
+   "pg": 48271,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-48504": {
+   "pg": 48504,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alfred Sutro"
+  },
+  "tdm-50399": {
+   "pg": 50399,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-54743": {
+   "pg": 54743,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-54788": {
+   "pg": 54788,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-54807": {
+   "pg": 54807,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-54879": {
+   "pg": 54879,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-55070": {
+   "pg": 55070,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-55124": {
+   "pg": 55124,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-55591": {
+   "pg": 55591,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-66650": {
+   "pg": 66650,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-66743": {
+   "pg": 66743,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-66744": {
+   "pg": 66744,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bernard Miall"
+  },
+  "tdm-66762": {
+   "pg": 66762,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-66844": {
+   "pg": 66844,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "tdm-66854": {
+   "pg": 66854,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-66893": {
+   "pg": 66893,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-67110": {
+   "pg": 67110,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-67201": {
+   "pg": 67201,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-67625": {
+   "pg": 67625,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-67806": {
+   "pg": 67806,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-68974": {
+   "pg": 68974,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-70550": {
+   "pg": 70550,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-73662": {
+   "pg": 73662,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-8437": {
+   "pg": 8437,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-8606": {
+   "pg": 8606,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Teixeira de Mattos"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

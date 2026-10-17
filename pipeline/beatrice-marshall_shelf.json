@@ -1,0 +1,154 @@
+{
+ "_about": "TRANSLATOR SHELF: Beatrice Marshall (1861-1944): Sudermann's Regina, The Undying Past, The Song of Songs and John the Baptist (John Lane, 1898-1910), and Karin Michaëlis's Elsie Lindtner (1912). US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_name_words": [
+  "beatrice marshall"
+ ],
+ "_surname": [
+  "beatrice marshall"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "bma-33892": [
+   33892,
+   "Regina, or the Sins of the Fathers"
+  ],
+  "bma-34156": [
+   34156,
+   "The Undying Past"
+  ],
+  "bma-34361": [
+   34361,
+   "The Song of Songs"
+  ],
+  "bma-34383": [
+   34383,
+   "John the Baptist: A Play"
+  ],
+  "bma-68837": [
+   68837,
+   "Elsie Lindtner"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "beatrice-marshall-michaelis-elsie-lindtner": {
+   "source": "bma-68837",
+   "of": "Karin Michaëlis",
+   "work": "Elsie Lindtner",
+   "translated": "1898-1912 (see the Gutenberg header)",
+   "translator": "Beatrice Marshall",
+   "scan_edition": "Project Gutenberg 68837 (clean text)"
+  },
+  "beatrice-marshall-sudermann-john-the-baptist-a-play": {
+   "source": "bma-34383",
+   "of": "Hermann Sudermann",
+   "work": "John the Baptist: A Play",
+   "translated": "1898-1912 (see the Gutenberg header)",
+   "translator": "Beatrice Marshall",
+   "scan_edition": "Project Gutenberg 34383 (clean text)"
+  },
+  "beatrice-marshall-sudermann-regina-or-the-sins-of-the-fathers": {
+   "source": "bma-33892",
+   "of": "Hermann Sudermann",
+   "work": "Regina, or the Sins of the Fathers",
+   "translated": "1898-1912 (see the Gutenberg header)",
+   "translator": "Beatrice Marshall",
+   "scan_edition": "Project Gutenberg 33892 (clean text)"
+  },
+  "beatrice-marshall-sudermann-the-song-of-songs": {
+   "source": "bma-34361",
+   "of": "Hermann Sudermann",
+   "work": "The Song of Songs",
+   "translated": "1898-1912 (see the Gutenberg header)",
+   "translator": "Beatrice Marshall",
+   "scan_edition": "Project Gutenberg 34361 (clean text)"
+  },
+  "beatrice-marshall-sudermann-the-undying-past": {
+   "source": "bma-34156",
+   "of": "Hermann Sudermann",
+   "work": "The Undying Past",
+   "translated": "1898-1912 (see the Gutenberg header)",
+   "translator": "Beatrice Marshall",
+   "scan_edition": "Project Gutenberg 34156 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "bma-33892": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "beatrice marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Beatrice Marshall"
+  },
+  "bma-34156": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "beatrice marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Beatrice Marshall"
+  },
+  "bma-34361": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "beatrice marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Beatrice Marshall"
+  },
+  "bma-34383": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "beatrice marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Beatrice Marshall"
+  },
+  "bma-68837": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "beatrice marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Beatrice Marshall"
+  }
+ },
+ "_verified": {
+  "bma-33892": {
+   "pg": 33892,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Beatrice Marshall"
+  },
+  "bma-34156": {
+   "pg": 34156,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Beatrice Marshall"
+  },
+  "bma-34361": {
+   "pg": 34361,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Beatrice Marshall"
+  },
+  "bma-34383": {
+   "pg": 34383,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Beatrice Marshall"
+  },
+  "bma-68837": {
+   "pg": 68837,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Beatrice Marshall"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

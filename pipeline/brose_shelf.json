@@ -1,0 +1,55 @@
+{
+ "_about": "TRANSLATOR SHELF: Henry L. Brose (1890-1965), relativity from the German: Moszkowski's Einstein the Searcher (1921); Weyl's Space-Time-Matter (1922) and Freundlich's The Foundations of Einstein's Theory of Gravitation (1920) wait in _pending (no plain text on Gutenberg). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "henry l. brose",
+  "henry leopold brose"
+ ],
+ "_surname": [
+  "henry l. brose",
+  "henry leopold brose"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "hbr-70678": [
+   70678,
+   "Einstein, the searcher"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "brose-moszkowski-einstein-the-searcher": {
+   "source": "hbr-70678",
+   "of": "Alexander Moszkowski",
+   "work": "Einstein, the searcher",
+   "translated": "1920-1922 (see the Gutenberg header)",
+   "translator": "Henry L. Brose",
+   "scan_edition": "Project Gutenberg 70678 (clean text)"
+  }
+ },
+ "_pending": {
+  "pg-43006": "Weyl's Space-Time-Matter: Gutenberg publishes this physics book only as PDF/LaTeX, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive.",
+  "pg-70793": "Freundlich's The Foundations of Einstein's Theory of Gravitation: Gutenberg has only an HTML edition, no plain-text file. Left for a later pass that finds a period scan on the Internet Archive."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "hbr-70678": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry l. brose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry L. Brose"
+  }
+ },
+ "_verified": {
+  "hbr-70678": {
+   "pg": 70678,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry L. Brose"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

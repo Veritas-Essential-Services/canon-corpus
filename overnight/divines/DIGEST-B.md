@@ -162,3 +162,31 @@
 - Round 2026-10-10d (09:31): five volumes added; no decision needed.
 - Round 2026-10-10e (09:42): six volumes added. Cooke's Terence vol. II joins Carr's Lucian in the title-page question already asked; no new decision.
 - Round 2026-10-10f (09:48): three volumes added; Goldwin Smith's Euripides excerpts taken back out. No decision needed.
+- Round 2026-10-10g (09:54): six volumes added from retries of refused items; no decision needed.
+- Round 2026-10-10h (10:00): four volumes added. The Pitt and Warton set now mixes two editions (1763 and 1778); say if you want it re-taken as one edition. No decision needed otherwise.
+- Round 2026-10-10i (10:07): seven volumes added, two new shelves (Paulus Aegineta, Phalaris). No decision needed.
+- Round 2026-10-10j (10:18): four volumes added, six refusals recorded. No decision needed.
+- Round 2026-10-10k (10:24): six volumes added, including Brumoy's Greek Theatre in Lennox's translation (new shelf). No decision needed; the Greek-facing question now also covers Kennedy's Agamemnon and Cromer's Paraphrases.
+- Round 2026-10-10l (10:34): eight volumes added. No decision needed.
+- Round 2026-10-10m (10:37): one volume added. Robert Duncan's Boethius (Edinburgh, catalogue 1789) joins the undated rows: it reads cleanly but prints no legible year. Same answer as the other undated rows applies.
+- Round 2026-10-10n (10:40): Fairbanks's First Philosophers added from a cleaner scan; one stale wishlist line fixed. No decision needed.
+- 10:47 round o: 3 volumes (Frere's Frogs; Biddle and Portal Crown orations). Storr's Loeb Sophocles vol. II added to the Greek-facing question. No new decision class.
+- 10:55 round p: nothing added. **New question (one book):** Dawes's complete Alexiad of Anna Comnena (1928, public domain everywhere) exists on IA only as modern digital retypes, with no scan of the printed book. Take the Medieval Sourcebook retype, which keeps her introduction and names its source, or wait for a scan? Recommendation: take it, flagged as a retype. **Finding:** lane B is close to exhausted at the 0.78 bar; most of what is left waits on the Greek-facing and later-printings rulings above.
+- 11:12 round q: pivot to classical scholarship on the coordinator's steer. 69 volumes on 24 new shelves (Grote, Mommsen, Smith's Dictionaries, Jebb, Warde Fowler, Mahaffy, Harrison, Niebuhr and more). No new question. Note only: commentaries (Mayor's Juvenal, Conington's Virgil) read 0.73-0.75 because of line references although the OCR is good; they stay out under the 0.78 rule unless you say otherwise.
+- 11:20 round r: 34 more volumes of classical scholarship on 22 new shelves (Pater, Gladstone's Homer, Schliemann, Cumont, Mau's Pompeii, How and Wells and more). No new question.
+- 11:24 round s: 15 more volumes (Sandys, Seyffert, Bury, Curtius tr. Ward, Becker's Gallus). No new question.
+- 11:32 round t: 12 more volumes (Thirlwall 8, Arnold's Rome 3, Smith's Biography vol. III). No new question.
+- 11:39 Round 10u: 27 scholarship volumes (Müller, Long, Mure, Cornewall Lewis and others). Nothing new for Adam to decide; Jevons's imprint year is OCR-doubtful and noted on the shelf.
+- 11:44 Round 10v: 10 volumes (Cruttwell, Verrall, Haigh, Mackail, Sellar, Butcher, Bury). Nothing new for Adam.
+- 11:51 Round 10w: 13 volumes. ~~NEW QUESTION for Adam: complete Merivale with vols. VI-VIII from later impressions?~~ Withdrawn in round 10x: those impressions are pre-1930, so they are outside the later-printings class and were simply added.
+- 11:56 Round 10x: 14 volumes (Freeman's Sicily, Abbott, Holm, Merivale VI-VIII). The Merivale question from 11:51 is withdrawn; no new questions.
+- 11:58 Round 10y: 7 volumes (Ihne, Pelham, Leaf). No new questions.
+- 12:01 Round 10z: 11 volumes (Bunbury, Tozer, Dyer, Middleton, Ramsay, Wordsworth, Gardner and Jevons). No new questions.
+- 12:04 Round 10aa: 5 volumes (Anthon, Rich, Peck, Liddell). Lempriere on Gutenberg held: its transcribers expanded the abbreviations, so it waits with the modernized-texts question.
+- 12:06 Round 10ab: 7 volumes (Donaldson, Campbell, Moulton, Felton, Leake). No new questions.
+- 12:08 Round 10ac: 8 volumes (Leake's Travels, Mahaffy's Greek Literature). No new questions.
+- 12:11 Round 10ad: 5 volumes (Müller's Dorians, Niebuhr's History of Rome). No new questions.
+- 12:13 Round 10ae: 10 volumes (Glover, Ridgeway, Rice Holmes, Bury, Frazer). No new questions.
+- 12:18 Round 10af: 9 volumes (Capes, Strachan-Davidson, Bevan, Oman, Mahaffy, Warde Fowler). No new questions.
+- 12:19 Round 10ag: 3 Latin grammars. The Greek grammars (Goodwin, Smyth) fall under the bar because they are mostly Greek; they join the Greek-facing question already with you.
+- 12:20 **Lane B paused** after round 10ag: about 259 scholarship volumes since the pivot; the seam is thinning (last rounds 9 and 3). Still open for Adam: the Alexiad retype, the post-1930 later-printings class, the Perseus modernized texts (Lempriere's expanded Gutenberg text now sits with it), and the Greek-facing measure (Jebb's Sophocles, Greek grammars).

@@ -1,0 +1,105 @@
+{
+ "_about": "TRANSLATOR SHELF: C. T. Campion (1861-1938): Albert Schweitzer's On the Edge of the Primeval Forest (1922) and The Philosophy of Civilization (The Decay and the Restoration of Civilization; Civilization and Ethics, 1923). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_name_words": [
+  "c. t. campion",
+  "campion"
+ ],
+ "_surname": [
+  "c. t. campion",
+  "campion"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "cam-50015": [
+   50015,
+   "On the edge of the primeval forest"
+  ],
+  "cam-75958": [
+   75958,
+   "The decay and the restoration of civilization"
+  ],
+  "cam-76061": [
+   76061,
+   "Civilization and ethics"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "campion-schweitzer-civilization-and-ethics": {
+   "source": "cam-76061",
+   "of": "Albert Schweitzer",
+   "work": "Civilization and ethics",
+   "translated": "1922-1923 (see the Gutenberg header)",
+   "translator": "C. T. Campion",
+   "scan_edition": "Project Gutenberg 76061 (clean text)"
+  },
+  "campion-schweitzer-on-the-edge-of-the-primeval-forest": {
+   "source": "cam-50015",
+   "of": "Albert Schweitzer",
+   "work": "On the edge of the primeval forest",
+   "translated": "1922-1923 (see the Gutenberg header)",
+   "translator": "C. T. Campion",
+   "scan_edition": "Project Gutenberg 50015 (clean text)",
+   "note": "The Gutenberg text was keyed from a 1937 reprint (its imprint: 'first published January 19th, 1922; reprinted ... 1931, 1934, and 1937'). The text is the 1922 public-domain translation reprinted, but the copy is not a pre-1931 printing: flagged in DIGEST-C for Adam's veto."
+  },
+  "campion-schweitzer-the-decay-and-the-restoration-of-civiliz": {
+   "source": "cam-75958",
+   "of": "Albert Schweitzer",
+   "work": "The decay and the restoration of civilization",
+   "translated": "1922-1923 (see the Gutenberg header)",
+   "translator": "C. T. Campion",
+   "scan_edition": "Project Gutenberg 75958 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "cam-50015": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. t. campion",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. T. Campion"
+  },
+  "cam-75958": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. t. campion",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. T. Campion"
+  },
+  "cam-76061": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. t. campion",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. T. Campion"
+  }
+ },
+ "_verified": {
+  "cam-50015": {
+   "pg": 50015,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. T. Campion"
+  },
+  "cam-75958": {
+   "pg": 75958,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. T. Campion"
+  },
+  "cam-76061": {
+   "pg": 76061,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. T. Campion"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

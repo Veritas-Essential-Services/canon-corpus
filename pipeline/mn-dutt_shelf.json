@@ -1,0 +1,182 @@
+{
+ "_about": "TRANSLATOR SHELF: Manmatha Nath Dutt (1855-1912): the prose Rāmāyana (Calcutta, 1891-94, 4 vols), the Harivamsha (1897) and the Vishnupuranam (1896, based on H. H. Wilson's translation). Not R. C. Dutt, whose verse epics are on Lane D's dutt shelf. US public domain. Added 2026-10-10 by lane C (round 34); Adam may veto. No uids minted.",
+ "_name_words": [
+  "manmatha nath dutt",
+  "m. n. dutt"
+ ],
+ "_surname": [
+  "manmatha nath dutt",
+  "m. n. dutt"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mnd-57265": [
+   57265,
+   "The Rāmāyana, Volume 1. Bālakāndam and Ayodhyākāndam"
+  ],
+  "mnd-57826": [
+   57826,
+   "The Rāmāyana, Volume 2. Āranya, Kishkindhā, and Sundara Kāndam"
+  ],
+  "mnd-60188": [
+   60188,
+   "The Rāmāyana, Volume 3. Yuddhakāndam"
+  ],
+  "mnd-61937": [
+   61937,
+   "A Prose English Translation of Harivamsha"
+  ],
+  "mnd-62496": [
+   62496,
+   "The Rāmāyana, Volume 4. Uttara Kānda"
+  ],
+  "mnd-66208": [
+   66208,
+   "A Prose English Translation of Vishnupuranam (Based on Professor H. H. Wilson's translation.)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "mn-dutt-harivamsha": {
+   "source": "mnd-61937",
+   "of": "Anonymous (the Harivamsha, the appendix to the Mahabharata)",
+   "work": "A Prose English Translation of Harivamsha",
+   "translated": "1891-1897 (see the Gutenberg header)",
+   "translator": "Manmatha Nath Dutt",
+   "scan_edition": "Project Gutenberg 61937 (clean text)"
+  },
+  "mn-dutt-valmiki-the-ramayana-vol-1": {
+   "source": "mnd-57265",
+   "of": "Valmiki (attributed)",
+   "work": "The Rāmāyana, Volume 1. Bālakāndam and Ayodhyākāndam",
+   "translated": "1891-1897 (see the Gutenberg header)",
+   "translator": "Manmatha Nath Dutt",
+   "scan_edition": "Project Gutenberg 57265 (clean text)"
+  },
+  "mn-dutt-valmiki-the-ramayana-vol-2": {
+   "source": "mnd-57826",
+   "of": "Valmiki (attributed)",
+   "work": "The Rāmāyana, Volume 2. Āranya, Kishkindhā, and Sundara Kāndam",
+   "translated": "1891-1897 (see the Gutenberg header)",
+   "translator": "Manmatha Nath Dutt",
+   "scan_edition": "Project Gutenberg 57826 (clean text)"
+  },
+  "mn-dutt-valmiki-the-ramayana-vol-3": {
+   "source": "mnd-60188",
+   "of": "Valmiki (attributed)",
+   "work": "The Rāmāyana, Volume 3. Yuddhakāndam",
+   "translated": "1891-1897 (see the Gutenberg header)",
+   "translator": "Manmatha Nath Dutt",
+   "scan_edition": "Project Gutenberg 60188 (clean text)"
+  },
+  "mn-dutt-valmiki-the-ramayana-vol-4": {
+   "source": "mnd-62496",
+   "of": "Valmiki (attributed)",
+   "work": "The Rāmāyana, Volume 4. Uttara Kānda",
+   "translated": "1891-1897 (see the Gutenberg header)",
+   "translator": "Manmatha Nath Dutt",
+   "scan_edition": "Project Gutenberg 62496 (clean text)"
+  },
+  "mn-dutt-vishnupuranam": {
+   "source": "mnd-66208",
+   "of": "Anonymous (the Vishnu Purana)",
+   "work": "A Prose English Translation of Vishnupuranam (Based on Professor H. H. Wilson's translation.)",
+   "translated": "1891-1897 (see the Gutenberg header)",
+   "translator": "Manmatha Nath Dutt (after H. H. Wilson)",
+   "scan_edition": "Project Gutenberg 66208 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mnd-57265": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-57826": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-60188": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-61937": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-62496": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-66208": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "manmatha nath dutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Manmatha Nath Dutt; H. H. Wilson"
+  }
+ },
+ "_verified": {
+  "mnd-57265": {
+   "pg": 57265,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-57826": {
+   "pg": 57826,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-60188": {
+   "pg": 60188,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-61937": {
+   "pg": 61937,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-62496": {
+   "pg": 62496,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  },
+  "mnd-66208": {
+   "pg": 66208,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Manmatha Nath Dutt"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

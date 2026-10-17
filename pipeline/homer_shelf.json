@@ -283,6 +283,11 @@
    "englishtranslati00home",
    "An English Translation of the First Eight Books of the Iliad of Homer (Belfast: H. Adair, 1869)",
    "tr. James Gilchrist"
+  ],
+  "homer-ritso-iliad-i-iii-1861": [
+   "iliadofhomerfirs00home",
+   "The Iliad of Homer, the first three books, faithfully translated into English hexameters (London: Rivingtons, 1861)",
+   "tr. Frederick H. J. Ritso"
   ]
  },
  "_cross_ref": {
@@ -370,7 +375,8 @@
   "homer-dart-iliad-1865": "j. henry dart",
   "homer-purves-iliad-1891": "john purves",
   "homer-conwell-hymns-1830": "columbus c. conwell",
-  "homer-gilchrist-iliad-1869": "james gilchrist"
+  "homer-gilchrist-iliad-1869": "james gilchrist",
+  "homer-ritso-iliad-i-iii-1861": "frederick h. j. ritso"
  },
  "_translator_unchecked": {
   "homer-bryant-odyssey-v2": "translator on the row (William Cullen Bryant) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -1063,6 +1069,19 @@
    "ia_rights": "ok: published 1869",
    "ia_date": "1869",
    "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "homer-ritso-iliad-i-iii-1861": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "homer",
+   "translator_claimed": "frederick h. j. ritso",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },

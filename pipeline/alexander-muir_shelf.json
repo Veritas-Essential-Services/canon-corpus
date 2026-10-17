@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Alexander Muir: Gregorovius's Wanderings in Corsica (1855), 2 vols. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "alexander muir"
+ ],
+ "_surname": [
+  "alexander muir"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "amu-44727": [
+   44727,
+   "Wanderings in Corsica: Its History and Its Heroes. Vol. 1 of 2"
+  ],
+  "amu-58337": [
+   58337,
+   "Wanderings in Corsica: Its History and Its Heroes. Vol. 2 of 2"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "alexander-muir-gregorovius-wanderings-in-corsica-its-history-and-it-vol-1": {
+   "source": "amu-44727",
+   "of": "Ferdinand Gregorovius",
+   "work": "Wanderings in Corsica: Its History and Its Heroes. Vol. 1 of 2",
+   "translated": "1855 (see the Gutenberg header)",
+   "translator": "Alexander Muir",
+   "scan_edition": "Project Gutenberg 44727 (clean text)"
+  },
+  "alexander-muir-gregorovius-wanderings-in-corsica-its-history-and-it-vol-2": {
+   "source": "amu-58337",
+   "of": "Ferdinand Gregorovius",
+   "work": "Wanderings in Corsica: Its History and Its Heroes. Vol. 2 of 2",
+   "translated": "1855 (see the Gutenberg header)",
+   "translator": "Alexander Muir",
+   "scan_edition": "Project Gutenberg 58337 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "amu-44727": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alexander muir",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Muir"
+  },
+  "amu-58337": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alexander muir",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Muir"
+  }
+ },
+ "_verified": {
+  "amu-44727": {
+   "pg": 44727,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Muir"
+  },
+  "amu-58337": {
+   "pg": 58337,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Muir"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

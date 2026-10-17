@@ -1,0 +1,42 @@
+{
+ "_about": "Franz Cumont (1868-1947) in English. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Oriental Religions in Roman Paganism, After Life in Roman Paganism, clean Gutenberg. No uids minted.",
+ "_name_words": [
+  "cumont"
+ ],
+ "_surname": [
+  "franz cumont",
+  "cumont, franz"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cumont-oriental-religions-roman-paganism": [
+   22213,
+   "The Oriental Religions in Roman Paganism"
+  ],
+  "cumont-after-life-roman-paganism": [
+   64297,
+   "After Life in Roman Paganism"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "cumont-oriental-religions-roman-paganism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "franz cumont",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cumont-after-life-roman-paganism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "franz cumont",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

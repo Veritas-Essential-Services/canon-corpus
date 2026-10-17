@@ -1,0 +1,106 @@
+{
+ "_about": "TRANSLATOR SHELF: W. G. Waters (1844-1928): The Journal of Montaigne's Travels in Italy (John Murray, 1903, 3 vols). His Straparola is on straparola_shelf.json (another lane). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_name_words": [
+  "w. g. waters",
+  "william george waters"
+ ],
+ "_surname": [
+  "w. g. waters",
+  "william george waters"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "wgw-70838": [
+   70838,
+   "The journal of Montaigne's travels in Italy by way of Switzerland and Germany in 1580 and 1581, Volume 1 (of 3)"
+  ],
+  "wgw-70839": [
+   70839,
+   "The journal of Montaigne's travels in Italy by way of Switzerland and Germany in 1580 and 1581, Volume 2 (of 3)"
+  ],
+  "wgw-70840": [
+   70840,
+   "The journal of Montaigne's travels in Italy by way of Switzerland and Germany in 1580 and 1581, Volume 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ww-waters-montaigne-journal-of-travels-vol-1": {
+   "source": "wgw-70838",
+   "of": "Michel de Montaigne",
+   "work": "The journal of Montaigne's travels in Italy by way of Switzerland and Germany in 1580 and 1581, Volume 1 (of 3)",
+   "translated": "1903 (see the Gutenberg header)",
+   "translator": "W. G. Waters",
+   "scan_edition": "Project Gutenberg 70838 (clean text)"
+  },
+  "ww-waters-montaigne-journal-of-travels-vol-2": {
+   "source": "wgw-70839",
+   "of": "Michel de Montaigne",
+   "work": "The journal of Montaigne's travels in Italy by way of Switzerland and Germany in 1580 and 1581, Volume 2 (of 3)",
+   "translated": "1903 (see the Gutenberg header)",
+   "translator": "W. G. Waters",
+   "scan_edition": "Project Gutenberg 70839 (clean text)"
+  },
+  "ww-waters-montaigne-journal-of-travels-vol-3": {
+   "source": "wgw-70840",
+   "of": "Michel de Montaigne",
+   "work": "The journal of Montaigne's travels in Italy by way of Switzerland and Germany in 1580 and 1581, Volume 3 (of 3)",
+   "translated": "1903 (see the Gutenberg header)",
+   "translator": "W. G. Waters",
+   "scan_edition": "Project Gutenberg 70840 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-75257": "The Nights of Straparola is on straparola_shelf.json."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "wgw-70838": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. g. waters",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. G. Waters"
+  },
+  "wgw-70839": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. g. waters",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. G. Waters"
+  },
+  "wgw-70840": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. g. waters",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. G. Waters"
+  }
+ },
+ "_verified": {
+  "wgw-70838": {
+   "pg": 70838,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. G. Waters"
+  },
+  "wgw-70839": {
+   "pg": 70839,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. G. Waters"
+  },
+  "wgw-70840": {
+   "pg": 70840,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. G. Waters"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

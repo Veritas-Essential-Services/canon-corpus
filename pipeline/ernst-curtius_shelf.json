@@ -1,0 +1,114 @@
+{
+ "_about": "Ernst Curtius (1814-1896), The History of Greece, tr. Adolphus William Ward (1837-1924), 5 vols. (New York: Scribner, 1892 printing of the 1868-73 translation), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). The shelf name carries his forename because the curtius shelf is Quintus Curtius. No uids minted.",
+ "_name_words": [
+  "curtius"
+ ],
+ "_surname": [
+  "ernst curtius",
+  "professor dr. ernst curtius",
+  "curtius, ernst"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ernst-curtius-history-of-greece-v1-1892": [
+   "historyofgreece11curt",
+   "The History of Greece, vol. I, tr. Adolphus William Ward (New York: Scribner, 1892)",
+   "tr. Adolphus William Ward"
+  ],
+  "ernst-curtius-history-of-greece-v2-1892": [
+   "historyofgreece21curt",
+   "The History of Greece, vol. II, tr. Adolphus William Ward (New York: Scribner, 1892)",
+   "tr. Adolphus William Ward"
+  ],
+  "ernst-curtius-history-of-greece-v3-1892": [
+   "historyofgreece31curt",
+   "The History of Greece, vol. III, tr. Adolphus William Ward (New York: Scribner, 1892)",
+   "tr. Adolphus William Ward"
+  ],
+  "ernst-curtius-history-of-greece-v4-1892": [
+   "historyofgreece51curt",
+   "The History of Greece, vol. IV, tr. Adolphus William Ward (New York: Scribner, 1892)",
+   "tr. Adolphus William Ward"
+  ],
+  "ernst-curtius-history-of-greece-v5-1892": [
+   "historyofgreece41curt",
+   "The History of Greece, vol. V, tr. Adolphus William Ward (New York: Scribner, 1892)",
+   "tr. Adolphus William Ward"
+  ]
+ },
+ "_translators": {
+  "ernst-curtius-history-of-greece-v1-1892": "Ward",
+  "ernst-curtius-history-of-greece-v2-1892": "Ward",
+  "ernst-curtius-history-of-greece-v3-1892": "Ward",
+  "ernst-curtius-history-of-greece-v4-1892": "Ward",
+  "ernst-curtius-history-of-greece-v5-1892": "Ward"
+ },
+ "_checks": {
+  "ernst-curtius-history-of-greece-v1-1892": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernst curtius",
+   "translator_claimed": "Ward",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ernst-curtius-history-of-greece-v2-1892": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernst curtius",
+   "translator_claimed": "Ward",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ernst-curtius-history-of-greece-v3-1892": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernst curtius",
+   "translator_claimed": "Ward",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ernst-curtius-history-of-greece-v4-1892": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernst curtius",
+   "translator_claimed": "Ward",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ernst-curtius-history-of-greece-v5-1892": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernst curtius",
+   "translator_claimed": "Ward",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

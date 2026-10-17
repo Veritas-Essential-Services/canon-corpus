@@ -1,1 +1,1 @@
-{"status": "running", "holder": "2026-10-10T08:56:28-05:00", "heartbeat": "2026-10-10T09:48:36-05:00", "note": "round 15 on Adam's 2026-10-10 keep-going request"}
+{"status": "paused", "holder": "2026-10-10T08:56:28-05:00", "heartbeat": "2026-10-10T15:12:00-05:00", "note": "paused at Adam's request 2026-10-10 15:12 CDT after round 21. Resume: round 22 is queued in QUEUE-A (12 authors, status queued, no research done yet); start with source research for those twelve."}

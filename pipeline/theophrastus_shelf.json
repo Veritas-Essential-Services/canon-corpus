@@ -22,7 +22,8 @@
  "_excluded": {
   "theophrastoucha01jebbgoog": "same 1870 edition; text layer unreadable (clean-word 0.00)",
   "cu31924026602171": "Sandys's 1909 revision of Jebb; lower OCR; not taken",
-  "Hort, Enquiry into Plants (Loeb, 1916)": "Greek facing; pending"
+  "Hort, Enquiry into Plants (Loeb, 1916)": "Greek facing; pending",
+  "Eustace Budgell, The Moral Characters of Theophrastus (1714; 1743 printing)": "PD; the ECCO scans found (bim_eighteenth-century_the-moral-characters-of-_theophrastus_1714, _1743) read 0.640 and 0.760; refused for OCR quality 2026-10-10"
  },
  "_surname": [
   "theophrastus"

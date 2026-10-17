@@ -1,0 +1,244 @@
+{
+ "_about": "Public-domain Frédéric Godet (1812-1900, Swiss Reformed, professor at Neuchâtel) in pre-1930 English translations, raw Internet Archive OCR: commentaries on Luke (4th ed., 2 vols, 1889), John (3 vols, 1877-80), Romans (Funk & Wagnalls, 1883) and 1 Corinthians (2 vols, 1889-90); Studies on the Old Testament (1882), Studies on the New Testament (1876), Studies on the Epistles of St. Paul (catalogued 1889), Lectures in Defence of the Christian Faith (1883) and Introduction to the New Testament (1899). Added 2026-10-10 by lane A, round 16 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "godet",
+  "frederic"
+ ],
+ "_surname": [
+  "f. godet",
+  "frederic godet",
+  "frédéric godet",
+  "f. godet, d.d",
+  "professor godet",
+  "godet, f",
+  "f. l. godet",
+  "professor f. godet"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "godet-luke-1": [
+   "commentaryongosp01godeuoft",
+   "A Commentary on the Gospel of St. Luke, vol. 1, tr. E. W. Shalders, fourth edition (Edinburgh: T. & T. Clark, 1889)"
+  ],
+  "godet-luke-2": [
+   "commentaryongosp02godeuoft",
+   "A Commentary on the Gospel of St. Luke, vol. 2, tr. M. D. Cusin, fourth edition (Edinburgh: T. & T. Clark, 1889)"
+  ],
+  "godet-john-1": [
+   "commentaryongos01godeuoft",
+   "Commentary on the Gospel of St. John, vol. 1, tr. Frances Crombie and M. D. Cusin (Edinburgh: T. & T. Clark, 1879)"
+  ],
+  "godet-john-2": [
+   "commentaryongos02godeuoft",
+   "Commentary on the Gospel of St. John, vol. 2, tr. M. D. Cusin and S. Taylor (Edinburgh: T. & T. Clark; year OCR'd \"18 70\", prefatory note May 1877)"
+  ],
+  "godet-john-3": [
+   "commentaryongos03godeuoft",
+   "Commentary on the Gospel of St. John, vol. 3, tr. S. Taylor and M. D. Cusin (Edinburgh: T. & T. Clark, 1880)"
+  ],
+  "godet-romans-1883": [
+   "commentaryonstpa00godeuoft",
+   "Commentary on St. Paul's Epistle to the Romans, tr. A. Cusin, revised and edited by Talbot W. Chambers (New York: Funk & Wagnalls, 1883)"
+  ],
+  "godet-1-corinthians-1": [
+   "commentaryonstpa01godeuoft",
+   "Commentary on St. Paul's First Epistle to the Corinthians, vol. 1, tr. A. Cusin (Edinburgh: T. & T. Clark, 1889)"
+  ],
+  "godet-1-corinthians-2": [
+   "commentaryonstpa02godeuoft",
+   "Commentary on St. Paul's First Epistle to the Corinthians, vol. 2, tr. A. Cusin (Edinburgh: T. & T. Clark, 1890)"
+  ],
+  "godet-studies-ot-1882": [
+   "studiesonoldtes00godegoog",
+   "Studies on the Old Testament, ed. W. H. Lyttelton, second edition (London: Hodder & Stoughton, MDCCCLXXXII)"
+  ],
+  "godet-studies-nt-1876": [
+   "studiesonnewtes00godegoog",
+   "Studies on the New Testament, ed. W. H. Lyttelton (London: Hodder & Stoughton, 1876, OCR'd \"MDCCCLXYVYI\")"
+  ],
+  "godet-studies-epistles": [
+   "studiesonepistle00gode",
+   "Studies on the Epistles of St. Paul, tr. Annie Harwood Holmden (Hodder & Stoughton; New York: G. H. Doran; no year on the title page, catalogued 1889)"
+  ],
+  "godet-defence-1883": [
+   "lecturesindefenc00gode_0",
+   "Lectures in Defence of the Christian Faith, tr. W. H. Lyttelton, second edition (Edinburgh: T. & T. Clark, 1883)"
+  ],
+  "godet-introduction-nt-1899": [
+   "introductionton00afflgoog",
+   "Introduction to the New Testament: The Collection of the Four Gospels and the Gospel of St. Matthew, tr. William Affleck (Edinburgh: T. & T. Clark, 1899)"
+  ]
+ },
+ "_alternates": {
+  "godet-romans-clark": "Romans, Clark's 2-vol. edition (IA commentaryonsrom01godeuoft, 02godeuoft): undated, printed after his death in 1900",
+  "godet-john-dwight": "John, tr. Timothy Dwight (Funk & Wagnalls, 1886, 1893; IA commentaryonjohn01godeuoft)"
+ },
+ "_excluded": {},
+ "_translators": {
+  "godet-luke-1": "shalders",
+  "godet-luke-2": "cusin",
+  "godet-1-corinthians-1": "cusin",
+  "godet-1-corinthians-2": "cusin",
+  "godet-introduction-nt-1899": "affleck",
+  "godet-romans-1883": "chambers"
+ },
+ "_checks": {
+  "godet-luke-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. godet",
+   "translator_claimed": "shalders",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "godet-luke-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. godet",
+   "translator_claimed": "cusin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "godet-john-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. godet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879-80",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "godet-john-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. godet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879-80",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "godet-john-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. godet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879-80",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "godet-romans-1883": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. godet",
+   "translator_claimed": "chambers",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "godet-1-corinthians-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. godet",
+   "translator_claimed": "cusin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889-90",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "godet-1-corinthians-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. godet",
+   "translator_claimed": "cusin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889-90",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "godet-studies-ot-1882": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. godet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "godet-studies-nt-1876": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. godet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "godet-studies-epistles": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. godet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "godet-defence-1883": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. godet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "godet-introduction-nt-1899": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. godet",
+   "translator_claimed": "affleck",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

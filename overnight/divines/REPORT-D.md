@@ -893,3 +893,76 @@
 
 ## 2026-10-10 09:38 CDT — napier: done
 - 1/1 fetched (Gutenberg 15792), 403 units, 0 ~2 ids.
+
+## 2026-10-10 09:40 CDT — patrick-buchan: done
+- 1/1 fetched (Gutenberg 37375), 218 units, 0 ~2 ids.
+
+## 2026-10-10 09:43 CDT — furness: done
+- 1/1 fetched (Gutenberg 30233), 51 units, 0 ~2 ids.
+
+## 2026-10-10 09:45 CDT — montalba: done
+- 1/1 fetched (Gutenberg 34956), 1,111 units, 0 ~2 ids.
+
+## 2026-10-10 09:50 CDT — thomas-day: done
+- 2/2 fetched (Gutenberg 30274, 42805), 1,247 units, 0 ~2 ids.
+
+## 2026-10-10 09:52 CDT — farrar: done
+- 3/3 fetched (Gutenberg 23126, 23127, 24329), 6,485 units, 0 ~2 ids.
+
+## 2026-10-10 09:54 CDT — talbot-baines-reed: done
+- 5/5 fetched (Gutenberg 24632, 21044, 21037, 21035, 21137), 14,545 units, 0 ~2 ids.
+
+## 2026-10-10 09:56 CDT — de-amicis: done
+- 1/1 fetched (Gutenberg 28961), 1,593 units, 0 ~2 ids.
+
+## 2026-10-10 09:58 CDT — wilhelm-busch: done
+- 1/1 fetched (Gutenberg 28847), 162 units, 0 ~2 ids.
+
+## 2026-10-10 10:01 CDT — edward-lear: done
+- 4/4 fetched (Gutenberg 13646, 13647, 13648, 13649), 908 units, 5 ~2 ids.
+
+## 2026-10-10 10:04 CDT — palmer-cox: done
+- 3/3 fetched (Gutenberg 32210, 58598, 40502), 1,820 units, 0 ~2 ids.
+
+## 2026-10-10 10:09 CDT — kate-greenaway: done
+- 2/2 fetched (Gutenberg 22888, 19541), 349 units, 2 ~2 ids.
+
+## 2026-10-10 10:11 CDT — mary-martha-sherwood: done
+- 2/2 fetched (Gutenberg 63295, 58754), 114 units, 3 ~2 ids.
+
+## 2026-10-10 10:14 CDT — mrs-o-f-walton: done
+- 3/3 fetched (Gutenberg 21997, 10728, 7437), 3,046 units, 0 ~2 ids.
+
+## 2026-10-10 10:21 CDT — kingston: done
+- 3/3 fetched (Gutenberg 21474, 24812, 21477), 4,417 units, 0 ~2 ids.
+
+## 2026-10-10 10:24 CDT — mayne-reid: done
+- 3/3 fetched (Gutenberg 21237, 21239, 21238), 3,671 units, 0 ~2 ids.
+
+## 2026-10-10 10:27 CDT — jane-and-ann-taylor: done
+- 1/1 fetched (Gutenberg 77549), 419 units, 0 ~2 ids.
+
+## 2026-10-10 10:29 CDT — michael-barrett: done
+- 1/1 fetched (Gutenberg 31121), 401 units, 0 ~2 ids.
+
+## 2026-10-10 10:32 CDT — elizabeth-prentiss: done
+- 1/1 fetched (Gutenberg 37219), 400 units, 0 ~2 ids.
+
+## 2026-10-10 10:40 CDT — hugh-miller: done
+- 1/1 fetched (Gutenberg 71325), 960 units, 0 ~2 ids.
+
+## 2026-10-10 10:43 CDT — emilie-baker: done
+- 1/1 fetched (Gutenberg 45489), 1,659 units, 0 ~2 ids.
+
+## 2026-10-10 10:46 CDT — knatchbull-hugessen: done
+- 2/2 fetched (Gutenberg 44425, 44924), 1,911 units, 7 ~2 ids.
+
+## 2026-10-10 10:49 CDT — louise-houghton: done
+- 1/1 fetched (Gutenberg 45214), 1,412 units, 0 ~2 ids.
+
+## 2026-10-10 10:52 CDT — hanford-gordon: done
+- 1/1 fetched (Gutenberg 8122), 525 units, 0 ~2 ids.
+
+## 2026-10-10 15:09 CDT — session end: paused at Adam's request
+- Batches 30-35 (37 shelves, headline 239 to 270) and audit passes 11-12 committed and pushed. No batch in progress; no partial shelves on disk.
+- Lock set to paused. Resume with batch 36 when reactivated.

@@ -1,0 +1,182 @@
+{
+ "_about": "Public-domain Asa Mahan (1799-1889, first president of Oberlin, Wesleyan holiness writer) for the Word Hoard: Doctrine of the Will (Project Gutenberg, 1845), and from Internet Archive scans Scripture Doctrine of Christian Perfection (1839), The True Believer (1847), Lectures on the Ninth of Romans (1850), Modern Mysteries Explained and Exposed (1855), The Science of Natural Theology (1867), The Baptism of the Holy Ghost (1870), Out of Darkness into Light (1875), The Phenomena of Spiritualism (1875) and his Autobiography (1882). His philosophy textbooks are alternates. Oberlin perfectionism; veto point. Added 2026-10-10 by lane A, round 19 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "mahan",
+  "asa"
+ ],
+ "_surname": [
+  "asa mahan",
+  "a. mahan",
+  "mahan, asa",
+  "rev. asa mahan",
+  "rev. a. mahan"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "mahan-doctrine-will": [
+   "38621",
+   "Doctrine of the Will (New York: Mark H. Newman; Oberlin: R. E. Gillet, 1845)"
+  ]
+ },
+ "internet_archive": {
+  "mahan-christian-perfection": [
+   "scripturedoctrin00maharich",
+   "Scripture Doctrine of Christian Perfection (Boston: D. S. King, 1839)"
+  ],
+  "mahan-true-believer": [
+   "truebelieverhis00mahagoog",
+   "The True Believer: His Character, Duty, and Privileges (New York: Harper & Brothers, 1847)"
+  ],
+  "mahan-ninth-romans": [
+   "lecturesonninth00mahagoog",
+   "Lectures on the Ninth of Romans; Election, and the Influence of the Holy Spirit (London: Ward & Co., 1850)"
+  ],
+  "mahan-modern-mysteries": [
+   "modernmysteries00mahagoog",
+   "Modern Mysteries Explained and Exposed (fourth thousand, Boston: John P. Jewett, 1855)"
+  ],
+  "mahan-natural-theology": [
+   "scienceofnatural00maha",
+   "The Science of Natural Theology; or, God the Unconditioned Cause (Boston: Henry Hoyt, 1867)"
+  ],
+  "mahan-baptism-holy-ghost": [
+   "baptismofholygho00maha",
+   "The Baptism of the Holy Ghost (New York: W. C. Palmer, Jr., 1870)"
+  ],
+  "mahan-out-of-darkness": [
+   "outdarknessinto00mahagoog",
+   "Out of Darkness into Light; or, The Hidden Life Made Manifest (London: Wesleyan Conference Office, 1875)"
+  ],
+  "mahan-phenomena-spiritualism": [
+   "phenomenaofspiri00maha",
+   "The Phenomena of Spiritualism Scientifically Explained and Exposed (London: Hodder and Stoughton, MDCCCLXXV)"
+  ],
+  "mahan-autobiography": [
+   "autobiographyint00maha",
+   "Autobiography: Intellectual, Moral, and Spiritual (London: T. Woolmer, 1882)"
+  ]
+ },
+ "_alternates": {
+  "mahan-philosophy": "Philosophy textbooks: A System of Intellectual Philosophy (1847; IA systemofintellec00maha), Science of Moral Philosophy (1848; sciencemoralphi00mahagoog), The Science of Logic (1863; scienceoflogicor00asam), The System of Mental Philosophy (1882; systemofmentalph00maha), A Critical History of Philosophy, 2 vols. (1883; criticalhistoryo01mahaiala, 02mahaiala)",
+  "mahan-doctrine-will-scan": "Doctrine of the Will, scan (IA doctrineofwill00maha)",
+  "mahan-perfection-later": "Christian Perfection, 4th ed. 1840 and 7th ed. 1844 (IA scripturedoctri00mahagoog, scripturedoctrin00maha)",
+  "mahan-baptism-1876": "The Baptism of the Holy Ghost, London: Elliot Stock 1876 with Finney's Enduement of Power added (IA baptismholyghos00finngoog): mixed authorship"
+ },
+ "_excluded": {
+  "mahan-epubs": "Epub-only uploads with no scan (Misunderstood Texts, Teachings of the Spirit and others)",
+  "mahan-reprints": "1972-2015 reprints",
+  "mahan-namesakes": "Mrs. Asa Mahan's Bulgarian Faith Mission, and A. T., Milo and D. H. Mahan",
+  "mahan-war-history": "Critical History of the Late American War (1877): not divinity"
+ },
+ "_checks": {
+  "mahan-doctrine-will": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "asa mahan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mahan-christian-perfection": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "asa mahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mahan-true-believer": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "asa mahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mahan-ninth-romans": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "asa mahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mahan-modern-mysteries": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "asa mahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mahan-natural-theology": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "asa mahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mahan-baptism-holy-ghost": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "asa mahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mahan-out-of-darkness": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "asa mahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mahan-phenomena-spiritualism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "asa mahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mahan-autobiography": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "asa mahan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Gertrude Hall (Mrs. Brownell, 1863-1961): Poems of Paul Verlaine (1895) and Rostand's Chantecler (1910). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "gertrude hall"
+ ],
+ "_surname": [
+  "gertrude hall"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ghb-10747": [
+   10747,
+   "Chantecler: Play in Four Acts"
+  ],
+  "ghb-8426": [
+   8426,
+   "Poems of Paul Verlaine"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "gertrude-hall-rostand-chantecler-play-in-four-acts": {
+   "source": "ghb-10747",
+   "of": "Edmond Rostand",
+   "work": "Chantecler: Play in Four Acts",
+   "translated": "1895-1910 (see the Gutenberg header)",
+   "translator": "Gertrude Hall",
+   "scan_edition": "Project Gutenberg 10747 (clean text)"
+  },
+  "gertrude-hall-verlaine-poems-of-paul-verlaine": {
+   "source": "ghb-8426",
+   "of": "Paul Verlaine",
+   "work": "Poems of Paul Verlaine",
+   "translated": "1895-1910 (see the Gutenberg header)",
+   "translator": "Gertrude Hall",
+   "scan_edition": "Project Gutenberg 8426 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ghb-10747": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gertrude hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gertrude Hall Brownell"
+  },
+  "ghb-8426": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gertrude hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gertrude Hall Brownell"
+  }
+ },
+ "_verified": {
+  "ghb-10747": {
+   "pg": 10747,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gertrude Hall Brownell"
+  },
+  "ghb-8426": {
+   "pg": 8426,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gertrude Hall Brownell"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

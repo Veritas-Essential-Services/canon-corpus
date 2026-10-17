@@ -1,0 +1,61 @@
+{
+ "_about": "Terrot Reaveley Glover (1869-1943): The Conflict of Religions in the Early Roman Empire (clean Gutenberg), Life and Letters in the Fourth Century (Cambridge, 1901) and Virgil, second edition (Methuen, 1912; first published 1904 as Studies in Virgil), raw IA OCR. His The Jesus of History (PG 13335) is theology, outside this brief. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "glover"
+ ],
+ "_surname": [
+  "t. r. glover",
+  "terrot reaveley glover",
+  "glover, t. r"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "glover-conflict-religions-early-roman-empire": [
+   39092,
+   "The Conflict of Religions in the Early Roman Empire"
+  ]
+ },
+ "internet_archive": {
+  "glover-life-letters-fourth-century-1901": [
+   "lifelettersinfou00glovuoft",
+   "Life and Letters in the Fourth Century (Cambridge: University Press, 1901)"
+  ],
+  "glover-virgil-1912": [
+   "virgil00glovrich",
+   "Virgil, second edition (London: Methuen, 1912)"
+  ]
+ },
+ "_checks": {
+  "glover-conflict-religions-early-roman-empire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "t. r. glover",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glover-life-letters-fourth-century-1901": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "terrot reaveley glover",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "glover-virgil-1912": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "t. r. glover",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

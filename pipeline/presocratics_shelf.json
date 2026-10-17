@@ -18,6 +18,11 @@
    "thefragmentsofem00empeuoft",
    "The Fragments of Empedocles, translated into English verse (Open Court, 1908)",
    "tr. William Ellery Leonard"
+  ],
+  "presocratics-fairbanks-first-philosophers-1898": [
+   "firstphilosopher00fairiala",
+   "The First Philosophers of Greece: an edition and translation of the remaining fragments of the pre-Sokratic philosophers (New York: Scribner's, 1898; Greek facing)",
+   "tr. Arthur Fairbanks"
   ]
  },
  "_surname": [
@@ -26,17 +31,18 @@
  ],
  "_surname_by_slug": {},
  "_excluded": {
-  "Arthur Fairbanks, The First Philosophers of Greece (1898)": "refused: Greek facing, OCR 0.77 and 0.73 on the two scans tried",
+  "Arthur Fairbanks, The First Philosophers of Greece (1898)": "the two scans first tried (firstphilosopher00fair, cu31924029013162) read 0.77 and 0.73 with the Greek facing; a third copy (firstphilosopher00fairiala, 0.790) clears the bar and is held as presocratics-fairbanks-first-philosophers-1898",
   "John Burnet, Early Greek Philosophy (1892)": "a study that quotes the fragments in translation, not a translation of a work; not taken"
  },
  "_translators": {
   "heraclitus-patrick-1889": "G. T. W. Patrick",
-  "empedocles-leonard-1908": "William Ellery Leonard"
+  "empedocles-leonard-1908": "William Ellery Leonard",
+  "presocratics-fairbanks-first-philosophers-1898": "arthur fairbanks"
  },
  "_checks": {
   "heraclitus-patrick-1889": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "heraclitus",
    "translator_claimed": "G. T. W. Patrick",
@@ -49,7 +55,7 @@
   },
   "empedocles-leonard-1908": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "heraclitus",
    "translator_claimed": "William Ellery Leonard",
@@ -59,6 +65,23 @@
    "ia_date": "1908",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "presocratics-fairbanks-first-philosophers-1898": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "heraclitus",
+   "translator_claimed": "arthur fairbanks",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "New York: Scribner's, 1898 (preface dated November 1897): US PD by date. Fairbanks died in 1944, so UK PD since 2015 (death year from the catalogue heading 'Fairbanks, Arthur, 1864-1944')"
   }
+ },
+ "_rights_checked": {
+  "presocratics-fairbanks-first-philosophers-1898": "New York: Scribner's, 1898 (preface dated November 1897): US PD by date. Fairbanks died in 1944, so UK PD since 2015 (death year from the catalogue heading 'Fairbanks, Arthur, 1864-1944')"
  }
 }

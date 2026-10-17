@@ -1,0 +1,107 @@
+{
+ "_about": "TRANSLATOR SHELF: Henry E. J. Stanley, Lord Stanley of Alderley (1827-1903), for the Hakluyt Society: Barbosa's Description of the Coasts of East Africa and Malabar (1866), Pigafetta's First Voyage Round the World by Magellan (1874) and Alvares's Narrative of the Portuguese Embassy to Abyssinia (1881). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "stanley of alderley",
+  "lord stanley",
+  "stanley"
+ ],
+ "_surname": [
+  "stanley of alderley",
+  "lord stanley",
+  "stanley"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "sta-38253": [
+   38253,
+   "A Description of the Coasts of East Africa and Malabar in the Beginning of the Sixteenth Century"
+  ],
+  "sta-72622": [
+   72622,
+   "Narrative of the Portuguese embassy to Abyssinia during the years 1520-1527"
+  ],
+  "sta-74723": [
+   74723,
+   "The first voyage round the world, by Magellan"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "lord-stanley-alvares-narrative-of-the-portuguese-embassy-to-a": {
+   "source": "sta-72622",
+   "of": "Francisco Alvares",
+   "work": "Narrative of the Portuguese embassy to Abyssinia during the years 1520-1527",
+   "translated": "1866-1881 (see the Gutenberg header)",
+   "translator": "Henry E. J. Stanley, Lord Stanley of Alderley",
+   "scan_edition": "Project Gutenberg 72622 (clean text)"
+  },
+  "lord-stanley-barbosa-a-description-of-the-coasts-of-east-afri": {
+   "source": "sta-38253",
+   "of": "Duarte Barbosa",
+   "work": "A Description of the Coasts of East Africa and Malabar in the Beginning of the Sixteenth Century",
+   "translated": "1866-1881 (see the Gutenberg header)",
+   "translator": "Henry E. J. Stanley, Lord Stanley of Alderley",
+   "scan_edition": "Project Gutenberg 38253 (clean text)",
+   "note": "The Gutenberg text was keyed from the 1970 Johnson Reprint Corporation photo-reprint of the 1866 Hakluyt Society volume ('First reprinting 1970'). The text is the 1866 public-domain translation, but the copy is a later facsimile, not a pre-1931 printing: flagged in DIGEST-C for Adam's veto (same question as Whishaw's facsimile)."
+  },
+  "lord-stanley-pigafetta-the-first-voyage-round-the-world-by-mage": {
+   "source": "sta-74723",
+   "of": "Antonio Pigafetta",
+   "work": "The first voyage round the world, by Magellan",
+   "translated": "1866-1881 (see the Gutenberg header)",
+   "translator": "Henry E. J. Stanley, Lord Stanley of Alderley",
+   "scan_edition": "Project Gutenberg 74723 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "sta-38253": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "stanley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Baron Henry Edward John Stanley Stanley"
+  },
+  "sta-72622": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "stanley of alderley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Baron Henry Edward John Stanley Stanley"
+  },
+  "sta-74723": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "stanley of alderley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Baron Henry Edward John Stanley Stanley"
+  }
+ },
+ "_verified": {
+  "sta-38253": {
+   "pg": 38253,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Baron Henry Edward John Stanley Stanley"
+  },
+  "sta-72622": {
+   "pg": 72622,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Baron Henry Edward John Stanley Stanley"
+  },
+  "sta-74723": {
+   "pg": 74723,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Baron Henry Edward John Stanley Stanley"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

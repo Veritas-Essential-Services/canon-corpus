@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Albert D. Vandam (1843-1903): Bartholomew Sastrow's Memoirs of a German Burgomaster (1902) and La Garde-Chambonas's Anecdotal Recollections of the Congress of Vienna (1902). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "albert d. vandam",
+  "vandam"
+ ],
+ "_surname": [
+  "albert d. vandam",
+  "vandam"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "van-33891": [
+   33891,
+   "Bartholomew Sastrow: Being the Memoirs of a German Burgomaster"
+  ],
+  "van-54061": [
+   54061,
+   "Anecdotal Recollections of the Congress of Vienna"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "vandam-la-garde-chambonas-anecdotal-recollections-of-the-congress": {
+   "source": "van-54061",
+   "of": "Auguste de La Garde-Chambonas",
+   "work": "Anecdotal Recollections of the Congress of Vienna",
+   "translated": "1902 (see the Gutenberg header)",
+   "translator": "Albert D. Vandam",
+   "scan_edition": "Project Gutenberg 54061 (clean text)"
+  },
+  "vandam-sastrow-bartholomew-sastrow-being-the-memoirs-of": {
+   "source": "van-33891",
+   "of": "Bartholomäus Sastrow",
+   "work": "Bartholomew Sastrow: Being the Memoirs of a German Burgomaster",
+   "translated": "1902 (see the Gutenberg header)",
+   "translator": "Albert D. Vandam",
+   "scan_edition": "Project Gutenberg 33891 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "van-33891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "albert d. vandam",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Albert D. Vandam"
+  },
+  "van-54061": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "albert d. vandam",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Albert D. Vandam"
+  }
+ },
+ "_verified": {
+  "van-33891": {
+   "pg": 33891,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Albert D. Vandam"
+  },
+  "van-54061": {
+   "pg": 54061,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Albert D. Vandam"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

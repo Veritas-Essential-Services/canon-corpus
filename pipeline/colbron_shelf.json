@@ -1,0 +1,156 @@
+{
+ "_about": "TRANSLATOR SHELF: Grace Isabel Colbron (1869-1943): Auguste Groner's Joe Muller detective stories (Duffield, 1910). US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted.",
+ "_name_words": [
+  "grace isabel colbron",
+  "colbron"
+ ],
+ "_surname": [
+  "grace isabel colbron",
+  "colbron"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "col-1832": [
+   1832,
+   "The Case of the Lamp That Went Out"
+  ],
+  "col-1833": [
+   1833,
+   "The Case of the Registered Letter"
+  ],
+  "col-1834": [
+   1834,
+   "The Case of the Pocket Diary Found in the Snow"
+  ],
+  "col-1835": [
+   1835,
+   "The Case of the Pool of Blood in the Pastor's Study"
+  ],
+  "col-1836": [
+   1836,
+   "The Case of the Golden Bullet"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "colbron-groner-the-case-of-the-golden-bullet": {
+   "source": "col-1836",
+   "of": "Auguste Groner",
+   "work": "The Case of the Golden Bullet",
+   "translated": "1910 (see the Gutenberg header)",
+   "translator": "Grace Isabel Colbron",
+   "scan_edition": "Project Gutenberg 1836 (clean text)"
+  },
+  "colbron-groner-the-case-of-the-lamp-that-went-out": {
+   "source": "col-1832",
+   "of": "Auguste Groner",
+   "work": "The Case of the Lamp That Went Out",
+   "translated": "1910 (see the Gutenberg header)",
+   "translator": "Grace Isabel Colbron",
+   "scan_edition": "Project Gutenberg 1832 (clean text)"
+  },
+  "colbron-groner-the-case-of-the-pocket-diary-found-in-th": {
+   "source": "col-1834",
+   "of": "Auguste Groner",
+   "work": "The Case of the Pocket Diary Found in the Snow",
+   "translated": "1910 (see the Gutenberg header)",
+   "translator": "Grace Isabel Colbron",
+   "scan_edition": "Project Gutenberg 1834 (clean text)"
+  },
+  "colbron-groner-the-case-of-the-pool-of-blood-in-the-pas": {
+   "source": "col-1835",
+   "of": "Auguste Groner",
+   "work": "The Case of the Pool of Blood in the Pastor's Study",
+   "translated": "1910 (see the Gutenberg header)",
+   "translator": "Grace Isabel Colbron",
+   "scan_edition": "Project Gutenberg 1835 (clean text)"
+  },
+  "colbron-groner-the-case-of-the-registered-letter": {
+   "source": "col-1833",
+   "of": "Auguste Groner",
+   "work": "The Case of the Registered Letter",
+   "translated": "1910 (see the Gutenberg header)",
+   "translator": "Grace Isabel Colbron",
+   "scan_edition": "Project Gutenberg 1833 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "col-1832": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "grace isabel colbron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Grace Isabel Colbron"
+  },
+  "col-1833": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "grace isabel colbron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Grace Isabel Colbron"
+  },
+  "col-1834": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "grace isabel colbron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Grace Isabel Colbron"
+  },
+  "col-1835": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "grace isabel colbron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Grace Isabel Colbron"
+  },
+  "col-1836": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "grace isabel colbron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Grace Isabel Colbron"
+  }
+ },
+ "_verified": {
+  "col-1832": {
+   "pg": 1832,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Grace Isabel Colbron"
+  },
+  "col-1833": {
+   "pg": 1833,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Grace Isabel Colbron"
+  },
+  "col-1834": {
+   "pg": 1834,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Grace Isabel Colbron"
+  },
+  "col-1835": {
+   "pg": 1835,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Grace Isabel Colbron"
+  },
+  "col-1836": {
+   "pg": 1836,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Grace Isabel Colbron"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,130 @@
+{
+ "_about": "TRANSLATOR SHELF: Henri Van Laun (1820-1896): Taine's History of English Literature (1871, 3 vols) and La Bruyère's Characters (1885). US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
+ "_name_words": [
+  "henri van laun",
+  "van laun"
+ ],
+ "_surname": [
+  "henri van laun",
+  "van laun"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "vla-46633": [
+   46633,
+   "The \"Characters\" of Jean de La Bruyère"
+  ],
+  "vla-61308": [
+   61308,
+   "History of English Literature Volume 1 (of 3)"
+  ],
+  "vla-61382": [
+   61382,
+   "History of English Literature Volume 2 (of 3)"
+  ],
+  "vla-61510": [
+   61510,
+   "History of English Literature Volume 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "van-laun-bruyere-the-characters-of-jean-de-la-bruyere": {
+   "source": "vla-46633",
+   "of": "Jean de La Bruyère",
+   "work": "The \"Characters\" of Jean de La Bruyère",
+   "translated": "1871-1885 (see the Gutenberg header)",
+   "translator": "Henri Van Laun",
+   "scan_edition": "Project Gutenberg 46633 (clean text)"
+  },
+  "van-laun-taine-history-of-english-literature-volume-1-o": {
+   "source": "vla-61308",
+   "of": "Hippolyte Taine",
+   "work": "History of English Literature Volume 1 (of 3)",
+   "translated": "1871-1885 (see the Gutenberg header)",
+   "translator": "Henri Van Laun",
+   "scan_edition": "Project Gutenberg 61308 (clean text)"
+  },
+  "van-laun-taine-history-of-english-literature-volume-2-o": {
+   "source": "vla-61382",
+   "of": "Hippolyte Taine",
+   "work": "History of English Literature Volume 2 (of 3)",
+   "translated": "1871-1885 (see the Gutenberg header)",
+   "translator": "Henri Van Laun",
+   "scan_edition": "Project Gutenberg 61382 (clean text)"
+  },
+  "van-laun-taine-history-of-english-literature-volume-3-o": {
+   "source": "vla-61510",
+   "of": "Hippolyte Taine",
+   "work": "History of English Literature Volume 3 (of 3)",
+   "translated": "1871-1885 (see the Gutenberg header)",
+   "translator": "Henri Van Laun",
+   "scan_edition": "Project Gutenberg 61510 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "vla-46633": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henri van laun",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henri Van Laun"
+  },
+  "vla-61308": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henri van laun",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henri Van Laun"
+  },
+  "vla-61382": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henri van laun",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henri Van Laun"
+  },
+  "vla-61510": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henri van laun",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henri Van Laun"
+  }
+ },
+ "_verified": {
+  "vla-46633": {
+   "pg": 46633,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henri Van Laun"
+  },
+  "vla-61308": {
+   "pg": 61308,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henri Van Laun"
+  },
+  "vla-61382": {
+   "pg": 61382,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henri Van Laun"
+  },
+  "vla-61510": {
+   "pg": 61510,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henri Van Laun"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

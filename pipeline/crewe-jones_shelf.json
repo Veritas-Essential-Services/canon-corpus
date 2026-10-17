@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Florence Crewe-Jones (1876-1940): Hector Malot's Nobody's Boy (Sans famille, 1916) and Nobody's Girl (En famille, 1922). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_name_words": [
+  "florence crewe-jones",
+  "crewe-jones"
+ ],
+ "_surname": [
+  "florence crewe-jones",
+  "crewe-jones"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "crj-25102": [
+   25102,
+   "Nobody's boy (Sans famille)"
+  ],
+  "crj-27690": [
+   27690,
+   "Nobody's Girl (En Famille)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "crewe-jones-malot-nobody-s-boy-sans-famille": {
+   "source": "crj-25102",
+   "of": "Hector Malot",
+   "work": "Nobody's boy (Sans famille)",
+   "translated": "1916-1922 (see the Gutenberg header)",
+   "translator": "Florence Crewe-Jones",
+   "scan_edition": "Project Gutenberg 25102 (clean text)"
+  },
+  "crewe-jones-malot-nobody-s-girl-en-famille": {
+   "source": "crj-27690",
+   "of": "Hector Malot",
+   "work": "Nobody's Girl (En Famille)",
+   "translated": "1916-1922 (see the Gutenberg header)",
+   "translator": "Florence Crewe-Jones",
+   "scan_edition": "Project Gutenberg 27690 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "crj-25102": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "florence crewe-jones",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Florence Crewe-Jones"
+  },
+  "crj-27690": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "florence crewe-jones",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Florence Crewe-Jones"
+  }
+ },
+ "_verified": {
+  "crj-25102": {
+   "pg": 25102,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Florence Crewe-Jones"
+  },
+  "crj-27690": {
+   "pg": 27690,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Florence Crewe-Jones"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

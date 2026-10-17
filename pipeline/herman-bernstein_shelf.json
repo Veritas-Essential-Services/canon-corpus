@@ -1,0 +1,258 @@
+{
+ "_about": "TRANSLATOR SHELF: Herman Bernstein (1876-1935): Andreyev (The Seven Who Were Hanged, 1909; Anathema; Satan's Diary, 1920), Gorky, Chekhov and Turgenev. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 21); Adam may veto. No uids minted.",
+ "_name_words": [
+  "herman bernstein"
+ ],
+ "_surname": [
+  "herman bernstein"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "hbe-23055": [
+   23055,
+   "The Slanderer"
+  ],
+  "hbe-23056": [
+   23056,
+   "The Rendezvous"
+  ],
+  "hbe-2709": [
+   2709,
+   "The Man Who Was Afraid"
+  ],
+  "hbe-42665": [
+   42665,
+   "Satan's Diary"
+  ],
+  "hbe-49596": [
+   49596,
+   "The Sorrows of Belgium: A Play in Six Scenes"
+  ],
+  "hbe-49606": [
+   49606,
+   "Anathema: A Tragedy in Seven Scenes"
+  ],
+  "hbe-5779": [
+   5779,
+   "The Crushed Flower, and Other Stories"
+  ],
+  "hbe-6722": [
+   6722,
+   "The Seven Who Were Hanged"
+  ],
+  "hbe-78902": [
+   78902,
+   "The waltz of the dogs"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "herman-bernstein-andreyev-anathema-a-tragedy-in-seven-scenes": {
+   "source": "hbe-49606",
+   "of": "Leonid Andreyev",
+   "work": "Anathema: A Tragedy in Seven Scenes",
+   "translated": "1901-1922 (see the Gutenberg header)",
+   "translator": "Herman Bernstein",
+   "scan_edition": "Project Gutenberg 49606 (clean text)"
+  },
+  "herman-bernstein-andreyev-satan-s-diary": {
+   "source": "hbe-42665",
+   "of": "Leonid Andreyev",
+   "work": "Satan's Diary",
+   "translated": "1901-1922 (see the Gutenberg header)",
+   "translator": "Herman Bernstein",
+   "scan_edition": "Project Gutenberg 42665 (clean text)"
+  },
+  "herman-bernstein-andreyev-the-crushed-flower-and-other-stories": {
+   "source": "hbe-5779",
+   "of": "Leonid Andreyev",
+   "work": "The Crushed Flower, and Other Stories",
+   "translated": "1901-1922 (see the Gutenberg header)",
+   "translator": "Herman Bernstein",
+   "scan_edition": "Project Gutenberg 5779 (clean text)"
+  },
+  "herman-bernstein-andreyev-the-seven-who-were-hanged": {
+   "source": "hbe-6722",
+   "of": "Leonid Andreyev",
+   "work": "The Seven Who Were Hanged",
+   "translated": "1901-1922 (see the Gutenberg header)",
+   "translator": "Herman Bernstein",
+   "scan_edition": "Project Gutenberg 6722 (clean text)"
+  },
+  "herman-bernstein-andreyev-the-sorrows-of-belgium-a-play-in-six-sce": {
+   "source": "hbe-49596",
+   "of": "Leonid Andreyev",
+   "work": "The Sorrows of Belgium: A Play in Six Scenes",
+   "translated": "1901-1922 (see the Gutenberg header)",
+   "translator": "Herman Bernstein",
+   "scan_edition": "Project Gutenberg 49596 (clean text)"
+  },
+  "herman-bernstein-andreyev-the-waltz-of-the-dogs": {
+   "source": "hbe-78902",
+   "of": "Leonid Andreyev",
+   "work": "The waltz of the dogs",
+   "translated": "1901-1922 (see the Gutenberg header)",
+   "translator": "Herman Bernstein",
+   "scan_edition": "Project Gutenberg 78902 (clean text)"
+  },
+  "herman-bernstein-chekhov-the-slanderer": {
+   "source": "hbe-23055",
+   "of": "Anton Chekhov",
+   "work": "The Slanderer",
+   "translated": "1901-1922 (see the Gutenberg header)",
+   "translator": "Herman Bernstein",
+   "scan_edition": "Project Gutenberg 23055 (clean text)"
+  },
+  "herman-bernstein-gorky-the-man-who-was-afraid": {
+   "source": "hbe-2709",
+   "of": "Maksim Gorky",
+   "work": "The Man Who Was Afraid",
+   "translated": "1901-1922 (see the Gutenberg header)",
+   "translator": "Herman Bernstein",
+   "scan_edition": "Project Gutenberg 2709 (clean text)"
+  },
+  "herman-bernstein-turgenev-the-rendezvous": {
+   "source": "hbe-23056",
+   "of": "Ivan Turgenev",
+   "work": "The Rendezvous",
+   "translated": "1901-1922 (see the Gutenberg header)",
+   "translator": "Herman Bernstein",
+   "scan_edition": "Project Gutenberg 23056 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "hbe-23055": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "herman bernstein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herman Bernstein"
+  },
+  "hbe-23056": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "herman bernstein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herman Bernstein"
+  },
+  "hbe-2709": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "herman bernstein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herman Bernstein"
+  },
+  "hbe-42665": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "herman bernstein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herman Bernstein"
+  },
+  "hbe-49596": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "herman bernstein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herman Bernstein"
+  },
+  "hbe-49606": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "herman bernstein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herman Bernstein"
+  },
+  "hbe-5779": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "herman bernstein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herman Bernstein"
+  },
+  "hbe-6722": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "herman bernstein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herman Bernstein"
+  },
+  "hbe-78902": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "herman bernstein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herman Bernstein"
+  }
+ },
+ "_verified": {
+  "hbe-23055": {
+   "pg": 23055,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Herman Bernstein"
+  },
+  "hbe-23056": {
+   "pg": 23056,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Herman Bernstein"
+  },
+  "hbe-2709": {
+   "pg": 2709,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Herman Bernstein"
+  },
+  "hbe-42665": {
+   "pg": 42665,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Herman Bernstein"
+  },
+  "hbe-49596": {
+   "pg": 49596,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Herman Bernstein"
+  },
+  "hbe-49606": {
+   "pg": 49606,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Herman Bernstein"
+  },
+  "hbe-5779": {
+   "pg": 5779,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Herman Bernstein"
+  },
+  "hbe-6722": {
+   "pg": 6722,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Herman Bernstein"
+  },
+  "hbe-78902": {
+   "pg": 78902,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Herman Bernstein"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

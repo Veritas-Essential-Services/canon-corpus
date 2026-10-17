@@ -1,0 +1,237 @@
+{
+ "_about": "TRANSLATOR SHELF: W. J. Alexander Worster (1882-1929): Knut Hamsun (Growth of the Soil, Pan, Wanderers, Mothwise; Knopf/Gyldendal, 1920-22), Bojer's The Great Hunger, Gunnarsson, Buchholtz and Nilsen. He died in 1929. US public domain (published before 1931). Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted.",
+ "_name_words": [
+  "w. w. worster",
+  "worster"
+ ],
+ "_surname": [
+  "w. w. worster",
+  "worster"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "wor-10984": [
+   10984,
+   "Growth of the Soil"
+  ],
+  "wor-2943": [
+   2943,
+   "The Great Hunger"
+  ],
+  "wor-35918": [
+   35918,
+   "Dry fish and wet"
+  ],
+  "wor-46220": [
+   46220,
+   "Mothwise"
+  ],
+  "wor-46913": [
+   46913,
+   "Egholm and his God"
+  ],
+  "wor-62455": [
+   62455,
+   "Guest the One-Eyed"
+  ],
+  "wor-7214": [
+   7214,
+   "Pan"
+  ],
+  "wor-7762": [
+   7762,
+   "Wanderers"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "worster-bojer-the-great-hunger": {
+   "source": "wor-2943",
+   "of": "Johan Bojer",
+   "work": "The Great Hunger",
+   "translated": "1918-1923 (see the Gutenberg header)",
+   "translator": "W. W. Worster (with Charles Archer)",
+   "scan_edition": "Project Gutenberg 2943 (clean text)"
+  },
+  "worster-buchholtz-egholm-and-his-god": {
+   "source": "wor-46913",
+   "of": "Johannes Buchholtz",
+   "work": "Egholm and his God",
+   "translated": "1918-1923 (see the Gutenberg header)",
+   "translator": "W. W. Worster",
+   "scan_edition": "Project Gutenberg 46913 (clean text)"
+  },
+  "worster-gunnarsson-guest-the-one-eyed": {
+   "source": "wor-62455",
+   "of": "Gunnar Gunnarsson",
+   "work": "Guest the One-Eyed",
+   "translated": "1918-1923 (see the Gutenberg header)",
+   "translator": "W. W. Worster",
+   "scan_edition": "Project Gutenberg 62455 (clean text)"
+  },
+  "worster-hamsun-growth-of-the-soil": {
+   "source": "wor-10984",
+   "of": "Knut Hamsun",
+   "work": "Growth of the Soil",
+   "translated": "1918-1923 (see the Gutenberg header)",
+   "translator": "W. W. Worster",
+   "scan_edition": "Project Gutenberg 10984 (clean text)"
+  },
+  "worster-hamsun-mothwise": {
+   "source": "wor-46220",
+   "of": "Knut Hamsun",
+   "work": "Mothwise",
+   "translated": "1918-1923 (see the Gutenberg header)",
+   "translator": "W. W. Worster",
+   "scan_edition": "Project Gutenberg 46220 (clean text)"
+  },
+  "worster-hamsun-pan": {
+   "source": "wor-7214",
+   "of": "Knut Hamsun",
+   "work": "Pan",
+   "translated": "1918-1923 (see the Gutenberg header)",
+   "translator": "W. W. Worster",
+   "scan_edition": "Project Gutenberg 7214 (clean text)"
+  },
+  "worster-hamsun-wanderers": {
+   "source": "wor-7762",
+   "of": "Knut Hamsun",
+   "work": "Wanderers",
+   "translated": "1918-1923 (see the Gutenberg header)",
+   "translator": "W. W. Worster",
+   "scan_edition": "Project Gutenberg 7762 (clean text)"
+  },
+  "worster-nilsen-dry-fish-and-wet": {
+   "source": "wor-35918",
+   "of": "Anthon Bernhard Elias Nilsen (Elias Kræmmer)",
+   "work": "Dry fish and wet",
+   "translated": "1918-1923 (see the Gutenberg header)",
+   "translator": "W. W. Worster",
+   "scan_edition": "Project Gutenberg 35918 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-28932": "Rasmussen's Eskimo Folk-Tales is on rasmussen_shelf.json (another lane).",
+  "pg-71086": "Lagerlöf's The Outcast (1922) is left for lagerlof_shelf.json (another lane), which does not hold it yet."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "wor-10984": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "worster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. J. Alexander Worster"
+  },
+  "wor-2943": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "worster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Archer; W. J. Alexander Worster"
+  },
+  "wor-35918": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "worster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. J. Alexander Worster"
+  },
+  "wor-46220": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. w. worster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. J. Alexander Worster"
+  },
+  "wor-46913": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. w. worster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. J. Alexander Worster"
+  },
+  "wor-62455": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. w. worster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. J. Alexander Worster"
+  },
+  "wor-7214": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. w. worster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. J. Alexander Worster"
+  },
+  "wor-7762": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. w. worster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. J. Alexander Worster"
+  }
+ },
+ "_verified": {
+  "wor-10984": {
+   "pg": 10984,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. J. Alexander Worster"
+  },
+  "wor-2943": {
+   "pg": 2943,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Archer"
+  },
+  "wor-35918": {
+   "pg": 35918,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. J. Alexander Worster"
+  },
+  "wor-46220": {
+   "pg": 46220,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. J. Alexander Worster"
+  },
+  "wor-46913": {
+   "pg": 46913,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. J. Alexander Worster"
+  },
+  "wor-62455": {
+   "pg": 62455,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. J. Alexander Worster"
+  },
+  "wor-7214": {
+   "pg": 7214,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. J. Alexander Worster"
+  },
+  "wor-7762": {
+   "pg": 7762,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. J. Alexander Worster"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

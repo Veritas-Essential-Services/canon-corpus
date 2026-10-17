@@ -1,0 +1,2231 @@
+{
+ "_about": "SINGLE-TRANSLATION SHELF: more one-off English translations of continental and world fiction: Pushkin's prose tales (Keane) and Queen of Spades (Sutherland Edwards), Gogol's Cossack Tales and Home Life in Russia, Andreyev ×4 (The Red Laugh, The Dark, The Little Angel, When the King Loses His Head), Gorky's Three Men, Kuprin, Chekhov's Black Monk (Long), Tolstoy's Sebastopol (Millet), Fernán Caballero's La Gaviota, Madame de Staël's Corinne (Isabel Hill), Le Sage's Asmodeus, Cervantes's Persiles and Galatea, Lope de Vega's Pilgrim of Castile (1621), Bécquer's Romantic Legends, Alarcón, Pardo Bazán, Verga's House by the Medlar-Tree, Serao ×2, D'Annunzio, Hugo's Last Day of a Condemned (Campbell), Balzac's Love in a Mask, George Sand, Zola ×2, Mirbeau, Loti, Bourget ×2, Anatole France ×2, Apollinaire's The Poet Assassinated (Josephson, 1923), Gide's Prometheus Illbound (1919), Maurois's Ariel (Ella D'Arcy, 1924), Le Corbeau's The Forest Giant (T. E. Lawrence, 1924), Xavier de Maistre's Journey Round My Room, Carové's Story Without an End (Sarah Austin), Suttner's Lay Down Your Arms, Sienkiewicz, Undset's Jenny (1921), Lie, Topelius, Siwertz, Rosegger, Ségur, Erckmann-Chatrian, Eugène Sue, Aubert de Gaspé's Cameron of Lochiel (Roberts), Perelaer's Baboe Dalima, Murai's Kibun Daizin and Maupassant (Boyd). Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 43); Adam may veto. No uids minted.",
+ "_name_words": [
+  "a. b. welford",
+  "a. linden",
+  "alexandra linden",
+  "alice m. ivimy",
+  "aline harland",
+  "antoinette ogden",
+  "archibald j. wolfe",
+  "archibald john wolfe",
+  "c. t. hagberg wright",
+  "cecil curtis",
+  "charles g. d. roberts",
+  "charles h. town",
+  "charles horne",
+  "charles theodore hagberg wright",
+  "charles welsh",
+  "cornelia frances bates",
+  "e. classen",
+  "edward vizetelly",
+  "edwin james venning",
+  "elizabeth townsend darr",
+  "ella d'arcy",
+  "emily prescott",
+  "ernest augustus boyd",
+  "ernest classen",
+  "ernest tristan",
+  "frances e. skinner",
+  "francis davis millet",
+  "frederic chapman",
+  "gaetano ettore raffaele mantellini",
+  "george d. cox",
+  "george marlow",
+  "gilbert campbell",
+  "h. sutherland edwards",
+  "henry attwell",
+  "herbert arnold",
+  "herman oelsner",
+  "isabel hill",
+  "j. leander starr",
+  "joel chandler harris",
+  "john leander starr",
+  "joseph thomas",
+  "julian cray",
+  "jurij v. tolstoj",
+  "k. walter",
+  "karl walter",
+  "katharine lee bates",
+  "krystin lach-szyrma",
+  "l. e. l. (letitia elizabeth landon)",
+  "leonard a. magnus",
+  "leonard arthur magnus",
+  "louis rich",
+  "louisa dorothea stanley",
+  "m. c. o. morris",
+  "mary a. craig",
+  "mary lilian share harmsworth rothermere",
+  "mary springer",
+  "mary w. artois",
+  "mary webb artois",
+  "masao yoshida",
+  "matthew josephson",
+  "mrs. cecil curtis",
+  "mrs. h. sutherland edwards",
+  "myrta leonora jones",
+  "peter wright",
+  "r. e. c. long",
+  "ralph keeler",
+  "richard burton",
+  "robert edward crozier long",
+  "rosa savary graham",
+  "s. a. b. harvey",
+  "s. f. woodruff",
+  "samuel coffin eastman",
+  "sara helene petersen weedon",
+  "sarah a. b. harvey",
+  "sarah austin",
+  "sophie öhrwall",
+  "stephen graham",
+  "t. e. lawrence",
+  "t. holmes",
+  "t. keane",
+  "thomas edward lawrence",
+  "w. h. lowe",
+  "william collinge",
+  "william dutton",
+  "william emmé"
+ ],
+ "_surname": [
+  "a. b. welford",
+  "a. linden",
+  "alexandra linden",
+  "alice m. ivimy",
+  "aline harland",
+  "antoinette ogden",
+  "archibald j. wolfe",
+  "archibald john wolfe",
+  "c. t. hagberg wright",
+  "cecil curtis",
+  "charles g. d. roberts",
+  "charles h. town",
+  "charles horne",
+  "charles theodore hagberg wright",
+  "charles welsh",
+  "cornelia frances bates",
+  "e. classen",
+  "edward vizetelly",
+  "edwin james venning",
+  "elizabeth townsend darr",
+  "ella d'arcy",
+  "emily prescott",
+  "ernest augustus boyd",
+  "ernest classen",
+  "ernest tristan",
+  "frances e. skinner",
+  "francis davis millet",
+  "frederic chapman",
+  "gaetano ettore raffaele mantellini",
+  "george d. cox",
+  "george marlow",
+  "gilbert campbell",
+  "h. sutherland edwards",
+  "henry attwell",
+  "herbert arnold",
+  "herman oelsner",
+  "isabel hill",
+  "j. leander starr",
+  "joel chandler harris",
+  "john leander starr",
+  "joseph thomas",
+  "julian cray",
+  "jurij v. tolstoj",
+  "k. walter",
+  "karl walter",
+  "katharine lee bates",
+  "krystin lach-szyrma",
+  "l. e. l. (letitia elizabeth landon)",
+  "leonard a. magnus",
+  "leonard arthur magnus",
+  "louis rich",
+  "louisa dorothea stanley",
+  "m. c. o. morris",
+  "mary a. craig",
+  "mary lilian share harmsworth rothermere",
+  "mary springer",
+  "mary w. artois",
+  "mary webb artois",
+  "masao yoshida",
+  "matthew josephson",
+  "mrs. cecil curtis",
+  "mrs. h. sutherland edwards",
+  "myrta leonora jones",
+  "peter wright",
+  "r. e. c. long",
+  "ralph keeler",
+  "richard burton",
+  "robert edward crozier long",
+  "rosa savary graham",
+  "s. a. b. harvey",
+  "s. f. woodruff",
+  "samuel coffin eastman",
+  "sara helene petersen weedon",
+  "sarah a. b. harvey",
+  "sarah austin",
+  "sophie öhrwall",
+  "stephen graham",
+  "t. e. lawrence",
+  "t. holmes",
+  "t. keane",
+  "thomas edward lawrence",
+  "w. h. lowe",
+  "william collinge",
+  "william dutton",
+  "william emmé"
+ ],
+ "_surname_by_slug": {
+  "sf2-46983": [
+   "harvey",
+   "s. a. b. harvey",
+   "sarah a. b. harvey"
+  ],
+  "sf2-47168": [
+   "frances e. skinner",
+   "skinner"
+  ],
+  "sf2-47697": [
+   "emily prescott",
+   "prescott"
+  ],
+  "sf2-48379": [
+   "trauermantel"
+  ],
+  "sf2-48698": [
+   "j. leander starr",
+   "john leander starr",
+   "starr"
+  ],
+  "sf2-48773": [
+   "louis rich",
+   "rich"
+  ],
+  "sf2-48884": [
+   "alice m. ivimy",
+   "ivimy"
+  ],
+  "sf2-49121": [
+   "jones",
+   "myrta leonora jones"
+  ],
+  "sf2-49294": [
+   "holmes",
+   "t. holmes"
+  ],
+  "sf2-49594": [
+   "k. walter",
+   "karl walter",
+   "leonard a. magnus",
+   "leonard arthur magnus",
+   "magnus",
+   "walter"
+  ],
+  "sf2-49595": [
+   "archibald j. wolfe",
+   "archibald john wolfe",
+   "wolfe"
+  ],
+  "sf2-49598": [
+   "lowe",
+   "w. h. lowe"
+  ],
+  "sf2-49847": [
+   "dutton",
+   "william dutton"
+  ],
+  "sf2-50010": [
+   "campbell",
+   "gilbert campbell"
+  ],
+  "sf2-50044": [
+   "bates",
+   "cornelia frances bates",
+   "katharine lee bates"
+  ],
+  "sf2-50179": [
+   "george marlow",
+   "marlow"
+  ],
+  "sf2-50186": [
+   "burton",
+   "richard burton"
+  ],
+  "sf2-51145": [
+   "joseph thomas",
+   "thomas"
+  ],
+  "sf2-51771": [
+   "sara helene petersen weedon",
+   "weedon"
+  ],
+  "sf2-52077": [
+   "hill",
+   "isabel hill",
+   "l. e. l. (letitia elizabeth landon)"
+  ],
+  "sf2-53154": [
+   "charles g. d. roberts",
+   "roberts"
+  ],
+  "sf2-53771": [
+   "peter wright",
+   "wright"
+  ],
+  "sf2-54619": [
+   "aline harland",
+   "harland"
+  ],
+  "sf2-54678": [
+   "s. f. woodruff",
+   "woodruff"
+  ],
+  "sf2-54684": [
+   "craig",
+   "mary a. craig"
+  ],
+  "sf2-54796": [
+   "mary springer",
+   "springer"
+  ],
+  "sf2-55024": [
+   "edwards",
+   "h. sutherland edwards",
+   "mrs. h. sutherland edwards"
+  ],
+  "sf2-55219": [
+   "keane",
+   "t. keane"
+  ],
+  "sf2-55256": [
+   "charles welsh",
+   "welsh"
+  ],
+  "sf2-55307": [
+   "long",
+   "r. e. c. long",
+   "robert edward crozier long"
+  ],
+  "sf2-55646": [
+   "eastman",
+   "samuel coffin eastman"
+  ],
+  "sf2-55726": [
+   "ernest tristan",
+   "tristan"
+  ],
+  "sf2-55742": [
+   "gaetano ettore raffaele mantellini",
+   "mantellini"
+  ],
+  "sf2-56153": [
+   "harris",
+   "joel chandler harris"
+  ],
+  "sf2-56456": [
+   "charles horne",
+   "horne"
+  ],
+  "sf2-56719": [
+   "c. t. hagberg wright",
+   "charles theodore hagberg wright",
+   "wright"
+  ],
+  "sf2-57036": [
+   "graham",
+   "rosa savary graham",
+   "stephen graham"
+  ],
+  "sf2-57038": [
+   "edward vizetelly",
+   "vizetelly"
+  ],
+  "sf2-58070": [
+   "krystin lach-szyrma",
+   "lach-szyrma"
+  ],
+  "sf2-58099": [
+   "chapman",
+   "frederic chapman"
+  ],
+  "sf2-58409": [
+   "jurij v. tolstoj",
+   "tolstoj"
+  ],
+  "sf2-58838": [
+   "arnold",
+   "herbert arnold",
+   "sophie öhrwall",
+   "öhrwall"
+  ],
+  "sf2-60136": [
+   "boyd",
+   "ernest augustus boyd"
+  ],
+  "sf2-60166": [
+   "cecil curtis",
+   "curtis",
+   "mrs. cecil curtis"
+  ],
+  "sf2-60177": [
+   "artois",
+   "mary w. artois",
+   "mary webb artois"
+  ],
+  "sf2-60685": [
+   "classen",
+   "e. classen",
+   "ernest classen"
+  ],
+  "sf2-60741": [
+   "emmé",
+   "william emmé"
+  ],
+  "sf2-60751": [
+   "edwin james venning",
+   "venning"
+  ],
+  "sf2-60771": [
+   "josephson",
+   "matthew josephson"
+  ],
+  "sf2-60914": [
+   "mary lilian share harmsworth rothermere",
+   "rothermere"
+  ],
+  "sf2-61109": [
+   "collinge",
+   "william collinge"
+  ],
+  "sf2-61388": [
+   "francis davis millet",
+   "millet"
+  ],
+  "sf2-61561": [
+   "louisa dorothea stanley",
+   "stanley"
+  ],
+  "sf2-62229": [
+   "austin",
+   "sarah austin"
+  ],
+  "sf2-62460": [
+   "a. linden",
+   "alexandra linden",
+   "linden"
+  ],
+  "sf2-62519": [
+   "attwell",
+   "henry attwell"
+  ],
+  "sf2-63083": [
+   "keeler",
+   "ralph keeler"
+  ],
+  "sf2-63404": [
+   "a. b. welford",
+   "herman oelsner",
+   "oelsner",
+   "welford"
+  ],
+  "sf2-63819": [
+   "cox",
+   "george d. cox"
+  ],
+  "sf2-64118": [
+   "d'arcy",
+   "ella d'arcy"
+  ],
+  "sf2-64134": [
+   "m. c. o. morris",
+   "morris"
+  ],
+  "sf2-64456": [
+   "darr",
+   "elizabeth townsend darr"
+  ],
+  "sf2-64739": [
+   "charles h. town",
+   "town"
+  ],
+  "sf2-65161": [
+   "lawrence",
+   "t. e. lawrence",
+   "thomas edward lawrence"
+  ],
+  "sf2-65320": [
+   "masao yoshida",
+   "yoshida"
+  ],
+  "sf2-65620": [
+   "cray",
+   "julian cray"
+  ],
+  "sf2-47333": [
+   "antoinette ogden",
+   "ogden"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "sf2-46983": [
+   46983,
+   "The Memoirs of a White Elephant"
+  ],
+  "sf2-47168": [
+   47168,
+   "The Forest Schoolmaster"
+  ],
+  "sf2-47697": [
+   47697,
+   "Odette's Marriage A Novel, from the French of Albert Delpit, Translated from the \"Revue des Deux Mondes,\" by Emily Prescott"
+  ],
+  "sf2-48379": [
+   48379,
+   "Molly and Kitty, or Peasant Life in Ireland; with Other Tales"
+  ],
+  "sf2-48698": [
+   48698,
+   "La Gaviota: A Spanish novel"
+  ],
+  "sf2-48773": [
+   48773,
+   "Calvary: A Novel"
+  ],
+  "sf2-48884": [
+   48884,
+   "Love in a Mask; Or, Imprudence and Happiness"
+  ],
+  "sf2-49121": [
+   49121,
+   "The Last Days of Pekin"
+  ],
+  "sf2-49294": [
+   49294,
+   "Lay Down Your Arms: The Autobiography of Martha von Tilling"
+  ],
+  "sf2-49594": [
+   49594,
+   "The dark"
+  ],
+  "sf2-49595": [
+   49595,
+   "When the King Loses His Head, and Other Stories"
+  ],
+  "sf2-49598": [
+   49598,
+   "The Little Angel, and Other Stories"
+  ],
+  "sf2-49847": [
+   49847,
+   "The Pilgrim of Castile; or, El Pelegrino in Su Patria"
+  ],
+  "sf2-50010": [
+   50010,
+   "Under Sentence of Death; Or, a Criminal's Last Hours"
+  ],
+  "sf2-50044": [
+   50044,
+   "Romantic legends of Spain"
+  ],
+  "sf2-50179": [
+   50179,
+   "Human Follies (La Bêtise Humaine.)"
+  ],
+  "sf2-50186": [
+   50186,
+   "Brigadier Frederick; and, The Dean's Watch"
+  ],
+  "sf2-51145": [
+   51145,
+   "Asmodeus; or, The Devil on Two Sticks"
+  ],
+  "sf2-51771": [
+   51771,
+   "The Trail of the Elk"
+  ],
+  "sf2-52077": [
+   52077,
+   "Corinne; or, Italy"
+  ],
+  "sf2-53154": [
+   53154,
+   "Cameron of Lochiel"
+  ],
+  "sf2-53771": [
+   53771,
+   "Bee: The Princess of the Dwarfs"
+  ],
+  "sf2-54619": [
+   54619,
+   "Farewell Love! A Novel"
+  ],
+  "sf2-54678": [
+   54678,
+   "The Little Match Man"
+  ],
+  "sf2-54684": [
+   54684,
+   "The House by the Medlar-Tree"
+  ],
+  "sf2-54796": [
+   54796,
+   "A Christian Woman"
+  ],
+  "sf2-55024": [
+   55024,
+   "The Queen of Spades, and other stories"
+  ],
+  "sf2-55219": [
+   55219,
+   "The Prose Tales of Alexander Pushkin"
+  ],
+  "sf2-55256": [
+   55256,
+   "The Story of a Donkey abridged from the French of Madame la comtesse de Ségur"
+  ],
+  "sf2-55307": [
+   55307,
+   "The Black Monk, and Other Stories"
+  ],
+  "sf2-55646": [
+   55646,
+   "The Family at Gilje: A Domestic Story of the Forties"
+  ],
+  "sf2-55726": [
+   55726,
+   "The Blue Duchess"
+  ],
+  "sf2-55742": [
+   55742,
+   "Tales of My Native Town"
+  ],
+  "sf2-56153": [
+   56153,
+   "Evening Tales"
+  ],
+  "sf2-56456": [
+   56456,
+   "Three Men: A Novel"
+  ],
+  "sf2-56719": [
+   56719,
+   "Mimi's Marriage"
+  ],
+  "sf2-57036": [
+   57036,
+   "A Slav Soul, and Other Stories"
+  ],
+  "sf2-57038": [
+   57038,
+   "The Monomaniac (La bête humaine)"
+  ],
+  "sf2-58070": [
+   58070,
+   "Home Life in Russia, Volumes 1 and 2 [Dead Souls]"
+  ],
+  "sf2-58099": [
+   58099,
+   "Mother of Pearl"
+  ],
+  "sf2-58409": [
+   58409,
+   "Cossack Tales"
+  ],
+  "sf2-58838": [
+   58838,
+   "The king's ring"
+  ],
+  "sf2-60136": [
+   60136,
+   "The Sisters Rondoli, and Other Stories"
+  ],
+  "sf2-60166": [
+   60166,
+   "The Ordeal by Fire By a Sergeant in the French Army"
+  ],
+  "sf2-60177": [
+   60177,
+   "Through the Desert"
+  ],
+  "sf2-60685": [
+   60685,
+   "Downstream"
+  ],
+  "sf2-60741": [
+   60741,
+   "Jenny: A Novel"
+  ],
+  "sf2-60751": [
+   60751,
+   "Baboe Dalima; or, The Opium Fiend"
+  ],
+  "sf2-60771": [
+   60771,
+   "The Poet Assassinated"
+  ],
+  "sf2-60914": [
+   60914,
+   "Prometheus Illbound"
+  ],
+  "sf2-61109": [
+   61109,
+   "The Desire of Life"
+  ],
+  "sf2-61388": [
+   61388,
+   "Sebastopol"
+  ],
+  "sf2-61561": [
+   61561,
+   "The Wanderings of Persiles and Sigismunda: A Northern Story"
+  ],
+  "sf2-62229": [
+   62229,
+   "The Story Without an End"
+  ],
+  "sf2-62460": [
+   62460,
+   "The red laugh: fragments of a discovered manuscript"
+  ],
+  "sf2-62519": [
+   62519,
+   "A journey round my room"
+  ],
+  "sf2-63083": [
+   63083,
+   "The Marquis de Villemer"
+  ],
+  "sf2-63404": [
+   63404,
+   "Galatea"
+  ],
+  "sf2-63819": [
+   63819,
+   "Claude's Confession"
+  ],
+  "sf2-64118": [
+   64118,
+   "Ariel: A Shelley Romance"
+  ],
+  "sf2-64134": [
+   64134,
+   "Christmas tales of Flanders"
+  ],
+  "sf2-64456": [
+   64456,
+   "The Strange Friend of Tito Gil"
+  ],
+  "sf2-64739": [
+   64739,
+   "Paula Monti; or, The Hôtel Lambert"
+  ],
+  "sf2-65161": [
+   65161,
+   "The Forest Giant"
+  ],
+  "sf2-65320": [
+   65320,
+   "Kibun Daizin; Or, From Shark-Boy to Merchant Prince"
+  ],
+  "sf2-65620": [
+   65620,
+   "A Cruel Enigma"
+  ],
+  "sf2-47333": [
+   47333,
+   "Christmas Stories from French and Spanish Writers"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "singles-fiction-2-alarcon-the-strange-friend-of-tito-gil": {
+   "source": "sf2-64456",
+   "of": "Pedro Antonio de Alarcón",
+   "work": "The Strange Friend of Tito Gil",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Elizabeth Townsend Darr",
+   "scan_edition": "Project Gutenberg 64456 (clean text)"
+  },
+  "singles-fiction-2-andreyev-the-dark": {
+   "source": "sf2-49594",
+   "of": "Leonid Andreyev",
+   "work": "The dark",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Leonard A. Magnus and K. Walter",
+   "scan_edition": "Project Gutenberg 49594 (clean text)"
+  },
+  "singles-fiction-2-andreyev-the-little-angel-and-other-stories": {
+   "source": "sf2-49598",
+   "of": "Leonid Andreyev",
+   "work": "The Little Angel, and Other Stories",
+   "translated": "(see the Gutenberg header)",
+   "translator": "W. H. Lowe",
+   "scan_edition": "Project Gutenberg 49598 (clean text)"
+  },
+  "singles-fiction-2-andreyev-the-red-laugh": {
+   "source": "sf2-62460",
+   "of": "Leonid Andreyev",
+   "work": "The red laugh: fragments of a discovered manuscript",
+   "translated": "(see the Gutenberg header)",
+   "translator": "A. Linden",
+   "scan_edition": "Project Gutenberg 62460 (clean text)"
+  },
+  "singles-fiction-2-andreyev-when-the-king-loses-his-head-and-other-s": {
+   "source": "sf2-49595",
+   "of": "Leonid Andreyev",
+   "work": "When the King Loses His Head, and Other Stories",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Archibald J. Wolfe",
+   "scan_edition": "Project Gutenberg 49595 (clean text)"
+  },
+  "singles-fiction-2-anon-christmas-stories-from-french-and-spanis": {
+   "source": "sf2-47333",
+   "of": "various French and Spanish writers",
+   "work": "Christmas Stories from French and Spanish Writers",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Antoinette Ogden",
+   "scan_edition": "Project Gutenberg 47333 (clean text)"
+  },
+  "singles-fiction-2-anon-christmas-tales-of-flanders": {
+   "source": "sf2-64134",
+   "of": "various Flemish writers (compiled by André de Ridder)",
+   "work": "Christmas tales of Flanders",
+   "translated": "(see the Gutenberg header)",
+   "translator": "M. C. O. Morris",
+   "scan_edition": "Project Gutenberg 64134 (clean text)"
+  },
+  "singles-fiction-2-apollinaire-the-poet-assassinated": {
+   "source": "sf2-60771",
+   "of": "Guillaume Apollinaire",
+   "work": "The Poet Assassinated",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Matthew Josephson",
+   "scan_edition": "Project Gutenberg 60771 (clean text)"
+  },
+  "singles-fiction-2-balzac-love-in-a-mask": {
+   "source": "sf2-48884",
+   "of": "Honoré de Balzac",
+   "work": "Love in a Mask; Or, Imprudence and Happiness",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Alice M. Ivimy",
+   "scan_edition": "Project Gutenberg 48884 (clean text)"
+  },
+  "singles-fiction-2-barzini-the-little-match-man": {
+   "source": "sf2-54678",
+   "of": "Luigi Barzini",
+   "work": "The Little Match Man",
+   "translated": "(see the Gutenberg header)",
+   "translator": "S. F. Woodruff",
+   "scan_edition": "Project Gutenberg 54678 (clean text)"
+  },
+  "singles-fiction-2-bazan-a-christian-woman": {
+   "source": "sf2-54796",
+   "of": "Emilia Pardo Bazán",
+   "work": "A Christian Woman",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Mary Springer",
+   "scan_edition": "Project Gutenberg 54796 (clean text)"
+  },
+  "singles-fiction-2-becquer-romantic-legends-of-spain": {
+   "source": "sf2-50044",
+   "of": "Gustavo Adolfo Bécquer",
+   "work": "Romantic legends of Spain",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Cornelia Frances Bates and Katharine Lee Bates",
+   "scan_edition": "Project Gutenberg 50044 (clean text)"
+  },
+  "singles-fiction-2-berger-the-ordeal-by-fire-by-a-sergeant-in-the": {
+   "source": "sf2-60166",
+   "of": "Marcel Berger",
+   "work": "The Ordeal by Fire By a Sergeant in the French Army",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Cecil Curtis",
+   "scan_edition": "Project Gutenberg 60166 (clean text)"
+  },
+  "singles-fiction-2-bourget-a-cruel-enigma": {
+   "source": "sf2-65620",
+   "of": "Paul Bourget",
+   "work": "A Cruel Enigma",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Julian Cray",
+   "scan_edition": "Project Gutenberg 65620 (clean text)"
+  },
+  "singles-fiction-2-bourget-the-blue-duchess": {
+   "source": "sf2-55726",
+   "of": "Paul Bourget",
+   "work": "The Blue Duchess",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ernest Tristan",
+   "scan_edition": "Project Gutenberg 55726 (clean text)"
+  },
+  "singles-fiction-2-caballero-la-gaviota": {
+   "source": "sf2-48698",
+   "of": "Fernán Caballero",
+   "work": "La Gaviota: A Spanish novel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. Leander Starr",
+   "scan_edition": "Project Gutenberg 48698 (clean text)"
+  },
+  "singles-fiction-2-carove-the-story-without-an-end": {
+   "source": "sf2-62229",
+   "of": "Friedrich Wilhelm Carové",
+   "work": "The Story Without an End",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Sarah Austin",
+   "scan_edition": "Project Gutenberg 62229 (clean text)",
+   "note": "Sarah Austin's other translations may sit on a sarah-austin shelf elsewhere; this one is shelved alone by translator."
+  },
+  "singles-fiction-2-chekhov-the-black-monk-and-other-stories": {
+   "source": "sf2-55307",
+   "of": "Anton Pavlovich Chekhov",
+   "work": "The Black Monk, and Other Stories",
+   "translated": "(see the Gutenberg header)",
+   "translator": "R. E. C. Long",
+   "scan_edition": "Project Gutenberg 55307 (clean text)",
+   "note": "Not the Koteliansky-Murry The Bet (chekhov-bet) nor Garnett's Chekhov; R. E. C. Long's translation (1903)."
+  },
+  "singles-fiction-2-corbeau-the-forest-giant": {
+   "source": "sf2-65161",
+   "of": "Adrien Le Corbeau",
+   "work": "The Forest Giant",
+   "translated": "(see the Gutenberg header)",
+   "translator": "T. E. Lawrence",
+   "scan_edition": "Project Gutenberg 65161 (clean text)"
+  },
+  "singles-fiction-2-d-annunzio-tales-of-my-native-town": {
+   "source": "sf2-55742",
+   "of": "Gabriele D'Annunzio",
+   "work": "Tales of My Native Town",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Gaetano Ettore Raffaele Mantellini",
+   "scan_edition": "Project Gutenberg 55742 (clean text)"
+  },
+  "singles-fiction-2-delpit-odette-s-marriage-a-novel-from-the-frenc": {
+   "source": "sf2-47697",
+   "of": "Albert Delpit",
+   "work": "Odette's Marriage A Novel, from the French of Albert Delpit, Translated from the \"Revue des Deux Mondes,\" by Emily Prescott",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Emily Prescott",
+   "scan_edition": "Project Gutenberg 47697 (clean text)"
+  },
+  "singles-fiction-2-erckmann-chatrian-brigadier-frederick": {
+   "source": "sf2-50186",
+   "of": "Erckmann-Chatrian",
+   "work": "Brigadier Frederick; and, The Dean's Watch",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Richard Burton",
+   "scan_edition": "Project Gutenberg 50186 (clean text)"
+  },
+  "singles-fiction-2-eschenbach-molly-and-kitty-or-peasant-life-in-irela": {
+   "source": "sf2-48379",
+   "of": "Olga Eschenbach and Maria Burg",
+   "work": "Molly and Kitty, or Peasant Life in Ireland; with Other Tales",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Trauermantel",
+   "scan_edition": "Project Gutenberg 48379 (clean text)"
+  },
+  "singles-fiction-2-fonhus-the-trail-of-the-elk": {
+   "source": "sf2-51771",
+   "of": "Mikkjel Fønhus",
+   "work": "The Trail of the Elk",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Sara Helene Petersen Weedon",
+   "scan_edition": "Project Gutenberg 51771 (clean text)"
+  },
+  "singles-fiction-2-france-bee": {
+   "source": "sf2-53771",
+   "of": "Anatole France",
+   "work": "Bee: The Princess of the Dwarfs",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Peter Wright",
+   "scan_edition": "Project Gutenberg 53771 (clean text)"
+  },
+  "singles-fiction-2-france-mother-of-pearl": {
+   "source": "sf2-58099",
+   "of": "Anatole France",
+   "work": "Mother of Pearl",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Frederic Chapman",
+   "scan_edition": "Project Gutenberg 58099 (clean text)"
+  },
+  "singles-fiction-2-gaspe-cameron-of-lochiel": {
+   "source": "sf2-53154",
+   "of": "Philippe Aubert de Gaspé",
+   "work": "Cameron of Lochiel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles G. D. Roberts",
+   "scan_edition": "Project Gutenberg 53154 (clean text)"
+  },
+  "singles-fiction-2-gautier-the-memoirs-of-a-white-elephant": {
+   "source": "sf2-46983",
+   "of": "Judith Gautier",
+   "work": "The Memoirs of a White Elephant",
+   "translated": "(see the Gutenberg header)",
+   "translator": "S. A. B. Harvey",
+   "scan_edition": "Project Gutenberg 46983 (clean text)"
+  },
+  "singles-fiction-2-gide-prometheus-illbound": {
+   "source": "sf2-60914",
+   "of": "André Gide",
+   "work": "Prometheus Illbound",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Mary Lilian Share Harmsworth Rothermere",
+   "scan_edition": "Project Gutenberg 60914 (clean text)"
+  },
+  "singles-fiction-2-gogol-cossack-tales": {
+   "source": "sf2-58409",
+   "of": "Nikolai Vasilevich Gogol",
+   "work": "Cossack Tales",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Jurij V. Tolstoj",
+   "scan_edition": "Project Gutenberg 58409 (clean text)"
+  },
+  "singles-fiction-2-gogol-home-life-in-russia-volumes-1-and-2-dead": {
+   "source": "sf2-58070",
+   "of": "Nikolai Vasilevich Gogol",
+   "work": "Home Life in Russia, Volumes 1 and 2 [Dead Souls]",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Krystin Lach-Szyrma",
+   "scan_edition": "Project Gutenberg 58070 (clean text)"
+  },
+  "singles-fiction-2-gorky-three-men": {
+   "source": "sf2-56456",
+   "of": "Maksim Gorky",
+   "work": "Three Men: A Novel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles Horne",
+   "scan_edition": "Project Gutenberg 56456 (clean text)"
+  },
+  "singles-fiction-2-hugo-under-sentence-of-death": {
+   "source": "sf2-50010",
+   "of": "Victor Hugo",
+   "work": "Under Sentence of Death; Or, a Criminal's Last Hours",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Gilbert Campbell",
+   "scan_edition": "Project Gutenberg 50010 (clean text)"
+  },
+  "singles-fiction-2-kuprin-a-slav-soul-and-other-stories": {
+   "source": "sf2-57036",
+   "of": "A. I. Kuprin",
+   "work": "A Slav Soul, and Other Stories",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Rosa Savary Graham and Stephen Graham",
+   "scan_edition": "Project Gutenberg 57036 (clean text)"
+  },
+  "singles-fiction-2-lie-the-family-at-gilje": {
+   "source": "sf2-55646",
+   "of": "Jonas Lie",
+   "work": "The Family at Gilje: A Domestic Story of the Forties",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Samuel Coffin Eastman",
+   "scan_edition": "Project Gutenberg 55646 (clean text)"
+  },
+  "singles-fiction-2-loti-the-last-days-of-pekin": {
+   "source": "sf2-49121",
+   "of": "Pierre Loti",
+   "work": "The Last Days of Pekin",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Myrta Leonora Jones",
+   "scan_edition": "Project Gutenberg 49121 (clean text)"
+  },
+  "singles-fiction-2-maistre-a-journey-round-my-room": {
+   "source": "sf2-62519",
+   "of": "Xavier de Maistre",
+   "work": "A journey round my room",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Henry Attwell",
+   "scan_edition": "Project Gutenberg 62519 (clean text)"
+  },
+  "singles-fiction-2-maupassant-the-sisters-rondoli-and-other-stories": {
+   "source": "sf2-60136",
+   "of": "Guy de Maupassant",
+   "work": "The Sisters Rondoli, and Other Stories",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ernest Augustus Boyd",
+   "scan_edition": "Project Gutenberg 60136 (clean text)",
+   "note": "Not the 1903 Complete Short Stories on the maupassant shelf; Ernest Boyd's translation."
+  },
+  "singles-fiction-2-maurois-ariel": {
+   "source": "sf2-64118",
+   "of": "André Maurois",
+   "work": "Ariel: A Shelley Romance",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ella D'Arcy",
+   "scan_edition": "Project Gutenberg 64118 (clean text)"
+  },
+  "singles-fiction-2-mirbeau-calvary": {
+   "source": "sf2-48773",
+   "of": "Octave Mirbeau",
+   "work": "Calvary: A Novel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Louis Rich",
+   "scan_edition": "Project Gutenberg 48773 (clean text)"
+  },
+  "singles-fiction-2-murai-kibun-daizin": {
+   "source": "sf2-65320",
+   "of": "Gensai Murai",
+   "work": "Kibun Daizin; Or, From Shark-Boy to Merchant Prince",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Masao Yoshida",
+   "scan_edition": "Project Gutenberg 65320 (clean text)"
+  },
+  "singles-fiction-2-noriac-human-follies-la-betise-humaine": {
+   "source": "sf2-50179",
+   "of": "Jules Noriac",
+   "work": "Human Follies (La Bêtise Humaine.)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "George Marlow",
+   "scan_edition": "Project Gutenberg 50179 (clean text)"
+  },
+  "singles-fiction-2-ortoli-evening-tales": {
+   "source": "sf2-56153",
+   "of": "Jean-Baptiste Frédéric Ortoli",
+   "work": "Evening Tales",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Joel Chandler Harris",
+   "scan_edition": "Project Gutenberg 56153 (clean text)"
+  },
+  "singles-fiction-2-perelaer-baboe-dalima": {
+   "source": "sf2-60751",
+   "of": "M. T. H. Perelaer",
+   "work": "Baboe Dalima; or, The Opium Fiend",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edwin James Venning",
+   "scan_edition": "Project Gutenberg 60751 (clean text)"
+  },
+  "singles-fiction-2-pushkin-the-prose-tales-of-alexander-pushkin": {
+   "source": "sf2-55219",
+   "of": "Aleksandr Sergeevich Pushkin",
+   "work": "The Prose Tales of Alexander Pushkin",
+   "translated": "(see the Gutenberg header)",
+   "translator": "T. Keane",
+   "scan_edition": "Project Gutenberg 55219 (clean text)"
+  },
+  "singles-fiction-2-pushkin-the-queen-of-spades-and-other-stories": {
+   "source": "sf2-55024",
+   "of": "Aleksandr Sergeevich Pushkin",
+   "work": "The Queen of Spades, and other stories",
+   "translated": "(see the Gutenberg header)",
+   "translator": "H. Sutherland Edwards",
+   "scan_edition": "Project Gutenberg 55024 (clean text)"
+  },
+  "singles-fiction-2-rosegger-the-forest-schoolmaster": {
+   "source": "sf2-47168",
+   "of": "Peter Rosegger",
+   "work": "The Forest Schoolmaster",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Frances E. Skinner",
+   "scan_edition": "Project Gutenberg 47168 (clean text)"
+  },
+  "singles-fiction-2-saavedra-galatea": {
+   "source": "sf2-63404",
+   "of": "Miguel de Cervantes Saavedra",
+   "work": "Galatea",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Herman Oelsner and A. B. Welford",
+   "scan_edition": "Project Gutenberg 63404 (clean text)"
+  },
+  "singles-fiction-2-saavedra-the-wanderings-of-persiles-and-sigismund": {
+   "source": "sf2-61561",
+   "of": "Miguel de Cervantes Saavedra",
+   "work": "The Wanderings of Persiles and Sigismunda: A Northern Story",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Louisa Dorothea Stanley",
+   "scan_edition": "Project Gutenberg 61561 (clean text)"
+  },
+  "singles-fiction-2-sage-asmodeus": {
+   "source": "sf2-51145",
+   "of": "Alain René Le Sage",
+   "work": "Asmodeus; or, The Devil on Two Sticks",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Joseph Thomas",
+   "scan_edition": "Project Gutenberg 51145 (clean text)"
+  },
+  "singles-fiction-2-sand-the-marquis-de-villemer": {
+   "source": "sf2-63083",
+   "of": "George Sand",
+   "work": "The Marquis de Villemer",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ralph Keeler",
+   "scan_edition": "Project Gutenberg 63083 (clean text)"
+  },
+  "singles-fiction-2-segur-the-story-of-a-donkey-abridged-from-the": {
+   "source": "sf2-55256",
+   "of": "Sophie Ségur",
+   "work": "The Story of a Donkey abridged from the French of Madame la comtesse de Ségur",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles Welsh",
+   "scan_edition": "Project Gutenberg 55256 (clean text)"
+  },
+  "singles-fiction-2-serao-farewell-love-a-novel": {
+   "source": "sf2-54619",
+   "of": "Matilde Serao",
+   "work": "Farewell Love! A Novel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Aline Harland",
+   "scan_edition": "Project Gutenberg 54619 (clean text)"
+  },
+  "singles-fiction-2-serao-the-desire-of-life": {
+   "source": "sf2-61109",
+   "of": "Matilde Serao",
+   "work": "The Desire of Life",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Collinge",
+   "scan_edition": "Project Gutenberg 61109 (clean text)"
+  },
+  "singles-fiction-2-sienkiewicz-through-the-desert": {
+   "source": "sf2-60177",
+   "of": "Henryk Sienkiewicz",
+   "work": "Through the Desert",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Mary W. Artois",
+   "scan_edition": "Project Gutenberg 60177 (clean text)"
+  },
+  "singles-fiction-2-siwertz-downstream": {
+   "source": "sf2-60685",
+   "of": "Sigfrid Siwertz",
+   "work": "Downstream",
+   "translated": "(see the Gutenberg header)",
+   "translator": "E. Classen",
+   "scan_edition": "Project Gutenberg 60685 (clean text)"
+  },
+  "singles-fiction-2-stael-corinne": {
+   "source": "sf2-52077",
+   "of": "Madame de Staël",
+   "work": "Corinne; or, Italy",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Isabel Hill and L. E. L. (Letitia Elizabeth Landon)",
+   "scan_edition": "Project Gutenberg 52077 (clean text)"
+  },
+  "singles-fiction-2-sue-paula-monti": {
+   "source": "sf2-64739",
+   "of": "Eugène Sue",
+   "work": "Paula Monti; or, The Hôtel Lambert",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles H. Town",
+   "scan_edition": "Project Gutenberg 64739 (clean text)"
+  },
+  "singles-fiction-2-suttner-lay-down-your-arms": {
+   "source": "sf2-49294",
+   "of": "Bertha von Suttner",
+   "work": "Lay Down Your Arms: The Autobiography of Martha von Tilling",
+   "translated": "(see the Gutenberg header)",
+   "translator": "T. Holmes",
+   "scan_edition": "Project Gutenberg 49294 (clean text)"
+  },
+  "singles-fiction-2-tolstoy-sebastopol": {
+   "source": "sf2-61388",
+   "of": "Leo Tolstoy",
+   "work": "Sebastopol",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Francis Davis Millet",
+   "scan_edition": "Project Gutenberg 61388 (clean text)",
+   "note": "Not Wiener's or the Maudes' Tolstoy (wiener-tolstoy, tolstoy-tales); Frank D. Millet's 1887 translation from the French."
+  },
+  "singles-fiction-2-topelius-the-king-s-ring": {
+   "source": "sf2-58838",
+   "of": "Zacharias Topelius",
+   "work": "The king's ring",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Herbert Arnold and Sophie Öhrwall",
+   "scan_edition": "Project Gutenberg 58838 (clean text)"
+  },
+  "singles-fiction-2-undset-jenny": {
+   "source": "sf2-60741",
+   "of": "Sigrid Undset",
+   "work": "Jenny: A Novel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Emmé",
+   "scan_edition": "Project Gutenberg 60741 (clean text)"
+  },
+  "singles-fiction-2-vega-the-pilgrim-of-castile": {
+   "source": "sf2-49847",
+   "of": "Lope de Vega",
+   "work": "The Pilgrim of Castile; or, El Pelegrino in Su Patria",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Dutton",
+   "scan_edition": "Project Gutenberg 49847 (clean text)"
+  },
+  "singles-fiction-2-verga-the-house-by-the-medlar-tree": {
+   "source": "sf2-54684",
+   "of": "Giovanni Verga",
+   "work": "The House by the Medlar-Tree",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Mary A. Craig",
+   "scan_edition": "Project Gutenberg 54684 (clean text)"
+  },
+  "singles-fiction-2-veselitskaia-mimi-s-marriage": {
+   "source": "sf2-56719",
+   "of": "Lidiia Ivanovna Veselitskaia",
+   "work": "Mimi's Marriage",
+   "translated": "(see the Gutenberg header)",
+   "translator": "C. T. Hagberg Wright",
+   "scan_edition": "Project Gutenberg 56719 (clean text)"
+  },
+  "singles-fiction-2-zola-claude-s-confession": {
+   "source": "sf2-63819",
+   "of": "Émile Zola",
+   "work": "Claude's Confession",
+   "translated": "(see the Gutenberg header)",
+   "translator": "George D. Cox",
+   "scan_edition": "Project Gutenberg 63819 (clean text)"
+  },
+  "singles-fiction-2-zola-the-monomaniac-la-bete-humaine": {
+   "source": "sf2-57038",
+   "of": "Émile Zola",
+   "work": "The Monomaniac (La bête humaine)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edward Vizetelly",
+   "scan_edition": "Project Gutenberg 57038 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "spyri-65174": "Spyri's The New Year's Carol: left for the spyri shelf (Lane D)."
+ },
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
+ "_checks": {
+  "sf2-46983": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "harvey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. A. B. Harvey"
+  },
+  "sf2-47168": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frances e. skinner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frances E. Skinner"
+  },
+  "sf2-47697": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "emily prescott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Emily Prescott"
+  },
+  "sf2-48379": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "trauermantel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Trauermantel"
+  },
+  "sf2-48698": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. leander starr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. Leander Starr"
+  },
+  "sf2-48773": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "louis rich",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Louis Rich"
+  },
+  "sf2-48884": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alice m. ivimy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alice M. Ivimy"
+  },
+  "sf2-49121": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jones",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Myrta Leonora Jones"
+  },
+  "sf2-49294": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "T. Holmes"
+  },
+  "sf2-49594": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "k. walter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Leonard A. Magnus; K. Walter"
+  },
+  "sf2-49595": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "archibald j. wolfe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Archibald J. Wolfe"
+  },
+  "sf2-49598": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lowe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. H. Lowe"
+  },
+  "sf2-49847": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dutton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Dutton"
+  },
+  "sf2-50010": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "campbell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Gilbert Campbell"
+  },
+  "sf2-50044": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cornelia frances bates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cornelia Frances Bates; Katharine Lee Bates"
+  },
+  "sf2-50179": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george marlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Marlow"
+  },
+  "sf2-50186": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "burton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Richard Burton"
+  },
+  "sf2-51145": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph thomas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph Thomas"
+  },
+  "sf2-51771": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sara helene petersen weedon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sara Helene Petersen Weedon"
+  },
+  "sf2-52077": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "isabel hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isabel Hill; L. E. L."
+  },
+  "sf2-53154": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles g. d. roberts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir Charles G. D. Roberts"
+  },
+  "sf2-53771": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "peter wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Peter Wright"
+  },
+  "sf2-54619": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "aline harland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aline Harland"
+  },
+  "sf2-54678": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. f. woodruff",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. F. Woodruff"
+  },
+  "sf2-54684": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "craig",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary A. Craig"
+  },
+  "sf2-54796": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary springer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Springer"
+  },
+  "sf2-55024": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. H. Sutherland Edwards"
+  },
+  "sf2-55219": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "keane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "T. Keane"
+  },
+  "sf2-55256": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles welsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Welsh"
+  },
+  "sf2-55307": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "long",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. E. C. Long"
+  },
+  "sf2-55646": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eastman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Samuel Coffin Eastman"
+  },
+  "sf2-55726": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest tristan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Tristan"
+  },
+  "sf2-55742": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gaetano ettore raffaele mantellini",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gaetano Ettore Raffaele Mantellini"
+  },
+  "sf2-56153": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joel Chandler Harris"
+  },
+  "sf2-56456": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles horne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Horne"
+  },
+  "sf2-56719": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. t. hagberg wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "C. T. Hagberg Wright"
+  },
+  "sf2-57036": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "graham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Rosa Savary Graham; Stephen Graham"
+  },
+  "sf2-57038": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edward vizetelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward Vizetelly"
+  },
+  "sf2-58070": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "krystin lach-szyrma",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Krystin Lach-Szyrma"
+  },
+  "sf2-58099": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "chapman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederic Chapman"
+  },
+  "sf2-58409": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jurij v. tolstoj",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jurij V. Tolstoj"
+  },
+  "sf2-58838": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arnold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herbert Arnold; Sophie Öhrwall"
+  },
+  "sf2-60136": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "boyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Augustus Boyd"
+  },
+  "sf2-60166": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cecil curtis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Cecil Curtis"
+  },
+  "sf2-60177": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "artois",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary W. Artois"
+  },
+  "sf2-60685": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "classen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. Classen"
+  },
+  "sf2-60741": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "emmé",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Emmé"
+  },
+  "sf2-60751": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edwin james venning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edwin James Venning"
+  },
+  "sf2-60771": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "josephson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Matthew Josephson"
+  },
+  "sf2-60914": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary lilian share harmsworth rothermere",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "viscountess Mary Lilian Share Harmsworth Rothermere"
+  },
+  "sf2-61109": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "collinge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Collinge"
+  },
+  "sf2-61388": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "francis davis millet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Davis Millet"
+  },
+  "sf2-61561": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "louisa dorothea stanley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Louisa Dorothea Stanley"
+  },
+  "sf2-62229": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "austin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sarah Austin"
+  },
+  "sf2-62460": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. linden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. Linden"
+  },
+  "sf2-62519": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "attwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Attwell"
+  },
+  "sf2-63083": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "keeler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ralph Keeler"
+  },
+  "sf2-63404": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. welford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Herman Oelsner; A. B. Welford"
+  },
+  "sf2-63819": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George D. Cox"
+  },
+  "sf2-64118": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "d'arcy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ella D'Arcy"
+  },
+  "sf2-64134": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "m. c. o. morris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. C. O. Morris"
+  },
+  "sf2-64456": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "darr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elizabeth Townsend Darr"
+  },
+  "sf2-64739": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles h. town",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles H. Town"
+  },
+  "sf2-65161": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lawrence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "T. E. Lawrence"
+  },
+  "sf2-65320": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "masao yoshida",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Masao Yoshida"
+  },
+  "sf2-65620": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Julian Cray"
+  },
+  "sf2-47333": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "antoinette ogden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Antoinette Ogden"
+  }
+ },
+ "_verified": {
+  "sf2-46983": {
+   "pg": 46983,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. A. B. Harvey"
+  },
+  "sf2-47168": {
+   "pg": 47168,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frances E. Skinner"
+  },
+  "sf2-47697": {
+   "pg": 47697,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Emily Prescott"
+  },
+  "sf2-48379": {
+   "pg": 48379,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Trauermantel"
+  },
+  "sf2-48698": {
+   "pg": 48698,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. Leander Starr"
+  },
+  "sf2-48773": {
+   "pg": 48773,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Louis Rich"
+  },
+  "sf2-48884": {
+   "pg": 48884,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alice M. Ivimy"
+  },
+  "sf2-49121": {
+   "pg": 49121,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Myrta Leonora Jones"
+  },
+  "sf2-49294": {
+   "pg": 49294,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "T. Holmes"
+  },
+  "sf2-49594": {
+   "pg": 49594,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Leonard A. Magnus"
+  },
+  "sf2-49595": {
+   "pg": 49595,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Archibald J. Wolfe"
+  },
+  "sf2-49598": {
+   "pg": 49598,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. H. Lowe"
+  },
+  "sf2-49847": {
+   "pg": 49847,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Dutton"
+  },
+  "sf2-50010": {
+   "pg": 50010,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Gilbert Campbell"
+  },
+  "sf2-50044": {
+   "pg": 50044,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cornelia Frances Bates"
+  },
+  "sf2-50179": {
+   "pg": 50179,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Marlow"
+  },
+  "sf2-50186": {
+   "pg": 50186,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Richard Burton"
+  },
+  "sf2-51145": {
+   "pg": 51145,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph Thomas"
+  },
+  "sf2-51771": {
+   "pg": 51771,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sara Helene Petersen Weedon"
+  },
+  "sf2-52077": {
+   "pg": 52077,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isabel Hill"
+  },
+  "sf2-53154": {
+   "pg": 53154,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir Charles G. D. Roberts"
+  },
+  "sf2-53771": {
+   "pg": 53771,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Peter Wright"
+  },
+  "sf2-54619": {
+   "pg": 54619,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Aline Harland"
+  },
+  "sf2-54678": {
+   "pg": 54678,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. F. Woodruff"
+  },
+  "sf2-54684": {
+   "pg": 54684,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary A. Craig"
+  },
+  "sf2-54796": {
+   "pg": 54796,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Springer"
+  },
+  "sf2-55024": {
+   "pg": 55024,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. H. Sutherland Edwards"
+  },
+  "sf2-55219": {
+   "pg": 55219,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "T. Keane"
+  },
+  "sf2-55256": {
+   "pg": 55256,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Welsh"
+  },
+  "sf2-55307": {
+   "pg": 55307,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. E. C. Long"
+  },
+  "sf2-55646": {
+   "pg": 55646,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Samuel Coffin Eastman"
+  },
+  "sf2-55726": {
+   "pg": 55726,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Tristan"
+  },
+  "sf2-55742": {
+   "pg": 55742,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gaetano Ettore Raffaele Mantellini"
+  },
+  "sf2-56153": {
+   "pg": 56153,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joel Chandler Harris"
+  },
+  "sf2-56456": {
+   "pg": 56456,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Horne"
+  },
+  "sf2-56719": {
+   "pg": 56719,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "C. T. Hagberg Wright"
+  },
+  "sf2-57036": {
+   "pg": 57036,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Rosa Savary Graham"
+  },
+  "sf2-57038": {
+   "pg": 57038,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edward Vizetelly"
+  },
+  "sf2-58070": {
+   "pg": 58070,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Krystin Lach-Szyrma"
+  },
+  "sf2-58099": {
+   "pg": 58099,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederic Chapman"
+  },
+  "sf2-58409": {
+   "pg": 58409,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jurij V. Tolstoj"
+  },
+  "sf2-58838": {
+   "pg": 58838,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Herbert Arnold"
+  },
+  "sf2-60136": {
+   "pg": 60136,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Augustus Boyd"
+  },
+  "sf2-60166": {
+   "pg": 60166,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Cecil Curtis"
+  },
+  "sf2-60177": {
+   "pg": 60177,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary W. Artois"
+  },
+  "sf2-60685": {
+   "pg": 60685,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. Classen"
+  },
+  "sf2-60741": {
+   "pg": 60741,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Emmé"
+  },
+  "sf2-60751": {
+   "pg": 60751,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edwin James Venning"
+  },
+  "sf2-60771": {
+   "pg": 60771,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Matthew Josephson"
+  },
+  "sf2-60914": {
+   "pg": 60914,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "viscountess Mary Lilian Share Harmsworth Rothermere"
+  },
+  "sf2-61109": {
+   "pg": 61109,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Collinge"
+  },
+  "sf2-61388": {
+   "pg": 61388,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Francis Davis Millet"
+  },
+  "sf2-61561": {
+   "pg": 61561,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Louisa Dorothea Stanley"
+  },
+  "sf2-62229": {
+   "pg": 62229,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sarah Austin"
+  },
+  "sf2-62460": {
+   "pg": 62460,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. Linden"
+  },
+  "sf2-62519": {
+   "pg": 62519,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry Attwell"
+  },
+  "sf2-63083": {
+   "pg": 63083,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ralph Keeler"
+  },
+  "sf2-63404": {
+   "pg": 63404,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Herman Oelsner"
+  },
+  "sf2-63819": {
+   "pg": 63819,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George D. Cox"
+  },
+  "sf2-64118": {
+   "pg": 64118,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ella D'Arcy"
+  },
+  "sf2-64134": {
+   "pg": 64134,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "M. C. O. Morris"
+  },
+  "sf2-64456": {
+   "pg": 64456,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Elizabeth Townsend Darr"
+  },
+  "sf2-64739": {
+   "pg": 64739,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles H. Town"
+  },
+  "sf2-65161": {
+   "pg": 65161,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "T. E. Lawrence"
+  },
+  "sf2-65320": {
+   "pg": 65320,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Masao Yoshida"
+  },
+  "sf2-65620": {
+   "pg": 65620,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Julian Cray"
+  },
+  "sf2-47333": {
+   "pg": 47333,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Antoinette Ogden"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

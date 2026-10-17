@@ -1,0 +1,148 @@
+{
+ "_about": "Theodor Mommsen (1817-1903) in English, tr. William Purdie Dickson (1823-1901): The History of Rome, Books I-V, and The Provinces of the Roman Empire from Caesar to Diocletian (2 vols., maps by Kiepert), clean Gutenberg. Classical scholarship (lane B pivot, 2026-10-10). Both author and translator died before 1910; public domain everywhere. No uids minted.",
+ "_name_words": [
+  "mommsen"
+ ],
+ "_surname": [
+  "theodor mommsen",
+  "mommsen, theodor"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mommsen-history-of-rome-i": [
+   10701,
+   "The History of Rome, Book I",
+   "tr. William P. Dickson"
+  ],
+  "mommsen-history-of-rome-ii": [
+   10702,
+   "The History of Rome, Book II",
+   "tr. William P. Dickson"
+  ],
+  "mommsen-history-of-rome-iii": [
+   10703,
+   "The History of Rome, Book III",
+   "tr. William P. Dickson"
+  ],
+  "mommsen-history-of-rome-iv": [
+   10704,
+   "The History of Rome, Book IV",
+   "tr. William P. Dickson"
+  ],
+  "mommsen-history-of-rome-v": [
+   10705,
+   "The History of Rome, Book V",
+   "tr. William P. Dickson"
+  ],
+  "mommsen-provinces-v1": [
+   48966,
+   "The Provinces of the Roman Empire, from Caesar to Diocletian, vol. 1",
+   "tr. William P. Dickson"
+  ],
+  "mommsen-provinces-v2": [
+   49483,
+   "The Provinces of the Roman Empire, from Caesar to Diocletian, vol. 2",
+   "tr. William P. Dickson"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "mommsen-history-of-rome-i": "William P. Dickson",
+  "mommsen-history-of-rome-ii": "William P. Dickson",
+  "mommsen-history-of-rome-iii": "William P. Dickson",
+  "mommsen-history-of-rome-iv": "William P. Dickson",
+  "mommsen-history-of-rome-v": "William P. Dickson",
+  "mommsen-provinces-v1": "William P. Dickson",
+  "mommsen-provinces-v2": "William P. Dickson"
+ },
+ "_excluded": {
+  "PG 10706 (History of Rome, Volumes 1-5)": "the same text as PG 10701-10705 in one file",
+  "PG 3060-3065 (Römische Geschichte)": "German original; the English translation is held"
+ },
+ "_checks": {
+  "mommsen-history-of-rome-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "theodor mommsen",
+   "translator_claimed": "William P. Dickson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William P. Dickson",
+   "translator_match": true
+  },
+  "mommsen-history-of-rome-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "theodor mommsen",
+   "translator_claimed": "William P. Dickson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William P. Dickson",
+   "translator_match": true
+  },
+  "mommsen-history-of-rome-iii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "theodor mommsen",
+   "translator_claimed": "William P. Dickson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William P. Dickson",
+   "translator_match": true
+  },
+  "mommsen-history-of-rome-iv": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "theodor mommsen",
+   "translator_claimed": "William P. Dickson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William P. Dickson",
+   "translator_match": true
+  },
+  "mommsen-history-of-rome-v": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "theodor mommsen",
+   "translator_claimed": "William P. Dickson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William P. Dickson",
+   "translator_match": true
+  },
+  "mommsen-provinces-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "theodor mommsen",
+   "translator_claimed": "William P. Dickson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William P. Dickson",
+   "translator_match": true
+  },
+  "mommsen-provinces-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "theodor mommsen",
+   "translator_claimed": "William P. Dickson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William P. Dickson",
+   "translator_match": true
+  }
+ }
+}

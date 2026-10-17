@@ -113,6 +113,11 @@
    "senecahistennetr00sene",
    "Seneca his Tenne Tragedies, translated into Englysh (London: Thomas Marsh, 1581; black-letter, Boston Public Library copy)",
    "tr. Thomas Newton (ed.), with Jasper Heywood, John Studley, Alexander Nevile, Thomas Nuce"
+  ],
+  "seneca-sherburne-tragedies-1702": [
+   "tragedieslannae00shergoog",
+   "The Tragedies of L. Annaeus Seneca the Philosopher: Medea, Phaedra and Hippolytus, Troades; with Colluthus's Rape of Helen (London: S. Smith and B. Walford, 1702)",
+   "tr. Edward Sherburne"
   ]
  },
  "_excluded": {
@@ -141,7 +146,8 @@
   "seneca-miller-loeb-tragedies-v2": "Frank Justus Miller",
   "seneca-bradshaw-tragedies-1902": "Watson Bradshaw",
   "seneca-ball-apocolocyntosis-1902": "allan perley ball",
-  "seneca-newton-tenne-tragedies-1581": "thomas newton"
+  "seneca-newton-tenne-tragedies-1581": "thomas newton",
+  "seneca-sherburne-tragedies-1702": "edward sherburne"
  },
  "_checks": {
   "seneca-stewart-benefits": {
@@ -399,6 +405,19 @@
    "ia_rights": "ok: published 1581",
    "ia_date": "1581",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "seneca-sherburne-tragedies-1702": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "seneca",
+   "translator_claimed": "edward sherburne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1702",
+   "ia_date": "1702",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },

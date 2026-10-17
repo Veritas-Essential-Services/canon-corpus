@@ -1,0 +1,118 @@
+{
+ "_about": "Public-domain H. A. Ironside (Harry A. Ironside, 1876-1951) for the Word Hoard, printings dated before 1930 only: The Only Two Religions (catalogued 1912), Notes on Esther (catalogued 1921), Notes on Nehemiah, revised (catalogued 1925), Notes on the Minor Prophets (printed January 1928) and A Life Laid Down, a memoir of Fannie M. Arthur, raw Internet Archive OCR. Nearly every scan of his books is a 1940s-1980s Loizeaux printing and is left out; three undated ones wait in _pending. Added 2026-10-10 by lane A, round 18 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "ironside"
+ ],
+ "_surname": [
+  "h. a. ironside",
+  "ironside, h. a.",
+  "harry a. ironside",
+  "ironside, harry a.",
+  "h. a. ironside, litt.d.",
+  "harry allen ironside"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ironside-two-religions": [
+   "cihm_66028",
+   "The Only Two Religions; and Other Gospel Papers (New York: Loizeaux Brothers; Toronto: Home Friend Office; no year on title page, catalogued 1912)"
+  ],
+  "ironside-esther": [
+   "notes-on-the-book-of-esther",
+   "Notes on the Book of Esther (New York: Loizeaux Brothers, 1 East 13th Street; no year on title page, catalogued 1921)",
+   "Notes on the Book of Esther_djvu.txt"
+  ],
+  "ironside-nehemiah": [
+   "notesonbookofneh0000iron",
+   "Notes on the Book of Nehemiah, revised edition (New York: Loizeaux Brothers, 1 East 13th Street; no year on title page, catalogued 1925)"
+  ],
+  "ironside-minor-prophets": [
+   "bwb_T5-CWQ-371",
+   "Notes on the Minor Prophets (New York: Loizeaux Brothers, set up and printed January 1928)"
+  ],
+  "ironside-life-laid-down": [
+   "lifelaiddown0000hair",
+   "A Life Laid Down: A Brief Memoir of Fannie M. Arthur (Oakland: Western Book and Tract Co.; New York: Loizeaux Brothers, 1 East 13th Street; no year on title page, catalogue year wrong)"
+  ]
+ },
+ "_alternates": {
+  "ironside-esther-revised": "Esther, revised edition with a December 1921 preface (IA notesonbookofest0000iron, notesonbookofest0000unse)",
+  "ironside-evangelistic-songs": "Evangelistic Songs, a hymnal he compiled (Oakland: Western Book and Tract Co.; catalogued 1925; IA evangelisticsong00iron)"
+ },
+ "_excluded": {
+  "ironside-late-printings": "More than twenty Loizeaux printings from 1941 to 1986 (Neptune, NJ, numbered editions, Zondervan 1940) of Daniel, Revelation, Philippians, Colossians, Holiness, Minor Prophets, Prophecy and others: after 1930",
+  "ironside-namesake": "IA machinegundrillsignalscontrolironside: the British army officer"
+ },
+ "_rights_checked": {
+  "ironside-nehemiah": "title page read: Loizeaux Brothers at 1 East 13th Street (their address before 1930), no year; catalogued 1925",
+  "ironside-life-laid-down": "title page read: Western Book and Tract Co. and Loizeaux Brothers at 1 East 13th Street, no year; IA's catalogue year (1817) is wrong; dated before 1930 by the Loizeaux address",
+  "ironside-minor-prophets": "title page read: set up and printed January 1928"
+ },
+ "_pending": {
+  "ironside-holiness": "IA holinessfalsetru00iron, Holiness, the False and the True: undated, Loizeaux at 19 West 21st Street, an address used both before and after 1930",
+  "ironside-philippians": "IA notesonphilippia0000hair_j9a5: undated new revised edition, 1922 preface, same address question",
+  "ironside-colossians": "IA lecturesonepistl0000iron: 1928 preface, undated, same address question"
+ },
+ "_checks": {
+  "ironside-two-religions": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. a. ironside",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ironside-esther": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. a. ironside",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ironside-nehemiah": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. a. ironside",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Loizeaux Brothers at 1 East 13th Street (their address before 1930), no year; catalogued 1925"
+  },
+  "ironside-minor-prophets": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. a. ironside",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: set up and printed January 1928"
+  },
+  "ironside-life-laid-down": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. a. ironside",
+   "identity": "ok",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Western Book and Tract Co. and Loizeaux Brothers at 1 East 13th Street, no year; IA's catalogue year (1817) is wrong; dated before 1930 by the Loizeaux address"
+  }
+ }
+}

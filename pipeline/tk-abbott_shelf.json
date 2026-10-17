@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Thomas Kingsmill Abbott (1829-1913): Kant's Fundamental Principles of the Metaphysic of Morals and The Metaphysical Elements of Ethics (1873). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "thomas kingsmill abbott",
+  "t. k. abbott"
+ ],
+ "_surname": [
+  "thomas kingsmill abbott",
+  "t. k. abbott"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "tka-5682": [
+   5682,
+   "Fundamental Principles of the Metaphysic of Morals"
+  ],
+  "tka-5684": [
+   5684,
+   "The Metaphysical Elements of Ethics"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "tk-abbott-kant-fundamental-principles-of-the-metaphysic": {
+   "source": "tka-5682",
+   "of": "Immanuel Kant",
+   "work": "Fundamental Principles of the Metaphysic of Morals",
+   "translated": "1873 (see the Gutenberg header)",
+   "translator": "Thomas Kingsmill Abbott",
+   "scan_edition": "Project Gutenberg 5682 (clean text)"
+  },
+  "tk-abbott-kant-the-metaphysical-elements-of-ethics": {
+   "source": "tka-5684",
+   "of": "Immanuel Kant",
+   "work": "The Metaphysical Elements of Ethics",
+   "translated": "1873 (see the Gutenberg header)",
+   "translator": "Thomas Kingsmill Abbott",
+   "scan_edition": "Project Gutenberg 5684 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "tka-5682": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas kingsmill abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Kingsmill Abbott"
+  },
+  "tka-5684": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas kingsmill abbott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Kingsmill Abbott"
+  }
+ },
+ "_verified": {
+  "tka-5682": {
+   "pg": 5682,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Kingsmill Abbott"
+  },
+  "tka-5684": {
+   "pg": 5684,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Kingsmill Abbott"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

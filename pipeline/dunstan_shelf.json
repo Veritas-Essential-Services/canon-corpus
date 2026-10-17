@@ -1,0 +1,104 @@
+{
+ "_about": "TRANSLATOR SHELF: H. Mainwaring Dunstan: Adolphe Belot's A Parisian Sultana (1879, 3 vols). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "h. mainwaring dunstan",
+  "dunstan"
+ ],
+ "_surname": [
+  "h. mainwaring dunstan",
+  "dunstan"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "dun-58677": [
+   58677,
+   "A Parisian Sultana, Vol. 1 (of 3)"
+  ],
+  "dun-58678": [
+   58678,
+   "A Parisian Sultana, Vol. 2 (of 3)"
+  ],
+  "dun-58679": [
+   58679,
+   "A Parisian Sultana, Vol. 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "dunstan-belot-a-parisian-sultana-vol-1": {
+   "source": "dun-58677",
+   "of": "Adolphe Belot",
+   "work": "A Parisian Sultana, Vol. 1 (of 3)",
+   "translated": "1879 (see the Gutenberg header)",
+   "translator": "H. Mainwaring Dunstan",
+   "scan_edition": "Project Gutenberg 58677 (clean text)"
+  },
+  "dunstan-belot-a-parisian-sultana-vol-2": {
+   "source": "dun-58678",
+   "of": "Adolphe Belot",
+   "work": "A Parisian Sultana, Vol. 2 (of 3)",
+   "translated": "1879 (see the Gutenberg header)",
+   "translator": "H. Mainwaring Dunstan",
+   "scan_edition": "Project Gutenberg 58678 (clean text)"
+  },
+  "dunstan-belot-a-parisian-sultana-vol-3": {
+   "source": "dun-58679",
+   "of": "Adolphe Belot",
+   "work": "A Parisian Sultana, Vol. 3 (of 3)",
+   "translated": "1879 (see the Gutenberg header)",
+   "translator": "H. Mainwaring Dunstan",
+   "scan_edition": "Project Gutenberg 58679 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "dun-58677": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. mainwaring dunstan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. Mainwaring Dunstan"
+  },
+  "dun-58678": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. mainwaring dunstan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. Mainwaring Dunstan"
+  },
+  "dun-58679": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. mainwaring dunstan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. Mainwaring Dunstan"
+  }
+ },
+ "_verified": {
+  "dun-58677": {
+   "pg": 58677,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "H. Mainwaring Dunstan"
+  },
+  "dun-58678": {
+   "pg": 58678,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "H. Mainwaring Dunstan"
+  },
+  "dun-58679": {
+   "pg": 58679,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "H. Mainwaring Dunstan"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

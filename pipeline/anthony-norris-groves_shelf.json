@@ -1,0 +1,55 @@
+{
+ "_about": "Public-domain Anthony Norris Groves (1795-1853, missionary to Baghdad and India, early Brethren) for the Word Hoard: Christian Devotedness (second edition, 1829) and Journal of a Residence at Bagdad (1832, introduced by A. J. Scott), both from Project Gutenberg. The Gutenberg Christian Devotedness carries a short note by a later, unnamed editor. Added 2026-10-10 by lane A, round 21 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "groves"
+ ],
+ "_surname": [
+  "anthony norris groves",
+  "anthony n. groves",
+  "groves, anthony norris",
+  "a. n. groves",
+  "mr. anthony n. groves"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "groves-christian-devotedness": [
+   "24293",
+   "Christian Devotedness, second edition (London: James Nisbet, MDCCCXXIX)"
+  ],
+  "groves-journal-bagdad": [
+   "29631",
+   "Journal of a Residence at Bagdad, during the years 1830 and 1831, introduction by A. J. Scott (London: James Nisbet, MDCCCXXXII)"
+  ]
+ },
+ "internet_archive": {},
+ "_alternates": {
+  "groves-journal-ia": "Journal of a Residence at Bagdad, 1832 scans (IA journalofresiden00grov, journalofresiden0000anth, journalaresiden00grovgoog)",
+  "groves-memoir": "Memoir of the late Anthony Norris Groves, compiled by his widow from his letters and journals (Nisbet, 1856; IA dli.ministry.17016; third edition memoiranthonyno00grovgoog)"
+ },
+ "_excluded": {
+  "groves-modern": "G. H. Lang's 1949 biography and modern studies",
+  "groves-namesakes": "G. W. Groves and others"
+ },
+ "_pending": {},
+ "_checks": {
+  "groves-christian-devotedness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "anthony norris groves",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "groves-journal-bagdad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "anthony norris groves",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

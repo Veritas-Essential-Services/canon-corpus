@@ -1,0 +1,130 @@
+{
+ "_about": "TRANSLATOR SHELF: Johann Reinhold Forster (1729-1798), Cook's naturalist: Kalm's Travels into North America, 3 vols (1770-1771), and Bougainville's A Voyage Round the World (1772). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "johann reinhold forster",
+  "john reinhold forster"
+ ],
+ "_surname": [
+  "johann reinhold forster",
+  "john reinhold forster"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "jrf-71849": [
+   71849,
+   "Travels into North America, Volume 1 (of 3)"
+  ],
+  "jrf-72103": [
+   72103,
+   "Travels into North America, Volume 2 (of 3)"
+  ],
+  "jrf-72737": [
+   72737,
+   "Travels into North America, Volume 3 (of 3)"
+  ],
+  "jrf-73429": [
+   73429,
+   "A voyage round the world"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "jr-forster-bougainville-a-voyage-round-the-world": {
+   "source": "jrf-73429",
+   "of": "Louis-Antoine de Bougainville",
+   "work": "A voyage round the world",
+   "translated": "1770-1772 (see the Gutenberg header)",
+   "translator": "Johann Reinhold Forster",
+   "scan_edition": "Project Gutenberg 73429 (clean text)"
+  },
+  "jr-forster-kalm-travels-into-north-america-volume-1-of-3": {
+   "source": "jrf-71849",
+   "of": "Pehr Kalm",
+   "work": "Travels into North America, Volume 1 (of 3)",
+   "translated": "1770-1772 (see the Gutenberg header)",
+   "translator": "Johann Reinhold Forster",
+   "scan_edition": "Project Gutenberg 71849 (clean text)"
+  },
+  "jr-forster-kalm-travels-into-north-america-volume-2-of-3": {
+   "source": "jrf-72103",
+   "of": "Pehr Kalm",
+   "work": "Travels into North America, Volume 2 (of 3)",
+   "translated": "1770-1772 (see the Gutenberg header)",
+   "translator": "Johann Reinhold Forster",
+   "scan_edition": "Project Gutenberg 72103 (clean text)"
+  },
+  "jr-forster-kalm-travels-into-north-america-volume-3-of-3": {
+   "source": "jrf-72737",
+   "of": "Pehr Kalm",
+   "work": "Travels into North America, Volume 3 (of 3)",
+   "translated": "1770-1772 (see the Gutenberg header)",
+   "translator": "Johann Reinhold Forster",
+   "scan_edition": "Project Gutenberg 72737 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "jrf-71849": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "johann reinhold forster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Johann Reinhold Forster"
+  },
+  "jrf-72103": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "johann reinhold forster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Johann Reinhold Forster"
+  },
+  "jrf-72737": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "johann reinhold forster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Johann Reinhold Forster"
+  },
+  "jrf-73429": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "johann reinhold forster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Johann Reinhold Forster"
+  }
+ },
+ "_verified": {
+  "jrf-71849": {
+   "pg": 71849,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Johann Reinhold Forster"
+  },
+  "jrf-72103": {
+   "pg": 72103,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Johann Reinhold Forster"
+  },
+  "jrf-72737": {
+   "pg": 72737,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Johann Reinhold Forster"
+  },
+  "jrf-73429": {
+   "pg": 73429,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Johann Reinhold Forster"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

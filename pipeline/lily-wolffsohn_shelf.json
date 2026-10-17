@@ -1,0 +1,104 @@
+{
+ "_about": "TRANSLATOR SHELF: Lily Wolffsohn: Felix Dahn's A Struggle for Rome (Bentley, 1878, 3 vols). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_name_words": [
+  "lily wolffsohn",
+  "wolffsohn"
+ ],
+ "_surname": [
+  "lily wolffsohn",
+  "wolffsohn"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "lwo-32271": [
+   32271,
+   "A Struggle for Rome, v. 1"
+  ],
+  "lwo-32330": [
+   32330,
+   "A Struggle for Rome, v. 2"
+  ],
+  "lwo-32377": [
+   32377,
+   "A Struggle for Rome, v. 3"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "lily-wolffsohn-dahn-a-struggle-for-rome-v-1": {
+   "source": "lwo-32271",
+   "of": "Felix Dahn",
+   "work": "A Struggle for Rome, v. 1",
+   "translated": "1878 (see the Gutenberg header)",
+   "translator": "Lily Wolffsohn",
+   "scan_edition": "Project Gutenberg 32271 (clean text)"
+  },
+  "lily-wolffsohn-dahn-a-struggle-for-rome-v-2": {
+   "source": "lwo-32330",
+   "of": "Felix Dahn",
+   "work": "A Struggle for Rome, v. 2",
+   "translated": "1878 (see the Gutenberg header)",
+   "translator": "Lily Wolffsohn",
+   "scan_edition": "Project Gutenberg 32330 (clean text)"
+  },
+  "lily-wolffsohn-dahn-a-struggle-for-rome-v-3": {
+   "source": "lwo-32377",
+   "of": "Felix Dahn",
+   "work": "A Struggle for Rome, v. 3",
+   "translated": "1878 (see the Gutenberg header)",
+   "translator": "Lily Wolffsohn",
+   "scan_edition": "Project Gutenberg 32377 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "lwo-32271": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lily wolffsohn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lily Wolffsohn"
+  },
+  "lwo-32330": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lily wolffsohn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lily Wolffsohn"
+  },
+  "lwo-32377": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lily wolffsohn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lily Wolffsohn"
+  }
+ },
+ "_verified": {
+  "lwo-32271": {
+   "pg": 32271,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lily Wolffsohn"
+  },
+  "lwo-32330": {
+   "pg": 32330,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lily Wolffsohn"
+  },
+  "lwo-32377": {
+   "pg": 32377,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lily Wolffsohn"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

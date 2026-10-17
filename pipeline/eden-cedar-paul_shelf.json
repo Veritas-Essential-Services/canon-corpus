@@ -1,0 +1,290 @@
+{
+ "_about": "TRANSLATOR SHELF: Eden Paul (1865-1944) and Cedar Paul (1880-1972), who translated mostly as a pair: Stefan Zweig, Romain Rolland, Schnitzler's Casanova's Homecoming, Emil Ludwig's Napoleon and Diana, Loria's Karl Marx, and others. Printings before 1931 only. Their sexology translations are left out (see _excluded). US public domain. Added 2026-10-10 by lane C (round 24); Adam may veto. No uids minted.",
+ "_name_words": [
+  "eden and cedar paul",
+  "eden paul",
+  "cedar paul"
+ ],
+ "_surname": [
+  "eden and cedar paul",
+  "eden paul",
+  "cedar paul"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ecp-31313": [
+   31313,
+   "The Forerunners"
+  ],
+  "ecp-34888": [
+   34888,
+   "Romain Rolland: The Man and His Work"
+  ],
+  "ecp-39402": [
+   39402,
+   "Jeremiah: A Drama in Nine Scenes"
+  ],
+  "ecp-48446": [
+   48446,
+   "Karl Marx"
+  ],
+  "ecp-57287": [
+   57287,
+   "The Diary of a French Private: War-Imprisonment, 1914-1915"
+  ],
+  "ecp-58787": [
+   58787,
+   "The Elements of Child-protection"
+  ],
+  "ecp-61423": [
+   61423,
+   "Cesare Lombroso, a modern man of science"
+  ],
+  "ecp-77479": [
+   77479,
+   "Diana"
+  ],
+  "ecp-79253": [
+   79253,
+   "Napoleon"
+  ],
+  "ecp-9310": [
+   9310,
+   "Casanova's Homecoming"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "eden-cedar-paul-engel-the-elements-of-child-protection": {
+   "source": "ecp-58787",
+   "of": "Sigmund Engel",
+   "work": "The Elements of Child-protection",
+   "translated": "1915-1929 (see the Gutenberg header)",
+   "translator": "Eden Paul",
+   "scan_edition": "Project Gutenberg 58787 (clean text)"
+  },
+  "eden-cedar-paul-kurella-cesare-lombroso-a-modern-man-of-science": {
+   "source": "ecp-61423",
+   "of": "Hans Kurella",
+   "work": "Cesare Lombroso, a modern man of science",
+   "translated": "1915-1929 (see the Gutenberg header)",
+   "translator": "Eden Paul",
+   "scan_edition": "Project Gutenberg 61423 (clean text)"
+  },
+  "eden-cedar-paul-loria-karl-marx": {
+   "source": "ecp-48446",
+   "of": "Achille Loria",
+   "work": "Karl Marx",
+   "translated": "1915-1929 (see the Gutenberg header)",
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "Project Gutenberg 48446 (clean text)"
+  },
+  "eden-cedar-paul-ludwig-diana": {
+   "source": "ecp-77479",
+   "of": "Emil Ludwig",
+   "work": "Diana",
+   "translated": "1915-1929 (see the Gutenberg header)",
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "Project Gutenberg 77479 (clean text)"
+  },
+  "eden-cedar-paul-ludwig-napoleon": {
+   "source": "ecp-79253",
+   "of": "Emil Ludwig",
+   "work": "Napoleon",
+   "translated": "1915-1929 (see the Gutenberg header)",
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "Project Gutenberg 79253 (clean text)"
+  },
+  "eden-cedar-paul-riou-the-diary-of-a-french-private-war-impris": {
+   "source": "ecp-57287",
+   "of": "Gaston Riou",
+   "work": "The Diary of a French Private: War-Imprisonment, 1914-1915",
+   "translated": "1915-1929 (see the Gutenberg header)",
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "Project Gutenberg 57287 (clean text)"
+  },
+  "eden-cedar-paul-rolland-the-forerunners": {
+   "source": "ecp-31313",
+   "of": "Romain Rolland",
+   "work": "The Forerunners",
+   "translated": "1915-1929 (see the Gutenberg header)",
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "Project Gutenberg 31313 (clean text)"
+  },
+  "eden-cedar-paul-schnitzler-casanova-s-homecoming": {
+   "source": "ecp-9310",
+   "of": "Arthur Schnitzler",
+   "work": "Casanova's Homecoming",
+   "translated": "1915-1929 (see the Gutenberg header)",
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "Project Gutenberg 9310 (clean text)"
+  },
+  "eden-cedar-paul-zweig-jeremiah-a-drama-in-nine-scenes": {
+   "source": "ecp-39402",
+   "of": "Stefan Zweig",
+   "work": "Jeremiah: A Drama in Nine Scenes",
+   "translated": "1915-1929 (see the Gutenberg header)",
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "Project Gutenberg 39402 (clean text)"
+  },
+  "eden-cedar-paul-zweig-romain-rolland-the-man-and-his-work": {
+   "source": "ecp-34888",
+   "of": "Stefan Zweig",
+   "work": "Romain Rolland: The Man and His Work",
+   "translated": "1915-1929 (see the Gutenberg header)",
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "Project Gutenberg 34888 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "sexology": "Left out by lane C's judgment, not for rights: A Young Girl's Diary (752), Moll's The Sexual Life of the Child (28402), Bloch's The Sexual Life of Our Time (60968) and Kisch's The Sexual Life of Woman (63274), medical and psychoanalytic works of the 1910s-20s. Adam can ask for them."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ecp-31313": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eden and cedar paul",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cedar Paul; Eden Paul"
+  },
+  "ecp-34888": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eden and cedar paul",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cedar Paul; Eden Paul"
+  },
+  "ecp-39402": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eden and cedar paul",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cedar Paul; Eden Paul"
+  },
+  "ecp-48446": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eden and cedar paul",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cedar Paul; Eden Paul"
+  },
+  "ecp-57287": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eden and cedar paul",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cedar Paul; Eden Paul"
+  },
+  "ecp-58787": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eden paul",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eden Paul"
+  },
+  "ecp-61423": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eden paul",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eden Paul"
+  },
+  "ecp-77479": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eden paul",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cedar Paul; Eden Paul"
+  },
+  "ecp-79253": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eden paul",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cedar Paul; Eden Paul"
+  },
+  "ecp-9310": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eden and cedar paul",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cedar Paul; Eden Paul"
+  }
+ },
+ "_verified": {
+  "ecp-31313": {
+   "pg": 31313,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cedar Paul"
+  },
+  "ecp-34888": {
+   "pg": 34888,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cedar Paul"
+  },
+  "ecp-39402": {
+   "pg": 39402,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cedar Paul"
+  },
+  "ecp-48446": {
+   "pg": 48446,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cedar Paul"
+  },
+  "ecp-57287": {
+   "pg": 57287,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cedar Paul"
+  },
+  "ecp-58787": {
+   "pg": 58787,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eden Paul"
+  },
+  "ecp-61423": {
+   "pg": 61423,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eden Paul"
+  },
+  "ecp-77479": {
+   "pg": 77479,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cedar Paul"
+  },
+  "ecp-79253": {
+   "pg": 79253,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cedar Paul"
+  },
+  "ecp-9310": {
+   "pg": 9310,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cedar Paul"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -11,6 +11,10 @@
   "payne-decameron": [
    23700,
    "The Decameron of Giovanni Boccaccio"
+  ],
+  "payne-pg5100": [
+   5100,
+   "Alaeddin and the Enchanted Lamp"
   ]
  },
  "internet_archive": {
@@ -20,6 +24,15 @@
   ]
  },
  "titles": {
+  "payne-alaeddin-and-the-enchanted-lamp": {
+   "source": "payne-pg5100",
+   "of": "Anonymous (from the Arabian Nights)",
+   "work": "Alaeddin and the Enchanted Lamp",
+   "translated": "1889",
+   "translator": "John Payne",
+   "scan_edition": "Project Gutenberg 5100 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
   "payne-decameron": {
    "source": "payne-decameron",
    "of": "Boccaccio",
@@ -46,7 +59,16 @@
  "_checks": {
   "payne-decameron": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john payne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Payne"
+  },
+  "payne-pg5100": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "john payne",
    "identity": "ok",
@@ -55,7 +77,7 @@
   },
   "payne-villon-1878": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "john payne",
    "identity": "ok",
@@ -68,6 +90,11 @@
  "_verified": {
   "payne-decameron": {
    "pg": 23700,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Payne"
+  },
+  "payne-pg5100": {
+   "pg": 5100,
    "pg_copyrighted_marker": false,
    "pg_translator": "John Payne"
   },

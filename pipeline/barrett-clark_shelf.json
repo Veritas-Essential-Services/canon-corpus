@@ -1,0 +1,156 @@
+{
+ "_about": "TRANSLATOR SHELF: Barrett H. Clark (1890-1953): French plays for the American stage (Samuel French, 1915-18): Rostand's The Romancers, Rolland's The Fourteenth of July and Danton, Pailleron, Bouchor and Tristan Bernard. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_name_words": [
+  "barrett h. clark",
+  "barrett clark"
+ ],
+ "_surname": [
+  "barrett h. clark",
+  "barrett clark"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "bcl-17581": [
+   17581,
+   "The Romancers: A Comedy in Three Acts"
+  ],
+  "bcl-49438": [
+   49438,
+   "The Fourteenth of July, and Danton: Two Plays of the French Revolution"
+  ],
+  "bcl-53334": [
+   53334,
+   "The Art of Being Bored: A Comedy in Three Acts"
+  ],
+  "bcl-61613": [
+   61613,
+   "A Christmas Tale: in One Act"
+  ],
+  "bcl-70884": [
+   70884,
+   "French without a master"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "barrett-clark-bernard-french-without-a-master": {
+   "source": "bcl-70884",
+   "of": "Tristan Bernard",
+   "work": "French without a master",
+   "translated": "1914-1918 (see the Gutenberg header)",
+   "translator": "Barrett H. Clark",
+   "scan_edition": "Project Gutenberg 70884 (clean text)"
+  },
+  "barrett-clark-bouchor-a-christmas-tale-in-one-act": {
+   "source": "bcl-61613",
+   "of": "Maurice Bouchor",
+   "work": "A Christmas Tale: in One Act",
+   "translated": "1914-1918 (see the Gutenberg header)",
+   "translator": "Barrett H. Clark",
+   "scan_edition": "Project Gutenberg 61613 (clean text)"
+  },
+  "barrett-clark-pailleron-the-art-of-being-bored-a-comedy-in-three": {
+   "source": "bcl-53334",
+   "of": "Edouard Pailleron",
+   "work": "The Art of Being Bored: A Comedy in Three Acts",
+   "translated": "1914-1918 (see the Gutenberg header)",
+   "translator": "Barrett H. Clark",
+   "scan_edition": "Project Gutenberg 53334 (clean text)"
+  },
+  "barrett-clark-rolland-the-fourteenth-of-july-and-danton-two-pl": {
+   "source": "bcl-49438",
+   "of": "Romain Rolland",
+   "work": "The Fourteenth of July, and Danton: Two Plays of the French Revolution",
+   "translated": "1914-1918 (see the Gutenberg header)",
+   "translator": "Barrett H. Clark",
+   "scan_edition": "Project Gutenberg 49438 (clean text)"
+  },
+  "barrett-clark-rostand-the-romancers-a-comedy-in-three-acts": {
+   "source": "bcl-17581",
+   "of": "Edmond Rostand",
+   "work": "The Romancers: A Comedy in Three Acts",
+   "translated": "1914-1918 (see the Gutenberg header)",
+   "translator": "Barrett H. Clark",
+   "scan_edition": "Project Gutenberg 17581 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "bcl-17581": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "barrett h. clark",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Barrett H. Clark"
+  },
+  "bcl-49438": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "barrett h. clark",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Barrett H. Clark"
+  },
+  "bcl-53334": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "barrett h. clark",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Barrett H. Clark"
+  },
+  "bcl-61613": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "barrett h. clark",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Barrett H. Clark"
+  },
+  "bcl-70884": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "barrett h. clark",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Barrett H. Clark"
+  }
+ },
+ "_verified": {
+  "bcl-17581": {
+   "pg": 17581,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Barrett H. Clark"
+  },
+  "bcl-49438": {
+   "pg": 49438,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Barrett H. Clark"
+  },
+  "bcl-53334": {
+   "pg": 53334,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Barrett H. Clark"
+  },
+  "bcl-61613": {
+   "pg": 61613,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Barrett H. Clark"
+  },
+  "bcl-70884": {
+   "pg": 70884,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Barrett H. Clark"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

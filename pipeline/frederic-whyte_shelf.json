@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: Frederic Whyte (1867-1941): Filon's The English Stage (1897) and Schillings's In Wildest Africa, 2 vols (1907). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "frederic whyte"
+ ],
+ "_surname": [
+  "frederic whyte"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "fwh-36590": [
+   36590,
+   "The English Stage: Being an Account of the Victorian Drama"
+  ],
+  "fwh-54922": [
+   54922,
+   "In Wildest Africa, Vol. 1"
+  ],
+  "fwh-54923": [
+   54923,
+   "In Wildest Africa, Vol. 2"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "frederic-whyte-filon-the-english-stage-being-an-account-of-th": {
+   "source": "fwh-36590",
+   "of": "Augustin Filon",
+   "work": "The English Stage: Being an Account of the Victorian Drama",
+   "translated": "1897-1907 (see the Gutenberg header)",
+   "translator": "Frederic Whyte",
+   "scan_edition": "Project Gutenberg 36590 (clean text)"
+  },
+  "frederic-whyte-schillings-in-wildest-africa-vol-1": {
+   "source": "fwh-54922",
+   "of": "C. G. Schillings",
+   "work": "In Wildest Africa, Vol. 1",
+   "translated": "1897-1907 (see the Gutenberg header)",
+   "translator": "Frederic Whyte",
+   "scan_edition": "Project Gutenberg 54922 (clean text)"
+  },
+  "frederic-whyte-schillings-in-wildest-africa-vol-2": {
+   "source": "fwh-54923",
+   "of": "C. G. Schillings",
+   "work": "In Wildest Africa, Vol. 2",
+   "translated": "1897-1907 (see the Gutenberg header)",
+   "translator": "Frederic Whyte",
+   "scan_edition": "Project Gutenberg 54923 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "fwh-36590": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederic whyte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederic Whyte"
+  },
+  "fwh-54922": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederic whyte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederic Whyte"
+  },
+  "fwh-54923": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederic whyte",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederic Whyte"
+  }
+ },
+ "_verified": {
+  "fwh-36590": {
+   "pg": 36590,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederic Whyte"
+  },
+  "fwh-54922": {
+   "pg": 54922,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederic Whyte"
+  },
+  "fwh-54923": {
+   "pg": 54923,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederic Whyte"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

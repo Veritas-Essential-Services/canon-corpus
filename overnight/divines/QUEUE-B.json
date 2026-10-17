@@ -964,6 +964,222 @@
    "started": "2026-10-10T09:42:13-05:00",
    "finished": "2026-10-10T09:48:14-05:00",
    "notes": "Science, technical and historian candidates were all held. From the subject sweep: Potter's Sophocles 1820 from a cleaner scan (0.843; the refused one read 0.758), Gilchrist's Iliad I-VIII 1869, Bland's Collections from the Greek Anthology 1813. Goldwin Smith's Euripides Specimens (added in round 10d) taken back out: excerpts, excluded like his PG 7073 volume."
+  },
+  {
+   "id": "round-2026-10-10g",
+   "status": "done",
+   "scope": "Retry of items refused for OCR or wanted from a cleaner scan",
+   "started": "2026-10-10T09:48:14-05:00",
+   "finished": "2026-10-10T09:54:27-05:00",
+   "notes": "Found cleaner or other editions for four refused or wanted items: Smart's prose Horace (5th ed. 1780, 2 vols.) and his verse Horace (1767, vol. I), Thornton's Plautus (2nd ed. 1769, vols. I-II), and Angel Day's Daphnis and Chloe (1587, Jacobs's 1890 reprint). Thornley's Daphnis held back (undated modern reprint). Still not found cleaner: Aristaenetus, Taylor's Julian, Mawer's Oppian, Gillies's Lysias, Dart's Tibullus, Pitt's Aeneid, Polwhele's Theocritus."
+  },
+  {
+   "id": "round-2026-10-10h",
+   "status": "done",
+   "scope": "Missing-volume hunt: Smart's verse Horace, Thornton's Plautus III-V, Pitt and Warton II and IV",
+   "started": "2026-10-10T09:54:27-05:00",
+   "finished": "2026-10-10T10:00:56-05:00",
+   "notes": "Found Smart's verse Horace vols. II and IV (1767) and Pitt and Warton's Works of Virgil vols. II and IV in the 1778 third edition, which fills the 1763 set's Aeneid gap (mixed editions, noted). Still missing: Smart verse vol. III; Thornton's Plautus vols. III-V."
+  },
+  {
+   "id": "round-2026-10-10i",
+   "status": "done",
+   "scope": "Sweep of 'translated from the Greek/Latin' titles: Paulus Aegineta, Phalaris, Sophocles, Julian, Theocritus",
+   "started": "2026-10-10T10:00:56-05:00",
+   "finished": "2026-10-10T10:07:08-05:00",
+   "notes": "7 volumes added; Duncombe's Julian vol. I excluded (no title page)"
+  },
+  {
+   "id": "round-2026-10-10j",
+   "status": "done",
+   "scope": "Sweeps of 'into English verse', 'literally translated' and 'done into English / into English prose' titles",
+   "started": "2026-10-10T10:07:08-05:00",
+   "finished": "2026-10-10T10:18:25-05:00",
+   "notes": "4 volumes added; 6 refusals recorded"
+  },
+  {
+   "id": "round-2026-10-10k",
+   "status": "done",
+   "scope": "Missing-volume re-hunt; IA subject sweep 'Translations into English' (Greek, Latin)",
+   "started": "2026-10-10T10:18:25-05:00",
+   "finished": "2026-10-10T10:24:15-05:00",
+   "notes": "6 volumes added; 5 refusals recorded"
+  },
+  {
+   "id": "round-2026-10-10l",
+   "status": "done",
+   "scope": "Bohn Classical Library gaps; IA sweep of 'translated into English' by classical author",
+   "started": "2026-10-10T10:24:15-05:00",
+   "finished": "2026-10-10T10:34:06-05:00",
+   "notes": "8 volumes added"
+  },
+  {
+   "id": "round-2026-10-10m",
+   "status": "done",
+   "scope": "IA sweep of 'translated' titles across ~70 classical authors (mostly ECCO 18th-century scans)",
+   "started": "2026-10-10T10:34:06-05:00",
+   "finished": "2026-10-10T10:37:47-05:00",
+   "notes": "1 volume added; 1 held back undated; 16 refusals recorded"
+  },
+  {
+   "id": "round-2026-10-10n",
+   "status": "done",
+   "scope": "Open wishlist lines in the lane-B map",
+   "started": "2026-10-10T10:37:47-05:00",
+   "finished": "2026-10-10T10:40:19-05:00",
+   "notes": "1 volume added; 1 stale wishlist line corrected"
+  },
+  {
+   "id": "round-2026-10-10o",
+   "status": "done",
+   "scope": "Frere's Frogs; the two Crown volumes; wishlist fixes; refusals",
+   "started": "2026-10-10T10:40:19-05:00",
+   "finished": "2026-10-10T10:47:48-05:00",
+   "notes": "3 volumes added (Frere Frogs, Biddle and Portal Crown orations); Storr Loeb vol. II measured Greek-facing; Herodian 1789 and Cebes 1699 refused"
+  },
+  {
+   "id": "round-2026-10-10p",
+   "status": "done",
+   "scope": "late Greek and Byzantine sweep; wishlist re-hunt",
+   "started": "2026-10-10T10:47:48-05:00",
+   "finished": "2026-10-10T10:55:19-05:00",
+   "notes": "0 volumes added. Dawes's Alexiad (1928) found only as modern digital retypes; held for Adam. Refusals recorded in REPORT-B only (no shelf for these authors)."
+  },
+  {
+   "id": "round-2026-10-10q",
+   "status": "done",
+   "scope": "pivot to classical scholarship (coordinator steer)",
+   "started": "2026-10-10T10:55:19-05:00",
+   "finished": "2026-10-10T11:12:31-05:00",
+   "notes": "24 new shelves, 69 volumes: Grote 18, Mommsen 7, Smith 8 (incl. the full Dictionaries), Jebb 7, Conington 1, and 19 further scholars from clean Gutenberg"
+  },
+  {
+   "id": "round-2026-10-10r",
+   "status": "done",
+   "scope": "classical scholarship, second Gutenberg batch",
+   "started": "2026-10-10T11:12:31-05:00",
+   "finished": "2026-10-10T11:20:35-05:00",
+   "notes": "22 new shelves, 34 volumes"
+  },
+  {
+   "id": "round-2026-10-10s",
+   "status": "done",
+   "scope": "classical scholarship from IA: the big histories and reference works",
+   "started": "2026-10-10T11:20:35-05:00",
+   "finished": "2026-10-10T11:24:41-05:00",
+   "notes": "5 new shelves, 15 volumes"
+  },
+  {
+   "id": "round-2026-10-10t",
+   "status": "done",
+   "scope": "classical scholarship: multi-volume histories",
+   "started": "2026-10-10T11:24:41-05:00",
+   "finished": "2026-10-10T11:32:11-05:00",
+   "notes": "2 new shelves and 1 completed set, 12 volumes"
+  },
+  {
+   "id": "round-2026-10-10u",
+   "status": "done",
+   "scope": "Literary histories and Roman history from IA scans",
+   "started": "2026-10-10T11:32:11-05:00",
+   "finished": "2026-10-10T11:39:49-05:00",
+   "notes": "11 shelves (10 new), 27 volumes; Teuffel tr. Warr and Butcher's Aristotle under the bar"
+  },
+  {
+   "id": "round-2026-10-10v",
+   "status": "done",
+   "scope": "Scholars already shelved plus Cruttwell and Verrall",
+   "started": "2026-10-10T11:39:49-05:00",
+   "finished": "2026-10-10T11:44:54-05:00",
+   "notes": "10 volumes: 2 new shelves, 5 shelves extended"
+  },
+  {
+   "id": "round-2026-10-10w",
+   "status": "done",
+   "scope": "Merivale; translated German antiquities; Freeman, Arnold, Pelham, Leaf",
+   "started": "2026-10-10T11:44:54-05:00",
+   "finished": "2026-10-10T11:51:28-05:00",
+   "notes": "13 volumes on 9 new shelves; Merivale VI-VIII held for Adam"
+  },
+  {
+   "id": "round-2026-10-10x",
+   "status": "done",
+   "scope": "Multi-volume histories: Freeman's Sicily, Abbott, Holm; Merivale completed",
+   "started": "2026-10-10T11:51:28-05:00",
+   "finished": "2026-10-10T11:56:03-05:00",
+   "notes": "14 volumes; 2 new shelves; Merivale question withdrawn"
+  },
+  {
+   "id": "round-2026-10-10y",
+   "status": "done",
+   "scope": "Ihne's Rome; Pelham and Leaf completed",
+   "started": "2026-10-10T11:56:03-05:00",
+   "finished": "2026-10-10T11:58:25-05:00",
+   "notes": "7 volumes; 1 new shelf"
+  },
+  {
+   "id": "round-2026-10-10z",
+   "status": "done",
+   "scope": "Ancient geography, topography and antiquities manuals",
+   "started": "2026-10-10T11:58:25-05:00",
+   "finished": "2026-10-10T12:01:44-05:00",
+   "notes": "11 volumes; 6 new shelves"
+  },
+  {
+   "id": "round-2026-10-10aa",
+   "status": "done",
+   "scope": "Classical dictionaries and Liddell's Rome",
+   "started": "2026-10-10T12:01:44-05:00",
+   "finished": "2026-10-10T12:04:02-05:00",
+   "notes": "5 volumes on 4 new shelves; Fynes Clinton under the bar; Lempriere held"
+  },
+  {
+   "id": "round-2026-10-10ab",
+   "status": "done",
+   "scope": "Drama and topography: Donaldson, Campbell, Moulton, Felton, Leake",
+   "started": "2026-10-10T12:04:02-05:00",
+   "finished": "2026-10-10T12:06:26-05:00",
+   "notes": "7 volumes on 5 new shelves"
+  },
+  {
+   "id": "round-2026-10-10ac",
+   "status": "done",
+   "scope": "Leake's Travels; Mahaffy's Greek literature",
+   "started": "2026-10-10T12:06:26-05:00",
+   "finished": "2026-10-10T12:08:59-05:00",
+   "notes": "8 volumes; Mahaffy hold from 10v resolved"
+  },
+  {
+   "id": "round-2026-10-10ad",
+   "status": "done",
+   "scope": "Müller's Dorians; Niebuhr's History of Rome",
+   "started": "2026-10-10T12:08:59-05:00",
+   "finished": "2026-10-10T12:11:18-05:00",
+   "notes": "5 volumes; Hermann under the bar"
+  },
+  {
+   "id": "round-2026-10-10ae",
+   "status": "done",
+   "scope": "Glover, Ridgeway, Rice Holmes, Bury, Frazer",
+   "started": "2026-10-10T12:11:18-05:00",
+   "finished": "2026-10-10T12:13:58-05:00",
+   "notes": "10 volumes; 3 new shelves"
+  },
+  {
+   "id": "round-2026-10-10af",
+   "status": "done",
+   "scope": "Roman and Hellenistic history: Capes, Strachan-Davidson, Bevan, Oman, Mahaffy, Warde Fowler",
+   "started": "2026-10-10T12:13:58-05:00",
+   "finished": "2026-10-10T12:18:15-05:00",
+   "notes": "9 volumes; 4 new shelves"
+  },
+  {
+   "id": "round-2026-10-10ag",
+   "status": "done",
+   "scope": "Latin and Greek grammars",
+   "started": "2026-10-10T12:18:15-05:00",
+   "finished": "2026-10-10T12:19:49-05:00",
+   "notes": "3 Latin grammars; the Greek grammars fall under the bar"
   }
  ]
 }

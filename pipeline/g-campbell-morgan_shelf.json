@@ -1,0 +1,584 @@
+{
+ "_about": "Public-domain G. Campbell Morgan (George Campbell Morgan, 1863-1945, Congregationalist, Westminster Chapel) for the Word Hoard, held to printings dated before 1930: 36 books 1897-1929 from Internet Archive scans, Fleming H. Revell editions, among them The Crises of the Christ, The Spirit of God, The Ten Commandments, The Teaching of Christ, The Parables of the Kingdom, ten volumes of The Analyzed Bible, Living Messages (Old Testament), and his Mark (1927) and Matthew (1929). Undated printings with post-1930 advertisements are left out. Added 2026-10-10 by lane A, round 19 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "morgan",
+  "campbell"
+ ],
+ "_surname": [
+  "g. campbell morgan",
+  "george campbell morgan",
+  "morgan, g. campbell",
+  "morgan, george campbell",
+  "g. campbell morgan, d.d.",
+  "rev. g. campbell morgan"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "morgan-discipleship": [
+   "disciplesh00morg",
+   "Discipleship (New York: Fleming H. Revell, copyright 1897)"
+  ],
+  "morgan-hidden-years": [
+   "hiddenyearsatnaz00morg",
+   "The Hidden Years at Nazareth (Revell, copyright 1898)"
+  ],
+  "morgan-gods-methods": [
+   "godsmethodswithm00morg",
+   "God's Methods with Man, second edition (Revell, copyright 1898)"
+  ],
+  "morgan-robbed-god": [
+   "wherinhavewerobb00morg",
+   "Wherein Have We Robbed God? second edition (Revell, copyright 1898)"
+  ],
+  "morgan-life-problems": [
+   "lifeproblems00morg",
+   "Life Problems (Revell, copyright 1899)"
+  ],
+  "morgan-spirit-of-god": [
+   "spiritofgod00morg",
+   "The Spirit of God (Revell, copyright 1900)"
+  ],
+  "morgan-ten-commandments": [
+   "tencommandments00morg",
+   "The Ten Commandments (Revell, copyright 1901)"
+  ],
+  "morgan-gods-perfect-will": [
+   "godsperfectwill00morg",
+   "God's Perfect Will (Revell, copyright 1901)"
+  ],
+  "morgan-first-century-message": [
+   "firstcenturymess00morg",
+   "A First Century Message to Twentieth Century Christians (Revell, copyright 1902)"
+  ],
+  "morgan-crises-of-christ": [
+   "crisesofchrist00morg",
+   "The Crises of the Christ, second edition (Revell, copyright 1903)"
+  ],
+  "morgan-true-estimate": [
+   "trueestimateofli00morg",
+   "The True Estimate of Life and How to Live (Revell, copyright 1903)"
+  ],
+  "morgan-evangelism": [
+   "evangelism00morg",
+   "Evangelism (Revell, copyright 1904)"
+  ],
+  "morgan-life-of-christian": [
+   "lifeofchristianmo00morg",
+   "The Life of the Christian (Revell, copyright 1904)"
+  ],
+  "morgan-christ-of-today": [
+   "christoftodaywha0000morg",
+   "The Christ of To-day: What? Whence? Whither? (Revell, copyright 1905)"
+  ],
+  "morgan-practice-of-prayer": [
+   "practiceofprayer00morg",
+   "The Practice of Prayer (Revell, copyright 1906)"
+  ],
+  "morgan-parables-kingdom": [
+   "parablesofkingdo00morg",
+   "The Parables of the Kingdom (Revell, copyright 1907)"
+  ],
+  "morgan-analyzed-bible-01": [
+   "analyzedbible01morg",
+   "The Analyzed Bible, vol. 1, Introduction: Genesis to Esther (Revell, copyright 1907)"
+  ],
+  "morgan-analyzed-bible-02": [
+   "analyzedbible02morg",
+   "The Analyzed Bible, vol. 2, Introduction: Job to Malachi (Revell, copyright 1908)"
+  ],
+  "morgan-analyzed-bible-03": [
+   "analyzedbible03morg",
+   "The Analyzed Bible, vol. 3, Introduction: Matthew to Revelation (Revell, copyright 1908)"
+  ],
+  "morgan-analyzed-bible-04": [
+   "analyzedbible04morg",
+   "The Analyzed Bible, vol. 4, The Gospel according to John (Revell, copyright 1909)"
+  ],
+  "morgan-analyzed-bible-05": [
+   "analyzedbible05morg",
+   "The Analyzed Bible, vol. 5, The Book of Job (Revell, copyright 1909)"
+  ],
+  "morgan-analyzed-bible-06": [
+   "analyzedbible06morg",
+   "The Analyzed Bible, vol. 6, Romans (Revell, copyright 1909)"
+  ],
+  "morgan-analyzed-bible-07": [
+   "analyzedbible07morg",
+   "The Analyzed Bible, vol. 7, The Prophecy of Isaiah, vol. 1 (Revell, copyright 1910)"
+  ],
+  "morgan-analyzed-bible-08": [
+   "analyzedbible08morg",
+   "The Analyzed Bible, vol. 8, The Prophecy of Isaiah, vol. 2 (Revell, copyright 1910)"
+  ],
+  "morgan-analyzed-bible-09": [
+   "analyzedbible09morg",
+   "The Analyzed Bible, vol. 9, The Book of Genesis (Revell, copyright 1911)"
+  ],
+  "morgan-analyzed-bible-10": [
+   "analyzedbible10morg",
+   "The Analyzed Bible, vol. 10, The Gospel according to Matthew (Revell, copyright 1911)"
+  ],
+  "morgan-bible-and-cross": [
+   "biblecross00morg",
+   "The Bible and the Cross (Revell, copyright 1909)"
+  ],
+  "morgan-missionary-manifesto": [
+   "missionarymanife00morg",
+   "The Missionary Manifesto (Revell, copyright 1909)"
+  ],
+  "morgan-study-teaching-bible": [
+   "studyteachingofe0000morg",
+   "The Study and Teaching of the English Bible, revised for press by E. Dunscombe de Rusett (Revell, copyright 1910)"
+  ],
+  "morgan-living-messages-ot": [
+   "livingmessagesof01morgiala",
+   "Living Messages of the Books of the Bible: Genesis to Malachi (Revell, copyright 1912)"
+  ],
+  "morgan-sunrise": [
+   "sunrisebeholdhec00morg",
+   "Sunrise: Behold, He Cometh! (Revell, copyright 1912)"
+  ],
+  "morgan-teaching-of-christ": [
+   "teachingofchrist01morg",
+   "The Teaching of Christ (Revell, copyright 1913)"
+  ],
+  "morgan-ministry-of-word": [
+   "ministryofworld00morg",
+   "The Ministry of the Word (Revell, copyright 1919)"
+  ],
+  "morgan-acts": [
+   "MN41494ucmf_0",
+   "The Acts of the Apostles (Revell; copyright year garbled, catalogued 1924)"
+  ],
+  "morgan-mark": [
+   "MN41464ucmf_0",
+   "The Gospel according to Mark (Revell, copyright MCMXXVII)"
+  ],
+  "morgan-matthew": [
+   "gospelaccordingt00morg_1",
+   "The Gospel according to Matthew (Revell, copyright MCMXXIX)"
+  ]
+ },
+ "_alternates": {
+  "morgan-living-messages-nt": "Living Messages, Matthew to Revelation (IA livingmessagesof0000gcam, livingmessagesof0000gcam_e1y3): copyright 1912 but undated popular-edition printings",
+  "morgan-simple-things": "The Simple Things of the Christian Life (IA simplethingsofch0000morg): copyright 1907, undated later printing",
+  "morgan-copies": "Second copies and London (Nisbet, Hodder, Morgan and Scott) issues of many titles",
+  "morgan-foundations": "Foundations (IA foundations00morg): no year, no catalogue year",
+  "morgan-flagged": "The Song Companion to the Scriptures (hymnal, 1911); The Morning Message (selections by another hand, 1906); The Fulfilment of Life (c. 1920 reissue)"
+ },
+ "_excluded": {
+  "morgan-late-printings": "Living Messages and Crises copies whose advertisements list 1931-1939 titles; WWII economy printings; the Westminster Pulpit (1954 on); Luke 1931, John 1933 and later",
+  "morgan-gipsy-smith": "Gipsy Smith: His Life and Work: introduction only"
+ },
+ "_identity_checked": {
+  "morgan-analyzed-bible-01": {
+   "author": "Title page read: \"THE ANALYZED BIBLE BY G. CAMPBELL 'morgan, D.D. VOLUME I GENESIS TO ESTHER\", Revell, copyright 1907 (OCR quote mark)."
+  }
+ },
+ "_rights_checked": {
+  "morgan-christ-of-today": "verso read: Revell, copyright 1905",
+  "morgan-study-teaching-bible": "verso read: Revell, copyright 1910"
+ },
+ "_checks": {
+  "morgan-discipleship": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-hidden-years": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-gods-methods": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morgan-robbed-god": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-life-problems": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-spirit-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morgan-ten-commandments": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-gods-perfect-will": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-first-century-message": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-crises-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-true-estimate": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-evangelism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-life-of-christian": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-christ-of-today": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "verso read: Revell, copyright 1905"
+  },
+  "morgan-practice-of-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-parables-kingdom": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-analyzed-bible-01": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-analyzed-bible-02": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-analyzed-bible-03": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-analyzed-bible-04": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-analyzed-bible-05": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-analyzed-bible-06": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-analyzed-bible-07": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-analyzed-bible-08": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-analyzed-bible-09": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-analyzed-bible-10": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-bible-and-cross": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morgan-missionary-manifesto": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-study-teaching-bible": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "verso read: Revell, copyright 1910"
+  },
+  "morgan-living-messages-ot": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "c1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-sunrise": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morgan-teaching-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "morgan-ministry-of-word": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morgan-acts": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morgan-mark": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "[c1927]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morgan-matthew": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. campbell morgan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

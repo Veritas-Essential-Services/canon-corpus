@@ -1,0 +1,37 @@
+{
+ "_about": "Sir Charles Oman (1860-1946): Seven Roman Statesmen of the Later Republic (London: Edward Arnold; first published 1902), raw IA OCR of an impression whose reprint list ends at 1929, so a pre-1930 printing. Oman died 1946. His medieval and Peninsular War histories and The Byzantine Empire are outside this brief. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "oman"
+ ],
+ "_surname": [
+  "charles oman",
+  "c. oman",
+  "oman, charles"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "oman-seven-roman-statesmen-1929": [
+   "cu31924028296345",
+   "Seven Roman Statesmen of the Later Republic (London: Edward Arnold, 1902; impression of 1929)"
+  ]
+ },
+ "_checks": {
+  "oman-seven-roman-statesmen-1929": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "oman-seven-roman-statesmen-1929": {
+   "author": "title page read 2026-10-10: OCR gives 'Sir CHAELES OMAN, M.A.', Edward Arnold (Charles Oman); the OCR misreads CHARLES"
+  }
+ }
+}

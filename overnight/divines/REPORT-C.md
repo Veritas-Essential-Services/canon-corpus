@@ -101,3 +101,77 @@
 - 2026-10-10T09:38-05:00: round 12: morris-magnusson (3), strindberg-english (14). --verify --record 0 mismatched.
 
 - 2026-10-10T09:45-05:00: round 13: Saga Library + TNLS (morris-magnusson, now 10), Björkman series 1 (strindberg-english, now 15), pickthall (1, 1930 override). --verify --record 0 mismatched.
+
+- 2026-10-10T09:52-05:00: fix: mm-volsunga duplicated Lane D's edda-volsunga-morris; now held_in cross-reference. Re-verified 0 mismatched.
+
+- 2026-10-10T10:05-05:00: round 14: wormeley (41), vizetelly (16); id-clash check over all lane C shelves: none. --verify --record 0 mismatched.
+
+- 2026-10-10T10:18-05:00: round 15: wiener-tolstoy (24 vols). --verify --record 0 mismatched.
+
+- 2026-10-10T10:23-05:00: round 16: leland-heine (8), whishaw (3). --verify --record 0 mismatched.
+
+- 2026-10-10T10:28-05:00: round 17: koteliansky (10), marian-fell (3), seltzer (5), dole (6). --verify --record 0 mismatched.
+
+- 2026-10-10T10:41-05:00: round 18: ellen-marriage (18), clara-bell (43), waring (4, one held_in). --verify --record 0 mismatched.
+
+- 2026-10-10T10:53-05:00: round 19: teixeira-de-mattos (59), serrano (6), mary-howitt (2), duff-gordon (2). --verify --record 0 mismatched.
+
+- 2026-10-10T11:00-05:00: round 20: bernard-miall (10), jessie-muir (4), wraxall (23), dowson (3). --verify --record 0 mismatched.
+
+- 2026-10-10T11:08-05:00: round 21: machen-casanova (1), ives (18), cj-hogarth (10), herman-bernstein (9), eleanor-marx-aveling (5), bain-jokai (12). --verify --record 0 mismatched.
+
+- 2026-10-10T11:18-05:00: round 22: safford (23), wister (14), allinson (9), worster (8), chater (7), de-leon (18). --verify --record 0 mismatched.
+
+- 2026-10-10T11:27-05:00: round 23: upton (35), colbron (5), isaac-goldberg (9), thomas-roscoe (8), durand (7), ct-brooks (6), lady-wallace (8), frewer (6), laura-ensor (6), ranous (2). --verify --record 0 mismatched.
+
+- 2026-10-10T11:31-05:00: round 24: eden-cedar-paul (10), bailey-saunders (8), mccabe (9), farquharson-sharp (7, one held_in), mary-morison (8), diana-white (1), robert-black (1), waller (7), rothwell (5). --verify --record 0 mismatched.
+
+- 2026-10-10T11:36-05:00: round 25: markham (7), thomasina-ross (7), hl-williams (6), beatrice-marshall (5), alys-hallard (4), bertha-ness (5), macdowall (5), gillies (5), christina-tyrrell (6), d-anvers (6), livingston (4), barrett-clark (5), lamond (6). --verify --record 0 mismatched.
+
+- 2026-10-10T11:44-05:00: round 26: archer-ibsen vol 12, marian-fell Plays, julius-west (1), george-calderon (2). --verify --record 0 mismatched.
+
+- 2026-10-10T11:50-05:00: round 27: johnes (12), elwes (6, one held_in), fleming (11), mcclure (1), ainslie (6), derbyshire (4), gilbert-cannan (4), lewisohn (4), van-laun (4), eugene-mason (4), eleanor-grove (1). --verify --record 0 mismatched.
+
+- 2026-10-10T11:55-05:00: round 28: mary-loyd (4), krehbiel (4), frances-hoey (4), dulcken (2), prestage (4), dorothy-bussy (4), dziewicki (4), swanwick (3), oxenford (2), monier-williams (2), lalor (4), walter-armstrong (4). --verify --record 0 mismatched.
+
+- 2026-10-10T12:01-05:00: round 29: ww-waters (3), edna-underwood (4), ellen-frothingham (3), boylan (2), holcroft (3), margaret-armour (3), florence-simmonds (3), guerney (3), benecke (3), lowe-porter (3), aldington (3), dora-schmitz (2), welby (3), emilie-jackson (3), metcalfe (3), wollstonecraft (3), bicknell (4). --verify --record 0 mismatched; benecke 8378 flagged (1944 reprint of a 1921 text).
+
+- 2026-10-10T12:14-05:00: round 30: chapman-coleman (5), soissons (4), mccormack (2), georgina-malcolm (4), denis-maccarthy (4), hannibal-lloyd (4), cournos (2), lily-wolffsohn (3), shea-troyer (3), pauline-townsend (3), thomson-weismann (4), ssa-stephenson (3), robson-michaud (3), painter (3), campion (3), friedlaender (3), aline-delano (3). --verify --record 0 mismatched. Flagged late reprints: campion 50015 (1937), friedlaender 15729 (1946). mccormack 25387/36640 pending (PDF only).
+
+- 2026-10-10T12:20-05:00: round 31: zilboorg (2), yarmolinsky (2), katharine-wylde (2), winifred-stephens (2), selver (2), rigg (2), hornblow (2), hanna-larsen (2), flitch (2), glazer (2), bunnett (2), constance-bache (2), hueffer (2), atkinson-lepper (2), cf-atkinson (2), joly (2), byington (2), bealby (2), hazlitt-huc (2), lockhart-diaz (2), crewe-jones (2), greenstreet (1), stirling-bastiat (2), delffs (2), egerton (1). --verify --record 0 mismatched. Flagged late reprint: flitch 14636 (Dover 1954). greenstreet 37157 pending (PDF only); egerton 8387 excluded (duplicate).
+
+- 2026-10-10T12:27-05:00: round 32: elise-lathrop (3), hammer-purgstall (2), nathaniel-greene (3), dunstan (3), de-quincey-walladmor (2), jane-chapman (3), bushby (3), babington (2), meldola (2), jp-richter (2), lord-stanley (3), ziegler (2), fitzwater-wray (2), wenckstern (2), vandam (2), untermann (2), strettell (2), lionel-strachey (2), storer (2), scheffauer (2), pinkerton (2), ongley (2), jessie-lemont (2), hollander (2), gertrude-hall (2), bithell (2), agnetti (2), borthwick (2), kamensky (2), bucknall (2). --verify --record 0 mismatched. Flagged: lord-stanley 38253 (1970 facsimile), storer 42148 (post-1934 printing).
+
+- 2026-10-10T12:36-05:00: round 33: laura-kendall (3), rs-townsend (2), silvanus-thompson (2), surendranath-tagore (2), rabindranath-tagore (2), arthur-symons (2), sumichrast (2), rose-strunsky (2), cw-stork (2), adler-stern (2), steegmann (2), schierbrand (2), schele-de-vere (2), elizabeth-sabine (2), ramsden (2), ts-perry (2), neumann (2), lady-moreton (2), jakowleff-montefiore (2), jepson (2), hjerleid (2), godman (2), selina-gaye (2), freese (2), duncan-forbes (2), fassett (2), de-kay (2), fanny-copeland (2), oliver-colt (2), burnham-maupin (2), hf-brownson (2), wa-bradley (2), bonney (1), se-boggs (2), drezmal (2), cowell (2). --verify --record 0 mismatched. Flagged: lady-moreton 29447 (1935 reprint). cw-stork 78363 is a 1930 first edition (PD 2026).
+
+- 2026-10-10T12:41-05:00: round 34: whiston (5), ganguli (4), mn-dutt (6), saintsbury-heptameron (5), viharilala-mitra (7), smollett-translations (5). --verify --record 0 mismatched. Large translations: Whiston's Josephus, Ganguli's Mahabharata, M. N. Dutt's Ramayana, Saintsbury's Heptameron, Mitra's Yoga-Vasishtha (facsimile flag), Smollett.
+
+- 2026-10-10T12:59-05:00: round 35: rasmus-anderson (8), archer-other (2), borrow-translations (31), adele-seltzer (5). --verify --record 0 mismatched. Gap audit: +24 titles on curtin (8), hapgood (6), wormeley (4), clara-bell (3), levy-nietzsche (2), payne (1); burton Kama Sutra excluded by judgment; adele-seltzer split from seltzer.
+
+- 2026-10-10T13:05-05:00: round 36: claud-field (4), edwin-bjorkman (1), ellie-schleussner (1), helen-zimmern (1), paul-cohn (2), horace-samuel (2). --verify --record 0 mismatched. Audit part 2: +8 titles on vizetelly, de-leon, dole, koteliansky, leland-heine, prestage, morris-magnusson, strindberg-english; 3 duplicates excluded; Gobineau left off by judgment.
+
+- 2026-10-10T13:22-05:00: round 37: gaston-de-vere (10), sutro (4), mg-lewis (5), ab-lindsay (4), rymer-jones (4), hayward-bichat (4), jr-forster (4), brett-feijoo (4), frederic-whyte (3), poulsson-zwilgmeyer (3), eg-martin (3), elizabeth-lee (3), w-johnston (3), houghton-translations (3), helena-frank (3), alexander-ewing (3), sa-eliot (3), frances-douglas (3), brose (1), mary-wilson (2), robert-willis (2), l-williams (2), alice-werner (2), herbert-trench (2), ft-cooper (10), ruth-davis (4), db-stewart (3). --verify --record 0 mismatched. Gap-fill: +4 bowring, +2 symonds. brose: Weyl and Freundlich to _pending (no plain text).
+
+- 2026-10-10T13:29-05:00: round 38: cr-murphy (3), brady-guzman (3), ajw-morrison (4), willcocks (2), ellen-waugh (2), mp-waterman (2), troilius (2), minna-smith (2), leon-simon (2), sedgwick-sand (2), fayette-robinson (2), jb-robertson (2), eg-rich (2), raahauge (2), otte (2), co-reilly (2), mp-nichols (2), w-montgomery (2), monkshood (2), chalmers-mitchell (2), katherine-miller (2). --verify --record 0 mismatched. Gap-fill: +1 strindberg-english (Lucky Pehr). Flags: About Zionism 1930 printing; Cosmos vol. 1 a 1997 facsimile of 1858.
+
+- 2026-10-10T13:40-05:00: round 39: ac-middleton (1), lg-meyer (2), ella-mcmahon (2), maver (2), ca-manning (1), maidment (2), krh-mackenzie (2), marjorie-laurie (2), mrs-john-lane (2), la-monte (2), kingsbury (2), ch-kerr (2), kenrick (2), cb-jordan (2), jelliffe (2), jv-huntington (1), john-howard (2), fa-holt (2), nk-hills (2), emily-hill (2), wf-harvey (2), robert-harrison (2), henry-harland (2), gorfinkle (1), home-gordon (2), mrs-gillespie (2), je-fries (2), fraprie (2), cecil-fairfax (2), george-eliot-translations (2), amelia-edwards (2), jd-duff (2), drillien (2), rb-douglas (2), fe-cox (2), mrs-l-burke (2), burette (2), neil-buchanan (2), eleanor-brooks (2), van-wyck-brooks (1), pf-bicknell (2), ernest-bell (2), baines (2), katharine-babbitt (2), ingeborg-andersen (2), mh-allies (2), abby-alger (2), ager (2), tk-abbott (2), h-parker (2), robert-parke (2), alexander-muir (2). --verify --record 0 mismatched. giles: Art of War extra files excluded. Dropped rw-lawson (no plain text). Flags: Silberer Dover 1971; Swedenborg 1988 printing; Mendoza 1970 facsimile.
+
+- 2026-10-10T13:53-05:00: round 40: singles-medieval-epic (27), singles-ideas (26), singles-literature (40). --verify --record 0 mismatched. New single-translation shelf form (_surname_by_slug per title). Flags: Hypnerotomachia 1969 facsimile; Underdogs post-1952 printing. _pending: Hilbert, Dedekind, Ramus.
+
+- 2026-10-10T14:21-05:00: round 41: singles-history-travel (44), singles-science-craft (39), singles-ideas-2 (41). --verify --record 0 mismatched. Flags: De Re Metallica Dover 1950; Durkheim 1964 impression. _pending: six PDF-only physics/maths books.
+
+- 2026-10-10T14:40-05:00: round 42: singles-continental-fiction (64), singles-verse-drama-tales (32). --verify --record 0 mismatched. No late printings found in the year check. Left for owners: Lagerlöf's From a Swedish Homestead (lagerlof, Lane D) and two Tudor Erasmus translations (erasmus shelf).
+
+- 2026-10-10T14:51-05:00: round 43: singles-fiction-2 (67), singles-plays-poetry-2 (39). --verify --record 0 mismatched. No late printings found. Left for owners: Spyri's New Year's Carol (spyri, Lane D). Excluded: The Jade Flute (translator unnamed).
+
+- 2026-10-10T14:52-05:00: round 44: singles-fiction-3 (68). --verify --record 0 mismatched. Three 1930 translations in _pending (Emil and the Detectives, Confessions of Zeno, Akutagawa) await the 1930 override. Hutton's Táin carries a 1948 presentation inscription (not a printing). Left for owners: Lagerlöf's Liliecrona's Home.
+
+- 2026-10-10T14:55-05:00: round 45: singles-history-2 (72). --verify --record 0 mismatched. No late printings found.
+
+- 2026-10-10T15:02-05:00: round 46: singles-ideas-3 (48), singles-science-2 (71). --verify --record 0 mismatched. No late printings found. _pending: Newton's Principia (Motte) and Menabrea/Lovelace, HTML-only at Gutenberg.
+
+- 2026-10-10T15:03-05:00: round 47: singles-arts-miscellany (51). --verify --record 0 mismatched. Flag: Rimsky-Korsakov's Principles of Orchestration keyed from the 1964 Dover reprint. _pending: Van Gogh letters (HTML only). Excluded: Buzz a Buzz (no plain text).
+
+- 2026-10-10T15:12-05:00: round 48: singles-fiction-4 (99). --verify --record 0 mismatched. Flag: Maurois's General Bramble keyed from a 1931 reprint. Excluded: Karl May's Travel Tales (COPYRIGHTED PG header), My First Battle (2009 translation). Left for owner: Lisbeth Longfrock (poulsson, Lane D).
+
+- 2026-10-10T15:15-05:00: round 49: singles-nonfiction-2 (84). --verify --record 0 mismatched. Facsimiles flagged: Rapin/Creech (ARS 1947), Gregorovius's Lucretia Borgia (Blom 1968), Tosi/Galliard (Reeves 1967). Excluded: Nicole/Cunningham (a 1950 translation) and Fernández Bolívar (modern).

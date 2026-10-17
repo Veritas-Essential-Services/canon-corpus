@@ -1,0 +1,66 @@
+{
+ "_about": "Mrs. Sherwood's moral tales for children: The Wishing Cap (undated in the text) and Soffrona and Her Cat Muff (1828). The Fairchild Family (PG 29725) is held: it is Mary E. Palgrave's abridgement and the catalogue gives Palgrave no dates. Shanty the Blacksmith (PG 12315) has no plain-text file at Gutenberg. Gutenberg catalogue: Sherwood 1775-1851. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Mary Martha Sherwood",
+ "_name_words": [
+  "sherwood"
+ ],
+ "_surname": [
+  "mary martha sherwood",
+  "mrs. sherwood"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "msherwood-wishing-cap": [
+   63295,
+   "The Wishing Cap",
+   {
+    "levels": [
+     {
+      "re": "THE WISHING-CAP\\.$"
+     }
+    ],
+    "start": "THE WISHING-CAP\\.$",
+    "front": true
+   }
+  ],
+  "msherwood-soffrona": [
+   58754,
+   "Soffrona and Her Cat Muff",
+   {
+    "levels": [
+     {
+      "re": "SOFFRONA AND HER CAT MUFF\\.?$|_?FINIS\\._?$",
+      "strip": "_"
+     }
+    ],
+    "start": "SOFFRONA AND HER CAT MUFF\\.?$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "msherwood-wishing-cap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary martha sherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msherwood-soffrona": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary martha sherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ },
+ "_held": {
+  "msherwood-fairchild-family": "PG 29725, The Fairchild Family: Mary E. Palgrave's abridgement; the catalogue gives Palgrave no dates, so it waits for Adam."
+ }
+}

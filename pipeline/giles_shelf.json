@@ -64,7 +64,8 @@
  },
  "_pending": {},
  "_excluded": {
-  "giles-own-works": "H. A. Giles's History of Chinese Literature and China and the Chinese: his own works."
+  "giles-own-works": "H. A. Giles's History of Chinese Literature and China and the Chinese: his own works.",
+  "art-of-war-other-files": "PG 17405 and 66706 are two more Gutenberg files of Lionel Giles's 1910 Art of War, already shelved here from PG 132: duplicates, not shelved (round 39)."
  },
  "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
  "_checks": {

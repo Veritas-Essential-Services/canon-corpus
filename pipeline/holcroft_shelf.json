@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: Thomas Holcroft (1745-1809): The Life of Baron Trenck (1788, 2 vols, ed. Henry Morley) and Beaumarchais's The Follies of a Day, or The Marriage of Figaro (1785). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_name_words": [
+  "thomas holcroft"
+ ],
+ "_surname": [
+  "thomas holcroft"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "hol-2668": [
+   2668,
+   "The Life and Adventures of Baron Trenck, Volume 1"
+  ],
+  "hol-2669": [
+   2669,
+   "The Life and Adventures of Baron Trenck, Volume 2"
+  ],
+  "hol-64953": [
+   64953,
+   "The Follies of a Day; or, The Marriage of Figaro"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "holcroft-beaumarchais-the-follies-of-a-day-or-the-marriage-of": {
+   "source": "hol-64953",
+   "of": "Beaumarchais",
+   "work": "The Follies of a Day; or, The Marriage of Figaro",
+   "translated": "1785-1788 (see the Gutenberg header)",
+   "translator": "Thomas Holcroft",
+   "scan_edition": "Project Gutenberg 64953 (clean text)"
+  },
+  "holcroft-trenck-life-vol-1": {
+   "source": "hol-2668",
+   "of": "Friedrich von der Trenck",
+   "work": "The Life and Adventures of Baron Trenck, Volume 1",
+   "translated": "1785-1788 (see the Gutenberg header)",
+   "translator": "Thomas Holcroft",
+   "scan_edition": "Project Gutenberg 2668 (clean text)"
+  },
+  "holcroft-trenck-life-vol-2": {
+   "source": "hol-2669",
+   "of": "Friedrich von der Trenck",
+   "work": "The Life and Adventures of Baron Trenck, Volume 2",
+   "translated": "1785-1788 (see the Gutenberg header)",
+   "translator": "Thomas Holcroft",
+   "scan_edition": "Project Gutenberg 2669 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "hol-2668": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas holcroft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Holcroft"
+  },
+  "hol-2669": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas holcroft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Holcroft"
+  },
+  "hol-64953": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas holcroft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Holcroft"
+  }
+ },
+ "_verified": {
+  "hol-2668": {
+   "pg": 2668,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Holcroft"
+  },
+  "hol-2669": {
+   "pg": 2669,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Holcroft"
+  },
+  "hol-64953": {
+   "pg": 64953,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Holcroft"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

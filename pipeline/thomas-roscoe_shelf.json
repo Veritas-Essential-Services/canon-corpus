@@ -1,0 +1,232 @@
+{
+ "_about": "TRANSLATOR SHELF: Thomas Roscoe (1791-1871): Lanzi's History of Painting in Italy (1828, 6 vols), Silvio Pellico's My Ten Years' Imprisonment, and Tales of Humour, Gallantry and Romance (with J. Y. Akerman, Cruikshank's illustrations). US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted.",
+ "_name_words": [
+  "thomas roscoe"
+ ],
+ "_surname": [
+  "thomas roscoe"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ros-2792": [
+   2792,
+   "My Ten Years' Imprisonment"
+  ],
+  "ros-34479": [
+   34479,
+   "The History of Painting in Italy, Vol. 1 (of 6)"
+  ],
+  "ros-34585": [
+   34585,
+   "The History of Painting in Italy, Vol. 2 (of 6)"
+  ],
+  "ros-34645": [
+   34645,
+   "The History of Painting in Italy, Vol. 3 (of 6)"
+  ],
+  "ros-38967": [
+   38967,
+   "The History of Painting in Italy, Vol. 4 (of 6)"
+  ],
+  "ros-39996": [
+   39996,
+   "The History of Painting in Italy, Vol. 5 (of 6)"
+  ],
+  "ros-41533": [
+   41533,
+   "The History of Painting in Italy, Vol. 6 (of 6)"
+  ],
+  "ros-44561": [
+   44561,
+   "Tales of Humour, Gallantry & Romance, Selected and Translated from the Italian"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "thomas-roscoe-lanzi-the-history-of-painting-in-italy-vol-1-o": {
+   "source": "ros-34479",
+   "of": "Luigi Lanzi",
+   "work": "The History of Painting in Italy, Vol. 1 (of 6)",
+   "translated": "1824-1853 (see the Gutenberg header)",
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Project Gutenberg 34479 (clean text)"
+  },
+  "thomas-roscoe-lanzi-the-history-of-painting-in-italy-vol-2-o": {
+   "source": "ros-34585",
+   "of": "Luigi Lanzi",
+   "work": "The History of Painting in Italy, Vol. 2 (of 6)",
+   "translated": "1824-1853 (see the Gutenberg header)",
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Project Gutenberg 34585 (clean text)"
+  },
+  "thomas-roscoe-lanzi-the-history-of-painting-in-italy-vol-3-o": {
+   "source": "ros-34645",
+   "of": "Luigi Lanzi",
+   "work": "The History of Painting in Italy, Vol. 3 (of 6)",
+   "translated": "1824-1853 (see the Gutenberg header)",
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Project Gutenberg 34645 (clean text)"
+  },
+  "thomas-roscoe-lanzi-the-history-of-painting-in-italy-vol-4-o": {
+   "source": "ros-38967",
+   "of": "Luigi Lanzi",
+   "work": "The History of Painting in Italy, Vol. 4 (of 6)",
+   "translated": "1824-1853 (see the Gutenberg header)",
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Project Gutenberg 38967 (clean text)"
+  },
+  "thomas-roscoe-lanzi-the-history-of-painting-in-italy-vol-5-o": {
+   "source": "ros-39996",
+   "of": "Luigi Lanzi",
+   "work": "The History of Painting in Italy, Vol. 5 (of 6)",
+   "translated": "1824-1853 (see the Gutenberg header)",
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Project Gutenberg 39996 (clean text)"
+  },
+  "thomas-roscoe-lanzi-the-history-of-painting-in-italy-vol-6-o": {
+   "source": "ros-41533",
+   "of": "Luigi Lanzi",
+   "work": "The History of Painting in Italy, Vol. 6 (of 6)",
+   "translated": "1824-1853 (see the Gutenberg header)",
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Project Gutenberg 41533 (clean text)"
+  },
+  "thomas-roscoe-pellico-my-ten-years-imprisonment": {
+   "source": "ros-2792",
+   "of": "Silvio Pellico",
+   "work": "My Ten Years' Imprisonment",
+   "translated": "1824-1853 (see the Gutenberg header)",
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Project Gutenberg 2792 (clean text)"
+  },
+  "thomas-roscoe-tales-of-humour-gallantry-romance": {
+   "source": "ros-44561",
+   "of": "Various European authors (selected; with J. Y. Akerman)",
+   "work": "Tales of Humour, Gallantry & Romance, Selected and Translated from the Italian",
+   "translated": "1824-1853 (see the Gutenberg header)",
+   "translator": "Thomas Roscoe (with John Yonge Akerman)",
+   "scan_edition": "Project Gutenberg 44561 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ros-2792": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Roscoe"
+  },
+  "ros-34479": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Roscoe"
+  },
+  "ros-34585": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Roscoe"
+  },
+  "ros-34645": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Roscoe"
+  },
+  "ros-38967": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Roscoe"
+  },
+  "ros-39996": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Roscoe"
+  },
+  "ros-41533": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Roscoe"
+  },
+  "ros-44561": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Roscoe; John Yonge Akerman"
+  }
+ },
+ "_verified": {
+  "ros-2792": {
+   "pg": 2792,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Roscoe"
+  },
+  "ros-34479": {
+   "pg": 34479,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Roscoe"
+  },
+  "ros-34585": {
+   "pg": 34585,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Roscoe"
+  },
+  "ros-34645": {
+   "pg": 34645,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Roscoe"
+  },
+  "ros-38967": {
+   "pg": 38967,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Roscoe"
+  },
+  "ros-39996": {
+   "pg": 39996,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Roscoe"
+  },
+  "ros-41533": {
+   "pg": 41533,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Roscoe"
+  },
+  "ros-44561": {
+   "pg": 44561,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Roscoe"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

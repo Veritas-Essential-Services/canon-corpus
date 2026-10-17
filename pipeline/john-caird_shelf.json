@@ -1,0 +1,144 @@
+{
+ "_about": "Public-domain John Caird (1820-1898, Church of Scotland, Principal of Glasgow University) for the Word Hoard: 7 books from Internet Archive scans, 1856-1899: Religion in Common Life (the Crathie sermon, 1856 American printing), Sermons (1858), An Introduction to the Philosophy of Religion (1880), Mind and Matter (1888), University Sermons (1898) and The Fundamental Ideas of Christianity (Gifford Lectures, two volumes, 1899, posthumous, with a memoir by his brother Edward Caird). Raw OCR. Added 2026-10-10 by lane A, round 21 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "caird"
+ ],
+ "_surname": [
+  "john caird",
+  "caird, john",
+  "rev. john caird",
+  "john caird, d.d.",
+  "john caird, d.d., ll.d.",
+  "principal caird"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "caird-religion-common-life": [
+   "religionincommon00cair",
+   "Religion in Common Life, a sermon preached at Crathie Church, 14 October 1855 (Philadelphia: Henry Longstreth, 1856)"
+  ],
+  "caird-sermons": [
+   "sermons0000cair",
+   "Sermons (Edinburgh and London: William Blackwood, MDCCCLVIII)"
+  ],
+  "caird-philosophy-of-religion": [
+   "introductiontoph00cair",
+   "An Introduction to the Philosophy of Religion, the Croall Lecture 1878-79 (Glasgow: James Maclehose; London: Macmillan, MDCCCLXXX)"
+  ],
+  "caird-mind-and-matter": [
+   "b21938933",
+   "Mind and Matter, a sermon before the British Medical Association, 7 August 1888 (Glasgow: James Maclehose, 1888)"
+  ],
+  "caird-university-sermons": [
+   "universitysermon00cair",
+   "University Sermons, preached before the University of Glasgow 1873-1898 (Glasgow: James MacLehose, 1898)"
+  ],
+  "caird-fundamental-ideas-1": [
+   "fundamentalideas0001cair",
+   "The Fundamental Ideas of Christianity, vol. 1, Gifford Lectures, with a memoir by Edward Caird (Glasgow: MacLehose; London and New York: Macmillan, MDCCCXCIX)"
+  ],
+  "caird-fundamental-ideas-2": [
+   "fundamentalideas0002cair",
+   "The Fundamental Ideas of Christianity, vol. 2, Gifford Lectures (Glasgow: MacLehose; London and New York: Macmillan, MDCCCXCIX)"
+  ]
+ },
+ "_alternates": {
+  "caird-academic": "University Addresses (1898; universityaddres00cairiala) and The Unity of the Sciences (1874; unitysciencesal00cairgoog): academic addresses",
+  "caird-sermons-copies": "Sermons: other 1858 copies, Carter New York issues and Blackwood reprints 1865-1885; Aspects of Life (Allenson, undated retitling)",
+  "caird-essays": "Essays for Sunday Reading (1906), introduced by Donald Macleod: posthumous compilation",
+  "caird-anthology": "The World's Great Sermons vol. 6 (Gutenberg 44439): one sermon in a multi-author anthology"
+ },
+ "_excluded": {
+  "caird-spinoza": "Spinoza (1888): philosophy",
+  "caird-multi": "Oriental Religions and Cobden Club essays: multi-author",
+  "caird-namesakes": "Edward Caird, Mona Caird and other John Cairds"
+ },
+ "_identity_checked": {
+  "caird-religion-common-life": {
+   "author": "title page read: 'the Rev. John Caird, M.A., Minister of Errol' (OCR 'JOHN CAIRO'), Philadelphia: Henry Longstreth, 1856"
+  }
+ },
+ "_rights_checked": {
+  "caird-religion-common-life": "title page read: Philadelphia: Henry Longstreth, 1856; author died 1898"
+ },
+ "_pending": {},
+ "_checks": {
+  "caird-religion-common-life": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "unchecked: catalogue not reachable ('result')",
+   "rights_override": "title page read: Philadelphia: Henry Longstreth, 1856; author died 1898"
+  },
+  "caird-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john caird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "caird-philosophy-of-religion": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john caird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "caird-mind-and-matter": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john caird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "caird-university-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john caird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "caird-fundamental-ideas-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john caird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "caird-fundamental-ideas-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john caird",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

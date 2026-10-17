@@ -22,7 +22,8 @@
  },
  "_excluded": {
   "genuineworksofhi02hippuoft": "empty text layer",
-  "Jones and Withington, Loeb (1923-31)": "held in part from Perseus: 6 texts (hippocrates-perseus-jones-*). Greek facing; pending"
+  "Jones and Withington, Loeb (1923-31)": "held in part from Perseus: 6 texts (hippocrates-perseus-jones-*). Greek facing; pending",
+  "Eighteenth-century English Hippocrates: Upon Air, Water and Situation (1752); the Epidemics (1780); the Prognostics and Prorrhetics (1788)": "PD; the ECCO scans (bim_eighteenth-century_hippocrates-upon-air-wa_hippocrates-_1752, bim_eighteenth-century_epidemiorum-libri-engli_hippocrates_1780, bim_eighteenth-century_the-prognostics-and-pror_hippocrates_1788) read 0.740, 0.744 and 0.627; refused for OCR quality 2026-10-10"
  },
  "perseus": {
   "hippocrates-perseus-jones-airs-waters-places": [

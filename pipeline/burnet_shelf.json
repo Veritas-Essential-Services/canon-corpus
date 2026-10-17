@@ -1,0 +1,29 @@
+{
+ "_about": "John Burnet (1863-1928), Professor of Greek at St Andrews. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Early Greek Philosophy, clean Gutenberg. The presocratics shelf passed this book over as a study, not a translation; it is taken here as scholarship. No uids minted.",
+ "_name_words": [
+  "burnet"
+ ],
+ "_surname": [
+  "john burnet",
+  "burnet, john"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "burnet-early-greek-philosophy": [
+   67097,
+   "Early Greek Philosophy"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "burnet-early-greek-philosophy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john burnet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

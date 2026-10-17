@@ -1,0 +1,1716 @@
+{
+ "_about": "SINGLE-TRANSLATION SHELF: one-off translations gathered from the earlier stretch of the list: art and music (Leonardo's Treatise on Painting, Rigaud, 1802; Bosanquet's translation of Hegel's Introduction to the Philosophy of Fine Art, 1886; Dürer's Of the Just Shaping of Letters; Forkel's Bach (Terry, 1920); Rimsky-Korsakov's Principles of Orchestration; Rolland's Handel; Rosa Newmarch's Tchaikovsky; the recollections of Gounod and Massenet; Duprè; Rodin; Reber's History of Ancient Art; Lalanne on etching; bookbinding and leather; the violoncello; singing), letters and memoir (Thomas Platter's autobiography, the Countess Krasinska's journal, Juliette Drouet's letters to Hugo, Princess Louise of Belgium), King Alfred's Old English Soliloquies of Augustine, R. W. Church's Dante with F. J. Church's De Monarchia, the Dhammapada (Woodward), Gandhi's Guide to Health, Merezhkovsky's Flaubert, Rydberg's Magic of the Middle Ages, Heeren's Ancient History, Renan's English conferences, Pfungst's Clever Hans, Leduc, Taine's Pyrenees, Old Paris, guilds, acrobats, vagabonds (Luther's Liber Vagatorum), French cookery, Vesuvius in 1872, and a few First World War and Weimar documents. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 47); Adam may veto. No uids minted.",
+ "_name_words": [
+  "a. eaglefield hull",
+  "a. p. morton",
+  "a. rama iyer",
+  "arthur eaglefield hull",
+  "arthur n. holcombe",
+  "arthur norman holcombe",
+  "august hjalmar edgren",
+  "bernard bosanquet",
+  "carl conrad eckhardt",
+  "carl leo rahn",
+  "charles sanford terry",
+  "clara erskine clement waters",
+  "d. a. talboys",
+  "david alphonso talboys",
+  "dorothy terry",
+  "e. m. peruzzi",
+  "edward agate",
+  "edwyn robert bevan",
+  "eliza leslie",
+  "elizabeth anne mccaul finn",
+  "emily j. robinson",
+  "enrique gil",
+  "f. j. church",
+  "f. l. woodward",
+  "frank lee woodward",
+  "frederic sherman",
+  "frederick john church",
+  "frederick lawton",
+  "g. a. mounsey",
+  "george augustus mounsey",
+  "grace hall",
+  "h. villiers barnett",
+  "henry lee hargrove",
+  "isobella s. e. stigand",
+  "j. f. rigaud",
+  "jean-jacques réthoré",
+  "jesse p. battershall",
+  "jesse park battershall",
+  "john camden hotten",
+  "john francis rigaud",
+  "john safford fiske",
+  "joseph thacher clarke",
+  "kasimir dziekonska",
+  "king of england alfred",
+  "layton b. register",
+  "layton bartol register",
+  "maria sermolino",
+  "maude m. c. ffoulkes",
+  "maude nathan",
+  "mrs. frederic sherman",
+  "oakley williams",
+  "r. t. nichol",
+  "rama iyer",
+  "robert mallet",
+  "rosa newmarch",
+  "s. k. star",
+  "s. r. koehler",
+  "sylvester rosa koehler",
+  "theodora davidson",
+  "thomas e. maw",
+  "thomas edward maw",
+  "w. h. davenport adams",
+  "w. hely hutchinson",
+  "wilhelm johann eggers",
+  "william bennett munro",
+  "william deane butcher",
+  "william henry davenport adams",
+  "william henry furness"
+ ],
+ "_surname": [
+  "a. eaglefield hull",
+  "a. p. morton",
+  "a. rama iyer",
+  "arthur eaglefield hull",
+  "arthur n. holcombe",
+  "arthur norman holcombe",
+  "august hjalmar edgren",
+  "bernard bosanquet",
+  "carl conrad eckhardt",
+  "carl leo rahn",
+  "charles sanford terry",
+  "clara erskine clement waters",
+  "d. a. talboys",
+  "david alphonso talboys",
+  "dorothy terry",
+  "e. m. peruzzi",
+  "edward agate",
+  "edwyn robert bevan",
+  "eliza leslie",
+  "elizabeth anne mccaul finn",
+  "emily j. robinson",
+  "enrique gil",
+  "f. j. church",
+  "f. l. woodward",
+  "frank lee woodward",
+  "frederic sherman",
+  "frederick john church",
+  "frederick lawton",
+  "g. a. mounsey",
+  "george augustus mounsey",
+  "grace hall",
+  "h. villiers barnett",
+  "henry lee hargrove",
+  "isobella s. e. stigand",
+  "j. f. rigaud",
+  "jean-jacques réthoré",
+  "jesse p. battershall",
+  "jesse park battershall",
+  "john camden hotten",
+  "john francis rigaud",
+  "john safford fiske",
+  "joseph thacher clarke",
+  "kasimir dziekonska",
+  "king of england alfred",
+  "layton b. register",
+  "layton bartol register",
+  "maria sermolino",
+  "maude m. c. ffoulkes",
+  "maude nathan",
+  "mrs. frederic sherman",
+  "oakley williams",
+  "r. t. nichol",
+  "rama iyer",
+  "robert mallet",
+  "rosa newmarch",
+  "s. k. star",
+  "s. r. koehler",
+  "sylvester rosa koehler",
+  "theodora davidson",
+  "thomas e. maw",
+  "thomas edward maw",
+  "w. h. davenport adams",
+  "w. hely hutchinson",
+  "wilhelm johann eggers",
+  "william bennett munro",
+  "william deane butcher",
+  "william henry davenport adams",
+  "william henry furness"
+ ],
+ "_surname_by_slug": {
+  "sam-33483": [
+   "mallet",
+   "robert mallet"
+  ],
+  "sam-33700": [
+   "carl conrad eckhardt",
+   "eckhardt"
+  ],
+  "sam-33751": [
+   "koehler",
+   "s. r. koehler",
+   "sylvester rosa koehler"
+  ],
+  "sam-33860": [
+   "elizabeth anne mccaul finn",
+   "finn"
+  ],
+  "sam-33862": [
+   "butcher",
+   "william deane butcher"
+  ],
+  "sam-33896": [
+   "church",
+   "f. j. church",
+   "frederick john church"
+  ],
+  "sam-33900": [
+   "agate",
+   "edward agate"
+  ],
+  "sam-33933": [
+   "g. a. mounsey",
+   "george augustus mounsey",
+   "mounsey"
+  ],
+  "sam-33936": [
+   "carl leo rahn",
+   "rahn"
+  ],
+  "sam-34837": [
+   "eliza leslie",
+   "leslie"
+  ],
+  "sam-35041": [
+   "charles sanford terry",
+   "terry"
+  ],
+  "sam-35185": [
+   "f. l. woodward",
+   "frank lee woodward",
+   "woodward"
+  ],
+  "sam-35639": [
+   "emily j. robinson",
+   "robinson"
+  ],
+  "sam-35812": [
+   "hutchinson",
+   "w. hely hutchinson"
+  ],
+  "sam-36660": [
+   "dziekonska",
+   "kasimir dziekonska"
+  ],
+  "sam-36728": [
+   "barnett",
+   "h. villiers barnett"
+  ],
+  "sam-37103": [
+   "nichol",
+   "r. t. nichol"
+  ],
+  "sam-38086": [
+   "enrique gil",
+   "gil",
+   "layton b. register",
+   "layton bartol register",
+   "register"
+  ],
+  "sam-39318": [
+   "maw",
+   "thomas e. maw",
+   "thomas edward maw"
+  ],
+  "sam-39563": [
+   "arthur n. holcombe",
+   "arthur norman holcombe",
+   "holcombe",
+   "munro",
+   "william bennett munro"
+  ],
+  "sam-39588": [
+   "oakley williams",
+   "williams"
+  ],
+  "sam-39608": [
+   "august hjalmar edgren",
+   "edgren"
+  ],
+  "sam-39671": [
+   "a. eaglefield hull",
+   "arthur eaglefield hull",
+   "hull"
+  ],
+  "sam-39747": [
+   "d. a. talboys",
+   "david alphonso talboys",
+   "talboys"
+  ],
+  "sam-40286": [
+   "maude nathan",
+   "nathan"
+  ],
+  "sam-40306": [
+   "frederick lawton",
+   "lawton"
+  ],
+  "sam-40341": [
+   "alfred",
+   "hargrove",
+   "henry lee hargrove",
+   "king of england alfred"
+  ],
+  "sam-40373": [
+   "a. rama iyer",
+   "rama iyer"
+  ],
+  "sam-40618": [
+   "grace hall",
+   "hall"
+  ],
+  "sam-40870": [
+   "e. m. peruzzi",
+   "peruzzi"
+  ],
+  "sam-42080": [
+   "furness",
+   "william henry furness"
+  ],
+  "sam-42082": [
+   "clarke",
+   "joseph thacher clarke"
+  ],
+  "sam-42629": [
+   "isobella s. e. stigand",
+   "stigand"
+  ],
+  "sam-42865": [
+   "clara erskine clement waters",
+   "waters"
+  ],
+  "sam-42879": [
+   "jean-jacques réthoré",
+   "réthoré"
+  ],
+  "sam-43086": [
+   "ffoulkes",
+   "maude m. c. ffoulkes"
+  ],
+  "sam-43327": [
+   "s. k. star",
+   "star"
+  ],
+  "sam-43396": [
+   "adams",
+   "w. h. davenport adams",
+   "william henry davenport adams"
+  ],
+  "sam-44034": [
+   "davidson",
+   "theodora davidson"
+  ],
+  "sam-44048": [
+   "battershall",
+   "jesse p. battershall",
+   "jesse park battershall"
+  ],
+  "sam-44135": [
+   "eggers",
+   "wilhelm johann eggers"
+  ],
+  "sam-44429": [
+   "fiske",
+   "john safford fiske"
+  ],
+  "sam-45259": [
+   "newmarch",
+   "rosa newmarch"
+  ],
+  "sam-45348": [
+   "frederic sherman",
+   "mrs. frederic sherman",
+   "sherman"
+  ],
+  "sam-45425": [
+   "dorothy terry",
+   "terry"
+  ],
+  "sam-45587": [
+   "a. p. morton",
+   "morton"
+  ],
+  "sam-46192": [
+   "bevan",
+   "edwyn robert bevan"
+  ],
+  "sam-46287": [
+   "hotten",
+   "john camden hotten"
+  ],
+  "sam-46330": [
+   "bernard bosanquet",
+   "bosanquet"
+  ],
+  "sam-46567": [
+   "maria sermolino",
+   "sermolino"
+  ],
+  "sam-46915": [
+   "j. f. rigaud",
+   "john francis rigaud",
+   "rigaud"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "sam-33483": [
+   33483,
+   "The Eruption of Vesuvius in 1872"
+  ],
+  "sam-33700": [
+   33700,
+   "The Modern Woman's Rights Movement: A Historical Survey"
+  ],
+  "sam-33751": [
+   33751,
+   "A Treatise on Etching"
+  ],
+  "sam-33860": [
+   33860,
+   "The Autobiography of Thomas Platter, a schoolmaster of the sixteenth century."
+  ],
+  "sam-33862": [
+   33862,
+   "The Mechanism of Life"
+  ],
+  "sam-33896": [
+   33896,
+   "Dante. An essay. To which is added a translation of De Monarchia."
+  ],
+  "sam-33900": [
+   33900,
+   "Principles of Orchestration, with Musical Examples Drawn from His Own Works"
+  ],
+  "sam-33933": [
+   33933,
+   "The Life-Work of Flaubert, from the Russian of Merejowski"
+  ],
+  "sam-33936": [
+   33936,
+   "Clever Hans (The Horse of Mr. Von Osten) A contribution to experimental animal and human psychology"
+  ],
+  "sam-34837": [
+   34837,
+   "Domestic French Cookery, 4th ed."
+  ],
+  "sam-35041": [
+   35041,
+   "Johann Sebastian Bach: His Life, Art, and Work"
+  ],
+  "sam-35185": [
+   35185,
+   "The Buddha's Path of Virtue: A Translation of the Dhammapada"
+  ],
+  "sam-35639": [
+   35639,
+   "Clinical Investigations on Squint"
+  ],
+  "sam-35812": [
+   35812,
+   "Charles Gounod Autobiographical Reminiscences with Family Letters and Notes on Music"
+  ],
+  "sam-36660": [
+   36660,
+   "The Journal of Countess Françoise Krasinska, Great Grandmother of Victor Emmanuel"
+  ],
+  "sam-36728": [
+   36728,
+   "My Recollections"
+  ],
+  "sam-37103": [
+   37103,
+   "Of the Just Shaping of Letters"
+  ],
+  "sam-38086": [
+   38086,
+   "The Social Evolution of the Argentine Republic"
+  ],
+  "sam-39318": [
+   39318,
+   "Practical Bookbinding"
+  ],
+  "sam-39563": [
+   39563,
+   "And the Kaiser abdicates: The German Revolution November 1918-August 1919"
+  ],
+  "sam-39588": [
+   39588,
+   "The Human Slaughter-House: Scenes from the War that is Sure to Come"
+  ],
+  "sam-39608": [
+   39608,
+   "The Magic of the Middle Ages"
+  ],
+  "sam-39671": [
+   39671,
+   "Handel"
+  ],
+  "sam-39747": [
+   39747,
+   "A Manual of Ancient History Particularly with Regard to the Constitutions, the Commerce, and the Colonies, of the States of Antiquity"
+  ],
+  "sam-40286": [
+   40286,
+   "The Decoration of Leather From the French of Georges de Récy"
+  ],
+  "sam-40306": [
+   40306,
+   "Nooks & Corners of Old Paris"
+  ],
+  "sam-40341": [
+   40341,
+   "King Alfred's Old English Version of St. Augustine's Soliloquies Turned into Modern English"
+  ],
+  "sam-40373": [
+   40373,
+   "A Guide to Health"
+  ],
+  "sam-40618": [
+   40618,
+   "The surprises of life"
+  ],
+  "sam-40870": [
+   40870,
+   "Thoughts on Art and Autobiographical Memoirs of Giovanni Duprè"
+  ],
+  "sam-42080": [
+   42080,
+   "The Voice in Singing"
+  ],
+  "sam-42082": [
+   42082,
+   "History of Ancient Art"
+  ],
+  "sam-42629": [
+   42629,
+   "The Violoncello and Its History"
+  ],
+  "sam-42865": [
+   42865,
+   "English Conferences of Ernest Renan: Rome and Christianity. Marcus Aurelius"
+  ],
+  "sam-42879": [
+   42879,
+   "The Oriental Republic of Uruguay at the World's Columbian Exhibition, Chicago, 1893"
+  ],
+  "sam-43086": [
+   43086,
+   "My Own Affairs"
+  ],
+  "sam-43327": [
+   43327,
+   "Rodin: The Man and His Art, with Leaves from His Note-book"
+  ],
+  "sam-43396": [
+   43396,
+   "The Desert World"
+  ],
+  "sam-44034": [
+   44034,
+   "Juliette Drouet's Love-Letters to Victor Hugo Edited with a Biography of Juliette Drouet"
+  ],
+  "sam-44048": [
+   44048,
+   "Legal Chemistry A Guide to the Detection of Poisons, Examination of Tea, Stains, Etc., as Applied to Chemical Jurisprudence"
+  ],
+  "sam-44135": [
+   44135,
+   "Albert Ballin"
+  ],
+  "sam-44429": [
+   44429,
+   "A Tour Through the Pyrenees"
+  ],
+  "sam-45259": [
+   45259,
+   "The Life & Letters of Peter Ilich Tchaikovsky"
+  ],
+  "sam-45348": [
+   45348,
+   "French Dishes for American Tables"
+  ],
+  "sam-45425": [
+   45425,
+   "Guilds in the Middle Ages"
+  ],
+  "sam-45587": [
+   45587,
+   "Acrobats and Mountebanks"
+  ],
+  "sam-46192": [
+   46192,
+   "The Pan-German Programme The Petition of the Six Associations and the Manifesto of the Intellectuals"
+  ],
+  "sam-46287": [
+   46287,
+   "The Book of Vagabonds and Beggars, with a Vocabulary of Their Language"
+  ],
+  "sam-46330": [
+   46330,
+   "The Introduction to Hegel's Philosophy of Fine Arts Translated from the German with Notes and Prefatory Essay"
+  ],
+  "sam-46567": [
+   46567,
+   "The flying spy"
+  ],
+  "sam-46915": [
+   46915,
+   "A Treatise on Painting"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "singles-arts-miscellany-adam-practical-bookbinding": {
+   "source": "sam-39318",
+   "of": "Paul Adam",
+   "work": "Practical Bookbinding",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Thomas E. Maw",
+   "scan_edition": "Project Gutenberg 39318 (clean text)"
+  },
+  "singles-arts-miscellany-anon-the-book-of-vagabonds-and-beggars-with-a": {
+   "source": "sam-46287",
+   "of": "anonymous (the Liber Vagatorum, with Martin Luther's preface)",
+   "work": "The Book of Vagabonds and Beggars, with a Vocabulary of Their Language",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Camden Hotten",
+   "scan_edition": "Project Gutenberg 46287 (clean text)"
+  },
+  "singles-arts-miscellany-anon-the-buddha-s-path-of-virtue": {
+   "source": "sam-35185",
+   "of": "anonymous (the Dhammapada)",
+   "work": "The Buddha's Path of Virtue: A Translation of the Dhammapada",
+   "translated": "(see the Gutenberg header)",
+   "translator": "F. L. Woodward",
+   "scan_edition": "Project Gutenberg 35185 (clean text)"
+  },
+  "singles-arts-miscellany-anon-the-pan-german-programme-the-petition-of": {
+   "source": "sam-46192",
+   "of": "six German industrial and agrarian associations (the 1915 petition)",
+   "work": "The Pan-German Programme The Petition of the Six Associations and the Manifesto of the Intellectuals",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edwyn Robert Bevan",
+   "scan_edition": "Project Gutenberg 46192 (clean text)"
+  },
+  "singles-arts-miscellany-augustine-king-alfred-s-old-english-version-of-st": {
+   "source": "sam-40341",
+   "of": "of Hippo Augustine",
+   "work": "King Alfred's Old English Version of St. Augustine's Soliloquies Turned into Modern English",
+   "translated": "(see the Gutenberg header)",
+   "translator": "King Alfred (into Old English) and Henry Lee Hargrove (into modern English)",
+   "scan_edition": "Project Gutenberg 40341 (clean text)"
+  },
+  "singles-arts-miscellany-barue-domestic-french-cookery-4th-ed": {
+   "source": "sam-34837",
+   "of": "Sulpice Barué",
+   "work": "Domestic French Cookery, 4th ed.",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Eliza Leslie",
+   "scan_edition": "Project Gutenberg 34837 (clean text)"
+  },
+  "singles-arts-miscellany-bouton-and-the-kaiser-abdicates": {
+   "source": "sam-39563",
+   "of": "S. Miles Bouton",
+   "work": "And the Kaiser abdicates: The German Revolution November 1918-August 1919",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Arthur N. Holcombe and William Bennett Munro",
+   "scan_edition": "Project Gutenberg 39563 (clean text)"
+  },
+  "singles-arts-miscellany-cain-nooks-corners-of-old-paris": {
+   "source": "sam-40306",
+   "of": "Georges Cain",
+   "work": "Nooks & Corners of Old Paris",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Frederick Lawton",
+   "scan_edition": "Project Gutenberg 40306 (clean text)"
+  },
+  "singles-arts-miscellany-carlo-the-flying-spy": {
+   "source": "sam-46567",
+   "of": "Camillo De Carlo",
+   "work": "The flying spy",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Maria Sermolino",
+   "scan_edition": "Project Gutenberg 46567 (clean text)"
+  },
+  "singles-arts-miscellany-caron-french-dishes-for-american-tables": {
+   "source": "sam-45348",
+   "of": "Pierre Caron",
+   "work": "French Dishes for American Tables",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Frederic Sherman",
+   "scan_edition": "Project Gutenberg 45348 (clean text)"
+  },
+  "singles-arts-miscellany-chaikovskii-the-life-letters-of-peter-ilich-tchaikov": {
+   "source": "sam-45259",
+   "of": "Modest Chaikovskii",
+   "work": "The Life & Letters of Peter Ilich Tchaikovsky",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Rosa Newmarch",
+   "scan_edition": "Project Gutenberg 45259 (clean text)"
+  },
+  "singles-arts-miscellany-church-dante-an-essay-to-which-is-added-a-trans": {
+   "source": "sam-33896",
+   "of": "Dante Alighieri (De Monarchia), with an essay by R. W. Church",
+   "work": "Dante. An essay. To which is added a translation of De Monarchia.",
+   "translated": "(see the Gutenberg header)",
+   "translator": "F. J. Church",
+   "scan_edition": "Project Gutenberg 33896 (clean text)",
+   "note": "R. W. Church's Oxford Movement is on Lane A's r-w-church shelf; this volume is his Dante essay with his son F. J. Church's translation of De Monarchia, shelved by translator. Gutenberg's transcriber's note mentions Singleton's 1973 edition only as a reference."
+  },
+  "singles-arts-miscellany-cladel-rodin": {
+   "source": "sam-43327",
+   "of": "Judith Cladel",
+   "work": "Rodin: The Man and His Art, with Leaves from His Note-book",
+   "translated": "(see the Gutenberg header)",
+   "translator": "S. K. Star",
+   "scan_edition": "Project Gutenberg 43327 (clean text)"
+  },
+  "singles-arts-miscellany-clemenceau-the-surprises-of-life": {
+   "source": "sam-40618",
+   "of": "Georges Clemenceau",
+   "work": "The surprises of life",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Grace Hall",
+   "scan_edition": "Project Gutenberg 40618 (clean text)"
+  },
+  "singles-arts-miscellany-drouet-juliette-drouet-s-love-letters-to-victor": {
+   "source": "sam-44034",
+   "of": "Juliette Drouet and Louis Guimbaud",
+   "work": "Juliette Drouet's Love-Letters to Victor Hugo Edited with a Biography of Juliette Drouet",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Theodora Davidson",
+   "scan_edition": "Project Gutenberg 44034 (clean text)"
+  },
+  "singles-arts-miscellany-dupre-thoughts-on-art-and-autobiographical-mem": {
+   "source": "sam-40870",
+   "of": "Giovanni Duprè",
+   "work": "Thoughts on Art and Autobiographical Memoirs of Giovanni Duprè",
+   "translated": "(see the Gutenberg header)",
+   "translator": "E. M. Peruzzi",
+   "scan_edition": "Project Gutenberg 40870 (clean text)"
+  },
+  "singles-arts-miscellany-durer-of-the-just-shaping-of-letters": {
+   "source": "sam-37103",
+   "of": "Albrecht Dürer",
+   "work": "Of the Just Shaping of Letters",
+   "translated": "(see the Gutenberg header)",
+   "translator": "R. T. Nichol",
+   "scan_edition": "Project Gutenberg 37103 (clean text)"
+  },
+  "singles-arts-miscellany-forkel-johann-sebastian-bach": {
+   "source": "sam-35041",
+   "of": "Johann Nikolaus Forkel",
+   "work": "Johann Sebastian Bach: His Life, Art, and Work",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles Sanford Terry",
+   "scan_edition": "Project Gutenberg 35041 (clean text)"
+  },
+  "singles-arts-miscellany-gandhi-a-guide-to-health": {
+   "source": "sam-40373",
+   "of": "Mahatma Gandhi",
+   "work": "A Guide to Health",
+   "translated": "(see the Gutenberg header)",
+   "translator": "A. Rama Iyer",
+   "scan_edition": "Project Gutenberg 40373 (clean text)"
+  },
+  "singles-arts-miscellany-gounod-charles-gounod-autobiographical-reminisc": {
+   "source": "sam-35812",
+   "of": "Charles Gounod",
+   "work": "Charles Gounod Autobiographical Reminiscences with Family Letters and Notes on Music",
+   "translated": "(see the Gutenberg header)",
+   "translator": "W. Hely Hutchinson",
+   "scan_edition": "Project Gutenberg 35812 (clean text)"
+  },
+  "singles-arts-miscellany-heeren-a-manual-of-ancient-history-particularly": {
+   "source": "sam-39747",
+   "of": "A. H. L. Heeren",
+   "work": "A Manual of Ancient History Particularly with Regard to the Constitutions, the Commerce, and the Colonies, of the States of Antiquity",
+   "translated": "(see the Gutenberg header)",
+   "translator": "D. A. Talboys",
+   "scan_edition": "Project Gutenberg 39747 (clean text)"
+  },
+  "singles-arts-miscellany-hegel-the-introduction-to-hegel-s-philosophy-o": {
+   "source": "sam-46330",
+   "of": "Georg Wilhelm Friedrich Hegel",
+   "work": "The Introduction to Hegel's Philosophy of Fine Arts Translated from the German with Notes and Prefatory Essay",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Bernard Bosanquet",
+   "scan_edition": "Project Gutenberg 46330 (clean text)",
+   "note": "The hegel shelf holds Dyde's Philosophy of Right only; this is Bosanquet's translation of the Introduction to the Aesthetics."
+  },
+  "singles-arts-miscellany-huldermann-albert-ballin": {
+   "source": "sam-44135",
+   "of": "Bernhard Huldermann",
+   "work": "Albert Ballin",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Wilhelm Johann Eggers",
+   "scan_edition": "Project Gutenberg 44135 (clean text)"
+  },
+  "singles-arts-miscellany-lalanne-a-treatise-on-etching": {
+   "source": "sam-33751",
+   "of": "Maxime Lalanne",
+   "work": "A Treatise on Etching",
+   "translated": "(see the Gutenberg header)",
+   "translator": "S. R. Koehler",
+   "scan_edition": "Project Gutenberg 33751 (clean text)"
+  },
+  "singles-arts-miscellany-lamszus-the-human-slaughter-house": {
+   "source": "sam-39588",
+   "of": "Wilhelm Lamszus",
+   "work": "The Human Slaughter-House: Scenes from the War that is Sure to Come",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Oakley Williams",
+   "scan_edition": "Project Gutenberg 39588 (clean text)"
+  },
+  "singles-arts-miscellany-leduc-the-mechanism-of-life": {
+   "source": "sam-33862",
+   "of": "Stéphane Leduc",
+   "work": "The Mechanism of Life",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Deane Butcher",
+   "scan_edition": "Project Gutenberg 33862 (clean text)"
+  },
+  "singles-arts-miscellany-leonardo-a-treatise-on-painting": {
+   "source": "sam-46915",
+   "of": "da Vinci Leonardo",
+   "work": "A Treatise on Painting",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. F. Rigaud",
+   "scan_edition": "Project Gutenberg 46915 (clean text)"
+  },
+  "singles-arts-miscellany-louise-my-own-affairs": {
+   "source": "sam-43086",
+   "of": "Princess of Belgium Louise",
+   "work": "My Own Affairs",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Maude M. C. Ffoulkes",
+   "scan_edition": "Project Gutenberg 43086 (clean text)"
+  },
+  "singles-arts-miscellany-mangin-the-desert-world": {
+   "source": "sam-43396",
+   "of": "Arthur Mangin",
+   "work": "The Desert World",
+   "translated": "(see the Gutenberg header)",
+   "translator": "W. H. Davenport Adams",
+   "scan_edition": "Project Gutenberg 43396 (clean text)"
+  },
+  "singles-arts-miscellany-massenet-my-recollections": {
+   "source": "sam-36728",
+   "of": "Jules Massenet",
+   "work": "My Recollections",
+   "translated": "(see the Gutenberg header)",
+   "translator": "H. Villiers Barnett",
+   "scan_edition": "Project Gutenberg 36728 (clean text)"
+  },
+  "singles-arts-miscellany-merezhkovsky-the-life-work-of-flaubert-from-the-russi": {
+   "source": "sam-33933",
+   "of": "Dmitry Sergeyevich Merezhkovsky",
+   "work": "The Life-Work of Flaubert, from the Russian of Merejowski",
+   "translated": "(see the Gutenberg header)",
+   "translator": "G. A. Mounsey",
+   "scan_edition": "Project Gutenberg 33933 (clean text)"
+  },
+  "singles-arts-miscellany-naquet-legal-chemistry-a-guide-to-the-detection": {
+   "source": "sam-44048",
+   "of": "Alfred Naquet",
+   "work": "Legal Chemistry A Guide to the Detection of Poisons, Examination of Tea, Stains, Etc., as Applied to Chemical Jurisprudence",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Jesse P. Battershall",
+   "scan_edition": "Project Gutenberg 44048 (clean text)"
+  },
+  "singles-arts-miscellany-palmieri-the-eruption-of-vesuvius-in-1872": {
+   "source": "sam-33483",
+   "of": "Luigi Palmieri",
+   "work": "The Eruption of Vesuvius in 1872",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Robert Mallet",
+   "scan_edition": "Project Gutenberg 33483 (clean text)"
+  },
+  "singles-arts-miscellany-pena-the-oriental-republic-of-uruguay-at-the": {
+   "source": "sam-42879",
+   "of": "Carlos María de Pena and Honore Roustan",
+   "work": "The Oriental Republic of Uruguay at the World's Columbian Exhibition, Chicago, 1893",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Jean-Jacques Réthoré",
+   "scan_edition": "Project Gutenberg 42879 (clean text)"
+  },
+  "singles-arts-miscellany-pfungst-clever-hans-the-horse-of-mr-von-osten-a": {
+   "source": "sam-33936",
+   "of": "Oskar Pfungst",
+   "work": "Clever Hans (The Horse of Mr. Von Osten) A contribution to experimental animal and human psychology",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Carl Leo Rahn",
+   "scan_edition": "Project Gutenberg 33936 (clean text)"
+  },
+  "singles-arts-miscellany-platter-the-autobiography-of-thomas-platter-a-sc": {
+   "source": "sam-33860",
+   "of": "Thomas Platter",
+   "work": "The Autobiography of Thomas Platter, a schoolmaster of the sixteenth century.",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Elizabeth Anne McCaul Finn",
+   "scan_edition": "Project Gutenberg 33860 (clean text)"
+  },
+  "singles-arts-miscellany-quesada-the-social-evolution-of-the-argentine-re": {
+   "source": "sam-38086",
+   "of": "Ernesto Quesada",
+   "work": "The Social Evolution of the Argentine Republic",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Enrique Gil and Layton B. Register",
+   "scan_edition": "Project Gutenberg 38086 (clean text)"
+  },
+  "singles-arts-miscellany-reber-history-of-ancient-art": {
+   "source": "sam-42082",
+   "of": "Franz von Reber",
+   "work": "History of Ancient Art",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Joseph Thacher Clarke",
+   "scan_edition": "Project Gutenberg 42082 (clean text)"
+  },
+  "singles-arts-miscellany-recy-the-decoration-of-leather-from-the-frenc": {
+   "source": "sam-40286",
+   "of": "Georges de Récy",
+   "work": "The Decoration of Leather From the French of Georges de Récy",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Maude Nathan",
+   "scan_edition": "Project Gutenberg 40286 (clean text)"
+  },
+  "singles-arts-miscellany-renan-english-conferences-of-ernest-renan": {
+   "source": "sam-42865",
+   "of": "Ernest Renan",
+   "work": "English Conferences of Ernest Renan: Rome and Christianity. Marcus Aurelius",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Clara Erskine Clement Waters",
+   "scan_edition": "Project Gutenberg 42865 (clean text)"
+  },
+  "singles-arts-miscellany-renard-guilds-in-the-middle-ages": {
+   "source": "sam-45425",
+   "of": "Georges François Renard",
+   "work": "Guilds in the Middle Ages",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Dorothy Terry",
+   "scan_edition": "Project Gutenberg 45425 (clean text)"
+  },
+  "singles-arts-miscellany-rimsky-korsakov-principles-of-orchestration-with-musical": {
+   "source": "sam-33900",
+   "of": "Nikolay Rimsky-Korsakov",
+   "work": "Principles of Orchestration, with Musical Examples Drawn from His Own Works",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edward Agate",
+   "scan_edition": "Project Gutenberg 33900 (clean text)",
+   "note": "Edward Agate's translation was first published in 1922 (Édition Russe de Musique); Gutenberg's transcriber says this text was prepared from the 1964 Dover reprint. The words are public domain; listed in DIGEST-C with the other late reprints."
+  },
+  "singles-arts-miscellany-rolland-handel": {
+   "source": "sam-39671",
+   "of": "Romain Rolland",
+   "work": "Handel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "A. Eaglefield Hull",
+   "scan_edition": "Project Gutenberg 39671 (clean text)"
+  },
+  "singles-arts-miscellany-roux-acrobats-and-mountebanks": {
+   "source": "sam-45587",
+   "of": "Hugues Le Roux and Jules Garnier",
+   "work": "Acrobats and Mountebanks",
+   "translated": "(see the Gutenberg header)",
+   "translator": "A. P. Morton",
+   "scan_edition": "Project Gutenberg 45587 (clean text)"
+  },
+  "singles-arts-miscellany-rydberg-the-magic-of-the-middle-ages": {
+   "source": "sam-39608",
+   "of": "Viktor Rydberg",
+   "work": "The Magic of the Middle Ages",
+   "translated": "(see the Gutenberg header)",
+   "translator": "August Hjalmar Edgren",
+   "scan_edition": "Project Gutenberg 39608 (clean text)"
+  },
+  "singles-arts-miscellany-schirmacher-the-modern-woman-s-rights-movement": {
+   "source": "sam-33700",
+   "of": "Käthe Schirmacher",
+   "work": "The Modern Woman's Rights Movement: A Historical Survey",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Carl Conrad Eckhardt",
+   "scan_edition": "Project Gutenberg 33700 (clean text)"
+  },
+  "singles-arts-miscellany-schweigger-clinical-investigations-on-squint": {
+   "source": "sam-35639",
+   "of": "C. Schweigger",
+   "work": "Clinical Investigations on Squint",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Emily J. Robinson",
+   "scan_edition": "Project Gutenberg 35639 (clean text)"
+  },
+  "singles-arts-miscellany-seiler-the-voice-in-singing": {
+   "source": "sam-42080",
+   "of": "Emma Seiler",
+   "work": "The Voice in Singing",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Henry Furness",
+   "scan_edition": "Project Gutenberg 42080 (clean text)"
+  },
+  "singles-arts-miscellany-taine-a-tour-through-the-pyrenees": {
+   "source": "sam-44429",
+   "of": "Hippolyte Taine",
+   "work": "A Tour Through the Pyrenees",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Safford Fiske",
+   "scan_edition": "Project Gutenberg 44429 (clean text)"
+  },
+  "singles-arts-miscellany-tanska-hoffmanowa-the-journal-of-countess-francoise-krasin": {
+   "source": "sam-36660",
+   "of": "Klementyna Tańska-Hoffmanowa",
+   "work": "The Journal of Countess Françoise Krasinska, Great Grandmother of Victor Emmanuel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Kasimir Dziekonska",
+   "scan_edition": "Project Gutenberg 36660 (clean text)"
+  },
+  "singles-arts-miscellany-wasielewski-the-violoncello-and-its-history": {
+   "source": "sam-42629",
+   "of": "Wilhelm Joseph von Wasielewski",
+   "work": "The Violoncello and Its History",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Isobella S. E. Stigand",
+   "scan_edition": "Project Gutenberg 42629 (clean text)"
+  }
+ },
+ "_pending": {
+  "pg-40393": "Vincent van Gogh, The Letters of a Post-Impressionist Being the Familiar Correspondence of Vincent Van Gogh (Anthony M. Ludovici): Gutenberg has this only as HTML, with no plain-text file. Left for a later pass that finds a period scan on the Internet Archive."
+ },
+ "_excluded": {
+  "busch-38902": "Buzz a Buzz: no plain-text file at Gutenberg (as the wilhelm-busch shelf also notes)."
+ },
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
+ "_checks": {
+  "sam-33483": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mallet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Mallet"
+  },
+  "sam-33700": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "carl conrad eckhardt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Carl Conrad Eckhardt"
+  },
+  "sam-33751": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "koehler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. R. Koehler"
+  },
+  "sam-33860": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "elizabeth anne mccaul finn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elizabeth Anne McCaul Finn"
+  },
+  "sam-33862": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "butcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Deane Butcher"
+  },
+  "sam-33896": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. j. church",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "F. J. Church"
+  },
+  "sam-33900": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "agate",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward Agate"
+  },
+  "sam-33933": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. a. mounsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "G. A. Mounsey"
+  },
+  "sam-33936": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "carl leo rahn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Carl Leo Rahn"
+  },
+  "sam-34837": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eliza leslie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eliza Leslie"
+  },
+  "sam-35041": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles sanford terry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Sanford Terry"
+  },
+  "sam-35185": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. l. woodward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "F. L. Woodward"
+  },
+  "sam-35639": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "emily j. robinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Emily J. Robinson"
+  },
+  "sam-35812": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hutchinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Hely Hutchinson"
+  },
+  "sam-36660": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dziekonska",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Kasimir Dziekonska"
+  },
+  "sam-36728": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "barnett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. Villiers Barnett"
+  },
+  "sam-37103": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nichol",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. T. Nichol"
+  },
+  "sam-38086": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "enrique gil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Enrique Gil; Layton B. Register"
+  },
+  "sam-39318": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "maw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas E. Maw"
+  },
+  "sam-39563": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur n. holcombe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur N. Holcombe; William Bennett Munro"
+  },
+  "sam-39588": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "oakley williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Oakley Williams"
+  },
+  "sam-39608": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "august hjalmar edgren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "August Hjalmar Edgren"
+  },
+  "sam-39671": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. eaglefield hull",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. Eaglefield Hull"
+  },
+  "sam-39747": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "d. a. talboys",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "D. A. Talboys"
+  },
+  "sam-40286": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "maude nathan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Maude Nathan"
+  },
+  "sam-40306": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederick lawton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederick Lawton"
+  },
+  "sam-40341": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "King of England Alfred; Henry Lee Hargrove"
+  },
+  "sam-40373": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. rama iyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. Rama Iyer"
+  },
+  "sam-40618": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "grace hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Grace Hall"
+  },
+  "sam-40870": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. m. peruzzi",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. M. Peruzzi"
+  },
+  "sam-42080": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "furness",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Henry Furness"
+  },
+  "sam-42082": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph Thacher Clarke"
+  },
+  "sam-42629": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "isobella s. e. stigand",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isobella S. E. Stigand"
+  },
+  "sam-42865": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "clara erskine clement waters",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Erskine Clement Waters"
+  },
+  "sam-42879": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jean-jacques réthoré",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jean-Jacques Réthoré"
+  },
+  "sam-43086": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ffoulkes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Maude M. C. Ffoulkes"
+  },
+  "sam-43327": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. k. star",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. K. Star"
+  },
+  "sam-43396": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. H. Davenport Adams"
+  },
+  "sam-44034": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "davidson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Theodora Davidson"
+  },
+  "sam-44048": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "battershall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jesse P. Battershall"
+  },
+  "sam-44135": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eggers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Wilhelm Johann Eggers"
+  },
+  "sam-44429": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "fiske",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Safford Fiske"
+  },
+  "sam-45259": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "newmarch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Rosa Newmarch"
+  },
+  "sam-45348": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederic sherman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Frederic Sherman"
+  },
+  "sam-45425": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dorothy terry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Dorothy Terry"
+  },
+  "sam-45587": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. p. morton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. P. Morton"
+  },
+  "sam-46192": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bevan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edwyn Robert Bevan"
+  },
+  "sam-46287": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hotten",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Camden Hotten"
+  },
+  "sam-46330": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "bernard bosanquet",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Bernard Bosanquet"
+  },
+  "sam-46567": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "maria sermolino",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Maria Sermolino"
+  },
+  "sam-46915": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. f. rigaud",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. F. Rigaud"
+  }
+ },
+ "_verified": {
+  "sam-33483": {
+   "pg": 33483,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Mallet"
+  },
+  "sam-33700": {
+   "pg": 33700,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Carl Conrad Eckhardt"
+  },
+  "sam-33751": {
+   "pg": 33751,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. R. Koehler"
+  },
+  "sam-33860": {
+   "pg": 33860,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Elizabeth Anne McCaul Finn"
+  },
+  "sam-33862": {
+   "pg": 33862,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Deane Butcher"
+  },
+  "sam-33896": {
+   "pg": 33896,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "F. J. Church"
+  },
+  "sam-33900": {
+   "pg": 33900,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edward Agate"
+  },
+  "sam-33933": {
+   "pg": 33933,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "G. A. Mounsey"
+  },
+  "sam-33936": {
+   "pg": 33936,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Carl Leo Rahn"
+  },
+  "sam-34837": {
+   "pg": 34837,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eliza Leslie"
+  },
+  "sam-35041": {
+   "pg": 35041,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Sanford Terry"
+  },
+  "sam-35185": {
+   "pg": 35185,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "F. L. Woodward"
+  },
+  "sam-35639": {
+   "pg": 35639,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Emily J. Robinson"
+  },
+  "sam-35812": {
+   "pg": 35812,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. Hely Hutchinson"
+  },
+  "sam-36660": {
+   "pg": 36660,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Kasimir Dziekonska"
+  },
+  "sam-36728": {
+   "pg": 36728,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "H. Villiers Barnett"
+  },
+  "sam-37103": {
+   "pg": 37103,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. T. Nichol"
+  },
+  "sam-38086": {
+   "pg": 38086,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Enrique Gil"
+  },
+  "sam-39318": {
+   "pg": 39318,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas E. Maw"
+  },
+  "sam-39563": {
+   "pg": 39563,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur N. Holcombe"
+  },
+  "sam-39588": {
+   "pg": 39588,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Oakley Williams"
+  },
+  "sam-39608": {
+   "pg": 39608,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "August Hjalmar Edgren"
+  },
+  "sam-39671": {
+   "pg": 39671,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. Eaglefield Hull"
+  },
+  "sam-39747": {
+   "pg": 39747,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "D. A. Talboys"
+  },
+  "sam-40286": {
+   "pg": 40286,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Maude Nathan"
+  },
+  "sam-40306": {
+   "pg": 40306,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederick Lawton"
+  },
+  "sam-40341": {
+   "pg": 40341,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "King of England Alfred"
+  },
+  "sam-40373": {
+   "pg": 40373,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. Rama Iyer"
+  },
+  "sam-40618": {
+   "pg": 40618,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Grace Hall"
+  },
+  "sam-40870": {
+   "pg": 40870,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. M. Peruzzi"
+  },
+  "sam-42080": {
+   "pg": 42080,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Henry Furness"
+  },
+  "sam-42082": {
+   "pg": 42082,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph Thacher Clarke"
+  },
+  "sam-42629": {
+   "pg": 42629,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isobella S. E. Stigand"
+  },
+  "sam-42865": {
+   "pg": 42865,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Erskine Clement Waters"
+  },
+  "sam-42879": {
+   "pg": 42879,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jean-Jacques Réthoré"
+  },
+  "sam-43086": {
+   "pg": 43086,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Maude M. C. Ffoulkes"
+  },
+  "sam-43327": {
+   "pg": 43327,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. K. Star"
+  },
+  "sam-43396": {
+   "pg": 43396,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. H. Davenport Adams"
+  },
+  "sam-44034": {
+   "pg": 44034,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Theodora Davidson"
+  },
+  "sam-44048": {
+   "pg": 44048,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jesse P. Battershall"
+  },
+  "sam-44135": {
+   "pg": 44135,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Wilhelm Johann Eggers"
+  },
+  "sam-44429": {
+   "pg": 44429,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Safford Fiske"
+  },
+  "sam-45259": {
+   "pg": 45259,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Rosa Newmarch"
+  },
+  "sam-45348": {
+   "pg": 45348,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Frederic Sherman"
+  },
+  "sam-45425": {
+   "pg": 45425,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Dorothy Terry"
+  },
+  "sam-45587": {
+   "pg": 45587,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. P. Morton"
+  },
+  "sam-46192": {
+   "pg": 46192,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edwyn Robert Bevan"
+  },
+  "sam-46287": {
+   "pg": 46287,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Camden Hotten"
+  },
+  "sam-46330": {
+   "pg": 46330,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Bernard Bosanquet"
+  },
+  "sam-46567": {
+   "pg": 46567,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Maria Sermolino"
+  },
+  "sam-46915": {
+   "pg": 46915,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. F. Rigaud"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -144,18 +144,18 @@
   "lnz-will-to-power-2": [
    52915,
    "The Will to Power, Books III and IV"
+  ],
+  "levy-nietzsche-pg51710": [
+   51710,
+   "Thoughts Out of Season, Part I"
+  ],
+  "levy-nietzsche-pg51580": [
+   51580,
+   "On the Future of our Educational Institutions; Homer and Classical Philology; We Philologists"
   ]
  },
  "internet_archive": {},
  "titles": {
-  "levy-nietzsche-zarathustra": {
-   "source": "lnz-zarathustra",
-   "of": "Nietzsche",
-   "work": "Thus Spake Zarathustra",
-   "translated": 1909,
-   "translator": "Thomas Common",
-   "scan_edition": "Project Gutenberg 1998 (clean text)"
-  },
   "levy-nietzsche-beyond-good-and-evil": {
    "source": "lnz-beyond-good-and-evil",
    "of": "Nietzsche",
@@ -163,6 +163,63 @@
    "translated": 1907,
    "translator": "Helen Zimmern",
    "scan_edition": "Project Gutenberg 4363 (clean text)"
+  },
+  "levy-nietzsche-birth-of-tragedy": {
+   "source": "lnz-birth-of-tragedy",
+   "of": "Nietzsche",
+   "work": "The Birth of Tragedy",
+   "translated": 1909,
+   "translator": "Wm. A. Haussmann",
+   "scan_edition": "Project Gutenberg 51356 (clean text)"
+  },
+  "levy-nietzsche-case-of-wagner": {
+   "source": "lnz-case-of-wagner",
+   "of": "Nietzsche",
+   "work": "The Case of Wagner, Nietzsche contra Wagner, Selected Aphorisms",
+   "translated": 1911,
+   "translator": "Anthony M. Ludovici",
+   "scan_edition": "Project Gutenberg 25012 (clean text)"
+  },
+  "levy-nietzsche-dawn-of-day": {
+   "source": "lnz-dawn-of-day",
+   "of": "Nietzsche",
+   "work": "The Dawn of Day",
+   "translated": 1911,
+   "translator": "J. M. Kennedy",
+   "scan_edition": "Project Gutenberg 39955 (clean text)"
+  },
+  "levy-nietzsche-early-greek-philosophy": {
+   "source": "lnz-early-greek-philosophy",
+   "of": "Nietzsche",
+   "work": "Early Greek Philosophy and Other Essays",
+   "translated": 1911,
+   "translator": "Maximilian A. Mügge",
+   "scan_edition": "Project Gutenberg 51548 (clean text)"
+  },
+  "levy-nietzsche-ecce-homo": {
+   "source": "lnz-ecce-homo",
+   "of": "Nietzsche",
+   "work": "Ecce Homo",
+   "translated": 1911,
+   "translator": "Anthony M. Ludovici (poetry by Paul V. Cohn)",
+   "scan_edition": "Project Gutenberg 52190 (clean text)"
+  },
+  "levy-nietzsche-future-of-our-educational-institutions": {
+   "source": "levy-nietzsche-pg51580",
+   "of": "Nietzsche",
+   "work": "On the Future of our Educational Institutions; Homer and Classical Philology; We Philologists",
+   "translated": "1909",
+   "translator": "J. M. Kennedy",
+   "scan_edition": "Project Gutenberg 51580 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "levy-nietzsche-genealogy-of-morals": {
+   "source": "lnz-genealogy-of-morals",
+   "of": "Nietzsche",
+   "work": "The Genealogy of Morals",
+   "translated": 1910,
+   "translator": "Horace B. Samuel (with J. M. Kennedy)",
+   "scan_edition": "Project Gutenberg 52319 (clean text)"
   },
   "levy-nietzsche-human-all-too-human-1": {
    "source": "lnz-human-all-too-human-1",
@@ -180,14 +237,6 @@
    "translator": "Paul V. Cohn",
    "scan_edition": "Project Gutenberg 37841 (clean text)"
   },
-  "levy-nietzsche-dawn-of-day": {
-   "source": "lnz-dawn-of-day",
-   "of": "Nietzsche",
-   "work": "The Dawn of Day",
-   "translated": 1911,
-   "translator": "J. M. Kennedy",
-   "scan_edition": "Project Gutenberg 39955 (clean text)"
-  },
   "levy-nietzsche-joyful-wisdom": {
    "source": "lnz-joyful-wisdom",
    "of": "Nietzsche",
@@ -196,21 +245,14 @@
    "translator": "Thomas Common (poetry by Paul V. Cohn and Maude Dominica Petre)",
    "scan_edition": "Project Gutenberg 52881 (clean text)"
   },
-  "levy-nietzsche-genealogy-of-morals": {
-   "source": "lnz-genealogy-of-morals",
+  "levy-nietzsche-thoughts-out-of-season-1": {
+   "source": "levy-nietzsche-pg51710",
    "of": "Nietzsche",
-   "work": "The Genealogy of Morals",
-   "translated": 1910,
-   "translator": "Horace B. Samuel (with J. M. Kennedy)",
-   "scan_edition": "Project Gutenberg 52319 (clean text)"
-  },
-  "levy-nietzsche-birth-of-tragedy": {
-   "source": "lnz-birth-of-tragedy",
-   "of": "Nietzsche",
-   "work": "The Birth of Tragedy",
-   "translated": 1909,
-   "translator": "Wm. A. Haussmann",
-   "scan_edition": "Project Gutenberg 51356 (clean text)"
+   "work": "Thoughts Out of Season, Part I",
+   "translated": "1909",
+   "translator": "Anthony M. Ludovici",
+   "scan_edition": "Project Gutenberg 51710 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
   },
   "levy-nietzsche-thoughts-out-of-season-2": {
    "source": "lnz-thoughts-out-of-season-2",
@@ -220,14 +262,6 @@
    "translator": "Adrian Collins",
    "scan_edition": "Project Gutenberg 38226 (clean text)"
   },
-  "levy-nietzsche-early-greek-philosophy": {
-   "source": "lnz-early-greek-philosophy",
-   "of": "Nietzsche",
-   "work": "Early Greek Philosophy and Other Essays",
-   "translated": 1911,
-   "translator": "Maximilian A. Mügge",
-   "scan_edition": "Project Gutenberg 51548 (clean text)"
-  },
   "levy-nietzsche-twilight-and-antichrist": {
    "source": "lnz-twilight-and-antichrist",
    "of": "Nietzsche",
@@ -235,22 +269,6 @@
    "translated": 1911,
    "translator": "Anthony M. Ludovici",
    "scan_edition": "Project Gutenberg 52263 (clean text)"
-  },
-  "levy-nietzsche-ecce-homo": {
-   "source": "lnz-ecce-homo",
-   "of": "Nietzsche",
-   "work": "Ecce Homo",
-   "translated": 1911,
-   "translator": "Anthony M. Ludovici (poetry by Paul V. Cohn)",
-   "scan_edition": "Project Gutenberg 52190 (clean text)"
-  },
-  "levy-nietzsche-case-of-wagner": {
-   "source": "lnz-case-of-wagner",
-   "of": "Nietzsche",
-   "work": "The Case of Wagner, Nietzsche contra Wagner, Selected Aphorisms",
-   "translated": 1911,
-   "translator": "Anthony M. Ludovici",
-   "scan_edition": "Project Gutenberg 25012 (clean text)"
   },
   "levy-nietzsche-will-to-power-1": {
    "source": "lnz-will-to-power-1",
@@ -267,16 +285,29 @@
    "translated": 1910,
    "translator": "Anthony M. Ludovici",
    "scan_edition": "Project Gutenberg 52915 (clean text)"
+  },
+  "levy-nietzsche-zarathustra": {
+   "source": "lnz-zarathustra",
+   "of": "Nietzsche",
+   "work": "Thus Spake Zarathustra",
+   "translated": 1909,
+   "translator": "Thomas Common",
+   "scan_edition": "Project Gutenberg 1998 (clean text)"
   }
  },
  "_pending": {
-  "levy-nietzsche-missing-volumes": "Levy vols not on Gutenberg in this pass: Thoughts Out of Season I (Ludovici), Miscellaneous Aphorisms (Human All-Too-Human II), the Future of our Educational Institutions (Kennedy), Poems, Letters, the Index. Look on archive.org next round."
+  "levy-nietzsche-missing-volumes": "Levy vols still not on Gutenberg: Miscellaneous Aphorisms, Poems, Letters, the Index. (Thoughts Out of Season I and vol. 3, the Future of our Educational Institutions, were found in round 35.)"
  },
  "_excluded": {
   "pg-52124": "A second Gutenberg Joyful Wisdom from the same Levy volume; 52881 (Distributed Proofreaders) is used.",
   "pg-19322": "Mencken's own Antichrist translation (1918), not Levy's; its front matter carries 1923-1924 dates; a separate translator.",
   "pg-38145": "Alexander Harvey's 1908 Human, All Too Human selection, not Levy's.",
-  "pg-19634": "Another Beyond Good and Evil with no translator in the header; not checked."
+  "pg-19634": "Another Beyond Good and Evil with no translator in the header; not checked.",
+  "pg-5652": "Thoughts Out of Season I again: an earlier Gutenberg file of Ludovici's translation; this shelf keeps 51710, the Levy edition.",
+  "pg-28146": "On the Future of our Educational Institutions alone; 51580 holds it with the rest of Levy vol. 3.",
+  "pg-18188": "Homer and Classical Philology alone; part of Levy vol. 3 (51580).",
+  "pg-18267": "We Philologists alone; part of Levy vol. 3 (51580).",
+  "pg-52166": "The Case of Wagner again: another file of Levy vol. 8, already held as 25012."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
@@ -414,6 +445,24 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Anthony M. Ludovici"
+  },
+  "levy-nietzsche-pg51710": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "anthony m. ludovici",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Anthony M. Ludovici"
+  },
+  "levy-nietzsche-pg51580": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. m. kennedy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. M. Kennedy"
   }
  },
  "_verified": {
@@ -492,6 +541,16 @@
    "pg": 52915,
    "pg_copyrighted_marker": false,
    "pg_translator": "Anthony M. Ludovici"
+  },
+  "levy-nietzsche-pg51710": {
+   "pg": 51710,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Anthony M. Ludovici"
+  },
+  "levy-nietzsche-pg51580": {
+   "pg": 51580,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. M. Kennedy"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

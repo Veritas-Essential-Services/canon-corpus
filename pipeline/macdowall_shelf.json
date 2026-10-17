@@ -1,0 +1,156 @@
+{
+ "_about": "TRANSLATOR SHELF: M. W. Macdowall: Fritz Reuter's An Old Story of My Farming Days (1878, 3 vols), Franzos's The Jews of Barnow (1882) and Wägner's Epics and Romances of the Middle Ages (1883). US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_name_words": [
+  "m. w. macdowall",
+  "macdowall"
+ ],
+ "_surname": [
+  "m. w. macdowall",
+  "macdowall"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mwm-34617": [
+   34617,
+   "The Jews of Barnow: Stories"
+  ],
+  "mwm-35849": [
+   35849,
+   "An Old Story of My Farming Days Vol. 1 (of 3)."
+  ],
+  "mwm-35850": [
+   35850,
+   "An Old Story of My Farming Days Vol. 2 (of 3)."
+  ],
+  "mwm-35851": [
+   35851,
+   "An Old Story of My Farming Days Vol. 3 (of 3)."
+  ],
+  "mwm-46923": [
+   46923,
+   "Epics and Romances of the Middle Ages"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "macdowall-franzos-the-jews-of-barnow-stories": {
+   "source": "mwm-34617",
+   "of": "Karl Emil Franzos",
+   "work": "The Jews of Barnow: Stories",
+   "translated": "1878-1883 (see the Gutenberg header)",
+   "translator": "M. W. Macdowall",
+   "scan_edition": "Project Gutenberg 34617 (clean text)"
+  },
+  "macdowall-reuter-an-old-story-of-my-farming-days-vol-1-of": {
+   "source": "mwm-35849",
+   "of": "Fritz Reuter",
+   "work": "An Old Story of My Farming Days Vol. 1 (of 3).",
+   "translated": "1878-1883 (see the Gutenberg header)",
+   "translator": "M. W. Macdowall",
+   "scan_edition": "Project Gutenberg 35849 (clean text)"
+  },
+  "macdowall-reuter-an-old-story-of-my-farming-days-vol-2-of": {
+   "source": "mwm-35850",
+   "of": "Fritz Reuter",
+   "work": "An Old Story of My Farming Days Vol. 2 (of 3).",
+   "translated": "1878-1883 (see the Gutenberg header)",
+   "translator": "M. W. Macdowall",
+   "scan_edition": "Project Gutenberg 35850 (clean text)"
+  },
+  "macdowall-reuter-an-old-story-of-my-farming-days-vol-3-of": {
+   "source": "mwm-35851",
+   "of": "Fritz Reuter",
+   "work": "An Old Story of My Farming Days Vol. 3 (of 3).",
+   "translated": "1878-1883 (see the Gutenberg header)",
+   "translator": "M. W. Macdowall",
+   "scan_edition": "Project Gutenberg 35851 (clean text)"
+  },
+  "macdowall-wagner-epics-and-romances-of-the-middle-ages": {
+   "source": "mwm-46923",
+   "of": "Wilhelm Wägner",
+   "work": "Epics and Romances of the Middle Ages",
+   "translated": "1878-1883 (see the Gutenberg header)",
+   "translator": "M. W. Macdowall",
+   "scan_edition": "Project Gutenberg 46923 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mwm-34617": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "m. w. macdowall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. W. Macdowall"
+  },
+  "mwm-35849": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "m. w. macdowall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. W. Macdowall"
+  },
+  "mwm-35850": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "m. w. macdowall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. W. Macdowall"
+  },
+  "mwm-35851": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "m. w. macdowall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. W. Macdowall"
+  },
+  "mwm-46923": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "m. w. macdowall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. W. Macdowall"
+  }
+ },
+ "_verified": {
+  "mwm-34617": {
+   "pg": 34617,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "M. W. Macdowall"
+  },
+  "mwm-35849": {
+   "pg": 35849,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "M. W. Macdowall"
+  },
+  "mwm-35850": {
+   "pg": 35850,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "M. W. Macdowall"
+  },
+  "mwm-35851": {
+   "pg": 35851,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "M. W. Macdowall"
+  },
+  "mwm-46923": {
+   "pg": 46923,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "M. W. Macdowall"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

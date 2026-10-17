@@ -1,0 +1,1325 @@
+{
+ "_about": "SINGLE-TRANSLATION SHELF: more one-off English translations of plays and poetry: Gorky's The Lower Depths (Covan, Moscow Art Theatre), Schnitzler's Hands Around (1920), Claudel's Tête-d'Or, Brieux's Three Plays (with Shaw's preface), Echegaray ×2 (The Great Galeoto, The Son of Don Juan), Sardou's The Sorceress, Heijermans's The Good Hope, Cervantes's Numantia, Mitra's Nil Darpan (Madhusudan Dutt, 1861), the Chushingura, Roswitha's plays (Christopher St. John), Mascagni's Cavalleria Rusticana; and verse: Petrarch's sonnets (Higginson), Garcilaso (Wiffen, 1823), Leopardi (Cliffe), Mistral's Mirèio (Harriet Preston), Boiardo's Orlando Innamorato (W. S. Rose), La Fontaine's Fables (Thornbury), Oehlenschläger's Gods of the North, Pushkin's poems (Panin), Arthur Way's Lay of the Nibelung Men, the Orkneyinga Saga, The King's Mirror, the Dean of Lismore's Book, Antar, Abu'l-Ala's Luzumiyat (Rihani), Rumi's Mesnevi (Redhouse), Sadi's Bustān, Iqbal's Secrets of the Self (Nicholson, 1920), the Childers Jātaka, the Diamond Sutra (Gemmell), Sumerian Hymns, Fir-Flower Tablets (Ayscough and Amy Lowell), Diaries of Court Ladies of Old Japan, Halper's Post-Biblical Hebrew Literature, Christine de Pisan's Othea (Scrope) and The Babees' Book. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 43); Adam may veto. No uids minted.",
+ "_name_words": [
+  "a. hart edwards",
+  "ameen fares rihani",
+  "amy lowell",
+  "annie shepley omori",
+  "arthur s. way",
+  "arthur sanders way",
+  "b. halper",
+  "charles a. weissert",
+  "charlotte frances shaw",
+  "christopher marie st. john",
+  "christopher st. john",
+  "f. l. glaser",
+  "florence wheelock ayscough",
+  "francis henry cliffe",
+  "frederick augustus vanderburgh",
+  "gilbert goudie",
+  "h. w. preston",
+  "hannah lynch",
+  "harriet gampert higgins",
+  "harriet waters preston",
+  "ivan panin",
+  "j. s. newberry",
+  "james cartwright macy",
+  "james graham",
+  "james w. redhouse",
+  "james william redhouse",
+  "james young gibson",
+  "jenny covan",
+  "jeremiah holmes wiffen",
+  "john pollock",
+  "john strong newberry",
+  "jukichi inouye",
+  "jón a. hjaltalín (jón andrésson hjaltalín)",
+  "kochi doi",
+  "l. d. edwards",
+  "l. j. naylor",
+  "laurence marcellus larson",
+  "michael madhusudan dutt",
+  "mrs. sale barker",
+  "reynold alleyne nicholson",
+  "robert cæsar childers",
+  "sale barker",
+  "st. john",
+  "st. john hankin",
+  "stephen scrope",
+  "t. w. rhys davids",
+  "terrick hamilton",
+  "thomas maclauchlan",
+  "thomas wentworth higginson",
+  "thomas william rhys davids",
+  "walter thornbury",
+  "william edward frye",
+  "william gemmell",
+  "william stewart rose"
+ ],
+ "_surname": [
+  "a. hart edwards",
+  "ameen fares rihani",
+  "amy lowell",
+  "annie shepley omori",
+  "arthur s. way",
+  "arthur sanders way",
+  "b. halper",
+  "charles a. weissert",
+  "charlotte frances shaw",
+  "christopher marie st. john",
+  "christopher st. john",
+  "f. l. glaser",
+  "florence wheelock ayscough",
+  "francis henry cliffe",
+  "frederick augustus vanderburgh",
+  "gilbert goudie",
+  "h. w. preston",
+  "hannah lynch",
+  "harriet gampert higgins",
+  "harriet waters preston",
+  "ivan panin",
+  "j. s. newberry",
+  "james cartwright macy",
+  "james graham",
+  "james w. redhouse",
+  "james william redhouse",
+  "james young gibson",
+  "jenny covan",
+  "jeremiah holmes wiffen",
+  "john pollock",
+  "john strong newberry",
+  "jukichi inouye",
+  "jón a. hjaltalín (jón andrésson hjaltalín)",
+  "kochi doi",
+  "l. d. edwards",
+  "l. j. naylor",
+  "laurence marcellus larson",
+  "michael madhusudan dutt",
+  "mrs. sale barker",
+  "reynold alleyne nicholson",
+  "robert cæsar childers",
+  "sale barker",
+  "st. john",
+  "st. john hankin",
+  "stephen scrope",
+  "t. w. rhys davids",
+  "terrick hamilton",
+  "thomas maclauchlan",
+  "thomas wentworth higginson",
+  "thomas william rhys davids",
+  "walter thornbury",
+  "william edward frye",
+  "william gemmell",
+  "william stewart rose"
+ ],
+ "_surname_by_slug": {
+  "sp2-46992": [
+   "charlotte frances shaw",
+   "hankin",
+   "john pollock",
+   "pollock",
+   "shaw",
+   "st. john hankin"
+  ],
+  "sp2-48007": [
+   "james cartwright macy",
+   "macy"
+  ],
+  "sp2-52088": [
+   "j. s. newberry",
+   "john strong newberry",
+   "newberry"
+  ],
+  "sp2-52468": [
+   "covan",
+   "jenny covan"
+  ],
+  "sp2-53041": [
+   "gibson",
+   "james young gibson"
+  ],
+  "sp2-53513": [
+   "edwards",
+   "f. l. glaser",
+   "glaser",
+   "l. d. edwards"
+  ],
+  "sp2-54027": [
+   "dutt",
+   "michael madhusudan dutt"
+  ],
+  "sp2-54705": [
+   "charles a. weissert",
+   "weissert"
+  ],
+  "sp2-55981": [
+   "hannah lynch",
+   "lynch"
+  ],
+  "sp2-56126": [
+   "graham",
+   "james graham"
+  ],
+  "sp2-56369": [
+   "barker",
+   "mrs. sale barker",
+   "sale barker"
+  ],
+  "sp2-58473": [
+   "harriet gampert higgins",
+   "higgins"
+  ],
+  "sp2-59421": [
+   "inouye",
+   "jukichi inouye"
+  ],
+  "sp2-59770": [
+   "christopher marie st. john",
+   "christopher st. john",
+   "st. john"
+  ],
+  "sp2-47151": [
+   "annie shepley omori",
+   "doi",
+   "kochi doi",
+   "omori"
+  ],
+  "sp2-48094": [
+   "frederick augustus vanderburgh",
+   "vanderburgh"
+  ],
+  "sp2-48099": [
+   "maclauchlan",
+   "thomas maclauchlan"
+  ],
+  "sp2-48222": [
+   "amy lowell",
+   "ayscough",
+   "florence wheelock ayscough",
+   "lowell"
+  ],
+  "sp2-49410": [
+   "jeremiah holmes wiffen",
+   "wiffen"
+  ],
+  "sp2-49696": [
+   "frye",
+   "william edward frye"
+  ],
+  "sp2-50307": [
+   "higginson",
+   "thomas wentworth higginson"
+  ],
+  "sp2-50316": [
+   "thornbury",
+   "walter thornbury"
+  ],
+  "sp2-50457": [
+   "ameen fares rihani",
+   "rihani"
+  ],
+  "sp2-51880": [
+   "childers",
+   "davids",
+   "robert cæsar childers",
+   "t. w. rhys davids",
+   "thomas william rhys davids"
+  ],
+  "sp2-53020": [
+   "cliffe",
+   "francis henry cliffe"
+  ],
+  "sp2-56008": [
+   "h. w. preston",
+   "harriet waters preston",
+   "preston"
+  ],
+  "sp2-57317": [
+   "nicholson",
+   "reynold alleyne nicholson"
+  ],
+  "sp2-57723": [
+   "gilbert goudie",
+   "goudie",
+   "jón a. hjaltalín (jón andrésson hjaltalín)"
+  ],
+  "sp2-57857": [
+   "hamilton",
+   "terrick hamilton"
+  ],
+  "sp2-57869": [
+   "rose",
+   "william stewart rose"
+  ],
+  "sp2-59831": [
+   "arthur s. way",
+   "arthur sanders way",
+   "way"
+  ],
+  "sp2-60471": [
+   "a. hart edwards",
+   "edwards"
+  ],
+  "sp2-60567": [
+   "scrope",
+   "stephen scrope"
+  ],
+  "sp2-61264": [
+   "larson",
+   "laurence marcellus larson"
+  ],
+  "sp2-61386": [
+   "b. halper",
+   "halper"
+  ],
+  "sp2-61724": [
+   "james w. redhouse",
+   "james william redhouse",
+   "redhouse"
+  ],
+  "sp2-64623": [
+   "gemmell",
+   "kumārajīva",
+   "william gemmell"
+  ],
+  "sp2-58985": [
+   "l. j. naylor",
+   "naylor"
+  ],
+  "sp2-54991": [
+   "ivan panin",
+   "panin"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "sp2-46992": [
+   46992,
+   "Three Plays by Brieux With a Preface by Bernard Shaw"
+  ],
+  "sp2-48007": [
+   48007,
+   "Rustic Chivalry (Cavalleria Rusticana): Melodrama in One Act"
+  ],
+  "sp2-52088": [
+   52088,
+   "Tête-d'Or: A play in three acts"
+  ],
+  "sp2-52468": [
+   52468,
+   "The Lower Depths: A Drama in Four Acts"
+  ],
+  "sp2-53041": [
+   53041,
+   "Numantia"
+  ],
+  "sp2-53513": [
+   53513,
+   "Hands Around [Reigen]: A Cycle of Ten Dialogues"
+  ],
+  "sp2-54027": [
+   54027,
+   "Nil Darpan; or, The Indigo Planting Mirror, A Drama. Translated from the Bengali by a Native."
+  ],
+  "sp2-54705": [
+   54705,
+   "The Sorceress: A Drama in Five Acts"
+  ],
+  "sp2-55981": [
+   55981,
+   "The great Galeoto; Folly or saintliness two plays done from the verse of José Echegaray into English prose by Hannah Lynch"
+  ],
+  "sp2-56126": [
+   56126,
+   "The son of Don Juan an original drama in 3 acts inspired by the reading of Ibsen's work entitled 'Gengangere'"
+  ],
+  "sp2-56369": [
+   56369,
+   "Coward or Hero?"
+  ],
+  "sp2-58473": [
+   58473,
+   "The Good Hope (In \"The Drama: A Quarterly Review of Dramatic Literature\")"
+  ],
+  "sp2-59421": [
+   59421,
+   "Chushingura; Or, The Treasury of Loyal Retainers"
+  ],
+  "sp2-59770": [
+   59770,
+   "The Plays of Roswitha"
+  ],
+  "sp2-47151": [
+   47151,
+   "Diaries of Court Ladies of Old Japan"
+  ],
+  "sp2-48094": [
+   48094,
+   "Sumerian Hymns from Cuneiform Texts in the British Museum"
+  ],
+  "sp2-48099": [
+   48099,
+   "The Dean of Lismore's Book: A Selection of Ancient Gaelic Poetry"
+  ],
+  "sp2-48222": [
+   48222,
+   "Fir-Flower Tablets: Poems Translated from the Chinese"
+  ],
+  "sp2-49410": [
+   49410,
+   "The Works of Garcilasso de la Vega, Surnamed the Prince of Castilian Poets, Translated into English Verse With a Critical and Historical Essay on Spanish Poetry and a Life of the Author"
+  ],
+  "sp2-49696": [
+   49696,
+   "The Gods of the North: an epic poem"
+  ],
+  "sp2-50307": [
+   50307,
+   "Fifteen sonnets of Petrarch"
+  ],
+  "sp2-50316": [
+   50316,
+   "The Fables of La Fontaine Translated into English Verse by Walter Thornbury and Illustrated by Gustave Doré"
+  ],
+  "sp2-50457": [
+   50457,
+   "The Luzumiyat of Abu'l-Ala Selected from his Luzum ma la Yalzam and Suct us-Zand"
+  ],
+  "sp2-51880": [
+   51880,
+   "Buddhist birth stories; or, Jataka tales, Volume 1"
+  ],
+  "sp2-53020": [
+   53020,
+   "The poems of Leopardi"
+  ],
+  "sp2-56008": [
+   56008,
+   "Mirèio, a Provençal Poem"
+  ],
+  "sp2-57317": [
+   57317,
+   "The Secrets of the Self (Asrar-i Khudi) — A Philosophical Poem"
+  ],
+  "sp2-57723": [
+   57723,
+   "The Orkneyinga Saga"
+  ],
+  "sp2-57857": [
+   57857,
+   "Antar: A Bedoueen Romance"
+  ],
+  "sp2-57869": [
+   57869,
+   "The Orlando Innamorato"
+  ],
+  "sp2-59831": [
+   59831,
+   "The Lay of the Nibelung Men"
+  ],
+  "sp2-60471": [
+   60471,
+   "The Bustān of Sadi Translated from the Persian with an introduction"
+  ],
+  "sp2-60567": [
+   60567,
+   "The epistle of Othea to Hector; or, The boke of knyghthode"
+  ],
+  "sp2-61264": [
+   61264,
+   "The King's Mirror (Speculum regale-Konungs skuggsjá)"
+  ],
+  "sp2-61386": [
+   61386,
+   "Post-Biblical Hebrew Literature: An Anthology"
+  ],
+  "sp2-61724": [
+   61724,
+   "The Mesnevi"
+  ],
+  "sp2-64623": [
+   64623,
+   "The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita"
+  ],
+  "sp2-58985": [
+   58985,
+   "The Babees' Book: Medieval Manners for the Young: Done into Modern English"
+  ],
+  "sp2-54991": [
+   54991,
+   "Poems With Introduction and Notes"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "singles-plays-poetry-2-al-maarri-the-luzumiyat-of-abu-l-ala-selected-from": {
+   "source": "sp2-50457",
+   "of": "Abu al-Ala al-Maarri",
+   "work": "The Luzumiyat of Abu'l-Ala Selected from his Luzum ma la Yalzam and Suct us-Zand",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ameen Fares Rihani",
+   "scan_edition": "Project Gutenberg 50457 (clean text)"
+  },
+  "singles-plays-poetry-2-anon-antar": {
+   "source": "sp2-57857",
+   "of": "anonymous (the Sīrat ʿAntar)",
+   "work": "Antar: A Bedoueen Romance",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Terrick Hamilton",
+   "scan_edition": "Project Gutenberg 57857 (clean text)"
+  },
+  "singles-plays-poetry-2-anon-buddhist-birth-stories": {
+   "source": "sp2-51880",
+   "of": "anonymous (the Pali Jātaka, ed. V. Fausbøll)",
+   "work": "Buddhist birth stories; or, Jataka tales, Volume 1",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Robert Cæsar Childers and T. W. Rhys Davids",
+   "scan_edition": "Project Gutenberg 51880 (clean text)"
+  },
+  "singles-plays-poetry-2-anon-fir-flower-tablets": {
+   "source": "sp2-48222",
+   "of": "various Chinese poets",
+   "work": "Fir-Flower Tablets: Poems Translated from the Chinese",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Florence Wheelock Ayscough and Amy Lowell",
+   "scan_edition": "Project Gutenberg 48222 (clean text)"
+  },
+  "singles-plays-poetry-2-anon-post-biblical-hebrew-literature": {
+   "source": "sp2-61386",
+   "of": "various Hebrew writers",
+   "work": "Post-Biblical Hebrew Literature: An Anthology",
+   "translated": "(see the Gutenberg header)",
+   "translator": "B. Halper",
+   "scan_edition": "Project Gutenberg 61386 (clean text)"
+  },
+  "singles-plays-poetry-2-anon-rustic-chivalry-cavalleria-rusticana": {
+   "source": "sp2-48007",
+   "of": "Pietro Mascagni (music); G. Targioni-Tozzetti and G. Menasci (libretto)",
+   "work": "Rustic Chivalry (Cavalleria Rusticana): Melodrama in One Act",
+   "translated": "(see the Gutenberg header)",
+   "translator": "James Cartwright Macy",
+   "scan_edition": "Project Gutenberg 48007 (clean text)"
+  },
+  "singles-plays-poetry-2-anon-sumerian-hymns-from-cuneiform-texts-in-t": {
+   "source": "sp2-48094",
+   "of": "anonymous Sumerian hymns",
+   "work": "Sumerian Hymns from Cuneiform Texts in the British Museum",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Frederick Augustus Vanderburgh",
+   "scan_edition": "Project Gutenberg 48094 (clean text)"
+  },
+  "singles-plays-poetry-2-anon-the-babees-book": {
+   "source": "sp2-58985",
+   "of": "anonymous medieval courtesy books (from F. J. Furnivall's texts)",
+   "work": "The Babees' Book: Medieval Manners for the Young: Done into Modern English",
+   "translated": "(see the Gutenberg header)",
+   "translator": "L. J. Naylor",
+   "scan_edition": "Project Gutenberg 58985 (clean text)"
+  },
+  "singles-plays-poetry-2-anon-the-dean-of-lismore-s-book": {
+   "source": "sp2-48099",
+   "of": "James MacGregor, Dean of Lismore (compiler)",
+   "work": "The Dean of Lismore's Book: A Selection of Ancient Gaelic Poetry",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Thomas Maclauchlan",
+   "scan_edition": "Project Gutenberg 48099 (clean text)"
+  },
+  "singles-plays-poetry-2-anon-the-king-s-mirror-speculum-regale-konung": {
+   "source": "sp2-61264",
+   "of": "anonymous Norwegian (the Konungs skuggsjá)",
+   "work": "The King's Mirror (Speculum regale-Konungs skuggsjá)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Laurence Marcellus Larson",
+   "scan_edition": "Project Gutenberg 61264 (clean text)"
+  },
+  "singles-plays-poetry-2-anon-the-lay-of-the-nibelung-men": {
+   "source": "sp2-59831",
+   "of": "anonymous (the Nibelungenlied)",
+   "work": "The Lay of the Nibelung Men",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Arthur S. Way",
+   "scan_edition": "Project Gutenberg 59831 (clean text)"
+  },
+  "singles-plays-poetry-2-anonymous-the-orkneyinga-saga": {
+   "source": "sp2-57723",
+   "of": "anonymous (the Orkneyinga saga)",
+   "work": "The Orkneyinga Saga",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Gilbert Goudie and Jón A. Hjaltalín (Jón Andrésson Hjaltalín)",
+   "scan_edition": "Project Gutenberg 57723 (clean text)"
+  },
+  "singles-plays-poetry-2-boiardo-the-orlando-innamorato": {
+   "source": "sp2-57869",
+   "of": "Matteo Maria Boiardo",
+   "work": "The Orlando Innamorato",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Stewart Rose",
+   "scan_edition": "Project Gutenberg 57869 (clean text)"
+  },
+  "singles-plays-poetry-2-brieux-three-plays-by-brieux-with-a-preface-by": {
+   "source": "sp2-46992",
+   "of": "Eugène Brieux",
+   "work": "Three Plays by Brieux With a Preface by Bernard Shaw",
+   "translated": "(see the Gutenberg header)",
+   "translator": "St. John Hankin and John Pollock and Charlotte Frances Shaw",
+   "scan_edition": "Project Gutenberg 46992 (clean text)"
+  },
+  "singles-plays-poetry-2-christine-the-epistle-of-othea-to-hector": {
+   "source": "sp2-60567",
+   "of": "de Pisan Christine",
+   "work": "The epistle of Othea to Hector; or, The boke of knyghthode",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Stephen Scrope",
+   "scan_edition": "Project Gutenberg 60567 (clean text)"
+  },
+  "singles-plays-poetry-2-claudel-tete-d-or": {
+   "source": "sp2-52088",
+   "of": "Paul Claudel",
+   "work": "Tête-d'Or: A play in three acts",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. S. Newberry",
+   "scan_edition": "Project Gutenberg 52088 (clean text)"
+  },
+  "singles-plays-poetry-2-echegaray-the-great-galeoto": {
+   "source": "sp2-55981",
+   "of": "José Echegaray",
+   "work": "The great Galeoto; Folly or saintliness two plays done from the verse of José Echegaray into English prose by Hannah Lynch",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Hannah Lynch",
+   "scan_edition": "Project Gutenberg 55981 (clean text)"
+  },
+  "singles-plays-poetry-2-echegaray-the-son-of-don-juan-an-original-drama-in": {
+   "source": "sp2-56126",
+   "of": "José Echegaray",
+   "work": "The son of Don Juan an original drama in 3 acts inspired by the reading of Ibsen's work entitled 'Gengangere'",
+   "translated": "(see the Gutenberg header)",
+   "translator": "James Graham",
+   "scan_edition": "Project Gutenberg 56126 (clean text)"
+  },
+  "singles-plays-poetry-2-fontaine-the-fables-of-la-fontaine-translated-int": {
+   "source": "sp2-50316",
+   "of": "Jean de La Fontaine",
+   "work": "The Fables of La Fontaine Translated into English Verse by Walter Thornbury and Illustrated by Gustave Doré",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Walter Thornbury",
+   "scan_edition": "Project Gutenberg 50316 (clean text)"
+  },
+  "singles-plays-poetry-2-gorky-the-lower-depths": {
+   "source": "sp2-52468",
+   "of": "Maksim Gorky",
+   "work": "The Lower Depths: A Drama in Four Acts",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Jenny Covan",
+   "scan_edition": "Project Gutenberg 52468 (clean text)"
+  },
+  "singles-plays-poetry-2-heijermans-the-good-hope-in-the-drama": {
+   "source": "sp2-58473",
+   "of": "Herman Heijermans",
+   "work": "The Good Hope (In \"The Drama: A Quarterly Review of Dramatic Literature\")",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Harriet Gampert Higgins",
+   "scan_edition": "Project Gutenberg 58473 (clean text)"
+  },
+  "singles-plays-poetry-2-hrotsvitha-the-plays-of-roswitha": {
+   "source": "sp2-59770",
+   "of": "Hrotsvitha",
+   "work": "The Plays of Roswitha",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Christopher St. John",
+   "scan_edition": "Project Gutenberg 59770 (clean text)"
+  },
+  "singles-plays-poetry-2-iqbal-the-secrets-of-the-self-asrar-i-khudi-a": {
+   "source": "sp2-57317",
+   "of": "Muhammad Iqbal",
+   "work": "The Secrets of the Self (Asrar-i Khudi) — A Philosophical Poem",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Reynold Alleyne Nicholson",
+   "scan_edition": "Project Gutenberg 57317 (clean text)"
+  },
+  "singles-plays-poetry-2-leclerc-coward-or-hero": {
+   "source": "sp2-56369",
+   "of": "Eugène Leclerc",
+   "work": "Coward or Hero?",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Sale Barker",
+   "scan_edition": "Project Gutenberg 56369 (clean text)"
+  },
+  "singles-plays-poetry-2-leopardi-the-poems-of-leopardi": {
+   "source": "sp2-53020",
+   "of": "Giacomo Leopardi",
+   "work": "The poems of Leopardi",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Francis Henry Cliffe",
+   "scan_edition": "Project Gutenberg 53020 (clean text)"
+  },
+  "singles-plays-poetry-2-mistral-mireio-a-provencal-poem": {
+   "source": "sp2-56008",
+   "of": "Frédéric Mistral",
+   "work": "Mirèio, a Provençal Poem",
+   "translated": "(see the Gutenberg header)",
+   "translator": "H. W. Preston",
+   "scan_edition": "Project Gutenberg 56008 (clean text)"
+  },
+  "singles-plays-poetry-2-mitra-nil-darpan": {
+   "source": "sp2-54027",
+   "of": "Dinabandhu Mitra",
+   "work": "Nil Darpan; or, The Indigo Planting Mirror, A Drama. Translated from the Bengali by a Native.",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Michael Madhusudan Dutt",
+   "scan_edition": "Project Gutenberg 54027 (clean text)"
+  },
+  "singles-plays-poetry-2-oehlenschlager-the-gods-of-the-north": {
+   "source": "sp2-49696",
+   "of": "Adam Oehlenschläger",
+   "work": "The Gods of the North: an epic poem",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Edward Frye",
+   "scan_edition": "Project Gutenberg 49696 (clean text)"
+  },
+  "singles-plays-poetry-2-petrarca-fifteen-sonnets-of-petrarch": {
+   "source": "sp2-50307",
+   "of": "Francesco Petrarca",
+   "work": "Fifteen sonnets of Petrarch",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Thomas Wentworth Higginson",
+   "scan_edition": "Project Gutenberg 50307 (clean text)"
+  },
+  "singles-plays-poetry-2-pushkin-poems-with-introduction-and-notes": {
+   "source": "sp2-54991",
+   "of": "Aleksandr Sergeevich Pushkin",
+   "work": "Poems With Introduction and Notes",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ivan Panin",
+   "scan_edition": "Project Gutenberg 54991 (clean text)"
+  },
+  "singles-plays-poetry-2-rumi-the-mesnevi": {
+   "source": "sp2-61724",
+   "of": "Maulana Jalal al-Din Rumi",
+   "work": "The Mesnevi",
+   "translated": "(see the Gutenberg header)",
+   "translator": "James W. Redhouse",
+   "scan_edition": "Project Gutenberg 61724 (clean text)"
+  },
+  "singles-plays-poetry-2-saavedra-numantia": {
+   "source": "sp2-53041",
+   "of": "Miguel de Cervantes Saavedra",
+   "work": "Numantia",
+   "translated": "(see the Gutenberg header)",
+   "translator": "James Young Gibson",
+   "scan_edition": "Project Gutenberg 53041 (clean text)"
+  },
+  "singles-plays-poetry-2-sadi-the-bustan-of-sadi-translated-from-the-p": {
+   "source": "sp2-60471",
+   "of": "Sadi",
+   "work": "The Bustān of Sadi Translated from the Persian with an introduction",
+   "translated": "(see the Gutenberg header)",
+   "translator": "A. Hart Edwards",
+   "scan_edition": "Project Gutenberg 60471 (clean text)"
+  },
+  "singles-plays-poetry-2-sardou-the-sorceress": {
+   "source": "sp2-54705",
+   "of": "Victorien Sardou",
+   "work": "The Sorceress: A Drama in Five Acts",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles A. Weissert",
+   "scan_edition": "Project Gutenberg 54705 (clean text)"
+  },
+  "singles-plays-poetry-2-schnitzler-hands-around-reigen": {
+   "source": "sp2-53513",
+   "of": "Arthur Schnitzler",
+   "work": "Hands Around [Reigen]: A Cycle of Ten Dialogues",
+   "translated": "(see the Gutenberg header)",
+   "translator": "L. D. Edwards and F. L. Glaser",
+   "scan_edition": "Project Gutenberg 53513 (clean text)"
+  },
+  "singles-plays-poetry-2-shikibu-diaries-of-court-ladies-of-old-japan": {
+   "source": "sp2-47151",
+   "of": "Murasaki Shikibu, Izumi Shikibu and the Sarashina diarist",
+   "work": "Diaries of Court Ladies of Old Japan",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Annie Shepley Omori and Kochi Doi",
+   "scan_edition": "Project Gutenberg 47151 (clean text)"
+  },
+  "singles-plays-poetry-2-takeda-chushingura": {
+   "source": "sp2-59421",
+   "of": "Izumo Takeda and Shoraku Miyoshi and Senryu Namiki",
+   "work": "Chushingura; Or, The Treasury of Loyal Retainers",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Jukichi Inouye",
+   "scan_edition": "Project Gutenberg 59421 (clean text)"
+  },
+  "singles-plays-poetry-2-unknown-the-diamond-sutra-chin-kang-ching-or-pra": {
+   "source": "sp2-64623",
+   "of": "anonymous (the Vajracchedikā Sūtra)",
+   "work": "The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita",
+   "translated": "(see the Gutenberg header)",
+   "translator": "William Gemmell (from Kumārajīva's Chinese)",
+   "scan_edition": "Project Gutenberg 64623 (clean text)"
+  },
+  "singles-plays-poetry-2-vega-the-works-of-garcilasso-de-la-vega-surna": {
+   "source": "sp2-49410",
+   "of": "Garcilaso de la Vega",
+   "work": "The Works of Garcilasso de la Vega, Surnamed the Prince of Castilian Poets, Translated into English Verse With a Critical and Historical Essay on Spanish Poetry and a Life of the Author",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Jeremiah Holmes Wiffen",
+   "scan_edition": "Project Gutenberg 49410 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "various-47036": "The Jade Flute: translator unnamed, so the per-title translator gate has nothing to check."
+ },
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
+ "_checks": {
+  "sp2-46992": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charlotte frances shaw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "St. John Hankin; John Pollock; Charlotte Frances Shaw"
+  },
+  "sp2-48007": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james cartwright macy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Cartwright Macy"
+  },
+  "sp2-52088": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. s. newberry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. S. Newberry"
+  },
+  "sp2-52468": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "covan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jenny Covan"
+  },
+  "sp2-53041": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gibson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Young Gibson"
+  },
+  "sp2-53513": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "L. D. Edwards; F. L. Glaser"
+  },
+  "sp2-54027": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dutt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Michael Madhusudan Dutt"
+  },
+  "sp2-54705": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles a. weissert",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles A. Weissert"
+  },
+  "sp2-55981": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hannah lynch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Hannah Lynch"
+  },
+  "sp2-56126": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "graham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Graham"
+  },
+  "sp2-56369": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mrs. sale barker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Sale Barker"
+  },
+  "sp2-58473": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "harriet gampert higgins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Harriet Gampert Higgins"
+  },
+  "sp2-59421": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "inouye",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jukichi Inouye"
+  },
+  "sp2-59770": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "christopher st. john",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Christopher St. John"
+  },
+  "sp2-47151": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "annie shepley omori",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Annie Shepley Omori"
+  },
+  "sp2-48094": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederick augustus vanderburgh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederick Augustus Vanderburgh"
+  },
+  "sp2-48099": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "maclauchlan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Maclauchlan"
+  },
+  "sp2-48222": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "amy lowell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Florence Wheelock Ayscough; Amy Lowell"
+  },
+  "sp2-49410": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jeremiah holmes wiffen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jeremiah Holmes Wiffen"
+  },
+  "sp2-49696": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frye",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Edward Frye"
+  },
+  "sp2-50307": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "higginson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Wentworth Higginson"
+  },
+  "sp2-50316": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thornbury",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Walter Thornbury"
+  },
+  "sp2-50457": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ameen fares rihani",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ameen Fares Rihani"
+  },
+  "sp2-51880": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "childers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Cæsar Childers; T. W. Rhys Davids"
+  },
+  "sp2-53020": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cliffe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Henry Cliffe"
+  },
+  "sp2-56008": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. w. preston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. W. Preston"
+  },
+  "sp2-57317": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Reynold Alleyne Nicholson"
+  },
+  "sp2-57723": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gilbert goudie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gilbert Goudie; Jón A. Hjaltalín"
+  },
+  "sp2-57857": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hamilton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Terrick Hamilton"
+  },
+  "sp2-57869": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william stewart rose",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Stewart Rose"
+  },
+  "sp2-59831": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur s. way",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur S. Way"
+  },
+  "sp2-60471": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. hart edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. Hart Edwards"
+  },
+  "sp2-60567": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "scrope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Stephen Scrope"
+  },
+  "sp2-61264": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "larson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Laurence Marcellus Larson"
+  },
+  "sp2-61386": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. halper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "B. Halper"
+  },
+  "sp2-61724": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "james w. redhouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir James W. Redhouse"
+  },
+  "sp2-64623": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gemmell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Gemmell; Kumārajīva"
+  },
+  "sp2-58985": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "l. j. naylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "L. J. Naylor"
+  },
+  "sp2-54991": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ivan panin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ivan Panin"
+  }
+ },
+ "_verified": {
+  "sp2-46992": {
+   "pg": 46992,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "St. John Hankin"
+  },
+  "sp2-48007": {
+   "pg": 48007,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Cartwright Macy"
+  },
+  "sp2-52088": {
+   "pg": 52088,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. S. Newberry"
+  },
+  "sp2-52468": {
+   "pg": 52468,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jenny Covan"
+  },
+  "sp2-53041": {
+   "pg": 53041,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Young Gibson"
+  },
+  "sp2-53513": {
+   "pg": 53513,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "L. D. Edwards"
+  },
+  "sp2-54027": {
+   "pg": 54027,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Michael Madhusudan Dutt"
+  },
+  "sp2-54705": {
+   "pg": 54705,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles A. Weissert"
+  },
+  "sp2-55981": {
+   "pg": 55981,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Hannah Lynch"
+  },
+  "sp2-56126": {
+   "pg": 56126,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James Graham"
+  },
+  "sp2-56369": {
+   "pg": 56369,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Sale Barker"
+  },
+  "sp2-58473": {
+   "pg": 58473,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Harriet Gampert Higgins"
+  },
+  "sp2-59421": {
+   "pg": 59421,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jukichi Inouye"
+  },
+  "sp2-59770": {
+   "pg": 59770,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Christopher St. John"
+  },
+  "sp2-47151": {
+   "pg": 47151,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Annie Shepley Omori"
+  },
+  "sp2-48094": {
+   "pg": 48094,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederick Augustus Vanderburgh"
+  },
+  "sp2-48099": {
+   "pg": 48099,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Maclauchlan"
+  },
+  "sp2-48222": {
+   "pg": 48222,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Florence Wheelock Ayscough"
+  },
+  "sp2-49410": {
+   "pg": 49410,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jeremiah Holmes Wiffen"
+  },
+  "sp2-49696": {
+   "pg": 49696,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Edward Frye"
+  },
+  "sp2-50307": {
+   "pg": 50307,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Wentworth Higginson"
+  },
+  "sp2-50316": {
+   "pg": 50316,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Walter Thornbury"
+  },
+  "sp2-50457": {
+   "pg": 50457,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ameen Fares Rihani"
+  },
+  "sp2-51880": {
+   "pg": 51880,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Cæsar Childers"
+  },
+  "sp2-53020": {
+   "pg": 53020,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Francis Henry Cliffe"
+  },
+  "sp2-56008": {
+   "pg": 56008,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "H. W. Preston"
+  },
+  "sp2-57317": {
+   "pg": 57317,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Reynold Alleyne Nicholson"
+  },
+  "sp2-57723": {
+   "pg": 57723,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Gilbert Goudie"
+  },
+  "sp2-57857": {
+   "pg": 57857,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Terrick Hamilton"
+  },
+  "sp2-57869": {
+   "pg": 57869,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Stewart Rose"
+  },
+  "sp2-59831": {
+   "pg": 59831,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur S. Way"
+  },
+  "sp2-60471": {
+   "pg": 60471,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. Hart Edwards"
+  },
+  "sp2-60567": {
+   "pg": 60567,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Stephen Scrope"
+  },
+  "sp2-61264": {
+   "pg": 61264,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Laurence Marcellus Larson"
+  },
+  "sp2-61386": {
+   "pg": 61386,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "B. Halper"
+  },
+  "sp2-61724": {
+   "pg": 61724,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir James W. Redhouse"
+  },
+  "sp2-64623": {
+   "pg": 64623,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Gemmell"
+  },
+  "sp2-58985": {
+   "pg": 58985,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "L. J. Naylor"
+  },
+  "sp2-54991": {
+   "pg": 54991,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ivan Panin"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,153 @@
+{
+ "_about": "Public-domain E. Y. Mullins (Edgar Young Mullins, 1860-1928, Baptist, president of Southern Baptist Theological Seminary) for the Word Hoard: Why Is Christianity True? (1905), The Axioms of Religion (1908), Baptist Beliefs (1912), Freedom and Authority in Religion (1913), Studies in Ephesians and Colossians (copyright 1913), The Christian Religion in Its Doctrinal Expression (1917), The Life in Christ (1917) and Christianity at the Cross Roads (1924), raw Internet Archive OCR. Added 2026-10-10 by lane A, round 18 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "mullins"
+ ],
+ "_surname": [
+  "e. y. mullins",
+  "edgar young mullins",
+  "mullins, e. y.",
+  "mullins, edgar young",
+  "e. y. mullins, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mullins-why-christianity-true": [
+   "whyischristianit00mull",
+   "Why Is Christianity True? Christian Evidences (Chicago: Christian Culture Press, 1905)"
+  ],
+  "mullins-axioms": [
+   "axiomsofreligion00mull",
+   "The Axioms of Religion: A New Interpretation of the Baptist Faith (Philadelphia: American Baptist Publication Society; published February 1908)"
+  ],
+  "mullins-baptist-beliefs": [
+   "baptistbeliefs01mull",
+   "Baptist Beliefs (Louisville: Baptist World Publishing Co., 1912)"
+  ],
+  "mullins-freedom-authority": [
+   "cu31924029371295",
+   "Freedom and Authority in Religion (Philadelphia: Griffith and Rowland, 1913)"
+  ],
+  "mullins-ephesians-colossians": [
+   "studiesinephesia0000eymu_n7r5",
+   "Studies in Ephesians and Colossians (Nashville: Sunday School Board, Southern Baptist Convention; no year on title page, copyright 1913)"
+  ],
+  "mullins-christian-religion": [
+   "thechristianreli00mulluoft",
+   "The Christian Religion in Its Doctrinal Expression (Philadelphia: Roger Williams Press; published September 1917)"
+  ],
+  "mullins-life-in-christ": [
+   "lifeinchrist00mull",
+   "The Life in Christ (New York: Fleming H. Revell; copyright 1917)"
+  ],
+  "mullins-cross-roads": [
+   "christianityatcr0000eymu_j2q3",
+   "Christianity at the Cross Roads (New York: George H. Doran; copyright 1924)"
+  ]
+ },
+ "_alternates": {
+  "mullins-copies": "Second copies: whyischristianit0000mull, axiomsofreligion01mull, freedomauthority00mull, christianreligio0000edga_i7l1, christianityatcr0000eymu_z3c5, christianityatcr0000mull"
+ },
+ "_excluded": {
+  "mullins-late": "Baptist Beliefs Judson printings to 1974, Faith in the Modern World (1930) and other 1930-and-later books",
+  "mullins-isbe": "The International Standard Bible Encyclopaedia: he was an editor",
+  "mullins-namesakes": "Eustace Mullins and others"
+ },
+ "_identity_checked": {
+  "mullins-axioms": {
+   "author": "Title page read: \"je. 1?. muUtne, D.D., LL.D., President of Southern Baptist Theological Seminary, Author of Why is Christianity True?\" (blackletter OCR for E. Y. Mullins)."
+  }
+ },
+ "_checks": {
+  "mullins-why-christianity-true": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. y. mullins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mullins-axioms": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mullins-baptist-beliefs": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. y. mullins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mullins-freedom-authority": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. y. mullins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mullins-ephesians-colossians": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mullins, edgar young",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mullins-christian-religion": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edgar young mullins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mullins-life-in-christ": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edgar young mullins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mullins-cross-roads": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. y. mullins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

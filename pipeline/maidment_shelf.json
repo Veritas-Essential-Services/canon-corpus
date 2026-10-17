@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: George Maidment: Funck-Brentano's Legends of the Bastille (1899) and Princes and Poisoners (1901). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "george maidment"
+ ],
+ "_surname": [
+  "george maidment"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "gma-43231": [
+   43231,
+   "Legends of the Bastille"
+  ],
+  "gma-43238": [
+   43238,
+   "Princes and Poisoners: Studies of the Court of Louis XIV"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "maidment-funck-brentano-legends-of-the-bastille": {
+   "source": "gma-43231",
+   "of": "Frantz Funck-Brentano",
+   "work": "Legends of the Bastille",
+   "translated": "1899-1901 (see the Gutenberg header)",
+   "translator": "George Maidment",
+   "scan_edition": "Project Gutenberg 43231 (clean text)"
+  },
+  "maidment-funck-brentano-princes-and-poisoners-studies-of-the-cou": {
+   "source": "gma-43238",
+   "of": "Frantz Funck-Brentano",
+   "work": "Princes and Poisoners: Studies of the Court of Louis XIV",
+   "translated": "1899-1901 (see the Gutenberg header)",
+   "translator": "George Maidment",
+   "scan_edition": "Project Gutenberg 43238 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "gma-43231": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george maidment",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Maidment"
+  },
+  "gma-43238": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george maidment",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Maidment"
+  }
+ },
+ "_verified": {
+  "gma-43231": {
+   "pg": 43231,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Maidment"
+  },
+  "gma-43238": {
+   "pg": 43238,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Maidment"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

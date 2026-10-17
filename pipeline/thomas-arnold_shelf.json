@@ -1,0 +1,61 @@
+{
+ "_about": "Thomas Arnold (1795-1842), headmaster of Rugby and Regius Professor of Modern History at Oxford: History of Rome, 3 vols., third edition (London: Fellowes, 1844-1846; vol. III posthumous, ending with the Second Punic War), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). His sermons are outside the brief. No uids minted.",
+ "_name_words": [
+  "arnold"
+ ],
+ "_surname": [
+  "thomas arnold",
+  "arnold, thomas"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thomas-arnold-history-of-rome-v1-1844": [
+   "historyofrome001arno",
+   "History of Rome, third edition, vol. I (1844)"
+  ],
+  "thomas-arnold-history-of-rome-v2-1845": [
+   "historyofrome02arnoiala",
+   "History of Rome, third edition, vol. II (1845)"
+  ],
+  "thomas-arnold-history-of-rome-v3-1846": [
+   "historyofrome03arnoiala",
+   "History of Rome, third edition, vol. III (1846)"
+  ]
+ },
+ "_checks": {
+  "thomas-arnold-history-of-rome-v1-1844": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas arnold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thomas-arnold-history-of-rome-v2-1845": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas arnold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1845-1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thomas-arnold-history-of-rome-v3-1846": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas arnold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1845-1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

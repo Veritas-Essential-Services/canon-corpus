@@ -1,0 +1,213 @@
+{
+ "_about": "TRANSLATOR SHELF: Arthur G. Chater (1866-1951): Amundsen's The South Pole (1912), Nansen's In Northern Mists (1911), Brandes's Nietzsche (1914), Ellen Key's Love and Marriage (1911), Hamsun's Victoria (1923) and Duun's The Trough of the Wave (Knopf, 1930). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted.",
+ "_name_words": [
+  "arthur g. chater",
+  "a. g. chater",
+  "chater"
+ ],
+ "_surname": [
+  "arthur g. chater",
+  "a. g. chater",
+  "chater"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "cha-40633": [
+   40633,
+   "In Northern Mists: Arctic Exploration in Early Times (Volume 1 of 2)"
+  ],
+  "cha-40634": [
+   40634,
+   "In Northern Mists: Arctic Exploration in Early Times (Volume 2 of 2)"
+  ],
+  "cha-4229": [
+   4229,
+   "The South Pole; an account of the Norwegian Antarctic expedition in the \"Fram,\" 1910-12 — Volume 1 and Volume 2"
+  ],
+  "cha-47588": [
+   47588,
+   "Friedrich Nietzsche"
+  ],
+  "cha-57592": [
+   57592,
+   "Love and Marriage"
+  ],
+  "cha-74458": [
+   74458,
+   "Victoria"
+  ],
+  "cha-79140": [
+   79140,
+   "The trough of the wave"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "chater-amundsen-the-south-pole-an-account-of-the-norwegi": {
+   "source": "cha-4229",
+   "of": "Roald Amundsen",
+   "work": "The South Pole; an account of the Norwegian Antarctic expedition in the \"Fram,\" 1910-12 — Volume 1 and Volume 2",
+   "translated": "1911-1930 (see the Gutenberg header)",
+   "translator": "Arthur G. Chater",
+   "scan_edition": "Project Gutenberg 4229 (clean text)"
+  },
+  "chater-brandes-friedrich-nietzsche": {
+   "source": "cha-47588",
+   "of": "Georg Brandes",
+   "work": "Friedrich Nietzsche",
+   "translated": "1911-1930 (see the Gutenberg header)",
+   "translator": "Arthur G. Chater",
+   "scan_edition": "Project Gutenberg 47588 (clean text)"
+  },
+  "chater-duun-the-trough-of-the-wave": {
+   "source": "cha-79140",
+   "of": "Olav Duun",
+   "work": "The trough of the wave",
+   "translated": "1911-1930 (see the Gutenberg header)",
+   "translator": "Arthur G. Chater",
+   "scan_edition": "Project Gutenberg 79140 (clean text)",
+   "note": "Knopf 1930: US public domain since 2026; the copyright line was read."
+  },
+  "chater-hamsun-victoria": {
+   "source": "cha-74458",
+   "of": "Knut Hamsun",
+   "work": "Victoria",
+   "translated": "1911-1930 (see the Gutenberg header)",
+   "translator": "Arthur G. Chater",
+   "scan_edition": "Project Gutenberg 74458 (clean text)"
+  },
+  "chater-key-love-and-marriage": {
+   "source": "cha-57592",
+   "of": "Ellen Key",
+   "work": "Love and Marriage",
+   "translated": "1911-1930 (see the Gutenberg header)",
+   "translator": "Arthur G. Chater",
+   "scan_edition": "Project Gutenberg 57592 (clean text)"
+  },
+  "chater-nansen-in-northern-mists-arctic-exploration-in-vol-1": {
+   "source": "cha-40633",
+   "of": "Fridtjof Nansen",
+   "work": "In Northern Mists: Arctic Exploration in Early Times (Volume 1 of 2)",
+   "translated": "1911-1930 (see the Gutenberg header)",
+   "translator": "Arthur G. Chater",
+   "scan_edition": "Project Gutenberg 40633 (clean text)"
+  },
+  "chater-nansen-in-northern-mists-arctic-exploration-in-vol-2": {
+   "source": "cha-40634",
+   "of": "Fridtjof Nansen",
+   "work": "In Northern Mists: Arctic Exploration in Early Times (Volume 2 of 2)",
+   "translated": "1911-1930 (see the Gutenberg header)",
+   "translator": "Arthur G. Chater",
+   "scan_edition": "Project Gutenberg 40634 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "south-pole-volumes": "The South Pole's two Gutenberg volume files (3414, 3415) are left out; 4229 holds both volumes."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "cha-40633": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur g. chater",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur G. Chater"
+  },
+  "cha-40634": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur g. chater",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur G. Chater"
+  },
+  "cha-4229": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur g. chater",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur G. Chater"
+  },
+  "cha-47588": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur g. chater",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur G. Chater"
+  },
+  "cha-57592": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur g. chater",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur G. Chater"
+  },
+  "cha-74458": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur g. chater",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur G. Chater"
+  },
+  "cha-79140": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur g. chater",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur G. Chater"
+  }
+ },
+ "_verified": {
+  "cha-40633": {
+   "pg": 40633,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur G. Chater"
+  },
+  "cha-40634": {
+   "pg": 40634,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur G. Chater"
+  },
+  "cha-4229": {
+   "pg": 4229,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur G. Chater"
+  },
+  "cha-47588": {
+   "pg": 47588,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur G. Chater"
+  },
+  "cha-57592": {
+   "pg": 57592,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur G. Chater"
+  },
+  "cha-74458": {
+   "pg": 74458,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur G. Chater"
+  },
+  "cha-79140": {
+   "pg": 79140,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur G. Chater"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

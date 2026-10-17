@@ -1,0 +1,104 @@
+{
+ "_about": "TRANSLATOR SHELF: Laura E. Kendall: Verne's Ticket No. \"9672\" (1886), Ernest Daudet's Which? Or, Between Two Women (1886) and Gaboriau's A Thousand Francs Reward (1888). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "laura e. kendall",
+  "kendall"
+ ],
+ "_surname": [
+  "laura e. kendall",
+  "kendall"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "lke-13527": [
+   13527,
+   "Ticket No. \"9672\""
+  ],
+  "lke-21838": [
+   21838,
+   "Which? Or, Between Two Women"
+  ],
+  "lke-43730": [
+   43730,
+   "A Thousand Francs Reward; and, Military Sketches"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "laura-kendall-daudet-which-or-between-two-women": {
+   "source": "lke-21838",
+   "of": "Ernest Daudet",
+   "work": "Which? Or, Between Two Women",
+   "translated": "1886-1888 (see the Gutenberg header)",
+   "translator": "Laura E. Kendall",
+   "scan_edition": "Project Gutenberg 21838 (clean text)"
+  },
+  "laura-kendall-gaboriau-a-thousand-francs-reward-and-military-sk": {
+   "source": "lke-43730",
+   "of": "Emile Gaboriau",
+   "work": "A Thousand Francs Reward; and, Military Sketches",
+   "translated": "1886-1888 (see the Gutenberg header)",
+   "translator": "Laura E. Kendall",
+   "scan_edition": "Project Gutenberg 43730 (clean text)"
+  },
+  "laura-kendall-verne-ticket-no-9672": {
+   "source": "lke-13527",
+   "of": "Jules Verne",
+   "work": "Ticket No. \"9672\"",
+   "translated": "1886-1888 (see the Gutenberg header)",
+   "translator": "Laura E. Kendall",
+   "scan_edition": "Project Gutenberg 13527 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "lke-13527": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "laura e. kendall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Laura E. Kendall"
+  },
+  "lke-21838": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "laura e. kendall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Laura E. Kendall"
+  },
+  "lke-43730": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "laura e. kendall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Laura E. Kendall"
+  }
+ },
+ "_verified": {
+  "lke-13527": {
+   "pg": 13527,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Laura E. Kendall"
+  },
+  "lke-21838": {
+   "pg": 21838,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Laura E. Kendall"
+  },
+  "lke-43730": {
+   "pg": 43730,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Laura E. Kendall"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Emily Hill: Karasowski's Frederic Chopin: His Life, Letters, and Works (1879), 2 vols. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "emily hill"
+ ],
+ "_surname": [
+  "emily hill"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "emh-46573": [
+   46573,
+   "Frederic Chopin: His Life, Letters, and Works,  v. 2 (of  2)"
+  ],
+  "emh-46577": [
+   46577,
+   "Frederic Chopin: His Life, Letters, and Works,  v. 1 (of  2)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "emily-hill-karasowski-frederic-chopin-his-life-letters-and-wor-vol-1": {
+   "source": "emh-46577",
+   "of": "Maurycy Karasowski",
+   "work": "Frederic Chopin: His Life, Letters, and Works,  v. 1 (of  2)",
+   "translated": "1879 (see the Gutenberg header)",
+   "translator": "Emily Hill",
+   "scan_edition": "Project Gutenberg 46577 (clean text)"
+  },
+  "emily-hill-karasowski-frederic-chopin-his-life-letters-and-wor-vol-2": {
+   "source": "emh-46573",
+   "of": "Maurycy Karasowski",
+   "work": "Frederic Chopin: His Life, Letters, and Works,  v. 2 (of  2)",
+   "translated": "1879 (see the Gutenberg header)",
+   "translator": "Emily Hill",
+   "scan_edition": "Project Gutenberg 46573 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "emh-46573": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "emily hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "active 19th century Emily Hill"
+  },
+  "emh-46577": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "emily hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "active 19th century Emily Hill"
+  }
+ },
+ "_verified": {
+  "emh-46573": {
+   "pg": 46573,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "active 19th century Emily Hill"
+  },
+  "emh-46577": {
+   "pg": 46577,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "active 19th century Emily Hill"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

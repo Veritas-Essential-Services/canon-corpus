@@ -1,0 +1,56 @@
+{
+ "_about": "Henry George Liddell (1811-1898), Dean of Christ Church and co-author of the Greek lexicon: A History of Rome from the Earliest Times to the Establishment of the Empire, 2 vols. (London: John Murray, 1855), raw IA OCR. The lexicon itself belongs to the LEXICONS manifest, not this shelf. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "liddell"
+ ],
+ "_surname": [
+  "henry g. liddell",
+  "henry george liddell",
+  "h. g. liddell",
+  "liddell, henry george"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "liddell-history-rome-v1-1855": [
+   "ahistoryromefro04liddgoog",
+   "A History of Rome from the Earliest Times to the Establishment of the Empire, vol. I (London: John Murray, 1855)"
+  ],
+  "liddell-history-rome-v2-1855": [
+   "ahistoryrometoe00liddgoog",
+   "A History of Rome from the Earliest Times to the Establishment of the Empire, vol. II (London: John Murray, 1855)"
+  ]
+ },
+ "_checks": {
+  "liddell-history-rome-v1-1855": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "liddell-history-rome-v2-1855": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "liddell-history-rome-v1-1855": {
+   "author": "title page read 2026-10-10: OCR gives 'By henry G: LIDDELL, D.D.', in two volumes, vol. I, John Murray 1855 (Henry George Liddell); the stray colon defeats the surname test"
+  },
+  "liddell-history-rome-v2-1855": {
+   "author": "title page read 2026-10-10: OCR gives 'Bt HENEY G. LIDDELL, D.D.', in two volumes, vol. II, John Murray 1855 (Henry George Liddell); the OCR misreads HENRY"
+  }
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "_about": "TRANSLATOR SHELF: Charles Wharton Stork (1881-1971): Modern Swedish Masterpieces (1923) and Söderberg's Martin Birck's Youth (Harper, 1930). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "charles wharton stork",
+  "c. w. stork",
+  "stork"
+ ],
+ "_surname": [
+  "charles wharton stork",
+  "c. w. stork",
+  "stork"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "cws-64808": [
+   64808,
+   "Modern Swedish Masterpieces: Short Stories"
+  ],
+  "cws-78363": [
+   78363,
+   "Martin Birck's youth"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "cw-stork-soderberg-martin-birck-s-youth": {
+   "source": "cws-78363",
+   "of": "Hjalmar Söderberg",
+   "work": "Martin Birck's youth",
+   "translated": "1923-1930 (see the Gutenberg header)",
+   "translator": "Charles Wharton Stork",
+   "scan_edition": "Project Gutenberg 78363 (clean text)",
+   "note": "Harper's first edition: 'Copyright 1930, by Harper & Brothers'. A 1930 US publication entered the US public domain on 1 January 2026."
+  },
+  "cw-stork-stork-modern-swedish-masterpieces-short-storie": {
+   "source": "cws-64808",
+   "of": "Charles Wharton Stork",
+   "work": "Modern Swedish Masterpieces: Short Stories",
+   "translated": "1923-1930 (see the Gutenberg header)",
+   "translator": "Charles Wharton Stork",
+   "scan_edition": "Project Gutenberg 64808 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "cws-64808": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles wharton stork",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Wharton Stork"
+  },
+  "cws-78363": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles wharton stork",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Wharton Stork"
+  }
+ },
+ "_verified": {
+  "cws-64808": {
+   "pg": 64808,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Wharton Stork"
+  },
+  "cws-78363": {
+   "pg": 78363,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Wharton Stork"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

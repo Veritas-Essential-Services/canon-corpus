@@ -1,0 +1,184 @@
+{
+ "_about": "TRANSLATOR SHELF: Mary J. Serrano (d. 1923): Galdós's Doña Perfecta (Harper, 1895), Zola's Doctor Pascal (1893), Pardo Bazán (Cassell, 1891) and Eça de Queirós's Dragon's Teeth (1889). US public domain. Added 2026-10-10 by lane C (round 19); Adam may veto. No uids minted.",
+ "_name_words": [
+  "mary j. serrano",
+  "mary j serrano",
+  "serrano"
+ ],
+ "_surname": [
+  "mary j. serrano",
+  "mary j serrano",
+  "serrano"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ser-10720": [
+   10720,
+   "Doctor Pascal"
+  ],
+  "ser-2462": [
+   2462,
+   "Doña Perfecta"
+  ],
+  "ser-54105": [
+   54105,
+   "The Swan of Vilamorta"
+  ],
+  "ser-54577": [
+   54577,
+   "A Wedding Trip"
+  ],
+  "ser-54742": [
+   54742,
+   "Morriña (Homesickness)"
+  ],
+  "ser-74442": [
+   74442,
+   "Dragon's teeth"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "serrano-bazan-a-wedding-trip": {
+   "source": "ser-54577",
+   "of": "Emilia Pardo Bazán",
+   "work": "A Wedding Trip",
+   "translated": "1889-1895 (see the Gutenberg header)",
+   "translator": "Mary J. Serrano",
+   "scan_edition": "Project Gutenberg 54577 (clean text)"
+  },
+  "serrano-bazan-morrina-homesickness": {
+   "source": "ser-54742",
+   "of": "Emilia Pardo Bazán",
+   "work": "Morriña (Homesickness)",
+   "translated": "1889-1895 (see the Gutenberg header)",
+   "translator": "Mary J. Serrano",
+   "scan_edition": "Project Gutenberg 54742 (clean text)"
+  },
+  "serrano-bazan-the-swan-of-vilamorta": {
+   "source": "ser-54105",
+   "of": "Emilia Pardo Bazán",
+   "work": "The Swan of Vilamorta",
+   "translated": "1889-1895 (see the Gutenberg header)",
+   "translator": "Mary J. Serrano",
+   "scan_edition": "Project Gutenberg 54105 (clean text)"
+  },
+  "serrano-galdos-dona-perfecta": {
+   "source": "ser-2462",
+   "of": "Benito Pérez Galdós",
+   "work": "Doña Perfecta",
+   "translated": "1889-1895 (see the Gutenberg header)",
+   "translator": "Mary J. Serrano",
+   "scan_edition": "Project Gutenberg 2462 (clean text)"
+  },
+  "serrano-queiros-dragon-s-teeth": {
+   "source": "ser-74442",
+   "of": "Eça de Queirós",
+   "work": "Dragon's teeth",
+   "translated": "1889-1895 (see the Gutenberg header)",
+   "translator": "Mary J. Serrano",
+   "scan_edition": "Project Gutenberg 74442 (clean text)"
+  },
+  "serrano-zola-doctor-pascal": {
+   "source": "ser-10720",
+   "of": "Émile Zola",
+   "work": "Doctor Pascal",
+   "translated": "1889-1895 (see the Gutenberg header)",
+   "translator": "Mary J. Serrano",
+   "scan_edition": "Project Gutenberg 10720 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ser-10720": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. serrano",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Serrano"
+  },
+  "ser-2462": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. serrano",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Serrano"
+  },
+  "ser-54105": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. serrano",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Serrano"
+  },
+  "ser-54577": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. serrano",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Serrano"
+  },
+  "ser-54742": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. serrano",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Serrano"
+  },
+  "ser-74442": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary j. serrano",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary J. Serrano"
+  }
+ },
+ "_verified": {
+  "ser-10720": {
+   "pg": 10720,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Serrano"
+  },
+  "ser-2462": {
+   "pg": 2462,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Serrano"
+  },
+  "ser-54105": {
+   "pg": 54105,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Serrano"
+  },
+  "ser-54577": {
+   "pg": 54577,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Serrano"
+  },
+  "ser-54742": {
+   "pg": 54742,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Serrano"
+  },
+  "ser-74442": {
+   "pg": 74442,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary J. Serrano"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

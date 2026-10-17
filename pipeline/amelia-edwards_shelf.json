@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Amelia B. Edwards (1831-1892): Maspero's Manual of Egyptian Archaeology (1887) and Fanny Loviot's A Lady's Captivity among Chinese Pirates (1858). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "amelia b. edwards"
+ ],
+ "_surname": [
+  "amelia b. edwards"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "abe-14400": [
+   14400,
+   "Manual of Egyptian Archaeology and Guide to the Study of Antiquities in Egypt"
+  ],
+  "abe-34167": [
+   34167,
+   "A lady's captivity among Chinese pirates in the Chinese seas"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "amelia-edwards-loviot-a-lady-s-captivity-among-chinese-pirates": {
+   "source": "abe-34167",
+   "of": "Fanny Loviot",
+   "work": "A lady's captivity among Chinese pirates in the Chinese seas",
+   "translated": "1858-1887 (see the Gutenberg header)",
+   "translator": "Amelia B. Edwards",
+   "scan_edition": "Project Gutenberg 34167 (clean text)"
+  },
+  "amelia-edwards-maspero-manual-of-egyptian-archaeology-and-guide": {
+   "source": "abe-14400",
+   "of": "Gaston Maspero",
+   "work": "Manual of Egyptian Archaeology and Guide to the Study of Antiquities in Egypt",
+   "translated": "1858-1887 (see the Gutenberg header)",
+   "translator": "Amelia B. Edwards",
+   "scan_edition": "Project Gutenberg 14400 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "abe-14400": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "amelia b. edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Amelia B. Edwards"
+  },
+  "abe-34167": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "amelia b. edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Amelia B. Edwards"
+  }
+ },
+ "_verified": {
+  "abe-14400": {
+   "pg": 14400,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Amelia B. Edwards"
+  },
+  "abe-34167": {
+   "pg": 34167,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Amelia B. Edwards"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

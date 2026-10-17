@@ -1,0 +1,287 @@
+{
+ "_about": "Public-domain Alfred Edersheim (1825-1889, Hebrew Christian scholar, Church of England) for the Word Hoard: The Temple, its Ministry and Services and Sketches of Jewish Social Life from CCEL (Hodder and Stoughton, 1904), and from Internet Archive scans The Life and Times of Jesus the Messiah (two volumes, second edition, 1884), the seven-volume Bible History (Religious Tract Society, 1875-1887), History of the Jewish Nation (1856), The Golden Diary (1866), Elisha the Prophet, Prophecy and History in relation to the Messiah (1885) and Jesus the Messiah (1890). Raw OCR for the scans. Added 2026-10-10 by lane A, round 21 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "edersheim",
+ "_name_words": [
+  "edersheim"
+ ],
+ "_surname": [
+  "alfred edersheim",
+  "edersheim, alfred",
+  "dr. edersheim",
+  "rev. dr. edersheim",
+  "alfred edersheim, d.d., ph.d.",
+  "the rev. dr. edersheim"
+ ],
+ "_held": {},
+ "ccel": {
+  "edersheim-temple": [
+   "temple",
+   "The Temple, its Ministry and Services as they were at the Time of Jesus Christ (London: Hodder and Stoughton, 1904)",
+   ""
+  ],
+  "edersheim-sketches": [
+   "sketches",
+   "Sketches of Jewish Social Life in the Days of Christ (London: Hodder and Stoughton, 1904)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "edersheim-life-times-1": [
+   "india.history.resource.89536",
+   "The Life and Times of Jesus the Messiah, vol. 1, second edition (London: Longmans, Green, 1884)",
+   "89536_djvu.txt"
+  ],
+  "edersheim-life-times-2": [
+   "india.history.resource.89535",
+   "The Life and Times of Jesus the Messiah, vol. 2, second edition (London: Longmans, Green, 1884)",
+   "89535_djvu.txt"
+  ],
+  "edersheim-bible-history-1": [
+   "the-world-before-the-flood-and-the-history-of-the-patriarchs",
+   "Bible History, vol. 1: The World before the Flood, and the History of the Patriarchs (London: Religious Tract Society; no year on title page, catalogued 1875)",
+   "The World Before the Flood and the History of the Patriarchs_djvu.txt"
+  ],
+  "edersheim-bible-history-2": [
+   "biblehistory02eder",
+   "Bible History, vol. 2: The Exodus and the Wanderings in the Wilderness (London: Religious Tract Society; no year on title page; preface February 1876)"
+  ],
+  "edersheim-bible-history-3": [
+   "israelincanaanun00eder",
+   "Bible History, vol. 3: Israel in Canaan under Joshua and the Judges (London: Religious Tract Society; 4 Bouverie Street printing, no year on title page, catalogued 1877)"
+  ],
+  "edersheim-bible-history-4": [
+   "biblehistory04eder",
+   "Bible History, vol. 4: Israel under Samuel, Saul, and David, to the Birth of Solomon (London: Religious Tract Society; no year on title page, catalogued 1875)"
+  ],
+  "edersheim-bible-history-5": [
+   "biblehistory05eder",
+   "Bible History, vol. 5: History of Judah and Israel from the Birth of Solomon to the Reign of Ahab (London: Religious Tract Society; no year on title page; preface Easter 1880)"
+  ],
+  "edersheim-bible-history-6": [
+   "biblehistory06eder",
+   "Bible History, vol. 6: The History of Israel and Judah from the Reign of Ahab to the Decline of the Two Kingdoms (London: Religious Tract Society; no year on title page, catalogued 1875)"
+  ],
+  "edersheim-bible-history-7": [
+   "biblehistory07eder",
+   "Bible History, vol. 7: History of Israel and Judah from the Decline of the Two Kingdoms to the Assyrian and Babylonian Captivity (London: Religious Tract Society; 1887)"
+  ],
+  "edersheim-jewish-nation": [
+   "historyofjewishn0000eder_s1v8",
+   "History of the Jewish Nation after the Destruction of Jerusalem under Titus, original edition (Edinburgh: Thomas Constable; year illegible, preface 3 May 1856)"
+  ],
+  "edersheim-golden-diary": [
+   "TheGoldenDiaryOfHeart",
+   "The Golden Diary of Heart Converse with Jesus in the Book of Psalms (London: James Nisbet, 1866)"
+  ],
+  "edersheim-elisha": [
+   "A.Edersheim1882ElishaTheProphet",
+   "Elisha the Prophet: the Lessons of his History and Times, new edition revised (London: Religious Tract Society; no year on title page, preface August 1882)",
+   "1882_edersheim_elishaTheProphet_djvu.txt"
+  ],
+  "edersheim-prophecy-history": [
+   "prophecyhistoryi00eder",
+   "Prophecy and History in relation to the Messiah, the Warburton Lectures 1880-1884 (London: Longmans, Green, 1885)"
+  ],
+  "edersheim-jesus-the-messiah": [
+   "jesusthemessiaha00ederuoft",
+   "Jesus the Messiah, his own abridgment of The Life and Times, author's edition, with a preface by W. Sanday (New York: Randolph; copyright 1890)"
+  ]
+ },
+ "_alternates": {
+  "edersheim-ccel-lifetimes": "CCEL edersheim/lifetimes: keyed from the 1953 Eerdmans reprint; the 1884 Longmans scans are shelved instead",
+  "edersheim-temple-sketches-ia": "The Temple and Sketches, RTS first printings (IA templeitsminist00eder, sketchesofjewish00ederrich) and American issues (James Pott, Ira Bradley, 1881): CCEL's text is shelved",
+  "edersheim-editions": "Other editions of Life and Times (1886, 1887, 1900, Herrick), Bible History (Revell), Prophecy and History (prophecyandhisto00ederuoft, title-page year OCR'd 1865) and Jesus the Messiah (1898)",
+  "edersheim-jewish-nation-white": "History of the Jewish Nation, third edition revised by Henry A. White (1896)"
+ },
+ "_excluded": {
+  "edersheim-translations": "his translations of Kurtz, Chalybaus and Lange, and The Jubilee Rhythm of St. Bernard",
+  "edersheim-giles": "books by his daughter Elise W. Giles",
+  "edersheim-reprints": "reprints from 1942 onward and Spanish translations"
+ },
+ "_rights_checked": {
+  "edersheim-elisha": "title page read: Religious Tract Society, 56 Paternoster Row, new edition revised, no year; preface Bridport August 1882; author died 1889"
+ },
+ "_pending": {},
+ "_checks": {
+  "edersheim-temple": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred edersheim",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Hodder and Stoughton, 1904",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "edersheim-sketches": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred edersheim",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Hodder and Stoughton, 1904",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "edersheim-life-times-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred edersheim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "edersheim-life-times-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred edersheim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "edersheim-bible-history-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dr. edersheim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "edersheim-bible-history-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dr. edersheim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edersheim-bible-history-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred edersheim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "edersheim-bible-history-4": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred edersheim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edersheim-bible-history-5": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred edersheim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edersheim-bible-history-6": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred edersheim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edersheim-bible-history-7": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred edersheim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edersheim-jewish-nation": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred edersheim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "edersheim-golden-diary": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred edersheim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "edersheim-elisha": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred edersheim",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Religious Tract Society, 56 Paternoster Row, new edition revised, no year; preface Bridport August 1882; author died 1889"
+  },
+  "edersheim-prophecy-history": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred edersheim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "edersheim-jesus-the-messiah": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred edersheim",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "c1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

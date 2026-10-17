@@ -1,0 +1,130 @@
+{
+ "_about": "TRANSLATOR SHELF: Arthur Livingston (1883-1944): Blasco Ibáñez's Mayflower, Quiroga's South American Jungle Tales (1922), Farrère's The House of the Secret and Montessori's Elementary Material (1917). Printings before 1931 only. His Torrent, with Isaac Goldberg, is on isaac-goldberg_shelf.json. US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_name_words": [
+  "arthur livingston"
+ ],
+ "_surname": [
+  "arthur livingston"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "liv-29577": [
+   29577,
+   "Mayflower (Flor de mayo): A Tale of the Valencian Seashore"
+  ],
+  "liv-42869": [
+   42869,
+   "The Montessori Elementary Material"
+  ],
+  "liv-46051": [
+   46051,
+   "South American Jungle Tales"
+  ],
+  "liv-65709": [
+   65709,
+   "The House of the Secret (La maison des hommes vivants)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "livingston-farrere-the-house-of-the-secret-la-maison-des-ho": {
+   "source": "liv-65709",
+   "of": "Claude Farrère",
+   "work": "The House of the Secret (La maison des hommes vivants)",
+   "translated": "1917-1923 (see the Gutenberg header)",
+   "translator": "Arthur Livingston",
+   "scan_edition": "Project Gutenberg 65709 (clean text)"
+  },
+  "livingston-ibanez-mayflower-flor-de-mayo-a-tale-of-the-val": {
+   "source": "liv-29577",
+   "of": "Vicente Blasco Ibáñez",
+   "work": "Mayflower (Flor de mayo): A Tale of the Valencian Seashore",
+   "translated": "1917-1923 (see the Gutenberg header)",
+   "translator": "Arthur Livingston",
+   "scan_edition": "Project Gutenberg 29577 (clean text)"
+  },
+  "livingston-montessori-the-montessori-elementary-material": {
+   "source": "liv-42869",
+   "of": "Maria Montessori",
+   "work": "The Montessori Elementary Material",
+   "translated": "1917-1923 (see the Gutenberg header)",
+   "translator": "Arthur Livingston",
+   "scan_edition": "Project Gutenberg 42869 (clean text)"
+  },
+  "livingston-quiroga-south-american-jungle-tales": {
+   "source": "liv-46051",
+   "of": "Horacio Quiroga",
+   "work": "South American Jungle Tales",
+   "translated": "1917-1923 (see the Gutenberg header)",
+   "translator": "Arthur Livingston",
+   "scan_edition": "Project Gutenberg 46051 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-11674": "The Torrent (with Isaac Goldberg) is on isaac-goldberg_shelf.json."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "liv-29577": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur livingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Livingston"
+  },
+  "liv-42869": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur livingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Livingston"
+  },
+  "liv-46051": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur livingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Livingston"
+  },
+  "liv-65709": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur livingston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Livingston"
+  }
+ },
+ "_verified": {
+  "liv-29577": {
+   "pg": 29577,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Livingston"
+  },
+  "liv-42869": {
+   "pg": 42869,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Livingston"
+  },
+  "liv-46051": {
+   "pg": 46051,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Livingston"
+  },
+  "liv-65709": {
+   "pg": 65709,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Livingston"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

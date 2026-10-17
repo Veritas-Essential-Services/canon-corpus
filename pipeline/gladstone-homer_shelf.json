@@ -1,0 +1,56 @@
+{
+ "_about": "William Ewart Gladstone (1809-1898), Studies on Homer and the Homeric Age (Oxford, 1858). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Studies on Homer and the Homeric Age, vol. 1, Studies on Homer and the Homeric Age, vol. 2, Studies on Homer and the Homeric Age, vol. 3, clean Gutenberg. The shelf is for his Homeric work only; his politics are outside the brief. No uids minted.",
+ "_name_words": [
+  "gladstone"
+ ],
+ "_surname": [
+  "w. e. gladstone",
+  "william ewart gladstone",
+  "gladstone, w. e"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gladstone-studies-homer-v1": [
+   47356,
+   "Studies on Homer and the Homeric Age, vol. 1"
+  ],
+  "gladstone-studies-homer-v2": [
+   49858,
+   "Studies on Homer and the Homeric Age, vol. 2"
+  ],
+  "gladstone-studies-homer-v3": [
+   53004,
+   "Studies on Homer and the Homeric Age, vol. 3"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "gladstone-studies-homer-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. e. gladstone",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gladstone-studies-homer-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. e. gladstone",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gladstone-studies-homer-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. e. gladstone",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

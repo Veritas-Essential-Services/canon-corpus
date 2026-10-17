@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: Kenneth R. H. Mackenzie (1833-1886): Master Tyll Owlglass (Till Eulenspiegel, 1860) and Hesekiel's Life of Bismarck (1870). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "kenneth r. h. mackenzie",
+  "k. r. h. mackenzie",
+  "kenneth robert henderson mackenzie"
+ ],
+ "_surname": [
+  "kenneth r. h. mackenzie",
+  "k. r. h. mackenzie",
+  "kenneth robert henderson mackenzie"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "krm-55035": [
+   55035,
+   "The Marvellous Adventures and Rare Conceits of Master Tyll Owlglass Newly collected, chronicled and set forth, in our English tongue"
+  ],
+  "krm-58776": [
+   58776,
+   "The Life of Bismarck, Private and Political With Descriptive Notices of His Ancestry"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "krh-mackenzie-hesekiel-the-life-of-bismarck-private-and-politic": {
+   "source": "krm-58776",
+   "of": "George Hesekiel",
+   "work": "The Life of Bismarck, Private and Political With Descriptive Notices of His Ancestry",
+   "translated": "1860-1870 (see the Gutenberg header)",
+   "translator": "Kenneth R. H. Mackenzie",
+   "scan_edition": "Project Gutenberg 58776 (clean text)"
+  },
+  "krh-mackenzie-owlglass-the-marvellous-adventures-and-rare-conce": {
+   "source": "krm-55035",
+   "of": "anonymous (the Till Eulenspiegel chapbook)",
+   "work": "The Marvellous Adventures and Rare Conceits of Master Tyll Owlglass Newly collected, chronicled and set forth, in our English tongue",
+   "translated": "1860-1870 (see the Gutenberg header)",
+   "translator": "Kenneth R. H. Mackenzie",
+   "scan_edition": "Project Gutenberg 55035 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "krm-55035": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kenneth r. h. mackenzie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Kenneth R. H. Mackenzie"
+  },
+  "krm-58776": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kenneth r. h. mackenzie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Kenneth R. H. Mackenzie"
+  }
+ },
+ "_verified": {
+  "krm-55035": {
+   "pg": 55035,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Kenneth R. H. Mackenzie"
+  },
+  "krm-58776": {
+   "pg": 58776,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Kenneth R. H. Mackenzie"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

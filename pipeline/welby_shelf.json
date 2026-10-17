@@ -1,0 +1,104 @@
+{
+ "_about": "TRANSLATOR SHELF: Frances A. Welby (1862-1947): Flammarion's Astronomy for Amateurs (1904), Ribot's The Evolution of General Ideas (1899) and Ostwald's Maxim Gorki (1905). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_name_words": [
+  "frances a. welby",
+  "welby"
+ ],
+ "_surname": [
+  "frances a. welby",
+  "welby"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "fwe-22046": [
+   22046,
+   "Maxim Gorki"
+  ],
+  "fwe-25267": [
+   25267,
+   "Astronomy for Amateurs"
+  ],
+  "fwe-70911": [
+   70911,
+   "The evolution of general ideas"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "welby-flammarion-astronomy-for-amateurs": {
+   "source": "fwe-25267",
+   "of": "Camille Flammarion",
+   "work": "Astronomy for Amateurs",
+   "translated": "1899-1905 (see the Gutenberg header)",
+   "translator": "Frances A. Welby",
+   "scan_edition": "Project Gutenberg 25267 (clean text)"
+  },
+  "welby-ostwald-maxim-gorki": {
+   "source": "fwe-22046",
+   "of": "Hans Ostwald",
+   "work": "Maxim Gorki",
+   "translated": "1899-1905 (see the Gutenberg header)",
+   "translator": "Frances A. Welby",
+   "scan_edition": "Project Gutenberg 22046 (clean text)"
+  },
+  "welby-ribot-the-evolution-of-general-ideas": {
+   "source": "fwe-70911",
+   "of": "Th. (Théodule) Ribot",
+   "work": "The evolution of general ideas",
+   "translated": "1899-1905 (see the Gutenberg header)",
+   "translator": "Frances A. Welby",
+   "scan_edition": "Project Gutenberg 70911 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "fwe-22046": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frances a. welby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frances A. Welby"
+  },
+  "fwe-25267": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frances a. welby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frances A. Welby"
+  },
+  "fwe-70911": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frances a. welby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frances A. Welby"
+  }
+ },
+ "_verified": {
+  "fwe-22046": {
+   "pg": 22046,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frances A. Welby"
+  },
+  "fwe-25267": {
+   "pg": 25267,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frances A. Welby"
+  },
+  "fwe-70911": {
+   "pg": 70911,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frances A. Welby"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

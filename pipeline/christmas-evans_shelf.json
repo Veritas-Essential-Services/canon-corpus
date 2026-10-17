@@ -1,0 +1,85 @@
+{
+ "_about": "Public-domain Christmas Evans (1766-1838, Welsh Baptist preacher) for the Word Hoard: his Sermons in the 1857 Philadelphia edition (a new translation from the Welsh, with a memoir by Joseph Cross; Project Gutenberg), plus three biographies by other hands: Edwin Paxton Hood's Christmas Evans, the Preacher of Wild Wales (PG, 1888 text), David Rhys Stephen's Memoirs (1847) and D. Phillips's Memoir (catalogued 1843). Evans wrote in Welsh; the translator of the sermons is not named on the title page as read, so none is claimed. Added 2026-10-10 by lane A, round 17 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "evans",
+  "christmas"
+ ],
+ "_surname": [
+  "christmas evans",
+  "evans, christmas",
+  "rev. christmas evans",
+  "the rev. christmas evans"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "evans-sermons": [
+   "42340",
+   "Sermons of Christmas Evans: A New Translation from the Welsh, with a Memoir and Portraiture of the Author by Joseph Cross (Philadelphia: Leary & Getz, 1857)"
+  ],
+  "evans-hood-life": [
+   "41480",
+   "Christmas Evans, the Preacher of Wild Wales, by Edwin Paxton Hood (biography; transcribed from the London: Hodder and Stoughton 3rd ed., 1888)"
+  ]
+ },
+ "internet_archive": {
+  "evans-stephen-memoirs": [
+   "memoirslatechri00stepgoog",
+   "Memoirs of the Late Christmas Evans, of Wales, by David Rhys Stephen (biography; London: Aylott and Jones, 1847)"
+  ],
+  "evans-phillips-memoir": [
+   "reverendevens00philuoft",
+   "Memoir of the Life, Labors, and Extensive Usefulness of the Rev. Christmas Evans, by D. Phillips (biography; catalogued New York: M. W. Dodd, 1843)"
+  ]
+ },
+ "_alternates": {
+  "evans-sermons-scan": "Sermons, same Cross edition, scan (IA cu31924032172466); also Richmond: John Early, 1850 (IA sermonsofchristm01evan)"
+ },
+ "_excluded": {
+  "evans-late": "IA sermonsmemoirsof0000evan (Kregel 1986) and christmasevans0000unse (1938): after 1930",
+  "evans-elegies": "IA wg35-5-41/42: 1838 Welsh elegies, 4 pages",
+  "evans-1848": "IA sermonsofchristm00evan_1 (1848): returned 500, unverified"
+ },
+ "_checks": {
+  "evans-sermons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "christmas evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph Cross"
+  },
+  "evans-hood-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "christmas evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evans-stephen-memoirs": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "christmas evans",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "evans-phillips-memoir": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "christmas evans",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

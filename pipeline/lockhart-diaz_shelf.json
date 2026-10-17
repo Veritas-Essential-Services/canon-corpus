@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: John Ingram Lockhart: The Memoirs of the Conquistador Bernal Díaz del Castillo (1844, 2 vols). US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_name_words": [
+  "john ingram lockhart",
+  "lockhart"
+ ],
+ "_surname": [
+  "john ingram lockhart",
+  "lockhart"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "loc-32474": [
+   32474,
+   "The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 1 (of 2) Written by Himself Containing a True and Full Account of the Discovery and Conquest of Mexico and New Spain."
+  ],
+  "loc-32475": [
+   32475,
+   "The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 2 (of 2) Written by Himself Containing a True and Full Account of the Discovery and Conquest of Mexico and New Spain."
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "lockhart-diaz-memoirs-of-bernal-diaz-del-castillo-vol-1": {
+   "source": "loc-32474",
+   "of": "Bernal Díaz del Castillo",
+   "work": "The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 1 (of 2) Written by Himself Containing a True and Full Account of the Discovery and Conquest of Mexico and New Spain.",
+   "translated": "1844 (see the Gutenberg header)",
+   "translator": "John Ingram Lockhart",
+   "scan_edition": "Project Gutenberg 32474 (clean text)"
+  },
+  "lockhart-diaz-memoirs-of-bernal-diaz-del-castillo-vol-2": {
+   "source": "loc-32475",
+   "of": "Bernal Díaz del Castillo",
+   "work": "The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 2 (of 2) Written by Himself Containing a True and Full Account of the Discovery and Conquest of Mexico and New Spain.",
+   "translated": "1844 (see the Gutenberg header)",
+   "translator": "John Ingram Lockhart",
+   "scan_edition": "Project Gutenberg 32475 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "loc-32474": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john ingram lockhart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Ingram Lockhart"
+  },
+  "loc-32475": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john ingram lockhart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Ingram Lockhart"
+  }
+ },
+ "_verified": {
+  "loc-32474": {
+   "pg": 32474,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Ingram Lockhart"
+  },
+  "loc-32475": {
+   "pg": 32475,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Ingram Lockhart"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

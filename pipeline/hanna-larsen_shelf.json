@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Hanna Astrup Larsen (1873-1945): J. P. Jacobsen's Marie Grubbe (1917) and Niels Lyhne (1919), for the American-Scandinavian Foundation. US public domain. Added 2026-10-10 by lane C (round 31); Adam may veto. No uids minted.",
+ "_name_words": [
+  "hanna astrup larsen",
+  "larsen"
+ ],
+ "_surname": [
+  "hanna astrup larsen",
+  "larsen"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "hal-54845": [
+   54845,
+   "Marie Grubbe, a Lady of the Seventeenth Century"
+  ],
+  "hal-55389": [
+   55389,
+   "Niels Lyhne"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "hanna-larsen-jacobsen-marie-grubbe-a-lady-of-the-seventeenth-c": {
+   "source": "hal-54845",
+   "of": "J. P. (Jens Peter) Jacobsen",
+   "work": "Marie Grubbe, a Lady of the Seventeenth Century",
+   "translated": "1917-1919 (see the Gutenberg header)",
+   "translator": "Hanna Astrup Larsen",
+   "scan_edition": "Project Gutenberg 54845 (clean text)"
+  },
+  "hanna-larsen-jacobsen-niels-lyhne": {
+   "source": "hal-55389",
+   "of": "J. P. (Jens Peter) Jacobsen",
+   "work": "Niels Lyhne",
+   "translated": "1917-1919 (see the Gutenberg header)",
+   "translator": "Hanna Astrup Larsen",
+   "scan_edition": "Project Gutenberg 55389 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "hal-54845": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hanna astrup larsen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Hanna Astrup Larsen"
+  },
+  "hal-55389": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hanna astrup larsen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Hanna Astrup Larsen"
+  }
+ },
+ "_verified": {
+  "hal-54845": {
+   "pg": 54845,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Hanna Astrup Larsen"
+  },
+  "hal-55389": {
+   "pg": 55389,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Hanna Astrup Larsen"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

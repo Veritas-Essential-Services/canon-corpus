@@ -1,0 +1,1341 @@
+{
+ "_about": "SINGLE-TRANSLATION SHELF: one-off translations of novels, plays and poems: Lermontov's A Hero of Our Time, Azuela's The Underdogs (1929), Pushkin's Eugene Onegin (Spalding, 1881) and Boris Godunov, Mickiewicz's Pan Tadeusz and Konrad Wallenrod, Botchan, Maria Chapdelaine, Huysmans's Against the Grain and Là-bas, the Noh plays from Fenollosa's manuscripts (Pound), Cervantes's Exemplary Novels, Novalis, Holberg, Kalidasa, Leopardi, Emma Lazarus's Heine and others. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 40); Adam may veto. No uids minted.",
+ "_name_words": [
+  "a. r. waller",
+  "agnes lee",
+  "agnes louise symmers",
+  "alfred hayes",
+  "alfred rayney waller",
+  "anna grabow",
+  "dorothea prall",
+  "e. munguía",
+  "elizur wright",
+  "emma lazarus",
+  "enrique munguía",
+  "ernest fenollosa",
+  "frederic schenck",
+  "frederick townsend",
+  "friedrich von schlegel",
+  "george rapall noyes",
+  "helen maria williams",
+  "henninge margrethe krohn schanche",
+  "henry spalding",
+  "j. h. wisdom",
+  "j. k. m. shirazi",
+  "james c. brogan",
+  "john gierlow",
+  "john howard",
+  "joseph charles mellish",
+  "jules cambon",
+  "juliet m. soskice",
+  "keene wallis",
+  "kendall warren",
+  "louis napoleon parker",
+  "ludwig tieck",
+  "marr murray",
+  "maude ashurst biggs",
+  "miriam s. knight",
+  "oscar james campbell",
+  "philip dwight jones",
+  "ralph t. h. griffith",
+  "ralph thomas hotchkin griffith",
+  "richard hovey",
+  "stanley young",
+  "thomas constable",
+  "w. blaydes",
+  "w. h. blake",
+  "w. taylor",
+  "walter k. kelly",
+  "walter keating kelly",
+  "william blaydes",
+  "william hume blake",
+  "william taylor",
+  "yasotaro mori"
+ ],
+ "_surname": [
+  "a. r. waller",
+  "agnes lee",
+  "agnes louise symmers",
+  "alfred hayes",
+  "alfred rayney waller",
+  "anna grabow",
+  "dorothea prall",
+  "e. munguía",
+  "elizur wright",
+  "emma lazarus",
+  "enrique munguía",
+  "ernest fenollosa",
+  "frederic schenck",
+  "frederick townsend",
+  "friedrich von schlegel",
+  "george rapall noyes",
+  "helen maria williams",
+  "henninge margrethe krohn schanche",
+  "henry spalding",
+  "j. h. wisdom",
+  "j. k. m. shirazi",
+  "james c. brogan",
+  "john gierlow",
+  "john howard",
+  "joseph charles mellish",
+  "jules cambon",
+  "juliet m. soskice",
+  "keene wallis",
+  "kendall warren",
+  "louis napoleon parker",
+  "ludwig tieck",
+  "marr murray",
+  "maude ashurst biggs",
+  "miriam s. knight",
+  "oscar james campbell",
+  "philip dwight jones",
+  "ralph t. h. griffith",
+  "ralph thomas hotchkin griffith",
+  "richard hovey",
+  "stanley young",
+  "thomas constable",
+  "w. blaydes",
+  "w. h. blake",
+  "w. taylor",
+  "walter k. kelly",
+  "walter keating kelly",
+  "william blaydes",
+  "william hume blake",
+  "william taylor",
+  "yasotaro mori"
+ ],
+ "_surname_by_slug": {
+  "sli-913": [
+   "j. h. wisdom",
+   "marr murray",
+   "murray",
+   "wisdom"
+  ],
+  "sli-549": [
+   "e. munguía",
+   "enrique munguía",
+   "munguía"
+  ],
+  "sli-1466": [
+   "j. k. m. shirazi",
+   "shirazi"
+  ],
+  "sli-2077": [
+   "blaydes",
+   "w. blaydes",
+   "william blaydes"
+  ],
+  "sli-2194": [
+   "stanley young",
+   "young"
+  ],
+  "sli-2196": [
+   "cambon",
+   "jules cambon"
+  ],
+  "sli-2543": [
+   "constable",
+   "thomas constable"
+  ],
+  "sli-3820": [
+   "taylor",
+   "w. taylor",
+   "william taylor"
+  ],
+  "sli-4383": [
+   "blake",
+   "w. h. blake",
+   "william hume blake"
+  ],
+  "sli-5089": [
+   "alfred hayes",
+   "hayes"
+  ],
+  "sli-5749": [
+   "campbell",
+   "frederic schenck",
+   "oscar james campbell",
+   "schenck"
+  ],
+  "sli-6765": [
+   "anna grabow",
+   "grabow"
+  ],
+  "sli-6791": [
+   "joseph charles mellish",
+   "mellish"
+  ],
+  "sli-7241": [
+   "elizur wright",
+   "wright"
+  ],
+  "sli-8094": [
+   "ernest fenollosa",
+   "fenollosa"
+  ],
+  "sli-8868": [
+   "mori",
+   "yasotaro mori"
+  ],
+  "sli-9619": [
+   "juliet m. soskice",
+   "soskice"
+  ],
+  "sli-9869": [
+   "kendall warren",
+   "warren"
+  ],
+  "sli-10006": [
+   "brogan",
+   "james c. brogan"
+  ],
+  "sli-10859": [
+   "helen maria williams",
+   "williams"
+  ],
+  "sli-12341": [
+   "howard",
+   "john howard"
+  ],
+  "sli-13329": [
+   "hovey",
+   "richard hovey"
+  ],
+  "sli-14323": [
+   "keene wallis",
+   "wallis"
+  ],
+  "sli-14420": [
+   "kelly",
+   "walter k. kelly",
+   "walter keating kelly"
+  ],
+  "sli-23997": [
+   "henry spalding",
+   "spalding"
+  ],
+  "sli-28240": [
+   "george rapall noyes",
+   "noyes"
+  ],
+  "sli-31873": [
+   "friedrich von schlegel",
+   "ludwig tieck",
+   "schlegel",
+   "tieck"
+  ],
+  "sli-31968": [
+   "griffith",
+   "ralph t. h. griffith",
+   "ralph thomas hotchkin griffith"
+  ],
+  "sli-19315": [
+   "frederick townsend",
+   "townsend"
+  ],
+  "sli-30012": [
+   "louis napoleon parker",
+   "parker"
+  ],
+  "sli-34050": [
+   "biggs",
+   "maude ashurst biggs"
+  ],
+  "sli-27884": [
+   "gierlow",
+   "john gierlow"
+  ],
+  "sli-27179": [
+   "dorothea prall",
+   "prall"
+  ],
+  "sli-17455": [
+   "knight",
+   "miriam s. knight"
+  ],
+  "sli-21937": [
+   "henninge margrethe krohn schanche",
+   "schanche"
+  ],
+  "sli-31726": [
+   "emma lazarus",
+   "lazarus"
+  ],
+  "sli-29521": [
+   "agnes lee",
+   "lee"
+  ],
+  "sli-34647": [
+   "agnes louise symmers",
+   "symmers"
+  ],
+  "sli-2536": [
+   "a. r. waller",
+   "alfred rayney waller",
+   "waller"
+  ],
+  "sli-2992": [
+   "jones",
+   "philip dwight jones"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "sli-913": [
+   913,
+   "A Hero of Our Time"
+  ],
+  "sli-549": [
+   549,
+   "The Underdogs: A Novel of the Mexican Revolution"
+  ],
+  "sli-1466": [
+   1466,
+   "Creatures That Once Were Men"
+  ],
+  "sli-2077": [
+   2077,
+   "The Nabob"
+  ],
+  "sli-2194": [
+   2194,
+   "Mauprat"
+  ],
+  "sli-2196": [
+   2196,
+   "An Iceland Fisherman"
+  ],
+  "sli-2543": [
+   2543,
+   "Polyeucte"
+  ],
+  "sli-3820": [
+   3820,
+   "Nathan the Wise; a dramatic poem in five acts"
+  ],
+  "sli-4383": [
+   4383,
+   "Maria Chapdelaine: A Tale of the Lake St. John Country"
+  ],
+  "sli-5089": [
+   5089,
+   "Boris Godunov: a drama in verse"
+  ],
+  "sli-5749": [
+   5749,
+   "Comedies by Holberg : Jeppe of the Hill, The Political Tinker, Erasmus Montanus"
+  ],
+  "sli-6765": [
+   6765,
+   "Mogens, and Other Stories"
+  ],
+  "sli-6791": [
+   6791,
+   "Mary Stuart: A Tragedy"
+  ],
+  "sli-7241": [
+   7241,
+   "Fables of La Fontaine — a New Edition, with Notes"
+  ],
+  "sli-8094": [
+   8094,
+   "Certain Noble Plays of Japan: From the manuscripts of Ernest Fenollosa"
+  ],
+  "sli-8868": [
+   8868,
+   "Botchan (Master Darling)"
+  ],
+  "sli-9619": [
+   9619,
+   "Who Can Be Happy and Free in Russia?"
+  ],
+  "sli-9869": [
+   9869,
+   "The Confession of a Child of the Century"
+  ],
+  "sli-10006": [
+   10006,
+   "La Fiammetta"
+  ],
+  "sli-10859": [
+   10859,
+   "Paul and Virginia from the French of J.B.H. de Saint Pierre"
+  ],
+  "sli-12341": [
+   12341,
+   "Against the Grain"
+  ],
+  "sli-13329": [
+   13329,
+   "Pélléas and Mélisande; Alladine and Palomides; Home"
+  ],
+  "sli-14323": [
+   14323,
+   "Là-bas"
+  ],
+  "sli-14420": [
+   14420,
+   "The Exemplary Novels of Cervantes"
+  ],
+  "sli-23997": [
+   23997,
+   "Eugene Oneguine [Onegin] A Romance of Russian Life in Verse"
+  ],
+  "sli-28240": [
+   28240,
+   "Pan Tadeusz; or, The last foray in Lithuania a story of life among Polish gentlefolk in the years 1811 and 1812"
+  ],
+  "sli-31873": [
+   31873,
+   "Henry of Ofterdingen: A Romance."
+  ],
+  "sli-31968": [
+   31968,
+   "The Birth of the War-God: A Poem by Kálidása"
+  ],
+  "sli-19315": [
+   19315,
+   "The Poems of Giacomo Leopardi"
+  ],
+  "sli-30012": [
+   30012,
+   "L'Aiglon"
+  ],
+  "sli-34050": [
+   34050,
+   "Konrad Wallenrod: An Historical Poem"
+  ],
+  "sli-27884": [
+   27884,
+   "Niels Klim's journey under the ground being a narrative of his wonderful descent to the subterranean lands; together with an account of the sensible animals and trees inhabiting the planet Nazar and t"
+  ],
+  "sli-27179": [
+   27179,
+   "Laments"
+  ],
+  "sli-17455": [
+   17455,
+   "The Poison Tree: A Tale of Hindu Life in Bengal"
+  ],
+  "sli-21937": [
+   21937,
+   "Modern Icelandic Plays Eyvind of the Hills; The Hraun Farm"
+  ],
+  "sli-31726": [
+   31726,
+   "Poems and Ballads of Heinrich Heine"
+  ],
+  "sli-29521": [
+   29521,
+   "Enamels and Cameos and other Poems"
+  ],
+  "sli-34647": [
+   34647,
+   "Letters of a Javanese Princess"
+  ],
+  "sli-2536": [
+   2536,
+   "Amphitryon"
+  ],
+  "sli-2992": [
+   2992,
+   "The Middle-Class Gentleman"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "singles-literature-azuela-the-underdogs": {
+   "source": "sli-549",
+   "of": "Mariano Azuela",
+   "work": "The Underdogs: A Novel of the Mexican Revolution",
+   "translated": "(see the Gutenberg header)",
+   "translator": "E. Munguía",
+   "scan_edition": "Project Gutenberg 549 (clean text)",
+   "note": "Munguía's translation was first published by Brentano's in 1929. Gutenberg's text comes from a later printing: its unsigned biographical preface mentions Azuela's death in 1952. The translation is public domain; that preface may not be (flagged in DIGEST-C)."
+  },
+  "singles-literature-boccaccio-la-fiammetta": {
+   "source": "sli-10006",
+   "of": "Giovanni Boccaccio",
+   "work": "La Fiammetta",
+   "translated": "(see the Gutenberg header)",
+   "translator": "James C. Brogan",
+   "scan_edition": "Project Gutenberg 10006 (clean text)"
+  },
+  "singles-literature-cattopadhyaya-the-poison-tree": {
+   "source": "sli-17455",
+   "of": "Bankimacandra Cattopadhyaya",
+   "work": "The Poison Tree: A Tale of Hindu Life in Bengal",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Miriam S. Knight",
+   "scan_edition": "Project Gutenberg 17455 (clean text)"
+  },
+  "singles-literature-certain-noble-plays-of-japan": {
+   "source": "sli-8094",
+   "of": "Zeami and other Noh playwrights",
+   "work": "Certain Noble Plays of Japan: From the manuscripts of Ernest Fenollosa",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ernest Fenollosa",
+   "scan_edition": "Project Gutenberg 8094 (clean text)"
+  },
+  "singles-literature-cervantes-the-exemplary-novels-of-cervantes": {
+   "source": "sli-14420",
+   "of": "Miguel de Cervantes",
+   "work": "The Exemplary Novels of Cervantes",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Walter K. Kelly",
+   "scan_edition": "Project Gutenberg 14420 (clean text)"
+  },
+  "singles-literature-corneille-polyeucte": {
+   "source": "sli-2543",
+   "of": "Pierre Corneille",
+   "work": "Polyeucte",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Thomas Constable",
+   "scan_edition": "Project Gutenberg 2543 (clean text)"
+  },
+  "singles-literature-daudet-the-nabob": {
+   "source": "sli-2077",
+   "of": "Alphonse Daudet",
+   "work": "The Nabob",
+   "translated": "(see the Gutenberg header)",
+   "translator": "W. Blaydes",
+   "scan_edition": "Project Gutenberg 2077 (clean text)"
+  },
+  "singles-literature-fontaine-fables-of-la-fontaine-a-new-edition-with": {
+   "source": "sli-7241",
+   "of": "Jean de La Fontaine",
+   "work": "Fables of La Fontaine — a New Edition, with Notes",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Elizur Wright",
+   "scan_edition": "Project Gutenberg 7241 (clean text)"
+  },
+  "singles-literature-gautier-enamels-and-cameos-and-other-poems": {
+   "source": "sli-29521",
+   "of": "Théophile Gautier",
+   "work": "Enamels and Cameos and other Poems",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Agnes Lee",
+   "scan_edition": "Project Gutenberg 29521 (clean text)"
+  },
+  "singles-literature-gorky-creatures-that-once-were-men": {
+   "source": "sli-1466",
+   "of": "Maksim Gorky",
+   "work": "Creatures That Once Were Men",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. K. M. Shirazi",
+   "scan_edition": "Project Gutenberg 1466 (clean text)"
+  },
+  "singles-literature-heine-poems-and-ballads-of-heinrich-heine": {
+   "source": "sli-31726",
+   "of": "Heinrich Heine",
+   "work": "Poems and Ballads of Heinrich Heine",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Emma Lazarus",
+   "scan_edition": "Project Gutenberg 31726 (clean text)"
+  },
+  "singles-literature-hemon-maria-chapdelaine": {
+   "source": "sli-4383",
+   "of": "Louis Hémon",
+   "work": "Maria Chapdelaine: A Tale of the Lake St. John Country",
+   "translated": "(see the Gutenberg header)",
+   "translator": "W. H. Blake",
+   "scan_edition": "Project Gutenberg 4383 (clean text)"
+  },
+  "singles-literature-holberg-comedies-by-holberg": {
+   "source": "sli-5749",
+   "of": "Ludvig Holberg",
+   "work": "Comedies by Holberg : Jeppe of the Hill, The Political Tinker, Erasmus Montanus",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Oscar James Campbell and Frederic Schenck",
+   "scan_edition": "Project Gutenberg 5749 (clean text)"
+  },
+  "singles-literature-holberg-niels-klim-s-journey-under-the-ground-be": {
+   "source": "sli-27884",
+   "of": "Ludvig Holberg",
+   "work": "Niels Klim's journey under the ground being a narrative of his wonderful descent to the subterranean lands; together with an account of the sensible animals and trees inhabiting the planet Nazar and t",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Gierlow",
+   "scan_edition": "Project Gutenberg 27884 (clean text)"
+  },
+  "singles-literature-huysmans-against-the-grain": {
+   "source": "sli-12341",
+   "of": "J.-K. Huysmans",
+   "work": "Against the Grain",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Howard",
+   "scan_edition": "Project Gutenberg 12341 (clean text)"
+  },
+  "singles-literature-huysmans-la-bas": {
+   "source": "sli-14323",
+   "of": "J.-K. Huysmans",
+   "work": "Là-bas",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Keene Wallis",
+   "scan_edition": "Project Gutenberg 14323 (clean text)"
+  },
+  "singles-literature-jacobsen-mogens-and-other-stories": {
+   "source": "sli-6765",
+   "of": "J. P. Jacobsen",
+   "work": "Mogens, and Other Stories",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Anna Grabow",
+   "scan_edition": "Project Gutenberg 6765 (clean text)"
+  },
+  "singles-literature-kalidasa-the-birth-of-the-war-god": {
+   "source": "sli-31968",
+   "of": "Kālidāsa",
+   "work": "The Birth of the War-God: A Poem by Kálidása",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ralph T. H. Griffith",
+   "scan_edition": "Project Gutenberg 31968 (clean text)"
+  },
+  "singles-literature-kartini-letters-of-a-javanese-princess": {
+   "source": "sli-34647",
+   "of": "Raden Adjeng Kartini",
+   "work": "Letters of a Javanese Princess",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Agnes Louise Symmers",
+   "scan_edition": "Project Gutenberg 34647 (clean text)"
+  },
+  "singles-literature-kochanowski-laments": {
+   "source": "sli-27179",
+   "of": "Jan Kochanowski",
+   "work": "Laments",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Dorothea Prall",
+   "scan_edition": "Project Gutenberg 27179 (clean text)"
+  },
+  "singles-literature-leopardi-the-poems-of-giacomo-leopardi": {
+   "source": "sli-19315",
+   "of": "Giacomo Leopardi",
+   "work": "The Poems of Giacomo Leopardi",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Frederick Townsend",
+   "scan_edition": "Project Gutenberg 19315 (clean text)"
+  },
+  "singles-literature-lermontov-a-hero-of-our-time": {
+   "source": "sli-913",
+   "of": "Mikhail Iurevich Lermontov",
+   "work": "A Hero of Our Time",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Marr Murray and J. H. Wisdom",
+   "scan_edition": "Project Gutenberg 913 (clean text)"
+  },
+  "singles-literature-lessing-nathan-the-wise": {
+   "source": "sli-3820",
+   "of": "Gotthold Ephraim Lessing",
+   "work": "Nathan the Wise; a dramatic poem in five acts",
+   "translated": "(see the Gutenberg header)",
+   "translator": "W. Taylor",
+   "scan_edition": "Project Gutenberg 3820 (clean text)"
+  },
+  "singles-literature-loti-an-iceland-fisherman": {
+   "source": "sli-2196",
+   "of": "Pierre Loti",
+   "work": "An Iceland Fisherman",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Jules Cambon",
+   "scan_edition": "Project Gutenberg 2196 (clean text)"
+  },
+  "singles-literature-maeterlinck-pelleas-and-melisande": {
+   "source": "sli-13329",
+   "of": "Maurice Maeterlinck",
+   "work": "Pélléas and Mélisande; Alladine and Palomides; Home",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Richard Hovey",
+   "scan_edition": "Project Gutenberg 13329 (clean text)"
+  },
+  "singles-literature-mickiewicz-konrad-wallenrod": {
+   "source": "sli-34050",
+   "of": "Adam Mickiewicz",
+   "work": "Konrad Wallenrod: An Historical Poem",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Maude Ashurst Biggs",
+   "scan_edition": "Project Gutenberg 34050 (clean text)"
+  },
+  "singles-literature-mickiewicz-pan-tadeusz": {
+   "source": "sli-28240",
+   "of": "Adam Mickiewicz",
+   "work": "Pan Tadeusz; or, The last foray in Lithuania a story of life among Polish gentlefolk in the years 1811 and 1812",
+   "translated": "(see the Gutenberg header)",
+   "translator": "George Rapall Noyes",
+   "scan_edition": "Project Gutenberg 28240 (clean text)"
+  },
+  "singles-literature-moliere-amphitryon": {
+   "source": "sli-2536",
+   "of": "Molière",
+   "work": "Amphitryon",
+   "translated": "(see the Gutenberg header)",
+   "translator": "A. R. Waller",
+   "scan_edition": "Project Gutenberg 2536 (clean text)"
+  },
+  "singles-literature-moliere-the-middle-class-gentleman": {
+   "source": "sli-2992",
+   "of": "Molière",
+   "work": "The Middle-Class Gentleman",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Philip Dwight Jones",
+   "scan_edition": "Project Gutenberg 2992 (clean text)"
+  },
+  "singles-literature-musset-the-confession-of-a-child-of-the-century": {
+   "source": "sli-9869",
+   "of": "Alfred de Musset",
+   "work": "The Confession of a Child of the Century",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Kendall Warren",
+   "scan_edition": "Project Gutenberg 9869 (clean text)"
+  },
+  "singles-literature-natsume-botchan-master-darling": {
+   "source": "sli-8868",
+   "of": "Natsume Sōseki",
+   "work": "Botchan (Master Darling)",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Yasotaro Mori",
+   "scan_edition": "Project Gutenberg 8868 (clean text)"
+  },
+  "singles-literature-nekrasov-who-can-be-happy-and-free-in-russia": {
+   "source": "sli-9619",
+   "of": "Nikolai Alekseevich Nekrasov",
+   "work": "Who Can Be Happy and Free in Russia?",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Juliet M. Soskice",
+   "scan_edition": "Project Gutenberg 9619 (clean text)"
+  },
+  "singles-literature-novalis-henry-of-ofterdingen": {
+   "source": "sli-31873",
+   "of": "Novalis",
+   "work": "Henry of Ofterdingen: A Romance.",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Friedrich von Schlegel and Ludwig Tieck",
+   "scan_edition": "Project Gutenberg 31873 (clean text)"
+  },
+  "singles-literature-pushkin-boris-godunov": {
+   "source": "sli-5089",
+   "of": "Aleksandr Sergeevich Pushkin",
+   "work": "Boris Godunov: a drama in verse",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Alfred Hayes",
+   "scan_edition": "Project Gutenberg 5089 (clean text)"
+  },
+  "singles-literature-pushkin-eugene-oneguine-onegin-a-romance-of-russ": {
+   "source": "sli-23997",
+   "of": "Aleksandr Sergeevich Pushkin",
+   "work": "Eugene Oneguine [Onegin] A Romance of Russian Life in Verse",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Henry Spalding",
+   "scan_edition": "Project Gutenberg 23997 (clean text)"
+  },
+  "singles-literature-rostand-l-aiglon": {
+   "source": "sli-30012",
+   "of": "Edmond Rostand",
+   "work": "L'Aiglon",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Louis Napoleon Parker",
+   "scan_edition": "Project Gutenberg 30012 (clean text)"
+  },
+  "singles-literature-saint-pierre-paul-and-virginia-from-the-french-of-j-b": {
+   "source": "sli-10859",
+   "of": "Bernardin de Saint-Pierre",
+   "work": "Paul and Virginia from the French of J.B.H. de Saint Pierre",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Helen Maria Williams",
+   "scan_edition": "Project Gutenberg 10859 (clean text)"
+  },
+  "singles-literature-sand-mauprat": {
+   "source": "sli-2194",
+   "of": "George Sand",
+   "work": "Mauprat",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Stanley Young",
+   "scan_edition": "Project Gutenberg 2194 (clean text)"
+  },
+  "singles-literature-schiller-mary-stuart": {
+   "source": "sli-6791",
+   "of": "Friedrich Schiller",
+   "work": "Mary Stuart: A Tragedy",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Joseph Charles Mellish",
+   "scan_edition": "Project Gutenberg 6791 (clean text)"
+  },
+  "singles-literature-sigurjonsson-modern-icelandic-plays-eyvind-of-the-hil": {
+   "source": "sli-21937",
+   "of": "Jóhann Sigurjónsson",
+   "work": "Modern Icelandic Plays Eyvind of the Hills; The Hraun Farm",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Henninge Margrethe Krohn Schanche",
+   "scan_edition": "Project Gutenberg 21937 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "pg-30442": "Daudet's Letters from My Windmill in the Keith Adams and Mireille Harmelin translation: a modern translation, not a printing before 1931.",
+  "pg-17445": "Pumpurs's Bearslayer in Arthur Cropley's translation: a modern translation, not a printing before 1931."
+ },
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
+ "_checks": {
+  "sli-913": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. h. wisdom",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Marr Murray; J. H. Wisdom"
+  },
+  "sli-549": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. munguía",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. Munguía"
+  },
+  "sli-1466": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. k. m. shirazi",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. K. M. Shirazi"
+  },
+  "sli-2077": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "blaydes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Blaydes"
+  },
+  "sli-2194": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "stanley young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Stanley Young"
+  },
+  "sli-2196": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cambon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jules Cambon"
+  },
+  "sli-2543": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "constable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Constable"
+  },
+  "sli-3820": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "w. taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Taylor"
+  },
+  "sli-4383": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "blake",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. H. Blake"
+  },
+  "sli-5089": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alfred hayes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alfred Hayes"
+  },
+  "sli-5749": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "campbell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Oscar James Campbell; Frederic Schenck"
+  },
+  "sli-6765": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "anna grabow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Anna Grabow"
+  },
+  "sli-6791": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph charles mellish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Joseph Charles Mellish"
+  },
+  "sli-7241": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "elizur wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Elizur Wright"
+  },
+  "sli-8094": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest fenollosa",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Fenollosa"
+  },
+  "sli-8868": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mori",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Yasotaro Mori"
+  },
+  "sli-9619": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "juliet m. soskice",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Juliet M. Soskice"
+  },
+  "sli-9869": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kendall warren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Kendall Warren"
+  },
+  "sli-10006": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "brogan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James C. Brogan"
+  },
+  "sli-10859": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "helen maria williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Helen Maria Williams"
+  },
+  "sli-12341": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "howard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Howard"
+  },
+  "sli-13329": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hovey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Richard Hovey"
+  },
+  "sli-14323": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "keene wallis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Keene Wallis"
+  },
+  "sli-14420": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Walter K. Kelly"
+  },
+  "sli-23997": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry spalding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Spalding"
+  },
+  "sli-28240": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george rapall noyes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Rapall Noyes"
+  },
+  "sli-31873": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "friedrich von schlegel",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Friedrich von Schlegel; Ludwig Tieck"
+  },
+  "sli-31968": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "griffith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ralph T. H. Griffith"
+  },
+  "sli-19315": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "frederick townsend",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Frederick Townsend"
+  },
+  "sli-30012": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "louis napoleon parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Louis Napoleon Parker"
+  },
+  "sli-34050": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "biggs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Maude Ashurst Biggs"
+  },
+  "sli-27884": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "gierlow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Gierlow"
+  },
+  "sli-27179": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dorothea prall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Dorothea Prall"
+  },
+  "sli-17455": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "knight",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Miriam S. Knight"
+  },
+  "sli-21937": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henninge margrethe krohn schanche",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henninge Margrethe Krohn Schanche"
+  },
+  "sli-31726": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "emma lazarus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Emma Lazarus"
+  },
+  "sli-29521": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "agnes lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Agnes Lee"
+  },
+  "sli-34647": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "agnes louise symmers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Agnes Louise Symmers"
+  },
+  "sli-2536": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. r. waller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. R. Waller"
+  },
+  "sli-2992": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jones",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Philip Dwight Jones"
+  }
+ },
+ "_verified": {
+  "sli-913": {
+   "pg": 913,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Marr Murray"
+  },
+  "sli-549": {
+   "pg": 549,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "E. Munguía"
+  },
+  "sli-1466": {
+   "pg": 1466,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. K. M. Shirazi"
+  },
+  "sli-2077": {
+   "pg": 2077,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. Blaydes"
+  },
+  "sli-2194": {
+   "pg": 2194,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Stanley Young"
+  },
+  "sli-2196": {
+   "pg": 2196,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jules Cambon"
+  },
+  "sli-2543": {
+   "pg": 2543,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Thomas Constable"
+  },
+  "sli-3820": {
+   "pg": 3820,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. Taylor"
+  },
+  "sli-4383": {
+   "pg": 4383,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. H. Blake"
+  },
+  "sli-5089": {
+   "pg": 5089,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alfred Hayes"
+  },
+  "sli-5749": {
+   "pg": 5749,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Oscar James Campbell"
+  },
+  "sli-6765": {
+   "pg": 6765,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Anna Grabow"
+  },
+  "sli-6791": {
+   "pg": 6791,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Joseph Charles Mellish"
+  },
+  "sli-7241": {
+   "pg": 7241,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Elizur Wright"
+  },
+  "sli-8094": {
+   "pg": 8094,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ernest Fenollosa"
+  },
+  "sli-8868": {
+   "pg": 8868,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Yasotaro Mori"
+  },
+  "sli-9619": {
+   "pg": 9619,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Juliet M. Soskice"
+  },
+  "sli-9869": {
+   "pg": 9869,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Kendall Warren"
+  },
+  "sli-10006": {
+   "pg": 10006,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "James C. Brogan"
+  },
+  "sli-10859": {
+   "pg": 10859,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Helen Maria Williams"
+  },
+  "sli-12341": {
+   "pg": 12341,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Howard"
+  },
+  "sli-13329": {
+   "pg": 13329,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Richard Hovey"
+  },
+  "sli-14323": {
+   "pg": 14323,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Keene Wallis"
+  },
+  "sli-14420": {
+   "pg": 14420,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Walter K. Kelly"
+  },
+  "sli-23997": {
+   "pg": 23997,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry Spalding"
+  },
+  "sli-28240": {
+   "pg": 28240,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Rapall Noyes"
+  },
+  "sli-31873": {
+   "pg": 31873,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Friedrich von Schlegel"
+  },
+  "sli-31968": {
+   "pg": 31968,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ralph T. H. Griffith"
+  },
+  "sli-19315": {
+   "pg": 19315,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Frederick Townsend"
+  },
+  "sli-30012": {
+   "pg": 30012,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Louis Napoleon Parker"
+  },
+  "sli-34050": {
+   "pg": 34050,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Maude Ashurst Biggs"
+  },
+  "sli-27884": {
+   "pg": 27884,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Gierlow"
+  },
+  "sli-27179": {
+   "pg": 27179,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Dorothea Prall"
+  },
+  "sli-17455": {
+   "pg": 17455,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Miriam S. Knight"
+  },
+  "sli-21937": {
+   "pg": 21937,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henninge Margrethe Krohn Schanche"
+  },
+  "sli-31726": {
+   "pg": 31726,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Emma Lazarus"
+  },
+  "sli-29521": {
+   "pg": 29521,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Agnes Lee"
+  },
+  "sli-34647": {
+   "pg": 34647,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Agnes Louise Symmers"
+  },
+  "sli-2536": {
+   "pg": 2536,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. R. Waller"
+  },
+  "sli-2992": {
+   "pg": 2992,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Philip Dwight Jones"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

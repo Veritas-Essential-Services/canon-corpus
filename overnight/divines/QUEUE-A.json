@@ -1921,87 +1921,726 @@
     },
     {
       "id": "frederic-godet",
-      "status": "queued",
+      "status": "done",
       "scope": "Fr\u00e9d\u00e9ric Godet in English: commentaries on Luke, John, Romans, 1 Corinthians (d. 1900)",
       "added": "2026-10-10T09:49:31-05:00",
-      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
+      "finished": "2026-10-10T10:28:41-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "i-a-dorner",
-      "status": "queued",
+      "status": "done",
       "scope": "I. A. Dorner in English: System of Christian Doctrine, Person of Christ (d. 1884)",
       "added": "2026-10-10T09:49:31-05:00",
-      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
+      "finished": "2026-10-10T10:28:49-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "julius-muller",
-      "status": "queued",
+      "status": "done",
       "scope": "Julius M\u00fcller in English: The Christian Doctrine of Sin (d. 1878)",
       "added": "2026-10-10T09:49:31-05:00",
-      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
+      "finished": "2026-10-10T10:28:51-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "rudolf-stier",
-      "status": "queued",
+      "status": "done",
       "scope": "Rudolf Stier in English: The Words of the Lord Jesus (d. 1862)",
       "added": "2026-10-10T09:49:31-05:00",
-      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
+      "finished": "2026-10-10T10:28:53-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "c-e-luthardt",
-      "status": "queued",
+      "status": "done",
       "scope": "C. E. Luthardt in English: apologetic lectures (d. 1902)",
       "added": "2026-10-10T09:49:31-05:00",
-      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
+      "finished": "2026-10-10T10:28:55-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "theodor-christlieb",
-      "status": "queued",
+      "status": "done",
       "scope": "Theodor Christlieb in English: Modern Doubt and Christian Belief (d. 1889)",
       "added": "2026-10-10T09:49:31-05:00",
-      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
+      "finished": "2026-10-10T10:28:57-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "j-h-kurtz",
-      "status": "queued",
+      "status": "done",
       "scope": "J. H. Kurtz in English: Church History, Old Covenant, Sacrificial Worship (d. 1890)",
       "added": "2026-10-10T09:49:31-05:00",
-      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
+      "finished": "2026-10-10T10:29:02-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "william-arnot",
-      "status": "queued",
+      "status": "done",
       "scope": "William Arnot: Laws from Heaven, Parables, Proverbs (d. 1875)",
       "added": "2026-10-10T09:49:31-05:00",
-      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
+      "finished": "2026-10-10T10:08:35-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "james-hamilton-london",
-      "status": "queued",
+      "status": "done",
       "scope": "James Hamilton of Regent Square: The Royal Preacher, Mount of Olives (d. 1867)",
       "added": "2026-10-10T09:49:31-05:00",
-      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
+      "finished": "2026-10-10T10:08:43-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "john-ker",
-      "status": "queued",
+      "status": "done",
       "scope": "John Ker: Sermons, Lectures on Preaching (d. 1886)",
       "added": "2026-10-10T09:49:31-05:00",
-      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
+      "finished": "2026-10-10T10:08:45-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "james-stalker",
-      "status": "queued",
+      "status": "done",
       "scope": "James Stalker: Life of Jesus Christ, Life of St. Paul (d. 1927; pre-1930 printings)",
       "added": "2026-10-10T09:49:31-05:00",
-      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
+      "finished": "2026-10-10T10:08:46-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "w-g-blaikie",
-      "status": "queued",
+      "status": "done",
       "scope": "W. G. Blaikie: Expositor's Bible volumes, For the Work of the Ministry (d. 1899)",
       "added": "2026-10-10T09:49:31-05:00",
-      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list)."
+      "added_by": "lane A worker, round 16, continuing on Adam's 2026-10-10 keep-going request. German divines in pre-1930 English translations, and Victorian Scots. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue before queueing; none from the Reformers/Knox list, none of the commentators PR #11 plans (Godet is not on its list).",
+      "finished": "2026-10-10T10:08:48-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "r-w-dale",
+      "status": "done",
+      "scope": "R. W. Dale: The Atonement, Ephesians, Christian Doctrine (d. 1895)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch).",
+      "finished": "2026-10-10T11:17:48-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "joseph-parker",
+      "status": "done",
+      "scope": "Joseph Parker of the City Temple: Ecce Deus, sermons (d. 1902)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch).",
+      "finished": "2026-10-10T11:17:55-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "christmas-evans",
+      "status": "done",
+      "scope": "Christmas Evans in English: sermons, memoirs (d. 1838)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch).",
+      "finished": "2026-10-10T11:17:58-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "john-berridge",
+      "status": "done",
+      "scope": "John Berridge: The Christian World Unmasked, Works (d. 1793)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch).",
+      "finished": "2026-10-10T11:00:30-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "rowland-hill",
+      "status": "done",
+      "scope": "Rowland Hill of Surrey Chapel: Village Dialogues (d. 1833)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch).",
+      "finished": "2026-10-10T11:00:37-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "j-c-philpot",
+      "status": "done",
+      "scope": "J. C. Philpot, Strict Baptist: sermons, Meditations (d. 1869)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch).",
+      "finished": "2026-10-10T11:00:39-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "william-huntington",
+      "status": "done",
+      "scope": "William Huntington S.S.: Works, Bank of Faith (d. 1813)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch).",
+      "finished": "2026-10-10T11:00:40-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "john-brine",
+      "status": "done",
+      "scope": "John Brine, Particular Baptist (d. 1765)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch).",
+      "finished": "2026-10-10T11:00:43-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "william-gadsby",
+      "status": "skipped",
+      "scope": "William Gadsby, Strict Baptist (d. 1844)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch).",
+      "finished": "2026-10-10T11:18:11-05:00",
+      "notes": "thin: The Nazarene's Songs is bound with another man's sermon and the memoir is by another hand; not worth a shelf"
+    },
+    {
+      "id": "thomas-binney",
+      "status": "done",
+      "scope": "Thomas Binney of the King's Weigh House (d. 1874)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch).",
+      "finished": "2026-10-10T11:18:00-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "henry-drummond",
+      "status": "done",
+      "scope": "Henry Drummond: Natural Law in the Spiritual World, The Greatest Thing in the World (d. 1897)",
+      "added": "2026-10-10T10:34:26-05:00",
+      "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch).",
+      "finished": "2026-10-10T11:18:02-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "arthur-w-pink",
+      "status": "done",
+      "scope": "Arthur W. Pink: pre-1930 printings only (The Sovereignty of God 1918 etc.; d. 1952)",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T12:10:48-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "a-t-pierson",
+      "status": "done",
+      "scope": "A. T. Pierson (Arthur Tappan Pierson, d. 1911): missions, Bible study, George Muller biography",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T12:25:58-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "a-b-simpson",
+      "status": "done",
+      "scope": "A. B. Simpson (d. 1919): Christ in the Bible, The Fourfold Gospel",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T12:25:56-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "john-l-girardeau",
+      "status": "done",
+      "scope": "John L. Girardeau (d. 1898): Calvinism and Evangelical Arminianism, Discussions",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T12:10:50-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "augustus-h-strong",
+      "status": "done",
+      "scope": "Augustus H. Strong (d. 1921): Systematic Theology (1907-09), Philosophy and Religion",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T12:25:49-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "e-y-mullins",
+      "status": "done",
+      "scope": "E. Y. Mullins (d. 1928): The Axioms of Religion, The Christian Religion in its Doctrinal Expression",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T12:10:52-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "b-h-carroll",
+      "status": "done",
+      "scope": "B. H. Carroll (d. 1914): An Interpretation of the English Bible (pre-1930 volumes)",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T12:10:54-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "j-r-graves",
+      "status": "done",
+      "scope": "J. R. Graves (d. 1893): Old Landmarkism, The Work of Christ in Seven Dispensations",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T12:10:56-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "a-j-gordon",
+      "status": "done",
+      "scope": "A. J. Gordon (d. 1895): The Ministry of the Spirit, In Christ, The Two-Fold Life",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T11:54:52-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "c-i-scofield",
+      "status": "done",
+      "scope": "C. I. Scofield (d. 1921): Rightly Dividing the Word, notes (pre-1930 printings; not the Scofield Bible text itself unless clearly PD)",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T11:54:58-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "h-a-ironside",
+      "status": "done",
+      "scope": "H. A. Ironside (d. 1951): pre-1930 printings only",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T12:10:40-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "a-c-gaebelein",
+      "status": "done",
+      "scope": "A. C. Gaebelein (d. 1945): pre-1930 printings only",
+      "added": "2026-10-10T11:20:02-05:00",
+      "added_by": "lane A worker, round 18, continuing on Adam's 2026-10-10 keep-going request. American and British evangelicals of the late 19th and early 20th century, Southern Presbyterian and Baptist divines. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T12:10:46-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "asa-mahan",
+      "status": "done",
+      "scope": "Asa Mahan (d. 1889): Scripture Doctrine of Christian Perfection, The Baptism of the Holy Ghost",
+      "added": "2026-10-10T12:26:55-05:00",
+      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T12:46:32-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "thomas-c-upham",
+      "status": "done",
+      "scope": "Thomas C. Upham (d. 1872): Principles of the Interior or Hidden Life, Life of Madame Guyon",
+      "added": "2026-10-10T12:26:55-05:00",
+      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T12:46:39-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "moses-d-hoge",
+      "status": "done",
+      "scope": "Moses D. Hoge (d. 1899): sermons; Southern Presbyterian, Richmond",
+      "added": "2026-10-10T12:26:55-05:00",
+      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T12:46:41-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "charles-p-krauth",
+      "status": "done",
+      "scope": "Charles Porterfield Krauth (d. 1883): The Conservative Reformation and its Theology",
+      "added": "2026-10-10T12:26:55-05:00",
+      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T12:46:43-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "s-s-schmucker",
+      "status": "done",
+      "scope": "Samuel Simon Schmucker (d. 1873): Elements of Popular Theology",
+      "added": "2026-10-10T12:26:55-05:00",
+      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:14:58-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "c-f-w-walther",
+      "status": "done",
+      "scope": "C. F. W. Walther (d. 1887): English translations printed before 1930 only (Law and Gospel, tr. Dau, 1929)",
+      "added": "2026-10-10T12:26:55-05:00",
+      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:15:05-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "e-v-gerhart",
+      "status": "done",
+      "scope": "Emanuel V. Gerhart (d. 1904): Institutes of the Christian Religion (Mercersburg)",
+      "added": "2026-10-10T12:26:55-05:00",
+      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:15:07-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "w-h-griffith-thomas",
+      "status": "done",
+      "scope": "W. H. Griffith Thomas (d. 1924): The Principles of Theology (1930 posthumous: check), Romans, Genesis",
+      "added": "2026-10-10T12:26:55-05:00",
+      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:15:09-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "p-t-forsyth",
+      "status": "done",
+      "scope": "P. T. Forsyth (d. 1921): The Person and Place of Jesus Christ, The Cruciality of the Cross, Positive Preaching",
+      "added": "2026-10-10T12:26:55-05:00",
+      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:15:11-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "robert-flint",
+      "status": "done",
+      "scope": "Robert Flint (d. 1910): Theism, Anti-Theistic Theories",
+      "added": "2026-10-10T12:26:55-05:00",
+      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:15:13-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "h-r-mackintosh",
+      "status": "done",
+      "scope": "H. R. Mackintosh (d. 1936): pre-1930 printings only (The Doctrine of the Person of Jesus Christ, 1912)",
+      "added": "2026-10-10T12:26:55-05:00",
+      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:15:15-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "g-campbell-morgan",
+      "status": "done",
+      "scope": "G. Campbell Morgan (d. 1945): pre-1930 printings only",
+      "added": "2026-10-10T12:26:55-05:00",
+      "added_by": "lane A worker, round 19, continuing on Adam's 2026-10-10 keep-going request. Oberlin and holiness writers, American Lutherans and Mercersburg, British theologians of the turn of the century. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:15:17-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "j-n-darby",
+      "status": "done",
+      "scope": "John Nelson Darby (d. 1882): Synopsis of the Books of the Bible, Collected Writings, his English New Testament",
+      "added": "2026-10-10T13:16:19-05:00",
+      "added_by": "lane A worker, round 20, continuing on Adam's 2026-10-10 keep-going request. Plymouth Brethren and their neighbours, Scottish Marrow men, and three Victorian Anglicans and scholars. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:51:56-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "william-kelly-brethren",
+      "status": "done",
+      "scope": "William Kelly (1821-1906, Brethren): expositions; shelf name keeps him apart from namesakes",
+      "added": "2026-10-10T13:16:19-05:00",
+      "added_by": "lane A worker, round 20, continuing on Adam's 2026-10-10 keep-going request. Plymouth Brethren and their neighbours, Scottish Marrow men, and three Victorian Anglicans and scholars. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:56:02-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "f-w-grant",
+      "status": "done",
+      "scope": "F. W. Grant (Frederick William Grant, d. 1902): The Numerical Bible, Facts and Theories as to a Future State",
+      "added": "2026-10-10T13:16:19-05:00",
+      "added_by": "lane A worker, round 20, continuing on Adam's 2026-10-10 keep-going request. Plymouth Brethren and their neighbours, Scottish Marrow men, and three Victorian Anglicans and scholars. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:56:04-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "b-w-newton",
+      "status": "done",
+      "scope": "Benjamin Wills Newton (d. 1899): Thoughts on the Apocalypse, prophetic and doctrinal works",
+      "added": "2026-10-10T13:16:19-05:00",
+      "added_by": "lane A worker, round 20, continuing on Adam's 2026-10-10 keep-going request. Plymouth Brethren and their neighbours, Scottish Marrow men, and three Victorian Anglicans and scholars. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:56:06-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "robert-govett",
+      "status": "done",
+      "scope": "Robert Govett (d. 1901): expositions, Entrance into the Kingdom",
+      "added": "2026-10-10T13:16:19-05:00",
+      "added_by": "lane A worker, round 20, continuing on Adam's 2026-10-10 keep-going request. Plymouth Brethren and their neighbours, Scottish Marrow men, and three Victorian Anglicans and scholars. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T14:05:43-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "andrew-jukes",
+      "status": "done",
+      "scope": "Andrew Jukes (d. 1901): The Law of the Offerings, The Types of Genesis, The Restitution of All Things",
+      "added": "2026-10-10T13:16:19-05:00",
+      "added_by": "lane A worker, round 20, continuing on Adam's 2026-10-10 keep-going request. Plymouth Brethren and their neighbours, Scottish Marrow men, and three Victorian Anglicans and scholars. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T14:05:45-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "h-w-soltau",
+      "status": "done",
+      "scope": "Henry William Soltau (d. 1875): The Tabernacle, the Priesthood and the Offerings",
+      "added": "2026-10-10T13:16:19-05:00",
+      "added_by": "lane A worker, round 20, continuing on Adam's 2026-10-10 keep-going request. Plymouth Brethren and their neighbours, Scottish Marrow men, and three Victorian Anglicans and scholars. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T14:05:47-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "john-colquhoun",
+      "status": "done",
+      "scope": "John Colquhoun of Leith (d. 1827): A Treatise on the Law and the Gospel, Evangelical Repentance, Saving Faith",
+      "added": "2026-10-10T13:16:19-05:00",
+      "added_by": "lane A worker, round 20, continuing on Adam's 2026-10-10 keep-going request. Plymouth Brethren and their neighbours, Scottish Marrow men, and three Victorian Anglicans and scholars. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:52:02-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "james-fraser-brea",
+      "status": "done",
+      "scope": "James Fraser of Brea (d. 1698): Memoirs, A Treatise on Justifying Faith, The Lawfulness and Duty of Separation",
+      "added": "2026-10-10T13:16:19-05:00",
+      "added_by": "lane A worker, round 20, continuing on Adam's 2026-10-10 keep-going request. Plymouth Brethren and their neighbours, Scottish Marrow men, and three Victorian Anglicans and scholars. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:56:09-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "f-j-a-hort",
+      "status": "done",
+      "scope": "F. J. A. Hort (d. 1892): The Way, the Truth, the Life; Judaistic Christianity; The Christian Ecclesia (not the Westcott-Hort Greek text)",
+      "added": "2026-10-10T13:16:19-05:00",
+      "added_by": "lane A worker, round 20, continuing on Adam's 2026-10-10 keep-going request. Plymouth Brethren and their neighbours, Scottish Marrow men, and three Victorian Anglicans and scholars. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:52:04-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "john-kitto",
+      "status": "done",
+      "scope": "John Kitto (d. 1854): Daily Bible Illustrations, Cyclopaedia of Biblical Literature",
+      "added": "2026-10-10T13:16:19-05:00",
+      "added_by": "lane A worker, round 20, continuing on Adam's 2026-10-10 keep-going request. Plymouth Brethren and their neighbours, Scottish Marrow men, and three Victorian Anglicans and scholars. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T14:05:49-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "legh-richmond",
+      "status": "done",
+      "scope": "Legh Richmond (d. 1827): The Annals of the Poor, The Dairyman's Daughter",
+      "added": "2026-10-10T13:16:19-05:00",
+      "added_by": "lane A worker, round 20, continuing on Adam's 2026-10-10 keep-going request. Plymouth Brethren and their neighbours, Scottish Marrow men, and three Victorian Anglicans and scholars. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T13:52:06-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "alfred-edersheim",
+      "status": "done",
+      "scope": "Alfred Edersheim (d. 1889): Life and Times of Jesus the Messiah, The Temple, Bible History, Sketches of Jewish Social Life",
+      "added": "2026-10-10T14:07:47-05:00",
+      "added_by": "lane A worker, round 21, continuing on Adam's 2026-10-10 keep-going request. Hebrew Christian and Brethren scholars, Victorian textual critics and apologists, Scottish and American theologians and preachers. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T14:42:39-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "david-baron",
+      "status": "done",
+      "scope": "David Baron (d. 1926): The Visions and Prophecies of Zechariah, Rays of Messiah's Glory, pre-1930 printings",
+      "added": "2026-10-10T14:07:47-05:00",
+      "added_by": "lane A worker, round 21, continuing on Adam's 2026-10-10 keep-going request. Hebrew Christian and Brethren scholars, Victorian textual critics and apologists, Scottish and American theologians and preachers. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T14:42:41-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "s-p-tregelles",
+      "status": "done",
+      "scope": "S. P. Tregelles (d. 1875): Remarks on the Prophetic Visions in Daniel, Account of the Printed Text of the Greek NT, Hope of Christ's Second Coming",
+      "added": "2026-10-10T14:07:47-05:00",
+      "added_by": "lane A worker, round 21, continuing on Adam's 2026-10-10 keep-going request. Hebrew Christian and Brethren scholars, Victorian textual critics and apologists, Scottish and American theologians and preachers. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T14:42:43-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "j-g-bellett",
+      "status": "done",
+      "scope": "J. G. Bellett (d. 1864): The Evangelists, The Patriarchs, The Moral Glory of the Lord Jesus Christ",
+      "added": "2026-10-10T14:07:47-05:00",
+      "added_by": "lane A worker, round 21, continuing on Adam's 2026-10-10 keep-going request. Hebrew Christian and Brethren scholars, Victorian textual critics and apologists, Scottish and American theologians and preachers. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T14:42:48-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "anthony-norris-groves",
+      "status": "done",
+      "scope": "Anthony Norris Groves (d. 1853): Christian Devotedness, Journals, Memoir (by his widow, flagged)",
+      "added": "2026-10-10T14:07:47-05:00",
+      "added_by": "lane A worker, round 21, continuing on Adam's 2026-10-10 keep-going request. Hebrew Christian and Brethren scholars, Victorian textual critics and apologists, Scottish and American theologians and preachers. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T14:38:24-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "j-w-burgon",
+      "status": "done",
+      "scope": "J. W. Burgon (d. 1888): The Revision Revised, The Last Twelve Verses of Mark, The Traditional Text",
+      "added": "2026-10-10T14:07:47-05:00",
+      "added_by": "lane A worker, round 21, continuing on Adam's 2026-10-10 keep-going request. Hebrew Christian and Brethren scholars, Victorian textual critics and apologists, Scottish and American theologians and preachers. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T14:38:26-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "george-salmon",
+      "status": "done",
+      "scope": "George Salmon (d. 1904): The Infallibility of the Church, Introduction to the New Testament, Non-Miraculous Christianity",
+      "added": "2026-10-10T14:07:47-05:00",
+      "added_by": "lane A worker, round 21, continuing on Adam's 2026-10-10 keep-going request. Hebrew Christian and Brethren scholars, Victorian textual critics and apologists, Scottish and American theologians and preachers. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T14:42:46-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "james-mccosh",
+      "status": "done",
+      "scope": "James McCosh (d. 1894): The Method of the Divine Government, Christianity and Positivism, The Supernatural in Relation to the Natural",
+      "added": "2026-10-10T14:07:47-05:00",
+      "added_by": "lane A worker, round 21, continuing on Adam's 2026-10-10 keep-going request. Hebrew Christian and Brethren scholars, Victorian textual critics and apologists, Scottish and American theologians and preachers. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T14:38:28-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "john-caird",
+      "status": "done",
+      "scope": "John Caird (d. 1898): Sermons, Introduction to the Philosophy of Religion, The Fundamental Ideas of Christianity",
+      "added": "2026-10-10T14:07:47-05:00",
+      "added_by": "lane A worker, round 21, continuing on Adam's 2026-10-10 keep-going request. Hebrew Christian and Brethren scholars, Victorian textual critics and apologists, Scottish and American theologians and preachers. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T14:52:53-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "alvah-hovey",
+      "status": "done",
+      "scope": "Alvah Hovey (d. 1903): Manual of Systematic Theology, The Miracles of Christ, Biblical Eschatology",
+      "added": "2026-10-10T14:07:47-05:00",
+      "added_by": "lane A worker, round 21, continuing on Adam's 2026-10-10 keep-going request. Hebrew Christian and Brethren scholars, Victorian textual critics and apologists, Scottish and American theologians and preachers. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T14:52:55-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "j-m-pendleton",
+      "status": "done",
+      "scope": "J. M. Pendleton (d. 1891): Christian Doctrines, Church Manual, Three Reasons Why I Am a Baptist",
+      "added": "2026-10-10T14:07:47-05:00",
+      "added_by": "lane A worker, round 21, continuing on Adam's 2026-10-10 keep-going request. Hebrew Christian and Brethren scholars, Victorian textual critics and apologists, Scottish and American theologians and preachers. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T14:52:57-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "j-h-jowett",
+      "status": "done",
+      "scope": "J. H. Jowett (John Henry Jowett, d. 1923): The Passion for Souls, The Preacher, his Life and Work, pre-1930 printings",
+      "added": "2026-10-10T14:07:47-05:00",
+      "added_by": "lane A worker, round 21, continuing on Adam's 2026-10-10 keep-going request. Hebrew Christian and Brethren scholars, Victorian textual critics and apologists, Scottish and American theologians and preachers. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-10T14:52:59-05:00",
+      "notes": "built and verified"
+    },
+    {
+      "id": "william-carey",
+      "status": "queued",
+      "scope": "William Carey (d. 1834): An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens, letters and journal",
+      "added": "2026-10-10T14:54:12-05:00",
+      "added_by": "lane A worker, round 22, continuing on Adam's 2026-10-10 keep-going request. The Niagara Bible Conference men and their American evangelical neighbours, a missionary pioneer, and two Victorian devotional writers. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "james-h-brookes",
+      "status": "queued",
+      "scope": "James H. Brookes (d. 1897): Maranatha, Is the Bible True?, The Truth periodical excluded",
+      "added": "2026-10-10T14:54:12-05:00",
+      "added_by": "lane A worker, round 22, continuing on Adam's 2026-10-10 keep-going request. The Niagara Bible Conference men and their American evangelical neighbours, a missionary pioneer, and two Victorian devotional writers. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "nathaniel-west",
+      "status": "queued",
+      "scope": "Nathaniel West (d. 1906): Studies in Eschatology, The Thousand Years in Both Testaments",
+      "added": "2026-10-10T14:54:12-05:00",
+      "added_by": "lane A worker, round 22, continuing on Adam's 2026-10-10 keep-going request. The Niagara Bible Conference men and their American evangelical neighbours, a missionary pioneer, and two Victorian devotional writers. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "george-n-h-peters",
+      "status": "queued",
+      "scope": "George N. H. Peters (d. 1909): The Theocratic Kingdom, three volumes",
+      "added": "2026-10-10T14:54:12-05:00",
+      "added_by": "lane A worker, round 22, continuing on Adam's 2026-10-10 keep-going request. The Niagara Bible Conference men and their American evangelical neighbours, a missionary pioneer, and two Victorian devotional writers. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "w-j-erdman",
+      "status": "queued",
+      "scope": "W. J. Erdman (William Jacob Erdman, d. 1923): The Parousia of Christ, Bible studies, pre-1930 printings",
+      "added": "2026-10-10T14:54:12-05:00",
+      "added_by": "lane A worker, round 22, continuing on Adam's 2026-10-10 keep-going request. The Niagara Bible Conference men and their American evangelical neighbours, a missionary pioneer, and two Victorian devotional writers. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "james-m-gray",
+      "status": "queued",
+      "scope": "James M. Gray (d. 1935): Synthetic Bible Studies, Christian Workers' Commentary, printings dated before 1930 only",
+      "added": "2026-10-10T14:54:12-05:00",
+      "added_by": "lane A worker, round 22, continuing on Adam's 2026-10-10 keep-going request. The Niagara Bible Conference men and their American evangelical neighbours, a missionary pioneer, and two Victorian devotional writers. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "w-e-blackstone",
+      "status": "queued",
+      "scope": "W. E. Blackstone (d. 1935): Jesus Is Coming, printings dated before 1930 only",
+      "added": "2026-10-10T14:54:12-05:00",
+      "added_by": "lane A worker, round 22, continuing on Adam's 2026-10-10 keep-going request. The Niagara Bible Conference men and their American evangelical neighbours, a missionary pioneer, and two Victorian devotional writers. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "george-f-pentecost",
+      "status": "queued",
+      "scope": "George F. Pentecost (d. 1920): Out of Egypt, Bible studies, sermons",
+      "added": "2026-10-10T14:54:12-05:00",
+      "added_by": "lane A worker, round 22, continuing on Adam's 2026-10-10 keep-going request. The Niagara Bible Conference men and their American evangelical neighbours, a missionary pioneer, and two Victorian devotional writers. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "a-c-dixon",
+      "status": "queued",
+      "scope": "A. C. Dixon (Amzi Clarence Dixon, d. 1925): Lights and Shadows of American Life, The Bright Side of Life, sermons",
+      "added": "2026-10-10T14:54:12-05:00",
+      "added_by": "lane A worker, round 22, continuing on Adam's 2026-10-10 keep-going request. The Niagara Bible Conference men and their American evangelical neighbours, a missionary pioneer, and two Victorian devotional writers. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "marvin-r-vincent",
+      "status": "queued",
+      "scope": "Marvin R. Vincent (d. 1922): Word Studies in the New Testament, four volumes, and sermons",
+      "added": "2026-10-10T14:54:12-05:00",
+      "added_by": "lane A worker, round 22, continuing on Adam's 2026-10-10 keep-going request. The Niagara Bible Conference men and their American evangelical neighbours, a missionary pioneer, and two Victorian devotional writers. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "j-r-macduff",
+      "status": "queued",
+      "scope": "J. R. Macduff (John Ross Macduff, d. 1895): The Footsteps of St. Paul, Morning and Night Watches, Memories of Bethany",
+      "added": "2026-10-10T14:54:12-05:00",
+      "added_by": "lane A worker, round 22, continuing on Adam's 2026-10-10 keep-going request. The Niagara Bible Conference men and their American evangelical neighbours, a missionary pioneer, and two Victorian devotional writers. Checked against every remote branch's shelves and queues: none held."
+    },
+    {
+      "id": "frances-ridley-havergal",
+      "status": "queued",
+      "scope": "Frances Ridley Havergal (d. 1879): Kept for the Master's Use, Royal Commandments, devotional prose (hymns only as they fall inside these books)",
+      "added": "2026-10-10T14:54:12-05:00",
+      "added_by": "lane A worker, round 22, continuing on Adam's 2026-10-10 keep-going request. The Niagara Bible Conference men and their American evangelical neighbours, a missionary pioneer, and two Victorian devotional writers. Checked against every remote branch's shelves and queues: none held."
     }
   ]
 }

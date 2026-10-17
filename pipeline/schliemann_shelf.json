@@ -1,0 +1,51 @@
+{
+ "_about": "Heinrich Schliemann (1822-1890), in English. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Troy and Its Remains (ed. Philip Smith), Mycenae: a narrative of researches and discoveries at Mycenae and Tiryns (preface by W. E. Gladstone), clean Gutenberg. Troy and Its Remains is the English version by L. Dora Schmitz, ed. Philip Smith (her death year not checked). No uids minted.",
+ "_name_words": [
+  "schliemann"
+ ],
+ "_surname": [
+  "heinrich schliemann",
+  "henry schliemann",
+  "schliemann, heinrich",
+  "dr. schliemann"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "schliemann-troy-and-its-remains": [
+   45190,
+   "Troy and Its Remains (ed. Philip Smith)",
+   "tr. L. Dora Schmitz"
+  ],
+  "schliemann-mycenae": [
+   56940,
+   "Mycenae: a narrative of researches and discoveries at Mycenae and Tiryns (preface by W. E. Gladstone)"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "schliemann-troy-and-its-remains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "heinrich schliemann",
+   "translator_claimed": "L. Dora Schmitz",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "L. Dora Schmitz",
+   "translator_match": true
+  },
+  "schliemann-mycenae": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "heinrich schliemann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ },
+ "_translators": {
+  "schliemann-troy-and-its-remains": "L. Dora Schmitz"
+ }
+}

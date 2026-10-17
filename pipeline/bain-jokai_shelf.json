@@ -1,0 +1,338 @@
+{
+ "_about": "TRANSLATOR SHELF: R. Nisbet Bain (1854-1909) as translator of fiction: Mór Jókai's novels and tales (Jarrold, 1893-1904), Jonas Lie's Weird Tales from Northern Seas (1893) and Tales from Gorky (1902). His folk-tale books (Cossack, Turkish, Polevoi) are on the other lane's bain_shelf.json, not here. US public domain. Added 2026-10-10 by lane C (round 21); Adam may veto. No uids minted.",
+ "_name_words": [
+  "nisbet bain"
+ ],
+ "_surname": [
+  "nisbet bain"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "bnj-13508": [
+   13508,
+   "Weird Tales from Northern Seas"
+  ],
+  "bnj-17597": [
+   17597,
+   "Halil the Pedlar: A Tale of Old Stambul"
+  ],
+  "bnj-18705": [
+   18705,
+   "The Poor Plutocrats"
+  ],
+  "bnj-20978": [
+   20978,
+   "A Hungarian Nabob"
+  ],
+  "bnj-23608": [
+   23608,
+   "The Day of Wrath"
+  ],
+  "bnj-31642": [
+   31642,
+   "Eyes Like the Sea: A Novel"
+  ],
+  "bnj-31886": [
+   31886,
+   "Pretty Michal"
+  ],
+  "bnj-32234": [
+   32234,
+   "The Lion of Janina; Or, The Last Days of the Janissaries: A Turkish Novel"
+  ],
+  "bnj-37286": [
+   37286,
+   "Tales From Jókai"
+  ],
+  "bnj-37339": [
+   37339,
+   "'Midst the Wild Carpathians"
+  ],
+  "bnj-39048": [
+   39048,
+   "The Slaves of the Padishah"
+  ],
+  "bnj-56870": [
+   56870,
+   "Tales from Gorky"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "bain-jokai-gorky-tales-from-gorky": {
+   "source": "bnj-56870",
+   "of": "Maksim Gorky",
+   "work": "Tales from Gorky",
+   "translated": "1893-1904 (see the Gutenberg header)",
+   "translator": "R. Nisbet Bain",
+   "scan_edition": "Project Gutenberg 56870 (clean text)"
+  },
+  "bain-jokai-jokai-a-hungarian-nabob": {
+   "source": "bnj-20978",
+   "of": "Mór Jókai",
+   "work": "A Hungarian Nabob",
+   "translated": "1893-1904 (see the Gutenberg header)",
+   "translator": "R. Nisbet Bain",
+   "scan_edition": "Project Gutenberg 20978 (clean text)"
+  },
+  "bain-jokai-jokai-eyes-like-the-sea-a-novel": {
+   "source": "bnj-31642",
+   "of": "Mór Jókai",
+   "work": "Eyes Like the Sea: A Novel",
+   "translated": "1893-1904 (see the Gutenberg header)",
+   "translator": "R. Nisbet Bain",
+   "scan_edition": "Project Gutenberg 31642 (clean text)"
+  },
+  "bain-jokai-jokai-halil-the-pedlar-a-tale-of-old-stambul": {
+   "source": "bnj-17597",
+   "of": "Mór Jókai",
+   "work": "Halil the Pedlar: A Tale of Old Stambul",
+   "translated": "1893-1904 (see the Gutenberg header)",
+   "translator": "R. Nisbet Bain",
+   "scan_edition": "Project Gutenberg 17597 (clean text)"
+  },
+  "bain-jokai-jokai-midst-the-wild-carpathians": {
+   "source": "bnj-37339",
+   "of": "Mór Jókai",
+   "work": "'Midst the Wild Carpathians",
+   "translated": "1893-1904 (see the Gutenberg header)",
+   "translator": "R. Nisbet Bain",
+   "scan_edition": "Project Gutenberg 37339 (clean text)"
+  },
+  "bain-jokai-jokai-pretty-michal": {
+   "source": "bnj-31886",
+   "of": "Mór Jókai",
+   "work": "Pretty Michal",
+   "translated": "1893-1904 (see the Gutenberg header)",
+   "translator": "R. Nisbet Bain",
+   "scan_edition": "Project Gutenberg 31886 (clean text)"
+  },
+  "bain-jokai-jokai-tales-from-jokai": {
+   "source": "bnj-37286",
+   "of": "Mór Jókai",
+   "work": "Tales From Jókai",
+   "translated": "1893-1904 (see the Gutenberg header)",
+   "translator": "R. Nisbet Bain",
+   "scan_edition": "Project Gutenberg 37286 (clean text)"
+  },
+  "bain-jokai-jokai-the-day-of-wrath": {
+   "source": "bnj-23608",
+   "of": "Mór Jókai",
+   "work": "The Day of Wrath",
+   "translated": "1893-1904 (see the Gutenberg header)",
+   "translator": "R. Nisbet Bain",
+   "scan_edition": "Project Gutenberg 23608 (clean text)"
+  },
+  "bain-jokai-jokai-the-lion-of-janina-or-the-last-days-of-t": {
+   "source": "bnj-32234",
+   "of": "Mór Jókai",
+   "work": "The Lion of Janina; Or, The Last Days of the Janissaries: A Turkish Novel",
+   "translated": "1893-1904 (see the Gutenberg header)",
+   "translator": "R. Nisbet Bain",
+   "scan_edition": "Project Gutenberg 32234 (clean text)"
+  },
+  "bain-jokai-jokai-the-poor-plutocrats": {
+   "source": "bnj-18705",
+   "of": "Mór Jókai",
+   "work": "The Poor Plutocrats",
+   "translated": "1893-1904 (see the Gutenberg header)",
+   "translator": "R. Nisbet Bain",
+   "scan_edition": "Project Gutenberg 18705 (clean text)"
+  },
+  "bain-jokai-jokai-the-slaves-of-the-padishah": {
+   "source": "bnj-39048",
+   "of": "Mór Jókai",
+   "work": "The Slaves of the Padishah",
+   "translated": "1893-1904 (see the Gutenberg header)",
+   "translator": "R. Nisbet Bain",
+   "scan_edition": "Project Gutenberg 39048 (clean text)"
+  },
+  "bain-jokai-lie-weird-tales-from-northern-seas": {
+   "source": "bnj-13508",
+   "of": "Jonas Lie",
+   "work": "Weird Tales from Northern Seas",
+   "translated": "1893-1904 (see the Gutenberg header)",
+   "translator": "R. Nisbet Bain",
+   "scan_edition": "Project Gutenberg 13508 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "folk-tales": "Cossack Fairy Tales (29672), Polevoi's Russian Fairy Tales (34705) and Kúnos's Turkish Fairy Tales (64807) are on bain_shelf.json (lane D)."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "bnj-13508": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nisbet bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-17597": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nisbet bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-18705": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nisbet bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-20978": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nisbet bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-23608": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nisbet bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-31642": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nisbet bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-31886": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nisbet bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-32234": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nisbet bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-37286": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nisbet bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-37339": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nisbet bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-39048": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nisbet bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-56870": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "nisbet bain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "R. Nisbet Bain"
+  }
+ },
+ "_verified": {
+  "bnj-13508": {
+   "pg": 13508,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-17597": {
+   "pg": 17597,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-18705": {
+   "pg": 18705,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-20978": {
+   "pg": 20978,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-23608": {
+   "pg": 23608,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-31642": {
+   "pg": 31642,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-31886": {
+   "pg": 31886,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-32234": {
+   "pg": 32234,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-37286": {
+   "pg": 37286,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-37339": {
+   "pg": 37339,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-39048": {
+   "pg": 39048,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-56870": {
+   "pg": 56870,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "R. Nisbet Bain"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

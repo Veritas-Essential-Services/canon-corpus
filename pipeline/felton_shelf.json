@@ -1,0 +1,32 @@
+{
+ "_about": "Cornelius Conway Felton (1807-1862), President of Harvard: Greece, Ancient and Modern, Lowell Institute lectures, two volumes in one, ninth edition (Boston: Houghton, Mifflin, 1893; first published 1867), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "felton"
+ ],
+ "_surname": [
+  "c. c. felton",
+  "cornelius conway felton",
+  "felton, c. c"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "felton-greece-ancient-modern-1893": [
+   "greeceancientmod00feltiala",
+   "Greece, Ancient and Modern: Lectures Delivered before the Lowell Institute, two volumes in one (Boston: Houghton, Mifflin, 1893)"
+  ]
+ },
+ "_checks": {
+  "felton-greece-ancient-modern-1893": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. c. felton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "c1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Strindberg in English before 1931, by translator: Edwin Björkman (Scribner's Plays series, 1912-16), Edith and Warner Oland (1912), Claud Field (1912-15), Ellie Schleussner (1912-13). Each title gates on its own translator (_surname_by_slug). US public domain (pre-1931). Added 2026-10-10 by lane C (round 12); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Strindberg in English before 1931, by translator: Edwin Björkman (Scribner's Plays series, 1912-16), Edith and Warner Oland (1912), Claud Field (1912-15), Ellie Schleussner (1912-13), Velma Swanston Howard (Lucky Pehr, 1912; added round 38). Each title gates on its own translator (_surname_by_slug). US public domain (pre-1931). Added 2026-10-10 by lane C (round 12); Adam may veto. No uids minted.",
  "_name_words": [
   "bjorkman",
   "björkman",
@@ -9,6 +9,7 @@
   "ellie schleussner",
   "oland",
   "schleussner",
+  "velma swanston howard",
   "warner oland"
  ],
  "_surname": [
@@ -84,6 +85,9 @@
    "edwin björkman",
    "björkman",
    "bjorkman"
+  ],
+  "sb-howard-lucky-pehr": [
+   "velma swanston howard"
   ]
  },
  "_surname_note": "'oland', 'björkman' and 'schleussner' are surnames, not English words; Field always as 'claud field'.",
@@ -144,6 +148,14 @@
   "sb-schleussner-in-midsummer-days": [
    6694,
    "In Midsummer Days and Other Tales"
+  ],
+  "strindberg-english-pg44107": [
+   44107,
+   "The Growth of a Soul"
+  ],
+  "sb-howard-lucky-pehr": [
+   8510,
+   "Lucky Pehr"
   ]
  },
  "internet_archive": {
@@ -153,6 +165,22 @@
   ]
  },
  "titles": {
+  "strindberg-bjorkman-master-olof": {
+   "source": "sb-bjorkman-master-olof",
+   "of": "Strindberg",
+   "work": "Master Olof",
+   "translated": 1915,
+   "translator": "Edwin Björkman",
+   "scan_edition": "Project Gutenberg 7363 (clean text)"
+  },
+  "strindberg-bjorkman-plays-1": {
+   "source": "sb-bjorkman-plays-1",
+   "of": "Strindberg",
+   "work": "Plays, first series: The Dream Play; The Link; The Dance of Death I and II",
+   "translated": 1912,
+   "translator": "Edwin Björkman",
+   "scan_edition": "Charles Scribner's Sons, New York: published February 1912, reprinted May, July and November 1912 (raw OCR)"
+  },
   "strindberg-bjorkman-plays-2": {
    "source": "sb-bjorkman-plays-2",
    "of": "Strindberg",
@@ -177,29 +205,21 @@
    "translator": "Edwin Björkman",
    "scan_edition": "Project Gutenberg 44302 (clean text)"
   },
-  "strindberg-bjorkman-master-olof": {
-   "source": "sb-bjorkman-master-olof",
+  "strindberg-field-german-lieutenant": {
+   "source": "sb-field-german-lieutenant",
    "of": "Strindberg",
-   "work": "Master Olof",
+   "work": "The German Lieutenant and Other Stories",
    "translated": 1915,
-   "translator": "Edwin Björkman",
-   "scan_edition": "Project Gutenberg 7363 (clean text)"
+   "translator": "Claud Field",
+   "scan_edition": "Project Gutenberg 46107 (clean text)"
   },
-  "strindberg-oland-plays-1": {
-   "source": "sb-oland-plays-1",
+  "strindberg-field-historical-miniatures": {
+   "source": "sb-field-historical-miniatures",
    "of": "Strindberg",
-   "work": "Plays: The Father; Countess Julie; The Outlaw; The Stronger",
-   "translated": 1912,
-   "translator": "Edith and Warner Oland",
-   "scan_edition": "Project Gutenberg 8499 (clean text)"
-  },
-  "strindberg-oland-plays-2": {
-   "source": "sb-oland-plays-2",
-   "of": "Strindberg",
-   "work": "Plays: Comrades; Facing Death; Pariah; Easter",
-   "translated": 1912,
-   "translator": "Edith and Warner Oland",
-   "scan_edition": "Project Gutenberg 8500 (clean text)"
+   "work": "Historical Miniatures",
+   "translated": 1913,
+   "translator": "Claud Field",
+   "scan_edition": "Project Gutenberg 7955 (clean text)"
   },
   "strindberg-field-inferno": {
    "source": "sb-field-inferno",
@@ -217,6 +237,15 @@
    "translator": "Claud Field",
    "scan_edition": "Project Gutenberg 44109 (clean text)"
   },
+  "strindberg-field-the-growth-of-a-soul": {
+   "source": "strindberg-english-pg44107",
+   "of": "Strindberg",
+   "work": "The Growth of a Soul",
+   "translated": "1913",
+   "translator": "Claud Field",
+   "scan_edition": "Project Gutenberg 44107 (clean text)",
+   "added": "2026-10-10, lane C round 36 (gap-fill); Adam may veto"
+  },
   "strindberg-field-zones-of-the-spirit": {
    "source": "sb-field-zones-of-the-spirit",
    "of": "Strindberg",
@@ -225,29 +254,30 @@
    "translator": "Claud Field",
    "scan_edition": "Project Gutenberg 44118 (clean text)"
   },
-  "strindberg-field-german-lieutenant": {
-   "source": "sb-field-german-lieutenant",
+  "strindberg-howard-lucky-pehr": {
+   "source": "sb-howard-lucky-pehr",
    "of": "Strindberg",
-   "work": "The German Lieutenant and Other Stories",
-   "translated": 1915,
-   "translator": "Claud Field",
-   "scan_edition": "Project Gutenberg 46107 (clean text)"
+   "work": "Lucky Pehr",
+   "translated": 1912,
+   "translator": "Velma Swanston Howard",
+   "scan_edition": "Project Gutenberg 8510 (clean text)",
+   "added": "2026-10-10, lane C round 38 (gap-fill); Adam may veto"
   },
-  "strindberg-field-historical-miniatures": {
-   "source": "sb-field-historical-miniatures",
+  "strindberg-oland-plays-1": {
+   "source": "sb-oland-plays-1",
    "of": "Strindberg",
-   "work": "Historical Miniatures",
-   "translated": 1913,
-   "translator": "Claud Field",
-   "scan_edition": "Project Gutenberg 7955 (clean text)"
+   "work": "Plays: The Father; Countess Julie; The Outlaw; The Stronger",
+   "translated": 1912,
+   "translator": "Edith and Warner Oland",
+   "scan_edition": "Project Gutenberg 8499 (clean text)"
   },
-  "strindberg-schleussner-red-room": {
-   "source": "sb-schleussner-red-room",
+  "strindberg-oland-plays-2": {
+   "source": "sb-oland-plays-2",
    "of": "Strindberg",
-   "work": "The Red Room",
-   "translated": 1913,
-   "translator": "Ellie Schleussner",
-   "scan_edition": "Project Gutenberg 37039 (clean text)"
+   "work": "Plays: Comrades; Facing Death; Pariah; Easter",
+   "translated": 1912,
+   "translator": "Edith and Warner Oland",
+   "scan_edition": "Project Gutenberg 8500 (clean text)"
   },
   "strindberg-schleussner-confession-of-a-fool": {
    "source": "sb-schleussner-confession-of-a-fool",
@@ -265,13 +295,13 @@
    "translator": "Ellie Schleussner",
    "scan_edition": "Project Gutenberg 6694 (clean text)"
   },
-  "strindberg-bjorkman-plays-1": {
-   "source": "sb-bjorkman-plays-1",
+  "strindberg-schleussner-red-room": {
+   "source": "sb-schleussner-red-room",
    "of": "Strindberg",
-   "work": "Plays, first series: The Dream Play; The Link; The Dance of Death I and II",
-   "translated": 1912,
-   "translator": "Edwin Björkman",
-   "scan_edition": "Charles Scribner's Sons, New York: published February 1912, reprinted May, July and November 1912 (raw OCR)"
+   "work": "The Red Room",
+   "translated": 1913,
+   "translator": "Ellie Schleussner",
+   "scan_edition": "Project Gutenberg 37039 (clean text)"
   }
  },
  "_pending": {},
@@ -280,7 +310,8 @@
   "pg-5053": "Creditors and Pariah alone: the same Björkman text is in the second series.",
   "pg-8875": "The Road to Damascus, tr. Graham Rawson: the text cites a 1937 production; Rawson's translation is of 1939. Not before 1931.",
   "pg-7956": "Married (1913): no translator named.",
-  "pg-46397": "Legends (1912): no translator named."
+  "pg-46397": "Legends (1912): no translator named.",
+  "pg-45375": "Plays, First Series (Björkman) on Gutenberg: the same series is held from archive.org (sb-bjorkman-plays-1)."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
@@ -410,6 +441,24 @@
    "pg_copyrighted": false,
    "pg_translator": "Ellie Schleussner"
   },
+  "strindberg-english-pg44107": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "claud field",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Claud Field"
+  },
+  "sb-howard-lucky-pehr": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "velma swanston howard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Velma Swanston Howard"
+  },
   "sb-bjorkman-plays-1": {
    "kind": "ia",
    "checked": "2026-10-10",
@@ -492,6 +541,16 @@
    "pg": 6694,
    "pg_copyrighted_marker": false,
    "pg_translator": "Ellie Schleussner"
+  },
+  "strindberg-english-pg44107": {
+   "pg": 44107,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Claud Field"
+  },
+  "sb-howard-lucky-pehr": {
+   "pg": 8510,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Velma Swanston Howard"
   },
   "sb-bjorkman-plays-1": {
    "ia": "playsbyauguststr00stri",

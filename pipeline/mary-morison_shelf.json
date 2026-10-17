@@ -1,0 +1,232 @@
+{
+ "_about": "TRANSLATOR SHELF: Mary Morison: Georg Brandes's Main Currents in Nineteenth Century Literature (Heinemann, 1901-05, 6 vols, with Diana White) and William Shakespeare (1898, with William Archer and Diana White), and Bjørnson's Mary (1909). US public domain. Added 2026-10-10 by lane C (round 24); Adam may veto. No uids minted.",
+ "_name_words": [
+  "mary morison"
+ ],
+ "_surname": [
+  "mary morison"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mmo-33300": [
+   33300,
+   "Mary"
+  ],
+  "mmo-47675": [
+   47675,
+   "Main Currents in Nineteenth Century Literature - 1. The Emigrant Literature"
+  ],
+  "mmo-47781": [
+   47781,
+   "Main Currents in Nineteenth Century Literature - 2. The Romantic School in Germany"
+  ],
+  "mmo-47794": [
+   47794,
+   "Main Currents in Nineteenth Century Literature - 3. The Reaction in France"
+  ],
+  "mmo-47892": [
+   47892,
+   "Main Currents in Nineteenth Century Literature - 4. Naturalism in England"
+  ],
+  "mmo-47950": [
+   47950,
+   "Main Currents in Nineteenth Century Literature - 5. The Romantic School in France"
+  ],
+  "mmo-48042": [
+   48042,
+   "Main Currents in Nineteenth Century Literature - 6. Young Germany"
+  ],
+  "mmo-50724": [
+   50724,
+   "William Shakespeare: A Critical Study"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "mary-morison-bjornson-mary": {
+   "source": "mmo-33300",
+   "of": "Bjørnstjerne Bjørnson",
+   "work": "Mary",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "Mary Morison",
+   "scan_edition": "Project Gutenberg 33300 (clean text)"
+  },
+  "mary-morison-brandes-main-currents-vol-1": {
+   "source": "mmo-47675",
+   "of": "Georg Brandes",
+   "work": "Main Currents in Nineteenth Century Literature - 1. The Emigrant Literature",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "Mary Morison (with Diana White)",
+   "scan_edition": "Project Gutenberg 47675 (clean text)"
+  },
+  "mary-morison-brandes-main-currents-vol-2": {
+   "source": "mmo-47781",
+   "of": "Georg Brandes",
+   "work": "Main Currents in Nineteenth Century Literature - 2. The Romantic School in Germany",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "Mary Morison (with Diana White)",
+   "scan_edition": "Project Gutenberg 47781 (clean text)"
+  },
+  "mary-morison-brandes-main-currents-vol-3": {
+   "source": "mmo-47794",
+   "of": "Georg Brandes",
+   "work": "Main Currents in Nineteenth Century Literature - 3. The Reaction in France",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "Mary Morison (with Diana White)",
+   "scan_edition": "Project Gutenberg 47794 (clean text)"
+  },
+  "mary-morison-brandes-main-currents-vol-4": {
+   "source": "mmo-47892",
+   "of": "Georg Brandes",
+   "work": "Main Currents in Nineteenth Century Literature - 4. Naturalism in England",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "Mary Morison (with Diana White)",
+   "scan_edition": "Project Gutenberg 47892 (clean text)"
+  },
+  "mary-morison-brandes-main-currents-vol-5": {
+   "source": "mmo-47950",
+   "of": "Georg Brandes",
+   "work": "Main Currents in Nineteenth Century Literature - 5. The Romantic School in France",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "Mary Morison (with Diana White)",
+   "scan_edition": "Project Gutenberg 47950 (clean text)"
+  },
+  "mary-morison-brandes-main-currents-vol-6": {
+   "source": "mmo-48042",
+   "of": "Georg Brandes",
+   "work": "Main Currents in Nineteenth Century Literature - 6. Young Germany",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "Mary Morison (with Diana White)",
+   "scan_edition": "Project Gutenberg 48042 (clean text)"
+  },
+  "mary-morison-brandes-william-shakespeare-a-critical-study": {
+   "source": "mmo-50724",
+   "of": "Georg Brandes",
+   "work": "William Shakespeare: A Critical Study",
+   "translated": "1898-1909 (see the Gutenberg header)",
+   "translator": "Mary Morison (with William Archer, Diana White)",
+   "scan_edition": "Project Gutenberg 50724 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mmo-33300": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary morison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Morison"
+  },
+  "mmo-47675": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary morison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Morison; Diana White"
+  },
+  "mmo-47781": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary morison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Morison; Diana White"
+  },
+  "mmo-47794": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary morison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Morison; Diana White"
+  },
+  "mmo-47892": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary morison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Morison; Diana White"
+  },
+  "mmo-47950": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary morison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Morison; Diana White"
+  },
+  "mmo-48042": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary morison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Morison; Diana White"
+  },
+  "mmo-50724": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary morison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Archer; Mary Morison; Diana White"
+  }
+ },
+ "_verified": {
+  "mmo-33300": {
+   "pg": 33300,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Morison"
+  },
+  "mmo-47675": {
+   "pg": 47675,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Morison"
+  },
+  "mmo-47781": {
+   "pg": 47781,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Morison"
+  },
+  "mmo-47794": {
+   "pg": 47794,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Morison"
+  },
+  "mmo-47892": {
+   "pg": 47892,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Morison"
+  },
+  "mmo-47950": {
+   "pg": 47950,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Morison"
+  },
+  "mmo-48042": {
+   "pg": 48042,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Morison"
+  },
+  "mmo-50724": {
+   "pg": 50724,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "William Archer"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

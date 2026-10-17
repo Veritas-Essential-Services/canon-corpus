@@ -1,0 +1,123 @@
+{
+ "_about": "Public-domain John Ker (1819-1886, United Presbyterian, Glasgow, professor of practical training in the UP Theological Hall) for the Word Hoard: Sermons (first series, 13th ed., 1885; second series, 3rd ed., 1888), Lectures on the History of Preaching (2nd ed., 1888), Thoughts for Heart and Life (1888), The Psalms in History and Biography (1886) and Scottish Nationality and Other Papers (1887), raw Internet Archive OCR. Not the other John Kers. Added 2026-10-10 by lane A, round 16 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "ker",
+  "john"
+ ],
+ "_surname": [
+  "john ker, d.d",
+  "rev. john ker",
+  "john ker, glasgow",
+  "the late john ker",
+  "rev. john ker, d.d",
+  "john ker"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jker-sermons-1-1885": [
+   "sermons0000revj_k5s6",
+   "Sermons [first series], thirteenth edition (Edinburgh: David Douglas, MDCCCLXXXV)"
+  ],
+  "jker-sermons-2-1888": [
+   "sermonsbyrevjohn00kerruoft",
+   "Sermons, Second Series, third edition (Edinburgh: David Douglas, MDCCCLXXXVIII)"
+  ],
+  "jker-history-preaching-1888": [
+   "historyofpreach00keruoft",
+   "Lectures on the History of Preaching, ed. A. R. MacEwen, second edition (London: Hodder and Stoughton, MDCCCLXXXVIII)"
+  ],
+  "jker-thoughts-1888": [
+   "thoughtsforheart0000revj",
+   "Thoughts for Heart and Life, ed. A. L. Simpson (Edinburgh: David Douglas, 1888)"
+  ],
+  "jker-psalms-history-1886": [
+   "psalmsinhistoryb00kerjrich",
+   "The Psalms in History and Biography (Edinburgh: Andrew Elliot, 1886)"
+  ],
+  "jker-scottish-nationality-1887": [
+   "scottishnationa00kergoog",
+   "Scottish Nationality and Other Papers (Edinburgh: Andrew Elliot, 1887)"
+  ]
+ },
+ "_alternates": {
+  "jker-letters-1890": "Letters 1866-1885, 2nd ed. 1890 (IA lettersrevjohnk00kergoog): the title page names no author in its OCR",
+  "jker-us-editions": "The Day Dawn and the Rain (Carter, 1869; IA daydawnrainother00kerj) and The Victory of Faith (IA victoryoffaithot00kerj): the American printings of the two sermon series"
+ },
+ "_excluded": {},
+ "_rights_checked": {
+  "jker-sermons-1-1885": "a \"0000\"-style id; the research pass read the title page: thirteenth edition, Edinburgh, David Douglas, MDCCCLXXXV",
+  "jker-thoughts-1888": "a \"0000\"-style id; the research pass read the title page: Edinburgh, David Douglas, 1888"
+ },
+ "_checks": {
+  "jker-sermons-1-1885": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rev. john ker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "a \"0000\"-style id; the research pass read the title page: thirteenth edition, Edinburgh, David Douglas, MDCCCLXXXV"
+  },
+  "jker-sermons-2-1888": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john ker, d.d",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jker-history-preaching-1888": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john ker, d.d",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jker-thoughts-1888": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john ker, d.d",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "a \"0000\"-style id; the research pass read the title page: Edinburgh, David Douglas, 1888"
+  },
+  "jker-psalms-history-1886": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john ker, d.d",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jker-scottish-nationality-1887": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john ker, d.d",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

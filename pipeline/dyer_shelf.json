@@ -1,0 +1,48 @@
+{
+ "_about": "Thomas Henry Dyer (1804-1888): Ancient Athens, its History, Topography, and Remains (London: Bell and Daldy, 1873; the OCR reads the year '18738') and The City of Rome, its Vicissitudes and Monuments, second edition, revised (London: George Bell, 1883), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "dyer"
+ ],
+ "_surname": [
+  "thomas henry dyer",
+  "thomas h. dyer",
+  "t. h. dyer",
+  "dyer, thomas henry"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dyer-ancient-athens-1873": [
+   "cu31924028305294",
+   "Ancient Athens: its History, Topography, and Remains (London: Bell and Daldy, 1873)"
+  ],
+  "dyer-city-of-rome-1883": [
+   "cityromeitsvici00dyergoog",
+   "The City of Rome: its Vicissitudes and Monuments, second edition, revised (London: George Bell, 1883)"
+  ]
+ },
+ "_checks": {
+  "dyer-ancient-athens-1873": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas henry dyer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dyer-city-of-rome-1883": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas h. dyer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

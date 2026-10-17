@@ -1,0 +1,87 @@
+{
+ "_about": "Public-domain C. F. W. Walther (Carl Ferdinand Wilhelm Walther, 1811-1887, first president of the Missouri Synod) for the Word Hoard, in English translations printed before 1930 only: The Proper Distinction between Law and Gospel (tr. W. H. T. Dau, 1929), The Controversy concerning Predestination (tr. August Crull, 1881) and the sermon The Doctrine of the Lord's Supper (translator not named, 1872), raw Internet Archive OCR. A small shelf: most of his work was never Englished before 1930. Added 2026-10-10 by lane A, round 19 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "walther"
+ ],
+ "_surname": [
+  "c. f. w. walther",
+  "walther, c. f. w.",
+  "carl ferdinand wilhelm walther",
+  "walther, carl ferdinand wilhelm",
+  "c. f. w. walther, d.d.",
+  "prof. c. f. w. walther"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "walther-law-and-gospel": [
+   "properdistinctio00walt",
+   "The Proper Distinction between Law and Gospel: Thirty-Nine Evening Lectures, reproduced from the German edition of 1897 by W. H. T. Dau (St. Louis: Concordia, 1929)"
+  ],
+  "walther-predestination": [
+   "WaltherControversyConcerningPredestination",
+   "The Controversy concerning Predestination, translated by Aug. Crull (St. Louis: Concordia, 1881)",
+   "Walther-Controversy Concerning Predestination_djvu.txt"
+  ],
+  "walther-lords-supper": [
+   "doctrineofthelordssupper",
+   "The Doctrine of the Lord's Supper: A Sermon, translated from the German, translator not named (Philadelphia: The Lutheran Bookstore, 1872)",
+   "Doctrine of the Lord's Supper_djvu.txt"
+  ]
+ },
+ "_alternates": {
+  "walther-election": "The Doctrine concerning Election, from the Formula of Concord in questions and answers, with his preface and conclusion (1881; IA doctrineconcerni00walt): mostly the Formula's text",
+  "walther-law-gospel-copies": "Two undated copies of Dau's Law and Gospel (IA Walther_ProperDisctinctionLawGospel1929, properdistinctio0000drcf)"
+ },
+ "_excluded": {
+  "walther-german": "German works (Licht des Lebens, district essays, letters)",
+  "walther-late": "Church Membership (1931), 1938 items, DeepL machine translations and other modern translations",
+  "walther-biographies": "Janzow (1899) and Steffens (1917) lives of him",
+  "walther-gravelton": "1872 conference proceedings that do not name him on the title page",
+  "walther-namesakes": "other Walthers"
+ },
+ "_translators": {
+  "walther-law-and-gospel": "dau",
+  "walther-predestination": "crull"
+ },
+ "_checks": {
+  "walther-law-and-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. f. w. walther",
+   "translator_claimed": "dau",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "walther-predestination": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. f. w. walther",
+   "translator_claimed": "crull",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "walther-lords-supper": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. f. w. walther",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

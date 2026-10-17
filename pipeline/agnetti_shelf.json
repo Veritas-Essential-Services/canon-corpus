@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Mary Prichard Agnetti (1870-1948): Fogazzaro's The Patriot (Piccolo mondo antico, 1906) and Leila (1911). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_name_words": [
+  "prichard agnetti",
+  "agnetti"
+ ],
+ "_surname": [
+  "prichard agnetti",
+  "agnetti"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "agn-33778": [
+   33778,
+   "The Patriot (Piccolo Mondo Antico)"
+  ],
+  "agn-78258": [
+   78258,
+   "Leila"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "agnetti-fogazzaro-leila": {
+   "source": "agn-78258",
+   "of": "Antonio Fogazzaro",
+   "work": "Leila",
+   "translated": "1906-1911 (see the Gutenberg header)",
+   "translator": "M. Prichard Agnetti",
+   "scan_edition": "Project Gutenberg 78258 (clean text)"
+  },
+  "agnetti-fogazzaro-the-patriot-piccolo-mondo-antico": {
+   "source": "agn-33778",
+   "of": "Antonio Fogazzaro",
+   "work": "The Patriot (Piccolo Mondo Antico)",
+   "translated": "1906-1911 (see the Gutenberg header)",
+   "translator": "M. Prichard Agnetti",
+   "scan_edition": "Project Gutenberg 33778 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "agn-33778": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "prichard agnetti",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Prichard Agnetti"
+  },
+  "agn-78258": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "prichard agnetti",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Prichard Agnetti"
+  }
+ },
+ "_verified": {
+  "agn-33778": {
+   "pg": 33778,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Prichard Agnetti"
+  },
+  "agn-78258": {
+   "pg": 78258,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Prichard Agnetti"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

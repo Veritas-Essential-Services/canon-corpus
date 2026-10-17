@@ -1,0 +1,45 @@
+{
+ "_about": "H. L. Gordon's Legends of the Northwest (undated in the text), Dakota and Ojibwa legends retold as narrative poems, with his notes. Gutenberg catalogue: Gordon 1836-1920. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "H. L. Gordon",
+ "_name_words": [
+  "dakotas"
+ ],
+ "_surname": [
+  "hanford lennox gordon",
+  "h. l. gordon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hlgordon-legends-of-the-northwest": [
+   8122,
+   "Legends of the Northwest",
+   {
+    "levels": [
+     {
+      "re": "PRELUDE\\.$|THE FEAST OF THE VIRGINS\\. \\[1\\]$|WINONA\\.$|THE LEGEND OF THE FALLS\\.$|THE SEAGULL\\. \\[101\\]$|MINNETONKA$|FOOTNOTES:$|FOOTNOTES TO THE SEA-GULL:$",
+      "strip": " \\[\\d+\\]$|:$"
+     },
+     {
+      "re": "THE MISSISSIPPI\\.$|THE GAME OF BALL\\..*|HEYÓKA WACÍPEE.*|THE FEAST OF THE VIRGINS\\.$|THE \"WAKAN WACEPEE,\".*|THE LEGEND\\.$",
+      "strip": " \\[\\d+\\]$"
+     }
+    ],
+    "start": "PRELUDE\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "hlgordon-legends-of-the-northwest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hanford lennox gordon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

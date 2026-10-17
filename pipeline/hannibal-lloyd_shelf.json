@@ -1,0 +1,132 @@
+{
+ "_about": "TRANSLATOR SHELF: Hannibal Evans Lloyd (1771-1847): Prince Maximilian of Wied's Travels in the Interior of North America (1843; Thwaites's Early Western Travels reprint, 1905-06, 3 vols) and Iffland's The Nephews (1799). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_name_words": [
+  "h. evans lloyd",
+  "hannibal evans lloyd",
+  "lloyd"
+ ],
+ "_surname": [
+  "h. evans lloyd",
+  "hannibal evans lloyd",
+  "lloyd"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "hel-31667": [
+   31667,
+   "The Nephews: A Play, in Five Acts."
+  ],
+  "hel-38784": [
+   38784,
+   "Maximilian, Prince of Wied's, Travels in the Interior of North America, 1832-1834, part 1"
+  ],
+  "hel-47392": [
+   47392,
+   "Maximilian, Prince of Wied's, Travels in the Interior of North America, 1832-1834, part 2"
+  ],
+  "hel-48235": [
+   48235,
+   "Maximilian, Prince of Wied's, Travels in the Interior of North America, 1832-1834, part 3 and appendix"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "hannibal-lloyd-iffland-the-nephews-a-play-in-five-acts": {
+   "source": "hel-31667",
+   "of": "August Wilhelm Iffland",
+   "work": "The Nephews: A Play, in Five Acts.",
+   "translated": "1799-1843 (see the Gutenberg header)",
+   "translator": "Hannibal Evans Lloyd",
+   "scan_edition": "Project Gutenberg 31667 (clean text)"
+  },
+  "hannibal-lloyd-wied-travels-in-the-interior-of-north-america-part-1": {
+   "source": "hel-38784",
+   "of": "Maximilian Wied",
+   "work": "Maximilian, Prince of Wied's, Travels in the Interior of North America, 1832-1834, part 1",
+   "translated": "1799-1843 (see the Gutenberg header)",
+   "translator": "Hannibal Evans Lloyd",
+   "scan_edition": "Project Gutenberg 38784 (clean text)"
+  },
+  "hannibal-lloyd-wied-travels-in-the-interior-of-north-america-part-2": {
+   "source": "hel-47392",
+   "of": "Maximilian Wied",
+   "work": "Maximilian, Prince of Wied's, Travels in the Interior of North America, 1832-1834, part 2",
+   "translated": "1799-1843 (see the Gutenberg header)",
+   "translator": "Hannibal Evans Lloyd",
+   "scan_edition": "Project Gutenberg 47392 (clean text)"
+  },
+  "hannibal-lloyd-wied-travels-in-the-interior-of-north-america-part-3": {
+   "source": "hel-48235",
+   "of": "Maximilian Wied",
+   "work": "Maximilian, Prince of Wied's, Travels in the Interior of North America, 1832-1834, part 3 and appendix",
+   "translated": "1799-1843 (see the Gutenberg header)",
+   "translator": "Hannibal Evans Lloyd",
+   "scan_edition": "Project Gutenberg 48235 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "hel-31667": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hannibal evans lloyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Hannibal Evans Lloyd"
+  },
+  "hel-38784": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. evans lloyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Hannibal Evans Lloyd"
+  },
+  "hel-47392": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "h. evans lloyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Hannibal Evans Lloyd"
+  },
+  "hel-48235": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hannibal evans lloyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Hannibal Evans Lloyd"
+  }
+ },
+ "_verified": {
+  "hel-31667": {
+   "pg": 31667,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Hannibal Evans Lloyd"
+  },
+  "hel-38784": {
+   "pg": 38784,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Hannibal Evans Lloyd"
+  },
+  "hel-47392": {
+   "pg": 47392,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Hannibal Evans Lloyd"
+  },
+  "hel-48235": {
+   "pg": 48235,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Hannibal Evans Lloyd"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -131,7 +131,8 @@
   "pg7073": "Specimens of Greek Tragedy (Goldwin Smith): excerpts from Aeschylus and Sophocles, not whole plays",
   "Herbert Weir Smyth, Loeb (1922-26)": "now held from Perseus: the seven plays (aeschylus-perseus-smyth-*), English only. Perseus's source lines mark these files '(Modernized by Perseus.)', so the spelling may not be Smyth's as printed",
   "G. M. Cookson, Aeschylus' Plays (Everyman, 1906)": "the only scan with text (aeschylusplays0000gmco) is a later Everyman printing whose introduction cites a 1936 book, so it carries post-1930 matter; not taken",
-  "agamemnonrevtran00aescuoft": "John F. Davies's Agamemnon, revised and translated (1868): Greek text facing, OCR 0.60, under the 0.78 bar"
+  "agamemnonrevtran00aescuoft": "John F. Davies's Agamemnon, revised and translated (1868): Greek text facing, OCR 0.60, under the 0.78 bar",
+  "B. H. Kennedy, The Agamemnon of Aeschylus, with a verse translation (1882)": "IA agamemnonaeschy00kenngoog reads 0.642 (Greek text facing); under the bar, and part of the Greek-facing question already put to Adam"
  },
  "perseus": {
   "aeschylus-perseus-browning-agamemnon": [

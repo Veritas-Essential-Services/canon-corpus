@@ -35,17 +35,41 @@
   "hapgood-nobleman": [
    25771,
    "A Nobleman's Nest"
+  ],
+  "hapgood-pg2610": [
+   2610,
+   "Notre-Dame de Paris"
+  ],
+  "hapgood-pg3540": [
+   3540,
+   "The Census in Moscow"
+  ],
+  "hapgood-pg3541": [
+   3541,
+   "What to Do? Thoughts Evoked by the Census of Moscow"
+  ],
+  "hapgood-pg3631": [
+   3631,
+   "On the Significance of Science and Art"
+  ],
+  "hapgood-pg47197": [
+   47197,
+   "Sevastopol"
+  ],
+  "hapgood-pg61172": [
+   61172,
+   "The Steel Flea"
   ]
  },
  "internet_archive": {},
  "titles": {
-  "hapgood-les-miserables": {
-   "source": "hapgood-les-miserables",
-   "of": "Hugo",
-   "work": "Les Misérables",
-   "translated": 1887,
+  "hapgood-bunin-village": {
+   "source": "hapgood-village",
+   "of": "Bunin",
+   "work": "The Village",
+   "translated": 1923,
    "translator": "Isabel F. Hapgood",
-   "scan_edition": "Project Gutenberg 135 (clean text)"
+   "scan_edition": "Project Gutenberg 59981 (clean text)"
   },
   "hapgood-gorky-orloff": {
    "source": "hapgood-orloff",
@@ -55,13 +79,67 @@
    "translator": "Isabel F. Hapgood",
    "scan_edition": "Project Gutenberg 55636 (clean text)"
   },
-  "hapgood-bunin-village": {
-   "source": "hapgood-village",
-   "of": "Bunin",
-   "work": "The Village",
-   "translated": 1923,
+  "hapgood-hugo-notre-dame-de-paris": {
+   "source": "hapgood-pg2610",
+   "of": "Victor Hugo",
+   "work": "Notre-Dame de Paris",
+   "translated": "1888",
+   "translator": "Isabel Florence Hapgood",
+   "scan_edition": "Project Gutenberg 2610 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "hapgood-les-miserables": {
+   "source": "hapgood-les-miserables",
+   "of": "Hugo",
+   "work": "Les Misérables",
+   "translated": 1887,
    "translator": "Isabel F. Hapgood",
-   "scan_edition": "Project Gutenberg 59981 (clean text)"
+   "scan_edition": "Project Gutenberg 135 (clean text)"
+  },
+  "hapgood-leskov-the-steel-flea": {
+   "source": "hapgood-pg61172",
+   "of": "Nikolai Leskov",
+   "work": "The Steel Flea",
+   "translated": "1916",
+   "translator": "Isabel Florence Hapgood",
+   "scan_edition": "Project Gutenberg 61172 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "hapgood-tolstoy-on-the-significance-of-science-and-art": {
+   "source": "hapgood-pg3631",
+   "of": "Leo Tolstoy",
+   "work": "On the Significance of Science and Art",
+   "translated": "1887",
+   "translator": "Isabel Florence Hapgood",
+   "scan_edition": "Project Gutenberg 3631 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "hapgood-tolstoy-sevastopol": {
+   "source": "hapgood-pg47197",
+   "of": "Leo Tolstoy",
+   "work": "Sevastopol",
+   "translated": "1888",
+   "translator": "Isabel Florence Hapgood",
+   "scan_edition": "Project Gutenberg 47197 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "hapgood-tolstoy-the-census-in-moscow": {
+   "source": "hapgood-pg3540",
+   "of": "Leo Tolstoy",
+   "work": "The Census in Moscow",
+   "translated": "1887",
+   "translator": "Isabel Florence Hapgood",
+   "scan_edition": "Project Gutenberg 3540 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "hapgood-tolstoy-what-to-do": {
+   "source": "hapgood-pg3541",
+   "of": "Leo Tolstoy",
+   "work": "What to Do? Thoughts Evoked by the Census of Moscow",
+   "translated": "1887",
+   "translator": "Isabel Florence Hapgood",
+   "scan_edition": "Project Gutenberg 3541 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
   },
   "hapgood-turgenev-first-love": {
    "source": "hapgood-first-love",
@@ -71,13 +149,13 @@
    "translator": "Isabel F. Hapgood",
    "scan_edition": "Project Gutenberg 56878 (clean text)"
   },
-  "hapgood-turgenev-superfluous-man": {
-   "source": "hapgood-superfluous-man",
+  "hapgood-turgenev-nobleman": {
+   "source": "hapgood-nobleman",
    "of": "Turgenev",
-   "work": "The Diary of a Superfluous Man, and Other Stories",
-   "translated": 1904,
+   "work": "A Nobleman's Nest",
+   "translated": 1903,
    "translator": "Isabel F. Hapgood",
-   "scan_edition": "Project Gutenberg 41201 (clean text)"
+   "scan_edition": "Project Gutenberg 25771 (clean text)"
   },
   "hapgood-turgenev-reckless-character": {
    "source": "hapgood-reckless-character",
@@ -87,24 +165,26 @@
    "translator": "Isabel F. Hapgood",
    "scan_edition": "Project Gutenberg 15994 (clean text)"
   },
-  "hapgood-turgenev-nobleman": {
-   "source": "hapgood-nobleman",
+  "hapgood-turgenev-superfluous-man": {
+   "source": "hapgood-superfluous-man",
    "of": "Turgenev",
-   "work": "A Nobleman's Nest",
-   "translated": 1903,
+   "work": "The Diary of a Superfluous Man, and Other Stories",
+   "translated": 1904,
    "translator": "Isabel F. Hapgood",
-   "scan_edition": "Project Gutenberg 25771 (clean text)"
+   "scan_edition": "Project Gutenberg 41201 (clean text)"
   }
  },
  "_pending": {
-  "hapgood-tolstoy": "Hapgood's Tolstoy (Childhood, Boyhood, Youth 1886; Sevastopol 1888): not on Gutenberg in her version; IA not checked this run."
+  "hapgood-tolstoy-childhood": "Hapgood's Childhood, Boyhood, Youth (1886): not on Gutenberg in her version; IA not checked. (Her Sevastopol was found on Gutenberg in round 35.)"
  },
- "_excluded": {},
+ "_excluded": {
+  "pg-3630": "What to Do? again: a second Gutenberg file of the same Hapgood translation; this shelf keeps 3541."
+ },
  "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
  "_checks": {
   "hapgood-les-miserables": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -113,7 +193,7 @@
   },
   "hapgood-orloff": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -122,7 +202,7 @@
   },
   "hapgood-village": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -131,7 +211,7 @@
   },
   "hapgood-first-love": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -140,7 +220,7 @@
   },
   "hapgood-superfluous-man": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -149,7 +229,7 @@
   },
   "hapgood-reckless-character": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -158,7 +238,61 @@
   },
   "hapgood-nobleman": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hapgood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-pg2610": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hapgood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-pg3540": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hapgood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-pg3541": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hapgood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-pg3631": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hapgood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-pg47197": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "hapgood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-pg61172": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "hapgood",
    "identity": "ok",
@@ -199,6 +333,36 @@
   },
   "hapgood-nobleman": {
    "pg": 25771,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-pg2610": {
+   "pg": 2610,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-pg3540": {
+   "pg": 3540,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-pg3541": {
+   "pg": 3541,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-pg3631": {
+   "pg": 3631,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-pg47197": {
+   "pg": 47197,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Isabel Florence Hapgood"
+  },
+  "hapgood-pg61172": {
+   "pg": 61172,
    "pg_copyrighted_marker": false,
    "pg_translator": "Isabel Florence Hapgood"
   }

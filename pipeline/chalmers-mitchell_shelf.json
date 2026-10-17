@@ -1,0 +1,80 @@
+{
+ "_about": "TRANSLATOR SHELF: Sir Peter Chalmers Mitchell (1864-1945): Hertwig's The Biological Problem of To-day (1896) and Metchnikoff's The Nature of Man (1903). US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted.",
+ "_name_words": [
+  "p. chalmers mitchell",
+  "peter chalmers mitchell",
+  "chalmers mitchell"
+ ],
+ "_surname": [
+  "p. chalmers mitchell",
+  "peter chalmers mitchell",
+  "chalmers mitchell"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "pcm-37221": [
+   37221,
+   "The Biological Problem of To-day: Preformation Or Epigenesis? The Basis of a Theory of Organic Development"
+  ],
+  "pcm-75505": [
+   75505,
+   "The nature of man"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "chalmers-mitchell-hertwig-the-biological-problem-of-to-day-preform": {
+   "source": "pcm-37221",
+   "of": "Oscar Hertwig",
+   "work": "The Biological Problem of To-day: Preformation Or Epigenesis? The Basis of a Theory of Organic Development",
+   "translated": "1896-1903 (see the Gutenberg header)",
+   "translator": "P. Chalmers Mitchell",
+   "scan_edition": "Project Gutenberg 37221 (clean text)"
+  },
+  "chalmers-mitchell-metchnikoff-the-nature-of-man": {
+   "source": "pcm-75505",
+   "of": "Elie Metchnikoff",
+   "work": "The nature of man",
+   "translated": "1896-1903 (see the Gutenberg header)",
+   "translator": "P. Chalmers Mitchell",
+   "scan_edition": "Project Gutenberg 75505 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "pcm-37221": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. chalmers mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir P. Chalmers Mitchell"
+  },
+  "pcm-75505": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "p. chalmers mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sir P. Chalmers Mitchell"
+  }
+ },
+ "_verified": {
+  "pcm-37221": {
+   "pg": 37221,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir P. Chalmers Mitchell"
+  },
+  "pcm-75505": {
+   "pg": 75505,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sir P. Chalmers Mitchell"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

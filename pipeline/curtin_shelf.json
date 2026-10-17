@@ -31,10 +31,76 @@
   "curtin-field-of-glory": [
    37406,
    "On the Field of Glory"
+  ],
+  "curtin-pg20537": [
+   20537,
+   "The Argonauts"
+  ],
+  "curtin-pg23646": [
+   23646,
+   "The Pharaoh and the Priest"
+  ],
+  "curtin-pg35736": [
+   35736,
+   "Life and Death, and Other Legends and Stories"
+  ],
+  "curtin-pg36583": [
+   36583,
+   "Hania"
+  ],
+  "curtin-pg41988": [
+   41988,
+   "Let Us Follow Him"
+  ],
+  "curtin-pg44939": [
+   44939,
+   "Children of the Soil"
+  ],
+  "curtin-pg46454": [
+   46454,
+   "In Vain"
+  ],
+  "curtin-pg47527": [
+   47527,
+   "Lillian Morris, and Other Stories"
   ]
  },
  "internet_archive": {},
  "titles": {
+  "curtin-on-the-field-of-glory": {
+   "source": "curtin-field-of-glory",
+   "of": "Sienkiewicz",
+   "work": "On the Field of Glory",
+   "translated": 1906,
+   "translator": "Jeremiah Curtin",
+   "scan_edition": "Project Gutenberg 37406 (clean text)"
+  },
+  "curtin-orzeszkowa-the-argonauts": {
+   "source": "curtin-pg20537",
+   "of": "Eliza Orzeszkowa",
+   "work": "The Argonauts",
+   "translated": "1901",
+   "translator": "Jeremiah Curtin",
+   "scan_edition": "Project Gutenberg 20537 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "curtin-pan-michael": {
+   "source": "curtin-pan-michael",
+   "of": "Sienkiewicz",
+   "work": "Pan Michael (Trilogy III)",
+   "translated": 1893,
+   "translator": "Jeremiah Curtin",
+   "scan_edition": "Project Gutenberg 37361 (clean text)"
+  },
+  "curtin-prus-the-pharaoh-and-the-priest": {
+   "source": "curtin-pg23646",
+   "of": "Bolesław Prus",
+   "work": "The Pharaoh and the Priest",
+   "translated": "1902",
+   "translator": "Jeremiah Curtin",
+   "scan_edition": "Project Gutenberg 23646 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
   "curtin-quo-vadis": {
    "source": "curtin-quo-vadis",
    "of": "Sienkiewicz",
@@ -43,13 +109,59 @@
    "translator": "Jeremiah Curtin",
    "scan_edition": "Project Gutenberg 2853 (clean text)"
   },
-  "curtin-with-fire-and-sword": {
-   "source": "curtin-fire-and-sword",
-   "of": "Sienkiewicz",
-   "work": "With Fire and Sword (Trilogy I)",
-   "translated": 1890,
+  "curtin-sienkiewicz-children-of-the-soil": {
+   "source": "curtin-pg44939",
+   "of": "Henryk Sienkiewicz",
+   "work": "Children of the Soil",
+   "translated": "1895",
    "translator": "Jeremiah Curtin",
-   "scan_edition": "Project Gutenberg 37027 (clean text)"
+   "scan_edition": "Project Gutenberg 44939 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "curtin-sienkiewicz-hania": {
+   "source": "curtin-pg36583",
+   "of": "Henryk Sienkiewicz",
+   "work": "Hania",
+   "translated": "1897",
+   "translator": "Jeremiah Curtin",
+   "scan_edition": "Project Gutenberg 36583 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "curtin-sienkiewicz-in-vain": {
+   "source": "curtin-pg46454",
+   "of": "Henryk Sienkiewicz",
+   "work": "In Vain",
+   "translated": "1899",
+   "translator": "Jeremiah Curtin",
+   "scan_edition": "Project Gutenberg 46454 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "curtin-sienkiewicz-let-us-follow-him": {
+   "source": "curtin-pg41988",
+   "of": "Henryk Sienkiewicz",
+   "work": "Let Us Follow Him",
+   "translated": "1897",
+   "translator": "Jeremiah Curtin",
+   "scan_edition": "Project Gutenberg 41988 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "curtin-sienkiewicz-life-and-death": {
+   "source": "curtin-pg35736",
+   "of": "Henryk Sienkiewicz",
+   "work": "Life and Death, and Other Legends and Stories",
+   "translated": "1904",
+   "translator": "Jeremiah Curtin",
+   "scan_edition": "Project Gutenberg 35736 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "curtin-sienkiewicz-lillian-morris": {
+   "source": "curtin-pg47527",
+   "of": "Henryk Sienkiewicz",
+   "work": "Lillian Morris, and Other Stories",
+   "translated": "1894",
+   "translator": "Jeremiah Curtin",
+   "scan_edition": "Project Gutenberg 47527 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
   },
   "curtin-the-deluge": {
    "source": [
@@ -62,33 +174,27 @@
    "translator": "Jeremiah Curtin",
    "scan_edition": "Project Gutenberg 37198 + 37308 (clean text)"
   },
-  "curtin-pan-michael": {
-   "source": "curtin-pan-michael",
+  "curtin-with-fire-and-sword": {
+   "source": "curtin-fire-and-sword",
    "of": "Sienkiewicz",
-   "work": "Pan Michael (Trilogy III)",
-   "translated": 1893,
+   "work": "With Fire and Sword (Trilogy I)",
+   "translated": 1890,
    "translator": "Jeremiah Curtin",
-   "scan_edition": "Project Gutenberg 37361 (clean text)"
-  },
-  "curtin-on-the-field-of-glory": {
-   "source": "curtin-field-of-glory",
-   "of": "Sienkiewicz",
-   "work": "On the Field of Glory",
-   "translated": 1906,
-   "translator": "Jeremiah Curtin",
-   "scan_edition": "Project Gutenberg 37406 (clean text)"
+   "scan_edition": "Project Gutenberg 37027 (clean text)"
   }
  },
  "_pending": {
   "curtin-knights-of-the-cross": "The Knights of the Cross (1900): Gutenberg's edition is not Curtin's; no Curtin scan checked this run.",
   "curtin-myths": "Curtin's own collections of Irish, Russian and Native American myths: his own fieldwork rather than translations of a work; left out."
  },
- "_excluded": {},
+ "_excluded": {
+  "pg-35499": "The Pharaoh and the Priest again: a second Gutenberg transcription of the same Curtin translation; this shelf keeps 23646."
+ },
  "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
  "_checks": {
   "curtin-quo-vadis": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "curtin",
    "identity": "ok",
@@ -97,7 +203,7 @@
   },
   "curtin-fire-and-sword": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "curtin",
    "identity": "ok",
@@ -106,7 +212,7 @@
   },
   "curtin-deluge-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "curtin",
    "identity": "ok",
@@ -115,7 +221,7 @@
   },
   "curtin-deluge-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "curtin",
    "identity": "ok",
@@ -124,7 +230,7 @@
   },
   "curtin-pan-michael": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "curtin",
    "identity": "ok",
@@ -133,7 +239,79 @@
   },
   "curtin-field-of-glory": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "curtin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pg20537": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "curtin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pg23646": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "curtin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pg35736": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "curtin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pg36583": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "curtin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pg41988": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "curtin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pg44939": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "curtin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pg46454": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "curtin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pg47527": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
    "name_check": "surname",
    "author_seen": "curtin",
    "identity": "ok",
@@ -169,6 +347,46 @@
   },
   "curtin-field-of-glory": {
    "pg": 37406,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pg20537": {
+   "pg": 20537,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pg23646": {
+   "pg": 23646,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pg35736": {
+   "pg": 35736,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pg36583": {
+   "pg": 36583,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pg41988": {
+   "pg": 41988,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pg44939": {
+   "pg": 44939,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pg46454": {
+   "pg": 46454,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Jeremiah Curtin"
+  },
+  "curtin-pg47527": {
+   "pg": 47527,
    "pg_copyrighted_marker": false,
    "pg_translator": "Jeremiah Curtin"
   }

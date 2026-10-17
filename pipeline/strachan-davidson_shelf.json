@@ -1,0 +1,32 @@
+{
+ "_about": "James Leigh Strachan-Davidson (1843-1916), Fellow of Balliol: Cicero and the Fall of the Roman Republic (New York and London: Putnam, 1894), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "strachan-davidson",
+  "davidson"
+ ],
+ "_surname": [
+  "j. l. strachan-davidson",
+  "strachan-davidson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "strachan-davidson-cicero-1894": [
+   "ciceroandthefall014652mbp",
+   "Cicero and the Fall of the Roman Republic (New York and London: Putnam, 1894)"
+  ]
+ },
+ "_checks": {
+  "strachan-davidson-cicero-1894": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "j. l. strachan-davidson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
