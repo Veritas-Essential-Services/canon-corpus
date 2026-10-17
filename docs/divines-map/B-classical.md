@@ -3580,6 +3580,13 @@ Shelf: `pipeline/hobbes_shelf.json`. Thomas Hobbes (1588-1679): The English Work
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The English Works of Thomas Hobbes of Malmesbury, vol. 1 of 11 (London: John Bohn, 1839-1845) |  | `hobbes-molesworth-english-works-v1` | have (PG 73877) |
+| The English Works of Thomas Hobbes of Malmesbury, vol. 2 of 11 (London: John Bohn, 1839-1845) |  | `hobbes-molesworth-english-works-v2` | have (PG 73906) |
+| The English Works of Thomas Hobbes of Malmesbury, vol. 3 of 11 (London: John Bohn, 1839-1845) |  | `hobbes-molesworth-english-works-v3` | have (PG 73957) |
+| The English Works of Thomas Hobbes of Malmesbury, vol. 4 of 11 (London: John Bohn, 1839-1845) |  | `hobbes-molesworth-english-works-v4` | have (PG 74236) |
+| The English Works of Thomas Hobbes of Malmesbury, vol. 5 of 11 (London: John Bohn, 1839-1845) |  | `hobbes-molesworth-english-works-v5` | have (PG 76650) |
+| The English Works of Thomas Hobbes of Malmesbury, vol. 6 of 11 (London: John Bohn, 1839-1845) |  | `hobbes-molesworth-english-works-v6` | have (PG 77338) |
+| The English Works of Thomas Hobbes of Malmesbury, vol. 7 of 11 (London: John Bohn, 1839-1845) |  | `hobbes-molesworth-english-works-v7` | have (PG 78674) |
 
 Pending (wishlist): Molesworth vols. 8-11 if a scan is wanted for completeness.
 
