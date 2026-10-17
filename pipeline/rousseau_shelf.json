@@ -1,5 +1,5 @@
 {
- "_about": "Jean-Jacques Rousseau (1712-1778): the Confessions, complete in twelve books, from Gutenberg (privately printed for the members of the Aldus Society, London, 1903; translator not named in the book). The Social Contract and Discourses (Cole, PG 46333) are on the Adler shelf, Emile on rousseau-emile, and Eloisa on singles-fiction-3; none is taken again. No uids minted.",
+ "_about": "Jean-Jacques Rousseau (1712-1778): the Confessions, complete in twelve books, from Gutenberg (privately printed for the members of the Aldus Society, London, 1903; translator not named in the book). The Social Contract and Discourses (Cole, PG 46333) are on the Adler shelf, Emile on rousseau-emile, and Eloisa on singles-fiction-3; none is taken again. No uids minted. Added 2026-10-17: the Discourse on Inequality in the anonymous translation of PG 11136, a different translation from the Adler shelf's Social Contract and Discourses (PG 46333).",
  "_author": "Jean-Jacques Rousseau",
  "_name_words": [
   "jean",
@@ -15,6 +15,10 @@
    3913,
    "The Confessions of Jean Jacques Rousseau, complete (London: Aldus Society, 1903)",
    "tr. unnamed in the book"
+  ],
+  "rousseau-discourse-on-inequality": [
+   11136,
+   "A Discourse upon the Origin and the Foundation of the Inequality among Mankind (the etext names no printing; its introductory note matches the Harvard Classics, inferred)"
   ]
  },
  "internet_archive": {},
@@ -22,6 +26,15 @@
  "_translators": {},
  "_checks": {
   "rousseau-confessions-1903": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "rousseau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rousseau-discourse-on-inequality": {
    "kind": "gutenberg",
    "checked": "2026-10-17",
    "name_check": "surname",
