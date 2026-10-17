@@ -1081,7 +1081,7 @@ Shelf: `pipeline/burnett_shelf.json` (2026-10-02; added at the coordinator's rel
 
 ## Louisa May Alcott
 
-Shelf: `pipeline/alcott_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The March family books and her other books for young readers, cut by their own chapter lines. Her thrillers, sketches and story collections are not taken. Not in the manifest; no uids minted.
+Shelf: `pipeline/alcott_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories for girls and adults. All 41 of Louisa May Alcott's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -1094,8 +1094,42 @@ Shelf: `pipeline/alcott_shelf.json` (2026-10-02; added at the coordinator's rela
 | Under the Lilacs (1878) | have | PG 3795, `alcott-under-the-lilacs` (1774 units) |
 | Jack and Jill (1880) | have | PG 2786, `alcott-jack-and-jill` (1739 units) |
 | Flower Fables (1855) | have | PG 163, `alcott-flower-fables` (577 units) |
+| A Modern Cinderella; Or, The Little Old Shoe, and Other Stories | have | PG 3806, `alcott-a-modern-cinderella` (705 units) |
+| Hospital Sketches | have | PG 3837, `alcott-hospital-sketches` (335 units) |
+| Work: A Story of Experience | have | PG 4770, `alcott-work` (2355 units) |
+| On Picket Duty, and Other Tales | have | PG 4960, `alcott-on-picket-duty-and-other-tales` (565 units) |
+| Marjorie's Three Gifts | have | PG 5352, `alcott-marjories-three-gifts` (185 units) |
+| A Garland for Girls | have | PG 5830, `alcott-a-garland-for-girls` (1164 units) |
+| The Louisa Alcott Reader: a Supplementary Reader for the Fourth Year of School | have | PG 7425, `alcott-louisa-alcott-reader` (898 units) |
+| The Mysterious Key and What It Opened | have | PG 8188, `alcott-mysterious-key-and-what-it-opened` (483 units) |
+| Pauline's Passion and Punishment | have | PG 8384, `alcott-paulines-passion-and-punishment` (293 units) |
+| Behind a Mask; or, a Woman's Power | have | PG 8677, `alcott-behind-a-mask` (929 units) |
+| The Abbot's Ghost, or Maurice Treherne's Temptation: A Christmas Story | have | PG 8694, `alcott-abbots-ghost-or-maurice-trehernes-temptation` (542 units) |
+| Kitty's Class Day and Other Stories | have | PG 10360, `alcott-kittys-class-day-and-other-stories` (1821 units) |
+| Aunt Jo's scrap bag, Volume 2 | have | PG 22022, `alcott-aunt-jos-scrap-bag-volume-2` (791 units) |
+| Aunt Jo's scrap-bag, Volume 5 | have | PG 22234, `alcott-aunt-jos-scrap-bag-volume-5` (899 units) |
+| The Candy Country | have | PG 25165, `alcott-candy-country` (296 units) |
+| Aunt Jo's scrap bag, Volume 1 | have | PG 26041, `alcott-aunt-jos-scrap-bag-volume-1` (728 units) |
+| Aunt Jo's scrap-bag, Volume 6 | have | PG 27567, `alcott-aunt-jos-scrap-bag-volume-6` (1186 units) |
+| Moods | have | PG 28203, `alcott-moods` (1638 units) |
+| Three Unpublished Poems | have | PG 28218, `alcott-three-unpublished-poems` (61 units) |
+| Lulu's Library, Volume 2 (of 3) | have | PG 32357, `alcott-lulus-library-volume-2-of-3` (1106 units) |
+| Comic Tragedies Written by 'Jo' and 'Meg' and Acted by The 'Little Women' (with Anna Alcott Pratt) | have | PG 33986, `alcott-comic-tragedies-written-by-jo-and-meg-and-acted-by-th` (1209 units) |
+| Silver Pitchers: and Independence, a Centennial Love Story | have | PG 34920, `alcott-silver-pitchers` (1928 units) |
+| Spinning-Wheel Stories | have | PG 36221, `alcott-spinning-wheel-stories` (1391 units) |
+| Mountain-Laurel and Maidenhair | have | PG 37807, `alcott-mountain-laurel-and-maidenhair` (185 units) |
+| May Flowers | have | PG 37981, `alcott-may-flowers` (155 units) |
+| Lulu's Library, Volume 1 (of 3) | have | PG 40682, `alcott-lulus-library-volume-1-of-3` (1162 units) |
+| Lulu's Library, Volume 3 (of 3) | have | PG 40683, `alcott-lulus-library-volume-3-of-3` (913 units) |
+| A Modern Mephistopheles, and A Whisper in the Dark | have | PG 54212, `alcott-a-modern-mephistopheles-and-a-whisper-in-the-dark` (1671 units) |
+| Aunt Jo's scrap-bag, Volume 3 | have | PG 57309, `alcott-aunt-jos-scrap-bag-volume-3` (818 units) |
+| Aunt Jo's scrap-bag, Volume 4 | have | PG 57310, `alcott-aunt-jos-scrap-bag-volume-4` (1046 units) |
+| Proverb Stories | have | PG 57321, `alcott-proverb-stories` (2317 units) |
+| Little Button Rose | have | PG 76977, `alcott-little-button-rose` (268 units) |
 | alcott-duplicates | excluded | second transcriptions: Little Women (PG 37106), Little Men (PG 52900), Eight Cousins (PG 38567), Rose in Bloom (PG 41127) |
 | alcott-other | excluded | the Aunt Jo's Scrap-Bag and Lulu's Library volumes, story collections, the thrillers (Behind a Mask and others), Hospital Sketches, Work, Moods: candidates for a later batch |
+| alcott-louisa-may-alcott | excluded | PG 38049 is Ednah Cheney's Life, Letters and Journals, Cheney's book |
+| alcott-index-of-the-project-gutenberg-works-of-louisa-m-alco | excluded | PG 58158 is David Widger's index, not a text |
 
 ## Johanna Spyri
 

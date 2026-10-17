@@ -1047,3 +1047,6 @@
 
 ## 2026-10-17 17:39 CDT — stockton: done
 - stockton: completed, 35 more Gutenberg books (38 on the shelf), 41,634 units, 490 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:39 CDT — alcott: done
+- alcott: completed, 32 more Gutenberg books (41 on the shelf), 47,940 units, 667 ~2 ids; verify 0 mismatches, 0 rights flags.
