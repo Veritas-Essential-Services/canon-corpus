@@ -985,3 +985,6 @@
 
 ## 2026-10-17T16:34:36-05:00 — resumed
 - Resumed on Adam's 2026-10-17 request. Starting round 22 (queued 2026-10-10). Aquinas belongs to a new thread; lane A holds none.
+
+## 2026-10-17 17:21 CDT — william-carey done
+- `pipeline/william-carey_shelf.json`: 0 CCEL, 1 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -4184,3 +4184,17 @@ Slugs `jowett-*`. Carr's Lane and Fifth Avenue; held to printings dated before 1
 | The School of Calvary (CCEL, 1969 revised reprint), Apostolic Optimism 1930 printing, and reprints and anthologies from 1948 onward | excluded | |
 | The Dry Dock of a Thousand Wrecks (his introduction only); multi-author collections | excluded | |
 | Benjamin Jowett, William Jowett and others | excluded | |
+
+## William Carey (round 22, my pick, 2026-10-17)
+
+Slugs `carey-*`. The Enquiry of 1792 only; his language work and Bible translations are left off.
+
+| Work | Status | Where |
+|---|---|---|
+| An Enquiry into the Obligations of Christians, to use Means for the Conversion of the Heathens (Leicester, MDCCXCII) | have-clean | Gutenberg 11449 |
+| Scans of the Enquiry: the 1792 first edition (IA bim_eighteenth-century_an-enquiry-into-the-obli_carey-william_1792, long-s OCR), London: Button and Son, 1818 (enquiryintooblig00care), and the Hodder and Stoughton facsimile of about 1891 with another hand's introduction (pts_enquiryintotheobligations_1687_2) | alternate | not shelved |
+| Memoir relative to the Progress of the Translations (Serampore, 1816; memoirrelativeto00care): no author on the title page, a report of the Serampore mission | excluded | |
+| Grammars and dictionaries of Telinga, Sungskrit, Bengalee, Mahratta and Punjabee; Bengalee dialogues; the Bengali New Testament and the Ramayana: language work and translations | excluded | |
+| Roxburgh's Flora Indica and Hortus Bengalensis, which he edited: botany by another author | excluded | |
+| Serampore Letters (edited by others, 1892), Eustace Carey's Memoir and George Smith's Life (CCEL smith_geo/carey, PG 2056): by other hands | excluded | |
+| Payne's 1961 facsimile (enquiryobligat00careuoft, catalogued 1792) and a 1988 reprint | excluded | |

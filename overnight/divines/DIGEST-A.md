@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-10 15:12 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 17:21 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -442,9 +442,26 @@ Twelve authors queued 2026-10-10. Twentieth-century men are held to printings da
 
 Round 21 closed 2026-10-10 14:55 CDT: twelve new shelves, 126 items (16 clean: 9 CCEL and 7 Gutenberg; 110 raw IA OCR). Three CCEL texts were passed over because CCEL keyed them from late reprints (Edersheim's Life and Times from the 1953 Eerdmans, Jowett's Silver Lining from Grosset and Dunlap, Jowett's School of Calvary from a 1969 revision), and one Gutenberg text likewise (Burgon's Revision Revised, from the 1971 Dover); dated scans are shelved instead. Baron and J. H. Jowett are held to printings dated before 1930. Title pages read by eye where OCR garbled the name are in `_identity_checked`. Every `--verify --record` run: 0 mismatched. 0 uids minted.
 
+## Round 22: American premillennial and Bible-conference writers, Carey, Vincent, Macduff and Havergal (my picks)
+
+Twelve authors queued in QUEUE-A.json, each built from title pages read for this round. Adam may veto any shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| William Carey | william-carey_shelf.json | 1 (An Enquiry into the Obligations of Christians, to use Means for the Conversion of the Heathens (Leicester, MDCCXCII)) | none | none | Grammars, dictionaries, translations, botany and works by others excluded; the Serampore Memoir has no name on its title page |
+
+## Round 23: Victorian Anglican and Roman Catholic divines, Oxford and Cambridge scholars (my picks)
+
+Twelve authors queued in QUEUE-A.json, each built from title pages read for this round. Adam may veto any shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+
 ## Paused 2026-10-10 15:12 CDT
 
 Lane A paused at Adam's request after closing round 21. Rounds 15-21 are all pushed. To resume: round 22 is queued in QUEUE-A.json (William Carey, James H. Brookes, Nathaniel West, George N. H. Peters, W. J. Erdman, James M. Gray, W. E. Blackstone, George F. Pentecost, A. C. Dixon, Marvin R. Vincent, J. R. Macduff, Frances Ridley Havergal), all with status queued and no source research kept. Start with the research, then build. Gray and Blackstone lived to 1935, so hold them to printings dated before 1930.
+
+Resumed 2026-10-17 on Adam's request to keep going (burn mode). Rounds 22 and 23 follow below. Lane A holds no Aquinas: a separate thread owns Aquinas in Latin and English.
 
 ## Defects to look at
 - Six 18th-century Edwards printings OCR at 77-83% (long s); quote from Dwight/Worcester instead.
