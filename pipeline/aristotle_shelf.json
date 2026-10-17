@@ -173,6 +173,16 @@
    "aristotleonconst00arisiala",
    "Aristotle on the Constitution of Athens (London: Macmillan, 1891)",
    "tr. E. Poste"
+  ],
+  "aristotle-twining-poetry-1812-v1": [
+   "treatiseonpoetry01arisuoft",
+   "Aristotle's Treatise on Poetry, translated, with notes on the translation and on the original, and two dissertations on poetical and musical imitation, second edition in two volumes by Daniel Twining, vol. I (London: Luke Hansard, 1812; first edition 1789)",
+   "tr. Thomas Twining"
+  ],
+  "aristotle-twining-poetry-1812-v2": [
+   "treatiseonpoetry02arisuoft",
+   "Aristotle's Treatise on Poetry, second edition, vol. II: the notes (London: Luke Hansard, 1812)",
+   "tr. Thomas Twining"
   ]
  },
  "_excluded": {
@@ -211,7 +221,9 @@
   "aristotle-jowett-politics-1885-v2": "Jowett",
   "aristotle-jebb-rhetoric-1909": "Jebb",
   "aristotle-poste-posterior-analytics-1850": "Poste",
-  "aristotle-poste-athenian-constitution-1891": "Poste"
+  "aristotle-poste-athenian-constitution-1891": "Poste",
+  "aristotle-twining-poetry-1812-v1": "Twining",
+  "aristotle-twining-poetry-1812-v2": "Twining"
  },
  "_translator_unchecked": {
   "aristotle-ross-v01": "no single translator to check: None",
@@ -660,6 +672,32 @@
    "identity": "ok",
    "ia_rights": "ok: published 1891",
    "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristotle-twining-poetry-1812-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "Twining",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aristotle-twining-poetry-1812-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "aristotle",
+   "translator_claimed": "Twining",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
