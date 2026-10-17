@@ -1,0 +1,37 @@
+{
+ "_about": "Immanuel Kant (1724-1804) in English, translator per row. Already held elsewhere and not taken again: Meiklejohn's Critique of Pure Reason (PG 4280) and Abbott's Critique of Practical Reason (PG 5683) on the Adler shelf; Abbott's Fundamental Principles and Metaphysical Elements of Ethics (lane C's tk-abbott); Bernard's Critique of Judgement (PG 48433) and Perpetual Peace (PG 50922) on singles-ideas-2. Clean Gutenberg: Carus's Prolegomena (Open Court, 3rd ed. 1912; the translation's printed copyright is 1902, so US public domain). Raw IA OCR: Max Müller's Critique of Pure Reason (Macmillan, 1881, 2 vols.), Semple's Religion within the Boundary of Pure Reason (Edinburgh, 1838) and Metaphysic of Ethics (3rd ed., ed. Calderwood, 1871), Bax's Prolegomena and Metaphysical Foundations of Natural Science (Bohn, 1883), Hastie's Philosophy of Law (1887) and Kant's Cosmogony (1900), and the Prolegomena in Mahaffy and Bernard's Kant's Critical Philosophy for English Readers, vol. II (1889). No uids minted.",
+ "_author": "Immanuel Kant",
+ "_name_words": [
+  "immanuel",
+  "kant"
+ ],
+ "_surname": [
+  "kant"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "kant-carus-prolegomena-1912": [
+   52821,
+   "Kant's Prolegomena to Any Future Metaphysics, edited in English, 3rd ed. (Chicago: Open Court, 1912; translation copyright 1902)",
+   "tr. Paul Carus"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "kant-carus-prolegomena-1912": "Carus"
+ },
+ "_checks": {
+  "kant-carus-prolegomena-1912": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kant",
+   "translator_claimed": "Carus",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

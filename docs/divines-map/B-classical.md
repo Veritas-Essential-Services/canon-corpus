@@ -3540,6 +3540,7 @@ Shelf: `pipeline/kant_shelf.json`. Immanuel Kant (1724-1804) in English, transla
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Kant's Prolegomena to Any Future Metaphysics, edited in English, 3rd ed. (Chicago: Open Court, 1912; translation copyright 1902) | Paul Carus | `kant-carus-prolegomena-1912` | have (PG 52821) |
 
 Pending (wishlist): Goerwitz's Dreams of a Spirit-Seer (1900; IA dreamsofspiritse00kant returned HTTP 500); Annette Churton's Kant on Education (1899; the scan found has no readable title page); the 1798-1799 Essays and Treatises and Metaphysic of Morals attributed to John Richardson (title pages unreadable in the OCR).
 
