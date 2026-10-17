@@ -1,0 +1,38 @@
+{
+ "_about": "George Boole (1815-1864), raw IA OCR (Google scan): An Investigation of the Laws of Thought, on which are founded the mathematical theories of logic and probabilities (London: Walton and Maberly; Cambridge: Macmillan, 1854). US public domain. Held: The Mathematical Analysis of Logic (1847), because the scans found are the 1948 Philosophical Library facsimile, a post-1930 printing; PG 36884 has no plain-text file. No uids minted.",
+ "_author": "George Boole",
+ "_name_words": [
+  "george",
+  "boole"
+ ],
+ "_surname": [
+  "boole"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "boole-laws-of-thought-1854": [
+   "bub_gb_SWgLVT0otY8C",
+   "An Investigation of the Laws of Thought (London: Walton and Maberly, 1854)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "boole-laws-of-thought-1854": {
+   "author": "title page OCR reads 'G£0£6£ BOOL£, LL.D.' (George Boole); title, imprint (Walton and Maberly, 1854) and dedication to John Ryall match the Laws of Thought"
+  }
+ },
+ "_checks": {
+  "boole-laws-of-thought-1854": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
