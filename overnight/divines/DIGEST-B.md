@@ -211,3 +211,4 @@
 - 18:17 round s: 7 American philosophy shelves (Fiske, Porter, Chauncey Wright, Howison, Bowen, Hickok, Ladd), 15 texts.
 - 18:21 round t: 9 shelves of British idealism and its critics (Stout, Seth, Ritchie, Rashdall, Sorley, F. C. S. Schiller, Mansel, James Ward, Hobhouse), 18 volumes.
 - 18:23 round u: 6 early modern shelves (Henry More, Norris, Wollaston, Collins, Tindal, Tucker), 10 volumes.
+- 18:25 round v: 6 shelves (Kuno Fischer, Herbart, Paul Janet, Eucken, Fourier, Vives), 12 volumes.

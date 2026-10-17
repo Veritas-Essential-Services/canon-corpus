@@ -921,3 +921,11 @@
 - matthew-tindal: Christianity as Old as the Creation (1798)
 - abraham-tucker: Light of Nature Pursued (1840, 2 vols)
 - Held: Toland (scan with no legible year)
+
+## 2026-10-17 18:25 CDT — Round v: continental philosophy in translation, second pass
+- kuno-fischer: Bacon (1857), Kant commentary (1866), Descartes (1887)
+- herbart: Text-Book in Psychology (1891), Science of Education (1908)
+- paul-janet: Final Causes (1878), Theory of Morals (1883)
+- rudolf-eucken: Problem of Human Life (1909), Truth of Religion (1911)
+- charles-fourier: Passions of the Human Soul (1851, 2 vols)
+- juan-luis-vives: On Education (1913)
