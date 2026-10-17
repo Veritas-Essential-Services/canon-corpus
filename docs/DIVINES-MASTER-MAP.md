@@ -18113,13 +18113,26 @@ Shelf: `pipeline/catherine-sinclair_shelf.json` (2026-10-02; added at the coordi
 
 ## Hesba Stretton
 
-Shelf: `pipeline/hesba-stretton_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Evangelical stories of London street children; cut by chapter, Jessica's Mother under its own title. Not in the manifest; no uids minted.
+Shelf: `pipeline/hesba-stretton_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Evangelical stories of poor children in Victorian cities. All 15 of Hesba Stretton's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | Jessica's First Prayer; and, Jessica's Mother | have | PG 50104, `stretton-jessicas-first-prayer` (473 units) |
 | Little Meg's Children | have | PG 30555, `stretton-little-megs-children` (419 units) |
 | Alone in London | have | PG 12172, `stretton-alone-in-london` (444 units) |
+| Brought Home | have | PG 7358, `stretton-brought-home` (339 units) |
+| The Doctor's Dilemma | have | PG 14454, `stretton-doctors-dilemma` (3033 units) |
+| Fern's Hollow | have | PG 16853, `stretton-ferns-hollow` (587 units) |
+| Cobwebs and Cables | have | PG 19802, `stretton-cobwebs-and-cables` (1548 units) |
+| The Christmas Child | have | PG 20453, `stretton-christmas-child` (173 units) |
+| Half Brothers | have | PG 59094, `stretton-half-brothers` (1714 units) |
+| Two Christmas Stories: Sam Franklin's Savings-Bank; A Miserable Christmas and a Happy New Year | have | PG 65830, `stretton-two-christmas-stories` (423 units) |
+| "No place like home" | have | PG 74546, `stretton-no-place-like-home` (281 units) |
+| Lost Gip | have | PG 74763, `stretton-lost-gip` (552 units) |
+| Two secrets, and, A man of his word | have | PG 75676, `stretton-two-secrets-and-a-man-of-his-word` (262 units) |
+| In the hollow of His hand | have | PG 76597, `stretton-in-the-hollow-of-his-hand` (857 units) |
+| Nelly's dark days | have | PG 77483, `stretton-nellys-dark-days` (280 units) |
+| hesba-stretton-repeat-61455 | excluded | PG 61455, Alone in London: a second transcription of a title already on this shelf |
 
 ## William Bottrell
 

@@ -264,7 +264,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `flora-cooke` | 1 Gutenberg | 0 | 934 | Nature Myths and Stories for Little Children (1895). |
 | `maud-lindsay` | 3 Gutenberg | 0 | 1,721 | Mother Stories (Milton Bradley 1928 printing), A Story Garden for Little Children (1913), The Story-teller (1915). |
 | `catherine-sinclair` | 1 Gutenberg | 0 | 1,077 | Holiday House: A Series of Tales (this printing New York, Robert Carter, 1839). |
-| `hesba-stretton` | 3 Gutenberg | 0 | 1,336 | Jessica's First Prayer and Jessica's Mother (New York, H. M. Caldwell; undated in the text), Little Meg's Children (London, 1905 printing), Alone in London (undated in the text). |
+| `hesba-stretton` | 15 Gutenberg | 0 | 11,385 | Evangelical stories of poor children in Victorian cities. Completed 2026-10-17: 12 more books added, every English text by Hesba Stretton at Gutenberg that no other shelf holds. |
 | `bottrell` | 2 Gutenberg | 0 | 3,408 | Traditions and Hearthside Stories of West Cornwall, Second Series (1873), Stories and Folk-Lore of West Cornwall, Third Series (1880). |
 | `aikin-barbauld` | 1 Gutenberg | 0 | 3,110 | Evenings at Home (New York, Harper; revised from the fifteenth London edition, undated in the text). The printing's 'Evening' divisions survive only inside illustration captions, so pieces are cited by their own titles. |
 | `marryat` | 3 Gutenberg | 0 | 5,964 | The Children of the New Forest (1864 printing), Masterman Ready, The Little Savage (both undated in the text). The Little Savage is Nick Hodson's transcription; PG 6897 carries an introduction signed only 'R. B. J.' and is not taken. |
