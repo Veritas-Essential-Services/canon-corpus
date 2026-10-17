@@ -6371,6 +6371,38 @@ Shelf: `pipeline/irving-hancock_shelf.json` (2026-10-17; added at the coordinato
 | The Motor Boat Club at the Golden Gate; or, A Thrilling Capture in the Great Fog | have | PG 49030, `ihancock-motor-boat-club-at-the-golden-gate` (1848 units) |
 | Uncle Sam's Boys on Field Duty; or, Winning Corporal's Chevrons | have | PG 52755, `ihancock-uncle-sams-boys-on-field-duty` (2264 units) |
 
+## Alice B. Emerson
+
+Shelf: `pipeline/alice-emerson_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series for girls (Ruth Fielding, Betty Gordon); Stratemeyer Syndicate house name. Every English text under the name at Gutenberg that no other shelf holds (25 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Ruth Fielding of the Red Mill; Or, Jasper Parloe's Secret | have | PG 4985, `aemerson-ruth-fielding-of-the-red-mill` (1141 units) |
+| Ruth Fielding at Snow Camp; Or, Lost in the Backwoods | have | PG 6851, `aemerson-ruth-fielding-at-snow-camp` (1305 units) |
+| Betty Gordon in Washington; Or, Strange Adventures in a Great City | have | PG 6853, `aemerson-betty-gordon-in-washington` (1168 units) |
+| Betty Gordon at Boarding School; Or, The Treasure of Indian Chasm | have | PG 10317, `aemerson-betty-gordon-at-boarding-school` (1365 units) |
+| Betty Gordon at Mountain Camp; Or, The Mystery of Ida Bellethorne | have | PG 14546, `aemerson-betty-gordon-at-mountain-camp` (1331 units) |
+| Ruth Fielding on Cliff Island; Or, The Old Hunter's Treasure Box | have | PG 14630, `aemerson-ruth-fielding-on-cliff-island` (1478 units) |
+| Ruth Fielding in Moving Pictures; Or, Helping the Dormitory Fund | have | PG 14635, `aemerson-ruth-fielding-in-moving-pictures` (1515 units) |
+| Ruth Fielding in the Great Northwest; Or, The Indian Girl Star of the Movies | have | PG 15720, `aemerson-ruth-fielding-in-the-great-northwest` (1358 units) |
+| Ruth Fielding at the War Front; or, The Hunt for the Lost Soldier | have | PG 20834, `aemerson-ruth-fielding-at-the-war-front` (1378 units) |
+| Ruth Fielding and the Gypsies; Or, The Missing Pearl Necklace | have | PG 22743, `aemerson-ruth-fielding-and-the-gypsies` (1635 units) |
+| Ruth Fielding Down East; Or, The Hermit of Beach Plum Point | have | PG 23116, `aemerson-ruth-fielding-down-east` (1629 units) |
+| Ruth Fielding on the St. Lawrence; Or, The Queer Old Man of the Thousand Islands | have | PG 25802, `aemerson-ruth-fielding-on-the-st-lawrence` (1459 units) |
+| Ruth Fielding At College; or, The Missing Examination Papers | have | PG 26613, `aemerson-ruth-fielding-at-college` (1652 units) |
+| Ruth Fielding at Briarwood Hall; or, Solving the Campus Mystery | have | PG 29203, `aemerson-ruth-fielding-at-briarwood-hall` (1187 units) |
+| Betty Gordon in the Land of Oil; Or, The Farm That Was Worth a Fortune | have | PG 30471, `aemerson-betty-gordon-in-the-land-of-oil` (1134 units) |
+| Ruth Fielding at Lighthouse Point; or, Nita, the Girl Castaway | have | PG 34024, `aemerson-ruth-fielding-at-lighthouse-point` (1501 units) |
+| Ruth Fielding in the Red Cross; Or, Doing Her Best for Uncle Sam | have | PG 36395, `aemerson-ruth-fielding-in-the-red-cross` (1301 units) |
+| Ruth Fielding In the Saddle; Or, College Girls in the Land of Gold | have | PG 36396, `aemerson-ruth-fielding-in-the-saddle` (1588 units) |
+| Ruth Fielding At Sunrise Farm; Or, What Became of the Raby Orphans | have | PG 36397, `aemerson-ruth-fielding-at-sunrise-farm` (1554 units) |
+| Ruth Fielding at Silver Ranch; Or, Schoolgirls Among the Cowboys | have | PG 36398, `aemerson-ruth-fielding-at-silver-ranch` (1393 units) |
+| Ruth Fielding Down in Dixie; Or, Great Times in the Land of Cotton | have | PG 36747, `aemerson-ruth-fielding-down-in-dixie` (1523 units) |
+| Ruth Fielding Homeward Bound; Or, A Red Cross Worker's Ocean Perils | have | PG 36748, `aemerson-ruth-fielding-homeward-bound` (1239 units) |
+| Betty Gordon at Bramble Farm; Or, The Mystery of a Nobody | have | PG 43907, `aemerson-betty-gordon-at-bramble-farm` (1208 units) |
+| Ruth Fielding in Alaska | have | PG 71176, `aemerson-ruth-fielding-in-alaska` (1470 units) |
+| Ruth Fielding at Golden Pass | have | PG 76206, `aemerson-ruth-fielding-at-golden-pass` (1512 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

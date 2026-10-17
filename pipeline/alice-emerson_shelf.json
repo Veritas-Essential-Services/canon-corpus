@@ -1,0 +1,411 @@
+{
+ "_about": "Alice B. Emerson's Ruth Fielding and Betty Gordon books for girls: every English text under the name at Gutenberg. Alice B. Emerson is a house name of the Stratemeyer Syndicate, whose individual ghostwriters the texts do not name. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Alice B. Emerson",
+ "_name_words": [
+  "emerson"
+ ],
+ "_surname": [
+  "alice b. emerson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aemerson-ruth-fielding-of-the-red-mill": [
+   4985,
+   "Ruth Fielding of the Red Mill; Or, Jasper Parloe's Secret"
+  ],
+  "aemerson-ruth-fielding-at-snow-camp": [
+   6851,
+   "Ruth Fielding at Snow Camp; Or, Lost in the Backwoods",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-betty-gordon-in-washington": [
+   6853,
+   "Betty Gordon in Washington; Or, Strange Adventures in a Great City",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-betty-gordon-at-boarding-school": [
+   10317,
+   "Betty Gordon at Boarding School; Or, The Treasure of Indian Chasm",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-betty-gordon-at-mountain-camp": [
+   14546,
+   "Betty Gordon at Mountain Camp; Or, The Mystery of Ida Bellethorne",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-on-cliff-island": [
+   14630,
+   "Ruth Fielding on Cliff Island; Or, The Old Hunter's Treasure Box",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-in-moving-pictures": [
+   14635,
+   "Ruth Fielding in Moving Pictures; Or, Helping the Dormitory Fund",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-in-the-great-northwest": [
+   15720,
+   "Ruth Fielding in the Great Northwest; Or, The Indian Girl Star of the Movies",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-at-the-war-front": [
+   20834,
+   "Ruth Fielding at the War Front; or, The Hunt for the Lost Soldier",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-and-the-gypsies": [
+   22743,
+   "Ruth Fielding and the Gypsies; Or, The Missing Pearl Necklace",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-down-east": [
+   23116,
+   "Ruth Fielding Down East; Or, The Hermit of Beach Plum Point",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-on-the-st-lawrence": [
+   25802,
+   "Ruth Fielding on the St. Lawrence; Or, The Queer Old Man of the Thousand Islands",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-at-college": [
+   26613,
+   "Ruth Fielding At College; or, The Missing Examination Papers",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-at-briarwood-hall": [
+   29203,
+   "Ruth Fielding at Briarwood Hall; or, Solving the Campus Mystery",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-betty-gordon-in-the-land-of-oil": [
+   30471,
+   "Betty Gordon in the Land of Oil; Or, The Farm That Was Worth a Fortune",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-at-lighthouse-point": [
+   34024,
+   "Ruth Fielding at Lighthouse Point; or, Nita, the Girl Castaway",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-in-the-red-cross": [
+   36395,
+   "Ruth Fielding in the Red Cross; Or, Doing Her Best for Uncle Sam",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-in-the-saddle": [
+   36396,
+   "Ruth Fielding In the Saddle; Or, College Girls in the Land of Gold",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-at-sunrise-farm": [
+   36397,
+   "Ruth Fielding At Sunrise Farm; Or, What Became of the Raby Orphans",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-at-silver-ranch": [
+   36398,
+   "Ruth Fielding at Silver Ranch; Or, Schoolgirls Among the Cowboys",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-down-in-dixie": [
+   36747,
+   "Ruth Fielding Down in Dixie; Or, Great Times in the Land of Cotton",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-homeward-bound": [
+   36748,
+   "Ruth Fielding Homeward Bound; Or, A Red Cross Worker's Ocean Perils",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-betty-gordon-at-bramble-farm": [
+   43907,
+   "Betty Gordon at Bramble Farm; Or, The Mystery of a Nobody",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-in-alaska": [
+   71176,
+   "Ruth Fielding in Alaska",
+   {
+    "contents_only": true
+   }
+  ],
+  "aemerson-ruth-fielding-at-golden-pass": [
+   76206,
+   "Ruth Fielding at Golden Pass"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "aemerson-ruth-fielding-of-the-red-mill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-at-snow-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-betty-gordon-in-washington": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-betty-gordon-at-boarding-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-betty-gordon-at-mountain-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-on-cliff-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-in-moving-pictures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-in-the-great-northwest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-at-the-war-front": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-and-the-gypsies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-down-east": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-on-the-st-lawrence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-at-college": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-at-briarwood-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-betty-gordon-in-the-land-of-oil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-at-lighthouse-point": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-in-the-red-cross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-in-the-saddle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-at-sunrise-farm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-at-silver-ranch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-down-in-dixie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-homeward-bound": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-betty-gordon-at-bramble-farm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-in-alaska": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aemerson-ruth-fielding-at-golden-pass": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alice b. emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
