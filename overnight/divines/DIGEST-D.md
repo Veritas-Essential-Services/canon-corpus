@@ -138,7 +138,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `craik` | 3 Gutenberg | 0 | 3,272 | The Little Lame Prince, The Adventures of a Brownie, The Fairy Book. |
 | `ingelow` | 2 Gutenberg | 0 | 1,639 | Mopsa the Fairy, Wonder-Box Tales. |
 | `stockton` | 3 Gutenberg | 0 | 2,204 | The Bee-Man of Orn, Ting-a-ling, Fanciful Tales (1922). Fanciful Tales is 42% the same text as Bee-Man: mint once. |
-| `burgess` | 26 Gutenberg | 0 | 9,353 | 7 Mother West Wind books and 19 Adventures books. |
+| `burgess` | 40 Gutenberg | 0 | 16,563 | Animal stories for young children. Completed 2026-10-17: 14 more books added, every English text by Thornton W. Burgess at Gutenberg that no other shelf holds. |
 | `lagerlof` | 2 Gutenberg | 0 | 4,385 | The Wonderful Adventures of Nils, Christ Legends (tr. Howard). |
 | `laboulaye` | 1 Gutenberg | 0 | 1,111 | Laboulaye's Fairy Book (tr. Booth). |
 | `hauff` | 2 Gutenberg | 0 | 3,126 | Tales of the Caravan, Inn, and Palace (tr. Stowell), Fairy Tales (tr. Weedon). |

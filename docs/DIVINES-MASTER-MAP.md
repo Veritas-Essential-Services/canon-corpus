@@ -16798,7 +16798,7 @@ Shelf: `pipeline/stockton_shelf.json` (2026-10-02; added at the coordinator's re
 
 ## Thornton W. Burgess
 
-Shelf: `pipeline/burgess_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Mother West Wind books and the twenty Bedtime Story-Books, all before 1929, cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/burgess_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Animal stories for young children. All 40 of Thornton W. Burgess's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -16828,6 +16828,20 @@ Shelf: `pipeline/burgess_shelf.json` (2026-10-02; added at the coordinator's rel
 | The Adventures of Bobby Coon | have | PG 46951, `burgess-bobby-coon` (241 units) |
 | The Adventures of Jimmy Skunk | have | PG 21015, `burgess-jimmy-skunk` (283 units) |
 | The Adventures of Bob White | have | PG 46950, `burgess-bob-white` (296 units) |
+| Whitefoot the Wood Mouse | have | PG 4698, `burgess-whitefoot-the-wood-mouse` (304 units) |
+| Blacky the Crow | have | PG 4979, `burgess-blacky-the-crow` (332 units) |
+| Old Granny Fox | have | PG 4980, `burgess-old-granny-fox` (393 units) |
+| Mrs. Peter Rabbit | have | PG 5791, `burgess-mrs-peter-rabbit` (434 units) |
+| Happy Jack | have | PG 13355, `burgess-happy-jack` (447 units) |
+| Bowser the Hound | have | PG 15168, `burgess-bowser-the-hound` (422 units) |
+| The Adventures of Lightfoot the Deer | have | PG 19079, `burgess-adventures-of-lightfoot-the-deer` (344 units) |
+| The Boy Scouts in A Trapper's Camp | have | PG 32045, `burgess-boy-scouts-in-a-trappers-camp` (1049 units) |
+| The Boy Scouts of Woodcraft Camp | have | PG 54755, `burgess-boy-scouts-of-woodcraft-camp` (1223 units) |
+| Buster Bear's Twins | have | PG 59282, `burgess-buster-bears-twins` (513 units) |
+| The Wishing-Stone Stories | have | PG 63417, `burgess-wishing-stone-stories` (650 units) |
+| The Christmas Reindeer | have | PG 64109, `burgess-christmas-reindeer` (373 units) |
+| Billy Mink | have | PG 65308, `burgess-billy-mink` (342 units) |
+| Little Joe Otter | have | PG 65314, `burgess-little-joe-otter` (384 units) |
 | burgess-duplicates | excluded | Paddy the Beaver (PG 2493), Danny Meadow Mouse (25529), Lightfoot the Deer (4670): other transcriptions or later titles |
 | burgess-later | excluded | Lightfoot, Whitefoot, Blacky, Old Granny Fox, Bowser, Happy Jack, Mrs. Peter Rabbit, Buster Bear's Twins, Billy Mink, Little Joe Otter, Wishing-Stone Stories, The Christmas Reindeer and the Boy Scout books: candidates for a later batch, each to be checked against the 1929 line |
 | burgess-handbooks | excluded | the Burgess Animal and Bird Books (PG 2441, 3074, 23708, 23709): natural history, not story |
