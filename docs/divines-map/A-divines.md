@@ -5245,3 +5245,16 @@ Slugs `catherine-*`. Translators: Thorold (full 1896 and abridged 1907 Dialogue)
 | The Orcharde of Syon, the Middle English Dialogue (Wynkyn de Worde, 1519): blackletter OCR unusable | alternate | not shelved |
 | Lives of her (1898, Gardner 1907, Curtayne 1929) | excluded | |
 | Modern retypesets and the 1980 Paulist edition | excluded | |
+
+## Catherine of Genoa (round 25, my pick, 2026-10-17)
+
+Slugs `genoa-*`. No translator named on either title page. The CCEL Life and Doctrine is partly a Life written about her.
+
+| Work | Status | Where |
+|---|---|---|
+| Life and Doctrine of Saint Catherine of Genoa, translated from the Italian (New York: Christian Press Association, 1907); the Life is about her, the Dialogue and the Treatise are hers | have-clean | CCEL catherine_g/life |
+| The Treatise on Purgatory by St. Catherine of Genoa, preface by H. E. Manning (London: Burns and Lambert, 1858) | have-ocr | IA `TheTreatiseOnPurgatory` |
+| Life and Doctrine, first edition (New York: Catholic Publication Society, 1874; lifedoctrineofsa0000vari) | alternate | not shelved |
+| Treatise on Purgatory, second edition (1880) and undated fourth edition | alternate | not shelved |
+| von Hügel's Mystical Element of Religion: about her | excluded | |
+| Undated modern retypesets | excluded | |

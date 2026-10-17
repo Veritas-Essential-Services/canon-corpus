@@ -1126,3 +1126,6 @@
 
 ## 2026-10-17 18:11 CDT — catherine-of-siena done
 - `pipeline/catherine-of-siena_shelf.json`: 1 CCEL, 1 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — catherine-of-genoa done
+- `pipeline/catherine-of-genoa_shelf.json`: 1 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
