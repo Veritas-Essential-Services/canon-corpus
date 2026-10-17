@@ -860,3 +860,14 @@
 - w-k-clifford, jean-marie-guyau, augustus-de-morgan, w-s-jevons: one work each
 - Held: Russell's Mysticism and Logic (PG 25447) and The Problem of China (PG 13940), post-1930 printings
 - Not taken: PG has no plain-text file for Principia Mathematica, Boole's logic books, the Tractatus and several other mathematical works
+
+## 2026-10-17 18:05 CDT — Round p: logic and idealism (IA scans)
+- george-boole: Laws of Thought (1854)
+- wittgenstein: Tractatus (Kegan Paul, 1922), tr. note signed C. K. Ogden
+- mctaggart: Some Dogmas (1906), Hegelian Dialectic (1922), Nature of Existence (1921, 1927)
+- james-frederick-ferrier: Institutes of Metaphysic (1854)
+- hans-vaihinger: Philosophy of As If, tr. Ogden (1924)
+- ernst-cassirer: Substance and Function, tr. Swabey (1923)
+- edward-caird: 7 vols (Comte 1885, Religion 1893, Greek theology 1904, Kant 1909)
+- bertrand-russell +Introduction to Mathematical Philosophy (1920); augustus-de-morgan +Formal Logic (1847)
+- Held: Boole's Mathematical Analysis of Logic (only a 1948 facsimile found)

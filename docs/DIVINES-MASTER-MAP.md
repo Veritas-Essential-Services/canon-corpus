@@ -9475,7 +9475,7 @@ Shelf: `pipeline/lessing-philosophy_shelf.json`. The Education of the Human Race
 
 ## Bertrand Russell
 
-Shelf: `pipeline/bertrand-russell_shelf.json`. Fifteen works, 1897-1930, from Gutenberg. Held: Mysticism and Logic (PG 25447) and The Problem of China (PG 13940), both post-1930 printings. Not taken: the mathematical books, for which PG has no plain-text file.
+Shelf: `pipeline/bertrand-russell_shelf.json`. Sixteen works, 1897-1930: fifteen from Gutenberg and Introduction to Mathematical Philosophy (1920) from an IA scan. Held: Mysticism and Logic (PG 25447) and The Problem of China (PG 13940), both post-1930 printings.
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -9494,8 +9494,9 @@ Shelf: `pipeline/bertrand-russell_shelf.json`. Fifteen works, 1897-1930, from Gu
 | Education and the Good Life (New York: Boni and Liveright, 1926) |  | `russell-education-and-the-good-life-1926` | have (PG 70302) |
 | Philosophy (New York: Norton, 1927) |  | `russell-philosophy-1927` | have (PG 72981) |
 | The Conquest of Happiness (London: Allen and Unwin, 1930) |  | `russell-conquest-of-happiness-1930` | have (PG 77894) |
+| Introduction to Mathematical Philosophy, second edition (London: Allen and Unwin, April 1920) |  | `russell-introduction-to-mathematical-philosophy-1920` | have-raw (IA `introductiontoma00russuoft`) |
 
-Pending (wishlist): Introduction to Mathematical Philosophy (1919), The Analysis of Matter (1927), Principia Mathematica (1910-13): need a non-plain-text source
+Pending (wishlist): The Analysis of Matter (1927), Principia Mathematica (1910-13): need a non-plain-text source
 
 ## G. E. Moore
 
@@ -9558,13 +9559,12 @@ Shelf: `pipeline/jean-marie-guyau_shelf.json`. The Non-Religion of the Future (H
 
 ## Augustus De Morgan
 
-Shelf: `pipeline/augustus-de-morgan_shelf.json`. First Notions of Logic (1839).
+Shelf: `pipeline/augustus-de-morgan_shelf.json`. First Notions of Logic (1839, Gutenberg) and Formal Logic (1847, IA).
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | First Notions of Logic, preparatory to the study of geometry (London: Taylor and Walton, 1839) |  | `de-morgan-first-notions-of-logic-1839` | have (PG 67017) |
-
-Pending (wishlist): Formal Logic (1847)
+| Formal Logic, or the calculus of inference, necessary and probable (London: Taylor and Walton, 1847) |  | `de-morgan-formal-logic-1847` | have-raw (IA `formallogicorthe00demouoft`) |
 
 ## W. Stanley Jevons
 
@@ -9573,6 +9573,77 @@ Shelf: `pipeline/w-s-jevons_shelf.json`. The Principles of Science (1883).
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Principles of Science: a treatise on logic and scientific method (London: Macmillan, 1883) |  | `jevons-principles-of-science-1883` | have (PG 74864) |
+
+## George Boole
+
+Shelf: `pipeline/george-boole_shelf.json`. The Laws of Thought (1854). The Mathematical Analysis of Logic is held: the scans found are a 1948 facsimile.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| An Investigation of the Laws of Thought (London: Walton and Maberly, 1854) |  | `boole-laws-of-thought-1854` | have-raw (IA `bub_gb_SWgLVT0otY8C`) |
+
+Pending (wishlist): The Mathematical Analysis of Logic (1847) in a period printing
+
+## Wittgenstein in English
+
+Shelf: `pipeline/wittgenstein_shelf.json`. Tractatus Logico-Philosophicus (Kegan Paul, 1922), German and English facing.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Tractatus Logico-Philosophicus, German and English (London: Kegan Paul, 1922) | Ogden | `wittgenstein-tractatus-1922` | have-raw (IA `in.ernet.dli.2015.218527`) |
+
+## J. M. E. McTaggart
+
+Shelf: `pipeline/mctaggart_shelf.json`. Some Dogmas of Religion (1906), Studies in the Hegelian Dialectic (1922), The Nature of Existence (1921, 1927).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Some Dogmas of Religion (London: Edward Arnold, 1906) |  | `mctaggart-some-dogmas-of-religion-1906` | have-raw (IA `in.ernet.dli.2015.278056`) |
+| Studies in the Hegelian Dialectic, second edition (Cambridge, 1922) |  | `mctaggart-studies-hegelian-dialectic-1922` | have-raw (IA `studiesinhegelia00mctauoft`) |
+| The Nature of Existence, vol. I (Cambridge, 1921) |  | `mctaggart-nature-of-existence-1921-v1` | have-raw (IA `natureofexistenc01mctauoft`) |
+| The Nature of Existence, vol. II, ed. C. D. Broad (Cambridge, 1927) |  | `mctaggart-nature-of-existence-1927-v2` | have-raw (IA `natureofexistenc02mctauoft`) |
+
+Pending (wishlist): Studies in Hegelian Cosmology (1901), A Commentary on Hegel's Logic (1910)
+
+## James Frederick Ferrier
+
+Shelf: `pipeline/james-frederick-ferrier_shelf.json`. Institutes of Metaphysic (1854).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Institutes of Metaphysic: the theory of knowing and being (Edinburgh: Blackwood, 1854) |  | `ferrier-institutes-of-metaphysic-1854` | have-raw (IA `institutesofmeta00ferruoft`) |
+
+Pending (wishlist): Lectures on Greek Philosophy (1866)
+
+## Hans Vaihinger in English
+
+Shelf: `pipeline/hans-vaihinger_shelf.json`. The Philosophy of 'As If', tr. Ogden (1924).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Philosophy of 'As If' (London: Kegan Paul, 1924) | C. K. Ogden | `vaihinger-ogden-philosophy-of-as-if-1924` | have-raw (IA `philosophyofasif00vaih_0`) |
+
+## Ernst Cassirer in English
+
+Shelf: `pipeline/ernst-cassirer_shelf.json`. Substance and Function, tr. the Swabeys (1923).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Substance and Function, and Einstein's Theory of Relativity (Chicago: Open Court, 1923) | William Curtis Swabey and Marie Collins Swabey | `cassirer-swabey-substance-and-function-1923` | have-raw (IA `substanceandfunc00cassuoft`) |
+
+## Edward Caird
+
+Shelf: `pipeline/edward-caird_shelf.json`. Comte (1885), The Evolution of Religion (1893, 2 vols), The Evolution of Theology in the Greek Philosophers (1904, 2 vols), The Critical Philosophy of Kant (1909, 2 vols).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Social Philosophy and Religion of Comte (Glasgow: MacLehose, 1885) |  | `caird-social-philosophy-of-comte-1885` | have-raw (IA `socialphilosophy00cairrich`) |
+| The Evolution of Religion, vol. I (New York: Macmillan, 1893) |  | `caird-evolution-of-religion-1893-v1` | have-raw (IA `evolutionofreligi01cair`) |
+| The Evolution of Religion, vol. II (New York: Macmillan, 1893) |  | `caird-evolution-of-religion-1893-v2` | have-raw (IA `evolutionofreligi02cair`) |
+| The Evolution of Theology in the Greek Philosophers, vol. I (Glasgow: MacLehose, 1904) |  | `caird-evolution-of-theology-greek-1904-v1` | have-raw (IA `evolutionoftheol01cairuoft`) |
+| The Evolution of Theology in the Greek Philosophers, vol. II (Glasgow: MacLehose, 1904) |  | `caird-evolution-of-theology-greek-1904-v2` | have-raw (IA `theevolutionofth00cairuoft`) |
+| The Critical Philosophy of Immanuel Kant, second edition, vol. I (Glasgow: MacLehose, 1909) |  | `caird-critical-philosophy-of-kant-1909-v1` | have-raw (IA `criticalphilosop01cairuoft`) |
+| The Critical Philosophy of Immanuel Kant, second edition, vol. II (Glasgow: MacLehose, 1909) |  | `caird-critical-philosophy-of-kant-1909-v2` | have-raw (IA `cu31924092290950`) |
 
 ## Perseus census (overflow)
 

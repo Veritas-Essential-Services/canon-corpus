@@ -1300,6 +1300,14 @@
    "started": "2026-10-17T17:52:53-05:00",
    "finished": "2026-10-17T18:00:38-05:00",
    "notes": "9 new shelves, 32 PG texts. Held 25447 and 13940 (post-1930 impressions). PG has no plain text for Principia Mathematica, Intro to Mathematical Philosophy, Analysis of Matter, ABC of Atoms, Whitehead's Intro to Mathematics and Natural Knowledge, Boole's three logic books, or Wittgenstein's Tractatus."
+  },
+  {
+   "id": "round-2026-10-17p",
+   "status": "done",
+   "scope": "IA scans: Boole, Wittgenstein, McTaggart, Ferrier, Vaihinger, Cassirer, Edward Caird; Russell and De Morgan additions",
+   "started": "2026-10-17T18:00:38-05:00",
+   "finished": "2026-10-17T18:05:56-05:00",
+   "notes": "7 new shelves + 2 additions, 17 IA volumes. Held Boole's Mathematical Analysis of Logic (1948 facsimile) and a 1968 McTaggart reprint."
   }
  ]
 }
