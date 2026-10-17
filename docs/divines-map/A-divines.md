@@ -4903,3 +4903,16 @@ Slugs `ruysbroeck-*`. Translators: Wynschenk Dom (ed. Underhill), John Francis, 
 | Maeterlinck, Underhill and Scully on Ruysbroeck | excluded | |
 | a 1995 facsimile catalogued 1916, Colledge's 1952 translation catalogued 1900, and other post-1929 editions | excluded | |
 | William of Rubruck | excluded | |
+
+## Henry Suso (round 24, my pick, 2026-10-17)
+
+Slugs `suso-*`. Translators: Thomas Francis Knox, Richard Raby.
+
+| Work | Status | Where |
+|---|---|---|
+| The Life of Blessed Henry Suso by Himself, tr. Thomas Francis Knox (London: Burns, Lambert, and Oates, 1865) | have-clean | CCEL suso/susolife |
+| Blessed Henry Suso's Little Book of Eternal Wisdom, tr. Richard Raby, second edition (London: Thomas Richardson, MDCCCLXVI) | have-ocr | IA `BlessedHenrySusosLittleBook` |
+| The Little Book of Eternal Wisdom with Hilton's Parable of the Pilgrim (Burns Oates; imprimatur 1910; CCEL suso/wisdom): translator not named | alternate | not shelved |
+| Knox's Life, 1865 scan (lifeofblessedhen00seus) and Methuen's 1913 edition with Inge's introduction | alternate | not shelved |
+| Bevan's anthologies and The Three Friends of God (about him) | excluded | |
+| Clark's 1953 translation catalogued 1817, and editions of 1952-1962 | excluded | |
