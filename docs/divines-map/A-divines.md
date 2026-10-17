@@ -4198,3 +4198,26 @@ Slugs `carey-*`. The Enquiry of 1792 only; his language work and Bible translati
 | Roxburgh's Flora Indica and Hortus Bengalensis, which he edited: botany by another author | excluded | |
 | Serampore Letters (edited by others, 1892), Eustace Carey's Memoir and George Smith's Life (CCEL smith_geo/carey, PG 2056): by other hands | excluded | |
 | Payne's 1961 facsimile (enquiryobligat00careuoft, catalogued 1792) and a 1988 reprint | excluded | |
+
+## James H. Brookes (round 22, my pick, 2026-10-17)
+
+Slugs `brookes-*`. Four undated St. Louis and Chicago printings carry rights notes.
+
+| Work | Status | Where |
+|---|---|---|
+| The Way Made Plain (Philadelphia: American Sunday-School Union; entered 1871) | have-ocr | IA `waymadeplain00broo_0` |
+| Is the Bible True? Seven Addresses (St. Louis: Chas. B. Cox; Chicago: F. H. Revell; preface April 1877) | have-ocr | IA `isbibletrueseven00broo` |
+| Maranatha: or, The Lord Cometh, fifth edition (St. Louis: Edward Bredell; preface November 1878) | have-ocr | IA `maranathaorlordc00broo` |
+| The Mystery of Suffering (New York and Chicago: Fleming H. Revell; copyright 1890, Gospel Publishing Company) | have-ocr | IA `bwb_O6-AQW-151` |
+| Chaff and Wheat: A Defense of Verbal Inspiration (New York and Chicago: Fleming H. Revell, copyright 1891) | have-ocr | IA `chaffwheatdefens00broo` |
+| "Till He Come" (Chicago: Gospel Publishing Company; preface June 1891) | have-ocr | IA `tillhecome00broo` |
+| Is the Bible Inspired? (St. Louis: Gospel Book and Tract Depository; no year on the title page) | have-ocr | IA `isbibleinspired00broo` |
+| Did Jesus Rise? A Book Written to Aid Honest Skeptics (St. Louis: Gospel Book and Tract Depository; no year on the title page) | have-ocr | IA `didjesusrisebook00broo` |
+| An Outline of the Books of the Bible (Chicago: Gospel Publishing Company; no year on the title page) | have-ocr | IA `outlineofbooksof00broo` |
+| God Spake All These Words (St. Louis: Burkhart Bros.; entry year garbled in the OCR) | have-ocr | IA `in.ernet.dli.2015.351098` |
+| Second copies of The Way Made Plain (waymadeplain01broo, 1871; waymadeplain00broo and waymadeplain0000broo, later printings) and two fifth-edition copies of The Mystery of Suffering, about 1903 (mysteryofsufferi0000jhbr_o2e5, in.ernet.dli.2015.268877) | alternate | not shelved |
+| Bible Reading on the Second Coming of Christ (Springfield, Ill., 1877; MN41674ucmf_16): he is named its compiler | alternate | not shelved |
+| Gospel Hymns (1871): a hymnal he compiled | excluded | |
+| Gold from Ophir (his introduction) and the 1864 Gamble memorial (multi-author) | excluded | |
+| Original Sermons (1833) by an earlier James Hall Brookes | excluded | |
+| reprints of 1937-1989 | excluded | |

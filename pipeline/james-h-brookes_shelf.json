@@ -1,0 +1,200 @@
+{
+ "_about": "Public-domain James H. Brookes (James Hall Brookes, 1830-1897, Presbyterian, St. Louis, father of the Niagara Bible Conference) for the Word Hoard: 10 books from Internet Archive scans, among them The Way Made Plain (1871), Maranatha (fifth edition, 1878), The Mystery of Suffering, Chaff and Wheat (1891) and Till He Come (1891). Raw OCR. Added 2026-10-17 by lane A, round 22 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "brookes"
+ ],
+ "_surname": [
+  "james h. brookes",
+  "james hall brookes",
+  "j. h. brookes",
+  "brookes, james h.",
+  "jas. h. brookes",
+  "james h. brookes, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "brookes-way-made-plain": [
+   "waymadeplain00broo_0",
+   "The Way Made Plain (Philadelphia: American Sunday-School Union; entered 1871)"
+  ],
+  "brookes-is-bible-true": [
+   "isbibletrueseven00broo",
+   "Is the Bible True? Seven Addresses (St. Louis: Chas. B. Cox; Chicago: F. H. Revell; preface April 1877)"
+  ],
+  "brookes-maranatha": [
+   "maranathaorlordc00broo",
+   "Maranatha: or, The Lord Cometh, fifth edition (St. Louis: Edward Bredell; preface November 1878)"
+  ],
+  "brookes-mystery-of-suffering": [
+   "bwb_O6-AQW-151",
+   "The Mystery of Suffering (New York and Chicago: Fleming H. Revell; copyright 1890, Gospel Publishing Company)"
+  ],
+  "brookes-chaff-and-wheat": [
+   "chaffwheatdefens00broo",
+   "Chaff and Wheat: A Defense of Verbal Inspiration (New York and Chicago: Fleming H. Revell, copyright 1891)"
+  ],
+  "brookes-till-he-come": [
+   "tillhecome00broo",
+   "\"Till He Come\" (Chicago: Gospel Publishing Company; preface June 1891)"
+  ],
+  "brookes-is-bible-inspired": [
+   "isbibleinspired00broo",
+   "Is the Bible Inspired? (St. Louis: Gospel Book and Tract Depository; no year on the title page)"
+  ],
+  "brookes-did-jesus-rise": [
+   "didjesusrisebook00broo",
+   "Did Jesus Rise? A Book Written to Aid Honest Skeptics (St. Louis: Gospel Book and Tract Depository; no year on the title page)"
+  ],
+  "brookes-outline-books-bible": [
+   "outlineofbooksof00broo",
+   "An Outline of the Books of the Bible (Chicago: Gospel Publishing Company; no year on the title page)"
+  ],
+  "brookes-god-spake": [
+   "in.ernet.dli.2015.351098",
+   "God Spake All These Words (St. Louis: Burkhart Bros.; entry year garbled in the OCR)",
+   "2015.351098.God-Spake_djvu.txt"
+  ]
+ },
+ "_alternates": {
+  "brookes-copies": "Second copies of The Way Made Plain (waymadeplain01broo, 1871; waymadeplain00broo and waymadeplain0000broo, later printings) and two fifth-edition copies of The Mystery of Suffering, about 1903 (mysteryofsufferi0000jhbr_o2e5, in.ernet.dli.2015.268877)",
+  "brookes-second-coming-readings": "Bible Reading on the Second Coming of Christ (Springfield, Ill., 1877; MN41674ucmf_16): he is named its compiler"
+ },
+ "_excluded": {
+  "brookes-hymns": "Gospel Hymns (1871): a hymnal he compiled",
+  "brookes-others": "Gold from Ophir (his introduction) and the 1864 Gamble memorial (multi-author)",
+  "brookes-namesake": "Original Sermons (1833) by an earlier James Hall Brookes",
+  "brookes-late": "reprints of 1937-1989"
+ },
+ "_identity_checked": {
+  "brookes-mystery-of-suffering": {
+   "author": "Title page read: 'by J. H. Brookes, D.D.', OCR '¥ A BROOKES. D- Dd'; the scan's catalogue slip reads 'Brookes, James Hall'; Revell, copyright 1890"
+  }
+ },
+ "_rights_checked": {
+  "brookes-is-bible-inspired": "title page read, no year; author died 1897 and the imprint is his own St. Louis or Chicago publisher, so printed in his lifetime or soon after; IA's date is a guess",
+  "brookes-did-jesus-rise": "title page read, no year; author died 1897 and the imprint is his own St. Louis or Chicago publisher, so printed in his lifetime or soon after; IA's date is a guess",
+  "brookes-outline-books-bible": "title page read, no year; author died 1897 and the imprint is his own St. Louis or Chicago publisher, so printed in his lifetime or soon after; IA's date is a guess (IA's 1850 is impossible for this publisher)",
+  "brookes-god-spake": "title page read: St. Louis, Burkhart Bros.; entered by J. H. Brookes, year garbled (IA's 1805 is impossible); author died 1897"
+ },
+ "_pending": {
+  "brookes-may-christians-dance": "May Christians Dance? (catalogued 1869; danceman028): text returned HTTP 500, title page unread"
+ },
+ "_checks": {
+  "brookes-way-made-plain": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "brookes, james h.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "brookes-is-bible-true": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james h. brookes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brookes-maranatha": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james h. brookes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "brookes-mystery-of-suffering": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "brookes-chaff-and-wheat": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james h. brookes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brookes-till-he-come": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james h. brookes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "brookes-is-bible-inspired": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james h. brookes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read, no year; author died 1897 and the imprint is his own St. Louis or Chicago publisher, so printed in his lifetime or soon after; IA's date is a guess"
+  },
+  "brookes-did-jesus-rise": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james h. brookes",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "[n.d.]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read, no year; author died 1897 and the imprint is his own St. Louis or Chicago publisher, so printed in his lifetime or soon after; IA's date is a guess"
+  },
+  "brookes-outline-books-bible": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james h. brookes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read, no year; author died 1897 and the imprint is his own St. Louis or Chicago publisher, so printed in his lifetime or soon after; IA's date is a guess (IA's 1850 is impossible for this publisher)"
+  },
+  "brookes-god-spake": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james h. brookes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: St. Louis, Burkhart Bros.; entered by J. H. Brookes, year garbled (IA's 1805 is impossible); author died 1897"
+  }
+ }
+}

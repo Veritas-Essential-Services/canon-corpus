@@ -988,3 +988,6 @@
 
 ## 2026-10-17 17:21 CDT — william-carey done
 - `pipeline/william-carey_shelf.json`: 0 CCEL, 1 PG, 0 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:21 CDT — james-h-brookes done
+- `pipeline/james-h-brookes_shelf.json`: 0 CCEL, 0 PG, 10 IA. Title pages read for brookes-mystery-of-suffering (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
