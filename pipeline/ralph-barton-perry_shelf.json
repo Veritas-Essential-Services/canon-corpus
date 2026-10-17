@@ -1,5 +1,5 @@
 {
- "_about": "Ralph Barton Perry (1876-1957), American new realist, the books published by 1930 that Gutenberg has: The Approach to Philosophy (New York: Scribner, 1905) and The Moral Economy (Scribner, 1909), clean Gutenberg texts. Not T. S. Perry (ts-perry shelf). US public domain (published before 1931). No uids minted.",
+ "_about": "Ralph Barton Perry (1876-1957), American new realist, the books published by 1930 that Gutenberg has: The Approach to Philosophy (New York: Scribner, 1905) and The Moral Economy (Scribner, 1909), clean Gutenberg texts. Not T. S. Perry (ts-perry shelf). Added in round ab: Present Philosophical Tendencies, with a synopsis of the philosophy of William James (New York: Longmans, Green; first published 1912, this a new impression of 1921). US public domain (published before 1931). No uids minted.",
  "_author": "Ralph Barton Perry",
  "_name_words": [
   "ralph",
@@ -21,7 +21,12 @@
    "The Moral Economy (New York: Scribner, 1909)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "perry-present-philosophical-tendencies-1921": [
+   "presentphilosoph00perr_0",
+   "Present Philosophical Tendencies, with a synopsis of the philosophy of William James (New York: Longmans, Green; first published 1912, this a new impression of 1921)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "perry-approach-to-philosophy-1905": {
@@ -41,6 +46,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "perry-present-philosophical-tendencies-1921": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "perry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  }
 }
