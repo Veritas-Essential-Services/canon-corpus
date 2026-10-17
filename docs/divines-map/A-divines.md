@@ -4929,3 +4929,13 @@ Slugs `eckhart-*`. Translators: Claud Field, C. de B. Evans (vol. I, 1924; vol. 
 | Evans's second impression (1947) and vol. II (1931, 1952), both catalogued 1924 | excluded | |
 | annaliuniversal126unkngoog, an Italian medical journal catalogued as Eckhart | excluded | |
 | CCEL eckhart/mystische (Landauer, Berlin 1903) and other German editions | excluded | |
+
+## Theologia Germanica (round 24, my pick, 2026-10-17)
+
+Slugs `theologia-germanica-*`. Anonymous work: the identity check is the title. Translators: Susanna Winkworth, Georgiana Malcolm (both 1854).
+
+| Work | Status | Where |
+|---|---|---|
+| Theologia Germanica, ed. Pfeiffer, tr. Susanna Winkworth, with a preface by Charles Kingsley (London: Longman, 1854) | have-ocr | IA `theologiagermani00franiala` |
+| Old German Theology, a Hundred Years before the Reformation, tr. Georgiana Malcolm (London: Arthur Hall, Virtue, 1854) | have-ocr | IA `oldgermantheolo00deutgoog` |
+| Second 1854 Winkworth copy (theologiagerman00johagoog); Andover 1855 and 1860 and Macmillan 1874, 1893 and 1907 printings; CCEL anonymous/theologia (the 1893 Golden Treasury text) | alternate | not shelved |

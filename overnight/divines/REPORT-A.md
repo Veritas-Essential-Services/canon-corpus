@@ -1072,3 +1072,6 @@
 
 ## 2026-10-17 17:35 CDT — meister-eckhart done
 - `pipeline/meister-eckhart_shelf.json`: 1 CCEL, 0 PG, 1 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:35 CDT — theologia-germanica done
+- `pipeline/theologia-germanica_shelf.json`: 0 CCEL, 0 PG, 2 IA. Title pages read for theologia-germanica-malcolm (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
