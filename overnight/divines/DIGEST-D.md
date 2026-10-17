@@ -92,7 +92,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `campbell-highlands` | 0 | 4 | raw OCR | Popular Tales of the West Highlands (1890 ed.), 4 vols, Gaelic with Campbell's English |
 | `ozaki` | 3 Gutenberg | 0 | 3,587 | Japanese Fairy Tales, Warriors of Old Japan, Romances of Old Japan |
 | `mitford` | 1 Gutenberg | 0 | 1,630 | Tales of Old Japan (1871), tr. Mitford |
-| `steel` | 2 Gutenberg | 0 | 3,888 | Tales of the Punjab (1894), English Fairy Tales (1918) |
+| `steel` | 18 Gutenberg | 0 | 34,661 | Indian folk tales and novels of India. Completed 2026-10-17: 16 more books added, every English text by Flora Annie Steel at Gutenberg that no other shelf holds. |
 | `crane` | 1 Gutenberg | 0 | 1,963 | Italian Popular Tales (1885), tr. Crane, by chapter and tale |
 | `grinnell` | 11 Gutenberg | 0 | 12,120 | Plains Indian tales and the Jack books for boys. Completed 2026-10-17: 7 more books added, every English text by George Bird Grinnell at Gutenberg that no other shelf holds. |
 | `harris-remus` | 18 Gutenberg | 0 | 19,040 | The Uncle Remus books and other stories; their dialect and portrayals are of their time. Completed 2026-10-17: 14 more books added, every English text by Joel Chandler Harris at Gutenberg that no other shelf holds. |

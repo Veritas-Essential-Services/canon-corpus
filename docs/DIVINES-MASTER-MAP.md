@@ -17013,14 +17013,30 @@ Shelf: `pipeline/mitford_shelf.json` (2026-10-02; added at the coordinator's rel
 | Tales of Old Japan, tr. A. B. Mitford (1871) | have | PG 13015, `mitford-tales-of-old-japan` (1630 units) |
 | mitford-memoirs | excluded | The Attache at Peking (PG 70467) and his Memories (76182-76184): memoir, not tales |
 
-## Flora Annie Steel (folk tales)
+## Flora Annie Steel
 
-Shelf: `pipeline/steel_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Tales of the Punjab with R. C. Temple's notes, the notes nested under NOTES TO TALES so they do not share a tale's id; and her retold English Fairy Tales, whose picture captions the house rule takes for headings in places (24 ~2 ids). Her novels are not taken. Not in the manifest; no uids minted.
+Shelf: `pipeline/steel_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Indian folk tales and novels of India. All 18 of Flora Annie Steel's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | Tales of the Punjab: Folklore of India, told by Flora Annie Steel, notes by R. C. Temple (1894) | have | PG 6145, `steel-tales-of-the-punjab` (1815 units) |
 | English Fairy Tales, retold by Flora Annie Steel (1918) | have | PG 17034, `steel-english-fairy-tales` (2073 units) |
+| The Adventures of Akbar | have | PG 18307, `steel-adventures-of-akbar` (911 units) |
+| In the Guardianship of God | have | PG 39795, `steel-in-the-guardianship-of-god` (1462 units) |
+| A Prince of Dreamers | have | PG 39810, `steel-a-prince-of-dreamers` (2711 units) |
+| A Sovereign Remedy | have | PG 39813, `steel-a-sovereign-remedy` (2789 units) |
+| From the Five Rivers | have | PG 39821, `steel-from-the-five-rivers` (996 units) |
+| In the Permanent Way | have | PG 39832, `steel-in-the-permanent-way` (1483 units) |
+| In the Tideway | have | PG 39847, `steel-in-the-tideway` (623 units) |
+| India Through the Ages: A Popular and Picturesque History of Hindustan | have | PG 39848, `steel-india-through-the-ages` (2376 units) |
+| Marmaduke | have | PG 39857, `steel-marmaduke` (1795 units) |
+| The Potter's Thumb | have | PG 39985, `steel-potters-thumb` (2005 units) |
+| The Flower of Forgiveness | have | PG 39987, `steel-flower-of-forgiveness` (1256 units) |
+| The Hosts of the Lord | have | PG 39991, `steel-hosts-of-the-lord` (2446 units) |
+| Voices in the Night | have | PG 40045, `steel-voices-in-the-night` (2897 units) |
+| The Mercy of the Lord | have | PG 40136, `steel-mercy-of-the-lord` (1857 units) |
+| On the Face of the Waters: A Tale of the Mutiny | have | PG 40140, `steel-on-the-face-of-the-waters` (2859 units) |
+| Red Rowans | have | PG 40141, `steel-red-rowans` (2307 units) |
 | steel-novels | excluded | her novels and Indian stories (On the Face of the Waters and some twenty others, PG 39794-40142): fiction, outside a folk-tale batch |
 
 ## T. F. Crane (Italian Popular Tales)
