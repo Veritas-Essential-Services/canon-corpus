@@ -1167,3 +1167,6 @@
 
 ## 2026-10-17 18:20 CDT — curwood: done
 - curwood: new shelf, 27 Gutenberg books, 27,064 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:20 CDT — westerman: done
+- westerman: new shelf, 47 Gutenberg books, 74,910 units, 145 ~2 ids; verify 0 mismatches, 0 rights flags.

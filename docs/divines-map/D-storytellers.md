@@ -5664,6 +5664,60 @@ Shelf: `pipeline/curwood_shelf.json` (2026-10-17; added at the coordinator's rel
 | curwood-repeat-29407 | excluded | PG 29407, The Valley of Silent Men: A Story of the Three River Country: a second transcription of a title already on this shelf |
 | curwood-repeat-53929 | excluded | PG 53929, Baree, son of Kazan: a second transcription of a title already on this shelf |
 
+## Percy F. Westerman
+
+Shelf: `pipeline/westerman_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Sea and adventure stories for boys. Every English text under the name at Gutenberg that no other shelf holds (47 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Submarine Hunters: A Story of the Naval Patrol Work in the Great War | have | PG 26641, `pwesterman-submarine-hunters` (2013 units) |
+| Wilmshurst of the Frontier Force | have | PG 26642, `pwesterman-wilmshurst-of-the-frontier-force` (1230 units) |
+| Billy Barcroft, R.N.A.S.: A Story of the Great War | have | PG 35362, `pwesterman-billy-barcroft-r-n-a-s` (2074 units) |
+| The Winning of the Golden Spurs | have | PG 36122, `pwesterman-winning-of-the-golden-spurs` (1666 units) |
+| Rounding up the Raider: A Naval Story of the Great War | have | PG 36499, `pwesterman-rounding-up-the-raider` (1662 units) |
+| The Dispatch-Riders: The Adventures of Two British Motor-cyclists in the Great War | have | PG 36500, `pwesterman-dispatch-riders` (2035 units) |
+| The Fight for Constantinople: A Story of the Gallipoli Peninsula | have | PG 37600, `pwesterman-fight-for-constantinople` (1549 units) |
+| The Nameless Island: A Story of Some Modern Robinson Crusoes | have | PG 37652, `pwesterman-nameless-island` (2254 units) |
+| The Wireless Officer | have | PG 37824, `pwesterman-wireless-officer` (2146 units) |
+| The Quest of the 'Golden Hope': A Seventeenth Century Story of Adventure | have | PG 38222, `pwesterman-quest-of-the-golden-hope` (1354 units) |
+| The Airship "Golden Hind" | have | PG 39488, `pwesterman-airship-golden-hind` (1102 units) |
+| With Beatty off Jutland: A Romance of the Great Sea Fight | have | PG 39489, `pwesterman-with-beatty-off-jutland` (1346 units) |
+| A Lad of Grit: A Story of Adventure on Land and Sea in Restoration Times | have | PG 39490, `pwesterman-a-lad-of-grit` (1250 units) |
+| A Lively Bit of the Front: A Tale of the New Zealand Rifles on the Western Front | have | PG 40073, `pwesterman-a-lively-bit-of-the-front` (1686 units) |
+| The Rival Submarines | have | PG 40866, `pwesterman-rival-submarines` (2152 units) |
+| The Young Cavalier: A Story of the Civil Wars | have | PG 42689, `pwesterman-young-cavalier` (1578 units) |
+| Captured at Tripoli: A Tale of Adventure | have | PG 44487, `pwesterman-captured-at-tripoli` (1155 units) |
+| The Thick of the Fray at Zeebrugge, April 1918 | have | PG 45135, `pwesterman-thick-of-the-fray-at-zeebrugge-april-1918` (932 units) |
+| The Dreadnought of the Air | have | PG 46117, `pwesterman-dreadnought-of-the-air` (2580 units) |
+| A Sub and a Submarine: The Story of H.M. Submarine R19 in the Great War | have | PG 47745, `pwesterman-a-sub-and-a-submarine` (1189 units) |
+| A Watch-dog of the North Sea: A Naval Story of the Great War | have | PG 49267, `pwesterman-a-watch-dog-of-the-north-sea` (2026 units) |
+| The Scouts of Seal Island | have | PG 49496, `pwesterman-scouts-of-seal-island` (1501 units) |
+| The Stolen Cruiser | have | PG 49674, `pwesterman-stolen-cruiser` (1117 units) |
+| The Sea-girt Fortress: A Story of Heligoland | have | PG 50050, `pwesterman-sea-girt-fortress` (1764 units) |
+| A Sub. of the R.N.R.: A Story of the Great War | have | PG 50578, `pwesterman-a-sub-of-the-r-n-r` (2143 units) |
+| The Mystery Ship: A Story of the 'Q' Ships During the Great War | have | PG 50781, `pwesterman-mystery-ship` (1899 units) |
+| To the Fore with the Tanks! | have | PG 51332, `pwesterman-to-the-fore-with-the-tanks` (1272 units) |
+| The Secret Battleplane | have | PG 51796, `pwesterman-secret-battleplane` (1183 units) |
+| Under the White Ensign: A Naval Story of the Great War | have | PG 52141, `pwesterman-under-the-white-ensign` (1411 units) |
+| The Salving of the "Fusi Yama": A Post-War Story of the Sea | have | PG 52340, `pwesterman-salving-of-the-fusi-yama` (1871 units) |
+| The Third Officer: A Present-day Pirate Story | have | PG 52632, `pwesterman-third-officer` (2109 units) |
+| Under King Henry's Banners: A story of the days of Agincourt | have | PG 55364, `pwesterman-under-king-henrys-banners` (1984 units) |
+| Sea Scouts All: How the "Olivette" was won | have | PG 55513, `pwesterman-sea-scouts-all` (1305 units) |
+| Sea Scouts Abroad: Further Adventures of the "Olivette" | have | PG 56325, `pwesterman-sea-scouts-abroad` (1310 units) |
+| Winning His Wings: A Story of the R.A.F. | have | PG 57056, `pwesterman-winning-his-wings` (1480 units) |
+| The Treasure of the "San Philipo" | have | PG 57242, `pwesterman-treasure-of-the-san-philipo` (1412 units) |
+| Three short stories from "The Captain" volume XXVII How Dymock Came to Derry; Jack Devereux's Scoop; The Powder Hulk | have | PG 57533, `pwesterman-three-short-stories-from-the-captain-volume-xxvii` (392 units) |
+| 'Midst Arctic Perils: A Thrilling Story of Adventure in the Polar Regions | have | PG 57798, `pwesterman-midst-arctic-perils` (1535 units) |
+| The Sea Monarch | have | PG 57989, `pwesterman-sea-monarch` (1498 units) |
+| Sea Scouts up-Channel | have | PG 58336, `pwesterman-sea-scouts-up-channel` (1632 units) |
+| Clipped Wings | have | PG 60311, `pwesterman-clipped-wings` (1806 units) |
+| The Pirate Submarine | have | PG 61899, `pwesterman-pirate-submarine` (1904 units) |
+| The Fritz Strafers: A Story of the Great War | have | PG 65262, `pwesterman-fritz-strafers` (2037 units) |
+| The Sea Scouts of the Kestrel The story of a cruise of adventure & pluck in a small yacht on the English Channel | have | PG 69612, `pwesterman-sea-scouts-of-the-kestrel-the-story-of-a-cruise-o` (1407 units) |
+| Sinclair's luck | have | PG 72673, `pwesterman-sinclairs-luck` (1475 units) |
+| The boys of the "Puffin" | have | PG 74975, `pwesterman-boys-of-the-puffin` (1102 units) |
+| 'Gainst the might of Spain | have | PG 78984, `pwesterman-gainst-the-might-of-spain` (1382 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
