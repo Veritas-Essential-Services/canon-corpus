@@ -36,13 +36,19 @@
    "discourseonmetap00leibuoft",
    "Discourse on Metaphysics, Correspondence with Arnauld, and Monadology, with an introduction by Paul Janet (Chicago: Open Court, 1902)",
    "tr. George R. Montgomery"
+  ],
+  "leibniz-russell-system-of-theology-1850": [
+   "a590378700leibuoft",
+   "A System of Theology, translated with an introduction and notes (London: Burns and Lambert, 1850)",
+   "tr. Charles William Russell"
   ]
  },
  "_excluded": {},
  "_translators": {
   "leibniz-langley-new-essays-1896": "Langley",
   "leibniz-latta-monadology-1898": "Latta",
-  "leibniz-montgomery-discourse-1902": "Montgomery"
+  "leibniz-montgomery-discourse-1902": "Montgomery",
+  "leibniz-russell-system-of-theology-1850": "Russell"
  },
  "_checks": {
   "leibniz-duncan-philosophical-works-1890": {
@@ -92,6 +98,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1902",
    "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leibniz-russell-system-of-theology-1850": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "leibniz",
+   "translator_claimed": "Russell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

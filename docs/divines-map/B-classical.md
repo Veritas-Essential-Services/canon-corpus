@@ -3671,6 +3671,7 @@ Shelf: `pipeline/leibniz_shelf.json`. G. W. Leibniz (1646-1716) in English, tran
 | New Essays Concerning Human Understanding, together with an appendix consisting of some of his shorter pieces (New York: Macmillan, 1896) | Alfred Gideon Langley | `leibniz-langley-new-essays-1896` | have-raw (IA `newessaysconcern00leibuoft`) |
 | The Monadology and Other Philosophical Writings, translated with introduction and notes (Oxford: Clarendon, 1898) | Robert Latta | `leibniz-latta-monadology-1898` | have-raw (IA `themonadology00leibuoft`) |
 | Discourse on Metaphysics, Correspondence with Arnauld, and Monadology, with an introduction by Paul Janet (Chicago: Open Court, 1902) | George R. Montgomery | `leibniz-montgomery-discourse-1902` | have-raw (IA `discourseonmetap00leibuoft`) |
+| A System of Theology, translated with an introduction and notes (London: Burns and Lambert, 1850) | Charles William Russell | `leibniz-russell-system-of-theology-1850` | have-raw (IA `a590378700leibuoft`) |
 
 ## Fichte in English
 
