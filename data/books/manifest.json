@@ -1650,5 +1650,52 @@
    "resolution": "paragraph",
    "honesty": "chapter headings detected; paragraph running within chapter"
   }
+ },
+ "aquinas-st-en": {
+  "title": "Summa Theologiae (English, Fathers of the English Dominican Province, 2nd ed. 1920-22), keyed by article",
+  "author": "Thomas Aquinas (tr. Fathers of the English Dominican Province)",
+  "format": "thml",
+  "sha256": "550eb0b0758f119dfe50346e43072026e8c3070d806d4942025525fb24fb7f5b",
+  "units": 30377,
+  "scheme": {
+   "citation": "Thomist citation: part, question, article, part of the article (I.q2.a3.co = ST I q.2 a.3 co.)",
+   "resolution": "part of the article (objection, sed contra, respondeo, reply)",
+   "honesty": "exact: both editions print these divisions; where the two editions divide an article differently, data/aquinas/st-key.jsonl says so (status parts-differ) and nothing is forced to line up",
+   "key_file": "data/aquinas/st-key.jsonl",
+   "parallel_with": "aquinas-st-la"
+  },
+  "source": "https://ccel.org/ccel/a/aquinas/summa.xml (DC.Rights: Public Domain)",
+  "rights": {
+   "license": "public-domain",
+   "basis": "the translation was published 1911-1925 (2nd revised ed. 1920-22), before 1931: US public domain. The digital text (Sandra K. Perry's, as on Gutenberg) was keyed from the Benziger Brothers 1947 printing; only the translation is used, none of that printing's added matter",
+   "redistribute_whole": true
+  },
+  "builder": "pipeline/build_aquinas_st.py",
+  "note": "The same translation as the Gutenberg books aquinas-summa, -1-2, -2-2, -3 and aquinas-summa-supp, which keep their own ids; this book re-cuts CCEL's text at the article part so it can stand beside the Latin. 2669 of 3125 articles have a Latin witness. Scripture references are recorded as the source tagged them (Vulgate versification, resolved: false)."
+ },
+ "aquinas-st-la": {
+  "title": "Summa Theologiae (Latin, Leonine text via Corpus Thomisticum), keyed by article",
+  "author": "Thomas Aquinas",
+  "format": "corpus-thomisticum-html",
+  "sha256": "8ab7d0c06170a917e5de509119b8ef7d3dd6e04f8f6f0bdc02be5c11576dd21e",
+  "units": 23326,
+  "scheme": {
+   "citation": "Thomist citation: part, question, article, part of the article (I.q2.a3.co = ST I q.2 a.3 co.)",
+   "resolution": "part of the article (objection, sed contra, respondeo, reply)",
+   "honesty": "exact: both editions print these divisions; where the two editions divide an article differently, data/aquinas/st-key.jsonl says so (status parts-differ) and nothing is forced to line up",
+   "key_file": "data/aquinas/st-key.jsonl",
+   "parallel_with": "aquinas-st-en"
+  },
+  "source": "https://www.corpusthomisticum.org/iopera.html (Textum Leoninum Romae 1888-1906 editum, ed. E. Alarcon)",
+  "rights": {
+   "license": "underlying text public domain (Leonine edition, Rome 1888-1906); electronic edition claimed by the publisher",
+   "attribution": "Corpus Thomisticum, ed. Enrique Alarcon, Fundacion Tomas de Aquino / Universidad de Navarra",
+   "source_url": "https://www.corpusthomisticum.org/",
+   "publisher_notice": "(c) Fundacion Tomas de Aquino quoad hanc editionem. Iura omnia asservantur",
+   "redistribute_whole": false,
+   "pending": "Adam's ruling: docs/AQUINAS.md, The Latin question"
+  },
+  "builder": "pipeline/build_aquinas_st.py",
+  "note": "No Supplement: Corpus Thomisticum prints the Supplement's source (Scriptum super Sententiis IV), not the Supplement itself."
  }
 }
