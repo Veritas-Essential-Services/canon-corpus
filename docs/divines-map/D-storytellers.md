@@ -1133,7 +1133,7 @@ Shelf: `pipeline/wiggin_shelf.json` (2026-10-02; added at the coordinator's rela
 
 ## Juliana Horatia Ewing
 
-Shelf: `pipeline/ewing_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her stories for children; the Jackanapes volume nested story > chapter or scene. Two volumes measured as contained in Lob Lie-by-the-Fire are excluded, not held twice. Not in the manifest; no uids minted.
+Shelf: `pipeline/ewing_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Victorian children's stories and fairy tales. All 18 of Juliana Horatia Ewing's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -1144,6 +1144,17 @@ Shelf: `pipeline/ewing_shelf.json` (2026-10-02; added at the coordinator's relay
 | Mrs. Overtheway's Remembrances (1869) | have | PG 17772, `ewing-mrs-overtheways-remembrances` (1029 units) |
 | Six to Sixteen (1875) | have | PG 19360, `ewing-six-to-sixteen` (1287 units) |
 | A Flat Iron for a Farthing (1872) | have | PG 19859, `ewing-flat-iron-for-a-farthing` (1205 units) |
+| Brothers of Pity and Other Tales of Beasts and Men | have | PG 16121, `ewing-brothers-of-pity-and-other-tales-of-beasts-and-men` (1166 units) |
+| Miscellanea | have | PG 16347, `ewing-miscellanea` (1494 units) |
+| Melchior's Dream and Other Tales | have | PG 16540, `ewing-melchiors-dream-and-other-tales` (1208 units) |
+| Verses for Children, and Songs for Music | have | PG 16686, `ewing-verses-for-children-and-songs-for-music` (323 units) |
+| A Great Emergency and Other Tales | have | PG 17069, `ewing-a-great-emergency-and-other-tales` (1234 units) |
+| We and the World: A Book for Boys. Part I | have | PG 18077, `ewing-we-and-the-world` (719 units) |
+| Mary's Meadow, and Other Tales of Fields and Flowers | have | PG 19644, `ewing-marys-meadow-and-other-tales-of-fields-and-flowers` (1059 units) |
+| The Peace Egg and Other tales | have | PG 20425, `ewing-peace-egg-and-other-tales` (874 units) |
+| Last Words: A Final Collection of Stories | have | PG 25710, `ewing-last-words` (1553 units) |
+| Snap-Dragons; Old Father Christmas | have | PG 43763, `ewing-snap-dragons` (381 units) |
+| We and the World: A Book for Boys. Part II | have | PG 18156, `ewing-we-and-the-world-part-ii` (989 units) |
 | ewing-jackanapes-single | excluded | Jackanapes alone (PG 20351): contained in PG 7865 |
 | ewing-other | excluded | Melchior's Dream, A Great Emergency, Brothers of Pity, Mary's Meadow, The Peace Egg, We and the World, Last Words, verses and miscellanea: candidates for a later batch |
 | ewing-contained | excluded | The Brownies and Other Tales (PG 16052) and The Land of Lost Toys (PG 33880): measured 84% and 93% contained in Lob Lie-by-the-Fire, The Brownies and Other Tales (PG 62783), which is held |

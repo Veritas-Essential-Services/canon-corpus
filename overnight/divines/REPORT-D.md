@@ -1017,3 +1017,6 @@
 
 ## 2026-10-17 17:29 CDT — burgess: done
 - burgess: completed, 14 more Gutenberg books (40 on the shelf), 16,563 units, 22 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:29 CDT — ewing: done
+- ewing: completed, 11 more Gutenberg books (18 on the shelf), 19,842 units, 314 ~2 ids; verify 0 mismatches, 0 rights flags.
