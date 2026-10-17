@@ -1,0 +1,48 @@
+{
+ "_about": "John Venn (1834-1923), logician: The Logic of Chance, 3rd ed. (London: Macmillan, 1888; clean Gutenberg text) and Symbolic Logic (London: Macmillan, 1881; raw IA OCR). Not Henry Venn the evangelical, who has his own shelf. US public domain. No uids minted.",
+ "_author": "John Venn",
+ "_name_words": [
+  "john",
+  "venn"
+ ],
+ "_surname": [
+  "venn",
+  "john venn"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "venn-logic-of-chance-1888": [
+   57359,
+   "The Logic of Chance, 3rd ed. (London: Macmillan, 1888)"
+  ]
+ },
+ "internet_archive": {
+  "venn-symbolic-logic-1881": [
+   "symboliclogic00vennuoft",
+   "Symbolic Logic (London: Macmillan, 1881)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "venn-logic-of-chance-1888": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "venn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "venn-symbolic-logic-1881": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "venn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
