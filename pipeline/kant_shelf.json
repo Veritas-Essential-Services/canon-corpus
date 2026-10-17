@@ -1,5 +1,5 @@
 {
- "_about": "Immanuel Kant (1724-1804) in English, translator per row. Already held elsewhere and not taken again: Meiklejohn's Critique of Pure Reason (PG 4280) and Abbott's Critique of Practical Reason (PG 5683) on the Adler shelf; Abbott's Fundamental Principles and Metaphysical Elements of Ethics (lane C's tk-abbott); Bernard's Critique of Judgement (PG 48433) and Perpetual Peace (PG 50922) on singles-ideas-2. Clean Gutenberg: Carus's Prolegomena (Open Court, 3rd ed. 1912; the translation's printed copyright is 1902, so US public domain). Raw IA OCR: Max Müller's Critique of Pure Reason (Macmillan, 1881, 2 vols.), Semple's Religion within the Boundary of Pure Reason (Edinburgh, 1838) and Metaphysic of Ethics (3rd ed., ed. Calderwood, 1871), Bax's Prolegomena and Metaphysical Foundations of Natural Science (Bohn, 1883), Hastie's Philosophy of Law (1887) and Kant's Cosmogony (1900), and the Prolegomena in Mahaffy and Bernard's Kant's Critical Philosophy for English Readers, vol. II (1889). No uids minted.",
+ "_about": "Immanuel Kant (1724-1804) in English, translator per row. Already held elsewhere and not taken again: Meiklejohn's Critique of Pure Reason (PG 4280) and Abbott's Critique of Practical Reason (PG 5683) on the Adler shelf; Abbott's Fundamental Principles and Metaphysical Elements of Ethics (lane C's tk-abbott); Bernard's Critique of Judgement (PG 48433) and Perpetual Peace (PG 50922) on singles-ideas-2. Clean Gutenberg: Carus's Prolegomena (Open Court, 3rd ed. 1912; the translation's printed copyright is 1902, so US public domain). Raw IA OCR: Max Müller's Critique of Pure Reason (Macmillan, 1881, 2 vols.), Semple's Religion within the Boundary of Pure Reason (Edinburgh, 1838) and Metaphysic of Ethics (3rd ed., ed. Calderwood, 1871), Bax's Prolegomena and Metaphysical Foundations of Natural Science (Bohn, 1883), Hastie's Philosophy of Law (1887) and Kant's Cosmogony (1900), and the Prolegomena in Mahaffy and Bernard's Kant's Critical Philosophy for English Readers, vol. II (1889). No uids minted. Added 2026-10-17: James Creed Meredith's Critique of Aesthetic Judgement (Oxford, 1911), a translation distinct from Bernard's, and John Watson's selections, The Philosophy of Kant as contained in extracts from his own writings (Glasgow, 1897).",
  "_author": "Immanuel Kant",
  "_name_words": [
   "immanuel",
@@ -56,6 +56,11 @@
    "KantsCriticalPhilosophyForEnglishReadersVol2",
    "Kant's Critical Philosophy for English Readers, new and completed edition, vol. II: the Prolegomena translated, with notes and appendices (London: Macmillan, 1889)",
    "tr. John P. Mahaffy and John H. Bernard"
+  ],
+  "kant-meredith-aesthetic-judgement-1911": [
+   "critiquekantaest00kantuoft",
+   "Kant's Critique of Aesthetic Judgement, translated with seven introductory essays, notes, and analytical index (Oxford: Clarendon, 1911)",
+   "tr. James Creed Meredith"
   ]
  },
  "_excluded": {},
@@ -66,7 +71,8 @@
   "kant-bax-prolegomena-1883": "Bax",
   "kant-hastie-philosophy-of-law-1887": "Hastie",
   "kant-hastie-cosmogony-1900": "Hastie",
-  "kant-mahaffy-bernard-prolegomena-1889": "Bernard"
+  "kant-mahaffy-bernard-prolegomena-1889": "Bernard",
+  "kant-meredith-aesthetic-judgement-1911": "Meredith"
  },
  "_checks": {
   "kant-carus-prolegomena-1912": {
@@ -178,6 +184,19 @@
    "ia_rights": "ok: published 1889",
    "ia_date": "1889",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kant-meredith-aesthetic-judgement-1911": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kant",
+   "translator_claimed": "Meredith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }

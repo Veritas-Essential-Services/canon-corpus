@@ -3537,7 +3537,7 @@ Shelf: `pipeline/schopenhauer_shelf.json`. Arthur Schopenhauer (1788-1860) in En
 
 ## Kant in English
 
-Shelf: `pipeline/kant_shelf.json`. Immanuel Kant (1724-1804) in English, translator per row. Already held elsewhere and not taken again: Meiklejohn's Critique of Pure Reason (PG 4280) and Abbott's Critique of Practical Reason (PG 5683) on the Adler shelf; Abbott's Fundamental Principles and Metaphysical Elements of Ethics (lane C's tk-abbott); Bernard's Critique of Judgement (PG 48433) and Perpetual Peace (PG 50922) on singles-ideas-2. Clean Gutenberg: Carus's Prolegomena (Open Court, 3rd ed. 1912; the translation's printed copyright is 1902, so US public domain). Raw IA OCR: Max Müller's Critique of Pure Reason (Macmillan, 1881, 2 vols.), Semple's Religion within the Boundary of Pure Reason (Edinburgh, 1838) and Metaphysic of Ethics (3rd ed., ed. Calderwood, 1871), Bax's Prolegomena and Metaphysical Foundations of Natural Science (Bohn, 1883), Hastie's Philosophy of Law (1887) and Kant's Cosmogony (1900), and the Prolegomena in Mahaffy and Bernard's Kant's Critical Philosophy for English Readers, vol. II (1889). No uids minted.
+Shelf: `pipeline/kant_shelf.json`. Immanuel Kant (1724-1804) in English, translator per row. Already held elsewhere and not taken again: Meiklejohn's Critique of Pure Reason (PG 4280) and Abbott's Critique of Practical Reason (PG 5683) on the Adler shelf; Abbott's Fundamental Principles and Metaphysical Elements of Ethics (lane C's tk-abbott); Bernard's Critique of Judgement (PG 48433) and Perpetual Peace (PG 50922) on singles-ideas-2. Clean Gutenberg: Carus's Prolegomena (Open Court, 3rd ed. 1912; the translation's printed copyright is 1902, so US public domain). Raw IA OCR: Max Müller's Critique of Pure Reason (Macmillan, 1881, 2 vols.), Semple's Religion within the Boundary of Pure Reason (Edinburgh, 1838) and Metaphysic of Ethics (3rd ed., ed. Calderwood, 1871), Bax's Prolegomena and Metaphysical Foundations of Natural Science (Bohn, 1883), Hastie's Philosophy of Law (1887) and Kant's Cosmogony (1900), and the Prolegomena in Mahaffy and Bernard's Kant's Critical Philosophy for English Readers, vol. II (1889). No uids minted. Added 2026-10-17: James Creed Meredith's Critique of Aesthetic Judgement (Oxford, 1911), a translation distinct from Bernard's, and John Watson's selections, The Philosophy of Kant as contained in extracts from his own writings (Glasgow, 1897).
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -3550,8 +3550,7 @@ Shelf: `pipeline/kant_shelf.json`. Immanuel Kant (1724-1804) in English, transla
 | The Philosophy of Law: an exposition of the fundamental principles of jurisprudence as the science of right (Edinburgh: T. & T. Clark, 1887) | W. Hastie | `kant-hastie-philosophy-of-law-1887` | have-raw (IA `thephilosophyofl00kantuoft`) |
 | Kant's Cosmogony, as in his Essay on the Retardation of the Rotation of the Earth and his Natural History and Theory of the Heavens (Glasgow: Maclehose, 1900) | W. Hastie | `kant-hastie-cosmogony-1900` | have-raw (IA `kantscosmogonyas00kantuoft`) |
 | Kant's Critical Philosophy for English Readers, new and completed edition, vol. II: the Prolegomena translated, with notes and appendices (London: Macmillan, 1889) | John P. Mahaffy and John H. Bernard | `kant-mahaffy-bernard-prolegomena-1889` | have-raw (IA `KantsCriticalPhilosophyForEnglishReadersVol2`) |
-
-Pending (wishlist): Goerwitz's Dreams of a Spirit-Seer (1900; IA dreamsofspiritse00kant returned HTTP 500); Annette Churton's Kant on Education (1899; the scan found has no readable title page); the 1798-1799 Essays and Treatises and Metaphysic of Morals attributed to John Richardson (title pages unreadable in the OCR).
+| Kant's Critique of Aesthetic Judgement, translated with seven introductory essays, notes, and analytical index (Oxford: Clarendon, 1911) | James Creed Meredith | `kant-meredith-aesthetic-judgement-1911` | have-raw (IA `critiquekantaest00kantuoft`) |
 
 ## Hume
 
@@ -3628,7 +3627,7 @@ Pending (wishlist): Haldane and Ross vol. II (Cambridge, 1912) in a pre-1931 pri
 
 ## Rousseau in English
 
-Shelf: `pipeline/rousseau_shelf.json`. The Confessions (1903) and the Discourse on Inequality (PG 11136).
+Shelf: `pipeline/rousseau_shelf.json`. Jean-Jacques Rousseau (1712-1778): the Confessions, complete in twelve books, from Gutenberg (privately printed for the members of the Aldus Society, London, 1903; translator not named in the book). The Social Contract and Discourses (Cole, PG 46333) are on the Adler shelf, Emile on rousseau-emile, and Eloisa on singles-fiction-3; none is taken again. No uids minted. Added 2026-10-17: the Discourse on Inequality in the anonymous translation of PG 11136, a different translation from the Adler shelf's Social Contract and Discourses (PG 46333).
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -4221,6 +4220,21 @@ Shelf: `pipeline/vattel_shelf.json`. The Law of Nations, Chitty-Ingraham (Philad
 | The Law of Nations, from the new edition by Joseph Chitty, with notes by Edward D. Ingraham (Philadelphia: T. and J. W. Johnson, 1853) | Chitty | `vattel-chitty-law-of-nations-1853` | have-raw (IA `lawofnationsorpr00vattiala`) |
 
 Pending (wishlist): Fenwick's Carnegie translation (1916).
+
+## Condorcet in English
+
+Shelf: `pipeline/condorcet_shelf.json`. Outlines of the Progress of the Human Mind (1795).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Outlines of an Historical View of the Progress of the Human Mind, translated from the French (London: J. Johnson, 1795) | anonymous | `condorcet-outlines-progress-1795` | have-raw (IA `outlinesofhistor00cond`) |
+
+## Fontenelle in English
+
+Shelf: `pipeline/fontenelle_shelf.json`. Glanvill (1703) and Gardiner (1737); Gunning's is on singles-ideas-3.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
 
 ## Perseus census (overflow)
 
