@@ -1117,3 +1117,6 @@
 
 ## 2026-10-17 18:10 CDT — bernard-of-clairvaux done
 - `pipeline/bernard-of-clairvaux_shelf.json`: 1 CCEL, 1 PG, 12 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — francis-of-assisi done
+- `pipeline/francis-of-assisi_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.

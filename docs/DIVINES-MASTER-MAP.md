@@ -5199,6 +5199,25 @@ Slugs `bernard-*`. Translators: Eales, Patmore, van Allen, Lewis, Williams, Mill
 | PG 21152: an audio book only | excluded | |
 | Post-1929 translations (1937 onward, Cistercian Publications 1980) | excluded | |
 | Lives of Bernard | excluded | |
+
+## Francis of Assisi (round 25, my pick, 2026-10-17)
+
+Slugs `francis-*`. Translators: Robinson, de la Warr, Balfour, Alger; Okey's revision of the Upton version names no one on the title page. The Little Flowers are a fourteenth-century Franciscan collection ABOUT him, kept here for Adam's veto.
+
+| Work | Status | Where |
+|---|---|---|
+| The Writings of Saint Francis of Assisi, newly translated by Father Paschal Robinson (Philadelphia: Dolphin Press, MCMVI) | have-ocr | IA `writingsofsaintf00fran` |
+| Works of the Seraphic Father St. Francis of Assisi, translated by a Religious of the Order (London: R. Washbourne; catalogued 1882) | have-ocr | IA `SeraphicFatherStFrancisOfAssisi` |
+| The Writings of St Francis of Assisi, by Constance, Countess de la Warr (London: Burns & Oates; catalogued 1907) | have-ocr | IA `writingsofstfran00fran` |
+| The Seraphic Keepsake, written for Brother Leo by Saint Francis, set forth in English by Reginald Balfour (London: Burns & Oates; catalogued 1905) | have-ocr | IA `seraphickeepsake00fran` |
+| The Little Flowers of Saint Francis of Assisi (a fourteenth-century Franciscan collection about him), tr. Abby Langdon Alger (Boston: Roberts Brothers, 1887) | have-ocr | IA `littleflowersofs02alge` |
+| The Little Flowers of Saint Francis (about him), the Upton translation revised by Thomas Okey, illustrated by Paul Woodroffe (London: Kegan Paul, MDCCCXCIX) | have-ocr | IA `littleflowersofs00unse` |
+| The Canticle of the Sun (New York: Duffield, 1907), a leaflet with a garbled title page | alternate | not shelved |
+| Other copies of Robinson, de la Warr and Balfour | alternate | not shelved |
+| Alger 1898, Okey 1905, T. W. Arnold (Chatto & Windus, 1908), Everyman (1910-1927) | alternate | not shelved |
+| Lives and legends about him: Celano, the Three Companions, the Mirror of Perfection, Sabatier, Chesterton, Chalippe | excluded | |
+| CCEL ugolino/flowers: Heritage Press, Hudleston revision, post-1929 | excluded | |
+| Peter Pauper and Burns Oates & Washbourne printings after 1929 | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
