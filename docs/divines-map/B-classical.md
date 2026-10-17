@@ -3758,6 +3758,7 @@ Shelf: `pipeline/malebranche_shelf.json`. Taylor (1700) and Ginsberg (1923).
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| Father Malebranche his Treatise concerning the Search after Truth, the whole work complete, 2nd ed., corrected (London, 1700) | T. Taylor | `malebranche-taylor-search-after-truth-1700` | have-raw (IA `fathermalebranch00male`) |
 
 ## The Port-Royal Logic
 

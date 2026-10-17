@@ -1,0 +1,42 @@
+{
+ "_about": "Nicolas Malebranche (1638-1715) in English, translator per row, raw IA OCR: Thomas Taylor's Father Malebranche his Treatise concerning the Search after Truth, 2nd ed., corrected (London, 1700), and Morris Ginsberg's Dialogues on Metaphysics and on Religion (London: Allen and Unwin / New York: Macmillan, 1923). Both US public domain (published before 1930). No uids minted.",
+ "_author": "Nicolas Malebranche",
+ "_name_words": [
+  "nicolas",
+  "nicholas",
+  "father",
+  "pere",
+  "malebranche"
+ ],
+ "_surname": [
+  "malebranche"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "malebranche-taylor-search-after-truth-1700": [
+   "fathermalebranch00male",
+   "Father Malebranche his Treatise concerning the Search after Truth, the whole work complete, 2nd ed., corrected (London, 1700)",
+   "tr. T. Taylor"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "malebranche-taylor-search-after-truth-1700": "Taylor"
+ },
+ "_checks": {
+  "malebranche-taylor-search-after-truth-1700": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "malebranche",
+   "translator_claimed": "Taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1700",
+   "ia_date": "1700",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
