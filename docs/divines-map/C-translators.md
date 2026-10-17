@@ -6452,6 +6452,30 @@ Round 71 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `arabic-classics-hariri-2` | Al-Hariri, the Maqamat | The Assemblies of al-Hariri, vol. II (assemblies 27-50) | F. Steingass | 1898 | have-raw | IA `in.ernet.dli.2015.282996` |
 | — | — | beirut-reprints: Librairie du Liban (1970) and Khayats (1964-66) reprints of Ibn Khallikan, Usamah and Baladhuri (ibnkhallikansbio0001ibnk-0004ibnk, memoirsofarabsyr0000tran, originsofislamic0000bald): not used. | — | — | excluded | — |
 
+## Translator shelf: E. A. Wallis Budge's Egyptian, Ethiopic and Syriac translations before 1931: the Book of the Dead, the Egyptian Heaven and Hell, the Liturgy of Funerary Offerings, Amen-em-apt, the Kebra Nagast, the Alexander romances, Bar Hebraeus's Laughable Stories, the Monks of Kublai Khan, the Book of Medicines
+
+Shelf: `pipeline/budge_shelf.json` · fetch `python3 pipeline/fetch_shelf.py budge` · titles `python3 pipeline/split_shelf_titles.py budge`.
+Round 72 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `budge-book-of-the-dead` | The Egyptian Book of the Dead (Theban recension) | The Book of the Dead: an English Translation of the Chapters, Hymns, etc., of the Theban Recension | E. A. Wallis Budge | 1898 | have-raw | IA `dli.ministry.10397` |
+| `budge-egyptian-heaven-and-hell-1` | The Book Am-Tuat (Egyptian funerary book) | The Egyptian Heaven and Hell, vol. I: the Book Am-Tuat | E. A. Wallis Budge | 1905 | have-raw | IA `india.history.resource.92915` |
+| `budge-egyptian-heaven-and-hell-2` | The short form of the Book Am-Tuat and the Book of Gates | The Egyptian Heaven and Hell, vol. II: the Short Form of the Book Am-Tuat and the Book of Gates | E. A. Wallis Budge | 1905 | have-raw | IA `india.history.resource.92916` |
+| `budge-liturgy-of-funerary-offerings` | The Egyptian Liturgy of Funerary Offerings | The Liturgy of Funerary Offerings: the Egyptian Texts with English Translations | E. A. Wallis Budge | 1909 | have-raw | IA `liturgyoffunerar00budg` |
+| `budge-teaching-of-amen-em-apt` | The Instruction of Amenemope | The Teaching of Amen-em-apt, Son of Kanekht | E. A. Wallis Budge | 1924 | have-raw | IA `teachingofamenem0000eawa` |
+| `budge-queen-of-sheba` | The Kebra Nagast (Ethiopian national epic) | The Queen of Sheba and her only Son Menyelek (the Kebra Nagast) | E. A. Wallis Budge | 1922 | have-raw | IA `queenofshebahero00budgrich` |
+| `budge-alexander-ethiopic` | The Ethiopic histories of Alexander (Pseudo-Callisthenes and others) | The Life and Exploits of Alexander the Great, being a Series of Translations of the Ethiopic Histories of Alexander | E. A. Wallis Budge | 1896 | have-raw | IA `cu31924091208573` |
+| `budge-alexander-syriac` | The Syriac Pseudo-Callisthenes | The History of Alexander the Great, being the Syriac Version of the Pseudo-Callisthenes | E. A. Wallis Budge | 1889 | have-raw | IA `BudgeSyriacAlexander` |
+| `budge-laughable-stories` | Bar Hebraeus, the Laughable Stories | The Laughable Stories collected by Mar Gregory John Bar-Hebraeus | E. A. Wallis Budge | 1897 | have-raw | IA `laughablestories00barhrich` |
+| `budge-monks-of-kublai-khan` | The history of Rabban Sawma and Mar Yahballaha III (Syriac) | The Monks of Kublai Khan, Emperor of China | E. A. Wallis Budge | 1928 | have-raw | IA `monksofkublaikha0000unse` |
+| `budge-book-of-medicines` | The Syriac Book of Medicines | Syrian Anatomy, Pathology and Therapeutics, or 'The Book of Medicines', vol. II: English translation | E. A. Wallis Budge | 1913 | have-raw | IA `syriananatomypat02budgiala` |
+| `amulets-and-superstitions` | — | Amulets and Superstitions (Oxford, 1930): waits on the 1930 ruling. | — | — | pending | — |
+| — | — | christian-texts: Budge's Christian translations are left for lane A: The Contendings of the Apostles (1899-1901), The Paradise or Garden of the Holy Fathers (1907), Saint Michael the Archangel (1894), the Life of Takla Haymanot (1906), the Book of the Saints of the Ethiopian Church (1928) and the Book of the Cave of Treasures (1927). | — | — | excluded | — |
+| — | — | book-of-the-dead-reissues: The 1901 three-volume Books on Egypt and Chaldaea reissue of the Book of the Dead translation and the 1913 Papyrus of Ani are not added alongside the 1898 translation. | — | — | excluded | — |
+| — | — | book-of-the-dead-other-volumes: The Egyptian text and vocabulary volumes of the 1898 Book of the Dead (e.g. bookdeadanengli00budggoog, the vocabulary) are not shelved. | — | — | excluded | — |
+| — | — | book-of-medicines-1: Vol. I of the Book of Medicines (1913) is the Syriac text. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

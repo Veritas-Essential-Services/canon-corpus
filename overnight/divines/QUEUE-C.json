@@ -3456,6 +3456,14 @@
       "finished": "2026-10-17T18:45-05:00",
       "scope": "TRANSLATOR SHELF (round 71, lane C's choice; Adam may veto) -- arabic-classics; PD printings before 1931 only; no minting",
       "notes": "10 titles; ids checked across all branches. See DIGEST-C round 71. No uids minted."
+    },
+    {
+      "id": "shelf-budge",
+      "status": "done",
+      "started": "2026-10-17T18:52-05:00",
+      "finished": "2026-10-17T18:52-05:00",
+      "scope": "TRANSLATOR SHELF (round 72, lane C's choice; Adam may veto) -- budge; PD printings before 1931 only; no minting",
+      "notes": "11 titles; ids checked across all branches. See DIGEST-C round 72. No uids minted."
     }
   ]
 }
