@@ -1,0 +1,38 @@
+{
+ "_about": "Antoine Louis Claude Destutt de Tracy (1754-1836), raw IA OCR: A Treatise on Political Economy, to which is prefixed a supplement to the Elements of Ideology, translated from the unpublished French original (Georgetown, D.C.: Joseph Milligan, 1817; the translation was arranged by Thomas Jefferson, which the title page does not say). US public domain. No uids minted.",
+ "_author": "Antoine Destutt de Tracy",
+ "_name_words": [
+  "antoine",
+  "count",
+  "destutt",
+  "tracy",
+  "de"
+ ],
+ "_surname": [
+  "destutt",
+  "destutt tracy"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "destutt-de-tracy-treatise-on-political-economy-1817": [
+   "treatiseonpoliti00destuoft",
+   "A Treatise on Political Economy (Georgetown, D.C.: Joseph Milligan, 1817)",
+   "tr. anonymous"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "destutt-de-tracy-treatise-on-political-economy-1817": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "destutt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
