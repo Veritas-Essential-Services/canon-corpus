@@ -2485,6 +2485,14 @@
       "started": "2026-10-17T18:32:10-05:00",
       "finished": "2026-10-17T18:32:11-05:00",
       "notes": "joseph-hocking: new shelf, 12 Gutenberg books, 33,522 units, 57 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "burt-standish",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Burt L. Standish; no minting",
+      "status": "done",
+      "started": "2026-10-17T18:41:38-05:00",
+      "finished": "2026-10-17T18:41:38-05:00",
+      "notes": "burt-standish: new shelf, 59 Gutenberg books, 147,563 units, 340 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

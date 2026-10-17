@@ -1,0 +1,839 @@
+{
+ "_about": "Burt L. Standish's (Gilbert Patten's) Frank Merriwell stories: every English text under the name at Gutenberg (catalogue: 1866-1945). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Burt L. Standish",
+ "_name_words": [
+  "standish"
+ ],
+ "_surname": [
+  "burt l. standish",
+  "gilbert patten"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bstandish-frank-merriwells-nobility": [
+   10904,
+   "Frank Merriwell's Nobility; Or, The Tragedy of the Ocean Tramp"
+  ],
+  "bstandish-frank-merriwell-at-yale": [
+   11115,
+   "Frank Merriwell at Yale; Or, Freshman Against Freshman"
+  ],
+  "bstandish-frank-merriwells-reward": [
+   19402,
+   "Frank Merriwell's Reward"
+  ],
+  "bstandish-frank-merriwells-chums": [
+   19502,
+   "Frank Merriwell's Chums",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-frank-merriwell-juniors-golden-trail": [
+   19867,
+   "Frank Merriwell, Junior's, Golden Trail; Or, The Fugitive Professor"
+  ],
+  "bstandish-frank-merriwells-races": [
+   21958,
+   "Frank Merriwell's Races",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-frank-merriwells-cruise": [
+   22265,
+   "Frank Merriwell's Cruise"
+  ],
+  "bstandish-frank-merriwell-down-south": [
+   22424,
+   "Frank Merriwell Down South"
+  ],
+  "bstandish-frank-merriwells-bravery": [
+   22571,
+   "Frank Merriwell's Bravery"
+  ],
+  "bstandish-frank-merriwells-pursuit": [
+   22874,
+   "Frank Merriwell's Pursuit; Or, How to Win"
+  ],
+  "bstandish-owen-clancys-happy-trail": [
+   24102,
+   "Owen Clancy's Happy Trail; Or, The Motor Wizard in California"
+  ],
+  "bstandish-frank-merriwells-son": [
+   25316,
+   "Frank Merriwell's Son; Or, A Chip Off the Old Block",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-lefty-locke-pitcher-manager": [
+   34100,
+   "Lefty Locke, pitcher-manager",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-frank-merriwells-return-to-yale": [
+   35127,
+   "Frank Merriwell's Return to Yale"
+  ],
+  "bstandish-frank-merriwells-alarm": [
+   38429,
+   "Frank Merriwell's Alarm; Or, Doing His Best"
+  ],
+  "bstandish-frank-merriwells-new-comedian": [
+   38610,
+   "Frank Merriwell's New Comedian; Or, The Rise of a Star"
+  ],
+  "bstandish-frank-merriwells-backers": [
+   39433,
+   "Frank Merriwell's Backers; Or, The Pride of His Friends"
+  ],
+  "bstandish-frank-merriwells-triumph": [
+   40262,
+   "Frank Merriwell's Triumph; Or, The Disappearance of Felicia",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-dick-merriwell-abroad": [
+   41827,
+   "Dick Merriwell Abroad; Or, The Ban of the Terrible Ten",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-dick-merriwells-trap": [
+   41866,
+   "Dick Merriwell's Trap; Or, The Chap Who Bungled",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-dick-merriwells-pranks": [
+   41879,
+   "Dick Merriwell's Pranks; Or, Lively Times in the Orient",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-frank-merriwells-athletes": [
+   41996,
+   "Frank Merriwell's Athletes; Or, The Boys Who Won",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-frank-merriwells-champions": [
+   42049,
+   "Frank Merriwell's Champions; Or, All in the Game",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-owen-clancys-run-of-luck": [
+   55463,
+   "Owen Clancy's Run of Luck; or, The Motor Wizard in the Garage"
+  ],
+  "bstandish-frank-merriwells-endurance": [
+   56278,
+   "Frank Merriwell's Endurance; or, A Square Shooter"
+  ],
+  "bstandish-frank-merriwells-diamond-foes": [
+   60463,
+   "Frank Merriwell's Diamond Foes; Or, Straight Over the Plate"
+  ],
+  "bstandish-dick-merriwells-day": [
+   61174,
+   "Dick Merriwell's Day; Or, Iron Nerve"
+  ],
+  "bstandish-frank-merriwell-jr-in-arizona": [
+   61349,
+   "Frank Merriwell, Jr., in Arizona; or, Clearing a Rival's Record",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-frank-merriwell-in-maine": [
+   61535,
+   "Frank Merriwell in Maine; Or, The Lure of 'Way Down East"
+  ],
+  "bstandish-frank-merriwells-strong-arm": [
+   61558,
+   "Frank Merriwell's Strong Arm; Or, Saving an Enemy"
+  ],
+  "bstandish-dick-merriwells-assurance": [
+   61830,
+   "Dick Merriwell's Assurance; Or, In His Brother's Footsteps"
+  ],
+  "bstandish-frank-merriwells-false-friend": [
+   61853,
+   "Frank Merriwell's False Friend; Or, An Investment in Human Nature"
+  ],
+  "bstandish-frank-merriwells-marriage": [
+   62072,
+   "Frank Merriwell's Marriage; Or, Inza's Happiest Day"
+  ],
+  "bstandish-dick-merriwells-glory": [
+   62411,
+   "Dick Merriwell's Glory; Or, Friends and Foes"
+  ],
+  "bstandish-frank-merriwell-jr-s-helping-hand": [
+   62421,
+   "Frank Merriwell, Jr.'s, Helping Hand; Or, Fair Play and No Favors"
+  ],
+  "bstandish-frank-merriwells-trust": [
+   62639,
+   "Frank Merriwell's Trust; Or, Never Say Die"
+  ],
+  "bstandish-frank-merriwells-support": [
+   62719,
+   "Frank Merriwell's Support; Or, A Triple Play"
+  ],
+  "bstandish-frank-merriwells-setback": [
+   62829,
+   "Frank Merriwell's Setback; Or, True Pluck Welcomes Defeat"
+  ],
+  "bstandish-dick-merriwells-backers": [
+   62930,
+   "Dick Merriwell's Backers; Or, Well Worth Fighting For",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-dick-merriwells-fighting-chance": [
+   63024,
+   "Dick Merriwell's Fighting Chance; Or, The Split in the Varsity"
+  ],
+  "bstandish-frank-merriwells-chase": [
+   63483,
+   "Frank Merriwell's Chase; Or, Exciting Times Afloat"
+  ],
+  "bstandish-frank-merriwells-fun": [
+   63537,
+   "Frank Merriwell's Fun; Or, Fearless and True"
+  ],
+  "bstandish-dick-merriwells-heroic-players": [
+   63608,
+   "Dick Merriwell's Heroic Players; Or, How the Yale Nine Won the Championship"
+  ],
+  "bstandish-frank-merriwell-on-the-boulevards": [
+   63752,
+   "Frank Merriwell on the Boulevards; Or, Astonishing the Europeans"
+  ],
+  "bstandish-frank-merriwell-on-the-road": [
+   63815,
+   "Frank Merriwell on the Road; Or, The All-Star Combination"
+  ],
+  "bstandish-frank-merriwells-own-company": [
+   64123,
+   "Frank Merriwell's Own Company; Or, Barnstorming in the Middle West"
+  ],
+  "bstandish-frank-merriwells-prosperity": [
+   64347,
+   "Frank Merriwell's Prosperity; or, Toil Has Its Reward"
+  ],
+  "bstandish-dick-merriwells-a-ro-dash": [
+   64407,
+   "Dick Merriwell's Aëro Dash; Or, Winning Above the Clouds",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-frank-merriwells-first-job": [
+   64635,
+   "Frank Merriwell's First Job; Or, At the Foot of the Ladder",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-when-titans-drive": [
+   65760,
+   "When Titans Drive"
+  ],
+  "bstandish-shaming-the-speed-limit": [
+   65914,
+   "Shaming the Speed Limit"
+  ],
+  "bstandish-rockspur-eleven": [
+   67397,
+   "The Rockspur Eleven: A Fine Football Story for Boys"
+  ],
+  "bstandish-frank-merriwell-in-europe": [
+   67901,
+   "Frank Merriwell in Europe; or, Working His Way Upward"
+  ],
+  "bstandish-frank-merriwells-brother": [
+   71945,
+   "Frank Merriwell's brother",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-lefty-o-the-bush": [
+   72013,
+   "Lefty o' the bush",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-frank-merriwells-danger": [
+   73850,
+   "Frank Merriwell's danger"
+  ],
+  "bstandish-lefty-o-the-big-league": [
+   75250,
+   "Lefty o' the Big League",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-lefty-o-the-blue-stockings": [
+   76584,
+   "Lefty o' the Blue Stockings",
+   {
+    "contents_only": true
+   }
+  ],
+  "bstandish-lefty-o-the-training-camp": [
+   77754,
+   "Lefty o' the training camp"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "bstandish-frank-merriwells-nobility": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwell-at-yale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-reward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-chums": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwell-juniors-golden-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-races": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-cruise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwell-down-south": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-bravery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-pursuit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-owen-clancys-happy-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-son": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-lefty-locke-pitcher-manager": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-return-to-yale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-alarm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-new-comedian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-backers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-triumph": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-dick-merriwell-abroad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-dick-merriwells-trap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-dick-merriwells-pranks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-athletes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-champions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-owen-clancys-run-of-luck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-endurance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-diamond-foes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-dick-merriwells-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwell-jr-in-arizona": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwell-in-maine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-strong-arm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-dick-merriwells-assurance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-false-friend": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-marriage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-dick-merriwells-glory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwell-jr-s-helping-hand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-trust": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-support": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-setback": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-dick-merriwells-backers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-dick-merriwells-fighting-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-chase": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-fun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-dick-merriwells-heroic-players": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwell-on-the-boulevards": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwell-on-the-road": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-own-company": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-prosperity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-dick-merriwells-a-ro-dash": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-first-job": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-when-titans-drive": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-shaming-the-speed-limit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-rockspur-eleven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwell-in-europe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-brother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-lefty-o-the-bush": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-frank-merriwells-danger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-lefty-o-the-big-league": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-lefty-o-the-blue-stockings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bstandish-lefty-o-the-training-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burt l. standish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

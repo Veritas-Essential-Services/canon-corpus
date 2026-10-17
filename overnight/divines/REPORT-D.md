@@ -1209,3 +1209,6 @@
 
 ## 2026-10-17 18:32 CDT — joseph-hocking: done
 - joseph-hocking: new shelf, 12 Gutenberg books, 33,522 units, 57 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:41 CDT — burt-standish: done
+- burt-standish: new shelf, 59 Gutenberg books, 147,563 units, 340 ~2 ids; verify 0 mismatches, 0 rights flags.

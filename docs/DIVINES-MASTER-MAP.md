@@ -23642,6 +23642,72 @@ Shelf: `pipeline/joseph-hocking_shelf.json` (2026-10-17; added at the coordinato
 | The Passion for Life | have | PG 40102, `jhocking-passion-for-life` (2991 units) |
 | Mistress Nancy Molesworth: A Tale of Adventure | have | PG 54239, `jhocking-mistress-nancy-molesworth` (3493 units) |
 
+## Burt L. Standish
+
+Shelf: `pipeline/burt-standish_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Frank Merriwell and Lefty Locke sports stories for boys. Every English text under the name at Gutenberg that no other shelf holds (59 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Frank Merriwell's Nobility; Or, The Tragedy of the Ocean Tramp | have | PG 10904, `bstandish-frank-merriwells-nobility` (915 units) |
+| Frank Merriwell at Yale; Or, Freshman Against Freshman | have | PG 11115, `bstandish-frank-merriwell-at-yale` (3155 units) |
+| Frank Merriwell's Reward | have | PG 19402, `bstandish-frank-merriwells-reward` (2411 units) |
+| Frank Merriwell's Chums | have | PG 19502, `bstandish-frank-merriwells-chums` (3059 units) |
+| Frank Merriwell, Junior's, Golden Trail; Or, The Fugitive Professor | have | PG 19867, `bstandish-frank-merriwell-juniors-golden-trail` (645 units) |
+| Frank Merriwell's Races | have | PG 21958, `bstandish-frank-merriwells-races` (2918 units) |
+| Frank Merriwell's Cruise | have | PG 22265, `bstandish-frank-merriwells-cruise` (2807 units) |
+| Frank Merriwell Down South | have | PG 22424, `bstandish-frank-merriwell-down-south` (3876 units) |
+| Frank Merriwell's Bravery | have | PG 22571, `bstandish-frank-merriwells-bravery` (3822 units) |
+| Frank Merriwell's Pursuit; Or, How to Win | have | PG 22874, `bstandish-frank-merriwells-pursuit` (2675 units) |
+| Owen Clancy's Happy Trail; Or, The Motor Wizard in California | have | PG 24102, `bstandish-owen-clancys-happy-trail` (1093 units) |
+| Frank Merriwell's Son; Or, A Chip Off the Old Block | have | PG 25316, `bstandish-frank-merriwells-son` (2650 units) |
+| Lefty Locke, pitcher-manager | have | PG 34100, `bstandish-lefty-locke-pitcher-manager` (1468 units) |
+| Frank Merriwell's Return to Yale | have | PG 35127, `bstandish-frank-merriwells-return-to-yale` (3936 units) |
+| Frank Merriwell's Alarm; Or, Doing His Best | have | PG 38429, `bstandish-frank-merriwells-alarm` (2476 units) |
+| Frank Merriwell's New Comedian; Or, The Rise of a Star | have | PG 38610, `bstandish-frank-merriwells-new-comedian` (2489 units) |
+| Frank Merriwell's Backers; Or, The Pride of His Friends | have | PG 39433, `bstandish-frank-merriwells-backers` (2917 units) |
+| Frank Merriwell's Triumph; Or, The Disappearance of Felicia | have | PG 40262, `bstandish-frank-merriwells-triumph` (2990 units) |
+| Dick Merriwell Abroad; Or, The Ban of the Terrible Ten | have | PG 41827, `bstandish-dick-merriwell-abroad` (2682 units) |
+| Dick Merriwell's Trap; Or, The Chap Who Bungled | have | PG 41866, `bstandish-dick-merriwells-trap` (2750 units) |
+| Dick Merriwell's Pranks; Or, Lively Times in the Orient | have | PG 41879, `bstandish-dick-merriwells-pranks` (3282 units) |
+| Frank Merriwell's Athletes; Or, The Boys Who Won | have | PG 41996, `bstandish-frank-merriwells-athletes` (2982 units) |
+| Frank Merriwell's Champions; Or, All in the Game | have | PG 42049, `bstandish-frank-merriwells-champions` (2824 units) |
+| Owen Clancy's Run of Luck; or, The Motor Wizard in the Garage | have | PG 55463, `bstandish-owen-clancys-run-of-luck` (1155 units) |
+| Frank Merriwell's Endurance; or, A Square Shooter | have | PG 56278, `bstandish-frank-merriwells-endurance` (3534 units) |
+| Frank Merriwell's Diamond Foes; Or, Straight Over the Plate | have | PG 60463, `bstandish-frank-merriwells-diamond-foes` (2454 units) |
+| Dick Merriwell's Day; Or, Iron Nerve | have | PG 61174, `bstandish-dick-merriwells-day` (2540 units) |
+| Frank Merriwell, Jr., in Arizona; or, Clearing a Rival's Record | have | PG 61349, `bstandish-frank-merriwell-jr-in-arizona` (2770 units) |
+| Frank Merriwell in Maine; Or, The Lure of 'Way Down East | have | PG 61535, `bstandish-frank-merriwell-in-maine` (2105 units) |
+| Frank Merriwell's Strong Arm; Or, Saving an Enemy | have | PG 61558, `bstandish-frank-merriwells-strong-arm` (2708 units) |
+| Dick Merriwell's Assurance; Or, In His Brother's Footsteps | have | PG 61830, `bstandish-dick-merriwells-assurance` (3314 units) |
+| Frank Merriwell's False Friend; Or, An Investment in Human Nature | have | PG 61853, `bstandish-frank-merriwells-false-friend` (2770 units) |
+| Frank Merriwell's Marriage; Or, Inza's Happiest Day | have | PG 62072, `bstandish-frank-merriwells-marriage` (3481 units) |
+| Dick Merriwell's Glory; Or, Friends and Foes | have | PG 62411, `bstandish-dick-merriwells-glory` (2584 units) |
+| Frank Merriwell, Jr.'s, Helping Hand; Or, Fair Play and No Favors | have | PG 62421, `bstandish-frank-merriwell-jr-s-helping-hand` (2556 units) |
+| Frank Merriwell's Trust; Or, Never Say Die | have | PG 62639, `bstandish-frank-merriwells-trust` (2783 units) |
+| Frank Merriwell's Support; Or, A Triple Play | have | PG 62719, `bstandish-frank-merriwells-support` (3285 units) |
+| Frank Merriwell's Setback; Or, True Pluck Welcomes Defeat | have | PG 62829, `bstandish-frank-merriwells-setback` (2441 units) |
+| Dick Merriwell's Backers; Or, Well Worth Fighting For | have | PG 62930, `bstandish-dick-merriwells-backers` (2937 units) |
+| Dick Merriwell's Fighting Chance; Or, The Split in the Varsity | have | PG 63024, `bstandish-dick-merriwells-fighting-chance` (2437 units) |
+| Frank Merriwell's Chase; Or, Exciting Times Afloat | have | PG 63483, `bstandish-frank-merriwells-chase` (2272 units) |
+| Frank Merriwell's Fun; Or, Fearless and True | have | PG 63537, `bstandish-frank-merriwells-fun` (2290 units) |
+| Dick Merriwell's Heroic Players; Or, How the Yale Nine Won the Championship | have | PG 63608, `bstandish-dick-merriwells-heroic-players` (1748 units) |
+| Frank Merriwell on the Boulevards; Or, Astonishing the Europeans | have | PG 63752, `bstandish-frank-merriwell-on-the-boulevards` (2717 units) |
+| Frank Merriwell on the Road; Or, The All-Star Combination | have | PG 63815, `bstandish-frank-merriwell-on-the-road` (2930 units) |
+| Frank Merriwell's Own Company; Or, Barnstorming in the Middle West | have | PG 64123, `bstandish-frank-merriwells-own-company` (2475 units) |
+| Frank Merriwell's Prosperity; or, Toil Has Its Reward | have | PG 64347, `bstandish-frank-merriwells-prosperity` (2927 units) |
+| Dick Merriwell's Aëro Dash; Or, Winning Above the Clouds | have | PG 64407, `bstandish-dick-merriwells-a-ro-dash` (3116 units) |
+| Frank Merriwell's First Job; Or, At the Foot of the Ladder | have | PG 64635, `bstandish-frank-merriwells-first-job` (2462 units) |
+| When Titans Drive | have | PG 65760, `bstandish-when-titans-drive` (554 units) |
+| Shaming the Speed Limit | have | PG 65914, `bstandish-shaming-the-speed-limit` (275 units) |
+| The Rockspur Eleven: A Fine Football Story for Boys | have | PG 67397, `bstandish-rockspur-eleven` (1955 units) |
+| Frank Merriwell in Europe; or, Working His Way Upward | have | PG 67901, `bstandish-frank-merriwell-in-europe` (3190 units) |
+| Frank Merriwell's brother | have | PG 71945, `bstandish-frank-merriwells-brother` (2918 units) |
+| Lefty o' the bush | have | PG 72013, `bstandish-lefty-o-the-bush` (1641 units) |
+| Frank Merriwell's danger | have | PG 73850, `bstandish-frank-merriwells-danger` (3080 units) |
+| Lefty o' the Big League | have | PG 75250, `bstandish-lefty-o-the-big-league` (1442 units) |
+| Lefty o' the Blue Stockings | have | PG 76584, `bstandish-lefty-o-the-blue-stockings` (1584 units) |
+| Lefty o' the training camp | have | PG 77754, `bstandish-lefty-o-the-training-camp` (1311 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
