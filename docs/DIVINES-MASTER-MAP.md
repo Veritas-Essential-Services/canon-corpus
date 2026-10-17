@@ -17100,13 +17100,24 @@ Shelf: `pipeline/canton_shelf.json` (2026-10-02; added at the coordinator's rela
 
 ## Abbie Farwell Brown
 
-Shelf: `pipeline/abbie-brown_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Saints' legends and their animals, Norse myths and bird legends, retold for children; cut by legend or tale. Not in the manifest; no uids minted.
+Shelf: `pipeline/abbie-brown_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Legends, saints' tales and stories for children. All 14 of Abbie Farwell Brown's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Book of Saints and Friendly Beasts | have | PG 28990, `abbie-brown-book-of-saints-and-friendly-beasts` (656 units) |
 | In the Days of Giants: A Book of Norse Tales | have | PG 44622, `abbie-brown-in-the-days-of-giants` (760 units) |
 | The Curious Book of Birds | have | PG 16140, `abbie-brown-curious-book-of-birds` (728 units) |
+| John of the Woods | have | PG 13905, `abbie-john-of-the-woods` (762 units) |
+| The Christmas Angel | have | PG 15709, `abbie-christmas-angel` (427 units) |
+| The Flower Princess | have | PG 32226, `abbie-flower-princess` (381 units) |
+| Kisington Town | have | PG 41729, `abbie-kisington-town` (980 units) |
+| Surprise house | have | PG 69521, `abbie-surprise-house` (559 units) |
+| What luck! A study in opposites | have | PG 69532, `abbie-what-luck-a-study-in-opposites` (89 units) |
+| Friends and cousins | have | PG 69570, `abbie-friends-and-cousins` (602 units) |
+| Brothers and sisters | have | PG 69760, `abbie-brothers-and-sisters` (564 units) |
+| Round Robin | have | PG 74791, `abbie-round-robin` (1279 units) |
+| The star jewels, and other wonders | have | PG 75499, `abbie-star-jewels-and-other-wonders` (424 units) |
+| Heart of New England | have | PG 76783, `abbie-heart-of-new-england` (349 units) |
 
 ## Amy Steedman
 
