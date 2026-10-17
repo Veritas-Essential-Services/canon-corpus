@@ -22661,6 +22661,35 @@ Shelf: `pipeline/carolyn-wells_shelf.json` (2026-10-17; added at the coordinator
 | The matrimonial bureau (with Harry Persons Taber) | have | PG 79028, `cwells-matrimonial-bureau` (1642 units) |
 | The story of Betty | have | PG 79176, `cwells-story-of-betty` (1417 units) |
 
+## Pansy (Isabella Alden)
+
+Shelf: `pipeline/pansy_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Sunday-school stories. Every English text under the name at Gutenberg that no other shelf holds (22 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Ester Ried Yet Speaking | have | PG 9091, `pansy-ester-ried-yet-speaking` (1508 units) |
+| Tip Lewis and His Lamp | have | PG 9648, `pansy-tip-lewis-and-his-lamp` (1359 units) |
+| Four Girls at Chautauqua | have | PG 12662, `pansy-four-girls-at-chautauqua` (1542 units) |
+| Ester Ried | have | PG 13234, `pansy-ester-ried` (1414 units) |
+| Divers Women (with Mrs. C. M. Livingston) | have | PG 17785, `pansy-divers-women` (704 units) |
+| Sunshine Factory | have | PG 20436, `pansy-sunshine-factory` (125 units) |
+| Three People | have | PG 20808, `pansy-three-people` (2098 units) |
+| The Chautauqua Girls At Home | have | PG 26742, `pansy-chautauqua-girls-at-home` (1779 units) |
+| Ruth Erskine's Son | have | PG 43785, `pansy-ruth-erskines-son` (1480 units) |
+| Little Fishers: and Their Nets | have | PG 45536, `pansy-little-fishers` (1542 units) |
+| Interrupted | have | PG 45537, `pansy-interrupted` (1446 units) |
+| Ruth Erskine's Crosses | have | PG 54078, `pansy-ruth-erskines-crosses` (1147 units) |
+| The fortunate calamity | have | PG 70225, `pansy-fortunate-calamity` (645 units) |
+| Railroad building, and other stories | have | PG 71478, `pansy-railroad-building-and-other-stories` (275 units) |
+| A new graft on the family tree | have | PG 71567, `pansy-a-new-graft-on-the-family-tree` (1433 units) |
+| Danger Cliff, and other stories | have | PG 71598, `pansy-danger-cliff-and-other-stories` (433 units) |
+| Profiles (with Mrs. C. M. Livingston) | have | PG 74998, `pansy-profiles` (1302 units) |
+| An interrupted night (ed. Grace Livingston Hill) | have | PG 75076, `pansy-an-interrupted-night` (943 units) |
+| Following heavenward | have | PG 75657, `pansy-following-heavenward` (1734 units) |
+| Monteagle | have | PG 75784, `pansy-monteagle` (497 units) |
+| Lost Nellie | have | PG 77247, `pansy-lost-nellie` (89 units) |
+| Christie's Christmas | have | PG 79517, `pansy-christies-christmas` (1730 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
