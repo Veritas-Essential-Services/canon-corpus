@@ -3558,6 +3558,10 @@ Shelf: `pipeline/hume_shelf.json`. David Hume (1711-1776): The Philosophical Wor
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Philosophical Works of David Hume, vol. I (Edinburgh, 1826) |  | `hume-works-1826-v1` | have (PG 53791) |
+| The Philosophical Works of David Hume, vol. II (Edinburgh, 1826) |  | `hume-works-1826-v2` | have (PG 53792) |
+| The Philosophical Works of David Hume, vol. III: Essays moral, political and literary (Edinburgh, 1826) |  | `hume-works-1826-v3` | have-raw (IA `philosophicalwor03hume`) |
+| The Philosophical Works of David Hume, vol. IV (Edinburgh, 1826) |  | `hume-works-1826-v4` | have-raw (IA `philosophicalwo25humegoog`) |
 
 ## Berkeley
 
