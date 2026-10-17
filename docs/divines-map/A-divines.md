@@ -5390,3 +5390,18 @@ Slugs `liguori-*`. The Centenary Edition names Grimm as editor, not a translator
 | CCEL alphonsus/uniformity (Tobin, from the 1933 Rome edition) and alphonsus/volonta (Italian) | excluded | |
 | The 1926-1931 Redemptorist printings (Preparation for Death, True Spouse X-XI, Glories) | excluded | |
 | Lives of Liguori; Gilbert's Love of Jesus (1871) | excluded | |
+
+## Augustine Baker (round 25, my pick, 2026-10-17)
+
+Slugs `baker-*`. Written in English: Cressy digested Holy Wisdom, Sweeney edited it, McCann edited the Confessions.
+
+| Work | Status | Where |
+|---|---|---|
+| Holy Wisdom, or Directions for the Prayer of Contemplation, digested by Serenus Cressy, ed. Abbot Sweeney (London: Burns & Oates, 1911) | have-ocr | IA `holywisdom00bakeuoft` |
+| Sancta Sophia, or Directions for the Prayer of Contemplation, digested by Serenus Cressy (Doway: John Patte and Thomas Fievet, M.DC.LVII) | have-ocr | IA `bim_early-english-books-1641-1700_sancta-sophia-or-direct_baker-augustine_1657` |
+| The Confessions of Venerable Father Augustine Baker, ed. Justin McCann (London: Washbourne, 1922) | have-ocr | IA `confessionsaugus00bakeuoft` |
+| Another 1911 copy and an undated Burns and Oates, Ltd. copy | alternate | not shelved |
+| The Holy Practises of a Devine Lover (Paris, 1657): its title page names no author | alternate | not shelved |
+| The Inner Life of Dame Gertrude More (Washbourne, about 1910): the title page does not name Baker | alternate | not shelved |
+| CCEL baker/holy_wisdom (undated Burns Oates & Washbourne) and baker/more (1937) | excluded | |
+| Sweeney's Life (1861) and Weld-Blundell's arrangement (1907) | excluded | |

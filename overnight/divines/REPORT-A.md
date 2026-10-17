@@ -1153,3 +1153,6 @@
 
 ## 2026-10-17 18:11 CDT — alphonsus-liguori done
 - `pipeline/alphonsus-liguori_shelf.json`: 0 CCEL, 1 PG, 21 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — augustine-baker done
+- `pipeline/augustine-baker_shelf.json`: 0 CCEL, 0 PG, 3 IA. Title pages read for baker-sancta-sophia-1657 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
