@@ -5671,3 +5671,31 @@ Slugs `doellinger-*`. Translators: Cox, Darnell, Oxenham, MacCabe, Plummer, Warr
 | Other copies of the History, Gentile and Jew (1906), First Age (1866 vol. I, 1877, 1906), the Dodd & Mead Fables and Prophetic Spirit (1872), the New York Reunion (1872) | alternate | not shelved |
 | Kobell's Conversations (1892); Hergenröther's Anti-Janus | excluded | |
 | German editions; 1973 reprints | excluded | |
+
+## Alban Butler (round 26, my pick, 2026-10-17)
+
+Slugs `butler-*`. Written in English. The Lives are the Derby edition (1842-1846) for eleven volumes and the Dublin second edition (1780) for vol. 8, because the Derby vol. 8 scan has no text. The 1756-1759 first edition does not name him.
+
+| Work | Status | Where |
+|---|---|---|
+| The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 1, January (Derby: Richardson and Son for the Catholic Book Society; 1842) | have-ocr | IA `livesoffathersma01butl` |
+| The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 2, February (Derby: Richardson and Son for the Catholic Book Society; 1842) | have-ocr | IA `livesoffathersma02butl_0` |
+| The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 3, March (Derby: Richardson and Son for the Catholic Book Society; catalogued 1842-1846) | have-ocr | IA `livesoffathersma03butl` |
+| The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 4, April (Derby: Richardson and Son for the Catholic Book Society; 1843) | have-ocr | IA `livesoffathersma04butl_0` |
+| The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 5, May (Derby: Richardson and Son for the Catholic Book Society; 1843) | have-ocr | IA `livesoffathersma05butl` |
+| The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 6, June (Derby: Richardson and Son for the Catholic Book Society; 1844) | have-ocr | IA `livesoffathersma06butl` |
+| The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 7, July (Derby: Richardson and Son for the Catholic Book Society; catalogued 1842-1846) | have-ocr | IA `livesoffathersma07butl` |
+| The Lives of the Fathers, Martyrs, and other Principal Saints, second edition, vol. 8, August (Dublin: for John Morris; catalogued 1780): the Derby vol. 8 scan has no text, so this volume comes from the Dublin edition | have-ocr | IA `bim_eighteenth-century_the-lives-of-the-father-_butler-alban_1780_8` |
+| The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 9, September (Derby: Richardson and Son for the Catholic Book Society; 1846) | have-ocr | IA `livesoffathersma09butl` |
+| The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 10, October (Derby: Richardson and Son for the Catholic Book Society; 1846) | have-ocr | IA `livesoffathersma10butl` |
+| The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 11, November (Derby: Richardson and Son for the Catholic Book Society; catalogued 1842-1846) | have-ocr | IA `livesoffathersma11butl` |
+| The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 12, December (Derby: Richardson and Son for the Catholic Book Society; catalogued 1842-1846) | have-ocr | IA `livesoffathersma12butl` |
+| The Moveable Feasts, Fasts and other Annual Observances of the Catholic Church, a posthumous work (London: C. Kiernan, MDCCLXXIV) | have-ocr | IA `a549082100butluoft` |
+| Meditations and Discourses on the Sublime Truths and Important Duties of Christianity, revised by John Lanigan (Dublin: James Duffy, 1840) | have-ocr | IA `meditationstruth00butluoft` |
+| The first edition (London, 1756-1759, 4 vols): its title pages name no author | alternate | not shelved |
+| The London John Murphy stereotype set (about 1812-1815; better OCR, but the author's name is not legible on its engraved title pages), Edinburgh 1798-1800, Derby 1842-1846 (vol. 8 has no text), and partial Dublin, New York and Baltimore sets | alternate | not shelved |
+| Dublin 1775 and 1839 | alternate | not shelved |
+| The complete twelve-volume Dublin second edition (1779-1780), the first to name him: long-s OCR, and four volumes' title pages are not legible; its vol. 8 is on the shelf | alternate | not shelved |
+| The Life of Sir Tobie Matthews (London: J. P. Coghlan, 1795): his name is not legible in the OCR | alternate | not shelved |
+| Abridgements and revisions by others (1877-1926) | excluded | |
+| French, German and Spanish translations | excluded | |

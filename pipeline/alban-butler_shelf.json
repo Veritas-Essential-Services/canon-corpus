@@ -1,0 +1,264 @@
+{
+ "_about": "Public-domain Alban Butler (1710-1773, English Catholic priest and hagiographer) for the Word Hoard: The Lives of the Fathers, Martyrs, and other Principal Saints in twelve volumes, eleven from the Derby edition for the Catholic Book Society (1842-1846) and vol. 8 from the Dublin second edition (1780), with The Moveable Feasts (1774) and the Meditations and Discourses (1840), from Internet Archive scans. Written in English. Added 2026-10-17 by lane A, round 26 (my pick); Adam may veto the whole shelf. Every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "butler"
+ ],
+ "_surname": [
+  "alban butler",
+  "rev. alban butler",
+  "mr. alban butler"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "butler-lives-saints-1": [
+   "livesoffathersma01butl",
+   "The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 1, January (Derby: Richardson and Son for the Catholic Book Society; 1842)"
+  ],
+  "butler-lives-saints-2": [
+   "livesoffathersma02butl_0",
+   "The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 2, February (Derby: Richardson and Son for the Catholic Book Society; 1842)"
+  ],
+  "butler-lives-saints-3": [
+   "livesoffathersma03butl",
+   "The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 3, March (Derby: Richardson and Son for the Catholic Book Society; catalogued 1842-1846)"
+  ],
+  "butler-lives-saints-4": [
+   "livesoffathersma04butl_0",
+   "The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 4, April (Derby: Richardson and Son for the Catholic Book Society; 1843)"
+  ],
+  "butler-lives-saints-5": [
+   "livesoffathersma05butl",
+   "The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 5, May (Derby: Richardson and Son for the Catholic Book Society; 1843)"
+  ],
+  "butler-lives-saints-6": [
+   "livesoffathersma06butl",
+   "The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 6, June (Derby: Richardson and Son for the Catholic Book Society; 1844)"
+  ],
+  "butler-lives-saints-7": [
+   "livesoffathersma07butl",
+   "The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 7, July (Derby: Richardson and Son for the Catholic Book Society; catalogued 1842-1846)"
+  ],
+  "butler-lives-saints-8": [
+   "bim_eighteenth-century_the-lives-of-the-father-_butler-alban_1780_8",
+   "The Lives of the Fathers, Martyrs, and other Principal Saints, second edition, vol. 8, August (Dublin: for John Morris; catalogued 1780): the Derby vol. 8 scan has no text, so this volume comes from the Dublin edition"
+  ],
+  "butler-lives-saints-9": [
+   "livesoffathersma09butl",
+   "The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 9, September (Derby: Richardson and Son for the Catholic Book Society; 1846)"
+  ],
+  "butler-lives-saints-10": [
+   "livesoffathersma10butl",
+   "The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 10, October (Derby: Richardson and Son for the Catholic Book Society; 1846)"
+  ],
+  "butler-lives-saints-11": [
+   "livesoffathersma11butl",
+   "The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 11, November (Derby: Richardson and Son for the Catholic Book Society; catalogued 1842-1846)"
+  ],
+  "butler-lives-saints-12": [
+   "livesoffathersma12butl",
+   "The Lives of the Fathers, Martyrs, and other Principal Saints, vol. 12, December (Derby: Richardson and Son for the Catholic Book Society; catalogued 1842-1846)"
+  ],
+  "butler-moveable-feasts-1774": [
+   "a549082100butluoft",
+   "The Moveable Feasts, Fasts and other Annual Observances of the Catholic Church, a posthumous work (London: C. Kiernan, MDCCLXXIV)"
+  ],
+  "butler-meditations-discourses": [
+   "meditationstruth00butluoft",
+   "Meditations and Discourses on the Sublime Truths and Important Duties of Christianity, revised by John Lanigan (Dublin: James Duffy, 1840)"
+  ]
+ },
+ "_alternates": {
+  "butler-lives-first-edition": "The first edition (London, 1756-1759, 4 vols): its title pages name no author",
+  "butler-lives-other-sets": "The London John Murphy stereotype set (about 1812-1815; better OCR, but the author's name is not legible on its engraved title pages), Edinburgh 1798-1800, Derby 1842-1846 (vol. 8 has no text), and partial Dublin, New York and Baltimore sets",
+  "butler-moveable-copies": "Dublin 1775 and 1839",
+  "butler-lives-dublin-1779": "The complete twelve-volume Dublin second edition (1779-1780), the first to name him: long-s OCR, and four volumes' title pages are not legible; its vol. 8 is on the shelf",
+  "butler-life-tobie-matthews": "The Life of Sir Tobie Matthews (London: J. P. Coghlan, 1795): his name is not legible in the OCR"
+ },
+ "_excluded": {
+  "butler-abridgments": "Abridgements and revisions by others (1877-1926)",
+  "butler-other-languages": "French, German and Spanish translations"
+ },
+ "_identity_checked": {
+  "butler-lives-saints-3": {
+   "author": "title page read: 'BY THE REV. ALBAN BUTMR' (OCR garble of Butler), March, vol. III, Derby, Richardson and Son"
+  },
+  "butler-lives-saints-4": {
+   "author": "title page read: 'BY THE REV. ALBAN BUTLEE' (OCR garble of Butler), April, vol. IV, Derby, Richardson and Son, 1843"
+  },
+  "butler-lives-saints-5": {
+   "author": "title page read: 'BY THE REV. ALB AN BUTLER' (OCR splits the name), May, vol. V, Derby, Richardson and Son, 1843"
+  }
+ },
+ "_rights_checked": {
+  "butler-lives-saints-3": "title page read: 'By the Rev. Alban Butler', Derby, Thomas Richardson and Son, for the Catholic Book Society; year not read in this volume; the set runs 1842-1846",
+  "butler-lives-saints-7": "title page read: 'By the Rev. Alban Butler', Derby, Thomas Richardson and Son, for the Catholic Book Society; year not read in this volume; the set runs 1842-1846",
+  "butler-lives-saints-8": "catalogued 1780 with the Dublin second edition; volumes VI, XI and XII of that edition read 'Printed by John Exshaw, for John Morris, M.DCC.LXXX'",
+  "butler-lives-saints-11": "title page read: 'By the Rev. Alban Butler', Derby, Thomas Richardson and Son, for the Catholic Book Society; year not read in this volume; the set runs 1842-1846",
+  "butler-lives-saints-12": "title page read: 'By the Rev. Alban Butler', Derby, Thomas Richardson and Son, for the Catholic Book Society; year not read in this volume; the set runs 1842-1846"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "butler-lives-saints-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alban butler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "butler-lives-saints-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alban butler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "butler-lives-saints-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'By the Rev. Alban Butler', Derby, Thomas Richardson and Son, for the Catholic Book Society; year not read in this volume; the set runs 1842-1846"
+  },
+  "butler-lives-saints-4": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "butler-lives-saints-5": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "butler-lives-saints-6": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alban butler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "butler-lives-saints-7": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alban butler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'By the Rev. Alban Butler', Derby, Thomas Richardson and Son, for the Catholic Book Society; year not read in this volume; the set runs 1842-1846"
+  },
+  "butler-lives-saints-8": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alban butler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1780",
+   "ia_date": "1780",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "catalogued 1780 with the Dublin second edition; volumes VI, XI and XII of that edition read 'Printed by John Exshaw, for John Morris, M.DCC.LXXX'"
+  },
+  "butler-lives-saints-9": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alban butler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "butler-lives-saints-10": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alban butler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "butler-lives-saints-11": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alban butler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'By the Rev. Alban Butler', Derby, Thomas Richardson and Son, for the Catholic Book Society; year not read in this volume; the set runs 1842-1846"
+  },
+  "butler-lives-saints-12": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alban butler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'By the Rev. Alban Butler', Derby, Thomas Richardson and Son, for the Catholic Book Society; year not read in this volume; the set runs 1842-1846"
+  },
+  "butler-moveable-feasts-1774": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alban butler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1774",
+   "ia_date": "1774",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "butler-meditations-discourses": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alban butler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

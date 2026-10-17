@@ -1201,3 +1201,6 @@
 
 ## 2026-10-17 18:45 CDT — ignaz-von-doellinger done
 - `pipeline/ignaz-von-doellinger_shelf.json`: 0 CCEL, 0 PG, 15 IA. Title pages read for doellinger-history-church-2, doellinger-history-church-3, doellinger-history-church-4, doellinger-gentile-and-jew-2 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:45 CDT — alban-butler done
+- `pipeline/alban-butler_shelf.json`: 0 CCEL, 0 PG, 14 IA. Title pages read for butler-lives-saints-3, butler-lives-saints-4, butler-lives-saints-5 (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

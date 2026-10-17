@@ -3181,10 +3181,12 @@
     },
     {
       "id": "alban-butler",
-      "status": "queued",
+      "status": "done",
       "scope": "round 26: Catholic preachers, Counter-Reformation and nineteenth-century Catholic writers, Savonarola and the Victorines in English printed before 1930; translator recorded",
       "added": "2026-10-17T23:15Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-17T18:45:04-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "richard-challoner",
