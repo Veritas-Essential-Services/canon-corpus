@@ -1,5 +1,5 @@
 {
- "_about": "Dinah Maria Mulock Craik's (1826-1887) books for children: The Little Lame Prince and His Travelling-Cloak, The Adventures of a Brownie, and The Fairy Book, her retellings of the best-known popular tales. Clean Gutenberg text; public domain. Her novels are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Dinah Maria Mulock Craik's (1826-1887) books for children: The Little Lame Prince and His Travelling-Cloak, The Adventures of a Brownie, and The Fairy Book, her retellings of the best-known popular tales. Clean Gutenberg text; public domain. Her novels are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by Dinah Maria Mulock Craik at Gutenberg was added (12 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (0) and shared or misattributed files are listed in _excluded.",
  "_author": "Dinah Maria Mulock Craik",
  "_name_words": [
   "lame",
@@ -24,17 +24,96 @@
   "craik-fairy-book": [
    19734,
    "The Fairy Book: The Best Popular Stories Selected and Rendered Anew"
+  ],
+  "craik-john-halifax-gentleman": [
+   2351,
+   "John Halifax, Gentleman"
+  ],
+  "craik-mistress-and-maid": [
+   13461,
+   "Mistress and Maid: A Household Story"
+  ],
+  "craik-a-noble-life": [
+   14373,
+   "A Noble Life",
+   {
+    "levels": [
+     {
+      "re": "Chapter [0-9]+\\.?$"
+     }
+    ],
+    "start": "Chapter 1\\.?$",
+    "front": true
+   }
+  ],
+  "craik-christians-mistake": [
+   14687,
+   "Christian's Mistake",
+   {
+    "levels": [
+     {
+      "re": "Chapter [0-9]+\\.?$"
+     }
+    ],
+    "start": "Chapter 1\\.?$",
+    "front": true
+   }
+  ],
+  "craik-laurel-bush": [
+   14708,
+   "The Laurel Bush: An Old-Fashioned Love Story",
+   {
+    "levels": [
+     {
+      "re": "Chapter [0-9]+\\.?$"
+     }
+    ],
+    "start": "Chapter 1\\.?$",
+    "front": true
+   }
+  ],
+  "craik-agathas-husband": [
+   21767,
+   "Agatha's Husband: A Novel"
+  ],
+  "craik-olive": [
+   22121,
+   "Olive: A Novel"
+  ],
+  "craik-an-unsentimental-journey-through-cornwall": [
+   44557,
+   "An Unsentimental Journey through Cornwall",
+   {
+    "contents_only": true
+   }
+  ],
+  "craik-a-life-for-a-life-volume-1-of-3": [
+   47997,
+   "A Life for a Life, Volume 1 (of 3)"
+  ],
+  "craik-a-life-for-a-life-volume-2-of-3": [
+   48482,
+   "A Life for a Life, Volume 2 (of 3)"
+  ],
+  "craik-a-life-for-a-life-volume-3-of-3": [
+   48483,
+   "A Life for a Life, Volume 3 (of 3)"
+  ],
+  "craik-little-sunshines-holiday": [
+   71576,
+   "Little Sunshine's holiday"
   ]
  },
  "internet_archive": {},
  "_excluded": {
   "craik-duplicates": "The Little Lame Prince (PG 23977, 45975): other printings; the Margaret Waters rewriting (24053): an adaptation",
-  "craik-novels": "John Halifax, Gentleman and her other novels: not children's books"
+  "craik-novels": "John Halifax, Gentleman and her other novels: not children's books",
+  "craik-stories-of-romance": "PG 61422, Stories of Romance, is Rossiter Johnson's many-author anthology"
  },
  "_checks": {
   "craik-little-lame-prince": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "dinah maria mulock craik",
    "title_weak": true,
@@ -44,7 +123,7 @@
   },
   "craik-adventures-of-a-brownie": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "dinah maria mulock craik",
    "identity": "ok",
@@ -53,7 +132,115 @@
   },
   "craik-fairy-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dinah maria mulock craik",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "craik-john-halifax-gentleman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dinah maria mulock craik",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "craik-mistress-and-maid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dinah maria mulock craik",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "craik-a-noble-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dinah maria mulock craik",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "craik-christians-mistake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dinah maria mulock craik",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "craik-laurel-bush": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dinah maria mulock craik",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "craik-agathas-husband": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dinah maria mulock craik",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "craik-olive": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dinah maria mulock craik",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "craik-an-unsentimental-journey-through-cornwall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dinah maria mulock craik",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "craik-a-life-for-a-life-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dinah maria mulock craik",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "craik-a-life-for-a-life-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dinah maria mulock craik",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "craik-a-life-for-a-life-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dinah maria mulock craik",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "craik-little-sunshines-holiday": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "dinah maria mulock craik",
    "identity": "ok",

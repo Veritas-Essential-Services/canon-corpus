@@ -1098,3 +1098,6 @@
 
 ## 2026-10-17 17:52 CDT — edgeworth: done
 - edgeworth: completed, 19 more Gutenberg books (20 on the shelf), 38,155 units, 5012 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:53 CDT — craik: done
+- craik: completed, 12 more Gutenberg books (15 on the shelf), 26,576 units, 19 ~2 ids; verify 0 mismatches, 0 rights flags.

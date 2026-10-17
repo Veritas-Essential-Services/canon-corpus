@@ -135,7 +135,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `busk` | 1 Gutenberg | 0 | 1,411 | Patrañas (1870). |
 | `webster-basque` | 1 Gutenberg | 0 | 2,404 | Basque Legends (2nd ed. 1879). |
 | `milne` | 5 Gutenberg | 0 | 4,958 | Winnie-the-Pooh, The House at Pooh Corner, When We Were Very Young, Now We Are Six, Once on a Time. **Your call:** US public domain, but in copyright in the UK and EU until 2027; keep, or hold until 2027? |
-| `craik` | 3 Gutenberg | 0 | 3,272 | The Little Lame Prince, The Adventures of a Brownie, The Fairy Book. |
+| `craik` | 15 Gutenberg | 0 | 26,576 | Fairy tales, children's books and novels. Completed 2026-10-17: 12 more books added, every English text by Dinah Maria Mulock Craik at Gutenberg that no other shelf holds. |
 | `ingelow` | 2 Gutenberg | 0 | 1,639 | Mopsa the Fairy, Wonder-Box Tales. |
 | `stockton` | 38 Gutenberg | 0 | 41,634 | Fairy tales, humorous stories and novels. Completed 2026-10-17: 35 more books added, every English text by Frank R. Stockton at Gutenberg that no other shelf holds. |
 | `burgess` | 40 Gutenberg | 0 | 16,563 | Animal stories for young children. Completed 2026-10-17: 14 more books added, every English text by Thornton W. Burgess at Gutenberg that no other shelf holds. |

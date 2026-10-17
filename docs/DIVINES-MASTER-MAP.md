@@ -17461,15 +17461,28 @@ Shelf: `pipeline/milne_shelf.json` (2026-10-02; added at the coordinator's relay
 
 ## Dinah Maria Mulock Craik
 
-Shelf: `pipeline/craik_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her children's books, cut by chapter or story. Not in the manifest; no uids minted.
+Shelf: `pipeline/craik_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Fairy tales, children's books and novels. All 15 of Dinah Maria Mulock Craik's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Little Lame Prince and His Travelling-Cloak | have | PG 496, `craik-little-lame-prince` (810 units) |
 | The Adventures of a Brownie, as Told to My Child | have | PG 30494, `craik-adventures-of-a-brownie` (634 units) |
 | The Fairy Book: The Best Popular Stories Selected and Rendered Anew | have | PG 19734, `craik-fairy-book` (1828 units) |
+| John Halifax, Gentleman | have | PG 2351, `craik-john-halifax-gentleman` (5485 units) |
+| Mistress and Maid: A Household Story | have | PG 13461, `craik-mistress-and-maid` (2236 units) |
+| A Noble Life | have | PG 14373, `craik-a-noble-life` (1307 units) |
+| Christian's Mistake | have | PG 14687, `craik-christians-mistake` (1415 units) |
+| The Laurel Bush: An Old-Fashioned Love Story | have | PG 14708, `craik-laurel-bush` (620 units) |
+| Agatha's Husband: A Novel | have | PG 21767, `craik-agathas-husband` (3798 units) |
+| Olive: A Novel | have | PG 22121, `craik-olive` (3094 units) |
+| An Unsentimental Journey through Cornwall | have | PG 44557, `craik-an-unsentimental-journey-through-cornwall` (714 units) |
+| A Life for a Life, Volume 1 (of 3) | have | PG 47997, `craik-a-life-for-a-life-volume-1-of-3` (1290 units) |
+| A Life for a Life, Volume 2 (of 3) | have | PG 48482, `craik-a-life-for-a-life-volume-2-of-3` (1244 units) |
+| A Life for a Life, Volume 3 (of 3) | have | PG 48483, `craik-a-life-for-a-life-volume-3-of-3` (1325 units) |
+| Little Sunshine's holiday | have | PG 71576, `craik-little-sunshines-holiday` (776 units) |
 | craik-duplicates | excluded | The Little Lame Prince (PG 23977, 45975): other printings; the Margaret Waters rewriting (24053): an adaptation |
 | craik-novels | excluded | John Halifax, Gentleman and her other novels: not children's books |
+| craik-stories-of-romance | excluded | PG 61422, Stories of Romance, is Rossiter Johnson's many-author anthology |
 
 ## Jean Ingelow
 
