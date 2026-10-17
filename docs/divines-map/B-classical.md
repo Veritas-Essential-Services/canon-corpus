@@ -3520,6 +3520,9 @@ Shelf: `pipeline/hegel-translations_shelf.json`. G. W. F. Hegel (1770-1831) in E
 | Lectures on the Philosophy of History, translated from the third German edition (Bohn; London: George Bell, 1881) | J. Sibree | `hegel-sibree-philosophy-of-history-1881` | have-raw (IA `lecturesonphilos00hege`) |
 | The Phenomenology of Mind, translated with an introduction and notes, vol. I (Library of Philosophy; London: Swan Sonnenschein, 1910) | J. B. Baillie | `hegel-baillie-phenomenology-1910-v1` | have-raw (IA `cu31924097557171`) |
 | The Phenomenology of Mind, vol. II (Library of Philosophy; London: Swan Sonnenschein, 1910) | J. B. Baillie | `hegel-baillie-phenomenology-1910-v2` | have-raw (IA `cu31924091023832`) |
+| Lectures on the Philosophy of Religion, together with a work on the Proofs of the Existence of God, translated from the second German edition, vol. I (London: Kegan Paul, 1895) | E. B. Speirs and J. Burdon Sanderson | `hegel-speirs-philosophy-of-religion-1895-v1` | have-raw (IA `philosophyofreli01hegeuoft`) |
+| Lectures on the Philosophy of Religion, vol. II (London: Kegan Paul, 1895) | E. B. Speirs and J. Burdon Sanderson | `hegel-speirs-philosophy-of-religion-1895-v2` | have-raw (IA `lecturesonthephi02hegeuoft`) |
+| Lectures on the Philosophy of Religion, vol. III, with the Lectures on the Proofs of the Existence of God (London: Kegan Paul, 1895) | E. B. Speirs and J. Burdon Sanderson | `hegel-speirs-philosophy-of-religion-1895-v3` | have-raw (IA `lecturesreligion03hegeuoft`) |
 
 ## Schopenhauer in English
 
