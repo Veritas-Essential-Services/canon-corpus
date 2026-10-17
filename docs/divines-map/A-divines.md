@@ -5049,3 +5049,27 @@ Slugs `john-cross-*`. Translators: David Lewis (1864; revised by Zimmerman 1906-
 | CCEL john_cross/ascent and dark_night: Peers's translation (1950s) | excluded | |
 | Lives by Lewis (1897) and Heriz (1919) | excluded | |
 | printings of 1934 and later; French editions | excluded | |
+
+## Francis de Sales (round 24, my pick, 2026-10-17)
+
+Slugs `desales-*`. Translators: Mackey, Lear, Miles Car (1630); several title pages name none. His Maxims and Counsels is already on the ella-mcmahon translator shelf.
+
+| Work | Status | Where |
+|---|---|---|
+| Introduction to the Devout Life, a new translation, Library of Spiritual Works for English Catholics (London: Rivingtons, MDCCCLXXVI) | have-ocr | IA `introductiontod00salegoog` |
+| An Introduction to the Devout Life, edited by Walter J. B. Richards (London: Burns & Oates, 1878) | have-ocr | IA `anintroductiont01salegoog` |
+| Library of St. Francis de Sales I: Letters to Persons in the World, tr. Henry Benedict Mackey, second edition (London: Burns & Oates; New York: Benziger, 1894) | have-ocr | IA `libraryofstfranc01franiala` |
+| Library of St. Francis de Sales II: Treatise on the Love of God, tr. Henry Benedict Mackey, third edition (London: Burns & Oates; New York: Benziger; catalogued 1910) | have-ocr | IA `libraryofstfranc01fran_0` |
+| Library of St. Francis de Sales III: The Catholic Controversy, tr. H. B. Mackey, revised (London: Burns & Oates; New York: Benziger, 1909) | have-ocr | IA `libraryofstfranc03fran_0` |
+| Library of St. Francis de Sales IV: Letters to Persons in Religion, tr. H. B. Mackey, fourth edition (London: Burns & Oates; New York: Benziger, 1909) | have-ocr | IA `letterstoperson00franuoft` |
+| Library of St. Francis de Sales VI: Mystical Explanation of the Canticle of Canticles, tr. H. B. Mackey (London: Burns & Oates; catalogued 1908) | have-ocr | IA `libraryofstfranc06fran` |
+| The True Spiritual Conferences of St. Francis of Sales, with a preface by Cardinal Wiseman (London: Richardson and Son, MDCCCLXII) | have-ocr | IA `truespiritualco00salegoog` |
+| The Spiritual Conferences, translated from the Annecy text under Abbot Gasquet and Canon Mackey (London: Burns & Oates; New York: Benziger, 1909) | have-ocr | IA `spiritualconfere00franuoft` |
+| Of the Love of God, abridged, tr. H. L. Sidney Lear (London: Rivingtons, MDCCCLXXXVIII) | have-ocr | IA `lovegod00leargoog` |
+| A Selection from the Spiritual Letters of S. Francis de Sales (London: Rivingtons, 1871) | have-ocr | IA `aselectionfroms00salegoog` |
+| A Treatise of the Love of God, tr. Miles Car (Douay: Gerard Pinchon, 1630) | have-ocr | IA `bim_early-english-books-1475-1640_a-treatise-of-the-love-o_francis-of-sales-saint_1630` |
+| Other Devout Life versions (Rivingtons undated; Longmans 1891; Barns, Methuen 1906; the 1613 and 1762 versions), other Letters and Conferences copies, Rivingtons' Of the Love of God (1878) | alternate | not shelved |
+| Maxims and Counsels for Every Day of the Year, selected and tr. Ella McMahon (PG 73661): already on the ella-mcmahon translator shelf (another branch) | alternate | not shelved |
+| CCEL desales/love: a 1997 TAN photographic reprint | excluded | |
+| Camus's Spirit of St Francis de Sales (PG 9184) and all Lives | excluded | |
+| printings of 1923 and later | excluded | |
