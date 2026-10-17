@@ -182,8 +182,8 @@
       "status": "done",
       "scope": "STORYTELLERS (added 2026-10-02 at the coordinator's relay of Adam's keep-going wish; Adam may veto) — L. Frank Baum: the Oz books: Baum's 14 novels and Little Wizard Stories of Oz; his other books listed as pending; no minting",
       "started": "2026-10-02T16:27:12-05:00",
-      "finished": "2026-10-02T16:30:45-05:00",
-      "notes": "15/15 fetched (Gutenberg; Little Wizard Stories from 25519 because 19467 has no text file), 0 copyright markers; 18,663 units, 0 duplicate ids. The 14 Oz novels by chapter (Land of Oz: 21 of 24 chapter titles found) + Little Wizard Stories. Other Baum books pending. No uids minted; not in manifest."
+      "finished": "2026-10-17T17:52:58-05:00",
+      "notes": "baum: completed, 50 more Gutenberg books (65 on the shelf), 81,391 units, 66 ~2 ids; verify 0 mismatches, 0 rights flags."
     },
     {
       "id": "ruskin-golden-river",

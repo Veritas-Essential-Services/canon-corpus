@@ -51,7 +51,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 |---|---|---|---|---|
 | `grahame` | 5 Gutenberg | 0 | 2,115 | Wind in the Willows, Golden Age, Dream Days (with The Reluctant Dragon), Pagan Papers, The Headswoman |
 | `barrie` | 26 Gutenberg | 0 | 29,025 | Peter Pan (novel, 1928 play, Kensington Gardens), Thrums, Tommy, sketches, plays. UK has a perpetual Peter Pan royalty right; US status only |
-| `baum` | 15 Gutenberg | 0 | 18,663 | the 14 Oz novels and Little Wizard Stories, by chapter. **Your call:** his other fantasies and series books are listed as pending |
+| `baum` | 65 Gutenberg | 0 | 81,391 | The Oz books, his other fairy tales, and the series he wrote under other names. Completed 2026-10-17: 50 more books added, every English text by L. Frank Baum at Gutenberg that no other shelf holds. |
 | `ruskin-golden-river` | 1 Gutenberg | 0 | 248 | The King of the Golden River only (Ginn 1885 with Doyle's pictures), by chapter |
 | `wilde-fairy-tales` | 2 Gutenberg | 0 | 1,006 | The Happy Prince and A House of Pomegranates, all nine tales by title |
 | `dickens-christmas` | 5 Gutenberg | 0 | 3,689 | the five Christmas books, cited by stave, quarter, chirp, part or Gift |

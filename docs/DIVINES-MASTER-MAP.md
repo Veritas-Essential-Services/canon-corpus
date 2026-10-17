@@ -16459,9 +16459,9 @@ Shelf: `pipeline/barrie_shelf.json` (2026-10-02; added at the coordinator's rela
 | barrie-not-his | excluded | anthologies and books by others he contributed to or introduced (PG 2135, 2588, 21415 Daisy Ashford's Young Visiters, 26146, 37970, 39755 O'Connor's retelling, 43084 Mrs. Oliphant, 62942), Widger's index (58824) |
 | barrie-not-on-gutenberg | pending | his books not on Gutenberg (for example The Boy Castaways, Shall We Join the Ladies?); not searched for this pass |
 
-## L. Frank Baum (the Oz books)
+## L. Frank Baum
 
-Shelf: `pipeline/baum_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Baum's fourteen Oz novels and Little Wizard Stories of Oz, cited by chapter. The Gutenberg transcriptions mark chapters in four different ways, so each book has its own rule in its shelf row. The Marvelous Land of Oz has none in a form a rule can catch, so its 24 chapter titles are listed, and 21 are found. His other books are pending; the Thompson and Snow continuations are not his. Not in the manifest; no uids minted.
+Shelf: `pipeline/baum_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Oz books, his other fairy tales, and the series he wrote under other names. All 65 of L. Frank Baum's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -16480,10 +16480,64 @@ Shelf: `pipeline/baum_shelf.json` (2026-10-02; added at the coordinator's relay 
 | The Tin Woodman of Oz (1918) | have | PG 960, `baum-tin-woodman-of-oz` (1161 units) |
 | The Magic of Oz (1919) | have | PG 419, `baum-magic-of-oz` (1138 units) |
 | Glinda of Oz (1920) | have | PG 961, `baum-glinda-of-oz` (1005 units) |
+| The Master Key An Electrical Fairy Tale Founded Upon the Mysteries of Electricity | have | PG 436, `baum-master-key-an-electrical-fairy-tale-founded-upon-the-my` (945 units) |
+| The Enchanted Island of Yew Whereon Prince Marvel Encountered the High Ki of Twi and Other Surprising People | have | PG 518, `baum-enchanted-island-of-yew-whereon-prince-marvel-encounter` (1091 units) |
+| A Kidnapped Santa Claus | have | PG 519, `baum-a-kidnapped-santa-claus` (85 units) |
+| The Life and Adventures of Santa Claus | have | PG 520, `baum-life-and-adventures-of-santa-claus` (745 units) |
+| Sky Island Being the further exciting adventures of Trot and Cap'n Bill after their visit to the sea fairies | have | PG 4356, `baum-sky-island-being-the-further-exciting-adventures-of-tro` (1461 units) |
+| American Fairy Tales | have | PG 4357, `baum-american-fairy-tales` (1050 units) |
+| The Sea Fairies | have | PG 4358, `baum-sea-fairies` (1144 units) |
+| Mother Goose in Prose | have | PG 5312, `baum-mother-goose-in-prose` (1369 units) |
+| Mary Louise | have | PG 5660, `baum-mary-louise` (1333 units) |
+| Aunt Jane's Nieces on Vacation | have | PG 10059, `baum-aunt-janes-nieces-on-vacation` (1414 units) |
+| Aunt Jane's Nieces | have | PG 10123, `baum-aunt-janes-nieces` (1912 units) |
+| Aunt Jane's Nieces and Uncle John | have | PG 10124, `baum-aunt-janes-nieces-and-uncle-john` (1238 units) |
+| Aunt Jane's Nieces at Millville | have | PG 10359, `baum-aunt-janes-nieces-at-millville` (1549 units) |
+| Aunt Jane's Nieces out West | have | PG 10432, `baum-aunt-janes-nieces-out-west` (1682 units) |
+| Aunt Jane's Nieces in Society | have | PG 10468, `baum-aunt-janes-nieces-in-society` (1208 units) |
+| Aunt Jane's Nieces at Work | have | PG 13110, `baum-aunt-janes-nieces-at-work` (1717 units) |
+| The Surprising Adventures of the Magical Monarch of Mo and His People | have | PG 16259, `baum-surprising-adventures-of-the-magical-monarch-of-mo-and` (876 units) |
+| Aunt Jane's Nieces Abroad | have | PG 16566, `baum-aunt-janes-nieces-abroad` (1925 units) |
+| Aunt Jane's Nieces in the Red Cross | have | PG 16567, `baum-aunt-janes-nieces-in-the-red-cross` (1377 units) |
+| Mary Louise and the Liberty Girls | have | PG 21876, `baum-mary-louise-and-the-liberty-girls` (1091 units) |
+| The Woggle-Bug Book | have | PG 21914, `baum-woggle-bug-book` (212 units) |
+| Mary Louise in the Country | have | PG 22225, `baum-mary-louise-in-the-country` (1464 units) |
+| Mary Louise Solves a Mystery | have | PG 24578, `baum-mary-louise-solves-a-mystery` (1209 units) |
+| Policeman Bluejay | have | PG 27951, `baum-policeman-bluejay` (900 units) |
+| Twinkle and Chubbins: Their Astonishing Adventures in Nature-Fairyland | have | PG 28552, `baum-twinkle-and-chubbins` (968 units) |
+| Aunt Jane's Nieces on the Ranch | have | PG 35859, `baum-aunt-janes-nieces-on-the-ranch` (1439 units) |
+| Dot and Tot of Merryland | have | PG 37976, `baum-dot-and-tot-of-merryland` (1165 units) |
+| Prairie-Dog Town | have | PG 45379, `baum-prairie-dog-town` (163 units) |
+| John Dough and the Cherub | have | PG 47166, `baum-john-dough-and-the-cherub` (1567 units) |
+| Tamawaca Folks: A Summer Comedy | have | PG 49731, `baum-tamawaca-folks` (842 units) |
+| Annabel: A Novel for Young Folks | have | PG 53196, `baum-annabel` (1003 units) |
+| The Flying Girl | have | PG 53386, `baum-flying-girl` (1412 units) |
+| The Fate of a Crown | have | PG 53566, `baum-fate-of-a-crown` (1407 units) |
+| The Flying Girl and Her Chum | have | PG 53692, `baum-flying-girl-and-her-chum` (1860 units) |
+| The Daring Twins: A Story for Young Folk | have | PG 53735, `baum-daring-twins` (1998 units) |
+| The Book of the Hamburgs A Brief Treatise upon the Mating, Rearing and Management of the Different Varieties of Hamburgs | have | PG 53965, `baum-book-of-the-hamburgs-a-brief-treatise-upon-the-mating-r` (177 units) |
+| Phoebe Daring: A Story for Young Folk | have | PG 54529, `baum-phoebe-daring` (1750 units) |
+| Daughters of Destiny | have | PG 54540, `baum-daughters-of-destiny` (1533 units) |
+| Sam Steele's Adventures in Panama | have | PG 54647, `baum-sam-steeles-adventures-in-panama` (1480 units) |
+| The Last Egyptian: A Romance of the Nile | have | PG 55020, `baum-last-egyptian` (1790 units) |
+| Sam Steele's Adventures on Land and Sea | have | PG 55597, `baum-sam-steeles-adventures-on-land-and-sea` (1144 units) |
+| Queen Zixi of Ix; Or, the Story of the Magic Cloak | have | PG 55737, `baum-queen-zixi-of-ix` (1343 units) |
+| The Boy Fortune Hunters in the South Seas | have | PG 55763, `baum-boy-fortune-hunters-in-the-south-seas` (1145 units) |
+| The Boy Fortune Hunters in China | have | PG 55767, `baum-boy-fortune-hunters-in-china` (1512 units) |
+| The Boy Fortune Hunters in Egypt | have | PG 55845, `baum-boy-fortune-hunters-in-egypt` (1116 units) |
+| Mary Louise Adopts a Soldier (with Emma Speed Sampson) | have | PG 58513, `baum-mary-louise-adopts-a-soldier` (1064 units) |
+| The Boy Fortune Hunters in Alaska | have | PG 60055, `baum-boy-fortune-hunters-in-alaska` (1178 units) |
+| The Boy Fortune Hunters in Panama | have | PG 60191, `baum-boy-fortune-hunters-in-panama` (1486 units) |
+| The Boy Fortune Hunters in Yucatan | have | PG 63508, `baum-boy-fortune-hunters-in-yucatan` (1377 units) |
+| The art of decorating dry goods windows and interiors | have | PG 73606, `baum-art-of-decorating-dry-goods-windows-and-interiors` (1812 units) |
 | baum-duplicates | excluded | other Gutenberg transcriptions of every Oz book held (illustrated Neill and Denslow editions and re-transcriptions: PG 17426, 19466, 53844, 43936, 21179, 23075, 33361, 19450, 22566, 21174, 26624, 21163, 41667, 32094, 23076, 52176, 51263, 25581, 21169, 24459, 30852, 50194, 39868); PG 19467 (Little Wizard Stories) has no plain-text file, so the Neill transcription 25519 is held |
 | baum-not-this-shelf | pending | PENDING, outside the relay's Oz list unless Adam widens it: his other fantasies (The Master Key, The Enchanted Island of Yew, Queen Zixi of Ix, John Dough and the Cherub, The Sea Fairies, Sky Island, Mother Goose in Prose, American Fairy Tales, The Magical Monarch of Mo, Dot and Tot of Merryland, the Santa Claus books, the Twinkle Tales, The Woggle-Bug Book), and the series and adult books (Aunt Jane's Nieces, Mary Louise, the Boy Fortune Hunters, Sam Steele, The Flying Girl, Daring Twins, The Fate of a Crown, The Last Egyptian, Tamawaca Folks, Annabel, Daughters of Destiny, the Hamburgs and window-dressing manuals) |
 | baum-not-his | excluded | the Oz books by Ruth Plumly Thompson and Jack Snow (PG 30537, 53765, 55806, 55851, 56073, 56079, 56085, 56555, 56683, 58765, 61681, 65849, 70152, 71273, 73170, 75720, 78637). The Royal Book of Oz (1921, PG 30537) was published under Baum's name but written by Thompson; listed here, not held |
 | baum-translations | excluded | non-English editions: this shelf is Baum's English |
+| baum-repeat-39159 | excluded | PG 39159, Sky Island Being the Further Exciting Adventures of Trot and Cap'n Bill After Their Visit to the Sea Fairies: a second transcription of a title already on this shelf |
+| baum-repeat-45347 | excluded | PG 45347, The Master Key An Electrical Fairy Tale Founded Upon the Mysteries of Electricity: a second transcription of a title already on this shelf |
+| baum-repeat-48778 | excluded | PG 48778, The Sea Fairies: a second transcription of a title already on this shelf |
+| baum-baums-complete-stamp-dealers-directory-containing-a-com | excluded | PG 61203, Baum's Complete Stamp Dealers' Directory, is a trade directory, not a story |
 
 ## John Ruskin (The King of the Golden River)
 
