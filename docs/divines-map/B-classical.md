@@ -3921,6 +3921,82 @@ Shelf: `pipeline/helvetius_shelf.json`. De l'Esprit, the first English translati
 |---|---|---|---|
 | De l'Esprit, or Essays on the Mind and its Several Faculties, translated from the French (London: printed for the translator, 1759) | anonymous | `helvetius-de-l-esprit-1759` | have-raw (IA `b30416474`) |
 
+## John Dewey
+
+Shelf: `pipeline/john-dewey_shelf.json`. Fifteen works, 1888-1922, US public domain.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Outlines of a Critical Theory of Ethics (Ann Arbor: Register Publishing, 1891) |  | `dewey-critical-theory-of-ethics-1891` | have (PG 60422) |
+| Leibniz's New Essays Concerning the Human Understanding: a critical exposition (Chicago: Scott, Foresman, 1902; copyright 1888) |  | `dewey-leibniz-new-essays-1902` | have (PG 40957) |
+| The School and Society, second impression (Chicago: University of Chicago Press, 1900) |  | `dewey-school-and-society-1900` | have (PG 53910) |
+| Psychology and Social Practice (Chicago: University of Chicago Press, 1901) |  | `dewey-psychology-and-social-practice-1901` | have (PG 40744) |
+| Studies in Logical Theory (Chicago: University of Chicago Press, 1903) |  | `dewey-studies-in-logical-theory-1903` | have (PG 40665) |
+| Moral Principles in Education (Boston: Houghton Mifflin, 1909) |  | `dewey-moral-principles-in-education-1909` | have (PG 25172) |
+| How We Think (Boston: D. C. Heath, 1910) |  | `dewey-how-we-think-1910` | have (PG 37423) |
+| The Influence of Darwin on Philosophy, and other essays in contemporary thought (New York: Henry Holt, 1910) |  | `dewey-influence-of-darwin-1910` | have (PG 51525) |
+| German Philosophy and Politics (New York: Henry Holt, 1915) |  | `dewey-german-philosophy-and-politics-1915` | have (PG 42208) |
+| Schools of To-morrow, with Evelyn Dewey (New York: E. P. Dutton, 1915) |  | `dewey-schools-of-to-morrow-1915` | have (PG 48906) |
+| Essays in Experimental Logic (Chicago: University of Chicago Press, 1916) |  | `dewey-essays-in-experimental-logic-1916` | have (PG 40794) |
+| Democracy and Education: an introduction to the philosophy of education (1916; the etext names no printing) |  | `dewey-democracy-and-education` | have (PG 852) |
+| Creative Intelligence: essays in the pragmatic attitude, by John Dewey and others (New York: Henry Holt, 1917) |  | `dewey-creative-intelligence-1917` | have (PG 33727) |
+| Reconstruction in Philosophy (New York: Henry Holt, 1920) |  | `dewey-reconstruction-in-philosophy-1920` | have (PG 40089) |
+| Human Nature and Conduct: an introduction to social psychology (New York: Henry Holt, 1922) |  | `dewey-human-nature-and-conduct-1922` | have (PG 41386) |
+
+Pending (wishlist): The Child and the Curriculum and The Public and its Problems in pre-1930 printings; Dewey and Tufts, Ethics (1908).
+
+## George Santayana
+
+Shelf: `pipeline/george-santayana_shelf.json`. Nine works, 1896-1923.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Sense of Beauty: being the outlines of aesthetic theory (New York: Scribner, 1896) |  | `santayana-sense-of-beauty-1896` | have (PG 26842) |
+| Interpretations of Poetry and Religion (New York: Scribner, 1900) |  | `santayana-interpretations-of-poetry-and-religion-1900` | have (PG 48563) |
+| The Life of Reason, or the Phases of Human Progress, 5 vols. (1905-1906; the etext names no printing) |  | `santayana-life-of-reason` | have (PG 15000) |
+| Three Philosophical Poets: Lucretius, Dante, and Goethe (Cambridge: Harvard University, 1910) |  | `santayana-three-philosophical-poets-1910` | have (PG 35612) |
+| Winds of Doctrine: studies in contemporary opinion (New York: Scribner, 1913) |  | `santayana-winds-of-doctrine-1913` | have (PG 17771) |
+| Egotism in German Philosophy (London: Dent; New York: Scribner, 1916) |  | `santayana-egotism-in-german-philosophy-1916` | have (PG 48431) |
+| Character and Opinion in the United States (New York: Scribner, 1921) |  | `santayana-character-and-opinion-1921` | have (PG 34654) |
+| Soliloquies in England, and Later Soliloquies (New York: Scribner, 1922) |  | `santayana-soliloquies-in-england-1922` | have (PG 48429) |
+| Scepticism and Animal Faith: introduction to a system of philosophy (New York: Scribner, 1923; third impression 1929) |  | `santayana-scepticism-and-animal-faith-1923` | have (PG 77155) |
+
+## Josiah Royce
+
+Shelf: `pipeline/josiah-royce_shelf.json`. The Sources of Religious Insight (1912).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Sources of Religious Insight (New York: Scribner, 1912) |  | `royce-sources-of-religious-insight-1912` | have (PG 33677) |
+
+Pending (wishlist): The Religious Aspect of Philosophy, The Spirit of Modern Philosophy, The World and the Individual, The Philosophy of Loyalty.
+
+## Charles S. Peirce
+
+Shelf: `pipeline/charles-s-peirce_shelf.json`. Chance, Love, and Logic, ed. Cohen (1923).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Chance, Love, and Logic: philosophical essays, ed. Morris R. Cohen (New York: Harcourt, Brace, 1923) |  | `peirce-chance-love-and-logic-1923` | have (PG 65274) |
+
+## James Mill
+
+Shelf: `pipeline/james-mill_shelf.json`. Analysis of the Phenomena of the Human Mind, ed. J. S. Mill (1878), vol. I.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Analysis of the Phenomena of the Human Mind, ed. J. S. Mill, 2nd ed., vol. I (London: Longmans, 1878) |  | `james-mill-analysis-of-the-mind-1878-v1` | have (PG 56441) |
+
+Pending (wishlist): Vol. II of the 1878 edition.
+
+## Schiller's philosophical essays
+
+Shelf: `pipeline/schiller-essays_shelf.json`. Aesthetical and Philosophical Essays (1899).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Aesthetical and Philosophical Essays, library edition (New York: Publishers Plate Renting Co., 1899) |  | `schiller-aesthetical-philosophical-essays-1899` | have (PG 70669) |
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.

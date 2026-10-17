@@ -1,0 +1,213 @@
+{
+ "_about": "John Dewey (1859-1952), American works published before 1930 and so US public domain, from Project Gutenberg, each etext's imprint read: Outlines of a Critical Theory of Ethics (1891), Leibniz's New Essays: a Critical Exposition (1888; Scott, Foresman printing of 1902), The School and Society (1900, second impression), Psychology and Social Practice (1901), Studies in Logical Theory (1903), Moral Principles in Education (1909), How We Think (1910), The Influence of Darwin on Philosophy (1910), German Philosophy and Politics (1915), Schools of To-morrow (with Evelyn Dewey, 1915), Essays in Experimental Logic (1916), Democracy and Education (1916; the etext names no printing), Creative Intelligence (with other pragmatists, 1917), Reconstruction in Philosophy (1920) and Human Nature and Conduct (1922). Held as post-1930 printings (Adam's open class): The Child and the Curriculum (PG 29259 follows a 1966 impression) and The Public and its Problems (PG 71000 follows a Swallow reprint, copyright renewed 1954). Not taken: PG 74376, a second copy of The School and Society; the Dewey-Tufts Ethics (PG 39551) would not download. No uids minted.",
+ "_author": "John Dewey",
+ "_name_words": [
+  "john",
+  "dewey"
+ ],
+ "_surname": [
+  "john dewey"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dewey-critical-theory-of-ethics-1891": [
+   60422,
+   "Outlines of a Critical Theory of Ethics (Ann Arbor: Register Publishing, 1891)"
+  ],
+  "dewey-leibniz-new-essays-1902": [
+   40957,
+   "Leibniz's New Essays Concerning the Human Understanding: a critical exposition (Chicago: Scott, Foresman, 1902; copyright 1888)"
+  ],
+  "dewey-school-and-society-1900": [
+   53910,
+   "The School and Society, second impression (Chicago: University of Chicago Press, 1900)"
+  ],
+  "dewey-psychology-and-social-practice-1901": [
+   40744,
+   "Psychology and Social Practice (Chicago: University of Chicago Press, 1901)"
+  ],
+  "dewey-studies-in-logical-theory-1903": [
+   40665,
+   "Studies in Logical Theory (Chicago: University of Chicago Press, 1903)"
+  ],
+  "dewey-moral-principles-in-education-1909": [
+   25172,
+   "Moral Principles in Education (Boston: Houghton Mifflin, 1909)"
+  ],
+  "dewey-how-we-think-1910": [
+   37423,
+   "How We Think (Boston: D. C. Heath, 1910)"
+  ],
+  "dewey-influence-of-darwin-1910": [
+   51525,
+   "The Influence of Darwin on Philosophy, and other essays in contemporary thought (New York: Henry Holt, 1910)"
+  ],
+  "dewey-german-philosophy-and-politics-1915": [
+   42208,
+   "German Philosophy and Politics (New York: Henry Holt, 1915)"
+  ],
+  "dewey-schools-of-to-morrow-1915": [
+   48906,
+   "Schools of To-morrow, with Evelyn Dewey (New York: E. P. Dutton, 1915)"
+  ],
+  "dewey-essays-in-experimental-logic-1916": [
+   40794,
+   "Essays in Experimental Logic (Chicago: University of Chicago Press, 1916)"
+  ],
+  "dewey-democracy-and-education": [
+   852,
+   "Democracy and Education: an introduction to the philosophy of education (1916; the etext names no printing)"
+  ],
+  "dewey-creative-intelligence-1917": [
+   33727,
+   "Creative Intelligence: essays in the pragmatic attitude, by John Dewey and others (New York: Henry Holt, 1917)"
+  ],
+  "dewey-reconstruction-in-philosophy-1920": [
+   40089,
+   "Reconstruction in Philosophy (New York: Henry Holt, 1920)"
+  ],
+  "dewey-human-nature-and-conduct-1922": [
+   41386,
+   "Human Nature and Conduct: an introduction to social psychology (New York: Henry Holt, 1922)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "dewey-critical-theory-of-ethics-1891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-leibniz-new-essays-1902": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-school-and-society-1900": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-psychology-and-social-practice-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-studies-in-logical-theory-1903": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-moral-principles-in-education-1909": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-how-we-think-1910": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-influence-of-darwin-1910": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-german-philosophy-and-politics-1915": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-schools-of-to-morrow-1915": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-essays-in-experimental-logic-1916": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-democracy-and-education": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-creative-intelligence-1917": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-reconstruction-in-philosophy-1920": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-human-nature-and-conduct-1922": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
