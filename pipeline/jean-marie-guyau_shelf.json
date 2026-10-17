@@ -1,0 +1,34 @@
+{
+ "_about": "Jean-Marie Guyau (1854-1888), The Non-Religion of the Future, translated from the French (New York: Holt, 1897; the translator is not named on the title page), from Project Gutenberg. US public domain. No uids minted.",
+ "_author": "Jean-Marie Guyau",
+ "_name_words": [
+  "jean",
+  "marie",
+  "m",
+  "guyau"
+ ],
+ "_surname": [
+  "guyau"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "guyau-non-religion-of-the-future-1897": [
+   47421,
+   "The Non-Religion of the Future: a sociological study (New York: Holt, 1897)",
+   "tr. anonymous"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "guyau-non-religion-of-the-future-1897": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "guyau",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
