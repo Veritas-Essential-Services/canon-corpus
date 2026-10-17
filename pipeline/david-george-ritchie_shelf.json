@@ -1,5 +1,5 @@
 {
- "_about": "David George Ritchie (1853-1903), raw IA OCR: Darwinism and Politics, second edition with two additional essays on human evolution (London: Swan Sonnenschein, 1891; the OCR misreads the year as '1801'), Darwin and Hegel, with other philosophical studies (Swan Sonnenschein, 1893) and Studies in Political and Social Ethics (Swan Sonnenschein, 1902). US public domain. No uids minted.",
+ "_about": "David George Ritchie (1853-1903), raw IA OCR: Darwinism and Politics, second edition with two additional essays on human evolution (London: Swan Sonnenschein, 1891; the OCR misreads the year as '1801'), Darwin and Hegel, with other philosophical studies (Swan Sonnenschein, 1893) and Studies in Political and Social Ethics (Swan Sonnenschein, 1902). Added in round ac: Natural Rights, a criticism of some political and ethical conceptions, 3rd ed. (London: George Allen and Unwin, 1916; first edition 1894). US public domain. No uids minted.",
  "_author": "David George Ritchie",
  "_name_words": [
   "david",
@@ -25,6 +25,10 @@
   "ritchie-studies-political-social-ethics-1902": [
    "studiesinpoliti00ritcuoft",
    "Studies in Political and Social Ethics (London: Swan Sonnenschein, 1902)"
+  ],
+  "ritchie-natural-rights-1916": [
+   "cu31924095900902",
+   "Natural Rights, a criticism of some political and ethical conceptions, 3rd ed. (London: George Allen and Unwin, 1916; first edition 1894)"
   ]
  },
  "_excluded": {},
@@ -60,6 +64,17 @@
    "ia_rights": "ok: published 1902",
    "ia_date": "1902",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ritchie-natural-rights-1916": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ritchie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
