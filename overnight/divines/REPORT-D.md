@@ -1059,3 +1059,6 @@
 
 ## 2026-10-17 17:45 CDT — coolidge: done
 - coolidge: completed, 6 more Gutenberg books (15 on the shelf), 13,052 units, 16 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:45 CDT — church: done
+- church: completed, 8 more Gutenberg books (17 on the shelf), 12,924 units, 275 ~2 ids; verify 0 mismatches, 0 rights flags.

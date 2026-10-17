@@ -1338,19 +1338,27 @@ Shelf: `pipeline/wyss_shelf.json` (2026-10-02; added at the coordinator's relay 
 
 ## Alfred J. Church
 
-Shelf: `pipeline/church_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). His retellings of Homer, Virgil, the tragedians, Livy, Herodotus, Spenser and the Charlemagne romances; nested story > chapter where a book holds several stories. His novels are not taken. Not in the manifest; no uids minted.
+Shelf: `pipeline/church_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Classical and historical tales retold for the young. All 17 of Alfred J. Church's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Story of the Iliad, edited for school use (Macmillan, 1905; 1920 printing) | have | PG 74231, `church-story-of-the-iliad` (700 units) |
 | The Story of the Odyssey | have | PG 6370, `church-story-of-the-odyssey` (705 units) |
-| Stories from Virgil | have | PG 40622, `church-stories-from-virgil` (382 units) |
+| Stories from Virgil | have | PG 40622, `church-stories-from-virgil` (461 units) |
 | Stories from the Greek Tragedians | have | PG 14994, `church-stories-from-the-greek-tragedians` (873 units) |
 | Stories from Livy | have | PG 24030, `church-stories-from-livy` (217 units) |
 | Stories of the Old World | have | PG 43982, `church-stories-of-the-old-world` (1210 units) |
 | Stories of the Persian Wars, from Herodotus | have | PG 78980, `church-stories-of-the-persian-wars` (327 units) |
-| The Faery Queen and Her Knights: Stories Retold from Edmund Spenser | have | PG 55765, `church-faery-queen-and-her-knights` (667 units) |
-| Stories of Charlemagne and the Twelve Peers of France | have | PG 75339, `church-stories-of-charlemagne` (689 units) |
+| The Faery Queen and Her Knights: Stories Retold from Edmund Spenser | have | PG 55765, `church-faery-queen-and-her-knights` (679 units) |
+| Stories of Charlemagne and the Twelve Peers of France | have | PG 75339, `church-stories-of-charlemagne` (749 units) |
+| Lords of the World: A story of the fall of Carthage and Corinth | have | PG 41464, `church-lords-of-the-world` (1285 units) |
+| Callias: A Tale of the Fall of Athens | have | PG 41471, `church-callias` (1414 units) |
+| With the King at Oxford: A Tale of the Great Rebellion | have | PG 42197, `church-with-the-king-at-oxford` (530 units) |
+| The Count of the Saxon Shore; or The Villa in Vectis. A Tale of the Departure of the Romans from Britain (with Ruth Putnam) | have | PG 44083, `church-count-of-the-saxon-shore` (922 units) |
+| The Hammer: A Story of the Maccabean Times (with Richmond Seeley) | have | PG 44550, `church-hammer` (1215 units) |
+| Henry the Fifth | have | PG 58405, `church-henry-the-fifth` (319 units) |
+| A Young Macedonian in the Army of Alexander the Great | have | PG 60182, `church-a-young-macedonian-in-the-army-of-alexander-the-great` (861 units) |
+| Helmet and spear | have | PG 74494, `church-helmet-and-spear` (457 units) |
 | church-novels | excluded | his historical novels (Callias, Lords of the World, The Count of the Saxon Shore, The Hammer, With the King at Oxford, A Young Macedonian, Helmet and Spear, Henry the Fifth): fiction of his own; candidates for a later batch |
 | church-history | excluded | Roman Life in the Days of Cicero (PG 13481): history, not story |
 | church-tacitus | excluded | Tacitus, tr. Church and Brodribb: held by Lane B on tacitus_shelf.json |
