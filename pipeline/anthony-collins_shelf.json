@@ -1,0 +1,38 @@
+{
+ "_about": "Anthony Collins (1676-1729), raw IA OCR: A Discourse of Free-Thinking, occasion'd by the rise and growth of a sect call'd Free-Thinkers (London, 1713; published anonymously). US public domain. No uids minted.",
+ "_author": "Anthony Collins",
+ "_name_words": [
+  "anthony",
+  "collins"
+ ],
+ "_surname": [
+  "anthony collins"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "collins-discourse-of-free-thinking-1713": [
+   "adiscourseoffree00colluoft",
+   "A Discourse of Free-Thinking (London, 1713)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "collins-discourse-of-free-thinking-1713": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1713",
+   "ia_date": "1713",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "collins-discourse-of-free-thinking-1713": {
+   "author": "published anonymously: the title page carries no author name; the attribution to Anthony Collins is the standard one and the IA catalogue record gives it (not read from the text)"
+  }
+ }
+}
