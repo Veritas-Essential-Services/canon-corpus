@@ -1,0 +1,35 @@
+{
+ "_about": "Hugo Münsterberg (1863-1916) as philosopher: The Eternal Values (Boston: Houghton Mifflin, 1909), raw IA OCR. His psychology books on Gutenberg are not taken here. US public domain. No uids minted.",
+ "_author": "Hugo Münsterberg",
+ "_name_words": [
+  "hugo",
+  "munsterberg",
+  "münsterberg"
+ ],
+ "_surname": [
+  "munsterberg",
+  "münsterberg"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "munsterberg-eternal-values-1909": [
+   "eternalvalues00muns",
+   "The Eternal Values (Boston: Houghton Mifflin, 1909)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "munsterberg-eternal-values-1909": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "munsterberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
