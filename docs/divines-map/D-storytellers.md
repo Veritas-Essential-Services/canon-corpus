@@ -6569,6 +6569,38 @@ Shelf: `pipeline/victor-appleton_shelf.json` (2026-10-17; added at the coordinat
 | Tom Swift and his big dirigible | have | PG 77599, `vappleton-tom-swift-and-his-big-dirigible` (1682 units) |
 | victor-appleton-ii | excluded | PG 17985, 19258 and any other 'Victor Appleton II' books (Tom Swift Jr., 1950s): a separate house name with different writers, not this shelf. |
 
+## Frank V. Webster
+
+Shelf: `pipeline/frank-webster_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories of boys making their way; Stratemeyer Syndicate house name. Every English text under the name at Gutenberg that no other shelf holds (25 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Young Firemen of Lakeville; Or, Herbert Dare's Pluck | have | PG 6114, `fwebster-young-firemen-of-lakeville` (1511 units) |
+| Cowboy Dave; Or, The Round-up at Rolling River | have | PG 6165, `fwebster-cowboy-dave` (1522 units) |
+| The Boys of Bellwood School; Or, Frank Jordan's Triumph | have | PG 6444, `fwebster-boys-of-bellwood-school` (1528 units) |
+| Jack of the Pony Express; Or, The Young Rider of the Mountain Trails | have | PG 8410, `fwebster-jack-of-the-pony-express` (1361 units) |
+| Comrades of the Saddle; Or, The Young Rough Riders of the Plains | have | PG 11890, `fwebster-comrades-of-the-saddle` (1582 units) |
+| Bob the Castaway; Or, The Wreck of the Eagle | have | PG 11909, `fwebster-bob-the-castaway` (1606 units) |
+| Bob Chester's Grit; Or, From Ranch to Riches | have | PG 17151, `fwebster-bob-chesters-grit` (1567 units) |
+| Dick the Bank Boy; Or, A Missing Fortune | have | PG 18981, `fwebster-dick-the-bank-boy` (1243 units) |
+| The Young Treasure Hunter; Or, Fred Stanley's Trip to Alaska | have | PG 20922, `fwebster-young-treasure-hunter` (1527 units) |
+| The Boy from the Ranch; Or, Roy Bradner's City Experiences | have | PG 21794, `fwebster-boy-from-the-ranch` (1469 units) |
+| The Boy Scouts of Lenox; Or, The Hike Over Big Bear Mountain | have | PG 21842, `fwebster-boy-scouts-of-lenox` (1271 units) |
+| Darry the Life Saver; Or, The Heroes of the Coast | have | PG 22277, `fwebster-darry-the-life-saver` (1333 units) |
+| The Newsboy Partners; Or, Who Was Dick Box? | have | PG 32537, `fwebster-newsboy-partners` (1645 units) |
+| The Boy Pilot of the Lakes; Or, Nat Morton's Perils | have | PG 33282, `fwebster-boy-pilot-of-the-lakes` (1557 units) |
+| The Boys of the Wireless; Or, A Stirring Rescue from the Deep | have | PG 35044, `fwebster-boys-of-the-wireless` (1750 units) |
+| Two Boys of the Battleship; Or, For the Honor of Uncle Sam | have | PG 36323, `fwebster-two-boys-of-the-battleship` (1515 units) |
+| Airship Andy; Or, The Luck of a Brave Boy | have | PG 36388, `fwebster-airship-andy` (1554 units) |
+| Harry Watson's High School Days; Or, The Rivals of Rivertown | have | PG 36409, `fwebster-harry-watsons-high-school-days` (1384 units) |
+| Two Boy Gold Miners; Or, Lost in the Mountains | have | PG 39094, `fwebster-two-boy-gold-miners` (1592 units) |
+| Jack the runaway; or, On the road with a circus | have | PG 68413, `fwebster-jack-the-runaway` (1430 units) |
+| Only a farm boy; or, Dan Hardy's rise in life | have | PG 68436, `fwebster-only-a-farm-boy` (1450 units) |
+| Tom the telephone boy; or, The mystery of a message | have | PG 68471, `fwebster-tom-the-telephone-boy` (1611 units) |
+| Ben Hardy's flying machine; or, Making a record for himself | have | PG 69511, `fwebster-ben-hardys-flying-machine` (1743 units) |
+| Tom Taylor at West Point | have | PG 71034, `fwebster-tom-taylor-at-west-point` (1550 units) |
+| The high school rivals | have | PG 71306, `fwebster-high-school-rivals` (1729 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
