@@ -987,3 +987,6 @@
 
 ## 2026-10-17 17:23 CDT — lang: done
 - lang: adds Ballads of Books (IA balladsbooks00mattiala, 1888, raw OCR); all 124 items re-verified, 0 mismatches.
+
+## 2026-10-17 17:23 CDT — horatio-alger: done
+- horatio-alger: completed, 103 more Gutenberg books (105 on the shelf), 260,068 units, 685 ~2 ids; verify 0 mismatches, 0 rights flags.

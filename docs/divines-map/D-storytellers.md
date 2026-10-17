@@ -2914,12 +2914,119 @@ Shelf: `pipeline/aloe_shelf.json` (2026-10-02; added at the coordinator's relay 
 
 ## Horatio Alger, Jr.
 
-Shelf: `pipeline/horatio-alger_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Two street-boy stories; cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/horatio-alger_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Rags-to-riches stories for boys. All 105 of Horatio Alger, Jr.'s English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | Ragged Dick, Or, Street Life in New York with the Boot-Blacks | have | PG 5348, `alger-ragged-dick` (1932 units) |
 | Tattered Tom; or, The Story of a Street Arab | have | PG 54006, `alger-tattered-tom` (2178 units) |
+| Paul Prescott's Charge | have | PG 293, `alger-paul-prescotts-charge` (2495 units) |
+| The Cash Boy | have | PG 296, `alger-cash-boy` (1383 units) |
+| Cast Upon the Breakers | have | PG 399, `alger-cast-upon-the-breakers` (3291 units) |
+| The Errand Boy; Or, How Phil Brent Won Success | have | PG 462, `alger-errand-boy` (2711 units) |
+| Joe the Hotel Boy; Or, Winning out by Pluck | have | PG 528, `alger-joe-the-hotel-boy` (2416 units) |
+| Driven from Home; Or, Carl Crawford's Experience | have | PG 530, `alger-driven-from-home` (2861 units) |
+| Phil, the Fiddler | have | PG 671, `alger-phil-the-fiddler` (1840 units) |
+| Frank's Campaign; Or, The Farm and the Camp | have | PG 1573, `alger-franks-campaign` (2118 units) |
+| Timothy Crump's Ward: A Story of American Life | have | PG 4660, `alger-timothy-crumps-ward` (1841 units) |
+| Struggling Upward, or Luke Larkin's Luck | have | PG 5417, `alger-struggling-upward-or-luke-larkins-luck` (2444 units) |
+| The Young Explorer; Or, Claiming His Fortune | have | PG 5623, `alger-young-explorer` (2110 units) |
+| The Young Musician; Or, Fighting His Way | have | PG 5673, `alger-young-musician` (2507 units) |
+| Hector's Inheritance, Or, the Boys of Smith Institute | have | PG 5674, `alger-hectors-inheritance` (2372 units) |
+| Do and Dare — a Brave Boy's Fight for Fortune | have | PG 5747, `alger-do-and-dare-a-brave-boys-fight-for-fortune` (2329 units) |
+| Try and Trust; Or, Abner Holden's Bound Boy | have | PG 5778, `alger-try-and-trust` (2524 units) |
+| Helping Himself; Or, Grant Thornton's Ambition | have | PG 5833, `alger-helping-himself` (2505 units) |
+| Bound to Rise; Or, Up the Ladder | have | PG 5977, `alger-bound-to-rise` (2512 units) |
+| Walter Sherwood's Probation | have | PG 5993, `alger-walter-sherwoods-probation` (2432 units) |
+| Herbert Carter's Legacy; Or, the Inventor's Son | have | PG 6162, `alger-herbert-carters-legacy` (2521 units) |
+| Facing the World | have | PG 6461, `alger-facing-the-world` (1262 units) |
+| Brave and Bold; Or, The Fortunes of Robert Rushton | have | PG 9990, `alger-brave-and-bold` (2219 units) |
+| The Store Boy | have | PG 10724, `alger-store-boy` (2392 units) |
+| Jack's Ward; Or, The Boy Guardian | have | PG 10729, `alger-jacks-ward` (2342 units) |
+| Only an Irish Boy; Or, Andy Burke's Fortunes | have | PG 11111, `alger-only-an-irish-boy` (2542 units) |
+| Risen from the Ranks; Or, Harry Walton's Success | have | PG 12741, `alger-risen-from-the-ranks` (2518 units) |
+| Joe's Luck; Or, Always Wide Awake | have | PG 12823, `alger-joes-luck` (2549 units) |
+| Making His Way; Or, Frank Courtney's Struggle Upward | have | PG 13803, `alger-making-his-way` (2256 units) |
+| Andy Grant's Pluck | have | PG 14831, `alger-andy-grants-pluck` (3160 units) |
+| From Canal Boy to President; Or, the Boyhood and Manhood of James A. Garfield | have | PG 14964, `alger-from-canal-boy-to-president` (1320 units) |
+| Adrift in New York: Tom and Florence Braving the World | have | PG 18581, `alger-adrift-in-new-york` (3058 units) |
+| Frank and Fearless; or, The Fortunes of Jasper Kent | have | PG 19592, `alger-frank-and-fearless` (3036 units) |
+| Young Captain Jack; Or, The Son of a Soldier (completed by Edward Stratemeyer) | have | PG 20432, `alger-young-captain-jack` (2680 units) |
+| Five Hundred Dollars; or, Jacob Marlowe's Secret | have | PG 21270, `alger-five-hundred-dollars` (2752 units) |
+| Randy of the River; Or, The Adventures of a Young Deckhand | have | PG 21416, `alger-randy-of-the-river` (2826 units) |
+| Fame and Fortune; or, The Progress of Richard Hunter | have | PG 21632, `alger-fame-and-fortune` (2125 units) |
+| The Young Acrobat of the Great North American Circus | have | PG 22521, `alger-young-acrobat-of-the-great-north-american-circus` (2579 units) |
+| From Farm to Fortune; or, Nat Nason's Strange Experience | have | PG 22565, `alger-from-farm-to-fortune` (2502 units) |
+| The Young Miner; Or, Tom Nelson in California | have | PG 22669, `alger-young-miner` (1778 units) |
+| Chester Rand; or, The New Path to Fortune | have | PG 23108, `alger-chester-rand` (3322 units) |
+| The Telegraph Boy | have | PG 24013, `alger-telegraph-boy` (2055 units) |
+| The Young Bank Messenger | have | PG 25150, `alger-young-bank-messenger` (2934 units) |
+| Slow and Sure: The Story of Paul Hoffman the Young Street-Merchant | have | PG 25151, `alger-slow-and-sure` (2484 units) |
+| Ben's Nugget; Or, A Boy's Search For Fortune | have | PG 25384, `alger-bens-nugget` (1874 units) |
+| Rufus and Rose; Or, The Fortunes of Rough and Ready | have | PG 25967, `alger-rufus-and-rose` (2082 units) |
+| The Young Outlaw; or, Adrift in the Streets | have | PG 26016, `alger-young-outlaw` (2257 units) |
+| Sam's Chance, and How He Improved It | have | PG 26043, `alger-sams-chance-and-how-he-improved-it` (2484 units) |
+| The Erie Train Boy | have | PG 26075, `alger-erie-train-boy` (2825 units) |
+| Luke Walton | have | PG 26083, `alger-luke-walton` (2986 units) |
+| In a new world | have | PG 26111, `alger-in-a-new-world` (2418 units) |
+| Tom, The Bootblack; or, The Road to Success | have | PG 26355, `alger-tom-the-bootblack` (2758 units) |
+| A Cousin's Conspiracy; Or, A Boy's Struggle for an Inheritance | have | PG 26630, `alger-a-cousins-conspiracy` (2874 units) |
+| The Tin Box, and What it Contained | have | PG 27222, `alger-tin-box-and-what-it-contained` (2763 units) |
+| The Young Adventurer; or, Tom's Trip Across the Plains | have | PG 27300, `alger-young-adventurer` (2120 units) |
+| Ben, the Luggage Boy; Or, Among the Wharves | have | PG 28381, `alger-ben-the-luggage-boy` (2146 units) |
+| Robert Coverdale's Struggle | have | PG 30372, `alger-robert-coverdales-struggle` (2959 units) |
+| Mark Mason's Victory | have | PG 30387, `alger-mark-masons-victory` (2665 units) |
+| Wait and Hope; Or, A Plucky Boy's Luck | have | PG 33591, `alger-wait-and-hope` (2670 units) |
+| Bernard Brooks' Adventures: The Experience of a Plucky Boy | have | PG 45022, `alger-bernard-brooks-adventures` (3116 units) |
+| A Debt of Honor: The Story of Gerald Lane's Success in the Far West | have | PG 51792, `alger-a-debt-of-honor` (2665 units) |
+| A Boy's Fortune; Or, The Strange Adventures of Ben Baker | have | PG 52017, `alger-a-boys-fortune` (2697 units) |
+| The Backwoods Boy; or, The Boyhood and Manhood of Abraham Lincoln | have | PG 52073, `alger-backwoods-boy` (993 units) |
+| Andy Gordon; Or, The Fortunes of A Young Janitor | have | PG 52097, `alger-andy-gordon` (2635 units) |
+| Bob Burton; or, The Young Ranchman of the Missouri | have | PG 52194, `alger-bob-burton` (2692 units) |
+| Adventures of a Telegraph Boy; or, "Number 91" | have | PG 52616, `alger-adventures-of-a-telegraph-boy` (2558 units) |
+| Mark the Match Boy; or, Richard Hunter's Ward | have | PG 53071, `alger-mark-the-match-boy` (2102 units) |
+| Digging for Gold: A Story of California | have | PG 53095, `alger-digging-for-gold` (3269 units) |
+| Dan, the Newsboy | have | PG 53345, `alger-dan-the-newsboy` (3323 units) |
+| From Farm Boy to Senator Being the History of the Boyhood and Manhood of Daniel Webster | have | PG 53382, `alger-from-farm-boy-to-senator-being-the-history-of-the-boyh` (983 units) |
+| Julius, the Street Boy; or, Out West | have | PG 53821, `alger-julius-the-street-boy` (2074 units) |
+| Helen Ford | have | PG 53868, `alger-helen-ford` (2544 units) |
+| Nothing to Do: A Tilt at Our Best Society | have | PG 53938, `alger-nothing-to-do` (19 units) |
+| In Search of Treasure | have | PG 54016, `alger-in-search-of-treasure` (3032 units) |
+| Grit; or, The Young Boatman of Pine Point | have | PG 54195, `alger-grit` (2677 units) |
+| Luck and Pluck; or, John Oakley's Inheritance | have | PG 54265, `alger-luck-and-pluck` (2664 units) |
+| Charlie Codman's Cruise: A Story for Boys | have | PG 54294, `alger-charlie-codmans-cruise` (1991 units) |
+| Jed, the Poorhouse Boy | have | PG 54350, `alger-jed-the-poorhouse-boy` (3276 units) |
+| Nelson the Newsboy; Or, Afloat in New York (completed by Edward Stratemeyer) | have | PG 54389, `alger-nelson-the-newsboy` (2586 units) |
+| Ralph Raymond's Heir | have | PG 54608, `alger-ralph-raymonds-heir` (1705 units) |
+| Rupert's Ambition | have | PG 54621, `alger-ruperts-ambition` (3109 units) |
+| The Disagreeable Woman: A Social Mystery | have | PG 54660, `alger-disagreeable-woman` (1355 units) |
+| Out for Business; or, Robert Frost's Strange Career (completed by Edward Stratemeyer) | have | PG 54737, `alger-out-for-business` (2858 units) |
+| Mark Manning's Mission: The Story of a Shoe Factory Boy | have | PG 55000, `alger-mark-mannings-mission` (2678 units) |
+| Strong and Steady; Or, Paddle Your Own Canoe | have | PG 55098, `alger-strong-and-steady` (2559 units) |
+| Rough and Ready; Or, Life Among the New York Newsboys | have | PG 55142, `alger-rough-and-ready` (2091 units) |
+| Making His Mark | have | PG 55217, `alger-making-his-mark` (3001 units) |
+| Shifting For Himself; or, Gilbert Greyson's Fortunes | have | PG 55598, `alger-shifting-for-himself` (2978 units) |
+| The Train Boy | have | PG 55725, `alger-train-boy` (3123 units) |
+| Dean Dunham; Or, the Waterford Mystery | have | PG 55947, `alger-dean-dunham` (2787 units) |
+| Strive and Succeed; or, The Progress of Walter Conrad | have | PG 56207, `alger-strive-and-succeed` (2529 units) |
+| Bertha's Christmas Vision: An Autumn Sheaf | have | PG 56222, `alger-berthas-christmas-vision` (970 units) |
+| Frank Hunter's Peril | have | PG 56602, `alger-frank-hunters-peril` (2426 units) |
+| Tom Temple's Career | have | PG 56686, `alger-tom-temples-career` (2958 units) |
+| Tony the Tramp; Or, Right is Might | have | PG 56730, `alger-tony-the-tramp` (2775 units) |
+| The Young Book Agent; or, Frank Hardy's Road to Success | have | PG 56756, `alger-young-book-agent` (2699 units) |
+| The Young Salesman | have | PG 56798, `alger-young-salesman` (3302 units) |
+| Tom Thatcher's Fortune | have | PG 56896, `alger-tom-thatchers-fortune` (3318 units) |
+| Adrift in the City; or, Oliver Conrad's Plucky Fight | have | PG 56973, `alger-adrift-in-the-city` (2796 units) |
+| Falling in with Fortune; Or, The Experiences of a Young Secretary (completed by Edward Stratemeyer) | have | PG 58304, `alger-falling-in-with-fortune` (2563 units) |
+| Sink or Swim; or, Harry Raymond's Resolve | have | PG 59517, `alger-sink-or-swim` (2406 units) |
+| Tony, the Hero; Or, A Brave Boy's Adventures with a Tramp | have | PG 59904, `alger-tony-the-hero` (3500 units) |
+| Ben Bruce: Scenes in the Life of a Bowery Newsboy | have | PG 60970, `alger-ben-bruce` (3206 units) |
+| Seeking his fortune, and other dialogues (with O. Augusta Cheney) | have | PG 64607, `alger-seeking-his-fortune-and-other-dialogues` (2392 units) |
+| The nugget finders | have | PG 71174, `alger-nugget-finders` (2194 units) |
+| alger-nothing-to-eat | excluded | PG 5868, Nothing to Eat, is shared with Thomas Chandler Haliburton in one small file; not taken |
+| alger-index-of-the-project-gutenberg-works-of-horatio-alger | excluded | PG 58920 is David Widger's index of the Gutenberg Alger files, not a text |
+| alger-life-of-edwin-forrest-the-american-tragedian-volume-1 | excluded | PG 61348 and 61470, Life of Edwin Forrest, are by William Rounseville Alger, not Horatio |
+| horatio-alger-repeat-34499 | excluded | PG 34499, Mark Mason's Victory: The Trials and Triumphs of a Telegraph Boy: a second transcription of a title already on this shelf |
 
 ## S. M. Mitra
 

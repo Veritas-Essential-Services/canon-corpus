@@ -1,5 +1,5 @@
 {
- "_about": "Horatio Alger's first two street-boy books: Ragged Dick (preface dated April 1868) and Tattered Tom (1871). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Horatio Alger's first two street-boy books: Ragged Dick (preface dated April 1868) and Tattered Tom (1871). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by Horatio Alger, Jr. at Gutenberg was added (103 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (1) and shared or misattributed files are listed in _excluded.",
  "_author": "Horatio Alger, Jr.",
  "_name_words": [
   "alger"
@@ -32,14 +32,554 @@
     "start": "CHAPTER I\\. ",
     "front": true
    }
+  ],
+  "alger-paul-prescotts-charge": [
+   293,
+   "Paul Prescott's Charge"
+  ],
+  "alger-cash-boy": [
+   296,
+   "The Cash Boy"
+  ],
+  "alger-cast-upon-the-breakers": [
+   399,
+   "Cast Upon the Breakers"
+  ],
+  "alger-errand-boy": [
+   462,
+   "The Errand Boy; Or, How Phil Brent Won Success"
+  ],
+  "alger-joe-the-hotel-boy": [
+   528,
+   "Joe the Hotel Boy; Or, Winning out by Pluck",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-driven-from-home": [
+   530,
+   "Driven from Home; Or, Carl Crawford's Experience"
+  ],
+  "alger-phil-the-fiddler": [
+   671,
+   "Phil, the Fiddler"
+  ],
+  "alger-franks-campaign": [
+   1573,
+   "Frank's Campaign; Or, The Farm and the Camp"
+  ],
+  "alger-timothy-crumps-ward": [
+   4660,
+   "Timothy Crump's Ward: A Story of American Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-struggling-upward-or-luke-larkins-luck": [
+   5417,
+   "Struggling Upward, or Luke Larkin's Luck"
+  ],
+  "alger-young-explorer": [
+   5623,
+   "The Young Explorer; Or, Claiming His Fortune",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-young-musician": [
+   5673,
+   "The Young Musician; Or, Fighting His Way"
+  ],
+  "alger-hectors-inheritance": [
+   5674,
+   "Hector's Inheritance, Or, the Boys of Smith Institute"
+  ],
+  "alger-do-and-dare-a-brave-boys-fight-for-fortune": [
+   5747,
+   "Do and Dare — a Brave Boy's Fight for Fortune"
+  ],
+  "alger-try-and-trust": [
+   5778,
+   "Try and Trust; Or, Abner Holden's Bound Boy",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-helping-himself": [
+   5833,
+   "Helping Himself; Or, Grant Thornton's Ambition"
+  ],
+  "alger-bound-to-rise": [
+   5977,
+   "Bound to Rise; Or, Up the Ladder"
+  ],
+  "alger-walter-sherwoods-probation": [
+   5993,
+   "Walter Sherwood's Probation"
+  ],
+  "alger-herbert-carters-legacy": [
+   6162,
+   "Herbert Carter's Legacy; Or, the Inventor's Son"
+  ],
+  "alger-facing-the-world": [
+   6461,
+   "Facing the World"
+  ],
+  "alger-brave-and-bold": [
+   9990,
+   "Brave and Bold; Or, The Fortunes of Robert Rushton"
+  ],
+  "alger-store-boy": [
+   10724,
+   "The Store Boy"
+  ],
+  "alger-jacks-ward": [
+   10729,
+   "Jack's Ward; Or, The Boy Guardian"
+  ],
+  "alger-only-an-irish-boy": [
+   11111,
+   "Only an Irish Boy; Or, Andy Burke's Fortunes"
+  ],
+  "alger-risen-from-the-ranks": [
+   12741,
+   "Risen from the Ranks; Or, Harry Walton's Success"
+  ],
+  "alger-joes-luck": [
+   12823,
+   "Joe's Luck; Or, Always Wide Awake"
+  ],
+  "alger-making-his-way": [
+   13803,
+   "Making His Way; Or, Frank Courtney's Struggle Upward",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-andy-grants-pluck": [
+   14831,
+   "Andy Grant's Pluck"
+  ],
+  "alger-from-canal-boy-to-president": [
+   14964,
+   "From Canal Boy to President; Or, the Boyhood and Manhood of James A. Garfield",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-adrift-in-new-york": [
+   18581,
+   "Adrift in New York: Tom and Florence Braving the World",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\. .{1,90}$"
+     }
+    ],
+    "start": "Chapter I\\. ",
+    "front": true
+   }
+  ],
+  "alger-frank-and-fearless": [
+   19592,
+   "Frank and Fearless; or, The Fortunes of Jasper Kent",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-young-captain-jack": [
+   20432,
+   "Young Captain Jack; Or, The Son of a Soldier (completed by Edward Stratemeyer)",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-five-hundred-dollars": [
+   21270,
+   "Five Hundred Dollars; or, Jacob Marlowe's Secret"
+  ],
+  "alger-randy-of-the-river": [
+   21416,
+   "Randy of the River; Or, The Adventures of a Young Deckhand",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-fame-and-fortune": [
+   21632,
+   "Fame and Fortune; or, The Progress of Richard Hunter"
+  ],
+  "alger-young-acrobat-of-the-great-north-american-circus": [
+   22521,
+   "The Young Acrobat of the Great North American Circus"
+  ],
+  "alger-from-farm-to-fortune": [
+   22565,
+   "From Farm to Fortune; or, Nat Nason's Strange Experience",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-young-miner": [
+   22669,
+   "The Young Miner; Or, Tom Nelson in California"
+  ],
+  "alger-chester-rand": [
+   23108,
+   "Chester Rand; or, The New Path to Fortune",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-telegraph-boy": [
+   24013,
+   "The Telegraph Boy"
+  ],
+  "alger-young-bank-messenger": [
+   25150,
+   "The Young Bank Messenger",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-slow-and-sure": [
+   25151,
+   "Slow and Sure: The Story of Paul Hoffman the Young Street-Merchant"
+  ],
+  "alger-bens-nugget": [
+   25384,
+   "Ben's Nugget; Or, A Boy's Search For Fortune"
+  ],
+  "alger-rufus-and-rose": [
+   25967,
+   "Rufus and Rose; Or, The Fortunes of Rough and Ready"
+  ],
+  "alger-young-outlaw": [
+   26016,
+   "The Young Outlaw; or, Adrift in the Streets"
+  ],
+  "alger-sams-chance-and-how-he-improved-it": [
+   26043,
+   "Sam's Chance, and How He Improved It"
+  ],
+  "alger-erie-train-boy": [
+   26075,
+   "The Erie Train Boy",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-luke-walton": [
+   26083,
+   "Luke Walton",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-in-a-new-world": [
+   26111,
+   "In a new world",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-tom-the-bootblack": [
+   26355,
+   "Tom, The Bootblack; or, The Road to Success"
+  ],
+  "alger-a-cousins-conspiracy": [
+   26630,
+   "A Cousin's Conspiracy; Or, A Boy's Struggle for an Inheritance"
+  ],
+  "alger-tin-box-and-what-it-contained": [
+   27222,
+   "The Tin Box, and What it Contained"
+  ],
+  "alger-young-adventurer": [
+   27300,
+   "The Young Adventurer; or, Tom's Trip Across the Plains",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-ben-the-luggage-boy": [
+   28381,
+   "Ben, the Luggage Boy; Or, Among the Wharves"
+  ],
+  "alger-robert-coverdales-struggle": [
+   30372,
+   "Robert Coverdale's Struggle"
+  ],
+  "alger-mark-masons-victory": [
+   30387,
+   "Mark Mason's Victory"
+  ],
+  "alger-wait-and-hope": [
+   33591,
+   "Wait and Hope; Or, A Plucky Boy's Luck",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-bernard-brooks-adventures": [
+   45022,
+   "Bernard Brooks' Adventures: The Experience of a Plucky Boy"
+  ],
+  "alger-a-debt-of-honor": [
+   51792,
+   "A Debt of Honor: The Story of Gerald Lane's Success in the Far West"
+  ],
+  "alger-a-boys-fortune": [
+   52017,
+   "A Boy's Fortune; Or, The Strange Adventures of Ben Baker",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-backwoods-boy": [
+   52073,
+   "The Backwoods Boy; or, The Boyhood and Manhood of Abraham Lincoln",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-andy-gordon": [
+   52097,
+   "Andy Gordon; Or, The Fortunes of A Young Janitor"
+  ],
+  "alger-bob-burton": [
+   52194,
+   "Bob Burton; or, The Young Ranchman of the Missouri",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-adventures-of-a-telegraph-boy": [
+   52616,
+   "Adventures of a Telegraph Boy; or, \"Number 91\""
+  ],
+  "alger-mark-the-match-boy": [
+   53071,
+   "Mark the Match Boy; or, Richard Hunter's Ward"
+  ],
+  "alger-digging-for-gold": [
+   53095,
+   "Digging for Gold: A Story of California",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-dan-the-newsboy": [
+   53345,
+   "Dan, the Newsboy"
+  ],
+  "alger-from-farm-boy-to-senator-being-the-history-of-the-boyh": [
+   53382,
+   "From Farm Boy to Senator Being the History of the Boyhood and Manhood of Daniel Webster",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-julius-the-street-boy": [
+   53821,
+   "Julius, the Street Boy; or, Out West"
+  ],
+  "alger-helen-ford": [
+   53868,
+   "Helen Ford"
+  ],
+  "alger-nothing-to-do": [
+   53938,
+   "Nothing to Do: A Tilt at Our Best Society"
+  ],
+  "alger-in-search-of-treasure": [
+   54016,
+   "In Search of Treasure"
+  ],
+  "alger-grit": [
+   54195,
+   "Grit; or, The Young Boatman of Pine Point"
+  ],
+  "alger-luck-and-pluck": [
+   54265,
+   "Luck and Pluck; or, John Oakley's Inheritance"
+  ],
+  "alger-charlie-codmans-cruise": [
+   54294,
+   "Charlie Codman's Cruise: A Story for Boys"
+  ],
+  "alger-jed-the-poorhouse-boy": [
+   54350,
+   "Jed, the Poorhouse Boy",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-nelson-the-newsboy": [
+   54389,
+   "Nelson the Newsboy; Or, Afloat in New York (completed by Edward Stratemeyer)",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-ralph-raymonds-heir": [
+   54608,
+   "Ralph Raymond's Heir"
+  ],
+  "alger-ruperts-ambition": [
+   54621,
+   "Rupert's Ambition",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-disagreeable-woman": [
+   54660,
+   "The Disagreeable Woman: A Social Mystery",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-out-for-business": [
+   54737,
+   "Out for Business; or, Robert Frost's Strange Career (completed by Edward Stratemeyer)",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-mark-mannings-mission": [
+   55000,
+   "Mark Manning's Mission: The Story of a Shoe Factory Boy",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-strong-and-steady": [
+   55098,
+   "Strong and Steady; Or, Paddle Your Own Canoe",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-rough-and-ready": [
+   55142,
+   "Rough and Ready; Or, Life Among the New York Newsboys"
+  ],
+  "alger-making-his-mark": [
+   55217,
+   "Making His Mark",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-shifting-for-himself": [
+   55598,
+   "Shifting For Himself; or, Gilbert Greyson's Fortunes"
+  ],
+  "alger-train-boy": [
+   55725,
+   "The Train Boy",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-dean-dunham": [
+   55947,
+   "Dean Dunham; Or, the Waterford Mystery"
+  ],
+  "alger-strive-and-succeed": [
+   56207,
+   "Strive and Succeed; or, The Progress of Walter Conrad"
+  ],
+  "alger-berthas-christmas-vision": [
+   56222,
+   "Bertha's Christmas Vision: An Autumn Sheaf",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-frank-hunters-peril": [
+   56602,
+   "Frank Hunter's Peril"
+  ],
+  "alger-tom-temples-career": [
+   56686,
+   "Tom Temple's Career"
+  ],
+  "alger-tony-the-tramp": [
+   56730,
+   "Tony the Tramp; Or, Right is Might"
+  ],
+  "alger-young-book-agent": [
+   56756,
+   "The Young Book Agent; or, Frank Hardy's Road to Success",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-young-salesman": [
+   56798,
+   "The Young Salesman"
+  ],
+  "alger-tom-thatchers-fortune": [
+   56896,
+   "Tom Thatcher's Fortune"
+  ],
+  "alger-adrift-in-the-city": [
+   56973,
+   "Adrift in the City; or, Oliver Conrad's Plucky Fight",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-falling-in-with-fortune": [
+   58304,
+   "Falling in with Fortune; Or, The Experiences of a Young Secretary (completed by Edward Stratemeyer)",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-sink-or-swim": [
+   59517,
+   "Sink or Swim; or, Harry Raymond's Resolve"
+  ],
+  "alger-tony-the-hero": [
+   59904,
+   "Tony, the Hero; Or, A Brave Boy's Adventures with a Tramp"
+  ],
+  "alger-ben-bruce": [
+   60970,
+   "Ben Bruce: Scenes in the Life of a Bowery Newsboy",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-seeking-his-fortune-and-other-dialogues": [
+   64607,
+   "Seeking his fortune, and other dialogues (with O. Augusta Cheney)",
+   {
+    "contents_only": true
+   }
+  ],
+  "alger-nugget-finders": [
+   71174,
+   "The nugget finders",
+   {
+    "contents_only": true
+   }
   ]
  },
  "internet_archive": {},
- "_excluded": {},
+ "_excluded": {
+  "alger-nothing-to-eat": "PG 5868, Nothing to Eat, is shared with Thomas Chandler Haliburton in one small file; not taken",
+  "alger-index-of-the-project-gutenberg-works-of-horatio-alger": "PG 58920 is David Widger's index of the Gutenberg Alger files, not a text",
+  "alger-life-of-edwin-forrest-the-american-tragedian-volume-1": "PG 61348 and 61470, Life of Edwin Forrest, are by William Rounseville Alger, not Horatio",
+  "horatio-alger-repeat-34499": "PG 34499, Mark Mason's Victory: The Trials and Triumphs of a Telegraph Boy: a second transcription of a title already on this shelf"
+ },
  "_checks": {
   "alger-ragged-dick": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "horatio alger jr.",
    "identity": "ok",
@@ -48,9 +588,936 @@
   },
   "alger-tattered-tom": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-paul-prescotts-charge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-cash-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-cast-upon-the-breakers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-errand-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-joe-the-hotel-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-driven-from-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-phil-the-fiddler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-franks-campaign": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-timothy-crumps-ward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-struggling-upward-or-luke-larkins-luck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-young-explorer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-young-musician": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-hectors-inheritance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-do-and-dare-a-brave-boys-fight-for-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-try-and-trust": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-helping-himself": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-bound-to-rise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-walter-sherwoods-probation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-herbert-carters-legacy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-facing-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-brave-and-bold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-store-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-jacks-ward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-only-an-irish-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-risen-from-the-ranks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-joes-luck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-making-his-way": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-andy-grants-pluck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-from-canal-boy-to-president": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-adrift-in-new-york": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-frank-and-fearless": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-young-captain-jack": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-five-hundred-dollars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-randy-of-the-river": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-fame-and-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-young-acrobat-of-the-great-north-american-circus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-from-farm-to-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-young-miner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-chester-rand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-telegraph-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-young-bank-messenger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-slow-and-sure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-bens-nugget": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-rufus-and-rose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-young-outlaw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-sams-chance-and-how-he-improved-it": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-erie-train-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-luke-walton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-in-a-new-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-tom-the-bootblack": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-a-cousins-conspiracy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-tin-box-and-what-it-contained": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-young-adventurer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-ben-the-luggage-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-robert-coverdales-struggle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-mark-masons-victory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-wait-and-hope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-bernard-brooks-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-a-debt-of-honor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-a-boys-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-backwoods-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-andy-gordon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-bob-burton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-adventures-of-a-telegraph-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-mark-the-match-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-digging-for-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-dan-the-newsboy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-from-farm-boy-to-senator-being-the-history-of-the-boyh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-julius-the-street-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-helen-ford": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-nothing-to-do": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-in-search-of-treasure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-grit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-luck-and-pluck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-charlie-codmans-cruise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-jed-the-poorhouse-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-nelson-the-newsboy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-ralph-raymonds-heir": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-ruperts-ambition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-disagreeable-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-out-for-business": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-mark-mannings-mission": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-strong-and-steady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-rough-and-ready": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-making-his-mark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-shifting-for-himself": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-train-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-dean-dunham": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-strive-and-succeed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-berthas-christmas-vision": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-frank-hunters-peril": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-tom-temples-career": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-tony-the-tramp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-young-book-agent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-young-salesman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-tom-thatchers-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-adrift-in-the-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-falling-in-with-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-sink-or-swim": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-tony-the-hero": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-ben-bruce": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-seeking-his-fortune-and-other-dialogues": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger, jr.",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alger-nugget-finders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "horatio alger",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
