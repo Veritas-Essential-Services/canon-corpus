@@ -3759,6 +3759,7 @@ Shelf: `pipeline/william-godwin_shelf.json`. Political Justice (1793) and Though
 
 | Work | Editor | Slug | Status |
 |---|---|---|---|
+| Thoughts on Man, his Nature, Productions and Discoveries (London: Effingham Wilson, 1831) |  | `godwin-thoughts-on-man-1831` | have (PG 743) |
 | An Enquiry Concerning Political Justice, and its Influence on General Virtue and Happiness, vol. I (London: G. G. J. and J. Robinson, 1793) |  | `godwin-political-justice-1793-v1` | have-raw (IA `enquiryconcernin01godw`) |
 | An Enquiry Concerning Political Justice, vol. II (London: G. G. J. and J. Robinson, 1793) |  | `godwin-political-justice-1793-v2` | have-raw (IA `enquiryconcernin02godw`) |
 
