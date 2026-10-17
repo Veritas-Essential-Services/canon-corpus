@@ -1,0 +1,31 @@
+{
+ "_about": "Henry Sidgwick (1838-1900), from Project Gutenberg: The Methods of Ethics, 7th ed. (London: Macmillan, 1907; first edition 1874), the last edition, prepared from his revisions. US public domain. No uids minted.",
+ "_author": "Henry Sidgwick",
+ "_name_words": [
+  "henry",
+  "sidgwick"
+ ],
+ "_surname": [
+  "sidgwick"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sidgwick-methods-of-ethics-1907": [
+   46743,
+   "The Methods of Ethics, 7th ed. (London: Macmillan, 1907)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "sidgwick-methods-of-ethics-1907": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sidgwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
