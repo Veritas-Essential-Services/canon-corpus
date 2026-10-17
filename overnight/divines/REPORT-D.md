@@ -993,3 +993,6 @@
 
 ## 2026-10-17 17:23 CDT — ballantyne: done
 - ballantyne: completed, 86 more Gutenberg books (88 on the shelf), 114,526 units, 58 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:23 CDT — oliver-optic: done
+- oliver-optic: completed, 80 more Gutenberg books (83 on the shelf), 141,694 units, 1325 ~2 ids; verify 0 mismatches, 0 rights flags.

@@ -290,7 +290,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `kalakaua` | 1 Gutenberg | 0 | 2,677 | The Legends and Myths of Hawaii (1888). |
 | `sophie-may` | 5 Gutenberg | 0 | 4,105 | Little Prudy and four sequels (first entered 1864; 1891-92 printings). PG 53306, a later printing of Captain Horace, is held in _excluded. |
 | `jacob-abbott` | 4 Gutenberg | 0 | 3,862 | Rollo at Work, Rollo at Play (1855 revised edition), Rollo's Experiments, Rollo's Museum (both 1839). PG 19195, a Rollo booklet that is 94% Rollo at Play, is held in _excluded. |
-| `oliver-optic` | 3 Gutenberg | 0 | 5,463 | The Boat Club (1896 printing), All Aboard (preface dated 1855), Now or Never (preface dated 1856). |
+| `oliver-optic` | 83 Gutenberg | 0 | 141,694 | Series stories for boys. Completed 2026-10-17: 80 more books added, every English text by Oliver Optic at Gutenberg that no other shelf holds. |
 | `james-cowan` | 1 Gutenberg | 0 | 156 | Maori Folk-Tales of the Port Hills (1923). |
 | `kate-mccosh-clark` | 1 Gutenberg | 0 | 441 | A Southern Cross Fairy Tale (London, 1891). |
 | `ranger-gull` | 1 Gutenberg | 0 | 635 | The Adventures of Ulysses the Wanderer (London, 1902). Gutenberg files it under his pen name Guy Thorne; the title page prints C. Ranger-Gull. |

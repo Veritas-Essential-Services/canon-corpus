@@ -18316,13 +18316,94 @@ Shelf: `pipeline/jacob-abbott_shelf.json` (2026-10-02; added at the coordinator'
 
 ## Oliver Optic
 
-Shelf: `pipeline/oliver-optic_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Boat Club series, its first three books; cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/oliver-optic_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series stories for boys. All 83 of Oliver Optic's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Boat Club; or, The Bunkers of Rippleton | have | PG 24557, `optic-the-boat-club` (2245 units) |
 | All Aboard; or, Life on the Lake | have | PG 15002, `optic-all-aboard` (1604 units) |
 | Now or Never; Or, The Adventures of Bobby Bright | have | PG 14762, `optic-now-or-never` (1614 units) |
+| Poor and Proud; Or, The Fortunes of Katy Redburn: A Story for Young Folks | have | PG 484, `optic-poor-and-proud` (1550 units) |
+| Haste and Waste; Or, the Young Pilot of Lake Champlain. A Story for Young People | have | PG 6572, `optic-haste-and-waste` (1768 units) |
+| The Soldier Boy; or, Tom Somers in the Army: A Story of the Great Rebellion | have | PG 14595, `optic-soldier-boy` (2031 units) |
+| Hatchie, the Guardian Slave; or, The Heiress of Bellevue A Tale of the Mississippi and the South-west | have | PG 14731, `optic-hatchie-the-guardian-slave` (2587 units) |
+| Across India; Or, Live Boys in the Far East | have | PG 15540, `optic-across-india` (1600 units) |
+| Outward Bound Or, Young America Afloat: A Story of Travel and Adventure | have | PG 15920, `optic-outward-bound` (2824 units) |
+| Within The Enemy's Lines | have | PG 18264, `optic-within-the-enemys-lines` (1691 units) |
+| Taken by the Enemy | have | PG 18579, `optic-taken-by-the-enemy` (1897 units) |
+| On The Blockade | have | PG 18617, `optic-on-the-blockade` (1505 units) |
+| A Victorious Union | have | PG 18678, `optic-a-victorious-union` (1582 units) |
+| Fighting for the Right | have | PG 18803, `optic-fighting-for-the-right` (1708 units) |
+| Stand By The Union | have | PG 18816, `optic-stand-by-the-union` (1778 units) |
+| The Birthday Party: A Story for Little Folks | have | PG 21901, `optic-birthday-party` (224 units) |
+| Little By Little; or, The Cruise of the Flyaway | have | PG 22365, `optic-little-by-little` (1507 units) |
+| Breaking Away; or, The Fortunes of a Student | have | PG 22433, `optic-breaking-away` (1768 units) |
+| The Yacht Club; or, The Young Boat-Builder | have | PG 23351, `optic-yacht-club` (2262 units) |
+| Work and Win; Or, Noddy Newman on a Cruise | have | PG 23758, `optic-work-and-win` (1469 units) |
+| The Coming Wave; Or, The Hidden Treasure of High Rock | have | PG 23773, `optic-coming-wave` (1595 units) |
+| Down the Rhine; Or, Young America in Germany | have | PG 24124, `optic-down-the-rhine` (2582 units) |
+| Four Young Explorers; Or, Sight-Seeing in the Tropics | have | PG 24252, `optic-four-young-explorers` (1916 units) |
+| Down the River; Or, Buck Bradford and His Tyrants | have | PG 24283, `optic-down-the-river` (1693 units) |
+| Proud and Lazy: A Story for Little Folks | have | PG 24415, `optic-proud-and-lazy` (869 units) |
+| Desk and Debit; or, The Catastrophes of a Clerk | have | PG 24544, `optic-desk-and-debit` (2179 units) |
+| Down South; or, Yacht Adventure in Florida | have | PG 24554, `optic-down-south` (1357 units) |
+| Field and Forest; Or, The Fortunes of a Farmer | have | PG 24582, `optic-field-and-forest` (1537 units) |
+| Freaks of Fortune; or, Half Round the World | have | PG 24631, `optic-freaks-of-fortune` (1729 units) |
+| Hope and Have; or, Fanny Grant Among the Indians: A Story for Young People | have | PG 24660, `optic-hope-and-have` (1542 units) |
+| In School and Out; or, The Conquest of Richard Grant. | have | PG 24698, `optic-in-school-and-out` (1543 units) |
+| Up the River; or, Yachting on the Mississippi | have | PG 24775, `optic-up-the-river` (1725 units) |
+| A Lieutenant at Eighteen | have | PG 24866, `optic-a-lieutenant-at-eighteen` (2026 units) |
+| Careless Kate: A Story for Little Folks | have | PG 25427, `optic-careless-kate` (224 units) |
+| An Undivided Union (completed by Edward Stratemeyer) | have | PG 25440, `optic-an-undivided-union` (2370 units) |
+| Dolly and I: A Story for Little Folks | have | PG 25444, `optic-dolly-and-i` (181 units) |
+| Little Bobtail; or, The Wreck of the Penobscot. | have | PG 25466, `optic-little-bobtail` (1963 units) |
+| Dikes and Ditches; Or, Young America in Holland and Belgium | have | PG 25485, `optic-dikes-and-ditches` (2255 units) |
+| All Adrift; Or, The Goldwing Club | have | PG 25577, `optic-all-adrift` (1834 units) |
+| Asiatic Breezes; Or, Students on The Wing | have | PG 25620, `optic-asiatic-breezes` (1901 units) |
+| The Young Lieutenant; or, The Adventures of an Army Officer | have | PG 25886, `optic-young-lieutenant` (2388 units) |
+| A Spelling-Book for Advanced Classes | have | PG 26513, `optic-a-spelling-book-for-advanced-classes` (335 units) |
+| Up The Baltic; Or, Young America in Norway, Sweden, and Denmark | have | PG 26653, `optic-up-the-baltic` (2752 units) |
+| Make or Break; or, The Rich Man's Daughter | have | PG 26695, `optic-make-or-break` (1722 units) |
+| Seek and Find; or, The Adventures of a Smart Boy | have | PG 27666, `optic-seek-and-find` (1742 units) |
+| Watch and Wait; or, The Young Fugitives | have | PG 28038, `optic-watch-and-wait` (1557 units) |
+| Try Again; Or, the Trials and Triumphs of Harry West. A Story for Young Folks | have | PG 31065, `optic-try-again` (1700 units) |
+| Brother Against Brother; Or, The War on the Border | have | PG 35206, `optic-brother-against-brother` (2072 units) |
+| Brave Old Salt; or, Life on the Quarter Deck: A Story of the Great Rebellion | have | PG 37907, `optic-brave-old-salt` (2390 units) |
+| In the Saddle | have | PG 40430, `optic-in-the-saddle` (2024 units) |
+| Plane and Plank; or, The Mishaps of a Mechanic | have | PG 44950, `optic-plane-and-plank` (1929 units) |
+| Our Standard-Bearer; Or, The Life of General Uysses S. Grant | have | PG 45118, `optic-our-standard-bearer` (959 units) |
+| Vine and Olive; Or, Young America in Spain and Portugal A Story of Travel and Adventure | have | PG 47423, `optic-vine-and-olive` (2309 units) |
+| Snug Harbor; or, The Champlain Mechanics | have | PG 50678, `optic-snug-harbor` (1607 units) |
+| Living Too Fast; Or, The Confessions of a Bank Officer | have | PG 51067, `optic-living-too-fast` (1765 units) |
+| Square and Compasses; Or, Building the House | have | PG 52351, `optic-square-and-compasses` (1418 units) |
+| Stem to Stern; or, building the boat | have | PG 52978, `optic-stem-to-stern` (1481 units) |
+| Northern Lands; Or, Young America in Russia and Prussia | have | PG 54059, `optic-northern-lands` (2213 units) |
+| All Taut; or, Rigging the boat | have | PG 54945, `optic-all-taut` (1559 units) |
+| Ready About; or, Sailing the Boat | have | PG 55557, `optic-ready-about` (1593 units) |
+| Fighting Joe; Or, The Fortunes of a Staff Officer. A Story of the Great Rebellion | have | PG 59429, `optic-fighting-joe` (2245 units) |
+| On Time; or, Bound to Get There | have | PG 65552, `optic-on-time` (1498 units) |
+| Cringle and cross-tree | have | PG 71482, `optic-cringle-and-cross-tree` (1700 units) |
+| The little merchant | have | PG 72065, `optic-little-merchant` (200 units) |
+| Robinson Crusoe, Jr. | have | PG 72094, `optic-robinson-crusoe-jr` (166 units) |
+| The gold thimble | have | PG 72229, `optic-gold-thimble` (209 units) |
+| Uncle Ben | have | PG 72325, `optic-uncle-ben` (201 units) |
+| The Christmas gift | have | PG 72610, `optic-christmas-gift` (210 units) |
+| Through by daylight | have | PG 73134, `optic-through-by-daylight` (1404 units) |
+| The picnic party | have | PG 73209, `optic-picnic-party` (221 units) |
+| Isles of the sea; or, Young America homeward bound | have | PG 74943, `optic-isles-of-the-sea` (2508 units) |
+| American boys afloat | have | PG 75149, `optic-american-boys-afloat` (2151 units) |
+| Rich and humble | have | PG 76523, `optic-rich-and-humble` (1637 units) |
+| The sailor boy | have | PG 76545, `optic-sailor-boy` (1908 units) |
+| Three millions! | have | PG 76553, `optic-three-millions` (5174 units) |
+| Just his luck | have | PG 76585, `optic-just-his-luck` (2158 units) |
+| Lightning Express | have | PG 76892, `optic-lightning-express` (1679 units) |
+| A millionaire at sixteen | have | PG 77036, `optic-a-millionaire-at-sixteen` (1928 units) |
+| Bear and forbear | have | PG 77177, `optic-bear-and-forbear` (1844 units) |
+| Brake up | have | PG 77372, `optic-brake-up` (1755 units) |
+| In doors and out | have | PG 78710, `optic-in-doors-and-out` (3319 units) |
+| Switch off | have | PG 79562, `optic-switch-off` (1652 units) |
+| Ocean-Born | have | PG 79574, `optic-ocean-born` (2177 units) |
+| oliver-optic-repeat-19473 | excluded | PG 19473, Now or Never; Or, The Adventures of Bobby Bright: a second transcription of a title already on this shelf |
 
 ## James Cowan
 
