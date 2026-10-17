@@ -1,0 +1,97 @@
+{
+ "_about": "Felix Adler (1851-1933), founder of the Ethical Culture movement, clean Gutenberg texts: Creed and Deed (1880), The Moral Instruction of Children (New York: Appleton, 1892), Life and Destiny (London: Watts, 1913), An Ethical Philosophy of Life (New York: Appleton, 1920, copyright 1918), The Punishment of Children (the 1922 reprint of the 1920 first edition) and The Essentials of Spirituality (the etext names no printing). Not Mortimer Adler (adler shelf). US public domain (published before 1931). No uids minted.",
+ "_author": "Felix Adler",
+ "_name_words": [
+  "felix",
+  "adler"
+ ],
+ "_surname": [
+  "adler",
+  "felix adler"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "felix-adler-creed-and-deed-1880": [
+   37697,
+   "Creed and Deed: a series of discourses (1880)"
+  ],
+  "felix-adler-moral-instruction-of-children-1892": [
+   38730,
+   "The Moral Instruction of Children (New York: Appleton, 1892)"
+  ],
+  "felix-adler-life-and-destiny-1913": [
+   57752,
+   "Life and Destiny (London: Watts, 1913)"
+  ],
+  "felix-adler-ethical-philosophy-of-life-1920": [
+   60068,
+   "An Ethical Philosophy of Life presented in its main outlines (New York: Appleton, 1920)"
+  ],
+  "felix-adler-punishment-of-children-1922": [
+   57689,
+   "The Punishment of Children (1920; the March 1922 reprint)"
+  ],
+  "felix-adler-essentials-of-spirituality": [
+   21981,
+   "The Essentials of Spirituality (printing not named)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "felix-adler-creed-and-deed-1880": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "adler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "felix-adler-moral-instruction-of-children-1892": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "adler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "felix-adler-life-and-destiny-1913": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "adler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "felix-adler-ethical-philosophy-of-life-1920": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "adler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "felix-adler-punishment-of-children-1922": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "adler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "felix-adler-essentials-of-spirituality": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "adler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
