@@ -4916,3 +4916,16 @@ Slugs `suso-*`. Translators: Thomas Francis Knox, Richard Raby.
 | Knox's Life, 1865 scan (lifeofblessedhen00seus) and Methuen's 1913 edition with Inge's introduction | alternate | not shelved |
 | Bevan's anthologies and The Three Friends of God (about him) | excluded | |
 | Clark's 1953 translation catalogued 1817, and editions of 1952-1962 | excluded | |
+
+## Meister Eckhart (round 24, my pick, 2026-10-17)
+
+Slugs `eckhart-*`. Translators: Claud Field, C. de B. Evans (vol. I, 1924; vol. II is 1931 and out of range).
+
+| Work | Status | Where |
+|---|---|---|
+| Meister Eckhart's Sermons, tr. Claud Field (London: H. R. Allenson; no year, catalogued 1909) | have-clean | CCEL eckhart/sermons |
+| Meister Eckhart, by Franz Pfeiffer, translation by C. de B. Evans, vol. I (London: John M. Watkins, 1924) | have-ocr | IA `bwb_S0-BSM-411` |
+| in.ernet.dli.2015.31707: Evans vol. I, no year in the OCR | alternate | not shelved |
+| Evans's second impression (1947) and vol. II (1931, 1952), both catalogued 1924 | excluded | |
+| annaliuniversal126unkngoog, an Italian medical journal catalogued as Eckhart | excluded | |
+| CCEL eckhart/mystische (Landauer, Berlin 1903) and other German editions | excluded | |
