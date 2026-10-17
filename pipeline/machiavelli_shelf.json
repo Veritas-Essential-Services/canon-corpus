@@ -1,0 +1,98 @@
+{
+ "_about": "Niccolò Machiavelli (1469-1527) in English: Christian E. Detmold's The Historical, Political, and Diplomatic Writings (Boston: James R. Osgood, 1882, 4 vols.), raw IA OCR (Toronto); and the History of Florence from Gutenberg (a 1901 Universal Classics Library printing, New York; translator not named in the book, introduction by Hugo Albert Rennert). The Prince is held on the Adler shelf (Marriott, PG 1232) and singles-ideas-3 (Ricci), and Thomson's Discourses on singles-ideas; none is taken again. No uids minted.",
+ "_author": "Niccolò Machiavelli",
+ "_name_words": [
+  "niccolo",
+  "niccolò",
+  "machiavelli",
+  "machiavel"
+ ],
+ "_surname": [
+  "machiavelli"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "machiavelli-detmold-writings-1882-v1": [
+   "diplomaticwritin01machuoft",
+   "The Historical, Political, and Diplomatic Writings of Niccolò Machiavelli, vol. I (Boston: James R. Osgood, 1882)",
+   "tr. Christian E. Detmold"
+  ],
+  "machiavelli-detmold-writings-1882-v2": [
+   "diplomaticwritin02machuoft",
+   "The Historical, Political, and Diplomatic Writings of Niccolò Machiavelli, vol. II (Boston: James R. Osgood, 1882)",
+   "tr. Christian E. Detmold"
+  ],
+  "machiavelli-detmold-writings-1882-v3": [
+   "diplomaticwritin03machuoft",
+   "The Historical, Political, and Diplomatic Writings of Niccolò Machiavelli, vol. III (Boston: James R. Osgood, 1882)",
+   "tr. Christian E. Detmold"
+  ],
+  "machiavelli-detmold-writings-1882-v4": [
+   "diplomaticwritin04machuoft",
+   "The Historical, Political, and Diplomatic Writings of Niccolò Machiavelli, vol. IV (Boston: James R. Osgood, 1882)",
+   "tr. Christian E. Detmold"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "machiavelli-detmold-writings-1882-v1": "Detmold",
+  "machiavelli-detmold-writings-1882-v2": "Detmold",
+  "machiavelli-detmold-writings-1882-v3": "Detmold",
+  "machiavelli-detmold-writings-1882-v4": "Detmold"
+ },
+ "_checks": {
+  "machiavelli-detmold-writings-1882-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "machiavelli",
+   "translator_claimed": "Detmold",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "machiavelli-detmold-writings-1882-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "machiavelli",
+   "translator_claimed": "Detmold",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "machiavelli-detmold-writings-1882-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "machiavelli",
+   "translator_claimed": "Detmold",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "machiavelli-detmold-writings-1882-v4": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "machiavelli",
+   "translator_claimed": "Detmold",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
