@@ -89,16 +89,32 @@ So for now it is handled like the STEPBible lexicons: fetched into the
 gitignored corpus, built locally, `redistribute_whole: false` in the manifest,
 nothing of its text committed. The committed key holds no Latin text.
 
-The alternative, under way: a fully public-domain Latin witness OCR'd from a
-printed edition on the Internet Archive (the *editio altera Romana*, Rome 1894,
-6 vols., `summatheologicae000Nthom`), keyed the same way. It also supplies the
-Supplement, which Corpus Thomisticum lacks. It will be raw OCR and will say so.
+### The public-domain Latin: the 1894 Roman edition (built 2026-10-17)
+
+`aquinas-st-la1894`: the *editio altera Romana* (Rome: Forzani, 1894), from the
+Internet Archive's OCR of vols. 1-5 (`summatheologicae0001thom`..`0005thom`;
+vol. 6 is the index). `pipeline/aquinas_st_1894.py` cuts it by the edition's
+own words: *Ad secundum sic proceditur* opens article 2 and names it, so a
+misread ARTICULUS heading is overruled and an article 1 after a later article
+means a lost QUAESTIO heading. *Praeterea*, *Sed contra*, *Respondeo*, *Ad
+primum ergo dicendum* cut the parts. Its Appendix, printed as Suppl. q.100-102,
+is renamed to App. II q.1, App. I q.2, App. I q.1 by title.
+
+- 3,109 articles carry it, **including the whole Supplement and Appendix**:
+  every English article now has a Latin beside it except 2.
+- Each part is checked against the Leonine part of the same key (word
+  overlap; median 0.97). The 192 parts under 0.5 are listed in the key row as
+  `la1894_doubtful` and flagged in the parallel file. Most sit in I q.12-14,
+  where a lost heading shifts a run of articles.
+- It is unproofread OCR and a pre-Leonine text; the manifest says both.
+- Key rows: `la1894` (its parts), `status_1894` (against the English).
 
 ## Commands
 
     python3 pipeline/fetch_corpus_thomisticum.py      # Latin pages (resumable, 1 req/s)
     python3 pipeline/ingest_summa_supplement.py       # fetches CCEL summa.xml if missing
     python3 pipeline/ingest_adler.py                  # the Gutenberg Summa the key points into
+    python3 pipeline/aquinas_st_1894.py --fetch       # the 1894 OCR volumes
     python3 pipeline/build_aquinas_st.py              # books + parallel file + key
     python3 pipeline/build_aquinas_st.py --check      # key byte-identical
     python3 tests/aquinas_test.py                     # offline checks

@@ -1671,7 +1671,7 @@
    "redistribute_whole": true
   },
   "builder": "pipeline/build_aquinas_st.py",
-  "note": "The same translation as the Gutenberg books aquinas-summa, -1-2, -2-2, -3 and aquinas-summa-supp, which keep their own ids; this book re-cuts CCEL's text at the article part so it can stand beside the Latin. 2669 of 3125 articles have a Latin witness. Scripture references are recorded as the source tagged them (Vulgate versification, resolved: false)."
+  "note": "The same translation as the Gutenberg books aquinas-summa, -1-2, -2-2, -3 and aquinas-summa-supp, which keep their own ids; this book re-cuts CCEL's text at the article part so it can stand beside the Latin. 2669 of 3133 articles have a Latin witness. Scripture references are recorded as the source tagged them (Vulgate versification, resolved: false)."
  },
  "aquinas-st-la": {
   "title": "Summa Theologiae (Latin, Leonine text via Corpus Thomisticum), keyed by article",
@@ -1697,5 +1697,27 @@
   },
   "builder": "pipeline/build_aquinas_st.py",
   "note": "No Supplement: Corpus Thomisticum prints the Supplement's source (Scriptum super Sententiis IV), not the Supplement itself."
+ },
+ "aquinas-st-la1894": {
+  "title": "Summa Theologiae (Latin, editio altera Romana, Rome: Forzani 1894), keyed by article; raw OCR",
+  "author": "Thomas Aquinas",
+  "format": "ia-djvu-ocr",
+  "sha256": "9f1aac6338c8892aba9ae408594381cbf4a55045630966cc91d135fea6720b7f",
+  "units": 29772,
+  "scheme": {
+   "citation": "Thomist citation: part, question, article, part of the article (I.q2.a3.co = ST I q.2 a.3 co.)",
+   "resolution": "part of the article (objection, sed contra, respondeo, reply)",
+   "honesty": "UNPROOFREAD OCR (the Internet Archive's text layer), cut by pipeline/aquinas_st_1894.py from the edition's own headings and formulas (Ad secundum sic proceditur, Praeterea, Sed contra, Respondeo, Ad primum ergo dicendum). Each part is checked against the Leonine part of the same key: 192 parts share under half their words with it and are listed as la1894_doubtful in the key file. A pre-Leonine text: its readings differ from the Leonine's by design",
+   "key_file": "data/aquinas/st-key.jsonl",
+   "parallel_with": "aquinas-st-en"
+  },
+  "source": "https://archive.org/details/summatheologicae0001thom, summatheologicae0002thom, summatheologicae0003thom, summatheologicae0004thom, summatheologicae0005thom",
+  "rights": {
+   "license": "public-domain",
+   "basis": "printed Rome 1894; US public domain",
+   "redistribute_whole": true
+  },
+  "builder": "pipeline/build_aquinas_st.py (parser: pipeline/aquinas_st_1894.py)",
+  "note": "The fully public-domain Latin witness, and the only Latin of the Supplement here. 3109 articles carry it."
  }
 }

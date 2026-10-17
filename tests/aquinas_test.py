@@ -80,5 +80,66 @@ check("key: both", rows["I.q2.a3"]["status"] == "both")
 check("key: parts-differ", rows["I.q2.a4"]["status"] == "parts-differ")
 check("key: la-only", rows["I.q2.a5"]["status"] == "la-only")
 
+# --- the 1894 OCR witness: headings, formulas, a lost QUAESTIO heading, a running head
+import aquinas_st_1894 as o
+OCR = """QUAESTIO  I.
+
+DE  SACRA  DOCTRINA.
+
+1.  Utrum  sit  necessarium.
+
+ARTICULUS  I.
+
+UTRUM  SIT  NECESSARIUM.
+
+(22.  q.  2.  art.  3.
+Et  ver.  q.  14.  art.  11.).
+
+Ad  primum  sic  proceditur.  Videtur,  quod  non  sit  neces¬
+sarium.
+
+2.  Praeterea.  Doctrina  non  potest  esse  nisi  de  ente.
+
+Sed  contra  est,  quod  dicitur.
+
+28  QUAESTIO  I.  ARTICULUS  I.
+
+Respondeo  dicendum,  quod  necessarium  fuit.
+
+Ad  primum  ergo  dicendum,  quod  licet.
+
+Ad  secundum  dicendum,  quod  diversa.
+
+ARTICULUS  II.
+
+UTRUM  SACRA  DOCTRINA  SIT  SCIENTIA.
+
+Ad  secundum  sic  proceditur.  Videtur,  quod  non.
+
+Respondeo  dicendum,  sacram  doctrinam  esse  scientiam.
+
+Et  per  hoc  patet  responsio  ad  objecta.
+
+ARTICULUS  I.
+
+UTRUM  DEUS  SIT.
+
+Ad  primum  sic  proceditur.  Videtur,  quod  Deus  non  sit.
+
+Respondeo  dicendum,  quod  Deum  esse  quinque  modis  probari  potest.
+"""
+with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as f:
+    f.write(OCR)
+ou = {u["key"]: u["text"] for u in o.parse_volume("I", f.name)}
+os.unlink(f.name)
+check("1894: title and cross-references stay on the title row", "Et ver. q. 14" in ou.get("I.q1.a1", ""))
+check("1894: hyphenation sign rejoined", ou.get("I.q1.a1.arg1", "").endswith("non sit necessarium."))
+check("1894: Praeterea is the next objection", "I.q1.a1.arg2" in ou)
+check("1894: running head dropped", "QUAESTIO" not in ou.get("I.q1.a1.co", "") and "I.q1.a1.co" in ou)
+check("1894: replies by their ordinal", "I.q1.a1.ad2" in ou)
+check("1894: 'responsio ad objecta' is ad-sc", "I.q1.a2.ad-sc" in ou)
+check("1894: article 1 after article 2 means a lost QUAESTIO heading", "I.q2.a1.co" in ou)
+check("overlap of near-identical Latin is high", o.overlap("Respondeo dicendum quod Deum esse", "Respondeo dicendum, quod Deum esse") > 0.9)
+
 print(f"\n{len(FAILS)} failed" if FAILS else "\nall passed")
 sys.exit(1 if FAILS else 0)

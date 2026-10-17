@@ -36,6 +36,10 @@ Outputs:
 """
 import hashlib, html, json, os, re, sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from aquinas_st_1894 import parse_1894, overlap, VOLS as VOLS_1894, DIR as DIR_1894
+import aquinas_st_1894
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, "..")
 EN_SRC = os.path.join(ROOT, "data", "corpus", "ccel", "aquinas-summa-full.xml")
@@ -380,8 +384,19 @@ def akey_of(key):
     m = re.match(r"([^.]+\.q\d+\.a\d+|[^.]+\.q\d+\.pr|[^.]+\.pr)", key)
     return m.group(1) if m else key
 
-def build_key(en_units, la_units, titles, pg=None):
-    en_by, la_by = {}, {}
+def build_key(en_units, la_units, titles, pg=None, o_units=None):
+    """o_units: the 1894 OCR witness. Each of its parts is checked against the
+    Leonine part of the same key; one sharing under half its words is listed
+    under la1894_doubtful (a mis-cut or very bad OCR), never counted aligned."""
+    en_by, la_by, o_by = {}, {}, {}
+    la_text = {u["key"]: u.get("text", "") for u in la_units}
+    doubt = {}
+    for u in (o_units or []):
+        ak = akey_of(u["key"])
+        seg = u["key"][len(ak) + 1:]
+        o_by.setdefault(ak, []).append(seg)
+        if seg and u["key"] in la_text and overlap(u["text"], la_text[u["key"]]) < 0.5:
+            doubt.setdefault(ak, []).append(seg)
     for u in en_units:
         en_by.setdefault(akey_of(u["key"]), []).append(u["key"][len(akey_of(u["key"])) + 1:])
     for u in la_units:
@@ -397,10 +412,12 @@ def build_key(en_units, la_units, titles, pg=None):
     for k, v in (pg or {}).items():
         pg_ids.setdefault(akey_of(k), []).extend(v)
     rows = []
-    for ak in sorted(set(en_by) | set(la_by), key=order):
+    for ak in sorted(set(en_by) | set(la_by) | set(o_by), key=order):
         e = sorted({s for s in en_by.get(ak, []) if s}, key=lambda s: (seg_sort(s.split("~")[0]), s))
         l = sorted({s for s in la_by.get(ak, []) if s}, key=seg_sort)
-        if ak not in la_by:
+        if ak not in la_by and ak not in en_by:
+            status = "la1894-only"
+        elif ak not in la_by:
             status = "en-only"
         elif ak not in en_by:
             status = "la-only"
@@ -420,6 +437,14 @@ def build_key(en_units, la_units, titles, pg=None):
             row["title_en"] = titles.get(ak, "")
             row["en"] = e
             row["la"] = l
+        if o_units is not None and ak in o_by:
+            o = sorted({x for x in o_by[ak] if x}, key=lambda s: (seg_sort(s.split("~")[0]), s))
+            if not ak.endswith(".pr"):
+                row["la1894"] = o
+                if ak in en_by:
+                    row["status_1894"] = "both" if o == e else "parts-differ"
+            if ak in doubt:
+                row["la1894_doubtful"] = sorted(doubt[ak], key=lambda s: (seg_sort(s.split("~")[0]), s))
         rows.append(row)
     return rows
 
@@ -446,7 +471,8 @@ def main(argv):
     if unknown:
         print(f"WARNING: {len(unknown)} Latin paragraphs with a title the key cannot read, e.g. {unknown[:5]}")
     pg = gutenberg_map()
-    rows = build_key(en_units, la_units, titles, pg)
+    o_units = parse_1894()
+    rows = build_key(en_units, la_units, titles, pg, o_units)
     text = dump_key(rows)
     if check:
         old = open(KEY_OUT, encoding="utf-8").read()
@@ -460,25 +486,30 @@ def main(argv):
                 "Thomas Aquinas (tr. Fathers of the English Dominican Province)", en_units, "en")
     la_b = book("aquinas-st-la", "Summa Theologiae (Latin, Leonine text via Corpus Thomisticum), keyed by article",
                 "Thomas Aquinas", la_units, "la")
+    o_b = book("aquinas-st-la1894", "Summa Theologiae (Latin, editio altera Romana, Rome: Forzani 1894), keyed by article; raw OCR",
+               "Thomas Aquinas", o_units, "la")
     la_by = {u["key"]: u for u in la_b["units"]}
     en_by = {u["key"]: u for u in en_b["units"]}
+    o_by = {u["key"]: u for u in o_b["units"]}
     par = []
     for r in rows:
         ak = r["key"]
-        segs = [""] if ak.endswith(".pr") else [""] + sorted(set(r.get("en", [])) | set(r.get("la", [])),
+        segs = [""] if ak.endswith(".pr") else [""] + sorted(set(r.get("en", [])) | set(r.get("la", [])) | set(r.get("la1894", [])),
                                                              key=lambda s: (seg_sort(s.split("~")[0]), s))
         for s in segs:
             k = ak if s == "" else f"{ak}.{s}"
-            e, l = en_by.get(k), la_by.get(k)
-            if not e and not l:
+            e, l, o = en_by.get(k), la_by.get(k), o_by.get(k)
+            if not e and not l and not o:
                 continue
             par.append({"key": k, "ref": ref_of(k.split("~")[0]),
                         "en": e["text"] if e else None, "la": l["text"] if l else None,
+                        "la1894": o["text"] if o else None,
+                        "la1894_doubtful": bool(o and s in r.get("la1894_doubtful", [])),
                         "pg_en": pg.get(k, [])})
-    for b in (en_b, la_b):
+    for b in (en_b, la_b, o_b):
         write_atomic(os.path.join(BOOKS, b["slug"] + ".json"), json.dumps(b, ensure_ascii=False))
     write_atomic(os.path.join(BOOKS, "aquinas-st.parallel.json"), json.dumps(par, ensure_ascii=False))
-    update_manifest(en_b, la_b, rows)
+    update_manifest(en_b, la_b, rows, o_b)
     from collections import Counter
     c = Counter(r["status"] for r in rows)
     print(f"en units {len(en_b['units'])}, la units {len(la_b['units'])}, key rows {len(rows)}: {dict(c)}")
@@ -487,7 +518,7 @@ def main(argv):
 def sha(path):
     return hashlib.sha256(open(path, "rb").read()).hexdigest()
 
-def update_manifest(en_b, la_b, rows):
+def update_manifest(en_b, la_b, rows, o_b):
     m = json.load(open(MANIFEST, encoding="utf-8"))
     arts = [r for r in rows if not r["key"].endswith(".pr")]
     both = sum(1 for r in arts if r["status"] in ("both", "parts-differ"))
@@ -519,6 +550,18 @@ def update_manifest(en_b, la_b, rows):
                    "pending": "Adam's ruling: docs/AQUINAS.md, The Latin question"},
         "builder": "pipeline/build_aquinas_st.py",
         "note": "No Supplement: Corpus Thomisticum prints the Supplement's source (Scriptum super Sententiis IV), not the Supplement itself."}
+    o_parts = [r for r in rows if "la1894" in r]
+    n_doubt = sum(len(r.get("la1894_doubtful", [])) for r in rows)
+    m["aquinas-st-la1894"] = {
+        "title": o_b["title"], "author": o_b["author"], "format": "ia-djvu-ocr",
+        "sha256": hashlib.sha256("".join(sha(os.path.join(DIR_1894, v + ".txt")) for v in VOLS_1894.values()).encode()).hexdigest(),
+        "units": len(o_b["units"]),
+        "scheme": {**scheme, "parallel_with": "aquinas-st-en",
+                   "honesty": f"UNPROOFREAD OCR (the Internet Archive's text layer), cut by pipeline/aquinas_st_1894.py from the edition's own headings and formulas (Ad secundum sic proceditur, Praeterea, Sed contra, Respondeo, Ad primum ergo dicendum). Each part is checked against the Leonine part of the same key: {n_doubt} parts share under half their words with it and are listed as la1894_doubtful in the key file. A pre-Leonine text: its readings differ from the Leonine's by design"},
+        "source": "https://archive.org/details/" + ", ".join(VOLS_1894.values()),
+        "rights": {"license": "public-domain", "basis": "printed Rome 1894; US public domain", "redistribute_whole": True},
+        "builder": "pipeline/build_aquinas_st.py (parser: pipeline/aquinas_st_1894.py)",
+        "note": f"The fully public-domain Latin witness, and the only Latin of the Supplement here. {len(o_parts)} articles carry it."}
     write_atomic(MANIFEST, json.dumps(m, ensure_ascii=False, indent=1) + "\n")
 
 if __name__ == "__main__":
