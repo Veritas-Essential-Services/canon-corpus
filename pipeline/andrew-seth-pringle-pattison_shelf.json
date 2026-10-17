@@ -1,0 +1,38 @@
+{
+ "_about": "Andrew Seth, later Pringle-Pattison (1856-1931), raw IA OCR (Google scan): Hegelianism and Personality, second series of Balfour Lectures, second edition (Edinburgh: Blackwood, 1893). US public domain. No uids minted.",
+ "_author": "Andrew Seth (Pringle-Pattison)",
+ "_name_words": [
+  "andrew",
+  "seth",
+  "pringle",
+  "pattison",
+  "a"
+ ],
+ "_surname": [
+  "seth",
+  "andrew seth",
+  "pringle-pattison"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "seth-hegelianism-and-personality-1893": [
+   "hegelianismandp02patgoog",
+   "Hegelianism and Personality, second edition (Edinburgh: Blackwood, 1893)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "seth-hegelianism-and-personality-1893": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "seth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
