@@ -3705,8 +3705,7 @@ Shelf: `pipeline/lotze_shelf.json`. Hermann Lotze (1817-1881) in English, raw IA
 | Outlines of Logic and of Encyclopedia of Philosophy: dictated portions of the lectures (Boston: Ginn, 1887) | George T. Ladd | `lotze-ladd-logic-1887` | have-raw (IA `outlinesoflogic00lotzuoft`) |
 | Outlines of the Philosophy of Religion: dictated portions of the lectures (Boston: Ginn, 1903 printing; first published 1885) | George T. Ladd | `lotze-ladd-philosophy-of-religion-1903` | have-raw (IA `outlinesofphilos00lotz`) |
 | Outlines of Metaphysic, dictated portions of the lectures (Boston: Ginn, Heath, 1884) | George T. Ladd | `lotze-ladd-outlines-of-metaphysic-1884` | have-raw (IA `outlinesofmetaph00lotzrich`) |
-
-Pending (wishlist): Ladd's Outlines of Aesthetics (1886)
+| Outlines of Aesthetics, dictated portions of the lectures (Boston: Ginn, 1886) | George T. Ladd | `lotze-ladd-outlines-of-aesthetics-1886` | have-raw (IA `outlinesofaesthe00lotzuoft`) |
 
 ## Comte in English
 
@@ -3738,8 +3737,7 @@ Shelf: `pipeline/john-stuart-mill_shelf.json`. On Liberty and Utilitarianism are
 | An Examination of Sir William Hamilton's Philosophy, vol. I (Boston: William V. Spencer, 1865) |  | `mill-examination-of-hamilton-1865-v1` | have-raw (IA `anexaminationofs01millrich`) |
 | An Examination of Sir William Hamilton's Philosophy, vol. II (Boston: William V. Spencer, 1865) |  | `mill-examination-of-hamilton-1865-v2` | have-raw (IA `anexaminationsi06millgoog`) |
 | Three Essays on Religion: Nature, the Utility of Religion, and Theism (New York: Henry Holt, 1874) |  | `mill-three-essays-on-religion-1874` | have-raw (IA `cu31924020335620`) |
-
-Pending (wishlist): Principles of Political Economy in a dated printing
+| Principles of Political Economy, with some of their applications to social philosophy (London: George Routledge, 1900) |  | `mill-principles-of-political-economy-1900` | have-raw (IA `principlesofpoli00milliala`) |
 
 ## Herbert Spencer
 
@@ -3758,8 +3756,9 @@ Shelf: `pipeline/herbert-spencer_shelf.json`. First Principles (Appleton, 1900),
 | The Principles of Biology, revised and enlarged edition, vol. II (New York: D. Appleton, 1899 edition, 1901 printing) |  | `spencer-principles-of-biology-rev-v2` | have-raw (IA `principlesofbiol02spenuoft`) |
 | The Principles of Ethics, vol. I (New York: D. Appleton, copyright 1892-1902; 1904 printing) |  | `spencer-principles-of-ethics-v1` | have-raw (IA `principlesofethi01speniala`) |
 | The Principles of Ethics, vol. II (New York: D. Appleton; 1906 printing) |  | `spencer-principles-of-ethics-v2` | have-raw (IA `principlesofethi02speniala`) |
-
-Pending (wishlist): The Principles of Sociology (3 vols) in a matched printing
+| The Principles of Sociology, vol. I (New York: D. Appleton; 1906 printing) |  | `spencer-principles-of-sociology-v1` | have-raw (IA `principlessocio30spengoog`) |
+| The Principles of Sociology, vol. II (New York: D. Appleton, 1897) |  | `spencer-principles-of-sociology-v2` | have-raw (IA `principlesofsoci02spen_0`) |
+| The Principles of Sociology, vol. III (New York: D. Appleton, 1897) |  | `spencer-principles-of-sociology-v3` | have-raw (IA `prinsocial03spenuoft`) |
 
 ## William Godwin
 
@@ -3892,8 +3891,8 @@ Shelf: `pipeline/bernard-bosanquet_shelf.json`. His own works; his Lotze and Heg
 | A History of Aesthetic (London: Swan Sonnenschein, 1892) |  | `bosanquet-history-of-aesthetic-1892` | have-raw (IA `historyofsthetic00bosa`) |
 | Knowledge and Reality, a criticism of Mr. F. H. Bradley's Principles of Logic (London: Kegan Paul, Trench, 1885) |  | `bosanquet-knowledge-and-reality-1885` | have-raw (IA `knowledgereality00bosa`) |
 | The Principle of Individuality and Value, Gifford Lectures for 1911 (London: Macmillan, 1912) |  | `bosanquet-individuality-and-value-1912` | have-raw (IA `principleofind00bosauoft`) |
-
-Pending (wishlist): Logic, or the Morphology of Knowledge (1888)
+| Logic, or the Morphology of Knowledge, 2nd ed., vol. I (Oxford: Clarendon Press, 1911) |  | `bosanquet-logic-2nd-ed-1911-v1` | have-raw (IA `logicormorpholog01bosaiala`) |
+| Logic, or the Morphology of Knowledge, 2nd ed., vol. II (Oxford: Clarendon Press, 1911) |  | `bosanquet-logic-2nd-ed-1911-v2` | have-raw (IA `logicormorpholog02bosaiala`) |
 
 ## Ralph Cudworth
 
@@ -3954,8 +3953,9 @@ Shelf: `pipeline/john-dewey_shelf.json`. Sixteen works, 1888-1922, US public dom
 | Reconstruction in Philosophy (New York: Henry Holt, 1920) |  | `dewey-reconstruction-in-philosophy-1920` | have (PG 40089) |
 | Human Nature and Conduct: an introduction to social psychology (New York: Henry Holt, 1922) |  | `dewey-human-nature-and-conduct-1922` | have (PG 41386) |
 | Ethics, by John Dewey and James H. Tufts, American Science Series (New York: Henry Holt, 1909; copyright 1908) |  | `dewey-tufts-ethics-1909` | have-raw (IA `ethicsdew00deweuoft`) |
+| The Child and the Curriculum (Chicago: University of Chicago Press; published 1902, this the 25th impression, 1930) |  | `dewey-child-and-the-curriculum-1930` | have-raw (IA `childcurriculum00dewe`) |
 
-Pending (wishlist): The Child and the Curriculum and The Public and its Problems in pre-1930 printings.
+Pending (wishlist): The Public and its Problems (1927) in a pre-1931 printing
 
 ## George Santayana
 
@@ -4516,8 +4516,7 @@ Shelf: `pipeline/friedrich-paulsen_shelf.json`. Introduction to Philosophy (1924
 |---|---|---|---|
 | Introduction to Philosophy, second American edition (New York: Holt; copyright 1895, printed 1924) | Frank Thilly | `paulsen-thilly-introduction-to-philosophy-1924` | have-raw (IA `introductiontop03paulgoog`) |
 | Immanuel Kant, his life and doctrine (New York: Scribner, 1902) | J. E. Creighton and Albert Lefevre | `paulsen-creighton-lefevre-immanuel-kant-1902` | have-raw (IA `immanuelkant00pauluoft`) |
-
-Pending (wishlist): A System of Ethics, tr. Thilly (1899), in a scan with a legible year
+| A System of Ethics, from the fourth revised and enlarged edition (London: Kegan Paul, Trench, Trübner, 1899) | Frank Thilly | `paulsen-thilly-system-of-ethics-1899` | have-raw (IA `asystemofethics00pauluoft`) |
 
 ## Christoph Sigwart in English
 
@@ -4636,8 +4635,7 @@ Shelf: `pipeline/john-fiske-philosophy_shelf.json`. Outlines of Cosmic Philosoph
 | Life Everlasting (Boston: Houghton Mifflin, 1901) |  | `fiske-life-everlasting-1901` | have (PG 34569) |
 | Outlines of Cosmic Philosophy, vol. I (Boston: James R. Osgood, 1875) |  | `fiske-outlines-of-cosmic-philosophy-1875-v1` | have-raw (IA `outlinesofcosmic01fisk_1`) |
 | Outlines of Cosmic Philosophy, vol. II (London: Macmillan, 1874) |  | `fiske-outlines-of-cosmic-philosophy-1874-v2` | have-raw (IA `outlinescosmicp02unkngoog`) |
-
-Pending (wishlist): The Destiny of Man (1884): PG 17239 has no plain-text file
+| The Destiny of Man viewed in the light of his origin, 15th ed. (Boston: Houghton Mifflin, 1890) |  | `fiske-destiny-of-man-1890` | have-raw (IA `thedestinyofmanv00fiskuoft`) |
 
 ## Noah Porter
 

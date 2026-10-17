@@ -1,5 +1,5 @@
 {
- "_about": "Herbert Spencer (1820-1903), raw IA OCR: First Principles, in the final revised (6th) edition (New York: D. Appleton, 1900; copyright 1864, 1899), the opening volume of his Synthetic Philosophy; and from Project Gutenberg The Data of Ethics (Burt reprint, undated, preface 1879) and the three-volume library edition of the Essays (Williams and Norgate, 1891). Added in round ad: The Principles of Psychology, vol. I (New York: D. Appleton, 1905); The Principles of Psychology, vol. II (New York: D. Appleton, 1905); The Principles of Biology, revised and enlarged edition, vol. I (New York: D. Appleton, 1898 edition, 1904 printing); The Principles of Biology, revised and enlarged edition, vol. II (New York: D. Appleton, 1899 edition, 1901 printing); The Principles of Ethics, vol. I (New York: D. Appleton, copyright 1892-1902; 1904 printing); The Principles of Ethics, vol. II (New York: D. Appleton; 1906 printing). US public domain. Not taken: firstprinciple00spen (no title page in the scan). No uids minted.",
+ "_about": "Herbert Spencer (1820-1903), raw IA OCR: First Principles, in the final revised (6th) edition (New York: D. Appleton, 1900; copyright 1864, 1899), the opening volume of his Synthetic Philosophy; and from Project Gutenberg The Data of Ethics (Burt reprint, undated, preface 1879) and the three-volume library edition of the Essays (Williams and Norgate, 1891). Added in round ad: The Principles of Psychology, vol. I (New York: D. Appleton, 1905); The Principles of Psychology, vol. II (New York: D. Appleton, 1905); The Principles of Biology, revised and enlarged edition, vol. I (New York: D. Appleton, 1898 edition, 1904 printing); The Principles of Biology, revised and enlarged edition, vol. II (New York: D. Appleton, 1899 edition, 1901 printing); The Principles of Ethics, vol. I (New York: D. Appleton, copyright 1892-1902; 1904 printing); The Principles of Ethics, vol. II (New York: D. Appleton; 1906 printing). Added in round ae: The Principles of Sociology, vol. I (New York: D. Appleton; 1906 printing); The Principles of Sociology, vol. II (New York: D. Appleton, 1897); The Principles of Sociology, vol. III (New York: D. Appleton, 1897). US public domain. Not taken: firstprinciple00spen (no title page in the scan). No uids minted.",
  "_author": "Herbert Spencer",
  "_name_words": [
   "herbert",
@@ -55,6 +55,18 @@
   "spencer-principles-of-ethics-v2": [
    "principlesofethi02speniala",
    "The Principles of Ethics, vol. II (New York: D. Appleton; 1906 printing)"
+  ],
+  "spencer-principles-of-sociology-v1": [
+   "principlessocio30spengoog",
+   "The Principles of Sociology, vol. I (New York: D. Appleton; 1906 printing)"
+  ],
+  "spencer-principles-of-sociology-v2": [
+   "principlesofsoci02spen_0",
+   "The Principles of Sociology, vol. II (New York: D. Appleton, 1897)"
+  ],
+  "spencer-principles-of-sociology-v3": [
+   "prinsocial03spenuoft",
+   "The Principles of Sociology, vol. III (New York: D. Appleton, 1897)"
   ]
  },
  "_excluded": {},
@@ -169,6 +181,39 @@
    "identity": "ok",
    "ia_rights": "ok: published 1904",
    "ia_date": "1904-06 [1902]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spencer-principles-of-sociology-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spencer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spencer-principles-of-sociology-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spencer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spencer-principles-of-sociology-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spencer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
