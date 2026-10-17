@@ -5275,6 +5275,19 @@ Slugs `angela-*`. Translator: Steegmann.
 | Another copy of the 1909 Steegmann edition | alternate | not shelved |
 | Thorold's Essay in Aid of the Better Appreciation of Catholic Mysticism (1900): an essay about her with excerpts | alternate | not shelved |
 | Modern retypesets; French and Italian editions | excluded | |
+
+## Gertrude the Great (round 25, my pick, 2026-10-17)
+
+Slugs `gertrude-*`. No translator named on either title page; both are undated, dated by their front matter (1863, 1865-1870).
+
+| Work | Status | Where |
+|---|---|---|
+| The Life and Revelations of Saint Gertrude, Virgin and Abbess, new edition (London: Burns & Oates, Limited; letter dated 1870) | have-ocr | IA `thelifeandrevela00gertuoft` |
+| The Exercises of Saint Gertrude, translated from Dom Guéranger's edition (London: Burns and Lambert; translator's note dated 1863) | have-ocr | IA `exercisessaintg00gertgoog` |
+| The Exercises of St. Gertrude, tr. Thomas Alder Pope (Burns Oates and Washbourne, imprimatur 1921) | alternate | not shelved |
+| Preces Gertrudianae: prayers compiled from Gertrude and Mechtilde (Burns and Lambert, undated) | alternate | not shelved |
+| The Spirit of St. Gertrude (a compilation) and works about her (1888, 1911, 1913) | excluded | |
+| MN5141ucmf_0: Burns Oates & Washbourne, undated | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
