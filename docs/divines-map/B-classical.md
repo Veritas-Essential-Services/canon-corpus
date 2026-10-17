@@ -3546,6 +3546,8 @@ Shelf: `pipeline/kant_shelf.json`. Immanuel Kant (1724-1804) in English, transla
 | Religion within the Boundary of Pure Reason (Edinburgh: Thomas Clark, 1838) | J. W. Semple | `kant-semple-religion-1838` | have-raw (IA `religionwithin00kantuoft`) |
 | The Metaphysic of Ethics, 3rd ed., with introduction by Henry Calderwood (Edinburgh: T. & T. Clark, 1871) | J. W. Semple | `kant-semple-metaphysic-of-ethics-1871` | have-raw (IA `metaphysicofethi00kant`) |
 | Kant's Prolegomena and Metaphysical Foundations of Natural Science, with a biography and introduction (Bohn's Philosophical Library; London: George Bell, 1883) | Ernest Belfort Bax | `kant-bax-prolegomena-1883` | have-raw (IA `cu31924029022213`) |
+| The Philosophy of Law: an exposition of the fundamental principles of jurisprudence as the science of right (Edinburgh: T. & T. Clark, 1887) | W. Hastie | `kant-hastie-philosophy-of-law-1887` | have-raw (IA `thephilosophyofl00kantuoft`) |
+| Kant's Cosmogony, as in his Essay on the Retardation of the Rotation of the Earth and his Natural History and Theory of the Heavens (Glasgow: Maclehose, 1900) | W. Hastie | `kant-hastie-cosmogony-1900` | have-raw (IA `kantscosmogonyas00kantuoft`) |
 
 Pending (wishlist): Goerwitz's Dreams of a Spirit-Seer (1900; IA dreamsofspiritse00kant returned HTTP 500); Annette Churton's Kant on Education (1899; the scan found has no readable title page); the 1798-1799 Essays and Treatises and Metaphysic of Morals attributed to John Richardson (title pages unreadable in the OCR).
 

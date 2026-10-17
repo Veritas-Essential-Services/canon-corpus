@@ -41,6 +41,16 @@
    "cu31924029022213",
    "Kant's Prolegomena and Metaphysical Foundations of Natural Science, with a biography and introduction (Bohn's Philosophical Library; London: George Bell, 1883)",
    "tr. Ernest Belfort Bax"
+  ],
+  "kant-hastie-philosophy-of-law-1887": [
+   "thephilosophyofl00kantuoft",
+   "The Philosophy of Law: an exposition of the fundamental principles of jurisprudence as the science of right (Edinburgh: T. & T. Clark, 1887)",
+   "tr. W. Hastie"
+  ],
+  "kant-hastie-cosmogony-1900": [
+   "kantscosmogonyas00kantuoft",
+   "Kant's Cosmogony, as in his Essay on the Retardation of the Rotation of the Earth and his Natural History and Theory of the Heavens (Glasgow: Maclehose, 1900)",
+   "tr. W. Hastie"
   ]
  },
  "_excluded": {},
@@ -48,7 +58,9 @@
   "kant-carus-prolegomena-1912": "Carus",
   "kant-semple-religion-1838": "Semple",
   "kant-semple-metaphysic-of-ethics-1871": "Semple",
-  "kant-bax-prolegomena-1883": "Bax"
+  "kant-bax-prolegomena-1883": "Bax",
+  "kant-hastie-philosophy-of-law-1887": "Hastie",
+  "kant-hastie-cosmogony-1900": "Hastie"
  },
  "_checks": {
   "kant-carus-prolegomena-1912": {
@@ -121,6 +133,32 @@
    "ia_rights": "ok: published 1883",
    "ia_date": "1883",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kant-hastie-philosophy-of-law-1887": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kant",
+   "translator_claimed": "Hastie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kant-hastie-cosmogony-1900": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kant",
+   "translator_claimed": "Hastie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
