@@ -2740,10 +2740,12 @@
     },
     {
       "id": "e-m-goulburn",
-      "status": "queued",
+      "status": "done",
       "scope": "E. M. Goulburn (Edward Meyrick Goulburn, d. 1897): Thoughts on Personal Religion, The Pursuit of Holiness, sermons",
       "added": "2026-10-17T16:36:08-05:00",
-      "added_by": "lane A worker, round 23, on Adam's 2026-10-17 request to keep going on the theological tradition. Victorian churchmen: Tractarians and Roman converts, Broad Church, and the Oxford and Cambridge biblical scholars. Checked against every remote branch's shelves and queues: none held."
+      "added_by": "lane A worker, round 23, on Adam's 2026-10-17 request to keep going on the theological tradition. Victorian churchmen: Tractarians and Roman converts, Broad Church, and the Oxford and Cambridge biblical scholars. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-17T17:22:58-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "c-j-vaughan",

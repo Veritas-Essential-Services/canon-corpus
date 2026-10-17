@@ -1045,3 +1045,6 @@
 
 ## 2026-10-17 17:22 CDT — henry-scott-holland done
 - `pipeline/henry-scott-holland_shelf.json`: 0 CCEL, 0 PG, 20 IA. Title pages read for holland-real-problem-eschatology (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — e-m-goulburn done
+- `pipeline/e-m-goulburn_shelf.json`: 0 CCEL, 1 PG, 21 IA. Title pages read for goulburn-personal-religion, goulburn-holy-communion-2, goulburn-acts-of-deacons, goulburn-farewell-counsels, goulburn-holy-catholic-church, goulburn-everlasting-punishment (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

@@ -4738,3 +4738,37 @@ Slugs `holland-*`. Sermons 1882-1916 and four posthumous books edited by others.
 | Dean Aldrich, a commemoration speech (1872) | excluded | |
 | Paget's Memoir and Letters (1921), anthologies with his preface, Lux Mundi and Miracles (multi-author) | excluded | |
 | other Hollands; Ruskin's letters | excluded | |
+
+## E. M. Goulburn (round 23, my pick, 2026-10-17)
+
+Slugs `goulburn-*`. Thoughts on Personal Religion and his devotional books; six OCR-garbled title pages read.
+
+| Work | Status | Where |
+|---|---|---|
+| An Address to the Sisters of St. Peter's Home, Brompton (London: Rivingtons, 1864) | have-clean | Gutenberg 54191 |
+| The Doctrine of the Resurrection of the Body, the Bampton Lectures for MDCCCL (Oxford: J. Vincent; London: Hatchard; title-page year OCR'd 1860) | have-ocr | IA `doctrineresurre00goulgoog` |
+| A Manual of Confirmation (London: Rivingtons; Rugby: Crossley and Billington, M.DCCC.LV) | have-ocr | IA `amanualconfirma01goulgoog` |
+| Thoughts on Personal Religion, enlarged edition (London: Rivingtons, 1863) | have-ocr | IA `thoughtsonperso01goulgoog` |
+| The Office of the Holy Communion in the Book of Common Prayer, vol. 2 (London: Rivingtons, 1863) | have-ocr | IA `officeholycommu00goulgoog` |
+| Sermons Preached on Different Occasions during the Last Twenty Years, vol. 1, second edition enlarged (London: Rivingtons, 1863) | have-ocr | IA `sermonspreachedo0000goul` |
+| The Idle Word: Short Religious Essays upon the Gift of Speech, second edition enlarged (London: Rivingtons, 1864) | have-ocr | IA `idlewordshortre01goulgoog` |
+| The Acts of the Deacons (London: Rivingtons, 1866) | have-ocr | IA `actsdeaconsacou00goulgoog` |
+| Farewell Counsels of a Pastor to his Flock (London: Rivingtons, 1867) | have-ocr | IA `farewellcounsel00goulgoog` |
+| Popular Objections to the Book of Common Prayer Considered (London: Rivingtons, 1868) | have-ocr | IA `popularobjectio00goulgoog` |
+| The Pursuit of Holiness: a Sequel to Thoughts on Personal Religion, first edition (London: Rivingtons; New York: Pott and Amery, 1869) | have-ocr | IA `pursuitholiness02goulgoog` |
+| The Principles of the Cathedral System Vindicated, eight sermons (London: Rivingtons, 1870) | have-ocr | IA `principlescathe00goulgoog` |
+| The Holy Catholic Church: its Divine Ideal, Ministry, and Institutions (New York: Pott, Young, 1873) | have-ocr | IA `holycatholicchur00goul` |
+| The Gospel of the Childhood (New York: Pott, Young, MDCCCLXXIII) | have-ocr | IA `gospelchildhood00goulgoog` |
+| A Commentary Expository and Devotional on the Order of the Administration of the Lord's Supper, new edition (London: Rivingtons, 1875) | have-ocr | IA `acommentaryexpos00gouluoft` |
+| The Child Samuel (New York: Pott, Young, MDCCCLXXVI) | have-ocr | IA `MN41661ucmf_6` |
+| The Collects of the Day: an Exposition Critical and Devotional, vol. 1, first edition (London: Rivingtons, MDCCCLXXX) | have-ocr | IA `thecollectsofthe01gouluoft` |
+| Everlasting Punishment: Lectures at St James's, Piccadilly (New York: Pott, Young, MDCCCLXXX) | have-ocr | IA `everlastingpunis00goul` |
+| Thoughts upon the Liturgical Gospels, vol. 2, second edition (London: Rivingtons, MDCCCLXXXVI) | have-ocr | IA `thoughtsuponlitu02gouliala` |
+| Three Counsels of the Divine Master for the Conduct of the Spiritual Life, vol. 1 (London: John Murray, 1888) | have-ocr | IA `threecounselsofd01goul` |
+| Three Counsels of the Divine Master, vol. 2 (London: John Murray, 1888) | have-ocr | IA `threecounselsofd02goul` |
+| The Lord's Prayer, posthumous (London: John Murray, 1898) | have-ocr | IA `lordsprayerbyemg00gouliala` |
+| John William Burgon: a Biography, 2 vols. (Murray, 1892; johnwilliamburgo01goul/02goul) and The Book of Rugby School (1856): biography and history | alternate | not shelved |
+| Replies to Essays and Reviews (1862, one of seven) and Herbert de Losinga (1878, edited and translated with Symonds) | alternate | not shelved |
+| Other editions: Office of the Holy Communion (1864, 1867), Thoughts on Personal Religion (American 1864), Introduction to the Devotional Study of the Holy Scriptures (American 1866, 1869), Collects (Longmans, 1894), Primitive Church Teaching (1912), Short Devotional Forms (1851, partly compiled) | alternate | not shelved |
+| Edward Goulburn the elder (novels, 1810-11) and Henry Goulburn the politician | excluded | |
+| Compton's memoir (1899), a 1996 selection, and the Magee-Bradlaugh debate (Gutenberg 64503) | excluded | |
