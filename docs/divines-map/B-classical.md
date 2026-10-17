@@ -4205,6 +4205,7 @@ Shelf: `pipeline/rosmini_shelf.json`. Davidson's Philosophical System (1882) and
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
+| The Philosophical System of Antonio Rosmini-Serbati, with a sketch of the author's life, bibliography, introduction and notes (London: Kegan Paul, Trench, 1882) | Thomas Davidson | `rosmini-davidson-philosophical-system-1882` | have-raw (IA `philosophicalsy00rosmgoog`) |
 
 Pending (wishlist): Psychology (1884-1888).
 
