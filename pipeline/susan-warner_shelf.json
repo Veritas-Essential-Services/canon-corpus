@@ -1,5 +1,5 @@
 {
- "_about": "Susan Warner's two novels of girlhood: The Wide, Wide World (Grosset and Dunlap; undated in the text) and Queechy, signed with her pen name Elizabeth Wetherell (undated in the text). Gutenberg's Tauchnitz text of The Wide, Wide World (PG 18689) and the two-volume Queechy are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Susan Warner's two novels of girlhood: The Wide, Wide World (Grosset and Dunlap; undated in the text) and Queechy, signed with her pen name Elizabeth Wetherell (undated in the text). Gutenberg's Tauchnitz text of The Wide, Wide World (PG 18689) and the two-volume Queechy are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by Susan Warner at Gutenberg was added (27 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (2) and shared or misattributed files are listed in _excluded.",
  "_author": "Susan Warner",
  "_name_words": [
   "warner",
@@ -34,10 +34,151 @@
      }
     ]
    }
+  ],
+  "warner-melbourne-house-volume-1": [
+   12963,
+   "Melbourne House, Volume 1"
+  ],
+  "warner-melbourne-house-volume-2": [
+   12964,
+   "Melbourne House, Volume 2"
+  ],
+  "warner-hills-of-the-shatemuc": [
+   16918,
+   "Hills of the Shatemuc"
+  ],
+  "warner-wych-hazel": [
+   17800,
+   "Wych Hazel",
+   {
+    "contents_only": true
+   }
+  ],
+  "warner-melbourne-house": [
+   18686,
+   "Melbourne House"
+  ],
+  "warner-daisy": [
+   18687,
+   "Daisy"
+  ],
+  "warner-daisy-in-the-field": [
+   18688,
+   "Daisy in the Field"
+  ],
+  "warner-queechy-volume-i": [
+   18690,
+   "Queechy, Volume I"
+  ],
+  "warner-queechy-volume-ii": [
+   18691,
+   "Queechy, Volume II"
+  ],
+  "warner-carpenters-daughter": [
+   22061,
+   "The Carpenter's Daughter",
+   {
+    "contents_only": true
+   }
+  ],
+  "warner-gold-of-chickaree": [
+   23584,
+   "The Gold of Chickaree",
+   {
+    "contents_only": true
+   }
+  ],
+  "warner-a-red-wallflower": [
+   26828,
+   "A Red Wallflower",
+   {
+    "contents_only": true
+   }
+  ],
+  "warner-old-helmet-volume-i": [
+   26829,
+   "The Old Helmet, Volume I"
+  ],
+  "warner-old-helmet-volume-ii": [
+   26830,
+   "The Old Helmet, Volume II"
+  ],
+  "warner-end-of-a-coil": [
+   27618,
+   "The End of a Coil",
+   {
+    "contents_only": true
+   }
+  ],
+  "warner-nobody": [
+   28524,
+   "Nobody",
+   {
+    "contents_only": true
+   }
+  ],
+  "warner-say-and-seal-volume-i": [
+   28544,
+   "Say and Seal, Volume I"
+  ],
+  "warner-say-and-seal-volume-ii": [
+   28545,
+   "Say and Seal, Volume II"
+  ],
+  "warner-diana": [
+   29824,
+   "Diana",
+   {
+    "contents_only": true
+   }
+  ],
+  "warner-what-she-could": [
+   30146,
+   "What She Could"
+  ],
+  "warner-opportunities": [
+   30147,
+   "Opportunities"
+  ],
+  "warner-house-in-town": [
+   30148,
+   "The House in Town"
+  ],
+  "warner-trading": [
+   30149,
+   "Trading"
+  ],
+  "warner-little-nettie": [
+   35983,
+   "Little Nettie; or, Home Sunshine",
+   {
+    "contents_only": true
+   }
+  ],
+  "warner-letter-of-credit": [
+   36159,
+   "The Letter of Credit",
+   {
+    "contents_only": true
+   }
+  ],
+  "warner-pine-needles": [
+   38922,
+   "Pine Needles (with Louis Harms)"
+  ],
+  "warner-karl-krinken-his-christmas-stocking": [
+   48325,
+   "Karl Krinken, His Christmas Stocking",
+   {
+    "contents_only": true
+   }
   ]
  },
  "internet_archive": {},
- "_excluded": {},
+ "_excluded": {
+  "susan-warner-repeat-18689": "PG 18689, The Wide, Wide World: a second transcription of a title already on this shelf",
+  "susan-warner-repeat-27949": "PG 27949, Daisy: a second transcription of a title already on this shelf"
+ },
  "_surname_by_slug": {
   "warner-queechy": [
    "elizabeth wetherell"
@@ -46,7 +187,7 @@
  "_checks": {
   "warner-wide-wide-world": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "susan warner",
    "identity": "ok",
@@ -55,9 +196,252 @@
   },
   "warner-queechy": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "elizabeth wetherell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-melbourne-house-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-melbourne-house-volume-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-hills-of-the-shatemuc": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-wych-hazel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-melbourne-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-daisy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-daisy-in-the-field": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-queechy-volume-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-queechy-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-carpenters-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-gold-of-chickaree": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-a-red-wallflower": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-old-helmet-volume-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-old-helmet-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-end-of-a-coil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-nobody": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-say-and-seal-volume-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-say-and-seal-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-diana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-what-she-could": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-opportunities": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-house-in-town": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-trading": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-little-nettie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-letter-of-credit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-pine-needles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "warner-karl-krinken-his-christmas-stocking": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "susan warner",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null

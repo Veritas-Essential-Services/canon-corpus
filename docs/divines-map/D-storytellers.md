@@ -3273,12 +3273,41 @@ Shelf: `pipeline/annie-fellows-johnston_shelf.json` (2026-10-02; added at the co
 
 ## Susan Warner
 
-Shelf: `pipeline/susan-warner_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Two novels of girlhood; cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/susan-warner_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Evangelical novels and stories for the young. All 29 of Susan Warner's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Wide, Wide World | have | PG 28376, `warner-wide-wide-world` (6940 units) |
 | Queechy | have | PG 8874, `warner-queechy` (8430 units) |
+| Melbourne House, Volume 1 | have | PG 12963, `warner-melbourne-house-volume-1` (3512 units) |
+| Melbourne House, Volume 2 | have | PG 12964, `warner-melbourne-house-volume-2` (3380 units) |
+| Hills of the Shatemuc | have | PG 16918, `warner-hills-of-the-shatemuc` (7918 units) |
+| Wych Hazel | have | PG 17800, `warner-wych-hazel` (4166 units) |
+| Melbourne House | have | PG 18686, `warner-melbourne-house` (6861 units) |
+| Daisy | have | PG 18687, `warner-daisy` (3151 units) |
+| Daisy in the Field | have | PG 18688, `warner-daisy-in-the-field` (3508 units) |
+| Queechy, Volume I | have | PG 18690, `warner-queechy-volume-i` (4071 units) |
+| Queechy, Volume II | have | PG 18691, `warner-queechy-volume-ii` (4372 units) |
+| The Carpenter's Daughter | have | PG 22061, `warner-carpenters-daughter` (1409 units) |
+| The Gold of Chickaree | have | PG 23584, `warner-gold-of-chickaree` (3732 units) |
+| A Red Wallflower | have | PG 26828, `warner-a-red-wallflower` (4619 units) |
+| The Old Helmet, Volume I | have | PG 26829, `warner-old-helmet-volume-i` (2476 units) |
+| The Old Helmet, Volume II | have | PG 26830, `warner-old-helmet-volume-ii` (2961 units) |
+| The End of a Coil | have | PG 27618, `warner-end-of-a-coil` (5515 units) |
+| Nobody | have | PG 28524, `warner-nobody` (5988 units) |
+| Say and Seal, Volume I | have | PG 28544, `warner-say-and-seal-volume-i` (4738 units) |
+| Say and Seal, Volume II | have | PG 28545, `warner-say-and-seal-volume-ii` (5042 units) |
+| Diana | have | PG 29824, `warner-diana` (3811 units) |
+| What She Could | have | PG 30146, `warner-what-she-could` (2187 units) |
+| Opportunities | have | PG 30147, `warner-opportunities` (2432 units) |
+| The House in Town | have | PG 30148, `warner-house-in-town` (2275 units) |
+| Trading | have | PG 30149, `warner-trading` (2711 units) |
+| Little Nettie; or, Home Sunshine | have | PG 35983, `warner-little-nettie` (632 units) |
+| The Letter of Credit | have | PG 36159, `warner-letter-of-credit` (5702 units) |
+| Pine Needles (with Louis Harms) | have | PG 38922, `warner-pine-needles` (1906 units) |
+| Karl Krinken, His Christmas Stocking | have | PG 48325, `warner-karl-krinken-his-christmas-stocking` (1950 units) |
+| susan-warner-repeat-18689 | excluded | PG 18689, The Wide, Wide World: a second transcription of a title already on this shelf |
+| susan-warner-repeat-27949 | excluded | PG 27949, Daisy: a second transcription of a title already on this shelf |
 
 ## A. L. O. E.
 
