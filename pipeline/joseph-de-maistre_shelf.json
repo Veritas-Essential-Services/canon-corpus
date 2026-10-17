@@ -1,0 +1,73 @@
+{
+ "_about": "Joseph de Maistre (1753-1821) in English, raw IA OCR: Letters on the Spanish Inquisition, tr. T. J. O'Flaherty (Boston: Patrick Donahoe, 1843), Essay on the Generative Principle of Political Constitutions, translator unnamed (Boston: Little and Brown, 1847), and The Pope, considered in his relations with the Church, temporal sovereignties, separated churches and the cause of civilization, tr. Aeneas McD. Dawson (London: C. Dolman, 1850). US public domain. No uids minted.",
+ "_author": "Joseph de Maistre",
+ "_name_words": [
+  "joseph",
+  "maistre",
+  "comte",
+  "count"
+ ],
+ "_surname": [
+  "maistre",
+  "de maistre"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "maistre-oflaherty-spanish-inquisition-1843": [
+   "lettersonspanish00maisuoft",
+   "Letters on the Spanish Inquisition (Boston: Patrick Donahoe, 1843)",
+   "tr. T. J. O'Flaherty"
+  ],
+  "maistre-generative-principle-1847": [
+   "essayongenerativ00mais",
+   "Essay on the Generative Principle of Political Constitutions (Boston: Little and Brown, 1847)"
+  ],
+  "maistre-dawson-the-pope-1850": [
+   "ThePopeConsidered",
+   "The Pope, considered in his relations with the Church (London: C. Dolman, 1850)",
+   "tr. Aeneas McD. Dawson"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "maistre-dawson-the-pope-1850": "Dawson"
+ },
+ "_checks": {
+  "maistre-oflaherty-spanish-inquisition-1843": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "maistre",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maistre-generative-principle-1847": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "maistre",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "maistre-dawson-the-pope-1850": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "maistre",
+   "translator_claimed": "Dawson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
