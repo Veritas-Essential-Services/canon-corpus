@@ -1,5 +1,5 @@
 {
- "_about": "Charlotte M. Yonge's (1823-1901) stories and tales for the young: The Little Duke, The Prince and the Page, The Lances of Lynwood, The Herd Boy and His Hermit, A Book of Golden Deeds and Little Lucy's Wonderful Globe. Her many domestic novels are left for now. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Charlotte M. Yonge's (1823-1901) stories and tales for the young: The Little Duke, The Prince and the Page, The Lances of Lynwood, The Herd Boy and His Hermit, A Book of Golden Deeds and Little Lucy's Wonderful Globe. Her many domestic novels are left for now. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by Charlotte M. Yonge at Gutenberg was added (58 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (1) and shared or misattributed files are listed in _excluded.",
  "_author": "Charlotte M. Yonge",
  "_name_words": [
   "yonge"
@@ -35,16 +35,284 @@
   "yonge-little-lucys-wonderful-globe": [
    4538,
    "Little Lucy's Wonderful Globe"
+  ],
+  "yonge-heir-of-redclyffe": [
+   2505,
+   "The Heir of Redclyffe"
+  ],
+  "yonge-caged-lion": [
+   2573,
+   "The Caged Lion"
+  ],
+  "yonge-heartsease": [
+   2601,
+   "Heartsease; Or, The Brother's Wife"
+  ],
+  "yonge-pigeon-pie": [
+   2606,
+   "The Pigeon Pie"
+  ],
+  "yonge-two-penniless-princesses": [
+   2942,
+   "Two Penniless Princesses"
+  ],
+  "yonge-dove-in-the-eagles-nest": [
+   3139,
+   "The Dove in the Eagle's Nest"
+  ],
+  "yonge-countess-kate": [
+   3259,
+   "Countess Kate"
+  ],
+  "yonge-clever-woman-of-the-family": [
+   3292,
+   "The Clever Woman of the Family"
+  ],
+  "yonge-stokesley-secret": [
+   3411,
+   "The Stokesley Secret"
+  ],
+  "yonge-daisy-chain-or-aspirations": [
+   3610,
+   "The Daisy Chain, or Aspirations"
+  ],
+  "yonge-trial": [
+   3744,
+   "The Trial; Or, More Links of the Daisy Chain"
+  ],
+  "yonge-nutties-father": [
+   4053,
+   "Nuttie's Father",
+   {
+    "contents_only": true
+   }
+  ],
+  "yonge-dynevor-terrace": [
+   4235,
+   "Dynevor Terrace; Or, The Clue of Life — Volume 1",
+   {
+    "contents_only": true
+   }
+  ],
+  "yonge-abbeychurch": [
+   4267,
+   "Abbeychurch; Or, Self-Control and Self-Conceit"
+  ],
+  "yonge-a-modern-telemachus": [
+   4271,
+   "A Modern Telemachus"
+  ],
+  "yonge-friarswood-post-office": [
+   4296,
+   "Friarswood Post Office"
+  ],
+  "yonge-my-young-alcides": [
+   4347,
+   "My Young Alcides: A Faded Photograph"
+  ],
+  "yonge-unknown-to-history": [
+   4596,
+   "Unknown to History: A Story of the Captivity of Mary of Scotland",
+   {
+    "contents_only": true
+   }
+  ],
+  "yonge-lady-hester": [
+   4659,
+   "Lady Hester; Or, Ursula's Narrative",
+   {
+    "contents_only": true
+   }
+  ],
+  "yonge-young-folks-history-of-england": [
+   4769,
+   "Young Folks' History of England"
+  ],
+  "yonge-scenes-and-characters": [
+   4944,
+   "Scenes and Characters, or, Eighteen Months at Beechcroft"
+  ],
+  "yonge-life-of-john-coleridge-patteson": [
+   4952,
+   "Life of John Coleridge Patteson : Missionary Bishop of the Melanesian Islands"
+  ],
+  "yonge-magnum-bonum": [
+   5080,
+   "Magnum Bonum; Or, Mother Carey's Brood"
+  ],
+  "yonge-henriettas-wish": [
+   5124,
+   "Henrietta's Wish; Or, Domineering"
+  ],
+  "yonge-beechcroft-at-rockstone": [
+   5156,
+   "Beechcroft at Rockstone"
+  ],
+  "yonge-long-vacation": [
+   5251,
+   "The Long Vacation"
+  ],
+  "yonge-chaplet-of-pearls": [
+   5274,
+   "The Chaplet of Pearls"
+  ],
+  "yonge-love-and-life": [
+   5700,
+   "Love and Life: An Old Story in Eighteenth Century Costume"
+  ],
+  "yonge-stray-pearls": [
+   5708,
+   "Stray Pearls: Memoirs of Margaret De Ribaumont, Viscountess of Bellaise"
+  ],
+  "yonge-young-step-mother": [
+   5843,
+   "The Young Step-Mother; Or, A Chronicle of Mistakes"
+  ],
+  "yonge-under-the-storm": [
+   6006,
+   "Under the Storm"
+  ],
+  "yonge-two-sides-of-the-shield": [
+   6007,
+   "The Two Sides of the Shield"
+  ],
+  "yonge-pillars-of-the-house": [
+   6331,
+   "The Pillars of the House; Or, Under Wode, Under Rode, Vol. 1 (of 2)"
+  ],
+  "yonge-john-kebles-parishes": [
+   6405,
+   "John Keble's Parishes: A History of Hursley and Otterbourne"
+  ],
+  "yonge-modern-broods": [
+   7191,
+   "Modern Broods; Or, Developments Unlooked For"
+  ],
+  "yonge-chosen-people": [
+   7284,
+   "The Chosen People: A Compendium of Sacred and Church History for School-Children"
+  ],
+  "yonge-chantry-house": [
+   7378,
+   "Chantry House",
+   {
+    "contents_only": true
+   }
+  ],
+  "yonge-grisly-grisell": [
+   7387,
+   "Grisly Grisell; Or, The Laidly Lady of Whitburn: A Tale of the Wars of the Roses",
+   {
+    "contents_only": true
+   }
+  ],
+  "yonge-cameos-from-english-history-from-rollo-to-edward-ii": [
+   9474,
+   "Cameos from English History, from Rollo to Edward II"
+  ],
+  "yonge-two-guardians": [
+   9926,
+   "The Two Guardians or, Home in This World"
+  ],
+  "yonge-armourers-prentices": [
+   9959,
+   "The Armourer's Prentices"
+  ],
+  "yonge-more-bywords": [
+   12095,
+   "More Bywords"
+  ],
+  "yonge-a-reputed-changeling": [
+   12449,
+   "A Reputed Changeling; Or, Three Seventh Years Two Centuries Ago"
+  ],
+  "yonge-three-brides": [
+   12485,
+   "The Three Brides",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXLC]+ .{1,90}$"
+     }
+    ],
+    "start": "CHAPTER I ",
+    "front": true
+   }
+  ],
+  "yonge-young-folks-history-of-rome": [
+   16667,
+   "Young Folks' History of Rome"
+  ],
+  "yonge-history-of-france": [
+   17287,
+   "History of France"
+  ],
+  "yonge-pioneers-and-founders": [
+   19308,
+   "Pioneers and Founders or, Recent Workers in the Mission field"
+  ],
+  "yonge-that-stick": [
+   20323,
+   "That Stick"
+  ],
+  "yonge-carbonels": [
+   21223,
+   "The Carbonels"
+  ],
+  "yonge-old-times-at-otterbourne": [
+   24651,
+   "Old Times at Otterbourne"
+  ],
+  "yonge-hopes-and-fears": [
+   26156,
+   "Hopes and Fears or, scenes from the life of a spinster"
+  ],
+  "yonge-aunt-charlottes-stories-of-greek-history": [
+   30809,
+   "Aunt Charlotte's Stories of Greek History"
+  ],
+  "yonge-sowing-and-sewing": [
+   32200,
+   "Sowing and Sewing: A Sexagesima Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "yonge-captivating-bible-stories-for-young-people-written-in": [
+   62126,
+   "Captivating Bible Stories for Young People, Written in Simple Language"
+  ],
+  "yonge-history-of-christian-names": [
+   70419,
+   "History of Christian names"
+  ],
+  "yonge-what-books-to-lend-and-what-to-give": [
+   73339,
+   "What books to lend and what to give"
+  ],
+  "yonge-dynevor-terrace-2": [
+   4236,
+   "Dynevor Terrace; Or, The Clue of Life — Volume 2",
+   {
+    "contents_only": true
+   }
+  ],
+  "yonge-pillars-of-the-house-2": [
+   44721,
+   "The Pillars of the House; Or, Under Wode, Under Rode, Vol. 2 (of 2)"
   ]
  },
  "internet_archive": {},
  "_excluded": {
-  "yonge-little-lucys-wonderful-globe-2": "PG 26487, a second transcription of Little Lucy's Wonderful Globe; held once"
+  "yonge-little-lucys-wonderful-globe-2": "PG 26487, a second transcription of Little Lucy's Wonderful Globe; held once",
+  "yonge-women-novelists-of-queen-victorias-reign": "PG 36641, Women Novelists of Queen Victoria's Reign, is a many-author volume",
+  "yonge-index-of-the-project-gutenberg-works-of-charlotte-m-yo": "PG 58199 is David Widger's index of the Gutenberg Yonge files, not a text",
+  "yonge-repeat-21222": "PG 21222, The Armourer's Prentices: a second transcription of a title already on this shelf"
  },
  "_checks": {
   "yonge-little-duke": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "charlotte m. yonge",
    "identity": "ok",
@@ -53,7 +321,7 @@
   },
   "yonge-prince-and-the-page": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "charlotte m. yonge",
    "identity": "ok",
@@ -62,7 +330,7 @@
   },
   "yonge-lances-of-lynwood": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "charlotte m. yonge",
    "identity": "ok",
@@ -71,7 +339,7 @@
   },
   "yonge-herd-boy-and-his-hermit": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "charlotte m. yonge",
    "identity": "ok",
@@ -80,7 +348,7 @@
   },
   "yonge-book-of-golden-deeds": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "charlotte m. yonge",
    "identity": "ok",
@@ -89,7 +357,529 @@
   },
   "yonge-little-lucys-wonderful-globe": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-heir-of-redclyffe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-caged-lion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-heartsease": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-pigeon-pie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-two-penniless-princesses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-dove-in-the-eagles-nest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-countess-kate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-clever-woman-of-the-family": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-stokesley-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-daisy-chain-or-aspirations": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-trial": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-nutties-father": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-dynevor-terrace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-abbeychurch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-a-modern-telemachus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-friarswood-post-office": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-my-young-alcides": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-unknown-to-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-lady-hester": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-young-folks-history-of-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-scenes-and-characters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-life-of-john-coleridge-patteson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-magnum-bonum": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-henriettas-wish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-beechcroft-at-rockstone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-long-vacation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-chaplet-of-pearls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-love-and-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-stray-pearls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-young-step-mother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-under-the-storm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-two-sides-of-the-shield": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-pillars-of-the-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-john-kebles-parishes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-modern-broods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-chosen-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-chantry-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-grisly-grisell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-cameos-from-english-history-from-rollo-to-edward-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-two-guardians": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-armourers-prentices": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-more-bywords": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-a-reputed-changeling": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-three-brides": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-young-folks-history-of-rome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-history-of-france": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-pioneers-and-founders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-that-stick": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-carbonels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-old-times-at-otterbourne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-hopes-and-fears": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-aunt-charlottes-stories-of-greek-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-sowing-and-sewing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-captivating-bible-stories-for-young-people-written-in": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-history-of-christian-names": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-what-books-to-lend-and-what-to-give": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-dynevor-terrace-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "charlotte m. yonge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yonge-pillars-of-the-house-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "charlotte m. yonge",
    "identity": "ok",

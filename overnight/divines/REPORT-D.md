@@ -1023,3 +1023,6 @@
 
 ## 2026-10-17 17:29 CDT — hesba-stretton: done
 - hesba-stretton: completed, 12 more Gutenberg books (15 on the shelf), 11,385 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:38 CDT — yonge: done
+- yonge: completed, 58 more Gutenberg books (64 on the shelf), 144,769 units, 8979 ~2 ids; verify 0 mismatches, 0 rights flags.

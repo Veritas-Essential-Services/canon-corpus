@@ -1774,7 +1774,7 @@ Shelf: `pipeline/richards_shelf.json` (2026-10-02; added at the coordinator's re
 
 ## Charlotte M. Yonge (1823-1901)
 
-Shelf: `pipeline/yonge_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her historical tales and story books for the young; the domestic novels are left for now. Not in the manifest; no uids minted.
+Shelf: `pipeline/yonge_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Victorian family novels, historical tales and stories for the young. All 64 of Charlotte M. Yonge's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -1784,7 +1784,68 @@ Shelf: `pipeline/yonge_shelf.json` (2026-10-02; added at the coordinator's relay
 | The Herd Boy and His Hermit | have | PG 5313, `yonge-herd-boy-and-his-hermit` (896 units) |
 | A Book of Golden Deeds | have | PG 6489, `yonge-book-of-golden-deeds` (878 units) |
 | Little Lucy's Wonderful Globe | have | PG 4538, `yonge-little-lucys-wonderful-globe` (300 units) |
+| The Heir of Redclyffe | have | PG 2505, `yonge-heir-of-redclyffe` (5396 units) |
+| The Caged Lion | have | PG 2573, `yonge-caged-lion` (1867 units) |
+| Heartsease; Or, The Brother's Wife | have | PG 2601, `yonge-heartsease` (6161 units) |
+| The Pigeon Pie | have | PG 2606, `yonge-pigeon-pie` (553 units) |
+| Two Penniless Princesses | have | PG 2942, `yonge-two-penniless-princesses` (1298 units) |
+| The Dove in the Eagle's Nest | have | PG 3139, `yonge-dove-in-the-eagles-nest` (1750 units) |
+| Countess Kate | have | PG 3259, `yonge-countess-kate` (1241 units) |
+| The Clever Woman of the Family | have | PG 3292, `yonge-clever-woman-of-the-family` (3807 units) |
+| The Stokesley Secret | have | PG 3411, `yonge-stokesley-secret` (1527 units) |
+| The Daisy Chain, or Aspirations | have | PG 3610, `yonge-daisy-chain-or-aspirations` (7307 units) |
+| The Trial; Or, More Links of the Daisy Chain | have | PG 3744, `yonge-trial` (3868 units) |
+| Nuttie's Father | have | PG 4053, `yonge-nutties-father` (2480 units) |
+| Dynevor Terrace; Or, The Clue of Life — Volume 1 | have | PG 4235, `yonge-dynevor-terrace` (2804 units) |
+| Abbeychurch; Or, Self-Control and Self-Conceit | have | PG 4267, `yonge-abbeychurch` (1943 units) |
+| A Modern Telemachus | have | PG 4271, `yonge-a-modern-telemachus` (873 units) |
+| Friarswood Post Office | have | PG 4296, `yonge-friarswood-post-office` (1332 units) |
+| My Young Alcides: A Faded Photograph | have | PG 4347, `yonge-my-young-alcides` (1522 units) |
+| Unknown to History: A Story of the Captivity of Mary of Scotland | have | PG 4596, `yonge-unknown-to-history` (3020 units) |
+| Lady Hester; Or, Ursula's Narrative | have | PG 4659, `yonge-lady-hester` (612 units) |
+| Young Folks' History of England | have | PG 4769, `yonge-young-folks-history-of-england` (401 units) |
+| Scenes and Characters, or, Eighteen Months at Beechcroft | have | PG 4944, `yonge-scenes-and-characters` (2272 units) |
+| Life of John Coleridge Patteson : Missionary Bishop of the Melanesian Islands | have | PG 4952, `yonge-life-of-john-coleridge-patteson` (3320 units) |
+| Magnum Bonum; Or, Mother Carey's Brood | have | PG 5080, `yonge-magnum-bonum` (5899 units) |
+| Henrietta's Wish; Or, Domineering | have | PG 5124, `yonge-henriettas-wish` (1664 units) |
+| Beechcroft at Rockstone | have | PG 5156, `yonge-beechcroft-at-rockstone` (3070 units) |
+| The Long Vacation | have | PG 5251, `yonge-long-vacation` (2457 units) |
+| The Chaplet of Pearls | have | PG 5274, `yonge-chaplet-of-pearls` (2801 units) |
+| Love and Life: An Old Story in Eighteenth Century Costume | have | PG 5700, `yonge-love-and-life` (2098 units) |
+| Stray Pearls: Memoirs of Margaret De Ribaumont, Viscountess of Bellaise | have | PG 5708, `yonge-stray-pearls` (1655 units) |
+| The Young Step-Mother; Or, A Chronicle of Mistakes | have | PG 5843, `yonge-young-step-mother` (4841 units) |
+| Under the Storm | have | PG 6006, `yonge-under-the-storm` (1341 units) |
+| The Two Sides of the Shield | have | PG 6007, `yonge-two-sides-of-the-shield` (2584 units) |
+| The Pillars of the House; Or, Under Wode, Under Rode, Vol. 1 (of 2) | have | PG 6331, `yonge-pillars-of-the-house` (5076 units) |
+| John Keble's Parishes: A History of Hursley and Otterbourne | have | PG 6405, `yonge-john-kebles-parishes` (1273 units) |
+| Modern Broods; Or, Developments Unlooked For | have | PG 7191, `yonge-modern-broods` (1801 units) |
+| The Chosen People: A Compendium of Sacred and Church History for School-Children | have | PG 7284, `yonge-chosen-people` (1287 units) |
+| Chantry House | have | PG 7378, `yonge-chantry-house` (1386 units) |
+| Grisly Grisell; Or, The Laidly Lady of Whitburn: A Tale of the Wars of the Roses | have | PG 7387, `yonge-grisly-grisell` (1169 units) |
+| Cameos from English History, from Rollo to Edward II | have | PG 9474, `yonge-cameos-from-english-history-from-rollo-to-edward-ii` (2024 units) |
+| The Two Guardians or, Home in This World | have | PG 9926, `yonge-two-guardians` (2522 units) |
+| The Armourer's Prentices | have | PG 9959, `yonge-armourers-prentices` (1757 units) |
+| More Bywords | have | PG 12095, `yonge-more-bywords` (1176 units) |
+| A Reputed Changeling; Or, Three Seventh Years Two Centuries Ago | have | PG 12449, `yonge-a-reputed-changeling` (2419 units) |
+| The Three Brides | have | PG 12485, `yonge-three-brides` (4325 units) |
+| Young Folks' History of Rome | have | PG 16667, `yonge-young-folks-history-of-rome` (732 units) |
+| History of France | have | PG 17287, `yonge-history-of-france` (162 units) |
+| Pioneers and Founders or, Recent Workers in the Mission field | have | PG 19308, `yonge-pioneers-and-founders` (1000 units) |
+| That Stick | have | PG 20323, `yonge-that-stick` (1713 units) |
+| The Carbonels | have | PG 21223, `yonge-carbonels` (1127 units) |
+| Old Times at Otterbourne | have | PG 24651, `yonge-old-times-at-otterbourne` (186 units) |
+| Hopes and Fears or, scenes from the life of a spinster | have | PG 26156, `yonge-hopes-and-fears` (6109 units) |
+| Aunt Charlotte's Stories of Greek History | have | PG 30809, `yonge-aunt-charlottes-stories-of-greek-history` (557 units) |
+| Sowing and Sewing: A Sexagesima Story | have | PG 32200, `yonge-sowing-and-sewing` (609 units) |
+| Captivating Bible Stories for Young People, Written in Simple Language | have | PG 62126, `yonge-captivating-bible-stories-for-young-people-written-in` (2402 units) |
+| History of Christian names | have | PG 70419, `yonge-history-of-christian-names` (3431 units) |
+| What books to lend and what to give | have | PG 73339, `yonge-what-books-to-lend-and-what-to-give` (3170 units) |
+| Dynevor Terrace; Or, The Clue of Life — Volume 2 | have | PG 4236, `yonge-dynevor-terrace-2` (2369 units) |
+| The Pillars of the House; Or, Under Wode, Under Rode, Vol. 2 (of 2) | have | PG 44721, `yonge-pillars-of-the-house-2` (6159 units) |
 | yonge-little-lucys-wonderful-globe-2 | excluded | PG 26487, a second transcription of Little Lucy's Wonderful Globe; held once |
+| yonge-women-novelists-of-queen-victorias-reign | excluded | PG 36641, Women Novelists of Queen Victoria's Reign, is a many-author volume |
+| yonge-index-of-the-project-gutenberg-works-of-charlotte-m-yo | excluded | PG 58199 is David Widger's index of the Gutenberg Yonge files, not a text |
+| yonge-repeat-21222 | excluded | PG 21222, The Armourer's Prentices: a second transcription of a title already on this shelf |
 
 ## Lady Wilde (Speranza)
 
