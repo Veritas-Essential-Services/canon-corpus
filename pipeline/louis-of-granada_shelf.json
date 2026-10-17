@@ -1,0 +1,174 @@
+{
+ "_about": "Public-domain Louis of Granada (Luis de Granada, 1505-1588, Dominican) in English for the Word Hoard: The Sinner's Guide (Philadelphia, 1845; London, 1760), A Memorial of a Christian Life (Dublin, 1824), A Treatise on Prayer and Meditation (Chester, 1862), Counsels on Holiness of Life (Rivingtons, 1869) and Considerations on Mysteries of the Faith (Masters, 1862), with the Elizabethan Of Prayer and Meditation (Paris, about 1582), The Sinners Guyde (London, 1598) and the 1688 Memorial, all from Internet Archive scans. Added 2026-10-17 by lane A, round 25 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "granada"
+ ],
+ "_surname": [
+  "lewis of granada",
+  "lewis de granada",
+  "luis de granada",
+  "louis of granada",
+  "lewis of grenada",
+  "luis of granada",
+  "lodowicke of granada",
+  "granada"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "granada-sinners-guide-1845": [
+   "sinnersguide00lewi",
+   "The Sinner's Guide, in two books, translated from the Spanish (Philadelphia: Henry M'Grath, 1845)"
+  ],
+  "granada-memorial-1824": [
+   "amemorialchrist00luisuoft",
+   "A Memorial of a Christian Life, fifth edition revised by F. J. L'Estrange (Dublin: Richard Coyne, 1824)"
+  ],
+  "granada-prayer-meditation-1862": [
+   "treatiseonprayer0000luis",
+   "A Treatise on Prayer and Meditation, translated from the Spanish (Chester: Griffith, 1862)"
+  ],
+  "granada-counsels-holiness": [
+   "AceticLibraryV3CounselsOn",
+   "Counsels on Holiness of Life, being the first part of the Sinner's Guide, ed. Orby Shipley (London: Rivingtons, 1869)"
+  ],
+  "granada-considerations-mysteries": [
+   "ConsiderationsOnMysteriesOfTheFaith",
+   "Considerations on Mysteries of the Faith, translated and abridged, ed. Orby Shipley (London: Joseph Masters, 1862)"
+  ],
+  "granada-sinners-guide-1760": [
+   "sinnersguidefrom00luisiala",
+   "The Sinners Guide, from Vice to Virtue, second edition (London: N. Gibson, 1760)"
+  ],
+  "granada-of-prayer-meditation-1582": [
+   "bim_early-english-books-1475-1640_of-prayer-and-meditatio_luis-de-granada_1582",
+   "Of Prayer and Meditation, tr. Richard Hopkins (Paris: Thomas Brumeau; catalogued 1582)"
+  ],
+  "granada-sinners-guyde-1598": [
+   "bim_early-english-books-1475-1640_the-sinners-guyde-_luis-de-granada_1598",
+   "The Sinners Guyde, perused by Francis Meres (London: James Roberts for Paule Linley, 1598)"
+  ],
+  "granada-memorial-1688": [
+   "bim_early-english-books-1641-1700_a-memorial-of-a-christia_luis-of-grenada_1688",
+   "A Memorial of a Christian Life, translated anew into English (London: for Mat. Turner, 1688)"
+  ]
+ },
+ "_alternates": {
+  "granada-sinners-guide-copies": "Other M'Grath copies; the Dominican 'new and revised translation' (1883-1890); Boston, Noonan",
+  "granada-early": "Other sixteenth- and seventeenth-century printings (Of Prayer and Meditation 1584-1634, Memoriall 1586-1625, 1702 and 1795 editions, and smaller works)"
+ },
+ "_excluded": {
+  "granada-late": "Tan reprint",
+  "granada-other-languages": "French, Italian, German and Latin editions"
+ },
+ "_rights_checked": {
+  "granada-of-prayer-meditation-1582": "title page read: Paris, Thomas Brumeau; year OCR'd 'M.D. LXXXI1I'; catalogued 1582"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "granada-sinners-guide-1845": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "granada",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "granada-memorial-1824": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lewis de granada",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "granada-prayer-meditation-1862": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "luis de granada",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "granada-counsels-holiness": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "luis de granada",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "granada-considerations-mysteries": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "luis de granada",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "granada-sinners-guide-1760": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lewis of granada",
+   "identity": "ok",
+   "ia_rights": "ok: published 1760",
+   "ia_date": "1760",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "granada-of-prayer-meditation-1582": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lewis de granada",
+   "identity": "ok",
+   "ia_rights": "ok: published 1582",
+   "ia_date": "1582",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Paris, Thomas Brumeau; year OCR'd 'M.D. LXXXI1I'; catalogued 1582"
+  },
+  "granada-sinners-guyde-1598": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "granada",
+   "identity": "ok",
+   "ia_rights": "ok: published 1598",
+   "ia_date": "1598",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "granada-memorial-1688": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lewis de granada",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1688",
+   "ia_date": "1688",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

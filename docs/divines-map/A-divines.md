@@ -5315,3 +5315,23 @@ Slugs `bridget-*`. Translator: Graf (1928); the Sadlier Revelations name none; t
 | The Fifteen Oes prayers (1663, 1686) and Four Revelations in Godfray's print of about 1532 (facsimile, Stockholm 1916) | alternate | not shelved |
 | The Kraus reprint of the EETS volume and modern uploads | excluded | |
 | Latin, German and Swedish editions | excluded | |
+
+## Louis of Granada (round 25, my pick, 2026-10-17)
+
+Slugs `granada-*`. No translator claimed: the title pages name none legibly (Hopkins is named only in a dedication; Meres as reviser).
+
+| Work | Status | Where |
+|---|---|---|
+| The Sinner's Guide, in two books, translated from the Spanish (Philadelphia: Henry M'Grath, 1845) | have-ocr | IA `sinnersguide00lewi` |
+| A Memorial of a Christian Life, fifth edition revised by F. J. L'Estrange (Dublin: Richard Coyne, 1824) | have-ocr | IA `amemorialchrist00luisuoft` |
+| A Treatise on Prayer and Meditation, translated from the Spanish (Chester: Griffith, 1862) | have-ocr | IA `treatiseonprayer0000luis` |
+| Counsels on Holiness of Life, being the first part of the Sinner's Guide, ed. Orby Shipley (London: Rivingtons, 1869) | have-ocr | IA `AceticLibraryV3CounselsOn` |
+| Considerations on Mysteries of the Faith, translated and abridged, ed. Orby Shipley (London: Joseph Masters, 1862) | have-ocr | IA `ConsiderationsOnMysteriesOfTheFaith` |
+| The Sinners Guide, from Vice to Virtue, second edition (London: N. Gibson, 1760) | have-ocr | IA `sinnersguidefrom00luisiala` |
+| Of Prayer and Meditation, tr. Richard Hopkins (Paris: Thomas Brumeau; catalogued 1582) | have-ocr | IA `bim_early-english-books-1475-1640_of-prayer-and-meditatio_luis-de-granada_1582` |
+| The Sinners Guyde, perused by Francis Meres (London: James Roberts for Paule Linley, 1598) | have-ocr | IA `bim_early-english-books-1475-1640_the-sinners-guyde-_luis-de-granada_1598` |
+| A Memorial of a Christian Life, translated anew into English (London: for Mat. Turner, 1688) | have-ocr | IA `bim_early-english-books-1641-1700_a-memorial-of-a-christia_luis-of-grenada_1688` |
+| Other M'Grath copies; the Dominican 'new and revised translation' (1883-1890); Boston, Noonan | alternate | not shelved |
+| Other sixteenth- and seventeenth-century printings (Of Prayer and Meditation 1584-1634, Memoriall 1586-1625, 1702 and 1795 editions, and smaller works) | alternate | not shelved |
+| Tan reprint | excluded | |
+| French, Italian, German and Latin editions | excluded | |
