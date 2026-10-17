@@ -1,0 +1,49 @@
+{
+ "_about": "John Stuart Mill (1806-1873), raw IA OCR. On Liberty and Utilitarianism are on the Adler shelf and are not taken again. Here: An Examination of Sir William Hamilton's Philosophy, and of the principal philosophical questions discussed in his writings (Boston: William V. Spencer, 1865, 2 vols.), the first American edition. US public domain. Not taken: the Three Essays on Religion scan threeessaysonrel00mill (no year printed). No uids minted.",
+ "_author": "John Stuart Mill",
+ "_name_words": [
+  "john",
+  "stuart",
+  "mill"
+ ],
+ "_surname": [
+  "mill"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mill-examination-of-hamilton-1865-v1": [
+   "anexaminationofs01millrich",
+   "An Examination of Sir William Hamilton's Philosophy, vol. I (Boston: William V. Spencer, 1865)"
+  ],
+  "mill-examination-of-hamilton-1865-v2": [
+   "anexaminationsi06millgoog",
+   "An Examination of Sir William Hamilton's Philosophy, vol. II (Boston: William V. Spencer, 1865)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "mill-examination-of-hamilton-1865-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mill-examination-of-hamilton-1865-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
