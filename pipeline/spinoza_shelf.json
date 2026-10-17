@@ -43,6 +43,11 @@
    "cu31924029050636",
    "The Principles of Descartes' Philosophy, translated from the Latin, with an introduction (Chicago: Open Court, 1905)",
    "tr. Halbert Hains Britan"
+  ],
+  "spinoza-wolf-short-treatise-1910": [
+   "spinozasshorttre00spin",
+   "Spinoza's Short Treatise on God, Man, and his Well-Being, translated and edited, with an introduction and commentary and a life of Spinoza (London: A. and C. Black, 1910)",
+   "tr. A. Wolf"
   ]
  },
  "_excluded": {},
@@ -50,7 +55,8 @@
   "spinoza-willis-life-ethics-1870": "Willis",
   "spinoza-maccall-politics-1854": "Maccall",
   "spinoza-fullerton-philosophy-1894": "Fullerton",
-  "spinoza-britan-descartes-principles-1905": "Britan"
+  "spinoza-britan-descartes-principles-1905": "Britan",
+  "spinoza-wolf-short-treatise-1910": "Wolf"
  },
  "_checks": {
   "spinoza-hale-white-ethic-1883": {
@@ -124,6 +130,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1905",
    "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spinoza-wolf-short-treatise-1910": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spinoza",
+   "translator_claimed": "Wolf",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
