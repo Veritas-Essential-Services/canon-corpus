@@ -1,0 +1,74 @@
+{
+ "_about": "Alfred North Whitehead (1861-1947), from Project Gutenberg: The Organisation of Thought (Williams and Norgate, 1917), The Concept of Nature (Tarner Lectures, 1920), Science and the Modern World (Macmillan, 1925) and Symbolism, its Meaning and Effect (Macmillan, 1927). All published before 1930, so US public domain. Not taken: An Introduction to Mathematics, An Enquiry concerning the Principles of Natural Knowledge and Principia Mathematica (PG gives no plain-text file for them). No uids minted.",
+ "_author": "Alfred North Whitehead",
+ "_name_words": [
+  "alfred",
+  "north",
+  "a",
+  "n",
+  "whitehead"
+ ],
+ "_surname": [
+  "whitehead",
+  "north whitehead"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "whitehead-organisation-of-thought-1917": [
+   77011,
+   "The Organisation of Thought, educational and scientific (London: Williams and Norgate, 1917)"
+  ],
+  "whitehead-concept-of-nature-1920": [
+   18835,
+   "The Concept of Nature (Tarner Lectures, 1920)"
+  ],
+  "whitehead-science-and-the-modern-world-1925": [
+   68611,
+   "Science and the Modern World (New York: Macmillan, 1925)"
+  ],
+  "whitehead-symbolism-1927": [
+   78977,
+   "Symbolism, its Meaning and Effect (New York: Macmillan, 1927)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "whitehead-organisation-of-thought-1917": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "whitehead",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whitehead-concept-of-nature-1920": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "whitehead",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whitehead-science-and-the-modern-world-1925": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "whitehead",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whitehead-symbolism-1927": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "whitehead",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
