@@ -1030,3 +1030,6 @@
 
 ## 2026-10-17 17:22 CDT — isaac-williams done
 - `pipeline/isaac-williams_shelf.json`: 0 CCEL, 0 PG, 14 IA. Title pages read for williams-nativity-harmonized (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — f-d-maurice done
+- `pipeline/f-d-maurice_shelf.json`: 0 CCEL, 1 PG, 28 IA. Title pages read for maurice-church-or-state-educate, maurice-church-a-family (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

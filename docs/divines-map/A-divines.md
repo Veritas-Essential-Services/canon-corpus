@@ -4565,3 +4565,45 @@ Slugs `williams-*`. The Devotional Commentary, the Apocalypse and his sermons; h
 | Tracts for the Times volumes, the multi-author Plain Sermons, Lyra Apostolica, Sacred Verses with Pictures (edited) | excluded | |
 | Selections (1890, compiled); his memoir of R. A. Suckling | excluded | |
 | Isaac Williams, Essay on Indigestion (1820); J. Williams, The Christian Scholar | excluded | |
+
+## F. D. Maurice (round 23, my pick, 2026-10-17)
+
+Slugs `maurice-*`. His histories of philosophy are left to the philosophy lane as alternates.
+
+| Work | Status | Where |
+|---|---|---|
+| The Gospel of St. John: a Series of Discourses, new edition (London: Macmillan, 1882) | have-clean | Gutenberg 41362 |
+| Has the Church, or the State, the Power to Educate the Nation? (London: Rivington; Darton and Clark, 1839) | have-ocr | IA `haschurchorstate00maur` |
+| The Kingdom of Christ; or, Hints to a Quaker, vol. I (London: Rivington; Darton & Clark, 1842) | have-ocr | IA `kingdomofchristo01mauriala` |
+| The Kingdom of Christ; or, Hints to a Quaker, vol. II, second edition (London: Rivington; Darton & Clark, 1842) | have-ocr | IA `kingdomofchristo02mauriala` |
+| The Religions of the World and their Relations to Christianity, the Boyle Lectures (London: John W. Parker, M.DCCC.XLVII) | have-ocr | IA `a592608000mauruoft` |
+| The Church a Family: Twelve Sermons on the Occasional Services of the Prayer-Book (London: John W. Parker; catalogued 1850) | have-ocr | IA `churchfamilytwel0000maur` |
+| A Letter to the Lord Bishop of London (London: John W. Parker; catalogued 1850) | have-ocr | IA `lettertorighthon00maur` |
+| The Old Testament: Nineteen Sermons on the First Lessons for the Sundays (London: John W. Parker and Son, M.DCCC.LI) | have-ocr | IA `oldtestamentnin00maurgoog` |
+| The Prayer-Book considered especially in reference to the Romish System, second edition, revised (London: John W. Parker and Son, M.DCCC.LII) | have-ocr | IA `a592600700mauruoft` |
+| The Lord's Prayer: Nine Sermons preached in the Chapel of Lincoln's Inn (Philadelphia: H. Hooker, 1852) | have-ocr | IA `lordsprayernine00maur` |
+| Theological Essays (Cambridge: Macmillan, 1853) | have-ocr | IA `a592619800mauruoft` |
+| The Word 'Eternal' and the Punishment of the Wicked: a Letter to Dr. Jelf (Cambridge: Macmillan, 1853) | have-ocr | IA `dli.bengal.10689.20157` |
+| The Prophets and Kings of the Old Testament (Cambridge: Macmillan, 1853) | have-ocr | IA `a592601600mauruoft` |
+| Sermons on the Sabbath-day, on the Character of the Warrior, and on the Interpretation of History (London: John W. Parker and Son, MDCCCLIII) | have-ocr | IA `sermonsonthesabb00mauruoft` |
+| Lectures on the Ecclesiastical History of the First and Second Centuries (Cambridge: Macmillan, 1854) | have-ocr | IA `lecturesontheecc00mauruoft` |
+| The Doctrine of Sacrifice deduced from the Scriptures (Cambridge: Macmillan, 1854) | have-ocr | IA `doctrineofsacrif00maurrich` |
+| The Patriarchs and Lawgivers of the Old Testament, second edition (Cambridge: Macmillan, 1855) | have-ocr | IA `a592598900mauruoft` |
+| Learning and Working; The Religion of Rome (Cambridge: Macmillan, 1855) | have-ocr | IA `learningworkingr00mauruoft` |
+| The Epistles of St. John: a Series of Lectures on Christian Ethics (Macmillan, 1857) | have-ocr | IA `epistlesofstjohn00maur` |
+| What is Revelation? (Cambridge: Macmillan, 1859) | have-ocr | IA `a592631800mauruoft` |
+| Sequel to the Inquiry, What is Revelation? (Cambridge: Macmillan, 1860) | have-ocr | IA `sequeltotheinqui00mauruoft` |
+| Lectures on the Apocalypse (Cambridge: Macmillan, 1861) | have-ocr | IA `lecturesonapocal0000maur` |
+| Dialogues between a Clergyman and a Layman on Family Worship (Cambridge and London: Macmillan, 1862) | have-ocr | IA `dialoguesclergym00mauruoft` |
+| The Claims of the Bible and of Science (Macmillan, 1863) | have-ocr | IA `claimsofbibleofs00maur` |
+| The Gospel of the Kingdom of Heaven: Lectures on the Gospel of St. Luke (Macmillan, 1864) | have-ocr | IA `gospelofkingdomo00mauriala` |
+| The Commandments considered as Instruments of National Reformation (Macmillan, 1866) | have-ocr | IA `commandmentscons00maur` |
+| Social Morality: Twenty-one Lectures (London and Cambridge: Macmillan, 1869) | have-ocr | IA `socialmoralitytw00maur` |
+| The Conscience: Lectures on Casuistry, second edition (London: Macmillan, 1872) | have-ocr | IA `a592453500mauruoft` |
+| Sermons preached in Country Churches (London: Macmillan, 1873) | have-ocr | IA `sermonspreachedi0000maur_r1v8` |
+| Moral and Metaphysical Philosophy, Mediaeval Philosophy, Modern Philosophy and Ancient Philosophy (Griffin, 1854-1862): history of philosophy, for the philosophy lane | alternate | not shelved |
+| Second copies and later forms: a592475701mauruoft and a5924757b02mauruoft (Kingdom of Christ, 1842), kingdomofchristo00maur (New York, 1843), theologicalessay00mauruoft, wordeternalandp00jelfgoog, gospelstjohnase00maurgoog (Gospel of St. John, 1857), unityofnewtestam00maur (American), christmasdayando00mauruoft (1892), the six-volume Lincoln's Inn Sermons (new edition) | alternate | not shelved |
+| The Life of F. D. Maurice by his son (1884), Faith and Action (selected by another), The Friendship of Books (edited by T. Hughes), Law's Remarks on the Fable of the Bees and Kingsley's poems (his introductions) | excluded | |
+| Eustace Conway (a novel, 1834) | excluded | |
+| The Workman and the Franchise (1866) and Working Men's College pamphlets | excluded | |
+| Frederick Maurice the soldier and others | excluded | |

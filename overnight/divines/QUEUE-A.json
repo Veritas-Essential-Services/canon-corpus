@@ -2695,10 +2695,12 @@
     },
     {
       "id": "f-d-maurice",
-      "status": "queued",
+      "status": "done",
       "scope": "F. D. Maurice (Frederick Denison Maurice, d. 1872): The Kingdom of Christ, Theological Essays, The Doctrine of Sacrifice",
       "added": "2026-10-17T16:36:08-05:00",
-      "added_by": "lane A worker, round 23, on Adam's 2026-10-17 request to keep going on the theological tradition. Victorian churchmen: Tractarians and Roman converts, Broad Church, and the Oxford and Cambridge biblical scholars. Checked against every remote branch's shelves and queues: none held."
+      "added_by": "lane A worker, round 23, on Adam's 2026-10-17 request to keep going on the theological tradition. Victorian churchmen: Tractarians and Roman converts, Broad Church, and the Oxford and Cambridge biblical scholars. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-17T17:22:47-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "h-b-swete",
