@@ -1,0 +1,84 @@
+#!/usr/bin/env python3
+"""Offline checks for the Aquinas Latin-English key (pipeline/build_aquinas_st.py).
+No corpus needed: fixtures are inline. Run: python3 tests/aquinas_test.py"""
+import os, sys, tempfile
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, os.path.join(HERE, "..", "pipeline"))
+import build_aquinas_st as b
+
+FAILS = []
+def check(name, cond):
+    print(("ok   " if cond else "FAIL ") + name)
+    if not cond:
+        FAILS.append(name)
+
+# --- Latin citations (Corpus Thomisticum <P TITLE>) -> key
+for title, want in [
+    ("I q. 2 a. 3 co.", "I.q2.a3.co"),
+    ("I-II q. 90 a. 1 arg. 2", "I-II.q90.a1.arg2"),
+    ("II-II q. 1 a. 1 s. c.", "II-II.q1.a1.sc"),
+    ("II-II q. 1 a. 1 s. c. 2", "II-II.q1.a1.sc2"),
+    ("III q. 60 a. 1 ad 3", "III.q60.a1.ad3"),
+    ("I q. 1 a. 4 ad arg.", "I.q1.a4.ad-sc"),
+    ("I q. 2 pr.", "I.q2.pr"),
+    ("Iª q. 2 pr.", "I.q2.pr"),
+    ("I q. 71 arg. 1", "I.q71.a1.arg1"),          # a question of one article
+    ("I-II pr.", "I-II.pr"),
+    ("Summa theologiae, pr.", "ST.pr"),
+]:
+    check(f"la_key({title!r}) = {want}", b.la_key(title) == want)
+check("la_key refuses what it cannot read", b.la_key("I q. 2 a. 3 xyz") is None)
+
+# --- the key prints as Thomists cite
+check("ref_of co", b.ref_of("I.q2.a3.co") == "ST I q.2 a.3 co.")
+check("ref_of ad", b.ref_of("I-II.q90.a1.ad2") == "ST I-II q.90 a.1 ad 2")
+check("ref_of sc2", b.ref_of("II-II.q1.a1.sc2") == "ST II-II q.1 a.1 s.c. 2")
+
+# --- order inside an article
+segs = ["ad2", "co", "arg2", "sc", "", "arg1", "ad1", "ad-sc"]
+check("seg order", sorted(segs, key=b.seg_sort) == ["", "arg1", "arg2", "sc", "co", "ad1", "ad2", "ad-sc"])
+
+# --- English: one CCEL article, with a continuation paragraph and an unbolded label
+THML = """<ThML><ThML.body>
+<div3 title="Question. 2 - The Existence of God" id="FP_Q2">
+<h3>THE EXISTENCE OF GOD</h3>
+<p id="a"> Because the chief aim of sacred doctrine is to teach the knowledge of God.</p>
+<div4 title="Article. 3 - Whether God exists?" id="FP_Q2_A3">
+<h4 id="h">Whether God exists?</h4>
+<p id="p1"><b>Objection 1:</b> It seems that God does not exist.</p>
+<p id="p2"><b>Objection 2:</b> Further, it is superfluous.</p>
+<p id="p3"><b>On the contrary,</b> It is said in the person of God: "I am Who am."</p>
+<p id="p4"><b>I answer that,</b> The existence of God can be proved in five ways.</p>
+<p id="p5"> The first and more manifest way is the argument from motion.</p>
+<p id="p6"><b>Reply to Objection 1:</b> As Augustine says (<scripRef osisRef="Bible.vul:Ex.3.14">Ex. 3:14</scripRef>).</p>
+<p id="p7"><b>Reply to Objection 1:</b> Since nature works for a determinate end.</p>
+</div4>
+</div3>
+</ThML.body></ThML>"""
+with tempfile.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as f:
+    f.write(THML)
+b.REPAIRS.clear()
+units, titles = b.parse_en(f.name)
+os.unlink(f.name)
+by = {u["key"]: u for u in units}
+check("question prologue keyed .pr", by.get("I.q2.pr", {}).get("text", "").startswith("Because the chief aim"))
+check("article title row", by.get("I.q2.a3", {}).get("text") == "Whether God exists?")
+check("labels stripped", by.get("I.q2.a3.arg1", {}).get("text") == "It seems that God does not exist.")
+check("continuation paragraph stays with the body",
+      by.get("I.q2.a3.co", {}).get("text", "").endswith("argument from motion."))
+check("a repeated reply label is renumbered by position", "I.q2.a3.ad2" in by
+      and by["I.q2.a3.ad2"]["text"].startswith("Since nature"))
+check("...and the repair is recorded", any(r["key"] == "I.q2.a3" for r in b.REPAIRS))
+check("scripture link kept as the source tagged it, unresolved",
+      by["I.q2.a3.ad1"]["links"] == [{"osis": "Ex.3.14", "versification": "vul", "resolved": False}])
+
+# --- the key: same parts both sides -> both; a missing reply -> parts-differ, never forced
+en = [{"key": k} for k in ["I.q2.a3", "I.q2.a3.arg1", "I.q2.a3.co", "I.q2.a4", "I.q2.a4.co"]]
+la = [{"key": k} for k in ["I.q2.a3.arg1", "I.q2.a3.co", "I.q2.a4.co", "I.q2.a4.ad1", "I.q2.a5.co"]]
+rows = {r["key"]: r for r in b.build_key(en, la, {"I.q2.a3": "t"})}
+check("key: both", rows["I.q2.a3"]["status"] == "both")
+check("key: parts-differ", rows["I.q2.a4"]["status"] == "parts-differ")
+check("key: la-only", rows["I.q2.a5"]["status"] == "la-only")
+
+print(f"\n{len(FAILS)} failed" if FAILS else "\nall passed")
+sys.exit(1 if FAILS else 0)
