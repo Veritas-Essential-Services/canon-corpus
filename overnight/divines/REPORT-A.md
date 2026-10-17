@@ -1111,3 +1111,6 @@
 
 ## 2026-10-17 17:41 CDT — lorenzo-scupoli done
 - `pipeline/lorenzo-scupoli_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:41 CDT — round 24 closed
+- 17 shelves, 91 items (9 CCEL, 5 PG, 77 IA), translators recorded in `_translators`. All `--verify --record`: 0 mismatched; 0 uids minted. Veto points in DIGEST-A.
