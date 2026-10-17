@@ -5231,3 +5231,17 @@ Slugs `ignatius-*`. Translators: Mullan, Seager, Longridge, Rix, O'Leary; the Mo
 | Other copies of the Autobiography, the Testament and the Letters | alternate | not shelved |
 | Retreats, meditations and adaptations by other hands (Coppens 1916, Manresa, Colton 1887, 1862, 1883) | excluded | |
 | Latin and Spanish editions | excluded | |
+
+## Catherine of Siena (round 25, my pick, 2026-10-17)
+
+Slugs `catherine-*`. Translators: Thorold (full 1896 and abridged 1907 Dialogue), Scudder (letters).
+
+| Work | Status | Where |
+|---|---|---|
+| The Dialogue of the Seraphic Virgin Catherine of Siena, a new and abridged edition, tr. Algar Thorold (London: Kegan Paul, 1907) | have-clean | CCEL catherine/dialog |
+| Saint Catherine of Siena as Seen in Her Letters, tr. and ed. Vida D. Scudder (London: J. M. Dent, 1905) | have-clean | Gutenberg 7403 |
+| The Dialogue of the Seraphic Virgin Catherine of Siena, tr. Algar Thorold (London: Kegan Paul, Trench, Trübner, 1896) | have-ocr | IA `seraphicvirginca00cathuoft` |
+| The 1907 abridgement on IA, the 1925 Burns Oates & Washbourne reissue, the Scudder first edition scan (1905) and its 1906 and 1911 reprints | alternate | not shelved |
+| The Orcharde of Syon, the Middle English Dialogue (Wynkyn de Worde, 1519): blackletter OCR unusable | alternate | not shelved |
+| Lives of her (1898, Gardner 1907, Curtayne 1929) | excluded | |
+| Modern retypesets and the 1980 Paulist edition | excluded | |
