@@ -3652,6 +3652,8 @@ Shelf: `pipeline/spinoza_shelf.json`. Benedict de Spinoza (1632-1677) in English
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Ethic, demonstrated in geometrical order and divided into five parts (London: Trübner, 1883) | William Hale White | `spinoza-hale-white-ethic-1883` | have-raw (IA `ethicdemonstrate00spinuoft`) |
+| Tractatus Theologico-Politicus: a critical inquiry into the history, purpose, and authenticity of the Hebrew Scriptures, with an introduction and notes by the editor (London: Trübner, 1862) | Robert Willis (named on the title page of his 1870 volume, which lists this one) | `spinoza-willis-tractatus-1862` | have-raw (IA `tractatustheolog00spinuoft`) |
+| Benedict de Spinoza: his life, correspondence, and Ethics (London: Trübner, 1870) | R. Willis | `spinoza-willis-life-ethics-1870` | have-raw (IA `benedictdespinoz00willuoft`) |
 
 Pending (wishlist): Hale White's Tractatus de Intellectus Emendatione in a dated printing.
 

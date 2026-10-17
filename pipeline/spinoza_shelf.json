@@ -18,10 +18,22 @@
    "ethicdemonstrate00spinuoft",
    "Ethic, demonstrated in geometrical order and divided into five parts (London: Trübner, 1883)",
    "tr. William Hale White"
+  ],
+  "spinoza-willis-tractatus-1862": [
+   "tractatustheolog00spinuoft",
+   "Tractatus Theologico-Politicus: a critical inquiry into the history, purpose, and authenticity of the Hebrew Scriptures, with an introduction and notes by the editor (London: Trübner, 1862)",
+   "tr. Robert Willis (named on the title page of his 1870 volume, which lists this one)"
+  ],
+  "spinoza-willis-life-ethics-1870": [
+   "benedictdespinoz00willuoft",
+   "Benedict de Spinoza: his life, correspondence, and Ethics (London: Trübner, 1870)",
+   "tr. R. Willis"
   ]
  },
  "_excluded": {},
- "_translators": {},
+ "_translators": {
+  "spinoza-willis-life-ethics-1870": "Willis"
+ },
  "_checks": {
   "spinoza-hale-white-ethic-1883": {
    "kind": "ia",
@@ -31,6 +43,30 @@
    "identity": "ok",
    "ia_rights": "ok: published 1883",
    "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spinoza-willis-tractatus-1862": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spinoza",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spinoza-willis-life-ethics-1870": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "spinoza",
+   "translator_claimed": "Willis",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
