@@ -1053,3 +1053,6 @@
 
 ## 2026-10-17 17:39 CDT — wiggin: done
 - wiggin: completed, 26 more Gutenberg books (32 on the shelf), 21,085 units, 469 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:45 CDT — seton: done
+- seton: completed, 11 more Gutenberg books (14 on the shelf), 13,104 units, 1011 ~2 ids; verify 0 mismatches, 0 rights flags.

@@ -273,7 +273,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `martha-finley` | 38 Gutenberg | 0 | 71,016 | The Elsie and Mildred books and other stories for girls. Completed 2026-10-17: 35 more books added, every English text by Martha Finley at Gutenberg that no other shelf holds. |
 | `mark-twain` | 5 Gutenberg | 0 | 7,094 | The Adventures of Tom Sawyer (Hartford, 1876), Adventures of Huckleberry Finn, The Prince and the Pauper, Tom Sawyer Abroad, Tom Sawyer, Detective. Huckleberry Finn prints racial slurs in its characters' speech and is kept as printed. |
 | `aldrich` | 1 Gutenberg | 0 | 998 | The Story of a Bad Boy (undated in the text). |
-| `seton` | 3 Gutenberg | 0 | 1,192 | Wild Animals I Have Known (undated in the text), The Biography of a Grizzly (1899), Johnny Bear and Other Stories from Lives of the Hunted (undated in the text). Johnny Bear's own sections stand at the top level because its title is printed only on the title page and in the Contents. |
+| `seton` | 14 Gutenberg | 0 | 13,104 | Animal stories and woodcraft tales. Completed 2026-10-17: 11 more books added, every English text by Ernest Thompson Seton at Gutenberg that no other shelf holds. |
 | `charles-g-d-roberts` | 2 Gutenberg | 0 | 1,080 | The Kindred of the Wild (copyright 1896-1902), The Watchers of the Trails (copyright 1903-1904; 1906 printing). |
 | `jack-london` | 2 Gutenberg | 0 | 1,405 | The Call of the Wild, White Fang (both undated in the text). |
 | `marshall-saunders` | 1 Gutenberg | 0 | 1,458 | Beautiful Joe (1903 printing). |

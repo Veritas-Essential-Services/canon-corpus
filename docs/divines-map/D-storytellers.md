@@ -3366,13 +3366,26 @@ Shelf: `pipeline/aldrich_shelf.json` (2026-10-02; added at the coordinator's rel
 
 ## Ernest Thompson Seton
 
-Shelf: `pipeline/seton_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Animal stories from his own observation; cut by story and numbered section. Not in the manifest; no uids minted.
+Shelf: `pipeline/seton_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Animal stories and woodcraft tales. All 14 of Ernest Thompson Seton's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | Wild Animals I Have Known | have | PG 3031, `seton-wild-animals-i-have-known` (678 units) |
 | The Biography of a Grizzly | have | PG 9330, `seton-biography-of-a-grizzly` (203 units) |
 | Johnny Bear, and Other Stories from Lives of the Hunted | have | PG 9333, `seton-johnny-bear` (311 units) |
+| Rolf in the Woods | have | PG 1088, `seton-rolf-in-the-woods` (1910 units) |
+| Animal Heroes | have | PG 2284, `seton-animal-heroes` (699 units) |
+| The Arctic Prairies : a Canoe-Journey of 2,000 Miles in Search of the Caribou; Being the Account of a Voyage to the Region North of Aylemer Lake | have | PG 6818, `seton-arctic-prairies` (1032 units) |
+| Monarch, the Big Bear of Tallac | have | PG 11135, `seton-monarch-the-big-bear-of-tallac` (293 units) |
+| Two Little Savages Being the adventures of two boys who lived as Indians and what they learned | have | PG 13499, `seton-two-little-savages-being-the-adventures-of-two-boys-wh` (2848 units) |
+| Lobo, Rag and Vixen Being The Personal Histories Of Lobo, Redruff, Raggylug & Vixen | have | PG 14226, `seton-lobo-rag-and-vixen-being-the-personal-histories-of-lob` (388 units) |
+| Woodland Tales | have | PG 23667, `seton-woodland-tales` (1175 units) |
+| Wild Animals at Home | have | PG 27887, `seton-wild-animals-at-home` (986 units) |
+| The Preacher of Cedar Mountain: A Tale of the Open Country | have | PG 30313, `seton-preacher-of-cedar-mountain` (2025 units) |
+| The Trail of the Sandhill Stag | have | PG 32319, `seton-trail-of-the-sandhill-stag` (199 units) |
+| Bannertail: The Story of a Graysquirrel | have | PG 42827, `seton-bannertail` (357 units) |
+| seton-sign-talk | excluded | PG 50938, Sign Talk, is a sign-language dictionary with matter by other hands |
+| seton-repeat-25023 | excluded | PG 25023, The Biography of a Grizzly: a second transcription of a title already on this shelf |
 
 ## Charles G. D. Roberts
 

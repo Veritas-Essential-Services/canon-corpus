@@ -1,5 +1,5 @@
 {
- "_about": "Ernest Thompson Seton's animal stories: Wild Animals I Have Known (undated in the text), The Biography of a Grizzly (1899; the title page signs him Ernest Seton-Thompson) and Johnny Bear, and Other Stories from Lives of the Hunted (a selection from that book; undated in the text). Gutenberg's second Grizzly (PG 25023) is not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Ernest Thompson Seton's animal stories: Wild Animals I Have Known (undated in the text), The Biography of a Grizzly (1899; the title page signs him Ernest Seton-Thompson) and Johnny Bear, and Other Stories from Lives of the Hunted (a selection from that book; undated in the text). Gutenberg's second Grizzly (PG 25023) is not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by Ernest Thompson Seton at Gutenberg was added (11 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (1) and shared or misattributed files are listed in _excluded.",
  "_author": "Ernest Thompson Seton",
  "_name_words": [
   "seton"
@@ -59,14 +59,76 @@
     "start": "I$",
     "front": true
    }
+  ],
+  "seton-rolf-in-the-woods": [
+   1088,
+   "Rolf in the Woods",
+   {
+    "levels": [
+     {
+      "re": "Chapter [0-9]+\\. .{1,90}$"
+     }
+    ],
+    "start": "Chapter 1\\. ",
+    "front": true
+   }
+  ],
+  "seton-animal-heroes": [
+   2284,
+   "Animal Heroes"
+  ],
+  "seton-arctic-prairies": [
+   6818,
+   "The Arctic Prairies : a Canoe-Journey of 2,000 Miles in Search of the Caribou; Being the Account of a Voyage to the Region North of Aylemer Lake"
+  ],
+  "seton-monarch-the-big-bear-of-tallac": [
+   11135,
+   "Monarch, the Big Bear of Tallac"
+  ],
+  "seton-two-little-savages-being-the-adventures-of-two-boys-wh": [
+   13499,
+   "Two Little Savages Being the adventures of two boys who lived as Indians and what they learned"
+  ],
+  "seton-lobo-rag-and-vixen-being-the-personal-histories-of-lob": [
+   14226,
+   "Lobo, Rag and Vixen Being The Personal Histories Of Lobo, Redruff, Raggylug & Vixen"
+  ],
+  "seton-woodland-tales": [
+   23667,
+   "Woodland Tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "seton-wild-animals-at-home": [
+   27887,
+   "Wild Animals at Home"
+  ],
+  "seton-preacher-of-cedar-mountain": [
+   30313,
+   "The Preacher of Cedar Mountain: A Tale of the Open Country",
+   {
+    "contents_only": true
+   }
+  ],
+  "seton-trail-of-the-sandhill-stag": [
+   32319,
+   "The Trail of the Sandhill Stag"
+  ],
+  "seton-bannertail": [
+   42827,
+   "Bannertail: The Story of a Graysquirrel"
   ]
  },
  "internet_archive": {},
- "_excluded": {},
+ "_excluded": {
+  "seton-sign-talk": "PG 50938, Sign Talk, is a sign-language dictionary with matter by other hands",
+  "seton-repeat-25023": "PG 25023, The Biography of a Grizzly: a second transcription of a title already on this shelf"
+ },
  "_checks": {
   "seton-wild-animals-i-have-known": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "ernest thompson seton",
    "identity": "ok",
@@ -75,7 +137,7 @@
   },
   "seton-biography-of-a-grizzly": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "ernest thompson seton",
    "identity": "ok",
@@ -84,7 +146,106 @@
   },
   "seton-johnny-bear": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ernest thompson seton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "seton-rolf-in-the-woods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ernest thompson seton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "seton-animal-heroes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ernest thompson seton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "seton-arctic-prairies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ernest thompson seton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "seton-monarch-the-big-bear-of-tallac": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ernest thompson seton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "seton-two-little-savages-being-the-adventures-of-two-boys-wh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ernest thompson seton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "seton-lobo-rag-and-vixen-being-the-personal-histories-of-lob": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ernest thompson seton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "seton-woodland-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ernest thompson seton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "seton-wild-animals-at-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ernest thompson seton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "seton-preacher-of-cedar-mountain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ernest thompson seton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "seton-trail-of-the-sandhill-stag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ernest thompson seton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "seton-bannertail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "ernest thompson seton",
    "identity": "ok",
