@@ -21,12 +21,35 @@
    "microcosmusessay02lotziala",
    "Microcosmus, vol. II (Edinburgh: T. & T. Clark, 1887)",
    "tr. Elizabeth Hamilton and E. E. Constance Jones"
+  ],
+  "lotze-bosanquet-logic-1888-v1": [
+   "logicinthreebook01lotzuoft",
+   "Logic, in three books: of thought, of investigation, and of knowledge, English translation, 2nd ed., vol. I (Oxford: Clarendon, 1888)",
+   "ed. Bernard Bosanquet"
+  ],
+  "lotze-bosanquet-logic-1888-v2": [
+   "logicinthreeboo02lotz",
+   "Logic, in three books, 2nd ed., vol. II (Oxford: Clarendon, 1888)",
+   "ed. Bernard Bosanquet"
+  ],
+  "lotze-bosanquet-metaphysic-1887-v1": [
+   "metaphysicinthre01lotzuoft",
+   "Metaphysic, in three books: ontology, cosmology, and psychology, English translation, 2nd ed., vol. I (Oxford: Clarendon, 1887)",
+   "ed. Bernard Bosanquet"
+  ],
+  "lotze-bosanquet-metaphysic-1887-v2": [
+   "metaphysicvolii032380mbp",
+   "Metaphysic, in three books, 2nd ed., vol. II (Oxford: Clarendon, 1887)",
+   "ed. Bernard Bosanquet"
   ]
  },
  "_excluded": {},
  "_translators": {
   "lotze-hamilton-jones-microcosmus-1885-v1": "Hamilton",
-  "lotze-hamilton-jones-microcosmus-1887-v2": "Hamilton"
+  "lotze-hamilton-jones-microcosmus-1887-v2": "Hamilton",
+  "lotze-bosanquet-logic-1888-v1": "Bosanquet",
+  "lotze-bosanquet-logic-1888-v2": "Bosanquet",
+  "lotze-bosanquet-metaphysic-1887-v1": "Bosanquet"
  },
  "_identity_checked": {
   "lotze-hamilton-jones-microcosmus-1887-v2": {
@@ -59,6 +82,56 @@
    "ia_rights": "ok: published 1887",
    "ia_date": "1887",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lotze-bosanquet-logic-1888-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "translator_claimed": "Bosanquet",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lotze-bosanquet-logic-1888-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "translator_claimed": "Bosanquet",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lotze-bosanquet-metaphysic-1887-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "translator_claimed": "Bosanquet",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lotze-bosanquet-metaphysic-1887-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

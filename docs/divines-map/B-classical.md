@@ -3696,6 +3696,10 @@ Shelf: `pipeline/lotze_shelf.json`. Hermann Lotze (1817-1881) in English, raw IA
 |---|---|---|---|
 | Microcosmus: an essay concerning man and his relation to the world, vol. I (Edinburgh: T. & T. Clark, 1885) | Elizabeth Hamilton and E. E. Constance Jones | `lotze-hamilton-jones-microcosmus-1885-v1` | have-raw (IA `microcosmusessa01lotz`) |
 | Microcosmus, vol. II (Edinburgh: T. & T. Clark, 1887) | Elizabeth Hamilton and E. E. Constance Jones | `lotze-hamilton-jones-microcosmus-1887-v2` | have-raw (IA `microcosmusessay02lotziala`) |
+| Logic, in three books: of thought, of investigation, and of knowledge, English translation, 2nd ed., vol. I (Oxford: Clarendon, 1888) | Bosanquet | `lotze-bosanquet-logic-1888-v1` | have-raw (IA `logicinthreebook01lotzuoft`) |
+| Logic, in three books, 2nd ed., vol. II (Oxford: Clarendon, 1888) | Bosanquet | `lotze-bosanquet-logic-1888-v2` | have-raw (IA `logicinthreeboo02lotz`) |
+| Metaphysic, in three books: ontology, cosmology, and psychology, English translation, 2nd ed., vol. I (Oxford: Clarendon, 1887) | Bosanquet | `lotze-bosanquet-metaphysic-1887-v1` | have-raw (IA `metaphysicinthre01lotzuoft`) |
+| Metaphysic, in three books, 2nd ed., vol. II (Oxford: Clarendon, 1887) |  | `lotze-bosanquet-metaphysic-1887-v2` | have-raw (IA `metaphysicvolii032380mbp`) |
 
 Pending (wishlist): Ladd's Outlines of Metaphysic (1884) and Outlines of Aesthetics (1886).
 
