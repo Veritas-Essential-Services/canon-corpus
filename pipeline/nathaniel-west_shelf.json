@@ -1,0 +1,123 @@
+{
+ "_about": "Public-domain Nathaniel West (1826-1906, Presbyterian, premillennial scholar) for the Word Hoard: 6 books and addresses from Internet Archive scans, 1861-1898, among them The Thousand Years in Both Testaments (1880), The Apostle Paul and the Any-Moment Theory (1893) and Daniel's Great Prophecy (1898). Raw OCR. Added 2026-10-17 by lane A, round 22 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "west"
+ ],
+ "_surname": [
+  "nathaniel west",
+  "n. west, jr.",
+  "nathaniel west, jr.",
+  "rev. n. west",
+  "nathaniel west, d.d.",
+  "west, nathaniel"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "west-thousand-years": [
+   "thousandyearsinb00west",
+   "The Thousand Years in Both Testaments (Chicago and New York: Fleming H. Revell; entered 1880)"
+  ],
+  "west-apostle-paul-any-moment": [
+   "apostlepaulanymo00west",
+   "The Apostle Paul and the \"Any-Moment\" Theory (Philadelphia: James M. Armstrong, 1893)"
+  ],
+  "west-daniels-great-prophecy": [
+   "danielsgreatprop00west",
+   "Daniel's Great Prophecy, the Eastern Question, the Kingdom (New York: The Hope of Israel Movement; copyright 1898)"
+  ],
+  "west-missionary-address": [
+   "missionaryaddres00west",
+   "A Missionary Address, delivered in Brooklyn, October 1861, before the Synod of New York (New York: Mission House, 1862)"
+  ],
+  "west-national-righteousness": [
+   "establishmentinn00west",
+   "Establishment in National Righteousness, and Present Causes for Thanksgiving, a sermon of 28 November 1861 (New York: John F. Trow, 1861)"
+  ],
+  "west-grandeur-of-history": [
+   "scientifictheolo00west",
+   "The Scientific and Theological Grandeur of History, inaugural address at Danville Theological Seminary, 1868 (Frankfort, Ky.: A. G. Hodges, 1869)"
+  ]
+ },
+ "_alternates": {
+  "west-second-coming": "Second Coming of Christ: Premillennial Essays of the Prophetic Conference (Chicago: F. H. Revell, 1879; secondcomingofch00westrich): he edited it; the essays are by many speakers",
+  "west-thomas-memorial": "In Memory of Thomas Ebenezer Thomas (Cincinnati, 1875; inmemoryofthomas00westiala): his name is lost in the OCR",
+  "west-daniel-copies": "Second copies of Daniel's Great Prophecy (danielsgreatpro00westgoog, danielsgreatprop0000revn)"
+ },
+ "_excluded": {
+  "west-sibley": "The Ancestry, Life, and Times of Henry Hastings Sibley (1889): secular biography",
+  "west-medical": "The Medical Science and Profession (1877): commencement address",
+  "west-namesakes": "an earlier Nathaniel West (1794-1864) and an electrical engineer N. West",
+  "west-late": "reprints of 1936 and 1993; periodical articles without text"
+ },
+ "_pending": {},
+ "_checks": {
+  "west-thousand-years": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "nathaniel west",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "west-apostle-paul-any-moment": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "nathaniel west",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "west-daniels-great-prophecy": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "nathaniel west",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "west-missionary-address": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "n. west, jr.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "west-national-righteousness": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "nathaniel west",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "west-grandeur-of-history": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "nathaniel west",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

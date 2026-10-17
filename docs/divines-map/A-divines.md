@@ -4221,3 +4221,23 @@ Slugs `brookes-*`. Four undated St. Louis and Chicago printings carry rights not
 | Gold from Ophir (his introduction) and the 1864 Gamble memorial (multi-author) | excluded | |
 | Original Sermons (1833) by an earlier James Hall Brookes | excluded | |
 | reprints of 1937-1989 | excluded | |
+
+## Nathaniel West (round 22, my pick, 2026-10-17)
+
+Slugs `west-*`. The 1879 Prophetic Conference volume he edited is an alternate.
+
+| Work | Status | Where |
+|---|---|---|
+| The Thousand Years in Both Testaments (Chicago and New York: Fleming H. Revell; entered 1880) | have-ocr | IA `thousandyearsinb00west` |
+| The Apostle Paul and the "Any-Moment" Theory (Philadelphia: James M. Armstrong, 1893) | have-ocr | IA `apostlepaulanymo00west` |
+| Daniel's Great Prophecy, the Eastern Question, the Kingdom (New York: The Hope of Israel Movement; copyright 1898) | have-ocr | IA `danielsgreatprop00west` |
+| A Missionary Address, delivered in Brooklyn, October 1861, before the Synod of New York (New York: Mission House, 1862) | have-ocr | IA `missionaryaddres00west` |
+| Establishment in National Righteousness, and Present Causes for Thanksgiving, a sermon of 28 November 1861 (New York: John F. Trow, 1861) | have-ocr | IA `establishmentinn00west` |
+| The Scientific and Theological Grandeur of History, inaugural address at Danville Theological Seminary, 1868 (Frankfort, Ky.: A. G. Hodges, 1869) | have-ocr | IA `scientifictheolo00west` |
+| Second Coming of Christ: Premillennial Essays of the Prophetic Conference (Chicago: F. H. Revell, 1879; secondcomingofch00westrich): he edited it; the essays are by many speakers | alternate | not shelved |
+| In Memory of Thomas Ebenezer Thomas (Cincinnati, 1875; inmemoryofthomas00westiala): his name is lost in the OCR | alternate | not shelved |
+| Second copies of Daniel's Great Prophecy (danielsgreatpro00westgoog, danielsgreatprop0000revn) | alternate | not shelved |
+| The Ancestry, Life, and Times of Henry Hastings Sibley (1889): secular biography | excluded | |
+| The Medical Science and Profession (1877): commencement address | excluded | |
+| an earlier Nathaniel West (1794-1864) and an electrical engineer N. West | excluded | |
+| reprints of 1936 and 1993; periodical articles without text | excluded | |
