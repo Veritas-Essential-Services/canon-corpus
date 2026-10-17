@@ -1,5 +1,5 @@
 {
- "_about": "Hermann Lotze (1817-1881) in English, raw IA OCR: Microcosmus, tr. Elizabeth Hamilton and E. E. Constance Jones (T. & T. Clark, vol. I 1885, vol. II 1887); Lotze's System of Philosophy, English translation edited by Bernard Bosanquet (Oxford, 2nd ed.: Logic, 2 vols., 1888; Metaphysic, 2 vols., 1887); and four of George T. Ladd's Outlines of Philosophy, dictated portions of the lectures (Ginn: Practical Philosophy 1885, Psychology 1886, Logic and Encyclopedia 1887, Philosophy of Religion in a 1903 printing). Added in round ad: Outlines of Metaphysic, dictated portions of the lectures (Boston: Ginn, Heath, 1884). US public domain. Still wanted: Outlines of Aesthetics. No uids minted.",
+ "_about": "Hermann Lotze (1817-1881) in English, raw IA OCR: Microcosmus, tr. Elizabeth Hamilton and E. E. Constance Jones (T. & T. Clark, vol. I 1885, vol. II 1887); Lotze's System of Philosophy, English translation edited by Bernard Bosanquet (Oxford, 2nd ed.: Logic, 2 vols., 1888; Metaphysic, 2 vols., 1887); and four of George T. Ladd's Outlines of Philosophy, dictated portions of the lectures (Ginn: Practical Philosophy 1885, Psychology 1886, Logic and Encyclopedia 1887, Philosophy of Religion in a 1903 printing). Added in round ad: Outlines of Metaphysic, dictated portions of the lectures (Boston: Ginn, Heath, 1884). Added in round ae: Outlines of Aesthetics, dictated portions of the lectures (Boston: Ginn, 1886). US public domain. No uids minted.",
  "_author": "Hermann Lotze",
  "_name_words": [
   "hermann",
@@ -65,6 +65,11 @@
   "lotze-ladd-outlines-of-metaphysic-1884": [
    "outlinesofmetaph00lotzrich",
    "Outlines of Metaphysic, dictated portions of the lectures (Boston: Ginn, Heath, 1884)",
+   "tr. George T. Ladd"
+  ],
+  "lotze-ladd-outlines-of-aesthetics-1886": [
+   "outlinesofaesthe00lotzuoft",
+   "Outlines of Aesthetics, dictated portions of the lectures (Boston: Ginn, 1886)",
    "tr. George T. Ladd"
   ]
  },
@@ -223,6 +228,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1884",
    "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lotze-ladd-outlines-of-aesthetics-1886": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
