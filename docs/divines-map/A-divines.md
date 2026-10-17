@@ -4840,3 +4840,35 @@ Slugs `milligan-*`.
 | Elijah: his Life and Times (Randolph, undated; IA's 1880 date doubtful) | alternate | not shelved |
 | William Milligan Sloane, Sir W. Milligan and George Milligan | excluded | |
 | 2018 reprint | excluded | |
+
+## A. P. Stanley (round 23, my pick, 2026-10-17)
+
+Slugs `stanley-*`. Lectures on the Jewish Church, Corinthians, sermons; four OCR-garbled title pages read.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons and Essays on the Apostolical Age, first edition (Oxford: J. H. Parker, MDCCCXLVII) | have-ocr | IA `sermonsessaysona00stanrich` |
+| The Epistles of St Paul to the Corinthians, with Critical Notes and Dissertations, vol. 1 (London: John Murray, 1855) | have-ocr | IA `india.history.resource.53506` |
+| The Epistles of St Paul to the Corinthians, vol. 2 (London: John Murray, 1855) | have-ocr | IA `epistlesofstpaul02stanuoft` |
+| Unity of Evangelical and Apostolical Teaching: Sermons (London: John Murray, 1859) | have-ocr | IA `unityevangelica01stangoog` |
+| Lectures on the History of the Eastern Church, first edition (London: John Murray, 1861) | have-ocr | IA `india.history.resource.107137` |
+| Lectures on the History of the Jewish Church, part 1: Abraham to Samuel, second edition (London: John Murray, 1863) | have-ocr | IA `lecturesonhistor0001arth` |
+| Lectures on the History of the Jewish Church, part 2: Samuel to the Captivity (London: John Murray, 1865) | have-ocr | IA `lecturesonhisto06stangoog` |
+| Lectures on the History of the Jewish Church, third series: the Captivity to the Christian Era (London: John Murray, 1876) | have-ocr | IA `lecturesonhisto05stangoog` |
+| The Bible: its Form and its Substance, three sermons (Oxford and London: J. H. and J. Parker, 1863) | have-ocr | IA `bibleitsformitss00stan` |
+| Sermons Preached before the Prince of Wales during his Tour in the East, 1862 (New York: Charles Scribner, 1863) | have-ocr | IA `sermonspreache00stan` |
+| Essays chiefly on Questions of Church and State from 1850 to 1870 (London: John Murray, 1870) | have-ocr | IA `a609031900stanuoft` |
+| The Athanasian Creed (London: Macmillan, 1871) | have-ocr | IA `a626833400stanuoft` |
+| Lectures on the History of the Church of Scotland (New York: Scribner, Armstrong, 1872) | have-ocr | IA `a609033700stanuoft` |
+| The National Thanksgiving: Sermons Preached in Westminster Abbey (London: Macmillan, 1872) | have-ocr | IA `nationalthanksg00stangoog` |
+| Addresses and Sermons delivered at St Andrews in 1872, 1875 and 1877 (London: Macmillan, 1877) | have-ocr | IA `addressesandser02stangoog` |
+| Addresses and Sermons delivered during a Visit to the United States and Canada in 1878 (New York: Macmillan, 1879) | have-ocr | IA `addressesandserm00stanuoft` |
+| Christian Institutions: Essays on Ecclesiastical Subjects (London: John Murray, 1881) | have-ocr | IA `india.history.resource.94123` |
+| Sermons on Special Occasions Preached in Westminster Abbey, posthumous (London: John Murray, 1882) | have-ocr | IA `sermonsonspecia00stangoog` |
+| The Life and Correspondence of Thomas Arnold (1844, 2 vols.) and the memoir of his father in Edward Stanley's Addresses and Charges (1852) | alternate | not shelved |
+| Sinai and Palestine (1856), Historical Memorials of Canterbury (1855) and of Westminster Abbey (1868, 1869) | alternate | not shelved |
+| Other editions and American issues of the Eastern Church, Jewish Church, Christian Institutions and Essays; Sermons for Children (1887) | alternate | not shelved |
+| A Record of St. Cybi's Church, Holyhead, with his 1879 sermon (Gutenberg 52261): published by others | alternate | not shelved |
+| Scripture Portraits (1867) and a 1894 selection compiled by others; Prothero's Letters and Verses and Life; Elgin's Letters (his preface only) | excluded | |
+| Edward Stanley (his father), Arthur Stanley the anthologist, H. M. Stanley | excluded | |
+| Everyman and modern reprints | excluded | |

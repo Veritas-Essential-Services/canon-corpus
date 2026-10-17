@@ -1054,3 +1054,6 @@
 
 ## 2026-10-17 17:23 CDT — william-milligan done
 - `pipeline/william-milligan_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:23 CDT — a-p-stanley done
+- `pipeline/a-p-stanley_shelf.json`: 0 CCEL, 0 PG, 18 IA. Title pages read for stanley-corinthians-1, stanley-unity-teaching, stanley-jewish-church-2, stanley-special-occasions (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
