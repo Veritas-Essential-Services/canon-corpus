@@ -1680,27 +1680,27 @@
  "church-iliad-boys": {
   "title": "The Iliad for Boys and Girls",
   "author": "Alfred J. Church",
-  "format": "archive-ocr",
-  "sha256": "7d455cdb76a2e5e5f00a7a37b5de18de2aa77cb93345b566f127dbcc06b664ca",
-  "units": 375,
+  "format": "unscanner",
+  "sha256": "d48108d4bb1e99d8776f29ab8ef370c3da936262945a44c43fcbd34831450e4e",
+  "units": 374,
   "scheme": {
-   "apparatus": "page furniture removed by rule (443 lines: page numbers, running heads, plate captions, scanner specks); paragraphs cut by page breaks rejoined",
+   "apparatus": "re-OCR'd from the scan with layout: paragraphs from printed indentation, headings from size and centring, folios and running heads removed by position and recurrence, margin hyphens rejoined by the book's own spellings; italic and small capitals measured from the ink; 24 unsure words mended from the Archive's own OCR (a second witness) where the book attests that reading elsewhere",
    "citation": "chapter + paragraph",
    "resolution": "paragraph",
-   "honesty": "UNPROOFREAD OCR of a library scan (archive.org iliadforboysgirl00chur_0): the scanner's misreadings stand; a paragraph that ended exactly at a page's foot may be joined to the next or vice versa; chapter headings read from the scan, paragraph running within chapter"
+   "honesty": "UNPROOFREAD OCR (tesseract) of a library scan (archive.org iliadforboysgirl00chur_0), mean word confidence 93.69: misreadings stand; paragraph breaks are read from indentation, so a paragraph ending exactly at a page's foot is detected by the next page's indent; each unit names its scan pages and printed page labels"
   }
  },
  "church-odyssey-boys": {
   "title": "The Odyssey for Boys and Girls",
   "author": "Alfred J. Church",
-  "format": "archive-ocr",
-  "sha256": "4a5809bccbca5ad7788caa4b5e5e9ecd74d2e73e16ddd69a40cb8209b1d0c060",
-  "units": 331,
+  "format": "unscanner",
+  "sha256": "0ff9026e0d3b750aa4f6ba0e54d1b1455549ca224aff209bf7f285d2bf475786",
+  "units": 436,
   "scheme": {
-   "apparatus": "page furniture removed by rule (455 lines: page numbers, running heads, plate captions, scanner specks); paragraphs cut by page breaks rejoined",
+   "apparatus": "re-OCR'd from the scan with layout: paragraphs from printed indentation, headings from size and centring, folios and running heads removed by position and recurrence, margin hyphens rejoined by the book's own spellings; italic and small capitals measured from the ink; 51 unsure words mended from the Archive's own OCR (a second witness) where the book attests that reading elsewhere",
    "citation": "chapter + paragraph",
    "resolution": "paragraph",
-   "honesty": "UNPROOFREAD OCR of a library scan (archive.org odysseyforboysgi00chur): the scanner's misreadings stand; a paragraph that ended exactly at a page's foot may be joined to the next or vice versa; chapter headings read from the scan, paragraph running within chapter"
+   "honesty": "UNPROOFREAD OCR (tesseract) of a library scan (archive.org odysseyforboysgi00chur), mean word confidence 93.28: misreadings stand; paragraph breaks are read from indentation, so a paragraph ending exactly at a page's foot is detected by the next page's indent; each unit names its scan pages and printed page labels"
   }
  }
 }
