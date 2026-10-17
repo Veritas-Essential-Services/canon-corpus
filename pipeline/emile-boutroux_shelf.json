@@ -1,0 +1,97 @@
+{
+ "_about": "Émile Boutroux (1845-1921), raw IA OCR: Science and Religion in Contemporary Philosophy, tr. Jonathan Nield (New York: Macmillan, 1911), Historical Studies in Philosophy, tr. Fred Rothwell (London: Macmillan, 1912), Philosophy and War, tr. Rothwell (London: Constable, 1916) and The Contingency of the Laws of Nature, tr. Rothwell (Chicago: Open Court, 1920). US public domain. No uids minted.",
+ "_author": "Émile Boutroux",
+ "_name_words": [
+  "emile",
+  "émile",
+  "boutroux"
+ ],
+ "_surname": [
+  "boutroux"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "boutroux-nield-science-and-religion-1911": [
+   "sciencereligioni00bout",
+   "Science and Religion in Contemporary Philosophy (New York: Macmillan, 1911)",
+   "tr. Jonathan Nield"
+  ],
+  "boutroux-rothwell-historical-studies-1912": [
+   "historicalstudie00bout",
+   "Historical Studies in Philosophy (London: Macmillan, 1912)",
+   "tr. Fred Rothwell"
+  ],
+  "boutroux-rothwell-philosophy-and-war-1916": [
+   "philosophywar00boutuoft",
+   "Philosophy and War (London: Constable, 1916)",
+   "tr. Fred Rothwell"
+  ],
+  "boutroux-rothwell-contingency-of-the-laws-of-nature-1920": [
+   "contingencylaws02boutgoog",
+   "The Contingency of the Laws of Nature (Chicago: Open Court, 1920)",
+   "tr. Fred Rothwell"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "boutroux-nield-science-and-religion-1911": "Nield",
+  "boutroux-rothwell-historical-studies-1912": "Rothwell",
+  "boutroux-rothwell-philosophy-and-war-1916": "Rothwell",
+  "boutroux-rothwell-contingency-of-the-laws-of-nature-1920": "Rothwell"
+ },
+ "_checks": {
+  "boutroux-nield-science-and-religion-1911": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "boutroux",
+   "translator_claimed": "Nield",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "boutroux-rothwell-historical-studies-1912": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "boutroux",
+   "translator_claimed": "Rothwell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "boutroux-rothwell-philosophy-and-war-1916": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "boutroux",
+   "translator_claimed": "Rothwell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "boutroux-rothwell-contingency-of-the-laws-of-nature-1920": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "boutroux",
+   "translator_claimed": "Rothwell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
