@@ -1102,3 +1102,6 @@
 
 ## 2026-10-17 17:40 CDT — brother-lawrence done
 - `pipeline/brother-lawrence_shelf.json`: 0 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:41 CDT — madame-guyon done
+- `pipeline/madame-guyon_shelf.json`: 1 CCEL, 2 PG, 8 IA. Title pages read for guyon-short-easie-method-1704, guyon-short-method-brooke (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

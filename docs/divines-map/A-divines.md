@@ -5111,3 +5111,28 @@ Slugs `lawrence-*`. No translator named on any title page. The 1727 Edinburgh ve
 | CCEL lawrence/practice: Epworth Press, undated, post-1917 postal address, no translator | excluded | |
 | Blakiston and other post-1929 printings | excluded | |
 | Hebert's Life of Brother Lawrence (1919) | excluded | |
+
+## Madame Guyon (round 24, my pick, 2026-10-17)
+
+Slugs `guyon-*`. Translators: Metcalf, Marston, Brooke, Cowper, Ford, Allen, Duncan; the 1704 and 1772 versions are anonymous.
+
+| Work | Status | Where |
+|---|---|---|
+| The Song of Songs of Solomon, with Explanations and Reflections, tr. James W. Metcalf (New York: A. W. Dennett, 1879) | have-clean | CCEL guyon/song |
+| A Short Method of Prayer, tr. A. W. Marston (London: Sampson Low, 1875) | have-clean | Gutenberg 24989 |
+| Spiritual Torrents, tr. A. W. Marston (London: Sampson Low, 1875) | have-clean | Gutenberg 25133 |
+| A Short and Easie Method of Prayer, done out of French (London: R. Sympson, 1704) | have-ocr | IA `bim_eighteenth-century_a-short-and-easie-method_guyon-jeanne-marie-bouv_1704` |
+| The Life of Lady Guion, written by herself, abridged and translated, vol. 1 (Bristol: S. Farley, MDCCLXXII) | have-ocr | IA `lifeladyguion00guyogoog` |
+| A Short and Easy Method of Prayer, tr. Thomas Digby Brooke (London: Carnan and Phillips; catalogued 1775) | have-ocr | IA `bim_eighteenth-century_a-short-and-easy-method-_guyon-jeanne-marie-bouv_1775` |
+| Poems translated from the French of Madame de la Mothe Guion by William Cowper (Newport-Pagnel: J. Wakefield, 1801) | have-ocr | IA `poem00guyo` |
+| Spiritual Torrents, tr. A. E. Ford (Boston: Otis Clapp, 1853) | have-ocr | IA `spiritualtorrent00guyo` |
+| Autobiography of Madame Guyon, translated in full by Thomas Taylor Allen, vol. I (London: Kegan Paul, 1898) | have-ocr | IA `autobiographyofm01guyo` |
+| Autobiography of Madame Guyon, translated in full by Thomas Taylor Allen, vol. II (London: Kegan Paul, 1898) | have-ocr | IA `autobiographyofm02guyo` |
+| The Interior Life, the Mystical Sense of the Sacred Scriptures, Genesis to Deuteronomy, tr. Thomas Watson Duncan (Philadelphia: George W. McCalla; year garbled, probably 1913) | have-ocr | IA `MadameJeanneGuyonmadameGuion-TheMysticalSenseOfTheSacred` |
+| Letters of Madam Guyon, selected and rewritten by P. L. Upham (Boston, 1858; PG 30083): condensed, not a full translation | alternate | not shelved |
+| Other eighteenth- and nineteenth-century Lives (Philadelphia 1804, Bristol 1806, New-Bedford 1805, New York 1820), Wesley's Extract (1776) | alternate | not shelved |
+| Cowper's Poems (1802, 1811, Dyer 1887), Metcalf's second edition (1890), Marston reissue (Allenson), the Macfadyen revision (1902), Allen vol. II 1897 copies, the 1880 New York Autobiography | alternate | not shelved |
+| PG 22269 and CCEL guyon/auto: undated Moody Press, no translator | excluded | |
+| CCEL guyon/prayer: undated Allenson booklet, no translator | excluded | |
+| Upham's Life of Madame Guyon (on the thomas-c-upham shelf) and other works about her; abridgements by Reiff, Morrow and Lowery | excluded | |
+| modern reprints; French and German editions | excluded | |

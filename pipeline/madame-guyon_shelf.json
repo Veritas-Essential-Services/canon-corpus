@@ -1,0 +1,245 @@
+{
+ "_about": "Public-domain Madame Guyon (Jeanne-Marie Bouvier de la Motte Guyon, 1648-1717) in English for the Word Hoard: The Song of Songs with explanations, tr. James W. Metcalf (New York, 1879) from CCEL, A Short Method of Prayer and Spiritual Torrents tr. A. W. Marston (London, 1875) from Project Gutenberg, and 8 more from Internet Archive scans, among them the first English Short and Easie Method (1704), William Cowper's translations of her poems (1801) and Thomas Taylor Allen's complete Autobiography (1898). Added 2026-10-17 by lane A, round 24 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_ccel_author": "guyon",
+ "_name_words": [
+  "guyon"
+ ],
+ "_surname": [
+  "madame guyon",
+  "madam guyon",
+  "guyon",
+  "guion",
+  "de la mothe guyon",
+  "de la mothe guion",
+  "lady guion"
+ ],
+ "_held": {},
+ "ccel": {
+  "guyon-song-of-songs": [
+   "song",
+   "The Song of Songs of Solomon, with Explanations and Reflections, tr. James W. Metcalf (New York: A. W. Dennett, 1879)",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "guyon-short-method-marston": [
+   "24989",
+   "A Short Method of Prayer, tr. A. W. Marston (London: Sampson Low, 1875)"
+  ],
+  "guyon-spiritual-torrents-marston": [
+   "25133",
+   "Spiritual Torrents, tr. A. W. Marston (London: Sampson Low, 1875)"
+  ]
+ },
+ "internet_archive": {
+  "guyon-short-easie-method-1704": [
+   "bim_eighteenth-century_a-short-and-easie-method_guyon-jeanne-marie-bouv_1704",
+   "A Short and Easie Method of Prayer, done out of French (London: R. Sympson, 1704)"
+  ],
+  "guyon-life-1772": [
+   "lifeladyguion00guyogoog",
+   "The Life of Lady Guion, written by herself, abridged and translated, vol. 1 (Bristol: S. Farley, MDCCLXXII)"
+  ],
+  "guyon-short-method-brooke": [
+   "bim_eighteenth-century_a-short-and-easy-method-_guyon-jeanne-marie-bouv_1775",
+   "A Short and Easy Method of Prayer, tr. Thomas Digby Brooke (London: Carnan and Phillips; catalogued 1775)"
+  ],
+  "guyon-poems-cowper": [
+   "poem00guyo",
+   "Poems translated from the French of Madame de la Mothe Guion by William Cowper (Newport-Pagnel: J. Wakefield, 1801)"
+  ],
+  "guyon-spiritual-torrents-ford": [
+   "spiritualtorrent00guyo",
+   "Spiritual Torrents, tr. A. E. Ford (Boston: Otis Clapp, 1853)"
+  ],
+  "guyon-autobiography-allen-1": [
+   "autobiographyofm01guyo",
+   "Autobiography of Madame Guyon, translated in full by Thomas Taylor Allen, vol. I (London: Kegan Paul, 1898)"
+  ],
+  "guyon-autobiography-allen-2": [
+   "autobiographyofm02guyo",
+   "Autobiography of Madame Guyon, translated in full by Thomas Taylor Allen, vol. II (London: Kegan Paul, 1898)"
+  ],
+  "guyon-mystical-sense-scriptures": [
+   "MadameJeanneGuyonmadameGuion-TheMysticalSenseOfTheSacred",
+   "The Interior Life, the Mystical Sense of the Sacred Scriptures, Genesis to Deuteronomy, tr. Thomas Watson Duncan (Philadelphia: George W. McCalla; year garbled, probably 1913)",
+   "TheMysticalSenseOfTheSarcredScripturesWithExplanationsAndReflectionsRegardingTheInteriorLife-GenesisThruDeuteronomyByMadameGuyon-TranslatedByThomasWatsonDuncan_djvu.txt"
+  ]
+ },
+ "_alternates": {
+  "guyon-letters-upham": "Letters of Madam Guyon, selected and rewritten by P. L. Upham (Boston, 1858; PG 30083): condensed, not a full translation",
+  "guyon-lives": "Other eighteenth- and nineteenth-century Lives (Philadelphia 1804, Bristol 1806, New-Bedford 1805, New York 1820), Wesley's Extract (1776)",
+  "guyon-copies": "Cowper's Poems (1802, 1811, Dyer 1887), Metcalf's second edition (1890), Marston reissue (Allenson), the Macfadyen revision (1902), Allen vol. II 1897 copies, the 1880 New York Autobiography"
+ },
+ "_excluded": {
+  "guyon-moody": "PG 22269 and CCEL guyon/auto: undated Moody Press, no translator",
+  "guyon-ccel-prayer": "CCEL guyon/prayer: undated Allenson booklet, no translator",
+  "guyon-about": "Upham's Life of Madame Guyon (on the thomas-c-upham shelf) and other works about her; abridgements by Reiff, Morrow and Lowery",
+  "guyon-late": "modern reprints; French and German editions"
+ },
+ "_identity_checked": {
+  "guyon-short-easie-method-1704": {
+   "author": "Title page read: 'by Madam Guion', OCR 'Madam Suion'; London, R. Sympson, 1704"
+  },
+  "guyon-short-method-brooke": {
+   "author": "Title page read: 'Madam J. M. B. de la Mothe Guion, by Thomas Digby Brooke', OCR 'dela MOTHE GG'; the preface names 'Madam Guion', OCR 'Gu1on'"
+  }
+ },
+ "_rights_checked": {
+  "guyon-short-method-brooke": "title page read: London, Carnan and Phillips; year unreadable; catalogued 1775",
+  "guyon-mystical-sense-scriptures": "title page read: Philadelphia, George W. McCalla, N. W. Cor. 18th and Ridge Ave.; year OCR'd 'IOI3', probably 1913; McCalla's own dates fall before 1930"
+ },
+ "_pending": {},
+ "_translators": {
+  "guyon-song-of-songs": "metcalf",
+  "guyon-short-method-marston": "marston",
+  "guyon-spiritual-torrents-marston": "marston",
+  "guyon-short-method-brooke": "brooke",
+  "guyon-poems-cowper": "cowper",
+  "guyon-spiritual-torrents-ford": "ford",
+  "guyon-autobiography-allen-1": "allen",
+  "guyon-autobiography-allen-2": "allen",
+  "guyon-mystical-sense-scriptures": "duncan"
+ },
+ "_checks": {
+  "guyon-song-of-songs": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "madame guyon",
+   "translator_claimed": "metcalf",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: A. W. Dennett, 1879",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "guyon-short-method-marston": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "madame guyon",
+   "translator_claimed": "marston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "guyon-spiritual-torrents-marston": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "madame guyon",
+   "translator_claimed": "marston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "guyon-short-easie-method-1704": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1704",
+   "ia_date": "1704",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "guyon-life-1772": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "guion",
+   "identity": "ok",
+   "ia_rights": "ok: published 1772",
+   "ia_date": "1772",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "guyon-short-method-brooke": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "brooke",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1775",
+   "ia_date": "1775",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: London, Carnan and Phillips; year unreadable; catalogued 1775"
+  },
+  "guyon-poems-cowper": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "guion",
+   "translator_claimed": "cowper",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1801",
+   "ia_date": "1801",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "guyon-spiritual-torrents-ford": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "madame guyon",
+   "translator_claimed": "ford",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "guyon-autobiography-allen-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "madame guyon",
+   "translator_claimed": "allen",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "guyon-autobiography-allen-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "madame guyon",
+   "translator_claimed": "allen",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "guyon-mystical-sense-scriptures": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "madam guyon",
+   "translator_claimed": "duncan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Philadelphia, George W. McCalla, N. W. Cor. 18th and Ridge Ave.; year OCR'd 'IOI3', probably 1913; McCalla's own dates fall before 1930"
+  }
+ }
+}
