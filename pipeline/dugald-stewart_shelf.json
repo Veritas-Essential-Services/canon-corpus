@@ -1,0 +1,66 @@
+{
+ "_about": "Dugald Stewart (1753-1828), raw IA OCR: the Elements of the Philosophy of the Human Mind, as vols. II-IV of The Collected Works of Dugald Stewart, edited by Sir William Hamilton (Edinburgh: Thomas Constable, 1854). US public domain. Wanted: the other volumes of the Collected Works (the Dissertation, Philosophical Essays, Active and Moral Powers, Political Economy, memoirs). No uids minted.",
+ "_author": "Dugald Stewart",
+ "_name_words": [
+  "dugald",
+  "stewart"
+ ],
+ "_surname": [
+  "dugald stewart"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stewart-hamilton-works-1854-v2": [
+   "collectedworksof02unse_0",
+   "The Collected Works of Dugald Stewart, ed. Sir William Hamilton, vol. II: Elements of the Philosophy of the Human Mind, vol. I (Edinburgh: Thomas Constable, 1854)",
+   "ed. Sir William Hamilton"
+  ],
+  "stewart-hamilton-works-1854-v3": [
+   "collectedworksof03stew",
+   "The Collected Works of Dugald Stewart, vol. III: Elements, vol. II (Edinburgh: Thomas Constable, 1854)",
+   "ed. Sir William Hamilton"
+  ],
+  "stewart-hamilton-works-1854-v4": [
+   "collectedworksof04stewiala",
+   "The Collected Works of Dugald Stewart, vol. IV: Elements, vol. III (Edinburgh: Thomas Constable, 1854)",
+   "ed. Sir William Hamilton"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "stewart-hamilton-works-1854-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dugald stewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stewart-hamilton-works-1854-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dugald stewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stewart-hamilton-works-1854-v4": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "dugald stewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854-60",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
