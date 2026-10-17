@@ -19,8 +19,10 @@ as Mnemonicon memory packs a child can bank straight into memory work.
             data/corpus/gitenberg/<n>.txt                 (fetched; gitignored)
     Output: data/poetry/catalog-ao.jsonl                  (COMMITTED)
             data/poetry/catalog-addendum-heroic.jsonl     (COMMITTED)
-            data/poetry/catalog-treasury.jsonl            (COMMITTED)
-            data/poetry/texts.jsonl                       (COMMITTED; public domain only)
+            data/poetry/catalog-treasury[-N].jsonl        (COMMITTED)
+            data/poetry/texts[-N].jsonl                   (COMMITTED; public domain only)
+            A file over SHARD bytes is cut into numbered parts (texts-1.jsonl, ...) to stay
+            under the 5 MB cap; read them with read_parts().
             exports/mnemonicon/poetry/<pack>.json         (COMMITTED; one per year and term)
     Tests:  tests/poetry_test.py
 
@@ -100,6 +102,7 @@ LIFE70_BEFORE = AS_OF - 70        # died before this year: out of copyright in l
 CUT_ON = "2026-10-06"             # the packs' createdAt/due; keeps them byte-identical
 LONG = 120                        # a hosted poem longer than this is split into parts
 PART = 40                         # a part holds at most about this many lines
+SHARD = 4_000_000                 # a committed JSONL larger than this is cut into numbered parts (5 MB cap)
 
 
 # ---------------------------------------------------------------------------
@@ -115,6 +118,36 @@ def read_jsonl(path):
 
 def jsonl(rows):
     return "".join(json.dumps(r, ensure_ascii=False, sort_keys=True) + "\n" for r in rows).encode("utf-8")
+
+
+def part_paths(base):
+    """The files a JSONL called `base` is committed as: base.jsonl, or base-1.jsonl, base-2.jsonl..."""
+    d, name = os.path.split(base)
+    if not os.path.isdir(d):
+        return []
+    pat = re.compile(re.escape(name) + r"(?:-(\d+))?\.jsonl$")
+    hits = [(m.group(1), f) for f in os.listdir(d) if (m := pat.fullmatch(f))]
+    return [os.path.join(d, f) for n, f in sorted(hits, key=lambda h: int(h[0] or 0))]
+
+
+def read_parts(base):
+    return [r for p in part_paths(base) for r in read_jsonl(p)]
+
+
+def sharded(base, rows):
+    """{path: blob} for `rows`: one base.jsonl when it fits under SHARD, else numbered parts of whole rows."""
+    lines = [jsonl([r]) for r in rows]
+    if sum(map(len, lines)) <= SHARD:
+        return {base + ".jsonl": b"".join(lines)}
+    parts, cur, size = [], [], 0
+    for l in lines:
+        if cur and size + len(l) > SHARD:
+            parts.append(cur)
+            cur, size = [], 0
+        cur.append(l)
+        size += len(l)
+    parts.append(cur)
+    return {f"{base}-{k}.jsonl": b"".join(c) for k, c in enumerate(parts, 1)}
 
 
 def write_atomic(path, blob):
@@ -654,11 +687,19 @@ def pieces_for(cat_rows, texts, layer_title):
 def render_all(catalogs, texts):
     blobs = {}
     for layer, rows in catalogs.items():
-        blobs[os.path.join(DATA, f"catalog-{layer}.jsonl")] = jsonl(rows)
+        blobs.update(sharded(os.path.join(DATA, f"catalog-{layer}"), rows))
         for name, pieces in pieces_for(rows, texts, layer).items():
             blobs[os.path.join(PACKS, f"{name}.json")] = _X.render(pieces)
-    blobs[os.path.join(DATA, "texts.jsonl")] = jsonl(sorted(texts.values(), key=lambda t: t["citation"]))
+    blobs.update(sharded(os.path.join(DATA, "texts"), sorted(texts.values(), key=lambda t: t["citation"])))
     return blobs
+
+
+def built_paths():
+    """Every file a build owns, as it is now on disk: the packs and every catalog and texts part."""
+    have = {os.path.join(PACKS, f) for f in os.listdir(PACKS)} if os.path.isdir(PACKS) else set()
+    for base in [f"catalog-{l}" for l in LAYERS] + ["texts"]:
+        have.update(part_paths(os.path.join(DATA, base)))
+    return have
 
 
 def main():
@@ -687,18 +728,15 @@ def main():
     if a.check:
         reg.assert_no_mint()
         stale = [os.path.relpath(p, ROOT) for p, b in blobs.items() if not os.path.exists(p) or open(p, "rb").read() != b]
-        have = {os.path.join(PACKS, f) for f in os.listdir(PACKS)} if os.path.isdir(PACKS) else set()
-        extra = sorted(os.path.relpath(p, ROOT) for p in have - set(blobs))
+        extra = sorted(os.path.relpath(p, ROOT) for p in built_paths() - set(blobs))
         if stale or extra:
             raise SystemExit(f"CHECK FAILED: differs from committed: {stale} extra: {extra}")
         print("  CHECK PASSED: minted 0, output byte-identical.")
         return
     if a.report:
         return
-    if os.path.isdir(PACKS):
-        for f in os.listdir(PACKS):
-            if os.path.join(PACKS, f) not in blobs:
-                os.remove(os.path.join(PACKS, f))
+    for p in built_paths() - set(blobs):
+        os.remove(p)
     for p, b in blobs.items():
         write_atomic(p, b)
     reg.save()

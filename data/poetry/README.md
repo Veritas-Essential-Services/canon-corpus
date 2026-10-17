@@ -25,8 +25,11 @@ one `wh-` uid, one Mnemonicon piece id.
 | `selections/addendum-heroic.jsonl` | yes | curated: the house's proposals |
 | `poets.json` | yes | curated: names, aliases, birth/death years (death year drives only the life+70 note) |
 | `sources.json` | yes | the Project Gutenberg books texts are cut from, with mirror URL and sha256 |
-| `catalog-ao.jsonl`, `catalog-addendum-heroic.jsonl` | yes | **built**: one row per selection, with uid, rights and hosting decision |
-| `texts.jsonl` | yes | **built**: the hosted texts, public domain only, cut from the pinned books |
+| `selections/treasury.jsonl` | yes | **built** by `select_treasury.py`: every verse candidate in the pool, with its cut |
+| `catalog-ao.jsonl`, `catalog-addendum-heroic.jsonl`, `catalog-treasury-N.jsonl` | yes | **built**: one row per selection, with uid, rights and hosting decision |
+| `texts-N.jsonl` | yes | **built**: the hosted texts, public domain only, cut from the pinned books |
+
+A built JSONL over 4 MB is cut into numbered parts of whole rows (`texts-1.jsonl`, `texts-2.jsonl`, …) so no committed file passes the 5 MB cap; one that fits keeps its plain name. Read them with `read_parts()` in `build_poetry.py`, which takes either form.
 | `../../exports/mnemonicon/poetry/*.json` | yes | **built**: import files, one per year and term (`ao-y02-t1.json`, `heroic-y05-t1.json`, …) |
 | `../corpus/gitenberg/<n>.txt` | no (gitignored) | `--fetch` |
 
