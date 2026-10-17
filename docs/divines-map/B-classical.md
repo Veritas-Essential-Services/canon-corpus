@@ -3861,6 +3861,7 @@ Shelf: `pipeline/thomas-hill-green_shelf.json`. Works, ed. Nettleship (1885-1888
 | Works of Thomas Hill Green, vol. I: philosophical works (London: Longmans, Green, 1885) | Nettleship | `green-nettleship-works-1885-v1` | have-raw (IA `worksofthomashil01greeiala`) |
 | Works of Thomas Hill Green, vol. II: philosophical works, fifth impression (London: Longmans, Green, 1906) | Nettleship | `green-nettleship-works-1906-v2` | have-raw (IA `worksofthomashil02greeiala`) |
 | Works of Thomas Hill Green, vol. III: miscellanies and memoir (London: Longmans, Green, 1888) | Nettleship | `green-nettleship-works-1888-v3` | have-raw (IA `worksofthomashil03greeiala`) |
+| Prolegomena to Ethics, 3rd ed. (Oxford: Clarendon, 1890) | Bradley | `green-bradley-prolegomena-1890` | have-raw (IA `prolegomenatoeth00greeuoft`) |
 
 ## F. H. Bradley
 

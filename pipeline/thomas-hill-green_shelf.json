@@ -27,15 +27,25 @@
    "worksofthomashil03greeiala",
    "Works of Thomas Hill Green, vol. III: miscellanies and memoir (London: Longmans, Green, 1888)",
    "ed. R. L. Nettleship"
+  ],
+  "green-bradley-prolegomena-1890": [
+   "prolegomenatoeth00greeuoft",
+   "Prolegomena to Ethics, 3rd ed. (Oxford: Clarendon, 1890)",
+   "ed. A. C. Bradley"
   ]
  },
  "_excluded": {},
  "_translators": {
   "green-nettleship-works-1885-v1": "Nettleship",
   "green-nettleship-works-1906-v2": "Nettleship",
-  "green-nettleship-works-1888-v3": "Nettleship"
+  "green-nettleship-works-1888-v3": "Nettleship",
+  "green-bradley-prolegomena-1890": "Bradley"
  },
- "_identity_checked": {},
+ "_identity_checked": {
+  "green-bradley-prolegomena-1890": {
+   "author": "title page read 2026-10-17: OCR gives 'PROLEGOMENA TO ETHICS BY THE LATE THOMAS HILL GEE EN, M.A., LL.D. ... EDITED BY A. C. BRADLEY ... THIRD EDITION AT THE CLARENDON PRESS 1890'; the surname is split by the OCR, so the name test cannot see it"
+  }
+ },
  "_checks": {
   "green-nettleship-works-1885-v1": {
    "kind": "ia",
@@ -73,6 +83,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1885",
    "ia_date": "1885-88",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "green-bradley-prolegomena-1890": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Bradley",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
