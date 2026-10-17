@@ -1793,7 +1793,7 @@ Shelf: `pipeline/lfperkins_shelf.json` (2026-10-02; added at the coordinator's r
 
 ## Laura E. Richards (1850-1943)
 
-Shelf: `pipeline/richards_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her fables and stories for children. Not in the manifest; no uids minted.
+Shelf: `pipeline/richards_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories, nonsense verse and novels for children and girls. All 43 of Laura E. Richards's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -1806,7 +1806,42 @@ Shelf: `pipeline/richards_shelf.json` (2026-10-02; added at the coordinator's re
 | The Joyous Story of Toto | have | PG 35281, `richards-joyous-story-of-toto` (875 units) |
 | Toto's Merry Winter | have | PG 41603, `richards-totos-merry-winter` (1080 units) |
 | Snow-White; or, The House in the Wood | have | PG 49724, `richards-snow-white` (524 units) |
+| Hildegarde's Neighbors | have | PG 5259, `richards-hildegardes-neighbors` (946 units) |
+| Geoffrey Strong | have | PG 8877, `richards-geoffrey-strong` (734 units) |
+| The Green Satin Gown | have | PG 9397, `richards-green-satin-gown` (634 units) |
+| Marie | have | PG 14018, `richards-marie` (193 units) |
+| Nautilus | have | PG 15355, `richards-nautilus` (506 units) |
+| Queen Hildegarde | have | PG 16473, `richards-queen-hildegarde` (808 units) |
+| Three Margarets | have | PG 22293, `richards-three-margarets` (823 units) |
+| Hildegarde's Holiday: A Story for Girls | have | PG 24826, `richards-hildegardes-holiday` (1082 units) |
+| Rita | have | PG 24827, `richards-rita` (668 units) |
+| Margaret Montfort | have | PG 24828, `richards-margaret-montfort` (1015 units) |
+| Fernley House | have | PG 25446, `richards-fernley-house` (963 units) |
+| Peggy | have | PG 25448, `richards-peggy` (1265 units) |
+| The Merryweathers | have | PG 25505, `richards-merryweathers` (1298 units) |
+| "Some Say"; Neighbours in Cyrus | have | PG 27251, `richards-some-say` (274 units) |
+| Rosin the Beau | have | PG 27607, `richards-rosin-the-beau` (335 units) |
+| Five Mice in a Mouse-trap, by the Man in the Moon. | have | PG 29001, `richards-five-mice-in-a-mouse-trap-by-the-man-in-the-moon` (818 units) |
+| Mrs. Tree | have | PG 30439, `richards-mrs-tree` (1034 units) |
+| The Wooing of Calvin Parks | have | PG 31320, `richards-wooing-of-calvin-parks` (1111 units) |
+| Hildegarde's Harvest | have | PG 32520, `richards-hildegardes-harvest` (1205 units) |
+| Hildegarde's Home | have | PG 34218, `richards-hildegardes-home` (955 units) |
+| Mrs. Tree's Will | have | PG 39558, `richards-mrs-trees-will` (864 units) |
+| In My Nursery | have | PG 39741, `richards-in-my-nursery` (918 units) |
+| Pippin; A Wandering Flame | have | PG 40176, `richards-pippin` (1786 units) |
+| Narcissa, or the Road to Rome; In Verona | have | PG 41188, `richards-narcissa-or-the-road-to-rome` (303 units) |
+| Abigail Adams and Her Times | have | PG 41605, `richards-abigail-adams-and-her-times` (825 units) |
+| Quicksilver Sue | have | PG 42246, `richards-quicksilver-sue` (669 units) |
+| Florence Nightingale, the Angel of the Crimea: A Story for Young People | have | PG 43898, `richards-florence-nightingale-the-angel-of-the-crimea` (546 units) |
+| Joan of Arc | have | PG 45743, `richards-joan-of-arc` (886 units) |
+| Isla Heron | have | PG 49749, `richards-isla-heron` (416 units) |
+| Grandmother: The Story of a Life That Never Was Lived | have | PG 51701, `richards-grandmother` (477 units) |
+| Jim of Hellas, or In Durance Vile; The Troubling of Bethesda Pool | have | PG 52068, `richards-jim-of-hellas-or-in-durance-vile` (278 units) |
+| Honor Bright: A Story for Girls | have | PG 52579, `richards-honor-bright` (1454 units) |
+| When I was your age | have | PG 56308, `richards-when-i-was-your-age` (532 units) |
+| A daughter of Jehu | have | PG 57603, `richards-a-daughter-of-jehu` (1703 units) |
 | richards-golden-breasted-kootoo | excluded | PG 49750, The Golden-Breasted Kootoo, and Other Stories (1899 reissue; copyright 1885): the stories told inside The Joyous Story of Toto, reprinted; 72% of its long paragraphs are in richards-joyous-story-of-toto |
+| richards-julia-ward-howe-1819-1910 | excluded | PG 38648, Julia Ward Howe, is a biography written with her sisters, not a story book |
 
 ## Charlotte M. Yonge (1823-1901)
 

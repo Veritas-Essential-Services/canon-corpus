@@ -155,7 +155,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `frances-browne` | 1 Gutenberg | 0 | 421 | Granny's Wonderful Chair. |
 | `stroebe` | 2 Gutenberg | 0 | 1,515 | The Swedish Fairy Book (1921), The Norwegian Fairy Book (1922), tr. Martens. Translator recorded in each title; Stroebe's own death year is not in the catalog. |
 | `lfperkins` | 13 Gutenberg | 0 | 7,280 | Thirteen Twins books (Japanese, Swiss, Belgian, Eskimo, Dutch, Scotch, French, Spartan, Puritan, Cave, Italian, Irish, Mexican). The Moon Princess is excluded: Perkins only illustrated it (Edith Ogden Harrison wrote it). |
-| `richards` | 9 Gutenberg | 0 | 6,182 | Captain January, Melody, The Silver Crown, The Pig Brother, Five Minute Stories, Three Minute Stories, The Joyous Story of Toto, Toto's Merry Winter, Snow-White. The Golden-Breasted Kootoo is excluded: 72% reprints Toto. |
+| `richards` | 43 Gutenberg | 0 | 34,506 | Stories, nonsense verse and novels for children and girls. Completed 2026-10-17: 34 more books added, every English text by Laura E. Richards at Gutenberg that no other shelf holds. |
 | `yonge` | 64 Gutenberg | 0 | 144,769 | Victorian family novels, historical tales and stories for the young. Completed 2026-10-17: 58 more books added, every English text by Charlotte M. Yonge at Gutenberg that no other shelf holds. |
 | `lady-wilde` | 1 Gutenberg | 0 | 2,552 | Ancient Legends, Mystic Charms, and Superstitions of Ireland. Some legend and charm titles repeat in the book, so those ids carry ~2. |
 | `croker` | 1 Gutenberg | 0 | 1,213 | Fairy Legends and Traditions of the South of Ireland. |
