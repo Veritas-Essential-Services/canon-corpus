@@ -1057,3 +1057,6 @@
 
 ## 2026-10-17 17:23 CDT — a-p-stanley done
 - `pipeline/a-p-stanley_shelf.json`: 0 CCEL, 0 PG, 18 IA. Title pages read for stanley-corinthians-1, stanley-unity-teaching, stanley-jewish-church-2, stanley-special-occasions (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:24 CDT — rounds 22 and 23 closed
+- Round 22: 12 shelves, 121 items (2 CCEL, 7 PG, 112 IA). Round 23: 12 shelves, 252 items (4 CCEL, 6 PG, 242 IA). All `--verify --record`: 0 mismatched; 0 uids minted. Veto points in DIGEST-A.

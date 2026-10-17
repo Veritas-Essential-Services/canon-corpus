@@ -1,1 +1,6 @@
-{"status": "running", "holder": "2026-10-17T16:34:36-05:00", "heartbeat": "2026-10-17T17:23:05-05:00", "note": "resumed 2026-10-17 on Adam's go-go-go request (burn mode); starting round 22"}
+{
+ "status": "running",
+ "holder": "2026-10-17T16:34:36-05:00",
+ "heartbeat": "2026-10-17T22:24Z",
+ "note": "running; rounds 22 and 23 closed 2026-10-17 17:24 CDT; starting round 24 (medieval and Catholic mystics in pre-1930 English translation)"
+}
