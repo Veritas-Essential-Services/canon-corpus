@@ -12,7 +12,13 @@
   "descartes"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "descartes-discourse-1649": [
+   25830,
+   "A Discourse of a Method for the Well Guiding of Reason, and the Discovery of Truth in the Sciences (London: Thomas Newcombe, MDCXLIX)",
+   "tr. unnamed (1649)"
+  ]
+ },
  "internet_archive": {
   "descartes-haldane-ross-works-1911-v1": [
    "philosophicalwor01desc",
@@ -25,6 +31,15 @@
   "descartes-haldane-ross-works-1911-v1": "Haldane"
  },
  "_checks": {
+  "descartes-discourse-1649": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "descartes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "descartes-haldane-ross-works-1911-v1": {
    "kind": "ia",
    "checked": "2026-10-17",
