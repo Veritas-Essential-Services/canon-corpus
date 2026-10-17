@@ -5622,6 +5622,22 @@ Slugs `lacordaire-*`. Translator claimed: Langdon (Life). The Notre Dame confere
 | An Historical Sketch of the Order of St. Dominic, St. Mary Magdalen (catalogued 1880), Thoughts and Teachings (1902): title pages not fully read | alternate | not shelved |
 | Montalembert's Memoir, Chocarne's Inner Life, Greenwell, Lear, d'Haussonville | excluded | |
 | French Œuvres catalogued as English | excluded | |
+
+## Frédéric Ozanam (round 26, my pick, 2026-10-17)
+
+Slugs `ozanam-*`. Translators: Coates, Pychowska, Nellen and Craig; Glyn's name is garbled in the 1867 Civilization scans.
+
+| Work | Status | Where |
+|---|---|---|
+| History of Civilization in the Fifth Century, tr. Ashley C. Glyn, vol. I (Philadelphia: Lippincott; London: Allen, 1867) | have-ocr | IA `historyofciviliz01ozan_0` |
+| History of Civilization in the Fifth Century, tr. Ashley C. Glyn, vol. II (Philadelphia: Lippincott; London: Allen, 1867) | have-ocr | IA `historyofciviliz02ozan` |
+| Letters of Frederic Ozanam, tr. Ainslie Coates (New York: Benziger; London: Elliot Stock, 1886) | have-ocr | IA `lettersoffred00ozanuoft` |
+| Dante and Catholic Philosophy in the Thirteenth Century, tr. Lucia D. Pychowska (New York: Cathedral Library Association, 1897) | have-ocr | IA `dantecatholicp00ozanuoft` |
+| The Franciscan Poets in Italy of the Thirteenth Century, tr. A. E. Nellen and N. C. Craig (London: David Nutt, 1914) | have-ocr | IA `franciscanpoet00ozan` |
+| A Pilgrimage to the Land of the Cid, translated by a Graduate of St. Joseph's, Emmittsburg (New York: Christian Press Association; catalogued 1895) | have-ocr | IA `pilgrimagetoland00ozanrich` |
+| The 1868 London Civilization, other copies of the Letters, Dante and Franciscan Poets (Scribner 1914) | alternate | not shelved |
+| O'Meara, Dunn, Baunard and Horgan: works about him | excluded | |
+| 1969 reprints | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

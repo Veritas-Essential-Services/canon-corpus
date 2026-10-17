@@ -1192,3 +1192,6 @@
 
 ## 2026-10-17 18:44 CDT — henri-lacordaire done
 - `pipeline/henri-lacordaire_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:44 CDT — frederic-ozanam done
+- `pipeline/frederic-ozanam_shelf.json`: 0 CCEL, 0 PG, 6 IA. `--verify --record`: 0 mismatched. 0 uids minted.
