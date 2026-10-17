@@ -1,0 +1,135 @@
+{
+ "_about": "George Santayana (1863-1952), works published in the US before 1930, from Project Gutenberg: The Sense of Beauty (1896), Interpretations of Poetry and Religion (1900), The Life of Reason (5 vols., 1905-1906, in one etext that names no printing), Three Philosophical Poets (1910), Winds of Doctrine (1913), Egotism in German Philosophy (1916), Character and Opinion in the United States (1921), Soliloquies in England (1922) and Scepticism and Animal Faith (1923; third impression 1929). Not taken: Some Turns of Thought in Modern Philosophy (PG 16712), first published 1933, after the US public-domain cutoff. His Poems are left for a poetry shelf. No uids minted.",
+ "_author": "George Santayana",
+ "_name_words": [
+  "george",
+  "santayana"
+ ],
+ "_surname": [
+  "santayana"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "santayana-sense-of-beauty-1896": [
+   26842,
+   "The Sense of Beauty: being the outlines of aesthetic theory (New York: Scribner, 1896)"
+  ],
+  "santayana-interpretations-of-poetry-and-religion-1900": [
+   48563,
+   "Interpretations of Poetry and Religion (New York: Scribner, 1900)"
+  ],
+  "santayana-life-of-reason": [
+   15000,
+   "The Life of Reason, or the Phases of Human Progress, 5 vols. (1905-1906; the etext names no printing)"
+  ],
+  "santayana-three-philosophical-poets-1910": [
+   35612,
+   "Three Philosophical Poets: Lucretius, Dante, and Goethe (Cambridge: Harvard University, 1910)"
+  ],
+  "santayana-winds-of-doctrine-1913": [
+   17771,
+   "Winds of Doctrine: studies in contemporary opinion (New York: Scribner, 1913)"
+  ],
+  "santayana-egotism-in-german-philosophy-1916": [
+   48431,
+   "Egotism in German Philosophy (London: Dent; New York: Scribner, 1916)"
+  ],
+  "santayana-character-and-opinion-1921": [
+   34654,
+   "Character and Opinion in the United States (New York: Scribner, 1921)"
+  ],
+  "santayana-soliloquies-in-england-1922": [
+   48429,
+   "Soliloquies in England, and Later Soliloquies (New York: Scribner, 1922)"
+  ],
+  "santayana-scepticism-and-animal-faith-1923": [
+   77155,
+   "Scepticism and Animal Faith: introduction to a system of philosophy (New York: Scribner, 1923; third impression 1929)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "santayana-sense-of-beauty-1896": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "santayana",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "santayana-interpretations-of-poetry-and-religion-1900": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "santayana",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "santayana-life-of-reason": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "santayana",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "santayana-three-philosophical-poets-1910": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "santayana",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "santayana-winds-of-doctrine-1913": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "santayana",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "santayana-egotism-in-german-philosophy-1916": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "santayana",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "santayana-character-and-opinion-1921": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "santayana",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "santayana-soliloquies-in-england-1922": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "santayana",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "santayana-scepticism-and-animal-faith-1923": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "santayana",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
