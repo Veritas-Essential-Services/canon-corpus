@@ -14178,9 +14178,10 @@ Round 55 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `broadway-ligne-letters-and-memoirs` | Charles-Joseph, Prince de Ligne | Letters and Memoirs of the Prince de Ligne | Leigh Ashton | 1927 | have-raw | IA `lettersmemoirsof0000leig` |
 | `broadway-private-life-of-richelieu` | anonymous (La Vie privée du maréchal de Richelieu, 1791) | The Private Life of the Marshal Duke of Richelieu | F. S. Flint | 1927 | have-raw | IA `privatelifeofmar0000fsfl` |
 | `broadway-memoirs-of-the-bastille` | Jean Henri Latude and Simon-Nicolas-Henri Linguet | Memoirs of the Bastille | J. and S. F. Mills Whitham | 1927 | have-raw | IA `memoirsofbastill0000latu` |
+| `broadway-lespinasse-love-letters` | Julie de Lespinasse and the Comte de Guibert | Love Letters of Mlle de Lespinasse to and from the Comte de Guibert | E. H. F. Mills | 1929 | have-raw | IA `lovelettersofmll0000dele` |
 | `broadway-marmontel` | — | Memoirs of Marmontel, tr. Brigit Patmore (Routledge, 1930; archive.org memoirsofmarmont00marm): a 1930 printing, so it waits on the 1930 ruling. | — | — | pending | — |
 | `broadway-rousseau-reveries` | — | The Reveries of a Solitary, tr. John Gould Fletcher (Routledge, 1927; archive.org dli.ministry.22007, undated scan): Rousseau has another lane's shelf (rousseau), so it is left for that lane. | — | — | pending | — |
-| `broadway-not-found` | — | No open scan found (searched 2026-10-17): Diderot's Memoirs of a Nun (Birrell, 1928), Madame du Hausset's Memoirs of Madame de Pompadour (Flint, 1928), Crébillon/Voisenon/Montesquieu short stories (Jackson), Joubert (H. P. Collins), Madame de Staal-Delaunay (Raymond Mortimer), the September Massacres (Partridge), Paradis de Moncrif's Zeloide (Scott Moncrieff), Lespinasse (Mills), Madame d'Epinay (Allingham), Voltaire and du Deffand. | — | — | pending | — |
+| `broadway-not-found` | — | No open scan found (searched 2026-10-17): Diderot's Memoirs of a Nun (Birrell, 1928), Madame du Hausset's Memoirs of Madame de Pompadour (Flint, 1928), Crébillon/Voisenon/Montesquieu short stories (Jackson), Joubert (H. P. Collins), Madame de Staal-Delaunay (Raymond Mortimer), the September Massacres (Partridge), Paradis de Moncrif's Zeloide (Scott Moncrieff), Madame d'Epinay (Allingham), Voltaire and du Deffand. | — | — | pending | — |
 
 ## Series shelf: The Broadway Travellers (Routledge, ed. Denison Ross and Eileen Power, 1926-29): Tafur, Clavijo, Ibn Battuta, Bontekoe, Cortés, Mornay, Don Juan of Persia, Akbar and the Jesuits, Bernal Díaz
 
@@ -14202,6 +14203,21 @@ Round 56 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `broadway-travellers-1931` | — | The Travels of an Alchemist (Arthur Waley, 1931) is too late. | — | — | pending | — |
 | — | — | huc-gabet: Huc and Gabet's Travels in Tartary (1928 reissue) is Hazlitt's 1852 translation, already on the hazlitt-huc shelf. | — | — | excluded | — |
 | — | — | ia-travelsinasiaafr0000muha: A later reprint of Gibb's Ibn Battuta (front matter lists years to 1969). | — | — | excluded | — |
+
+## Series shelf: Routledge's Broadway Translations and Broadway Medieval Library (1920s): Lunacharsky's Three Plays, Paton's Sir Lancelot of the Lake, Mabbe's Celestina, the English Faust Book
+
+Shelf: `pipeline/broadway-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py broadway-translations` · titles `python3 pipeline/split_shelf_titles.py broadway-translations`.
+Round 57 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `broadway-translations-lunacharski-three-plays` | Anatoly Lunacharsky | Three Plays: Faust and the City, Vasilisa the Wise, The Magi | L. A. Magnus and K. Walter | 1923 | have-raw | IA `bwb_KU-774-607` |
+| `broadway-translations-sir-lancelot-of-the-lake` | anonymous (the Old French prose Lancelot) | Sir Lancelot of the Lake: a French prose romance of the thirteenth century | Lucy Allen Paton | 1929 | have-raw | IA `sirlancelotofthelakelapatton` |
+| `broadway-translations-celestina-mabbe` | Fernando de Rojas | Celestina, or The Tragi-Comedy of Calisto and Melibea | James Mabbe | 1631 | have-raw | IA `celestinaortragi00roja` |
+| `broadway-translations-english-faust-book` | anonymous (the German Faustbuch, 1587) | The History of the Damnable Life and Deserved Death of Doctor John Faustus (1592), with The Second Report of Faustus (1594) | P. F., Gent. (the English Faust Book; the Second Report is anonymous) | 1592 | have-raw | IA `historyofdamnabl0000unse_o0d7` |
+| `broadway-translations-1930` | — | Letters of George Sand, selected and translated by Veronica Lucas (Routledge, 1930; lettersofgeorges0000geor): a 1930 printing, waiting on the 1930 ruling. | — | — | pending | — |
+| — | — | esquemeling: Esquemeling's Buccaneers of America (1684 translation, Broadway 1926): the same text is already held inside pyle's Buccaneers and Marooners of America (PG 73564). | — | — | excluded | — |
+| — | — | classical: Petronius (Mitchell, 1923), Alciphron (Wright, 1922), Lucretius (1920) and The Mirror of Venus (Wright, 1925) are classical, so left for Lane B. | — | — | excluded | — |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 

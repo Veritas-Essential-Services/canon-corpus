@@ -187,3 +187,5 @@
 - 2026-10-17T17:09-05:00: round 55: broadway-library (5). --verify --record 0 mismatched. Also +1 aldington (Voltaire and Frederick), +1 emilie-jackson (Mercier).
 
 - 2026-10-17T17:12-05:00: round 56: broadway-travellers (9). --verify --record 0 mismatched.
+
+- 2026-10-17T17:16-05:00: round 57: broadway-translations (4). --verify --record 0 mismatched. Also +1 broadway-library (Lespinasse).

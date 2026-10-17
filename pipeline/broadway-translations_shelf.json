@@ -1,0 +1,207 @@
+{
+ "_about": "SERIES SHELF of one-off translators: Routledge's Broadway Translations and Broadway Medieval Library (1920s). Lunacharsky's Three Plays (Magnus and Walter, 1923), Lucy Allen Paton's Sir Lancelot of the Lake (1929), Mabbe's Celestina (1631, reprinted 1923) and the English Faust Book (1592, modernized by William Rose, 1925). The series' classical volumes (Petronius, Alciphron, Lucretius) are left for Lane B. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 57); Adam may veto. No uids minted.",
+ "_name_words": [
+  "james mabbe",
+  "k. walter",
+  "l. a. magnus",
+  "lucy allen paton",
+  "mabbe",
+  "magnus",
+  "p. f.",
+  "paton",
+  "walter"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "james mabbe",
+  "k. walter",
+  "l. a. magnus",
+  "lucy allen paton",
+  "mabbe",
+  "magnus",
+  "p. f.",
+  "paton",
+  "walter"
+ ],
+ "_surname_by_slug": {
+  "btn-lunacharski": [
+   "k. walter",
+   "l. a. magnus",
+   "magnus",
+   "walter"
+  ],
+  "btn-lancelot": [
+   "lucy allen paton",
+   "paton"
+  ],
+  "btn-celestina": [
+   "james mabbe",
+   "mabbe"
+  ],
+  "btn-faustbook": [
+   "p. f."
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "btn-lunacharski": [
+   "bwb_KU-774-607",
+   "Three Plays of A. V. Lunacharski (Routledge, Broadway Translations, 1923)"
+  ],
+  "btn-lancelot": [
+   "sirlancelotofthelakelapatton",
+   "Sir Lancelot of the Lake (Routledge, Broadway Medieval Library, 1929)"
+  ],
+  "btn-celestina": [
+   "celestinaortragi00roja",
+   "Celestina, or the Tragi-Comedy of Calisto and Melibea, tr. James Mabbe 1631 (Routledge, Broadway Translations, 1923)"
+  ],
+  "btn-faustbook": [
+   "historyofdamnabl0000unse_o0d7",
+   "The History of the Damnable Life and Deserved Death of Doctor John Faustus, 1592, with The Second Report of Faustus, 1594 (Routledge, Broadway Translations, 1925)"
+  ]
+ },
+ "titles": {
+  "broadway-translations-lunacharski-three-plays": {
+   "source": "btn-lunacharski",
+   "of": "Anatoly Lunacharsky",
+   "work": "Three Plays: Faust and the City, Vasilisa the Wise, The Magi",
+   "translated": 1923,
+   "translator": "L. A. Magnus and K. Walter",
+   "scan_edition": "George Routledge & Sons, London (with E. P. Dutton, New York), in the Broadway Translations, 1923",
+   "note": "Raw OCR. Leonard Magnus's Russian Folk-Tales are on Lane D's magnus shelf."
+  },
+  "broadway-translations-sir-lancelot-of-the-lake": {
+   "source": "btn-lancelot",
+   "of": "anonymous (the Old French prose Lancelot)",
+   "work": "Sir Lancelot of the Lake: a French prose romance of the thirteenth century",
+   "translated": 1929,
+   "translator": "Lucy Allen Paton",
+   "scan_edition": "George Routledge & Sons, London, 1929, in the Broadway Medieval Library edited by G. G. Coulton and Eileen Power (preface dated May 1929)",
+   "note": "Raw OCR. Paton translates selected parts from a Bibliothèque Nationale manuscript, not the whole romance."
+  },
+  "broadway-translations-celestina-mabbe": {
+   "source": "btn-celestina",
+   "of": "Fernando de Rojas",
+   "work": "Celestina, or The Tragi-Comedy of Calisto and Melibea",
+   "translated": 1631,
+   "translator": "James Mabbe",
+   "scan_edition": "George Routledge & Sons, London (with E. P. Dutton, New York), in the Broadway Translations, 1923, a reprint of Mabbe's 1631 translation",
+   "note": "Raw OCR."
+  },
+  "broadway-translations-english-faust-book": {
+   "source": "btn-faustbook",
+   "of": "anonymous (the German Faustbuch, 1587)",
+   "work": "The History of the Damnable Life and Deserved Death of Doctor John Faustus (1592), with The Second Report of Faustus (1594)",
+   "translated": 1592,
+   "translator": "P. F., Gent. (the English Faust Book; the Second Report is anonymous)",
+   "scan_edition": "George Routledge & Sons, London (with E. P. Dutton, New York), in the Broadway Translations, 1925, both texts modernized and edited by William Rose",
+   "note": "Raw OCR. The spelling is Rose's 1925 modernization, not the 1592 original; Marlowe's source."
+  }
+ },
+ "_pending": {
+  "broadway-translations-1930": "Letters of George Sand, selected and translated by Veronica Lucas (Routledge, 1930; lettersofgeorges0000geor): a 1930 printing, waiting on the 1930 ruling."
+ },
+ "_excluded": {
+  "esquemeling": "Esquemeling's Buccaneers of America (1684 translation, Broadway 1926): the same text is already held inside pyle's Buccaneers and Marooners of America (PG 73564).",
+  "classical": "Petronius (Mitchell, 1923), Alciphron (Wright, 1922), Lucretius (1920) and The Mirror of Venus (Wright, 1925) are classical, so left for Lane B."
+ },
+ "_checks": {
+  "btn-lunacharski": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "k. walter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "btn-lancelot": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lucy allen paton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "btn-celestina": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james mabbe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "btn-faustbook": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "p. f.",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "btn-lunacharski": {
+   "ia": "bwb_KU-774-607",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1917,
+    1918,
+    1919,
+    1921,
+    1922,
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "btn-lancelot": {
+   "ia": "sirlancelotofthelakelapatton",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1929
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "btn-celestina": {
+   "ia": "celestinaortragi00roja",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1722,
+    1724,
+    1743,
+    1889,
+    1899,
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "btn-faustbook": {
+   "ia": "historyofdamnabl0000unse_o0d7",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1611,
+    1630,
+    1680,
+    1700,
+    1900,
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

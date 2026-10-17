@@ -7,10 +7,12 @@
   "bonamy dobrée",
   "dobree",
   "dobrée",
+  "e. h. f. mills",
   "f. s. flint",
   "flint",
   "francis birrell",
   "leigh ashton",
+  "mills",
   "mills whitham",
   "whitham"
  ],
@@ -22,10 +24,12 @@
   "bonamy dobrée",
   "dobree",
   "dobrée",
+  "e. h. f. mills",
   "f. s. flint",
   "flint",
   "francis birrell",
   "leigh ashton",
+  "mills",
   "mills whitham",
   "whitham"
  ],
@@ -51,6 +55,10 @@
   "bwl-bastille": [
    "mills whitham",
    "whitham"
+  ],
+  "bwl-lespinasse": [
+   "e. h. f. mills",
+   "mills"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -78,6 +86,10 @@
   "bwl-bastille": [
    "memoirsofbastill0000latu",
    "Memoirs of the Bastille, by Latude and Linguet (Routledge, 1927)"
+  ],
+  "bwl-lespinasse": [
+   "lovelettersofmll0000dele",
+   "Love Letters of Mlle de Lespinasse to and from the Comte de Guibert (Routledge, 1929)"
   ]
  },
  "titles": {
@@ -123,12 +135,21 @@
    "translated": 1927,
    "translator": "J. and S. F. Mills Whitham",
    "scan_edition": "George Routledge & Sons, London, in the Broadway Library of XVIII Century French Literature, edited by Richard Aldington; 'First published in 1927.'"
+  },
+  "broadway-lespinasse-love-letters": {
+   "source": "bwl-lespinasse",
+   "of": "Julie de Lespinasse and the Comte de Guibert",
+   "work": "Love Letters of Mlle de Lespinasse to and from the Comte de Guibert",
+   "translated": 1929,
+   "translator": "E. H. F. Mills",
+   "scan_edition": "George Routledge & Sons, London, in the Broadway Library of XVIII Century French Literature edited by Richard Aldington, 1929 (Internet Archive's date)",
+   "note": "Raw OCR. The series list names the translator ('Translated by E. H. F. Mirrs' in the OCR)."
   }
  },
  "_pending": {
   "broadway-marmontel": "Memoirs of Marmontel, tr. Brigit Patmore (Routledge, 1930; archive.org memoirsofmarmont00marm): a 1930 printing, so it waits on the 1930 ruling.",
   "broadway-rousseau-reveries": "The Reveries of a Solitary, tr. John Gould Fletcher (Routledge, 1927; archive.org dli.ministry.22007, undated scan): Rousseau has another lane's shelf (rousseau), so it is left for that lane.",
-  "broadway-not-found": "No open scan found (searched 2026-10-17): Diderot's Memoirs of a Nun (Birrell, 1928), Madame du Hausset's Memoirs of Madame de Pompadour (Flint, 1928), Crébillon/Voisenon/Montesquieu short stories (Jackson), Joubert (H. P. Collins), Madame de Staal-Delaunay (Raymond Mortimer), the September Massacres (Partridge), Paradis de Moncrif's Zeloide (Scott Moncrieff), Lespinasse (Mills), Madame d'Epinay (Allingham), Voltaire and du Deffand."
+  "broadway-not-found": "No open scan found (searched 2026-10-17): Diderot's Memoirs of a Nun (Birrell, 1928), Madame du Hausset's Memoirs of Madame de Pompadour (Flint, 1928), Crébillon/Voisenon/Montesquieu short stories (Jackson), Joubert (H. P. Collins), Madame de Staal-Delaunay (Raymond Mortimer), the September Massacres (Partridge), Paradis de Moncrif's Zeloide (Scott Moncrieff), Madame d'Epinay (Allingham), Voltaire and du Deffand."
  },
  "_excluded": {},
  "_checks": {
@@ -184,6 +205,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1927",
    "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bwl-lespinasse": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mills",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929-01-01",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
@@ -254,7 +286,25 @@
     1927
    ],
    "post_1930_years_in_front_15k": []
+  },
+  "bwl-lespinasse": {
+   "ia": "lovelettersofmll0000dele",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1882,
+    1887,
+    1906,
+    1912,
+    1925,
+    1929
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "bwl-lespinasse": {
+   "author": "The OCR spells the translator 'E. H. F. Mirrs' in the series list ('LOVE LETTERS OF MLLE. DE LESPINASSE. Translated by E. H. F. Mirrs'); checked by eye 2026-10-17."
+  }
+ }
 }

@@ -3336,6 +3336,14 @@
       "finished": "2026-10-17T17:12-05:00",
       "scope": "TRANSLATOR SHELF (round 56, lane C's choice; Adam may veto) -- broadway-travellers; PD printings before 1931 only; no minting",
       "notes": "9 titles; ids checked across all branches. See DIGEST-C round 56. No uids minted."
+    },
+    {
+      "id": "shelf-broadway-translations",
+      "status": "done",
+      "started": "2026-10-17T17:16-05:00",
+      "finished": "2026-10-17T17:16-05:00",
+      "scope": "TRANSLATOR SHELF (round 57, lane C's choice; Adam may veto) -- broadway-translations; PD printings before 1931 only; no minting",
+      "notes": "4 titles; ids checked across all branches. See DIGEST-C round 57. No uids minted."
     }
   ]
 }
