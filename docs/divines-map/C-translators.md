@@ -6183,6 +6183,25 @@ Round 58 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | `eileen-power-boissonnade-life-and-work` | Prosper Boissonnade | Life and Work in Medieval Europe (Fifth to Fifteenth Centuries) | Eileen Power | 1927 | have-raw | IA `dli.ministry.16291` |
 | — | — | later-reprints: Life and Work in Medieval Europe also survives as Harper Torchbooks (1964), Dover (2002) and Dorset (1987) reprints; only the 1927 printing is used. | — | — | excluded | — |
 
+## Series shelf: Kegan Paul's History of Civilization (ed. C. K. Ogden, 1925-27): Febvre, Moret and Davy, Delaporte (V. Gordon Childe), Huart, Moret's Nile (M. R. Dobie), Pittard, Renard, Perrier
+
+Shelf: `pipeline/history-of-civilization_shelf.json` · fetch `python3 pipeline/fetch_shelf.py history-of-civilization` · titles `python3 pipeline/split_shelf_titles.py history-of-civilization`.
+Round 59 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `history-of-civilization-febvre` | Lucien Febvre (with Lionel Bataillon) | A Geographical Introduction to History | E. G. Mountford and J. H. Paxton | 1925 | have-raw | IA `geographicalintr0000luci_e9f4` |
+| `history-of-civilization-from-tribe-to-empire` | Alexandre Moret and Georges Davy | From Tribe to Empire: social organization among primitives and in the ancient East | V. Gordon Childe | 1926 | have-raw | IA `fromtribetoempir00more` |
+| `history-of-civilization-delaporte-mesopotamia` | Louis Delaporte | Mesopotamia: the Babylonian and Assyrian Civilization | V. Gordon Childe | 1925 | have-raw | IA `mesopotamiababyl00dela` |
+| `history-of-civilization-huart-ancient-persia` | Clément Huart | Ancient Persia and Iranian Civilization | M. R. Dobie | 1927 | have-raw | IA `in.ernet.dli.2015.73398` |
+| `history-of-civilization-moret-nile` | Alexandre Moret | The Nile and Egyptian Civilization | M. R. Dobie | 1927 | have-raw | IA `nileegyptiancivi00more` |
+| `history-of-civilization-pittard-race-and-history` | Eugène Pittard | Race and History: an Ethnological Introduction to History | V. C. C. Collum | 1926 | have-raw | IA `dli.ministry.19521` |
+| `history-of-civilization-renard-life-and-work-modern` | Georges Renard and Georges Weulersse | Life and Work in Modern Europe (Fifteenth to Eighteenth Centuries) | Margaret Richards | 1926 | have-raw | IA `lifeworkinmodern0000rena` |
+| `history-of-civilization-perrier-earth-before-history` | Edmond Perrier | The Earth before History: Man's Origin and the Origin of Life | Paul Radin | 1925 | have-raw | IA `earthbeforehisto00perr` |
+| `history-of-civilization-1930` | — | Granet's Chinese Civilization (1930) and later volumes wait on the 1930 ruling or are too late. | — | — | pending | — |
+| — | — | classical: Glotz (The Aegean Civilization, Ancient Greece at Work, The Greek City), Jardé (The Formation of the Greek People) and Homo (Primitive Italy) are Greek and Roman scholarship, left for Lane B. | — | — | excluded | — |
+| — | — | ia-in.ernet.dli.2015.107710: The Nile and Egyptian Civilization: 'Reissued 1972'; used only as evidence of the translator's name. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
