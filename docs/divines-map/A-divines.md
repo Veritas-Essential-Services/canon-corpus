@@ -5355,3 +5355,38 @@ Slugs `blosius-*`. Translators: Coffin, Wilberforce; the Mirror and the Spiritua
 | A Benedictine of the Sixteenth Century (Lady Lovat, 1878): about him | excluded | |
 | A Spiritual Mirror (1830): a different work | excluded | |
 | German and Latin editions | excluded | |
+
+## Alphonsus Liguori (round 25, my pick, 2026-10-17)
+
+Slugs `liguori-*`. The Centenary Edition names Grimm as editor, not a translator; the Visits and the Glories name no translator. IA's kellylibrary records date every Centenary volume 1887; the title pages run 1886-1897.
+
+| Work | Status | Where |
+|---|---|---|
+| The Glories of Mary, second American edition (New York: Edward Dunigan and Brother, 1852) | have-clean | Gutenberg 72411 |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. II: The Way of Salvation and of Perfection, second edition (New York: Benziger Brothers; copyright 1886) | have-ocr | IA `thecompleteascet02liguuoft` |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. III: The Great Means of Salvation and of Perfection (New York: Benziger Brothers; 1886) | have-ocr | IA `thecompleteascet03liguuoft` |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. IV: The Incarnation, Birth and Infancy of Jesus Christ (New York: Benziger Brothers; 1887) | have-ocr | IA `thecompleteascet04liguuoft` |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. V: The Passion and the Death of Jesus Christ (New York: Benziger Brothers; 1887) | have-ocr | IA `PassionDeathOfJesusChristV5` |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. VI: The Holy Eucharist (New York: Benziger Brothers; 1887) | have-ocr | IA `alphonsusworks06alfouoft` |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. IX: Victories of the Martyrs (New York: Benziger Brothers; 1887 in the text) | have-ocr | IA `victoriesmartyrs09liguuoft` |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. X: The True Spouse of Jesus Christ, vol. I (New York: Benziger Brothers; 1888) | have-ocr | IA `thecompleteascet01grimuoft` |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. XII: Dignity and Duties of the Priest, or Selva (New York: Benziger Brothers; 1889) | have-ocr | IA `alphonsusworks12liguuoft` |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. XIII: The Holy Mass (New York: Benziger Brothers; dates of 1888-1889 in the text) | have-ocr | IA `alphonsusworks13liguuoft` |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. XIV: The Divine Office, third edition (New York: Benziger Brothers; undated) | have-ocr | IA `alphonsusworks14liguuoft` |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. XV: Preaching (New York: Benziger Brothers; 1890) | have-ocr | IA `alphonsusworks15liguuoft` |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. XVI: Abridged Sermons for All the Sundays of the Year (New York: Benziger Brothers; 1890 in the text) | have-ocr | IA `abridgedsermons16liguuoft` |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. XVII: Miscellany (New York: Benziger Brothers; 1890) | have-ocr | IA `alfonsusworks17liguuoft` |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. XVIII: Letters, vol. I (New York: Benziger Brothers; 1891) | have-ocr | IA `alphonsusworks18liguuoft` |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. XIX: Letters, vol. II (New York: Benziger Brothers; 1892) | have-ocr | IA `alphonsusworks19liguuoft` |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. XX: Letters, vol. III (New York: Benziger Brothers; 1894) | have-ocr | IA `thecompleteascet20liguuoft` |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. XXI: Letters, vol. IV, ed. Arthur Coughlan (New York: Benziger Brothers; 1896) | have-ocr | IA `thecompleteascet21liguuoft` |
+| The Complete Ascetical Works of St. Alphonsus de Liguori, Centenary Edition, ed. Eugene Grimm, vol. XXII: Letters, vol. V, ed. Thomas W. Mullaney (New York: Benziger Brothers; 1897) | have-ocr | IA `thecompleteascet22liguuoft` |
+| Visits to the Most Holy Sacrament and to the Blessed Virgin (London: T. Jones; approbations 1849) | have-ocr | IA `visitstomosthol00stgoog` |
+| Visits to the Most Holy Sacrament and the Blessed Virgin Mary, ed. R. A. Coffin (London: Burns & Lambert, 1855) | have-ocr | IA `VisitsToTheMostHolySacrament` |
+| Preparation for Death, translated from the Italian by a Catholic Clergyman, eighth edition (Boston: Thomas Sweeney, 1854) | have-ocr | IA `preparationforde00ligu` |
+| Other copies of the Centenary volumes | alternate | not shelved |
+| Other Glories of Mary printings (1852-1902) | alternate | not shelved |
+| Preparation for Death (Rivingtons, 1868), The Religious State, The True Spouse of Christ (Callan) | alternate | not shelved |
+| CCEL alphonsus/uniformity (Tobin, from the 1933 Rome edition) and alphonsus/volonta (Italian) | excluded | |
+| The 1926-1931 Redemptorist printings (Preparation for Death, True Spouse X-XI, Glories) | excluded | |
+| Lives of Liguori; Gilbert's Love of Jesus (1871) | excluded | |

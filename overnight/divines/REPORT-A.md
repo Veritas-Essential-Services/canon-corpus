@@ -1150,3 +1150,6 @@
 
 ## 2026-10-17 18:11 CDT — louis-de-blois done
 - `pipeline/louis-de-blois_shelf.json`: 3 CCEL, 0 PG, 4 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 18:11 CDT — alphonsus-liguori done
+- `pipeline/alphonsus-liguori_shelf.json`: 0 CCEL, 1 PG, 21 IA. `--verify --record`: 0 mismatched. 0 uids minted.
