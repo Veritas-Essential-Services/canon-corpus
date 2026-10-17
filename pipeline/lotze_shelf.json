@@ -1,5 +1,5 @@
 {
- "_about": "Hermann Lotze (1817-1881) in English, raw IA OCR: Microcosmus, tr. Elizabeth Hamilton and E. E. Constance Jones (T. & T. Clark, vol. I 1885, vol. II 1887); Lotze's System of Philosophy, English translation edited by Bernard Bosanquet (Oxford, 2nd ed.: Logic, 2 vols., 1888; Metaphysic, 2 vols., 1887); and four of George T. Ladd's Outlines of Philosophy, dictated portions of the lectures (Ginn: Practical Philosophy 1885, Psychology 1886, Logic and Encyclopedia 1887, Philosophy of Religion in a 1903 printing). US public domain. Wanted: Ladd's Outlines of Metaphysic (1884) and Outlines of Aesthetics. No uids minted.",
+ "_about": "Hermann Lotze (1817-1881) in English, raw IA OCR: Microcosmus, tr. Elizabeth Hamilton and E. E. Constance Jones (T. & T. Clark, vol. I 1885, vol. II 1887); Lotze's System of Philosophy, English translation edited by Bernard Bosanquet (Oxford, 2nd ed.: Logic, 2 vols., 1888; Metaphysic, 2 vols., 1887); and four of George T. Ladd's Outlines of Philosophy, dictated portions of the lectures (Ginn: Practical Philosophy 1885, Psychology 1886, Logic and Encyclopedia 1887, Philosophy of Religion in a 1903 printing). Added in round ad: Outlines of Metaphysic, dictated portions of the lectures (Boston: Ginn, Heath, 1884). US public domain. Still wanted: Outlines of Aesthetics. No uids minted.",
  "_author": "Hermann Lotze",
  "_name_words": [
   "hermann",
@@ -60,6 +60,11 @@
   "lotze-ladd-philosophy-of-religion-1903": [
    "outlinesofphilos00lotz",
    "Outlines of the Philosophy of Religion: dictated portions of the lectures (Boston: Ginn, 1903 printing; first published 1885)",
+   "tr. George T. Ladd"
+  ],
+  "lotze-ladd-outlines-of-metaphysic-1884": [
+   "outlinesofmetaph00lotzrich",
+   "Outlines of Metaphysic, dictated portions of the lectures (Boston: Ginn, Heath, 1884)",
    "tr. George T. Ladd"
   ]
  },
@@ -207,6 +212,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1903",
    "ia_date": "1903 [c1885]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lotze-ladd-outlines-of-metaphysic-1884": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lotze",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
