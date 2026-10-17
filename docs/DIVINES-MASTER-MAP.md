@@ -5553,6 +5553,17 @@ Slugs `bellarmine-*`. Translators claimed: Ball, Dalton, Murphy; T. B. (1616), C
 | Protestant refutations of him (1687, 1839) | excluded | |
 | Brodrick's Life (1928) and other works about him | excluded | |
 | Modern translations with wrong IA dates | excluded | |
+
+## Francis Xavier (round 26, my pick, 2026-10-17)
+
+Slugs `xavier-*`. Selections from his own letters; the preface is signed H. J. C. (Coleridge). Coleridge's Life and Letters is an alternate because it is a life.
+
+| Work | Status | Where |
+|---|---|---|
+| Teachings and Counsels of St. Francis Xavier, gathered from his letters (London: Burns and Oates, 1888) | have-ocr | IA `teachingscounsel00fran` |
+| The Life and Letters of St. Francis Xavier, by Henry James Coleridge, 2 vols (London: Burns and Oates, 1872; 1881; 1886): a life with his letters embedded | alternate | not shelved |
+| Lives by Venn, Bouhours (Dryden), Bartoli and others; Preces Xaverianae | excluded | |
+| Latin, French and Spanish letter editions | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

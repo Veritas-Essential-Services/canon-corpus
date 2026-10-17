@@ -1,0 +1,46 @@
+{
+ "_about": "Public-domain Francis Xavier (1506-1552, Jesuit missionary to India and Japan) in English for the Word Hoard: Teachings and Counsels of St. Francis Xavier, gathered from his letters (London: Burns and Oates, 1888), from an Internet Archive scan. Coleridge's Life and Letters (1872) is a life with the letters set in it, so it is an alternate. Added 2026-10-17 by lane A, round 26 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "xavier"
+ ],
+ "_surname": [
+  "francis xavier",
+  "francis xa vier",
+  "st. francis xavier",
+  "xavier"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "xavier-teachings-counsels": [
+   "teachingscounsel00fran",
+   "Teachings and Counsels of St. Francis Xavier, gathered from his letters (London: Burns and Oates, 1888)"
+  ]
+ },
+ "_alternates": {
+  "xavier-life-and-letters": "The Life and Letters of St. Francis Xavier, by Henry James Coleridge, 2 vols (London: Burns and Oates, 1872; 1881; 1886): a life with his letters embedded"
+ },
+ "_excluded": {
+  "xavier-about": "Lives by Venn, Bouhours (Dryden), Bartoli and others; Preces Xaverianae",
+  "xavier-other-languages": "Latin, French and Spanish letter editions"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "xavier-letters": "A complete standalone English edition of his letters before 1930: not found"
+ },
+ "_translators": {},
+ "_checks": {
+  "xavier-teachings-counsels": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "francis xavier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
