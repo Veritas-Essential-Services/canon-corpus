@@ -5212,3 +5212,22 @@ Slugs `francis-*`. Translators: Robinson, de la Warr, Balfour, Alger; Okey's rev
 | Lives and legends about him: Celano, the Three Companions, the Mirror of Perfection, Sabatier, Chesterton, Chalippe | excluded | |
 | CCEL ugolino/flowers: Heritage Press, Hudleston revision, post-1929 | excluded | |
 | Peter Pauper and Burns Oates & Washbourne printings after 1929 | excluded | |
+
+## Ignatius of Loyola (round 25, my pick, 2026-10-17)
+
+Slugs `ignatius-*`. Translators: Mullan, Seager, Longridge, Rix, O'Leary; the Morris text (1880) names none on its title page; O'Conor edited the Autobiography. The reading-lists thread lists the Spiritual Exercises as not yet shelved: this shelf fills it.
+
+| Work | Status | Where |
+|---|---|---|
+| The Spiritual Exercises of St. Ignatius of Loyola, translated from the autograph by Elder Mullan (New York: P. J. Kenedy & Sons, 1914) | have-clean | CCEL ignatius/exercises |
+| The Autobiography of St. Ignatius, ed. J. F. X. O'Conor (New York: Benziger Brothers, 1900) | have-clean | Gutenberg 24534 |
+| The Spiritual Exercises of St. Ignatius of Loyola, translated from the authorized Latin by Charles Seager, preface by N. Wiseman (London: Charles Dolman, MDCCCXLVII) | have-ocr | IA `a588350800loyouoft` |
+| The Text of the Spiritual Exercises of Saint Ignatius, translated from the original Spanish (London: Burns and Oates, 1880) | have-ocr | IA `textofspirituale00ignauoft` |
+| The Spiritual Exercises of Saint Ignatius of Loyola, with a commentary and the Directorium, tr. W. H. Longridge (London: Robert Scott, MCMXIX) | have-ocr | IA `spiritualexercis00igna_4` |
+| The Testament of Ignatius Loyola, taken down from his lips by Luis Gonzales, tr. E. M. Rix (London: Sands, 1900) | have-ocr | IA `testamentignati00loyogoog` |
+| Letters and Instructions of St. Ignatius Loyola, vol. I, 1524-1547, tr. D. F. O'Leary, ed. A. Goodier (St. Louis: B. Herder; London: Manresa Press, 1914) | have-ocr | IA `LettersAndInstructionsOfStIgnatius` |
+| Seager's American edition (Louisville, 1849), the Morris text fourth edition (1908), Longridge second edition (1922), Mullan on IA | alternate | not shelved |
+| An English Exercises (St. Omers, 1736): long-s OCR, translator not read | alternate | not shelved |
+| Other copies of the Autobiography, the Testament and the Letters | alternate | not shelved |
+| Retreats, meditations and adaptations by other hands (Coppens 1916, Manresa, Colton 1887, 1862, 1883) | excluded | |
+| Latin and Spanish editions | excluded | |

@@ -1,0 +1,159 @@
+{
+ "_about": "Public-domain Ignatius of Loyola (1491-1556, founder of the Society of Jesus) in English for the Word Hoard: the Spiritual Exercises in Elder Mullan's translation from the autograph (New York, 1914) from CCEL and in Charles Seager's (1847), the Morris text (1880) and W. H. Longridge's (1919), the Autobiography edited by J. F. X. O'Conor (1900) from Project Gutenberg, E. M. Rix's Testament (1900), and the Letters and Instructions, vol. I (1914), from Internet Archive scans. Added 2026-10-17 by lane A, round 25 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_ccel_author": "ignatius",
+ "_name_words": [
+  "ignatius"
+ ],
+ "_surname": [
+  "ignatius of loyola",
+  "ignatius loyola",
+  "st. ignatius",
+  "saint ignatius",
+  "s. ignatius"
+ ],
+ "_held": {},
+ "ccel": {
+  "ignatius-exercises-mullan": [
+   "exercises",
+   "The Spiritual Exercises of St. Ignatius of Loyola, translated from the autograph by Elder Mullan (New York: P. J. Kenedy & Sons, 1914)",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "ignatius-autobiography-oconor": [
+   "24534",
+   "The Autobiography of St. Ignatius, ed. J. F. X. O'Conor (New York: Benziger Brothers, 1900)"
+  ]
+ },
+ "internet_archive": {
+  "ignatius-exercises-seager": [
+   "a588350800loyouoft",
+   "The Spiritual Exercises of St. Ignatius of Loyola, translated from the authorized Latin by Charles Seager, preface by N. Wiseman (London: Charles Dolman, MDCCCXLVII)"
+  ],
+  "ignatius-exercises-morris": [
+   "textofspirituale00ignauoft",
+   "The Text of the Spiritual Exercises of Saint Ignatius, translated from the original Spanish (London: Burns and Oates, 1880)"
+  ],
+  "ignatius-exercises-longridge": [
+   "spiritualexercis00igna_4",
+   "The Spiritual Exercises of Saint Ignatius of Loyola, with a commentary and the Directorium, tr. W. H. Longridge (London: Robert Scott, MCMXIX)"
+  ],
+  "ignatius-testament-rix": [
+   "testamentignati00loyogoog",
+   "The Testament of Ignatius Loyola, taken down from his lips by Luis Gonzales, tr. E. M. Rix (London: Sands, 1900)"
+  ],
+  "ignatius-letters-1": [
+   "LettersAndInstructionsOfStIgnatius",
+   "Letters and Instructions of St. Ignatius Loyola, vol. I, 1524-1547, tr. D. F. O'Leary, ed. A. Goodier (St. Louis: B. Herder; London: Manresa Press, 1914)"
+  ]
+ },
+ "_alternates": {
+  "ignatius-exercises-copies": "Seager's American edition (Louisville, 1849), the Morris text fourth edition (1908), Longridge second edition (1922), Mullan on IA",
+  "ignatius-exercises-1736": "An English Exercises (St. Omers, 1736): long-s OCR, translator not read",
+  "ignatius-copies": "Other copies of the Autobiography, the Testament and the Letters"
+ },
+ "_excluded": {
+  "ignatius-adaptations": "Retreats, meditations and adaptations by other hands (Coppens 1916, Manresa, Colton 1887, 1862, 1883)",
+  "ignatius-latin": "Latin and Spanish editions"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "ignatius-rickaby": "Joseph Rickaby's Spanish and English Exercises (1915): not found",
+  "ignatius-letters-2": "Further volumes of the Letters: not found"
+ },
+ "_translators": {
+  "ignatius-exercises-mullan": "mullan",
+  "ignatius-exercises-seager": "seager",
+  "ignatius-exercises-longridge": "longridge",
+  "ignatius-testament-rix": "rix",
+  "ignatius-letters-1": "leary"
+ },
+ "_checks": {
+  "ignatius-exercises-mullan": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ignatius of loyola",
+   "translator_claimed": "mullan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ignatius-autobiography-oconor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ignatius of loyola",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ignatius-exercises-seager": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ignatius of loyola",
+   "translator_claimed": "seager",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ignatius-exercises-morris": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ignatius loyola",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ignatius-exercises-longridge": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ignatius of loyola",
+   "translator_claimed": "longridge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ignatius-testament-rix": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ignatius loyola",
+   "translator_claimed": "rix",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ignatius-letters-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ignatius of loyola",
+   "translator_claimed": "leary",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
