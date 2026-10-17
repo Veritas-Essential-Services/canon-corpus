@@ -1039,3 +1039,6 @@
 
 ## 2026-10-17 17:22 CDT — william-sanday done
 - `pipeline/william-sanday_shelf.json`: 0 CCEL, 2 PG, 18 IA. Title pages read for sanday-bishop-gore-challenge (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:22 CDT — s-r-driver done
+- `pipeline/s-r-driver_shelf.json`: 0 CCEL, 0 PG, 14 IA. Title pages read for driver-intro-literature-ot (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.

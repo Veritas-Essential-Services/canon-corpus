@@ -4674,3 +4674,33 @@ Slugs `sanday-*`. Two Gutenberg texts and 18 scans; joint works (ICC Romans with
 | The Deeper Causes of the War (1914) and The Meaning of the War (1915): war pamphlets | excluded | |
 | Appendices ad Novum Testamentum Stephanicum (1889) and the Old-Latin Biblical Texts: editions | excluded | |
 | post-1930 Romans reprints, reviews, microform copies | excluded | |
+
+## S. R. Driver (round 23, my pick, 2026-10-17)
+
+Slugs `driver-*`. Introduction to the Literature of the Old Testament, the ICC Deuteronomy and his commentaries; his Bible translations and Hebrew grammar work are alternates.
+
+| Work | Status | Where |
+|---|---|---|
+| Critical Notes on the International Sunday-School Lessons from the Pentateuch for 1887 (New York: Scribner's, 1887) | have-ocr | IA `criticalnotesoni00driv` |
+| Isaiah: His Life and Times, second edition, revised (London: James Nisbet; catalogued 1888) | have-ocr | IA `isaiahhislifetim00driv` |
+| An Introduction to the Literature of the Old Testament (New York: Scribner's, 1891) | have-ocr | IA `introductiontolit00driv` |
+| Sermons on Subjects Connected with the Old Testament (London, 1892) | have-ocr | IA `sermonsonsubjec00driv` |
+| A Critical and Exegetical Commentary on Deuteronomy, International Critical Commentary (New York: Scribner's, 1895) | have-ocr | IA `criticalexegetic05driv` |
+| The Books of Joel and Amos, Cambridge Bible for Schools (Cambridge: University Press, 1897) | have-ocr | IA `booksofjoelamosw00drivuoft` |
+| The Book of Daniel, Cambridge Bible (Cambridge: University Press, 1900) | have-ocr | IA `bookdaniel00drivgoog` |
+| The Book of Genesis, Westminster Commentaries (New York: E. S. Gorham; London: Methuen, 1904) | have-ocr | IA `bookofgenesiswit00driv` |
+| The Minor Prophets: Nahum to Malachi, Century Bible (Edinburgh: T. C. & E. C. Jack; catalogued 1906) | have-ocr | IA `minorprophetsnah00driv` |
+| The Book of Job in the Revised Version (Oxford: Clarendon Press, 1906) | have-ocr | IA `bwb_P9-AVG-129` |
+| Modern Research as Illustrating the Bible, the Schweich Lectures 1908 (London: British Academy, 1909) | have-ocr | IA `modernresearchas00drivuoft` |
+| The Book of Exodus in the Revised Version, Cambridge Bible (Cambridge: University Press, 1911) | have-ocr | IA `bookofexodusinre00driv` |
+| The Ideals of the Prophets: sermons, with a bibliography of his writings (Edinburgh: T. & T. Clark, 1915) | have-ocr | IA `idealsoftheprop00drivuoft` |
+| Studies in the Psalms, edited by C. F. Burney (London: Hodder & Stoughton, MCMXV) | have-ocr | IA `studiesinpsalms00drivuoft` |
+| Second copies: isaiahhislifetim00drivuoft (New York, Randolph), introduction00driv (Edinburgh, second edition, 1891), criticalexegetic00driv (Deuteronomy), bookofjobinrevis0000srdr (1908) | alternate | not shelved |
+| His own translations: The Parallel Psalter (1898) and The Book of the Prophet Jeremiah, a revised translation (1906) | alternate | not shelved |
+| A Treatise on the Use of the Tenses in Hebrew (1874, 1881) and Notes on the Hebrew Text of the Books of Samuel (1890, 1913): Hebrew language aids | alternate | not shelved |
+| Additions and Corrections in the Seventh Edition of the Book of Genesis (1909; additionscorrect00driv) | alternate | not shelved |
+| Brown-Driver-Briggs (held in the lexicons), ICC Job with G. B. Gray, Leviticus in the Polychrome Bible with H. A. White, The Higher Criticism with Kirkpatrick, Christianity and Other Religions with Sanday | excluded | |
+| Mosheh ben Shesheth (1871), The Fifty-third Chapter of Isaiah (1877), Ibn Ezra on Proverbs (1880), his introduction to Delitzsch's Isaiah | excluded | |
+| Authority and Archaeology (1899), Somervell's Parallel History (his introduction) | excluded | |
+| John Merritte Driver, I. D. Driver, G. R. Driver | excluded | |
+| post-1930 printings | excluded | |

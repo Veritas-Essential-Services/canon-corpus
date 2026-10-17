@@ -2722,10 +2722,12 @@
     },
     {
       "id": "s-r-driver",
-      "status": "queued",
+      "status": "done",
       "scope": "S. R. Driver (Samuel Rolles Driver, d. 1914): Introduction to the Literature of the Old Testament, Sermons on the Old Testament, commentaries",
       "added": "2026-10-17T16:36:08-05:00",
-      "added_by": "lane A worker, round 23, on Adam's 2026-10-17 request to keep going on the theological tradition. Victorian churchmen: Tractarians and Roman converts, Broad Church, and the Oxford and Cambridge biblical scholars. Checked against every remote branch's shelves and queues: none held."
+      "added_by": "lane A worker, round 23, on Adam's 2026-10-17 request to keep going on the theological tradition. Victorian churchmen: Tractarians and Roman converts, Broad Church, and the Oxford and Cambridge biblical scholars. Checked against every remote branch's shelves and queues: none held.",
+      "finished": "2026-10-17T17:22:54-05:00",
+      "notes": "built and verified"
     },
     {
       "id": "henry-scott-holland",
