@@ -317,7 +317,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `mary-martha-sherwood` | 3 Gutenberg | 0 | 3,054 | The Wishing Cap (undated in the text), Soffrona and Her Cat Muff (1828) and The Fairchild Family in Mary E. Palgrave's edition (Stokes, New York; 1902 per the Internet Archive record), added 2026-10-17 under decision 22. |
 | `mrs-o-f-walton` | 3 Gutenberg | 0 | 3,046 | Christie's Old Organ, Christie, the King's Servant and A Peep Behind the Scenes (all undated in the text). |
 | `kingston` | 133 Gutenberg | 0 | 136,262 | Sea stories and adventure tales for boys. Completed 2026-10-17: 130 more books added, every English text by W. H. G. Kingston at Gutenberg that no other shelf holds. |
-| `mayne-reid` | 3 Gutenberg | 0 | 3,671 | The Bush Boys, The Cliff Climbers and The Castaways (all undated in the text). Its talk of the peoples met on the way is of its time. |
+| `mayne-reid` | 50 Gutenberg | 0 | 108,111 | Adventure stories and romances of the frontier and the sea; many describe peoples in the terms of their time. Completed 2026-10-17: 47 more books added, every English text by Mayne Reid at Gutenberg that no other shelf holds. |
 | `jane-and-ann-taylor` | 1 Gutenberg | 0 | 419 | Rhymes for the Nursery (1831 printing). |
 | `michael-barrett` | 1 Gutenberg | 0 | 401 | A Calendar of Scottish Saints (1919). |
 | `elizabeth-prentiss` | 1 Gutenberg | 0 | 400 | Little Susy's Little Servants (copyright 1856 and 1883). |

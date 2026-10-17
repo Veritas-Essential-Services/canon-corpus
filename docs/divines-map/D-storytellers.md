@@ -3372,13 +3372,62 @@ Shelf: `pipeline/kingston_shelf.json` (2026-10-02; added at the coordinator's re
 
 ## Mayne Reid
 
-Shelf: `pipeline/mayne-reid_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Three adventure stories for boys; cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/mayne-reid_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Adventure stories and romances of the frontier and the sea; many describe peoples in the terms of their time. All 50 of Mayne Reid's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | The Bush Boys | have | PG 21237, `mreid-bush-boys` (1643 units) |
 | The Cliff Climbers | have | PG 21239, `mreid-cliff-climbers` (1233 units) |
 | The Castaways | have | PG 21238, `mreid-castaways` (795 units) |
+| The Lone Ranche | have | PG 21240, `mreid-lone-ranche` (2593 units) |
+| The Rifle Rangers | have | PG 21241, `mreid-rifle-rangers` (2797 units) |
+| The Death Shot: A Story Retold | have | PG 23140, `mreid-death-shot` (3048 units) |
+| The War Trail: The Hunt of the Wild Horse | have | PG 23144, `mreid-war-trail` (3457 units) |
+| The White Chief: A Legend of Northern Mexico | have | PG 23193, `mreid-white-chief` (2528 units) |
+| The Scalp Hunters | have | PG 23268, `mreid-scalp-hunters` (3286 units) |
+| The Hunters' Feast: Conversations Around the Camp Fire | have | PG 23499, `mreid-hunters-feast` (1667 units) |
+| Quadrupeds, What They Are and Where Found: A Book of Zoology for Boys | have | PG 23576, `mreid-quadrupeds-what-they-are-and-where-found` (507 units) |
+| Gaspar the Gaucho: A Story of the Gran Chaco | have | PG 23648, `mreid-gaspar-the-gaucho` (1402 units) |
+| Ran Away to Sea | have | PG 23853, `mreid-ran-away-to-sea` (1258 units) |
+| The desert home | have | PG 24268, `mreid-desert-home` (1065 units) |
+| The Boy Slaves | have | PG 24503, `mreid-boy-slaves` (2359 units) |
+| The Forest Exiles: The Perils of a Peruvian Family in the Wilds of the Amazon | have | PG 24814, `mreid-forest-exiles` (914 units) |
+| The Tiger Hunter | have | PG 25127, `mreid-tiger-hunter` (2941 units) |
+| The Flag of Distress: A Story of the South Sea | have | PG 25164, `mreid-flag-of-distress` (3027 units) |
+| The Land of Fire: A Tale of Adventure | have | PG 25203, `mreid-land-of-fire` (688 units) |
+| Popular Adventure Tales | have | PG 25665, `mreid-popular-adventure-tales` (3651 units) |
+| The Boy Tar | have | PG 25666, `mreid-boy-tar` (1297 units) |
+| The Giraffe Hunters | have | PG 27911, `mreid-giraffe-hunters` (2066 units) |
+| The Quadroon: Adventures in the Far West | have | PG 27913, `mreid-quadroon` (2726 units) |
+| Wood Rangers: The Trappers of Sonora | have | PG 27980, `mreid-wood-rangers` (3276 units) |
+| The Plant Hunters: Adventures Among the Himalaya Mountains | have | PG 27981, `mreid-plant-hunters` (1389 units) |
+| The Ocean Waifs: A Story of Adventure on Land and Sea | have | PG 27982, `mreid-ocean-waifs` (2144 units) |
+| Bruin: The Grand Bear Hunt | have | PG 27993, `mreid-bruin` (1199 units) |
+| The Free Lances: A Romance of the Mexican Valley | have | PG 27996, `mreid-free-lances` (1735 units) |
+| The Wild Huntress: Love in the Wilderness | have | PG 28033, `mreid-wild-huntress` (1967 units) |
+| The Vee-Boers: A Tale of Adventure in Southern Africa | have | PG 34667, `mreid-vee-boers` (445 units) |
+| The Young Yagers: A Narrative of Hunting Adventures in Southern Africa | have | PG 34668, `mreid-young-yagers` (1349 units) |
+| The Fatal Cord, and The Falcon Rover | have | PG 35195, `mreid-fatal-cord-and-the-falcon-rover` (1727 units) |
+| Gwen Wynn: A Romance of the Wye | have | PG 35196, `mreid-gwen-wynn` (3148 units) |
+| The Bandolero; Or, A Marriage among the Mountains | have | PG 35197, `mreid-bandolero` (1765 units) |
+| Afloat in the Forest; Or, A Voyage among the Tree-Tops | have | PG 35213, `mreid-afloat-in-the-forest` (1197 units) |
+| The Guerilla Chief, and Other Tales | have | PG 35214, `mreid-guerilla-chief-and-other-tales` (2191 units) |
+| The Maroon | have | PG 35295, `mreid-maroon` (4734 units) |
+| Lost Lenore: The Adventures of a Rolling Stone | have | PG 35443, `mreid-lost-lenore` (3429 units) |
+| The Headless Horseman: A Strange Tale of Texas | have | PG 35587, `mreid-headless-horseman` (6213 units) |
+| Osceola the Seminole; or, The Red Fawn of the Flower Land | have | PG 35620, `mreid-osceola-the-seminole` (3340 units) |
+| The Lost Mountain: A Tale of Sonora | have | PG 35649, `mreid-lost-mountain` (910 units) |
+| No Quarter! | have | PG 35670, `mreid-no-quarter` (2629 units) |
+| The White Gauntlet | have | PG 35702, `mreid-white-gauntlet` (3956 units) |
+| Odd people | have | PG 35911, `mreid-odd-people` (1022 units) |
+| The Finger of Fate: A Romance | have | PG 35912, `mreid-finger-of-fate` (1941 units) |
+| The Child Wife | have | PG 35913, `mreid-child-wife` (4233 units) |
+| The Yellow Chief | have | PG 36603, `mreid-yellow-chief` (774 units) |
+| The White Squaw | have | PG 36604, `mreid-white-squaw` (2381 units) |
+| The island pirate, a tale of the Mississippi | have | PG 69036, `mreid-island-pirate-a-tale-of-the-mississippi` (990 units) |
+| The man-eaters and other odd people | have | PG 70452, `mreid-man-eaters-and-other-odd-people` (1079 units) |
+| mreid-repeat-31410 | excluded | PG 31410, The Boy Slaves: a second transcription of PG 24503, which is taken |
+| mreid-repeat-35784 | excluded | PG 35784, Gwen Wynn: a second transcription of PG 35196, which is taken |
 
 ## Ann and Jane Taylor
 
