@@ -3545,6 +3545,7 @@ Shelf: `pipeline/kant_shelf.json`. Immanuel Kant (1724-1804) in English, transla
 | Immanuel Kant's Critique of Pure Reason, vol. II: the Critique (London: Macmillan, 1881) | F. Max Müller | `kant-muller-critique-1881-v2` | have-raw (IA `cu31924092291073`) |
 | Religion within the Boundary of Pure Reason (Edinburgh: Thomas Clark, 1838) | J. W. Semple | `kant-semple-religion-1838` | have-raw (IA `religionwithin00kantuoft`) |
 | The Metaphysic of Ethics, 3rd ed., with introduction by Henry Calderwood (Edinburgh: T. & T. Clark, 1871) | J. W. Semple | `kant-semple-metaphysic-of-ethics-1871` | have-raw (IA `metaphysicofethi00kant`) |
+| Kant's Prolegomena and Metaphysical Foundations of Natural Science, with a biography and introduction (Bohn's Philosophical Library; London: George Bell, 1883) | Ernest Belfort Bax | `kant-bax-prolegomena-1883` | have-raw (IA `cu31924029022213`) |
 
 Pending (wishlist): Goerwitz's Dreams of a Spirit-Seer (1900; IA dreamsofspiritse00kant returned HTTP 500); Annette Churton's Kant on Education (1899; the scan found has no readable title page); the 1798-1799 Essays and Treatises and Metaphysic of Morals attributed to John Richardson (title pages unreadable in the OCR).
 

@@ -36,13 +36,19 @@
    "metaphysicofethi00kant",
    "The Metaphysic of Ethics, 3rd ed., with introduction by Henry Calderwood (Edinburgh: T. & T. Clark, 1871)",
    "tr. J. W. Semple"
+  ],
+  "kant-bax-prolegomena-1883": [
+   "cu31924029022213",
+   "Kant's Prolegomena and Metaphysical Foundations of Natural Science, with a biography and introduction (Bohn's Philosophical Library; London: George Bell, 1883)",
+   "tr. Ernest Belfort Bax"
   ]
  },
  "_excluded": {},
  "_translators": {
   "kant-carus-prolegomena-1912": "Carus",
   "kant-semple-religion-1838": "Semple",
-  "kant-semple-metaphysic-of-ethics-1871": "Semple"
+  "kant-semple-metaphysic-of-ethics-1871": "Semple",
+  "kant-bax-prolegomena-1883": "Bax"
  },
  "_checks": {
   "kant-carus-prolegomena-1912": {
@@ -102,6 +108,19 @@
    "ia_rights": "ok: published 1871",
    "ia_date": "1871",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kant-bax-prolegomena-1883": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kant",
+   "translator_claimed": "Bax",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
