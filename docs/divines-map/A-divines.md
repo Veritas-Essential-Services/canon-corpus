@@ -5335,3 +5335,23 @@ Slugs `granada-*`. No translator claimed: the title pages name none legibly (Hop
 | Other sixteenth- and seventeenth-century printings (Of Prayer and Meditation 1584-1634, Memoriall 1586-1625, 1702 and 1795 editions, and smaller works) | alternate | not shelved |
 | Tan reprint | excluded | |
 | French, Italian, German and Latin editions | excluded | |
+
+## Louis de Blois (Blosius) (round 25, my pick, 2026-10-17)
+
+Slugs `blosius-*`. Translators: Coffin, Wilberforce; the Mirror and the Spiritual Works name editors only.
+
+| Work | Status | Where |
+|---|---|---|
+| A Mirror for Monks, second edition, ed. John Duke Coleridge (London: C. J. Stewart, 1872) | have-clean | CCEL blois/mirror |
+| The Oratory of the Faithful Soul, tr. Robert Aston Coffin (London: Richardson and Son, 1848) | have-clean | CCEL blois/oratory |
+| Spiritual Works of Louis of Blois, Abbot of Liesse, ed. John Edward Bowden, fourth edition (London: R. & T. Washbourne, 1903) | have-clean | CCEL blois/spiritual |
+| A Book of Spiritual Instruction, tr. Bertrand A. Wilberforce (St Louis: B. Herder; London: Art and Book Company, MDCCCC) | have-ocr | IA `bookofspirituali00bloi` |
+| Comfort for the Faint-hearted, tr. Bertrand A. Wilberforce, fourth edition (Westminster: Art and Book Company, 1908) | have-ocr | IA `comfortforfainth0000ludo` |
+| The Sanctuary of the Faithful Soul, part I: A Spiritual Mirror, tr. Bertrand A. Wilberforce (Benziger, 1926) | have-ocr | IA `sanctuaryoffaith0000ludo` |
+| A Mirrour for Monkes (catalogued 1676) | have-ocr | IA `bim_early-english-books-1641-1700_a-mirrour-for-monkes-_blois-louis-de_1676` |
+| Other copies of the Mirror (1872), the Oratory and the Spiritual Works; Book of Spiritual Instruction and Comfort (Benziger, 1925-1926) | alternate | not shelved |
+| The 1926 Delany and Hudleston revisions of old anonymous translations (Paradise of the Faithful Soul, A String of Spiritual Jewels, Mirror for Monks) | alternate | not shelved |
+| The Manual of the Spiritual Life (London: Hodges, catalogued 1871): title page not read | alternate | not shelved |
+| A Benedictine of the Sixteenth Century (Lady Lovat, 1878): about him | excluded | |
+| A Spiritual Mirror (1830): a different work | excluded | |
+| German and Latin editions | excluded | |
