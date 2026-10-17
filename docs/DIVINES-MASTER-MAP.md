@@ -22387,6 +22387,44 @@ Shelf: `pipeline/zane-grey_shelf.json` (2026-10-17; added at the coordinator's r
 | Wanderer of the Wasteland | have | PG 60102, `zgrey-wanderer-of-the-wasteland` (2580 units) |
 | From Missouri | have | PG 67370, `zgrey-from-missouri` (260 units) |
 
+## James Oliver Curwood
+
+Shelf: `pipeline/curwood_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Wilderness and animal novels of the North. Every English text under the name at Gutenberg that no other shelf holds (27 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Golden Snare | have | PG 4515, `curwood-golden-snare` (657 units) |
+| Back to God's Country and Other Stories | have | PG 4539, `curwood-back-to-gods-country-and-other-stories` (1133 units) |
+| God's Country—And the Woman | have | PG 4585, `curwood-gods-country-and-the-woman` (1394 units) |
+| Philip Steele of the Royal Northwest Mounted Police | have | PG 4633, `curwood-philip-steele-of-the-royal-northwest-mounted-police` (946 units) |
+| The Flaming Forest | have | PG 4702, `curwood-flaming-forest` (1056 units) |
+| Flower of the North: A Modern Romance | have | PG 4703, `curwood-flower-of-the-north` (1306 units) |
+| Nomads of the North: A Story of Romance and Adventure under the Open Stars | have | PG 4704, `curwood-nomads-of-the-north` (684 units) |
+| The Valley of Silent Men: A Story of the Three River Country | have | PG 4707, `curwood-valley-of-silent-men` (1119 units) |
+| The Country Beyond: A Romance of the Wilderness | have | PG 4743, `curwood-country-beyond` (1461 units) |
+| The River's End | have | PG 4747, `curwood-rivers-end` (829 units) |
+| Baree, son of Kazan | have | PG 4748, `curwood-baree-son-of-kazan` (829 units) |
+| The Honor of the Big Snows | have | PG 5895, `curwood-honor-of-the-big-snows` (1351 units) |
+| Isobel : A Romance of the Northern Trail | have | PG 6715, `curwood-isobel` (934 units) |
+| Kazan | have | PG 10084, `curwood-kazan` (750 units) |
+| The Danger Trail | have | PG 10696, `curwood-danger-trail` (1033 units) |
+| The grizzly king | have | PG 10977, `curwood-grizzly-king` (896 units) |
+| The Hunted Woman | have | PG 11328, `curwood-hunted-woman` (1928 units) |
+| The Gold Hunters: A Story of Life and Adventure in the Hudson Bay Wilds | have | PG 11668, `curwood-gold-hunters` (1153 units) |
+| The Alaskan | have | PG 11867, `curwood-alaskan` (1341 units) |
+| The wolf hunters | have | PG 12170, `curwood-wolf-hunters` (1027 units) |
+| The Courage of Captain Plum | have | PG 12388, `curwood-courage-of-captain-plum` (1100 units) |
+| The Courage of Marge O'Doone | have | PG 17745, `curwood-courage-of-marge-odoone` (1270 units) |
+| Thomas Jefferson Brown | have | PG 23181, `curwood-thomas-jefferson-brown` (93 units) |
+| The Great Lakes The Vessels That Plough Them: Their Owners, Their Sailors, and Their Cargoes, Together with a Brief History of Our Inland Seas | have | PG 52976, `curwood-great-lakes-the-vessels-that-plough-them` (890 units) |
+| God's Country: The Trail to Happiness | have | PG 53073, `curwood-gods-country` (250 units) |
+| A Gentleman of Courage: A Novel of the Wilderness | have | PG 53885, `curwood-a-gentleman-of-courage` (1591 units) |
+| The Laugh Maker | have | PG 67154, `curwood-laugh-maker` (43 units) |
+| curwood-my-story-that-i-like-best | excluded | PG 65906, My Story That I Like Best, is Ray Long's many-author anthology |
+| curwood-repeat-29406 | excluded | PG 29406, The Country Beyond: A Romance of the Wilderness: a second transcription of a title already on this shelf |
+| curwood-repeat-29407 | excluded | PG 29407, The Valley of Silent Men: A Story of the Three River Country: a second transcription of a title already on this shelf |
+| curwood-repeat-53929 | excluded | PG 53929, Baree, son of Kazan: a second transcription of a title already on this shelf |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
