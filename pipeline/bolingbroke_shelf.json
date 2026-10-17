@@ -1,5 +1,5 @@
 {
- "_about": "Henry St. John, Viscount Bolingbroke (1678-1751): Letters to Sir William Windham and Mr. Pope, edited by Henry Morley, from Project Gutenberg (the etext names no printing). US public domain. Wanted: the Letters on the Study and Use of History and the Idea of a Patriot King. No uids minted.",
+ "_about": "Henry St. John, Viscount Bolingbroke (1678-1751): Letters to Sir William Windham and Mr. Pope, edited by Henry Morley, from Project Gutenberg (the etext names no printing). Added in round ad: Letters on the Spirit of Patriotism, on the Idea of a Patriot King, and on the State of Parties (London: A. Millar, 1752); Letters on the Study and Use of History, a new edition, corrected (Paris: Theophilus Barrois, 1808). US public domain. No uids minted.",
  "_author": "Henry St. John, Viscount Bolingbroke",
  "_name_words": [
   "henry",
@@ -19,7 +19,16 @@
    "Letters to Sir William Windham and Mr. Pope, ed. Henry Morley (the etext names no printing)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "bolingbroke-spirit-of-patriotism-patriot-king-1752": [
+   "lettersonspirito00boli",
+   "Letters on the Spirit of Patriotism, on the Idea of a Patriot King, and on the State of Parties (London: A. Millar, 1752)"
+  ],
+  "bolingbroke-study-and-use-of-history-1808": [
+   "lettersonstudyus00boli",
+   "Letters on the Study and Use of History, a new edition, corrected (Paris: Theophilus Barrois, 1808)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "bolingbroke-letters-windham-pope": {
@@ -30,6 +39,28 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "bolingbroke-spirit-of-patriotism-patriot-king-1752": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bolingbroke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1752",
+   "ia_date": "1752",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bolingbroke-study-and-use-of-history-1808": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bolingbroke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
   }
  }
 }
