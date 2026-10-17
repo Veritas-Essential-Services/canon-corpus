@@ -1,0 +1,431 @@
+{
+ "_about": "SERIES SHELF of one-off translators: the Wisdom of the East series (Orient Press 1904, then John Murray, ed. L. Cranmer-Byng and S. A. Kapadia), the Edwardian pocket library of Asian texts in English. Round 60 holds the Chinese, Japanese and Tibetan volumes plus Claud Field's Alchemy of Happiness: Lionel Giles's Lieh Tzu (1912) and Lao Tzu (1904), Anton Forke's Yang Chu (1912), Cranmer-Byng's Lute of Jade (1909), Feast of Lanterns (1916) and Odes of Confucius (1905), Clara Walsh's Master-Singers of Japan (1910), Ken Hoshino's Way of Contentment (Kaibara Ekiken, 1913) and Millicent Morrison's Ti-Me-Kun-Dan (1925). Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 60); Adam may veto. No uids minted.",
+ "_name_words": [
+  "anton forke",
+  "clara a. walsh",
+  "claud field",
+  "cranmer byng",
+  "cranmer-byng",
+  "field",
+  "forke",
+  "giles",
+  "hoshino",
+  "ken hoshino",
+  "l. cranmer-byng",
+  "lionel giles",
+  "millicent h. morrison",
+  "morrison",
+  "walsh"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "anton forke",
+  "clara a. walsh",
+  "claud field",
+  "cranmer byng",
+  "cranmer-byng",
+  "field",
+  "forke",
+  "giles",
+  "hoshino",
+  "ken hoshino",
+  "l. cranmer-byng",
+  "lionel giles",
+  "millicent h. morrison",
+  "morrison",
+  "walsh"
+ ],
+ "_surname_by_slug": {
+  "woe-lieh-tzu": [
+   "lionel giles",
+   "giles"
+  ],
+  "woe-lao-tzu": [
+   "lionel giles",
+   "giles"
+  ],
+  "woe-yang-chu": [
+   "anton forke",
+   "forke"
+  ],
+  "woe-lute-of-jade": [
+   "cranmer-byng",
+   "l. cranmer-byng"
+  ],
+  "woe-feast-of-lanterns": [
+   "cranmer-byng",
+   "cranmer byng",
+   "l. cranmer-byng"
+  ],
+  "woe-odes": [
+   "cranmer-byng",
+   "l. cranmer-byng"
+  ],
+  "woe-master-singers": [
+   "clara a. walsh",
+   "walsh"
+  ],
+  "woe-way-of-contentment": [
+   "ken hoshino",
+   "hoshino"
+  ],
+  "woe-ti-me-kun-dan": [
+   "millicent h. morrison",
+   "morrison"
+  ],
+  "woe-alchemy-of-happiness": [
+   "claud field",
+   "field"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "woe-lute-of-jade": [
+   390,
+   "A Lute of Jade: Selections from the Classical Poets of China"
+  ]
+ },
+ "internet_archive": {
+  "woe-lieh-tzu": [
+   "taoistteachingsf00liezrich",
+   "Taoist Teachings from the Book of Lieh Tzu (Murray, Wisdom of the East, 1912)"
+  ],
+  "woe-lao-tzu": [
+   "sayingslaotz00gilegoog",
+   "The Sayings of Lao Tzu (Orient Press, Wisdom of the East, 1904)"
+  ],
+  "woe-yang-chu": [
+   "yangchusgardenof00yanguoft",
+   "Yang Chu's Garden of Pleasure (Murray, Wisdom of the East, 1912)"
+  ],
+  "woe-feast-of-lanterns": [
+   "feastoflanterns00cran",
+   "A Feast of Lanterns (Murray, Wisdom of the East, 1916)"
+  ],
+  "woe-odes": [
+   "odesofconfucius00craniala",
+   "The Odes of Confucius (Dutton, Wisdom of the East, 1908)"
+  ],
+  "woe-master-singers": [
+   "india.history.resource.91749",
+   "The Master-Singers of Japan (Murray, Wisdom of the East, 1910)",
+   "91749_djvu.txt"
+  ],
+  "woe-way-of-contentment": [
+   "wayofcontentment00kaibrich",
+   "The Way of Contentment (Murray, Wisdom of the East, 1913)"
+  ],
+  "woe-ti-me-kun-dan": [
+   "in.ernet.dli.2015.106823",
+   "Ti-Me-Kun-Dan, Prince of Buddhist Benevolence (Murray, Wisdom of the East, 1925)",
+   "2015.106823.Wisdom-Of-The-East-Ti-me-kun-dan_djvu.txt"
+  ],
+  "woe-alchemy-of-happiness": [
+   "in.ernet.dli.2015.106793",
+   "The Alchemy of Happiness (Murray, Wisdom of the East, 1910)",
+   "2015.106793.Wisdom-Of-The-East-The-Alchemy-Of-Happiness_djvu.txt"
+  ]
+ },
+ "titles": {
+  "wisdom-of-the-east-lieh-tzu": {
+   "source": "woe-lieh-tzu",
+   "of": "Liezi (Lieh Tzu)",
+   "work": "Taoist Teachings from the Book of Lieh Tzu",
+   "translated": 1912,
+   "translator": "Lionel Giles",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series (ed. L. Cranmer-Byng and S. A. Kapadia), 1912"
+  },
+  "wisdom-of-the-east-lao-tzu": {
+   "source": "woe-lao-tzu",
+   "of": "Laozi (Lao Tzu)",
+   "work": "The Sayings of Lao Tzu",
+   "translated": 1904,
+   "translator": "Lionel Giles",
+   "scan_edition": "The Orient Press, London, in the Wisdom of the East series, 1904 (the first edition; the series moved to John Murray in 1905); Google scan of a Harvard copy"
+  },
+  "wisdom-of-the-east-yang-chu": {
+   "source": "woe-yang-chu",
+   "of": "Yang Zhu (Yang Chu), from the Liezi",
+   "work": "Yang Chu's Garden of Pleasure",
+   "translated": 1912,
+   "translator": "Anton Forke",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series (ed. L. Cranmer-Byng and S. A. Kapadia), 1912; introduction by Hugh Cranmer-Byng",
+   "note": "Forke's German-trained translation from the Chinese, made for this series."
+  },
+  "wisdom-of-the-east-lute-of-jade": {
+   "source": "woe-lute-of-jade",
+   "of": "Classical Chinese poets (Li Po, Tu Fu and others)",
+   "work": "A Lute of Jade",
+   "translated": 1909,
+   "translator": "L. Cranmer-Byng",
+   "scan_edition": "Project Gutenberg #390, transcribed (its note says) from a New York edition of 1909 of the Wisdom of the East volume",
+   "note": "Verse renderings, freer than a literal translation."
+  },
+  "wisdom-of-the-east-feast-of-lanterns": {
+   "source": "woe-feast-of-lanterns",
+   "of": "Classical Chinese poets",
+   "work": "A Feast of Lanterns",
+   "translated": 1916,
+   "translator": "L. Cranmer-Byng",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series (ed. L. Cranmer-Byng and S. A. Kapadia), 1916; Princeton Theological Seminary copy. The title page says 'rendered with an introduction by L. Cranmer-Byng'",
+   "note": "Verse renderings, like A Lute of Jade."
+  },
+  "wisdom-of-the-east-odes": {
+   "source": "woe-odes",
+   "of": "The Shijing (Book of Odes)",
+   "work": "The Odes of Confucius",
+   "translated": 1905,
+   "translator": "L. Cranmer-Byng",
+   "scan_edition": "E. P. Dutton, New York, Wisdom of the East series, second edition, 1908 (first edition February 1905)",
+   "note": "Verse renderings of selected odes, not a complete or literal Shijing."
+  },
+  "wisdom-of-the-east-master-singers": {
+   "source": "woe-master-singers",
+   "of": "Japanese poets from the Manyoshu onward",
+   "work": "The Master-Singers of Japan",
+   "translated": 1910,
+   "translator": "Clara A. Walsh",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series (ed. L. Cranmer-Byng and S. A. Kapadia), 1910; Royal Asiatic Society Bombay copy"
+  },
+  "wisdom-of-the-east-way-of-contentment": {
+   "source": "woe-way-of-contentment",
+   "of": "Kaibara Ekiken",
+   "work": "The Way of Contentment",
+   "translated": 1913,
+   "translator": "Ken Hoshino",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series (ed. L. Cranmer-Byng and S. A. Kapadia), 1913"
+  },
+  "wisdom-of-the-east-ti-me-kun-dan": {
+   "source": "woe-ti-me-kun-dan",
+   "of": "Anonymous Tibetan mystery play",
+   "work": "Ti-Me-Kun-Dan, Prince of Buddhist Benevolence",
+   "translated": 1925,
+   "translator": "Millicent H. Morrison",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series (ed. L. Cranmer-Byng and S. A. Kapadia), 1925; Digital Library of India scan",
+   "note": "Morrison's introduction says she made her version word by word from the Tibetan text and that it varies much from Jacques Bacot's French translation."
+  },
+  "wisdom-of-the-east-alchemy-of-happiness": {
+   "source": "woe-alchemy-of-happiness",
+   "of": "Al-Ghazali",
+   "work": "The Alchemy of Happiness",
+   "translated": 1910,
+   "translator": "Claud Field",
+   "scan_edition": "John Murray, London, in the Wisdom of the East series (ed. L. Cranmer-Byng and S. A. Kapadia), 1910; Digital Library of India scan",
+   "note": "Translated from the Hindustani, not the Persian, as the title page says. Field's Confessions of Al Ghazzali (same series) is on the claud-field shelf."
+  }
+ },
+ "_pending": {
+  "women-and-wisdom-of-japan": "Women and Wisdom of Japan (Murray, 1905; india.history.resource.91283): the Onna Daigaku and its sequel in English, but the title page names only Shingoro Takaishi as writer of the introduction, and the text read so far never says who translated. Held back until the translator is established."
+ },
+ "_excluded": {
+  "musings-of-a-chinese-mystic": "Musings of a Chinese Mystic (Lionel Giles, 1906; musingschinesem00zhua): selections from H. A. Giles's 1889 Chuang Tzu translation, which its own note credits and which the giles shelf already holds whole.",
+  "sayings-of-confucius": "Lionel Giles's Sayings of Confucius (1907) is already on the giles shelf (PG 46389).",
+  "held-in-singles": "Already held on lane C's singles shelves: Gunn's Instruction of Ptah-hotep (PG 30508, singles-ideas), Bronnle's Awakening of the Soul (PG 34572, singles-ideas) and Ivan Chen's Book of Filial Duty (PG 75878, singles-ideas-3).",
+  "confessions-of-al-ghazzali": "Claud Field's Confessions of Al Ghazzali (1909) is already on the claud-field shelf.",
+  "not-translations": "Studies rather than translations, so off a translators' shelf: Yone Noguchi's Spirit of Japanese Poetry (1914, his lectures), E. V. Gatenby's Cloud-Men of Yamato (1929, 'an outline of mysticism in Japanese literature'), and M. A. Murray's Ancient Egyptian Legends (1913), which she says she 'retold ... in my own way'.",
+  "wisdom-of-the-apocrypha": "The Wisdom of the Apocrypha (1910) uses the Revised Version text (its prefatory note says so), so it is not a new translation."
+ },
+ "_checks": {
+  "woe-lute-of-jade": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cranmer-byng",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "woe-lieh-tzu": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lionel giles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "woe-lao-tzu": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lionel giles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "woe-yang-chu": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "anton forke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "woe-feast-of-lanterns": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cranmer-byng",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woe-odes": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cranmer-byng",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "woe-master-singers": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "clara a. walsh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woe-way-of-contentment": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ken hoshino",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "woe-ti-me-kun-dan": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "millicent h. morrison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "woe-alchemy-of-happiness": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "claud field",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "woe-lute-of-jade": {
+   "pg": 390,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "woe-lieh-tzu": {
+   "ia": "taoistteachingsf00liezrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1912
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-lao-tzu": {
+   "ia": "sayingslaotz00gilegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1904
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-yang-chu": {
+   "ia": "yangchusgardenof00yanguoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1912
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-feast-of-lanterns": {
+   "ia": "feastoflanterns00cran",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1829,
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-odes": {
+   "ia": "odesofconfucius00craniala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1765,
+    1905,
+    1906,
+    1908
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-master-singers": {
+   "ia": "india.history.resource.91749",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1910
+   ],
+   "post_1930_years_in_front_15k": [
+    2018
+   ]
+  },
+  "woe-way-of-contentment": {
+   "ia": "wayofcontentment00kaibrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1629,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-ti-me-kun-dan": {
+   "ia": "in.ernet.dli.2015.106823",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1543,
+    1586,
+    1616,
+    1680,
+    1925
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "woe-alchemy-of-happiness": {
+   "ia": "in.ernet.dli.2015.106793",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1910
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}
