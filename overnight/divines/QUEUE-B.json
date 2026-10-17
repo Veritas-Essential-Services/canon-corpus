@@ -1180,6 +1180,14 @@
    "started": "2026-10-10T12:18:15-05:00",
    "finished": "2026-10-10T12:19:49-05:00",
    "notes": "3 Latin grammars; the Greek grammars fall under the bar"
+  },
+  {
+   "id": "round-2026-10-17a",
+   "status": "done",
+   "scope": "Burn resume: Jowett's Plato and Aristotle gaps",
+   "started": "2026-10-10T12:19:49-05:00",
+   "finished": "2026-10-17T16:41:22-05:00",
+   "notes": "Jowett's Plato already complete on the plato shelf (1892 3rd ed., all 5 vols, plus Gutenberg per-dialogue texts; Republic and Apology/Crito/Phaedo on the Adler shelf). Aristotle: 9 volumes added."
   }
  ]
 }

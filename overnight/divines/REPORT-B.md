@@ -779,3 +779,9 @@
 - Since the 15:55Z pivot: about 259 volumes over rounds 10q-10ag, on roughly 100 scholarship and reference shelves (Grote, Mommsen, Thirlwall, Curtius, Merivale, Niebuhr, Ihne, Freeman, Holm, Abbott, Bury; Jebb, Sandys, Mure, K. O. Müller; Smith's dictionaries, Seyffert, Anthon, Rich, Peck; Bunbury, Tozer, Leake; Latin grammars)
 - The last two rounds gave 9 and 3 volumes. What remains is second-tier, or fails a gate: OCR under 0.78 (Fynes Clinton, Hermann, Mayor's Juvenal, Conington's Virgil commentary), Greek-facing (Jebb's Sophocles, Goodwin's and Smyth's Greek grammars), illegible imprint years, or only post-1930 printings. Per the coordinator's steer, the lane stops here rather than grinding on small finds
 - Wanted, if the lane restarts: Leake's Morea vol. II, Bevan's Seleucus vol. II, Warde Fowler's City-State and Mahaffy's Ptolemies in dated scans, an unexpanded Lempriere
+
+## 2026-10-17 16:41 CDT — Resumed for Adam's Western-canon ask: Plato and Aristotle
+- Jowett's Plato: nothing to add. The plato shelf already holds the whole 1892 third edition (5 vols, raw IA, with his introductions) and every Gutenberg Jowett dialogue; the Republic (PG 1497) and Apology/Crito/Phaedo (PG 1656) sit on the Adler shelf.
+- Aristotle, 9 volumes: Jowett's own Politics (1885, 2 vols), Jebb's Rhetoric (1909), Poste's Posterior Analytics (1850) and Constitution of Athens (1891), Twining's Treatise on Poetry (1812, 2 vols), Ogle's Parts of Animals (1882) and Youth and Old Age (1897).
+- Oxford vol. III (1931) stays out: under the US rule it is protected until 2027-01-01. The IA item catalogued as the 1923 Meteorologica is the whole of vol. III.
+- Map correction: the Adler shelf's PG 6762 is Ellis's Politics, not Jowett's (already flagged in DIGEST-B).

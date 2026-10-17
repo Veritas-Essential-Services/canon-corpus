@@ -190,3 +190,4 @@
 - 12:18 Round 10af: 9 volumes (Capes, Strachan-Davidson, Bevan, Oman, Mahaffy, Warde Fowler). No new questions.
 - 12:19 Round 10ag: 3 Latin grammars. The Greek grammars (Goodwin, Smyth) fall under the bar because they are mostly Greek; they join the Greek-facing question already with you.
 - 12:20 **Lane B paused** after round 10ag: about 259 scholarship volumes since the pivot; the seam is thinning (last rounds 9 and 3). Still open for Adam: the Alexiad retype, the post-1930 later-printings class, the Perseus modernized texts (Lempriere's expanded Gutenberg text now sits with it), and the Greek-facing measure (Jebb's Sophocles, Greek grammars).
+- 16:41 Resumed in burn mode. Jowett's Plato was already complete. Aristotle +9 volumes (Jowett Politics 1885, Jebb, Poste x2, Twining x2, Ogle x2). Next: the wider philosophical canon.
