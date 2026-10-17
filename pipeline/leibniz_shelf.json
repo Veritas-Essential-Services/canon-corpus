@@ -21,10 +21,17 @@
    "philosophicalwor00leibuoft",
    "The Philosophical Works of Leibnitz, comprising the Monadology, New System of Nature, Principles of Nature and of Grace, Letters to Clarke, Refutation of Spinoza, and other opuscules, translated from the original Latin and French, with notes (New Haven: Tuttle, Morehouse and Taylor, 1890)",
    "tr. George Martin Duncan (his name is lost in the OCR of the title page)"
+  ],
+  "leibniz-langley-new-essays-1896": [
+   "newessaysconcern00leibuoft",
+   "New Essays Concerning Human Understanding, together with an appendix consisting of some of his shorter pieces (New York: Macmillan, 1896)",
+   "tr. Alfred Gideon Langley"
   ]
  },
  "_excluded": {},
- "_translators": {},
+ "_translators": {
+  "leibniz-langley-new-essays-1896": "Langley"
+ },
  "_checks": {
   "leibniz-duncan-philosophical-works-1890": {
    "kind": "ia",
@@ -34,6 +41,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1890",
    "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leibniz-langley-new-essays-1896": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "leibniz",
+   "translator_claimed": "Langley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
