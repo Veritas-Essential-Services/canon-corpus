@@ -1,0 +1,68 @@
+{
+ "_about": "F. C. S. Schiller (1864-1937), the Oxford pragmatist, raw IA OCR: Humanism, philosophical essays (London: Macmillan, 1903), Studies in Humanism, second edition (Macmillan, 1912) and Formal Logic, a scientific and social problem (Macmillan, 1912). US public domain. Not to be confused with schiller-essays (Friedrich Schiller). Held: Riddles of the Sphinx (the scan's title page carries no year). No uids minted.",
+ "_author": "F. C. S. Schiller",
+ "_name_words": [
+  "f",
+  "c",
+  "s",
+  "ferdinand",
+  "canning",
+  "scott",
+  "schiller"
+ ],
+ "_surname": [
+  "schiller"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fcs-schiller-humanism-1903": [
+   "humanismphilosop00schiuoft",
+   "Humanism: philosophical essays (London: Macmillan, 1903)"
+  ],
+  "fcs-schiller-studies-in-humanism-1912": [
+   "studiesinhumanis00schi",
+   "Studies in Humanism, second edition (London: Macmillan, 1912)"
+  ],
+  "fcs-schiller-formal-logic-1912": [
+   "formallogicscie00schi",
+   "Formal Logic: a scientific and social problem (London: Macmillan, 1912)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "fcs-schiller-humanism-1903": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "schiller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fcs-schiller-studies-in-humanism-1912": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "schiller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fcs-schiller-formal-logic-1912": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "schiller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
