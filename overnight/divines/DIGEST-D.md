@@ -315,7 +315,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `palmer-cox` | 3 Gutenberg | 0 | 1,820 | The Brownies: Their Book (1887), Another Brownie Book (1890) and The Brownies and Prince Florimel (1918). |
 | `kate-greenaway` | 2 Gutenberg | 0 | 349 | Under the Window and Marigold Garden (later printings, undated in the text). |
 | `mary-martha-sherwood` | 3 Gutenberg | 0 | 3,054 | The Wishing Cap (undated in the text), Soffrona and Her Cat Muff (1828) and The Fairchild Family in Mary E. Palgrave's edition (Stokes, New York; 1902 per the Internet Archive record), added 2026-10-17 under decision 22. |
-| `mrs-o-f-walton` | 3 Gutenberg | 0 | 3,046 | Christie's Old Organ, Christie, the King's Servant and A Peep Behind the Scenes (all undated in the text). |
+| `mrs-o-f-walton` | 12 Gutenberg | 0 | 10,211 | Evangelical stories for children. Completed 2026-10-17: 9 more books added, every English text by Mrs. O. F. Walton at Gutenberg that no other shelf holds. |
 | `kingston` | 133 Gutenberg | 0 | 136,262 | Sea stories and adventure tales for boys. Completed 2026-10-17: 130 more books added, every English text by W. H. G. Kingston at Gutenberg that no other shelf holds. |
 | `mayne-reid` | 50 Gutenberg | 0 | 108,111 | Adventure stories and romances of the frontier and the sea; many describe peoples in the terms of their time. Completed 2026-10-17: 47 more books added, every English text by Mayne Reid at Gutenberg that no other shelf holds. |
 | `jane-and-ann-taylor` | 1 Gutenberg | 0 | 419 | Rhymes for the Nursery (1831 printing). |

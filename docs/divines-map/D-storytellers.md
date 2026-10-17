@@ -4221,13 +4221,22 @@ Shelf: `pipeline/mary-martha-sherwood_shelf.json` (2026-10-02; added at the coor
 
 ## Mrs. O. F. Walton
 
-Shelf: `pipeline/mrs-o-f-walton_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Three evangelical children's stories; cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/mrs-o-f-walton_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Evangelical stories for children. All 12 of Mrs. O. F. Walton's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | Christie's Old Organ | have | PG 21997, `ofwalton-christies-old-organ` (650 units) |
 | Christie, the King's Servant | have | PG 10728, `ofwalton-christie-the-kings-servant` (667 units) |
 | A Peep Behind the Scenes | have | PG 7437, `ofwalton-peep-behind-the-scenes` (1729 units) |
+| Saved at sea | have | PG 10849, `ofwalton-saved-at-sea` (447 units) |
+| The King's Cup-Bearer | have | PG 12248, `ofwalton-kings-cup-bearer` (855 units) |
+| Poppy's Presents | have | PG 29153, `ofwalton-poppys-presents` (468 units) |
+| Angel's Christmas, and, Little Dot | have | PG 71977, `ofwalton-angels-christmas-and-little-dot` (612 units) |
+| Launch the lifeboat! | have | PG 72363, `ofwalton-launch-the-lifeboat` (182 units) |
+| Audrey | have | PG 73229, `ofwalton-audrey` (560 units) |
+| Taken or left | have | PG 73331, `ofwalton-taken-or-left` (524 units) |
+| The lost clue | have | PG 73450, `ofwalton-lost-clue` (1898 units) |
+| Was I right? | have | PG 75393, `ofwalton-was-i-right` (1619 units) |
 
 ## W. H. G. Kingston
 
