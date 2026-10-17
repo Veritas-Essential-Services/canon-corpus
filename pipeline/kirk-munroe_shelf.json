@@ -1,0 +1,338 @@
+{
+ "_about": "Kirk Munroe's adventure stories for boys: every English text under his name at Gutenberg (catalogue: Munroe 1850-1930). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Kirk Munroe",
+ "_name_words": [
+  "munroe"
+ ],
+ "_surname": [
+  "kirk munroe"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "kmunroe-wakulla": [
+   4393,
+   "Wakulla: a story of adventure in Florida",
+   {
+    "contents_only": true
+   }
+  ],
+  "kmunroe-flamingo-feather": [
+   15746,
+   "The Flamingo Feather"
+  ],
+  "kmunroe-forward-march": [
+   16231,
+   "\"Forward, March\": A Tale of the Spanish-American War",
+   {
+    "contents_only": true
+   }
+  ],
+  "kmunroe-at-war-with-pontiac": [
+   19223,
+   "At War with Pontiac; Or, The Totem of the Bear: A Tale of Redcoat and Redskin",
+   {
+    "contents_only": true
+   }
+  ],
+  "kmunroe-under-the-great-bear": [
+   19235,
+   "Under the Great Bear",
+   {
+    "contents_only": true
+   }
+  ],
+  "kmunroe-raftmates": [
+   19303,
+   "Raftmates: A Story of the Great River"
+  ],
+  "kmunroe-derrick-sterling": [
+   21863,
+   "Derrick Sterling: A Story of the Mines"
+  ],
+  "kmunroe-cab-and-caboose": [
+   22497,
+   "Cab and Caboose: The Story of a Railroad Boy",
+   {
+    "contents_only": true
+   }
+  ],
+  "kmunroe-copper-princess": [
+   26993,
+   "The Copper Princess: A Story of Lake Superior Mines"
+  ],
+  "kmunroe-campmates": [
+   33343,
+   "Campmates: A Story of the Plains",
+   {
+    "contents_only": true
+   }
+  ],
+  "kmunroe-rick-dale-a-story-of-the-northwest-coast": [
+   35652,
+   "Rick Dale, A Story of the Northwest Coast",
+   {
+    "contents_only": true
+   }
+  ],
+  "kmunroe-blue-dragon": [
+   42886,
+   "The Blue Dragon: A Tale of Recent Adventure in China",
+   {
+    "contents_only": true
+   }
+  ],
+  "kmunroe-white-conquerors": [
+   47810,
+   "The White Conquerors: A Tale of Toltec and Aztec",
+   {
+    "contents_only": true
+   }
+  ],
+  "kmunroe-under-orders": [
+   49492,
+   "Under Orders: The story of a young reporter",
+   {
+    "contents_only": true
+   }
+  ],
+  "kmunroe-through-swamp-and-glade": [
+   55021,
+   "Through Swamp and Glade: A Tale of the Seminole War"
+  ],
+  "kmunroe-fur-seals-tooth": [
+   58577,
+   "The Fur-Seal's Tooth: A Story of Alaskan Adventure",
+   {
+    "contents_only": true
+   }
+  ],
+  "kmunroe-snow-shoes-and-sledges-a-sequel-to-the-fur-seals-too": [
+   59240,
+   "Snow-shoes and Sledges A Sequel to \"The Fur-Seal's Tooth\"",
+   {
+    "contents_only": true
+   }
+  ],
+  "kmunroe-dorymates": [
+   61770,
+   "Dorymates: A Tale of the Fishing Banks",
+   {
+    "contents_only": true
+   }
+  ],
+  "kmunroe-prince-dusty": [
+   61969,
+   "Prince Dusty: A Story of the Oil Regions",
+   {
+    "contents_only": true
+   }
+  ],
+  "kmunroe-canoemates": [
+   62301,
+   "Canoemates: A Story of the Florida Reef and Everglades",
+   {
+    "contents_only": true
+   }
+  ],
+  "kmunroe-belt-of-seven-totems": [
+   62684,
+   "The Belt of Seven Totems: A Story of Massasoit",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "kmunroe-wakulla": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-flamingo-feather": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-forward-march": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-at-war-with-pontiac": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-under-the-great-bear": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-raftmates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-derrick-sterling": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-cab-and-caboose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-copper-princess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-campmates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-rick-dale-a-story-of-the-northwest-coast": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-blue-dragon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-white-conquerors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-under-orders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-through-swamp-and-glade": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-fur-seals-tooth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-snow-shoes-and-sledges-a-sequel-to-the-fur-seals-too": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-dorymates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-prince-dusty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-canoemates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmunroe-belt-of-seven-totems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "kirk munroe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

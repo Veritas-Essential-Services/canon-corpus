@@ -5228,6 +5228,34 @@ Shelf: `pipeline/altsheler_shelf.json` (2026-10-17; added at the coordinator's r
 | The Last Rebel | have | PG 58617, `altsheler-last-rebel` (780 units) |
 | The Sun of Saratoga: A Romance of Burgoyne's Surrender | have | PG 66327, `altsheler-sun-of-saratoga` (1591 units) |
 
+## Kirk Munroe
+
+Shelf: `pipeline/kirk-munroe_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Adventure stories for boys. Every English text under the name at Gutenberg that no other shelf holds (21 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Wakulla: a story of adventure in Florida | have | PG 4393, `kmunroe-wakulla` (919 units) |
+| The Flamingo Feather | have | PG 15746, `kmunroe-flamingo-feather` (760 units) |
+| "Forward, March": A Tale of the Spanish-American War | have | PG 16231, `kmunroe-forward-march` (1195 units) |
+| At War with Pontiac; Or, The Totem of the Bear: A Tale of Redcoat and Redskin | have | PG 19223, `kmunroe-at-war-with-pontiac` (1169 units) |
+| Under the Great Bear | have | PG 19235, `kmunroe-under-the-great-bear` (1271 units) |
+| Raftmates: A Story of the Great River | have | PG 19303, `kmunroe-raftmates` (1143 units) |
+| Derrick Sterling: A Story of the Mines | have | PG 21863, `kmunroe-derrick-sterling` (1096 units) |
+| Cab and Caboose: The Story of a Railroad Boy | have | PG 22497, `kmunroe-cab-and-caboose` (837 units) |
+| The Copper Princess: A Story of Lake Superior Mines | have | PG 26993, `kmunroe-copper-princess` (1178 units) |
+| Campmates: A Story of the Plains | have | PG 33343, `kmunroe-campmates` (1048 units) |
+| Rick Dale, A Story of the Northwest Coast | have | PG 35652, `kmunroe-rick-dale-a-story-of-the-northwest-coast` (1585 units) |
+| The Blue Dragon: A Tale of Recent Adventure in China | have | PG 42886, `kmunroe-blue-dragon` (1105 units) |
+| The White Conquerors: A Tale of Toltec and Aztec | have | PG 47810, `kmunroe-white-conquerors` (887 units) |
+| Under Orders: The story of a young reporter | have | PG 49492, `kmunroe-under-orders` (1629 units) |
+| Through Swamp and Glade: A Tale of the Seminole War | have | PG 55021, `kmunroe-through-swamp-and-glade` (1258 units) |
+| The Fur-Seal's Tooth: A Story of Alaskan Adventure | have | PG 58577, `kmunroe-fur-seals-tooth` (1461 units) |
+| Snow-shoes and Sledges A Sequel to "The Fur-Seal's Tooth" | have | PG 59240, `kmunroe-snow-shoes-and-sledges-a-sequel-to-the-fur-seals-too` (1423 units) |
+| Dorymates: A Tale of the Fishing Banks | have | PG 61770, `kmunroe-dorymates` (1416 units) |
+| Prince Dusty: A Story of the Oil Regions | have | PG 61969, `kmunroe-prince-dusty` (924 units) |
+| Canoemates: A Story of the Florida Reef and Everglades | have | PG 62301, `kmunroe-canoemates` (1144 units) |
+| The Belt of Seven Totems: A Story of Massasoit | have | PG 62684, `kmunroe-belt-of-seven-totems` (926 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

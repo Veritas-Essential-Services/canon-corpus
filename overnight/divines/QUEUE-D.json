@@ -2293,6 +2293,14 @@
       "started": "2026-10-17T18:10:06-05:00",
       "finished": "2026-10-17T18:10:06-05:00",
       "notes": "altsheler: new shelf, 35 Gutenberg books, 68,668 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "kirk-munroe",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — Kirk Munroe; no minting",
+      "status": "done",
+      "started": "2026-10-17T18:10:07-05:00",
+      "finished": "2026-10-17T18:10:07-05:00",
+      "notes": "kirk-munroe: new shelf, 21 Gutenberg books, 24,374 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
