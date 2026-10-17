@@ -5564,6 +5564,25 @@ Slugs `xavier-*`. Selections from his own letters; the preface is signed H. J. C
 | The Life and Letters of St. Francis Xavier, by Henry James Coleridge, 2 vols (London: Burns and Oates, 1872; 1881; 1886): a life with his letters embedded | alternate | not shelved |
 | Lives by Venn, Bouhours (Dryden), Bartoli and others; Preces Xaverianae | excluded | |
 | Latin, French and Spanish letter editions | excluded | |
+
+## Louis Bourdaloue (round 26, my pick, 2026-10-17)
+
+Slugs `bourdaloue-*`. Translators: Carroll, Crowther, du Pont de Nemours; Shipley edited the Spiritual Exercises. Flint's 1805 translation of Massillon and Bourdaloue is on Massillon's shelf.
+
+| Work | Status | Where |
+|---|---|---|
+| Select Sermons, translated from the original French of Louis Bourdaloue (Harlow: B. Flower for T. Conder, 1806) | have-ocr | IA `selectsermonstra01bour` |
+| Sermons and Moral Discourses on the Important Duties of Christianity, tr. A. Carroll, second edition, vol. I (Dublin: James Duffy, 1843) | have-ocr | IA `sermonsmoraldisc01bour` |
+| Sermons and Moral Discourses on the Important Duties of Christianity, tr. A. Carroll, second edition, vol. II (Dublin: James Duffy, 1843) | have-ocr | IA `sermonsmoraldisc02bour` |
+| Spiritual Exercises: Readings for a Retreat of Seven Days, translated and abridged, ed. Orby Shipley (London: Joseph Masters, MDCCCLXVIII) | have-ocr | IA `SpiritualExercisesReadings` |
+| The Spiritual Retreat of Father Bourdaloue, adapted to the use of pastors of souls (Leamington: Art and Book Company, 1885) | have-ocr | IA `fatherbourdaloue00bouruoft` |
+| Eight Sermons for Holy Week and Easter, tr. G. F. Crowther (London: Wells Gardner, Darton; catalogued 1884) | have-ocr | IA `8SermonsForHolyWeekAndEaster` |
+| Bourdalou at Versailles, 1670: two sermons from the French, by Alicia du Pont de Nemours (New York: Brentano's, MCMXIX) | have-ocr | IA `cu31924029405101` |
+| Abel Flint's Hartford 1805 Sermons of Massillon and Bourdaloue: on the jean-baptiste-massillon shelf | alternate | not shelved |
+| Other copies of Flint 1805 and Shipley 1868 | alternate | not shelved |
+| Pensées (Riom, 1802), catalogued as English but French | excluded | |
+| Great French Sermons (O'Mahony, 1917): three authors | excluded | |
+| Bungener's novel and Reville's study | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
