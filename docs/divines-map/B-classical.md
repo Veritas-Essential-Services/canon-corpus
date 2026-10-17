@@ -4206,6 +4206,9 @@ Shelf: `pipeline/rosmini_shelf.json`. Davidson's Philosophical System (1882) and
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Philosophical System of Antonio Rosmini-Serbati, with a sketch of the author's life, bibliography, introduction and notes (London: Kegan Paul, Trench, 1882) | Thomas Davidson | `rosmini-davidson-philosophical-system-1882` | have-raw (IA `philosophicalsy00rosmgoog`) |
+| The Origin of Ideas, translated from the fifth Italian edition of the Nuovo Saggio, vol. I (London: Kegan Paul, Trench, 1883) | anonymous | `rosmini-origin-of-ideas-1883-v1` | have-raw (IA `originofideas01rosmuoft`) |
+| The Origin of Ideas, vol. II, new and cheaper edition (London: Kegan Paul, Trench, 1886) | anonymous | `rosmini-origin-of-ideas-1886-v2` | have-raw (IA `originofideas02rosmuoft`) |
+| The Origin of Ideas, vol. III, new and cheaper edition (London: Kegan Paul, Trench, 1886) | anonymous | `rosmini-origin-of-ideas-1886-v3` | have-raw (IA `originofideas03rosmuoft`) |
 
 Pending (wishlist): Psychology (1884-1888).
 
