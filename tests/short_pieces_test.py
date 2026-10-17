@@ -49,6 +49,13 @@ try:
     check("missing end marker refused", False)
 except LookupError:
     check("missing end marker refused", True)
+L2 = ["CONTENTS\n", "THE NECKLACE\n", "THE PIECE OF STRING\n", "\n", "THE NECKLACE\n", "body\n", "THE PIECE OF STRING\n"]
+check("nth occurrence skips the contents line", x.cut_lines(L2, r"^THE NECKLACE", r"^THE PIECE", 2)["lines"] == [5, 6])
+try:
+    x.cut_lines(L2, r"^THE NECKLACE", "", 3)
+    check("missing nth occurrence refused", False)
+except LookupError:
+    check("missing nth occurrence refused", True)
 try:
     x.cut_lines(LINES, r"^NOPE", "")
     check("missing start refused", False)

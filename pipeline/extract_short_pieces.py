@@ -11,9 +11,11 @@ Two ways to locate a piece (column `locator`):
   heading:<words>      a converted book (data/books/<source>.json): every unit
                        whose heading id contains <words> (case and punctuation
                        ignored). Must match exactly one heading.
-  lines:<start>|<end>  a raw text (data/corpus/<shelf>/<source>.txt, e.g. an
+  lines:<start>|<end>[|<n>]
+                       a raw text (data/corpus/<shelf>/<source>.txt, e.g. an
                        Internet Archive OCR scan): from the first line matching
-                       regex <start> up to, not including, the next line
+                       regex <start> (the <n>th, when a contents page repeats
+                       the heading) up to, not including, the next line
                        matching regex <end> (or 400 lines if <end> is empty).
 Rows with status other than `ok` are listed but not cut.
 
@@ -54,11 +56,12 @@ def cut_heading(book, words):
     return {"heading": heads[0], "units": units}
 
 
-def cut_lines(lines, start, end):
+def cut_lines(lines, start, end, nth=1):
     s = re.compile(start)
-    i = next((n for n, l in enumerate(lines) if s.search(l)), None)
-    if i is None:
-        raise LookupError(f"start {start!r} not found")
+    hits = [n for n, l in enumerate(lines) if s.search(l)]
+    if len(hits) < nth:
+        raise LookupError(f"start {start!r} found {len(hits)} times, wanted occurrence {nth}")
+    i = hits[nth - 1]
     e = re.compile(end) if end else None
     j = next((n for n in range(i + 1, len(lines)) if e and e.search(lines[n])), None)
     if j is None:
@@ -75,10 +78,11 @@ def resolve(row, root=ROOT):
         with open(path, encoding="utf-8") as f:
             return cut_heading(json.load(f), arg)
     if kind == "lines":
-        start, _, end = arg.partition("|")
+        start, _, rest = arg.partition("|")
+        end, _, nth = rest.partition("|")
         path = os.path.join(root, "data", "corpus", row["shelf"], row["source"] + ".txt")
         with open(path, encoding="utf-8", errors="replace") as f:
-            return cut_lines(f.readlines(), start, end)
+            return cut_lines(f.readlines(), start, end, int(nth or 1))
     raise ValueError(f"unknown locator kind {kind!r}")
 
 

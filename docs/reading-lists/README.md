@@ -210,3 +210,30 @@ CC's "117 must-read" list names about fifty short stories, poems, speeches and b
 | `bachman` | Great Inventors and Their Inventions (1918; IA) | Eli Whitney |
 
 Already held elsewhere: Hiawatha (Longfellow's Poetical Works), Wilde's The Selfish Giant (`wilde-happy-prince`), Kipling's If (`kipling-rewards-and-fairies`), Mather's Essays to Do Good, the Red-Headed League, The Pit and the Pendulum. Van Dyke's The Mansion belongs on Lane D's `van-dyke` shelf. Still to find: the poems by Butterworth, Finch and Scollard; the Bouvé, Brooks, Gordy, Harper, Hawks, Gittings and Ayers biographies; Wilson's war message; and the Clay, Calhoun, Garrison, Stanton, Taney and Winthrop documents.
+
+### Batch 9 (2026-10-17): Omnibus, Callihan, Kern, Pudewa, White and Stanford
+
+Adam asked for the Veritas Omnibus volumes and the lists of Wes Callihan, Andrew Kern, Andrew Pudewa, Heidi White and Angelina Stanford, with their PD short pieces in a section of their own. The raw rows are `sources/omnibus.tsv`, `sources/callihan-kern.tsv`, `sources/pudewa-white-stanford.tsv` and `sources/readers.tsv` (McGuffey, Elson, Baldwin, Ambleside, Memoria and CC's anthology). Together they name 2,208 works, 1,583 of them PD. The short pieces went to `docs/short-pieces/` (see its README). The PD books nobody held went to these shelves, after a check of every branch and every lane queue: 23 shelves (the first four hold the short pieces; eight are extensions of this work's own author shelves), 64 texts, verify 0 mismatches.
+
+| Shelf | Works |
+|---|---|
+| `mcguffey` | McGuffey's Eclectic Primer and First to Sixth Readers (1879 revision) |
+| `elson-readers` | Elson Readers Book Five; Elson Grammar School Literature Book Four; Elson Grammar School Readers 1-3 (IA) |
+| `baldwin-more` | Thirty More Famous Stories Retold; Old Stories of the East (both IA) |
+| `verse-anthologies` | The Golden Treasury; The Oxford Book of English Verse 1250-1900; The Home Book of Verse, vols 1-4 |
+| `cather` (extended) | Death Comes for the Archbishop (1927); O Pioneers! |
+| `verne` (extended) | Around the World in Eighty Days (Towle); A Journey into the Interior of the Earth (Malleson); The Mysterious Island (Kingston) |
+| `hgwells`, `hardy`, `twain-rl`, `bronte`, `kipling-novels`, `hemingway` (extended) | The First Men in the Moon; Tess of the d'Urbervilles; Pudd'nhead Wilson; Agnes Grey; Captains Courageous; A Farewell to Arms (1929) |
+| `wilde-plays` | An Ideal Husband; The Importance of Being Earnest |
+| `shaw-plays` | Pygmalion (1913) |
+| `dumas-rl` | The Count of Monte Cristo; The Man in the Iron Mask (anonymous 19th-century translations) |
+| `manzoni` | The Betrothed (a 19th-century English translation) |
+| `undset-rl` | The Cross, Kristin Lavransdatter III (Archer, 1927; IA) |
+| `mysteries-1920s` | The Mysterious Affair at Styles; The Maltese Falcon (1930); Strong Poison (1930) |
+| `novels-rl-9` | The Age of Innocence; The Warden; The Enchanted April; The Last of the Mohicans; The Sea-Wolf; Tarzan of the Apes; Fish Preferred (Wodehouse's Summer Lightning) |
+| `series-1920s` | The Tower Treasure (Hardy Boys, 1927); The Secret of the Old Clock (Nancy Drew, 1930); The Box-Car Children (1924) |
+| `voyages-rl` | Sailing Alone Around the World; Two Years Before the Mast; Mandeville's Travels; Ibn Batuta (Lee, 1829; IA); Brendaniana (1893; IA) |
+| `medieval-lives` | Asser's Alfred (Cook); Adamnan's Columba (Huyshe, 1905; IA); Villehardouin (Marzials); Bradford's Plymouth (Paget); Geoffrey of Monmouth (Evans, 1912; IA); Gregory's Dialogues (Gardner, 1911; IA); Roper's More (1905; IA) |
+| `belloc-rl` | How the Reformation Happened (1928; IA) |
+
+Left out: Belloc's Joan of Arc, whose only open copy is a retyped text with no title page; Gutenberg's "Life of Saint Columba, Abbot", which is a 19th-century life and not Adamnan's. No PD English found for Ibn Fadlan, John Moschus, Maximus the Confessor, Erasmus's Julius Exclusus, Carman's Oxford Book of American Verse, The Little Engine That Could, Angus and the Ducks, or Faulkner's As I Lay Dying. Already held: Plutarch, Bede, Augustine, Grimm, Lang's fairy books, Bulfinch, Foxe, Luther, Einhard and Notker, the Volsungs, the Koran, Plato's Socratic dialogues, Sophocles, Quo Vadis, Colum's Odysseus, Joinville, the Schaff volumes holding Irenaeus, Basil, Athanasius and John of Damascus, Milne (Lane D), and the Tacitus Annals.
