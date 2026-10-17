@@ -16617,7 +16617,7 @@ Shelf: `pipeline/harris-remus_shelf.json` (2026-10-02; added at the coordinator'
 
 ## Frances Hodgson Burnett
 
-Shelf: `pipeline/burnett_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Her children's books, cut by their own Contents or chapter lines; Little Saint Elizabeth is nested story > part. Her adult novels are not taken. Not in the manifest; no uids minted.
+Shelf: `pipeline/burnett_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Children's books, novels and stories. All 42 of Frances Hodgson Burnett's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -16628,9 +16628,45 @@ Shelf: `pipeline/burnett_shelf.json` (2026-10-02; added at the coordinator's rel
 | The Lost Prince (1915) | have | PG 384, `burnett-lost-prince` (2153 units) |
 | Racketty-Packetty House (1906) | have | PG 8574, `burnett-racketty-packetty-house` (197 units) |
 | Little Saint Elizabeth and Other Stories (1890) | have | PG 10466, `burnett-little-saint-elizabeth` (709 units) |
+| The White People | have | PG 459, `burnett-white-people` (394 units) |
+| The Dawn of a To-morrow | have | PG 460, `burnett-dawn-of-a-to-morrow` (473 units) |
+| A Lady of Quality Being a Most Curious, Hitherto Unknown History, as Related by Mr. Isaac Bickerstaff but Not Presented to the World of Fashion Through the Pages of The Tatler, and Now for the First Time Written Down | have | PG 1550, `burnett-a-lady-of-quality-being-a-most-curious-hitherto-unkn` (1463 units) |
+| T. Tembarom | have | PG 2514, `burnett-t-tembarom` (4064 units) |
+| The Land of the Blue Flower | have | PG 5302, `burnett-land-of-the-blue-flower` (123 units) |
+| The Little Hunchback Zia | have | PG 5303, `burnett-little-hunchback-zia` (121 units) |
+| My Robin | have | PG 5304, `burnett-my-robin` (61 units) |
+| In the Closed Room | have | PG 6027, `burnett-in-the-closed-room` (223 units) |
+| The Head of the House of Coombe | have | PG 6491, `burnett-head-of-the-house-of-coombe` (2182 units) |
+| A Fair Barbarian | have | PG 9487, `burnett-a-fair-barbarian` (1393 units) |
+| His Grace of Osmonde Being the Portions of That Nobleman's Life Omitted in the Relation of His Lady's Story Presented to the World of Fashion under the Title of A Lady of Quality | have | PG 15651, `burnett-his-grace-of-osmonde-being-the-portions-of-that-nobl` (1672 units) |
+| Emily Fox-Seton : being The making of a marchioness and The methods of Lady Walderhurst | have | PG 17226, `burnett-emily-fox-seton` (1873 units) |
+| Robin | have | PG 18945, `burnett-robin` (2089 units) |
+| "Surly Tim": A Lancashire Story | have | PG 23324, `burnett-surly-tim` (111 units) |
+| "Seth" | have | PG 23325, `burnett-seth` (180 units) |
+| Mère Giraud's Little Daughter | have | PG 23326, `burnett-m-re-girauds-little-daughter` (159 units) |
+| Lodusky | have | PG 23327, `burnett-lodusky` (386 units) |
+| Esmeralda | have | PG 23328, `burnett-esmeralda` (227 units) |
+| "Le Monsieur de la Petite Dame" | have | PG 23329, `burnett-le-monsieur-de-la-petite-dame` (332 units) |
+| One Day At Arle | have | PG 23330, `burnett-one-day-at-arle` (91 units) |
+| That Lass O' Lowrie's 1877 | have | PG 25725, `burnett-that-lass-o-lowries-1877` (1891 units) |
+| The pretty sister of José 1889 | have | PG 25726, `burnett-pretty-sister-of-jos-1889` (401 units) |
+| Vagabondia 1884 | have | PG 25727, `burnett-vagabondia-1884` (1844 units) |
+| In Connection with the De Willoughby Claim | have | PG 25810, `burnett-in-connection-with-the-de-willoughby-claim` (2955 units) |
+| Theo: A Sprightly Love Story | have | PG 27990, `burnett-theo` (717 units) |
+| Louisiana | have | PG 35300, `burnett-louisiana` (1008 units) |
+| Barty Crusoe and His Man Saturday | have | PG 40764, `burnett-barty-crusoe-and-his-man-saturday` (594 units) |
+| The Cozy Lion: As Told by Queen Crosspatch | have | PG 42366, `burnett-cozy-lion` (185 units) |
+| The Good Wolf | have | PG 42920, `burnett-good-wolf` (293 units) |
+| Two Little Pilgrims' Progress: A Story of the City Beautiful | have | PG 50471, `burnett-two-little-pilgrims-progress` (1104 units) |
+| Editha's Burglar: A Story for Children | have | PG 56692, `burnett-edithas-burglar` (200 units) |
+| Miss Crespigny | have | PG 57099, `burnett-miss-crespigny` (857 units) |
+| Haworth's | have | PG 58183, `burnett-haworths` (3399 units) |
+| Through One Administration | have | PG 58325, `burnett-through-one-administration` (4549 units) |
+| Piccino, and other child stories | have | PG 76009, `burnett-piccino-and-other-child-stories` (973 units) |
 | burnett-duplicates | excluded | second transcriptions: The Secret Garden (PG 17396), A Little Princess (PG 37332), Sara Crewe (PG 24772) |
 | burnett-adult | excluded | her adult novels and stories (That Lass o' Lowrie's, A Lady of Quality, T. Tembarom, The Shuttle and others): not children's classics; candidates for a later batch |
 | burnett-german-school-edition | excluded | Little Lord Fauntleroy abridged for German schools (PG 49579): an abridgement with German apparatus |
+| burnett-index-of-the-project-gutenberg-works-of-frances-hodg | excluded | PG 58806 is David Widger's index, not a text |
 
 ## Louisa May Alcott
 

@@ -96,7 +96,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `crane` | 1 Gutenberg | 0 | 1,963 | Italian Popular Tales (1885), tr. Crane, by chapter and tale |
 | `grinnell` | 4 Gutenberg | 0 | 3,491 | Pawnee Hero Stories, Blackfoot Lodge Tales, The Punishment of the Stingy, Blackfeet Indian Stories |
 | `harris-remus` | 4 Gutenberg | 0 | 5,087 | the Uncle Remus books 1880-1907. **Your call:** real folk tales inside a racist frame and dialect; keep, keep with a reader's note, or drop |
-| `burnett` | 7 Gutenberg | 0 | 8,539 | The Secret Garden, A Little Princess and Sara Crewe, Little Lord Fauntleroy, The Lost Prince, Racketty-Packetty House, Little Saint Elizabeth and Other Stories. |
+| `burnett` | 42 Gutenberg | 0 | 47,126 | Children's books, novels and stories. Completed 2026-10-17: 35 more books added, every English text by Frances Hodgson Burnett at Gutenberg that no other shelf holds. |
 | `alcott` | 9 Gutenberg | 0 | 17,897 | Little Women, Little Men, Jo's Boys, Eight Cousins, Rose in Bloom, An Old-Fashioned Girl, Under the Lilacs, Jack and Jill, Flower Fables. |
 | `spyri` | 4 Gutenberg | 0 | 4,227 | Heidi (tr. Marion Edwards, as Gutenberg spells it; and tr. Stork 1915), Moni the Goat-Boy (tr. Dole), Rico and Wiseli (tr. Brooks). Two witnesses of Heidi; Abbott's 1927 translation held back. |
 | `sewell` | 1 Gutenberg | 0 | 925 | Black Beauty. |

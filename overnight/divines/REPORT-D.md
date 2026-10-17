@@ -1026,3 +1026,6 @@
 
 ## 2026-10-17 17:38 CDT — yonge: done
 - yonge: completed, 58 more Gutenberg books (64 on the shelf), 144,769 units, 8979 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:38 CDT — burnett: done
+- burnett: completed, 35 more Gutenberg books (42 on the shelf), 47,126 units, 1971 ~2 ids; verify 0 mismatches, 0 rights flags.
