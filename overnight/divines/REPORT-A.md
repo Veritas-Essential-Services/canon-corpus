@@ -1168,3 +1168,6 @@
 
 ## 2026-10-17 18:12 CDT — round 25 closed
 - 17 shelves, 116 items (8 CCEL, 6 PG, 102 IA), all `--verify --record` 0 mismatched; 0 uids minted. Clash check across all remote branches: no shelf-name or id clashes. Veto points and the CCEL count updated in DIGEST-A.
+
+## 2026-10-17 18:44 CDT — girolamo-savonarola done
+- `pipeline/girolamo-savonarola_shelf.json`: 0 CCEL, 1 PG, 5 IA. `--verify --record`: 0 mismatched. 0 uids minted.

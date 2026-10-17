@@ -1,5 +1,5 @@
 # Lane A (Divines) — digest
-<!-- model: claude-opus-5-5, refreshed 2026-10-17 18:11 CDT -->
+<!-- model: claude-opus-5-5, refreshed 2026-10-17 18:44 CDT -->
 
 Read this first. Detail is in REPORT-A.md; the checklist is docs/divines-map/A-divines.md.
 
@@ -536,6 +536,14 @@ Seventeen authors queued in QUEUE-A.json, each built from title pages read for t
 
 Round 25 closed 2026-10-17 18:12 CDT: seventeen new shelves, 116 items (14 clean: 8 CCEL and 6 Gutenberg; 102 raw IA OCR). Every item records its translator or editor where the title page names one; where the name is garbled in the OCR (Sparrow's Boehme, Elphinston's 1767 Bossuet, Eales's 1895 Song of Songs) no translator is claimed and the title page is quoted in `_rights_checked` instead. IA's catalogue dates were wrong for Eales vols III-IV (1896, not 1889), the Law Boehme vols III-IV (1772 and 1781, not 1764) and every Centenary Liguori volume (1886-1897, not 1887); the title-page years are used. Ignatius's Spiritual Exercises fills a 'not yet shelved' row on the reading-lists thread's short-pieces list. No Aquinas or Bonaventure here: the Aquinas thread owns that ground.
 
+
+## Round 26: Catholic preachers, Counter-Reformation and nineteenth-century Catholic writers in English before 1930 (my picks)
+
+Seventeen authors queued in QUEUE-A.json, each built from title pages read for this round, with the translator or editor recorded per item where the title page names one. Adam may veto any shelf.
+
+| Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
+|---|---|---|---|---|---|
+| Girolamo Savonarola | girolamo-savonarola_shelf.json | 1 (The Triumph of the Cross, translated from the Italian, ed. John Procter (London: Sands, 1901)) | 5 (The Triumph of the Cross, translated from the Latin with notes and a biographical sketch (London: Hodder and Stoughton, MDCCCLXVIII); The Truth of the Christian Faith, or the Triumph of the Cross of Christ, done into English out of the author's own Italian copy (Cambridge: John Field; catalogued 1661); An Exposition of the Psalm Miserere mei Deus, tr. F. C. Cowper (Milwaukee: Young Churchman, 1889); Meditations on Psalm LI and part of Psalm XXXI, in Latin with an English translation by E. H. Perowne (London: C. J. Clay, 1900); Spiritual and Ascetic Letters of Savonarola, ed. B. W. Randolph (London: A. R. Mowbray; catalogued 1907)) | 1 (His sermons in English before 1930: not found) | Lives of him; modern editions |
 
 ## Paused 2026-10-10 15:12 CDT
 

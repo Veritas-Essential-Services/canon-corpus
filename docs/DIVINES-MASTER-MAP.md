@@ -5487,6 +5487,23 @@ Slugs `boehme-*`. Translator claimed: Earle; Sparrow's name is not legible on hi
 | The Epistles of Jacob Behmen (London, catalogued 1649): no title page legible in the OCR; the 1886 Glasgow reprint of this edition is on the shelf | alternate | not shelved |
 | CCEL boehme/waytochrist: no print source stated | excluded | |
 | Whyte's appreciation (PG 16306) and other works about him | excluded | |
+
+## Girolamo Savonarola (round 26, my pick, 2026-10-17)
+
+Slugs `savonarola-*`. Translators claimed: Cowper, Perowne; the 1868 translator's name is garbled on the title page; Procter and Randolph are editors.
+
+| Work | Status | Where |
+|---|---|---|
+| The Triumph of the Cross, translated from the Italian, ed. John Procter (London: Sands, 1901) | have-clean | Gutenberg 74508 |
+| The Triumph of the Cross, translated from the Latin with notes and a biographical sketch (London: Hodder and Stoughton, MDCCCLXVIII) | have-ocr | IA `triumphofcrossby00savo` |
+| The Truth of the Christian Faith, or the Triumph of the Cross of Christ, done into English out of the author's own Italian copy (Cambridge: John Field; catalogued 1661) | have-ocr | IA `bim_early-english-books-1641-1700_the-truth-of-the-christi_savonarola-girolamo_1661` |
+| An Exposition of the Psalm Miserere mei Deus, tr. F. C. Cowper (Milwaukee: Young Churchman, 1889) | have-ocr | IA `expositionofpsal0000savo` |
+| Meditations on Psalm LI and part of Psalm XXXI, in Latin with an English translation by E. H. Perowne (London: C. J. Clay, 1900) | have-ocr | IA `meditationsonpsa00savo` |
+| Spiritual and Ascetic Letters of Savonarola, ed. B. W. Randolph (London: A. R. Mowbray; catalogued 1907) | have-ocr | IA `spiritualandasce00savouoft` |
+| Other copies of Procter 1901 and of the 1889 Miserere | alternate | not shelved |
+| Sixteenth-century Miserere expositions (1537-1578) and the 1651 Felicity of a Christian: title pages not legible | alternate | not shelved |
+| Lives by Villari, Clark, Madden, Oliphant and others | excluded | |
+| Modern editions | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
