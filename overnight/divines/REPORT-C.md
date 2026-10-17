@@ -213,3 +213,5 @@
 - 2026-10-17T18:30-05:00: round 68: oriental-classics (13). --verify --record 0 mismatched. occ-tiruvacagam title_weak (OCR ç as 9), checked by eye.
 
 - 2026-10-17T18:34-05:00: round 69: mughal-histories (8). --verify --record 0 mismatched.
+
+- 2026-10-17T18:41-05:00: round 70: india-historians (12). --verify --record 0 mismatched. ih-ferishta-4 identity override (OCR 'HRKiCiS' for Briggs), checked by eye.

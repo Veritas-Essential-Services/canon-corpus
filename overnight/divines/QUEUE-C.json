@@ -3440,6 +3440,14 @@
       "finished": "2026-10-17T18:34-05:00",
       "scope": "TRANSLATOR SHELF (round 69, lane C's choice; Adam may veto) -- mughal-histories; PD printings before 1931 only; no minting",
       "notes": "8 titles; ids checked across all branches. See DIGEST-C round 69. No uids minted."
+    },
+    {
+      "id": "shelf-india-historians",
+      "status": "done",
+      "started": "2026-10-17T18:41-05:00",
+      "finished": "2026-10-17T18:41-05:00",
+      "scope": "TRANSLATOR SHELF (round 70, lane C's choice; Adam may veto) -- india-historians; PD printings before 1931 only; no minting",
+      "notes": "12 titles; ids checked across all branches. See DIGEST-C round 70. No uids minted."
     }
   ]
 }

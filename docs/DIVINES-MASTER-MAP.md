@@ -16968,6 +16968,27 @@ Round 69 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | akbarnama-2000-reprints: Asiatic Society reprints of March and February 2000 (in.ernet.dli.2015.189288, 189290, 189291, 55648, 55649, 55650): not used. | — | — | excluded | — |
 | — | — | ain-i-akbari-1927: Phillott's 1927 second edition of Blochmann's vol. I is not added alongside the 1873 first edition. | — | — | excluded | — |
 
+## Shelf: the historians of Muslim India in English before 1931: Elliot and Dowson's History of India as Told by its Own Historians (8 vols), Briggs's complete Ferishta (4 vols)
+
+Shelf: `pipeline/india-historians_shelf.json` · fetch `python3 pipeline/fetch_shelf.py india-historians` · titles `python3 pipeline/split_shelf_titles.py india-historians`.
+Round 70 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `india-historians-elliot-dowson-1` | The Persian and Arabic historians of Muslim India (extracts) | The History of India, as Told by its Own Historians: the Muhammadan Period, vol. I | Sir H. M. Elliot, edited and continued by John Dowson | 1867 | have-raw | IA `cu31924024066593` |
+| `india-historians-elliot-dowson-2` | The Persian and Arabic historians of Muslim India (extracts) | The History of India, as Told by its Own Historians: the Muhammadan Period, vol. II | Sir H. M. Elliot, edited and continued by John Dowson | 1869 | have-raw | IA `cu31924073036729` |
+| `india-historians-elliot-dowson-3` | The Persian and Arabic historians of Muslim India (extracts) | The History of India, as Told by its Own Historians: the Muhammadan Period, vol. III | Sir H. M. Elliot, edited and continued by John Dowson | 1871 | have-raw | IA `cu31924073036737` |
+| `india-historians-elliot-dowson-4` | The Persian and Arabic historians of Muslim India (extracts) | The History of India, as Told by its Own Historians: the Muhammadan Period, vol. IV | Sir H. M. Elliot, edited and continued by John Dowson | 1872 | have-raw | IA `cu31924073036745` |
+| `india-historians-elliot-dowson-5` | The Persian and Arabic historians of Muslim India (extracts) | The History of India, as Told by its Own Historians: the Muhammadan Period, vol. V | Sir H. M. Elliot, edited and continued by John Dowson | 1873 | have-raw | IA `cu31924073036752` |
+| `india-historians-elliot-dowson-6` | The Persian and Arabic historians of Muslim India (extracts) | The History of India, as Told by its Own Historians: the Muhammadan Period, vol. VI | Sir H. M. Elliot, edited and continued by John Dowson | 1875 | have-raw | IA `india.history.resource.372` |
+| `india-historians-elliot-dowson-7` | The Persian and Arabic historians of Muslim India (extracts) | The History of India, as Told by its Own Historians: the Muhammadan Period, vol. VII | Sir H. M. Elliot, edited and continued by John Dowson | 1877 | have-raw | IA `cu31924073036778` |
+| `india-historians-elliot-dowson-8` | The Persian and Arabic historians of Muslim India (extracts) | The History of India, as Told by its Own Historians: the Muhammadan Period, vol. VIII | Sir H. M. Elliot, edited and continued by John Dowson | 1877 | have-raw | IA `cu31924073036786` |
+| `india-historians-ferishta-1` | Muhammad Qasim Ferishta, Tarikh-i Firishta | History of the Rise of the Mahomedan Power in India till the Year A.D. 1612, vol. I | John Briggs | 1829 | have-raw | IA `india.history.resource.349` |
+| `india-historians-ferishta-2` | Muhammad Qasim Ferishta, Tarikh-i Firishta | History of the Rise of the Mahomedan Power in India till the Year A.D. 1612, vol. II | John Briggs | 1829 | have-raw | IA `india.history.resource.107661` |
+| `india-historians-ferishta-3` | Muhammad Qasim Ferishta, Tarikh-i Firishta | History of the Rise of the Mahomedan Power in India till the Year A.D. 1612, vol. III | John Briggs | 1829 | have-raw | IA `india.history.resource.376` |
+| `india-historians-ferishta-4` | Muhammad Qasim Ferishta, Tarikh-i Firishta | History of the Rise of the Mahomedan Power in India till the Year A.D. 1612, vol. IV | John Briggs | 1829 | have-raw | IA `in.ernet.dli.2015.45583` |
+| — | — | briggs-late-reprints: Reprints of Briggs's Ferishta from 1971 and 1981 (in.ernet.dli.2015.499221, in.ernet.dli.2015.189198): not used. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.

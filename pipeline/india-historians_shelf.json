@@ -1,0 +1,523 @@
+{
+ "_about": "SHELF of the historians of Muslim India in English before 1931: Elliot and Dowson's History of India as Told by its Own Historians (8 vols, Trübner, 1867-77), extracts from some 150 Persian and Arabic chronicles, and John Briggs's complete Ferishta, History of the Rise of the Mahomedan Power in India (4 vols, Longman, 1829). The Mughal court histories (Akbarnama, Ain-i-Akbari, Jahangir, Humayun) are on mughal-histories. Each title gates on its own translator. Printings before 1931 only; the 1971 and 1981 reprints of Briggs are not used. US public domain. Added 2026-10-17 by lane C (round 70); Adam may veto. No uids minted.",
+ "_name_words": [
+  "briggs",
+  "dowson",
+  "elliot",
+  "h. m. elliot",
+  "henry miers elliot",
+  "john briggs",
+  "john dowson"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "briggs",
+  "dowson",
+  "elliot",
+  "h. m. elliot",
+  "henry miers elliot",
+  "john briggs",
+  "john dowson"
+ ],
+ "_surname_by_slug": {
+  "ih-elliot-dowson-1": [
+   "elliot",
+   "h. m. elliot",
+   "henry miers elliot",
+   "dowson",
+   "john dowson"
+  ],
+  "ih-elliot-dowson-2": [
+   "elliot",
+   "h. m. elliot",
+   "henry miers elliot",
+   "dowson",
+   "john dowson"
+  ],
+  "ih-elliot-dowson-3": [
+   "elliot",
+   "h. m. elliot",
+   "henry miers elliot",
+   "dowson",
+   "john dowson"
+  ],
+  "ih-elliot-dowson-4": [
+   "elliot",
+   "h. m. elliot",
+   "henry miers elliot",
+   "dowson",
+   "john dowson"
+  ],
+  "ih-elliot-dowson-5": [
+   "elliot",
+   "h. m. elliot",
+   "henry miers elliot",
+   "dowson",
+   "john dowson"
+  ],
+  "ih-elliot-dowson-6": [
+   "elliot",
+   "h. m. elliot",
+   "henry miers elliot",
+   "dowson",
+   "john dowson"
+  ],
+  "ih-elliot-dowson-7": [
+   "elliot",
+   "h. m. elliot",
+   "henry miers elliot",
+   "dowson",
+   "john dowson"
+  ],
+  "ih-elliot-dowson-8": [
+   "elliot",
+   "h. m. elliot",
+   "henry miers elliot",
+   "dowson",
+   "john dowson"
+  ],
+  "ih-ferishta-1": [
+   "briggs",
+   "john briggs"
+  ],
+  "ih-ferishta-2": [
+   "briggs",
+   "john briggs"
+  ],
+  "ih-ferishta-3": [
+   "briggs",
+   "john briggs"
+  ],
+  "ih-ferishta-4": [
+   "briggs",
+   "john briggs"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ih-elliot-dowson-1": [
+   "cu31924024066593",
+   "The History of India, as Told by its Own Historians: the Muhammadan Period, vol. I (1867)"
+  ],
+  "ih-elliot-dowson-2": [
+   "cu31924073036729",
+   "The History of India, as Told by its Own Historians: the Muhammadan Period, vol. II (1869)"
+  ],
+  "ih-elliot-dowson-3": [
+   "cu31924073036737",
+   "The History of India, as Told by its Own Historians: the Muhammadan Period, vol. III (1871)"
+  ],
+  "ih-elliot-dowson-4": [
+   "cu31924073036745",
+   "The History of India, as Told by its Own Historians: the Muhammadan Period, vol. IV (1872)"
+  ],
+  "ih-elliot-dowson-5": [
+   "cu31924073036752",
+   "The History of India, as Told by its Own Historians: the Muhammadan Period, vol. V (1873)"
+  ],
+  "ih-elliot-dowson-6": [
+   "india.history.resource.372",
+   "The History of India, as Told by its Own Historians: the Muhammadan Period, vol. VI (1875)",
+   "372_djvu.txt"
+  ],
+  "ih-elliot-dowson-7": [
+   "cu31924073036778",
+   "The History of India, as Told by its Own Historians: the Muhammadan Period, vol. VII (1877)"
+  ],
+  "ih-elliot-dowson-8": [
+   "cu31924073036786",
+   "The History of India, as Told by its Own Historians: the Muhammadan Period, vol. VIII (1877)"
+  ],
+  "ih-ferishta-1": [
+   "india.history.resource.349",
+   "History of the Rise of the Mahomedan Power in India till the Year A.D. 1612, vol. I (1829)",
+   "349_djvu.txt"
+  ],
+  "ih-ferishta-2": [
+   "india.history.resource.107661",
+   "History of the Rise of the Mahomedan Power in India till the Year A.D. 1612, vol. II (1829)",
+   "107661_djvu.txt"
+  ],
+  "ih-ferishta-3": [
+   "india.history.resource.376",
+   "History of the Rise of the Mahomedan Power in India till the Year A.D. 1612, vol. III (1829)",
+   "376_djvu.txt"
+  ],
+  "ih-ferishta-4": [
+   "in.ernet.dli.2015.45583",
+   "History of the Rise of the Mahomedan Power in India till the Year A.D. 1612, vol. IV (1829)",
+   "2015.45583.History-Of-The-Rise-Of-The-Mahomedan-Power-In-India--Vol4_djvu.txt"
+  ]
+ },
+ "titles": {
+  "india-historians-elliot-dowson-1": {
+   "source": "ih-elliot-dowson-1",
+   "of": "The Persian and Arabic historians of Muslim India (extracts)",
+   "work": "The History of India, as Told by its Own Historians: the Muhammadan Period, vol. I",
+   "translated": 1867,
+   "translator": "Sir H. M. Elliot, edited and continued by John Dowson",
+   "scan_edition": "Trübner & Co., London 1867; Cornell scan",
+   "note": "Translations from some 150 chronicles, by Elliot, Dowson and their collaborators; Dowson edited the whole."
+  },
+  "india-historians-elliot-dowson-2": {
+   "source": "ih-elliot-dowson-2",
+   "of": "The Persian and Arabic historians of Muslim India (extracts)",
+   "work": "The History of India, as Told by its Own Historians: the Muhammadan Period, vol. II",
+   "translated": 1869,
+   "translator": "Sir H. M. Elliot, edited and continued by John Dowson",
+   "scan_edition": "Trübner & Co., London 1869; Cornell scan"
+  },
+  "india-historians-elliot-dowson-3": {
+   "source": "ih-elliot-dowson-3",
+   "of": "The Persian and Arabic historians of Muslim India (extracts)",
+   "work": "The History of India, as Told by its Own Historians: the Muhammadan Period, vol. III",
+   "translated": 1871,
+   "translator": "Sir H. M. Elliot, edited and continued by John Dowson",
+   "scan_edition": "Trübner & Co., London 1871; Cornell scan"
+  },
+  "india-historians-elliot-dowson-4": {
+   "source": "ih-elliot-dowson-4",
+   "of": "The Persian and Arabic historians of Muslim India (extracts)",
+   "work": "The History of India, as Told by its Own Historians: the Muhammadan Period, vol. IV",
+   "translated": 1872,
+   "translator": "Sir H. M. Elliot, edited and continued by John Dowson",
+   "scan_edition": "Trübner & Co., London 1872; Cornell scan"
+  },
+  "india-historians-elliot-dowson-5": {
+   "source": "ih-elliot-dowson-5",
+   "of": "The Persian and Arabic historians of Muslim India (extracts)",
+   "work": "The History of India, as Told by its Own Historians: the Muhammadan Period, vol. V",
+   "translated": 1873,
+   "translator": "Sir H. M. Elliot, edited and continued by John Dowson",
+   "scan_edition": "Trübner & Co., London 1873; Cornell scan"
+  },
+  "india-historians-elliot-dowson-6": {
+   "source": "ih-elliot-dowson-6",
+   "of": "The Persian and Arabic historians of Muslim India (extracts)",
+   "work": "The History of India, as Told by its Own Historians: the Muhammadan Period, vol. VI",
+   "translated": 1875,
+   "translator": "Sir H. M. Elliot, edited and continued by John Dowson",
+   "scan_edition": "Trübner & Co., London 1875; Digital Library of India scan"
+  },
+  "india-historians-elliot-dowson-7": {
+   "source": "ih-elliot-dowson-7",
+   "of": "The Persian and Arabic historians of Muslim India (extracts)",
+   "work": "The History of India, as Told by its Own Historians: the Muhammadan Period, vol. VII",
+   "translated": 1877,
+   "translator": "Sir H. M. Elliot, edited and continued by John Dowson",
+   "scan_edition": "Trübner & Co., London 1877; Cornell scan"
+  },
+  "india-historians-elliot-dowson-8": {
+   "source": "ih-elliot-dowson-8",
+   "of": "The Persian and Arabic historians of Muslim India (extracts)",
+   "work": "The History of India, as Told by its Own Historians: the Muhammadan Period, vol. VIII",
+   "translated": 1877,
+   "translator": "Sir H. M. Elliot, edited and continued by John Dowson",
+   "scan_edition": "Trübner & Co., London 1877; Cornell scan"
+  },
+  "india-historians-ferishta-1": {
+   "source": "ih-ferishta-1",
+   "of": "Muhammad Qasim Ferishta, Tarikh-i Firishta",
+   "work": "History of the Rise of the Mahomedan Power in India till the Year A.D. 1612, vol. I",
+   "translated": 1829,
+   "translator": "John Briggs",
+   "scan_edition": "Longman, Rees, Orme, Brown and Green, London 1829; Digital Library of India scan"
+  },
+  "india-historians-ferishta-2": {
+   "source": "ih-ferishta-2",
+   "of": "Muhammad Qasim Ferishta, Tarikh-i Firishta",
+   "work": "History of the Rise of the Mahomedan Power in India till the Year A.D. 1612, vol. II",
+   "translated": 1829,
+   "translator": "John Briggs",
+   "scan_edition": "Longman, Rees, Orme, Brown and Green, London 1829; Digital Library of India scan"
+  },
+  "india-historians-ferishta-3": {
+   "source": "ih-ferishta-3",
+   "of": "Muhammad Qasim Ferishta, Tarikh-i Firishta",
+   "work": "History of the Rise of the Mahomedan Power in India till the Year A.D. 1612, vol. III",
+   "translated": 1829,
+   "translator": "John Briggs",
+   "scan_edition": "Longman, Rees, Orme, Brown and Green, London 1829; Digital Library of India scan"
+  },
+  "india-historians-ferishta-4": {
+   "source": "ih-ferishta-4",
+   "of": "Muhammad Qasim Ferishta, Tarikh-i Firishta",
+   "work": "History of the Rise of the Mahomedan Power in India till the Year A.D. 1612, vol. IV",
+   "translated": 1829,
+   "translator": "John Briggs",
+   "scan_edition": "R. Cambray & Co., Calcutta 1910 (reprint of the 1829 Longman edition); Digital Library of India scan",
+   "note": "No period scan of the 1829 vol. IV with a readable title page was found, so the Calcutta reprint of 1910 is used."
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "briggs-late-reprints": "Reprints of Briggs's Ferishta from 1971 and 1981 (in.ernet.dli.2015.499221, in.ernet.dli.2015.189198): not used."
+ },
+ "_identity_checked": {
+  "ih-ferishta-4": {
+   "author": "The title page OCR reads 'JOHN HRKiCiS, M.R.A.S.' for John Briggs, with 'In Four Volumes. VOL. IV.' and R. Cambray's Calcutta 1910 imprint. Checked by eye 2026-10-17."
+  }
+ },
+ "_checks": {
+  "ih-elliot-dowson-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "elliot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ih-elliot-dowson-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "elliot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ih-elliot-dowson-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "elliot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ih-elliot-dowson-4": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "elliot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ih-elliot-dowson-5": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "elliot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ih-elliot-dowson-6": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "elliot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ih-elliot-dowson-7": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "elliot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ih-elliot-dowson-8": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "elliot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ih-ferishta-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ih-ferishta-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ih-ferishta-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ih-ferishta-4": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "ih-elliot-dowson-1": {
+   "ia": "cu31924024066593",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1692,
+    1867
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ih-elliot-dowson-2": {
+   "ia": "cu31924073036729",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1869
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ih-elliot-dowson-3": {
+   "ia": "cu31924073036737",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1869,
+    1870,
+    1871,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ih-elliot-dowson-4": {
+   "ia": "cu31924073036745",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1872,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ih-elliot-dowson-5": {
+   "ia": "cu31924073036752",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1873
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ih-elliot-dowson-6": {
+   "ia": "india.history.resource.372",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1551,
+    1602,
+    1875
+   ],
+   "post_1930_years_in_front_15k": [
+    2017
+   ]
+  },
+  "ih-elliot-dowson-7": {
+   "ia": "cu31924073036778",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1627,
+    1654,
+    1662,
+    1877
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ih-elliot-dowson-8": {
+   "ia": "cu31924073036786",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1862,
+    1877,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ih-ferishta-1": {
+   "ia": "india.history.resource.349",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1612,
+    1812,
+    1815,
+    1817,
+    1827,
+    1829
+   ],
+   "post_1930_years_in_front_15k": [
+    2017
+   ]
+  },
+  "ih-ferishta-2": {
+   "ia": "india.history.resource.107661",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1612
+   ],
+   "post_1930_years_in_front_15k": [
+    2020
+   ]
+  },
+  "ih-ferishta-3": {
+   "ia": "india.history.resource.376",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1612,
+    1829
+   ],
+   "post_1930_years_in_front_15k": [
+    2017
+   ]
+  },
+  "ih-ferishta-4": {
+   "ia": "in.ernet.dli.2015.45583",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1612,
+    1910
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}
