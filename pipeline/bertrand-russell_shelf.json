@@ -1,0 +1,218 @@
+{
+ "_about": "Bertrand Russell (1872-1970), from Project Gutenberg: An Essay on the Foundations of Geometry (Cambridge, 1897), The Problems of Philosophy (1912), Our Knowledge of the External World (1914; the etext is a 1922 reissue), Why Men Fight (Century, 1920; copyright 1916), Political Ideals (1917) and Proposed Roads to Freedom (1918) (both etexts name no printing), The Practice and Theory of Bolshevism (1920; reprinted February 1921), The Analysis of Mind (1921), Free Thought and Official Propaganda (1922), Icarus, or the Future of Science (1924), What I Believe (Dutton, 1925), The A B C of Relativity (Harper, 1925), Education and the Good Life (Boni and Liveright, 1926), Philosophy (Norton, 1927) and The Conquest of Happiness (Allen and Unwin, 1930). All published 1930 or earlier, so US public domain (the 1930 book since January 2026). Held: Mysticism and Logic (PG 25447; the etext is an impression printed after 1956) and The Problem of China (PG 13940; a 1966 impression), both post-1930 printings (Adam's open class). Not taken: Introduction to Mathematical Philosophy, The Analysis of Matter, The A B C of Atoms and Principia Mathematica (PG gives no plain-text file for them, only formats with mathematical notation). No uids minted.",
+ "_author": "Bertrand Russell",
+ "_name_words": [
+  "bertrand",
+  "russell",
+  "b",
+  "arthur",
+  "william",
+  "earl"
+ ],
+ "_surname": [
+  "russell",
+  "bertrand russell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "russell-foundations-of-geometry-1897": [
+   52091,
+   "An Essay on the Foundations of Geometry (Cambridge, 1897)"
+  ],
+  "russell-problems-of-philosophy-1912": [
+   5827,
+   "The Problems of Philosophy (1912)"
+  ],
+  "russell-our-knowledge-of-the-external-world": [
+   37090,
+   "Our Knowledge of the External World as a Field for Scientific Method in Philosophy (1914; 1922 reissue)"
+  ],
+  "russell-why-men-fight-1920": [
+   55610,
+   "Why Men Fight: a method of abolishing the international duel (New York: Century, 1920)"
+  ],
+  "russell-political-ideals": [
+   4776,
+   "Political Ideals (1917; the etext names no printing)"
+  ],
+  "russell-proposed-roads-to-freedom": [
+   690,
+   "Proposed Roads to Freedom (1918; the etext names no printing)"
+  ],
+  "russell-practice-theory-of-bolshevism-1920": [
+   17350,
+   "The Practice and Theory of Bolshevism (1920; reprinted February 1921)"
+  ],
+  "russell-analysis-of-mind-1921": [
+   2529,
+   "The Analysis of Mind (1921)"
+  ],
+  "russell-free-thought-official-propaganda-1922": [
+   44932,
+   "Free Thought and Official Propaganda (Conway Memorial Lecture, 1922)"
+  ],
+  "russell-icarus-1924": [
+   66225,
+   "Icarus, or the Future of Science (1924)"
+  ],
+  "russell-what-i-believe-1925": [
+   73782,
+   "What I Believe (New York: Dutton, 1925)"
+  ],
+  "russell-abc-of-relativity-1925": [
+   67104,
+   "The A B C of Relativity (New York: Harper, 1925)"
+  ],
+  "russell-education-and-the-good-life-1926": [
+   70302,
+   "Education and the Good Life (New York: Boni and Liveright, 1926)"
+  ],
+  "russell-philosophy-1927": [
+   72981,
+   "Philosophy (New York: Norton, 1927)"
+  ],
+  "russell-conquest-of-happiness-1930": [
+   77894,
+   "The Conquest of Happiness (London: Allen and Unwin, 1930)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "russell-foundations-of-geometry-1897": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "russell-problems-of-philosophy-1912": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "russell-our-knowledge-of-the-external-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "russell-why-men-fight-1920": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "russell-political-ideals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "russell-proposed-roads-to-freedom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "russell-practice-theory-of-bolshevism-1920": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "russell-analysis-of-mind-1921": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "russell-free-thought-official-propaganda-1922": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "russell-icarus-1924": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "russell-what-i-believe-1925": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "russell-abc-of-relativity-1925": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "russell-education-and-the-good-life-1926": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "russell-philosophy-1927": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "russell-conquest-of-happiness-1930": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "russell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
