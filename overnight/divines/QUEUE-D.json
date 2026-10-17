@@ -2241,8 +2241,10 @@
     {
       "id": "eleanore-jewett",
       "scope": "STORYTELLERS (decision 22 applied on resume: held only on UK grounds until Adam's US-rule ruling) — eleanore-jewett; no minting",
-      "status": "running",
-      "started": "2026-10-17T16:45:30-05:00"
+      "status": "done",
+      "started": "2026-10-17T16:45:30-05:00",
+      "finished": "2026-10-17T16:50:50-05:00",
+      "notes": "1/1 fetched (Gutenberg 66443), 510 units, 0 ~2 ids."
     },
     {
       "id": "philippine-jafl",
