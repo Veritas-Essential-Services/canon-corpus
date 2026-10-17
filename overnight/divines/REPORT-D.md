@@ -1116,3 +1116,6 @@
 
 ## 2026-10-17 18:00 CDT — stevenson: done
 - stevenson: completed, 2 more Gutenberg books (47 on the shelf), 35,579 units, 68 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:00 CDT — irving: done
+- irving: completed, 18 more Gutenberg books (22 on the shelf), 24,509 units, 1934 ~2 ids; verify 0 mismatches, 0 rights flags.

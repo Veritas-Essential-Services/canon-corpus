@@ -2916,7 +2916,7 @@ Shelf: `pipeline/van-dyke_shelf.json` (2026-10-02; added at the coordinator's re
 
 ## Washington Irving
 
-Shelf: `pipeline/irving_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Legends and tales: the Sketch-Book (Rip Van Winkle, Sleepy Hollow), Tales of a Traveller, The Alhambra and Legends of the Conquest of Spain; cut by sketch, tale or chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/irving_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Tales, sketches, histories and biographies. All 22 of Washington Irving's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -2924,8 +2924,29 @@ Shelf: `pipeline/irving_shelf.json` (2026-10-02; added at the coordinator's rela
 | Tales of a Traveller | have | PG 13514, `irving-tales-of-a-traveller` (1327 units) |
 | The Alhambra | have | PG 49947, `irving-alhambra` (1438 units) |
 | Legends of the Conquest of Spain | have | PG 77685, `irving-legends-of-the-conquest-of-spain` (658 units) |
+| The Legend of Sleepy Hollow | have | PG 41, `irving-legend-of-sleepy-hollow` (80 units) |
+| Little Britain | have | PG 877, `irving-little-britain` (34 units) |
+| Astoria; Or, Anecdotes of an Enterprise Beyond the Rocky Mountains | have | PG 1371, `irving-astoria` (1387 units) |
+| The Adventures of Captain Bonneville, U. S. A., in the Rocky Mountains and the Far West (from the journals of Captain Bonneville) | have | PG 1372, `irving-adventures-of-captain-bonneville-u-s-a-in-the-rocky-m` (1053 units) |
+| Chronicle of the Conquest of Granada, from the mss. of Fray Antonio Agapida | have | PG 3293, `irving-chronicle-of-the-conquest-of-granada-from-the-mss-of` (1428 units) |
+| Life of George Washington, volume 1 of 5 | have | PG 7002, `irving-life-of-george-washington-volume-1-of-5` (1272 units) |
+| Abbotsford and Newstead Abbey | have | PG 7948, `irving-abbotsford-and-newstead-abbey` (553 units) |
+| Oliver Goldsmith: A Biography | have | PG 7993, `irving-oliver-goldsmith` (904 units) |
+| The Crayon Papers | have | PG 7994, `irving-crayon-papers` (887 units) |
+| The Life and Voyages of Christopher Columbus (Volume II) | have | PG 8519, `irving-life-and-voyages-of-christopher-columbus-volume-ii` (2170 units) |
+| Wolfert's Roost, and Miscellanies | have | PG 8571, `irving-wolferts-roost-and-miscellanies` (593 units) |
+| Knickerbocker's History of New York, Complete | have | PG 13042, `irving-knickerbockers-history-of-new-york-complete` (995 units) |
+| Bracebridge Hall, or The Humorists | have | PG 13515, `irving-bracebridge-hall-or-the-humorists` (1188 units) |
+| Spanish Papers | have | PG 50352, `irving-spanish-papers` (1535 units) |
+| Life of George Washington, volume 2 of 5 | have | PG 76805, `irving-life-of-george-washington-volume-2-of-5` (1717 units) |
+| Life of George Washington, volume 3 of 5 | have | PG 77704, `irving-life-of-george-washington-volume-3-of-5` (1655 units) |
+| Life of George Washington, volume 4 of 5 | have | PG 77882, `irving-life-of-george-washington-volume-4-of-5` (1660 units) |
+| Salmagundi (with William Irving and James Kirke Paulding) | have | PG 77926, `irving-salmagundi` (891 units) |
 | irving-alhambra-pennell | excluded | PG 49872, the Alhambra with Pennell's illustrations (1896); 66% of its long paragraphs are in PG 49947; held once as the same work |
 | irving-sketch-book-parts | excluded | PG 41 (The Legend of Sleepy Hollow), 60976 and 64636 (Rip Van Winkle), and 1850, 20656, 64092 and 52361 (Irving's Christmas chapters): illustrated separate printings of pieces in The Sketch-Book, matched by title; 35-82% of their long paragraphs match PG 2048 at the start of the paragraph (not checked further). Held once inside the Sketch-Book. |
+| irving-repeats | excluded | PG 14228 is a second Bracebridge Hall; PG 77921 and 78730 are volumes of the Knickerbocker History held whole (PG 13042) |
+| irving-students-washington | excluded | PG 32987, The Student's Life of Washington, is a later school condensation by another hand |
+| irving-index | excluded | PG 58172 is David Widger's index, not a text |
 
 ## Jeremiah Curtin (folk tales and myths)
 

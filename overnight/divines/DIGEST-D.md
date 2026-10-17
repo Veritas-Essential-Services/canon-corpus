@@ -223,7 +223,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `mackenzie` | 4 Gutenberg | 0 | 8,194 | Elves and Heroes (1909), Myths of Babylonia and Assyria, Indian Myth and Legend, Myths of China and Japan (1923). |
 | `stephens` | 2 Gutenberg | 0 | 4,001 | Irish Fairy Tales and Deirdre (1923). |
 | `van-dyke` | 5 Gutenberg | 0 | 1,537 | The Other Wise Man (1895), The Lost Word (1898), The First Christmas Tree, The Blue Flower (1902), The Sad Shepherd (1911). The Blue Flower repeats three of the separate books; both are kept and the shared passages mint once. |
-| `irving` | 4 Gutenberg | 0 | 4,507 | The Sketch-Book, Tales of a Traveller, The Alhambra (1910 Fulton ed.), Legends of the Conquest of Spain (1836). |
+| `irving` | 22 Gutenberg | 0 | 24,509 | Tales, sketches, histories and biographies. Completed 2026-10-17: 18 more books added, every English text by Washington Irving at Gutenberg that no other shelf holds. |
 | `curtin-folk` | 6 Gutenberg | 0 | 19,986 | Myths and Folk Tales of Ireland, Myths and Folk-tales of the Russians, Western Slavs, and Magyars (1890), Hero-Tales of Ireland (1894), Creation Myths of Primitive America (1898), Seneca Fiction, Legends, and Myths (BAE, 1918), Myths of the Modocs (1912). His Sienkiewicz translations stay on lane C's curtin shelf. The Seneca volume's Bureau of American Ethnology report is cited as front matter. |
 | `larminie` | 1 Gutenberg | 0 | 1,529 | West Irish Folk-Tales and Romances (1893). |
 | `langloh-parker` | 1 Gutenberg | 0 | 403 | Australian Legendary Tales (preface dated June 24th, 1895). |
