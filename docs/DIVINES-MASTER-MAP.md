@@ -4826,6 +4826,26 @@ Slugs `vaughan-*`. Harrow and Temple sermons and his expository lectures; four O
 | Epistles of St Paul for English Readers, part 1 (1864): no title page in the scan; The Personality of the Tempter (1851): unreadable OCR | alternate | not shelved |
 | modern reprints and selections (1960-2009) | excluded | |
 | Charles Edwyn Vaughan, Henry Vaughan, Robert Vaughan, J. C. Vaughan and others | excluded | |
+
+## William Milligan (round 23, my pick, 2026-10-17)
+
+Slugs `milligan-*`. 
+
+| Work | Status | Where |
+|---|---|---|
+| The Decalogue and the Lord's Day in the Light of the General Relation of the Old and New Testaments (Edinburgh and London: Blackwood, MDCCCLXVI) | have-ocr | IA `decaloguelordsda00mill` |
+| The Resurrection of Our Lord, the Croall Lecture 1879-80, first edition (London: Macmillan, 1881) | have-ocr | IA `resurrectionof00mill` |
+| The Revelation of St. John, the Baird Lecture 1885, first edition (London: Macmillan, 1886) | have-ocr | IA `revelationofstjo00mill` |
+| The Book of Revelation, The Expositor's Bible, third thousand (London: Hodder and Stoughton, MDCCCLXXXIX) | have-ocr | IA `cihm_27273` |
+| The Ascension and Heavenly Priesthood of Our Lord, the Baird Lecture 1891, first edition (London and New York: Macmillan, 1892) | have-ocr | IA `theascensionandh00milluoft` |
+| Discussions on the Apocalypse (London and New York: Macmillan, 1893) | have-ocr | IA `discussionsonapo00mill` |
+| The Resurrection of the Dead: an Exposition of 1 Corinthians XV, posthumous (Edinburgh: T. and T. Clark, 1894) | have-ocr | IA `resurrectionofde00mill` |
+| CCEL milligan/expositorrev and Gutenberg 42251: the Expositor's Bible Revelation from an undated Doran reprint; the dated 1889 scan is shelved instead | alternate | not shelved |
+| Lectures on the Apocalypse, third edition (Macmillan, 1892): the Baird Lecture retitled | alternate | not shelved |
+| The Words of the New Testament, with Alexander Roberts (1873); John in Schaff's commentaries with W. F. Moulton (1883, 1890, 1898) | alternate | not shelved |
+| Elijah: his Life and Times (Randolph, undated; IA's 1880 date doubtful) | alternate | not shelved |
+| William Milligan Sloane, Sir W. Milligan and George Milligan | excluded | |
+| 2018 reprint | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1,0 +1,137 @@
+{
+ "_about": "Public-domain William Milligan (1821-1893, Church of Scotland, Professor of Divinity at Aberdeen) for the Word Hoard: 7 books from Internet Archive scans, 1866-1894: The Decalogue and the Lord's Day (1866), The Resurrection of Our Lord (1881), The Revelation of St. John (Baird Lecture, 1886), The Book of Revelation in the Expositor's Bible (1889), The Ascension and Heavenly Priesthood of Our Lord (1892), Discussions on the Apocalypse (1893) and the posthumous Resurrection of the Dead (1894). Raw OCR. Added 2026-10-17 by lane A, round 23 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "milligan"
+ ],
+ "_surname": [
+  "william milligan",
+  "w. milligan",
+  "milligan, william",
+  "william milligan, d.d.",
+  "rev. william milligan",
+  "the late william milligan"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "milligan-decalogue": [
+   "decaloguelordsda00mill",
+   "The Decalogue and the Lord's Day in the Light of the General Relation of the Old and New Testaments (Edinburgh and London: Blackwood, MDCCCLXVI)"
+  ],
+  "milligan-resurrection-of-lord": [
+   "resurrectionof00mill",
+   "The Resurrection of Our Lord, the Croall Lecture 1879-80, first edition (London: Macmillan, 1881)"
+  ],
+  "milligan-revelation-baird": [
+   "revelationofstjo00mill",
+   "The Revelation of St. John, the Baird Lecture 1885, first edition (London: Macmillan, 1886)"
+  ],
+  "milligan-expositors-revelation": [
+   "cihm_27273",
+   "The Book of Revelation, The Expositor's Bible, third thousand (London: Hodder and Stoughton, MDCCCLXXXIX)"
+  ],
+  "milligan-ascension": [
+   "theascensionandh00milluoft",
+   "The Ascension and Heavenly Priesthood of Our Lord, the Baird Lecture 1891, first edition (London and New York: Macmillan, 1892)"
+  ],
+  "milligan-discussions-apocalypse": [
+   "discussionsonapo00mill",
+   "Discussions on the Apocalypse (London and New York: Macmillan, 1893)"
+  ],
+  "milligan-resurrection-of-dead": [
+   "resurrectionofde00mill",
+   "The Resurrection of the Dead: an Exposition of 1 Corinthians XV, posthumous (Edinburgh: T. and T. Clark, 1894)"
+  ]
+ },
+ "_alternates": {
+  "milligan-ccel-pg": "CCEL milligan/expositorrev and Gutenberg 42251: the Expositor's Bible Revelation from an undated Doran reprint; the dated 1889 scan is shelved instead",
+  "milligan-lectures-apocalypse": "Lectures on the Apocalypse, third edition (Macmillan, 1892): the Baird Lecture retitled",
+  "milligan-joint": "The Words of the New Testament, with Alexander Roberts (1873); John in Schaff's commentaries with W. F. Moulton (1883, 1890, 1898)",
+  "milligan-elijah": "Elijah: his Life and Times (Randolph, undated; IA's 1880 date doubtful)"
+ },
+ "_excluded": {
+  "milligan-namesakes": "William Milligan Sloane, Sir W. Milligan and George Milligan",
+  "milligan-reprints": "2018 reprint"
+ },
+ "_pending": {},
+ "_checks": {
+  "milligan-decalogue": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william milligan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "milligan-resurrection-of-lord": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william milligan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "milligan-revelation-baird": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william milligan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "milligan-expositors-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william milligan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "milligan-ascension": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "milligan, william",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "milligan-discussions-apocalypse": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. milligan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "milligan-resurrection-of-dead": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "william milligan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1051,3 +1051,6 @@
 
 ## 2026-10-17 17:23 CDT — c-j-vaughan done
 - `pipeline/c-j-vaughan_shelf.json`: 0 CCEL, 2 PG, 33 IA. Title pages read for vaughan-harrow-sundays, vaughan-revelation-2, vaughan-words-from-cross, vaughan-temple-sermons (OCR garbles the name), recorded in `_identity_checked`. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:23 CDT — william-milligan done
+- `pipeline/william-milligan_shelf.json`: 0 CCEL, 0 PG, 7 IA. `--verify --record`: 0 mismatched. 0 uids minted.
