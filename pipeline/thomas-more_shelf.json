@@ -1,0 +1,39 @@
+{
+ "_about": "Sir Thomas More (1478-1535): Utopia in Gilbert Burnet's translation of 1684, edited with an introduction by Henry Morley, from Project Gutenberg (the etext names no printing). US public domain. Wanted: Ralph Robinson's 1551 translation in a dated printing. No uids minted.",
+ "_author": "Sir Thomas More",
+ "_name_words": [
+  "thomas",
+  "more",
+  "sir",
+  "saint"
+ ],
+ "_surname": [
+  "thomas more"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "more-burnet-utopia": [
+   2130,
+   "Utopia, tr. Gilbert Burnet, ed. Henry Morley (the etext names no printing)",
+   "tr. Gilbert Burnet"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "more-burnet-utopia": "Burnet"
+ },
+ "_checks": {
+  "more-burnet-utopia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thomas more",
+   "translator_claimed": "Burnet",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
