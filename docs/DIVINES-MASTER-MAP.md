@@ -18239,13 +18239,48 @@ Shelf: `pipeline/ballantyne_shelf.json` (2026-10-02; added at the coordinator's 
 
 ## Martha Finley
 
-Shelf: `pipeline/martha-finley_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The first three Elsie books; cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/martha-finley_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Elsie and Mildred books and other stories for girls. All 38 of Martha Finley's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | Elsie Dinsmore | have | PG 6440, `finley-elsie-dinsmore` (2263 units) |
 | Holidays at Roselands | have | PG 14280, `finley-holidays-at-roselands` (2413 units) |
 | Elsie's Girlhood | have | PG 9963, `finley-elsies-girlhood` (2668 units) |
+| The Two Elsies A Sequel to Elsie at Nantucket | have | PG 13379, `finley-two-elsies-a-sequel-to-elsie-at-nantucket` (1967 units) |
+| Elsie at Nantucket | have | PG 14379, `finley-elsie-at-nantucket` (2165 units) |
+| Elsie's Kith and Kin | have | PG 14488, `finley-elsies-kith-and-kin` (2356 units) |
+| Christmas with Grandma Elsie | have | PG 14534, `finley-christmas-with-grandma-elsie` (2219 units) |
+| Elsie's Motherhood | have | PG 14566, `finley-elsies-motherhood` (2540 units) |
+| Elsie's Womanhood | have | PG 14874, `finley-elsies-womanhood` (2611 units) |
+| Elsie's children | have | PG 14875, `finley-elsies-children` (2336 units) |
+| Grandmother Elsie | have | PG 14883, `finley-grandmother-elsie` (1951 units) |
+| Elsie's New Relations What They Did and How They Fared at Ion; A Sequel to Grandmother Elsie | have | PG 14909, `finley-elsies-new-relations-what-they-did-and-how-they-fared` (2189 units) |
+| Elsie at the World's Fair | have | PG 14910, `finley-elsie-at-the-worlds-fair` (1393 units) |
+| Elsie at Home | have | PG 17496, `finley-elsie-at-home` (1430 units) |
+| Elsie's Vacation and After Events | have | PG 18058, `finley-elsies-vacation-and-after-events` (1722 units) |
+| Elsie in the South | have | PG 32103, `finley-elsie-in-the-south` (1506 units) |
+| Elsie on the Hudson | have | PG 32163, `finley-elsie-on-the-hudson` (1439 units) |
+| Elsie at Viamede | have | PG 32225, `finley-elsie-at-viamede` (1494 units) |
+| Elsie's Widowhood A Sequel to Elsie's Children | have | PG 38353, `finley-elsies-widowhood-a-sequel-to-elsies-children` (2189 units) |
+| Mildred's New Daughter | have | PG 38978, `finley-mildreds-new-daughter` (1465 units) |
+| Mildred Keith | have | PG 42870, `finley-mildred-keith` (2285 units) |
+| Mildred and Elsie | have | PG 45651, `finley-mildred-and-elsie` (1797 units) |
+| Elsie and Her Namesakes | have | PG 45804, `finley-elsie-and-her-namesakes` (1162 units) |
+| Elsie Yachting with the Raymonds | have | PG 45944, `finley-elsie-yachting-with-the-raymonds` (1571 units) |
+| Mildred at Home: With Something About Her Relatives and Friends. A sequel to Mildred's married life. | have | PG 45963, `finley-mildred-at-home` (1867 units) |
+| Elsie's Journey on Inland Waters | have | PG 46010, `finley-elsies-journey-on-inland-waters` (1296 units) |
+| Elsie's Young Folks in Peace and War | have | PG 46188, `finley-elsies-young-folks-in-peace-and-war` (1000 units) |
+| The Thorn in the Nest | have | PG 46250, `finley-thorn-in-the-nest` (2417 units) |
+| Ella Clinton; or, By Their Fruits Ye Shall Know Them | have | PG 46317, `finley-ella-clinton` (623 units) |
+| The Tragedy of Wild River Valley | have | PG 46437, `finley-tragedy-of-wild-river-valley` (1378 units) |
+| Mildred at Roselands A Sequel to Mildred Keith | have | PG 46537, `finley-mildred-at-roselands-a-sequel-to-mildred-keith` (2041 units) |
+| Elsie's Winter Trip | have | PG 46540, `finley-elsies-winter-trip` (1254 units) |
+| Signing the Contract, and What It Cost | have | PG 48249, `finley-signing-the-contract-and-what-it-cost` (2569 units) |
+| Elsie at Ion | have | PG 48356, `finley-elsie-at-ion` (1668 units) |
+| Elsie and Her Loved Ones | have | PG 48357, `finley-elsie-and-her-loved-ones` (1358 units) |
+| Mildred's Married Life, and a Winter with Elsie Dinsmore A sequel to Mildred and Elsie | have | PG 67058, `finley-mildreds-married-life-and-a-winter-with-elsie-dinsmor` (1967 units) |
+| Elsie and the Raymonds | have | PG 67184, `finley-elsie-and-the-raymonds` (2115 units) |
+| Elsie's Friends at Woodburn | have | PG 67309, `finley-elsies-friends-at-woodburn` (2332 units) |
 
 ## Mark Twain
 

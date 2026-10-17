@@ -1005,3 +1005,6 @@
 
 ## 2026-10-17 17:23 CDT — james-otis: done
 - james-otis: completed, 53 more Gutenberg books (55 on the shelf), 77,037 units, 47 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:29 CDT — martha-finley: done
+- martha-finley: completed, 35 more Gutenberg books (38 on the shelf), 71,016 units, 224 ~2 ids; verify 0 mismatches, 0 rights flags.
