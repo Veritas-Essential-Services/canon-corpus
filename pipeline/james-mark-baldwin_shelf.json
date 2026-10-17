@@ -1,5 +1,5 @@
 {
- "_about": "James Mark Baldwin (1861-1934), philosopher and psychologist: The Story of the Mind (New York: Appleton, 1905 printing, copyright 1898), clean Gutenberg text. Not the baldwin shelf. US public domain. No uids minted.",
+ "_about": "James Mark Baldwin (1861-1934), philosopher and psychologist: The Story of the Mind (New York: Appleton, 1905 printing, copyright 1898), clean Gutenberg text. Not the baldwin shelf. Added in round ab: Mental Development in the Child and the Race (New York and London: Macmillan, 1895). US public domain. No uids minted.",
  "_author": "James Mark Baldwin",
  "_name_words": [
   "james",
@@ -17,7 +17,12 @@
    "The Story of the Mind (New York: Appleton, 1905)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "baldwin-mental-development-1895": [
+   "mentaldevelopme00bald",
+   "Mental Development in the Child and the Race (New York and London: Macmillan, 1895)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "baldwin-story-of-the-mind-1905": {
@@ -28,6 +33,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "baldwin-mental-development-1895": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "baldwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  }
 }
