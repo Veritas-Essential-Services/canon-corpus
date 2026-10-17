@@ -1,0 +1,42 @@
+{
+ "_about": "Ludwig Büchner (1824-1899), German materialist: Force and Matter, empirico-philosophical studies, edited from the last edition of Kraft und Stoff by J. Frederick Collingwood, second English edition from the tenth German (London: Trübner, 1870), raw IA OCR. Not Harry Collingwood (collingwood shelf). US public domain. No uids minted.",
+ "_author": "Ludwig Büchner",
+ "_name_words": [
+  "ludwig",
+  "buchner",
+  "büchner",
+  "louis"
+ ],
+ "_surname": [
+  "buchner",
+  "büchner"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "buchner-collingwood-force-and-matter-1870": [
+   "forceandmatterem00beucuoft",
+   "Force and Matter, 2nd English ed. (London: Trübner, 1870)",
+   "tr. J. Frederick Collingwood"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "buchner-collingwood-force-and-matter-1870": "COLLINGWOOD"
+ },
+ "_checks": {
+  "buchner-collingwood-force-and-matter-1870": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "buchner",
+   "translator_claimed": "COLLINGWOOD",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
