@@ -1,5 +1,5 @@
 {
- "_about": "Émile Boutroux (1845-1921), raw IA OCR: Science and Religion in Contemporary Philosophy, tr. Jonathan Nield (New York: Macmillan, 1911), Historical Studies in Philosophy, tr. Fred Rothwell (London: Macmillan, 1912), Philosophy and War, tr. Rothwell (London: Constable, 1916) and The Contingency of the Laws of Nature, tr. Rothwell (Chicago: Open Court, 1920). US public domain. No uids minted.",
+ "_about": "Émile Boutroux (1845-1921), raw IA OCR: Science and Religion in Contemporary Philosophy, tr. Jonathan Nield (New York: Macmillan, 1911), Historical Studies in Philosophy, tr. Fred Rothwell (London: Macmillan, 1912), Philosophy and War, tr. Rothwell (London: Constable, 1916) and The Contingency of the Laws of Nature, tr. Rothwell (Chicago: Open Court, 1920). Added in round ad: Pascal (Manchester: Sherratt and Hughes, 1902). US public domain. No uids minted.",
  "_author": "Émile Boutroux",
  "_name_words": [
   "emile",
@@ -31,6 +31,11 @@
    "contingencylaws02boutgoog",
    "The Contingency of the Laws of Nature (Chicago: Open Court, 1920)",
    "tr. Fred Rothwell"
+  ],
+  "boutroux-creak-pascal-1902": [
+   "pascalpascal00boutrich",
+   "Pascal (Manchester: Sherratt and Hughes, 1902)",
+   "tr. Ellen Margaret Creak"
   ]
  },
  "_excluded": {},
@@ -90,6 +95,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1916",
    "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "boutroux-creak-pascal-1902": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "boutroux",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
