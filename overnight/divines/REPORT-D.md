@@ -984,3 +984,6 @@
 
 ## 2026-10-17 17:17 CDT — mayne-reid: done
 - mayne-reid: completed, 47 more Gutenberg books (50 on the shelf), 108,111 units, 76 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 17:23 CDT — lang: done
+- lang: adds Ballads of Books (IA balladsbooks00mattiala, 1888, raw OCR); all 124 items re-verified, 0 mismatches.

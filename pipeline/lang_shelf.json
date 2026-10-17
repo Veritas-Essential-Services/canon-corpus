@@ -1,5 +1,5 @@
 {
- "_about": "Every public-domain Andrew Lang (1844-1912) text the Word Hoard holds: the twelve Coloured Fairy Books and the other Lang-edited story books, his own fairy tales and fiction, his Homer/Theocritus/Aucassin translations (Homer kept on this shelf with its own slugs; a Homer section may cross-reference it later), poetry, essays, myth and folklore scholarship, and histories. Gutenberg texts are clean; Internet Archive items are raw OCR (<id>_djvu.txt), unconverted. CCEL holds no Lang. Co-authors, co-translators and Mrs. Lang (Leonora Blanche Lang, who wrote much of the later story books) are credited in the title string. Lang died 1912: everything here was published before 1930 and is US public domain.",
+ "_about": "Every public-domain Andrew Lang (1844-1912) text the Word Hoard holds: the twelve Coloured Fairy Books and the other Lang-edited story books, his own fairy tales and fiction, his Homer/Theocritus/Aucassin translations (Homer kept on this shelf with its own slugs; a Homer section may cross-reference it later), poetry, essays, myth and folklore scholarship, and histories. Gutenberg texts are clean; Internet Archive items are raw OCR (<id>_djvu.txt), unconverted. CCEL holds no Lang. Co-authors, co-translators and Mrs. Lang (Leonora Blanche Lang, who wrote much of the later story books) are credited in the title string. Lang died 1912: everything here was published before 1930 and is US public domain. Ballads of Books (London: Longmans, 1888), the anthology of verse about books that Lang edited, was added on 2026-10-17 after a sweep of the Gutenberg catalogue and of Internet Archive scans dated before 1930 for any Lang title not yet here.",
  "_author": "Andrew Lang",
  "_name_words": [
   "andrew",
@@ -616,6 +616,10 @@
   "lang-origins-of-religion": [
    "originsreligion01assogoog",
    "The Origins of Religion, and Other Essays (1908)"
+  ],
+  "lang-ballads-of-books": [
+   "balladsbooks00mattiala",
+   "Ballads of Books (anthology ed. Lang, London: Longmans, 1888)"
   ]
  },
  "_excluded": {
@@ -634,7 +638,7 @@
  "_checks": {
   "lang-blue-fairy-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -643,7 +647,7 @@
   },
   "lang-red-fairy-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -652,7 +656,7 @@
   },
   "lang-green-fairy-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -661,7 +665,7 @@
   },
   "lang-yellow-fairy-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -670,7 +674,7 @@
   },
   "lang-pink-fairy-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -679,7 +683,7 @@
   },
   "lang-grey-fairy-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -688,7 +692,7 @@
   },
   "lang-violet-fairy-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -697,7 +701,7 @@
   },
   "lang-crimson-fairy-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -706,7 +710,7 @@
   },
   "lang-brown-fairy-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -715,7 +719,7 @@
   },
   "lang-orange-fairy-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -724,7 +728,7 @@
   },
   "lang-olive-fairy-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -733,7 +737,7 @@
   },
   "lang-lilac-fairy-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -742,7 +746,7 @@
   },
   "lang-arabian-nights": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -751,7 +755,7 @@
   },
   "lang-blue-poetry-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -760,7 +764,7 @@
   },
   "lang-true-story-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -769,7 +773,7 @@
   },
   "lang-red-true-story-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -778,7 +782,7 @@
   },
   "lang-animal-story-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -787,7 +791,7 @@
   },
   "lang-nursery-rhyme-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -796,7 +800,7 @@
   },
   "lang-book-of-romance": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -805,7 +809,7 @@
   },
   "lang-red-romance-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -814,7 +818,7 @@
   },
   "lang-tales-of-romance": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -823,7 +827,7 @@
   },
   "lang-red-book-of-heroes": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -832,7 +836,7 @@
   },
   "lang-book-of-princes-and-princesses": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -841,7 +845,7 @@
   },
   "lang-strange-story-book": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -850,7 +854,7 @@
   },
   "lang-prince-prigio": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -859,7 +863,7 @@
   },
   "lang-prince-ricardo": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -868,7 +872,7 @@
   },
   "lang-gold-of-fairnilee": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -877,7 +881,7 @@
   },
   "lang-princess-nobody": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -886,7 +890,7 @@
   },
   "lang-tales-of-troy-and-greece": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -895,7 +899,7 @@
   },
   "lang-monk-of-fife": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -904,7 +908,7 @@
   },
   "lang-mark-of-cain": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -913,7 +917,7 @@
   },
   "lang-much-darker-days": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -922,7 +926,7 @@
   },
   "lang-in-the-wrong-paradise": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -931,7 +935,7 @@
   },
   "lang-disentanglers": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -940,7 +944,7 @@
   },
   "lang-worlds-desire": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -949,7 +953,7 @@
   },
   "lang-parson-kelly": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -958,7 +962,7 @@
   },
   "lang-he": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -967,7 +971,7 @@
   },
   "lang-that-very-mab": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -976,7 +980,7 @@
   },
   "lang-odyssey": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "translator_claimed": "Butcher",
@@ -988,7 +992,7 @@
   },
   "lang-iliad": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "translator_claimed": "Lang",
@@ -1000,7 +1004,7 @@
   },
   "lang-homeric-hymns": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1009,7 +1013,7 @@
   },
   "lang-theocritus": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1018,7 +1022,7 @@
   },
   "lang-aucassin": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "translator_claimed": "Lang",
@@ -1030,7 +1034,7 @@
   },
   "lang-ballads-lyrics-old-france": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1039,7 +1043,7 @@
   },
   "lang-ballades-blue-china": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1048,7 +1052,7 @@
   },
   "lang-rhymes-a-la-mode": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1057,7 +1061,7 @@
   },
   "lang-grass-of-parnassus": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1066,7 +1070,7 @@
   },
   "lang-ban-and-arriere-ban": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1075,7 +1079,7 @@
   },
   "lang-new-collected-rhymes": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1084,7 +1088,7 @@
   },
   "lang-ballades-verses-vain": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1093,7 +1097,7 @@
   },
   "lang-helen-of-troy": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1102,7 +1106,7 @@
   },
   "lang-collection-of-ballads": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1111,7 +1115,7 @@
   },
   "lang-letters-to-dead-authors": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1120,7 +1124,7 @@
   },
   "lang-letters-on-literature": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1129,7 +1133,7 @@
   },
   "lang-essays-in-little": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1138,7 +1142,7 @@
   },
   "lang-books-and-bookmen": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1147,7 +1151,7 @@
   },
   "lang-adventures-among-books": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1156,7 +1160,7 @@
   },
   "lang-old-friends": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1165,7 +1169,7 @@
   },
   "lang-library": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1174,7 +1178,7 @@
   },
   "lang-angling-sketches": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1183,7 +1187,7 @@
   },
   "lang-compleat-angler-intro": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1192,7 +1196,7 @@
   },
   "lang-how-to-fail-in-literature": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1201,7 +1205,7 @@
   },
   "lang-lost-leaders": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1210,7 +1214,7 @@
   },
   "lang-puzzle-dickens-last-plot": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1219,7 +1223,7 @@
   },
   "lang-shakespeare-bacon": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1228,7 +1232,7 @@
   },
   "lang-alfred-tennyson": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1237,7 +1241,7 @@
   },
   "lang-sir-walter-scott": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1246,7 +1250,7 @@
   },
   "lang-scott-border-minstrelsy": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1255,7 +1259,7 @@
   },
   "lang-history-english-literature": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1264,7 +1268,7 @@
   },
   "lang-oxford": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1273,7 +1277,7 @@
   },
   "lang-highways-byways-border": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1282,7 +1286,7 @@
   },
   "lang-custom-and-myth": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1291,7 +1295,7 @@
   },
   "lang-custom-and-myth-new-ed": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1300,7 +1304,7 @@
   },
   "lang-myth-ritual-religion-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1309,7 +1313,7 @@
   },
   "lang-myth-ritual-religion-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1318,7 +1322,7 @@
   },
   "lang-making-of-religion": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1327,7 +1331,7 @@
   },
   "lang-modern-mythology": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1336,7 +1340,7 @@
   },
   "lang-magic-and-religion": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1345,7 +1349,7 @@
   },
   "lang-secret-of-the-totem": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1354,7 +1358,7 @@
   },
   "lang-method-study-totemism": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1363,7 +1367,7 @@
   },
   "lang-social-origins": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1372,7 +1376,7 @@
   },
   "lang-book-of-dreams-and-ghosts": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1381,7 +1385,7 @@
   },
   "lang-cock-lane": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1390,7 +1394,7 @@
   },
   "lang-clyde-mystery": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1399,7 +1403,7 @@
   },
   "lang-homer-and-his-age": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1408,7 +1412,7 @@
   },
   "lang-world-of-homer": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1417,7 +1421,7 @@
   },
   "lang-short-history-scotland": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1426,7 +1430,7 @@
   },
   "lang-john-knox": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1435,7 +1439,7 @@
   },
   "lang-mystery-of-mary-stuart": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1444,7 +1448,7 @@
   },
   "lang-james-vi-gowrie": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1453,7 +1457,7 @@
   },
   "lang-pickle-the-spy": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1462,7 +1466,7 @@
   },
   "lang-companions-of-pickle": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1471,7 +1475,7 @@
   },
   "lang-historical-mysteries": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1480,7 +1484,7 @@
   },
   "lang-valets-tragedy": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1489,7 +1493,7 @@
   },
   "lang-story-of-joan-of-arc": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1498,7 +1502,7 @@
   },
   "lang-poetical-works-01": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1509,7 +1513,7 @@
   },
   "lang-poetical-works-02": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1520,7 +1524,7 @@
   },
   "lang-poetical-works-03": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1531,7 +1535,7 @@
   },
   "lang-poetical-works-04": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1542,7 +1546,7 @@
   },
   "lang-history-scotland-01": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1553,7 +1557,7 @@
   },
   "lang-history-scotland-02": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1564,7 +1568,7 @@
   },
   "lang-history-scotland-03": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1575,7 +1579,7 @@
   },
   "lang-history-scotland-04": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1586,7 +1590,7 @@
   },
   "lang-homer-and-the-epic": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1597,7 +1601,7 @@
   },
   "lang-book-of-saints-and-heroes": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1608,7 +1612,7 @@
   },
   "lang-all-sorts-of-stories-book": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1619,7 +1623,7 @@
   },
   "lang-red-book-of-animal-stories": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1630,7 +1634,7 @@
   },
   "lang-lockhart-01": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1641,7 +1645,7 @@
   },
   "lang-lockhart-02": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1652,7 +1656,7 @@
   },
   "lang-northcote-01": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1663,7 +1667,7 @@
   },
   "lang-northcote-02": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1674,7 +1678,7 @@
   },
   "lang-maid-of-france": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1685,7 +1689,7 @@
   },
   "lang-prince-charles-edward": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1696,7 +1700,7 @@
   },
   "lang-st-andrews": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1707,7 +1711,7 @@
   },
   "lang-sir-george-mackenzie": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1718,7 +1722,7 @@
   },
   "lang-portraits-jewels-mary-stuart": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1729,7 +1733,7 @@
   },
   "lang-king-over-the-water": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1740,7 +1744,7 @@
   },
   "lang-story-of-the-golden-fleece": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1751,7 +1755,7 @@
   },
   "lang-new-and-old-letters-dead-authors": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1762,7 +1766,7 @@
   },
   "lang-politics-of-aristotle-essays": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
@@ -1773,7 +1777,7 @@
   },
   "lang-dead-leman": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "translator_claimed": "Sylvester",
@@ -1786,7 +1790,7 @@
   },
   "lang-miracles-st-katherine": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -1797,12 +1801,23 @@
   },
   "lang-origins-of-religion": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "andrew lang",
    "identity": "ok",
    "ia_rights": "ok: published 1908",
    "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lang-ballads-of-books": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "andrew lang",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

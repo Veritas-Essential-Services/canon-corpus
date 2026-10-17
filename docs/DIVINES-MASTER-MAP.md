@@ -15109,7 +15109,7 @@ Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fet
 
 ## Andrew Lang
 
-Shelf: `pipeline/lang_shelf.json` (2026-10-02). 95 Gutenberg books (clean text, converted to `data/books/` by `pipeline/convert_shelf_gutenberg.py`: 102,483 paragraph units under headings read from each book's own Contents) and 29 Internet Archive volumes (raw OCR, unconverted). CCEL holds no Lang. Not yet registered in the manifest; no uids minted (attended step). Co-authors and co-translators are credited in each title; "Mrs. Lang" is Leonora Blanche Lang, who wrote much of the later story books. His Homer translations stay here with their own slugs (`lang-odyssey`, `lang-iliad`, `lang-homeric-hymns`) for a future Homer section to cross-reference.
+Shelf: `pipeline/lang_shelf.json` (2026-10-02). 95 Gutenberg books (clean text, converted to `data/books/` by `pipeline/convert_shelf_gutenberg.py`: 102,483 paragraph units under headings read from each book's own Contents) and 30 Internet Archive volumes (raw OCR, unconverted). CCEL holds no Lang. Not yet registered in the manifest; no uids minted (attended step). Co-authors and co-translators are credited in each title; "Mrs. Lang" is Leonora Blanche Lang, who wrote much of the later story books. His Homer translations stay here with their own slugs (`lang-odyssey`, `lang-iliad`, `lang-homeric-hymns`) for a future Homer section to cross-reference.
 
 | Work | Status | Where |
 |---|---|---|
@@ -15232,20 +15232,22 @@ Shelf: `pipeline/lang_shelf.json` (2026-10-02). 95 Gutenberg books (clean text, 
 | The King over the Water (1907), with Alice Shield | have-raw | IA `kingoverwater00shieuoft`, `lang-king-over-the-water` |
 | The Story of the Golden Fleece (1903) | have-raw | IA `storyofgoldenfle00lang`, `lang-story-of-the-golden-fleece` |
 | New and Old Letters to Dead Authors (1907) | have-raw | IA `newandoldletters00languoft`, `lang-new-and-old-letters-dead-authors` |
-| Devil-Dancers, Witch-Finders, Rain-Makers, and Medicine-Men (1896) | held (not his: "compiled from Lang, Caldwell, Conway, Tylor, … and others") | IA `devildancerswitc00lang` |
 | The Politics of Aristotle: Introductory Essays (1886) | have-raw | IA `politicsofaristo00langrich`, `lang-politics-of-aristotle-essays` |
 | The Dead Leman, and Other Tales from the French (1889), tr. Lang & Paul Sylvester | have-raw | IA `deadlemanotherta00langiala`, `lang-dead-leman` |
 | The Miracles of Madame Saint Katherine of Fierbois (1897), tr. Lang | have-raw | IA `MiraclesOfMadameStKatherineOfFierbois`, `lang-miracles-st-katherine` |
 | The Origins of Religion, and Other Essays (1908) | have-raw | IA `originsreligion01assogoog`, `lang-origins-of-religion` |
-| Tales of a Fairy Court (1907) | pending | not on Gutenberg; not on Internet Archive (author and title searches, 2026-10-02); wanted |
-| La Jeanne d'Arc de M. Anatole France (1909) | pending | IA `lajeannedarcdema00lang`; French; whether Lang wrote it in French or it was translated is unverified |
-| Clean text of the 29 OCR-only volumes (History of Scotland, Poetical Works, Lockhart, Northcote, Maid of France, ...) | pending | wishlist: proofread transcriptions |
-| Duplicate Gutenberg transcriptions (fairy books PG 640, 3027, 3282, 3454, 6746, 7277; Letters to Dead Authors PG 1491; Prince Prigio PG 21935; Tales of Troy part PG 1973) | excluded | one transcription of each book is held |
-| Selections and reissues (Magic Ring, Pretty Goldilocks, Golden Mermaid, Ballades & Rhymes PG 3138, My Own Fairy Book, modern "Rainbow"/"Rose" selections) | excluded | contents already held |
-| Tales of King Arthur (PG 49057) | excluded | J. C. Allen's adaptation of The Book of Romance |
-| Others' books Lang edited or introduced (Scott's Waverley novels, Dickens, Stevenson Swanston ed., Perrault, Kirk's Secret Commonwealth, Grimm tr. Hunt, Malory ed. Sommer, Longinus tr. Havell, and ~20 more) | excluded | each belongs on its own author's shelf; full list in the shelf's `_excluded` |
-| Multi-author volumes with a Lang chapter (Cricket, Anthropology and the Classics, A Batch of Golfing Papers, Poets' Country, ...) | excluded | not Lang's book |
-| The Annesley Case (1912); La Pucelle de France (1911) | excluded | trial documents Lang edited; a French translation of The Maid of France by another hand |
+| Ballads of Books (anthology ed. Lang, London: Longmans, 1888) | have-raw | IA `balladsbooks00mattiala`, `lang-ballads-of-books` |
+| lang-fairy-book-alt-transcriptions | excluded | duplicate: other PG transcriptions of a coloured fairy book (PG 640 Yellow, 3027 Orange, 3282 Brown, 3454 Lilac, 6746 Grey, 7277 Green) — the H. J. Ford-illustrated transcription is held instead |
+| lang-letters-to-dead-authors-1491 | excluded | duplicate: PG 1491, a second transcription of Letters to Dead Authors (PG 3319 held) |
+| lang-prince-prigio-21935 | excluded | duplicate: PG 21935, Prince Prigio from 'His Own Fairy Book' (PG 20850 held); My Own Fairy Book (1895) likewise collects Prigio, Ricardo and Fairnilee, all held singly |
+| lang-tales-of-troy-1973 | excluded | subset: PG 1973 'Ulysses the Sacker of Cities' is one part of Tales of Troy and Greece (PG 32326 held) |
+| lang-selections | excluded | selections from books already held: Ballades & Rhymes (PG 3138), The Magic Ring (PG 48032), Pretty Goldilocks, The Golden Mermaid, The Snow Man, Dick Whittington, Little Red Riding-Hood, Jack the Giant-Killer, Prince Darling, Twenty-two and Ten / XXII Ballades (early state of Ballades in Blue China), Iliad and Odyssey combined reissue, all modern reissues (Rainbow, Rose, Fifty Favorite... fairy books) |
+| lang-king-arthur-49057 | excluded | adaptation by J. C. Allen of The Book of Romance (PG 49057) — not Lang's text |
+| lang-fairy-books-index | excluded | PG 30580 is David Widger's linked index to the fairy books, not a text |
+| lang-other-authors-edited | excluded | other authors' works that Lang only edited, introduced or annotated: Scott's Waverley novels (PG 5998, 42389, 43678, 44247; IA 'Waverley novels' 1893-94), Dickens's Works (1897-98), Stevenson Swanston ed. (PG 21686 &c.), Perrault's Popular Tales (PG 33931), Kirk's Secret Commonwealth (PG 75485), Stoddart's Death-Wake (PG 16601), R. F. Murray's Poems (PG 1333), Gosse's Raleigh (PG 27580), Longinus tr. Havell (PG 17957), Dayrell's Folk Stories from Southern Nigeria (PG 34655), Parker's Euahlayi Tribe (PG 3819), van Eeden's Little Johannes (PG 40656), Nerval's Sylvie (PG 40492), Deulin's Johnny Nut (PG 47428), Dumas's My Memoirs (PG 49678), Murray's Hamewith (PG 51412), Hawthorne's Lock and Key Library (PG 2031), Burns's Poems and Songs, Herodotus Euterpe (Tudor tr.), Colonna's Strife of Love in a Dream, Thomas's Crystal Gazing, Social England Illustrated, Elizabethan Songs, Grimm's Household Tales (tr. Hunt, intro Lang — now held on the Grimm shelf, `grimm-hunt-1884-01`), Malory's Morte Darthur (ed. Sommer, essay by Lang), Molière's Précieuses ridicules — each belongs on its own author's shelf |
+| lang-multi-author | excluded | multi-author volumes with a Lang chapter: Cricket (PG 52684), Anthropology and the Classics (PG 53646), The Progress of the Century (PG 55546), A Batch of Golfing Papers (1892), Poets' Country (1907), Presidential Addresses to the SPR, The Great Streets of the World |
+| lang-annesley-case | excluded | The Annesley Case (1912, Notable Scottish Trials): Lang edited trial documents; not his text |
+| lang-la-pucelle-de-france | excluded | La Pucelle de France (1911): a French translation of The Maid of France by another hand |
 
 ## Charles Lamb
 
