@@ -3062,7 +3062,7 @@ Shelf: `pipeline/marshall-saunders_shelf.json` (2026-10-02; added at the coordin
 
 ## Annie Fellows Johnston
 
-Shelf: `pipeline/annie-fellows-johnston_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Ten Little Colonel books; cut by chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/annie-fellows-johnston_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Little Colonel books and other stories for girls. All 37 of Annie Fellows Johnston's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -3076,6 +3076,34 @@ Shelf: `pipeline/annie-fellows-johnston_shelf.json` (2026-10-02; added at the co
 | The Little Colonel: Maid of Honor | have | PG 21248, `johnston-maid-of-honor` (1322 units) |
 | The Little Colonel's Knight Comes Riding | have | PG 39594, `johnston-knight-comes-riding` (1089 units) |
 | The Little Colonel's Chum: Mary Ware | have | PG 15867, `johnston-mary-ware` (927 units) |
+| Georgina of the Rainbows | have | PG 7807, `johnston-georgina-of-the-rainbows` (1511 units) |
+| The Gate of the Giant Scissors | have | PG 12176, `johnston-gate-of-the-giant-scissors` (494 units) |
+| Two Little Knights of Kentucky | have | PG 12317, `johnston-two-little-knights-of-kentucky` (592 units) |
+| The Story of the Red Cross as told to The Little Colonel | have | PG 17094, `johnston-story-of-the-red-cross-as-told-to-the-little-colone` (200 units) |
+| Mildred's Inheritance; Just Her Way; Ann's Own Way | have | PG 17133, `johnston-mildreds-inheritance` (188 units) |
+| The Quilt that Jack Built; How He Won the Bicycle | have | PG 17214, `johnston-quilt-that-jack-built` (163 units) |
+| The Story of Dago | have | PG 17429, `johnston-story-of-dago` (251 units) |
+| Ole Mammy's Torment | have | PG 17497, `johnston-ole-mammys-torment` (378 units) |
+| The Legend of the Bleeding-heart | have | PG 17825, `johnston-legend-of-the-bleeding-heart` (56 units) |
+| The Rescue of the Princess Winsome: A Fairy Play for Old and Young (music by Albion Fellows Bacon) | have | PG 18131, `johnston-rescue-of-the-princess-winsome` (245 units) |
+| Big Brother | have | PG 18496, `johnston-big-brother` (274 units) |
+| Cicely and Other Stories | have | PG 19202, `johnston-cicely-and-other-stories` (371 units) |
+| Mary Ware's Promised Land | have | PG 24235, `johnston-mary-wares-promised-land` (1039 units) |
+| Flip's "Islands of Providence" | have | PG 25978, `johnston-flips-islands-of-providence` (357 units) |
+| Songs Ysame (with Albion Fellows Bacon) | have | PG 39032, `johnston-songs-ysame` (245 units) |
+| Travelers Five Along Life's Highway Jimmy, Gideon Wiggan, the Clown, Wexley Snathers, Bap. Sloan | have | PG 39090, `johnston-travelers-five-along-lifes-highway-jimmy-gideon-wig` (562 units) |
+| Joel: A Boy of Galilee | have | PG 39231, `johnston-joel` (1476 units) |
+| The Jester's Sword How Aldebaran, the King's Son Wore the Sheathed Sword of Conquest | have | PG 39385, `johnston-jesters-sword-how-aldebaran-the-kings-son-wore-the` (104 units) |
+| Keeping Tryst: A Tale of King Arthur's Time | have | PG 39591, `johnston-keeping-tryst` (84 units) |
+| Aunt 'Liza's Hero, and Other Stories | have | PG 39593, `johnston-aunt-lizas-hero-and-other-stories` (645 units) |
+| Asa Holmes; or, At the Cross-Roads | have | PG 39598, `johnston-asa-holmes` (582 units) |
+| Georgina's Service Stars | have | PG 39641, `johnston-georginas-service-stars` (955 units) |
+| Mary Ware in Texas | have | PG 40366, `johnston-mary-ware-in-texas` (1672 units) |
+| It Was the Road to Jericho | have | PG 40462, `johnston-it-was-the-road-to-jericho` (51 units) |
+| In League with Israel: A Tale of the Chattanooga Conference | have | PG 40527, `johnston-in-league-with-israel` (1349 units) |
+| Miss Santa Claus of the Pullman | have | PG 41604, `johnston-miss-santa-claus-of-the-pullman` (376 units) |
+| In the Desert of Waiting: The Legend of Camel-back Mountain | have | PG 53684, `johnston-in-the-desert-of-waiting` (49 units) |
+| annie-fellows-johnston-repeat-39596 | excluded | PG 39596, Georgina of the Rainbows: a second transcription of a title already on this shelf |
 
 ## Susan Warner
 
