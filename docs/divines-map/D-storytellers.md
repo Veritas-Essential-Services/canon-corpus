@@ -5139,6 +5139,53 @@ Shelf: `pipeline/castlemon_shelf.json` (2026-10-17; added at the coordinator's r
 | Two Ways of Becoming a Hunter | have | PG 64280, `castlemon-two-ways-of-becoming-a-hunter` (2026 units) |
 | The Young Wild-Fowlers | have | PG 64366, `castlemon-young-wild-fowlers` (1322 units) |
 
+## Gordon Stables
+
+Shelf: `pipeline/gordon-stables_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Sea and adventure stories for boys. Every English text under the name at Gutenberg that no other shelf holds (39 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Crusoes of the Frozen North | have | PG 11997, `gstables-crusoes-of-the-frozen-north` (465 units) |
+| As We Sweep Through The Deep | have | PG 25995, `gstables-as-we-sweep-through-the-deep` (1068 units) |
+| Our Home in the Silver West: A Story of Struggle and Adventure | have | PG 28291, `gstables-our-home-in-the-silver-west` (2201 units) |
+| In Touch with Nature: Tales and Sketches from the Life | have | PG 37251, `gstables-in-touch-with-nature` (1067 units) |
+| Born to Wander: A Boy's Book of Nomadic Adventures | have | PG 37252, `gstables-born-to-wander` (1596 units) |
+| In the Land of the Great Snow Bear: A Tale of Love and Heroism | have | PG 37253, `gstables-in-the-land-of-the-great-snow-bear` (1391 units) |
+| Harry Milvaine; Or, The Wanderings of a Wayward Boy | have | PG 37325, `gstables-harry-milvaine` (2646 units) |
+| Turkish and Other Baths: A Guide to Good Health and Longevity | have | PG 37326, `gstables-turkish-and-other-baths` (201 units) |
+| O'er Many Lands, on Many Seas | have | PG 37327, `gstables-oer-many-lands-on-many-seas` (891 units) |
+| Medical Life in the Navy | have | PG 37328, `gstables-medical-life-in-the-navy` (355 units) |
+| The Domestic Cat | have | PG 37329, `gstables-domestic-cat` (519 units) |
+| Aileen Aroon, A Memoir With other Tales of Faithful Friends and Favourites | have | PG 37330, `gstables-aileen-aroon-a-memoir-with-other-tales-of-faithful` (1811 units) |
+| Annie o' the Banks o' Dee | have | PG 37357, `gstables-annie-o-the-banks-o-dee` (1599 units) |
+| The Island of Gold: A Sailor's Yarn | have | PG 37588, `gstables-island-of-gold` (2494 units) |
+| The Cruise of the Land-Yacht "Wanderer"; or, Thirteen Hundred Miles in my Caravan | have | PG 37687, `gstables-cruise-of-the-land-yacht-wanderer` (2164 units) |
+| Kenneth McAlpine: A Tale of Mountain, Moorland and Sea | have | PG 38199, `gstables-kenneth-mcalpine` (1643 units) |
+| Shireen and her Friends: Pages from the Life of a Persian Cat | have | PG 38236, `gstables-shireen-and-her-friends` (1825 units) |
+| Wild Adventures in Wild Places | have | PG 38262, `gstables-wild-adventures-in-wild-places` (618 units) |
+| Wild Life in the Land of the Giants: A Tale of Two Brothers | have | PG 38263, `gstables-wild-life-in-the-land-of-the-giants` (2426 units) |
+| The Cruise of the Snowbird: A Story of Arctic Adventure | have | PG 38276, `gstables-cruise-of-the-snowbird` (1902 units) |
+| From Squire to Squatter: A Tale of the Old Land and the New | have | PG 38277, `gstables-from-squire-to-squatter` (2314 units) |
+| Wild Adventures round the Pole Or, The Cruise of the "Snowbird" Crew in the "Arrandoon" | have | PG 38296, `gstables-wild-adventures-round-the-pole` (2370 units) |
+| In Far Bolivia: A Story of a Strange Wild Land | have | PG 39728, `gstables-in-far-bolivia` (2437 units) |
+| Courage, True Hearts: Sailing in Search of Fortune | have | PG 39729, `gstables-courage-true-hearts` (2796 units) |
+| Cats: Their Points and Characteristics With Curiosities of Cat Life, and a Chapter on Feline Ailments | have | PG 43429, `gstables-cats` (1448 units) |
+| The Sauciest Boy in the Service: A Story of Pluck and Perseverance | have | PG 55663, `gstables-sauciest-boy-in-the-service` (2373 units) |
+| The naval cadet: A story of adventures on land and sea | have | PG 68480, `gstables-naval-cadet` (2299 units) |
+| How Jack Mackenzie won his epaulettes | have | PG 68888, `gstables-how-jack-mackenzie-won-his-epaulettes` (2036 units) |
+| In search of fortune: A tale of the old land and the new | have | PG 69315, `gstables-in-search-of-fortune` (2375 units) |
+| Young Peggy McQueen | have | PG 70826, `gstables-young-peggy-mcqueen` (989 units) |
+| The hermit hunter of the wilds | have | PG 71590, `gstables-hermit-hunter-of-the-wilds` (1578 units) |
+| A little gipsy lass | have | PG 71755, `gstables-a-little-gipsy-lass` (1840 units) |
+| Two sailor lads | have | PG 71992, `gstables-two-sailor-lads` (2668 units) |
+| From ploughshare to pulpit | have | PG 71997, `gstables-from-ploughshare-to-pulpit` (2194 units) |
+| The pearl divers and Crusoes of the Sargasso Sea | have | PG 72051, `gstables-pearl-divers-and-crusoes-of-the-sargasso-sea` (2823 units) |
+| In the great white land | have | PG 72061, `gstables-in-the-great-white-land` (1822 units) |
+| The pirate's gold | have | PG 74032, `gstables-pirates-gold` (812 units) |
+| Hearts of Oak | have | PG 75979, `gstables-hearts-of-oak` (2456 units) |
+| Shoulder to shoulder | have | PG 76046, `gstables-shoulder-to-shoulder` (3010 units) |
+| gstables-boys-own-book | excluded | PG 49415, The Boy's Own Book of Indoor Games, is a many-author compilation |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
