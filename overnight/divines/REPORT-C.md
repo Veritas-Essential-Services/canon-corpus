@@ -203,3 +203,5 @@
 - 2026-10-17T17:58-05:00: round 63: sacred-books-of-the-east +16 (27). --verify --record 0 mismatched. SBE Zoroastrian and Hindu law volumes.
 
 - 2026-10-17T18:06-05:00: round 64: sacred-books-of-the-east +11 (38), legge +6 (9). --verify --record 0 mismatched. SBE Vedic/Vedanta volumes; Legge's SBE.
+
+- 2026-10-17T18:14-05:00: round 65: pali-buddhist-translations (17). --verify --record 0 mismatched. Pali canon in English (Jataka, Dialogues, Psalms, Mahavamsa, Buddhist Legends, Warren).

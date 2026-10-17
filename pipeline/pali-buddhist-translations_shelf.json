@@ -1,0 +1,712 @@
+{
+ "_about": "SERIES SHELF of the Pali Buddhist canon in English before 1931, from the three great translation projects outside the Sacred Books of the East: the Cambridge Jataka (6 vols, 1895-1907, ed. E. B. Cowell: Chalmers, Rouse, Francis, Neil, Cowell), the Sacred Books of the Buddhists (Rhys Davids's Dialogues of the Buddha, 1899-1921; Chalmers's Further Dialogues vol. II, 1927), the Pali Text Society translations (Mrs Rhys Davids's Psalms of the Early Buddhists, 1909-13; Geiger and Bode's Mahavamsa, 1912) and the Harvard Oriental Series (Warren's Buddhism in Translations, 1896; Burlingame's Buddhist Legends, 1921). Each title gates on its own translator. Printings before 1931 only; the Luzac and Motilal reprints of the 1950s-70s that share these titles on archive.org are not used. US public domain. Added 2026-10-17 by lane C (round 65); Adam may veto. No uids minted.",
+ "_name_words": [
+  "bode",
+  "burlingame",
+  "c. a. f. rhys davids",
+  "chalmers",
+  "cowell",
+  "e. b. cowell",
+  "eugene watson burlingame",
+  "francis",
+  "geiger",
+  "h. t. francis",
+  "henry clarke warren",
+  "lord chalmers",
+  "mrs. rhys davids",
+  "neil",
+  "r. a. neil",
+  "rhys davids",
+  "robert chalmers",
+  "rouse",
+  "t. w. rhys davids",
+  "w. h. d. rouse",
+  "warren",
+  "wilhelm geiger"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "bode",
+  "burlingame",
+  "c. a. f. rhys davids",
+  "chalmers",
+  "cowell",
+  "e. b. cowell",
+  "eugene watson burlingame",
+  "francis",
+  "geiger",
+  "h. t. francis",
+  "henry clarke warren",
+  "lord chalmers",
+  "mrs. rhys davids",
+  "neil",
+  "r. a. neil",
+  "rhys davids",
+  "robert chalmers",
+  "rouse",
+  "t. w. rhys davids",
+  "w. h. d. rouse",
+  "warren",
+  "wilhelm geiger"
+ ],
+ "_surname_by_slug": {
+  "pali-jataka-1": [
+   "robert chalmers",
+   "chalmers"
+  ],
+  "pali-jataka-2": [
+   "w. h. d. rouse",
+   "rouse"
+  ],
+  "pali-jataka-3": [
+   "h. t. francis",
+   "francis",
+   "r. a. neil",
+   "neil"
+  ],
+  "pali-jataka-4": [
+   "w. h. d. rouse",
+   "rouse"
+  ],
+  "pali-jataka-5": [
+   "h. t. francis",
+   "francis"
+  ],
+  "pali-jataka-6": [
+   "e. b. cowell",
+   "cowell",
+   "w. h. d. rouse",
+   "rouse"
+  ],
+  "pali-dialogues-1": [
+   "t. w. rhys davids",
+   "rhys davids"
+  ],
+  "pali-dialogues-2": [
+   "t. w. rhys davids",
+   "rhys davids",
+   "c. a. f. rhys davids"
+  ],
+  "pali-dialogues-3": [
+   "t. w. rhys davids",
+   "rhys davids",
+   "c. a. f. rhys davids"
+  ],
+  "pali-further-dialogues-2": [
+   "chalmers",
+   "lord chalmers"
+  ],
+  "pali-psalms-of-the-sisters": [
+   "rhys davids",
+   "mrs. rhys davids"
+  ],
+  "pali-psalms-of-the-brethren": [
+   "rhys davids",
+   "mrs. rhys davids"
+  ],
+  "pali-mahavamsa": [
+   "geiger",
+   "wilhelm geiger",
+   "bode"
+  ],
+  "pali-buddhist-legends-1": [
+   "burlingame",
+   "eugene watson burlingame"
+  ],
+  "pali-buddhist-legends-2": [
+   "burlingame",
+   "eugene watson burlingame"
+  ],
+  "pali-buddhist-legends-3": [
+   "burlingame",
+   "eugene watson burlingame"
+  ],
+  "pali-buddhism-in-translations": [
+   "warren",
+   "henry clarke warren"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pali-jataka-1": [
+   "jatakaorstorieso01cowe",
+   "The Jataka, vol. I (1895)"
+  ],
+  "pali-jataka-2": [
+   "jatakaorstorieso02cowe",
+   "The Jataka, vol. II (1895)"
+  ],
+  "pali-jataka-3": [
+   "jatakaorstorieso03cowe",
+   "The Jataka, vol. III (1897)"
+  ],
+  "pali-jataka-4": [
+   "dli.ernet.18111",
+   "The Jataka, vol. IV (1901)",
+   "18111-The Jataka Or Stories Of The Buddhas Former Briths Vol - Iv (1901)_djvu.txt"
+  ],
+  "pali-jataka-5": [
+   "jatakaorstorieso0000htfr",
+   "The Jataka, vol. V (1905)"
+  ],
+  "pali-jataka-6": [
+   "jatakaorstorieso06cowe",
+   "The Jataka, vol. VI (1907)"
+  ],
+  "pali-dialogues-1": [
+   "dialoguesofbuddh01davi",
+   "Dialogues of the Buddha, part I (1899)"
+  ],
+  "pali-dialogues-2": [
+   "dialoguesofbuddh02davi",
+   "Dialogues of the Buddha, part II (1910)"
+  ],
+  "pali-dialogues-3": [
+   "dialoguesofbuddh03davi",
+   "Dialogues of the Buddha, part III (1921)"
+  ],
+  "pali-further-dialogues-2": [
+   "in.ernet.dli.2015.529132",
+   "Further Dialogues of the Buddha, vol. II (1927)",
+   "2015.529132.further-dialogues_djvu.txt"
+  ],
+  "pali-psalms-of-the-sisters": [
+   "psalmsofearlybud01davi",
+   "Psalms of the Early Buddhists, I: Psalms of the Sisters (1909)"
+  ],
+  "pali-psalms-of-the-brethren": [
+   "psalmsofearlybud02davi",
+   "Psalms of the Early Buddhists, II: Psalms of the Brethren (1913)"
+  ],
+  "pali-mahavamsa": [
+   "mahavamsagreatch00geigrich",
+   "The Mahavamsa, or the Great Chronicle of Ceylon (1912)"
+  ],
+  "pali-buddhist-legends-1": [
+   "buddhistlegends01burluoft",
+   "Buddhist Legends, part 1 (1921)"
+  ],
+  "pali-buddhist-legends-2": [
+   "buddhistlegends02burluoft",
+   "Buddhist Legends, part 2 (1921)"
+  ],
+  "pali-buddhist-legends-3": [
+   "buddhistlegends03burluoft",
+   "Buddhist Legends, part 3 (1921)"
+  ],
+  "pali-buddhism-in-translations": [
+   "buddhismintransl00warr",
+   "Buddhism in Translations (1896)"
+  ]
+ },
+ "titles": {
+  "pali-buddhist-translations-jataka-1": {
+   "source": "pali-jataka-1",
+   "of": "The Jataka (Pali birth stories)",
+   "work": "The Jataka, vol. I",
+   "translated": 1895,
+   "translator": "Robert Chalmers",
+   "scan_edition": "Cambridge University Press, The Jataka, or Stories of the Buddha's Former Births, translated from the Pali by various hands under the editorship of E. B. Cowell, vol. I, 1895; University of Toronto scan"
+  },
+  "pali-buddhist-translations-jataka-2": {
+   "source": "pali-jataka-2",
+   "of": "The Jataka (Pali birth stories)",
+   "work": "The Jataka, vol. II",
+   "translated": 1895,
+   "translator": "W. H. D. Rouse",
+   "scan_edition": "Cambridge University Press, The Jataka, or Stories of the Buddha's Former Births, translated from the Pali by various hands under the editorship of E. B. Cowell, vol. II, 1895; University of Toronto scan"
+  },
+  "pali-buddhist-translations-jataka-3": {
+   "source": "pali-jataka-3",
+   "of": "The Jataka (Pali birth stories)",
+   "work": "The Jataka, vol. III",
+   "translated": 1897,
+   "translator": "H. T. Francis and R. A. Neil",
+   "scan_edition": "Cambridge University Press, The Jataka, or Stories of the Buddha's Former Births, translated from the Pali by various hands under the editorship of E. B. Cowell, vol. III, 1897; University of Toronto scan"
+  },
+  "pali-buddhist-translations-jataka-4": {
+   "source": "pali-jataka-4",
+   "of": "The Jataka (Pali birth stories)",
+   "work": "The Jataka, vol. IV",
+   "translated": 1901,
+   "translator": "W. H. D. Rouse",
+   "scan_edition": "Cambridge University Press, The Jataka, or Stories of the Buddha's Former Births, translated from the Pali by various hands under the editorship of E. B. Cowell, vol. IV, 1901; Digital Library of India scan"
+  },
+  "pali-buddhist-translations-jataka-5": {
+   "source": "pali-jataka-5",
+   "of": "The Jataka (Pali birth stories)",
+   "work": "The Jataka, vol. V",
+   "translated": 1905,
+   "translator": "H. T. Francis",
+   "scan_edition": "Cambridge University Press, The Jataka, or Stories of the Buddha's Former Births, translated from the Pali by various hands under the editorship of E. B. Cowell, vol. V, 1905"
+  },
+  "pali-buddhist-translations-jataka-6": {
+   "source": "pali-jataka-6",
+   "of": "The Jataka (Pali birth stories)",
+   "work": "The Jataka, vol. VI",
+   "translated": 1907,
+   "translator": "E. B. Cowell and W. H. D. Rouse",
+   "scan_edition": "Cambridge University Press, The Jataka, or Stories of the Buddha's Former Births, translated from the Pali by various hands under the editorship of E. B. Cowell, vol. VI, 1907; University of Toronto scan",
+   "note": "Cowell's Sarva-Darsana-Samgraha and Tattva-Muktavali are on the cowell shelf."
+  },
+  "pali-buddhist-translations-dialogues-1": {
+   "source": "pali-dialogues-1",
+   "of": "The Digha Nikaya, suttas 1-13",
+   "work": "Dialogues of the Buddha, part I",
+   "translated": 1899,
+   "translator": "T. W. Rhys Davids",
+   "scan_edition": "Oxford University Press (Humphrey Milford), Sacred Books of the Buddhists vol. II; first edition 1899, this the 1923 reprint"
+  },
+  "pali-buddhist-translations-dialogues-2": {
+   "source": "pali-dialogues-2",
+   "of": "The Digha Nikaya",
+   "work": "Dialogues of the Buddha, part II",
+   "translated": 1910,
+   "translator": "T. W. and C. A. F. Rhys Davids",
+   "scan_edition": "Oxford University Press, Sacred Books of the Buddhists vol. III, 1910"
+  },
+  "pali-buddhist-translations-dialogues-3": {
+   "source": "pali-dialogues-3",
+   "of": "The Digha Nikaya",
+   "work": "Dialogues of the Buddha, part III",
+   "translated": 1921,
+   "translator": "T. W. and C. A. F. Rhys Davids",
+   "scan_edition": "Oxford University Press, Sacred Books of the Buddhists vol. IV, 1921"
+  },
+  "pali-buddhist-translations-further-dialogues-2": {
+   "source": "pali-further-dialogues-2",
+   "of": "The Majjhima Nikaya",
+   "work": "Further Dialogues of the Buddha, vol. II",
+   "translated": 1927,
+   "translator": "Lord Chalmers (Robert Chalmers)",
+   "scan_edition": "Oxford University Press (Humphrey Milford), Sacred Books of the Buddhists, 1927; Digital Library of India scan"
+  },
+  "pali-buddhist-translations-psalms-of-the-sisters": {
+   "source": "pali-psalms-of-the-sisters",
+   "of": "The Therigatha",
+   "work": "Psalms of the Early Buddhists, I: Psalms of the Sisters",
+   "translated": 1909,
+   "translator": "C. A. F. Rhys Davids",
+   "scan_edition": "Pali Text Society, translation series, through Oxford University Press Warehouse, 1909"
+  },
+  "pali-buddhist-translations-psalms-of-the-brethren": {
+   "source": "pali-psalms-of-the-brethren",
+   "of": "The Theragatha",
+   "work": "Psalms of the Early Buddhists, II: Psalms of the Brethren",
+   "translated": 1913,
+   "translator": "C. A. F. Rhys Davids",
+   "scan_edition": "Pali Text Society, translation series, through Henry Frowde, 1913"
+  },
+  "pali-buddhist-translations-mahavamsa": {
+   "source": "pali-mahavamsa",
+   "of": "The Mahavamsa (chronicle of Ceylon)",
+   "work": "The Mahavamsa, or the Great Chronicle of Ceylon",
+   "translated": 1912,
+   "translator": "Wilhelm Geiger, assisted by Mabel Haynes Bode",
+   "scan_edition": "Pali Text Society, translation series, 1912",
+   "note": "The title page reads 'translated into English by Wilhelm Geiger ... assisted by Mabel Haynes Bode'."
+  },
+  "pali-buddhist-translations-buddhist-legends-1": {
+   "source": "pali-buddhist-legends-1",
+   "of": "The Dhammapada commentary (attributed to Buddhaghosa)",
+   "work": "Buddhist Legends, part 1",
+   "translated": 1921,
+   "translator": "Eugene Watson Burlingame",
+   "scan_edition": "Harvard University Press, Harvard Oriental Series vol. 28, 1921; University of Toronto scan"
+  },
+  "pali-buddhist-translations-buddhist-legends-2": {
+   "source": "pali-buddhist-legends-2",
+   "of": "The Dhammapada commentary (attributed to Buddhaghosa)",
+   "work": "Buddhist Legends, part 2",
+   "translated": 1921,
+   "translator": "Eugene Watson Burlingame",
+   "scan_edition": "Harvard University Press, Harvard Oriental Series vol. 29, 1921; University of Toronto scan"
+  },
+  "pali-buddhist-translations-buddhist-legends-3": {
+   "source": "pali-buddhist-legends-3",
+   "of": "The Dhammapada commentary (attributed to Buddhaghosa)",
+   "work": "Buddhist Legends, part 3",
+   "translated": 1921,
+   "translator": "Eugene Watson Burlingame",
+   "scan_edition": "Harvard University Press, Harvard Oriental Series vol. 30, 1921; University of Toronto scan"
+  },
+  "pali-buddhist-translations-buddhism-in-translations": {
+   "source": "pali-buddhism-in-translations",
+   "of": "The Pali Canon and its commentaries (selected passages)",
+   "work": "Buddhism in Translations",
+   "translated": 1896,
+   "translator": "Henry Clarke Warren",
+   "scan_edition": "Harvard University Press, Harvard Oriental Series vol. 3, 1896"
+  }
+ },
+ "_pending": {
+  "kindred-sayings": "The Book of the Kindred Sayings (Samyutta Nikaya; Pali Text Society, 1917-30, Mrs Rhys Davids and F. L. Woodward): the archive.org copies found are Luzac reprints of the 1950s-60s or undated, and part V is 1930. Waiting for period scans and the 1930 ruling.",
+  "further-dialogues-1": "Lord Chalmers's Further Dialogues of the Buddha, vol. I (Oxford, 1926): the only scan found (in.gov.ignca.9135) has the German map supplement of Filchner's Tibet expedition (Berlin, 1913) bound or scanned into it, thousands of lines of it, so it is not used. Vol. II (1927) is on the shelf."
+ },
+ "_excluded": {
+  "buddhist-birth-stories": "Rhys Davids's Buddhist Birth Stories (1880, the first Jataka in English) is already on singles-plays-poetry-2 (PG 51880).",
+  "jataka-luzac": "Luzac & Co. reissues of the Jataka (e.g. in.ernet.dli.2015.283272): later reprints for the Pali Text Society, not used."
+ },
+ "_checks": {
+  "pali-jataka-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "robert chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pali-jataka-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. h. d. rouse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pali-jataka-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. t. francis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pali-jataka-4": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "w. h. d. rouse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pali-jataka-5": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. t. francis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pali-jataka-6": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. b. cowell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pali-dialogues-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "t. w. rhys davids",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pali-dialogues-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "t. w. rhys davids",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pali-dialogues-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "t. w. rhys davids",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pali-further-dialogues-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pali-psalms-of-the-sisters": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "rhys davids",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pali-psalms-of-the-brethren": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "rhys davids",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pali-mahavamsa": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "geiger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pali-buddhist-legends-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burlingame",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pali-buddhist-legends-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burlingame",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pali-buddhist-legends-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "burlingame",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pali-buddhism-in-translations": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "warren",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "pali-jataka-1": {
+   "ia": "jatakaorstorieso01cowe",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1895
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pali-jataka-2": {
+   "ia": "jatakaorstorieso02cowe",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1895
+   ],
+   "post_1930_years_in_front_15k": [
+    2000
+   ]
+  },
+  "pali-jataka-3": {
+   "ia": "jatakaorstorieso03cowe",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1897
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pali-jataka-4": {
+   "ia": "dli.ernet.18111",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1896,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pali-jataka-5": {
+   "ia": "jatakaorstorieso0000htfr",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1897,
+    1901,
+    1905
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pali-jataka-6": {
+   "ia": "jatakaorstorieso06cowe",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1888,
+    1902,
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pali-dialogues-1": {
+   "ia": "dialoguesofbuddh01davi",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1891,
+    1892,
+    1899,
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pali-dialogues-2": {
+   "ia": "dialoguesofbuddh02davi",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "pali-dialogues-3": {
+   "ia": "dialoguesofbuddh03davi",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1913,
+    1916,
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pali-further-dialogues-2": {
+   "ia": "in.ernet.dli.2015.529132",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "pali-psalms-of-the-sisters": {
+   "ia": "psalmsofearlybud01davi",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1909
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pali-psalms-of-the-brethren": {
+   "ia": "psalmsofearlybud02davi",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1908,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pali-mahavamsa": {
+   "ia": "mahavamsagreatch00geigrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1879,
+    1889,
+    1905,
+    1908,
+    1909,
+    1912
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pali-buddhist-legends-1": {
+   "ia": "buddhistlegends01burluoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1850,
+    1854,
+    1899,
+    1917,
+    1918,
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pali-buddhist-legends-2": {
+   "ia": "buddhistlegends02burluoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1917,
+    1918,
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pali-buddhist-legends-3": {
+   "ia": "buddhistlegends03burluoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1629,
+    1687,
+    1917,
+    1918,
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "pali-buddhism-in-translations": {
+   "ia": "buddhismintransl00warr",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1885,
+    1886,
+    1888,
+    1890,
+    1896,
+    1899
+   ],
+   "post_1930_years_in_front_15k": [
+    2016
+   ]
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

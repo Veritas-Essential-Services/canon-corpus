@@ -3400,6 +3400,14 @@
       "finished": "2026-10-17T18:06-05:00",
       "scope": "TRANSLATOR SHELVES (round 64, lane C's choice; Adam may veto) -- sacred-books-of-the-east +11, legge +6; PD printings before 1931 only; no minting",
       "notes": "17 titles added (SBE shelf now 38, legge 9); ids checked across all branches. See DIGEST-C round 64. No uids minted."
+    },
+    {
+      "id": "shelf-pali-buddhist-translations",
+      "status": "done",
+      "started": "2026-10-17T18:14-05:00",
+      "finished": "2026-10-17T18:14-05:00",
+      "scope": "TRANSLATOR SHELF (round 65, lane C's choice; Adam may veto) -- pali-buddhist-translations; PD printings before 1931 only; no minting",
+      "notes": "17 titles; ids checked across all branches. See DIGEST-C round 65. No uids minted."
     }
   ]
 }

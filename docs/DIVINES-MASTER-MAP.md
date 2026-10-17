@@ -16342,6 +16342,35 @@ Round 62 (2026-10-17), vetoable: Buddhist and Jain volumes. Round 63: Zoroastria
 | — | — | motilal-reprints: Motilal Banarsidass reprints (Delhi, 1960s on) of the same volumes, e.g. in.ernet.dli.2015.224726 (vol. 11), 224728 (vol. 13) and 226564 (vol. 49), 273506 (vol. 37), 224722 (vol. 7), 224729 (vol. 14), 92889 (vol. 12), 45311 (vol. 48), whose front matter says 'First published by the Oxford University Press ... Reprinted by Motilal Banarsidass': post-1930 printings, refused in favour of the Clarendon originals. | — | — | excluded | — |
 | — | — | held-elsewhere: Vols 1 and 15 (Müller's Upanishads) and vol. 10's Dhammapada are on muller; vols 6 and 9 (Palmer's Qur'an) on palmer; Legge's vols 3, 16, 27, 28, 39 and 40 are on legge (round 64). | — | — | excluded | — |
 
+## Series shelf: the Pali canon in English before 1931: the Cambridge Jataka (Chalmers, Rouse, Francis, Neil, Cowell), Rhys Davids's Dialogues of the Buddha, Chalmers's Further Dialogues, Mrs Rhys Davids's Psalms of the Early Buddhists, Geiger and Bode's Mahavamsa, Burlingame's Buddhist Legends, Warren's Buddhism in Translations
+
+Shelf: `pipeline/pali-buddhist-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py pali-buddhist-translations` · titles `python3 pipeline/split_shelf_titles.py pali-buddhist-translations`.
+Round 65 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `pali-buddhist-translations-jataka-1` | The Jataka (Pali birth stories) | The Jataka, vol. I | Robert Chalmers | 1895 | have-raw | IA `jatakaorstorieso01cowe` |
+| `pali-buddhist-translations-jataka-2` | The Jataka (Pali birth stories) | The Jataka, vol. II | W. H. D. Rouse | 1895 | have-raw | IA `jatakaorstorieso02cowe` |
+| `pali-buddhist-translations-jataka-3` | The Jataka (Pali birth stories) | The Jataka, vol. III | H. T. Francis and R. A. Neil | 1897 | have-raw | IA `jatakaorstorieso03cowe` |
+| `pali-buddhist-translations-jataka-4` | The Jataka (Pali birth stories) | The Jataka, vol. IV | W. H. D. Rouse | 1901 | have-raw | IA `dli.ernet.18111` |
+| `pali-buddhist-translations-jataka-5` | The Jataka (Pali birth stories) | The Jataka, vol. V | H. T. Francis | 1905 | have-raw | IA `jatakaorstorieso0000htfr` |
+| `pali-buddhist-translations-jataka-6` | The Jataka (Pali birth stories) | The Jataka, vol. VI | E. B. Cowell and W. H. D. Rouse | 1907 | have-raw | IA `jatakaorstorieso06cowe` |
+| `pali-buddhist-translations-dialogues-1` | The Digha Nikaya, suttas 1-13 | Dialogues of the Buddha, part I | T. W. Rhys Davids | 1899 | have-raw | IA `dialoguesofbuddh01davi` |
+| `pali-buddhist-translations-dialogues-2` | The Digha Nikaya | Dialogues of the Buddha, part II | T. W. and C. A. F. Rhys Davids | 1910 | have-raw | IA `dialoguesofbuddh02davi` |
+| `pali-buddhist-translations-dialogues-3` | The Digha Nikaya | Dialogues of the Buddha, part III | T. W. and C. A. F. Rhys Davids | 1921 | have-raw | IA `dialoguesofbuddh03davi` |
+| `pali-buddhist-translations-further-dialogues-2` | The Majjhima Nikaya | Further Dialogues of the Buddha, vol. II | Lord Chalmers (Robert Chalmers) | 1927 | have-raw | IA `in.ernet.dli.2015.529132` |
+| `pali-buddhist-translations-psalms-of-the-sisters` | The Therigatha | Psalms of the Early Buddhists, I: Psalms of the Sisters | C. A. F. Rhys Davids | 1909 | have-raw | IA `psalmsofearlybud01davi` |
+| `pali-buddhist-translations-psalms-of-the-brethren` | The Theragatha | Psalms of the Early Buddhists, II: Psalms of the Brethren | C. A. F. Rhys Davids | 1913 | have-raw | IA `psalmsofearlybud02davi` |
+| `pali-buddhist-translations-mahavamsa` | The Mahavamsa (chronicle of Ceylon) | The Mahavamsa, or the Great Chronicle of Ceylon | Wilhelm Geiger, assisted by Mabel Haynes Bode | 1912 | have-raw | IA `mahavamsagreatch00geigrich` |
+| `pali-buddhist-translations-buddhist-legends-1` | The Dhammapada commentary (attributed to Buddhaghosa) | Buddhist Legends, part 1 | Eugene Watson Burlingame | 1921 | have-raw | IA `buddhistlegends01burluoft` |
+| `pali-buddhist-translations-buddhist-legends-2` | The Dhammapada commentary (attributed to Buddhaghosa) | Buddhist Legends, part 2 | Eugene Watson Burlingame | 1921 | have-raw | IA `buddhistlegends02burluoft` |
+| `pali-buddhist-translations-buddhist-legends-3` | The Dhammapada commentary (attributed to Buddhaghosa) | Buddhist Legends, part 3 | Eugene Watson Burlingame | 1921 | have-raw | IA `buddhistlegends03burluoft` |
+| `pali-buddhist-translations-buddhism-in-translations` | The Pali Canon and its commentaries (selected passages) | Buddhism in Translations | Henry Clarke Warren | 1896 | have-raw | IA `buddhismintransl00warr` |
+| `kindred-sayings` | — | The Book of the Kindred Sayings (Samyutta Nikaya; Pali Text Society, 1917-30, Mrs Rhys Davids and F. L. Woodward): the archive.org copies found are Luzac reprints of the 1950s-60s or undated, and part V is 1930. Waiting for period scans and the 1930 ruling. | — | — | pending | — |
+| `further-dialogues-1` | — | Lord Chalmers's Further Dialogues of the Buddha, vol. I (Oxford, 1926): the only scan found (in.gov.ignca.9135) has the German map supplement of Filchner's Tibet expedition (Berlin, 1913) bound or scanned into it, thousands of lines of it, so it is not used. Vol. II (1927) is on the shelf. | — | — | pending | — |
+| — | — | buddhist-birth-stories: Rhys Davids's Buddhist Birth Stories (1880, the first Jataka in English) is already on singles-plays-poetry-2 (PG 51880). | — | — | excluded | — |
+| — | — | jataka-luzac: Luzac & Co. reissues of the Jataka (e.g. in.ernet.dli.2015.283272): later reprints for the Pali Text Society, not used. | — | — | excluded | — |
+
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 
 Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ransome-translations` · titles `python3 pipeline/split_shelf_titles.py ransome-translations`.
