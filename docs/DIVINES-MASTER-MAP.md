@@ -4260,6 +4260,17 @@ Slugs `peters-*`. All three volumes of the 1884 first edition.
 | Other 1884 copies: vol. I theocratickingdo01pete_0, theocratickingd01petegoog, theocratickingd02petegoog; vol. II theocratickingd03petegoog; vol. III theocratickingdo03pete_0, theocratickingd00petegoog, theocratickingd04petegoog (several Google scans are catalogued 1988 in error) | alternate | not shelved |
 | Kregel 1952 reprints with Wilbur M. Smith's introduction, some catalogued 1884 in error | excluded | |
 | 1957 and 1972 reprints | excluded | |
+
+## W. J. Erdman (round 22, my pick, 2026-10-17)
+
+Slugs `erdman-*`. One book: his only single-author early printing found.
+
+| Work | Status | Where |
+|---|---|---|
+| An Outline Study of the Gospel According to John (Germantown, Pa.; no year on title page, IA's 1854 date is wrong) | have-ocr | IA `outlinestudyofgo00erdm` |
+| Notes on the Revelation, edited by Charles R. Erdman (Revell, copyright 1930): 1930 and edited by another hand | excluded | |
+| Toronto conference Bible Readings and 1894 Brooklyn conference addresses: multi-author | excluded | |
+| Charles R. Erdman, his son, is a different author | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
