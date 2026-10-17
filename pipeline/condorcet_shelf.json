@@ -1,0 +1,40 @@
+{
+ "_about": "Jean-Antoine-Nicolas de Caritat, marquis de Condorcet (1743-1794), in English, raw IA OCR: Outlines of an Historical View of the Progress of the Human Mind, a posthumous work, translated from the French (London: J. Johnson, 1795; translator unnamed). His essay on the political rights of women is on singles-ideas. US public domain. No uids minted.",
+ "_author": "Condorcet",
+ "_name_words": [
+  "jean",
+  "antoine",
+  "nicolas",
+  "de",
+  "caritat",
+  "marquis",
+  "condorcet",
+  "m"
+ ],
+ "_surname": [
+  "condorcet"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "condorcet-outlines-progress-1795": [
+   "outlinesofhistor00cond",
+   "Outlines of an Historical View of the Progress of the Human Mind, translated from the French (London: J. Johnson, 1795)",
+   "tr. anonymous"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "condorcet-outlines-progress-1795": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "condorcet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1795",
+   "ia_date": "1795",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
