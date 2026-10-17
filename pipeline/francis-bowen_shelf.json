@@ -1,0 +1,34 @@
+{
+ "_about": "Francis Bowen (1811-1890), raw IA OCR: Modern Philosophy, from Descartes to Schopenhauer and Hartmann, third edition (New York: Scribner; copyright 1877, no printing year on the title page). US public domain. No uids minted.",
+ "_author": "Francis Bowen",
+ "_name_words": [
+  "francis",
+  "bowen"
+ ],
+ "_surname": [
+  "bowen",
+  "francis bowen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bowen-modern-philosophy-1877": [
+   "modernphilosophy00boweuoft",
+   "Modern Philosophy, from Descartes to Schopenhauer and Hartmann, third edition (New York: Scribner; copyright 1877)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "bowen-modern-philosophy-1877": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bowen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
