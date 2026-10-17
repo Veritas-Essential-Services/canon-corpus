@@ -5411,6 +5411,35 @@ Slugs `baker-*`. Written in English: Cressy digested Holy Wisdom, Sweeney edited
 | The Inner Life of Dame Gertrude More (Washbourne, about 1910): the title page does not name Baker | alternate | not shelved |
 | CCEL baker/holy_wisdom (undated Burns Oates & Washbourne) and baker/more (1937) | excluded | |
 | Sweeney's Life (1861) and Weld-Blundell's arrangement (1907) | excluded | |
+
+## Jacques-Bénigne Bossuet (round 25, my pick, 2026-10-17)
+
+Slugs `bossuet-*`. Translators claimed: Fletcher, Elphinston (1778), Capes; Elphinston's 1767 name is garbled in the OCR, so not claimed. Capes's Devotion to the Blessed Virgin is condensed, not verbatim.
+
+| Work | Status | Where |
+|---|---|---|
+| An Exposition of the Doctrine of the Catholick Church in Matters of Controversie (Paris: Vincent du Moutier; catalogued 1672) | have-ocr | IA `bim_early-english-books-1641-1700_an-exposition-of-the-doc_bossuet-jacques-benigne_1672` |
+| The Catholic's Manual: an Exposition of the Controverted Doctrines of the Catholic Church, with notes by John Fletcher (Dublin: Richard Coyne, 1824) | have-ocr | IA `TheCatholicsManual1824` |
+| The History of the Variations of the Protestant Churches, vol. I (Antwerp, MDCCXLII) | have-ocr | IA `bim_eighteenth-century_the-history-of-the-varia_bossuet-jacques-bnigne_1742_1` |
+| The History of the Variations of the Protestant Churches, vol. II (Antwerp, MDCCXLII) | have-ocr | IA `bim_eighteenth-century_the-history-of-the-varia_bossuet-jacques-bnigne_1742_2` |
+| The History of the Variations of the Protestant Churches, second edition, vol. I (Dublin: Richard Coyne, 1836) | have-ocr | IA `historyofvariati01boss` |
+| The History of the Variations of the Protestant Churches, second edition, vol. II (Dublin: Richard Coyne, 1836) | have-ocr | IA `historyofvariati02boss` |
+| An Universal History from the Beginning of the World to the Empire of Charlemagne, tr. Mr. Elphinston, vol. I (London: David Steel, MDCCLXVII) | have-ocr | IA `auniversalhisto00bossgoog` |
+| A View of Universal History, translated from the Louvre original by James Elphinston, vol. I (London: B. White, MDCCLXXVIII) | have-ocr | IA `bim_eighteenth-century_a-view-of-universal-hist_bossuet-jacques-bnigne_1778_1` |
+| The Funeral Orations of Bossuet for Henrietta, Duchess of Orleans, and Louis of Bourbon, Prince of Condé, second edition (London: W. Clarke, 1800) | have-ocr | IA `bim_eighteenth-century_the-funeral-orations-of-_bossuet-jacques-bnigne_1800` |
+| Maxims and Reflections upon Plays, written in French by the Bp. of Meaux (London, 1699) | have-ocr | IA `bim_early-english-books-1641-1700_maxims-and-reflections-u_bossuet-jacques-benigne_1699` |
+| A Conference on the Authority of the Church, March 1st, 1679, between Bossuet and John Claude, first American edition (Baltimore: John Murphy, 1842) | have-ocr | IA `AConferenceAuthorityOfTheChurch` |
+| The Political Science, drawn from the Holy Scriptures, book the first (London: George Keating, 1842) | have-ocr | IA `ThePoliticalScience` |
+| The Sermon on the Mount, from the Meditations on the Gospels, tr. F. M. Capes (London: Longmans, Green, 1900) | have-ocr | IA `sermononmount0000boss` |
+| Devotion to the Blessed Virgin, the sermons for Mary's feasts condensed, arranged and translated by F. M. Capes (London: Longmans, Green, 1899) | have-ocr | IA `devotiontoblesse00bossuoft` |
+| Exposition editions of 1686, 1735, 1753, 1785, the undated New York Fletcher and 1895 | alternate | not shelved |
+| Coyne 1829, the undated Doyle edition, Sadlier 1845 | alternate | not shelved |
+| The 1778 New Edition (T. Evans), New York 1821, Spencer's Belfast 1743 | alternate | not shelved |
+| Funeral sermons (1684, 1686), Communion under Both Species (1685), the Conference with Claude (1687), a pastoral letter (1686), Select Sermons (1800) | alternate | not shelved |
+| Richard Spencer's Introduction to, or a Short Discourse concerning, Universal History (London; catalogued 1730): neither Bossuet's nor Spencer's name is legible in the OCR | alternate | not shelved |
+| Heath's Selections (1907, French with English notes) and French editions on PG | excluded | |
+| Printings from 1930 on | excluded | |
+| Works about Condé and anthologies | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
