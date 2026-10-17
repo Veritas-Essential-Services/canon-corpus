@@ -940,3 +940,8 @@
 - New shelves: holbach (2), mary-wollstonecraft (4), james-mackintosh (2), joseph-priestley (2)
 - Held: Gutenberg System of Nature (modern facsimile with a modern introduction), Ecce Homo (1977 facsimile), Priestley's Necessity (OCR 0.695)
 - Open for the reading-lists thread, which owns edmund-burke and thomas-paine: Burke's Works in 12 vols and Conway's Paine vols 1, 3, 4 are on Gutenberg and not held
+
+## 2026-10-17 18:37 CDT — Round y: early modern natural law and wisdom
+- New shelves: pierre-charron (2), burlamaqui (2), richard-cumberland-laws-of-nature (1)
+- Charron 1729 vol. III held: OCR 0.777, under the gate; the 1707 edition used instead
+- Cumberland: imprint year not legible in the OCR; 1727 inferred from Maxwell's dedication of 8 March 1726/7
