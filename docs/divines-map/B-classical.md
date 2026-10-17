@@ -3517,6 +3517,7 @@ Shelf: `pipeline/hegel-translations_shelf.json`. G. W. F. Hegel (1770-1831) in E
 | Lectures on the History of Philosophy, vol. I (London: Kegan Paul, Trench, Trübner, 1892) | E. S. Haldane | `hegel-haldane-history-of-philosophy-1892-v1` | have-raw (IA `lecturesonthehis01hegeuoft`) |
 | Lectures on the History of Philosophy, vol. II (London: Kegan Paul, Trench, Trübner, 1894) | E. S. Haldane and Frances H. Simson | `hegel-haldane-history-of-philosophy-1894-v2` | have-raw (IA `lecturesonthehis02hegeuoft`) |
 | Lectures on the History of Philosophy, vol. III (London: Kegan Paul, Trench, Trübner, 1896) | Elizabeth S. Haldane and Frances H. Simson | `hegel-haldane-history-of-philosophy-1896-v3` | have-raw (IA `lectureshistoryp03hegeuoft`) |
+| Lectures on the Philosophy of History, translated from the third German edition (Bohn; London: George Bell, 1881) | J. Sibree | `hegel-sibree-philosophy-of-history-1881` | have-raw (IA `lecturesonphilos00hege`) |
 
 ## Schopenhauer in English
 

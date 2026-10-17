@@ -61,6 +61,11 @@
    "lectureshistoryp03hegeuoft",
    "Lectures on the History of Philosophy, vol. III (London: Kegan Paul, Trench, Trübner, 1896)",
    "tr. Elizabeth S. Haldane and Frances H. Simson"
+  ],
+  "hegel-sibree-philosophy-of-history-1881": [
+   "lecturesonphilos00hege",
+   "Lectures on the Philosophy of History, translated from the third German edition (Bohn; London: George Bell, 1881)",
+   "tr. J. Sibree"
   ]
  },
  "_excluded": {},
@@ -185,6 +190,17 @@
    "ia_rights": "ok: published 1892",
    "ia_date": "1892-96",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hegel-sibree-philosophy-of-history-1881": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hegel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
   }
  }
