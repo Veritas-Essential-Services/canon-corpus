@@ -24254,6 +24254,28 @@ Shelf: `pipeline/sara-ware-bassett_shelf.json` (2026-10-17; added at the coordin
 | Shifting Sands | have | PG 43773, `swbassett-shifting-sands` (2706 units) |
 | The Green Dolphin | have | PG 78005, `swbassett-green-dolphin` (2167 units) |
 
+## Frank Gee Patchin
+
+Shelf: `pipeline/frank-gee-patchin_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series for boys and girls (Pony Rider Boys, Circus Boys). Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Pony Rider Boys in New Mexico; Or, The End of the Silver Trail | have | PG 4991, `fgpatchin-pony-rider-boys-in-new-mexico` (2309 units) |
+| The Pony Rider Boys in the Rockies; Or, The Secret of the Lost Claim | have | PG 6067, `fgpatchin-pony-rider-boys-in-the-rockies` (1917 units) |
+| The Pony Rider Boys in Montana; Or, The Mystery of the Old Custer Trail | have | PG 6068, `fgpatchin-pony-rider-boys-in-montana` (2069 units) |
+| The Pony Rider Boys in the Ozarks; Or, The Secret of Ruby Mountain | have | PG 6069, `fgpatchin-pony-rider-boys-in-the-ozarks` (2333 units) |
+| The Pony Rider Boys with the Texas Rangers; Or, On the Trail of the Border Bandits | have | PG 12980, `fgpatchin-pony-rider-boys-with-the-texas-rangers` (1958 units) |
+| The Pony Rider Boys in the Grand Canyon; Or, The Mystery of Bright Angel Gulch | have | PG 12997, `fgpatchin-pony-rider-boys-in-the-grand-canyon` (1993 units) |
+| The Pony Rider Boys in Texas; Or, The Veiled Riddle of the Plains | have | PG 20087, `fgpatchin-pony-rider-boys-in-texas` (2247 units) |
+| The Pony Rider Boys in Alaska; Or, The Gold Diggers of Taku Pass | have | PG 30588, `fgpatchin-pony-rider-boys-in-alaska` (1592 units) |
+| The Battleship Boys' First Step Upward; Or, Winning Their Grades as Petty Officers | have | PG 32886, `fgpatchin-battleship-boys-first-step-upward` (2164 units) |
+| The Battleship Boys at Sea; Or, Two Apprentices in Uncle Sam's Navy | have | PG 36322, `fgpatchin-battleship-boys-at-sea` (2361 units) |
+| The Pony Rider Boys in the Alkali; Or, Finding a Key to the Desert Maze | have | PG 36423, `fgpatchin-pony-rider-boys-in-the-alkali` (2250 units) |
+| The Battleship Boys in Foreign Service; or, Earning New Ratings in European Seas | have | PG 42940, `fgpatchin-battleship-boys-in-foreign-service` (1981 units) |
+| The Pony Rider Boys in New England; or, An Exciting Quest in the Maine Wilderness | have | PG 45117, `fgpatchin-pony-rider-boys-in-new-england` (2012 units) |
+| The Pony Rider Boys in Louisiana; or, Following the Game Trails in the Canebrake | have | PG 45507, `fgpatchin-pony-rider-boys-in-louisiana` (1897 units) |
+| The Pony Rider Boys on the Blue Ridge; or, A Lucky Find in the Carolina Mountains | have | PG 46920, `fgpatchin-pony-rider-boys-on-the-blue-ridge` (1979 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.
