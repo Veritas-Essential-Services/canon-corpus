@@ -18917,11 +18917,19 @@ Shelf: `pipeline/marryat_shelf.json` (2026-10-02; added at the coordinator's rel
 
 ## Thomas Hughes
 
-Shelf: `pipeline/thomas-hughes_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Rugby school story; cut by part and chapter. Not in the manifest; no uids minted.
+Shelf: `pipeline/thomas-hughes_shelf.json` (2026-10-02; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). The Tom Brown books and others. All 6 of Thomas Hughes's English texts at Gutenberg that no other shelf holds (completed 2026-10-17). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
 | Tom Brown's School Days | have | PG 1480, `hughes-tom-browns-school-days` (1403 units) |
+| Tom Brown at Oxford | have | PG 26851, `hughes-tom-brown-at-oxford` (4850 units) |
+| The Scouring of the White Horse; Or, The Long Vacation Ramble of a London Clerk | have | PG 53241, `hughes-scouring-of-the-white-horse` (1502 units) |
+| Vacation Rambles | have | PG 54502, `hughes-vacation-rambles` (806 units) |
+| Memoir of a Brother | have | PG 58795, `hughes-memoir-of-a-brother` (490 units) |
+| The manliness of Christ | have | PG 79039, `hughes-manliness-of-christ` (434 units) |
+| hughes-tom-brown-at-rugby | excluded | PG 33777, Tom Brown at Rugby, is Clara Weaver Robinson's later school abridgement |
+| hughes-true-manliness-from-the-writings-of-thomas-hughes | excluded | PG 52534, True Manliness, is E. E. Brown's compilation |
+| thomas-hughes-repeat-32224 | excluded | PG 32224, Tom Brown's School Days: a second transcription of a title already on this shelf |
 
 ## R. M. Ballantyne
 

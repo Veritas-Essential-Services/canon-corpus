@@ -1,5 +1,5 @@
 {
- "_about": "Thomas Hughes's Tom Brown's School Days, the Rugby school story (from the 1905 Thomas Nelson and Sons edition). Gutenberg's other text (PG 32224, the 1880 sixth edition, signed 'An Old Boy' on its title page) is not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_about": "Thomas Hughes's Tom Brown's School Days, the Rugby school story (from the 1905 Thomas Nelson and Sons edition). Gutenberg's other text (PG 32224, the 1880 sixth edition, signed 'An Old Boy' on its title page) is not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto). On 2026-10-17 every other English text by Thomas Hughes at Gutenberg was added (5 more books; dates are as each title page gives them, and many are undated in the text), at the coordinator's relay of Adam's keep-going message (Adam may veto). Second transcriptions of titles already here (1) and shared or misattributed files are listed in _excluded.",
  "_author": "Thomas Hughes",
  "_name_words": [
   "hughes"
@@ -12,14 +12,83 @@
   "hughes-tom-browns-school-days": [
    1480,
    "Tom Brown's School Days"
+  ],
+  "hughes-tom-brown-at-oxford": [
+   26851,
+   "Tom Brown at Oxford"
+  ],
+  "hughes-scouring-of-the-white-horse": [
+   53241,
+   "The Scouring of the White Horse; Or, The Long Vacation Ramble of a London Clerk"
+  ],
+  "hughes-vacation-rambles": [
+   54502,
+   "Vacation Rambles"
+  ],
+  "hughes-memoir-of-a-brother": [
+   58795,
+   "Memoir of a Brother"
+  ],
+  "hughes-manliness-of-christ": [
+   79039,
+   "The manliness of Christ"
   ]
  },
  "internet_archive": {},
- "_excluded": {},
+ "_excluded": {
+  "hughes-tom-brown-at-rugby": "PG 33777, Tom Brown at Rugby, is Clara Weaver Robinson's later school abridgement",
+  "hughes-true-manliness-from-the-writings-of-thomas-hughes": "PG 52534, True Manliness, is E. E. Brown's compilation",
+  "thomas-hughes-repeat-32224": "PG 32224, Tom Brown's School Days: a second transcription of a title already on this shelf"
+ },
  "_checks": {
   "hughes-tom-browns-school-days": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thomas hughes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hughes-tom-brown-at-oxford": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thomas hughes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hughes-scouring-of-the-white-horse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thomas hughes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hughes-vacation-rambles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thomas hughes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hughes-memoir-of-a-brother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "thomas hughes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hughes-manliness-of-christ": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
    "name_check": "surname",
    "author_seen": "thomas hughes",
    "identity": "ok",

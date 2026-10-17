@@ -1755,8 +1755,8 @@
       "scope": "STORYTELLERS (added at the coordinator's standing relay: Lane D chooses its own batches; Adam may veto) — folk tales, legends and fairy stories: thomas-hughes; no minting",
       "status": "done",
       "started": "2026-10-03T06:23:29-05:00",
-      "finished": "2026-10-03T06:32:30-05:00",
-      "notes": "1/1 fetched (Gutenberg 1480), 1,403 units, 0 ~2 ids."
+      "finished": "2026-10-17T17:45:53-05:00",
+      "notes": "thomas-hughes: completed, 5 more Gutenberg books (6 on the shelf), 9,485 units, 112 ~2 ids; verify 0 mismatches, 0 rights flags."
     },
     {
       "id": "ballantyne",
