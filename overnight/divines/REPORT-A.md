@@ -1063,3 +1063,6 @@
 
 ## 2026-10-17 17:35 CDT — john-tauler done
 - `pipeline/john-tauler_shelf.json`: 3 CCEL, 0 PG, 2 IA. `--verify --record`: 0 mismatched. 0 uids minted.
+
+## 2026-10-17 17:35 CDT — jan-van-ruysbroeck done
+- `pipeline/jan-van-ruysbroeck_shelf.json`: 1 CCEL, 0 PG, 3 IA. `--verify --record`: 0 mismatched. 0 uids minted.

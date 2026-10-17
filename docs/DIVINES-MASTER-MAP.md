@@ -4893,6 +4893,22 @@ Slugs `tauler-*`. Translators: Hutton, Morell, Winkworth, Elliott. The Following
 | Other copies: Winkworth's History and Life in New York 1858 (historyandlifer01kinggoog) and later printings; her Life alone (Philadelphia, 1887); Hutton's first edition, undated (innerwaybeingthi00tauluoft); Morell 1910 (followingofchris00tauliala); the 1875 Meditations (meditationsonli01taulgoog) and Cruikshank's fourth edition (1906) | alternate | not shelved |
 | an unsigned abridgement of Winkworth (Boston, 1878) | excluded | |
 | translations of 1954-1985 and modern reprints; editions in German, Latin and other languages | excluded | |
+
+## Jan van Ruysbroeck (round 24, my pick, 2026-10-17)
+
+Slugs `ruysbroeck-*`. Translators: Wynschenk Dom (ed. Underhill), John Francis, T. Arnold Hyde, Mother St. Jerome.
+
+| Work | Status | Where |
+|---|---|---|
+| The Adornment of the Spiritual Marriage; The Sparkling Stone; The Book of Supreme Truth, tr. C. A. Wynschenk Dom, ed. Evelyn Underhill (London: J. M. Dent, MCMXVI) | have-clean | CCEL ruysbroeck/adornment |
+| The Book of the Twelve Beguines, tr. John Francis (London: John M. Watkins, 1913) | have-ocr | IA `bookoftwelvebg00janvuoft` |
+| The Kingdom of the Lovers of God, tr. T. Arnold Hyde from the Latin of Surius (London: Kegan Paul, 1919) | have-ocr | IA `kingdomofloverso00ruusuoft` |
+| Love's Gradatory, tr. Mother St. Jerome (London: R. & T. Washbourne; imprimatur 1914) | have-ocr | IA `lovesgradatory00ruusuoft` |
+| Scan of the CCEL text: Dent and Dutton, MCMXVI (adornmentofthesp00ruysuoft) | alternate | not shelved |
+| Excerpts translated from Ernest Hello's French: Reflections from the Mirror of a Mystic (Baillie, 1905) and Flowers of a Mystic Garden (1912) | alternate | not shelved |
+| Maeterlinck, Underhill and Scully on Ruysbroeck | excluded | |
+| a 1995 facsimile catalogued 1916, Colledge's 1952 translation catalogued 1900, and other post-1929 editions | excluded | |
+| William of Rubruck | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
