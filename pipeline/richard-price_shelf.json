@@ -1,0 +1,33 @@
+{
+ "_about": "Richard Price (1723-1791), raw IA OCR: A Review of the Principal Questions and Difficulties in Morals, 2nd ed., corrected (London: T. Cadell, 1769). US public domain. No uids minted.",
+ "_author": "Richard Price",
+ "_name_words": [
+  "richard",
+  "price"
+ ],
+ "_surname": [
+  "richard price"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "price-review-of-morals-1769": [
+   "reviewofprincip00pric",
+   "A Review of the Principal Questions and Difficulties in Morals (London: T. Cadell, 1769)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "price-review-of-morals-1769": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "richard price",
+   "identity": "ok",
+   "ia_rights": "ok: published 1769",
+   "ia_date": "1769",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
