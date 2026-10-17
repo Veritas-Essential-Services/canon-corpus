@@ -263,5 +263,59 @@ leo = {"SCG.1.1": {"paras": ["Veritatem meditabitur guttur meum labia detestabun
 o94, where = g.align_1894(oc, leo)
 check("1894: placed on the Leonine by its Latin, not its number", where[(1, 3)] == "SCG.1.2" and where[(1, 1)] == "SCG.1.1")
 
+# --- Catena Aurea (pipeline/build_aquinas_catena.py)
+import build_aquinas_catena as ca
+check("catena: Fathers named alike across the languages",
+      ca.father("Hieronymus") == ca.father("Jerome") and ca.father("Beda") == ca.father("BEDE")
+      and ca.father("Chrysostomus") == ca.father("Pseudo-Chrys.") and ca.father("Aug") == ca.father("Augustinus"))
+check("catena: Pseudo-Origen is Origen, not Chrysostom", ca.father("Pseudo-Origen") == ca.father("Origenes"))
+check("catena: a word that is no Father is not one", ca.father("God") is None and ca.father("CHAP") is None)
+
+CAT = """CHAP. I.
+Ver. 1. In the beginning was the Word,
+
+CHRYS. While all the other Evangelists begin with the Chrys.
+Incarnation. AUG. The Greek word signifies both Word and Reason.
+
+10 GOSPEL ACCORDING TO CHAP. 1.
+
+7. 'were superfluous here, to affix what had been affixed
+
+2. The same was in the beginning with God.
+
+3. All things were made by him.
+
+HILARY; He had said, In the beginning.
+"""
+with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as f:
+    f.write(CAT)
+cs = ca.parse_en_ocr(f.name, 1)
+os.unlink(f.name)
+check("catena OCR: a section at each run of verses", [s["verses"] for _, s in cs] == [[1], [2, 3]])
+check("catena OCR: a footnote numbered like a verse is not one", all(7 not in s["verses"] for _, s in cs))
+check("catena OCR: Fathers in capitals", cs[0][1]["fathers"] == ["chry", "augu"] and cs[1][1]["fathers"] == ["hila"])
+SC = CAT.replace("CHRYS.", "Chrys.").replace("AUG.", "Aug.").replace("HILARY;", "Hilary.")
+with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as f:
+    f.write(SC)
+cs = ca.parse_en_ocr(f.name, 1)
+os.unlink(f.name)
+check("catena OCR: Fathers in small capitals, read as 'Aug.' (a margin repeat counts once)",
+      ca.runs(cs[0][1]["fathers"]) == ["chry", "augu"])
+
+TH = """<ThML><div2 title="Chapter 6" id="x"><p class="scripture" id="a">1. Take heed that ye do not your alms.</p>
+<p class="normal" id="b">Gloss.: After the precepts.</p><p class="normal" id="c">Chrys., Hom. xix: He sets forth.</p>
+<p class="scripture" id="d">2. Therefore when thou doest thine alms.</p><p class="scripture" id="e">3. But when thou doest alms.</p>
+<p class="normal" id="f">Aug., Serm. Dom.: Generally.</p></div2></ThML>"""
+with tempfile.NamedTemporaryFile("w", suffix=".xml", delete=False, encoding="utf-8") as f:
+    f.write(TH)
+ts = ca.parse_en_thml(f.name)
+os.unlink(f.name)
+check("catena ThML: sections and verses", [(c, s["verses"]) for c, s in ts] == [(6, [1]), (6, [2, 3])])
+check("catena ThML: Fathers from 'Name, work:'", ts[0][1]["fathers"] == ["glos", "chry"] and ts[1][1]["fathers"] == ["augu"])
+lat = [((5, 22), {"fathers": ["glos", "chry"]}), ((5, 23), {"fathers": ["augu", "chry", "ambr"]}), ((6, 1), {"fathers": ["chry", "augu", "glos"]})]
+eng = [(6, {"fathers": ["glos", "chry"]}), (6, {"fathers": ["augu", "chry", "ambr"]}), (6, {"fathers": ["chry", "augu"]}), (6, {"fathers": ["glos"]})]
+st = ca.align(lat, eng)
+check("catena: the Latin's medieval chapter break is crossed by the Fathers", [(li, ej) for li, ej, _ in st] == [([0], [0]), ([1], [1]), ([2], [2, 3])])
+
 print(f"\n{len(FAILS)} failed" if FAILS else "\nall passed")
 sys.exit(1 if FAILS else 0)

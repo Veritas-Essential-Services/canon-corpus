@@ -1826,5 +1826,49 @@
    "4.16: heading not found by OCR; its text is in the chapter before",
    "4.41: heading not found by OCR; its text is in the chapter before"
   ]
+ },
+ "aquinas-catena-la": {
+  "title": "Catena Aurea (Latin, via Corpus Thomisticum)",
+  "author": "Thomas Aquinas",
+  "format": "corpus-thomisticum-html",
+  "sha256": "787b0a9f331a9b3f61d49b5c657282122becb712bb2337558b4507540d07de69",
+  "units": 827,
+  "scheme": {
+   "citation": "gospel, chapter, lectio (CA.Mt.5.3 = Catena in Mt. cap. 5 l. 3)",
+   "key_file": "data/aquinas/catena-key.jsonl",
+   "resolution": "lectio",
+   "honesty": "exact: Corpus Thomisticum's own chapter and lectio"
+  },
+  "source": "https://www.corpusthomisticum.org/iopera.html",
+  "rights": {
+   "license": "underlying text public domain; electronic edition claimed by the publisher",
+   "publisher_notice": "(c) Fundacion Tomas de Aquino quoad hanc editionem. Iura omnia asservantur",
+   "redistribute_whole": false,
+   "pending": "Adam's ruling: docs/AQUINAS.md, The Latin question"
+  },
+  "builder": "pipeline/build_aquinas_catena.py",
+  "note": "827 lectiones."
+ },
+ "aquinas-catena-en": {
+  "title": "Catena Aurea (English, Oxford 1841-45)",
+  "author": "Thomas Aquinas (tr. J. H. Newman, ed.)",
+  "format": "thml + ia-djvu-ocr",
+  "sha256": "c17f855da76b552cc3801b28019a98c8aebafaf847f497e35db9cf4c8035d541",
+  "units": 20622,
+  "scheme": {
+   "citation": "gospel, chapter, lectio (CA.Mt.5.3 = Catena in Mt. cap. 5 l. 3)",
+   "key_file": "data/aquinas/catena-key.jsonl",
+   "resolution": "lectio (the English prints none; its sections are placed by the Fathers they quote, fit per row in the key)",
+   "honesty": "Matthew and Mark clean (CCEL); Luke and John raw OCR, unproofread, with margin notes left in the text. A section is placed on a lectio by the sequence of Fathers quoted, which survives translation; the fit is recorded and low fits are listed in docs/AQUINAS.md"
+  },
+  "source": "pipeline/aquinas_shelf.json (CCEL catena1, catena2; Internet Archive, Luke and John)",
+  "rights": {
+   "license": "public-domain",
+   "basis": "Oxford: J. H. Parker, 1841-1845; US public domain",
+   "redistribute_whole": true,
+   "ccel_terms": "CCEL asks non-commercial use of some prepared editions: check before republishing"
+  },
+  "builder": "pipeline/build_aquinas_catena.py",
+  "note": "Mt: 285 sections on 285 lectiones, 282 one to one; Mc: 105 sections on 105 lectiones, 105 one to one; Lc: 287 sections on 246 lectiones, 206 one to one; Io: 223 sections on 191 lectiones, 147 one to one"
  }
 }

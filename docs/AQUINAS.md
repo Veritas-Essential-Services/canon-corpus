@@ -157,6 +157,44 @@ the OCR's paragraphs are not the Leonine's numbered ones. **Book IV (1929) is
 on no Archive scan we could find**, so Book IV has Rickaby's abridgement only
 in English.
 
+## Catena Aurea (built 2026-10-17)
+
+`pipeline/build_aquinas_catena.py`. The key is the Latin's own division:
+`CA.Mt.5.3` = *Catena in Matthaeum*, cap. 5, lectio 3. A lectio is a few verses
+and the Fathers' comments on them, quoted one after another.
+`data/aquinas/catena-key.jsonl` (committed, one row per lectio, 827 rows)
+gives the verses, the Fathers in order on each side, and the fit. It holds
+no text.
+
+| gospel | Latin lectiones | English sections | one to one | median fit |
+|---|---|---|---|---|
+| Matthew | 285 | 285 (CCEL, clean) | 282 | 1.0 |
+| Mark | 105 | 105 (CCEL, clean) | 105 | 1.0 |
+| Luke | 246 | 287 (IA OCR) | 206 | 0.94 |
+| John | 191 | 223 (IA OCR) | 147 | 0.95 |
+
+Every lectio has its English.
+
+**How a section finds its lectio.** The English (the Oxford translation, ed.
+J. H. Newman, 1841-45, US PD) prints no lectio numbers. It opens each section
+with the verses it comments on. The sections are placed on the lectiones by
+**the order of the Fathers quoted**: Gloss, Augustine, Augustine, Chrysostom,
+Gregory. That order survives translation, so it works as a fingerprint.
+`fit` is how closely the two orders agree (0 to 1). The lowest is 0.57, and
+the lowest few were read and are right.
+
+- Where the OCR splits one lectio's verses into two or three sections, they
+  are joined into that lectio (`en_sections`). This happens 74 times, all in
+  Luke and John.
+- Where one English section spans two lectiones, the second lectio's row
+  points to the first with `en_in`.
+- The Latin keeps the medieval chapter breaks in a few places. Its Mt 5,
+  lectiones 22-23, are Mt 6:1-4. Those rows say `en_chapter: 6`, and their
+  verses are in that chapter.
+
+Matthew and Mark come from clean CCEL text. Luke and John are unproofread
+OCR: the margin notes (the sources of the quotations) stay in the text.
+
 ## Commands
 
     python3 pipeline/fetch_corpus_thomisticum.py      # Latin pages (resumable, 1 req/s)
@@ -169,4 +207,6 @@ in English.
     python3 pipeline/build_aquinas_scg.py --fetch     # Contra Gentiles: the 1894 Latin OCR
     python3 pipeline/build_aquinas_scg.py             # Contra Gentiles books + parallel file + key
     python3 pipeline/build_aquinas_scg.py --check     # its key byte-identical
+    python3 pipeline/build_aquinas_catena.py          # Catena Aurea books + parallel file + key
+    python3 pipeline/build_aquinas_catena.py --check  # its key byte-identical
     python3 tests/aquinas_test.py                     # offline checks
