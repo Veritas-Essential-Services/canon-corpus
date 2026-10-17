@@ -811,3 +811,8 @@
 - 17 PG texts: Mill +6 (Logic 8th ed., Representative Government, Autobiography, Unsettled Questions, Subjection of Women, Socialism), Spencer +4 (Data of Ethics, Essays 1891 x3), Godwin +1 (Thoughts on Man 1831)
 - New shelves: adam-smith (Moral Sentiments 1777, Essays 1872; Wealth of Nations already held elsewhere), adam-ferguson (Civil Society 8th ed.), mandeville (Fable of the Bees 1806), henry-sidgwick (Methods of Ethics 7th ed. 1907)
 - Two Mill etexts and Ferguson's name no printing year; the works are long US public domain, noted in each shelf
+
+## 2026-10-17 17:16 CDT — Round 2026-10-17f: moralists and idealists
+- 8 new shelves, 19 IA volumes: jeremy-bentham (Principles of Morals 1907), thomas-hill-green (Works 3 vols, Prolegomena 1890), f-h-bradley (Ethical Studies, Logic 1883, Appearance and Reality 1908), bernard-bosanquet (Theory of the State 1899, History of Aesthetic 1892), ralph-cudworth (True Intellectual System 1845, 3 vols), richard-price (Review of Morals 1769), francis-hutcheson (4 vols, 1726-1755), helvetius (De l'Esprit 1759)
+- Hutcheson's Inquiry title-page year reads 1716 in the OCR; IA catalogues 1726 (inference recorded in the shelf)
+- Schelling: no pre-1930 English translation found on IA beyond journal pieces; left for later

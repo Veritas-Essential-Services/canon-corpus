@@ -8034,6 +8034,85 @@ Shelf: `pipeline/henry-sidgwick_shelf.json`. The Methods of Ethics, 7th ed. (190
 |---|---|---|---|
 | The Methods of Ethics, 7th ed. (London: Macmillan, 1907) |  | `sidgwick-methods-of-ethics-1907` | have (PG 46743) |
 
+## Jeremy Bentham
+
+Shelf: `pipeline/jeremy-bentham_shelf.json`. Principles of Morals and Legislation (Clarendon, 1907).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| An Introduction to the Principles of Morals and Legislation, new edition, corrected by the author (Oxford: Clarendon Press, 1907) |  | `bentham-principles-of-morals-1907` | have-raw (IA `anintroductiont08bentgoog`) |
+
+Pending (wishlist): A Fragment on Government; the Rationale of Judicial Evidence.
+
+## T. H. Green
+
+Shelf: `pipeline/thomas-hill-green_shelf.json`. Works, ed. Nettleship (1885-1888), and the Prolegomena to Ethics (1890).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Works of Thomas Hill Green, vol. I: philosophical works (London: Longmans, Green, 1885) | Nettleship | `green-nettleship-works-1885-v1` | have-raw (IA `worksofthomashil01greeiala`) |
+| Works of Thomas Hill Green, vol. II: philosophical works, fifth impression (London: Longmans, Green, 1906) | Nettleship | `green-nettleship-works-1906-v2` | have-raw (IA `worksofthomashil02greeiala`) |
+| Works of Thomas Hill Green, vol. III: miscellanies and memoir (London: Longmans, Green, 1888) | Nettleship | `green-nettleship-works-1888-v3` | have-raw (IA `worksofthomashil03greeiala`) |
+| Prolegomena to Ethics, 3rd ed. (Oxford: Clarendon, 1890) | Bradley | `green-bradley-prolegomena-1890` | have-raw (IA `prolegomenatoeth00greeuoft`) |
+
+## F. H. Bradley
+
+Shelf: `pipeline/f-h-bradley_shelf.json`. Ethical Studies, Principles of Logic, Appearance and Reality.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Ethical Studies (1876; anastatic reprint, New York: G. E. Stechert, 1904) |  | `bradley-ethical-studies-1876` | have-raw (IA `ethicalstudies00bradgoog`) |
+| The Principles of Logic (London: Kegan Paul, Trench, 1883) |  | `bradley-principles-of-logic-1883` | have-raw (IA `principleslogic00bradgoog`) |
+| Appearance and Reality: a metaphysical essay, 2nd ed., revised, with an appendix (London: Swan Sonnenschein, 1908) |  | `bradley-appearance-and-reality-1908` | have-raw (IA `appearanceandre01bradgoog`) |
+
+## Bernard Bosanquet
+
+Shelf: `pipeline/bernard-bosanquet_shelf.json`. His own works; his Lotze and Hegel are on those shelves.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Philosophical Theory of the State (London: Macmillan, 1899) |  | `bosanquet-theory-of-the-state-1899` | have-raw (IA `philosophicalthe00bosaiala`) |
+| A History of Aesthetic (London: Swan Sonnenschein, 1892) |  | `bosanquet-history-of-aesthetic-1892` | have-raw (IA `historyofsthetic00bosa`) |
+
+Pending (wishlist): Logic (1888), Knowledge and Reality (1885), The Principle of Individuality and Value (1912).
+
+## Ralph Cudworth
+
+Shelf: `pipeline/ralph-cudworth_shelf.json`. The True Intellectual System, Harrison's 1845 edition.
+
+| Work | Translator (Mosheim's notes) | Slug | Status |
+|---|---|---|---|
+| The True Intellectual System of the Universe, with the notes and dissertations of J. L. Mosheim, vol. I (London: Thomas Tegg, 1845) | Harrison | `cudworth-harrison-intellectual-system-1845-v1` | have-raw (IA `trueintellectua03moshgoog`) |
+| The True Intellectual System of the Universe, vol. II (London: Thomas Tegg, 1845) | Harrison | `cudworth-harrison-intellectual-system-1845-v2` | have-raw (IA `trueintellectual02cudwuoft`) |
+| The True Intellectual System of the Universe, vol. III, with the Treatise concerning Eternal and Immutable Morality and the general index (London: Thomas Tegg, 1845) | Harrison | `cudworth-harrison-intellectual-system-1845-v3` | have-raw (IA `trueintellectual0003ralp`) |
+
+## Richard Price
+
+Shelf: `pipeline/richard-price_shelf.json`. Review of Morals, 2nd ed. (1769).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| A Review of the Principal Questions and Difficulties in Morals (London: T. Cadell, 1769) |  | `price-review-of-morals-1769` | have-raw (IA `reviewofprincip00pric`) |
+
+## Francis Hutcheson
+
+Shelf: `pipeline/francis-hutcheson_shelf.json`. Inquiry (1726), Essay on the Passions (1728), System of Moral Philosophy (1755).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| An Inquiry into the Original of our Ideas of Beauty and Virtue, in two treatises (London: J. Darby and others, 1726) |  | `hutcheson-inquiry-beauty-virtue-1726` | have-raw (IA `inquiryintoorigi1726hutc`) |
+| An Essay on the Nature and Conduct of the Passions and Affections, with Illustrations on the Moral Sense (London: J. Darby and T. Browne, 1728) |  | `hutcheson-passions-and-affections-1728` | have-raw (IA `essayonnaturecon00hutciala`) |
+| A System of Moral Philosophy, in three books, vol. I (Glasgow: R. and A. Foulis, 1755) |  | `hutcheson-system-of-moral-philosophy-1755-v1` | have-raw (IA `systemmoralphilo01hutc`) |
+| A System of Moral Philosophy, vol. II (Glasgow: R. and A. Foulis, 1755) |  | `hutcheson-system-of-moral-philosophy-1755-v2` | have-raw (IA `systemmoralphilo02hutc`) |
+
+## Helvétius in English
+
+Shelf: `pipeline/helvetius_shelf.json`. De l'Esprit, the first English translation (1759).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| De l'Esprit, or Essays on the Mind and its Several Faculties, translated from the French (London: printed for the translator, 1759) | anonymous | `helvetius-de-l-esprit-1759` | have-raw (IA `b30416474`) |
+
 ## Perseus census (overflow)
 
 `docs/perseus-census.md` (generated by `pipeline/perseus_census.py` from the Scaife catalogue): 923 English texts across 82 authors; 3 in the build, 34 already held as the same translation (Evelyn-White's Homeric Hymns), 54 under an author who has a shelf, 832 gaps of which 625 look US public domain by year. Biggest classical gaps: Plutarch (195), Lucian (139), Demosthenes (63), Lysias, Isocrates, Euripides, Plautus, Cicero, Hippocrates, Appian, Suetonius, Aeschylus, Thucydides, Herodotus. These are the wishlist for the next classical burst; Perseus fetching needs a manifest entry or a Perseus mode in `fetch_shelf.py`.
