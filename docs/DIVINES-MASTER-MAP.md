@@ -21321,6 +21321,142 @@ Shelf: `pipeline/philippine-jafl_shelf.json` (2026-10-02; added at the coordinat
 |---|---|---|
 | Philippine Folk-Tales | have | PG 11028, `phjafl-philippine-folk-tales-jafl` (1278 units) |
 
+## George Manville Fenn
+
+Shelf: `pipeline/fenn_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Adventure stories for boys. Every English text under the name at Gutenberg that no other shelf holds (128 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Young Robin Hood | have | PG 11097, `fenn-young-robin-hood` (515 units) |
+| The Little Skipper: A Son of a Sailor | have | PG 20544, `fenn-little-skipper` (426 units) |
+| Brave and True Short stories for children by G. M. Fenn and Others | have | PG 21292, `fenn-brave-and-true-short-stories-for-children-by-g-m-fenn-a` (336 units) |
+| Brownsmith's Boy: A Romance in a Garden | have | PG 21293, `fenn-brownsmiths-boy` (3867 units) |
+| Burr Junior | have | PG 21294, `fenn-burr-junior` (3962 units) |
+| Cormorant Crag: A Tale of the Smuggling Days | have | PG 21295, `fenn-cormorant-crag` (4273 units) |
+| Mother Carey's Chicken: Her Voyage to the Unknown Isle | have | PG 21296, `fenn-mother-careys-chicken` (3951 units) |
+| Cutlass and Cudgel | have | PG 21297, `fenn-cutlass-and-cudgel` (3425 units) |
+| The Black Tor: A Tale of the Reign of James the First | have | PG 21298, `fenn-black-tor` (2984 units) |
+| Blue Jackets: The Log of the Teaser | have | PG 21299, `fenn-blue-jackets` (4550 units) |
+| Bunyip Land: A Story of Adventure in New Guinea | have | PG 21301, `fenn-bunyip-land` (3043 units) |
+| Charge! A Story of Briton and Boer | have | PG 21302, `fenn-charge-a-story-of-briton-and-boer` (3540 units) |
+| Devon Boys: A Tale of the North Shore | have | PG 21303, `fenn-devon-boys` (3676 units) |
+| Begumbagh: A Tale of the Indian Mutiny | have | PG 21304, `fenn-begumbagh` (1105 units) |
+| A Dash from Diamond City | have | PG 21305, `fenn-a-dash-from-diamond-city` (3137 units) |
+| Dick o' the Fens: A Tale of the Great East Swamp | have | PG 21306, `fenn-dick-o-the-fens` (4381 units) |
+| Fire Island Being the Adventures of Uncertain Naturalists in an Unknown Track | have | PG 21307, `fenn-fire-island-being-the-adventures-of-uncertain-naturalis` (3911 units) |
+| First in the Field: A Story of New South Wales | have | PG 21308, `fenn-first-in-the-field` (3815 units) |
+| Fitz the Filibuster | have | PG 21309, `fenn-fitz-the-filibuster` (3963 units) |
+| Featherland: How the Birds lived at Greenlawn | have | PG 21310, `fenn-featherland` (296 units) |
+| Gil the Gunner: The Youngest Officer in the East | have | PG 21311, `fenn-gil-the-gunner` (4357 units) |
+| Glyn Severn's Schooldays | have | PG 21312, `fenn-glyn-severns-schooldays` (2609 units) |
+| In Honour's Cause: A Tale of the Days of George the First | have | PG 21313, `fenn-in-honours-cause` (4145 units) |
+| King o' the Beach: A Tropic Tale | have | PG 21314, `fenn-king-o-the-beach` (2341 units) |
+| The King's Sons | have | PG 21315, `fenn-kings-sons` (361 units) |
+| The Adventures of Don Lavington: Nolens Volens | have | PG 21316, `fenn-adventures-of-don-lavington` (4989 units) |
+| A Life's Eclipse | have | PG 21317, `fenn-a-lifes-eclipse` (926 units) |
+| The Lost Middy: Being the Secret of the Smugglers' Gap | have | PG 21318, `fenn-lost-middy` (3265 units) |
+| Three Boys; Or, The Chiefs of the Clan Mackhai | have | PG 21319, `fenn-three-boys` (3637 units) |
+| Mass' George: A Boy's Adventures in the Old Savannah | have | PG 21320, `fenn-mass-george` (4791 units) |
+| The Black Bar | have | PG 21326, `fenn-black-bar` (2992 units) |
+| Menhardoc | have | PG 21354, `fenn-menhardoc` (3602 units) |
+| Middy and Ensign | have | PG 21355, `fenn-middy-and-ensign` (4067 units) |
+| Nat the Naturalist: A Boy's Adventures in the Eastern Seas | have | PG 21356, `fenn-nat-the-naturalist` (2144 units) |
+| Nic Revel: A White Slave's Adventures in Alligator Land | have | PG 21357, `fenn-nic-revel` (2293 units) |
+| The Ocean Cat's Paw: The Story of a Strange Cruise | have | PG 21358, `fenn-ocean-cats-paw` (4368 units) |
+| Off to the Wilds: Being the Adventures of Two Brothers | have | PG 21359, `fenn-off-to-the-wilds` (2547 units) |
+| Old Gold: The Cruise of the "Jason" Brig | have | PG 21360, `fenn-old-gold` (2945 units) |
+| Patience Wins: War in the Works | have | PG 21361, `fenn-patience-wins` (3499 units) |
+| The Powder Monkey | have | PG 21362, `fenn-powder-monkey` (311 units) |
+| Quicksilver: The Boy With No Skid to His Wheel | have | PG 21363, `fenn-quicksilver` (4866 units) |
+| The Rajah of Dah | have | PG 21364, `fenn-rajah-of-dah` (2745 units) |
+| Rob Harlow's Adventures: A Story of the Grand Chaco | have | PG 21365, `fenn-rob-harlows-adventures` (3509 units) |
+| Sail Ho! A Boy at Sea | have | PG 21366, `fenn-sail-ho-a-boy-at-sea` (5226 units) |
+| Sappers and Miners: The Flood beneath the Sea | have | PG 21367, `fenn-sappers-and-miners` (4104 units) |
+| The Silver Canyon: A Tale of the Western Plains | have | PG 21368, `fenn-silver-canyon` (2381 units) |
+| Our Soldier Boy | have | PG 21371, `fenn-our-soldier-boy` (398 units) |
+| Steve Young | have | PG 21372, `fenn-steve-young` (3559 units) |
+| Syd Belton: The Boy Who Would Not Go to Sea | have | PG 21373, `fenn-syd-belton` (4213 units) |
+| !Tention: A Story of Boy-Life during the Peninsular War | have | PG 21374, `fenn-tention` (2909 units) |
+| The Weathercock: Being the Adventures of a Boy with a Bias | have | PG 21375, `fenn-weathercock` (3676 units) |
+| Will of the Mill | have | PG 21376, `fenn-will-of-the-mill` (1239 units) |
+| To Win or to Die: A Tale of the Klondike Gold Craze | have | PG 21377, `fenn-to-win-or-to-die` (2346 units) |
+| Yussuf the Guide; Or, the Mountain Bandits Being a Story of Strange Adventure in Asia Minor | have | PG 21378, `fenn-yussuf-the-guide` (2939 units) |
+| Marcus: the Young Centurion | have | PG 21379, `fenn-marcus` (2469 units) |
+| A Young Hero | have | PG 21380, `fenn-a-young-hero` (424 units) |
+| Son Philip | have | PG 21382, `fenn-son-philip` (324 units) |
+| Trapped by Malays: A Tale of Bayonet and Kris | have | PG 21494, `fenn-trapped-by-malays` (3305 units) |
+| To The West | have | PG 21495, `fenn-to-the-west` (5381 units) |
+| The King's Esquires; Or, The Jewel of France | have | PG 23128, `fenn-kings-esquires` (2392 units) |
+| The Dingo Boys: The Squatters of Wallaby Range | have | PG 23374, `fenn-dingo-boys` (2573 units) |
+| Jack at Sea: All Work and No Play Made Him a Dull Boy | have | PG 23375, `fenn-jack-at-sea` (4443 units) |
+| A Terrible Coward | have | PG 23376, `fenn-a-terrible-coward` (381 units) |
+| Crown and Sceptre: A West Country Story | have | PG 23382, `fenn-crown-and-sceptre` (5230 units) |
+| In the King's Name: The Cruise of the "Kestrel" | have | PG 23386, `fenn-in-the-kings-name` (2621 units) |
+| Through Forest and Stream: The Quest of the Quetzal | have | PG 23497, `fenn-through-forest-and-stream` (1202 units) |
+| The New Forest Spy | have | PG 23502, `fenn-new-forest-spy` (1082 units) |
+| Dead Man's Land Being the Voyage to Zimbambangwe of certain and uncertain blacks and whites | have | PG 23922, `fenn-dead-mans-land-being-the-voyage-to-zimbambangwe-of-cert` (3937 units) |
+| The Crystal Hunters: A Boy's Adventures in the Higher Alps | have | PG 24516, `fenn-crystal-hunters` (3788 units) |
+| The Queen's Scarlet The Adventures and Misadventures of Sir Richard Frayne | have | PG 24813, `fenn-queens-scarlet-the-adventures-and-misadventures-of-sir` (2916 units) |
+| Diamond Dyke The Lone Farm on the Veldt - Story of South African Adventure | have | PG 24821, `fenn-diamond-dyke-the-lone-farm-on-the-veldt-story-of-south` (1915 units) |
+| The Bag of Diamonds | have | PG 24871, `fenn-bag-of-diamonds` (1784 units) |
+| The Golden Magnet | have | PG 24909, `fenn-golden-magnet` (2487 units) |
+| Hollowdell Grange: Holiday Hours in a Country Home | have | PG 24918, `fenn-hollowdell-grange` (1325 units) |
+| In the Mahdi's Grasp | have | PG 24926, `fenn-in-the-mahdis-grasp` (3420 units) |
+| The Peril Finders | have | PG 25429, `fenn-peril-finders` (5542 units) |
+| The Young Castellan: A Tale of the English Civil War | have | PG 25449, `fenn-young-castellan` (3184 units) |
+| Witness to the Deed | have | PG 25607, `fenn-witness-to-the-deed` (4129 units) |
+| The Dark House: A Knot Unravelled | have | PG 25637, `fenn-dark-house` (1462 units) |
+| The Kopje Garrison: A Story of the Boer War | have | PG 27897, `fenn-kopje-garrison` (3831 units) |
+| Hunting the Skipper: The Cruise of the "Seafowl" Sloop | have | PG 27907, `fenn-hunting-the-skipper` (5123 units) |
+| Fix Bay'nets: The Regiment in the Hills | have | PG 27908, `fenn-fix-baynets` (3477 units) |
+| The Vast Abyss The Story of Tom Blount, his Uncles and his Cousin Sam | have | PG 30106, `fenn-vast-abyss-the-story-of-tom-blount-his-uncles-and-his-c` (4649 units) |
+| Blind Policy | have | PG 32881, `fenn-blind-policy` (2414 units) |
+| Sir Hilton's Sin | have | PG 32915, `fenn-sir-hiltons-sin` (2309 units) |
+| The Sapphire Cross | have | PG 32917, `fenn-sapphire-cross` (2319 units) |
+| The New Mistress: A Tale | have | PG 32924, `fenn-new-mistress` (2811 units) |
+| Thereby Hangs a Tale. Volume One | have | PG 32929, `fenn-thereby-hangs-a-tale-volume-one` (4054 units) |
+| Seven Frozen Sailors | have | PG 32932, `fenn-seven-frozen-sailors` (1361 units) |
+| Lady Maude's Mania | have | PG 34138, `fenn-lady-maudes-mania` (2513 units) |
+| Real Gold: A Story of Adventure | have | PG 34139, `fenn-real-gold` (2516 units) |
+| A Double Knot | have | PG 34140, `fenn-a-double-knot` (4412 units) |
+| The Parson O' Dumford | have | PG 34141, `fenn-parson-o-dumford` (4689 units) |
+| By Birth a Lady | have | PG 34142, `fenn-by-birth-a-lady` (2736 units) |
+| A Little World | have | PG 34143, `fenn-a-little-world` (3113 units) |
+| The Star-Gazers | have | PG 34244, `fenn-star-gazers` (4102 units) |
+| The Khedive's Country | have | PG 34245, `fenn-khedives-country` (418 units) |
+| Of High Descent | have | PG 34246, `fenn-of-high-descent` (6167 units) |
+| The Man with a Shadow | have | PG 34248, `fenn-man-with-a-shadow` (4979 units) |
+| The Rosery Folk | have | PG 34482, `fenn-rosery-folk` (2115 units) |
+| Sweet Mace: A Sussex Legend of the Iron Times | have | PG 34490, `fenn-sweet-mace` (4128 units) |
+| The Master of the Ceremonies | have | PG 34492, `fenn-master-of-the-ceremonies` (6343 units) |
+| Draw Swords! In the Horse Artillery | have | PG 34493, `fenn-draw-swords-in-the-horse-artillery` (3565 units) |
+| Stan Lynn: A Boy's Adventures in China | have | PG 34494, `fenn-stan-lynn` (3145 units) |
+| Cursed by a Fortune | have | PG 34537, `fenn-cursed-by-a-fortune` (3837 units) |
+| King of the Castle | have | PG 34609, `fenn-king-of-the-castle` (5047 units) |
+| Commodore Junk | have | PG 34663, `fenn-commodore-junk` (3761 units) |
+| The Mynns' Mystery | have | PG 34664, `fenn-mynns-mystery` (2919 units) |
+| Christmas Penny Readings: Original Sketches for the Season | have | PG 34665, `fenn-christmas-penny-readings` (1320 units) |
+| Original Penny Readings: A Series of Short Sketches | have | PG 34666, `fenn-original-penny-readings` (1108 units) |
+| Mad: A Story of Dust and Ashes | have | PG 35367, `fenn-mad` (2164 units) |
+| Friends I Have Made | have | PG 35368, `fenn-friends-i-have-made` (1287 units) |
+| The Vicar's People | have | PG 35370, `fenn-vicars-people` (4584 units) |
+| The Haute Noblesse: A Novel | have | PG 35527, `fenn-haute-noblesse` (6173 units) |
+| Adventures of Working Men. From the Notebook of a Working Surgeon | have | PG 36624, `fenn-adventures-of-working-men-from-the-notebook-of-a-workin` (1210 units) |
+| Eli's Children: The Chronicles of an Unhappy Family | have | PG 36642, `fenn-elis-children` (5074 units) |
+| One Maid's Mischief | have | PG 36723, `fenn-one-maids-mischief` (5858 units) |
+| Dutch the Diver; Or, A Man's Mistake | have | PG 36724, `fenn-dutch-the-diver` (3209 units) |
+| The Story of Antony Grace | have | PG 36852, `fenn-story-of-antony-grace` (4936 units) |
+| A Fluttered Dovecote | have | PG 36873, `fenn-a-fluttered-dovecote` (1108 units) |
+| Midnight Webs | have | PG 36875, `fenn-midnight-webs` (2180 units) |
+| George Alfred Henty: The Story of an Active Life | have | PG 36893, `fenn-george-alfred-henty` (862 units) |
+| The White Virgin | have | PG 40672, `fenn-white-virgin` (2862 units) |
+| The Tiger Lily | have | PG 40673, `fenn-tiger-lily` (2112 units) |
+| Sawn Off: A Tale of a Family Tree | have | PG 40674, `fenn-sawn-off` (2250 units) |
+| Nurse Elisia | have | PG 40675, `fenn-nurse-elisia` (2905 units) |
+| This Man's Wife | have | PG 40676, `fenn-this-mans-wife` (5671 units) |
+| Jungle and Stream; Or, The Adventures of Two Boys in Siam | have | PG 44680, `fenn-jungle-and-stream` (4310 units) |
+| fenn-golden-story-book | excluded | PG 72362, The Golden Story Book, is a many-author anthology |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

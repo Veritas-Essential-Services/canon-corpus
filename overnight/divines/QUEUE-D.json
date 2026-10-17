@@ -2253,6 +2253,14 @@
       "started": "2026-10-17T16:45:30-05:00",
       "finished": "2026-10-17T16:56:19-05:00",
       "notes": "1/1 fetched (Gutenberg 11028), 1,278 units, 0 ~2 ids."
+    },
+    {
+      "id": "fenn",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — George Manville Fenn; no minting",
+      "status": "done",
+      "started": "2026-10-17T18:10:01-05:00",
+      "finished": "2026-10-17T18:10:02-05:00",
+      "notes": "fenn: new shelf, 128 Gutenberg books, 395,207 units, 680 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
