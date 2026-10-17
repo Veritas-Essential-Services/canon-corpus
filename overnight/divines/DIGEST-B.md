@@ -201,3 +201,5 @@
 - 17:34 round i: 15 PG texts (Rousseau, Pascal, Marx/Engels, William James); nothing needs Adam.
 - 17:36 round j: 4 new shelves (Hamilton, Stewart, Thomas Brown, Hartley); nothing needs Adam.
 - 17:43 round k: 9 new shelves, 18 PG texts of political philosophy and economy; nothing needs Adam.
+- 17:46 round l: 6 new shelves (Grotius, Pufendorf, Bodin, Sidney, Rosmini, Vattel); nothing needs Adam.
+- 17:49 round m: 5 IA volumes (Kant x2, Condorcet, Fontenelle x2); nothing needs Adam.

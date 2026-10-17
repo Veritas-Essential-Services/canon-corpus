@@ -1268,6 +1268,22 @@
    "started": "2026-10-17T17:36:44-05:00",
    "finished": "2026-10-17T17:43:06-05:00",
    "notes": "9 new shelves, 18 PG texts. Bastiat left to lane C (stirling-bastiat)."
+  },
+  {
+   "id": "round-2026-10-17l",
+   "status": "done",
+   "scope": "Natural law and political theory in IA: Grotius, Pufendorf, Bodin, Sidney, Rosmini, Vattel",
+   "started": "2026-10-17T17:43:06-05:00",
+   "finished": "2026-10-17T17:46:24-05:00",
+   "notes": "6 new shelves, 11 IA volumes. Bruno's Heroic Enthusiasts already on lane C's l-williams shelf."
+  },
+  {
+   "id": "round-2026-10-17m",
+   "status": "done",
+   "scope": "Kant addenda, Condorcet, Fontenelle (IA)",
+   "started": "2026-10-17T17:46:24-05:00",
+   "finished": "2026-10-17T17:49:00-05:00",
+   "notes": "5 IA volumes. Charron's Of Wisdom held: the 1729 vol. III scan fails the OCR gate (0.777)."
   }
  ]
 }

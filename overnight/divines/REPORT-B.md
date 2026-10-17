@@ -837,3 +837,12 @@
 ## 2026-10-17 17:43 CDT — Round 2026-10-17k: political philosophy and economy
 - 9 new shelves, 18 PG texts: thomas-more (Utopia, Burnet), campanella, james-harrington (Oceana), bolingbroke, proudhon (2; Tucker attribution inferred), bakunin, kropotkin (3), malthus (6, 1798-1827), david-ricardo (2)
 - Left out: Bastiat (lane C's stirling-bastiat shelf began him), Burke/Paine/Tocqueville (reading-lists shelves), Ideal Commonwealths (duplicates its parts)
+
+## 2026-10-17 17:46 CDT — Round 2026-10-17l: natural law and political theory
+- 6 new shelves, 11 IA volumes: grotius (Campbell 1901), pufendorf (Kennett 1729), jean-bodin (Knolles 1606), algernon-sidney (Discourses 1805, 3 vols), rosmini (Davidson 1882; Origin of Ideas 1883-86, 3 vols), vattel (Chitty-Ingraham 1853)
+- Left out: Bruno (held by lane C's l-williams), Pufendorf's Whole Duty of Man 1735 (no legible title-page year)
+
+## 2026-10-17 17:49 CDT — Round 2026-10-17m: Kant addenda, Condorcet, Fontenelle
+- 5 IA volumes: kant +2 (Meredith's Critique of Aesthetic Judgement 1911; Watson's extracts 1897), condorcet (Outlines 1795), fontenelle (Glanvill 1703; Gardiner 1737)
+- Held: Charron's Of Wisdom (Stanhope 1729; vol. III OCR 0.777, under the 0.78 gate)
+- Fixed: the Rousseau map section's full blurb, shortened by mistake in round i

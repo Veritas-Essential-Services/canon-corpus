@@ -1,0 +1,42 @@
+{
+ "_about": "Emer de Vattel (1714-1767) in English, raw IA OCR: The Law of Nations, or Principles of the Law of Nature applied to the conduct and affairs of nations and sovereigns, from the new edition by Joseph Chitty, with additional notes and references by Edward D. Ingraham (Philadelphia: T. and J. W. Johnson, 1853; entered 1852). The English translation is the anonymous eighteenth-century one that Chitty revised. US public domain. Wanted: the Carnegie translation by Charles G. Fenwick (1916). No uids minted.",
+ "_author": "Emer de Vattel",
+ "_name_words": [
+  "emer",
+  "emerich",
+  "de",
+  "vattel",
+  "m"
+ ],
+ "_surname": [
+  "vattel"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "vattel-chitty-law-of-nations-1853": [
+   "lawofnationsorpr00vattiala",
+   "The Law of Nations, from the new edition by Joseph Chitty, with notes by Edward D. Ingraham (Philadelphia: T. and J. W. Johnson, 1853)",
+   "ed. Joseph Chitty"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "vattel-chitty-law-of-nations-1853": "Chitty"
+ },
+ "_checks": {
+  "vattel-chitty-law-of-nations-1853": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "vattel",
+   "translator_claimed": "Chitty",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853 c1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

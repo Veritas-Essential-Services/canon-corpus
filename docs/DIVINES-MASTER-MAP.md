@@ -8708,7 +8708,7 @@ Shelf: `pipeline/schopenhauer_shelf.json`. Arthur Schopenhauer (1788-1860) in En
 
 ## Kant in English
 
-Shelf: `pipeline/kant_shelf.json`. Immanuel Kant (1724-1804) in English, translator per row. Already held elsewhere and not taken again: Meiklejohn's Critique of Pure Reason (PG 4280) and Abbott's Critique of Practical Reason (PG 5683) on the Adler shelf; Abbott's Fundamental Principles and Metaphysical Elements of Ethics (lane C's tk-abbott); Bernard's Critique of Judgement (PG 48433) and Perpetual Peace (PG 50922) on singles-ideas-2. Clean Gutenberg: Carus's Prolegomena (Open Court, 3rd ed. 1912; the translation's printed copyright is 1902, so US public domain). Raw IA OCR: Max Müller's Critique of Pure Reason (Macmillan, 1881, 2 vols.), Semple's Religion within the Boundary of Pure Reason (Edinburgh, 1838) and Metaphysic of Ethics (3rd ed., ed. Calderwood, 1871), Bax's Prolegomena and Metaphysical Foundations of Natural Science (Bohn, 1883), Hastie's Philosophy of Law (1887) and Kant's Cosmogony (1900), and the Prolegomena in Mahaffy and Bernard's Kant's Critical Philosophy for English Readers, vol. II (1889). No uids minted.
+Shelf: `pipeline/kant_shelf.json`. Immanuel Kant (1724-1804) in English, translator per row. Already held elsewhere and not taken again: Meiklejohn's Critique of Pure Reason (PG 4280) and Abbott's Critique of Practical Reason (PG 5683) on the Adler shelf; Abbott's Fundamental Principles and Metaphysical Elements of Ethics (lane C's tk-abbott); Bernard's Critique of Judgement (PG 48433) and Perpetual Peace (PG 50922) on singles-ideas-2. Clean Gutenberg: Carus's Prolegomena (Open Court, 3rd ed. 1912; the translation's printed copyright is 1902, so US public domain). Raw IA OCR: Max Müller's Critique of Pure Reason (Macmillan, 1881, 2 vols.), Semple's Religion within the Boundary of Pure Reason (Edinburgh, 1838) and Metaphysic of Ethics (3rd ed., ed. Calderwood, 1871), Bax's Prolegomena and Metaphysical Foundations of Natural Science (Bohn, 1883), Hastie's Philosophy of Law (1887) and Kant's Cosmogony (1900), and the Prolegomena in Mahaffy and Bernard's Kant's Critical Philosophy for English Readers, vol. II (1889). No uids minted. Added 2026-10-17: James Creed Meredith's Critique of Aesthetic Judgement (Oxford, 1911), a translation distinct from Bernard's, and John Watson's selections, The Philosophy of Kant as contained in extracts from his own writings (Glasgow, 1897).
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -8721,8 +8721,8 @@ Shelf: `pipeline/kant_shelf.json`. Immanuel Kant (1724-1804) in English, transla
 | The Philosophy of Law: an exposition of the fundamental principles of jurisprudence as the science of right (Edinburgh: T. & T. Clark, 1887) | W. Hastie | `kant-hastie-philosophy-of-law-1887` | have-raw (IA `thephilosophyofl00kantuoft`) |
 | Kant's Cosmogony, as in his Essay on the Retardation of the Rotation of the Earth and his Natural History and Theory of the Heavens (Glasgow: Maclehose, 1900) | W. Hastie | `kant-hastie-cosmogony-1900` | have-raw (IA `kantscosmogonyas00kantuoft`) |
 | Kant's Critical Philosophy for English Readers, new and completed edition, vol. II: the Prolegomena translated, with notes and appendices (London: Macmillan, 1889) | John P. Mahaffy and John H. Bernard | `kant-mahaffy-bernard-prolegomena-1889` | have-raw (IA `KantsCriticalPhilosophyForEnglishReadersVol2`) |
-
-Pending (wishlist): Goerwitz's Dreams of a Spirit-Seer (1900; IA dreamsofspiritse00kant returned HTTP 500); Annette Churton's Kant on Education (1899; the scan found has no readable title page); the 1798-1799 Essays and Treatises and Metaphysic of Morals attributed to John Richardson (title pages unreadable in the OCR).
+| Kant's Critique of Aesthetic Judgement, translated with seven introductory essays, notes, and analytical index (Oxford: Clarendon, 1911) | James Creed Meredith | `kant-meredith-aesthetic-judgement-1911` | have-raw (IA `critiquekantaest00kantuoft`) |
+| The Philosophy of Kant, as contained in extracts from his own writings (Glasgow: James MacLehose, 1897) | John Watson | `kant-watson-philosophy-of-kant-1897` | have-raw (IA `thephilosophyofk00kantuoft`) |
 
 ## Hume
 
@@ -8799,7 +8799,7 @@ Pending (wishlist): Haldane and Ross vol. II (Cambridge, 1912) in a pre-1931 pri
 
 ## Rousseau in English
 
-Shelf: `pipeline/rousseau_shelf.json`. The Confessions (1903) and the Discourse on Inequality (PG 11136).
+Shelf: `pipeline/rousseau_shelf.json`. Jean-Jacques Rousseau (1712-1778): the Confessions, complete in twelve books, from Gutenberg (privately printed for the members of the Aldus Society, London, 1903; translator not named in the book). The Social Contract and Discourses (Cole, PG 46333) are on the Adler shelf, Emile on rousseau-emile, and Eloisa on singles-fiction-3; none is taken again. No uids minted. Added 2026-10-17: the Discourse on Inequality in the anonymous translation of PG 11136, a different translation from the Adler shelf's Social Contract and Discourses (PG 46333).
 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
@@ -9333,6 +9333,82 @@ Shelf: `pipeline/david-ricardo_shelf.json`. Principles (1817) and Letters to Mal
 |---|---|---|---|
 | On the Principles of Political Economy, and Taxation, first edition (London: John Murray, 1817) |  | `ricardo-principles-1817` | have (PG 33310) |
 | Letters of David Ricardo to Thomas Robert Malthus, 1810-1823, ed. James Bonar (Oxford: Clarendon, 1887) |  | `ricardo-letters-to-malthus-1887` | have (PG 36345) |
+
+## Grotius in English
+
+Shelf: `pipeline/grotius_shelf.json`. Campbell's Rights of War and Peace (1901).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Rights of War and Peace, including the Law of Nature and of Nations, with an introduction by David J. Hill (Washington: M. Walter Dunne, 1901) | A. C. Campbell | `grotius-campbell-war-and-peace-1901` | have-raw (IA `rightsofwarpeace00grotuoft`) |
+
+Pending (wishlist): Whewell's 1853 translation with the Latin.
+
+## Pufendorf in English
+
+Shelf: `pipeline/pufendorf_shelf.json`. Kennett's Law of Nature and Nations, 4th ed. (1729).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Of the Law of Nature and Nations, eight books, with Barbeyrac's notes, 4th ed. (London: J. Walthoe and others, 1729) | Basil Kennett | `pufendorf-kennett-law-of-nature-1729` | have-raw (IA `oflawofnaturenat00pufe`) |
+
+## Bodin in English
+
+Shelf: `pipeline/jean-bodin_shelf.json`. Knolles's Six Bookes of a Commonweale (1606).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Six Bookes of a Commonweale, out of the French and Latin copies (London: G. Bishop, 1606) | Richard Knolles | `bodin-knolles-commonweale-1606` | have-raw (IA `sixbookesofcommo00bodi`) |
+
+## Algernon Sidney
+
+Shelf: `pipeline/algernon-sidney_shelf.json`. Discourses on Government (New York, 1805), 3 vols.
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| Discourses on Government, vol. I, with the life, trial and apology (New York: Richard Lee, 1805) |  | `sidney-discourses-1805-v1` | have-raw (IA `discoursesongove01sidn`) |
+| Discourses on Government, vol. II (New York: Richard Lee, 1805) |  | `sidney-discourses-1805-v2` | have-raw (IA `discoursesongove02sidn`) |
+| Discourses on Government, vol. III (New York: Richard Lee, 1805) |  | `sidney-discourses-1805-v3` | have-raw (IA `discoursesongove03sidn`) |
+
+## Rosmini in English
+
+Shelf: `pipeline/rosmini_shelf.json`. Davidson's Philosophical System (1882) and The Origin of Ideas (1883-1886).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| The Philosophical System of Antonio Rosmini-Serbati, with a sketch of the author's life, bibliography, introduction and notes (London: Kegan Paul, Trench, 1882) | Thomas Davidson | `rosmini-davidson-philosophical-system-1882` | have-raw (IA `philosophicalsy00rosmgoog`) |
+| The Origin of Ideas, translated from the fifth Italian edition of the Nuovo Saggio, vol. I (London: Kegan Paul, Trench, 1883) | anonymous | `rosmini-origin-of-ideas-1883-v1` | have-raw (IA `originofideas01rosmuoft`) |
+| The Origin of Ideas, vol. II, new and cheaper edition (London: Kegan Paul, Trench, 1886) | anonymous | `rosmini-origin-of-ideas-1886-v2` | have-raw (IA `originofideas02rosmuoft`) |
+| The Origin of Ideas, vol. III, new and cheaper edition (London: Kegan Paul, Trench, 1886) | anonymous | `rosmini-origin-of-ideas-1886-v3` | have-raw (IA `originofideas03rosmuoft`) |
+
+Pending (wishlist): Psychology (1884-1888).
+
+## Vattel in English
+
+Shelf: `pipeline/vattel_shelf.json`. The Law of Nations, Chitty-Ingraham (Philadelphia, 1853).
+
+| Work | Editor | Slug | Status |
+|---|---|---|---|
+| The Law of Nations, from the new edition by Joseph Chitty, with notes by Edward D. Ingraham (Philadelphia: T. and J. W. Johnson, 1853) | Chitty | `vattel-chitty-law-of-nations-1853` | have-raw (IA `lawofnationsorpr00vattiala`) |
+
+Pending (wishlist): Fenwick's Carnegie translation (1916).
+
+## Condorcet in English
+
+Shelf: `pipeline/condorcet_shelf.json`. Outlines of the Progress of the Human Mind (1795).
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| Outlines of an Historical View of the Progress of the Human Mind, translated from the French (London: J. Johnson, 1795) | anonymous | `condorcet-outlines-progress-1795` | have-raw (IA `outlinesofhistor00cond`) |
+
+## Fontenelle in English
+
+Shelf: `pipeline/fontenelle_shelf.json`. Glanvill (1703) and Gardiner (1737); Gunning's is on singles-ideas-3.
+
+| Work | Translator | Slug | Status |
+|---|---|---|---|
+| A Plurality of Worlds, written in French by the author of the Dialogues of the Dead (London: Tho. Osbourne, 1703) | Joseph Glanvill | `fontenelle-glanvill-plurality-1703` | have-raw (IA `pluralityofworld00font`) |
+| A Week's Conversation on the Plurality of Worlds, to which is added Mr. Addison's Defence of the Newtonian Philosophy (London: A. Bettesworth and others, 1737) | William Gardiner | `fontenelle-gardiner-week-conversation-1737` | have-raw (IA `weeksconversatio00font`) |
 
 ## Perseus census (overflow)
 
@@ -15552,10 +15628,10 @@ Round 59 (2026-10-17), vetoable. Not converted to unit-id JSON; **no uids minted
 | — | — | classical: Glotz (The Aegean Civilization, Ancient Greece at Work, The Greek City), Jardé (The Formation of the Greek People) and Homo (Primitive Italy) are Greek and Roman scholarship, left for Lane B. | — | — | excluded | — |
 | — | — | ia-in.ernet.dli.2015.107710: The Nile and Egyptian Civilization: 'Reissued 1972'; used only as evidence of the translator's name. | — | — | excluded | — |
 
-## Series shelf: the Wisdom of the East (Orient Press and John Murray, 1904-): Lionel Giles's Lieh Tzu and Lao Tzu, Forke's Yang Chu, Cranmer-Byng's Lute of Jade, Feast of Lanterns and Odes, Walsh's Master-Singers of Japan, Hoshino's Kaibara Ekiken, Morrison's Ti-Me-Kun-Dan, Field's Alchemy of Happiness
+## Series shelf: the Wisdom of the East (Orient Press and John Murray, 1904-): Lionel Giles's Lieh Tzu and Lao Tzu, Forke's Yang Chu, Cranmer-Byng's Lute of Jade, Feast of Lanterns, Odes, Hafiz and Sa'di, Walsh, Hoshino, Morrison, Field's al-Ghazali, E. J. Thomas's Buddhist Scriptures and Vedic Hymns, Barnett's Santideva, the Dhammapada, Lederer's Shabistari, Wollaston, Zeb-un-Nissa, Baerlein's Abu'l-Ala, Wortabet, Collins's Bahya, Cohen, Dennis's Burden of Isis, Gorn Old's Shu King, Ku Hung-Ming
 
 Shelf: `pipeline/wisdom-of-the-east_shelf.json` · fetch `python3 pipeline/fetch_shelf.py wisdom-of-the-east` · titles `python3 pipeline/split_shelf_titles.py wisdom-of-the-east`.
-Round 60 (2026-10-17), vetoable. East Asian volumes first; the Indian, Persian, Arabic and Hebrew volumes follow. Not converted to unit-id JSON; **no uids minted**.
+Round 60 (2026-10-17), vetoable: East Asian volumes. Round 61 (2026-10-17), vetoable: Indian, Persian, Arabic, Hebrew and Egyptian volumes. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -15569,13 +15645,33 @@ Round 60 (2026-10-17), vetoable. East Asian volumes first; the Indian, Persian, 
 | `wisdom-of-the-east-way-of-contentment` | Kaibara Ekiken | The Way of Contentment | Ken Hoshino | 1913 | have-raw | IA `wayofcontentment00kaibrich` |
 | `wisdom-of-the-east-ti-me-kun-dan` | Anonymous Tibetan mystery play | Ti-Me-Kun-Dan, Prince of Buddhist Benevolence | Millicent H. Morrison | 1925 | have-raw | IA `in.ernet.dli.2015.106823` |
 | `wisdom-of-the-east-alchemy-of-happiness` | Al-Ghazali | The Alchemy of Happiness | Claud Field | 1910 | have-raw | IA `in.ernet.dli.2015.106793` |
+| `wisdom-of-the-east-buddhist-scriptures` | The Pali Canon (selections) | Buddhist Scriptures | E. J. Thomas | 1913 | have-raw | IA `india.history.resource.112174` |
+| `wisdom-of-the-east-vedic-hymns` | The Rigveda (selections) | Vedic Hymns | Edward J. Thomas | 1923 | have-raw | IA `bwb_W9-DJJ-947` |
+| `wisdom-of-the-east-path-of-light` | Śāntideva | The Path of Light (the Bodhicaryāvatāra) | L. D. Barnett | 1909 | have-raw | IA `pathoflight00sant` |
+| `wisdom-of-the-east-way-of-virtue` | The Dhammapada | The Buddha's 'Way of Virtue' | W. D. C. Wagiswara and K. J. Saunders | 1912 | have-raw | IA `thebuddhaswayof00unknuoft` |
+| `wisdom-of-the-east-rubaiyat-of-hafiz` | Hafiz | The Ruba'iyat of Hafiz | Syed Abdul Majid and L. Cranmer-Byng | 1910 | have-raw | IA `rubaiyatofhafiz00hafi` |
+| `wisdom-of-the-east-secret-rose-garden` | Mahmud Shabistari | The Secret Rose Garden (Gulshan-i Raz) | Florence Lederer | 1920 | have-raw | IA `secretrosegarden00shabiala-2` |
+| `wisdom-of-the-east-rose-garden-of-sadi` | Sa'di | The Rose-Garden of Sa'di (from the Gulistan) | L. Cranmer-Byng | 1910 | have-raw | IA `in.ernet.dli.2015.460102` |
+| `wisdom-of-the-east-scroll-of-wisdom` | Sa'di (attributed) | Sadi's Scroll of Wisdom (Pand-nama) | Arthur N. Wollaston | 1906 | have-raw | IA `scrollofwisdomwi00sadiuoft` |
+| `wisdom-of-the-east-diwan-of-zeb-un-nissa` | Zeb-un-Nissa | The Diwan of Zeb-un-Nissa | Magan Lal and Jessie Duncan Westbrook | 1913 | have-raw | IA `diwanofzebunniss00zebuuoft` |
+| `wisdom-of-the-east-diwan-of-abul-ala` | Abu'l-Ala al-Ma'arri | The Diwan of Abu'l-Ala | Henry Baerlein | 1909 | have | PG 13086 |
+| `wisdom-of-the-east-arabian-wisdom` | Arabic proverbs and sayings | Arabian Wisdom | John Wortabet | 1916 | have | PG 33109 |
+| `wisdom-of-the-east-duties-of-the-heart` | Bahya ibn Paquda | The Duties of the Heart (selections) | Edwin Collins | 1904 | have-raw | IA `india.history.resource.111766` |
+| `wisdom-of-the-east-jewish-proverbs` | Talmud and Midrash (proverbs) | Ancient Jewish Proverbs | A. Cohen | 1911 | have-raw | IA `ancientjewishpro0000cohe` |
+| `wisdom-of-the-east-burden-of-isis` | Ancient Egyptian (the Lamentations of Isis and Nephthys) | The Burden of Isis | James Teackle Dennis | 1910 | have-raw | IA `burdenofisis00isisiala` |
+| `wisdom-of-the-east-book-of-history` | The Shujing (Book of History) | The Classics of Confucius: Book of History | W. Gorn Old | 1906 | have-raw | IA `classicsconfuci00sephgoog` |
+| `wisdom-of-the-east-conduct-of-life` | The Zhongyong (Doctrine of the Mean) | The Conduct of Life, or the Universal Order of Confucius | Ku Hung-Ming | 1906 | have-raw | IA `conductoflifeoru0000unse` |
 | `women-and-wisdom-of-japan` | — | Women and Wisdom of Japan (Murray, 1905; india.history.resource.91283): the Onna Daigaku and its sequel in English, but the title page names only Shingoro Takaishi as writer of the introduction, and the text read so far never says who translated. Held back until the translator is established. | — | — | pending | — |
+| `legends-of-indian-buddhism` | — | Legends of Indian Buddhism (Murray, 1911; india.history.resource.112118): six legends translated from Burnouf's French, but the title page names Winifred Stephens only for the introduction and the text read never says who translated. Held back with Women and Wisdom of Japan until the translator is established. | — | — | pending | — |
 | — | — | musings-of-a-chinese-mystic: Musings of a Chinese Mystic (Lionel Giles, 1906; musingschinesem00zhua): selections from H. A. Giles's 1889 Chuang Tzu translation, which its own note credits and which the giles shelf already holds whole. | — | — | excluded | — |
 | — | — | sayings-of-confucius: Lionel Giles's Sayings of Confucius (1907) is already on the giles shelf (PG 46389). | — | — | excluded | — |
-| — | — | held-in-singles: Already held on lane C's singles shelves: Gunn's Instruction of Ptah-hotep (PG 30508, singles-ideas), Bronnle's Awakening of the Soul (PG 34572, singles-ideas) and Ivan Chen's Book of Filial Duty (PG 75878, singles-ideas-3). | — | — | excluded | — |
+| — | — | held-in-singles: Already held on lane C's singles shelves: Gunn's Instruction of Ptah-hotep (PG 30508, singles-ideas), Bronnle's Awakening of the Soul (PG 34572, singles-ideas) and Ivan Chen's Book of Filial Duty (PG 75878, singles-ideas-3), and A. Hart Edwards's Bustan of Sadi (1911; PG 60471, singles-plays-poetry-2). | — | — | excluded | — |
 | — | — | confessions-of-al-ghazzali: Claud Field's Confessions of Al Ghazzali (1909) is already on the claud-field shelf. | — | — | excluded | — |
 | — | — | not-translations: Studies rather than translations, so off a translators' shelf: Yone Noguchi's Spirit of Japanese Poetry (1914, his lectures), E. V. Gatenby's Cloud-Men of Yamato (1929, 'an outline of mysticism in Japanese literature'), and M. A. Murray's Ancient Egyptian Legends (1913), which she says she 'retold ... in my own way'. | — | — | excluded | — |
 | — | — | wisdom-of-the-apocrypha: The Wisdom of the Apocrypha (1910) uses the Revised Version text (its prefatory note says so), so it is not a new translation. | — | — | excluded | — |
+| — | — | religion-of-the-koran: Wollaston's Religion of the Koran (1904): its Koran passages are 'taken from the Translation by the late Professor E. H. Palmer' (Sacred Books of the East, 1880), which the palmer shelf holds. | — | — | excluded | — |
+| — | — | persian-mystics-davis: F. Hadland Davis's Persian Mystics: Rumi (1907) and Jami (1908) (PG 45159, 45158): anthologies of other men's translations by permission (Whinfield and Nicholson in the Rumi volume, FitzGerald and others in the Jami), not new translations. | — | — | excluded | — |
+| — | — | studies: Authored studies rather than translations: Herbert Baynes's Way of the Buddha (1906, 'the treatise'), L. D. Barnett's Brahma-Knowledge (1907, 'an outline of the philosophy of the Vedanta') and Heart of India (1908, 'sketches'), and S. A. Kapadia's Teachings of Zoroaster (1905, 'by S. A. Kapadia'). Eric Hammond's Splendour of God (1911) is a compilation of Baha'i extracts whose front matter names no translator. | — | — | excluded | — |
 
 ## Arthur Ransome as translator (Gourmont; Old Peter's Russian Tales)
 

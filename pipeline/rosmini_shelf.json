@@ -1,0 +1,88 @@
+{
+ "_about": "Antonio Rosmini-Serbati (1797-1855), the philosophical works in English, raw IA OCR: Thomas Davidson's The Philosophical System of Antonio Rosmini-Serbati, translated with a life, bibliography, introduction and notes (Kegan Paul, Trench, 1882), and The Origin of Ideas, translated from the fifth Italian edition of the Nuovo Saggio (Kegan Paul, Trench: vol. I 1883, vols. II-III in the new and cheaper edition of 1886; translator unnamed). His devotional and religious writings are left for the divines lane. US public domain. Wanted: Psychology (3 vols., 1884-1888). No uids minted.",
+ "_author": "Antonio Rosmini-Serbati",
+ "_name_words": [
+  "antonio",
+  "rosmini",
+  "serbati"
+ ],
+ "_surname": [
+  "rosmini"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rosmini-davidson-philosophical-system-1882": [
+   "philosophicalsy00rosmgoog",
+   "The Philosophical System of Antonio Rosmini-Serbati, with a sketch of the author's life, bibliography, introduction and notes (London: Kegan Paul, Trench, 1882)",
+   "tr. Thomas Davidson"
+  ],
+  "rosmini-origin-of-ideas-1883-v1": [
+   "originofideas01rosmuoft",
+   "The Origin of Ideas, translated from the fifth Italian edition of the Nuovo Saggio, vol. I (London: Kegan Paul, Trench, 1883)",
+   "tr. anonymous"
+  ],
+  "rosmini-origin-of-ideas-1886-v2": [
+   "originofideas02rosmuoft",
+   "The Origin of Ideas, vol. II, new and cheaper edition (London: Kegan Paul, Trench, 1886)",
+   "tr. anonymous"
+  ],
+  "rosmini-origin-of-ideas-1886-v3": [
+   "originofideas03rosmuoft",
+   "The Origin of Ideas, vol. III, new and cheaper edition (London: Kegan Paul, Trench, 1886)",
+   "tr. anonymous"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "rosmini-davidson-philosophical-system-1882": "Davidson"
+ },
+ "_checks": {
+  "rosmini-davidson-philosophical-system-1882": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "rosmini",
+   "translator_claimed": "Davidson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rosmini-origin-of-ideas-1883-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "rosmini",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rosmini-origin-of-ideas-1886-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "rosmini",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rosmini-origin-of-ideas-1886-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "rosmini",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

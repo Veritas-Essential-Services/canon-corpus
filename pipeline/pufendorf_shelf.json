@@ -1,0 +1,43 @@
+{
+ "_about": "Samuel Pufendorf (1632-1694) in English, raw IA OCR: Of the Law of Nature and Nations, eight books, done into English by Basil Kennett, with all Barbeyrac's notes and his prefatory discourse (the discourse done into English by Mr. Carew), 4th ed., carefully corrected (London: J. Walthoe and others, 1729). US public domain. Held: the 1735 Whole Duty of Man according to the Law of Nature (wholedutyofmanac00puferich; the scan's title-page year was not found). No uids minted.",
+ "_author": "Samuel Pufendorf",
+ "_name_words": [
+  "samuel",
+  "baron",
+  "von",
+  "pufendorf",
+  "puffendorf"
+ ],
+ "_surname": [
+  "pufendorf",
+  "puffendorf"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pufendorf-kennett-law-of-nature-1729": [
+   "oflawofnaturenat00pufe",
+   "Of the Law of Nature and Nations, eight books, with Barbeyrac's notes, 4th ed. (London: J. Walthoe and others, 1729)",
+   "tr. Basil Kennett"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "pufendorf-kennett-law-of-nature-1729": "KENNETT"
+ },
+ "_checks": {
+  "pufendorf-kennett-law-of-nature-1729": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "pufendorf",
+   "translator_claimed": "KENNETT",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1729",
+   "ia_date": "1729",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
