@@ -6828,6 +6828,71 @@ Shelf: `pipeline/harold-bindloss_shelf.json` (2026-10-17; added at the coordinat
 | Carson of Red River | have | PG 67051, `hbindloss-carson-of-red-river` (2428 units) |
 | Sunshine and snow | have | PG 69277, `hbindloss-sunshine-and-snow` (266 units) |
 
+## E. Phillips Oppenheim
+
+Shelf: `pipeline/e-phillips-oppenheim_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Spy and intrigue novels. Every English text under the name at Gutenberg that no other shelf holds (58 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Malefactor | have | PG 1314, `epoppenheim-malefactor` (2719 units) |
+| The Kingdom of the Blind | have | PG 1442, `epoppenheim-kingdom-of-the-blind` (2270 units) |
+| The Illustrious Prince | have | PG 1447, `epoppenheim-illustrious-prince` (2477 units) |
+| The Yellow Crayon | have | PG 1849, `epoppenheim-yellow-crayon` (3091 units) |
+| Peter Ruff and the Double Four | have | PG 1976, `epoppenheim-peter-ruff-and-the-double-four` (3888 units) |
+| Havoc | have | PG 2287, `epoppenheim-havoc` (2591 units) |
+| The Devil's Paw | have | PG 2767, `epoppenheim-devils-paw` (1986 units) |
+| Jeanne of the Marshes | have | PG 4233, `epoppenheim-jeanne-of-the-marshes` (2549 units) |
+| The Tempting of Tavernake | have | PG 5091, `epoppenheim-tempting-of-tavernake` (2966 units) |
+| The Evil Shepherd | have | PG 5743, `epoppenheim-evil-shepherd` (2269 units) |
+| The Great Impersonation | have | PG 5815, `epoppenheim-great-impersonation` (2384 units) |
+| The Mischief-Maker | have | PG 8878, `epoppenheim-mischief-maker` (2887 units) |
+| An Amiable Charlatan | have | PG 9664, `epoppenheim-an-amiable-charlatan` (2007 units) |
+| The Pawns Count | have | PG 9836, `epoppenheim-pawns-count` (2492 units) |
+| The Avenger | have | PG 9871, `epoppenheim-avenger` (2753 units) |
+| The Great Secret | have | PG 9872, `epoppenheim-great-secret` (2819 units) |
+| The Box with Broken Seals | have | PG 9923, `epoppenheim-box-with-broken-seals` (2336 units) |
+| The Cinema Murder | have | PG 10371, `epoppenheim-cinema-murder` (2012 units) |
+| The Double Traitor | have | PG 10534, `epoppenheim-double-traitor` (2022 units) |
+| The Governors | have | PG 10537, `epoppenheim-governors` (1877 units) |
+| The Profiteers | have | PG 10575, `epoppenheim-profiteers` (1991 units) |
+| The Great Prince Shan | have | PG 13123, `epoppenheim-great-prince-shan` (1941 units) |
+| The Lost Ambassador; Or, The Search For The Missing Delora | have | PG 13369, `epoppenheim-lost-ambassador` (2762 units) |
+| The Lighted Way | have | PG 15893, `epoppenheim-lighted-way` (2947 units) |
+| A Prince of Sinners | have | PG 16971, `epoppenheim-a-prince-of-sinners` (3197 units) |
+| The Betrayal | have | PG 16998, `epoppenheim-betrayal` (2719 units) |
+| The Survivor | have | PG 17040, `epoppenheim-survivor` (1839 units) |
+| A Lost Leader | have | PG 17063, `epoppenheim-a-lost-leader` (2478 units) |
+| The Double Life Of Mr. Alfred Burton | have | PG 17103, `epoppenheim-double-life-of-mr-alfred-burton` (1919 units) |
+| The Black Box | have | PG 17197, `epoppenheim-black-box` (3736 units) |
+| A People's Man | have | PG 17272, `epoppenheim-a-peoples-man` (2409 units) |
+| Nobody's Man | have | PG 17356, `epoppenheim-nobodys-man` (2176 units) |
+| A Maker of History | have | PG 19341, `epoppenheim-a-maker-of-history` (3009 units) |
+| Mr. Grex of Monte Carlo | have | PG 20611, `epoppenheim-mr-grex-of-monte-carlo` (2763 units) |
+| Anna the Adventuress | have | PG 26596, `epoppenheim-anna-the-adventuress` (2325 units) |
+| The New Tenant | have | PG 27998, `epoppenheim-new-tenant` (1711 units) |
+| The Double Four | have | PG 28091, `epoppenheim-double-four` (2002 units) |
+| The Master Mummer | have | PG 28161, `epoppenheim-master-mummer` (2516 units) |
+| The Traitors | have | PG 29162, `epoppenheim-traitors` (2827 units) |
+| Berenice | have | PG 30542, `epoppenheim-berenice` (781 units) |
+| The Moving Finger | have | PG 30811, `epoppenheim-moving-finger` (2396 units) |
+| A Monk of Cruta | have | PG 31535, `epoppenheim-a-monk-of-cruta` (1453 units) |
+| Jacob's Ladder | have | PG 32732, `epoppenheim-jacobs-ladder` (2222 units) |
+| The Missioner | have | PG 33546, `epoppenheim-missioner` (2587 units) |
+| To Win the Love He Sought The Great Awakening: Volume 3 | have | PG 33988, `epoppenheim-to-win-the-love-he-sought-the-great-awakening` (2058 units) |
+| The Hillman | have | PG 34035, `epoppenheim-hillman` (2788 units) |
+| The Golden Web | have | PG 34945, `epoppenheim-golden-web` (1890 units) |
+| The Wicked Marquis | have | PG 35361, `epoppenheim-wicked-marquis` (2494 units) |
+| Mysterious Mr. Sabin | have | PG 35661, `epoppenheim-mysterious-mr-sabin` (3291 units) |
+| Mr. Marx's Secret | have | PG 39018, `epoppenheim-mr-marxs-secret` (2206 units) |
+| Master of Men | have | PG 40455, `epoppenheim-master-of-men` (455 units) |
+| The Yellow House; Master of Men | have | PG 41402, `epoppenheim-yellow-house` (1893 units) |
+| Stolen Idols | have | PG 45636, `epoppenheim-stolen-idols` (2267 units) |
+| Aaron Rodd, Diviner | have | PG 51076, `epoppenheim-aaron-rodd-diviner` (2023 units) |
+| Ambrose Lavendale, Diplomat | have | PG 55760, `epoppenheim-ambrose-lavendale-diplomat` (1924 units) |
+| False Evidence | have | PG 55798, `epoppenheim-false-evidence` (1745 units) |
+| The Seven Conundrums | have | PG 59198, `epoppenheim-seven-conundrums` (1396 units) |
+| The mystery road | have | PG 77836, `epoppenheim-mystery-road` (2352 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

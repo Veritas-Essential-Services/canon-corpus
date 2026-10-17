@@ -1,0 +1,828 @@
+{
+ "_about": "E. Phillips Oppenheim's spy and intrigue novels: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "E. Phillips Oppenheim",
+ "_name_words": [
+  "oppenheim"
+ ],
+ "_surname": [
+  "e. phillips oppenheim"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "epoppenheim-malefactor": [
+   1314,
+   "The Malefactor"
+  ],
+  "epoppenheim-kingdom-of-the-blind": [
+   1442,
+   "The Kingdom of the Blind"
+  ],
+  "epoppenheim-illustrious-prince": [
+   1447,
+   "The Illustrious Prince"
+  ],
+  "epoppenheim-yellow-crayon": [
+   1849,
+   "The Yellow Crayon"
+  ],
+  "epoppenheim-peter-ruff-and-the-double-four": [
+   1976,
+   "Peter Ruff and the Double Four"
+  ],
+  "epoppenheim-havoc": [
+   2287,
+   "Havoc"
+  ],
+  "epoppenheim-devils-paw": [
+   2767,
+   "The Devil's Paw"
+  ],
+  "epoppenheim-jeanne-of-the-marshes": [
+   4233,
+   "Jeanne of the Marshes"
+  ],
+  "epoppenheim-tempting-of-tavernake": [
+   5091,
+   "The Tempting of Tavernake"
+  ],
+  "epoppenheim-evil-shepherd": [
+   5743,
+   "The Evil Shepherd"
+  ],
+  "epoppenheim-great-impersonation": [
+   5815,
+   "The Great Impersonation"
+  ],
+  "epoppenheim-mischief-maker": [
+   8878,
+   "The Mischief-Maker"
+  ],
+  "epoppenheim-an-amiable-charlatan": [
+   9664,
+   "An Amiable Charlatan"
+  ],
+  "epoppenheim-pawns-count": [
+   9836,
+   "The Pawns Count"
+  ],
+  "epoppenheim-avenger": [
+   9871,
+   "The Avenger",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-great-secret": [
+   9872,
+   "The Great Secret",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-box-with-broken-seals": [
+   9923,
+   "The Box with Broken Seals"
+  ],
+  "epoppenheim-cinema-murder": [
+   10371,
+   "The Cinema Murder"
+  ],
+  "epoppenheim-double-traitor": [
+   10534,
+   "The Double Traitor"
+  ],
+  "epoppenheim-governors": [
+   10537,
+   "The Governors"
+  ],
+  "epoppenheim-profiteers": [
+   10575,
+   "The Profiteers"
+  ],
+  "epoppenheim-great-prince-shan": [
+   13123,
+   "The Great Prince Shan"
+  ],
+  "epoppenheim-lost-ambassador": [
+   13369,
+   "The Lost Ambassador; Or, The Search For The Missing Delora",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-lighted-way": [
+   15893,
+   "The Lighted Way",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-a-prince-of-sinners": [
+   16971,
+   "A Prince of Sinners",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-betrayal": [
+   16998,
+   "The Betrayal",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-survivor": [
+   17040,
+   "The Survivor",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-a-lost-leader": [
+   17063,
+   "A Lost Leader"
+  ],
+  "epoppenheim-double-life-of-mr-alfred-burton": [
+   17103,
+   "The Double Life Of Mr. Alfred Burton"
+  ],
+  "epoppenheim-black-box": [
+   17197,
+   "The Black Box",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-a-peoples-man": [
+   17272,
+   "A People's Man"
+  ],
+  "epoppenheim-nobodys-man": [
+   17356,
+   "Nobody's Man"
+  ],
+  "epoppenheim-a-maker-of-history": [
+   19341,
+   "A Maker of History",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-mr-grex-of-monte-carlo": [
+   20611,
+   "Mr. Grex of Monte Carlo",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-anna-the-adventuress": [
+   26596,
+   "Anna the Adventuress",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-new-tenant": [
+   27998,
+   "The New Tenant",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-double-four": [
+   28091,
+   "The Double Four",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-master-mummer": [
+   28161,
+   "The Master Mummer"
+  ],
+  "epoppenheim-traitors": [
+   29162,
+   "The Traitors"
+  ],
+  "epoppenheim-berenice": [
+   30542,
+   "Berenice"
+  ],
+  "epoppenheim-moving-finger": [
+   30811,
+   "The Moving Finger",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-a-monk-of-cruta": [
+   31535,
+   "A Monk of Cruta"
+  ],
+  "epoppenheim-jacobs-ladder": [
+   32732,
+   "Jacob's Ladder"
+  ],
+  "epoppenheim-missioner": [
+   33546,
+   "The Missioner"
+  ],
+  "epoppenheim-to-win-the-love-he-sought-the-great-awakening": [
+   33988,
+   "To Win the Love He Sought The Great Awakening: Volume 3",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-hillman": [
+   34035,
+   "The Hillman"
+  ],
+  "epoppenheim-golden-web": [
+   34945,
+   "The Golden Web"
+  ],
+  "epoppenheim-wicked-marquis": [
+   35361,
+   "The Wicked Marquis"
+  ],
+  "epoppenheim-mysterious-mr-sabin": [
+   35661,
+   "Mysterious Mr. Sabin",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-mr-marxs-secret": [
+   39018,
+   "Mr. Marx's Secret",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-master-of-men": [
+   40455,
+   "Master of Men"
+  ],
+  "epoppenheim-yellow-house": [
+   41402,
+   "The Yellow House; Master of Men"
+  ],
+  "epoppenheim-stolen-idols": [
+   45636,
+   "Stolen Idols"
+  ],
+  "epoppenheim-aaron-rodd-diviner": [
+   51076,
+   "Aaron Rodd, Diviner",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-ambrose-lavendale-diplomat": [
+   55760,
+   "Ambrose Lavendale, Diplomat"
+  ],
+  "epoppenheim-false-evidence": [
+   55798,
+   "False Evidence",
+   {
+    "contents_only": true
+   }
+  ],
+  "epoppenheim-seven-conundrums": [
+   59198,
+   "The Seven Conundrums"
+  ],
+  "epoppenheim-mystery-road": [
+   77836,
+   "The mystery road"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "epoppenheim-malefactor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-kingdom-of-the-blind": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-illustrious-prince": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-yellow-crayon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-peter-ruff-and-the-double-four": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-havoc": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-devils-paw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-jeanne-of-the-marshes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-tempting-of-tavernake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-evil-shepherd": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-great-impersonation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-mischief-maker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-an-amiable-charlatan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-pawns-count": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-avenger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-great-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-box-with-broken-seals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-cinema-murder": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-double-traitor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-governors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-profiteers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-great-prince-shan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-lost-ambassador": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-lighted-way": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-a-prince-of-sinners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-betrayal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-survivor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-a-lost-leader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-double-life-of-mr-alfred-burton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-black-box": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-a-peoples-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-nobodys-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-a-maker-of-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-mr-grex-of-monte-carlo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-anna-the-adventuress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-new-tenant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-double-four": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-master-mummer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-traitors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-berenice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-moving-finger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-a-monk-of-cruta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-jacobs-ladder": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-missioner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-to-win-the-love-he-sought-the-great-awakening": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-hillman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-golden-web": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-wicked-marquis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-mysterious-mr-sabin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-mr-marxs-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-master-of-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-yellow-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-stolen-idols": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-aaron-rodd-diviner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-ambrose-lavendale-diplomat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-false-evidence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-seven-conundrums": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "epoppenheim-mystery-road": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "e. phillips oppenheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
