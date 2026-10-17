@@ -1,5 +1,5 @@
 {
- "_about": "Jeremy Bentham (1748-1832), raw IA OCR: An Introduction to the Principles of Morals and Legislation (Oxford: Clarendon Press, 1907), a reprint of the 1823 edition (first printed 1780, published 1789). US public domain. No uids minted.",
+ "_about": "Jeremy Bentham (1748-1832), raw IA OCR: An Introduction to the Principles of Morals and Legislation (Oxford: Clarendon Press, 1907), a reprint of the 1823 edition (first printed 1780, published 1789). Added in round ac: A Fragment on Government, ed. F. C. Montague (Oxford: Clarendon Press, 1891). US public domain. No uids minted.",
  "_author": "Jeremy Bentham",
  "_name_words": [
   "jeremy",
@@ -14,6 +14,10 @@
   "bentham-principles-of-morals-1907": [
    "anintroductiont08bentgoog",
    "An Introduction to the Principles of Morals and Legislation, new edition, corrected by the author (Oxford: Clarendon Press, 1907)"
+  ],
+  "bentham-fragment-on-government-1891": [
+   "afragmentongover00bentuoft",
+   "A Fragment on Government, ed. F. C. Montague (Oxford: Clarendon Press, 1891)"
   ]
  },
  "_excluded": {},
@@ -26,6 +30,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1907",
    "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bentham-fragment-on-government-1891": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "bentham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
