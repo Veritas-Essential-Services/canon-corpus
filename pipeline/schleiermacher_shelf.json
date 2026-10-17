@@ -1,0 +1,39 @@
+{
+ "_about": "Friedrich Schleiermacher (1768-1834): On Religion, speeches to its cultured despisers, translated with an introduction by John Oman (London: Kegan Paul, Trench, Trübner, 1893), raw IA OCR. Not Sir Charles Oman (oman shelf). US public domain. No uids minted.",
+ "_author": "Friedrich Schleiermacher",
+ "_name_words": [
+  "friedrich",
+  "schleiermacher"
+ ],
+ "_surname": [
+  "schleiermacher"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "schleiermacher-oman-on-religion-1893": [
+   "onreligionspeech00schluoft",
+   "On Religion: speeches to its cultured despisers (London: Kegan Paul, 1893)",
+   "tr. John Oman"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "schleiermacher-oman-on-religion-1893": "OMAN"
+ },
+ "_checks": {
+  "schleiermacher-oman-on-religion-1893": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "schleiermacher",
+   "translator_claimed": "OMAN",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
