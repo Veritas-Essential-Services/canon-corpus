@@ -1170,3 +1170,6 @@
 
 ## 2026-10-17 18:20 CDT — westerman: done
 - westerman: new shelf, 47 Gutenberg books, 74,910 units, 145 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-17 18:20 CDT — brereton: done
+- brereton: new shelf, 20 Gutenberg books, 31,295 units, 10 ~2 ids; verify 0 mismatches, 0 rights flags.

@@ -5718,6 +5718,33 @@ Shelf: `pipeline/westerman_shelf.json` (2026-10-17; added at the coordinator's r
 | The boys of the "Puffin" | have | PG 74975, `pwesterman-boys-of-the-puffin` (1102 units) |
 | 'Gainst the might of Spain | have | PG 78984, `pwesterman-gainst-the-might-of-spain` (1382 units) |
 
+## F. S. Brereton
+
+Shelf: `pipeline/brereton_shelf.json` (2026-10-17; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). War and adventure stories for boys. Every English text under the name at Gutenberg that no other shelf holds (20 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| With Joffre at Verdun: A Story of the Western Front | have | PG 30791, `brereton-with-joffre-at-verdun` (1020 units) |
+| With Wolseley to Kumasi: A Tale of the First Ashanti War | have | PG 32910, `brereton-with-wolseley-to-kumasi` (1383 units) |
+| With Rifle and Bayonet: A Story of the Boer War | have | PG 32918, `brereton-with-rifle-and-bayonet` (1939 units) |
+| A Gallant Grenadier: A Tale of the Crimean War | have | PG 32930, `brereton-a-gallant-grenadier` (1609 units) |
+| A Boy of the Dominion: A Tale of Canadian Immigration | have | PG 38206, `brereton-a-boy-of-the-dominion` (1477 units) |
+| Indian and Scout: A Tale of the Gold Rush to California | have | PG 40467, `brereton-indian-and-scout` (1682 units) |
+| The Great Airship: A Tale of Adventure. | have | PG 41176, `brereton-great-airship` (1687 units) |
+| Under the Star-Spangled Banner: A Tale of the Spanish-American War | have | PG 41425, `brereton-under-the-star-spangled-banner` (1799 units) |
+| Roger the Bold: A Tale of the Conquest of Mexico | have | PG 41757, `brereton-roger-the-bold` (1660 units) |
+| Under the Chinese Dragon: A Tale of Mongolia | have | PG 41758, `brereton-under-the-chinese-dragon` (1615 units) |
+| The Hero of Panama: A Tale of the Great Canal | have | PG 41767, `brereton-hero-of-panama` (1617 units) |
+| King of Ranleigh: A School Story | have | PG 42862, `brereton-king-of-ranleigh` (1998 units) |
+| In the grip of the Mullah: A tale of adventure in Somaliland | have | PG 42874, `brereton-in-the-grip-of-the-mullah` (1379 units) |
+| On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris | have | PG 43081, `brereton-on-the-road-to-bagdad` (1512 units) |
+| How Canada Was Won: A Tale of Wolfe and Quebec | have | PG 43364, `brereton-how-canada-was-won` (1453 units) |
+| With Wellington in Spain: A Story of the Peninsula | have | PG 44055, `brereton-with-wellington-in-spain` (1676 units) |
+| With the Dyaks of Borneo: A Tale of the Head Hunters | have | PG 44484, `brereton-with-the-dyaks-of-borneo` (1963 units) |
+| Jones of the 64th: A Tale of the Battles of Assaye and Laswaree | have | PG 46313, `brereton-jones-of-the-64th` (1339 units) |
+| Under Foch's Command: A Tale of the Americans in France | have | PG 64236, `brereton-under-fochs-command` (1125 units) |
+| Roughriders of the Pampas: A Tale of Ranch Life in South America | have | PG 65656, `brereton-roughriders-of-the-pampas` (1362 units) |
+
 ## Fables (existing repo work — cross-referenced, located by search not assumption)
 
 Searched 2026-10-02 (`git grep -il -E 'fable|aesop'` over the whole tree, then every remote branch): **no fables shelf, section or ingest exists in canon-corpus.** The only hits are KJV verses containing "fables", the `fable_review` provenance field, and a note in `pipeline/fetch_sources.py` that Chesterton-introduced Aesop was excluded from his shelf. Nothing is duplicated and no uids are touched.

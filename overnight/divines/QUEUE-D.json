@@ -2381,6 +2381,14 @@
       "started": "2026-10-17T18:20:54-05:00",
       "finished": "2026-10-17T18:20:54-05:00",
       "notes": "westerman: new shelf, 47 Gutenberg books, 74,910 units, 145 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "brereton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-17; Adam may veto) — F. S. Brereton; no minting",
+      "status": "done",
+      "started": "2026-10-17T18:20:54-05:00",
+      "finished": "2026-10-17T18:20:55-05:00",
+      "notes": "brereton: new shelf, 20 Gutenberg books, 31,295 units, 10 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

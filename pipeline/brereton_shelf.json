@@ -1,0 +1,321 @@
+{
+ "_about": "F. S. Brereton's war and adventure stories for boys: every English text under his name at Gutenberg (catalogue: Brereton 1872-1957). Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "F. S. Brereton",
+ "_name_words": [
+  "brereton"
+ ],
+ "_surname": [
+  "f. s. brereton",
+  "captain f. s. brereton",
+  "frederick sadleir brereton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "brereton-with-joffre-at-verdun": [
+   30791,
+   "With Joffre at Verdun: A Story of the Western Front",
+   {
+    "contents_only": true
+   }
+  ],
+  "brereton-with-wolseley-to-kumasi": [
+   32910,
+   "With Wolseley to Kumasi: A Tale of the First Ashanti War"
+  ],
+  "brereton-with-rifle-and-bayonet": [
+   32918,
+   "With Rifle and Bayonet: A Story of the Boer War"
+  ],
+  "brereton-a-gallant-grenadier": [
+   32930,
+   "A Gallant Grenadier: A Tale of the Crimean War"
+  ],
+  "brereton-a-boy-of-the-dominion": [
+   38206,
+   "A Boy of the Dominion: A Tale of Canadian Immigration",
+   {
+    "contents_only": true
+   }
+  ],
+  "brereton-indian-and-scout": [
+   40467,
+   "Indian and Scout: A Tale of the Gold Rush to California",
+   {
+    "contents_only": true
+   }
+  ],
+  "brereton-great-airship": [
+   41176,
+   "The Great Airship: A Tale of Adventure."
+  ],
+  "brereton-under-the-star-spangled-banner": [
+   41425,
+   "Under the Star-Spangled Banner: A Tale of the Spanish-American War",
+   {
+    "contents_only": true
+   }
+  ],
+  "brereton-roger-the-bold": [
+   41757,
+   "Roger the Bold: A Tale of the Conquest of Mexico",
+   {
+    "contents_only": true
+   }
+  ],
+  "brereton-under-the-chinese-dragon": [
+   41758,
+   "Under the Chinese Dragon: A Tale of Mongolia",
+   {
+    "contents_only": true
+   }
+  ],
+  "brereton-hero-of-panama": [
+   41767,
+   "The Hero of Panama: A Tale of the Great Canal",
+   {
+    "contents_only": true
+   }
+  ],
+  "brereton-king-of-ranleigh": [
+   42862,
+   "King of Ranleigh: A School Story"
+  ],
+  "brereton-in-the-grip-of-the-mullah": [
+   42874,
+   "In the grip of the Mullah: A tale of adventure in Somaliland",
+   {
+    "contents_only": true
+   }
+  ],
+  "brereton-on-the-road-to-bagdad": [
+   43081,
+   "On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris",
+   {
+    "contents_only": true
+   }
+  ],
+  "brereton-how-canada-was-won": [
+   43364,
+   "How Canada Was Won: A Tale of Wolfe and Quebec",
+   {
+    "contents_only": true
+   }
+  ],
+  "brereton-with-wellington-in-spain": [
+   44055,
+   "With Wellington in Spain: A Story of the Peninsula",
+   {
+    "contents_only": true
+   }
+  ],
+  "brereton-with-the-dyaks-of-borneo": [
+   44484,
+   "With the Dyaks of Borneo: A Tale of the Head Hunters",
+   {
+    "contents_only": true
+   }
+  ],
+  "brereton-jones-of-the-64th": [
+   46313,
+   "Jones of the 64th: A Tale of the Battles of Assaye and Laswaree",
+   {
+    "contents_only": true
+   }
+  ],
+  "brereton-under-fochs-command": [
+   64236,
+   "Under Foch's Command: A Tale of the Americans in France",
+   {
+    "contents_only": true
+   }
+  ],
+  "brereton-roughriders-of-the-pampas": [
+   65656,
+   "Roughriders of the Pampas: A Tale of Ranch Life in South America"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "brereton-with-joffre-at-verdun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-with-wolseley-to-kumasi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-with-rifle-and-bayonet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-a-gallant-grenadier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-a-boy-of-the-dominion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-indian-and-scout": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-great-airship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-under-the-star-spangled-banner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-roger-the-bold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-under-the-chinese-dragon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-hero-of-panama": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-king-of-ranleigh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-in-the-grip-of-the-mullah": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-on-the-road-to-bagdad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-how-canada-was-won": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-with-wellington-in-spain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-with-the-dyaks-of-borneo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-jones-of-the-64th": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-under-fochs-command": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "brereton-roughriders-of-the-pampas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "f. s. brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
