@@ -785,3 +785,11 @@
 - Aristotle, 9 volumes: Jowett's own Politics (1885, 2 vols), Jebb's Rhetoric (1909), Poste's Posterior Analytics (1850) and Constitution of Athens (1891), Twining's Treatise on Poetry (1812, 2 vols), Ogle's Parts of Animals (1882) and Youth and Old Age (1897).
 - Oxford vol. III (1931) stays out: under the US rule it is protected until 2027-01-01. The IA item catalogued as the 1923 Meteorologica is the whole of vol. III.
 - Map correction: the Adler shelf's PG 6762 is Ellis's Politics, not Jowett's (already flagged in DIGEST-B).
+
+## 2026-10-17 16:53 CDT — The philosophical canon, first pass: 11 shelves, 55 volumes
+- Hegel (new shelf hegel-translations, named apart from the reading-lists thread's hegel shelf): Wallace's Logic and Philosophy of Mind, Osmaston's Fine Art (4), Haldane and Simson's History of Philosophy (3, first printings), Sibree's Philosophy of History, Baillie's Phenomenology (2), Speirs and Sanderson's Philosophy of Religion (3).
+- Schopenhauer: Haldane and Kemp's World as Will and Idea (3).
+- Kant: Carus's and Bax's and Mahaffy-Bernard's Prolegomena, Max Müller's Critique (2), Semple's Religion and Metaphysic of Ethics, Hastie's Philosophy of Law and Cosmogony.
+- Hume's Philosophical Works (1826, 4 vols.); Fraser's Berkeley (1901, 4 vols.); Molesworth's Hobbes vols. 1-7; Bacon's Essays, New Atlantis and Valerius Terminus.
+- Machiavelli: Detmold's Writings (1882, 4) and the History of Florence; Descartes: Haldane and Ross vol. I (1911) and the 1649 Discourse; Rousseau's Confessions (1903); Locke's Essay vol. 2 and Quick's Some Thoughts Concerning Education.
+- Not taken: anything already on the Adler, singles, tk-abbott, elwes or bailey-saunders shelves; Huggard's Theodicy (PG 17147: first published 1951, not US public domain); Gutenberg's Haldane History of Philosophy (set from a 1955 reprint; the 1892-1896 printings are used instead); Haldane and Ross vol. II (only 1931 and 1934 reprints found).
